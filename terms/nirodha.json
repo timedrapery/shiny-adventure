@@ -1,6 +1,7 @@
 {
   "term": "nirodha",
   "normalized_term": "nirodha",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "stopping, blocking, quenching",
   "preferred_translation": "quenching",
@@ -12,6 +13,18 @@
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
   "notes": "Project preference is quenching rather than cessation, reflecting the sense of extinguishing a fire or bringing a process to stillness.",
+  "context_rules": [
+    {
+      "context": "In core doctrinal contexts, especially the four noble truths",
+      "rendering": "quenching",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a plainer English verb is needed",
+      "rendering": "ending",
+      "notes": "Acceptable alternate."
+    }
+  ],
   "related_terms": [
     "dukkha",
     "taṇhā",
@@ -21,6 +34,10 @@
     {
       "pali": "dukkha-nirodha",
       "translation": "quenching of dissatisfaction"
+    },
+    {
+      "pali": "taṇhānirodha",
+      "translation": "quenching of craving"
     }
   ],
   "tags": [
