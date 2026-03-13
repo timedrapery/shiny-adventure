@@ -1,0 +1,163 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Pali Term Record",
+  "description": "Schema for a Pāli term entry in the shiny-adventure translation dataset.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "term",
+    "normalized_term",
+    "part_of_speech",
+    "preferred_translation"
+  ],
+  "properties": {
+    "term": {
+      "type": "string",
+      "description": "The headword in Pāli, with diacritics where applicable."
+    },
+    "normalized_term": {
+      "type": "string",
+      "description": "ASCII or simplified form for search and indexing."
+    },
+    "part_of_speech": {
+      "type": "string",
+      "enum": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb",
+        "participle",
+        "pronoun",
+        "particle",
+        "compound",
+        "phrase",
+        "expression",
+        "other"
+      ]
+    },
+    "literal_meaning": {
+      "type": "string",
+      "description": "Literal or etymologically transparent sense, when useful."
+    },
+    "preferred_translation": {
+      "type": "string",
+      "description": "Default preferred English rendering for this project."
+    },
+    "alternative_translations": {
+      "type": "array",
+      "description": "Acceptable alternate renderings.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "discouraged_translations": {
+      "type": "array",
+      "description": "Renderings that should generally be avoided.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "untranslated_preferred": {
+      "type": "boolean",
+      "description": "Whether the Pāli term itself is generally preferred over translation."
+    },
+    "gloss_on_first_occurrence": {
+      "type": "string",
+      "description": "Suggested gloss for first occurrence in a text."
+    },
+    "definition": {
+      "type": "string",
+      "description": "Short explanatory definition for dictionary and glossary use."
+    },
+    "notes": {
+      "type": "string",
+      "description": "Freeform notes about usage, nuance, doctrinal precision, or project-specific decisions."
+    },
+    "context_rules": {
+      "type": "array",
+      "description": "Rules for when translation changes by context.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["context", "rendering"],
+        "properties": {
+          "context": {
+            "type": "string",
+            "description": "Description of the context."
+          },
+          "rendering": {
+            "type": "string",
+            "description": "Preferred rendering in that context."
+          },
+          "notes": {
+            "type": "string",
+            "description": "Optional explanation of the context-sensitive rule."
+          }
+        }
+      }
+    },
+    "related_terms": {
+      "type": "array",
+      "description": "Other Pāli headwords related semantically, doctrinally, or grammatically.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "example_phrases": {
+      "type": "array",
+      "description": "Example phrases or passages containing the term.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["pali"],
+        "properties": {
+          "pali": {
+            "type": "string"
+          },
+          "translation": {
+            "type": "string"
+          },
+          "notes": {
+            "type": "string"
+          },
+          "source": {
+            "type": "string",
+            "description": "Optional citation such as SN 12.2 or DN 22."
+          }
+        }
+      }
+    },
+    "sutta_references": {
+      "type": "array",
+      "description": "Canonical references where the term is especially important.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "tags": {
+      "type": "array",
+      "description": "Project tags for grouping terms by theme or function.",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "status": {
+      "type": "string",
+      "description": "Editorial status of the entry.",
+      "enum": [
+        "draft",
+        "reviewed",
+        "stable"
+      ]
+    },
+    "version_notes": {
+      "type": "string",
+      "description": "Optional note about changes to the entry over time."
+    }
+  }
+}
