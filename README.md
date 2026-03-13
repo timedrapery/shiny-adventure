@@ -34,6 +34,7 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 
 ## 🧘 Example Term Entry
 
+```json
 {
   "term": "dukkha",
   "normalized_term": "dukkha",
@@ -61,6 +62,7 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
   ],
   "status": "stable"
 }
+```
 
 ## 🤝 How to Contribute
 
