@@ -21,8 +21,6 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 ## 📁 Repository Structure
 
 /  
-├── README.md               — Project overview  
-├── STYLE_GUIDE.md          — Translation standards and conventions  
 ├── schema/                 — JSON schema files  
 │   └── pali_term.schema.json  
 └── terms/                  — Individual Pāli term records  
@@ -31,6 +29,10 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 │   └── jhana.json  
 │   └── samadhi.json  
 │   └── sati.json  
+├── CONTRIBUTING.md         — Project overview  
+├── LICENSE.md              — Project overview  
+├── README.md               — Project overview  
+├── STYLE_GUIDE.md          — Translation standards and conventions  
 
 ## 🧘 Example Term Entry
 
