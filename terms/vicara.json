@@ -1,0 +1,36 @@
+{
+  "term": "vicāra",
+  "normalized_term": "vicara",
+  "part_of_speech": "noun",
+  "literal_meaning": "pondering, examination, continued mental engagement",
+  "preferred_translation": "pondering",
+  "alternative_translations": [
+    "reflection"
+  ],
+  "discouraged_translations": [
+    "sustained thought",
+    "evaluation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The ongoing turning over or examining of a theme in the mind after it has been taken up.",
+  "notes": "Project preference is pondering because it pairs naturally with thinking and conveys continued mental engagement without sounding overly technical.",
+  "related_terms": [
+    "vitakka",
+    "jhāna",
+    "samādhi",
+    "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "savitakkaṁ savicāraṁ",
+      "translation": "with thinking and pondering",
+      "notes": "Common in descriptions of the first jhāna."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-activity",
+    "jhana-factors"
+  ],
+  "status": "stable"
+}
