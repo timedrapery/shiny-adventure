@@ -1,6 +1,7 @@
 {
   "term": "viññāṇa",
   "normalized_term": "vinnana",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "knowing apart, discriminative awareness",
   "preferred_translation": "consciousness",
@@ -11,6 +12,18 @@
   "untranslated_preferred": false,
   "definition": "The moment of knowing associated with a sense field and its object.",
   "notes": "Viññāṇa refers to the awareness that arises dependent on a sense field and an object. It is not a permanent self or underlying substance.",
+  "context_rules": [
+    {
+      "context": "When referring to the six sense consciousnesses",
+      "rendering": "consciousness",
+      "notes": "Default rendering."
+    },
+    {
+      "context": "When explanatory prose needs a smoother English line",
+      "rendering": "awareness",
+      "notes": "Use carefully and do not imply a permanent substrate."
+    }
+  ],
   "related_terms": [
     "nāmarūpa",
     "saḷāyatana",
@@ -18,8 +31,14 @@
   ],
   "example_phrases": [
     {
+      "pali": "cakkhuviññāṇa",
+      "translation": "eye-consciousness",
+      "notes": "Illustrates one of the six consciousnesses."
+    },
+    {
       "pali": "viññāṇaṁ anidassanaṁ",
-      "notes": "Example phrase referencing consciousness in doctrinal discussion."
+      "translation": "non-manifest consciousness",
+      "notes": "A debated phrase; included here as an example only."
     }
   ],
   "tags": [
