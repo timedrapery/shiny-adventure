@@ -1,0 +1,59 @@
+{
+  "term": "saṅkhārā",
+  "normalized_term": "sankhara",
+  "part_of_speech": "noun",
+  "literal_meaning": "things put together, fabrications, constructed phenomena",
+  "preferred_translation": "choices",
+  "alternative_translations": [
+    "formations",
+    "fabrications",
+    "constructed things"
+  ],
+  "discouraged_translations": [
+    "volitional formations"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Constructed activities or conditioned formations; in paṭiccasamuppāda contexts this project prefers choices.",
+  "notes": "Project preference is context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices. In broader contexts, especially formulaic or doctrinal ones, other renderings may be more appropriate depending on what is being described.",
+  "context_rules": [
+    {
+      "context": "In paṭiccasamuppāda sequences",
+      "rendering": "choices",
+      "notes": "This is the standing project preference."
+    },
+    {
+      "context": "In general doctrinal or descriptive contexts referring to compounded phenomena",
+      "rendering": "constructed things",
+      "notes": "Use when the emphasis is on what is put together rather than on intentional activity."
+    },
+    {
+      "context": "In analytical or technical discussions of conditioned mental processes",
+      "rendering": "formations",
+      "notes": "Use where choices would sound too narrow."
+    }
+  ],
+  "related_terms": [
+    "paṭiccasamuppāda",
+    "anicca",
+    "dukkha",
+    "cetanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aniccā sabbasaṅkhārā",
+      "translation": "all constructed things are impermanent",
+      "notes": "Here choices would not be the best rendering."
+    },
+    {
+      "pali": "avijjāpaccayā saṅkhārā",
+      "translation": "from ignorance as condition, choices",
+      "notes": "Project preference in paṭiccasamuppāda context."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "draft"
+}
