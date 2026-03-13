@@ -1,6 +1,7 @@
 {
   "term": "samādhi",
   "normalized_term": "samadhi",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "placing together or bringing into composure",
   "preferred_translation": "composure",
@@ -14,10 +15,34 @@
   "untranslated_preferred": false,
   "definition": "A state of mental composure in which the mind is steady and well coordinated.",
   "notes": "Composure reflects steadiness and collectedness without implying forced concentration.",
+  "context_rules": [
+    {
+      "context": "In most project translations",
+      "rendering": "composure",
+      "notes": "Default rendering."
+    },
+    {
+      "context": "In prose emphasizing the gathered quality of mind",
+      "rendering": "collectedness",
+      "notes": "Acceptable alternate when it reads more naturally."
+    }
+  ],
   "related_terms": [
     "jhāna",
     "sati",
     "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammāsamādhi",
+      "translation": "right composure",
+      "notes": "Key doctrinal compound."
+    },
+    {
+      "pali": "samāhito",
+      "translation": "composed",
+      "notes": "Helpful morphological relation."
+    }
   ],
   "tags": [
     "core-practice",
