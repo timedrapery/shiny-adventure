@@ -22,7 +22,7 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 
 /  
 ├── schema/                 — JSON schema files  
-│   └── pali_term.schema.json  
+│   └── pali_term_schema.json  
 └── terms/                  — Individual Pāli term records  
 │   └── bhavana.json  
 │   └── dukkha.json  
