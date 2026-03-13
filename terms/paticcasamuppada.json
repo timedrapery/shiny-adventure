@@ -1,6 +1,7 @@
 {
   "term": "paṭiccasamuppāda",
   "normalized_term": "paticcasamuppada",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "dependent arising",
   "preferred_translation": "dependent arising",
@@ -11,6 +12,18 @@
   "untranslated_preferred": false,
   "definition": "The principle that phenomena arise dependent upon conditions.",
   "notes": "Central doctrinal framework explaining how dissatisfaction arises and how it can be quenched through the ending of conditions.",
+  "context_rules": [
+    {
+      "context": "In most project translations and doctrinal discussion",
+      "rendering": "dependent arising",
+      "notes": "Default rendering."
+    },
+    {
+      "context": "When referring to the standard English technical term for external comparison",
+      "rendering": "dependent origination",
+      "notes": "Allowed alternate when noting conventional terminology."
+    }
+  ],
   "related_terms": [
     "avijjā",
     "saṅkhārā",
@@ -22,6 +35,11 @@
     {
       "pali": "avijjāpaccayā saṅkhārā",
       "translation": "with ignorance as condition, choices arise"
+    },
+    {
+      "pali": "imasmiṁ sati idaṁ hoti",
+      "translation": "when this is, this comes to be",
+      "notes": "Core formula associated with dependent arising."
     }
   ],
   "tags": [
