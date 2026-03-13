@@ -1,0 +1,32 @@
+{
+  "term": "paṭiccasamuppāda",
+  "normalized_term": "paticcasamuppada",
+  "part_of_speech": "noun",
+  "literal_meaning": "dependent arising",
+  "preferred_translation": "dependent arising",
+  "alternative_translations": [
+    "dependent origination"
+  ],
+  "discouraged_translations": [],
+  "untranslated_preferred": false,
+  "definition": "The principle that phenomena arise dependent upon conditions.",
+  "notes": "Central doctrinal framework explaining how dissatisfaction arises and how it can be quenched through the ending of conditions.",
+  "related_terms": [
+    "avijjā",
+    "saṅkhārā",
+    "viññāṇa",
+    "taṇhā",
+    "nirodha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāpaccayā saṅkhārā",
+      "translation": "with ignorance as condition, choices arise"
+    }
+  ],
+  "tags": [
+    "dependent-origination",
+    "core-doctrine"
+  ],
+  "status": "stable"
+}
