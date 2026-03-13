@@ -1,6 +1,7 @@
 {
   "term": "jhāna",
   "normalized_term": "jhana",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "theme or object of contemplation",
   "preferred_translation": "theme",
@@ -13,11 +14,35 @@
   "untranslated_preferred": false,
   "definition": "A contemplative theme held steadily in mind, around which wholesome thinking and pondering are organized.",
   "notes": "In this project jhāna is treated as a contemplative theme rather than a mystical state. The first jhāna corresponds to sustained wholesome thinking and pondering around a theme.",
+  "context_rules": [
+    {
+      "context": "In project translations discussing the structure of contemplative practice",
+      "rendering": "theme",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose referring to the Pāli technical category as such",
+      "rendering": "jhāna",
+      "notes": "Retaining the Pāli can be appropriate where translation would distract from technical discussion."
+    }
+  ],
   "related_terms": [
     "vitakka",
     "vicāra",
     "samādhi",
     "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhamaṁ jhānaṁ",
+      "translation": "the first theme",
+      "notes": "Reflects current project preference even though it differs from conventional renderings."
+    },
+    {
+      "pali": "savitakkaṁ savicāraṁ",
+      "translation": "with thinking and pondering",
+      "notes": "Closely associated with the first jhāna."
+    }
   ],
   "tags": [
     "meditative-development",
