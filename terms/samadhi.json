@@ -1,0 +1,27 @@
+{
+  "term": "samādhi",
+  "normalized_term": "samadhi",
+  "part_of_speech": "noun",
+  "literal_meaning": "placing together or bringing into composure",
+  "preferred_translation": "composure",
+  "alternative_translations": [
+    "collectedness"
+  ],
+  "discouraged_translations": [
+    "concentration",
+    "absorption"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A state of mental composure in which the mind is steady and well coordinated.",
+  "notes": "Composure reflects steadiness and collectedness without implying forced concentration.",
+  "related_terms": [
+    "jhāna",
+    "sati",
+    "bhāvanā"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-quality"
+  ],
+  "status": "stable"
+}
