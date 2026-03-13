@@ -1,0 +1,27 @@
+{
+  "term": "dukkha",
+  "normalized_term": "dukkha",
+  "part_of_speech": "noun",
+  "preferred_translation": "dissatisfaction",
+  "alternative_translations": [
+    "unease",
+    "stress"
+  ],
+  "discouraged_translations": [
+    "suffering"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The unsatisfactory and unstable character of conditioned experience.",
+  "notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness present in experience.",
+  "related_terms": [
+    "anicca",
+    "anattā",
+    "taṇhā",
+    "nirodha"
+  ],
+  "tags": [
+    "three-marks",
+    "core-doctrine"
+  ],
+  "status": "stable"
+}
