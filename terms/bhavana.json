@@ -1,0 +1,26 @@
+{
+  "term": "bhāvanā",
+  "normalized_term": "bhavana",
+  "part_of_speech": "noun",
+  "literal_meaning": "bringing into being",
+  "preferred_translation": "development",
+  "alternative_translations": [
+    "cultivation"
+  ],
+  "discouraged_translations": [
+    "meditation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The deliberate development or cultivation of qualities of mind.",
+  "notes": "Development is preferred because it preserves the sense of actively bringing something into being rather than merely sitting in meditation.",
+  "related_terms": [
+    "jhāna",
+    "samādhi",
+    "sati"
+  ],
+  "tags": [
+    "practice",
+    "mental-development"
+  ],
+  "status": "stable"
+}
