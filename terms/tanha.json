@@ -1,11 +1,12 @@
 {
   "term": "taṇhā",
   "normalized_term": "tanha",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "thirst",
-  "preferred_translation": "excitement",
+  "preferred_translation": "craving",
   "alternative_translations": [
-    "ignorant wanting"
+    "thirst"
   ],
   "discouraged_translations": [
     "desire"
@@ -13,6 +14,18 @@
   "untranslated_preferred": false,
   "definition": "The craving that seeks satisfaction through experience, becoming, or non-becoming.",
   "notes": "Taṇhā is the driving force behind continued dissatisfaction and rebirth in the framework of dependent origination.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal contexts",
+      "rendering": "craving",
+      "notes": "Default rendering."
+    },
+    {
+      "context": "When emphasizing the metaphor embedded in the Pāli",
+      "rendering": "thirst",
+      "notes": "Acceptable in explanatory prose or special stylistic contexts."
+    }
+  ],
   "related_terms": [
     "dukkha",
     "upādāna",
@@ -22,6 +35,11 @@
     {
       "pali": "taṇhāya jāyati soko",
       "translation": "from craving arises sorrow"
+    },
+    {
+      "pali": "kāmataṇhā",
+      "translation": "craving for sensuality",
+      "notes": "Illustrates one common subtype."
     }
   ],
   "tags": [
