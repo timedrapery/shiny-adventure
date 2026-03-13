@@ -1,23 +1,35 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Pali Term Record",
-  "description": "Schema for a Pāli term entry in the shiny-adventure translation dataset.",
+  "description": "Schema for a Pāli term entry in the shiny-adventure translation dataset. Supports both minor entries and major rule-bearing entries.",
   "type": "object",
   "additionalProperties": false,
   "required": [
     "term",
     "normalized_term",
     "part_of_speech",
-    "preferred_translation"
+    "preferred_translation",
+    "definition",
+    "status"
   ],
   "properties": {
     "term": {
       "type": "string",
-      "description": "The headword in Pāli, with diacritics where applicable."
+      "description": "The headword in Pāli, with diacritics where applicable.",
+      "minLength": 1
     },
     "normalized_term": {
       "type": "string",
-      "description": "ASCII or simplified form for search and indexing."
+      "description": "ASCII or simplified lowercase form for filenames, search, and indexing.",
+      "pattern": "^[a-z0-9_\\-]+$"
+    },
+    "entry_type": {
+      "type": "string",
+      "description": "Classifies the entry as a major rule-bearing term or a minor term.",
+      "enum": [
+        "major",
+        "minor"
+      ]
     },
     "part_of_speech": {
       "type": "string",
@@ -41,13 +53,15 @@
     },
     "preferred_translation": {
       "type": "string",
-      "description": "Default preferred English rendering for this project."
+      "description": "Default preferred English rendering for this project.",
+      "minLength": 1
     },
     "alternative_translations": {
       "type": "array",
       "description": "Acceptable alternate renderings.",
       "items": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "uniqueItems": true
     },
@@ -55,7 +69,8 @@
       "type": "array",
       "description": "Renderings that should generally be avoided.",
       "items": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "uniqueItems": true
     },
@@ -69,7 +84,8 @@
     },
     "definition": {
       "type": "string",
-      "description": "Short explanatory definition for dictionary and glossary use."
+      "description": "Short explanatory definition for dictionary and glossary use.",
+      "minLength": 1
     },
     "notes": {
       "type": "string",
@@ -77,19 +93,24 @@
     },
     "context_rules": {
       "type": "array",
-      "description": "Rules for when translation changes by context.",
+      "description": "Rules for when translation changes by context. Strongly recommended for major entries.",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["context", "rendering"],
+        "required": [
+          "context",
+          "rendering"
+        ],
         "properties": {
           "context": {
             "type": "string",
-            "description": "Description of the context."
+            "description": "Description of the context.",
+            "minLength": 1
           },
           "rendering": {
             "type": "string",
-            "description": "Preferred rendering in that context."
+            "description": "Preferred rendering in that context.",
+            "minLength": 1
           },
           "notes": {
             "type": "string",
@@ -102,20 +123,24 @@
       "type": "array",
       "description": "Other Pāli headwords related semantically, doctrinally, or grammatically.",
       "items": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "uniqueItems": true
     },
     "example_phrases": {
       "type": "array",
-      "description": "Example phrases or passages containing the term.",
+      "description": "Example phrases or passages containing the term. Strongly recommended for major entries.",
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["pali"],
+        "required": [
+          "pali"
+        ],
         "properties": {
           "pali": {
-            "type": "string"
+            "type": "string",
+            "minLength": 1
           },
           "translation": {
             "type": "string"
@@ -134,7 +159,8 @@
       "type": "array",
       "description": "Canonical references where the term is especially important.",
       "items": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "uniqueItems": true
     },
@@ -142,7 +168,8 @@
       "type": "array",
       "description": "Project tags for grouping terms by theme or function.",
       "items": {
-        "type": "string"
+        "type": "string",
+        "minLength": 1
       },
       "uniqueItems": true
     },
@@ -159,5 +186,27 @@
       "type": "string",
       "description": "Optional note about changes to the entry over time."
     }
-  }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "entry_type": {
+            "const": "major"
+          }
+        },
+        "required": [
+          "entry_type"
+        ]
+      },
+      "then": {
+        "required": [
+          "notes",
+          "context_rules",
+          "related_terms",
+          "example_phrases"
+        ]
+      }
+    }
+  ]
 }
