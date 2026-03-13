@@ -23,19 +23,37 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 /  
 ├── STYLE_GUIDE.md — Translation standards and conventions  
 ├── pali_term.schema.json — JSON schema for term entries  
-├── terms/ — Individual Pāli term records (coming soon)  
+├── terms/ — Individual Pāli term records  
 └── README.md — You are here  
 
 ## 🧘 Example Term Entry
 
 {
-  "pali": "samādhi",
-  "definitions": [
-    "concentration",
-    "unification of mind",
-    "collectedness"
+  "term": "dukkha",
+  "normalized_term": "dukkha",
+  "part_of_speech": "noun",
+  "preferred_translation": "dissatisfaction",
+  "alternative_translations": [
+    "unease",
+    "stress"
   ],
-  "notes": "A central factor in Buddhist meditation, often paired with mindfulness."
+  "discouraged_translations": [
+    "suffering"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The unsatisfactory and unstable character of conditioned experience.",
+  "notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness present in experience.",
+  "related_terms": [
+    "anicca",
+    "anattā",
+    "taṇhā",
+    "nirodha"
+  ],
+  "tags": [
+    "three-marks",
+    "core-doctrine"
+  ],
+  "status": "stable"
 }
 
 ## 🤝 How to Contribute
