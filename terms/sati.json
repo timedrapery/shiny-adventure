@@ -1,0 +1,26 @@
+{
+  "term": "sati",
+  "normalized_term": "sati",
+  "part_of_speech": "noun",
+  "preferred_translation": "sati",
+  "alternative_translations": [
+    "remembering"
+  ],
+  "discouraged_translations": [
+    "mindfulness"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "sati (remembering with presence of mind)",
+  "definition": "The active keeping in mind of what is relevant, often with the sense of remembering rightly and maintaining presence of mind.",
+  "notes": "Project preference is to keep sati untranslated in many contexts. On first occurrence it may be glossed, then left in Pāli thereafter.",
+  "related_terms": [
+    "ānāpānasati",
+    "kāyagatā sati",
+    "samādhi"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-quality"
+  ],
+  "status": "stable"
+}
