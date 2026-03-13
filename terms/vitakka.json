@@ -1,0 +1,36 @@
+{
+  "term": "vitakka",
+  "normalized_term": "vitakka",
+  "part_of_speech": "noun",
+  "literal_meaning": "thinking, thought-direction, initial application of mind",
+  "preferred_translation": "thinking",
+  "alternative_translations": [
+    "directed thought"
+  ],
+  "discouraged_translations": [
+    "initial thought",
+    "applied thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of thinking toward or taking up a theme in the mind.",
+  "notes": "Project preference is thinking because it is plain, readable, and reflects an active mental process without importing technical meditation jargon.",
+  "related_terms": [
+    "vicāra",
+    "jhāna",
+    "samādhi",
+    "sati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "savitakkaṁ savicāraṁ",
+      "translation": "with thinking and pondering",
+      "notes": "Common in descriptions of the first jhāna."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-activity",
+    "jhana-factors"
+  ],
+  "status": "stable"
+}
