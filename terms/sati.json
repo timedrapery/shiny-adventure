@@ -1,6 +1,7 @@
 {
   "term": "sati",
   "normalized_term": "sati",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "preferred_translation": "sati",
   "alternative_translations": [
@@ -12,11 +13,40 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "sati (remembering with presence of mind)",
   "definition": "The active keeping in mind of what is relevant, involving recollection and presence of mind.",
-  "notes": "Project preference is to leave sati untranslated in most contexts. On first occurrence it may be glossed as remembering with presence of mind.",
+  "notes": "Project preference is to leave sati untranslated in most contexts. On first occurrence it may be glossed as remembering with presence of mind. This is a rule-bearing entry because the project explicitly prefers the Pāli term in many contexts.",
+  "context_rules": [
+    {
+      "context": "In most translations within this project",
+      "rendering": "sati",
+      "notes": "Default project practice is to leave the term untranslated."
+    },
+    {
+      "context": "On first occurrence in a translation where a gloss is needed",
+      "rendering": "sati",
+      "notes": "Use the gloss 'sati (remembering with presence of mind)' on first occurrence."
+    },
+    {
+      "context": "In explanatory prose discussing function rather than preserving Pāli",
+      "rendering": "remembering",
+      "notes": "Use carefully in prose explanation rather than as the default translation in source passages."
+    }
+  ],
   "related_terms": [
     "ānāpānasati",
     "kāyagatā sati",
     "samādhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "satiṃ upaṭṭhapetvā",
+      "translation": "having established sati",
+      "notes": "Project preference keeps sati untranslated in a source-facing translation."
+    },
+    {
+      "pali": "satipaṭṭhāna",
+      "translation": "establishment of sati",
+      "notes": "Useful for showing how the headword functions in compounds."
+    }
   ],
   "tags": [
     "core-practice",
