@@ -26,11 +26,11 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 ├── schema/                 — JSON schema files  
 │   └── pali_term.schema.json  
 └── terms/                  — Individual Pāli term records  
-    └── bhavana.json  
-    └── dukkha.json  
-    └── jhana.json  
-    └── samadhi.json  
-    └── sati.json  
+│   └── bhavana.json  
+│   └── dukkha.json  
+│   └── jhana.json  
+│   └── samadhi.json  
+│   └── sati.json  
 
 ## 🧘 Example Term Entry
 
