@@ -1,6 +1,7 @@
 {
   "term": "saṅkhārā",
   "normalized_term": "sankhara",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "things put together, fabrications, constructed phenomena",
   "preferred_translation": "choices",
@@ -19,7 +20,7 @@
     {
       "context": "In paṭiccasamuppāda sequences",
       "rendering": "choices",
-      "notes": "This is the standing project preference."
+      "notes": "Standing project preference."
     },
     {
       "context": "In general doctrinal or descriptive contexts referring to compounded phenomena",
@@ -46,7 +47,7 @@
     },
     {
       "pali": "avijjāpaccayā saṅkhārā",
-      "translation": "from ignorance as condition, choices",
+      "translation": "with ignorance as condition, choices",
       "notes": "Project preference in paṭiccasamuppāda context."
     }
   ],
