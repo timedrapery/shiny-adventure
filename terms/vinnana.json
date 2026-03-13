@@ -1,0 +1,31 @@
+{
+  "term": "viññāṇa",
+  "normalized_term": "vinnana",
+  "part_of_speech": "noun",
+  "literal_meaning": "knowing apart, discriminative awareness",
+  "preferred_translation": "consciousness",
+  "alternative_translations": [
+    "awareness"
+  ],
+  "discouraged_translations": [],
+  "untranslated_preferred": false,
+  "definition": "The moment of knowing associated with a sense field and its object.",
+  "notes": "Viññāṇa refers to the awareness that arises dependent on a sense field and an object. It is not a permanent self or underlying substance.",
+  "related_terms": [
+    "nāmarūpa",
+    "saḷāyatana",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "viññāṇaṁ anidassanaṁ",
+      "notes": "Example phrase referencing consciousness in doctrinal discussion."
+    }
+  ],
+  "tags": [
+    "dependent-origination",
+    "aggregates",
+    "core-doctrine"
+  ],
+  "status": "draft"
+}
