@@ -1,0 +1,33 @@
+{
+  "term": "taṇhā",
+  "normalized_term": "tanha",
+  "part_of_speech": "noun",
+  "literal_meaning": "thirst",
+  "preferred_translation": "excitement",
+  "alternative_translations": [
+    "ignorant wanting"
+  ],
+  "discouraged_translations": [
+    "desire"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The craving that seeks satisfaction through experience, becoming, or non-becoming.",
+  "notes": "Taṇhā is the driving force behind continued dissatisfaction and rebirth in the framework of dependent origination.",
+  "related_terms": [
+    "dukkha",
+    "upādāna",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "taṇhāya jāyati soko",
+      "translation": "from craving arises sorrow"
+    }
+  ],
+  "tags": [
+    "four-noble-truths",
+    "dependent-origination",
+    "core-doctrine"
+  ],
+  "status": "stable"
+}
