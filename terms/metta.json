@@ -1,0 +1,58 @@
+{
+  "term": "mettā",
+  "normalized_term": "metta",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "friendliness, benevolence",
+  "preferred_translation": "goodwill",
+  "alternative_translations": [
+    "friendliness",
+    "loving-kindness"
+  ],
+  "discouraged_translations": [
+    "love"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A deliberate disposition of goodwill and non-hostility toward oneself and others.",
+  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "goodwill",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing warm social orientation",
+      "rendering": "friendliness",
+      "notes": "Acceptable alternate when the tone is informal and gentle."
+    },
+    {
+      "context": "In explanatory prose engaging conventional Buddhist terminology",
+      "rendering": "loving-kindness",
+      "notes": "Use selectively for reader orientation."
+    }
+  ],
+  "related_terms": [
+    "karuṇā",
+    "dosa",
+    "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "mettā cetovimutti",
+      "translation": "the liberation of mind through goodwill",
+      "notes": "Important practice expression."
+    },
+    {
+      "pali": "mettā bhāvetabbā",
+      "translation": "goodwill should be developed",
+      "notes": "Simple practice-oriented usage."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

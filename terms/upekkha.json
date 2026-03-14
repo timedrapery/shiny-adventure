@@ -1,0 +1,58 @@
+{
+  "term": "upekkhā",
+  "normalized_term": "upekkha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "looking on, evenness",
+  "preferred_translation": "equanimity",
+  "alternative_translations": [
+    "evenness",
+    "poise"
+  ],
+  "discouraged_translations": [
+    "indifference"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Balanced evenness of mind that remains steady without withdrawal or indifference.",
+  "notes": "Equanimity remains the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract.",
+  "context_rules": [
+    {
+      "context": "In most practical, doctrinal, and meditative contexts",
+      "rendering": "equanimity",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing steady balance",
+      "rendering": "evenness",
+      "notes": "Acceptable alternate when it reads more naturally."
+    },
+    {
+      "context": "In prose stressing composure under changing conditions",
+      "rendering": "poise",
+      "notes": "Use when the tone benefits from a more immediate English term."
+    }
+  ],
+  "related_terms": [
+    "mettā",
+    "muditā",
+    "samādhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "upekkhā cetovimutti",
+      "translation": "the liberation of mind through equanimity",
+      "notes": "Important brahmavihāra expression."
+    },
+    {
+      "pali": "upekkhako satimā",
+      "translation": "equanimous and with sati",
+      "notes": "Useful phrase showing the quality in meditative context."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,51 @@
+{
+  "term": "sammā-ājīva",
+  "normalized_term": "samma-ajiva",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right livelihood",
+  "preferred_translation": "right livelihood",
+  "alternative_translations": [
+    "appropriate livelihood"
+  ],
+  "discouraged_translations": [
+    "correct living"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of sustaining one's life in ways that do not depend on harm or deception.",
+  "notes": "The project keeps right livelihood as the default because it is standard and clear enough in contemporary English. Appropriate livelihood may work in explanatory prose where the practical and contextual dimension needs emphasis.",
+  "context_rules": [
+    {
+      "context": "In path-factor and ethical contexts",
+      "rendering": "right livelihood",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose focusing on livelihood that accords with the path",
+      "rendering": "appropriate livelihood",
+      "notes": "Acceptable alternate when the line reads better."
+    }
+  ],
+  "related_terms": [
+    "sammā-kammanta",
+    "sammā-vācā",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-ājīva",
+      "translation": "right livelihood",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "micchā-ājīva",
+      "translation": "wrong livelihood",
+      "notes": "Useful contrast showing the factor's ethical polarity."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

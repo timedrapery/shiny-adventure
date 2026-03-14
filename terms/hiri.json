@@ -1,0 +1,51 @@
+{
+  "term": "hiri",
+  "normalized_term": "hiri",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "conscience, moral shame",
+  "preferred_translation": "conscience",
+  "alternative_translations": [
+    "moral shame"
+  ],
+  "discouraged_translations": [
+    "guilt"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Inner conscience that recoils from unwholesome action out of integrity rather than fear alone.",
+  "notes": "The project prefers conscience because it is clearer and less likely than shame to be misread as toxic self-loathing. Moral shame remains available in explanatory prose when the classical pairing with ottappa needs to be shown more literally.",
+  "context_rules": [
+    {
+      "context": "In most ethical and practical contexts",
+      "rendering": "conscience",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose discussing the classical ethical pair hiri-ottappa",
+      "rendering": "moral shame",
+      "notes": "Acceptable when the literal shade needs to be explicit."
+    }
+  ],
+  "related_terms": [
+    "ottappa",
+    "kusala",
+    "akusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "hiri-ottappa",
+      "translation": "conscience and moral caution",
+      "notes": "Classic ethical pair."
+    },
+    {
+      "pali": "hiri uppajjati",
+      "translation": "conscience arises",
+      "notes": "Simple practical usage."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

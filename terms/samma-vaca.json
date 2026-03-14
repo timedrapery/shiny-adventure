@@ -1,0 +1,51 @@
+{
+  "term": "sammā-vācā",
+  "normalized_term": "samma-vaca",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right speech",
+  "preferred_translation": "right speech",
+  "alternative_translations": [
+    "appropriate speech"
+  ],
+  "discouraged_translations": [
+    "correct speech"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of speech aligned with truthfulness, harmony, kindness, and purpose.",
+  "notes": "The project keeps the familiar rendering right speech because it is already clear contemporary English and works well across ethical and path contexts. Appropriate speech can help in explanatory prose when the practical dimension needs emphasis.",
+  "context_rules": [
+    {
+      "context": "In path-factor and ethical contexts",
+      "rendering": "right speech",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose stressing fitness to context and purpose",
+      "rendering": "appropriate speech",
+      "notes": "Acceptable alternate when it clarifies function."
+    }
+  ],
+  "related_terms": [
+    "sammā-diṭṭhi",
+    "sammāsaṅkappa",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-vācā",
+      "translation": "right speech",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "musāvādā veramaṇī",
+      "translation": "refraining from false speech",
+      "notes": "Important ethical expression closely tied to the factor."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

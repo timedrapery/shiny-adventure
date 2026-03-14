@@ -1,0 +1,59 @@
+{
+  "term": "appamāda",
+  "normalized_term": "appamada",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-negligence, careful heedfulness",
+  "preferred_translation": "heedfulness",
+  "alternative_translations": [
+    "carefulness",
+    "diligence"
+  ],
+  "discouraged_translations": [
+    "mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Careful heedfulness that keeps practice from drifting into neglect or carelessness.",
+  "notes": "The project prefers heedfulness because it captures the vigilant, non-negligent quality of appamāda without confusing it with sati. Diligence can work in more general prose, but as a default it loses some of the warning against heedlessness built into the term.",
+  "context_rules": [
+    {
+      "context": "In most ethical and practical contexts",
+      "rendering": "heedfulness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing careful steadiness in practice",
+      "rendering": "carefulness",
+      "notes": "Acceptable alternate when the line benefits from plainer English."
+    },
+    {
+      "context": "In explanatory prose highlighting sustained application",
+      "rendering": "diligence",
+      "notes": "Use when the practical effort dimension is central."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "sammā-vāyāma",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "appamādo amatapadaṃ",
+      "translation": "heedfulness is the deathless path",
+      "notes": "Classic statement of the term's importance.",
+      "source": "Dhp 21"
+    },
+    {
+      "pali": "pamādo maccuno padaṃ",
+      "translation": "heedlessness is the path of death",
+      "notes": "Important contrastive formulation.",
+      "source": "Dhp 21"
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

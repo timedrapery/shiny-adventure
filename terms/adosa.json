@@ -1,0 +1,57 @@
+{
+  "term": "adosa",
+  "normalized_term": "adosa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-aversion",
+  "preferred_translation": "non-aversion",
+  "alternative_translations": [
+    "kindness",
+    "non-hostility"
+  ],
+  "discouraged_translations": [
+    "forgiveness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Freedom from aversion, expressed as non-hostility, patience, and kindness.",
+  "notes": "The project keeps non-aversion as the default because it preserves the lexical relation to dosa and works well in analytical contexts. Kindness can be useful in explanatory prose, but it is more a common expression of adosa than a complete doctrinal equivalent.",
+  "context_rules": [
+    {
+      "context": "In analytical and doctrinal contexts",
+      "rendering": "non-aversion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing warm practical expression",
+      "rendering": "kindness",
+      "notes": "Acceptable alternate when the ethical quality is being expressed rather than classified."
+    },
+    {
+      "context": "In prose stressing the absence of hostility",
+      "rendering": "non-hostility",
+      "notes": "Useful when the contrast with aversion needs emphasis."
+    }
+  ],
+  "related_terms": [
+    "dosa",
+    "mettā",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "adoso kusalamūlaṃ",
+      "translation": "non-aversion is a root of the wholesome",
+      "notes": "Important ethical classification."
+    },
+    {
+      "pali": "adosa",
+      "translation": "non-aversion",
+      "notes": "Headword form often appears cleanly in analytical lists."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

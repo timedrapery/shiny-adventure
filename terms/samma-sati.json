@@ -1,0 +1,52 @@
+{
+  "term": "sammā-sati",
+  "normalized_term": "samma-sati",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right sati",
+  "preferred_translation": "right sati",
+  "alternative_translations": [
+    "right remembering"
+  ],
+  "discouraged_translations": [
+    "right mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of rightly established sati, keeping what matters clearly in mind in a way aligned with the path.",
+  "notes": "Because the project already prefers leaving sati untranslated in many contexts, the natural extension here is right sati rather than right mindfulness. Right remembering can be used in explanation when the functional sense needs to be unpacked for readers unfamiliar with the Pāli.",
+  "context_rules": [
+    {
+      "context": "In path-factor and source-facing doctrinal contexts",
+      "rendering": "right sati",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose unpacking the functional role of sati",
+      "rendering": "right remembering",
+      "notes": "Acceptable alternate when clarity is needed."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "sammā-vāyāma",
+    "sammā-samādhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-sati",
+      "translation": "right sati",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "cattāro satipaṭṭhānā",
+      "translation": "the four establishments of sati",
+      "notes": "Closely related practice framework."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
