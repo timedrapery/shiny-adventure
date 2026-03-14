@@ -1,0 +1,60 @@
+{
+  "term": "ariyasacca",
+  "normalized_term": "ariyasacca",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "noble truth",
+  "preferred_translation": "noble truth",
+  "alternative_translations": [
+    "ennobling truth"
+  ],
+  "discouraged_translations": [
+    "holy truth"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A foundational truth of the path, especially in the standard fourfold formulation of dissatisfaction, origin, quenching, and path.",
+  "notes": "The project keeps noble truth as the default because it is already stable and widely intelligible in English. In explanatory prose, ennobling truth can be useful when the transformative force of ariya is the point, but it should not replace the default rendering in ordinary doctrinal translation.",
+  "context_rules": [
+    {
+      "context": "In standard doctrinal contexts, especially the fourfold formulation",
+      "rendering": "noble truth",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing that the truth shapes and elevates the practitioner",
+      "rendering": "ennobling truth",
+      "notes": "Use sparingly as an explanatory alternate, not as the main house term."
+    }
+  ],
+  "related_terms": [
+    "dukkha",
+    "samudaya",
+    "nirodha",
+    "magga",
+    "ariya",
+    "sacca",
+    "sotapatti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāri ariyasaccāni",
+      "translation": "the four noble truths",
+      "notes": "The core doctrinal formulation.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "dukkhaṃ ariyasaccaṃ",
+      "translation": "the noble truth of dissatisfaction",
+      "notes": "Shows the term in apposition with one member of the fourfold set.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}

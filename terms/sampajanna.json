@@ -1,0 +1,57 @@
+{
+  "term": "sampajañña",
+  "normalized_term": "sampajanna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "clear knowing, full awareness",
+  "preferred_translation": "clear knowing",
+  "alternative_translations": [
+    "full awareness"
+  ],
+  "discouraged_translations": [
+    "mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clear knowing that accompanies practice, especially in embodied and moment-to-moment awareness.",
+  "notes": "The project prefers clear knowing because it preserves the cognitive clarity of the term without collapsing it into sati. Full awareness is an acceptable alternate in explanatory prose, but mindfulness should be avoided here because the project already treats sati separately and more carefully.",
+  "context_rules": [
+    {
+      "context": "In practical and source-facing contexts where the term names a companion quality of sati",
+      "rendering": "clear knowing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a fuller English phrase reads more naturally",
+      "rendering": "full awareness",
+      "notes": "Acceptable alternate when it does not blur into sati."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "satipatthana",
+    "kayagata_sati",
+    "kaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sampajānakārī hoti",
+      "translation": "one acts with clear knowing",
+      "notes": "Common practical expression for the quality in use.",
+      "source": "DN 22"
+    },
+    {
+      "pali": "sati-sampajañña",
+      "translation": "sati and clear knowing",
+      "notes": "Shows the pair without collapsing the two terms into one."
+    }
+  ],
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "embodiment"
+  ],
+  "status": "reviewed"
+}

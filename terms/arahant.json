@@ -1,0 +1,58 @@
+{
+  "term": "arahant",
+  "normalized_term": "arahant",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "worthy one",
+  "preferred_translation": "arahant",
+  "alternative_translations": [
+    "worthy one"
+  ],
+  "discouraged_translations": [
+    "saint"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "arahant (worthy one)",
+  "definition": "A fully liberated person, classically marked by the wearing away of the outflows and complete release.",
+  "notes": "The project leaves arahant untranslated by default because the term functions as a precise doctrinal category and English saint brings in the wrong religious baggage. Worthy one can be used as a gloss in explanatory prose, but it should not replace the Pāli label in most source-facing work.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "arahant",
+      "notes": "Default project practice is to leave the term untranslated."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose requiring a short gloss",
+      "rendering": "worthy one",
+      "notes": "Use as a gloss rather than a full replacement."
+    }
+  ],
+  "related_terms": [
+    "anagami",
+    "vimutti",
+    "nibbana",
+    "asava",
+    "ariya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "arahā hoti",
+      "translation": "one is an arahant",
+      "notes": "Simple attainment statement."
+    },
+    {
+      "pali": "khīṇāsavo arahā",
+      "translation": "an arahant whose outflows are worn away",
+      "notes": "Useful formula linking the category to āsava-language."
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "persons"
+  ],
+  "status": "reviewed"
+}

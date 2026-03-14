@@ -1,0 +1,60 @@
+{
+  "term": "kāya",
+  "normalized_term": "kaya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "body, collection",
+  "preferred_translation": "body",
+  "alternative_translations": [
+    "bodily frame"
+  ],
+  "discouraged_translations": [
+    "corpse"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The body as a lived and observable dimension of experience, especially in contemplative practice.",
+  "notes": "The project prefers body as the plain default in contemporary English. Bodily frame can work in explanatory prose when the embodied aspect needs emphasis, but the entry should not be overloaded with later technical meanings not active in the immediate context.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "body",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the embodied frame of practice needs emphasis",
+      "rendering": "bodily frame",
+      "notes": "Acceptable alternate when it improves the line."
+    }
+  ],
+  "related_terms": [
+    "kayagata_sati",
+    "satipatthana",
+    "rupa",
+    "anapanasati",
+    "sampajanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāye kāyānupassī viharati",
+      "translation": "one remains observing the body in relation to the body",
+      "notes": "Standard satipaṭṭhāna expression.",
+      "source": "DN 22"
+    },
+    {
+      "pali": "kāyagatā sati",
+      "translation": "sati directed to the body",
+      "notes": "Shows the term in one of the project's existing untranslated compounds.",
+      "source": "MN 119"
+    }
+  ],
+  "sutta_references": [
+    "DN 22",
+    "MN 119"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "embodiment"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,58 @@
+{
+  "term": "saṃyojana",
+  "normalized_term": "samyojana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "bond, fetter",
+  "preferred_translation": "fetter",
+  "alternative_translations": [
+    "bond"
+  ],
+  "discouraged_translations": [
+    "chain"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A binding factor that ties a person to cyclical becoming and obstructs full release.",
+  "notes": "The project keeps fetter as the default because it remains the clearest concise term in English for the canonical set. Bond can be useful in explanatory prose when the binding function is more important than the traditional doctrinal label.",
+  "context_rules": [
+    {
+      "context": "In lists and doctrinal discussions of the ten fetters",
+      "rendering": "fetter",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the binding function",
+      "rendering": "bond",
+      "notes": "Acceptable alternate if the traditional label is not needed."
+    }
+  ],
+  "related_terms": [
+    "asava",
+    "anusaya",
+    "sotapanna",
+    "sakadagami",
+    "anagami"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saṃyojanāni",
+      "translation": "the fetters",
+      "notes": "General plural reference to the standard doctrinal set."
+    },
+    {
+      "pali": "orambhāgiyāni saṃyojanāni",
+      "translation": "the lower fetters",
+      "notes": "Shows a common sub-classification of the fetters.",
+      "source": "MN 64"
+    }
+  ],
+  "sutta_references": [
+    "MN 64"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

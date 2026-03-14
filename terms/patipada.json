@@ -1,0 +1,58 @@
+{
+  "term": "paṭipadā",
+  "normalized_term": "patipada",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "way of going, course of practice",
+  "preferred_translation": "path of practice",
+  "alternative_translations": [
+    "course of practice",
+    "practice"
+  ],
+  "discouraged_translations": [
+    "behavior"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A course or way of practice, especially one leading toward a defined doctrinal outcome.",
+  "notes": "The project prefers path of practice because it keeps the practical force explicit without collapsing the term into magga. Course of practice is an acceptable alternate when the English sentence wants slightly less weight, while bare practice is acceptable only when the surrounding sentence already makes the directional sense clear.",
+  "context_rules": [
+    {
+      "context": "In doctrinal contexts where a defined course of cultivation is being named",
+      "rendering": "path of practice",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the English line needs a lighter phrase",
+      "rendering": "course of practice",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "magga",
+    "bhavana",
+    "samma-vayama",
+    "samma-sati",
+    "samma-samadhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhanirodhagāminī paṭipadā",
+      "translation": "the path of practice leading to the quenching of dissatisfaction",
+      "notes": "Canonical phrase in the four-truths framework.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "majjhimā paṭipadā",
+      "translation": "the middle path of practice",
+      "notes": "Useful fixed phrase connecting paṭipadā with the middle way."
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

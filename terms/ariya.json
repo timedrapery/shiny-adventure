@@ -1,0 +1,56 @@
+{
+  "term": "ariya",
+  "normalized_term": "ariya",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "noble, elevated",
+  "preferred_translation": "noble",
+  "alternative_translations": [
+    "ennobling"
+  ],
+  "discouraged_translations": [
+    "holy"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A term marking what belongs to the noble path, noble persons, or truths known in a liberating way.",
+  "notes": "The project prefers noble as the default because it is compact, established, and works cleanly in compounds already present across the dataset. Ennobling can be useful in explanatory prose when the term's transformative or elevating force needs to be made explicit rather than merely named.",
+  "context_rules": [
+    {
+      "context": "In established doctrinal compounds",
+      "rendering": "noble",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing transformative force",
+      "rendering": "ennobling",
+      "notes": "Use selectively where the active sense of the term matters."
+    }
+  ],
+  "related_terms": [
+    "ariyasacca",
+    "magga",
+    "sotapanna",
+    "arahant"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ariyo aṭṭhaṅgiko maggo",
+      "translation": "the noble eightfold path",
+      "notes": "A major doctrinal compound showing the standard force of ariya.",
+      "source": "SN 45.8"
+    },
+    {
+      "pali": "ariyasāvaka",
+      "translation": "noble disciple",
+      "notes": "Useful reminder that the adjective extends beyond truth-language."
+    }
+  ],
+  "sutta_references": [
+    "SN 45.8"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

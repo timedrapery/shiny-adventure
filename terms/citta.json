@@ -1,0 +1,58 @@
+{
+  "term": "citta",
+  "normalized_term": "citta",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "mind, heart",
+  "preferred_translation": "mind",
+  "alternative_translations": [
+    "heart-mind"
+  ],
+  "discouraged_translations": [
+    "consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The mind as an experiential and affective center that can be trained, collected, liberated, and observed.",
+  "notes": "The project prefers mind because it is the cleanest default in contemporary English. Heart-mind remains acceptable in explanatory prose when the affective coloration matters, but consciousness should be avoided because that territory is already occupied by viññāṇa in this dataset.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "mind",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where emotional tone and cognition are both clearly in play",
+      "rendering": "heart-mind",
+      "notes": "Use sparingly and only when the fuller nuance helps."
+    }
+  ],
+  "related_terms": [
+    "samadhi",
+    "sati",
+    "manasikara",
+    "papanca",
+    "dhamma"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cittaṃ bhāveti",
+      "translation": "one develops the mind",
+      "notes": "Compact practice-oriented use."
+    },
+    {
+      "pali": "citte cittānupassī viharati",
+      "translation": "one remains observing the mind in relation to the mind",
+      "notes": "Standard satipaṭṭhāna expression.",
+      "source": "DN 22"
+    }
+  ],
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

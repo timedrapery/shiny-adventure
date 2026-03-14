@@ -1,0 +1,55 @@
+{
+  "term": "sakadāgāmī",
+  "normalized_term": "sakadagami",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "once-returner",
+  "preferred_translation": "once-returner",
+  "alternative_translations": [
+    "one who returns once"
+  ],
+  "discouraged_translations": [
+    "second-stage saint"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A practitioner who has weakened key fetters and is said to return to this world at most once.",
+  "notes": "The project keeps once-returner because it is established, concise, and doctrinally specific. The longer phrase one who returns once is acceptable when a sentence needs to breathe more naturally in English.",
+  "context_rules": [
+    {
+      "context": "In doctrinal classifications of awakening stages",
+      "rendering": "once-returner",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose with fuller sentence rhythm",
+      "rendering": "one who returns once",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sotapanna",
+    "anagami",
+    "samyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sakadāgāmī",
+      "translation": "once-returner",
+      "notes": "Headword use in stage lists."
+    },
+    {
+      "pali": "sakadāgāmimagga",
+      "translation": "the path of the once-returner",
+      "notes": "Useful compound linking stage language back to magga terminology."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.86"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "persons"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,56 @@
+{
+  "term": "phala",
+  "normalized_term": "phala",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "fruit, result",
+  "preferred_translation": "result",
+  "alternative_translations": [
+    "fruit"
+  ],
+  "discouraged_translations": [
+    "reward"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The result or fruition of a cause, action, or path of practice.",
+  "notes": "The project prefers result because it is plain contemporary English and works across ethical, meditative, and liberative contexts. Fruit remains useful in fixed doctrinal compounds such as stream-entry fruit or when a translation wants to preserve the traditional idiom.",
+  "context_rules": [
+    {
+      "context": "In general doctrinal or analytical contexts",
+      "rendering": "result",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In established compounds referring to stages or fruits of practice",
+      "rendering": "fruit",
+      "notes": "Use when preserving the familiar doctrinal idiom is more helpful than flattening it."
+    }
+  ],
+  "related_terms": [
+    "kusala",
+    "akusala",
+    "magga",
+    "sotapatti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotāpattiphala",
+      "translation": "the fruit of stream-entry",
+      "notes": "Useful fixed compound showing where fruit remains the better English choice.",
+      "source": "SN 55.5"
+    },
+    {
+      "pali": "kammassa phalaṃ",
+      "translation": "the result of action",
+      "notes": "Broad doctrinal use not limited to liberation-stage language."
+    }
+  ],
+  "sutta_references": [
+    "SN 55.5"
+  ],
+  "tags": [
+    "core-doctrine",
+    "causality"
+  ],
+  "status": "reviewed"
+}
