@@ -1,0 +1,55 @@
+{
+  "term": "issā",
+  "normalized_term": "issa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "envy, jealousy",
+  "preferred_translation": "envy",
+  "alternative_translations": [
+    "jealousy"
+  ],
+  "discouraged_translations": [
+    "resentment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Envy at the advantages, success, or good fortune of others.",
+  "notes": "The project prefers envy because it is the cleaner and more specific English term for begrudging others' good. Jealousy is acceptable when the sentence is less analytical or more idiomatic, but resentment is too broad for the default doctrinal rendering.",
+  "context_rules": [
+    {
+      "context": "In most ethical and analytical contexts",
+      "rendering": "envy",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In more idiomatic prose where jealousy is the more natural English word",
+      "rendering": "jealousy",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "mana",
+    "macchariya",
+    "dosa",
+    "akusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "issāmacchariya",
+      "translation": "envy and stinginess",
+      "notes": "Common pair linking the term to macchariya."
+    },
+    {
+      "pali": "issā",
+      "translation": "envy",
+      "notes": "Compact ethical usage."
+    }
+  ],
+  "sutta_references": [
+    "AN 5.229"
+  ],
+  "tags": [
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

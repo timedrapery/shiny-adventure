@@ -1,0 +1,55 @@
+{
+  "term": "macchariya",
+  "normalized_term": "macchariya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "stinginess, selfish withholding",
+  "preferred_translation": "stinginess",
+  "alternative_translations": [
+    "selfish withholding"
+  ],
+  "discouraged_translations": [
+    "miserliness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Stinginess or selfish withholding, especially around resources, status, or advantages one does not want to share.",
+  "notes": "The project prefers stinginess because it is contemporary and broad enough to cover more than money. Selfish withholding is acceptable in explanatory prose when the action of holding back matters more than the trait label.",
+  "context_rules": [
+    {
+      "context": "In most ethical and analytical contexts",
+      "rendering": "stinginess",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the act of holding back",
+      "rendering": "selfish withholding",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "issa",
+    "mana",
+    "lobha",
+    "akusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "issāmacchariya",
+      "translation": "envy and stinginess",
+      "notes": "Common pair linking the term to issā."
+    },
+    {
+      "pali": "macchariyaṃ pahāya",
+      "translation": "having abandoned stinginess",
+      "notes": "Useful practical expression."
+    }
+  ],
+  "sutta_references": [
+    "AN 5.229"
+  ],
+  "tags": [
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}
