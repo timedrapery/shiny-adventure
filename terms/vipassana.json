@@ -1,0 +1,25 @@
+{
+  "term": "vipassanā",
+  "normalized_term": "vipassana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "clear seeing, insight",
+  "preferred_translation": "insight",
+  "alternative_translations": [
+    "clear seeing",
+    "vipassanā"
+  ],
+  "discouraged_translations": [
+    "analysis"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Insight or clear seeing into the nature of experience, often paired with tranquility.",
+  "sutta_references": [
+    "SN 35.204"
+  ],
+  "tags": [
+    "meditative-development",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

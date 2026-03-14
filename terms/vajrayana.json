@@ -1,0 +1,23 @@
+{
+  "term": "vajrayāna",
+  "normalized_term": "vajrayana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "vajra vehicle",
+  "preferred_translation": "vajrayāna",
+  "alternative_translations": [
+    "vajra vehicle",
+    "diamond vehicle"
+  ],
+  "discouraged_translations": [
+    "sect"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "vajrayāna (vajra vehicle)",
+  "definition": "A later Buddhist stream emphasizing tantric methods, ritual technologies, and esoteric practice systems.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

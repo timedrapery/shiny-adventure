@@ -1,0 +1,23 @@
+{
+  "term": "maṇḍala",
+  "normalized_term": "mandala",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "circle, diagram",
+  "preferred_translation": "maṇḍala",
+  "alternative_translations": [
+    "mandala",
+    "ritual diagram"
+  ],
+  "discouraged_translations": [
+    "logo"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "maṇḍala (ritual diagram)",
+  "definition": "A symbolic or ritual diagram, especially in later Buddhist visual and contemplative traditions.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

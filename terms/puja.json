@@ -1,0 +1,26 @@
+{
+  "term": "pūjā",
+  "normalized_term": "puja",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "honor, offering, reverence",
+  "preferred_translation": "pūjā",
+  "alternative_translations": [
+    "offering",
+    "devotional honoring"
+  ],
+  "discouraged_translations": [
+    "worship service"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "pūjā (offering; devotional honoring)",
+  "definition": "An act of offering or devotional honoring in Buddhist ritual contexts.",
+  "sutta_references": [
+    "DN 16"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

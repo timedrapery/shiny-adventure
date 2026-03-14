@@ -1,0 +1,25 @@
+{
+  "term": "bodhisattva",
+  "normalized_term": "bodhisattva",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "awakening being",
+  "preferred_translation": "bodhisattva",
+  "alternative_translations": [
+    "awakening being"
+  ],
+  "discouraged_translations": [
+    "saint"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "bodhisattva (awakening being)",
+  "definition": "A being oriented toward awakening; in later Buddhist traditions often one committed to awakening for the welfare of all beings.",
+  "sutta_references": [
+    "MN 123"
+  ],
+  "tags": [
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

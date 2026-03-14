@@ -1,0 +1,22 @@
+{
+  "term": "hīnayāna",
+  "normalized_term": "hinayana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "lesser vehicle",
+  "preferred_translation": "hīnayāna",
+  "alternative_translations": [
+    "lesser vehicle"
+  ],
+  "discouraged_translations": [
+    "Theravada"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "hīnayāna (lesser vehicle)",
+  "definition": "A polemical historical label used in some later Buddhist traditions; it should not be treated as a neutral synonym for Theravada.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

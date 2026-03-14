@@ -1,0 +1,24 @@
+{
+  "term": "ehipassiko",
+  "normalized_term": "ehipassiko",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "come and see",
+  "preferred_translation": "come and see",
+  "alternative_translations": [
+    "inviting inspection"
+  ],
+  "discouraged_translations": [
+    "blind faith"
+  ],
+  "untranslated_preferred": false,
+  "definition": "An epithet of the Dhamma indicating that it invites direct inspection and verification.",
+  "sutta_references": [
+    "MN 38"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

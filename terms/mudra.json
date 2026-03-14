@@ -1,0 +1,23 @@
+{
+  "term": "mudrā",
+  "normalized_term": "mudra",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "seal, symbolic gesture",
+  "preferred_translation": "mudrā",
+  "alternative_translations": [
+    "gesture",
+    "symbolic hand gesture"
+  ],
+  "discouraged_translations": [
+    "pose"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "mudrā (symbolic gesture)",
+  "definition": "A symbolic gesture or ritual seal, especially in later Buddhist traditions and iconography.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

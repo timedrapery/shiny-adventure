@@ -1,0 +1,24 @@
+{
+  "term": "pāramitā",
+  "normalized_term": "paramita",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "perfection, transcendent quality",
+  "preferred_translation": "pāramitā",
+  "alternative_translations": [
+    "perfection",
+    "transcendent virtue"
+  ],
+  "discouraged_translations": [
+    "commandment"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "pāramitā (perfection)",
+  "definition": "A perfection or transcendent quality cultivated on the bodhisattva path in later Buddhist traditions.",
+  "sutta_references": [],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -7,7 +7,9 @@
   "preferred_translation": "theme",
   "alternative_translations": [
     "meditative theme",
-    "ecstasy"
+    "ecstasy",
+    "meditative state",
+    "satisfied unified mind fit for work"
   ],
   "discouraged_translations": [
     "meditation",
@@ -16,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A contemplative theme held steadily in mind, around which wholesome thinking and pondering are organized.",
-  "notes": "In this project jhāna is treated as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicāra and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare. Ven. Dr. M. Punnaji frequently uses ecstasy in retreat materials; the repository records that as a source-backed alternate while retaining the current project default pending any broader editorial decision.",
+  "notes": "In this project jhāna is treated as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicāra and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare. Ven. Dr. M. Punnaji frequently uses ecstasy in retreat materials; the repository records that as a source-backed alternate while retaining the current project default pending any broader editorial decision. The OSF glossary explains jhana as a satisfied unified mind fit for work and also in more conventional meditative-state language; the repository records those as source-backed alternates while retaining the current house default pending any broader editorial decision.",
   "context_rules": [
     {
       "context": "In project translations discussing the structure of contemplative practice",
@@ -31,6 +33,11 @@
     {
       "context": "In Punnaji-style pedagogical meditation prose describing the meditative sequence",
       "rendering": "ecstasy",
+      "notes": "Source-backed alternate, not the house default."
+    },
+    {
+      "context": "In OSF-glossary style practical explanation of a workable unified mind",
+      "rendering": "satisfied unified mind fit for work",
       "notes": "Source-backed alternate, not the house default."
     }
   ],

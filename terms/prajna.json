@@ -1,0 +1,26 @@
+{
+  "term": "prajñā",
+  "normalized_term": "prajna",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "wisdom, knowing",
+  "preferred_translation": "prajñā",
+  "alternative_translations": [
+    "wisdom",
+    "discernment"
+  ],
+  "discouraged_translations": [
+    "intelligence"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "prajñā (wisdom)",
+  "definition": "The Sanskrit cognate of paññā, used for wisdom or liberating insight.",
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

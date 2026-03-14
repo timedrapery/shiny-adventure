@@ -1,0 +1,24 @@
+{
+  "term": "upāya",
+  "normalized_term": "upaya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "means, method, expedient",
+  "preferred_translation": "upāya",
+  "alternative_translations": [
+    "skillful means",
+    "expedient means"
+  ],
+  "discouraged_translations": [
+    "trick"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "upāya (skillful means)",
+  "definition": "A method or expedient means, especially in later Buddhist literature for adaptive ways of guiding beings.",
+  "sutta_references": [],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

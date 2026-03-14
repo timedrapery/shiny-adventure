@@ -1,0 +1,26 @@
+{
+  "term": "saṃskāra",
+  "normalized_term": "samskara",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "formation, conditioned construct",
+  "preferred_translation": "saṃskāra",
+  "alternative_translations": [
+    "formation",
+    "conditioned construct"
+  ],
+  "discouraged_translations": [
+    "soul"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "saṃskāra (formation; conditioned construct)",
+  "definition": "The Sanskrit cognate of saṅkhāra, used for formations, conditioned constructs, or fabrications depending on context.",
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

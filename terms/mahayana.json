@@ -1,0 +1,22 @@
+{
+  "term": "mahāyāna",
+  "normalized_term": "mahayana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "great vehicle",
+  "preferred_translation": "mahāyāna",
+  "alternative_translations": [
+    "great vehicle"
+  ],
+  "discouraged_translations": [
+    "sect"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "mahāyāna (great vehicle)",
+  "definition": "A broad stream of Buddhist traditions and literature associated with the bodhisattva path.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

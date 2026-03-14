@@ -27,6 +27,9 @@ If you are new to the project, this is the recommended reading order:
 - [`PUNNAJI_USAGE_PROFILE.md`](PUNNAJI_USAGE_PROFILE.md)
   Records a source-backed translation profile from Ven. Dr. M. Punnaji for
   use in notes and context rules.
+- [`OSF_GLOSSARY_PROFILE.md`](OSF_GLOSSARY_PROFILE.md)
+  Records a source-backed glossary profile from the local OSF glossary for
+  use in notes, alternates, and new-term intake.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 

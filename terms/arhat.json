@@ -1,0 +1,25 @@
+{
+  "term": "arhat",
+  "normalized_term": "arhat",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "worthy one",
+  "preferred_translation": "arhat",
+  "alternative_translations": [
+    "worthy one"
+  ],
+  "discouraged_translations": [
+    "saint"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "arhat (worthy one)",
+  "definition": "The Sanskrit form corresponding to arahant, used for one who has completed the path.",
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,24 @@
+{
+  "term": "asaṃsagga",
+  "normalized_term": "asamsagga",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-entanglement, non-association",
+  "preferred_translation": "non-entanglement",
+  "alternative_translations": [
+    "disengagement",
+    "non-association"
+  ],
+  "discouraged_translations": [
+    "isolationism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Non-entanglement or careful non-involvement, especially where sticky social or mental involvement is being avoided.",
+  "sutta_references": [
+    "MN 122"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}
