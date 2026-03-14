@@ -11,8 +11,9 @@ explains and applies terms that already exist in the dataset.
 
 ## Editorial Status
 
-This book is an OSF publication and therefore carries more authority than an
-ordinary external source profile.
+This book is an OSF publication and therefore sits at the same internal house
+authority level as the OSF glossary rather than functioning as an outside
+source profile.
 
 When its usage is clear and consistent, it can justify changes to:
 

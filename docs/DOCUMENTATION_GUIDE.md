@@ -28,8 +28,8 @@ If you are new to the project, this is the recommended reading order:
   Records a source-backed translation profile from Ven. Dr. M. Punnaji for
   use in notes and context rules.
 - [`OSF_GLOSSARY_PROFILE.md`](OSF_GLOSSARY_PROFILE.md)
-  Records a source-backed glossary profile from the local OSF glossary for
-  use in notes, alternates, and new-term intake.
+  Records glossary guidance from the local OSF glossary as an internal OSF
+  house-material source for notes, alternates, defaults, and new-term intake.
 - [`BUDDHADASA_USAGE_PROFILE.md`](BUDDHADASA_USAGE_PROFILE.md)
   Records a source-backed term profile from selected Buddhadasa Bhikkhu works
   for use in notes, context rules, and new-term intake.
@@ -41,8 +41,8 @@ If you are new to the project, this is the recommended reading order:
   draft and may justify direct changes to preferred renderings.
 - [`WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md`](WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md)
   Records term guidance from the OSF publication *What Is And Is Not The Path*
-  and applies its usage while preserving repo spellings and normalized
-  headwords.
+  as an internal OSF house-material source while preserving repo spellings and
+  normalized headwords.
 - [`OSF_EDITORIAL_AUTHORITY.md`](OSF_EDITORIAL_AUTHORITY.md)
   Defines the authority order for OSF translation decisions and how source
   conflicts should be resolved.
@@ -59,9 +59,9 @@ When editing or adding a term:
 4. Choose tags and status from the standard vocabulary.
 5. Run `python scripts/run_checks.py` before committing.
 
-## External Source Profiles
+## Outside-Source Profiles
 
-When a local source or author strongly influences a rendering decision:
+When an outside source or author strongly influences a rendering decision:
 
 1. Add the rendering first as an alternate or source-specific context rule.
 2. Mention the source influence explicitly in `notes`.
@@ -69,3 +69,6 @@ When a local source or author strongly influences a rendering decision:
    terminology.
 4. Only replace the current `preferred_translation` when the project has made
    a deliberate editorial decision to do so.
+
+The OSF glossary and named OSF books are not outside-source profiles. They sit
+inside OSF house authority and should be treated accordingly.
