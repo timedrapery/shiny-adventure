@@ -12,8 +12,8 @@
     "secular"
   ],
   "untranslated_preferred": false,
-  "definition": "Worldly or mundane; belonging to the conditioned domain rather than the transcendent path-fruition.",
-  "notes": "The project prefers worldly as the default because it is contemporary and transparent. Mundane remains acceptable in technical contrast with lokuttara where the established doctrinal pair is useful.",
+  "definition": "Worldly or mundane; belonging to the conditioned domain rather than the liberative domain of path and fruition.",
+  "notes": "The project prefers worldly as the default because it is contemporary and transparent. Mundane remains acceptable in technical contrast with lokuttara where the established doctrinal pair is useful. The term should be heard doctrinally rather than sociologically: it marks what still belongs to the sphere of conditioned experience, even when those qualities are wholesome and valuable.",
   "context_rules": [
     {
       "context": "In most explanatory and doctrinal contexts",
@@ -24,25 +24,40 @@
       "context": "In explicit technical contrast with lokuttara",
       "rendering": "mundane",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage distinguishes wholesome but still conditioned states from liberative realization",
+      "rendering": "worldly",
+      "notes": "Keep the term broad enough to include ethically positive yet not beyond-the-world states."
     }
   ],
   "related_terms": [
     "loka",
     "lokuttara",
-    "kusala"
+    "kusala",
+    "magga",
+    "nibbana"
   ],
   "example_phrases": [
     {
       "pali": "lokiya dhamma",
       "translation": "worldly dhamma",
       "notes": "Simple doctrinal usage."
+    },
+    {
+      "pali": "lokiyo sammādiṭṭhi",
+      "translation": "worldly right view",
+      "notes": "Useful for the graded distinction in the path factors.",
+      "source": "MN 117"
     }
   ],
   "sutta_references": [
-    "MN 117"
+    "MN 117",
+    "SN 45.8"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

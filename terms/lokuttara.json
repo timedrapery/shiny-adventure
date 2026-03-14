@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Beyond the world; transcending the worldly domain in a specifically liberative sense.",
-  "notes": "The project prefers beyond-the-world because it is transparent and avoids the academic feel of supramundane as a default. Supramundane remains acceptable in explicitly technical prose where the established contrast with lokiya is being preserved.",
+  "notes": "The project prefers beyond-the-world because it is transparent and avoids the academic feel of supramundane as a default. Supramundane remains acceptable in explicitly technical prose where the established contrast with lokiya is being preserved. The term should signal liberative transcendence, not the paranormal or otherworldly in a mythic sense.",
   "context_rules": [
     {
       "context": "In most explanatory and doctrinal contexts",
@@ -24,26 +24,42 @@
       "context": "In explicit technical contrast with lokiya",
       "rendering": "supramundane",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage marks path and fruition as transcending conditioned identity and acquisition",
+      "rendering": "beyond-the-world",
+      "notes": "Preserve the liberative contrast rather than softening the term into merely elevated or spiritual."
     }
   ],
   "related_terms": [
     "loka",
     "lokiya",
     "nibbana",
-    "magga"
+    "magga",
+    "vimutti",
+    "ariya"
   ],
   "example_phrases": [
     {
       "pali": "lokuttara magga",
       "translation": "the beyond-the-world path",
       "notes": "Useful technical collocation."
+    },
+    {
+      "pali": "lokuttarā sammādiṭṭhi",
+      "translation": "beyond-the-world right view",
+      "notes": "Pairs naturally with the worldly / beyond-the-world distinction in MN 117.",
+      "source": "MN 117"
     }
   ],
   "sutta_references": [
-    "MN 117"
+    "MN 117",
+    "SN 45.8"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
