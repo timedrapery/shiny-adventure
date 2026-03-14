@@ -36,6 +36,13 @@ For that reason, the most important fields are not only descriptive fields such 
 - `related_terms`
 - `example_phrases`
 
+In contributor shorthand, these often correspond to:
+
+- preferred rendering -> `preferred_translation`
+- translation rule -> `context_rules`
+- usage notes -> `notes`
+- examples -> `example_phrases`
+
 ---
 
 # Field Reference
@@ -85,7 +92,7 @@ Notes:
 ## `entry_type`
 
 **Type:** string  
-**Required:** yes as a current project convention; allowed values are `major` or `minor`
+**Required:** yes; allowed values are `major` or `minor`
 
 Classifies whether the record is a rule-bearing major entry or a lighter minor entry.
 
@@ -100,7 +107,6 @@ Notes:
 - Use `major` for doctrinally important, context-sensitive, or widely reused terms.
 - Use `minor` for terms with a more stable and straightforward project treatment.
 - In the schema, `major` entries must include `notes`, `context_rules`, `related_terms`, and `example_phrases`.
-- Although the schema does not currently require `entry_type` globally, the dataset and contributor guidance treat it as a standard field and new entries should include it.
 
 ---
 
@@ -233,7 +239,7 @@ Example:
 
 Notes:
 
-- Use this for terms such as `sati` when the project prefers the Pāli form in most contexts.
+- Use this for terms such as `nibbāna` when the project prefers the Pāli form in most contexts.
 - This does not forbid glossing on first occurrence.
 
 ---
