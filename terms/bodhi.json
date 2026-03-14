@@ -1,0 +1,51 @@
+{
+  "term": "bodhi",
+  "normalized_term": "bodhi",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "awakening, coming to know",
+  "preferred_translation": "awakening",
+  "alternative_translations": [
+    "full awakening"
+  ],
+  "discouraged_translations": [
+    "enlightenment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Awakening to the nature of experience and the ending of delusion.",
+  "notes": "The project prefers awakening over enlightenment because it is clearer, less culturally overloaded, and closer to the sense of coming awake. Full awakening may be useful when the context explicitly marks unsurpassed or complete realization.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and narrative contexts",
+      "rendering": "awakening",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the context explicitly emphasizes complete realization",
+      "rendering": "full awakening",
+      "notes": "Useful with compounds such as sammāsambodhi."
+    }
+  ],
+  "related_terms": [
+    "nirodha",
+    "sammā-diṭṭhi",
+    "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anuttarā sammāsambodhi",
+      "translation": "unsurpassed full awakening",
+      "notes": "Important compound showing the broader family of usage."
+    },
+    {
+      "pali": "bodhāya",
+      "translation": "for awakening",
+      "notes": "Useful for source-facing translation where the practical aim is explicit."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

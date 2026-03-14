@@ -1,0 +1,51 @@
+{
+  "term": "saññā",
+  "normalized_term": "sanna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "marking, recognition",
+  "preferred_translation": "recognition",
+  "alternative_translations": [
+    "perception"
+  ],
+  "discouraged_translations": [
+    "concept"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The recognizing and marking function by which experience is identified and categorized.",
+  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar aggregate discussions, but it can sound too passive if used as the only rendering.",
+  "context_rules": [
+    {
+      "context": "In most analytical and doctrinal contexts",
+      "rendering": "recognition",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose engaging familiar five-aggregate terminology",
+      "rendering": "perception",
+      "notes": "Acceptable when reader orientation matters."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "viññāṇa",
+    "saḷāyatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saññākkhandha",
+      "translation": "the recognition heap",
+      "notes": "Shows the term in aggregate analysis."
+    },
+    {
+      "pali": "aniccasaññā",
+      "translation": "recognition of impermanence",
+      "notes": "Useful for meditative-development contexts."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "aggregates"
+  ],
+  "status": "reviewed"
+}
