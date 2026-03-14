@@ -78,5 +78,19 @@
     "mental-qualities"
   ],
   "status": "stable",
-  "version_notes": "Expanded to distinguish pīti from sukha explicitly and to stabilize its handling across jhāna and awakening-factor contexts."
+  "version_notes": "Expanded to distinguish pīti from sukha explicitly and to stabilize its handling across jhāna and awakening-factor contexts.",
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'delight' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'ecstasy' or other unrecorded alternates."
+  }
 }

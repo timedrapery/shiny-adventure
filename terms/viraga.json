@@ -60,5 +60,19 @@
     "core-doctrine",
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Punnaji",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current virāga policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'fading' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'detachment' or other unrecorded alternates."
+  }
 }

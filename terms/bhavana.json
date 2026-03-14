@@ -68,5 +68,25 @@
     "core-practice",
     "meditative-development"
   ],
-  "status": "stable"
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current bhāvanā policy."
+    },
+    {
+      "source": "Punnaji",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current bhāvanā policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'development' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'meditation' or other unrecorded alternates."
+  }
 }

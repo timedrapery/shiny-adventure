@@ -132,6 +132,69 @@ class LintRuleTests(unittest.TestCase):
             issues,
         )
 
+    def test_translation_policy_requires_leave_untranslated_guidance(self) -> None:
+        terms = {
+            "nibbana": {
+                "entry_type": "major",
+                "untranslated_preferred": True,
+                "translation_policy": {
+                    "default_scope": "source-facing prose",
+                    "drift_risk": "Avoid narrowing the term.",
+                    "compound_inheritance": "case-by-case",
+                },
+            }
+        }
+
+        issues = lint_terms.check_translation_policy_consistency(terms)
+
+        self.assertIn(
+            "nibbana.json: untranslated-preferred policy should explain leave_untranslated_when in translation_policy",
+            issues,
+        )
+
+    def test_translation_policy_inherit_requires_compound_note(self) -> None:
+        terms = {
+            "sati": {
+                "entry_type": "major",
+                "notes": "Default path-factor rendering.",
+                "context_rules": [{"context": "most path contexts", "rendering": "remembering"}],
+                "translation_policy": {
+                    "default_scope": "path contexts",
+                    "compound_inheritance": "inherit",
+                    "drift_risk": "Avoid mindfulness drift.",
+                },
+            }
+        }
+
+        issues = lint_terms.check_translation_policy_consistency(terms)
+
+        self.assertIn(
+            "sati.json: translation_policy sets compound_inheritance to inherit but notes/context_rules do not mention compounds",
+            issues,
+        )
+
+    def test_authority_basis_sources_should_appear_in_notes(self) -> None:
+        terms = {
+            "dukkha": {
+                "notes": "House preference is dissatisfaction.",
+                "authority_basis": [
+                    {
+                        "source": "OSF glossary",
+                        "scope": "Supports the preferred translation.",
+                    }
+                ],
+            }
+        }
+
+        issues = lint_terms.check_authority_basis_consistency(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "dukkha.json: authority_basis[1] source 'OSF glossary' is not reflected in notes"
+            ],
+        )
+
 
 class LintCliTests(unittest.TestCase):
     def test_main_reports_missing_terms_directory(self) -> None:

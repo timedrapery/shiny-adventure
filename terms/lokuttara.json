@@ -68,5 +68,19 @@
     "liberation",
     "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current lokuttara policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'beyond-the-world' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'supernatural' or other unrecorded alternates."
+  }
 }

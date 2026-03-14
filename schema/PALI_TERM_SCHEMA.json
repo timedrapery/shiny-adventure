@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Pali Term Record",
-  "description": "Schema for a Pali term entry in the shiny-adventure translation dataset. Supports both lighter reference entries and major rule-bearing entries that encode translation policy, formula handling, and drift-prevention guidance.",
+  "description": "Schema for a Pali term entry in the shiny-adventure translation dataset. Supports both lighter reference entries and major rule-bearing entries that encode translation policy, formula handling, provenance, and drift-prevention guidance.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -13,6 +13,138 @@
     "definition",
     "status"
   ],
+  "$defs": {
+    "nonEmptyString": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stringList": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/nonEmptyString"
+      },
+      "uniqueItems": true
+    },
+    "contextRule": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "context",
+        "rendering"
+      ],
+      "properties": {
+        "context": {
+          "$ref": "#/$defs/nonEmptyString",
+          "description": "Description of the context."
+        },
+        "rendering": {
+          "$ref": "#/$defs/nonEmptyString",
+          "description": "Preferred rendering in that context."
+        },
+        "notes": {
+          "type": "string",
+          "description": "Optional explanation of the context-sensitive rule."
+        }
+      }
+    },
+    "examplePhrase": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "pali"
+      ],
+      "properties": {
+        "pali": {
+          "$ref": "#/$defs/nonEmptyString"
+        },
+        "translation": {
+          "type": "string"
+        },
+        "notes": {
+          "type": "string"
+        },
+        "source": {
+          "type": "string",
+          "description": "Optional citation such as SN 12.2 or DN 22."
+        }
+      }
+    },
+    "authorityBasis": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "source",
+        "scope"
+      ],
+      "properties": {
+        "source": {
+          "$ref": "#/$defs/nonEmptyString",
+          "description": "Named authority, source profile, or internal OSF material that supports the policy."
+        },
+        "scope": {
+          "$ref": "#/$defs/nonEmptyString",
+          "description": "What part of the entry or translation policy this source supports."
+        },
+        "priority": {
+          "type": "string",
+          "description": "The source's authority layer in the house hierarchy.",
+          "enum": [
+            "osf-house",
+            "dhammarato",
+            "buddhadasa",
+            "secondary",
+            "external"
+          ]
+        },
+        "kind": {
+          "type": "string",
+          "description": "What sort of support the source provides.",
+          "enum": [
+            "preferred-translation",
+            "context-rule",
+            "compound-policy",
+            "gloss",
+            "rationale"
+          ]
+        },
+        "notes": {
+          "type": "string",
+          "description": "Short note on how the source is being used."
+        }
+      }
+    },
+    "translationPolicy": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "default_scope": {
+          "type": "string",
+          "description": "Where the preferred_translation should normally govern."
+        },
+        "when_not_to_apply": {
+          "type": "string",
+          "description": "Where the preferred_translation should not be used without an explicit local override."
+        },
+        "compound_inheritance": {
+          "type": "string",
+          "description": "Whether related compounds inherit the headword policy by default.",
+          "enum": [
+            "inherit",
+            "case-by-case",
+            "blocked"
+          ]
+        },
+        "leave_untranslated_when": {
+          "type": "string",
+          "description": "Conditions under which leaving the term in Pali is preferred."
+        },
+        "drift_risk": {
+          "type": "string",
+          "description": "The main translation drift or doctrinal confusion this policy is meant to prevent."
+        }
+      }
+    }
+  },
   "properties": {
     "term": {
       "type": "string",
@@ -58,22 +190,20 @@
       "minLength": 1
     },
     "alternative_translations": {
-      "type": "array",
-      "description": "Acceptable alternate renderings.",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "uniqueItems": true
+      "allOf": [
+        {
+          "$ref": "#/$defs/stringList"
+        }
+      ],
+      "description": "Acceptable alternate renderings."
     },
     "discouraged_translations": {
-      "type": "array",
-      "description": "Renderings that should generally be avoided.",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "uniqueItems": true
+      "allOf": [
+        {
+          "$ref": "#/$defs/stringList"
+        }
+      ],
+      "description": "Renderings that should generally be avoided."
     },
     "untranslated_preferred": {
       "type": "boolean",
@@ -96,83 +226,51 @@
       "type": "array",
       "description": "Rules for when translation changes by context. This is the live schema field for translation rules and is strongly recommended for major entries. These rules should govern when the default applies, when it does not, and when compounds or formulas inherit the headword.",
       "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-          "context",
-          "rendering"
-        ],
-        "properties": {
-          "context": {
-            "type": "string",
-            "description": "Description of the context.",
-            "minLength": 1
-          },
-          "rendering": {
-            "type": "string",
-            "description": "Preferred rendering in that context.",
-            "minLength": 1
-          },
-          "notes": {
-            "type": "string",
-            "description": "Optional explanation of the context-sensitive rule."
-          }
-        }
+        "$ref": "#/$defs/contextRule"
       }
     },
     "related_terms": {
-      "type": "array",
-      "description": "Other Pāli headwords related semantically, doctrinally, or grammatically. These links help maintain rule propagation across doctrinal families, compounds, and formula clusters.",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "uniqueItems": true
+      "allOf": [
+        {
+          "$ref": "#/$defs/stringList"
+        }
+      ],
+      "description": "Other Pāli headwords related semantically, doctrinally, or grammatically. These links help maintain rule propagation across doctrinal families, compounds, and formula clusters."
     },
     "example_phrases": {
       "type": "array",
       "description": "Example phrases or passages containing the term. This is the live schema field for examples and is strongly recommended for major entries. Examples should demonstrate the governed translation decision rather than merely repeat the headword.",
       "items": {
-        "type": "object",
-        "additionalProperties": false,
-        "required": [
-          "pali"
-        ],
-        "properties": {
-          "pali": {
-            "type": "string",
-            "minLength": 1
-          },
-          "translation": {
-            "type": "string"
-          },
-          "notes": {
-            "type": "string"
-          },
-          "source": {
-            "type": "string",
-            "description": "Optional citation such as SN 12.2 or DN 22."
-          }
-        }
+        "$ref": "#/$defs/examplePhrase"
       }
     },
     "sutta_references": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/stringList"
+        }
+      ],
+      "description": "Canonical references where the term is especially important."
+    },
+    "tags": {
+      "allOf": [
+        {
+          "$ref": "#/$defs/stringList"
+        }
+      ],
+      "description": "Project tags for grouping terms by theme or function."
+    },
+    "authority_basis": {
       "type": "array",
-      "description": "Canonical references where the term is especially important.",
+      "description": "Structured provenance for the entry's translation policy and rationale.",
       "items": {
-        "type": "string",
-        "minLength": 1
+        "$ref": "#/$defs/authorityBasis"
       },
       "uniqueItems": true
     },
-    "tags": {
-      "type": "array",
-      "description": "Project tags for grouping terms by theme or function.",
-      "items": {
-        "type": "string",
-        "minLength": 1
-      },
-      "uniqueItems": true
+    "translation_policy": {
+      "$ref": "#/$defs/translationPolicy",
+      "description": "Structured summary of how the term's default rendering governs, when it should yield, and what drift the rule is designed to prevent."
     },
     "status": {
       "type": "string",
@@ -205,8 +303,35 @@
           "notes",
           "context_rules",
           "related_terms",
-          "example_phrases"
-        ]
+          "example_phrases",
+          "alternative_translations",
+          "discouraged_translations",
+          "sutta_references",
+          "tags"
+        ],
+        "properties": {
+          "context_rules": {
+            "minItems": 2
+          },
+          "related_terms": {
+            "minItems": 1
+          },
+          "example_phrases": {
+            "minItems": 1
+          },
+          "alternative_translations": {
+            "minItems": 1
+          },
+          "discouraged_translations": {
+            "minItems": 1
+          },
+          "sutta_references": {
+            "minItems": 1
+          },
+          "tags": {
+            "minItems": 1
+          }
+        }
       }
     }
   ]

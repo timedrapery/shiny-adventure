@@ -3,16 +3,30 @@ name: Checks
 on:
   push:
   pull_request:
+  workflow_dispatch:
 
 jobs:
   verify:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: ${{ matrix.python-version }}
+          cache: "pip"
       - name: Install dependencies
         run: python -m pip install -r requirements-dev.txt
       - name: Run checks
         run: python scripts/run_checks.py
+      - name: Export repo health JSON
+        run: python scripts/repo_health.py --format json > repo-health.json
+      - name: Upload repo health artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: repo-health-py${{ matrix.python-version }}
+          path: repo-health.json

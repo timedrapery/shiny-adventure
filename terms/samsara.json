@@ -67,5 +67,20 @@
     "liberation"
   ],
   "status": "stable",
-  "version_notes": "Promoted from a thin minor entry to a major untranslated entry with explicit glossing and anti-cosmological drift guidance."
+  "version_notes": "Promoted from a thin minor entry to a major untranslated entry with explicit glossing and anti-cosmological drift guidance.",
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'saṃsāra' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not force an English substitute when the local passage needs the Pali term; use a gloss only when the entry or passage explicitly calls for one.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'life cycle' or other unrecorded alternates.",
+    "leave_untranslated_when": "Leave the term untranslated when source-facing doctrinal range or local explanation would be narrowed too quickly by an English equivalent."
+  }
 }

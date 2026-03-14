@@ -20,6 +20,8 @@ this:
 - translation rule -> `context_rules`
 - usage notes -> `notes`
 - examples -> `example_phrases`
+- provenance -> `authority_basis`
+- rule summary -> `translation_policy`
 
 ## First-Time Contributor Path
 
@@ -65,11 +67,16 @@ On Windows PowerShell, activate the virtual environment with:
 - Keep filenames ASCII-safe and aligned with `normalized_term`.
 - Preserve current OSF house preferences unless you are intentionally proposing a change under [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
 - Use notes and context rules to explain important editorial choices.
+- For mature major entries, add `authority_basis` when a source or authority
+  layer materially supports the policy.
+- Use `translation_policy` when the headword needs machine-readable scope,
+  inheritance, or drift-risk guidance.
 - For major entries, avoid definition-only edits that leave the rendering policy implicit.
 - If you edit a doctrinal anchor term, also review its core compounds, formula examples, and linked doctrinal neighbors so the family does not drift.
 - Prefer small, focused pull requests over large mixed edits.
 - When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes UTF-8 explicitly.
 - For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
+- For bulk policy backfill on existing major entries, prefer `python scripts/scaffold_policy_metadata.py ...` and then fill the placeholders deliberately.
 - Install dependencies from `requirements-dev.txt` so local checks match CI.
 - Be aware that `python scripts/run_checks.py` runs editorial lint in strict mode, so warnings such as non-reciprocal `related_terms` links must be fixed before the full suite will pass.
 
@@ -83,6 +90,9 @@ Please check the following:
 - The wording follows [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md) when source priorities matter.
 - The tags and status values follow [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md).
 - New major entries include notes, context rules, related terms, and example phrases.
+- New or revised mature major entries should include `authority_basis` when
+  provenance is known and `translation_policy` when family inheritance or drift
+  prevention is central to the decision.
 - Doctrinal anchor entries state when the default rendering applies, when it does not, and what nearby compounds or formulas inherit the rule.
 - The pull request description explains any non-obvious translation decision.
 
@@ -95,6 +105,10 @@ python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
 python scripts/audit_term_coverage.py
+python scripts/repo_health.py
+python scripts/policy_backfill_queue.py
+python scripts/backfill_policy_metadata.py --check-only
+python scripts/scaffold_policy_metadata.py --all-missing --check-only
 ```
 
 Use `python scripts/run_checks.py` when you want the same combined workflow the
@@ -109,3 +123,5 @@ Reviews will focus on:
 - consistency with the OSF authority hierarchy
 - clarity of definitions and notes
 - whether translation decisions are explicit enough to be reusable
+- whether provenance and drift-control metadata are strong enough for future
+  automation

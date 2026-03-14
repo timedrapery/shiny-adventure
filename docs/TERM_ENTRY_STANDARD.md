@@ -24,6 +24,8 @@ the following field names:
 - translation rule -> `context_rules`
 - usage notes -> `notes`
 - examples -> `example_phrases`
+- provenance -> `authority_basis`
+- rule summary -> `translation_policy`
 
 Do not introduce a second parallel vocabulary such as
 `preferred_rendering` unless the schema itself is intentionally changed first.
@@ -71,6 +73,8 @@ Major entries should normally include:
 -   `notes`
 -   `related_terms`
 -   `example_phrases`
+-   `sutta_references`
+-   `tags`
 
 ------------------------------------------------------------------------
 
@@ -175,7 +179,10 @@ Major entries should normally include:
   `notes`                      Editorial rationale and usage notes
   `related_terms`              Connected doctrinal vocabulary
   `example_phrases`            Canonical usage examples
+  `sutta_references`           Canonical anchors for the rule
   `tags`                       Thematic classification
+  `authority_basis`            Structured provenance for the policy
+  `translation_policy`         Machine-readable rule summary
 
 These fields allow the dataset to function as a **translation engine**
 rather than a flat glossary.
@@ -244,6 +251,10 @@ also state:
 
 Use `notes` alongside `context_rules` when the repository needs to explain why
 the default rendering was kept, changed, or left untranslated.
+
+When a term-family decision is important enough to shape multiple compounds or
+formula lines, also summarize it in `translation_policy` so tools do not have
+to infer inheritance only from prose.
 
 ------------------------------------------------------------------------
 
@@ -351,6 +362,7 @@ For practical guidance on when to use each status, see
 3.  Maintain consistency with the style guide.
 4.  Encode translation decisions explicitly.
 5.  Favor rule-bearing entries for important terms.
+6.  Prefer structured provenance when a named source materially supports the rule.
 
 ------------------------------------------------------------------------
 
