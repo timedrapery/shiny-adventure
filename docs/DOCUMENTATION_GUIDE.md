@@ -37,8 +37,9 @@ If you are new to the project, this is the recommended reading order:
   Records a source-backed liturgical term profile from Dhammarato's chanting
   manual for use in notes, context rules, and chant-term intake.
 - [`DHAMMARATO_QUOTES_PROFILE.md`](DHAMMARATO_QUOTES_PROFILE.md)
-  Records a source-backed OSF house-style profile from the Dhammarato quotes
-  draft and may justify direct changes to preferred renderings.
+  Records the Dhammarato quotes book as an internal OSF publication profile at
+  the same house-material level as the OSF glossary and *What Is And Is Not
+  The Path*, and may justify direct changes to preferred renderings.
 - [`WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md`](WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md)
   Records term guidance from the OSF publication *What Is And Is Not The Path*
   as an internal OSF house-material source while preserving repo spellings and

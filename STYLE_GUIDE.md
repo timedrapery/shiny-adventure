@@ -13,9 +13,9 @@ It serves three related purposes:
 
 This is specifically an **OSF house style** document. Editorial authority is
 governed by [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md),
-with OSF house materials such as the OSF glossary and OSF books at the top,
-followed by Dhammarato and then Buddhadasa Bhikkhu as the primary lineage
-authorities.
+with OSF house materials such as the OSF glossary, the Dhammarato quotes book,
+and OSF books like *What Is And Is Not The Path* at the top, followed by
+Dhammarato and then Buddhadasa Bhikkhu as the primary lineage authorities.
 
 The aim is not merely literal equivalence, but consistent, intelligible, and
 context-sensitive English that preserves doctrinal precision while remaining

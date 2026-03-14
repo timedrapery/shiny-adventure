@@ -5,16 +5,18 @@
 This note records a source-backed house-style profile drawn from
 `Dhammarato Quotes - Draft 0.2.pdf`.
 
-For OSF, this source is treated as a primary house-style authority when its
-usage is clear and consistent enough to support a reusable default rendering.
+For OSF, this source is treated as an internal OSF publication and therefore
+sits at the same house-material level as the OSF glossary and *What Is And Is
+Not The Path*. It is not an outside-source profile.
+
 Dhammarato is especially primary for practical teaching language, path-factor
 English, meditation vocabulary, and contemporary tone.
 
 ## Editorial Status
 
-Unlike the other source profiles in this repository, this document may justify
-direct changes to `preferred_translation` when the draft's usage is stable and
-reusable across OSF translation and teaching contexts.
+As an OSF publication profile, this document may justify direct changes to
+`preferred_translation` when the draft's usage is stable and reusable across
+OSF translation and teaching contexts.
 
 ## Normalization Ledger
 
