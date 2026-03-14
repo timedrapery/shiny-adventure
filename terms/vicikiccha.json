@@ -1,0 +1,59 @@
+{
+  "term": "vicikicchā",
+  "normalized_term": "vicikiccha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "doubt, perplexity",
+  "preferred_translation": "uncertain distraction",
+  "alternative_translations": [
+    "doubt"
+  ],
+  "discouraged_translations": [
+    "skepticism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distraction through uncertainty, wavering, and indecisive doubt about the path or practice.",
+  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough.",
+  "context_rules": [
+    {
+      "context": "In the five-distractions framework",
+      "rendering": "uncertain distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing indecision or lack of confidence",
+      "rendering": "doubt",
+      "notes": "Acceptable alternate when the practical uncertainty is already clear."
+    }
+  ],
+  "related_terms": [
+    "nīvaraṇa",
+    "yoniso manasikāra",
+    "sammā-diṭṭhi",
+    "avijjā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vicikicchānīvaraṇa",
+      "translation": "the uncertain distraction",
+      "notes": "Standard member of the fivefold list.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "kaṅkhāvitaraṇa",
+      "translation": "crossing beyond doubt",
+      "notes": "Useful contrastive expression for the resolution of the condition.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

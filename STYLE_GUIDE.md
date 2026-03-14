@@ -118,6 +118,7 @@ These reflect current house style and may evolve.
 - sammā-diṭṭhi -> right view
 - sammāsaṅkappa -> right attitude
 - sammā-sati -> right sati
+- nīvaraṇa -> distraction
 - nirodha -> quenching
 - khandha -> heap
 - saṅkhārā -> choices (in paṭiccasamuppāda contexts, per project preference)

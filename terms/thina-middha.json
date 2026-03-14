@@ -1,0 +1,58 @@
+{
+  "term": "thīna-middha",
+  "normalized_term": "thina-middha",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "sloth-and-torpor",
+  "preferred_translation": "dull distraction",
+  "alternative_translations": [
+    "sloth and torpor"
+  ],
+  "discouraged_translations": [
+    "laziness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distraction through dullness, heaviness, and sinking energy of mind and body.",
+  "notes": "Project preference is dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion.",
+  "context_rules": [
+    {
+      "context": "In the five-distractions framework",
+      "rendering": "dull distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose or comparison with conventional Buddhist terminology",
+      "rendering": "sloth and torpor",
+      "notes": "Acceptable alternate when the traditional pair is useful."
+    }
+  ],
+  "related_terms": [
+    "nīvaraṇa",
+    "appamāda",
+    "sammā-vāyāma"
+  ],
+  "example_phrases": [
+    {
+      "pali": "thīnamiddhanīvaraṇa",
+      "translation": "the dull distraction",
+      "notes": "Standard member of the fivefold list.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "āraddhavīriyo viharati",
+      "translation": "one dwells with aroused energy",
+      "notes": "Useful contrast to the sinking quality named by the term.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

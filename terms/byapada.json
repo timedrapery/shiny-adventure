@@ -1,0 +1,58 @@
+{
+  "term": "byāpāda",
+  "normalized_term": "byapada",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "ill will, malevolence",
+  "preferred_translation": "aversive distraction",
+  "alternative_translations": [
+    "ill will"
+  ],
+  "discouraged_translations": [
+    "anger"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distraction through aversion, hostility, or ill will toward what is resisted.",
+  "notes": "Project preference is aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label.",
+  "context_rules": [
+    {
+      "context": "In the five-distractions framework",
+      "rendering": "aversive distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing hostility toward others or situations",
+      "rendering": "ill will",
+      "notes": "Acceptable alternate when the aversive tone needs a more familiar phrase."
+    }
+  ],
+  "related_terms": [
+    "nīvaraṇa",
+    "dosa",
+    "adosa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "byāpādanīvaraṇa",
+      "translation": "the aversive distraction",
+      "notes": "Standard member of the fivefold list.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "abyāpajjhaṃ cittaṃ",
+      "translation": "a mind free from aversive distraction",
+      "notes": "Shows the practical counter-movement.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
