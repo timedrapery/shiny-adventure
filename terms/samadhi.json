@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state in which the mind is unified, well gathered, and fit to work without the strain implied by concentration.",
-  "notes": "OSF house style now prefers unification of mind for sam?dhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames sam?dhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering.",
+  "notes": "OSF house style now prefers unification of mind for samādhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samādhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
@@ -68,12 +68,12 @@
   ],
   "example_phrases": [
     {
-      "pali": "samm?sam?dhi",
+      "pali": "sammāsamādhi",
       "translation": "right unification of mind",
       "notes": "Key doctrinal compound under OSF house style."
     },
     {
-      "pali": "sam?hito",
+      "pali": "samāhito",
       "translation": "unified in mind",
       "notes": "Helpful morphological relation."
     }

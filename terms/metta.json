@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A deliberate disposition of friendliness and non-hostility toward oneself and others.",
-  "notes": "OSF house style now prefers friendliness for mett? based on the Dhammarato quotes draft, where the term is explicitly presented that way in ordinary teaching contexts. Goodwill remains useful where a firmer ethical tone is needed, and loving-kindness remains available in chant titles and familiar Buddhist-English settings.",
+  "notes": "OSF house style now prefers friendliness for mettā based on the Dhammarato quotes draft, where the term is explicitly presented that way in ordinary teaching contexts. Goodwill remains useful where a firmer ethical tone is needed, and loving-kindness remains available in chant titles and familiar Buddhist-English settings.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal OSF contexts",
@@ -32,7 +32,7 @@
       "notes": "Retained as a familiar alternate."
     },
     {
-      "context": "When the passage emphasizes the brahmavih?ra as an intentional cultivation opposed to hostility",
+      "context": "When the passage emphasizes the brahmavihāra as an intentional cultivation opposed to hostility",
       "rendering": "friendliness",
       "notes": "Keep the practical, cultivated quality prominent."
     }
@@ -50,12 +50,12 @@
   ],
   "example_phrases": [
     {
-      "pali": "mett? cetovimutti",
+      "pali": "mettā cetovimutti",
       "translation": "the liberation of mind through friendliness",
       "notes": "Important practice expression."
     },
     {
-      "pali": "mett? bh?vetabb?",
+      "pali": "mettā bhāvetabbā",
       "translation": "friendliness should be developed",
       "notes": "Simple practice-oriented usage."
     }

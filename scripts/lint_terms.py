@@ -122,6 +122,41 @@ def check_suspicious_placeholders(terms: dict[str, dict[str, object]]) -> list[s
     return issues
 
 
+def check_mojibake_patterns(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    suspicious = (
+        "Ã",
+        "Ä",
+        "Å",
+        "â€™",
+        "â€œ",
+        "â€",
+        "á¹",
+        "�",
+    )
+
+    def walk(value: object, path: str) -> None:
+        if isinstance(value, str):
+            for needle in suspicious:
+                if needle in value:
+                    issues.append(
+                        f"{path}: contains suspicious mojibake sequence '{safe_text(needle)}'"
+                    )
+                    break
+            return
+        if isinstance(value, list):
+            for index, item in enumerate(value):
+                walk(item, f"{path}[{index}]")
+            return
+        if isinstance(value, dict):
+            for key, item in value.items():
+                walk(item, f"{path}.{key}")
+
+    for stem, data in sorted(terms.items()):
+        walk(data, f"{stem}.json")
+    return issues
+
+
 def print_group(title: str, issues: list[str]) -> None:
     if not issues:
         return
@@ -157,11 +192,14 @@ def main() -> int:
     reference_issues = check_missing_sutta_references(terms)
     gloss_issues = check_untranslated_preferences(terms)
     placeholder_issues = check_suspicious_placeholders(terms)
+    mojibake_issues = check_mojibake_patterns(terms)
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
     if placeholder_issues:
         errors["Encoding"].extend(placeholder_issues)
+    if mojibake_issues:
+        errors["Encoding"].extend(mojibake_issues)
     if reciprocal_issues:
         warnings["Reciprocal Links"].extend(reciprocal_issues)
     if reference_issues:

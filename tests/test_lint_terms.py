@@ -31,6 +31,23 @@ class LintEncodingTests(unittest.TestCase):
             ],
         )
 
+    def test_mojibake_sequences_are_reported(self) -> None:
+        terms = {
+            "samadhi": {
+                "term": "samÄdhi",
+                "preferred_translation": "unification of mind",
+                "definition": "A settled mind.",
+            }
+        }
+
+        issues = lint_terms.check_mojibake_patterns(terms)
+
+        self.assertEqual(len(issues), 1)
+        self.assertIn(
+            "samadhi.json.term: contains suspicious mojibake sequence",
+            issues[0],
+        )
+
 
 class LintRuleTests(unittest.TestCase):
     def test_missing_related_terms_are_reported(self) -> None:
