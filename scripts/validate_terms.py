@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import sys
+from collections import defaultdict
 from pathlib import Path
 
 try:
@@ -25,24 +26,14 @@ def load_json(path: Path) -> object:
         return json.load(handle)
 
 
-def main() -> int:
-    if not SCHEMA_PATH.exists():
-        print(f"ERROR: Schema file not found: {SCHEMA_PATH}")
-        return 1
-
-    if not TERMS_DIR.exists():
-        print(f"ERROR: Terms directory not found: {TERMS_DIR}")
-        return 1
-
+def collect_validation_failures(terms_dir: Path) -> list[str]:
     schema = load_json(SCHEMA_PATH)
     validator = Draft202012Validator(schema)
     failures: list[str] = []
+    normalized_index: dict[str, list[str]] = defaultdict(list)
+    term_index: dict[str, list[str]] = defaultdict(list)
 
-    term_files = sorted(TERMS_DIR.glob("*.json"))
-    if not term_files:
-        print("WARNING: No term files found in terms/")
-        return 0
-
+    term_files = sorted(terms_dir.glob("*.json"))
     for term_file in term_files:
         try:
             data = load_json(term_file)
@@ -54,6 +45,52 @@ def main() -> int:
         for error in errors:
             path = ".".join(str(part) for part in error.path) or "<root>"
             failures.append(f"{term_file}: {path}: {error.message}")
+
+        if not isinstance(data, dict):
+            continue
+
+        normalized_term = data.get("normalized_term")
+        if isinstance(normalized_term, str):
+            normalized_index[normalized_term].append(term_file.name)
+            if normalized_term != term_file.stem:
+                failures.append(
+                    f"{term_file}: normalized_term '{normalized_term}' does not match filename stem '{term_file.stem}'"
+                )
+
+        term = data.get("term")
+        if isinstance(term, str):
+            term_index[term].append(term_file.name)
+
+    for normalized_term, filenames in sorted(normalized_index.items()):
+        if len(filenames) > 1:
+            failures.append(
+                f"normalized_term '{normalized_term}' is duplicated across files: {', '.join(sorted(filenames))}"
+            )
+
+    for term, filenames in sorted(term_index.items()):
+        if len(filenames) > 1:
+            failures.append(
+                f"term '{term}' is duplicated across files: {', '.join(sorted(filenames))}"
+            )
+
+    return failures
+
+
+def main() -> int:
+    if not SCHEMA_PATH.exists():
+        print(f"ERROR: Schema file not found: {SCHEMA_PATH}")
+        return 1
+
+    if not TERMS_DIR.exists():
+        print(f"ERROR: Terms directory not found: {TERMS_DIR}")
+        return 1
+
+    term_files = sorted(TERMS_DIR.glob("*.json"))
+    if not term_files:
+        print("WARNING: No term files found in terms/")
+        return 0
+
+    failures = collect_validation_failures(TERMS_DIR)
 
     if failures:
         print("Schema validation failed:\n")

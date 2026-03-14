@@ -60,6 +60,62 @@ class WriteTermBatchTests(unittest.TestCase):
             self.assertNotIn("\\u1e45", contents)
             self.assertIn(b"sa\xe1\xb9\x85gha", output_path.read_bytes())
 
+    def test_main_rejects_schema_invalid_batch(self) -> None:
+        record = {
+            "term": "sa\u1e45gha",
+            "normalized_term": "sangha",
+            "part_of_speech": "noun",
+            "preferred_translation": "sa\u1e45gha",
+            "definition": "The noble community.",
+            "status": "reviewed",
+        }
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            batch_path = tmp_path / "batch.json"
+            output_dir = tmp_path / "terms"
+            output_dir.mkdir()
+            batch_path.write_text(
+                json.dumps([record], ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+
+            with mock.patch.object(write_term_batch, "TERMS_DIR", output_dir):
+                with mock.patch("sys.argv", ["write_term_batch.py", str(batch_path)]):
+                    result = write_term_batch.main()
+
+            self.assertEqual(result, 1)
+            self.assertFalse((output_dir / "sangha.json").exists())
+
+    def test_main_rejects_lint_invalid_batch(self) -> None:
+        record = {
+            "term": "nibb\u0101na",
+            "normalized_term": "nibbana",
+            "entry_type": "minor",
+            "part_of_speech": "noun",
+            "preferred_translation": "nibb\u0101na",
+            "untranslated_preferred": True,
+            "definition": "Liberation.",
+            "status": "reviewed",
+        }
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            batch_path = tmp_path / "batch.json"
+            output_dir = tmp_path / "terms"
+            output_dir.mkdir()
+            batch_path.write_text(
+                json.dumps([record], ensure_ascii=False, indent=2) + "\n",
+                encoding="utf-8",
+            )
+
+            with mock.patch.object(write_term_batch, "TERMS_DIR", output_dir):
+                with mock.patch("sys.argv", ["write_term_batch.py", str(batch_path)]):
+                    result = write_term_batch.main()
+
+            self.assertEqual(result, 1)
+            self.assertFalse((output_dir / "nibbana.json").exists())
+
 
 if __name__ == "__main__":
     unittest.main()

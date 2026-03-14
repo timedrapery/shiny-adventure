@@ -6,7 +6,14 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import tempfile
 from pathlib import Path
+
+try:
+    from scripts import lint_terms, validate_terms
+except ModuleNotFoundError:
+    import lint_terms
+    import validate_terms
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -50,6 +57,43 @@ def validate_record(record: dict[str, object], index: int) -> str:
     return normalized_term
 
 
+def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, object], Path]]:
+    planned_writes: list[tuple[dict[str, object], Path]] = []
+    seen_normalized_terms: set[str] = set()
+
+    for index, record in enumerate(records, start=1):
+        normalized_term = validate_record(record, index)
+        if normalized_term in seen_normalized_terms:
+            raise ValueError(
+                f"Record {index} duplicates normalized_term '{normalized_term}' within the batch."
+            )
+        seen_normalized_terms.add(normalized_term)
+        planned_writes.append((record, TERMS_DIR / f"{normalized_term}.json"))
+
+    with tempfile.TemporaryDirectory() as tmpdir:
+        temp_terms_dir = Path(tmpdir) / "terms"
+        temp_terms_dir.mkdir()
+        for record, _ in planned_writes:
+            normalized_term = record["normalized_term"]
+            write_record(record, temp_terms_dir / f"{normalized_term}.json")
+
+        schema_failures = validate_terms.collect_validation_failures(temp_terms_dir)
+        if schema_failures:
+            raise ValueError(f"Batch failed schema validation: {schema_failures[0]}")
+
+        lint_errors, lint_warnings = lint_terms.collect_lint_results(
+            lint_terms.load_terms(temp_terms_dir)
+        )
+        if lint_errors:
+            first_group = next(iter(lint_errors.values()))
+            raise ValueError(f"Batch failed editorial lint: {first_group[0]}")
+        if lint_warnings:
+            first_group = next(iter(lint_warnings.values()))
+            raise ValueError(f"Batch failed strict editorial lint: {first_group[0]}")
+
+    return planned_writes
+
+
 def write_record(record: dict[str, object], destination: Path) -> None:
     with destination.open("w", encoding="utf-8", newline="\n") as handle:
         json.dump(record, handle, ensure_ascii=False, indent=2)
@@ -72,10 +116,7 @@ def main() -> int:
 
     try:
         records = load_batch(args.batch_file)
-        planned_writes: list[tuple[dict[str, object], Path]] = []
-        for index, record in enumerate(records, start=1):
-            normalized_term = validate_record(record, index)
-            planned_writes.append((record, TERMS_DIR / f"{normalized_term}.json"))
+        planned_writes = validate_batch(records)
     except (OSError, ValueError, json.JSONDecodeError) as exc:
         print(f"ERROR: {exc}")
         return 1
