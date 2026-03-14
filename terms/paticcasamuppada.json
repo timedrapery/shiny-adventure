@@ -34,12 +34,14 @@
   "example_phrases": [
     {
       "pali": "avijjāpaccayā saṅkhārā",
-      "translation": "with ignorance as condition, choices arise"
+      "translation": "with ignorance as condition, choices arise",
+      "source": "SN 12.2"
     },
     {
       "pali": "imasmiṁ sati idaṁ hoti",
       "translation": "when this is, this comes to be",
-      "notes": "Core formula associated with dependent arising."
+      "notes": "Core formula associated with dependent arising.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [

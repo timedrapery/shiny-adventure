@@ -41,12 +41,14 @@
     {
       "pali": "idaṁ dukkhaṁ ariyasaccaṁ",
       "translation": "this is the noble truth of dissatisfaction",
-      "notes": "Default rendering in the four noble truths framework."
+      "notes": "Default rendering in the four noble truths framework.",
+      "source": "SN 56.11"
     },
     {
       "pali": "dukkha-nirodha",
       "translation": "quenching of dissatisfaction",
-      "notes": "Useful paired example with nirodha."
+      "notes": "Useful paired example with nirodha.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
