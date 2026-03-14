@@ -30,6 +30,7 @@ experience, or translation workflow built on clear and consistent data.
 - [`STYLE_GUIDE.md`](STYLE_GUIDE.md): house translation style
 - [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md): field-by-field reference
 - [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md): guidance for creating entries
+- [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md): standard tags and status guidance
 - [`CONTRIBUTING.md`](CONTRIBUTING.md): contributor workflow
 
 ## Example Term Entry
@@ -72,7 +73,8 @@ If you are new to this project, start here:
 1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md) to understand the translation voice.
 2. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) to learn each field.
 3. Use [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md) when adding or revising a term.
-4. Validate term files before opening a pull request.
+4. Check [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md) before choosing tags or status values.
+5. Validate term files before opening a pull request.
 
 ## Local Validation
 
