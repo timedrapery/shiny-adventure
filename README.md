@@ -190,6 +190,51 @@ Some technical terms intentionally remain untranslated such as:
 
 In such cases explanation is preferred over forced translation.
 
+```json
+{
+  "term": "dukkha",
+  "normalized_term": "dukkha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "preferred_translation": "dissatisfaction",
+  "alternative_translations": [
+    "unease",
+    "stress"
+  ],
+  "discouraged_translations": [
+    "suffering"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The unsatisfactory and unstable character of conditioned experience.",
+  "notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness present in experience.",
+  "context_rules": [
+    {
+      "context": "In core doctrinal exposition and the four noble truths",
+      "rendering": "dissatisfaction",
+      "notes": "Default project rendering."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "anatta",
+    "tanha",
+    "nirodha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "idaṃ dukkhaṃ ariyasaccaṃ",
+      "translation": "this is the noble truth of dissatisfaction",
+      "source": "SN 56.11"
+    }
+  ],
+  "tags": [
+    "three-marks",
+    "core-doctrine"
+  ],
+  "status": "stable"
+}
+```
+
 ------------------------------------------------------------------------
 
 # Translation Pipeline Example

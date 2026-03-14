@@ -82,6 +82,28 @@ Notes:
 
 ---
 
+## `entry_type`
+
+**Type:** string  
+**Required:** yes as a current project convention; allowed values are `major` or `minor`
+
+Classifies whether the record is a rule-bearing major entry or a lighter minor entry.
+
+Example:
+
+```json
+"entry_type": "major"
+```
+
+Notes:
+
+- Use `major` for doctrinally important, context-sensitive, or widely reused terms.
+- Use `minor` for terms with a more stable and straightforward project treatment.
+- In the schema, `major` entries must include `notes`, `context_rules`, `related_terms`, and `example_phrases`.
+- Although the schema does not currently require `entry_type` globally, the dataset and contributor guidance treat it as a standard field and new entries should include it.
+
+---
+
 ## `part_of_speech`
 
 **Type:** string  
@@ -410,19 +432,29 @@ Example:
 
 Possible tags include:
 
+- `aggregates`
+- `causality`
+- `context-sensitive`
 - `core-doctrine`
+- `core-practice`
 - `dependent-origination`
+- `embodiment`
+- `ethics`
 - `four-noble-truths`
+- `jhana-factors`
+- `liberation`
 - `mental-qualities`
 - `meditative-development`
-- `aggregates`
+- `persons`
 - `sense-fields`
-- `context-sensitive`
+- `three-marks`
+- `translation-sensitive`
+- `worldly-conditions`
 
 Notes:
 
 - Tags help with navigation and tooling.
-- Use a limited, reusable tag vocabulary where possible.
+- Use the standard vocabulary in `docs/TAG_STATUS_VOCABULARY.md` rather than inventing near-duplicates.
 
 ---
 
@@ -479,6 +511,7 @@ For a **major rule-bearing entry**, the recommended minimum is:
 
 - `term`
 - `normalized_term`
+- `entry_type`
 - `part_of_speech`
 - `preferred_translation`
 - `definition`
