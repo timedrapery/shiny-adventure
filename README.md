@@ -37,6 +37,7 @@ If you are new to this repo, this is the fastest useful path:
 python -m pip install jsonschema
 python scripts/validate_terms.py
 python scripts/lint_terms.py
+python scripts/audit_term_coverage.py
 ```
 
 If validation passes locally, you are aligned with the same check run by GitHub Actions.
@@ -128,13 +129,16 @@ To validate the dataset locally:
 python -m pip install jsonschema
 python scripts/validate_terms.py
 python scripts/lint_terms.py
+python scripts/audit_term_coverage.py
 ```
 
 This runs the same schema validation logic used by GitHub Actions.
 The lint script adds editorial checks such as unresolved related terms,
 one-way related-term links, and reviewed/stable major entries missing
 `sutta_references`. Use `python scripts/lint_terms.py --strict` if you want
-warnings to fail the run.
+warnings to fail the run. The coverage audit script reports partial doctrinal
+families and ranked missing-term candidates so new content batches can be
+chosen more deliberately.
 
 ## Contributing
 
