@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The process or mode of becoming conditioned by clinging and leading onward to birth.",
-  "notes": "The project prefers becoming because it preserves the dynamic force of the term in dependent origination. Existence can be useful in some explanatory contexts, but as a default it risks sounding too static or metaphysical. The term should be heard as an ongoing process sustained by clinging and issuing in birth, not as a static metaphysical state. Buddhadasa Bhikkhu often explains this link in strongly practical terms as the becoming that culminates in the fresh birth of I and mine; the repository records that as a source-backed explanatory emphasis.",
+  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Becoming remains the default because it best preserves process, and the term is now explicitly governed by the practical reading in which clinging sustains the becoming that issues in fresh birth of I and mine.",
   "context_rules": [
     {
       "context": "In most dependent-origination and doctrinal contexts",
@@ -34,29 +34,34 @@
       "context": "In Buddhadasa-style practical dependent-origination explanation",
       "rendering": "becoming",
       "notes": "Notes may explicitly connect becoming to egoic or affective birth rather than only biological rebirth."
+    },
+    {
+      "context": "In OSF practical dependent-arising explanation of the process sustained by clinging",
+      "rendering": "becoming",
+      "notes": "Primary-source-backed default within the Buddhadasa line."
     }
   ],
   "related_terms": [
     "ahara",
-    "up\u0101d\u0101na",
-    "j\u0101ti",
-    "ta\u1e47h\u0101",
-    "jar\u0101mara\u1e47a",
+    "upādāna",
+    "jāti",
+    "taṇhā",
+    "jarāmaraṇa",
     "upadhi",
     "bhava-tanha",
     "vibhava-tanha",
     "samudaya",
-    "pa\u1e6diccasamupp\u0101da"
+    "paṭiccasamuppāda"
   ],
   "example_phrases": [
     {
-      "pali": "up\u0101d\u0101napaccay\u0101 bhavo",
+      "pali": "upādānapaccayā bhavo",
       "translation": "with clinging as condition, becoming",
       "notes": "Key dependent-origination link.",
       "source": "SN 12.2"
     },
     {
-      "pali": "bhavata\u1e47h\u0101",
+      "pali": "bhavataṇhā",
       "translation": "craving for becoming",
       "notes": "Shows the term tied directly to craving.",
       "source": "SN 56.11"

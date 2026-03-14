@@ -19,6 +19,10 @@ house style:
 3. distinguish Buddhist lexical entries from conversational coaching labels
    that do not belong in `terms/`
 
+Within OSF editorial authority, this profile is secondary to Dhammarato and
+Buddhadasa and should normally support notes, alternates, or intake decisions
+rather than override established house defaults.
+
 ## Recurring Glossary Tendencies
 
 - `anapanasati` is explained as remembering to look at in-and-out breathing

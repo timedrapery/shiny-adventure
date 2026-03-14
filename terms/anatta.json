@@ -1,5 +1,5 @@
 {
-  "term": "anatt\u0101",
+  "term": "anattā",
   "normalized_term": "anatta",
   "entry_type": "major",
   "part_of_speech": "adjective",
@@ -8,14 +8,15 @@
   "alternative_translations": [
     "not a self",
     "selfless",
-    "free of I and mine"
+    "free of I and mine",
+    "non-soul"
   ],
   "discouraged_translations": [
     "no-self"
   ],
   "untranslated_preferred": false,
   "definition": "Describing phenomena as not fit to be identified as self or owned as self.",
-  "notes": "This is a major doctrinal term within the three marks and aggregate analysis. The project preference is not-self because it preserves the diagnostic and practical force of the term without turning it too quickly into a metaphysical slogan. In explanatory prose, not a self can be useful when English needs a fuller predicate tied to the canonical formulas, while selfless remains a limited alternate rather than the main rendering. The OSF glossary paraphrases this term as no one in charge; the repository records that as a source-backed explanatory shorthand rather than a replacement for its broader doctrinal handling. Buddhadasa Bhikkhu strongly ties anatta to sunnata and to release from the appropriation of experience as I and mine; the repository records that as a source-backed practical emphasis rather than a replacement for the default rendering.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository keeps not-self as the default because it remains the strongest reusable doctrinal rendering across the corpus, but Dhammarato?s non-soul heading language and Buddhadasa?s practical freedom from I and mine now define the main explanatory frame rather than functioning as secondary commentary.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements and three-marks formulations",
@@ -36,27 +37,37 @@
       "context": "In Buddhadasa-style practical explanation of voidness and dependent arising",
       "rendering": "not-self",
       "notes": "Keep the default rendering, but notes may explicitly unpack it as freedom from I and mine."
+    },
+    {
+      "context": "In OSF practical explanation stressing release from appropriation as I and mine",
+      "rendering": "not-self",
+      "notes": "Primary-source-backed default with explicit practical unpacking."
+    },
+    {
+      "context": "In Dhammarato quote-book headings or close paraphrase of that idiom",
+      "rendering": "non-soul",
+      "notes": "Primary-source-backed heading-style alternate."
     }
   ],
   "related_terms": [
     "anicca",
     "dukkha",
-    "vi\u00f1\u00f1\u0101\u1e47a",
+    "viññāṇa",
     "atta",
-    "su\u00f1\u00f1at\u0101",
-    "tathat\u0101"
+    "suññatā",
+    "tathatā"
   ],
   "example_phrases": [
     {
-      "pali": "sabbe dhamm\u0101 anatt\u0101",
+      "pali": "sabbe dhammā anattā",
       "translation": "all phenomena are not-self",
       "notes": "Classic broad doctrinal formulation.",
       "source": "Dhp 279"
     },
     {
-      "pali": "eta\u1e43 mama, esohamasmi, eso me att\u0101 ti samanupassitu\u1e43",
+      "pali": "etaṃ mama, esohamasmi, eso me attā ti samanupassituṃ",
       "translation": "to regard this as mine, this I am, this is my self",
-      "notes": "This formula helps explain why anatt\u0101 is rendered not-self rather than as an abstract slogan.",
+      "notes": "This formula helps explain why anattā is rendered not-self rather than as an abstract slogan.",
       "source": "SN 22.59"
     }
   ],

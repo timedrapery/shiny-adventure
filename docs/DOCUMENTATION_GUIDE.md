@@ -39,6 +39,9 @@ If you are new to the project, this is the recommended reading order:
 - [`DHAMMARATO_QUOTES_PROFILE.md`](DHAMMARATO_QUOTES_PROFILE.md)
   Records a source-backed OSF house-style profile from the Dhammarato quotes
   draft and may justify direct changes to preferred renderings.
+- [`OSF_EDITORIAL_AUTHORITY.md`](OSF_EDITORIAL_AUTHORITY.md)
+  Defines the authority order for OSF translation decisions and how source
+  conflicts should be resolved.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 

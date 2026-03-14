@@ -17,6 +17,10 @@ use that differs from current house style:
 3. distinguish chant-critical liturgical vocabulary from one-off chant titles
    that do not need separate term entries
 
+Within OSF editorial authority, this profile is primary for liturgical and
+chant-critical vocabulary, but secondary to the Dhammarato quotes profile and
+Buddhadasa profile for broader doctrinal defaults.
+
 ## Recurring Usage Tendencies
 
 - chant headings strongly reinforce familiar liturgical renderings such as

@@ -7,6 +7,8 @@ This note records a source-backed house-style profile drawn from
 
 For OSF, this source is treated as a primary house-style authority when its
 usage is clear and consistent enough to support a reusable default rendering.
+Dhammarato is especially primary for practical teaching language, path-factor
+English, meditation vocabulary, and contemporary tone.
 
 ## Editorial Status
 
