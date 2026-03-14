@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Taking experience personally or ignorantly holding onto experience, views, habits, or identity.",
-  "notes": "This entry uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment.",
+  "notes": "This entry uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising and aggregate formulae unless a compound entry records a narrower rule.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -42,6 +42,11 @@
       "context": "In explanatory prose tied to the fire metaphor",
       "rendering": "fuel",
       "notes": "Use selectively because it is not the default doctrinal gloss."
+    },
+    {
+      "context": "In compounds such as kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, and attavādupādāna",
+      "rendering": "taking personally",
+      "notes": "The family should inherit the appropriative force of the headword unless a compound explicitly records a different emphasis."
     }
   ],
   "related_terms": [
@@ -52,7 +57,11 @@
     "lobha",
     "upadhi",
     "jati",
-    "paṭiccasamuppāda"
+    "paṭiccasamuppāda",
+    "kāmupādāna",
+    "diṭṭhupādāna",
+    "sīlabbatupādāna",
+    "attavādupādāna"
   ],
   "example_phrases": [
     {
@@ -76,5 +85,6 @@
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to extend the appropriative rule into the upādāna compound family and to block drift toward generic attachment language."
 }

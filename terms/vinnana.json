@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowing associated with a sense field and its object, central to both aggregate and dependent-origination analysis.",
-  "notes": "This entry uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate.",
+  "notes": "This entry uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. Translators should keep the sixfold sensory uses, aggregate uses, and nāmarūpa-related uses aligned with this conditioned-process reading and should not let consciousness become an automatic default.",
   "context_rules": [
     {
       "context": "When referring to the six sense modes of viññāṇa",
@@ -82,5 +82,6 @@
     "aggregates",
     "core-doctrine"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep viññāṇa aligned with conditioned process across sense-field, aggregate, and dependent-arising contexts."
 }

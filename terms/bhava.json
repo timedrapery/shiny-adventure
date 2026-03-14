@@ -19,7 +19,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Becoming or being, especially the process sustained by taking personally and leading onward to birth.",
-  "notes": "This entry keeps becoming as the house default for dependent-arising contexts because it preserves the processive force of the term in the chain. The semantic range is broader than that default and can include being, existence, state of existence, form of becoming, development, well-being, and prosperity depending on context. Exhortative senses such as be! or you must be! belong to a wider usage history rather than to the normal doctrinal default here.",
+  "notes": "This entry keeps becoming as the house default for dependent-arising contexts because it preserves the processive force of the term in the chain. The semantic range is broader than that default and can include being, existence, state of existence, form of becoming, development, well-being, and prosperity depending on context. Exhortative senses such as be! or you must be! belong to a wider usage history rather than to the normal doctrinal default here. Translators should not drift from becoming to being or existence inside the standard chain unless the local doctrinal frame clearly shifts and the surrounding translation remains coherent.",
   "context_rules": [
     {
       "context": "In most dependent-arising and doctrinal contexts",
@@ -87,5 +87,6 @@
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep dependent-arising usage anchored in becoming while still allowing broader semantic-range alternates outside the chain."
 }

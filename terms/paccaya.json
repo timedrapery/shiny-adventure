@@ -6,53 +6,76 @@
   "literal_meaning": "condition, support",
   "preferred_translation": "condition",
   "alternative_translations": [
-    "support"
+    "support",
+    "conditioning factor"
   ],
   "discouraged_translations": [
     "cause"
   ],
   "untranslated_preferred": false,
-  "definition": "A condition or supporting factor on which something else depends or from which it arises.",
-  "notes": "The project prefers condition because it is the clearest general rendering in dependent-origination language. Support remains acceptable when the enabling or sustaining dimension is more important than the bare conditional relation, but cause is too narrow for default use. The term should be heard as broad conditionality language rather than as a single strong causal push.",
+  "definition": "A condition or supporting factor on which something else depends, arises, or is sustained.",
+  "notes": "The project keeps condition as the default because it is broad enough for dependent-arising formulas and other causal analyses without falsely implying a single strong efficient cause. Support is acceptable when the enabling or sustaining side needs emphasis. Cause is discouraged as a blanket rendering because paccaya is wider than hetu and often names conditions that are concurrent, supportive, or structurally necessary rather than linear causes. Translators should keep linked -paccaya compounds and X-paccayā Y formulas aligned with this headword unless a compound explicitly records a narrower override.",
   "context_rules": [
     {
-      "context": "In most doctrinal and dependent-origination contexts",
+      "context": "In most doctrinal and dependent-arising contexts",
       "rendering": "condition",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where the enabling function needs emphasis",
-      "rendering": "support",
-      "notes": "Acceptable alternate."
+      "context": "In phrases of the form X-paccayā Y",
+      "rendering": "condition",
+      "notes": "Use the standard English frame with X as condition, Y."
     },
     {
-      "context": "When the passage is formulating dependent conditionality in sequence analysis",
-      "rendering": "condition",
-      "notes": "Keep the breadth of the relation clearer than a more forceful causal label would."
+      "context": "In explanatory prose emphasizing enablement or sustenance",
+      "rendering": "support",
+      "notes": "Allowed alternate when the line benefits from it."
+    },
+    {
+      "context": "When distinguishing paccaya from hetu in analytical discussion",
+      "rendering": "conditioning factor",
+      "notes": "Useful where condition alone may sound too light or too generic."
     }
   ],
   "related_terms": [
-    "paticcasamuppada",
+    "paṭiccasamuppāda",
     "hetu",
-    "nidana",
-    "upanisa",
+    "nidāna",
+    "upanisā",
     "samudaya",
-    "idappaccayat\u0101"
+    "idappaccayatā"
   ],
   "example_phrases": [
     {
+      "pali": "avijjāpaccayā saṅkhārā",
+      "translation": "with ignorance as condition, putting together",
+      "notes": "Classic dependent-arising usage.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, the six sense fields",
+      "notes": "Shows the same formula applied to another link.",
+      "source": "SN 12.2"
+    },
+    {
       "pali": "imasmiṃ sati idaṃ hoti",
-      "translation": "when this is present, this is",
-      "notes": "Canonical conditional formulation that explains paccaya-language.",
+      "translation": "when this is present, this comes to be",
+      "notes": "Canonical condition formula behind paccaya-language.",
       "source": "SN 12.61"
     }
   ],
   "sutta_references": [
-    "SN 12.61"
+    "SN 12.2",
+    "SN 12.61",
+    "MN 9"
   ],
   "tags": [
     "core-doctrine",
-    "dependent-origination"
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Expanded to distinguish paccaya from narrower cause-language and to encode standard formula handling for dependent-arising translation."
 }

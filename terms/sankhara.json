@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The activity of putting things together, or what has been put together as a constructed phenomenon.",
-  "notes": "This entry uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default.",
+  "notes": "This entry uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default. Translators should not import choices or volitional formations as unstated defaults. Formula context governs strongly here: in dependent-arising links the process sense stays primary unless a compound entry explicitly overrides it, while in three-marks formulae the result-side sense may be foregrounded.",
   "context_rules": [
     {
       "context": "When the emphasis is on the result of construction",
@@ -29,6 +29,16 @@
       "context": "When the emphasis is on the active constructive process",
       "rendering": "putting things together",
       "notes": "Use when the process sense is foregrounded."
+    },
+    {
+      "context": "In avijjāpaccayā saṅkhārā and related dependent-arising links",
+      "rendering": "putting things together",
+      "notes": "Keep the processive force audible unless a linked formula entry explicitly overrides it."
+    },
+    {
+      "context": "In three-marks formulae such as aniccā sabbasaṅkhārā",
+      "rendering": "that which has been put together",
+      "notes": "Use when the line is speaking about what is compounded rather than the activity of compounding."
     }
   ],
   "related_terms": [
@@ -62,5 +72,6 @@
     "dependent-origination",
     "context-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Strengthened with explicit formula-level guidance so dependent-arising and three-marks uses do not drift apart silently."
 }

@@ -18,7 +18,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, or quality depending on context)",
   "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, or an item within a doctrinal analysis.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma. The OSF publication What Is And Is Not The Path strongly reinforces dhamma as something to do, verify, and live here-now rather than a theory to admire.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma. The OSF publication What Is And Is Not The Path strongly reinforces dhamma as something to do, verify, and live here-now rather than a theory to admire. Translators should not force one English equivalent through an entire passage when the referent changes, but they should also not drift between teaching, phenomenon, quality, nature, law, and untranslated dhamma without a clear contextual reason.",
   "context_rules": [
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
@@ -41,12 +41,12 @@
       "notes": "Use if phenomenon would sound too abstract or technical."
     },
     {
-      "context": "In Buddhadasa-style explanation of natural law or the lawful structure of things",
+      "context": "In Buddhadasa-line explanatory prose about natural law or lawful conditional process",
       "rendering": "nature",
-      "notes": "Use selectively in explanatory prose, not as a blanket replacement."
+      "notes": "Use selectively where the point is natural law or lawful structure, not as a blanket replacement."
     },
     {
-      "context": "In Buddhadasa-style explanation of lawful conditional process",
+      "context": "In Buddhadasa-line explanatory prose where the lawful structure itself is being named",
       "rendering": "law",
       "notes": "Use sparingly, since dhamma remains too broad for any single English default."
     },
@@ -64,16 +64,6 @@
       "context": "In OSF publication prose contrasting lived practice with abstract theory",
       "rendering": "dhamma",
       "notes": "Prefer the untranslated form when the point is the total practical force of the teaching in use."
-    },
-    {
-      "context": "In Buddhadasa-line explanation of natural law or lawful process",
-      "rendering": "nature",
-      "notes": "Primary-source-backed alternate within the OSF line."
-    },
-    {
-      "context": "In Buddhadasa-line explanation of lawful conditional structure",
-      "rendering": "law",
-      "notes": "Primary-source-backed alternate within the OSF line."
     }
   ],
   "related_terms": [
@@ -106,5 +96,6 @@
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Strengthened to make local sense-selection explicit and to block uncontrolled switching between untranslated and translated dhamma across the same passage."
 }

@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The ignorant wanting that lunges toward satisfaction through experience, becoming, or non-becoming, including excitement about things and wanting what is not available right now.",
-  "notes": "OSF house style now prefers ignorant wanting for taṇhā. In this house idiom, excitement about things and wanting things you can't have right now are treated as practical synonyms that expose the restless, mistaken, unsatisfied quality of taṇhā more clearly than the more distant English word craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation.",
+  "notes": "OSF house style now prefers ignorant wanting for taṇhā. In this house idiom, excitement about things and wanting things you can't have right now are treated as practical synonyms that expose the restless, mistaken, unsatisfied quality of taṇhā more clearly than the more distant English word craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation. Translators should not let craving or desire silently replace the house default in dependent-arising and four-truths passages, and compounds in the taṇhā family should inherit the headword unless they clearly document a different rule.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical OSF contexts",
@@ -89,5 +89,6 @@
     "dependent-origination",
     "core-doctrine"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep the taṇhā family aligned with the house default and to limit drift back into craving or desire as unstated defaults."
 }

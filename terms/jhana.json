@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A contemplative theme held steadily in mind, around which wholesome thinking and pondering are organized.",
-  "notes": "In this project jhana is treated as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicara and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare. Ven. Dr. M. Punnaji frequently uses ecstasy in retreat materials; the repository records that as a source-backed alternate while retaining the current project default pending any broader editorial decision. The OSF glossary explains jhana as a satisfied unified mind fit for work and also in more conventional meditative-state language; the repository records those as source-backed alternates while retaining the current house default pending any broader editorial decision. The OSF publication What Is And Is Not The Path strongly reinforces early-sutta practical treatment of first jhana, rejects trance-style readings, and links jhana closely with hindrance-clearing and workable samadhi.",
+  "notes": "In this project jhana is treated as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicara and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare. Ven. Dr. M. Punnaji frequently uses ecstasy in retreat materials; the repository records that as a source-backed alternate while retaining the current project default pending any broader editorial decision. The OSF glossary explains jhana as a satisfied unified mind fit for work and also in more conventional meditative-state language; the repository records those as source-backed alternates while retaining the current house default pending any broader editorial decision. The OSF publication What Is And Is Not The Path strongly reinforces early-sutta practical treatment of first jhana, rejects trance-style readings, and links jhana closely with hindrance-clearing and workable samadhi. Translators should keep the vitakka-vicāra pair aligned with this rule and should not mix theme, meditative state, ecstasy, and untranslated jhāna within the same local passage without an explicit reason.",
   "context_rules": [
     {
       "context": "In project translations discussing the structure of contemplative practice",
@@ -44,12 +44,18 @@
       "context": "In OSF publication prose emphasizing early-sutta practicality rather than later trance doctrine",
       "rendering": "jhāna",
       "notes": "Retaining the Pali is often cleaner than forcing a misleading English shorthand in this debate-heavy domain."
+    },
+    {
+      "context": "In first-jhāna formulae coordinated with vitakka and vicāra",
+      "rendering": "theme",
+      "notes": "Keep the term tied to the paired factors rather than drifting into trance or absorption language."
     }
   ],
   "related_terms": [
     "vitakka",
     "vicāra",
     "samādhi",
+    "ekaggatā",
     "bhāvanā",
     "pīti",
     "sammā-samādhi",
@@ -79,5 +85,6 @@
     "meditative-development",
     "jhana-factors"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Strengthened with explicit first-jhāna guidance so the jhāna rule stays coordinated with vitakka, vicāra, and samādhi."
 }

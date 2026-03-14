@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state in which the mind is unified, well gathered, and fit to work without the strain implied by concentration.",
-  "notes": "OSF house style now prefers unification of mind for samadhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samadhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering. The OSF publication What Is And Is Not The Path strongly reinforces this usage by explicitly glossing samadhi as unification of mind, tying it to attitude, view, effort, and remembering, and rejecting concentration as the governing frame.",
+  "notes": "OSF house style now prefers unification of mind for samadhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samadhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering. The OSF publication What Is And Is Not The Path strongly reinforces this usage by explicitly glossing samadhi as unification of mind, tying it to attitude, view, effort, and remembering, and rejecting concentration as the governing frame. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
@@ -48,6 +48,7 @@
   ],
   "related_terms": [
     "jhāna",
+    "ekaggatā",
     "sati",
     "bhāvanā",
     "kāmacchanda",
@@ -91,5 +92,6 @@
     "core-practice",
     "mental-qualities"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep unification of mind stable across path-factor and practice contexts and to block drift back to concentration."
 }

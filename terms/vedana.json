@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Pleasant, unpleasant, or mixed felt experience; the affective tone through which experience is known.",
-  "notes": "This entry uses felt experience as the house default. The literal force is causing to know, while the translation keeps the term readable and broad enough to cover pleasant, unpleasant, and mixed feeling. Feeling, feeling tone, and sensation remain acceptable alternates depending on context, but the term should be heard as immediate affective experience and as a crucial turning point in the dependent-arising sequence, not as a fully elaborated emotional state. In aggregate analysis, vedanā is the second of the five aggregates.",
+  "notes": "This entry uses felt experience as the house default. The literal force is causing to know, while the translation keeps the term readable and broad enough to cover pleasant, unpleasant, and mixed feeling. Feeling, feeling tone, and sensation remain acceptable alternates depending on context, but the term should be heard as immediate affective experience and as a crucial turning point in the dependent-arising sequence, not as a fully elaborated emotional state. In aggregate analysis, vedanā is the second of the five aggregates. Translators should not default to emotion, and they should keep the contact-to-felt-experience-to-ignorant-wanting sequence stable when translating dependent arising.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -39,6 +39,7 @@
     }
   ],
   "related_terms": [
+    "paṭiccasamuppāda",
     "phassa",
     "taṇhā",
     "khandha",
@@ -72,5 +73,6 @@
     "dependent-origination",
     "aggregates"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to preserve the dependent-arising pivot from contact to taṇhā and to block emotionalized over-translation."
 }

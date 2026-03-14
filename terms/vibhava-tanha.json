@@ -3,21 +3,22 @@
   "normalized_term": "vibhava-tanha",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "craving for non-becoming",
-  "preferred_translation": "craving for non-becoming",
+  "literal_meaning": "ignorant wanting for non-becoming",
+  "preferred_translation": "ignorant wanting for non-becoming",
   "alternative_translations": [
-    "craving for annihilation"
+    "craving for annihilation",
+    "craving for non-becoming"
   ],
   "discouraged_translations": [
     "death wish"
   ],
   "untranslated_preferred": false,
-  "definition": "Craving directed toward ending, annihilating, or escaping a mode of becoming.",
-  "notes": "The project prefers craving for non-becoming because it stays closest to the doctrinal contrast with bhavataṇhā. Craving for annihilation is acceptable in explanatory prose when the force of elimination needs to be made more explicit.",
+  "definition": "Ignorant wanting directed toward ending, annihilating, or escaping a mode of becoming.",
+  "notes": "The project prefers ignorant wanting for non-becoming so the compound inherits the house rule for taṇhā while staying explicit about vibhava. Craving for annihilation and craving for non-becoming remain acceptable alternates when explanatory prose needs stronger continuity with familiar Buddhist-English terminology.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
-      "rendering": "craving for non-becoming",
+      "rendering": "ignorant wanting for non-becoming",
       "notes": "Default project rendering."
     },
     {
@@ -35,7 +36,7 @@
   "example_phrases": [
     {
       "pali": "vibhavataṇhā",
-      "translation": "craving for non-becoming",
+      "translation": "ignorant wanting for non-becoming",
       "notes": "One of the classic threefold forms of craving.",
       "source": "SN 56.11"
     }

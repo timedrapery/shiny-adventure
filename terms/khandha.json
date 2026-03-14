@@ -3,7 +3,7 @@
   "normalized_term": "khandha",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "heap or mass",
+  "literal_meaning": "heap, mass",
   "preferred_translation": "heap",
   "alternative_translations": [
     "aggregate"
@@ -12,45 +12,68 @@
     "bundle"
   ],
   "untranslated_preferred": false,
-  "definition": "One of the component heaps used to analyze experience, classically grouped as five.",
-  "notes": "The project prefers heap because it preserves the concreteness of the Pāli without importing too much technical abstraction. Aggregate remains acceptable in explanatory prose because it is familiar to many readers and translators.",
+  "definition": "A heap or collected mass used in the five-heap analysis of experience, especially in relation to appropriation and dissatisfaction.",
+  "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the expression pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of appropriated heaps wrongly taken as self or mine. Translators should keep the heap rule stable in aggregate formulae and should not smooth the family back into aggregate language without an explicit explanatory reason.",
   "context_rules": [
     {
-      "context": "In direct translation of doctrinal analysis",
+      "context": "In direct doctrinal translation of the fivefold analysis",
       "rendering": "heap",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where familiar technical language is helpful",
+      "context": "In explanatory prose aimed at readers already familiar with Buddhist-English terminology",
       "rendering": "aggregate",
-      "notes": "Acceptable alternate for reader orientation."
+      "notes": "Allowed alternate for orientation, not the project default."
+    },
+    {
+      "context": "In the phrase pañcupādānakkhandhā",
+      "rendering": "heap",
+      "notes": "Keep the relation to appropriation explicit rather than smoothing the term into abstract system language."
+    },
+    {
+      "context": "When the point is the unstable, piled-up character of experience",
+      "rendering": "heap",
+      "notes": "Prefer the concrete English image over bundle or collection."
     }
   ],
   "related_terms": [
-    "viññāṇa",
-    "saññā",
-    "dukkha",
     "rūpa",
-    "vedanā"
+    "vedanā",
+    "saññā",
+    "viññāṇa",
+    "dukkha",
+    "anattā"
   ],
   "example_phrases": [
     {
       "pali": "pañcupādānakkhandhā",
-      "translation": "the five heaps of clinging",
-      "notes": "Key doctrinal phrase."
+      "translation": "the five appropriated heaps",
+      "notes": "Key doctrinal formula linking khandha to upādāna and dukkha.",
+      "source": "SN 56.11"
     },
     {
-      "pali": "rūpakkhandha",
+      "pali": "rūpakkhandho",
       "translation": "the form heap",
-      "notes": "Shows the term in compound analysis."
+      "notes": "Shows the term in compound analysis.",
+      "source": "SN 22.56"
+    },
+    {
+      "pali": "yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ",
+      "translation": "whatever form ... feeling ... recognition ... putting-together activities ... knowing",
+      "notes": "Canonical listing of the five heaps.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
-    "SN 22.79"
+    "SN 22.56",
+    "SN 22.59",
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",
-    "aggregates"
+    "aggregates",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Expanded to govern heap versus aggregate usage explicitly and to tie the entry more tightly to appropriation, not-self analysis, and the five-heap formula."
 }

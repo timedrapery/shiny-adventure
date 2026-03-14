@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Discernment that sees the character of experience clearly and supports release.",
-  "notes": "The project prefers discernment because it sounds active, practical, and tied to seeing clearly, whereas wisdom can sound honorary, static, or merely admirable. Understanding remains acceptable in explanatory prose, while wisdom is retained as a familiar alternate for reader orientation rather than the default house rendering. Ven. Dr. M. Punnaji often frames paññā as introspective insight within awakening pedagogy; the repository keeps discernment as default while recognizing that source-backed explanatory emphasis. The OSF glossary uses wisdom and insight language for paññā; the repository keeps discernment as default while recognizing that source-backed explanatory vocabulary.",
+  "notes": "The project prefers discernment because it sounds active, practical, and tied to seeing clearly, whereas wisdom can sound honorary, static, or merely admirable. Understanding remains acceptable in explanatory prose, while wisdom is retained as a familiar alternate for reader orientation rather than the default house rendering. Ven. Dr. M. Punnaji often frames paññā as introspective insight within awakening pedagogy; the repository keeps discernment as default while recognizing that source-backed explanatory emphasis. The OSF glossary uses wisdom and insight language for paññā; the repository keeps discernment as default while recognizing that source-backed explanatory vocabulary. Translators should keep the house default stable in path, faculty, and liberation contexts and should use wisdom only where continuity with established Buddhist-English terminology is explicitly helpful.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -33,6 +33,7 @@
     }
   ],
   "related_terms": [
+    "diṭṭhi",
     "sammā-diṭṭhi",
     "bodhi",
     "dhammavicaya",

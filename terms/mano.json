@@ -12,53 +12,68 @@
     "consciousness"
   ],
   "untranslated_preferred": false,
-  "definition": "Mind, especially as a cognitive sense faculty and as one term in body-speech-mind formulations.",
-  "notes": "The project prefers mind as the default because it is the clearest ordinary English equivalent. When the context specifically treats mano as the sixth sense faculty or as the cognitive side of a triad, mental faculty may be the better rendering to prevent flattening it into citta or viññāṇa. Ven. Dr. M. Punnaji often contrasts mano as the cognitive or rational side of mind with citta as the affective side; this repository records that as an interpretive note rather than changing the default translation.",
+  "definition": "Mind as a cognitive field or faculty, especially as the sixth internal sense field and in body-speech-mind formulations.",
+  "notes": "The project keeps mind as the default because it is the cleanest general English, but the entry must not drift into treating mano as interchangeable with citta or viññāṇa. In the sixfold system mano is the internal mental field or faculty correlated with dhammas and mano-viññāṇa. In ethical triads it is the mental side of bodily, verbal, and mental action. Mental faculty can be used when that role needs to stay explicit. Translators should keep the faculty distinction audible in six-sense-field contexts and should not flatten mano into a generic consciousness term.",
   "context_rules": [
     {
-      "context": "In general doctrinal contexts and standard triads such as body, speech, and mind",
+      "context": "In general doctrinal prose and in body-speech-mind expressions",
       "rendering": "mind",
       "notes": "Default project rendering."
     },
     {
-      "context": "In contexts emphasizing mano as a sense faculty alongside eye, ear, nose, tongue, and body",
+      "context": "In six-sense-field analysis where mano functions alongside eye, ear, nose, tongue, and body",
       "rendering": "mental faculty",
-      "notes": "Use when the faculty-role needs to stay explicit."
+      "notes": "Use when the faculty-role should remain audible in English."
     },
     {
-      "context": "In Punnaji-style psychological contrast between cognitive and affective functions",
+      "context": "In compounds such as manokamma",
+      "rendering": "mind",
+      "notes": "Keep continuity with body, speech, and mind formulas."
+    },
+    {
+      "context": "When the passage distinguishes mano from citta or viññāṇa",
       "rendering": "mental faculty",
-      "notes": "Use when the rational or cognitive side of mind is explicitly in view."
+      "notes": "Use the more specific alternate rather than flattening the distinction."
     }
   ],
   "related_terms": [
-    "ayatana",
-    "salayatana",
-    "vinnana",
-    "kamma",
+    "āyatana",
+    "saḷāyatana",
     "mano-vinnana",
-    "manosancetana-ahara"
+    "viññāṇa",
+    "manosancetana-ahara",
+    "kamma"
   ],
   "example_phrases": [
     {
       "pali": "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ",
       "translation": "dependent on the mental faculty and dhammas, mind-knowing arises",
-      "notes": "Shows mano in its sense-base role.",
+      "notes": "Shows the sixth-sense-field usage.",
       "source": "MN 148"
     },
     {
       "pali": "manokamma",
       "translation": "mental action",
-      "notes": "Useful compound showing the term in ethical triads."
+      "notes": "Ethical-triad usage."
+    },
+    {
+      "pali": "manāyatana",
+      "translation": "mind field",
+      "notes": "Shows relation to āyatana-family terminology.",
+      "source": "MN 137"
     }
   ],
   "sutta_references": [
-    "MN 148"
+    "MN 148",
+    "MN 137",
+    "AN 6.63"
   ],
   "tags": [
     "core-doctrine",
     "sense-fields",
-    "mental-qualities"
+    "context-sensitive",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Expanded to distinguish mano from citta and viññāṇa and to encode both six-sense-field and ethical-triad usage."
 }
