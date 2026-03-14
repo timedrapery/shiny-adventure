@@ -49,6 +49,9 @@
       "notes": "Useful for technical meditative context."
     }
   ],
+  "sutta_references": [
+    "DN 1"
+  ],
   "tags": [
     "core-doctrine",
     "context-sensitive"

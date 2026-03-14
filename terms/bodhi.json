@@ -43,6 +43,9 @@
       "notes": "Useful for source-facing translation where the practical aim is explicit."
     }
   ],
+  "sutta_references": [
+    "MN 26"
+  ],
   "tags": [
     "core-doctrine",
     "core-practice"

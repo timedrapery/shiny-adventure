@@ -43,6 +43,9 @@
       "notes": "Useful for meditative-development contexts."
     }
   ],
+  "sutta_references": [
+    "SN 22.79"
+  ],
   "tags": [
     "core-doctrine",
     "aggregates"

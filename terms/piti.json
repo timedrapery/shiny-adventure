@@ -49,6 +49,10 @@
       "notes": "Useful for showing that pīti is dynamic and not the endpoint of practice."
     }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 119"
+  ],
   "tags": [
     "core-practice",
     "meditative-development",
