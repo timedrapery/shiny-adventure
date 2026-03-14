@@ -1,0 +1,57 @@
+{
+  "term": "akusala",
+  "normalized_term": "akusala",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "unskillful, unhealthy",
+  "preferred_translation": "unwholesome",
+  "alternative_translations": [
+    "unskillful",
+    "harmful"
+  ],
+  "discouraged_translations": [
+    "bad"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing qualities, actions, or states that are ethically unhealthy and conducive to confusion and suffering.",
+  "notes": "The project prefers unwholesome to preserve the ethical and psychological range of the term. Bad is too blunt and collapses doctrinal analysis into ordinary condemnation.",
+  "context_rules": [
+    {
+      "context": "In general ethical and doctrinal contexts",
+      "rendering": "unwholesome",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanations of training or habit formation",
+      "rendering": "unskillful",
+      "notes": "Acceptable when the practical dimension is central."
+    },
+    {
+      "context": "In prose emphasizing damaging consequences",
+      "rendering": "harmful",
+      "notes": "Use when consequence matters more than classification."
+    }
+  ],
+  "related_terms": [
+    "kusala",
+    "taṇhā",
+    "sammā-diṭṭhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "akusalehi dhammehi",
+      "translation": "from unwholesome qualities",
+      "notes": "Useful broad doctrinal example."
+    },
+    {
+      "pali": "akusalamūla",
+      "translation": "root of the unwholesome",
+      "notes": "Shows how the term functions in analytical compounds."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

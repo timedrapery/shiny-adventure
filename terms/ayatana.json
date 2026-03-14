@@ -1,0 +1,57 @@
+{
+  "term": "āyatana",
+  "normalized_term": "ayatana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "base, domain, sphere",
+  "preferred_translation": "cognitive realm",
+  "alternative_translations": [
+    "domain",
+    "base"
+  ],
+  "discouraged_translations": [
+    "sense base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A domain or field of cognition; in this project often rendered as cognitive realm unless a more specific sense-field meaning is intended.",
+  "notes": "This is a context-sensitive term. The project prefers cognitive realm for the broader term āyatana because it helps distinguish it from the more specific compound saḷāyatana and avoids flattening every use into a fixed technical gloss.",
+  "context_rules": [
+    {
+      "context": "In broader analytical contexts where the term names a field of cognition or domain",
+      "rendering": "cognitive realm",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the passage clearly emphasizes spatial or functional range",
+      "rendering": "domain",
+      "notes": "Acceptable alternate in explanatory prose."
+    },
+    {
+      "context": "In compounds where a traditional base-language rendering is clearer",
+      "rendering": "base",
+      "notes": "Use when it keeps the English compact without obscuring the function."
+    }
+  ],
+  "related_terms": [
+    "saḷāyatana",
+    "viññāṇa",
+    "saññā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "manāyatana",
+      "translation": "the mind cognitive realm",
+      "notes": "Shows the term used in specific analytical compounds."
+    },
+    {
+      "pali": "dhammāyatana",
+      "translation": "the phenomena cognitive realm",
+      "notes": "Useful for contexts where the object-side domain is in view."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

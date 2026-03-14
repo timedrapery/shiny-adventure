@@ -1,0 +1,57 @@
+{
+  "term": "kusala",
+  "normalized_term": "kusala",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "skillful, healthy, in good condition",
+  "preferred_translation": "wholesome",
+  "alternative_translations": [
+    "skillful",
+    "beneficial"
+  ],
+  "discouraged_translations": [
+    "good"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing qualities, actions, or states that are ethically healthy and conducive to clarity and liberation.",
+  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation.",
+  "context_rules": [
+    {
+      "context": "In general ethical and doctrinal contexts",
+      "rendering": "wholesome",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose focusing on training and cultivation",
+      "rendering": "skillful",
+      "notes": "Useful when the practical dimension is foregrounded."
+    },
+    {
+      "context": "In contexts where beneficial outcomes are being contrasted",
+      "rendering": "beneficial",
+      "notes": "Use when wholesome would sound too evaluative in English."
+    }
+  ],
+  "related_terms": [
+    "akusala",
+    "bhāvanā",
+    "sammā-diṭṭhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kusalassa upasampadā",
+      "translation": "undertaking what is wholesome",
+      "notes": "Common ethical formula."
+    },
+    {
+      "pali": "kusalā dhammā",
+      "translation": "wholesome qualities",
+      "notes": "Shows the term in broad doctrinal use."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

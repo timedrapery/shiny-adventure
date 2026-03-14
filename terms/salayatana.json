@@ -1,0 +1,55 @@
+{
+  "term": "saḷāyatana",
+  "normalized_term": "salayatana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "six bases or six domains",
+  "preferred_translation": "sense field",
+  "alternative_translations": [
+    "six sense fields"
+  ],
+  "discouraged_translations": [
+    "sense base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The six sense fields through which contact and cognition occur.",
+  "notes": "The project prefers sense field because it reads more naturally than sense base while still retaining the analytical structure of the term. In dependent origination contexts, the plural force is often strongly implied even when the compound appears as a doctrinal link.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "sense field",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the sixfold structure needs to be explicit in prose",
+      "rendering": "six sense fields",
+      "notes": "Use when the singular English phrase would hide the doctrinal count."
+    }
+  ],
+  "related_terms": [
+    "āyatana",
+    "viññāṇa",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saḷāyatana paccayā phasso",
+      "translation": "with sense field as condition, contact",
+      "notes": "Dependent origination usage."
+    },
+    {
+      "pali": "ajjhattikāni āyatanāni",
+      "translation": "the internal sense fields",
+      "notes": "Useful for showing how the broader āyatana family works."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

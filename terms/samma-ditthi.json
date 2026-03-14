@@ -1,0 +1,55 @@
+{
+  "term": "sammā-diṭṭhi",
+  "normalized_term": "samma-ditthi",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right view",
+  "preferred_translation": "right view",
+  "alternative_translations": [
+    "appropriate view"
+  ],
+  "discouraged_translations": [
+    "correct belief"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The right orientation of understanding that sees experience and practice in line with the path.",
+  "notes": "The project keeps the familiar rendering right view here because it is already clear contemporary English and functions well across path, ethics, and insight contexts. The term should not be narrowed to mere belief or ideology.",
+  "context_rules": [
+    {
+      "context": "In path-factor contexts",
+      "rendering": "right view",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose stressing appropriateness rather than dogma",
+      "rendering": "appropriate view",
+      "notes": "Use sparingly if it clarifies the practical force."
+    }
+  ],
+  "related_terms": [
+    "sammasankappa",
+    "bodhi",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-diṭṭhi",
+      "translation": "right view",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "micchā-diṭṭhi",
+      "translation": "wrong view",
+      "notes": "Helpful contrast showing the practical polarity of the term."
+    }
+  ],
+  "sutta_references": [
+    "MN 9",
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

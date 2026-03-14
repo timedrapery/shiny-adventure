@@ -1,0 +1,60 @@
+{
+  "term": "sammāsaṅkappa",
+  "normalized_term": "sammasankappa",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right intention or right resolve",
+  "preferred_translation": "right attitude",
+  "alternative_translations": [
+    "right resolve",
+    "right intention"
+  ],
+  "discouraged_translations": [
+    "right thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of rightly directed attitude or resolve shaping intention away from harm and attachment.",
+  "notes": "The project prefers right attitude because it captures the ongoing directional quality of the factor better than a single interior thought. Right resolve and right intention remain acceptable when a passage emphasizes deliberate orientation more explicitly.",
+  "context_rules": [
+    {
+      "context": "In most path-factor contexts",
+      "rendering": "right attitude",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing deliberate direction",
+      "rendering": "right resolve",
+      "notes": "Useful when the volitional aspect needs more weight."
+    },
+    {
+      "context": "When the passage focuses narrowly on intended aim",
+      "rendering": "right intention",
+      "notes": "Acceptable alternate if attitude would sound too broad."
+    }
+  ],
+  "related_terms": [
+    "sammā-diṭṭhi",
+    "akusala",
+    "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammāsaṅkappa",
+      "translation": "right attitude",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "nekkhammasaṅkappa",
+      "translation": "attitude of renunciation",
+      "notes": "Shows one concrete mode of the factor."
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

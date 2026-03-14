@@ -1,0 +1,51 @@
+{
+  "term": "khandha",
+  "normalized_term": "khandha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "heap or mass",
+  "preferred_translation": "heap",
+  "alternative_translations": [
+    "aggregate"
+  ],
+  "discouraged_translations": [
+    "bundle"
+  ],
+  "untranslated_preferred": false,
+  "definition": "One of the component heaps used to analyze experience, classically grouped as five.",
+  "notes": "The project prefers heap because it preserves the concreteness of the Pāli without importing too much technical abstraction. Aggregate remains acceptable in explanatory prose because it is familiar to many readers and translators.",
+  "context_rules": [
+    {
+      "context": "In direct translation of doctrinal analysis",
+      "rendering": "heap",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where familiar technical language is helpful",
+      "rendering": "aggregate",
+      "notes": "Acceptable alternate for reader orientation."
+    }
+  ],
+  "related_terms": [
+    "viññāṇa",
+    "saññā",
+    "dukkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañcupādānakkhandhā",
+      "translation": "the five heaps of clinging",
+      "notes": "Key doctrinal phrase."
+    },
+    {
+      "pali": "rūpakkhandha",
+      "translation": "the form heap",
+      "notes": "Shows the term in compound analysis."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "aggregates"
+  ],
+  "status": "reviewed"
+}
