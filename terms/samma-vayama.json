@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of directed effort that prevents and abandons the unwholesome while developing and sustaining the wholesome.",
-  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor. Ven. Dr. M. Punnaji uses harmonious exercise in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering.",
+  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor. Ven. Dr. M. Punnaji uses harmonious exercise in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering. The OSF publication What Is And Is Not The Path gives this factor unusual prominence by treating it as the active engine that abandons the unwholesome, establishes the wholesome, and supports remembering and samadhi.",
   "context_rules": [
     {
       "context": "In most path-factor and training contexts",
@@ -42,6 +42,11 @@
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right changing",
       "notes": "Source-backed heading style when the factor is framed as the active changing of mind-state."
+    },
+    {
+      "context": "In OSF publication prose emphasizing the four tasks of training",
+      "rendering": "right effort",
+      "notes": "Prefer the standard form while the notes carry the prevent-abandon-arouse-maintain structure."
     }
   ],
   "related_terms": [

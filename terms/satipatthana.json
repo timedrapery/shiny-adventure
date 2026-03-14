@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The establishing of sati in a structured field of practice such as body, feeling, mind, or qualities.",
-  "notes": "The project prefers establishment of sati because it preserves the house decision to leave sati untranslated while keeping the practical force of the compound clear. The phrase is intentionally slightly formal because the entry names a structured practice framework rather than a vague inner attitude. Foundation of mindfulness is discouraged because it reimports a rendering the project is already avoiding in the head term. Ven. Dr. M. Punnaji interprets satipaṭṭhāna as introversion of attention and systematic introspection; the repository records those as source-backed pedagogical alternates rather than replacing the house default.",
+  "notes": "The project prefers establishment of sati because it preserves the house decision to leave sati untranslated while keeping the practical force of the compound clear. The phrase is intentionally slightly formal because the entry names a structured practice framework rather than a vague inner attitude. Foundation of mindfulness is discouraged because it reimports a rendering the project is already avoiding in the head term. Ven. Dr. M. Punnaji interprets satipatthana as introversion of attention and systematic introspection; the repository records those as source-backed pedagogical alternates rather than replacing the house default. The OSF publication What Is And Is Not The Path strongly links satipatthana with anapanasati and treats the two as coordinated aspects of the same practical training rather than as rival systems.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -31,6 +31,11 @@
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly focused attention",
       "rendering": "introversion of attention",
       "notes": "Source-backed alternate, not the house default."
+    },
+    {
+      "context": "In OSF publication prose linking the framework directly with anapanasati practice",
+      "rendering": "establishment of sati",
+      "notes": "Keep the repo's canonical wording while allowing the book's integrated-practice emphasis to shape explanation."
     }
   ],
   "related_terms": [

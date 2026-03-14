@@ -6,14 +6,15 @@
   "literal_meaning": "action, deed",
   "preferred_translation": "action",
   "alternative_translations": [
-    "deed"
+    "deed",
+    "behavior"
   ],
   "discouraged_translations": [
     "fate"
   ],
   "untranslated_preferred": false,
   "definition": "Intentional action, especially action that carries ethical weight and consequences.",
-  "notes": "The project prefers action because it keeps the term grounded in what is done rather than in later popular ideas about destiny or cosmic payback. Deed is acceptable when the English line wants something slightly more concrete or moralized, but fate should be avoided because it reverses the agency built into the term. The OSF glossary stresses kamma as the direct result of actions on present satisfaction and as cause-and-effect consequence, which the repository records as source-backed explanatory emphasis.",
+  "notes": "The project prefers action because it keeps the term grounded in what is done rather than in later popular ideas about destiny or cosmic payback. Deed is acceptable when the English line wants something slightly more concrete or moralized, but fate should be avoided because it reverses the agency built into the term. The OSF glossary stresses kamma as the direct result of actions on present satisfaction and as cause-and-effect consequence, which the repository records as source-backed explanatory emphasis. The OSF publication What Is And Is Not The Path reinforces this by explicitly presenting kamma as action or behavior and rejecting the idea of kamma as a moral calculator.",
   "context_rules": [
     {
       "context": "In most doctrinal and analytical contexts",
@@ -24,6 +25,11 @@
       "context": "In ethical or narrative contexts where a more concrete noun reads better",
       "rendering": "deed",
       "notes": "Acceptable alternate when the sentence points to a particular act."
+    },
+    {
+      "context": "In OSF explanatory prose emphasizing habit-pattern and conduct",
+      "rendering": "behavior",
+      "notes": "Useful when the line is about how one is acting rather than the abstraction of action."
     }
   ],
   "related_terms": [

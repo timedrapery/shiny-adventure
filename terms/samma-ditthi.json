@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The right orientation of understanding that sees experience and practice in line with the path.",
-  "notes": "The project keeps the familiar rendering right view here because it is already clear contemporary English and functions well across path, ethics, and insight contexts. The term should not be narrowed to mere belief or ideology. Ven. Dr. M. Punnaji uses harmonious perspective in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering.",
+  "notes": "The project keeps the familiar rendering right view here because it is already clear contemporary English and functions well across path, ethics, and insight contexts. The term should not be narrowed to mere belief or ideology. Ven. Dr. M. Punnaji uses harmonious perspective in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering. The OSF publication What Is And Is Not The Path reinforces right view as an immediately practical orientation that sees dissatisfaction, its cause, and the path correctly rather than as a set of abstract opinions.",
   "context_rules": [
     {
       "context": "In path-factor contexts",
@@ -36,6 +36,11 @@
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right viewing",
       "notes": "Source-backed heading style reflecting the viewing or looking idiom."
+    },
+    {
+      "context": "In OSF publication prose stressing the practical seeing of dukkha and its cause",
+      "rendering": "right view",
+      "notes": "Prefer the standard form while letting the notes clarify that this is active, not merely conceptual."
     }
   ],
   "related_terms": [

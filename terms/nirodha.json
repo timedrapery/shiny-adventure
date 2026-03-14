@@ -15,7 +15,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation is now elevated from a secondary alternate to a primary-source-backed doctrinal option within OSF house style.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation is now elevated from a secondary alternate to a primary-source-backed doctrinal option within OSF house style. The OSF publication What Is And Is Not The Path further sharpens the practical sequence dukkha to nirodha by presenting the task as noticing stress or dissatisfaction and getting free from it right away.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -46,6 +46,11 @@
       "context": "In Buddhadasa-line explanation emphasizing the extinguishing of the fires or the stopping of the process",
       "rendering": "quenching",
       "notes": "Primary-source-backed default retained in this slice."
+    },
+    {
+      "context": "In OSF practical instruction emphasizing immediate release from present stress",
+      "rendering": "cessation",
+      "notes": "Use when the line is about the direct ending of the problem now rather than the imagery of quenching."
     }
   ],
   "related_terms": [

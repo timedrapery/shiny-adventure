@@ -6,14 +6,15 @@
   "literal_meaning": "beyond the world",
   "preferred_translation": "beyond-the-world",
   "alternative_translations": [
-    "supramundane"
+    "supramundane",
+    "beyond-worlding"
   ],
   "discouraged_translations": [
     "supernatural"
   ],
   "untranslated_preferred": false,
   "definition": "Beyond the world; transcending the worldly domain in a specifically liberative sense.",
-  "notes": "The project prefers beyond-the-world because it is transparent and avoids the academic feel of supramundane as a default. Supramundane remains acceptable in explicitly technical prose where the established contrast with lokiya is being preserved. The term should signal liberative transcendence, not the paranormal or otherworldly in a mythic sense.",
+  "notes": "The project prefers beyond-the-world because it is transparent and avoids the academic feel of supramundane as a default. Supramundane remains acceptable in explicitly technical prose where the established contrast with lokiya is being preserved. The term should signal liberative transcendence, not the paranormal or otherworldly in a mythic sense. The OSF publication What Is And Is Not The Path sharpens this further by explicitly rejecting supernatural readings and explaining lokuttara as beyond worlding rather than beyond reality.",
   "context_rules": [
     {
       "context": "In most explanatory and doctrinal contexts",
@@ -29,6 +30,11 @@
       "context": "When the passage marks path and fruition as transcending conditioned identity and acquisition",
       "rendering": "beyond-the-world",
       "notes": "Preserve the liberative contrast rather than softening the term into merely elevated or spiritual."
+    },
+    {
+      "context": "In OSF explanatory prose clarifying that the term does not imply supernaturalism",
+      "rendering": "beyond-worlding",
+      "notes": "Use selectively when the stress is on ending world-making rather than leaving reality."
     }
   ],
   "related_terms": [

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path of practice, especially the path leading to the quenching of dissatisfaction.",
-  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default.",
+  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default. The OSF publication What Is And Is Not The Path strongly reinforces magga as a practical system that functions in daily life and leads directly to the ending of dissatisfaction.",
   "context_rules": [
     {
       "context": "In doctrinal contexts referring to the noble path or a defined course of practice",
@@ -29,6 +29,11 @@
       "context": "In Punnaji-style pedagogical references to the Ariya Atthangika Magga",
       "rendering": "way",
       "notes": "Source-backed alternate for phrases such as the Sublime Eightfold Way."
+    },
+    {
+      "context": "In OSF publication prose stressing an immediately workable course of practice",
+      "rendering": "path",
+      "notes": "Prefer the plain doctrinal form while letting the notes carry the practical emphasis."
     }
   ],
   "related_terms": [

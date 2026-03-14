@@ -19,8 +19,11 @@ When sources disagree, use this order:
    meditation language, contemporary tone, and OSF teaching vocabulary
 4. Buddhadasa Bhikkhu, when he is the clearest guide for dependent arising,
    voidness, not-self, natural-law framing, and here-now liberation language
-5. Existing repository defaults that do not conflict with the above
-6. Secondary source profiles such as Punnaji, the OSF glossary, and other
+5. Named OSF publications adopted into the repository house style, including
+   *What Is And Is Not The Path*, when they clarify usage without overriding
+   canonical repo spellings
+6. Existing repository defaults that do not conflict with the above
+7. Secondary source profiles such as Punnaji, the OSF glossary, and other
    local materials
 
 ## Primary Authorities
@@ -90,6 +93,8 @@ At the current stage of the project:
 
 - Dhammarato is setting the main practical house language
 - Buddhadasa is setting much of the doctrinal and dependent-arising frame
+- OSF publications such as *What Is And Is Not The Path* can refine term
+  definitions and usage while the repo keeps its own normalized spellings
 - the repository should increasingly read like a coherent Dhammarato /
   Buddhadasa-line editorial system rather than a neutral aggregator of many
   Buddhist English vocabularies
