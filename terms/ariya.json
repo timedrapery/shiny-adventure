@@ -6,14 +6,16 @@
   "literal_meaning": "noble, elevated",
   "preferred_translation": "noble",
   "alternative_translations": [
-    "ennobling"
+    "ennobling",
+    "sublime",
+    "supernormal"
   ],
   "discouraged_translations": [
     "holy"
   ],
   "untranslated_preferred": false,
   "definition": "A term marking what belongs to the noble path, noble persons, or truths known in a liberating way.",
-  "notes": "The project prefers noble as the default because it is compact, established, and works cleanly in compounds already present across the dataset. Ennobling can be useful in explanatory prose when the term's transformative or elevating force needs to be made explicit rather than merely named.",
+  "notes": "The project prefers noble as the default because it is compact, established, and works cleanly in compounds already present across the dataset. Ennobling can be useful in explanatory prose when the term's transformative or elevating force needs to be made explicit rather than merely named. Ven. Dr. M. Punnaji frequently uses sublime and sometimes supernormal in pedagogical path-framing; the repository records those as source-backed alternates rather than adopting them as the default house rendering.",
   "context_rules": [
     {
       "context": "In established doctrinal compounds",
@@ -24,6 +26,11 @@
       "context": "In explanatory prose emphasizing transformative force",
       "rendering": "ennobling",
       "notes": "Use selectively where the active sense of the term matters."
+    },
+    {
+      "context": "In Punnaji-style pedagogical framing of the eightfold way as above the ordinary condition",
+      "rendering": "sublime",
+      "notes": "Source-backed alternate from the Ariyamagga Bhavana and Return To Tranquility materials."
     }
   ],
   "related_terms": [

@@ -6,7 +6,9 @@
   "literal_meaning": "placing together or bringing into composure",
   "preferred_translation": "composure",
   "alternative_translations": [
-    "collectedness"
+    "collectedness",
+    "mental equilibrium",
+    "stillness of mind"
   ],
   "discouraged_translations": [
     "concentration",
@@ -14,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state of mental composure in which the mind is steady and well coordinated.",
-  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration.",
+  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration. Ven. Dr. M. Punnaji often uses mental equilibrium and stillness of mind in meditative and path-factor exposition; the repository records those as source-backed alternates while retaining composure as the house default.",
   "context_rules": [
     {
       "context": "In most project translations",
@@ -25,6 +27,11 @@
       "context": "In prose emphasizing the gathered quality of mind",
       "rendering": "collectedness",
       "notes": "Acceptable alternate when it reads more naturally."
+    },
+    {
+      "context": "In Punnaji-style pedagogical meditation prose emphasizing calm balance of mind",
+      "rendering": "mental equilibrium",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

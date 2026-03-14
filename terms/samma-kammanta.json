@@ -6,14 +6,15 @@
   "literal_meaning": "right action",
   "preferred_translation": "right action",
   "alternative_translations": [
-    "appropriate action"
+    "appropriate action",
+    "harmonious action"
   ],
   "discouraged_translations": [
     "correct conduct"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of bodily action aligned with harmlessness and ethical restraint.",
-  "notes": "The project keeps right action as the default because it is already readable and well established. Appropriate action can be useful in explanatory prose where the emphasis falls on action fitting the path rather than on a static moral label.",
+  "notes": "The project keeps right action as the default because it is already readable and well established. Appropriate action can be useful in explanatory prose where the emphasis falls on action fitting the path rather than on a static moral label. Ven. Dr. M. Punnaji uses harmonious action in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate.",
   "context_rules": [
     {
       "context": "In path-factor and ethical contexts",
@@ -24,6 +25,11 @@
       "context": "In explanatory prose emphasizing what conduct accords with the path",
       "rendering": "appropriate action",
       "notes": "Acceptable alternate when it improves clarity."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious action",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

@@ -7,14 +7,15 @@
   "preferred_translation": "right attitude",
   "alternative_translations": [
     "right resolve",
-    "right intention"
+    "right intention",
+    "harmonious orientation"
   ],
   "discouraged_translations": [
     "right thought"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of rightly directed attitude or resolve shaping intention away from harm and attachment.",
-  "notes": "The project prefers right attitude because it captures the ongoing directional quality of the factor better than a single interior thought. Right resolve and right intention remain acceptable when a passage emphasizes deliberate orientation more explicitly.",
+  "notes": "The project prefers right attitude because it captures the ongoing directional quality of the factor better than a single interior thought. Right resolve and right intention remain acceptable when a passage emphasizes deliberate orientation more explicitly. Ven. Dr. M. Punnaji uses harmonious orientation in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate.",
   "context_rules": [
     {
       "context": "In most path-factor contexts",
@@ -30,6 +31,11 @@
       "context": "When the passage focuses narrowly on intended aim",
       "rendering": "right intention",
       "notes": "Acceptable alternate if attitude would sound too broad."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious orientation",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

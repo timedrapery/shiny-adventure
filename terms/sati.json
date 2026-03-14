@@ -5,7 +5,8 @@
   "part_of_speech": "noun",
   "preferred_translation": "sati",
   "alternative_translations": [
-    "remembering"
+    "remembering",
+    "attention"
   ],
   "discouraged_translations": [
     "mindfulness"
@@ -13,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "sati (remembering with presence of mind)",
   "definition": "The active keeping in mind of what is relevant, involving recollection and presence of mind.",
-  "notes": "Project preference is to leave sati untranslated in most contexts. On first occurrence it may be glossed as remembering with presence of mind. This is a rule-bearing entry because the project explicitly prefers the Pāli term in many contexts.",
+  "notes": "Project preference is to leave sati untranslated in most contexts. On first occurrence it may be glossed as remembering with presence of mind. This is a rule-bearing entry because the project explicitly prefers the Pāli term in many contexts. Ven. Dr. M. Punnaji often interprets sati through an attention or introversion-of-attention framework; the repository records attention as a source-backed explanatory alternate without displacing the current house practice of leaving the term untranslated.",
   "context_rules": [
     {
       "context": "In most translations within this project",
@@ -29,6 +30,11 @@
       "context": "In explanatory prose discussing function rather than preserving Pāli",
       "rendering": "remembering",
       "notes": "Use carefully in prose explanation rather than as the default translation in source passages."
+    },
+    {
+      "context": "In Punnaji-style pedagogical explanation of satipa??h?na and ?n?p?nasati",
+      "rendering": "attention",
+      "notes": "Source-backed explanatory alternate, not the house default."
     }
   ],
   "related_terms": [

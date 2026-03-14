@@ -7,14 +7,15 @@
   "preferred_translation": "energy",
   "alternative_translations": [
     "vigor",
-    "persistence"
+    "persistence",
+    "strength"
   ],
   "discouraged_translations": [
     "effort"
   ],
   "untranslated_preferred": false,
   "definition": "Energetic persistence applied to practice and the development of wholesome qualities.",
-  "notes": "The project prefers energy for viriya so it remains distinct from sammā-vāyāma, which is already rendered right effort. Vigor and persistence remain acceptable when a passage leans more toward forcefulness or steadiness than sheer energetic application.",
+  "notes": "The project prefers energy for viriya so it remains distinct from sammā-vāyāma, which is already rendered right effort. Vigor and persistence remain acceptable when a passage leans more toward forcefulness or steadiness than sheer energetic application. Ven. Dr. M. Punnaji sometimes uses strength in awakening-factor exposition; the repository records that as a source-backed alternate while retaining energy as the house default.",
   "context_rules": [
     {
       "context": "In most practical and awakening-factor contexts",
@@ -30,6 +31,11 @@
       "context": "In prose emphasizing sustained steadiness over time",
       "rendering": "persistence",
       "notes": "Use when the durational aspect matters most."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the awakening sequence",
+      "rendering": "strength",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

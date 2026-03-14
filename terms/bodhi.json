@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Awakening to the nature of experience and the ending of delusion.",
-  "notes": "The project prefers awakening over enlightenment because it is clearer, less culturally overloaded, and closer to the sense of coming awake. Full awakening may be useful when the context explicitly marks unsurpassed or complete realization.",
+  "notes": "The project prefers awakening over enlightenment because it is clearer, less culturally overloaded, and closer to the sense of coming awake. Full awakening may be useful when the context explicitly marks unsurpassed or complete realization. Ven. Dr. M. Punnaji often frames bodhi as awakening from the dream of existence; the repository records that as a source-backed pedagogical interpretation without replacing awakening as the house default.",
   "context_rules": [
     {
       "context": "In most doctrinal and narrative contexts",
@@ -24,6 +24,11 @@
       "context": "When the context explicitly emphasizes complete realization",
       "rendering": "full awakening",
       "notes": "Useful with compounds such as sammāsambodhi."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of existential awakening",
+      "rendering": "awakening",
+      "notes": "Often explained there as awakening from the dream of existence."
     }
   ],
   "related_terms": [

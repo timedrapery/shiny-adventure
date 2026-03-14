@@ -6,14 +6,15 @@
   "literal_meaning": "right sati",
   "preferred_translation": "right sati",
   "alternative_translations": [
-    "right remembering"
+    "right remembering",
+    "harmonious attention"
   ],
   "discouraged_translations": [
     "right mindfulness"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of rightly established sati, keeping what matters clearly in mind in a way aligned with the path.",
-  "notes": "Because the project already prefers leaving sati untranslated in many contexts, the natural extension here is right sati rather than right mindfulness. Right remembering can be used in explanation when the functional sense needs to be unpacked for readers unfamiliar with the Pāli.",
+  "notes": "Because the project already prefers leaving sati untranslated in many contexts, the natural extension here is right sati rather than right mindfulness. Right remembering can be used in explanation when the functional sense needs to be unpacked for readers unfamiliar with the Pāli. Ven. Dr. M. Punnaji uses harmonious attention in his eightfold-way and satipa??h?na teaching materials; the repository records that as a source-specific pedagogical alternate rather than changing the house default.",
   "context_rules": [
     {
       "context": "In path-factor and source-facing doctrinal contexts",
@@ -24,6 +25,11 @@
       "context": "In explanatory prose unpacking the functional role of sati",
       "rendering": "right remembering",
       "notes": "Acceptable alternate when clarity is needed."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious attention",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

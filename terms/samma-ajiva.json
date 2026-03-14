@@ -6,14 +6,16 @@
   "literal_meaning": "right livelihood",
   "preferred_translation": "right livelihood",
   "alternative_translations": [
-    "appropriate livelihood"
+    "appropriate livelihood",
+    "harmonious lifestyle",
+    "harmonious life"
   ],
   "discouraged_translations": [
     "correct living"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of sustaining one's life in ways that do not depend on harm or deception.",
-  "notes": "The project keeps right livelihood as the default because it is standard and clear enough in contemporary English. Appropriate livelihood may work in explanatory prose where the practical and contextual dimension needs emphasis.",
+  "notes": "The project keeps right livelihood as the default because it is standard and clear enough in contemporary English. Appropriate livelihood may work in explanatory prose where the practical and contextual dimension needs emphasis. Ven. Dr. M. Punnaji uses harmonious lifestyle and harmonious life in his eightfold-way teaching materials; the repository records those as source-specific pedagogical alternates.",
   "context_rules": [
     {
       "context": "In path-factor and ethical contexts",
@@ -24,6 +26,11 @@
       "context": "In explanatory prose focusing on livelihood that accords with the path",
       "rendering": "appropriate livelihood",
       "notes": "Acceptable alternate when the line reads better."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious lifestyle",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

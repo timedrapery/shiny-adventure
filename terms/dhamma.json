@@ -16,7 +16,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, or quality depending on context)",
   "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, or an item within a doctrinal analysis.",
-  "notes": "The project leaves dhamma untranslated by default because any single English equivalent distorts too many contexts. When English is required, the rendering must be chosen by function: teaching for the dispensation or doctrine, phenomenon for analytic contexts, and quality for moral or experiential description.",
+  "notes": "The project leaves dhamma untranslated by default because any single English equivalent distorts too many contexts. When English is required, the rendering must be chosen by function: teaching for the dispensation or doctrine, phenomenon for analytic contexts, and quality for moral or experiential description. Ven. Dr. M. Punnaji sometimes narrows dhamma in pedagogical satipa??h?na explanation toward thought-content; the repository records that as a contextual teaching move rather than a general replacement for the current house handling of dhamma.",
   "context_rules": [
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
@@ -37,6 +37,11 @@
       "context": "When the term names a moral or mental characteristic",
       "rendering": "quality",
       "notes": "Use if phenomenon would sound too abstract or technical."
+    },
+    {
+      "context": "In Punnaji-style pedagogical explanation of dhammanupassan? as inward observation of thought-content",
+      "rendering": "quality",
+      "notes": "Use only in explanatory prose, since the broader term remains too context-sensitive for a single replacement."
     }
   ],
   "related_terms": [

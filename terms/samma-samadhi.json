@@ -6,14 +6,16 @@
   "literal_meaning": "right composure",
   "preferred_translation": "right composure",
   "alternative_translations": [
-    "right collectedness"
+    "right collectedness",
+    "harmonious equilibrium",
+    "harmonious mental equilibrium"
   ],
   "discouraged_translations": [
     "right concentration"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of samādhi properly aligned with the path, classically expressed through the jhānas.",
-  "notes": "This entry follows the project's preference for samādhi as composure, so the path factor becomes right composure rather than right concentration. Right collectedness is acceptable in explanatory prose when the gathered quality of mind needs emphasis.",
+  "notes": "This entry follows the project's preference for samādhi as composure, so the path factor becomes right composure rather than right concentration. Right collectedness is acceptable in explanatory prose when the gathered quality of mind needs emphasis. Ven. Dr. M. Punnaji uses harmonious equilibrium and harmonious mental equilibrium in his eightfold-way teaching materials; the repository records those as source-specific pedagogical alternates.",
   "context_rules": [
     {
       "context": "In path-factor and source-facing doctrinal contexts",
@@ -24,6 +26,11 @@
       "context": "In explanatory prose stressing the gathered quality of mind",
       "rendering": "right collectedness",
       "notes": "Acceptable alternate when it reads more naturally."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious equilibrium",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

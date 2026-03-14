@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Mind, especially as a cognitive sense faculty and as one term in body-speech-mind formulations.",
-  "notes": "The project prefers mind as the default because it is the clearest ordinary English equivalent. When the context specifically treats mano as the sixth sense faculty or as the cognitive side of a triad, mental faculty may be the better rendering to prevent flattening it into citta or viññāṇa.",
+  "notes": "The project prefers mind as the default because it is the clearest ordinary English equivalent. When the context specifically treats mano as the sixth sense faculty or as the cognitive side of a triad, mental faculty may be the better rendering to prevent flattening it into citta or viññāṇa. Ven. Dr. M. Punnaji often contrasts mano as the cognitive or rational side of mind with citta as the affective side; this repository records that as an interpretive note rather than changing the default translation.",
   "context_rules": [
     {
       "context": "In general doctrinal contexts and standard triads such as body, speech, and mind",
@@ -24,6 +24,11 @@
       "context": "In contexts emphasizing mano as a sense faculty alongside eye, ear, nose, tongue, and body",
       "rendering": "mental faculty",
       "notes": "Use when the faculty-role needs to stay explicit."
+    },
+    {
+      "context": "In Punnaji-style psychological contrast between cognitive and affective functions",
+      "rendering": "mental faculty",
+      "notes": "Use when the rational or cognitive side of mind is explicitly in view."
     }
   ],
   "related_terms": [
