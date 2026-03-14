@@ -169,7 +169,7 @@ rather than a flat glossary.
 
 # Source-Backed Alternates
 
-When revising an entry from a named secondary source or teacher profile:
+When revising an entry from a named secondary source or talker profile:
 
 - keep the current `preferred_translation` unless the project has explicitly
   decided to change house style
