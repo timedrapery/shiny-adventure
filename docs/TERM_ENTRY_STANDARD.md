@@ -182,6 +182,9 @@ When revising an entry from a named secondary source or talker profile:
 This repository should not silently absorb strong interpretive systems without
 recording where they came from.
 
+For OSF authority order and cases where a source may directly change
+`preferred_translation`, also read `docs/OSF_EDITORIAL_AUTHORITY.md`.
+
 ------------------------------------------------------------------------
 
 # Context Rules

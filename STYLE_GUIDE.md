@@ -2,15 +2,23 @@
 
 ## Purpose
 
-This project is a living lexicon and translation dataset for rendering Pāli texts into contemporary English for a wide audience.
+This project is a living lexicon and translation dataset for rendering Pali
+texts into contemporary English for a wide audience.
 
 It serves three related purposes:
 
-1. A translator's house style guide
+1. A translator house style guide
 2. A human-readable lexicon
 3. A machine-readable dataset for translation tools
 
-The aim is not merely literal equivalence, but consistent, intelligible, and context-sensitive English that preserves doctrinal precision while remaining readable.
+This is specifically an **OSF house style** document. Editorial authority is
+governed by [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md),
+with Dhammarato and Buddhadasa Bhikkhu serving as the primary practical and
+doctrinal authorities.
+
+The aim is not merely literal equivalence, but consistent, intelligible, and
+context-sensitive English that preserves doctrinal precision while remaining
+readable.
 
 ---
 
@@ -18,65 +26,56 @@ The aim is not merely literal equivalence, but consistent, intelligible, and con
 
 ### 1. Use clear contemporary English
 
-Prefer plain modern English over archaic, overly academic, or artificially "sacred" diction.
+Prefer plain modern English over archaic, overly academic, or artificially
+sacred diction.
 
 Preferred:
+
 - right view
 - dissatisfaction
 - remembering
+- friendliness
 - delight
 
 Avoid when possible:
-- suffering, if dissatisfaction is more precise
-- mindfulness, when sati is better left untranslated or glossed differently
-- absorption, if it distorts the sense of jhāna
-- religious archaisms such as "thus have I heard" style wording unless deliberately chosen
 
----
+- suffering, if dissatisfaction is more precise
+- mindfulness, when remembering or sati is more precise
+- concentration, when unification of mind is more precise
+- absorption, if it distorts the sense of jhana
+- religious archaisms unless deliberately chosen
 
 ### 2. Preserve doctrinal precision
 
 Do not flatten technical terms into vague spiritual language.
 
 When a common English rendering obscures the function of a term, prefer:
+
 - a more precise English rendering
-- or the untranslated Pāli term
+- or the untranslated Pali term
 
----
+### 3. Keep key Pali terms untranslated when necessary
 
-### 3. Keep key Pāli terms untranslated when necessary
-
-Some terms should remain in Pāli when translation would distort or prematurely narrow their meaning.
+Some terms should remain in Pali when translation would distort or prematurely
+narrow their meaning.
 
 Examples may include:
-- ānāpānasati
-- sati
+
+- anapanasati
 - bhikkhu / bhikkhus
-- kāyagatā sati
-
-These may be glossed on first occurrence, then left untranslated thereafter.
-
----
+- kayagata sati
+- dhamma
+- nibbana
 
 ### 4. Prefer consistency across texts
 
-A term should normally receive the same English rendering across texts unless context clearly requires otherwise.
-
-The lexicon exists to support continuity across:
-- suttas
-- vinaya passages
-- commentarial discussion
-- contemporary paraphrases
-- tool-generated glossaries
-- app and API outputs
-
----
+A term should normally receive the same English rendering across texts unless
+context clearly requires otherwise.
 
 ### 5. Context still governs meaning
 
-Consistency does not mean rigidity.
-
-A preferred rendering is the default, not an absolute law. If context demands a different rendering, that may be used, but the deviation should be noted where appropriate.
+A preferred rendering is the default, not an absolute law. If context demands a
+different rendering, that may be used, but the deviation should be recorded.
 
 ---
 
@@ -90,92 +89,83 @@ When choosing a rendering, prioritize in this order:
 4. Cross-text consistency
 5. Literal transparency
 
-Literalness is valuable, but not if it obscures what the line is doing.
-
 ---
 
 ## Preferred Translation Tendencies
 
-These reflect current house style and may evolve.
+These reflect current OSF house style and may evolve.
 
-### Keep untranslated
-- ānāpānasati
-- sati
+### Keep untranslated when needed
+
+- anapanasati
 - bhikkhu / bhikkhus
-- kāyagatā sati
+- dhamma
+- nibbana
 
 ### Preferred renderings
+
 - dukkha -> dissatisfaction
-- pīti -> delight
-- samādhi -> composure
-- sammā-samādhi -> right composure
+- tanha -> wanting
+- sati -> remembering
+- samadhi -> unification of mind
+- samma-samadhi -> right unification of mind
+- samma-sati -> right remembering
+- metta -> friendliness
+- piti -> delight
 - vitakka -> thinking
-- vicāra -> pondering
-- bhāvanā -> development
+- vicara -> pondering
+- bhavana -> development
 - kusala -> wholesome
 - akusala -> unwholesome
 - bodhi -> awakening
-- anukampā -> sympathy
-- sammā-diṭṭhi -> right view
-- sammāsaṅkappa -> right attitude
-- sammā-sati -> right sati
-- nīvaraṇa -> distraction
+- samma-ditthi -> right view
+- sammasankappa -> right attitude
+- nivarana -> distraction
 - nirodha -> quenching
 - khandha -> heap
-- saṅkhārā -> choices (in paṭiccasamuppāda contexts, per project preference)
-- saññā -> recognition
-- asañña -> non-recognition
-- āyatana -> cognitive realm, except where it clearly means one of the six sense fields
-- salāyatana -> sense field
+- sankhara -> choices in paticcasamuppada contexts
 
 ### Special project preferences
-- Use "bhikkhus" rather than "monks"
+
+- Use `bhikkhus` rather than `monks`
 - Use gender-neutral pronouns
-- Use "awakening" rather than "enlightenment"
-- Extend core term preferences into compounds when the doctrinal function stays the same
-- Prefer "right sati" over "right mindfulness"
-- Prefer "right composure" over "right concentration"
-- Avoid using "the teaching says" in contemporary paraphrase
-- Prefer "in this case" or "in this instance" over "in this teaching"
+- Use `awakening` rather than `enlightenment`
+- Prefer `right remembering` over `right mindfulness`
+- Prefer `unification of mind` over `concentration`
+- Prefer `right unification of mind` over `right concentration`
+- Extend core term preferences into compounds when doctrinal function stays the same
 
 ---
 
 ## Handling of First Occurrence
 
-When a key Pāli term first appears in a text, the translator may:
+When a key Pali term first appears in a text, the translator may:
 
-1. leave it in Pāli
+1. leave it in Pali
 2. provide a short gloss
-3. thereafter use the Pāli term without repeated glossing
+3. thereafter use the Pali term without repeated glossing
 
 Example:
-- sati (remembering with presence of mind)
+
+- nibbana (quenching)
 
 After that:
-- sati
 
----
-
-## Repeated Formula Passages
-
-Repeated passages should normally be translated consistently unless:
-- the context changes their force
-- the repeated structure would sound unnatural in English
-- variation is needed to preserve sense rather than surface form
-
-Where repeated formulae are standardized, the project should aim to store a stable preferred rendering for reuse.
+- nibbana
 
 ---
 
 ## Variants and Alternatives
 
 The dataset may include:
+
 - preferred translation
 - acceptable alternatives
 - discouraged renderings
 - context-specific notes
 
 This allows both human translators and software tools to distinguish:
+
 - default rendering
 - allowed variation
 - translations to avoid
@@ -185,6 +175,7 @@ This allows both human translators and software tools to distinguish:
 ## Notes on Tone
 
 The English should feel:
+
 - direct
 - calm
 - precise
@@ -192,6 +183,7 @@ The English should feel:
 - contemporary
 
 It should not feel:
+
 - artificially mystical
 - pseudo-biblical
 - padded with jargon
@@ -199,40 +191,9 @@ It should not feel:
 
 ---
 
-## Punctuation and Formatting Preferences
-
-- Minimize em dashes
-- Use quotation marks only when present in the source, unless English style requires them for clarity outside translation
-- Maintain simple formatting
-- Prefer clean sectioning and structured entries
-
----
-
-## Role of the Lexicon
-
-The lexicon is not merely a glossary.
-
-It is:
-- a record of translation decisions
-- a house style guide
-- a rule base for apps and translation tools
-- a continuity layer across projects
-
-Every term entry should help answer:
-- What does this term mean?
-- How should it usually be rendered here?
-- What should be avoided?
-- When does context change the default?
-
----
-
 ## Revision Policy
 
 This style guide is living and revisable.
 
-Changes should aim toward:
-- greater consistency
-- greater clarity
-- greater usefulness for both human translators and machine tools
-
-When a translation preference changes, related term records should be updated so the dataset remains internally coherent.
+When a translation preference changes, related term records and authority docs
+should be updated so the dataset remains internally coherent.
