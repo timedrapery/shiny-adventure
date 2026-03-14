@@ -110,6 +110,25 @@ def check_untranslated_preferences(terms: dict[str, dict[str, object]]) -> list[
     return issues
 
 
+def check_suspicious_placeholders(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    text_fields = (
+        "term",
+        "preferred_translation",
+        "literal_meaning",
+        "definition",
+        "gloss_on_first_occurrence",
+    )
+    for stem, data in sorted(terms.items()):
+        for field in text_fields:
+            value = data.get(field)
+            if isinstance(value, str) and "?" in value:
+                issues.append(
+                    f"{stem}.json: field '{field}' contains '?' placeholder text; check for encoding loss"
+                )
+    return issues
+
+
 def print_group(title: str, issues: list[str]) -> None:
     if not issues:
         return
@@ -144,9 +163,12 @@ def main() -> int:
     reciprocal_issues = check_one_way_related_terms(terms)
     reference_issues = check_missing_sutta_references(terms)
     gloss_issues = check_untranslated_preferences(terms)
+    placeholder_issues = check_suspicious_placeholders(terms)
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
+    if placeholder_issues:
+        errors["Encoding"].extend(placeholder_issues)
     if reciprocal_issues:
         warnings["Reciprocal Links"].extend(reciprocal_issues)
     if reference_issues:

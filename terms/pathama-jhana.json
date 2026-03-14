@@ -1,18 +1,18 @@
 {
-  "term": "pa?hama-jh?na",
+  "term": "paṭhama-jhāna",
   "normalized_term": "pathama-jhana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "first jh?na",
+  "literal_meaning": "first jhāna",
   "preferred_translation": "first theme",
   "alternative_translations": [
-    "first jh?na"
+    "first jhāna"
   ],
   "discouraged_translations": [
     "first absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "The first jh?na in the standard fourfold sequence.",
+  "definition": "The first jhāna in the standard fourfold sequence.",
   "sutta_references": [
     "DN 2"
   ],
