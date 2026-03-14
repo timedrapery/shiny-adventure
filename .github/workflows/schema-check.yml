@@ -35,3 +35,7 @@ jobs:
       - name: Run editorial lint checks
         run: |
           python scripts/lint_terms.py --strict
+
+      - name: Run doctrinal coverage audit
+        run: |
+          python scripts/audit_term_coverage.py
