@@ -82,6 +82,13 @@ Note that `run_checks.py` currently runs editorial lint in strict mode, so
 structural warnings such as non-reciprocal `related_terms` links will block the
 full check suite until resolved.
 
+For more targeted local checking, you can also run:
+
+- `python -m unittest discover -s tests`
+- `python scripts/validate_terms.py`
+- `python scripts/lint_terms.py`
+- `python scripts/audit_term_coverage.py`
+
 ## Outside-Source Profiles
 
 When an outside source or author strongly influences a rendering decision:

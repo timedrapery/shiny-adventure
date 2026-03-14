@@ -2,11 +2,11 @@
 
 ## Rule-Bearing Translation Lexicon for Early Buddhist Texts
 
-[![Status](https://img.shields.io/badge/status-active%20development-blue)]()
-[![Data](https://img.shields.io/badge/data-translation%20rules-purple)]()
-[![Language](https://img.shields.io/badge/source-Pali-orange)]()
-[![Target](https://img.shields.io/badge/output-contemporary%20English-green)]()
-[![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)]()
+![Status](https://img.shields.io/badge/status-active%20development-blue)
+![Data](https://img.shields.io/badge/data-translation%20rules-purple)
+![Language](https://img.shields.io/badge/source-Pali-orange)
+![Target](https://img.shields.io/badge/output-contemporary%20English-green)
+![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)
 
 **shiny-adventure** is a structured Pali-to-English translation lexicon for
 Early Buddhist texts. It preserves OSF house terminology as machine-readable
@@ -156,6 +156,19 @@ python scripts/run_checks.py
 On Windows PowerShell, use `.venv\Scripts\Activate.ps1` to activate the
 environment.
 
+If you want to run the checks individually, use:
+
+```bash
+python -m unittest discover -s tests
+python scripts/validate_terms.py
+python scripts/lint_terms.py
+python scripts/audit_term_coverage.py
+```
+
+`python scripts/run_checks.py` runs editorial lint in strict mode, so
+structural warnings such as non-reciprocal `related_terms` links currently
+block the full suite.
+
 ## Contributing
 
 Contributions should follow the schema, term entry standard, style guide, and
@@ -168,6 +181,9 @@ OSF authority order. Start with:
 - [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
 - [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md)
 - [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md)
+
+For the recommended reading order across the docs folder, use
+[docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md).
 
 When reviewing or adding a major term, check three things before changing any
 English rendering:
