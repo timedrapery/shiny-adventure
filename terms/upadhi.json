@@ -1,0 +1,63 @@
+{
+  "term": "upadhi",
+  "normalized_term": "upadhi",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "substrate, acquisition, support",
+  "preferred_translation": "support",
+  "alternative_translations": [
+    "acquisition",
+    "substrate"
+  ],
+  "discouraged_translations": [
+    "self"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A supporting basis or acquisition that sustains continued bondage, becoming, or suffering.",
+  "notes": "The project prefers support because it is contemporary, flexible, and works across several doctrinal contexts without sounding metaphysical. Acquisition is acceptable where upadhi clearly points to what has been amassed or appropriated, while substrate can be useful in tightly technical prose but is too stiff for default use.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and explanatory contexts",
+      "rendering": "support",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the passage emphasizes what has been accumulated or appropriated",
+      "rendering": "acquisition",
+      "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In technical prose where the underlying supporting base is the focus",
+      "rendering": "substrate",
+      "notes": "Use sparingly."
+    }
+  ],
+  "related_terms": [
+    "upadana",
+    "bhava",
+    "dukkha",
+    "nibbana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nirūpadhi",
+      "translation": "without support",
+      "notes": "Useful contrastive form in liberation language."
+    },
+    {
+      "pali": "sabbupadhipaṭinissagga",
+      "translation": "the relinquishment of all supports",
+      "notes": "Classic liberation-oriented phrase.",
+      "source": "MN 26"
+    }
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

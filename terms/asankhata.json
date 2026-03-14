@@ -1,0 +1,56 @@
+{
+  "term": "asaṅkhata",
+  "normalized_term": "asankhata",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "unconstructed, unconditioned",
+  "preferred_translation": "unconditioned",
+  "alternative_translations": [
+    "unconstructed"
+  ],
+  "discouraged_translations": [
+    "eternal"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Unconditioned; not brought about by conditioned construction.",
+  "notes": "The project prefers unconditioned because it is the most established and readable doctrinal rendering in English. Unconstructed is acceptable when the contrast with saṅkhata or saṅkhāra needs to remain more explicit.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal contexts",
+      "rendering": "unconditioned",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing contrast with the constructed",
+      "rendering": "unconstructed",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sankhata",
+    "nibbana",
+    "amata",
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asaṅkhata dhātu",
+      "translation": "the unconditioned element",
+      "notes": "Classic doctrinal expression for the unconditioned.",
+      "source": "Ud 8.3"
+    },
+    {
+      "pali": "asaṅkhata",
+      "translation": "the unconditioned",
+      "notes": "Standalone doctrinal use."
+    }
+  ],
+  "sutta_references": [
+    "Ud 8.3"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

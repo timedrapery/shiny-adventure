@@ -1,0 +1,58 @@
+{
+  "term": "iddhipāda",
+  "normalized_term": "iddhipada",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "basis of power, footing for potency",
+  "preferred_translation": "basis of power",
+  "alternative_translations": [
+    "base of power"
+  ],
+  "discouraged_translations": [
+    "supernatural power"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A basis of power in practice, classically structured around desire, energy, mind, and investigation.",
+  "notes": "The project prefers basis of power because it stays close to the literal structure while remaining readable in contemporary English. The term should not be narrowed to paranormal achievement; in many contexts it names a practical framework of strong, directed cultivation.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "basis of power",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a shorter compound reads more naturally",
+      "rendering": "base of power",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "chanda",
+    "viriya",
+    "citta",
+    "vimamsa",
+    "samadhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāro iddhipādā",
+      "translation": "the four bases of power",
+      "notes": "Standard collective formulation.",
+      "source": "SN 51.13"
+    },
+    {
+      "pali": "chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ",
+      "translation": "a basis of power endowed with desire, composure, and activating constructions",
+      "notes": "Shows the term in its fuller practice formula.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,56 @@
+{
+  "term": "saṅkhata",
+  "normalized_term": "sankhata",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "constructed, conditioned",
+  "preferred_translation": "conditioned",
+  "alternative_translations": [
+    "constructed"
+  ],
+  "discouraged_translations": [
+    "created"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Conditioned or constructed; brought about through causes and conditions.",
+  "notes": "The project prefers conditioned because it is idiomatic in English and connects clearly to doctrinal contrasts with the unconditioned. Constructed remains acceptable when the sentence wants to keep the link to the broader saṅkhāra-family visible.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal contrasts with asaṅkhata",
+      "rendering": "conditioned",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose highlighting shaped or put-together character",
+      "rendering": "constructed",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "asankhata",
+    "sankhara",
+    "anicca",
+    "dukkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saṅkhata dhamma",
+      "translation": "a conditioned dhamma",
+      "notes": "Useful analytic collocation.",
+      "source": "SN 43.1"
+    },
+    {
+      "pali": "sabbe saṅkhatā aniccā",
+      "translation": "all conditioned things are impermanent",
+      "notes": "Shows the term in a broad doctrinal generalization."
+    }
+  ],
+  "sutta_references": [
+    "SN 43.1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

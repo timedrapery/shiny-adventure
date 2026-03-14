@@ -1,0 +1,57 @@
+{
+  "term": "vīmaṃsā",
+  "normalized_term": "vimamsa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "investigation, examination",
+  "preferred_translation": "investigation",
+  "alternative_translations": [
+    "examination",
+    "discernment"
+  ],
+  "discouraged_translations": [
+    "doubt"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Investigative examination that tests, checks, and clarifies what is being developed or understood.",
+  "notes": "The project prefers investigation because it is plain and fits both meditative and analytical contexts. Examination is acceptable where the line points to deliberate checking, while discernment can work in prose that leans more practical than technical.",
+  "context_rules": [
+    {
+      "context": "In most practical and analytical contexts",
+      "rendering": "investigation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing deliberate checking or testing",
+      "rendering": "examination",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "iddhipada",
+    "dhammavicaya",
+    "panna",
+    "citta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vīmaṃsāsamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ",
+      "translation": "a basis of power endowed with investigation, composure, and activating constructions",
+      "notes": "The standard iddhipāda formula built on vīmaṃsā.",
+      "source": "SN 51.13"
+    },
+    {
+      "pali": "vīmaṃsā",
+      "translation": "investigation",
+      "notes": "Compact doctrinal use."
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
