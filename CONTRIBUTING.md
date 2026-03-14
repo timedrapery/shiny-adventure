@@ -40,8 +40,16 @@ Example commands:
 git clone https://github.com/timedrapery/shiny-adventure.git
 cd shiny-adventure
 git checkout -b improve-term-entry
-python -m pip install jsonschema
+python -m venv .venv
+. .venv/bin/activate
+python -m pip install -r requirements-dev.txt
 python scripts/run_checks.py
+```
+
+On Windows PowerShell, activate the virtual environment with:
+
+```powershell
+.venv\Scripts\Activate.ps1
 ```
 
 ## Editing Expectations
@@ -52,6 +60,7 @@ python scripts/run_checks.py
 - Prefer small, focused pull requests over large mixed edits.
 - When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes `encoding="utf-8"`.
 - For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
+- Install dependencies from `requirements-dev.txt` so local checks match CI.
 
 ## Before Opening a Pull Request
 
