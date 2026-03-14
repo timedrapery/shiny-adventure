@@ -68,5 +68,19 @@
     "core-doctrine",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Dhammarato",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current sammā-samādhi policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'right unification of mind' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'right concentration' or other unrecorded alternates."
+  }
 }

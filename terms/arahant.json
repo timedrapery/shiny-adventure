@@ -74,5 +74,20 @@
     "liberation",
     "persons"
   ],
-  "status": "stable"
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current arahant policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'arahant' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not force an English substitute when the local passage needs the Pali term; use a gloss only when the entry or passage explicitly calls for one.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'saint' or other unrecorded alternates.",
+    "leave_untranslated_when": "Leave the term untranslated when source-facing doctrinal range or local explanation would be narrowed too quickly by an English equivalent."
+  }
 }

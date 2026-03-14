@@ -74,5 +74,19 @@
     "context-sensitive"
   ],
   "status": "reviewed",
-  "version_notes": "Strengthened with explicit formula-level guidance so dependent-arising and three-marks uses do not drift apart silently."
+  "version_notes": "Strengthened with explicit formula-level guidance so dependent-arising and three-marks uses do not drift apart silently.",
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'putting things together' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift back toward 'choices' or other unrecorded alternates."
+  }
 }

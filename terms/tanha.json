@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The ignorant wanting that lunges toward satisfaction through experience, becoming, or non-becoming, including excitement about things and wanting what is not available right now.",
-  "notes": "OSF house style now prefers ignorant wanting for taṇhā. In this house idiom, excitement about things and wanting things you can't have right now are treated as practical synonyms that expose the restless, mistaken, unsatisfied quality of taṇhā more clearly than the more distant English word craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation. Translators should not let craving or desire silently replace the house default in dependent-arising and four-truths passages, and compounds in the taṇhā family should inherit the headword unless they clearly document a different rule.",
+  "notes": "OSF house style now prefers ignorant wanting for taṇhā. In this house idiom, excitement about things and wanting things you can't have right now are treated as practical synonyms that expose the restless, mistaken, unsatisfied quality of taṇhā more clearly than the more distant English word craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation. The OSF publication What Is And Is Not The Path supports treating taṇhā as an immediately observable practical problem rather than a distant abstraction. Translators should not let craving or desire silently replace the house default in dependent-arising and four-truths passages, and compounds in the taṇhā family should inherit the headword unless they clearly document a different rule.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical OSF contexts",
@@ -97,6 +97,26 @@
     "dependent-origination",
     "core-doctrine"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports practical plain-English treatment of taṇhā as ignorant wanting."
+    },
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports practical treatment of taṇhā as an immediately observable restless wanting."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use ignorant wanting in most doctrinal and practical OSF contexts.",
+    "when_not_to_apply": "Do not drift to desire or craving by default inside dependent-arising and four-truths frames.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents craving and desire from silently retaking the headword family."
+  },
   "status": "stable",
   "version_notes": "Strengthened to keep the taṇhā family aligned with the house default and to limit drift back into craving or desire as unstated defaults."
 }

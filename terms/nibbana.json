@@ -88,6 +88,27 @@
   "tags": [
     "core-doctrine"
   ],
+  "authority_basis": [
+    {
+      "source": "Dhammarato quotes draft",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping nibbāna practical and non-mystified without forcing a single English noun."
+    },
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "gloss",
+      "scope": "Supports quenching and coolness as explanatory glosses rather than house-default replacements."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Keep nibbāna untranslated in source-facing doctrinal prose.",
+    "when_not_to_apply": "Use a gloss only when first-occurrence explanation or explicitly explanatory prose requires it.",
+    "compound_inheritance": "case-by-case",
+    "leave_untranslated_when": "The surrounding passage needs the full doctrinal range rather than a narrowed English equivalent.",
+    "drift_risk": "Prevents flattening nibbāna into enlightenment or another single English doctrinal noun."
+  },
   "status": "stable",
   "version_notes": "Strengthened to keep the untranslated default explicit and to align linked examples with the current taṇhā rule."
 }

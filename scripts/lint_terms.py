@@ -17,6 +17,7 @@ except ModuleNotFoundError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
+GENERIC_AUTHORITY_SOURCES = {"Repository editorial record"}
 STABILIZED_RULE_TERMS = {
     "anatta",
     "ayatana",
@@ -226,6 +227,83 @@ def check_stabilized_term_policy(terms: dict[str, dict[str, object]]) -> list[st
     return issues
 
 
+def check_translation_policy_consistency(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        policy = data.get("translation_policy")
+        if not isinstance(policy, dict):
+            continue
+
+        untranslated = data.get("untranslated_preferred") is True
+        leave_untranslated_when = policy.get("leave_untranslated_when")
+        default_scope = policy.get("default_scope")
+        drift_risk = policy.get("drift_risk")
+        inheritance = policy.get("compound_inheritance")
+
+        if untranslated and not isinstance(leave_untranslated_when, str):
+            issues.append(
+                f"{stem}.json: untranslated-preferred policy should explain leave_untranslated_when in translation_policy"
+            )
+
+        if data.get("entry_type") == "major":
+            if not isinstance(default_scope, str):
+                issues.append(
+                    f"{stem}.json: major entry with translation_policy should include default_scope"
+                )
+            if not isinstance(drift_risk, str):
+                issues.append(
+                    f"{stem}.json: major entry with translation_policy should include drift_risk"
+                )
+            if inheritance == "inherit":
+                notes = data.get("notes")
+                context_rules = data.get("context_rules")
+                notes_text = notes.lower() if isinstance(notes, str) else ""
+                context_mentions_compounds = False
+                if isinstance(context_rules, list):
+                    context_mentions_compounds = any(
+                        isinstance(rule, dict)
+                        and isinstance(rule.get("context"), str)
+                        and "compound" in rule["context"].lower()
+                        for rule in context_rules
+                    )
+                if "compound" not in notes_text and not context_mentions_compounds:
+                    issues.append(
+                        f"{stem}.json: translation_policy sets compound_inheritance to inherit but notes/context_rules do not mention compounds"
+                    )
+
+    return issues
+
+
+def check_authority_basis_consistency(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        authority_basis = data.get("authority_basis")
+        if authority_basis is None:
+            continue
+        if not isinstance(authority_basis, list) or len(authority_basis) == 0:
+            issues.append(
+                f"{stem}.json: authority_basis is present but empty"
+            )
+            continue
+
+        notes = data.get("notes")
+        notes_text = notes.lower() if isinstance(notes, str) else ""
+        for index, item in enumerate(authority_basis, start=1):
+            if not isinstance(item, dict):
+                continue
+            source = item.get("source")
+            if isinstance(source, str):
+                if source in GENERIC_AUTHORITY_SOURCES:
+                    continue
+                source_token = source.lower().split()[0]
+                if source_token not in notes_text:
+                    issues.append(
+                        f"{stem}.json: authority_basis[{index}] source '{safe_text(source)}' is not reflected in notes"
+                    )
+
+    return issues
+
+
 def print_group(title: str, issues: list[str]) -> None:
     if not issues:
         return
@@ -252,6 +330,8 @@ def collect_lint_results(
     stabilized_term_issues = (
         check_stabilized_term_policy(terms) if enforce_stabilized_terms else []
     )
+    translation_policy_issues = check_translation_policy_consistency(terms)
+    authority_basis_issues = check_authority_basis_consistency(terms)
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
@@ -261,6 +341,10 @@ def collect_lint_results(
         errors["Encoding"].extend(mojibake_issues)
     if stabilized_term_issues:
         errors["Stabilized Terms"].extend(stabilized_term_issues)
+    if translation_policy_issues:
+        errors["Translation Policy"].extend(translation_policy_issues)
+    if authority_basis_issues:
+        errors["Authority Basis"].extend(authority_basis_issues)
     if reciprocal_issues:
         warnings["Reciprocal Links"].extend(reciprocal_issues)
     if reference_issues:

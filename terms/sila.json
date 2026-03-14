@@ -73,5 +73,25 @@
     "core-practice",
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current sīla policy."
+    },
+    {
+      "source": "Dhammarato",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current sīla policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'conduct' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'morality' or other unrecorded alternates."
+  }
 }

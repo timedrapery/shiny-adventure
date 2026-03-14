@@ -97,6 +97,27 @@
     "core-doctrine",
     "translation-sensitive"
   ],
+  "authority_basis": [
+    {
+      "source": "Dhammarato quotes draft",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports practical everyday use of dhamma without forcing a single English substitute."
+    },
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "context-rule",
+      "scope": "Supports nature and law as selective explanatory renderings in specific doctrinal frames."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Leave dhamma untranslated when the referent is too broad or shifts across teaching, phenomenon, quality, and law.",
+    "when_not_to_apply": "Translate selectively when the local referent is clearly narrower and stable enough for teaching, phenomenon, or quality.",
+    "compound_inheritance": "case-by-case",
+    "leave_untranslated_when": "The passage needs the broader practical or doctrinal force of dhamma without premature narrowing.",
+    "drift_risk": "Prevents uncontrolled switching among teaching, phenomenon, quality, law, and untranslated dhamma inside one passage."
+  },
   "status": "reviewed",
   "version_notes": "Strengthened to make local sense-selection explicit and to block uncontrolled switching between untranslated and translated dhamma across the same passage."
 }

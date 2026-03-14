@@ -67,5 +67,25 @@
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Dhammarato",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current suññatā policy."
+    },
+    {
+      "source": "Buddhadasa",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current suññatā policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'emptiness' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'nothingness' or other unrecorded alternates."
+  }
 }

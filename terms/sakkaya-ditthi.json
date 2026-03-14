@@ -68,5 +68,19 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry governing identity-view language in fetter and stream-entry contexts."
+  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry governing identity-view language in fetter and stream-entry contexts.",
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'identity view' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift back toward 'ego' or other unrecorded alternates."
+  }
 }

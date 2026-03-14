@@ -80,6 +80,26 @@
     "core-doctrine",
     "four-noble-truths"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports dissatisfaction as the house default over suffering."
+    },
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports practical present-tense handling of dukkha as dissatisfaction or stress."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use dissatisfaction in core doctrinal exposition and four-noble-truths contexts.",
+    "when_not_to_apply": "Do not rotate to suffering by habit, and only narrow to stress when the local line is specifically about felt pressure or strain.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents collapse of dukkha back into suffering as an unstated universal default."
+  },
   "status": "stable",
   "version_notes": "Strengthened to keep dissatisfaction stable as the default in four-truths and linked nirodha formulae."
 }

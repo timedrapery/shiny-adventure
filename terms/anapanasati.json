@@ -78,5 +78,32 @@
     "core-practice",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current ānāpānasati policy."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current ānāpānasati policy."
+    },
+    {
+      "source": "Punnaji",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Named in notes as support for the current ānāpānasati policy."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'ānāpānasati' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not force an English substitute when the local passage needs the Pali term; use a gloss only when the entry or passage explicitly calls for one.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift back toward 'breath meditation' or other unrecorded alternates.",
+    "leave_untranslated_when": "Leave the term untranslated when source-facing doctrinal range or local explanation would be narrowed too quickly by an English equivalent."
+  }
 }

@@ -18,9 +18,14 @@ If you are new to the project, this is the recommended reading order:
 6. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
    Read this when a term decision needs to propagate into compounds or formula
    usage.
-7. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
+7. [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
+   Use this before merging a PR or promoting a major entry to a mature review
+   state.
+8. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
+   Use this when adding or revising many terms in one pass.
+9. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
    Read this for the current repo-shaping roadmap and next editorial phase.
-8. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
+10. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
    Read this for the latest high-confidence structural review notes and open
    cleanup priorities.
 
@@ -33,6 +38,14 @@ If you are new to the project, this is the recommended reading order:
 - [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
   Defines how translation policy should be divided between headwords,
   compounds, and formulas.
+- [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
+  Defines the review gate for structural quality, provenance, and family-level
+  drift control.
+- [`DECISION_RECORD_TEMPLATE.md`](DECISION_RECORD_TEMPLATE.md)
+  Provides a lightweight pattern for recording major editorial decisions that
+  should not live only in commit history.
+- [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
+  Defines a safe operating pattern for 50+ term changes without family drift.
 - [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
   Defines the current roadmap for making the repo translation-ready by
   doctrinal cluster.
@@ -88,6 +101,9 @@ For more targeted local checking, you can also run:
 - `python scripts/validate_terms.py`
 - `python scripts/lint_terms.py`
 - `python scripts/audit_term_coverage.py`
+- `python scripts/repo_health.py`
+- `python scripts/policy_backfill_queue.py`
+- `python scripts/backfill_policy_metadata.py --check-only`
 
 ## Outside-Source Profiles
 

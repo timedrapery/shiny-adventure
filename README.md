@@ -31,6 +31,8 @@ The live schema uses these field names for the rule-bearing parts of an entry:
 - `context_rules` for translation rules that shift by context
 - `notes` for usage notes and editorial rationale
 - `example_phrases` for supporting examples
+- `authority_basis` for structured provenance
+- `translation_policy` for machine-readable drift-control metadata
 
 For major terms, those fields together form the translation policy. The project
 is best understood as a translation control layer, not as a neutral dictionary.
@@ -110,6 +112,8 @@ For the highest-risk doctrinal anchors, the entry should also make explicit:
 - when it should not apply
 - when compounds and formulas inherit the headword
 - what drift or doctrinal confusion the rule is preventing
+- which authority layer or source supports the rule
+- whether compounds inherit the headword by default
 
 ## Repository Layout
 
@@ -163,6 +167,9 @@ python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
 python scripts/audit_term_coverage.py
+python scripts/repo_health.py
+python scripts/policy_backfill_queue.py
+python scripts/backfill_policy_metadata.py --check-only
 ```
 
 `python scripts/run_checks.py` runs editorial lint in strict mode, so
@@ -180,6 +187,7 @@ OSF authority order. Start with:
 - [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
 - [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
 - [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md)
+- [docs/EDITORIAL_REVIEW_CHECKLIST.md](docs/EDITORIAL_REVIEW_CHECKLIST.md)
 - [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md)
 
 For the recommended reading order across the docs folder, use
@@ -191,6 +199,12 @@ English rendering:
 1. The headword's default rendering is explicit.
 2. Any context-specific exceptions are encoded in `context_rules`.
 3. The rationale is stated in `notes` so the choice can be audited later.
+
+For mature major entries, contributors should also prefer:
+
+1. `authority_basis` entries that name the source layer behind the rule.
+2. `translation_policy` metadata that states scope, inheritance, and drift risk.
+3. canonical `source` citations on example phrases whenever available.
 
 If the term is a doctrinal anchor such as `dhamma`, `dukkha`, `taṇhā`,
 `saṅkhārā`, `sati`, `samādhi`, `nirodha`, `paṭiccasamuppāda`, `jāti`,

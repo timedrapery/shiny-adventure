@@ -42,6 +42,8 @@ In contributor shorthand, these often correspond to:
 - translation rule -> `context_rules`
 - usage notes -> `notes`
 - examples -> `example_phrases`
+- provenance -> `authority_basis`
+- rule summary -> `translation_policy`
 
 ---
 
@@ -469,6 +471,85 @@ Notes:
 
 ---
 
+## `authority_basis`
+
+**Type:** array of objects  
+**Required:** no
+
+Structured provenance for translation policy, especially on mature major
+entries.
+
+Example:
+
+```json
+"authority_basis": [
+  {
+    "source": "What Is And Is Not The Path",
+    "priority": "osf-house",
+    "kind": "preferred-translation",
+    "scope": "Supports remembering as the default rendering for sati."
+  }
+]
+```
+
+Each object may contain:
+
+- `source` (string, required)
+- `scope` (string, required)
+- `priority` (enum, optional)
+- `kind` (enum, optional)
+- `notes` (string, optional)
+
+Notes:
+
+- Use this when a source, authority layer, or named internal profile directly
+  supports the preferred rendering, context rules, or rationale.
+- This field improves machine-readability for future review, reporting, and
+  conflict detection.
+- Mature doctrinal anchors should prefer explicit provenance rather than
+  burying source support only in `notes`.
+- When source-specific provenance is not yet separated out, a provisional
+  internal value such as `Repository editorial record` may be used to mark
+  that the entry has structured provenance coverage but still needs refinement.
+
+---
+
+## `translation_policy`
+
+**Type:** object  
+**Required:** no
+
+Structured summary of how the rule should behave beyond freeform prose.
+
+Example:
+
+```json
+"translation_policy": {
+  "default_scope": "Use in most path and practice contexts.",
+  "when_not_to_apply": "Do not force this rendering into source-critical passages that need the Pali term.",
+  "compound_inheritance": "inherit",
+  "drift_risk": "Prevents silent drift back to mindfulness."
+}
+```
+
+Possible keys include:
+
+- `default_scope`
+- `when_not_to_apply`
+- `compound_inheritance`
+- `leave_untranslated_when`
+- `drift_risk`
+
+Notes:
+
+- This field is meant to make rule-bearing entries easier for tools to inspect.
+- Use it when the headword governs compounds, carries a leave-untranslated
+  policy, or blocks a specific recurring drift.
+- `notes` still carries the full editorial explanation; `translation_policy`
+  is the compact machine-readable summary.
+
+---
+
 ## `status`
 
 **Type:** string  
@@ -530,7 +611,16 @@ For a **major rule-bearing entry**, the recommended minimum is:
 - `context_rules`
 - `related_terms`
 - `example_phrases`
+- `alternative_translations`
+- `discouraged_translations`
+- `sutta_references`
+- `tags`
 - `status`
+
+For mature doctrinal anchors, also prefer:
+
+- `authority_basis`
+- `translation_policy`
 
 ---
 
