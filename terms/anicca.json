@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing conditioned phenomena as unstable, changing, and not lasting.",
-  "notes": "This entry is treated as a major doctrinal term because it functions within the three marks framework and in close relation to dissatisfaction and not-self. The default project preference is the adjective impermanent in direct translation, while impermanence may be used in explanatory prose when the abstract quality itself is being discussed.",
+  "notes": "This entry is treated as a major doctrinal term because it functions within the three marks framework and in close relation to dissatisfaction and not-self. The house preference is the adjective impermanent in direct translation because it keeps the term tied to how phenomena are being described rather than turning it immediately into an abstraction. Impermanence remains appropriate when prose needs to name the characteristic itself.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements describing phenomena",
@@ -60,5 +60,5 @@
     "core-doctrine",
     "three-marks"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

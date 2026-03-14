@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Discernment that sees the character of experience clearly and supports release.",
-  "notes": "The project prefers discernment because it is more active and practically oriented than wisdom, which can sound honorary or abstract. Understanding remains acceptable in explanatory prose, while wisdom is reserved as a familiar alternate rather than the default.",
+  "notes": "The project prefers discernment because it sounds active, practical, and tied to seeing clearly, whereas wisdom can sound honorary, static, or merely admirable. Understanding remains acceptable in explanatory prose, while wisdom is retained as a familiar alternate for reader orientation rather than the default house rendering.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -67,5 +67,5 @@
     "core-doctrine",
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

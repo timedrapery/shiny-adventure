@@ -15,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
-  "notes": "The project prefers leaving nibbāna untranslated in most source-facing contexts because any single English equivalent narrows the term too quickly. Quenching is the preferred gloss when an English cue is needed because it aligns with the project's broader treatment of nirodha.",
+  "notes": "The project prefers leaving nibbāna untranslated in most source-facing contexts because any single English equivalent narrows the term too quickly. Quenching is the preferred gloss when an English cue is needed because it preserves the imagery of extinguishing the fires of greed, aversion, and delusion while staying aligned with the project's treatment of nirodha.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -67,5 +67,5 @@
   "tags": [
     "core-doctrine"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
