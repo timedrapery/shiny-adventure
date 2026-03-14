@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state of mental composure in which the mind is steady and well coordinated.",
-  "notes": "Composure reflects steadiness and collectedness without implying forced concentration.",
+  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration.",
   "context_rules": [
     {
       "context": "In most project translations",
@@ -30,7 +30,9 @@
   "related_terms": [
     "jhāna",
     "sati",
-    "bhāvanā"
+    "bhāvanā",
+    "sammā-samādhi",
+    "upekkhā"
   ],
   "example_phrases": [
     {
