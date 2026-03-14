@@ -1,0 +1,52 @@
+{
+  "term": "sammā-samādhi",
+  "normalized_term": "samma-samadhi",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right composure",
+  "preferred_translation": "right composure",
+  "alternative_translations": [
+    "right collectedness"
+  ],
+  "discouraged_translations": [
+    "right concentration"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of samādhi properly aligned with the path, classically expressed through the jhānas.",
+  "notes": "This entry follows the project's preference for samādhi as composure, so the path factor becomes right composure rather than right concentration. Right collectedness is acceptable in explanatory prose when the gathered quality of mind needs emphasis.",
+  "context_rules": [
+    {
+      "context": "In path-factor and source-facing doctrinal contexts",
+      "rendering": "right composure",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose stressing the gathered quality of mind",
+      "rendering": "right collectedness",
+      "notes": "Acceptable alternate when it reads more naturally."
+    }
+  ],
+  "related_terms": [
+    "samādhi",
+    "jhāna",
+    "sammā-sati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-samādhi",
+      "translation": "right composure",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "catunnaṃ jhānānaṃ",
+      "translation": "of the four jhānas",
+      "notes": "Shows the factor's close tie to jhāna."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

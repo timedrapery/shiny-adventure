@@ -1,0 +1,51 @@
+{
+  "term": "sammā-kammanta",
+  "normalized_term": "samma-kammanta",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right action",
+  "preferred_translation": "right action",
+  "alternative_translations": [
+    "appropriate action"
+  ],
+  "discouraged_translations": [
+    "correct conduct"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of bodily action aligned with harmlessness and ethical restraint.",
+  "notes": "The project keeps right action as the default because it is already readable and well established. Appropriate action can be useful in explanatory prose where the emphasis falls on action fitting the path rather than on a static moral label.",
+  "context_rules": [
+    {
+      "context": "In path-factor and ethical contexts",
+      "rendering": "right action",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing what conduct accords with the path",
+      "rendering": "appropriate action",
+      "notes": "Acceptable alternate when it improves clarity."
+    }
+  ],
+  "related_terms": [
+    "sammā-vācā",
+    "sammā-ājīva",
+    "akusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-kammanta",
+      "translation": "right action",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "pāṇātipātā veramaṇī",
+      "translation": "refraining from taking life",
+      "notes": "Closely tied ethical expression."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

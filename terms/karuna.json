@@ -1,0 +1,52 @@
+{
+  "term": "karuṇā",
+  "normalized_term": "karuna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "compassion",
+  "preferred_translation": "compassion",
+  "alternative_translations": [
+    "care"
+  ],
+  "discouraged_translations": [
+    "pity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Compassionate responsiveness to suffering, marked by the wish that suffering be relieved.",
+  "notes": "Compassion is already the clearest and least distorted default in contemporary English. Pity is discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "compassion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing concrete responsive concern",
+      "rendering": "care",
+      "notes": "Acceptable alternate when compassion sounds too abstract."
+    }
+  ],
+  "related_terms": [
+    "mettā",
+    "muditā",
+    "dukkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "karuṇā cetovimutti",
+      "translation": "the liberation of mind through compassion",
+      "notes": "Important brahmavihāra expression."
+    },
+    {
+      "pali": "karuṇā bhāvetabbā",
+      "translation": "compassion should be developed",
+      "notes": "Simple cultivation-oriented usage."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

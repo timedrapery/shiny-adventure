@@ -1,0 +1,58 @@
+{
+  "term": "muditā",
+  "normalized_term": "mudita",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "gladness, appreciative joy",
+  "preferred_translation": "gladness",
+  "alternative_translations": [
+    "appreciative joy",
+    "sympathetic joy"
+  ],
+  "discouraged_translations": [
+    "excitement"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Gladness at the wellbeing, success, or good fortune of others.",
+  "notes": "The project prefers gladness because it is straightforward and contemporary. Appreciative joy remains useful in explanatory prose, especially when distinguishing muditā from generic happiness or pleasure.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "gladness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose highlighting delight in others' wellbeing",
+      "rendering": "appreciative joy",
+      "notes": "Acceptable alternate when more explanation is needed."
+    },
+    {
+      "context": "When engaging conventional Buddhist terminology",
+      "rendering": "sympathetic joy",
+      "notes": "Use selectively for reader orientation."
+    }
+  ],
+  "related_terms": [
+    "mettā",
+    "karuṇā",
+    "upekkhā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "muditā cetovimutti",
+      "translation": "the liberation of mind through gladness",
+      "notes": "Important brahmavihāra expression."
+    },
+    {
+      "pali": "muditā bhāvetabbā",
+      "translation": "gladness should be developed",
+      "notes": "Simple cultivation-oriented usage."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

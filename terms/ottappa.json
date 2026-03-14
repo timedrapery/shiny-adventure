@@ -1,0 +1,57 @@
+{
+  "term": "ottappa",
+  "normalized_term": "ottappa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "moral dread, moral caution",
+  "preferred_translation": "moral caution",
+  "alternative_translations": [
+    "moral dread",
+    "ethical concern"
+  ],
+  "discouraged_translations": [
+    "fear"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Careful moral caution that shrinks from unwholesome action because of its consequences.",
+  "notes": "The project prefers moral caution because it preserves the ethical seriousness of the term without making it sound like ordinary fear. Moral dread can be useful in explanatory prose, but as a default it sounds harsher than most contemporary English needs.",
+  "context_rules": [
+    {
+      "context": "In most ethical and practical contexts",
+      "rendering": "moral caution",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose highlighting the term's stronger protective force",
+      "rendering": "moral dread",
+      "notes": "Acceptable when the literal shade needs emphasis."
+    },
+    {
+      "context": "In prose focusing on concern about consequences",
+      "rendering": "ethical concern",
+      "notes": "Use when it reads more naturally."
+    }
+  ],
+  "related_terms": [
+    "hiri",
+    "akusala",
+    "appamāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "hiri-ottappa",
+      "translation": "conscience and moral caution",
+      "notes": "Classic ethical pair."
+    },
+    {
+      "pali": "ottappaṃ uppajjati",
+      "translation": "moral caution arises",
+      "notes": "Simple practical usage."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

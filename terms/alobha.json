@@ -1,0 +1,57 @@
+{
+  "term": "alobha",
+  "normalized_term": "alobha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-greed",
+  "preferred_translation": "non-greed",
+  "alternative_translations": [
+    "generosity",
+    "non-grasping"
+  ],
+  "discouraged_translations": [
+    "detachment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Freedom from greed, expressed as non-grasping and openness rather than acquisitive pull.",
+  "notes": "The project keeps non-greed as the default because it preserves the lexical relation to lobha. Generosity can work in explanatory prose when the positive lived expression is in view, but it is narrower than the doctrinal category itself.",
+  "context_rules": [
+    {
+      "context": "In analytical and doctrinal contexts",
+      "rendering": "non-greed",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing positive expression in conduct",
+      "rendering": "generosity",
+      "notes": "Acceptable alternate when the practical manifestation is central."
+    },
+    {
+      "context": "In prose stressing freedom from grasping",
+      "rendering": "non-grasping",
+      "notes": "Useful when the contrast with greed needs to feel more immediate."
+    }
+  ],
+  "related_terms": [
+    "lobha",
+    "kusala",
+    "mettā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "alobho kusalamūlaṃ",
+      "translation": "non-greed is a root of the wholesome",
+      "notes": "Important ethical classification."
+    },
+    {
+      "pali": "vigatalobha",
+      "translation": "free from greed",
+      "notes": "Practical contrastive expression."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

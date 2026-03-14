@@ -1,0 +1,58 @@
+{
+  "term": "sammā-vāyāma",
+  "normalized_term": "samma-vayama",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right effort",
+  "preferred_translation": "right effort",
+  "alternative_translations": [
+    "right energy",
+    "appropriate effort"
+  ],
+  "discouraged_translations": [
+    "right striving"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path factor of directed effort that prevents and abandons the unwholesome while developing and sustaining the wholesome.",
+  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor.",
+  "context_rules": [
+    {
+      "context": "In most path-factor and training contexts",
+      "rendering": "right effort",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing vitality or ongoing application",
+      "rendering": "right energy",
+      "notes": "Acceptable alternate when it clarifies tone."
+    },
+    {
+      "context": "In prose stressing contextual fitness rather than willpower",
+      "rendering": "appropriate effort",
+      "notes": "Use when the line benefits from softer emphasis."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "bhāvanā",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammā-vāyāma",
+      "translation": "right effort",
+      "notes": "Path-factor headword form."
+    },
+    {
+      "pali": "anuppannānaṃ akusalānaṃ dhammānaṃ anuppādāya",
+      "translation": "for the non-arising of unwholesome qualities that have not arisen",
+      "notes": "One of the core functions of the factor."
+    }
+  ],
+  "tags": [
+    "core-practice",
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
