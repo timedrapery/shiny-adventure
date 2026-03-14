@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import importlib.util
 import json
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -17,33 +18,12 @@ def load_module(module_name: str, relative_path: str):
     if spec is None or spec.loader is None:
         raise RuntimeError(f"Could not load module from {path}")
     module = importlib.util.module_from_spec(spec)
+    sys.modules[module_name] = module
     spec.loader.exec_module(module)
     return module
 
 
-lint_terms = load_module("lint_terms", "scripts/lint_terms.py")
 write_term_batch = load_module("write_term_batch", "scripts/write_term_batch.py")
-
-
-class LintEncodingTests(unittest.TestCase):
-    def test_placeholder_text_is_reported(self) -> None:
-        terms = {
-            "sangha": {
-                "term": "sa?gha",
-                "preferred_translation": "saṅgha",
-                "literal_meaning": "community",
-                "definition": "The noble community.",
-            }
-        }
-
-        issues = lint_terms.check_suspicious_placeholders(terms)
-
-        self.assertEqual(
-            issues,
-            [
-                "sangha.json: field 'term' contains '?' placeholder text; check for encoding loss"
-            ],
-        )
 
 
 class WriteTermBatchTests(unittest.TestCase):
@@ -59,16 +39,16 @@ class WriteTermBatchTests(unittest.TestCase):
 
     def test_main_writes_utf8_json(self) -> None:
         record = {
-            "term": "saṅgha",
+            "term": "sa\u1e45gha",
             "normalized_term": "sangha",
             "entry_type": "minor",
             "part_of_speech": "noun",
-            "preferred_translation": "saṅgha",
+            "preferred_translation": "sa\u1e45gha",
             "alternative_translations": ["community"],
             "discouraged_translations": ["church"],
             "untranslated_preferred": True,
             "definition": "The noble community.",
-            "gloss_on_first_occurrence": "saṅgha (community)",
+            "gloss_on_first_occurrence": "sa\u1e45gha (community)",
             "status": "reviewed",
         }
 
@@ -90,7 +70,7 @@ class WriteTermBatchTests(unittest.TestCase):
             output_path = output_dir / "sangha.json"
             self.assertTrue(output_path.exists())
             contents = output_path.read_text(encoding="utf-8")
-            self.assertIn("saṅgha", contents)
+            self.assertIn("sa\u1e45gha", contents)
             self.assertNotIn("\\u1e45", contents)
             self.assertIn(b"sa\xe1\xb9\x85gha", output_path.read_bytes())
 
