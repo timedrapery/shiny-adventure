@@ -1,0 +1,48 @@
+{
+  "term": "lokiya",
+  "normalized_term": "lokiya",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "worldly",
+  "preferred_translation": "worldly",
+  "alternative_translations": [
+    "mundane"
+  ],
+  "discouraged_translations": [
+    "secular"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Worldly or mundane; belonging to the conditioned domain rather than the transcendent path-fruition.",
+  "notes": "The project prefers worldly as the default because it is contemporary and transparent. Mundane remains acceptable in technical contrast with lokuttara where the established doctrinal pair is useful.",
+  "context_rules": [
+    {
+      "context": "In most explanatory and doctrinal contexts",
+      "rendering": "worldly",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explicit technical contrast with lokuttara",
+      "rendering": "mundane",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "loka",
+    "lokuttara",
+    "kusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "lokiya dhamma",
+      "translation": "worldly dhamma",
+      "notes": "Simple doctrinal usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,52 @@
+{
+  "term": "sugata",
+  "normalized_term": "sugata",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "well-gone, well-spoken",
+  "preferred_translation": "Sugata",
+  "alternative_translations": [
+    "Well-Gone One"
+  ],
+  "discouraged_translations": [
+    "saint"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "Sugata (an epithet of the Buddha)",
+  "definition": "A title for the Buddha that is usually best left untranslated in source-facing work.",
+  "notes": "The project leaves Sugata untranslated by default because it functions as a title and English renderings tend to sound forced or overinterpretive. A short gloss is acceptable when the line needs help on first occurrence.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "Sugata",
+      "notes": "Default project practice is to leave the title untranslated."
+    },
+    {
+      "context": "In explanatory prose where a gloss is necessary",
+      "rendering": "Well-Gone One",
+      "notes": "Use sparingly and only as a gloss."
+    }
+  ],
+  "related_terms": [
+    "buddha",
+    "tathagata",
+    "arahant"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sugato",
+      "translation": "the Sugata",
+      "notes": "Common titular usage in praise formulas.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

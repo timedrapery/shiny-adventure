@@ -1,0 +1,51 @@
+{
+  "term": "upanisā",
+  "normalized_term": "upanisa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "supporting condition, decisive support",
+  "preferred_translation": "supporting condition",
+  "alternative_translations": [
+    "decisive support"
+  ],
+  "discouraged_translations": [
+    "inspiration"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A supporting condition that decisively enables a later development or breakthrough.",
+  "notes": "The project prefers supporting condition because it is plain and fits the term's enabling function without sounding overly technical. Decisive support is acceptable in explanatory prose when the force of the condition needs to be emphasized more strongly.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and explanatory contexts",
+      "rendering": "supporting condition",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the force or effectiveness of the support",
+      "rendering": "decisive support",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "hetu",
+    "samadhi",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhaṃ upanisā saddhā",
+      "translation": "dissatisfaction is a supporting condition for confidence",
+      "notes": "Shows the term in the positive conditional chain.",
+      "source": "SN 12.23"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.23"
+  ],
+  "tags": [
+    "core-doctrine",
+    "causality"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,49 @@
+{
+  "term": "adhicitta",
+  "normalized_term": "adhicitta",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "higher mind",
+  "preferred_translation": "higher mind",
+  "alternative_translations": [
+    "higher training in mind"
+  ],
+  "discouraged_translations": [
+    "higher consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The higher training in mind within the threefold training, centered on collected development.",
+  "notes": "The project prefers higher mind because it is concise and avoids collapsing the term into viññāṇa-language. The longer phrase higher training in mind is acceptable when the training-framework needs to be explicit.",
+  "context_rules": [
+    {
+      "context": "In the threefold training framework",
+      "rendering": "higher mind",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the training frame should be made explicit",
+      "rendering": "higher training in mind",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "citta",
+    "samadhi",
+    "adhisila",
+    "adhipanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "adhicittasikkhā",
+      "translation": "the higher training in mind",
+      "notes": "Standard triadic formulation."
+    }
+  ],
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

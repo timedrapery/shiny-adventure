@@ -1,0 +1,51 @@
+{
+  "term": "āhāra",
+  "normalized_term": "ahara",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "food, nutriment",
+  "preferred_translation": "nutriment",
+  "alternative_translations": [
+    "food"
+  ],
+  "discouraged_translations": [
+    "fuel"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Nutriment or sustaining intake, especially in the doctrinal analysis of what keeps experience and becoming going.",
+  "notes": "The project prefers nutriment because it works across physical and non-physical cases in the canonical fourfold set. Food is acceptable where the context is plainly literal or when English needs a lighter word.",
+  "context_rules": [
+    {
+      "context": "In doctrinal analysis of the four nutriments",
+      "rendering": "nutriment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In plainly literal contexts or lighter explanatory prose",
+      "rendering": "food",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "kabalinkara-ahara",
+    "phassa-ahara",
+    "manosancetana-ahara",
+    "vinnana-ahara"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāro ime bhikkhave āhārā",
+      "translation": "bhikkhus, these are the four nutriments",
+      "notes": "Standard opening to the nutriment analysis.",
+      "source": "SN 12.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,50 @@
+{
+  "term": "phassāhāra",
+  "normalized_term": "phassa-ahara",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "contact nutriment",
+  "preferred_translation": "contact nutriment",
+  "alternative_translations": [
+    "nutriment of contact"
+  ],
+  "discouraged_translations": [
+    "sensory stimulation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contact as a nutriment that sustains the arising of felt experience and continued entanglement.",
+  "notes": "The project prefers contact nutriment because it stays transparent and compact. Nutriment of contact is acceptable in more explanatory prose if the phrase needs to open up slightly.",
+  "context_rules": [
+    {
+      "context": "In the four-nutriments framework",
+      "rendering": "contact nutriment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the genitive structure reads more naturally",
+      "rendering": "nutriment of contact",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "ahara",
+    "phassa",
+    "vedana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "phasso dutiyo",
+      "translation": "contact is the second",
+      "notes": "The second of the four nutriments.",
+      "source": "SN 12.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

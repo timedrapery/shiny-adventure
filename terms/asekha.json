@@ -1,0 +1,50 @@
+{
+  "term": "asekha",
+  "normalized_term": "asekha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "one beyond training",
+  "preferred_translation": "beyond training",
+  "alternative_translations": [
+    "fully trained"
+  ],
+  "discouraged_translations": [
+    "graduate"
+  ],
+  "untranslated_preferred": false,
+  "definition": "One beyond training, classically the arahant who has completed the path.",
+  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase.",
+  "context_rules": [
+    {
+      "context": "In doctrinal classifications",
+      "rendering": "beyond training",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a smoother English phrase is needed",
+      "rendering": "fully trained",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sekha",
+    "arahant",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asekho",
+      "translation": "one beyond training",
+      "notes": "Simple classificatory usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 53"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

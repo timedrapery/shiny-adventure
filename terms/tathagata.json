@@ -1,0 +1,51 @@
+{
+  "term": "tathāgata",
+  "normalized_term": "tathagata",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "thus-gone / thus-come",
+  "preferred_translation": "Tathāgata",
+  "alternative_translations": [
+    "Thus-Gone One"
+  ],
+  "discouraged_translations": [
+    "messiah"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "Tathāgata (an epithet of the Buddha)",
+  "definition": "A title used for the Buddha, often carrying doctrinal weight that should not be flattened into a casual English equivalent.",
+  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "Tathāgata",
+      "notes": "Default project practice is to leave the title untranslated."
+    },
+    {
+      "context": "In explanatory prose where a gloss is necessary",
+      "rendering": "Thus-Gone One",
+      "notes": "Use sparingly and only as a gloss."
+    }
+  ],
+  "related_terms": [
+    "buddha",
+    "sugata",
+    "arahant"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tathāgato",
+      "translation": "the Tathāgata",
+      "notes": "Common titular usage throughout the Nikāyas."
+    }
+  ],
+  "sutta_references": [
+    "MN 72"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

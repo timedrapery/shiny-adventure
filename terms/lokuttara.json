@@ -1,0 +1,49 @@
+{
+  "term": "lokuttara",
+  "normalized_term": "lokuttara",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "beyond the world",
+  "preferred_translation": "beyond-the-world",
+  "alternative_translations": [
+    "supramundane"
+  ],
+  "discouraged_translations": [
+    "supernatural"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Beyond the world; transcending the worldly domain in a specifically liberative sense.",
+  "notes": "The project prefers beyond-the-world because it is transparent and avoids the academic feel of supramundane as a default. Supramundane remains acceptable in explicitly technical prose where the established contrast with lokiya is being preserved.",
+  "context_rules": [
+    {
+      "context": "In most explanatory and doctrinal contexts",
+      "rendering": "beyond-the-world",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explicit technical contrast with lokiya",
+      "rendering": "supramundane",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "loka",
+    "lokiya",
+    "nibbana",
+    "magga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "lokuttara magga",
+      "translation": "the beyond-the-world path",
+      "notes": "Useful technical collocation."
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

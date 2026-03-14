@@ -1,0 +1,50 @@
+{
+  "term": "kabaḷīkārāhāra",
+  "normalized_term": "kabalinkara-ahara",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "edible-food nutriment",
+  "preferred_translation": "edible-food nutriment",
+  "alternative_translations": [
+    "physical nutriment"
+  ],
+  "discouraged_translations": [
+    "materialism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Edible food as the physical nutriment sustaining embodied life.",
+  "notes": "The project prefers edible-food nutriment because it remains transparent to the Pāli compound while distinguishing this nutriment from the subtler three. Physical nutriment is acceptable in explanatory prose when English needs a smoother phrase.",
+  "context_rules": [
+    {
+      "context": "In the four-nutriments framework",
+      "rendering": "edible-food nutriment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing bodily sustenance",
+      "rendering": "physical nutriment",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "ahara",
+    "rupa",
+    "kaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kabaḷīkāro āhāro",
+      "translation": "edible-food nutriment",
+      "notes": "One member of the four nutriments.",
+      "source": "SN 12.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "embodiment"
+  ],
+  "status": "reviewed"
+}

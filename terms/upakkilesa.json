@@ -1,0 +1,52 @@
+{
+  "term": "upakkilesa",
+  "normalized_term": "upakkilesa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "secondary defilement, corruption",
+  "preferred_translation": "corruption",
+  "alternative_translations": [
+    "secondary defilement"
+  ],
+  "discouraged_translations": [
+    "temptation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A corruption or subsidiary defilement that stains and weakens the mind.",
+  "notes": "The project prefers corruption because it reads more cleanly in contemporary English than secondary defilement while still carrying the sense of contamination. Secondary defilement remains acceptable in more technical explanatory prose.",
+  "context_rules": [
+    {
+      "context": "In most explanatory and practical contexts",
+      "rendering": "corruption",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical prose where the relation to kilesa should remain explicit",
+      "rendering": "secondary defilement",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "kilesa",
+    "citta",
+    "lobha",
+    "dosa",
+    "moha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cittassa upakkilesā",
+      "translation": "corruptions of the mind",
+      "notes": "The standard canonical collocation.",
+      "source": "MN 7"
+    }
+  ],
+  "sutta_references": [
+    "MN 7"
+  ],
+  "tags": [
+    "mental-qualities",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

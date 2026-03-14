@@ -1,0 +1,51 @@
+{
+  "term": "nidāna",
+  "normalized_term": "nidana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "cause, source, link",
+  "preferred_translation": "link",
+  "alternative_translations": [
+    "source",
+    "cause"
+  ],
+  "discouraged_translations": [
+    "story"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A causal link or source, especially in dependent-origination analysis.",
+  "notes": "The project prefers link in dependent-origination contexts because it tracks how the term functions in connected sequences without forcing a single heavy causal label. Source and cause remain acceptable where the passage points more to origin than to linkage.",
+  "context_rules": [
+    {
+      "context": "In dependent-origination contexts and sequence analysis",
+      "rendering": "link",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing origination or source",
+      "rendering": "source",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "paticcasamuppada",
+    "samudaya",
+    "hetu"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭiccasamuppādassa nidānaṃ",
+      "translation": "a link in dependent origination",
+      "notes": "Useful analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,52 @@
+{
+  "term": "abyāpāda",
+  "normalized_term": "abyapada",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-ill-will, non-hostility",
+  "preferred_translation": "non-ill-will",
+  "alternative_translations": [
+    "goodwill"
+  ],
+  "discouraged_translations": [
+    "kindness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A disposition free from ill will, especially as a component of right attitude.",
+  "notes": "The project prefers non-ill-will in doctrinal contexts because it stays transparent to the Pāli structure and links cleanly to byāpāda. Goodwill is acceptable in more fluid prose when the phrase would otherwise sound overly technical.",
+  "context_rules": [
+    {
+      "context": "In path-factor and analytical contexts",
+      "rendering": "non-ill-will",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a smoother English noun is useful",
+      "rendering": "goodwill",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sammasankappa",
+    "byapada",
+    "metta",
+    "adosa",
+    "avihimsa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "abyāpādasaṅkappa",
+      "translation": "an attitude of non-ill-will",
+      "notes": "Core link to the path-factor framework.",
+      "source": "MN 117"
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

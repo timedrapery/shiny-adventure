@@ -1,0 +1,53 @@
+{
+  "term": "ariyasāvaka",
+  "normalized_term": "ariyasavaka",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "noble disciple",
+  "preferred_translation": "noble disciple",
+  "alternative_translations": [
+    "ennobled disciple"
+  ],
+  "discouraged_translations": [
+    "believer"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A disciple aligned with or participating in the noble path and its understanding.",
+  "notes": "The project keeps noble disciple as the default because it is direct and doctrinally established. Ennobled disciple is acceptable only in explanatory prose where the active force of ariya is the point.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "noble disciple",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing transformation by the path",
+      "rendering": "ennobled disciple",
+      "notes": "Use sparingly."
+    }
+  ],
+  "related_terms": [
+    "ariya",
+    "sotapanna",
+    "sotapatti",
+    "buddha",
+    "loka",
+    "puthujjana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sutavā ariyasāvako",
+      "translation": "a learned noble disciple",
+      "notes": "Frequent canonical expression.",
+      "source": "MN 9"
+    }
+  ],
+  "sutta_references": [
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons"
+  ],
+  "status": "reviewed"
+}
