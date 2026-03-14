@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The higher training in discernment within the threefold training.",
-  "notes": "The project prefers higher discernment because it aligns with the house treatment of paññā-language. The longer phrase higher training in discernment is acceptable when the training framework needs explicit statement.",
+  "notes": "The project prefers higher discernment because it aligns with the house treatment of paññā-language. The longer phrase higher training in discernment is acceptable when the training framework needs explicit statement. This term marks the culminating training that sees clearly and carries the path toward release, so it should not be flattened into a merely intellectual notion of knowledge.",
   "context_rules": [
     {
       "context": "In the threefold training framework",
@@ -24,10 +24,17 @@
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in discernment",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage emphasizes liberating seeing or direct understanding as the culmination of training",
+      "rendering": "higher discernment",
+      "notes": "Preserve the practical and liberative force rather than substituting a prestige term like higher wisdom."
     }
   ],
   "related_terms": [
     "panna",
+    "sikkha",
+    "vimutti",
     "adhisila",
     "adhicitta",
     "pannavimutti"
@@ -37,13 +44,21 @@
       "pali": "adhipaññāsikkhā",
       "translation": "the higher training in discernment",
       "notes": "Standard triadic formulation."
+    },
+    {
+      "pali": "paññāya passati",
+      "translation": "one sees with discernment",
+      "notes": "Shows the training in active liberative use.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
-    "MN 44"
+    "MN 44",
+    "SN 12.23"
   ],
   "tags": [
-    "core-practice"
+    "core-practice",
+    "liberation"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

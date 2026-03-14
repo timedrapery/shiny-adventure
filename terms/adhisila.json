@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The higher training in conduct within the threefold training.",
-  "notes": "The project prefers higher conduct because it is concise and aligns with the existing preference for sīla as conduct. The longer phrase higher training in conduct is acceptable when the training-framework needs to be explicit.",
+  "notes": "The project prefers higher conduct because it is concise and aligns with the existing preference for sīla as conduct. The longer phrase higher training in conduct is acceptable when the training framework needs to be explicit. This term should be read as the conduct dimension of the threefold training rather than as a separate moral system detached from composure and discernment.",
   "context_rules": [
     {
       "context": "In the threefold training framework",
@@ -24,10 +24,17 @@
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in conduct",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage highlights restraint, precepts, or behavioral purification as the basis for further training",
+      "rendering": "higher conduct",
+      "notes": "Keep the upward-training sense while preserving the practical behavioral register."
     }
   ],
   "related_terms": [
     "sila",
+    "sikkha",
+    "samadhi",
     "adhicitta",
     "adhipanna"
   ],
@@ -36,13 +43,21 @@
       "pali": "adhisīlasikkhā",
       "translation": "the higher training in conduct",
       "notes": "Standard triadic formulation."
+    },
+    {
+      "pali": "sīlaṃ samādhi paññā",
+      "translation": "conduct, composure, and discernment",
+      "notes": "Shows the training triad in compact doctrinal form.",
+      "source": "DN 2"
     }
   ],
   "sutta_references": [
-    "MN 44"
+    "MN 44",
+    "DN 2"
   ],
   "tags": [
-    "core-practice"
+    "core-practice",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
