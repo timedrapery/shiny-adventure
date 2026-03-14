@@ -1,0 +1,58 @@
+{
+  "term": "rāga",
+  "normalized_term": "raga",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "passion, attachment, coloring",
+  "preferred_translation": "passion",
+  "alternative_translations": [
+    "attachment"
+  ],
+  "discouraged_translations": [
+    "lust"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Passionate attachment or coloring of the mind toward what it wants and clings to.",
+  "notes": "The project prefers passion because it is broader than sexual desire and works well across the many doctrinal places where rāga functions as attachment, heat, and coloring. Attachment can be useful when the grasping dimension is more important than the emotional heat, but lust is too narrow for default use.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "passion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing clinging rather than heat or attraction",
+      "rendering": "attachment",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "lobha",
+    "tanha",
+    "viraga",
+    "anusaya",
+    "samyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rāgakkhaya",
+      "translation": "the wearing away of passion",
+      "notes": "Compact doctrinal compound showing the term in liberation language."
+    },
+    {
+      "pali": "rāgānusaya",
+      "translation": "the underlying tendency toward passion",
+      "notes": "Useful bridge to anusaya terminology.",
+      "source": "MN 64"
+    }
+  ],
+  "sutta_references": [
+    "MN 64"
+  ],
+  "tags": [
+    "mental-qualities",
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

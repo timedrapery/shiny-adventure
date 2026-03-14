@@ -1,0 +1,57 @@
+{
+  "term": "cakkhu",
+  "normalized_term": "cakkhu",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "eye",
+  "preferred_translation": "eye",
+  "alternative_translations": [
+    "visual faculty"
+  ],
+  "discouraged_translations": [
+    "sight"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The eye as a sense faculty within the six sense fields.",
+  "notes": "The project prefers eye as the default because the term usually names the faculty straightforwardly. Visual faculty is acceptable in technical explanatory prose where the sense-base role must be made explicit and distinguished from visible forms or the act of seeing.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "eye",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical prose emphasizing the faculty-role within the six sense fields",
+      "rendering": "visual faculty",
+      "notes": "Use when plain eye might blur faculty and organ."
+    }
+  ],
+  "related_terms": [
+    "salayatana",
+    "ayatana",
+    "rupa",
+    "cakkhu-vinnana",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
+      "translation": "dependent on the eye and forms, eye-consciousness arises",
+      "notes": "Core sense-field formula.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "cakkhāyatana",
+      "translation": "the eye sense field",
+      "notes": "Shows the term inside āyatana analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

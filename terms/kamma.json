@@ -1,0 +1,61 @@
+{
+  "term": "kamma",
+  "normalized_term": "kamma",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "action, deed",
+  "preferred_translation": "action",
+  "alternative_translations": [
+    "deed"
+  ],
+  "discouraged_translations": [
+    "fate"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Intentional action, especially action that carries ethical weight and consequences.",
+  "notes": "The project prefers action because it keeps the term grounded in what is done rather than in later popular ideas about destiny or cosmic payback. Deed is acceptable when the English line wants something slightly more concrete or moralized, but fate should be avoided because it reverses the agency built into the term.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and analytical contexts",
+      "rendering": "action",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In ethical or narrative contexts where a more concrete noun reads better",
+      "rendering": "deed",
+      "notes": "Acceptable alternate when the sentence points to a particular act."
+    }
+  ],
+  "related_terms": [
+    "cetana",
+    "phala",
+    "kusala",
+    "akusala",
+    "punna",
+    "papa",
+    "sila",
+    "mano"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cetanāhaṃ bhikkhave kammaṃ vadāmi",
+      "translation": "bhikkhus, I say that action is intention",
+      "notes": "Key doctrinal statement tying kamma directly to intention.",
+      "source": "AN 6.63"
+    },
+    {
+      "pali": "kammassa phalaṃ",
+      "translation": "the result of action",
+      "notes": "Common doctrinal expression linking action and result."
+    }
+  ],
+  "sutta_references": [
+    "AN 6.63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "causality",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

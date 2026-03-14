@@ -1,0 +1,51 @@
+{
+  "term": "sotaviññāṇa",
+  "normalized_term": "sota-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "ear-consciousness",
+  "preferred_translation": "ear-consciousness",
+  "alternative_translations": [
+    "auditory consciousness"
+  ],
+  "discouraged_translations": [
+    "hearing"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on ear and sound.",
+  "notes": "The project prefers ear-consciousness because it stays close to the sixfold analytical pattern. Auditory consciousness is acceptable in explanatory prose if a smoother English phrase helps.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "ear-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the English compound needs softening",
+      "rendering": "auditory consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "sota",
+    "sadda",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotañca paṭicca sadde ca uppajjati sotaviññāṇaṃ",
+      "translation": "dependent on the ear and sounds, ear-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

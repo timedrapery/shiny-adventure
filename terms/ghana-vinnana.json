@@ -1,0 +1,51 @@
+{
+  "term": "ghānaviññāṇa",
+  "normalized_term": "ghana-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "nose-consciousness",
+  "preferred_translation": "nose-consciousness",
+  "alternative_translations": [
+    "olfactory consciousness"
+  ],
+  "discouraged_translations": [
+    "smell-consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on nose and odor.",
+  "notes": "The project prefers nose-consciousness because it maps cleanly onto the sixfold pattern without adding awkwardness. Olfactory consciousness is acceptable in explanatory prose when the technical faculty-role should remain explicit.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "nose-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the sensory modality",
+      "rendering": "olfactory consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "ghana",
+    "gandha",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ghānañca paṭicca gandhe ca uppajjati ghānaviññāṇaṃ",
+      "translation": "dependent on the nose and odors, nose-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

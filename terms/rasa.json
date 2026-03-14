@@ -1,0 +1,56 @@
+{
+  "term": "rasa",
+  "normalized_term": "rasa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "taste, flavor",
+  "preferred_translation": "taste",
+  "alternative_translations": [
+    "flavor"
+  ],
+  "discouraged_translations": [
+    "essence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A taste as the object of the tongue within the six sense fields.",
+  "notes": "The project prefers taste because it is the cleanest analytical rendering in ordinary English. Flavor is acceptable when the sentence benefits from a more concrete or sensuous register, but essence should be avoided because it belongs to a different semantic track altogether.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "taste",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In lighter prose where the concrete gustatory quality is being emphasized",
+      "rendering": "flavor",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "jivha",
+    "jivha-vinnana",
+    "phassa",
+    "salayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rase",
+      "translation": "tastes",
+      "notes": "Object-side term in standard sense-base formulas.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "rasārammaṇa",
+      "translation": "having taste as object",
+      "notes": "Useful compact analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

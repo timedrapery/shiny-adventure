@@ -1,0 +1,56 @@
+{
+  "term": "sadda",
+  "normalized_term": "sadda",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "sound",
+  "preferred_translation": "sound",
+  "alternative_translations": [
+    "noise"
+  ],
+  "discouraged_translations": [
+    "voice"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A sound as the object of the ear within the six sense fields.",
+  "notes": "The project prefers sound because it is direct and covers the full range of auditory objects. Noise is acceptable only when the context clearly points to harshness or disturbance, while voice is too narrow for default use.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "sound",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In contexts where the line clearly emphasizes disturbance or harshness",
+      "rendering": "noise",
+      "notes": "Use selectively."
+    }
+  ],
+  "related_terms": [
+    "sota",
+    "sota-vinnana",
+    "phassa",
+    "salayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sadde",
+      "translation": "sounds",
+      "notes": "Object-side term in standard sense-base formulas.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "saddārammaṇa",
+      "translation": "having sound as object",
+      "notes": "Useful compact analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}
