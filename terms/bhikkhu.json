@@ -50,6 +50,10 @@
       "notes": "Useful for source-facing translation with an untranslated headword."
     }
   ],
+  "sutta_references": [
+    "MN 10",
+    "MN 118"
+  ],
   "tags": [
     "core-practice"
   ],

@@ -43,6 +43,9 @@
       "notes": "Shows the term in compound analysis."
     }
   ],
+  "sutta_references": [
+    "SN 22.79"
+  ],
   "tags": [
     "core-doctrine",
     "aggregates"

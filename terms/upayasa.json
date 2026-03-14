@@ -50,6 +50,9 @@
       "notes": "Shows the term in an adjectival derivative."
     }
   ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
   "tags": [
     "core-doctrine",
     "four-noble-truths"

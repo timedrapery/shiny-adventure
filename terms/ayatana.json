@@ -49,6 +49,9 @@
       "notes": "Useful for contexts where the object-side domain is in view."
     }
   ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "core-doctrine",
     "context-sensitive"

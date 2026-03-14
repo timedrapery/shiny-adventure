@@ -50,6 +50,9 @@
       "notes": "Simple usage showing the felt character of the term."
     }
   ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"

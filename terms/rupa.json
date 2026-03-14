@@ -43,6 +43,10 @@
       "notes": "Shows the term in sense-field context."
     }
   ],
+  "sutta_references": [
+    "SN 22.79",
+    "MN 148"
+  ],
   "tags": [
     "core-doctrine",
     "aggregates"
