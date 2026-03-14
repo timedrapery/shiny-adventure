@@ -24,9 +24,9 @@ def load_json(path: Path) -> object:
         return json.load(handle)
 
 
-def load_terms() -> dict[str, dict[str, object]]:
+def load_terms(terms_dir: Path = TERMS_DIR) -> dict[str, dict[str, object]]:
     terms: dict[str, dict[str, object]] = {}
-    for path in sorted(TERMS_DIR.glob("*.json")):
+    for path in sorted(terms_dir.glob("*.json")):
         data = load_json(path)
         if not isinstance(data, dict):
             continue
@@ -166,24 +166,9 @@ def print_group(title: str, issues: list[str]) -> None:
     print()
 
 
-def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--strict",
-        action="store_true",
-        help="Fail on warnings as well as errors.",
-    )
-    args = parser.parse_args()
-
-    if not TERMS_DIR.exists():
-        print(f"ERROR: Terms directory not found: {TERMS_DIR}")
-        return 1
-
-    terms = load_terms()
-    if not terms:
-        print("WARNING: No term files found in terms/")
-        return 0
-
+def collect_lint_results(
+    terms: dict[str, dict[str, object]],
+) -> tuple[dict[str, list[str]], dict[str, list[str]]]:
     errors = defaultdict(list)
     warnings = defaultdict(list)
 
@@ -206,6 +191,29 @@ def main() -> int:
         warnings["References"].extend(reference_issues)
     if gloss_issues:
         warnings["Glossing"].extend(gloss_issues)
+
+    return dict(errors), dict(warnings)
+
+
+def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--strict",
+        action="store_true",
+        help="Fail on warnings as well as errors.",
+    )
+    args = parser.parse_args()
+
+    if not TERMS_DIR.exists():
+        print(f"ERROR: Terms directory not found: {TERMS_DIR}")
+        return 1
+
+    terms = load_terms()
+    if not terms:
+        print("WARNING: No term files found in terms/")
+        return 0
+
+    errors, warnings = collect_lint_results(terms)
 
     if errors:
         print("Editorial lint failed:\n")

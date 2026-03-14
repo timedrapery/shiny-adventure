@@ -59,6 +59,77 @@ class ValidateTermsTests(unittest.TestCase):
         self.assertIn("Schema validation failed:", output.getvalue())
         self.assertIn("invalid JSON", output.getvalue())
 
+    def test_main_reports_filename_mismatch(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            schema_path = tmp_path / "schema.json"
+            terms_dir = tmp_path / "terms"
+            term_path = terms_dir / "sati.json"
+            terms_dir.mkdir()
+            schema_path.write_text(
+                json.dumps(
+                    {
+                        "type": "object",
+                        "properties": {
+                            "term": {"type": "string"},
+                            "normalized_term": {"type": "string"},
+                        },
+                        "required": ["term", "normalized_term"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            term_path.write_text(
+                json.dumps({"term": "sati", "normalized_term": "samadhi"}),
+                encoding="utf-8",
+            )
+            output = io.StringIO()
+
+            with mock.patch.object(validate_terms, "SCHEMA_PATH", schema_path):
+                with mock.patch.object(validate_terms, "TERMS_DIR", terms_dir):
+                    with mock.patch("sys.stdout", output):
+                        result = validate_terms.main()
+
+        self.assertEqual(result, 1)
+        self.assertIn("does not match filename stem", output.getvalue())
+
+    def test_main_reports_duplicate_headwords(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            schema_path = tmp_path / "schema.json"
+            terms_dir = tmp_path / "terms"
+            terms_dir.mkdir()
+            schema_path.write_text(
+                json.dumps(
+                    {
+                        "type": "object",
+                        "properties": {
+                            "term": {"type": "string"},
+                            "normalized_term": {"type": "string"},
+                        },
+                        "required": ["term", "normalized_term"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (terms_dir / "sati.json").write_text(
+                json.dumps({"term": "sati", "normalized_term": "sati"}),
+                encoding="utf-8",
+            )
+            (terms_dir / "sati_2.json").write_text(
+                json.dumps({"term": "sati", "normalized_term": "sati_2"}),
+                encoding="utf-8",
+            )
+            output = io.StringIO()
+
+            with mock.patch.object(validate_terms, "SCHEMA_PATH", schema_path):
+                with mock.patch.object(validate_terms, "TERMS_DIR", terms_dir):
+                    with mock.patch("sys.stdout", output):
+                        result = validate_terms.main()
+
+        self.assertEqual(result, 1)
+        self.assertIn("term 'sati' is duplicated across files", output.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()
