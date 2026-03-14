@@ -1,0 +1,13 @@
+{
+  "term": "magga-paccaya",
+  "normalized_term": "magga-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "path condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "path condition",
+  "tags": [
+    "causality"
+  ]
+}

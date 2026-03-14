@@ -1,0 +1,13 @@
+{
+  "term": "arammana-paccaya",
+  "normalized_term": "arammana-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "object condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "object condition",
+  "tags": [
+    "causality"
+  ]
+}

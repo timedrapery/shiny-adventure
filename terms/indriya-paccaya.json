@@ -1,0 +1,13 @@
+{
+  "term": "indriya-paccaya",
+  "normalized_term": "indriya-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "faculty condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "faculty condition",
+  "tags": [
+    "causality"
+  ]
+}

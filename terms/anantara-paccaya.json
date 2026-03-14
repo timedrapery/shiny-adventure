@@ -1,0 +1,13 @@
+{
+  "term": "anantara-paccaya",
+  "normalized_term": "anantara-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "immediacy condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "immediacy condition",
+  "tags": [
+    "causality"
+  ]
+}

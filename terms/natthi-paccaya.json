@@ -1,0 +1,13 @@
+{
+  "term": "natthi-paccaya",
+  "normalized_term": "natthi-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "absence condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "absence condition",
+  "tags": [
+    "causality"
+  ]
+}

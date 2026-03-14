@@ -1,0 +1,13 @@
+{
+  "term": "purejata-paccaya",
+  "normalized_term": "purejata-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "pre-arising condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "pre-arising condition",
+  "tags": [
+    "causality"
+  ]
+}

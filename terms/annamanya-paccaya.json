@@ -1,0 +1,13 @@
+{
+  "term": "annamanya-paccaya",
+  "normalized_term": "annamanya-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "mutuality condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "mutuality condition",
+  "tags": [
+    "causality"
+  ]
+}

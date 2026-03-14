@@ -1,0 +1,13 @@
+{
+  "term": "jhana-paccaya",
+  "normalized_term": "jhana-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "jhana condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "jhana condition",
+  "tags": [
+    "causality"
+  ]
+}
