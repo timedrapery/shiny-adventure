@@ -5,7 +5,9 @@
   "part_of_speech": "noun",
   "literal_meaning": "theme or object of contemplation",
   "preferred_translation": "theme",
-  "alternative_translations": [],
+  "alternative_translations": [
+    "meditative theme"
+  ],
   "discouraged_translations": [
     "meditation",
     "absorption",
@@ -13,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A contemplative theme held steadily in mind, around which wholesome thinking and pondering are organized.",
-  "notes": "In this project jhāna is treated as a contemplative theme rather than a mystical state. The first jhāna corresponds to sustained wholesome thinking and pondering around a theme.",
+  "notes": "In this project jhāna is treated as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicāra and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare.",
   "context_rules": [
     {
       "context": "In project translations discussing the structure of contemplative practice",
@@ -55,8 +57,9 @@
     "MN 119"
   ],
   "tags": [
+    "core-practice",
     "meditative-development",
     "jhana-factors"
   ],
-  "status": "draft"
+  "status": "reviewed"
 }
