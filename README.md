@@ -27,7 +27,7 @@ experience, or translation workflow built on clear and consistent data.
 
 - [`schema/PALI_TERM_SCHEMA.json`](schema/PALI_TERM_SCHEMA.json): canonical JSON schema
 - [`terms/`](terms): structured Pali term entries
-- [`docs/README.md`](docs/README.md): documentation map and reading order
+- [`docs/DOCUMENTATION_GUIDE.md`](docs/DOCUMENTATION_GUIDE.md): documentation map and reading order
 - [`STYLE_GUIDE.md`](STYLE_GUIDE.md): house translation style
 - [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md): field-by-field reference
 - [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md): guidance for creating entries
@@ -72,7 +72,7 @@ experience, or translation workflow built on clear and consistent data.
 If you are new to this project, start here:
 
 1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md) to understand the translation voice.
-2. Use [`docs/README.md`](docs/README.md) for the recommended documentation path.
+2. Use [`docs/DOCUMENTATION_GUIDE.md`](docs/DOCUMENTATION_GUIDE.md) for the recommended documentation path.
 3. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) to learn each field.
 4. Use [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md) when adding or revising a term.
 5. Check [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md) before choosing tags or status values.
