@@ -40,10 +40,10 @@ Dhammarato is a primary OSF authority for:
 Buddhadasa Bhikkhu is a primary OSF authority for:
 
 - dependent arising and conditionality
-- `idappaccayatā`
-- `suññatā` and void-mind language
-- practical readings of `jāti`, `bhava`, and `upādāna`
-- `nibbāna` as coolness and immediate relevance
+- `idappaccayata`
+- `sunnata` and void-mind language
+- practical readings of `jati`, `bhava`, and `upadana`
+- `nibbana` as coolness and immediate relevance
 - ordinary versus supramundane teaching distinctions
 
 ## Secondary Authorities

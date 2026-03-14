@@ -21,41 +21,41 @@ reusable across OSF translation and teaching contexts.
 The PDF regularly uses low-diacritic or simplified spellings that should be
 normalized before editorial decisions are made.
 
-- `Ditthi` -> `diṭṭhi`
-- `Vayama` -> `vāyāma`
-- `Sankappa` -> `saṅkappa`
-- `Vaca` -> `vācā`
-- `Ajivo` -> `ājīva`
+- `Ditthi` -> `ditthi`
+- `Vayama` -> `vayama`
+- `Sankappa` -> `sankappa`
+- `Vaca` -> `vaca`
+- `Ajivo` -> `ajiva`
 - `Vitaka` -> `vitakka`
-- `Vicara` -> `vicāra`
-- `Nibbana` -> `nibbāna`
-- `Paticcasamuppada` -> `paṭiccasamuppāda`
-- `Sila` -> `sīla`
-- `Vipassana` -> `vipassanā`
-- `Metta` -> `mettā`
-- `Anapanasati` -> `ānāpānasati`
+- `Vicara` -> `vicara`
+- `Nibbana` -> `nibbana`
+- `Paticcasamuppada` -> `paticcasamuppada`
+- `Sila` -> `sila`
+- `Vipassana` -> `vipassana`
+- `Metta` -> `metta`
+- `Anapanasati` -> `anapanasati`
 
 ## High-Confidence House Defaults
 
 The draft strongly supports the following OSF house defaults:
 
 - `dukkha` -> `dissatisfaction`
-- `taṇhā` -> `wanting`
+- `tanha` -> `wanting`
 - `sati` -> `remembering`
-- `sammā-sati` -> `right remembering`
-- `samādhi` -> `unification of mind`
-- `sammā-samādhi` -> `right unification of mind`
-- `mettā` -> `friendliness`
+- `samma-sati` -> `right remembering`
+- `samadhi` -> `unification of mind`
+- `samma-samadhi` -> `right unification of mind`
+- `metta` -> `friendliness`
 
 ## Strongly Reinforced But Not Automatically Defaulted
 
 The draft also strongly reinforces these renderings or ideas, but they may need
- term-by-term editorial caution before replacing the current defaults:
+term-by-term editorial caution before replacing the current defaults:
 
 - `nirodha` as `cessation`
-- `jhāna`, especially first `jhāna`, as `the mind fit for work`
+- `jhana`, especially first `jhana`, as `the mind fit for work`
 - `vitakka` as `applying`
-- `vicāra` as `sustaining`
+- `vicara` as `sustaining`
 - path-factor labels such as `Right Noble Viewing/Looking` and
   `Right Noble Changing`
 
@@ -66,5 +66,5 @@ The draft also strongly reinforces these renderings or ideas, but they may need
   supramundane teaching
 - preference for plain, practical psychological English over inherited
   scholastic terminology
-- resistance to `concentration` as a rendering of `samādhi`
+- resistance to `concentration` as a rendering of `samadhi`
 - preference for usable practice language over purely academic terminology

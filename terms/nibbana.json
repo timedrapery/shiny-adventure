@@ -16,7 +16,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibb?na untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa?s coolness language and Dhammarato?s practical, non-mystified handling now sit above older secondary-source explanations.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibbāna untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa's coolness language and Dhammarato's practical, non-mystified handling now sit above older secondary-source explanations.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -45,7 +45,7 @@
     },
     {
       "context": "In source-facing doctrinal prose where narrowing the term would distort it",
-      "rendering": "nibb?na",
+      "rendering": "nibbāna",
       "notes": "Default OSF practice remains to keep the term untranslated."
     }
   ],

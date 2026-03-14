@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The wanting that reaches for satisfaction through experience, becoming, or non-becoming.",
-  "notes": "OSF house style now prefers wanting for ta?h? based on the Dhammarato quotes draft, where the second noble truth is repeatedly framed as wanting rather than as a more distant or technical craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation.",
+  "notes": "OSF house style now prefers wanting for taṇhā based on the Dhammarato quotes draft, where the second noble truth is repeatedly framed as wanting rather than as a more distant or technical craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical OSF contexts",
@@ -27,7 +27,7 @@
       "notes": "Use when continuity with familiar secondary literature matters."
     },
     {
-      "context": "When emphasizing the metaphor embedded in the P?li",
+      "context": "When emphasizing the metaphor embedded in the Pāli",
       "rendering": "thirst",
       "notes": "Acceptable in explanatory prose or special stylistic contexts."
     }
@@ -57,12 +57,12 @@
   ],
   "example_phrases": [
     {
-      "pali": "ta?h?ya j?yati soko",
+      "pali": "taṇhāya jāyati soko",
       "translation": "from wanting arises sorrow",
       "source": "Dhp 216"
     },
     {
-      "pali": "k?mata?h?",
+      "pali": "kāmataṇhā",
       "translation": "wanting for sensuality",
       "notes": "Illustrates one common subtype.",
       "source": "SN 56.11"

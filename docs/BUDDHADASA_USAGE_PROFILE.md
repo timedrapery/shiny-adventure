@@ -32,9 +32,9 @@ When Buddhadasa gives a rendering or explanatory emphasis in those domains:
   relevant in ordinary life
 - `amata` is stressed as spiritual deathlessness, not personal immortality
 - `anatta` is tightly paired with `sunnata` and freedom from `I` and `mine`
-- `sunnata` and "void mind" language are used to describe a mind empty of
+- `sunnata` and `void mind` language are used to describe a mind empty of
   selfing and appropriation
-- `tathata` is used for thusness or suchness, "just like that"
+- `tathata` is used for thusness or suchness, `just like that`
 - `viveka` is often unpacked into physical, mental, and spiritual solitude
 - `dhamma` regularly carries the senses of nature, natural law, and practical
   truth in addition to teaching
