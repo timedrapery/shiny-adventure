@@ -45,9 +45,12 @@
       "notes": "Illustrative compound use."
     }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 119"
+  ],
   "tags": [
-    "core-practice",
-    "mental-activity",
+    "meditative-development",
     "jhana-factors"
   ],
   "status": "stable"

@@ -42,6 +42,10 @@
       "notes": "Illustrates one common subtype."
     }
   ],
+  "sutta_references": [
+    "SN 12.2",
+    "SN 56.11"
+  ],
   "tags": [
     "four-noble-truths",
     "dependent-origination",

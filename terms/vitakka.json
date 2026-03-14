@@ -45,9 +45,12 @@
       "notes": "Shows use in ethical contexts."
     }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 19"
+  ],
   "tags": [
-    "core-practice",
-    "mental-activity",
+    "meditative-development",
     "jhana-factors"
   ],
   "status": "stable"

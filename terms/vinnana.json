@@ -41,6 +41,10 @@
       "notes": "A debated phrase; included here as an example only."
     }
   ],
+  "sutta_references": [
+    "SN 12.2",
+    "SN 22.79"
+  ],
   "tags": [
     "dependent-origination",
     "aggregates",

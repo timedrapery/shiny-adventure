@@ -14,8 +14,9 @@ It serves as the canonical reference for:
 
 Use this document alongside:
 
-- `schema/pali_term.schema.json`
+- `schema/PALI_TERM_SCHEMA.json`
 - `docs/TERM_ENTRY_STANDARD.md`
+- `docs/TAG_STATUS_VOCABULARY.md`
 - `STYLE_GUIDE.md`
 
 ---
