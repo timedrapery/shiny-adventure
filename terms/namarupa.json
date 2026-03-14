@@ -1,0 +1,57 @@
+{
+  "term": "nāmarūpa",
+  "normalized_term": "namarupa",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "name-and-form",
+  "preferred_translation": "name-and-form",
+  "alternative_translations": [
+    "mentality-and-materiality"
+  ],
+  "discouraged_translations": [
+    "mind and body"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The psycho-physical structuring of experience, pairing the naming or mental side with the form side.",
+  "notes": "The project keeps the literal compound name-and-form as the default because it preserves the structure of the term without prematurely choosing an interpretive paraphrase. Mind and body is too modernized and too coarse for many canonical contexts.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "name-and-form",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the mental and material dimensions need to be made explicit",
+      "rendering": "mentality-and-materiality",
+      "notes": "Acceptable alternate when clarity outweighs compactness."
+    }
+  ],
+  "related_terms": [
+    "viññāṇa",
+    "rūpa",
+    "vedanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "viññāṇapaccayā nāmarūpaṃ",
+      "translation": "with consciousness as condition, name-and-form",
+      "notes": "Central dependent-arising link.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, sense field",
+      "notes": "Shows the downstream role of the term in the chain.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

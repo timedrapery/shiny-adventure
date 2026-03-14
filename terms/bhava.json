@@ -1,0 +1,58 @@
+{
+  "term": "bhava",
+  "normalized_term": "bhava",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "becoming, being",
+  "preferred_translation": "becoming",
+  "alternative_translations": [
+    "existence"
+  ],
+  "discouraged_translations": [
+    "life"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The process or mode of becoming conditioned by clinging and leading onward to birth.",
+  "notes": "The project prefers becoming because it preserves the dynamic force of the term in dependent origination. Existence can be useful in some explanatory contexts, but as a default it risks sounding too static or metaphysical.",
+  "context_rules": [
+    {
+      "context": "In most dependent-origination and doctrinal contexts",
+      "rendering": "becoming",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the mode of existence is under discussion",
+      "rendering": "existence",
+      "notes": "Acceptable when it improves readability without losing process."
+    }
+  ],
+  "related_terms": [
+    "upādāna",
+    "jāti",
+    "taṇhā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "upādānapaccayā bhavo",
+      "translation": "with clinging as condition, becoming",
+      "notes": "Key dependent-origination link.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "bhavataṇhā",
+      "translation": "craving for becoming",
+      "notes": "Shows the term tied directly to craving.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2",
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}
