@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Gladness at the wellbeing, success, or good fortune of others.",
-  "notes": "The project prefers gladness because it is straightforward and contemporary. Appreciative joy remains useful in explanatory prose, especially when distinguishing muditā from generic happiness or pleasure.",
+  "notes": "The project prefers gladness because it is straightforward and contemporary. Appreciative joy remains useful in explanatory prose, especially when distinguishing muditā from generic happiness or pleasure. The term should be heard as delight in others' wellbeing, not as excited self-investment in their success.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -30,12 +30,18 @@
       "context": "When engaging conventional Buddhist terminology",
       "rendering": "sympathetic joy",
       "notes": "Use selectively for reader orientation."
+    },
+    {
+      "context": "When the passage emphasizes the brahmavihāra of rejoicing in others' wellbeing",
+      "rendering": "gladness",
+      "notes": "Keep the quality relational and cultivated rather than generic happiness."
     }
   ],
   "related_terms": [
     "mettā",
     "karuṇā",
-    "upekkhā"
+    "upekkhā",
+    "issa"
   ],
   "example_phrases": [
     {
@@ -58,5 +64,5 @@
     "mental-qualities",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

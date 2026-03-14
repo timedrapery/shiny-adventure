@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Confidence in the path and its possibility, supporting practice and discernment.",
-  "notes": "The project prefers confidence because it reads plainly and avoids the heavier religious freight of faith. Trust remains acceptable where the relational aspect is clearer, while faith is kept only as a familiar alternate rather than the house default.",
+  "notes": "The project prefers confidence because it reads plainly and avoids the heavier religious freight of faith. Trust remains acceptable where the relational aspect is clearer, while faith is kept only as a familiar alternate rather than the house default. The term should be heard as confidence that supports practice and discernment, not as mere assent to propositions.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -30,13 +30,21 @@
       "context": "In comparative prose engaging conventional Buddhist terminology",
       "rendering": "faith",
       "notes": "Use sparingly because it carries more religious overtones."
+    },
+    {
+      "context": "When the passage emphasizes a motivating trust that energizes practice",
+      "rendering": "confidence",
+      "notes": "Keep the term practical and path-supporting rather than doctrinally credal."
     }
   ],
   "related_terms": [
     "paññā",
     "viriya",
     "indriya",
-    "bala"
+    "bala",
+    "appamada",
+    "ariyasavaka",
+    "vicikiccha"
   ],
   "example_phrases": [
     {
@@ -58,7 +66,8 @@
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

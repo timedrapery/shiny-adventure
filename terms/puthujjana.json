@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An ordinary person not yet transformed by noble-path breakthrough.",
-  "notes": "The project prefers ordinary person because it is contemporary and avoids the dated sound of worldling. Worldling remains acceptable in explanatory prose when the contrast with ariyasāvaka needs the familiar technical idiom.",
+  "notes": "The project prefers ordinary person because it is contemporary and avoids the dated sound of worldling. Worldling remains acceptable in explanatory prose when the contrast with ariyasāvaka needs the familiar technical idiom. The term marks a doctrinal condition rather than social rank: it points to someone not yet transformed by noble-path breakthrough.",
   "context_rules": [
     {
       "context": "In most doctrinal and comparative contexts",
@@ -24,12 +24,18 @@
       "context": "In explanatory prose using established Buddhist technical idiom",
       "rendering": "worldling",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When explicitly contrasted with the noble disciple or stream-enterer",
+      "rendering": "ordinary person",
+      "notes": "Keep the classificatory force foregrounded."
     }
   ],
   "related_terms": [
     "ariyasavaka",
     "avijja",
-    "sotapanna"
+    "sotapanna",
+    "sekha"
   ],
   "example_phrases": [
     {
@@ -37,6 +43,11 @@
       "translation": "an unlearned ordinary person",
       "notes": "Frequent canonical contrast to the noble disciple.",
       "source": "MN 9"
+    },
+    {
+      "pali": "puthujjanabhūmi",
+      "translation": "the plane of the ordinary person",
+      "notes": "Useful phrase for the pre-breakthrough condition."
     }
   ],
   "sutta_references": [
@@ -46,5 +57,5 @@
     "core-doctrine",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

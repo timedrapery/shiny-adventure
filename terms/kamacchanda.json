@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through desire for sensual objects or agreeable experience.",
-  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader.",
+  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader. The term should be heard as desire functioning specifically as a derailment of collected practice.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose discussing the desire element itself",
       "rendering": "sensual desire",
       "notes": "Acceptable alternate outside the grouped formula."
+    },
+    {
+      "context": "When the passage emphasizes what draws the mind outward toward agreeable objects",
+      "rendering": "sensual distraction",
+      "notes": "Preserve the connection to the five-distractions framework."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "taṇhā",
     "lobha",
     "chanda",
-    "kama-tanha"
+    "kama-tanha",
+    "samādhi"
   ],
   "example_phrases": [
     {
@@ -56,5 +62,5 @@
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

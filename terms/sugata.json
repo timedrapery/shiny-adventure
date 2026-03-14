@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "Sugata (an epithet of the Buddha)",
   "definition": "A title for the Buddha that is usually best left untranslated in source-facing work.",
-  "notes": "The project leaves Sugata untranslated by default because it functions as a title and English renderings tend to sound forced or overinterpretive. A short gloss is acceptable when the line needs help on first occurrence.",
+  "notes": "The project leaves Sugata untranslated by default because it functions as a title and English renderings tend to sound forced or overinterpretive. A short gloss is acceptable when the line needs help on first occurrence. The epithet belongs inside the cluster of Buddha-titles and should be treated as honorific and doctrinally loaded rather than decorative.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -25,12 +25,18 @@
       "context": "In explanatory prose where a gloss is necessary",
       "rendering": "Well-Gone One",
       "notes": "Use sparingly and only as a gloss."
+    },
+    {
+      "context": "When the passage is explicitly using a Buddha-epithet in praise or recollection",
+      "rendering": "Sugata",
+      "notes": "Preserve the title as a title rather than paraphrasing it away."
     }
   ],
   "related_terms": [
     "buddha",
     "tathagata",
-    "arahant"
+    "arahant",
+    "bodhi"
   ],
   "example_phrases": [
     {
@@ -41,12 +47,13 @@
     }
   ],
   "sutta_references": [
-    "DN 2"
+    "DN 2",
+    "AN 6.10"
   ],
   "tags": [
     "core-doctrine",
     "persons",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing qualities, actions, or states that are ethically unhealthy and conducive to confusion and suffering.",
-  "notes": "The project prefers unwholesome to preserve the ethical and psychological range of the term. Bad is too blunt and collapses doctrinal analysis into ordinary condemnation.",
+  "notes": "The project prefers unwholesome to preserve the ethical and psychological range of the term. Bad is too blunt and collapses doctrinal analysis into ordinary condemnation. The term should be heard analytically across motives, actions, and qualities, not merely as a general insult.",
   "context_rules": [
     {
       "context": "In general ethical and doctrinal contexts",
@@ -30,19 +30,25 @@
       "context": "In prose emphasizing damaging consequences",
       "rendering": "harmful",
       "notes": "Use when consequence matters more than classification."
+    },
+    {
+      "context": "When the passage is classifying roots, actions, or states in doctrinal analysis",
+      "rendering": "unwholesome",
+      "notes": "Keep the ethical-psychological category explicit."
     }
   ],
   "related_terms": [
     "kusala",
+    "lobha",
+    "dosa",
+    "moha",
     "taṇhā",
     "sammā-diṭṭhi",
     "sammā-kammanta",
     "sammasankappa",
-    "dosa",
     "cetanā",
     "ottappa",
     "hiri",
-    "lobha",
     "phala",
     "kamma",
     "papa",
@@ -62,11 +68,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

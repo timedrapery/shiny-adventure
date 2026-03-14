@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The breakthrough of entering the stream to awakening, marked by a decisive doctrinal and practical shift.",
-  "notes": "The project keeps stream-entry because it is already standard and more precise than looser spiritual equivalents. Entering the stream is acceptable when the English sentence benefits from a more active phrase rather than a compact doctrinal label.",
+  "notes": "The project keeps stream-entry because it is already standard and more precise than looser spiritual equivalents. Entering the stream is acceptable when the English sentence benefits from a more active phrase rather than a compact doctrinal label. The term names a decisive doctrinal threshold, so it should be linked to noble discipleship, right view, and the irreversible direction of the path.",
   "context_rules": [
     {
       "context": "In doctrinal and classificatory contexts",
@@ -24,14 +24,21 @@
       "context": "In explanatory prose highlighting the transition itself",
       "rendering": "entering the stream",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When emphasizing the threshold nature of the first breakthrough on the noble path",
+      "rendering": "stream-entry",
+      "notes": "Keep the technical force of a specific attainment rather than a vague spiritual beginning."
     }
   ],
   "related_terms": [
     "sotapanna",
+    "sakadagami",
     "phala",
     "ariyasacca",
     "samma-ditthi",
-    "ariyasavaka"
+    "ariyasavaka",
+    "sekha"
   ],
   "example_phrases": [
     {
@@ -48,11 +55,12 @@
     }
   ],
   "sutta_references": [
-    "SN 55.5"
+    "SN 55.5",
+    "SN 55.1"
   ],
   "tags": [
     "core-doctrine",
     "liberation"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

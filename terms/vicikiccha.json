@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through uncertainty, wavering, and indecisive doubt about the path or practice.",
-  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough.",
+  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough. The term should be heard as destabilizing uncertainty that interrupts commitment to practice and clear seeing.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -24,14 +24,21 @@
       "context": "In explanatory prose emphasizing indecision or lack of confidence",
       "rendering": "doubt",
       "notes": "Acceptable alternate when the practical uncertainty is already clear."
+    },
+    {
+      "context": "When the passage emphasizes uncertainty as one of the five distractions to be crossed beyond",
+      "rendering": "uncertain distraction",
+      "notes": "Keep the term inside the meditative framework rather than treating it as abstract skepticism."
     }
   ],
   "related_terms": [
     "nīvaraṇa",
+    "manasikāra",
     "yoniso manasikāra",
     "sammā-diṭṭhi",
     "avijjā",
-    "sotapanna"
+    "sotapanna",
+    "saddhā"
   ],
   "example_phrases": [
     {
@@ -56,5 +63,5 @@
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

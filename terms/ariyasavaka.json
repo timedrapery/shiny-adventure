@@ -12,8 +12,8 @@
     "believer"
   ],
   "untranslated_preferred": false,
-  "definition": "A disciple aligned with or participating in the noble path and its understanding.",
-  "notes": "The project keeps noble disciple as the default because it is direct and doctrinally established. Ennobled disciple is acceptable only in explanatory prose where the active force of ariya is the point.",
+  "definition": "A disciple aligned with the noble path and no longer standing merely as an ordinary person outside its breakthrough.",
+  "notes": "The project keeps noble disciple as the default because it is direct and doctrinally established. Ennobled disciple is acceptable only in explanatory prose where the active force of ariya is the point. In practice the term often names the doctrinal counterpart to the ordinary person and should be read with stream-entry and path-transformation in view.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -24,15 +24,23 @@
       "context": "In explanatory prose emphasizing transformation by the path",
       "rendering": "ennobled disciple",
       "notes": "Use sparingly."
+    },
+    {
+      "context": "When the passage contrasts one who has seen clearly with the unlearned ordinary person",
+      "rendering": "noble disciple",
+      "notes": "Keep the classificatory and doctrinal contrast explicit."
     }
   ],
   "related_terms": [
     "ariya",
+    "saddhā",
     "sotapanna",
     "sotapatti",
     "buddha",
     "loka",
-    "puthujjana"
+    "puthujjana",
+    "sekha",
+    "asekha"
   ],
   "example_phrases": [
     {
@@ -40,6 +48,11 @@
       "translation": "a learned noble disciple",
       "notes": "Frequent canonical expression.",
       "source": "MN 9"
+    },
+    {
+      "pali": "ariyasāvakassa diṭṭhi",
+      "translation": "the view of a noble disciple",
+      "notes": "Useful for the shift in understanding that separates the noble disciple from the ordinary person."
     }
   ],
   "sutta_references": [
@@ -49,5 +62,5 @@
     "core-doctrine",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

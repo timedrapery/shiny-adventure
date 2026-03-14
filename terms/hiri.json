@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Inner conscience that recoils from unwholesome action out of integrity rather than fear alone.",
-  "notes": "The project prefers conscience because it is clearer and less likely than shame to be misread as toxic self-loathing. Moral shame remains available in explanatory prose when the classical pairing with ottappa needs to be shown more literally.",
+  "notes": "The project prefers conscience because it is clearer and less likely than shame to be misread as toxic self-loathing. Moral shame remains available in explanatory prose when the classical pairing with ottappa needs to be shown more literally. The term should be heard as an inward ethical guard rooted in integrity rather than in fear of punishment.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -24,12 +24,18 @@
       "context": "In explanatory prose discussing the classical ethical pair hiri-ottappa",
       "rendering": "moral shame",
       "notes": "Acceptable when the literal shade needs to be explicit."
+    },
+    {
+      "context": "When the passage emphasizes internal restraint arising from self-respect or integrity",
+      "rendering": "conscience",
+      "notes": "Keep the inward protective quality distinct from externally oriented caution."
     }
   ],
   "related_terms": [
     "ottappa",
     "kusala",
-    "akusala"
+    "akusala",
+    "appamada"
   ],
   "example_phrases": [
     {
@@ -48,7 +54,8 @@
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

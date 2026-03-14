@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Careful moral caution that shrinks from unwholesome action because of its consequences.",
-  "notes": "The project prefers moral caution because it preserves the ethical seriousness of the term without making it sound like ordinary fear. Moral dread can be useful in explanatory prose, but as a default it sounds harsher than most contemporary English needs.",
+  "notes": "The project prefers moral caution because it preserves the ethical seriousness of the term without making it sound like ordinary fear. Moral dread can be useful in explanatory prose, but as a default it sounds harsher than most contemporary English needs. The term should be heard as the outward-looking complement to hiri, alert to the consequences of unwholesome action.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -30,12 +30,18 @@
       "context": "In prose focusing on concern about consequences",
       "rendering": "ethical concern",
       "notes": "Use when it reads more naturally."
+    },
+    {
+      "context": "When the passage emphasizes restraint based on consequences and accountability",
+      "rendering": "moral caution",
+      "notes": "Keep the practical protective force distinct from simple fear."
     }
   ],
   "related_terms": [
     "hiri",
     "akusala",
-    "appamāda"
+    "appamāda",
+    "kusala"
   ],
   "example_phrases": [
     {
@@ -54,7 +60,8 @@
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing qualities, actions, or states that are ethically healthy and conducive to clarity and liberation.",
-  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation.",
+  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation. The term should be heard broadly across conduct, mind, and view, and not collapsed into merely socially approved behavior.",
   "context_rules": [
     {
       "context": "In general ethical and doctrinal contexts",
@@ -30,10 +30,18 @@
       "context": "In contexts where beneficial outcomes are being contrasted",
       "rendering": "beneficial",
       "notes": "Use when wholesome would sound too evaluative in English."
+    },
+    {
+      "context": "When the passage is classifying roots, actions, or qualities as part of doctrinal analysis",
+      "rendering": "wholesome",
+      "notes": "Preserve the ethical-psychological classification rather than reducing the term to pragmatic usefulness."
     }
   ],
   "related_terms": [
     "akusala",
+    "lobha",
+    "dosa",
+    "moha",
     "bhāvanā",
     "sammā-diṭṭhi",
     "sammā-vācā",
@@ -42,6 +50,7 @@
     "adosa",
     "alobha",
     "hiri",
+    "ottappa",
     "appamāda",
     "cetanā",
     "phala",
@@ -64,11 +73,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

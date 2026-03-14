@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A deliberate disposition of goodwill and non-hostility toward oneself and others.",
-  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English.",
+  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English. The term should be heard as a deliberate cultivated stance of non-hostility, not as sentimentality or mere niceness.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -30,6 +30,11 @@
       "context": "In explanatory prose engaging conventional Buddhist terminology",
       "rendering": "loving-kindness",
       "notes": "Use selectively for reader orientation."
+    },
+    {
+      "context": "When the passage emphasizes the brahmavihāra as an intentional cultivation opposed to hostility",
+      "rendering": "goodwill",
+      "notes": "Keep the practical, cultivated quality prominent."
     }
   ],
   "related_terms": [
@@ -64,5 +69,5 @@
     "mental-qualities",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

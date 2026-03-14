@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through agitation, unsettledness, and regretful mental churn.",
-  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative.",
+  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -24,12 +24,18 @@
       "context": "In explanatory prose clarifying the two-part compound",
       "rendering": "restlessness and remorse",
       "notes": "Acceptable alternate when the standard pair is clearer."
+    },
+    {
+      "context": "When the passage emphasizes unsettledness as a disturbance of composure",
+      "rendering": "agitated distraction",
+      "notes": "Keep the practical meditative disturbance in view."
     }
   ],
   "related_terms": [
     "nīvaraṇa",
     "samādhi",
-    "domanassa"
+    "domanassa",
+    "passaddhi"
   ],
   "example_phrases": [
     {
@@ -54,5 +60,5 @@
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

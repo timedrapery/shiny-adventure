@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A practitioner who has gone beyond return to the sensual realm and is classically described as not coming back here.",
-  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase one who does not return is acceptable when a sentence needs more explicitness and less list-like compactness.",
+  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase one who does not return is acceptable when a sentence needs more explicitness and less list-like compactness. The term should be read as a high noble stage still short of arahantship, especially in discussions of the fetters and the graded path.",
   "context_rules": [
     {
       "context": "In doctrinal classifications of awakening stages",
@@ -24,13 +24,19 @@
       "context": "In explanatory prose where the phrase needs to unpack itself",
       "rendering": "one who does not return",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When contrasted with the once-returner below and arahant above",
+      "rendering": "non-returner",
+      "notes": "Preserve the staged sequence rather than treating the term generically."
     }
   ],
   "related_terms": [
     "sakadagami",
     "arahant",
     "samyojana",
-    "sekha"
+    "sekha",
+    "sotapanna"
   ],
   "example_phrases": [
     {
@@ -45,12 +51,13 @@
     }
   ],
   "sutta_references": [
-    "AN 3.86"
+    "AN 3.86",
+    "SN 55.5"
   ],
   "tags": [
     "core-doctrine",
     "liberation",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

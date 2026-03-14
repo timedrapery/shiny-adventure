@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through dullness, heaviness, and sinking energy of mind and body.",
-  "notes": "Project preference is dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion.",
+  "notes": "Project preference is dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion. The term should be heard as a sinking and blunting of practice-energy rather than as ordinary laziness.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -24,12 +24,18 @@
       "context": "In explanatory prose or comparison with conventional Buddhist terminology",
       "rendering": "sloth and torpor",
       "notes": "Acceptable alternate when the traditional pair is useful."
+    },
+    {
+      "context": "When the passage emphasizes the heaviness and dulling that undercut collected practice",
+      "rendering": "dull distraction",
+      "notes": "Keep the practical meditative effect in view."
     }
   ],
   "related_terms": [
     "nīvaraṇa",
     "appamāda",
-    "sammā-vāyāma"
+    "sammā-vāyāma",
+    "viriya"
   ],
   "example_phrases": [
     {
@@ -54,5 +60,5 @@
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

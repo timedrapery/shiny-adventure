@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clear seeing that is free from confusion and distortion.",
-  "notes": "The project prefers clarity because it reads naturally in contemporary English and captures the functional opposite of delusion. Non-delusion remains acceptable in more technical doctrinal exposition, especially when the explicit contrast with moha needs to stay visible.",
+  "notes": "The project prefers clarity because it reads naturally in contemporary English and captures the functional opposite of delusion. Non-delusion remains acceptable in more technical doctrinal exposition, especially when the explicit contrast with moha needs to stay visible. The term belongs inside the wholesome-root framework and should be heard as lucid seeing, not mere cleverness.",
   "context_rules": [
     {
       "context": "In most practical and explanatory contexts",
@@ -24,6 +24,11 @@
       "context": "In analytical contexts explicitly contrasting the wholesome and unwholesome roots",
       "rendering": "non-delusion",
       "notes": "Use when doctrinal symmetry with moha matters."
+    },
+    {
+      "context": "When the passage is naming one of the wholesome roots in relation to discernment",
+      "rendering": "clarity",
+      "notes": "Keep the practical luminous quality while preserving its role in the root triad."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "panna",
     "kusala",
     "alobha",
-    "adosa"
+    "adosa",
+    "avijja"
   ],
   "example_phrases": [
     {
@@ -49,8 +55,9 @@
     "AN 3.69"
   ],
   "tags": [
+    "core-practice",
     "mental-qualities",
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

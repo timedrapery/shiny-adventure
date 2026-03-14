@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Greed or acquisitive pull toward what is wanted or taken to be satisfying.",
-  "notes": "The project prefers greed because it is direct and ethically clear. Desire is too broad for this term and can blur the distinction between ordinary wanting and a specifically unwholesome grasping tendency.",
+  "notes": "The project prefers greed because it is direct and ethically clear. Desire is too broad for this term and can blur the distinction between ordinary wanting and a specifically unwholesome grasping tendency. Lobha should be heard as one of the unwholesome roots and as a force that feeds clinging, appropriation, and distortion.",
   "context_rules": [
     {
       "context": "In most ethical and doctrinal contexts",
@@ -30,10 +30,16 @@
       "context": "In strongly formal explanatory prose",
       "rendering": "covetousness",
       "notes": "Use sparingly because it sounds less contemporary."
+    },
+    {
+      "context": "When the passage is naming one of the unwholesome roots",
+      "rendering": "greed",
+      "notes": "Keep the root-classification clear and direct."
     }
   ],
   "related_terms": [
     "akusala",
+    "kusala",
     "taṇhā",
     "upādāna",
     "alobha",
@@ -58,11 +64,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Careful heedfulness that keeps practice from drifting into neglect or carelessness.",
-  "notes": "The project prefers heedfulness because it captures the vigilant, non-negligent quality of appamāda without confusing it with sati. Diligence can work in more general prose, but as a default it loses some of the warning against heedlessness built into the term.",
+  "notes": "The project prefers heedfulness because it captures the vigilant, non-negligent quality of appamāda without confusing it with sati. Diligence can work in more general prose, but as a default it loses some of the warning against heedlessness built into the term. The term belongs among the project's core practical safeguards and should be heard as a broad quality of vigilant care that supports the whole path.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -30,13 +30,20 @@
       "context": "In explanatory prose highlighting sustained application",
       "rendering": "diligence",
       "notes": "Use when the practical effort dimension is central."
+    },
+    {
+      "context": "When the passage contrasts the path of the deathless with the path of heedlessness",
+      "rendering": "heedfulness",
+      "notes": "Preserve the sharp ethical and existential contrast carried by the term."
     }
   ],
   "related_terms": [
     "sati",
     "sammā-vāyāma",
     "kusala",
+    "hiri",
     "ottappa",
+    "saddhā",
     "yoniso manasikāra",
     "nīvaraṇa",
     "thīna-middha",
@@ -62,7 +69,8 @@
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

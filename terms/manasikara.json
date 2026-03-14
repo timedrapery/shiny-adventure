@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The act of directing the mind toward something; attention as an operative mental factor.",
-  "notes": "The project prefers attention because it is direct and contemporary, and because the term should not be collapsed into sati. Attending is acceptable where the English sentence benefits from a more active verbal-noun feel.",
+  "notes": "The project prefers attention because it is direct and contemporary, and because the term should not be collapsed into sati. Attending is acceptable where the English sentence benefits from a more active verbal-noun feel. The term should be heard as an operative mental directing-toward, which is why the wise and unwise forms matter so much in practice.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose emphasizing the active movement of the mind toward an object",
       "rendering": "attending",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage is analyzing the mental factor that can be directed wisely or unwisely",
+      "rendering": "attention",
+      "notes": "Keep the operative function of the factor explicit."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "ayoniso-manasikara",
     "sati",
     "citta",
-    "papanca"
+    "papanca",
+    "vicikiccha"
   ],
   "example_phrases": [
     {
@@ -54,5 +60,5 @@
     "core-practice",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
