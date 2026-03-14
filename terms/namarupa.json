@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The psycho-physical structuring of experience, pairing the naming or mental side with the form side.",
-  "notes": "The project keeps the literal compound name-and-form as the default because it preserves the structure of the term without prematurely choosing an interpretive paraphrase. Mind and body is too modernized and too coarse for many canonical contexts.",
+  "notes": "The project keeps the literal compound name-and-form as the default because it preserves the structure of the term without prematurely choosing an interpretive paraphrase. Mind and body is too modernized and too coarse for many canonical contexts. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and consciousness, rather than as a simple modern body-mind dualism.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose where the mental and material dimensions need to be made explicit",
       "rendering": "mentality-and-materiality",
       "notes": "Acceptable alternate when clarity outweighs compactness."
+    },
+    {
+      "context": "When the passage emphasizes the paired structuring of experience in dependent origination",
+      "rendering": "name-and-form",
+      "notes": "Preserve the doctrinal compactness of the canonical compound."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "rūpa",
     "vedanā",
     "saḷāyatana",
-    "vinnana-ahara"
+    "vinnana-ahara",
+    "phassa"
   ],
   "example_phrases": [
     {
@@ -48,12 +54,13 @@
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "DN 15"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
     "context-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -10,8 +10,8 @@
   ],
   "discouraged_translations": [],
   "untranslated_preferred": false,
-  "definition": "The moment of knowing associated with a sense field and its object.",
-  "notes": "Viññāṇa refers to the consciousness that arises dependent on a sense field and an object. The project keeps consciousness as the default because it is the clearest stable rendering in both aggregate and dependent-origination contexts. Awareness remains acceptable in explanatory prose, but only where it does not imply a permanent substrate or diffuse background self.",
+  "definition": "The discriminative consciousness associated with a sense field and its object, and central to both aggregate and dependent-origination analysis.",
+  "notes": "Viññāṇa refers to the consciousness that arises dependent on a sense field and an object. The project keeps consciousness as the default because it is the clearest stable rendering in both aggregate and dependent-origination contexts. Awareness remains acceptable in explanatory prose, but only where it does not imply a permanent substrate or diffuse background self. The term should be heard as conditioned and multiple rather than as a hidden witness behind experience.",
   "context_rules": [
     {
       "context": "When referring to the six sense consciousnesses",
@@ -22,6 +22,11 @@
       "context": "When explanatory prose needs a smoother English line",
       "rendering": "awareness",
       "notes": "Use carefully and do not imply a permanent substrate."
+    },
+    {
+      "context": "When the passage emphasizes the reciprocal relation of consciousness and name-and-form",
+      "rendering": "consciousness",
+      "notes": "Keep the term firmly within conditioned process rather than metaphysical speculation."
     }
   ],
   "related_terms": [
@@ -35,6 +40,7 @@
     "khandha",
     "saññā",
     "mano",
+    "vedanā",
     "cakkhu-vinnana",
     "sota-vinnana",
     "ghana-vinnana",
@@ -59,12 +65,13 @@
   ],
   "sutta_references": [
     "SN 12.2",
-    "SN 22.79"
+    "SN 22.79",
+    "DN 15"
   ],
   "tags": [
     "dependent-origination",
     "aggregates",
     "core-doctrine"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

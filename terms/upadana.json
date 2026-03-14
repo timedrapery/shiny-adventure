@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The act of taking up and holding onto experience, views, habits, or identity.",
-  "notes": "Clinging is the clearest general rendering and works well in dependent origination. Fuel remains useful in explanatory prose when the fire metaphor of ongoing becoming is being emphasized.",
+  "notes": "Clinging is the clearest general rendering and works well in dependent origination. Fuel remains useful in explanatory prose when the fire metaphor of ongoing becoming is being emphasized. The term should be heard as appropriation that actively sustains becoming, not as a merely passive emotional attachment.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -30,6 +30,11 @@
       "context": "In explanatory prose tied to the fire metaphor",
       "rendering": "fuel",
       "notes": "Use selectively because it is not the default doctrinal gloss."
+    },
+    {
+      "context": "When the passage emphasizes the transition from craving into the sustaining of becoming",
+      "rendering": "clinging",
+      "notes": "Keep the dependent-origination force of taking-up and holding-to explicit."
     }
   ],
   "related_terms": [
@@ -38,7 +43,8 @@
     "nibbāna",
     "bhava",
     "lobha",
-    "upadhi"
+    "upadhi",
+    "jati"
   ],
   "example_phrases": [
     {
@@ -54,12 +60,13 @@
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "MN 9"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The arising or originating condition of something, especially the origin of dissatisfaction in the four noble truths.",
-  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation.",
+  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation. The term should be heard both as a truth-label and as part of the wider causal vocabulary of the teachings.",
   "context_rules": [
     {
       "context": "In the formula of the four noble truths",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose focusing on emergence or coming-to-be",
       "rendering": "arising",
       "notes": "Use when the dynamic aspect matters more than the doctrinal label."
+    },
+    {
+      "context": "When the passage emphasizes explanatory origin within causal analysis rather than mere temporal appearance",
+      "rendering": "origin",
+      "notes": "Keep the term analytically strong without over-metaphysicizing it."
     }
   ],
   "related_terms": [
@@ -32,8 +37,10 @@
     "tanha",
     "nirodha",
     "magga",
+    "bhava",
     "bhava-tanha",
     "hetu",
+    "paccaya",
     "kama-tanha",
     "nidana",
     "vibhava-tanha"
@@ -53,12 +60,13 @@
     }
   ],
   "sutta_references": [
-    "SN 56.11"
+    "SN 56.11",
+    "SN 12.2"
   ],
   "tags": [
     "core-doctrine",
     "four-noble-truths",
     "dependent-origination"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

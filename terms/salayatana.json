@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The six sense fields through which contact and cognition occur.",
-  "notes": "The project prefers sense field because it reads more naturally than sense base while still retaining the analytical structure of the term. In dependent origination contexts, the plural force is often strongly implied even when the compound appears as a doctrinal link.",
+  "notes": "The project prefers sense field because it reads more naturally than sense base while still retaining the analytical structure of the term. In dependent origination contexts, the plural force is often strongly implied even when the compound appears as a doctrinal link. The term should be heard as the sixfold cognitive field that makes contact possible, not merely as a static list of organs.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -24,6 +24,11 @@
       "context": "When the sixfold structure needs to be explicit in prose",
       "rendering": "six sense fields",
       "notes": "Use when the singular English phrase would hide the doctrinal count."
+    },
+    {
+      "context": "When the passage highlights the link from name-and-form into the arising of contact",
+      "rendering": "sense field",
+      "notes": "Keep the term within the dependent-origination chain rather than treating it as isolated anatomy."
     }
   ],
   "related_terms": [
@@ -42,7 +47,8 @@
     "sadda",
     "gandha",
     "rasa",
-    "photthabba"
+    "photthabba",
+    "vedana"
   ],
   "example_phrases": [
     {
@@ -54,15 +60,22 @@
       "pali": "ajjhattikāni āyatanāni",
       "translation": "the internal sense fields",
       "notes": "Useful for showing how the broader āyatana family works."
+    },
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, sense field",
+      "notes": "Upstream link in the standard sequence.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "SN 35.23"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
     "context-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
