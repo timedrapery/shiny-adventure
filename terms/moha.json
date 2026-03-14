@@ -1,0 +1,57 @@
+{
+  "term": "moha",
+  "normalized_term": "moha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "delusion, confusion",
+  "preferred_translation": "delusion",
+  "alternative_translations": [
+    "confusion",
+    "bewilderment"
+  ],
+  "discouraged_translations": [
+    "ignorance"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Delusion or confusion that obscures what is actually happening and supports unwholesome patterns.",
+  "notes": "The project distinguishes moha from avijjā. Delusion works best here because it names the muddled distortion operating in immediate experience, whereas avijjā more often marks fundamental not-knowing in broader doctrinal sequences.",
+  "context_rules": [
+    {
+      "context": "In most ethical and doctrinal contexts",
+      "rendering": "delusion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing muddle rather than outright false view",
+      "rendering": "confusion",
+      "notes": "Acceptable alternate when it reads more naturally."
+    },
+    {
+      "context": "In prose highlighting mental disorientation",
+      "rendering": "bewilderment",
+      "notes": "Use sparingly because it is more literary."
+    }
+  ],
+  "related_terms": [
+    "avijjā",
+    "lobha",
+    "dosa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "moho akusalamūlaṃ",
+      "translation": "delusion is a root of the unwholesome",
+      "notes": "Standard ethical classification."
+    },
+    {
+      "pali": "vigatamoha",
+      "translation": "free from delusion",
+      "notes": "Useful contrastive expression in practice contexts."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

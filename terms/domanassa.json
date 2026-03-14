@@ -1,0 +1,58 @@
+{
+  "term": "domanassa",
+  "normalized_term": "domanassa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "bad-mindedness, mental displeasure",
+  "preferred_translation": "distress",
+  "alternative_translations": [
+    "mental pain",
+    "dejection"
+  ],
+  "discouraged_translations": [
+    "depression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distress or mental pain as distinct from bodily pain.",
+  "notes": "The project prefers distress because it is contemporary and broad enough for doctrinal and practical use. Mental pain may be useful in explanatory prose when the contrast with bodily pain needs to be explicit.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and formulaic contexts",
+      "rendering": "distress",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose contrasting mental and bodily pain",
+      "rendering": "mental pain",
+      "notes": "Acceptable when precision needs emphasis."
+    },
+    {
+      "context": "In contexts of lowered or discouraged mood",
+      "rendering": "dejection",
+      "notes": "Use only when the narrower shade is clearly present."
+    }
+  ],
+  "related_terms": [
+    "dukkha",
+    "soka",
+    "upāyāsa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sokaparidevadukkhadomanassupāyāsā",
+      "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
+      "notes": "Standard extended suffering formula.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "domanassaṃ paṭisaṃvedeti",
+      "translation": "one experiences distress",
+      "notes": "Simple usage showing the felt character of the term."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

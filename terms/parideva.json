@@ -1,0 +1,53 @@
+{
+  "term": "parideva",
+  "normalized_term": "parideva",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "lamentation, wailing",
+  "preferred_translation": "lamentation",
+  "alternative_translations": [
+    "lament",
+    "wailing"
+  ],
+  "discouraged_translations": [
+    "complaining"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Lamentation or outward grieving expression associated with suffering.",
+  "notes": "The project prefers lamentation because it fits standard formula passages and preserves the public, expressive dimension of the term. Wailing can work in more vivid narrative contexts, but it is too narrow as a default.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and formulaic contexts",
+      "rendering": "lamentation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In more vivid or narrative settings",
+      "rendering": "wailing",
+      "notes": "Acceptable when the expressive force is foregrounded."
+    }
+  ],
+  "related_terms": [
+    "soka",
+    "domanassa",
+    "jarāmaraṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sokaparidevadukkhadomanassupāyāsā",
+      "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
+      "notes": "Standard extended suffering formula.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "paridevaṃ āpajjati",
+      "translation": "one falls into lamentation",
+      "notes": "Useful verbal expression of the noun's force."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}
