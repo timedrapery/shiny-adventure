@@ -1,0 +1,57 @@
+{
+  "term": "asañña",
+  "normalized_term": "asanna",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "without recognition",
+  "preferred_translation": "non-recognition",
+  "alternative_translations": [
+    "without recognition",
+    "unperceiving"
+  ],
+  "discouraged_translations": [
+    "unconscious"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing a state characterized by the absence of recognition.",
+  "notes": "The project follows the style guide in preferring non-recognition because it preserves the lexical tie to saññā and keeps the analysis precise. Unconscious is too broad and imports modern assumptions that do not reliably match doctrinal context.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and analytical contexts",
+      "rendering": "non-recognition",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In tightly literal explanatory prose",
+      "rendering": "without recognition",
+      "notes": "Useful when the privative structure needs to be explicit."
+    },
+    {
+      "context": "In discussions of technical meditative or cosmological states",
+      "rendering": "unperceiving",
+      "notes": "Acceptable when a more adjectival English form reads better."
+    }
+  ],
+  "related_terms": [
+    "saññā",
+    "jhāna",
+    "viññāṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asaññasatta",
+      "translation": "beings of non-recognition",
+      "notes": "Shows the term in a doctrinal compound."
+    },
+    {
+      "pali": "asaññī samāpatti",
+      "translation": "attainment of non-recognition",
+      "notes": "Useful for technical meditative context."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

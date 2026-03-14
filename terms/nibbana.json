@@ -1,0 +1,58 @@
+{
+  "term": "nibbāna",
+  "normalized_term": "nibbana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "going out, quenching",
+  "preferred_translation": "nibbāna",
+  "alternative_translations": [
+    "quenching",
+    "extinguishment"
+  ],
+  "discouraged_translations": [
+    "enlightenment"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "nibbāna (quenching)",
+  "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
+  "notes": "The project prefers leaving nibbāna untranslated in most source-facing contexts because any single English equivalent narrows the term too quickly. Quenching is the preferred gloss when an English cue is needed because it aligns with the project's broader treatment of nirodha.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing translations",
+      "rendering": "nibbāna",
+      "notes": "Default project practice is to keep the term untranslated."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose requiring a short gloss",
+      "rendering": "quenching",
+      "notes": "Preferred English gloss when one is needed."
+    },
+    {
+      "context": "In explanatory prose emphasizing the image of a fire going out",
+      "rendering": "extinguishment",
+      "notes": "Use sparingly because it can sound mechanical."
+    }
+  ],
+  "related_terms": [
+    "nirodha",
+    "bodhi",
+    "taṇhā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nibbānaṃ paramaṃ sukhaṃ",
+      "translation": "nibbāna is the highest ease",
+      "notes": "Useful source-facing example with the term left untranslated.",
+      "source": "Dhp 203"
+    },
+    {
+      "pali": "taṇhakkhayo nibbānaṃ",
+      "translation": "the wearing away of craving is nibbāna",
+      "notes": "Shows the close connection between nibbāna and quenching of craving."
+    }
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

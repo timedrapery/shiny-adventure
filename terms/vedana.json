@@ -1,0 +1,56 @@
+{
+  "term": "vedanā",
+  "normalized_term": "vedana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "feeling, felt tone",
+  "preferred_translation": "feeling",
+  "alternative_translations": [
+    "felt tone"
+  ],
+  "discouraged_translations": [
+    "emotion"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The felt quality of experience as pleasant, painful, or neutral.",
+  "notes": "Feeling is the clearest default for the project, provided it is understood as felt tone rather than emotion. Felt tone can be useful in explanatory prose when modern readers are likely to confuse vedanā with mood or sentiment.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "feeling",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose clarifying that emotion is not intended",
+      "rendering": "felt tone",
+      "notes": "Useful when precision needs emphasis."
+    }
+  ],
+  "related_terms": [
+    "phassa",
+    "taṇhā",
+    "khandha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "phassapaccayā vedanā",
+      "translation": "with contact as condition, feeling",
+      "notes": "Key dependent-origination link.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "sukhā vedanā",
+      "translation": "pleasant feeling",
+      "notes": "Simple subtype example."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "aggregates"
+  ],
+  "status": "reviewed"
+}

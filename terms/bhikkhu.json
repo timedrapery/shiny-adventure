@@ -1,0 +1,57 @@
+{
+  "term": "bhikkhu",
+  "normalized_term": "bhikkhu",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "almsman or mendicant",
+  "preferred_translation": "bhikkhu",
+  "alternative_translations": [
+    "bhikkhus",
+    "mendicant"
+  ],
+  "discouraged_translations": [
+    "monk"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "bhikkhu (ordained mendicant)",
+  "definition": "An ordained mendicant in the Buddhist monastic community; the project normally keeps the Pāli term.",
+  "notes": "The style guide prefers bhikkhu or bhikkhus rather than monk because the English monastic term carries historical and institutional baggage that does not map cleanly onto the early Buddhist context. Mendicant can work as a gloss, but the project default is the untranslated Pāli.",
+  "context_rules": [
+    {
+      "context": "In most translations within this project",
+      "rendering": "bhikkhu",
+      "notes": "Default singular project rendering."
+    },
+    {
+      "context": "When the plural is required in normal English prose",
+      "rendering": "bhikkhus",
+      "notes": "Preferred plural form."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose where a gloss is needed",
+      "rendering": "mendicant",
+      "notes": "Acceptable as a gloss, but not as the standing replacement."
+    }
+  ],
+  "related_terms": [
+    "bhāvanā",
+    "sati",
+    "samādhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "evaṃ me sutaṃ ... bhikkhave",
+      "translation": "thus I heard ... bhikkhus",
+      "notes": "Shows the preferred plural form in discourse address."
+    },
+    {
+      "pali": "bhikkhu satova assasati",
+      "translation": "the bhikkhu breathes in with sati",
+      "notes": "Useful for source-facing translation with an untranslated headword."
+    }
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

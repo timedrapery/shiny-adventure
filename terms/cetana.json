@@ -1,0 +1,52 @@
+{
+  "term": "cetanā",
+  "normalized_term": "cetana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "intending, willing",
+  "preferred_translation": "intention",
+  "alternative_translations": [
+    "volition"
+  ],
+  "discouraged_translations": [
+    "willpower"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The intending or volitional aspect of mind that directs action.",
+  "notes": "Intention is the clearest default in contemporary English and works well across ethical and dependent-arising contexts. Volition remains acceptable in analytical prose, but it can sound more abstract than the project generally prefers.",
+  "context_rules": [
+    {
+      "context": "In most ethical and psychological contexts",
+      "rendering": "intention",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In technical analytical prose about mental factors",
+      "rendering": "volition",
+      "notes": "Acceptable when the terminology needs to stay more formal."
+    }
+  ],
+  "related_terms": [
+    "saṅkhārā",
+    "kusala",
+    "akusala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cetanāhaṃ bhikkhave kammaṃ vadāmi",
+      "translation": "bhikkhus, I say that intention is action",
+      "notes": "Foundational ethical statement.",
+      "source": "AN 6.63"
+    },
+    {
+      "pali": "cetanā",
+      "translation": "intention",
+      "notes": "Headword form often stands clearly on its own in analytical lists."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
