@@ -1,0 +1,65 @@
+{
+  "term": "nīvaraṇa",
+  "normalized_term": "nivarana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "covering, obstruction",
+  "preferred_translation": "distraction",
+  "alternative_translations": [
+    "obstruction"
+  ],
+  "discouraged_translations": [
+    "hindrance"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A distraction that covers over clarity and interferes with collected practice.",
+  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier.",
+  "context_rules": [
+    {
+      "context": "In most practical and meditative contexts",
+      "rendering": "distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing how the state blocks clarity",
+      "rendering": "obstruction",
+      "notes": "Acceptable alternate when the covering force needs emphasis."
+    }
+  ],
+  "related_terms": [
+    "kāmacchanda",
+    "byāpāda",
+    "thīna-middha",
+    "uddhacca-kukkucca",
+    "vicikicchā",
+    "samādhi",
+    "sati",
+    "appamāda",
+    "yoniso manasikāra",
+    "jhāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañca nīvaraṇā",
+      "translation": "the five distractions",
+      "notes": "Main collective expression for the group.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "so ime pañca nīvaraṇe pahāya",
+      "translation": "having abandoned these five distractions",
+      "notes": "Classic transition into collected practice.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

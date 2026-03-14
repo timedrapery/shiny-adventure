@@ -1,0 +1,58 @@
+{
+  "term": "kāmacchanda",
+  "normalized_term": "kamacchanda",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "sensual desire",
+  "preferred_translation": "sensual distraction",
+  "alternative_translations": [
+    "sensual desire"
+  ],
+  "discouraged_translations": [
+    "lust"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distraction through desire for sensual objects or agreeable experience.",
+  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader.",
+  "context_rules": [
+    {
+      "context": "In the five-distractions framework",
+      "rendering": "sensual distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose discussing the desire element itself",
+      "rendering": "sensual desire",
+      "notes": "Acceptable alternate outside the grouped formula."
+    }
+  ],
+  "related_terms": [
+    "nīvaraṇa",
+    "taṇhā",
+    "lobha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmacchandanīvaraṇa",
+      "translation": "the sensual distraction",
+      "notes": "Standard member of the fivefold list.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "kāmacchandassa pahānāya",
+      "translation": "for the abandoning of sensual distraction",
+      "notes": "Shows the term in practice-oriented framing.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,58 @@
+{
+  "term": "uddhacca-kukkucca",
+  "normalized_term": "uddhacca-kukkucca",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "restlessness-and-remorse",
+  "preferred_translation": "agitated distraction",
+  "alternative_translations": [
+    "restlessness and remorse"
+  ],
+  "discouraged_translations": [
+    "anxiety"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Distraction through agitation, unsettledness, and regretful mental churn.",
+  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative.",
+  "context_rules": [
+    {
+      "context": "In the five-distractions framework",
+      "rendering": "agitated distraction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose clarifying the two-part compound",
+      "rendering": "restlessness and remorse",
+      "notes": "Acceptable alternate when the standard pair is clearer."
+    }
+  ],
+  "related_terms": [
+    "nīvaraṇa",
+    "samādhi",
+    "domanassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "uddhaccakukkuccanīvaraṇa",
+      "translation": "the agitated distraction",
+      "notes": "Standard member of the fivefold list.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "ajjhattaṃ vūpasanta-citto",
+      "translation": "with the mind inwardly settled",
+      "notes": "Useful contrast to the agitated condition named by the term.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
