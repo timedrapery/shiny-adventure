@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Pali Term Record",
-  "description": "Schema for a Pali term entry in the shiny-adventure translation dataset. Supports both lighter reference entries and major rule-bearing entries that encode translation policy.",
+  "description": "Schema for a Pali term entry in the shiny-adventure translation dataset. Supports both lighter reference entries and major rule-bearing entries that encode translation policy, formula handling, and drift-prevention guidance.",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -54,7 +54,7 @@
     },
     "preferred_translation": {
       "type": "string",
-      "description": "Default preferred English rendering for this project. This is the live schema field for the repository's preferred rendering.",
+      "description": "Default preferred English rendering for this project. This is the live schema field for the repository's preferred rendering and should function as the governing default unless a context rule explicitly overrides it.",
       "minLength": 1
     },
     "alternative_translations": {
@@ -90,11 +90,11 @@
     },
     "notes": {
       "type": "string",
-      "description": "Freeform usage notes and editorial rationale. This is part of the live rule-bearing structure for major entries."
+      "description": "Freeform usage notes and editorial rationale. This is part of the live rule-bearing structure for major entries and should explain what drift or confusion the rule is meant to prevent."
     },
     "context_rules": {
       "type": "array",
-      "description": "Rules for when translation changes by context. This is the live schema field for translation rules and is strongly recommended for major entries.",
+      "description": "Rules for when translation changes by context. This is the live schema field for translation rules and is strongly recommended for major entries. These rules should govern when the default applies, when it does not, and when compounds or formulas inherit the headword.",
       "items": {
         "type": "object",
         "additionalProperties": false,
@@ -122,7 +122,7 @@
     },
     "related_terms": {
       "type": "array",
-      "description": "Other Pāli headwords related semantically, doctrinally, or grammatically.",
+      "description": "Other Pāli headwords related semantically, doctrinally, or grammatically. These links help maintain rule propagation across doctrinal families, compounds, and formula clusters.",
       "items": {
         "type": "string",
         "minLength": 1
@@ -131,7 +131,7 @@
     },
     "example_phrases": {
       "type": "array",
-      "description": "Example phrases or passages containing the term. This is the live schema field for examples and is strongly recommended for major entries.",
+      "description": "Example phrases or passages containing the term. This is the live schema field for examples and is strongly recommended for major entries. Examples should demonstrate the governed translation decision rather than merely repeat the headword.",
       "items": {
         "type": "object",
         "additionalProperties": false,

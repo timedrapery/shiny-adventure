@@ -105,6 +105,33 @@ class LintRuleTests(unittest.TestCase):
             ["nibbana.json: untranslated_preferred is true but gloss_on_first_occurrence is missing"],
         )
 
+    def test_stabilized_terms_must_be_major_and_rule_bearing(self) -> None:
+        terms = {
+            stem: {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Rule-bearing note.",
+                "context_rules": [{"context": "default", "rendering": "x"}, {"context": "alt", "rendering": "y"}],
+                "related_terms": ["other"],
+                "example_phrases": [{"pali": "x"}],
+                "sutta_references": ["SN 1.1"],
+            }
+            for stem in lint_terms.STABILIZED_RULE_TERMS
+        }
+        terms["ditthi"]["entry_type"] = "minor"
+        terms["dhamma"]["context_rules"] = [{"context": "default", "rendering": "dhamma"}]
+
+        issues = lint_terms.check_stabilized_term_policy(terms)
+
+        self.assertIn(
+            "ditthi.json: stabilized drift-danger term must be a major entry",
+            issues,
+        )
+        self.assertIn(
+            "dhamma.json: stabilized drift-danger term must include at least two context_rules",
+            issues,
+        )
+
 
 class LintCliTests(unittest.TestCase):
     def test_main_reports_missing_terms_directory(self) -> None:
@@ -123,14 +150,31 @@ class LintCliTests(unittest.TestCase):
     def test_main_returns_warning_exit_code_zero_without_strict(self) -> None:
         output = io.StringIO()
         terms = {
-            "sati": {"related_terms": ["samadhi"]},
-            "samadhi": {"related_terms": []},
+            "sati": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Rule-bearing note.",
+                "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
+                "related_terms": ["samadhi"],
+                "example_phrases": [{"pali": "sati"}],
+                "sutta_references": ["MN 10"],
+            },
+            "samadhi": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Rule-bearing note.",
+                "context_rules": [{"context": "default", "rendering": "unification of mind"}, {"context": "alt", "rendering": "composure"}],
+                "related_terms": [],
+                "example_phrases": [{"pali": "samādhi"}],
+                "sutta_references": ["MN 44"],
+            },
         }
 
         with mock.patch.object(lint_terms, "load_terms", return_value=terms):
-            with mock.patch("sys.argv", ["lint_terms.py"]):
-                with mock.patch("sys.stdout", output):
-                    result = lint_terms.main()
+            with mock.patch.object(lint_terms, "STABILIZED_RULE_TERMS", {"sati"}):
+                with mock.patch("sys.argv", ["lint_terms.py"]):
+                    with mock.patch("sys.stdout", output):
+                        result = lint_terms.main()
 
         self.assertEqual(result, 0)
         self.assertIn("Editorial lint warnings:", output.getvalue())
@@ -139,14 +183,31 @@ class LintCliTests(unittest.TestCase):
     def test_main_returns_warning_exit_code_one_with_strict(self) -> None:
         output = io.StringIO()
         terms = {
-            "sati": {"related_terms": ["samadhi"]},
-            "samadhi": {"related_terms": []},
+            "sati": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Rule-bearing note.",
+                "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
+                "related_terms": ["samadhi"],
+                "example_phrases": [{"pali": "sati"}],
+                "sutta_references": ["MN 10"],
+            },
+            "samadhi": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Rule-bearing note.",
+                "context_rules": [{"context": "default", "rendering": "unification of mind"}, {"context": "alt", "rendering": "composure"}],
+                "related_terms": [],
+                "example_phrases": [{"pali": "samādhi"}],
+                "sutta_references": ["MN 44"],
+            },
         }
 
         with mock.patch.object(lint_terms, "load_terms", return_value=terms):
-            with mock.patch("sys.argv", ["lint_terms.py", "--strict"]):
-                with mock.patch("sys.stdout", output):
-                    result = lint_terms.main()
+            with mock.patch.object(lint_terms, "STABILIZED_RULE_TERMS", {"sati"}):
+                with mock.patch("sys.argv", ["lint_terms.py", "--strict"]):
+                    with mock.patch("sys.stdout", output):
+                        result = lint_terms.main()
 
         self.assertEqual(result, 1)
         self.assertIn("Editorial lint warnings:", output.getvalue())
