@@ -1,17 +1,18 @@
 {
-  "term": "paṭiccasamuppāda",
+  "term": "pa\u1e6diccasamupp\u0101da",
   "normalized_term": "paticcasamuppada",
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "dependent arising",
   "preferred_translation": "dependent arising",
   "alternative_translations": [
-    "dependent origination"
+    "dependent origination",
+    "dependent co-arising"
   ],
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The principle that phenomena arise dependent upon conditions.",
-  "notes": "Central doctrinal framework explaining how dissatisfaction arises and how it can be quenched through the ending of conditions.",
+  "notes": "Central doctrinal framework explaining how dissatisfaction arises and how it can be quenched through the ending of conditions. Buddhadasa Bhikkhu strongly emphasizes pa\u1e6diccasamupp\u0101da as an immediate, practical process in lived experience rather than only a multi-life cosmological scheme, and ties it tightly to the broader principle of idappaccayata. The repository records that as a source-backed doctrinal emphasis while keeping dependent arising as the default rendering.",
   "context_rules": [
     {
       "context": "In most project translations and doctrinal discussion",
@@ -22,28 +23,37 @@
       "context": "When referring to the standard English technical term for external comparison",
       "rendering": "dependent origination",
       "notes": "Allowed alternate when noting conventional terminology."
+    },
+    {
+      "context": "In Buddhadasa-style explanation stressing immediacy and process",
+      "rendering": "dependent co-arising",
+      "notes": "Source-backed alternate when the mutual processive character is being highlighted."
     }
   ],
   "related_terms": [
-    "avijjā",
-    "saṅkhārā",
-    "viññāṇa",
-    "saḷāyatana",
-    "taṇhā",
+    "avijj\u0101",
+    "sa\u1e45kh\u0101r\u0101",
+    "vi\u00f1\u00f1\u0101\u1e47a",
+    "sa\u1e37\u0101yatana",
+    "ta\u1e47h\u0101",
     "nirodha",
     "phassa",
     "nidana",
     "paccaya",
-    "vinnana-ahara"
+    "vinnana-ahara",
+    "idappaccayat\u0101",
+    "j\u0101ti",
+    "up\u0101d\u0101na",
+    "bhava"
   ],
   "example_phrases": [
     {
-      "pali": "avijjāpaccayā saṅkhārā",
+      "pali": "avijj\u0101paccay\u0101 sa\u1e45kh\u0101r\u0101",
       "translation": "with ignorance as condition, choices arise",
       "source": "SN 12.2"
     },
     {
-      "pali": "imasmiṁ sati idaṁ hoti",
+      "pali": "imasmi\u1e43 sati ida\u1e43 hoti",
       "translation": "when this is, this comes to be",
       "notes": "Core formula associated with dependent arising.",
       "source": "SN 12.2"

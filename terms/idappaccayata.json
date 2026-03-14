@@ -1,0 +1,57 @@
+{
+  "term": "idappaccayat\u0101",
+  "normalized_term": "idappaccayata",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "this-conditionality",
+  "preferred_translation": "conditionality",
+  "alternative_translations": [
+    "specific conditionality",
+    "this-conditionality"
+  ],
+  "discouraged_translations": [
+    "fate"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The lawful conditionality by which, when this is, that comes to be.",
+  "notes": "This term names the broader principle of conditionality expressed in formulas such as 'when this is, this comes to be.' Buddhadasa Bhikkhu treats idappaccayata as a foundational key to understanding dependent arising as a natural law of lived experience, and the repository records that emphasis here. Conditionality is the cleanest default, while this-conditionality remains available when the morphology needs to be made explicit.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal discussion",
+      "rendering": "conditionality",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose focused on the morphology of the term",
+      "rendering": "this-conditionality",
+      "notes": "Use when the idiom of this conditioned by this is central."
+    },
+    {
+      "context": "In Buddhadasa-style explanation of natural law",
+      "rendering": "conditionality",
+      "notes": "Notes may explicitly describe it as the natural law behind dependent arising."
+    }
+  ],
+  "related_terms": [
+    "pa\u1e6diccasamupp\u0101da",
+    "paccaya",
+    "nidana",
+    "dhamma"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imasmi\u1e43 sati ida\u1e43 hoti",
+      "translation": "when this is, this comes to be",
+      "notes": "Core formula of conditionality.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}
