@@ -36,6 +36,7 @@ If you are new to this repo, this is the fastest useful path:
 ```bash
 python -m pip install jsonschema
 python scripts/validate_terms.py
+python scripts/lint_terms.py
 ```
 
 If validation passes locally, you are aligned with the same check run by GitHub Actions.
@@ -126,9 +127,14 @@ To validate the dataset locally:
 ```bash
 python -m pip install jsonschema
 python scripts/validate_terms.py
+python scripts/lint_terms.py
 ```
 
 This runs the same schema validation logic used by GitHub Actions.
+The lint script adds editorial checks such as unresolved related terms,
+one-way related-term links, and reviewed/stable major entries missing
+`sutta_references`. Use `python scripts/lint_terms.py --strict` if you want
+warnings to fail the run.
 
 ## Contributing
 
