@@ -8,15 +8,17 @@ voidness, birth, deathlessness, and practical liberation.
 
 ## Editorial Rule
 
-When Buddhadasa gives a rendering or explanatory emphasis that differs from the
-current house style:
+For OSF, Buddhadasa Bhikkhu is a primary authority for dependent arising,
+conditionality, voidness, not-self, and here-now liberation framing.
 
-1. keep the current `preferred_translation` unless there is an explicit
-   editorial decision to change it
-2. add the Buddhadasa wording as an alternate, contextual rendering, or note
-   when it is reusable
-3. treat his distinctive practical reinterpretations as named source influence
-   rather than allowing them to drift anonymously into house terminology
+When Buddhadasa gives a rendering or explanatory emphasis in those domains:
+
+1. prefer it over older repository defaults unless a stronger OSF decision has
+   already been recorded
+2. use it to justify `preferred_translation` changes when it is stable and
+   reusable
+3. record it explicitly in `notes` and `context_rules` so the source of the
+   house style remains visible
 
 ## Recurring Usage Tendencies
 

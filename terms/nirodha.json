@@ -15,7 +15,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "Project preference is quenching rather than cessation, reflecting the sense of extinguishing a fire or bringing a process to stillness. Ven. Dr. M. Punnaji sometimes uses discontinuity or ending in meditative and awakening contexts; the repository records discontinuity as a source-backed alternate while retaining quenching as the house default. The OSF glossary glosses nirodha as to stop, to cease, or ending of; the repository records stop and cease as source-backed plain-English alternates while keeping quenching as the house default.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation is now elevated from a secondary alternate to a primary-source-backed doctrinal option within OSF house style.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -36,6 +36,16 @@
       "context": "In OSF-glossary style plain-English explanation of the term",
       "rendering": "ending",
       "notes": "Source-backed explanatory alternate alongside stop and cease."
+    },
+    {
+      "context": "In OSF four-noble-truths exposition where the standard doctrinal formula is being named plainly",
+      "rendering": "cessation",
+      "notes": "Primary-source-backed alternate elevated by Dhammarato usage."
+    },
+    {
+      "context": "In Buddhadasa-line explanation emphasizing the extinguishing of the fires or the stopping of the process",
+      "rendering": "quenching",
+      "notes": "Primary-source-backed default retained in this slice."
     }
   ],
   "related_terms": [

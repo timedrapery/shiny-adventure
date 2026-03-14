@@ -1,10 +1,10 @@
 {
-  "term": "nibb\u0101na",
+  "term": "nibbāna",
   "normalized_term": "nibbana",
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "going out, quenching",
-  "preferred_translation": "nibb\u0101na",
+  "preferred_translation": "nibbāna",
   "alternative_translations": [
     "quenching",
     "extinguishment",
@@ -14,13 +14,13 @@
     "enlightenment"
   ],
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "nibb\u0101na (quenching)",
+  "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
-  "notes": "The project prefers leaving nibb\u0101na untranslated in most source-facing contexts because any single English equivalent narrows the term too quickly. Quenching is the preferred gloss when an English cue is needed because it preserves the imagery of extinguishing the fires of greed, aversion, and delusion while staying aligned with the project's treatment of nirodha. The OSF glossary strongly reinforces the ordinary cooling-down image of nibb\u0101na, which fits the repository gloss quenching and is recorded as source-backed explanatory emphasis. Buddhadasa Bhikkhu repeatedly presents nibb\u0101na as coolness, immediate relief from the fires of I and mine, and something relevant in ordinary life rather than only after death; the repository records that as a source-backed explanatory emphasis without changing the default practice of leaving the term untranslated.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibb?na untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa?s coolness language and Dhammarato?s practical, non-mystified handling now sit above older secondary-source explanations.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
-      "rendering": "nibb\u0101na",
+      "rendering": "nibbāna",
       "notes": "Default project practice is to keep the term untranslated."
     },
     {
@@ -37,13 +37,23 @@
       "context": "In Buddhadasa-style explanatory prose about everyday relief from the fires of grasping",
       "rendering": "coolness",
       "notes": "Source-backed explanatory alternate, not the house default."
+    },
+    {
+      "context": "In OSF practical explanation of relief from the fires of grasping here and now",
+      "rendering": "coolness",
+      "notes": "Primary-source-backed explanatory alternate."
+    },
+    {
+      "context": "In source-facing doctrinal prose where narrowing the term would distort it",
+      "rendering": "nibb?na",
+      "notes": "Default OSF practice remains to keep the term untranslated."
     }
   ],
   "related_terms": [
     "nirodha",
     "bodhi",
-    "ta\u1e47h\u0101",
-    "up\u0101d\u0101na",
+    "taṇhā",
+    "upādāna",
     "sukha",
     "viraga",
     "vimutti",
@@ -55,19 +65,19 @@
     "lokiya",
     "lokuttara",
     "nekkhamma",
-    "su\u00f1\u00f1at\u0101"
+    "suññatā"
   ],
   "example_phrases": [
     {
-      "pali": "nibb\u0101na\u1e43 parama\u1e43 sukha\u1e43",
-      "translation": "nibb\u0101na is the highest ease",
+      "pali": "nibbānaṃ paramaṃ sukhaṃ",
+      "translation": "nibbāna is the highest ease",
       "notes": "Useful source-facing example with the term left untranslated.",
       "source": "Dhp 203"
     },
     {
-      "pali": "ta\u1e47hakkhayo nibb\u0101na\u1e43",
-      "translation": "the wearing away of craving is nibb\u0101na",
-      "notes": "Shows the close connection between nibb\u0101na and quenching of craving."
+      "pali": "taṇhakkhayo nibbānaṃ",
+      "translation": "the wearing away of craving is nibbāna",
+      "notes": "Shows the close connection between nibbāna and quenching of craving."
     }
   ],
   "sutta_references": [

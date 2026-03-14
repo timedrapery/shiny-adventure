@@ -1,5 +1,5 @@
 {
-  "term": "pa\u1e6diccasamupp\u0101da",
+  "term": "paṭiccasamuppāda",
   "normalized_term": "paticcasamuppada",
   "entry_type": "major",
   "part_of_speech": "noun",
@@ -12,7 +12,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The principle that phenomena arise dependent upon conditions.",
-  "notes": "Central doctrinal framework explaining how dissatisfaction arises and how it can be quenched through the ending of conditions. Buddhadasa Bhikkhu strongly emphasizes pa\u1e6diccasamupp\u0101da as an immediate, practical process in lived experience rather than only a multi-life cosmological scheme, and ties it tightly to the broader principle of idappaccayata. The repository records that as a source-backed doctrinal emphasis while keeping dependent arising as the default rendering.",
+  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term, with Dhammarato reinforcing the practical, non-metaphysical reading. The repository keeps dependent arising as the default for now, but the term is now definitively governed by a here-now, practical, suffering-process reading rather than by a neutral or purely scholastic sequence model.",
   "context_rules": [
     {
       "context": "In most project translations and doctrinal discussion",
@@ -28,32 +28,42 @@
       "context": "In Buddhadasa-style explanation stressing immediacy and process",
       "rendering": "dependent co-arising",
       "notes": "Source-backed alternate when the mutual processive character is being highlighted."
+    },
+    {
+      "context": "In OSF practical doctrine explaining the immediate process of suffering and release",
+      "rendering": "dependent arising",
+      "notes": "Default retained, but governed by the here-now reading of the primary sources."
+    },
+    {
+      "context": "In Buddhadasa-line explanation stressing immediacy, mutual process, and practical co-arising",
+      "rendering": "dependent co-arising",
+      "notes": "Primary-source-backed alternate within the OSF line."
     }
   ],
   "related_terms": [
-    "avijj\u0101",
-    "sa\u1e45kh\u0101r\u0101",
-    "vi\u00f1\u00f1\u0101\u1e47a",
-    "sa\u1e37\u0101yatana",
-    "ta\u1e47h\u0101",
+    "avijjā",
+    "saṅkhārā",
+    "viññāṇa",
+    "saḷāyatana",
+    "taṇhā",
     "nirodha",
     "phassa",
     "nidana",
     "paccaya",
     "vinnana-ahara",
-    "idappaccayat\u0101",
-    "j\u0101ti",
-    "up\u0101d\u0101na",
+    "idappaccayatā",
+    "jāti",
+    "upādāna",
     "bhava"
   ],
   "example_phrases": [
     {
-      "pali": "avijj\u0101paccay\u0101 sa\u1e45kh\u0101r\u0101",
+      "pali": "avijjāpaccayā saṅkhārā",
       "translation": "with ignorance as condition, choices arise",
       "source": "SN 12.2"
     },
     {
-      "pali": "imasmi\u1e43 sati ida\u1e43 hoti",
+      "pali": "imasmiṃ sati idaṃ hoti",
       "translation": "when this is, this comes to be",
       "notes": "Core formula associated with dependent arising.",
       "source": "SN 12.2"

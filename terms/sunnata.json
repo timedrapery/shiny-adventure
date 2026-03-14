@@ -1,5 +1,5 @@
 {
-  "term": "su\u00f1\u00f1at\u0101",
+  "term": "suññatā",
   "normalized_term": "sunnata",
   "entry_type": "major",
   "part_of_speech": "noun",
@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Emptiness or voidness, especially the absence of self and what belongs to self.",
-  "notes": "This is the Pali term corresponding to the Sanskrit sunyata. Emptiness is the cleanest default in broad doctrinal prose, while voidness remains a strong alternate when a source explicitly uses that idiom. Buddhadasa Bhikkhu frequently uses voidness and void mind language to stress a mind empty of I and mine, and the repository records that as a source-backed explanatory emphasis.",
+  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term, with Dhammarato strongly reinforcing emptiness and here-now practical use. The repository keeps emptiness as the default, but voidness is now a primary-source-backed OSF alternate rather than a merely optional stylistic variant.",
   "context_rules": [
     {
       "context": "In most doctrinal contexts",
@@ -30,20 +30,30 @@
       "context": "When the passage explicitly contrasts emptiness with self and ownership",
       "rendering": "emptiness of self",
       "notes": "Use selectively in explanatory prose."
+    },
+    {
+      "context": "In Buddhadasa-line practical prose about the mind free of selfing and ownership",
+      "rendering": "voidness",
+      "notes": "Primary-source-backed alternate in the OSF line."
+    },
+    {
+      "context": "In broad doctrinal exposition where the standard English doctrinal noun is needed",
+      "rendering": "emptiness",
+      "notes": "Default OSF rendering retained in this slice."
     }
   ],
   "related_terms": [
-    "anatt\u0101",
-    "att\u0101",
-    "nibb\u0101na",
+    "anattā",
+    "attā",
+    "nibbāna",
     "amata",
     "citta",
-    "tathat\u0101",
+    "tathatā",
     "sunyata"
   ],
   "example_phrases": [
     {
-      "pali": "su\u00f1\u00f1ato loka\u1e43 avekkhassu",
+      "pali": "suññato lokaṃ avekkhassu",
       "translation": "look upon the world as empty",
       "notes": "Classic emptiness instruction.",
       "source": "SN 35.85"
