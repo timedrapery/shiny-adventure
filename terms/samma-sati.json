@@ -4,32 +4,38 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "right sati",
-  "preferred_translation": "right sati",
+  "preferred_translation": "right remembering",
   "alternative_translations": [
-    "right remembering",
+    "right sati",
+    "right noble remembering",
     "harmonious attention"
   ],
   "discouraged_translations": [
     "right mindfulness"
   ],
   "untranslated_preferred": false,
-  "definition": "The path factor of rightly established sati, keeping what matters clearly in mind in a way aligned with the path.",
-  "notes": "Because the project already prefers leaving sati untranslated in many contexts, the natural extension here is right sati rather than right mindfulness. Right remembering can be used in explanation when the functional sense needs to be unpacked for readers unfamiliar with the Pāli. Ven. Dr. M. Punnaji uses harmonious attention in his eightfold-way and satipa??h?na teaching materials; the repository records that as a source-specific pedagogical alternate rather than changing the house default.",
+  "definition": "The path factor of remembering rightly, keeping what matters in mind in a way aligned with the path.",
+  "notes": "OSF house style now prefers right remembering based on the Dhammarato quotes draft, where the factor is explicitly framed in remembering language rather than as mindfulness. Right sati remains available in more source-facing technical contexts, while right noble remembering is retained for quote-book and header-style usage.",
   "context_rules": [
     {
-      "context": "In path-factor and source-facing doctrinal contexts",
-      "rendering": "right sati",
-      "notes": "Default project rendering."
+      "context": "In most path-factor and practical OSF contexts",
+      "rendering": "right remembering",
+      "notes": "Default OSF house rendering."
     },
     {
-      "context": "In explanatory prose unpacking the functional role of sati",
-      "rendering": "right remembering",
-      "notes": "Acceptable alternate when clarity is needed."
+      "context": "In path-factor and source-facing doctrinal contexts that preserve more P?li texture",
+      "rendering": "right sati",
+      "notes": "Acceptable alternate when the P?li term is intentionally retained."
+    },
+    {
+      "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
+      "rendering": "right noble remembering",
+      "notes": "Source-backed heading style, not required in every prose context."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious attention",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Retained as a named source-specific alternate."
     }
   ],
   "related_terms": [
@@ -42,14 +48,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "sammā-sati",
-      "translation": "right sati",
-      "notes": "Path-factor headword form."
+      "pali": "samm?-sati",
+      "translation": "right remembering",
+      "notes": "OSF house-style path-factor form."
     },
     {
-      "pali": "cattāro satipaṭṭhānā",
-      "translation": "the four establishments of sati",
-      "notes": "Closely related practice framework."
+      "pali": "catt?ro satipa??h?n?",
+      "translation": "the four establishments of remembering",
+      "notes": "Closely related practice framework under current house style."
     }
   ],
   "sutta_references": [

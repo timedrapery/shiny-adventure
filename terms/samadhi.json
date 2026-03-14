@@ -4,40 +4,40 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "placing together or bringing into composure",
-  "preferred_translation": "composure",
+  "preferred_translation": "unification of mind",
   "alternative_translations": [
+    "composure",
     "collectedness",
     "mental equilibrium",
-    "stillness of mind",
-    "unification of mind"
+    "stillness of mind"
   ],
   "discouraged_translations": [
     "concentration",
     "absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "A state of mental composure in which the mind is steady and well coordinated.",
-  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration. Ven. Dr. M. Punnaji often uses mental equilibrium and stillness of mind in meditative and path-factor exposition; the repository records those as source-backed alternates while retaining composure as the house default. The OSF glossary explains sam?dhi as unification of mind and composure; the repository records unification of mind as a source-backed explanatory alternate while keeping composure as the default.",
+  "definition": "A state in which the mind is unified, well gathered, and fit to work without the strain implied by concentration.",
+  "notes": "OSF house style now prefers unification of mind for sam?dhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames sam?dhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering.",
   "context_rules": [
     {
-      "context": "In most project translations",
+      "context": "In most OSF translations and practical instruction",
+      "rendering": "unification of mind",
+      "notes": "Default OSF house rendering."
+    },
+    {
+      "context": "In prose emphasizing steadiness and settled bearing more than integration",
       "rendering": "composure",
-      "notes": "Default rendering."
+      "notes": "Acceptable alternate when it reads more naturally."
     },
     {
       "context": "In prose emphasizing the gathered quality of mind",
       "rendering": "collectedness",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Acceptable alternate when the line benefits from it."
     },
     {
-      "context": "In Punnaji-style pedagogical meditation prose emphasizing calm balance of mind",
+      "context": "In older source profiles that use a different teaching idiom",
       "rendering": "mental equilibrium",
-      "notes": "Source-backed alternate, not the house default."
-    },
-    {
-      "context": "In OSF-glossary style plain-English explanation of settled collected mind",
-      "rendering": "unification of mind",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Retained as a source-backed alternate for those named profiles."
     }
   ],
   "related_terms": [
@@ -68,13 +68,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "sammāsamādhi",
-      "translation": "right composure",
-      "notes": "Key doctrinal compound."
+      "pali": "samm?sam?dhi",
+      "translation": "right unification of mind",
+      "notes": "Key doctrinal compound under OSF house style."
     },
     {
-      "pali": "samāhito",
-      "translation": "composed",
+      "pali": "sam?hito",
+      "translation": "unified in mind",
       "notes": "Helpful morphological relation."
     }
   ],

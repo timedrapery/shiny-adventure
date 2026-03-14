@@ -36,6 +36,9 @@ If you are new to the project, this is the recommended reading order:
 - [`DHAMMARATO_CHANTING_PROFILE.md`](DHAMMARATO_CHANTING_PROFILE.md)
   Records a source-backed liturgical term profile from Dhammarato's chanting
   manual for use in notes, context rules, and chant-term intake.
+- [`DHAMMARATO_QUOTES_PROFILE.md`](DHAMMARATO_QUOTES_PROFILE.md)
+  Records a source-backed OSF house-style profile from the Dhammarato quotes
+  draft and may justify direct changes to preferred renderings.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 
