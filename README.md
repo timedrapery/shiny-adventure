@@ -1,102 +1,105 @@
 # shiny-adventure
 
-### A Rule‑Bearing Translation Lexicon for Early Buddhist Texts
+## Rule-Bearing Translation Lexicon for Early Buddhist Texts
 
 [![Status](https://img.shields.io/badge/status-active%20development-blue)]()
-[![License](https://img.shields.io/badge/license-see%20repo-lightgrey)]()
-[![Data
-Type](https://img.shields.io/badge/data-translation%20ruleset-purple)]()
+[![Data](https://img.shields.io/badge/data-translation%20rules-purple)]()
 [![Language](https://img.shields.io/badge/source-Pāli-orange)]()
-[![Output](https://img.shields.io/badge/target-contemporary%20English-green)]()
+[![Target](https://img.shields.io/badge/output-contemporary%20English-green)]()
+[![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)]()
 
-**shiny-adventure** is a structured terminology dataset designed to
-support the translation of Early Buddhist texts from **Pāli into
-contemporary English**.
+**shiny-adventure** is a structured translation lexicon designed to
+support accurate and consistent translation of Early Buddhist texts from
+**Pāli into contemporary English**.
 
-The project functions simultaneously as:
+The repository encodes **translation rules rather than dictionary
+definitions**.\
+It functions simultaneously as:
 
--   a **translator's lexicon**
--   a **house style guide**
--   a **doctrinal terminology registry**
--   a **machine-readable translation rule system**
--   a **translation memory for canonical texts**
+-   a translator lexicon
+-   a house style guide
+-   a doctrinal terminology registry
+-   a machine readable rule system
+-   a translation memory for canonical texts
 
-Unlike a conventional dictionary, this repository records **translation
-rules and decisions**, allowing terminology to remain consistent across
-texts, translators, and translation systems.
+The project aims to provide a **stable and transparent terminology layer
+for translating the Pāli Canon**.
 
 ------------------------------------------------------------------------
 
-# Why This Project Exists
+# Why This Repository Exists
 
-Translations of early Buddhist texts frequently suffer from:
+Translations of early Buddhist texts often suffer from serious
+terminological inconsistency.
 
-• inconsistent rendering of key terms\
-• philosophical reinterpretation of technical vocabulary\
-• translation drift across different texts\
-• loss of doctrinal precision
+Common problems include:
 
-For example, the same Pāli word may appear as several unrelated English
-terms across translations.
+-   one Pāli word translated several different ways
+-   philosophical reinterpretation of technical vocabulary
+-   inconsistent terminology across texts
+-   loss of doctrinal precision
 
-This repository addresses that problem by defining **stable translation
+For example a single doctrinal term may appear across translations as
+several unrelated English renderings.
+
+This repository addresses the problem by defining **explicit translation
 rules for doctrinal vocabulary**.
 
-Each entry documents:
+Each entry records:
 
 -   preferred translation
 -   literal meaning
--   contextual variation rules
+-   contextual translation rules
 -   doctrinal notes
--   cases where the Pāli term should remain untranslated
+-   cases where the Pāli should remain untranslated
 
 The dataset therefore acts as a **controlled vocabulary for canonical
 translation**.
 
 ------------------------------------------------------------------------
 
-# Core Design Principles
+# Core Principles
 
-## Clarity
+### Clarity
 
-Translations should be understandable to a modern reader.
+Translations should be understandable to modern readers.
 
-## Doctrinal Precision
+### Doctrinal Precision
 
-Technical terms preserve their functional meaning within the teachings.
+Technical terms must preserve their functional meaning within the
+teachings.
 
-## Consistency
+### Consistency
 
-Terms should be rendered the same way across texts unless context
+A term should be translated the same way across texts unless context
 requires otherwise.
 
-## Transparency
+### Transparency
 
-When a Pāli term remains untranslated, the reason is documented.
+When a Pāli term is left untranslated the reason is documented.
 
-## Rule-Based Terminology
+### Rule Based Terminology
 
-Major entries encode **translation rules**, not simple dictionary
-definitions.
+Major doctrinal terms encode translation rules rather than definitions.
 
 ------------------------------------------------------------------------
 
 # Entry Types
 
-The lexicon contains two types of entries.
+The dataset contains two entry classes.
 
-## Major Entries (Rule-Bearing)
+## Major Entries (Rule Bearing)
 
 Major entries encode translation policy.
 
-They are used for:
+These are used for:
 
--   doctrinal core vocabulary
--   context-sensitive terminology
--   canonical formulas
+-   core doctrinal vocabulary
+-   context sensitive terminology
+-   canonical formula language
 -   historically mistranslated terms
 
-Examples:
+Examples include:
 
 -   dukkha
 -   saṅkhārā
@@ -105,52 +108,53 @@ Examples:
 -   jhāna
 -   paṭiccasamuppāda
 
-These entries define **how the term should be translated across the
+These entries determine **how a term should be translated across the
 entire corpus**.
 
 ------------------------------------------------------------------------
 
 ## Minor Entries (Reference)
 
-Minor entries behave more like conventional dictionary records.
+Minor entries function more like dictionary records.
 
-They are used for:
+Used for:
 
 -   lower frequency vocabulary
 -   straightforward nouns or verbs
 -   grammatical forms
--   supporting terminology
 
-Minor entries typically do not contain rule systems.
+Minor entries generally do not contain rule systems.
 
 ------------------------------------------------------------------------
 
-# Repository Structure
+# Repository Architecture
 
-    /terms
-        Rule-bearing doctrinal term entries
+    shiny-adventure
+    │
+    ├── terms
+    │   doctrinal term entries
+    │
+    ├── schema
+    │   JSON schema defining entry structure
+    │
+    ├── docs
+    │   translation policy and documentation
+    │
+    └── scripts
+        utilities for generating and validating entries
 
-    /schema
-        JSON schema defining entry structure
-
-    /docs
-        Style guides and project documentation
-
-    /scripts
-        Utilities for generating or validating entries
-
-Each doctrinal term exists as a **separate file**, allowing:
+Each doctrinal term exists as an independent file which allows:
 
 -   independent version control
--   machine readability
+-   machine readable translation rules
+-   incremental dataset growth
 -   integration with translation tooling
--   incremental expansion of the dataset
 
 ------------------------------------------------------------------------
 
-# Example Term Record
+# Example Term Entry
 
-Simplified structure:
+Simplified representation:
 
 ``` yaml
 term: bhāvanā
@@ -163,21 +167,15 @@ preferred_translation:
   development
 
 notes:
-  Avoid translating as "meditation".
+  Avoid translating as meditation.
   The term refers to cultivation or development of qualities.
 ```
 
-Actual records may include additional rule fields and metadata defined
-in the schema.
+Actual entries include additional rule fields defined in the schema.
 
 ------------------------------------------------------------------------
 
-# Translation Orientation
-
-The project aims to produce **clear contemporary English translations**
-while preserving doctrinal function.
-
-Examples of house renderings:
+# Example House Terminology
 
   Pāli       Preferred Rendering
   ---------- ---------------------
@@ -186,74 +184,101 @@ Examples of house renderings:
   dukkha     dissatisfaction
   saṅkhārā   constructings
 
-Some terms intentionally remain untranslated, such as:
+Some technical terms intentionally remain untranslated such as:
 
 -   ānāpānasati
 
-In these cases explanation is preferred over forced translation.
+In such cases explanation is preferred over forced translation.
 
 ------------------------------------------------------------------------
 
-# Intended Applications
+# Translation Pipeline Example
 
-The dataset can support:
+The dataset can be integrated into modern translation workflows.
 
--   human translators of Pāli texts
--   AI translation systems
+Example architecture:
+
+    Pāli Source Text
+            │
+            ▼
+    Tokenization / morphological analysis
+            │
+            ▼
+    Term detection
+            │
+            ▼
+    shiny-adventure lexicon lookup
+            │
+            ▼
+    Rule based translation enforcement
+            │
+            ▼
+    Human or AI translation layer
+            │
+            ▼
+    Consistent contemporary English output
+
+This approach allows translators and AI systems to remain aligned with a
+shared terminology system.
+
+------------------------------------------------------------------------
+
+# Applications
+
+The repository can support:
+
+-   translators of the Pāli Canon
+-   AI assisted translation systems
 -   digital humanities research
 -   canonical terminology standardization
--   machine-assisted lexicons
+-   linguistic analysis of Buddhist texts
 -   translation memory systems
 
-Because entries encode **translation rules**, the repository can be
-integrated directly into translation pipelines.
+Because entries encode rules the dataset can serve as a **terminology
+enforcement layer** for translation tools.
 
 ------------------------------------------------------------------------
 
-# AI Translation Integration
+# Example Use With AI Translation
 
-This dataset is particularly suitable for AI-assisted translation
-systems.
+The lexicon can be used to guide language models by:
 
-Possible uses include:
+-   grounding prompts with translation rules
+-   validating translation output
+-   enforcing house terminology
+-   reducing translation drift
 
--   grounding LLM translations in consistent terminology
--   enforcing house translation rules
--   building translation validation tools
--   canonical text alignment
-
-The structured format allows entries to be used as:
-
--   prompt grounding material
--   translation memory
--   rule enforcement layer
+This makes the dataset useful for **LLM assisted canonical translation
+projects**.
 
 ------------------------------------------------------------------------
 
 # Contributing
 
-Contributions should follow the **Term Entry Standard** and schema.
+Contributions should follow the Term Entry Standard and schema.
 
-When proposing a new doctrinal term:
+When proposing a new doctrinal entry:
 
-1.  Determine whether the entry is **major** or **minor**
+1.  Determine whether the entry is major or minor
 2.  Follow the schema exactly
-3.  Document translation rationale
-4.  Include doctrinal context where relevant
+3.  Provide translation rationale
+4.  Document doctrinal context where necessary
 
-The goal is to maintain **stable terminology across the dataset**.
+The primary goal is **terminological stability across the dataset**.
 
 ------------------------------------------------------------------------
 
-# Project Status
+# Project Roadmap
 
-The repository is under active development.
+Long term objectives include:
 
-The long-term objective is the creation of a **rule-bearing
-lexicon for translating the Pāli Canon into contemporary English**.
+-   coverage of doctrinal terminology
+-   integration with translation tooling
+-   automated validation scripts
+-   expansion into a canonical translation lexicon
 
 ------------------------------------------------------------------------
 
 # License
 
-See the repository license for usage terms.
+See repository license for usage terms.
