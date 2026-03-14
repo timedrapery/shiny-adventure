@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing phenomena as not fit to be identified as self or owned as self.",
-  "notes": "This is a major doctrinal term within the three marks and aggregate analysis. The project preference is not-self because it preserves the diagnostic force of the term without turning it too quickly into a metaphysical slogan. In explanatory prose, not a self can be useful when English needs a fuller phrase tied to the canonical formulas.",
+  "notes": "This is a major doctrinal term within the three marks and aggregate analysis. The project preference is not-self because it preserves the diagnostic and practical force of the term without turning it too quickly into a metaphysical slogan. In explanatory prose, not a self can be useful when English needs a fuller predicate tied to the canonical formulas, while selfless remains a limited alternate rather than the main rendering.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements and three-marks formulations",
@@ -60,5 +60,5 @@
     "three-marks",
     "aggregates"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
