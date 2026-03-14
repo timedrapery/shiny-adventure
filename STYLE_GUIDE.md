@@ -104,7 +104,7 @@ These reflect current OSF house style and may evolve.
 
 ### Preferred renderings
 
-- dukkha -> dissatisfaction
+- dukkha -> dissatisfaction; unsatisfactoriness; stress
 - tanha -> ignorant wanting
 - sati -> remembering
 - samadhi -> unification of mind
