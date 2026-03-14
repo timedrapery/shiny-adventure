@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import io
 import json
 import tempfile
 import unittest
@@ -50,7 +51,8 @@ class WriteTermBatchTests(unittest.TestCase):
 
             with mock.patch.object(write_term_batch, "TERMS_DIR", output_dir):
                 with mock.patch("sys.argv", ["write_term_batch.py", str(batch_path)]):
-                    result = write_term_batch.main()
+                    with mock.patch("sys.stdout", io.StringIO()):
+                        result = write_term_batch.main()
 
             self.assertEqual(result, 0)
             output_path = output_dir / "sangha.json"
@@ -82,7 +84,8 @@ class WriteTermBatchTests(unittest.TestCase):
 
             with mock.patch.object(write_term_batch, "TERMS_DIR", output_dir):
                 with mock.patch("sys.argv", ["write_term_batch.py", str(batch_path)]):
-                    result = write_term_batch.main()
+                    with mock.patch("sys.stdout", io.StringIO()):
+                        result = write_term_batch.main()
 
             self.assertEqual(result, 1)
             self.assertFalse((output_dir / "sangha.json").exists())
@@ -111,7 +114,8 @@ class WriteTermBatchTests(unittest.TestCase):
 
             with mock.patch.object(write_term_batch, "TERMS_DIR", output_dir):
                 with mock.patch("sys.argv", ["write_term_batch.py", str(batch_path)]):
-                    result = write_term_batch.main()
+                    with mock.patch("sys.stdout", io.StringIO()):
+                        result = write_term_batch.main()
 
             self.assertEqual(result, 1)
             self.assertFalse((output_dir / "nibbana.json").exists())
