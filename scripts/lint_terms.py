@@ -17,6 +17,34 @@ except ModuleNotFoundError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
+STABILIZED_RULE_TERMS = {
+    "anatta",
+    "ayatana",
+    "bhava",
+    "dhamma",
+    "ditthi",
+    "dukkha",
+    "jati",
+    "jhana",
+    "khandha",
+    "mano",
+    "namarupa",
+    "nibbana",
+    "nirodha",
+    "paccaya",
+    "panna",
+    "paticcasamuppada",
+    "rupa",
+    "samadhi",
+    "sankhara",
+    "sati",
+    "tanha",
+    "upadana",
+    "vedana",
+    "vicara",
+    "vinnana",
+    "vitakka",
+}
 
 
 def load_json(path: Path) -> object:
@@ -157,6 +185,47 @@ def check_mojibake_patterns(terms: dict[str, dict[str, object]]) -> list[str]:
     return issues
 
 
+def check_stabilized_term_policy(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    required_list_fields = ("context_rules", "related_terms", "example_phrases", "sutta_references")
+
+    for stem in sorted(STABILIZED_RULE_TERMS):
+        data = terms.get(stem)
+        if data is None:
+            issues.append(f"{stem}.json: stabilized drift-danger term is missing")
+            continue
+
+        if data.get("entry_type") != "major":
+            issues.append(f"{stem}.json: stabilized drift-danger term must be a major entry")
+
+        status = data.get("status")
+        if status not in {"reviewed", "stable"}:
+            issues.append(
+                f"{stem}.json: stabilized drift-danger term must be reviewed or stable"
+            )
+
+        notes = data.get("notes")
+        if not isinstance(notes, str) or not notes.strip():
+            issues.append(
+                f"{stem}.json: stabilized drift-danger term must include rule-bearing notes"
+            )
+
+        for field in required_list_fields:
+            value = data.get(field)
+            if not isinstance(value, list) or len(value) == 0:
+                issues.append(
+                    f"{stem}.json: stabilized drift-danger term must include non-empty {field}"
+                )
+
+        context_rules = data.get("context_rules")
+        if isinstance(context_rules, list) and len(context_rules) < 2:
+            issues.append(
+                f"{stem}.json: stabilized drift-danger term must include at least two context_rules"
+            )
+
+    return issues
+
+
 def print_group(title: str, issues: list[str]) -> None:
     if not issues:
         return
@@ -178,6 +247,7 @@ def collect_lint_results(
     gloss_issues = check_untranslated_preferences(terms)
     placeholder_issues = check_suspicious_placeholders(terms)
     mojibake_issues = check_mojibake_patterns(terms)
+    stabilized_term_issues = check_stabilized_term_policy(terms)
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
@@ -185,6 +255,8 @@ def collect_lint_results(
         errors["Encoding"].extend(placeholder_issues)
     if mojibake_issues:
         errors["Encoding"].extend(mojibake_issues)
+    if stabilized_term_issues:
+        errors["Stabilized Terms"].extend(stabilized_term_issues)
     if reciprocal_issues:
         warnings["Reciprocal Links"].extend(reciprocal_issues)
     if reference_issues:
