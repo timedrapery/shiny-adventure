@@ -6,15 +6,15 @@
   "literal_meaning": "confidence, trust",
   "preferred_translation": "confidence",
   "alternative_translations": [
-    "trust",
-    "faith"
+    "trust"
   ],
   "discouraged_translations": [
-    "belief"
+    "belief",
+    "faith"
   ],
   "untranslated_preferred": false,
   "definition": "Confidence in the path and its possibility, supporting practice and discernment.",
-  "notes": "The project prefers confidence because it reads plainly and avoids the heavier religious freight of faith. Trust remains acceptable where the relational aspect is clearer, while faith is kept only as a familiar alternate rather than the house default. The term should be heard as confidence that supports practice and discernment, not as mere assent to propositions. The OSF glossary uses faith and confidence language for saddhā; the repository keeps confidence as default while noting that source-backed alternate vocabulary.",
+  "notes": "The project prefers confidence because it reads plainly, stays practical, and avoids the heavier religious freight of faith. Trust remains acceptable where the relational aspect is clearer, but confidence is the house standard and should carry the main doctrinal load. The term should be heard as confidence that supports practice and discernment, not as mere assent to propositions. The OSF glossary uses faith and confidence language for saddhā; the repository keeps confidence as the operative house rendering while noting that source-backed vocabulary.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -25,11 +25,6 @@
       "context": "In prose emphasizing reliance or trust in a talker or path",
       "rendering": "trust",
       "notes": "Acceptable alternate when that relational tone is central."
-    },
-    {
-      "context": "In comparative prose engaging conventional Buddhist terminology",
-      "rendering": "faith",
-      "notes": "Use sparingly because it carries more religious overtones."
     },
     {
       "context": "When the passage emphasizes a motivating trust that energizes practice",
