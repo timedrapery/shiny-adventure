@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The process or mode of becoming conditioned by clinging and leading onward to birth.",
-  "notes": "The project prefers becoming because it preserves the dynamic force of the term in dependent origination. Existence can be useful in some explanatory contexts, but as a default it risks sounding too static or metaphysical.",
+  "notes": "The project prefers becoming because it preserves the dynamic force of the term in dependent origination. Existence can be useful in some explanatory contexts, but as a default it risks sounding too static or metaphysical. The term should be heard as an ongoing process sustained by clinging and issuing in birth, not as a static metaphysical state.",
   "context_rules": [
     {
       "context": "In most dependent-origination and doctrinal contexts",
@@ -24,16 +24,23 @@
       "context": "In explanatory prose where the mode of existence is under discussion",
       "rendering": "existence",
       "notes": "Acceptable when it improves readability without losing process."
+    },
+    {
+      "context": "When the passage emphasizes the link from clinging into birth in the standard sequence",
+      "rendering": "becoming",
+      "notes": "Keep the processive force of the term explicit."
     }
   ],
   "related_terms": [
+    "ahara",
     "upādāna",
     "jāti",
     "taṇhā",
     "jarāmaraṇa",
     "upadhi",
     "bhava-tanha",
-    "vibhava-tanha"
+    "vibhava-tanha",
+    "samudaya"
   ],
   "example_phrases": [
     {
@@ -58,5 +65,5 @@
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

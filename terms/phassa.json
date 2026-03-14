@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Contact between sense field, object, and consciousness, giving rise to felt experience.",
-  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself.",
+  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself. The term should be heard as an event of conjunction within the sense process, not as the feeling that comes after it.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -24,6 +24,11 @@
       "context": "In tightly literal explanatory prose",
       "rendering": "touch",
       "notes": "Use sparingly when the tactile metaphor matters."
+    },
+    {
+      "context": "When the passage is analyzing the sense-event that gives rise to feeling",
+      "rendering": "contact",
+      "notes": "Keep the technical event-character explicit."
     }
   ],
   "related_terms": [
@@ -45,7 +50,8 @@
     "gandha",
     "rasa",
     "photthabba",
-    "phassa-ahara"
+    "phassa-ahara",
+    "nāmarūpa"
   ],
   "example_phrases": [
     {
@@ -61,11 +67,12 @@
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "SN 35.93"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

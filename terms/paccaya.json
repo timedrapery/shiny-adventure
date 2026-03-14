@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A condition or supporting factor on which something else depends or from which it arises.",
-  "notes": "The project prefers condition because it is the clearest general rendering in dependent-origination language. Support remains acceptable when the enabling or sustaining dimension is more important than the bare conditional relation, but cause is too narrow for default use.",
+  "notes": "The project prefers condition because it is the clearest general rendering in dependent-origination language. Support remains acceptable when the enabling or sustaining dimension is more important than the bare conditional relation, but cause is too narrow for default use. The term should be heard as broad conditionality language rather than as a single strong causal push.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -24,13 +24,19 @@
       "context": "In explanatory prose where the enabling function needs emphasis",
       "rendering": "support",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage is formulating dependent conditionality in sequence analysis",
+      "rendering": "condition",
+      "notes": "Keep the breadth of the relation clearer than a more forceful causal label would."
     }
   ],
   "related_terms": [
     "paticcasamuppada",
     "hetu",
     "nidana",
-    "upanisa"
+    "upanisa",
+    "samudaya"
   ],
   "example_phrases": [
     {
@@ -47,5 +53,5 @@
     "core-doctrine",
     "dependent-origination"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

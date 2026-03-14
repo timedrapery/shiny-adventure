@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Aging and death as the culminating suffering conditioned by birth in the dependent-arising sequence.",
-  "notes": "The project prefers aging-and-death because it preserves the compound structure and matches the rhythm of the standard sequence. Old age and death is acceptable when a more idiomatic English phrase is wanted in explanatory prose.",
+  "notes": "The project prefers aging-and-death because it preserves the compound structure and matches the rhythm of the standard sequence. Old age and death is acceptable when a more idiomatic English phrase is wanted in explanatory prose. The term should be heard as the culminating afflicted outcome of the chain, along with the standard expansion into sorrow and related forms of distress.",
   "context_rules": [
     {
       "context": "In most dependent-origination contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose where a more familiar English phrase helps",
       "rendering": "old age and death",
       "notes": "Acceptable alternate outside tightly patterned formula translation."
+    },
+    {
+      "context": "When the passage emphasizes the culminating suffering that follows birth in the sequence",
+      "rendering": "aging-and-death",
+      "notes": "Keep the place of the link as the terminal patterned compound explicit."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "dukkha",
     "bhava",
     "soka",
-    "parideva"
+    "parideva",
+    "upayasa"
   ],
   "example_phrases": [
     {
@@ -48,12 +54,13 @@
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

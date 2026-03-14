@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Birth or coming-into-being, especially as conditioned by becoming in dependent origination.",
-  "notes": "Birth is the default because it is clear and fits the standard sequence. Arising may be useful in explanatory prose where the broader processive sense needs emphasis, but it should not erase the force of the canonical link.",
+  "notes": "Birth is the default because it is clear and fits the standard sequence. Arising may be useful in explanatory prose where the broader processive sense needs emphasis, but it should not erase the force of the canonical link. The term should be heard as the outcome of becoming in the standard sequence, not as a free-floating synonym for any arising whatever.",
   "context_rules": [
     {
       "context": "In the standard dependent-origination sequence",
@@ -24,12 +24,18 @@
       "context": "In explanatory prose emphasizing process rather than event",
       "rendering": "arising",
       "notes": "Acceptable alternate when the English line benefits from it."
+    },
+    {
+      "context": "When the passage emphasizes the movement from becoming into aging-and-death",
+      "rendering": "birth",
+      "notes": "Keep the place of the link within the chain explicit."
     }
   ],
   "related_terms": [
     "bhava",
     "jarāmaraṇa",
-    "dukkha"
+    "dukkha",
+    "upadana"
   ],
   "example_phrases": [
     {
@@ -54,5 +60,5 @@
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

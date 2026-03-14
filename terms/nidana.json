@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A causal link or source, especially in dependent-origination analysis.",
-  "notes": "The project prefers link in dependent-origination contexts because it tracks how the term functions in connected sequences without forcing a single heavy causal label. Source and cause remain acceptable where the passage points more to origin than to linkage.",
+  "notes": "The project prefers link in dependent-origination contexts because it tracks how the term functions in connected sequences without forcing a single heavy causal label. Source and cause remain acceptable where the passage points more to origin than to linkage. The term should be heard as part of sequence-analysis language rather than as a blanket synonym for any cause whatever.",
   "context_rules": [
     {
       "context": "In dependent-origination contexts and sequence analysis",
@@ -25,13 +25,19 @@
       "context": "In explanatory prose emphasizing origination or source",
       "rendering": "source",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage is enumerating or discussing the connected sequence of dependent origination",
+      "rendering": "link",
+      "notes": "Keep the sequential and relational force explicit."
     }
   ],
   "related_terms": [
     "paccaya",
     "paticcasamuppada",
     "samudaya",
-    "hetu"
+    "hetu",
+    "avijja"
   ],
   "example_phrases": [
     {
@@ -41,11 +47,12 @@
     }
   ],
   "sutta_references": [
-    "SN 12.1"
+    "SN 12.1",
+    "SN 12.2"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
