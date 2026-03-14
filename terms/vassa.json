@@ -1,0 +1,25 @@
+{
+  "term": "vassa",
+  "normalized_term": "vassa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "rains, rains retreat",
+  "preferred_translation": "rains retreat",
+  "alternative_translations": [
+    "vassa",
+    "rains"
+  ],
+  "discouraged_translations": [
+    "vacation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The annual rains retreat observed by monastics during the rainy season.",
+  "sutta_references": [
+    "Mv III"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

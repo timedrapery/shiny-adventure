@@ -1,0 +1,28 @@
+{
+  "term": "pārisuddhi",
+  "normalized_term": "parisuddhi",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "purity, purification",
+  "preferred_translation": "purity",
+  "alternative_translations": [
+    "purification",
+    "clearance"
+  ],
+  "discouraged_translations": [
+    "perfection"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Purity or formal declaration of purity, especially in monastic observance and disciplinary recitation.",
+  "sutta_references": [
+    "Vinaya Piṭaka"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice"
+  ],
+  "status": "reviewed",
+  "related_terms": [
+    "patimokkha"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "term": "paccavekkhaṇā",
+  "normalized_term": "paccavekkhana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "reviewing, reflection, recollection",
+  "preferred_translation": "reflection",
+  "alternative_translations": [
+    "reviewing",
+    "recollection"
+  ],
+  "discouraged_translations": [
+    "speculation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Reviewing reflection, especially in contemplative or liturgical formulas connected with requisites and the body.",
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

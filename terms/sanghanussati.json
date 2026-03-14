@@ -6,7 +6,8 @@
   "literal_meaning": "recollection of the saṅgha",
   "preferred_translation": "recollection of the saṅgha",
   "alternative_translations": [
-    "saṅgha recollection"
+    "saṅgha recollection",
+    "recollection of the sangha"
   ],
   "discouraged_translations": [
     "group loyalty"
@@ -20,5 +21,13 @@
     "core-practice",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual strongly reinforces Sanghanussati as a standard liturgical recollection heading.",
+  "context_rules": [
+    {
+      "context": "In chant-book section headings and devotional recitation contexts",
+      "rendering": "recollection of the sangha",
+      "notes": "Source-backed liturgical rendering."
+    }
+  ]
 }

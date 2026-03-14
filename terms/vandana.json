@@ -1,0 +1,25 @@
+{
+  "term": "vandanā",
+  "normalized_term": "vandana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "homage, salutation",
+  "preferred_translation": "homage",
+  "alternative_translations": [
+    "salutation",
+    "veneration"
+  ],
+  "discouraged_translations": [
+    "worship"
+  ],
+  "untranslated_preferred": false,
+  "definition": "An act or formula of homage, salutation, or reverential greeting used in chanting and ceremony.",
+  "sutta_references": [
+    "Khp 1"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

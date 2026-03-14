@@ -1,0 +1,26 @@
+{
+  "term": "upasampadā",
+  "normalized_term": "upasampada",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "higher ordination, full acceptance",
+  "preferred_translation": "higher ordination",
+  "alternative_translations": [
+    "full ordination",
+    "upasampadā"
+  ],
+  "discouraged_translations": [
+    "initiation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Full monastic ordination or higher acceptance into the bhikkhu or bhikkhuni sangha.",
+  "sutta_references": [
+    "Mv I"
+  ],
+  "tags": [
+    "persons",
+    "core-practice",
+    "vinaya"
+  ],
+  "status": "reviewed"
+}

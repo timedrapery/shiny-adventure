@@ -6,7 +6,8 @@
   "literal_meaning": "recollection of the dhamma",
   "preferred_translation": "recollection of the dhamma",
   "alternative_translations": [
-    "dhamma recollection"
+    "dhamma recollection",
+    "recollection of the dhamma"
   ],
   "discouraged_translations": [
     "study"
@@ -20,5 +21,13 @@
     "core-practice",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual strongly reinforces Dhammanussati as a standard liturgical recollection heading.",
+  "context_rules": [
+    {
+      "context": "In chant-book section headings and devotional recitation contexts",
+      "rendering": "recollection of the dhamma",
+      "notes": "Source-backed liturgical rendering."
+    }
+  ]
 }

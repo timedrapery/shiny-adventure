@@ -1,0 +1,27 @@
+{
+  "term": "kaṭhina",
+  "normalized_term": "kathina",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "frame, kathina season/robe privilege",
+  "preferred_translation": "kaṭhina",
+  "alternative_translations": [
+    "kathina season",
+    "robe-offering season"
+  ],
+  "discouraged_translations": [
+    "festival"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "kaṭhina (robe-offering season)",
+  "definition": "The post-vassa robe-offering season and the Vinaya procedures and privileges connected with it.",
+  "sutta_references": [
+    "Cv VI"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

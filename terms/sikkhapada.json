@@ -20,5 +20,16 @@
     "ethics",
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual reinforces sikkhapada as the concrete training-precept formula recited in refuge and precept ceremonies.",
+  "context_rules": [
+    {
+      "context": "In precept-recitation and ceremonial formulas",
+      "rendering": "training precept",
+      "notes": "Source-backed alternate for chant and ceremony contexts."
+    }
+  ],
+  "related_terms": [
+    "patimokkha"
+  ]
 }

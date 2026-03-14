@@ -1,0 +1,26 @@
+{
+  "term": "paritta",
+  "normalized_term": "paritta",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "protection, safeguard",
+  "preferred_translation": "protection",
+  "alternative_translations": [
+    "protective chant",
+    "paritta"
+  ],
+  "discouraged_translations": [
+    "spell"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A protective discourse or chant recited for blessing, safeguarding, and reassurance.",
+  "sutta_references": [
+    "Sn 1.8",
+    "Khp 6"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

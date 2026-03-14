@@ -6,14 +6,15 @@
   "literal_meaning": "awakening factor",
   "preferred_translation": "awakening factor",
   "alternative_translations": [
-    "factor of awakening"
+    "factor of awakening",
+    "awakening factor"
   ],
   "discouraged_translations": [
     "enlightenment factor"
   ],
   "untranslated_preferred": false,
   "definition": "A factor that supports and matures awakening.",
-  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose. Ven. Dr. M. Punnaji often presents the seven bojjha?gas as steps to awakening in pedagogical materials; the repository records that interpretive framing in notes while retaining awakening factor as the house default.",
+  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose. Ven. Dr. M. Punnaji often presents the seven bojjha?gas as steps to awakening in pedagogical materials; the repository records that interpretive framing in notes while retaining awakening factor as the house default. Dhammarato's chanting manual reinforces the familiar chant-book labeling of the Bojjhanga Paritta as the protection based on the factors of awakening.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -29,6 +30,11 @@
       "context": "In Punnaji-style pedagogical sequencing of the seven bojjha?gas",
       "rendering": "awakening factor",
       "notes": "He often explains them as steps to awakening rather than merely listing them as factors."
+    },
+    {
+      "context": "In paritta titles and familiar liturgical headings",
+      "rendering": "awakening factor",
+      "notes": "Source-backed liturgical rendering."
     }
   ],
   "related_terms": [

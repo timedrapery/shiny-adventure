@@ -1,0 +1,25 @@
+{
+  "term": "nissaya",
+  "normalized_term": "nissaya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "dependence, support",
+  "preferred_translation": "dependence",
+  "alternative_translations": [
+    "support",
+    "reliance"
+  ],
+  "discouraged_translations": [
+    "dependency"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Dependence or support, especially the formal dependence of a newly ordained monastic or the basic supports of monastic life.",
+  "sutta_references": [
+    "Mv I"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

@@ -6,7 +6,8 @@
   "literal_meaning": "observance day",
   "preferred_translation": "observance day",
   "alternative_translations": [
-    "uposatha"
+    "uposatha",
+    "uposatha day"
   ],
   "discouraged_translations": [
     "sabbath"
@@ -19,5 +20,16 @@
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual reinforces uposatha as both an observance day and a formal monastic recitation setting tied to precepts and patimokkha procedures.",
+  "context_rules": [
+    {
+      "context": "In monastic observance and patimokkha-recitation contexts",
+      "rendering": "uposatha",
+      "notes": "Use the untranslated term when the formal observance setting matters more than the calendar gloss."
+    }
+  ],
+  "related_terms": [
+    "patimokkha"
+  ]
 }

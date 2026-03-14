@@ -33,6 +33,9 @@ If you are new to the project, this is the recommended reading order:
 - [`BUDDHADASA_USAGE_PROFILE.md`](BUDDHADASA_USAGE_PROFILE.md)
   Records a source-backed term profile from selected Buddhadasa Bhikkhu works
   for use in notes, context rules, and new-term intake.
+- [`DHAMMARATO_CHANTING_PROFILE.md`](DHAMMARATO_CHANTING_PROFILE.md)
+  Records a source-backed liturgical term profile from Dhammarato's chanting
+  manual for use in notes, context rules, and chant-term intake.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 
