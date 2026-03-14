@@ -1,0 +1,51 @@
+{
+  "term": "kāyaviññāṇa",
+  "normalized_term": "kaya-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "body-consciousness",
+  "preferred_translation": "body-consciousness",
+  "alternative_translations": [
+    "tactile consciousness"
+  ],
+  "discouraged_translations": [
+    "touch-consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on the body and tangibles.",
+  "notes": "The project prefers body-consciousness because it stays close to the canonical sixfold formula. Tactile consciousness is acceptable in explanatory prose when the specific sensory mode needs clearer English labeling.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "body-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the tactile mode",
+      "rendering": "tactile consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "kaya",
+    "photthabba",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāyañca paṭicca phoṭṭhabbe ca uppajjati kāyaviññāṇaṃ",
+      "translation": "dependent on the body and tangibles, body-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

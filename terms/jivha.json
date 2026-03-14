@@ -1,0 +1,57 @@
+{
+  "term": "jivhā",
+  "normalized_term": "jivha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "tongue",
+  "preferred_translation": "tongue",
+  "alternative_translations": [
+    "gustatory faculty"
+  ],
+  "discouraged_translations": [
+    "taste"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The tongue as a sense faculty within the six sense fields.",
+  "notes": "The project prefers tongue as the plain default. Gustatory faculty is acceptable in technical explanation when the sense-base role needs to be explicit.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "tongue",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical prose emphasizing the faculty-role",
+      "rendering": "gustatory faculty",
+      "notes": "Use when the technical structure needs to stay visible."
+    }
+  ],
+  "related_terms": [
+    "salayatana",
+    "ayatana",
+    "rasa",
+    "jivha-vinnana",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jivhañca paṭicca rase ca uppajjati jivhāviññāṇaṃ",
+      "translation": "dependent on the tongue and tastes, tongue-consciousness arises",
+      "notes": "Core sense-field formula.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "jivhāyatana",
+      "translation": "the tongue sense field",
+      "notes": "Shows the term inside āyatana analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

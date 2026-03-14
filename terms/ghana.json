@@ -1,0 +1,57 @@
+{
+  "term": "ghāna",
+  "normalized_term": "ghana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "nose",
+  "preferred_translation": "nose",
+  "alternative_translations": [
+    "olfactory faculty"
+  ],
+  "discouraged_translations": [
+    "smell"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The nose as a sense faculty within the six sense fields.",
+  "notes": "The project prefers nose as the direct default. Olfactory faculty is acceptable in technical prose where the analytical role matters more than ordinary idiom.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "nose",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical prose emphasizing the faculty-role",
+      "rendering": "olfactory faculty",
+      "notes": "Use when the technical structure needs to be explicit."
+    }
+  ],
+  "related_terms": [
+    "salayatana",
+    "ayatana",
+    "gandha",
+    "ghana-vinnana",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ghānañca paṭicca gandhe ca uppajjati ghānaviññāṇaṃ",
+      "translation": "dependent on the nose and odors, nose-consciousness arises",
+      "notes": "Core sense-field formula.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "ghānāyatana",
+      "translation": "the nose sense field",
+      "notes": "Shows the term inside āyatana analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

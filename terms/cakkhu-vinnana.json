@@ -1,0 +1,51 @@
+{
+  "term": "cakkhuviññāṇa",
+  "normalized_term": "cakkhu-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "eye-consciousness",
+  "preferred_translation": "eye-consciousness",
+  "alternative_translations": [
+    "visual consciousness"
+  ],
+  "discouraged_translations": [
+    "vision"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on eye and visible form.",
+  "notes": "The project prefers eye-consciousness because it keeps the analysis close to the standard sixfold structure and lines up with the existing treatment of viññāṇa. Visual consciousness is acceptable in explanatory prose when the English line needs a slightly smoother phrase.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "eye-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the English compound needs to feel less technical",
+      "rendering": "visual consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "cakkhu",
+    "rupa",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
+      "translation": "dependent on the eye and forms, eye-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

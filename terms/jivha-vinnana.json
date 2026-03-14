@@ -1,0 +1,51 @@
+{
+  "term": "jivhāviññāṇa",
+  "normalized_term": "jivha-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "tongue-consciousness",
+  "preferred_translation": "tongue-consciousness",
+  "alternative_translations": [
+    "gustatory consciousness"
+  ],
+  "discouraged_translations": [
+    "taste-consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on tongue and taste.",
+  "notes": "The project prefers tongue-consciousness because it matches the canonical pattern and stays readable. Gustatory consciousness is acceptable in explanatory prose when the technical modality is the point.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "tongue-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the sensory modality",
+      "rendering": "gustatory consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "jivha",
+    "rasa",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jivhañca paṭicca rase ca uppajjati jivhāviññāṇaṃ",
+      "translation": "dependent on the tongue and tastes, tongue-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

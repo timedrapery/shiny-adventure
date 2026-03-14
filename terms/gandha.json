@@ -1,0 +1,56 @@
+{
+  "term": "gandha",
+  "normalized_term": "gandha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "odor, smell",
+  "preferred_translation": "odor",
+  "alternative_translations": [
+    "smell"
+  ],
+  "discouraged_translations": [
+    "perfume"
+  ],
+  "untranslated_preferred": false,
+  "definition": "An odor as the object of the nose within the six sense fields.",
+  "notes": "The project prefers odor because it is neutral and works across pleasant and unpleasant cases. Smell is acceptable in ordinary prose, but odor is slightly better for analytical consistency.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "odor",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In lighter prose where odor sounds too formal",
+      "rendering": "smell",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "ghana",
+    "ghana-vinnana",
+    "phassa",
+    "salayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "gandhe",
+      "translation": "odors",
+      "notes": "Object-side term in standard sense-base formulas.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "gandhārammaṇa",
+      "translation": "having odor as object",
+      "notes": "Useful compact analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

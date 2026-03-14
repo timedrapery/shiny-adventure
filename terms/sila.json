@@ -1,0 +1,64 @@
+{
+  "term": "sīla",
+  "normalized_term": "sila",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "conduct, habit, virtue",
+  "preferred_translation": "conduct",
+  "alternative_translations": [
+    "ethical conduct",
+    "virtue"
+  ],
+  "discouraged_translations": [
+    "morality"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Ethical conduct or disciplined behavior that steadies and supports the path.",
+  "notes": "The project prefers conduct because it stays close to lived behavior and avoids the abstract, often preachy tone of morality. Ethical conduct is acceptable when the moral dimension needs to be explicit, while virtue can work in compact list contexts but is less preferable as a default.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "conduct",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the ethical dimension of behavior",
+      "rendering": "ethical conduct",
+      "notes": "Acceptable alternate when plain conduct feels too broad."
+    },
+    {
+      "context": "In compact doctrinal lists where a short noun is needed",
+      "rendering": "virtue",
+      "notes": "Use sparingly."
+    }
+  ],
+  "related_terms": [
+    "kamma",
+    "kusala",
+    "samma-vaca",
+    "samma-kammanta",
+    "samma-ajiva",
+    "samadhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sīlasampanno",
+      "translation": "accomplished in conduct",
+      "notes": "Useful expression showing sīla as embodied practice."
+    },
+    {
+      "pali": "sīlaṃ samādhi paññā",
+      "translation": "conduct, composure, and discernment",
+      "notes": "Classic triadic framing of the path.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

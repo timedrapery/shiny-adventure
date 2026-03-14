@@ -1,0 +1,51 @@
+{
+  "term": "manoviññāṇa",
+  "normalized_term": "mano-vinnana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "mind-consciousness",
+  "preferred_translation": "mind-consciousness",
+  "alternative_translations": [
+    "mental consciousness"
+  ],
+  "discouraged_translations": [
+    "thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness arising dependent on the mental faculty and dhammas.",
+  "notes": "The project prefers mind-consciousness because it preserves the analytical relation between mano and viññāṇa without collapsing the term into thought. Mental consciousness is acceptable in explanatory prose when the compound needs a slightly smoother English shape.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "mind-consciousness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the compound reads more naturally with a fuller adjective",
+      "rendering": "mental consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "vinnana",
+    "mano",
+    "dhamma",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ",
+      "translation": "dependent on the mind and dhammas, mind-consciousness arises",
+      "notes": "Standard sense-base formula.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,56 @@
+{
+  "term": "amoha",
+  "normalized_term": "amoha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-delusion, clarity",
+  "preferred_translation": "clarity",
+  "alternative_translations": [
+    "non-delusion"
+  ],
+  "discouraged_translations": [
+    "innocence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clear seeing that is free from confusion and distortion.",
+  "notes": "The project prefers clarity because it reads naturally in contemporary English and captures the functional opposite of delusion. Non-delusion remains acceptable in more technical doctrinal exposition, especially when the explicit contrast with moha needs to stay visible.",
+  "context_rules": [
+    {
+      "context": "In most practical and explanatory contexts",
+      "rendering": "clarity",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical contexts explicitly contrasting the wholesome and unwholesome roots",
+      "rendering": "non-delusion",
+      "notes": "Use when doctrinal symmetry with moha matters."
+    }
+  ],
+  "related_terms": [
+    "moha",
+    "panna",
+    "kusala",
+    "alobha",
+    "adosa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "alobho adoso amoho",
+      "translation": "non-grasping, non-ill will, and clarity",
+      "notes": "The wholesome-root triad in the project's preferred style."
+    },
+    {
+      "pali": "amohamūla",
+      "translation": "rooted in clarity",
+      "notes": "Shows the term in explicit contrastive ethical analysis."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.69"
+  ],
+  "tags": [
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

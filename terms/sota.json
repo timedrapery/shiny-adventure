@@ -1,0 +1,57 @@
+{
+  "term": "sota",
+  "normalized_term": "sota",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "ear",
+  "preferred_translation": "ear",
+  "alternative_translations": [
+    "auditory faculty"
+  ],
+  "discouraged_translations": [
+    "hearing"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The ear as a sense faculty within the six sense fields.",
+  "notes": "The project prefers ear as the plain default. Auditory faculty is acceptable in technical explanation when the faculty-role within the sixfold analysis needs to stay explicit.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "ear",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In analytical prose emphasizing the faculty-role",
+      "rendering": "auditory faculty",
+      "notes": "Use when the technical structure needs to be clearer."
+    }
+  ],
+  "related_terms": [
+    "salayatana",
+    "ayatana",
+    "sadda",
+    "sota-vinnana",
+    "phassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotañca paṭicca sadde ca uppajjati sotaviññāṇaṃ",
+      "translation": "dependent on the ear and sounds, ear-consciousness arises",
+      "notes": "Core sense-field formula.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "sotāyatana",
+      "translation": "the ear sense field",
+      "notes": "Shows the term inside āyatana analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,57 @@
+{
+  "term": "phoṭṭhabba",
+  "normalized_term": "photthabba",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "tangible, touchable thing",
+  "preferred_translation": "tangible",
+  "alternative_translations": [
+    "touchable"
+  ],
+  "discouraged_translations": [
+    "object"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A tangible object as the object-side correlate of body contact.",
+  "notes": "The project prefers tangible because it is concise and works naturally in the standard sense-base formulas. Touchable is acceptable when the English line benefits from something more plainly adjectival or less technical.",
+  "context_rules": [
+    {
+      "context": "In most analytical and source-facing contexts",
+      "rendering": "tangible",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a plainer adjective is helpful",
+      "rendering": "touchable",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "kaya",
+    "kaya-vinnana",
+    "phassa",
+    "salayatana",
+    "rupa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "phoṭṭhabbe",
+      "translation": "tangibles",
+      "notes": "Object-side term in standard sense-base formulas.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "phoṭṭhabbārammaṇa",
+      "translation": "having a tangible as object",
+      "notes": "Useful compact analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

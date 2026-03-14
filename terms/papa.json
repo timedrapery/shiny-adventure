@@ -1,0 +1,56 @@
+{
+  "term": "pāpa",
+  "normalized_term": "papa",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "bad, harmful, evil",
+  "preferred_translation": "harmful",
+  "alternative_translations": [
+    "bad"
+  ],
+  "discouraged_translations": [
+    "evil"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Harmful or ethically damaging in quality or effect.",
+  "notes": "The project prefers harmful because it stays practical and readable while avoiding the heavy theological freight of evil. Bad can work in simple narrative or speech-like contexts, but harmful is the better default where ethical consequence matters.",
+  "context_rules": [
+    {
+      "context": "In ethical and practical contexts",
+      "rendering": "harmful",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In plain narrative or very compact phrases",
+      "rendering": "bad",
+      "notes": "Acceptable alternate when the English line wants lighter diction."
+    }
+  ],
+  "related_terms": [
+    "akusala",
+    "kamma",
+    "punna",
+    "dosa",
+    "moha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pāpakamma",
+      "translation": "harmful action",
+      "notes": "Shows the term in a direct ethical compound."
+    },
+    {
+      "pali": "pāpaṃ mittaṃ",
+      "translation": "a harmful friend",
+      "notes": "Broadly practical usage beyond abstract moral vocabulary."
+    }
+  ],
+  "sutta_references": [
+    "Dhp 78"
+  ],
+  "tags": [
+    "ethics",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
