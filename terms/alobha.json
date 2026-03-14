@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Freedom from greed, expressed as non-grasping and openness rather than acquisitive pull.",
-  "notes": "The project keeps non-greed as the default because it preserves the lexical relation to lobha. Generosity can work in explanatory prose when the positive lived expression is in view, but it is narrower than the doctrinal category itself.",
+  "notes": "The project keeps non-greed as the default because it preserves the lexical relation to lobha. Generosity can work in explanatory prose when the positive lived expression is in view, but it is narrower than the doctrinal category itself. The term belongs inside the wholesome-root framework and should not be reduced only to giving material things.",
   "context_rules": [
     {
       "context": "In analytical and doctrinal contexts",
@@ -30,11 +30,17 @@
       "context": "In prose stressing freedom from grasping",
       "rendering": "non-grasping",
       "notes": "Useful when the contrast with greed needs to feel more immediate."
+    },
+    {
+      "context": "When the passage is naming one of the wholesome roots",
+      "rendering": "non-greed",
+      "notes": "Keep the lexical symmetry with lobha visible."
     }
   ],
   "related_terms": [
     "lobha",
     "kusala",
+    "cāga",
     "mettā",
     "amoha"
   ],
@@ -51,11 +57,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

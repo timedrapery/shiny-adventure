@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A person who has entered the stream to awakening and irreversibly shifted in view and trajectory.",
-  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed.",
+  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed. This term marks the first irreversible noble breakthrough and should be heard as a real doctrinal threshold rather than as a vague label for being interested in the teachings.",
   "context_rules": [
     {
       "context": "In doctrinal and classificatory contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose where the sentence benefits from an explicit relative clause",
       "rendering": "one who has entered the stream",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When contrasted with the ordinary person or used as the first member of the liberation sequence",
+      "rendering": "stream-enterer",
+      "notes": "Preserve the precision of the stage label."
     }
   ],
   "related_terms": [
@@ -32,10 +37,12 @@
     "samma-ditthi",
     "vicikiccha",
     "sakadagami",
+    "anagami",
     "ariya",
     "ariyasavaka",
     "puthujjana",
-    "sekha"
+    "sekha",
+    "arahant"
   ],
   "example_phrases": [
     {
@@ -51,12 +58,13 @@
     }
   ],
   "sutta_references": [
-    "SN 55.5"
+    "SN 55.5",
+    "SN 55.1"
   ],
   "tags": [
     "core-doctrine",
     "liberation",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

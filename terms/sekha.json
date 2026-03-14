@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One still in training on the noble path, not yet fully complete.",
-  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase.",
+  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase. The term should be heard as a formal path-classification: it refers to those who have entered noble training but have not yet reached the completion marked by the arahant.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -24,19 +24,33 @@
       "context": "In explanatory prose where a fuller phrase reads more naturally",
       "rendering": "one in training",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When contrasting the noble disciple still on the path with the one beyond training",
+      "rendering": "trainee",
+      "notes": "Keep the technical contrast with asekha explicit."
     }
   ],
   "related_terms": [
     "asekha",
+    "ariyasavaka",
+    "puthujjana",
+    "sotapatti",
     "sotapanna",
     "sakadagami",
-    "anagami"
+    "anagami",
+    "arahant"
   ],
   "example_phrases": [
     {
       "pali": "sekho bhikkhu",
       "translation": "a trainee bhikkhu",
       "notes": "Simple classificatory usage."
+    },
+    {
+      "pali": "sekhassa sikkhā",
+      "translation": "the training of a trainee",
+      "notes": "Useful expression for the unfinished but noble character of the stage."
     }
   ],
   "sutta_references": [
@@ -46,5 +60,5 @@
     "core-doctrine",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

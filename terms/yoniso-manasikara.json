@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A mode of attention that considers experience in a way conducive to understanding and freedom rather than confusion.",
-  "notes": "The project prefers wise attention because it is readable and established without sounding overly technical. Careful attention and appropriate attention can work in explanatory prose, but reflection is too broad and does not capture the attentional function clearly enough.",
+  "notes": "The project prefers wise attention because it is readable and established without sounding overly technical. Careful attention and appropriate attention can work in explanatory prose, but reflection is too broad and does not capture the attentional function clearly enough. The term should be heard as an active way of directing attention that supports discernment, not just as general thoughtfulness.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -30,6 +30,11 @@
       "context": "In prose stressing contextual fit or right orientation",
       "rendering": "appropriate attention",
       "notes": "Use when it helps prevent a moralizing tone."
+    },
+    {
+      "context": "When the passage highlights the attention that undermines distractions and supports clear seeing",
+      "rendering": "wise attention",
+      "notes": "Keep the term practical and path-oriented."
     }
   ],
   "related_terms": [
@@ -55,12 +60,13 @@
     }
   ],
   "sutta_references": [
-    "MN 2"
+    "MN 2",
+    "SN 46.51"
   ],
   "tags": [
     "core-practice",
     "mental-qualities",
     "context-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

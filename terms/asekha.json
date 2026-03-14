@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One beyond training, classically the arahant who has completed the path.",
-  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase.",
+  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase. In practice the term points to completed training, so it belongs closely with arahant and release language rather than with general maturity or expertise.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -24,18 +24,30 @@
       "context": "In explanatory prose where a smoother English phrase is needed",
       "rendering": "fully trained",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage stresses completion of the path rather than ongoing cultivation",
+      "rendering": "beyond training",
+      "notes": "Preserve the contrast with the trainee rather than softening it into a generic compliment."
     }
   ],
   "related_terms": [
     "sekha",
     "arahant",
-    "vimutti"
+    "vimutti",
+    "ariyasavaka"
   ],
   "example_phrases": [
     {
       "pali": "asekho",
       "translation": "one beyond training",
       "notes": "Simple classificatory usage."
+    },
+    {
+      "pali": "asekhā sīlasamādhipaññā",
+      "translation": "conduct, composure, and discernment beyond training",
+      "notes": "Useful for the completion side of the training contrast.",
+      "source": "MN 53"
     }
   ],
   "sutta_references": [
@@ -46,5 +58,5 @@
     "persons",
     "liberation"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

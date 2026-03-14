@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "arahant (worthy one)",
   "definition": "A fully liberated person, classically marked by the wearing away of the outflows and complete release.",
-  "notes": "The project leaves arahant untranslated by default because the term functions as a precise doctrinal category and English saint brings in the wrong religious baggage. Worthy one can be used as a gloss in explanatory prose, but it should not replace the Pāli label in most source-facing work.",
+  "notes": "The project leaves arahant untranslated by default because the term functions as a precise doctrinal category and English saint brings in the wrong religious baggage. Worthy one can be used as a gloss in explanatory prose, but it should not replace the Pāli label in most source-facing work. This entry should be read as the completion point of training and the mature person-category most tightly linked to release, ending of outflows, and beyond-training status.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -25,6 +25,11 @@
       "context": "On first occurrence or in explanatory prose requiring a short gloss",
       "rendering": "worthy one",
       "notes": "Use as a gloss rather than a full replacement."
+    },
+    {
+      "context": "When emphasizing completed training, worn-away outflows, or final liberation",
+      "rendering": "arahant",
+      "notes": "Keep the technical person-category explicit rather than paraphrasing it away."
     }
   ],
   "related_terms": [
@@ -33,7 +38,10 @@
     "nibbana",
     "asava",
     "ariya",
+    "buddha",
     "asekha",
+    "sekha",
+    "sotapanna",
     "sugata",
     "tathagata"
   ],
@@ -50,12 +58,13 @@
     }
   ],
   "sutta_references": [
-    "MN 2"
+    "MN 2",
+    "MN 53"
   ],
   "tags": [
     "core-doctrine",
     "liberation",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

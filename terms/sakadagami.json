@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A practitioner who has weakened key fetters and is said to return to this world at most once.",
-  "notes": "The project keeps once-returner because it is established, concise, and doctrinally specific. The longer phrase one who returns once is acceptable when a sentence needs to breathe more naturally in English.",
+  "notes": "The project keeps once-returner because it is established, concise, and doctrinally specific. The longer phrase one who returns once is acceptable when a sentence needs to breathe more naturally in English. The term belongs inside the graded liberation sequence and should be read as an intermediate noble stage, not as a stand-alone honorific.",
   "context_rules": [
     {
       "context": "In doctrinal classifications of awakening stages",
@@ -24,13 +24,19 @@
       "context": "In explanatory prose with fuller sentence rhythm",
       "rendering": "one who returns once",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When used in the graded sequence between stream-enterer and non-returner",
+      "rendering": "once-returner",
+      "notes": "Keep the progression of attainment explicit."
     }
   ],
   "related_terms": [
     "sotapanna",
     "anagami",
     "samyojana",
-    "sekha"
+    "sekha",
+    "sotapatti"
   ],
   "example_phrases": [
     {
@@ -45,12 +51,13 @@
     }
   ],
   "sutta_references": [
-    "AN 3.86"
+    "AN 3.86",
+    "SN 55.5"
   ],
   "tags": [
     "core-doctrine",
     "liberation",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A distraction that covers over clarity and interferes with collected practice.",
-  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier.",
+  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier. The term should be heard as a practical meditative diagnosis of what obscures clarity and composure.",
   "context_rules": [
     {
       "context": "In most practical and meditative contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose emphasizing how the state blocks clarity",
       "rendering": "obstruction",
       "notes": "Acceptable alternate when the covering force needs emphasis."
+    },
+    {
+      "context": "When the passage treats the fivefold set as a meditative framework of what must be abandoned",
+      "rendering": "distraction",
+      "notes": "Keep the practical family resemblance across the five members explicit."
     }
   ],
   "related_terms": [
@@ -35,6 +40,7 @@
     "samādhi",
     "sati",
     "appamāda",
+    "ayoniso-manasikara",
     "yoniso manasikāra",
     "jhāna"
   ],
@@ -61,5 +67,5 @@
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

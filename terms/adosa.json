@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Freedom from aversion, expressed as non-hostility, patience, and kindness.",
-  "notes": "The project keeps non-aversion as the default because it preserves the lexical relation to dosa and works well in analytical contexts. Kindness can be useful in explanatory prose, but it is more a common expression of adosa than a complete doctrinal equivalent.",
+  "notes": "The project keeps non-aversion as the default because it preserves the lexical relation to dosa and works well in analytical contexts. Kindness can be useful in explanatory prose, but it is more a common expression of adosa than a complete doctrinal equivalent. The term belongs inside the wholesome-root framework and should be heard as more than a passing pleasant mood.",
   "context_rules": [
     {
       "context": "In analytical and doctrinal contexts",
@@ -30,6 +30,11 @@
       "context": "In prose stressing the absence of hostility",
       "rendering": "non-hostility",
       "notes": "Useful when the contrast with aversion needs emphasis."
+    },
+    {
+      "context": "When the passage is naming one of the wholesome roots",
+      "rendering": "non-aversion",
+      "notes": "Keep the lexical symmetry with dosa visible."
     }
   ],
   "related_terms": [
@@ -54,11 +59,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

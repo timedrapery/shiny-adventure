@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Compassionate responsiveness to suffering, marked by the wish that suffering be relieved.",
-  "notes": "Compassion is already the clearest and least distorted default in contemporary English. Pity is discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated.",
+  "notes": "Compassion is already the clearest and least distorted default in contemporary English. Pity is discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated. The term should be heard as responsive concern trained as a brahmavihāra, not as passive sadness.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -24,6 +24,11 @@
       "context": "In prose emphasizing concrete responsive concern",
       "rendering": "care",
       "notes": "Acceptable alternate when compassion sounds too abstract."
+    },
+    {
+      "context": "When the passage emphasizes cultivated responsiveness to suffering within the brahmavihāra framework",
+      "rendering": "compassion",
+      "notes": "Keep the quality active and practice-oriented."
     }
   ],
   "related_terms": [
@@ -31,7 +36,8 @@
     "muditā",
     "dukkha",
     "anukampa",
-    "avihimsa"
+    "avihimsa",
+    "upekkhā"
   ],
   "example_phrases": [
     {
@@ -54,5 +60,5 @@
     "mental-qualities",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

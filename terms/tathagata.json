@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "Tathāgata (an epithet of the Buddha)",
   "definition": "A title used for the Buddha, often carrying doctrinal weight that should not be flattened into a casual English equivalent.",
-  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed.",
+  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed. The title often carries special doctrinal weight in statements about the Buddha, so the project avoids forcing a supposedly definitive English solution.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -25,18 +25,29 @@
       "context": "In explanatory prose where a gloss is necessary",
       "rendering": "Thus-Gone One",
       "notes": "Use sparingly and only as a gloss."
+    },
+    {
+      "context": "When the passage uses the title in doctrinally self-referential Buddha-speech",
+      "rendering": "Tathāgata",
+      "notes": "Keep the title explicit to preserve its technical and rhetorical force."
     }
   ],
   "related_terms": [
     "buddha",
     "sugata",
-    "arahant"
+    "arahant",
+    "bodhi"
   ],
   "example_phrases": [
     {
       "pali": "tathāgato",
       "translation": "the Tathāgata",
       "notes": "Common titular usage throughout the Nikāyas."
+    },
+    {
+      "pali": "tathāgatabala",
+      "translation": "the powers of the Tathāgata",
+      "notes": "Useful reminder that the title often appears in highly doctrinal compounds."
     }
   ],
   "sutta_references": [
@@ -47,5 +58,5 @@
     "persons",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

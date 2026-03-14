@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Balanced evenness of mind that remains steady without withdrawal or indifference.",
-  "notes": "Equanimity remains the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract.",
+  "notes": "Equanimity remains the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract. The term should be heard as balanced presence that protects compassion and goodwill from collapsing into reactivity or fatigue.",
   "context_rules": [
     {
       "context": "In most practical, doctrinal, and meditative contexts",
@@ -30,10 +30,16 @@
       "context": "In prose stressing composure under changing conditions",
       "rendering": "poise",
       "notes": "Use when the tone benefits from a more immediate English term."
+    },
+    {
+      "context": "When the passage emphasizes brahmavihāra balance or mature meditative steadiness",
+      "rendering": "equanimity",
+      "notes": "Keep the quality poised rather than detached."
     }
   ],
   "related_terms": [
     "mettā",
+    "karuṇā",
     "muditā",
     "samādhi",
     "passaddhi",
@@ -60,5 +66,5 @@
     "mental-qualities",
     "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

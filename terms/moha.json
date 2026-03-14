@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Delusion or confusion that obscures what is actually happening and supports unwholesome patterns.",
-  "notes": "The project distinguishes moha from avijjā. Delusion works best here because it names the muddled distortion operating in immediate experience, whereas avijjā more often marks fundamental not-knowing in broader doctrinal sequences.",
+  "notes": "The project distinguishes moha from avijjā. Delusion works best here because it names the muddled distortion operating in immediate experience, whereas avijjā more often marks fundamental not-knowing in broader doctrinal sequences. Moha should also be heard as one of the unwholesome roots and as the factor that keeps greed and aversion from being seen clearly.",
   "context_rules": [
     {
       "context": "In most ethical and doctrinal contexts",
@@ -30,10 +30,17 @@
       "context": "In prose highlighting mental disorientation",
       "rendering": "bewilderment",
       "notes": "Use sparingly because it is more literary."
+    },
+    {
+      "context": "When the passage is naming one of the unwholesome roots",
+      "rendering": "delusion",
+      "notes": "Keep the analytical root framework visible."
     }
   ],
   "related_terms": [
     "avijjā",
+    "akusala",
+    "kusala",
     "lobha",
     "dosa",
     "anusaya",
@@ -55,11 +62,13 @@
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "MN 9",
+    "AN 3.69"
   ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
+    "mental-qualities",
+    "ethics"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
