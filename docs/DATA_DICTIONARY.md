@@ -301,6 +301,9 @@ Notes:
 
 - Use this for nuance, cautions, and project-specific rationale.
 - This is a good place to explain why a preferred translation was chosen.
+- For major doctrinal anchors, this is also the place to explain what drift,
+  doctrinal confusion, or misleading alternate rendering the entry is meant to
+  block.
 
 ---
 
@@ -338,6 +341,8 @@ Notes:
 - This is one of the most important fields in the entire dataset.
 - Use it whenever a term changes sense by doctrinal setting, formulaic environment, genre, or translation register.
 - Major terms should usually have this field.
+- For doctrinal anchor terms, these rules should make clear when compounds and
+  formula lines inherit the headword default and when they do not.
 
 ---
 

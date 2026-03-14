@@ -234,6 +234,14 @@ Use context rules whenever:
 -   literal translation would be misleading
 -   traditional translations are inconsistent
 
+For doctrinal anchor terms, the combined `notes` and `context_rules` should
+also state:
+
+-   when the default rendering applies
+-   when it should not apply
+-   whether compounds or formulas inherit the rule by default
+-   what doctrinal confusion or translation drift the rule is preventing
+
 Use `notes` alongside `context_rules` when the repository needs to explain why
 the default rendering was kept, changed, or left untranslated.
 
