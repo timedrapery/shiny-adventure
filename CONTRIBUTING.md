@@ -50,6 +50,8 @@ python scripts/validate_terms.py
 - Preserve project translation preferences unless you are intentionally proposing a change.
 - Use notes and context rules to explain important editorial choices.
 - Prefer small, focused pull requests over large mixed edits.
+- When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes `encoding="utf-8"`.
+- For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
 
 ## Before Opening a Pull Request
 
