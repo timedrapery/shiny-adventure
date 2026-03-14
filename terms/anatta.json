@@ -1,0 +1,64 @@
+{
+  "term": "anattā",
+  "normalized_term": "anatta",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "not self",
+  "preferred_translation": "not-self",
+  "alternative_translations": [
+    "not a self",
+    "selfless"
+  ],
+  "discouraged_translations": [
+    "no-self"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing phenomena as not fit to be identified as self or owned as self.",
+  "notes": "This is a major doctrinal term within the three marks and aggregate analysis. The project preference is not-self because it preserves the diagnostic force of the term without turning it too quickly into a metaphysical slogan. In explanatory prose, not a self can be useful when English needs a fuller phrase tied to the canonical formulas.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal statements and three-marks formulations",
+      "rendering": "not-self",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose unpacking the canonical formula",
+      "rendering": "not a self",
+      "notes": "Useful when English needs a more explicit predicate."
+    },
+    {
+      "context": "In prose emphasizing the absence of a self-quality in a phenomenon",
+      "rendering": "selfless",
+      "notes": "Use sparingly, since it can sound moral rather than analytical."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "dukkha",
+    "viññāṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sabbe dhammā anattā",
+      "translation": "all phenomena are not-self",
+      "notes": "Classic broad doctrinal formulation.",
+      "source": "Dhp 279"
+    },
+    {
+      "pali": "etaṃ mama, esohamasmi, eso me attā ti samanupassituṃ",
+      "translation": "to regard this as mine, this I am, this is my self",
+      "notes": "This formula helps explain why anattā is rendered not-self rather than as an abstract slogan.",
+      "source": "SN 22.59"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 279",
+    "SN 22.59"
+  ],
+  "tags": [
+    "core-doctrine",
+    "three-marks",
+    "aggregates"
+  ],
+  "status": "reviewed"
+}
