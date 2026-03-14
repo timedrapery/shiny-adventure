@@ -4,8 +4,10 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "thirst",
-  "preferred_translation": "wanting",
+  "preferred_translation": "ignorant wanting",
   "alternative_translations": [
+    "excitement about things",
+    "wanting things you can't have right now",
     "craving",
     "thirst"
   ],
@@ -13,13 +15,23 @@
     "desire"
   ],
   "untranslated_preferred": false,
-  "definition": "The wanting that reaches for satisfaction through experience, becoming, or non-becoming.",
-  "notes": "OSF house style now prefers wanting for taṇhā based on the Dhammarato quotes draft, where the second noble truth is repeatedly framed as wanting rather than as a more distant or technical craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation.",
+  "definition": "The ignorant wanting that lunges toward satisfaction through experience, becoming, or non-becoming, including excitement about things and wanting what is not available right now.",
+  "notes": "OSF house style now prefers ignorant wanting for taṇhā. In this house idiom, excitement about things and wanting things you can't have right now are treated as practical synonyms that expose the restless, mistaken, unsatisfied quality of taṇhā more clearly than the more distant English word craving. Craving remains available when tighter doctrinal comparison is needed, and thirst remains useful for literal or metaphor-sensitive explanation.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical OSF contexts",
-      "rendering": "wanting",
+      "rendering": "ignorant wanting",
       "notes": "Default OSF house rendering."
+    },
+    {
+      "context": "In direct practical instruction emphasizing the felt pull toward objects and outcomes",
+      "rendering": "excitement about things",
+      "notes": "Useful when the emphasis is the agitated leaning toward what seems attractive."
+    },
+    {
+      "context": "In plain-English explanation for newcomers",
+      "rendering": "wanting things you can't have right now",
+      "notes": "Use when the immediate practical meaning matters more than compact doctrinal style."
     },
     {
       "context": "In comparative doctrinal prose engaging established Buddhist-English usage",
@@ -58,12 +70,12 @@
   "example_phrases": [
     {
       "pali": "taṇhāya jāyati soko",
-      "translation": "from wanting arises sorrow",
+      "translation": "from ignorant wanting arises sorrow",
       "source": "Dhp 216"
     },
     {
       "pali": "kāmataṇhā",
-      "translation": "wanting for sensuality",
+      "translation": "ignorant wanting for sensuality",
       "notes": "Illustrates one common subtype.",
       "source": "SN 56.11"
     }

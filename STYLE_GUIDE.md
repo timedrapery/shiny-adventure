@@ -105,7 +105,7 @@ These reflect current OSF house style and may evolve.
 ### Preferred renderings
 
 - dukkha -> dissatisfaction
-- tanha -> wanting
+- tanha -> ignorant wanting
 - sati -> remembering
 - samadhi -> unification of mind
 - samma-samadhi -> right unification of mind
