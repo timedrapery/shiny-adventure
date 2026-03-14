@@ -1,4 +1,4 @@
-name: Schema Check
+name: Dataset Checks
 
 on:
   push:
@@ -27,3 +27,7 @@ jobs:
       - name: Validate term files against schema
         run: |
           python scripts/validate_terms.py
+
+      - name: Run editorial lint checks
+        run: |
+          python scripts/lint_terms.py --strict
