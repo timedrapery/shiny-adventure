@@ -16,6 +16,30 @@ The repository currently includes:
 The long-term goal is to support a future Pali lexicon, study tool, search
 experience, or translation workflow built on clear and consistent data.
 
+## Quick Start for New Contributors
+
+If you are new to this repo, this is the fastest useful path:
+
+1. Read the style and editorial docs in order:
+   - [`STYLE_GUIDE.md`](STYLE_GUIDE.md)
+   - [`docs/DOCUMENTATION_GUIDE.md`](docs/DOCUMENTATION_GUIDE.md)
+   - [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md)
+   - [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md)
+   - [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md)
+2. Review 1-2 entries in [`terms/`](terms) before editing.
+3. Make a small, focused change (for example: improve notes, add a context rule, or draft one new term).
+4. Run local validation.
+5. Open a PR explaining what changed and why.
+
+## 10-Minute Local Setup
+
+```bash
+python -m pip install jsonschema
+python scripts/validate_terms.py
+```
+
+If validation passes locally, you are aligned with the same check run by GitHub Actions.
+
 ## Project Goals
 
 - Create a standardized JSON format for Pali term records
@@ -77,6 +101,23 @@ If you are new to this project, start here:
 4. Use [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md) when adding or revising a term.
 5. Check [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md) before choosing tags or status values.
 6. Validate term files before opening a pull request.
+
+## What a Good First Pull Request Looks Like
+
+A strong first PR is usually small and explicit. Good examples include:
+
+- refining one existing term entry for clarity and consistency
+- adding missing `notes` or `context_rules` to a major entry
+- improving tag/status alignment with [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md)
+- adding one well-formed new term entry that follows the schema and style guide
+
+Before opening the PR, confirm:
+
+- JSON is valid
+- files pass schema validation
+- wording follows [`STYLE_GUIDE.md`](STYLE_GUIDE.md)
+- tags and status follow [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md)
+- non-obvious translation decisions are explained in notes or PR description
 
 ## Local Validation
 
