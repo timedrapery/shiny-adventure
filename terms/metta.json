@@ -4,47 +4,37 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "friendliness, benevolence",
-  "preferred_translation": "goodwill",
+  "preferred_translation": "friendliness",
   "alternative_translations": [
-    "friendliness",
+    "goodwill",
     "loving-kindness"
   ],
   "discouraged_translations": [
     "love"
   ],
   "untranslated_preferred": false,
-  "definition": "A deliberate disposition of goodwill and non-hostility toward oneself and others.",
-  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English. The term should be heard as a deliberate cultivated stance of non-hostility, not as sentimentality or mere niceness. The OSF glossary strongly favors friendliness and loving-kindness language for mett?; the repository records friendliness as a reinforced source-backed alternate while keeping goodwill as the default. Dhammarato's chanting manual strongly reinforces loving-kindness as the default liturgical gloss in Karaniya Metta and related chant headings.",
+  "definition": "A deliberate disposition of friendliness and non-hostility toward oneself and others.",
+  "notes": "OSF house style now prefers friendliness for mett? based on the Dhammarato quotes draft, where the term is explicitly presented that way in ordinary teaching contexts. Goodwill remains useful where a firmer ethical tone is needed, and loving-kindness remains available in chant titles and familiar Buddhist-English settings.",
   "context_rules": [
     {
-      "context": "In most practical and doctrinal contexts",
-      "rendering": "goodwill",
-      "notes": "Default project rendering."
-    },
-    {
-      "context": "In prose emphasizing warm social orientation",
+      "context": "In most practical and doctrinal OSF contexts",
       "rendering": "friendliness",
-      "notes": "Acceptable alternate when the tone is informal and gentle."
+      "notes": "Default OSF house rendering."
     },
     {
-      "context": "In explanatory prose engaging conventional Buddhist terminology",
-      "rendering": "loving-kindness",
-      "notes": "Use selectively for reader orientation."
-    },
-    {
-      "context": "When the passage emphasizes the brahmavihāra as an intentional cultivation opposed to hostility",
+      "context": "In prose emphasizing deliberate benevolent intention rather than social warmth",
       "rendering": "goodwill",
+      "notes": "Acceptable alternate when the line needs a firmer ethical tone."
+    },
+    {
+      "context": "In explanatory prose engaging conventional Buddhist terminology or chant-book headings",
+      "rendering": "loving-kindness",
+      "notes": "Retained as a familiar alternate."
+    },
+    {
+      "context": "When the passage emphasizes the brahmavih?ra as an intentional cultivation opposed to hostility",
+      "rendering": "friendliness",
       "notes": "Keep the practical, cultivated quality prominent."
-    },
-    {
-      "context": "In OSF-glossary style explanation of mett? as a friendly mental attitude",
-      "rendering": "friendliness",
-      "notes": "Source-backed alternate, not the house default."
-    },
-    {
-      "context": "In sutta titles and chant-book headings",
-      "rendering": "loving-kindness",
-      "notes": "Source-backed liturgical alternate."
     }
   ],
   "related_terms": [
@@ -60,13 +50,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "mettā cetovimutti",
-      "translation": "the liberation of mind through goodwill",
+      "pali": "mett? cetovimutti",
+      "translation": "the liberation of mind through friendliness",
       "notes": "Important practice expression."
     },
     {
-      "pali": "mettā bhāvetabbā",
-      "translation": "goodwill should be developed",
+      "pali": "mett? bh?vetabb?",
+      "translation": "friendliness should be developed",
       "notes": "Simple practice-oriented usage."
     }
   ],

@@ -8,14 +8,15 @@
   "alternative_translations": [
     "appropriate livelihood",
     "harmonious lifestyle",
-    "harmonious life"
+    "harmonious life",
+    "right noble livelihood"
   ],
   "discouraged_translations": [
     "correct living"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of sustaining one's life in ways that do not depend on harm or deception.",
-  "notes": "The project keeps right livelihood as the default because it is standard and clear enough in contemporary English. Appropriate livelihood may work in explanatory prose where the practical and contextual dimension needs emphasis. Ven. Dr. M. Punnaji uses harmonious lifestyle and harmonious life in his eightfold-way teaching materials; the repository records those as source-specific pedagogical alternates.",
+  "notes": "The project keeps right livelihood as the default because it is standard and clear enough in contemporary English. Appropriate livelihood may work in explanatory prose where the practical and contextual dimension needs emphasis. Ven. Dr. M. Punnaji uses harmonious lifestyle and harmonious life in his eightfold-way teaching materials; the repository records those as source-specific pedagogical alternates. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering.",
   "context_rules": [
     {
       "context": "In path-factor and ethical contexts",
@@ -31,6 +32,11 @@
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious lifestyle",
       "notes": "Source-backed alternate, not the house default."
+    },
+    {
+      "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
+      "rendering": "right noble livelihood",
+      "notes": "Source-backed heading style retained for close alignment with the quotes draft."
     }
   ],
   "related_terms": [

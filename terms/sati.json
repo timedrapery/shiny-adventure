@@ -3,44 +3,39 @@
   "normalized_term": "sati",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "preferred_translation": "sati",
+  "preferred_translation": "remembering",
   "alternative_translations": [
-    "remembering",
+    "sati",
     "attention",
     "awareness"
   ],
   "discouraged_translations": [
     "mindfulness"
   ],
-  "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "sati (remembering with presence of mind)",
-  "definition": "The active keeping in mind of what is relevant, involving recollection and presence of mind.",
-  "notes": "Project preference is to leave sati untranslated in most contexts. On first occurrence it may be glossed as remembering with presence of mind. This is a rule-bearing entry because the project explicitly prefers the Pāli term in many contexts. Ven. Dr. M. Punnaji often interprets sati through an attention or introversion-of-attention framework; the repository records attention as a source-backed explanatory alternate without displacing the current house practice of leaving the term untranslated. The OSF glossary uses present-moment awareness and mindfulness language for sati; the repository records awareness as a source-backed alternate while retaining the house practice of leaving the term untranslated.",
+  "untranslated_preferred": false,
+  "gloss_on_first_occurrence": "remembering",
+  "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and the capacity to return to what matters.",
+  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The P?li term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated P?li.",
   "context_rules": [
     {
-      "context": "In most translations within this project",
-      "rendering": "sati",
-      "notes": "Default project practice is to leave the term untranslated."
-    },
-    {
-      "context": "On first occurrence in a translation where a gloss is needed",
-      "rendering": "sati",
-      "notes": "Use the gloss 'sati (remembering with presence of mind)' on first occurrence."
-    },
-    {
-      "context": "In explanatory prose discussing function rather than preserving Pāli",
+      "context": "In most translations and practical OSF contexts",
       "rendering": "remembering",
-      "notes": "Use carefully in prose explanation rather than as the default translation in source passages."
+      "notes": "Default OSF house rendering."
+    },
+    {
+      "context": "In technical discussion where preserving the P?li term is more useful than translating it",
+      "rendering": "sati",
+      "notes": "Acceptable for source-facing or highly technical prose."
     },
     {
       "context": "In Punnaji-style pedagogical explanation of satipa??h?na and ?n?p?nasati",
       "rendering": "attention",
-      "notes": "Source-backed explanatory alternate, not the house default."
+      "notes": "Retained as a source-backed alternate in that pedagogical frame."
     },
     {
       "context": "In OSF-glossary style present-moment practice explanation",
       "rendering": "awareness",
-      "notes": "Source-backed explanatory alternate, not the house default."
+      "notes": "Retained as a source-backed alternate, but no longer the default."
     }
   ],
   "related_terms": [
@@ -67,14 +62,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "satiṃ upaṭṭhapetvā",
-      "translation": "having established sati",
-      "notes": "Project preference keeps sati untranslated in a source-facing translation.",
+      "pali": "sati? upa??hapetv?",
+      "translation": "having established remembering",
+      "notes": "OSF house rendering in source-facing explanation.",
       "source": "MN 10"
     },
     {
-      "pali": "satipaṭṭhāna",
-      "translation": "establishment of sati",
+      "pali": "satipa??h?na",
+      "translation": "establishment of remembering",
       "notes": "Useful for showing how the headword functions in compounds.",
       "source": "DN 22"
     }

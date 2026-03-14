@@ -4,33 +4,39 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "right composure",
-  "preferred_translation": "right composure",
+  "preferred_translation": "right unification of mind",
   "alternative_translations": [
+    "right composure",
     "right collectedness",
-    "harmonious equilibrium",
-    "harmonious mental equilibrium"
+    "right noble unification of mind",
+    "harmonious equilibrium"
   ],
   "discouraged_translations": [
     "right concentration"
   ],
   "untranslated_preferred": false,
-  "definition": "The path factor of samādhi properly aligned with the path, classically expressed through the jhānas.",
-  "notes": "This entry follows the project's preference for samādhi as composure, so the path factor becomes right composure rather than right concentration. Right collectedness is acceptable in explanatory prose when the gathered quality of mind needs emphasis. Ven. Dr. M. Punnaji uses harmonious equilibrium and harmonious mental equilibrium in his eightfold-way teaching materials; the repository records those as source-specific pedagogical alternates.",
+  "definition": "The path factor of samādhi rightly aligned with the path, classically expressed through the jhānas.",
+  "notes": "OSF house style now prefers right unification of mind based on the Dhammarato quotes draft, which consistently rejects right concentration and frames the factor as the proper unification of mind. Right noble unification of mind is retained for quote-book and heading-style usage.",
   "context_rules": [
     {
-      "context": "In path-factor and source-facing doctrinal contexts",
-      "rendering": "right composure",
-      "notes": "Default project rendering."
+      "context": "In most path-factor and practical OSF contexts",
+      "rendering": "right unification of mind",
+      "notes": "Default OSF house rendering."
     },
     {
-      "context": "In explanatory prose stressing the gathered quality of mind",
-      "rendering": "right collectedness",
+      "context": "In prose stressing steadiness or bearing more than integration",
+      "rendering": "right composure",
       "notes": "Acceptable alternate when it reads more naturally."
+    },
+    {
+      "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
+      "rendering": "right noble unification of mind",
+      "notes": "Source-backed heading style."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious equilibrium",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Retained as a named source-specific alternate."
     }
   ],
   "related_terms": [
@@ -43,8 +49,8 @@
   "example_phrases": [
     {
       "pali": "sammā-samādhi",
-      "translation": "right composure",
-      "notes": "Path-factor headword form."
+      "translation": "right unification of mind",
+      "notes": "OSF house-style path-factor form."
     },
     {
       "pali": "catunnaṃ jhānānaṃ",
