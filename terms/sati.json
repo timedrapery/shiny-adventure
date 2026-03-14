@@ -40,12 +40,14 @@
     {
       "pali": "satiṃ upaṭṭhapetvā",
       "translation": "having established sati",
-      "notes": "Project preference keeps sati untranslated in a source-facing translation."
+      "notes": "Project preference keeps sati untranslated in a source-facing translation.",
+      "source": "MN 10"
     },
     {
       "pali": "satipaṭṭhāna",
       "translation": "establishment of sati",
-      "notes": "Useful for showing how the headword functions in compounds."
+      "notes": "Useful for showing how the headword functions in compounds.",
+      "source": "DN 22"
     }
   ],
   "sutta_references": [

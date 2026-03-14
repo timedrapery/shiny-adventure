@@ -36,12 +36,14 @@
     {
       "pali": "paṭhamaṁ jhānaṁ",
       "translation": "the first theme",
-      "notes": "Reflects current project preference even though it differs from conventional renderings."
+      "notes": "Reflects current project preference even though it differs from conventional renderings.",
+      "source": "DN 2"
     },
     {
       "pali": "savitakkaṁ savicāraṁ",
       "translation": "with thinking and pondering",
-      "notes": "Closely associated with the first jhāna."
+      "notes": "Closely associated with the first jhāna.",
+      "source": "MN 119"
     }
   ],
   "sutta_references": [

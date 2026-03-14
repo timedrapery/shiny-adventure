@@ -33,11 +33,13 @@
   "example_phrases": [
     {
       "pali": "dukkha-nirodha",
-      "translation": "quenching of dissatisfaction"
+      "translation": "quenching of dissatisfaction",
+      "source": "SN 56.11"
     },
     {
       "pali": "taṇhānirodha",
-      "translation": "quenching of craving"
+      "translation": "quenching of craving",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [

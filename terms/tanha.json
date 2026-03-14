@@ -34,12 +34,14 @@
   "example_phrases": [
     {
       "pali": "taṇhāya jāyati soko",
-      "translation": "from craving arises sorrow"
+      "translation": "from craving arises sorrow",
+      "source": "Dhp 216"
     },
     {
       "pali": "kāmataṇhā",
       "translation": "craving for sensuality",
-      "notes": "Illustrates one common subtype."
+      "notes": "Illustrates one common subtype.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
