@@ -1,0 +1,13 @@
+{
+  "term": "samanantara-paccaya",
+  "normalized_term": "samanantara-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "contiguity condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "contiguity condition",
+  "tags": [
+    "causality"
+  ]
+}

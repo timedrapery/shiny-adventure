@@ -1,0 +1,13 @@
+{
+  "term": "vigata",
+  "normalized_term": "vigata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "disappearance",
+  "definition": "A causal or analytical category used in conditional analysis.",
+  "status": "reviewed",
+  "literal_meaning": "disappearance",
+  "tags": [
+    "causality"
+  ]
+}

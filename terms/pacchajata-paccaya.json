@@ -1,0 +1,13 @@
+{
+  "term": "pacchajata-paccaya",
+  "normalized_term": "pacchajata-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "post-arising condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "post-arising condition",
+  "tags": [
+    "causality"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "term": "hetu-paccaya",
+  "normalized_term": "hetu-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "root condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "root condition",
+  "tags": [
+    "causality"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "term": "kamma-paccaya",
+  "normalized_term": "kamma-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "action condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "action condition",
+  "tags": [
+    "causality"
+  ]
+}

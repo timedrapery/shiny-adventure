@@ -1,0 +1,13 @@
+{
+  "term": "sahajata-paccaya",
+  "normalized_term": "sahajata-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "co-nascence condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "co-nascence condition",
+  "tags": [
+    "causality"
+  ]
+}

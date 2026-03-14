@@ -1,0 +1,13 @@
+{
+  "term": "avigata",
+  "normalized_term": "avigata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "non-disappearance",
+  "definition": "A causal or analytical category used in conditional analysis.",
+  "status": "reviewed",
+  "literal_meaning": "non-disappearance",
+  "tags": [
+    "causality"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "term": "asevana-paccaya",
+  "normalized_term": "asevana-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "repetition condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "repetition condition",
+  "tags": [
+    "causality"
+  ]
+}

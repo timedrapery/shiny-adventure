@@ -1,0 +1,13 @@
+{
+  "term": "avigata-paccaya",
+  "normalized_term": "avigata-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "non-disappearance condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "non-disappearance condition",
+  "tags": [
+    "causality"
+  ]
+}

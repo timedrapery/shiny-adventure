@@ -1,0 +1,14 @@
+{
+  "term": "apo-dhatu",
+  "normalized_term": "apo-dhatu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "water element",
+  "definition": "An element term used in embodiment and analytical contemplation.",
+  "status": "reviewed",
+  "literal_meaning": "water element",
+  "tags": [
+    "embodiment",
+    "core-doctrine"
+  ]
+}

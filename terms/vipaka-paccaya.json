@@ -1,0 +1,13 @@
+{
+  "term": "vipaka-paccaya",
+  "normalized_term": "vipaka-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "result condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "result condition",
+  "tags": [
+    "causality"
+  ]
+}

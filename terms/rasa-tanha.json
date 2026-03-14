@@ -1,0 +1,14 @@
+{
+  "term": "rasa-tanha",
+  "normalized_term": "rasa-tanha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "craving for tastes",
+  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
+  "status": "reviewed",
+  "literal_meaning": "craving for tastes",
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ]
+}

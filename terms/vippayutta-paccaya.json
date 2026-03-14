@@ -1,0 +1,13 @@
+{
+  "term": "vippayutta-paccaya",
+  "normalized_term": "vippayutta-paccaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "dissociation condition",
+  "definition": "A specific conditional relation used in detailed causal analysis.",
+  "status": "reviewed",
+  "literal_meaning": "dissociation condition",
+  "tags": [
+    "causality"
+  ]
+}
