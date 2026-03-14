@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The higher training in mind within the threefold training, centered on collected development.",
-  "notes": "The project prefers higher mind because it is concise and avoids collapsing the term into viññāṇa-language. The longer phrase higher training in mind is acceptable when the training-framework needs to be explicit.",
+  "notes": "The project prefers higher mind because it is concise and avoids collapsing the term into viññāṇa-language. The longer phrase higher training in mind is acceptable when the training framework needs to be explicit. In practice this entry belongs with composure, collectedness, and development of the trainable mind rather than with abstract theories of consciousness.",
   "context_rules": [
     {
       "context": "In the threefold training framework",
@@ -24,11 +24,18 @@
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in mind",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage emphasizes collectedness, unification, or meditative development as the middle training",
+      "rendering": "higher mind",
+      "notes": "Keep the term tied to cultivation of citta rather than to a metaphysical faculty."
     }
   ],
   "related_terms": [
     "citta",
     "samadhi",
+    "sikkha",
+    "cetovimutti",
     "adhisila",
     "adhipanna"
   ],
@@ -37,13 +44,22 @@
       "pali": "adhicittasikkhā",
       "translation": "the higher training in mind",
       "notes": "Standard triadic formulation."
+    },
+    {
+      "pali": "cittaṃ bhāveti",
+      "translation": "one develops the mind",
+      "notes": "Useful supporting phrase for the practical force of the training.",
+      "source": "AN 4.41"
     }
   ],
   "sutta_references": [
-    "MN 44"
+    "MN 44",
+    "AN 4.41"
   ],
   "tags": [
-    "core-practice"
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
