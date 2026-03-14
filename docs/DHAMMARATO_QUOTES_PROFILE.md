@@ -40,7 +40,7 @@ normalized before editorial decisions are made.
 The draft strongly supports the following OSF house defaults:
 
 - `dukkha` -> `dissatisfaction`
-- `tanha` -> `wanting`
+- `tanha` -> `ignorant wanting`
 - `sati` -> `remembering`
 - `samma-sati` -> `right remembering`
 - `samadhi` -> `unification of mind`

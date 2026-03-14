@@ -161,7 +161,7 @@ Each term exists as an independent file, which allows:
 | Pali | Preferred Rendering |
 | --- | --- |
 | dukkha | dissatisfaction |
-| tanha | wanting |
+| tanha | ignorant wanting |
 | sati | remembering |
 | samadhi | unification of mind |
 | metta | friendliness |
