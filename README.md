@@ -66,12 +66,14 @@ The repo follows an explicit authority order documented in
 
 In practice this means:
 
-- Dhammarato is a primary authority for practical teaching tone, path language,
+- OSF house materials such as the OSF glossary and OSF books sit at the top of
+  the internal authority stack.
+- Dhammarato is the next authority for practical teaching tone, path language,
   meditation vocabulary, and contemporary phrasing.
-- Buddhadasa Bhikkhu is a primary authority for dependent arising, voidness,
+- Buddhadasa Bhikkhu is the next authority for dependent arising, voidness,
   not-self, conditionality, and here-now liberation framing.
-- Secondary profiles such as Punnaji and the OSF glossary remain useful, but do
-  not govern house defaults unless the repo explicitly adopts them.
+- Non-OSF materials such as Punnaji are outside sources and do not govern house
+  defaults unless the repo explicitly adopts them.
 
 ### Clarity
 

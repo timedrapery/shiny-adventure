@@ -13,8 +13,9 @@ from the following local source set by Ven. Dr. M. Punnaji Maha Thera:
 
 The point of this file is not to bind the repository to every source
 preference. It is to preserve provenance when source-backed alternate
-renderings are added to term entries. Within OSF editorial authority, this
-profile is secondary to Dhammarato and Buddhadasa.
+renderings are added to term entries. Within OSF editorial authority, this is
+an outside-source profile and therefore sits below OSF house materials,
+Dhammarato, and Buddhadasa.
 
 ## Editorial Rule
 

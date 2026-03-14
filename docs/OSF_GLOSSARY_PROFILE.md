@@ -19,9 +19,11 @@ house style:
 3. distinguish Buddhist lexical entries from conversational coaching labels
    that do not belong in `terms/`
 
-Within OSF editorial authority, this profile is secondary to Dhammarato and
-Buddhadasa and should normally support notes, alternates, or intake decisions
-rather than override established house defaults.
+Within OSF editorial authority, the OSF glossary sits at the same internal
+house-material level as named OSF books. It is therefore not an outside
+source. It may directly support house defaults, notes, alternates, and intake
+decisions, while Dhammarato and Buddhadasa remain the next lineage authorities
+under that OSF publication layer.
 
 ## Recurring Glossary Tendencies
 

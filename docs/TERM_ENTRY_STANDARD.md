@@ -169,7 +169,8 @@ rather than a flat glossary.
 
 # Source-Backed Alternates
 
-When revising an entry from a named secondary source or talker profile:
+When revising an entry from an outside-source profile or a lower-authority
+named source:
 
 - keep the current `preferred_translation` unless the project has explicitly
   decided to change house style
@@ -181,6 +182,10 @@ When revising an entry from a named secondary source or talker profile:
 
 This repository should not silently absorb strong interpretive systems without
 recording where they came from.
+
+The OSF glossary and named OSF books are not outside sources. They belong to
+the internal OSF house-material layer described in
+`docs/OSF_EDITORIAL_AUTHORITY.md`.
 
 For OSF authority order and cases where a source may directly change
 `preferred_translation`, also read `docs/OSF_EDITORIAL_AUTHORITY.md`.

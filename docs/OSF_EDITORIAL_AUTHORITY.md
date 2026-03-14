@@ -14,23 +14,33 @@ should behave like a governed editorial system.
 When sources disagree, use this order:
 
 1. OSF house style as explicitly recorded in this repository
-2. Dhammarato and Buddhadasa Bhikkhu together, where they clearly align
-3. Dhammarato, when he is the clearest guide for practical instruction,
-   meditation language, contemporary tone, and OSF teaching vocabulary
-4. Buddhadasa Bhikkhu, when he is the clearest guide for dependent arising,
-   voidness, not-self, natural-law framing, and here-now liberation language
-5. Named OSF publications adopted into the repository house style, including
-   *What Is And Is Not The Path*, when they clarify usage without overriding
-   canonical repo spellings
-6. Existing repository defaults that do not conflict with the above
-7. Secondary source profiles such as Punnaji, the OSF glossary, and other
-   local materials
+2. OSF house materials at the publication level, including the OSF glossary and
+   named OSF books such as *What Is And Is Not The Path*
+3. Dhammarato, as the primary living OSF lineage voice for practical
+   instruction, meditation language, contemporary tone, and OSF teaching
+   vocabulary
+4. Buddhadasa Bhikkhu, as the foundational lineage authority for dependent
+   arising, voidness, not-self, natural-law framing, and here-now liberation
+   language
+5. Existing repository defaults that do not conflict with the above
+6. Outside sources such as Punnaji and other non-OSF materials
 
-## Primary Authorities
+## Primary OSF Authorities
+
+### OSF House Materials
+
+The following sit at the same editorial level inside OSF house authority:
+
+- the OSF glossary
+- named OSF publications
+- explicit house-style decisions already recorded in this repository
+
+These are internal OSF sources, not outside-source profiles.
 
 ### Dhammarato
 
-Dhammarato is a primary OSF authority for:
+Dhammarato is a primary OSF authority immediately under OSF house materials
+and is especially authoritative for:
 
 - practical teaching tone
 - path language in contemporary English
@@ -40,7 +50,8 @@ Dhammarato is a primary OSF authority for:
 
 ### Buddhadasa Bhikkhu
 
-Buddhadasa Bhikkhu is a primary OSF authority for:
+Buddhadasa Bhikkhu is a primary OSF authority immediately under Dhammarato and
+is especially authoritative for:
 
 - dependent arising and conditionality
 - `idappaccayata`
@@ -49,16 +60,15 @@ Buddhadasa Bhikkhu is a primary OSF authority for:
 - `nibbana` as coolness and immediate relevance
 - ordinary versus supramundane teaching distinctions
 
-## Secondary Authorities
+## Outside Sources
 
-Secondary profiles can inform alternates, notes, and source-specific context
-rules, but they do not override OSF defaults unless the repository makes an
-explicit editorial decision.
+Outside-source profiles can inform alternates, notes, and source-specific
+context rules, but they do not override OSF defaults unless the repository
+makes an explicit editorial decision.
 
 Examples:
 
 - Punnaji
-- OSF glossary
 - Dhammarato chanting manual when the issue is broader doctrine rather than
   liturgical vocabulary
 
@@ -66,10 +76,12 @@ Examples:
 
 Change `preferred_translation` when:
 
-1. Dhammarato and Buddhadasa clearly align, or
-2. one of them is plainly primary for that domain and there is no stronger
-   conflict from the other, and
-3. the rendering is reusable across OSF translation and teaching contexts,
+1. an OSF house material clearly supports the rendering, or
+2. Dhammarato is plainly primary for that domain and there is no stronger
+   conflict from OSF house material, or
+3. Buddhadasa is plainly primary for that domain and there is no stronger
+   conflict from OSF house material or Dhammarato, and
+4. the rendering is reusable across OSF translation and teaching contexts,
    not just a one-off slogan or heading
 
 Otherwise:
@@ -80,7 +92,8 @@ Otherwise:
 
 ## Rule For Notes
 
-When a term is materially shaped by Dhammarato or Buddhadasa:
+When a term is materially shaped by OSF house material, Dhammarato, or
+Buddhadasa:
 
 - say so directly in `notes`
 - treat that source as primary guidance, not just background influence
@@ -91,10 +104,10 @@ When a term is materially shaped by Dhammarato or Buddhadasa:
 
 At the current stage of the project:
 
-- Dhammarato is setting the main practical house language
-- Buddhadasa is setting much of the doctrinal and dependent-arising frame
-- OSF publications such as *What Is And Is Not The Path* can refine term
-  definitions and usage while the repo keeps its own normalized spellings
+- OSF house materials such as the OSF glossary and OSF books sit at the top of
+  the internal authority stack
+- Dhammarato is the next practical lineage authority
+- Buddhadasa is the next doctrinal lineage authority
 - the repository should increasingly read like a coherent Dhammarato /
   Buddhadasa-line editorial system rather than a neutral aggregator of many
   Buddhist English vocabularies
