@@ -1,0 +1,57 @@
+{
+  "term": "jarāmaraṇa",
+  "normalized_term": "jaramarana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "aging-and-death",
+  "preferred_translation": "aging-and-death",
+  "alternative_translations": [
+    "old age and death"
+  ],
+  "discouraged_translations": [
+    "mortality"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Aging and death as the culminating suffering conditioned by birth in the dependent-arising sequence.",
+  "notes": "The project prefers aging-and-death because it preserves the compound structure and matches the rhythm of the standard sequence. Old age and death is acceptable when a more idiomatic English phrase is wanted in explanatory prose.",
+  "context_rules": [
+    {
+      "context": "In most dependent-origination contexts",
+      "rendering": "aging-and-death",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a more familiar English phrase helps",
+      "rendering": "old age and death",
+      "notes": "Acceptable alternate outside tightly patterned formula translation."
+    }
+  ],
+  "related_terms": [
+    "jāti",
+    "dukkha",
+    "bhava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jātipaccayā jarāmaraṇaṃ",
+      "translation": "with birth as condition, aging-and-death",
+      "notes": "Closing link of the standard sequence.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "sokaparidevadukkhadomanassupāyāsā sambhavanti",
+      "translation": "sorrow, lamentation, dissatisfaction, distress, and despair come to be",
+      "notes": "Standard expansion following aging-and-death in the formula.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}

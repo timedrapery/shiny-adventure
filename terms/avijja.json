@@ -1,0 +1,63 @@
+{
+  "term": "avijjā",
+  "normalized_term": "avijja",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "not-knowing",
+  "preferred_translation": "ignorance",
+  "alternative_translations": [
+    "not-knowing",
+    "unawareness"
+  ],
+  "discouraged_translations": [
+    "nescience"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Fundamental not-knowing that obscures the nature of experience and conditions the arising of suffering.",
+  "notes": "The project prefers ignorance as the default because it is readable and established, while the notes and context rules keep it from sounding like mere lack of information. Not-knowing can be useful when the active, ongoing failure to see clearly needs emphasis.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "ignorance",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the literal force of the term",
+      "rendering": "not-knowing",
+      "notes": "Useful when clarifying that the term is not only intellectual ignorance."
+    },
+    {
+      "context": "In prose stressing obscured awareness rather than simple absence of information",
+      "rendering": "unawareness",
+      "notes": "Acceptable alternate when it reads more naturally."
+    }
+  ],
+  "related_terms": [
+    "paṭiccasamuppāda",
+    "saṅkhārā",
+    "bodhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāpaccayā saṅkhārā",
+      "translation": "with ignorance as condition, choices",
+      "notes": "Opening link in the standard dependent-arising sequence.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "avijjāya tveva asesavirāganirodhā",
+      "translation": "but with the complete fading and quenching of ignorance",
+      "notes": "Shows the term in the cessation mode of the formula.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}
