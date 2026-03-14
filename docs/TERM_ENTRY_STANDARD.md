@@ -17,6 +17,17 @@ The dataset functions as:
 For that reason, **major terms must be rule-bearing entries rather than
 simple dictionary definitions.**
 
+The repository's live schema currently expresses these editorial ideas through
+the following field names:
+
+- preferred rendering -> `preferred_translation`
+- translation rule -> `context_rules`
+- usage notes -> `notes`
+- examples -> `example_phrases`
+
+Do not introduce a second parallel vocabulary such as
+`preferred_rendering` unless the schema itself is intentionally changed first.
+
 Use this document alongside:
 
 - `docs/DOCUMENTATION_GUIDE.md`
@@ -57,6 +68,7 @@ Major entries should normally include:
 -   `alternative_translations`
 -   `discouraged_translations`
 -   `context_rules`
+-   `notes`
 -   `related_terms`
 -   `example_phrases`
 
@@ -132,6 +144,9 @@ Every entry should include:
   `definition`              Short explanatory definition
   `status`                  Editorial status
 
+For major entries, these required fields are only the baseline. They do not by
+themselves make an entry rule-bearing.
+
 Example:
 
 ``` json
@@ -157,9 +172,9 @@ Major entries should normally include:
   `alternative_translations`   Acceptable alternate renderings
   `discouraged_translations`   Renderings to avoid
   `context_rules`              Translation changes by context
+  `notes`                      Editorial rationale and usage notes
   `related_terms`              Connected doctrinal vocabulary
   `example_phrases`            Canonical usage examples
-  `notes`                      Editorial notes
   `tags`                       Thematic classification
 
 These fields allow the dataset to function as a **translation engine**
@@ -218,6 +233,9 @@ Use context rules whenever:
 -   a term's rendering shifts by doctrinal setting
 -   literal translation would be misleading
 -   traditional translations are inconsistent
+
+Use `notes` alongside `context_rules` when the repository needs to explain why
+the default rendering was kept, changed, or left untranslated.
 
 ------------------------------------------------------------------------
 
