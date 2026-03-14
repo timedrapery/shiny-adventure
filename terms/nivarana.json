@@ -6,14 +6,15 @@
   "literal_meaning": "covering, obstruction",
   "preferred_translation": "distraction",
   "alternative_translations": [
-    "obstruction"
+    "obstruction",
+    "hindrances"
   ],
   "discouraged_translations": [
     "hindrance"
   ],
   "untranslated_preferred": false,
   "definition": "A distraction that covers over clarity and interferes with collected practice.",
-  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier. The term should be heard as a practical meditative diagnosis of what obscures clarity and composure.",
+  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier. The term should be heard as a practical meditative diagnosis of what obscures clarity and composure. The OSF glossary uses the more conventional hindrances for n?vara?a; the repository records that as a source-backed alternate while retaining distractions as the house default.",
   "context_rules": [
     {
       "context": "In most practical and meditative contexts",
@@ -29,6 +30,11 @@
       "context": "When the passage treats the fivefold set as a meditative framework of what must be abandoned",
       "rendering": "distraction",
       "notes": "Keep the practical family resemblance across the five members explicit."
+    },
+    {
+      "context": "In OSF-glossary style conventional Buddhist explanation",
+      "rendering": "hindrances",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

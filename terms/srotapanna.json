@@ -1,0 +1,25 @@
+{
+  "term": "srotāpanna",
+  "normalized_term": "srotapanna",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "stream-enterer",
+  "preferred_translation": "srotāpanna",
+  "alternative_translations": [
+    "stream-enterer"
+  ],
+  "discouraged_translations": [
+    "convert"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "srotāpanna (stream-enterer)",
+  "definition": "The Sanskrit form corresponding to sotāpanna, the first stage of noble attainment.",
+  "sutta_references": [
+    "SN 55.5"
+  ],
+  "tags": [
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

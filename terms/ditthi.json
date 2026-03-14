@@ -1,0 +1,24 @@
+{
+  "term": "diṭṭhi",
+  "normalized_term": "ditthi",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "view, opinion",
+  "preferred_translation": "view",
+  "alternative_translations": [
+    "opinion",
+    "belief"
+  ],
+  "discouraged_translations": [
+    "doctrine"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A view, opinion, or standpoint, often used in doctrinal contexts for right or wrong view.",
+  "sutta_references": [
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

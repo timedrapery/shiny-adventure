@@ -1,0 +1,24 @@
+{
+  "term": "samatha",
+  "normalized_term": "samatha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "calming, tranquility",
+  "preferred_translation": "tranquility",
+  "alternative_translations": [
+    "calming"
+  ],
+  "discouraged_translations": [
+    "suppression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Calming or tranquility, especially as a mode of meditation development paired with insight.",
+  "sutta_references": [
+    "SN 35.204"
+  ],
+  "tags": [
+    "meditative-development",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

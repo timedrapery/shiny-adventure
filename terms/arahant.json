@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "arahant (worthy one)",
   "definition": "A fully liberated person, classically marked by the wearing away of the outflows and complete release.",
-  "notes": "The project leaves arahant untranslated by default because the term functions as a precise doctrinal category and English saint brings in the wrong religious baggage. Worthy one can be used as a gloss in explanatory prose, but it should not replace the Pāli label in most source-facing work. This entry should be read as the completion point of training and the mature person-category most tightly linked to release, ending of outflows, and beyond-training status.",
+  "notes": "The project leaves arahant untranslated by default because the term functions as a precise doctrinal category and English saint brings in the wrong religious baggage. Worthy one can be used as a gloss in explanatory prose, but it should not replace the Pāli label in most source-facing work. This entry should be read as the completion point of training and the mature person-category most tightly linked to release, ending of outflows, and beyond-training status. The OSF glossary also frames the arahant as a fully cooled-down person, which the repository treats as source-backed explanatory prose rather than a new default rendering.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",

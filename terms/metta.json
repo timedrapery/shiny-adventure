@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A deliberate disposition of goodwill and non-hostility toward oneself and others.",
-  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English. The term should be heard as a deliberate cultivated stance of non-hostility, not as sentimentality or mere niceness.",
+  "notes": "The project prefers goodwill because it is contemporary, direct, and avoids the sentimental overtones that love or even loving-kindness can carry in some settings. Friendliness works in lighter prose, while loving-kindness remains a recognizable alternate for readers coming from standard Buddhist English. The term should be heard as a deliberate cultivated stance of non-hostility, not as sentimentality or mere niceness. The OSF glossary strongly favors friendliness and loving-kindness language for mett?; the repository records friendliness as a reinforced source-backed alternate while keeping goodwill as the default.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -35,6 +35,11 @@
       "context": "When the passage emphasizes the brahmavihāra as an intentional cultivation opposed to hostility",
       "rendering": "goodwill",
       "notes": "Keep the practical, cultivated quality prominent."
+    },
+    {
+      "context": "In OSF-glossary style explanation of mett? as a friendly mental attitude",
+      "rendering": "friendliness",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

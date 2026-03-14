@@ -1,0 +1,26 @@
+{
+  "term": "māra",
+  "normalized_term": "mara",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "the killer, death-bringer",
+  "preferred_translation": "Māra",
+  "alternative_translations": [
+    "the tempter",
+    "death"
+  ],
+  "discouraged_translations": [
+    "devil"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "Māra (the tempter; death-bringer)",
+  "definition": "The figure or force of death, temptation, and obstruction in Buddhist texts.",
+  "sutta_references": [
+    "SN 4.3"
+  ],
+  "tags": [
+    "persons",
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

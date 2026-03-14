@@ -10,14 +10,16 @@
     "fabrications",
     "constructed things",
     "activities",
-    "constructs"
+    "constructs",
+    "mental formations",
+    "conditioned phenomena"
   ],
   "discouraged_translations": [
     "volitional formations"
   ],
   "untranslated_preferred": false,
   "definition": "Constructed activities or conditioned formations; in paṭiccasamuppāda contexts this project prefers choices.",
-  "notes": "Project preference is intentionally context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices because the sequence points to conditioned, consequential activity rather than a flat inventory of things. In broader contexts, especially formulaic or doctrinal ones, constructed things or formations may be more accurate depending on what is being described. Ven. Dr. M. Punnaji often explains sa?kh?r? as activities or constructs in broader existential reflection; the repository records those as source-backed alternates while retaining its current context-sensitive house treatment.",
+  "notes": "Project preference is intentionally context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices because the sequence points to conditioned, consequential activity rather than a flat inventory of things. In broader contexts, especially formulaic or doctrinal ones, constructed things or formations may be more accurate depending on what is being described. Ven. Dr. M. Punnaji often explains sa?kh?r? as activities or constructs in broader existential reflection; the repository records those as source-backed alternates while retaining its current context-sensitive house treatment. The OSF glossary repeatedly explains sa?kh?ra in mental-formation and conditioned-phenomena language; the repository records those as source-backed alternates while keeping its current context-sensitive treatment.",
   "context_rules": [
     {
       "context": "In paṭiccasamuppāda sequences",
@@ -38,6 +40,11 @@
       "context": "In Punnaji-style existential reflection on unstable conditioned process",
       "rendering": "activities",
       "notes": "Source-backed alternate, especially where the term points to ongoing conditioned doing rather than a static inventory."
+    },
+    {
+      "context": "In OSF-glossary style explanatory prose about conditioned or remembered mental patterning",
+      "rendering": "mental formations",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

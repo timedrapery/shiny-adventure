@@ -1,0 +1,26 @@
+{
+  "term": "dharma",
+  "normalized_term": "dharma",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "teaching, principle, phenomenon",
+  "preferred_translation": "dharma",
+  "alternative_translations": [
+    "teaching",
+    "phenomenon"
+  ],
+  "discouraged_translations": [
+    "religion"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "dharma (teaching; phenomenon)",
+  "definition": "The Sanskrit cognate of dhamma, used in Buddhist traditions for teaching, lawfulness, or phenomena depending on context.",
+  "sutta_references": [
+    "SN 12.20"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

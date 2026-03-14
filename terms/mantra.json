@@ -1,0 +1,22 @@
+{
+  "term": "mantra",
+  "normalized_term": "mantra",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "utterance, instrument of thought",
+  "preferred_translation": "mantra",
+  "alternative_translations": [
+    "sacred utterance"
+  ],
+  "discouraged_translations": [
+    "spell"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "mantra (sacred utterance)",
+  "definition": "A formulaic sacred utterance, especially in later Buddhist traditions.",
+  "sutta_references": [],
+  "tags": [
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,24 @@
+{
+  "term": "vimutti-ñāṇadassana",
+  "normalized_term": "vimutti-nanadassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "knowledge and vision of release",
+  "preferred_translation": "knowledge and vision of release",
+  "alternative_translations": [
+    "knowledge-and-vision of liberation"
+  ],
+  "discouraged_translations": [
+    "mystical experience"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Knowledge and vision that release has occurred; a standard attainment expression in the awakening sequence.",
+  "sutta_references": [
+    "MN 39"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

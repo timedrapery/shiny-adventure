@@ -1,0 +1,25 @@
+{
+  "term": "śūnyatā",
+  "normalized_term": "sunyata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "emptiness",
+  "preferred_translation": "śūnyatā",
+  "alternative_translations": [
+    "emptiness"
+  ],
+  "discouraged_translations": [
+    "nothingness"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "śūnyatā (emptiness)",
+  "definition": "The Sanskrit form of suññatā, used for emptiness or voidness in Buddhist doctrinal contexts.",
+  "sutta_references": [
+    "MN 121"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

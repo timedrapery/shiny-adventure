@@ -1,0 +1,25 @@
+{
+  "term": "bhante",
+  "normalized_term": "bhante",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "venerable sir",
+  "preferred_translation": "bhante",
+  "alternative_translations": [
+    "venerable sir"
+  ],
+  "discouraged_translations": [
+    "monk"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "bhante (venerable sir)",
+  "definition": "A respectful form of address for a Buddhist monastic, especially a senior bhikkhu.",
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

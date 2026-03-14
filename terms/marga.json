@@ -1,0 +1,26 @@
+{
+  "term": "mārga",
+  "normalized_term": "marga",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "path, way",
+  "preferred_translation": "mārga",
+  "alternative_translations": [
+    "path",
+    "way"
+  ],
+  "discouraged_translations": [
+    "roadmap"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "mārga (path; way)",
+  "definition": "The Sanskrit cognate of magga, used for path or way in doctrinal contexts.",
+  "sutta_references": [
+    "MN 141"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

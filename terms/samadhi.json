@@ -8,7 +8,8 @@
   "alternative_translations": [
     "collectedness",
     "mental equilibrium",
-    "stillness of mind"
+    "stillness of mind",
+    "unification of mind"
   ],
   "discouraged_translations": [
     "concentration",
@@ -16,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state of mental composure in which the mind is steady and well coordinated.",
-  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration. Ven. Dr. M. Punnaji often uses mental equilibrium and stillness of mind in meditative and path-factor exposition; the repository records those as source-backed alternates while retaining composure as the house default.",
+  "notes": "Composure reflects steadiness and collectedness without implying forced concentration. This choice now extends into related compounds such as sammā-samādhi, where the project likewise prefers right composure over right concentration. Ven. Dr. M. Punnaji often uses mental equilibrium and stillness of mind in meditative and path-factor exposition; the repository records those as source-backed alternates while retaining composure as the house default. The OSF glossary explains sam?dhi as unification of mind and composure; the repository records unification of mind as a source-backed explanatory alternate while keeping composure as the default.",
   "context_rules": [
     {
       "context": "In most project translations",
@@ -31,6 +32,11 @@
     {
       "context": "In Punnaji-style pedagogical meditation prose emphasizing calm balance of mind",
       "rendering": "mental equilibrium",
+      "notes": "Source-backed alternate, not the house default."
+    },
+    {
+      "context": "In OSF-glossary style plain-English explanation of settled collected mind",
+      "rendering": "unification of mind",
       "notes": "Source-backed alternate, not the house default."
     }
   ],

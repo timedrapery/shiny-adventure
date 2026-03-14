@@ -1,0 +1,24 @@
+{
+  "term": "dāna",
+  "normalized_term": "dana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "giving, generosity",
+  "preferred_translation": "generosity",
+  "alternative_translations": [
+    "giving"
+  ],
+  "discouraged_translations": [
+    "charity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Giving or generosity as a basic wholesome practice and support for spiritual development.",
+  "sutta_references": [
+    "AN 7.49"
+  ],
+  "tags": [
+    "ethics",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

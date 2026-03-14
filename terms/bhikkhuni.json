@@ -1,0 +1,26 @@
+{
+  "term": "bhikkhunī",
+  "normalized_term": "bhikkhuni",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "female alms mendicant",
+  "preferred_translation": "bhikkhunī",
+  "alternative_translations": [
+    "nun",
+    "female mendicant"
+  ],
+  "discouraged_translations": [
+    "female monk"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "bhikkhunī (ordained female mendicant)",
+  "definition": "An ordained female mendicant in the Buddhist monastic community.",
+  "sutta_references": [
+    "AN 8.51"
+  ],
+  "tags": [
+    "persons",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

@@ -8,12 +8,14 @@
   "alternative_translations": [
     "ending",
     "cessation",
-    "discontinuity"
+    "discontinuity",
+    "to stop",
+    "to cease"
   ],
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "Project preference is quenching rather than cessation, reflecting the sense of extinguishing a fire or bringing a process to stillness. Ven. Dr. M. Punnaji sometimes uses discontinuity or ending in meditative and awakening contexts; the repository records discontinuity as a source-backed alternate while retaining quenching as the house default.",
+  "notes": "Project preference is quenching rather than cessation, reflecting the sense of extinguishing a fire or bringing a process to stillness. Ven. Dr. M. Punnaji sometimes uses discontinuity or ending in meditative and awakening contexts; the repository records discontinuity as a source-backed alternate while retaining quenching as the house default. The OSF glossary glosses nirodha as to stop, to cease, or ending of; the repository records stop and cease as source-backed plain-English alternates while keeping quenching as the house default.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -29,6 +31,11 @@
       "context": "In Punnaji-style meditative explanation of interruption of the existential process",
       "rendering": "discontinuity",
       "notes": "Source-backed alternate, not the house default."
+    },
+    {
+      "context": "In OSF-glossary style plain-English explanation of the term",
+      "rendering": "ending",
+      "notes": "Source-backed explanatory alternate alongside stop and cease."
     }
   ],
   "related_terms": [

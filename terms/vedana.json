@@ -6,14 +6,15 @@
   "literal_meaning": "feeling, felt tone",
   "preferred_translation": "feeling",
   "alternative_translations": [
-    "felt tone"
+    "felt tone",
+    "sensation"
   ],
   "discouraged_translations": [
     "emotion"
   ],
   "untranslated_preferred": false,
   "definition": "The felt quality of experience as pleasant, painful, or neutral.",
-  "notes": "Feeling is the clearest default for the project, provided it is understood as felt tone rather than emotion. Felt tone can be useful in explanatory prose when modern readers are likely to confuse vedanā with mood or sentiment. The term should be heard as an immediate affective tone in experience and as a crucial turning point in the dependent-origination sequence, not as a fully elaborated emotional state. Ven. Dr. M. Punnaji's meditation explanations reinforce vedan? as feeling rather than emotion, especially where bodily pleasant and unpleasant tones are being observed directly.",
+  "notes": "Feeling is the clearest default for the project, provided it is understood as felt tone rather than emotion. Felt tone can be useful in explanatory prose when modern readers are likely to confuse vedanā with mood or sentiment. The term should be heard as an immediate affective tone in experience and as a crucial turning point in the dependent-origination sequence, not as a fully elaborated emotional state. Ven. Dr. M. Punnaji's meditation explanations reinforce vedan? as feeling rather than emotion, especially where bodily pleasant and unpleasant tones are being observed directly. The OSF glossary uses sensation alongside feeling for vedan?; the repository records sensation as a source-backed alternate while retaining feeling as the default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -29,6 +30,11 @@
       "context": "When the passage emphasizes the link between contact and craving in the dependent-origination chain",
       "rendering": "feeling",
       "notes": "Keep the term simple and immediate rather than psychologizing it."
+    },
+    {
+      "context": "In OSF-glossary style explanation of felt experience from contact",
+      "rendering": "sensation",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

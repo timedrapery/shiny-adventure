@@ -1,0 +1,26 @@
+{
+  "term": "saṃsāra",
+  "normalized_term": "samsara",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "wandering on",
+  "preferred_translation": "saṃsāra",
+  "alternative_translations": [
+    "round of rebirth",
+    "wandering on"
+  ],
+  "discouraged_translations": [
+    "life cycle"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "saṃsāra (the round of rebirth)",
+  "definition": "The beginningless wandering-on of conditioned existence and rebirth.",
+  "sutta_references": [
+    "SN 15.1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}
