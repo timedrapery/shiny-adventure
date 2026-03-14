@@ -284,6 +284,22 @@ enforcement layer** for translation tools.
 
 ------------------------------------------------------------------------
 
+# Development Setup
+
+For local validation and test runs:
+
+```bash
+python -m venv .venv
+. .venv/bin/activate
+python -m pip install -r requirements-dev.txt
+python scripts/run_checks.py
+```
+
+On Windows PowerShell, use `.venv\Scripts\Activate.ps1` to activate the
+environment.
+
+------------------------------------------------------------------------
+
 # Example Use With AI Translation
 
 The lexicon can be used to guide language models by:
