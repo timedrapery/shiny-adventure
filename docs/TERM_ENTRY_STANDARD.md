@@ -19,7 +19,7 @@ simple dictionary definitions.**
 
 Use this document alongside:
 
-- `docs/README.md`
+- `docs/DOCUMENTATION_GUIDE.md`
 - `docs/DATA_DICTIONARY.md`
 - `docs/TAG_STATUS_VOCABULARY.md`
 - `STYLE_GUIDE.md`

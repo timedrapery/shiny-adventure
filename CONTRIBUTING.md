@@ -19,7 +19,7 @@ will involve one or more of these areas:
 If this is your first change, a good starting flow is:
 
 1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
-2. Use [`docs/README.md`](docs/README.md) for the recommended documentation path.
+2. Use [`docs/DOCUMENTATION_GUIDE.md`](docs/DOCUMENTATION_GUIDE.md) for the recommended documentation path.
 3. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md).
 4. Read [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md) before adding tags or setting an entry status.
 5. Review one or two existing entries in [`terms/`](terms).
