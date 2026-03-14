@@ -42,6 +42,13 @@ python scripts/audit_term_coverage.py
 
 If validation passes locally, you are aligned with the same check run by GitHub Actions.
 
+## UTF-8 Safety
+
+Pali headwords and glosses must stay UTF-8 clean. If you are adding entries in
+bulk, do not rely on shell redirection or terminal copy/paste to write JSON on
+Windows, because a non-UTF-8 console can silently replace diacritics with `?`.
+Use `scripts/write_term_batch.py` or a UTF-8-aware editor instead.
+
 ## Project Goals
 
 - Create a standardized JSON format for Pali term records
@@ -140,6 +147,16 @@ warnings to fail the run. It also fails on suspicious `?` placeholder text in
 key textual fields so encoding corruption is caught before merge. The coverage audit script reports partial doctrinal
 families and ranked missing-term candidates so new content batches can be
 chosen more deliberately.
+
+For bulk writes, prefer:
+
+```bash
+python scripts/write_term_batch.py path/to/batch.json
+```
+
+The batch file should be a JSON array of term records. The script writes files
+with explicit UTF-8 encoding and refuses to write likely corrupted `?`
+placeholder text in critical fields.
 
 ## Contributing
 

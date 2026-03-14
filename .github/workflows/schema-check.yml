@@ -24,6 +24,10 @@ jobs:
           python -m pip install --upgrade pip
           pip install jsonschema
 
+      - name: Run regression tests
+        run: |
+          python -m unittest discover -s tests
+
       - name: Validate term files against schema
         run: |
           python scripts/validate_terms.py
