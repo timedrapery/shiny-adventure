@@ -1,0 +1,59 @@
+{
+  "term": "dhammavicaya",
+  "normalized_term": "dhammavicaya",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "discernment of dhammas or qualities",
+  "preferred_translation": "discernment of qualities",
+  "alternative_translations": [
+    "investigation of qualities"
+  ],
+  "discouraged_translations": [
+    "analysis of doctrine"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The careful discerning or investigation of qualities and patterns in experience.",
+  "notes": "The project prefers discernment of qualities because it stays readable while keeping the term practical rather than purely scholastic. Investigation of qualities remains acceptable when a more active analytic movement is in view.",
+  "context_rules": [
+    {
+      "context": "In the awakening-factor framework and practical analysis of experience",
+      "rendering": "discernment of qualities",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing active inquiry",
+      "rendering": "investigation of qualities",
+      "notes": "Acceptable alternate when the line needs more overt motion."
+    }
+  ],
+  "related_terms": [
+    "bojjhaṅga",
+    "paññā",
+    "yoniso manasikāra",
+    "sati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhammavicayasambojjhaṅga",
+      "translation": "the discernment-of-qualities awakening factor",
+      "notes": "Primary doctrinal setting for the term.",
+      "source": "SN 46.1"
+    },
+    {
+      "pali": "yoniso manasikāra",
+      "translation": "wise attention",
+      "notes": "Closely linked practical support for this quality.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "SN 46.1",
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

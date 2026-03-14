@@ -1,0 +1,60 @@
+{
+  "term": "satipaṭṭhāna",
+  "normalized_term": "satipatthana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "establishment of sati",
+  "preferred_translation": "establishment of sati",
+  "alternative_translations": [
+    "establishing sati"
+  ],
+  "discouraged_translations": [
+    "foundation of mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The establishing of sati in a structured field of practice such as body, feeling, mind, or qualities.",
+  "notes": "The project prefers establishment of sati because it preserves the house decision to leave sati untranslated while keeping the practical force of the compound clear. Foundation of mindfulness is discouraged because it reimports a rendering the project is already avoiding in the head term.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practice contexts",
+      "rendering": "establishment of sati",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing the active practice of bringing sati into place",
+      "rendering": "establishing sati",
+      "notes": "Acceptable alternate when the verbal movement matters more."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "sammā-sati",
+    "kāyagatā sati",
+    "ānāpānasati",
+    "vedanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāro satipaṭṭhānā",
+      "translation": "the four establishments of sati",
+      "notes": "Main collective expression for the framework.",
+      "source": "DN 22"
+    },
+    {
+      "pali": "satipaṭṭhāna",
+      "translation": "establishment of sati",
+      "notes": "Headword form as used in the main discourse title.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "DN 22",
+    "MN 10"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

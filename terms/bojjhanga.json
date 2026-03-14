@@ -1,0 +1,62 @@
+{
+  "term": "bojjhaṅga",
+  "normalized_term": "bojjhanga",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "awakening factor",
+  "preferred_translation": "awakening factor",
+  "alternative_translations": [
+    "factor of awakening"
+  ],
+  "discouraged_translations": [
+    "enlightenment factor"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A factor that supports and matures awakening.",
+  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "awakening factor",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the English line benefits from a smoother noun phrase",
+      "rendering": "factor of awakening",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "bodhi",
+    "sati",
+    "dhammavicaya",
+    "viriya",
+    "pīti",
+    "passaddhi",
+    "samādhi",
+    "upekkhā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "satta bojjhaṅgā",
+      "translation": "the seven awakening factors",
+      "notes": "Main collective expression for the group.",
+      "source": "SN 46.1"
+    },
+    {
+      "pali": "bojjhaṅgabhāvanā",
+      "translation": "development of the awakening factors",
+      "notes": "Useful compound showing practical cultivation.",
+      "source": "SN 46.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 46.1"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

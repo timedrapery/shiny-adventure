@@ -1,0 +1,67 @@
+{
+  "term": "viriya",
+  "normalized_term": "viriya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "energy, vigor",
+  "preferred_translation": "energy",
+  "alternative_translations": [
+    "vigor",
+    "persistence"
+  ],
+  "discouraged_translations": [
+    "effort"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Energetic persistence applied to practice and the development of wholesome qualities.",
+  "notes": "The project prefers energy for viriya so it remains distinct from sammā-vāyāma, which is already rendered right effort. Vigor and persistence remain acceptable when a passage leans more toward forcefulness or steadiness than sheer energetic application.",
+  "context_rules": [
+    {
+      "context": "In most practical and awakening-factor contexts",
+      "rendering": "energy",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing robust force or strength of application",
+      "rendering": "vigor",
+      "notes": "Acceptable alternate when the line wants more intensity."
+    },
+    {
+      "context": "In prose emphasizing sustained steadiness over time",
+      "rendering": "persistence",
+      "notes": "Use when the durational aspect matters most."
+    }
+  ],
+  "related_terms": [
+    "sammā-vāyāma",
+    "appamāda",
+    "bojjhaṅga",
+    "saddhā",
+    "indriya",
+    "bala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āraddhavīriyo",
+      "translation": "with energy aroused",
+      "notes": "Frequent practical expression of active application.",
+      "source": "MN 39"
+    },
+    {
+      "pali": "viriyasambojjhaṅga",
+      "translation": "the energy awakening factor",
+      "notes": "Shows the term in the awakening-factor framework.",
+      "source": "SN 46.1"
+    }
+  ],
+  "sutta_references": [
+    "MN 39",
+    "SN 46.1"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

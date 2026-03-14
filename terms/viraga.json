@@ -1,0 +1,59 @@
+{
+  "term": "virāga",
+  "normalized_term": "viraga",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "fading, dispassion",
+  "preferred_translation": "fading",
+  "alternative_translations": [
+    "dispassion"
+  ],
+  "discouraged_translations": [
+    "detachment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The fading away of attraction, investment, and heat in relation to conditioned experience.",
+  "notes": "The project prefers fading because it is concrete and process-oriented. Dispassion remains acceptable where the cooling of passion is the emphasis, but detachment is discouraged because it too easily suggests numb distance or social withdrawal.",
+  "context_rules": [
+    {
+      "context": "In cessation and release formulas",
+      "rendering": "fading",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing cooling or the ending of passion",
+      "rendering": "dispassion",
+      "notes": "Acceptable alternate when it fits the line better."
+    }
+  ],
+  "related_terms": [
+    "nirodha",
+    "nibbāna",
+    "taṇhā",
+    "avijjā",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asesavirāganirodhā",
+      "translation": "through complete fading and quenching",
+      "notes": "Frequently recurring cessation formula.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "virāgaṃ vimuccati",
+      "translation": "through fading one is released",
+      "notes": "Shows the term in close connection with release.",
+      "source": "MN 149"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2",
+    "MN 149"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

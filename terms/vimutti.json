@@ -1,0 +1,60 @@
+{
+  "term": "vimutti",
+  "normalized_term": "vimutti",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "release, liberation",
+  "preferred_translation": "release",
+  "alternative_translations": [
+    "liberation"
+  ],
+  "discouraged_translations": [
+    "salvation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Release from the compulsions of greed, aversion, and delusion.",
+  "notes": "The project prefers release because it is plain contemporary English and keeps the term dynamic rather than monumental. Liberation remains acceptable in explanatory prose, but salvation is far too churchy for the project’s translation voice.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practice contexts",
+      "rendering": "release",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose or comparative discussion where conventional terminology is useful",
+      "rendering": "liberation",
+      "notes": "Acceptable alternate when the line benefits from it."
+    }
+  ],
+  "related_terms": [
+    "nibbāna",
+    "nirodha",
+    "virāga",
+    "paññā",
+    "bodhi",
+    "amata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cetovimutti",
+      "translation": "release of mind",
+      "notes": "Important doctrinal compound family.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "paññāvimutti",
+      "translation": "release through discernment",
+      "notes": "Important doctrinal compound family.",
+      "source": "MN 70"
+    }
+  ],
+  "sutta_references": [
+    "MN 43",
+    "MN 70"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

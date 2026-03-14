@@ -1,0 +1,57 @@
+{
+  "term": "anukampā",
+  "normalized_term": "anukampa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "sympathy, compassionate concern",
+  "preferred_translation": "sympathy",
+  "alternative_translations": [
+    "compassionate concern"
+  ],
+  "discouraged_translations": [
+    "pity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Sympathetic concern that responds to another's condition with humane care.",
+  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Compassionate concern remains acceptable when explanatory prose needs a fuller phrase.",
+  "context_rules": [
+    {
+      "context": "In most practical and narrative contexts",
+      "rendering": "sympathy",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the responsive and caring dimension needs more emphasis",
+      "rendering": "compassionate concern",
+      "notes": "Acceptable alternate when sympathy sounds too brief."
+    }
+  ],
+  "related_terms": [
+    "karuṇā",
+    "mettā",
+    "adosa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anukampaṃ upādāya",
+      "translation": "out of sympathy",
+      "notes": "Compact source-facing usage.",
+      "source": "MN 122"
+    },
+    {
+      "pali": "lokānukampāya",
+      "translation": "for sympathy toward the world",
+      "notes": "Shows the term in a broad compassionate register.",
+      "source": "MN 26"
+    }
+  ],
+  "sutta_references": [
+    "MN 26",
+    "MN 122"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

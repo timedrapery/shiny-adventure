@@ -1,0 +1,64 @@
+{
+  "term": "saddhā",
+  "normalized_term": "saddha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "confidence, trust",
+  "preferred_translation": "confidence",
+  "alternative_translations": [
+    "trust",
+    "faith"
+  ],
+  "discouraged_translations": [
+    "belief"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Confidence in the path and its possibility, supporting practice and discernment.",
+  "notes": "The project prefers confidence because it reads plainly and avoids the heavier religious freight of faith. Trust remains acceptable where the relational aspect is clearer, while faith is kept only as a familiar alternate rather than the house default.",
+  "context_rules": [
+    {
+      "context": "In most practical and doctrinal contexts",
+      "rendering": "confidence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing reliance or trust in a teacher or path",
+      "rendering": "trust",
+      "notes": "Acceptable alternate when that relational tone is central."
+    },
+    {
+      "context": "In comparative prose engaging conventional Buddhist terminology",
+      "rendering": "faith",
+      "notes": "Use sparingly because it carries more religious overtones."
+    }
+  ],
+  "related_terms": [
+    "paññā",
+    "viriya",
+    "indriya",
+    "bala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saddhindriya",
+      "translation": "the confidence faculty",
+      "notes": "Shows the term in the faculties framework.",
+      "source": "SN 48.10"
+    },
+    {
+      "pali": "saddhābala",
+      "translation": "the confidence strength",
+      "notes": "Shows the term in the strengths framework.",
+      "source": "SN 50.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 48.10",
+    "SN 50.1"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}
