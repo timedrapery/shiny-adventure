@@ -1,0 +1,67 @@
+{
+  "term": "paññā",
+  "normalized_term": "panna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "discernment, understanding",
+  "preferred_translation": "discernment",
+  "alternative_translations": [
+    "understanding",
+    "wisdom"
+  ],
+  "discouraged_translations": [
+    "intelligence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Discernment that sees the character of experience clearly and supports release.",
+  "notes": "The project prefers discernment because it is more active and practically oriented than wisdom, which can sound honorary or abstract. Understanding remains acceptable in explanatory prose, while wisdom is reserved as a familiar alternate rather than the default.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "discernment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing comprehension rather than sharp discrimination",
+      "rendering": "understanding",
+      "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In prose engaging conventional Buddhist terminology",
+      "rendering": "wisdom",
+      "notes": "Use selectively for reader orientation."
+    }
+  ],
+  "related_terms": [
+    "sammā-diṭṭhi",
+    "bodhi",
+    "dhammavicaya",
+    "saddhā",
+    "vimutti",
+    "indriya",
+    "bala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paññāya passati",
+      "translation": "one sees with discernment",
+      "notes": "Shows the term in active practical use.",
+      "source": "SN 12.23"
+    },
+    {
+      "pali": "paññāvimutti",
+      "translation": "release through discernment",
+      "notes": "Important doctrinal compound.",
+      "source": "MN 70"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.23",
+    "MN 70"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

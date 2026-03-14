@@ -1,0 +1,64 @@
+{
+  "term": "sukha",
+  "normalized_term": "sukha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "ease, comfort, satisfaction",
+  "preferred_translation": "satisfaction",
+  "alternative_translations": [
+    "ease",
+    "wellbeing"
+  ],
+  "discouraged_translations": [
+    "happiness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A satisfying or easeful quality of experience, often contrasted with dissatisfaction.",
+  "notes": "Project preference is satisfaction in doctrinal and analytical contexts because it keeps the term paired naturally with dissatisfaction while avoiding the emotional vagueness of happiness. In adjectival or source-facing contexts, satisfying may be the better English form, and ease remains acceptable when the line calls for something lighter or more idiomatic.",
+  "context_rules": [
+    {
+      "context": "In doctrinal and analytical contexts where the term names a quality or state",
+      "rendering": "satisfaction",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In adjectival or descriptive contexts modifying experience or a state",
+      "rendering": "satisfying",
+      "notes": "Use when English needs the adjectival force rather than an abstract noun."
+    },
+    {
+      "context": "In idiomatic source-facing lines where a lighter English phrase is needed",
+      "rendering": "ease",
+      "notes": "Acceptable alternate when satisfaction sounds too heavy or abstract."
+    }
+  ],
+  "related_terms": [
+    "dukkha",
+    "vedanā",
+    "pīti",
+    "nibbāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vivekajaṃ pītisukhaṃ",
+      "translation": "delight and satisfaction born of seclusion",
+      "notes": "Shows the term paired with pīti in a meditative context.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "nibbānaṃ paramaṃ sukhaṃ",
+      "translation": "nibbāna is the highest satisfaction",
+      "notes": "Shows the term in a compressed evaluative formula.",
+      "source": "Dhp 203"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "Dhp 203"
+  ],
+  "tags": [
+    "core-doctrine",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

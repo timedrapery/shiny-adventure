@@ -1,0 +1,59 @@
+{
+  "term": "bala",
+  "normalized_term": "bala",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "strength, power",
+  "preferred_translation": "strength",
+  "alternative_translations": [
+    "power"
+  ],
+  "discouraged_translations": [
+    "force"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A strength that stabilizes and supports practice so it does not easily collapse.",
+  "notes": "The project prefers strength because it stays readable and avoids the inflated tone that power can take on in religious or mystical contexts. Power remains acceptable in explanatory prose when the doctrinal pairing with faculties is being discussed as a familiar framework.",
+  "context_rules": [
+    {
+      "context": "In the five strengths and related doctrinal frameworks",
+      "rendering": "strength",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose comparing the term with indriya as an established framework",
+      "rendering": "power",
+      "notes": "Acceptable alternate when conventional terminology helps orient the reader."
+    }
+  ],
+  "related_terms": [
+    "indriya",
+    "saddhā",
+    "viriya",
+    "sati",
+    "samādhi",
+    "paññā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañca balāni",
+      "translation": "the five strengths",
+      "notes": "Main collective expression for the framework.",
+      "source": "SN 50.1"
+    },
+    {
+      "pali": "saddhābala",
+      "translation": "the confidence strength",
+      "notes": "Shows the term in compound use.",
+      "source": "SN 50.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 50.1"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

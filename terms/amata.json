@@ -1,0 +1,58 @@
+{
+  "term": "amata",
+  "normalized_term": "amata",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "deathless, death-free",
+  "preferred_translation": "deathless",
+  "alternative_translations": [
+    "death-free"
+  ],
+  "discouraged_translations": [
+    "immortal"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing the deathless dimension associated with release and nibbāna.",
+  "notes": "The project prefers deathless because it is the most established and least distorting English choice for this term in doctrinal contexts. Immortal is discouraged because it suggests an enduring personal being rather than the quenching-oriented framework of the canon.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "deathless",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose clarifying the privative structure",
+      "rendering": "death-free",
+      "notes": "Acceptable alternate when the English line benefits from directness."
+    }
+  ],
+  "related_terms": [
+    "nibbāna",
+    "appamāda",
+    "vimutti",
+    "bodhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "appamādo amatapadaṃ",
+      "translation": "heedfulness is the deathless path",
+      "notes": "Classic practical formula.",
+      "source": "Dhp 21"
+    },
+    {
+      "pali": "amataṃ adhigacchati",
+      "translation": "one reaches the deathless",
+      "notes": "Compact doctrinal usage.",
+      "source": "MN 26"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 21",
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}
