@@ -70,6 +70,7 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
         seen_normalized_terms.add(normalized_term)
         planned_writes.append((record, TERMS_DIR / f"{normalized_term}.json"))
 
+    # Validate against schema and editorial lint in isolation before writing.
     with tempfile.TemporaryDirectory() as tmpdir:
         temp_terms_dir = Path(tmpdir) / "terms"
         temp_terms_dir.mkdir()
@@ -82,7 +83,8 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
             raise ValueError(f"Batch failed schema validation: {schema_failures[0]}")
 
         lint_errors, lint_warnings = lint_terms.collect_lint_results(
-            lint_terms.load_terms(temp_terms_dir)
+            lint_terms.load_terms(temp_terms_dir),
+            enforce_stabilized_terms=False,
         )
         if lint_errors:
             first_group = next(iter(lint_errors.values()))

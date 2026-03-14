@@ -237,6 +237,8 @@ def print_group(title: str, issues: list[str]) -> None:
 
 def collect_lint_results(
     terms: dict[str, dict[str, object]],
+    *,
+    enforce_stabilized_terms: bool = True,
 ) -> tuple[dict[str, list[str]], dict[str, list[str]]]:
     errors = defaultdict(list)
     warnings = defaultdict(list)
@@ -247,7 +249,9 @@ def collect_lint_results(
     gloss_issues = check_untranslated_preferences(terms)
     placeholder_issues = check_suspicious_placeholders(terms)
     mojibake_issues = check_mojibake_patterns(terms)
-    stabilized_term_issues = check_stabilized_term_policy(terms)
+    stabilized_term_issues = (
+        check_stabilized_term_policy(terms) if enforce_stabilized_terms else []
+    )
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
