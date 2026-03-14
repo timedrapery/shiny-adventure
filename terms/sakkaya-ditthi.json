@@ -1,0 +1,23 @@
+{
+  "term": "sakk?ya-di??hi",
+  "normalized_term": "sakkaya-ditthi",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "identity view",
+  "preferred_translation": "identity view",
+  "alternative_translations": [
+    "self-identification view"
+  ],
+  "discouraged_translations": [
+    "ego"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The view that identifies with the heaps as self or belonging to self.",
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

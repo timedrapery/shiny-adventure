@@ -1,0 +1,23 @@
+{
+  "term": "p???tip?ta",
+  "normalized_term": "panatipata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "taking life",
+  "preferred_translation": "taking life",
+  "alternative_translations": [
+    "killing"
+  ],
+  "discouraged_translations": [
+    "violence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of taking life, classically prohibited in ethical training.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

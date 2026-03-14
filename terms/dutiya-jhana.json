@@ -1,0 +1,23 @@
+{
+  "term": "dutiya-jh?na",
+  "normalized_term": "dutiya-jhana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "second jh?na",
+  "preferred_translation": "second theme",
+  "alternative_translations": [
+    "second jh?na"
+  ],
+  "discouraged_translations": [
+    "second absorption"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The second jh?na in the standard fourfold sequence.",
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

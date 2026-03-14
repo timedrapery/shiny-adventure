@@ -1,0 +1,23 @@
+{
+  "term": "?po-kasi?a",
+  "normalized_term": "apo-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "water kasina",
+  "preferred_translation": "water kasina",
+  "alternative_translations": [
+    "water totality"
+  ],
+  "discouraged_translations": [
+    "water element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The water kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

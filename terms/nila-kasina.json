@@ -1,0 +1,23 @@
+{
+  "term": "n?la-kasi?a",
+  "normalized_term": "nila-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "blue kasina",
+  "preferred_translation": "blue kasina",
+  "alternative_translations": [
+    "blue totality"
+  ],
+  "discouraged_translations": [
+    "blue element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The blue kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

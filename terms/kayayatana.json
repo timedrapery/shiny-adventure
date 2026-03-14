@@ -1,0 +1,23 @@
+{
+  "term": "k?y?yatana",
+  "normalized_term": "kayayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "body sphere",
+  "preferred_translation": "body sense field",
+  "alternative_translations": [
+    "body cognitive realm"
+  ],
+  "discouraged_translations": [
+    "body base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The body as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

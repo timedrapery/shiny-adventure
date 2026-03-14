@@ -1,0 +1,23 @@
+{
+  "term": "p?ta-kasi?a",
+  "normalized_term": "pita-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "yellow kasina",
+  "preferred_translation": "yellow kasina",
+  "alternative_translations": [
+    "yellow totality"
+  ],
+  "discouraged_translations": [
+    "yellow element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The yellow kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "s?labbata-par?m?sa",
+  "normalized_term": "silabbata-paramasa",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "grasping at rules and observances",
+  "preferred_translation": "grasping at rules and observances",
+  "alternative_translations": [
+    "attachment to rules and observances"
+  ],
+  "discouraged_translations": [
+    "discipline"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clinging to rules and observances as sufficient in themselves.",
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "brahmacariya",
+  "normalized_term": "brahmacariya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "holy life, spiritual life",
+  "preferred_translation": "spiritual life",
+  "alternative_translations": [
+    "holy life"
+  ],
+  "discouraged_translations": [
+    "celibacy"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The spiritual life or life of practice as a whole.",
+  "sutta_references": [
+    "MN 29"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

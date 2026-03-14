@@ -1,0 +1,23 @@
+{
+  "term": "micch?-sam?dhi",
+  "normalized_term": "miccha-samadhi",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong composure",
+  "preferred_translation": "wrong composure",
+  "alternative_translations": [
+    "misdirected composure"
+  ],
+  "discouraged_translations": [
+    "bad concentration"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong composure opposed to right composure.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

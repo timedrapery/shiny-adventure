@@ -1,0 +1,23 @@
+{
+  "term": "uposatha",
+  "normalized_term": "uposatha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "observance day",
+  "preferred_translation": "observance day",
+  "alternative_translations": [
+    "uposatha"
+  ],
+  "discouraged_translations": [
+    "sabbath"
+  ],
+  "untranslated_preferred": false,
+  "definition": "An observance day marked by renewed ethical and contemplative practice.",
+  "sutta_references": [
+    "AN 8.41"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "s?l?nussati",
+  "normalized_term": "silanussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of conduct",
+  "preferred_translation": "recollection of conduct",
+  "alternative_translations": [
+    "recollection of virtue"
+  ],
+  "discouraged_translations": [
+    "moralism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of one's conduct as a contemplative theme.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

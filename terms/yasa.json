@@ -1,0 +1,23 @@
+{
+  "term": "yasa",
+  "normalized_term": "yasa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "fame, status",
+  "preferred_translation": "fame",
+  "alternative_translations": [
+    "status"
+  ],
+  "discouraged_translations": [
+    "glory"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Fame as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

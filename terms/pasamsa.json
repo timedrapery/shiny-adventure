@@ -1,0 +1,23 @@
+{
+  "term": "pasa?s?",
+  "normalized_term": "pasamsa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "praise",
+  "preferred_translation": "praise",
+  "alternative_translations": [
+    "approval"
+  ],
+  "discouraged_translations": [
+    "worship"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Praise as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

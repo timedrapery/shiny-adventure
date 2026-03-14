@@ -1,0 +1,24 @@
+{
+  "term": "dhammavinaya",
+  "normalized_term": "dhammavinaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "teaching-and-discipline",
+  "preferred_translation": "teaching and discipline",
+  "alternative_translations": [
+    "dhamma and discipline"
+  ],
+  "discouraged_translations": [
+    "religion"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The teaching and discipline taken together as the Buddha's dispensation.",
+  "sutta_references": [
+    "MN 108"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "vac?sucarita",
+  "normalized_term": "vacisucarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "good verbal conduct",
+  "preferred_translation": "good verbal conduct",
+  "alternative_translations": [
+    "wholesome verbal conduct"
+  ],
+  "discouraged_translations": [
+    "virtuous speech"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wholesome verbal conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "tisara?a",
+  "normalized_term": "tisarana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "three refuges",
+  "preferred_translation": "three refuges",
+  "alternative_translations": [
+    "triple refuge"
+  ],
+  "discouraged_translations": [
+    "creed"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The three refuges in the Buddha, dhamma, and sa?gha.",
+  "sutta_references": [
+    "Khp 1"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

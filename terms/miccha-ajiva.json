@@ -1,0 +1,23 @@
+{
+  "term": "micch?-?j?va",
+  "normalized_term": "miccha-ajiva",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong livelihood",
+  "preferred_translation": "wrong livelihood",
+  "alternative_translations": [
+    "harmful livelihood"
+  ],
+  "discouraged_translations": [
+    "unholy living"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong livelihood opposed to right livelihood.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

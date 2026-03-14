@@ -1,0 +1,23 @@
+{
+  "term": "?k?sa-kasi?a",
+  "normalized_term": "akasa-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "space kasina",
+  "preferred_translation": "space kasina",
+  "alternative_translations": [
+    "space totality"
+  ],
+  "discouraged_translations": [
+    "space element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The space kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

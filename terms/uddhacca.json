@@ -1,0 +1,23 @@
+{
+  "term": "uddhacca",
+  "normalized_term": "uddhacca",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "restlessness, agitation",
+  "preferred_translation": "restlessness",
+  "alternative_translations": [
+    "agitation"
+  ],
+  "discouraged_translations": [
+    "anxiety"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Restlessness or unsettled agitation.",
+  "sutta_references": [
+    "SN 46.51"
+  ],
+  "tags": [
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

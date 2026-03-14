@@ -1,0 +1,23 @@
+{
+  "term": "pathav?-kasi?a",
+  "normalized_term": "pathavi-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "earth kasina",
+  "preferred_translation": "earth kasina",
+  "alternative_translations": [
+    "earth totality"
+  ],
+  "discouraged_translations": [
+    "earth element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The earth kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

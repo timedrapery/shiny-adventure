@@ -1,0 +1,23 @@
+{
+  "term": "micch?-di??hi",
+  "normalized_term": "miccha-ditthi",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong view",
+  "preferred_translation": "wrong view",
+  "alternative_translations": [
+    "distorted view"
+  ],
+  "discouraged_translations": [
+    "heresy"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong view opposed to right view.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

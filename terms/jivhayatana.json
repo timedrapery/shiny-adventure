@@ -1,0 +1,23 @@
+{
+  "term": "jivh?yatana",
+  "normalized_term": "jivhayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "tongue sphere",
+  "preferred_translation": "tongue sense field",
+  "alternative_translations": [
+    "tongue cognitive realm"
+  ],
+  "discouraged_translations": [
+    "tongue base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The tongue as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

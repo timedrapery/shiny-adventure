@@ -1,0 +1,23 @@
+{
+  "term": "ar?pa-r?ga",
+  "normalized_term": "arupa-raga",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "passion for the formless",
+  "preferred_translation": "passion for the formless",
+  "alternative_translations": [
+    "attachment to the formless"
+  ],
+  "discouraged_translations": [
+    "mysticism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Passion directed toward formless attainments or formless existence.",
+  "sutta_references": [
+    "MN 64"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

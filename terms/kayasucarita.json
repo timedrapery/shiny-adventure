@@ -1,0 +1,23 @@
+{
+  "term": "k?yasucarita",
+  "normalized_term": "kayasucarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "good bodily conduct",
+  "preferred_translation": "good bodily conduct",
+  "alternative_translations": [
+    "wholesome bodily conduct"
+  ],
+  "discouraged_translations": [
+    "virtuous body"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wholesome bodily conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

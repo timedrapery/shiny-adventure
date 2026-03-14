@@ -1,0 +1,24 @@
+{
+  "term": "kaly??amitta",
+  "normalized_term": "kalyanamitta",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "good friend",
+  "preferred_translation": "good friend",
+  "alternative_translations": [
+    "admirable friend"
+  ],
+  "discouraged_translations": [
+    "guru"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A good or admirable friend who supports the path.",
+  "sutta_references": [
+    "SN 45.2"
+  ],
+  "tags": [
+    "core-practice",
+    "persons"
+  ],
+  "status": "reviewed"
+}

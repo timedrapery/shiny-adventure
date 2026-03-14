@@ -1,0 +1,23 @@
+{
+  "term": "cakkh?yatana",
+  "normalized_term": "cakkhayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "eye sphere",
+  "preferred_translation": "eye sense field",
+  "alternative_translations": [
+    "eye cognitive realm"
+  ],
+  "discouraged_translations": [
+    "eye base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The eye as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

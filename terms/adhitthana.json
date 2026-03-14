@@ -1,0 +1,23 @@
+{
+  "term": "adhi??h?na",
+  "normalized_term": "adhitthana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "resolution, determination",
+  "preferred_translation": "resolution",
+  "alternative_translations": [
+    "determination"
+  ],
+  "discouraged_translations": [
+    "stubbornness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Resolution or firm determination in practice.",
+  "sutta_references": [
+    "AN 10.176"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

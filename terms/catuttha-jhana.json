@@ -1,0 +1,23 @@
+{
+  "term": "catuttha-jh?na",
+  "normalized_term": "catuttha-jhana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "fourth jh?na",
+  "preferred_translation": "fourth theme",
+  "alternative_translations": [
+    "fourth jh?na"
+  ],
+  "discouraged_translations": [
+    "fourth absorption"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The fourth jh?na in the standard fourfold sequence.",
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

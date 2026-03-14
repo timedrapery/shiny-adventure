@@ -1,0 +1,23 @@
+{
+  "term": "appicchat?",
+  "normalized_term": "appicchata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "fewness of wishes",
+  "preferred_translation": "fewness of wishes",
+  "alternative_translations": [
+    "few wants"
+  ],
+  "discouraged_translations": [
+    "ascetic extremism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The quality of having few wants.",
+  "sutta_references": [
+    "AN 4.27"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

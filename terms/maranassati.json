@@ -1,0 +1,23 @@
+{
+  "term": "mara?assati",
+  "normalized_term": "maranassati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of death",
+  "preferred_translation": "recollection of death",
+  "alternative_translations": [
+    "death recollection"
+  ],
+  "discouraged_translations": [
+    "morbid fixation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of death as a contemplative theme.",
+  "sutta_references": [
+    "AN 6.19"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

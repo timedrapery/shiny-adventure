@@ -1,0 +1,23 @@
+{
+  "term": "?loka-kasi?a",
+  "normalized_term": "aloka-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "light kasina",
+  "preferred_translation": "light kasina",
+  "alternative_translations": [
+    "light totality"
+  ],
+  "discouraged_translations": [
+    "illumination"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The light kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "sa?vega",
+  "normalized_term": "samvega",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "spiritual urgency, shock",
+  "preferred_translation": "urgency",
+  "alternative_translations": [
+    "spiritual shock"
+  ],
+  "discouraged_translations": [
+    "panic"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Urgency stirred by seeing the vulnerability and instability of conditioned life.",
+  "sutta_references": [
+    "AN 4.113"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

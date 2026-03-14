@@ -1,0 +1,23 @@
+{
+  "term": "vac?duccarita",
+  "normalized_term": "vaciduccarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bad verbal conduct",
+  "preferred_translation": "bad verbal conduct",
+  "alternative_translations": [
+    "harmful verbal conduct"
+  ],
+  "discouraged_translations": [
+    "sinful speech"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Unwholesome verbal conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

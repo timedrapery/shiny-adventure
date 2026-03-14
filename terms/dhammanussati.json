@@ -1,0 +1,24 @@
+{
+  "term": "dhamm?nussati",
+  "normalized_term": "dhammanussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of the dhamma",
+  "preferred_translation": "recollection of the dhamma",
+  "alternative_translations": [
+    "dhamma recollection"
+  ],
+  "discouraged_translations": [
+    "study"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of the dhamma as a contemplative theme.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "k?yaduccarita",
+  "normalized_term": "kayaduccarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bad bodily conduct",
+  "preferred_translation": "bad bodily conduct",
+  "alternative_translations": [
+    "harmful bodily conduct"
+  ],
+  "discouraged_translations": [
+    "sinful body"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Unwholesome bodily conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

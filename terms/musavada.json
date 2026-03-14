@@ -1,0 +1,23 @@
+{
+  "term": "mus?v?da",
+  "normalized_term": "musavada",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "false speech",
+  "preferred_translation": "false speech",
+  "alternative_translations": [
+    "lying"
+  ],
+  "discouraged_translations": [
+    "dishonesty"
+  ],
+  "untranslated_preferred": false,
+  "definition": "False speech, classically prohibited in ethical training.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

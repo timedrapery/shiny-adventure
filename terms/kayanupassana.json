@@ -1,0 +1,23 @@
+{
+  "term": "k?y?nupassan?",
+  "normalized_term": "kayanupassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "contemplation of body",
+  "preferred_translation": "contemplation of body",
+  "alternative_translations": [
+    "body contemplation"
+  ],
+  "discouraged_translations": [
+    "body scanning"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contemplation of the body in the satipa??h?na framework.",
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

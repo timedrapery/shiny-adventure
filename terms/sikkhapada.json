@@ -1,0 +1,24 @@
+{
+  "term": "sikkh?pada",
+  "normalized_term": "sikkhapada",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "training rule",
+  "preferred_translation": "training rule",
+  "alternative_translations": [
+    "training precept"
+  ],
+  "discouraged_translations": [
+    "commandment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A training rule or precept undertaken as part of practice.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

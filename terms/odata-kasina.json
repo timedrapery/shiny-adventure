@@ -1,0 +1,23 @@
+{
+  "term": "od?ta-kasi?a",
+  "normalized_term": "odata-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "white kasina",
+  "preferred_translation": "white kasina",
+  "alternative_translations": [
+    "white totality"
+  ],
+  "discouraged_translations": [
+    "white element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The white kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

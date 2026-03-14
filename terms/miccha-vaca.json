@@ -1,0 +1,23 @@
+{
+  "term": "micch?-v?c?",
+  "normalized_term": "miccha-vaca",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong speech",
+  "preferred_translation": "wrong speech",
+  "alternative_translations": [
+    "wrong speaking"
+  ],
+  "discouraged_translations": [
+    "sinful speech"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong speech opposed to right speech.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

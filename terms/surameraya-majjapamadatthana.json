@@ -1,0 +1,23 @@
+{
+  "term": "sur?meraya-majjapam?da??h?na",
+  "normalized_term": "surameraya-majjapamadatthana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "basis for heedlessness through liquor and intoxicants",
+  "preferred_translation": "intoxicants that lead to heedlessness",
+  "alternative_translations": [
+    "drink and intoxicants leading to heedlessness"
+  ],
+  "discouraged_translations": [
+    "substance abuse"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Liquor and intoxicants taken as a basis for heedlessness, classically prohibited in ethical training.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

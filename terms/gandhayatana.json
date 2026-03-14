@@ -1,0 +1,23 @@
+{
+  "term": "gandh?yatana",
+  "normalized_term": "gandhayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "odor sphere",
+  "preferred_translation": "odor sense field",
+  "alternative_translations": [
+    "odors as field"
+  ],
+  "discouraged_translations": [
+    "odor base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Odors as the olfactory object-field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

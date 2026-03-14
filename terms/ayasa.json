@@ -1,0 +1,23 @@
+{
+  "term": "ayasa",
+  "normalized_term": "ayasa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "disrepute",
+  "preferred_translation": "disrepute",
+  "alternative_translations": [
+    "loss of fame"
+  ],
+  "discouraged_translations": [
+    "shame"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Disrepute as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

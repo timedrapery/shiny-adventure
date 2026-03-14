@@ -1,0 +1,23 @@
+{
+  "term": "citt?nupassan?",
+  "normalized_term": "cittanupassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "contemplation of mind",
+  "preferred_translation": "contemplation of mind",
+  "alternative_translations": [
+    "mind contemplation"
+  ],
+  "discouraged_translations": [
+    "mindfulness of thoughts"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contemplation of mind in the satipa??h?na framework.",
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

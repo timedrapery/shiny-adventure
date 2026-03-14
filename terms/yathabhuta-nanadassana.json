@@ -1,0 +1,23 @@
+{
+  "term": "yath?bh?ta-???adassana",
+  "normalized_term": "yathabhuta-nanadassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "knowledge-and-seeing as it has come to be",
+  "preferred_translation": "knowing and seeing things as they have come to be",
+  "alternative_translations": [
+    "knowing and seeing things as they are"
+  ],
+  "discouraged_translations": [
+    "objectivity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Knowing and seeing phenomena as they have come to be.",
+  "sutta_references": [
+    "SN 12.23"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "tejo-kasi?a",
+  "normalized_term": "tejo-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "fire kasina",
+  "preferred_translation": "fire kasina",
+  "alternative_translations": [
+    "fire totality"
+  ],
+  "discouraged_translations": [
+    "fire element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The fire kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

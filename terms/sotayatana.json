@@ -1,0 +1,23 @@
+{
+  "term": "sot?yatana",
+  "normalized_term": "sotayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "ear sphere",
+  "preferred_translation": "ear sense field",
+  "alternative_translations": [
+    "ear cognitive realm"
+  ],
+  "discouraged_translations": [
+    "ear base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The ear as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

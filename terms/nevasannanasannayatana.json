@@ -1,0 +1,23 @@
+{
+  "term": "nevasa???n?sa???yatana",
+  "normalized_term": "nevasannanasannayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sphere of neither-recognition-nor-non-recognition",
+  "preferred_translation": "sphere of neither-recognition-nor-non-recognition",
+  "alternative_translations": [
+    "base of neither-recognition-nor-non-recognition"
+  ],
+  "discouraged_translations": [
+    "ultimate consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The formless attainment of neither-recognition-nor-non-recognition.",
+  "sutta_references": [
+    "DN 15"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

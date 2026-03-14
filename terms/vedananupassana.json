@@ -1,0 +1,23 @@
+{
+  "term": "vedan?nupassan?",
+  "normalized_term": "vedananupassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "contemplation of feeling",
+  "preferred_translation": "contemplation of feeling",
+  "alternative_translations": [
+    "feeling contemplation"
+  ],
+  "discouraged_translations": [
+    "emotion work"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contemplation of feeling in the satipa??h?na framework.",
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

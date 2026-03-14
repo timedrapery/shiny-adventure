@@ -1,0 +1,23 @@
+{
+  "term": "al?bha",
+  "normalized_term": "alabha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "loss of gain",
+  "preferred_translation": "loss",
+  "alternative_translations": [
+    "lack of gain"
+  ],
+  "discouraged_translations": [
+    "failure"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Loss as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

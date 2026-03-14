@@ -1,0 +1,23 @@
+{
+  "term": "buddh?nussati",
+  "normalized_term": "buddhanussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of the Buddha",
+  "preferred_translation": "recollection of the buddha",
+  "alternative_translations": [
+    "buddha recollection"
+  ],
+  "discouraged_translations": [
+    "devotion"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of the Buddha as a contemplative theme.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

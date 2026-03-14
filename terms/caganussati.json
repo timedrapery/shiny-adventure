@@ -1,0 +1,23 @@
+{
+  "term": "c?g?nussati",
+  "normalized_term": "caganussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of generosity",
+  "preferred_translation": "recollection of generosity",
+  "alternative_translations": [
+    "recollection of giving"
+  ],
+  "discouraged_translations": [
+    "charity branding"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of generosity as a contemplative theme.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

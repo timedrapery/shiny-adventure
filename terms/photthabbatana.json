@@ -1,0 +1,23 @@
+{
+  "term": "pho??habb?yatana",
+  "normalized_term": "photthabbatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "tangible sphere",
+  "preferred_translation": "tangible sense field",
+  "alternative_translations": [
+    "tangibles as field"
+  ],
+  "discouraged_translations": [
+    "touch base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Tangibles as the tactile object-field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

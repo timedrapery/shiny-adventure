@@ -1,0 +1,23 @@
+{
+  "term": "k?mesu-micch?c?ra",
+  "normalized_term": "kamesu-micchacara",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sexual misconduct",
+  "preferred_translation": "sexual misconduct",
+  "alternative_translations": [
+    "misconduct in sensuality"
+  ],
+  "discouraged_translations": [
+    "impurity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Sexual misconduct, classically prohibited in ethical training.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

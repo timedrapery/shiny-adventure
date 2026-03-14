@@ -1,0 +1,23 @@
+{
+  "term": "micch?-kammanta",
+  "normalized_term": "miccha-kammanta",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong action",
+  "preferred_translation": "wrong action",
+  "alternative_translations": [
+    "wrong conduct"
+  ],
+  "discouraged_translations": [
+    "sinful action"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong action opposed to right action.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

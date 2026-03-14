@@ -1,0 +1,23 @@
+{
+  "term": "v?yo-kasi?a",
+  "normalized_term": "vayo-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "air kasina",
+  "preferred_translation": "air kasina",
+  "alternative_translations": [
+    "air totality"
+  ],
+  "discouraged_translations": [
+    "air element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The air kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}
