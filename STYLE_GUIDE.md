@@ -115,7 +115,7 @@ These reflect current house style and may evolve.
 - kusala -> wholesome
 - akusala -> unwholesome
 - bodhi -> awakening
-- anukamp? -> sympathy
+- anukampā -> sympathy
 - sammā-diṭṭhi -> right view
 - sammāsaṅkappa -> right attitude
 - sammā-sati -> right sati

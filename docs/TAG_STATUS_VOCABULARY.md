@@ -117,6 +117,70 @@ Examples:
 
 - `viññāṇa`
 
+### `sense-fields`
+
+Use for terms in the six sense-field framework, including the fields, objects,
+and linked consciousness terms.
+
+Examples:
+
+- `cakkhu`
+- `sota`
+- `salāyatana`
+
+### `causality`
+
+Use for terms that primarily mark causal structure, conditions, or results.
+
+Examples:
+
+- `hetu`
+- `upanisa`
+- `phala`
+
+### `ethics`
+
+Use for terms centered on conduct, restraint, wholesome or unwholesome action,
+or explicitly ethical evaluation.
+
+Examples:
+
+- `sīla`
+- `adinnādāna`
+- `kamma`
+
+### `liberation`
+
+Use for terms tied directly to release, unbinding, path attainments, or
+liberating formulas.
+
+Examples:
+
+- `vimutti`
+- `nibbāna`
+- `arahant`
+
+### `persons`
+
+Use for person-types, attained individuals, communities, or role-bearing
+designations.
+
+Examples:
+
+- `arahant`
+- `sotāpanna`
+- `saṅgha`
+
+### `embodiment`
+
+Use for terms centered on the body, embodiment, or body-based contemplation.
+
+Examples:
+
+- `kāya`
+- `kabaḷīkāra-āhāra`
+- `sampajañña`
+
 ### `context-sensitive`
 
 Use when the preferred rendering changes significantly depending on doctrinal or
@@ -125,6 +189,28 @@ textual context.
 Examples:
 
 - `saṅkhārā`
+
+### `translation-sensitive`
+
+Use when the English rendering needs extra care because common translations are
+especially unstable, overloaded, or misleading.
+
+Examples:
+
+- `dhamma`
+- `ariya`
+- `saṅgha`
+
+### `worldly-conditions`
+
+Use for gain/loss, praise/blame, fame/disrepute, and similar worldly condition
+vocabulary.
+
+Examples:
+
+- `lābha`
+- `alābha`
+- `yasa`
 
 ## When Not to Add a New Tag
 
@@ -136,6 +222,29 @@ Do not add a new tag just because:
 
 If a new tag starts appearing in several entries, it may be worth formalizing
 later in this document.
+
+## Current Live Tag Set
+
+As of the current repository contents, the standardized tag set is:
+
+- `aggregates`
+- `causality`
+- `context-sensitive`
+- `core-doctrine`
+- `core-practice`
+- `dependent-origination`
+- `embodiment`
+- `ethics`
+- `four-noble-truths`
+- `jhana-factors`
+- `liberation`
+- `meditative-development`
+- `mental-qualities`
+- `persons`
+- `sense-fields`
+- `three-marks`
+- `translation-sensitive`
+- `worldly-conditions`
 
 ---
 

@@ -108,14 +108,25 @@ Example:
 
 ------------------------------------------------------------------------
 
+# Entry Type Convention
+
+Every new entry should include `entry_type`.
+
+- Use `major` for rule-bearing entries that carry translation guidance.
+- Use `minor` for narrower entries that do not need the full rule set.
+- In the schema, `major` entries must include `notes`, `context_rules`, `related_terms`, and `example_phrases`.
+
+------------------------------------------------------------------------
+
 # Required Fields
 
-Every entry must include:
+Every entry should include:
 
   Field                     Description
   ------------------------- -----------------------------------------------
   `term`                    Headword in Pāli with diacritics
   `normalized_term`         ASCII version used for filenames and indexing
+  `entry_type`              Major or minor entry classification
   `part_of_speech`          Grammatical category
   `preferred_translation`   Default English rendering
   `definition`              Short explanatory definition
@@ -127,6 +138,7 @@ Example:
 {
   "term": "dukkha",
   "normalized_term": "dukkha",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "preferred_translation": "dissatisfaction",
   "definition": "The unsatisfactory and unstable character of conditioned experience.",
@@ -242,13 +254,24 @@ Example:
 
 Example tags:
 
+-   aggregates
+-   causality
+-   context-sensitive
 -   core-doctrine
+-   core-practice
 -   dependent-origination
+-   embodiment
+-   ethics
 -   four-noble-truths
+-   jhana-factors
+-   liberation
 -   mental-qualities
 -   meditative-development
--   aggregates
+-   persons
 -   sense-fields
+-   three-marks
+-   translation-sensitive
+-   worldly-conditions
 
 For the preferred current tag set and when to use each tag, see
 `docs/TAG_STATUS_VOCABULARY.md`.
