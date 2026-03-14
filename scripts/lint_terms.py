@@ -6,9 +6,13 @@ from __future__ import annotations
 import argparse
 import json
 import sys
-import unicodedata
 from collections import defaultdict
 from pathlib import Path
+
+try:
+    from scripts.text_utils import normalize_term, safe_text
+except ModuleNotFoundError:
+    from text_utils import normalize_term, safe_text
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -18,17 +22,6 @@ TERMS_DIR = REPO_ROOT / "terms"
 def load_json(path: Path) -> object:
     with path.open("r", encoding="utf-8") as handle:
         return json.load(handle)
-
-
-def normalize_term(value: str) -> str:
-    normalized = unicodedata.normalize("NFKD", value)
-    stripped = "".join(ch for ch in normalized if not unicodedata.combining(ch))
-    lowered = stripped.lower().replace(" ", "_").replace("-", "_")
-    return "".join(ch for ch in lowered if ch.isalnum() or ch == "_")
-
-
-def safe_text(value: str) -> str:
-    return value.encode("ascii", "backslashreplace").decode("ascii")
 
 
 def load_terms() -> dict[str, dict[str, object]]:
