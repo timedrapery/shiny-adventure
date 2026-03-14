@@ -1,0 +1,56 @@
+{
+  "term": "mano",
+  "normalized_term": "mano",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "mind",
+  "preferred_translation": "mind",
+  "alternative_translations": [
+    "mental faculty"
+  ],
+  "discouraged_translations": [
+    "consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Mind, especially as a cognitive sense faculty and as one term in body-speech-mind formulations.",
+  "notes": "The project prefers mind as the default because it is the clearest ordinary English equivalent. When the context specifically treats mano as the sixth sense faculty or as the cognitive side of a triad, mental faculty may be the better rendering to prevent flattening it into citta or viññāṇa.",
+  "context_rules": [
+    {
+      "context": "In general doctrinal contexts and standard triads such as body, speech, and mind",
+      "rendering": "mind",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In contexts emphasizing mano as a sense faculty alongside eye, ear, nose, tongue, and body",
+      "rendering": "mental faculty",
+      "notes": "Use when the faculty-role needs to stay explicit."
+    }
+  ],
+  "related_terms": [
+    "ayatana",
+    "salayatana",
+    "vinnana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ",
+      "translation": "dependent on the mental faculty and dhammas, mind-consciousness arises",
+      "notes": "Shows mano in its sense-base role.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "manokamma",
+      "translation": "mental action",
+      "notes": "Useful compound showing the term in ethical triads."
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-doctrine",
+    "sense-fields",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

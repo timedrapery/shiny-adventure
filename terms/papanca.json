@@ -1,0 +1,55 @@
+{
+  "term": "papañca",
+  "normalized_term": "papanca",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "spreading out, proliferation",
+  "preferred_translation": "proliferation",
+  "alternative_translations": [
+    "conceptual proliferation"
+  ],
+  "discouraged_translations": [
+    "imagination"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The multiplying spread of conceptual and reactive elaboration that entangles experience.",
+  "notes": "The project prefers proliferation because it is concise and already well established in Buddhist translation, while still reading as contemporary English. Conceptual proliferation is useful when the mental elaboration itself needs to be made explicit.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "proliferation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the conceptual element needs to be explicit",
+      "rendering": "conceptual proliferation",
+      "notes": "Acceptable alternate if plain proliferation feels too compressed."
+    }
+  ],
+  "related_terms": [
+    "manasikara",
+    "citta",
+    "tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "papañcasaññāsaṅkhā",
+      "translation": "perceptions and constructions of proliferation",
+      "notes": "Classic phrase showing the term's role in entangling mental elaboration.",
+      "source": "MN 18"
+    },
+    {
+      "pali": "papañca",
+      "translation": "proliferation",
+      "notes": "Useful as a retained technical term in concise doctrinal exposition."
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

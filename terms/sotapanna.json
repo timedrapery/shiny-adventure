@@ -1,0 +1,59 @@
+{
+  "term": "sotāpanna",
+  "normalized_term": "sotapanna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "stream-enterer",
+  "preferred_translation": "stream-enterer",
+  "alternative_translations": [
+    "one who has entered the stream"
+  ],
+  "discouraged_translations": [
+    "convert"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A person who has entered the stream to awakening and irreversibly shifted in view and trajectory.",
+  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed.",
+  "context_rules": [
+    {
+      "context": "In doctrinal and classificatory contexts",
+      "rendering": "stream-enterer",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the sentence benefits from an explicit relative clause",
+      "rendering": "one who has entered the stream",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sotapatti",
+    "samyojana",
+    "samma-ditthi",
+    "vicikiccha",
+    "sakadagami",
+    "ariya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotāpanno hoti",
+      "translation": "one becomes a stream-enterer",
+      "notes": "Simple doctrinal statement of attainment."
+    },
+    {
+      "pali": "sotāpannassa",
+      "translation": "of a stream-enterer",
+      "notes": "Common inflected form in descriptions of stage qualities.",
+      "source": "SN 55.5"
+    }
+  ],
+  "sutta_references": [
+    "SN 55.5"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "persons"
+  ],
+  "status": "reviewed"
+}

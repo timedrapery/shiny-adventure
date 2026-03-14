@@ -1,0 +1,59 @@
+{
+  "term": "āsava",
+  "normalized_term": "asava",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "outflow, seepage",
+  "preferred_translation": "outflow",
+  "alternative_translations": [
+    "taint",
+    "seepage"
+  ],
+  "discouraged_translations": [
+    "canker"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A deep contaminating outflow of the mind that perpetuates bondage and obscuration.",
+  "notes": "The project prefers outflow because it preserves the image of something running on and leaking through experience without the archaic or medical feel of canker. Taint remains acceptable in explanatory prose if outflow would confuse the immediate audience.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "outflow",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the contaminating aspect needs emphasis",
+      "rendering": "taint",
+      "notes": "Acceptable alternate when it reads more clearly in context."
+    }
+  ],
+  "related_terms": [
+    "avijja",
+    "anusaya",
+    "samyojana",
+    "arahant",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavānaṃ khayā",
+      "translation": "through the wearing away of the outflows",
+      "notes": "Widely recurring liberation formula.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "āsavakkhaya",
+      "translation": "the wearing away of the outflows",
+      "notes": "Useful compact doctrinal compound."
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

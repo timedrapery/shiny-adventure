@@ -1,0 +1,57 @@
+{
+  "term": "nibbidā",
+  "normalized_term": "nibbida",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "turning away, disenchantment",
+  "preferred_translation": "disenchantment",
+  "alternative_translations": [
+    "turning away",
+    "weariness"
+  ],
+  "discouraged_translations": [
+    "depression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A disenchanted turning away from conditioned experience that supports fading, quenching, and release.",
+  "notes": "The project prefers disenchantment because it captures the cooling of fascination without implying aversion or pathology. Turning away can work when the sentence highlights the directional shift, while weariness is acceptable only when the source clearly carries that tone.",
+  "context_rules": [
+    {
+      "context": "In doctrinal sequences leading toward fading and release",
+      "rendering": "disenchantment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the movement away from attachment",
+      "rendering": "turning away",
+      "notes": "Use when the directional metaphor is useful."
+    }
+  ],
+  "related_terms": [
+    "viraga",
+    "nirodha",
+    "vimutti",
+    "tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nibbidāya virāgāya nirodhāya",
+      "translation": "for disenchantment, for fading, for quenching",
+      "notes": "A classic sequence showing the term's place in liberative process.",
+      "source": "SN 12.23"
+    },
+    {
+      "pali": "nibbindati",
+      "translation": "one becomes disenchanted",
+      "notes": "Verbal form useful for translation decisions around the same semantic field."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.23"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

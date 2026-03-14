@@ -1,0 +1,62 @@
+{
+  "term": "chanda",
+  "normalized_term": "chanda",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "desire, intention, interest",
+  "preferred_translation": "desire",
+  "alternative_translations": [
+    "motivation",
+    "interest"
+  ],
+  "discouraged_translations": [
+    "craving"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A wanting or intentional inclination that can be wholesome, neutral, or unwholesome depending on context.",
+  "notes": "The project keeps desire as the default because the term really does name wanting, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically problematic. In clearly wholesome or practical contexts, motivation or interest may read better than desire in English.",
+  "context_rules": [
+    {
+      "context": "In general doctrinal contexts where the term simply names wanting or inclination",
+      "rendering": "desire",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In wholesome practice contexts where English desire would sound misleadingly close to craving",
+      "rendering": "motivation",
+      "notes": "Use when the sentence points to skillful initiative rather than grasping."
+    },
+    {
+      "context": "In lighter explanatory prose where the sense is one of willingness or engagement",
+      "rendering": "interest",
+      "notes": "Acceptable alternate if it preserves the volitional feel."
+    }
+  ],
+  "related_terms": [
+    "tanha",
+    "kamacchanda",
+    "viriya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "chandasamādhi",
+      "translation": "composure founded on desire",
+      "notes": "Shows a clearly practice-supportive use of the term.",
+      "source": "SN 51.13"
+    },
+    {
+      "pali": "kusalachando",
+      "translation": "wholesome desire",
+      "notes": "Useful reminder that the term is not synonymous with craving."
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

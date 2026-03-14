@@ -1,0 +1,57 @@
+{
+  "term": "sotāpatti",
+  "normalized_term": "sotapatti",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "stream-entry",
+  "preferred_translation": "stream-entry",
+  "alternative_translations": [
+    "entering the stream"
+  ],
+  "discouraged_translations": [
+    "conversion"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The breakthrough of entering the stream to awakening, marked by a decisive doctrinal and practical shift.",
+  "notes": "The project keeps stream-entry because it is already standard and more precise than looser spiritual equivalents. Entering the stream is acceptable when the English sentence benefits from a more active phrase rather than a compact doctrinal label.",
+  "context_rules": [
+    {
+      "context": "In doctrinal and classificatory contexts",
+      "rendering": "stream-entry",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose highlighting the transition itself",
+      "rendering": "entering the stream",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sotapanna",
+    "phala",
+    "ariyasacca",
+    "samma-ditthi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotāpattiphala",
+      "translation": "the fruit of stream-entry",
+      "notes": "Useful compound that ties the term to path-result language.",
+      "source": "SN 55.5"
+    },
+    {
+      "pali": "sotāpattiyaṅgāni",
+      "translation": "the factors of stream-entry",
+      "notes": "Common doctrinal expression for conditions supporting the breakthrough.",
+      "source": "SN 55.5"
+    }
+  ],
+  "sutta_references": [
+    "SN 55.5"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

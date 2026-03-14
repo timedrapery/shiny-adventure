@@ -1,0 +1,58 @@
+{
+  "term": "manasikāra",
+  "normalized_term": "manasikara",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "making in mind, attention",
+  "preferred_translation": "attention",
+  "alternative_translations": [
+    "attending"
+  ],
+  "discouraged_translations": [
+    "mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of directing the mind toward something; attention as an operative mental factor.",
+  "notes": "The project prefers attention because it is direct and contemporary, and because the term should not be collapsed into sati. Attending is acceptable where the English sentence benefits from a more active verbal-noun feel.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "attention",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the active movement of the mind toward an object",
+      "rendering": "attending",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "yoniso-manasikara",
+    "ayoniso-manasikara",
+    "sati",
+    "citta",
+    "papanca"
+  ],
+  "example_phrases": [
+    {
+      "pali": "manasikātabbaṃ",
+      "translation": "it should be attended to",
+      "notes": "Shows the practical verbal sense behind the noun."
+    },
+    {
+      "pali": "manasikāro",
+      "translation": "attention",
+      "notes": "Basic doctrinal usage of the term as a mental factor.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

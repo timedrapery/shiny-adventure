@@ -1,0 +1,59 @@
+{
+  "term": "samudaya",
+  "normalized_term": "samudaya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "arising, origin",
+  "preferred_translation": "origin",
+  "alternative_translations": [
+    "arising"
+  ],
+  "discouraged_translations": [
+    "creation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The arising or originating condition of something, especially the origin of dissatisfaction in the four noble truths.",
+  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation.",
+  "context_rules": [
+    {
+      "context": "In the formula of the four noble truths",
+      "rendering": "origin",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose focusing on emergence or coming-to-be",
+      "rendering": "arising",
+      "notes": "Use when the dynamic aspect matters more than the doctrinal label."
+    }
+  ],
+  "related_terms": [
+    "ariyasacca",
+    "dukkha",
+    "tanha",
+    "nirodha",
+    "magga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ayaṃ dukkhasamudayo ariyasaccaṃ",
+      "translation": "this is the noble truth of the origin of dissatisfaction",
+      "notes": "Classic four-truth formulation.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "taṇhā ponobbhavikā",
+      "translation": "craving is what leads to renewed becoming",
+      "notes": "Useful doctrinal line showing why taṇhā is identified as the origin.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

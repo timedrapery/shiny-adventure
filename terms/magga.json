@@ -1,0 +1,69 @@
+{
+  "term": "magga",
+  "normalized_term": "magga",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "path, way",
+  "preferred_translation": "path",
+  "alternative_translations": [
+    "way"
+  ],
+  "discouraged_translations": [
+    "road"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The path of practice, especially the path leading to the quenching of dissatisfaction.",
+  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations.",
+  "context_rules": [
+    {
+      "context": "In doctrinal contexts referring to the noble path or a defined course of practice",
+      "rendering": "path",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a lighter English tone is useful",
+      "rendering": "way",
+      "notes": "Acceptable alternate if the line remains doctrinally clear."
+    }
+  ],
+  "related_terms": [
+    "ariyasacca",
+    "samudaya",
+    "nirodha",
+    "samma-ditthi",
+    "sammasankappa",
+    "samma-vaca",
+    "samma-kammanta",
+    "samma-ajiva",
+    "samma-vayama",
+    "samma-sati",
+    "samma-samadhi",
+    "ariya",
+    "patipada",
+    "phala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ayaṃ dukkhanirodhagāminī paṭipadā ariyasaccaṃ",
+      "translation": "this is the noble truth of the path of practice leading to the quenching of dissatisfaction",
+      "notes": "Key four-truth formulation identifying the path explicitly.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "ariyo aṭṭhaṅgiko maggo",
+      "translation": "the noble eightfold path",
+      "notes": "Canonical expression for the path set.",
+      "source": "SN 45.8"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.8",
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}
