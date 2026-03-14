@@ -44,9 +44,13 @@
       "notes": "Closely associated with the first jhāna."
     }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 119"
+  ],
   "tags": [
     "meditative-development",
-    "core-practice"
+    "jhana-factors"
   ],
   "status": "draft"
 }

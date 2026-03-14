@@ -51,6 +51,10 @@
       "notes": "Project preference in paṭiccasamuppāda context."
     }
   ],
+  "sutta_references": [
+    "SN 12.2",
+    "Dhp 277"
+  ],
   "tags": [
     "core-doctrine",
     "dependent-origination",

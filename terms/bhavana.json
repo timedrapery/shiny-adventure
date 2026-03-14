@@ -43,9 +43,12 @@
       "notes": "Connects the term with repetition in practice."
     }
   ],
+  "sutta_references": [
+    "AN 4.41"
+  ],
   "tags": [
-    "practice",
-    "mental-development"
+    "core-practice",
+    "meditative-development"
   ],
   "status": "stable"
 }

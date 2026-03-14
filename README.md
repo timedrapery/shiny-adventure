@@ -1,29 +1,44 @@
-# 🌿 Shiny Adventure
-A structured, modern approach to translating and understanding Pāli terms.
+# Shiny Adventure
 
-Shiny Adventure is an early-stage project focused on building a clean, consistent, and extensible system for working with Pāli vocabulary, including:
+A structured, modern approach to translating and understanding Pali terms.
 
-- Clear, human-readable English translations
-- Multiple definition layers
-- Structured metadata
-- A JSON schema for standardized term records
-- A translation style guide for consistency across contributors
+Shiny Adventure is an early-stage lexicon project. It is designed to capture
+translation decisions in a format that is useful for both human contributors
+and future tools.
 
-This repository is the foundation for a future Pāli lexicon, study tool, or translation workflow, built with clarity and precision in mind.
+The repository currently includes:
 
-## ✨ Project Goals
+- a JSON schema for term records
+- a translation style guide
+- editorial documentation for writing entries
+- a starter set of structured term files in [`terms/`](terms)
 
-- Create a standardized JSON format for Pāli terms
-- Develop a translation style guide that ensures consistency
-- Build a growing library of accurate, well-sourced term entries
-- Support future tooling (search, cross-referencing, visualization, etc.)
+The long-term goal is to support a future Pali lexicon, study tool, search
+experience, or translation workflow built on clear and consistent data.
 
-## 🧘 Example Term Entry
+## Project Goals
+
+- Create a standardized JSON format for Pali term records
+- Develop a translation style guide that stays consistent across contributors
+- Build a growing library of accurate, well-structured term entries
+- Support future tooling such as search, cross-referencing, and glossary generation
+
+## Repository Layout
+
+- [`schema/PALI_TERM_SCHEMA.json`](schema/PALI_TERM_SCHEMA.json): canonical JSON schema
+- [`terms/`](terms): structured Pali term entries
+- [`STYLE_GUIDE.md`](STYLE_GUIDE.md): house translation style
+- [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md): field-by-field reference
+- [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md): guidance for creating entries
+- [`CONTRIBUTING.md`](CONTRIBUTING.md): contributor workflow
+
+## Example Term Entry
 
 ```json
 {
   "term": "dukkha",
   "normalized_term": "dukkha",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "preferred_translation": "dissatisfaction",
   "alternative_translations": [
@@ -38,8 +53,8 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
   "notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness present in experience.",
   "related_terms": [
     "anicca",
-    "anattā",
-    "taṇhā",
+    "anatta",
+    "tanha",
     "nirodha"
   ],
   "tags": [
@@ -50,24 +65,38 @@ This repository is the foundation for a future Pāli lexicon, study tool, or tra
 }
 ```
 
-## 🤝 How to Contribute
+## How to Work in This Repo
 
-This project is in its early stages — contributions are welcome.
+If you are new to this project, start here:
 
-You can help by:
+1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md) to understand the translation voice.
+2. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) to learn each field.
+3. Use [`docs/TERM_ENTRY_STANDARD.md`](docs/TERM_ENTRY_STANDARD.md) when adding or revising a term.
+4. Validate term files before opening a pull request.
 
-- Adding new Pāli term entries
-- Improving the translation style guide
-- Suggesting schema enhancements
-- Opening issues for discussion
-- Reviewing existing entries
+## Local Validation
 
-If you're familiar with Pāli, linguistics, or structured data design, your input is especially valuable.
+To validate the dataset locally:
 
-## 📜 License
+```bash
+python -m pip install jsonschema
+python scripts/validate_terms.py
+```
 
-This project is licensed under the MIT License.  
+This runs the same schema validation logic used by GitHub Actions.
 
 ## Contributing
 
-For more information on contributing to this project, please see the [CONTRIBUTING.md](CONTRIBUTING.md) file.  
+Contributions are welcome, especially in these areas:
+
+- adding new term entries
+- improving existing entries
+- tightening schema rules
+- clarifying editorial guidance
+- reviewing terminology choices for consistency
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for the contribution workflow.
+
+## License
+
+This project is licensed under the MIT License. See [`LICENSE`](LICENSE).

@@ -231,6 +231,9 @@ Example tags:
 -   aggregates
 -   sense-fields
 
+For the preferred current tag set and when to use each tag, see
+`docs/TAG_STATUS_VOCABULARY.md`.
+
 ------------------------------------------------------------------------
 
 # Status Field
@@ -242,6 +245,9 @@ Allowed values:
   draft      Entry is incomplete
   reviewed   Entry checked but evolving
   stable     Current project standard
+
+For practical guidance on when to use each status, see
+`docs/TAG_STATUS_VOCABULARY.md`.
 
 ------------------------------------------------------------------------
 

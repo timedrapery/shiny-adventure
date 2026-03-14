@@ -1,46 +1,75 @@
-# Contribution Guidelines for the Pāli Lexicon Project
+# Contributing to Shiny Adventure
 
-Thank you for your interest in contributing to the Pāli Lexicon project! We welcome contributions from everyone. To ensure a smooth collaboration, please follow these guidelines:
+Thanks for contributing. This project is still early, so the most helpful
+contributions are the ones that make the dataset clearer, more consistent, and
+easier to extend.
 
-## How to Contribute
+## What This Repo Contains
 
-1. **Fork the Repository:** Start by forking this repository to your GitHub account.
+Shiny Adventure is a structured Pali translation dataset. Most contributions
+will involve one or more of these areas:
 
-2. **Clone the Repository:** Clone your forked repository to your local machine.
-   ```bash
-   git clone https://github.com/timedrapery/shiny-adventure.git
-   cd shiny-adventure
-   ```
+- editing term files in [`terms/`](terms)
+- refining the schema in [`schema/PALI_TERM_SCHEMA.json`](schema/PALI_TERM_SCHEMA.json)
+- improving the style guide in [`STYLE_GUIDE.md`](STYLE_GUIDE.md)
+- clarifying editorial documentation in [`docs/`](docs)
 
-3. **Create a New Branch:** Create a new branch for your feature or bug fix.
-   ```bash
-   git checkout -b feature-name
-   ```
+## First-Time Contributor Path
 
-4. **Make Your Changes:** Implement your changes and commit them with clear messages.
-   ```bash
-   git commit -m "Add feature-name"
-   ```
+If this is your first change, a good starting flow is:
 
-5. **Push Changes:** Push your changes back to your forked repository.
-   ```bash
-   git push origin feature-name
-   ```
+1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
+2. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md).
+3. Review one or two existing entries in [`terms/`](terms).
+4. Make a small change such as improving notes, adding tags, or drafting one new term.
 
-6. **Create a Pull Request:** Navigate to the original repository and create a pull request.
+## Contribution Workflow
 
-## Coding Standards
+1. Fork the repository.
+2. Clone your fork locally.
+3. Create a branch for your change.
+4. Make your edits.
+5. Validate the term files against the schema.
+6. Open a pull request with a clear summary of what changed and why.
 
-- Follow [Pāli coding conventions](link-to-conventions) when writing code.
-- Write clear and concise commit messages.
-- Ensure your code is free of linting errors.
+Example commands:
 
-## Review Process
+```bash
+git clone https://github.com/timedrapery/shiny-adventure.git
+cd shiny-adventure
+git checkout -b improve-term-entry
+python -m pip install jsonschema
+python scripts/validate_terms.py
+```
 
-- All pull requests will be reviewed by the maintainers.
-- Please be responsive to feedback and suggestions.
-- Your contribution will be merged once it meets the project's standards.
+## Editing Expectations
 
-## Contact
+- Keep filenames ASCII-safe and aligned with `normalized_term`.
+- Preserve project translation preferences unless you are intentionally proposing a change.
+- Use notes and context rules to explain important editorial choices.
+- Prefer small, focused pull requests over large mixed edits.
 
-If you have any questions regarding contributions, feel free to reach out to the maintainers or open an issue in the repository.
+## Before Opening a Pull Request
+
+Please check the following:
+
+- The JSON is valid.
+- The entry matches the schema.
+- The wording is consistent with [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
+- New major entries include notes, context rules, related terms, and example phrases.
+- The pull request description explains any non-obvious translation decision.
+
+## Review Notes
+
+Reviews will focus on:
+
+- schema correctness
+- consistency with the style guide
+- clarity of definitions and notes
+- whether translation decisions are explicit enough to be reusable
+
+## Questions and Discussion
+
+If you are unsure about a translation choice, schema change, or editorial rule,
+opening an issue or a draft pull request is completely fine. Early discussion is
+often the fastest way to improve the dataset.

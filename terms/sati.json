@@ -48,9 +48,13 @@
       "notes": "Useful for showing how the headword functions in compounds."
     }
   ],
+  "sutta_references": [
+    "MN 10",
+    "DN 22"
+  ],
   "tags": [
     "core-practice",
-    "mental-quality"
+    "mental-qualities"
   ],
   "status": "stable"
 }

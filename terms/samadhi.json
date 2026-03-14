@@ -44,9 +44,12 @@
       "notes": "Helpful morphological relation."
     }
   ],
+  "sutta_references": [
+    "MN 44"
+  ],
   "tags": [
     "core-practice",
-    "mental-quality"
+    "mental-qualities"
   ],
   "status": "stable"
 }
