@@ -15,6 +15,11 @@ If you are new to the project, this is the recommended reading order:
    Use this when creating or revising a term entry.
 5. [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
    Check this before choosing tags or assigning an editorial status.
+6. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
+   Read this when a term decision needs to propagate into compounds or formula
+   usage.
+7. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
+   Read this for the current repo-shaping roadmap and next editorial phase.
 
 ## What Each Document Does
 
@@ -22,6 +27,12 @@ If you are new to the project, this is the recommended reading order:
   Defines the dataset fields and how they should be used.
 - [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
   Explains how to build a good entry and what major entries should contain.
+- [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
+  Defines how translation policy should be divided between headwords,
+  compounds, and formulas.
+- [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
+  Defines the current roadmap for making the repo translation-ready by
+  doctrinal cluster.
 - [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
   Standardizes tag choices and status values.
 - [`PUNNAJI_USAGE_PROFILE.md`](PUNNAJI_USAGE_PROFILE.md)

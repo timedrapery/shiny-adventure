@@ -124,7 +124,7 @@ These reflect current OSF house style and may evolve.
 - nivarana -> distraction
 - nirodha -> quenching
 - khandha -> heap
-- sankhara -> choices in paticcasamuppada contexts
+- sankhara -> that which has been put together; putting together
 
 ### Special project preferences
 
