@@ -35,4 +35,4 @@ When editing or adding a term:
 2. Confirm the field meanings in the data dictionary.
 3. Follow the term entry standard while drafting.
 4. Choose tags and status from the standard vocabulary.
-5. Run local validation before committing.
+5. Run `python scripts/run_checks.py` before committing.

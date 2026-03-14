@@ -41,7 +41,7 @@ git clone https://github.com/timedrapery/shiny-adventure.git
 cd shiny-adventure
 git checkout -b improve-term-entry
 python -m pip install jsonschema
-python scripts/validate_terms.py
+python scripts/run_checks.py
 ```
 
 ## Editing Expectations
