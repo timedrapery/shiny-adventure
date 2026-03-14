@@ -9,72 +9,89 @@
     "dependent origination",
     "dependent co-arising"
   ],
-  "discouraged_translations": [],
+  "discouraged_translations": [
+    "chain of causation"
+  ],
   "untranslated_preferred": false,
-  "definition": "The principle that phenomena arise dependent upon conditions.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term, with Dhammarato reinforcing the practical, non-metaphysical reading. The repository keeps dependent arising as the default for now, but the term is now definitively governed by a here-now, practical, suffering-process reading rather than by a neutral or purely scholastic sequence model.",
+  "definition": "The conditioned arising of dissatisfaction and release, expressed as a here-and-now structure of dependent process rather than a self-standing essence.",
+  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadāsa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical causality: when conditions are present, suffering arises; when conditions are removed, the process ceases. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item.",
   "context_rules": [
     {
-      "context": "In most project translations and doctrinal discussion",
+      "context": "In most doctrinal and source-facing contexts",
       "rendering": "dependent arising",
-      "notes": "Default rendering."
+      "notes": "Default project rendering."
     },
     {
-      "context": "When referring to the standard English technical term for external comparison",
+      "context": "When discussing the teaching in relation to standard Buddhist-English scholarship",
       "rendering": "dependent origination",
-      "notes": "Allowed alternate when noting conventional terminology."
+      "notes": "Use only when continuity with established English terminology is helpful."
     },
     {
-      "context": "In Buddhadasa-style explanation stressing immediacy and process",
+      "context": "In Buddhadāsa-sensitive explanatory prose emphasizing reciprocal process and immediacy",
       "rendering": "dependent co-arising",
-      "notes": "Source-backed alternate when the mutual processive character is being highlighted."
+      "notes": "Allowed explanatory alternate, not the default doctrinal label."
     },
     {
-      "context": "In OSF practical doctrine explaining the immediate process of suffering and release",
+      "context": "When translating the twelve-link formula itself",
       "rendering": "dependent arising",
-      "notes": "Default retained, but governed by the here-now reading of the primary sources."
+      "notes": "Keep the rendering broad enough to cover the full sequence from avijjā through jarāmaraṇa."
     },
     {
-      "context": "In Buddhadasa-line explanation stressing immediacy, mutual process, and practical co-arising",
-      "rendering": "dependent co-arising",
-      "notes": "Primary-source-backed alternate within the OSF line."
+      "context": "In OSF practical teaching prose about the arising and ending of stress here and now",
+      "rendering": "dependent arising",
+      "notes": "Do not let the term drift into abstract cosmology when the passage is about immediate practice."
     }
   ],
   "related_terms": [
     "avijjā",
-    "saṅkhārā",
+    "saṅkhāra",
     "viññāṇa",
+    "nāmarūpa",
     "saḷāyatana",
-    "taṇhā",
-    "nirodha",
     "phassa",
-    "nidana",
-    "paccaya",
-    "vinnana-ahara",
-    "idappaccayatā",
-    "jāti",
+    "vedanā",
+    "taṇhā",
     "upādāna",
-    "bhava"
+    "bhava",
+    "jāti",
+    "jarāmaraṇa",
+    "paccaya",
+    "nidāna",
+    "idappaccayatā",
+    "vinnana-ahara",
+    "nirodha"
   ],
   "example_phrases": [
     {
+      "pali": "imasmiṃ sati idaṃ hoti",
+      "translation": "when this is, this comes to be",
+      "notes": "Core formula expressing conditional structure.",
+      "source": "SN 12.61"
+    },
+    {
       "pali": "avijjāpaccayā saṅkhārā",
-      "translation": "with ignorance as condition, putting things together",
+      "translation": "with ignorance as condition, putting together",
+      "notes": "Opening link in the standard sequence.",
       "source": "SN 12.2"
     },
     {
-      "pali": "imasmiṃ sati idaṃ hoti",
-      "translation": "when this is, this comes to be",
-      "notes": "Core formula associated with dependent arising.",
+      "pali": "evametassa kevalassa dukkhakkhandhassa samudayo hoti",
+      "translation": "that is how this whole heap of dissatisfaction comes to arise",
+      "notes": "Shows dependent arising as the arising of suffering, not just an abstract chain.",
       "source": "SN 12.2"
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "SN 12.61",
+    "MN 9"
   ],
   "tags": [
+    "core-doctrine",
     "dependent-origination",
-    "core-doctrine"
+    "context-sensitive",
+    "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Expanded as a rule-bearing major entry with stronger here-and-now causality guidance, broader cross-linking, and explicit distinction from purely scholastic or metaphysical readings."
 }

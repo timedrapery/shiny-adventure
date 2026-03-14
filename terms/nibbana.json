@@ -16,7 +16,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibbāna untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa's coolness language and Dhammarato's practical, non-mystified handling now sit above older secondary-source explanations.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibbāna untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa's coolness language and Dhammarato's practical, non-mystified handling now sit above older secondary-source explanations. Translators should keep the untranslated default in source-facing doctrinal prose and should only switch to quenching, extinguishment, or coolness when the local explanatory purpose is explicit.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -76,7 +76,7 @@
     },
     {
       "pali": "taṇhakkhayo nibbānaṃ",
-      "translation": "the wearing away of craving is nibbāna",
+      "translation": "the wearing away of ignorant wanting is nibbāna",
       "notes": "Shows the close connection between nibbāna and quenching of craving."
     }
   ],
@@ -86,5 +86,6 @@
   "tags": [
     "core-doctrine"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep the untranslated default explicit and to align linked examples with the current taṇhā rule."
 }

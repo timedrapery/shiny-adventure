@@ -3,28 +3,39 @@
   "normalized_term": "vicara",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "pondering, examination, continued mental engagement",
+  "literal_meaning": "pondering, examining, moving around in the mind",
   "preferred_translation": "pondering",
   "alternative_translations": [
-    "reflection"
+    "reflection",
+    "sustained attention"
   ],
   "discouraged_translations": [
     "sustained thought",
     "evaluation"
   ],
   "untranslated_preferred": false,
-  "definition": "The ongoing turning over or examining of a theme in the mind after it has been taken up.",
-  "notes": "Project preference is pondering because it pairs naturally with thinking and conveys continued mental engagement without sounding overly technical.",
+  "definition": "Ongoing mental turning-over or examination of a theme after it has been taken up by thinking.",
+  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose.",
   "context_rules": [
     {
-      "context": "In project translations of jhāna formulae",
+      "context": "In most jhāna descriptions and practical doctrinal prose",
       "rendering": "pondering",
-      "notes": "Default rendering."
+      "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose emphasizing reflective examination",
       "rendering": "reflection",
-      "notes": "Acceptable alternate when it reads better."
+      "notes": "Allowed alternate when it reads more cleanly."
+    },
+    {
+      "context": "When explaining the continuing engagement with a chosen theme after vitakka has taken it up",
+      "rendering": "sustained attention",
+      "notes": "Explanatory alternate, not the default translation."
+    },
+    {
+      "context": "When paired with vitakka in first-jhāna formulae",
+      "rendering": "pondering",
+      "notes": "Keep the pairing stable as thinking and pondering."
     }
   ],
   "related_terms": [
@@ -35,25 +46,34 @@
   ],
   "example_phrases": [
     {
-      "pali": "savitakkaṁ savicāraṁ",
+      "pali": "savitakkaṃ savicāraṃ",
       "translation": "with thinking and pondering",
-      "notes": "Common in descriptions of the first jhāna.",
+      "notes": "Classic first-jhāna expression.",
       "source": "DN 2"
     },
     {
-      "pali": "dhammavicāra",
-      "translation": "pondering Dhamma",
-      "notes": "Illustrative compound use.",
-      "source": "MN 119"
+      "pali": "avicārapaṭisaṃvedī",
+      "translation": "experiencing the fading of pondering",
+      "notes": "Useful for showing how the factor is dropped in the higher jhāna sequence.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "dhammavicaya",
+      "translation": "investigation of dhamma",
+      "notes": "Related family usage where the root sense of examining remains visible."
     }
   ],
   "sutta_references": [
     "DN 2",
-    "MN 119"
+    "MN 118",
+    "MN 44"
   ],
   "tags": [
+    "core-practice",
     "meditative-development",
-    "jhana-factors"
+    "jhana-factors",
+    "context-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Expanded to govern both first-jhāna and explanatory usage and to keep the vitakka-vicāra pair stable in translation."
 }

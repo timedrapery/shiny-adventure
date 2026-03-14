@@ -14,7 +14,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The pairing of name and form, or the mental and physical phenomena structured within experience.",
-  "notes": "The project keeps name-and-form as the default because it preserves the compact doctrinal structure of the compound without collapsing it too quickly into a paraphrase. Depending on context, the term may be unpacked as naming and materiality or as mental and physical phenomena or objects of consciousness. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and knowing.",
+  "notes": "The project keeps name-and-form as the default because it preserves the compact doctrinal structure of the compound without collapsing it too quickly into a paraphrase. Depending on context, the term may be unpacked as naming and materiality or as mental and physical phenomena or objects of consciousness. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and knowing. Translators should not silently replace the doctrinal compound with mind and body in core dependent-arising passages unless the broader explanatory goal is made explicit in the surrounding prose.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -43,6 +43,7 @@
     }
   ],
   "related_terms": [
+    "paṭiccasamuppāda",
     "viññāṇa",
     "rūpa",
     "vedanā",
@@ -73,5 +74,6 @@
     "dependent-origination",
     "context-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep the compound stable in dependent-arising contexts and to block casual collapse into mind-and-body paraphrase."
 }

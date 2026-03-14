@@ -7,78 +7,79 @@
   "preferred_translation": "not-self",
   "alternative_translations": [
     "not a self",
-    "selfless",
-    "free of I and mine",
-    "non-soul"
+    "without self",
+    "free of I and mine"
   ],
   "discouraged_translations": [
-    "no-self"
+    "no-self",
+    "selfless"
   ],
   "untranslated_preferred": false,
-  "definition": "Describing phenomena as not fit to be identified as self or owned as self.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository keeps not-self as the default because it remains the strongest reusable doctrinal rendering across the corpus, but Dhammarato's non-soul heading language and Buddhadasa's practical freedom from I and mine now define the main explanatory frame rather than functioning as secondary commentary.",
+  "definition": "Describing phenomena as not fit to be taken as self, owned as self, or identified as I or mine.",
+  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulae and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. Buddhadāsa-sensitive handling requires explicit resistance to reifying a hidden self or to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages and should use explanatory paraphrases only when the prose explicitly needs them.",
   "context_rules": [
     {
-      "context": "In direct doctrinal statements and three-marks formulations",
+      "context": "In direct doctrinal statements and three-characteristics formulations",
       "rendering": "not-self",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose unpacking the canonical formula",
+      "context": "In explanatory prose unpacking the predicate force of the term",
       "rendering": "not a self",
-      "notes": "Useful when English needs a more explicit predicate."
+      "notes": "Useful when English needs a more explicit sentence shape."
     },
     {
-      "context": "In prose emphasizing the absence of a self-quality in a phenomenon",
-      "rendering": "selfless",
-      "notes": "Use sparingly, since it can sound moral rather than analytical."
-    },
-    {
-      "context": "In Buddhadasa-style practical explanation of voidness and dependent arising",
+      "context": "In practical OSF or Buddhadāsa-sensitive explanation of release from appropriation",
       "rendering": "not-self",
-      "notes": "Keep the default rendering, but notes may explicitly unpack it as freedom from I and mine."
+      "notes": "Keep the canonical label while the notes explain its relation to I and mine."
     },
     {
-      "context": "In OSF practical explanation stressing release from appropriation as I and mine",
-      "rendering": "not-self",
-      "notes": "Primary-source-backed default with explicit practical unpacking."
-    },
-    {
-      "context": "In Dhammarato quote-book headings or close paraphrase of that idiom",
-      "rendering": "non-soul",
-      "notes": "Primary-source-backed heading-style alternate."
+      "context": "When the point is freedom from identification and ownership rather than a doctrinal formula",
+      "rendering": "without self",
+      "notes": "Allowed explanatory alternate, not the default translation."
     }
   ],
   "related_terms": [
-    "anicca",
     "dukkha",
-    "viññāṇa",
-    "atta",
+    "anicca",
+    "khandha",
+    "attā",
+    "diṭṭhi",
     "suññatā",
+    "viññāṇa",
     "tathatā"
   ],
   "example_phrases": [
     {
       "pali": "sabbe dhammā anattā",
       "translation": "all phenomena are not-self",
-      "notes": "Classic broad doctrinal formulation.",
+      "notes": "Broad canonical formula.",
       "source": "Dhp 279"
     },
     {
-      "pali": "etaṃ mama, esohamasmi, eso me attā ti samanupassituṃ",
-      "translation": "to regard this as mine, this I am, this is my self",
-      "notes": "This formula helps explain why anattā is rendered not-self rather than as an abstract slogan.",
+      "pali": "netaṃ mama, nesohamasmi, na me so attā",
+      "translation": "this is not mine, I am not this, this is not my self",
+      "notes": "Practical formula that explains the force of not-self.",
       "source": "SN 22.59"
+    },
+    {
+      "pali": "yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā",
+      "translation": "what is impermanent is dissatisfaction; what is dissatisfaction is not-self",
+      "notes": "Shows the close doctrinal link with impermanence and dissatisfaction.",
+      "source": "SN 22.15"
     }
   ],
   "sutta_references": [
-    "Dhp 279",
-    "SN 22.59"
+    "SN 22.15",
+    "SN 22.59",
+    "Dhp 279"
   ],
   "tags": [
     "core-doctrine",
     "three-marks",
-    "aggregates"
+    "aggregates",
+    "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Revised to block both metaphysical self-language and nihilistic no-self drift, with stronger guidance for practical not-self interpretation."
 }

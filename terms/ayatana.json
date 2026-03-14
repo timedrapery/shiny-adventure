@@ -3,63 +3,82 @@
   "normalized_term": "ayatana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "base, domain, sphere",
-  "preferred_translation": "cognitive realm",
+  "literal_meaning": "field, sphere, base",
+  "preferred_translation": "field",
   "alternative_translations": [
+    "sense field",
     "domain",
     "base"
   ],
   "discouraged_translations": [
-    "sense base"
+    "organ"
   ],
   "untranslated_preferred": false,
-  "definition": "A domain or field of cognition; in this project often rendered as cognitive realm unless a more specific sense-field meaning is intended.",
-  "notes": "This is a context-sensitive term. The project prefers cognitive realm for the broader term āyatana because it helps distinguish it from the more specific compound saḷāyatana and avoids flattening every use into a fixed technical gloss.",
+  "definition": "A field or domain of experience, especially in analytical contexts involving the sense fields and their objects.",
+  "notes": "The repo now uses field as the broad default for āyatana because it scales better across compounds than cognitive realm and avoids prematurely narrowing every case to a sense organ or abstract metaphysical base. Sense field remains the preferred alternate when the sixfold experiential structure needs to be explicit. Base can still work in established compounds, but it should not dominate the lexicon when field would read more naturally in contemporary English. Translators should keep the family stable between āyatana and saḷāyatana and should not let base silently replace field except where a local compound or formula clearly requires it.",
   "context_rules": [
     {
-      "context": "In broader analytical contexts where the term names a field of cognition or domain",
-      "rendering": "cognitive realm",
+      "context": "In general analytical contexts where āyatana names a domain of experience",
+      "rendering": "field",
       "notes": "Default project rendering."
     },
     {
-      "context": "When the passage clearly emphasizes spatial or functional range",
-      "rendering": "domain",
-      "notes": "Acceptable alternate in explanatory prose."
+      "context": "In the sixfold experiential system or where the sensory function needs to be explicit",
+      "rendering": "sense field",
+      "notes": "Use when the relation to eye, ear, nose, tongue, body, and mind is the point."
     },
     {
-      "context": "In compounds where a traditional base-language rendering is clearer",
+      "context": "In explanatory prose emphasizing scope or range rather than sensory function",
+      "rendering": "domain",
+      "notes": "Allowed alternate when it reads more clearly."
+    },
+    {
+      "context": "In compounds where conventional Buddhist-English phrasing is unusually entrenched",
       "rendering": "base",
-      "notes": "Use when it keeps the English compact without obscuring the function."
+      "notes": "Use sparingly and only when field would be clumsy."
     }
   ],
   "related_terms": [
     "saḷāyatana",
-    "viññāṇa",
-    "saññā",
     "mano",
+    "saññā",
+    "viññāṇa",
     "cakkhu",
     "sota",
-    "ghana",
-    "jivha"
+    "ghāna",
+    "jivhā",
+    "rūpa"
   ],
   "example_phrases": [
     {
+      "pali": "ajjhattikāni āyatanāni",
+      "translation": "the internal fields",
+      "notes": "Shows the broader family usage.",
+      "source": "MN 148"
+    },
+    {
       "pali": "manāyatana",
-      "translation": "the mind cognitive realm",
-      "notes": "Shows the term used in specific analytical compounds."
+      "translation": "the mind field",
+      "notes": "Illustrates compound handling under the house default."
     },
     {
       "pali": "dhammāyatana",
-      "translation": "the phenomena cognitive realm",
-      "notes": "Useful for contexts where the object-side domain is in view."
+      "translation": "the dhamma field",
+      "notes": "Useful where dhamma functions as the object-side field of mind.",
+      "source": "MN 137"
     }
   ],
   "sutta_references": [
-    "MN 148"
+    "MN 148",
+    "MN 137",
+    "SN 35.23"
   ],
   "tags": [
     "core-doctrine",
-    "context-sensitive"
+    "sense-fields",
+    "context-sensitive",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Changed the default from cognitive realm to field and added explicit rules for sense-field, domain, and base usage."
 }

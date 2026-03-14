@@ -6,14 +6,16 @@
   "literal_meaning": "form, appearance",
   "preferred_translation": "form",
   "alternative_translations": [
-    "material form"
+    "material form",
+    "visible form"
   ],
   "discouraged_translations": [
-    "body"
+    "body",
+    "matter"
   ],
   "untranslated_preferred": false,
-  "definition": "Material form or physical aspect within the analysis of experience.",
-  "notes": "The project prefers form because it is compact and already familiar in aggregate analysis. Material form can help in explanatory prose where the physical dimension needs to be made explicit, but body is too narrow for the full range of rūpa.",
+  "definition": "Form as the material or visible side of experience, especially in aggregate analysis and sense-field contexts.",
+  "notes": "The project keeps form as the default because it works across the aggregate framework and the sixfold sense-field system without forcing a single modern theory of matter. Material form is useful when the physical side needs to be made explicit, but body is too narrow and matter is too reified for blanket use. In sense-field contexts rūpā often means visible forms, while in the five heaps rūpa marks the material side of the analysis more broadly. Translators should keep the aggregate, visible-object, and nāmarūpa uses distinct and should not let matter or body become automatic replacements.",
   "context_rules": [
     {
       "context": "In most aggregate and doctrinal contexts",
@@ -21,41 +23,64 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose distinguishing physicality from mental factors",
+      "context": "When the physical side of the contrast with nāma needs to be explicit",
       "rendering": "material form",
-      "notes": "Use when added clarity outweighs brevity."
+      "notes": "Use in explanatory prose or where plain form would be too thin."
+    },
+    {
+      "context": "In eye-and-form sense-field contexts such as cakkhuñca paṭicca rūpe ca",
+      "rendering": "visible forms",
+      "notes": "Use the visual-object sense rather than the broader aggregate sense."
+    },
+    {
+      "context": "In compounds such as rūpakkhandha",
+      "rendering": "form",
+      "notes": "Keep continuity with the house treatment of khandha."
     }
   ],
   "related_terms": [
     "khandha",
-    "vedanā",
-    "saḷāyatana",
     "nāmarūpa",
-    "kaya",
+    "āyatana",
+    "saḷāyatana",
     "cakkhu",
+    "vedanā",
     "cakkhu-vinnana",
-    "photthabba",
-    "kabalinkara-ahara"
+    "kabalinkara-ahara",
+    "kāya",
+    "phoṭṭhabba"
   ],
   "example_phrases": [
     {
-      "pali": "rūpakkhandha",
+      "pali": "rūpakkhandho",
       "translation": "the form heap",
-      "notes": "Basic aggregate usage."
+      "notes": "Aggregate usage.",
+      "source": "SN 22.56"
     },
     {
-      "pali": "cakkhuñca paṭicca rūpe ca",
-      "translation": "dependent on eye and forms",
-      "notes": "Shows the term in sense-field context."
+      "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
+      "translation": "dependent on eye and visible forms, eye-knowing arises",
+      "notes": "Sense-field usage.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, the six sense fields",
+      "notes": "Shows rūpa inside the dependent-arising compound.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [
-    "SN 22.79",
+    "SN 22.56",
+    "SN 12.2",
     "MN 148"
   ],
   "tags": [
     "core-doctrine",
-    "aggregates"
+    "aggregates",
+    "sense-fields",
+    "context-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Strengthened to distinguish aggregate, visible-object, and name-and-form uses without allowing body or matter to drift in as blanket defaults."
 }

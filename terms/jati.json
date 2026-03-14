@@ -13,7 +13,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "Rebirth, conception, or birth, especially as conditioned by becoming in dependent arising.",
-  "notes": "This entry keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence.",
+  "notes": "This entry keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence. Translators should not silently replace rebirth with birth or conception inside the standard chain unless the local passage explicitly narrows the point and the surrounding translation stays consistent.",
   "context_rules": [
     {
       "context": "In the standard dependent-arising sequence",
@@ -66,5 +66,6 @@
     "dependent-origination",
     "four-noble-truths"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Strengthened to keep dependent-arising translation stable while still allowing narrower explanatory alternates where context clearly warrants them."
 }
