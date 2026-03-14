@@ -1,5 +1,5 @@
 {
-  "term": "att\u0101",
+  "term": "attā",
   "normalized_term": "atta",
   "entry_type": "minor",
   "part_of_speech": "noun",
@@ -15,8 +15,9 @@
   "untranslated_preferred": false,
   "definition": "Self, especially in contexts where the notion of an enduring owner or controller is under examination.",
   "related_terms": [
-    "anatt\u0101",
-    "su\u00f1\u00f1at\u0101"
+    "anattā",
+    "attavādupādāna",
+    "suññatā"
   ],
   "sutta_references": [
     "SN 22.59"

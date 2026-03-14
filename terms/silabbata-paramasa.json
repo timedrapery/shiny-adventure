@@ -1,23 +1,70 @@
 {
   "term": "sīlabbata-parāmāsa",
   "normalized_term": "silabbata-paramasa",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "grasping at rules and observances",
   "preferred_translation": "grasping at rules and observances",
   "alternative_translations": [
-    "attachment to rules and observances"
+    "attachment to rules and observances",
+    "ritualized rule-clinging"
   ],
   "discouraged_translations": [
     "discipline"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to rules and observances as sufficient in themselves.",
+  "definition": "Clinging to rules, practices, or observances as ends in themselves or as sufficient for liberation.",
+  "notes": "The project keeps grasping at rules and observances as the default because it states the practical problem directly. The issue is not ethical conduct itself, which the repository already treats positively under sīla, but the mistaken holding that external practices or procedures are liberating in themselves. This is one of the fetters abandoned by the stream-enterer and should not be flattened into a rejection of discipline as such.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and stream-entry analysis",
+      "rendering": "grasping at rules and observances",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the holding or attachment side",
+      "rendering": "attachment to rules and observances",
+      "notes": "Allowed alternate when the sentence benefits from it."
+    },
+    {
+      "context": "When clarifying the difference between wholesome discipline and liberating misunderstanding",
+      "rendering": "grasping at rules and observances",
+      "notes": "Keep the critical point on grasping, not on rules as such."
+    }
+  ],
+  "related_terms": [
+    "pāṭimokkha",
+    "sakkaya-ditthi",
+    "saṃyojana",
+    "sīla",
+    "sīlabbatupādāna",
+    "sotāpanna",
+    "upādāna",
+    "vicikicchā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sīlabbataparāmāso pahīno hoti",
+      "translation": "grasping at rules and observances is abandoned",
+      "notes": "Liberation-stage usage.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "na sīlabbatena suddhi",
+      "translation": "there is no purification merely by rules and observances",
+      "notes": "Captures the practical doctrinal point of the term."
+    }
+  ],
   "sutta_references": [
+    "MN 118",
+    "SN 55.3",
     "MN 44"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry that distinguishes wholesome discipline from grasping at forms of discipline."
 }

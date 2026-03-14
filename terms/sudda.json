@@ -1,0 +1,20 @@
+{
+  "normalized_term": "sudda",
+  "term": "sudda",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "laboring commoner",
+  "preferred_translation": "laborer",
+  "definition": "A member of the laboring social class.",
+  "notes": "Use clear contemporary English in narrative and social contexts. Keep role and status plain rather than importing later devotional or academic jargon.",
+  "tags": [
+    "persons"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "commoner"
+  ],
+  "discouraged_translations": [
+    "caste"
+  ]
+}

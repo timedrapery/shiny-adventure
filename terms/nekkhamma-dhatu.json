@@ -1,0 +1,14 @@
+{
+  "normalized_term": "nekkhamma-dhatu",
+  "term": "nekkhamma-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of renunciation",
+  "preferred_translation": "element of renunciation",
+  "definition": "The element or mode of renunciation.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

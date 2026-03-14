@@ -1,0 +1,14 @@
+{
+  "normalized_term": "asurakaya",
+  "term": "asurakāya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "host of asuras",
+  "preferred_translation": "asura host",
+  "definition": "A class or host of asuras in cosmological passages.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

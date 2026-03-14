@@ -1,0 +1,14 @@
+{
+  "normalized_term": "phassa-dhatu",
+  "term": "phassa-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of contact",
+  "preferred_translation": "contact element",
+  "definition": "The element or domain of contact.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

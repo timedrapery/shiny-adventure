@@ -1,0 +1,14 @@
+{
+  "normalized_term": "phassayatana",
+  "term": "phassāyatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "field of contact",
+  "preferred_translation": "contact field",
+  "definition": "The field or sphere of contact.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

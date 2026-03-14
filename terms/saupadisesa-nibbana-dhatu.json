@@ -1,0 +1,16 @@
+{
+  "normalized_term": "saupadisesa-nibbana-dhatu",
+  "term": "sa-upādisesa-nibbāna-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "nibbāna element with residue remaining",
+  "preferred_translation": "nibbāna element with remainder",
+  "definition": "The nibbāna element with residue remaining.",
+  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
+  "tags": [
+    "liberation"
+  ],
+  "status": "draft",
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "nibbāna element with remainder"
+}

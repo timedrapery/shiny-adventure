@@ -1,0 +1,20 @@
+{
+  "normalized_term": "anagara",
+  "term": "anagāra",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "homelessness",
+  "preferred_translation": "homeless life",
+  "definition": "The life gone forth from household life into homelessness.",
+  "notes": "Use concrete social or geographic English. Keep the narrative sense plain and avoid inflating ordinary world-language into abstraction.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "homelessness"
+  ],
+  "discouraged_translations": [
+    "vagrancy"
+  ]
+}

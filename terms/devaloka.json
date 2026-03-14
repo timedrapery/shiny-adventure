@@ -1,0 +1,17 @@
+{
+  "normalized_term": "devaloka",
+  "term": "devaloka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "deva world",
+  "preferred_translation": "deva world",
+  "definition": "A world or realm of devas.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "heavenly world"
+  ]
+}

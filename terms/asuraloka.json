@@ -1,0 +1,14 @@
+{
+  "normalized_term": "asuraloka",
+  "term": "asuraloka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "asura world",
+  "preferred_translation": "asura world",
+  "definition": "A world or realm of asuras.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

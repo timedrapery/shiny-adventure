@@ -1,0 +1,14 @@
+{
+  "normalized_term": "dhammatthiti",
+  "term": "dhammatthiti",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "stability of dhamma",
+  "preferred_translation": "stability of the pattern",
+  "definition": "The stability or standing order of the pattern of things.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "draft"
+}

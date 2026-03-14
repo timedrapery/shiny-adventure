@@ -1,13 +1,59 @@
 {
-  "term": "vipassana-nana",
+  "term": "vipassanāñāṇa",
   "normalized_term": "vipassana-nana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "preferred_translation": "insight knowledge",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
   "literal_meaning": "insight knowledge",
+  "preferred_translation": "insight knowledge",
+  "alternative_translations": [
+    "knowledge through seeing clearly",
+    "knowledge from insight"
+  ],
+  "discouraged_translations": [
+    "vipassana stage"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Knowledge arising through clear seeing into the nature of experience.",
+  "notes": "The repository keeps insight knowledge as the default because it is concise and doctrinally transparent. This entry is governed carefully so it does not import the whole later commentarial ladder of insight knowledges unless a passage explicitly requires that background. In this dataset the term should normally refer to knowledge arising from insight practice or clear seeing in a broad early-Buddhist sense.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practice contexts",
+      "rendering": "insight knowledge",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the knowing produced by direct clear seeing",
+      "rendering": "knowledge through seeing clearly",
+      "notes": "Allowed alternate when the sentence benefits from unpacking."
+    },
+    {
+      "context": "When discussing later technical systems of named insight knowledges",
+      "rendering": "insight knowledge",
+      "notes": "Keep the rendering stable but note separately if later-system usage is intended."
+    }
+  ],
+  "related_terms": [
+    "bhāvanā",
+    "ñāṇa",
+    "paññā",
+    "vipassanā",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vipassanāñāṇa",
+      "translation": "insight knowledge",
+      "notes": "Headword form in meditative explanation."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.23"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-practice",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry with explicit limits against unmarked importation of later commentarial stage systems."
 }

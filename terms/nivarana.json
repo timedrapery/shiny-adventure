@@ -6,55 +6,61 @@
   "literal_meaning": "covering, obstruction",
   "preferred_translation": "distraction",
   "alternative_translations": [
-    "obstruction",
-    "hindrances"
+    "hindrance",
+    "obstruction"
   ],
   "discouraged_translations": [
-    "hindrance"
+    "enemy"
   ],
   "untranslated_preferred": false,
-  "definition": "A distraction that covers over clarity and interferes with collected practice.",
-  "notes": "Project preference is distraction rather than hindrance. Hindrance is familiar Buddhist English, but distraction better fits the practical function of these states in meditation and training: they pull the mind away, scatter it, or cloud it rather than merely standing in front of it like a barrier. The term should be heard as a practical meditative diagnosis of what obscures clarity and composure. The OSF glossary uses the more conventional hindrances for nīvaraṇa; the repository records that as a source-backed alternate while retaining distractions as the house default.",
+  "definition": "A distracting or obstructing state that covers over clarity and interferes with collected practice.",
+  "notes": "The project keeps distraction as the default because it emphasizes what these states do in practice: they pull the mind away, cloud it, and prevent steadiness. Hindrance remains an accepted alternate because it is standard Buddhist-English and still useful in comparative prose. The important editorial point is not to treat nīvaraṇa as a vague moral category. It names a practical meditative framework, especially the five distractions that block delight, composure, and jhāna.",
   "context_rules": [
     {
-      "context": "In most practical and meditative contexts",
+      "context": "In most practical and meditative-development contexts",
       "rendering": "distraction",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing how the state blocks clarity",
+      "context": "In comparative doctrinal prose using familiar Buddhist-English terminology",
+      "rendering": "hindrance",
+      "notes": "Allowed alternate when reader continuity matters."
+    },
+    {
+      "context": "When the covering or blocking function is the main point",
       "rendering": "obstruction",
-      "notes": "Acceptable alternate when the covering force needs emphasis."
+      "notes": "Use sparingly to emphasize what the state does."
     },
     {
-      "context": "When the passage treats the fivefold set as a meditative framework of what must be abandoned",
-      "rendering": "distraction",
-      "notes": "Keep the practical family resemblance across the five members explicit."
-    },
-    {
-      "context": "In OSF-glossary style conventional Buddhist explanation",
-      "rendering": "hindrances",
-      "notes": "Source-backed alternate, not the house default."
+      "context": "In the fixed fivefold framework",
+      "rendering": "distractions",
+      "notes": "Keep the family resemblance across sensual wanting, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt."
     }
   ],
   "related_terms": [
-    "kāmacchanda",
-    "byāpāda",
-    "thīna-middha",
-    "uddhacca-kukkucca",
-    "vicikicchā",
-    "samādhi",
-    "sati",
     "appamāda",
     "ayoniso-manasikara",
-    "yoniso manasikāra",
-    "jhāna"
+    "bojjhaṅga",
+    "byāpāda",
+    "jhāna",
+    "kāmacchanda",
+    "kukkucca",
+    "middha",
+    "paṭigha",
+    "samādhi",
+    "sati",
+    "thīna",
+    "thina-middha",
+    "uddhacca",
+    "uddhacca-kukkucca",
+    "vicikicchā",
+    "yoniso-manasikara"
   ],
   "example_phrases": [
     {
       "pali": "pañca nīvaraṇā",
       "translation": "the five distractions",
-      "notes": "Main collective expression for the group.",
+      "notes": "Standard framework expression.",
       "source": "DN 2"
     },
     {
@@ -62,16 +68,25 @@
       "translation": "having abandoned these five distractions",
       "notes": "Classic transition into collected practice.",
       "source": "DN 2"
+    },
+    {
+      "pali": "nīvaraṇānaṃ pahānāya",
+      "translation": "for the abandoning of the distractions",
+      "notes": "Shows the framework as a practical training task.",
+      "source": "MN 118"
     }
   ],
   "sutta_references": [
     "DN 2",
-    "MN 39"
+    "MN 118",
+    "SN 46.51"
   ],
   "tags": [
     "core-practice",
     "meditative-development",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Clarified distraction versus hindrance usage and strengthened cross-links to the five-member hindrance framework and its practical role in meditation."
 }

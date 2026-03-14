@@ -1,0 +1,18 @@
+{
+  "normalized_term": "samphassa",
+  "term": "samphassa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "felt contact, conjunction",
+  "preferred_translation": "contact-event",
+  "definition": "The conjunctional contact-event of a sense process.",
+  "notes": "Use practical meditative language. Avoid later-system jargon unless the term itself clearly requires technical treatment.",
+  "tags": [
+    "core-practice",
+    "meditative-development"
+  ],
+  "status": "draft",
+  "alternative_translations": [
+    "contact"
+  ]
+}

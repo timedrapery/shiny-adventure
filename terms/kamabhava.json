@@ -1,0 +1,60 @@
+{
+  "term": "kāmabhava",
+  "normalized_term": "kamabhava",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "sensual existence or sensual becoming",
+  "preferred_translation": "sensual existence",
+  "alternative_translations": [
+    "sensual becoming",
+    "the sensual mode of existence"
+  ],
+  "discouraged_translations": [
+    "sensual life"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Existence or becoming within the sensual domain.",
+  "notes": "The repository keeps sensual existence as the default because it reads clearly as one of the three modes of bhava while still allowing becoming-language when process is more important than domain. The term should be handled functionally, not as speculative cosmology alone. In many contexts it names the sensual sphere to which attachment and rebirth are tied.",
+  "context_rules": [
+    {
+      "context": "In the three modes of existence framework",
+      "rendering": "sensual existence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing process rather than domain",
+      "rendering": "sensual becoming",
+      "notes": "Allowed alternate when continuity with bhava-language is important."
+    },
+    {
+      "context": "When the passage is clearly classifying a domain or realm of rebirth",
+      "rendering": "the sensual mode of existence",
+      "notes": "Use when a slightly fuller phrase helps modern readers."
+    }
+  ],
+  "related_terms": [
+    "arūpabhava",
+    "bhava",
+    "kama-raga",
+    "kama-tanha",
+    "loka",
+    "rūpabhava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmabhavo",
+      "translation": "sensual existence",
+      "notes": "One member of the threefold bhava framework."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.76",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

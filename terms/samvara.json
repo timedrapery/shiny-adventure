@@ -1,0 +1,66 @@
+{
+  "term": "saṃvara",
+  "normalized_term": "samvara",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "restraint, guarding",
+  "preferred_translation": "restraint",
+  "alternative_translations": [
+    "guarding",
+    "containment"
+  ],
+  "discouraged_translations": [
+    "suppression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Restraint or guarding that keeps the senses, speech, and conduct from running into unwholesome patterns.",
+  "notes": "The repository keeps restraint as the default because it is already stable in early-Buddhist ethical and practical language. Guarding remains acceptable when the active protective function is central. Suppression is discouraged because saṃvara is not mere pushing-down but intelligent containment and protection. This term is especially important in compounds like indriya-saṃvara.",
+  "context_rules": [
+    {
+      "context": "In most ethical and practical contexts",
+      "rendering": "restraint",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compounds such as indriya-saṃvara where the active protective function should be heard",
+      "rendering": "guarding",
+      "notes": "Allowed alternate when it reads more naturally."
+    },
+    {
+      "context": "In explanatory prose emphasizing boundedness or non-spillover of behavior",
+      "rendering": "containment",
+      "notes": "Use sparingly when the line benefits from it."
+    }
+  ],
+  "related_terms": [
+    "appamāda",
+    "indriya",
+    "pāṭimokkha",
+    "samādhi",
+    "sīla",
+    "yoniso-manasikara"
+  ],
+  "example_phrases": [
+    {
+      "pali": "indriyasaṃvaro",
+      "translation": "sense restraint",
+      "notes": "Core practical compound.",
+      "source": "MN 38"
+    },
+    {
+      "pali": "saṃvaraṃ āpajjati",
+      "translation": "one enters restraint",
+      "notes": "Shows the term as active guarding."
+    }
+  ],
+  "sutta_references": [
+    "MN 38",
+    "SN 35.120"
+  ],
+  "tags": [
+    "core-practice",
+    "ethics",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

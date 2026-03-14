@@ -1,13 +1,63 @@
 {
   "term": "kukkucca",
   "normalized_term": "kukkucca",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
+  "literal_meaning": "remorse, worry over what was done or not done",
   "preferred_translation": "remorse",
-  "definition": "Agitated remorse that disturbs steadiness of mind.",
-  "status": "reviewed",
-  "literal_meaning": "remorse",
+  "alternative_translations": [
+    "anxious regret",
+    "worry"
+  ],
+  "discouraged_translations": [
+    "guilt"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Agitated remorse or worry about what has been done or left undone, especially as it disturbs steadiness of mind.",
+  "notes": "The project keeps remorse as the default because it fits the practical function of the term within uddhacca-kukkucca. Anxious regret can help when the troubled, looping quality needs to be heard more clearly. Guilt is discouraged because it imports a moral-identity frame that is not necessary to the Pali term. In practice kukkucca is not wholesome reflection but the unsettled churning that prevents collectedness.",
+  "context_rules": [
+    {
+      "context": "In the hindrance compound uddhacca-kukkucca",
+      "rendering": "remorse",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing repetitive troubled regret",
+      "rendering": "anxious regret",
+      "notes": "Allowed alternate when plain remorse sounds too static."
+    },
+    {
+      "context": "In practical prose emphasizing agitated mental preoccupation",
+      "rendering": "worry",
+      "notes": "Use sparingly and only when the line remains clearly within practice context."
+    }
+  ],
+  "related_terms": [
+    "hiri",
+    "nīvaraṇa",
+    "ottappa",
+    "passaddhi",
+    "samādhi",
+    "uddhacca",
+    "uddhacca-kukkucca"
+  ],
+  "example_phrases": [
+    {
+      "pali": "uddhaccakukkuccaṃ",
+      "translation": "restlessness and remorse",
+      "notes": "Standard hindrance expression.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "SN 46.51"
+  ],
   "tags": [
+    "core-practice",
+    "meditative-development",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry governing remorse language within the hindrance compound."
 }

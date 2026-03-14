@@ -1,0 +1,58 @@
+{
+  "term": "arūpabhava",
+  "normalized_term": "arupabhava",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "formless existence or formless becoming",
+  "preferred_translation": "formless existence",
+  "alternative_translations": [
+    "formless becoming",
+    "the formless mode of existence"
+  ],
+  "discouraged_translations": [
+    "spiritual realm"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Existence or becoming within the formless domain.",
+  "notes": "The repository keeps formless existence as the default because it fits the threefold bhava framework and aligns with arūpa-rāga. The term should be handled as a doctrinal category of refined becoming, not as a loose mystical label. Formless becoming remains acceptable where continuity with the headword bhava is the main priority.",
+  "context_rules": [
+    {
+      "context": "In the three modes of existence framework",
+      "rendering": "formless existence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing process rather than domain",
+      "rendering": "formless becoming",
+      "notes": "Allowed alternate where continuity with bhava-language matters."
+    },
+    {
+      "context": "When the passage is classifying refined modes of becoming or rebirth",
+      "rendering": "the formless mode of existence",
+      "notes": "Use when a fuller phrase helps modern readers."
+    }
+  ],
+  "related_terms": [
+    "arupa-raga",
+    "bhava",
+    "kāmabhava",
+    "rūpabhava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "arūpabhavo",
+      "translation": "formless existence",
+      "notes": "One member of the threefold bhava framework."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.76",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

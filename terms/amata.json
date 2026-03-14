@@ -33,22 +33,23 @@
     }
   ],
   "related_terms": [
-    "nibb\u0101na",
-    "appam\u0101da",
-    "vimutti",
-    "bodhi",
+    "appamāda",
     "asankhata",
-    "su\u00f1\u00f1at\u0101"
+    "asaṅkhata",
+    "bodhi",
+    "nibbāna",
+    "suññatā",
+    "vimutti"
   ],
   "example_phrases": [
     {
-      "pali": "appam\u0101do amatapada\u1e43",
+      "pali": "appamādo amatapadaṃ",
       "translation": "heedfulness is the deathless path",
       "notes": "Classic practical formula.",
       "source": "Dhp 21"
     },
     {
-      "pali": "amata\u1e43 adhigacchati",
+      "pali": "amataṃ adhigacchati",
       "translation": "one reaches the deathless",
       "notes": "Compact doctrinal usage.",
       "source": "MN 26"

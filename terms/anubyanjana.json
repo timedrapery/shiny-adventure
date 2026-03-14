@@ -1,0 +1,17 @@
+{
+  "normalized_term": "anubyanjana",
+  "term": "anubyañjana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "secondary feature",
+  "preferred_translation": "secondary feature",
+  "definition": "A secondary feature or detail accompanying a more primary sign or appearance.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "detail"
+  ]
+}

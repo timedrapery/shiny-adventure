@@ -1,26 +1,71 @@
 {
   "term": "saṃsāra",
   "normalized_term": "samsara",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "wandering on",
   "preferred_translation": "saṃsāra",
   "alternative_translations": [
-    "round of rebirth",
-    "wandering on"
+    "wandering on",
+    "round of rebirth"
   ],
   "discouraged_translations": [
     "life cycle"
   ],
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "saṃsāra (the round of rebirth)",
-  "definition": "The beginningless wandering-on of conditioned existence and rebirth.",
+  "gloss_on_first_occurrence": "saṃsāra (wandering on)",
+  "definition": "The ongoing wandering-on of conditioned existence, dissatisfaction, and rebirth.",
+  "notes": "The repository keeps saṃsāra untranslated by default because the term carries a dense doctrinal range that is narrowed too quickly by most English substitutes. Wandering on is the preferred gloss when explanation is needed because it preserves both motion and lack of finality. Round of rebirth remains acceptable in explanatory prose, but the term should not be treated as mere cosmology; it is also the ongoing persistence of conditioned bondage.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "saṃsāra",
+      "notes": "Default project practice is to keep the term untranslated."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose requiring a gloss",
+      "rendering": "wandering on",
+      "notes": "Preferred gloss because it preserves the literal force."
+    },
+    {
+      "context": "In explanatory prose emphasizing repeated birth and death",
+      "rendering": "round of rebirth",
+      "notes": "Allowed alternate when the rebirth dimension needs explicit wording."
+    }
+  ],
+  "related_terms": [
+    "bhava",
+    "dukkha",
+    "jarāmaraṇa",
+    "jāti",
+    "loka",
+    "nibbāna",
+    "taṇhā",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anamataggoyaṃ saṃsāro",
+      "translation": "this saṃsāra is without discoverable beginning",
+      "notes": "Classic formula where leaving the term untranslated is natural.",
+      "source": "SN 15.1"
+    },
+    {
+      "pali": "sandhāvitaṃ saṃsaritaṃ",
+      "translation": "there has been running on and wandering on",
+      "notes": "Useful for the processive feel of the term.",
+      "source": "SN 15.3"
+    }
+  ],
   "sutta_references": [
-    "SN 15.1"
+    "SN 15.1",
+    "SN 15.3"
   ],
   "tags": [
     "core-doctrine",
-    "translation-sensitive"
+    "translation-sensitive",
+    "liberation"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Promoted from a thin minor entry to a major untranslated entry with explicit glossing and anti-cosmological drift guidance."
 }

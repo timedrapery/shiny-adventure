@@ -1,0 +1,14 @@
+{
+  "normalized_term": "manussa-yoni",
+  "term": "manussa-yoni",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "human birth",
+  "preferred_translation": "human birth",
+  "definition": "The human mode of birth or womb.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

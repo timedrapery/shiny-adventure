@@ -1,0 +1,17 @@
+{
+  "normalized_term": "petaloka",
+  "term": "petaloka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "peta world",
+  "preferred_translation": "peta world",
+  "definition": "A world or realm of peta beings.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "hungry-ghost world"
+  ]
+}

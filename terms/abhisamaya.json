@@ -1,0 +1,17 @@
+{
+  "normalized_term": "abhisamaya",
+  "term": "abhisamaya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "penetration, breakthrough understanding",
+  "preferred_translation": "penetration",
+  "definition": "Penetration or breakthrough understanding of a truth.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "breakthrough understanding"
+  ]
+}

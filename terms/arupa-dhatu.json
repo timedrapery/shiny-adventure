@@ -1,0 +1,14 @@
+{
+  "normalized_term": "arupa-dhatu",
+  "term": "arūpa-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "formless element",
+  "preferred_translation": "formless element",
+  "definition": "The element or domain of the formless.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

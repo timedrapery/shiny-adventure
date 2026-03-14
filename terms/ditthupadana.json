@@ -1,14 +1,63 @@
 {
-  "term": "ditthupadana",
+  "term": "diṭṭhupādāna",
   "normalized_term": "ditthupadana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "preferred_translation": "view-clinging",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "view-clinging",
+  "literal_meaning": "clinging to views",
+  "preferred_translation": "clinging to views",
+  "alternative_translations": [
+    "view-clinging",
+    "view appropriation"
+  ],
+  "discouraged_translations": [
+    "opinions"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clinging to views, doctrines, or fixed standpoints as possessions or identities.",
+  "notes": "The project keeps clinging to views as the default because it is direct and doctrinally clear. View-clinging is acceptable in compact analytical prose. The term belongs to the fourfold upādāna framework and should not be reduced to merely having opinions. The point is appropriative fixation on views.",
+  "context_rules": [
+    {
+      "context": "In the four clinging-types framework",
+      "rendering": "clinging to views",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compressed doctrinal prose or list form",
+      "rendering": "view-clinging",
+      "notes": "Allowed alternate when brevity helps."
+    },
+    {
+      "context": "In explanatory prose emphasizing the appropriating function of upādāna",
+      "rendering": "view appropriation",
+      "notes": "Use when the repo's broader upādāna logic should remain explicit."
+    }
+  ],
+  "related_terms": [
+    "attavādupādāna",
+    "diṭṭhi",
+    "paṭiccasamuppāda",
+    "sakkaya-ditthi",
+    "taṇhā",
+    "upādāna",
+    "vicikicchā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭhupādānaṃ",
+      "translation": "clinging to views",
+      "notes": "One member of the fourfold set.",
+      "source": "MN 11"
+    }
+  ],
+  "sutta_references": [
+    "MN 11",
+    "MN 9"
+  ],
   "tags": [
     "core-doctrine",
+    "dependent-origination",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry governing the view-based member of the four clinging types."
 }

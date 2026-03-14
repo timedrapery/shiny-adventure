@@ -1,0 +1,14 @@
+{
+  "normalized_term": "apaya",
+  "term": "apāya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "state of loss",
+  "preferred_translation": "woeful state",
+  "definition": "An unhappy destination or state of loss.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

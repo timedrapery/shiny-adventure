@@ -1,13 +1,62 @@
 {
-  "term": "thina",
+  "term": "thīna",
   "normalized_term": "thina",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
+  "literal_meaning": "sluggishness, stiffness",
   "preferred_translation": "sluggishness",
-  "definition": "Mental sluggishness that sinks energy and readiness.",
-  "status": "reviewed",
-  "literal_meaning": "sluggishness",
+  "alternative_translations": [
+    "mental sluggishness",
+    "dullness"
+  ],
+  "discouraged_translations": [
+    "depression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The sluggish, inert, or dulling side of the hindrance pair thīna-middha.",
+  "notes": "The project keeps sluggishness as the default because it names the sinking loss of readiness without importing modern clinical language. Thīna should usually be understood together with middha in the fixed hindrance pair, but it can still be explained separately so the mental side of the pair is clear: thīna is the slackness or dull inertia, while middha is the drooping heaviness and drowsiness.",
+  "context_rules": [
+    {
+      "context": "In explanation of the hindrance pair thīna-middha",
+      "rendering": "sluggishness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose distinguishing the mental dulling side from bodily heaviness",
+      "rendering": "mental sluggishness",
+      "notes": "Use when the contrast with middha needs explicit wording."
+    },
+    {
+      "context": "In short practical prose where a simpler English noun is useful",
+      "rendering": "dullness",
+      "notes": "Allowed alternate when the line stays clearly within practice context."
+    }
+  ],
+  "related_terms": [
+    "appamāda",
+    "bojjhaṅga",
+    "middha",
+    "nīvaraṇa",
+    "thina-middha",
+    "viriya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "thīnamiddhaṃ",
+      "translation": "sluggishness and drowsiness",
+      "notes": "Standard hindrance expression.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "SN 46.51"
+  ],
   "tags": [
+    "core-practice",
+    "meditative-development",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry clarifying its role inside the thīna-middha hindrance pair."
 }

@@ -1,23 +1,72 @@
 {
   "term": "sakkāya-diṭṭhi",
   "normalized_term": "sakkaya-ditthi",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "identity view",
   "preferred_translation": "identity view",
   "alternative_translations": [
+    "personality view",
     "self-identification view"
   ],
   "discouraged_translations": [
     "ego"
   ],
   "untranslated_preferred": false,
-  "definition": "The view that identifies with the heaps as self or belonging to self.",
+  "definition": "The view that takes the heaps, or something among them, as self, as belonging to self, or as a real personal identity.",
+  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five heaps, and therefore as directly tied to not-self understanding and the first breakthrough of a stream-enterer.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and liberation-stage analysis",
+      "rendering": "identity view",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In comparative doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "personality view",
+      "notes": "Allowed alternate for reader orientation."
+    },
+    {
+      "context": "In explanatory prose emphasizing appropriation of the heaps as self",
+      "rendering": "self-identification view",
+      "notes": "Use when the practical error of identification needs to be explicit."
+    }
+  ],
+  "related_terms": [
+    "anattā",
+    "attavādupādāna",
+    "diṭṭhi",
+    "diṭṭhupādāna",
+    "khandha",
+    "saṃyojana",
+    "silabbata-paramasa",
+    "sotāpanna",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sakkāyadiṭṭhi pahīnā hoti",
+      "translation": "identity view is abandoned",
+      "notes": "Shows the term in liberation-stage context.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "rūpaṃ attato samanupassati",
+      "translation": "one regards form as self",
+      "notes": "Typical pattern of the view's operation.",
+      "source": "SN 22.59"
+    }
+  ],
   "sutta_references": [
-    "MN 44"
+    "SN 22.59",
+    "MN 118",
+    "SN 55.3"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry governing identity-view language in fetter and stream-entry contexts."
 }

@@ -3,63 +3,80 @@
   "normalized_term": "piti",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "gladness or enlivening uplift",
+  "literal_meaning": "delight, uplift, gladdening",
   "preferred_translation": "delight",
   "alternative_translations": [
     "joy",
-    "rapture"
+    "rapture",
+    "uplift"
   ],
   "discouraged_translations": [
     "ecstasy"
   ],
   "untranslated_preferred": false,
-  "definition": "An energizing delight or uplift that arises in wholesome states, especially in meditation.",
-  "notes": "The project prefers delight because it keeps the tone readable and avoids making the term sound either thinly pleasant or extravagantly ecstatic. In meditative contexts it often names a specific factor rather than generic happiness.",
+  "definition": "An energizing delight or uplift that arises in wholesome states, especially in collected practice.",
+  "notes": "The project prefers delight because it is vivid without sounding inflated. Joy remains acceptable in explanatory prose, while rapture is available for continuity with older Buddhist-English usage when the meditative intensity is the point. The term should be distinguished from sukha: pīti is the enlivening uplift, whereas sukha is the satisfying ease that can accompany it. This matters in jhāna translation, awakening-factor language, and practical meditation instruction.",
   "context_rules": [
     {
-      "context": "In jhāna descriptions and meditative development",
+      "context": "In most meditative-development and bojjhaṅga contexts",
       "rendering": "delight",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose emphasizing affective brightness",
       "rendering": "joy",
-      "notes": "Acceptable when delight sounds too restrained."
+      "notes": "Allowed alternate when delight sounds too restrained."
     },
     {
-      "context": "In technical discussion of strong meditative uplift",
+      "context": "In technical discussion of stronger meditative uplift",
       "rendering": "rapture",
-      "notes": "Use sparingly because it can sound overstated in contemporary English."
+      "notes": "Use sparingly and only where the stronger register is actually needed."
+    },
+    {
+      "context": "When contrasted directly with sukha in jhāna formulas",
+      "rendering": "delight",
+      "notes": "Keep the energizing quality distinct from satisfaction or ease."
     }
   ],
   "related_terms": [
-    "jhāna",
-    "samādhi",
     "bhāvanā",
-    "sukha",
+    "bojjhaṅga",
+    "jhāna",
     "passaddhi",
-    "bojjhanga"
+    "samādhi",
+    "sukha"
   ],
   "example_phrases": [
     {
       "pali": "vivekajaṃ pītisukhaṃ",
       "translation": "delight and ease born of seclusion",
-      "notes": "Classic first jhāna formula."
+      "notes": "Classic first-jhāna phrase distinguishing pīti and sukha.",
+      "source": "DN 2"
     },
     {
-      "pali": "pīti passaddhi",
-      "translation": "delight settles",
-      "notes": "Useful for showing that pīti is dynamic and not the endpoint of practice."
+      "pali": "pītisambojjhaṅga",
+      "translation": "the delight awakening factor",
+      "notes": "Shows the term inside the awakening-factor framework.",
+      "source": "SN 46.3"
+    },
+    {
+      "pali": "pītiyā ca virāgā",
+      "translation": "with the fading of delight",
+      "notes": "Useful for showing that pīti is not the endpoint of the sequence.",
+      "source": "DN 2"
     }
   ],
   "sutta_references": [
     "DN 2",
-    "MN 119"
+    "SN 46.3",
+    "MN 118"
   ],
   "tags": [
     "core-practice",
     "meditative-development",
-    "jhana-factors"
+    "jhana-factors",
+    "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Expanded to distinguish pīti from sukha explicitly and to stabilize its handling across jhāna and awakening-factor contexts."
 }

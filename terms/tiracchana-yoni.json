@@ -1,0 +1,14 @@
+{
+  "normalized_term": "tiracchana-yoni",
+  "term": "tiracchāna-yoni",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "animal birth",
+  "preferred_translation": "animal realm",
+  "definition": "The animal mode of birth or destination.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

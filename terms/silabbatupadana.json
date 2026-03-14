@@ -1,14 +1,62 @@
 {
-  "term": "silabbatupadana",
+  "term": "sīlabbatupādāna",
   "normalized_term": "silabbatupadana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "preferred_translation": "rule-and-observance clinging",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "rule-and-observance clinging",
+  "literal_meaning": "clinging to rules and observances",
+  "preferred_translation": "clinging to rules and observances",
+  "alternative_translations": [
+    "rule-and-observance clinging",
+    "appropriating rules and observances"
+  ],
+  "discouraged_translations": [
+    "discipline"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clinging to rules, observances, or practices as self-sufficient or identity-supporting.",
+  "notes": "The project keeps clinging to rules and observances as the default because it aligns clearly with the corresponding fetter entry and makes the upādāna function explicit. The issue is not wholesome discipline itself, but appropriative fixation on forms and procedures. This term belongs to the four clinging types and should be read alongside sīlabbata-parāmāsa.",
+  "context_rules": [
+    {
+      "context": "In the four clinging-types framework",
+      "rendering": "clinging to rules and observances",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compact doctrinal lists",
+      "rendering": "rule-and-observance clinging",
+      "notes": "Allowed alternate when brevity is needed."
+    },
+    {
+      "context": "In explanatory prose emphasizing the upādāna aspect of taking hold",
+      "rendering": "appropriating rules and observances",
+      "notes": "Use when the repo's broader upādāna logic should remain audible."
+    }
+  ],
+  "related_terms": [
+    "paṭiccasamuppāda",
+    "pāṭimokkha",
+    "sīla",
+    "silabbata-paramasa",
+    "taṇhā",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sīlabbatupādānaṃ",
+      "translation": "clinging to rules and observances",
+      "notes": "One member of the fourfold set.",
+      "source": "MN 11"
+    }
+  ],
+  "sutta_references": [
+    "MN 11",
+    "MN 44"
+  ],
   "tags": [
     "core-doctrine",
+    "dependent-origination",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry and aligned with the corresponding fetter entry."
 }

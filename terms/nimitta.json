@@ -1,0 +1,18 @@
+{
+  "normalized_term": "nimitta",
+  "term": "nimitta",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "mark, sign, appearance",
+  "preferred_translation": "sign",
+  "definition": "A sign, mark, or appearance taken as meaningful or operative.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "draft",
+  "alternative_translations": [
+    "mark",
+    "appearance"
+  ]
+}

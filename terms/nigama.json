@@ -1,0 +1,17 @@
+{
+  "normalized_term": "nigama",
+  "term": "nigama",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "market town",
+  "preferred_translation": "town",
+  "definition": "A market town or larger settlement.",
+  "notes": "Use concrete social or geographic English. Keep the narrative sense plain and avoid inflating ordinary world-language into abstraction.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "market town"
+  ]
+}
