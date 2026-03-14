@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Constructed activities or conditioned formations; in paṭiccasamuppāda contexts this project prefers choices.",
-  "notes": "Project preference is context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices. In broader contexts, especially formulaic or doctrinal ones, other renderings may be more appropriate depending on what is being described.",
+  "notes": "Project preference is intentionally context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices because the sequence points to conditioned, consequential activity rather than a flat inventory of things. In broader contexts, especially formulaic or doctrinal ones, constructed things or formations may be more accurate depending on what is being described.",
   "context_rules": [
     {
       "context": "In paṭiccasamuppāda sequences",
@@ -62,5 +62,5 @@
     "dependent-origination",
     "context-sensitive"
   ],
-  "status": "draft"
+  "status": "reviewed"
 }

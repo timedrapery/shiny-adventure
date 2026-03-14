@@ -11,7 +11,7 @@
   "discouraged_translations": [],
   "untranslated_preferred": false,
   "definition": "The moment of knowing associated with a sense field and its object.",
-  "notes": "Viññāṇa refers to the awareness that arises dependent on a sense field and an object. It is not a permanent self or underlying substance.",
+  "notes": "Viññāṇa refers to the consciousness that arises dependent on a sense field and an object. The project keeps consciousness as the default because it is the clearest stable rendering in both aggregate and dependent-origination contexts. Awareness remains acceptable in explanatory prose, but only where it does not imply a permanent substrate or diffuse background self.",
   "context_rules": [
     {
       "context": "When referring to the six sense consciousnesses",
@@ -52,5 +52,5 @@
     "aggregates",
     "core-doctrine"
   ],
-  "status": "draft"
+  "status": "reviewed"
 }

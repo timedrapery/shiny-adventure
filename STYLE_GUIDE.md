@@ -108,6 +108,7 @@ These reflect current house style and may evolve.
 - dukkha -> dissatisfaction
 - pīti -> delight
 - samādhi -> composure
+- sammā-samādhi -> right composure
 - vitakka -> thinking
 - vicāra -> pondering
 - bhāvanā -> development
@@ -116,6 +117,7 @@ These reflect current house style and may evolve.
 - bodhi -> awakening
 - sammā-diṭṭhi -> right view
 - sammāsaṅkappa -> right attitude
+- sammā-sati -> right sati
 - nirodha -> quenching
 - khandha -> heap
 - saṅkhārā -> choices (in paṭiccasamuppāda contexts, per project preference)
@@ -128,6 +130,9 @@ These reflect current house style and may evolve.
 - Use "bhikkhus" rather than "monks"
 - Use gender-neutral pronouns
 - Use "awakening" rather than "enlightenment"
+- Extend core term preferences into compounds when the doctrinal function stays the same
+- Prefer "right sati" over "right mindfulness"
+- Prefer "right composure" over "right concentration"
 - Avoid using "the teaching says" in contemporary paraphrase
 - Prefer "in this case" or "in this instance" over "in this teaching"
 
