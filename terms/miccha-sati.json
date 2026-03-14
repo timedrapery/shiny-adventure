@@ -1,0 +1,23 @@
+{
+  "term": "micch?-sati",
+  "normalized_term": "miccha-sati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong sati",
+  "preferred_translation": "wrong sati",
+  "alternative_translations": [
+    "misdirected sati"
+  ],
+  "discouraged_translations": [
+    "bad mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong sati opposed to right sati.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

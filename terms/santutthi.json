@@ -1,0 +1,23 @@
+{
+  "term": "santu??hi",
+  "normalized_term": "santutthi",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "contentment",
+  "preferred_translation": "contentment",
+  "alternative_translations": [
+    "being content"
+  ],
+  "discouraged_translations": [
+    "complacency"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contentment with little and ease with simple supports.",
+  "sutta_references": [
+    "AN 4.27"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

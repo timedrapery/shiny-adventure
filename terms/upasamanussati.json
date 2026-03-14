@@ -1,0 +1,23 @@
+{
+  "term": "upasam?nussati",
+  "normalized_term": "upasamanussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of peace",
+  "preferred_translation": "recollection of peace",
+  "alternative_translations": [
+    "recollection of calm"
+  ],
+  "discouraged_translations": [
+    "relaxation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of peace as a contemplative theme, often linked to nibb?na.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

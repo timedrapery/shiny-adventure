@@ -1,0 +1,25 @@
+{
+  "term": "sa?gha",
+  "normalized_term": "sangha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "assembly, community",
+  "preferred_translation": "sa?gha",
+  "alternative_translations": [
+    "community"
+  ],
+  "discouraged_translations": [
+    "church"
+  ],
+  "untranslated_preferred": true,
+  "definition": "The community, especially the noble or monastic community depending on context.",
+  "sutta_references": [
+    "SN 55.24"
+  ],
+  "tags": [
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "gloss_on_first_occurrence": "sa?gha (community)"
+}

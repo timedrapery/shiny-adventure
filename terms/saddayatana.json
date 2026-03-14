@@ -1,0 +1,23 @@
+{
+  "term": "sadd?yatana",
+  "normalized_term": "saddayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sound sphere",
+  "preferred_translation": "sound sense field",
+  "alternative_translations": [
+    "sounds as field"
+  ],
+  "discouraged_translations": [
+    "sound base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Sounds as the auditory object-field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

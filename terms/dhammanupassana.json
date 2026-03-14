@@ -1,0 +1,24 @@
+{
+  "term": "dhamm?nupassan?",
+  "normalized_term": "dhammanupassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "contemplation of dhammas",
+  "preferred_translation": "contemplation of dhammas",
+  "alternative_translations": [
+    "dhamma contemplation"
+  ],
+  "discouraged_translations": [
+    "doctrinal study"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contemplation of dhammas in the satipa??h?na framework.",
+  "sutta_references": [
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

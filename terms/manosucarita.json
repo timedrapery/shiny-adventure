@@ -1,0 +1,23 @@
+{
+  "term": "manosucarita",
+  "normalized_term": "manosucarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "good mental conduct",
+  "preferred_translation": "good mental conduct",
+  "alternative_translations": [
+    "wholesome mental conduct"
+  ],
+  "discouraged_translations": [
+    "pure thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wholesome mental conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

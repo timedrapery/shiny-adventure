@@ -1,0 +1,23 @@
+{
+  "term": "?k?s?na?c?yatana",
+  "normalized_term": "akasanancayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sphere of boundless space",
+  "preferred_translation": "sphere of boundless space",
+  "alternative_translations": [
+    "base of boundless space"
+  ],
+  "discouraged_translations": [
+    "infinite universe"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The formless attainment of the sphere of boundless space.",
+  "sutta_references": [
+    "DN 15"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

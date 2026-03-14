@@ -1,0 +1,23 @@
+{
+  "term": "sara?a",
+  "normalized_term": "sarana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "refuge",
+  "preferred_translation": "refuge",
+  "alternative_translations": [
+    "shelter"
+  ],
+  "discouraged_translations": [
+    "salvation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Refuge or reliance in a trusted source of safety and direction.",
+  "sutta_references": [
+    "SN 2.17"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

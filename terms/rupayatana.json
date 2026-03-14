@@ -1,0 +1,23 @@
+{
+  "term": "r?p?yatana",
+  "normalized_term": "rupayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "form sphere",
+  "preferred_translation": "form sense field",
+  "alternative_translations": [
+    "forms as field"
+  ],
+  "discouraged_translations": [
+    "form base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Forms as the visual object-field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

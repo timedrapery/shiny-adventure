@@ -1,0 +1,23 @@
+{
+  "term": "adinn?d?na",
+  "normalized_term": "adinnadana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "taking what is not given",
+  "preferred_translation": "taking what is not given",
+  "alternative_translations": [
+    "stealing"
+  ],
+  "discouraged_translations": [
+    "theft mindset"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Taking what is not given, classically prohibited in ethical training.",
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

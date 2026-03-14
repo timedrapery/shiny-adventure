@@ -1,0 +1,24 @@
+{
+  "term": "vinaya",
+  "normalized_term": "vinaya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "discipline, training",
+  "preferred_translation": "discipline",
+  "alternative_translations": [
+    "training"
+  ],
+  "discouraged_translations": [
+    "law"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Discipline or training, often referring to the disciplinary framework of the teachings.",
+  "sutta_references": [
+    "MN 108"
+  ],
+  "tags": [
+    "ethics",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

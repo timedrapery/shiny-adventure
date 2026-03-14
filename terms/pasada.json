@@ -1,0 +1,23 @@
+{
+  "term": "pas?da",
+  "normalized_term": "pasada",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "clarity, confidence, serenity",
+  "preferred_translation": "clarity",
+  "alternative_translations": [
+    "confidence"
+  ],
+  "discouraged_translations": [
+    "blind faith"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clarity or confidence of heart and mind.",
+  "sutta_references": [
+    "SN 12.23"
+  ],
+  "tags": [
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

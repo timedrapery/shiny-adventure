@@ -1,0 +1,24 @@
+{
+  "term": "dhamm?yatana",
+  "normalized_term": "dhammayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "dhamma sphere",
+  "preferred_translation": "dhamma sense field",
+  "alternative_translations": [
+    "phenomena cognitive realm"
+  ],
+  "discouraged_translations": [
+    "dhamma base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Dhammas as the mind-object field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

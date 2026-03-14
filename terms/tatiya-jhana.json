@@ -1,0 +1,23 @@
+{
+  "term": "tatiya-jh?na",
+  "normalized_term": "tatiya-jhana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "third jh?na",
+  "preferred_translation": "third theme",
+  "alternative_translations": [
+    "third jh?na"
+  ],
+  "discouraged_translations": [
+    "third absorption"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The third jh?na in the standard fourfold sequence.",
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

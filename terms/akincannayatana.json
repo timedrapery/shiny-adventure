@@ -1,0 +1,23 @@
+{
+  "term": "?ki?ca???yatana",
+  "normalized_term": "akincannayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sphere of nothingness",
+  "preferred_translation": "sphere of nothingness",
+  "alternative_translations": [
+    "base of nothingness"
+  ],
+  "discouraged_translations": [
+    "void"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The formless attainment of the sphere of nothingness.",
+  "sutta_references": [
+    "DN 15"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

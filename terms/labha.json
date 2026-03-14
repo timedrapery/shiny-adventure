@@ -1,0 +1,23 @@
+{
+  "term": "l?bha",
+  "normalized_term": "labha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "gain",
+  "preferred_translation": "gain",
+  "alternative_translations": [
+    "acquisition"
+  ],
+  "discouraged_translations": [
+    "profit"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Gain as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

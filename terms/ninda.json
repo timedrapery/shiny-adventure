@@ -1,0 +1,23 @@
+{
+  "term": "nind?",
+  "normalized_term": "ninda",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "blame",
+  "preferred_translation": "blame",
+  "alternative_translations": [
+    "criticism"
+  ],
+  "discouraged_translations": [
+    "condemnation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Blame as one of the worldly conditions.",
+  "sutta_references": [
+    "AN 8.6"
+  ],
+  "tags": [
+    "worldly-conditions"
+  ],
+  "status": "reviewed"
+}

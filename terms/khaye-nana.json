@@ -1,0 +1,23 @@
+{
+  "term": "khaye-???a",
+  "normalized_term": "khaye-nana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "knowledge of wearing away",
+  "preferred_translation": "knowledge of wearing away",
+  "alternative_translations": [
+    "knowledge of ending"
+  ],
+  "discouraged_translations": [
+    "nihilism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Knowledge of the wearing away of the defilements or outflows.",
+  "sutta_references": [
+    "MN 70"
+  ],
+  "tags": [
+    "liberation"
+  ],
+  "status": "reviewed"
+}

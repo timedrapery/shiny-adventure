@@ -1,0 +1,23 @@
+{
+  "term": "upasama",
+  "normalized_term": "upasama",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "calming, peace",
+  "preferred_translation": "calming",
+  "alternative_translations": [
+    "peace"
+  ],
+  "discouraged_translations": [
+    "suppression"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Calming or peaceful settling of agitation and constructing.",
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "liberation"
+  ],
+  "status": "reviewed"
+}

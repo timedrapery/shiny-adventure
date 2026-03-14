@@ -1,0 +1,23 @@
+{
+  "term": "man?yatana",
+  "normalized_term": "manayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "mind sphere",
+  "preferred_translation": "mind sense field",
+  "alternative_translations": [
+    "mind cognitive realm"
+  ],
+  "discouraged_translations": [
+    "mind base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The mind as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

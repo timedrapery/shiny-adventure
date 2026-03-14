@@ -1,0 +1,23 @@
+{
+  "term": "sikkh?",
+  "normalized_term": "sikkha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "training",
+  "preferred_translation": "training",
+  "alternative_translations": [
+    "discipline"
+  ],
+  "discouraged_translations": [
+    "education"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Training or disciplined cultivation on the path.",
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

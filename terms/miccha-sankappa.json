@@ -1,0 +1,23 @@
+{
+  "term": "micch?sa?kappa",
+  "normalized_term": "miccha-sankappa",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong attitude",
+  "preferred_translation": "wrong attitude",
+  "alternative_translations": [
+    "wrong intention"
+  ],
+  "discouraged_translations": [
+    "evil thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong attitude opposed to right attitude.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

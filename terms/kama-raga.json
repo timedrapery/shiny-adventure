@@ -1,0 +1,23 @@
+{
+  "term": "k?ma-r?ga",
+  "normalized_term": "kama-raga",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sensual passion",
+  "preferred_translation": "sensual passion",
+  "alternative_translations": [
+    "passion for sensuality"
+  ],
+  "discouraged_translations": [
+    "lust"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Passion directed toward sensuality.",
+  "sutta_references": [
+    "MN 64"
+  ],
+  "tags": [
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

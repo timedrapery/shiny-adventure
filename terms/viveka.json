@@ -1,0 +1,23 @@
+{
+  "term": "viveka",
+  "normalized_term": "viveka",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "seclusion, separation",
+  "preferred_translation": "seclusion",
+  "alternative_translations": [
+    "withdrawal"
+  ],
+  "discouraged_translations": [
+    "isolation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Seclusion or separateness conducive to practice.",
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

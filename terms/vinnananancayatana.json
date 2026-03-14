@@ -1,0 +1,23 @@
+{
+  "term": "vi????a?c?yatana",
+  "normalized_term": "vinnananancayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "sphere of boundless consciousness",
+  "preferred_translation": "sphere of boundless consciousness",
+  "alternative_translations": [
+    "base of boundless consciousness"
+  ],
+  "discouraged_translations": [
+    "cosmic mind"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The formless attainment of the sphere of boundless consciousness.",
+  "sutta_references": [
+    "DN 15"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

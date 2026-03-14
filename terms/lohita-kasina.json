@@ -1,0 +1,23 @@
+{
+  "term": "lohita-kasi?a",
+  "normalized_term": "lohita-kasina",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "red kasina",
+  "preferred_translation": "red kasina",
+  "alternative_translations": [
+    "red totality"
+  ],
+  "discouraged_translations": [
+    "red element"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The red kasina as a meditative totality theme.",
+  "sutta_references": [
+    "MN 77"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

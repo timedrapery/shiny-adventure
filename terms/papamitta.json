@@ -1,0 +1,24 @@
+{
+  "term": "p?pamitta",
+  "normalized_term": "papamitta",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bad friend",
+  "preferred_translation": "bad friend",
+  "alternative_translations": [
+    "harmful friend"
+  ],
+  "discouraged_translations": [
+    "enemy"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A bad or harmful friend who supports unskillful directions.",
+  "sutta_references": [
+    "AN 8.54"
+  ],
+  "tags": [
+    "persons",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

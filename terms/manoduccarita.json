@@ -1,0 +1,23 @@
+{
+  "term": "manoduccarita",
+  "normalized_term": "manoduccarita",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bad mental conduct",
+  "preferred_translation": "bad mental conduct",
+  "alternative_translations": [
+    "harmful mental conduct"
+  ],
+  "discouraged_translations": [
+    "sinful thought"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Unwholesome mental conduct.",
+  "sutta_references": [
+    "MN 41"
+  ],
+  "tags": [
+    "ethics"
+  ],
+  "status": "reviewed"
+}

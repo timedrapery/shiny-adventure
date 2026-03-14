@@ -1,0 +1,23 @@
+{
+  "term": "khanti",
+  "normalized_term": "khanti",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "patience, forbearance",
+  "preferred_translation": "patience",
+  "alternative_translations": [
+    "forbearance"
+  ],
+  "discouraged_translations": [
+    "passivity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Patience or forbearance in practice and conduct.",
+  "sutta_references": [
+    "Dhp 184"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

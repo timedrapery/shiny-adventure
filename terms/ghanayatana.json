@@ -1,0 +1,23 @@
+{
+  "term": "gh?n?yatana",
+  "normalized_term": "ghanayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "nose sphere",
+  "preferred_translation": "nose sense field",
+  "alternative_translations": [
+    "nose cognitive realm"
+  ],
+  "discouraged_translations": [
+    "nose base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The nose as one of the sense fields.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

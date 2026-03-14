@@ -1,0 +1,23 @@
+{
+  "term": "micch?-v?y?ma",
+  "normalized_term": "miccha-vayama",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong effort",
+  "preferred_translation": "wrong effort",
+  "alternative_translations": [
+    "misdirected effort"
+  ],
+  "discouraged_translations": [
+    "laziness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong effort opposed to right effort.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

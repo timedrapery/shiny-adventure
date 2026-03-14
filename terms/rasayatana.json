@@ -1,0 +1,23 @@
+{
+  "term": "ras?yatana",
+  "normalized_term": "rasayatana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "taste sphere",
+  "preferred_translation": "taste sense field",
+  "alternative_translations": [
+    "tastes as field"
+  ],
+  "discouraged_translations": [
+    "taste base"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Tastes as the gustatory object-field.",
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "sense-fields"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,23 @@
+{
+  "term": "pa?hama-jh?na",
+  "normalized_term": "pathama-jhana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "first jh?na",
+  "preferred_translation": "first theme",
+  "alternative_translations": [
+    "first jh?na"
+  ],
+  "discouraged_translations": [
+    "first absorption"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The first jh?na in the standard fourfold sequence.",
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

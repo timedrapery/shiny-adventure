@@ -1,0 +1,23 @@
+{
+  "term": "devat?nussati",
+  "normalized_term": "devatanussati",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "recollection of devas",
+  "preferred_translation": "recollection of devas",
+  "alternative_translations": [
+    "recollection of the devas"
+  ],
+  "discouraged_translations": [
+    "angel worship"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recollection of devas as a contemplative theme.",
+  "sutta_references": [
+    "AN 11.12"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}
