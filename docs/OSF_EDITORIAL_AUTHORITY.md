@@ -15,7 +15,8 @@ When sources disagree, use this order:
 
 1. OSF house style as explicitly recorded in this repository
 2. OSF house materials at the publication level, including the OSF glossary and
-   named OSF books such as *What Is And Is Not The Path*
+   named OSF books such as *What Is And Is Not The Path* and the Dhammarato
+   quotes book
 3. Dhammarato, as the primary living OSF lineage voice for practical
    instruction, meditation language, contemporary tone, and OSF teaching
    vocabulary
@@ -32,7 +33,8 @@ When sources disagree, use this order:
 The following sit at the same editorial level inside OSF house authority:
 
 - the OSF glossary
-- named OSF publications
+- named OSF publications, including *What Is And Is Not The Path* and the
+  Dhammarato quotes book
 - explicit house-style decisions already recorded in this repository
 
 These are internal OSF sources, not outside-source profiles.

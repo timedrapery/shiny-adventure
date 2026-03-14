@@ -66,8 +66,9 @@ The repo follows an explicit authority order documented in
 
 In practice this means:
 
-- OSF house materials such as the OSF glossary and OSF books sit at the top of
-  the internal authority stack.
+- OSF house materials such as the OSF glossary, the Dhammarato quotes book,
+  and OSF books like *What Is And Is Not The Path* sit at the top of the
+  internal authority stack.
 - Dhammarato is the next authority for practical teaching tone, path language,
   meditation vocabulary, and contemporary phrasing.
 - Buddhadasa Bhikkhu is the next authority for dependent arising, voidness,
