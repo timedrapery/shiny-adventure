@@ -1,0 +1,51 @@
+{
+  "term": "paccaya",
+  "normalized_term": "paccaya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "condition, support",
+  "preferred_translation": "condition",
+  "alternative_translations": [
+    "support"
+  ],
+  "discouraged_translations": [
+    "cause"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A condition or supporting factor on which something else depends or from which it arises.",
+  "notes": "The project prefers condition because it is the clearest general rendering in dependent-origination language. Support remains acceptable when the enabling or sustaining dimension is more important than the bare conditional relation, but cause is too narrow for default use.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "condition",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the enabling function needs emphasis",
+      "rendering": "support",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "paticcasamuppada",
+    "hetu",
+    "nidana",
+    "upanisa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imasmiṃ sati idaṃ hoti",
+      "translation": "when this is present, this is",
+      "notes": "Canonical conditional formulation that explains paccaya-language.",
+      "source": "SN 12.61"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.61"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,50 @@
+{
+  "term": "hetu",
+  "normalized_term": "hetu",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "cause, reason, root condition",
+  "preferred_translation": "cause",
+  "alternative_translations": [
+    "reason"
+  ],
+  "discouraged_translations": [
+    "condition"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A cause or reason, often more specifically causal than the broader paccaya.",
+  "notes": "The project prefers cause because the term often marks a more direct causal role than the broader conditionality language of paccaya. Reason is acceptable in explanatory prose when the line leans more rhetorical or justificatory than metaphysical.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and analytical contexts",
+      "rendering": "cause",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a justificatory or explanatory tone is stronger than strict causality",
+      "rendering": "reason",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "nidana",
+    "samudaya",
+    "upanisa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "hetuṃ paṭicca",
+      "translation": "dependent on a cause",
+      "notes": "Compact analytical usage."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.134"
+  ],
+  "tags": [
+    "core-doctrine",
+    "causality"
+  ],
+  "status": "reviewed"
+}

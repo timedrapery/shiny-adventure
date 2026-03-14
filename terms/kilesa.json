@@ -1,0 +1,50 @@
+{
+  "term": "kilesa",
+  "normalized_term": "kilesa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "defilement, stain",
+  "preferred_translation": "defilement",
+  "alternative_translations": [
+    "stain"
+  ],
+  "discouraged_translations": [
+    "sin"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A defilement that clouds the mind and obstructs clear practice and release.",
+  "notes": "The project prefers defilement because it remains the clearest concise doctrinal label in English. Stain is acceptable in explanatory prose when the imagery of soiling or obscuring is useful, but sin is too churchy and misleading for the dataset.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "defilement",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the imagery of obscuration or soiling",
+      "rendering": "stain",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "lobha",
+    "dosa",
+    "moha",
+    "upakkilesa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cittassa upakkilesā",
+      "translation": "defilements of the mind",
+      "notes": "Useful bridge to the upakkilesa-family."
+    }
+  ],
+  "sutta_references": [
+    "MN 7"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

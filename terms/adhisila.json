@@ -1,0 +1,48 @@
+{
+  "term": "adhisīla",
+  "normalized_term": "adhisila",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "higher conduct",
+  "preferred_translation": "higher conduct",
+  "alternative_translations": [
+    "higher training in conduct"
+  ],
+  "discouraged_translations": [
+    "advanced morality"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The higher training in conduct within the threefold training.",
+  "notes": "The project prefers higher conduct because it is concise and aligns with the existing preference for sīla as conduct. The longer phrase higher training in conduct is acceptable when the training-framework needs to be explicit.",
+  "context_rules": [
+    {
+      "context": "In the threefold training framework",
+      "rendering": "higher conduct",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the training frame should be made explicit",
+      "rendering": "higher training in conduct",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sila",
+    "adhicitta",
+    "adhipanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "adhisīlasikkhā",
+      "translation": "the higher training in conduct",
+      "notes": "Standard triadic formulation."
+    }
+  ],
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

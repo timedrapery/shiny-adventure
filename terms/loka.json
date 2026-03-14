@@ -1,0 +1,50 @@
+{
+  "term": "loka",
+  "normalized_term": "loka",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "world",
+  "preferred_translation": "world",
+  "alternative_translations": [
+    "realm"
+  ],
+  "discouraged_translations": [
+    "universe"
+  ],
+  "untranslated_preferred": false,
+  "definition": "World, especially as the field of experience, beings, and conditioned unfolding spoken of in the teachings.",
+  "notes": "The project prefers world because it is broad and readable enough for the many contexts in which loka appears. Realm is acceptable when the context points to a domain or sphere more than to the world as a whole, but universe is usually too cosmological for default use.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "world",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In contexts where the term points more to a domain or sphere of experience",
+      "rendering": "realm",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "dhamma",
+    "lokiya",
+    "lokuttara",
+    "ariyasavaka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "loko",
+      "translation": "the world",
+      "notes": "Core doctrinal term with broad contextual range."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.44"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,53 @@
+{
+  "term": "buddha",
+  "normalized_term": "buddha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "awakened one",
+  "preferred_translation": "buddha",
+  "alternative_translations": [
+    "awakened one"
+  ],
+  "discouraged_translations": [
+    "enlightened one"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "buddha (awakened one)",
+  "definition": "An awakened one, especially the Fully Awakened Buddha who discovers and teaches the path.",
+  "notes": "The project leaves buddha untranslated by default because it functions as a distinct doctrinal title and category. Awakened one is useful as a gloss, while enlightened one should be avoided in line with the project's preference for awakening over enlightenment.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts",
+      "rendering": "buddha",
+      "notes": "Default project practice is to keep the term untranslated."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose requiring a gloss",
+      "rendering": "awakened one",
+      "notes": "Use as a gloss rather than a full replacement."
+    }
+  ],
+  "related_terms": [
+    "bodhi",
+    "tathagata",
+    "sugata",
+    "ariyasavaka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "itipi so bhagavā arahaṃ sammāsambuddho",
+      "translation": "thus the Blessed One is an arahant, a perfectly self-awakened buddha",
+      "notes": "Classic formula showing buddha as title.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

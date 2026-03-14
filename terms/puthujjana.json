@@ -1,0 +1,50 @@
+{
+  "term": "puthujjana",
+  "normalized_term": "puthujjana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "ordinary person, many-folk person",
+  "preferred_translation": "ordinary person",
+  "alternative_translations": [
+    "worldling"
+  ],
+  "discouraged_translations": [
+    "layperson"
+  ],
+  "untranslated_preferred": false,
+  "definition": "An ordinary person not yet transformed by noble-path breakthrough.",
+  "notes": "The project prefers ordinary person because it is contemporary and avoids the dated sound of worldling. Worldling remains acceptable in explanatory prose when the contrast with ariyasāvaka needs the familiar technical idiom.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and comparative contexts",
+      "rendering": "ordinary person",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using established Buddhist technical idiom",
+      "rendering": "worldling",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "ariyasavaka",
+    "avijja",
+    "sotapanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "assutavā puthujjano",
+      "translation": "an unlearned ordinary person",
+      "notes": "Frequent canonical contrast to the noble disciple.",
+      "source": "MN 9"
+    }
+  ],
+  "sutta_references": [
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons"
+  ],
+  "status": "reviewed"
+}

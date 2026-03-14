@@ -1,0 +1,51 @@
+{
+  "term": "bhavataṇhā",
+  "normalized_term": "bhava-tanha",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "craving for becoming",
+  "preferred_translation": "craving for becoming",
+  "alternative_translations": [
+    "becoming-craving"
+  ],
+  "discouraged_translations": [
+    "desire for life"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Craving directed toward continued becoming or a mode of existence.",
+  "notes": "The project prefers craving for becoming because it aligns directly with the existing treatment of bhava. The shorter hyphenated form is acceptable only where English compactness really helps.",
+  "context_rules": [
+    {
+      "context": "In four-truth and doctrinal analysis",
+      "rendering": "craving for becoming",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In tightly compressed prose or note-like contexts",
+      "rendering": "becoming-craving",
+      "notes": "Use sparingly."
+    }
+  ],
+  "related_terms": [
+    "tanha",
+    "bhava",
+    "samudaya",
+    "vibhava-tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavataṇhā",
+      "translation": "craving for becoming",
+      "notes": "One of the classic threefold forms of craving.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,51 @@
+{
+  "term": "nekkhamma",
+  "normalized_term": "nekkhamma",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "going forth, renunciation",
+  "preferred_translation": "renunciation",
+  "alternative_translations": [
+    "going forth"
+  ],
+  "discouraged_translations": [
+    "self-denial"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Renunciation as a freeing orientation away from sensual pull and toward release.",
+  "notes": "The project prefers renunciation because it is established, readable, and works across both practical and path-factor contexts. Going forth is acceptable where the line leans more toward the movement away from entanglement than toward the settled quality of renunciation.",
+  "context_rules": [
+    {
+      "context": "In right-attitude and practical contexts",
+      "rendering": "renunciation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing movement away from entanglement",
+      "rendering": "going forth",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sammasankappa",
+    "chanda",
+    "viraga",
+    "nibbana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nekkhammasaṅkappa",
+      "translation": "an attitude of renunciation",
+      "notes": "Core link to the path-factor framework.",
+      "source": "MN 117"
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

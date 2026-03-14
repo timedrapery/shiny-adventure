@@ -1,0 +1,52 @@
+{
+  "term": "avihiṃsā",
+  "normalized_term": "avihimsa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "non-harming",
+  "preferred_translation": "non-harming",
+  "alternative_translations": [
+    "harmlessness"
+  ],
+  "discouraged_translations": [
+    "pacifism"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A disposition of non-harming, especially as a component of right attitude.",
+  "notes": "The project prefers non-harming because it is clear, direct, and behaviorally concrete. Harmlessness is acceptable in explanatory prose when the English line wants a smoother abstract noun.",
+  "context_rules": [
+    {
+      "context": "In path-factor and analytical contexts",
+      "rendering": "non-harming",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a smoother English abstract noun is needed",
+      "rendering": "harmlessness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "sammasankappa",
+    "karuna",
+    "abyapada",
+    "samma-kammanta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avihiṃsāsaṅkappa",
+      "translation": "an attitude of non-harming",
+      "notes": "Core link to the path-factor framework.",
+      "source": "MN 117"
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

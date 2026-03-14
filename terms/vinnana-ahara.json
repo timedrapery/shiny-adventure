@@ -1,0 +1,51 @@
+{
+  "term": "viññāṇāhāra",
+  "normalized_term": "vinnana-ahara",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "consciousness nutriment",
+  "preferred_translation": "consciousness nutriment",
+  "alternative_translations": [
+    "nutriment of consciousness"
+  ],
+  "discouraged_translations": [
+    "awareness food"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Consciousness as a nutriment that sustains continued name-and-form and unfolding experience.",
+  "notes": "The project prefers consciousness nutriment because it is direct and fits the established fourfold pattern. Nutriment of consciousness is acceptable where the English line benefits from a less compressed phrase.",
+  "context_rules": [
+    {
+      "context": "In the four-nutriments framework",
+      "rendering": "consciousness nutriment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a slightly expanded phrase reads more clearly",
+      "rendering": "nutriment of consciousness",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "ahara",
+    "vinnana",
+    "namarupa",
+    "paticcasamuppada"
+  ],
+  "example_phrases": [
+    {
+      "pali": "viññāṇaṃ catutthaṃ",
+      "translation": "consciousness is the fourth",
+      "notes": "The fourth of the four nutriments.",
+      "source": "SN 12.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

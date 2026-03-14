@@ -1,0 +1,49 @@
+{
+  "term": "adhipaññā",
+  "normalized_term": "adhipanna",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "higher discernment",
+  "preferred_translation": "higher discernment",
+  "alternative_translations": [
+    "higher training in discernment"
+  ],
+  "discouraged_translations": [
+    "higher wisdom"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The higher training in discernment within the threefold training.",
+  "notes": "The project prefers higher discernment because it aligns with the house treatment of paññā-language. The longer phrase higher training in discernment is acceptable when the training framework needs explicit statement.",
+  "context_rules": [
+    {
+      "context": "In the threefold training framework",
+      "rendering": "higher discernment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the training frame should be made explicit",
+      "rendering": "higher training in discernment",
+      "notes": "Acceptable alternate."
+    }
+  ],
+  "related_terms": [
+    "panna",
+    "adhisila",
+    "adhicitta",
+    "pannavimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "adhipaññāsikkhā",
+      "translation": "the higher training in discernment",
+      "notes": "Standard triadic formulation."
+    }
+  ],
+  "sutta_references": [
+    "MN 44"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}
