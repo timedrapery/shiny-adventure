@@ -1,26 +1,12 @@
 from __future__ import annotations
 
-import importlib.util
 import json
-import sys
 import tempfile
 import unittest
 from pathlib import Path
 from unittest import mock
 
-
-REPO_ROOT = Path(__file__).resolve().parent.parent
-
-
-def load_module(module_name: str, relative_path: str):
-    path = REPO_ROOT / relative_path
-    spec = importlib.util.spec_from_file_location(module_name, path)
-    if spec is None or spec.loader is None:
-        raise RuntimeError(f"Could not load module from {path}")
-    module = importlib.util.module_from_spec(spec)
-    sys.modules[module_name] = module
-    spec.loader.exec_module(module)
-    return module
+from tests.helpers import load_module
 
 
 write_term_batch = load_module("write_term_batch", "scripts/write_term_batch.py")
