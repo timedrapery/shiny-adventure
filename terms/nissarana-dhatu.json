@@ -1,0 +1,14 @@
+{
+  "normalized_term": "nissarana-dhatu",
+  "term": "nissaraṇa-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of escape",
+  "preferred_translation": "element of escape",
+  "definition": "The element or mode of escape from bondage or entanglement.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The mind as an experiential and affective center that can be trained, collected, liberated, and observed.",
-  "notes": "The project prefers mind because it is the cleanest default in contemporary English. Heart-mind remains acceptable in explanatory prose when the affective coloration matters, but consciousness should be avoided because that territory is already occupied by vi\u00f1\u00f1\u0101\u1e47a in this dataset. Ven. Dr. M. Punnaji often reads citta as mood or affective process in meditation instruction, especially in MN 118-style material; the repository records those as source-backed pedagogical alternates while retaining mind as the house default. The OSF glossary describes citta as mind and heart-mind, the center of consciousness; the repository records center of consciousness as a source-backed explanatory alternate while keeping mind as the default. Buddhadasa Bhikkhu often speaks of the mind becoming void, cool, or free of I and mine; the repository records heart as a limited source-backed alternate and keeps those stronger images in notes rather than changing the default translation.",
+  "notes": "The project prefers mind because it is the cleanest default in contemporary English. Heart-mind remains acceptable in explanatory prose when the affective coloration matters, but consciousness should be avoided because that territory is already occupied by viññāṇa in this dataset. Ven. Dr. M. Punnaji often reads citta as mood or affective process in meditation instruction, especially in MN 118-style material; the repository records those as source-backed pedagogical alternates while retaining mind as the house default. The OSF glossary describes citta as mind and heart-mind, the center of consciousness; the repository records center of consciousness as a source-backed explanatory alternate while keeping mind as the default. Buddhadasa Bhikkhu often speaks of the mind becoming void, cool, or free of I and mine; the repository records heart as a limited source-backed alternate and keeps those stronger images in notes rather than changing the default translation.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -46,29 +46,34 @@
     }
   ],
   "related_terms": [
-    "samadhi",
-    "sati",
-    "manasikara",
-    "papanca",
-    "dhamma",
-    "cetovimutti",
-    "iddhipada",
-    "vimamsa",
     "adhicitta",
+    "cetovimutti",
+    "dhamma",
+    "iddhipada",
+    "iddhipāda",
+    "manasikara",
+    "manasikāra",
+    "papanca",
+    "papañca",
+    "samadhi",
+    "samādhi",
+    "sati",
+    "suññatā",
+    "tathatā",
     "upakkilesa",
-    "su\u00f1\u00f1at\u0101",
-    "tathat\u0101"
+    "vimamsa",
+    "vīmaṃsā"
   ],
   "example_phrases": [
     {
-      "pali": "citta\u1e43 bh\u0101veti",
+      "pali": "cittaṃ bhāveti",
       "translation": "one develops the mind",
       "notes": "Compact practice-oriented use."
     },
     {
-      "pali": "citte citt\u0101nupass\u012b viharati",
+      "pali": "citte cittānupassī viharati",
       "translation": "one remains observing the mind in relation to the mind",
-      "notes": "Standard satipa\u1e6d\u1e6dh\u0101na expression.",
+      "notes": "Standard satipaṭṭhāna expression.",
       "source": "DN 22"
     }
   ],

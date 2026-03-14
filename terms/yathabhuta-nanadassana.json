@@ -1,23 +1,67 @@
 {
   "term": "yathābhūta-ñāṇadassana",
   "normalized_term": "yathabhuta-nanadassana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "knowledge-and-seeing as it has come to be",
+  "literal_meaning": "knowing and seeing as it has come to be",
   "preferred_translation": "knowing and seeing things as they have come to be",
   "alternative_translations": [
-    "knowing and seeing things as they are"
+    "knowing and seeing things as they are",
+    "clear knowing and seeing"
   ],
   "discouraged_translations": [
     "objectivity"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowing and seeing phenomena as they have come to be.",
+  "definition": "Knowing and seeing phenomena according to their actual conditioned arising rather than through distortion or projection.",
+  "notes": "The repository keeps the longer translation as the default because it preserves the conditioned, processive force of bhūta more carefully than the shortened English idiom things as they are. The shorter form remains acceptable where the line cannot bear the longer phrase. This term should be treated as an early-Buddhist epistemic and liberative expression, not as a late technical slogan.",
+  "context_rules": [
+    {
+      "context": "In doctrinal and source-facing contexts where precision matters",
+      "rendering": "knowing and seeing things as they have come to be",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In smoother explanatory prose where a shorter English phrase is needed",
+      "rendering": "knowing and seeing things as they are",
+      "notes": "Allowed alternate when readability requires it."
+    },
+    {
+      "context": "When the passage emphasizes conditioned process and non-distortion",
+      "rendering": "knowing and seeing things as they have come to be",
+      "notes": "Prefer the fuller rendering to block flattening into generic realism."
+    }
+  ],
+  "related_terms": [
+    "anattā",
+    "dhammavicaya",
+    "ñāṇa",
+    "paññā",
+    "paṭiccasamuppāda",
+    "vipassana-nana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yathābhūtaṃ pajānāti",
+      "translation": "one knows it as it has come to be",
+      "notes": "Shows the broader family usage behind the compound."
+    },
+    {
+      "pali": "yathābhūtañāṇadassana",
+      "translation": "knowing and seeing things as they have come to be",
+      "notes": "Headword usage in insight and release contexts.",
+      "source": "SN 12.23"
+    }
+  ],
   "sutta_references": [
-    "SN 12.23"
+    "SN 12.23",
+    "MN 1"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Promoted from a thin minor entry to a major epistemic entry with explicit protection against flattening into generic objectivity language."
 }

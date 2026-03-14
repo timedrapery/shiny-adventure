@@ -1,0 +1,14 @@
+{
+  "normalized_term": "sugati",
+  "term": "sugati",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "good destination",
+  "preferred_translation": "good destination",
+  "definition": "A favorable destination or fortunate rebirth.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

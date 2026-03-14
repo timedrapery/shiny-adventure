@@ -1,0 +1,14 @@
+{
+  "normalized_term": "manussaloka",
+  "term": "manussaloka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "human world",
+  "preferred_translation": "human world",
+  "definition": "The human world in cosmological or existential contexts.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

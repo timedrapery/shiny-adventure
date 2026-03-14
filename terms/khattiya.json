@@ -1,0 +1,20 @@
+{
+  "normalized_term": "khattiya",
+  "term": "khattiya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "ruling noble",
+  "preferred_translation": "ruling noble",
+  "definition": "A member of the ruling or warrior-noble class.",
+  "notes": "Use clear contemporary English in narrative and social contexts. Keep role and status plain rather than importing later devotional or academic jargon.",
+  "tags": [
+    "persons"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "warrior-noble"
+  ],
+  "discouraged_translations": [
+    "caste"
+  ]
+}

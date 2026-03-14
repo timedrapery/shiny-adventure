@@ -1,14 +1,63 @@
 {
-  "term": "attavadupadana",
+  "term": "attavādupādāna",
   "normalized_term": "attavadupadana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "preferred_translation": "self-doctrine clinging",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "self-doctrine clinging",
+  "literal_meaning": "clinging to self-doctrine",
+  "preferred_translation": "clinging to self-doctrine",
+  "alternative_translations": [
+    "self-doctrine clinging",
+    "appropriating self-theories"
+  ],
+  "discouraged_translations": [
+    "self-esteem"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clinging to doctrines, narratives, or theories of self as something to hold, defend, or identify with.",
+  "notes": "The project keeps clinging to self-doctrine as the default because it names the doctrinal function directly and preserves the relation to view and self-making. This term should be read closely with sakkāyadiṭṭhi, anattā, and upādāna. It belongs to the four clinging types and points to appropriation of self-accounts, not merely abstract philosophy.",
+  "context_rules": [
+    {
+      "context": "In the four clinging-types framework",
+      "rendering": "clinging to self-doctrine",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compact doctrinal lists",
+      "rendering": "self-doctrine clinging",
+      "notes": "Allowed alternate when brevity is needed."
+    },
+    {
+      "context": "In explanatory prose emphasizing appropriative holding of self-theories",
+      "rendering": "appropriating self-theories",
+      "notes": "Use when the practical movement of upādāna should be made more explicit."
+    }
+  ],
+  "related_terms": [
+    "anattā",
+    "attā",
+    "diṭṭhupādāna",
+    "sakkaya-ditthi",
+    "taṇhā",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "attavādupādānaṃ",
+      "translation": "clinging to self-doctrine",
+      "notes": "One member of the fourfold set.",
+      "source": "MN 11"
+    }
+  ],
+  "sutta_references": [
+    "MN 11",
+    "SN 22.59"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "dependent-origination",
+    "mental-qualities",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry and tied to not-self, identity-view, and clinging analysis."
 }

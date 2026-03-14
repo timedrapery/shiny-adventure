@@ -1,0 +1,14 @@
+{
+  "normalized_term": "avihimsa-dhatu",
+  "term": "avihiṃsā-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of harmlessness",
+  "preferred_translation": "element of harmlessness",
+  "definition": "The element or mode of harmlessness.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

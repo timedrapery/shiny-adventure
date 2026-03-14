@@ -1,0 +1,18 @@
+{
+  "normalized_term": "agara",
+  "term": "agāra",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "house, home",
+  "preferred_translation": "household",
+  "definition": "A house or household setting, often contrasted with homelessness.",
+  "notes": "Use concrete social or geographic English. Keep the narrative sense plain and avoid inflating ordinary world-language into abstraction.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "alternative_translations": [
+    "house",
+    "home"
+  ]
+}

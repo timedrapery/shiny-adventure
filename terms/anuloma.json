@@ -1,0 +1,18 @@
+{
+  "normalized_term": "anuloma",
+  "term": "anuloma",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "conforming, in sequence",
+  "preferred_translation": "conformity",
+  "definition": "Conformity or alignment in proper sequence.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "draft",
+  "alternative_translations": [
+    "aligned",
+    "in sequence"
+  ]
+}

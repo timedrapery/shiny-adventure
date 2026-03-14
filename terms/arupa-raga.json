@@ -1,23 +1,62 @@
 {
   "term": "arūpa-rāga",
   "normalized_term": "arupa-raga",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "passion for the formless",
-  "preferred_translation": "passion for the formless",
+  "preferred_translation": "passion for formless existence",
   "alternative_translations": [
-    "attachment to the formless"
+    "passion for the formless",
+    "attachment to formless realms"
   ],
   "discouraged_translations": [
     "mysticism"
   ],
   "untranslated_preferred": false,
-  "definition": "Passion directed toward formless attainments or formless existence.",
+  "definition": "Passion directed toward formless existence, attainments, or realms.",
+  "notes": "The project uses passion for formless existence as the default because it makes the doctrinal function clear inside the higher fetters. The term points to subtle attachment, not to liberation itself, even when the object is refined and non-material. Passion for the formless remains acceptable where the setting is already clear.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and higher-stage liberation analysis",
+      "rendering": "passion for formless existence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compact doctrinal lists where the contrast with rūpa-rāga is already clear",
+      "rendering": "passion for the formless",
+      "notes": "Allowed alternate for brevity."
+    },
+    {
+      "context": "In explanatory prose about subtle attachment to refined attainments or realms",
+      "rendering": "attachment to formless realms",
+      "notes": "Use when the existential implication should be made explicit."
+    }
+  ],
+  "related_terms": [
+    "anāgāmī",
+    "arahant",
+    "arūpabhava",
+    "bhava",
+    "rupa-raga",
+    "saṃyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "arūparāgo",
+      "translation": "passion for formless existence",
+      "notes": "One of the higher fetters.",
+      "source": "AN 10.13"
+    }
+  ],
   "sutta_references": [
+    "AN 10.13",
     "MN 64"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Promoted to a major entry and clarified as subtle attachment to formless existence or attainment."
 }

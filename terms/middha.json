@@ -1,13 +1,62 @@
 {
   "term": "middha",
   "normalized_term": "middha",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
+  "literal_meaning": "drowsiness, torpor",
   "preferred_translation": "drowsiness",
-  "definition": "Mental heaviness and drowsiness that dulls practice.",
-  "status": "reviewed",
-  "literal_meaning": "drowsiness",
+  "alternative_translations": [
+    "torpor",
+    "heaviness"
+  ],
+  "discouraged_translations": [
+    "laziness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The drooping, heavy, or sleepy side of the hindrance pair thīna-middha.",
+  "notes": "The project keeps drowsiness as the default because it is concrete and readable. Torpor remains acceptable in comparative doctrinal prose, but it is too formal for default house use. Middha should normally be heard together with thīna: middha is the sinking heaviness or sleepiness, while thīna is the dull, inert slackness that accompanies it.",
+  "context_rules": [
+    {
+      "context": "In explanation of the hindrance pair thīna-middha",
+      "rendering": "drowsiness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In comparative doctrinal prose using standard Buddhist-English terminology",
+      "rendering": "torpor",
+      "notes": "Allowed alternate for continuity with established terminology."
+    },
+    {
+      "context": "In explanatory prose emphasizing the bodily-sinking quality",
+      "rendering": "heaviness",
+      "notes": "Use when the physical drooping side should be made explicit."
+    }
+  ],
+  "related_terms": [
+    "appamāda",
+    "bojjhaṅga",
+    "nīvaraṇa",
+    "thīna",
+    "thina-middha",
+    "viriya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "thīnamiddhaṃ",
+      "translation": "sluggishness and drowsiness",
+      "notes": "Standard hindrance expression.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "SN 46.51"
+  ],
   "tags": [
+    "core-practice",
+    "meditative-development",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry clarifying its role inside the thīna-middha hindrance pair."
 }

@@ -6,15 +6,14 @@
   "literal_meaning": "awakening factor",
   "preferred_translation": "awakening factor",
   "alternative_translations": [
-    "factor of awakening",
-    "awakening factor"
+    "factor of awakening"
   ],
   "discouraged_translations": [
     "enlightenment factor"
   ],
   "untranslated_preferred": false,
-  "definition": "A factor that supports and matures awakening.",
-  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose. Ven. Dr. M. Punnaji often presents the seven bojjhaṅgas as steps to awakening in pedagogical materials; the repository records that interpretive framing in notes while retaining awakening factor as the house default. Dhammarato's chanting manual reinforces the familiar chant-book labeling of the Bojjhanga Paritta as the protection based on the factors of awakening.",
+  "definition": "A factor cultivated and balanced in the process of awakening, classically enumerated as seven.",
+  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -22,52 +21,64 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where the English line benefits from a smoother noun phrase",
+      "context": "When the English sentence benefits from a smoother genitive phrase",
       "rendering": "factor of awakening",
-      "notes": "Acceptable alternate."
+      "notes": "Allowed alternate, especially in explanatory prose."
     },
     {
-      "context": "In Punnaji-style pedagogical sequencing of the seven bojjhaṅgas",
-      "rendering": "awakening factor",
-      "notes": "He often explains them as steps to awakening rather than merely listing them as factors."
+      "context": "In the fixed sevenfold framework",
+      "rendering": "awakening factors",
+      "notes": "Use the plural heading for sati, dhammavicaya, viriya, pīti, passaddhi, samādhi, and upekkhā."
     },
     {
-      "context": "In paritta titles and familiar liturgical headings",
+      "context": "In practice-oriented prose emphasizing cultivation and balancing",
       "rendering": "awakening factor",
-      "notes": "Source-backed liturgical rendering."
+      "notes": "Keep the term dynamic rather than treating it as a static metaphysical quality."
     }
   ],
   "related_terms": [
     "bodhi",
-    "sati",
     "dhammavicaya",
-    "viriya",
-    "pīti",
+    "middha",
+    "nīvaraṇa",
     "passaddhi",
+    "pīti",
     "samādhi",
-    "upekkhā"
+    "sati",
+    "thīna",
+    "upekkhā",
+    "viriya"
   ],
   "example_phrases": [
     {
       "pali": "satta bojjhaṅgā",
       "translation": "the seven awakening factors",
-      "notes": "Main collective expression for the group.",
+      "notes": "Standard framework expression.",
       "source": "SN 46.1"
     },
     {
       "pali": "bojjhaṅgabhāvanā",
       "translation": "development of the awakening factors",
-      "notes": "Useful compound showing practical cultivation.",
+      "notes": "Shows the framework as something cultivated.",
+      "source": "SN 46.1"
+    },
+    {
+      "pali": "bojjhaṅgā bhāvitā bahulīkatā",
+      "translation": "awakening factors developed and made much of",
+      "notes": "Useful for keeping the practical training force explicit.",
       "source": "SN 46.1"
     }
   ],
   "sutta_references": [
-    "SN 46.1"
+    "SN 46.1",
+    "SN 46.3",
+    "MN 118"
   ],
   "tags": [
     "core-practice",
     "meditative-development",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Expanded to make the seven-factor framework explicit and to encode its practical cultivation role rather than leaving the entry as a thin label."
 }

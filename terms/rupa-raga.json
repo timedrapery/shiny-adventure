@@ -1,23 +1,63 @@
 {
   "term": "rūpa-rāga",
   "normalized_term": "rupa-raga",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "passion for form",
-  "preferred_translation": "passion for form",
+  "preferred_translation": "passion for form existence",
   "alternative_translations": [
-    "attachment to form"
+    "passion for form",
+    "attachment to form realms"
   ],
   "discouraged_translations": [
     "materialism"
   ],
   "untranslated_preferred": false,
-  "definition": "Passion directed toward form realms or form experience.",
+  "definition": "Passion directed toward refined form existence or form realms, especially at higher stages of meditative attachment.",
+  "notes": "The project uses passion for form existence as the default because it makes clear that the term is not about crude attachment to ordinary physical objects alone. In fetter analysis it points to subtle attachment to form-realm becoming or attainment. Passion for form remains acceptable where the doctrinal setting is already explicit.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and higher-stage liberation analysis",
+      "rendering": "passion for form existence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In tightly doctrinal lists where the contrast with arūpa-rāga is already obvious",
+      "rendering": "passion for form",
+      "notes": "Allowed alternate when compactness helps."
+    },
+    {
+      "context": "In explanatory prose about attachment to refined meditative or cosmological states",
+      "rendering": "attachment to form realms",
+      "notes": "Use when the existential implication needs explicit wording."
+    }
+  ],
+  "related_terms": [
+    "anāgāmī",
+    "arahant",
+    "arupa-raga",
+    "bhava",
+    "jhāna",
+    "rūpabhava",
+    "saṃyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūparāgo",
+      "translation": "passion for form existence",
+      "notes": "One of the higher fetters.",
+      "source": "AN 10.13"
+    }
+  ],
   "sutta_references": [
+    "AN 10.13",
     "MN 64"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Promoted to a major entry and clarified as subtle attachment to form existence rather than simple attachment to visible form."
 }

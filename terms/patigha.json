@@ -1,23 +1,67 @@
 {
   "term": "paṭigha",
   "normalized_term": "patigha",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "resistance, aversion",
+  "literal_meaning": "striking against, resistance",
   "preferred_translation": "resistance",
   "alternative_translations": [
-    "repulsion"
+    "repulsion",
+    "aversion"
   ],
   "discouraged_translations": [
     "hatred"
   ],
   "untranslated_preferred": false,
-  "definition": "Reactive resistance or repulsion toward what is unpleasant.",
+  "definition": "Reactive resistance or striking-against in relation to what is unpleasant, opposed, or frustrating.",
+  "notes": "The project keeps resistance as the default because it is broad enough for both fetter analysis and practical psychology. Repulsion and aversion remain acceptable alternates when the line needs a stronger affective tone. Hatred is too narrow and too strong as a blanket default. In liberation-stage language paṭigha belongs with kāma-rāga as a fetter abandoned by the non-returner.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and liberation-stage analysis",
+      "rendering": "resistance",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the pushing-away or repelling movement",
+      "rendering": "repulsion",
+      "notes": "Allowed alternate when the line benefits from it."
+    },
+    {
+      "context": "When the affective aversive tone is central but hatred would be too strong",
+      "rendering": "aversion",
+      "notes": "Acceptable alternate in practical prose."
+    }
+  ],
+  "related_terms": [
+    "anāgāmī",
+    "byāpāda",
+    "dosa",
+    "kama-raga",
+    "nīvaraṇa",
+    "saṃyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmarāgo ca paṭigho ca",
+      "translation": "passion for sensuality and resistance",
+      "notes": "Classic pair abandoned by the non-returner.",
+      "source": "MN 64"
+    },
+    {
+      "pali": "paṭighasaṃyojana",
+      "translation": "the fetter of resistance",
+      "notes": "Shows the term inside the fetter framework."
+    }
+  ],
   "sutta_references": [
-    "MN 64"
+    "MN 64",
+    "SN 35.232"
   ],
   "tags": [
+    "core-doctrine",
+    "liberation",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Promoted to a major entry with explicit guidance for fetter and practical aversion contexts."
 }

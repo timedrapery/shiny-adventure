@@ -1,0 +1,16 @@
+{
+  "normalized_term": "parinibbana-dhatu",
+  "term": "parinibbāna-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of final nibbāna",
+  "preferred_translation": "parinibbāna element",
+  "definition": "The element of final nibbāna.",
+  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
+  "tags": [
+    "liberation"
+  ],
+  "status": "reviewed",
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "parinibbāna element"
+}

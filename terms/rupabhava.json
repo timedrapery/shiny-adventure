@@ -1,0 +1,59 @@
+{
+  "term": "rūpabhava",
+  "normalized_term": "rupabhava",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "form existence or form becoming",
+  "preferred_translation": "form existence",
+  "alternative_translations": [
+    "form becoming",
+    "the form mode of existence"
+  ],
+  "discouraged_translations": [
+    "material existence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Existence or becoming within the form domain.",
+  "notes": "The repository keeps form existence as the default because it aligns with the related handling of rūpa-rāga and the threefold bhava framework. Material existence is discouraged because it confuses the term with crude materialism rather than the doctrinal category of form realms or form-mode becoming.",
+  "context_rules": [
+    {
+      "context": "In the three modes of existence framework",
+      "rendering": "form existence",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing process rather than domain",
+      "rendering": "form becoming",
+      "notes": "Allowed alternate where continuity with bhava-language matters."
+    },
+    {
+      "context": "When the passage is classifying levels of becoming or rebirth",
+      "rendering": "the form mode of existence",
+      "notes": "Use when a fuller phrase helps modern readers."
+    }
+  ],
+  "related_terms": [
+    "arūpabhava",
+    "bhava",
+    "jhāna",
+    "kāmabhava",
+    "rupa-raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūpabhavo",
+      "translation": "form existence",
+      "notes": "One member of the threefold bhava framework."
+    }
+  ],
+  "sutta_references": [
+    "AN 3.76",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "context-sensitive"
+  ],
+  "status": "reviewed"
+}

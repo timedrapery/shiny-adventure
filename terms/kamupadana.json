@@ -1,14 +1,68 @@
 {
-  "term": "kamupadana",
+  "term": "kāmupādāna",
   "normalized_term": "kamupadana",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "preferred_translation": "sensual clinging",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "sensual clinging",
+  "preferred_translation": "sensual clinging",
+  "alternative_translations": [
+    "sensual appropriation",
+    "taking sensuality personally"
+  ],
+  "discouraged_translations": [
+    "attachment to pleasure"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clinging to sensuality and sense pleasure as something to possess, pursue, or identify with.",
+  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. The term belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising.",
+  "context_rules": [
+    {
+      "context": "In the four clinging-types framework",
+      "rendering": "sensual clinging",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the appropriating movement",
+      "rendering": "sensual appropriation",
+      "notes": "Allowed alternate when clinging sounds too static."
+    },
+    {
+      "context": "In practical explanation using the repo's upādāna language",
+      "rendering": "taking sensuality personally",
+      "notes": "Use selectively for close continuity with the headword upādāna."
+    }
+  ],
+  "related_terms": [
+    "bhava",
+    "kama-raga",
+    "kama-tanha",
+    "paṭiccasamuppāda",
+    "taṇhā",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "catasso upādānā",
+      "translation": "the four kinds of clinging",
+      "notes": "Framework heading for this subterm.",
+      "source": "MN 11"
+    },
+    {
+      "pali": "kāmupādānaṃ",
+      "translation": "sensual clinging",
+      "notes": "One member of the fourfold set.",
+      "source": "MN 11"
+    }
+  ],
+  "sutta_references": [
+    "MN 11",
+    "SN 12.2"
+  ],
   "tags": [
     "core-doctrine",
+    "dependent-origination",
     "mental-qualities"
-  ]
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a stub to a major entry governing the sensual member of the four clinging types."
 }

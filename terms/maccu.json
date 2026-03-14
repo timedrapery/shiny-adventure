@@ -1,0 +1,14 @@
+{
+  "normalized_term": "maccu",
+  "term": "maccu",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "death, death personified",
+  "preferred_translation": "death",
+  "definition": "Death, often personified or treated as a force.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

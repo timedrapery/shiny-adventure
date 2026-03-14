@@ -1,0 +1,14 @@
+{
+  "normalized_term": "vedana-dhatu",
+  "term": "vedanā-dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "element of feeling",
+  "preferred_translation": "felt-experience element",
+  "definition": "The element or domain of felt experience.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,18 @@
+{
+  "normalized_term": "dhatu",
+  "term": "dhātu",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "element, property",
+  "preferred_translation": "element",
+  "definition": "An element, property, domain, or basic constituent depending on context.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "draft",
+  "alternative_translations": [
+    "property",
+    "domain"
+  ]
+}

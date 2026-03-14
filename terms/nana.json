@@ -1,0 +1,64 @@
+{
+  "term": "ñāṇa",
+  "normalized_term": "nana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "knowing, knowledge",
+  "preferred_translation": "knowledge",
+  "alternative_translations": [
+    "knowing",
+    "direct knowledge"
+  ],
+  "discouraged_translations": [
+    "gnosis"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Knowledge or direct knowing, especially when experience is understood clearly and correctly.",
+  "notes": "The repository keeps knowledge as the default because it is broad, contemporary, and usable across compounds. Knowing remains acceptable when the processual side should stay audible, and direct knowledge works when the line is about immediacy rather than information. This entry should not silently import later technical taxonomies unless the compound or context clearly requires them.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and compound contexts",
+      "rendering": "knowledge",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the active process of cognizing",
+      "rendering": "knowing",
+      "notes": "Allowed alternate when the line benefits from motion."
+    },
+    {
+      "context": "When the passage emphasizes immediacy or realization rather than stored information",
+      "rendering": "direct knowledge",
+      "notes": "Use selectively in compounds or explanatory prose."
+    }
+  ],
+  "related_terms": [
+    "avijjā",
+    "bodhi",
+    "paññā",
+    "vipassana-nana",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ñāṇadassana",
+      "translation": "knowledge and seeing",
+      "notes": "Important compound family built from ñāṇa."
+    },
+    {
+      "pali": "khaye ñāṇaṃ",
+      "translation": "knowledge of wearing away",
+      "notes": "Shows the term in compound doctrinal use."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.23",
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,7 +1,7 @@
 {
   "term": "uddhacca",
   "normalized_term": "uddhacca",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "restlessness, agitation",
   "preferred_translation": "restlessness",
@@ -12,12 +12,58 @@
     "anxiety"
   ],
   "untranslated_preferred": false,
-  "definition": "Restlessness or unsettled agitation.",
+  "definition": "Restlessness or unsettled agitation that disturbs steadiness and collectedness.",
+  "notes": "The project keeps restlessness as the default because it works across both the hindrance family and the higher fetter list. Agitation remains acceptable where a slightly sharper affective tone is needed. Anxiety is discouraged because it narrows the term into a modern emotional category that does not cover the broader unsettledness named by the Pali.",
+  "context_rules": [
+    {
+      "context": "In the compound uddhacca-kukkucca within the hindrance framework",
+      "rendering": "restlessness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In the higher fetter list where uddhacca stands alone",
+      "rendering": "restlessness",
+      "notes": "Keep the same default so the doctrinal family remains stable."
+    },
+    {
+      "context": "In explanatory prose emphasizing mental turbulence or disturbance",
+      "rendering": "agitation",
+      "notes": "Allowed alternate when the line benefits from it."
+    }
+  ],
+  "related_terms": [
+    "arahant",
+    "kukkucca",
+    "nīvaraṇa",
+    "passaddhi",
+    "samādhi",
+    "saṃyojana",
+    "uddhacca-kukkucca"
+  ],
+  "example_phrases": [
+    {
+      "pali": "uddhacca-kukkucca",
+      "translation": "restlessness and remorse",
+      "notes": "Standard hindrance expression.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "uddhaccaṃ",
+      "translation": "restlessness",
+      "notes": "Standalone higher fetter usage.",
+      "source": "AN 10.13"
+    }
+  ],
   "sutta_references": [
+    "DN 2",
+    "AN 10.13",
     "SN 46.51"
   ],
   "tags": [
+    "core-doctrine",
+    "core-practice",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Promoted to a major entry to govern both hindrance and fetter usage consistently."
 }

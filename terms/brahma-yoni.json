@@ -1,0 +1,14 @@
+{
+  "normalized_term": "brahma-yoni",
+  "term": "brahma-yoni",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "brahmā birth",
+  "preferred_translation": "brahmā birth",
+  "definition": "The brahmā mode of birth or destination.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

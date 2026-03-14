@@ -1,23 +1,69 @@
 {
   "term": "kāma-rāga",
   "normalized_term": "kama-raga",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "sensual passion",
-  "preferred_translation": "sensual passion",
+  "literal_meaning": "passion for sensuality",
+  "preferred_translation": "passion for sensuality",
   "alternative_translations": [
-    "passion for sensuality"
+    "sensual passion",
+    "sensual lust"
   ],
   "discouraged_translations": [
     "lust"
   ],
   "untranslated_preferred": false,
-  "definition": "Passion directed toward sensuality.",
+  "definition": "Passion directed toward sensuality and the pleasures of the sense world.",
+  "notes": "The project keeps passion for sensuality as the default because it preserves the relation to kāma without collapsing the term into merely sexual lust. Sensual passion is acceptable when the English line needs a shorter phrase. This term should function both in fetter analysis and in broader doctrinal explanation of why sensuality binds the mind.",
+  "context_rules": [
+    {
+      "context": "In fetter lists and liberation-stage analysis",
+      "rendering": "passion for sensuality",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a shorter phrase reads better",
+      "rendering": "sensual passion",
+      "notes": "Allowed alternate when no narrowing is introduced."
+    },
+    {
+      "context": "When the passage is about attachment to the whole sensual domain rather than only sexual appetite",
+      "rendering": "passion for sensuality",
+      "notes": "Prefer the broader formulation."
+    }
+  ],
+  "related_terms": [
+    "anāgāmī",
+    "kamupadana",
+    "kama-tanha",
+    "kāmabhava",
+    "kāmacchanda",
+    "paṭigha",
+    "rāga",
+    "saṃyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmarāgo ca paṭigho ca",
+      "translation": "passion for sensuality and resistance",
+      "notes": "Classic pair of fetters abandoned by the non-returner.",
+      "source": "MN 64"
+    },
+    {
+      "pali": "kāmarāgasaṃyojanaṃ",
+      "translation": "the fetter of passion for sensuality",
+      "notes": "Shows the term inside the fetter framework."
+    }
+  ],
   "sutta_references": [
-    "MN 64"
+    "MN 64",
+    "SN 45.179"
   ],
   "tags": [
+    "core-doctrine",
+    "liberation",
     "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Promoted to a major entry and clarified against overly narrow sexual-lust readings."
 }

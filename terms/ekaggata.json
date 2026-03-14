@@ -1,15 +1,78 @@
 {
   "term": "ekaggatā",
   "normalized_term": "ekaggata",
-  "entry_type": "minor",
+  "entry_type": "major",
   "part_of_speech": "noun",
-  "preferred_translation": "singleness",
-  "definition": "Gathered singleness of mind that supports steadiness and unification.",
-  "status": "reviewed",
   "literal_meaning": "one-pointedness, singleness",
+  "preferred_translation": "singleness",
+  "alternative_translations": [
+    "unification",
+    "one-pointedness",
+    "collected singleness"
+  ],
+  "discouraged_translations": [
+    "concentration"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The singleness or gathered unification of mind associated with steadiness, samādhi, and jhāna.",
+  "notes": "This entry has been promoted to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and meditative contexts",
+      "rendering": "singleness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the relation to samādhi as unification of mind needs to be explicit",
+      "rendering": "unification",
+      "notes": "Allowed alternate in explanatory prose."
+    },
+    {
+      "context": "In technical comparison with standard Buddhist-English terminology",
+      "rendering": "one-pointedness",
+      "notes": "Use only when the technical continuity is useful and the line will not drift into concentration-language."
+    },
+    {
+      "context": "In jhāna-factor explanation",
+      "rendering": "collected singleness",
+      "notes": "Useful when plain singleness needs a little more practical texture."
+    }
+  ],
+  "related_terms": [
+    "jhāna",
+    "samādhi",
+    "samma-samadhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cetaso ekodibhāvaṃ",
+      "translation": "unification of mind",
+      "notes": "Closely related phrase that helps explain the family meaning.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "ekaggatā",
+      "translation": "singleness",
+      "notes": "Headword form for technical explanation."
+    },
+    {
+      "pali": "samāhitaṃ cittaṃ ekaggaṃ",
+      "translation": "a unified mind that is single",
+      "notes": "Shows the close relation of ekaggatā and samādhi.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 19",
+    "MN 44"
+  ],
   "tags": [
     "core-practice",
     "meditative-development",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "context-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a minor stub to a rule-bearing major entry with explicit guidance for singleness, unification, and one-pointedness."
 }

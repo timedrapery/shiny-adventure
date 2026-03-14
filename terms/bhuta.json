@@ -1,0 +1,18 @@
+{
+  "normalized_term": "bhuta",
+  "term": "bhūta",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "become, element, being",
+  "preferred_translation": "being",
+  "definition": "A being, existent thing, or what has come to be, depending on context.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "draft",
+  "alternative_translations": [
+    "what has come to be",
+    "existent thing"
+  ]
+}

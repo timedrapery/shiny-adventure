@@ -1,0 +1,17 @@
+{
+  "normalized_term": "sagga",
+  "term": "sagga",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "heaven",
+  "preferred_translation": "heaven",
+  "definition": "A heaven or heavenly destination.",
+  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed",
+  "discouraged_translations": [
+    "paradise"
+  ]
+}
