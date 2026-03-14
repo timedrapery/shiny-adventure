@@ -13,6 +13,14 @@ will involve one or more of these areas:
 - improving the style guide in [STYLE_GUIDE.md](STYLE_GUIDE.md)
 - clarifying editorial documentation in [docs/](docs)
 
+In the current schema, contributor shorthand maps to the live JSON fields like
+this:
+
+- preferred rendering -> `preferred_translation`
+- translation rule -> `context_rules`
+- usage notes -> `notes`
+- examples -> `example_phrases`
+
 ## First-Time Contributor Path
 
 If this is your first change, a good starting flow is:
@@ -57,10 +65,12 @@ On Windows PowerShell, activate the virtual environment with:
 - Keep filenames ASCII-safe and aligned with `normalized_term`.
 - Preserve current OSF house preferences unless you are intentionally proposing a change under [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
 - Use notes and context rules to explain important editorial choices.
+- For major entries, avoid definition-only edits that leave the rendering policy implicit.
 - Prefer small, focused pull requests over large mixed edits.
 - When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes UTF-8 explicitly.
 - For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
 - Install dependencies from `requirements-dev.txt` so local checks match CI.
+- Be aware that `python scripts/run_checks.py` runs editorial lint in strict mode, so warnings such as non-reciprocal `related_terms` links must be fixed before the full suite will pass.
 
 ## Before Opening a Pull Request
 

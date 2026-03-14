@@ -8,60 +8,53 @@
 [![Target](https://img.shields.io/badge/output-contemporary%20English-green)]()
 [![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)]()
 
-**shiny-adventure** is a structured translation lexicon designed to support
-accurate and consistent translation of Early Buddhist texts from **Pali into
-contemporary English** for the Open Sangha Foundation (OSF).
+**shiny-adventure** is a structured Pali-to-English translation lexicon for
+Early Buddhist texts. It preserves OSF house terminology as machine-readable
+editorial policy rather than as a loose glossary.
 
-The repository encodes **translation rules rather than dictionary
-definitions**. It functions simultaneously as:
+The repository serves three linked purposes:
 
-- a translator lexicon
+- a translator's lexicon
 - a house style guide
-- a doctrinal terminology registry
-- a machine-readable rule system
-- a translation memory for canonical texts
+- a machine-readable translation rule system
 
-The project aims to provide a **stable and transparent terminology layer for
-translating the Pali Canon** in a coherent OSF voice shaped primarily by
-Dhammarato and Buddhadasa Bhikkhu.
+Major entries are therefore not ordinary dictionary definitions. They are
+editorial records that tell contributors and tools how a term should usually be
+rendered, when it should be rendered differently, and when it should remain in
+Pali.
 
----
+## What A Term Entry Encodes
+
+The live schema uses these field names for the rule-bearing parts of an entry:
+
+- `preferred_translation` for the default preferred rendering
+- `context_rules` for translation rules that shift by context
+- `notes` for usage notes and editorial rationale
+- `example_phrases` for supporting examples
+
+For major terms, those fields together form the translation policy. The project
+is best understood as a translation control layer, not as a neutral dictionary.
 
 ## Why This Repository Exists
 
-Translations of early Buddhist texts often suffer from serious terminological
-inconsistency.
+Pali translation drifts quickly when major doctrinal vocabulary is handled
+case by case. Common failure modes include:
 
-Common problems include:
+- one headword translated several different ways without explanation
+- doctrinally sensitive terms normalized into vague English
+- compounds drifting away from headword policy
+- untranslated terms being kept in Pali without a stated reason
 
-- one Pali word translated several different ways
-- philosophical reinterpretation of technical vocabulary
-- inconsistent terminology across texts
-- loss of doctrinal precision
-
-This repository addresses the problem by defining explicit translation rules for
-doctrinal vocabulary.
-
-Each entry records:
-
-- preferred translation
-- literal meaning
-- contextual translation rules
-- doctrinal notes
-- cases where the Pali should remain untranslated
-
-The dataset therefore acts as a controlled vocabulary for canonical
-translation.
-
----
+This repository addresses that by making translation choices explicit,
+reviewable, and reusable across the corpus.
 
 ## Core Principles
 
 ### OSF Editorial Authority
 
-OSF house style is not a neutral average of many Buddhist-English traditions.
+OSF house style is not a neutral average of Buddhist-English traditions.
 
-The repo follows an explicit authority order documented in
+The repo follows the authority order documented in
 [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
 
 In practice this means:
@@ -91,97 +84,58 @@ otherwise.
 
 ### Transparency
 
-When a Pali term is left untranslated the reason is documented.
+When a Pali term is left untranslated, the reason should be documented.
 
 ### Rule-Bearing Terminology
 
-Major doctrinal terms encode translation rules rather than definitions.
-
----
+Major doctrinal terms encode translation rules rather than stand-alone
+definitions.
 
 ## Entry Types
 
-The dataset contains two entry classes.
+The dataset has two entry classes:
 
-### Major Entries (Rule-Bearing)
+- `major`
+  Rule-bearing entries for doctrinally important or context-sensitive terms.
+- `minor`
+  Lighter reference entries for terms that do not need a full rule system.
 
-Major entries encode translation policy.
+Major entries should normally include a defined default rendering, context
+rules, related terms, supporting examples, and notes explaining the editorial
+decision.
 
-These are used for:
-
-- core doctrinal vocabulary
-- context-sensitive terminology
-- canonical formula language
-- historically mistranslated terms
-
-Examples include:
-
-- dukkha
-- sankhara
-- sati
-- bhavana
-- jhana
-- paticcasamuppada
-
-### Minor Entries (Reference)
-
-Minor entries function more like dictionary records.
-
-Used for:
-
-- lower-frequency vocabulary
-- straightforward nouns or verbs
-- grammatical forms
-- liturgical and Vinaya-support terms that do not need full rule systems
-
----
-
-## Repository Architecture
+## Repository Layout
 
 ```text
-shiny-adventure
-├── terms
-│   doctrinal and liturgical term entries
-├── schema
-│   JSON schema defining entry structure
-├── docs
-│   translation policy and documentation
-└── scripts
-    utilities for generating and validating entries
+shiny-adventure/
+|- terms/    JSON term records, one file per headword
+|- schema/   JSON schema for term records
+|- docs/     editorial policy and contributor reference material
+|- scripts/  validation, lint, and batch-authoring utilities
+`- tests/    regression tests for repo tooling
 ```
-
-Each term exists as an independent file, which allows:
-
-- independent version control
-- machine-readable translation rules
-- incremental dataset growth
-- integration with translation tooling
-
----
 
 ## Example House Terminology
 
 | Pali | Preferred Rendering |
 | --- | --- |
 | dukkha | dissatisfaction; unsatisfactoriness; stress |
-| tanha | ignorant wanting |
+| taṇhā | ignorant wanting |
 | sati | remembering |
-| samadhi | unification of mind |
-| metta | friendliness |
-| bhavana | development |
+| samādhi | unification of mind |
+| mettā | friendliness |
+| bhāvanā | development |
 
 Some technical terms intentionally remain untranslated, such as:
 
-- anapanasati
-- nibbana
+- ānāpānasati
+- nibbāna
 - dhamma
-- bhikkhu / bhikkhus
+- bhikkhu
 
-In such cases, explanation is often preferred over forced translation.
+In such cases, explanation is preferred over forced equivalence.
 
----
-
-## Development Setup
+## Validation Workflow
 
 For local validation and test runs:
 
@@ -195,15 +149,22 @@ python scripts/run_checks.py
 On Windows PowerShell, use `.venv\Scripts\Activate.ps1` to activate the
 environment.
 
----
-
 ## Contributing
 
-Contributions should follow the term entry standard, schema, style guide, and
+Contributions should follow the schema, term entry standard, style guide, and
 OSF authority order. Start with:
 
 - [STYLE_GUIDE.md](STYLE_GUIDE.md)
+- [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
+- [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
 - [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
 - [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
 - [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md)
 - [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md)
+
+When reviewing or adding a major term, check three things before changing any
+English rendering:
+
+1. The headword's default rendering is explicit.
+2. Any context-specific exceptions are encoded in `context_rules`.
+3. The rationale is stated in `notes` so the choice can be audited later.

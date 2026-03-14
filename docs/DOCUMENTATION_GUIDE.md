@@ -20,6 +20,9 @@ If you are new to the project, this is the recommended reading order:
    usage.
 7. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
    Read this for the current repo-shaping roadmap and next editorial phase.
+8. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
+   Read this for the latest high-confidence structural review notes and open
+   cleanup priorities.
 
 ## What Each Document Does
 
@@ -33,6 +36,10 @@ If you are new to the project, this is the recommended reading order:
 - [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
   Defines the current roadmap for making the repo translation-ready by
   doctrinal cluster.
+- [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
+  Records the March 2026 structural review findings, especially where
+  translation drift risk should be handled by maintainers rather than patched
+  mechanically.
 - [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
   Standardizes tag choices and status values.
 - [`PUNNAJI_USAGE_PROFILE.md`](PUNNAJI_USAGE_PROFILE.md)
@@ -70,6 +77,10 @@ When editing or adding a term:
 3. Follow the term entry standard while drafting.
 4. Choose tags and status from the standard vocabulary.
 5. Run `python scripts/run_checks.py` before committing.
+
+Note that `run_checks.py` currently runs editorial lint in strict mode, so
+structural warnings such as non-reciprocal `related_terms` links will block the
+full check suite until resolved.
 
 ## Outside-Source Profiles
 
