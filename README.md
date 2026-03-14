@@ -136,7 +136,8 @@ This runs the same schema validation logic used by GitHub Actions.
 The lint script adds editorial checks such as unresolved related terms,
 one-way related-term links, and reviewed/stable major entries missing
 `sutta_references`. Use `python scripts/lint_terms.py --strict` if you want
-warnings to fail the run. The coverage audit script reports partial doctrinal
+warnings to fail the run. It also fails on suspicious `?` placeholder text in
+key textual fields so encoding corruption is caught before merge. The coverage audit script reports partial doctrinal
 families and ranked missing-term candidates so new content batches can be
 chosen more deliberately.
 

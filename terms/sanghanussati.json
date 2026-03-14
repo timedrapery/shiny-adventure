@@ -1,18 +1,18 @@
 {
-  "term": "sa?gh?nussati",
+  "term": "saṅghānussati",
   "normalized_term": "sanghanussati",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "recollection of the sa?gha",
-  "preferred_translation": "recollection of the sa?gha",
+  "literal_meaning": "recollection of the saṅgha",
+  "preferred_translation": "recollection of the saṅgha",
   "alternative_translations": [
-    "sa?gha recollection"
+    "saṅgha recollection"
   ],
   "discouraged_translations": [
     "group loyalty"
   ],
   "untranslated_preferred": false,
-  "definition": "Recollection of the sa?gha as a contemplative theme.",
+  "definition": "Recollection of the saṅgha as a contemplative theme.",
   "sutta_references": [
     "AN 11.12"
   ],
