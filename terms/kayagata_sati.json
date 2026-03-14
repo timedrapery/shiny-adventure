@@ -1,0 +1,63 @@
+{
+  "term": "kāyagatā sati",
+  "normalized_term": "kayagata_sati",
+  "entry_type": "major",
+  "part_of_speech": "phrase",
+  "literal_meaning": "sati gone to the body",
+  "preferred_translation": "kāyagatā sati",
+  "alternative_translations": [
+    "body-directed sati",
+    "mindfulness immersed in the body"
+  ],
+  "discouraged_translations": [
+    "body mindfulness"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "kāyagatā sati (sati directed to the body)",
+  "definition": "A mode of sati grounded in careful attention to the body as a field of practice and understanding.",
+  "notes": "The project keeps kāyagatā sati untranslated because the phrase is a specific technical expression, and shorter English options tend to flatten either the role of sati or the force of the compound. A concise gloss on first occurrence is usually enough.",
+  "context_rules": [
+    {
+      "context": "In source-facing translation and technical practice discussion",
+      "rendering": "kāyagatā sati",
+      "notes": "Default project practice is to keep the phrase untranslated."
+    },
+    {
+      "context": "On first occurrence where a gloss is needed",
+      "rendering": "kāyagatā sati",
+      "notes": "Use the gloss 'kāyagatā sati (sati directed to the body)' on first occurrence."
+    },
+    {
+      "context": "In explanatory prose where the structure of the phrase is being unpacked",
+      "rendering": "body-directed sati",
+      "notes": "Acceptable when a compact English gloss is necessary."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "ānāpānasati",
+    "bhāvanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāyagatāya satiyā asekho hoti",
+      "translation": "through kāyagatā sati one becomes beyond training",
+      "notes": "Shows the phrase as a technical practice expression.",
+      "source": "MN 119"
+    },
+    {
+      "pali": "kāyagatā sati bhāvitā bahulīkatā",
+      "translation": "when kāyagatā sati is developed and cultivated",
+      "notes": "Strong example of the phrase in practice instructions.",
+      "source": "MN 119"
+    }
+  ],
+  "sutta_references": [
+    "MN 119"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}

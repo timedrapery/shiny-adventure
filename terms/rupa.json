@@ -1,0 +1,51 @@
+{
+  "term": "rūpa",
+  "normalized_term": "rupa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "form, appearance",
+  "preferred_translation": "form",
+  "alternative_translations": [
+    "material form"
+  ],
+  "discouraged_translations": [
+    "body"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Material form or physical aspect within the analysis of experience.",
+  "notes": "The project prefers form because it is compact and already familiar in aggregate analysis. Material form can help in explanatory prose where the physical dimension needs to be made explicit, but body is too narrow for the full range of rūpa.",
+  "context_rules": [
+    {
+      "context": "In most aggregate and doctrinal contexts",
+      "rendering": "form",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose distinguishing physicality from mental factors",
+      "rendering": "material form",
+      "notes": "Use when added clarity outweighs brevity."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "vedanā",
+    "saḷāyatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūpakkhandha",
+      "translation": "the form heap",
+      "notes": "Basic aggregate usage."
+    },
+    {
+      "pali": "cakkhuñca paṭicca rūpe ca",
+      "translation": "dependent on eye and forms",
+      "notes": "Shows the term in sense-field context."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "aggregates"
+  ],
+  "status": "reviewed"
+}

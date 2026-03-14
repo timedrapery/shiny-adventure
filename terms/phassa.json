@@ -1,0 +1,55 @@
+{
+  "term": "phassa",
+  "normalized_term": "phassa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "touching, contact",
+  "preferred_translation": "contact",
+  "alternative_translations": [
+    "touch"
+  ],
+  "discouraged_translations": [
+    "sensation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Contact between sense field, object, and consciousness, giving rise to felt experience.",
+  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "contact",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In tightly literal explanatory prose",
+      "rendering": "touch",
+      "notes": "Use sparingly when the tactile metaphor matters."
+    }
+  ],
+  "related_terms": [
+    "saḷāyatana",
+    "vedanā",
+    "viññāṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "phassapaccayā vedanā",
+      "translation": "with contact as condition, feeling",
+      "notes": "Key dependent-origination link.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ ... phasso",
+      "translation": "dependent on eye and forms, eye-consciousness arises ... contact",
+      "notes": "Shows phassa as event arising from conjunction."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
+}

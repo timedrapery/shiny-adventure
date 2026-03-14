@@ -1,0 +1,62 @@
+{
+  "term": "upādāna",
+  "normalized_term": "upadana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "taking up, fuel, clinging",
+  "preferred_translation": "clinging",
+  "alternative_translations": [
+    "grasping",
+    "fuel"
+  ],
+  "discouraged_translations": [
+    "attachment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of taking up and holding onto experience, views, habits, or identity.",
+  "notes": "Clinging is the clearest general rendering and works well in dependent origination. Fuel remains useful in explanatory prose when the fire metaphor of ongoing becoming is being emphasized.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and dependent-origination contexts",
+      "rendering": "clinging",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing active appropriation",
+      "rendering": "grasping",
+      "notes": "Acceptable when the motion of taking hold is central."
+    },
+    {
+      "context": "In explanatory prose tied to the fire metaphor",
+      "rendering": "fuel",
+      "notes": "Use selectively because it is not the default doctrinal gloss."
+    }
+  ],
+  "related_terms": [
+    "taṇhā",
+    "dukkha",
+    "nibbāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "taṇhāpaccayā upādānaṃ",
+      "translation": "with craving as condition, clinging",
+      "notes": "Key dependent-origination link.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "pañcupādānakkhandhā",
+      "translation": "the five heaps of clinging",
+      "notes": "Important aggregate connection."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}

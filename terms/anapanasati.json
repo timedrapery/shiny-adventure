@@ -1,0 +1,62 @@
+{
+  "term": "ānāpānasati",
+  "normalized_term": "anapanasati",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "breathing sati",
+  "preferred_translation": "ānāpānasati",
+  "alternative_translations": [
+    "mindfulness of breathing"
+  ],
+  "discouraged_translations": [
+    "breath meditation"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "ānāpānasati (sati with breathing)",
+  "definition": "The practice of cultivating sati with the in-breath and out-breath as the immediate field of attention.",
+  "notes": "The project prefers leaving ānāpānasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful.",
+  "context_rules": [
+    {
+      "context": "In source-facing translation and practice instructions",
+      "rendering": "ānāpānasati",
+      "notes": "Default project practice is to keep the term untranslated."
+    },
+    {
+      "context": "On first occurrence where a gloss helps orient the reader",
+      "rendering": "ānāpānasati",
+      "notes": "Use the gloss 'ānāpānasati (sati with breathing)' on first occurrence."
+    },
+    {
+      "context": "In explanatory prose discussing the practice in plain English",
+      "rendering": "mindfulness of breathing",
+      "notes": "Acceptable for explanation, but not the preferred source-facing rendering."
+    }
+  ],
+  "related_terms": [
+    "sati",
+    "kāyagatā sati",
+    "samādhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ānāpānasati bhāvitā bahulīkatā",
+      "translation": "when ānāpānasati is developed and cultivated",
+      "notes": "Shows why the untranslated form can be cleaner in source-facing translation.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "so satova assasati satova passasati",
+      "translation": "they breathe in with sati and breathe out with sati",
+      "notes": "Closely tied practical formulation.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development"
+  ],
+  "status": "reviewed"
+}
