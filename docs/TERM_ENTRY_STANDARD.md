@@ -17,6 +17,13 @@ The dataset functions as:
 For that reason, **major terms must be rule-bearing entries rather than
 simple dictionary definitions.**
 
+Use this document alongside:
+
+- `docs/README.md`
+- `docs/DATA_DICTIONARY.md`
+- `docs/TAG_STATUS_VOCABULARY.md`
+- `STYLE_GUIDE.md`
+
 ------------------------------------------------------------------------
 
 # Entry Types
@@ -67,6 +74,18 @@ Minor entries may omit `context_rules` and `example_phrases`.
 
 However, the project generally favors **major entries for important
 terms**.
+
+------------------------------------------------------------------------
+
+# Suggested Workflow
+
+When working on an entry:
+
+1. Read the translation preference in `STYLE_GUIDE.md`.
+2. Confirm field meaning in `docs/DATA_DICTIONARY.md`.
+3. Draft or revise the entry in `terms/`.
+4. Choose tags and status from `docs/TAG_STATUS_VOCABULARY.md`.
+5. Validate the file before committing.
 
 ------------------------------------------------------------------------
 
