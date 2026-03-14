@@ -3,27 +3,33 @@
   "normalized_term": "vinnana-ahara",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "consciousness nutriment",
-  "preferred_translation": "consciousness nutriment",
+  "literal_meaning": "knowing nutriment",
+  "preferred_translation": "knowing nutriment",
   "alternative_translations": [
-    "nutriment of consciousness"
+    "nutriment of knowing",
+    "consciousness nutriment"
   ],
   "discouraged_translations": [
     "awareness food"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness as a nutriment that sustains continued name-and-form and unfolding experience.",
-  "notes": "The project prefers consciousness nutriment because it is direct and fits the established fourfold pattern. Nutriment of consciousness is acceptable where the English line benefits from a less compressed phrase.",
+  "definition": "Knowing as a nutriment that sustains continued name-and-form and unfolding experience.",
+  "notes": "The project prefers knowing nutriment because it aligns with the updated treatment of viññāṇa as knowing while still fitting the established fourfold pattern. Consciousness nutriment remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
-      "rendering": "consciousness nutriment",
+      "rendering": "knowing nutriment",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose where a slightly expanded phrase reads more clearly",
-      "rendering": "nutriment of consciousness",
+      "rendering": "nutriment of knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "consciousness nutriment",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "viññāṇaṃ catutthaṃ",
-      "translation": "consciousness is the fourth",
+      "translation": "knowing is the fourth",
       "notes": "The fourth of the four nutriments.",
       "source": "SN 12.11"
     }

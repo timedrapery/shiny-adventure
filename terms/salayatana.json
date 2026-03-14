@@ -3,31 +3,39 @@
   "normalized_term": "salayatana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "six bases or six domains",
-  "preferred_translation": "sense field",
+  "literal_meaning": "six stretchings out",
+  "preferred_translation": "six fields of experience",
   "alternative_translations": [
-    "six sense fields"
+    "six sense fields",
+    "sense field",
+    "six sense bases",
+    "six sense domains"
   ],
   "discouraged_translations": [
-    "sense base"
+    "sense organs"
   ],
   "untranslated_preferred": false,
-  "definition": "The six sense fields through which contact and cognition occur.",
-  "notes": "The project prefers sense field because it reads more naturally than sense base while still retaining the analytical structure of the term. In dependent origination contexts, the plural force is often strongly implied even when the compound appears as a doctrinal link. The term should be heard as the sixfold cognitive field that makes contact possible, not merely as a static list of organs.",
+  "definition": "The six fields of experience through which contact and knowing occur.",
+  "notes": "This entry uses six fields of experience as the house default. The literal force is six stretchings out, from cha plus āyatana, while the preferred translation keeps the sixfold doctrinal structure readable without reducing the term to physical sense organs alone. The term should be heard as the sixfold experiential field through which contact becomes possible.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
-      "rendering": "sense field",
+      "rendering": "six fields of experience",
       "notes": "Default project rendering."
     },
     {
       "context": "When the sixfold structure needs to be explicit in prose",
+      "rendering": "six fields of experience",
+      "notes": "Use when the doctrinal count should be clearly heard."
+    },
+    {
+      "context": "When the sense-based side of the term needs to be foregrounded explicitly",
       "rendering": "six sense fields",
-      "notes": "Use when the singular English phrase would hide the doctrinal count."
+      "notes": "Acceptable alternate when the sensory structure should be made more explicit."
     },
     {
       "context": "When the passage highlights the link from name-and-form into the arising of contact",
-      "rendering": "sense field",
+      "rendering": "six fields of experience",
       "notes": "Keep the term within the dependent-origination chain rather than treating it as isolated anatomy."
     }
   ],
@@ -53,8 +61,9 @@
   "example_phrases": [
     {
       "pali": "saḷāyatana paccayā phasso",
-      "translation": "with sense field as condition, contact",
-      "notes": "Dependent origination usage."
+      "translation": "with six fields of experience as condition, contact",
+      "notes": "Dependent-arising usage.",
+      "source": "SN 12.2"
     },
     {
       "pali": "ajjhattikāni āyatanāni",
@@ -63,7 +72,7 @@
     },
     {
       "pali": "nāmarūpapaccayā saḷāyatanaṃ",
-      "translation": "with name-and-form as condition, sense field",
+      "translation": "with name-and-form as condition, six fields of experience",
       "notes": "Upstream link in the standard sequence.",
       "source": "SN 12.2"
     }

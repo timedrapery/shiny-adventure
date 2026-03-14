@@ -3,38 +3,39 @@
   "normalized_term": "vedana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "feeling, felt tone",
-  "preferred_translation": "feeling",
+  "literal_meaning": "causing to know",
+  "preferred_translation": "felt experience",
   "alternative_translations": [
-    "felt tone",
+    "feeling",
+    "feeling tone",
     "sensation"
   ],
   "discouraged_translations": [
     "emotion"
   ],
   "untranslated_preferred": false,
-  "definition": "The felt quality of experience as pleasant, painful, or neutral.",
-  "notes": "Feeling is the clearest default for the project, provided it is understood as felt tone rather than emotion. Felt tone can be useful in explanatory prose when modern readers are likely to confuse vedanā with mood or sentiment. The term should be heard as an immediate affective tone in experience and as a crucial turning point in the dependent-origination sequence, not as a fully elaborated emotional state. Ven. Dr. M. Punnaji's meditation explanations reinforce vedanā as feeling rather than emotion, especially where bodily pleasant and unpleasant tones are being observed directly. The OSF glossary uses sensation alongside feeling for vedanā; the repository records sensation as a source-backed alternate while retaining feeling as the default.",
+  "definition": "Pleasant, unpleasant, or mixed felt experience; the affective tone through which experience is known.",
+  "notes": "This entry uses felt experience as the house default. The literal force is causing to know, while the translation keeps the term readable and broad enough to cover pleasant, unpleasant, and mixed feeling. Feeling, feeling tone, and sensation remain acceptable alternates depending on context, but the term should be heard as immediate affective experience and as a crucial turning point in the dependent-arising sequence, not as a fully elaborated emotional state. In aggregate analysis, vedanā is the second of the five aggregates.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
-      "rendering": "feeling",
+      "rendering": "felt experience",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose clarifying that emotion is not intended",
-      "rendering": "felt tone",
+      "rendering": "feeling tone",
       "notes": "Useful when precision needs emphasis."
     },
     {
-      "context": "When the passage emphasizes the link between contact and craving in the dependent-origination chain",
-      "rendering": "feeling",
+      "context": "When the passage emphasizes the link between contact and wanting in the dependent-arising chain",
+      "rendering": "felt experience",
       "notes": "Keep the term simple and immediate rather than psychologizing it."
     },
     {
-      "context": "In OSF-glossary style explanation of felt experience from contact",
-      "rendering": "sensation",
-      "notes": "Source-backed alternate, not the house default."
+      "context": "In aggregate analysis",
+      "rendering": "felt experience",
+      "notes": "Vedanā is the second of the five aggregates."
     }
   ],
   "related_terms": [
@@ -52,13 +53,13 @@
   "example_phrases": [
     {
       "pali": "phassapaccayā vedanā",
-      "translation": "with contact as condition, feeling",
-      "notes": "Key dependent-origination link.",
+      "translation": "with contact as condition, felt experience",
+      "notes": "Key dependent-arising link.",
       "source": "SN 12.2"
     },
     {
       "pali": "sukhā vedanā",
-      "translation": "pleasant feeling",
+      "translation": "pleasant felt experience",
       "notes": "Simple subtype example."
     }
   ],

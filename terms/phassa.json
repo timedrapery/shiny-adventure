@@ -3,7 +3,7 @@
   "normalized_term": "phassa",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "touching, contact",
+  "literal_meaning": "touch",
   "preferred_translation": "contact",
   "alternative_translations": [
     "touch"
@@ -12,7 +12,7 @@
     "sensation"
   ],
   "untranslated_preferred": false,
-  "definition": "Contact between sense field, object, and consciousness, giving rise to felt experience.",
+  "definition": "Contact between field, object, and knowing, giving rise to felt experience.",
   "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself. The term should be heard as an event of conjunction within the sense process, not as the feeling that comes after it.",
   "context_rules": [
     {
@@ -62,7 +62,7 @@
     },
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ ... phasso",
-      "translation": "dependent on eye and forms, eye-consciousness arises ... contact",
+      "translation": "dependent on eye and forms, eye-knowing arises ... contact",
       "notes": "Shows phassa as event arising from conjunction."
     }
   ],

@@ -3,42 +3,37 @@
   "normalized_term": "jati",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "birth, arising",
-  "preferred_translation": "birth",
+  "literal_meaning": "birth",
+  "preferred_translation": "rebirth",
   "alternative_translations": [
+    "conception",
+    "birth",
     "arising"
   ],
-  "discouraged_translations": [
-    "caste"
-  ],
+  "discouraged_translations": [],
   "untranslated_preferred": false,
-  "definition": "Birth or coming-into-being, especially as conditioned by becoming in dependent origination.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Birth remains the default because it still carries the strongest reusable force in the standard sequence, but OSF now explicitly treats the moment-to-moment birth of I and mine as the primary explanatory frame for this term in dependent-arising practice discussions.",
+  "definition": "Rebirth, conception, or birth, especially as conditioned by becoming in dependent arising.",
+  "notes": "This entry keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence.",
   "context_rules": [
     {
-      "context": "In the standard dependent-origination sequence",
-      "rendering": "birth",
+      "context": "In the standard dependent-arising sequence",
+      "rendering": "rebirth",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing process rather than event",
-      "rendering": "arising",
-      "notes": "Acceptable alternate when the English line benefits from it."
+      "context": "When the passage emphasizes the initiating or formative moment",
+      "rendering": "conception",
+      "notes": "Use when the arising side of the term should be foregrounded."
+    },
+    {
+      "context": "When the passage emphasizes the broader event rather than the initiating moment",
+      "rendering": "birth",
+      "notes": "Acceptable alternate when it reads more naturally."
     },
     {
       "context": "When the passage emphasizes the movement from becoming into aging-and-death",
-      "rendering": "birth",
+      "rendering": "rebirth",
       "notes": "Keep the place of the link within the chain explicit."
-    },
-    {
-      "context": "In Buddhadasa-style practical dependent-origination explanation",
-      "rendering": "birth",
-      "notes": "Notes may explicitly unpack this as the birth of I and mine or the arising of suffering in immediate experience."
-    },
-    {
-      "context": "In OSF practical dependent-arising explanation of the repeated arising of selfing and suffering",
-      "rendering": "birth",
-      "notes": "Default retained, but explicitly interpreted through the Buddhadasa line."
     }
   ],
   "related_terms": [
@@ -51,13 +46,13 @@
   "example_phrases": [
     {
       "pali": "bhavapaccayā jāti",
-      "translation": "with becoming as condition, birth",
-      "notes": "Standard dependent-origination link.",
+      "translation": "with becoming as condition, rebirth",
+      "notes": "Standard dependent-arising link.",
       "source": "SN 12.2"
     },
     {
       "pali": "jāti pi dukkhā",
-      "translation": "birth too is dissatisfaction",
+      "translation": "rebirth too is dissatisfaction",
       "notes": "Four noble truths framing.",
       "source": "SN 56.11"
     }

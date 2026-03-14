@@ -3,27 +3,33 @@
   "normalized_term": "jivha-vinnana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "tongue-consciousness",
-  "preferred_translation": "tongue-consciousness",
+  "literal_meaning": "tongue-knowing",
+  "preferred_translation": "tongue-knowing",
   "alternative_translations": [
-    "gustatory consciousness"
+    "tongue-consciousness",
+    "gustatory knowing"
   ],
   "discouraged_translations": [
     "taste-consciousness"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness arising dependent on tongue and taste.",
-  "notes": "The project prefers tongue-consciousness because it matches the canonical pattern and stays readable. Gustatory consciousness is acceptable in explanatory prose when the technical modality is the point.",
+  "definition": "Knowing arising dependent on tongue and taste.",
+  "notes": "The project prefers tongue-knowing because it matches the canonical pattern while aligning with the updated treatment of viññāṇa as knowing. Tongue-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
-      "rendering": "tongue-consciousness",
+      "rendering": "tongue-knowing",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose emphasizing the sensory modality",
-      "rendering": "gustatory consciousness",
+      "rendering": "gustatory knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "tongue-consciousness",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "jivhañca paṭicca rase ca uppajjati jivhāviññāṇaṃ",
-      "translation": "dependent on the tongue and tastes, tongue-consciousness arises",
+      "translation": "dependent on the tongue and tastes, tongue-knowing arises",
       "notes": "Standard sense-base formula.",
       "source": "MN 148"
     }

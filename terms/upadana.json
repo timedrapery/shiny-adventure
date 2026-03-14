@@ -3,9 +3,11 @@
   "normalized_term": "upadana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "taking up, fuel, clinging",
-  "preferred_translation": "clinging",
+  "literal_meaning": "taking near",
+  "preferred_translation": "taking personally",
   "alternative_translations": [
+    "ignorantly holding",
+    "clinging",
     "grasping",
     "fuel"
   ],
@@ -13,13 +15,23 @@
     "attachment"
   ],
   "untranslated_preferred": false,
-  "definition": "The act of taking up and holding onto experience, views, habits, or identity.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term, with Dhammarato supporting the practical language of taking up trouble in real time. Clinging remains the default, but the term is now explicitly governed by the OSF reading of appropriation into I and mine rather than by a generic emotional attachment model.",
+  "definition": "Taking experience personally or ignorantly holding onto experience, views, habits, or identity.",
+  "notes": "This entry uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment.",
   "context_rules": [
     {
-      "context": "In most doctrinal and dependent-origination contexts",
-      "rendering": "clinging",
+      "context": "In most doctrinal and dependent-arising contexts",
+      "rendering": "taking personally",
       "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing sustained appropriation or holding",
+      "rendering": "ignorantly holding",
+      "notes": "Use when the ongoing holding side of the term is more important than the personalizing side."
+    },
+    {
+      "context": "In comparative doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "clinging",
+      "notes": "Acceptable alternate when continuity with established usage helps."
     },
     {
       "context": "In prose emphasizing active appropriation",
@@ -30,26 +42,6 @@
       "context": "In explanatory prose tied to the fire metaphor",
       "rendering": "fuel",
       "notes": "Use selectively because it is not the default doctrinal gloss."
-    },
-    {
-      "context": "When the passage emphasizes the transition from craving into the sustaining of becoming",
-      "rendering": "clinging",
-      "notes": "Keep the dependent-origination force of taking-up and holding-to explicit."
-    },
-    {
-      "context": "In Buddhadasa-style practical dependent-origination explanation",
-      "rendering": "clinging",
-      "notes": "Notes may explicitly stress appropriation into I and mine."
-    },
-    {
-      "context": "In OSF practical dependent-arising explanation of appropriation into I and mine",
-      "rendering": "clinging",
-      "notes": "Primary-source-backed default within the OSF line."
-    },
-    {
-      "context": "In prose emphasizing active taking-up that fuels becoming",
-      "rendering": "grasping",
-      "notes": "Acceptable alternate when the motion of appropriation matters."
     }
   ],
   "related_terms": [
@@ -65,13 +57,13 @@
   "example_phrases": [
     {
       "pali": "taṇhāpaccayā upādānaṃ",
-      "translation": "with craving as condition, clinging",
-      "notes": "Key dependent-origination link.",
+      "translation": "with ignorant wanting as condition, taking personally",
+      "notes": "Key dependent-arising link.",
       "source": "SN 12.2"
     },
     {
       "pali": "pañcupādānakkhandhā",
-      "translation": "the five heaps of clinging",
+      "translation": "the five heaps taken personally",
       "notes": "Important aggregate connection."
     }
   ],

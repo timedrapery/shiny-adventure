@@ -3,27 +3,33 @@
   "normalized_term": "sota-vinnana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "ear-consciousness",
-  "preferred_translation": "ear-consciousness",
+  "literal_meaning": "ear-knowing",
+  "preferred_translation": "ear-knowing",
   "alternative_translations": [
-    "auditory consciousness"
+    "ear-consciousness",
+    "auditory knowing"
   ],
   "discouraged_translations": [
     "hearing"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness arising dependent on ear and sound.",
-  "notes": "The project prefers ear-consciousness because it stays close to the sixfold analytical pattern. Auditory consciousness is acceptable in explanatory prose if a smoother English phrase helps.",
+  "definition": "Knowing arising dependent on ear and sound.",
+  "notes": "The project prefers ear-knowing because it stays close to the sixfold analytical pattern while aligning with the updated treatment of viññāṇa as knowing. Ear-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
-      "rendering": "ear-consciousness",
+      "rendering": "ear-knowing",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose where the English compound needs softening",
-      "rendering": "auditory consciousness",
+      "rendering": "auditory knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "ear-consciousness",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "sotañca paṭicca sadde ca uppajjati sotaviññāṇaṃ",
-      "translation": "dependent on the ear and sounds, ear-consciousness arises",
+      "translation": "dependent on the ear and sounds, ear-knowing arises",
       "notes": "Standard sense-base formula.",
       "source": "MN 148"
     }

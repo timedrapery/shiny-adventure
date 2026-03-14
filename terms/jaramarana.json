@@ -3,32 +3,38 @@
   "normalized_term": "jaramarana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "aging-and-death",
-  "preferred_translation": "aging-and-death",
+  "literal_meaning": "old age and death",
+  "preferred_translation": "ageing and dying",
   "alternative_translations": [
+    "aging-and-death",
     "old age and death"
   ],
   "discouraged_translations": [
     "mortality"
   ],
   "untranslated_preferred": false,
-  "definition": "Aging and death as the culminating suffering conditioned by birth in the dependent-arising sequence.",
-  "notes": "The project prefers aging-and-death because it preserves the compound structure and matches the rhythm of the standard sequence. Old age and death is acceptable when a more idiomatic English phrase is wanted in explanatory prose. The term should be heard as the culminating afflicted outcome of the chain, along with the standard expansion into sorrow and related forms of distress.",
+  "definition": "Ageing and dying as the culminating suffering conditioned by rebirth in the dependent-arising sequence.",
+  "notes": "This entry uses ageing and dying as the house default because it reads naturally in English while preserving the compound movement of the term. Old age and death remains the literal anchor, and aging-and-death remains available where the tighter doctrinal compound is preferred. The term should be heard as the culminating afflicted outcome of the chain, along with the standard expansion into sorrow and related forms of distress.",
   "context_rules": [
     {
-      "context": "In most dependent-origination contexts",
-      "rendering": "aging-and-death",
+      "context": "In most dependent-arising contexts",
+      "rendering": "ageing and dying",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where a more familiar English phrase helps",
+      "context": "In more literal or tightly formulaic doctrinal prose",
+      "rendering": "aging-and-death",
+      "notes": "Acceptable alternate when the compound structure should remain more explicit."
+    },
+    {
+      "context": "In explanatory prose where a familiar phrase helps",
       "rendering": "old age and death",
       "notes": "Acceptable alternate outside tightly patterned formula translation."
     },
     {
-      "context": "When the passage emphasizes the culminating suffering that follows birth in the sequence",
-      "rendering": "aging-and-death",
-      "notes": "Keep the place of the link as the terminal patterned compound explicit."
+      "context": "When the passage emphasizes the culminating suffering that follows rebirth in the sequence",
+      "rendering": "ageing and dying",
+      "notes": "Keep the place of the link as the terminal compound explicit."
     }
   ],
   "related_terms": [
@@ -42,14 +48,14 @@
   "example_phrases": [
     {
       "pali": "jātipaccayā jarāmaraṇaṃ",
-      "translation": "with birth as condition, aging-and-death",
+      "translation": "with rebirth as condition, ageing and dying",
       "notes": "Closing link of the standard sequence.",
       "source": "SN 12.2"
     },
     {
       "pali": "sokaparidevadukkhadomanassupāyāsā sambhavanti",
       "translation": "sorrow, lamentation, dissatisfaction, distress, and despair come to be",
-      "notes": "Standard expansion following aging-and-death in the formula.",
+      "notes": "Standard expansion following ageing and dying in the formula.",
       "source": "SN 12.2"
     }
   ],
