@@ -20,8 +20,9 @@ If this is your first change, a good starting flow is:
 
 1. Read [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
 2. Read [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md).
-3. Review one or two existing entries in [`terms/`](terms).
-4. Make a small change such as improving notes, adding tags, or drafting one new term.
+3. Read [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md) before adding tags or setting an entry status.
+4. Review one or two existing entries in [`terms/`](terms).
+5. Make a small change such as improving notes, adding tags, or drafting one new term.
 
 ## Contribution Workflow
 
@@ -56,6 +57,7 @@ Please check the following:
 - The JSON is valid.
 - The entry matches the schema.
 - The wording is consistent with [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
+- The tags and status values follow [`docs/TAG_STATUS_VOCABULARY.md`](docs/TAG_STATUS_VOCABULARY.md).
 - New major entries include notes, context rules, related terms, and example phrases.
 - The pull request description explains any non-obvious translation decision.
 
