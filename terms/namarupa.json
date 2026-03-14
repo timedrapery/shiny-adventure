@@ -3,17 +3,18 @@
   "normalized_term": "namarupa",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "name-and-form",
+  "literal_meaning": "name and form",
   "preferred_translation": "name-and-form",
   "alternative_translations": [
-    "mentality-and-materiality"
-  ],
-  "discouraged_translations": [
+    "naming and materiality",
+    "mental and physical phenomena",
+    "mental and physical objects of consciousness",
     "mind and body"
   ],
+  "discouraged_translations": [],
   "untranslated_preferred": false,
-  "definition": "The psycho-physical structuring of experience, pairing the naming or mental side with the form side.",
-  "notes": "The project keeps the literal compound name-and-form as the default because it preserves the structure of the term without prematurely choosing an interpretive paraphrase. Mind and body is too modernized and too coarse for many canonical contexts. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and consciousness, rather than as a simple modern body-mind dualism.",
+  "definition": "The pairing of name and form, or the mental and physical phenomena structured within experience.",
+  "notes": "The project keeps name-and-form as the default because it preserves the compact doctrinal structure of the compound without collapsing it too quickly into a paraphrase. Depending on context, the term may be unpacked as naming and materiality or as mental and physical phenomena or objects of consciousness. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and knowing.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -21,14 +22,24 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where the mental and material dimensions need to be made explicit",
-      "rendering": "mentality-and-materiality",
-      "notes": "Acceptable alternate when clarity outweighs compactness."
+      "context": "In explanatory prose where the processive or functional sides need to be made explicit",
+      "rendering": "naming and materiality",
+      "notes": "Use when the active naming side of nāma should be heard more clearly."
     },
     {
       "context": "When the passage emphasizes the paired structuring of experience in dependent origination",
       "rendering": "name-and-form",
       "notes": "Preserve the doctrinal compactness of the canonical compound."
+    },
+    {
+      "context": "In explanatory prose unpacking the pair for modern readers",
+      "rendering": "mental and physical phenomena",
+      "notes": "Acceptable alternate when a broader explanatory gloss is helpful."
+    },
+    {
+      "context": "When the passage is explaining nāmarūpa as the mental and physical objects related to knowing",
+      "rendering": "mental and physical objects of consciousness",
+      "notes": "Use only where that explanatory framing is specifically intended."
     }
   ],
   "related_terms": [
@@ -42,7 +53,7 @@
   "example_phrases": [
     {
       "pali": "viññāṇapaccayā nāmarūpaṃ",
-      "translation": "with consciousness as condition, name-and-form",
+      "translation": "with knowing as condition, name-and-form",
       "notes": "Central dependent-arising link.",
       "source": "SN 12.2"
     },

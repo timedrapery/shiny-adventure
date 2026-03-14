@@ -3,20 +3,24 @@
   "normalized_term": "vinnana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "knowing apart, discriminative awareness",
-  "preferred_translation": "consciousness",
+  "literal_meaning": "knowing distinctly",
+  "preferred_translation": "knowing",
   "alternative_translations": [
+    "consciousness",
     "awareness"
   ],
-  "discouraged_translations": [],
+  "discouraged_translations": [
+    "pure awareness",
+    "witness consciousness"
+  ],
   "untranslated_preferred": false,
-  "definition": "The discriminative consciousness associated with a sense field and its object, and central to both aggregate and dependent-origination analysis.",
-  "notes": "Viññāṇa refers to the consciousness that arises dependent on a sense field and an object. The project keeps consciousness as the default because it is the clearest stable rendering in both aggregate and dependent-origination contexts. Awareness remains acceptable in explanatory prose, but only where it does not imply a permanent substrate or diffuse background self. The term should be heard as conditioned and multiple rather than as a hidden witness behind experience.",
+  "definition": "Knowing associated with a sense field and its object, central to both aggregate and dependent-origination analysis.",
+  "notes": "This entry uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate.",
   "context_rules": [
     {
-      "context": "When referring to the six sense consciousnesses",
-      "rendering": "consciousness",
-      "notes": "Default rendering."
+      "context": "When referring to the six sense modes of viññāṇa",
+      "rendering": "knowing",
+      "notes": "Default project rendering."
     },
     {
       "context": "When explanatory prose needs a smoother English line",
@@ -24,9 +28,14 @@
       "notes": "Use carefully and do not imply a permanent substrate."
     },
     {
-      "context": "When the passage emphasizes the reciprocal relation of consciousness and name-and-form",
-      "rendering": "consciousness",
+      "context": "When the passage emphasizes the reciprocal relation of knowing and name-and-form",
+      "rendering": "knowing",
       "notes": "Keep the term firmly within conditioned process rather than metaphysical speculation."
+    },
+    {
+      "context": "When comparative doctrinal prose needs continuity with established Buddhist-English usage",
+      "rendering": "consciousness",
+      "notes": "Acceptable alternate when standard terminology is helpful."
     }
   ],
   "related_terms": [
@@ -52,15 +61,15 @@
   "example_phrases": [
     {
       "pali": "cakkhuviññāṇa",
-      "translation": "eye-consciousness",
-      "notes": "Illustrates one of the six consciousnesses.",
+      "translation": "eye-knowing",
+      "notes": "Illustrates one of the six modes of knowing.",
       "source": "SN 12.2"
     },
     {
-      "pali": "viññāṇaṁ anidassanaṁ",
-      "translation": "non-manifest consciousness",
-      "notes": "A debated phrase; included here as an example only.",
-      "source": "DN 11"
+      "pali": "saṅkhārapaccayā viññāṇaṃ",
+      "translation": "with putting things together as condition, knowing",
+      "notes": "Standard dependent-arising link.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [

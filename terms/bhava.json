@@ -3,42 +3,53 @@
   "normalized_term": "bhava",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "becoming, being",
+  "literal_meaning": "being; becoming",
   "preferred_translation": "becoming",
   "alternative_translations": [
-    "existence"
+    "being",
+    "existence",
+    "state of existence",
+    "form of becoming",
+    "development",
+    "well-being",
+    "prosperity"
   ],
   "discouraged_translations": [
     "life"
   ],
   "untranslated_preferred": false,
-  "definition": "The process or mode of becoming conditioned by clinging and leading onward to birth.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Becoming remains the default because it best preserves process, and the term is now explicitly governed by the practical reading in which clinging sustains the becoming that issues in fresh birth of I and mine.",
+  "definition": "Becoming or being, especially the process sustained by taking personally and leading onward to birth.",
+  "notes": "This entry keeps becoming as the house default for dependent-arising contexts because it preserves the processive force of the term in the chain. The semantic range is broader than that default and can include being, existence, state of existence, form of becoming, development, well-being, and prosperity depending on context. Exhortative senses such as be! or you must be! belong to a wider usage history rather than to the normal doctrinal default here.",
   "context_rules": [
     {
-      "context": "In most dependent-origination and doctrinal contexts",
+      "context": "In most dependent-arising and doctrinal contexts",
       "rendering": "becoming",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where the mode of existence is under discussion",
-      "rendering": "existence",
-      "notes": "Acceptable when it improves readability without losing process."
+      "context": "When the passage emphasizes a stable mode or state rather than process",
+      "rendering": "being",
+      "notes": "Use when the state-side of the term is more important than the process-side."
     },
     {
-      "context": "When the passage emphasizes the link from clinging into birth in the standard sequence",
+      "context": "In explanatory prose where mode or level of existence is under discussion",
+      "rendering": "existence",
+      "notes": "Acceptable when it improves readability without losing doctrinal precision."
+    },
+    {
+      "context": "When the passage emphasizes the link from taking personally into birth in the standard sequence",
       "rendering": "becoming",
       "notes": "Keep the processive force of the term explicit."
     },
     {
-      "context": "In Buddhadasa-style practical dependent-origination explanation",
-      "rendering": "becoming",
-      "notes": "Notes may explicitly connect becoming to egoic or affective birth rather than only biological rebirth."
+      "context": "In contexts of growth, thriving, or flourishing outside the dependent-arising chain",
+      "rendering": "development",
+      "notes": "Use only where the broader semantic range is clearly intended."
     },
     {
-      "context": "In OSF practical dependent-arising explanation of the process sustained by clinging",
-      "rendering": "becoming",
-      "notes": "Primary-source-backed default within the Buddhadasa line."
+      "context": "In contexts of welfare or prosperity outside the chain",
+      "rendering": "well-being",
+      "notes": "Use only where the surrounding passage clearly supports that sense."
     }
   ],
   "related_terms": [
@@ -56,8 +67,8 @@
   "example_phrases": [
     {
       "pali": "upādānapaccayā bhavo",
-      "translation": "with clinging as condition, becoming",
-      "notes": "Key dependent-origination link.",
+      "translation": "with taking personally as condition, becoming",
+      "notes": "Key dependent-arising link.",
       "source": "SN 12.2"
     },
     {

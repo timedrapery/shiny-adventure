@@ -3,27 +3,33 @@
   "normalized_term": "mano-vinnana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "mind-consciousness",
-  "preferred_translation": "mind-consciousness",
+  "literal_meaning": "mind-knowing",
+  "preferred_translation": "mind-knowing",
   "alternative_translations": [
-    "mental consciousness"
+    "mind-consciousness",
+    "mental knowing"
   ],
   "discouraged_translations": [
     "thought"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness arising dependent on the mental faculty and dhammas.",
-  "notes": "The project prefers mind-consciousness because it preserves the analytical relation between mano and viññāṇa without collapsing the term into thought. Mental consciousness is acceptable in explanatory prose when the compound needs a slightly smoother English shape.",
+  "definition": "Knowing arising dependent on the mental faculty and dhammas.",
+  "notes": "The project prefers mind-knowing because it preserves the analytical relation between mano and viññāṇa while aligning with the updated treatment of viññāṇa as knowing. Mind-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
-      "rendering": "mind-consciousness",
+      "rendering": "mind-knowing",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose where the compound reads more naturally with a fuller adjective",
-      "rendering": "mental consciousness",
+      "rendering": "mental knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "mind-consciousness",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ",
-      "translation": "dependent on the mind and dhammas, mind-consciousness arises",
+      "translation": "dependent on the mind and dhammas, mind-knowing arises",
       "notes": "Standard sense-base formula.",
       "source": "MN 148"
     }

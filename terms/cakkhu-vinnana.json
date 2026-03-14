@@ -3,27 +3,33 @@
   "normalized_term": "cakkhu-vinnana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "eye-consciousness",
-  "preferred_translation": "eye-consciousness",
+  "literal_meaning": "eye-knowing",
+  "preferred_translation": "eye-knowing",
   "alternative_translations": [
-    "visual consciousness"
+    "eye-consciousness",
+    "visual knowing"
   ],
   "discouraged_translations": [
     "vision"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness arising dependent on eye and visible form.",
-  "notes": "The project prefers eye-consciousness because it keeps the analysis close to the standard sixfold structure and lines up with the existing treatment of viññāṇa. Visual consciousness is acceptable in explanatory prose when the English line needs a slightly smoother phrase.",
+  "definition": "Knowing arising dependent on eye and visible form.",
+  "notes": "The project prefers eye-knowing because it keeps the analysis close to the standard sixfold structure while aligning with the updated treatment of viññāṇa as knowing. Eye-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
-      "rendering": "eye-consciousness",
+      "rendering": "eye-knowing",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose where the English compound needs to feel less technical",
-      "rendering": "visual consciousness",
+      "rendering": "visual knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "eye-consciousness",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
-      "translation": "dependent on the eye and forms, eye-consciousness arises",
+      "translation": "dependent on the eye and forms, eye-knowing arises",
       "notes": "Standard sense-base formula.",
       "source": "MN 148"
     }

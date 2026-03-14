@@ -3,27 +3,33 @@
   "normalized_term": "kaya-vinnana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "body-consciousness",
-  "preferred_translation": "body-consciousness",
+  "literal_meaning": "body-knowing",
+  "preferred_translation": "body-knowing",
   "alternative_translations": [
-    "tactile consciousness"
+    "body-consciousness",
+    "tactile knowing"
   ],
   "discouraged_translations": [
     "touch-consciousness"
   ],
   "untranslated_preferred": false,
-  "definition": "Consciousness arising dependent on the body and tangibles.",
-  "notes": "The project prefers body-consciousness because it stays close to the canonical sixfold formula. Tactile consciousness is acceptable in explanatory prose when the specific sensory mode needs clearer English labeling.",
+  "definition": "Knowing arising dependent on the body and tangibles.",
+  "notes": "The project prefers body-knowing because it stays close to the canonical sixfold formula while aligning with the updated treatment of viññāṇa as knowing. Body-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
-      "rendering": "body-consciousness",
+      "rendering": "body-knowing",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose emphasizing the tactile mode",
-      "rendering": "tactile consciousness",
+      "rendering": "tactile knowing",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In comparative doctrinal prose using established Buddhist-English terminology",
+      "rendering": "body-consciousness",
+      "notes": "Acceptable alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [
@@ -35,7 +41,7 @@
   "example_phrases": [
     {
       "pali": "kāyañca paṭicca phoṭṭhabbe ca uppajjati kāyaviññāṇaṃ",
-      "translation": "dependent on the body and tangibles, body-consciousness arises",
+      "translation": "dependent on the body and tangibles, body-knowing arises",
       "notes": "Standard sense-base formula.",
       "source": "MN 148"
     }
