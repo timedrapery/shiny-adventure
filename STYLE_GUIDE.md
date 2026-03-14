@@ -78,6 +78,10 @@ context clearly requires otherwise.
 A preferred rendering is the default, not an absolute law. If context demands a
 different rendering, that may be used, but the deviation should be recorded.
 
+For doctrinal anchor terms, avoid casual synonym rotation. Keep one governed
+rendering per local doctrinal frame unless the term entry records a clear
+context-specific exception.
+
 ---
 
 ## Translation Priorities
@@ -135,6 +139,7 @@ These reflect current OSF house style and may evolve.
 - Prefer `unification of mind` over `concentration`
 - Prefer `right unification of mind` over `right concentration`
 - Extend core term preferences into compounds when doctrinal function stays the same
+- When revising a core doctrinal term, review linked compounds and recurring formulas in the same pass
 
 ---
 

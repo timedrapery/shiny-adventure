@@ -66,6 +66,7 @@ On Windows PowerShell, activate the virtual environment with:
 - Preserve current OSF house preferences unless you are intentionally proposing a change under [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
 - Use notes and context rules to explain important editorial choices.
 - For major entries, avoid definition-only edits that leave the rendering policy implicit.
+- If you edit a doctrinal anchor term, also review its core compounds, formula examples, and linked doctrinal neighbors so the family does not drift.
 - Prefer small, focused pull requests over large mixed edits.
 - When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes UTF-8 explicitly.
 - For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
@@ -82,6 +83,7 @@ Please check the following:
 - The wording follows [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md) when source priorities matter.
 - The tags and status values follow [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md).
 - New major entries include notes, context rules, related terms, and example phrases.
+- Doctrinal anchor entries state when the default rendering applies, when it does not, and what nearby compounds or formulas inherit the rule.
 - The pull request description explains any non-obvious translation decision.
 
 ## Review Notes

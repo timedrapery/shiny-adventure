@@ -104,6 +104,13 @@ Major entries should normally include a defined default rendering, context
 rules, related terms, supporting examples, and notes explaining the editorial
 decision.
 
+For the highest-risk doctrinal anchors, the entry should also make explicit:
+
+- when the default rendering applies
+- when it should not apply
+- when compounds and formulas inherit the headword
+- what drift or doctrinal confusion the rule is preventing
+
 ## Repository Layout
 
 ```text
@@ -168,3 +175,8 @@ English rendering:
 1. The headword's default rendering is explicit.
 2. Any context-specific exceptions are encoded in `context_rules`.
 3. The rationale is stated in `notes` so the choice can be audited later.
+
+If the term is a doctrinal anchor such as `dhamma`, `dukkha`, `taṇhā`,
+`saṅkhārā`, `sati`, `samādhi`, `nirodha`, `paṭiccasamuppāda`, `jāti`,
+`upādāna`, `vedanā`, or `viññāṇa`, also review the linked compounds and
+formula examples in the same pass so the family remains coherent.

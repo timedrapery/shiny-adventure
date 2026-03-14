@@ -141,6 +141,11 @@ When revising a major headword:
 Do not treat major-term revision as complete if nearby compound or formula
 entries still preserve a now-discouraged rendering.
 
+This matters especially for stabilized doctrinal anchors such as `dhamma`,
+`dukkha`, `taṇhā`, `saṅkhārā`, `sati`, `samādhi`, `nirodha`,
+`paṭiccasamuppāda`, `jāti`, `upādāna`, `vedanā`, and `viññāṇa`, where drift in
+one compound or formula can quickly spread through the whole cluster.
+
 ## Validation Direction
 
 Future tooling should check for:
