@@ -86,6 +86,20 @@ Please check the following:
 - Doctrinal anchor entries state when the default rendering applies, when it does not, and what nearby compounds or formulas inherit the rule.
 - The pull request description explains any non-obvious translation decision.
 
+## Validation Commands
+
+Use these commands when you want more targeted feedback than the full suite:
+
+```bash
+python -m unittest discover -s tests
+python scripts/validate_terms.py
+python scripts/lint_terms.py
+python scripts/audit_term_coverage.py
+```
+
+Use `python scripts/run_checks.py` when you want the same combined workflow the
+repository uses in CI.
+
 ## Review Notes
 
 Reviews will focus on:
