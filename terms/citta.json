@@ -6,14 +6,16 @@
   "literal_meaning": "mind, heart",
   "preferred_translation": "mind",
   "alternative_translations": [
-    "heart-mind"
+    "heart-mind",
+    "mood",
+    "affective process"
   ],
   "discouraged_translations": [
     "consciousness"
   ],
   "untranslated_preferred": false,
   "definition": "The mind as an experiential and affective center that can be trained, collected, liberated, and observed.",
-  "notes": "The project prefers mind because it is the cleanest default in contemporary English. Heart-mind remains acceptable in explanatory prose when the affective coloration matters, but consciousness should be avoided because that territory is already occupied by viññāṇa in this dataset.",
+  "notes": "The project prefers mind because it is the cleanest default in contemporary English. Heart-mind remains acceptable in explanatory prose when the affective coloration matters, but consciousness should be avoided because that territory is already occupied by viññāṇa in this dataset. Ven. Dr. M. Punnaji often reads citta as mood or affective process in meditation instruction, especially in MN 118-style material; the repository records those as source-backed pedagogical alternates while retaining mind as the house default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -24,6 +26,11 @@
       "context": "In explanatory prose where emotional tone and cognition are both clearly in play",
       "rendering": "heart-mind",
       "notes": "Use sparingly and only when the fuller nuance helps."
+    },
+    {
+      "context": "In Punnaji-style meditation instruction emphasizing shifting affective tone",
+      "rendering": "mood",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

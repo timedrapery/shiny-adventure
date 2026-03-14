@@ -6,7 +6,8 @@
   "literal_meaning": "breathing sati",
   "preferred_translation": "ānāpānasati",
   "alternative_translations": [
-    "mindfulness of breathing"
+    "mindfulness of breathing",
+    "introspective breathing"
   ],
   "discouraged_translations": [
     "breath meditation"
@@ -14,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "ānāpānasati (sati with breathing)",
   "definition": "The practice of cultivating sati with the in-breath and out-breath as the immediate field of attention.",
-  "notes": "The project prefers leaving ānāpānasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful.",
+  "notes": "The project prefers leaving ānāpānasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated.",
   "context_rules": [
     {
       "context": "In source-facing translation and practice instructions",
@@ -30,6 +31,11 @@
       "context": "In explanatory prose discussing the practice in plain English",
       "rendering": "mindfulness of breathing",
       "notes": "Acceptable for explanation, but not the preferred source-facing rendering."
+    },
+    {
+      "context": "In Punnaji-style pedagogical explanation of the practice as inwardly directed breathing attention",
+      "rendering": "introspective breathing",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

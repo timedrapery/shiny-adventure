@@ -7,14 +7,16 @@
   "preferred_translation": "equanimity",
   "alternative_translations": [
     "evenness",
-    "poise"
+    "poise",
+    "introspection",
+    "apperception"
   ],
   "discouraged_translations": [
     "indifference"
   ],
   "untranslated_preferred": false,
   "definition": "Balanced evenness of mind that remains steady without withdrawal or indifference.",
-  "notes": "Equanimity remains the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract. The term should be heard as balanced presence that protects compassion and goodwill from collapsing into reactivity or fatigue.",
+  "notes": "Equanimity remains the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract. The term should be heard as balanced presence that protects compassion and goodwill from collapsing into reactivity or fatigue. Ven. Dr. M. Punnaji sometimes uses introspection or apperception in advanced meditative explanation; the repository records those as source-backed pedagogical alternates while retaining equanimity as the house default.",
   "context_rules": [
     {
       "context": "In most practical, doctrinal, and meditative contexts",
@@ -35,6 +37,11 @@
       "context": "When the passage emphasizes brahmavihāra balance or mature meditative steadiness",
       "rendering": "equanimity",
       "notes": "Keep the quality poised rather than detached."
+    },
+    {
+      "context": "In Punnaji-style advanced meditative explanation of inward observation",
+      "rendering": "introspection",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

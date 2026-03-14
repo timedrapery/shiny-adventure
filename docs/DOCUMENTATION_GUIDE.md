@@ -24,6 +24,9 @@ If you are new to the project, this is the recommended reading order:
   Explains how to build a good entry and what major entries should contain.
 - [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
   Standardizes tag choices and status values.
+- [`PUNNAJI_USAGE_PROFILE.md`](PUNNAJI_USAGE_PROFILE.md)
+  Records a source-backed translation profile from Ven. Dr. M. Punnaji for
+  use in notes and context rules.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 
@@ -36,3 +39,14 @@ When editing or adding a term:
 3. Follow the term entry standard while drafting.
 4. Choose tags and status from the standard vocabulary.
 5. Run `python scripts/run_checks.py` before committing.
+
+## External Source Profiles
+
+When a local source or author strongly influences a rendering decision:
+
+1. Add the rendering first as an alternate or source-specific context rule.
+2. Mention the source influence explicitly in `notes`.
+3. Prefer a small number of named source profiles over silent drift in house
+   terminology.
+4. Only replace the current `preferred_translation` when the project has made
+   a deliberate editorial decision to do so.

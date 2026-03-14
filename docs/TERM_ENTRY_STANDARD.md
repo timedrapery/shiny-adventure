@@ -167,6 +167,23 @@ rather than a flat glossary.
 
 ------------------------------------------------------------------------
 
+# Source-Backed Alternates
+
+When revising an entry from a named secondary source or teacher profile:
+
+- keep the current `preferred_translation` unless the project has explicitly
+  decided to change house style
+- add the source-backed rendering to `alternative_translations` when it is a
+  reusable English option
+- add a `context_rule` when the rendering belongs only to a specific
+  pedagogical or interpretive frame
+- mention the source in `notes` so the editorial reason remains auditable
+
+This repository should not silently absorb strong interpretive systems without
+recording where they came from.
+
+------------------------------------------------------------------------
+
 # Context Rules
 
 `context_rules` encode translation decisions that vary depending on

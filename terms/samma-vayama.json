@@ -7,14 +7,15 @@
   "preferred_translation": "right effort",
   "alternative_translations": [
     "right energy",
-    "appropriate effort"
+    "appropriate effort",
+    "harmonious exercise"
   ],
   "discouraged_translations": [
     "right striving"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of directed effort that prevents and abandons the unwholesome while developing and sustaining the wholesome.",
-  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor.",
+  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor. Ven. Dr. M. Punnaji uses harmonious exercise in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate.",
   "context_rules": [
     {
       "context": "In most path-factor and training contexts",
@@ -30,6 +31,11 @@
       "context": "In prose stressing contextual fitness rather than willpower",
       "rendering": "appropriate effort",
       "notes": "Use when the line benefits from softer emphasis."
+    },
+    {
+      "context": "In Punnaji-style pedagogical exposition of the eightfold path",
+      "rendering": "harmonious exercise",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

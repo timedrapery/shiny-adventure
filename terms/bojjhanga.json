@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A factor that supports and matures awakening.",
-  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose.",
+  "notes": "The project prefers awakening factor because it is already clear contemporary English and aligns with the house preference for awakening over enlightenment. Factor of awakening remains acceptable when English word order reads better in prose. Ven. Dr. M. Punnaji often presents the seven bojjha?gas as steps to awakening in pedagogical materials; the repository records that interpretive framing in notes while retaining awakening factor as the house default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -24,6 +24,11 @@
       "context": "In explanatory prose where the English line benefits from a smoother noun phrase",
       "rendering": "factor of awakening",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In Punnaji-style pedagogical sequencing of the seven bojjha?gas",
+      "rendering": "awakening factor",
+      "notes": "He often explains them as steps to awakening rather than merely listing them as factors."
     }
   ],
   "related_terms": [

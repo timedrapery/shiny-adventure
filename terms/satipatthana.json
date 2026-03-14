@@ -6,14 +6,16 @@
   "literal_meaning": "establishment of sati",
   "preferred_translation": "establishment of sati",
   "alternative_translations": [
-    "establishing sati"
+    "establishing sati",
+    "introversion of attention",
+    "systematic introspection"
   ],
   "discouraged_translations": [
     "foundation of mindfulness"
   ],
   "untranslated_preferred": false,
   "definition": "The establishing of sati in a structured field of practice such as body, feeling, mind, or qualities.",
-  "notes": "The project prefers establishment of sati because it preserves the house decision to leave sati untranslated while keeping the practical force of the compound clear. The phrase is intentionally slightly formal because the entry names a structured practice framework rather than a vague inner attitude. Foundation of mindfulness is discouraged because it reimports a rendering the project is already avoiding in the head term.",
+  "notes": "The project prefers establishment of sati because it preserves the house decision to leave sati untranslated while keeping the practical force of the compound clear. The phrase is intentionally slightly formal because the entry names a structured practice framework rather than a vague inner attitude. Foundation of mindfulness is discouraged because it reimports a rendering the project is already avoiding in the head term. Ven. Dr. M. Punnaji interprets satipa??h?na as introversion of attention and systematic introspection; the repository records those as source-backed pedagogical alternates rather than replacing the house default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -24,6 +26,11 @@
       "context": "In prose emphasizing the active practice of bringing sati into place",
       "rendering": "establishing sati",
       "notes": "Acceptable alternate when the verbal movement matters more."
+    },
+    {
+      "context": "In Punnaji-style pedagogical explanation of the practice as inwardly focused attention",
+      "rendering": "introversion of attention",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [

@@ -6,14 +6,15 @@
   "literal_meaning": "bringing into being",
   "preferred_translation": "development",
   "alternative_translations": [
-    "cultivation"
+    "cultivation",
+    "cultivation of tranquility"
   ],
   "discouraged_translations": [
     "meditation"
   ],
   "untranslated_preferred": false,
   "definition": "The deliberate development or cultivation of qualities of mind.",
-  "notes": "Development is preferred because it preserves the sense of actively bringing something into being rather than merely sitting in meditation.",
+  "notes": "Development is preferred because it preserves the sense of actively bringing something into being rather than merely sitting in meditation. Ven. Dr. M. Punnaji frequently speaks of cultivation of tranquility in retreat instruction; the repository records that as a source-backed contextual alternate while retaining development as the house default.",
   "context_rules": [
     {
       "context": "In most project translations",
@@ -24,6 +25,11 @@
       "context": "In prose emphasizing gradual growth of qualities",
       "rendering": "cultivation",
       "notes": "Acceptable alternate when the English sentence benefits from it."
+    },
+    {
+      "context": "In Punnaji-style retreat instruction focused specifically on calming practice",
+      "rendering": "cultivation of tranquility",
+      "notes": "Source-backed alternate, not the house default."
     }
   ],
   "related_terms": [
