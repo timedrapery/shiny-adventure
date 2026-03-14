@@ -1,0 +1,25 @@
+{
+  "term": "atammayat\u0101",
+  "normalized_term": "atammayata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "not made of that, non-identification",
+  "preferred_translation": "non-identification",
+  "alternative_translations": [
+    "unconcoctability",
+    "not made of that"
+  ],
+  "discouraged_translations": [
+    "indifference"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Non-identification or freedom from being shaped into I and mine by what is experienced.",
+  "sutta_references": [
+    "Ud 1.10"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,61 @@
+{
+  "term": "su\u00f1\u00f1at\u0101",
+  "normalized_term": "sunnata",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "emptiness, voidness",
+  "preferred_translation": "emptiness",
+  "alternative_translations": [
+    "voidness",
+    "emptiness of self"
+  ],
+  "discouraged_translations": [
+    "nothingness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Emptiness or voidness, especially the absence of self and what belongs to self.",
+  "notes": "This is the Pali term corresponding to the Sanskrit sunyata. Emptiness is the cleanest default in broad doctrinal prose, while voidness remains a strong alternate when a source explicitly uses that idiom. Buddhadasa Bhikkhu frequently uses voidness and void mind language to stress a mind empty of I and mine, and the repository records that as a source-backed explanatory emphasis.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal contexts",
+      "rendering": "emptiness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In Buddhadasa-style practical prose about the mind free of selfing",
+      "rendering": "voidness",
+      "notes": "Source-backed alternate when the imagery of void mind is central."
+    },
+    {
+      "context": "When the passage explicitly contrasts emptiness with self and ownership",
+      "rendering": "emptiness of self",
+      "notes": "Use selectively in explanatory prose."
+    }
+  ],
+  "related_terms": [
+    "anatt\u0101",
+    "att\u0101",
+    "nibb\u0101na",
+    "amata",
+    "citta",
+    "tathat\u0101",
+    "sunyata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "su\u00f1\u00f1ato loka\u1e43 avekkhassu",
+      "translation": "look upon the world as empty",
+      "notes": "Classic emptiness instruction.",
+      "source": "SN 35.85"
+    }
+  ],
+  "sutta_references": [
+    "SN 35.85",
+    "MN 121"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

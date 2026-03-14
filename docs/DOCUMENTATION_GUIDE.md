@@ -30,6 +30,9 @@ If you are new to the project, this is the recommended reading order:
 - [`OSF_GLOSSARY_PROFILE.md`](OSF_GLOSSARY_PROFILE.md)
   Records a source-backed glossary profile from the local OSF glossary for
   use in notes, alternates, and new-term intake.
+- [`BUDDHADASA_USAGE_PROFILE.md`](BUDDHADASA_USAGE_PROFILE.md)
+  Records a source-backed term profile from selected Buddhadasa Bhikkhu works
+  for use in notes, context rules, and new-term intake.
 - [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
   Captures the project's translation style and recurring rendering preferences.
 

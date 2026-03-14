@@ -8,7 +8,9 @@
   "alternative_translations": [
     "teaching",
     "phenomenon",
-    "quality"
+    "quality",
+    "nature",
+    "law"
   ],
   "discouraged_translations": [
     "thing"
@@ -16,7 +18,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, or quality depending on context)",
   "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, or an item within a doctrinal analysis.",
-  "notes": "The project leaves dhamma untranslated by default because any single English equivalent distorts too many contexts. When English is required, the rendering must be chosen by function: teaching for the dispensation or doctrine, phenomenon for analytic contexts, and quality for moral or experiential description. Ven. Dr. M. Punnaji sometimes narrows dhamma in pedagogical satipa??h?na explanation toward thought-content; the repository records that as a contextual teaching move rather than a general replacement for the current house handling of dhamma. The OSF glossary reinforces the ordinary explanatory pair teaching and thing for some contexts of dhamma; the repository keeps its more explicit context-sensitive handling but notes the glossary usage.",
+  "notes": "The project leaves dhamma untranslated by default because any single English equivalent distorts too many contexts. When English is required, the rendering must be chosen by function: teaching for the dispensation or doctrine, phenomenon for analytic contexts, and quality for moral or experiential description. Ven. Dr. M. Punnaji sometimes narrows dhamma in pedagogical satipatthana explanation toward thought-content; the repository records that as a contextual teaching move rather than a general replacement for the current house handling of dhamma. The OSF glossary reinforces the ordinary explanatory pair teaching and thing for some contexts of dhamma; the repository keeps its more explicit context-sensitive handling but notes the glossary usage. Buddhadasa Bhikkhu frequently leans on dhamma in the senses of nature and lawful process, especially in discussions of idappaccayata and practical dependent arising; the repository records those as source-backed alternates without displacing the default practice of leaving dhamma untranslated.",
   "context_rules": [
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
@@ -39,7 +41,17 @@
       "notes": "Use if phenomenon would sound too abstract or technical."
     },
     {
-      "context": "In Punnaji-style pedagogical explanation of dhammanupassan? as inward observation of thought-content",
+      "context": "In Buddhadasa-style explanation of natural law or the lawful structure of things",
+      "rendering": "nature",
+      "notes": "Use selectively in explanatory prose, not as a blanket replacement."
+    },
+    {
+      "context": "In Buddhadasa-style explanation of lawful conditional process",
+      "rendering": "law",
+      "notes": "Use sparingly, since dhamma remains too broad for any single English default."
+    },
+    {
+      "context": "In Punnaji-style pedagogical explanation of dhammanupassana as inward observation of thought-content",
       "rendering": "quality",
       "notes": "Use only in explanatory prose, since the broader term remains too context-sensitive for a single replacement."
     }
@@ -51,16 +63,17 @@
     "citta",
     "sacca",
     "mano-vinnana",
-    "loka"
+    "loka",
+    "idappaccayat\u0101"
   ],
   "example_phrases": [
     {
-      "pali": "dhammānudhammapaṭipanna",
+      "pali": "dhamm\u0101nudhammapa\u1e6dipanna",
       "translation": "practicing in line with the dhamma",
       "notes": "Useful source-facing example where untranslated dhamma remains the safest choice."
     },
     {
-      "pali": "dhammesu dhammānupassī viharati",
+      "pali": "dhammesu dhamm\u0101nupass\u012b viharati",
       "translation": "one remains observing dhammas among dhammas",
       "notes": "Shows why the term often needs contextual handling rather than a single fixed English equivalent.",
       "source": "DN 22"

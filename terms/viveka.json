@@ -6,18 +6,35 @@
   "literal_meaning": "seclusion, separation",
   "preferred_translation": "seclusion",
   "alternative_translations": [
-    "withdrawal"
+    "withdrawal",
+    "solitude"
   ],
   "discouraged_translations": [
     "isolation"
   ],
   "untranslated_preferred": false,
-  "definition": "Seclusion or separateness conducive to practice.",
+  "definition": "Seclusion or solitude conducive to practice.",
   "sutta_references": [
     "DN 2"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "The project keeps seclusion as the default because it fits many canonical settings, but solitude is an acceptable alternate in explanatory prose. Buddhadasa Bhikkhu often unpacks viveka into physical, mental, and spiritual solitude; the repository records that as a source-backed explanatory frame.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practical contexts",
+      "rendering": "seclusion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In Buddhadasa-style explanation emphasizing a graduated practice of body, mind, and spirit",
+      "rendering": "solitude",
+      "notes": "Source-backed alternate when the broader felt sense of separation from disturbance is central."
+    }
+  ],
+  "related_terms": [
+    "paviveka"
+  ]
 }

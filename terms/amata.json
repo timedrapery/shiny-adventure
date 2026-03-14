@@ -6,14 +6,15 @@
   "literal_meaning": "deathless, death-free",
   "preferred_translation": "deathless",
   "alternative_translations": [
-    "death-free"
+    "death-free",
+    "deathlessness"
   ],
   "discouraged_translations": [
     "immortal"
   ],
   "untranslated_preferred": false,
-  "definition": "Describing the deathless dimension associated with release and nibbāna.",
-  "notes": "The project prefers deathless because it is the most established and least distorting English choice for this term in doctrinal contexts. Immortal is discouraged because it suggests an enduring personal being rather than the quenching-oriented framework of the canon.",
+  "definition": "Describing the deathless dimension associated with release and nibbana.",
+  "notes": "The project prefers deathless because it is the most established and least distorting English choice for this term in doctrinal contexts. Immortal is discouraged because it suggests an enduring personal being rather than the quenching-oriented framework of the canon. Buddhadasa Bhikkhu repeatedly stresses amata as spiritual deathlessness realized through the ending of selfing and clinging, not as the survival of a personal essence; the repository records that as a source-backed explanatory emphasis.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -24,24 +25,30 @@
       "context": "In explanatory prose clarifying the privative structure",
       "rendering": "death-free",
       "notes": "Acceptable alternate when the English line benefits from directness."
+    },
+    {
+      "context": "In Buddhadasa-style explanatory prose about nibbana in everyday practice",
+      "rendering": "deathlessness",
+      "notes": "Source-backed alternate when the idiom of spiritual deathlessness is central."
     }
   ],
   "related_terms": [
-    "nibbāna",
-    "appamāda",
+    "nibb\u0101na",
+    "appam\u0101da",
     "vimutti",
     "bodhi",
-    "asankhata"
+    "asankhata",
+    "su\u00f1\u00f1at\u0101"
   ],
   "example_phrases": [
     {
-      "pali": "appamādo amatapadaṃ",
+      "pali": "appam\u0101do amatapada\u1e43",
       "translation": "heedfulness is the deathless path",
       "notes": "Classic practical formula.",
       "source": "Dhp 21"
     },
     {
-      "pali": "amataṃ adhigacchati",
+      "pali": "amata\u1e43 adhigacchati",
       "translation": "one reaches the deathless",
       "notes": "Compact doctrinal usage.",
       "source": "MN 26"

@@ -1,5 +1,5 @@
 {
-  "term": "jāti",
+  "term": "j\u0101ti",
   "normalized_term": "jati",
   "entry_type": "major",
   "part_of_speech": "noun",
@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Birth or coming-into-being, especially as conditioned by becoming in dependent origination.",
-  "notes": "Birth is the default because it is clear and fits the standard sequence. Arising may be useful in explanatory prose where the broader processive sense needs emphasis, but it should not erase the force of the canonical link. The term should be heard as the outcome of becoming in the standard sequence, not as a free-floating synonym for any arising whatever.",
+  "notes": "Birth is the default because it is clear and fits the standard sequence. Arising may be useful in explanatory prose where the broader processive sense needs emphasis, but it should not erase the force of the canonical link. The term should be heard as the outcome of becoming in the standard sequence, not as a free-floating synonym for any arising whatever. Buddhadasa Bhikkhu regularly reads jati in practical dependent-origination teaching as the repeated birth of selfing, egoic identity, or suffering in lived experience; the repository records that as a strong source-backed explanatory emphasis while keeping birth as the default rendering.",
   "context_rules": [
     {
       "context": "In the standard dependent-origination sequence",
@@ -29,23 +29,29 @@
       "context": "When the passage emphasizes the movement from becoming into aging-and-death",
       "rendering": "birth",
       "notes": "Keep the place of the link within the chain explicit."
+    },
+    {
+      "context": "In Buddhadasa-style practical dependent-origination explanation",
+      "rendering": "birth",
+      "notes": "Notes may explicitly unpack this as the birth of I and mine or the arising of suffering in immediate experience."
     }
   ],
   "related_terms": [
     "bhava",
-    "jarāmaraṇa",
+    "jar\u0101mara\u1e47a",
     "dukkha",
-    "upadana"
+    "upadana",
+    "pa\u1e6diccasamupp\u0101da"
   ],
   "example_phrases": [
     {
-      "pali": "bhavapaccayā jāti",
+      "pali": "bhavapaccay\u0101 j\u0101ti",
       "translation": "with becoming as condition, birth",
       "notes": "Standard dependent-origination link.",
       "source": "SN 12.2"
     },
     {
-      "pali": "jāti pi dukkhā",
+      "pali": "j\u0101ti pi dukkh\u0101",
       "translation": "birth too is dissatisfaction",
       "notes": "Four noble truths framing.",
       "source": "SN 56.11"

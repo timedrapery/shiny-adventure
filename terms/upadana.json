@@ -1,5 +1,5 @@
 {
-  "term": "upādāna",
+  "term": "up\u0101d\u0101na",
   "normalized_term": "upadana",
   "entry_type": "major",
   "part_of_speech": "noun",
@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The act of taking up and holding onto experience, views, habits, or identity.",
-  "notes": "Clinging is the clearest general rendering and works well in dependent origination. Fuel remains useful in explanatory prose when the fire metaphor of ongoing becoming is being emphasized. The term should be heard as appropriation that actively sustains becoming, not as a merely passive emotional attachment. The OSF glossary reinforces clinging as attachment to ideas, objects, or desires, which is compatible with the current house treatment.",
+  "notes": "Clinging is the clearest general rendering and works well in dependent origination. Fuel remains useful in explanatory prose when the fire metaphor of ongoing becoming is being emphasized. The term should be heard as appropriation that actively sustains becoming, not as a merely passive emotional attachment. The OSF glossary reinforces clinging as attachment to ideas, objects, or desires, which is compatible with the current house treatment. Buddhadasa Bhikkhu often explains upadana as the taking up of I and mine that fuels fresh becoming and birth; the repository records that as a source-backed explanatory emphasis.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -35,26 +35,32 @@
       "context": "When the passage emphasizes the transition from craving into the sustaining of becoming",
       "rendering": "clinging",
       "notes": "Keep the dependent-origination force of taking-up and holding-to explicit."
+    },
+    {
+      "context": "In Buddhadasa-style practical dependent-origination explanation",
+      "rendering": "clinging",
+      "notes": "Notes may explicitly stress appropriation into I and mine."
     }
   ],
   "related_terms": [
-    "taṇhā",
+    "ta\u1e47h\u0101",
     "dukkha",
-    "nibbāna",
+    "nibb\u0101na",
     "bhava",
     "lobha",
     "upadhi",
-    "jati"
+    "jati",
+    "pa\u1e6diccasamupp\u0101da"
   ],
   "example_phrases": [
     {
-      "pali": "taṇhāpaccayā upādānaṃ",
+      "pali": "ta\u1e47h\u0101paccay\u0101 up\u0101d\u0101na\u1e43",
       "translation": "with craving as condition, clinging",
       "notes": "Key dependent-origination link.",
       "source": "SN 12.2"
     },
     {
-      "pali": "pañcupādānakkhandhā",
+      "pali": "pa\u00f1cup\u0101d\u0101nakkhandh\u0101",
       "translation": "the five heaps of clinging",
       "notes": "Important aggregate connection."
     }

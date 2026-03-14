@@ -1,0 +1,30 @@
+{
+  "term": "tathat\u0101",
+  "normalized_term": "tathata",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "thusness, suchness",
+  "preferred_translation": "suchness",
+  "alternative_translations": [
+    "thusness",
+    "just-like-thatness"
+  ],
+  "discouraged_translations": [
+    "essence"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Suchness or thusness, the way things are as they are without appropriation.",
+  "related_terms": [
+    "anatt\u0101",
+    "su\u00f1\u00f1at\u0101",
+    "citta"
+  ],
+  "sutta_references": [
+    "AN 3.134"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}
