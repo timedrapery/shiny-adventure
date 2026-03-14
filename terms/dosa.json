@@ -1,0 +1,57 @@
+{
+  "term": "dosa",
+  "normalized_term": "dosa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "ill will, aversion",
+  "preferred_translation": "aversion",
+  "alternative_translations": [
+    "ill will",
+    "resentment"
+  ],
+  "discouraged_translations": [
+    "anger"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Aversion or hostility toward what is unwanted, unpleasant, or resisted.",
+  "notes": "The project prefers aversion because it covers the broad reactive pattern, not only overt anger. Ill will remains useful where the interpersonal or hostile shade is stronger.",
+  "context_rules": [
+    {
+      "context": "In most ethical and doctrinal contexts",
+      "rendering": "aversion",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In contexts stressing hostile intention toward others",
+      "rendering": "ill will",
+      "notes": "Acceptable alternate when the phrase is more precise."
+    },
+    {
+      "context": "In prose emphasizing a more lingering reactive tone",
+      "rendering": "resentment",
+      "notes": "Use only when context supports that narrower shade."
+    }
+  ],
+  "related_terms": [
+    "akusala",
+    "moha",
+    "taṇhā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "doso akusalamūlaṃ",
+      "translation": "aversion is a root of the unwholesome",
+      "notes": "Standard ethical classification."
+    },
+    {
+      "pali": "adosa",
+      "translation": "non-aversion",
+      "notes": "Helpful contrastive form."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

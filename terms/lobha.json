@@ -1,0 +1,57 @@
+{
+  "term": "lobha",
+  "normalized_term": "lobha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "greed, grasping",
+  "preferred_translation": "greed",
+  "alternative_translations": [
+    "grasping",
+    "covetousness"
+  ],
+  "discouraged_translations": [
+    "desire"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Greed or acquisitive pull toward what is wanted or taken to be satisfying.",
+  "notes": "The project prefers greed because it is direct and ethically clear. Desire is too broad for this term and can blur the distinction between ordinary wanting and a specifically unwholesome grasping tendency.",
+  "context_rules": [
+    {
+      "context": "In most ethical and doctrinal contexts",
+      "rendering": "greed",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing the motion of taking hold",
+      "rendering": "grasping",
+      "notes": "Acceptable when the acquisitive movement is foregrounded."
+    },
+    {
+      "context": "In strongly formal explanatory prose",
+      "rendering": "covetousness",
+      "notes": "Use sparingly because it sounds less contemporary."
+    }
+  ],
+  "related_terms": [
+    "akusala",
+    "taṇhā",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "lobho akusalamūlaṃ",
+      "translation": "greed is a root of the unwholesome",
+      "notes": "Standard ethical classification."
+    },
+    {
+      "pali": "vigatalobha",
+      "translation": "free from greed",
+      "notes": "Useful contrastive form for practice language."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities"
+  ],
+  "status": "reviewed"
+}

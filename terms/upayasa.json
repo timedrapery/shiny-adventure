@@ -1,0 +1,58 @@
+{
+  "term": "upāyāsa",
+  "normalized_term": "upayasa",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "weariness, affliction, despair",
+  "preferred_translation": "despair",
+  "alternative_translations": [
+    "affliction",
+    "torment"
+  ],
+  "discouraged_translations": [
+    "stress"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Despairing affliction or torment arising in the full spread of suffering.",
+  "notes": "The project prefers despair because it fits the emotional culmination of the standard formula and reads naturally in contemporary English. Affliction is acceptable in explanatory prose where the broader burdening sense matters more than the emotional peak.",
+  "context_rules": [
+    {
+      "context": "In the standard suffering formula and similar contexts",
+      "rendering": "despair",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing oppressive burden rather than emotional collapse",
+      "rendering": "affliction",
+      "notes": "Acceptable alternate."
+    },
+    {
+      "context": "In highly intensified descriptions of suffering",
+      "rendering": "torment",
+      "notes": "Use selectively because it is stronger than the default."
+    }
+  ],
+  "related_terms": [
+    "soka",
+    "parideva",
+    "domanassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sokaparidevadukkhadomanassupāyāsā",
+      "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
+      "notes": "Standard extended suffering formula.",
+      "source": "SN 12.2"
+    },
+    {
+      "pali": "upāyāsabahulo",
+      "translation": "full of despair",
+      "notes": "Shows the term in an adjectival derivative."
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}

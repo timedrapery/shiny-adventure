@@ -1,0 +1,53 @@
+{
+  "term": "soka",
+  "normalized_term": "soka",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "grief, sorrow",
+  "preferred_translation": "sorrow",
+  "alternative_translations": [
+    "grief"
+  ],
+  "discouraged_translations": [
+    "sadness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Sorrow or grief arising in relation to loss, pain, or distress.",
+  "notes": "The project prefers sorrow as the broad default because it reads naturally in formula passages. Grief remains useful when the emotional intensity or bereavement-like shade needs more emphasis.",
+  "context_rules": [
+    {
+      "context": "In most formulaic and doctrinal contexts",
+      "rendering": "sorrow",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing more acute emotional loss",
+      "rendering": "grief",
+      "notes": "Acceptable alternate when context supports it."
+    }
+  ],
+  "related_terms": [
+    "dukkha",
+    "parideva",
+    "jarāmaraṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "taṇhāya jāyati soko",
+      "translation": "from craving arises sorrow",
+      "notes": "Useful connection to craving.",
+      "source": "Dhp 216"
+    },
+    {
+      "pali": "sokaparidevadukkhadomanassupāyāsā",
+      "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
+      "notes": "Standard extended suffering formula.",
+      "source": "SN 12.2"
+    }
+  ],
+  "tags": [
+    "core-doctrine",
+    "four-noble-truths"
+  ],
+  "status": "reviewed"
+}
