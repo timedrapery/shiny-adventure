@@ -3,48 +3,31 @@
   "normalized_term": "sankhara",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "things put together, fabrications, constructed phenomena",
-  "preferred_translation": "choices",
+  "literal_meaning": "that which has been put together; putting together",
+  "preferred_translation": "that which has been put together",
   "alternative_translations": [
-    "formations",
+    "concoctions",
+    "constructions",
     "fabrications",
-    "constructed things",
-    "activities",
-    "constructs",
-    "mental formations",
-    "conditioned phenomena"
+    "putting together"
   ],
   "discouraged_translations": [
+    "choices",
     "volitional formations"
   ],
   "untranslated_preferred": false,
-  "definition": "Constructed activities or conditioned formations; in paṭiccasamuppāda contexts this project prefers choices.",
-  "notes": "Project preference is intentionally context-sensitive here. In paṭiccasamuppāda, saṅkhārā is rendered as choices because the sequence points to conditioned, consequential activity rather than a flat inventory of things. In broader contexts, especially formulaic or doctrinal ones, constructed things or formations may be more accurate depending on what is being described. Ven. Dr. M. Punnaji often explains saṅkhārā as activities or constructs in broader existential reflection; the repository records those as source-backed alternates while retaining its current context-sensitive house treatment. The OSF glossary repeatedly explains saṅkhāra in mental-formation and conditioned-phenomena language; the repository records those as source-backed alternates while keeping its current context-sensitive treatment.",
+  "definition": "That which has been put together, or the activity of putting together; a constructed or fabricated phenomenon.",
+  "notes": "This entry uses the literal sense as its house preference. The term can point either to what has been put together or to the active process of putting together, so translation should stay close to that constructive sense rather than importing a narrower doctrinal interpretation by default.",
   "context_rules": [
     {
-      "context": "In paṭiccasamuppāda sequences",
-      "rendering": "choices",
-      "notes": "Standing project preference."
+      "context": "When the emphasis is on the result of construction",
+      "rendering": "that which has been put together",
+      "notes": "Use for the compounded or constructed side of the term."
     },
     {
-      "context": "In general doctrinal or descriptive contexts referring to compounded phenomena",
-      "rendering": "constructed things",
-      "notes": "Use when the emphasis is on what is put together rather than on intentional activity."
-    },
-    {
-      "context": "In analytical or technical discussions of conditioned mental processes",
-      "rendering": "formations",
-      "notes": "Use where choices would sound too narrow."
-    },
-    {
-      "context": "In Punnaji-style existential reflection on unstable conditioned process",
-      "rendering": "activities",
-      "notes": "Source-backed alternate, especially where the term points to ongoing conditioned doing rather than a static inventory."
-    },
-    {
-      "context": "In OSF-glossary style explanatory prose about conditioned or remembered mental patterning",
-      "rendering": "mental formations",
-      "notes": "Source-backed alternate, not the house default."
+      "context": "When the emphasis is on the active constructive process",
+      "rendering": "putting together",
+      "notes": "Use when the process sense is foregrounded."
     }
   ],
   "related_terms": [
@@ -58,14 +41,14 @@
   "example_phrases": [
     {
       "pali": "aniccā sabbasaṅkhārā",
-      "translation": "all constructed things are impermanent",
-      "notes": "Here choices would not be the best rendering.",
+      "translation": "all that has been put together is impermanent",
+      "notes": "Here the emphasis is on what is compounded.",
       "source": "Dhp 277"
     },
     {
       "pali": "avijjāpaccayā saṅkhārā",
-      "translation": "with ignorance as condition, choices",
-      "notes": "Project preference in paṭiccasamuppāda context.",
+      "translation": "with ignorance as condition, putting together",
+      "notes": "Here the process sense may be foregrounded.",
       "source": "SN 12.2"
     }
   ],
