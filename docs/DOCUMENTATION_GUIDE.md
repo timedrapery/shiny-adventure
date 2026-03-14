@@ -39,6 +39,10 @@ If you are new to the project, this is the recommended reading order:
 - [`DHAMMARATO_QUOTES_PROFILE.md`](DHAMMARATO_QUOTES_PROFILE.md)
   Records a source-backed OSF house-style profile from the Dhammarato quotes
   draft and may justify direct changes to preferred renderings.
+- [`WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md`](WHAT_IS_AND_IS_NOT_THE_PATH_PROFILE.md)
+  Records term guidance from the OSF publication *What Is And Is Not The Path*
+  and applies its usage while preserving repo spellings and normalized
+  headwords.
 - [`OSF_EDITORIAL_AUTHORITY.md`](OSF_EDITORIAL_AUTHORITY.md)
   Defines the authority order for OSF translation decisions and how source
   conflicts should be resolved.

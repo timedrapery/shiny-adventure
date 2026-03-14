@@ -18,7 +18,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, or quality depending on context)",
   "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, or an item within a doctrinal analysis.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma. The OSF publication What Is And Is Not The Path strongly reinforces dhamma as something to do, verify, and live here-now rather than a theory to admire.",
   "context_rules": [
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
@@ -59,6 +59,11 @@
       "context": "In OSF practical teaching prose where the direct subject is the Buddha's teaching at work here-now",
       "rendering": "dhamma",
       "notes": "Default OSF practice still allows the untranslated term when English would narrow it too quickly."
+    },
+    {
+      "context": "In OSF publication prose contrasting lived practice with abstract theory",
+      "rendering": "dhamma",
+      "notes": "Prefer the untranslated form when the point is the total practical force of the teaching in use."
     },
     {
       "context": "In Buddhadasa-line explanation of natural law or lawful process",

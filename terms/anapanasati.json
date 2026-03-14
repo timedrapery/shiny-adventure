@@ -16,7 +16,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "ānāpānasati (sati with breathing)",
   "definition": "The practice of cultivating sati with the in-breath and out-breath as the immediate field of attention.",
-  "notes": "The project prefers leaving ānāpānasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository records that as a source-backed explanatory alternate without displacing the current house preference for leaving the term untranslated.",
+  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository records that as a source-backed explanatory alternate without displacing the current house preference for leaving the term untranslated. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique.",
   "context_rules": [
     {
       "context": "In source-facing translation and practice instructions",
@@ -42,6 +42,11 @@
       "context": "In OSF-glossary style plain-English practice explanation",
       "rendering": "remembering to look at in-and-out breathing",
       "notes": "Source-backed explanatory alternate, not the house default."
+    },
+    {
+      "context": "In OSF publication prose emphasizing the training as a whole rather than a technique fragment",
+      "rendering": "ānāpānasati",
+      "notes": "Prefer the untranslated form when the line is about the full path-training function of the practice."
     }
   ],
   "related_terms": [

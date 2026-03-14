@@ -15,7 +15,7 @@
   "untranslated_preferred": false,
   "gloss_on_first_occurrence": "remembering",
   "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and the capacity to return to what matters.",
-  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The Pāli term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated Pāli.",
+  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The Pali term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated Pali. The OSF publication What Is And Is Not The Path strongly reinforces this by treating sati as what keeps the mind oriented to what is happening now while right effort abandons the unwholesome and establishes the wholesome.",
   "context_rules": [
     {
       "context": "In most translations and practical OSF contexts",
@@ -36,6 +36,11 @@
       "context": "In OSF-glossary style present-moment practice explanation",
       "rendering": "awareness",
       "notes": "Retained as a source-backed alternate, but no longer the default."
+    },
+    {
+      "context": "In OSF practical instruction emphasizing coming back to what matters right now",
+      "rendering": "remembering",
+      "notes": "Preferred when sati is functioning as the return to present orientation."
     }
   ],
   "related_terms": [

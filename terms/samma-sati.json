@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of remembering rightly, keeping what matters in mind in a way aligned with the path.",
-  "notes": "OSF house style now prefers right remembering based on the Dhammarato quotes draft, where the factor is explicitly framed in remembering language rather than as mindfulness. Right sati remains available in more source-facing technical contexts, while right noble remembering is retained for quote-book and header-style usage.",
+  "notes": "OSF house style now prefers right remembering based on the Dhammarato quotes draft, where the factor is explicitly framed in remembering language rather than as mindfulness. Right sati remains available in more source-facing technical contexts, while right noble remembering is retained for quote-book and header-style usage. The OSF publication What Is And Is Not The Path further reinforces the factor as a daily-life capacity to keep the mind properly oriented while the other path factors do their work.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
@@ -31,6 +31,11 @@
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
       "rendering": "right noble remembering",
       "notes": "Source-backed heading style, not required in every prose context."
+    },
+    {
+      "context": "In OSF practical prose linking effort, remembering, and samadhi in daily life",
+      "rendering": "right remembering",
+      "notes": "Prefer the plain form when the emphasis is workable practice rather than formal path recitation."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
