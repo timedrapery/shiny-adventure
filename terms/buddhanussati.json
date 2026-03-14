@@ -6,7 +6,8 @@
   "literal_meaning": "recollection of the Buddha",
   "preferred_translation": "recollection of the buddha",
   "alternative_translations": [
-    "buddha recollection"
+    "buddha recollection",
+    "recollection of the Buddha"
   ],
   "discouraged_translations": [
     "devotion"
@@ -19,5 +20,13 @@
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual strongly reinforces Buddhanussati as a standard morning and evening recollection chant heading.",
+  "context_rules": [
+    {
+      "context": "In chant-book section headings and devotional recitation contexts",
+      "rendering": "recollection of the Buddha",
+      "notes": "Source-backed liturgical rendering."
+    }
+  ]
 }

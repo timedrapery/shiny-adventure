@@ -1,0 +1,28 @@
+{
+  "term": "āpatti",
+  "normalized_term": "apatti",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "offense, transgression",
+  "preferred_translation": "offense",
+  "alternative_translations": [
+    "transgression",
+    "disciplinary offense"
+  ],
+  "discouraged_translations": [
+    "sin"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A monastic offense or disciplinary transgression recognized in Vinaya procedure.",
+  "sutta_references": [
+    "Vinaya Piṭaka"
+  ],
+  "tags": [
+    "vinaya",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "related_terms": [
+    "patimokkha"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "term": "anumodanā",
+  "normalized_term": "anumodana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "rejoicing, blessing, appreciative acknowledgment",
+  "preferred_translation": "rejoicing",
+  "alternative_translations": [
+    "blessing",
+    "appreciative acknowledgment"
+  ],
+  "discouraged_translations": [
+    "thanks"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Rejoicing in wholesome action, often expressed liturgically as blessings or appreciative acknowledgment after giving.",
+  "sutta_references": [
+    "AN 5.36"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

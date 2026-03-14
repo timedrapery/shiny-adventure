@@ -7,14 +7,15 @@
   "preferred_translation": "conduct",
   "alternative_translations": [
     "ethical conduct",
-    "virtue"
+    "virtue",
+    "precepts"
   ],
   "discouraged_translations": [
     "morality"
   ],
   "untranslated_preferred": false,
   "definition": "Ethical conduct or disciplined behavior that steadies and supports the path.",
-  "notes": "The project prefers conduct because it stays close to lived behavior and avoids the abstract, often preachy tone of morality. Ethical conduct is acceptable when the moral dimension needs to be explicit, while virtue can work in compact list contexts but is less preferable as a default. The OSF glossary explains s?la in moral-conduct language, which the repository records as standard alternate explanatory vocabulary while retaining conduct as the default.",
+  "notes": "The project prefers conduct because it stays close to lived behavior and avoids the abstract, often preachy tone of morality. Ethical conduct is acceptable when the moral dimension needs to be explicit, while virtue can work in compact list contexts but is less preferable as a default. The OSF glossary explains s?la in moral-conduct language, which the repository records as standard alternate explanatory vocabulary while retaining conduct as the default. Dhammarato's chanting manual repeatedly uses s?la in taking-precept and observance formulas, which strongly supports precepts as a fixed ceremonial alternate in those contexts.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -30,6 +31,11 @@
       "context": "In compact doctrinal lists where a short noun is needed",
       "rendering": "virtue",
       "notes": "Use sparingly."
+    },
+    {
+      "context": "In taking-precept formulas and ceremonial request language",
+      "rendering": "precepts",
+      "notes": "Source-backed alternate for liturgical and instructional contexts."
     }
   ],
   "related_terms": [
@@ -39,7 +45,8 @@
     "samma-kammanta",
     "samma-ajiva",
     "samadhi",
-    "adhisila"
+    "adhisila",
+    "patimokkha"
   ],
   "example_phrases": [
     {

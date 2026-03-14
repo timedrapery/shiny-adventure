@@ -1,0 +1,25 @@
+{
+  "term": "paṃsukūla",
+  "normalized_term": "pamsukula",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "dust-heap, rag-robe",
+  "preferred_translation": "rag-robe",
+  "alternative_translations": [
+    "discarded-cloth robe",
+    "paṃsukūla"
+  ],
+  "discouraged_translations": [
+    "rags"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Referring to robes made from discarded cloth, especially in ascetic or ordination-support contexts.",
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

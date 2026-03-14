@@ -1,0 +1,26 @@
+{
+  "term": "pabbajjā",
+  "normalized_term": "pabbajja",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "going forth",
+  "preferred_translation": "going forth",
+  "alternative_translations": [
+    "renunciation",
+    "novice ordination"
+  ],
+  "discouraged_translations": [
+    "conversion"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of going forth from household life into the homeless life, often in novice ordination contexts.",
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "persons",
+    "core-practice",
+    "vinaya"
+  ],
+  "status": "reviewed"
+}

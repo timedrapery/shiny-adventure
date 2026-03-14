@@ -6,7 +6,9 @@
   "literal_meaning": "three refuges",
   "preferred_translation": "three refuges",
   "alternative_translations": [
-    "triple refuge"
+    "triple refuge",
+    "three refuges",
+    "taking refuge"
   ],
   "discouraged_translations": [
     "creed"
@@ -19,5 +21,13 @@
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual strongly reinforces tisara?a as a liturgical and ceremonial refuge formula used in requests, precepts, and ordination contexts.",
+  "context_rules": [
+    {
+      "context": "In chanting, ceremonial requests, and ordination formulas",
+      "rendering": "three refuges",
+      "notes": "Default wording remains suitable and is strongly reinforced by the chanting source."
+    }
+  ]
 }

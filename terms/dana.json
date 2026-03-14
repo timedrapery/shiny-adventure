@@ -6,7 +6,8 @@
   "literal_meaning": "giving, generosity",
   "preferred_translation": "generosity",
   "alternative_translations": [
-    "giving"
+    "giving",
+    "offering"
   ],
   "discouraged_translations": [
     "charity"
@@ -20,5 +21,13 @@
     "ethics",
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's chanting manual repeatedly uses dana in formal offering and merit-transfer settings, which supports offering as a chant-context alternate.",
+  "context_rules": [
+    {
+      "context": "In ceremony headings and formal donation formulas",
+      "rendering": "offering",
+      "notes": "Source-backed liturgical alternate."
+    }
+  ]
 }

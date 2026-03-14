@@ -1,0 +1,54 @@
+{
+  "term": "pāṭimokkha",
+  "normalized_term": "patimokkha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "restraint code, disciplinary summary",
+  "preferred_translation": "pāṭimokkha",
+  "alternative_translations": [
+    "disciplinary code",
+    "restraint code"
+  ],
+  "discouraged_translations": [
+    "rulebook"
+  ],
+  "untranslated_preferred": true,
+  "gloss_on_first_occurrence": "pāṭimokkha (disciplinary code)",
+  "definition": "The monastic disciplinary code recited on uposatha occasions and used as the core summary of training rules.",
+  "notes": "The repository keeps pāṭimokkha untranslated by default because it names a very specific Vinaya institution. Dhammarato's chanting manual strongly reinforces its liturgical role as a recited disciplinary summary on observance days.",
+  "context_rules": [
+    {
+      "context": "In most Vinaya and monastic-procedure contexts",
+      "rendering": "pāṭimokkha",
+      "notes": "Default project practice is to keep the term untranslated."
+    },
+    {
+      "context": "On first occurrence or in explanatory prose",
+      "rendering": "disciplinary code",
+      "notes": "Use as a gloss when a short English cue is needed."
+    }
+  ],
+  "related_terms": [
+    "uposatha",
+    "sikkhāpada",
+    "sīla",
+    "āpatti",
+    "pārisuddhi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ovāda-pāṭimokkha",
+      "translation": "the exhortation on the pāṭimokkha",
+      "notes": "Important liturgical and disciplinary compound."
+    }
+  ],
+  "sutta_references": [
+    "DN 14"
+  ],
+  "tags": [
+    "vinaya",
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}
