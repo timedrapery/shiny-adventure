@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "World, especially as the field of experience, beings, and conditioned unfolding spoken of in the teachings.",
-  "notes": "The project prefers world because it is broad and readable enough for the many contexts in which loka appears. Realm is acceptable when the context points to a domain or sphere more than to the world as a whole, but universe is usually too cosmological for default use.",
+  "notes": "The project prefers world because it is broad and readable enough for the many contexts in which loka appears. Realm is acceptable when the context points to a domain or sphere more than to the world as a whole, but universe is usually too cosmological for default use. In many doctrinal contexts loka is not merely a physical cosmos but the lived field of conditioned experience, attachment, and perception.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -24,27 +24,41 @@
       "context": "In contexts where the term points more to a domain or sphere of experience",
       "rendering": "realm",
       "notes": "Acceptable alternate."
+    },
+    {
+      "context": "When the passage is clearly about the conditioned field that is to be understood, outgrown, or transcended",
+      "rendering": "world",
+      "notes": "Keep the term existential and experiential rather than inflating it into cosmology."
     }
   ],
   "related_terms": [
     "dhamma",
     "lokiya",
     "lokuttara",
-    "ariyasavaka"
+    "ariyasavaka",
+    "nibbana",
+    "upadhi"
   ],
   "example_phrases": [
     {
       "pali": "loko",
       "translation": "the world",
       "notes": "Core doctrinal term with broad contextual range."
+    },
+    {
+      "pali": "lokassa samudayo",
+      "translation": "the arising of the world",
+      "notes": "Shows loka in dependent-origination style analysis of experience.",
+      "source": "SN 12.44"
     }
   ],
   "sutta_references": [
-    "SN 12.44"
+    "SN 12.44",
+    "SN 35.82"
   ],
   "tags": [
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
