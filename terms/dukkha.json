@@ -5,15 +5,15 @@
   "part_of_speech": "noun",
   "preferred_translation": "dissatisfaction",
   "alternative_translations": [
-    "unease",
+    "unsatisfactoriness",
     "stress"
   ],
   "discouraged_translations": [
     "suffering"
   ],
   "untranslated_preferred": false,
-  "definition": "The unsatisfactory and unstable character of conditioned experience.",
-  "notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness present in experience. This is a major doctrinal term and should be treated as rule-bearing. The OSF glossary frames dukkha as a mental attitude of dissatisfaction, which is a source-backed explanatory emphasis compatible with the repository default.",
+  "definition": "The unsatisfactory, unstable, and stressful character of conditioned experience.",
+  "notes": "OSF house style prefers dissatisfaction as the default rendering for dukkha, with unsatisfactoriness and stress retained as approved alternates. This keeps the term broader and more practical than suffering while still allowing different English shades depending on context. The OSF glossary frames dukkha as a mental attitude of dissatisfaction, which is a source-backed explanatory emphasis compatible with the repository default.",
   "context_rules": [
     {
       "context": "In core doctrinal exposition and the four noble truths",
@@ -21,9 +21,9 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where a shorter English line is needed",
-      "rendering": "unease",
-      "notes": "Acceptable when the broader force remains clear."
+      "context": "In explanatory prose emphasizing the broad quality of conditioned experience",
+      "rendering": "unsatisfactoriness",
+      "notes": "Use when the abstract doctrinal range needs to be especially explicit."
     },
     {
       "context": "When referring narrowly to felt strain or pressure in a specific passage",

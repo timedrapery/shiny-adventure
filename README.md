@@ -160,7 +160,7 @@ Each term exists as an independent file, which allows:
 
 | Pali | Preferred Rendering |
 | --- | --- |
-| dukkha | dissatisfaction |
+| dukkha | dissatisfaction; unsatisfactoriness; stress |
 | tanha | ignorant wanting |
 | sati | remembering |
 | samadhi | unification of mind |

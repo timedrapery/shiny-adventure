@@ -39,7 +39,7 @@ normalized before editorial decisions are made.
 
 The draft strongly supports the following OSF house defaults:
 
-- `dukkha` -> `dissatisfaction`
+- `dukkha` -> `dissatisfaction` with `unsatisfactoriness` and `stress` as approved house alternates
 - `tanha` -> `ignorant wanting`
 - `sati` -> `remembering`
 - `samma-sati` -> `right remembering`
