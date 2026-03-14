@@ -1,0 +1,63 @@
+{
+  "term": "anicca",
+  "normalized_term": "anicca",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "not permanent",
+  "preferred_translation": "impermanent",
+  "alternative_translations": [
+    "inconstant",
+    "unstable"
+  ],
+  "discouraged_translations": [
+    "temporary"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing conditioned phenomena as unstable, changing, and not lasting.",
+  "notes": "This entry is treated as a major doctrinal term because it functions within the three marks framework and in close relation to dissatisfaction and not-self. The default project preference is the adjective impermanent in direct translation, while impermanence may be used in explanatory prose when the abstract quality itself is being discussed.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal statements describing phenomena",
+      "rendering": "impermanent",
+      "notes": "Default project rendering for the adjective."
+    },
+    {
+      "context": "In explanatory prose naming the characteristic itself",
+      "rendering": "impermanence",
+      "notes": "Use when English needs the abstract noun rather than the adjective."
+    },
+    {
+      "context": "In passages emphasizing instability or unreliable changeability",
+      "rendering": "inconstant",
+      "notes": "Acceptable alternate when impermanent sounds too static."
+    }
+  ],
+  "related_terms": [
+    "dukkha",
+    "anattā",
+    "saṅkhārā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aniccā sabbasaṅkhārā",
+      "translation": "all constructed things are impermanent",
+      "notes": "Classic three-marks formulation using the adjectival sense.",
+      "source": "Dhp 277"
+    },
+    {
+      "pali": "yadaniccaṃ taṃ dukkhaṃ",
+      "translation": "what is impermanent is dissatisfaction",
+      "notes": "Shows the doctrinal linkage from impermanence to dissatisfaction.",
+      "source": "SN 22.59"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 277",
+    "SN 22.59"
+  ],
+  "tags": [
+    "core-doctrine",
+    "three-marks"
+  ],
+  "status": "reviewed"
+}
