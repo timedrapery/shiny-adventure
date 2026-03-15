@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Form as the material or visible side of experience, especially in aggregate analysis and sense-field contexts.",
-  "notes": "The project keeps form as the default because it works across the aggregate framework and the sixfold sense-field system without forcing a single modern theory of matter. Material form is useful when the physical side needs to be made explicit, but body is too narrow and matter is too reified for blanket use. In sense-field contexts rūpā often means visible forms, while in the five heaps rūpa marks the material side of the analysis more broadly. Translators should keep the aggregate, visible-object, and nāmarūpa uses distinct and should not let matter or body become automatic replacements.",
+  "notes": "The project keeps form as the default because it works across the aggregate framework and the sixfold sense-field system without forcing a single modern theory of matter. Material form is useful when the physical side needs to be made explicit, but body is too narrow and matter is too reified for blanket use. In sense-field contexts rūpā often means visible forms, while in the five heaps rūpa marks the material side of the analysis more broadly. Translators should keep the aggregate, visible-object, and nāmarūpa uses distinct and should not let matter or body become automatic replacements. The OSF glossary confirms form as the house default and records material form as the available alternate for contexts where the physical side needs emphasis.",
   "context_rules": [
     {
       "context": "In most aggregate and doctrinal contexts",
@@ -85,10 +85,10 @@
   "version_notes": "Strengthened to distinguish aggregate, visible-object, and name-and-form uses without allowing body or matter to drift in as blanket defaults.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping form as the default across aggregate, visible-object, and name-and-form contexts, with material form available when the physical side needs emphasis."
     }
   ],
   "translation_policy": {
