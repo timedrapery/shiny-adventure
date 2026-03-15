@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The higher training in discernment within the threefold training.",
-  "notes": "The project prefers higher discernment because it aligns with the house treatment of paññā-language. The longer phrase higher training in discernment is acceptable when the training framework needs explicit statement. This term marks the culminating training that sees clearly and carries the path toward release, so it should not be flattened into a merely intellectual notion of knowledge.",
+  "notes": "The project prefers higher discernment because it aligns with the house treatment of paññā-language. The longer phrase higher training in discernment is acceptable when the training framework needs explicit statement. This term marks the culminating training that sees clearly and carries the path toward release, so it should not be flattened into a merely intellectual notion of knowledge. The OSF glossary confirms higher discernment as the house default for the culminating training limb.",
   "context_rules": [
     {
       "context": "In the threefold training framework",
@@ -47,7 +47,8 @@
     {
       "pali": "adhipaññāsikkhā",
       "translation": "the higher training in discernment",
-      "notes": "Standard triadic formulation."
+      "notes": "Standard triadic formulation.",
+      "source": "MN 44"
     },
     {
       "pali": "paññāya passati",
@@ -67,10 +68,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping higher discernment as the house default for the culminating training limb, with the longer phrase reserved for explanatory prose."
     }
   ],
   "translation_policy": {
