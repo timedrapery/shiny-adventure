@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The arising or originating condition of something, especially the origin of dissatisfaction in the four noble truths.",
-  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation. The term should be heard both as a truth-label and as part of the wider causal vocabulary of the teachings.",
+  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation. The term should be heard both as a truth-label and as part of the wider causal vocabulary of the teachings. The OSF glossary confirms origin as the house default in four-truth contexts and records arising as a tolerated alternate when the dynamic aspect needs emphasis.",
   "context_rules": [
     {
       "context": "In the formula of the four noble truths",
@@ -73,10 +73,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping origin as the house default in four-noble-truths usage, with arising retained for lines that emphasize dynamic emergence."
     }
   ],
   "translation_policy": {

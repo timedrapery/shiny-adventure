@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A foundational truth of the path, especially in the standard fourfold formulation of dissatisfaction, origin, quenching, and path.",
-  "notes": "The project keeps noble truth as the default because it is already stable and widely intelligible in English. In explanatory prose, ennobling truth can be useful when the transformative force of ariya is the point, but it should not replace the default rendering in ordinary doctrinal translation.",
+  "notes": "The project keeps noble truth as the default because it is already stable and widely intelligible in English. In explanatory prose, ennobling truth can be useful when the transformative force of ariya is the point, but it should not replace the default rendering in ordinary doctrinal translation. The OSF glossary confirms noble truth as the house default and records ennobling truth as a limited explanatory alternate.",
   "context_rules": [
     {
       "context": "In standard doctrinal contexts, especially the fourfold formulation",
@@ -60,10 +60,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping noble truth as the house default for the fourfold formulation, with ennobling truth retained only as an explanatory alternate."
     }
   ],
   "translation_policy": {
