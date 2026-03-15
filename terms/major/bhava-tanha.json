@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Ignorant wanting directed toward continued becoming or a mode of existence.",
-  "notes": "The project prefers ignorant wanting for becoming so the compound inherits the house rule for taṇhā while staying explicit about bhava. Craving for becoming remains an acceptable alternate for continuity with familiar Buddhist-English terminology. The shorter hyphenated form is acceptable only where English compactness really helps.",
+  "notes": "The project prefers ignorant wanting for becoming so the compound inherits the house rule for taṇhā while staying explicit about bhava. Craving for becoming remains an acceptable alternate for continuity with familiar Buddhist-English terminology. The shorter hyphenated form is acceptable only where English compactness really helps. The OSF glossary supports this house handling of taṇhā compounds by keeping the craving category explicit while allowing familiar alternates in explanatory prose.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
@@ -52,10 +52,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current bhavataṇhā policy."
     }
   ],
   "translation_policy": {

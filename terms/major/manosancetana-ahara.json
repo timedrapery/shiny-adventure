@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Mental intention as a nutriment that helps sustain continued becoming and experience.",
-  "notes": "The project prefers mental-intention nutriment because it preserves both the psychological and doctrinal force of the term. Nutriment of mental intention is acceptable in prose where a less compressed phrase is useful.",
+  "notes": "The project prefers mental-intention nutriment because it preserves both the psychological and doctrinal force of the term. Nutriment of mental intention is acceptable in prose where a less compressed phrase is useful. The OSF glossary supports this by treating manosañcetanāhāra as a distinct nutriment within the fourfold causal analysis.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
@@ -52,10 +52,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current manosañcetanāhāra policy."
     }
   ],
   "translation_policy": {

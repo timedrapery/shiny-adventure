@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Ignorant wanting directed toward sensual pleasures and agreeable sensory experience.",
-  "notes": "The project prefers ignorant wanting for sensuality so the compound inherits the house rule for taṇhā while staying explicit about kāma. Sensual craving and craving for sensuality remain acceptable alternates when continuity with familiar Buddhist-English terminology matters.",
+  "notes": "The project prefers ignorant wanting for sensuality so the compound inherits the house rule for taṇhā while staying explicit about kāma. Sensual craving and craving for sensuality remain acceptable alternates when continuity with familiar Buddhist-English terminology matters. The OSF glossary supports this house handling of taṇhā compounds by keeping the craving category explicit while allowing familiar alternates in explanatory prose.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
@@ -57,10 +57,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kāmataṇhā policy."
     }
   ],
   "translation_policy": {

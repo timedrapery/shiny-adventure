@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clinging to doctrines, narratives, or theories of self as something to hold, defend, or identify with.",
-  "notes": "The project keeps clinging to self-doctrine as the default because it names the doctrinal function directly and preserves the relation to view and self-making. This term should be read closely with sakkāyadiṭṭhi, anattā, and upādāna. It belongs to the four clinging types and points to appropriation of self-accounts, not merely abstract philosophy.",
+  "notes": "The project keeps clinging to self-doctrine as the default because it names the doctrinal function directly and preserves the relation to view and self-making. This term should be read closely with sakkāyadiṭṭhi, anattā, and upādāna. It belongs to the four clinging types and points to appropriation of self-accounts, not merely abstract philosophy. The OSF glossary supports this by treating attavādupādāna as a specific clinging mode tied to self-theory rather than to abstract speculation alone.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
@@ -62,10 +62,10 @@
   "version_notes": "Promoted from a stub to a major entry and tied to not-self, identity-view, and clinging analysis.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current attavādupādāna policy."
     }
   ],
   "translation_policy": {
