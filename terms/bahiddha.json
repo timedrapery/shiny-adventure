@@ -1,0 +1,76 @@
+{
+  "term": "bahiddha",
+  "normalized_term": "bahiddha",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "outer, external",
+  "preferred_translation": "external",
+  "alternative_translations": [
+    "outer",
+    "outside"
+  ],
+  "discouraged_translations": [
+    "objective"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing what is external, outward, or outside the internal side of a contemplated field.",
+  "notes": "The project prefers external as the default because it is stable across satipaṭṭhāna, sense-field, and comparative frameworks. Outer and outside can work when a lighter English line is needed, but the term should not be philosophized into objective reality. In internal/external pairs, the contrast is structural and contemplative rather than a metaphysical divide.",
+  "context_rules": [
+    {
+      "context": "In satipaṭṭhāna and contemplative internal/external pairings",
+      "rendering": "external",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where a smoother English adjective is needed",
+      "rendering": "outer",
+      "notes": "Acceptable alternate when the line stays concrete."
+    },
+    {
+      "context": "When the passage points to what is considered outside one's own field rather than within it",
+      "rendering": "outside",
+      "notes": "Use when the relational contrast is clearer with a prepositional English phrase."
+    }
+  ],
+  "related_terms": [
+    "ajjhatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bahiddhā vā kāye kāyānupassī viharati",
+      "translation": "one dwells contemplating the body as external",
+      "notes": "Standard satipaṭṭhāna external reading.",
+      "source": "MN 10"
+    },
+    {
+      "pali": "bahiddha",
+      "translation": "external",
+      "notes": "Compact headword use in paired analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "DN 22",
+    "SN 35.26"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "context-sensitive"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports stable house handling of internal/external contemplative pairings."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'external' in contemplative pairings and structural doctrinal contrasts unless the sentence needs a lighter alternate.",
+    "when_not_to_apply": "Do not philosophize the term into 'objective' or other modern interpretive language unless an explicit editorial note justifies it.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents internal/external formulas from drifting into philosophical jargon."
+  },
+  "status": "draft"
+}

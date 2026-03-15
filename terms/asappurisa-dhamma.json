@@ -1,0 +1,17 @@
+{
+  "term": "asappurisadhamma",
+  "normalized_term": "asappurisa-dhamma",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "qualities of a bad person",
+  "preferred_translation": "qualities of a bad person",
+  "definition": "Qualities that characterize an unreliable or ethically poor person in doctrinal and ethical instruction.",
+  "status": "draft",
+  "tags": [
+    "ethics",
+    "persons"
+  ],
+  "sutta_references": [
+    "MN 110"
+  ]
+}

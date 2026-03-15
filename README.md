@@ -50,6 +50,26 @@ case by case. Common failure modes include:
 This repository addresses that by making translation choices explicit,
 reviewable, and reusable across the corpus.
 
+## Translation Drift
+
+In this repository, translation drift means one of two things:
+
+- a Pali lemma starts receiving multiple default English renderings without an explicit reason
+- a term entry stops carrying enough rule-bearing metadata to protect house style in reuse
+
+The repository now includes a dedicated drift checker:
+
+```bash
+python scripts/check_translation_drift.py
+python scripts/check_translation_drift.py --json
+python scripts/check_translation_drift.py --strict
+```
+
+It validates schema-backed structure and then checks cross-entry drift risks such
+as conflicting defaults, duplicate preferred renderings that need
+disambiguation, alternate-list contradictions, context-sensitive entries missing
+notes, and headword normalization problems.
+
 ## Core Principles
 
 ### OSF Editorial Authority
@@ -166,11 +186,27 @@ If you want to run the checks individually, use:
 python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
+python scripts/check_translation_drift.py
 python scripts/audit_term_coverage.py
 python scripts/repo_health.py
 python scripts/policy_backfill_queue.py
 python scripts/backfill_policy_metadata.py --check-only
 ```
+
+## Candidate Extraction
+
+The repository also supports review-first candidate extraction from Pali source
+texts. This is for discovery and prioritization, not automatic glossing.
+
+```bash
+python scripts/extract_candidate_terms.py path/to/source.txt
+python scripts/generate_candidate_report.py
+python scripts/scaffold_candidate_terms.py --priority create_now
+```
+
+Extraction outputs go under `candidates/` and stay outside `terms/` until an
+editor reviews them. See
+[docs/CANDIDATE_TERM_WORKFLOW.md](docs/CANDIDATE_TERM_WORKFLOW.md).
 
 `python scripts/run_checks.py` runs editorial lint in strict mode, so
 structural warnings such as non-reciprocal `related_terms` links currently
@@ -188,6 +224,8 @@ OSF authority order. Start with:
 - [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
 - [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md)
 - [docs/EDITORIAL_REVIEW_CHECKLIST.md](docs/EDITORIAL_REVIEW_CHECKLIST.md)
+- [docs/CANDIDATE_TERM_WORKFLOW.md](docs/CANDIDATE_TERM_WORKFLOW.md)
+- [docs/TRANSLATION_DRIFT_CHECKER.md](docs/TRANSLATION_DRIFT_CHECKER.md)
 - [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md)
 
 For the recommended reading order across the docs folder, use

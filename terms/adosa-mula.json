@@ -1,0 +1,17 @@
+{
+  "term": "adosamūla",
+  "normalized_term": "adosa-mula",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "rooted in non-aversion",
+  "preferred_translation": "rooted in non-aversion",
+  "definition": "Describing a state, intention, or action as having non-aversion as its root.",
+  "status": "draft",
+  "tags": [
+    "ethics",
+    "mental-qualities"
+  ],
+  "sutta_references": [
+    "MN 9"
+  ]
+}

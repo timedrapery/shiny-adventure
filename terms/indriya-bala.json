@@ -1,0 +1,18 @@
+{
+  "term": "indriyabala",
+  "normalized_term": "indriya-bala",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "faculties and strengths",
+  "preferred_translation": "faculties and strengths",
+  "definition": "A paired framework linking the five faculties with their stabilized strength-aspect.",
+  "status": "draft",
+  "tags": [
+    "core-practice",
+    "mental-qualities"
+  ],
+  "sutta_references": [
+    "SN 48.43",
+    "SN 50.1"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "term": "kusalamūla",
+  "normalized_term": "kusala-mula",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "root of the wholesome",
+  "preferred_translation": "root of the wholesome",
+  "alternative_translations": [
+    "wholesome root",
+    "root of what is wholesome"
+  ],
+  "discouraged_translations": [
+    "good root"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A root condition supporting wholesome qualities, classically named as non-greed, non-aversion, and non-delusion.",
+  "notes": "The project keeps root of the wholesome as the default because it preserves the analytic relation to kusala without collapsing the framework into generic moral language. Wholesome root can work when English needs a shorter heading, but the doctrinal point is classificatory: this term names the root conditions from which wholesome qualities and actions proceed. Translators should not flatten the compound into merely good intention or positive motivation.",
+  "context_rules": [
+    {
+      "context": "In doctrinal analysis of the wholesome roots",
+      "rendering": "root of the wholesome",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compact framework headings or lists",
+      "rendering": "wholesome root",
+      "notes": "Acceptable shorter alternate."
+    },
+    {
+      "context": "When the passage is explaining the ethical basis from which wholesome states arise",
+      "rendering": "root of what is wholesome",
+      "notes": "Use when the causal force should be especially explicit."
+    }
+  ],
+  "related_terms": [
+    "akusala-mula"
+  ],
+  "example_phrases": [
+    {
+      "pali": "alobho adoso amoho idaṁ vuccati kusalamūlaṁ",
+      "translation": "non-greed, non-aversion, and non-delusion: this is called the root of the wholesome",
+      "notes": "Standard wholesome-root formulation.",
+      "source": "MN 9"
+    },
+    {
+      "pali": "kusalamūla",
+      "translation": "root of the wholesome",
+      "notes": "Useful compact headword form in doctrinal discussion."
+    }
+  ],
+  "sutta_references": [
+    "MN 9",
+    "AN 3.69"
+  ],
+  "tags": [
+    "core-doctrine",
+    "ethics",
+    "causality"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports the house treatment of wholesome-root terminology as an analytic causal framework."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'root of the wholesome' in doctrinal analysis of ethical causality and root classification.",
+    "when_not_to_apply": "Use a shorter alternate only when a compact list or heading needs it and the classificatory force remains clear.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift toward generic moralized phrasing such as 'good root' that weakens the analytic framework."
+  },
+  "status": "draft"
+}

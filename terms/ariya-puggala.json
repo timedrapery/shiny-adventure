@@ -1,0 +1,74 @@
+{
+  "term": "ariyapuggala",
+  "normalized_term": "ariya-puggala",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "noble person",
+  "preferred_translation": "noble person",
+  "alternative_translations": [
+    "ennobled person"
+  ],
+  "discouraged_translations": [
+    "saint"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A person who belongs to the noble-path classification rather than the ordinary-person condition.",
+  "notes": "The project keeps noble person as the default because it is direct, doctrinally clear, and stays parallel with ariya and ariyasāvaka. Ennobled person can work when explanatory prose needs the active force of transformation rather than the classificatory label. The term should not be inflated into saint, which imports later devotional expectations and blurs the path-classification framework.",
+  "context_rules": [
+    {
+      "context": "In formal doctrinal person-classification",
+      "rendering": "noble person",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing transformation by the path",
+      "rendering": "ennobled person",
+      "notes": "Use sparingly when the active force of ariya matters."
+    },
+    {
+      "context": "When the passage contrasts the noble person with the ordinary person",
+      "rendering": "noble person",
+      "notes": "Keep the classificatory force explicit."
+    }
+  ],
+  "related_terms": [
+    "anariya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aṭṭha purisapuggalā",
+      "translation": "the eight kinds of noble persons",
+      "notes": "Core classification associated with the noble saṅgha.",
+      "source": "AN 8.59"
+    },
+    {
+      "pali": "ariyapuggala",
+      "translation": "noble person",
+      "notes": "Compact doctrinal headword form."
+    }
+  ],
+  "sutta_references": [
+    "AN 8.59",
+    "SN 55.30"
+  ],
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "translation-sensitive"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports keeping person-classification terms aligned with the house handling of ariya."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'noble person' in doctrinal person-classification and related noble-saṅgha contexts.",
+    "when_not_to_apply": "Use 'ennobled person' only when explanatory prose needs the active transformation implied by ariya rather than the classification itself.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents ariyapuggala from drifting into devotional titles such as 'saint'."
+  },
+  "status": "draft"
+}

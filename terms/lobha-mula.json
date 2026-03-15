@@ -1,0 +1,17 @@
+{
+  "term": "lobhamūla",
+  "normalized_term": "lobha-mula",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "rooted in greed",
+  "preferred_translation": "rooted in greed",
+  "definition": "Describing a state, intention, or action as having greed as its root.",
+  "status": "draft",
+  "tags": [
+    "ethics",
+    "mental-qualities"
+  ],
+  "sutta_references": [
+    "MN 9"
+  ]
+}

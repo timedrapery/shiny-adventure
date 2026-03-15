@@ -1,0 +1,75 @@
+{
+  "term": "akusalamūla",
+  "normalized_term": "akusala-mula",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "root of the unwholesome",
+  "preferred_translation": "root of the unwholesome",
+  "alternative_translations": [
+    "unwholesome root",
+    "root of what is unwholesome"
+  ],
+  "discouraged_translations": [
+    "bad root"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A root condition supporting unwholesome qualities, classically named as greed, aversion, and delusion.",
+  "notes": "The project keeps root of the unwholesome as the default because it preserves the analytic relation to akusala and stays parallel with the wholesome-root framework. Unwholesome root is acceptable as a shorter heading, but the term should remain an explicit causal and classificatory category. It should not be reduced to a vague bad tendency or to a merely emotional reaction.",
+  "context_rules": [
+    {
+      "context": "In doctrinal analysis of the unwholesome roots",
+      "rendering": "root of the unwholesome",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In compact framework headings or lists",
+      "rendering": "unwholesome root",
+      "notes": "Acceptable shorter alternate."
+    },
+    {
+      "context": "When the passage is explaining the ethical basis from which unwholesome states arise",
+      "rendering": "root of what is unwholesome",
+      "notes": "Use when the causal force should be especially explicit."
+    }
+  ],
+  "related_terms": [
+    "kusala-mula"
+  ],
+  "example_phrases": [
+    {
+      "pali": "lobho doso moho idaṁ vuccati akusalamūlaṁ",
+      "translation": "greed, aversion, and delusion: this is called the root of the unwholesome",
+      "notes": "Standard unwholesome-root formulation.",
+      "source": "MN 9"
+    },
+    {
+      "pali": "akusalamūla",
+      "translation": "root of the unwholesome",
+      "notes": "Useful compact headword form in doctrinal discussion."
+    }
+  ],
+  "sutta_references": [
+    "MN 9",
+    "AN 3.69"
+  ],
+  "tags": [
+    "core-doctrine",
+    "ethics",
+    "causality"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports the house treatment of unwholesome-root terminology as an analytic causal framework."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'root of the unwholesome' in doctrinal analysis of ethical causality and root classification.",
+    "when_not_to_apply": "Use a shorter alternate only when a compact list or heading needs it and the classificatory force remains clear.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift toward generic moralized phrasing such as 'bad root' that weakens the analytic framework."
+  },
+  "status": "draft"
+}
