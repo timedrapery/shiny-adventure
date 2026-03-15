@@ -66,12 +66,14 @@
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ ... phasso",
       "translation": "dependent on eye and forms, eye-knowing arises ... contact",
-      "notes": "Shows phassa as event arising from conjunction."
+      "notes": "Shows phassa as event arising from conjunction.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "SN 35.93"
+    "SN 35.93",
+    "MN 148"
   ],
   "tags": [
     "core-doctrine",

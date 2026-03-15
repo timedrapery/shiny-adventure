@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A condition or supporting factor on which something else depends, arises, or is sustained.",
-  "notes": "The project keeps condition as the default because it is broad enough for dependent-arising formulas and other causal analyses without falsely implying a single strong efficient cause. Support is acceptable when the enabling or sustaining side needs emphasis. Cause is discouraged as a blanket rendering because paccaya is wider than hetu and often names conditions that are concurrent, supportive, or structurally necessary rather than linear causes. Translators should keep linked -paccaya compounds and X-paccayā Y formulas aligned with this headword unless a compound explicitly records a narrower override.",
+  "notes": "The project keeps condition as the default because it is broad enough for dependent-arising formulas and other causal analyses without falsely implying a single strong efficient cause. Support is acceptable when the enabling or sustaining side needs emphasis. Cause is discouraged as a blanket rendering because paccaya is wider than hetu and often names conditions that are concurrent, supportive, or structurally necessary rather than linear causes. The Buddhadasa usage profile, especially its stress on conditionality behind dependent arising, supports keeping condition-language primary here rather than collapsing the term into simple cause-language. Translators should keep linked -paccaya compounds and X-paccayā Y formulas aligned with this headword unless a compound explicitly records a narrower override.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -80,10 +80,10 @@
   "version_notes": "Expanded to distinguish paccaya from narrower cause-language and to encode standard formula handling for dependent-arising translation.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
-      "priority": "osf-house",
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Supports keeping condition and conditionality language primary in dependent-arising formulas instead of collapsing paccaya into simple cause-language."
     }
   ],
   "translation_policy": {

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The conditioned arising of dissatisfaction and release, expressed as a here-and-now structure of dependent process rather than a self-standing essence.",
-  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadāsa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical causality: when conditions are present, suffering arises; when conditions are removed, the process ceases. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item.",
+  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadāsa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical causality: when conditions are present, suffering arises; when conditions are removed, the process ceases. What Is And Is Not The Path reinforces this practical, here-and-now handling of the teaching, while the Buddhadasa usage profile supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -100,10 +100,16 @@
   "version_notes": "Expanded as a rule-bearing major entry with stronger here-and-now causality guidance, broader cross-linking, and explicit distinction from purely scholastic or metaphysical readings.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "What Is And Is Not The Path",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Supports present-tense, practical handling of dependent arising rather than a merely abstract or cosmological reading."
+    },
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality."
     }
   ],
   "translation_policy": {

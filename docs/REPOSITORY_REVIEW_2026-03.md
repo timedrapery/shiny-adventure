@@ -10,40 +10,41 @@ editorial maintenance from decisions that require doctrinal judgment.
 
 ### Schema and Entry Baseline
 
-- All 965 current term files include the schema's globally required fields.
+- All 984 current term files include the schema's globally required fields.
 - All current `major` entries include `notes`, `context_rules`,
   `related_terms`, and `example_phrases`.
-- The main alignment issue is not missing keys. It is that contributor-facing
-  documentation sometimes uses conceptual language like "preferred rendering"
-  and "translation rule" without clearly mapping that language to the live
-  schema fields.
+- The March 2026 documentation cleanup resolved the main contributor-language
+  mismatch around live schema fields such as `preferred_translation`,
+  `context_rules`, `notes`, and `example_phrases`.
 
 ### Translation-Drift Risks
 
-- `related_terms` reciprocity is incomplete across a live cluster of doctrinal
-  entries. The lint suite currently reports these as warnings, but
-  `scripts/run_checks.py` treats them as release-blocking by running
-  `lint_terms.py --strict`.
-- The current warning cluster is concentrated in entries that affect dependent
-  arising, grasping, becoming, fetters, hindrances, and insight vocabulary.
-- Because many of the affected term files are already modified in the worktree,
-  those doctrinal link repairs should be reviewed by a human editor rather than
-  patched mechanically.
+- The strict validation stack currently passes, so reciprocal `related_terms`
+  warnings are not the active release blocker they were during the earlier
+  cleanup pass.
+- The main quality gap has shifted from structural correctness to provenance
+  depth: many major entries still rely on generic `authority_basis`, and more
+  than 100 major entries still have at least one example phrase without a
+  canonical `source` citation.
+- The highest-yield next work is cluster-based provenance hardening,
+  especially in dependent arising, core practice, and mental-quality families,
+  where house policy is already present but still needs stronger source-backed
+  support.
 
 ### Documentation Drift
 
-- Earlier docs implied that `entry_type` was only a project convention even
-  though the current schema requires it.
-- Earlier docs did not state clearly that `preferred_translation`,
-  `context_rules`, `notes`, and `example_phrases` are the live structural
-  equivalents of preferred rendering, translation rule, usage notes, and
-  examples.
+- Core contributor docs now align with the live schema and the current
+  repository structure.
+- The remaining documentation gap is operational rather than definitional:
+  cluster-by-cluster editorial progress is still tracked mostly in narrative
+  planning documents rather than in compact milestone-style execution notes.
 
 ## Immediate Priorities
 
-1. Resolve the current reciprocal `related_terms` warnings in the doctrinal
-   clusters already under active revision.
-2. Decide whether reciprocal links should remain warnings or become an explicit
-   policy requirement for reviewed and stable entries.
+1. Replace generic `authority_basis` entries in the highest-leverage doctrinal
+  clusters, starting with dependent arising.
+2. Fill missing `example_phrases[].source` citations where canonical references
+  are already known or can be verified from related term families.
 3. Continue reviewing major entries for rule quality, especially where notes
-   describe translation philosophy but context rules remain thin.
+  describe translation philosophy but context rules remain thinner than the
+  surrounding editorial claims.
