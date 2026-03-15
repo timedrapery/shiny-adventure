@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Contact between field, object, and knowing, giving rise to felt experience.",
-  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself. The term should be heard as an event of conjunction within the sense process, not as the feeling that comes after it.",
+  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself. The term should be heard as an event of conjunction within the sense process, not as the feeling that comes after it. The OSF glossary's treatment of contact and feeling-sequence language supports keeping phassa distinct from vedanā in translation.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -82,10 +82,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports preserving contact as the event-term and preventing collapse into sensation language."
     }
   ],
   "translation_policy": {
