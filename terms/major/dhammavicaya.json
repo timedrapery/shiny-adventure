@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The careful discerning or investigation of qualities and patterns in experience.",
-  "notes": "The project prefers discernment of qualities because it stays readable while keeping the term practical rather than purely scholastic. Investigation of qualities remains acceptable when a more active analytic movement is in view.",
+  "notes": "The project prefers discernment of qualities because it stays readable while keeping the term practical rather than purely scholastic. Investigation of qualities remains acceptable when a more active analytic movement is in view. The OSF glossary supports this by treating dhammavicaya as practical discernment within the awakening-factor framework rather than as mere doctrinal analysis.",
   "context_rules": [
     {
       "context": "In the awakening-factor framework and practical analysis of experience",
@@ -62,10 +62,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current dhammavicaya policy."
     }
   ],
   "translation_policy": {
