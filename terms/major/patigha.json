@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Reactive resistance or striking-against in relation to what is unpleasant, opposed, or frustrating.",
-  "notes": "The project keeps resistance as the default because it is broad enough for both fetter analysis and practical psychology. Repulsion and aversion remain acceptable alternates when the line needs a stronger affective tone. Hatred is too narrow and too strong as a blanket default. In liberation-stage language paṭigha belongs with kāma-rāga as a fetter abandoned by the non-returner.",
+  "notes": "The project keeps resistance as the default because it is broad enough for both fetter analysis and practical psychology. Repulsion and aversion remain acceptable alternates when the line needs a stronger affective tone. Hatred is too narrow and too strong as a blanket default. In liberation-stage language paṭigha belongs with kāma-rāga as a fetter abandoned by the non-returner. The OSF glossary confirms resistance as the house default and preserves repulsion and aversion as explanatory alternates.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -50,7 +50,8 @@
     {
       "pali": "paṭighasaṃyojana",
       "translation": "the fetter of resistance",
-      "notes": "Shows the term inside the fetter framework."
+      "notes": "Shows the term inside the fetter framework.",
+      "source": "SN 35.232"
     }
   ],
   "sutta_references": [
@@ -66,10 +67,10 @@
   "version_notes": "Promoted to a major entry with explicit guidance for fetter and practical aversion contexts.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping resistance as the house default in fetter analysis, with repulsion and aversion retained as explanatory alternates."
     }
   ],
   "translation_policy": {

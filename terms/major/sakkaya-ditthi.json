@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The view that takes the heaps, or something among them, as self, as belonging to self, or as a real personal identity.",
-  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five heaps, and therefore as directly tied to not-self understanding and the first breakthrough of a stream-enterer.",
+  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five heaps, and therefore as directly tied to not-self understanding and the first breakthrough of a stream-enterer. The OSF glossary confirms identity view as the house default and preserves personality view as the comparative alternate.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -71,10 +71,10 @@
   "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry governing identity-view language in fetter and stream-entry contexts.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping identity view as the house default in stream-entry and fetter analysis, with personality view retained as a comparative alternate."
     }
   ],
   "translation_policy": {
