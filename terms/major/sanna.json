@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The recognizing and marking function by which experience is identified and categorized.",
-  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar aggregate discussions, but it can sound too passive if used as the only rendering.",
+  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar aggregate discussions, but it can sound too passive if used as the only rendering. The OSF glossary establishes recognition as the house default for this aggregate and records perception as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most analytical and doctrinal contexts",
@@ -37,16 +37,19 @@
     {
       "pali": "saññākkhandha",
       "translation": "the recognition heap",
-      "notes": "Shows the term in aggregate analysis."
+      "notes": "Shows the term in aggregate analysis.",
+      "source": "SN 22.79"
     },
     {
       "pali": "aniccasaññā",
       "translation": "recognition of impermanence",
-      "notes": "Useful for meditative-development contexts."
+      "notes": "Useful for meditative-development contexts.",
+      "source": "AN 10.60"
     }
   ],
   "sutta_references": [
-    "SN 22.79"
+    "SN 22.79",
+    "AN 10.60"
   ],
   "tags": [
     "core-doctrine",
@@ -55,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping recognition as the default rendering that preserves the active identifying function, with perception tolerated in familiar aggregate contexts."
     }
   ],
   "translation_policy": {

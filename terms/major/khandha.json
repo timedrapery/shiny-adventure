@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A heap or collected mass used in the five-heap analysis of experience, especially in relation to appropriation and dissatisfaction.",
-  "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the expression pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of appropriated heaps wrongly taken as self or mine. Translators should keep the heap rule stable in aggregate formulae and should not smooth the family back into aggregate language without an explicit explanatory reason.",
+  "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the expression pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of appropriated heaps wrongly taken as self or mine. Translators should keep the heap rule stable in aggregate formulae and should not smooth the family back into aggregate language without an explicit explanatory reason. The OSF glossary establishes heap as the default house rendering and records aggregate as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In direct doctrinal translation of the fivefold analysis",
@@ -79,10 +79,10 @@
   "version_notes": "Expanded to govern heap versus aggregate usage explicitly and to tie the entry more tightly to appropriation, not-self analysis, and the five-heap formula.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping heap as the default in aggregate analysis and appropriation contexts, with aggregate tolerated only in explanatory prose."
     }
   ],
   "translation_policy": {
