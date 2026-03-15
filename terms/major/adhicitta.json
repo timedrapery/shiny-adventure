@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The higher training in mind within the threefold training, centered on collected development.",
-  "notes": "The project prefers higher mind because it is concise and avoids collapsing the term into viññāṇa-language. The longer phrase higher training in mind is acceptable when the training framework needs to be explicit. In practice this entry belongs with composure, collectedness, and development of the trainable mind rather than with abstract theories of consciousness.",
+  "notes": "The project prefers higher mind because it is concise and avoids collapsing the term into viññāṇa-language. The longer phrase higher training in mind is acceptable when the training framework needs to be explicit. In practice this entry belongs with composure, collectedness, and development of the trainable mind rather than with abstract theories of consciousness. The OSF glossary confirms higher mind as the house default for the middle training limb.",
   "context_rules": [
     {
       "context": "In the threefold training framework",
@@ -47,7 +47,8 @@
     {
       "pali": "adhicittasikkhā",
       "translation": "the higher training in mind",
-      "notes": "Standard triadic formulation."
+      "notes": "Standard triadic formulation.",
+      "source": "MN 44"
     },
     {
       "pali": "cittaṃ bhāveti",
@@ -68,10 +69,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping higher mind as the house default for the middle training limb, with the longer phrase reserved for explanatory prose."
     }
   ],
   "translation_policy": {
