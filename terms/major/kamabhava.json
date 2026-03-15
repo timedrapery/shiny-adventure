@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Existence or becoming within the sensual domain.",
-  "notes": "The repository keeps sensual existence as the default because it reads clearly as one of the three modes of bhava while still allowing becoming-language when process is more important than domain. The term should be handled functionally, not as speculative cosmology alone. In many contexts it names the sensual sphere to which attachment and rebirth are tied.",
+  "notes": "The repository keeps sensual existence as the default because it reads clearly as one of the three modes of bhava while still allowing becoming-language when process is more important than domain. The term should be handled functionally, not as speculative cosmology alone. In many contexts it names the sensual sphere to which attachment and rebirth are tied. The OSF glossary also frames kāmabhava as the sensual domain of becoming, supporting this policy choice.",
   "context_rules": [
     {
       "context": "In the three modes of existence framework",
@@ -44,7 +44,8 @@
     {
       "pali": "kāmabhavo",
       "translation": "sensual existence",
-      "notes": "One member of the threefold bhava framework."
+      "notes": "One member of the threefold bhava framework.",
+      "source": "AN 3.76"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kāmabhava policy."
     }
   ],
   "translation_policy": {

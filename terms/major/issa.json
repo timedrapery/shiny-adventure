@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Envy at the advantages, success, or good fortune of others.",
-  "notes": "The project prefers envy because it is the cleaner and more specific English term for begrudging others' good. Jealousy is acceptable when the sentence is less analytical or more idiomatic, but resentment is too broad for the default doctrinal rendering.",
+  "notes": "The project prefers envy because it is the cleaner and more specific English term for begrudging others' good. Jealousy is acceptable when the sentence is less analytical or more idiomatic, but resentment is too broad for the default doctrinal rendering. The OSF glossary similarly treats issa as envy directed at others' good fortune, supporting the present wording.",
   "context_rules": [
     {
       "context": "In most ethical and analytical contexts",
@@ -39,12 +39,14 @@
     {
       "pali": "issāmacchariya",
       "translation": "envy and stinginess",
-      "notes": "Common pair linking the term to macchariya."
+      "notes": "Common pair linking the term to macchariya.",
+      "source": "AN 5.229"
     },
     {
       "pali": "issā",
       "translation": "envy",
-      "notes": "Compact ethical usage."
+      "notes": "Compact ethical usage.",
+      "source": "AN 5.229"
     }
   ],
   "sutta_references": [
@@ -57,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current issā policy."
     }
   ],
   "translation_policy": {

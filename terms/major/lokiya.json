@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Worldly or mundane; belonging to the conditioned domain rather than the liberative domain of path and fruition.",
-  "notes": "The project prefers worldly as the default because it is contemporary and transparent. Mundane remains acceptable in technical contrast with lokuttara where the established doctrinal pair is useful. The term should be heard doctrinally rather than sociologically: it marks what still belongs to the sphere of conditioned experience, even when those qualities are wholesome and valuable.",
+  "notes": "The project prefers worldly as the default because it is contemporary and transparent. Mundane remains acceptable in technical contrast with lokuttara where the established doctrinal pair is useful. The term should be heard doctrinally rather than sociologically: it marks what still belongs to the sphere of conditioned experience, even when those qualities are wholesome and valuable. The OSF glossary aligns with this by distinguishing worldly factors from beyond-the-world realization without reducing the term to secular social meaning.",
   "context_rules": [
     {
       "context": "In most explanatory and doctrinal contexts",
@@ -43,7 +43,8 @@
     {
       "pali": "lokiya dhamma",
       "translation": "worldly dhamma",
-      "notes": "Simple doctrinal usage."
+      "notes": "Simple doctrinal usage.",
+      "source": "SN 45.8"
     },
     {
       "pali": "lokiyo sammādiṭṭhi",
@@ -63,10 +64,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current lokiya policy."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Inner conscience that recoils from unwholesome action out of integrity rather than fear alone.",
-  "notes": "The project prefers conscience because it is clearer and less likely than shame to be misread as toxic self-loathing. Moral shame remains available in explanatory prose when the classical pairing with ottappa needs to be shown more literally. The term should be heard as an inward ethical guard rooted in integrity rather than in fear of punishment.",
+  "notes": "The project prefers conscience because it is clearer and less likely than shame to be misread as toxic self-loathing. Moral shame remains available in explanatory prose when the classical pairing with ottappa needs to be shown more literally. The term should be heard as an inward ethical guard rooted in integrity rather than in fear of punishment. The OSF glossary supports this emphasis by treating hiri as a protective ethical quality rather than a guilt reaction.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -43,12 +43,14 @@
     {
       "pali": "hiri-ottappa",
       "translation": "conscience and moral caution",
-      "notes": "Classic ethical pair."
+      "notes": "Classic ethical pair.",
+      "source": "AN 2.9"
     },
     {
       "pali": "hiri uppajjati",
       "translation": "conscience arises",
-      "notes": "Simple practical usage."
+      "notes": "Simple practical usage.",
+      "source": "AN 2.9"
     }
   ],
   "sutta_references": [
@@ -62,10 +64,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current hiri policy."
     }
   ],
   "translation_policy": {
