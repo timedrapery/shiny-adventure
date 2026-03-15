@@ -165,6 +165,19 @@ class DriftCheckRuleTests(unittest.TestCase):
 
         self.assertEqual(findings[0].code, "normalized_term_mismatch")
 
+    def test_compound_normalization_editorial_slug_does_not_warn(self) -> None:
+        findings: list[check_translation_drift.Finding] = []
+        record = make_record(
+            "chanda-iddhipada",
+            term="chandiddhipāda",
+            normalized_term="chanda-iddhipada",
+            part_of_speech="compound",
+        )
+
+        check_translation_drift.check_headword_normalization([record], findings)
+
+        self.assertEqual(findings, [])
+
     def test_major_entry_that_lacks_rule_signals_warns_as_definitional(self) -> None:
         findings: list[check_translation_drift.Finding] = []
         record = make_record(

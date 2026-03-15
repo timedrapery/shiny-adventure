@@ -1,12 +1,21 @@
 {
+  "term": "pāmojja",
   "normalized_term": "pamojja",
-  "term": "pamojja",
   "entry_type": "minor",
   "part_of_speech": "noun",
-  "literal_meaning": "glad confidence, uplift",
-  "preferred_translation": "glad uplift",
-  "definition": "Glad uplift or brightening confidence that supports further wholesome development.",
-  "notes": "Use practical psychological English and keep the term close to lived experience rather than modern clinical or psychologized categories.",
+  "literal_meaning": "gladness, uplift",
+  "preferred_translation": "gladness",
+  "alternative_translations": [
+    "uplift"
+  ],
+  "discouraged_translations": [
+    "excitement"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Gladness or uplift that conditions delight in positive causal sequences.",
+  "sutta_references": [
+    "SN 12.23"
+  ],
   "tags": [
     "mental-qualities"
   ],

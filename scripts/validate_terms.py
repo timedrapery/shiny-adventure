@@ -17,13 +17,37 @@ except ImportError:
 
 try:
     from scripts.term_store import iter_term_files
+    from scripts.text_utils import normalize_term
 except ModuleNotFoundError:
     from term_store import iter_term_files
+    from text_utils import normalize_term
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schema" / "PALI_TERM_SCHEMA.json"
 TERMS_DIR = REPO_ROOT / "terms"
+
+
+def stem_key(value: str) -> str:
+    return value.replace("-", "_").casefold()
+
+
+def related_term_keys(data: dict[str, object]) -> set[str]:
+    related = data.get("related_terms")
+    if not isinstance(related, list):
+        return set()
+    return {normalize_term(item) for item in related if isinstance(item, str)}
+
+
+def has_explicit_preferred_disambiguation(
+    grouped: list[tuple[str, dict[str, object]]],
+) -> bool:
+    if len(grouped) < 2:
+        return False
+
+    keys = {stem_key(stem): related_term_keys(data) for stem, data in grouped}
+    stems = set(keys)
+    return all(any(other in keys[stem] for other in stems - {stem}) for stem in stems)
 
 
 def load_json(path: Path) -> object:
@@ -38,7 +62,8 @@ def collect_validation_failures(terms_dir: Path) -> tuple[list[str], list[str]]:
     warnings: list[str] = []
     normalized_index: dict[str, list[str]] = defaultdict(list)
     term_index: dict[str, list[str]] = defaultdict(list)
-    preferred_translation_index: dict[str, list[str]] = defaultdict(list)
+    canonical_term_index: dict[str, list[tuple[str, str]]] = defaultdict(list)
+    preferred_translation_index: dict[str, list[tuple[str, dict[str, object]]]] = defaultdict(list)
 
     term_files = iter_term_files(terms_dir)
     for term_file in term_files:
@@ -67,11 +92,12 @@ def collect_validation_failures(terms_dir: Path) -> tuple[list[str], list[str]]:
         term = data.get("term")
         if isinstance(term, str):
             term_index[term].append(term_file.name)
+            canonical_term_index[normalize_term(term)].append((term, term_file.name))
 
         if data.get("entry_type") == "major":
             preferred = data.get("preferred_translation")
             if isinstance(preferred, str) and preferred.strip():
-                preferred_translation_index[preferred.strip()].append(term_file.stem)
+                preferred_translation_index[preferred.strip()].append((term_file.stem, data))
 
     for normalized_term, filenames in sorted(normalized_index.items()):
         if len(filenames) > 1:
@@ -85,11 +111,21 @@ def collect_validation_failures(terms_dir: Path) -> tuple[list[str], list[str]]:
                 f"term '{term}' is duplicated across files: {', '.join(sorted(filenames))}"
             )
 
-    for preferred_translation, stems in sorted(preferred_translation_index.items()):
-        if len(stems) > 1:
+    for canonical_term, term_entries in sorted(canonical_term_index.items()):
+        distinct_terms = sorted({term for term, _filename in term_entries})
+        if len(distinct_terms) < 2:
+            continue
+        filenames = sorted({filename for _term, filename in term_entries})
+        failures.append(
+            f"canonical term '{canonical_term}' is duplicated across files with variant spellings: "
+            f"{', '.join(filenames)}"
+        )
+
+    for preferred_translation, grouped in sorted(preferred_translation_index.items()):
+        if len(grouped) > 1 and not has_explicit_preferred_disambiguation(grouped):
             warnings.append(
                 "major preferred_translation collision "
-                f"'{preferred_translation}': {', '.join(sorted(stems))}"
+                f"'{preferred_translation}': {', '.join(sorted(stem for stem, _data in grouped))}"
             )
 
     return failures, warnings

@@ -77,6 +77,28 @@ class RepoHealthTests(unittest.TestCase):
             [{"preferred_translation": "friendliness", "terms": ["karuna", "metta"]}],
         )
 
+    def test_build_report_skips_disambiguated_major_translation_collisions(self) -> None:
+        terms = {
+            "citta": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "preferred_translation": "mind",
+                "related_terms": ["mano"],
+                "example_phrases": [{"pali": "citta", "source": "DN 22"}],
+            },
+            "mano": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "preferred_translation": "mind",
+                "related_terms": ["citta"],
+                "example_phrases": [{"pali": "mano", "source": "MN 148"}],
+            },
+        }
+
+        collisions = repo_health.collect_preferred_translation_collisions(terms)
+
+        self.assertEqual(collisions, [])
+
     def test_main_reports_missing_terms_directory(self) -> None:
         output = io.StringIO()
 

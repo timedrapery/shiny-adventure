@@ -15,7 +15,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Schema validation", [sys.executable, "scripts/validate_terms.py"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),
-    ("Translation drift", [sys.executable, "scripts/check_translation_drift.py"]),
+    ("Translation drift", [sys.executable, "scripts/check_translation_drift.py", "--strict"]),
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
 )
