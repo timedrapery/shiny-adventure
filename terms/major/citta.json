@@ -76,7 +76,8 @@
     {
       "pali": "cittaṃ bhāveti",
       "translation": "one develops the feeling mind",
-      "notes": "Compact practice-oriented use."
+      "notes": "Compact practice-oriented use.",
+      "source": "AN 4.41"
     },
     {
       "pali": "citte cittānupassī viharati",
@@ -86,7 +87,8 @@
     }
   ],
   "sutta_references": [
-    "DN 22"
+    "DN 22",
+    "AN 4.41"
   ],
   "tags": [
     "core-doctrine",

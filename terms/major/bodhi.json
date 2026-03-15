@@ -55,12 +55,14 @@
     {
       "pali": "anuttarā sammāsambodhi",
       "translation": "unsurpassed full awakening",
-      "notes": "Important compound showing the broader family of usage."
+      "notes": "Important compound showing the broader family of usage.",
+      "source": "MN 26"
     },
     {
       "pali": "bodhāya",
       "translation": "for awakening",
-      "notes": "Useful for source-facing translation where the practical aim is explicit."
+      "notes": "Useful for source-facing translation where the practical aim is explicit.",
+      "source": "MN 26"
     }
   ],
   "sutta_references": [

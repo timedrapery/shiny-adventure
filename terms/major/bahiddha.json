@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing what is external, outward, or outside the internal side of a contemplated field.",
-  "notes": "The project prefers external as the default because it is stable across satipaṭṭhāna, sense-field, and comparative frameworks. Outer and outside can work when a lighter English line is needed, but the term should not be philosophized into objective reality. In internal/external pairs, the contrast is structural and contemplative rather than a metaphysical divide.",
+  "notes": "The project prefers external as the default because it is stable across satipaṭṭhāna, sense-field, and comparative frameworks. Outer and outside can work when a lighter English line is needed, but the term should not be philosophized into objective reality. In internal/external pairs, the contrast is structural and contemplative rather than a metaphysical divide. The OSF glossary confirms external as the house default and preserves outer and outside as explanatory alternates.",
   "context_rules": [
     {
       "context": "In satipaṭṭhāna and contemplative internal/external pairings",
@@ -45,7 +45,8 @@
     {
       "pali": "bahiddha",
       "translation": "external",
-      "notes": "Compact headword use in paired analysis."
+      "notes": "Compact headword use in paired analysis.",
+      "source": "SN 35.26"
     }
   ],
   "sutta_references": [
@@ -60,10 +61,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports stable house handling of internal/external contemplative pairings."
+      "scope": "Supports stable house handling of internal/external contemplative pairings with external as the default form."
     }
   ],
   "translation_policy": {

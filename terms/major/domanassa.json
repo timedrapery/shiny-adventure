@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distress or mental pain as distinct from bodily pain.",
-  "notes": "The project prefers distress because it is contemporary and broad enough for doctrinal and practical use. Mental pain may be useful in explanatory prose when the contrast with bodily pain needs to be explicit.",
+  "notes": "The project prefers distress because it is contemporary and broad enough for doctrinal and practical use. Mental pain may be useful in explanatory prose when the contrast with bodily pain needs to be explicit. The OSF glossary confirms distress as the house default and preserves mental pain as a contrast-emphasis alternate.",
   "context_rules": [
     {
       "context": "In most doctrinal and formulaic contexts",
@@ -49,7 +49,8 @@
     {
       "pali": "domanassaṃ paṭisaṃvedeti",
       "translation": "one experiences distress",
-      "notes": "Simple usage showing the felt character of the term."
+      "notes": "Simple usage showing the felt character of the term.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [
@@ -62,10 +63,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping distress as the house default in mental-pain contexts, with mental pain retained for explicit contrast with bodily pain."
     }
   ],
   "translation_policy": {

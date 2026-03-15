@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The singleness or gathered unification of mind associated with steadiness, samādhi, and jhāna.",
-  "notes": "This entry has been promoted to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters.",
+  "notes": "This entry has been promoted to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters. The OSF glossary confirms singleness as the house default while preserving unification and one-pointedness as technical alternates.",
   "context_rules": [
     {
       "context": "In most doctrinal and meditative contexts",
@@ -53,7 +53,8 @@
     {
       "pali": "ekaggatā",
       "translation": "singleness",
-      "notes": "Headword form for technical explanation."
+      "notes": "Headword form for technical explanation.",
+      "source": "DN 2"
     },
     {
       "pali": "samāhitaṃ cittaṃ ekaggaṃ",
@@ -77,10 +78,10 @@
   "version_notes": "Promoted from a minor stub to a rule-bearing major entry with explicit guidance for singleness, unification, and one-pointedness.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping singleness as the house default in samadhi-adjacent analysis while preserving unification and one-pointedness as technical alternates."
     }
   ],
   "translation_policy": {
