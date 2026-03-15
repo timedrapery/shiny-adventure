@@ -1,0 +1,74 @@
+{
+  "term": "phassasamudaya",
+  "normalized_term": "phassa-samudaya",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "origin of contact",
+  "preferred_translation": "origin of contact",
+  "alternative_translations": [
+    "arising of contact"
+  ],
+  "discouraged_translations": [
+    "creation of contact"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The arising or originating condition of contact within dependent-origination and sense-process analysis.",
+  "notes": "The project prefers origin of contact in formulaic doctrinal settings because it stays aligned with the house handling of samudaya while keeping phassa as the technical event of contact. Arising of contact can work in explanatory prose when dynamic emergence is more foregrounded. The term should not be collapsed into sensation or feeling, since it names the origin of contact itself, not its later consequences.",
+  "context_rules": [
+    {
+      "context": "In dependent-origination and linked causal formulas",
+      "rendering": "origin of contact",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing emergence rather than truth-label structure",
+      "rendering": "arising of contact",
+      "notes": "Acceptable alternate when motion is more important than analytic designation."
+    },
+    {
+      "context": "When the passage explains the sense-process link from the six fields to contact",
+      "rendering": "origin of contact",
+      "notes": "Keep the technical causal relation explicit."
+    }
+  ],
+  "related_terms": [
+    "vinnana-tthiti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saḷāyatanasamudayā phassasamudayo",
+      "translation": "from the origin of the six sense fields comes the origin of contact",
+      "notes": "Formulaic dependent-origination style usage.",
+      "source": "SN 12.43"
+    },
+    {
+      "pali": "phassasamudaya",
+      "translation": "origin of contact",
+      "notes": "Compact doctrinal headword use."
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43",
+    "SN 35.93"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "sense-fields"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports carrying the phassa and samudaya policies coherently into causal formulas."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'origin of contact' in dependent-origination and sense-process formulas unless a recorded context rule shifts to a more dynamic explanatory line.",
+    "when_not_to_apply": "Use 'arising of contact' only when explanatory prose needs a more process-heavy phrase and the causal analysis remains clear.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift into sensation-language or other renderings that obscure contact as the technical event."
+  },
+  "status": "draft"
+}

@@ -1,0 +1,17 @@
+{
+  "term": "dosamūla",
+  "normalized_term": "dosa-mula",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "rooted in aversion",
+  "preferred_translation": "rooted in aversion",
+  "definition": "Describing a state, intention, or action as having aversion as its root.",
+  "status": "draft",
+  "tags": [
+    "ethics",
+    "mental-qualities"
+  ],
+  "sutta_references": [
+    "MN 9"
+  ]
+}

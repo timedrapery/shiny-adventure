@@ -1,0 +1,75 @@
+{
+  "term": "anariya",
+  "normalized_term": "anariya",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "not noble",
+  "preferred_translation": "not noble",
+  "alternative_translations": [
+    "ordinary",
+    "unnoble"
+  ],
+  "discouraged_translations": [
+    "profane"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing what falls outside the noble path or lacks the quality marked by ariya.",
+  "notes": "The project keeps not noble as the default because it preserves the lexical relation to ariya without importing heavy later religious language. Ordinary can work when the passage is contrasting noble and ordinary ways of seeking or responding, but the term should not be flattened into merely secular or profane. It often carries path and evaluative force rather than simple social description.",
+  "context_rules": [
+    {
+      "context": "In direct contrast to ariya in doctrinal and path language",
+      "rendering": "not noble",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose stressing contrast with ordinary aims or habits",
+      "rendering": "ordinary",
+      "notes": "Acceptable alternate when the practical contrast is clearer in English."
+    },
+    {
+      "context": "When the passage needs a compact attributive adjective",
+      "rendering": "unnoble",
+      "notes": "Use sparingly because it is less idiomatic."
+    }
+  ],
+  "related_terms": [
+    "ariya-puggala"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anariyapariyesanā",
+      "translation": "the search that is not noble",
+      "notes": "Shows the term in a path-evaluative contrast.",
+      "source": "MN 26"
+    },
+    {
+      "pali": "anariya",
+      "translation": "not noble",
+      "notes": "Compact headword use in contrastive explanation."
+    }
+  ],
+  "sutta_references": [
+    "MN 26",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "persons"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports preserving lexical contrast with ariya rather than importing heavier religious language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'not noble' where the text is directly contrasting ariya with its opposite in path or evaluative language.",
+    "when_not_to_apply": "Use 'ordinary' only when the practical contrast is clearer in English and the lexical link to ariya is not lost.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents anariya from drifting into imported religious oppositions such as 'profane' that are not part of the project's style."
+  },
+  "status": "draft"
+}

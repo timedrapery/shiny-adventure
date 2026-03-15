@@ -77,6 +77,7 @@ On Windows PowerShell, activate the virtual environment with:
 - When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes UTF-8 explicitly.
 - For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
 - For bulk policy backfill on existing major entries, prefer `python scripts/scaffold_policy_metadata.py ...` and then fill the placeholders deliberately.
+- For source-text candidate discovery, prefer `python scripts/extract_candidate_terms.py ...` and review the generated queue before creating any term entry.
 - Install dependencies from `requirements-dev.txt` so local checks match CI.
 - Be aware that `python scripts/run_checks.py` runs editorial lint in strict mode, so warnings such as non-reciprocal `related_terms` links must be fixed before the full suite will pass.
 
@@ -104,15 +105,23 @@ Use these commands when you want more targeted feedback than the full suite:
 python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
+python scripts/check_translation_drift.py
 python scripts/audit_term_coverage.py
 python scripts/repo_health.py
 python scripts/policy_backfill_queue.py
 python scripts/backfill_policy_metadata.py --check-only
 python scripts/scaffold_policy_metadata.py --all-missing --check-only
+python scripts/extract_candidate_terms.py path/to/source.txt
+python scripts/generate_candidate_report.py
 ```
 
 Use `python scripts/run_checks.py` when you want the same combined workflow the
 repository uses in CI.
+
+`python scripts/check_translation_drift.py` distinguishes errors from warnings.
+Errors indicate contradictory or structurally unsafe policy data. Warnings flag
+places where contributors should review disambiguation, headword normalization,
+or rule-bearing strength before drift spreads.
 
 ## Review Notes
 

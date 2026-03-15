@@ -1,0 +1,76 @@
+{
+  "term": "ajjhatta",
+  "normalized_term": "ajjhatta",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "inner, internal",
+  "preferred_translation": "internal",
+  "alternative_translations": [
+    "inner",
+    "within"
+  ],
+  "discouraged_translations": [
+    "subjective"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Describing what is internal, inward, or within the body-mind side of a contemplated field.",
+  "notes": "The project prefers internal as the default because it is plain and stable across satipaṭṭhāna, sense-field, and comparative frameworks. Inner can work when a more natural English line is needed, but the term should not be psychologized into merely subjective experience. In internal/external pairs, the contrast is structural and contemplative, not a claim about private versus objective reality.",
+  "context_rules": [
+    {
+      "context": "In satipaṭṭhāna and contemplative internal/external pairings",
+      "rendering": "internal",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where a smoother English adjective is needed",
+      "rendering": "inner",
+      "notes": "Acceptable alternate when the line stays concrete."
+    },
+    {
+      "context": "When the passage points to what is considered within one's own field rather than what is outside it",
+      "rendering": "within",
+      "notes": "Use when the relational contrast is clearer with a prepositional English phrase."
+    }
+  ],
+  "related_terms": [
+    "bahiddha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ajjhattaṁ vā kāye kāyānupassī viharati",
+      "translation": "one dwells contemplating the body as internal",
+      "notes": "Standard satipaṭṭhāna internal reading.",
+      "source": "MN 10"
+    },
+    {
+      "pali": "ajjhatta",
+      "translation": "internal",
+      "notes": "Compact headword use in paired analysis."
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "DN 22",
+    "SN 35.26"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "context-sensitive"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports stable house handling of internal/external contemplative pairings."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'internal' in contemplative pairings and structural doctrinal contrasts unless the sentence needs a lighter alternate.",
+    "when_not_to_apply": "Do not psychologize the term into 'subjective' or other modern interpretive language unless an explicit editorial note justifies it.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents internal/external formulas from drifting into psychologized or philosophical jargon."
+  },
+  "status": "draft"
+}

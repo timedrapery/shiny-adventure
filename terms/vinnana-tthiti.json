@@ -1,0 +1,74 @@
+{
+  "term": "viññāṇaṭṭhiti",
+  "normalized_term": "vinnana-tthiti",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "station of knowing",
+  "preferred_translation": "station of knowing",
+  "alternative_translations": [
+    "station of consciousness"
+  ],
+  "discouraged_translations": [
+    "plane of pure awareness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A standing or station in which knowing is established, used in conditioned analyses of sentient experience.",
+  "notes": "The project keeps station of knowing as the default so the compound remains aligned with the house treatment of viññāṇa as knowing rather than as a metaphysical consciousness-substance. Station of consciousness remains an acceptable alternate when continuity with standard doctrinal English is necessary. The term should be heard conditionally and analytically, not as a plane of pure awareness or an eternal witness-state.",
+  "context_rules": [
+    {
+      "context": "In conditioned doctrinal analysis of the stations of viññāṇa",
+      "rendering": "station of knowing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In comparative doctrinal prose using more conventional Buddhist-English vocabulary",
+      "rendering": "station of consciousness",
+      "notes": "Acceptable alternate when continuity with established terminology helps orient the reader."
+    },
+    {
+      "context": "When the passage emphasizes where knowing stands or finds footing within conditioned existence",
+      "rendering": "station of knowing",
+      "notes": "Keep the conditional and process-based force explicit."
+    }
+  ],
+  "related_terms": [
+    "phassa-samudaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāro viññāṇaṭṭhitiyo",
+      "translation": "the four stations of knowing",
+      "notes": "Primary framework expression.",
+      "source": "DN 15"
+    },
+    {
+      "pali": "viññāṇaṭṭhiti",
+      "translation": "station of knowing",
+      "notes": "Compact headword form in doctrinal analysis."
+    }
+  ],
+  "sutta_references": [
+    "DN 15",
+    "AN 7.41"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "aggregates"
+  ],
+  "authority_basis": [
+    {
+      "source": "Repository editorial record",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports keeping viññāṇa compounds aligned with the house rendering 'knowing'."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'station of knowing' in conditioned doctrinal analysis unless comparative prose needs the alternate 'station of consciousness'.",
+    "when_not_to_apply": "Do not switch to metaphysical or mystical language that suggests an eternal awareness-substrate.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents viññāṇaṭṭhiti from drifting into non-canonical awareness metaphysics."
+  },
+  "status": "draft"
+}

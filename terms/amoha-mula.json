@@ -1,0 +1,17 @@
+{
+  "term": "amohamūla",
+  "normalized_term": "amoha-mula",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "literal_meaning": "rooted in non-delusion",
+  "preferred_translation": "rooted in non-delusion",
+  "definition": "Describing a state, intention, or action as having non-delusion as its root.",
+  "status": "draft",
+  "tags": [
+    "ethics",
+    "mental-qualities"
+  ],
+  "sutta_references": [
+    "MN 9"
+  ]
+}
