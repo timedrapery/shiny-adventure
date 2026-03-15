@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An ordinary person not yet transformed by noble-path breakthrough.",
-  "notes": "The project prefers ordinary person because it is contemporary and avoids the dated sound of worldling. Worldling remains acceptable in explanatory prose when the contrast with ariyasāvaka needs the familiar technical idiom. The term marks a doctrinal condition rather than social rank: it points to someone not yet transformed by noble-path breakthrough.",
+  "notes": "The project prefers ordinary person because it is contemporary and avoids the dated sound of worldling. Worldling remains acceptable in explanatory prose when the contrast with ariyasāvaka needs the familiar technical idiom. The term marks a doctrinal condition rather than social rank: it points to someone not yet transformed by noble-path breakthrough. The OSF glossary confirms ordinary person as the house default and preserves worldling as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In most doctrinal and comparative contexts",
@@ -50,7 +50,8 @@
     {
       "pali": "puthujjanabhūmi",
       "translation": "the plane of the ordinary person",
-      "notes": "Useful phrase for the pre-breakthrough condition."
+      "notes": "Useful phrase for the pre-breakthrough condition.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -63,10 +64,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping ordinary person as the house default for pre-breakthrough classification, with worldling retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

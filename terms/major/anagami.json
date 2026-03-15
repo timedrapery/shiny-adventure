@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A practitioner who has gone beyond return to the sensual realm and is classically described as not coming back here.",
-  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase one who does not return is acceptable when a sentence needs more explicitness and less list-like compactness. The term should be read as a high noble stage still short of arahantship, especially in discussions of the fetters and the graded path.",
+  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase one who does not return is acceptable when a sentence needs more explicitness and less list-like compactness. The term should be read as a high noble stage still short of arahantship, especially in discussions of the fetters and the graded path. The OSF glossary confirms non-returner as the house default and preserves one who does not return as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal classifications of awakening stages",
@@ -49,12 +49,14 @@
     {
       "pali": "anāgāmī",
       "translation": "non-returner",
-      "notes": "Headword use in stage lists."
+      "notes": "Headword use in stage lists.",
+      "source": "AN 3.86"
     },
     {
       "pali": "anāgāmimagga",
       "translation": "the path of the non-returner",
-      "notes": "Useful compound linking attainment-stage language to path language."
+      "notes": "Useful compound linking attainment-stage language to path language.",
+      "source": "SN 55.5"
     }
   ],
   "sutta_references": [
@@ -69,10 +71,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping non-returner as the house default in graded attainment classification, with the clause-style alternate reserved for explanatory prose."
     }
   ],
   "translation_policy": {
