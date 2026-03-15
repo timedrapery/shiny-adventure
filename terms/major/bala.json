@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A strength that stabilizes and supports practice so it does not easily collapse.",
-  "notes": "The project prefers strength because it stays readable and avoids the inflated tone that power can take on in religious or mystical contexts. Power remains acceptable in explanatory prose when the doctrinal pairing with faculties is being discussed as a familiar framework.",
+  "notes": "The project prefers strength because it stays readable and avoids the inflated tone that power can take on in religious or mystical contexts. Power remains acceptable in explanatory prose when the doctrinal pairing with faculties is being discussed as a familiar framework. The OSF glossary supports this by treating bala as stabilizing strength within practice rather than as mystical force, which supports the current handling.",
   "context_rules": [
     {
       "context": "In the five strengths and related doctrinal frameworks",
@@ -58,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current bala policy."
     }
   ],
   "translation_policy": {

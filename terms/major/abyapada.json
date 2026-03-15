@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disposition free from ill will, especially as a component of right attitude.",
-  "notes": "The project prefers non-ill-will in doctrinal contexts because it stays transparent to the Pāli structure and links cleanly to byāpāda. Goodwill is acceptable in more fluid prose when the phrase would otherwise sound overly technical.",
+  "notes": "The project prefers non-ill-will in doctrinal contexts because it stays transparent to the Pāli structure and links cleanly to byāpāda. Goodwill is acceptable in more fluid prose when the phrase would otherwise sound overly technical. The OSF glossary supports this by keeping abyāpāda closely aligned with the path-factor framework rather than broadening it into a vague kindness term.",
   "context_rules": [
     {
       "context": "In path-factor and analytical contexts",
@@ -55,10 +55,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current abyāpāda policy."
     }
   ],
   "translation_policy": {
