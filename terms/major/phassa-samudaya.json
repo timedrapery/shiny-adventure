@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The arising or originating condition of contact within dependent-origination and sense-process analysis.",
-  "notes": "The project prefers origin of contact in formulaic doctrinal settings because it stays aligned with the house handling of samudaya while keeping phassa as the technical event of contact. Arising of contact can work in explanatory prose when dynamic emergence is more foregrounded. The term should not be collapsed into sensation or feeling, since it names the origin of contact itself, not its later consequences.",
+  "notes": "The project prefers origin of contact in formulaic doctrinal settings because it stays aligned with the house handling of samudaya while keeping phassa as the technical event of contact. Arising of contact can work in explanatory prose when dynamic emergence is more foregrounded. The term should not be collapsed into sensation or feeling, since it names the origin of contact itself, not its later consequences. The OSF glossary supports the underlying phassa and samudaya handling that this compound policy depends on.",
   "context_rules": [
     {
       "context": "In dependent-origination and linked causal formulas",
@@ -44,7 +44,8 @@
     {
       "pali": "phassasamudaya",
       "translation": "origin of contact",
-      "notes": "Compact doctrinal headword use."
+      "notes": "Compact doctrinal headword use.",
+      "source": "SN 12.43"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports carrying the phassa and samudaya policies coherently into causal formulas."
+      "scope": "Named in notes as support for the current phassasamudaya policy."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Passionate attachment or coloring of the mind toward what it wants and clings to.",
-  "notes": "The project prefers passion because it is broader than sexual desire and works well across the many doctrinal places where rāga functions as attachment, heat, and coloring. Attachment can be useful when the grasping dimension is more important than the emotional heat, but lust is too narrow for default use.",
+  "notes": "The project prefers passion because it is broader than sexual desire and works well across the many doctrinal places where rāga functions as attachment, heat, and coloring. Attachment can be useful when the grasping dimension is more important than the emotional heat, but lust is too narrow for default use. The OSF glossary also keeps rāga broader than merely sexual desire, which supports the present default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -42,7 +42,8 @@
     {
       "pali": "rāgakkhaya",
       "translation": "the wearing away of passion",
-      "notes": "Compact doctrinal compound showing the term in liberation language."
+      "notes": "Compact doctrinal compound showing the term in liberation language.",
+      "source": "MN 64"
     },
     {
       "pali": "rāgānusaya",
@@ -62,10 +63,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current rāga policy."
     }
   ],
   "translation_policy": {
