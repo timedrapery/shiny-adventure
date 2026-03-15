@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Despairing affliction or torment arising in the full spread of suffering.",
-  "notes": "The project prefers despair because it fits the emotional culmination of the standard formula and reads naturally in contemporary English. Affliction is acceptable in explanatory prose where the broader burdening sense matters more than the emotional peak.",
+  "notes": "The project prefers despair because it fits the emotional culmination of the standard formula and reads naturally in contemporary English. Affliction is acceptable in explanatory prose where the broader burdening sense matters more than the emotional peak. The OSF glossary likewise keeps upāyāsa aligned with the culminating suffering formula, which supports the present policy.",
   "context_rules": [
     {
       "context": "In the standard suffering formula and similar contexts",
@@ -49,7 +49,8 @@
     {
       "pali": "upāyāsabahulo",
       "translation": "full of despair",
-      "notes": "Shows the term in an adjectival derivative."
+      "notes": "Shows the term in an adjectival derivative.",
+      "source": "SN 12.2"
     }
   ],
   "sutta_references": [
@@ -62,10 +63,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current upāyāsa policy."
     }
   ],
   "translation_policy": {

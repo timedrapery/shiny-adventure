@@ -66,12 +66,14 @@
     {
       "pali": "sammāsaṅkappa",
       "translation": "right attitude",
-      "notes": "Path-factor headword form."
+      "notes": "Path-factor headword form.",
+      "source": "MN 117"
     },
     {
       "pali": "nekkhammasaṅkappa",
       "translation": "attitude of renunciation",
-      "notes": "Shows one concrete mode of the factor."
+      "notes": "Shows one concrete mode of the factor.",
+      "source": "MN 117"
     }
   ],
   "sutta_references": [

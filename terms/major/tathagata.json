@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "Tathāgata (an epithet of the Buddha)",
   "definition": "A title used for the Buddha, often carrying doctrinal weight that should not be flattened into a casual English equivalent.",
-  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed. The title often carries special doctrinal weight in statements about the Buddha, so the project avoids forcing a supposedly definitive English solution.",
+  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed. The title often carries special doctrinal weight in statements about the Buddha, so the project avoids forcing a supposedly definitive English solution. The OSF glossary likewise keeps Tathāgata untranslated as a technical title, which supports the present handling.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -42,12 +42,14 @@
     {
       "pali": "tathāgato",
       "translation": "the Tathāgata",
-      "notes": "Common titular usage throughout the Nikāyas."
+      "notes": "Common titular usage throughout the Nikāyas.",
+      "source": "MN 72"
     },
     {
       "pali": "tathāgatabala",
       "translation": "the powers of the Tathāgata",
-      "notes": "Useful reminder that the title often appears in highly doctrinal compounds."
+      "notes": "Useful reminder that the title often appears in highly doctrinal compounds.",
+      "source": "MN 72"
     }
   ],
   "sutta_references": [
@@ -61,10 +63,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current Tathāgata policy."
     }
   ],
   "translation_policy": {

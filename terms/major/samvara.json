@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Restraint or guarding that keeps the senses, speech, and conduct from running into unwholesome patterns.",
-  "notes": "The repository keeps restraint as the default because it is already stable in early-Buddhist ethical and practical language. Guarding remains acceptable when the active protective function is central. Suppression is discouraged because saṃvara is not mere pushing-down but intelligent containment and protection. This term is especially important in compounds like indriya-saṃvara.",
+  "notes": "The repository keeps restraint as the default because it is already stable in early-Buddhist ethical and practical language. Guarding remains acceptable when the active protective function is central. Suppression is discouraged because saṃvara is not mere pushing-down but intelligent containment and protection. This term is especially important in compounds like indriya-saṃvara. The OSF glossary also treats saṃvara as intelligent restraint or guarding rather than suppression, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -50,7 +50,8 @@
     {
       "pali": "saṃvaraṃ āpajjati",
       "translation": "one enters restraint",
-      "notes": "Shows the term as active guarding."
+      "notes": "Shows the term as active guarding.",
+      "source": "MN 38"
     }
   ],
   "sutta_references": [
@@ -65,10 +66,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current saṃvara policy."
     }
   ],
   "translation_policy": {

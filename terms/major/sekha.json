@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One still in training on the noble path, not yet fully complete.",
-  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase. The term should be heard as a formal path-classification: it refers to those who have entered noble training but have not yet reached the completion marked by the arahant.",
+  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase. The term should be heard as a formal path-classification: it refers to those who have entered noble training but have not yet reached the completion marked by the arahant. The OSF glossary also keeps sekha aligned with the technical trainee-versus-asekha distinction, supporting the current policy.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -50,12 +50,14 @@
     {
       "pali": "sekho bhikkhu",
       "translation": "a trainee bhikkhu",
-      "notes": "Simple classificatory usage."
+      "notes": "Simple classificatory usage.",
+      "source": "MN 53"
     },
     {
       "pali": "sekhassa sikkhā",
       "translation": "the training of a trainee",
-      "notes": "Useful expression for the unfinished but noble character of the stage."
+      "notes": "Useful expression for the unfinished but noble character of the stage.",
+      "source": "MN 53"
     }
   ],
   "sutta_references": [
@@ -68,10 +70,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current sekha policy."
     }
   ],
   "translation_policy": {

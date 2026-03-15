@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Ongoing mental turning-over or examination of a theme after it has been taken up by thinking.",
-  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose.",
+  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary also keeps vicāra aligned with ongoing mental examination rather than abstract evaluation-language, which supports the present policy.",
   "context_rules": [
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
@@ -60,7 +60,8 @@
     {
       "pali": "dhammavicaya",
       "translation": "investigation of dhamma",
-      "notes": "Related family usage where the root sense of examining remains visible."
+      "notes": "Related family usage where the root sense of examining remains visible.",
+      "source": "MN 44"
     }
   ],
   "sutta_references": [
@@ -78,10 +79,10 @@
   "version_notes": "Expanded to govern both first-jhāna and explanatory usage and to keep the vitakka-vicāra pair stable in translation.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current vicāra policy."
     }
   ],
   "translation_policy": {

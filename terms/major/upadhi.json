@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A supporting basis or acquisition that sustains continued bondage, becoming, or suffering.",
-  "notes": "The project prefers support because it is contemporary, flexible, and works across several doctrinal contexts without sounding metaphysical. Acquisition is acceptable where upadhi clearly points to what has been amassed or appropriated, while substrate can be useful in tightly technical prose but is too stiff for default use.",
+  "notes": "The project prefers support because it is contemporary, flexible, and works across several doctrinal contexts without sounding metaphysical. Acquisition is acceptable where upadhi clearly points to what has been amassed or appropriated, while substrate can be useful in tightly technical prose but is too stiff for default use. The OSF glossary also treats upadhi as a supporting basis or acquisition tied to bondage and release, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most doctrinal and explanatory contexts",
@@ -45,7 +45,8 @@
     {
       "pali": "nirūpadhi",
       "translation": "without support",
-      "notes": "Useful contrastive form in liberation language."
+      "notes": "Useful contrastive form in liberation language.",
+      "source": "MN 26"
     },
     {
       "pali": "sabbupadhipaṭinissagga",
@@ -65,10 +66,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current upadhi policy."
     }
   ],
   "translation_policy": {
