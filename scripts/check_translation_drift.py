@@ -139,7 +139,8 @@ def add_finding(
 
 def check_schema(records: list[TermRecord], findings: list[Finding]) -> None:
     del records
-    for failure in collect_validation_failures(TERMS_DIR):
+    failures, _warnings = collect_validation_failures(TERMS_DIR)
+    for failure in failures:
         add_finding(findings, "error", "Schema", "schema_violation", failure)
 
 

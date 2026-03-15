@@ -16,7 +16,7 @@ Use this document alongside:
 
 ---
 
-# Tag Guidelines
+## Tag Guidelines
 
 ## General Rules
 
@@ -248,7 +248,7 @@ As of the current repository contents, the standardized tag set is:
 
 ---
 
-# Status Guidelines
+## Status Guidelines
 
 ## Allowed Status Values
 
@@ -293,7 +293,7 @@ Typical signs:
 
 ---
 
-# Recommended Editorial Checklist
+## Recommended Editorial Checklist
 
 Before moving an entry to `reviewed` or `stable`, check:
 
@@ -305,7 +305,7 @@ Before moving an entry to `reviewed` or `stable`, check:
 
 ---
 
-# Current Standardization Notes
+## Current Standardization Notes
 
 Prefer these forms:
 

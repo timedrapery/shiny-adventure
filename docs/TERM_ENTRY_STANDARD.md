@@ -39,7 +39,7 @@ Use this document alongside:
 
 ------------------------------------------------------------------------
 
-# Entry Types
+## Entry Types
 
 ## Major Entries (Rule-Bearing)
 
@@ -93,7 +93,7 @@ terms**.
 
 ------------------------------------------------------------------------
 
-# Suggested Workflow
+## Suggested Workflow
 
 When working on an entry:
 
@@ -105,7 +105,7 @@ When working on an entry:
 
 ------------------------------------------------------------------------
 
-# File Naming Convention
+## File Naming Convention
 
 Files must use **ASCII filenames**.
 
@@ -124,7 +124,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Entry Type Convention
+## Entry Type Convention
 
 Every new entry should include `entry_type`.
 
@@ -134,7 +134,7 @@ Every new entry should include `entry_type`.
 
 ------------------------------------------------------------------------
 
-# Required Fields
+## Required Fields
 
 Every entry should include:
 
@@ -167,7 +167,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Recommended Fields for Major Entries
+## Recommended Fields for Major Entries
 
 Major entries should normally include:
 
@@ -189,7 +189,7 @@ rather than a flat glossary.
 
 ------------------------------------------------------------------------
 
-# Source-Backed Alternates
+## Source-Backed Alternates
 
 When revising an entry from an outside-source profile or a lower-authority
 named source:
@@ -214,7 +214,7 @@ For OSF authority order and cases where a source may directly change
 
 ------------------------------------------------------------------------
 
-# Context Rules
+## Context Rules
 
 `context_rules` encode translation decisions that vary depending on
 usage.
@@ -258,7 +258,7 @@ to infer inheritance only from prose.
 
 ------------------------------------------------------------------------
 
-# Alternative Translations
+## Alternative Translations
 
 Example:
 
@@ -271,7 +271,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Discouraged Translations
+## Discouraged Translations
 
 Example:
 
@@ -283,7 +283,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Related Terms
+## Related Terms
 
 Example:
 
@@ -297,7 +297,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Example Phrases
+## Example Phrases
 
 Example:
 
@@ -312,7 +312,7 @@ Example:
 
 ------------------------------------------------------------------------
 
-# Tags
+## Tags
 
 Example tags:
 
@@ -340,7 +340,7 @@ For the preferred current tag set and when to use each tag, see
 
 ------------------------------------------------------------------------
 
-# Status Field
+## Status Field
 
 Allowed values:
 
@@ -355,7 +355,7 @@ For practical guidance on when to use each status, see
 
 ------------------------------------------------------------------------
 
-# Editing Principles
+## Editing Principles
 
 1.  Prefer clarity over jargon.
 2.  Preserve doctrinal precision.
@@ -366,7 +366,7 @@ For practical guidance on when to use each status, see
 
 ------------------------------------------------------------------------
 
-# Long-Term Goal
+## Long-Term Goal
 
 The **shiny-adventure** dataset aims to support:
 

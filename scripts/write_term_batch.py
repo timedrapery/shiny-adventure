@@ -80,7 +80,9 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
             normalized_term = record["normalized_term"]
             write_record(record, destination_for_record(temp_terms_dir, record, normalized_term))
 
-        schema_failures = validate_terms.collect_validation_failures(temp_terms_dir)
+        schema_failures, _schema_warnings = validate_terms.collect_validation_failures(
+            temp_terms_dir
+        )
         if schema_failures:
             raise ValueError(f"Batch failed schema validation: {schema_failures[0]}")
 

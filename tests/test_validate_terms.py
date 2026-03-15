@@ -130,6 +130,65 @@ class ValidateTermsTests(unittest.TestCase):
         self.assertEqual(result, 1)
         self.assertIn("term 'sati' is duplicated across files", output.getvalue())
 
+    def test_main_reports_preferred_translation_collisions_as_warnings(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            schema_path = tmp_path / "schema.json"
+            terms_dir = tmp_path / "terms"
+            terms_dir.mkdir()
+            schema_path.write_text(
+                json.dumps(
+                    {
+                        "type": "object",
+                        "properties": {
+                            "term": {"type": "string"},
+                            "normalized_term": {"type": "string"},
+                            "entry_type": {"type": "string"},
+                            "preferred_translation": {"type": "string"},
+                        },
+                        "required": [
+                            "term",
+                            "normalized_term",
+                            "entry_type",
+                            "preferred_translation",
+                        ],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (terms_dir / "citta.json").write_text(
+                json.dumps(
+                    {
+                        "term": "citta",
+                        "normalized_term": "citta",
+                        "entry_type": "major",
+                        "preferred_translation": "mind",
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (terms_dir / "mano.json").write_text(
+                json.dumps(
+                    {
+                        "term": "mano",
+                        "normalized_term": "mano",
+                        "entry_type": "major",
+                        "preferred_translation": "mind",
+                    }
+                ),
+                encoding="utf-8",
+            )
+            output = io.StringIO()
+
+            with mock.patch.object(validate_terms, "SCHEMA_PATH", schema_path):
+                with mock.patch.object(validate_terms, "TERMS_DIR", terms_dir):
+                    with mock.patch("sys.stdout", output):
+                        result = validate_terms.main()
+
+        self.assertEqual(result, 0)
+        self.assertIn("Warnings:", output.getvalue())
+        self.assertIn("major preferred_translation collision 'mind'", output.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()
