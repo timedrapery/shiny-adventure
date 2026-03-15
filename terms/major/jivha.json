@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The tongue as a sense faculty within the six sense fields.",
-  "notes": "The project prefers tongue as the plain default. Gustatory faculty is acceptable in technical explanation when the sense-base role needs to be explicit.",
+  "notes": "The project prefers tongue as the plain default. Gustatory faculty is acceptable in technical explanation when the sense-base role needs to be explicit. The OSF glossary confirms tongue as the house default and records gustatory faculty as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -44,7 +44,8 @@
     {
       "pali": "jivhāyatana",
       "translation": "the tongue sense field",
-      "notes": "Shows the term inside āyatana analysis."
+      "notes": "Shows the term inside āyatana analysis.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -57,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping tongue as the house default for the tongue faculty within the six sense fields."
     }
   ],
   "translation_policy": {

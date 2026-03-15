@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A sound as the object of the ear within the six sense fields.",
-  "notes": "The project prefers sound because it is direct and covers the full range of auditory objects. Noise is acceptable only when the context clearly points to harshness or disturbance, while voice is too narrow for default use.",
+  "notes": "The project prefers sound because it is direct and covers the full range of auditory objects. Noise is acceptable only when the context clearly points to harshness or disturbance, while voice is too narrow for default use. The OSF glossary confirms sound as the house default and records noise as a context-limited alternate.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
@@ -43,7 +43,8 @@
     {
       "pali": "saddārammaṇa",
       "translation": "having sound as object",
-      "notes": "Useful compact analytical usage."
+      "notes": "Useful compact analytical usage.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -56,10 +57,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping sound as the house default for auditory objects within the sixfold analysis."
     }
   ],
   "translation_policy": {

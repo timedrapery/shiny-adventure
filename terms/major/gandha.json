@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An odor as the object of the nose within the six sense fields.",
-  "notes": "The project prefers odor because it is neutral and works across pleasant and unpleasant cases. Smell is acceptable in ordinary prose, but odor is slightly better for analytical consistency.",
+  "notes": "The project prefers odor because it is neutral and works across pleasant and unpleasant cases. Smell is acceptable in ordinary prose, but odor is slightly better for analytical consistency. The OSF glossary confirms odor as the house default and records smell as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
@@ -44,7 +44,8 @@
     {
       "pali": "gandhārammaṇa",
       "translation": "having odor as object",
-      "notes": "Useful compact analytical usage."
+      "notes": "Useful compact analytical usage.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -57,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping odor as the neutral default across pleasant and unpleasant smell-object contexts."
     }
   ],
   "translation_policy": {

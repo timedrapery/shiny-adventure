@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowing arising dependent on the mental faculty and dhammas.",
-  "notes": "The project prefers mind-knowing because it preserves the analytical relation between mano and viññāṇa while aligning with the updated treatment of viññāṇa as knowing. Mind-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters.",
+  "notes": "The project prefers mind-knowing because it preserves the analytical relation between mano and viññāṇa while aligning with the updated treatment of viññāṇa as knowing. Mind-consciousness remains an acceptable alternate where continuity with familiar doctrinal English matters. The OSF glossary confirms mind-knowing as the house default for this viññāṇa compound.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
@@ -57,10 +57,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping mind-knowing as the house default and preserves the mano-viññāṇa analytical relation."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The ear as a sense faculty within the six sense fields.",
-  "notes": "The project prefers ear as the plain default. Auditory faculty is acceptable in technical explanation when the faculty-role within the sixfold analysis needs to stay explicit.",
+  "notes": "The project prefers ear as the plain default. Auditory faculty is acceptable in technical explanation when the faculty-role within the sixfold analysis needs to stay explicit. The OSF glossary confirms ear as the house default and records auditory faculty as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -45,7 +45,8 @@
     {
       "pali": "sotāyatana",
       "translation": "the ear sense field",
-      "notes": "Shows the term inside āyatana analysis."
+      "notes": "Shows the term inside āyatana analysis.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping ear as the house default for the ear faculty within the six sense fields."
     }
   ],
   "translation_policy": {
