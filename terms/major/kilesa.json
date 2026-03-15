@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A defilement that clouds the mind and obstructs clear practice and release.",
-  "notes": "The project prefers defilement because it remains the clearest concise doctrinal label in English. Stain is acceptable in explanatory prose when the imagery of soiling or obscuring is useful, but sin is too churchy and misleading for the dataset.",
+  "notes": "The project prefers defilement because it remains the clearest concise doctrinal label in English. Stain is acceptable in explanatory prose when the imagery of soiling or obscuring is useful, but sin is too churchy and misleading for the dataset. The OSF glossary likewise frames kilesa as mental defilement, reinforcing this default choice.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -36,7 +36,8 @@
     {
       "pali": "cittassa upakkilesā",
       "translation": "defilements of the mind",
-      "notes": "Useful bridge to the upakkilesa-family."
+      "notes": "Useful bridge to the upakkilesa-family.",
+      "source": "MN 7"
     }
   ],
   "sutta_references": [
@@ -49,10 +50,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kilesa policy."
     }
   ],
   "translation_policy": {

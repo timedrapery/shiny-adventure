@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A cause or reason, often more specifically causal than the broader paccaya.",
-  "notes": "The project prefers cause because the term often marks a more direct causal role than the broader conditionality language of paccaya. Reason is acceptable in explanatory prose when the line leans more rhetorical or justificatory than metaphysical.",
+  "notes": "The project prefers cause because the term often marks a more direct causal role than the broader conditionality language of paccaya. Reason is acceptable in explanatory prose when the line leans more rhetorical or justificatory than metaphysical. The OSF glossary aligns with this handling by distinguishing direct causal language from broader conditional framing.",
   "context_rules": [
     {
       "context": "In most doctrinal and analytical contexts",
@@ -38,7 +38,8 @@
     {
       "pali": "hetuṃ paṭicca",
       "translation": "dependent on a cause",
-      "notes": "Compact analytical usage."
+      "notes": "Compact analytical usage.",
+      "source": "AN 3.134"
     }
   ],
   "sutta_references": [
@@ -51,10 +52,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current hetu policy."
     }
   ],
   "translation_policy": {
