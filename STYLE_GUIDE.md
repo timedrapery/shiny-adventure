@@ -135,3 +135,45 @@ When revising a minor term:
 ## Revision Rule
 
 If house preferences change, update the relevant term records, examples, and supporting documentation in the same pass so the repository remains internally coherent.
+
+## Markdown and Document Formatting
+
+Apply consistent formatting across all Markdown files in this repository.
+
+### Encoding
+
+- All files use UTF-8 encoding.
+- Preserve full Pāli diacritics in the `term` field, example phrases, and in running prose where the Pāli appears directly.
+- Use ASCII-safe `normalized_term` values for filenames and JSON lookup keys.
+
+### Heading Hierarchy
+
+- Use a single `#` H1 per document.
+- Use `##` for major sections and `###` for subsections.
+- Do not skip heading levels.
+- Headings should not be duplicated within a document.
+
+### Lists
+
+- Use `-` for unordered lists throughout (not `*` or `+`).
+- Use `1.` for numbered steps.
+- Keep list items parallel in structure.
+
+### Code Blocks
+
+- Use fenced code blocks with an explicit language identifier where one applies:
+	- ` ```json ` for term record examples
+	- ` ```bash ` for shell commands
+	- ` ```text ` for directory trees and plain text output
+- Inline code (backtick) should be used for field names, filenames, term values, and command names.
+
+### Links
+
+- Use relative links for all internal cross-references.
+- Verify that links resolve before merging a change.
+- Do not link to files that do not exist.
+
+### Tables
+
+- Use Markdown tables for structured comparisons where a list would be hard to scan.
+- Keep tables narrow: prefer a few columns over a wide multi-column layout.

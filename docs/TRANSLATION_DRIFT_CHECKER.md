@@ -77,3 +77,11 @@ automated trust in the dataset.
 The checker does not decide doctrinal correctness. It cannot tell whether a
 translation choice is philosophically best, only whether the repository has
 encoded that choice clearly and consistently enough to prevent silent drift.
+
+## High-Risk Terms
+
+For a list of the doctrinal terms most likely to cause translation instability,
+see [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md). These terms include `dukkha`,
+`saṅkhāra`, `viññāṇa`, `nibbāna`, `sati`, `jhāna`, `samādhi`, and `saññā`,
+among others. They should be reviewed with extra care before any preferred
+translation or context rule is changed.
