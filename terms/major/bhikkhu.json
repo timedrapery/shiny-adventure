@@ -15,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "bhikkhu (ordained mendicant)",
   "definition": "An ordained mendicant in the Buddhist monastic community; the project normally keeps the Pāli term.",
-  "notes": "The style guide prefers bhikkhu or bhikkhus rather than monk because the English monastic term carries historical and institutional baggage that does not map cleanly onto the early Buddhist context. Mendicant can work as a gloss, but the project default is the untranslated Pāli. The OSF glossary and style guide both support keeping bhikkhu as the default source-facing form.",
+  "notes": "The project style guide prefers bhikkhu or bhikkhus rather than monk because the English monastic term carries historical and institutional baggage that does not map cleanly onto the early Buddhist context. Mendicant can work as a gloss, but the project default is the untranslated Pāli. The OSF glossary and style guide both support keeping bhikkhu as the default source-facing form.",
   "context_rules": [
     {
       "context": "In most translations within this project",
