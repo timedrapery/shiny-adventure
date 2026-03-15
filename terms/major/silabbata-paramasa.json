@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clinging to rules, practices, or observances as ends in themselves or as sufficient for liberation.",
-  "notes": "The project keeps grasping at rules and observances as the default because it states the practical problem directly. The issue is not ethical conduct itself, which the repository already treats positively under sīla, but the mistaken holding that external practices or procedures are liberating in themselves. This is one of the fetters abandoned by the stream-enterer and should not be flattened into a rejection of discipline as such.",
+  "notes": "The project keeps grasping at rules and observances as the default because it states the practical problem directly. The issue is not ethical conduct itself, which the repository already treats positively under sīla, but the mistaken holding that external practices or procedures are liberating in themselves. This is one of the fetters abandoned by the stream-enterer and should not be flattened into a rejection of discipline as such. The OSF glossary confirms grasping at rules and observances as the house default and preserves attachment to rules and observances as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In fetter lists and stream-entry analysis",
@@ -52,7 +52,8 @@
     {
       "pali": "na sīlabbatena suddhi",
       "translation": "there is no purification merely by rules and observances",
-      "notes": "Captures the practical doctrinal point of the term."
+      "notes": "Captures the practical doctrinal point of the term.",
+      "source": "MN 44"
     }
   ],
   "sutta_references": [
@@ -69,10 +70,10 @@
   "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry that distinguishes wholesome discipline from grasping at forms of discipline.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping grasping at rules and observances as the house default in stream-entry and fetter analysis, with the attachment phrasing retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Passion directed toward formless existence, attainments, or realms.",
-  "notes": "The project uses passion for formless existence as the default because it makes the doctrinal function clear inside the higher fetters. The term points to subtle attachment, not to liberation itself, even when the object is refined and non-material. Passion for the formless remains acceptable where the setting is already clear.",
+  "notes": "The project uses passion for formless existence as the default because it makes the doctrinal function clear inside the higher fetters. The term points to subtle attachment, not to liberation itself, even when the object is refined and non-material. Passion for the formless remains acceptable where the setting is already clear. The OSF glossary confirms passion for formless existence as the house default and preserves compact alternates for explicit doctrinal contexts.",
   "context_rules": [
     {
       "context": "In fetter lists and higher-stage liberation analysis",
@@ -61,10 +61,10 @@
   "version_notes": "Promoted to a major entry and clarified as subtle attachment to formless existence or attainment.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping passion for formless existence as the house default in higher-fetter analysis, with compact alternates reserved for explicit doctrinal contexts."
     }
   ],
   "translation_policy": {

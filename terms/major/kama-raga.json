@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Passion directed toward sensuality and the pleasures of the sense world.",
-  "notes": "The project keeps passion for sensuality as the default because it preserves the relation to kāma without collapsing the term into merely sexual lust. Sensual passion is acceptable when the English line needs a shorter phrase. This term should function both in fetter analysis and in broader doctrinal explanation of why sensuality binds the mind.",
+  "notes": "The project keeps passion for sensuality as the default because it preserves the relation to kāma without collapsing the term into merely sexual lust. Sensual passion is acceptable when the English line needs a shorter phrase. This term should function both in fetter analysis and in broader doctrinal explanation of why sensuality binds the mind. The OSF glossary confirms passion for sensuality as the house default and preserves sensual passion as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -52,7 +52,8 @@
     {
       "pali": "kāmarāgasaṃyojanaṃ",
       "translation": "the fetter of passion for sensuality",
-      "notes": "Shows the term inside the fetter framework."
+      "notes": "Shows the term inside the fetter framework.",
+      "source": "SN 45.179"
     }
   ],
   "sutta_references": [
@@ -68,10 +69,10 @@
   "version_notes": "Promoted to a major entry and clarified against overly narrow sexual-lust readings.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping passion for sensuality as the house default in fetter analysis, with sensual passion retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

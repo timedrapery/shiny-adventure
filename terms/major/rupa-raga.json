@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Passion directed toward refined form existence or form realms, especially at higher stages of meditative attachment.",
-  "notes": "The project uses passion for form existence as the default because it makes clear that the term is not about crude attachment to ordinary physical objects alone. In fetter analysis it points to subtle attachment to form-realm becoming or attainment. Passion for form remains acceptable where the doctrinal setting is already explicit.",
+  "notes": "The project uses passion for form existence as the default because it makes clear that the term is not about crude attachment to ordinary physical objects alone. In fetter analysis it points to subtle attachment to form-realm becoming or attainment. Passion for form remains acceptable where the doctrinal setting is already explicit. The OSF glossary confirms passion for form existence as the house default and preserves passion for form and attachment to form realms as explanatory alternates.",
   "context_rules": [
     {
       "context": "In fetter lists and higher-stage liberation analysis",
@@ -62,10 +62,10 @@
   "version_notes": "Promoted to a major entry and clarified as subtle attachment to form existence rather than simple attachment to visible form.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping passion for form existence as the house default in higher-fetter analysis, with compact alternates reserved for explicit doctrinal contexts."
     }
   ],
   "translation_policy": {

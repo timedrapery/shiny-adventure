@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A binding factor that ties a person to cyclical becoming and obstructs full release.",
-  "notes": "The project keeps fetter as the default because it remains the clearest concise term in English for the canonical set. Bond can be useful in explanatory prose when the binding function is more important than the traditional doctrinal label.",
+  "notes": "The project keeps fetter as the default because it remains the clearest concise term in English for the canonical set. Bond can be useful in explanatory prose when the binding function is more important than the traditional doctrinal label. The OSF glossary confirms fetter as the house default and preserves bond as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In lists and doctrinal discussions of the ten fetters",
@@ -52,7 +52,8 @@
     {
       "pali": "saṃyojanāni",
       "translation": "the fetters",
-      "notes": "General plural reference to the standard doctrinal set."
+      "notes": "General plural reference to the standard doctrinal set.",
+      "source": "MN 64"
     },
     {
       "pali": "orambhāgiyāni saṃyojanāni",
@@ -72,10 +73,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping fetter as the house default for the canonical set, with bond retained as an explanatory alternate."
     }
   ],
   "translation_policy": {
