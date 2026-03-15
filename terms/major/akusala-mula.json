@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A root condition supporting unwholesome qualities, classically named as greed, aversion, and delusion.",
-  "notes": "The project keeps root of the unwholesome as the default because it preserves the analytic relation to akusala and stays parallel with the wholesome-root framework. Unwholesome root is acceptable as a shorter heading, but the term should remain an explicit causal and classificatory category. It should not be reduced to a vague bad tendency or to a merely emotional reaction.",
+  "notes": "The project keeps root of the unwholesome as the default because it preserves the analytic relation to akusala and stays parallel with the wholesome-root framework. Unwholesome root is acceptable as a shorter heading, but the term should remain an explicit causal and classificatory category. It should not be reduced to a vague bad tendency or to a merely emotional reaction. The OSF glossary confirms root of the unwholesome as the house default and preserves unwholesome root as the shorter alternate for compact headings.",
   "context_rules": [
     {
       "context": "In doctrinal analysis of the unwholesome roots",
@@ -45,7 +45,8 @@
     {
       "pali": "akusalamūla",
       "translation": "root of the unwholesome",
-      "notes": "Useful compact headword form in doctrinal discussion."
+      "notes": "Useful compact headword form in doctrinal discussion.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports the house treatment of unwholesome-root terminology as an analytic causal framework."
+      "scope": "Supports the house treatment of unwholesome-root terminology as an analytic causal framework and preserves the longer compound as the default form."
     }
   ],
   "translation_policy": {

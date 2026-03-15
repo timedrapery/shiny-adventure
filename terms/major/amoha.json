@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clear seeing that is free from confusion and distortion.",
-  "notes": "The project prefers clarity because it reads naturally in contemporary English and captures the functional opposite of delusion. Non-delusion remains acceptable in more technical doctrinal exposition, especially when the explicit contrast with moha needs to stay visible. The term belongs inside the wholesome-root framework and should be heard as lucid seeing, not mere cleverness.",
+  "notes": "The project prefers clarity because it reads naturally in contemporary English and captures the functional opposite of delusion. Non-delusion remains acceptable in more technical doctrinal exposition, especially when the explicit contrast with moha needs to stay visible. The term belongs inside the wholesome-root framework and should be heard as lucid seeing, not mere cleverness. The OSF glossary confirms clarity as the house default and preserves non-delusion as the technical alternate when symmetry with moha needs to stay explicit.",
   "context_rules": [
     {
       "context": "In most practical and explanatory contexts",
@@ -45,12 +45,14 @@
     {
       "pali": "alobho adoso amoho",
       "translation": "non-grasping, non-ill will, and clarity",
-      "notes": "The wholesome-root triad in the project's preferred style."
+      "notes": "The wholesome-root triad in the project's preferred style.",
+      "source": "AN 3.69"
     },
     {
       "pali": "amohamūla",
       "translation": "rooted in clarity",
-      "notes": "Shows the term in explicit contrastive ethical analysis."
+      "notes": "Shows the term in explicit contrastive ethical analysis.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -64,10 +66,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping clarity as the house default in the wholesome-root framework, with non-delusion retained where explicit contrast with moha matters."
     }
   ],
   "translation_policy": {

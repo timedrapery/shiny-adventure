@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing qualities, actions, or states that are ethically healthy and conducive to clarity and liberation.",
-  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation. The term should be heard broadly across conduct, mind, and view, and not collapsed into merely socially approved behavior.",
+  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation. The term should be heard broadly across conduct, mind, and view, and not collapsed into merely socially approved behavior. The OSF glossary confirms wholesome as the house default and preserves skillful and beneficial as context-sensitive alternates.",
   "context_rules": [
     {
       "context": "In general ethical and doctrinal contexts",
@@ -66,15 +66,18 @@
     {
       "pali": "kusalassa upasampadā",
       "translation": "undertaking what is wholesome",
-      "notes": "Common ethical formula."
+      "notes": "Common ethical formula.",
+      "source": "Dhp 183"
     },
     {
       "pali": "kusalā dhammā",
       "translation": "wholesome qualities",
-      "notes": "Shows the term in broad doctrinal use."
+      "notes": "Shows the term in broad doctrinal use.",
+      "source": "AN 3.69"
     }
   ],
   "sutta_references": [
+    "Dhp 183",
     "MN 9",
     "AN 3.69"
   ],
@@ -86,10 +89,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping wholesome as the house default for ethical and mental-health classification, with skillful and beneficial retained only as contextual alternates."
     }
   ],
   "translation_policy": {
