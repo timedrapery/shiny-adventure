@@ -7,29 +7,39 @@ If you are new to the project, this is the recommended reading order:
 
 1. [`../README.md`](../README.md)
    Start here for the project overview and repository layout.
-2. [`../TERMINOLOGY_PRINCIPLES.md`](../TERMINOLOGY_PRINCIPLES.md)
+2. [`project-overview.md`](project-overview.md)
+  Read this for a concise explanation of scope, entry model, and design
+  intent.
+3. [`architecture.md`](architecture.md)
+  Read this to understand how data, scripts, tests, and review layers fit
+  together.
+4. [`development-guide.md`](development-guide.md)
+  Use this for environment setup, workflow expectations, and command usage.
+5. [`usage.md`](usage.md)
+  Use this as a command reference while working.
+6. [`../TERMINOLOGY_PRINCIPLES.md`](../TERMINOLOGY_PRINCIPLES.md)
    Read this for the repository's baseline rules for preferred renderings, exceptions, and drift prevention.
-3. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
+7. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
    Read this to understand the project's translation voice and core preferences.
-4. [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md)
+8. [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md)
    Use this as the field-by-field reference for term records.
-5. [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
+9. [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
    Use this when creating or revising a term entry.
-6. [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
+10. [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
    Check this before choosing tags or assigning an editorial status.
-7. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
+11. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
    Read this when a term decision needs to propagate into compounds or formula
    usage.
-8. [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
+12. [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
    Use this before merging a PR or promoting a major entry to a mature review
    state.
-9. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
+13. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
    Use this when adding or revising many terms in one pass.
-10. [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md)
+14. [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md)
     Review this before changing high-instability doctrinal terms.
-11. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
+15. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
    Read this for the current repo-shaping roadmap and next editorial phase.
-12. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
+16. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
    Read this for the latest high-confidence structural review notes and open
    cleanup priorities.
 
@@ -37,6 +47,15 @@ If you are new to the project, this is the recommended reading order:
 
 - [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md)
   Defines the dataset fields and how they should be used.
+- [`project-overview.md`](project-overview.md)
+  Explains project scope, intended usage, and entry model for new
+  contributors.
+- [`architecture.md`](architecture.md)
+  Describes how term data, schema, scripts, tests, and checks work together.
+- [`development-guide.md`](development-guide.md)
+  Defines setup, workflow, and safe contribution practices for maintainers.
+- [`usage.md`](usage.md)
+  Provides practical command recipes for validation, linting, and reporting.
 - [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
   Explains how to build a good entry and what major entries should contain.
 - [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md)

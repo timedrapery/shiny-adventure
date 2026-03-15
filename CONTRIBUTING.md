@@ -4,17 +4,21 @@ Contributions should improve clarity, consistency, and reusability across the le
 
 For a concise reference on translation voice and house preferences, read [STYLE_GUIDE.md](STYLE_GUIDE.md) before making any entry changes.
 
+By participating in this project, you agree to follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
 ## Before You Start
 
 Read these documents in order:
 
 1. [README.md](README.md)
-2. [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
-3. [STYLE_GUIDE.md](STYLE_GUIDE.md)
-4. [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
-5. [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
-6. [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
-7. [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
+2. [docs/project-overview.md](docs/project-overview.md)
+3. [docs/development-guide.md](docs/development-guide.md)
+4. [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
+5. [STYLE_GUIDE.md](STYLE_GUIDE.md)
+6. [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
+7. [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
+8. [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
+9. [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
 
 If you are editing compounds or recurring formulas, also read [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md).
 
@@ -106,3 +110,7 @@ Pull requests should state:
 - what references or authority basis support the change, if applicable
 
 Use the repository templates when opening issues or pull requests.
+
+## Security
+
+For vulnerability reporting, follow [SECURITY.md](SECURITY.md). Do not disclose suspected security issues in public issues.
