@@ -77,12 +77,14 @@
     {
       "pali": "pañcupādānakkhandhā",
       "translation": "the five heaps taken personally",
-      "notes": "Important aggregate connection."
+      "notes": "Important aggregate connection.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "MN 9"
+    "MN 9",
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",

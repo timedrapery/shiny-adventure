@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Rebirth, conception, or birth, especially as conditioned by becoming in dependent arising.",
-  "notes": "This entry keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence. Translators should not silently replace rebirth with birth or conception inside the standard chain unless the local passage explicitly narrows the point and the surrounding translation stays consistent.",
+  "notes": "This entry keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence. The Buddhadasa usage profile supports keeping jāti active within dependent-arising analysis rather than flattening it into a merely generic event-label. Translators should not silently replace rebirth with birth or conception inside the standard chain unless the local passage explicitly narrows the point and the surrounding translation stays consistent.",
   "context_rules": [
     {
       "context": "In the standard dependent-arising sequence",
@@ -74,10 +74,10 @@
   "version_notes": "Strengthened to keep dependent-arising translation stable while still allowing narrower explanatory alternates where context clearly warrants them.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
-      "priority": "osf-house",
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Supports keeping jāti tied to its dependent-arising role rather than flattening it into a generic biological event."
     }
   ],
   "translation_policy": {
