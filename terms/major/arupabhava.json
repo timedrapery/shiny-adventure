@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Existence or becoming within the formless domain.",
-  "notes": "The repository keeps formless existence as the default because it fits the threefold bhava framework and aligns with arūpa-rāga. The term should be handled as a doctrinal category of refined becoming, not as a loose mystical label. Formless becoming remains acceptable where continuity with the headword bhava is the main priority.",
+  "notes": "The repository keeps formless existence as the default because it fits the threefold bhava framework and aligns with arūpa-rāga. The term should be handled as a doctrinal category of refined becoming, not as a loose mystical label. Formless becoming remains acceptable where continuity with the headword bhava is the main priority. The OSF glossary confirms formless existence as the house default and preserves formless becoming as an explanatory alternate where process language is needed.",
   "context_rules": [
     {
       "context": "In the three modes of existence framework",
@@ -42,7 +42,8 @@
     {
       "pali": "arūpabhavo",
       "translation": "formless existence",
-      "notes": "One member of the threefold bhava framework."
+      "notes": "One member of the threefold bhava framework.",
+      "source": "AN 3.76"
     }
   ],
   "sutta_references": [
@@ -57,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping formless existence as the house default in threefold-bhava classification, with formless becoming retained as a process-emphasis alternate."
     }
   ],
   "translation_policy": {

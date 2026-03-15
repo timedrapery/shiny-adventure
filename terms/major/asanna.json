@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing a state characterized by the absence of recognition.",
-  "notes": "The project follows the style guide in preferring non-recognition because it preserves the lexical tie to saññā and keeps the analysis precise. Unconscious is too broad and imports modern assumptions that do not reliably match doctrinal context.",
+  "notes": "The project follows the style guide in preferring non-recognition because it preserves the lexical tie to saññā and keeps the analysis precise. Unconscious is too broad and imports modern assumptions that do not reliably match doctrinal context. The OSF glossary confirms non-recognition as the house default and preserves without recognition and unperceiving as explanatory alternates.",
   "context_rules": [
     {
       "context": "In most doctrinal and analytical contexts",
@@ -41,12 +41,14 @@
     {
       "pali": "asaññasatta",
       "translation": "beings of non-recognition",
-      "notes": "Shows the term in a doctrinal compound."
+      "notes": "Shows the term in a doctrinal compound.",
+      "source": "DN 1"
     },
     {
       "pali": "asaññī samāpatti",
       "translation": "attainment of non-recognition",
-      "notes": "Useful for technical meditative context."
+      "notes": "Useful for technical meditative context.",
+      "source": "DN 1"
     }
   ],
   "sutta_references": [
@@ -59,10 +61,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping non-recognition as the house default in doctrinal analysis, with literal and adjectival alternates retained for explanatory prose."
     }
   ],
   "translation_policy": {

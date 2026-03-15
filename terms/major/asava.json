@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A deep contaminating outflow of the mind that perpetuates bondage and obscuration.",
-  "notes": "The project prefers outflow because it preserves the image of something running on and leaking through experience without the archaic or medical feel of canker. Taint remains acceptable in explanatory prose if outflow would confuse the immediate audience.",
+  "notes": "The project prefers outflow because it preserves the image of something running on and leaking through experience without the archaic or medical feel of canker. Taint remains acceptable in explanatory prose if outflow would confuse the immediate audience. The OSF glossary confirms outflow as the house default and preserves taint as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -50,7 +50,8 @@
     {
       "pali": "āsavakkhaya",
       "translation": "the wearing away of the outflows",
-      "notes": "Useful compact doctrinal compound."
+      "notes": "Useful compact doctrinal compound.",
+      "source": "MN 2"
     }
   ],
   "sutta_references": [
@@ -64,10 +65,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping outflow as the house default in liberation and contamination analysis, with taint retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

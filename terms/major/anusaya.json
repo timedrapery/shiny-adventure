@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A latent tendency that lies underneath experience and conditions how reactivity unfolds.",
-  "notes": "The project prefers underlying tendency because it is both plain and precise. Latent tendency is acceptable when the context wants to emphasize dormancy, but instinct should be avoided because it naturalizes what the texts present as conditioned and removable.",
+  "notes": "The project prefers underlying tendency because it is both plain and precise. Latent tendency is acceptable when the context wants to emphasize dormancy, but instinct should be avoided because it naturalizes what the texts present as conditioned and removable. The OSF glossary confirms underlying tendency as the house default and preserves latent tendency as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal analysis of latent reactivity",
@@ -41,7 +41,8 @@
     {
       "pali": "anuseti",
       "translation": "lies underneath",
-      "notes": "Useful verbal sense behind the doctrinal noun."
+      "notes": "Useful verbal sense behind the doctrinal noun.",
+      "source": "MN 64"
     },
     {
       "pali": "rāgānusaya",
@@ -60,10 +61,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping underlying tendency as the house default in latent-reactivity analysis, with latent tendency retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

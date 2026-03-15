@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Unconditioned; not brought about by conditioned construction.",
-  "notes": "The project prefers unconditioned because it is the most established and readable doctrinal rendering in English. Unconstructed is acceptable when the contrast with saṅkhata or saṅkhāra needs to remain more explicit.",
+  "notes": "The project prefers unconditioned because it is the most established and readable doctrinal rendering in English. Unconstructed is acceptable when the contrast with saṅkhata or saṅkhāra needs to remain more explicit. The OSF glossary confirms unconditioned as the house default and preserves unconstructed as the contrast-emphasis alternate.",
   "context_rules": [
     {
       "context": "In most doctrinal contexts",
@@ -45,7 +45,8 @@
     {
       "pali": "asaṅkhata",
       "translation": "the unconditioned",
-      "notes": "Standalone doctrinal use."
+      "notes": "Standalone doctrinal use.",
+      "source": "Ud 8.3"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping unconditioned as the house default in doctrinal contexts, with unconstructed retained for explicit contrastive prose."
     }
   ],
   "translation_policy": {
