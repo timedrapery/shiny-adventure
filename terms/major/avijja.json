@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Fundamental not-knowing that obscures the nature of experience and conditions the arising of suffering.",
-  "notes": "The project prefers ignorance as the default because it is readable and established, while the notes and context rules keep it from sounding like mere lack of information. Not-knowing can be useful when the active, ongoing failure to see clearly needs emphasis.",
+  "notes": "The project prefers ignorance as the default because it is readable and established, while the notes and context rules keep it from sounding like mere lack of information. Not-knowing can be useful when the active, ongoing failure to see clearly needs emphasis. The OSF glossary's handling of not-knowing and practical confusion supports keeping ignorance as the house default while preserving explanatory alternates.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -73,10 +73,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping ignorance as the default while allowing explanatory alternates such as not-knowing."
     }
   ],
   "translation_policy": {

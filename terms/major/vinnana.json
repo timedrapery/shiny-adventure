@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowing associated with a sense field and its object, central to both aggregate and dependent-origination analysis.",
-  "notes": "This entry uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. Translators should keep the sixfold sensory uses, aggregate uses, and nāmarūpa-related uses aligned with this conditioned-process reading and should not let consciousness become an automatic default.",
+  "notes": "This entry uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. The OSF glossary's consciousness/knowing language supports retaining a conditioned-process reading and avoiding witness-style metaphysical drift. Translators should keep the sixfold sensory uses, aggregate uses, and nāmarūpa-related uses aligned with this conditioned-process reading and should not let consciousness become an automatic default.",
   "context_rules": [
     {
       "context": "When referring to the six sense modes of viññāṇa",
@@ -86,10 +86,10 @@
   "version_notes": "Strengthened to keep viññāṇa aligned with conditioned process across sense-field, aggregate, and dependent-arising contexts.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports conditioned-process handling of viññāṇa while allowing consciousness as a controlled alternate."
     }
   ],
   "translation_policy": {

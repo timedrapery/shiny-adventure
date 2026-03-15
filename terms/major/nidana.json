@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A causal link or source, especially in dependent-origination analysis.",
-  "notes": "The project prefers link in dependent-origination contexts because it tracks how the term functions in connected sequences without forcing a single heavy causal label. Source and cause remain acceptable where the passage points more to origin than to linkage. The term should be heard as part of sequence-analysis language rather than as a blanket synonym for any cause whatever.",
+  "notes": "The project prefers link in dependent-origination contexts because it tracks how the term functions in connected sequences without forcing a single heavy causal label. Source and cause remain acceptable where the passage points more to origin than to linkage. The term should be heard as part of sequence-analysis language rather than as a blanket synonym for any cause whatever. The OSF glossary's cause/source vocabulary supports keeping link as the governed default while allowing explanatory alternates in non-formula prose.",
   "context_rules": [
     {
       "context": "In dependent-origination contexts and sequence analysis",
@@ -45,7 +45,8 @@
     {
       "pali": "paṭiccasamuppādassa nidānaṃ",
       "translation": "a link in dependent origination",
-      "notes": "Useful analytical usage."
+      "notes": "Useful analytical usage.",
+      "source": "SN 12.1"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports link as the default analytical rendering while retaining source and cause as context-bound alternates."
     }
   ],
   "translation_policy": {
