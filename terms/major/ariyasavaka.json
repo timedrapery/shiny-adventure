@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disciple aligned with the noble path and no longer standing merely as an ordinary person outside its breakthrough.",
-  "notes": "The project keeps noble disciple as the default because it is direct and doctrinally established. Ennobled disciple is acceptable only in explanatory prose where the active force of ariya is the point. In practice the term often names the doctrinal counterpart to the ordinary person and should be read with stream-entry and path-transformation in view.",
+  "notes": "The project keeps noble disciple as the default because it is direct and doctrinally established. Ennobled disciple is acceptable only in explanatory prose where the active force of ariya is the point. In practice the term often names the doctrinal counterpart to the ordinary person and should be read with stream-entry and path-transformation in view. The OSF glossary confirms noble disciple as the house default and preserves ennobled disciple as a limited explanatory alternate.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -54,7 +54,8 @@
     {
       "pali": "ariyasāvakassa diṭṭhi",
       "translation": "the view of a noble disciple",
-      "notes": "Useful for the shift in understanding that separates the noble disciple from the ordinary person."
+      "notes": "Useful for the shift in understanding that separates the noble disciple from the ordinary person.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -67,10 +68,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping noble disciple as the house default for post-breakthrough classification, with ennobled disciple retained as a limited explanatory alternate."
     }
   ],
   "translation_policy": {

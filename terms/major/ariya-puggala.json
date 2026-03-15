@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A person who belongs to the noble-path classification rather than the ordinary-person condition.",
-  "notes": "The project keeps noble person as the default because it is direct, doctrinally clear, and stays parallel with ariya and ariyasāvaka. Ennobled person can work when explanatory prose needs the active force of transformation rather than the classificatory label. The term should not be inflated into saint, which imports later devotional expectations and blurs the path-classification framework.",
+  "notes": "The project keeps noble person as the default because it is direct, doctrinally clear, and stays parallel with ariya and ariyasāvaka. Ennobled person can work when explanatory prose needs the active force of transformation rather than the classificatory label. The term should not be inflated into saint, which imports later devotional expectations and blurs the path-classification framework. The OSF glossary confirms noble person as the house default and preserves ennobled person as a limited explanatory alternate.",
   "context_rules": [
     {
       "context": "In formal doctrinal person-classification",
@@ -44,7 +44,8 @@
     {
       "pali": "ariyapuggala",
       "translation": "noble person",
-      "notes": "Compact doctrinal headword form."
+      "notes": "Compact doctrinal headword form.",
+      "source": "AN 8.59"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports keeping person-classification terms aligned with the house handling of ariya."
+      "scope": "Supports keeping person-classification terms aligned with the house handling of ariya and preserves noble person as the default form."
     }
   ],
   "translation_policy": {

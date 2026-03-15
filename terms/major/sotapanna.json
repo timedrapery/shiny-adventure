@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A person who has entered the stream to awakening and irreversibly shifted in view and trajectory.",
-  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed. This term marks the first irreversible noble breakthrough and should be heard as a real doctrinal threshold rather than as a vague label for being interested in the teachings.",
+  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed. This term marks the first irreversible noble breakthrough and should be heard as a real doctrinal threshold rather than as a vague label for being interested in the teachings. The OSF glossary confirms stream-enterer as the house default and preserves one who has entered the stream as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal and classificatory contexts",
@@ -56,7 +56,8 @@
     {
       "pali": "sotāpanno hoti",
       "translation": "one becomes a stream-enterer",
-      "notes": "Simple doctrinal statement of attainment."
+      "notes": "Simple doctrinal statement of attainment.",
+      "source": "SN 55.1"
     },
     {
       "pali": "sotāpannassa",
@@ -77,10 +78,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping stream-enterer as the house default for the first irreversible stage, with the longer clause-style alternate reserved for explanatory prose."
     }
   ],
   "translation_policy": {
