@@ -1,204 +1,199 @@
 # shiny-adventure
 
-## Rule-Bearing Translation Lexicon for Early Buddhist Texts
+Structured Pali-to-English translation lexicon for Early Buddhist texts.
 
 ![Status](https://img.shields.io/badge/status-active%20development-blue)
-![Data](https://img.shields.io/badge/data-translation%20rules-purple)
 ![Language](https://img.shields.io/badge/source-Pali-orange)
 ![Target](https://img.shields.io/badge/output-contemporary%20English-green)
 ![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)
 
-**shiny-adventure** is a structured Pali-to-English translation lexicon for
-Early Buddhist texts. It preserves OSF house terminology as machine-readable
-editorial policy rather than as a loose glossary.
+`shiny-adventure` is a translator's lexicon, house style guide, doctrinal terminology registry, and machine-readable translation rule system. It records how the repository expects important Pali terms to be rendered, when those defaults should shift by context, and where the Pali should remain untranslated.
 
-The repository serves three linked purposes:
+This project is not a neutral dictionary. Major entries are rule-bearing editorial records intended to reduce translation drift across a corpus.
 
-- a translator's lexicon
-- a house style guide
-- a machine-readable translation rule system
+## Purpose
 
-Major entries are therefore not ordinary dictionary definitions. They are
-editorial records that tell contributors and tools how a term should usually be
-rendered, when it should be rendered differently, and when it should remain in
-Pali.
+The repository exists to make translation decisions explicit, reviewable, and reusable.
 
-## What A Term Entry Encodes
+It is designed to help contributors:
 
-The live schema uses these field names for the rule-bearing parts of an entry:
+- preserve OSF house terminology in a structured form
+- keep doctrinally sensitive terms stable across texts
+- document context-specific exceptions rather than letting them accumulate silently
+- support validation, linting, and future translation tooling
 
-- `preferred_translation` for the default preferred rendering
-- `context_rules` for translation rules that shift by context
-- `notes` for usage notes and editorial rationale
-- `example_phrases` for supporting examples
-- `authority_basis` for structured provenance
-- `translation_policy` for machine-readable drift-control metadata
+## Translation Philosophy
 
-For major terms, those fields together form the translation policy. The project
-is best understood as a translation control layer, not as a neutral dictionary.
+The project follows a practical but doctrinally precise translation philosophy:
 
-## Why This Repository Exists
+- prefer clear contemporary English over archaic or artificially sacred diction
+- preserve technical precision when a term plays a doctrinal role
+- keep certain Pali terms untranslated when English would distort the function
+- treat consistency as the default unless a documented context rule overrides it
+- record rationale, examples, and related terms so decisions can be audited later
 
-Pali translation drifts quickly when major doctrinal vocabulary is handled
-case by case. Common failure modes include:
+Authority is governed by [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md). A concise statement of repository-wide terminology rules is in [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md). Detailed house-style preferences are in [STYLE_GUIDE.md](STYLE_GUIDE.md).
 
-- one headword translated several different ways without explanation
-- doctrinally sensitive terms normalized into vague English
-- compounds drifting away from headword policy
-- untranslated terms being kept in Pali without a stated reason
+## Rule-Bearing Entries
 
-This repository addresses that by making translation choices explicit,
-reviewable, and reusable across the corpus.
+The repository has two entry classes:
 
-## Translation Drift
+- `major`: doctrinally important or context-sensitive records that carry translation policy
+- `minor`: lighter reference records for terms with more stable treatment
 
-In this repository, translation drift means one of two things:
+For major entries, the important fields are not only definitional. They also encode default renderings, translation exceptions, doctrinal scope, and drift-prevention guidance.
 
-- a Pali lemma starts receiving multiple default English renderings without an explicit reason
-- a term entry stops carrying enough rule-bearing metadata to protect house style in reuse
+Core rule-bearing fields include:
 
-The repository now includes a dedicated drift checker:
+- `preferred_translation`
+- `context_rules`
+- `notes`
+- `example_phrases`
+- `authority_basis`
+- `translation_policy`
 
-```bash
-python scripts/check_translation_drift.py
-python scripts/check_translation_drift.py --json
-python scripts/check_translation_drift.py --strict
-```
+Together, these fields function as the repository's consistency-enforcement layer.
 
-It validates schema-backed structure and then checks cross-entry drift risks such
-as conflicting defaults, duplicate preferred renderings that need
-disambiguation, alternate-list contradictions, context-sensitive entries missing
-notes, and headword normalization problems.
-
-## Core Principles
-
-### OSF Editorial Authority
-
-OSF house style is not a neutral average of Buddhist-English traditions.
-
-The repo follows the authority order documented in
-[docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
-
-In practice this means:
-
-- OSF house materials such as the OSF glossary, the Dhammarato quotes book,
-  and OSF books like *What Is And Is Not The Path* sit at the top of the
-  internal authority stack.
-- Dhammarato is the next authority for practical teaching tone, path language,
-  meditation vocabulary, and contemporary phrasing.
-- Buddhadasa Bhikkhu is the next authority for dependent arising, voidness,
-  not-self, conditionality, and here-now liberation framing.
-- Non-OSF materials such as Punnaji are outside sources and do not govern house
-  defaults unless the repo explicitly adopts them.
-
-### Clarity
-
-Translations should be understandable to modern readers.
-
-### Doctrinal Precision
-
-Technical terms must preserve their functional meaning within the teachings.
-
-### Consistency
-
-A term should be translated the same way across texts unless context requires
-otherwise.
-
-### Transparency
-
-When a Pali term is left untranslated, the reason should be documented.
-
-### Rule-Bearing Terminology
-
-Major doctrinal terms encode translation rules rather than stand-alone
-definitions.
-
-## Entry Types
-
-The dataset has two entry classes:
-
-- `major`
-  Rule-bearing entries for doctrinally important or context-sensitive terms.
-- `minor`
-  Lighter reference entries for terms that do not need a full rule system.
-
-Major entries should normally include a defined default rendering, context
-rules, related terms, supporting examples, and notes explaining the editorial
-decision.
-
-For the highest-risk doctrinal anchors, the entry should also make explicit:
-
-- when the default rendering applies
-- when it should not apply
-- when compounds and formulas inherit the headword
-- what drift or doctrinal confusion the rule is preventing
-- which authority layer or source supports the rule
-- whether compounds inherit the headword by default
-
-## Repository Layout
+## Repository Structure
 
 ```text
 shiny-adventure/
+|- README.md
+|- CONTRIBUTING.md
+|- STYLE_GUIDE.md
+|- TERMINOLOGY_PRINCIPLES.md
+|- schema/
+|  `- PALI_TERM_SCHEMA.json
 |- terms/
-|  |- major/ JSON rule-bearing term records
-|  `- minor/ JSON lighter reference term records
-|- schema/   JSON schema for term records
-|- docs/     editorial policy and contributor reference material
-|- scripts/  validation, lint, and batch-authoring utilities
-`- tests/    regression tests for repo tooling
+|  |- major/
+|  `- minor/
+|- docs/
+|  |- DATA_DICTIONARY.md
+|  |- TERM_ENTRY_STANDARD.md
+|  |- HEADWORD_COMPOUND_FORMULA_POLICY.md
+|  |- OSF_EDITORIAL_AUTHORITY.md
+|  |- drift-risk-terms.md
+|  `- ...
+|- scripts/
+|  |- validate_terms.py
+|  |- check_translation_drift.py
+|  |- lint_terms.py
+|  `- ...
+|- tests/
+|  `- ...
+`- .github/
+   |- workflows/
+   `- ISSUE_TEMPLATE/
 ```
 
-## Example House Terminology
+## Schema
 
-| Pali | Preferred Rendering |
-| --- | --- |
-| dukkha | dissatisfaction; unsatisfactoriness; stress |
-| taṇhā | ignorant wanting |
-| sati | remembering |
-| samādhi | unification of mind |
-| mettā | friendliness |
-| bhāvanā | development |
+The live schema is defined in [schema/PALI_TERM_SCHEMA.json](schema/PALI_TERM_SCHEMA.json).
 
-Some technical terms intentionally remain untranslated, such as:
+Required baseline fields are:
 
-- ānāpānasati
-- nibbāna
-- dhamma
-- bhikkhu
+- `term`
+- `normalized_term`
+- `entry_type`
+- `part_of_speech`
+- `preferred_translation`
+- `definition`
+- `status`
 
-In such cases, explanation is preferred over forced equivalence.
+Major entries must also include rule-bearing metadata such as notes, context rules, related terms, examples, alternates, discouraged translations, references, and tags.
 
-## Validation Workflow
+The field-by-field reference is documented in [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md). Entry construction standards are in [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md).
 
-For local validation and test runs:
+## Example Term Entries
+
+Example major entry shape:
+
+```json
+{
+  "term": "dukkha",
+  "normalized_term": "dukkha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "preferred_translation": "dissatisfaction",
+  "alternative_translations": ["unsatisfactoriness", "stress"],
+  "discouraged_translations": ["suffering"],
+  "definition": "The unstable and unsatisfactory character of conditioned experience.",
+  "notes": "Use the default rendering in core doctrinal exposition unless a narrower local context is explicit.",
+  "context_rules": [
+    {
+      "context": "four noble truths exposition",
+      "rendering": "dissatisfaction"
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "idaṃ dukkhaṃ ariyasaccaṃ",
+      "translation": "this is the noble truth of dissatisfaction",
+      "source": "SN 56.11"
+    }
+  ],
+  "doctrinal_importance": "encoded through entry_type, tags, notes, and translation_policy",
+  "status": "stable"
+}
+```
+
+Example minor entry shape:
+
+```json
+{
+  "term": "ajiva",
+  "normalized_term": "ajiva",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "livelihood",
+  "definition": "A speech, path, or conduct term used in ethical and practical analysis.",
+  "status": "reviewed"
+}
+```
+
+## Contributing Terms
+
+When contributing a term or revising an existing entry:
+
+1. Read [CONTRIBUTING.md](CONTRIBUTING.md).
+2. Confirm field usage in [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md).
+3. Follow [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md).
+4. Check house-style expectations in [STYLE_GUIDE.md](STYLE_GUIDE.md).
+5. Review authority order in [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
+6. Run validation before opening a pull request.
+
+For doctrinal anchor terms, contributors should also review linked compounds and neighboring entries in the same family so the policy remains coherent.
+
+## Validation and Drift Protection
+
+Set up a local environment:
 
 ```bash
 python -m venv .venv
-. .venv/bin/activate
 python -m pip install -r requirements-dev.txt
+```
+
+Run the full repository checks:
+
+```bash
 python scripts/run_checks.py
 ```
 
-On Windows PowerShell, use `.venv\Scripts\Activate.ps1` to activate the
-environment.
-
-If you want to run the checks individually, use:
+Run targeted checks:
 
 ```bash
 python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
 python scripts/check_translation_drift.py
-python scripts/audit_term_coverage.py
 python scripts/repo_health.py
-python scripts/policy_backfill_queue.py
-python scripts/backfill_policy_metadata.py --check-only
 ```
 
-## Candidate Extraction
+Translation-drift guidance for high-instability terms is tracked in [docs/drift-risk-terms.md](docs/drift-risk-terms.md).
 
-The repository also supports review-first candidate extraction from Pali source
-texts. This is for discovery and prioritization, not automatic glossing.
+## Candidate Workflow
+
+The repository includes a review-first candidate intake path. Candidate extraction is for discovery and prioritization, not automatic glossary generation.
 
 ```bash
 python scripts/extract_candidate_terms.py path/to/source.txt
@@ -206,47 +201,4 @@ python scripts/generate_candidate_report.py
 python scripts/scaffold_candidate_terms.py --priority create_now
 ```
 
-Extraction outputs go under `candidates/` and stay outside `terms/` until an
-editor reviews them. See
-[docs/CANDIDATE_TERM_WORKFLOW.md](docs/CANDIDATE_TERM_WORKFLOW.md).
-
-`python scripts/run_checks.py` runs editorial lint in strict mode, so
-structural warnings such as non-reciprocal `related_terms` links currently
-block the full suite.
-
-## Contributing
-
-Contributions should follow the schema, term entry standard, style guide, and
-OSF authority order. Start with:
-
-- [STYLE_GUIDE.md](STYLE_GUIDE.md)
-- [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
-- [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
-- [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
-- [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
-- [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md)
-- [docs/EDITORIAL_REVIEW_CHECKLIST.md](docs/EDITORIAL_REVIEW_CHECKLIST.md)
-- [docs/CANDIDATE_TERM_WORKFLOW.md](docs/CANDIDATE_TERM_WORKFLOW.md)
-- [docs/TRANSLATION_DRIFT_CHECKER.md](docs/TRANSLATION_DRIFT_CHECKER.md)
-- [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md)
-
-For the recommended reading order across the docs folder, use
-[docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md).
-
-When reviewing or adding a major term, check three things before changing any
-English rendering:
-
-1. The headword's default rendering is explicit.
-2. Any context-specific exceptions are encoded in `context_rules`.
-3. The rationale is stated in `notes` so the choice can be audited later.
-
-For mature major entries, contributors should also prefer:
-
-1. `authority_basis` entries that name the source layer behind the rule.
-2. `translation_policy` metadata that states scope, inheritance, and drift risk.
-3. canonical `source` citations on example phrases whenever available.
-
-If the term is a doctrinal anchor such as `dhamma`, `dukkha`, `taṇhā`,
-`saṅkhārā`, `sati`, `samādhi`, `nirodha`, `paṭiccasamuppāda`, `jāti`,
-`upādāna`, `vedanā`, or `viññāṇa`, also review the linked compounds and
-formula examples in the same pass so the family remains coherent.
+Candidate outputs remain under `candidates/` until an editor reviews them. See [docs/CANDIDATE_TERM_WORKFLOW.md](docs/CANDIDATE_TERM_WORKFLOW.md).

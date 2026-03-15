@@ -31,12 +31,14 @@ def load_json(path: Path) -> object:
         return json.load(handle)
 
 
-def collect_validation_failures(terms_dir: Path) -> list[str]:
+def collect_validation_failures(terms_dir: Path) -> tuple[list[str], list[str]]:
     schema = load_json(SCHEMA_PATH)
     validator = Draft202012Validator(schema)
     failures: list[str] = []
+    warnings: list[str] = []
     normalized_index: dict[str, list[str]] = defaultdict(list)
     term_index: dict[str, list[str]] = defaultdict(list)
+    preferred_translation_index: dict[str, list[str]] = defaultdict(list)
 
     term_files = iter_term_files(terms_dir)
     for term_file in term_files:
@@ -66,6 +68,11 @@ def collect_validation_failures(terms_dir: Path) -> list[str]:
         if isinstance(term, str):
             term_index[term].append(term_file.name)
 
+        if data.get("entry_type") == "major":
+            preferred = data.get("preferred_translation")
+            if isinstance(preferred, str) and preferred.strip():
+                preferred_translation_index[preferred.strip()].append(term_file.stem)
+
     for normalized_term, filenames in sorted(normalized_index.items()):
         if len(filenames) > 1:
             failures.append(
@@ -78,7 +85,14 @@ def collect_validation_failures(terms_dir: Path) -> list[str]:
                 f"term '{term}' is duplicated across files: {', '.join(sorted(filenames))}"
             )
 
-    return failures
+    for preferred_translation, stems in sorted(preferred_translation_index.items()):
+        if len(stems) > 1:
+            warnings.append(
+                "major preferred_translation collision "
+                f"'{preferred_translation}': {', '.join(sorted(stems))}"
+            )
+
+    return failures, warnings
 
 
 def main() -> int:
@@ -95,7 +109,7 @@ def main() -> int:
         print("WARNING: No term files found in terms/")
         return 0
 
-    failures = collect_validation_failures(TERMS_DIR)
+    failures, warnings = collect_validation_failures(TERMS_DIR)
 
     if failures:
         print("Schema validation failed:\n")
@@ -104,6 +118,10 @@ def main() -> int:
         return 1
 
     print(f"Validated {len(term_files)} term file(s) successfully.")
+    if warnings:
+        print("\nWarnings:")
+        for warning in warnings:
+            print(f"- {warning}")
     return 0
 
 

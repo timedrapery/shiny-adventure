@@ -1,205 +1,137 @@
-# STYLE GUIDE
+# Style Guide
 
-## Purpose
+This document defines the repository's translation voice and default editorial behavior. It is a house style guide for a structured Pali translation lexicon, not a general guide to Buddhist-English translation.
 
-This project is a living lexicon and translation dataset for rendering Pali
-texts into contemporary English for a wide audience.
+## Scope
 
-It serves three related purposes:
+The style guide exists to keep the lexicon:
 
-1. A translator house style guide
-2. A human-readable lexicon
-3. A machine-readable dataset for translation tools
+- readable to contemporary English readers
+- doctrinally precise
+- internally consistent
+- explicit about exceptions
 
-This is specifically an **OSF house style** document. Editorial authority is
-governed by [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md),
-with OSF house materials such as the OSF glossary, the Dhammarato quotes book,
-and OSF books like *What Is And Is Not The Path* at the top, followed by
-Dhammarato and then Buddhadasa Bhikkhu as the primary lineage authorities.
+Authority order is defined separately in [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
 
-The aim is not merely literal equivalence, but consistent, intelligible, and
-context-sensitive English that preserves doctrinal precision while remaining
-readable.
+## Core Principles
 
----
+### Use clear contemporary English
 
-## General Principles
+Prefer direct modern English over archaic, pseudo-sacral, or inflated phrasing.
 
-### 1. Use clear contemporary English
-
-Prefer plain modern English over archaic, overly academic, or artificially
-sacred diction.
-
-Preferred:
+Prefer:
 
 - right view
 - dissatisfaction
 - remembering
 - friendliness
-- delight
+- development
 
-Avoid when possible:
+Avoid by default:
 
-- suffering, if dissatisfaction is more precise
-- mindfulness, when remembering or sati is more precise
-- concentration, when unification of mind is more precise
-- absorption, if it distorts the sense of jhana
-- religious archaisms unless deliberately chosen
+- ornamental spiritual diction
+- pseudo-biblical phrasing
+- unnecessary technical jargon when plain English will do
 
-### 2. Preserve doctrinal precision
+### Preserve doctrinal precision
 
-Do not flatten technical terms into vague spiritual language.
+Do not flatten technical terms into vague spiritual language. When an established English gloss obscures doctrinal function, prefer a more exact rendering or leave the term in Pali.
 
-When a common English rendering obscures the function of a term, prefer:
+### Keep consistency as the default
 
-- a more precise English rendering
-- or the untranslated Pali term
+Preferred translations are defaults, not casual suggestions. Contributors should not rotate among near-synonyms unless the entry documents a real contextual reason.
 
-### 3. Keep key Pali terms untranslated when necessary
+### Let context govern controlled exceptions
 
-Some terms should remain in Pali when translation would distort or prematurely
-narrow their meaning.
+Context matters, but exceptions should be recorded. If a term changes rendering across doctrinal, practical, or literary contexts, the entry should encode that shift in `context_rules`.
 
-Examples may include:
+### Document untranslated choices
 
-- anapanasati
-- bhikkhu / bhikkhus
-- kayagata sati
-- dhamma
-- nibbana
-
-### 4. Prefer consistency across texts
-
-A term should normally receive the same English rendering across texts unless
-context clearly requires otherwise.
-
-### 5. Context still governs meaning
-
-A preferred rendering is the default, not an absolute law. If context demands a
-different rendering, that may be used, but the deviation should be recorded.
-
-For doctrinal anchor terms, avoid casual synonym rotation. Keep one governed
-rendering per local doctrinal frame unless the term entry records a clear
-context-specific exception.
-
----
+Leaving a term in Pali is acceptable when translation would distort the term, collapse a doctrinal distinction, or prematurely narrow the practice frame. When this happens, the reason should be explicit in the entry.
 
 ## Translation Priorities
 
 When choosing a rendering, prioritize in this order:
 
-1. Fidelity to function in context
-2. Doctrinal precision
-3. Readability in contemporary English
-4. Cross-text consistency
-5. Literal transparency
+1. fidelity to function in context
+2. doctrinal precision
+3. readability in contemporary English
+4. consistency across related usage
+5. literal transparency
 
----
+## House Preferences
 
-## Preferred Translation Tendencies
+Current repository tendencies include:
 
-These reflect current OSF house style and may evolve.
+- `dukkha` -> `dissatisfaction` by default, with approved alternates where documented
+- `taṇhā` -> `ignorant wanting`
+- `sati` -> `remembering`
+- `samādhi` -> `unification of mind`
+- `sammā-sati` -> `right remembering`
+- `sammā-samādhi` -> `right unification of mind`
+- `mettā` -> `friendliness`
+- `bhāvanā` -> `development`
+- `bodhi` -> `awakening`
 
-### Keep untranslated when needed
+Current repository tendencies also include:
 
-- anapanasati
-- bhikkhu / bhikkhus
-- dhamma
-- nibbana
+- prefer `bhikkhu` or `bhikkhus` over `monk` or `monks` where the house style calls for the Pali
+- prefer `awakening` over `enlightenment`
+- prefer governed doctrinal consistency over stylistic synonym variety
 
-### Preferred renderings
+## Terms Commonly Left Untranslated
 
-- dukkha -> dissatisfaction; unsatisfactoriness; stress
-- tanha -> ignorant wanting
-- sati -> remembering
-- samadhi -> unification of mind
-- samma-samadhi -> right unification of mind
-- samma-sati -> right remembering
-- metta -> friendliness
-- piti -> delight
-- vitakka -> thinking
-- vicara -> pondering
-- bhavana -> development
-- kusala -> wholesome
-- akusala -> unwholesome
-- bodhi -> awakening
-- samma-ditthi -> right view
-- sammasankappa -> right attitude
-- nivarana -> distraction
-- nirodha -> quenching
-- khandha -> heap
-- sankhara -> that which has been put together; putting together
+Some terms often remain in Pali when English would mislead or over-narrow the meaning. Common examples include:
 
-### Special project preferences
+- `ānāpānasati`
+- `dhamma`
+- `nibbāna`
+- `bhikkhu`
+- `kāyagatā sati`
 
-- Use `bhikkhus` rather than `monks`
-- Use gender-neutral pronouns
-- Use `awakening` rather than `enlightenment`
-- Prefer `right remembering` over `right mindfulness`
-- Prefer `unification of mind` over `concentration`
-- Prefer `right unification of mind` over `right concentration`
-- Extend core term preferences into compounds when doctrinal function stays the same
-- When revising a core doctrinal term, review linked compounds and recurring formulas in the same pass
+This is not automatic. The entry should still state when the untranslated form is preferred and when a gloss is acceptable.
 
----
+## First Occurrence
 
-## Handling of First Occurrence
-
-When a key Pali term first appears in a text, the translator may:
-
-1. leave it in Pali
-2. provide a short gloss
-3. thereafter use the Pali term without repeated glossing
+For terms left untranslated, a first-occurrence gloss is often useful.
 
 Example:
 
-- nibbana (quenching)
+- `nibbāna (quenching)`
 
-After that:
+After that, the untranslated Pali may stand on its own if the entry supports that handling.
 
-- nibbana
+## Tone
 
----
+English in this repository should be:
 
-## Variants and Alternatives
-
-The dataset may include:
-
-- preferred translation
-- acceptable alternatives
-- discouraged renderings
-- context-specific notes
-
-This allows both human translators and software tools to distinguish:
-
-- default rendering
-- allowed variation
-- translations to avoid
-
----
-
-## Notes on Tone
-
-The English should feel:
-
-- direct
 - calm
-- precise
+- exact
 - readable
 - contemporary
+- restrained
 
 It should not feel:
 
-- artificially mystical
-- pseudo-biblical
-- padded with jargon
-- needlessly academic
+- grandiose
+- mystical by default
+- artificially academic
+- inconsistent from one entry to the next
 
----
+## Editorial Practice
 
-## Revision Policy
+When revising a core doctrinal term:
 
-This style guide is living and revisable.
+- review related compounds
+- review recurring formulas
+- review near-neighbor terms that could drift with it
 
-When a translation preference changes, related term records and authority docs
-should be updated so the dataset remains internally coherent.
+When revising a minor term:
+
+- keep the entry lean
+- avoid inventing doctrinal nuance the corpus does not need
+- align with the headword family where applicable
+
+## Revision Rule
+
+If house preferences change, update the relevant term records, examples, and supporting documentation in the same pass so the repository remains internally coherent.

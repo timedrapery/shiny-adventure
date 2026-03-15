@@ -7,25 +7,29 @@ If you are new to the project, this is the recommended reading order:
 
 1. [`../README.md`](../README.md)
    Start here for the project overview and repository layout.
-2. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
+2. [`../TERMINOLOGY_PRINCIPLES.md`](../TERMINOLOGY_PRINCIPLES.md)
+   Read this for the repository's baseline rules for preferred renderings, exceptions, and drift prevention.
+3. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
    Read this to understand the project's translation voice and core preferences.
-3. [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md)
+4. [`DATA_DICTIONARY.md`](DATA_DICTIONARY.md)
    Use this as the field-by-field reference for term records.
-4. [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
+5. [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
    Use this when creating or revising a term entry.
-5. [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
+6. [`TAG_STATUS_VOCABULARY.md`](TAG_STATUS_VOCABULARY.md)
    Check this before choosing tags or assigning an editorial status.
-6. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
+7. [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
    Read this when a term decision needs to propagate into compounds or formula
    usage.
-7. [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
+8. [`EDITORIAL_REVIEW_CHECKLIST.md`](EDITORIAL_REVIEW_CHECKLIST.md)
    Use this before merging a PR or promoting a major entry to a mature review
    state.
-8. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
+9. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
    Use this when adding or revising many terms in one pass.
-9. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
+10. [`drift-risk-terms.md`](drift-risk-terms.md)
+    Review this before changing high-instability doctrinal terms.
+11. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
    Read this for the current repo-shaping roadmap and next editorial phase.
-10. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
+12. [`REPOSITORY_REVIEW_2026-03.md`](REPOSITORY_REVIEW_2026-03.md)
    Read this for the latest high-confidence structural review notes and open
    cleanup priorities.
 
@@ -35,6 +39,8 @@ If you are new to the project, this is the recommended reading order:
   Defines the dataset fields and how they should be used.
 - [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
   Explains how to build a good entry and what major entries should contain.
+- [`drift-risk-terms.md`](drift-risk-terms.md)
+  Identifies the doctrinal terms most likely to cause translation instability.
 - [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
   Defines how translation policy should be divided between headwords,
   compounds, and formulas.

@@ -13,5 +13,7 @@ def normalize_term(value: str) -> str:
     return "".join(ch for ch in lowered if ch.isalnum() or ch == "_")
 
 
-def safe_text(value: str) -> str:
+def safe_text(value: object) -> str:
+    if not isinstance(value, str):
+        value = str(value)
     return value.encode("ascii", "backslashreplace").decode("ascii")

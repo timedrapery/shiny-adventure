@@ -21,7 +21,7 @@ Use this document alongside:
 
 ---
 
-# Core Principle
+## Core Principle
 
 The dataset is not merely definitional.
 
@@ -47,7 +47,7 @@ In contributor shorthand, these often correspond to:
 
 ---
 
-# Field Reference
+## Field Reference
 
 ## `term`
 
@@ -597,7 +597,7 @@ Notes:
 
 ---
 
-# Major Entry Minimum
+## Major Entry Minimum
 
 For a **major rule-bearing entry**, the recommended minimum is:
 
@@ -624,7 +624,7 @@ For mature doctrinal anchors, also prefer:
 
 ---
 
-# Filename Convention
+## Filename Convention
 
 The JSON filename should normally correspond to `normalized_term`.
 
@@ -637,7 +637,7 @@ This keeps the dataset consistent and easy to process.
 
 ---
 
-# Editorial Guidance
+## Editorial Guidance
 
 When filling fields:
 
@@ -649,7 +649,7 @@ When filling fields:
 
 ---
 
-# Long-Term Role
+## Long-Term Role
 
 This data dictionary supports the long-term goal of making **shiny-adventure** useful for:
 

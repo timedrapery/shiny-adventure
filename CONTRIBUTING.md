@@ -1,136 +1,106 @@
-# Contributing to Shiny Adventure
+# Contributing to shiny-adventure
 
-Thanks for contributing. The most helpful contributions are the ones that make
-the dataset clearer, more consistent, and easier to extend.
+Contributions should improve clarity, consistency, and reusability across the lexicon. This repository treats term records as editorial policy objects, so even small wording changes can affect downstream translation behavior.
 
-## What This Repo Contains
+## Before You Start
 
-Shiny Adventure is a structured Pali translation dataset. Most contributions
-will involve one or more of these areas:
+Read these documents in order:
 
-- editing term files in [terms/](terms)
-- refining the schema in [schema/PALI_TERM_SCHEMA.json](schema/PALI_TERM_SCHEMA.json)
-- improving the style guide in [STYLE_GUIDE.md](STYLE_GUIDE.md)
-- clarifying editorial documentation in [docs/](docs)
+1. [README.md](README.md)
+2. [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
+3. [STYLE_GUIDE.md](STYLE_GUIDE.md)
+4. [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
+5. [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
+6. [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
+7. [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
 
-In the current schema, contributor shorthand maps to the live JSON fields like
-this:
+If you are editing compounds or recurring formulas, also read [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md).
+
+## Contribution Types
+
+Typical contributions include:
+
+- adding or revising term entries in `terms/`
+- improving schema-backed validation or linting in `scripts/`
+- clarifying style and contributor documentation
+- strengthening drift protection for doctrinally sensitive term families
+
+## Editorial Expectations
+
+- Preserve existing doctrinal decisions unless a change is explicitly justified within the repository's authority order.
+- Do not replace a preferred translation simply because another English gloss is common elsewhere.
+- Use `notes`, `context_rules`, and `translation_policy` to make important decisions explicit.
+- When editing a major term, review linked compounds, formulas, and related terms in the same family.
+- Keep filenames ASCII-safe and aligned with `normalized_term`.
+- Use UTF-8 encoding and preserve full Pali diacritics in `term`, examples, and documentation.
+
+## Workflow
+
+1. Create a focused branch.
+2. Make the smallest coherent change set.
+3. Run validation locally.
+4. Open a pull request that explains the editorial effect of the change.
+
+Example setup:
+
+```bash
+git clone https://github.com/timedrapery/shiny-adventure.git
+cd shiny-adventure
+git checkout -b improve-term-policy
+python -m venv .venv
+python -m pip install -r requirements-dev.txt
+python scripts/run_checks.py
+```
+
+On Windows PowerShell, activate the environment with:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
+
+## Working With Term Records
+
+Contributor shorthand maps to live schema fields as follows:
 
 - preferred rendering -> `preferred_translation`
 - translation rule -> `context_rules`
 - usage notes -> `notes`
 - examples -> `example_phrases`
 - provenance -> `authority_basis`
-- rule summary -> `translation_policy`
+- drift-control summary -> `translation_policy`
 
-## First-Time Contributor Path
+For major entries, the repository expects those fields to function together rather than independently.
 
-If this is your first change, a good starting flow is:
+## Validation Checklist
 
-1. Read [STYLE_GUIDE.md](STYLE_GUIDE.md).
-2. Read [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
-3. Use [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md) for the recommended documentation path.
-4. Read [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md).
-5. Read [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md).
-6. Review one or two existing entries in [terms/](terms).
-7. Make a small change such as improving notes, adding tags, or drafting one new term.
+Before opening a pull request, confirm:
 
-## Contribution Workflow
+- the JSON is valid
+- the entry matches [schema/PALI_TERM_SCHEMA.json](schema/PALI_TERM_SCHEMA.json)
+- the wording matches [STYLE_GUIDE.md](STYLE_GUIDE.md)
+- authority-sensitive changes respect [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
+- tags and status values match [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
+- major-entry edits include enough rationale to prevent drift later
 
-1. Fork the repository.
-2. Clone your fork locally.
-3. Create a branch for your change.
-4. Make your edits.
-5. Run the full checks.
-6. Open a pull request with a clear summary of what changed and why.
-
-Example commands:
-
-```bash
-git clone https://github.com/timedrapery/shiny-adventure.git
-cd shiny-adventure
-git checkout -b improve-term-entry
-python -m venv .venv
-. .venv/bin/activate
-python -m pip install -r requirements-dev.txt
-python scripts/run_checks.py
-```
-
-On Windows PowerShell, activate the virtual environment with:
-
-```powershell
-.venv\Scripts\Activate.ps1
-```
-
-## Editing Expectations
-
-- Keep filenames ASCII-safe and aligned with `normalized_term`.
-- Preserve current OSF house preferences unless you are intentionally proposing a change under [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
-- Use notes and context rules to explain important editorial choices.
-- For mature major entries, add `authority_basis` when a source or authority
-  layer materially supports the policy.
-- Use `translation_policy` when the headword needs machine-readable scope,
-  inheritance, or drift-risk guidance.
-- For major entries, avoid definition-only edits that leave the rendering policy implicit.
-- If you edit a doctrinal anchor term, also review its core compounds, formula examples, and linked doctrinal neighbors so the family does not drift.
-- Prefer small, focused pull requests over large mixed edits.
-- When editing or generating files on Windows, use a UTF-8-aware editor or a script that writes UTF-8 explicitly.
-- For bulk entry creation, prefer `python scripts/write_term_batch.py path/to/batch.json` over shell redirection or terminal paste.
-- For bulk policy backfill on existing major entries, prefer `python scripts/scaffold_policy_metadata.py ...` and then fill the placeholders deliberately.
-- For source-text candidate discovery, prefer `python scripts/extract_candidate_terms.py ...` and review the generated queue before creating any term entry.
-- Install dependencies from `requirements-dev.txt` so local checks match CI.
-- Be aware that `python scripts/run_checks.py` runs editorial lint in strict mode, so warnings such as non-reciprocal `related_terms` links must be fixed before the full suite will pass.
-
-## Before Opening a Pull Request
-
-Please check the following:
-
-- The JSON is valid.
-- The entry matches the schema.
-- The wording is consistent with [STYLE_GUIDE.md](STYLE_GUIDE.md).
-- The wording follows [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md) when source priorities matter.
-- The tags and status values follow [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md).
-- New major entries include notes, context rules, related terms, and example phrases.
-- New or revised mature major entries should include `authority_basis` when
-  provenance is known and `translation_policy` when family inheritance or drift
-  prevention is central to the decision.
-- Doctrinal anchor entries state when the default rendering applies, when it does not, and what nearby compounds or formulas inherit the rule.
-- The pull request description explains any non-obvious translation decision.
-
-## Validation Commands
-
-Use these commands when you want more targeted feedback than the full suite:
+Recommended commands:
 
 ```bash
 python -m unittest discover -s tests
 python scripts/validate_terms.py
 python scripts/lint_terms.py
 python scripts/check_translation_drift.py
-python scripts/audit_term_coverage.py
 python scripts/repo_health.py
-python scripts/policy_backfill_queue.py
-python scripts/backfill_policy_metadata.py --check-only
-python scripts/scaffold_policy_metadata.py --all-missing --check-only
-python scripts/extract_candidate_terms.py path/to/source.txt
-python scripts/generate_candidate_report.py
+python scripts/run_checks.py
 ```
 
-Use `python scripts/run_checks.py` when you want the same combined workflow the
-repository uses in CI.
+## Pull Requests
 
-`python scripts/check_translation_drift.py` distinguishes errors from warnings.
-Errors indicate contradictory or structurally unsafe policy data. Warnings flag
-places where contributors should review disambiguation, headword normalization,
-or rule-bearing strength before drift spreads.
+Pull requests should state:
 
-## Review Notes
+- what changed
+- why the change was necessary
+- whether any preferred translation, context rule, or doctrinal family was affected
+- whether validation was run locally
+- what references or authority basis support the change, if applicable
 
-Reviews will focus on:
-
-- schema correctness
-- consistency with the style guide
-- consistency with the OSF authority hierarchy
-- clarity of definitions and notes
-- whether translation decisions are explicit enough to be reusable
-- whether provenance and drift-control metadata are strong enough for future
-  automation
+Use the repository templates when opening issues or pull requests.
