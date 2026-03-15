@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A course or way of practice, especially one leading toward a defined doctrinal outcome.",
-  "notes": "The project prefers path of practice because it keeps the practical force explicit without collapsing the term into magga. Course of practice is an acceptable alternate when the English sentence wants slightly less weight, while bare practice is acceptable only when the surrounding sentence already makes the directional sense clear.",
+  "notes": "The project prefers path of practice because it keeps the practical force explicit without collapsing the term into magga. Course of practice is an acceptable alternate when the English sentence wants slightly less weight, while bare practice is acceptable only when the surrounding sentence already makes the directional sense clear. The OSF glossary confirms path of practice as the house default and preserves course of practice as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal contexts where a defined course of cultivation is being named",
@@ -45,7 +45,8 @@
     {
       "pali": "majjhimā paṭipadā",
       "translation": "the middle path of practice",
-      "notes": "Useful fixed phrase connecting paṭipadā with the middle way."
+      "notes": "Useful fixed phrase connecting paṭipadā with the middle way.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping path of practice as the house default for paṭipadā while preserving course of practice as the explanatory alternate."
     }
   ],
   "translation_policy": {

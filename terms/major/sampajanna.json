@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clear knowing that accompanies practice, especially in embodied and moment-to-moment awareness.",
-  "notes": "The project prefers clear knowing because it preserves the cognitive clarity of the term without collapsing it into sati. Full awareness is an acceptable alternate in explanatory prose, but mindfulness should be avoided here because the project already treats sati separately and more carefully.",
+  "notes": "The project prefers clear knowing because it preserves the cognitive clarity of the term without collapsing it into sati. Full awareness is an acceptable alternate in explanatory prose, but mindfulness should be avoided here because the project already treats sati separately and more carefully. The OSF glossary confirms clear knowing as the house default and preserves full awareness as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In practical and source-facing contexts where the term names a companion quality of sati",
@@ -45,7 +45,8 @@
     {
       "pali": "sati-sampajañña",
       "translation": "sati and clear knowing",
-      "notes": "Shows the pair without collapsing the two terms into one."
+      "notes": "Shows the pair without collapsing the two terms into one.",
+      "source": "DN 22"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping clear knowing as the house default alongside sati while preserving full awareness as the explanatory alternate."
     }
   ],
   "translation_policy": {
