@@ -15,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "bhikkhu (ordained mendicant)",
   "definition": "An ordained mendicant in the Buddhist monastic community; the project normally keeps the Pāli term.",
-  "notes": "The style guide prefers bhikkhu or bhikkhus rather than monk because the English monastic term carries historical and institutional baggage that does not map cleanly onto the early Buddhist context. Mendicant can work as a gloss, but the project default is the untranslated Pāli.",
+  "notes": "The style guide prefers bhikkhu or bhikkhus rather than monk because the English monastic term carries historical and institutional baggage that does not map cleanly onto the early Buddhist context. Mendicant can work as a gloss, but the project default is the untranslated Pāli. The OSF glossary and style guide both support keeping bhikkhu as the default source-facing form.",
   "context_rules": [
     {
       "context": "In most translations within this project",
@@ -42,12 +42,14 @@
     {
       "pali": "evaṃ me sutaṃ ... bhikkhave",
       "translation": "thus I heard ... bhikkhus",
-      "notes": "Shows the preferred plural form in discourse address."
+      "notes": "Shows the preferred plural form in discourse address.",
+      "source": "MN 10"
     },
     {
       "pali": "bhikkhu satova assasati",
       "translation": "the bhikkhu breathes in with sati",
-      "notes": "Useful for source-facing translation with an untranslated headword."
+      "notes": "Useful for source-facing translation with an untranslated headword.",
+      "source": "MN 118"
     }
   ],
   "sutta_references": [
@@ -60,10 +62,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Supports keeping bhikkhu as the default source-facing form and restricting mendicant to gloss use."
     }
   ],
   "translation_policy": {

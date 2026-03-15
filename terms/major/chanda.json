@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A wanting or intentional inclination that can be wholesome, neutral, or unwholesome depending on context.",
-  "notes": "The project keeps desire as the default because the term really does name wanting, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically problematic. In clearly wholesome or practical contexts, motivation or interest may read better than desire in English.",
+  "notes": "The project keeps desire as the default because the term really does name wanting, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically problematic. In clearly wholesome or practical contexts, motivation or interest may read better than desire in English. The OSF glossary confirms desire as the house default while preserving motivation and interest as context-sensitive alternates.",
   "context_rules": [
     {
       "context": "In general doctrinal contexts where the term simply names wanting or inclination",
@@ -52,7 +52,8 @@
     {
       "pali": "kusalachando",
       "translation": "wholesome desire",
-      "notes": "Useful reminder that the term is not synonymous with craving."
+      "notes": "Useful reminder that the term is not synonymous with craving.",
+      "source": "SN 51.13"
     }
   ],
   "sutta_references": [
@@ -66,10 +67,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping desire as the house default while preserving motivation and interest where wholesome practical initiative is emphasized."
     }
   ],
   "translation_policy": {

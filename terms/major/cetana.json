@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The intending or volitional aspect of mind that directs action.",
-  "notes": "Intention is the clearest default in contemporary English and works well across ethical and dependent-arising contexts. Volition remains acceptable in analytical prose, but it can sound more abstract than the project generally prefers.",
+  "notes": "Intention is the clearest default in contemporary English and works well across ethical and dependent-arising contexts. Volition remains acceptable in analytical prose, but it can sound more abstract than the project generally prefers. The OSF glossary confirms intention as the house default and preserves volition as a technical alternate.",
   "context_rules": [
     {
       "context": "In most ethical and psychological contexts",
@@ -43,7 +43,8 @@
     {
       "pali": "cetanā",
       "translation": "intention",
-      "notes": "Headword form often stands clearly on its own in analytical lists."
+      "notes": "Headword form often stands clearly on its own in analytical lists.",
+      "source": "AN 6.63"
     }
   ],
   "sutta_references": [
@@ -56,10 +57,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping intention as the house default across ethical and mental-factor analysis, with volition retained as a technical alternate."
     }
   ],
   "translation_policy": {
