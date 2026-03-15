@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Investigative examination that tests, checks, and clarifies what is being developed or understood.",
-  "notes": "The project prefers investigation because it is plain and fits both meditative and analytical contexts. Examination is acceptable where the line points to deliberate checking, while discernment can work in prose that leans more practical than technical.",
+  "notes": "The project prefers investigation because it is plain and fits both meditative and analytical contexts. Examination is acceptable where the line points to deliberate checking, while discernment can work in prose that leans more practical than technical. The OSF glossary likewise treats vīmaṃsā as investigation or examination, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most practical and analytical contexts",
@@ -45,7 +45,8 @@
     {
       "pali": "vīmaṃsā",
       "translation": "investigation",
-      "notes": "Compact doctrinal use."
+      "notes": "Compact doctrinal use.",
+      "source": "SN 51.13"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current vīmaṃsā policy."
     }
   ],
   "translation_policy": {

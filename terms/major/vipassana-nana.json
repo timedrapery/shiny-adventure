@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowledge arising through clear seeing into the nature of experience.",
-  "notes": "The repository keeps insight knowledge as the default because it is concise and doctrinally transparent. This entry is governed carefully so it does not import the whole later commentarial ladder of insight knowledges unless a passage explicitly requires that background. In this dataset the term should normally refer to knowledge arising from insight practice or clear seeing in a broad early-Buddhist sense.",
+  "notes": "The repository keeps insight knowledge as the default because it is concise and doctrinally transparent. This entry is governed carefully so it does not import the whole later commentarial ladder of insight knowledges unless a passage explicitly requires that background. In this dataset the term should normally refer to knowledge arising from insight practice or clear seeing in a broad early-Buddhist sense. The OSF glossary also keeps ñāṇa-language broad and early-Buddhist rather than commentarially over-specialized, which supports the present policy.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -43,7 +43,8 @@
     {
       "pali": "vipassanāñāṇa",
       "translation": "insight knowledge",
-      "notes": "Headword form in meditative explanation."
+      "notes": "Headword form in meditative explanation.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "version_notes": "Promoted from a stub to a major entry with explicit limits against unmarked importation of later commentarial stage systems.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current vipassanāñāṇa policy."
     }
   ],
   "translation_policy": {

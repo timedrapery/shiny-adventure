@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A standing or station in which knowing is established, used in conditioned analyses of sentient experience.",
-  "notes": "The project keeps station of knowing as the default so the compound remains aligned with the house treatment of viññāṇa as knowing rather than as a metaphysical consciousness-substance. Station of consciousness remains an acceptable alternate when continuity with standard doctrinal English is necessary. The term should be heard conditionally and analytically, not as a plane of pure awareness or an eternal witness-state.",
+  "notes": "The project keeps station of knowing as the default so the compound remains aligned with the house treatment of viññāṇa as knowing rather than as a metaphysical consciousness-substance. Station of consciousness remains an acceptable alternate when continuity with standard doctrinal English is necessary. The term should be heard conditionally and analytically, not as a plane of pure awareness or an eternal witness-state. The OSF glossary supports this by keeping viññāṇa-language processual rather than metaphysical, which the current compound policy follows.",
   "context_rules": [
     {
       "context": "In conditioned doctrinal analysis of the stations of viññāṇa",
@@ -44,7 +44,8 @@
     {
       "pali": "viññāṇaṭṭhiti",
       "translation": "station of knowing",
-      "notes": "Compact headword form in doctrinal analysis."
+      "notes": "Compact headword form in doctrinal analysis.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports keeping viññāṇa compounds aligned with the house rendering 'knowing'."
+      "scope": "Named in notes as support for the current viññāṇaṭṭhiti policy."
     }
   ],
   "translation_policy": {

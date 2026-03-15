@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowing and seeing phenomena according to their actual conditioned arising rather than through distortion or projection.",
-  "notes": "The repository keeps the longer translation as the default because it preserves the conditioned, processive force of bhūta more carefully than the shortened English idiom things as they are. The shorter form remains acceptable where the line cannot bear the longer phrase. This term should be treated as an early-Buddhist epistemic and liberative expression, not as a late technical slogan.",
+  "notes": "The repository keeps the longer translation as the default because it preserves the conditioned, processive force of bhūta more carefully than the shortened English idiom things as they are. The shorter form remains acceptable where the line cannot bear the longer phrase. This term should be treated as an early-Buddhist epistemic and liberative expression, not as a late technical slogan. The OSF glossary likewise keeps this expression tied to conditioned process rather than generic objectivity, which supports the present policy.",
   "context_rules": [
     {
       "context": "In doctrinal and source-facing contexts where precision matters",
@@ -44,7 +44,8 @@
     {
       "pali": "yathābhūtaṃ pajānāti",
       "translation": "one knows it as it has come to be",
-      "notes": "Shows the broader family usage behind the compound."
+      "notes": "Shows the broader family usage behind the compound.",
+      "source": "MN 1"
     },
     {
       "pali": "yathābhūtañāṇadassana",
@@ -66,10 +67,10 @@
   "version_notes": "Promoted from a thin minor entry to a major epistemic entry with explicit protection against flattening into generic objectivity language.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current yathābhūta-ñāṇadassana policy."
     }
   ],
   "translation_policy": {

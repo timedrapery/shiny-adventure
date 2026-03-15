@@ -56,12 +56,14 @@
     {
       "pali": "sammā-sati",
       "translation": "right remembering",
-      "notes": "OSF house-style path-factor form."
+      "notes": "OSF house-style path-factor form.",
+      "source": "MN 117"
     },
     {
       "pali": "cattāro satipaṭṭhānā",
       "translation": "the four establishments of remembering",
-      "notes": "Closely related practice framework under current house style."
+      "notes": "Closely related practice framework under current house style.",
+      "source": "DN 22"
     }
   ],
   "sutta_references": [

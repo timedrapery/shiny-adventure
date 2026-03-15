@@ -53,12 +53,14 @@
     {
       "pali": "yoniso manasikāra",
       "translation": "wise attention",
-      "notes": "Headword phrase in its standard form."
+      "notes": "Headword phrase in its standard form.",
+      "source": "MN 2"
     },
     {
       "pali": "ayoniso manasikāra",
       "translation": "unwise attention",
-      "notes": "Useful contrastive pair."
+      "notes": "Useful contrastive pair.",
+      "source": "MN 2"
     }
   ],
   "sutta_references": [
