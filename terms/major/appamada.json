@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Careful heedfulness that keeps practice from drifting into neglect or carelessness.",
-  "notes": "The project prefers heedfulness because it captures the vigilant, non-negligent quality of appamāda without confusing it with sati. Diligence can work in more general prose, but as a default it loses some of the warning against heedlessness built into the term. The term belongs among the project's core practical safeguards and should be heard as a broad quality of vigilant care that supports the whole path.",
+  "notes": "The project prefers heedfulness because it captures the vigilant, non-negligent quality of appamāda without confusing it with sati. Diligence can work in more general prose, but as a default it loses some of the warning against heedlessness built into the term. The term belongs among the project's core practical safeguards and should be heard as a broad quality of vigilant care that supports the whole path. The OSF glossary likewise treats appamāda as broad vigilant care rather than as a synonym for mindfulness, which supports the current policy.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -78,10 +78,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current appamāda policy."
     }
   ],
   "translation_policy": {

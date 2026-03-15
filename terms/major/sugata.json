@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "Sugata (an epithet of the Buddha)",
   "definition": "A title for the Buddha that is usually best left untranslated in source-facing work.",
-  "notes": "The project leaves Sugata untranslated by default because it functions as a title and English renderings tend to sound forced or overinterpretive. A short gloss is acceptable when the line needs help on first occurrence. The epithet belongs inside the cluster of Buddha-titles and should be treated as honorific and doctrinally loaded rather than decorative.",
+  "notes": "The project leaves Sugata untranslated by default because it functions as a title and English renderings tend to sound forced or overinterpretive. A short gloss is acceptable when the line needs help on first occurrence. The epithet belongs inside the cluster of Buddha-titles and should be treated as honorific and doctrinally loaded rather than decorative. The OSF glossary likewise keeps Sugata untranslated as a Buddha-title while allowing only a light gloss when needed.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -59,10 +59,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current Sugata policy."
     }
   ],
   "translation_policy": {

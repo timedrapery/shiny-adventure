@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A corruption or subsidiary defilement that stains and weakens the mind.",
-  "notes": "The project prefers corruption because it reads more cleanly in contemporary English than secondary defilement while still carrying the sense of contamination. Secondary defilement remains acceptable in more technical explanatory prose.",
+  "notes": "The project prefers corruption because it reads more cleanly in contemporary English than secondary defilement while still carrying the sense of contamination. Secondary defilement remains acceptable in more technical explanatory prose. The OSF glossary supports this by treating upakkilesa as a staining corruption of mind while preserving its relation to the broader kilesa family.",
   "context_rules": [
     {
       "context": "In most explanatory and practical contexts",
@@ -51,10 +51,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current upakkilesa policy."
     }
   ],
   "translation_policy": {

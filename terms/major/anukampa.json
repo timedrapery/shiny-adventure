@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Sympathetic concern that responds to another's condition with humane care.",
-  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Compassionate concern remains acceptable when explanatory prose needs a fuller phrase.",
+  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Compassionate concern remains acceptable when explanatory prose needs a fuller phrase. The OSF glossary likewise treats anukampā as humane sympathetic concern rather than as sentimental pity, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most practical and narrative contexts",
@@ -56,10 +56,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current anukampā policy."
     }
   ],
   "translation_policy": {

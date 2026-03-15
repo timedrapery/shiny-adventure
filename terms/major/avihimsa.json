@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disposition of non-harming, especially as a component of right attitude.",
-  "notes": "The project prefers non-harming because it is clear, direct, and behaviorally concrete. Harmlessness is acceptable in explanatory prose when the English line wants a smoother abstract noun.",
+  "notes": "The project prefers non-harming because it is clear, direct, and behaviorally concrete. Harmlessness is acceptable in explanatory prose when the English line wants a smoother abstract noun. The OSF glossary supports this by keeping avihiṃsā closely tied to practical non-harming within right attitude rather than to abstract pacifism.",
   "context_rules": [
     {
       "context": "In path-factor and analytical contexts",
@@ -54,10 +54,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current avihiṃsā policy."
     }
   ],
   "translation_policy": {

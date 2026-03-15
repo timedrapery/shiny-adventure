@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Restlessness or unsettled agitation that disturbs steadiness and collectedness.",
-  "notes": "The project keeps restlessness as the default because it works across both the hindrance family and the higher fetter list. Agitation remains acceptable where a slightly sharper affective tone is needed. Anxiety is discouraged because it narrows the term into a modern emotional category that does not cover the broader unsettledness named by the Pali.",
+  "notes": "The project keeps restlessness as the default because it works across both the hindrance family and the higher fetter list. Agitation remains acceptable where a slightly sharper affective tone is needed. Anxiety is discouraged because it narrows the term into a modern emotional category that does not cover the broader unsettledness named by the Pali. The OSF glossary supports this by keeping uddhacca broad enough for both hindrance and fetter usage rather than reducing it to a modern emotion label.",
   "context_rules": [
     {
       "context": "In the compound uddhacca-kukkucca within the hindrance framework",
@@ -68,10 +68,10 @@
   "version_notes": "Promoted to a major entry to govern both hindrance and fetter usage consistently.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current uddhacca policy."
     }
   ],
   "translation_policy": {
