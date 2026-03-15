@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The result or fruition of a cause, action, or path of practice.",
-  "notes": "The project prefers result because it is plain contemporary English and works across ethical, meditative, and liberative contexts. Fruit remains useful in fixed doctrinal compounds such as stream-entry fruit or when a translation wants to preserve the traditional idiom.",
+  "notes": "The project prefers result because it is plain contemporary English and works across ethical, meditative, and liberative contexts. Fruit remains useful in fixed doctrinal compounds such as stream-entry fruit or when a translation wants to preserve the traditional idiom. The OSF glossary also distinguishes general result-language from fixed fruit compounds, which supports this policy choice.",
   "context_rules": [
     {
       "context": "In general doctrinal or analytical contexts",
@@ -46,7 +46,8 @@
     {
       "pali": "kammassa phalaṃ",
       "translation": "the result of action",
-      "notes": "Broad doctrinal use not limited to liberation-stage language."
+      "notes": "Broad doctrinal use not limited to liberation-stage language.",
+      "source": "AN 6.63"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current phala policy."
     }
   ],
   "translation_policy": {

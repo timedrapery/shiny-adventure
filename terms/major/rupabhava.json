@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Existence or becoming within the form domain.",
-  "notes": "The repository keeps form existence as the default because it aligns with the related handling of rūpa-rāga and the threefold bhava framework. Material existence is discouraged because it confuses the term with crude materialism rather than the doctrinal category of form realms or form-mode becoming.",
+  "notes": "The repository keeps form existence as the default because it aligns with the related handling of rūpa-rāga and the threefold bhava framework. Material existence is discouraged because it confuses the term with crude materialism rather than the doctrinal category of form realms or form-mode becoming. The OSF glossary likewise frames rūpabhava within the threefold bhava model, supporting this policy choice.",
   "context_rules": [
     {
       "context": "In the three modes of existence framework",
@@ -43,7 +43,8 @@
     {
       "pali": "rūpabhavo",
       "translation": "form existence",
-      "notes": "One member of the threefold bhava framework."
+      "notes": "One member of the threefold bhava framework.",
+      "source": "AN 3.76"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current rūpabhava policy."
     }
   ],
   "translation_policy": {

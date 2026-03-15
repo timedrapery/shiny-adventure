@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The multiplying spread of conceptual and reactive elaboration that entangles experience.",
-  "notes": "The project prefers proliferation because it is concise and already well established in Buddhist translation, while still reading as contemporary English. Conceptual proliferation is useful when the mental elaboration itself needs to be made explicit.",
+  "notes": "The project prefers proliferation because it is concise and already well established in Buddhist translation, while still reading as contemporary English. Conceptual proliferation is useful when the mental elaboration itself needs to be made explicit. The OSF glossary also treats papañca as proliferating mental elaboration, which supports the present wording.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -43,7 +43,8 @@
     {
       "pali": "papañca",
       "translation": "proliferation",
-      "notes": "Useful as a retained technical term in concise doctrinal exposition."
+      "notes": "Useful as a retained technical term in concise doctrinal exposition.",
+      "source": "MN 18"
     }
   ],
   "sutta_references": [
@@ -56,10 +57,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current papañca policy."
     }
   ],
   "translation_policy": {
