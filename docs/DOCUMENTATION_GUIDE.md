@@ -25,7 +25,7 @@ If you are new to the project, this is the recommended reading order:
    state.
 9. [`BULK_EDITING_PLAYBOOK.md`](BULK_EDITING_PLAYBOOK.md)
    Use this when adding or revising many terms in one pass.
-10. [`drift-risk-terms.md`](drift-risk-terms.md)
+10. [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md)
     Review this before changing high-instability doctrinal terms.
 11. [`TRANSLATION_WORKFLOW_PLAN.md`](TRANSLATION_WORKFLOW_PLAN.md)
    Read this for the current repo-shaping roadmap and next editorial phase.
@@ -39,7 +39,7 @@ If you are new to the project, this is the recommended reading order:
   Defines the dataset fields and how they should be used.
 - [`TERM_ENTRY_STANDARD.md`](TERM_ENTRY_STANDARD.md)
   Explains how to build a good entry and what major entries should contain.
-- [`drift-risk-terms.md`](drift-risk-terms.md)
+- [`DRIFT_RISK_TERMS.md`](DRIFT_RISK_TERMS.md)
   Identifies the doctrinal terms most likely to cause translation instability.
 - [`HEADWORD_COMPOUND_FORMULA_POLICY.md`](HEADWORD_COMPOUND_FORMULA_POLICY.md)
   Defines how translation policy should be divided between headwords,

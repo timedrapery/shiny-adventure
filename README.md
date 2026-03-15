@@ -1,13 +1,13 @@
-# shiny-adventure
+# Open Sangha Foundation Pāli Translation Lexicon
 
-Structured Pali-to-English translation lexicon for Early Buddhist texts.
+Structured Pāli-to-English translation lexicon for Early Buddhist texts.
 
 ![Status](https://img.shields.io/badge/status-active%20development-blue)
 ![Language](https://img.shields.io/badge/source-Pali-orange)
 ![Target](https://img.shields.io/badge/output-contemporary%20English-green)
 ![Format](https://img.shields.io/badge/format-structured%20lexicon-lightgrey)
 
-`shiny-adventure` is a translator's lexicon, house style guide, doctrinal terminology registry, and machine-readable translation rule system. It records how the repository expects important Pali terms to be rendered, when those defaults should shift by context, and where the Pali should remain untranslated.
+This repository is a translator's lexicon, house style guide, doctrinal terminology registry, and machine-readable translation rule system. It records how the repository expects important Pāli terms to be rendered, when those defaults should shift by context, and where the Pāli should remain untranslated.
 
 This project is not a neutral dictionary. Major entries are rule-bearing editorial records intended to reduce translation drift across a corpus.
 
@@ -62,17 +62,21 @@ shiny-adventure/
 |- CONTRIBUTING.md
 |- STYLE_GUIDE.md
 |- TERMINOLOGY_PRINCIPLES.md
+|- LICENSE
+|- requirements-dev.txt
 |- schema/
 |  `- PALI_TERM_SCHEMA.json
 |- terms/
 |  |- major/
 |  `- minor/
+|- candidates/
 |- docs/
+|  |- DOCUMENTATION_GUIDE.md
 |  |- DATA_DICTIONARY.md
 |  |- TERM_ENTRY_STANDARD.md
 |  |- HEADWORD_COMPOUND_FORMULA_POLICY.md
 |  |- OSF_EDITORIAL_AUTHORITY.md
-|  |- drift-risk-terms.md
+|  |- DRIFT_RISK_TERMS.md
 |  `- ...
 |- scripts/
 |  |- validate_terms.py
@@ -82,8 +86,8 @@ shiny-adventure/
 |- tests/
 |  `- ...
 `- .github/
-   |- workflows/
-   `- ISSUE_TEMPLATE/
+  |- workflows/
+  `- ISSUE_TEMPLATE/
 ```
 
 ## Schema
@@ -189,7 +193,7 @@ python scripts/check_translation_drift.py
 python scripts/repo_health.py
 ```
 
-Translation-drift guidance for high-instability terms is tracked in [docs/drift-risk-terms.md](docs/drift-risk-terms.md).
+Translation-drift guidance for high-instability terms is tracked in [docs/DRIFT_RISK_TERMS.md](docs/DRIFT_RISK_TERMS.md).
 
 ## Candidate Workflow
 

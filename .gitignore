@@ -1,3 +1,29 @@
 __pycache__/
 *.pyc
 .venv/
+
+# Python build artefacts
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generated reports
+repo-health.json

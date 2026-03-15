@@ -1,6 +1,8 @@
-# Contributing to shiny-adventure
+# Contributing
 
 Contributions should improve clarity, consistency, and reusability across the lexicon. This repository treats term records as editorial policy objects, so even small wording changes can affect downstream translation behavior.
+
+For a concise reference on translation voice and house preferences, read [STYLE_GUIDE.md](STYLE_GUIDE.md) before making any entry changes.
 
 ## Before You Start
 
