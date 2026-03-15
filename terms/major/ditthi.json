@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A view, opinion, or standpoint, often used in doctrinal contexts for right or wrong view.",
-  "notes": "The project keeps view as the default because it is clear, flexible, and stable across right view, wrong view, self-view, and clinging-to-views compounds. Opinion and belief remain acceptable in explanatory prose when the context is narrower, but translators should not let them displace view in doctrinal formulae or path language. Doctrine is discouraged because it hardens the term into a system of propositions and weakens the practical and appropriative force that many compounds depend on.",
+  "notes": "The project keeps view as the default because it is clear, flexible, and stable across right view, wrong view, self-view, and clinging-to-views compounds. Opinion and belief remain acceptable in explanatory prose when the context is narrower, but translators should not let them displace view in doctrinal formulae or path language. Doctrine is discouraged because it hardens the term into a system of propositions and weakens the practical and appropriative force that many compounds depend on. The OSF glossary confirms view as the house default and preserves opinion and belief as explanatory alternates.",
   "context_rules": [
     {
       "context": "In most doctrinal and path-factor contexts",
@@ -62,12 +62,14 @@
     {
       "pali": "diṭṭhupādāna",
       "translation": "clinging to views",
-      "notes": "Illustrates how the headword extends into appropriation language."
+      "notes": "Illustrates how the headword extends into appropriation language.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
     "MN 9",
-    "MN 117"
+    "MN 117",
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",
@@ -77,10 +79,10 @@
   "version_notes": "Promoted to a major rule-bearing entry so the diṭṭhi family can govern path, self-view, and clinging-to-views compounds consistently.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping view as the house default across the diṭṭhi family, with opinion and belief retained as explanatory alternates."
     }
   ],
   "translation_policy": {
