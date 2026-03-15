@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Careful moral caution that shrinks from unwholesome action because of its consequences.",
-  "notes": "The project prefers moral caution because it preserves the ethical seriousness of the term without making it sound like ordinary fear. Moral dread can be useful in explanatory prose, but as a default it sounds harsher than most contemporary English needs. The term should be heard as the outward-looking complement to hiri, alert to the consequences of unwholesome action.",
+  "notes": "The project prefers moral caution because it preserves the ethical seriousness of the term without making it sound like ordinary fear. Moral dread can be useful in explanatory prose, but as a default it sounds harsher than most contemporary English needs. The term should be heard as the outward-looking complement to hiri, alert to the consequences of unwholesome action. The OSF glossary supports this by treating ottappa as protective ethical caution rather than simple fear.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -48,12 +48,14 @@
     {
       "pali": "hiri-ottappa",
       "translation": "conscience and moral caution",
-      "notes": "Classic ethical pair."
+      "notes": "Classic ethical pair.",
+      "source": "AN 2.9"
     },
     {
       "pali": "ottappaṃ uppajjati",
       "translation": "moral caution arises",
-      "notes": "Simple practical usage."
+      "notes": "Simple practical usage.",
+      "source": "AN 2.9"
     }
   ],
   "sutta_references": [
@@ -67,10 +69,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current ottappa policy."
     }
   ],
   "translation_policy": {

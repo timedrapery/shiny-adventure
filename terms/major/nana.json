@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowledge or direct knowing, especially when experience is understood clearly and correctly.",
-  "notes": "The repository keeps knowledge as the default because it is broad, contemporary, and usable across compounds. Knowing remains acceptable when the processual side should stay audible, and direct knowledge works when the line is about immediacy rather than information. This entry should not silently import later technical taxonomies unless the compound or context clearly requires them.",
+  "notes": "The repository keeps knowledge as the default because it is broad, contemporary, and usable across compounds. Knowing remains acceptable when the processual side should stay audible, and direct knowledge works when the line is about immediacy rather than information. This entry should not silently import later technical taxonomies unless the compound or context clearly requires them. The OSF glossary also treats ñāṇa as knowledge or direct knowing, which supports this policy choice.",
   "context_rules": [
     {
       "context": "In most doctrinal and compound contexts",
@@ -43,12 +43,14 @@
     {
       "pali": "ñāṇadassana",
       "translation": "knowledge and seeing",
-      "notes": "Important compound family built from ñāṇa."
+      "notes": "Important compound family built from ñāṇa.",
+      "source": "MN 26"
     },
     {
       "pali": "khaye ñāṇaṃ",
       "translation": "knowledge of wearing away",
-      "notes": "Shows the term in compound doctrinal use."
+      "notes": "Shows the term in compound doctrinal use.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
@@ -63,10 +65,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current ñāṇa policy."
     }
   ],
   "translation_policy": {

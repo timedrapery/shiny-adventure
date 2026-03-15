@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Stinginess or selfish withholding, especially around resources, status, or advantages one does not want to share.",
-  "notes": "The project prefers stinginess because it is contemporary and broad enough to cover more than money. Selfish withholding is acceptable in explanatory prose when the action of holding back matters more than the trait label.",
+  "notes": "The project prefers stinginess because it is contemporary and broad enough to cover more than money. Selfish withholding is acceptable in explanatory prose when the action of holding back matters more than the trait label. The OSF glossary also treats macchariya as stinginess or selfish withholding, which supports the current wording.",
   "context_rules": [
     {
       "context": "In most ethical and analytical contexts",
@@ -38,12 +38,14 @@
     {
       "pali": "issāmacchariya",
       "translation": "envy and stinginess",
-      "notes": "Common pair linking the term to issā."
+      "notes": "Common pair linking the term to issā.",
+      "source": "AN 5.229"
     },
     {
       "pali": "macchariyaṃ pahāya",
       "translation": "having abandoned stinginess",
-      "notes": "Useful practical expression."
+      "notes": "Useful practical expression.",
+      "source": "AN 5.229"
     }
   ],
   "sutta_references": [
@@ -56,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current macchariya policy."
     }
   ],
   "translation_policy": {

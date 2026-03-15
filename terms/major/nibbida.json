@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disenchanted turning away from conditioned experience that supports fading, quenching, and release.",
-  "notes": "The project prefers disenchantment because it captures the cooling of fascination without implying aversion or pathology. Turning away can work when the sentence highlights the directional shift, while weariness is acceptable only when the source clearly carries that tone.",
+  "notes": "The project prefers disenchantment because it captures the cooling of fascination without implying aversion or pathology. Turning away can work when the sentence highlights the directional shift, while weariness is acceptable only when the source clearly carries that tone. The OSF glossary likewise emphasizes disenchantment as a turning away that supports release, which fits the present policy.",
   "context_rules": [
     {
       "context": "In doctrinal sequences leading toward fading and release",
@@ -45,7 +45,8 @@
     {
       "pali": "nibbindati",
       "translation": "one becomes disenchanted",
-      "notes": "Verbal form useful for translation decisions around the same semantic field."
+      "notes": "Verbal form useful for translation decisions around the same semantic field.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current nibbidā policy."
     }
   ],
   "translation_policy": {
