@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing phenomena as not fit to be taken as self, owned as self, or identified as I or mine.",
-  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulae and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. Buddhadāsa-sensitive handling requires explicit resistance to reifying a hidden self or to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages and should use explanatory paraphrases only when the prose explicitly needs them.",
+  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulae and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. The Buddhadasa usage profile reinforces explicit resistance both to reifying a hidden self and to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages and should use explanatory paraphrases only when the prose explicitly needs them.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements and three-characteristics formulations",
@@ -87,10 +87,10 @@
   "version_notes": "Revised to block both metaphysical self-language and nihilistic no-self drift, with stronger guidance for practical not-self interpretation.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
-      "priority": "osf-house",
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current anattā policy."
     }
   ],
   "translation_policy": {

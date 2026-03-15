@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clinging to views, doctrines, or fixed standpoints as possessions or identities.",
-  "notes": "The project keeps clinging to views as the default because it is direct and doctrinally clear. View-clinging is acceptable in compact analytical prose. The term belongs to the fourfold upādāna framework and should not be reduced to merely having opinions. The point is appropriative fixation on views.",
+  "notes": "The project keeps clinging to views as the default because it is direct and doctrinally clear. View-clinging is acceptable in compact analytical prose. The term belongs to the fourfold upādāna framework and should not be reduced to merely having opinions. The point is appropriative fixation on views. The OSF glossary supports this by treating diṭṭhupādāna as a specific clinging mode rather than as a casual reference to opinion-holding.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
@@ -62,10 +62,10 @@
   "version_notes": "Promoted from a stub to a major entry governing the view-based member of the four clinging types.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current diṭṭhupādāna policy."
     }
   ],
   "translation_policy": {

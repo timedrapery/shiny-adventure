@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Release described in terms of discernment, often paired with release of mind.",
-  "notes": "The project prefers release through discernment because it aligns with the house preference for paññā-language as discernment rather than wisdom as a default label. Release through understanding is acceptable in explanatory prose when discernment feels too technical for the sentence.",
+  "notes": "The project prefers release through discernment because it aligns with the house preference for paññā-language as discernment rather than wisdom as a default label. Release through understanding is acceptable in explanatory prose when discernment feels too technical for the sentence. The OSF glossary likewise keeps paññāvimutti transparent as the discernment-side liberation term paired with cetovimutti, which supports the current policy.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -53,10 +53,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current paññāvimutti policy."
     }
   ],
   "translation_policy": {

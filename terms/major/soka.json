@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Sorrow or grief arising in relation to loss, pain, or distress.",
-  "notes": "The project prefers sorrow as the broad default because it reads naturally in formula passages. Grief remains useful when the emotional intensity or bereavement-like shade needs more emphasis.",
+  "notes": "The project prefers sorrow as the broad default because it reads naturally in formula passages. Grief remains useful when the emotional intensity or bereavement-like shade needs more emphasis. The OSF glossary likewise keeps soka aligned with the standard suffering formulas while allowing grief where the sharper emotional tone is needed.",
   "context_rules": [
     {
       "context": "In most formulaic and doctrinal contexts",
@@ -58,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current soka policy."
     }
   ],
   "translation_policy": {

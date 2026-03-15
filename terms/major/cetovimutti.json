@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A release characterized in terms of mind, often contrasted with or paired alongside release through discernment.",
-  "notes": "The project prefers release of mind because it stays transparent and aligns with the existing treatment of vimutti and citta. Mental release is acceptable in explanatory prose when the English line wants a smoother compound.",
+  "notes": "The project prefers release of mind because it stays transparent and aligns with the existing treatment of vimutti and citta. Mental release is acceptable in explanatory prose when the English line wants a smoother compound. The OSF glossary likewise keeps cetovimutti transparent as a mind-side liberation term paired with paññāvimutti, which supports the current policy.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -53,10 +53,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current cetovimutti policy."
     }
   ],
   "translation_policy": {
