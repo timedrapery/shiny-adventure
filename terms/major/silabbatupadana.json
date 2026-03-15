@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clinging to rules, observances, or practices as self-sufficient or identity-supporting.",
-  "notes": "The project keeps clinging to rules and observances as the default because it aligns clearly with the corresponding fetter entry and makes the upādāna function explicit. The issue is not wholesome discipline itself, but appropriative fixation on forms and procedures. This term belongs to the four clinging types and should be read alongside sīlabbata-parāmāsa.",
+  "notes": "The project keeps clinging to rules and observances as the default because it aligns clearly with the corresponding fetter entry and makes the upādāna function explicit. The issue is not wholesome discipline itself, but appropriative fixation on forms and procedures. This term belongs to the four clinging types and should be read alongside sīlabbata-parāmāsa. The OSF glossary supports this by treating sīlabbatupādāna as a specific clinging mode rather than as discipline itself.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
@@ -61,10 +61,10 @@
   "version_notes": "Promoted from a stub to a major entry and aligned with the corresponding fetter entry.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current sīlabbatupādāna policy."
     }
   ],
   "translation_policy": {

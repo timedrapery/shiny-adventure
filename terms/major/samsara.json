@@ -15,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "saṃsāra (wandering on)",
   "definition": "The ongoing wandering-on of conditioned existence, dissatisfaction, and rebirth.",
-  "notes": "The repository keeps saṃsāra untranslated by default because the term carries a dense doctrinal range that is narrowed too quickly by most English substitutes. Wandering on is the preferred gloss when explanation is needed because it preserves both motion and lack of finality. Round of rebirth remains acceptable in explanatory prose, but the term should not be treated as mere cosmology; it is also the ongoing persistence of conditioned bondage.",
+  "notes": "The repository keeps saṃsāra untranslated by default because the term carries a dense doctrinal range that is narrowed too quickly by most English substitutes. Wandering on is the preferred gloss when explanation is needed because it preserves both motion and lack of finality. Round of rebirth remains acceptable in explanatory prose, but the term should not be treated as mere cosmology; it is also the ongoing persistence of conditioned bondage. The OSF glossary likewise keeps saṃsāra untranslated as a dense doctrinal term while allowing wandering on as the primary gloss.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -70,10 +70,10 @@
   "version_notes": "Promoted from a thin minor entry to a major untranslated entry with explicit glossing and anti-cosmological drift guidance.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current saṃsāra policy."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A supporting condition that decisively enables a later development or breakthrough.",
-  "notes": "The project prefers supporting condition because it is plain and fits the term's enabling function without sounding overly technical. Decisive support is acceptable in explanatory prose when the force of the condition needs to be emphasized more strongly.",
+  "notes": "The project prefers supporting condition because it is plain and fits the term's enabling function without sounding overly technical. Decisive support is acceptable in explanatory prose when the force of the condition needs to be emphasized more strongly. The OSF glossary supports this by treating upanisā as an enabling causal support rather than as vague inspiration, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most doctrinal and explanatory contexts",
@@ -51,10 +51,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current upanisā policy."
     }
   ],
   "translation_policy": {
