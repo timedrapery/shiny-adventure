@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through agitation, unsettledness, and regretful mental churn.",
-  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling.",
+  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling. The OSF glossary confirms agitated distraction as the house default inside the five-distractions framework and preserves restlessness and remorse as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -65,10 +65,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping agitated distraction as the house default inside the five-hindrances framework, with restlessness and remorse retained as the explanatory alternate."
     }
   ],
   "translation_policy": {

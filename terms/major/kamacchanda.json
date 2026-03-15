@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through desire for sensual objects or agreeable experience.",
-  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader. The term should be heard as desire functioning specifically as a derailment of collected practice.",
+  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader. The term should be heard as desire functioning specifically as a derailment of collected practice. The OSF glossary confirms sensual distraction as the house default within the five-distractions framework and preserves sensual desire as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -66,10 +66,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping sensual distraction as the house default inside the five-hindrances framework, with sensual desire retained only as an explanatory alternate."
     }
   ],
   "translation_policy": {

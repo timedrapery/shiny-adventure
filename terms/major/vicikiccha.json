@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through uncertainty, wavering, and indecisive doubt about the path or practice.",
-  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough. The term should be heard as destabilizing uncertainty that interrupts commitment to practice and clear seeing.",
+  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough. The term should be heard as destabilizing uncertainty that interrupts commitment to practice and clear seeing. The OSF glossary confirms uncertain distraction as the house default inside the five-distractions framework and preserves doubt as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -70,10 +70,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping uncertain distraction as the house default inside the five-hindrances framework, with doubt retained as the explanatory alternate."
     }
   ],
   "translation_policy": {
