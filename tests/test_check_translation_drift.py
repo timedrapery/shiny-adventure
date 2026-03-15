@@ -61,7 +61,7 @@ def make_record(stem: str, **overrides: object) -> check_translation_drift.TermR
         "status": "reviewed",
     }
     data.update(overrides)
-    path = check_translation_drift.REPO_ROOT / "terms" / f"{stem}.json"
+    path = check_translation_drift.REPO_ROOT / "terms" / "major" / f"{stem}.json"
     return check_translation_drift.TermRecord(path=path, stem=stem, data=data)
 
 
@@ -189,7 +189,7 @@ class DriftCheckCliTests(unittest.TestCase):
                 category="Preferred Translation",
                 code="duplicate_preferred_rendering",
                 message="rendering is shared",
-                path="terms/citta.json",
+                path="terms/major/citta.json",
             )
         ]
 
@@ -211,7 +211,7 @@ class DriftCheckCliTests(unittest.TestCase):
                 category="Preferred Translation",
                 code="duplicate_preferred_rendering",
                 message="rendering is shared",
-                path="terms/citta.json",
+                path="terms/major/citta.json",
             )
         ]
 

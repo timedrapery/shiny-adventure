@@ -11,9 +11,11 @@ from pathlib import Path
 
 try:
     from scripts import lint_terms, validate_terms
+    from scripts.term_store import destination_for_record
 except ModuleNotFoundError:
     import lint_terms
     import validate_terms
+    from term_store import destination_for_record
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -68,7 +70,7 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
                 f"Record {index} duplicates normalized_term '{normalized_term}' within the batch."
             )
         seen_normalized_terms.add(normalized_term)
-        planned_writes.append((record, TERMS_DIR / f"{normalized_term}.json"))
+        planned_writes.append((record, destination_for_record(TERMS_DIR, record, normalized_term)))
 
     # Validate against schema and editorial lint in isolation before writing.
     with tempfile.TemporaryDirectory() as tmpdir:
@@ -76,7 +78,7 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
         temp_terms_dir.mkdir()
         for record, _ in planned_writes:
             normalized_term = record["normalized_term"]
-            write_record(record, temp_terms_dir / f"{normalized_term}.json")
+            write_record(record, destination_for_record(temp_terms_dir, record, normalized_term))
 
         schema_failures = validate_terms.collect_validation_failures(temp_terms_dir)
         if schema_failures:
@@ -97,6 +99,7 @@ def validate_batch(records: list[dict[str, object]]) -> list[tuple[dict[str, obj
 
 
 def write_record(record: dict[str, object], destination: Path) -> None:
+    destination.parent.mkdir(parents=True, exist_ok=True)
     with destination.open("w", encoding="utf-8", newline="\n") as handle:
         json.dump(record, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
