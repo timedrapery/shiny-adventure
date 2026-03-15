@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Truth, especially in doctrinal formulations where something is declared or known as true.",
-  "notes": "The project prefers truth as the default because it is direct and stable across doctrinal and practical usage. Reality can be useful in explanatory prose where the emphasis is on what is actual rather than on a proposition, but it should not displace truth in fixed compounds such as noble truth.",
+  "notes": "The project prefers truth as the default because it is direct and stable across doctrinal and practical usage. Reality can be useful in explanatory prose where the emphasis is on what is actual rather than on a proposition, but it should not displace truth in fixed compounds such as noble truth. The OSF glossary confirms truth as the house default and reinforces keeping noble truth stable in fixed doctrinal compounds.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -35,16 +35,19 @@
     {
       "pali": "ariyasacca",
       "translation": "noble truth",
-      "notes": "Common compound that carries much of the term's doctrinal weight."
+      "notes": "Common compound that carries much of the term's doctrinal weight.",
+      "source": "SN 56.11"
     },
     {
       "pali": "saccaṃ bhaṇe",
       "translation": "one speaks truth",
-      "notes": "Shows the broader everyday semantic field of the term."
+      "notes": "Shows the broader everyday semantic field of the term.",
+      "source": "Dhp 224"
     }
   ],
   "sutta_references": [
-    "SN 56.11"
+    "SN 56.11",
+    "Dhp 224"
   ],
   "tags": [
     "core-doctrine",
@@ -53,10 +56,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping truth as the house default across doctrinal and practical usage, while preserving reality only as an explanatory alternate."
     }
   ],
   "translation_policy": {
