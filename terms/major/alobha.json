@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Freedom from greed, expressed as non-grasping and openness rather than acquisitive pull.",
-  "notes": "The project keeps non-greed as the default because it preserves the lexical relation to lobha. Generosity can work in explanatory prose when the positive lived expression is in view, but it is narrower than the doctrinal category itself. The term belongs inside the wholesome-root framework and should not be reduced only to giving material things.",
+  "notes": "The project keeps non-greed as the default because it preserves the lexical relation to lobha. Generosity can work in explanatory prose when the positive lived expression is in view, but it is narrower than the doctrinal category itself. The term belongs inside the wholesome-root framework and should not be reduced only to giving material things. The OSF glossary confirms non-greed as the house default and preserves generosity and non-grasping as contextual alternates.",
   "context_rules": [
     {
       "context": "In analytical and doctrinal contexts",
@@ -48,12 +48,14 @@
     {
       "pali": "alobho kusalamūlaṃ",
       "translation": "non-greed is a root of the wholesome",
-      "notes": "Important ethical classification."
+      "notes": "Important ethical classification.",
+      "source": "MN 9"
     },
     {
       "pali": "vigatalobha",
       "translation": "free from greed",
-      "notes": "Practical contrastive expression."
+      "notes": "Practical contrastive expression.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -68,10 +70,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping non-greed as the house default in the wholesome-root framework, with generosity and non-grasping retained for context-specific prose."
     }
   ],
   "translation_policy": {

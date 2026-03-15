@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Aversion or hostility toward what is unwanted, unpleasant, or resisted.",
-  "notes": "The project prefers aversion because it covers the broad reactive pattern, not only overt anger. Ill will remains useful where the interpersonal or hostile shade is stronger. Dosa should be heard as one of the unwholesome roots and as the reactive pushback that hardens into hostility, resentment, and harm.",
+  "notes": "The project prefers aversion because it covers the broad reactive pattern, not only overt anger. Ill will remains useful where the interpersonal or hostile shade is stronger. Dosa should be heard as one of the unwholesome roots and as the reactive pushback that hardens into hostility, resentment, and harm. The OSF glossary confirms aversion as the house default and preserves ill will and resentment as contextual alternates.",
   "context_rules": [
     {
       "context": "In most ethical and doctrinal contexts",
@@ -58,12 +58,14 @@
     {
       "pali": "doso akusalamūlaṃ",
       "translation": "aversion is a root of the unwholesome",
-      "notes": "Standard ethical classification."
+      "notes": "Standard ethical classification.",
+      "source": "MN 9"
     },
     {
       "pali": "adosa",
       "translation": "non-aversion",
-      "notes": "Helpful contrastive form."
+      "notes": "Helpful contrastive form.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -78,10 +80,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping aversion as the house default in the unwholesome-root framework, with ill will and resentment retained as contextual alternates."
     }
   ],
   "translation_policy": {

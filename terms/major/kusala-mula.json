@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A root condition supporting wholesome qualities, classically named as non-greed, non-aversion, and non-delusion.",
-  "notes": "The project keeps root of the wholesome as the default because it preserves the analytic relation to kusala without collapsing the framework into generic moral language. Wholesome root can work when English needs a shorter heading, but the doctrinal point is classificatory: this term names the root conditions from which wholesome qualities and actions proceed. Translators should not flatten the compound into merely good intention or positive motivation.",
+  "notes": "The project keeps root of the wholesome as the default because it preserves the analytic relation to kusala without collapsing the framework into generic moral language. Wholesome root can work when English needs a shorter heading, but the doctrinal point is classificatory: this term names the root conditions from which wholesome qualities and actions proceed. Translators should not flatten the compound into merely good intention or positive motivation. The OSF glossary confirms root of the wholesome as the house default and preserves wholesome root as the shorter alternate for compact headings.",
   "context_rules": [
     {
       "context": "In doctrinal analysis of the wholesome roots",
@@ -45,7 +45,8 @@
     {
       "pali": "kusalamūla",
       "translation": "root of the wholesome",
-      "notes": "Useful compact headword form in doctrinal discussion."
+      "notes": "Useful compact headword form in doctrinal discussion.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports the house treatment of wholesome-root terminology as an analytic causal framework."
+      "scope": "Supports the house treatment of wholesome-root terminology as an analytic causal framework and preserves the longer compound as the default form."
     }
   ],
   "translation_policy": {

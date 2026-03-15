@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Delusion or confusion that obscures what is actually happening and supports unwholesome patterns.",
-  "notes": "The project distinguishes moha from avijjā. Delusion works best here because it names the muddled distortion operating in immediate experience, whereas avijjā more often marks fundamental not-knowing in broader doctrinal sequences. Moha should also be heard as one of the unwholesome roots and as the factor that keeps greed and aversion from being seen clearly.",
+  "notes": "The project distinguishes moha from avijjā. Delusion works best here because it names the muddled distortion operating in immediate experience, whereas avijjā more often marks fundamental not-knowing in broader doctrinal sequences. Moha should also be heard as one of the unwholesome roots and as the factor that keeps greed and aversion from being seen clearly. The OSF glossary confirms delusion as the house default and preserves confusion and bewilderment as contextual alternates.",
   "context_rules": [
     {
       "context": "In most ethical and doctrinal contexts",
@@ -54,12 +54,14 @@
     {
       "pali": "moho akusalamūlaṃ",
       "translation": "delusion is a root of the unwholesome",
-      "notes": "Standard ethical classification."
+      "notes": "Standard ethical classification.",
+      "source": "MN 9"
     },
     {
       "pali": "vigatamoha",
       "translation": "free from delusion",
-      "notes": "Useful contrastive expression in practice contexts."
+      "notes": "Useful contrastive expression in practice contexts.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -74,10 +76,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping delusion as the house default in the unwholesome-root framework, with confusion and bewilderment retained only as contextual alternates."
     }
   ],
   "translation_policy": {

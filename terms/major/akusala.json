@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing qualities, actions, or states that are ethically unhealthy and conducive to confusion and suffering.",
-  "notes": "The project prefers unwholesome to preserve the ethical and psychological range of the term. Bad is too blunt and collapses doctrinal analysis into ordinary condemnation. The term should be heard analytically across motives, actions, and qualities, not merely as a general insult.",
+  "notes": "The project prefers unwholesome to preserve the ethical and psychological range of the term. Bad is too blunt and collapses doctrinal analysis into ordinary condemnation. The term should be heard analytically across motives, actions, and qualities, not merely as a general insult. The OSF glossary confirms unwholesome as the house default and preserves unskillful and harmful as context-sensitive alternates.",
   "context_rules": [
     {
       "context": "In general ethical and doctrinal contexts",
@@ -62,12 +62,14 @@
     {
       "pali": "akusalehi dhammehi",
       "translation": "from unwholesome qualities",
-      "notes": "Useful broad doctrinal example."
+      "notes": "Useful broad doctrinal example.",
+      "source": "AN 3.69"
     },
     {
       "pali": "akusalamūla",
       "translation": "root of the unwholesome",
-      "notes": "Shows how the term functions in analytical compounds."
+      "notes": "Shows how the term functions in analytical compounds.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
@@ -82,10 +84,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping unwholesome as the house default for ethical and psychological classification, with unskillful and harmful retained only as contextual alternates."
     }
   ],
   "translation_policy": {
