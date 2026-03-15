@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The eye as a sense faculty within the six sense fields.",
-  "notes": "The project prefers eye as the default because the term usually names the faculty straightforwardly. Visual faculty is acceptable in technical explanatory prose where the sense-base role must be made explicit and distinguished from visible forms or the act of seeing.",
+  "notes": "The project prefers eye as the default because the term usually names the faculty straightforwardly. Visual faculty is acceptable in technical explanatory prose where the sense-base role must be made explicit and distinguished from visible forms or the act of seeing. The OSF glossary confirms eye as the house default and records visual faculty as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -46,7 +46,8 @@
     {
       "pali": "cakkhāyatana",
       "translation": "the eye sense field",
-      "notes": "Shows the term inside āyatana analysis."
+      "notes": "Shows the term inside āyatana analysis.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping eye as the house default for the eye faculty within the six sense fields."
     }
   ],
   "translation_policy": {

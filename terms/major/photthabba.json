@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A tangible object as the object-side correlate of body contact.",
-  "notes": "The project prefers tangible because it is concise and works naturally in the standard sense-base formulas. Touchable is acceptable when the English line benefits from something more plainly adjectival or less technical.",
+  "notes": "The project prefers tangible because it is concise and works naturally in the standard sense-base formulas. Touchable is acceptable when the English line benefits from something more plainly adjectival or less technical. The OSF glossary confirms tangible as the house default and records touchable as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
@@ -45,7 +45,8 @@
     {
       "pali": "phoṭṭhabbārammaṇa",
       "translation": "having a tangible as object",
-      "notes": "Useful compact analytical usage."
+      "notes": "Useful compact analytical usage.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -58,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping tangible as the house default for tactile objects within the sixfold analysis."
     }
   ],
   "translation_policy": {

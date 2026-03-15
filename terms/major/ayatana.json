@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A field or domain of experience, especially in analytical contexts involving the sense fields and their objects.",
-  "notes": "The repo now uses field as the broad default for āyatana because it scales better across compounds than cognitive realm and avoids prematurely narrowing every case to a sense organ or abstract metaphysical base. Sense field remains the preferred alternate when the sixfold experiential structure needs to be explicit. Base can still work in established compounds, but it should not dominate the lexicon when field would read more naturally in contemporary English. Translators should keep the family stable between āyatana and saḷāyatana and should not let base silently replace field except where a local compound or formula clearly requires it.",
+  "notes": "The repo now uses field as the broad default for āyatana because it scales better across compounds than cognitive realm and avoids prematurely narrowing every case to a sense organ or abstract metaphysical base. Sense field remains the preferred alternate when the sixfold experiential structure needs to be explicit. Base can still work in established compounds, but it should not dominate the lexicon when field would read more naturally in contemporary English. Translators should keep the family stable between āyatana and saḷāyatana and should not let base silently replace field except where a local compound or formula clearly requires it. The OSF glossary confirms field as the house default for the six-sense-field family and records sense field, domain, and base as tolerated alternates.",
   "context_rules": [
     {
       "context": "In general analytical contexts where āyatana names a domain of experience",
@@ -59,7 +59,8 @@
     {
       "pali": "manāyatana",
       "translation": "the mind field",
-      "notes": "Illustrates compound handling under the house default."
+      "notes": "Illustrates compound handling under the house default.",
+      "source": "MN 148"
     },
     {
       "pali": "dhammāyatana",
@@ -83,10 +84,10 @@
   "version_notes": "Changed the default from cognitive realm to field and added explicit rules for sense-field, domain, and base usage.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping field as the default across the six-sense-field family and governs compound inheritance to āyatana-family terms."
     }
   ],
   "translation_policy": {

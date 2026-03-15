@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The body as a lived and observable dimension of experience, especially in contemplative practice.",
-  "notes": "The project prefers body as the plain default in contemporary English. Bodily frame can work in explanatory prose when the embodied aspect needs emphasis, but the entry should not be overloaded with later technical meanings not active in the immediate context.",
+  "notes": "The project prefers body as the plain default in contemporary English. Bodily frame can work in explanatory prose when the embodied aspect needs emphasis, but the entry should not be overloaded with later technical meanings not active in the immediate context. The OSF glossary confirms body as the house default and records bodily frame as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -67,10 +67,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping body as the house default for the body faculty in contemplative and sense-field contexts."
     }
   ],
   "translation_policy": {

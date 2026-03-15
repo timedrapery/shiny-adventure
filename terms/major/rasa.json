@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A taste as the object of the tongue within the six sense fields.",
-  "notes": "The project prefers taste because it is the cleanest analytical rendering in ordinary English. Flavor is acceptable when the sentence benefits from a more concrete or sensuous register, but essence should be avoided because it belongs to a different semantic track altogether.",
+  "notes": "The project prefers taste because it is the cleanest analytical rendering in ordinary English. Flavor is acceptable when the sentence benefits from a more concrete or sensuous register, but essence should be avoided because it belongs to a different semantic track altogether. The OSF glossary confirms taste as the house default and records flavor as a tolerated alternate.",
   "context_rules": [
     {
       "context": "In most analytical and source-facing contexts",
@@ -44,7 +44,8 @@
     {
       "pali": "rasārammaṇa",
       "translation": "having taste as object",
-      "notes": "Useful compact analytical usage."
+      "notes": "Useful compact analytical usage.",
+      "source": "MN 148"
     }
   ],
   "sutta_references": [
@@ -57,10 +58,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping taste as the house default for gustatory objects within the sixfold analysis."
     }
   ],
   "translation_policy": {
