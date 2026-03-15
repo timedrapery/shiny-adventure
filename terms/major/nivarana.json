@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A distracting or obstructing state that covers over clarity and interferes with collected practice.",
-  "notes": "The project keeps distraction as the default because it emphasizes what these states do in practice: they pull the mind away, cloud it, and prevent steadiness. Hindrance remains an accepted alternate because it is standard Buddhist-English and still useful in comparative prose. The important editorial point is not to treat nīvaraṇa as a vague moral category. It names a practical meditative framework, especially the five distractions that block delight, composure, and jhāna.",
+  "notes": "The project keeps distraction as the default because it emphasizes what these states do in practice: they pull the mind away, cloud it, and prevent steadiness. Hindrance remains an accepted alternate because it is standard Buddhist-English and still useful in comparative prose. The important editorial point is not to treat nīvaraṇa as a vague moral category. It names a practical meditative framework, especially the five distractions that block delight, composure, and jhāna. The OSF glossary confirms distraction as the house default and preserves hindrance and obstruction as contextual alternates.",
   "context_rules": [
     {
       "context": "In most practical and meditative-development contexts",
@@ -91,10 +91,10 @@
   "version_notes": "Clarified distraction versus hindrance usage and strengthened cross-links to the five-member hindrance framework and its practical role in meditation.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping distraction as the house default for the five-hindrances framework, with hindrance and obstruction retained as contextual alternates."
     }
   ],
   "translation_policy": {

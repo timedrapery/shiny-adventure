@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through dullness, heaviness, and sinking energy of mind and body.",
-  "notes": "Project preference is dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion. The term should be heard as a sinking and blunting of practice-energy rather than as ordinary laziness.",
+  "notes": "Project preference is dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion. The term should be heard as a sinking and blunting of practice-energy rather than as ordinary laziness. The OSF glossary confirms dull distraction as the house default inside the five-distractions framework and preserves sloth and torpor as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -65,10 +65,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping dull distraction as the house default inside the five-hindrances framework, with sloth and torpor retained as the explanatory alternate."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through aversion, hostility, or ill will toward what is resisted.",
-  "notes": "Project preference is aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label. The term should be heard as aversion functioning specifically as a disturbance of practice and composure.",
+  "notes": "Project preference is aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label. The term should be heard as aversion functioning specifically as a disturbance of practice and composure. The OSF glossary confirms aversive distraction as the house default inside the five-distractions framework and preserves ill will as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -65,10 +65,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping aversive distraction as the house default inside the five-hindrances framework, with ill will retained as the explanatory alternate."
     }
   ],
   "translation_policy": {
