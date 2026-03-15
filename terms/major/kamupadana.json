@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clinging to sensuality and sense pleasure as something to possess, pursue, or identify with.",
-  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. The term belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising.",
+  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. The term belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising. The OSF glossary supports this by treating kāmupādāna as a specific clinging mode within the fourfold upādāna analysis.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
@@ -67,10 +67,10 @@
   "version_notes": "Promoted from a stub to a major entry governing the sensual member of the four clinging types.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kāmupādāna policy."
     }
   ],
   "translation_policy": {

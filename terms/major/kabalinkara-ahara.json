@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Edible food as the physical nutriment sustaining embodied life.",
-  "notes": "The project prefers edible-food nutriment because it remains transparent to the Pāli compound while distinguishing this nutriment from the subtler three. Physical nutriment is acceptable in explanatory prose when English needs a smoother phrase.",
+  "notes": "The project prefers edible-food nutriment because it remains transparent to the Pāli compound while distinguishing this nutriment from the subtler three. Physical nutriment is acceptable in explanatory prose when English needs a smoother phrase. The OSF glossary supports this by keeping kabaḷīkārāhāra explicit within the four-nutriments framework rather than flattening it into generic materialism.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
@@ -52,10 +52,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kabaḷīkārāhāra policy."
     }
   ],
   "translation_policy": {

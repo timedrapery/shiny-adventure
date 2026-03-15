@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Nutriment or sustaining intake, especially in the doctrinal analysis of what keeps experience and becoming going.",
-  "notes": "The project prefers nutriment because it works across physical and non-physical cases in the canonical fourfold set. Food is acceptable where the context is plainly literal or when English needs a lighter word. The term should be heard as doctrinally broad sustenance, not only edible intake.",
+  "notes": "The project prefers nutriment because it works across physical and non-physical cases in the canonical fourfold set. Food is acceptable where the context is plainly literal or when English needs a lighter word. The term should be heard as doctrinally broad sustenance, not only edible intake. The OSF glossary likewise treats āhāra as the broad sustaining category behind the four nutriments, which supports the current policy.",
   "context_rules": [
     {
       "context": "In doctrinal analysis of the four nutriments",
@@ -62,10 +62,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current āhāra policy."
     }
   ],
   "translation_policy": {

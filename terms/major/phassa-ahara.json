@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Contact as a nutriment that sustains the arising of felt experience and continued entanglement.",
-  "notes": "The project prefers contact nutriment because it stays transparent and compact. Nutriment of contact is acceptable in more explanatory prose if the phrase needs to open up slightly.",
+  "notes": "The project prefers contact nutriment because it stays transparent and compact. Nutriment of contact is acceptable in more explanatory prose if the phrase needs to open up slightly. The OSF glossary supports this by keeping phassāhāra aligned with the four-nutriments analysis and with phassa as the technical event of contact.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
@@ -51,10 +51,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current phassāhāra policy."
     }
   ],
   "translation_policy": {
