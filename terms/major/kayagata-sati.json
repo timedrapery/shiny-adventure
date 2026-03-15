@@ -15,7 +15,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "kāyagatā sati (sati directed to the body)",
   "definition": "A mode of sati grounded in careful attention to the body as a field of practice and understanding.",
-  "notes": "The project keeps kāyagatā sati untranslated because the phrase is a specific technical expression, and shorter English options tend to flatten either the role of sati or the force of the compound. A concise gloss on first occurrence is usually enough.",
+  "notes": "The project keeps kāyagatā sati untranslated because the phrase is a specific technical expression, and shorter English options tend to flatten either the role of sati or the force of the compound. A concise gloss on first occurrence is usually enough. The OSF glossary supports keeping kāyagatā sati as a technical practice expression rather than flattening it into generic body-mindfulness language.",
   "context_rules": [
     {
       "context": "In source-facing translation and technical practice discussion",
@@ -67,10 +67,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kāyagatā sati policy."
     }
   ],
   "translation_policy": {

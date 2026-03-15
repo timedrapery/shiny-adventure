@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The sluggish, inert, or dulling side of the hindrance pair thīna-middha.",
-  "notes": "The project keeps sluggishness as the default because it names the sinking loss of readiness without importing modern clinical language. Thīna should usually be understood together with middha in the fixed hindrance pair, but it can still be explained separately so the mental side of the pair is clear: thīna is the slackness or dull inertia, while middha is the drooping heaviness and drowsiness.",
+  "notes": "The project keeps sluggishness as the default because it names the sinking loss of readiness without importing modern clinical language. Thīna should usually be understood together with middha in the fixed hindrance pair, but it can still be explained separately so the mental side of the pair is clear: thīna is the slackness or dull inertia, while middha is the drooping heaviness and drowsiness. The OSF glossary supports this distinction within the hindrance pair and keeps the term clear of clinical or moralizing language.",
   "context_rules": [
     {
       "context": "In explanation of the hindrance pair thīna-middha",
@@ -61,10 +61,10 @@
   "version_notes": "Promoted from a stub to a major entry clarifying its role inside the thīna-middha hindrance pair.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current thīna policy."
     }
   ],
   "translation_policy": {

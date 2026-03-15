@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Thinking that takes up a theme or directs the mind toward an object, especially in ethical reflection and first-jhāna formulae.",
-  "notes": "The project keeps thinking as the default because it stays readable and refuses to mystify a term that often names ordinary but disciplined mental activity. Directed thought remains available when the directional aspect is crucial, especially in technical prose. Applied attention can help when the function is closer to setting the mind on a theme, but it should not replace the default in ordinary translation. The entry should be read together with vicāra so that first-jhāna language is not collapsed into either mere discursiveness or later scholastic abstraction. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose.",
+  "notes": "The project keeps thinking as the default because it stays readable and refuses to mystify a term that often names ordinary but disciplined mental activity. Directed thought remains available when the directional aspect is crucial, especially in technical prose. Applied attention can help when the function is closer to setting the mind on a theme, but it should not replace the default in ordinary translation. The entry should be read together with vicāra so that first-jhāna language is not collapsed into either mere discursiveness or later scholastic abstraction. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary likewise keeps vitakka grounded in practical mental activity rather than scholastic abstraction, which supports the present handling.",
   "context_rules": [
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
@@ -79,10 +79,10 @@
   "version_notes": "Expanded to govern both jhāna-factor and ethical-thinking usage and to prevent drift into over-technical scholastic renderings.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current vitakka policy."
     }
   ],
   "translation_policy": {

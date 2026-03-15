@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The drooping, heavy, or sleepy side of the hindrance pair thīna-middha.",
-  "notes": "The project keeps drowsiness as the default because it is concrete and readable. Torpor remains acceptable in comparative doctrinal prose, but it is too formal for default house use. Middha should normally be heard together with thīna: middha is the sinking heaviness or sleepiness, while thīna is the dull, inert slackness that accompanies it.",
+  "notes": "The project keeps drowsiness as the default because it is concrete and readable. Torpor remains acceptable in comparative doctrinal prose, but it is too formal for default house use. Middha should normally be heard together with thīna: middha is the sinking heaviness or sleepiness, while thīna is the dull, inert slackness that accompanies it. The OSF glossary supports this distinction within the hindrance pair and keeps the term concrete rather than moralized.",
   "context_rules": [
     {
       "context": "In explanation of the hindrance pair thīna-middha",
@@ -61,10 +61,10 @@
   "version_notes": "Promoted from a stub to a major entry clarifying its role inside the thīna-middha hindrance pair.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current middha policy."
     }
   ],
   "translation_policy": {

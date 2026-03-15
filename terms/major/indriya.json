@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A governing faculty or operative capacity within practice or experience.",
-  "notes": "The project prefers faculty because it is compact and fits the standard doctrinal frameworks such as the five faculties. Capacity remains acceptable in explanatory prose when faculty would sound too technical or institutional.",
+  "notes": "The project prefers faculty because it is compact and fits the standard doctrinal frameworks such as the five faculties. Capacity remains acceptable in explanatory prose when faculty would sound too technical or institutional. The OSF glossary supports this by treating indriya as an operative faculty or governing capacity rather than narrowing it to sense-organ language.",
   "context_rules": [
     {
       "context": "In the five faculties and related doctrinal frameworks",
@@ -59,10 +59,10 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current indriya policy."
     }
   ],
   "translation_policy": {

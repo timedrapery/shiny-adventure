@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A factor cultivated and balanced in the process of awakening, classically enumerated as seven.",
-  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way.",
+  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way. The OSF glossary likewise treats bojjhaṅga as a practical cultivation framework rather than a static label, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -83,10 +83,10 @@
   "version_notes": "Expanded to make the seven-factor framework explicit and to encode its practical cultivation role rather than leaving the entry as a thin label.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current bojjhaṅga policy."
     }
   ],
   "translation_policy": {

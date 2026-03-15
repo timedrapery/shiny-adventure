@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Agitated remorse or worry about what has been done or left undone, especially as it disturbs steadiness of mind.",
-  "notes": "The project keeps remorse as the default because it fits the practical function of the term within uddhacca-kukkucca. Anxious regret can help when the troubled, looping quality needs to be heard more clearly. Guilt is discouraged because it imports a moral-identity frame that is not necessary to the Pali term. In practice kukkucca is not wholesome reflection but the unsettled churning that prevents collectedness.",
+  "notes": "The project keeps remorse as the default because it fits the practical function of the term within uddhacca-kukkucca. Anxious regret can help when the troubled, looping quality needs to be heard more clearly. Guilt is discouraged because it imports a moral-identity frame that is not necessary to the Pali term. In practice kukkucca is not wholesome reflection but the unsettled churning that prevents collectedness. The OSF glossary supports this by treating kukkucca as disturbing remorse rather than healthy conscience, which supports the current handling.",
   "context_rules": [
     {
       "context": "In the hindrance compound uddhacca-kukkucca",
@@ -62,10 +62,10 @@
   "version_notes": "Promoted from a stub to a major entry governing remorse language within the hindrance compound.",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "scope": "Named in notes as support for the current kukkucca policy."
     }
   ],
   "translation_policy": {
