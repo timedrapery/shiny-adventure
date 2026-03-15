@@ -13,8 +13,10 @@ from pathlib import Path
 
 try:
     from scripts.text_utils import normalize_term
+    from scripts.term_store import iter_term_files
 except ModuleNotFoundError:
     from text_utils import normalize_term
+    from term_store import iter_term_files
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -134,7 +136,7 @@ def load_lexicon_index() -> dict[str, object]:
     doctrinal_terms: set[str] = set()
     major_terms: set[str] = set()
 
-    for path in sorted(TERMS_DIR.glob("*.json")):
+    for path in iter_term_files(TERMS_DIR):
         data = load_json(path)
         if not isinstance(data, dict):
             continue

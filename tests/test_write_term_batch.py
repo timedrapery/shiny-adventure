@@ -55,7 +55,7 @@ class WriteTermBatchTests(unittest.TestCase):
                         result = write_term_batch.main()
 
             self.assertEqual(result, 0)
-            output_path = output_dir / "sangha.json"
+            output_path = output_dir / "minor" / "sangha.json"
             self.assertTrue(output_path.exists())
             contents = output_path.read_text(encoding="utf-8")
             self.assertIn("sa\u1e45gha", contents)
@@ -89,6 +89,7 @@ class WriteTermBatchTests(unittest.TestCase):
 
             self.assertEqual(result, 1)
             self.assertFalse((output_dir / "sangha.json").exists())
+            self.assertFalse((output_dir / "minor" / "sangha.json").exists())
 
     def test_main_rejects_lint_invalid_batch(self) -> None:
         record = {
@@ -119,6 +120,7 @@ class WriteTermBatchTests(unittest.TestCase):
 
             self.assertEqual(result, 1)
             self.assertFalse((output_dir / "nibbana.json").exists())
+            self.assertFalse((output_dir / "minor" / "nibbana.json").exists())
 
 
 if __name__ == "__main__":

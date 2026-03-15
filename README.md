@@ -139,7 +139,9 @@ For the highest-risk doctrinal anchors, the entry should also make explicit:
 
 ```text
 shiny-adventure/
-|- terms/    JSON term records, one file per headword
+|- terms/
+|  |- major/ JSON rule-bearing term records
+|  `- minor/ JSON lighter reference term records
 |- schema/   JSON schema for term records
 |- docs/     editorial policy and contributor reference material
 |- scripts/  validation, lint, and batch-authoring utilities

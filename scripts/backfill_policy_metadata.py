@@ -8,6 +8,11 @@ import json
 import sys
 from pathlib import Path
 
+try:
+    from scripts.term_store import iter_term_files
+except ModuleNotFoundError:
+    from term_store import iter_term_files
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
@@ -130,7 +135,7 @@ def main() -> int:
         return 1
 
     changed_paths: list[Path] = []
-    for path in sorted(TERMS_DIR.glob("*.json")):
+    for path in iter_term_files(TERMS_DIR):
         data = load_json(path)
         if not isinstance(data, dict):
             continue

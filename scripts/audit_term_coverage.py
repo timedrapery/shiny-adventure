@@ -11,8 +11,10 @@ from pathlib import Path
 
 try:
     from scripts.text_utils import normalize_term, safe_text
+    from scripts.term_store import iter_term_files
 except ModuleNotFoundError:
     from text_utils import normalize_term, safe_text
+    from term_store import iter_term_files
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -157,7 +159,7 @@ def load_json(path: Path) -> object:
 
 def load_terms() -> dict[str, dict[str, object]]:
     terms: dict[str, dict[str, object]] = {}
-    for path in sorted(TERMS_DIR.glob("*.json")):
+    for path in iter_term_files(TERMS_DIR):
         data = load_json(path)
         if isinstance(data, dict):
             terms[normalize_term(path.stem)] = data

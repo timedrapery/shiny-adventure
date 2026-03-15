@@ -8,6 +8,11 @@ import json
 import sys
 from pathlib import Path
 
+try:
+    from scripts.term_store import iter_term_files
+except ModuleNotFoundError:
+    from term_store import iter_term_files
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
@@ -57,7 +62,7 @@ def select_targets(
 ) -> list[Path]:
     requested = {term.strip() for term in requested_terms if term.strip()}
     targets: list[Path] = []
-    for path in sorted(TERMS_DIR.glob("*.json")):
+    for path in iter_term_files(TERMS_DIR):
         data = load_json(path)
         if not isinstance(data, dict) or data.get("entry_type") != "major":
             continue

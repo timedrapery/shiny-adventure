@@ -13,9 +13,11 @@ from pathlib import Path
 
 try:
     from scripts.text_utils import normalize_term, safe_text
+    from scripts.term_store import iter_term_files
     from scripts.validate_terms import collect_validation_failures
 except ModuleNotFoundError:
     from text_utils import normalize_term, safe_text
+    from term_store import iter_term_files
     from validate_terms import collect_validation_failures
 
 
@@ -76,7 +78,7 @@ def load_json(path: Path) -> object:
 
 def load_term_records(terms_dir: Path = TERMS_DIR) -> list[TermRecord]:
     records: list[TermRecord] = []
-    for path in sorted(terms_dir.glob("*.json")):
+    for path in iter_term_files(terms_dir):
         data = load_json(path)
         if isinstance(data, dict):
             records.append(TermRecord(path=path, stem=path.stem, data=data))

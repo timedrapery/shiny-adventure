@@ -15,6 +15,11 @@ except ImportError:
     print("Install it with: python -m pip install jsonschema")
     sys.exit(1)
 
+try:
+    from scripts.term_store import iter_term_files
+except ModuleNotFoundError:
+    from term_store import iter_term_files
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schema" / "PALI_TERM_SCHEMA.json"
@@ -33,7 +38,7 @@ def collect_validation_failures(terms_dir: Path) -> list[str]:
     normalized_index: dict[str, list[str]] = defaultdict(list)
     term_index: dict[str, list[str]] = defaultdict(list)
 
-    term_files = sorted(terms_dir.glob("*.json"))
+    term_files = iter_term_files(terms_dir)
     for term_file in term_files:
         try:
             data = load_json(term_file)
@@ -85,7 +90,7 @@ def main() -> int:
         print(f"ERROR: Terms directory not found: {TERMS_DIR}")
         return 1
 
-    term_files = sorted(TERMS_DIR.glob("*.json"))
+    term_files = iter_term_files(TERMS_DIR)
     if not term_files:
         print("WARNING: No term files found in terms/")
         return 0

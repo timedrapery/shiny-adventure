@@ -99,7 +99,7 @@ When working on an entry:
 
 1. Read the translation preference in `STYLE_GUIDE.md`.
 2. Confirm field meaning in `docs/DATA_DICTIONARY.md`.
-3. Draft or revise the entry in `terms/`.
+3. Draft or revise the entry in `terms/major/` or `terms/minor/` according to `entry_type`.
 4. Choose tags and status from `docs/TAG_STATUS_VOCABULARY.md`.
 5. Validate the file before committing.
 
@@ -111,10 +111,10 @@ Files must use **ASCII filenames**.
 
 Example file paths:
 
-    terms/sati.json
-    terms/dukkha.json
-    terms/jhana.json
-    terms/paticcasamuppada.json
+    terms/major/sati.json
+    terms/major/dukkha.json
+    terms/major/jhana.json
+    terms/major/paticcasamuppada.json
 
 Inside the record, the Pāli term should retain diacritics.
 
