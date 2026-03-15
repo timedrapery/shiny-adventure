@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing what is internal, inward, or within the body-mind side of a contemplated field.",
-  "notes": "The project prefers internal as the default because it is plain and stable across satipaṭṭhāna, sense-field, and comparative frameworks. Inner can work when a more natural English line is needed, but the term should not be psychologized into merely subjective experience. In internal/external pairs, the contrast is structural and contemplative, not a claim about private versus objective reality.",
+  "notes": "The project prefers internal as the default because it is plain and stable across satipaṭṭhāna, sense-field, and comparative frameworks. Inner can work when a more natural English line is needed, but the term should not be psychologized into merely subjective experience. In internal/external pairs, the contrast is structural and contemplative, not a claim about private versus objective reality. The OSF glossary confirms internal as the house default and preserves inner and within as explanatory alternates.",
   "context_rules": [
     {
       "context": "In satipaṭṭhāna and contemplative internal/external pairings",
@@ -45,7 +45,8 @@
     {
       "pali": "ajjhatta",
       "translation": "internal",
-      "notes": "Compact headword use in paired analysis."
+      "notes": "Compact headword use in paired analysis.",
+      "source": "SN 35.26"
     }
   ],
   "sutta_references": [
@@ -60,10 +61,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "compound-policy",
-      "scope": "Supports stable house handling of internal/external contemplative pairings."
+      "scope": "Supports stable house handling of internal/external contemplative pairings with internal as the default form."
     }
   ],
   "translation_policy": {

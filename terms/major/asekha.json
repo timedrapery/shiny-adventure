@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One beyond training, classically the arahant who has completed the path.",
-  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase. In practice the term points to completed training, so it belongs closely with arahant and release language rather than with general maturity or expertise.",
+  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase. In practice the term points to completed training, so it belongs closely with arahant and release language rather than with general maturity or expertise. The OSF glossary confirms beyond training as the house default and preserves fully trained as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -42,7 +42,8 @@
     {
       "pali": "asekho",
       "translation": "one beyond training",
-      "notes": "Simple classificatory usage."
+      "notes": "Simple classificatory usage.",
+      "source": "MN 53"
     },
     {
       "pali": "asekhā sīlasamādhipaññā",
@@ -62,10 +63,10 @@
   "status": "stable",
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Current house policy is preserved from the existing rule-bearing entry; source-specific provenance still needs refinement."
+      "kind": "gloss",
+      "scope": "Supports keeping beyond training as the house default for completed-path classification, with fully trained retained as an explanatory alternate."
     }
   ],
   "translation_policy": {

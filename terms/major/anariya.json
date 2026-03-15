@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing what falls outside the noble path or lacks the quality marked by ariya.",
-  "notes": "The project keeps not noble as the default because it preserves the lexical relation to ariya without importing heavy later religious language. Ordinary can work when the passage is contrasting noble and ordinary ways of seeking or responding, but the term should not be flattened into merely secular or profane. It often carries path and evaluative force rather than simple social description.",
+  "notes": "The project keeps not noble as the default because it preserves the lexical relation to ariya without importing heavy later religious language. Ordinary can work when the passage is contrasting noble and ordinary ways of seeking or responding, but the term should not be flattened into merely secular or profane. It often carries path and evaluative force rather than simple social description. The OSF glossary confirms not noble as the house default and preserves ordinary as a contextual alternate.",
   "context_rules": [
     {
       "context": "In direct contrast to ariya in doctrinal and path language",
@@ -45,7 +45,8 @@
     {
       "pali": "anariya",
       "translation": "not noble",
-      "notes": "Compact headword use in contrastive explanation."
+      "notes": "Compact headword use in contrastive explanation.",
+      "source": "MN 26"
     }
   ],
   "sutta_references": [
@@ -59,10 +60,10 @@
   ],
   "authority_basis": [
     {
-      "source": "Repository editorial record",
+      "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "preferred-translation",
-      "scope": "Supports preserving lexical contrast with ariya rather than importing heavier religious language."
+      "scope": "Supports preserving lexical contrast with ariya by keeping not noble as default and ordinary as contextual alternate."
     }
   ],
   "translation_policy": {
