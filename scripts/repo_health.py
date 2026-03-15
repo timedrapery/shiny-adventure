@@ -10,15 +10,39 @@ from collections import Counter, defaultdict
 from pathlib import Path
 
 try:
+    from scripts.text_utils import normalize_term
     from scripts.text_utils import safe_text
     from scripts.term_store import iter_term_files
 except ModuleNotFoundError:
+    from text_utils import normalize_term
     from text_utils import safe_text
     from term_store import iter_term_files
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
+
+
+def stem_key(value: str) -> str:
+    return value.replace("-", "_").casefold()
+
+
+def related_term_keys(data: dict[str, object]) -> set[str]:
+    related = data.get("related_terms")
+    if not isinstance(related, list):
+        return set()
+    return {normalize_term(item) for item in related if isinstance(item, str)}
+
+
+def has_explicit_preferred_disambiguation(
+    grouped: list[tuple[str, dict[str, object]]],
+) -> bool:
+    if len(grouped) < 2:
+        return False
+
+    keys = {stem_key(stem): related_term_keys(data) for stem, data in grouped}
+    stems = set(keys)
+    return all(any(other in keys[stem] for other in stems - {stem}) for stem in stems)
 
 
 def load_json(path: Path) -> object:
@@ -131,18 +155,23 @@ def collect_example_source_gap_tags(
 def collect_preferred_translation_collisions(
     terms: dict[str, dict[str, object]]
 ) -> list[dict[str, object]]:
-    collisions: defaultdict[str, list[str]] = defaultdict(list)
+    collisions: defaultdict[str, list[tuple[str, dict[str, object]]]] = defaultdict(list)
     for stem, data in sorted(terms.items()):
         if data.get("entry_type") != "major":
             continue
         preferred = data.get("preferred_translation")
         if isinstance(preferred, str) and preferred.strip():
-            collisions[preferred].append(stem)
+            collisions[preferred].append((stem, data))
 
     results = []
-    for preferred, stems in sorted(collisions.items()):
-        if len(stems) > 1:
-            results.append({"preferred_translation": preferred, "terms": stems})
+    for preferred, grouped in sorted(collisions.items()):
+        if len(grouped) > 1 and not has_explicit_preferred_disambiguation(grouped):
+            results.append(
+                {
+                    "preferred_translation": preferred,
+                    "terms": sorted(stem for stem, _data in grouped),
+                }
+            )
     results.sort(key=lambda item: (-len(item["terms"]), item["preferred_translation"]))
     return results
 

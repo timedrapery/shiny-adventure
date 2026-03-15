@@ -421,6 +421,7 @@ def check_headword_normalization(records: list[TermRecord], findings: list[Findi
     for record in records:
         term = record.data.get("term")
         normalized_term = record.data.get("normalized_term")
+        part_of_speech = record.data.get("part_of_speech")
         if not isinstance(term, str) or not isinstance(normalized_term, str):
             continue
 
@@ -436,7 +437,10 @@ def check_headword_normalization(records: list[TermRecord], findings: list[Findi
                 path=record.path,
             )
 
-        if canonical_key(term).replace("_", "") != normalized_stem_key(normalized_term):
+        if (
+            part_of_speech != "compound"
+            and canonical_key(term).replace("_", "") != normalized_stem_key(normalized_term)
+        ):
             add_finding(
                 findings,
                 "warning",

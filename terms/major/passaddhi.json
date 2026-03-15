@@ -4,27 +4,27 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "calming, settling",
-  "preferred_translation": "settling",
+  "preferred_translation": "relaxation",
   "alternative_translations": [
+    "settling",
     "calming",
-    "tranquility",
-    "relaxation"
+    "tranquility"
   ],
   "discouraged_translations": [
-    "relaxation"
+    "calmness"
   ],
   "untranslated_preferred": false,
   "definition": "The settling and calming of bodily and mental activity that supports composure.",
-  "notes": "The project prefers settling because it keeps the term dynamic and closely aligned with practice process rather than making it sound like a static mood. Calming and tranquility remain acceptable when the English line benefits from those shades. Ven. Dr. M. Punnaji often uses relaxation in practice explanation; the repository records that as a source-backed alternate while retaining settling as the house default.",
+  "notes": "The project prefers relaxation because it is the clearest practical English for the easing of bodily and mental activity named by passaddhi. Settling remains acceptable when the process sense should stay audible, and tranquility remains acceptable when the line needs a slightly more formal noun. Ven. Dr. M. Punnaji's practical usage supports keeping relaxation as the house default rather than forcing a more technical-sounding rendering in ordinary practice prose.",
   "context_rules": [
     {
       "context": "In practical and awakening-factor contexts",
-      "rendering": "settling",
+      "rendering": "relaxation",
       "notes": "Default project rendering."
     },
     {
       "context": "In prose emphasizing the active calming movement",
-      "rendering": "calming",
+      "rendering": "settling",
       "notes": "Acceptable alternate when the processual sense should be explicit."
     },
     {
@@ -33,9 +33,9 @@
       "notes": "Use selectively because it can sound more static than the project default."
     },
     {
-      "context": "In Punnaji-style pedagogical prose emphasizing bodily and mental calming",
-      "rendering": "relaxation",
-      "notes": "Source-backed alternate, not the house default."
+      "context": "In lines that foreground the calming action rather than the resulting ease",
+      "rendering": "calming",
+      "notes": "Use selectively when the verbal movement matters more than the relaxed condition."
     }
   ],
   "related_terms": [
@@ -50,13 +50,13 @@
   "example_phrases": [
     {
       "pali": "pīti passaddhi",
-      "translation": "delight leads into settling",
-      "notes": "Existing project usage already points toward this rendering.",
+      "translation": "delight leads into relaxation",
+      "notes": "Shows the preferred practical rendering in sequence.",
       "source": "SN 12.23"
     },
     {
       "pali": "passaddhisambojjhaṅga",
-      "translation": "the settling awakening factor",
+      "translation": "the relaxation awakening factor",
       "notes": "Shows the term in the awakening-factor framework.",
       "source": "SN 46.1"
     }
@@ -80,9 +80,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'settling' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'relaxation' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'relaxation' or other unrecorded alternates."
+    "drift_risk": "Prevents drift away from the house default 'relaxation' toward more abstract or technical-sounding alternates without a recorded contextual reason."
   }
 }

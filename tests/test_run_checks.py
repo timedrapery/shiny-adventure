@@ -22,6 +22,10 @@ class RunChecksTests(unittest.TestCase):
 
         self.assertEqual(result, 0)
         self.assertEqual(run_mock.call_count, len(run_checks.CHECKS))
+        self.assertIn(
+            [sys.executable, "scripts/check_translation_drift.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
         self.assertIn("All checks passed.", output.getvalue())
 
     def test_main_stops_on_first_failure(self) -> None:
