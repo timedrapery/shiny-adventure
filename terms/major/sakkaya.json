@@ -10,43 +10,55 @@
     "identity-body"
   ],
   "discouraged_translations": [
+    "self",
     "personality",
     "ego"
   ],
   "untranslated_preferred": false,
   "definition": "The appropriated identity built around the five clung-to heaps and taken as self or as belonging to self.",
-  "notes": "The project keeps identity as the default because it is clear, compact, and keeps the practical force of self-identification in view without importing modern ego theory. Personal identity remains an acceptable alternate when English needs a fuller phrase, while identity-body is kept only for source-facing explanation of the compound. In canonical heap analysis sakkāya is not an independently existing soul or person behind the heaps; it names the appropriated identity built around the five clung-to heaps. This means translators should keep the term closely aligned with pañcupādānakkhandhā, upādāna, attā, anattā, and sakkāya-diṭṭhi. The OSF glossary supports identity-language here, and SN 22.105 gives the crucial governing formulation that identifies sakkāya with the five clung-to heaps.",
+  "notes": "The project keeps identity as the primary default because it is compact, technical enough for doctrinal passages, and less misleading than personality, self, or ego. Personal identity remains the controlled explanatory alternate when English needs a fuller phrase, especially for general-audience prose where bare identity may sound too abstract. Identity-body is kept only for source-facing explanation of the compound. In canonical heap analysis sakkāya is not a hidden self behind the heaps; it names the appropriated identity built around the five clung-to heaps. This means translators should keep the term closely aligned with pañcupādānakkhandhā, upādāna, attā, anattā, and sakkāya-diṭṭhi. The OSF glossary supports identity-language here, and SN 22.105 gives the crucial governing formulation that identifies sakkāya with the five clung-to heaps. The main drift risk is flattening sakkāya into generic self-language or psychologized personality-language and thereby losing its specific relation to appropriated identity.",
   "context_rules": [
     {
-      "context": "In direct doctrinal contexts such as sakkāya-diṭṭhi and analysis of appropriation",
+      "context": "In technical doctrinal contexts such as sakkāya-diṭṭhi, fetter analysis, and direct heap analysis",
       "rendering": "identity",
       "notes": "Default project rendering."
     },
     {
-      "context": "When English needs a fuller phrase to avoid sounding too abstract",
+      "context": "In formulaic contexts such as katamo ca, bhikkhave, sakkāyo? pañcupādānakkhandhā",
+      "rendering": "identity",
+      "notes": "Keep the technical default so the formula stays compact and tightly linked to the five clung-to heaps."
+    },
+    {
+      "context": "In explanatory prose where plain identity may sound too abstract",
       "rendering": "personal identity",
-      "notes": "Acceptable alternate when the self-identifying force needs to be explicit."
+      "notes": "Allowed alternate for clarification."
+    },
+    {
+      "context": "In general-audience translation where the personalizing force needs to be audible without collapsing into self",
+      "rendering": "personal identity",
+      "notes": "Use selectively rather than turning it into the new unstated default in technical passages."
     },
     {
       "context": "In source-facing explanation of the compound's literal force",
       "rendering": "identity-body",
       "notes": "Use sparingly in notes, not as the project default in running translation."
-    },
-    {
-      "context": "In the canonical definition katamo ca, bhikkhave, sakkāyo",
-      "rendering": "identity",
-      "notes": "Keep the term tightly linked to the five clung-to heaps rather than treating it as a vague notion of personality."
     }
   ],
   "related_terms": [
     "anatta",
+    "asmimana",
     "atta",
     "attavadupadana",
     "ditthi",
+    "ditthupadana",
     "khandha",
+    "mana",
     "pancupadanakkhandha",
     "sakkaya-ditthi",
-    "upadana"
+    "sakkayassa-nirodho",
+    "sakkayassa-samudayo",
+    "upadana",
+    "upadanakkhandha"
   ],
   "example_phrases": [
     {
@@ -77,27 +89,28 @@
     "aggregates",
     "core-doctrine",
     "self-view",
-    "translation-sensitive"
+    "translation-sensitive",
+    "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Added as a new major entry to stabilize identity-language around the five clung-to heaps and to support sakkāya-diṭṭhi translation policy.",
+  "version_notes": "Expanded with an explicit technical-versus-explanatory rule matrix and tighter alignment to the identity-construction cluster.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports identity-language rather than personality or ego language."
+      "scope": "Supports identity-language rather than personality, self, or ego language."
     },
     {
       "source": "SN 22.105",
       "kind": "context-rule",
-      "scope": "Supports the direct equation of sakkāya with the five clung-to heaps and governs the relation to appropriation and quenching."
+      "scope": "Supports the direct equation of sakkāya with the five clung-to heaps and governs its relation to appropriation, arising, and quenching."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'identity' as the default rendering in the heap-family and self-view contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not replace the term with 'personality' or 'ego' by habit, and do not treat it as a metaphysical self behind the heaps.",
+    "default_scope": "Use 'identity' as the default rendering in technical and formulaic heap-family contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'personal identity' in explanatory or general-audience prose only when the fuller phrase improves clarity without flattening sakkāya into generic self-language. Do not replace the term with 'self', 'personality', or 'ego' by habit.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between sakkāya, pañcupādānakkhandhā, and sakkāya-diṭṭhi by keeping the term anchored in appropriated heap-analysis."
+    "drift_risk": "Prevents drift between sakkāya, pañcupādānakkhandhā, sakkāya-diṭṭhi, and broader self-language by keeping the term anchored in appropriated identity."
   }
 }

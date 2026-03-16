@@ -6,14 +6,16 @@
   "literal_meaning": "measuring, conceit",
   "preferred_translation": "conceit",
   "alternative_translations": [
-    "measuring"
+    "measuring",
+    "comparative conceit"
   ],
   "discouraged_translations": [
-    "pride"
+    "pride",
+    "arrogance"
   ],
   "untranslated_preferred": false,
   "definition": "Conceit, especially the measuring movement of comparing oneself with others or with imagined standards.",
-  "notes": "The project prefers conceit because it is the standard doctrinal rendering and keeps the term broader than ordinary pride. Measuring is useful in explanatory prose when the comparative function of māna needs to be made explicit rather than merely named. The OSF glossary strongly emphasizes comparison and hierarchy in explaining māna; the repository records that as source-backed explanatory framing.",
+  "notes": "The project keeps conceit as the default because it is the clearest concise doctrinal rendering and remains broader than ordinary pride. Measuring is the key explanatory alternate when the comparative function of māna needs to be made explicit rather than merely named, and comparative conceit is useful when English needs both the technical label and the functional explanation. The term should not be flattened into simple arrogance, because māna includes being better than, worse than, or equal to others; the problem is the measuring movement itself. It also needs to stay distinct from diṭṭhi, which concerns held views, and from asmimāna, which is the residual conceit 'I am' rather than the whole measuring family. The OSF glossary emphasizes comparison and hierarchy in explaining māna, and SN 22.89 supports the close relation between māna, mānānusaya, and asmimāna.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -23,22 +25,31 @@
     {
       "context": "In explanatory prose emphasizing comparative self-measuring",
       "rendering": "measuring",
-      "notes": "Acceptable alternate."
+      "notes": "Acceptable alternate when the functional movement is more important than the standard doctrinal label."
+    },
+    {
+      "context": "When English needs to keep both the doctrinal label and the comparative force audible",
+      "rendering": "comparative conceit",
+      "notes": "Use selectively in translator-facing explanation."
     }
   ],
   "related_terms": [
     "asava",
-    "āsava",
+    "asmimana",
+    "attavadupadana",
+    "ditthi",
+    "ditthupadana",
     "issa",
-    "issā",
     "macchariya",
-    "samyojana",
-    "saṃyojana"
+    "mana-anusaya",
+    "sakkaya",
+    "sakkaya-ditthi",
+    "samyojana"
   ],
   "example_phrases": [
     {
       "pali": "asmimāna",
-      "translation": "the conceit 'I am'",
+      "translation": "conceit 'I am'",
       "notes": "Important doctrinal sub-form of māna.",
       "source": "SN 22.89"
     },
@@ -54,21 +65,28 @@
   ],
   "tags": [
     "mental-qualities",
-    "core-doctrine"
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Named in notes as support for the current māna policy."
+      "kind": "gloss",
+      "scope": "Supports conceit as the default while preserving comparison and measuring as the key explanatory logic."
+    },
+    {
+      "source": "SN 22.89",
+      "kind": "context-rule",
+      "scope": "Supports the close relation between māna, asmimāna, and mānānusaya."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'conceit' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'conceit' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'measuring' or 'comparative conceit' only when the explanatory context needs the comparing function made explicit. Do not flatten māna into pride or arrogance.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'pride' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between conceit as comparative measuring, ordinary pride-language, and the narrower sub-form asmimāna."
   }
 }

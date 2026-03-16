@@ -1,0 +1,50 @@
+{
+  "term": "sakkāyassa samudayo",
+  "normalized_term": "sakkayassa-samudayo",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "the arising of identity",
+  "preferred_translation": "the arising of identity",
+  "alternative_translations": [
+    "the arising of personal identity"
+  ],
+  "discouraged_translations": [
+    "the arising of self"
+  ],
+  "definition": "Formula-level expression for the arising side of sakkāya understood through the five clung-to heaps.",
+  "notes": "Use this phrase when the text explicitly treats appropriated identity dynamically. The formula inherits the technical sakkāya default identity and should not be flattened into self-language. The personal identity alternate is allowed only when explanatory prose needs the fuller phrase.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the formula",
+      "rendering": "the arising of identity",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a fuller phrase is needed",
+      "rendering": "the arising of personal identity",
+      "notes": "Allowed alternate for clarification."
+    }
+  ],
+  "related_terms": [
+    "pancupadanakkhandha",
+    "sakkaya",
+    "samudaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sakkāyassa samudayo",
+      "translation": "the arising of identity",
+      "notes": "Formula line tied to the five clung-to heaps by the governing sakkāya entry.",
+      "source": "SN 22.105"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.105"
+  ],
+  "tags": [
+    "aggregates",
+    "formula",
+    "self-view"
+  ],
+  "status": "stable"
+}

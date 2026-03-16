@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The view that takes the heaps, or something among them, as self, as belonging to self, or as a real personal identity.",
-  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five clung-to heaps, and therefore as directly tied to sakkāya, upādāna, attā, anattā, and the first breakthrough of a stream-enterer. The OSF glossary confirms identity view as the house default and preserves personality view as the comparative alternate. SN 22.89 and the wider heap formulas support keeping the term tied to appropriation of the heaps rather than to a vague modern sense of personality.",
+  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five clung-to heaps, and therefore as directly tied to sakkāya, upādāna, attā, anattā, and the first breakthrough of a stream-enterer. The OSF glossary confirms identity view as the house default and preserves personality view as the comparative alternate. SN 22.89 and the wider heap formulas support keeping the term tied to appropriation of the heaps rather than to a vague modern sense of personality. It should also stay distinct from asmimāna: sakkāya-diṭṭhi is a view, while asmimāna is the residual conceit 'I am'.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -39,11 +39,13 @@
   ],
   "related_terms": [
     "anatta",
+    "asmimana",
     "atta",
     "attavadupadana",
     "ditthi",
     "ditthupadana",
     "khandha",
+    "mana",
     "pancupadanakkhandha",
     "sakkaya",
     "samyojana",
@@ -101,8 +103,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'identity view' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not replace the term with 'ego' or let it drift into vague personality-language untethered from appropriation of the heaps.",
+    "when_not_to_apply": "Do not replace the term with 'ego' or let it drift into vague personality-language untethered from appropriation of the heaps, and do not collapse it into the distinct conceit-language of māna and asmimāna.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between sakkāya-diṭṭhi, sakkāya, and the five clung-to heaps."
+    "drift_risk": "Prevents drift between sakkāya-diṭṭhi, sakkāya, the five clung-to heaps, and the distinct conceit family."
   }
 }

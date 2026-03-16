@@ -1,0 +1,65 @@
+{
+  "term": "upādānakkhandha",
+  "normalized_term": "upadanakkhandha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "clung-to heap",
+  "preferred_translation": "clung-to heap",
+  "alternative_translations": [
+    "heap taken personally",
+    "appropriated heap"
+  ],
+  "discouraged_translations": [
+    "heap of attachment"
+  ],
+  "definition": "A heap insofar as it is appropriated or taken personally; the singular compound behind the collective pañcupādānakkhandhā.",
+  "notes": "This compound follows the same fixed-family override as pañcupādānakkhandhā. The project keeps clung-to heap as the default because it is compact and aligns with the stabilized whole-expression policy. Heap taken personally remains the best explanatory alternate when the appropriative force itself needs to be spelled out more explicitly. Do not mechanically recombine the headword defaults of upādāna and khandha in ad hoc ways. SN 22.22 supports this constituent clung-to-heap usage directly.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the compound",
+      "rendering": "clung-to heap",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When explanatory prose needs the appropriative force made more explicit",
+      "rendering": "heap taken personally",
+      "notes": "Allowed alternate for explanation."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancupadanakkhandha",
+    "sakkaya",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūpupādānakkhandho",
+      "translation": "the form clung-to heap",
+      "notes": "Shows the singular compound in constituent heap analysis.",
+      "source": "SN 22.22"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.22"
+  ],
+  "tags": [
+    "aggregates",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Added to stabilize the singular compound behind the five clung-to heaps family.",
+  "authority_basis": [
+    {
+      "source": "SN 22.22",
+      "kind": "compound-policy",
+      "scope": "Supports the singular clung-to-heap compound within constituent heap analysis."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'clung-to heap' as the default rendering for the singular compound unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not drift into heap of attachment language, and do not mechanically carry the headword default of upādāna into the compound.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents fragmentation between upādāna, upādānakkhandha, and pañcupādānakkhandhā."
+  }
+}

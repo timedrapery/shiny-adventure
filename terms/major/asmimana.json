@@ -1,0 +1,94 @@
+{
+  "term": "asmimāna",
+  "normalized_term": "asmimana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "conceit 'I am'",
+  "preferred_translation": "conceit 'I am'",
+  "alternative_translations": [
+    "the conceit 'I am'",
+    "I-am conceit"
+  ],
+  "discouraged_translations": [
+    "ego",
+    "self-esteem",
+    "identity"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The residual conceit or self-sense expressed as 'I am', even when explicit self-doctrine has weakened.",
+  "notes": "The project keeps conceit 'I am' as the default because it preserves both the doctrinal connection to māna and the specific residue named by the compound. The conceit 'I am' and I-am conceit remain acceptable alternates when English needs a smoother sentence shape. This term must stay distinct from sakkāya-diṭṭhi, which is a view, and from attavādupādāna, which is appropriation of self-doctrine. It also needs to stay distinct from sakkāya, which names appropriated identity more broadly. The point here is not a worked-out theory of self, nor generic pop-psych ego, but the lingering reflex of 'I am'. The OSF glossary supports keeping the term inside the māna family, and SN 22.89 supports its role as a residue still to be abandoned even when gross self-view has already weakened.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal contexts naming the specific residue of self-conceiving",
+      "rendering": "conceit 'I am'",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where English needs a more natural sentence shape",
+      "rendering": "the conceit 'I am'",
+      "notes": "Allowed alternate when the article improves readability."
+    },
+    {
+      "context": "In compact analytical prose naming the compound as a doctrinal label",
+      "rendering": "I-am conceit",
+      "notes": "Allowed alternate for compression, not the default."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "atta",
+    "attavadupadana",
+    "ditthi",
+    "ditthupadana",
+    "mana",
+    "mana-anusaya",
+    "sakkaya",
+    "sakkaya-ditthi"
+    ,
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asmimāna",
+      "translation": "conceit 'I am'",
+      "notes": "Important doctrinal residue named explicitly in the discourse on the heaps.",
+      "source": "SN 22.89"
+    },
+    {
+      "pali": "mānānusayo",
+      "translation": "the underlying tendency toward conceit",
+      "notes": "Shows the wider māna family in which asmimāna belongs.",
+      "source": "SN 22.89"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.89"
+  ],
+  "tags": [
+    "mental-qualities",
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Added as a new major entry to distinguish residual 'I am' conceiving from view, self-doctrine, and broader appropriated identity.",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping asmimāna inside the māna family rather than flattening it into ego-language."
+    },
+    {
+      "source": "SN 22.89",
+      "kind": "context-rule",
+      "scope": "Supports the term's role as a residual conceit to be abandoned in the heap-family context."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'conceit 'I am'' as the default rendering in direct doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'the conceit 'I am'' or 'I-am conceit' only when English flow or compactness requires it. Do not flatten the term into ego, self-esteem, or generic identity.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents drift between residual self-conceiving, explicit self-view, broad identity-language, and ordinary pride-language."
+  }
+}

@@ -3,75 +3,99 @@
   "normalized_term": "ditthupadana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "clinging to views",
-  "preferred_translation": "clinging to views",
+  "literal_meaning": "taking views personally",
+  "preferred_translation": "taking views personally",
   "alternative_translations": [
-    "view-clinging",
-    "view appropriation"
+    "clinging to views",
+    "view appropriation",
+    "view-clinging"
   ],
   "discouraged_translations": [
-    "opinions"
+    "opinions",
+    "beliefs"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to views, doctrines, or fixed standpoints as possessions or identities.",
-  "notes": "The project keeps clinging to views as the default because it is direct and doctrinally clear. View-clinging is acceptable in compact analytical prose. The term belongs to the fourfold upādāna framework and should not be reduced to merely having opinions. The point is appropriative fixation on views. The OSF glossary supports this by treating diṭṭhupādāna as a specific clinging mode rather than as a casual reference to opinion-holding.",
+  "definition": "Appropriating views as something to hold, defend, or identify with; the view-member of the fourfold upādāna framework.",
+  "notes": "The project now keeps taking views personally as the default because it aligns the compound more tightly with the upādāna headword while preserving the practical point: not merely having views, but appropriating them into identity and insistence. Clinging to views remains the familiar comparative alternate and is still acceptable in source-facing or continuity-sensitive prose. View appropriation and view-clinging are controlled explanatory alternates. The term should not be reduced to merely having opinions. It belongs to the four clinging-types framework and should be heard as a stronger, more appropriative movement than plain diṭṭhi. It also needs to stay distinct from attavādupādāna: the latter narrows the content to self-doctrine, while diṭṭhupādāna can range more broadly across held views. The OSF glossary supports the appropriative reading of this compound, and MN 11 supports its place in the fourfold upādāna structure.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
-      "rendering": "clinging to views",
+      "rendering": "taking views personally",
       "notes": "Default project rendering."
     },
     {
-      "context": "In compressed doctrinal prose or list form",
-      "rendering": "view-clinging",
-      "notes": "Allowed alternate when brevity helps."
+      "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "clinging to views",
+      "notes": "Allowed alternate when continuity matters more than maximizing explicit alignment with the headword."
     },
     {
       "context": "In explanatory prose emphasizing the appropriating function of upādāna",
       "rendering": "view appropriation",
-      "notes": "Use when the repo's broader upādāna logic should remain explicit."
+      "notes": "Use when the repository's broader upādāna logic should remain explicit."
+    },
+    {
+      "context": "In compressed doctrinal prose or list form",
+      "rendering": "view-clinging",
+      "notes": "Allowed compact alternate, not the default."
     }
   ],
   "related_terms": [
-    "attavādupādāna",
-    "diṭṭhi",
-    "paṭiccasamuppāda",
+    "asmimana",
+    "attavadupadana",
+    "ditthi",
+    "ditthi-anusaya",
+    "mana",
+    "paticcasamuppada",
+    "sakkaya",
     "sakkaya-ditthi",
-    "taṇhā",
-    "upādāna",
-    "vicikicchā"
+    "tanha",
+    "upadana",
+    "vicikiccha"
   ],
   "example_phrases": [
     {
       "pali": "diṭṭhupādānaṃ",
-      "translation": "clinging to views",
+      "translation": "taking views personally",
       "notes": "One member of the fourfold set.",
+      "source": "MN 11"
+    },
+    {
+      "pali": "diṭṭhupādānaṃ pahāya",
+      "translation": "having abandoned taking views personally",
+      "notes": "Shows the term as something relinquished rather than merely possessed.",
       "source": "MN 11"
     }
   ],
   "sutta_references": [
     "MN 11",
-    "MN 9"
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive",
+    "self-view"
   ],
-  "status": "reviewed",
-  "version_notes": "Promoted from a stub to a major entry governing the view-based member of the four clinging types.",
+  "status": "stable",
+  "version_notes": "Retuned to align the compound more tightly with the upādāna family while preserving the familiar clinging alternate.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Named in notes as support for the current diṭṭhupādāna policy."
+      "kind": "gloss",
+      "scope": "Supports a strongly appropriative reading of the compound rather than reducing it to opinion-holding."
+    },
+    {
+      "source": "MN 11",
+      "kind": "compound-policy",
+      "scope": "Supports the term's role as one member of the fourfold upādāna framework."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'clinging to views' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'taking views personally' as the default rendering in the fourfold upādāna framework unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clinging to views' only when continuity-sensitive prose or source-facing expectations make it the clearer choice. Do not reduce the term to mere opinions or beliefs.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'opinions' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between plain view-language, upādāna-language, and the narrower self-doctrine compound."
   }
 }
