@@ -3,50 +3,67 @@
   "normalized_term": "attavadupadana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "clinging to self-doctrine",
-  "preferred_translation": "clinging to self-doctrine",
+  "literal_meaning": "taking self-doctrine personally",
+  "preferred_translation": "taking self-doctrine personally",
   "alternative_translations": [
-    "self-doctrine clinging",
-    "appropriating self-theories"
+    "clinging to self-doctrine",
+    "appropriating self-theories",
+    "self-doctrine clinging"
   ],
   "discouraged_translations": [
-    "self-esteem"
+    "self-esteem",
+    "self-image"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to doctrines, narratives, or theories of self as something to hold, defend, or identify with.",
-  "notes": "The project keeps clinging to self-doctrine as the default because it names the doctrinal function directly and preserves the relation to view and self-making. This term should be read closely with sakkāyadiṭṭhi, anattā, and upādāna. It belongs to the four clinging types and points to appropriation of self-accounts, not merely abstract philosophy. The OSF glossary supports this by treating attavādupādāna as a specific clinging mode tied to self-theory rather than to abstract speculation alone.",
+  "definition": "Appropriating doctrines, narratives, or theories of self as something to hold, defend, or identify with.",
+  "notes": "The project now keeps taking self-doctrine personally as the default because it aligns the compound with the upādāna headword while preserving the doctrinal specificity of self-theory. Clinging to self-doctrine remains the familiar comparative alternate and is still acceptable where continuity with established Buddhist-English usage matters. Appropriating self-theories and self-doctrine clinging remain controlled explanatory alternates. The term belongs to the fourfold upādāna framework and should not be blurred into generic self-concern, self-esteem, or pop-psych self-image language. It must also stay distinct from sakkāya, which names appropriated identity, and from asmimāna, which names the residual conceit 'I am' rather than an explicit self-doctrine. Compared with diṭṭhupādāna, this compound is narrower: the content being appropriated is specifically self-doctrine. The OSF glossary supports this specific appropriative reading, while MN 11 and SN 22.59 support its relation to self-view and not-self analysis.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
-      "rendering": "clinging to self-doctrine",
+      "rendering": "taking self-doctrine personally",
       "notes": "Default project rendering."
     },
     {
-      "context": "In compact doctrinal lists",
-      "rendering": "self-doctrine clinging",
-      "notes": "Allowed alternate when brevity is needed."
+      "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "clinging to self-doctrine",
+      "notes": "Allowed alternate when continuity matters more than maximizing explicit alignment with the headword."
     },
     {
-      "context": "In explanatory prose emphasizing appropriative holding of self-theories",
+      "context": "In explanatory prose emphasizing appropriation of self-theories",
       "rendering": "appropriating self-theories",
       "notes": "Use when the practical movement of upādāna should be made more explicit."
+    },
+    {
+      "context": "In compressed doctrinal lists",
+      "rendering": "self-doctrine clinging",
+      "notes": "Allowed compact alternate, not the default."
     }
   ],
   "related_terms": [
-    "anattā",
-    "attā",
-    "diṭṭhupādāna",
+    "anatta",
+    "asmimana",
+    "atta",
+    "ditthi",
+    "ditthupadana",
+    "mana",
+    "pancupadanakkhandha",
     "sakkaya",
     "sakkaya-ditthi",
-    "taṇhā",
-    "upādāna"
+    "tanha",
+    "upadana"
   ],
   "example_phrases": [
     {
       "pali": "attavādupādānaṃ",
-      "translation": "clinging to self-doctrine",
+      "translation": "taking self-doctrine personally",
       "notes": "One member of the fourfold set.",
       "source": "MN 11"
+    },
+    {
+      "pali": "na me so attā",
+      "translation": "this is not my self",
+      "notes": "Nearby not-self formula showing the kind of self-claim this compound resists.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
@@ -57,22 +74,28 @@
     "core-doctrine",
     "dependent-origination",
     "mental-qualities",
-    "translation-sensitive"
+    "translation-sensitive",
+    "self-view"
   ],
-  "status": "reviewed",
-  "version_notes": "Promoted from a stub to a major entry and tied to not-self, identity-view, and clinging analysis.",
+  "status": "stable",
+  "version_notes": "Retuned to align the compound more tightly with the upādāna headword and to distinguish it more sharply from sakkāya and asmimāna.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Named in notes as support for the current attavādupādāna policy."
+      "kind": "gloss",
+      "scope": "Supports a specific appropriative reading of self-doctrine rather than broader psychological self-language."
+    },
+    {
+      "source": "MN 11",
+      "kind": "compound-policy",
+      "scope": "Supports the term's role as one member of the fourfold upādāna framework."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'clinging to self-doctrine' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'taking self-doctrine personally' as the default rendering in the fourfold upādāna framework unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clinging to self-doctrine' only when continuity-sensitive prose makes it the clearer choice. Do not flatten the term into self-esteem, self-image, or generic self-concern.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'self-esteem' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between explicit self-doctrine, broader view-clinging, appropriated identity, and the residual conceit 'I am'."
   }
 }

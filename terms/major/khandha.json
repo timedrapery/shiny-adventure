@@ -58,6 +58,7 @@
     "sankhara",
     "sankharakkhandha",
     "upadana",
+    "upadanakkhandha",
     "vedana",
     "vedanakkhandha",
     "vinnana",
@@ -110,7 +111,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'heap' as the default rendering across the five-heaps family unless a recorded context rule or formula entry overrides it.",
-    "when_not_to_apply": "Do not switch to aggregate by habit in direct translation, and do not treat the fixed pañcupādānakkhandhā expression as a reason to weaken the base heap rule elsewhere.",
+    "when_not_to_apply": "Do not switch to aggregate by habit in direct translation, and do not treat the fixed upādānakkhandha or pañcupādānakkhandhā expressions as reasons to weaken the base heap rule elsewhere.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift back toward bundle, collection, or ungoverned aggregate language in the heaps family."
   }

@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Taking experience personally or ignorantly holding onto experience, views, habits, or identity.",
-  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. The OSF glossary's practical treatment of grasping and appropriation language supports preserving taking personally as the governed default in this family. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising and heap-related formulae unless a compound or formula entry records a narrower rule. One important heap-family override now needs to stay explicit: in the fixed doctrinal expression pañcupādānakkhandhā, the repository uses five clung-to heaps as the default whole-expression rendering, while five heaps taken personally remains the explanatory alternate when the appropriative force itself needs to be foregrounded. SN 22.22 supports this family through the constituent clung-to-heap compounds.",
+  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. The OSF glossary's practical treatment of grasping and appropriation language supports preserving taking personally as the governed default in this family. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising, view-clinging, and self-doctrine contexts unless a compound or formula entry records a narrower rule. The wider family now follows a clearer inheritance pattern: diṭṭhupādāna defaults to taking views personally, attavādupādāna defaults to taking self-doctrine personally, while the heap-family compounds upādānakkhandha and pañcupādānakkhandhā remain fixed-expression overrides governed as clung-to heap and five clung-to heaps. SN 22.22 supports this family through the constituent clung-to-heap compounds.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -49,12 +49,18 @@
       "notes": "The family should inherit the appropriative force of the headword unless a compound explicitly records a different emphasis."
     },
     {
+      "context": "In the singular heap compound upādānakkhandha",
+      "rendering": "clung-to",
+      "notes": "Use the fixed whole-compound default clung-to heap rather than mechanically recomposing the headword defaults."
+    },
+    {
       "context": "In the fixed expression pañcupādānakkhandhā",
       "rendering": "clung-to",
       "notes": "Use the whole-expression default five clung-to heaps unless the passage specifically needs the more explicit alternate five heaps taken personally."
     }
   ],
   "related_terms": [
+    "asmimana",
     "atta",
     "attavādupādāna",
     "bhava",
@@ -67,6 +73,7 @@
     "lobha",
     "nibbāna",
     "pancupadanakkhandha",
+    "upadanakkhandha",
     "paṭiccasamuppāda",
     "sakkaya",
     "sakkaya-ditthi",
@@ -125,8 +132,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'taking personally' as the default rendering in the entry's governed translation contexts unless a recorded context rule or fixed expression overrides it.",
-    "when_not_to_apply": "Do not mechanically carry the headword default into pañcupādānakkhandhā, where the whole expression is governed as five clung-to heaps.",
+    "when_not_to_apply": "Do not mechanically carry the headword default into upādānakkhandha or pañcupādānakkhandhā, where the whole compounds are governed as clung-to heap and five clung-to heaps.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between general appropriation language, dependent-arising usage, and the fixed clung-to-heaps expression."
+    "drift_risk": "Prevents drift between general appropriation language, the view and self-doctrine compounds, dependent-arising usage, and the fixed clung-to-heaps expressions."
   }
 }
