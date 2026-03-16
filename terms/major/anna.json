@@ -1,0 +1,97 @@
+{
+  "term": "aññā",
+  "normalized_term": "anna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "final knowledge, accomplished knowing",
+  "preferred_translation": "final knowledge",
+  "alternative_translations": [
+    "direct knowledge",
+    "accomplished knowing"
+  ],
+  "discouraged_translations": [
+    "realization",
+    "gnosis",
+    "attainment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Accomplishment-side knowledge language, especially where liberating knowledge has been reached or completed rather than merely discussed or cultivated.",
+  "notes": "The project now prefers final knowledge because it keeps aññā distinct from the broader ñāṇa family, from vijjā as clear liberating knowledge more generally, and from pariññā as full understanding. Direct knowledge remains acceptable when immediacy matters more than completion, and accomplished knowing remains acceptable in explanatory prose where the completed force must be heard without drifting into attainment-jargon. In this repository, aññā belongs near the accomplishment edge of the knowledge family and often touches release-side language. It should therefore not be weakened into vague realization-talk or generic attainment language. OSF and Dhammarato pressures support keeping such language plain and practical. Punnaji helps by distinguishing liberating understanding from mere information, and Hillside / Ñāṇamoli helps by resisting inflation into mystical spectacle or self-referential attainment rhetoric.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and doctrinal contexts where the accomplishment-side force should stay explicit",
+      "rendering": "final knowledge",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When immediacy matters more than completion in a closely related formula context",
+      "rendering": "direct knowledge",
+      "notes": "Allowed alternate when the line benefits from a slightly more immediate English phrase."
+    },
+    {
+      "context": "In explanatory prose where the completed quality must stay audible without becoming technical jargon",
+      "rendering": "accomplished knowing",
+      "notes": "Use sparingly and not as a replacement default."
+    }
+  ],
+  "related_terms": [
+    "janati",
+    "nana",
+    "pajanati",
+    "parinna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aññāsi vata bho koṇḍañño",
+      "translation": "Koṇḍañña has attained final knowledge",
+      "notes": "Classic formula where aññā marks accomplishment-side knowledge rather than generic knowing.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "aññā",
+      "translation": "final knowledge",
+      "notes": "Headword usage in accomplishment-side knowledge contexts.",
+      "source": "MN 9"
+    }
+  ],
+  "sutta_references": [
+    "MN 9",
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports plain liberation-facing knowledge-language without mystifying accomplishment formulas."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports a practical distinction between liberating understanding and mere informational knowledge."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports keeping accomplishment-side knowledge plain, anti-spectacular, and resistant to vague attainment rhetoric."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'final knowledge' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'direct knowledge' or 'accomplished knowing' only when a recorded context rule or strong local English need justifies the shift. Do not flatten aññā into generic realization, gnosis, or attainment-talk.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents accomplishment-side knowledge language from collapsing into vague realization rhetoric, generic knowledge, or attainment jargon."
+  },
+  "version_notes": "Created in the verbal knowing / recognition pass to govern accomplishment-side knowledge language alongside the new verb-family entries."
+}

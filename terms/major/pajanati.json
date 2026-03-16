@@ -1,0 +1,99 @@
+{
+  "term": "pajānāti",
+  "normalized_term": "pajanati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "discerns, clearly knows",
+  "preferred_translation": "discerns",
+  "alternative_translations": [
+    "clearly knows",
+    "understands"
+  ],
+  "discouraged_translations": [
+    "realizes",
+    "comprehends fully",
+    "is aware of"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A more discerning or clarified knowing-verb than jānāti, often used where the text points toward practical understanding or doctrinally sharper recognition without yet naming completed pariññā.",
+  "notes": "The project now prefers discerns because it keeps pajānāti distinct from the plainer jānāti while avoiding premature elevation into completed full understanding. Clearly knows remains an acceptable alternate when the line needs the verb-family connection to knowledge to stay more audible, and understands remains tolerated only where English demands it and the sharper contrast is not being erased. In this repository, pajānāti sits closer to paññā than jānāti does, but it must not be collapsed into paññā as a noun or into pariññā as completed understanding. It is the active discerning side, not yet the accomplished task-language. OSF and Dhammarato usage support keeping this practical and non-mystified; Punnaji supports a more introspective and clarifying reading of the verb; and Hillside / Ñāṇamoli reinforces that contextual, restraint-sensitive understanding can sharpen explanatory notes without turning pajānāti into imported technical jargon or bland generic understanding.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts where a sharper verbal knowing than jānāti is needed",
+      "rendering": "discerns",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In formulae where the knowing side must stay more explicit than the English verb discerns naturally allows",
+      "rendering": "clearly knows",
+      "notes": "Use selectively for readability and family audibility."
+    },
+    {
+      "context": "In idiomatic prose where the line would become too stiff in English and no stronger contrast is being erased",
+      "rendering": "understands",
+      "notes": "Allowed alternate, but do not use it where pariññā or completed understanding is in view."
+    }
+  ],
+  "related_terms": [
+    "anna",
+    "janati",
+    "nana",
+    "panna",
+    "parinna",
+    "yathabhuta-nanadassana",
+    "yathabhutam-pajanati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yathābhūtaṃ pajānāti",
+      "translation": "one discerns it as it has come to be",
+      "notes": "Core formula showing the verb's sharper practical and doctrinal force.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "nāparaṃ itthattāyāti pajānāti",
+      "translation": "one discerns: there is no more of this state of being",
+      "notes": "Arahant-declaration context showing pajānāti in a release-side formula without turning it into vague realization-language.",
+      "source": "MN 36"
+    }
+  ],
+  "sutta_references": [
+    "MN 1",
+    "MN 36"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports practical understanding-language without flattening sharper verb-family distinctions."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports clarified or introspective understanding-language that is sharper than plain knowing but not yet completed full understanding."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports keeping the verb practical, context-sensitive, and resistant to bland generic understanding."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'discerns' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clearly knows' or controlled 'understands' only where a recorded context rule or strong local English need justifies it. Do not flatten pajānāti into plain jānāti, completed pariññā, or vague realization-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the verb from collapsing either downward into bland understanding or upward into completed full understanding and realization-talk."
+  },
+  "version_notes": "Created in the verbal knowing / recognition pass to anchor the discernment-linked knowing verb against jānāti and pariññā."
+}

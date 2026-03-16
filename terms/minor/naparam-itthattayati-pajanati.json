@@ -1,0 +1,55 @@
+{
+  "term": "nāparaṃ itthattāyāti pajānāti",
+  "normalized_term": "naparam-itthattayati-pajanati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one discerns: there is no more of this state of being",
+  "alternative_translations": [
+    "one clearly knows: there is no more of this state of being",
+    "one understands: there is no more of this state of being"
+  ],
+  "discouraged_translations": [
+    "one realizes final liberation",
+    "one knows enlightenment is complete"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Arahant-declaration formula surface using pajānāti on the release side; governed here so the verb does not drift into vague realization rhetoric.",
+  "notes": "This formula inherits the pajānāti policy while sitting in liberation-side prose. MN 36 supports the formula surface directly. Keep the line plain and decisive. Do not inflate it into imported enlightenment-talk or soften it into bland understanding if the sharper verbal force can still be heard.",
+  "related_terms": [
+    "anna",
+    "asava",
+    "pajanati",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nāparaṃ itthattāyāti pajānāti",
+      "translation": "one discerns: there is no more of this state of being",
+      "notes": "Recurring formula in arahant declarations.",
+      "source": "MN 36"
+    }
+  ],
+  "sutta_references": [
+    "MN 36"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "MN 36",
+      "kind": "context-rule",
+      "scope": "Supports the release-side pajānāti formula in arahant declarations."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'one discerns: there is no more of this state of being' as the default rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the controlled alternates only when the immediate English context requires it. Do not inflate the formula into generic realization or enlightenment rhetoric.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents pajānāti in liberation formulas from drifting into vague realization-language or imported attainment slogans."
+  }
+}
