@@ -1,0 +1,30 @@
+{
+  "term": "cattārome, bhikkhave, ganthā",
+  "normalized_term": "cattarome-bhikkhave-gantha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "bhikkhus, there are these four knots",
+  "preferred_translation": "bhikkhus, there are these four knots",
+  "definition": "A family-heading formula for the four knots.",
+  "notes": "Use this phrase record when the heading appears as a whole. It should inherit the gantha headword policy and keep the knot image stable across the family.",
+  "related_terms": [
+    "gantha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattārome, bhikkhave, ganthā",
+      "translation": "bhikkhus, there are these four knots",
+      "notes": "Standard heading for the knot family.",
+      "source": "SN 45.174"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.174"
+  ],
+  "tags": [
+    "formula",
+    "core-doctrine",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

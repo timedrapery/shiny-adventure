@@ -1,0 +1,88 @@
+{
+  "term": "ogha",
+  "normalized_term": "ogha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "flood, torrent",
+  "preferred_translation": "flood",
+  "alternative_translations": [
+    "torrent"
+  ],
+  "discouraged_translations": [
+    "bondage",
+    "attachment",
+    "defilement"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A flood-like force that overwhelms and carries beings along unless it is crossed.",
+  "notes": "The project keeps flood as the default because it preserves the governing image clearly and reads naturally in English. Torrent remains a controlled alternate when the force or surge needs emphasis, but ogha should not be flattened into generic bondage or defilement language. In this repository, ogha differs from āsava: an āsava is a corruptive outflow running on, whereas an ogha is an engulfing flood to be crossed. It also differs from saṃyojana and yoga, which bind or yoke, and from gantha, which knots or entangles. The same imagery should govern named compounds such as kāmogha, bhavogha, diṭṭhogha, and avijjogha unless a narrower record overrides it. The OSF glossary supports keeping concrete imagery when it prevents doctrinal flattening, and SN 45.171 supports the fourfold flood framework.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "flood",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing force or surge",
+      "rendering": "torrent",
+      "notes": "Allowed alternate when the stronger motion is the point."
+    },
+    {
+      "context": "In named compounds such as kāmogha or avijjogha",
+      "rendering": "flood",
+      "notes": "Keep the flood imagery stable across the family."
+    }
+  ],
+  "related_terms": [
+    "avijjogha",
+    "bhavogha",
+    "cattarome-bhikkhave-ogha",
+    "ditthogha",
+    "kamogha",
+    "yoga",
+    "gantha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattārome, bhikkhave, oghā",
+      "translation": "bhikkhus, there are these four floods",
+      "notes": "Standard family-heading formula.",
+      "source": "SN 45.171"
+    },
+    {
+      "pali": "kāmogho",
+      "translation": "the sensual flood",
+      "notes": "Shows the concrete imagery inside the named fourfold set.",
+      "source": "SN 45.171"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.171"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "translation-sensitive",
+    "bondage-imagery"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports retaining concrete imagery when it prevents collapse into generic bondage or defilement language."
+    },
+    {
+      "source": "SN 45.171",
+      "kind": "context-rule",
+      "scope": "Supports the fourfold flood framework and the governing compound family."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'flood' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'torrent' only when the explanatory context clearly needs more force. Do not flatten ogha into generic bondage, attachment, or defilement language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents collapse between flood imagery, outflow imagery, binding imagery, and generic bondage-language."
+  }
+}

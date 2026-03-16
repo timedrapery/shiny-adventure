@@ -1,14 +1,33 @@
 {
-  "term": "avijjayoga",
+  "term": "avijjāyoga",
   "normalized_term": "avijjayoga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "bond of ignorance",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "bond of ignorance",
+  "literal_meaning": "yoke of ignorance",
+  "preferred_translation": "yoke of ignorance",
+  "alternative_translations": [
+    "bond of ignorance"
+  ],
+  "definition": "A named yoke-compound in the yoga family.",
+  "notes": "This compound should inherit the yoga headword policy. Keep the yoke imagery explicit so the term does not collapse into plain ignorance-language.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāyogo",
+      "translation": "the yoke of ignorance",
+      "notes": "Named member of the fourfold yoke family.",
+      "source": "SN 45.172"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.172"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }
