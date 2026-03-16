@@ -76,6 +76,20 @@ class LintRuleTests(unittest.TestCase):
             ["sati.json -> samadhi.json: related_terms link is not reciprocal"],
         )
 
+    def test_minor_phrase_related_terms_do_not_require_reciprocal_links(self) -> None:
+        terms = {
+            "imasmim-sati-idam-hoti": {
+                "entry_type": "minor",
+                "part_of_speech": "phrase",
+                "related_terms": ["paticcasamuppada"],
+            },
+            "paticcasamuppada": {"related_terms": []},
+        }
+
+        issues = lint_terms.check_one_way_related_terms(terms)
+
+        self.assertEqual(issues, [])
+
     def test_major_reviewed_entries_require_sutta_references(self) -> None:
         terms = {
             "dukkha": {"entry_type": "major", "status": "reviewed", "sutta_references": []},

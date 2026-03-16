@@ -16,6 +16,8 @@ All CLI scripts support `--help`.
   Runs editorial lint checks against live term data.
 - `python scripts/check_translation_drift.py`
   Detects translation drift across related terms and policy-bearing records.
+- `python scripts/dependent_arising_cluster_report.py`
+  Audits the dependent-arising cluster and can generate translator-facing outputs.
 
 ## Reporting And Planning Commands
 
@@ -23,8 +25,12 @@ All CLI scripts support `--help`.
   Reports repository health signals for editorial scalability and automation.
 - `python scripts/audit_term_coverage.py --top 15`
   Reports doctrinal coverage gaps in the term dataset.
+- `python scripts/dependent_arising_cluster_report.py --write-docs`
+  Checks the dependent-arising cluster surface and writes glossary, formula-sheet, brief, and consistency outputs into `docs/generated/`.
 - `python scripts/draft_major_review_queue.py`
   Reports the current queue of draft major entries still awaiting an editorial pass.
+- `python scripts/five_heaps_cluster_report.py`
+  Audits the five-heaps / clung-to-heaps cluster and can generate translator-facing sheets in `docs/generated/`.
 - `python scripts/policy_backfill_queue.py`
   Ranks major terms that should be prioritized for metadata backfill.
 

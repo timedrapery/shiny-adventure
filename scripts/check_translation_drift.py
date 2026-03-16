@@ -438,7 +438,7 @@ def check_headword_normalization(records: list[TermRecord], findings: list[Findi
             )
 
         if (
-            part_of_speech != "compound"
+            part_of_speech not in {"compound", "phrase", "expression"}
             and canonical_key(term).replace("_", "") != normalized_stem_key(normalized_term)
         ):
             add_finding(

@@ -85,6 +85,8 @@ def check_missing_related_terms(terms: dict[str, dict[str, object]]) -> list[str
 def check_one_way_related_terms(terms: dict[str, dict[str, object]]) -> list[str]:
     issues: list[str] = []
     for stem, data in sorted(terms.items()):
+        if data.get("entry_type") == "minor" and data.get("part_of_speech") in {"phrase", "expression"}:
+            continue
         related_terms = data.get("related_terms", [])
         if not isinstance(related_terms, list):
             continue
