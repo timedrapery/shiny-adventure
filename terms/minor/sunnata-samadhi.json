@@ -4,11 +4,19 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "emptiness samadhi",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "alternative_translations": [
+    "emptiness unification of mind"
+  ],
+  "definition": "Samadhi governed by the emptiness side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound tied to suññatā as emptiness rather than treating it as interchangeable with signless or wishless compounds. The compound inherits the headword's anti-nihilist and anti-mystifying policy.",
+  "related_terms": [
+    "sunnata"
+  ],
   "status": "reviewed",
   "literal_meaning": "emptiness samadhi",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }

@@ -3,12 +3,20 @@
   "normalized_term": "sunnata-vimokkha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "emptiness liberation",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "preferred_translation": "emptiness release",
+  "alternative_translations": [
+    "emptiness liberation"
+  ],
+  "definition": "Release governed by the emptiness side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound coordinated with the release-side family while preserving suññatā's distinct emptiness force.",
+  "related_terms": [
+    "sunnata"
+  ],
   "status": "reviewed",
-  "literal_meaning": "emptiness liberation",
+  "literal_meaning": "emptiness release",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }

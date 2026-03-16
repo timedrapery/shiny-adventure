@@ -15,8 +15,8 @@
     "mystical oneness"
   ],
   "untranslated_preferred": false,
-  "definition": "Emptiness, especially emptiness of self and what belongs to self.",
-  "notes": "The repository keeps emptiness as the default because the OSF glossary already aligns there and because it is the clearest translator-facing doctrinal noun in English. Voidness remains a controlled Buddhadasa-line alternate when void mind or voidness language is the actual pedagogical emphasis, especially in practical prose about a mind empty of selfing and appropriation. In this repository, suññatā is not a mystical absolute and not a nihilistic claim that nothing exists. It is governed by anti-self and anti-clinging logic: the relevant emptiness is emptiness of self and of what belongs to self. The OSF glossary and Buddhadasa usage profile both support that practical, non-metaphysical reading, while Dhammarato-facing emptiness language reinforces its here-now applicability. Translators should therefore preserve emptiness as the default, tolerate voidness as a controlled OSF-facing alternate, and explicitly refuse drift toward nihilism, mystical oneness, or vague spiritual abstraction.",
+  "definition": "Emptiness, especially emptiness of self and what belongs to self, governed as one member of the emptiness / signless / wishless interface.",
+  "notes": "The repository keeps emptiness as the default because the OSF glossary already aligns there and because it is the clearest translator-facing doctrinal noun in English. Voidness remains a controlled Buddhadasa-line alternate when void mind or voidness language is the actual pedagogical emphasis, especially in practical prose about a mind empty of selfing and appropriation. In this repository, suññatā is not a mystical absolute and not a nihilistic claim that nothing exists. It is governed by anti-self and anti-clinging logic: the relevant emptiness is emptiness of self and of what belongs to self. That gives suññatā a different doctrinal job from anattā. Anattā is the predicate not-self used to deny self-identification and ownership; suññatā names the emptiness-side mode or designation seen when selfing and appropriation are absent. It also differs from animitta and appaṇihita: animitta governs the signless side, where signs are not taken up, while appaṇihita governs the wishless side, where desire is not placed toward an object or outcome. The OSF glossary and Buddhadasa usage profile both support this practical, non-metaphysical reading, while Dhammarato-facing emptiness language reinforces its here-now applicability. Translators should therefore preserve emptiness as the default, tolerate voidness as a controlled OSF-facing alternate, and explicitly refuse drift toward nihilism, mystical oneness, or vague spiritual abstraction.",
   "context_rules": [
     {
       "context": "In most doctrinal and translator-facing contexts",
@@ -37,16 +37,27 @@
       "context": "In broad doctrinal exposition where the standard English doctrinal noun is needed",
       "rendering": "emptiness",
       "notes": "Keep the default stable rather than rotating among mystical or scholastic alternatives."
+    },
+    {
+      "context": "In the coordinated emptiness / signless / wishless family and its named compounds",
+      "rendering": "emptiness",
+      "notes": "Keep suññatā distinct from animitta and appaṇihita rather than flattening the whole family into one contemplative blur."
     }
   ],
   "related_terms": [
     "amata",
+    "animitta",
     "anatta",
+    "appanihita",
     "atta",
     "citta",
     "nibbana",
     "sunyata",
+    "sunnata-cetosamadhi",
+    "sunnata-samadhi",
+    "sunnata-vimokkha",
     "tathata",
+    "vimokkhamukha",
     "vimutti"
   ],
   "example_phrases": [
@@ -88,8 +99,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'emptiness' as the default rendering in the entry's governed doctrinal and practical contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'voidness' only when the Buddhadasa-line practical idiom is actually doing work, or when the anti-self function must be made explicit in explanatory prose. Do not flatten suññatā into nothingness, nihilism, mystical oneness, or vague spiritual abstraction.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents emptiness-language from drifting into nihilism, mysticism, or uncontrolled synonym rotation while preserving the OSF/Buddhadasa practical line."
+    "when_not_to_apply": "Use 'voidness' only when the Buddhadasa-line practical idiom is actually doing work, or when the anti-self function must be made explicit in explanatory prose. Do not flatten suññatā into nothingness, nihilism, mystical oneness, generic non-self, or vague spiritual abstraction. Do not substitute it for animitta or appaṇihita by habit.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents emptiness-language from drifting into nihilism, mysticism, generic non-self shorthand, or uncontrolled synonym rotation while preserving the OSF/Buddhadasa practical line and keeping the family distinct from signless and wishless language."
   }
 }

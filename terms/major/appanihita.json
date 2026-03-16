@@ -1,0 +1,101 @@
+{
+  "term": "appaṇihita",
+  "normalized_term": "appanihita",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "wishless, unplaced",
+  "preferred_translation": "wishless",
+  "alternative_translations": [
+    "without placing desire",
+    "without projection",
+    "desireless"
+  ],
+  "discouraged_translations": [
+    "passive",
+    "apathetic",
+    "aimless",
+    "no goals"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wishless, without placing desire toward an object or outcome, governed as one member of the emptiness / signless / wishless interface.",
+  "notes": "The repository prefers wishless because it keeps the family coordinated and preserves the unusual force of the term better than smoother but drift-prone English such as desireless or undirected. Appaṇihita is not a slogan about having no goals, not a defense of passivity, and not simply another word for fading or release. Suññatā governs emptiness of self and ownership; animitta governs the signless side where signs are not taken up; appaṇihita governs the side where desire is not placed toward an object or projected onto an outcome. In translator practice this means that appaṇihita can be explained as without placing desire or without projection, but those are practical clarifications rather than a reason to abandon the governed default. The Buddhadasa usage profile supports treating this as practical anti-clinging language rather than grand abstraction, and the Punnaji materials reinforce a practical, anti-mystifying caution here: contemplative language should support tranquility and non-compulsion, not drift into dreamy abstraction or ideological passivity. Translators should therefore keep wishless as the default and explicitly refuse drift toward apathy, fatalism, or no-goals rhetoric.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and contemplative-designation contexts",
+      "rendering": "wishless",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In translator-facing explanation that must make the practical force explicit",
+      "rendering": "without placing desire",
+      "notes": "Controlled alternate when the line needs a more verbal explanation."
+    },
+    {
+      "context": "In practical explanatory prose about dropping projection toward an outcome",
+      "rendering": "without projection",
+      "notes": "Use only when the practical point itself is under discussion."
+    },
+    {
+      "context": "In older or smoother English prose where the family relation is still explicit nearby",
+      "rendering": "desireless",
+      "notes": "Tolerated alternate, but not the house default because it too easily collapses into generic desire-language."
+    },
+    {
+      "context": "In compounds such as appanihita-samadhi, appanihita-cetosamadhi, and appanihita-vimokkha",
+      "rendering": "wishless",
+      "notes": "Keep the compound family coordinated with the headword unless a narrower record documents an override."
+    }
+  ],
+  "related_terms": [
+    "animitta",
+    "sunnata",
+    "vimokkhamukha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "appaṇihitaṃ cetosamādhiṃ upasampajja viharati",
+      "translation": "one dwells having entered wishless composure of mind",
+      "notes": "Shows the contemplative-designation use carried by the headword.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "appaṇihito vimokkho",
+      "translation": "the wishless release",
+      "notes": "Shows the headword's place within the coordinated release-side family.",
+      "source": "AN 3.32"
+    }
+  ],
+  "sutta_references": [
+    "MN 43",
+    "AN 3.32"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "liberation",
+    "emptiness-interface"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports anti-mystifying practical handling of release-side contemplative language and resistance to grand abstraction."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports practical translator guidance that keeps contemplative language tied to tranquility and non-compulsion rather than passivity or doctrinal fog."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'wishless' as the default rendering in the entry's governed contemplative, doctrinal, and compound-family contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'without placing desire', 'without projection', or 'desireless' only where a recorded context rule justifies it. Do not flatten appaṇihita into passivity, apathy, fatalism, aimlessness, or generic no-goals rhetoric.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents wishless-language from collapsing into passivity, apathy, or generic desirelessness while keeping it distinct from suññatā, animitta, virāga, and release-language more broadly."
+  },
+  "version_notes": "Promoted from draft minor status to stable major status in the emptiness / signless / wishless interface pass."
+}
