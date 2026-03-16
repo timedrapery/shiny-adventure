@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Mind as a cognitive field or faculty, especially as the sixth internal sense field and in body-speech-mind formulations.",
-  "notes": "The project prefers thinking mind because mano in this repository points to the cognitive side of mind rather than the feeling-toned center named by citta. In the sixfold system mano is the internal mental field or faculty correlated with dhammas and mano-viññāṇa. In ethical triads it is the mental side of bodily, verbal, and mental action. Cognition and mental faculty can be used when that role needs to stay especially explicit, but translators should not flatten mano into consciousness or into the affective heart-language more suitable for citta. The OSF glossary confirms thinking mind as the house default and records mental faculty and cognition as tolerated alternates for the faculty-role and cognitive-activity contexts.",
+  "notes": "The project prefers thinking mind because mano in this repository points to the cognitive side of mind rather than the feeling-toned center named by citta. In the sixfold system mano is the internal mental field or faculty correlated with dhammas and mano-viññāṇa. In ethical triads it is the mental side of bodily, verbal, and mental action. Cognition and mental faculty can be used when that role needs to stay especially explicit, but translators should not flatten mano into consciousness or into the affective heart-language more suitable for citta. The OSF glossary confirms thinking mind as the house default and records mental faculty and cognition as tolerated alternates for the faculty-role and cognitive-activity contexts. This distinction also matters in practical explanation of ānāpānasati: mano can be explained as the thinking mind that deliberately brings wholesome dhammas or wholesome thought-content to bear, while citta is the feeling mind that is gladdened.",
   "context_rules": [
     {
       "context": "In general doctrinal prose where the cognitive side of mind is intended",
@@ -37,11 +37,19 @@
       "context": "When the passage distinguishes mano from citta or viññāṇa",
       "rendering": "thinking mind",
       "notes": "Keep the cognitive distinction audible rather than flattening mano into generic mind."
+    },
+    {
+      "context": "In translator-facing explanation of the gladdening-the-mind step in ānāpānasati",
+      "rendering": "thinking mind",
+      "notes": "Use when the explanatory point is that wholesome dhammas are brought to bear cognitively in order to gladden citta."
     }
   ],
   "related_terms": [
+    "abhippamodaya-cittam",
+    "anapanasati",
     "āyatana",
     "citta",
+    "kusala-dhamma",
     "kamma",
     "mano-vinnana",
     "manosancetana-ahara",

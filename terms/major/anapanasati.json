@@ -16,7 +16,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "ānāpānasati (sati with breathing)",
   "definition": "The practice of cultivating sati with the in-breath and out-breath as the immediate field of attention.",
-  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository records that as a source-backed explanatory alternate without displacing the current house preference for leaving the term untranslated. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique.",
+  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository records that as a source-backed explanatory alternate without displacing the current house preference for leaving the term untranslated. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique. The repository also keeps the practice explanation simple where the text does so: in gladdening-the-mind work, mano can be explained as the thinking mind that brings wholesome dhammas or wholesome thought-content to bear, while citta is the feeling mind that becomes gladdened or brightened. That explanatory distinction should support the practice without replacing the formula itself.",
   "context_rules": [
     {
       "context": "In source-facing translation and practice instructions",
@@ -47,12 +47,23 @@
       "context": "In OSF publication prose emphasizing the training as a whole rather than a technique fragment",
       "rendering": "ānāpānasati",
       "notes": "Prefer the untranslated form when the line is about the full path-training function of the practice."
+    },
+    {
+      "context": "In translator-facing explanation of the gladdening-the-mind step",
+      "rendering": "ānāpānasati",
+      "notes": "Keep the Pali practice label while explaining that mano may work through wholesome dhammas to gladden citta."
     }
   ],
   "related_terms": [
+    "abhippamodaya-cittam",
+    "citta",
     "kaya",
     "kāya",
+    "kusala",
+    "kusala-dhamma",
     "kāyagatā sati",
+    "mano",
+    "pamojja",
     "samādhi",
     "sati",
     "satipatthana"
@@ -68,6 +79,12 @@
       "pali": "so satova assasati satova passasati",
       "translation": "they breathe in with sati and breathe out with sati",
       "notes": "Closely tied practical formulation.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "abhippamodayaṃ cittaṃ assasissāmīti sikkhati",
+      "translation": "one trains: 'I will breathe in gladdening the feeling mind'",
+      "notes": "The gladdening-the-mind step can be explained through the repository's mano/citta distinction without complicating the formula.",
       "source": "MN 118"
     }
   ],
