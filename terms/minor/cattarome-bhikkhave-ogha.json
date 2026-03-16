@@ -1,0 +1,30 @@
+{
+  "term": "cattārome, bhikkhave, oghā",
+  "normalized_term": "cattarome-bhikkhave-ogha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "bhikkhus, there are these four floods",
+  "preferred_translation": "bhikkhus, there are these four floods",
+  "definition": "A family-heading formula for the four floods.",
+  "notes": "Use this phrase record when the heading appears as a whole. It should inherit the ogha headword policy and keep the flood image stable across the family.",
+  "related_terms": [
+    "ogha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattārome, bhikkhave, oghā",
+      "translation": "bhikkhus, there are these four floods",
+      "notes": "Standard heading for the flood family.",
+      "source": "SN 45.171"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.171"
+  ],
+  "tags": [
+    "formula",
+    "core-doctrine",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

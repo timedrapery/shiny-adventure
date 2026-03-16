@@ -3,12 +3,28 @@
   "normalized_term": "avijjogha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "flood of ignorance",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "flood of ignorance",
+  "preferred_translation": "flood of ignorance",
+  "definition": "A named flood-compound in the ogha family.",
+  "notes": "This compound should inherit the ogha headword policy. Keep the flood imagery explicit so the term does not collapse into plain ignorance-language.",
+  "related_terms": [
+    "ogha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjogho",
+      "translation": "the flood of ignorance",
+      "notes": "Named member of the fourfold flood family.",
+      "source": "SN 45.171"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.171"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

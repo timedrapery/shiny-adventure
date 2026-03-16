@@ -1,14 +1,33 @@
 {
-  "term": "ditthiyoga",
+  "term": "diṭṭhiyoga",
   "normalized_term": "ditthiyoga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "bond of views",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "bond of views",
+  "literal_meaning": "yoke of views",
+  "preferred_translation": "yoke of views",
+  "alternative_translations": [
+    "bond of views"
+  ],
+  "definition": "A named yoke-compound in the yoga family.",
+  "notes": "This compound should inherit the yoga headword policy. Keep the yoke imagery explicit so the term does not collapse into plain views or view-clinging language.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭhiyogo",
+      "translation": "the yoke of views",
+      "notes": "Named member of the fourfold yoke family.",
+      "source": "SN 45.172"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.172"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

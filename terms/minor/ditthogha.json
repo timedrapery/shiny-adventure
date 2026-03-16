@@ -1,14 +1,30 @@
 {
-  "term": "ditthogha",
+  "term": "diṭṭhogha",
   "normalized_term": "ditthogha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "flood of views",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "flood of views",
+  "preferred_translation": "flood of views",
+  "definition": "A named flood-compound in the ogha family.",
+  "notes": "This compound should inherit the ogha headword policy. Keep the flood imagery explicit so the term does not collapse into plain views or view-clinging language.",
+  "related_terms": [
+    "ogha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭhogho",
+      "translation": "the flood of views",
+      "notes": "Named member of the fourfold flood family.",
+      "source": "SN 45.171"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.171"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

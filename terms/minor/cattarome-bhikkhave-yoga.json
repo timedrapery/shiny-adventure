@@ -1,0 +1,30 @@
+{
+  "term": "cattārome, bhikkhave, yogā",
+  "normalized_term": "cattarome-bhikkhave-yoga",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "bhikkhus, there are these four yokes",
+  "preferred_translation": "bhikkhus, there are these four yokes",
+  "definition": "A family-heading formula for the four yokes.",
+  "notes": "Use this phrase record when the heading appears as a whole. It should inherit the yoga headword policy and keep the yoke image stable across the family.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattārome, bhikkhave, yogā",
+      "translation": "bhikkhus, there are these four yokes",
+      "notes": "Standard heading for the yoke family.",
+      "source": "SN 45.172"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.172"
+  ],
+  "tags": [
+    "formula",
+    "core-doctrine",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

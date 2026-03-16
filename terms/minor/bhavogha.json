@@ -3,12 +3,28 @@
   "normalized_term": "bhavogha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "flood of becoming",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "flood of becoming",
+  "preferred_translation": "flood of becoming",
+  "definition": "A named flood-compound in the ogha family.",
+  "notes": "This compound should inherit the ogha headword policy. Keep the flood imagery explicit so the term does not collapse into generic becoming-language.",
+  "related_terms": [
+    "ogha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavogho",
+      "translation": "the flood of becoming",
+      "notes": "Named member of the fourfold flood family.",
+      "source": "SN 45.171"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.171"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

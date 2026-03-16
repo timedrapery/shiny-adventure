@@ -3,12 +3,31 @@
   "normalized_term": "bhavayoga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "bond of becoming",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "bond of becoming",
+  "literal_meaning": "yoke of becoming",
+  "preferred_translation": "yoke of becoming",
+  "alternative_translations": [
+    "bond of becoming"
+  ],
+  "definition": "A named yoke-compound in the yoga family.",
+  "notes": "This compound should inherit the yoga headword policy. Keep the yoke imagery explicit so the term does not collapse into generic becoming-language.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavayogo",
+      "translation": "the yoke of becoming",
+      "notes": "Named member of the fourfold yoke family.",
+      "source": "SN 45.172"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.172"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

@@ -1,14 +1,33 @@
 {
-  "term": "kamayoga",
+  "term": "kāmayoga",
   "normalized_term": "kamayoga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "sensual bond",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "sensual bond",
+  "literal_meaning": "sensual yoke",
+  "preferred_translation": "sensual yoke",
+  "alternative_translations": [
+    "sensual bond"
+  ],
+  "definition": "A named yoke-compound in the yoga family.",
+  "notes": "This compound should inherit the yoga headword policy. Keep the yoke imagery explicit rather than flattening the term into generic sensual bondage.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmayogo",
+      "translation": "the sensual yoke",
+      "notes": "Named member of the fourfold yoke family.",
+      "source": "SN 45.172"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.172"
+  ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
-  ]
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
 }

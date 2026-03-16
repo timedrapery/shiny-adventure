@@ -3,11 +3,34 @@
   "normalized_term": "yogakkhema",
   "entry_type": "minor",
   "part_of_speech": "noun",
-  "preferred_translation": "security from bondage",
-  "definition": "The safety of release from the bonds and burdens that tie one to becoming.",
-  "status": "reviewed",
   "literal_meaning": "security from the yoke",
+  "preferred_translation": "security from the yoke",
+  "alternative_translations": [
+    "security from bondage"
+  ],
+  "discouraged_translations": [
+    "peace"
+  ],
+  "definition": "Security or safety gained by being free from the yoke-family of bondage.",
+  "notes": "This fixed compound belongs to the yoga family. Keep the yoke image audible by default here, while allowing security from bondage as a controlled alternate if English flow clearly requires it.",
+  "related_terms": [
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anuttaraṃ yogakkhemaṃ nibbānaṃ",
+      "translation": "nibbāna, the unsurpassed security from the yoke",
+      "notes": "Classic liberation expression governed by the yoga family but handled as a fixed compound.",
+      "source": "MN 26"
+    }
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
   "tags": [
-    "liberation"
-  ]
+    "liberation",
+    "bondage-imagery",
+    "translation-sensitive"
+  ],
+  "status": "stable"
 }

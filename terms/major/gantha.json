@@ -1,0 +1,84 @@
+{
+  "term": "gantha",
+  "normalized_term": "gantha",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "knot, tie",
+  "preferred_translation": "knot",
+  "alternative_translations": [
+    "tie"
+  ],
+  "discouraged_translations": [
+    "bondage",
+    "attachment",
+    "fetter"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A knot-like entanglement that ties experience up and resists release.",
+  "notes": "The project keeps knot as the default because it preserves the governing image directly and distinguishes this family from floods, yokes, and fetters. Tie remains a controlled alternate when a sentence needs lighter English, but gantha should not be flattened into generic bondage or attachment language. In this repository, gantha differs from yoga, which yokes or harnesses; from saṃyojana, which binds as a fetter; from ogha, which overwhelms as a flood; and from āsava, which runs on as an outflow. The OSF glossary supports retaining concrete imagery when it prevents collapse into generic bondage or fetter language. The fourfold gantha framework in SN 45.174 should stay governed by knot imagery rather than being paraphrased into undifferentiated clinging-language.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "knot",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a lighter sentence shape is needed",
+      "rendering": "tie",
+      "notes": "Allowed alternate when it reads more naturally without losing the knotting image."
+    },
+    {
+      "context": "In the fourfold family-heading formula",
+      "rendering": "knot",
+      "notes": "Keep the governing image stable across the family."
+    }
+  ],
+  "related_terms": [
+    "cattarome-bhikkhave-gantha",
+    "ogha",
+    "yoga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattārome, bhikkhave, ganthā",
+      "translation": "bhikkhus, there are these four knots",
+      "notes": "Standard family-heading formula.",
+      "source": "SN 45.174"
+    },
+    {
+      "pali": "abhijjhā kāyagantho",
+      "translation": "covetousness is a bodily knot",
+      "notes": "Shows the knot imagery governing a named member of the family.",
+      "source": "SN 45.174"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.174"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "translation-sensitive",
+    "bondage-imagery"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports retaining concrete imagery when it prevents collapse into generic bondage or fetter language."
+    },
+    {
+      "source": "SN 45.174",
+      "kind": "context-rule",
+      "scope": "Supports the fourfold knot framework and the governing family imagery."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'knot' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'tie' only when a smoother English sentence is clearly needed. Do not flatten gantha into generic bondage, attachment, or fetter language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents collapse between knot imagery, yoke imagery, flood imagery, fetter-language, and generic bondage-language."
+  }
+}
