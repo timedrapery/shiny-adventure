@@ -11,11 +11,12 @@
   "discouraged_translations": [
     "salvation",
     "escape",
-    "freedom"
+    "freedom",
+    "spiritual freedom"
   ],
   "untranslated_preferred": false,
   "definition": "Release from binding conditions and compulsions, especially in the core liberation family.",
-  "notes": "The project keeps release as the default because it is plain contemporary English and keeps the term dynamic rather than monumental. Liberation remains a controlled alternate in explanatory prose, but vimutti should not be blurred with nissaraṇa, which is escape from, or with tarati and tiṇṇa, which preserve crossing imagery. The OSF glossary supports release as the house default, and MN 39 supports vimutti as a core release-family term with its own knowledge-and-vision formula. It also differs from mutti in this repository: mutti is the shorter result noun and defaults to freedom, while vimutti remains the governing release-family headword and the base for compounds such as cetovimutti and paññāvimutti. Translators should therefore resist rotating among release, freedom, liberation, and escape without a recorded reason. Where the text moves through virāga, vossagga, nirodha, or khaya toward vimutti, keep those sequence terms distinct rather than letting release swallow the whole path-language.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. OSF-facing glossary and teaching language can use liberation, and that wording remains readable and doctrinally intelligible. The matured repository default still remains release because it is plainer, less monumental, and better controlled against drift into generic spiritual-liberation rhetoric. The OSF glossary supports release as a house-facing option, while liberation remains tolerated as a controlled explanatory alternate rather than a reason to rotate defaults. MN 39 reinforces vimutti as a core release-family term with its own knowledge-and-vision formula, so the repository keeps it governed as more than inspirational rhetoric. In this repository, vimutti also stays distinct from nissaraṇa as escape, mutti as the shorter freedom noun, tarati and tiṇṇa as crossing language, and the consummation-side designations such as nibbāna. Translators should therefore preserve release as the default and use liberation only where the local line clearly benefits from the more familiar OSF-facing idiom.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -23,7 +24,7 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose or comparative discussion where conventional terminology is useful",
+      "context": "In explanatory prose or comparative discussion where conventional OSF-facing terminology is useful",
       "rendering": "liberation",
       "notes": "Acceptable alternate when the line benefits from it."
     },
@@ -42,8 +43,8 @@
     "adhipanna",
     "amata",
     "arahant",
-    "asava",
     "asekha",
+    "asava",
     "bodhi",
     "cetovimutti",
     "lokuttara",
@@ -54,6 +55,7 @@
     "nirodha",
     "panna",
     "pannavimutti",
+    "sunnata",
     "tarati",
     "tinna",
     "upanisa",
@@ -98,7 +100,7 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Supports 'release' as the house default and keeps the release family distinct from escape and crossing language."
+      "scope": "Supports release as a stable house default while keeping liberation available as a familiar OSF-facing alternate."
     },
     {
       "source": "MN 39",
@@ -108,8 +110,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'release' as the default rendering in the entry's governed doctrinal, practice, and compound-family contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'liberation' only when explanatory prose clearly benefits. Do not flatten vimutti into nissaraṇa, mutti, crossing-language, or generic spirituality language.",
+    "when_not_to_apply": "Use 'liberation' only when explanatory prose or OSF-facing translator guidance clearly benefits. Do not flatten vimutti into nissaraṇa, mutti, crossing-language, or generic spiritual rhetoric.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents release-language from collapsing into escape, freedom, crossing, or salvation-language, and keeps the vimutti family coordinated."
+    "drift_risk": "Prevents release-language from collapsing into escape, freedom, crossing, or uncontrolled liberation-rhetoric while still tolerating the familiar OSF alternate."
   }
 }

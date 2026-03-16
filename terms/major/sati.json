@@ -10,12 +10,14 @@
     "awareness"
   ],
   "discouraged_translations": [
-    "mindfulness"
+    "mindfulness",
+    "bare attention",
+    "present-centered awareness"
   ],
   "untranslated_preferred": false,
   "gloss_on_first_occurrence": "remembering",
-  "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and the capacity to return to what matters.",
-  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The Pali term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated Pali. The OSF publication What Is And Is Not The Path strongly reinforces this by treating sati as what keeps the mind oriented to what is happening now while right effort abandons the unwholesome and establishes the wholesome. In live OSF practice explanation, sati also functions as the gatekeeper at the sense doors: remembering notices contact and felt experience early so ignorant interpretation does not simply rush inward unchecked. That does not replace the repository's deeper residue-family distinctions, but it does govern how practical sense-door explanations should sound. Core compounds such as satipatthana should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let mindfulness or awareness silently displace remembering in path and practice language unless a local context rule explicitly calls for it.",
+  "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and returning to what matters.",
+  "notes": "This is an ALIGN case in the OSF reconciliation pass. The repository's stabilized default remembering already matches the strongest Dhammarato and OSF house direction. The Dhammarato quotes profile explicitly supports remembering and right remembering, while What Is And Is Not The Path supports sati as what keeps the mind oriented to what is happening now without reducing it to a bare-attention technique. The OSF glossary does sometimes use awareness-style shorthand, and the repository now treats that as a tolerated explanatory alternate only when the remembering function is still explicit. In live OSF practice explanation, sati also functions as the gatekeeper at the sense doors: remembering notices contact and felt experience early so ignorant interpretation does not rush inward unchecked. That practical framing is useful and remains allowed. Compounds should inherit this remembering-centered policy unless a narrower compound record documents an override. What is refused as drift is any return to mindfulness as an uncontrolled default or any reduction of sati to bare present-centered attention severed from recollection, ethical relevance, and task-awareness.",
   "context_rules": [
     {
       "context": "In most translations and practical OSF contexts",
@@ -28,14 +30,14 @@
       "notes": "Acceptable for source-facing or highly technical prose."
     },
     {
-      "context": "In Punnaji-style pedagogical explanation of satipatthana and anapanasati",
+      "context": "In Punnaji-style pedagogical explanation of satipaṭṭhāna and ānāpānasati",
       "rendering": "attention",
-      "notes": "Retained as a source-backed alternate in that pedagogical frame."
+      "notes": "Retained as a source-backed pedagogical alternate, not the default."
     },
     {
-      "context": "In OSF-glossary style present-moment practice explanation",
+      "context": "In rough OSF-facing glossary or coaching prose where awareness-language is already in play and the recollective function is made explicit",
       "rendering": "awareness",
-      "notes": "Retained as a source-backed alternate, but no longer the default."
+      "notes": "Tolerated explanatory alternate only when it does not weaken remembering."
     },
     {
       "context": "In OSF practical instruction emphasizing coming back to what matters right now",
@@ -49,34 +51,31 @@
     }
   ],
   "related_terms": [
-    "ānāpānasati",
-    "appamāda",
+    "anapanasati",
+    "appamada",
     "bala",
-    "bhāvanā",
+    "bhavana",
     "bhikkhu",
     "bojjhanga",
-    "bojjhaṅga",
     "citta",
     "dhamma",
     "dhammavicaya",
     "indriya",
-    "kāyagatā sati",
+    "kayagata-sati",
     "manasikara",
-    "manasikāra",
-    "nīvaraṇa",
-    "samādhi",
+    "nivarana",
+    "samadhi",
+    "sampajanna",
     "samma-sati",
     "samma-vayama",
-    "sampajanna",
-    "sampajañña",
-    "satipatthana",
-    "satipaṭṭhāna",
+    "satipatthana"
+    ,
     "vitakka",
     "yoniso-manasikara"
   ],
   "example_phrases": [
     {
-      "pali": "satiṁ upaṭṭhapetvā",
+      "pali": "satiṃ upaṭṭhapetvā",
       "translation": "having established remembering",
       "notes": "OSF house rendering in source-facing explanation.",
       "source": "MN 10"
@@ -94,11 +93,12 @@
   ],
   "tags": [
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
   "authority_basis": [
     {
-      "source": "Dhammarato quotes draft",
+      "source": "Dhammarato quotes profile",
       "priority": "osf-house",
       "kind": "preferred-translation",
       "scope": "Supports remembering and right remembering as the active path language for sati."
@@ -107,15 +107,15 @@
       "source": "What Is And Is Not The Path",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Supports practical use of sati as returning to what matters here-now."
+      "scope": "Supports practical use of sati as returning to what matters here-now without reducing it to bare attention."
     }
   ],
   "translation_policy": {
     "default_scope": "Use remembering in most path, practice, and OSF instructional contexts.",
-    "when_not_to_apply": "Do not switch casually to mindfulness or awareness unless a recorded context rule or source-facing need justifies it.",
+    "when_not_to_apply": "Do not switch casually to mindfulness, bare attention, or awareness unless a recorded context rule or source-facing need justifies it. Awareness is tolerated only as an explanatory alternate where the recollective function is still explicit.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents silent drift back to mindfulness as the default English rendering and preserves sati's gatekeeping role in sense-door practice explanation."
+    "drift_risk": "Prevents silent drift back to mindfulness or bare-attention readings and preserves sati's recollective and gatekeeping role in OSF practice explanation."
   },
   "status": "stable",
-  "version_notes": "Strengthened to keep remembering stable across path and practice contexts while still allowing source-facing Pali and limited explanatory alternates."
+  "version_notes": "Strengthened in the OSF reconciliation pass to classify remembering as aligned house style and to demote awareness-language to a controlled explanatory alternate."
 }

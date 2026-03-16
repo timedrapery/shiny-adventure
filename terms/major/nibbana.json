@@ -8,6 +8,7 @@
   "alternative_translations": [
     "quenching",
     "coolness",
+    "cooling down",
     "extinguishment"
   ],
   "discouraged_translations": [
@@ -15,12 +16,13 @@
     "peace",
     "heaven",
     "annihilation",
-    "mere cessation"
+    "mere cessation",
+    "ultimate reality"
   ],
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The consummation-side designation for the quenching of greed, aversion, and delusion.",
-  "notes": "The repository keeps nibbāna untranslated by default because OSF house style, Dhammarato, and Buddhadasa all treat the term as practical and immediate without reducing it to one English noun. Quenching is the preferred gloss when a gloss is needed, and coolness remains a source-backed explanatory alternate where Buddhadasa-style cooling language is the point. In this repository, nibbāna is not just another way to say vimutti: vimutti is release, while nibbāna is the consummation-side designation that release points toward. It also differs from amata, which highlights the deathless aspect; from asaṅkhata, which highlights the unconditioned aspect; and from santi, which highlights peace rather than functioning as the governing headword for the whole consummation interface. Translators should therefore resist flattening nibbāna into generic peace, generic cessation, heaven, bliss, or a decorative use of nirvana-without-policy. OSF editorial authority and the Buddhadasa usage profile explicitly support keeping nibbāna practical, cool, and non-mystified rather than turning it into a vague metaphysical noun.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. The repository keeps nibbāna untranslated by default because OSF house style, Dhammarato, and Buddhadasa all treat the term as practical and immediate without reducing it to one English noun. At the same time, OSF-facing glossary and Buddhadasa-line materials strongly support cooling, coolness, and cooling down as explanatory language, and the repository now records that more explicitly as a tolerated explanatory layer rather than as drift. What is refused is any move from that practical cooling language into mystical absolute, heaven, generic peace, or decorative ungoverned nirvana-talk. In this repository, nibbāna is not just another way to say vimutti: vimutti is release, while nibbāna is the consummation-side designation that release points toward. It also differs from amata, which highlights the deathless aspect; from asaṅkhata, which highlights the unconditioned aspect; and from santi, which highlights peace rather than functioning as the governing headword for the whole consummation interface. OSF editorial authority, the OSF glossary, and the Buddhadasa usage profile all support keeping nibbāna practical, cool, and non-mystified without surrendering the untranslated default.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -33,9 +35,14 @@
       "notes": "Preferred English gloss when one is needed."
     },
     {
-      "context": "In Buddhadasa-style explanatory prose about direct cooling of the fires here and now",
+      "context": "In Buddhadasa-line or OSF explanatory prose about direct cooling of the fires here and now",
       "rendering": "coolness",
       "notes": "Source-backed explanatory alternate, not the house default."
+    },
+    {
+      "context": "In rough OSF-facing explanatory prose where the practical image is one of cooling down right now",
+      "rendering": "cooling down",
+      "notes": "Tolerated pedagogical alternate, not a source-facing default."
     },
     {
       "context": "In explanatory prose emphasizing the fire-going-out image itself",
@@ -50,8 +57,8 @@
   ],
   "related_terms": [
     "amata",
-    "arahant",
     "asankhata",
+    "arahant",
     "bodhi",
     "ditthadhammanibbana",
     "loka",
@@ -106,10 +113,10 @@
   ],
   "authority_basis": [
     {
-      "source": "OSF Editorial Authority",
+      "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Supports keeping nibbāna practical, non-mystified, and untranslated by default in source-facing doctrinal prose."
+      "kind": "gloss",
+      "scope": "Supports cooling-down and cooling language as controlled explanatory OSF-facing glosses without displacing the untranslated default."
     },
     {
       "source": "Buddhadasa usage profile",
@@ -120,11 +127,11 @@
   ],
   "translation_policy": {
     "default_scope": "Keep nibbāna untranslated in source-facing doctrinal prose and in central consummation-side formulas unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use a gloss only when first-occurrence explanation or explicitly explanatory prose requires it. Do not substitute generic peace, cessation, liberation, or mystical-nirvana language by habit.",
+    "when_not_to_apply": "Use a gloss only when first-occurrence explanation or explicitly explanatory prose requires it. Cooling and coolness language are tolerated OSF-facing explanatory alternates, not replacements for the default. Do not substitute generic peace, cessation, liberation, or mystical-nirvana language by habit.",
     "compound_inheritance": "case-by-case",
     "leave_untranslated_when": "Leave the term untranslated when the surrounding passage needs the full doctrinal range rather than one narrowed English equivalent.",
-    "drift_risk": "Prevents nibbāna from collapsing into enlightenment, generic peace, heaven, annihilation, or ungoverned English 'nirvana' usage."
+    "drift_risk": "Prevents nibbāna from collapsing into enlightenment, generic peace, generic cessation, mystical absolute, or ungoverned English nirvana-talk while still preserving OSF cooling language as explanation."
   },
   "status": "stable",
-  "version_notes": "Strengthened as the governing consummation-side headword and explicitly distinguished from release, deathless, unconditioned, and peace designations."
+  "version_notes": "Strengthened in the OSF reconciliation pass to preserve the untranslated default while making cooling-language a more explicit controlled explanatory layer."
 }
