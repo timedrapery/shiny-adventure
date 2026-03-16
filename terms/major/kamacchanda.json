@@ -3,17 +3,21 @@
   "normalized_term": "kamacchanda",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "sensual desire",
+  "literal_meaning": "desire for sensuality",
   "preferred_translation": "sensual distraction",
   "alternative_translations": [
     "sensual desire"
   ],
   "discouraged_translations": [
-    "lust"
+    "desire",
+    "interest",
+    "attraction",
+    "lust",
+    "pleasant feeling"
   ],
   "untranslated_preferred": false,
-  "definition": "Distraction through desire for sensual objects or agreeable experience.",
-  "notes": "Project preference is sensual distraction rather than the more standard sensual desire because this entry sits within the nīvaraṇa framework, which the project renders as distractions. Sensual desire remains acceptable in explanatory prose where the more familiar wording helps orient the reader. The term should be heard as desire functioning specifically as a derailment of collected practice. The OSF glossary confirms sensual distraction as the house default within the five-distractions framework and preserves sensual desire as the explanatory alternate.",
+  "definition": "Desire for sensuality functioning as a distraction that derails collected practice.",
+  "notes": "The project keeps sensual distraction rather than the more standard sensual desire because this entry sits inside the nīvaraṇa framework, which the repository governs as distractions. Sensual desire remains acceptable in explanatory prose where the lexical link to chanda must be audible, but the term should not be flattened into plain desire, interest, or attraction. In this repository, kāmacchanda differs from bare chanda because it is a narrowed, unwholesome desire for sensuality. It differs from kāma, which names the sensual domain; from taṇhā, which is ignorant wanting; from rāga, which is passion; and from sukha or vedanā, which name felt satisfaction or feeling-tone rather than the distracting pull toward sensuality. The OSF glossary supports sensual distraction as the house default within the five-distractions framework, and DN 2 with MN 39 support the term's place in distraction and abandonment contexts.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
@@ -21,24 +25,25 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose discussing the desire element itself",
+      "context": "In explanatory prose discussing the desire-element of the compound itself",
       "rendering": "sensual desire",
-      "notes": "Acceptable alternate outside the grouped formula."
+      "notes": "Allowed alternate when the lexical link to chanda must be audible."
     },
     {
-      "context": "When the passage emphasizes what draws the mind outward toward agreeable objects",
+      "context": "When the passage emphasizes the derailment of practice by agreeable sensual objects",
       "rendering": "sensual distraction",
-      "notes": "Preserve the connection to the five-distractions framework."
+      "notes": "Preserve the hindrance-framework force rather than reducing the term to bare wanting."
     }
   ],
   "related_terms": [
     "chanda",
+    "kama",
     "kama-raga",
     "kama-tanha",
     "lobha",
-    "nīvaraṇa",
-    "samādhi",
-    "taṇhā"
+    "nivarana",
+    "samadhi",
+    "tanha"
   ],
   "example_phrases": [
     {
@@ -61,7 +66,8 @@
   "tags": [
     "core-practice",
     "meditative-development",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
   "status": "stable",
   "authority_basis": [
@@ -69,13 +75,18 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping sensual distraction as the house default inside the five-hindrances framework, with sensual desire retained only as an explanatory alternate."
+      "scope": "Supports keeping sensual distraction as the house default inside the five-distractions framework, with sensual desire retained only as a controlled alternate."
+    },
+    {
+      "source": "DN 2",
+      "kind": "context-rule",
+      "scope": "Supports the term's place inside the five-distractions framework."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'sensual distraction' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'sensual distraction' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'sensual desire' only when explanatory prose needs the lexical link to chanda. Do not collapse kāmacchanda into plain desire, wholesome motivation, pleasant feeling, or generic sexualized English.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'lust' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between the sensual-domain term kāma, the broader desire-term chanda, and the hindrance term kāmacchanda."
   }
 }

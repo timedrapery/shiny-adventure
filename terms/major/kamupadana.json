@@ -10,11 +10,12 @@
     "taking sensuality personally"
   ],
   "discouraged_translations": [
-    "attachment to pleasure"
+    "attachment to pleasure",
+    "sexual attachment"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to sensuality and sense pleasure as something to possess, pursue, or identify with.",
-  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. The term belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising. The OSF glossary supports this by treating kāmupādāna as a specific clinging mode within the fourfold upādāna analysis.",
+  "definition": "Clinging to sensuality and sensual pleasures as something to possess, pursue, or identify with.",
+  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. In this repository, kāmupādāna should stay tied to the broader sensuality field rather than drifting into mere pleasure-language or narrow sexualized English. It belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising. The OSF glossary supports this by treating kāmupādāna as a specific clinging mode within the fourfold upādāna analysis, and MN 11 supports the framework use.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
@@ -34,11 +35,12 @@
   ],
   "related_terms": [
     "bhava",
+    "kama",
     "kama-raga",
     "kama-tanha",
-    "paṭiccasamuppāda",
-    "taṇhā",
-    "upādāna"
+    "paticcasamuppada",
+    "tanha",
+    "upadana"
   ],
   "example_phrases": [
     {
@@ -61,22 +63,28 @@
   "tags": [
     "core-doctrine",
     "dependent-origination",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
-  "version_notes": "Promoted from a stub to a major entry governing the sensual member of the four clinging types.",
+  "status": "stable",
+  "version_notes": "Sharpened to keep the compound tied to sensuality rather than generic pleasure-language or narrow sexualized English.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current kāmupādāna policy."
+      "scope": "Supports treating kāmupādāna as the sensual member of the fourfold upādāna analysis."
+    },
+    {
+      "source": "MN 11",
+      "kind": "context-rule",
+      "scope": "Supports the term's framework use inside the four clinging types."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'sensual clinging' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use the alternates only when the local line needs to emphasize appropriation more explicitly. Do not collapse the term into pleasure-language or sexualized English by default.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'attachment to pleasure' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between the sensuality headword kāma, the appropriative headword upādāna, and weaker pleasure-language."
   }
 }
