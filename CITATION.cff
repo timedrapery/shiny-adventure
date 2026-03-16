@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this repository in translation infrastructure, editorial workflow research, or terminology studies, please cite it using the metadata below."
+title: "Open Sangha Foundation Pali Translation Lexicon"
+type: dataset
+authors:
+  - name: "Open Sangha Foundation"
+repository-code: "https://github.com/timedrapery/shiny-adventure"
+url: "https://github.com/timedrapery/shiny-adventure"
+license: MIT
+abstract: "Structured Pali-to-English translation lexicon for Early Buddhist work. The repository encodes translation policy, context rules, provenance, and drift-prevention guidance as machine-checkable data."
+keywords:
+  - pali
+  - translation
+  - lexicon
+  - terminology
+  - buddhism
+  - editorial-workflow

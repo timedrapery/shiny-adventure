@@ -13,7 +13,7 @@
 - **Preferred translation affected:** (or N/A)
 - **Doctrinal family or compounds reviewed:** (list headwords checked)
 - **Authority basis:** (OSF house, Dhammarato, Buddhadasa, or secondary source)
-- **Drift-risk terms reviewed:** (confirm any high-instability terms in scope were checked against [docs/DRIFT_RISK_TERMS.md](docs/DRIFT_RISK_TERMS.md))
+- **Drift-risk terms reviewed:** (confirm any high-instability terms in scope were checked against [docs/DRIFT_RISK_TERMS.md](../docs/DRIFT_RISK_TERMS.md))
 
 ## References
 

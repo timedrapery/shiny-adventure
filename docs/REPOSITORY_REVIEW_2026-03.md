@@ -20,31 +20,40 @@ editorial maintenance from decisions that require doctrinal judgment.
 ### Translation-Drift Risks
 
 - The strict validation stack currently passes, so reciprocal `related_terms`
-  warnings are not the active release blocker they were during the earlier
-  cleanup pass.
-- The main quality gap has shifted from structural correctness to provenance
-  depth: many major entries still rely on generic `authority_basis`, and more
-  than 100 major entries still have at least one example phrase without a
-  canonical `source` citation.
-- The highest-yield next work is cluster-based provenance hardening,
-  especially in dependent arising, core practice, and mental-quality families,
-  where house policy is already present but still needs stronger source-backed
-  support.
+  warnings are not the active blocker they were during the earlier cleanup
+  pass.
+- Current health reporting shows no missing `authority_basis`, no missing
+  `translation_policy`, no example-source gaps, and no unresolved preferred
+  translation collisions in major entries.
+- Current coverage reporting shows no missing doctrinal families from the
+  repository's tracked coverage set.
+- The main remaining risk is now surface-level rather than structural: the
+  repository is strong internally, but new contributors still depend too much
+  on knowing where to look for the right workflow, command, or review document.
 
 ### Documentation Drift
 
 - Core contributor docs now align with the live schema and the current
   repository structure.
 - The remaining documentation gap is operational rather than definitional:
-  cluster-by-cluster editorial progress is still tracked mostly in narrative
-  planning documents rather than in compact milestone-style execution notes.
+  command discovery, workflow entry points, and GitHub-native navigation need
+  to be more obvious at first glance.
+
+### Maturity Signals
+
+- CI already runs the full verification suite on pull requests and pushes for
+  Python 3.11 and 3.12.
+- Community-health files are present and coherent.
+- A small set of major entries still remains in `draft`, which is reasonable,
+  but that queue should stay explicit so editorial review status remains easy
+  to interpret.
 
 ## Immediate Priorities
 
-1. Replace generic `authority_basis` entries in the highest-leverage doctrinal
-  clusters, starting with dependent arising.
-2. Fill missing `example_phrases[].source` citations where canonical references
-  are already known or can be verified from related term families.
-3. Continue reviewing major entries for rule quality, especially where notes
-  describe translation philosophy but context rules remain thinner than the
-  surrounding editorial claims.
+1. Keep the public repository surface as disciplined as the underlying data by
+  tightening README navigation, command discovery, and contributor entry
+  points.
+2. Maintain explicit review discipline around the remaining `draft` major
+  entries so status vocabulary continues to mean something.
+3. Keep workflow docs aligned with the live script surface as new reporting,
+  scaffolding, or backfill utilities are added.

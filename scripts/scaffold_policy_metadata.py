@@ -17,6 +17,12 @@ except ModuleNotFoundError:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
 
+PLACEHOLDER_WARNING_LINES = (
+    "WARNING: scaffold_policy_metadata.py writes placeholder policy text.",
+    "Fill every placeholder before merging or treating the entry as review-ready.",
+    "See docs/TERM_ENTRY_STANDARD.md and docs/OSF_EDITORIAL_AUTHORITY.md for completion rules.",
+)
+
 
 def load_json(path: Path) -> object:
     with path.open("r", encoding="utf-8") as handle:
@@ -95,6 +101,12 @@ def scaffold_file(path: Path) -> bool:
     return changed
 
 
+def print_placeholder_warning() -> None:
+    print()
+    for line in PLACEHOLDER_WARNING_LINES:
+        print(line)
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -135,6 +147,7 @@ def main() -> int:
         for path in targets:
             print(path.name)
         print(f"Would scaffold {len(targets)} file(s).")
+        print_placeholder_warning()
         return 0
 
     changed = 0
@@ -146,6 +159,8 @@ def main() -> int:
             print(f"Skipped {path.name}: already complete")
 
     print(f"Updated {changed} file(s).")
+    if changed:
+        print_placeholder_warning()
     return 0
 
 

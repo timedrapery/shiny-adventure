@@ -1,0 +1,72 @@
+# Script Index
+
+This directory contains the repository's validation, reporting, scaffolding, and helper tooling.
+
+All CLI scripts support `--help`.
+
+## Core Verification Commands
+
+- `python scripts/run_checks.py`
+  Runs the full verification suite in the same order used by CI.
+- `python scripts/check_docs_integrity.py`
+  Validates internal Markdown links and required repository-surface metadata files.
+- `python scripts/validate_terms.py`
+  Validates term JSON files against the project schema.
+- `python scripts/lint_terms.py`
+  Runs editorial lint checks against live term data.
+- `python scripts/check_translation_drift.py`
+  Detects translation drift across related terms and policy-bearing records.
+
+## Reporting And Planning Commands
+
+- `python scripts/repo_health.py --top 10`
+  Reports repository health signals for editorial scalability and automation.
+- `python scripts/audit_term_coverage.py --top 15`
+  Reports doctrinal coverage gaps in the term dataset.
+- `python scripts/draft_major_review_queue.py`
+  Reports the current queue of draft major entries still awaiting an editorial pass.
+- `python scripts/policy_backfill_queue.py`
+  Ranks major terms that should be prioritized for metadata backfill.
+
+## Candidate Intake Commands
+
+- `python scripts/extract_candidate_terms.py path/to/source.txt`
+  Extracts review candidates from Pali source texts without creating live entries.
+- `python scripts/generate_candidate_report.py`
+  Renders a Markdown review report from candidate extraction JSON.
+- `python scripts/scaffold_candidate_terms.py --priority create_now`
+  Scaffolds review packets for extracted candidates without writing to `terms/`.
+
+## Metadata Backfill Commands
+
+- `python scripts/scaffold_policy_metadata.py --check-only --all-missing`
+  Shows which major entries would receive placeholder `authority_basis` or `translation_policy` blocks.
+- `python scripts/scaffold_policy_metadata.py --all-missing`
+  Writes placeholder metadata blocks for missing major-entry policy fields.
+- `python scripts/backfill_policy_metadata.py --check-only`
+  Applies machine-safe metadata backfill logic without writing files.
+
+Use these conservatively. Placeholder output still requires editorial completion before review or merge.
+
+## Batch Writing Commands
+
+- `python scripts/write_term_batch.py --help`
+  Writes term entry batches to `terms/` using explicit UTF-8 output.
+
+## Internal Helper Modules
+
+- `scripts/term_store.py`
+  Shared helpers for locating and writing term files.
+- `scripts/text_utils.py`
+  Shared text normalization and ASCII-safe display helpers.
+
+These modules are support code, not standalone workflow entry points.
+
+## Practical Starting Points
+
+- Editing term data: run `validate_terms.py`, `lint_terms.py`, and `check_translation_drift.py`.
+- Checking repository surface quality: run `check_docs_integrity.py`.
+- Checking overall repository maturity: run `repo_health.py` and `audit_term_coverage.py`.
+- Reviewing open major-entry status work: run `draft_major_review_queue.py`.
+- Preparing a merge-ready pass: run `run_checks.py`.
+- Intake from new source material: use the candidate workflow commands first, then promote only after review.

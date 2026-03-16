@@ -13,6 +13,7 @@ Use this document alongside:
 - `docs/DATA_DICTIONARY.md`
 - `docs/TERM_ENTRY_STANDARD.md`
 - `STYLE_GUIDE.md`
+- `docs/REVIEW_STATUS_MODEL.md`
 
 ---
 
@@ -290,6 +291,8 @@ Typical signs:
 - Use `draft` for work in progress.
 - Use `reviewed` for solid entries that may still evolve.
 - Use `stable` only when you would be comfortable reusing the entry across the project today.
+
+For the operational workflow behind these labels, see `docs/REVIEW_STATUS_MODEL.md`.
 
 ---
 

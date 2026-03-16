@@ -21,6 +21,13 @@ Read these documents in order:
 9. [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
 
 If you are editing compounds or recurring formulas, also read [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md).
+If you are changing review status on a major entry, also read [docs/REVIEW_STATUS_MODEL.md](docs/REVIEW_STATUS_MODEL.md).
+
+## Choose The Right Contribution Path
+
+- Term record change: read the editorial documents above, inspect related headwords and compounds, and run validation plus linting before opening a pull request.
+- Script or validation change: read [docs/development-guide.md](docs/development-guide.md), keep behavior deterministic, and add or update tests in `tests/`.
+- Documentation change: keep wording explicit and repository-native, and update cross-links when changing workflow guidance.
 
 ## Contribution Types
 
@@ -44,7 +51,7 @@ Typical contributions include:
 
 1. Create a focused branch.
 2. Make the smallest coherent change set.
-3. Run validation locally.
+3. Run the smallest useful local checks while iterating.
 4. Open a pull request that explains the editorial effect of the change.
 
 Example setup:
@@ -62,6 +69,37 @@ On Windows PowerShell, activate the environment with:
 
 ```powershell
 .venv\Scripts\Activate.ps1
+```
+
+## Working Loop
+
+For most term edits, this is the practical minimum:
+
+```bash
+python scripts/validate_terms.py
+python scripts/lint_terms.py
+python scripts/check_translation_drift.py
+```
+
+Before opening a pull request, run the full suite:
+
+```bash
+python scripts/run_checks.py
+```
+
+If you are changing workflow code, use targeted tests while iterating:
+
+```bash
+python -m unittest tests.test_validate_terms -v
+python -m unittest tests.test_lint_terms -v
+```
+
+Every CLI script in `scripts/` supports `--help`. See [scripts/README.md](scripts/README.md) for a repository-level index.
+
+When reviewing status work on major entries, inspect the current queue with:
+
+```bash
+python scripts/draft_major_review_queue.py
 ```
 
 ## Working With Term Records
@@ -98,6 +136,9 @@ python scripts/check_translation_drift.py
 python scripts/repo_health.py
 python scripts/run_checks.py
 ```
+
+If your change affects candidate intake, metadata backfill, or repo reporting, also review the task-based commands in [docs/usage.md](docs/usage.md).
+If your change touches Markdown or repository metadata, run `python scripts/check_docs_integrity.py` as part of the local check loop.
 
 ## Pull Requests
 
