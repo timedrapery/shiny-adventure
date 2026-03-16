@@ -1,0 +1,83 @@
+{
+  "term": "pariyuṭṭhāna",
+  "normalized_term": "pariyutthana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "rising up around, surrounding manifestation",
+  "preferred_translation": "manifestation",
+  "alternative_translations": [
+    "upsurge",
+    "taking over"
+  ],
+  "discouraged_translations": [
+    "obsession",
+    "habit",
+    "latent tendency"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The active manifestation or surfacing of an unwholesome state as it rises up and takes over the mind.",
+  "notes": "The project keeps manifestation as the default because it marks the active, surfaced phase of an unwholesome state without psychologizing it into mere obsession. Upsurge and taking over remain controlled alternates when the movement of surfacing or overtaking needs extra emphasis. In this repository, pariyuṭṭhāna is not the same as anusaya: anusaya may lie latent underneath, whereas pariyuṭṭhāna names a state that has come up into active manifestation. It also differs from pahāna, which is the abandoning of such states, and from the culminating sequence terms virāga, vossagga, nirodha, and khaya. The OSF glossary supports keeping active process-language distinct from latent residue-language, and MN 48 with Iti 49 support the surfaced, taking-over force of the term.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "manifestation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the rising-up motion",
+      "rendering": "upsurge",
+      "notes": "Allowed alternate when the movement into activity is the point."
+    },
+    {
+      "context": "In prose emphasizing how the state overtakes the mind",
+      "rendering": "taking over",
+      "notes": "Allowed alternate when the active takeover needs to be explicit."
+    }
+  ],
+  "related_terms": [
+    "pahana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pariyuṭṭhānena pariyuṭṭhitacitto",
+      "translation": "with the mind taken over by that manifestation",
+      "notes": "Shows the active, surfaced force of the family.",
+      "source": "MN 48"
+    },
+    {
+      "pali": "upakkilesā ca cetaso pariyuṭṭhānā",
+      "translation": "corruptions and manifestations of the mind",
+      "notes": "Shows manifestation language alongside other active mental corruption language.",
+      "source": "Iti 49"
+    }
+  ],
+  "sutta_references": [
+    "MN 48",
+    "Iti 49"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping active manifestation-language distinct from latent residue-language."
+    },
+    {
+      "source": "MN 48",
+      "kind": "context-rule",
+      "scope": "Supports the term's active surfaced force through the pariyuṭṭhitacitta formulation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'manifestation' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'upsurge' or 'taking over' only when the explanatory context clearly needs those active shades. Do not collapse pariyuṭṭhāna into latent tendency, generic obsession, or generic unwholesome-state language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents collapse between active manifestation language, latent-residue language, and generic psychological wording."
+  }
+}

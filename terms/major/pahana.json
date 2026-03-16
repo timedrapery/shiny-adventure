@@ -1,0 +1,92 @@
+{
+  "term": "pahāna",
+  "normalized_term": "pahana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "abandoning, putting away",
+  "preferred_translation": "abandoning",
+  "alternative_translations": [
+    "giving up",
+    "putting away"
+  ],
+  "discouraged_translations": [
+    "suppression",
+    "cessation",
+    "release"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Abandoning or putting away an unwholesome factor in practice or doctrinal analysis.",
+  "notes": "The project keeps abandoning as the default because it is plain, operational English for the task of putting away what is unwholesome. Giving up and putting away remain controlled alternates for local prose flow. In this repository, pahāna is a process-facing task term. It is broader than temporary suppression, but it does not by itself mean fading, quenching, relinquishment, or final exhaustion. That means pahāna must stay distinct from virāga, vossagga, nirodha, and khaya rather than collapsing into one vague liberation word. It also differs from pariyuṭṭhāna: pariyuṭṭhāna names active manifestation, while pahāna names the abandoning of such factors. The same task-language extends by default into compounds such as pahāna-saññā unless a narrower compound record documents an override. The OSF glossary supports keeping task-language explicit, and MN 118 supports the term's practical role in abandoning distractions.",
+  "context_rules": [
+    {
+      "context": "In most practice and doctrinal contexts",
+      "rendering": "abandoning",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In concise practical prose",
+      "rendering": "giving up",
+      "notes": "Allowed alternate when it reads more naturally."
+    },
+    {
+      "context": "In explanatory prose emphasizing putting something aside",
+      "rendering": "putting away",
+      "notes": "Allowed alternate when the line wants an explicit act of removal."
+    }
+  ],
+  "related_terms": [
+    "anusaya",
+    "asava",
+    "khaya",
+    "kilesa",
+    "nivarana",
+    "pariyutthana",
+    "pahana-sanna",
+    "samyojana",
+    "viraga",
+    "vossagga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nīvaraṇānaṃ pahānāya",
+      "translation": "for the abandoning of the distractions",
+      "notes": "Practical removal language in meditative-development contexts.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "pahāna-saññā",
+      "translation": "the perception of abandoning",
+      "notes": "Shows the term in a deliberate contemplative-training frame.",
+      "source": "AN 10.60"
+    }
+  ],
+  "sutta_references": [
+    "MN 118",
+    "AN 10.60"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping explicit task-language rather than collapsing pahāna into later culmination terms."
+    },
+    {
+      "source": "MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the term's practical role in abandoning distractions."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'abandoning' as the default rendering in the entry's governed practice and doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'giving up' or 'putting away' only when local prose clearly benefits. Do not collapse pahāna into suppression, quenching, relinquishment, or final exhaustion.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents process-facing abandonment language from collapsing into culmination language such as virāga, vossagga, nirodha, or khaya."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "term": "āsavakkhaya",
+  "normalized_term": "asavakkhaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wearing away of the outflows",
+  "preferred_translation": "the wearing away of the outflows",
+  "definition": "A compact liberation compound in the khaya and āsava families.",
+  "notes": "This compound should inherit both the khaya and āsava headword policies. Keep the wording stable rather than rotating into generic ending or release language.",
+  "related_terms": [
+    "asava",
+    "khaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavakkhaya",
+      "translation": "the wearing away of the outflows",
+      "notes": "Compact doctrinal compound for the liberation goal.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "formula",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

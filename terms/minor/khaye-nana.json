@@ -6,18 +6,32 @@
   "literal_meaning": "knowledge of wearing away",
   "preferred_translation": "knowledge of wearing away",
   "alternative_translations": [
-    "knowledge of ending"
+    "knowledge of exhaustion"
   ],
   "discouraged_translations": [
-    "nihilism"
+    "nihilism",
+    "knowledge of cessation"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowledge of the wearing away of the defilements or outflows.",
+  "definition": "Knowledge of the wearing away of defilements or outflows.",
+  "notes": "This compound should inherit the khaya headword policy. Keep the exhaustion or wearing-away force explicit rather than collapsing the term into nirodha-language.",
+  "related_terms": [
+    "khaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "khaye ñāṇaṃ",
+      "translation": "knowledge of wearing away",
+      "notes": "Shows the khaya family carried into a knowledge-expression.",
+      "source": "MN 70"
+    }
+  ],
   "sutta_references": [
     "MN 70"
   ],
   "tags": [
-    "liberation"
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }
