@@ -1,0 +1,55 @@
+{
+  "term": "yathābhūtaṃ pajānāti",
+  "normalized_term": "yathabhutam-pajanati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "discerns it as it has come to be",
+  "alternative_translations": [
+    "clearly knows it as it has come to be",
+    "discerns it as it is"
+  ],
+  "discouraged_translations": [
+    "realizes reality",
+    "objectively knows it"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Formula record for pajānāti in the yathābhūta family, preserving the sharper discerning verb and the conditioned-process force of bhūta.",
+  "notes": "This formula inherits the pajānāti and yathābhūta-ñāṇadassana policies. MN 1 supports the formula surface directly. Keep the discerning force explicit and do not flatten the line into generic objectivity or realization-language.",
+  "related_terms": [
+    "janati",
+    "pajanati",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yathābhūtaṃ pajānāti",
+      "translation": "one discerns it as it has come to be",
+      "notes": "Core formula surface for the sharper verbal knowing family.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the yathābhūtaṃ pajānāti formula as a sharpened verbal knowing expression."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'discerns it as it has come to be' as the default rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the shorter alternate only when English flow demands it. Do not flatten the formula into generic objectivity or realization-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the formula from erasing either the discerning verbal force of pajānāti or the conditioned-process force of yathābhūta."
+  }
+}

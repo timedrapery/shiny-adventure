@@ -1,0 +1,94 @@
+{
+  "term": "sañjānāti",
+  "normalized_term": "sanjanati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "recognizes, identifies",
+  "preferred_translation": "recognizes",
+  "alternative_translations": [
+    "identifies",
+    "perceives as"
+  ],
+  "discouraged_translations": [
+    "knows",
+    "realizes",
+    "designates"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Recognition-language belonging with the saññā family: taking something as something, identifying it, or recognizing it under a sign or designation.",
+  "notes": "The project keeps recognizes as the default because sañjānāti belongs with recognition and identification, not with deeper discerning or liberating knowing. Identifies remains acceptable where the line stresses classificatory recognition, and perceives as can be used where the object-complement structure must stay audible in English. In this repository, sañjānāti should stay close to saññā and clearly distinct from jānāti and pajānāti. It must not be inflated into wisdom or realization, but it also should not be reduced to generic bare perception-language when the act of recognition is what matters. Punnaji's practical materials help here by keeping recognition distinct from fuller understanding. Hillside / Ñāṇamoli materials are especially helpful because they sharpen the distinction between recognition, designation, and clearer understanding without encouraging imported jargon. OSF and Dhammarato materials reinforce the same anti-mystifying discipline by keeping these verbs practical and tied to lived experience rather than speculative mental theory.",
+  "context_rules": [
+    {
+      "context": "In most source-facing contexts where the verb marks recognition or taking something as something",
+      "rendering": "recognizes",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the line stresses classificatory or differentiating recognition",
+      "rendering": "identifies",
+      "notes": "Allowed alternate when the English needs a slightly more explicit verb."
+    },
+    {
+      "context": "When the object-complement structure matters and the line explicitly presents something as something",
+      "rendering": "perceives as",
+      "notes": "Use selectively so the verb does not drift into generic perception-language."
+    }
+  ],
+  "related_terms": [
+    "janati",
+    "sanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ paṭhavito sañjānāti",
+      "translation": "one recognizes earth as earth",
+      "notes": "Shows the recognition structure without turning the verb into deeper knowing or realization.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "yaṃ sañjānāti taṃ vitakketi",
+      "translation": "what one recognizes, one thinks about",
+      "notes": "Shows the verb in the recognition/designation sequence rather than the liberating-knowledge family.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 1",
+    "MN 18"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping recognition-language plain and non-mystified rather than collapsing it into knowing or realization."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports distinguishing recognition from fuller understanding in practical introspective language."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports the recognition and designation distinction without flattening it into either perception-talk or liberating understanding."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'recognizes' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'identifies' or 'perceives as' only when the local syntax requires it. Do not flatten sañjānāti into generic knowing, perception without recognition, or realization-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the verb from collapsing either into generic perception-language or into the deeper knowing and wisdom family."
+  },
+  "version_notes": "Created in the verbal knowing / recognition pass to anchor the recognition verb in the saññā family."
+}

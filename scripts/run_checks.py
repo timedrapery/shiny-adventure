@@ -28,6 +28,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Emptiness / signless / wishless interface cluster", [sys.executable, "scripts/emptiness_signless_wishless_cluster_report.py", "--strict"]),
     ("OSF reconciliation layer", [sys.executable, "scripts/osf_reconciliation_report.py", "--strict"]),
     ("Knowledge / seeing / understanding cluster", [sys.executable, "scripts/knowledge_cluster_report.py", "--strict"]),
+    ("Verbal knowing / recognition cluster", [sys.executable, "scripts/verbal_knowing_cluster_report.py", "--strict"]),
     ("Craving / appropriation cluster", [sys.executable, "scripts/craving_appropriation_cluster_report.py", "--strict"]),
     ("Kama cluster", [sys.executable, "scripts/kama_cluster_report.py", "--strict"]),
     ("Experience / process cluster", [sys.executable, "scripts/experience_process_cluster_report.py", "--strict"]),

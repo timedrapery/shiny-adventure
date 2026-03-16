@@ -1,0 +1,99 @@
+{
+  "term": "jānāti",
+  "normalized_term": "janati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "knows, comes to know",
+  "preferred_translation": "knows",
+  "alternative_translations": [
+    "comes to know",
+    "understands"
+  ],
+  "discouraged_translations": [
+    "realizes",
+    "discerns",
+    "is aware of"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Ordinary or baseline knowing-language, used when the text simply says that something is known without yet marking recognition, discernment, or completed liberating knowledge.",
+  "notes": "The project keeps knows as the default because jānāti is the broad verbal surface of knowing and should not be inflated into deeper discernment or attainment-language. Comes to know remains acceptable when the line stresses the arrival of knowing, and understands remains acceptable only where plain English needs it and no sharper verb-family contrast is being lost. In this repository, jānāti differs from pajānāti, which is the more discerning or clearer verbal knowing linked to the paññā family; from sañjānāti, which belongs with recognition and the saññā family; and from aññā, which belongs to accomplishment-side liberating knowledge rather than ordinary knowing. OSF and Dhammarato materials support keeping such knowing-language plain and practical rather than mystical, while Punnaji and Hillside / Ñāṇamoli help reinforce a second caution: do not make simple knowing-language carry more liberating weight than the immediate context warrants.",
+  "context_rules": [
+    {
+      "context": "In most source-facing contexts where the verb simply states that something is known",
+      "rendering": "knows",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the line stresses the arising or arrival of knowing rather than a static state",
+      "rendering": "comes to know",
+      "notes": "Allowed alternate when the English sentence benefits from a slightly more processive verb."
+    },
+    {
+      "context": "In idiomatic English prose where knows would sound wooden and no sharper contrast is being lost",
+      "rendering": "understands",
+      "notes": "Use sparingly and not where pajānāti or pariññā are nearby."
+    }
+  ],
+  "related_terms": [
+    "anna",
+    "nana",
+    "pajanati",
+    "panna",
+    "parinna",
+    "sanjanati",
+    "sanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "na jānāti",
+      "translation": "does not know",
+      "notes": "Simple negated knowing surface showing the broad baseline role of the verb.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "jānāti passati",
+      "translation": "knows and sees",
+      "notes": "Nearby seeing-language reminds translators not to over-translate ordinary knowing verbs into seeing or realization without textual basis.",
+      "source": "SN 22.87"
+    }
+  ],
+  "sutta_references": [
+    "MN 1",
+    "SN 22.87"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports plain practical knowing-language without inflating ordinary verbs into attainment or mystical insight."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports keeping baseline knowing distinct from fuller comprehension and liberating understanding."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports context-sensitive, anti-inflated handling of ordinary knowing-language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'knows' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'comes to know' or 'understands' only when a recorded context rule or strong English need justifies it. Do not upgrade jānāti into discernment, realization, or liberating knowledge without textual cause.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents ordinary knowing-language from being over-translated into deep insight, realization, or broader awareness-language."
+  },
+  "version_notes": "Created in the verbal knowing / recognition pass to anchor the plain knowing verb against pajānāti, sañjānāti, and aññā."
+}

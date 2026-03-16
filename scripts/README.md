@@ -49,6 +49,8 @@ All CLI scripts support `--help`.
   Audits the current OSF reconciliation surface and can generate a term-by-term reconciliation sheet in `docs/generated/`.
 - `python scripts/knowledge_cluster_report.py`
   Audits the knowledge / seeing / understanding cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
+- `python scripts/verbal_knowing_cluster_report.py`
+  Audits the verbal knowing / recognition cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/craving_appropriation_cluster_report.py`
   Audits the craving / appropriation / affective-attachment cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/kama_cluster_report.py`

@@ -37,6 +37,7 @@
     "dassana",
     "dhammavicaya",
     "nanadassana",
+    "pajanati",
     "ñāṇa",
     "paññā",
     "paṭiccasamuppāda",
@@ -46,8 +47,8 @@
   "example_phrases": [
     {
       "pali": "yathābhūtaṃ pajānāti",
-      "translation": "one knows it as it has come to be",
-      "notes": "Shows the broader family usage behind the compound.",
+      "translation": "one discerns it as it has come to be",
+      "notes": "Shows the sharper verbal family usage behind the compound.",
       "source": "MN 1"
     },
     {
