@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Fundamental not-knowing that obscures the nature of experience and conditions the arising of suffering.",
-  "notes": "The project keeps ignorance as the default because it is readable and established, while the notes and context rules keep it from sounding like mere lack of information. Not-knowing can be useful when the active, ongoing failure to see clearly needs emphasis. In this repository, avijjā must now stay explicitly distinct from vijjā, which is clear knowledge, and from ñāṇa more broadly. It is not simply lack of data but an obscuring not-knowing that conditions the rest of the process. OSF house materials support practical not-knowing language here, and Punnaji's materials reinforce that bare perception or sentience is not yet vijjā. The repository therefore treats avijjā as more than informational ignorance while resisting abstract metaphysical rhetoric.",
+  "notes": "The project keeps ignorance as the default because it is readable and established, while the notes and context rules keep it from sounding like mere lack of information. Not-knowing can be useful when the active, ongoing failure to see clearly needs emphasis. In this repository, avijjā must now stay explicitly distinct from vijjā, which is clear knowledge, and from ñāṇa more broadly. It is not simply lack of data but an obscuring not-knowing that conditions the rest of the process. OSF house materials support practical not-knowing language here, and Punnaji's materials reinforce that bare perception or sentience is not yet vijjā. Hillside / Ñāṇamoli materials sharpen the same caution from the side of obscured context: awareness of objects or experiences is not yet liberating understanding. The repository therefore treats avijjā as more than informational ignorance while resisting abstract metaphysical rhetoric.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -84,6 +84,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports treating avijjā as a deeper not-knowing that must not be confused with mere perception or lack of data."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports treating avijjā as obscured context and not merely as absence of information or object-awareness."
     }
   ],
   "translation_policy": {

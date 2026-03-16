@@ -62,6 +62,10 @@ It exists to stop drift across English words such as `knowledge`, `wisdom`,
   `paññā` can be explained introspectively, `abhiññā` can be discussed in terms
   of directly realized or heightened knowing, and `pariññā` can be clarified as
   full comprehension.
+- Preserve Hillside / Ñāṇamoli help where useful:
+  context, endurance, restraint, and whole-situation awareness can sharpen
+  explanatory notes around `sampajañña`, `avijjā`, `dassana`, and the wider
+  knowing-family without turning the cluster into imported technical jargon.
 - Do not let those practical explanations replace the repo defaults.
 
 ## Main Drift Risks

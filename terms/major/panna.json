@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Discernment that sees the character of experience clearly and supports release.",
-  "notes": "The project keeps discernment as the default because it sounds active, practical, and trainable, whereas wisdom can sound honorary, literary, or static. Understanding remains acceptable in explanatory prose, and wisdom remains a familiar orientation alternate, but neither should replace the house default in path, faculty, and liberation contexts. In this repository, paññā is not the same as ñāṇa: paññā is the cultivated capacity of discernment, while ñāṇa is the knowing or knowledge that may arise within or from that discernment. It also differs from pariññā, which is full understanding or complete penetration of a task-object, and from diṭṭhi, which is view rather than knowledge. OSF house materials keep paññā within practical seeing and release-language, while Punnaji's materials often speak of introspective insight; the repository preserves that as a practical explanatory pressure without making insight the uncontrolled default for the headword.",
+  "notes": "The project keeps discernment as the default because it sounds active, practical, and trainable, whereas wisdom can sound honorary, literary, or static. Understanding remains acceptable in explanatory prose, and wisdom remains a familiar orientation alternate, but neither should replace the house default in path, faculty, and liberation contexts. In this repository, paññā is not the same as ñāṇa: paññā is the cultivated capacity of discernment, while ñāṇa is the knowing or knowledge that may arise within or from that discernment. It also differs from pariññā, which is full understanding or complete penetration of a task-object, and from diṭṭhi, which is view rather than knowledge. OSF house materials keep paññā within practical seeing and release-language, while Punnaji's materials often speak of introspective insight; the repository preserves that as a practical explanatory pressure without making insight the uncontrolled default for the headword. Hillside / Ñāṇamoli materials reinforce a compatible practical angle: what matters is discernment of context, involvement, and liability rather than decorative wisdom-language. That support strengthens the repo's refusal of generic wisdom-talk without requiring a new default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -97,6 +97,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports a practical introspective emphasis on paññā without forcing insight-language to become the house default."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports handling paññā as practical discernment of context and involvement rather than as generic wisdom-talk."
     }
   ],
   "translation_policy": {

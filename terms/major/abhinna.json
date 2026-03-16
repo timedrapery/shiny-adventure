@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Higher knowing or directly realized knowing, used in attainment and extraordinary-knowledge contexts.",
-  "notes": "The project prefers higher knowing because it preserves the raised force of the prefix without making the term sound sensationalistic or occult. Higher knowledge remains acceptable in more noun-heavy prose, and direct knowledge is acceptable when the line is about personally realized knowing rather than powers or lists. In this repository, abhiññā is not generic insight, not just another word for ñāṇa, and not something to be inflated into New Age or occult rhetoric. It names a heightened or directly realized knowing within doctrinally marked contexts, including formulas about personally realizing release. The OSF glossary supports a plain knowledge-based handling rather than occult rhetoric. Punnaji's practical materials sometimes use apperception as a pedagogical explanation; the repository records that as a controlled practical note but does not adopt it as the default translation.",
+  "notes": "The project prefers higher knowing because it preserves the raised force of the prefix without making the term sound sensationalistic or occult. Higher knowledge remains acceptable in more noun-heavy prose, and direct knowledge is acceptable when the line is about personally realized knowing rather than powers or lists. In this repository, abhiññā is not generic insight, not just another word for ñāṇa, and not something to be inflated into New Age or occult rhetoric. It names a heightened or directly realized knowing within doctrinally marked contexts, including formulas about personally realizing release. The OSF glossary supports a plain knowledge-based handling rather than occult rhetoric. Punnaji's practical materials sometimes use apperception as a pedagogical explanation; the repository records that as a controlled practical note but does not adopt it as the default translation. Hillside / Ñāṇamoli materials reinforce the same anti-spectacle direction more broadly by resisting special-experience inflation in contemplative language. The repository therefore keeps abhiññā governed as raised knowing, not as sensational attainment-language.",
   "context_rules": [
     {
       "context": "In most doctrinal and list contexts where the term names a raised mode of knowing",
@@ -82,6 +82,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports a practical introspective reading of the term while the repo keeps the main headword governed as higher knowing."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports refusing sensationalist or spectacle-driven handling of raised contemplative vocabulary."
     }
   ],
   "translation_policy": {

@@ -18,6 +18,12 @@
 - `diṭṭhi` remains view, not knowledge.
 - `sati` remains remembering, and `sampajañña` remains practice-side clear knowing.
 
+## Source-Facing Guardrails
+
+- Preserve OSF and Dhammarato anti-mystification pressure: keep the cluster practical and release-facing.
+- Preserve Punnaji's practical help where useful without letting introspective explanation replace the governed defaults.
+- Preserve Hillside / Ñāṇamoli help where useful: context, restraint, and whole-situation awareness can sharpen explanatory notes without turning the family into imported technical jargon.
+
 ## Formula Guardrails
 
 - `ñāṇadassana` -> `knowing and seeing`

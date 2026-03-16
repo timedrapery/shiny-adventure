@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Seeing, especially the contemplative or experiential seeing side of epistemic expressions and formulas.",
-  "notes": "The project prefers seeing because it is plain, practical, and keeps the experiential side of the term audible. Clear seeing remains acceptable when the line needs an explicit qualifier, and vision remains acceptable only in tightly governed compounds where English really needs a noun. In this repository, dassana is not the same as ñāṇa: ñāṇa handles the knowing side, while dassana preserves the seeing side. It also differs from paññā, which is discernment as a cultivated capacity rather than the event or fact of seeing, and from diṭṭhi, which is view rather than clear seeing. OSF house style favors practical, anti-mystified handling here, and Punnaji usage likewise supports practical seeing-language within introspective awakening explanation, so the repository refuses mystical-vision language unless a narrower compound record explicitly justifies it.",
+  "notes": "The project prefers seeing because it is plain, practical, and keeps the experiential side of the term audible. Clear seeing remains acceptable when the line needs an explicit qualifier, and vision remains acceptable only in tightly governed compounds where English really needs a noun. In this repository, dassana is not the same as ñāṇa: ñāṇa handles the knowing side, while dassana preserves the seeing side. It also differs from paññā, which is discernment as a cultivated capacity rather than the event or fact of seeing, and from diṭṭhi, which is view rather than clear seeing. OSF house style favors practical, anti-mystified handling here, and Punnaji usage likewise supports practical seeing-language within introspective awakening explanation, so the repository refuses mystical-vision language unless a narrower compound record explicitly justifies it. Hillside / Ñāṇamoli materials reinforce another useful constraint: seeing-language should remain tied to context and appearance as experienced, not inflated into special inner vision. The repository therefore keeps seeing simple and governed.",
   "context_rules": [
     {
       "context": "In most doctrinal and formula contexts",
@@ -77,6 +77,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports practical seeing-language within introspective and awakening-oriented explanation."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports anti-mystified seeing-language tied to context and appearance rather than to special vision-talk."
     }
   ],
   "translation_policy": {

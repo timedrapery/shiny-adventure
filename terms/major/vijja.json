@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clear, liberating knowledge that stands opposite to avijjā and belongs with awakening and release rather than mere information.",
-  "notes": "The project prefers clear knowledge because vijjā sits in direct contrast to avijjā and should sound more sharpened and liberative than generic knowledge. Plain knowledge remains acceptable where English needs less weight, and full knowledge is tolerated as a controlled practical alternate in Punnaji-style pedagogy, especially where he speaks of fuller knowing within awakening sequences. In this repository, vijjā is not the same as ñāṇa: ñāṇa is the broader knowing/knowledge family, while vijjā names clearer liberating knowledge in contrast to ignorance. It also differs from paññā, which is discernment as a cultivated capacity rather than the resulting clarified knowledge itself. OSF and Buddhadāsa-line house style support keeping vijjā anti-mystified and practice-facing, and Punnaji's materials reinforce that it should not be reduced to mere perception or informational knowledge.",
+  "notes": "The project prefers clear knowledge because vijjā sits in direct contrast to avijjā and should sound more sharpened and liberative than generic knowledge. Plain knowledge remains acceptable where English needs less weight, and full knowledge is tolerated as a controlled practical alternate in Punnaji-style pedagogy, especially where he speaks of fuller knowing within awakening sequences. In this repository, vijjā is not the same as ñāṇa: ñāṇa is the broader knowing/knowledge family, while vijjā names clearer liberating knowledge in contrast to ignorance. It also differs from paññā, which is discernment as a cultivated capacity rather than the resulting clarified knowledge itself. OSF and Buddhadāsa-line house style support keeping vijjā anti-mystified and practice-facing, and Punnaji's materials reinforce that it should not be reduced to mere perception or informational knowledge. Hillside / Ñāṇamoli materials strengthen the same restraint from a different angle: understanding must clarify the context of experience rather than inflate into abstract theory. The repository therefore keeps vijjā practical, contrastive, and tied to release rather than to information or conceptual display.",
   "context_rules": [
     {
       "context": "In most doctrinal and release-facing contexts",
@@ -85,6 +85,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports the distinction between mere perception and a fuller liberating knowledge that grows toward comprehension."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports treating liberating knowledge as context-clarifying and anti-obscuring rather than as abstract information or theory."
     }
   ],
   "translation_policy": {
