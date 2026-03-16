@@ -1,0 +1,60 @@
+{
+  "term": "abhippamodayaṃ cittaṃ",
+  "normalized_term": "abhippamodaya-cittam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "gladdening the feeling mind",
+  "preferred_translation": "gladdening the feeling mind",
+  "alternative_translations": [
+    "brightening the feeling mind",
+    "gladdening the mind"
+  ],
+  "discouraged_translations": [
+    "cheering yourself up"
+  ],
+  "definition": "Ānāpānasati formula language for actively brightening or gladdening citta in practice.",
+  "notes": "This phrase should stay simple. In repository house style, citta here is the feeling mind rather than the thinking or cognitive side of mind. Mano remains the thinking mind, so translator-facing explanation may note that wholesome dhammas or wholesome thought-content can be deliberately brought to bear in order to gladden citta. That explanatory note should remain subordinate to the formula itself, which stays compact as gladdening the feeling mind.",
+  "context_rules": [
+    {
+      "context": "In direct ānāpānasati formula translation",
+      "rendering": "gladdening the feeling mind",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a slightly more active brightness register reads better",
+      "rendering": "brightening the feeling mind",
+      "notes": "Allowed alternate for explanation."
+    },
+    {
+      "context": "In shorter prose where the citta distinction has already been explained nearby",
+      "rendering": "gladdening the mind",
+      "notes": "Allowed compact alternate, not the default."
+    }
+  ],
+  "related_terms": [
+    "anapanasati",
+    "citta",
+    "kusala-dhamma",
+    "mano",
+    "pamojja",
+    "piti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "abhippamodayaṃ cittaṃ assasissāmīti sikkhati",
+      "translation": "one trains: 'I will breathe in gladdening the feeling mind'",
+      "notes": "Gladdening-the-mind step in the ānāpānasati sequence.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

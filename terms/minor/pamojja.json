@@ -6,18 +6,49 @@
   "literal_meaning": "gladness, uplift",
   "preferred_translation": "gladness",
   "alternative_translations": [
-    "uplift"
+    "uplift",
+    "gladdening"
   ],
   "discouraged_translations": [
     "excitement"
   ],
-  "untranslated_preferred": false,
-  "definition": "Gladness or uplift that conditions delight in positive causal sequences.",
+  "definition": "Gladness or uplift that conditions delight in wholesome practice sequences.",
+  "notes": "The project keeps gladness as the default because it is simple, practical English and works well in practice sequences. Gladdening is an acceptable explanatory alternate when the active movement of brightening citta needs to be explicit. In ānāpānasati-related explanation, this term can help name the simple practical move by which wholesome dhammas brighten the feeling mind rather than leaving meditation sounding abstract or mechanical.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and practice-sequence contexts",
+      "rendering": "gladness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the active brightening of citta",
+      "rendering": "gladdening",
+      "notes": "Allowed alternate when the process side matters more than the noun form."
+    }
+  ],
+  "related_terms": [
+    "anapanasati",
+    "citta",
+    "kusala",
+    "kusala-dhamma",
+    "piti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pāmojjabahulo",
+      "translation": "abundant in gladness",
+      "notes": "Shows the term in a practical affective register.",
+      "source": "SN 12.23"
+    }
+  ],
   "sutta_references": [
-    "SN 12.23"
+    "SN 12.23",
+    "MN 118"
   ],
   "tags": [
-    "mental-qualities"
+    "mental-qualities",
+    "core-practice"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Expanded from a thin placeholder so the gladdening side of practice has translator-facing guidance."
 }

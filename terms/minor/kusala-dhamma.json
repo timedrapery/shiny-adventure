@@ -3,11 +3,59 @@
   "normalized_term": "kusala-dhamma",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "wholesome qualities",
-  "definition": "A practice, action, or ethical category used in training and doctrinal analysis.",
-  "status": "reviewed",
-  "literal_meaning": "wholesome qualities",
+  "literal_meaning": "wholesome dhamma, wholesome quality",
+  "preferred_translation": "wholesome quality",
+  "alternative_translations": [
+    "wholesome dhamma",
+    "wholesome thought"
+  ],
+  "discouraged_translations": [
+    "good thing"
+  ],
+  "definition": "A wholesome quality or wholesome dhamma relevant to ethical training and practice.",
+  "notes": "The project keeps wholesome quality as the default because it is readable and preserves the repo's governed handling of kusala while avoiding over-narrowing dhamma to one English equivalent everywhere. Wholesome dhamma remains acceptable in source-facing prose. Wholesome thought is allowed only in explanatory contexts where mano is clearly engaging thought-content and a narrower practical gloss helps, such as simple explanations of gladdening citta in ānāpānasati-related instruction.",
+  "context_rules": [
+    {
+      "context": "In most ethical and doctrinal contexts",
+      "rendering": "wholesome quality",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In source-facing prose where dhamma should remain audible",
+      "rendering": "wholesome dhamma",
+      "notes": "Allowed alternate when the broader dhamma range matters."
+    },
+    {
+      "context": "In explanatory practice prose where mano is working with thought-content to gladden citta",
+      "rendering": "wholesome thought",
+      "notes": "Allowed explanatory narrowing, not the default doctrinal rendering."
+    }
+  ],
+  "related_terms": [
+    "anapanasati",
+    "citta",
+    "dhamma",
+    "kusala",
+    "mano",
+    "pamojja"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kusalā dhammā",
+      "translation": "wholesome qualities",
+      "notes": "Default broad doctrinal use.",
+      "source": "AN 3.69"
+    }
+  ],
+  "sutta_references": [
+    "AN 3.69",
+    "Dhp 183"
+  ],
   "tags": [
-    "ethics"
-  ]
+    "ethics",
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Expanded from a thin placeholder so practice prose can distinguish broad wholesome qualities from narrower explanatory wholesome thoughts."
 }
