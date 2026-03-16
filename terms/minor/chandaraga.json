@@ -1,14 +1,37 @@
 {
-  "normalized_term": "chandaraga",
   "term": "chandarāga",
+  "normalized_term": "chandaraga",
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "desire-and-passion",
   "preferred_translation": "desire and passion",
-  "definition": "Desire and passion directed toward an object or experience.",
-  "notes": "Use practical psychological English and keep the term close to lived experience rather than modern clinical or psychologized categories.",
+  "alternative_translations": [
+    "desire with passion"
+  ],
+  "discouraged_translations": [
+    "craving",
+    "attachment"
+  ],
+  "definition": "A compound that keeps chanda and rāga audible as coordinated but not identical factors.",
+  "notes": "Use this record when the compound appears as a whole. Keep desire and passion distinct rather than flattening the phrase into one generic English word.",
+  "related_terms": [
+    "chanda",
+    "raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "chandarāga",
+      "translation": "desire and passion",
+      "notes": "Keep the two terms distinct in English.",
+      "source": "SN 35.191"
+    }
+  ],
+  "sutta_references": [
+    "SN 35.191"
+  ],
   "tags": [
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
   "status": "reviewed"
 }

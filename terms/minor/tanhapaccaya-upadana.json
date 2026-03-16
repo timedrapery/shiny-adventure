@@ -6,7 +6,7 @@
   "literal_meaning": "with taṇhā as condition, upādāna",
   "preferred_translation": "with ignorant wanting as condition, taking personally",
   "definition": "Forward-link line connecting taṇhā and upādāna.",
-  "notes": "Use this record for the whole line. It keeps the repository's house handling of taṇhā and upādāna together at the key transition from wanting into appropriation. The OSF glossary supports this coordinated inheritance from taṇhā and upādāna in the formula line.",
+  "notes": "Use this record for the whole line. It keeps the repository's house handling of taṇhā and upādāna together at the key transition from wanting into appropriation. The OSF glossary supports this coordinated inheritance from the two headwords. This line should not be flattened into generic desire leading to attachment. It names a move from thirsty wanting into taking things personally.",
   "context_rules": [
     {
       "context": "In standard chain translation",
@@ -21,14 +21,15 @@
   ],
   "related_terms": [
     "paccaya",
-    "paṭiccasamuppāda",
-    "taṇhā",
-    "upādāna"
+    "paticcasamuppada",
+    "tanha",
+    "upadana"
   ],
   "example_phrases": [
     {
       "pali": "taṇhāpaccayā upādānaṃ",
       "translation": "with ignorant wanting as condition, taking personally",
+      "notes": "Keep wanting and appropriation distinct at this pivot.",
       "source": "SN 12.2"
     }
   ],
@@ -40,7 +41,7 @@
     "causality",
     "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -51,7 +52,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use as the standard line linking taṇhā and upādāna in the forward chain.",
-    "when_not_to_apply": "Do not replace the upādāna side with generic attachment language unless a controlled alternate is already governing the passage.",
+    "when_not_to_apply": "Do not replace the taṇhā side with generic desire or the upādāna side with generic attachment language unless a controlled alternate is already governing the passage.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents drift at the chain's pivot from wanting into appropriation."
   }

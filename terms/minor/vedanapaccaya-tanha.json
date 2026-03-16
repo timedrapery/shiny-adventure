@@ -6,7 +6,7 @@
   "literal_meaning": "with vedanā as condition, taṇhā",
   "preferred_translation": "with felt experience as condition, ignorant wanting",
   "definition": "Forward-link line connecting vedanā and taṇhā.",
-  "notes": "Use this record for the whole line. This is one of the most important practical pivots in the chain, and the repository should keep it stable across translation work. What Is And Is Not The Path supports keeping the vedanā-to-taṇhā movement practical and immediate in translation.",
+  "notes": "Use this record for the whole line. This is one of the most important practical pivots in the chain, and the repository keeps it stable across translation work. What Is And Is Not The Path supports keeping the movement practical and immediate in translation. The line should remain simple and immediate rather than drifting into generic emotion-language or generic desire-language.",
   "context_rules": [
     {
       "context": "In standard chain translation",
@@ -21,14 +21,15 @@
   ],
   "related_terms": [
     "paccaya",
-    "paṭiccasamuppāda",
-    "taṇhā",
-    "vedanā"
+    "paticcasamuppada",
+    "tanha",
+    "vedana"
   ],
   "example_phrases": [
     {
       "pali": "vedanāpaccayā taṇhā",
       "translation": "with felt experience as condition, ignorant wanting",
+      "notes": "Keep taṇhā distinct from neutral or wholesome desire here.",
       "source": "SN 12.2"
     }
   ],
@@ -40,7 +41,7 @@
     "causality",
     "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "What Is And Is Not The Path",
@@ -51,7 +52,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use as the standard line linking vedanā and taṇhā in the forward chain.",
-    "when_not_to_apply": "Do not shift into emotionalized or generic desire language in this formula slot.",
+    "when_not_to_apply": "Do not shift into emotionalized language for vedanā or generic desire-language for taṇhā in this formula slot.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents drift at the chain's practical pivot from felt experience into wanting."
   }

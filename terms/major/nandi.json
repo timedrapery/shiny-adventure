@@ -1,0 +1,87 @@
+{
+  "term": "nandī",
+  "normalized_term": "nandi",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "delight, relishing",
+  "preferred_translation": "relishing",
+  "alternative_translations": [
+    "delighting",
+    "taking delight"
+  ],
+  "discouraged_translations": [
+    "happiness",
+    "pleasure",
+    "joy"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Affective relishing or delighting in an object, experience, or possibility.",
+  "notes": "The project keeps relishing as the default because it captures nandī's active savoring force without collapsing it into the brighter wholesome register of pīti or the broader evaluative register of sukha. Delighting and taking delight remain controlled alternates when the verbal motion is more audible in English. In this repository, nandī is not generic happiness. It is the affective relishing that can accompany taṇhā and help feed appropriation. It differs from taṇhā, which is ignorant wanting; from rāga, which is passion or coloring; from chanda, which can be wholesome or neutral; and from upādāna, which is taking personally. The phrase nandirāgasahagatā should preserve relishing and passion as two coordinated factors rather than flattening them into one English word. SN 56.11 supports the classic definition line for taṇhā where nandī is paired with rāga, and the OSF glossary supports keeping the term away from generic pleasure language.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "relishing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where the more verbal feel of the term matters",
+      "rendering": "delighting",
+      "notes": "Allowed alternate when the line emphasizes active delighting."
+    },
+    {
+      "context": "In explanatory prose that needs an explicit verbal phrase",
+      "rendering": "taking delight",
+      "notes": "Allowed alternate when English needs a clearer action phrase."
+    }
+  ],
+  "related_terms": [
+    "chanda",
+    "nandiraga-sahagata",
+    "raga",
+    "tanha",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nandirāgasahagatā",
+      "translation": "accompanied by relishing and passion",
+      "notes": "Keep nandī and rāga distinct in this stock definition phrase.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "tatratatrābhinandinī",
+      "translation": "delighting here and there",
+      "notes": "Shows the delighting side of the same family.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "four-noble-truths",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping nandī away from generic happiness or pleasure language."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the classic taṇhā definition line where nandī is paired with rāga and must remain distinct."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'relishing' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'delighting' or 'taking delight' only when the local line clearly benefits from those controlled alternates. Do not collapse nandī into pleasure, happiness, or wholesome meditative joy.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents nandī from collapsing into pīti-, sukha-, or generic pleasure-language, and keeps it distinct from taṇhā and rāga."
+  }
+}
