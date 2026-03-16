@@ -1,0 +1,96 @@
+{
+  "term": "kāma",
+  "normalized_term": "kama",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "sensuality, sensual pleasure",
+  "preferred_translation": "sensuality",
+  "alternative_translations": [
+    "sensual pleasures",
+    "sense pleasures"
+  ],
+  "discouraged_translations": [
+    "desire",
+    "pleasure",
+    "sex",
+    "lust"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The sensual domain: sensuality and the pleasures sought through agreeable sensory experience.",
+  "notes": "The project keeps sensuality as the headword default because it is broad enough to cover the sensual domain without collapsing kāma into either generic desire or narrow sexual appetite. Sensual pleasures and sense pleasures remain controlled alternates when a passage is explicitly about enjoyable sensual objects or indulgence in them. In this repository, kāma is not the same as chanda, taṇhā, rāga, nandī, sukha, pīti, or vedanā. It names the sensual field or sensual-object side of experience, not wanting as such, not relishing as such, and not pleasant feeling tone as such. Translators should not default to sex or sexual desire for bare kāma. Sexualized English is justified only when a narrower expression explicitly governs the line, as in ethical formulas such as kāmesu-micchācāra. The OSF glossary supports keeping kāma broader than erotic English, and MN 13 with SN 56.11 support the difference between the broad sensuality headword and compounds that narrow to sensual pleasure.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "sensuality",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the passage explicitly emphasizes agreeable sensual objects or indulgence in them",
+      "rendering": "sensual pleasures",
+      "notes": "Allowed alternate when the object-side plurality matters more than the domain-language."
+    },
+    {
+      "context": "In explanatory prose contrasting sensual pursuit with renunciation or collected practice",
+      "rendering": "sense pleasures",
+      "notes": "Allowed alternate when a slightly more idiomatic English phrase helps."
+    },
+    {
+      "context": "In explicitly sexual ethics compounds governed by narrower records",
+      "rendering": "sexual",
+      "notes": "Do not use this as a headword default; allow it only when a narrower expression such as kāmesu-micchācāra requires it."
+    }
+  ],
+  "related_terms": [
+    "kama-dhatu",
+    "kama-raga",
+    "kama-tanha",
+    "kamabhava",
+    "kamacchanda",
+    "kamupadana",
+    "kamesu-micchacara"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmānaṃ ādīnavaṃ",
+      "translation": "the drawback in sensuality",
+      "notes": "Shows the broad doctrinal headword use rather than a narrow sexual reading.",
+      "source": "MN 13"
+    },
+    {
+      "pali": "kāmasukhallikānuyogo",
+      "translation": "devotion to sensual pleasure",
+      "notes": "Shows a compound context where kāma narrows toward sensual pleasure rather than bare sensuality.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "MN 13",
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "translation-sensitive",
+    "context-sensitive"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping kāma broader than erotic English and distinct from generic desire-language."
+    },
+    {
+      "source": "MN 13",
+      "kind": "context-rule",
+      "scope": "Supports the broad doctrinal use of kāma in drawback and renunciation analysis."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'sensuality' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule or narrower compound overrides it.",
+    "when_not_to_apply": "Do not default to desire, pleasure, sex, or lust. Use sensual-pleasure language only when the passage explicitly narrows toward enjoyable sensual objects or indulgence in them, and use sexualized English only when a narrower ethical expression requires it.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents kāma from collapsing into generic desire, generic pleasure, or premature sexual overtranslation."
+  }
+}

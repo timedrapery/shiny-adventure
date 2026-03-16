@@ -6,9 +6,24 @@
   "literal_meaning": "element of sensuality",
   "preferred_translation": "sensuality element",
   "definition": "The element or domain of sensuality.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "notes": "Keep the rendering aligned with the kāma headword and avoid narrowing the term into sexualized English or generic pleasure-language.",
+  "related_terms": [
+    "kama"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmadhātu",
+      "translation": "the sensuality element",
+      "notes": "Keeps the domain-language tied to kāma rather than to generic pleasure.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "translation-sensitive"
   ],
   "status": "reviewed"
 }

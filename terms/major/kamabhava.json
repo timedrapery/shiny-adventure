@@ -10,11 +10,12 @@
     "the sensual mode of existence"
   ],
   "discouraged_translations": [
-    "sensual life"
+    "sensual life",
+    "sexual life"
   ],
   "untranslated_preferred": false,
   "definition": "Existence or becoming within the sensual domain.",
-  "notes": "The repository keeps sensual existence as the default because it reads clearly as one of the three modes of bhava while still allowing becoming-language when process is more important than domain. The term should be handled functionally, not as speculative cosmology alone. In many contexts it names the sensual sphere to which attachment and rebirth are tied. The OSF glossary also frames kāmabhava as the sensual domain of becoming, supporting this policy choice.",
+  "notes": "The repository keeps sensual existence as the default because it reads clearly as one of the three modes of bhava while still allowing becoming-language when process is more important than domain. The term should be handled functionally, not as speculative cosmology alone. In many contexts it names the sensual sphere to which attachment and rebirth are tied. It should not be narrowed to sexual life or bodily pleasure. The OSF glossary also frames kāmabhava as the sensual domain of becoming, supporting this policy choice.",
   "context_rules": [
     {
       "context": "In the three modes of existence framework",
@@ -33,12 +34,13 @@
     }
   ],
   "related_terms": [
-    "arūpabhava",
+    "arupabhava",
     "bhava",
+    "kama",
     "kama-raga",
     "kama-tanha",
     "loka",
-    "rūpabhava"
+    "rupabhava"
   ],
   "example_phrases": [
     {
@@ -55,21 +57,27 @@
   "tags": [
     "core-doctrine",
     "dependent-origination",
-    "context-sensitive"
+    "context-sensitive",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current kāmabhava policy."
+      "scope": "Supports framing kāmabhava as the sensual domain of becoming rather than as sexualized English."
+    },
+    {
+      "source": "AN 3.76",
+      "kind": "context-rule",
+      "scope": "Supports the term inside the threefold bhava framework."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'sensual existence' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use becoming-language only when process is the point. Do not narrow the term to sexual life or generic pleasure-language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'sensual life' or other unrecorded alternates."
+    "drift_risk": "Prevents drift from the sensual-domain sense of kāma toward narrower erotic or lifestyle language."
   }
 }

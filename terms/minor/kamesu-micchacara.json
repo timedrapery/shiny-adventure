@@ -3,21 +3,35 @@
   "normalized_term": "kamesu-micchacara",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "sexual misconduct",
+  "literal_meaning": "wrong conduct in sexual matters",
   "preferred_translation": "sexual misconduct",
   "alternative_translations": [
-    "misconduct in sensuality"
+    "misconduct in sexual matters"
   ],
   "discouraged_translations": [
-    "impurity"
+    "impurity",
+    "sensual misconduct"
   ],
   "untranslated_preferred": false,
   "definition": "Sexual misconduct, classically prohibited in ethical training.",
+  "notes": "This is an explicitly sexual ethical term. It should not be used to back-project a sexual default onto the broader kāma family.",
+  "related_terms": [
+    "kama"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmesu micchācārā veramaṇī",
+      "translation": "abstaining from sexual misconduct",
+      "notes": "Explicitly sexual ethical context; narrower than bare kāma.",
+      "source": "AN 8.39"
+    }
+  ],
   "sutta_references": [
     "AN 8.39"
   ],
   "tags": [
-    "ethics"
+    "ethics",
+    "translation-sensitive"
   ],
   "status": "reviewed"
 }

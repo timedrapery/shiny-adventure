@@ -10,11 +10,13 @@
     "craving for sensuality"
   ],
   "discouraged_translations": [
-    "lust"
+    "lust",
+    "desire for pleasure",
+    "sexual desire"
   ],
   "untranslated_preferred": false,
-  "definition": "Ignorant wanting directed toward sensual pleasures and agreeable sensory experience.",
-  "notes": "The project prefers ignorant wanting for sensuality so the compound inherits the house rule for taṇhā while staying explicit about kāma. Sensual craving and craving for sensuality remain acceptable alternates when continuity with familiar Buddhist-English terminology matters. The OSF glossary supports this house handling of taṇhā compounds by keeping the craving category explicit while allowing familiar alternates in explanatory prose.",
+  "definition": "Ignorant wanting directed toward sensuality, sensual pleasures, and agreeable sensory experience.",
+  "notes": "The project prefers ignorant wanting for sensuality so the compound inherits the house rule for taṇhā while staying explicit about kāma. Sensual craving and craving for sensuality remain acceptable alternates when continuity with familiar Buddhist-English terminology matters. In this repository, kāmataṇhā should not be reduced to mere desire for pleasure or to specifically sexual desire unless a passage explicitly narrows it that way. It differs from kāmacchanda, which functions as a distraction in practice; from kāma-rāga, which is passion for sensuality; and from kāmupādāna, which is clinging to sensuality. The OSF glossary supports this house handling of taṇhā compounds, and SN 56.11 supports the compound as a standard member of the threefold taṇhā family.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
@@ -28,22 +30,20 @@
     }
   ],
   "related_terms": [
+    "kama",
     "kama-raga",
-    "kāmabhava",
+    "kamabhava",
     "kamacchanda",
-    "kāmacchanda",
-    "kāmupādāna",
+    "kamupadana",
     "raga",
-    "rāga",
     "samudaya",
-    "tanha",
-    "taṇhā"
+    "tanha"
   ],
   "example_phrases": [
     {
       "pali": "kāmataṇhā",
       "translation": "ignorant wanting for sensuality",
-      "notes": "One of the classic threefold forms of craving.",
+      "notes": "One of the classic threefold forms of taṇhā.",
       "source": "SN 56.11"
     }
   ],
@@ -52,21 +52,27 @@
   ],
   "tags": [
     "core-doctrine",
-    "four-noble-truths"
+    "four-noble-truths",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current kāmataṇhā policy."
+      "scope": "Supports keeping the taṇhā family explicit while avoiding reduction to sexualized English."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports kāmataṇhā as a standard member of the threefold taṇhā family."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'ignorant wanting for sensuality' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'ignorant wanting for sensuality' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'sensual craving' only when a shorter phrase is clearly helpful. Do not collapse the term into generic desire for pleasure or into specifically sexual desire by default.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'lust' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between sensuality-language, craving-language, and narrow sexualized English."
   }
 }

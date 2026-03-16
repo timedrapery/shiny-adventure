@@ -6,15 +6,16 @@
   "literal_meaning": "passion for sensuality",
   "preferred_translation": "passion for sensuality",
   "alternative_translations": [
-    "sensual passion",
-    "sensual lust"
+    "sensual passion"
   ],
   "discouraged_translations": [
-    "lust"
+    "lust",
+    "sexual desire",
+    "pleasure"
   ],
   "untranslated_preferred": false,
   "definition": "Passion directed toward sensuality and the pleasures of the sense world.",
-  "notes": "The project keeps passion for sensuality as the default because it preserves the relation to kāma without collapsing the term into merely sexual lust. Sensual passion is acceptable when the English line needs a shorter phrase. This term should function both in fetter analysis and in broader doctrinal explanation of why sensuality binds the mind. The OSF glossary confirms passion for sensuality as the house default and preserves sensual passion as the explanatory alternate.",
+  "notes": "The project keeps passion for sensuality as the default because it preserves the relation to kāma without collapsing the term into merely sexual lust. Sensual passion is acceptable when the English line needs a shorter phrase. In this repository, kāma-rāga should stay broader than sexual appetite unless the passage explicitly narrows that way. It differs from kāmataṇhā, which is ignorant wanting for sensuality; from kāmacchanda, which is sensuality functioning as distraction; and from kāmupādāna, which is clinging to sensuality. The OSF glossary confirms passion for sensuality as the house default, and MN 64 with SN 45.179 support the term in fetter analysis.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -33,14 +34,15 @@
     }
   ],
   "related_terms": [
-    "anāgāmī",
+    "anagami",
+    "kama",
     "kamupadana",
     "kama-tanha",
-    "kāmabhava",
-    "kāmacchanda",
-    "paṭigha",
-    "rāga",
-    "saṃyojana"
+    "kamabhava",
+    "kamacchanda",
+    "patigha",
+    "raga",
+    "samyojana"
   ],
   "example_phrases": [
     {
@@ -63,22 +65,28 @@
   "tags": [
     "core-doctrine",
     "liberation",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
-  "version_notes": "Promoted to a major entry and clarified against overly narrow sexual-lust readings.",
+  "status": "stable",
+  "version_notes": "Sharpened to keep sensuality-language broad while blocking collapse into sexualized English.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping passion for sensuality as the house default in fetter analysis, with sensual passion retained as an explanatory alternate."
+      "scope": "Supports keeping passion for sensuality as the house default in fetter analysis."
+    },
+    {
+      "source": "MN 64",
+      "kind": "context-rule",
+      "scope": "Supports the term's role in liberation-stage analysis."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'passion for sensuality' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use 'sensual passion' only when the line clearly benefits from a shorter phrase. Do not collapse the term into pleasure-language or narrow sexualized English by default.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'lust' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between sensuality-language, passion-language, and narrowly erotic English."
   }
 }
