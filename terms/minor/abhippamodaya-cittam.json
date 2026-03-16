@@ -13,7 +13,7 @@
     "cheering yourself up"
   ],
   "definition": "Ānāpānasati formula language for actively brightening or gladdening citta in practice.",
-  "notes": "This phrase should stay simple. In repository house style, citta here is the feeling mind rather than the thinking or cognitive side of mind. Mano remains the thinking mind, so translator-facing explanation may note that wholesome dhammas or wholesome thought-content can be deliberately brought to bear in order to gladden citta. That explanatory note should remain subordinate to the formula itself, which stays compact as gladdening the feeling mind.",
+  "notes": "This phrase should stay simple. In repository house style, citta here is the feeling mind rather than the thinking or cognitive side of mind. Mano remains the thinking mind, so translator-facing explanation may note that wholesome dhammas or wholesome thought-content can be deliberately brought to bear in order to gladden citta. That explanatory note should remain subordinate to the formula itself, which stays compact as gladdening the feeling mind. The practice clarification may include countering distractions, but it should not be broadened into a claim that one phrase has already uprooted underlying tendencies, ended fetters, or worn away outflows.",
   "context_rules": [
     {
       "context": "In direct ānāpānasati formula translation",
@@ -36,6 +36,7 @@
     "citta",
     "kusala-dhamma",
     "mano",
+    "nivarana",
     "pamojja",
     "piti"
   ],

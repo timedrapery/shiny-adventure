@@ -1,18 +1,31 @@
 {
-  "term": "ditthi-anusaya",
+  "term": "diṭṭhi-anusaya",
   "normalized_term": "ditthi-anusaya",
   "entry_type": "minor",
   "part_of_speech": "compound",
+  "literal_meaning": "underlying tendency toward views",
   "preferred_translation": "underlying tendency toward views",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy and stay distinct from plain view and from taking views personally.",
   "related_terms": [
+    "anusaya",
     "ditthi",
     "ditthupadana"
   ],
-  "status": "reviewed",
-  "literal_meaning": "underlying tendency toward views",
+  "example_phrases": [
+    {
+      "pali": "diṭṭhānusayo",
+      "translation": "the underlying tendency toward views",
+      "notes": "Bridge between the residue family and the stabilized view-clinging family.",
+      "source": "AN 7.11"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.11"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

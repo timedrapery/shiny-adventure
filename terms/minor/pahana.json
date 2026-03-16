@@ -1,13 +1,54 @@
 {
-  "term": "pahana",
+  "term": "pahāna",
   "normalized_term": "pahana",
   "entry_type": "minor",
   "part_of_speech": "noun",
+  "literal_meaning": "abandoning, putting away",
   "preferred_translation": "abandoning",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
-  "literal_meaning": "abandoning",
+  "alternative_translations": [
+    "giving up",
+    "putting away"
+  ],
+  "discouraged_translations": [
+    "suppression"
+  ],
+  "definition": "Abandoning or putting away an unwholesome factor in practice or doctrinal analysis.",
+  "notes": "Use abandoning as the default. The term is broader than temporary suppression but does not by itself mean quenching or final release; context determines whether the passage is about removing distractions, abandoning fetters, or giving up defilements more generally. Keep pahāna distinct from virāga, nirodha, and vossagga rather than letting all abandonment language collapse into one English blur.",
+  "context_rules": [
+    {
+      "context": "In most practice and doctrinal contexts",
+      "rendering": "abandoning",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In concise practical prose",
+      "rendering": "giving up",
+      "notes": "Allowed alternate when it reads more naturally."
+    }
+  ],
+  "related_terms": [
+    "anusaya",
+    "asava",
+    "kilesa",
+    "nivarana",
+    "samyojana",
+    "viraga",
+    "vossagga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nīvaraṇānaṃ pahānāya",
+      "translation": "for the abandoning of the distractions",
+      "notes": "Practical removal language in meditative-development contexts.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "stable"
 }

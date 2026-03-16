@@ -1,0 +1,38 @@
+{
+  "term": "āsavānaṃ khayā",
+  "normalized_term": "asavanam-khaya",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "through the wearing away of the outflows",
+  "preferred_translation": "through the wearing away of the outflows",
+  "alternative_translations": [
+    "through the ending of the outflows"
+  ],
+  "discouraged_translations": [
+    "through the destruction of defilements"
+  ],
+  "definition": "A standard liberation formula naming release through the wearing away of the outflows.",
+  "notes": "Use this phrase record when the liberation formula appears as a whole. It should inherit the āsava headword default and keep the outflow-family wording stable rather than drifting into generic defilement-language.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ",
+      "translation": "through the wearing away of the outflows, the outflow-free release of the heart and release by wisdom",
+      "notes": "Classic liberation formula. Keep the outflow wording stable here.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2",
+    "MN 36"
+  ],
+  "tags": [
+    "core-doctrine",
+    "formula",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

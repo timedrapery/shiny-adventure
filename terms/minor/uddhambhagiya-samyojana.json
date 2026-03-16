@@ -1,13 +1,29 @@
 {
-  "term": "uddhambhagiya-samyojana",
+  "term": "uddhambhāgiya-saṃyojana",
   "normalized_term": "uddhambhagiya-samyojana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "higher fetter",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
   "literal_meaning": "higher fetter",
+  "preferred_translation": "higher fetter",
+  "definition": "The higher subset of the fetter-family relevant to the final stages of release.",
+  "notes": "This subclass entry should inherit the saṃyojana headword policy. Keep fetter-language stable in awakening-stage analysis.",
+  "related_terms": [
+    "samyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "uddhambhāgiyāni saṃyojanāni",
+      "translation": "the higher fetters",
+      "notes": "Standard subclassification in fetter analysis.",
+      "source": "MN 64"
+    }
+  ],
+  "sutta_references": [
+    "MN 64"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "stable"
 }

@@ -9,11 +9,12 @@
     "secondary defilement"
   ],
   "discouraged_translations": [
-    "temptation"
+    "temptation",
+    "hindrance"
   ],
   "untranslated_preferred": false,
   "definition": "A corruption or subsidiary defilement that stains and weakens the mind.",
-  "notes": "The project prefers corruption because it reads more cleanly in contemporary English than secondary defilement while still carrying the sense of contamination. Secondary defilement remains acceptable in more technical explanatory prose. The OSF glossary supports this by treating upakkilesa as a staining corruption of mind while preserving its relation to the broader kilesa family.",
+  "notes": "The project prefers corruption because it reads more cleanly in contemporary English than secondary defilement while still carrying the sense of contamination. Upakkilesa stays closely tied to the kilesa family but should not be confused with every defilement-category in the canon. It is also not identical with nīvaraṇa, which names active distractions in practice, nor with āsava, which names deeper outflows. Use this entry when the text is naming corrupting stains of mind, especially in citta-focused practice contexts. The OSF glossary supports keeping corruption as the house default while preserving the term's narrower relation to kilesa.",
   "context_rules": [
     {
       "context": "In most explanatory and practical contexts",
@@ -23,7 +24,7 @@
     {
       "context": "In analytical prose where the relation to kilesa should remain explicit",
       "rendering": "secondary defilement",
-      "notes": "Acceptable alternate."
+      "notes": "Allowed alternate when the narrower relation needs to be audible."
     }
   ],
   "related_terms": [
@@ -31,13 +32,14 @@
     "dosa",
     "kilesa",
     "lobha",
-    "moha"
+    "moha",
+    "nivarana"
   ],
   "example_phrases": [
     {
       "pali": "cittassa upakkilesā",
       "translation": "corruptions of the mind",
-      "notes": "The standard canonical collocation.",
+      "notes": "Standard canonical collocation.",
       "source": "MN 7"
     }
   ],
@@ -54,13 +56,13 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current upakkilesa policy."
+      "scope": "Supports keeping corruption as the house default while preserving its relation to kilesa."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'corruption' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'corruption' as the default rendering in the entry's governed contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'secondary defilement' only when the narrower relation to kilesa needs to remain explicit. Do not flatten upakkilesa into generic temptation or generic hindrance-language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'temptation' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between the narrower corruption-family, the broader defilement-family, and the active hindrance-family."
   }
 }

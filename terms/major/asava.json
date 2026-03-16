@@ -7,14 +7,18 @@
   "preferred_translation": "outflow",
   "alternative_translations": [
     "taint",
+    "effluent",
     "seepage"
   ],
   "discouraged_translations": [
+    "defilement",
+    "influx",
+    "fermentation",
     "canker"
   ],
   "untranslated_preferred": false,
-  "definition": "A deep contaminating outflow of the mind that perpetuates bondage and obscuration.",
-  "notes": "The project prefers outflow because it preserves the image of something running on and leaking through experience without the archaic or medical feel of canker. Taint remains acceptable in explanatory prose if outflow would confuse the immediate audience. The OSF glossary confirms outflow as the house default and preserves taint as the explanatory alternate.",
+  "definition": "A deep outflow that keeps contamination, bondage, and continued becoming running on.",
+  "notes": "The project keeps outflow as the default because it preserves the running-on and leaking image without importing archaic medical language. Taint and effluent remain controlled alternates when the contaminating side needs to be made more audible, but āsava should not collapse into generic defilement. In this repository, āsava belongs to the residue-and-bondage family as a deeper corruptive outflow, not to the actively obstructive nīvaraṇa layer, the latent anusaya layer, or the binding saṃyojana layer. Liberation formulas around āsavānaṃ khayā and āsavakkhaya should stay coordinated with this headword and should not rotate ad hoc among outflow, taint, effluent, and generic corruption language. The same policy extends by default into the named āsava compounds such as kāmāsava, bhavāsava, diṭṭhāsava, and avijjāsava unless a compound record documents a narrower override. The OSF glossary supports keeping outflow as the house default, and MN 2 and MN 36 support the standard release framing through the wearing away of the outflows.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -22,59 +26,89 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose where the contaminating aspect needs emphasis",
+      "context": "In explanatory prose emphasizing contamination rather than the flowing image",
       "rendering": "taint",
-      "notes": "Acceptable alternate when it reads more clearly in context."
+      "notes": "Allowed alternate when the contaminating force is more important than the image of running on."
+    },
+    {
+      "context": "In translator-facing prose that needs a more technical English label without using archaic canker-language",
+      "rendering": "effluent",
+      "notes": "Use selectively; it is not the house default."
+    },
+    {
+      "context": "In liberation formulas such as āsavānaṃ khayā or āsavakkhaya",
+      "rendering": "outflow",
+      "notes": "Keep the family wording stable across khaya and release contexts."
     }
   ],
   "related_terms": [
     "anusaya",
     "arahant",
+    "asavanam-khaya",
     "asankhata",
-    "asaṅkhata",
     "avijja",
-    "avijjā",
+    "avijjasava",
+    "bhavasava",
+    "ditthasava",
+    "kamasava",
+    "kilesa",
     "mana",
-    "māna",
+    "nivarana",
+    "pahana",
     "samyojana",
-    "saṃyojana",
-    "vimutti"
+    "viraga",
+    "vimutti",
+    "vossagga"
   ],
   "example_phrases": [
     {
       "pali": "āsavānaṃ khayā",
       "translation": "through the wearing away of the outflows",
-      "notes": "Widely recurring liberation formula.",
+      "notes": "Widely recurring liberation formula. Keep the outflow-family wording stable here.",
       "source": "MN 2"
     },
     {
       "pali": "āsavakkhaya",
       "translation": "the wearing away of the outflows",
-      "notes": "Useful compact doctrinal compound.",
+      "notes": "Compact doctrinal compound for the same liberation goal.",
       "source": "MN 2"
+    },
+    {
+      "pali": "khīṇā jāti ... vusitaṃ brahmacariyaṃ ... nāparaṃ itthattāyāti pajānāti",
+      "translation": "birth is worn away ... the holy life has been lived ... one understands: there is no more of this state of being",
+      "notes": "Standard arahant declaration that commonly appears alongside outflow-ending language.",
+      "source": "MN 36"
     }
   ],
   "sutta_references": [
-    "MN 2"
+    "MN 2",
+    "MN 36",
+    "AN 3.59"
   ],
   "tags": [
     "core-doctrine",
     "mental-qualities",
-    "liberation"
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping outflow as the house default in liberation and contamination analysis, with taint retained as an explanatory alternate."
+      "scope": "Supports keeping outflow as the house default while allowing taint and effluent only as controlled alternates."
+    },
+    {
+      "source": "MN 2",
+      "kind": "context-rule",
+      "scope": "Supports the liberation formulas āsavānaṃ khayā and āsavakkhaya."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'outflow' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'canker' or other unrecorded alternates."
+    "default_scope": "Use 'outflow' as the default rendering in the entry's governed doctrinal and liberation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'taint' or 'effluent' only when the explanatory context clearly needs them. Do not flatten āsava into generic defilement or rotate among inherited English glosses inside one formula-family.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift between outflow-language, generic defilement-language, and older canker or fermentation renderings that obscure the repository's residue-family distinctions."
   }
 }

@@ -1,14 +1,29 @@
 {
-  "term": "avijjasava",
+  "term": "avijjāsava",
   "normalized_term": "avijjasava",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "outflow of ignorance",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "outflow of ignorance",
+  "preferred_translation": "outflow of ignorance",
+  "definition": "A named outflow-compound in the āsava family.",
+  "notes": "This compound should inherit the āsava headword policy. Keep outflow audible rather than flattening the term into generic ignorance or generic defilement-language.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāsavo",
+      "translation": "the outflow of ignorance",
+      "notes": "Named member of the āsava family.",
+      "source": "DN 33"
+    }
+  ],
+  "sutta_references": [
+    "DN 33"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

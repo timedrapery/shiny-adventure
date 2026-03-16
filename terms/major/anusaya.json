@@ -6,36 +6,56 @@
   "literal_meaning": "lying along, underlying tendency",
   "preferred_translation": "underlying tendency",
   "alternative_translations": [
-    "latent tendency"
+    "latent tendency",
+    "underlying bias"
   ],
   "discouraged_translations": [
-    "instinct"
+    "habit",
+    "instinct",
+    "trait"
   ],
   "untranslated_preferred": false,
-  "definition": "A latent tendency that lies underneath experience and conditions how reactivity unfolds.",
-  "notes": "The project prefers underlying tendency because it is both plain and precise. Latent tendency is acceptable when the context wants to emphasize dormancy, but instinct should be avoided because it naturalizes what the texts present as conditioned and removable. The OSF glossary confirms underlying tendency as the house default and preserves latent tendency as an explanatory alternate.",
+  "definition": "A tendency that remains lying underneath experience and can reassert itself when conditions support it.",
+  "notes": "The project keeps underlying tendency as the default because it is plain English that still preserves the doctrinal image of something lying underneath. Latent tendency is a controlled alternate when dormancy needs to be foregrounded, but anusaya should not be reduced to mere habit or personality. In this repository, anusaya is not the same as actively obstructive nīvaraṇas, not the same as the binding saṃyojana set, and not the same as the broader kilesa family. It names a layer of latent persistence that may not be manifest on the surface yet still conditions reaction. Formula and compound handling should preserve that dormant-but-potent force in cases such as rāgānusaya, diṭṭhānusaya, and mānānusaya. The OSF glossary supports keeping underlying tendency as the house default, and MN 64 together with SN 22.89 support the family logic of tendencies that lie underneath and can be uprooted rather than merely suppressed.",
   "context_rules": [
     {
-      "context": "In doctrinal analysis of latent reactivity",
+      "context": "In doctrinal analysis of latent persistence and reactivity",
       "rendering": "underlying tendency",
       "notes": "Default project rendering."
     },
     {
       "context": "In explanatory prose emphasizing dormancy or hidden persistence",
       "rendering": "latent tendency",
-      "notes": "Acceptable alternate."
+      "notes": "Allowed alternate when the hidden aspect needs extra emphasis."
+    },
+    {
+      "context": "In translator-facing explanation where the skewing or leaning quality needs to be audible",
+      "rendering": "underlying bias",
+      "notes": "Use selectively and only when bias reads more naturally than tendency."
+    },
+    {
+      "context": "In verbal or formulaic contexts built on anuseti",
+      "rendering": "underlying tendency",
+      "notes": "Keep the noun family stable rather than flattening the term into everyday habit-language."
     }
   ],
   "related_terms": [
     "asava",
-    "āsava",
+    "avijja-anusaya",
+    "bhavaraga-anusaya",
+    "ditthi-anusaya",
     "dosa",
+    "kamaraga-anusaya",
+    "kilesa",
     "lobha",
+    "mana-anusaya",
     "moha",
+    "nivarana",
+    "pahana",
+    "patigha-anusaya",
     "raga",
-    "rāga",
     "samyojana",
-    "saṃyojana"
+    "vicikiccha-anusaya"
   ],
   "example_phrases": [
     {
@@ -47,30 +67,44 @@
     {
       "pali": "rāgānusaya",
       "translation": "the underlying tendency toward passion",
-      "notes": "Shows how the term works in compounds tied to specific reactivities.",
+      "notes": "Shows a named latent residue rather than an active surface state.",
       "source": "MN 64"
+    },
+    {
+      "pali": "mānānusayo",
+      "translation": "the underlying tendency toward conceit",
+      "notes": "Connects the residue family to the already-stabilized identity-construction cluster.",
+      "source": "SN 22.89"
     }
   ],
   "sutta_references": [
-    "MN 64"
+    "MN 64",
+    "SN 22.89",
+    "AN 7.11"
   ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping underlying tendency as the house default in latent-reactivity analysis, with latent tendency retained as an explanatory alternate."
+      "scope": "Supports keeping underlying tendency as the house default while preserving latent tendency as a controlled alternate."
+    },
+    {
+      "source": "MN 64",
+      "kind": "context-rule",
+      "scope": "Supports the verbal and compound logic of tendencies that lie underneath and can be uprooted."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'underlying tendency' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'instinct' or other unrecorded alternates."
+    "default_scope": "Use 'underlying tendency' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'latent tendency' or 'underlying bias' only when the explanatory context clearly needs them. Do not flatten anusaya into mere habit, instinct, or personality-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift between latent residue, active hindrance, binding fetter, and broad defilement-language."
   }
 }
