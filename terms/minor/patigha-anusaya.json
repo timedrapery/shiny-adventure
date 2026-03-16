@@ -1,14 +1,29 @@
 {
-  "term": "patigha-anusaya",
+  "term": "paṭigha-anusaya",
   "normalized_term": "patigha-anusaya",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "underlying tendency toward resistance",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "underlying tendency toward resistance",
+  "preferred_translation": "underlying tendency toward resistance",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy. Keep the latent force explicit rather than reducing the term to momentary irritation or reaction.",
+  "related_terms": [
+    "anusaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭighānusayo",
+      "translation": "the underlying tendency toward resistance",
+      "notes": "Named member of the latent-tendency family.",
+      "source": "AN 7.11"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.11"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

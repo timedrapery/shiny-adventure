@@ -9,11 +9,13 @@
     "stain"
   ],
   "discouraged_translations": [
-    "sin"
+    "sin",
+    "hindrance",
+    "fetter"
   ],
   "untranslated_preferred": false,
-  "definition": "A defilement that clouds the mind and obstructs clear practice and release.",
-  "notes": "The project prefers defilement because it remains the clearest concise doctrinal label in English. Stain is acceptable in explanatory prose when the imagery of soiling or obscuring is useful, but sin is too churchy and misleading for the dataset. The OSF glossary likewise frames kilesa as mental defilement, reinforcing this default choice.",
+  "definition": "A broad defiling factor that clouds the mind and supports unwholesome patterns.",
+  "notes": "The project keeps defilement as the default because it remains the clearest concise doctrinal label for the broad family. Stain remains a controlled alternate when the imagery of soiling or obscuring helps. The key editorial rule is that kilesa is broader than the more specific residue families. It should not swallow nīvaraṇa, anusaya, saṃyojana, or āsava into one undifferentiated English blur. In this repository, kilesa names a broad defiling or afflictive category; nīvaraṇa names active distraction; anusaya names latent persistence; saṃyojana names binding fetters; and āsava names deeper corruptive outflows. Upakkilesa remains a narrower corruption-family closely related to kilesa but not identical with the entire field. The OSF glossary supports keeping defilement as the broad family label, and MN 7 supports the bridge from kilesa-language into the more specific upakkilesa family.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -21,45 +23,63 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing the imagery of obscuration or soiling",
+      "context": "In explanatory prose emphasizing the imagery of soiling or obscuration",
       "rendering": "stain",
-      "notes": "Acceptable alternate."
+      "notes": "Allowed alternate when the image helps and the broader doctrinal label is not lost."
     }
   ],
   "related_terms": [
+    "anusaya",
+    "asava",
     "dosa",
     "lobha",
     "moha",
+    "nivarana",
+    "pahana",
+    "samyojana",
     "upakkilesa"
   ],
   "example_phrases": [
     {
       "pali": "cittassa upakkilesā",
-      "translation": "defilements of the mind",
-      "notes": "Useful bridge to the upakkilesa-family.",
+      "translation": "corruptions of the mind",
+      "notes": "Useful bridge to the narrower upakkilesa-family.",
       "source": "MN 7"
+    },
+    {
+      "pali": "kilesā pahīnā",
+      "translation": "the defilements have been abandoned",
+      "notes": "Shows the family in broad abandonment language without erasing more specific doctrinal layers.",
+      "source": "AN 3.33"
     }
   ],
   "sutta_references": [
-    "MN 7"
+    "MN 7",
+    "AN 3.33"
   ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current kilesa policy."
+      "scope": "Supports keeping defilement as the broad family label while distinguishing it from narrower bondage and obstruction families."
+    },
+    {
+      "source": "MN 7",
+      "kind": "context-rule",
+      "scope": "Supports the relation between kilesa and the narrower upakkilesa-family."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'defilement' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'defilement' as the default rendering in the entry's governed doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'stain' only when the imagery of soiling or obscuration is locally useful. Do not use kilesa as a lazy umbrella that erases distinctions among hindrances, latent tendencies, fetters, or outflows.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'sin' or other unrecorded alternates."
+    "drift_risk": "Prevents broad defilement-language from swallowing the more specific residue and bondage families."
   }
 }

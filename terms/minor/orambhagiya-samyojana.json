@@ -1,13 +1,29 @@
 {
-  "term": "orambhagiya-samyojana",
+  "term": "orambhāgiya-saṃyojana",
   "normalized_term": "orambhagiya-samyojana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "lower fetter",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
   "literal_meaning": "lower fetter",
+  "preferred_translation": "lower fetter",
+  "definition": "The lower subset of the fetter-family relevant to stream-entry through non-returning analysis.",
+  "notes": "This subclass entry should inherit the saṃyojana headword policy. Keep fetter-language stable in awakening-stage analysis.",
+  "related_terms": [
+    "samyojana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "orambhāgiyāni saṃyojanāni",
+      "translation": "the lower fetters",
+      "notes": "Standard subclassification in fetter analysis.",
+      "source": "MN 64"
+    }
+  ],
+  "sutta_references": [
+    "MN 64"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-doctrine",
+    "liberation"
+  ],
+  "status": "stable"
 }

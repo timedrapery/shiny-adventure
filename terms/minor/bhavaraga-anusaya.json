@@ -1,14 +1,29 @@
 {
-  "term": "bhavaraga-anusaya",
+  "term": "bhavarāga-anusaya",
   "normalized_term": "bhavaraga-anusaya",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "underlying tendency toward becoming-passion",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
-  "literal_meaning": "underlying tendency toward becoming-passion",
+  "literal_meaning": "underlying tendency toward passion for becoming",
+  "preferred_translation": "underlying tendency toward passion for becoming",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy. Keep the latent force explicit and distinguish the compound from the outflow and fetter families.",
+  "related_terms": [
+    "anusaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavarāgānusayo",
+      "translation": "the underlying tendency toward passion for becoming",
+      "notes": "Named member of the latent-tendency family.",
+      "source": "AN 7.11"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.11"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

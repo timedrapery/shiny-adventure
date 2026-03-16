@@ -1,14 +1,37 @@
 {
-  "term": "panca-nivarana",
+  "term": "pañca-nīvaraṇā",
   "normalized_term": "panca-nivarana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "five hindrances",
-  "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
-  "status": "reviewed",
-  "literal_meaning": "five hindrances",
+  "literal_meaning": "five distractions",
+  "preferred_translation": "five distractions",
+  "alternative_translations": [
+    "five hindrances"
+  ],
+  "discouraged_translations": [
+    "five problems"
+  ],
+  "definition": "The standard fivefold framework of active distractions that obstruct collected practice.",
+  "notes": "This collective entry should inherit the headword policy for nīvaraṇa. Use five distractions as the house default and keep five hindrances only as the controlled alternate for comparative prose.",
+  "related_terms": [
+    "nivarana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañca nīvaraṇā",
+      "translation": "the five distractions",
+      "notes": "Standard collective framework expression.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 118"
+  ],
   "tags": [
     "core-doctrine",
-    "core-practice"
-  ]
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "stable"
 }

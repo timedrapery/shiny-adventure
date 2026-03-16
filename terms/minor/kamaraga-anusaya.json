@@ -1,14 +1,29 @@
 {
-  "term": "kamaraga-anusaya",
+  "term": "kāmarāga-anusaya",
   "normalized_term": "kamaraga-anusaya",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "underlying tendency toward sensual passion",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "underlying tendency toward sensual passion",
+  "preferred_translation": "underlying tendency toward sensual passion",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy. Keep both the latent force and the rāga family audible.",
+  "related_terms": [
+    "anusaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmarāgānusayo",
+      "translation": "the underlying tendency toward sensual passion",
+      "notes": "Named member of the latent-tendency family.",
+      "source": "AN 7.11"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.11"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

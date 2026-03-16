@@ -1,18 +1,31 @@
 {
-  "term": "mana-anusaya",
+  "term": "mānānusaya",
   "normalized_term": "mana-anusaya",
   "entry_type": "minor",
   "part_of_speech": "compound",
+  "literal_meaning": "underlying tendency toward conceit",
   "preferred_translation": "underlying tendency toward conceit",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy and stay aligned with the stabilized māna family.",
   "related_terms": [
+    "anusaya",
     "asmimana",
     "mana"
   ],
-  "status": "reviewed",
-  "literal_meaning": "underlying tendency toward conceit",
+  "example_phrases": [
+    {
+      "pali": "mānānusayo",
+      "translation": "the underlying tendency toward conceit",
+      "notes": "Bridge between the residue family and the identity-construction cluster.",
+      "source": "SN 22.89"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.89"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

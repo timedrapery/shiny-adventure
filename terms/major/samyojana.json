@@ -6,83 +6,108 @@
   "literal_meaning": "bond, fetter",
   "preferred_translation": "fetter",
   "alternative_translations": [
-    "bond"
+    "bond",
+    "binding fetter"
   ],
   "discouraged_translations": [
+    "attachment",
     "chain"
   ],
   "untranslated_preferred": false,
-  "definition": "A binding factor that ties a person to cyclical becoming and obstructs full release.",
-  "notes": "The project keeps fetter as the default because it remains the clearest concise term in English for the canonical set. Bond can be useful in explanatory prose when the binding function is more important than the traditional doctrinal label. The OSF glossary confirms fetter as the house default and preserves bond as the explanatory alternate.",
+  "definition": "A binding factor that ties one to continued becoming and blocks full release.",
+  "notes": "The project keeps fetter as the default because it is the clearest concise English label for the canonical set and already functions well in stage-of-awakening contexts. Bond and binding fetter remain explanatory alternates when the tying function needs to be heard more explicitly. Saṃyojana should not be flattened into vague attachment-language: in this repository it belongs to the bondage layer that binds one into continued becoming. That distinguishes it from anusaya, which may lie latent, from nīvaraṇa, which actively obstructs practice, and from the broader kilesa family. Formulaic and list contexts such as the lower and higher fetters should stay tightly governed by the headword rather than paraphrased afresh each time. The same policy extends by default into named compounds such as orambhāgiya-saṃyojana and uddhambhāgiya-saṃyojana unless a narrower override is recorded. The OSF glossary supports keeping fetter as the house default, and MN 64 supports the lower-fetter and higher-fetter classifications.",
   "context_rules": [
     {
-      "context": "In lists and doctrinal discussions of the ten fetters",
+      "context": "In doctrinal lists and stage-of-awakening analysis",
       "rendering": "fetter",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing the binding function",
+      "context": "In explanatory prose emphasizing the tying or binding function",
       "rendering": "bond",
-      "notes": "Acceptable alternate if the traditional label is not needed."
+      "notes": "Allowed alternate when the binding image matters more than the familiar doctrinal label."
+    },
+    {
+      "context": "In translator-facing prose that needs both the technical label and the function",
+      "rendering": "binding fetter",
+      "notes": "Use selectively, not as the normal running translation."
+    },
+    {
+      "context": "In lower-fetter and higher-fetter subclass lists",
+      "rendering": "fetter",
+      "notes": "Keep the canonical set-language stable."
     }
   ],
   "related_terms": [
     "anagami",
-    "anāgāmī",
-    "anusaya",
     "arupa-raga",
+    "anusaya",
     "asava",
-    "āsava",
     "kama-raga",
+    "kilesa",
     "mana",
-    "māna",
-    "paṭigha",
+    "nivarana",
+    "orambhagiya-samyojana",
+    "pahana",
+    "patigha",
     "raga",
-    "rāga",
     "rupa-raga",
     "sakadagami",
-    "sakadāgāmī",
     "sakkaya-ditthi",
     "silabbata-paramasa",
     "sotapanna",
-    "sotāpanna",
-    "uddhacca"
+    "uddhacca",
+    "uddhambhagiya-samyojana"
   ],
   "example_phrases": [
     {
       "pali": "saṃyojanāni",
       "translation": "the fetters",
-      "notes": "General plural reference to the standard doctrinal set.",
+      "notes": "General plural reference to the canonical binding set.",
       "source": "MN 64"
     },
     {
       "pali": "orambhāgiyāni saṃyojanāni",
       "translation": "the lower fetters",
-      "notes": "Shows a common sub-classification of the fetters.",
+      "notes": "Shows a standard sub-classification of the fetters.",
+      "source": "MN 64"
+    },
+    {
+      "pali": "uddhambhāgiyāni saṃyojanāni",
+      "translation": "the higher fetters",
+      "notes": "Shows the complementary upper sub-classification used in awakening-stage analysis.",
       "source": "MN 64"
     }
   ],
   "sutta_references": [
-    "MN 64"
+    "MN 64",
+    "SN 22.89",
+    "AN 10.13"
   ],
   "tags": [
     "core-doctrine",
     "mental-qualities",
-    "liberation"
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping fetter as the house default for the canonical set, with bond retained as an explanatory alternate."
+      "scope": "Supports keeping fetter as the house default while allowing bond as a controlled explanatory alternate."
+    },
+    {
+      "source": "MN 64",
+      "kind": "context-rule",
+      "scope": "Supports the standard lower-fetter and higher-fetter classifications."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'fetter' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'chain' or other unrecorded alternates."
+    "default_scope": "Use 'fetter' as the default rendering in the entry's governed doctrinal and stage-of-awakening contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'bond' or 'binding fetter' only when the local prose needs the tying function made explicit. Do not flatten saṃyojana into generic attachment-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift between binding fetter-language, latent-tendency language, active hindrance language, and generic attachment-language."
   }
 }

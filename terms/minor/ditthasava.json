@@ -1,14 +1,29 @@
 {
-  "term": "ditthasava",
+  "term": "diṭṭhāsava",
   "normalized_term": "ditthasava",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "outflow of views",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "outflow of views",
+  "preferred_translation": "outflow of views",
+  "definition": "A named outflow-compound in the āsava family.",
+  "notes": "This compound should inherit the āsava headword policy. Keep the outflow-family logic explicit so the term does not collapse into plain views or view-clinging.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭhāsavo",
+      "translation": "the outflow of views",
+      "notes": "Named member of the āsava family.",
+      "source": "DN 33"
+    }
+  ],
+  "sutta_references": [
+    "DN 33"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

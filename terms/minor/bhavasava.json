@@ -1,14 +1,29 @@
 {
-  "term": "bhavasava",
+  "term": "bhavāsava",
   "normalized_term": "bhavasava",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "outflow of becoming",
-  "definition": "A named doctrinal pattern used in analysis of bondage, bias, or practice-support.",
-  "status": "reviewed",
   "literal_meaning": "outflow of becoming",
+  "preferred_translation": "outflow of becoming",
+  "definition": "A named outflow-compound in the āsava family.",
+  "notes": "This compound should inherit the āsava headword policy. Keep the outflow-family wording stable so the term stays distinct from bhava itself and from the fetter and latent-tendency families.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavāsavo",
+      "translation": "the outflow of becoming",
+      "notes": "Named member of the āsava family.",
+      "source": "DN 33"
+    }
+  ],
+  "sutta_references": [
+    "DN 33"
+  ],
   "tags": [
     "core-doctrine",
     "mental-qualities"
-  ]
+  ],
+  "status": "stable"
 }

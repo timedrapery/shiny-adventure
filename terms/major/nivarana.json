@@ -10,11 +10,12 @@
     "obstruction"
   ],
   "discouraged_translations": [
+    "problem",
     "enemy"
   ],
   "untranslated_preferred": false,
-  "definition": "A distracting or obstructing state that covers over clarity and interferes with collected practice.",
-  "notes": "The project keeps distraction as the default because it emphasizes what these states do in practice: they pull the mind away, cloud it, and prevent steadiness. Hindrance remains an accepted alternate because it is standard Buddhist-English and still useful in comparative prose. The important editorial point is not to treat nīvaraṇa as a vague moral category. It names a practical meditative framework, especially the five distractions that block delight, composure, and jhāna. The OSF glossary confirms distraction as the house default and preserves hindrance and obstruction as contextual alternates.",
+  "definition": "An actively obstructive state that covers over clarity and interferes with collected practice.",
+  "notes": "The project keeps distraction as the default because it preserves the practical, active function of this family: these states pull the mind off course, cover over clarity, and block collected development. Hindrance remains a controlled alternate for continuity with familiar Buddhist-English, and obstruction remains available when the covering function needs emphasis. Nīvaraṇa should stay distinct from anusaya, which can remain latent even when nothing obvious is surfacing; from saṃyojana, which binds one to continued becoming; from āsava, which names deeper corruptive outflows; and from kilesa, which is the broader defilement family. In practice-facing prose, wholesome dhammas may counter or displace distractions, but translators should not treat that as identical to uprooting underlying tendencies or ending fetters and outflows. The same policy extends by default into the fixed collective compound pañca-nīvaraṇā unless a narrower formula record documents an override. The OSF glossary supports keeping distraction as the house default, and MN 118 supports the practical abandoning-of-distractions framing inside ānāpānasati.",
   "context_rules": [
     {
       "context": "In most practical and meditative-development contexts",
@@ -34,45 +35,54 @@
     {
       "context": "In the fixed fivefold framework",
       "rendering": "distractions",
-      "notes": "Keep the family resemblance across sensual wanting, ill will, dullness-and-drowsiness, restlessness-and-remorse, and doubt."
+      "notes": "Keep the family resemblance stable across the named five and let collective compounds such as pañca-nīvaraṇā inherit the headword default unless a narrower record overrides it."
     }
   ],
   "related_terms": [
-    "appamāda",
+    "abhippamodaya-cittam",
+    "anapanasati",
+    "appamada",
+    "anusaya",
+    "asava",
     "ayoniso-manasikara",
-    "bojjhaṅga",
-    "byāpāda",
-    "jhāna",
-    "kāmacchanda",
+    "bojjhanga",
+    "byapada",
+    "jhana",
+    "kamacchanda",
+    "kilesa",
     "kukkucca",
     "middha",
-    "paṭigha",
-    "samādhi",
+    "patigha",
+    "pahana",
+    "panca-nivarana",
     "sati",
-    "thīna",
+    "thina",
     "thina-middha",
     "uddhacca",
     "uddhacca-kukkucca",
-    "vicikicchā",
+    "vicikiccha",
+    "samadhi",
+    "samyojana",
+    "upakkilesa",
     "yoniso-manasikara"
   ],
   "example_phrases": [
     {
       "pali": "pañca nīvaraṇā",
       "translation": "the five distractions",
-      "notes": "Standard framework expression.",
+      "notes": "Standard framework expression governed by the headword default.",
       "source": "DN 2"
     },
     {
       "pali": "so ime pañca nīvaraṇe pahāya",
       "translation": "having abandoned these five distractions",
-      "notes": "Classic transition into collected practice.",
+      "notes": "Classic transition into collected practice. This is active practical removal, not yet the same as uprooting latent tendencies.",
       "source": "DN 2"
     },
     {
       "pali": "nīvaraṇānaṃ pahānāya",
       "translation": "for the abandoning of the distractions",
-      "notes": "Shows the framework as a practical training task.",
+      "notes": "Shows the family as a practical training target in ānāpānasati and awakening-factor contexts.",
       "source": "MN 118"
     }
   ],
@@ -88,19 +98,23 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Clarified distraction versus hindrance usage and strengthened cross-links to the five-member hindrance framework and its practical role in meditation.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping distraction as the house default for the five-hindrances framework, with hindrance and obstruction retained as contextual alternates."
+      "scope": "Supports keeping distraction as the house default for the fivefold practice framework, with hindrance and obstruction retained as controlled alternates."
+    },
+    {
+      "source": "MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the practical abandonment framing inside ānāpānasati."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'distraction' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'enemy' or other unrecorded alternates."
+    "default_scope": "Use 'distraction' as the default rendering in the entry's governed practice and meditative-development contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'hindrance' or 'obstruction' only when the explanatory context clearly calls for them. Do not flatten nīvaraṇa into vague problem-language or treat it as interchangeable with latent tendencies, fetters, or outflows.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift between active obstruction-language, generic problem-language, and the broader residue families."
   }
 }
