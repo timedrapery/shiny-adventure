@@ -3,12 +3,17 @@
   "normalized_term": "appanihita-cetosamadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "desireless composure of mind",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "preferred_translation": "wishless composure of mind",
+  "alternative_translations": [
+    "desireless composure of mind"
+  ],
+  "definition": "Composure of mind governed by the wishless side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound tied to appaṇihita as wishless rather than flattening it into relaxed passivity or generic calm.",
   "status": "reviewed",
-  "literal_meaning": "desireless composure of mind",
+  "literal_meaning": "wishless composure of mind",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }

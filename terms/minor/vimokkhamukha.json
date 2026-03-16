@@ -5,10 +5,19 @@
   "part_of_speech": "compound",
   "literal_meaning": "doorway to release",
   "preferred_translation": "gateway to release",
-  "definition": "A gateway or entrance to release.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
+  "alternative_translations": [
+    "doorway to release"
+  ],
+  "definition": "A gateway or entrance to release, especially in the coordinated emptiness / signless / wishless family.",
+  "notes": "This record governs the family coordination point. In this repository, the three gateways to release are suññatā, animitta, and appaṇihita. The gateway image should not erase their distinctions: emptiness remains emptiness, signless remains signless, and wishless remains wishless.",
+  "related_terms": [
+    "sunnata",
+    "animitta",
+    "appanihita"
+  ],
   "tags": [
-    "liberation"
+    "liberation",
+    "emptiness-interface"
   ],
   "status": "reviewed"
 }

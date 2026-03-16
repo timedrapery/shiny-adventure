@@ -45,3 +45,9 @@ first step is:
 - `nibbāna` may be explained as imperturbable serenity of mind.
 - `samādhi` is often handled through tranquility, equilibrium, or stillness of
   mind in practical meditation explanation.
+- `suññatā` may be framed as a higher, non-mystical teaching and, in practical
+  meditation explanation, as a gradual emptying or quieting of mind rather
+  than metaphysical nothingness.
+- `nimitta`-side explanation may be handled through attention to the process of
+  perception rather than fixation on the object perceived, which can sharpen
+  practical notes around signless language without replacing the repo default.

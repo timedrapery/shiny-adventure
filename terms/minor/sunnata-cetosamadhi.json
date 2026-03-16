@@ -4,11 +4,16 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "emptiness composure of mind",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "definition": "Composure of mind governed by the emptiness side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound tied to suññatā as emptiness rather than treating it as generic calm or mystical emptiness-language.",
+  "related_terms": [
+    "sunnata"
+  ],
   "status": "reviewed",
   "literal_meaning": "emptiness composure of mind",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }

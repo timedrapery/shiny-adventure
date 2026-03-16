@@ -3,12 +3,17 @@
   "normalized_term": "animitta-vimokkha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "signless liberation",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "preferred_translation": "signless release",
+  "alternative_translations": [
+    "signless liberation"
+  ],
+  "definition": "Release governed by the signless side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound coordinated with the release-side family while preserving the headword's signless force.",
   "status": "reviewed",
-  "literal_meaning": "signless liberation",
+  "literal_meaning": "signless release",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }

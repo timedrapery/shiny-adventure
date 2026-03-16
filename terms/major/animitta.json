@@ -1,0 +1,95 @@
+{
+  "term": "animitta",
+  "normalized_term": "animitta",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "without sign, signless",
+  "preferred_translation": "signless",
+  "alternative_translations": [
+    "without sign",
+    "without taking up signs"
+  ],
+  "discouraged_translations": [
+    "formless",
+    "blank",
+    "imageless",
+    "mystical fog"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Signless, without taking up signs or markers, governed as one member of the emptiness / signless / wishless interface.",
+  "notes": "The repository prefers signless because it preserves the literal and doctrinal force of the term without turning it into abstract contemplative poetry. The term is not just another way to say emptiness. Suññatā governs emptiness of self and of what belongs to self, while animitta governs the signless side where the mind is not taking up signs, appearances, or markers as fuel for further appropriation. It also differs from appaṇihita, which governs the wishless side where desire is not placed toward an object or outcome. In translator practice, animitta therefore belongs to the release-side contemplative interface, not to vague formlessness, trance blankness, or mystical abstraction. The Buddhadasa usage profile supports this anti-mystifying handling of contemplative designation language, and Punnaji's practical handling of perception-language helps here as well: nimitta-related language can be explained through not fastening on the object-side signs, but that practical note must not erase the governed literal structure. Translators should keep signless as the default and use explanatory alternates only when the line genuinely needs the literal structure unpacked.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and contemplative-designation contexts",
+      "rendering": "signless",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When a translator-facing note needs the literal structure made explicit",
+      "rendering": "without sign",
+      "notes": "Controlled alternate that keeps the same doctrinal force."
+    },
+    {
+      "context": "In practical explanatory prose about not fastening on perceptual markers",
+      "rendering": "without taking up signs",
+      "notes": "Use only when the process-language itself is being unpacked."
+    },
+    {
+      "context": "In compounds such as animitta-samadhi, animitta-cetosamadhi, and animitta-vimokkha",
+      "rendering": "signless",
+      "notes": "Keep the compound family coordinated with the headword unless a narrower record documents an override."
+    }
+  ],
+  "related_terms": [
+    "appanihita",
+    "sunnata",
+    "vimokkhamukha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "animittaṃ cetosamādhiṃ upasampajja viharati",
+      "translation": "one dwells having entered signless composure of mind",
+      "notes": "Shows the standard contemplative-designation use carried by the headword.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "animitto vimokkho",
+      "translation": "the signless release",
+      "notes": "Shows the headword's role within the three release-side gateways.",
+      "source": "AN 3.32"
+    }
+  ],
+  "sutta_references": [
+    "MN 43",
+    "AN 3.32"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "liberation",
+    "emptiness-interface"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports anti-mystifying treatment of contemplative-designation language and keeps the term within practical non-appropriation rather than metaphysical spectacle."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports practical explanation of sign-related language through perception and attention without overriding the repo's signless default."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'signless' as the default rendering in the entry's governed contemplative, doctrinal, and compound-family contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'without sign' or 'without taking up signs' only where a recorded context rule justifies it. Do not flatten animitta into formlessness, blankness, imageless mysticism, or a generic synonym for emptiness.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents signless-language from collapsing into vague formlessness, trance blankness, or uncontrolled mystical prose while keeping it distinct from suññatā and appaṇihita."
+  },
+  "version_notes": "Promoted from draft minor status to stable major status in the emptiness / signless / wishless interface pass."
+}

@@ -3,12 +3,17 @@
   "normalized_term": "appanihita-vimokkha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "desireless liberation",
-  "definition": "A liberation or meditative composure defined by a particular contemplative mode.",
+  "preferred_translation": "wishless release",
+  "alternative_translations": [
+    "desireless liberation"
+  ],
+  "definition": "Release governed by the wishless side of the emptiness / signless / wishless family.",
+  "notes": "Keep this compound coordinated with the release-side family while preserving appaṇihita's distinct wishless force.",
   "status": "reviewed",
-  "literal_meaning": "desireless liberation",
+  "literal_meaning": "wishless release",
   "tags": [
     "liberation",
-    "meditative-development"
+    "meditative-development",
+    "emptiness-interface"
   ]
 }
