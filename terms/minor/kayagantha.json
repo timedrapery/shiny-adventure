@@ -1,0 +1,38 @@
+{
+  "term": "kāyagantha",
+  "normalized_term": "kayagantha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bodily knot",
+  "preferred_translation": "bodily knot",
+  "alternative_translations": [
+    "knot tied to the body"
+  ],
+  "definition": "A fixed gantha-family compound for the four canonical knots.",
+  "notes": "This compound belongs to the gantha family and should keep knot imagery explicit. Do not flatten kāyagantha into generic bond, attachment, or problem language just because the member terms are ethically familiar.",
+  "related_terms": [
+    "abhijjha-kayagantha",
+    "byapada-kayagantha",
+    "cattarome-bhikkhave-gantha",
+    "gantha",
+    "idamsacca-abhinivesa-kayagantha",
+    "silabbata-paramasa-kayagantha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "abhijjhā kāyagantho",
+      "translation": "coveting is a bodily knot",
+      "notes": "Shows the specialized family label used in the fourfold list.",
+      "source": "SN 45.174"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.174"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

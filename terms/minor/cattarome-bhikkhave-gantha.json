@@ -6,9 +6,10 @@
   "literal_meaning": "bhikkhus, there are these four knots",
   "preferred_translation": "bhikkhus, there are these four knots",
   "definition": "A family-heading formula for the four knots.",
-  "notes": "Use this phrase record when the heading appears as a whole. It should inherit the gantha headword policy and keep the knot image stable across the family.",
+  "notes": "Use this phrase record when the heading appears as a whole. It should inherit the gantha headword policy and keep the knot image stable across the family, including the fixed kāyagantha member set.",
   "related_terms": [
-    "gantha"
+    "gantha",
+    "kayagantha"
   ],
   "example_phrases": [
     {

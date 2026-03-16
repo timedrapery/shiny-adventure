@@ -35,6 +35,11 @@ SUPPORTING_TERMS = [
     "bhavayoga",
     "ditthiyoga",
     "avijjayoga",
+    "kayagantha",
+    "abhijjha-kayagantha",
+    "byapada-kayagantha",
+    "silabbata-paramasa-kayagantha",
+    "idamsacca-abhinivesa-kayagantha",
     "yogakkhema",
 ]
 
@@ -98,6 +103,7 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
         "gantha": "knot",
         "kamogha": "sensual flood",
         "kamayoga": "sensual yoke",
+        "kayagantha": "bodily knot",
         "yogakkhema": "security from the yoke",
     }
     for stem, expected_rendering in expected.items():
@@ -140,7 +146,7 @@ def render_glossary(terms: dict[str, dict[str, object]]) -> str:
         "| Pali | Default | Allowed alternates | Discouraged |",
         "| --- | --- | --- | --- |",
     ]
-    for stem in HEADWORD_TERMS + ["kamogha", "kamayoga", "yogakkhema"]:
+    for stem in HEADWORD_TERMS + ["kamogha", "kamayoga", "kayagantha", "yogakkhema"]:
         data = terms[stem]
         alts = ", ".join(data.get("alternative_translations", []))
         discouraged = ", ".join(data.get("discouraged_translations", []))
@@ -158,13 +164,17 @@ def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
         f"- `{terms['ogha']['term']}`: `{terms['ogha']['preferred_translation']}`",
         f"- `{terms['yoga']['term']}`: `{terms['yoga']['preferred_translation']}`",
         f"- `{terms['gantha']['term']}`: `{terms['gantha']['preferred_translation']}`",
+        f"- `{terms['kayagantha']['term']}`: `{terms['kayagantha']['preferred_translation']}`",
         "",
         "## Keep Distinct",
         "",
         "- `ogha` is flood imagery: it overwhelms and is crossed over.",
         "- `yoga` is yoke imagery: it harnesses or keeps one under a binding burden.",
-        "- `gantha` is knot imagery: it ties up and entangles.",
-        "- None of these should replace `āsava` or `saṃyojana` by habit just because they share a bondage neighborhood.",
+        "- `gantha` is knot imagery: it ties up and fastens.",
+        "- `kāyagantha` keeps that knot image explicit in the fourfold member set.",
+        "- `saṃyojana` remains the fetter family, not a synonym for the imagery terms.",
+        "- `āsava` remains the outflow family, not a flood, yoke, or knot.",
+        "- `anusaya` remains the latent-underlying family, not an imagery substitute.",
     ]
     return "\n".join(lines)
 

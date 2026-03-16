@@ -11,11 +11,13 @@
   "discouraged_translations": [
     "attachment",
     "bondage",
-    "fetter"
+    "fetter",
+    "exercise",
+    "spiritual practice"
   ],
   "untranslated_preferred": false,
   "definition": "A yoke-like binding force that harnesses and keeps one tied into continued becoming.",
-  "notes": "The project keeps yoke as the default because it preserves the governing image without collapsing the term into the already-set fetter or bondage families. Bond remains a controlled alternate when a sentence needs smoother English, but yoga should not become a generic synonym for saṃyojana, upādāna, or bondage itself. In this repository, yoga differs from ogha, which overwhelms like a flood; from saṃyojana, which binds as a fetter; from āsava, which runs on as an outflow; and from gantha, which entangles as a knot. The same imagery should govern named compounds such as kāmayoga, bhavayoga, diṭṭhiyoga, and avijjāyoga unless a narrower record overrides it. The OSF glossary supports keeping concrete imagery when it blocks drift, and SN 45.172 supports the fourfold yoke framework. The fixed compound yogakkhema belongs to this family but may use a controlled whole-expression rendering rather than mechanically repeating the headword.",
+  "notes": "The project keeps yoke as the default because it preserves the governing image without collapsing the term into the already-set fetter or generic bondage families. Bond remains a controlled alternate when a sentence needs smoother English, but yoga should not become a generic synonym for saṃyojana, upādāna, or bondage itself. In this repository, yoga differs from ogha, which overwhelms like a flood; from saṃyojana, which binds as a fetter; from āsava, which runs on as an outflow; and from gantha, which fastens as a knot. The primary force is yoking or harnessing: being kept under a burden rather than swept away or tied into a knot. The same imagery should govern named compounds such as kāmayoga, bhavayoga, diṭṭhiyoga, and avijjāyoga unless a narrower record overrides it. Translators should also resist modern exercise or spirituality associations: this family is binding imagery, not a practice label. The OSF glossary supports keeping concrete imagery when it blocks drift, and SN 45.172 supports the fourfold yoke framework. The fixed compound yogakkhema belongs to this family but may use a controlled whole-expression rendering rather than mechanically repeating the headword.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -40,12 +42,15 @@
   ],
   "related_terms": [
     "avijjayoga",
+    "anusaya",
+    "asava",
     "bhavayoga",
     "cattarome-bhikkhave-yoga",
     "ditthiyoga",
     "gantha",
     "kamayoga",
     "ogha",
+    "samyojana",
     "yogakkhema"
   ],
   "example_phrases": [
@@ -88,8 +93,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'yoke' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'bond' only when English flow clearly requires it. Do not flatten yoga into generic bondage, attachment, or fetter language.",
+    "when_not_to_apply": "Use 'bond' only when English flow clearly requires it. Do not flatten yoga into generic bondage, attachment, fetter language, or modern exercise/spirituality associations.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents collapse between yoke imagery, flood imagery, knot imagery, fetter-language, and generic bondage-language."
+    "drift_risk": "Prevents collapse between yoke imagery, flood imagery, knot imagery, fetter-language, and generic bondage-language, including modern mistriggering around the English word yoga."
   }
 }
