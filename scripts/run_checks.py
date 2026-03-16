@@ -26,6 +26,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Crossing / release interface cluster", [sys.executable, "scripts/crossing_release_interface_cluster_report.py", "--strict"]),
     ("Consummation / unconditioned interface cluster", [sys.executable, "scripts/consummation_interface_cluster_report.py", "--strict"]),
     ("OSF reconciliation layer", [sys.executable, "scripts/osf_reconciliation_report.py", "--strict"]),
+    ("Knowledge / seeing / understanding cluster", [sys.executable, "scripts/knowledge_cluster_report.py", "--strict"]),
     ("Craving / appropriation cluster", [sys.executable, "scripts/craving_appropriation_cluster_report.py", "--strict"]),
     ("Kama cluster", [sys.executable, "scripts/kama_cluster_report.py", "--strict"]),
     ("Experience / process cluster", [sys.executable, "scripts/experience_process_cluster_report.py", "--strict"]),

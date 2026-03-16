@@ -1,0 +1,89 @@
+{
+  "term": "pariññā",
+  "normalized_term": "parinna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "full understanding, complete knowing around",
+  "preferred_translation": "full understanding",
+  "alternative_translations": [
+    "complete understanding",
+    "full comprehension"
+  ],
+  "discouraged_translations": [
+    "understanding",
+    "comprehension"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Full understanding or complete penetration, especially where a doctrinal task has to be fully understood rather than merely known in passing.",
+  "notes": "The project prefers full understanding because it preserves the completed, task-like force of the term without sounding scholastic. Complete understanding and full comprehension remain acceptable where the sentence benefits from them. In this repository, pariññā is not just another way to say paññā: paññā is discernment as a cultivated capacity, while pariññā is the full understanding or complete penetration of what must be understood. It also differs from ñāṇa, which is broader knowing, and from ordinary understanding-language, which is too weak for the canonical task force of the term. The OSF glossary supports understanding-language here without requiring the repo to weaken the completed force. Punnaji's practical materials pair pariññā with abhiññā and paññā in awakening explanation, and the repository preserves that contrast rather than flattening all three into insight or wisdom.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and task-language contexts",
+      "rendering": "full understanding",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where a slightly more formal English noun phrase reads better",
+      "rendering": "complete understanding",
+      "notes": "Acceptable alternate when the line genuinely benefits from it."
+    },
+    {
+      "context": "In explanatory prose emphasizing the complete grasp of what must be known",
+      "rendering": "full comprehension",
+      "notes": "Use selectively and do not let it degrade into casual comprehension-language."
+    }
+  ],
+  "related_terms": [
+    "abhinna",
+    "nana",
+    "panna",
+    "vijja",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhaṃ pariññeyya",
+      "translation": "dissatisfaction should be fully understood",
+      "notes": "Shows the task-language force that must not be weakened into casual understanding.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "pariññā",
+      "translation": "full understanding",
+      "notes": "Headword form for the completed-understanding family.",
+      "source": "MN 9"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11",
+    "MN 9"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports understanding-language while leaving room for the repo to strengthen the completed force as full understanding."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports pairing pariññā with practical awakening explanation while keeping it distinct from generic understanding."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'full understanding' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use the recorded alternates only where the sentence benefits from them. Do not flatten pariññā into ordinary understanding or generic comprehension-language, and do not let it collapse into paññā or ñāṇa.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents pariññā from weakening into casual understanding-language and keeps it distinct from discernment and knowing."
+  },
+  "version_notes": "Added in the knowledge / seeing / understanding pass to stabilize full-understanding task language."
+}

@@ -1,0 +1,97 @@
+{
+  "term": "vijjā",
+  "normalized_term": "vijja",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "knowledge, knowing clearly",
+  "preferred_translation": "clear knowledge",
+  "alternative_translations": [
+    "knowledge",
+    "full knowledge"
+  ],
+  "discouraged_translations": [
+    "science",
+    "information",
+    "consciousness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Clear, liberating knowledge that stands opposite to avijjā and belongs with awakening and release rather than mere information.",
+  "notes": "The project prefers clear knowledge because vijjā sits in direct contrast to avijjā and should sound more sharpened and liberative than generic knowledge. Plain knowledge remains acceptable where English needs less weight, and full knowledge is tolerated as a controlled practical alternate in Punnaji-style pedagogy, especially where he speaks of fuller knowing within awakening sequences. In this repository, vijjā is not the same as ñāṇa: ñāṇa is the broader knowing/knowledge family, while vijjā names clearer liberating knowledge in contrast to ignorance. It also differs from paññā, which is discernment as a cultivated capacity rather than the resulting clarified knowledge itself. OSF and Buddhadāsa-line house style support keeping vijjā anti-mystified and practice-facing, and Punnaji's materials reinforce that it should not be reduced to mere perception or informational knowledge.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and release-facing contexts",
+      "rendering": "clear knowledge",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the adjective would overburden the line",
+      "rendering": "knowledge",
+      "notes": "Acceptable alternate when the local contrast with avijjā is still explicit in surrounding context."
+    },
+    {
+      "context": "In Punnaji-style practical pedagogical sequences that stress the growth of liberating understanding",
+      "rendering": "full knowledge",
+      "notes": "Controlled practical alternate, not the house default."
+    },
+    {
+      "context": "When vijjā is paired with vimutti in liberation formulas",
+      "rendering": "clear knowledge",
+      "notes": "Keep the practice-result sequence sharper than generic knowledge and release."
+    }
+  ],
+  "related_terms": [
+    "abhinna",
+    "avijja",
+    "nana",
+    "panna",
+    "parinna",
+    "sampajanna",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vijjāvimutti",
+      "translation": "clear knowledge and release",
+      "notes": "Classic pairing showing vijjā as liberation-side knowledge, not mere information.",
+      "source": "AN 10.1"
+    },
+    {
+      "pali": "avijjāya tveva asesavirāganirodhā",
+      "translation": "but with the complete fading and quenching of ignorance",
+      "notes": "The avijjā contrast governs vijjā's doctrinal field even when the positive form is not explicitly named in the same line.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "AN 10.1",
+    "SN 12.2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports knowledge-language for vijjā without forcing an abstract or scholastic register."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports the distinction between mere perception and a fuller liberating knowledge that grows toward comprehension."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'clear knowledge' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'knowledge' or 'full knowledge' only where a recorded context rule justifies it. Do not collapse vijjā into information, science, generic knowing, or consciousness-language, and do not let it erase its direct contrast with avijjā.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents vijjā from drifting into informational knowledge, modern scientistic rhetoric, or vague mystical illumination while keeping its liberating contrast with avijjā explicit."
+  },
+  "version_notes": "Added in the knowledge / seeing / understanding pass to distinguish vijjā from ñāṇa, paññā, and avijjā."
+}

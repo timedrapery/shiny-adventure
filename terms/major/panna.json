@@ -10,11 +10,12 @@
     "wisdom"
   ],
   "discouraged_translations": [
+    "insight",
     "intelligence"
   ],
   "untranslated_preferred": false,
   "definition": "Discernment that sees the character of experience clearly and supports release.",
-  "notes": "The project prefers discernment because it sounds active, practical, and tied to seeing clearly, whereas wisdom can sound honorary, static, or merely admirable. Understanding remains acceptable in explanatory prose, while wisdom is retained as a familiar alternate for reader orientation rather than the default house rendering. Ven. Dr. M. Punnaji often frames paññā as introspective insight within awakening pedagogy; the repository keeps discernment as default while recognizing that source-backed explanatory emphasis. The OSF glossary uses wisdom and insight language for paññā; the repository keeps discernment as default while recognizing that source-backed explanatory vocabulary. Translators should keep the house default stable in path, faculty, and liberation contexts and should use wisdom only where continuity with established Buddhist-English terminology is explicitly helpful.",
+  "notes": "The project keeps discernment as the default because it sounds active, practical, and trainable, whereas wisdom can sound honorary, literary, or static. Understanding remains acceptable in explanatory prose, and wisdom remains a familiar orientation alternate, but neither should replace the house default in path, faculty, and liberation contexts. In this repository, paññā is not the same as ñāṇa: paññā is the cultivated capacity of discernment, while ñāṇa is the knowing or knowledge that may arise within or from that discernment. It also differs from pariññā, which is full understanding or complete penetration of a task-object, and from diṭṭhi, which is view rather than knowledge. OSF house materials keep paññā within practical seeing and release-language, while Punnaji's materials often speak of introspective insight; the repository preserves that as a practical explanatory pressure without making insight the uncontrolled default for the headword.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -22,32 +23,39 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In prose emphasizing comprehension rather than sharp discrimination",
+      "context": "In prose emphasizing comprehension more than cutting discrimination",
       "rendering": "understanding",
-      "notes": "Acceptable alternate."
+      "notes": "Acceptable alternate when the local line truly benefits from it."
     },
     {
-      "context": "In prose engaging conventional Buddhist terminology",
+      "context": "In prose engaging conventional Buddhist-English terminology for reader orientation",
       "rendering": "wisdom",
-      "notes": "Use selectively for reader orientation."
+      "notes": "Use selectively and never as an uncontrolled default."
+    },
+    {
+      "context": "In compounds such as paññāvimutti or adhipaññā where the cultivated capacity remains in view",
+      "rendering": "discernment",
+      "notes": "Keep the family coordinated unless a narrower record explicitly overrides it."
     }
   ],
   "related_terms": [
+    "abhinna",
     "adhipanna",
-    "adhipaññā",
     "amoha",
     "bala",
     "bodhi",
+    "dassana",
     "dhammavicaya",
-    "diṭṭhi",
+    "ditthi",
     "indriya",
-    "ñāṇa",
+    "nana",
     "pannavimutti",
-    "paññāvimutti",
-    "saddhā",
+    "parinna",
+    "saddha",
     "samma-ditthi",
+    "sampajanna",
     "vimamsa",
-    "vīmaṃsā",
+    "vijja",
     "vimutti",
     "vipassana-nana",
     "yathabhuta-nanadassana"
@@ -56,13 +64,13 @@
     {
       "pali": "paññāya passati",
       "translation": "one sees with discernment",
-      "notes": "Shows the term in active practical use.",
+      "notes": "Shows paññā as an active seeing-capacity rather than a static title of wisdom.",
       "source": "SN 12.23"
     },
     {
       "pali": "paññāvimutti",
       "translation": "release through discernment",
-      "notes": "Important doctrinal compound.",
+      "notes": "Important doctrinal compound anchoring the headword in the release family.",
       "source": "MN 70"
     }
   ],
@@ -72,27 +80,30 @@
   ],
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
   ],
   "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "rationale",
-      "scope": "Named in notes as support for the current paññā policy."
+      "kind": "gloss",
+      "scope": "Supports practical wisdom and understanding language while leaving room for the repo's sharper discernment default."
     },
     {
-      "source": "Punnaji",
+      "source": "Punnaji usage profile",
       "priority": "external",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current paññā policy."
+      "scope": "Supports a practical introspective emphasis on paññā without forcing insight-language to become the house default."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'discernment' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use 'understanding' or 'wisdom' only where the recorded context rules justify it. Do not flatten paññā into generic wisdom-talk, insight-language, or intelligence-language, and do not let it swallow ñāṇa, pariññā, or diṭṭhi.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'intelligence' or other unrecorded alternates."
-  }
+    "drift_risk": "Prevents paññā from drifting into generic wisdom-literature, vague insight-talk, or ordinary intelligence while keeping it distinct from knowing, view, and full understanding."
+  },
+  "version_notes": "Strengthened in the knowledge / seeing / understanding pass to distinguish paññā from ñāṇa, pariññā, and diṭṭhi."
 }

@@ -1,0 +1,89 @@
+{
+  "term": "dassana",
+  "normalized_term": "dassana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "seeing",
+  "preferred_translation": "seeing",
+  "alternative_translations": [
+    "clear seeing",
+    "vision"
+  ],
+  "discouraged_translations": [
+    "insight",
+    "mystical vision"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Seeing, especially the contemplative or experiential seeing side of epistemic expressions and formulas.",
+  "notes": "The project prefers seeing because it is plain, practical, and keeps the experiential side of the term audible. Clear seeing remains acceptable when the line needs an explicit qualifier, and vision remains acceptable only in tightly governed compounds where English really needs a noun. In this repository, dassana is not the same as ñāṇa: ñāṇa handles the knowing side, while dassana preserves the seeing side. It also differs from paññā, which is discernment as a cultivated capacity rather than the event or fact of seeing, and from diṭṭhi, which is view rather than clear seeing. OSF house style favors practical, anti-mystified handling here, and Punnaji usage likewise supports practical seeing-language within introspective awakening explanation, so the repository refuses mystical-vision language unless a narrower compound record explicitly justifies it.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and formula contexts",
+      "rendering": "seeing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing the clarity of the seeing rather than the bare noun",
+      "rendering": "clear seeing",
+      "notes": "Acceptable alternate when the local line benefits from explicitness."
+    },
+    {
+      "context": "In fixed compounds such as vimutti-ñāṇadassana where English idiom strongly expects a paired noun",
+      "rendering": "vision",
+      "notes": "Allowed only as a controlled compound-level alternate, not a headword default."
+    }
+  ],
+  "related_terms": [
+    "nanadassana",
+    "nana",
+    "panna",
+    "vimutti-nanadassana",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ñāṇadassana",
+      "translation": "knowing and seeing",
+      "notes": "Core family expression showing that dassana must not be swallowed by knowledge-language.",
+      "source": "MN 26"
+    },
+    {
+      "pali": "vimuttiñāṇadassana",
+      "translation": "knowing and seeing of release",
+      "notes": "Shows the release-facing compound family.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "MN 26",
+    "MN 39"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports plain seeing-language rather than inflated mystical-vision diction."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports practical seeing-language within introspective and awakening-oriented explanation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'seeing' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clear seeing' or a compound-level noun alternate only where the recorded context rules justify it. Do not flatten dassana into mystical vision, generic insight, or mere view-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents dassana from drifting into mystical vision-talk or collapsing into ñāṇa, paññā, or diṭṭhi."
+  },
+  "version_notes": "Added in the knowledge / seeing / understanding pass to stabilize the seeing-side of the knowledge family."
+}

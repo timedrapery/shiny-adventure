@@ -1,0 +1,94 @@
+{
+  "term": "abhiññā",
+  "normalized_term": "abhinna",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "higher knowing, direct higher knowledge",
+  "preferred_translation": "higher knowing",
+  "alternative_translations": [
+    "higher knowledge",
+    "direct knowledge"
+  ],
+  "discouraged_translations": [
+    "superpower",
+    "occult power",
+    "insight"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Higher knowing or directly realized knowing, used in attainment and extraordinary-knowledge contexts.",
+  "notes": "The project prefers higher knowing because it preserves the raised force of the prefix without making the term sound sensationalistic or occult. Higher knowledge remains acceptable in more noun-heavy prose, and direct knowledge is acceptable when the line is about personally realized knowing rather than powers or lists. In this repository, abhiññā is not generic insight, not just another word for ñāṇa, and not something to be inflated into New Age or occult rhetoric. It names a heightened or directly realized knowing within doctrinally marked contexts, including formulas about personally realizing release. The OSF glossary supports a plain knowledge-based handling rather than occult rhetoric. Punnaji's practical materials sometimes use apperception as a pedagogical explanation; the repository records that as a controlled practical note but does not adopt it as the default translation.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and list contexts where the term names a raised mode of knowing",
+      "rendering": "higher knowing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where a smoother noun phrase reads better than the more active form",
+      "rendering": "higher knowledge",
+      "notes": "Acceptable alternate when the line genuinely benefits from it."
+    },
+    {
+      "context": "In formulas such as sayaṃ abhiññā sacchikatvā where personal realization is foregrounded",
+      "rendering": "direct knowledge",
+      "notes": "Use selectively when direct realization is the active point of the line."
+    },
+    {
+      "context": "In Punnaji-style practical explanation of introspective awakening sequences",
+      "rendering": "higher knowing",
+      "notes": "A practical note may mention apperception, but the default rendering remains governed."
+    }
+  ],
+  "related_terms": [
+    "nana",
+    "panna",
+    "parinna",
+    "vijja"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sayaṃ abhiññā sacchikatvā upasampajja viharati",
+      "translation": "one lives having directly realized it through direct knowledge",
+      "notes": "Shows the direct-realization formula side of the term.",
+      "source": "MN 70"
+    },
+    {
+      "pali": "abhiññā",
+      "translation": "higher knowing",
+      "notes": "Headword form for the broader doctrinal family.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 70",
+    "DN 2"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports knowledge-language without forcing occult or sensationalist rhetoric."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports a practical introspective reading of the term while the repo keeps the main headword governed as higher knowing."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'higher knowing' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'higher knowledge' or 'direct knowledge' only where a recorded context rule justifies it. Do not flatten abhiññā into generic insight, occult sensationalism, or vague advanced spirituality.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents abhiññā from collapsing into generic insight-language, occultism, or loose self-help talk while keeping its direct-realization force usable."
+  },
+  "version_notes": "Added in the knowledge / seeing / understanding pass to stabilize higher-knowing language and keep it distinct from ordinary knowing and discernment."
+}

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowing and seeing phenomena according to their actual conditioned arising rather than through distortion or projection.",
-  "notes": "The repository keeps the longer translation as the default because it preserves the conditioned, processive force of bhūta more carefully than the shortened English idiom things as they are. The shorter form remains acceptable where the line cannot bear the longer phrase. This term should be treated as an early-Buddhist epistemic and liberative expression, not as a late technical slogan. The OSF glossary likewise keeps this expression tied to conditioned process rather than generic objectivity, which supports the present policy.",
+  "notes": "The repository keeps the longer translation as the default because it preserves the conditioned, processive force of bhūta more carefully than the shortened English idiom things as they are. The shorter form remains acceptable where the line cannot bear the longer phrase. This term now inherits the sharper cluster distinction between ñāṇa as knowing and dassana as seeing, and it should not be treated as a late technical slogan or as generic objectivity. The OSF glossary keeps this expression tied to conditioned process rather than generic realism, and Punnaji's practical materials reinforce the move from seeing what we experience to seeing how we experience without turning the term into psychologized self-help language.",
   "context_rules": [
     {
       "context": "In doctrinal and source-facing contexts where precision matters",
@@ -34,10 +34,13 @@
   ],
   "related_terms": [
     "anattā",
+    "dassana",
     "dhammavicaya",
+    "nanadassana",
     "ñāṇa",
     "paññā",
     "paṭiccasamuppāda",
+    "parinna",
     "vipassana-nana"
   ],
   "example_phrases": [
