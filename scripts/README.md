@@ -31,6 +31,8 @@ All CLI scripts support `--help`.
   Reports the current queue of draft major entries still awaiting an editorial pass.
 - `python scripts/five_heaps_cluster_report.py`
   Audits the five-heaps / clung-to-heaps cluster and can generate translator-facing sheets in `docs/generated/`.
+- `python scripts/identity_construction_cluster_report.py`
+  Audits the identity-construction cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/policy_backfill_queue.py`
   Ranks major terms that should be prioritized for metadata backfill.
 
