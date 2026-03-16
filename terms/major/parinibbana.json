@@ -1,0 +1,90 @@
+{
+  "term": "parinibbāna",
+  "normalized_term": "parinibbana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "complete nibbāna, final quenching",
+  "preferred_translation": "final nibbāna",
+  "alternative_translations": [
+    "complete quenching"
+  ],
+  "discouraged_translations": [
+    "death",
+    "annihilation",
+    "heaven"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Final nibbāna language, especially when the texts speak of the Buddha or an arahant at death.",
+  "notes": "The project keeps final nibbāna as the default because it preserves the direct relation to nibbāna while still marking the specialized final-use frame. Complete quenching remains a controlled explanatory alternate when the image itself is being unpacked, but parinibbāna should not be flattened into mere death or annihilation. OSF editorial authority supports preserving the direct nibbāna relation rather than replacing the term with generic death-language, and DN 16 supports final nibbāna as the standard rendering in the Buddha's last-days framework. In this repository, parinibbāna differs from nibbāna: nibbāna is the governing consummation-side headword, whereas parinibbāna names the final-completion frame in relation to the ending of the living process. It also differs from vimutti, which is release-language, and from nibbuta, which is adjectival cooling-language. Translators should therefore resist generic English substitutes that erase the nibbāna relation or import materialist or eternalist baggage.",
+  "context_rules": [
+    {
+      "context": "In most source-facing doctrinal and narrative contexts",
+      "rendering": "final nibbāna",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the quenching image itself is being unpacked",
+      "rendering": "complete quenching",
+      "notes": "Allowed alternate when the nibbāna relation remains clear."
+    },
+    {
+      "context": "In passages about the Buddha or arahants at death",
+      "rendering": "final nibbāna",
+      "notes": "Do not substitute generic death-language."
+    },
+    {
+      "context": "In parinibbāna-dhātu compounds",
+      "rendering": "final nibbāna",
+      "notes": "Keep the compound family coordinated with the headword."
+    }
+  ],
+  "related_terms": [
+    "nibbana",
+    "nibbuta",
+    "parinibbana-dhatu",
+    "santi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tathāgatassa parinibbānaṃ",
+      "translation": "the Tathāgata's final nibbāna",
+      "notes": "Standard narrative-doctrinal use.",
+      "source": "DN 16"
+    },
+    {
+      "pali": "parinibbuto so bhagavā",
+      "translation": "the Blessed One has reached final nibbāna",
+      "notes": "Shows the parinibbāna family in a final-completion context.",
+      "source": "DN 16"
+    }
+  ],
+  "sutta_references": [
+    "DN 16",
+    "SN 6.15"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF Editorial Authority",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports preserving the direct relation to nibbāna rather than replacing parinibbāna with generic death-language."
+    },
+    {
+      "source": "DN 16",
+      "kind": "context-rule",
+      "scope": "Supports final nibbāna in the Buddha's last-days framework."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'final nibbāna' as the default rendering in the entry's governed doctrinal and narrative contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'complete quenching' only in explanatory prose that explicitly unpacks the image. Do not flatten parinibbāna into generic death, annihilation, or heaven-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents final-completion nibbāna language from collapsing into generic death-language or uncontrolled synonymy with nibbāna itself."
+  }
+}

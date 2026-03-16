@@ -6,34 +6,46 @@
   "literal_meaning": "unconstructed, unconditioned",
   "preferred_translation": "unconditioned",
   "alternative_translations": [
-    "unconstructed"
+    "unconstructed",
+    "unfabricated"
   ],
   "discouraged_translations": [
-    "eternal"
+    "eternal",
+    "transcendent reality",
+    "ultimate ground",
+    "nibbāna"
   ],
   "untranslated_preferred": false,
-  "definition": "Unconditioned; not brought about by conditioned construction.",
-  "notes": "The project prefers unconditioned because it is the most established and readable doctrinal rendering in English. Unconstructed is acceptable when the contrast with saṅkhata or saṅkhāra needs to remain more explicit. The OSF glossary confirms unconditioned as the house default and preserves unconstructed as the contrast-emphasis alternate.",
+  "definition": "Unconditioned language used as a doctrinal designation on the consummation side.",
+  "notes": "The project prefers unconditioned because it is the clearest doctrinal English for this contrastive designation. Unconstructed and unfabricated remain controlled alternates when the contrast with saṅkhata or saṅkhāra needs to stay sharper. The OSF glossary supports unconditioned as the house default, and Ud 8.3 supports the canonical asaṅkhata-dhātu expression. In this repository, asaṅkhata is not just another name to rotate in for nibbāna: it marks the unconditioned aspect or designation, while nibbāna remains the governing consummation-side headword. It also differs from amata, which highlights deathless language rather than the conditioned/unconditioned contrast. Translators should therefore resist turning asaṅkhata into vague metaphysics, abstract transcendence, or an eternal substrate.",
   "context_rules": [
     {
-      "context": "In most doctrinal contexts",
+      "context": "In most doctrinal contrasts with saṅkhata",
       "rendering": "unconditioned",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing contrast with the constructed",
+      "context": "In explanatory prose emphasizing the contrast with what is constructed",
       "rendering": "unconstructed",
-      "notes": "Acceptable alternate."
+      "notes": "Acceptable alternate when that contrast needs to remain explicit."
+    },
+    {
+      "context": "In prose where fabrication-language is already foregrounded nearby",
+      "rendering": "unfabricated",
+      "notes": "Allowed alternate when it clearly helps and does not import alien metaphysics."
+    },
+    {
+      "context": "In asaṅkhata-dhātu compounds and formulas",
+      "rendering": "unconditioned",
+      "notes": "Keep the unconditioned family stable rather than substituting nibbāna or deathless language."
     }
   ],
   "related_terms": [
     "amata",
+    "asankhata-dhatu",
     "asava",
-    "āsava",
     "nibbana",
-    "nibbāna",
-    "sankhata",
-    "saṅkhata"
+    "sankhata"
   ],
   "example_phrases": [
     {
@@ -50,25 +62,32 @@
     }
   ],
   "sutta_references": [
-    "Ud 8.3"
+    "Ud 8.3",
+    "SN 43.1"
   ],
   "tags": [
     "core-doctrine",
-    "liberation"
+    "translation-sensitive",
+    "consummation-interface"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping unconditioned as the house default in doctrinal contexts, with unconstructed retained for explicit contrastive prose."
+      "scope": "Supports unconditioned as the house default while retaining contrastive alternates for explicit comparison with saṅkhata."
+    },
+    {
+      "source": "Ud 8.3",
+      "kind": "context-rule",
+      "scope": "Supports asaṅkhata and asaṅkhata-dhātu as governed doctrinal designations."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'unconditioned' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'eternal' or other unrecorded alternates."
+    "default_scope": "Use 'unconditioned' as the default rendering in the entry's governed doctrinal and contrastive contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'unconstructed' or 'unfabricated' only when the explicit contrast requires it. Do not flatten asaṅkhata into eternalist or vague metaphysical language, and do not rotate it in as a casual substitute for nibbāna.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the unconditioned family from collapsing into generic metaphysics, eternalism, or uncontrolled synonymy with nibbāna."
   }
 }

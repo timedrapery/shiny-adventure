@@ -1,0 +1,38 @@
+{
+  "term": "amatapada",
+  "normalized_term": "amatapada",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "path or state of the deathless",
+  "preferred_translation": "path to the deathless",
+  "alternative_translations": [
+    "state of the deathless"
+  ],
+  "discouraged_translations": [
+    "immortal path",
+    "path to eternal life"
+  ],
+  "definition": "Compound in which amata governs the deathless side of the consummation interface.",
+  "notes": "Use the path-oriented rendering when the phrase is functioning as a practical formula, as in appamādo amatapadaṃ. Do not import eternal-life language.",
+  "related_terms": [
+    "amata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "appamādo amatapadaṃ",
+      "translation": "heedfulness is the path to the deathless",
+      "notes": "Classic practical formula governed by the amata family.",
+      "source": "Dhp 21"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 21"
+  ],
+  "tags": [
+    "formula",
+    "core-practice",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable"
+}

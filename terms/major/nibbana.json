@@ -7,16 +7,20 @@
   "preferred_translation": "nibbāna",
   "alternative_translations": [
     "quenching",
-    "extinguishment",
-    "coolness"
+    "coolness",
+    "extinguishment"
   ],
   "discouraged_translations": [
-    "enlightenment"
+    "enlightenment",
+    "peace",
+    "heaven",
+    "annihilation",
+    "mere cessation"
   ],
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
-  "definition": "The quenching of greed, aversion, and delusion; the unbinding that marks liberation.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still keeps nibbāna untranslated by default because the two primary sources strongly reinforce its practical force without collapsing it into a single English noun, but Buddhadasa's coolness language and Dhammarato's practical, non-mystified handling now sit above older secondary-source explanations. Translators should keep the untranslated default in source-facing doctrinal prose and should only switch to quenching, extinguishment, or coolness when the local explanatory purpose is explicit.",
+  "definition": "The consummation-side designation for the quenching of greed, aversion, and delusion.",
+  "notes": "The repository keeps nibbāna untranslated by default because OSF house style, Dhammarato, and Buddhadasa all treat the term as practical and immediate without reducing it to one English noun. Quenching is the preferred gloss when a gloss is needed, and coolness remains a source-backed explanatory alternate where Buddhadasa-style cooling language is the point. In this repository, nibbāna is not just another way to say vimutti: vimutti is release, while nibbāna is the consummation-side designation that release points toward. It also differs from amata, which highlights the deathless aspect; from asaṅkhata, which highlights the unconditioned aspect; and from santi, which highlights peace rather than functioning as the governing headword for the whole consummation interface. Translators should therefore resist flattening nibbāna into generic peace, generic cessation, heaven, bliss, or a decorative use of nirvana-without-policy. OSF editorial authority and the Buddhadasa usage profile explicitly support keeping nibbāna practical, cool, and non-mystified rather than turning it into a vague metaphysical noun.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -29,45 +33,45 @@
       "notes": "Preferred English gloss when one is needed."
     },
     {
-      "context": "In explanatory prose emphasizing the image of a fire going out",
-      "rendering": "extinguishment",
-      "notes": "Use sparingly because it can sound mechanical."
-    },
-    {
-      "context": "In Buddhadasa-style explanatory prose about everyday relief from the fires of grasping",
+      "context": "In Buddhadasa-style explanatory prose about direct cooling of the fires here and now",
       "rendering": "coolness",
       "notes": "Source-backed explanatory alternate, not the house default."
     },
     {
-      "context": "In OSF practical explanation of relief from the fires of grasping here and now",
-      "rendering": "coolness",
-      "notes": "Primary-source-backed explanatory alternate."
+      "context": "In explanatory prose emphasizing the fire-going-out image itself",
+      "rendering": "extinguishment",
+      "notes": "Allowed alternate when the image is explicitly being unpacked."
     },
     {
-      "context": "In source-facing doctrinal prose where narrowing the term would distort it",
+      "context": "In source-facing doctrinal prose where narrowing the term would distort its full range",
       "rendering": "nibbāna",
-      "notes": "Default OSF practice remains to keep the term untranslated."
+      "notes": "Do not replace it with a generic English destination-word by habit."
     }
   ],
   "related_terms": [
     "amata",
     "arahant",
     "asankhata",
-    "asaṅkhata",
     "bodhi",
+    "ditthadhammanibbana",
     "loka",
     "lokiya",
     "lokuttara",
     "nekkhamma",
+    "nibbana-dhatu",
+    "nibbuta",
     "nirodha",
-    "saṃsāra",
+    "parinibbana",
+    "samsara",
+    "santi",
     "sukha",
-    "suññatā",
-    "taṇhā",
-    "upādāna",
+    "sunnata",
+    "tanha",
+    "upadana",
     "upadhi",
     "vimutti",
-    "viraga"
+    "viraga",
+    "yogakkhema"
   ],
   "example_phrases": [
     {
@@ -79,37 +83,48 @@
     {
       "pali": "taṇhakkhayo nibbānaṃ",
       "translation": "the wearing away of ignorant wanting is nibbāna",
-      "notes": "Shows the close connection between nibbāna and quenching of craving.",
+      "notes": "Shows nibbāna in close relation to the culmination sequence without collapsing it into khaya itself.",
       "source": "SN 38.1"
+    },
+    {
+      "pali": "anuttaraṃ yogakkhemaṃ nibbānaṃ",
+      "translation": "nibbāna, the unsurpassed security from the yoke",
+      "notes": "Shows nibbāna receiving a governed imagery-side designation rather than being replaced by it.",
+      "source": "MN 26"
     }
   ],
   "sutta_references": [
-    "Dhp 203"
+    "Dhp 203",
+    "SN 38.1",
+    "MN 26"
   ],
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "translation-sensitive",
+    "liberation",
+    "consummation-interface"
   ],
   "authority_basis": [
     {
-      "source": "Dhammarato quotes draft",
+      "source": "OSF Editorial Authority",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Supports keeping nibbāna practical and non-mystified without forcing a single English noun."
+      "scope": "Supports keeping nibbāna practical, non-mystified, and untranslated by default in source-facing doctrinal prose."
     },
     {
       "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "gloss",
-      "scope": "Supports quenching and coolness as explanatory glosses rather than house-default replacements."
+      "scope": "Supports quenching and coolness as explanatory glosses without displacing the untranslated house default."
     }
   ],
   "translation_policy": {
-    "default_scope": "Keep nibbāna untranslated in source-facing doctrinal prose.",
-    "when_not_to_apply": "Use a gloss only when first-occurrence explanation or explicitly explanatory prose requires it.",
+    "default_scope": "Keep nibbāna untranslated in source-facing doctrinal prose and in central consummation-side formulas unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use a gloss only when first-occurrence explanation or explicitly explanatory prose requires it. Do not substitute generic peace, cessation, liberation, or mystical-nirvana language by habit.",
     "compound_inheritance": "case-by-case",
-    "leave_untranslated_when": "The surrounding passage needs the full doctrinal range rather than a narrowed English equivalent.",
-    "drift_risk": "Prevents flattening nibbāna into enlightenment or another single English doctrinal noun."
+    "leave_untranslated_when": "Leave the term untranslated when the surrounding passage needs the full doctrinal range rather than one narrowed English equivalent.",
+    "drift_risk": "Prevents nibbāna from collapsing into enlightenment, generic peace, heaven, annihilation, or ungoverned English 'nirvana' usage."
   },
   "status": "stable",
-  "version_notes": "Strengthened to keep the untranslated default explicit and to align linked examples with the current taṇhā rule."
+  "version_notes": "Strengthened as the governing consummation-side headword and explicitly distinguished from release, deathless, unconditioned, and peace designations."
 }

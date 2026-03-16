@@ -1,16 +1,40 @@
 {
-  "normalized_term": "saupadisesa-nibbana-dhatu",
   "term": "sa-upādisesa-nibbāna-dhātu",
+  "normalized_term": "saupadisesa-nibbana-dhatu",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "nibbāna element with residue remaining",
+  "literal_meaning": "nibbāna element with remainder",
   "preferred_translation": "nibbāna element with remainder",
-  "definition": "The nibbāna element with residue remaining.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
-  "tags": [
-    "liberation"
+  "alternative_translations": [
+    "element of nibbāna with remainder"
   ],
-  "status": "draft",
+  "discouraged_translations": [
+    "partial nirvana",
+    "imperfect liberation"
+  ],
+  "definition": "The nibbāna element with remainder, governed as part of the nibbāna-dhātu family.",
+  "notes": "Keep this compound tied to the nibbāna element family and avoid value-loaded English that implies imperfection rather than the canonical distinction.",
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "nibbāna element with remainder"
+  "gloss_on_first_occurrence": "nibbāna element with remainder",
+  "related_terms": [
+    "anupadisesa-nibbana-dhatu",
+    "nibbana-dhatu"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sa-upādisesā nibbānadhātu",
+      "translation": "the nibbāna element with remainder",
+      "notes": "Standard consummation-side designation within the twofold nibbāna-element framework.",
+      "source": "Iti 44"
+    }
+  ],
+  "sutta_references": [
+    "Iti 44"
+  ]
 }

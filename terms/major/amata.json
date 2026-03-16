@@ -10,11 +10,14 @@
     "deathlessness"
   ],
   "discouraged_translations": [
-    "immortal"
+    "immortal",
+    "eternal life",
+    "soul",
+    "nibbāna"
   ],
   "untranslated_preferred": false,
-  "definition": "Describing the deathless dimension associated with release and nibbana.",
-  "notes": "The project prefers deathless because it is the most established and least distorting English choice for this term in doctrinal contexts. Immortal is discouraged because it suggests an enduring personal being rather than the quenching-oriented framework of the canon. Buddhadasa Bhikkhu repeatedly stresses amata as spiritual deathlessness realized through the ending of selfing and clinging, not as the survival of a personal essence; the repository records that as a source-backed explanatory emphasis.",
+  "definition": "Deathless language for the consummation side of the path.",
+  "notes": "The project prefers deathless because it is the most established and least distorting English choice in doctrinal contexts. Death-free remains a controlled alternate when the privative structure needs to stay more explicit, and deathlessness is allowed where the text turns the adjective into a descriptive doctrinal noun. Buddhadasa explicitly uses amata as spiritual deathlessness rather than personal immortality, and Dhp 21 supports the practical amatapada formula that keeps this family live in translator-facing work. In this repository, amata is not the same as nibbāna: nibbāna remains the governing consummation-side headword, while amata highlights one facet of that consummation, namely its deathless character. It also differs from asaṅkhata, which highlights the unconditioned character rather than the deathless one. Translators should therefore resist flattening amata into immortality, eternal life, or a soul-like survival claim.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -27,31 +30,38 @@
       "notes": "Acceptable alternate when the English line benefits from directness."
     },
     {
-      "context": "In Buddhadasa-style explanatory prose about nibbana in everyday practice",
+      "context": "When the line turns the descriptor into a doctrinal noun or path-goal expression",
       "rendering": "deathlessness",
-      "notes": "Source-backed alternate when the idiom of spiritual deathlessness is central."
+      "notes": "Allowed alternate when the sentence needs a noun rather than an adjective."
+    },
+    {
+      "context": "In amatapada compounds and related formulas",
+      "rendering": "deathless",
+      "notes": "Keep the deathless family stable rather than substituting nibbāna or unconditioned language."
     }
   ],
   "related_terms": [
-    "appamāda",
+    "appamada",
+    "amatapada",
     "asankhata",
-    "asaṅkhata",
     "bodhi",
-    "nibbāna",
-    "suññatā",
+    "nibbana",
+    "nibbuta",
+    "santi",
+    "sunnata",
     "vimutti"
   ],
   "example_phrases": [
     {
       "pali": "appamādo amatapadaṃ",
-      "translation": "heedfulness is the deathless path",
-      "notes": "Classic practical formula.",
+      "translation": "heedfulness is the path to the deathless",
+      "notes": "Classic practical formula. Keep the deathless logic explicit.",
       "source": "Dhp 21"
     },
     {
       "pali": "amataṃ adhigacchati",
       "translation": "one reaches the deathless",
-      "notes": "Compact doctrinal usage.",
+      "notes": "Compact doctrinal use.",
       "source": "MN 26"
     }
   ],
@@ -61,21 +71,28 @@
   ],
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "consummation-interface"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
-      "source": "Buddhadasa",
+      "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current amata policy."
+      "scope": "Supports treating amata as spiritual deathlessness rather than personal immortality."
+    },
+    {
+      "source": "Dhp 21",
+      "kind": "context-rule",
+      "scope": "Supports the path-to-the-deathless formula in amatapada contexts."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'deathless' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'immortal' or other unrecorded alternates."
+    "default_scope": "Use 'deathless' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'death-free' or 'deathlessness' only when the sentence clearly benefits. Do not flatten amata into immortality, eternal-self language, or generic nibbāna-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the deathless family from collapsing into eternalist, soul-like, or generic consummation language."
   }
 }

@@ -1,16 +1,40 @@
 {
-  "normalized_term": "anupadisesa-nibbana-dhatu",
   "term": "anupādisesa-nibbāna-dhātu",
+  "normalized_term": "anupadisesa-nibbana-dhatu",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "nibbāna element without residue remaining",
+  "literal_meaning": "nibbāna element without remainder",
   "preferred_translation": "nibbāna element without remainder",
-  "definition": "The nibbāna element without residue remaining.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
-  "tags": [
-    "liberation"
+  "alternative_translations": [
+    "element of nibbāna without remainder"
   ],
-  "status": "draft",
+  "discouraged_translations": [
+    "annihilation",
+    "nothingness"
+  ],
+  "definition": "The nibbāna element without remainder, governed as part of the nibbāna-dhātu family.",
+  "notes": "Keep this compound tied to the nibbāna element family and avoid materialist or annihilationist overreading.",
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "nibbāna element without remainder"
+  "gloss_on_first_occurrence": "nibbāna element without remainder",
+  "related_terms": [
+    "nibbana-dhatu",
+    "saupadisesa-nibbana-dhatu"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anupādisesā nibbānadhātu",
+      "translation": "the nibbāna element without remainder",
+      "notes": "Standard consummation-side designation within the twofold nibbāna-element framework.",
+      "source": "Iti 44"
+    }
+  ],
+  "sutta_references": [
+    "Iti 44"
+  ]
 }
