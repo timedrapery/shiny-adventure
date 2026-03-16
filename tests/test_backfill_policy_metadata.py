@@ -27,6 +27,16 @@ class BackfillPolicyMetadataTests(unittest.TestCase):
         self.assertEqual(basis[0]["source"], "OSF glossary")
         self.assertEqual(basis[1]["source"], "Dhammarato")
 
+    def test_infer_authority_basis_detects_hillside_stream(self) -> None:
+        basis = backfill_policy_metadata.infer_authority_basis(
+            {
+                "term": "nimitta",
+                "notes": "Hillside and Ñāṇamoli materials support the anti-objectifying handling here.",
+            }
+        )
+
+        self.assertEqual(basis[0]["source"], "Hillside / Ñāṇamoli")
+
     def test_infer_authority_basis_falls_back_to_repository_record(self) -> None:
         basis = backfill_policy_metadata.infer_authority_basis(
             {"term": "akusala", "notes": "The project prefers unwholesome."}

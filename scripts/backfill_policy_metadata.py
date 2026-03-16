@@ -24,6 +24,10 @@ SOURCE_RULES = (
     ("Dhammarato", "dhammarato", "dhammarato"),
     ("Buddhadasa", "buddhadasa", "buddhadasa"),
     ("Punnaji", "punnaji", "external"),
+    ("Hillside / Ñāṇamoli", "hillside", "external"),
+    ("Hillside / Ñāṇamoli", "nyanamoli", "external"),
+    ("Hillside / Ñāṇamoli", "ñāṇamoli", "external"),
+    ("Hillside / Ñāṇamoli", "path press", "external"),
 )
 
 

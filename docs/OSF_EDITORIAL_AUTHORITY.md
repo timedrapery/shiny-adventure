@@ -24,7 +24,9 @@ When sources disagree, use this order:
    arising, voidness, not-self, natural-law framing, and here-now liberation
    language
 5. Existing repository defaults that do not conflict with the above
-6. Outside sources such as Punnaji and other non-OSF materials
+6. First named external practical checkpoints such as Punnaji and the
+   Hillside / Ñāṇamoli / Path Press stream
+7. Other outside-source materials when needed
 
 ## Primary OSF Authorities
 
@@ -71,8 +73,8 @@ makes an explicit editorial decision.
 Examples:
 
 - Punnaji
-- Dhammarato chanting manual when the issue is broader doctrine rather than
-  liturgical vocabulary
+- Hillside / Ñāṇamoli / Path Press
+- other outside-source profiles when a term needs them
 
 ## Rule For Preferred Translation Changes
 
