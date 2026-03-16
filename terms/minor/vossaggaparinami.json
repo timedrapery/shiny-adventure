@@ -1,13 +1,35 @@
 {
-  "term": "vossaggaparinami",
+  "term": "vossaggapariṇāmi",
   "normalized_term": "vossaggaparinami",
   "entry_type": "minor",
-  "part_of_speech": "noun",
-  "preferred_translation": "maturing in letting go",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
-  "literal_meaning": "maturing in letting go",
+  "part_of_speech": "compound",
+  "literal_meaning": "culminating in relinquishment",
+  "preferred_translation": "culminating in relinquishment",
+  "alternative_translations": [
+    "maturing in relinquishment"
+  ],
+  "discouraged_translations": [
+    "maturing in letting go"
+  ],
+  "definition": "A practice-sequence term naming culmination in relinquishment.",
+  "notes": "This compound should inherit the vossagga headword policy. Keep relinquishment audible by default rather than softening the line into an inspirational slogan.",
+  "related_terms": [
+    "vossagga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vossaggapariṇāmiṃ",
+      "translation": "culminating in relinquishment",
+      "notes": "Standard practice-sequence expression.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "stable"
 }

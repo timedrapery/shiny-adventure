@@ -9,14 +9,16 @@
     "dispassion"
   ],
   "discouraged_translations": [
-    "detachment"
+    "detachment",
+    "abandonment",
+    "cessation"
   ],
   "untranslated_preferred": false,
   "definition": "The fading away of attraction, investment, and heat in relation to conditioned experience.",
-  "notes": "The project prefers fading because it is concrete and process-oriented. Dispassion remains acceptable where the cooling of passion is the emphasis, but detachment is discouraged because it too easily suggests numb distance or social withdrawal. Ven. Dr. M. Punnaji's awakening sequence keeps dispassion prominent, so this entry should be read as compatible with that cooling and de-intensifying emphasis.",
+  "notes": "The project keeps fading as the default because it is concrete and process-oriented. Dispassion remains acceptable where the cooling of passion is the emphasis, but detachment is discouraged because it too easily suggests numb distance or social withdrawal. In this repository, virāga is not just another word for abandoning: pahāna names putting something away, while virāga names the fading or cooling of its charge. It also differs from vossagga, which is relinquishment; from nirodha, which is quenching; and from khaya, which is wearing away or exhaustion. The recurring formula asesavirāganirodha must therefore be heard as two linked but distinct movements, not as a single interchangeable English blur. Ven. Dr. M. Punnaji's awakening sequence keeps dispassion prominent, and SN 12.2 supports the close but non-identical relation between fading and quenching.",
   "context_rules": [
     {
-      "context": "In cessation and release formulas",
+      "context": "In most doctrinal and release formulas",
       "rendering": "fading",
       "notes": "Default project rendering."
     },
@@ -24,20 +26,25 @@
       "context": "In explanatory prose emphasizing cooling or the ending of passion",
       "rendering": "dispassion",
       "notes": "Acceptable alternate when it fits the line better."
+    },
+    {
+      "context": "In formulas where virāga stands immediately beside nirodha",
+      "rendering": "fading",
+      "notes": "Keep the term distinct from the following quenching rather than translating both as one generic ending."
     }
   ],
   "related_terms": [
     "asava",
-    "avijjā",
+    "avijja",
+    "asesa-viraga-nirodha",
+    "khaya",
     "nekkhamma",
-    "nibbāna",
+    "nibbana",
     "nibbida",
-    "nibbidā",
     "nirodha",
     "pahana",
     "raga",
-    "rāga",
-    "taṇhā",
+    "tanha",
     "vossagga",
     "vimutti"
   ],
@@ -45,13 +52,13 @@
     {
       "pali": "asesavirāganirodhā",
       "translation": "through complete fading and quenching",
-      "notes": "Frequently recurring cessation formula.",
+      "notes": "Frequently recurring formula showing virāga and nirodha as linked but distinct.",
       "source": "SN 12.2"
     },
     {
       "pali": "virāgaṃ vimuccati",
       "translation": "through fading one is released",
-      "notes": "Shows the term in close connection with release.",
+      "notes": "Shows virāga in close connection with release while retaining its own process-language.",
       "source": "MN 149"
     }
   ],
@@ -61,21 +68,28 @@
   ],
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "Punnaji",
       "priority": "external",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current virāga policy."
+      "scope": "Supports keeping fading or dispassion language prominent in the release sequence."
+    },
+    {
+      "source": "SN 12.2",
+      "kind": "context-rule",
+      "scope": "Supports the close but non-identical relation between virāga and nirodha in formula contexts."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'fading' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'fading' as the default rendering in the entry's governed doctrinal and release contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'dispassion' only when the explanatory context clearly benefits. Do not collapse virāga into pahāna, nirodha, or khaya.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'detachment' or other unrecorded alternates."
+    "drift_risk": "Prevents fading-language from collapsing into generic abandonment, quenching, cessation, or detachment language."
   }
 }

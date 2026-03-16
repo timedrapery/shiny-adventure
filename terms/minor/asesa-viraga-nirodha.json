@@ -1,0 +1,32 @@
+{
+  "term": "asesavirāganirodha",
+  "normalized_term": "asesa-viraga-nirodha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "complete fading-and-quenching",
+  "preferred_translation": "complete fading and quenching",
+  "definition": "A recurrent formula joining virāga and nirodha while keeping their functions distinct.",
+  "notes": "Use this record when the compound appears as a whole. It should preserve the repository's distinction between virāga as fading and nirodha as quenching rather than compressing both into one generic ending word.",
+  "related_terms": [
+    "nirodha",
+    "viraga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāya tveva asesavirāganirodhā",
+      "translation": "but with the complete fading and quenching of ignorance",
+      "notes": "Shows the paired sequence as one governed formula while keeping the two terms distinct.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "formula",
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

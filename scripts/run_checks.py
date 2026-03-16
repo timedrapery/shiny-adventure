@@ -22,6 +22,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Identity-construction cluster", [sys.executable, "scripts/identity_construction_cluster_report.py", "--strict"]),
     ("Bondage / residue cluster", [sys.executable, "scripts/bondage_residue_cluster_report.py", "--strict"]),
     ("Bondage-imagery cluster", [sys.executable, "scripts/bondage_imagery_cluster_report.py", "--strict"]),
+    ("Abandonment-sequence cluster", [sys.executable, "scripts/abandonment_sequence_cluster_report.py", "--strict"]),
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
 )

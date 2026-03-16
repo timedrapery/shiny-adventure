@@ -1,0 +1,82 @@
+{
+  "term": "vossagga",
+  "normalized_term": "vossagga",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "release, relinquishment",
+  "preferred_translation": "relinquishment",
+  "alternative_translations": [
+    "letting go",
+    "release through letting go"
+  ],
+  "discouraged_translations": [
+    "suppression",
+    "cessation",
+    "abandonment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Relinquishment or release by letting go.",
+  "notes": "The project keeps relinquishment as the default because it fits doctrinal prose cleanly while keeping the practical letting-go force audible. Letting go remains a controlled alternate in direct practice explanation, and release through letting go remains available when English needs the fuller phrase. In this repository, vossagga is not merely the same as abandoning: pahāna names the task of putting something away, while vossagga names relinquishment or release by letting go. It also differs from virāga, which names fading or cooling; from nirodha, which names quenching; and from khaya, which names wearing away or exhaustion. The same policy extends by default into compounds such as vossaggapariṇāmi unless a narrower compound record documents an override. The OSF glossary supports keeping relinquishment distinct from abandoning and quenching, and MN 118 supports vossaggapariṇāmi as a governed practice-sequence term rather than a vague inspirational slogan.",
+  "context_rules": [
+    {
+      "context": "In doctrinal and source-facing contexts",
+      "rendering": "relinquishment",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In direct practice explanation",
+      "rendering": "letting go",
+      "notes": "Allowed alternate when the line is plainly practical."
+    },
+    {
+      "context": "In prose where the release aspect needs to remain explicit",
+      "rendering": "release through letting go",
+      "notes": "Allowed fuller alternate, not the default."
+    }
+  ],
+  "related_terms": [
+    "asava",
+    "khaya",
+    "nirodha",
+    "pahana",
+    "viraga",
+    "vossaggaparinami"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vossaggapariṇāmiṃ",
+      "translation": "culminating in relinquishment",
+      "notes": "Standard practice-sequence expression.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
+  "tags": [
+    "mental-qualities",
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping relinquishment distinct from abandoning and quenching."
+    },
+    {
+      "source": "MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the governed practice-sequence use of vossaggapariṇāmi."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'relinquishment' as the default rendering in the entry's governed doctrinal and practice-sequence contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'letting go' or 'release through letting go' only when the local line clearly benefits. Do not collapse vossagga into mere abandoning, quenching, or final exhaustion.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents relinquishment-language from collapsing into slogans, mere abandonment-language, or the distinct culmination terms nirodha and khaya."
+  }
+}

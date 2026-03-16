@@ -50,6 +50,10 @@ class RunChecksTests(unittest.TestCase):
             [sys.executable, "scripts/bondage_imagery_cluster_report.py", "--strict"],
             [call.args[0] for call in run_mock.call_args_list],
         )
+        self.assertIn(
+            [sys.executable, "scripts/abandonment_sequence_cluster_report.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
         self.assertIn("All checks passed.", output.getvalue())
 
     def test_main_stops_on_first_failure(self) -> None:

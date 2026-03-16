@@ -1,14 +1,30 @@
 {
-  "term": "pahana-sanna",
+  "term": "pahāna-saññā",
   "normalized_term": "pahana-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of abandoning",
-  "definition": "A specific perception cultivated for insight and release.",
-  "status": "reviewed",
   "literal_meaning": "perception of abandoning",
+  "preferred_translation": "perception of abandoning",
+  "definition": "A specific contemplative perception cultivated around abandoning.",
+  "notes": "This compound should inherit the pahāna headword policy. Keep abandoning-language explicit rather than turning the phrase into generic letting-go language.",
+  "related_terms": [
+    "pahana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pahāna-saññā",
+      "translation": "the perception of abandoning",
+      "notes": "Named contemplative perception in the release sequence.",
+      "source": "AN 10.60"
+    }
+  ],
+  "sutta_references": [
+    "AN 10.60"
+  ],
   "tags": [
     "meditative-development",
-    "liberation"
-  ]
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "stable"
 }

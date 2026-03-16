@@ -1,0 +1,95 @@
+{
+  "term": "khaya",
+  "normalized_term": "khaya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "wearing away, exhaustion, destruction",
+  "preferred_translation": "wearing away",
+  "alternative_translations": [
+    "exhaustion",
+    "ending"
+  ],
+  "discouraged_translations": [
+    "cessation",
+    "annihilation",
+    "release"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The wearing away or exhaustion of a conditioned factor, especially in liberation formulas.",
+  "notes": "The project keeps wearing away as the default because it preserves process and culmination together without collapsing khaya into nirodha. Exhaustion remains a controlled alternate when the running-out force is more important than the image of wearing down, and ending is acceptable only in plainer explanatory prose. In this repository, khaya differs from nirodha: nirodha is quenching, whereas khaya is wearing away or exhaustion. It differs from pahāna, which is abandoning; from virāga, which is fading or cooling; and from vossagga, which is relinquishment. The standard formulas āsavānaṃ khayā, āsavakkhaya, and rāgakkhaya should stay coordinated with this headword rather than rotating unpredictably among ending, cessation, destruction, and release language. The OSF glossary supports keeping concrete process-language when it blocks drift, and MN 2 with MN 64 support the major liberation compounds built from khaya.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "wearing away",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing running out or exhaustion",
+      "rendering": "exhaustion",
+      "notes": "Allowed alternate when the depletion aspect is clearer in English."
+    },
+    {
+      "context": "In concise explanatory prose where a simpler phrase is needed",
+      "rendering": "ending",
+      "notes": "Allowed only when the line is plainly explanatory and no confusion with nirodha will result."
+    },
+    {
+      "context": "In compounds such as āsavakkhaya or rāgakkhaya",
+      "rendering": "wearing away",
+      "notes": "Keep the compound family stable unless a formula record documents a narrower override."
+    }
+  ],
+  "related_terms": [
+    "asavanam-khaya",
+    "asavakkhaya",
+    "khaye-nana",
+    "nirodha",
+    "pahana",
+    "viraga",
+    "vossagga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavānaṃ khayā",
+      "translation": "through the wearing away of the outflows",
+      "notes": "Central liberation formula. Keep the khaya family stable here.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "rāgakkhaya",
+      "translation": "the wearing away of passion",
+      "notes": "Shows khaya in another important liberation compound.",
+      "source": "MN 64"
+    }
+  ],
+  "sutta_references": [
+    "MN 2",
+    "MN 64",
+    "MN 70"
+  ],
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports retaining concrete process-language rather than collapsing khaya into generic cessation or release."
+    },
+    {
+      "source": "MN 2",
+      "kind": "context-rule",
+      "scope": "Supports the major liberation formulas āsavānaṃ khayā and āsavakkhaya."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'wearing away' as the default rendering in the entry's governed doctrinal and liberation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'exhaustion' or 'ending' only when the explanatory context clearly needs them. Do not collapse khaya into nirodha, generic cessation, or generic release language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents collapse between exhaustion-language, quenching-language, abandonment-language, and generic liberation wording."
+  }
+}
