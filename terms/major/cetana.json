@@ -3,17 +3,19 @@
   "normalized_term": "cetana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "intending, willing",
+  "literal_meaning": "intending, directing",
   "preferred_translation": "intention",
   "alternative_translations": [
     "volition"
   ],
   "discouraged_translations": [
-    "willpower"
+    "willpower",
+    "desire",
+    "free will"
   ],
   "untranslated_preferred": false,
-  "definition": "The intending or volitional aspect of mind that directs action.",
-  "notes": "The project prefers intention because it is the clearest default in contemporary English and works well across ethical and dependent-arising contexts. Volition remains acceptable in analytical prose, but it can sound more abstract than the project generally prefers. The OSF glossary confirms intention as the house default and preserves volition as a technical alternate.",
+  "definition": "The intending or directing factor that shapes action and helps organize mental activity.",
+  "notes": "The project keeps intention as the default because it is the clearest contemporary English for the term across ethical, mental-factor, and nutriment contexts. Volition remains a controlled alternate in analytical prose, but it can sound more abstract than the project generally prefers. In this repository, cetanā is not generic desire, not mere preference, and not metaphysical will. It names the directing or intending factor that is central to action without overstating the term into a theory of a sovereign self. Cetanā must stay distinct from phassa, which is contact; from vedanā, which is felt experience; from saññā, which is recognition; and from viññāṇa, which is knowing. The OSF glossary supports intention as the house default, and AN 6.63 supports the foundational relation between intention and action.",
   "context_rules": [
     {
       "context": "In most ethical and psychological contexts",
@@ -24,6 +26,11 @@
       "context": "In technical analytical prose about mental factors",
       "rendering": "volition",
       "notes": "Acceptable when the terminology needs to stay more formal."
+    },
+    {
+      "context": "In compounds such as manosañcetanāhāra",
+      "rendering": "intention",
+      "notes": "Keep the family aligned with the headword unless a narrower compound rule overrides it."
     }
   ],
   "related_terms": [
@@ -31,7 +38,11 @@
     "kamma",
     "kusala",
     "manosancetana-ahara",
-    "saṅkhārā"
+    "phassa",
+    "sankhara",
+    "sanna",
+    "vedana",
+    "vinnana"
   ],
   "example_phrases": [
     {
@@ -41,32 +52,40 @@
       "source": "AN 6.63"
     },
     {
-      "pali": "cetanā",
-      "translation": "intention",
-      "notes": "Headword form often stands clearly on its own in analytical lists.",
-      "source": "AN 6.63"
+      "pali": "manosañcetanā tatiyā",
+      "translation": "mental intention is the third",
+      "notes": "Shows the term in the nutriment framework.",
+      "source": "SN 12.11"
     }
   ],
   "sutta_references": [
-    "AN 6.63"
+    "AN 6.63",
+    "SN 12.11"
   ],
   "tags": [
     "core-doctrine",
-    "mental-qualities"
+    "mental-qualities",
+    "dependent-origination",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping intention as the house default across ethical and mental-factor analysis, with volition retained as a technical alternate."
+      "scope": "Supports keeping intention as the house default across ethical and mental-factor analysis, with volition retained as a controlled alternate."
+    },
+    {
+      "source": "AN 6.63",
+      "kind": "context-rule",
+      "scope": "Supports the foundational ethical use linking cetanā and kamma."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'intention' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'willpower' or other unrecorded alternates."
+    "default_scope": "Use 'intention' as the default rendering in the entry's governed ethical, doctrinal, and analytical contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'volition' only when the line clearly benefits from a more formal analytical register. Do not collapse cetanā into desire, willpower, or metaphysical free-will language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents cetanā from drifting into vague everyday intention-language, desire-language, or overstated agency-language."
   }
 }

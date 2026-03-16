@@ -3,17 +3,18 @@
   "normalized_term": "manosancetana-ahara",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "mental intention nutriment",
+  "literal_meaning": "mental-intention nutriment",
   "preferred_translation": "mental-intention nutriment",
   "alternative_translations": [
     "nutriment of mental intention"
   ],
   "discouraged_translations": [
-    "willpower"
+    "willpower",
+    "desire nutriment"
   ],
   "untranslated_preferred": false,
-  "definition": "Mental intention as a nutriment that helps sustain continued becoming and experience.",
-  "notes": "The project prefers mental-intention nutriment because it preserves both the psychological and doctrinal force of the term. Nutriment of mental intention is acceptable in prose where a less compressed phrase is useful. The OSF glossary supports this by treating manosañcetanāhāra as a distinct nutriment within the fourfold causal analysis.",
+  "definition": "Mental intention considered as a nutriment that helps sustain continued becoming and experience.",
+  "notes": "The project prefers mental-intention nutriment because it preserves both the psychological and doctrinal force of the term. Nutriment of mental intention is acceptable in prose where a less compressed phrase is useful. In this repository, manosañcetanāhāra should stay aligned with cetanā as intention rather than drifting into desire-language or willpower-language. The compound should inherit the cetanā headword policy unless a narrower record explicitly overrides it. The OSF glossary supports this by treating manosañcetanāhāra as a distinct nutriment within the fourfold causal analysis, and SN 12.11 supports its place in the nutriment framework.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
@@ -28,9 +29,7 @@
   ],
   "related_terms": [
     "ahara",
-    "āhāra",
     "cetana",
-    "cetanā",
     "kamma",
     "mano"
   ],
@@ -47,21 +46,27 @@
   ],
   "tags": [
     "core-doctrine",
-    "dependent-origination"
+    "dependent-origination",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current manosañcetanāhāra policy."
+      "scope": "Supports keeping the compound aligned with cetanā as intention rather than desire or willpower."
+    },
+    {
+      "source": "SN 12.11",
+      "kind": "context-rule",
+      "scope": "Supports the term in the four-nutriments framework."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'mental-intention nutriment' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'willpower' or other unrecorded alternates."
+    "when_not_to_apply": "Use the expanded alternate only when English flow clearly benefits. Do not collapse the compound into willpower-language or desire-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents cetanā-family compounds from drifting into vague will or desire language."
   }
 }

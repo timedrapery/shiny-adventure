@@ -3,81 +3,84 @@
   "normalized_term": "phassa",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "touch",
+  "literal_meaning": "touch, contact",
   "preferred_translation": "contact",
   "alternative_translations": [
     "touch"
   ],
   "discouraged_translations": [
-    "sensation"
+    "sensation",
+    "touching",
+    "encounter"
   ],
   "untranslated_preferred": false,
-  "definition": "Contact between field, object, and knowing, giving rise to felt experience.",
-  "notes": "The project prefers contact because it is both readable and precise enough for dependent-origination and sense-field analysis. Sensation is discouraged because it collapses phassa into what follows from it rather than the contact event itself. The term should be heard as an event of conjunction within the sense process, not as the feeling that comes after it. The OSF glossary's treatment of contact and feeling-sequence language supports keeping phassa distinct from vedanā in translation.",
+  "definition": "The contact event in which sense field, object, and corresponding knowing meet, conditioning felt experience.",
+  "notes": "The project keeps contact as the default because it is readable and precise enough for dependent-arising, sense-field, and experience-analysis contexts. Phassa should be heard as a conditioned event in the sense process, not as a vague encounter, not as mere physical touch, and not as the felt experience that follows from it. Touch remains a controlled alternate only when tightly literal explanatory prose needs the tactile image, but it must not become the unmarked default because phassa is broader than bodily touch. In this repository, phassa must stay distinct from vedanā, which is felt experience; from saññā, which is recognition; from cetanā, which is intention; and from viññāṇa, which is knowing. The OSF glossary supports keeping phassa as the event-term and preventing collapse into sensation-language, while MN 148 supports the conjunctive sense-process analysis directly.",
   "context_rules": [
     {
-      "context": "In most doctrinal and dependent-origination contexts",
+      "context": "In most doctrinal and dependent-arising contexts",
       "rendering": "contact",
       "notes": "Default project rendering."
     },
     {
-      "context": "In tightly literal explanatory prose",
-      "rendering": "touch",
-      "notes": "Use sparingly when the tactile metaphor matters."
+      "context": "In sense-process analysis where the conjunction-event must stay explicit",
+      "rendering": "contact",
+      "notes": "Keep the event-character clear rather than drifting into vague encounter language."
     },
     {
-      "context": "When the passage is analyzing the sense-event that gives rise to feeling",
-      "rendering": "contact",
-      "notes": "Keep the technical event-character explicit."
+      "context": "In tightly literal explanatory prose where the tactile metaphor matters",
+      "rendering": "touch",
+      "notes": "Use sparingly; do not let the bodily-touch image replace the broader event-term."
     }
   ],
   "related_terms": [
     "cakkhu",
     "cakkhu-vinnana",
+    "cetana",
     "gandha",
     "ghana",
-    "ghāna",
     "ghana-vinnana",
     "jivha",
-    "jivhā",
     "jivha-vinnana",
     "kaya-vinnana",
     "mano-vinnana",
-    "nāmarūpa",
-    "paṭiccasamuppāda",
+    "namarupa",
+    "paticcasamuppada",
     "phassa-ahara",
+    "phassapaccaya-vedana",
     "photthabba",
-    "phoṭṭhabba",
     "rasa",
+    "salayatana",
     "sadda",
-    "saḷāyatana",
     "sota",
     "sota-vinnana",
-    "vedanā",
-    "viññāṇa"
+    "vedana",
+    "vinnana"
   ],
   "example_phrases": [
     {
       "pali": "phassapaccayā vedanā",
-      "translation": "with contact as condition, feeling",
-      "notes": "Key dependent-origination link.",
+      "translation": "with contact as condition, felt experience",
+      "notes": "Key dependent-arising link. Keep contact distinct from what follows from it.",
       "source": "SN 12.2"
     },
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ ... phasso",
       "translation": "dependent on eye and forms, eye-knowing arises ... contact",
-      "notes": "Shows phassa as event arising from conjunction.",
+      "notes": "Shows phassa as the conjunction-event in the sense process.",
       "source": "MN 148"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "SN 35.93",
     "MN 148"
   ],
   "tags": [
     "core-doctrine",
-    "dependent-origination"
+    "dependent-origination",
+    "sense-fields",
+    "translation-sensitive",
+    "context-sensitive"
   ],
   "status": "stable",
   "authority_basis": [
@@ -85,13 +88,18 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports preserving contact as the event-term and preventing collapse into sensation language."
+      "scope": "Supports preserving contact as the event-term and preventing collapse into sensation-language."
+    },
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports phassa as the conjunction-event in sense-process analysis."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'contact' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'contact' as the default rendering in the entry's governed doctrinal, sense-process, and dependent-arising contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'touch' only when tightly literal explanatory prose clearly needs the tactile metaphor. Do not collapse phassa into sensation, bodily touch alone, or vague encounter-language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'sensation' or other unrecorded alternates."
+    "drift_risk": "Prevents phassa from collapsing into bodily-touch language, vague contact-language, or the vedanā that follows from it."
   }
 }

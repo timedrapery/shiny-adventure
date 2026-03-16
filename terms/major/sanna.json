@@ -3,17 +3,19 @@
   "normalized_term": "sanna",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "marking, recognition",
+  "literal_meaning": "marking, recognizing",
   "preferred_translation": "recognition",
   "alternative_translations": [
     "perception"
   ],
   "discouraged_translations": [
-    "concept"
+    "concept",
+    "thought",
+    "memory"
   ],
   "untranslated_preferred": false,
-  "definition": "The recognizing and marking function by which experience is identified and categorized, especially as one of the five heaps.",
-  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar five-heap discussions, but it can sound too passive if used as the only rendering. In the five-heaps family, saññā should be heard as the marking and identifying heap that works alongside vedanā, saṅkhārā, and viññāṇa without collapsing into any of them. Translators should therefore keep recognition as the default in direct heap analysis, use perception only as a controlled alternate for reader orientation, and avoid concept because it makes the term too abstract and over-intellectual. The OSF glossary establishes recognition as the house default for this heap, and SN 22.59 supports keeping that same wording in the standard formulas.",
+  "definition": "The recognizing and marking function by which experience is identified and picked out.",
+  "notes": "The project keeps recognition as the default because it highlights the active identifying function of saññā more clearly than the flatter English word perception. Perception remains a controlled alternate in familiar aggregate discussions, but it must not become the unmarked default everywhere. In this repository, saññā is not discursive thought, not concept in the abstract, and not memory as such. It names the marking and identifying function that works alongside vedanā, cetanā, and viññāṇa without collapsing into any of them. Translators should therefore keep recognition as the default in direct analytical and heap contexts, use perception only for controlled orientation, and avoid over-intellectual renderings that make saññā sound like conceptual theorizing. The OSF glossary establishes recognition as the house default, and SN 22.59 supports keeping that same wording in canonical formulas.",
   "context_rules": [
     {
       "context": "In most analytical and doctrinal contexts",
@@ -28,18 +30,19 @@
     {
       "context": "In explanatory prose engaging familiar aggregate terminology",
       "rendering": "perception",
-      "notes": "Acceptable when reader orientation matters."
+      "notes": "Acceptable when reader orientation matters and no conceptual drift results."
     }
   ],
   "related_terms": [
     "anatta",
     "asanna",
     "ayatana",
+    "cetana",
     "khandha",
     "pancakkhandha",
     "pancupadanakkhandha",
-    "sannakkhandha",
     "salayatana",
+    "sannakkhandha",
     "vedana",
     "vinnana",
     "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
@@ -60,7 +63,7 @@
     {
       "pali": "aniccasaññā",
       "translation": "recognition of impermanence",
-      "notes": "Useful for meditative-development contexts without overriding the heap default.",
+      "notes": "Useful meditative-development context without overriding the default.",
       "source": "AN 10.60"
     }
   ],
@@ -72,7 +75,8 @@
   "tags": [
     "core-doctrine",
     "aggregates",
-    "translation-sensitive"
+    "translation-sensitive",
+    "context-sensitive"
   ],
   "status": "stable",
   "authority_basis": [
@@ -80,7 +84,7 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping recognition as the default rendering that preserves the active identifying function, with perception tolerated in familiar aggregate contexts."
+      "scope": "Supports keeping recognition as the default rendering that preserves the active identifying function."
     },
     {
       "source": "SN 22.59",
@@ -89,9 +93,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'recognition' as the default rendering in direct heap analysis and related doctrinal contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not let perception become the unstated default across the family, and do not blur saññā into viññāṇa or concept-language.",
+    "default_scope": "Use 'recognition' as the default rendering in direct analytical, heap, and related doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not let perception become the unstated default across the family, and do not blur saññā into thought, concept-language, or memory-language.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift toward passive perception language or over-intellectual concept language in the five-heaps family."
+    "drift_risk": "Prevents saññā from drifting toward passive perception language, discursive-thought language, or over-intellectual concept language."
   }
 }

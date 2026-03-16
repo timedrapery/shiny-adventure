@@ -43,6 +43,8 @@ All CLI scripts support `--help`.
   Audits the craving / appropriation / affective-attachment cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/kama_cluster_report.py`
   Audits the kāma / sensuality cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
+- `python scripts/experience_process_cluster_report.py`
+  Audits the phassa / vedanā / saññā / cetanā / viññāṇa cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/policy_backfill_queue.py`
   Ranks major terms that should be prioritized for metadata backfill.
 

@@ -6,7 +6,7 @@
   "literal_meaning": "with phassa as condition, vedanā",
   "preferred_translation": "with contact as condition, felt experience",
   "definition": "Forward-link line connecting phassa and vedanā.",
-  "notes": "Use this record for the full line. It governs a key pivot in the chain and keeps phassa distinct from vedanā while preserving the repository's house default for vedanā. The OSF glossary supports this controlled distinction between contact and felt experience in the formula line.",
+  "notes": "Use this record for the full line. It governs a key pivot in the chain and keeps phassa distinct from vedanā while preserving the repository's house default for vedanā. The OSF glossary supports this controlled distinction between contact and felt experience in the formula line. Do not flatten the line into vague sensation-language or emotional language.",
   "context_rules": [
     {
       "context": "In standard chain translation",
@@ -21,14 +21,15 @@
   ],
   "related_terms": [
     "paccaya",
-    "paṭiccasamuppāda",
+    "paticcasamuppada",
     "phassa",
-    "vedanā"
+    "vedana"
   ],
   "example_phrases": [
     {
       "pali": "phassapaccayā vedanā",
       "translation": "with contact as condition, felt experience",
+      "notes": "Keep the pivot stable and keep phassa distinct from vedanā.",
       "source": "SN 12.2"
     }
   ],
@@ -41,7 +42,7 @@
     "causality",
     "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -52,7 +53,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use as the standard line linking phassa and vedanā in the forward chain.",
-    "when_not_to_apply": "Do not blur phassa into sensation or vedanā into emotion in this formula slot.",
+    "when_not_to_apply": "Do not blur phassa into sensation, physical touch alone, or vague contact-language, and do not blur vedanā into emotion in this formula slot.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents collapse of the contact-to-vedanā pivot."
   }
