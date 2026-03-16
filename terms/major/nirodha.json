@@ -19,7 +19,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. Dhammarato-facing and rough OSF glossary materials do use stopping, ceasing, ending, and cessation language for nirodha, and those are valuable explanatory surfaces. But the matured repository default remains quenching because it preserves the doctrinal distinction from khaya and keeps the fire-stopping side audible. Buddhadasa strongly supports quenching, stopping, and cooling imagery, while What Is And Is Not The Path supports immediate practical ending-language in dukkha-nirodha explanation. Punnaji's practical materials add discontinuity as a controlled pedagogical alternate in certain meditative explanations, but not as a reason to displace the house default. The repository therefore tolerates cessation and ending as controlled OSF-facing alternates in named explanatory frames, but explicitly refuses drift back to loose generic cessation as the ungoverned default across linked `-nirodha` compounds and formulas. In this repository, nirodha must stay distinct from khaya as wearing away, from pahāna as abandoning, and from virāga as fading.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. Dhammarato-facing and rough OSF glossary materials do use stopping, ceasing, ending, and cessation language for nirodha, and those are valuable explanatory surfaces. But the matured repository default remains quenching because it preserves the doctrinal distinction from khaya and keeps the fire-stopping side audible. Buddhadasa strongly supports quenching, stopping, and cooling imagery, while What Is And Is Not The Path supports immediate practical ending-language in dukkha-nirodha explanation. Punnaji's practical materials add discontinuity as a controlled pedagogical alternate in certain meditative explanations, but not as a reason to displace the house default. The repository therefore tolerates cessation and ending as controlled OSF-facing alternates in named explanatory frames, but explicitly refuses drift back to loose generic cessation as the ungoverned default across linked -nirodha compounds and formulas. In this repository, nirodha must stay distinct from khaya as wearing away, from pahāna as abandoning, and from virāga as fading. In OSF practice language, congratulating oneself for having just quenched dukkha is an allowed practical explanation of this truth, provided the note keeps the event concrete and immediate rather than turning nirodha into self-congratulation rhetoric detached from actual quenching.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -57,9 +57,14 @@
       "notes": "Compounds should inherit the headword default unless they document a more specific reason to differ."
     },
     {
-      "context": "In formula lines of the form imassa nirodhā idaṃ nirujjhati",
+      "context": "In formula lines of the form imassa nirodhā idaṁ nirujjhati",
       "rendering": "quenching",
       "notes": "Keep the quenching side audible unless a local doctrinal frame explicitly requires a controlled alternate."
+    },
+    {
+      "context": "In OSF practical instruction where one notices and appreciates that dukkha has just been quenched",
+      "rendering": "quenching",
+      "notes": "Allowed practice-facing explanation when the line is about immediate relief and not about abstract cessation-theory."
     }
   ],
   "related_terms": [
@@ -93,7 +98,7 @@
       "source": "SN 56.11"
     },
     {
-      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "pali": "imassa nirodhā idaṁ nirujjhati",
       "translation": "with the quenching of this, this ceases",
       "notes": "Canonical formula for the quenching side of conditionality.",
       "source": "SN 12.61"
@@ -136,5 +141,5 @@
     "drift_risk": "Prevents rough OSF cessation-shorthand from erasing the repo's quenching default or collapsing nirodha into khaya, annihilation, or generic ending-language."
   },
   "status": "stable",
-  "version_notes": "Strengthened in the OSF reconciliation pass to classify OSF cessation-language as tolerated explanatory alternate while preserving quenching as the house default."
+  "version_notes": "Strengthened in the OSF reconciliation pass to classify OSF cessation-language as tolerated explanatory alternate while preserving quenching as the house default, then extended again in the correct noble practice pass to allow immediate OSF practice explanation without changing the default."
 }
