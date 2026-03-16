@@ -71,6 +71,18 @@ class KnowledgePolicyTests(unittest.TestCase):
         self.assertEqual(vimutti_nanadassana["preferred_translation"], "knowing and seeing of release")
         self.assertIn("mystical experience", vimutti_nanadassana["discouraged_translations"])
 
+    def test_cluster_integrates_hillside_checkpoint_without_changing_defaults(self) -> None:
+        nana = load_term("terms/major/nana.json")
+        sampajanna = load_term("terms/major/sampajanna.json")
+
+        nana_sources = {item["source"] for item in nana["authority_basis"]}
+        sampajanna_sources = {item["source"] for item in sampajanna["authority_basis"]}
+
+        self.assertEqual(nana["preferred_translation"], "knowledge")
+        self.assertEqual(sampajanna["preferred_translation"], "clear knowing")
+        self.assertIn("Hillside / Ñāṇamoli usage profile", nana_sources)
+        self.assertIn("Hillside / Ñāṇamoli usage profile", sampajanna_sources)
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Full understanding or complete penetration, especially where a doctrinal task has to be fully understood rather than merely known in passing.",
-  "notes": "The project prefers full understanding because it preserves the completed, task-like force of the term without sounding scholastic. Complete understanding and full comprehension remain acceptable where the sentence benefits from them. In this repository, pariññā is not just another way to say paññā: paññā is discernment as a cultivated capacity, while pariññā is the full understanding or complete penetration of what must be understood. It also differs from ñāṇa, which is broader knowing, and from ordinary understanding-language, which is too weak for the canonical task force of the term. The OSF glossary supports understanding-language here without requiring the repo to weaken the completed force. Punnaji's practical materials pair pariññā with abhiññā and paññā in awakening explanation, and the repository preserves that contrast rather than flattening all three into insight or wisdom.",
+  "notes": "The project prefers full understanding because it preserves the completed, task-like force of the term without sounding scholastic. Complete understanding and full comprehension remain acceptable where the sentence benefits from them. In this repository, pariññā is not just another way to say paññā: paññā is discernment as a cultivated capacity, while pariññā is the full understanding or complete penetration of what must be understood. It also differs from ñāṇa, which is broader knowing, and from ordinary understanding-language, which is too weak for the canonical task force of the term. The OSF glossary supports understanding-language here without requiring the repo to weaken the completed force. Punnaji's practical materials pair pariññā with abhiññā and paññā in awakening explanation, and the repository preserves that contrast rather than flattening all three into insight or wisdom. Hillside / Ñāṇamoli materials reinforce the same discipline from the side of endurance and structural clarification: what must be understood has to be comprehended fully, not merely named or conceptually appreciated.",
   "context_rules": [
     {
       "context": "In most doctrinal and task-language contexts",
@@ -77,6 +77,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Supports pairing pariññā with practical awakening explanation while keeping it distinct from generic understanding."
+    },
+    {
+      "source": "Hillside / Ñāṇamoli usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports preserving the completed and structurally clarifying force of pariññā rather than weakening it into casual understanding."
     }
   ],
   "translation_policy": {
