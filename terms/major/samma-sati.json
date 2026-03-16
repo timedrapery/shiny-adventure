@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of remembering rightly, keeping what matters in mind in a way aligned with the path.",
-  "notes": "OSF house style now prefers right remembering based on the Dhammarato quotes draft, where the factor is explicitly framed in remembering language rather than as mindfulness. Right sati remains available in more source-facing technical contexts, while right noble remembering is retained for quote-book and header-style usage. The OSF publication What Is And Is Not The Path further reinforces the factor as a daily-life capacity to keep the mind properly oriented while the other path factors do their work.",
+  "notes": "OSF house style now prefers right remembering based on the Dhammarato quotes draft, where the factor is explicitly framed in remembering language rather than as mindfulness. Right sati remains available in more source-facing technical contexts, while right noble remembering is retained for quote-book and header-style usage. The OSF publication What Is And Is Not The Path further reinforces the factor as a daily-life capacity to keep the mind properly oriented while the other path factors do their work. In OSF practice explanation, right remembering is one of the core factors that runs circles around the path with right view and right effort: it keeps the practice alive, returns the mind to what matters, and allows the same correct noble practice to recur again and again.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
@@ -36,6 +36,11 @@
       "context": "In OSF practical prose linking effort, remembering, and samadhi in daily life",
       "rendering": "right remembering",
       "notes": "Prefer the plain form when the emphasis is workable practice rather than formal path recitation."
+    },
+    {
+      "context": "In OSF practice explanation where right view, right remembering, and right effort are described as mutually reinforcing live functions",
+      "rendering": "right remembering",
+      "notes": "Keep the default and allow notes to explain that this factor keeps the cycle going rather than sitting as a static list item."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
