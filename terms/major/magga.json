@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path of practice, especially the path leading to the quenching of dissatisfaction.",
-  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default. The OSF publication What Is And Is Not The Path strongly reinforces magga as a practical system that functions in daily life and leads directly to the ending of dissatisfaction.",
+  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default. The OSF publication What Is And Is Not The Path strongly reinforces magga as a practical system that functions in daily life and leads directly to the ending of dissatisfaction. In OSF practice-facing explanation, making a wholesome change is a legitimate concise description of the path-side move, as long as translators keep the line tied to wholesome practice, right view, and repeated correction rather than reducing magga to generic self-improvement.",
   "context_rules": [
     {
       "context": "In doctrinal contexts referring to the noble path or a defined course of practice",
@@ -34,6 +34,11 @@
       "context": "In OSF publication prose stressing an immediately workable course of practice",
       "rendering": "path",
       "notes": "Prefer the plain doctrinal form while letting the notes carry the practical emphasis."
+    },
+    {
+      "context": "In OSF practical instruction describing the immediate path-side move of changing what is unwholesome",
+      "rendering": "path",
+      "notes": "Keep the doctrinal term stable while allowing explanation such as making a wholesome change."
     }
   ],
   "related_terms": [

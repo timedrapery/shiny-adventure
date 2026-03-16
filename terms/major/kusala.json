@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing qualities, actions, or states that are ethically healthy and conducive to clarity and liberation.",
-  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation. The term should be heard broadly across conduct, mind, and view, and not collapsed into merely socially approved behavior. The OSF glossary confirms wholesome as the house default and preserves skillful and beneficial as context-sensitive alternates.",
+  "notes": "The project prefers wholesome because it covers ethical and mental health dimensions without reducing the term to generic moral approval. Skillful can still work when the context emphasizes practice and cultivation. The term should be heard broadly across conduct, mind, and view, and not collapsed into merely socially approved behavior. The OSF glossary confirms wholesome as the house default and preserves skillful and beneficial as context-sensitive alternates. In OSF practice language, make a wholesome change is a valuable concise instruction because it keeps the path practical and immediate. The repository allows that explanation, but it should still point toward kusala as an ethically and mentally healthy shift rather than mere mood-management.",
   "context_rules": [
     {
       "context": "In general ethical and doctrinal contexts",
@@ -35,6 +35,11 @@
       "context": "When the passage is classifying roots, actions, or qualities as part of doctrinal analysis",
       "rendering": "wholesome",
       "notes": "Preserve the ethical-psychological classification rather than reducing the term to pragmatic usefulness."
+    },
+    {
+      "context": "In OSF practical instruction where the immediate task is to shift from unwholesome to wholesome",
+      "rendering": "wholesome",
+      "notes": "Preferred in concise coaching language such as make a wholesome change."
     }
   ],
   "related_terms": [
