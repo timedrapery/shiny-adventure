@@ -10,71 +10,93 @@
     "direct knowledge"
   ],
   "discouraged_translations": [
-    "gnosis"
+    "insight",
+    "gnosis",
+    "cognition"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowledge or direct knowing, especially when experience is understood clearly and correctly.",
-  "notes": "The repository keeps knowledge as the default because it is broad, contemporary, and usable across compounds. Knowing remains acceptable when the processual side should stay audible, and direct knowledge works when the line is about immediacy rather than information. This entry should not silently import later technical taxonomies unless the compound or context clearly requires them. The OSF glossary also treats ñāṇa as knowledge or direct knowing, which supports this policy choice.",
+  "definition": "Knowing or knowledge, especially when something is directly known rather than merely held as a view.",
+  "notes": "The project now prefers knowledge because it distinguishes ñāṇa more cleanly from the already-stabilized viññāṇa -> knowing policy while still staying readable and contemporary. Knowing remains acceptable when the active process must stay audible, and direct knowledge remains acceptable where immediacy matters more than the bare noun. In this repository, ñāṇa is not the same as paññā: paññā is discernment as a cultivated capacity, while ñāṇa is knowledge or knowing that can arise as a result, recognition, or doctrinally marked mode of knowing. It also differs from vijjā, which the repository treats as clearer liberating knowledge rather than the broader knowledge-family term; from dassana, which names the seeing side; and from diṭṭhi, which is view rather than knowledge. OSF house materials support knowledge-language here, while Punnaji's practical materials often frame awakening sequences in terms of insight, apperception, and full comprehension; the repository keeps those as related explanatory pressures without letting them flatten ñāṇa into generic insight.",
   "context_rules": [
     {
-      "context": "In most doctrinal and compound contexts",
+      "context": "In most doctrinal and compound contexts where the active or result-side knowing should stay audible",
       "rendering": "knowledge",
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing the active process of cognizing",
+      "context": "In prose where a settled noun reads better than the more active English verbal noun",
       "rendering": "knowing",
-      "notes": "Allowed alternate when the line benefits from motion."
+      "notes": "Acceptable alternate when the sentence genuinely needs more movement."
     },
     {
-      "context": "When the passage emphasizes immediacy or realization rather than stored information",
+      "context": "In formulae or explanatory prose emphasizing immediacy rather than accumulated information",
       "rendering": "direct knowledge",
-      "notes": "Use selectively in compounds or explanatory prose."
+      "notes": "Use selectively when the local line explicitly benefits from it."
+    },
+    {
+      "context": "In compounds such as khaye-ñāṇa where idiomatic English strongly favors a noun phrase",
+      "rendering": "knowledge",
+      "notes": "Allow the compound record to keep smoother English where needed."
     }
   ],
   "related_terms": [
-    "avijjā",
+    "abhinna",
+    "avijja",
     "bodhi",
-    "paññā",
+    "dassana",
+    "nanadassana",
+    "panna",
+    "parinna",
+    "sampajanna",
     "vipassana-nana",
+    "vijja",
+    "vimutti-nanadassana",
     "yathabhuta-nanadassana"
   ],
   "example_phrases": [
     {
       "pali": "ñāṇadassana",
-      "translation": "knowledge and seeing",
-      "notes": "Important compound family built from ñāṇa.",
+      "translation": "knowing and seeing",
+      "notes": "Important family expression joining the knowing and seeing sides without collapsing them.",
       "source": "MN 26"
     },
     {
       "pali": "khaye ñāṇaṃ",
       "translation": "knowledge of wearing away",
-      "notes": "Shows the term in compound doctrinal use.",
+      "notes": "Shows why compound-level overrides may still use the noun form smoothly.",
       "source": "SN 12.23"
     }
   ],
   "sutta_references": [
-    "SN 12.23",
-    "MN 26"
+    "MN 26",
+    "SN 12.23"
   ],
   "tags": [
     "core-doctrine",
     "core-practice",
-    "translation-sensitive"
+    "translation-sensitive",
+    "knowledge-cluster"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports broad knowledge or direct-knowing language without forcing a scholastic technical register."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current ñāṇa policy."
+      "scope": "Supports a practical process/result handling of knowing-language within awakening pedagogy without making insight the uncontrolled default."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'knowledge' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'gnosis' or other unrecorded alternates."
-  }
+    "when_not_to_apply": "Use 'knowing' or 'direct knowledge' only when a recorded context rule or compound-level need justifies the shift. Do not flatten ñāṇa into generic insight, mystical gnosis, or academic cognition-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents ñāṇa from collapsing into generic insight, occultized gnosis, or merely informational knowledge while keeping the broader knowing-family usable across compounds."
+  },
+  "version_notes": "Strengthened in the knowledge / seeing / understanding pass to distinguish ñāṇa from paññā, vijjā, dassana, and diṭṭhi."
 }

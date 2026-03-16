@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Clear knowing that accompanies practice, especially in embodied and moment-to-moment awareness.",
-  "notes": "The project prefers clear knowing because it preserves the cognitive clarity of the term without collapsing it into sati. Full awareness is an acceptable alternate in explanatory prose, but mindfulness should be avoided here because the project already treats sati separately and more carefully. The OSF glossary confirms clear knowing as the house default and preserves full awareness as the explanatory alternate.",
+  "notes": "The project prefers clear knowing because it preserves the cognitive clarity of the term without collapsing it into sati. Full awareness is an acceptable alternate in explanatory prose, but mindfulness should be avoided here because the project already treats sati separately and more carefully. In this repository, sampajañña must also stay distinct from ñāṇa and vijjā: those belong to the broader knowing and liberating-knowledge cluster, while sampajañña is the practice-side clear knowing that accompanies remembering and embodied conduct. It also differs from paññā, which is discernment as a cultivated capacity rather than the immediate companion clarity of practice. The OSF glossary confirms clear knowing as the house default and preserves full awareness as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In practical and source-facing contexts where the term names a companion quality of sati",
@@ -31,9 +31,12 @@
     "kāya",
     "kayagata-sati",
     "kāyagatā sati",
+    "nana",
+    "panna",
     "sati",
     "satipatthana",
-    "satipaṭṭhāna"
+    "satipaṭṭhāna",
+    "vijja"
   ],
   "example_phrases": [
     {
@@ -70,6 +73,6 @@
     "default_scope": "Use 'clear knowing' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'mindfulness' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'mindfulness' or other unrecorded alternates and keeps sampajañña distinct from sati, ñāṇa, paññā, and vijjā."
   }
 }

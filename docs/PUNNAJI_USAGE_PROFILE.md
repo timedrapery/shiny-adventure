@@ -27,3 +27,21 @@ first step is:
 2. mention the source profile in `notes`
 3. keep the current `preferred_translation` unless the repo has made an
    explicit decision to adopt the Punnaji rendering as house style
+
+## Recurring Practical Tendencies
+
+- `sati` and `satipaṭṭhāna` are often explained through introspection,
+  introversion of attention, or looking within.
+- `sampajañña` is often explained as observing or being introspective about the
+  experience going on within.
+- `paññā` is often explained through practical introspective insight.
+- `abhiññā` may be explained pedagogically as apperception or heightened
+  introspective knowing.
+- `pariññā` may be explained as full comprehension.
+- `vijjā` may be explained as fuller liberating knowledge and, in some
+  pedagogical contexts, as fuller consciousness; this should not automatically
+  become the repository default.
+- `vimutti` is often explained as emancipation in practical awakening prose.
+- `nibbāna` may be explained as imperturbable serenity of mind.
+- `samādhi` is often handled through tranquility, equilibrium, or stillness of
+  mind in practical meditation explanation.

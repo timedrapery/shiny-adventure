@@ -4,17 +4,21 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "knowledge and vision of release",
-  "preferred_translation": "knowledge and vision of release",
+  "preferred_translation": "knowing and seeing of release",
   "alternative_translations": [
+    "knowledge and vision of release",
     "knowledge-and-vision of liberation"
   ],
   "discouraged_translations": [
     "mystical experience"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowledge and vision that release has occurred; a standard attainment expression in the awakening sequence.",
-  "notes": "Use this record when the text explicitly names the knowing and seeing of release. The compound inherits the vimutti headword and should not be inflated into vague mystical-experience language.",
+  "definition": "Knowing and seeing that release has occurred; a standard attainment expression in the awakening sequence.",
+  "notes": "Use this record when the text explicitly names the knowing and seeing of release. The compound inherits the vimutti, ñāṇa, and dassana headword policies and should not be inflated into vague mystical-experience language.",
   "related_terms": [
+    "dassana",
+    "nanadassana",
+    "nana",
     "vimutti"
   ],
   "example_phrases": [

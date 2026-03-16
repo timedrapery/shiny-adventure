@@ -1,0 +1,55 @@
+{
+  "term": "ñāṇadassana",
+  "normalized_term": "nanadassana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "knowing and seeing",
+  "alternative_translations": [
+    "knowledge and seeing",
+    "knowledge and vision"
+  ],
+  "discouraged_translations": [
+    "mystical vision"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Compound expression joining the knowing side and the seeing side without collapsing them into one English term.",
+  "notes": "Use this record when the compound itself is named. The phrase inherits the headword policies for ñāṇa and dassana and should not be flattened into a single term such as insight. The OSF glossary supports keeping the knowing side and the seeing side explicit rather than silently collapsing them.",
+  "related_terms": [
+    "dassana",
+    "nana",
+    "vimutti-nanadassana",
+    "yathabhuta-nanadassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ñāṇadassana",
+      "translation": "knowing and seeing",
+      "notes": "Base compound for the broader family.",
+      "source": "MN 26"
+    }
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping the knowing and seeing sides explicit rather than collapsing them."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'knowing and seeing' as the default rendering when the compound itself is being translated.",
+    "when_not_to_apply": "Do not collapse the pair into a single English term such as insight or vision unless a narrower record explicitly overrides it.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the compound from collapsing into mystical vision or generic insight."
+  }
+}
