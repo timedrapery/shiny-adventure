@@ -73,5 +73,5 @@
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents internal/external formulas from drifting into philosophical jargon."
   },
-  "status": "draft"
+  "status": "reviewed"
 }

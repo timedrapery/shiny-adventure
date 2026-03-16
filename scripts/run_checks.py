@@ -12,6 +12,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Regression tests", [sys.executable, "-m", "unittest", "discover", "-s", "tests"]),
+    ("Documentation integrity", [sys.executable, "scripts/check_docs_integrity.py"]),
     ("Schema validation", [sys.executable, "scripts/validate_terms.py"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),

@@ -23,6 +23,10 @@ class RunChecksTests(unittest.TestCase):
         self.assertEqual(result, 0)
         self.assertEqual(run_mock.call_count, len(run_checks.CHECKS))
         self.assertIn(
+            [sys.executable, "scripts/check_docs_integrity.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
             [sys.executable, "scripts/check_translation_drift.py", "--strict"],
             [call.args[0] for call in run_mock.call_args_list],
         )
@@ -41,7 +45,7 @@ class RunChecksTests(unittest.TestCase):
 
         self.assertEqual(result, 2)
         self.assertEqual(run_mock.call_count, 2)
-        self.assertIn("Schema validation failed with exit code 2.", output.getvalue())
+        self.assertIn("Documentation integrity failed with exit code 2.", output.getvalue())
 
 
 if __name__ == "__main__":
