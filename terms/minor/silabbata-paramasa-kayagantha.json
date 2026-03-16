@@ -1,0 +1,31 @@
+{
+  "term": "sīlabbata-parāmāsa kāyagantha",
+  "normalized_term": "silabbata-paramasa-kayagantha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "bodily knot of grasping at rules and observances",
+  "preferred_translation": "bodily knot of grasping at rules and observances",
+  "definition": "A named member of the fourfold kāyagantha family.",
+  "notes": "This compound should inherit the gantha headword policy while keeping the established rendering for sīlabbata-parāmāsa stable. Do not reduce it to generic ritualism or vague attachment to practice.",
+  "related_terms": [
+    "gantha",
+    "kayagantha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sīlabbataparāmāso kāyagantho",
+      "translation": "grasping at rules and observances is a bodily knot",
+      "notes": "Named member of the fourfold knot family.",
+      "source": "SN 45.174"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.174"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

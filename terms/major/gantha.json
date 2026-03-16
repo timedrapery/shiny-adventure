@@ -11,11 +11,13 @@
   "discouraged_translations": [
     "bondage",
     "attachment",
-    "fetter"
+    "fetter",
+    "problem",
+    "entanglement"
   ],
   "untranslated_preferred": false,
-  "definition": "A knot-like entanglement that ties experience up and resists release.",
-  "notes": "The project keeps knot as the default because it preserves the governing image directly and distinguishes this family from floods, yokes, and fetters. Tie remains a controlled alternate when a sentence needs lighter English, but gantha should not be flattened into generic bondage or attachment language. In this repository, gantha differs from yoga, which yokes or harnesses; from saṃyojana, which binds as a fetter; from ogha, which overwhelms as a flood; and from āsava, which runs on as an outflow. The OSF glossary supports retaining concrete imagery when it prevents collapse into generic bondage or fetter language. The fourfold gantha framework in SN 45.174 should stay governed by knot imagery rather than being paraphrased into undifferentiated clinging-language.",
+  "definition": "A knot-like fastening that ties experience up and resists release.",
+  "notes": "The project keeps knot as the default because it preserves the governing image directly and distinguishes this family from floods, yokes, and fetters. Tie remains a controlled alternate when a sentence needs lighter English, but gantha should not be flattened into generic bondage, attachment, or vague entanglement language. In this repository, gantha differs from yoga, which yokes or harnesses; from saṃyojana, which binds as a fetter; from ogha, which overwhelms as a flood; and from āsava, which runs on as an outflow. Gantha's distinctive force is fastening or knotting: a tie-up that needs untying rather than mere crossing or release from a yoke. The fourfold kāyagantha family in SN 45.174 should therefore stay governed by knot imagery rather than being paraphrased into undifferentiated clinging-language. The OSF glossary supports retaining concrete imagery when it prevents collapse into generic bondage or fetter language.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -31,11 +33,24 @@
       "context": "In the fourfold family-heading formula",
       "rendering": "knot",
       "notes": "Keep the governing image stable across the family."
+    },
+    {
+      "context": "In kāyagantha compounds",
+      "rendering": "knot",
+      "notes": "Keep the knotting image explicit rather than substituting generic bond or attachment language."
     }
   ],
   "related_terms": [
+    "abhijjha-kayagantha",
+    "byapada-kayagantha",
     "cattarome-bhikkhave-gantha",
+    "kayagantha",
+    "idamsacca-abhinivesa-kayagantha",
     "ogha",
+    "anusaya",
+    "asava",
+    "samyojana",
+    "silabbata-paramasa-kayagantha",
     "yoga"
   ],
   "example_phrases": [
@@ -77,7 +92,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'knot' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'tie' only when a smoother English sentence is clearly needed. Do not flatten gantha into generic bondage, attachment, or fetter language.",
+    "when_not_to_apply": "Use 'tie' only when a smoother English sentence is clearly needed. Do not flatten gantha into generic bondage, attachment, fetter, problem, or vague entanglement language.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents collapse between knot imagery, yoke imagery, flood imagery, fetter-language, and generic bondage-language."
   }

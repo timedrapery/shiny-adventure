@@ -1,0 +1,31 @@
+{
+  "term": "abhijjhā kāyagantha",
+  "normalized_term": "abhijjha-kayagantha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "coveting bodily knot",
+  "preferred_translation": "bodily knot of coveting",
+  "definition": "A named member of the fourfold kāyagantha family.",
+  "notes": "This compound should inherit the gantha headword policy. Keep the knot image explicit rather than flattening the expression into generic greed, attachment, or trouble-language.",
+  "related_terms": [
+    "gantha",
+    "kayagantha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "abhijjhā kāyagantho",
+      "translation": "coveting is a bodily knot",
+      "notes": "Named member of the fourfold knot family.",
+      "source": "SN 45.174"
+    }
+  ],
+  "sutta_references": [
+    "SN 45.174"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "bondage-imagery"
+  ],
+  "status": "stable"
+}

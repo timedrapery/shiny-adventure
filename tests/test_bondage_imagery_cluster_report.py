@@ -86,6 +86,31 @@ class ClusterReportTests(unittest.TestCase):
         self.assertEqual(len(written), 2)
         self.assertTrue(any(path.name == "bondage-imagery-cluster-glossary.md" for path in written))
 
+    def test_render_glossary_includes_kayagantha(self) -> None:
+        terms = {
+            stem: make_record(stem)
+            for stem in cluster_report.HEADWORD_TERMS + cluster_report.SUPPORTING_TERMS + cluster_report.FORMULA_TERMS
+        }
+        terms["kayagantha"]["term"] = "kāyagantha"
+        terms["kayagantha"]["preferred_translation"] = "bodily knot"
+
+        glossary = cluster_report.render_glossary(terms)
+
+        self.assertIn("kāyagantha", glossary)
+        self.assertIn("bodily knot", glossary)
+
+    def test_render_contrast_sheet_mentions_residue_family_contrasts(self) -> None:
+        terms = {
+            stem: make_record(stem)
+            for stem in cluster_report.HEADWORD_TERMS + cluster_report.SUPPORTING_TERMS + cluster_report.FORMULA_TERMS
+        }
+
+        sheet = cluster_report.render_contrast_sheet(terms)
+
+        self.assertIn("saṃyojana", sheet)
+        self.assertIn("āsava", sheet)
+        self.assertIn("anusaya", sheet)
+
     def test_main_emits_json(self) -> None:
         output = io.StringIO()
         fake_report = {

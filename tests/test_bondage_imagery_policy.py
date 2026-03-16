@@ -30,6 +30,8 @@ class BondageImageryPolicyTests(unittest.TestCase):
         self.assertIn("bondage", ogha["discouraged_translations"])
         self.assertIn("bondage", yoga["discouraged_translations"])
         self.assertIn("fetter", yoga["discouraged_translations"])
+        self.assertIn("obstacle", ogha["discouraged_translations"])
+        self.assertIn("exercise", yoga["discouraged_translations"])
 
     def test_yoga_family_alignment_is_explicit(self) -> None:
         yoga = load_term("terms/major/yoga.json")
@@ -46,6 +48,24 @@ class BondageImageryPolicyTests(unittest.TestCase):
 
         self.assertEqual(ogha["preferred_translation"], "flood")
         self.assertEqual(kamogha["preferred_translation"], "sensual flood")
+
+    def test_gantha_family_alignment_is_explicit(self) -> None:
+        gantha = load_term("terms/major/gantha.json")
+        kayagantha = load_term("terms/minor/kayagantha.json")
+        abhijjha_kayagantha = load_term("terms/minor/abhijjha-kayagantha.json")
+
+        self.assertEqual(gantha["preferred_translation"], "knot")
+        self.assertEqual(kayagantha["preferred_translation"], "bodily knot")
+        self.assertEqual(abhijjha_kayagantha["preferred_translation"], "bodily knot of coveting")
+
+    def test_imagery_family_cross_cluster_links_are_explicit(self) -> None:
+        ogha = load_term("terms/major/ogha.json")
+        yoga = load_term("terms/major/yoga.json")
+        gantha = load_term("terms/major/gantha.json")
+
+        self.assertIn("asava", ogha["related_terms"])
+        self.assertIn("samyojana", yoga["related_terms"])
+        self.assertIn("anusaya", gantha["related_terms"])
 
 
 if __name__ == "__main__":

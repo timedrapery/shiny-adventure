@@ -6,16 +6,19 @@
   "literal_meaning": "flood, torrent",
   "preferred_translation": "flood",
   "alternative_translations": [
-    "torrent"
+    "torrent",
+    "deluge"
   ],
   "discouraged_translations": [
     "bondage",
     "attachment",
-    "defilement"
+    "defilement",
+    "obstacle",
+    "trouble"
   ],
   "untranslated_preferred": false,
   "definition": "A flood-like force that overwhelms and carries beings along unless it is crossed.",
-  "notes": "The project keeps flood as the default because it preserves the governing image clearly and reads naturally in English. Torrent remains a controlled alternate when the force or surge needs emphasis, but ogha should not be flattened into generic bondage or defilement language. In this repository, ogha differs from āsava: an āsava is a corruptive outflow running on, whereas an ogha is an engulfing flood to be crossed. It also differs from saṃyojana and yoga, which bind or yoke, and from gantha, which knots or entangles. The same imagery should govern named compounds such as kāmogha, bhavogha, diṭṭhogha, and avijjogha unless a narrower record overrides it. The OSF glossary supports keeping concrete imagery when it prevents doctrinal flattening, and SN 45.171 supports the fourfold flood framework.",
+  "notes": "The project keeps flood as the default because it preserves the governing image clearly and reads naturally in English. Torrent and deluge remain controlled alternates when surge or overwhelming force itself needs emphasis, but ogha should not be flattened into generic bondage, trouble, or obstacle language. In this repository, ogha differs from āsava: an āsava is a corruptive outflow running on, whereas an ogha is an engulfing flood to be crossed. It differs from saṃyojana and yoga, which bind or yoke rather than overwhelm, and from gantha, which knots or fastens. The same imagery should govern named compounds such as kāmogha, bhavogha, diṭṭhogha, and avijjogha unless a narrower record overrides it. Where a passage stresses crossing over or not being swept away, translators should resist abstract paraphrase and let the flood image keep doing real work. The OSF glossary supports keeping concrete imagery when it prevents doctrinal flattening, and SN 45.171 supports the fourfold flood framework.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -28,6 +31,11 @@
       "notes": "Allowed alternate when the stronger motion is the point."
     },
     {
+      "context": "In crossing, escape, or swept-along contexts",
+      "rendering": "flood",
+      "notes": "Keep the crossing image explicit rather than flattening the family into generic bondage."
+    },
+    {
       "context": "In named compounds such as kāmogha or avijjogha",
       "rendering": "flood",
       "notes": "Keep the flood imagery stable across the family."
@@ -35,12 +43,15 @@
   ],
   "related_terms": [
     "avijjogha",
+    "anusaya",
+    "asava",
     "bhavogha",
     "cattarome-bhikkhave-ogha",
     "ditthogha",
     "kamogha",
-    "yoga",
-    "gantha"
+    "gantha",
+    "samyojana",
+    "yoga"
   ],
   "example_phrases": [
     {
@@ -81,8 +92,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'flood' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'torrent' only when the explanatory context clearly needs more force. Do not flatten ogha into generic bondage, attachment, or defilement language.",
+    "when_not_to_apply": "Use 'torrent' or 'deluge' only when the explanatory context clearly needs more force. Do not flatten ogha into generic bondage, attachment, defilement, trouble, or obstacle language.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents collapse between flood imagery, outflow imagery, binding imagery, and generic bondage-language."
+    "drift_risk": "Prevents collapse between flood imagery, outflow imagery, yoking imagery, knotting imagery, and generic bondage-language."
   }
 }
