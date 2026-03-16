@@ -1,0 +1,91 @@
+{
+  "term": "nibbuta",
+  "normalized_term": "nibbuta",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "cooled, quenched",
+  "preferred_translation": "cooled",
+  "alternative_translations": [
+    "quenched",
+    "cooled down"
+  ],
+  "discouraged_translations": [
+    "at peace",
+    "liberated",
+    "nibbāna"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Adjectival consummation language describing what has become cooled or quenched.",
+  "notes": "The project keeps cooled as the default because it lets the cooling/quenching image remain adjectival instead of turning nibbuta into a loose synonym for nibbāna. Quenched remains a controlled alternate when the fire-going-out image needs to stay sharper, and cooled down is allowed in very plain explanatory prose. In this repository, nibbuta differs from nibbāna: nibbāna is the governing consummation-side noun, whereas nibbuta is adjectival language describing what is cooled or quenched. It also differs from santi, which is peace-language, and from vimutti, which is release-language. Buddhadasa's coolness framing strongly supports keeping the cooling force audible here, and SN 43.14 supports nibbuta as consummation-side adjectival language rather than a substitute for the nibbāna headword.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and consummation-side adjectival contexts",
+      "rendering": "cooled",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose emphasizing the fire-going-out image",
+      "rendering": "quenched",
+      "notes": "Allowed alternate when the extinguishing image itself is the point."
+    },
+    {
+      "context": "In plain explanatory prose where a lighter phrase is needed",
+      "rendering": "cooled down",
+      "notes": "Allowed alternate, but not the default."
+    },
+    {
+      "context": "When the adjective is closely tied to nibbāna-language nearby",
+      "rendering": "cooled",
+      "notes": "Keep the adjectival force distinct from the nibbāna headword."
+    }
+  ],
+  "related_terms": [
+    "amata",
+    "nibbana",
+    "parinibbana",
+    "santi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nibbuto so bhikkhu",
+      "translation": "that bhikkhu is cooled",
+      "notes": "Shows the adjectival cooling force directly.",
+      "source": "Iti 43"
+    },
+    {
+      "pali": "nibbutaṃ padaṃ",
+      "translation": "the cooled state",
+      "notes": "Keeps the consummation-side adjective distinct from the governing noun nibbāna.",
+      "source": "SN 43.14"
+    }
+  ],
+  "sutta_references": [
+    "Iti 43",
+    "SN 43.14"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports preserving cooling-language rather than dissolving nibbuta into generic peace or release."
+    },
+    {
+      "source": "SN 43.14",
+      "kind": "context-rule",
+      "scope": "Supports nibbuta as adjectival consummation language distinct from the nibbāna headword."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'cooled' as the default rendering in the entry's governed adjectival consummation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'quenched' or 'cooled down' only when the local line clearly benefits. Do not flatten nibbuta into nibbāna, peace-language, or release-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents adjectival cooling-language from collapsing into uncontrolled noun-level consummation or release vocabulary."
+  }
+}

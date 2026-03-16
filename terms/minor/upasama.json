@@ -3,21 +3,55 @@
   "normalized_term": "upasama",
   "entry_type": "minor",
   "part_of_speech": "noun",
-  "literal_meaning": "calming, peace",
+  "literal_meaning": "calming, quieting, peace",
   "preferred_translation": "calming",
   "alternative_translations": [
+    "quieting",
     "peace"
   ],
   "discouraged_translations": [
-    "suppression"
+    "suppression",
+    "relaxation",
+    "nibbāna"
   ],
-  "untranslated_preferred": false,
-  "definition": "Calming or peaceful settling of agitation and constructing.",
+  "definition": "Calming or quieting language that can bridge toward consummation but is not identical with the governing consummation headwords.",
+  "notes": "Use this record when the text explicitly names calming or quieting. The compound belongs near the consummation interface, but it should remain distinct from santi, which stays peace-language, and from passaddhi, which is governed as relaxation in practice sequence.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and contemplative contexts",
+      "rendering": "calming",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the text stresses the settling-down or quieting aspect",
+      "rendering": "quieting",
+      "notes": "Allowed alternate when it reads more naturally."
+    },
+    {
+      "context": "In compounds or recollection expressions that clearly point toward consummation-side peace",
+      "rendering": "peace",
+      "notes": "Allowed alternate, but not the default."
+    }
+  ],
+  "related_terms": [
+    "santi",
+    "upasamanussati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ",
+      "translation": "the calming of all constructions, the relinquishment of all acquisitions, the wearing away of ignorant wanting, fading, quenching, nibbāna",
+      "notes": "Shows upasama-side quieting language in relation to the consummation cluster.",
+      "source": "MN 26"
+    }
+  ],
   "sutta_references": [
     "MN 26"
   ],
   "tags": [
-    "liberation"
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

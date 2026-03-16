@@ -3,21 +3,36 @@
   "normalized_term": "upasamanussati",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "recollection of peace",
+  "literal_meaning": "recollection of calming or peace",
   "preferred_translation": "recollection of peace",
   "alternative_translations": [
-    "recollection of calm"
+    "recollection of calming"
   ],
   "discouraged_translations": [
-    "relaxation"
+    "relaxation practice"
   ],
   "untranslated_preferred": false,
-  "definition": "Recollection of peace as a contemplative theme, often linked to nibbāna.",
+  "definition": "A contemplative recollection built around upasama-side peace or quieting language, often linked to nibbāna.",
+  "notes": "Use this record when the text explicitly names recollection of peace. The compound inherits the distinction between upasama and santi and should not be flattened into mere relaxation-language.",
+  "related_terms": [
+    "santi",
+    "upasama"
+  ],
+  "example_phrases": [
+    {
+      "pali": "upasamānussati",
+      "translation": "recollection of peace",
+      "notes": "Governed contemplative expression linked to consummation-side peace without collapsing into sentimental calm.",
+      "source": "AN 11.12"
+    }
+  ],
   "sutta_references": [
     "AN 11.12"
   ],
   "tags": [
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "consummation-interface"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

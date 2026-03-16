@@ -6,9 +6,25 @@
   "literal_meaning": "nibbāna in this life",
   "preferred_translation": "here-and-now nibbāna",
   "definition": "Nibbāna understood as present or immediate in this very life.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
+  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization. The phrase belongs in the nibbāna family and should not be rewritten into generic worldly happiness or premature-finality language.",
+  "related_terms": [
+    "nibbana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭhadhammanibbāna",
+      "translation": "here-and-now nibbāna",
+      "notes": "Compound governing immediate-life nibbāna language without collapsing into worldly comfort or final nibbāna at death.",
+      "source": "MN 13"
+    }
+  ],
+  "sutta_references": [
+    "MN 13"
+  ],
   "tags": [
-    "liberation"
+    "liberation",
+    "consummation-interface",
+    "translation-sensitive"
   ],
   "status": "reviewed",
   "untranslated_preferred": true,

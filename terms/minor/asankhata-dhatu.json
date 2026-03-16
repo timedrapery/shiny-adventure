@@ -1,0 +1,38 @@
+{
+  "term": "asaṅkhata-dhātu",
+  "normalized_term": "asankhata-dhatu",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "unconditioned element",
+  "preferred_translation": "unconditioned element",
+  "alternative_translations": [
+    "element of the unconditioned"
+  ],
+  "discouraged_translations": [
+    "eternal element",
+    "transcendent realm"
+  ],
+  "definition": "Compound carrying the asaṅkhata headword into dhātu-language.",
+  "notes": "Keep this compound aligned with the asaṅkhata headword and avoid vague metaphysical or realm-language expansion.",
+  "related_terms": [
+    "asankhata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "asaṅkhata dhātu",
+      "translation": "the unconditioned element",
+      "notes": "Classic doctrinal expression governing the unconditioned family.",
+      "source": "Ud 8.3"
+    }
+  ],
+  "sutta_references": [
+    "Ud 8.3"
+  ],
+  "tags": [
+    "formula",
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable"
+}

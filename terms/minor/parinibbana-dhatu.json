@@ -1,16 +1,39 @@
 {
-  "normalized_term": "parinibbana-dhatu",
   "term": "parinibbāna-dhātu",
+  "normalized_term": "parinibbana-dhatu",
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "element of final nibbāna",
-  "preferred_translation": "parinibbāna element",
-  "definition": "The element of final nibbāna.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
-  "tags": [
-    "liberation"
+  "preferred_translation": "final nibbāna element",
+  "alternative_translations": [
+    "element of final nibbāna"
   ],
-  "status": "reviewed",
+  "discouraged_translations": [
+    "death state"
+  ],
+  "definition": "Compound naming the element of final nibbāna.",
+  "notes": "Keep this compound governed by parinibbāna and nibbāna family logic rather than by generic death-language.",
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "parinibbāna element"
+  "gloss_on_first_occurrence": "final nibbāna element",
+  "related_terms": [
+    "nibbana-dhatu",
+    "parinibbana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "parinibbānadhātu",
+      "translation": "final nibbāna element",
+      "notes": "Keeps the compound tied to the parinibbāna family.",
+      "source": "AN 4.173"
+    }
+  ],
+  "sutta_references": [
+    "AN 4.173"
+  ]
 }

@@ -1,0 +1,94 @@
+{
+  "term": "santi",
+  "normalized_term": "santi",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "peace",
+  "preferred_translation": "peace",
+  "alternative_translations": [
+    "peacefulness",
+    "still peace"
+  ],
+  "discouraged_translations": [
+    "calm mood",
+    "sentimental peace",
+    "relaxation",
+    "nibbāna"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Peace language on the consummation side, especially when the texts name peace as a facet or designation rather than the governing headword.",
+  "notes": "The project keeps peace as the default because the term itself is peace-language, but it must be governed tightly. In this repository, santi is not generic emotional calm and not a synonym-generator for nibbāna. It differs from passaddhi, which is relaxation or settling in practice sequence; from upasama, which is calming or quieting; and from nibbāna, which remains the governing consummation-side headword. Santi names the peace side of consummation or its direct designation when the source chooses that register. The OSF glossary supports plain peace-language here, and Dhp 202 supports santi as a direct consummation-side designation rather than a mood word. The present cluster policy blocks drift into mood-level calm, sentimentality, or vague spiritual softness.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and consummation-side contexts",
+      "rendering": "peace",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the noun needs a slightly fuller English texture",
+      "rendering": "peacefulness",
+      "notes": "Allowed alternate when the line benefits from it."
+    },
+    {
+      "context": "When the text uses peace language in deliberate contrast with agitation or bondage",
+      "rendering": "peace",
+      "notes": "Keep the consummation-side force explicit, not sentimental."
+    },
+    {
+      "context": "When the text is about practical settling or softening before culmination",
+      "rendering": "peace",
+      "notes": "Do not substitute passaddhi or upasama unless the source actually uses those terms."
+    }
+  ],
+  "related_terms": [
+    "amata",
+    "nibbana",
+    "nibbuta",
+    "parinibbana",
+    "upasama",
+    "upasamanussati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "santiṃ padaṃ",
+      "translation": "the state of peace",
+      "notes": "Shows santi as consummation-side peace language rather than mood-language.",
+      "source": "Dhp 368"
+    },
+    {
+      "pali": "santi paraṃ sukhaṃ",
+      "translation": "peace is the highest ease",
+      "notes": "Classic peace-side designation. Keep it distinct from the governing nibbāna headword.",
+      "source": "Dhp 202"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 202",
+    "Dhp 368"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports plain peace-language while keeping it distinct from mood-level calm and from the governing nibbāna headword."
+    },
+    {
+      "source": "Dhp 202",
+      "kind": "context-rule",
+      "scope": "Supports santi as consummation-side peace language in a direct doctrinal formula."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'peace' as the default rendering in the entry's governed consummation-side contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'peacefulness' only when explanatory prose clearly benefits. Do not flatten santi into mood-language, passaddhi-language, or a generic substitute for nibbāna.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents peace-language from collapsing into sentimental calm, practice-level relaxation, or uncontrolled synonymy with nibbāna."
+  }
+}

@@ -1,16 +1,42 @@
 {
-  "normalized_term": "nibbana-dhatu",
   "term": "nibbāna-dhātu",
+  "normalized_term": "nibbana-dhatu",
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "element of nibbāna",
   "preferred_translation": "nibbāna element",
-  "definition": "The element of nibbāna in doctrinal analysis.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "alternative_translations": [
+    "element of nibbāna"
   ],
-  "status": "reviewed",
+  "discouraged_translations": [
+    "nirvana realm",
+    "metaphysical plane"
+  ],
+  "definition": "Compound naming the nibbāna element in doctrinal analysis.",
+  "notes": "Keep this compound aligned with the nibbāna headword and avoid importing later metaphysical realm-language. The expression is a doctrinal designation, not a license for uncontrolled ontological expansion.",
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "consummation-interface"
+  ],
+  "status": "stable",
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "nibbāna element"
+  "gloss_on_first_occurrence": "nibbāna element",
+  "related_terms": [
+    "nibbana",
+    "parinibbana-dhatu",
+    "saupadisesa-nibbana-dhatu",
+    "anupadisesa-nibbana-dhatu"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nibbānadhātu",
+      "translation": "nibbāna element",
+      "notes": "Governing compound within the consummation interface.",
+      "source": "Iti 44"
+    }
+  ],
+  "sutta_references": [
+    "Iti 44"
+  ]
 }
