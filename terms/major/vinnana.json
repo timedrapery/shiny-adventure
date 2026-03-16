@@ -3,7 +3,7 @@
   "normalized_term": "vinnana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "knowing distinctly",
+  "literal_meaning": "distinct knowing",
   "preferred_translation": "knowing",
   "alternative_translations": [
     "consciousness",
@@ -11,11 +11,14 @@
   ],
   "discouraged_translations": [
     "pure awareness",
-    "witness consciousness"
+    "witness consciousness",
+    "self",
+    "soul",
+    "sentience"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowing associated with a sense field and its object, central to both heap and dependent-arising analysis.",
-  "notes": "The project uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. The OSF glossary's consciousness and knowing language supports retaining a conditioned-process reading and avoiding witness-style metaphysical drift. Translators should keep the sixfold sensory uses, the heap-family uses, and the dependent-arising uses aligned with this conditioned-process reading and should not let consciousness become an automatic default. In viññāṇakkhandha and canonical heap enumerations, the project still prefers knowing so the five heaps read in one voice with the other members.",
+  "definition": "Conditioned knowing associated with a sense base and its object, central to sense-process, heap, and dependent-arising analysis.",
+  "notes": "The project keeps knowing as the house default. The term should be heard as conditioned, multiple, and tied to the sense process rather than as a permanent witness behind experience. Consciousness remains a controlled alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used only cautiously in explanation when it does not suggest a metaphysical substrate. In this repository, viññāṇa must stay distinct from phassa, which is contact; from vedanā, which is felt experience; from saññā, which is recognition; and from cetanā, which is intention. Translators should keep the sixfold sensory uses, the heap uses, and the dependent-arising uses aligned with this conditioned-process reading and should not let consciousness become an automatic default. The OSF glossary supports this conditioned-process handling, SN 22.59 supports the heap-family use, and SN 12.2 supports the same reading in dependent arising.",
   "context_rules": [
     {
       "context": "When referring to the six sense modes of viññāṇa",
@@ -28,14 +31,14 @@
       "notes": "Keep the heap family aligned with the house default."
     },
     {
-      "context": "When the passage emphasizes the reciprocal relation of knowing and name-and-form",
+      "context": "When the passage emphasizes the reciprocal relation of viññāṇa and nāmarūpa",
       "rendering": "knowing",
       "notes": "Keep the term firmly within conditioned process rather than metaphysical speculation."
     },
     {
       "context": "When comparative doctrinal prose needs continuity with established Buddhist-English usage",
       "rendering": "consciousness",
-      "notes": "Acceptable alternate when standard terminology is helpful."
+      "notes": "Acceptable alternate when standard terminology is clearly helpful."
     }
   ],
   "related_terms": [
@@ -43,10 +46,11 @@
     "asanna",
     "ayatana",
     "cakkhu-vinnana",
+    "cetana",
     "ghana-vinnana",
     "jivha-vinnana",
-    "kaya-vinnana",
     "khandha",
+    "kaya-vinnana",
     "mano",
     "mano-vinnana",
     "namarupa",
@@ -54,13 +58,15 @@
     "pancupadanakkhandha",
     "paticcasamuppada",
     "phassa",
+    "salayatana",
     "sanna",
     "sankhara",
-    "salayatana",
+    "sankharapaccaya-vinnana",
     "sota-vinnana",
     "vedana",
     "vinnana-ahara",
     "vinnanakkhandha",
+    "vinnanapaccaya-namarupa",
     "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
   ],
   "example_phrases": [
@@ -72,7 +78,7 @@
     },
     {
       "pali": "saṅkhārapaccayā viññāṇaṃ",
-      "translation": "with putting things together as condition, knowing",
+      "translation": "with putting together as condition, knowing",
       "notes": "Standard dependent-arising link.",
       "source": "SN 12.2"
     },
@@ -91,17 +97,19 @@
   "tags": [
     "dependent-origination",
     "aggregates",
+    "sense-fields",
     "core-doctrine",
-    "context-sensitive"
+    "context-sensitive",
+    "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded to keep viññāṇa aligned with conditioned process across sense-field, heap-family, and dependent-arising contexts.",
+  "version_notes": "Strengthened to make the anti-metaphysical and cross-cluster boundaries around viññāṇa explicit.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports conditioned-process handling of viññāṇa while allowing consciousness as a controlled alternate."
+      "scope": "Supports conditioned-process handling of viññāṇa while allowing consciousness only as a controlled alternate."
     },
     {
       "source": "SN 22.59",
@@ -116,8 +124,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'knowing' as the default rendering across sense-field, heap-family, and dependent-arising contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not let consciousness become the unstated default in the heap family, and do not let awareness drift into witness-style metaphysics.",
+    "when_not_to_apply": "Use 'consciousness' only when comparative doctrinal prose clearly needs it. Do not let awareness drift into witness-style metaphysics, and do not open the term to self, soul, or sentience language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between heap-context, six-sense context, and dependent-arising context for viññāṇa."
+    "drift_risk": "Prevents viññāṇa from drifting into generic consciousness catch-all language, awareness metaphysics, or self-like readings."
   }
 }

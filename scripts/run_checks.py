@@ -25,6 +25,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Abandonment-sequence cluster", [sys.executable, "scripts/abandonment_sequence_cluster_report.py", "--strict"]),
     ("Craving / appropriation cluster", [sys.executable, "scripts/craving_appropriation_cluster_report.py", "--strict"]),
     ("Kama cluster", [sys.executable, "scripts/kama_cluster_report.py", "--strict"]),
+    ("Experience / process cluster", [sys.executable, "scripts/experience_process_cluster_report.py", "--strict"]),
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
 )
