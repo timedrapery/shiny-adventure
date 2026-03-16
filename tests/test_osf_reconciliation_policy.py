@@ -28,6 +28,12 @@ class OsfReconciliationPolicyTests(unittest.TestCase):
         self.assertEqual(nibbana["preferred_translation"], "nibbāna")
         self.assertTrue(nibbana["untranslated_preferred"])
         self.assertIn("coolness", nibbana["alternative_translations"])
+        self.assertTrue(
+            any(
+                rule["rendering"] == "imperturbable serenity of mind"
+                for rule in nibbana["context_rules"]
+            )
+        )
         self.assertIn("ultimate reality", nibbana["discouraged_translations"])
 
     def test_nirodha_stays_quenching_while_allowing_osf_stopping_language(self) -> None:
@@ -38,11 +44,23 @@ class OsfReconciliationPolicyTests(unittest.TestCase):
         self.assertIn("cessation", nirodha["alternative_translations"])
         self.assertIn("annihilation", nirodha["discouraged_translations"])
 
+    def test_animitta_and_appanihita_are_controlled_alternates_not_new_defaults(self) -> None:
+        animitta = load_term("terms/major/animitta.json")
+        appanihita = load_term("terms/major/appanihita.json")
+
+        self.assertEqual(animitta["preferred_translation"], "signless")
+        self.assertIn("without sign", animitta["alternative_translations"])
+        self.assertIn("formless", animitta["discouraged_translations"])
+        self.assertEqual(appanihita["preferred_translation"], "wishless")
+        self.assertIn("without placing desire", appanihita["alternative_translations"])
+        self.assertIn("no goals", appanihita["discouraged_translations"])
+
     def test_vimutti_keeps_release_and_controls_liberation(self) -> None:
         vimutti = load_term("terms/major/vimutti.json")
 
         self.assertEqual(vimutti["preferred_translation"], "release")
         self.assertIn("liberation", vimutti["alternative_translations"])
+        self.assertIn("emancipation", vimutti["alternative_translations"])
         self.assertIn("salvation", vimutti["discouraged_translations"])
         self.assertIn("TOLERATE-ALTERNATE case", vimutti["notes"])
 

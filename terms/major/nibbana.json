@@ -22,7 +22,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "nibbāna (quenching)",
   "definition": "The consummation-side designation for the quenching of greed, aversion, and delusion.",
-  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. The repository keeps nibbāna untranslated by default because OSF house style, Dhammarato, and Buddhadasa all treat the term as practical and immediate without reducing it to one English noun. At the same time, OSF-facing glossary and Buddhadasa-line materials strongly support cooling, coolness, and cooling down as explanatory language, and the repository now records that more explicitly as a tolerated explanatory layer rather than as drift. What is refused is any move from that practical cooling language into mystical absolute, heaven, generic peace, or decorative ungoverned nirvana-talk. In this repository, nibbāna is not just another way to say vimutti: vimutti is release, while nibbāna is the consummation-side designation that release points toward. It also differs from amata, which highlights the deathless aspect; from asaṅkhata, which highlights the unconditioned aspect; and from santi, which highlights peace rather than functioning as the governing headword for the whole consummation interface. OSF editorial authority, the OSF glossary, and the Buddhadasa usage profile all support keeping nibbāna practical, cool, and non-mystified without surrendering the untranslated default.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. The repository keeps nibbāna untranslated by default because OSF house style, Dhammarato, and Buddhadasa all treat the term as practical and immediate without reducing it to one English noun. At the same time, OSF-facing glossary and Buddhadasa-line materials strongly support cooling, coolness, and cooling down as explanatory language, and the repository now records that more explicitly as a tolerated explanatory layer rather than as drift. Punnaji's practical materials add a usable but narrower external phrasing here: imperturbable serenity of mind. The repo tolerates that only as controlled practical explanation, not as a replacement for the untranslated headword. What is refused is any move from practical cooling or serenity language into mystical absolute, heaven, generic peace, or decorative ungoverned nirvana-talk. In this repository, nibbāna is not just another way to say vimutti: vimutti is release, while nibbāna is the consummation-side designation that release points toward. It also differs from amata, which highlights the deathless aspect; from asaṅkhata, which highlights the unconditioned aspect; and from santi, which highlights peace rather than functioning as the governing headword for the whole consummation interface. OSF editorial authority, the OSF glossary, the Buddhadasa usage profile, and Punnaji's practical materials all support keeping nibbāna practical and non-mystified without surrendering the untranslated default.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing translations",
@@ -48,6 +48,11 @@
       "context": "In explanatory prose emphasizing the fire-going-out image itself",
       "rendering": "extinguishment",
       "notes": "Allowed alternate when the image is explicitly being unpacked."
+    },
+    {
+      "context": "In Punnaji-style practical prose emphasizing unshakeable tranquility rather than doctrinal designation",
+      "rendering": "imperturbable serenity of mind",
+      "notes": "Controlled practical alternate, not the house default."
     },
     {
       "context": "In source-facing doctrinal prose where narrowing the term would distort its full range",
@@ -123,6 +128,12 @@
       "priority": "buddhadasa",
       "kind": "gloss",
       "scope": "Supports quenching and coolness as explanatory glosses without displacing the untranslated house default."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports controlled practical serenity-language without displacing the untranslated default."
     }
   ],
   "translation_policy": {

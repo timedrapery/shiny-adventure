@@ -27,6 +27,18 @@ REVIEWED_TERMS = {
         "osf_usage": "OSF-facing materials support emptiness, while Buddhadasa-line prose also uses voidness and void-mind language.",
         "governance": "Keep emptiness as the default, tolerate voidness as a controlled alternate, refuse nihilist and mystical drift.",
     },
+    "animitta": {
+        "classification": "TOLERATE ALTERNATE",
+        "expected_default": "signless",
+        "osf_usage": "OSF-facing materials do not strongly displace the default, while practical explanation can unpack the term as without sign or not taking up signs.",
+        "governance": "Keep signless as the default, tolerate explanatory without-sign language, refuse formlessness and mystical-vagueness drift.",
+    },
+    "appanihita": {
+        "classification": "TOLERATE ALTERNATE",
+        "expected_default": "wishless",
+        "osf_usage": "Practical explanation can unpack the term as without placing desire or as narrower desireless language, but the family needs a sharper default.",
+        "governance": "Keep wishless as the default, tolerate controlled explanatory alternates, refuse passivity, apathy, and no-goals drift.",
+    },
     "nibbana": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "nibbāna",

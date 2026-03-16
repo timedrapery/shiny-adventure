@@ -17,7 +17,7 @@
   "untranslated_preferred": false,
   "gloss_on_first_occurrence": "remembering",
   "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and returning to what matters.",
-  "notes": "This is an ALIGN case in the OSF reconciliation pass. The repository's stabilized default remembering already matches the strongest Dhammarato and OSF house direction. The Dhammarato quotes profile explicitly supports remembering and right remembering, while What Is And Is Not The Path supports sati as what keeps the mind oriented to what is happening now without reducing it to a bare-attention technique. The OSF glossary does sometimes use awareness-style shorthand, and the repository now treats that as a tolerated explanatory alternate only when the remembering function is still explicit. In live OSF practice explanation, sati also functions as the gatekeeper at the sense doors: remembering notices contact and felt experience early so ignorant interpretation does not rush inward unchecked. That practical framing is useful and remains allowed. Compounds should inherit this remembering-centered policy unless a narrower compound record documents an override. What is refused as drift is any return to mindfulness as an uncontrolled default or any reduction of sati to bare present-centered attention severed from recollection, ethical relevance, and task-awareness.",
+  "notes": "This is an ALIGN case in the OSF reconciliation pass. The repository's stabilized default remembering already matches the strongest Dhammarato and OSF house direction. The Dhammarato quotes profile explicitly supports remembering and right remembering, while What Is And Is Not The Path supports sati as what keeps the mind oriented to what is happening now without reducing it to a bare-attention technique. The OSF glossary does sometimes use awareness-style shorthand, and the repository now treats that as a tolerated explanatory alternate only when the remembering function is still explicit. Punnaji's practical materials add introspection and introversion-of-attention language; the repo tolerates that as a pedagogical note, not as a replacement for the remembering default. In live OSF practice explanation, sati also functions as the gatekeeper at the sense doors: remembering notices contact and felt experience early so ignorant interpretation does not rush inward unchecked. That practical framing is useful and remains allowed. Compounds should inherit this remembering-centered policy unless a narrower compound record documents an override. What is refused as drift is any return to mindfulness as an uncontrolled default or any reduction of sati to bare present-centered attention severed from recollection, ethical relevance, and task-awareness.",
   "context_rules": [
     {
       "context": "In most translations and practical OSF contexts",
@@ -108,6 +108,12 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Supports practical use of sati as returning to what matters here-now without reducing it to bare attention."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "context-rule",
+      "scope": "Supports introspection and introversion-of-attention language as a controlled pedagogical alternate."
     }
   ],
   "translation_policy": {
