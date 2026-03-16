@@ -17,6 +17,8 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),
     ("Translation drift", [sys.executable, "scripts/check_translation_drift.py", "--strict"]),
+    ("Dependent arising cluster", [sys.executable, "scripts/dependent_arising_cluster_report.py", "--strict"]),
+    ("Five heaps cluster", [sys.executable, "scripts/five_heaps_cluster_report.py", "--strict"]),
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
 )
