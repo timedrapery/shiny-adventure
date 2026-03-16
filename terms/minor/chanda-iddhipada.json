@@ -5,10 +5,26 @@
   "part_of_speech": "compound",
   "preferred_translation": "basis of power grounded in desire",
   "definition": "One of the four bases of power, defined by its leading support in practice.",
+  "notes": "Use this minor record when the compound appears as a whole. It helps protect wholesome chanda from collapsing into taṇhā by keeping the practice-supportive use explicit.",
   "status": "reviewed",
   "literal_meaning": "basis of power grounded in desire",
+  "related_terms": [
+    "chanda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "chandasamādhipadhānasaṅkhārasamannāgataṃ iddhipādaṃ",
+      "translation": "a basis of power endowed with desire, composure, and activating constructions",
+      "notes": "Shows the wholesome practical use of chanda within the bases-of-power framework.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
+  ],
   "tags": [
     "core-practice",
-    "meditative-development"
+    "meditative-development",
+    "translation-sensitive"
   ]
 }

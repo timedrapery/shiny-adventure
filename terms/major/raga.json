@@ -3,17 +3,20 @@
   "normalized_term": "raga",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "passion, attachment, coloring",
+  "literal_meaning": "passion, coloring, attachment",
   "preferred_translation": "passion",
   "alternative_translations": [
-    "attachment"
+    "attachment",
+    "coloring"
   ],
   "discouraged_translations": [
-    "lust"
+    "lust",
+    "desire",
+    "craving"
   ],
   "untranslated_preferred": false,
-  "definition": "Passionate attachment or coloring of the mind toward what it wants and clings to.",
-  "notes": "The project prefers passion because it is broader than sexual desire and works well across the many doctrinal places where rāga functions as attachment, heat, and coloring. Attachment can be useful when the grasping dimension is more important than the emotional heat, but lust is too narrow for default use. The OSF glossary also keeps rāga broader than merely sexual desire, which supports the present default.",
+  "definition": "Passion or affective coloring that heats and inclines the mind toward its object.",
+  "notes": "The project keeps passion as the default because it preserves the heated, affectively colored force of rāga without reducing it to merely sexual lust. Attachment remains a controlled alternate when the sticking quality needs emphasis, and coloring remains available only when the text or explanation explicitly brings out that image. In this repository, rāga is not the same as taṇhā: taṇhā is ignorant wanting, whereas rāga is the passionate coloring or heat that accompanies attraction. It is also not the same as chanda, which can be wholesome or neutral, nor as nandī, which names relishing or delighting, nor as upādāna, which names appropriation or taking personally. The formula nandirāgasahagatā should preserve both relishing and passion instead of collapsing them into one English word. The OSF glossary supports keeping rāga broader than sexual desire, and MN 64 supports the liberation compounds and latent-tendency connections built from the term.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -21,22 +24,27 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose emphasizing clinging rather than heat or attraction",
+      "context": "In explanatory prose emphasizing sticking or adhesive pull rather than heat",
       "rendering": "attachment",
-      "notes": "Acceptable alternate."
+      "notes": "Acceptable alternate when the line wants the sticking dimension."
+    },
+    {
+      "context": "In close explanatory prose drawing out the image of the mind being tinged or dyed",
+      "rendering": "coloring",
+      "notes": "Use selectively; it is not the house default."
     }
   ],
   "related_terms": [
     "anusaya",
+    "chanda",
+    "chandaraga",
     "kama-raga",
     "kama-tanha",
     "lobha",
+    "nandi",
     "samyojana",
-    "saṃyojana",
     "tanha",
-    "taṇhā",
-    "viraga",
-    "virāga"
+    "viraga"
   ],
   "example_phrases": [
     {
@@ -48,31 +56,38 @@
     {
       "pali": "rāgānusaya",
       "translation": "the underlying tendency toward passion",
-      "notes": "Useful bridge to anusaya terminology.",
+      "notes": "Useful bridge to the residue family without collapsing the categories.",
       "source": "MN 64"
     }
   ],
   "sutta_references": [
-    "MN 64"
+    "MN 64",
+    "SN 56.11"
   ],
   "tags": [
     "mental-qualities",
     "core-doctrine",
-    "liberation"
+    "liberation",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current rāga policy."
+      "scope": "Supports keeping passion as the house default while blocking reduction of rāga to merely sexual lust."
+    },
+    {
+      "source": "MN 64",
+      "kind": "context-rule",
+      "scope": "Supports the liberation compound rāgakkhaya and the residue-family link rāgānusaya."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'passion' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use 'attachment' or 'coloring' only when the local line clearly needs that narrower shade. Do not collapse rāga into generic wanting, craving, or pleasure-language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'lust' or other unrecorded alternates."
+    "drift_risk": "Prevents rāga from collapsing into taṇhā-language, chanda-language, or generic lust language."
   }
 }

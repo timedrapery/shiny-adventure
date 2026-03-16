@@ -12,11 +12,12 @@
     "fuel"
   ],
   "discouraged_translations": [
-    "attachment"
+    "attachment",
+    "desire"
   ],
   "untranslated_preferred": false,
-  "definition": "Taking experience personally or ignorantly holding onto experience, views, habits, or identity.",
-  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. The OSF glossary's practical treatment of grasping and appropriation language supports preserving taking personally as the governed default in this family. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising, view-clinging, and self-doctrine contexts unless a compound or formula entry records a narrower rule. The wider family now follows a clearer inheritance pattern: diṭṭhupādāna defaults to taking views personally, attavādupādāna defaults to taking self-doctrine personally, while the heap-family compounds upādānakkhandha and pañcupādānakkhandhā remain fixed-expression overrides governed as clung-to heap and five clung-to heaps. SN 22.22 supports this family through the constituent clung-to-heap compounds.",
+  "definition": "Appropriation: taking experience, views, habits, or identity personally as I or mine.",
+  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. In this repository, upādāna must stay distinct from taṇhā: taṇhā is ignorant wanting, while upādāna is the step of taking personally or appropriating. It also differs from chanda, which can be wholesome, from rāga, which is passion or coloring, and from nandī, which is relishing or delighting. The wider family follows a stable inheritance pattern: diṭṭhupādāna defaults to taking views personally, attavādupādāna defaults to taking self-doctrine personally, while the heap-family compounds upādānakkhandha and pañcupādānakkhandhā remain fixed-expression overrides governed as clung-to heap and five clung-to heaps. The OSF glossary's practical treatment of appropriation supports preserving taking personally as the governed default in this family, and SN 22.22 supports the fixed heap-family compounds.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -56,38 +57,41 @@
     {
       "context": "In the fixed expression pañcupādānakkhandhā",
       "rendering": "clung-to",
-      "notes": "Use the whole-expression default five clung-to heaps unless the passage specifically needs the more explicit alternate five heaps taken personally."
+      "notes": "Use the whole-expression default five clung-to heaps unless the passage specifically needs the explicit alternate five heaps taken personally."
     }
   ],
   "related_terms": [
     "asmimana",
     "atta",
-    "attavādupādāna",
+    "attavadupadana",
     "bhava",
-    "diṭṭhupādāna",
+    "ditthupadana",
     "dukkha",
     "jati",
-    "jāti",
-    "kāmupādāna",
+    "kamupadana",
     "khandha",
     "lobha",
-    "nibbāna",
+    "nandi",
+    "nibbana",
     "pancupadanakkhandha",
-    "upadanakkhandha",
-    "paṭiccasamuppāda",
+    "paticcasamuppada",
+    "samsara",
     "sakkaya",
     "sakkaya-ditthi",
-    "saṃsāra",
     "silabbata-paramasa",
-    "sīlabbatupādāna",
-    "taṇhā",
+    "silabbatupadana",
+    "tanha",
+    "tanhapaccaya-upadana",
+    "upadana-nirodha",
+    "upadana-paccaya",
+    "upadanakkhandha",
     "upadhi"
   ],
   "example_phrases": [
     {
       "pali": "taṇhāpaccayā upādānaṃ",
       "translation": "with ignorant wanting as condition, taking personally",
-      "notes": "Key dependent-arising link.",
+      "notes": "Key dependent-arising link. Keep wanting and appropriation distinct.",
       "source": "SN 12.2"
     },
     {
@@ -116,7 +120,7 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded to govern the heap-family override in pañcupādānakkhandhā while preserving taking personally as the headword default elsewhere.",
+  "version_notes": "Strengthened to keep appropriation distinct from wanting, passion, and delight while preserving the fixed clung-to-heaps overrides.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -128,12 +132,17 @@
       "source": "SN 22.22",
       "kind": "compound-policy",
       "scope": "Supports fixed heap-family expressions built from upādāna and khandha."
+    },
+    {
+      "source": "SN 12.2",
+      "kind": "context-rule",
+      "scope": "Supports the dependent-arising pivot from taṇhā to upādāna without collapsing the two terms."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'taking personally' as the default rendering in the entry's governed translation contexts unless a recorded context rule or fixed expression overrides it.",
-    "when_not_to_apply": "Do not mechanically carry the headword default into upādānakkhandha or pañcupādānakkhandhā, where the whole compounds are governed as clung-to heap and five clung-to heaps.",
+    "when_not_to_apply": "Do not mechanically carry the headword default into upādānakkhandha or pañcupādānakkhandhā, where the whole compounds are governed as clung-to heap and five clung-to heaps. Do not replace upādāna with generic attachment language by habit.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between general appropriation language, the view and self-doctrine compounds, dependent-arising usage, and the fixed clung-to-heaps expressions."
+    "drift_risk": "Prevents drift between appropriation language, generic attachment language, dependent-arising usage, and the fixed clung-to-heaps expressions."
   }
 }

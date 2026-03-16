@@ -1,0 +1,39 @@
+{
+  "term": "yāyaṃ taṇhā ponobbhavikā",
+  "normalized_term": "ya-tanha-ponobbhavika",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "that taṇhā which leads to renewed becoming",
+  "preferred_translation": "that ignorant wanting that leads to renewed becoming",
+  "alternative_translations": [
+    "that craving that leads to renewed becoming"
+  ],
+  "discouraged_translations": [
+    "that desire that causes rebirth"
+  ],
+  "definition": "Opening segment of the classic four-truth definition of taṇhā.",
+  "notes": "Use this record when the stock formula is translated as a unit. Keep taṇhā distinct from generic desire-language and preserve the renewed-becoming force of ponobbhavikā.",
+  "related_terms": [
+    "nandi",
+    "nandiraga-sahagata",
+    "samudaya",
+    "tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī",
+      "translation": "that ignorant wanting that leads to renewed becoming, accompanied by relishing and passion, delighting here and there",
+      "notes": "Classic four-truth definition line.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "four-noble-truths",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

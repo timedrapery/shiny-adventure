@@ -39,6 +39,8 @@ All CLI scripts support `--help`.
   Audits the bondage-imagery cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/abandonment_sequence_cluster_report.py`
   Audits the abandonment / quenching / exhaustion cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
+- `python scripts/craving_appropriation_cluster_report.py`
+  Audits the craving / appropriation / affective-attachment cluster and can generate a glossary plus contrast sheet in `docs/generated/`.
 - `python scripts/policy_backfill_queue.py`
   Ranks major terms that should be prioritized for metadata backfill.
 

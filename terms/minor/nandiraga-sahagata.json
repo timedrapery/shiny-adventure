@@ -1,0 +1,40 @@
+{
+  "term": "nandirāgasahagatā",
+  "normalized_term": "nandiraga-sahagata",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "accompanied by nandī and rāga",
+  "preferred_translation": "accompanied by relishing and passion",
+  "alternative_translations": [
+    "accompanied by delighting and passion"
+  ],
+  "discouraged_translations": [
+    "accompanied by craving",
+    "accompanied by pleasure"
+  ],
+  "definition": "A stock phrase that coordinates nandī and rāga in the classic definition of taṇhā.",
+  "notes": "Use this record when the phrase appears as a whole. Keep nandī and rāga distinct in English rather than collapsing both into one generic word such as craving or desire.",
+  "related_terms": [
+    "nandi",
+    "raga",
+    "tanha",
+    "ya-tanha-ponobbhavika"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī",
+      "translation": "that ignorant wanting that leads to renewed becoming, accompanied by relishing and passion, delighting here and there",
+      "notes": "Classic four-truth definition line. Keep the coordinated terms audible.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "four-noble-truths",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

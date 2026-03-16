@@ -10,11 +10,12 @@
     "interest"
   ],
   "discouraged_translations": [
-    "craving"
+    "craving",
+    "attachment"
   ],
   "untranslated_preferred": false,
-  "definition": "A wanting or intentional inclination that can be wholesome, neutral, or unwholesome depending on context.",
-  "notes": "The project keeps desire as the default because the term really does name wanting, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically problematic. In clearly wholesome or practical contexts, motivation or interest may read better than desire in English. The OSF glossary confirms desire as the house default while preserving motivation and interest as context-sensitive alternates.",
+  "definition": "A wanting, intention, or directed interest that can be wholesome, neutral, or unwholesome depending on context.",
+  "notes": "The project keeps desire as the default because chanda really does name wanting or inclination, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically blameworthy. In wholesome practice contexts, chanda often names the willing engagement or intentional drive that supports cultivation, which is why motivation and interest remain controlled alternates. In this repository, chanda must stay distinct from taṇhā, which is ignorant wanting; from rāga, which is passion or affective coloring; from nandī, which is relishing or delighting; and from upādāna, which is appropriation or taking personally. Translators should not let English desire silently drift into craving by habit. The OSF glossary supports keeping desire as the house default while protecting wholesome and practice-facing uses from being pulled into the taṇhā family, and SN 51.13 supports the term's wholesome practical role in the bases of power.",
   "context_rules": [
     {
       "context": "In general doctrinal contexts where the term simply names wanting or inclination",
@@ -24,22 +25,28 @@
     {
       "context": "In wholesome practice contexts where English desire would sound misleadingly close to craving",
       "rendering": "motivation",
-      "notes": "Use when the sentence points to skillful initiative rather than grasping."
+      "notes": "Use when the sentence points to skillful initiative rather than restless wanting."
     },
     {
-      "context": "In lighter explanatory prose where the sense is one of willingness or engagement",
+      "context": "In lighter explanatory prose where the sense is one of willingness or directed engagement",
       "rendering": "interest",
-      "notes": "Acceptable alternate if it preserves the volitional feel."
+      "notes": "Acceptable alternate if the volitional pull remains audible."
+    },
+    {
+      "context": "In compounds or contexts already governed by a narrower negative framework such as kāmacchanda",
+      "rendering": "desire",
+      "notes": "Do not erase the lexical link, but let the narrower entry govern the actual force."
     }
   ],
   "related_terms": [
+    "chanda-iddhipada",
+    "chandaraga",
     "iddhipada",
-    "iddhipāda",
     "kamacchanda",
-    "kāmacchanda",
     "nekkhamma",
+    "nandi",
+    "raga",
     "tanha",
-    "taṇhā",
     "viriya"
   ],
   "example_phrases": [
@@ -52,7 +59,7 @@
     {
       "pali": "kusalachando",
       "translation": "wholesome desire",
-      "notes": "Useful reminder that the term is not synonymous with craving.",
+      "notes": "Useful reminder that the term is not synonymous with taṇhā.",
       "source": "SN 51.13"
     }
   ],
@@ -62,21 +69,28 @@
   "tags": [
     "core-doctrine",
     "core-practice",
-    "mental-qualities"
+    "mental-qualities",
+    "translation-sensitive",
+    "context-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping desire as the house default while preserving motivation and interest where wholesome practical initiative is emphasized."
+      "scope": "Supports keeping desire as the house default while preserving motivation and interest as controlled alternates in wholesome and practice-facing contexts."
+    },
+    {
+      "source": "SN 51.13",
+      "kind": "context-rule",
+      "scope": "Supports the wholesome practical use of chanda in the bases-of-power framework."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'desire' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use 'motivation' or 'interest' only when the wholesome or practical context clearly requires them. Do not collapse chanda into taṇhā, generic craving, or generic attachment language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'craving' or other unrecorded alternates."
+    "drift_risk": "Prevents wholesome and neutral chanda from collapsing into taṇhā-language while still preserving the desire-family connection."
   }
 }
