@@ -1,0 +1,81 @@
+{
+  "term": "tiṇṇa",
+  "normalized_term": "tinna",
+  "entry_type": "major",
+  "part_of_speech": "adjective",
+  "literal_meaning": "crossed, having crossed over",
+  "preferred_translation": "crossed over",
+  "alternative_translations": [
+    "gone beyond",
+    "got across"
+  ],
+  "discouraged_translations": [
+    "liberated",
+    "freed",
+    "escaped"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Accomplished crossing language: one who has crossed over or gotten to the other side.",
+  "notes": "The project keeps crossed over as the default because it preserves the completed-crossing force without dissolving the imagery into generic liberation language. Gone beyond remains a controlled alternate when the line is explicitly shore-oriented, and got across is acceptable in plainer explanatory prose. The OSF glossary supports preserving completed-crossing imagery where it blocks drift into generic liberation-language, and AN 4.5 supports tiṇṇa in a far-shore frame. In this repository, tiṇṇa differs from tarati: tarati is the act of crossing, while tiṇṇa is the accomplished state of having crossed. It also differs from vimutti and mutti, which name release or freedom rather than preserving the completed flood-crossing image. Where passages pair tiṇṇa with pāraṅgata or dry-land imagery, translators should let the completed crossing remain audible rather than rewriting the line into abstract spirituality.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and imagery-preserving contexts",
+      "rendering": "crossed over",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In shore-oriented formulas where the line stresses having gone beyond",
+      "rendering": "gone beyond",
+      "notes": "Allowed alternate when the far-shore image is explicit."
+    },
+    {
+      "context": "In concise explanatory prose where a lighter phrase is needed",
+      "rendering": "got across",
+      "notes": "Allowed alternate when the completed-crossing force remains clear."
+    }
+  ],
+  "related_terms": [
+    "nissarana",
+    "ogha",
+    "tinno-parangato",
+    "tarati",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo",
+      "translation": "the brahmin has crossed over, gone to the far shore, and stands on dry land",
+      "notes": "Shows tiṇṇa as accomplished crossing rather than generic release-language.",
+      "source": "AN 4.5"
+    }
+  ],
+  "sutta_references": [
+    "AN 4.5"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "bondage-imagery",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports preserving completed-crossing imagery where it blocks drift into generic liberation-language."
+    },
+    {
+      "source": "AN 4.5",
+      "kind": "context-rule",
+      "scope": "Supports tiṇṇa as accomplished crossing language paired with far-shore imagery."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'crossed over' as the default rendering in the entry's governed imagery and result contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'gone beyond' or 'got across' only when the local imagery clearly supports them. Do not flatten tiṇṇa into generic freedom, release, or escape language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents completed-crossing language from collapsing into the distinct escape and release families."
+  }
+}

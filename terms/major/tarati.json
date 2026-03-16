@@ -1,0 +1,81 @@
+{
+  "term": "tarati",
+  "normalized_term": "tarati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "crosses over, gets across",
+  "preferred_translation": "crosses over",
+  "alternative_translations": [
+    "gets across",
+    "crosses"
+  ],
+  "discouraged_translations": [
+    "escapes",
+    "is liberated",
+    "is free"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Crossing language that presents release as movement across a danger, flood, or difficult passage.",
+  "notes": "The project keeps crosses over as the default because it preserves the movement and imagery that tarati contributes, especially in flood contexts. Gets across remains a controlled alternate when English needs a lighter phrase, and crosses can be used when the object is already explicit nearby. The OSF glossary supports preserving concrete crossing imagery where it prevents drift into generic release-language, and SN 1.1 supports tarati in the flood-crossing frame. In this repository, tarati differs from nissaraṇa, which names the escape from something; from vimutti, which names release; and from tiṇṇa, which names the accomplished crossed-over state. Where ogha is present or implied, translators should resist flattening tarati into generic escape or freedom language, because the act of crossing is the doctrinal image doing the work.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and imagery-preserving contexts",
+      "rendering": "crosses over",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In concise English prose where the object being crossed is already explicit",
+      "rendering": "crosses",
+      "notes": "Allowed alternate when no imagery is lost."
+    },
+    {
+      "context": "In flood or stream contexts",
+      "rendering": "crosses over",
+      "notes": "Keep the crossing image explicit rather than reducing the verb to generic escape-language."
+    }
+  ],
+  "related_terms": [
+    "nissarana",
+    "ogha",
+    "ogham-atari",
+    "tinna",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kathaṃ nu tvaṃ, mārisa, ogham atari",
+      "translation": "how did you cross over the flood, my friend",
+      "notes": "Classic crossing-imagery question showing tarati in the flood framework.",
+      "source": "SN 1.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 1.1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "bondage-imagery",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports preserving concrete crossing imagery where it prevents drift into generic release-language."
+    },
+    {
+      "source": "SN 1.1",
+      "kind": "context-rule",
+      "scope": "Supports tarati as a flood-crossing verb rather than a generic escape or liberation verb."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'crosses over' as the default rendering in the entry's governed source-facing and imagery contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'gets across' or 'crosses' only when English flow clearly requires it. Do not flatten tarati into generic escape or liberation language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents crossing-language from collapsing into generic release-language and keeps the flood family audible on the release side."
+  }
+}

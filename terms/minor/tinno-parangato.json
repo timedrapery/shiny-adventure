@@ -1,0 +1,52 @@
+{
+  "term": "tiṇṇo pāraṅgato",
+  "normalized_term": "tinno-parangato",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "crossed over, gone to the far shore",
+  "preferred_translation": "crossed over, gone to the far shore",
+  "alternative_translations": [
+    "having crossed over, gone beyond"
+  ],
+  "discouraged_translations": [
+    "fully liberated",
+    "enlightened"
+  ],
+  "definition": "Accomplished-crossing formula that keeps the far-shore imagery explicit.",
+  "notes": "Use this record when tiṇṇa is paired with pāraṅgata or similar far-shore imagery. The phrase inherits the headword policy for tiṇṇa and should not be flattened into generic liberation-language.",
+  "context_rules": [
+    {
+      "context": "In direct translation of the accomplished-crossing phrase",
+      "rendering": "crossed over, gone to the far shore",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a slightly lighter result phrase is needed",
+      "rendering": "having crossed over, gone beyond",
+      "notes": "Allowed alternate when the far-shore image remains audible."
+    }
+  ],
+  "related_terms": [
+    "ogha",
+    "tarati",
+    "tinna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tiṇṇo pāraṅgato thale tiṭṭhati brāhmaṇo",
+      "translation": "the brahmin has crossed over, gone to the far shore, and stands on dry land",
+      "notes": "Classic accomplished-crossing image.",
+      "source": "AN 4.5"
+    }
+  ],
+  "sutta_references": [
+    "AN 4.5"
+  ],
+  "tags": [
+    "formula",
+    "bondage-imagery",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable"
+}

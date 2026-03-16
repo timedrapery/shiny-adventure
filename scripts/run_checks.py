@@ -23,6 +23,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Bondage / residue cluster", [sys.executable, "scripts/bondage_residue_cluster_report.py", "--strict"]),
     ("Bondage-imagery cluster", [sys.executable, "scripts/bondage_imagery_cluster_report.py", "--strict"]),
     ("Abandonment-sequence cluster", [sys.executable, "scripts/abandonment_sequence_cluster_report.py", "--strict"]),
+    ("Crossing / release interface cluster", [sys.executable, "scripts/crossing_release_interface_cluster_report.py", "--strict"]),
     ("Craving / appropriation cluster", [sys.executable, "scripts/craving_appropriation_cluster_report.py", "--strict"]),
     ("Kama cluster", [sys.executable, "scripts/kama_cluster_report.py", "--strict"]),
     ("Experience / process cluster", [sys.executable, "scripts/experience_process_cluster_report.py", "--strict"]),

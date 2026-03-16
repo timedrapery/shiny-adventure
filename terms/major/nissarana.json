@@ -1,0 +1,95 @@
+{
+  "term": "nissaraṇa",
+  "normalized_term": "nissarana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "escape, way out",
+  "preferred_translation": "escape",
+  "alternative_translations": [
+    "way out"
+  ],
+  "discouraged_translations": [
+    "liberation",
+    "freedom",
+    "release",
+    "exit"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The escape or way out from a conditioned entanglement, danger, or problematic framework.",
+  "notes": "The project keeps escape as the default because it preserves the directional out-from force without collapsing nissaraṇa into the broader release family. Way out remains a controlled alternate when explanatory prose needs plainer English, especially in gratification-danger-escape triads. The OSF glossary supports keeping this directional way-out force explicit, and SN 22.26 supports the stable assāda-ādīnava-nissaraṇa triad in relation to the five clung-to heaps. In this repository, nissaraṇa differs from vimutti: vimutti is release, whereas nissaraṇa is the escape from something. It also differs from vossagga, which is relinquishment by letting go; from tarati and tiṇṇa, which preserve crossing imagery; and from yogakkhema, which names security from the yoke rather than the way out from a specific danger. Translators should therefore resist flattening nissaraṇa into generic freedom or liberation language, especially in assāda-ādīnava-nissaraṇa formulas where the triad's directional logic matters.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and formula contexts",
+      "rendering": "escape",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the directional sense needs to stay very plain",
+      "rendering": "way out",
+      "notes": "Allowed alternate when the line benefits from it."
+    },
+    {
+      "context": "In formulas of the form assāda, ādīnava, nissaraṇa",
+      "rendering": "escape",
+      "notes": "Keep the triad stable rather than rotating among release-language alternatives."
+    },
+    {
+      "context": "When the text explicitly frames one as seeing the escape from a phenomenon",
+      "rendering": "escape from",
+      "notes": "Let the out-from structure stay audible in English."
+    }
+  ],
+  "related_terms": [
+    "mutti",
+    "nissarana-dhatu",
+    "pancupadanakkhandhesu-assado-adinavo-nissaranam",
+    "tarati",
+    "tinna",
+    "vimutti",
+    "yogakkhema"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
+      "translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "notes": "Standard doctrinal triad showing nissaraṇa as the directional way out.",
+      "source": "SN 22.26"
+    },
+    {
+      "pali": "vedanānaṃ assādo ca ādīnavo ca nissaraṇaṃ ca",
+      "translation": "the gratification, danger, and escape in relation to felt experience",
+      "notes": "Shows the same triad applying to the experience-process family.",
+      "source": "SN 36.6"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.26",
+    "SN 36.6"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping nissaraṇa distinct from broader release-language and preserving the directional way-out force."
+    },
+    {
+      "source": "SN 22.26",
+      "kind": "context-rule",
+      "scope": "Supports the stable gratification-danger-escape triad in relation to the five clung-to heaps."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'escape' as the default rendering in the entry's governed doctrinal and formula contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'way out' only when explanatory prose clearly benefits. Do not flatten nissaraṇa into generic freedom, liberation, or release language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the directional escape-family from collapsing into generic liberation-language or into the distinct crossing and security families."
+  }
+}

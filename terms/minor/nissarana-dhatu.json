@@ -1,14 +1,49 @@
 {
-  "normalized_term": "nissarana-dhatu",
   "term": "nissaraṇa-dhātu",
+  "normalized_term": "nissarana-dhatu",
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "element of escape",
   "preferred_translation": "element of escape",
-  "definition": "The element or mode of escape from bondage or entanglement.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "alternative_translations": [
+    "escape element"
   ],
-  "status": "reviewed"
+  "discouraged_translations": [
+    "liberation element",
+    "freedom element"
+  ],
+  "definition": "A compound that carries the nissaraṇa family into dhātu-language without changing the governing escape logic.",
+  "notes": "Use this record when a text explicitly names an element or domain of escape. The compound inherits the headword policy for nissaraṇa and should not be rewritten into generic liberation-language.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the compound",
+      "rendering": "element of escape",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose where the compound order is smoother in English",
+      "rendering": "escape element",
+      "notes": "Allowed alternate when the line reads more naturally that way."
+    }
+  ],
+  "related_terms": [
+    "nissarana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nissaraṇa-dhātu",
+      "translation": "element of escape",
+      "notes": "Compound governed by the nissaraṇa headword.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable"
 }
