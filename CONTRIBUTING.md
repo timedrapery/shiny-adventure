@@ -15,13 +15,13 @@ Read these documents in order:
 3. [docs/development-guide.md](docs/development-guide.md)
 4. [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
 5. [STYLE_GUIDE.md](STYLE_GUIDE.md)
-6. [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
-7. [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md)
-8. [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
-9. [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
+6. [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
+7. [docs/data-dictionary.md](docs/data-dictionary.md)
+8. [docs/term-entry-standard.md](docs/term-entry-standard.md)
+9. [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
 
-If you are editing compounds or recurring formulas, also read [docs/HEADWORD_COMPOUND_FORMULA_POLICY.md](docs/HEADWORD_COMPOUND_FORMULA_POLICY.md).
-If you are changing review status on a major entry, also read [docs/REVIEW_STATUS_MODEL.md](docs/REVIEW_STATUS_MODEL.md).
+If you are editing compounds or recurring formulas, also read [docs/headword-compound-formula-policy.md](docs/headword-compound-formula-policy.md).
+If you are changing review status on a major entry, also read [docs/review-status-model.md](docs/review-status-model.md).
 
 ## Choose The Right Contribution Path
 
@@ -45,6 +45,7 @@ Typical contributions include:
 - Use `notes`, `context_rules`, and `translation_policy` to make important decisions explicit.
 - When editing a major term, review linked compounds, formulas, and related terms in the same family.
 - Keep filenames ASCII-safe and aligned with `normalized_term`.
+- Use lowercase-kebab-case for Markdown files in `docs/`.
 - Use UTF-8 encoding and preserve full Pali diacritics in `term`, examples, and documentation.
 
 ## Workflow
@@ -122,8 +123,8 @@ Before opening a pull request, confirm:
 - the JSON is valid
 - the entry matches [schema/PALI_TERM_SCHEMA.json](schema/PALI_TERM_SCHEMA.json)
 - the wording matches [STYLE_GUIDE.md](STYLE_GUIDE.md)
-- authority-sensitive changes respect [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
-- tags and status values match [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
+- authority-sensitive changes respect [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
+- tags and status values match [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
 - major-entry edits include enough rationale to prevent drift later
 
 Recommended commands:

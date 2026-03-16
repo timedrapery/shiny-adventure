@@ -90,7 +90,7 @@ When promoting a candidate into a real term entry:
 1. confirm the headword spelling and normalization
 2. check whether the candidate is already covered under a different spelling
 3. decide whether it belongs as a `major` or `minor` entry
-4. follow `STYLE_GUIDE.md`, `docs/TERM_ENTRY_STANDARD.md`, and `docs/HEADWORD_COMPOUND_FORMULA_POLICY.md`
+4. follow `STYLE_GUIDE.md`, `docs/term-entry-standard.md`, and `docs/headword-compound-formula-policy.md`
 5. document any real translation decision explicitly rather than inheriting it from extraction output
 
 ## Suggested First Corpus

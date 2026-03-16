@@ -16,6 +16,8 @@ All CLI scripts support `--help`.
   Runs editorial lint checks against live term data.
 - `python scripts/check_translation_drift.py`
   Detects translation drift across related terms and policy-bearing records.
+- `python scripts/term_directory_navigation.py --check`
+  Verifies that the generated major/minor term navigation indexes are present and current.
 - `python scripts/dependent_arising_cluster_report.py`
   Audits the dependent-arising cluster and can generate translator-facing outputs.
 
@@ -27,6 +29,8 @@ All CLI scripts support `--help`.
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`
   Checks the dependent-arising cluster surface and writes glossary, formula-sheet, brief, and consistency outputs into `docs/generated/`.
+- `python scripts/term_directory_navigation.py --write-docs`
+  Generates navigation indexes for the flat `terms/major/` and `terms/minor/` directories.
 - `python scripts/draft_major_review_queue.py`
   Reports the current queue of draft major entries still awaiting an editorial pass.
 - `python scripts/five_heaps_cluster_report.py`

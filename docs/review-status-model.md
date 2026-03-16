@@ -2,7 +2,7 @@
 
 This document explains how major term entries move from `draft` to `reviewed` to `stable`.
 
-It does not replace [TAG_STATUS_VOCABULARY.md](TAG_STATUS_VOCABULARY.md). It turns that vocabulary into an operational workflow so status values remain meaningful across the repository.
+It does not replace [tag-status-vocabulary.md](tag-status-vocabulary.md). It turns that vocabulary into an operational workflow so status values remain meaningful across the repository.
 
 ## Purpose
 

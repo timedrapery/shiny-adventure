@@ -59,6 +59,17 @@ class CheckDocsIntegrityTests(unittest.TestCase):
 
         self.assertIn("Missing required repository file: CITATION.cff", failures)
 
+    def test_collect_docs_naming_failures_reports_non_kebab_case_docs(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            write_required_repo_files(repo_root)
+            (repo_root / "docs" / "BAD_NAME.md").write_text("# Bad\n", encoding="utf-8")
+
+            failures = check_docs_integrity.collect_docs_naming_failures(repo_root)
+
+        self.assertEqual(len(failures), 1)
+        self.assertIn("lowercase-kebab-case", failures[0])
+
     def test_main_reports_success_for_clean_repo(self) -> None:
         output = io.StringIO()
         with tempfile.TemporaryDirectory() as tmpdir:

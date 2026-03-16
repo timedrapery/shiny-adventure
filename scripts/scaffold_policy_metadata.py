@@ -20,7 +20,7 @@ TERMS_DIR = REPO_ROOT / "terms"
 PLACEHOLDER_WARNING_LINES = (
     "WARNING: scaffold_policy_metadata.py writes placeholder policy text.",
     "Fill every placeholder before merging or treating the entry as review-ready.",
-    "See docs/TERM_ENTRY_STANDARD.md and docs/OSF_EDITORIAL_AUTHORITY.md for completion rules.",
+    "See docs/term-entry-standard.md and docs/osf-editorial-authority.md for completion rules.",
 )
 
 

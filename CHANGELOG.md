@@ -15,7 +15,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added a workflow issue template for documentation, reporting, and contributor-experience gaps.
 - Added `scripts/draft_major_review_queue.py` to keep remaining draft major entries visible as an explicit review queue.
 - Added `scripts/check_docs_integrity.py` to validate internal Markdown links and required repository-surface metadata files.
-- Added [docs/REVIEW_STATUS_MODEL.md](docs/REVIEW_STATUS_MODEL.md) to define how major entries move from draft to reviewed to stable.
+- Added [docs/review-status-model.md](docs/review-status-model.md) to define how major entries move from draft to reviewed to stable.
 
 ### Changed
 

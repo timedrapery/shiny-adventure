@@ -10,10 +10,10 @@ not to build a large taxonomy too early.
 
 Use this document alongside:
 
-- `docs/DATA_DICTIONARY.md`
-- `docs/TERM_ENTRY_STANDARD.md`
+- `docs/data-dictionary.md`
+- `docs/term-entry-standard.md`
 - `STYLE_GUIDE.md`
-- `docs/REVIEW_STATUS_MODEL.md`
+- `docs/review-status-model.md`
 
 ---
 
@@ -292,7 +292,7 @@ Typical signs:
 - Use `reviewed` for solid entries that may still evolve.
 - Use `stable` only when you would be comfortable reusing the entry across the project today.
 
-For the operational workflow behind these labels, see `docs/REVIEW_STATUS_MODEL.md`.
+For the operational workflow behind these labels, see `docs/review-status-model.md`.
 
 ---
 

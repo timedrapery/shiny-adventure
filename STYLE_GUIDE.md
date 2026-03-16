@@ -11,7 +11,7 @@ The style guide exists to keep the lexicon:
 - internally consistent
 - explicit about exceptions
 
-Authority order is defined separately in [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md).
+Authority order is defined separately in [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md).
 
 ## Core Principles
 

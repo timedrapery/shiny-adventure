@@ -15,8 +15,8 @@ It serves as the canonical reference for:
 Use this document alongside:
 
 - `schema/PALI_TERM_SCHEMA.json`
-- `docs/TERM_ENTRY_STANDARD.md`
-- `docs/TAG_STATUS_VOCABULARY.md`
+- `docs/term-entry-standard.md`
+- `docs/tag-status-vocabulary.md`
 - `STYLE_GUIDE.md`
 
 ---
@@ -467,7 +467,7 @@ Possible tags include:
 Notes:
 
 - Tags help with navigation and tooling.
-- Use the standard vocabulary in `docs/TAG_STATUS_VOCABULARY.md` rather than inventing near-duplicates.
+- Use the standard vocabulary in `docs/tag-status-vocabulary.md` rather than inventing near-duplicates.
 
 ---
 
