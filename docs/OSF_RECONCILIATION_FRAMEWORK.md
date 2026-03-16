@@ -14,7 +14,8 @@ This reconciliation layer uses the repository's existing authority order:
 2. OSF house materials such as the OSF glossary and *What Is And Is Not The Path*
 3. Dhammarato house-facing materials
 4. Buddhadasa-line doctrinal and practical framing
-5. lower-priority outside-source profiles
+5. first external practical checkpoint profiles such as Punnaji
+6. other outside-source profiles when needed
 
 The point is not to treat every OSF-facing phrase as a new default.
 The point is to classify what each in-house source is actually doing.
@@ -68,15 +69,24 @@ The repository preserves a strict difference between:
 - translator-facing prose
 
 Useful OSF explanation may be preserved without becoming the lexicon default.
+Useful practical external clarification may also be preserved the same way.
 
 Examples:
 
 - `sati` can tolerate awareness-language in rough OSF coaching prose only when
   the recollective function remains explicit.
+- `animitta` can tolerate explanatory without-sign language or practical notes
+  about not fastening on perceptual signs without losing `signless` as the default.
+- `appaṇihita` can tolerate explanatory without-placing-desire language without
+  drifting into apathy or no-goals rhetoric.
 - `nibbāna` can preserve cooling or coolness as explanatory OSF/Buddhadasa
   language without losing the untranslated default.
+- `nibbāna` can also tolerate narrower practical serenity-language in external
+  pedagogical explanation without losing the untranslated default.
 - `nirodha` can tolerate ending or cessation in named OSF explanatory frames
   without losing `quenching` as the house default.
+- `vimutti` can tolerate liberation or emancipation in controlled explanatory
+  frames without losing `release` as the default.
 - practice notes about gladdening the mind may be preserved without collapsing
   doctrinal distinctions among `citta`, `mano`, `nīvaraṇa`, `āsava`, and other
   already-stabilized families.
@@ -95,9 +105,11 @@ controlled alternate or refuse it as drift.
 
 ## Current Reconciliation Focus
 
-The first reviewed OSF reconciliation surface covers:
+The current reviewed OSF reconciliation surface covers:
 
 - `suññatā`
+- `animitta`
+- `appaṇihita`
 - `nibbāna`
 - `nirodha`
 - `sati`

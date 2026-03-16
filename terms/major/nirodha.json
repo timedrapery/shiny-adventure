@@ -19,7 +19,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. Dhammarato-facing and rough OSF glossary materials do use stopping, ceasing, ending, and cessation language for nirodha, and those are valuable explanatory surfaces. But the matured repository default remains quenching because it preserves the doctrinal distinction from khaya and keeps the fire-stopping side audible. Buddhadasa strongly supports quenching, stopping, and cooling imagery, while What Is And Is Not The Path supports immediate practical ending-language in dukkha-nirodha explanation. The repository therefore tolerates cessation and ending as controlled OSF-facing alternates in named explanatory frames, but explicitly refuses drift back to loose generic cessation as the ungoverned default across linked `-nirodha` compounds and formulas. In this repository, nirodha must stay distinct from khaya as wearing away, from pahāna as abandoning, and from virāga as fading.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. Dhammarato-facing and rough OSF glossary materials do use stopping, ceasing, ending, and cessation language for nirodha, and those are valuable explanatory surfaces. But the matured repository default remains quenching because it preserves the doctrinal distinction from khaya and keeps the fire-stopping side audible. Buddhadasa strongly supports quenching, stopping, and cooling imagery, while What Is And Is Not The Path supports immediate practical ending-language in dukkha-nirodha explanation. Punnaji's practical materials add discontinuity as a controlled pedagogical alternate in certain meditative explanations, but not as a reason to displace the house default. The repository therefore tolerates cessation and ending as controlled OSF-facing alternates in named explanatory frames, but explicitly refuses drift back to loose generic cessation as the ungoverned default across linked `-nirodha` compounds and formulas. In this repository, nirodha must stay distinct from khaya as wearing away, from pahāna as abandoning, and from virāga as fading.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -121,6 +121,12 @@
       "priority": "buddhadasa",
       "kind": "preferred-translation",
       "scope": "Supports quenching and stopping imagery for nirodha."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "context-rule",
+      "scope": "Supports discontinuity as a narrow practical alternate without displacing quenching as the default."
     }
   ],
   "translation_policy": {

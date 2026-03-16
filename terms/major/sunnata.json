@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Emptiness, especially emptiness of self and what belongs to self, governed as one member of the emptiness / signless / wishless interface.",
-  "notes": "The repository keeps emptiness as the default because the OSF glossary already aligns there and because it is the clearest translator-facing doctrinal noun in English. Voidness remains a controlled Buddhadasa-line alternate when void mind or voidness language is the actual pedagogical emphasis, especially in practical prose about a mind empty of selfing and appropriation. In this repository, suññatā is not a mystical absolute and not a nihilistic claim that nothing exists. It is governed by anti-self and anti-clinging logic: the relevant emptiness is emptiness of self and of what belongs to self. That gives suññatā a different doctrinal job from anattā. Anattā is the predicate not-self used to deny self-identification and ownership; suññatā names the emptiness-side mode or designation seen when selfing and appropriation are absent. It also differs from animitta and appaṇihita: animitta governs the signless side, where signs are not taken up, while appaṇihita governs the wishless side, where desire is not placed toward an object or outcome. The OSF glossary and Buddhadasa usage profile both support this practical, non-metaphysical reading, while Dhammarato-facing emptiness language reinforces its here-now applicability. Translators should therefore preserve emptiness as the default, tolerate voidness as a controlled OSF-facing alternate, and explicitly refuse drift toward nihilism, mystical oneness, or vague spiritual abstraction.",
+  "notes": "This is an ALIGN case in the OSF reconciliation pass. The repository keeps emptiness as the default because the OSF glossary already aligns there and because it is the clearest translator-facing doctrinal noun in English. Voidness remains a controlled Buddhadasa-line alternate when void mind or voidness language is the actual pedagogical emphasis, especially in practical prose about a mind empty of selfing and appropriation. In this repository, suññatā is not a mystical absolute and not a nihilistic claim that nothing exists. It is governed by anti-self and anti-clinging logic: the relevant emptiness is emptiness of self and of what belongs to self. That gives suññatā a different doctrinal job from anattā. Anattā is the predicate not-self used to deny self-identification and ownership; suññatā names the emptiness-side mode or designation seen when selfing and appropriation are absent. It also differs from animitta and appaṇihita: animitta governs the signless side, where signs are not taken up, while appaṇihita governs the wishless side, where desire is not placed toward an object or outcome. The OSF glossary and Buddhadasa usage profile both support this practical, non-metaphysical reading, while Dhammarato-facing emptiness language reinforces its here-now applicability. Punnaji's practical materials reinforce that emptiness can be handled as a higher but non-mystical teaching and, in explanation, as the quieting or emptying of selfing rather than as metaphysical nothingness. Translators should therefore preserve emptiness as the default, tolerate voidness as a controlled OSF-facing alternate, and explicitly refuse drift toward nihilism, mystical oneness, or vague spiritual abstraction.",
   "context_rules": [
     {
       "context": "In most doctrinal and translator-facing contexts",
@@ -42,6 +42,11 @@
       "context": "In the coordinated emptiness / signless / wishless family and its named compounds",
       "rendering": "emptiness",
       "notes": "Keep suññatā distinct from animitta and appaṇihita rather than flattening the whole family into one contemplative blur."
+    },
+    {
+      "context": "In Punnaji-style practical explanation that stresses a higher but non-mystical emptiness teaching",
+      "rendering": "emptiness",
+      "notes": "Keep the default while allowing a practical note about quieting or emptying selfing."
     }
   ],
   "related_terms": [
@@ -95,6 +100,12 @@
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Supports voidness and void-mind language as controlled practical alternates rather than replacements for the default."
+    },
+    {
+      "source": "Punnaji usage profile",
+      "priority": "external",
+      "kind": "rationale",
+      "scope": "Supports a practical non-mystical handling of emptiness without displacing the default."
     }
   ],
   "translation_policy": {
