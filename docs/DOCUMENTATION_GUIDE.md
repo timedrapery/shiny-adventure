@@ -66,6 +66,7 @@ Then move into the editorial rules that govern live term data:
 - [`DHAMMARATO_CHANTING_PROFILE.md`](DHAMMARATO_CHANTING_PROFILE.md)
 - [`BUDDHADASA_USAGE_PROFILE.md`](BUDDHADASA_USAGE_PROFILE.md)
 - [`PUNNAJI_USAGE_PROFILE.md`](PUNNAJI_USAGE_PROFILE.md)
+- [`HILLSIDE_NYANAMOLI_USAGE_PROFILE.md`](HILLSIDE_NYANAMOLI_USAGE_PROFILE.md)
 
 These profiles support notes, context rules, alternates, and authority reasoning. They do not override house policy on their own unless the repository has made that decision explicitly.
 

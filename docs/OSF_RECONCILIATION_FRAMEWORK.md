@@ -14,7 +14,8 @@ This reconciliation layer uses the repository's existing authority order:
 2. OSF house materials such as the OSF glossary and *What Is And Is Not The Path*
 3. Dhammarato house-facing materials
 4. Buddhadasa-line doctrinal and practical framing
-5. first external practical checkpoint profiles such as Punnaji
+5. first external practical checkpoint profiles such as Punnaji and the
+   Hillside / Ñāṇamoli stream
 6. other outside-source profiles when needed
 
 The point is not to treat every OSF-facing phrase as a new default.
