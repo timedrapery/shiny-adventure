@@ -1,0 +1,54 @@
+{
+  "term": "yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ",
+  "normalized_term": "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
+  "preferred_translation": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
+  "alternative_translations": [
+    "whatever form ... feeling ... perception ... formations ... consciousness"
+  ],
+  "discouraged_translations": [
+    "whatever body ... emotion ... concept ... volitional formations ... awareness"
+  ],
+  "definition": "Canonical pattern used to run the same analytical and not-self treatment across all five heaps.",
+  "notes": "Use this record when the text is applying one coordinated formula across the five heaps. The phrase keeps the family in one voice and explicitly carries the heap-context override for saṅkhārā as putting-together activities. Comparative aggregate-language remains available for explanation, but direct translation should follow the house defaults of the coordinated family.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the canonical five-heap pattern",
+      "rendering": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using familiar aggregate terminology",
+      "rendering": "whatever form ... feeling ... perception ... formations ... consciousness",
+      "notes": "Allowed alternate for orientation."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "khandha",
+    "rupa",
+    "sanna",
+    "sankhara",
+    "vedana",
+    "vinnana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ ... yaṃ kiñci viññāṇaṃ atītānāgatapaccuppannaṃ",
+      "translation": "whatever form there is, past, future, or present ... whatever knowing there is, past, future, or present",
+      "notes": "Canonical five-heap pattern used in the not-self discourse.",
+      "source": "SN 22.59"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.59"
+  ],
+  "tags": [
+    "aggregates",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

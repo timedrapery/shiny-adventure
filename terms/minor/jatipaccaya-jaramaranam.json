@@ -1,0 +1,58 @@
+{
+  "term": "jātipaccayā jarāmaraṇaṃ",
+  "normalized_term": "jatipaccaya-jaramaranam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with jāti as condition, jarāmaraṇa",
+  "preferred_translation": "with birth as condition, ageing and dying",
+  "definition": "Closing forward-link line in the dependent-arising sequence.",
+  "notes": "Use this record for the whole line. It keeps the terminal link of the chain stable and aligned with the repository's updated handling of jāti as birth by default in the formula. The Buddhadasa usage profile supports keeping the terminal formula line open to practical and immediate dependent-arising readings.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with birth as condition, ageing and dying",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When the surrounding passage is explicitly using rebirth as a controlled alternate for jāti",
+      "rendering": "with rebirth as condition, ageing and dying",
+      "notes": "Use only when that narrower doctrinal frame is already governing the passage."
+    }
+  ],
+  "related_terms": [
+    "jarāmaraṇa",
+    "jāti",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jātipaccayā jarāmaraṇaṃ",
+      "translation": "with birth as condition, ageing and dying",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "compound-policy",
+      "scope": "Supports keeping the terminal formula line open to practical and immediate dependent-arising readings."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard closing line of the forward chain.",
+    "when_not_to_apply": "Do not switch to a narrower rebirth reading unless the surrounding passage already requires it.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the terminal formula from inheriting an undocumented narrowing of jāti."
+  }
+}

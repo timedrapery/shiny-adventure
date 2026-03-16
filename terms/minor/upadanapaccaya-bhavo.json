@@ -1,0 +1,58 @@
+{
+  "term": "upādānapaccayā bhavo",
+  "normalized_term": "upadanapaccaya-bhavo",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with upādāna as condition, bhava",
+  "preferred_translation": "with taking personally as condition, becoming",
+  "definition": "Forward-link line connecting upādāna and bhava.",
+  "notes": "Use this record for the whole line. It keeps the appropriative force of upādāna tied to the processive force of bhava at a key doctrinal transition. The Buddhadasa usage profile supports keeping the line processive and practically readable rather than static and metaphysical.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with taking personally as condition, becoming",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for upādāna is already in use",
+      "rendering": "with clinging as condition, becoming",
+      "notes": "Use only when the surrounding frame explicitly requires that alternate."
+    }
+  ],
+  "related_terms": [
+    "bhava",
+    "paccaya",
+    "paṭiccasamuppāda",
+    "upādāna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "upādānapaccayā bhavo",
+      "translation": "with taking personally as condition, becoming",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "compound-policy",
+      "scope": "Supports keeping the line processive and practically readable rather than static and metaphysical."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking upādāna and bhava in the forward chain.",
+    "when_not_to_apply": "Do not flatten bhava into a static state of existence in this formula slot without a documented reason.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents drift from appropriation into abstract existence language."
+  }
+}

@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The view that takes the heaps, or something among them, as self, as belonging to self, or as a real personal identity.",
-  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five heaps, and therefore as directly tied to not-self understanding and the first breakthrough of a stream-enterer. The OSF glossary confirms identity view as the house default and preserves personality view as the comparative alternate.",
+  "notes": "The project keeps identity view as the default because it is clear and stable without sounding too psychologized. Personality view remains a familiar alternate in comparative prose, but it is less precise for the practical function of the fetter. This term should be heard as mistaken self-identification built on the five clung-to heaps, and therefore as directly tied to sakkāya, upādāna, attā, anattā, and the first breakthrough of a stream-enterer. The OSF glossary confirms identity view as the house default and preserves personality view as the comparative alternate. SN 22.89 and the wider heap formulas support keeping the term tied to appropriation of the heaps rather than to a vague modern sense of personality.",
   "context_rules": [
     {
       "context": "In fetter lists and liberation-stage analysis",
@@ -30,18 +30,26 @@
       "context": "In explanatory prose emphasizing appropriation of the heaps as self",
       "rendering": "self-identification view",
       "notes": "Use when the practical error of identification needs to be explicit."
+    },
+    {
+      "context": "When the passage works directly from the equation of sakkāya with the five clung-to heaps",
+      "rendering": "identity view",
+      "notes": "Keep the translation short and let sakkāya and heap-family notes carry the structural explanation."
     }
   ],
   "related_terms": [
-    "anattā",
-    "attavādupādāna",
-    "diṭṭhi",
-    "diṭṭhupādāna",
+    "anatta",
+    "atta",
+    "attavadupadana",
+    "ditthi",
+    "ditthupadana",
     "khandha",
-    "saṃyojana",
+    "pancupadanakkhandha",
+    "sakkaya",
+    "samyojana",
     "silabbata-paramasa",
-    "sotāpanna",
-    "upādāna"
+    "sotapanna",
+    "upadana"
   ],
   "example_phrases": [
     {
@@ -55,32 +63,46 @@
       "translation": "one regards form as self",
       "notes": "Typical pattern of the view's operation.",
       "source": "SN 22.59"
+    },
+    {
+      "pali": "pañcupādānakkhandhā sakkāyo",
+      "translation": "the five clung-to heaps are identity",
+      "notes": "Background equation that governs the term's doctrinal setting.",
+      "source": "SN 22.105"
     }
   ],
   "sutta_references": [
     "SN 22.59",
+    "SN 22.89",
+    "SN 22.105",
     "MN 118",
     "SN 55.3"
   ],
   "tags": [
     "core-doctrine",
     "liberation",
-    "translation-sensitive"
+    "translation-sensitive",
+    "self-view"
   ],
   "status": "stable",
-  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry governing identity-view language in fetter and stream-entry contexts.",
+  "version_notes": "Expanded to anchor identity-view language more explicitly in the five clung-to heaps and the sakkāya family.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping identity view as the house default in stream-entry and fetter analysis, with personality view retained as a comparative alternate."
+    },
+    {
+      "source": "SN 22.89",
+      "kind": "context-rule",
+      "scope": "Supports the heap-based operation of identity view and its practical abandonment."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'identity view' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not replace the term with 'ego' or let it drift into vague personality-language untethered from appropriation of the heaps.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'ego' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between sakkāya-diṭṭhi, sakkāya, and the five clung-to heaps."
   }
 }

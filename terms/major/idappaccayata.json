@@ -13,8 +13,8 @@
     "fate"
   ],
   "untranslated_preferred": false,
-  "definition": "The lawful conditionality by which, when this is, that comes to be.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Conditionality remains the default because it is the cleanest reusable English rendering, but the repository now treats idappaccayatā as a core OSF doctrinal key rather than a minor supporting technicality.",
+  "definition": "The lawful conditionality by which, when this is, that comes to be and, with its quenching, that ceases.",
+  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Conditionality remains the default because it is the cleanest reusable English rendering, but the repository now treats idappaccayatā as a core OSF doctrinal key rather than a minor supporting technicality. The term should govern the four standard conditionality lines rather than sit beside them as a loose abstraction. Translators should therefore keep idappaccayatā, paccaya, and the imasmiṃ sati / imassa nirodhā formulas in one coherent voice.",
   "context_rules": [
     {
       "context": "In most doctrinal discussion",
@@ -32,9 +32,9 @@
       "notes": "Notes may explicitly describe it as the natural law behind dependent arising."
     },
     {
-      "context": "In Buddhadasa-line explanation of the natural law behind dependent arising",
+      "context": "In formula-focused discussion of the four standard conditionality lines",
       "rendering": "conditionality",
-      "notes": "Primary-source-backed default within the OSF line."
+      "notes": "Use the same voice as the companion formula records."
     },
     {
       "context": "In explanatory prose focused on the literal structure of this conditioned by this",
@@ -44,6 +44,8 @@
   ],
   "related_terms": [
     "dhamma",
+    "imassa-nirodha-idam-nirujjhati",
+    "imasmim-sati-idam-hoti",
     "nidana",
     "paccaya",
     "paṭiccasamuppāda"
@@ -54,10 +56,17 @@
       "translation": "when this is, this comes to be",
       "notes": "Core formula of conditionality.",
       "source": "SN 12.2"
+    },
+    {
+      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "translation": "with the quenching of this, this ceases",
+      "notes": "Companion formula showing the quenching side of conditionality.",
+      "source": "SN 12.61"
     }
   ],
   "sutta_references": [
-    "SN 12.2"
+    "SN 12.2",
+    "SN 12.61"
   ],
   "tags": [
     "core-doctrine",
@@ -70,12 +79,18 @@
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Named in notes as support for the current idappaccayatā policy."
+    },
+    {
+      "source": "OSF editorial authority",
+      "priority": "osf-house",
+      "kind": "context-rule",
+      "scope": "Supports treating Buddhadasa as primary guidance for dependent-arising and conditionality language in this doctrinal family."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'conditionality' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not separate this entry from the standard imasmiṃ sati and imassa nirodhā formulas when working in dependent-arising contexts.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'fate' or other unrecorded alternates."
+    "drift_risk": "Prevents idappaccayatā from being treated as an abstract side-note instead of the governing conditionality behind the formula family."
   }
 }

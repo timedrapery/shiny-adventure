@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Pleasant, unpleasant, or mixed felt experience; the affective tone through which experience is known.",
-  "notes": "The project uses felt experience as the house default. The literal force is causing to know, while the translation keeps the term readable and broad enough to cover pleasant, unpleasant, and mixed feeling. Feeling, feeling tone, and sensation remain acceptable alternates depending on context, but the term should be heard as immediate affective experience and as a crucial turning point in the dependent-arising sequence, not as a fully elaborated emotional state. The OSF glossary explains vedanā as feeling or sensation arising from contact, which supports the repository's insistence that the term stay tied to immediate affective experience rather than emotion. In aggregate analysis, vedanā is the second of the five aggregates. Translators should not default to emotion, and they should keep the contact-to-felt-experience-to-ignorant-wanting sequence stable when translating dependent arising.",
+  "notes": "The project uses felt experience as the house default. The literal force is causing to know, while the translation keeps the term readable and broad enough to cover pleasant, unpleasant, and mixed feeling. Feeling, feeling tone, and sensation remain acceptable alternates depending on context, but the term should be heard as immediate affective experience and as a crucial turning point in the dependent-arising sequence, not as a fully elaborated emotional state. The OSF glossary explains vedanā as feeling or sensation arising from contact, which supports the repository's insistence that the term stay tied to immediate affective experience rather than emotion. In the five-heaps family, vedanā is the second heap and should stay coordinated with recognition, putting-together activities, and knowing rather than drifting back to emotion-language. Translators should not default to emotion, and they should keep the same default stable across both dependent-arising and heap contexts. SN 22.59 supports the standard heap and not-self use of this default.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -33,23 +33,28 @@
       "notes": "Keep the term simple and immediate rather than psychologizing it."
     },
     {
-      "context": "In aggregate analysis",
+      "context": "In vedanākkhandha and canonical heap enumeration",
       "rendering": "felt experience",
-      "notes": "Vedanā is the second of the five aggregates."
+      "notes": "Keep the heap family aligned with the headword default instead of reverting to plain feeling by habit."
     }
   ],
   "related_terms": [
     "khandha",
-    "nāmarūpa",
-    "paṭiccasamuppāda",
+    "namarupa",
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "paticcasamuppada",
     "phassa",
     "phassa-ahara",
-    "rūpa",
-    "saḷāyatana",
+    "rupa",
+    "salayatana",
+    "sanna",
     "satipatthana",
     "sukha",
-    "taṇhā",
-    "vinnana"
+    "tanha",
+    "vedanakkhandha",
+    "vinnana",
+    "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
   ],
   "example_phrases": [
     {
@@ -63,31 +68,44 @@
       "translation": "pleasant felt experience",
       "notes": "Simple subtype example.",
       "source": "SN 36.1"
+    },
+    {
+      "pali": "yaṃ kiñci vedanā",
+      "translation": "whatever felt experience",
+      "notes": "Canonical heap enumeration and not-self pattern.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
     "SN 12.2",
+    "SN 22.59",
     "SN 36.1"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
-    "aggregates"
+    "aggregates",
+    "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to preserve the dependent-arising pivot from contact to taṇhā and to block emotionalized over-translation.",
+  "version_notes": "Strengthened to preserve one stable default across both dependent-arising and heap-family usage while blocking emotion-language drift.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports feeling and sensation-from-contact framing while preserving felt experience as the house default for vedanā."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports keeping the same default in the heap-family and not-self formulas."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'felt experience' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not let emotion become the default, and do not split the dependent-arising and heap-family uses into different unstated English equivalents.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'emotion' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between felt-experience language, emotion-language, and plain feeling-language in the vedanā family."
   }
 }

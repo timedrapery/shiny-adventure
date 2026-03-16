@@ -3,11 +3,62 @@
   "normalized_term": "vedanakkhandha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "feeling heap",
-  "definition": "The feeling heap within the five-heap analysis of experience.",
-  "status": "reviewed",
-  "literal_meaning": "heap of feeling",
+  "literal_meaning": "heap of felt experience",
+  "preferred_translation": "felt-experience heap",
+  "alternative_translations": [
+    "feeling heap"
+  ],
+  "discouraged_translations": [
+    "emotion heap"
+  ],
+  "definition": "The second of the five heaps: felt experience considered as one member of the coordinated heap family.",
+  "notes": "This compound inherits the headword policy for vedanā while keeping the coordinated heap-family voice explicit. The project prefers felt-experience heap because it stays aligned with the headword default and blocks drift back toward emotion-language. Feeling heap remains a tolerated alternate for brief explanatory prose. SN 22.48 supports this canonical constituent-compound usage.",
+  "context_rules": [
+    {
+      "context": "In direct heap analysis",
+      "rendering": "felt-experience heap",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In brief explanatory prose where the headword has already been explained",
+      "rendering": "feeling heap",
+      "notes": "Allowed alternate for compactness."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "vedana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vedanākkhandho",
+      "translation": "the felt-experience heap",
+      "notes": "Canonical constituent-heap expression.",
+      "source": "SN 22.48"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.48"
+  ],
   "tags": [
-    "aggregates"
-  ]
+    "aggregates",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Expanded to align the constituent compound with the headword default for vedanā.",
+  "authority_basis": [
+    {
+      "source": "SN 22.48",
+      "kind": "context-rule",
+      "scope": "Supports the canonical constituent-heap expression."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'felt-experience heap' as the default rendering for the compound unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not let the compound slip back into emotion-language or break alignment with the headword default for vedanā.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the constituent heap compound from drifting away from the repository's governed vedanā policy."
+  }
 }

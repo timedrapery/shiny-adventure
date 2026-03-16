@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation is now elevated from a secondary alternate to a primary-source-backed doctrinal option within OSF house style. The OSF publication What Is And Is Not The Path further sharpens the practical sequence dukkha to nirodha by presenting the task as noticing stress or dissatisfaction and getting free from it right away. Translators should not alternate quenching and cessation inside the same doctrinal frame without a clear reason, and linked -nirodha compounds should inherit the headword unless they explicitly document an override.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation is now elevated from a secondary alternate to a primary-source-backed doctrinal option within OSF house style. The OSF publication What Is And Is Not The Path further sharpens the practical sequence dukkha to nirodha by presenting the task as noticing stress or dissatisfaction and getting free from it right away. Translators should not alternate quenching and cessation inside the same doctrinal frame without a clear reason, and linked -nirodha compounds or imassa nirodhā formulas should inherit the headword unless they explicitly document an override.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -58,6 +58,11 @@
       "context": "In linked -nirodha compounds where no explicit override is recorded",
       "rendering": "quenching",
       "notes": "Compounds should inherit the headword default unless they document a more specific reason to differ."
+    },
+    {
+      "context": "In formula lines of the form imassa nirodhā idaṃ nirujjhati",
+      "rendering": "quenching",
+      "notes": "Keep the quenching side audible unless a local doctrinal frame explicitly requires cessation."
     }
   ],
   "related_terms": [
@@ -85,10 +90,17 @@
       "pali": "taṇhānirodha",
       "translation": "quenching of ignorant wanting",
       "source": "SN 56.11"
+    },
+    {
+      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "translation": "with the quenching of this, this ceases",
+      "notes": "Canonical formula for the quenching side of conditionality.",
+      "source": "SN 12.61"
     }
   ],
   "sutta_references": [
-    "SN 56.11"
+    "SN 56.11",
+    "SN 12.61"
   ],
   "tags": [
     "four-noble-truths",
@@ -110,7 +122,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use quenching as the default in core doctrinal treatment and linked -nirodha compounds unless a narrower rule overrides it.",
-    "when_not_to_apply": "Do not alternate between quenching and cessation inside the same doctrinal frame without an explicit reason.",
+    "when_not_to_apply": "Do not alternate between quenching and cessation inside the same doctrinal frame, chain formula, or linked -nirodha family without an explicit reason.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents inconsistent switching between quenching, cessation, and stronger metaphysical readings."
   },

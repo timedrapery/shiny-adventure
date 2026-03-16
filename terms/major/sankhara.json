@@ -10,15 +10,15 @@
     "conditioned thing",
     "construction",
     "fabrication",
-    "concoction"
+    "putting-together activities"
   ],
   "discouraged_translations": [
     "choices",
     "volitional formations"
   ],
   "untranslated_preferred": false,
-  "definition": "The activity of putting things together, or what has been put together as a constructed phenomenon.",
-  "notes": "The project uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default. The OSF glossary's conditioned-process and mental-formation language supports keeping this entry away from volitional formations as an unstated default while still allowing broader explanatory prose where needed. Translators should not import choices or volitional formations as unstated defaults. Formula context governs strongly here: in dependent-arising links the process sense stays primary unless a compound entry explicitly overrides it, while in three-marks formulae the result-side sense may be foregrounded.",
+  "definition": "The activity of putting things together, or what has been put together as a constructed phenomenon, with important context shifts across doctrinal families.",
+  "notes": "The project uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default. Formula context governs strongly here: in dependent-arising links the process sense stays primary unless a linked formula entry explicitly overrides it, while in three-marks formulae the result-side sense may be foregrounded. The five-heaps family requires a third governed use: in saṅkhārakkhandha and canonical heap enumerations, the term should be heard as the heap of putting-together activities rather than as all conditioned things or as a dependent-arising link. Translators should not import choices or volitional formations as unstated defaults. The OSF glossary's conditioned-process and mental-formation language supports keeping this entry away from volitional formations as an automatic default while still allowing controlled alternates where the doctrinal frame clearly requires them. SN 22.59 is the key heap-formula support for this context split.",
   "context_rules": [
     {
       "context": "When the emphasis is on the result of construction",
@@ -36,6 +36,11 @@
       "notes": "Keep the processive force audible unless a linked formula entry explicitly overrides it."
     },
     {
+      "context": "In saṅkhārakkhandha and canonical five-heaps enumeration",
+      "rendering": "putting-together activities",
+      "notes": "Use when the term is the fourth heap rather than the dependent-arising link or the broad class of conditioned things."
+    },
+    {
       "context": "In three-marks formulae such as aniccā sabbasaṅkhārā",
       "rendering": "that which has been put together",
       "notes": "Use when the line is speaking about what is compounded rather than the activity of compounding."
@@ -43,12 +48,18 @@
   ],
   "related_terms": [
     "anicca",
+    "anattā",
     "avijjā",
     "cetanā",
     "dukkha",
+    "khandha",
+    "pancakkhandha",
+    "pancupadanakkhandha",
     "paṭiccasamuppāda",
     "sankhata",
-    "saṅkhata"
+    "sankharakkhandha",
+    "saṅkhata",
+    "viññāṇa"
   ],
   "example_phrases": [
     {
@@ -60,33 +71,46 @@
     {
       "pali": "avijjāpaccayā saṅkhārā",
       "translation": "with ignorance as condition, putting things together",
-      "notes": "Here the process sense may be foregrounded.",
+      "notes": "Here the process sense is foregrounded.",
       "source": "SN 12.2"
+    },
+    {
+      "pali": "ye keci saṅkhārā",
+      "translation": "whatever putting-together activities",
+      "notes": "Heap-family enumeration context.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
     "SN 12.2",
+    "SN 22.59",
     "Dhp 277"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
+    "aggregates",
     "context-sensitive"
   ],
-  "status": "reviewed",
-  "version_notes": "Strengthened with explicit formula-level guidance so dependent-arising and three-marks uses do not drift apart silently.",
+  "status": "stable",
+  "version_notes": "Expanded to govern dependent-arising, heap-family, and three-marks uses explicitly so the family does not drift across doctrinal settings.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports conditioned-process and mental-formation language for saṅkhārā without restoring volitional formations as the house default."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports a distinct heap-context treatment for saṅkhārā in canonical five-heaps enumeration."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'putting things together' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'choices' or other unrecorded alternates."
+    "default_scope": "Use 'putting things together' as the default rendering unless a recorded doctrinal context or formula entry overrides it.",
+    "when_not_to_apply": "Do not force the dependent-arising sense into the five-heaps family, and do not let heap-context drift back to volitional formations by habit.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between dependent-arising, heap-family, and three-marks uses of saṅkhārā."
   }
 }

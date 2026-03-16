@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing phenomena as not fit to be taken as self, owned as self, or identified as I or mine.",
-  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulae and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. The Buddhadasa usage profile reinforces explicit resistance both to reifying a hidden self and to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages and should use explanatory paraphrases only when the prose explicitly needs them.",
+  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulas and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. The Buddhadasa usage profile reinforces explicit resistance both to reifying a hidden self and to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages, especially in the standard five-heap refrain, and should use explanatory paraphrases only when the prose explicitly needs them. SN 22.59 anchors this policy by showing not-self worked out through the de-appropriation of each heap.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements and three-characteristics formulations",
@@ -29,9 +29,9 @@
       "notes": "Useful when English needs a more explicit sentence shape."
     },
     {
-      "context": "In practical OSF or Buddhadāsa-sensitive explanation of release from appropriation",
+      "context": "In the standard heap refrain netaṃ mama, nesohamasmi, na me so attā",
       "rendering": "not-self",
-      "notes": "Keep the canonical label while the notes explain its relation to I and mine."
+      "notes": "Keep the canonical label stable while the surrounding formula explains the practical force."
     },
     {
       "context": "When the point is freedom from identification and ownership rather than a doctrinal formula",
@@ -41,15 +41,20 @@
   ],
   "related_terms": [
     "anicca",
-    "attā",
-    "attavādupādāna",
-    "diṭṭhi",
+    "atta",
+    "attavadupadana",
+    "ditthi",
     "dukkha",
     "khandha",
+    "pancupadanakkhandha",
+    "sakkaya",
     "sakkaya-ditthi",
-    "suññatā",
-    "tathatā",
-    "viññāṇa",
+    "sanna",
+    "sankhara",
+    "sunnata",
+    "tathata",
+    "vinnana",
+    "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam",
     "yathabhuta-nanadassana"
   ],
   "example_phrases": [
@@ -84,19 +89,24 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Revised to block both metaphysical self-language and nihilistic no-self drift, with stronger guidance for practical not-self interpretation.",
+  "version_notes": "Revised to block both metaphysical self-language and nihilistic no-self drift, with stronger guidance for aggregate and self-view interpretation.",
   "authority_basis": [
     {
       "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Named in notes as support for the current anattā policy."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the standard five-heap not-self refrain and keeps the term tied to de-appropriation rather than metaphysical sloganizing."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'not-self' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not replace the canonical label with 'no-self' by habit, and do not detach not-self language from the practical de-appropriation of the heaps and identity claims.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'no-self' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between practical not-self analysis, metaphysical no-self slogans, and vague ethical selflessness language."
   }
 }

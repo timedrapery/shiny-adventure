@@ -1,0 +1,98 @@
+{
+  "term": "attā",
+  "normalized_term": "atta",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "self",
+  "preferred_translation": "self",
+  "alternative_translations": [
+    "real self",
+    "owner"
+  ],
+  "discouraged_translations": [
+    "soul",
+    "ego"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Self, especially as the imagined owner, controller, or identity claimed in relation to the heaps.",
+  "notes": "The project keeps self as the default because it is direct and doctrinally serviceable. Real self is a controlled explanatory alternate when the passage is contrasting a presumed essence with not-self analysis, and owner is acceptable when the local wording emphasizes possession or control. The term should not be softened into vague identity-language where the text is directly making or rejecting a self-claim, but it also should not be inflated into soul unless the passage is explicitly about that stronger doctrinal idea. In the five-heaps family, attā matters mainly through the formulas that take form, felt experience, recognition, putting-together activities, or knowing as self. The OSF glossary and SN 22.59 support keeping self-language explicit here so that anattā remains a practical rejection of appropriation rather than an abstract slogan.",
+  "context_rules": [
+    {
+      "context": "In direct self-claim or self-view language in heap analysis",
+      "rendering": "self",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When the passage contrasts an imagined essence with not-self analysis",
+      "rendering": "real self",
+      "notes": "Use sparingly when English needs the reifying force made explicit."
+    },
+    {
+      "context": "In formulas emphasizing possession or control over the heaps",
+      "rendering": "owner",
+      "notes": "Allowed explanatory alternate when the local syntax foregrounds owning or mastering."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "attavadupadana",
+    "khandha",
+    "pancupadanakkhandha",
+    "sakkaya",
+    "sakkaya-ditthi",
+    "sunnata",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūpaṃ attato samanupassati",
+      "translation": "one regards form as self",
+      "notes": "Canonical heap-based self-view formula.",
+      "source": "SN 22.59"
+    },
+    {
+      "pali": "na me so attā",
+      "translation": "this is not my self",
+      "notes": "Part of the practical not-self refrain applied to the heaps.",
+      "source": "SN 22.59"
+    },
+    {
+      "pali": "attavādupādāna",
+      "translation": "taking a self-doctrine personally",
+      "notes": "Shows one major appropriation-family derivative.",
+      "source": "MN 11"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.59",
+    "MN 11",
+    "SN 22.1"
+  ],
+  "tags": [
+    "aggregates",
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry aligned with anattā, sakkāya, and the self-view formulas applied to the heaps.",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports retaining plain self-language and discouraging both soul-language and modern ego-language as defaults."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the practical self/not-self formulas applied across all five heaps."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'self' as the default rendering in direct doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not inflate the term into 'soul' without textual warrant, and do not blur direct self-claims into softer identity language when the passage is making or rejecting a self-view.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between self-language, identity-language, and not-self analysis in the heaps cluster."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "term": "saḷāyatanapaccayā phasso",
+  "normalized_term": "salayatanapaccaya-phasso",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with saḷāyatana as condition, phassa",
+  "preferred_translation": "with the six fields of experience as condition, contact",
+  "definition": "Forward-link line connecting saḷāyatana and phassa.",
+  "notes": "Use this record for the full line when the dependent-arising chain itself is in view. It keeps the formula aligned with the repository's distinction between the sixfold experiential fields and the contact event that follows. The OSF glossary supports this coordinated inheritance from saḷāyatana and phassa in the formula line.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with the six fields of experience as condition, contact",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for saḷāyatana is already in use",
+      "rendering": "with the six sense fields as condition, contact",
+      "notes": "Use only when the surrounding frame already governs saḷāyatana that way."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "paṭiccasamuppāda",
+    "phassa",
+    "saḷāyatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saḷāyatanapaccayā phasso",
+      "translation": "with the six fields of experience as condition, contact",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports coordinated inheritance from saḷāyatana and phassa in the formula line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking saḷāyatana and phassa in the forward chain.",
+    "when_not_to_apply": "Do not let phassa drift into feeling or sensation language in this formula slot.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents confusion between contact and what follows from contact."
+  }
+}

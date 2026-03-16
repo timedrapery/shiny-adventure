@@ -1,0 +1,57 @@
+{
+  "term": "imassuppādā idaṃ uppajjati",
+  "normalized_term": "imassuppada-idam-uppajjati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "from the arising of this, this arises",
+  "preferred_translation": "from the arising of this, this arises",
+  "definition": "Companion conditionality formula stressing arising from an antecedent condition.",
+  "notes": "Use this record when the formula explicitly names the arising of a condition rather than only its presence. It belongs with the four standard conditionality lines. The Buddhadasa usage profile supports treating this line as part of the immediate conditionality formula family.",
+  "context_rules": [
+    {
+      "context": "In standard conditionality translation",
+      "rendering": "from the arising of this, this arises",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When smoother English is needed without changing the meaning",
+      "rendering": "with the arising of this, this arises",
+      "notes": "Allowed explanatory alternate."
+    }
+  ],
+  "related_terms": [
+    "idappaccayatā",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imassuppādā idaṃ uppajjati",
+      "translation": "from the arising of this, this arises",
+      "source": "SN 12.61"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.61"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "context-rule",
+      "scope": "Supports treating the line as part of the immediate conditionality formula family."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard arising-focused conditionality line.",
+    "when_not_to_apply": "Do not collapse it into the shorter imasmiṃ sati line when the text explicitly marks arising.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents loss of the line's explicit arising emphasis."
+  }
+}

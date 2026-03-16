@@ -1,0 +1,59 @@
+{
+  "term": "phassapaccayā vedanā",
+  "normalized_term": "phassapaccaya-vedana",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with phassa as condition, vedanā",
+  "preferred_translation": "with contact as condition, felt experience",
+  "definition": "Forward-link line connecting phassa and vedanā.",
+  "notes": "Use this record for the full line. It governs a key pivot in the chain and keeps phassa distinct from vedanā while preserving the repository's house default for vedanā. The OSF glossary supports this controlled distinction between contact and felt experience in the formula line.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with contact as condition, felt experience",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for vedanā is already in use",
+      "rendering": "with contact as condition, feeling",
+      "notes": "Use only when the surrounding translation already governs vedanā that way."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "paṭiccasamuppāda",
+    "phassa",
+    "vedanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "phassapaccayā vedanā",
+      "translation": "with contact as condition, felt experience",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2",
+    "SN 36.1"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports the controlled distinction between contact and felt experience in the formula line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking phassa and vedanā in the forward chain.",
+    "when_not_to_apply": "Do not blur phassa into sensation or vedanā into emotion in this formula slot.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents collapse of the contact-to-vedanā pivot."
+  }
+}

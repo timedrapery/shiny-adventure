@@ -1,14 +1,106 @@
 {
-  "term": "pancupadanakkhandha",
+  "term": "pañcupādānakkhandhā",
   "normalized_term": "pancupadanakkhandha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "five heaps of clinging",
-  "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
-  "status": "reviewed",
-  "literal_meaning": "five heaps of clinging",
+  "literal_meaning": "five clung-to heaps",
+  "preferred_translation": "five clung-to heaps",
+  "alternative_translations": [
+    "five heaps taken personally",
+    "five appropriated heaps",
+    "five heaps of clinging"
+  ],
+  "discouraged_translations": [
+    "five aggregates of attachment"
+  ],
+  "definition": "The five heaps insofar as they are appropriated, taken as I and mine, and made the footing for identity view and dissatisfaction.",
+  "notes": "This is a fixed doctrinal expression, not a place to mechanically combine the headword defaults for upādāna and khandha. The project keeps five clung-to heaps as the default whole-expression rendering because it is compact, doctrinally familiar, and stable across truth, self-view, and burden contexts. Five heaps taken personally remains the best explanatory alternate when the passage needs the appropriative force spelled out more explicitly. Five heaps of clinging is tolerated as a familiar comparative gloss, but it should not displace the house rendering in direct translation. Keep this expression distinct from pañcakkhandhā, which is simply five heaps without the added appropriation signal. The OSF glossary supports keeping this fixed expression stable, and SN 56.11 is the governing truth-context citation.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the fixed expression pañcupādānakkhandhā",
+      "rendering": "five clung-to heaps",
+      "notes": "Default project rendering for the whole expression."
+    },
+    {
+      "context": "When explanatory prose needs the personalizing force of upādāna made explicit",
+      "rendering": "five heaps taken personally",
+      "notes": "Use selectively rather than replacing the shorter house default."
+    },
+    {
+      "context": "When comparison with older Buddhist-English usage matters",
+      "rendering": "five heaps of clinging",
+      "notes": "Allowed alternate for orientation, not the project default."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "atta",
+    "khandha",
+    "pancakkhandha",
+    "pancime-bhikkhave-upadanakkhandha",
+    "rupa",
+    "rupakkhandha",
+    "sakkaya",
+    "sakkaya-ditthi",
+    "sanna",
+    "sannakkhandha",
+    "sankhara",
+    "sankharakkhandha",
+    "upadana",
+    "vedana",
+    "vedanakkhandha",
+    "vinnana",
+    "vinnanakkhandha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhaṃ ariyasaccaṃ: saṅkhittena pañcupādānakkhandhā",
+      "translation": "the noble truth of dissatisfaction, in brief, is the five clung-to heaps",
+      "notes": "Important truth-context use of the fixed expression.",
+      "source": "SN 56.11"
+    },
+    {
+      "pali": "katame ca, bhikkhave, pañcupādānakkhandhā",
+      "translation": "and what, bhikkhus, are the five clung-to heaps?",
+      "notes": "Canonical heading that governs the standard constituent enumeration.",
+      "source": "SN 22.48"
+    },
+    {
+      "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
+      "translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "notes": "Shows the expression in the gratification-danger-escape framework.",
+      "source": "SN 22.26"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.26",
+    "SN 22.48",
+    "SN 56.11"
+  ],
   "tags": [
+    "aggregates",
     "core-doctrine",
-    "core-practice"
-  ]
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Expanded from a thin placeholder into a governed family expression aligned with khandha, upādāna, self-view, and four-truth contexts.",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping a compact, stable rendering for the fixed heap-family expression rather than recomposing it ad hoc from the headwords."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the expression's role as the brief statement of the noble truth of dissatisfaction."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'five clung-to heaps' as the default rendering for the fixed doctrinal expression unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not mechanically expand the phrase into 'five heaps taken personally' unless the local prose needs the appropriative force made more explicit, and do not collapse it back into the weaker pañcakkhandhā expression.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents drift among 'appropriated heaps', 'heaps taken personally', and 'heaps of clinging' in the central collective expression."
+  }
 }

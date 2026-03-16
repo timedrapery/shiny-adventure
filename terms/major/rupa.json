@@ -14,11 +14,11 @@
     "matter"
   ],
   "untranslated_preferred": false,
-  "definition": "Form as the material or visible side of experience, especially in aggregate analysis and sense-field contexts.",
-  "notes": "The project keeps form as the default because it works across the aggregate framework and the sixfold sense-field system without forcing a single modern theory of matter. Material form is useful when the physical side needs to be made explicit, but body is too narrow and matter is too reified for blanket use. In sense-field contexts rūpā often means visible forms, while in the five heaps rūpa marks the material side of the analysis more broadly. Translators should keep the aggregate, visible-object, and nāmarūpa uses distinct and should not let matter or body become automatic replacements. The OSF glossary confirms form as the house default and records material form as the available alternate for contexts where the physical side needs emphasis.",
+  "definition": "Form as the material or visible side of experience, especially in heap analysis, sense-field contexts, and the name-and-form pair.",
+  "notes": "The project keeps form as the default because it works across the five-heaps family and the sixfold sense-field system without forcing a single modern theory of matter. Material form is useful when the physical side needs to be made explicit, but body is too narrow and matter is too reified for blanket use. In sense-field contexts rūpā often means visible forms, while in the five heaps rūpa marks the material side of the analysis more broadly. Translators should keep the heap, visible-object, and nāmarūpa uses distinct and should not let matter or body become automatic replacements. The OSF glossary confirms form as the house default, and SN 22.59 supports keeping that same default in the heap-family and not-self formulas.",
   "context_rules": [
     {
-      "context": "In most aggregate and doctrinal contexts",
+      "context": "In most heap and doctrinal contexts",
       "rendering": "form",
       "notes": "Default project rendering."
     },
@@ -30,31 +30,35 @@
     {
       "context": "In eye-and-form sense-field contexts such as cakkhuñca paṭicca rūpe ca",
       "rendering": "visible forms",
-      "notes": "Use the visual-object sense rather than the broader aggregate sense."
+      "notes": "Use the visual-object sense rather than the broader heap sense."
     },
     {
-      "context": "In compounds such as rūpakkhandha",
+      "context": "In compounds such as rūpakkhandha and in the pattern yaṃ kiñci rūpaṃ",
       "rendering": "form",
-      "notes": "Keep continuity with the house treatment of khandha."
+      "notes": "Keep continuity with the house treatment of khandha and the standard heap formulas."
     }
   ],
   "related_terms": [
-    "āyatana",
+    "ayatana",
     "cakkhu",
     "cakkhu-vinnana",
     "kabalinkara-ahara",
-    "kāya",
+    "kaya",
     "khandha",
-    "nāmarūpa",
-    "phoṭṭhabba",
-    "saḷāyatana",
-    "vedanā"
+    "namarupa",
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "photthabba",
+    "rupakkhandha",
+    "salayatana",
+    "vedana",
+    "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
   ],
   "example_phrases": [
     {
       "pali": "rūpakkhandho",
       "translation": "the form heap",
-      "notes": "Aggregate usage.",
+      "notes": "Heap usage.",
       "source": "SN 22.56"
     },
     {
@@ -64,15 +68,15 @@
       "source": "MN 148"
     },
     {
-      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
-      "translation": "with name-and-form as condition, the six sense fields",
-      "notes": "Shows rūpa inside the dependent-arising compound.",
-      "source": "SN 12.2"
+      "pali": "yaṃ kiñci rūpaṃ atītānāgatapaccuppannaṃ",
+      "translation": "whatever form there is, past, future, or present",
+      "notes": "Canonical heap and not-self pattern.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
     "SN 22.56",
-    "SN 12.2",
+    "SN 22.59",
     "MN 148"
   ],
   "tags": [
@@ -82,19 +86,24 @@
     "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to distinguish aggregate, visible-object, and name-and-form uses without allowing body or matter to drift in as blanket defaults.",
+  "version_notes": "Strengthened to keep heap, visible-object, and name-and-form uses distinct while preserving one stable default in the five-heaps family.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping form as the default across aggregate, visible-object, and name-and-form contexts, with material form available when the physical side needs emphasis."
+      "scope": "Supports keeping form as the default across heap, visible-object, and name-and-form contexts, with material form available when the physical side needs emphasis."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the heap-family and not-self use of rūpa without flattening it into body or matter."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'form' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not let body or matter become automatic defaults, and do not carry the visible-object sense into the wider heap analysis unless the local line is explicitly visual.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'body' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between heap-context, sense-field context, and name-and-form context for rūpa."
   }
 }

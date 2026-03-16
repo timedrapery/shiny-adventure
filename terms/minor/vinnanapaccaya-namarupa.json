@@ -1,0 +1,59 @@
+{
+  "term": "viññāṇapaccayā nāmarūpaṃ",
+  "normalized_term": "vinnanapaccaya-namarupa",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with viññāṇa as condition, nāmarūpa",
+  "preferred_translation": "with knowing as condition, name-and-form",
+  "definition": "Forward-link line connecting viññāṇa and nāmarūpa.",
+  "notes": "Use this record for the full line when translating the chain. It keeps the phrase aligned with the repository's conditioned handling of viññāṇa and compact doctrinal handling of nāmarūpa. The OSF glossary supports this coordinated inheritance from viññāṇa and nāmarūpa in the formula line.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with knowing as condition, name-and-form",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for viññāṇa is already in use",
+      "rendering": "with consciousness as condition, name-and-form",
+      "notes": "Use only in a surrounding frame that already governs viññāṇa that way."
+    }
+  ],
+  "related_terms": [
+    "nāmarūpa",
+    "paccaya",
+    "paṭiccasamuppāda",
+    "viññāṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "viññāṇapaccayā nāmarūpaṃ",
+      "translation": "with knowing as condition, name-and-form",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2",
+    "DN 15"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports coordinated inheritance from viññāṇa and nāmarūpa in the formula line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking viññāṇa and nāmarūpa in the forward chain.",
+    "when_not_to_apply": "Do not let explanatory paraphrases replace the compact doctrinal pair unless the passage explicitly shifts register.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the line from collapsing nāmarūpa into generic mind-and-body wording."
+  }
+}

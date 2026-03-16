@@ -9,11 +9,12 @@
     "aggregate"
   ],
   "discouraged_translations": [
-    "bundle"
+    "bundle",
+    "collection"
   ],
   "untranslated_preferred": false,
-  "definition": "A heap or collected mass used in the five-heap analysis of experience, especially in relation to appropriation and dissatisfaction.",
-  "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the expression pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of appropriated heaps wrongly taken as self or mine. Translators should keep the heap rule stable in aggregate formulae and should not smooth the family back into aggregate language without an explicit explanatory reason. The OSF glossary establishes heap as the default house rendering and records aggregate as a tolerated alternate.",
+  "definition": "A heap or piled-up mass used in the five-heap analysis of experience, especially in relation to appropriation, self-view, and dissatisfaction.",
+  "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the family of pañcakkhandhā and pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of unstable heaps that become the basis for appropriation, self-view, and dissatisfaction. Translators should keep the heap rule stable across the five constituent members and compounds, should not smooth the family back into aggregate language without an explicit explanatory reason, and should respect the formula-level override that keeps pañcupādānakkhandhā as five clung-to heaps rather than mechanically expanding the upādāna headword. The OSF glossary establishes heap as the default house rendering and records aggregate as a tolerated alternate. SN 22.48 supports the coordinated five-heap and constituent-compound usage that governs this family.",
   "context_rules": [
     {
       "context": "In direct doctrinal translation of the fivefold analysis",
@@ -26,9 +27,14 @@
       "notes": "Allowed alternate for orientation, not the project default."
     },
     {
-      "context": "In the phrase pañcupādānakkhandhā",
+      "context": "In the collective expression pañcakkhandhā",
       "rendering": "heap",
-      "notes": "Keep the relation to appropriation explicit rather than smoothing the term into abstract system language."
+      "notes": "Keep the family aligned under the house default."
+    },
+    {
+      "context": "In the fixed doctrinal expression pañcupādānakkhandhā",
+      "rendering": "heap",
+      "notes": "The compound stays in the heap family, but the full expression is governed by its own whole-expression rendering as five clung-to heaps."
     },
     {
       "context": "When the point is the unstable, piled-up character of experience",
@@ -37,36 +43,48 @@
     }
   ],
   "related_terms": [
-    "anattā",
+    "anatta",
+    "atta",
     "dukkha",
-    "rūpa",
+    "pancakkhandha",
+    "pancime-bhikkhave-khandha",
+    "pancupadanakkhandha",
+    "rupa",
+    "rupakkhandha",
+    "sakkaya",
     "sakkaya-ditthi",
-    "saññā",
-    "vedanā",
-    "viññāṇa"
+    "sanna",
+    "sannakkhandha",
+    "sankhara",
+    "sankharakkhandha",
+    "upadana",
+    "vedana",
+    "vedanakkhandha",
+    "vinnana",
+    "vinnanakkhandha"
   ],
   "example_phrases": [
     {
-      "pali": "pañcupādānakkhandhā",
-      "translation": "the five appropriated heaps",
-      "notes": "Key doctrinal formula linking khandha to upādāna and dukkha.",
-      "source": "SN 56.11"
+      "pali": "pañcime, bhikkhave, khandhā",
+      "translation": "these, bhikkhus, are the five heaps",
+      "notes": "Collective heading for the family.",
+      "source": "SN 22.48"
     },
     {
       "pali": "rūpakkhandho",
       "translation": "the form heap",
-      "notes": "Shows the term in compound analysis.",
-      "source": "SN 22.56"
+      "notes": "Shows the term in constituent-heap analysis.",
+      "source": "SN 22.48"
     },
     {
       "pali": "yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ",
-      "translation": "whatever form ... feeling ... recognition ... putting-together activities ... knowing",
-      "notes": "Canonical listing of the five heaps.",
+      "translation": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
+      "notes": "Canonical listing of the five heaps in a translator-relevant voice.",
       "source": "SN 22.59"
     }
   ],
   "sutta_references": [
-    "SN 22.56",
+    "SN 22.48",
     "SN 22.59",
     "SN 56.11"
   ],
@@ -76,19 +94,24 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded to govern heap versus aggregate usage explicitly and to tie the entry more tightly to appropriation, not-self analysis, and the five-heap formula.",
+  "version_notes": "Expanded to govern heap versus aggregate usage explicitly and to tie the entry more tightly to appropriation, self-view, not-self analysis, and the collective heap formulas.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping heap as the default in aggregate analysis and appropriation contexts, with aggregate tolerated only in explanatory prose."
+      "scope": "Supports keeping heap as the default in aggregate analysis, with aggregate tolerated only in explanatory prose."
+    },
+    {
+      "source": "SN 22.48",
+      "kind": "context-rule",
+      "scope": "Supports the collective five-heap framing and the constituent heap compounds."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'heap' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'bundle' or other unrecorded alternates."
+    "default_scope": "Use 'heap' as the default rendering across the five-heaps family unless a recorded context rule or formula entry overrides it.",
+    "when_not_to_apply": "Do not switch to aggregate by habit in direct translation, and do not treat the fixed pañcupādānakkhandhā expression as a reason to weaken the base heap rule elsewhere.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift back toward bundle, collection, or ungoverned aggregate language in the heaps family."
   }
 }

@@ -1,0 +1,58 @@
+{
+  "term": "vedanāpaccayā taṇhā",
+  "normalized_term": "vedanapaccaya-tanha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with vedanā as condition, taṇhā",
+  "preferred_translation": "with felt experience as condition, ignorant wanting",
+  "definition": "Forward-link line connecting vedanā and taṇhā.",
+  "notes": "Use this record for the whole line. This is one of the most important practical pivots in the chain, and the repository should keep it stable across translation work. What Is And Is Not The Path supports keeping the vedanā-to-taṇhā movement practical and immediate in translation.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with felt experience as condition, ignorant wanting",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for taṇhā is already in use",
+      "rendering": "with felt experience as condition, craving",
+      "notes": "Use only in a frame that already governs taṇhā that way."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "paṭiccasamuppāda",
+    "taṇhā",
+    "vedanā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vedanāpaccayā taṇhā",
+      "translation": "with felt experience as condition, ignorant wanting",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping the vedanā-to-taṇhā movement practical and immediate in translation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking vedanā and taṇhā in the forward chain.",
+    "when_not_to_apply": "Do not shift into emotionalized or generic desire language in this formula slot.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents drift at the chain's practical pivot from felt experience into wanting."
+  }
+}

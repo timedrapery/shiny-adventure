@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The conditioned arising of dissatisfaction and release, expressed as a here-and-now structure of dependent process rather than a self-standing essence.",
-  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadāsa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical causality: when conditions are present, suffering arises; when conditions are removed, the process ceases. What Is And Is Not The Path reinforces this practical, here-and-now handling of the teaching, while the Buddhadasa usage profile supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item.",
+  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadasa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical conditional process: when conditions are present, suffering arises; when conditions are removed, the process ceases. What Is And Is Not The Path reinforces this practical, here-and-now handling of the teaching, while the Buddhadasa usage profile supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item. The standard conditionality lines and the chain formulas now belong to the same governed family and should not be rendered independently of one another.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -27,7 +27,7 @@
       "notes": "Use only when continuity with established English terminology is helpful."
     },
     {
-      "context": "In Buddhadāsa-sensitive explanatory prose emphasizing reciprocal process and immediacy",
+      "context": "In Buddhadasa-sensitive explanatory prose emphasizing reciprocal process and immediacy",
       "rendering": "dependent co-arising",
       "notes": "Allowed explanatory alternate, not the default doctrinal label."
     },
@@ -44,23 +44,32 @@
   ],
   "related_terms": [
     "avijjā",
+    "avijjapaccaya-sankhara",
     "bhava",
     "diṭṭhupādāna",
     "idappaccayatā",
+    "imassa-nirodha-idam-nirujjhati",
+    "imassuppada-idam-uppajjati",
+    "imasmim-asati-idam-na-hoti",
+    "imasmim-sati-idam-hoti",
     "jarāmaraṇa",
     "jāti",
+    "jatipaccaya-jaramaranam",
     "kāmupādāna",
     "nāmarūpa",
     "nidāna",
     "nirodha",
     "paccaya",
     "phassa",
+    "phassapaccaya-vedana",
     "saḷāyatana",
     "saṅkhāra",
     "sīlabbatupādāna",
     "taṇhā",
+    "tanhapaccaya-upadana",
     "upādāna",
     "vedanā",
+    "vedanapaccaya-tanha",
     "viññāṇa",
     "vinnana-ahara",
     "yathabhuta-nanadassana"
@@ -70,6 +79,12 @@
       "pali": "imasmiṃ sati idaṃ hoti",
       "translation": "when this is, this comes to be",
       "notes": "Core formula expressing conditional structure.",
+      "source": "SN 12.61"
+    },
+    {
+      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "translation": "with the quenching of this, this ceases",
+      "notes": "Core formula expressing the quenching side of dependent arising.",
       "source": "SN 12.61"
     },
     {
@@ -114,8 +129,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'dependent arising' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not let individual link formulas drift away from the cluster's recorded conditionality and quenching phrasing without a documented formula-level reason.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'chain of causation' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'chain of causation' and prevents link-by-link formula translation from fragmenting into unrelated English styles."
   }
 }

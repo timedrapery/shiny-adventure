@@ -1,0 +1,58 @@
+{
+  "term": "imasmiṃ asati idaṃ na hoti",
+  "normalized_term": "imasmim-asati-idam-na-hoti",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "when this is not, this is not",
+  "preferred_translation": "when this is not, this does not come to be",
+  "definition": "Negative conditionality formula for the non-arising side of dependent arising.",
+  "notes": "Use this record for the whole negative formula line rather than rebuilding it from separate headwords. It belongs with the four standard conditionality lines and prepares the quenching line that follows. The Buddhadasa usage profile supports keeping this line in the same practical conditionality family.",
+  "context_rules": [
+    {
+      "context": "In standard conditionality translation",
+      "rendering": "when this is not, this does not come to be",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a more literal English line is needed",
+      "rendering": "when this is absent, this does not come to be",
+      "notes": "Allowed alternate in explanation."
+    }
+  ],
+  "related_terms": [
+    "idappaccayatā",
+    "imassa-nirodha-idam-nirujjhati",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imasmiṃ asati idaṃ na hoti",
+      "translation": "when this is not, this does not come to be",
+      "source": "SN 12.61"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.61"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "context-rule",
+      "scope": "Supports keeping the line in the practical conditionality family."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard negative conditionality line.",
+    "when_not_to_apply": "Do not replace it with a quenching formula when the text is marking non-presence rather than nirodha explicitly.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the negative line from collapsing into a generic absence statement without formula discipline."
+  }
+}
