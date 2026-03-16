@@ -27,6 +27,7 @@ FENCED_CODE_RE = re.compile(r"```.*?```", re.DOTALL)
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)(?:\[[^\]]+\])\(([^)]+)\)")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$", re.MULTILINE)
+DOCS_FILENAME_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*\.md$")
 
 
 def iter_markdown_files(repo_root: Path = REPO_ROOT) -> list[Path]:
@@ -135,12 +136,27 @@ def collect_metadata_failures(repo_root: Path = REPO_ROOT) -> list[str]:
     return failures
 
 
+def collect_docs_naming_failures(repo_root: Path = REPO_ROOT) -> list[str]:
+    failures: list[str] = []
+    docs_dir = repo_root / "docs"
+    if not docs_dir.exists():
+        return failures
+    for path in sorted(docs_dir.rglob("*.md")):
+        relative = path.relative_to(repo_root)
+        if not DOCS_FILENAME_RE.fullmatch(path.name):
+            failures.append(
+                f"{relative}: docs filenames must use lowercase-kebab-case markdown names"
+            )
+    return failures
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.parse_args()
 
     failures = [
         *collect_metadata_failures(REPO_ROOT),
+        *collect_docs_naming_failures(REPO_ROOT),
         *collect_markdown_failures(REPO_ROOT),
     ]
     if failures:

@@ -35,7 +35,7 @@ Examples:
 - `Satipatthana` in the book maps to repo `satipatthana`
 - `Anapanasati` in the book maps to repo `anapanasati`
 - `Samadhi` in the book maps to repo `samadhi`
-- `Samasankappa` in the book maps to repo `sammasankappa`
+- `Samasankappa` in the book maps to repo `samma-sankappa`
 - `Mara` in the book maps to repo `mara`
 
 The repo should absorb the book's translation policy and practical framing
@@ -49,7 +49,7 @@ The book strongly reinforces the following existing OSF house directions:
 - `sati` as `remembering`
 - `samma-sati` as `right remembering`
 - `samadhi` as `unification of mind`
-- `sammasankappa` as `attitude`
+- `samma-sankappa` as `attitude`
 - `anapanasati` as the central training rather than a narrow breath technique
 - `kamma` as `action` or `behavior`
 - `lokuttara` as supramundane without supernaturalism

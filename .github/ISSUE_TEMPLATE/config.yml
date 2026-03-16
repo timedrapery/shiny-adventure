@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Documentation index
-    url: https://github.com/timedrapery/shiny-adventure/blob/main/docs/DOCUMENTATION_GUIDE.md
+    url: https://github.com/timedrapery/shiny-adventure/blob/main/docs/documentation-guide.md
     about: Use the docs index to find the correct workflow, editorial rule, or script reference before opening a broad issue.
   - name: Editorial policy question
     url: https://github.com/timedrapery/shiny-adventure/blob/main/CONTRIBUTING.md

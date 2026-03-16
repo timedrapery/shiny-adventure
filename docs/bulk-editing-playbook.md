@@ -61,4 +61,4 @@ python scripts/run_checks.py
 ## 6. Record Major Decisions
 
 If the batch changes a doctrinal anchor or a family-level rule, add a decision
-record using `docs/DECISION_RECORD_TEMPLATE.md`.
+record using `docs/decision-record-template.md`.

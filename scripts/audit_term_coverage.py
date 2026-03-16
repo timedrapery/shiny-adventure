@@ -50,7 +50,7 @@ COVERAGE_FAMILIES: tuple[CoverageFamily, ...] = (
         (
             "magga",
             "samma-ditthi",
-            "sammasankappa",
+            "samma-sankappa",
             "samma-vaca",
             "samma-kammanta",
             "samma-ajiva",

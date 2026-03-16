@@ -32,9 +32,9 @@ Do not introduce a second parallel vocabulary such as
 
 Use this document alongside:
 
-- `docs/DOCUMENTATION_GUIDE.md`
-- `docs/DATA_DICTIONARY.md`
-- `docs/TAG_STATUS_VOCABULARY.md`
+- `docs/documentation-guide.md`
+- `docs/data-dictionary.md`
+- `docs/tag-status-vocabulary.md`
 - `STYLE_GUIDE.md`
 
 ------------------------------------------------------------------------
@@ -98,9 +98,9 @@ terms**.
 When working on an entry:
 
 1. Read the translation preference in `STYLE_GUIDE.md`.
-2. Confirm field meaning in `docs/DATA_DICTIONARY.md`.
+2. Confirm field meaning in `docs/data-dictionary.md`.
 3. Draft or revise the entry in `terms/major/` or `terms/minor/` according to `entry_type`.
-4. Choose tags and status from `docs/TAG_STATUS_VOCABULARY.md`.
+4. Choose tags and status from `docs/tag-status-vocabulary.md`.
 5. Validate the file before committing.
 
 ------------------------------------------------------------------------
@@ -207,10 +207,10 @@ recording where they came from.
 
 The OSF glossary and named OSF books are not outside sources. They belong to
 the internal OSF house-material layer described in
-`docs/OSF_EDITORIAL_AUTHORITY.md`.
+`docs/osf-editorial-authority.md`.
 
 For OSF authority order and cases where a source may directly change
-`preferred_translation`, also read `docs/OSF_EDITORIAL_AUTHORITY.md`.
+`preferred_translation`, also read `docs/osf-editorial-authority.md`.
 
 ------------------------------------------------------------------------
 
@@ -336,7 +336,7 @@ Example tags:
 -   worldly-conditions
 
 For the preferred current tag set and when to use each tag, see
-`docs/TAG_STATUS_VOCABULARY.md`.
+`docs/tag-status-vocabulary.md`.
 
 ------------------------------------------------------------------------
 
@@ -351,7 +351,7 @@ Allowed values:
   stable     Current project standard
 
 For practical guidance on when to use each status, see
-`docs/TAG_STATUS_VOCABULARY.md`.
+`docs/tag-status-vocabulary.md`.
 
 ------------------------------------------------------------------------
 

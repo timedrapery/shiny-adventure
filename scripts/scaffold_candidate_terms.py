@@ -45,7 +45,7 @@ def build_review_packet(candidate: dict[str, object]) -> dict[str, object]:
             "Confirm the headword spelling and normalization.",
             "Check whether this should be a new term or an existing-term variant.",
             "Do not approve a preferred_translation without house-style review.",
-            "If promoted to a real term entry, follow STYLE_GUIDE.md and TERM_ENTRY_STANDARD.md.",
+            "If promoted to a real term entry, follow STYLE_GUIDE.md and term-entry-standard.md.",
         ],
     }
 

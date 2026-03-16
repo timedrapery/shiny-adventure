@@ -28,7 +28,7 @@ policy revision.
 - If a preferred rendering or context rule depends on source authority, the
   entry includes `authority_basis`.
 - The cited authority matches the order in
-  `docs/OSF_EDITORIAL_AUTHORITY.md`.
+  `docs/osf-editorial-authority.md`.
 - Source-backed alternates are not silently promoted to house defaults.
 - Example phrases include canonical `source` citations where available.
 

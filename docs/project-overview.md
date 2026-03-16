@@ -32,8 +32,8 @@ Term decisions should be explicit and reviewable. If a translation choice change
 
 ## Where To Go Next
 
-- Field definitions: [DATA_DICTIONARY.md](DATA_DICTIONARY.md)
-- Entry drafting: [TERM_ENTRY_STANDARD.md](TERM_ENTRY_STANDARD.md)
+- Field definitions: [data-dictionary.md](data-dictionary.md)
+- Entry drafting: [term-entry-standard.md](term-entry-standard.md)
 - Translation voice and style: [../STYLE_GUIDE.md](../STYLE_GUIDE.md)
-- Authority order: [OSF_EDITORIAL_AUTHORITY.md](OSF_EDITORIAL_AUTHORITY.md)
+- Authority order: [osf-editorial-authority.md](osf-editorial-authority.md)
 - Contributor workflow: [development-guide.md](development-guide.md)

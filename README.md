@@ -26,11 +26,12 @@ Major entries are policy-bearing records. They exist to preserve translation dis
 ## Start Here
 
 - New to the project: [docs/project-overview.md](docs/project-overview.md)
-- Need the documentation map: [docs/DOCUMENTATION_GUIDE.md](docs/DOCUMENTATION_GUIDE.md)
+- Need the documentation map: [docs/documentation-guide.md](docs/documentation-guide.md)
 - Contributing term or workflow changes: [CONTRIBUTING.md](CONTRIBUTING.md)
 - Working on scripts or tests: [docs/development-guide.md](docs/development-guide.md)
 - Looking for command examples: [docs/usage.md](docs/usage.md)
 - Want the script index: [scripts/README.md](scripts/README.md)
+- Need term-directory navigation: [terms/README.md](terms/README.md)
 
 ## Quick Start
 
@@ -107,7 +108,11 @@ shiny-adventure/
 `- .github/                # CI workflow plus issue and PR templates
 ```
 
-See [docs/architecture.md](docs/architecture.md) for the operating model and [docs/DATA_DICTIONARY.md](docs/DATA_DICTIONARY.md) for field-level definitions.
+See [docs/architecture.md](docs/architecture.md) for the operating model and [docs/data-dictionary.md](docs/data-dictionary.md) for field-level definitions.
+
+The live `terms/major/` and `terms/minor/` directories stay flat on disk; use
+[terms/README.md](terms/README.md) and the generated term indexes for human
+navigation.
 
 ## Validation Stack
 
@@ -122,9 +127,9 @@ See [docs/architecture.md](docs/architecture.md) for the operating model and [do
 
 - translation principles: [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
 - translation voice and house preferences: [STYLE_GUIDE.md](STYLE_GUIDE.md)
-- authority order: [docs/OSF_EDITORIAL_AUTHORITY.md](docs/OSF_EDITORIAL_AUTHORITY.md)
-- term entry requirements: [docs/TERM_ENTRY_STANDARD.md](docs/TERM_ENTRY_STANDARD.md)
-- tags and status vocabulary: [docs/TAG_STATUS_VOCABULARY.md](docs/TAG_STATUS_VOCABULARY.md)
+- authority order: [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
+- term entry requirements: [docs/term-entry-standard.md](docs/term-entry-standard.md)
+- tags and status vocabulary: [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
 
 ## Current Priorities
 
@@ -135,7 +140,7 @@ Current review-queue and workflow surface tools include:
 - `python scripts/draft_major_review_queue.py`
 - `python scripts/check_docs_integrity.py`
 
-Planning notes live in [docs/TRANSLATION_WORKFLOW_PLAN.md](docs/TRANSLATION_WORKFLOW_PLAN.md) and the latest review snapshot is in [docs/REPOSITORY_REVIEW_2026-03.md](docs/REPOSITORY_REVIEW_2026-03.md).
+Planning notes live in [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) and the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 
 ## Contributing
 
