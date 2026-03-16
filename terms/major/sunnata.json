@@ -7,56 +7,60 @@
   "preferred_translation": "emptiness",
   "alternative_translations": [
     "voidness",
-    "emptiness of self"
+    "emptiness of self and what belongs to self"
   ],
   "discouraged_translations": [
-    "nothingness"
+    "nothingness",
+    "nihilism",
+    "mystical oneness"
   ],
   "untranslated_preferred": false,
-  "definition": "Emptiness or voidness, especially the absence of self and what belongs to self.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term, with Dhammarato strongly reinforcing emptiness and here-now practical use. The repository keeps emptiness as the default, but voidness is now a primary-source-backed OSF alternate rather than a merely optional stylistic variant.",
+  "definition": "Emptiness, especially emptiness of self and what belongs to self.",
+  "notes": "The repository keeps emptiness as the default because the OSF glossary already aligns there and because it is the clearest translator-facing doctrinal noun in English. Voidness remains a controlled Buddhadasa-line alternate when void mind or voidness language is the actual pedagogical emphasis, especially in practical prose about a mind empty of selfing and appropriation. In this repository, suññatā is not a mystical absolute and not a nihilistic claim that nothing exists. It is governed by anti-self and anti-clinging logic: the relevant emptiness is emptiness of self and of what belongs to self. The OSF glossary and Buddhadasa usage profile both support that practical, non-metaphysical reading, while Dhammarato-facing emptiness language reinforces its here-now applicability. Translators should therefore preserve emptiness as the default, tolerate voidness as a controlled OSF-facing alternate, and explicitly refuse drift toward nihilism, mystical oneness, or vague spiritual abstraction.",
   "context_rules": [
     {
-      "context": "In most doctrinal contexts",
+      "context": "In most doctrinal and translator-facing contexts",
       "rendering": "emptiness",
       "notes": "Default project rendering."
     },
     {
-      "context": "In Buddhadasa-style practical prose about the mind free of selfing",
+      "context": "In Buddhadasa-line practical prose about void mind or a mind empty of selfing",
       "rendering": "voidness",
-      "notes": "Source-backed alternate when the imagery of void mind is central."
+      "notes": "Source-backed alternate when the voidness idiom itself is carrying the explanation."
     },
     {
       "context": "When the passage explicitly contrasts emptiness with self and ownership",
-      "rendering": "emptiness of self",
-      "notes": "Use selectively in explanatory prose."
-    },
-    {
-      "context": "In Buddhadasa-line practical prose about the mind free of selfing and ownership",
-      "rendering": "voidness",
-      "notes": "Primary-source-backed alternate in the OSF line."
+      "rendering": "emptiness of self and what belongs to self",
+      "notes": "Use selectively in explanatory prose when the anti-self function needs to be stated directly."
     },
     {
       "context": "In broad doctrinal exposition where the standard English doctrinal noun is needed",
       "rendering": "emptiness",
-      "notes": "Default OSF rendering retained in this slice."
+      "notes": "Keep the default stable rather than rotating among mystical or scholastic alternatives."
     }
   ],
   "related_terms": [
     "amata",
-    "anattā",
-    "attā",
+    "anatta",
+    "atta",
     "citta",
-    "nibbāna",
+    "nibbana",
     "sunyata",
-    "tathatā"
+    "tathata",
+    "vimutti"
   ],
   "example_phrases": [
     {
       "pali": "suññato lokaṃ avekkhassu",
       "translation": "look upon the world as empty",
-      "notes": "Classic emptiness instruction.",
+      "notes": "Classic emptiness instruction governed by the default rendering.",
       "source": "SN 35.85"
+    },
+    {
+      "pali": "suññataṃ upasampajja viharati",
+      "translation": "one dwells having entered emptiness",
+      "notes": "Shows suññatā as a governed doctrinal-practical term rather than abstract philosophy.",
+      "source": "MN 121"
     }
   ],
   "sutta_references": [
@@ -67,25 +71,25 @@
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
-      "source": "Dhammarato",
-      "priority": "dhammarato",
-      "kind": "rationale",
-      "scope": "Named in notes as support for the current suññatā policy."
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports emptiness as the current translator-facing house default."
     },
     {
-      "source": "Buddhadasa",
+      "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current suññatā policy."
+      "scope": "Supports voidness and void-mind language as controlled practical alternates rather than replacements for the default."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'emptiness' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'emptiness' as the default rendering in the entry's governed doctrinal and practical contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'voidness' only when the Buddhadasa-line practical idiom is actually doing work, or when the anti-self function must be made explicit in explanatory prose. Do not flatten suññatā into nothingness, nihilism, mystical oneness, or vague spiritual abstraction.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'nothingness' or other unrecorded alternates."
+    "drift_risk": "Prevents emptiness-language from drifting into nihilism, mysticism, or uncontrolled synonym rotation while preserving the OSF/Buddhadasa practical line."
   }
 }

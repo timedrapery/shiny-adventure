@@ -9,16 +9,17 @@
     "ending",
     "cessation",
     "discontinuity",
-    "to stop",
-    "to cease"
+    "stop",
+    "cease"
   ],
   "discouraged_translations": [
     "annihilation",
-    "wearing away"
+    "wearing away",
+    "mere cessation"
   ],
   "untranslated_preferred": false,
   "definition": "The quenching or ending of dissatisfaction and its causes.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. Dhammarato strongly reinforces cessation language in four-truth framing, while Buddhadasa reinforces quenching, stopping, and the ending of the fires. The repository keeps quenching as the current default in this slice, but cessation remains a controlled primary-source-backed doctrinal option within OSF house style. The OSF publication What Is And Is Not The Path further sharpens the practical sequence dukkha to nirodha by presenting the task as noticing stress or dissatisfaction and getting free from it right away. Translators should not alternate quenching and cessation inside the same doctrinal frame without a clear reason, and linked -nirodha compounds or imassa nirodhā formulas should inherit the headword unless they explicitly document an override. In this repository, nirodha must also stay distinct from khaya: khaya is wearing away or exhaustion, while nirodha is quenching. It likewise differs from pahāna as abandoning, virāga as fading, and vossagga as relinquishment.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. Dhammarato-facing and rough OSF glossary materials do use stopping, ceasing, ending, and cessation language for nirodha, and those are valuable explanatory surfaces. But the matured repository default remains quenching because it preserves the doctrinal distinction from khaya and keeps the fire-stopping side audible. Buddhadasa strongly supports quenching, stopping, and cooling imagery, while What Is And Is Not The Path supports immediate practical ending-language in dukkha-nirodha explanation. The repository therefore tolerates cessation and ending as controlled OSF-facing alternates in named explanatory frames, but explicitly refuses drift back to loose generic cessation as the ungoverned default across linked `-nirodha` compounds and formulas. In this repository, nirodha must stay distinct from khaya as wearing away, from pahāna as abandoning, and from virāga as fading.",
   "context_rules": [
     {
       "context": "In core doctrinal contexts, especially the four noble truths",
@@ -36,24 +37,19 @@
       "notes": "Source-backed alternate, not the house default."
     },
     {
-      "context": "In OSF-glossary style plain-English explanation of the term",
+      "context": "In rough OSF-glossary style plain-English explanation of the term",
       "rendering": "ending",
-      "notes": "Source-backed explanatory alternate alongside stop and cease."
+      "notes": "Tolerated explanatory alternate alongside stop and cease, but not the default."
     },
     {
-      "context": "In OSF four-noble-truths exposition where the standard doctrinal formula is being named plainly",
+      "context": "In OSF four-noble-truths exposition where the standard doctrinal formula is being named in familiar teaching language",
       "rendering": "cessation",
-      "notes": "Primary-source-backed alternate elevated by Dhammarato usage."
+      "notes": "Primary-source-backed alternate elevated by Dhammarato usage, but still not the house default."
     },
     {
       "context": "In Buddhadasa-line explanation emphasizing the extinguishing of the fires or the stopping of the process",
       "rendering": "quenching",
       "notes": "Primary-source-backed default retained in this slice."
-    },
-    {
-      "context": "In OSF practical instruction emphasizing immediate release from present stress",
-      "rendering": "cessation",
-      "notes": "Use when the line is about the direct ending of the problem now rather than the imagery of quenching."
     },
     {
       "context": "In linked -nirodha compounds where no explicit override is recorded",
@@ -63,7 +59,7 @@
     {
       "context": "In formula lines of the form imassa nirodhā idaṃ nirujjhati",
       "rendering": "quenching",
-      "notes": "Keep the quenching side audible unless a local doctrinal frame explicitly requires cessation."
+      "notes": "Keep the quenching side audible unless a local doctrinal frame explicitly requires a controlled alternate."
     }
   ],
   "related_terms": [
@@ -87,11 +83,13 @@
     {
       "pali": "dukkha-nirodha",
       "translation": "quenching of dissatisfaction",
+      "notes": "Default truth-context rendering.",
       "source": "SN 56.11"
     },
     {
       "pali": "taṇhānirodha",
       "translation": "quenching of ignorant wanting",
+      "notes": "Keeps the headword aligned with the craving-family pass.",
       "source": "SN 56.11"
     },
     {
@@ -113,7 +111,7 @@
   ],
   "authority_basis": [
     {
-      "source": "Dhammarato quotes draft",
+      "source": "Dhammarato quotes profile",
       "priority": "osf-house",
       "kind": "context-rule",
       "scope": "Supports cessation language in four-truth framing without displacing the house default."
@@ -127,10 +125,10 @@
   ],
   "translation_policy": {
     "default_scope": "Use quenching as the default in core doctrinal treatment and linked -nirodha compounds unless a narrower rule overrides it.",
-    "when_not_to_apply": "Do not alternate between quenching and cessation inside the same doctrinal frame, chain formula, or linked -nirodha family without an explicit reason. Do not replace nirodha with khaya-language by habit.",
+    "when_not_to_apply": "Do not alternate between quenching and cessation inside the same doctrinal frame, chain formula, or linked -nirodha family without an explicit reason. Treat cessation, stop, and end as controlled OSF-facing alternates, not as an unrestricted default. Do not replace nirodha with khaya-language by habit.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents inconsistent switching between quenching, cessation, exhaustion, and stronger metaphysical readings."
+    "drift_risk": "Prevents rough OSF cessation-shorthand from erasing the repo's quenching default or collapsing nirodha into khaya, annihilation, or generic ending-language."
   },
   "status": "stable",
-  "version_notes": "Strengthened to keep quenching distinct from wearing-away language and to extend the headword rule explicitly into linked -nirodha compounds."
+  "version_notes": "Strengthened in the OSF reconciliation pass to classify OSF cessation-language as tolerated explanatory alternate while preserving quenching as the house default."
 }
