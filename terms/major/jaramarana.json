@@ -13,8 +13,8 @@
     "mortality"
   ],
   "untranslated_preferred": false,
-  "definition": "Ageing and dying as the culminating suffering conditioned by rebirth in the dependent-arising sequence.",
-  "notes": "The project uses ageing and dying as the house default because it reads naturally in English while preserving the compound movement of the term. Old age and death remains the literal anchor, and aging-and-death remains available where the tighter doctrinal compound is preferred. The term should be heard as the culminating afflicted outcome of the chain, along with the standard expansion into sorrow and related forms of distress. The OSF glossary's plain-language treatment of aging/death supports this readable default while keeping the doctrinal compound explicit.",
+  "definition": "Ageing and dying as the culminating suffering conditioned by birth in the dependent-arising sequence.",
+  "notes": "The project uses ageing and dying as the house default because it reads naturally in English while preserving the compound movement of the term. Old age and death remains the literal anchor, and aging-and-death remains available where the tighter doctrinal compound is preferred. In the dependent-arising family the term should be heard as the afflicted culmination that follows birth, together with the standard expansion into sorrow, lamentation, dissatisfaction, distress, and despair. Translators should keep the terminal formula stable and should not detach jarāmaraṇa from its standard downstream expansion when the full line is in view. The OSF glossary's plain-language treatment of aging/death supports this readable default while keeping the doctrinal compound explicit, and the Buddhadasa usage profile supports keeping the terminal link tied to the practical dependent-arising movement from birth into suffering.",
   "context_rules": [
     {
       "context": "In most dependent-arising contexts",
@@ -32,7 +32,7 @@
       "notes": "Acceptable alternate outside tightly patterned formula translation."
     },
     {
-      "context": "When the passage emphasizes the culminating suffering that follows rebirth in the sequence",
+      "context": "When the passage emphasizes the culminating suffering that follows birth in the sequence",
       "rendering": "ageing and dying",
       "notes": "Keep the place of the link as the terminal compound explicit."
     }
@@ -51,7 +51,7 @@
   "example_phrases": [
     {
       "pali": "jātipaccayā jarāmaraṇaṃ",
-      "translation": "with rebirth as condition, ageing and dying",
+      "translation": "with birth as condition, ageing and dying",
       "notes": "Closing link of the standard sequence.",
       "source": "SN 12.2"
     },
@@ -78,6 +78,12 @@
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports the readable ageing and dying default while preserving compound-level doctrinal precision."
+    },
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports keeping the terminal link tied to the practical dependent-arising movement from birth into suffering rather than isolating it as a bare mortality abstraction."
     }
   ],
   "translation_policy": {

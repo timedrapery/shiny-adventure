@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Taking experience personally or ignorantly holding onto experience, views, habits, or identity.",
-  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. The OSF glossary's practical treatment of grasping/appropriation language supports preserving taking personally as the governed default in this family. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising and aggregate formulae unless a compound entry records a narrower rule.",
+  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. The OSF glossary's practical treatment of grasping and appropriation language supports preserving taking personally as the governed default in this family. Translators should not substitute attachment as a default and should keep the personalizing force explicit in dependent-arising and heap-related formulae unless a compound or formula entry records a narrower rule. One important heap-family override now needs to stay explicit: in the fixed doctrinal expression pañcupādānakkhandhā, the repository uses five clung-to heaps as the default whole-expression rendering, while five heaps taken personally remains the explanatory alternate when the appropriative force itself needs to be foregrounded. SN 22.22 supports this family through the constituent clung-to-heap compounds.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -47,9 +47,15 @@
       "context": "In compounds such as kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, and attavādupādāna",
       "rendering": "taking personally",
       "notes": "The family should inherit the appropriative force of the headword unless a compound explicitly records a different emphasis."
+    },
+    {
+      "context": "In the fixed expression pañcupādānakkhandhā",
+      "rendering": "clung-to",
+      "notes": "Use the whole-expression default five clung-to heaps unless the passage specifically needs the more explicit alternate five heaps taken personally."
     }
   ],
   "related_terms": [
+    "atta",
     "attavādupādāna",
     "bhava",
     "diṭṭhupādāna",
@@ -57,9 +63,12 @@
     "jati",
     "jāti",
     "kāmupādāna",
+    "khandha",
     "lobha",
     "nibbāna",
+    "pancupadanakkhandha",
     "paṭiccasamuppāda",
+    "sakkaya",
     "sakkaya-ditthi",
     "saṃsāra",
     "silabbata-paramasa",
@@ -76,35 +85,48 @@
     },
     {
       "pali": "pañcupādānakkhandhā",
-      "translation": "the five heaps taken personally",
-      "notes": "Important aggregate connection.",
+      "translation": "the five clung-to heaps",
+      "notes": "Important heap-family expression with a fixed whole-expression default.",
       "source": "SN 56.11"
+    },
+    {
+      "pali": "rūpupādānakkhandho",
+      "translation": "the form clung-to heap",
+      "notes": "Shows the same appropriative force in constituent heap analysis.",
+      "source": "SN 22.22"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "MN 9",
+    "SN 22.22",
     "SN 56.11"
   ],
   "tags": [
     "core-doctrine",
     "dependent-origination",
-    "four-noble-truths"
+    "four-noble-truths",
+    "aggregates",
+    "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to extend the appropriative rule into the upādāna compound family and to block drift toward generic attachment language.",
+  "version_notes": "Expanded to govern the heap-family override in pañcupādānakkhandhā while preserving taking personally as the headword default elsewhere.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports preserving appropriative force in the upādāna family and discouraging generic attachment language."
+    },
+    {
+      "source": "SN 22.22",
+      "kind": "compound-policy",
+      "scope": "Supports fixed heap-family expressions built from upādāna and khandha."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'taking personally' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'attachment' or other unrecorded alternates."
+    "default_scope": "Use 'taking personally' as the default rendering in the entry's governed translation contexts unless a recorded context rule or fixed expression overrides it.",
+    "when_not_to_apply": "Do not mechanically carry the headword default into pañcupādānakkhandhā, where the whole expression is governed as five clung-to heaps.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between general appropriation language, dependent-arising usage, and the fixed clung-to-heaps expression."
   }
 }

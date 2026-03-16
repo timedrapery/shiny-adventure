@@ -1,0 +1,50 @@
+{
+  "term": "katame ca, bhikkhave, pañcupādānakkhandhā",
+  "normalized_term": "pancime-bhikkhave-upadanakkhandha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "and what, bhikkhus, are the five clung-to heaps",
+  "preferred_translation": "and what, bhikkhus, are the five clung-to heaps",
+  "alternative_translations": [
+    "and what, bhikkhus, are the five heaps taken personally"
+  ],
+  "discouraged_translations": [
+    "and what are the five heaps of attachment"
+  ],
+  "definition": "Canonical heading for the five clung-to heaps and their constituent enumeration.",
+  "notes": "This phrase governs the appropriated version of the family and should stay aligned with the fixed whole-expression policy for pañcupādānakkhandhā. The shorter clung-to wording remains the default. Use the longer heaps-taken-personally alternate only when the local prose needs the appropriative force spelled out more explicitly.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the standard heading",
+      "rendering": "and what, bhikkhus, are the five clung-to heaps",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When explanatory prose needs the appropriative force highlighted",
+      "rendering": "and what, bhikkhus, are the five heaps taken personally",
+      "notes": "Allowed alternate for explicitness."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancupadanakkhandha",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "katame ca, bhikkhave, pañcupādānakkhandhā",
+      "translation": "and what, bhikkhus, are the five clung-to heaps?",
+      "notes": "Canonical heading for the appropriated set.",
+      "source": "SN 22.48"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.48"
+  ],
+  "tags": [
+    "aggregates",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

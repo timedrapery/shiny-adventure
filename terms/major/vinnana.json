@@ -14,8 +14,8 @@
     "witness consciousness"
   ],
   "untranslated_preferred": false,
-  "definition": "Knowing associated with a sense field and its object, central to both aggregate and dependent-origination analysis.",
-  "notes": "The project uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. The OSF glossary's consciousness/knowing language supports retaining a conditioned-process reading and avoiding witness-style metaphysical drift. Translators should keep the sixfold sensory uses, aggregate uses, and nāmarūpa-related uses aligned with this conditioned-process reading and should not let consciousness become an automatic default.",
+  "definition": "Knowing associated with a sense field and its object, central to both heap and dependent-arising analysis.",
+  "notes": "The project uses knowing as the house default. The literal force is knowing distinctly, and the term should be heard as conditioned, multiple, and dependent on the sense process rather than as a permanent witness behind experience. Consciousness remains an acceptable alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used cautiously in explanation when it does not suggest a metaphysical substrate. The OSF glossary's consciousness and knowing language supports retaining a conditioned-process reading and avoiding witness-style metaphysical drift. Translators should keep the sixfold sensory uses, the heap-family uses, and the dependent-arising uses aligned with this conditioned-process reading and should not let consciousness become an automatic default. In viññāṇakkhandha and canonical heap enumerations, the project still prefers knowing so the five heaps read in one voice with the other members.",
   "context_rules": [
     {
       "context": "When referring to the six sense modes of viññāṇa",
@@ -23,9 +23,9 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "When explanatory prose needs a smoother English line",
-      "rendering": "awareness",
-      "notes": "Use carefully and do not imply a permanent substrate."
+      "context": "In viññāṇakkhandha and canonical five-heaps enumeration",
+      "rendering": "knowing",
+      "notes": "Keep the heap family aligned with the house default."
     },
     {
       "context": "When the passage emphasizes the reciprocal relation of knowing and name-and-form",
@@ -39,9 +39,9 @@
     }
   ],
   "related_terms": [
-    "anattā",
-    "asañña",
-    "āyatana",
+    "anatta",
+    "asanna",
+    "ayatana",
     "cakkhu-vinnana",
     "ghana-vinnana",
     "jivha-vinnana",
@@ -49,14 +49,19 @@
     "khandha",
     "mano",
     "mano-vinnana",
-    "nāmarūpa",
-    "paṭiccasamuppāda",
+    "namarupa",
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "paticcasamuppada",
     "phassa",
-    "saḷāyatana",
-    "saññā",
+    "sanna",
+    "sankhara",
+    "salayatana",
     "sota-vinnana",
-    "vedanā",
-    "vinnana-ahara"
+    "vedana",
+    "vinnana-ahara",
+    "vinnanakkhandha",
+    "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
   ],
   "example_phrases": [
     {
@@ -70,32 +75,49 @@
       "translation": "with putting things together as condition, knowing",
       "notes": "Standard dependent-arising link.",
       "source": "SN 12.2"
+    },
+    {
+      "pali": "yaṃ kiñci viññāṇaṃ",
+      "translation": "whatever knowing",
+      "notes": "Canonical heap enumeration and not-self pattern.",
+      "source": "SN 22.59"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "SN 22.79",
+    "SN 22.59",
     "DN 15"
   ],
   "tags": [
     "dependent-origination",
     "aggregates",
-    "core-doctrine"
+    "core-doctrine",
+    "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to keep viññāṇa aligned with conditioned process across sense-field, aggregate, and dependent-arising contexts.",
+  "version_notes": "Expanded to keep viññāṇa aligned with conditioned process across sense-field, heap-family, and dependent-arising contexts.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports conditioned-process handling of viññāṇa while allowing consciousness as a controlled alternate."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the term's use in canonical five-heaps enumeration and not-self formulas."
+    },
+    {
+      "source": "SN 12.2",
+      "kind": "context-rule",
+      "scope": "Supports keeping the same conditioned-process reading in dependent-arising links."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'knowing' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'knowing' as the default rendering across sense-field, heap-family, and dependent-arising contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not let consciousness become the unstated default in the heap family, and do not let awareness drift into witness-style metaphysics.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'pure awareness' or other unrecorded alternates."
+    "drift_risk": "Prevents drift between heap-context, six-sense context, and dependent-arising context for viññāṇa."
   }
 }

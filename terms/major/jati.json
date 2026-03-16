@@ -4,23 +4,28 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "birth",
-  "preferred_translation": "rebirth",
+  "preferred_translation": "birth",
   "alternative_translations": [
+    "rebirth",
     "conception",
-    "birth",
     "arising"
   ],
   "discouraged_translations": [
-    "mere birth"
+    "mere biological birth"
   ],
   "untranslated_preferred": false,
-  "definition": "Rebirth, conception, or birth, especially as conditioned by becoming in dependent arising.",
-  "notes": "The project keeps birth as the literal sense while using rebirth as the house default. Conception is a strong alternate when the arising side of the term should be heard more concretely, and birth remains available where the broader event sense reads better. The term also has wider semantic possibilities outside the dependent-arising chain, but this entry is governed first by its doctrinal role in the sequence. The Buddhadasa usage profile supports keeping jāti active within dependent-arising analysis rather than flattening it into a merely generic event-label. Translators should not silently replace rebirth with birth or conception inside the standard chain unless the local passage explicitly narrows the point and the surrounding translation stays consistent.",
+  "definition": "Birth, conception, or arising, especially as conditioned by becoming in dependent arising.",
+  "notes": "The project now keeps birth as the default because it is the most formula-ready rendering and leaves the term open to both practical here-and-now readings and broader renewed-existence readings without forcing one interpretation into every occurrence. Rebirth remains an acceptable alternate when the passage is clearly operating in a renewed-existence or comparative doctrinal register, and conception remains useful when the initiating side of the event should be heard more concretely. The Buddhadasa usage profile is important here: in dependent-arising analysis, jāti should stay available for the moment-to-moment birth of I and mine rather than being narrowed automatically to one later doctrinal frame. OSF editorial authority matters here as well, because it explicitly treats Buddhadasa as primary guidance for practical readings of jāti in dependent arising. Translators should therefore keep birth as the chain default, use rebirth only when the local frame clearly warrants it, and keep the movement from bhava into jāti into jarāmaraṇa stable across related formulas.",
   "context_rules": [
     {
       "context": "In the standard dependent-arising sequence",
-      "rendering": "rebirth",
+      "rendering": "birth",
       "notes": "Default project rendering."
+    },
+    {
+      "context": "In practical or Buddhadāsa-line explanation of the arising of I, mine, or renewed selfing",
+      "rendering": "birth",
+      "notes": "Keep the term open enough for immediate dependent-arising analysis."
     },
     {
       "context": "When the passage emphasizes the initiating or formative moment",
@@ -28,13 +33,13 @@
       "notes": "Use when the arising side of the term should be foregrounded."
     },
     {
-      "context": "When the passage emphasizes the broader event rather than the initiating moment",
-      "rendering": "birth",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "context": "When the passage is clearly using a renewed-existence or comparative doctrinal register",
+      "rendering": "rebirth",
+      "notes": "Use when the local frame explicitly requires that narrower reading."
     },
     {
       "context": "When the passage emphasizes the movement from becoming into aging-and-death",
-      "rendering": "rebirth",
+      "rendering": "birth",
       "notes": "Keep the place of the link within the chain explicit."
     }
   ],
@@ -50,13 +55,13 @@
   "example_phrases": [
     {
       "pali": "bhavapaccayā jāti",
-      "translation": "with becoming as condition, rebirth",
+      "translation": "with becoming as condition, birth",
       "notes": "Standard dependent-arising link.",
       "source": "SN 12.2"
     },
     {
       "pali": "jāti pi dukkhā",
-      "translation": "rebirth too is dissatisfaction",
+      "translation": "birth too is dissatisfaction",
       "notes": "Four noble truths framing.",
       "source": "SN 56.11"
     }
@@ -77,13 +82,19 @@
       "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Supports keeping jāti tied to its dependent-arising role rather than flattening it into a generic biological event."
+      "scope": "Supports keeping jāti open to practical and immediate dependent-arising readings rather than forcing every occurrence into a purely biological or later doctrinal frame."
+    },
+    {
+      "source": "OSF editorial authority",
+      "priority": "osf-house",
+      "kind": "context-rule",
+      "scope": "Supports treating Buddhadāsa as primary guidance for practical readings of jāti in dependent arising."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'rebirth' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'birth' as the default rendering in dependent-arising contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not force 'rebirth' into every chain occurrence; use it only when the local doctrinal frame clearly requires that narrower reading.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'mere birth' or other unrecorded alternates."
+    "drift_risk": "Prevents the term from drifting into an automatic 'rebirth' reading that blocks practical here-and-now dependent-arising translation."
   }
 }

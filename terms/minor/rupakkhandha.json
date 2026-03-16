@@ -3,11 +3,61 @@
   "normalized_term": "rupakkhandha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "form heap",
-  "definition": "The form heap within the five-heap analysis of experience.",
-  "status": "reviewed",
   "literal_meaning": "heap of form",
+  "preferred_translation": "form heap",
+  "alternative_translations": [
+    "aggregate of form"
+  ],
+  "discouraged_translations": [
+    "material aggregate"
+  ],
+  "definition": "The first of the five heaps: form considered as one member of the coordinated heap family.",
+  "notes": "Keep this compound aligned with the headword defaults of rūpa and khandha. The project prefers form heap so the constituent members read in one voice with the collective expression five heaps. Aggregate of form remains a comparative alternate in explanatory prose, but it should not displace the house rendering in direct translation. SN 22.48 supports this canonical constituent-compound usage.",
+  "context_rules": [
+    {
+      "context": "In direct heap analysis",
+      "rendering": "form heap",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using familiar aggregate terminology",
+      "rendering": "aggregate of form",
+      "notes": "Allowed alternate for orientation."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "rupa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rūpakkhandho",
+      "translation": "the form heap",
+      "notes": "Canonical constituent-heap expression.",
+      "source": "SN 22.48"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.48"
+  ],
   "tags": [
     "aggregates"
-  ]
+  ],
+  "status": "stable",
+  "version_notes": "Expanded to keep the constituent heap compounds aligned with the house heap-family defaults.",
+  "authority_basis": [
+    {
+      "source": "SN 22.48",
+      "kind": "context-rule",
+      "scope": "Supports the canonical constituent-heap expression."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'form heap' as the default rendering for the compound unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not rotate to aggregate-language in direct translation by habit.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the constituent heap compound from drifting away from the coordinated five-heaps family."
+  }
 }

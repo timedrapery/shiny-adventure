@@ -12,8 +12,8 @@
     "concept"
   ],
   "untranslated_preferred": false,
-  "definition": "The recognizing and marking function by which experience is identified and categorized.",
-  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar aggregate discussions, but it can sound too passive if used as the only rendering. The OSF glossary establishes recognition as the house default for this aggregate and records perception as a tolerated alternate.",
+  "definition": "The recognizing and marking function by which experience is identified and categorized, especially as one of the five heaps.",
+  "notes": "The project prefers recognition because it highlights the active identifying function of the term. Perception remains acceptable in familiar five-heap discussions, but it can sound too passive if used as the only rendering. In the five-heaps family, saññā should be heard as the marking and identifying heap that works alongside vedanā, saṅkhārā, and viññāṇa without collapsing into any of them. Translators should therefore keep recognition as the default in direct heap analysis, use perception only as a controlled alternate for reader orientation, and avoid concept because it makes the term too abstract and over-intellectual. The OSF glossary establishes recognition as the house default for this heap, and SN 22.59 supports keeping that same wording in the standard formulas.",
   "context_rules": [
     {
       "context": "In most analytical and doctrinal contexts",
@@ -21,53 +21,77 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In explanatory prose engaging familiar five-aggregate terminology",
+      "context": "In direct five-heaps and heap-compound contexts",
+      "rendering": "recognition",
+      "notes": "Keep the active identifying function explicit within the coordinated family."
+    },
+    {
+      "context": "In explanatory prose engaging familiar aggregate terminology",
       "rendering": "perception",
       "notes": "Acceptable when reader orientation matters."
     }
   ],
   "related_terms": [
-    "asañña",
-    "āyatana",
+    "anatta",
+    "asanna",
+    "ayatana",
     "khandha",
-    "saḷāyatana",
-    "viññāṇa"
+    "pancakkhandha",
+    "pancupadanakkhandha",
+    "sannakkhandha",
+    "salayatana",
+    "vedana",
+    "vinnana",
+    "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
   ],
   "example_phrases": [
     {
       "pali": "saññākkhandha",
       "translation": "the recognition heap",
-      "notes": "Shows the term in aggregate analysis.",
-      "source": "SN 22.79"
+      "notes": "Shows the term in heap analysis.",
+      "source": "SN 22.48"
+    },
+    {
+      "pali": "yaṃ kiñci saññā",
+      "translation": "whatever recognition",
+      "notes": "Canonical enumerative pattern used in heap analysis.",
+      "source": "SN 22.59"
     },
     {
       "pali": "aniccasaññā",
       "translation": "recognition of impermanence",
-      "notes": "Useful for meditative-development contexts.",
+      "notes": "Useful for meditative-development contexts without overriding the heap default.",
       "source": "AN 10.60"
     }
   ],
   "sutta_references": [
-    "SN 22.79",
+    "SN 22.48",
+    "SN 22.59",
     "AN 10.60"
   ],
   "tags": [
     "core-doctrine",
-    "aggregates"
+    "aggregates",
+    "translation-sensitive"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping recognition as the default rendering that preserves the active identifying function, with perception tolerated in familiar aggregate contexts."
+    },
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the term's use in canonical heap enumeration and not-self formulas."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'recognition' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'concept' or other unrecorded alternates."
+    "default_scope": "Use 'recognition' as the default rendering in direct heap analysis and related doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not let perception become the unstated default across the family, and do not blur saññā into viññāṇa or concept-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift toward passive perception language or over-intellectual concept language in the five-heaps family."
   }
 }

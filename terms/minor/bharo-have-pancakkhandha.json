@@ -1,0 +1,48 @@
+{
+  "term": "bhāro have pañcakkhandhā",
+  "normalized_term": "bharo-have-pancakkhandha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "the five heaps are indeed a burden",
+  "preferred_translation": "the five heaps are indeed a burden",
+  "alternative_translations": [
+    "the five aggregates are a burden"
+  ],
+  "discouraged_translations": [
+    "the five groups are heavy"
+  ],
+  "definition": "Canonical burden formula applied to the five heaps.",
+  "notes": "Use this phrase record when the burden imagery is foregrounded. It inherits the house default for pañcakkhandhā and keeps the family distinct from the appropriated expression pañcupādānakkhandhā unless the source text explicitly uses the latter instead.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the burden formula",
+      "rendering": "the five heaps are indeed a burden",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using familiar aggregate terminology",
+      "rendering": "the five aggregates are a burden",
+      "notes": "Allowed alternate for orientation."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancakkhandha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhāro have pañcakkhandhā",
+      "translation": "the five heaps are indeed a burden",
+      "notes": "Canonical burden line for the family.",
+      "source": "SN 22.22"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.22"
+  ],
+  "tags": [
+    "aggregates",
+    "formula"
+  ],
+  "status": "stable"
+}

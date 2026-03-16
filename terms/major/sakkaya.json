@@ -1,0 +1,103 @@
+{
+  "term": "sakkāya",
+  "normalized_term": "sakkaya",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "existing body, identity-body",
+  "preferred_translation": "identity",
+  "alternative_translations": [
+    "personal identity",
+    "identity-body"
+  ],
+  "discouraged_translations": [
+    "personality",
+    "ego"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The appropriated identity built around the five clung-to heaps and taken as self or as belonging to self.",
+  "notes": "The project keeps identity as the default because it is clear, compact, and keeps the practical force of self-identification in view without importing modern ego theory. Personal identity remains an acceptable alternate when English needs a fuller phrase, while identity-body is kept only for source-facing explanation of the compound. In canonical heap analysis sakkāya is not an independently existing soul or person behind the heaps; it names the appropriated identity built around the five clung-to heaps. This means translators should keep the term closely aligned with pañcupādānakkhandhā, upādāna, attā, anattā, and sakkāya-diṭṭhi. The OSF glossary supports identity-language here, and SN 22.105 gives the crucial governing formulation that identifies sakkāya with the five clung-to heaps.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal contexts such as sakkāya-diṭṭhi and analysis of appropriation",
+      "rendering": "identity",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When English needs a fuller phrase to avoid sounding too abstract",
+      "rendering": "personal identity",
+      "notes": "Acceptable alternate when the self-identifying force needs to be explicit."
+    },
+    {
+      "context": "In source-facing explanation of the compound's literal force",
+      "rendering": "identity-body",
+      "notes": "Use sparingly in notes, not as the project default in running translation."
+    },
+    {
+      "context": "In the canonical definition katamo ca, bhikkhave, sakkāyo",
+      "rendering": "identity",
+      "notes": "Keep the term tightly linked to the five clung-to heaps rather than treating it as a vague notion of personality."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "atta",
+    "attavadupadana",
+    "ditthi",
+    "khandha",
+    "pancupadanakkhandha",
+    "sakkaya-ditthi",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "katamo ca, bhikkhave, sakkāyo? pañcupādānakkhandhā",
+      "translation": "and what, bhikkhus, is identity? the five clung-to heaps",
+      "notes": "Canonical equation tying sakkāya directly to the appropriated heaps.",
+      "source": "SN 22.105"
+    },
+    {
+      "pali": "sakkāyassa samudayo",
+      "translation": "the arising of identity",
+      "notes": "Useful for passages that frame the term dynamically rather than as a static label.",
+      "source": "SN 22.105"
+    },
+    {
+      "pali": "sakkāyanirodho",
+      "translation": "the quenching of identity",
+      "notes": "Shows how the term aligns with quenching language rather than eternal-self assumptions.",
+      "source": "SN 22.105"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.105",
+    "SN 22.1",
+    "SN 22.89"
+  ],
+  "tags": [
+    "aggregates",
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "version_notes": "Added as a new major entry to stabilize identity-language around the five clung-to heaps and to support sakkāya-diṭṭhi translation policy.",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports identity-language rather than personality or ego language."
+    },
+    {
+      "source": "SN 22.105",
+      "kind": "context-rule",
+      "scope": "Supports the direct equation of sakkāya with the five clung-to heaps and governs the relation to appropriation and quenching."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'identity' as the default rendering in the heap-family and self-view contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not replace the term with 'personality' or 'ego' by habit, and do not treat it as a metaphysical self behind the heaps.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between sakkāya, pañcupādānakkhandhā, and sakkāya-diṭṭhi by keeping the term anchored in appropriated heap-analysis."
+  }
+}

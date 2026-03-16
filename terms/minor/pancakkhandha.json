@@ -1,14 +1,86 @@
 {
-  "term": "pancakkhandha",
+  "term": "pañcakkhandhā",
   "normalized_term": "pancakkhandha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "five heaps",
-  "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
-  "status": "reviewed",
   "literal_meaning": "five heaps",
+  "preferred_translation": "five heaps",
+  "alternative_translations": [
+    "five aggregates"
+  ],
+  "discouraged_translations": [
+    "five groups"
+  ],
+  "definition": "The fivefold heap analysis of experience taken simply as a doctrinal set, without the added appropriative force of pañcupādānakkhandhā.",
+  "notes": "Keep this expression distinct from pañcupādānakkhandhā. The project uses five heaps as the default because it stays aligned with the headword khandha and preserves the rough, unstable force of the family. Five aggregates remains a tolerated alternate in explanatory prose, but it should not silently replace the house term in direct translation. When the context is the four truths, identity view, or appropriation, check whether the text actually uses pañcupādānakkhandhā instead of the simpler collective expression. The OSF glossary supports stable heap-language here, and SN 22.48 supports the canonical heading for the plain set.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the fivefold set",
+      "rendering": "five heaps",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using familiar Buddhist-English terminology",
+      "rendering": "five aggregates",
+      "notes": "Allowed alternate for orientation, not the project default."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancime-bhikkhave-khandha",
+    "pancupadanakkhandha",
+    "rupa",
+    "rupakkhandha",
+    "sanna",
+    "sannakkhandha",
+    "sankhara",
+    "sankharakkhandha",
+    "vedana",
+    "vedanakkhandha",
+    "vinnana",
+    "vinnanakkhandha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañcime, bhikkhave, khandhā",
+      "translation": "these, bhikkhus, are the five heaps",
+      "notes": "Canonical heading for the plain fivefold set.",
+      "source": "SN 22.48"
+    },
+    {
+      "pali": "ime kho, bhikkhave, pañcakkhandhā",
+      "translation": "these, bhikkhus, are the five heaps",
+      "notes": "Collective expression stated directly.",
+      "source": "SN 22.79"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.48",
+    "SN 22.79"
+  ],
   "tags": [
-    "core-doctrine",
-    "core-practice"
-  ]
+    "aggregates",
+    "core-doctrine"
+  ],
+  "status": "stable",
+  "version_notes": "Expanded from a thin placeholder into a governed family expression clearly distinguished from pañcupādānakkhandhā.",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping heap-language stable in the collective expression."
+    },
+    {
+      "source": "SN 22.48",
+      "kind": "context-rule",
+      "scope": "Supports the canonical heading for the fivefold set and the constituent heap compounds."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'five heaps' as the default rendering for the plain collective expression unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not let pañcupādānakkhandhā flatten back into this simpler expression, and do not rotate to 'five aggregates' in direct translation by habit.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents drift between the plain five-heaps set and the appropriated five clung-to heaps."
+  }
 }

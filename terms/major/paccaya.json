@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A condition or supporting factor on which something else depends, arises, or is sustained.",
-  "notes": "The project keeps condition as the default because it is broad enough for dependent-arising formulas and other causal analyses without falsely implying a single strong efficient cause. Support is acceptable when the enabling or sustaining side needs emphasis. Cause is discouraged as a blanket rendering because paccaya is wider than hetu and often names conditions that are concurrent, supportive, or structurally necessary rather than linear causes. The Buddhadasa usage profile, especially its stress on conditionality behind dependent arising, supports keeping condition-language primary here rather than collapsing the term into simple cause-language. Translators should keep linked -paccaya compounds and X-paccayā Y formulas aligned with this headword unless a compound explicitly records a narrower override.",
+  "notes": "The project keeps condition as the default because it is broad enough for dependent-arising formulas and other causal analyses without falsely implying a single strong efficient cause. Support is acceptable when the enabling or sustaining side needs emphasis. Cause is discouraged as a blanket rendering because paccaya is wider than hetu and often names conditions that are concurrent, supportive, or structurally necessary rather than linear causes. The Buddhadasa usage profile, especially its stress on conditionality behind dependent arising, supports keeping condition-language primary here rather than collapsing the term into simple cause-language. The OSF glossary also supports stable condition-language across linked compounds and standard X-paccayā Y formula translation. Translators should keep linked -paccaya compounds and X-paccayā Y formulas aligned with this headword unless a compound or dedicated formula entry explicitly records a narrower override. In formula translation the repository preference is the stable English frame with X as condition, Y rather than ad hoc causal paraphrase.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -54,7 +54,7 @@
     },
     {
       "pali": "nāmarūpapaccayā saḷāyatanaṃ",
-      "translation": "with name-and-form as condition, the six sense fields",
+      "translation": "with name-and-form as condition, the six fields of experience",
       "notes": "Shows the same formula applied to another link.",
       "source": "SN 12.2"
     },
@@ -62,6 +62,12 @@
       "pali": "imasmiṃ sati idaṃ hoti",
       "translation": "when this is present, this comes to be",
       "notes": "Canonical condition formula behind paccaya-language.",
+      "source": "SN 12.61"
+    },
+    {
+      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "translation": "with the quenching of this, this ceases",
+      "notes": "Canonical quenching formula paired with conditionality language.",
       "source": "SN 12.61"
     }
   ],
@@ -84,11 +90,17 @@
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Supports keeping condition and conditionality language primary in dependent-arising formulas instead of collapsing paccaya into simple cause-language."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports stable condition-language across linked compounds and standard X-paccayā Y formula translation."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'condition' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Do not replace the standard 'with X as condition, Y' formula frame with ad hoc cause-language unless a recorded context rule or dedicated formula record requires it.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift back toward 'cause' or other unrecorded alternates."
   }

@@ -1,0 +1,48 @@
+{
+  "term": "pañcime, bhikkhave, khandhā",
+  "normalized_term": "pancime-bhikkhave-khandha",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "these, bhikkhus, are the five heaps",
+  "preferred_translation": "these, bhikkhus, are the five heaps",
+  "alternative_translations": [
+    "these, bhikkhus, are the five aggregates"
+  ],
+  "discouraged_translations": [
+    "these are the five groups"
+  ],
+  "definition": "Canonical heading for the plain five-heaps set.",
+  "notes": "Use this phrase record when the text is introducing the fivefold set as a coordinated doctrinal family. The formula inherits the house rule for khandha and keeps five heaps as the default. The aggregate alternate is allowed for explanatory prose, not as the repository default in direct translation.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the standard heading",
+      "rendering": "these, bhikkhus, are the five heaps",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose using familiar Buddhist-English terminology",
+      "rendering": "these, bhikkhus, are the five aggregates",
+      "notes": "Allowed alternate for orientation."
+    }
+  ],
+  "related_terms": [
+    "khandha",
+    "pancakkhandha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañcime, bhikkhave, khandhā",
+      "translation": "these, bhikkhus, are the five heaps",
+      "notes": "Canonical heading for the plain set.",
+      "source": "SN 22.48"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.48"
+  ],
+  "tags": [
+    "aggregates",
+    "formula"
+  ],
+  "status": "stable"
+}

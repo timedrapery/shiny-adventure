@@ -1,0 +1,58 @@
+{
+  "term": "nāmarūpapaccayā saḷāyatanaṃ",
+  "normalized_term": "namarupapaccaya-salayatanam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with nāmarūpa as condition, saḷāyatana",
+  "preferred_translation": "with name-and-form as condition, the six fields of experience",
+  "definition": "Forward-link line connecting nāmarūpa and saḷāyatana.",
+  "notes": "Use this record for the whole line. It keeps the phrase aligned with the repository's compact handling of nāmarūpa and experiential handling of saḷāyatana. The OSF glossary supports this coordinated inheritance from nāmarūpa and saḷāyatana in the formula line.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with name-and-form as condition, the six fields of experience",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled alternate for saḷāyatana is already in use",
+      "rendering": "with name-and-form as condition, the six sense fields",
+      "notes": "Use only when the surrounding translation already uses that alternate."
+    }
+  ],
+  "related_terms": [
+    "nāmarūpa",
+    "paccaya",
+    "paṭiccasamuppāda",
+    "saḷāyatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, the six fields of experience",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports coordinated inheritance from nāmarūpa and saḷāyatana in the formula line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking nāmarūpa and saḷāyatana in the forward chain.",
+    "when_not_to_apply": "Do not reduce saḷāyatana to anatomy or bare sense organs when the chain formula is in view.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the line from collapsing the experiential structure of saḷāyatana."
+  }
+}

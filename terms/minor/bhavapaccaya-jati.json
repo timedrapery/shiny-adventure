@@ -1,0 +1,58 @@
+{
+  "term": "bhavapaccayā jāti",
+  "normalized_term": "bhavapaccaya-jati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with bhava as condition, jāti",
+  "preferred_translation": "with becoming as condition, birth",
+  "definition": "Forward-link line connecting bhava and jāti.",
+  "notes": "Use this record for the whole line. It carries the repository's updated cluster decision to keep birth as the chain default for jāti while allowing rebirth as a controlled alternate only when a narrower local frame requires it. The Buddhadasa usage profile supports keeping jāti open to practical and immediate readings in dependent-arising translation.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with becoming as condition, birth",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When the local doctrinal frame is explicitly using rebirth as a controlled alternate for jāti",
+      "rendering": "with becoming as condition, rebirth",
+      "notes": "Use only when the surrounding passage clearly warrants the narrower reading."
+    }
+  ],
+  "related_terms": [
+    "bhava",
+    "jāti",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavapaccayā jāti",
+      "translation": "with becoming as condition, birth",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "compound-policy",
+      "scope": "Supports keeping jāti open to practical and immediate readings in dependent-arising translation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard line linking bhava and jāti in the forward chain.",
+    "when_not_to_apply": "Do not force rebirth into the line unless the local doctrinal frame clearly requires it.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the line from hardening into an automatic rebirth reading."
+  }
+}

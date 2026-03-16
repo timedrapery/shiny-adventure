@@ -1,0 +1,51 @@
+{
+  "term": "katamo ca, bhikkhave, sakkāyo, pañcupādānakkhandhā",
+  "normalized_term": "katamo-ca-bhikkhave-sakkayo",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "and what, bhikkhus, is identity, the five clung-to heaps",
+  "preferred_translation": "and what, bhikkhus, is identity, the five clung-to heaps",
+  "alternative_translations": [
+    "and what, bhikkhus, is personal identity, the five clung-to heaps"
+  ],
+  "discouraged_translations": [
+    "and what is personality, the five aggregates of attachment"
+  ],
+  "definition": "Canonical equation tying sakkāya directly to the five clung-to heaps.",
+  "notes": "This record governs the key cross-cluster link between identity-language and the appropriated heaps. The repository keeps identity as the default for sakkāya and five clung-to heaps as the default for pañcupādānakkhandhā. Do not weaken either side of the equation by drifting into personality-language or by flattening the heaps expression.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the canonical equation",
+      "rendering": "and what, bhikkhus, is identity, the five clung-to heaps",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When English needs a fuller phrase for sakkāya",
+      "rendering": "and what, bhikkhus, is personal identity, the five clung-to heaps",
+      "notes": "Allowed alternate for clarification, not the default."
+    }
+  ],
+  "related_terms": [
+    "pancupadanakkhandha",
+    "sakkaya",
+    "sakkaya-ditthi"
+  ],
+  "example_phrases": [
+    {
+      "pali": "katamo ca, bhikkhave, sakkāyo? pañcupādānakkhandhā",
+      "translation": "and what, bhikkhus, is identity? the five clung-to heaps",
+      "notes": "Canonical equation of sakkāya and the appropriated heaps.",
+      "source": "SN 22.105"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.105"
+  ],
+  "tags": [
+    "aggregates",
+    "formula",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

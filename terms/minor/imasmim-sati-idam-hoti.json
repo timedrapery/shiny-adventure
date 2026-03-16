@@ -1,0 +1,57 @@
+{
+  "term": "imasmiṃ sati idaṃ hoti",
+  "normalized_term": "imasmim-sati-idam-hoti",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "when this is, this is",
+  "preferred_translation": "when this is, this comes to be",
+  "definition": "Core conditionality formula for the arising side of dependent arising.",
+  "notes": "Use this record for the whole formula line rather than reconstructing it ad hoc from separate headwords. It governs the repository's default voice for the positive side of conditionality. The Buddhadasa usage profile supports treating this line as a practical and immediate formula rather than a scholastic abstraction.",
+  "context_rules": [
+    {
+      "context": "In standard conditionality and dependent-arising translation",
+      "rendering": "when this is, this comes to be",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a more explicit present-tense phrasing is needed",
+      "rendering": "when this is present, this comes to be",
+      "notes": "Acceptable alternate in explanatory prose."
+    }
+  ],
+  "related_terms": [
+    "idappaccayatā",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imasmiṃ sati idaṃ hoti",
+      "translation": "when this is, this comes to be",
+      "source": "SN 12.61"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.61"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "context-rule",
+      "scope": "Supports treating the conditionality line as a practical and immediate formula rather than a scholastic abstraction."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard positive conditionality line in dependent-arising translation.",
+    "when_not_to_apply": "Do not replace it with heavier causal wording unless a passage clearly demands explanatory expansion.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the core formula from drifting into generic cause-and-effect paraphrase."
+  }
+}

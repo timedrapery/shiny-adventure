@@ -1,0 +1,58 @@
+{
+  "term": "saṅkhārapaccayā viññāṇaṃ",
+  "normalized_term": "sankharapaccaya-vinnana",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with saṅkhārā as condition, viññāṇa",
+  "preferred_translation": "with putting together as condition, knowing",
+  "definition": "Second forward-link line in the dependent-arising sequence.",
+  "notes": "Use this record for the whole line when the chain itself is being translated. It keeps the phrase within the repository's process-focused handling of saṅkhārā and conditioned handling of viññāṇa. The OSF glossary supports this coordinated inheritance from saṅkhārā and viññāṇa in the formula line.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with putting together as condition, knowing",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled doctrinal alternate for viññāṇa is already in use",
+      "rendering": "with putting together as condition, consciousness",
+      "notes": "Use only when the surrounding translation is already using that controlled alternate."
+    }
+  ],
+  "related_terms": [
+    "paccaya",
+    "paṭiccasamuppāda",
+    "saṅkhārā",
+    "viññāṇa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saṅkhārapaccayā viññāṇaṃ",
+      "translation": "with putting together as condition, knowing",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports coordinated inheritance from saṅkhārā and viññāṇa in the formula line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard second line of the forward chain.",
+    "when_not_to_apply": "Do not detach the line from the repository's conditioned-process handling of viññāṇa.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the line from slipping into witness-consciousness or abstract formation language."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "term": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
+  "normalized_term": "pancupadanakkhandhesu-assado-adinavo-nissaranam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "the gratification, danger, and escape in relation to the five clung-to heaps",
+  "preferred_translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+  "alternative_translations": [
+    "the allure, drawback, and escape regarding the five clung-to heaps"
+  ],
+  "discouraged_translations": [
+    "the pleasure, harm, and exit in the five aggregates of attachment"
+  ],
+  "definition": "Canonical gratification-danger-escape formula applied to the five clung-to heaps.",
+  "notes": "Use this record when the text applies the assāda-ādīnava-nissaraṇa framework to the appropriated heaps. The phrase inherits the fixed whole-expression policy for pañcupādānakkhandhā and keeps the triad in one stable voice. Comparative alternates like allure and drawback are allowed in explanation, but the default should stay compact and governed in direct translation.",
+  "context_rules": [
+    {
+      "context": "In direct doctrinal translation of the formula",
+      "rendering": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose unpacking the triad with more familiar alternates",
+      "rendering": "the allure, drawback, and escape regarding the five clung-to heaps",
+      "notes": "Allowed alternate for explanation, not the default."
+    }
+  ],
+  "related_terms": [
+    "nissarana",
+    "pancupadanakkhandha",
+    "samudaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
+      "translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "notes": "Canonical application of the triad to the heap family.",
+      "source": "SN 22.26"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.26"
+  ],
+  "tags": [
+    "aggregates",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "stable"
+}

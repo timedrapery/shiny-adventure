@@ -1,0 +1,60 @@
+{
+  "term": "imassa nirodhā idaṃ nirujjhati",
+  "normalized_term": "imassa-nirodha-idam-nirujjhati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with the quenching of this, this is quenched",
+  "preferred_translation": "with the quenching of this, this ceases",
+  "definition": "Core quenching formula for the cessation side of dependent arising.",
+  "notes": "Use this record for the whole formula line rather than substituting ungoverned causal paraphrases. It governs the repository's default voice for the quenching side of conditionality and should stay coordinated with the nirodha headword. The Buddhadasa usage profile supports keeping the quenching side of the formula vivid and practical.",
+  "context_rules": [
+    {
+      "context": "In standard conditionality and dependent-arising translation",
+      "rendering": "with the quenching of this, this ceases",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "In doctrinal prose that is already using cessation as the controlled alternate for nirodha",
+      "rendering": "with the cessation of this, this ceases",
+      "notes": "Use only when the surrounding frame is already governed by that alternate."
+    }
+  ],
+  "related_terms": [
+    "idappaccayatā",
+    "imasmim-asati-idam-na-hoti",
+    "nirodha",
+    "paccaya",
+    "paṭiccasamuppāda"
+  ],
+  "example_phrases": [
+    {
+      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "translation": "with the quenching of this, this ceases",
+      "source": "SN 12.61"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.61"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "preferred-translation",
+      "scope": "Supports keeping the quenching side of the formula vivid and practical."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard quenching line in dependent-arising translation.",
+    "when_not_to_apply": "Do not switch between quenching and cessation inside the same formula family without an explicit doctrinal reason.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents instability between quenching and cessation language in the core negative formula."
+  }
+}

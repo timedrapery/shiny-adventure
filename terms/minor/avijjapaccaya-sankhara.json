@@ -1,0 +1,58 @@
+{
+  "term": "avijjāpaccayā saṅkhārā",
+  "normalized_term": "avijjapaccaya-sankhara",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with ignorance as condition, saṅkhārā",
+  "preferred_translation": "with ignorance as condition, putting together",
+  "definition": "Opening forward-link line in the dependent-arising sequence.",
+  "notes": "Use this record for the full line. It keeps avijjā, paccaya, and saṅkhārā in one stable English frame and blocks ad hoc shifts back into vague causal or volitional-formation language. The OSF glossary supports the line's coordinated inheritance from avijjā, paccaya, and saṅkhārā.",
+  "context_rules": [
+    {
+      "context": "In standard chain translation",
+      "rendering": "with ignorance as condition, putting together",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When a controlled scholarly alternate for saṅkhārā is already in use",
+      "rendering": "with ignorance as condition, formations",
+      "notes": "Use only when the surrounding frame explicitly requires it."
+    }
+  ],
+  "related_terms": [
+    "avijjā",
+    "paccaya",
+    "paṭiccasamuppāda",
+    "saṅkhārā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avijjāpaccayā saṅkhārā",
+      "translation": "with ignorance as condition, putting together",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "tags": [
+    "dependent-origination",
+    "causality",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports the line's coordinated inheritance from avijjā, paccaya, and saṅkhārā."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard opening line of the twelve-link sequence.",
+    "when_not_to_apply": "Do not rewrite the line with looser causal phrasing unless a passage explicitly departs from the standard formula.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the opening formula from drifting into ungoverned causal or formation language."
+  }
+}
