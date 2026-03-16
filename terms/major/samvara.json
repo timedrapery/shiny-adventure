@@ -1,5 +1,5 @@
 {
-  "term": "saṃvara",
+  "term": "saṁvara",
   "normalized_term": "samvara",
   "entry_type": "major",
   "part_of_speech": "noun",
@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Restraint or guarding that keeps the senses, speech, and conduct from running into unwholesome patterns.",
-  "notes": "The repository keeps restraint as the default because it is already stable in early-Buddhist ethical and practical language. Guarding remains acceptable when the active protective function is central. Suppression is discouraged because saṃvara is not mere pushing-down but intelligent containment and protection. This term is especially important in compounds like indriya-saṃvara. The OSF glossary also treats saṃvara as intelligent restraint or guarding rather than suppression, which supports the current handling.",
+  "notes": "The repository keeps restraint as the default because it is already stable in early-Buddhist ethical and practical language. Guarding remains acceptable when the active protective function is central. Suppression is discouraged because saṁvara is not mere pushing-down but intelligent containment and protection. This term is especially important in compounds like indriya-saṁvara. In live OSF practice explanation, this can be described as good administration at the gate rather than a large internal cleanup project: the practical work is to guard what comes in at the sense doors so reactive pollution does not get established. That phrasing should remain practical and immediate rather than turning saṁvara into harsh repression or interior warfare. It also means translator-facing practice prose should resist borrowed diagnostic-code language that treats the city interior as fundamentally broken and in need of endless labeling before practice can begin. The OSF glossary also treats saṁvara as intelligent restraint or guarding rather than suppression, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most ethical and practical contexts",
@@ -22,9 +22,14 @@
       "notes": "Default project rendering."
     },
     {
-      "context": "In compounds such as indriya-saṃvara where the active protective function should be heard",
+      "context": "In compounds such as indriya-saṁvara where the active protective function should be heard",
       "rendering": "guarding",
       "notes": "Allowed alternate when it reads more naturally."
+    },
+    {
+      "context": "In practice explanation using gate or doorway imagery",
+      "rendering": "guarding",
+      "notes": "Use when the point is early protection at the sense doors rather than later cleanup."
     },
     {
       "context": "In explanatory prose emphasizing boundedness or non-spillover of behavior",
@@ -42,13 +47,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "indriyasaṃvaro",
+      "pali": "indriyasaṁvaro",
       "translation": "sense restraint",
       "notes": "Core practical compound.",
       "source": "MN 38"
     },
     {
-      "pali": "saṃvaraṃ āpajjati",
+      "pali": "saṁvaraṁ āpajjati",
       "translation": "one enters restraint",
       "notes": "Shows the term as active guarding.",
       "source": "MN 38"
@@ -69,13 +74,13 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current saṃvara policy."
+      "scope": "Named in notes as support for the current saṁvara policy."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'restraint' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'suppression' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'suppression' or other unrecorded alternates and keeps saṁvara practical rather than punitive in sense-door explanations."
   }
 }

@@ -4,10 +4,36 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "luminous mind",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
+  "definition": "A fixed expression for the mind as luminous when not invaded by defilements.",
+  "notes": "Use this record when the luminous-mind line itself is in view. In live OSF practice explanation, this expression supports the point that the mind need not be treated as inherently dirty and endlessly in need of excavation. Defilements can be described as visitors or invasions rather than the basic nature of citta. That practical use should remain carefully governed: the record supports present-moment gatekeeping and non-moralized practice explanation, not metaphysical soul-language or denial of the repository's separate residue-family terms.",
+  "example_phrases": [
+    {
+      "pali": "pabhassaramidaṁ, bhikkhave, cittaṁ",
+      "translation": "bhikkhus, this mind is luminous",
+      "notes": "Core luminous-mind line.",
+      "source": "AN 1.49"
+    }
+  ],
+  "sutta_references": [
+    "AN 1.49-52"
+  ],
+  "authority_basis": [
+    {
+      "source": "AN 1.49-52",
+      "kind": "context-rule",
+      "scope": "Supports the luminous-mind expression and its contrast with invasive defilements."
+    },
+    {
+      "source": "OSF dhamma interaction on guarding the gate",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports practical explanation of defilements as visitors rather than the nature of the city itself."
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "luminous mind",
   "tags": [
-    "core-practice"
+    "core-practice",
+    "translation-sensitive"
   ]
 }

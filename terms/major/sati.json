@@ -15,7 +15,7 @@
   "untranslated_preferred": false,
   "gloss_on_first_occurrence": "remembering",
   "definition": "The active keeping in mind of what is relevant, involving recollection, steady presence, and the capacity to return to what matters.",
-  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The Pali term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated Pali. The OSF publication What Is And Is Not The Path strongly reinforces this by treating sati as what keeps the mind oriented to what is happening now while right effort abandons the unwholesome and establishes the wholesome. Core compounds such as satipaṭṭhāna should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let mindfulness or awareness silently displace remembering in path and practice language unless a local context rule explicitly calls for it.",
+  "notes": "OSF house style now prefers remembering for sati based on the Dhammarato quotes draft, where the path factor is explicitly framed as right remembering and the practical function of sati is treated as remembering to come back here-now. The Pali term remains acceptable in technical or source-facing discussion, but the default house rendering is now English rather than untranslated Pali. The OSF publication What Is And Is Not The Path strongly reinforces this by treating sati as what keeps the mind oriented to what is happening now while right effort abandons the unwholesome and establishes the wholesome. In live OSF practice explanation, sati also functions as the gatekeeper at the sense doors: remembering notices contact and felt experience early so ignorant interpretation does not simply rush inward unchecked. That does not replace the repository's deeper residue-family distinctions, but it does govern how practical sense-door explanations should sound. Core compounds such as satipatthana should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let mindfulness or awareness silently displace remembering in path and practice language unless a local context rule explicitly calls for it.",
   "context_rules": [
     {
       "context": "In most translations and practical OSF contexts",
@@ -23,12 +23,12 @@
       "notes": "Default OSF house rendering."
     },
     {
-      "context": "In technical discussion where preserving the Pāli term is more useful than translating it",
+      "context": "In technical discussion where preserving the Pali term is more useful than translating it",
       "rendering": "sati",
       "notes": "Acceptable for source-facing or highly technical prose."
     },
     {
-      "context": "In Punnaji-style pedagogical explanation of satipaṭṭhāna and ānāpānasati",
+      "context": "In Punnaji-style pedagogical explanation of satipatthana and anapanasati",
       "rendering": "attention",
       "notes": "Retained as a source-backed alternate in that pedagogical frame."
     },
@@ -41,6 +41,11 @@
       "context": "In OSF practical instruction emphasizing coming back to what matters right now",
       "rendering": "remembering",
       "notes": "Preferred when sati is functioning as the return to present orientation."
+    },
+    {
+      "context": "In sense-door guarding explanation where sati functions like a gatekeeper",
+      "rendering": "remembering",
+      "notes": "Keep the practical gatekeeping function clear rather than reverting to vague mindfulness language."
     }
   ],
   "related_terms": [
@@ -71,7 +76,7 @@
   ],
   "example_phrases": [
     {
-      "pali": "satiṃ upaṭṭhapetvā",
+      "pali": "satiṁ upaṭṭhapetvā",
       "translation": "having established remembering",
       "notes": "OSF house rendering in source-facing explanation.",
       "source": "MN 10"
@@ -109,7 +114,7 @@
     "default_scope": "Use remembering in most path, practice, and OSF instructional contexts.",
     "when_not_to_apply": "Do not switch casually to mindfulness or awareness unless a recorded context rule or source-facing need justifies it.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents silent drift back to mindfulness as the default English rendering."
+    "drift_risk": "Prevents silent drift back to mindfulness as the default English rendering and preserves sati's gatekeeping role in sense-door practice explanation."
   },
   "status": "stable",
   "version_notes": "Strengthened to keep remembering stable across path and practice contexts while still allowing source-facing Pali and limited explanatory alternates."

@@ -1,10 +1,31 @@
 {
-  "term": "indriyasaṃvara",
+  "term": "indriyasaṁvara",
   "normalized_term": "indriya-samvara",
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "guarding the faculties",
   "definition": "Guarding the senses so the mind is not swept away by grasping and aversion.",
+  "notes": "This compound should inherit the saṁvara headword policy while making the gatekeeping function explicit. In live OSF practice explanation, indriyasaṁvara is often the practical work of guarding the gates so unwholesome reactions do not simply enter and take over. That is not suppression or a later cleanup project. It is early protection at the sense doors, closely linked to knowing contact and felt experience before the movement into ignorant wanting gains momentum. Translator-facing practice prose should therefore resist diagnostic-code language that labels the city interior as fundamentally broken and needing endless interior management before practice can begin.",
+  "example_phrases": [
+    {
+      "pali": "indriyasaṁvaro",
+      "translation": "guarding the faculties",
+      "notes": "Core practical compound for sense restraint.",
+      "source": "MN 38"
+    }
+  ],
+  "sutta_references": [
+    "MN 38",
+    "SN 35.245"
+  ],
+  "authority_basis": [
+    {
+      "source": "OSF dhamma interaction on guarding the gate",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports present-moment gatekeeping explanation at the sense doors."
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "restraint of the faculties",
   "tags": [
