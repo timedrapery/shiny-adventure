@@ -1,0 +1,52 @@
+{
+  "term": "oghaṃ atari",
+  "normalized_term": "ogham-atari",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "crossed over the flood",
+  "preferred_translation": "crossed over the flood",
+  "alternative_translations": [
+    "got across the flood"
+  ],
+  "discouraged_translations": [
+    "escaped suffering",
+    "became liberated"
+  ],
+  "definition": "A crossing formula that keeps the flood image explicit on the release side.",
+  "notes": "Use this record when the text explicitly asks or says that someone crossed over the flood. The phrase inherits the house distinction between ogha as flood and tarati as crossing language. Do not flatten it into generic liberation or escape prose.",
+  "context_rules": [
+    {
+      "context": "In direct translation of the flood-crossing formula",
+      "rendering": "crossed over the flood",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In concise explanatory prose",
+      "rendering": "got across the flood",
+      "notes": "Allowed alternate when the image remains explicit."
+    }
+  ],
+  "related_terms": [
+    "ogha",
+    "tarati",
+    "tinna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "oghaṃ atariṃ",
+      "translation": "I crossed over the flood",
+      "notes": "Classic flood-crossing response.",
+      "source": "SN 1.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 1.1"
+  ],
+  "tags": [
+    "formula",
+    "bondage-imagery",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable"
+}

@@ -9,11 +9,28 @@
     "security from bondage"
   ],
   "discouraged_translations": [
-    "peace"
+    "peace",
+    "safety",
+    "freedom"
   ],
-  "definition": "Security or safety gained by being free from the yoke-family of bondage.",
-  "notes": "This fixed compound belongs to the yoga family. Keep the yoke image audible by default here, while allowing security from bondage as a controlled alternate if English flow clearly requires it.",
+  "definition": "Security gained by being free from the yoke-family of bondage.",
+  "notes": "This fixed compound belongs to the yoga family. Keep the yoke image audible by default here, while allowing security from bondage as a controlled alternate if English flow clearly requires it. In the release-side interface, yogakkhema differs from nissaraṇa, which is escape from, and from vimutti, which is release: yogakkhema names the stabilized security condition on the far side of the yoke-family rather than the way out or the act of being released.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and source-facing contexts",
+      "rendering": "security from the yoke",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the yoke image has already been established and smoother English is needed",
+      "rendering": "security from bondage",
+      "notes": "Allowed alternate, but not the default."
+    }
+  ],
   "related_terms": [
+    "mutti",
+    "nissarana",
+    "vimutti",
     "yoga"
   ],
   "example_phrases": [

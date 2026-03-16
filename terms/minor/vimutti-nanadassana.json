@@ -13,12 +13,26 @@
   ],
   "untranslated_preferred": false,
   "definition": "Knowledge and vision that release has occurred; a standard attainment expression in the awakening sequence.",
+  "notes": "Use this record when the text explicitly names the knowing and seeing of release. The compound inherits the vimutti headword and should not be inflated into vague mystical-experience language.",
+  "related_terms": [
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vimuttiñāṇadassana",
+      "translation": "knowledge and vision of release",
+      "notes": "Standard release-family attainment expression.",
+      "source": "MN 39"
+    }
+  ],
   "sutta_references": [
     "MN 39"
   ],
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
   ],
-  "status": "reviewed"
+  "status": "stable"
 }

@@ -9,11 +9,13 @@
     "liberation"
   ],
   "discouraged_translations": [
-    "salvation"
+    "salvation",
+    "escape",
+    "freedom"
   ],
   "untranslated_preferred": false,
-  "definition": "Release from the compulsions of greed, aversion, and delusion.",
-  "notes": "The project prefers release because it is plain contemporary English and keeps the term dynamic rather than monumental. Liberation remains acceptable in explanatory prose, but salvation is far too churchy for the project’s translation voice. Ven. Dr. M. Punnaji often frames release as awakening from the dream of existence; the repository records that as a pedagogical interpretive strand without changing the house default.",
+  "definition": "Release from binding conditions and compulsions, especially in the core liberation family.",
+  "notes": "The project keeps release as the default because it is plain contemporary English and keeps the term dynamic rather than monumental. Liberation remains a controlled alternate in explanatory prose, but vimutti should not be blurred with nissaraṇa, which is escape from, or with tarati and tiṇṇa, which preserve crossing imagery. The OSF glossary supports release as the house default, and MN 39 supports vimutti as a core release-family term with its own knowledge-and-vision formula. It also differs from mutti in this repository: mutti is the shorter result noun and defaults to freedom, while vimutti remains the governing release-family headword and the base for compounds such as cetovimutti and paññāvimutti. Translators should therefore resist rotating among release, freedom, liberation, and escape without a recorded reason. Where the text moves through virāga, vossagga, nirodha, or khaya toward vimutti, keep those sequence terms distinct rather than letting release swallow the whole path-language.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -24,31 +26,48 @@
       "context": "In explanatory prose or comparative discussion where conventional terminology is useful",
       "rendering": "liberation",
       "notes": "Acceptable alternate when the line benefits from it."
+    },
+    {
+      "context": "In compounds such as cetovimutti and paññāvimutti",
+      "rendering": "release",
+      "notes": "Keep the compound family coordinated with the headword unless a narrower record documents an override."
+    },
+    {
+      "context": "When release is being contrasted with escape, crossing, or security language",
+      "rendering": "release",
+      "notes": "Do not substitute nissaraṇa, tarati, tiṇṇa, mutti, or yogakkhema by habit."
     }
   ],
   "related_terms": [
     "adhipanna",
-    "adhipaññā",
     "amata",
     "arahant",
     "asava",
-    "āsava",
     "asekha",
     "bodhi",
     "cetovimutti",
     "lokuttara",
-    "nibbāna",
+    "mutti",
+    "nibbana",
     "nibbida",
-    "nibbidā",
+    "nissarana",
     "nirodha",
-    "paññā",
+    "panna",
     "pannavimutti",
-    "paññāvimutti",
+    "tarati",
+    "tinna",
     "upanisa",
-    "upanisā",
-    "virāga"
+    "vimutti-nanadassana",
+    "viraga",
+    "yogakkhema"
   ],
   "example_phrases": [
+    {
+      "pali": "vimuttasmiṃ vimuttamiti ñāṇaṃ hoti",
+      "translation": "when there is release, there is the knowledge 'there is release'",
+      "notes": "Shows vimutti as a governed release-family term rather than generic spirituality language.",
+      "source": "MN 39"
+    },
     {
       "pali": "cetovimutti",
       "translation": "release of mind",
@@ -63,26 +82,34 @@
     }
   ],
   "sutta_references": [
+    "MN 39",
     "MN 43",
     "MN 70"
   ],
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "translation-sensitive",
+    "liberation"
   ],
-  "status": "reviewed",
+  "status": "stable",
   "authority_basis": [
     {
-      "source": "Punnaji",
-      "priority": "external",
+      "source": "OSF glossary",
+      "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current vimutti policy."
+      "scope": "Supports 'release' as the house default and keeps the release family distinct from escape and crossing language."
+    },
+    {
+      "source": "MN 39",
+      "kind": "context-rule",
+      "scope": "Supports vimutti as a core release-family term with its own knowledge-and-vision formula."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'release' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
-    "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'salvation' or other unrecorded alternates."
+    "default_scope": "Use 'release' as the default rendering in the entry's governed doctrinal, practice, and compound-family contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'liberation' only when explanatory prose clearly benefits. Do not flatten vimutti into nissaraṇa, mutti, crossing-language, or generic spirituality language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents release-language from collapsing into escape, freedom, crossing, or salvation-language, and keeps the vimutti family coordinated."
   }
 }

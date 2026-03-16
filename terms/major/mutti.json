@@ -1,0 +1,78 @@
+{
+  "term": "mutti",
+  "normalized_term": "mutti",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "freedom, release",
+  "preferred_translation": "freedom",
+  "alternative_translations": [
+    "release"
+  ],
+  "discouraged_translations": [
+    "liberation",
+    "escape",
+    "crossing over",
+    "peace"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A shorter result-noun in the release family, especially in formula contexts where freedom is named directly.",
+  "notes": "The project keeps freedom as the default here in order to distinguish mutti from the broader house default for vimutti, which remains release. Release stays a controlled alternate when English flow clearly benefits or when a passage is explicitly tying the shorter noun back into the vimutti family. The OSF glossary supports keeping the shorter mutti noun distinct instead of letting it become an uncontrolled synonym for vimutti, and SN 56.11 supports mutti inside the tightly governed formula tail cāgo paṭinissaggo mutti anālayo. In this repository, mutti should not be treated as a free-floating synonym generator: it belongs near vimutti, but it does different work when the source chooses the shorter result noun. It also differs from nissaraṇa, which is escape from, and from tarati or tiṇṇa, which preserve crossing imagery rather than naming freedom directly.",
+  "context_rules": [
+    {
+      "context": "In most source-facing and formula contexts where the shorter noun mutti is present",
+      "rendering": "freedom",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose explicitly tying mutti back into the vimutti family",
+      "rendering": "release",
+      "notes": "Allowed alternate when the family relation is the point."
+    },
+    {
+      "context": "In formula tails such as cāgo paṭinissaggo mutti anālayo",
+      "rendering": "freedom",
+      "notes": "Keep the shorter result-noun distinct from neighboring relinquishment-language."
+    }
+  ],
+  "related_terms": [
+    "nissarana",
+    "vimutti",
+    "yogakkhema"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+      "translation": "the complete fading and quenching of that very ignorant wanting: giving it up, relinquishing it, freedom, non-attachment",
+      "notes": "Shows mutti as a shorter result-noun within a tightly governed release sequence.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports distinguishing the shorter mutti noun from the broader vimutti family instead of treating them as uncontrolled synonyms."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports mutti inside a governed release-sequence formula alongside cāga and paṭinissagga."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'freedom' as the default rendering when the source specifically uses mutti unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'release' only when explanatory prose clearly needs to foreground the relation to the vimutti family. Do not flatten mutti into generic liberation-language, escape-language, or crossing-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents mutti and vimutti from drifting into uncontrolled synonymy and prevents release-language from absorbing escape and crossing imagery."
+  }
+}
