@@ -10,11 +10,12 @@
     "behavior"
   ],
   "discouraged_translations": [
-    "fate"
+    "fate",
+    "karma"
   ],
   "untranslated_preferred": false,
   "definition": "Intentional action, especially action that carries ethical weight and consequences.",
-  "notes": "The project prefers action because it keeps the term grounded in what is done rather than in later popular ideas about destiny or cosmic payback. Deed is acceptable when the English line wants something slightly more concrete or moralized, but fate should be avoided because it reverses the agency built into the term. The OSF glossary stresses kamma as the direct result of actions on present satisfaction and as cause-and-effect consequence, which the repository records as source-backed explanatory emphasis. The OSF publication What Is And Is Not The Path reinforces this by explicitly presenting kamma as action or behavior and rejecting the idea of kamma as a moral calculator.",
+  "notes": "The project prefers action because it keeps the term grounded in what is done rather than in later popular ideas about destiny or cosmic payback. Deed is acceptable when the English line wants something slightly more concrete or moralized, but fate should be avoided because it reverses the agency built into the term. The OSF glossary stresses kamma as the direct result of actions on present satisfaction and as cause-and-effect consequence, which the repository records as source-backed explanatory emphasis. The OSF publication What Is And Is Not The Path reinforces this by explicitly presenting kamma as action or behavior and rejecting the idea of kamma as a moral calculator. The Idappaccayatā practical talk profile strengthens the same anti-drift policy from within the dependent-arising stream: it is useful as a warning against flattening kamma into simplistic do-good-get-good bookkeeping or into an explanation that bypasses present conditional process at contact, felt experience, wanting, and appropriation. The repository therefore preserves moral consequence without allowing kamma to replace the immediate lawfulness of dukkha and its quenching.",
   "context_rules": [
     {
       "context": "In most doctrinal and analytical contexts",
@@ -30,6 +31,11 @@
       "context": "In OSF explanatory prose emphasizing habit-pattern and conduct",
       "rendering": "behavior",
       "notes": "Useful when the line is about how one is acting rather than the abstraction of action."
+    },
+    {
+      "context": "In anti-drift notes contrasting kamma with simplistic cosmic bookkeeping",
+      "rendering": "action",
+      "notes": "Keep the term grounded in intentional doing and consequence rather than fate or moral-accounting slogans."
     }
   ],
   "related_terms": [
@@ -49,13 +55,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "cetanāhaṃ bhikkhave kammaṃ vadāmi",
+      "pali": "cetanāhaṁ bhikkhave kammaṁ vadāmi",
       "translation": "bhikkhus, I say that action is intention",
       "notes": "Key doctrinal statement tying kamma directly to intention.",
       "source": "AN 6.63"
     },
     {
-      "pali": "kammassa phalaṃ",
+      "pali": "kammassa phalaṁ",
       "translation": "the result of action",
       "notes": "Common doctrinal expression linking action and result.",
       "source": "AN 6.63"
@@ -82,12 +88,18 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current kamma policy."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports refusing simplistic moral-bookkeeping readings and keeping kamma subordinate to immediate lawful process in lived experience."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'action' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc. Do not use kamma as a shorthand for fate, simplistic cosmic bookkeeping, or a bypass of present conditional process.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'fate' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward fate, simplistic moral bookkeeping, or other unrecorded alternates."
   }
 }

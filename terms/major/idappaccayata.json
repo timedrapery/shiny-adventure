@@ -10,11 +10,13 @@
     "this-conditionality"
   ],
   "discouraged_translations": [
-    "fate"
+    "fate",
+    "mere causality",
+    "god"
   ],
   "untranslated_preferred": false,
   "definition": "The lawful conditionality by which, when this is, that comes to be and, with its quenching, that ceases.",
-  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Conditionality remains the default because it is the cleanest reusable English rendering, but the repository now treats idappaccayatā as a core OSF doctrinal key rather than a minor supporting technicality. The term should govern the four standard conditionality lines rather than sit beside them as a loose abstraction. Translators should therefore keep idappaccayatā, paccaya, and the imasmiṃ sati / imassa nirodhā formulas in one coherent voice.",
+  "notes": "OSF editorial authority now treats Buddhadasa Bhikkhu as primary for this term. Conditionality remains the default because it is the cleanest reusable English rendering, but the repository now treats idappaccayatā as a core OSF doctrinal key rather than a minor supporting technicality. The term should govern the four standard conditionality lines rather than sit beside them as a loose abstraction. The Idappaccayatā practical talk profile strongly reinforces that direction by treating idappaccayatā as universal conditionality, the broad lawful pattern within which paṭiccasamuppāda names the suffering-specific practical application of the same law. That profile also supports controlled natural-law explanation here: translators may explain idappaccayatā as the law of nature or highest law of nature when a note genuinely needs that clarification, but not as fate and not as a person-like deity. The source's provocative god-language is therefore preserved only as anti-drift background for understanding that the term names impersonal lawful conditionality rather than a being. Translators should keep idappaccayatā, paccaya, and the imasmiṁ sati / imassa nirodhā formulas in one coherent voice, and should keep quenching as intrinsic to the term rather than as a later add-on.",
   "context_rules": [
     {
       "context": "In most doctrinal discussion",
@@ -29,7 +31,7 @@
     {
       "context": "In Buddhadasa-style explanation of natural law",
       "rendering": "conditionality",
-      "notes": "Notes may explicitly describe it as the natural law behind dependent arising."
+      "notes": "Notes may explicitly describe it as the law of nature behind dependent arising."
     },
     {
       "context": "In formula-focused discussion of the four standard conditionality lines",
@@ -37,13 +39,16 @@
       "notes": "Use the same voice as the companion formula records."
     },
     {
-      "context": "In explanatory prose focused on the literal structure of this conditioned by this",
-      "rendering": "this-conditionality",
-      "notes": "Acceptable alternate when the morphology matters."
+      "context": "In translator-facing explanatory prose where the lawful character itself must be made explicit",
+      "rendering": "conditionality",
+      "notes": "A note may gloss the term as the highest law of nature without replacing the default rendering."
     }
   ],
   "related_terms": [
     "dhamma",
+    "dhammata",
+    "dhammaniyamata",
+    "dhammatthiti",
     "imassa-nirodha-idam-nirujjhati",
     "imasmim-sati-idam-hoti",
     "nidana",
@@ -52,13 +57,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "imasmiṃ sati idaṃ hoti",
+      "pali": "imasmiṁ sati idaṁ hoti",
       "translation": "when this is, this comes to be",
       "notes": "Core formula of conditionality.",
       "source": "SN 12.2"
     },
     {
-      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "pali": "imassa nirodhā idaṁ nirujjhati",
       "translation": "with the quenching of this, this ceases",
       "notes": "Companion formula showing the quenching side of conditionality.",
       "source": "SN 12.61"
@@ -70,27 +75,34 @@
   ],
   "tags": [
     "core-doctrine",
-    "dependent-origination"
+    "dependent-origination",
+    "translation-sensitive"
   ],
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Buddhadasa",
+      "source": "Buddhadasa usage profile",
       "priority": "buddhadasa",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current idappaccayatā policy."
+      "scope": "Supports treating idappaccayatā as the governing conditionality behind the dependent-arising family."
     },
     {
       "source": "OSF editorial authority",
       "priority": "osf-house",
       "kind": "context-rule",
       "scope": "Supports treating Buddhadasa as primary guidance for dependent-arising and conditionality language in this doctrinal family."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports universal-conditionality framing, controlled natural-law explanation, and keeping god-language at anti-drift note level rather than as translator-facing default policy."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'conditionality' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not separate this entry from the standard imasmiṃ sati and imassa nirodhā formulas when working in dependent-arising contexts.",
+    "when_not_to_apply": "Do not separate this entry from the standard imasmiṁ sati and imassa nirodhā formulas when working in dependent-arising contexts. Do not replace the term with vague causality, fate, or person-like god language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents idappaccayatā from being treated as an abstract side-note instead of the governing conditionality behind the formula family."
+    "drift_risk": "Prevents idappaccayatā from being treated as an abstract side-note instead of the governing conditionality behind the formula family, and blocks drift into vague causality, fate, or person-like creator language."
   }
 }

@@ -10,15 +10,17 @@
     "phenomenon",
     "quality",
     "nature",
-    "law"
+    "law",
+    "duty",
+    "fruit"
   ],
   "discouraged_translations": [
     "thing"
   ],
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, or quality depending on context)",
-  "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, or an item within a doctrinal analysis.",
-  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma. The OSF publication What Is And Is Not The Path strongly reinforces dhamma as something to do, verify, and live here-now rather than a theory to admire. Translators should not force one English equivalent through an entire passage when the referent changes, but they should also not drift between teaching, phenomenon, quality, nature, law, and untranslated dhamma without a clear contextual reason.",
+  "gloss_on_first_occurrence": "dhamma (teaching, phenomenon, quality, nature, or law depending on context)",
+  "definition": "A highly context-sensitive term that can refer to the teaching, a phenomenon, a quality, nature, lawful pattern, duty, or result depending on context.",
+  "notes": "OSF editorial authority now treats Dhammarato and Buddhadasa Bhikkhu as the primary guides for this term. The repository still leaves dhamma untranslated by default because the term remains too broad for a single English replacement, but the interpretive center has shifted: Dhammarato strongly normalizes everyday practical use of dhamma, while Buddhadasa strongly supports its senses of nature, lawful process, and practical truth. Secondary profiles may still inform alternates, but they no longer govern the handling of dhamma. The OSF publication What Is And Is Not The Path strongly reinforces dhamma as something to do, verify, and live here-now rather than a theory to admire. The Idappaccayatā practical talk profile adds a controlled support layer here by making explicit a four-part explanatory framework sometimes active in Buddhadāsa-line prose: dhamma can name nature, the law of nature, the duty in line with that law, and the fruit of acting in line with or against it. The repository preserves that as translator-facing doctrinal guidance, not as a rule that one English word should cover all four senses at once. Translators should not force one English equivalent through an entire passage when the referent changes, but they should also not drift between teaching, phenomenon, quality, nature, law, duty, fruit, and untranslated dhamma without a clear contextual reason.",
   "context_rules": [
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
@@ -51,6 +53,16 @@
       "notes": "Use sparingly, since dhamma remains too broad for any single English default."
     },
     {
+      "context": "In Buddhadasa-line explanatory prose where the passage explicitly turns to practice obligation under natural law",
+      "rendering": "duty",
+      "notes": "Use only when the local prose clearly makes dhamma the duty in line with the law of nature."
+    },
+    {
+      "context": "In Buddhadasa-line explanatory prose where the result of acting in line with or against law is itself being named",
+      "rendering": "fruit",
+      "notes": "Use only when the passage explicitly marks dhamma as result rather than teaching or phenomenon."
+    },
+    {
       "context": "In Punnaji-style pedagogical explanation of dhammanupassana as inward observation of thought-content",
       "rendering": "quality",
       "notes": "Use only in explanatory prose, since the broader term remains too context-sensitive for a single replacement."
@@ -68,9 +80,12 @@
   ],
   "related_terms": [
     "citta",
+    "dhammata",
+    "dhammaniyamata",
+    "dhammatthiti",
     "dhammavicaya",
-    "kusala-dhamma",
     "idappaccayatā",
+    "kusala-dhamma",
     "loka",
     "mano-vinnana",
     "sacca",
@@ -111,15 +126,21 @@
       "priority": "buddhadasa",
       "kind": "context-rule",
       "scope": "Supports nature and law as selective explanatory renderings in specific doctrinal frames."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "context-rule",
+      "scope": "Supports the four-meanings explanatory frame nature / law / duty / fruit as controlled doctrinal guidance without displacing the untranslated default."
     }
   ],
   "translation_policy": {
-    "default_scope": "Leave dhamma untranslated when the referent is too broad or shifts across teaching, phenomenon, quality, and law.",
-    "when_not_to_apply": "Translate selectively when the local referent is clearly narrower and stable enough for teaching, phenomenon, or quality.",
+    "default_scope": "Leave dhamma untranslated when the referent is too broad or shifts across teaching, phenomenon, quality, nature, law, duty, and fruit.",
+    "when_not_to_apply": "Translate selectively when the local referent is clearly narrower and stable enough for teaching, phenomenon, quality, nature, law, duty, or fruit. Do not force the four-meanings framework into passages that are not actually making those distinctions.",
     "compound_inheritance": "case-by-case",
     "leave_untranslated_when": "The passage needs the broader practical or doctrinal force of dhamma without premature narrowing.",
-    "drift_risk": "Prevents uncontrolled switching among teaching, phenomenon, quality, law, and untranslated dhamma inside one passage."
+    "drift_risk": "Prevents uncontrolled switching among teaching, phenomenon, quality, nature, law, duty, fruit, and untranslated dhamma inside one passage."
   },
   "status": "reviewed",
-  "version_notes": "Strengthened to make local sense-selection explicit and to block uncontrolled switching between untranslated and translated dhamma across the same passage."
+  "version_notes": "Strengthened to make local sense-selection explicit, preserve the controlled four-meanings support layer, and block uncontrolled switching between untranslated and translated dhamma across the same passage."
 }

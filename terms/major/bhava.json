@@ -19,7 +19,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Becoming or being, especially the process sustained by taking personally and leading onward to birth.",
-  "notes": "The project keeps becoming as the house default for dependent-arising contexts because it preserves the processive force of the term in the chain and keeps the movement into birth audible. The semantic range is broader than that default and can include being, existence, state of existence, form of becoming, development, well-being, and prosperity depending on context. Exhortative senses such as be! or you must be! belong to a wider usage history rather than to the normal doctrinal default here. The OSF glossary's broad treatment of becoming/being language supports preserving becoming as the doctrinal default while allowing wider semantic alternates where context clearly requires them, while the Buddhadasa usage profile supports keeping bhava available for practical dependent-arising analysis rather than freezing it into a static metaphysical state. Translators should not drift from becoming to being or existence inside the standard chain unless the local doctrinal frame clearly shifts and the surrounding translation remains coherent.",
+  "notes": "The project keeps becoming as the house default for dependent-arising contexts because it preserves the processive force of the term in the chain and keeps the movement into birth audible. The semantic range is broader than that default and can include being, existence, state of existence, form of becoming, development, well-being, and prosperity depending on context. Exhortative senses such as be! or you must be! belong to a wider usage history rather than to the normal doctrinal default here. The OSF glossary's broad treatment of becoming/being language supports preserving becoming as the doctrinal default while allowing wider semantic alternates where context clearly requires them, while the Buddhadasa usage profile supports keeping bhava available for practical dependent-arising analysis rather than freezing it into a static metaphysical state. The Idappaccayatā practical talk profile reinforces the same processive direction by keeping bhava in the lived movement from appropriation toward birth rather than in metaphysical state-language detached from immediate dukkha. Translators should not drift from becoming to being or existence inside the standard chain unless the local doctrinal frame clearly shifts and the surrounding translation remains coherent.",
   "context_rules": [
     {
       "context": "In most dependent-arising and doctrinal contexts",
@@ -65,7 +65,7 @@
     "paṭiccasamuppāda",
     "rupa-raga",
     "rūpabhava",
-    "saṃsāra",
+    "saṁsāra",
     "samudaya",
     "taṇhā",
     "upādāna",
@@ -96,7 +96,7 @@
     "four-noble-truths"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to keep dependent-arising usage anchored in becoming while still allowing broader semantic-range alternates outside the chain.",
+  "version_notes": "Strengthened to keep dependent-arising usage anchored in becoming while still allowing broader semantic-range alternates outside the chain and clarifying the idappaccayatā-backed processive reading.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -109,6 +109,12 @@
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Supports keeping bhava processive and usable in practical dependent-arising analysis rather than reading it only as a fixed state of existence."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping bhava processive within the lived sequence from appropriation toward birth rather than as detached metaphysical state-language."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The unsatisfactory, unstable, and stressful character of conditioned experience.",
-  "notes": "OSF house style prefers dissatisfaction as the default rendering for dukkha, with unsatisfactoriness and stress retained as approved alternates. This keeps the term broader and more practical than suffering while still allowing different English shades depending on context. The OSF glossary frames dukkha as a mental attitude of dissatisfaction, which is a source-backed explanatory emphasis compatible with the repository default. The OSF publication What Is And Is Not The Path strongly reinforces this handling by repeatedly presenting practice as recognizing dissatisfaction or stress in lived experience and abandoning it here-now rather than turning dukkha into abstract metaphysics. In OSF practice instruction, waking up and looking directly at what is here is one practical way of beginning the first noble truth and its task, especially when the line also includes seeing where the present pattern is heading. SN 22.86 should also remain explicit in the repo's doctrinal posture: the Buddha says he makes known only dissatisfaction and the ending of dissatisfaction. That means dukkha is not just one topic among others; it is part of the governing frame for the whole teaching surface. Translators should not let suffering return as an unstated default in the four noble truths or in linked dukkha-nirodha formulas.",
+  "notes": "OSF house style prefers dissatisfaction as the default rendering for dukkha, with unsatisfactoriness and stress retained as approved alternates. This keeps the term broader and more practical than suffering while still allowing different English shades depending on context. The OSF glossary frames dukkha as a mental attitude of dissatisfaction, which is a source-backed explanatory emphasis compatible with the repository default. The OSF publication What Is And Is Not The Path strongly reinforces this handling by repeatedly presenting practice as recognizing dissatisfaction or stress in lived experience and abandoning it here-now rather than turning dukkha into abstract metaphysics. The Idappaccayatā practical talk profile reinforces that dukkha must be handled as conditionally arisen and therefore conditionally quenchable, with particular emphasis on the sense-contact sequence rather than on speculative post-mortem explanations. In OSF practice instruction, waking up and looking directly at what is here is one practical way of beginning the first noble truth and its task, especially when the line also includes seeing where the present pattern is heading. SN 22.86 should also remain explicit in the repo's doctrinal posture: the Buddha says he makes known only dissatisfaction and the ending of dissatisfaction. That means dukkha is not just one topic among others; it is part of the governing frame for the whole teaching surface. Translators should not let suffering return as an unstated default in the four noble truths or in linked dukkha-nirodha formulas.",
   "context_rules": [
     {
       "context": "In core doctrinal exposition and the four noble truths",
@@ -52,7 +52,7 @@
     "karuṇā",
     "khandha",
     "nirodha",
-    "saṃsāra",
+    "saṁsāra",
     "samudaya",
     "saṅkhārā",
     "sankhata",
@@ -97,6 +97,12 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Supports practical present-tense handling of dukkha as dissatisfaction or stress."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports treating dukkha as a conditionally arisen process centered on the lived sense-contact sequence and its quenching rather than as abstract suffering-metaphysics."
     }
   ],
   "translation_policy": {
@@ -106,5 +112,5 @@
     "drift_risk": "Prevents collapse of dukkha back into suffering as an unstated universal default."
   },
   "status": "stable",
-  "version_notes": "Strengthened to keep dissatisfaction stable as the default in four-truths and linked nirodha formulae."
+  "version_notes": "Strengthened to keep dissatisfaction stable as the default in four-truths and linked nirodha formulae while clarifying the source-backed conditionality frame."
 }

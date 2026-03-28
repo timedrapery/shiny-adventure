@@ -78,6 +78,7 @@ Then move into the editorial rules that govern live term data:
 - [`dhammarato-quotes-profile.md`](dhammarato-quotes-profile.md)
 - [`dhammarato-chanting-profile.md`](dhammarato-chanting-profile.md)
 - [`buddhadasa-usage-profile.md`](buddhadasa-usage-profile.md)
+- [`idappaccayata-practical-talk-profile.md`](idappaccayata-practical-talk-profile.md)
 - [`punnaji-usage-profile.md`](punnaji-usage-profile.md)
 - [`hillside-nyanamoli-usage-profile.md`](hillside-nyanamoli-usage-profile.md)
 

@@ -1,13 +1,70 @@
 {
-  "term": "dhammata",
+  "term": "dhammatā",
   "normalized_term": "dhammata",
   "entry_type": "minor",
   "part_of_speech": "noun",
   "preferred_translation": "lawfulness",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
+  "alternative_translations": [
+    "nature of things"
+  ],
+  "discouraged_translations": [
+    "essence"
+  ],
   "literal_meaning": "lawfulness",
+  "definition": "Lawfulness or the way things proceed according to dhamma rather than according to personal wish.",
+  "notes": "The repository keeps lawfulness as the default because it coordinates cleanly with idappaccayatā, dhammatthiti, and dhammaniyāmatā without importing essence-language. The Buddhadasa usage profile and the Idappaccayatā practical talk profile both support using dhammatā as part of the natural-law support layer around dhamma and conditionality. Nature of things remains an explanatory alternate when the local prose is less technical, but the entry should not be turned into a hidden-substance term.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and support-layer contexts",
+      "rendering": "lawfulness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where the practical sense of how things work is foregrounded",
+      "rendering": "nature of things",
+      "notes": "Use only when the sentence remains clearly anti-essentialist."
+    }
+  ],
+  "related_terms": [
+    "dhamma",
+    "dhammaniyamata",
+    "dhammatthiti",
+    "idappaccayatā",
+    "tathatā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhammatā",
+      "translation": "lawfulness",
+      "notes": "Base support-layer rendering.",
+      "source": "SN 12.20"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.20"
+  ],
   "tags": [
     "core-doctrine"
-  ]
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports natural-law handling of the dhamma family."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "context-rule",
+      "scope": "Supports using dhammatā as part of the natural-law support layer around conditionality and dhamma."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'lawfulness' as the default rendering unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not turn the term into essence-language or a free-floating metaphysical principle detached from conditionality and dhamma-family usage.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift into essence-language or vague mystical 'nature' talk."
+  }
 }

@@ -71,6 +71,10 @@ The repository preserves a strict difference between:
 
 Useful OSF explanation may be preserved without becoming the lexicon default.
 Useful practical external clarification may also be preserved the same way.
+Named Buddhadāsa-line practical support profiles should be handled in the same
+disciplined manner: they may sharpen anti-drift notes and context rules within
+the Buddhadāsa stream, but they do not automatically outrank OSF house style,
+Dhammarato, the core Buddhadāsa profile, or stabilized term defaults.
 
 Examples:
 
