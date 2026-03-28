@@ -7,17 +7,45 @@
   "preferred_translation": "suchness",
   "alternative_translations": [
     "thusness",
-    "just-like-thatness"
+    "just like that"
   ],
   "discouraged_translations": [
-    "essence"
+    "essence",
+    "ultimate substance"
   ],
   "untranslated_preferred": false,
-  "definition": "Suchness or thusness, the way things are as they are without appropriation.",
+  "definition": "Suchness or thusness, the way things are as they are without appropriation or metaphysical projection.",
+  "notes": "The repository keeps suchness as the default because it is the cleanest doctrinal noun in English and aligns with existing Buddhadasa-line handling. Thusness remains acceptable when the sentence benefits from a more literal echo of the form. The Idappaccayatā practical talk profile adds one useful controlled practical note here: tathatā may be explained as just like that when the purpose is to cut appropriation, resistance, or metaphysical overreach. That phrase should remain explanatory only. It should not replace the default doctrinal rendering or become decorative Zen-style atmosphere. In this repository, tathatā is not an essence hiding behind conditions; it is the suchness of the conditioned pattern itself, aligned with not-self and emptiness rather than opposed to them.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal and translator-facing contexts",
+      "rendering": "suchness",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where a more literal form reads better",
+      "rendering": "thusness",
+      "notes": "Allowed alternate when the sentence benefits from a closer formal echo."
+    },
+    {
+      "context": "In practical Buddhadasa-line explanation cutting appropriation or overreaction",
+      "rendering": "just like that",
+      "notes": "Use only as an explanatory phrase, not as the headword default."
+    }
+  ],
   "related_terms": [
     "anattā",
     "citta",
+    "dhammatā",
     "suññatā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tathatā",
+      "translation": "suchness",
+      "notes": "Base doctrinal rendering.",
+      "source": "AN 3.134"
+    }
   ],
   "sutta_references": [
     "AN 3.134"
@@ -26,5 +54,25 @@
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports suchness / thusness handling and the explanatory phrase just like that."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "context-rule",
+      "scope": "Supports preserving just like that as a controlled explanatory note that blocks appropriation and metaphysical drift."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'suchness' as the default rendering unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'thusness' or 'just like that' only where the local prose actually benefits. Do not turn tathatā into essence-language, mystical atmosphere, or imported Zen rhetoric by default.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents tathatā from drifting into essence-metaphysics, decorative mysticism, or ungoverned slogan-language."
+  }
 }

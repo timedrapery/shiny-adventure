@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The activity of putting things together, or what has been put together as a constructed phenomenon, with important context shifts across doctrinal families.",
-  "notes": "The project uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default. Formula context governs strongly here: in dependent-arising links the process sense stays primary unless a linked formula entry explicitly overrides it, while in three-marks formulae the result-side sense may be foregrounded. The five-heaps family requires a third governed use: in saṅkhārakkhandha and canonical heap enumerations, the term should be heard as the heap of putting-together activities rather than as all conditioned things or as a dependent-arising link. Translators should not import choices or volitional formations as unstated defaults. The OSF glossary's conditioned-process and mental-formation language supports keeping this entry away from volitional formations as an automatic default while still allowing controlled alternates where the doctrinal frame clearly requires them. SN 22.59 is the key heap-formula support for this context split.",
+  "notes": "The project uses the constructive sense as its house preference. The literal force is making together, and the project default puts the emphasis on the active process in usable English: putting things together. In broader doctrinal contexts the term can also point to what has been put together, so the entry keeps a result-side alternate without making it the default. Formula context governs strongly here: in dependent-arising links the process sense stays primary unless a linked formula entry explicitly overrides it, while in three-marks formulae the result-side sense may be foregrounded. The five-heaps family requires a third governed use: in saṅkhārakkhandha and canonical heap enumerations, the term should be heard as the heap of putting-together activities rather than as all conditioned things or as a dependent-arising link. Translators should not import choices or volitional formations as unstated defaults. The OSF glossary's conditioned-process and mental-formation language supports keeping this entry away from volitional formations as an automatic default while still allowing controlled alternates where the doctrinal frame clearly requires them. The Idappaccayatā practical talk profile reinforces the processive side of the dependent-arising link by keeping saṅkhārā inside lived lawful conditional flow rather than as an abstract metaphysical category. SN 22.59 is the key heap-formula support for this context split.",
   "context_rules": [
     {
       "context": "When the emphasis is on the result of construction",
@@ -93,7 +93,7 @@
     "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded to govern dependent-arising, heap-family, and three-marks uses explicitly so the family does not drift across doctrinal settings.",
+  "version_notes": "Expanded to govern dependent-arising, heap-family, and three-marks uses explicitly so the family does not drift across doctrinal settings, with added idappaccayatā-backed process clarification.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -105,6 +105,12 @@
       "source": "SN 22.59",
       "kind": "context-rule",
       "scope": "Supports a distinct heap-context treatment for saṅkhārā in canonical five-heaps enumeration."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping the dependent-arising use processive and within lived conditional flow rather than as abstract metaphysical category."
     }
   ],
   "translation_policy": {

@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The contact event in which sense field, object, and corresponding knowing meet, conditioning felt experience.",
-  "notes": "The project keeps contact as the default because it is readable and precise enough for dependent-arising, sense-field, and experience-analysis contexts. Phassa should be heard as a conditioned event in the sense process, not as a vague encounter, not as mere physical touch, and not as the felt experience that follows from it. Touch remains a controlled alternate only when tightly literal explanatory prose needs the tactile image, but it must not become the unmarked default because phassa is broader than bodily touch. In this repository, phassa must stay distinct from vedana, which is felt experience; from sanna, which is recognition; from cetana, which is intention; and from vinnana, which is knowing. In live OSF practice explanation this is also the earliest practical pivot: if contact is known at the sense door, felt experience can be known as felt experience and the movement into tanha need not simply roll forward. That early-interception emphasis should guide translator-facing practice prose without being overstated into a denial of the repo's separate residue-family terms. The OSF glossary supports keeping phassa as the event-term and preventing collapse into sensation-language, while MN 148 supports the conjunctive sense-process analysis directly.",
+  "notes": "The project keeps contact as the default because it is readable and precise enough for dependent-arising, sense-field, and experience-analysis contexts. Phassa should be heard as a conditioned event in the sense process, not as a vague encounter, not as mere physical touch, and not as the felt experience that follows from it. Touch remains a controlled alternate only when tightly literal explanatory prose needs the tactile image, but it must not become the unmarked default because phassa is broader than bodily touch. In this repository, phassa must stay distinct from vedanā, which is felt experience; from saññā, which is recognition; from cetanā, which is intention; and from viññāṇa, which is knowing. In live OSF practice explanation this is also the earliest practical pivot: if contact is known at the sense door, felt experience can be known as felt experience and the movement into taṇhā need not simply roll forward. The Idappaccayatā practical talk profile strongly reinforces that gate-guarding emphasis and ties the quenching of dukkha directly to not going wrong at the moment of contact. That early-interception emphasis should guide translator-facing practice prose without being overstated into a denial of the repo's separate residue-family terms. The OSF glossary supports keeping phassa as the event-term and preventing collapse into sensation-language, while MN 148 supports the conjunctive sense-process analysis directly.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -105,12 +105,18 @@
       "source": "MN 148",
       "kind": "context-rule",
       "scope": "Supports phassa as the conjunction-event in sense-process analysis."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports treating phassa as the decisive lived pivot where the dukkha process can be interrupted rather than merely endured."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'contact' as the default rendering in the entry's governed doctrinal, sense-process, and dependent-arising contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Use 'touch' only when tightly literal explanatory prose clearly needs the tactile metaphor. Do not collapse phassa into sensation, bodily touch alone, or vague encounter-language.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents phassa from collapsing into bodily-touch language, vague contact-language, or the vedana and tanha sequence that follows from it."
+    "drift_risk": "Prevents phassa from collapsing into bodily-touch language, vague contact-language, or the vedanā and taṇhā sequence that follows from it."
   }
 }

@@ -5,10 +5,65 @@
   "part_of_speech": "noun",
   "literal_meaning": "stability of dhamma",
   "preferred_translation": "stability of the pattern",
-  "definition": "The stability or standing order of the pattern of things.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "alternative_translations": [
+    "stability of dhamma"
+  ],
+  "discouraged_translations": [
+    "fixed essence"
+  ],
+  "definition": "The standing stability of the lawful pattern of things.",
+  "notes": "The repository keeps stability of the pattern as the default because it stays readable while preserving the lawful, non-essentialist force of the term. Stability of dhamma remains acceptable in source-facing explanation where keeping dhamma audible matters. The Buddhadasa usage profile and the Idappaccayatā practical talk profile support the broader natural-law cluster here by reinforcing that the pattern is stable as lawfulness, not as a hidden substance behind conditions.",
+  "context_rules": [
+    {
+      "context": "In most translator-facing doctrinal contexts",
+      "rendering": "stability of the pattern",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In source-facing explanation where dhamma should stay audible",
+      "rendering": "stability of dhamma",
+      "notes": "Use when preserving the family tie matters more than smoothing the English."
+    }
+  ],
+  "related_terms": [
+    "dhamma",
+    "dhammata",
+    "dhammaniyamata",
+    "idappaccayatā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhammatthitā",
+      "translation": "stability of the pattern",
+      "notes": "Natural-law support rendering.",
+      "source": "SN 12.20"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.20"
+  ],
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft"
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports lawful-pattern handling over scholastic abstraction."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "context-rule",
+      "scope": "Supports treating dhammatthiti as the stable standing of conditional law rather than as essence-language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'stability of the pattern' as the default rendering unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not import fixed-essence language or later scholastic system-talk where the early-text function is simply lawful standing order.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift into essence-language or over-systematized scholastic paraphrase."
+  }
 }

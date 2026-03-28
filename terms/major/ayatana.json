@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A field or domain of experience, especially in analytical contexts involving the sense fields and their objects.",
-  "notes": "The project now uses field as the broad default for āyatana because it scales better across compounds than cognitive realm and avoids prematurely narrowing every case to a sense organ or abstract metaphysical base. Sense field remains the preferred alternate when the sixfold experiential structure needs to be explicit. Base can still work in established compounds, but it should not dominate the lexicon when field would read more naturally in contemporary English. Translators should keep the family stable between āyatana and saḷāyatana and should not let base silently replace field except where a local compound or formula clearly requires it. The OSF glossary confirms field as the house default for the six-sense-field family and records sense field, domain, and base as tolerated alternates.",
+  "notes": "The project now uses field as the broad default for āyatana because it scales better across compounds than cognitive realm and avoids prematurely narrowing every case to a sense organ or abstract metaphysical base. Sense field remains the preferred alternate when the sixfold experiential structure needs to be explicit. Base can still work in established compounds, but it should not dominate the lexicon when field would read more naturally in contemporary English. Translators should keep the family stable between āyatana and saḷāyatana and should not let base silently replace field except where a local compound or formula clearly requires it. The OSF glossary confirms field as the house default for the six-sense-field family and records sense field, domain, and base as tolerated alternates. The Idappaccayatā practical talk profile reinforces the lived-process side of this family by keeping the six fields tied to contact, feeling, and dukkha rather than to abstract faculty-metaphysics.",
   "context_rules": [
     {
       "context": "In general analytical contexts where āyatana names a domain of experience",
@@ -81,13 +81,19 @@
     "translation-sensitive"
   ],
   "status": "reviewed",
-  "version_notes": "Changed the default from cognitive realm to field and added explicit rules for sense-field, domain, and base usage.",
+  "version_notes": "Changed the default from cognitive realm to field and added explicit rules for sense-field, domain, and base usage, with added idappaccayatā-backed lived-process clarification.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping field as the default across the six-sense-field family and governs compound inheritance to āyatana-family terms."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping the sense-field family tied to lived conditional process rather than faculty-metaphysics."
     }
   ],
   "translation_policy": {

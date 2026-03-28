@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Appropriation: taking experience, views, habits, or identity personally as I or mine.",
-  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. In this repository, upādāna must stay distinct from taṇhā: taṇhā is ignorant wanting, while upādāna is the step of taking personally or appropriating. It also differs from chanda, which can be wholesome, from rāga, which is passion or coloring, and from nandī, which is relishing or delighting. The wider family follows a stable inheritance pattern: diṭṭhupādāna defaults to taking views personally, attavādupādāna defaults to taking self-doctrine personally, while the heap-family compounds upādānakkhandha and pañcupādānakkhandhā remain fixed-expression overrides governed as clung-to heap and five clung-to heaps. The OSF glossary's practical treatment of appropriation supports preserving taking personally as the governed default in this family, and SN 22.22 supports the fixed heap-family compounds.",
+  "notes": "The project uses taking personally as the house default. The literal force is taking near, and the project default makes the appropriating movement explicit in English. Ignorantly holding remains a close alternate when the emphasis is on sustained holding, while clinging and grasping remain available in more familiar doctrinal prose. The term should be heard as appropriation into I and mine rather than as generic emotional attachment. In this repository, upādāna must stay distinct from taṇhā: taṇhā is ignorant wanting, while upādāna is the step of taking personally or appropriating. It also differs from chanda, which can be wholesome, from rāga, which is passion or coloring, and from nandī, which is relishing or delighting. The Idappaccayatā practical talk profile reinforces that progression by stressing the practical sequence from feeling to wanting to appropriation rather than reducing the whole family to vague attachment-language. The wider family follows a stable inheritance pattern: diṭṭhupādāna defaults to taking views personally, attavādupādāna defaults to taking self-doctrine personally, while the heap-family compounds upādānakkhandha and pañcupādānakkhandhā remain fixed-expression overrides governed as clung-to heap and five clung-to heaps. The OSF glossary's practical treatment of appropriation supports preserving taking personally as the governed default in this family, and SN 22.22 supports the fixed heap-family compounds.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-arising contexts",
@@ -89,7 +89,7 @@
   ],
   "example_phrases": [
     {
-      "pali": "taṇhāpaccayā upādānaṃ",
+      "pali": "taṇhāpaccayā upādānaṁ",
       "translation": "with ignorant wanting as condition, taking personally",
       "notes": "Key dependent-arising link. Keep wanting and appropriation distinct.",
       "source": "SN 12.2"
@@ -120,7 +120,7 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to keep appropriation distinct from wanting, passion, and delight while preserving the fixed clung-to-heaps overrides.",
+  "version_notes": "Strengthened to keep appropriation distinct from wanting, passion, and delight while preserving the fixed clung-to-heaps overrides and the idappaccayatā-backed practical sequence.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -137,6 +137,12 @@
       "source": "SN 12.2",
       "kind": "context-rule",
       "scope": "Supports the dependent-arising pivot from taṇhā to upādāna without collapsing the two terms."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping upādāna as the appropriative step in the lived sequence from feeling to wanting to taking personally."
     }
   ],
   "translation_policy": {

@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Conditioned knowing associated with a sense base and its object, central to sense-process, heap, and dependent-arising analysis.",
-  "notes": "The project keeps knowing as the house default. The term should be heard as conditioned, multiple, and tied to the sense process rather than as a permanent witness behind experience. Consciousness remains a controlled alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used only cautiously in explanation when it does not suggest a metaphysical substrate. In this repository, viññāṇa must stay distinct from phassa, which is contact; from vedanā, which is felt experience; from saññā, which is recognition; and from cetanā, which is intention. Translators should keep the sixfold sensory uses, the heap uses, and the dependent-arising uses aligned with this conditioned-process reading and should not let consciousness become an automatic default. The OSF glossary supports this conditioned-process handling, SN 22.59 supports the heap-family use, and SN 12.2 supports the same reading in dependent arising.",
+  "notes": "The project keeps knowing as the house default. The term should be heard as conditioned, multiple, and tied to the sense process rather than as a permanent witness behind experience. Consciousness remains a controlled alternate in doctrinal prose where standard Buddhist-English continuity matters, and awareness may be used only cautiously in explanation when it does not suggest a metaphysical substrate. In this repository, viññāṇa must stay distinct from phassa, which is contact; from vedanā, which is felt experience; from saññā, which is recognition; and from cetanā, which is intention. Translators should keep the sixfold sensory uses, the heap uses, and the dependent-arising uses aligned with this conditioned-process reading and should not let consciousness become an automatic default. The OSF glossary supports this conditioned-process handling, SN 22.59 supports the heap-family use, and SN 12.2 supports the same reading in dependent arising. The Idappaccayatā practical talk profile reinforces the same anti-metaphysical handling by keeping viññāṇa inside conditional flow rather than allowing it to harden into a witness-like principle.",
   "context_rules": [
     {
       "context": "When referring to the six sense modes of viññāṇa",
@@ -77,13 +77,13 @@
       "source": "SN 12.2"
     },
     {
-      "pali": "saṅkhārapaccayā viññāṇaṃ",
+      "pali": "saṅkhārapaccayā viññāṇaṁ",
       "translation": "with putting together as condition, knowing",
       "notes": "Standard dependent-arising link.",
       "source": "SN 12.2"
     },
     {
-      "pali": "yaṃ kiñci viññāṇaṃ",
+      "pali": "yaṁ kiñci viññāṇaṁ",
       "translation": "whatever knowing",
       "notes": "Canonical heap enumeration and not-self pattern.",
       "source": "SN 22.59"
@@ -103,7 +103,7 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to make the anti-metaphysical and cross-cluster boundaries around viññāṇa explicit.",
+  "version_notes": "Strengthened to make the anti-metaphysical and cross-cluster boundaries around viññāṇa explicit, with added idappaccayatā-backed process clarification.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -120,6 +120,12 @@
       "source": "SN 12.2",
       "kind": "context-rule",
       "scope": "Supports keeping the same conditioned-process reading in dependent-arising links."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping viññāṇa within conditional flow rather than allowing witness-like metaphysical drift."
     }
   ],
   "translation_policy": {

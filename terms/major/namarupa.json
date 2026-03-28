@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The pairing of name and form, or the mental and physical phenomena structured within experience.",
-  "notes": "The project keeps name-and-form as the default because it preserves the compact doctrinal structure of the compound without collapsing it too quickly into a paraphrase. Depending on context, the term may be unpacked as naming and materiality or as mental and physical phenomena or objects of consciousness. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and knowing. The OSF glossary's treatment of mental and physical framing supports preserving the doctrinal compound as the house default while allowing explanatory unpacking where needed. Translators should not silently replace the doctrinal compound with mind and body in core dependent-arising passages unless the broader explanatory goal is made explicit in the surrounding prose.",
+  "notes": "The project keeps name-and-form as the default because it preserves the compact doctrinal structure of the compound without collapsing it too quickly into a paraphrase. Depending on context, the term may be unpacked as naming and materiality or as mental and physical phenomena or objects of consciousness. The term should be heard as an analytic pairing within experience, especially in the mutual dependence of name-and-form and knowing. The OSF glossary's treatment of mental and physical framing supports preserving the doctrinal compound as the house default while allowing explanatory unpacking where needed. The Idappaccayatā practical talk profile reinforces the same anti-metaphysical direction by keeping the pair inside lived conditional process rather than as a hidden ontological split. Translators should not silently replace the doctrinal compound with mind and body in core dependent-arising passages unless the broader explanatory goal is made explicit in the surrounding prose.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -55,13 +55,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "viññāṇapaccayā nāmarūpaṃ",
+      "pali": "viññāṇapaccayā nāmarūpaṁ",
       "translation": "with knowing as condition, name-and-form",
       "notes": "Central dependent-arising link.",
       "source": "SN 12.2"
     },
     {
-      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "pali": "nāmarūpapaccayā saḷāyatanaṁ",
       "translation": "with name-and-form as condition, sense field",
       "notes": "Shows the downstream role of the term in the chain.",
       "source": "SN 12.2"
@@ -77,13 +77,19 @@
     "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Strengthened to keep the compound stable in dependent-arising contexts and to block casual collapse into mind-and-body paraphrase.",
+  "version_notes": "Strengthened to keep the compound stable in dependent-arising contexts, block casual collapse into mind-and-body paraphrase, and clarify the source-backed anti-metaphysical process reading.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports preserving name-and-form as the default while permitting explicit explanatory paraphrases in non-formula prose."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping nāmarūpa inside lived conditional process rather than as a hidden ontological split."
     }
   ],
   "translation_policy": {

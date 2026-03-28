@@ -1,13 +1,69 @@
 {
-  "term": "dhammaniyamata",
+  "term": "dhammaniyāmatā",
   "normalized_term": "dhammaniyamata",
   "entry_type": "minor",
   "part_of_speech": "noun",
   "preferred_translation": "regularity of dhamma",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
+  "alternative_translations": [
+    "regularity of the pattern"
+  ],
+  "discouraged_translations": [
+    "fate"
+  ],
+  "definition": "The regularity or lawful invariability of dhamma-patterns.",
   "status": "reviewed",
   "literal_meaning": "regularity of dhamma",
+  "notes": "The repository keeps regularity of dhamma as the default because it keeps the family tie audible and works well beside dhammatā and dhammatthiti. Regularity of the pattern remains acceptable when smoother English is needed. The Buddhadasa usage profile and the Idappaccayatā practical talk profile support this term as part of the natural-law support layer around conditionality and translator-facing anti-drift notes. The term should not be softened into mere tendency or inflated into fate.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal support-layer contexts",
+      "rendering": "regularity of dhamma",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where smoother English helps",
+      "rendering": "regularity of the pattern",
+      "notes": "Use when the lawful recurrence is the point and keeping dhamma audible matters less."
+    }
+  ],
+  "related_terms": [
+    "dhamma",
+    "dhammata",
+    "dhammatthiti",
+    "idappaccayatā"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhammaniyāmatā",
+      "translation": "regularity of dhamma",
+      "notes": "Natural-law support rendering.",
+      "source": "SN 12.20"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.20"
+  ],
   "tags": [
     "core-doctrine"
-  ]
+  ],
+  "authority_basis": [
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports lawful-regularity handling in the dhamma family."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "context-rule",
+      "scope": "Supports treating dhammaniyāmatā as part of the natural-law support layer around idappaccayatā."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'regularity of dhamma' as the default rendering unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not flatten the term into vague tendency-language or deterministic fate-language.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift into fate-language or weak paraphrase that hides the lawful regularity."
+  }
 }

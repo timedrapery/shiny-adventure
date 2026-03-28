@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The conditioned arising of dissatisfaction and release, expressed as a here-and-now structure of dependent process rather than a self-standing essence.",
-  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadasa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical conditional process: when conditions are present, suffering arises; when conditions are removed, the process ceases. What Is And Is Not The Path reinforces this practical, here-and-now handling of the teaching, while the Buddhadasa usage profile supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item. The standard conditionality lines and the chain formulas now belong to the same governed family and should not be rendered independently of one another.",
+  "notes": "The repository keeps dependent arising as the default because it is clear, reusable, and already native to the project's doctrinal voice. OSF authority and Buddhadasa-sensitive framing require that the term not be reduced to a merely scholastic sequence or a metaphysical theory of world-creation. In this lexicon it functions primarily as practical conditional process: when conditions are present, suffering arises; when conditions are removed, the process ceases. What Is And Is Not The Path reinforces this practical, here-and-now handling of the teaching, while the Buddhadasa usage profile supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality. The Idappaccayatā practical talk profile sharpens that further by explicitly treating paṭiccasamuppāda and idappaccayatā as one law under different scopes: paṭiccasamuppāda names the same conditionality where the repository is focused on the human arising and quenching of dukkha. Dependent origination remains acceptable for comparative prose, while dependent co-arising can be used when the reciprocal, processive character of the teaching needs extra emphasis. Translators should keep the nidāna family, the related -paccaya and -nirodha compounds, and the core formulas aligned with this headword rather than treating each link as an isolated glossary item. The standard conditionality lines and the chain formulas now belong to the same governed family and should not be rendered independently of one another. The practical force must stay anchored in the lived phassa -> vedanā -> taṇhā -> upādāna -> bhava movement rather than drifting into cosmological speculation detached from present suffering.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -40,6 +40,11 @@
       "context": "In OSF practical teaching prose about the arising and ending of stress here and now",
       "rendering": "dependent arising",
       "notes": "Do not let the term drift into abstract cosmology when the passage is about immediate practice."
+    },
+    {
+      "context": "In explanatory prose contrasting paṭiccasamuppāda with the broader idappaccayatā headword",
+      "rendering": "dependent arising",
+      "notes": "Explain it as the dukkha-focused scope of the same conditional law rather than as a separate doctrine."
     }
   ],
   "related_terms": [
@@ -76,13 +81,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "imasmiṃ sati idaṃ hoti",
+      "pali": "imasmiṁ sati idaṁ hoti",
       "translation": "when this is, this comes to be",
       "notes": "Core formula expressing conditional structure.",
       "source": "SN 12.61"
     },
     {
-      "pali": "imassa nirodhā idaṃ nirujjhati",
+      "pali": "imassa nirodhā idaṁ nirujjhati",
       "translation": "with the quenching of this, this ceases",
       "notes": "Core formula expressing the quenching side of dependent arising.",
       "source": "SN 12.61"
@@ -112,7 +117,7 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded as a rule-bearing major entry with stronger here-and-now causality guidance, broader cross-linking, and explicit distinction from purely scholastic or metaphysical readings.",
+  "version_notes": "Expanded as a rule-bearing major entry with stronger here-and-now causality guidance, broader cross-linking, explicit same-law/different-scope handling with idappaccayatā, and clearer resistance to metaphysical drift.",
   "authority_basis": [
     {
       "source": "What Is And Is Not The Path",
@@ -125,12 +130,18 @@
       "priority": "buddhadasa",
       "kind": "rationale",
       "scope": "Supports treating paṭiccasamuppāda as an immediate process of suffering and release governed by conditionality."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports the same-law/different-scope relation between idappaccayatā and paṭiccasamuppāda and reinforces the lived sequence from contact to dukkha or quenching."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'dependent arising' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not let individual link formulas drift away from the cluster's recorded conditionality and quenching phrasing without a documented formula-level reason.",
+    "when_not_to_apply": "Do not let individual link formulas drift away from the cluster's recorded conditionality and quenching phrasing without a documented formula-level reason. Do not recast the term as abstract cosmology when the passage is about immediate dukkha and its quenching.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift back toward 'chain of causation' and prevents link-by-link formula translation from fragmenting into unrelated English styles."
+    "drift_risk": "Prevents drift back toward 'chain of causation', prevents link-by-link formula translation from fragmenting into unrelated English styles, and blocks detachment of paṭiccasamuppāda from the broader conditionality family and lived dukkha process."
   }
 }
