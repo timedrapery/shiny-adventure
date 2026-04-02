@@ -6,7 +6,8 @@
   "literal_meaning": "breathing sati",
   "preferred_translation": "ānāpānasati",
   "alternative_translations": [
-    "mindfulness of breathing",
+    "remembering the Dhamma while breathing in and out",
+    "mindfulness with breathing",
     "introspective breathing",
     "remembering to look at in-and-out breathing"
   ],
@@ -14,9 +15,9 @@
     "breath meditation"
   ],
   "untranslated_preferred": true,
-  "gloss_on_first_occurrence": "ānāpānasati (sati with breathing)",
-  "definition": "The practice of cultivating sati with the in-breath and out-breath as the immediate field of attention.",
-  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. Mindfulness of breathing remains acceptable as a gloss on first occurrence or in explanatory prose where unpacking the compound is useful. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository records that as a source-backed explanatory alternate without displacing the current house preference for leaving the term untranslated. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique. The repository also keeps the practice explanation simple where the text does so: in gladdening-the-mind work, mano can be explained as the thinking mind that brings wholesome dhammas or wholesome thought-content to bear, while citta is the feeling mind that becomes gladdened or brightened. That explanatory distinction should support the practice without replacing the formula itself. The same explanation must not be overextended: wholesome dhammas may counter or displace active distractions, but the repository does not treat that as identical to the final wearing away of outflows, uprooting of underlying tendencies, or ending of fetters.",
+  "gloss_on_first_occurrence": "ānāpānasati (remembering the Dhamma while breathing in and out)",
+  "definition": "The practice of cultivating sati, understood here as remembering the Dhamma, with the in-breath and out-breath as the immediate field of attention.",
+  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. When an explanatory gloss is needed, the repository now prefers 'remembering the Dhamma while breathing in and out' so the practice is not reduced to generic awareness of breath or remembering just any old thing. If mindfulness-language is used at all in explanatory prose, prefer 'mindfulness with breathing' rather than 'mindfulness of breathing,' since the latter misframes the compound too narrowly. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository keeps that as a tolerated explanatory alternate, but strengthens the point that sati here is remembering the Dhamma while breathing in and out. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique. The repository also keeps the practice explanation simple where the text does so: in gladdening-the-mind work, mano can be explained as the thinking mind that brings wholesome dhammas or wholesome thought-content to bear, while citta is the feeling mind that becomes gladdened or brightened. That explanatory distinction should support the practice without replacing the formula itself. The same explanation must not be overextended: wholesome dhammas may counter or displace active distractions, but the repository does not treat that as identical to the final wearing away of outflows, uprooting of underlying tendencies, or ending of fetters.",
   "context_rules": [
     {
       "context": "In source-facing translation and practice instructions",
@@ -26,12 +27,12 @@
     {
       "context": "On first occurrence where a gloss helps orient the reader",
       "rendering": "ānāpānasati",
-      "notes": "Use the gloss 'ānāpānasati (sati with breathing)' on first occurrence."
+      "notes": "Use the gloss 'ānāpānasati (remembering the Dhamma while breathing in and out)' on first occurrence."
     },
     {
-      "context": "In explanatory prose discussing the practice in plain English",
-      "rendering": "mindfulness of breathing",
-      "notes": "Acceptable for explanation, but not the preferred source-facing rendering."
+      "context": "In explanatory prose where the function of sati in the compound must be made explicit",
+      "rendering": "remembering the Dhamma while breathing in and out",
+      "notes": "Preferred explanatory gloss when the repository wants to make clear that sati here is Dhamma-remembering, not arbitrary recollection."
     },
     {
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly directed breathing attention",
@@ -39,9 +40,9 @@
       "notes": "Source-backed alternate, not the house default."
     },
     {
-      "context": "In OSF-glossary style plain-English practice explanation",
+      "context": "In older OSF-glossary style plain-English practice explanation",
       "rendering": "remembering to look at in-and-out breathing",
-      "notes": "Source-backed explanatory alternate, not the house default."
+      "notes": "Tolerated explanatory alternate, but not the strongest current house gloss."
     },
     {
       "context": "In OSF publication prose emphasizing the training as a whole rather than a technique fragment",
@@ -68,6 +69,7 @@
     "kusala-dhamma",
     "kāyagatā sati",
     "mano",
+    "dhamma",
     "nivarana",
     "pamojja",
     "samādhi",
@@ -83,8 +85,8 @@
     },
     {
       "pali": "so satova assasati satova passasati",
-      "translation": "they breathe in with sati and breathe out with sati",
-      "notes": "Closely tied practical formulation.",
+      "translation": "one breathes in remembering the Dhamma and breathes out remembering the Dhamma",
+      "notes": "Closely tied practical formulation showing that sati here is not arbitrary recollection.",
       "source": "MN 118"
     },
     {
@@ -123,8 +125,8 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'ānāpānasati' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not force an English substitute when the local passage needs the Pali term; use a gloss only when the entry or passage explicitly calls for one.",
+    "default_scope": "Use 'ānāpānasati' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it. When a gloss is needed, prefer 'remembering the Dhamma while breathing in and out.'",
+    "when_not_to_apply": "Do not force an English substitute when the local passage needs the Pali term; use a gloss only when the entry or passage explicitly calls for one, and do not weaken the sati component into generic breath-awareness.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift back toward 'breath meditation' or other unrecorded alternates.",
     "leave_untranslated_when": "Leave the term untranslated when source-facing doctrinal range or local explanation would be narrowed too quickly by an English equivalent."
