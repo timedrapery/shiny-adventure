@@ -26,8 +26,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   a numbered ladder of steps.
 - The tetrad headings stay in the main translation as study aids for practice.
 - `citta` remains `feeling mind` in the training formulas.
-- `samādhi` remains `unification of mind`; this blocks drift toward
-  concentration-language.
+- `samādhi` remains `mental composure`; this blocks drift toward
+  concentration-language without making samādhi the headword equivalent of
+  unification-of-mind language.
 - `upekkhā` remains `dynamic balance`.
 - `vossagga` and `paṭinissagga` remain `relinquishment`.
 
@@ -70,11 +71,19 @@ translation choices, source-audit calls, and edition notes that govern it.
 - This edition also treats breathing as a practical bodily conditioner: by
   knowing and adjusting the breath, bodily tension is softened and the body is
   calmed rather than merely watched.
+- This edition does not treat the first jhāna as distinct from ānāpānasati.
+  The same training clears distractions, brings up wholesome dhammas through
+  vitakka and vicāra, and keeps the line of practice going straight to the
+  goal rather than beating around the bush.
 - In the feeling tetrad, the trainee remembers with each breath to bring forth
   delight and ease, and to experience and calm the mind process of feeling and
   recognition, including liking, disliking, or neither.
 - In the feeling-mind tetrad, the trainee remembers with each breath to
-  experience, gladden, unify, and free the feeling mind.
+  experience, gladden, bring the feeling mind to mental composure, and free
+  it.
+- `ekaggatā` in this repository is not governed as one-pointedness. In
+  first-jhāna and ānāpānasati explanation it is the directness or single aim
+  that does not get pulled into side quests.
 - In practical explanation, the thinking mind (`mano`) reaches in to gladden
   the feeling mind (`citta`) by bringing forth `kusala dhammas`, wholesome
   qualities or thoughts worth having, while abandoning `akusala dhammas`,

@@ -89,7 +89,7 @@ class ClusterReportTests(unittest.TestCase):
         }
         terms["samma-samadhi"] = make_record(
             "samma-samadhi",
-            preferred_translation="right unification of mind",
+            preferred_translation="right mental composure",
             notes="generic path-factor note",
             definition="generic path-factor definition",
         )

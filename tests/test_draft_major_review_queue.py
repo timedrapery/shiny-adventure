@@ -31,7 +31,7 @@ class DraftMajorReviewQueueTests(unittest.TestCase):
                 "term": "samādhi",
                 "entry_type": "major",
                 "status": "reviewed",
-                "preferred_translation": "unification of mind",
+                "preferred_translation": "mental composure",
                 "tags": ["core-practice"],
             },
             "vedana": {

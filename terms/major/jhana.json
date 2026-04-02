@@ -8,7 +8,7 @@
   "alternative_translations": [
     "theme",
     "jhāna",
-    "satisfied unified mind fit for work"
+    "satisfied composed mind fit for work"
   ],
   "discouraged_translations": [
     "meditation",
@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A mental theme held steadily in mind, especially in the fourfold path expression of ariya sammā samādhi.",
-  "notes": "The project now keeps mental theme as the default because plain theme is too bare and too easily detached from mind-training. This repository treats jhāna as practical path vocabulary, not as trance doctrine: first jhāna, second jhāna, third jhāna, and fourth jhāna are the fourfold expression of ariya sammā samādhi rather than an optional side system. What Is And Is Not The Path strongly reinforces that early-sutta, anti-trance handling of jhāna in direct relation to samādhi and the path. The OSF glossary supports this practical direction by explaining jhāna as a satisfied unified mind fit for work, and the Dhammarato quotes profile reinforces especially first jhāna as workable, non-mystified path language. Translators should keep the vitakka-vicāra pair aligned with this rule, keep the fourfold sequence stable as first mental theme through fourth mental theme unless a controlled technical reason requires the Pali, and refuse drift into meditation, ecstasy, absorption, or trance language.",
+  "notes": "The project now keeps mental theme as the default because plain theme is too bare and too easily detached from mind-training. This repository treats jhāna as practical path vocabulary, not as trance doctrine: first jhāna, second jhāna, third jhāna, and fourth jhāna are the fourfold expression of ariya sammā samādhi rather than an optional side system. The first mental theme is not treated here as distinct from ānāpānasati. It is the same path training when distractions are set aside, wholesome dhammas are brought forward through vitakka and vicāra, and the line of practice is kept direct through ekaggatā rather than wandering off into side quests. What Is And Is Not The Path strongly reinforces that early-sutta, anti-trance handling of jhāna in direct relation to samādhi and the path. The OSF glossary supports this practical direction by explaining jhāna as a satisfied composed mind fit for work, and the Dhammarato quotes profile reinforces especially first jhāna as workable, non-mystified path language. Translators should keep the vitakka-vicāra pair aligned with this rule, keep the fourfold sequence stable as first mental theme through fourth mental theme unless a controlled technical reason requires the Pali, and refuse drift into meditation, ecstasy, absorption, or trance language.",
   "context_rules": [
     {
       "context": "In most path and jhāna contexts, especially where the term belongs to ariya sammā samādhi",
@@ -31,8 +31,8 @@
       "notes": "Retaining the Pāli can be appropriate where translation would distract from technical discussion."
     },
     {
-      "context": "In OSF-glossary style practical explanation of a workable unified mind",
-      "rendering": "satisfied unified mind fit for work",
+      "context": "In OSF-glossary style practical explanation of a workable composed mind",
+      "rendering": "satisfied composed mind fit for work",
       "notes": "Source-backed alternate, not the house default."
     },
     {
@@ -48,6 +48,7 @@
   ],
   "related_terms": [
     "asañña",
+    "anapanasati",
     "bhāvanā",
     "ekaggatā",
     "jhāyati",

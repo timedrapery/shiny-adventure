@@ -95,7 +95,7 @@ Generated navigation index for the flat `terms/major/` directory.
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
-| [ekaggata](../../terms/major/ekaggata.json) | ekaggatā | singleness | reviewed | core-practice, meditative-development, mental-qualities, context-sensitive |
+| [ekaggata](../../terms/major/ekaggata.json) | ekaggatā | directness | reviewed | core-practice, meditative-development, mental-qualities, context-sensitive |
 
 ## G
 
@@ -256,11 +256,11 @@ Generated navigation index for the flat `terms/major/` directory.
 | [sakkaya-ditthi](../../terms/major/sakkaya-ditthi.json) | sakkāya-diṭṭhi | identity view | stable | core-doctrine, liberation, translation-sensitive, self-view |
 | [sakkaya](../../terms/major/sakkaya.json) | sakkāya | identity | stable | aggregates, core-doctrine, self-view, translation-sensitive, context-sensitive |
 | [salayatana](../../terms/major/salayatana.json) | saḷāyatana | six fields of experience | stable | core-doctrine, dependent-origination, context-sensitive |
-| [samadhi](../../terms/major/samadhi.json) | samādhi | unification of mind | stable | core-practice, mental-qualities |
+| [samadhi](../../terms/major/samadhi.json) | samādhi | mental composure | stable | core-practice, mental-qualities |
 | [samma-ajiva](../../terms/major/samma-ajiva.json) | sammā-ājīva | right livelihood | reviewed | core-practice, core-doctrine |
 | [samma-ditthi](../../terms/major/samma-ditthi.json) | sammā-diṭṭhi | right view | reviewed | core-doctrine, core-practice |
 | [samma-kammanta](../../terms/major/samma-kammanta.json) | sammā-kammanta | right action | reviewed | core-practice, core-doctrine |
-| [samma-samadhi](../../terms/major/samma-samadhi.json) | sammā-samādhi | right unification of mind | reviewed | core-practice, core-doctrine, meditative-development |
+| [samma-samadhi](../../terms/major/samma-samadhi.json) | sammā-samādhi | right mental composure | reviewed | core-practice, core-doctrine, meditative-development |
 | [samma-sankappa](../../terms/major/samma-sankappa.json) | sammāsaṅkappa | right attitude | reviewed | core-practice, core-doctrine |
 | [samma-sati](../../terms/major/samma-sati.json) | sammā-sati | right remembering | reviewed | core-practice, core-doctrine, mental-qualities |
 | [samma-vaca](../../terms/major/samma-vaca.json) | sammā-vācā | right speech | reviewed | core-practice, core-doctrine |

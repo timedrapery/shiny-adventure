@@ -48,7 +48,7 @@ The book strongly reinforces the following existing OSF house directions:
 - `dukkha` as `dissatisfaction`, with practical use of `stress`
 - `sati` as `remembering`
 - `samma-sati` as `right remembering`
-- `samadhi` as `unification of mind`
+- `samadhi` as `mental composure`
 - `samma-sankappa` as `attitude`
 - `anapanasati` as the central training rather than a narrow breath technique
 - `kamma` as `action` or `behavior`

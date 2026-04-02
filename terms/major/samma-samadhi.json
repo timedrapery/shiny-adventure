@@ -4,23 +4,24 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "right composure",
-  "preferred_translation": "right unification of mind",
+  "preferred_translation": "right mental composure",
   "alternative_translations": [
     "right composure",
     "right collectedness",
-    "right noble unification of mind",
+    "right noble mental composure",
     "harmonious equilibrium"
   ],
   "discouraged_translations": [
-    "right concentration"
+    "right concentration",
+    "right unification of mind"
   ],
   "untranslated_preferred": false,
   "definition": "The noble path factor of samādhi, namely the first, second, third, and fourth jhāna.",
-  "notes": "OSF house style now prefers right unification of mind based on the Dhammarato quotes draft, which consistently rejects right concentration and frames the factor as the proper unification of mind. What Is And Is Not The Path reinforces the same anti-concentration and practical path handling. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas. Right noble unification of mind is retained for quote-book and heading-style usage.",
+  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
-      "rendering": "right unification of mind",
+      "rendering": "right mental composure",
       "notes": "Default OSF house rendering."
     },
     {
@@ -30,12 +31,12 @@
     },
     {
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
-      "rendering": "right noble unification of mind",
+      "rendering": "right noble mental composure",
       "notes": "Source-backed heading style."
     },
     {
       "context": "When the factor is being defined in doctrinal prose by its fourfold path expression",
-      "rendering": "right unification of mind",
+      "rendering": "right mental composure",
       "notes": "Keep explicit that the factor is the first, second, third, and fourth jhāna."
     },
     {
@@ -57,7 +58,7 @@
   "example_phrases": [
     {
       "pali": "sammā-samādhi",
-      "translation": "right unification of mind",
+      "translation": "right mental composure",
       "notes": "OSF house-style path-factor form.",
       "source": "MN 117"
     },
@@ -82,7 +83,7 @@
       "source": "Dhammarato quotes draft",
       "priority": "osf-house",
       "kind": "preferred-translation",
-      "scope": "Supports right unification of mind and rejects right concentration as the governing frame."
+      "scope": "Supports rejecting right concentration and keeping the path factor practical and workable."
     },
     {
       "source": "What Is And Is Not The Path",
@@ -97,7 +98,7 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'right unification of mind' as the default rendering for the path factor while keeping explicit that ariya sammā samādhi is the first, second, third, and fourth jhāna.",
+    "default_scope": "Use 'right mental composure' as the default rendering for the path factor while keeping explicit that ariya sammā samādhi is the first, second, third, and fourth jhāna.",
     "when_not_to_apply": "Do not widen the factor into a vague broader meditation category or revert to right concentration. Use controlled alternates only where a recorded context rule or source-specific house idiom justifies them.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents drift back toward right concentration and prevents separation of the path factor from the fourfold jhāna sequence."
