@@ -75,6 +75,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   The same training clears distractions, brings up wholesome dhammas through
   vitakka and vicāra, and keeps the line of practice going straight to the
   goal rather than beating around the bush.
+- In the satipaṭṭhāna-fulfillment section, the breathing training is not left
+  behind. The section is governed as a mapping of the same in-breath and
+  out-breath training onto body, feelings, feeling mind, and dhammas.
 - In the feeling tetrad, the trainee remembers with each breath to bring forth
   delight and ease, and to experience and calm the mind process of feeling and
   recognition, including liking, disliking, or neither.
@@ -95,12 +98,16 @@ translation choices, source-audit calls, and edition notes that govern it.
   changing conditioning: bodily calming helps the feeling mind settle, and
   wholesome thoughts can be brought to bear so the feeling mind brightens
   rather than remaining trapped in unwholesome qualities.
+- In the awakening-factor section, the factors are not governed as a second
+  list laid on top of practice. They are the maturation of the same
+  ānāpānasati training: remembering, discernment of qualities, energy,
+  delight, relaxation, mental composure, and dynamic balance.
 
 ## Next Refinement Areas
 
-- Recheck the awakening-factor movement for cadence while preserving the
-  repeated doctrinal structure.
-- Recheck the fruit-and-benefit and satipaṭṭhāna sections for study clarity
-  without weakening the repeated formulas.
+- Recheck the opening and assembly rhetoric for study-text cadence now that the
+  central practice sections are stronger.
+- Recheck the fruit-and-benefit framing and the final knowledge-and-release
+  close for equal clarity and force.
 - Keep any future terminology changes synchronized between the main translation
   and this note file.
