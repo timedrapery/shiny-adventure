@@ -2,8 +2,8 @@
 
 ## Editorial Note
 
-- This is a repo-native example translation designed to be shareable as a
-  single Markdown document.
+- This is a repo-native study translation for practitioners of ānāpānasati,
+  designed to be readable as a single Markdown document.
 - Companion translator notes: [MN 118 Translation Notes](mn118-anapanasati-sutta-notes.md)
 - Source basis: the Pali text of MN 118 as segmented in SuttaCentral's
   Bilara data.
@@ -14,8 +14,8 @@
   `feeling mind`; `upekkhā` is rendered `dynamic balance`; `vossagga` and
   `paṭinissagga` are rendered `relinquishment`.
 - The sixteen ānāpānasati lines are laid out here as trainings in four tetrads,
-  not as a numbered ladder of steps.
-- This is a working translation under active refinement.
+  and the tetrad headings remain in the main text as study aids for practice.
+- This is a working study translation under active refinement.
 
 ## Translation
 
@@ -39,11 +39,11 @@ pavāraṇā, the Buddha sat in the open, surrounded by the Saṅgha of bhikkhus
 After looking over the utterly silent Saṅgha of bhikkhus, he addressed the
 bhikkhus:
 
-"I am resolved in this practice, bhikkhus. My heart is resolved in this
-practice. So rouse up even more energy to attain what has not yet been
+"I am resolved in this way of practice, bhikkhus. My heart is resolved in this
+way of practice. So rouse up even more energy to attain what has not yet been
 attained, to reach what has not yet been reached, to directly realize what has
-not yet been directly realized. I will stay right
-here in Sāvatthī until the Komudī full moon of the fourth month."
+not yet been directly realized. I will stay right here in Sāvatthī until the
+Komudī full moon of the fourth month."
 
 Then the bhikkhus from the countryside heard: "It is said that the Buddha will
 remain there in Sāvatthī until the Komudī full moon of the fourth month." So
@@ -67,7 +67,7 @@ assembly: worthy of gifts, worthy of hospitality, worthy of offerings, worthy
 of reverential greeting, the unsurpassed field of merit for the world. In such
 an assembly, even a little gift becomes much, and a great gift becomes still
 greater. Such an assembly is rarely seen in the world. Such an assembly is
-worth traveling many leagues to see, even if one has to carry provisions in a
+worth traveling many leagues to see, even if one must carry provisions in a
 bag.
 
 "In this Saṅgha there are bhikkhus who are arahants, with outflows ended, who
@@ -102,14 +102,14 @@ the perception of impermanence. There are such bhikkhus in this Saṅgha.
 
 ### What Ānāpānasati Fulfills
 
-"Bhikkhus, when ānāpānasati is developed and cultivated, it is of great fruit
+"Bhikkhus, when ānāpānasati is developed and cultivated, it bears great fruit
 and great benefit. When ānāpānasati is developed and cultivated, it fulfills
 the four establishments of sati. When the four establishments of sati are
 developed and cultivated, they fulfill the seven awakening factors. When the
 seven awakening factors are developed and cultivated, they fulfill knowledge
 and release.
 
-"And how, bhikkhus, is ānāpānasati developed and cultivated so as to be of
+"And how, bhikkhus, is ānāpānasati developed and cultivated so that it bears
 great fruit and great benefit?"
 
 ### The Sixteen Trainings
@@ -117,12 +117,19 @@ great fruit and great benefit?"
 *Editorial layout note: the lines below are grouped as trainings, not presented
 as a numbered sequence of steps.*
 
+*Study note: in this edition the breath is not treated as an object of mere
+fixation. Each in-breath and out-breath is the recurring occasion for
+remembering the Dhamma and carrying out the training.*
+
 "Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
 to an empty hut, sits down, folds the legs crosswise, sets the body upright,
 and sets remembering to the fore. One breathes in remembering the Dhamma; one
 breathes out remembering the Dhamma.
 
 Body-related trainings:
+*The long and short breath trainings are not an end in themselves. Breathing is
+known so that the whole body may be experienced and the body process calmed
+with each breath.*
 - Breathing in long, one knows: 'I breathe in long.' Breathing out long, one
   knows: 'I breathe out long.'
 - Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
@@ -133,6 +140,9 @@ Body-related trainings:
   'Breathing out, I will calm the body process.'
 
 Feeling-related trainings:
+*With each in-breath and out-breath, the trainee remembers to bring forth
+delight and ease, and to experience and calm the mind process of feeling and
+recognition, including liking, disliking, or neither.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:
@@ -143,6 +153,11 @@ Feeling-related trainings:
   'Breathing out, I will calm the mind process.'
 
 Feeling-mind trainings:
+*With each in-breath and out-breath, the trainee remembers to experience,
+gladden, unify, and free the feeling mind. In practice, the thinking mind
+(`mano`) reaches in to gladden the feeling mind (`citta`) by bringing forth
+wholesome qualities, thoughts worth having, while abandoning unwholesome
+qualities, thoughts not worth keeping in mind.*
 - One trains: 'Breathing in, I will experience the feeling mind.' One trains:
   'Breathing out, I will experience the feeling mind.'
 - One trains: 'Breathing in, I will gladden the feeling mind.' One trains:
@@ -162,7 +177,7 @@ Dhamma-related trainings:
 - One trains: 'Breathing in, I will observe relinquishment.' One trains:
   'Breathing out, I will observe relinquishment.'
 
-"That is how ānāpānasati, when developed and cultivated, is of great fruit and
+"That is how ānāpānasati, when developed and cultivated, bears great fruit and
 great benefit."
 
 ### How Ānāpānasati Fulfills The Four Establishments Of Sati
@@ -172,8 +187,8 @@ or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
 experiencing the whole body, or in calming the body process, then
 one remains observing the body in relation to the body, ardent, with clear
 knowing, with remembering, having removed coveting and distress regarding the
-world. For, bhikkhus, I say that the in-breaths and out-breaths belong among
-bodies. Therefore one remains observing the body in relation to
+world. For, bhikkhus, I say that the in-breaths and out-breaths are one kind of
+body. Therefore one remains observing the body in relation to
 the body, ardent, with clear knowing, with remembering, having removed
 coveting and distress regarding the world.
 
@@ -181,8 +196,8 @@ coveting and distress regarding the world.
 process, or in calming the mind process, then one remains
 observing feelings in relation to feelings, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world. For,
-bhikkhus, I say that careful attention to the in-breaths and out-breaths
-belongs among feelings. Therefore one remains observing feelings
+bhikkhus, I say that careful attention to the in-breaths and out-breaths is one
+kind of feeling. Therefore one remains observing feelings
 in relation to feelings, ardent, with clear knowing, with remembering, having
 removed coveting and distress regarding the world.
 
@@ -199,8 +214,8 @@ distress regarding the world.
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
 or relinquishment, then one remains observing dhammas among
 dhammas, ardent, with clear knowing, with remembering, having removed coveting
-and distress regarding the world. Seeing with discernment how coveting and
-distress are abandoned, one looks on carefully with dynamic balance. Therefore
+and distress regarding the world. Having seen with discernment the abandoning
+of coveting and distress, one looks on carefully with dynamic balance. Therefore
 one remains observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
 
@@ -214,17 +229,17 @@ so as to fulfill the seven awakening factors?
 
 "Whenever a bhikkhu remains observing the body in relation to the body, ardent,
 with clear knowing, with remembering, having removed coveting and distress
-regarding the world, then that bhikkhu's remembering is
-established and does not lapse. When remembering is established and does not
-lapse, the remembering awakening factor is aroused. One develops it, and it
-comes to fulfillment through development.
+regarding the world, then that bhikkhu's remembering is present and does not
+slip. When remembering is present and does not slip, the remembering awakening
+factor is aroused. One develops it, and it comes to fulfillment through
+development.
 
-"Living in that way, with remembering established, one discerns, investigates,
-and closely examines that dhamma. Then the awakening factor of
+"Living in that way, with remembering present, one discerns, investigates, and
+thoroughly examines that dhamma. Then the awakening factor of
 discernment of qualities is aroused. One develops it, and it comes to
 fulfillment through development.
 
-"As one discerns, investigates, and closely examines that dhamma with
+"As one thus discerns, investigates, and thoroughly examines that dhamma with
 discernment, energy is aroused and does not slacken. Then the energy
 awakening factor is aroused. One develops it, and it comes to fulfillment
 through development.
@@ -233,7 +248,7 @@ through development.
 awakening factor is aroused. One develops it, and it comes to fulfillment
 through development.
 
-"For one filled with delight, both body and feeling mind relax.
+"When delight fills one, both body and feeling mind relax.
 Then the relaxation awakening factor is aroused. One develops it, and it comes
 to fulfillment through development.
 
@@ -241,9 +256,9 @@ to fulfillment through development.
 becomes unified. Then the awakening factor of unification of mind is aroused.
 One develops it, and it comes to fulfillment through development.
 
-"One then carefully looks on that well-unified feeling mind with dynamic
-balance. Then the dynamic balance awakening factor is aroused. One develops
-it, and it comes to fulfillment through development.
+"One then looks on carefully with dynamic balance at that well-unified feeling
+mind. Then the dynamic balance awakening factor is aroused. One develops it,
+and it comes to fulfillment through development.
 
 "The same is true when a bhikkhu remains observing feelings in relation to
 feelings, the feeling mind in relation to the feeling mind, or dhammas among

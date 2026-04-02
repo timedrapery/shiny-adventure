@@ -2,8 +2,8 @@
 
 This document is the companion rationale for
 [MN 118: Ānāpānasati Sutta](mn118-anapanasati-sutta.md). The main translation
-is the shareable reading surface; this file records the translator-facing
-decisions that govern it.
+is the primary study surface for practitioners; this file records debated
+translation choices, source-audit calls, and edition notes that govern it.
 
 ## Source Base
 
@@ -24,6 +24,7 @@ decisions that govern it.
   and not bare awareness.
 - The sixteen lines are presented as trainings grouped in four tetrads, not as
   a numbered ladder of steps.
+- The tetrad headings stay in the main translation as study aids for practice.
 - `citta` remains `feeling mind` in the training formulas.
 - `samādhi` remains `unification of mind`; this blocks drift toward
   concentration-language.
@@ -34,9 +35,9 @@ decisions that govern it.
 
 - `uḷāraṁ pubbenāparaṁ visesaṁ jānanti` is rendered `came to know a higher
   distinction than before` to keep both `jānanti` and `visesa`.
-- `āraddhosmi ... āraddhacittosmi` is rendered `I am resolved in this practice
-  ... My heart is resolved in this practice`. `Satisfied` was judged too flat
-  for a line immediately followed by `vīriyaṁ ārabhatha`.
+- `āraddhosmi ... āraddhacittosmi` is rendered `I am resolved in this way of
+  practice ... My heart is resolved in this way of practice`. `Satisfied` was
+  judged too flat for a line immediately followed by `vīriyaṁ ārabhatha`.
 - `so satova assasati satova passasati` is rendered `One breathes in
   remembering the Dhamma; one breathes out remembering the Dhamma` so the
   breathing formula stays explicit on both sides.
@@ -49,18 +50,48 @@ decisions that govern it.
 
 ## Editorial Presentation
 
-- The main translation file may use brief layout cues such as tetrad headings
-  when they help the reader follow the training structure.
+- The main translation file keeps brief layout cues such as tetrad headings
+  because this edition is meant to function as a study text for practice.
 - Those cues are editorial aids, not claims that the headings themselves are in
   the root text.
-- Heavier rationale should stay in this companion file so the main translation
-  remains readable and shareable.
+- This companion file should preserve rationale for contested renderings,
+  source-audit judgments, and future edition decisions rather than repeat basic
+  structure already visible in the main text.
+
+## Practice Clarifications
+
+- This edition rejects readings of ānāpānasati that reduce the training to mere
+  nostril-gazing, belly-watching, or passive breath-fixation.
+- The breath is treated here as the recurring occasion for remembering the
+  Dhamma and carrying out the training, not as an end in itself.
+- In the body tetrad, long and short breathing are not just observed for their
+  own sake; breathing is known so the whole body can be experienced and the
+  body process calmed.
+- This edition also treats breathing as a practical bodily conditioner: by
+  knowing and adjusting the breath, bodily tension is softened and the body is
+  calmed rather than merely watched.
+- In the feeling tetrad, the trainee remembers with each breath to bring forth
+  delight and ease, and to experience and calm the mind process of feeling and
+  recognition, including liking, disliking, or neither.
+- In the feeling-mind tetrad, the trainee remembers with each breath to
+  experience, gladden, unify, and free the feeling mind.
+- In practical explanation, the thinking mind (`mano`) reaches in to gladden
+  the feeling mind (`citta`) by bringing forth `kusala dhammas`, wholesome
+  qualities or thoughts worth having, while abandoning `akusala dhammas`,
+  unwholesome qualities or thoughts not worth keeping in mind.
+- This means gladdening `citta` is not passive breath-staring; it is an active
+  Buddha-Dhamma training in which wholesome content is intentionally brought to
+  bear and unwholesome content is let go.
+- In that practical sense, the breath and the thinking mind are both active in
+  changing conditioning: bodily calming helps the feeling mind settle, and
+  wholesome thoughts can be brought to bear so the feeling mind brightens
+  rather than remaining trapped in unwholesome qualities.
 
 ## Next Refinement Areas
 
 - Recheck the awakening-factor movement for cadence while preserving the
   repeated doctrinal structure.
-- Decide whether the opening declaration should remain `resolved` or be
-  tightened further in the direction of `firm` or `aroused`.
+- Recheck the fruit-and-benefit and satipaṭṭhāna sections for study clarity
+  without weakening the repeated formulas.
 - Keep any future terminology changes synchronized between the main translation
   and this note file.
