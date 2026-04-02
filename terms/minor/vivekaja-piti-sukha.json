@@ -4,7 +4,26 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "delight and ease born of seclusion",
-  "definition": "A jhana formula expression used in meditation description.",
+  "definition": "A jhana formula expression for the delight and ease born of seclusion in the first mental theme.",
+  "notes": "Use this record for the classic first-jhana formula phrase. Keep it coordinated with the abandoning of distractions, with vitakka and vicara still present, and with the repository's practical reading of the first mental theme as path-core rather than trance rhetoric.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "vivekajaṁ pītisukhaṁ",
+      "translation": "delight and ease born of seclusion",
+      "notes": "First-jhana formula phrase in the standard sequence.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in first-jhana formula contexts for the delight-and-ease pair born of seclusion.",
+    "when_not_to_apply": "Do not collapse pīti and sukha into one feeling-word or detach the phrase from the hindrance-clearing frame of the first mental theme. Retain the Pali only where the formula itself is under technical discussion.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from losing its first-jhana, hindrance-clearing force or from drifting into generic meditation language."
+  },
   "status": "reviewed",
   "literal_meaning": "delight and ease born of seclusion",
   "tags": [

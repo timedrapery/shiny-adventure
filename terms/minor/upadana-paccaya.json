@@ -5,11 +5,29 @@
   "part_of_speech": "compound",
   "preferred_translation": "taking personally as condition",
   "definition": "A standard dependent-origination link expressed as a conditional relation.",
+  "notes": "Use this record when the dependent-arising link is named compactly as upadana-paccaya rather than quoted as the full upadanapaccaya-bhavo line. Keep the relation aligned with the repository's stable condition-language and prefer the dedicated full-line formula record when the canonical line itself is present.",
   "related_terms": [
     "upadana"
   ],
   "status": "reviewed",
   "literal_meaning": "taking personally as condition",
+  "example_phrases": [
+    {
+      "pali": "upādānapaccayā bhavo",
+      "translation": "with taking personally as condition, becoming",
+      "notes": "Forward-chain usage.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named upadana-paccaya link inside the dependent-arising family; prefer the dedicated upadanapaccaya-bhavo formula record when the whole line is present.",
+    "when_not_to_apply": "Do not paraphrase the relation into loose cause-language or treat this short compound record as the preferred target when the governed full-line formula record already fits the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the link from drifting away from stable condition-language in the dependent-arising family."
+  },
   "tags": [
     "dependent-origination",
     "causality"

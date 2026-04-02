@@ -21,6 +21,12 @@ python scripts/check_translation_drift.py --strict
 
 Use this path for preferred translation changes, context rule edits, tag changes, and family-level policy work.
 
+For the jhana family specifically, add the dedicated audit:
+
+```bash
+python scripts/jhana_cluster_report.py --strict
+```
+
 ## Run The Full Verification Suite
 
 ```bash
@@ -28,6 +34,8 @@ python scripts/run_checks.py
 ```
 
 This runs tests, schema validation, editorial lint in strict mode, drift checks, coverage audit, and repository health reporting in sequence.
+
+It also runs the dedicated cluster audits, including the jhana core-cluster check.
 
 ## Check Documentation And Repository Surface
 

@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 231
+- Entries: 232
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -117,7 +117,7 @@ Generated navigation index for the flat `terms/major/` directory.
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
-| [idappaccayata](../../terms/major/idappaccayata.json) | idappaccayatā | conditionality | reviewed | core-doctrine, dependent-origination |
+| [idappaccayata](../../terms/major/idappaccayata.json) | idappaccayatā | conditionality | reviewed | core-doctrine, dependent-origination, translation-sensitive |
 | [iddhipada](../../terms/major/iddhipada.json) | iddhipāda | basis of power | reviewed | core-practice, meditative-development |
 | [indriya](../../terms/major/indriya.json) | indriya | faculty | reviewed | core-practice, mental-qualities |
 | [issa](../../terms/major/issa.json) | issā | envy | reviewed | mental-qualities, ethics |
@@ -129,7 +129,8 @@ Generated navigation index for the flat `terms/major/` directory.
 | [janati](../../terms/major/janati.json) | jānāti | knows | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |
 | [jaramarana](../../terms/major/jaramarana.json) | jarāmaraṇa | ageing and dying | stable | core-doctrine, dependent-origination, four-noble-truths |
 | [jati](../../terms/major/jati.json) | jāti | birth | stable | core-doctrine, dependent-origination, four-noble-truths |
-| [jhana](../../terms/major/jhana.json) | jhāna | theme | reviewed | core-practice, meditative-development, jhana-factors |
+| [jhana](../../terms/major/jhana.json) | jhāna | mental theme | reviewed | core-practice, core-doctrine, meditative-development, jhana-factors |
+| [jhayati](../../terms/major/jhayati.json) | jhāyati | think like this | reviewed | core-practice, meditative-development, translation-sensitive |
 | [jivha-vinnana](../../terms/major/jivha-vinnana.json) | jivhāviññāṇa | tongue-knowing | reviewed | sense-fields, core-doctrine |
 | [jivha](../../terms/major/jivha.json) | jivhā | tongue | reviewed | sense-fields, core-doctrine |
 
@@ -311,7 +312,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [upakkilesa](../../terms/major/upakkilesa.json) | upakkilesa | corruption | reviewed | mental-qualities, core-doctrine |
 | [upanisa](../../terms/major/upanisa.json) | upanisā | supporting condition | reviewed | core-doctrine, causality |
 | [upayasa](../../terms/major/upayasa.json) | upāyāsa | despair | reviewed | core-doctrine, four-noble-truths |
-| [upekkha](../../terms/major/upekkha.json) | upekkhā | equanimity | stable | core-practice, mental-qualities, meditative-development |
+| [upekkha](../../terms/major/upekkha.json) | upekkhā | dynamic balance | stable | core-practice, mental-qualities, meditative-development |
 
 ## V
 

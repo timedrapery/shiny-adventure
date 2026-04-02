@@ -15,8 +15,8 @@
     "right concentration"
   ],
   "untranslated_preferred": false,
-  "definition": "The path factor of samādhi rightly aligned with the path, classically expressed through the jhānas.",
-  "notes": "OSF house style now prefers right unification of mind based on the Dhammarato quotes draft, which consistently rejects right concentration and frames the factor as the proper unification of mind. Right noble unification of mind is retained for quote-book and heading-style usage.",
+  "definition": "The noble path factor of samādhi, namely the first, second, third, and fourth jhāna.",
+  "notes": "OSF house style now prefers right unification of mind based on the Dhammarato quotes draft, which consistently rejects right concentration and frames the factor as the proper unification of mind. What Is And Is Not The Path reinforces the same anti-concentration and practical path handling. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas. Right noble unification of mind is retained for quote-book and heading-style usage.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
@@ -34,6 +34,11 @@
       "notes": "Source-backed heading style."
     },
     {
+      "context": "When the factor is being defined in doctrinal prose by its fourfold path expression",
+      "rendering": "right unification of mind",
+      "notes": "Keep explicit that the factor is the first, second, third, and fourth jhāna."
+    },
+    {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious equilibrium",
       "notes": "Retained as a named source-specific alternate."
@@ -42,6 +47,7 @@
   "related_terms": [
     "ekaggatā",
     "jhāna",
+    "jhāyati",
     "magga",
     "patipada",
     "paṭipadā",
@@ -57,8 +63,8 @@
     },
     {
       "pali": "catunnaṃ jhānānaṃ",
-      "translation": "of the four jhānas",
-      "notes": "Shows the factor's close tie to jhāna.",
+      "translation": "of the four mental themes",
+      "notes": "MN 117 defines ariya sammā samādhi through the fourfold jhāna sequence.",
       "source": "MN 117"
     }
   ],
@@ -73,16 +79,27 @@
   "status": "reviewed",
   "authority_basis": [
     {
-      "source": "Dhammarato",
-      "priority": "dhammarato",
+      "source": "Dhammarato quotes draft",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports right unification of mind and rejects right concentration as the governing frame."
+    },
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current sammā-samādhi policy."
+      "scope": "Supports practical path handling rather than vague broader meditation-category language."
+    },
+    {
+      "source": "MN 117",
+      "kind": "context-rule",
+      "scope": "Defines ariya sammā samādhi through the first, second, third, and fourth jhāna."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'right unification of mind' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'right unification of mind' as the default rendering for the path factor while keeping explicit that ariya sammā samādhi is the first, second, third, and fourth jhāna.",
+    "when_not_to_apply": "Do not widen the factor into a vague broader meditation category or revert to right concentration. Use controlled alternates only where a recorded context rule or source-specific house idiom justifies them.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'right concentration' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward right concentration and prevents separation of the path factor from the fourfold jhāna sequence."
   }
 }

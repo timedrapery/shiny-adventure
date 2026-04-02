@@ -23,6 +23,7 @@ SOURCE_RULES = (
     ("OSF glossary", "osf glossary", "osf-house"),
     ("Dhammarato", "dhammarato", "dhammarato"),
     ("Buddhadasa", "buddhadasa", "buddhadasa"),
+    ("Idappaccayatā practical talk profile", "idappaccayatā practical talk profile", "buddhadasa-support"),
     ("Punnaji", "punnaji", "external"),
     ("Hillside / Ñāṇamoli", "hillside", "external"),
     ("Hillside / Ñāṇamoli", "nyanamoli", "external"),

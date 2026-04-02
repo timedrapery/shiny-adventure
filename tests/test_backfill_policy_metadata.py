@@ -37,6 +37,17 @@ class BackfillPolicyMetadataTests(unittest.TestCase):
 
         self.assertEqual(basis[0]["source"], "Hillside / Ñāṇamoli")
 
+    def test_infer_authority_basis_detects_idappaccayata_support_profile(self) -> None:
+        basis = backfill_policy_metadata.infer_authority_basis(
+            {
+                "term": "idappaccayata",
+                "notes": "The Idappaccayatā practical talk profile reinforces the practical handling here.",
+            }
+        )
+
+        self.assertEqual(basis[0]["source"], "Idappaccayatā practical talk profile")
+        self.assertEqual(basis[0]["priority"], "buddhadasa-support")
+
     def test_infer_authority_basis_falls_back_to_repository_record(self) -> None:
         basis = backfill_policy_metadata.infer_authority_basis(
             {"term": "akusala", "notes": "The project prefers unwholesome."}

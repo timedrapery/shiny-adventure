@@ -4,7 +4,7 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "second jhāna",
-  "preferred_translation": "second theme",
+  "preferred_translation": "second mental theme",
   "alternative_translations": [
     "second jhāna"
   ],
@@ -12,12 +12,30 @@
     "second absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "The second jhāna in the standard fourfold sequence.",
-  "sutta_references": [
-    "DN 2"
+  "definition": "The second jhāna in the standard fourfold sequence of ariya sammā samādhi.",
+  "notes": "Use this record for the second member of ariya sammā samādhi. The repository keeps mental theme here as well so the sequence stays coordinated and does not slide into state-language. This member should stay linked to the dropping of thinking and pondering, inner clarity, and unification of mind.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "dutiyaṁ jhānaṁ",
+      "translation": "second mental theme",
+      "notes": "Second member of the standard fourfold sequence.",
+      "source": "DN 2"
+    }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 117"
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the second member of the fourfold path expression of ariya sammā samādhi.",
+    "when_not_to_apply": "Do not recast as second absorption or second trance. Use second jhāna only where a controlled technical reason calls for the Pali.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the second member from drifting away from practical path handling and its linked formula expressions."
+  },
   "tags": [
-    "meditative-development"
+    "meditative-development",
+    "jhana-factors"
   ],
   "status": "reviewed"
 }

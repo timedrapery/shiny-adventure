@@ -3,10 +3,29 @@
   "normalized_term": "upekkha-sukha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "equanimity and ease",
-  "definition": "A jhana formula expression used in meditation description.",
+  "preferred_translation": "dynamic balance and ease",
+  "definition": "A jhana formula expression for the dynamic-balance-and-ease pairing in the third mental theme.",
+  "notes": "Use this record where the third mental theme is described through dynamic balance and ease after the fading of delight. Keep the phrase connected to the third member of ariya samma samadhi and do not blur it with the fourth-theme purification formula.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "upekkhako ca viharati... sukhañca kāyena paṭisaṁvedeti",
+      "translation": "he remains in dynamic balance ... and experiences ease with the body",
+      "notes": "Third-jhana formula line that grounds the dynamic-balance-and-ease pairing.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in third-jhana formula contexts for the dynamic-balance-and-ease pairing.",
+    "when_not_to_apply": "Do not flatten dynamic balance and ease into one undifferentiated mood or let the phrase drift into fourth-jhana language. Retain the Pali only where the formula itself is under analysis.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from blurring the distinct shape of the third mental theme within the fourfold path sequence."
+  },
   "status": "reviewed",
-  "literal_meaning": "equanimity and ease",
+  "literal_meaning": "dynamic balance and ease",
   "tags": [
     "jhana-factors",
     "meditative-development"

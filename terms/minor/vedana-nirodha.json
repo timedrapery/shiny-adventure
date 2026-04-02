@@ -5,8 +5,27 @@
   "part_of_speech": "compound",
   "preferred_translation": "quenching of felt experience",
   "definition": "A dependent-origination link named on the side of cessation and quenching.",
+  "notes": "Use this record when the reverse dependent-arising link is named compactly as vedana-nirodha rather than quoted as the fuller reverse-line sentence. Keep the family aligned with the repository's quenching default for nirodha and prefer fuller reverse-sequence wording when the canonical sentence itself is present.",
+  "related_terms": [],
   "status": "reviewed",
   "literal_meaning": "quenching of felt experience",
+  "example_phrases": [
+    {
+      "pali": "vedanānirodhā taṇhānirodho",
+      "translation": "with the quenching of felt experience, the quenching of ignorant wanting",
+      "notes": "Reverse-chain usage.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named vedana-nirodha link inside the reverse dependent-arising family; prefer fuller reverse-line wording when the canonical sentence is present.",
+    "when_not_to_apply": "Do not flatten nirodha into generic cessation language or treat this short compound record as the preferred target when a fuller reverse-line rendering already fits the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the reverse link from drifting away from the repository's quenching default."
+  },
   "tags": [
     "dependent-origination",
     "liberation"

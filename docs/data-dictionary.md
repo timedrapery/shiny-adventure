@@ -504,6 +504,11 @@ Notes:
 
 - Use this when a source, authority layer, or named internal profile directly
   supports the preferred rendering, context rules, or rationale.
+- Allowed `priority` values are `osf-house`, `dhammarato`, `buddhadasa`,
+  `buddhadasa-support`, `secondary`, and `external`.
+- Use `buddhadasa-support` for named Buddhadasa-line practical support
+  profiles that reinforce a term's policy without outranking the main
+  `buddhadasa` layer itself.
 - This field improves machine-readability for future review, reporting, and
   conflict detection.
 - Mature doctrinal anchors should prefer explicit provenance rather than

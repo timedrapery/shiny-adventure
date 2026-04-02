@@ -64,6 +64,37 @@ is especially authoritative for:
 - `nibbana` as coolness and immediate relevance
 - ordinary versus supramundane teaching distinctions
 
+### Buddhadasa Support Profiles
+
+Some named repository source profiles are explicitly Buddhadasa-line support
+layers rather than top-level authorities in their own right.
+
+When these are encoded in structured `authority_basis` metadata, use
+`priority: buddhadasa-support`.
+
+This layer is for profiles that:
+
+- reinforce or sharpen established Buddhadasa-line direction
+- add practical anti-drift clarification around nearby doctrinal families
+- do not outrank `buddhadasa` itself and do not override OSF house or
+  Dhammarato guidance
+
+The `Idappaccayatā practical talk profile` is the current main example of this
+layer.
+
+## Structured Priority Values
+
+Use these `authority_basis.priority` values in structured term metadata:
+
+- `osf-house`: explicit repository decisions and named OSF house materials
+- `dhammarato`: Dhammarato as primary living OSF lineage authority
+- `buddhadasa`: Buddhadasa Bhikkhu as primary doctrinal lineage authority
+- `buddhadasa-support`: named Buddhadasa-line support profiles that reinforce
+  but do not outrank the main `buddhadasa` layer
+- `secondary`: lower-priority supporting sources that are useful but not
+  primary for the current policy decision
+- `external`: outside-source materials and profiles
+
 ## Outside Sources
 
 Outside-source profiles can inform alternates, notes, and source-specific

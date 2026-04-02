@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The six fields of experience through which contact and knowing occur.",
-  "notes": "The project uses six fields of experience as the house default. The literal force is six stretchings out, from cha plus āyatana, while the preferred translation keeps the sixfold doctrinal structure readable without reducing the term to physical sense organs alone. The term should be heard as the sixfold experiential field through which contact becomes possible. The OSF glossary's field/base language supports retaining this sixfold experiential framing in dependent-arising passages.",
+  "notes": "The project uses six fields of experience as the house default. The literal force is six stretchings out, from cha plus ayatana, while the preferred translation keeps the sixfold doctrinal structure readable without reducing the term to physical sense organs alone. The term should be heard as the sixfold experiential field through which contact becomes possible. The OSF glossary's field/base language supports retaining this sixfold experiential framing in dependent-arising passages. The Idappaccayatā practical talk profile reinforces the same lived-process handling by keeping the six fields tied to contact, felt experience, and dukkha rather than to abstract faculty-metaphysics.",
   "context_rules": [
     {
       "context": "In most doctrinal and dependent-origination contexts",
@@ -97,7 +97,13 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports the sixfold field framing while avoiding reduction of saḷāyatana to physical organs only."
+      "scope": "Supports the sixfold field framing while avoiding reduction of salayatana to physical organs only."
+    },
+    {
+      "source": "Idappaccayatā practical talk profile",
+      "priority": "buddhadasa-support",
+      "kind": "rationale",
+      "scope": "Supports keeping the six fields tied to lived contact, felt experience, and dukkha rather than faculty-metaphysics."
     }
   ],
   "translation_policy": {

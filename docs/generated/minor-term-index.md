@@ -206,7 +206,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [catu-dhatu](../../terms/minor/catu-dhatu.json) | catu-dhatu | four elements | reviewed | embodiment, core-doctrine |
 | [catudhatu-vavatthana](../../terms/minor/catudhatu-vavatthana.json) | catudhatu-vavatthana | analysis of the four elements | reviewed | embodiment, core-doctrine |
 | [catuparisa](../../terms/minor/catuparisa.json) | catuparisa | fourfold assembly | reviewed | persons |
-| [catuttha-jhana](../../terms/minor/catuttha-jhana.json) | catuttha-jhāna | fourth theme | reviewed | meditative-development |
+| [catuttha-jhana](../../terms/minor/catuttha-jhana.json) | catuttha-jhāna | fourth mental theme | reviewed | meditative-development, jhana-factors |
 | [cetana-dhatu](../../terms/minor/cetana-dhatu.json) | cetanā-dhātu | intention element | reviewed | core-doctrine |
 | [cetanasampanna](../../terms/minor/cetanasampanna.json) | cetanasampanna | endowed with intention | reviewed | core-practice |
 | [cetaso-ekodibhava](../../terms/minor/cetaso-ekodibhava.json) | cetaso-ekodibhava | unification of mind | reviewed | jhana-factors, meditative-development |
@@ -253,11 +253,11 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [dhamma-tanha](../../terms/minor/dhamma-tanha.json) | dhamma-tanha | craving for mind-objects | reviewed | core-doctrine, mental-qualities |
 | [dhammacakkhu](../../terms/minor/dhammacakkhu.json) | dhammacakkhu | dhamma eye | reviewed | liberation, core-doctrine, translation-sensitive |
 | [dhammaniyama](../../terms/minor/dhammaniyama.json) | dhammaniyāma | lawful patterning | draft | core-doctrine |
-| [dhammaniyamata](../../terms/minor/dhammaniyamata.json) | dhammaniyamata | regularity of dhamma | reviewed | core-doctrine |
+| [dhammaniyamata](../../terms/minor/dhammaniyamata.json) | dhammaniyāmatā | regularity of dhamma | reviewed | core-doctrine |
 | [dhammanupassana](../../terms/minor/dhammanupassana.json) | dhammānupassanā | contemplation of dhammas | reviewed | core-practice, translation-sensitive |
 | [dhammanussati](../../terms/minor/dhammanussati.json) | dhammānussati | recollection of the dhamma | reviewed | core-practice, translation-sensitive |
-| [dhammata](../../terms/minor/dhammata.json) | dhammata | lawfulness | reviewed | core-doctrine |
-| [dhammatthiti](../../terms/minor/dhammatthiti.json) | dhammatthiti | stability of the pattern | draft | core-doctrine |
+| [dhammata](../../terms/minor/dhammata.json) | dhammatā | lawfulness | reviewed | core-doctrine |
+| [dhammatthiti](../../terms/minor/dhammatthiti.json) | dhammatthiti | stability of the pattern | reviewed | core-doctrine |
 | [dhammavicaya-sambojjhanga](../../terms/minor/dhammavicaya-sambojjhanga.json) | dhammavicayasambojjhaṅga | discernment-of-qualities awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [dhammavinaya](../../terms/minor/dhammavinaya.json) | dhammavinaya | teaching and discipline | reviewed | core-doctrine, translation-sensitive |
 | [dhammayatana](../../terms/minor/dhammayatana.json) | dhammāyatana | dhamma sense field | reviewed | sense-fields, translation-sensitive |
@@ -279,7 +279,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [dukkha-vedana](../../terms/minor/dukkha-vedana.json) | dukkhavedanā | painful feeling | reviewed | aggregates |
 | [dukkhanupassana](../../terms/minor/dukkhanupassana.json) | dukkhānupassanā | contemplation of dissatisfaction | reviewed | core-practice, meditative-development, three-marks |
 | [duta](../../terms/minor/duta.json) | dūta | messenger | reviewed | persons |
-| [dutiya-jhana](../../terms/minor/dutiya-jhana.json) | dutiya-jhāna | second theme | reviewed | meditative-development |
+| [dutiya-jhana](../../terms/minor/dutiya-jhana.json) | dutiya-jhāna | second mental theme | reviewed | meditative-development, jhana-factors |
 | [dvara](../../terms/minor/dvara.json) | dvāra | door | reviewed | core-doctrine |
 
 ## E
@@ -346,8 +346,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [jagariya](../../terms/minor/jagariya.json) | jagariya | wakefulness | reviewed | core-practice |
 | [jana](../../terms/minor/jana.json) | jana | people | reviewed | persons |
 | [janapada](../../terms/minor/janapada.json) | janapada | district | reviewed | core-doctrine |
-| [jati-nirodha](../../terms/minor/jati-nirodha.json) | jati-nirodha | quenching of rebirth | reviewed | dependent-origination, liberation |
-| [jati-paccaya](../../terms/minor/jati-paccaya.json) | jati-paccaya | rebirth as condition | reviewed | dependent-origination, causality |
+| [jati-nirodha](../../terms/minor/jati-nirodha.json) | jati-nirodha | quenching of birth | reviewed | dependent-origination, liberation |
+| [jati-paccaya](../../terms/minor/jati-paccaya.json) | jati-paccaya | birth as condition | reviewed | dependent-origination, causality |
 | [jatipaccaya-jaramaranam](../../terms/minor/jatipaccaya-jaramaranam.json) | jātipaccayā jarāmaraṇaṃ | with birth as condition, ageing and dying | reviewed | dependent-origination, causality, translation-sensitive |
 | [jhana-paccaya](../../terms/minor/jhana-paccaya.json) | jhana-paccaya | jhana condition | reviewed | causality |
 | [jhaya](../../terms/minor/jhaya.json) | jhaya | meditator | reviewed | core-practice |
@@ -597,7 +597,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pasenadi](../../terms/minor/pasenadi.json) | Pasenadi | Pasenadi | reviewed | persons |
 | [passaddhi-sambojjhanga](../../terms/minor/passaddhi-sambojjhanga.json) | passaddhisambojjhaṅga | tranquility awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [patacara](../../terms/minor/patacara.json) | Paṭācārā | Paṭācārā | reviewed | persons |
-| [pathama-jhana](../../terms/minor/pathama-jhana.json) | paṭhama-jhāna | first theme | reviewed | meditative-development |
+| [pathama-jhana](../../terms/minor/pathama-jhana.json) | paṭhama-jhāna | first mental theme | reviewed | meditative-development, jhana-factors |
 | [pathavi-dhatu](../../terms/minor/pathavi-dhatu.json) | pathavi-dhatu | earth element | reviewed | embodiment, core-doctrine |
 | [pathavi-kasina](../../terms/minor/pathavi-kasina.json) | pathavī-kasiṇa | earth kasina | reviewed | meditative-development |
 | [pathavi](../../terms/minor/pathavi.json) | pathavi | earth | reviewed | embodiment, core-doctrine |
@@ -721,7 +721,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sankhara-paccaya](../../terms/minor/sankhara-paccaya.json) | sankhara-paccaya | putting together as condition | reviewed | dependent-origination, causality |
 | [sankharakkhandha](../../terms/minor/sankharakkhandha.json) | saṅkhārakkhandha | heap of putting-together activities | stable | aggregates, translation-sensitive, context-sensitive |
 | [sankharapaccaya-vinnana](../../terms/minor/sankharapaccaya-vinnana.json) | saṅkhārapaccayā viññāṇaṃ | with putting together as condition, knowing | reviewed | dependent-origination, causality, translation-sensitive |
-| [sankharupekkha-nana](../../terms/minor/sankharupekkha-nana.json) | sankharupekkha-nana | knowledge of equanimity toward formations | reviewed | meditative-development, liberation |
+| [sankharupekkha-nana](../../terms/minor/sankharupekkha-nana.json) | sankharupekkha-nana | knowledge of dynamic balance toward formations | reviewed | meditative-development, liberation |
 | [sanna-dhatu](../../terms/minor/sanna-dhatu.json) | saññā-dhātu | recognition element | reviewed | core-doctrine |
 | [sannakkhandha](../../terms/minor/sannakkhandha.json) | saññākkhandha | recognition heap | stable | aggregates, translation-sensitive |
 | [santosa](../../terms/minor/santosa.json) | santosa | contentment | reviewed | mental-qualities |
@@ -782,7 +782,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [tanha-paccaya](../../terms/minor/tanha-paccaya.json) | tanha-paccaya | ignorant wanting as condition | reviewed | dependent-origination, causality |
 | [tanhapaccaya-upadana](../../terms/minor/tanhapaccaya-upadana.json) | taṇhāpaccayā upādānaṃ | with ignorant wanting as condition, taking personally | stable | dependent-origination, causality, translation-sensitive |
 | [tathata](../../terms/minor/tathata.json) | tathatā | suchness | reviewed | core-doctrine, translation-sensitive |
-| [tatiya-jhana](../../terms/minor/tatiya-jhana.json) | tatiya-jhāna | third theme | reviewed | meditative-development |
+| [tatiya-jhana](../../terms/minor/tatiya-jhana.json) | tatiya-jhāna | third mental theme | reviewed | meditative-development, jhana-factors |
 | [tejo-dhatu](../../terms/minor/tejo-dhatu.json) | tejo-dhatu | fire element | reviewed | embodiment, core-doctrine |
 | [tejo-kasina](../../terms/minor/tejo-kasina.json) | tejo-kasiṇa | fire kasina | reviewed | meditative-development |
 | [tejo](../../terms/minor/tejo.json) | tejo | fire | reviewed | embodiment, core-doctrine |
@@ -829,12 +829,12 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [upasika](../../terms/minor/upasika.json) | upāsikā | laywoman follower | reviewed | persons |
 | [upatthaka](../../terms/minor/upatthaka.json) | upaṭṭhāka | attendant | reviewed | persons |
 | [upaya](../../terms/minor/upaya.json) | upāya | upāya | reviewed | core-practice, translation-sensitive |
-| [upekkha-cetovimutti](../../terms/minor/upekkha-cetovimutti.json) | upekkhācetovimutti | liberation of mind through equanimity | reviewed | liberation, meditative-development |
-| [upekkha-sambojjhanga](../../terms/minor/upekkha-sambojjhanga.json) | upekkhāsambojjhaṅga | equanimity awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
-| [upekkha-sati-parisuddhi](../../terms/minor/upekkha-sati-parisuddhi.json) | upekkhā-sati-pārisuddhi | purity of equanimity and remembering | reviewed | core-practice, meditative-development |
-| [upekkha-satiparisuddha](../../terms/minor/upekkha-satiparisuddha.json) | upekkha-satiparisuddha | purified by equanimity and remembering | reviewed | jhana-factors, meditative-development |
-| [upekkha-satiparisuddhi](../../terms/minor/upekkha-satiparisuddhi.json) | upekkha-satiparisuddhi | purity of remembering through equanimity | reviewed | jhana-factors, meditative-development |
-| [upekkha-sukha](../../terms/minor/upekkha-sukha.json) | upekkha-sukha | equanimity and ease | reviewed | jhana-factors, meditative-development |
+| [upekkha-cetovimutti](../../terms/minor/upekkha-cetovimutti.json) | upekkhācetovimutti | liberation of mind through dynamic balance | reviewed | liberation, meditative-development |
+| [upekkha-sambojjhanga](../../terms/minor/upekkha-sambojjhanga.json) | upekkhāsambojjhaṅga | dynamic balance awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [upekkha-sati-parisuddhi](../../terms/minor/upekkha-sati-parisuddhi.json) | upekkhā-sati-pārisuddhi | purity of dynamic balance and remembering | reviewed | core-practice, meditative-development |
+| [upekkha-satiparisuddha](../../terms/minor/upekkha-satiparisuddha.json) | upekkha-satiparisuddha | purified by dynamic balance and remembering | reviewed | jhana-factors, meditative-development |
+| [upekkha-satiparisuddhi](../../terms/minor/upekkha-satiparisuddhi.json) | upekkha-satiparisuddhi | purity of remembering through dynamic balance | reviewed | jhana-factors, meditative-development |
+| [upekkha-sukha](../../terms/minor/upekkha-sukha.json) | upekkha-sukha | dynamic balance and ease | reviewed | jhana-factors, meditative-development |
 | [uposatha](../../terms/minor/uposatha.json) | uposatha | observance day | reviewed | core-practice |
 | [uposathagara](../../terms/minor/uposathagara.json) | uposathāgāra | uposatha hall | reviewed | core-practice |
 | [uppalavanna](../../terms/minor/uppalavanna.json) | Uppalavaṇṇā | Uppalavaṇṇā | reviewed | persons |

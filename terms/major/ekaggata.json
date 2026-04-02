@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The singleness or gathered unification of mind associated with steadiness, samādhi, and jhāna.",
-  "notes": "The project promotes this entry to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters. The OSF glossary confirms singleness as the house default while preserving unification and one-pointedness as technical alternates.",
+  "notes": "The project promotes this entry to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters. In DN 2 and MN 19, this family stays close to jhāna and samādhi as workable gatheredness rather than as a trance theory. The OSF glossary confirms singleness as the house default while preserving unification and one-pointedness as technical alternates.",
   "context_rules": [
     {
       "context": "In most doctrinal and meditative contexts",
@@ -82,6 +82,11 @@
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping singleness as the house default in samadhi-adjacent analysis while preserving unification and one-pointedness as technical alternates."
+    },
+    {
+      "source": "DN 2",
+      "kind": "context-rule",
+      "scope": "Keeps the family close to jhāna and samādhi as practical gatheredness in the standard fourfold sequence."
     }
   ],
   "translation_policy": {
