@@ -71,9 +71,9 @@ REVIEWED_TERMS = {
     },
     "samadhi": {
         "classification": "ALIGN",
-        "expected_default": "unification of mind",
-        "osf_usage": "Dhammarato and OSF materials strongly reject concentration and reinforce unification of mind.",
-        "governance": "Keep the current default and continue refusing concentration drift.",
+        "expected_default": "mental composure",
+        "osf_usage": "Dhammarato and OSF materials strongly reject concentration and support a practical composure or collectedness handling.",
+        "governance": "Keep mental composure as the current default and continue refusing concentration drift.",
     },
     "citta": {
         "classification": "TOLERATE ALTERNATE",

@@ -3,42 +3,44 @@
   "normalized_term": "ekaggata",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "one-pointedness, singleness",
-  "preferred_translation": "singleness",
+  "literal_meaning": "singleness, one-going",
+  "preferred_translation": "directness",
   "alternative_translations": [
     "unification",
-    "one-pointedness",
-    "collected singleness"
+    "singleness",
+    "single aim"
   ],
   "discouraged_translations": [
-    "concentration"
+    "concentration",
+    "one-pointedness"
   ],
   "untranslated_preferred": false,
-  "definition": "The singleness or gathered unification of mind associated with steadiness, samādhi, and jhāna.",
-  "notes": "The project promotes this entry to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project keeps singleness as the default because it matches the literal force and supports the house preference for samādhi as unification of mind rather than concentration. Unification can be used when the relation to samādhi needs to be foregrounded. One-pointedness remains acceptable in technical discussion, but it should not drive the lexicon toward a narrow concentration model when the broader gathered quality of mind is what matters. In DN 2 and MN 19, this family stays close to jhāna and samādhi as workable gatheredness rather than as a trance theory. The OSF glossary confirms singleness as the house default while preserving unification and one-pointedness as technical alternates.",
+  "definition": "The direct, single-going quality of mind that goes straight to the work and the goal without scattering into side tracks, associated with steadiness, samādhi, and jhāna.",
+  "notes": "The project promotes this entry to a major rule-bearing record because ekaggatā is too important to leave as a thin definitional stub. The project now keeps directness as the default because, in practice, ekaggatā is not mere one-pointed staring. In first jhāna and in ānāpānasati as this repository understands it, ekaggatā is the not-beating-around-the-bush quality that goes straight toward dukkha-nirodha: distractions are set aside, wholesome dhammas are brought up, and the line of practice is kept heading in the right direction. Singleness remains acceptable when the noun needs a slightly more literal tone, and unification can still be used when the relation to the formula term cetaso ekodibhāva needs to be foregrounded. One-pointedness should not drive the lexicon, because it pulls the term toward a narrow concentration model and away from the practical directness that matters in the first mental theme. In DN 2 and MN 19, this family stays close to jhāna and samādhi as workable gatheredness rather than as a trance theory. The OSF glossary still supports the broader practical direction, but the repository now encodes that direction more sharply through directness and single aim language.",
   "context_rules": [
     {
       "context": "In most doctrinal and meditative contexts",
-      "rendering": "singleness",
+      "rendering": "directness",
       "notes": "Default project rendering."
     },
     {
-      "context": "When the relation to samādhi as unification of mind needs to be explicit",
+      "context": "When the relation to cetaso ekodibhāva or gathered samādhi needs to be explicit",
       "rendering": "unification",
       "notes": "Allowed alternate in explanatory prose."
     },
     {
-      "context": "In technical comparison with standard Buddhist-English terminology",
-      "rendering": "one-pointedness",
-      "notes": "Use only when the technical continuity is useful and the line will not drift into concentration-language."
+      "context": "When a slightly more literal noun is needed without losing the practical force",
+      "rendering": "singleness",
+      "notes": "Acceptable alternate when directness would read too interpretively for the line."
     },
     {
-      "context": "In jhāna-factor explanation",
-      "rendering": "collected singleness",
-      "notes": "Useful when plain singleness needs a little more practical texture."
+      "context": "In first-jhāna and ānāpānasati explanation where the point is not beating around the bush",
+      "rendering": "single aim",
+      "notes": "Useful when the line needs explicit goal-directed practical texture."
     }
   ],
   "related_terms": [
+    "anapanasati",
     "jhāna",
     "samādhi",
     "samma-samadhi"
@@ -52,13 +54,13 @@
     },
     {
       "pali": "ekaggatā",
-      "translation": "singleness",
+      "translation": "directness",
       "notes": "Headword form for technical explanation.",
       "source": "DN 2"
     },
     {
       "pali": "samāhitaṃ cittaṃ ekaggaṃ",
-      "translation": "a unified mind that is single",
+      "translation": "a mentally composed mind, direct in aim",
       "notes": "Shows the close relation of ekaggatā and samādhi.",
       "source": "MN 19"
     }
@@ -75,13 +77,13 @@
     "context-sensitive"
   ],
   "status": "reviewed",
-  "version_notes": "Promoted from a minor stub to a rule-bearing major entry with explicit guidance for singleness, unification, and one-pointedness.",
+  "version_notes": "Promoted from a minor stub to a rule-bearing major entry and later sharpened to prefer directness over one-pointedness in first-jhāna and ānāpānasati handling.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping singleness as the house default in samadhi-adjacent analysis while preserving unification and one-pointedness as technical alternates."
+      "scope": "Supports keeping the term practical and samadhi-adjacent without collapsing it into concentration-style one-pointedness."
     },
     {
       "source": "DN 2",
@@ -90,9 +92,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'singleness' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'directness' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'concentration' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'one-pointedness', 'concentration', or other unrecorded alternates."
   }
 }

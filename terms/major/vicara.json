@@ -7,15 +7,15 @@
   "preferred_translation": "pondering",
   "alternative_translations": [
     "reflection",
+    "evaluation",
     "sustained attention"
   ],
   "discouraged_translations": [
-    "sustained thought",
-    "evaluation"
+    "sustained thought"
   ],
   "untranslated_preferred": false,
   "definition": "Ongoing mental turning-over or examination of a mental theme after it has been taken up by thinking.",
-  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the mental theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Because first jhāna is the first member of ariya sammā samādhi in this repository, translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary also keeps vicāra aligned with ongoing mental examination rather than abstract evaluation-language, and the Dhammarato quotes profile reinforces practical non-mystified handling of first-jhāna language even where it uses different explanatory verbs.",
+  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, sustained attention can be used as explanation when the continuing engagement with the mental theme needs emphasis, and evaluation is allowed in practical first-jhāna or ānāpānasati explanation when the point is checking whether the chosen dhamma is really heading toward dukkha-nirodha. The term should not be reduced to a later technical label detached from ordinary mental function, nor should evaluation-language become the only way the family is understood. Because first jhāna is the first member of ariya sammā samādhi in this repository, and because that first member is not treated as distinct from ānāpānasati, translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary also keeps vicāra aligned with ongoing mental examination rather than scholastic abstraction, and the Dhammarato quotes profile reinforces practical non-mystified handling of first-jhāna language even where it uses different explanatory verbs.",
   "context_rules": [
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
@@ -26,6 +26,11 @@
       "context": "In explanatory prose emphasizing reflective examination",
       "rendering": "reflection",
       "notes": "Allowed alternate when it reads more cleanly."
+    },
+    {
+      "context": "In first-jhāna and ānāpānasati explanation where the checking function is foregrounded",
+      "rendering": "evaluation",
+      "notes": "Allowed explanatory alternate for checking whether the line of practice is heading in the right direction."
     },
     {
       "context": "When explaining the continuing engagement with a chosen mental theme after vitakka has taken it up",

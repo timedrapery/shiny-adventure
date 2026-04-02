@@ -31,8 +31,9 @@ under that OSF publication layer.
 - `anatta` is paraphrased as no one in charge
 - `anicca` is stressed as constant and ever-changing
 - `dukkha` is framed as dissatisfaction
-- `jhana` is explained as a satisfied unified mind fit for work
-- `samadhi` is explained as unification of mind or composure
+- `jhana` is explained as a satisfied composed mind fit for work
+- `samadhi` is explained with composure and gathered-mind language rather than
+  concentration
 - `nibbana` is explained as cooling down
 - `nirodha` is explained as stopping, ceasing, or ending
 - `sati` is treated in present-moment awareness language

@@ -45,8 +45,8 @@ The draft strongly supports the following OSF house defaults:
 - `tanha` -> `ignorant wanting`
 - `sati` -> `remembering`
 - `samma-sati` -> `right remembering`
-- `samadhi` -> `unification of mind`
-- `samma-samadhi` -> `right unification of mind`
+- `samadhi` -> `mental composure`
+- `samma-samadhi` -> `right mental composure`
 - `metta` -> `friendliness`
 
 ## Strongly Reinforced But Not Automatically Defaulted
@@ -68,5 +68,6 @@ term-by-term editorial caution before replacing the current defaults:
   supramundane teaching
 - preference for plain, practical psychological English over inherited
   scholastic terminology
-- resistance to `concentration` as a rendering of `samadhi`
+- resistance to `concentration` as a rendering of `samadhi`, with practical
+  emphasis on a composed workable mind
 - preference for usable practice language over purely academic terminology

@@ -4,25 +4,26 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "placing together or bringing into composure",
-  "preferred_translation": "unification of mind",
+  "preferred_translation": "mental composure",
   "alternative_translations": [
     "composure",
     "collectedness",
     "mental equilibrium",
     "stillness of mind",
-    "workable unified mind"
+    "workable composed mind"
   ],
   "discouraged_translations": [
     "concentration",
-    "absorption"
+    "absorption",
+    "unification of mind"
   ],
   "untranslated_preferred": false,
-  "definition": "A state in which the mind is unified, well gathered, and fit to work without the strain implied by concentration.",
-  "notes": "OSF house style now prefers unification of mind for samadhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samadhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering. The OSF publication What Is And Is Not The Path strongly reinforces this usage by explicitly glossing samadhi as unification of mind, tying it to attitude, view, effort, and remembering, and rejecting concentration as the governing frame. Generic samādhi can be wider than the noble path factor, but this repository now keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader unification-of-mind family. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
+  "definition": "A composed, collected, workable quality of mind that is fit for practice without the strain implied by concentration.",
+  "notes": "OSF house style now prefers mental composure for samadhi. Composure and collectedness remain useful alternates, but they are no longer secondary to unification-of-mind language. Dhammarato-facing and OSF-facing materials still strongly reject concentration and support a practical, workable handling of samadhi, and What Is And Is Not The Path reinforces that same anti-concentration practical framing, but this repository no longer treats unification of mind as the governing English for the headword itself. Generic samādhi can be wider than the noble path factor, but this repository keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader mental-composure family. Related formula terms such as cetaso ekodibhāva may still use unification-of-mind language where the Pali explicitly says that; that does not govern samādhi itself. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
-      "rendering": "unification of mind",
+      "rendering": "mental composure",
       "notes": "Default OSF house rendering."
     },
     {
@@ -42,12 +43,12 @@
     },
     {
       "context": "In OSF practical explanation emphasizing a mind ready to function well",
-      "rendering": "workable unified mind",
+      "rendering": "workable composed mind",
       "notes": "Use when the point is the mind's fitness for practice rather than technical path-factor naming."
     },
     {
       "context": "When distinguishing the broad headword from ariya sammā samādhi as the path factor",
-      "rendering": "unification of mind",
+      "rendering": "mental composure",
       "notes": "Keep the generic headword broader, while the noble path factor is governed under sammā-samādhi as the four jhānas."
     }
   ],
@@ -88,13 +89,13 @@
   "example_phrases": [
     {
       "pali": "sammāsamādhi",
-      "translation": "right unification of mind",
+      "translation": "right mental composure",
       "notes": "Key doctrinal compound under OSF house style.",
       "source": "MN 44"
     },
     {
       "pali": "samāhito",
-      "translation": "unified in mind",
+      "translation": "mentally composed",
       "notes": "Helpful morphological relation.",
       "source": "MN 44"
     }
@@ -111,7 +112,7 @@
       "source": "Dhammarato quotes draft",
       "priority": "osf-house",
       "kind": "preferred-translation",
-      "scope": "Supports unification of mind as the house rendering for samādhi."
+      "scope": "Supports rejecting concentration and treating samādhi as a workable, practical quality of mind."
     },
     {
       "source": "What Is And Is Not The Path",
@@ -121,11 +122,11 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use unification of mind in most path-factor and practice contexts.",
+    "default_scope": "Use mental composure in most path-factor and practice contexts.",
     "when_not_to_apply": "Do not revert to concentration or absorption unless explicitly discussing outside terminology or source-specific framing.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents path and jhāna language from drifting back toward concentration."
   },
   "status": "stable",
-  "version_notes": "Strengthened to keep unification of mind stable across path-factor and practice contexts and to block drift back to concentration."
+  "version_notes": "Shifted the house default from unification of mind to mental composure while keeping the anti-concentration policy stable across path-factor and practice contexts."
 }

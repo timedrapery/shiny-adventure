@@ -685,10 +685,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [salayatana-paccaya](../../terms/minor/salayatana-paccaya.json) | salayatana-paccaya | six fields of experience as condition | reviewed | dependent-origination, causality |
 | [salayatanapaccaya-phasso](../../terms/minor/salayatanapaccaya-phasso.json) | saḷāyatanapaccayā phasso | with the six fields of experience as condition, contact | reviewed | dependent-origination, causality, translation-sensitive |
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
-| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | unification-of-mind awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
-| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | unification-of-mind strength | reviewed | core-practice, mental-qualities |
+| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | mental composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | mental composure strength | reviewed | core-practice, mental-qualities |
 | [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of samadhi | reviewed | jhana-factors, meditative-development |
-| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | unification-of-mind faculty | reviewed | core-practice, mental-qualities |
+| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | mental composure faculty | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
 | [samana](../../terms/minor/samana.json) | samaṇa | contemplative | reviewed | persons, core-practice |
@@ -764,7 +764,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sugati](../../terms/minor/sugati.json) | sugati | good destination | reviewed | core-doctrine |
 | [sukha-vedana](../../terms/minor/sukha-vedana.json) | sukhavedanā | pleasant feeling | reviewed | aggregates |
 | [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | emptiness samadhi | reviewed | liberation, meditative-development, emptiness-interface |
+| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | mental composure that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-vimokkha](../../terms/minor/sunnata-vimokkha.json) | sunnata-vimokkha | emptiness release | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunyata](../../terms/minor/sunyata.json) | śūnyatā | śūnyatā | reviewed | core-doctrine, translation-sensitive |
 | [surameraya-majjapamadatthana-veramani](../../terms/minor/surameraya-majjapamadatthana-veramani.json) | surameraya-majjapamadatthana-veramani | abstaining from intoxicants | reviewed | ethics |

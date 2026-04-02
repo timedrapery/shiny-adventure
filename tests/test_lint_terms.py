@@ -35,7 +35,7 @@ class LintEncodingTests(unittest.TestCase):
         terms = {
             "samadhi": {
                 "term": "samÄdhi",
-                "preferred_translation": "unification of mind",
+                "preferred_translation": "mental composure",
                 "definition": "A settled mind.",
             }
         }
@@ -240,7 +240,7 @@ class LintCliTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "notes": "Rule-bearing note.",
-                "context_rules": [{"context": "default", "rendering": "unification of mind"}, {"context": "alt", "rendering": "composure"}],
+                "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
                 "example_phrases": [{"pali": "samādhi"}],
                 "sutta_references": ["MN 44"],
@@ -273,7 +273,7 @@ class LintCliTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "notes": "Rule-bearing note.",
-                "context_rules": [{"context": "default", "rendering": "unification of mind"}, {"context": "alt", "rendering": "composure"}],
+                "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
                 "example_phrases": [{"pali": "samādhi"}],
                 "sutta_references": ["MN 44"],

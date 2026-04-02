@@ -29,7 +29,7 @@ is the first, second, third, and fourth `jhāna`.
 - Do not let this explanation collapse the factors into one another.
 - Do not let it reduce `sammā-diṭṭhi` to belief, `sammā-sati` to mindfulness,
   or `sammā-vāyāma` to raw willpower.
-- Keep `sammā-samādhi` as `right unification of mind`, while stating plainly
+- Keep `sammā-samādhi` as `right mental composure`, while stating plainly
   that `ariya sammā samādhi` is the fourfold `jhāna` sequence.
 - Keep that sequence stable as first mental theme, second mental theme, third
   mental theme, and fourth mental theme unless a controlled technical reason

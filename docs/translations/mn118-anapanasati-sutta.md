@@ -10,7 +10,7 @@
 - House choices that most affect this sutta: `ānāpānasati` and `bhikkhu`
   remain untranslated, but `ānāpānasati` is glossed here as `remembering the
   Dhamma while breathing in and out`; `sati` is rendered `remembering`;
-  `samādhi` is rendered `unification of mind`; `citta` is usually rendered
+  `samādhi` is rendered `mental composure`; `citta` is usually rendered
   `feeling mind`; `upekkhā` is rendered `dynamic balance`; `vossagga` and
   `paṭinissagga` are rendered `relinquishment`.
 - The sixteen ānāpānasati lines are laid out here as trainings in four tetrads,
@@ -121,6 +121,11 @@ as a numbered sequence of steps.*
 fixation. Each in-breath and out-breath is the recurring occasion for
 remembering the Dhamma and carrying out the training.*
 
+*Study note: this edition does not treat the first mental theme as something
+separate from ānāpānasati. The same training clears distractions, brings up
+wholesome dhammas through thinking and evaluation, and goes straight toward
+the goal rather than wandering into side tracks.*
+
 "Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
 to an empty hut, sits down, folds the legs crosswise, sets the body upright,
 and sets remembering to the fore. One breathes in remembering the Dhamma; one
@@ -154,7 +159,7 @@ recognition, including liking, disliking, or neither.*
 
 Feeling-mind trainings:
 *With each in-breath and out-breath, the trainee remembers to experience,
-gladden, unify, and free the feeling mind. In practice, the thinking mind
+gladden, bring to mental composure, and free the feeling mind. In practice, the thinking mind
 (`mano`) reaches in to gladden the feeling mind (`citta`) by bringing forth
 wholesome qualities, thoughts worth having, while abandoning unwholesome
 qualities, thoughts not worth keeping in mind.*
@@ -162,8 +167,9 @@ qualities, thoughts not worth keeping in mind.*
   'Breathing out, I will experience the feeling mind.'
 - One trains: 'Breathing in, I will gladden the feeling mind.' One trains:
   'Breathing out, I will gladden the feeling mind.'
-- One trains: 'Breathing in, I will unify the feeling mind.' One trains:
-  'Breathing out, I will unify the feeling mind.'
+- One trains: 'Breathing in, I will bring the feeling mind to mental
+  composure.' One trains: 'Breathing out, I will bring the feeling mind to
+  mental composure.'
 - One trains: 'Breathing in, I will free the feeling mind.' One trains:
   'Breathing out, I will free the feeling mind.'
 
@@ -202,7 +208,8 @@ in relation to feelings, ardent, with clear knowing, with remembering, having
 removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
-feeling mind, or unifying the feeling mind, or freeing the feeling mind, then
+feeling mind, or bringing the feeling mind to mental composure, or freeing the
+feeling mind, then
 one remains observing the feeling mind in relation to the feeling
 mind, ardent, with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
@@ -252,11 +259,11 @@ through development.
 Then the relaxation awakening factor is aroused. One develops it, and it comes
 to fulfillment through development.
 
-"When the body is relaxed and one experiences ease, the feeling mind
-becomes unified. Then the awakening factor of unification of mind is aroused.
+"When the body is relaxed and one experiences ease, the feeling mind comes to
+mental composure. Then the awakening factor of mental composure is aroused.
 One develops it, and it comes to fulfillment through development.
 
-"One then looks on carefully with dynamic balance at that well-unified feeling
+"One then looks on carefully with dynamic balance at that well-composed feeling
 mind. Then the dynamic balance awakening factor is aroused. One develops it,
 and it comes to fulfillment through development.
 
@@ -285,7 +292,7 @@ as to fulfill knowledge and release?
   quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
-- the awakening factor of unification of mind, based on seclusion, based on
+- the awakening factor of mental composure, based on seclusion, based on
   fading, based on quenching, culminating in relinquishment;
 - the dynamic balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.
