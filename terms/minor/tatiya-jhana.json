@@ -4,7 +4,7 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "third jhāna",
-  "preferred_translation": "third theme",
+  "preferred_translation": "third mental theme",
   "alternative_translations": [
     "third jhāna"
   ],
@@ -12,12 +12,30 @@
     "third absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "The third jhāna in the standard fourfold sequence.",
-  "sutta_references": [
-    "DN 2"
+  "definition": "The third jhāna in the standard fourfold sequence of ariya sammā samādhi.",
+  "notes": "Use this record for the third member of ariya sammā samādhi. The repository keeps mental theme here too so the sequence remains practical and non-trance. This member should stay linked to the fading of delight, the settling of ease, and growing dynamic balance.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "tatiyaṁ jhānaṁ",
+      "translation": "third mental theme",
+      "notes": "Third member of the standard fourfold sequence.",
+      "source": "DN 2"
+    }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 117"
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the third member of the fourfold path expression of ariya sammā samādhi.",
+    "when_not_to_apply": "Do not recast as third absorption or third trance. Use third jhāna only where a controlled technical reason calls for the Pali.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the third member from drifting away from practical path handling and its linked formula expressions."
+  },
   "tags": [
-    "meditative-development"
+    "meditative-development",
+    "jhana-factors"
   ],
   "status": "reviewed"
 }

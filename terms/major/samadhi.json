@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A state in which the mind is unified, well gathered, and fit to work without the strain implied by concentration.",
-  "notes": "OSF house style now prefers unification of mind for samadhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samadhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering. The OSF publication What Is And Is Not The Path strongly reinforces this usage by explicitly glossing samadhi as unification of mind, tying it to attitude, view, effort, and remembering, and rejecting concentration as the governing frame. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
+  "notes": "OSF house style now prefers unification of mind for samadhi based on the Dhammarato quotes draft, which repeatedly rejects concentration and instead frames samadhi as an integrated, workable, unified mind. Composure and collectedness remain useful alternates, but they are no longer the primary house rendering. The OSF publication What Is And Is Not The Path strongly reinforces this usage by explicitly glossing samadhi as unification of mind, tying it to attitude, view, effort, and remembering, and rejecting concentration as the governing frame. Generic samādhi can be wider than the noble path factor, but this repository now keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader unification-of-mind family. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
@@ -44,6 +44,11 @@
       "context": "In OSF practical explanation emphasizing a mind ready to function well",
       "rendering": "workable unified mind",
       "notes": "Use when the point is the mind's fitness for practice rather than technical path-factor naming."
+    },
+    {
+      "context": "When distinguishing the broad headword from ariya sammā samādhi as the path factor",
+      "rendering": "unification of mind",
+      "notes": "Keep the generic headword broader, while the noble path factor is governed under sammā-samādhi as the four jhānas."
     }
   ],
   "related_terms": [

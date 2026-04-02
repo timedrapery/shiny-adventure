@@ -12,6 +12,12 @@ are not to be treated as static checklist items.
 They are core live factors that work in constant exchange with one another and
 help animate the rest of the noble eightfold path.
 
+This note also governs one `sammā-samādhi` clarification now made explicit:
+
+- `ariya sammā samādhi`
+
+is the first, second, third, and fourth `jhāna`.
+
 ## Governance
 
 - Keep the default renderings stable:
@@ -23,6 +29,13 @@ help animate the rest of the noble eightfold path.
 - Do not let this explanation collapse the factors into one another.
 - Do not let it reduce `sammā-diṭṭhi` to belief, `sammā-sati` to mindfulness,
   or `sammā-vāyāma` to raw willpower.
+- Keep `sammā-samādhi` as `right unification of mind`, while stating plainly
+  that `ariya sammā samādhi` is the fourfold `jhāna` sequence.
+- Keep that sequence stable as first mental theme, second mental theme, third
+  mental theme, and fourth mental theme unless a controlled technical reason
+  requires the Pali.
+- Do not widen `sammā-samādhi` into a vague concentration category or treat
+  `jhāna` as an optional side system outside the path.
 
 ## Practical Loop
 

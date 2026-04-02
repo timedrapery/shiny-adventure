@@ -3,26 +3,26 @@
   "normalized_term": "jhana",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "theme or object of contemplation",
-  "preferred_translation": "theme",
+  "literal_meaning": "mental theme or object of contemplation",
+  "preferred_translation": "mental theme",
   "alternative_translations": [
-    "meditative theme",
-    "ecstasy",
-    "meditative state",
+    "theme",
+    "jhāna",
     "satisfied unified mind fit for work"
   ],
   "discouraged_translations": [
     "meditation",
+    "ecstasy",
     "absorption",
     "trance"
   ],
   "untranslated_preferred": false,
-  "definition": "A contemplative theme held steadily in mind, around which wholesome thinking and pondering are organized.",
-  "notes": "The project treats jhana as a contemplative theme rather than a trance-like or absorptive state. Theme is the default because it aligns with the paired activity of vitakka and vicara and keeps the term connected to an object or topic steadily held in mind. Meditative theme can be used in explanatory prose when plain theme feels too bare. Ven. Dr. M. Punnaji frequently uses ecstasy in retreat materials; the repository records that as a source-backed alternate while retaining the current project default pending any broader editorial decision. The OSF glossary explains jhana as a satisfied unified mind fit for work and also in more conventional meditative-state language; the repository records those as source-backed alternates while retaining the current house default pending any broader editorial decision. The OSF publication What Is And Is Not The Path strongly reinforces early-sutta practical treatment of first jhana, rejects trance-style readings, and links jhana closely with hindrance-clearing and workable samadhi. Translators should keep the vitakka-vicāra pair aligned with this rule and should not mix theme, meditative state, ecstasy, and untranslated jhāna within the same local passage without an explicit reason.",
+  "definition": "A mental theme held steadily in mind, especially in the fourfold path expression of ariya sammā samādhi.",
+  "notes": "The project now keeps mental theme as the default because plain theme is too bare and too easily detached from mind-training. This repository treats jhāna as practical path vocabulary, not as trance doctrine: first jhāna, second jhāna, third jhāna, and fourth jhāna are the fourfold expression of ariya sammā samādhi rather than an optional side system. What Is And Is Not The Path strongly reinforces that early-sutta, anti-trance handling of jhāna in direct relation to samādhi and the path. The OSF glossary supports this practical direction by explaining jhāna as a satisfied unified mind fit for work, and the Dhammarato quotes profile reinforces especially first jhāna as workable, non-mystified path language. Translators should keep the vitakka-vicāra pair aligned with this rule, keep the fourfold sequence stable as first mental theme through fourth mental theme unless a controlled technical reason requires the Pali, and refuse drift into meditation, ecstasy, absorption, or trance language.",
   "context_rules": [
     {
-      "context": "In project translations discussing the structure of contemplative practice",
-      "rendering": "theme",
+      "context": "In most path and jhāna contexts, especially where the term belongs to ariya sammā samādhi",
+      "rendering": "mental theme",
       "notes": "Default project rendering."
     },
     {
@@ -31,23 +31,18 @@
       "notes": "Retaining the Pāli can be appropriate where translation would distract from technical discussion."
     },
     {
-      "context": "In Punnaji-style pedagogical meditation prose describing the meditative sequence",
-      "rendering": "ecstasy",
-      "notes": "Source-backed alternate, not the house default."
-    },
-    {
       "context": "In OSF-glossary style practical explanation of a workable unified mind",
       "rendering": "satisfied unified mind fit for work",
       "notes": "Source-backed alternate, not the house default."
     },
     {
-      "context": "In OSF publication prose emphasizing early-sutta practicality rather than later trance doctrine",
+      "context": "In source-facing technical discussion where the fourfold category itself is under analysis",
       "rendering": "jhāna",
-      "notes": "Retaining the Pali is often cleaner than forcing a misleading English shorthand in this debate-heavy domain."
+      "notes": "Retain the Pali when translating it would create more confusion than clarity."
     },
     {
       "context": "In first-jhāna formulae coordinated with vitakka and vicāra",
-      "rendering": "theme",
+      "rendering": "mental theme",
       "notes": "Keep the term tied to the paired factors rather than drifting into trance or absorption language."
     }
   ],
@@ -55,26 +50,34 @@
     "asañña",
     "bhāvanā",
     "ekaggatā",
+    "jhāyati",
     "nīvaraṇa",
     "pīti",
     "rupa-raga",
     "rūpabhava",
     "samādhi",
     "samma-samadhi",
+    "sukha",
     "vicāra",
     "vitakka"
   ],
   "example_phrases": [
     {
       "pali": "paṭhamaṁ jhānaṁ",
-      "translation": "the first theme",
-      "notes": "Reflects current project preference even though it differs from conventional renderings.",
+      "translation": "the first mental theme",
+      "notes": "First member of the fourfold path expression of ariya sammā samādhi.",
+      "source": "DN 2"
+    },
+    {
+      "pali": "catutthaṁ jhānaṁ",
+      "translation": "the fourth mental theme",
+      "notes": "Fourth member of the same fourfold path expression.",
       "source": "DN 2"
     },
     {
       "pali": "savitakkaṁ savicāraṁ",
       "translation": "with thinking and pondering",
-      "notes": "Closely associated with the first jhāna.",
+      "notes": "Closely associated with the first mental theme.",
       "source": "MN 119"
     }
   ],
@@ -84,35 +87,36 @@
   ],
   "tags": [
     "core-practice",
+    "core-doctrine",
     "meditative-development",
     "jhana-factors"
   ],
   "status": "reviewed",
-  "version_notes": "Strengthened with explicit first-jhāna guidance so the jhāna rule stays coordinated with vitakka, vicāra, and samādhi.",
+  "version_notes": "Revised to keep jhāna as mental theme and to encode the fourfold sequence as the direct expression of ariya sammā samādhi.",
   "authority_basis": [
     {
       "source": "What Is And Is Not The Path",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current jhāna policy."
+      "scope": "Supports early-sutta, anti-trance handling of jhāna in direct relation to samādhi and the path."
     },
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current jhāna policy."
+      "scope": "Supports practical mind-fit-for-work language without forcing trance-style handling."
     },
     {
-      "source": "Punnaji",
-      "priority": "external",
+      "source": "Dhammarato quotes profile",
+      "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current jhāna policy."
+      "scope": "Supports especially first jhāna as workable, non-mystified path language."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'theme' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'mental theme' as the default rendering in the entry's governed path and jhāna contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use untranslated jhāna only where the technical category itself is under discussion or where a controlled local reason is already documented. Do not rotate among meditation, ecstasy, absorption, and trance language ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'meditation' or other unrecorded alternates."
+    "drift_risk": "Prevents jhāna from drifting into trance doctrine or from being detached from the fourfold path expression of ariya sammā samādhi."
   }
 }

@@ -4,7 +4,26 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "without thinking and pondering",
-  "definition": "A jhana formula expression used in meditation description.",
+  "definition": "A jhana formula expression marking the dropping of thinking and pondering in the second mental theme.",
+  "notes": "Use this record when the standard sequence marks the move beyond the first mental theme. Keep it tied to vitakka and vicara as practical thinking and pondering rather than reading the phrase as a cue for trance or blankness.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "avitakkaṁ avicāraṁ",
+      "translation": "without thinking and pondering",
+      "notes": "Second-jhana formula expression after the first mental theme.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in second-jhana formula contexts for the dropping of thinking and pondering.",
+    "when_not_to_apply": "Do not turn the phrase into anti-thought mysticism or generic silence rhetoric. Retain the Pali only where the formula itself is being analyzed technically.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from severing the second mental theme from the practical vitakka-vicara contrast established in the first."
+  },
   "status": "reviewed",
   "literal_meaning": "without thinking and pondering",
   "tags": [

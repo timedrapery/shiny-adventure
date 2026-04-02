@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An energizing delight or uplift that arises in wholesome states, especially in collected practice.",
-  "notes": "The project prefers delight because it is vivid without sounding inflated. Joy remains acceptable in explanatory prose, while rapture is available for continuity with older Buddhist-English usage when the meditative intensity is the point. The term should be distinguished from sukha: pīti is the enlivening uplift, whereas sukha is the satisfying ease that can accompany it. This matters in jhāna translation, awakening-factor language, and practical meditation instruction. The OSF glossary likewise keeps pīti distinct from sukha and treats it as energizing uplift, which supports the current policy.",
+  "notes": "The project prefers delight because it is vivid without sounding inflated. Joy remains acceptable in explanatory prose, while rapture is available for continuity with older Buddhist-English usage when the meditative intensity is the point. The term should be distinguished from sukha: pīti is the enlivening uplift, whereas sukha is the satisfying ease that can accompany it. This matters in jhāna translation, awakening-factor language, and practical meditation instruction. DN 2 is especially important here because it keeps the delight-and-ease pair coordinated across the first, second, and third members of the fourfold jhāna sequence. The OSF glossary likewise keeps pīti distinct from sukha and treats it as energizing uplift, which supports the current policy.",
   "context_rules": [
     {
       "context": "In most meditative-development and bojjhaṅga contexts",
@@ -86,6 +86,11 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current pīti policy."
+    },
+    {
+      "source": "DN 2",
+      "kind": "context-rule",
+      "scope": "Supports keeping the delight-and-ease pair stable across the jhāna sequence."
     }
   ],
   "translation_policy": {

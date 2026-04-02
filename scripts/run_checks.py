@@ -19,6 +19,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Term directory navigation", [sys.executable, "scripts/term_directory_navigation.py", "--check"]),
     ("Translation drift", [sys.executable, "scripts/check_translation_drift.py", "--strict"]),
     ("Dependent arising cluster", [sys.executable, "scripts/dependent_arising_cluster_report.py", "--strict"]),
+    ("Jhana cluster", [sys.executable, "scripts/jhana_cluster_report.py", "--strict"]),
     ("Five heaps cluster", [sys.executable, "scripts/five_heaps_cluster_report.py", "--strict"]),
     ("Identity-construction cluster", [sys.executable, "scripts/identity_construction_cluster_report.py", "--strict"]),
     ("Bondage / residue cluster", [sys.executable, "scripts/bondage_residue_cluster_report.py", "--strict"]),

@@ -1,0 +1,83 @@
+{
+  "term": "jhāyati",
+  "normalized_term": "jhayati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "thinks on, contemplates, takes up the theme",
+  "preferred_translation": "think like this",
+  "alternative_translations": [
+    "think in this way",
+    "contemplate in this way"
+  ],
+  "discouraged_translations": [
+    "meditate",
+    "enter absorption",
+    "go into trance"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A practical verb for taking up the mental theme in the way the teaching instructs, especially in jhāna and path contexts.",
+  "notes": "The project keeps think like this as the default because it preserves a practical instruction voice and keeps the verb aligned with jhāna as mental theme rather than as trance doctrine. Think in this way and contemplate in this way remain acceptable when the English sentence needs slightly smoother wording, but the core point should stay practical: the mind is to be set going in the right way, not sent into a mystical state. What Is And Is Not The Path strongly reinforces practical non-trance handling of first jhāna and samādhi, and the Dhammarato quotes profile reinforces the same plain-practice direction. In this repository, jhāyati should stay aligned with jhāna, vitakka, and vicāra and should not be flattened into generic meditate-language or into absorption rhetoric.",
+  "context_rules": [
+    {
+      "context": "In direct practical instruction connected with jhāna and samādhi",
+      "rendering": "think like this",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In smoother English prose where the instruction still needs to sound practical",
+      "rendering": "think in this way",
+      "notes": "Allowed alternate when the sentence benefits from it."
+    },
+    {
+      "context": "In explanatory prose where the contemplative side needs a little more weight without becoming mystical",
+      "rendering": "contemplate in this way",
+      "notes": "Controlled alternate, not the default rendering."
+    }
+  ],
+  "related_terms": [
+    "jhāna",
+    "sammā-samādhi",
+    "vicāra",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jhāyatha, bhikkhave, mā pamādattha",
+      "translation": "think like this, bhikkhus; do not be negligent",
+      "notes": "Practical instruction voice that the repository keeps plain rather than mystical.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19",
+    "SN 35.146",
+    "SN 43.1"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for keeping the verb practical, path-facing, and non-trance."
+    },
+    {
+      "source": "Dhammarato quotes profile",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for plain-practice handling of jhāna-adjacent language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'think like this' as the default rendering in direct practical instruction tied to jhāna and samādhi unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use smoother alternates only where the local English sentence genuinely needs them. Do not flatten the verb into generic meditate-language or reframe it as entering absorption or trance.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents jhāna-family verb language from drifting into mystical state-talk or generic meditation vocabulary."
+  },
+  "version_notes": "Created in the jhāna core-cluster pass to keep the practical verb aligned with jhāna as mental theme and with ariya sammā samādhi as the fourfold sequence."
+}

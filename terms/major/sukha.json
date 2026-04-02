@@ -14,7 +14,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A satisfying or easeful quality of experience, often contrasted with dissatisfaction.",
-  "notes": "Project preference is satisfaction in doctrinal and analytical contexts because it keeps the term paired naturally with dissatisfaction while avoiding the emotional vagueness of happiness. In adjectival or source-facing contexts, satisfying may be the better English form, and ease remains acceptable when the line calls for something lighter or more idiomatic. The OSF glossary reinforces the project treatment of sukha as satisfaction rather than generic happiness.",
+  "notes": "Project preference is satisfaction in doctrinal and analytical contexts because it keeps the term paired naturally with dissatisfaction while avoiding the emotional vagueness of happiness. In adjectival or source-facing contexts, satisfying may be the better English form, and ease remains acceptable when the line calls for something lighter or more idiomatic. DN 2 matters especially for jhāna handling because the first three members of the fourfold sequence use sukha in controlled pairings and contrasts rather than as a vague happiness-word. The OSF glossary reinforces the project treatment of sukha as satisfaction rather than generic happiness.",
   "context_rules": [
     {
       "context": "In doctrinal and analytical contexts where the term names a quality or state",
@@ -34,6 +34,7 @@
   ],
   "related_terms": [
     "dukkha",
+    "jhāna",
     "nibbāna",
     "pīti",
     "vedanā"
@@ -67,6 +68,11 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current sukha policy."
+    },
+    {
+      "source": "DN 2",
+      "kind": "context-rule",
+      "scope": "Supports controlled handling of sukha inside the jhāna sequence."
     }
   ],
   "translation_policy": {

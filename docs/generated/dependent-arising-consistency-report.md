@@ -3,21 +3,21 @@
 ## Headword Defaults
 
 - `avijjā`: default `ignorance`; alternates `not-knowing, unawareness`; discouraged `nescience`
-- `saṅkhārā`: default `putting things together`; alternates `that which has been put together, conditioned thing, construction, fabrication, concoction`; discouraged `choices, volitional formations`
-- `viññāṇa`: default `knowing`; alternates `consciousness, awareness`; discouraged `pure awareness, witness consciousness`
+- `saṅkhārā`: default `putting things together`; alternates `that which has been put together, conditioned thing, construction, fabrication, putting-together activities`; discouraged `choices, volitional formations`
+- `viññāṇa`: default `knowing`; alternates `consciousness, awareness`; discouraged `pure awareness, witness consciousness, self, soul, sentience`
 - `nāmarūpa`: default `name-and-form`; alternates `naming and materiality, mental and physical phenomena, mental and physical objects of consciousness, mind and body`; discouraged `body and mind`
 - `saḷāyatana`: default `six fields of experience`; alternates `six sense fields, sense field, six sense bases, six sense domains`; discouraged `sense organs`
-- `phassa`: default `contact`; alternates `touch`; discouraged `sensation`
-- `vedanā`: default `felt experience`; alternates `feeling, feeling tone, sensation`; discouraged `emotion`
-- `taṇhā`: default `ignorant wanting`; alternates `excitement about things, wanting things you can't have right now, craving, thirst`; discouraged `desire`
-- `upādāna`: default `taking personally`; alternates `ignorantly holding, clinging, grasping, fuel`; discouraged `attachment`
+- `phassa`: default `contact`; alternates `touch`; discouraged `sensation, touching, encounter`
+- `vedanā`: default `felt experience`; alternates `feeling, feeling tone, sensation`; discouraged `emotion, mood, affect`
+- `taṇhā`: default `ignorant wanting`; alternates `craving, thirst, excitement about things, wanting things you can't have right now`; discouraged `desire, attachment`
+- `upādāna`: default `taking personally`; alternates `ignorantly holding, clinging, grasping, fuel`; discouraged `attachment, desire`
 - `bhava`: default `becoming`; alternates `being, existence, state of existence, form of becoming, development, well-being, prosperity`; discouraged `life`
 - `jāti`: default `birth`; alternates `rebirth, conception, arising`; discouraged `mere biological birth`
 - `jarāmaraṇa`: default `ageing and dying`; alternates `aging-and-death, old age and death`; discouraged `mortality`
 - `paccaya`: default `condition`; alternates `support, conditioning factor`; discouraged `cause`
-- `nirodha`: default `quenching`; alternates `ending, cessation, discontinuity, to stop, to cease`; discouraged `annihilation`
+- `nirodha`: default `quenching`; alternates `ending, cessation, discontinuity, stop, cease`; discouraged `annihilation, wearing away, mere cessation`
 - `paṭiccasamuppāda`: default `dependent arising`; alternates `dependent origination, dependent co-arising`; discouraged `chain of causation`
-- `idappaccayatā`: default `conditionality`; alternates `specific conditionality, this-conditionality`; discouraged `fate`
+- `idappaccayatā`: default `conditionality`; alternates `specific conditionality, this-conditionality`; discouraged `fate, mere causality, god`
 
 ## Formula Overrides
 

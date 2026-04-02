@@ -4,7 +4,26 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "unification of mind",
-  "definition": "A jhana formula expression used in meditation description.",
+  "definition": "A jhana formula expression for the unification of mind characteristic of the second mental theme and beyond.",
+  "notes": "Use this record where the formula names the gathered, unified quality of mind in the jhana sequence. Keep it aligned with samadhi as unification of mind and with ariya samma samadhi as the fourfold jhana sequence.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "cetaso ekodibhāvaṁ",
+      "translation": "unification of mind",
+      "notes": "Second-jhana formula phrase closely tied to samadhi.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in jhana formula contexts for the mind's gathered unification.",
+    "when_not_to_apply": "Do not recast as concentration or as an absorptive state label. Retain the Pali only where the technical formula is under direct discussion.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from sliding back into concentration language or from being detached from the jhana path sequence."
+  },
   "status": "reviewed",
   "literal_meaning": "unification of mind",
   "tags": [

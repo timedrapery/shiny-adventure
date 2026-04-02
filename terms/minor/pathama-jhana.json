@@ -4,7 +4,7 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "literal_meaning": "first jhāna",
-  "preferred_translation": "first theme",
+  "preferred_translation": "first mental theme",
   "alternative_translations": [
     "first jhāna"
   ],
@@ -12,12 +12,30 @@
     "first absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "The first jhāna in the standard fourfold sequence.",
-  "sutta_references": [
-    "DN 2"
+  "definition": "The first jhāna in the standard fourfold sequence of ariya sammā samādhi.",
+  "notes": "Use this record for the first member of ariya sammā samādhi. The repository keeps mental theme so the term stays tied to practical theme-taking rather than drifting into absorption or trance language. Keep the first member coordinated with vitakka and vicāra as thinking and pondering.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "paṭhamaṁ jhānaṁ",
+      "translation": "first mental theme",
+      "notes": "First member of the standard fourfold sequence.",
+      "source": "DN 2"
+    }
   ],
+  "sutta_references": [
+    "DN 2",
+    "MN 117"
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the first member of the fourfold path expression of ariya sammā samādhi.",
+    "when_not_to_apply": "Do not recast as first absorption or first trance. Use first jhāna only where a controlled technical reason calls for the Pali.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the first member from drifting away from practical path handling and the vitakka-vicāra pair."
+  },
   "tags": [
-    "meditative-development"
+    "meditative-development",
+    "jhana-factors"
   ],
   "status": "reviewed"
 }

@@ -16,6 +16,8 @@ teaching, the broad law of conditionality, and the basis for quenching
 
 This source is classified as a Buddhadāsa-line practical support profile.
 
+When it is encoded in `authority_basis`, use `priority: buddhadasa-support`.
+
 That means:
 
 - it strongly aligns with the existing Buddhadāsa profile on conditionality,

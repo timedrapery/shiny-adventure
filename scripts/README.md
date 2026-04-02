@@ -20,6 +20,8 @@ All CLI scripts support `--help`.
   Verifies that the generated major/minor term navigation indexes are present and current.
 - `python scripts/dependent_arising_cluster_report.py`
   Audits the dependent-arising cluster and can generate translator-facing outputs.
+- `python scripts/jhana_cluster_report.py`
+  Audits the jhana core cluster and can generate translator-facing outputs.
 
 ## Reporting And Planning Commands
 
@@ -29,6 +31,8 @@ All CLI scripts support `--help`.
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`
   Checks the dependent-arising cluster surface and writes glossary, formula-sheet, brief, and consistency outputs into `docs/generated/`.
+- `python scripts/jhana_cluster_report.py --write-docs`
+  Checks the jhana core cluster surface and writes glossary, sequence, path-brief, and formula-sheet outputs into `docs/generated/`.
 - `python scripts/term_directory_navigation.py --write-docs`
   Generates navigation indexes for the flat `terms/major/` and `terms/minor/` directories.
 - `python scripts/draft_major_review_queue.py`

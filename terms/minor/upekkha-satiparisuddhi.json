@@ -3,10 +3,29 @@
   "normalized_term": "upekkha-satiparisuddhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "purity of remembering through equanimity",
-  "definition": "A jhana formula expression used in meditation description.",
+  "preferred_translation": "purity of remembering through dynamic balance",
+  "definition": "A jhana formula expression for the purity of remembering through dynamic balance in the fourth mental theme.",
+  "notes": "Use this record for the noun-form expression attached to the fourth mental theme. Keep it practical and path-facing: the point is purified remembering through dynamic balance inside ariya samma samadhi, not a vague meditative aura.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "upekkhā-sati-pārisuddhi",
+      "translation": "purity of remembering through dynamic balance",
+      "notes": "Fourth-jhana formula expression in noun form.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in fourth-jhana formula contexts for the purity of remembering through dynamic balance.",
+    "when_not_to_apply": "Do not reduce the phrase to generic calmness or import mindfulness jargon by habit. Retain the Pali only where the formula itself is the object of technical analysis.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from losing its fourth-jhana role or from softening the repository's controlled sati handling."
+  },
   "status": "reviewed",
-  "literal_meaning": "purity of remembering through equanimity",
+  "literal_meaning": "purity of remembering through dynamic balance",
   "tags": [
     "jhana-factors",
     "meditative-development"

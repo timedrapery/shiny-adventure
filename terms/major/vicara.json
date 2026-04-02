@@ -14,8 +14,8 @@
     "evaluation"
   ],
   "untranslated_preferred": false,
-  "definition": "Ongoing mental turning-over or examination of a theme after it has been taken up by thinking.",
-  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary also keeps vicāra aligned with ongoing mental examination rather than abstract evaluation-language, which supports the present policy.",
+  "definition": "Ongoing mental turning-over or examination of a mental theme after it has been taken up by thinking.",
+  "notes": "The project keeps pondering as the default because it pairs naturally with vitakka while still sounding like workable English. Reflection is acceptable when the English line wants a smoother noun, and sustained attention can be used as explanation when the continuing engagement with the mental theme needs emphasis. The term should not be reduced to a later technical label detached from ordinary mental function, nor should it be collapsed into generic evaluation-language that misreads the jhāna formulas. Because first jhāna is the first member of ariya sammā samādhi in this repository, translators should keep the first-jhāna pair stable as thinking and pondering unless a passage is explicitly being glossed in explanatory prose. The OSF glossary also keeps vicāra aligned with ongoing mental examination rather than abstract evaluation-language, and the Dhammarato quotes profile reinforces practical non-mystified handling of first-jhāna language even where it uses different explanatory verbs.",
   "context_rules": [
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
@@ -28,7 +28,7 @@
       "notes": "Allowed alternate when it reads more cleanly."
     },
     {
-      "context": "When explaining the continuing engagement with a chosen theme after vitakka has taken it up",
+      "context": "When explaining the continuing engagement with a chosen mental theme after vitakka has taken it up",
       "rendering": "sustained attention",
       "notes": "Explanatory alternate, not the default translation."
     },
@@ -41,6 +41,7 @@
   "related_terms": [
     "bhāvanā",
     "jhāna",
+    "jhāyati",
     "samādhi",
     "vitakka"
   ],
@@ -83,6 +84,12 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current vicāra policy."
+    },
+    {
+      "source": "Dhammarato quotes profile",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Named in notes as support for practical non-mystified handling of first-jhāna language."
     }
   ],
   "translation_policy": {

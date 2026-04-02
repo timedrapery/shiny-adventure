@@ -4,24 +4,24 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "looking on, evenness",
-  "preferred_translation": "equanimity",
+  "preferred_translation": "dynamic balance",
   "alternative_translations": [
+    "equanimity",
     "evenness",
     "poise",
     "introspection",
-    "apperception",
-    "dynamic balance"
+    "apperception"
   ],
   "discouraged_translations": [
     "indifference"
   ],
   "untranslated_preferred": false,
-  "definition": "Balanced evenness of mind that remains steady without withdrawal or indifference.",
-  "notes": "The project keeps equanimity as the clearest default, provided it is not mistaken for emotional flatness. Evenness and poise can help in explanatory prose when the quality's steadiness needs to sound more immediate and less abstract. The term should be heard as balanced presence that protects compassion and goodwill from collapsing into reactivity or fatigue. Ven. Dr. M. Punnaji sometimes uses introspection or apperception in advanced meditative explanation; the repository records those as source-backed pedagogical alternates while retaining equanimity as the house default. The OSF glossary explains upekkhā as dynamic balance and going with the flow happily; the repository records dynamic balance as a source-backed explanatory alternate while retaining equanimity as the default.",
+  "definition": "A dynamic balance of mind that remains steady without withdrawal, flatness, or indifference.",
+  "notes": "The project now keeps dynamic balance as the default because it preserves movement, steadiness, and adaptability together, and it blocks the common flattening of upekkhā into static emotional neutrality. Equanimity remains a controlled alternate for familiar Buddhist-English continuity, and evenness or poise can still help where the line benefits from a shorter English form. The term should be heard as balanced presence that protects compassion and goodwill from collapsing into reactivity or fatigue. Ven. Dr. M. Punnaji sometimes uses introspection or apperception in advanced meditative explanation; the repository records those as source-backed pedagogical alternates while retaining dynamic balance as the house default. The OSF glossary explains upekkhā as dynamic balance and going with the flow happily, and this repository now promotes that OSF framing to the governing default.",
   "context_rules": [
     {
       "context": "In most practical, doctrinal, and meditative contexts",
-      "rendering": "equanimity",
+      "rendering": "dynamic balance",
       "notes": "Default project rendering."
     },
     {
@@ -35,9 +35,9 @@
       "notes": "Use when the tone benefits from a more immediate English term."
     },
     {
-      "context": "When the passage emphasizes brahmavihāra balance or mature meditative steadiness",
+      "context": "When reader continuity with standard Buddhist-English is more important than the house idiom",
       "rendering": "equanimity",
-      "notes": "Keep the quality poised rather than detached."
+      "notes": "Controlled alternate, not the default rendering."
     },
     {
       "context": "In Punnaji-style advanced meditative explanation of inward observation",
@@ -47,7 +47,7 @@
     {
       "context": "In OSF-glossary style practical explanation of balanced adaptability",
       "rendering": "dynamic balance",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Now aligned with the house default."
     }
   ],
   "related_terms": [
@@ -61,14 +61,14 @@
   "example_phrases": [
     {
       "pali": "upekkhā cetovimutti",
-      "translation": "the liberation of mind through equanimity",
+      "translation": "the liberation of mind through dynamic balance",
       "notes": "Important brahmavihāra expression.",
       "source": "DN 13"
     },
     {
       "pali": "upekkhako satimā",
-      "translation": "equanimous and with sati",
-      "notes": "Useful phrase showing the quality in meditative context.",
+      "translation": "balanced and with sati",
+      "notes": "Useful phrase showing the quality in meditative context without flattening it into detachment.",
       "source": "MN 7"
     }
   ],
@@ -97,9 +97,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'equanimity' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'dynamic balance' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use equanimity, evenness, or poise only where a recorded context rule or clear local English need justifies them rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'indifference' or other unrecorded alternates."
+    "drift_risk": "Prevents drift toward indifference, static flatness, or other unrecorded alternates."
   }
 }

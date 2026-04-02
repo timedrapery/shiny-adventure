@@ -81,6 +81,13 @@ class ClusterReportTests(unittest.TestCase):
             report["warnings"]["forward_link_compounds_still_thin"],
         )
 
+    def test_live_cluster_has_no_thin_link_or_headword_authority_warnings(self) -> None:
+        report = cluster_report.build_report(cluster_report.load_terms())
+
+        self.assertEqual(report["warnings"]["headwords_with_thin_authority_basis"], [])
+        self.assertEqual(report["warnings"]["forward_link_compounds_still_thin"], [])
+        self.assertEqual(report["warnings"]["reverse_link_compounds_still_thin"], [])
+
     def test_write_outputs_creates_expected_files(self) -> None:
         terms = {
             stem: make_record(stem)

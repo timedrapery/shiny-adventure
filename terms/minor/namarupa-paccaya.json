@@ -5,8 +5,27 @@
   "part_of_speech": "compound",
   "preferred_translation": "name-and-form as condition",
   "definition": "A standard dependent-origination link expressed as a conditional relation.",
+  "notes": "Use this record when the dependent-arising link is named compactly as namarupa-paccaya rather than quoted as the full namarupapaccaya-salayatanam line. Keep the relation aligned with the repository's stable condition-language and prefer the dedicated full-line formula record when the canonical line itself is present.",
+  "related_terms": [],
   "status": "reviewed",
   "literal_meaning": "name-and-form as condition",
+  "example_phrases": [
+    {
+      "pali": "nāmarūpapaccayā saḷāyatanaṃ",
+      "translation": "with name-and-form as condition, six fields of experience",
+      "notes": "Forward-chain usage.",
+      "source": "SN 12.2"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named namarupa-paccaya link inside the dependent-arising family; prefer the dedicated namarupapaccaya-salayatanam formula record when the whole line is present.",
+    "when_not_to_apply": "Do not paraphrase the relation into loose cause-language or treat this short compound record as the preferred target when the governed full-line formula record already fits the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the link from drifting away from stable condition-language in the dependent-arising family."
+  },
   "tags": [
     "dependent-origination",
     "causality"

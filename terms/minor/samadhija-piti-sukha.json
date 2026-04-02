@@ -4,7 +4,26 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "delight and ease born of samadhi",
-  "definition": "A jhana formula expression used in meditation description.",
+  "definition": "A jhana formula expression for the delight and ease born of samadhi in the second mental theme.",
+  "notes": "Use this record for the delight-and-ease phrase attached to the second mental theme. Keep the line coordinated with pīti and sukha as distinct but paired factors and with samadhi as unification of mind rather than concentration.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "samādhijaṁ pītisukhaṁ",
+      "translation": "delight and ease born of samadhi",
+      "notes": "Second-jhana formula phrase.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use in second-jhana formula contexts for the delight-and-ease pair born of samadhi.",
+    "when_not_to_apply": "Do not collapse pīti and sukha into one vague feeling-word or reframe samadhi as concentration. Use the Pali only where the formula itself is under technical discussion.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the phrase from flattening the paired factors or from importing concentration language back into the jhana sequence."
+  },
   "status": "reviewed",
   "literal_meaning": "delight and ease born of samadhi",
   "tags": [
