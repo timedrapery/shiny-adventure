@@ -67,7 +67,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   Dhamma and carrying out the training, not as an end in itself.
 - In the body tetrad, long and short breathing are not just observed for their
   own sake; breathing is known so the whole body can be experienced and the
-  body process calmed.
+  body conditioner calmed.
 - This edition also treats breathing as a practical bodily conditioner: by
   knowing and adjusting the breath, bodily tension is softened and the body is
   calmed rather than merely watched.
@@ -79,7 +79,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   behind. The section is governed as a mapping of the same in-breath and
   out-breath training onto body, feelings, feeling mind, and dhammas.
 - In the feeling tetrad, the trainee remembers with each breath to bring forth
-  delight and ease, and to experience and calm the mind process of feeling and
+  delight and ease, and to experience and calm the mind conditioner of feeling and
   recognition, including liking, disliking, or neither.
 - In the feeling-mind tetrad, the trainee remembers with each breath to
   experience, gladden, bring the feeling mind to mental composure, and free
