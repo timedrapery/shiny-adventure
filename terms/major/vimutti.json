@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Release from binding conditions and compulsions, especially in the core liberation family.",
-  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. OSF-facing glossary and teaching language can use liberation, and that wording remains readable and doctrinally intelligible. The matured repository default still remains release because it is plainer, less monumental, and better controlled against drift into generic spiritual-liberation rhetoric. The OSF glossary supports release as a house-facing option, while liberation remains tolerated as a controlled explanatory alternate rather than a reason to rotate defaults. Punnaji's practical materials sometimes use emancipation in awakening prose; the repo tolerates that as a controlled practical alternate, not as a new default. MN 39 reinforces vimutti as a core release-family term with its own knowledge-and-vision formula, so the repository keeps it governed as more than inspirational rhetoric. In this repository, vimutti also stays distinct from nissaraṇa as escape, mutti as the shorter freedom noun, tarati and tiṇṇa as crossing language, and the consummation-side designations such as nibbāna. Translators should therefore preserve release as the default and use liberation or emancipation only where the local line clearly benefits from the more familiar OSF-facing or practical idiom.",
+  "notes": "This is a TOLERATE-ALTERNATE case in the OSF reconciliation pass. OSF-facing glossary and teaching language can use liberation, and that wording remains readable and doctrinally intelligible. The matured repository default still remains release because it is plainer, less monumental, and better controlled against drift into generic spiritual-liberation rhetoric. The OSF glossary supports release as a house-facing option, while liberation remains tolerated as a controlled explanatory alternate rather than a reason to rotate defaults. Punnaji's practical materials sometimes use emancipation in awakening prose; the repo tolerates that as a controlled practical alternate, not as a new default. MN 39 reinforces vimutti as a core release-family term with its own knowledge-and-vision formula, so the repository keeps it governed as more than inspirational rhetoric. MN 117 further gives the compound sammāvimutti explicit structural weight as the completion-side release paired with right knowledge. In this repository, vimutti also stays distinct from nissaraṇa as escape, mutti as the shorter freedom noun, tarati and tiṇṇa as crossing language, and the consummation-side designations such as nibbāna. Translators should therefore preserve release as the default and use liberation or emancipation only where the local line clearly benefits from the more familiar OSF-facing or practical idiom.",
   "context_rules": [
     {
       "context": "In most doctrinal and practice contexts",
@@ -61,6 +61,7 @@
     "nirodha",
     "panna",
     "pannavimutti",
+    "samma-vimutti",
     "sunnata",
     "tarati",
     "tinna",
@@ -93,7 +94,8 @@
   "sutta_references": [
     "MN 39",
     "MN 43",
-    "MN 70"
+    "MN 70",
+    "MN 117"
   ],
   "tags": [
     "core-doctrine",

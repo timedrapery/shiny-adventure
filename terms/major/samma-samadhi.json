@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The noble path factor of samādhi, namely the first, second, third, and fourth jhāna.",
-  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
+  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas and places it inside a longer sequence that opens into right knowledge and right release. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
@@ -53,7 +53,9 @@
     "patipada",
     "paṭipadā",
     "samādhi",
-    "samma-sati"
+    "samma-nana",
+    "samma-sati",
+    "samma-vimutti"
   ],
   "example_phrases": [
     {

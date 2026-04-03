@@ -1,0 +1,81 @@
+{
+  "term": "sammāvimutti",
+  "normalized_term": "samma-vimutti",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right release",
+  "preferred_translation": "right release",
+  "alternative_translations": [
+    "right liberation"
+  ],
+  "discouraged_translations": [
+    "salvation",
+    "spiritual freedom"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The right release that comes forth for one with right knowledge and marks the completed side of the path.",
+  "notes": "MN 117 gives sammāvimutti structural weight as the factor that comes forth for one with right knowledge. The repository therefore treats right release as an explicit completion-side path term rather than a vague inspirational flourish. In the tenfold close of MN 117, right release belongs to the arahant, the one beyond training, rather than to the trainee who is still eight-factored. Right liberation remains a controlled alternate when explanatory prose benefits from the more familiar liberation-language, but right release remains the governed default.",
+  "context_rules": [
+    {
+      "context": "In most path-sequence and doctrinal contexts",
+      "rendering": "right release",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In explanatory prose where familiar liberation-language is locally helpful",
+      "rendering": "right liberation",
+      "notes": "Controlled alternate."
+    },
+    {
+      "context": "When contrasting the trainee with the one beyond training in MN 117-style path exposition",
+      "rendering": "right release",
+      "notes": "Keep the completion-side factor explicit."
+    }
+  ],
+  "related_terms": [
+    "arahant",
+    "asekha",
+    "magga",
+    "samma-nana",
+    "samma-samadhi",
+    "sekha",
+    "vimutti"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammāvimutti",
+      "translation": "right release",
+      "notes": "Headword form in the tenfold completion sequence.",
+      "source": "MN 117"
+    },
+    {
+      "pali": "sammāñāṇassa sammāvimutti",
+      "translation": "for one with right knowledge, right release",
+      "notes": "Shows the sequence from right knowledge to right release.",
+      "source": "MN 117"
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "liberation",
+    "path-family"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 117",
+      "kind": "context-rule",
+      "scope": "Supports treating sammāvimutti as an explicit completion-side path factor paired with sammā-ñāṇa."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'right release' as the default rendering in the entry's governed path-sequence and doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'right liberation' only where a recorded context rule or unusually explanatory English line clearly benefits. Do not turn the term into generic spiritual-release rhetoric or detach it from the tenfold completion sequence of MN 117.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the factor from disappearing into generic liberation-language or being detached from the completion-side path logic of MN 117."
+  }
+}

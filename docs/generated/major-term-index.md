@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 232
+- Entries: 234
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -146,7 +146,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [kamacchanda](../../terms/major/kamacchanda.json) | kāmacchanda | sensual distraction | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
 | [kamma](../../terms/major/kamma.json) | kamma | action | reviewed | core-doctrine, causality, ethics |
 | [kamupadana](../../terms/major/kamupadana.json) | kāmupādāna | sensual clinging | stable | core-doctrine, dependent-origination, mental-qualities, translation-sensitive |
-| [karuna](../../terms/major/karuna.json) | karuṇā | compassion | stable | core-practice, mental-qualities, meditative-development |
+| [karuna](../../terms/major/karuna.json) | karuṇā | kindness towards others | stable | core-practice, mental-qualities, meditative-development |
 | [kaya-vinnana](../../terms/major/kaya-vinnana.json) | kāyaviññāṇa | body-knowing | reviewed | sense-fields, core-doctrine |
 | [kaya](../../terms/major/kaya.json) | kāya | body | reviewed | core-doctrine, core-practice, embodiment |
 | [kayagata-sati](../../terms/major/kayagata-sati.json) | kāyagatā sati | kāyagatā sati | reviewed | core-practice, meditative-development |
@@ -260,11 +260,13 @@ Generated navigation index for the flat `terms/major/` directory.
 | [samma-ajiva](../../terms/major/samma-ajiva.json) | sammā-ājīva | right livelihood | reviewed | core-practice, core-doctrine |
 | [samma-ditthi](../../terms/major/samma-ditthi.json) | sammā-diṭṭhi | right view | reviewed | core-doctrine, core-practice |
 | [samma-kammanta](../../terms/major/samma-kammanta.json) | sammā-kammanta | right action | reviewed | core-practice, core-doctrine |
+| [samma-nana](../../terms/major/samma-nana.json) | sammā-ñāṇa | right knowledge | reviewed | core-doctrine, core-practice, knowledge-cluster, path-family |
 | [samma-samadhi](../../terms/major/samma-samadhi.json) | sammā-samādhi | right mental composure | reviewed | core-practice, core-doctrine, meditative-development |
 | [samma-sankappa](../../terms/major/samma-sankappa.json) | sammāsaṅkappa | right attitude | reviewed | core-practice, core-doctrine |
 | [samma-sati](../../terms/major/samma-sati.json) | sammā-sati | right remembering | reviewed | core-practice, core-doctrine, mental-qualities |
 | [samma-vaca](../../terms/major/samma-vaca.json) | sammā-vācā | right speech | reviewed | core-practice, core-doctrine |
 | [samma-vayama](../../terms/major/samma-vayama.json) | sammā-vāyāma | right effort | reviewed | core-practice, core-doctrine, mental-qualities |
+| [samma-vimutti](../../terms/major/samma-vimutti.json) | sammāvimutti | right release | reviewed | core-doctrine, core-practice, liberation, path-family |
 | [sampajanna](../../terms/major/sampajanna.json) | sampajañña | clear knowing | reviewed | core-practice, mental-qualities, embodiment |
 | [samsara](../../terms/major/samsara.json) | saṃsāra | saṃsāra | stable | core-doctrine, translation-sensitive, liberation |
 | [samudaya](../../terms/major/samudaya.json) | samudaya | origin | stable | core-doctrine, four-noble-truths, dependent-origination |

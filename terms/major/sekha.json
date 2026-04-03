@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One still in training on the noble path, not yet fully complete.",
-  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase. The term should be heard as a formal path-classification: it refers to those who have entered noble training but have not yet reached the completion marked by the arahant. The OSF glossary also keeps sekha aligned with the technical trainee-versus-asekha distinction, supporting the current policy.",
+  "notes": "The project prefers trainee because it is direct and doctrinally precise enough without sounding stiff. One in training is acceptable in explanatory prose when the sentence needs a fuller phrase. The term should be heard as a formal path-classification: it refers to those who have entered noble training but have not yet reached the completion marked by the arahant. MN 117 is a useful control passage here: the trainee is eight-factored, while the completed side of the path opens into right knowledge and right release for the one beyond training. The OSF glossary also keeps sekha aligned with the technical trainee-versus-asekha distinction, supporting the current policy.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -40,6 +40,8 @@
     "asekha",
     "puthujjana",
     "sakadagami",
+    "samma-nana",
+    "samma-vimutti",
     "sakadāgāmī",
     "sotapanna",
     "sotāpanna",
@@ -61,7 +63,8 @@
     }
   ],
   "sutta_references": [
-    "MN 53"
+    "MN 53",
+    "MN 117"
   ],
   "tags": [
     "core-doctrine",

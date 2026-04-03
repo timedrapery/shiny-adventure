@@ -94,7 +94,7 @@ five faculties, the five powers, the seven awakening factors, and the noble
 eightfold path. There are such bhikkhus in this Saṅgha.
 
 "In this Saṅgha there are bhikkhus devoted to developing friendliness,
-compassion, gladness, dynamic balance, contemplation of the unattractive, and
+kindness towards others, gladness, dynamic balance, contemplation of the unattractive, and
 the perception of impermanence. There are such bhikkhus in this Saṅgha.
 
 "In this Saṅgha there are bhikkhus devoted to developing ānāpānasati

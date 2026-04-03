@@ -1,0 +1,81 @@
+{
+  "term": "sammā-ñāṇa",
+  "normalized_term": "samma-nana",
+  "entry_type": "major",
+  "part_of_speech": "compound",
+  "literal_meaning": "right knowledge",
+  "preferred_translation": "right knowledge",
+  "alternative_translations": [
+    "right knowing"
+  ],
+  "discouraged_translations": [
+    "right insight",
+    "right gnosis"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The right knowledge that comes forth for one with right mental composure and belongs to the completed side of the path.",
+  "notes": "MN 117 gives sammā-ñāṇa structural weight: for one with right mental composure, right knowledge comes forth; for one with right knowledge, right release comes forth. The repository therefore treats this as more than a document-local convenience. It belongs to the completion side of the path, where the trainee's eight factors open into the ten-factored completion of the arahant, the one beyond training. Right knowing can remain available when the local English benefits from a slightly more active noun, but right knowledge is the stable house default.",
+  "context_rules": [
+    {
+      "context": "In most path-sequence and doctrinal contexts",
+      "rendering": "right knowledge",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In prose emphasizing the active arriving of knowing rather than the settled noun",
+      "rendering": "right knowing",
+      "notes": "Controlled alternate."
+    },
+    {
+      "context": "When contrasting the trainee with the one beyond training in MN 117-style path exposition",
+      "rendering": "right knowledge",
+      "notes": "Keep the completion-side factor explicit."
+    }
+  ],
+  "related_terms": [
+    "arahant",
+    "asekha",
+    "magga",
+    "nana",
+    "samma-samadhi",
+    "samma-vimutti",
+    "sekha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sammāñāṇaṃ",
+      "translation": "right knowledge",
+      "notes": "Headword form in the tenfold completion sequence.",
+      "source": "MN 117"
+    },
+    {
+      "pali": "sammāsamādhissa sammāñāṇaṃ",
+      "translation": "for one with right mental composure, right knowledge",
+      "notes": "Shows the sequence from right mental composure to right knowledge.",
+      "source": "MN 117"
+    }
+  ],
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "knowledge-cluster",
+    "path-family"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 117",
+      "kind": "context-rule",
+      "scope": "Supports treating sammā-ñāṇa as an explicit completion-side path factor paired with sammāvimutti."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'right knowledge' as the default rendering in the entry's governed path-sequence and doctrinal contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'right knowing' only where a recorded context rule or unusually active English line clearly benefits. Do not flatten the term into generic insight-language or treat it as a decorative afterthought.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the factor from disappearing into generic knowledge-language or being detached from the tenfold completion sequence of MN 117."
+  }
+}

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The path of practice, especially the path leading to the quenching of dissatisfaction.",
-  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default. The OSF publication What Is And Is Not The Path strongly reinforces magga as a practical system that functions in daily life and leads directly to the ending of dissatisfaction. In OSF practice-facing explanation, making a wholesome change is a legitimate concise description of the path-side move, as long as translators keep the line tied to wholesome practice, right view, and repeated correction rather than reducing magga to generic self-improvement. The repository also now preserves a stronger OSF clarification that right view, right remembering, and right effort are core live factors which run circles around one another and help animate the rest of the eightfold path rather than functioning as isolated boxes in a list.",
+  "notes": "The project prefers path because it is standard, direct, and doctrinally clear. Way can work in explanatory prose when the English line wants less technical weight, but path remains the default for the noble eightfold path and related formulations. Ven. Dr. M. Punnaji consistently uses eightfold way in his retreat materials, so way is preserved here as a source-backed alternate rather than replacing the repo default. The OSF publication What Is And Is Not The Path strongly reinforces magga as a practical system that functions in daily life and leads directly to the ending of dissatisfaction. In OSF practice-facing explanation, making a wholesome change is a legitimate concise description of the path-side move, as long as translators keep the line tied to wholesome practice, right view, and repeated correction rather than reducing magga to generic self-improvement. The repository also now preserves a stronger OSF clarification that right view, right remembering, and right effort are core live factors which run circles around one another and help animate the rest of the eightfold path rather than functioning as isolated boxes in a list. MN 117 further clarifies that the trainee is eight-factored while the completed path of the arahant opens into right knowledge and right release.",
   "context_rules": [
     {
       "context": "In doctrinal contexts referring to the noble path or a defined course of practice",
@@ -52,9 +52,11 @@
     "phala",
     "samma-ajiva",
     "samma-ditthi",
+    "samma-nana",
     "samma-kammanta",
     "samma-samadhi",
     "samma-sati",
+    "samma-vimutti",
     "samma-vaca",
     "samma-vayama",
     "samma-sankappa",
@@ -76,6 +78,7 @@
   ],
   "sutta_references": [
     "SN 45.8",
+    "MN 117",
     "SN 56.11"
   ],
   "tags": [

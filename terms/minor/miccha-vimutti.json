@@ -1,0 +1,24 @@
+{
+  "term": "micchā-vimutti",
+  "normalized_term": "miccha-vimutti",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong release",
+  "preferred_translation": "wrong release",
+  "alternative_translations": [
+    "misdirected release"
+  ],
+  "discouraged_translations": [
+    "false liberation"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong release opposed to right release.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "liberation"
+  ],
+  "status": "reviewed"
+}

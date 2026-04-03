@@ -3,17 +3,17 @@
   "normalized_term": "anukampa",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "sympathy, compassionate concern",
+  "literal_meaning": "sympathy, kind concern",
   "preferred_translation": "sympathy",
   "alternative_translations": [
-    "compassionate concern"
+    "kind concern"
   ],
   "discouraged_translations": [
     "pity"
   ],
   "untranslated_preferred": false,
   "definition": "Sympathetic concern that responds to another's condition with humane care.",
-  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Compassionate concern remains acceptable when explanatory prose needs a fuller phrase. The OSF glossary likewise treats anukampā as humane sympathetic concern rather than as sentimental pity, which supports the current handling.",
+  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Kind concern remains acceptable when explanatory prose needs a fuller phrase. The OSF glossary likewise treats anukampā as humane sympathetic concern rather than as sentimental pity, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most practical and narrative contexts",
@@ -22,7 +22,7 @@
     },
     {
       "context": "In explanatory prose where the responsive and caring dimension needs more emphasis",
-      "rendering": "compassionate concern",
+      "rendering": "kind concern",
       "notes": "Acceptable alternate when sympathy sounds too brief."
     }
   ],
@@ -41,7 +41,7 @@
     {
       "pali": "lokānukampāya",
       "translation": "for sympathy toward the world",
-      "notes": "Shows the term in a broad compassionate register.",
+      "notes": "Shows the term in a broad caring register.",
       "source": "MN 26"
     }
   ],
