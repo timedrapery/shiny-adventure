@@ -27,3 +27,10 @@ Current MN 117 surfaces:
   shareable translation text
 - [mn117-mahacattarisaka-sutta-notes.md](mn117-mahacattarisaka-sutta-notes.md):
   companion translator notes and rationale
+
+Current MN 19 surfaces:
+
+- [mn19-dvedhavitakka-sutta.md](mn19-dvedhavitakka-sutta.md): main shareable
+  translation text
+- [mn19-dvedhavitakka-sutta-notes.md](mn19-dvedhavitakka-sutta-notes.md):
+  companion translator notes and rationale
