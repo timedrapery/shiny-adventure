@@ -1,0 +1,45 @@
+{
+  "term": "byāpādavitakka",
+  "normalized_term": "byapada-vitakka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "thinking of ill will",
+  "preferred_translation": "thinking of ill will",
+  "alternative_translations": [
+    "ill-will thinking"
+  ],
+  "discouraged_translations": [
+    "malicious thought",
+    "angry thought"
+  ],
+  "definition": "Unwholesome thinking shaped by hostility or ill will in the MN 19 twofold division.",
+  "notes": "Use this record in ethical-thinking contexts such as MN 19. The compound prefers ill-will wording rather than the headword default aversive distraction because the passage is sorting kinds of hostile thinking, not naming the hindrance as a full practice category.",
+  "related_terms": [
+    "byapada",
+    "abyapada-vitakka",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "byāpādavitakko",
+      "translation": "thinking of ill will",
+      "notes": "Second member of the unwholesome class in MN 19.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for MN 19-style ethical analysis of hostile or ill-willed thinking.",
+    "when_not_to_apply": "Do not inherit aversive distraction mechanically from the headword when the point is the hostile content of thinking rather than the hindrance framework as a whole.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compound from collapsing into generic anger-language or into the broader hindrance label."
+  },
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

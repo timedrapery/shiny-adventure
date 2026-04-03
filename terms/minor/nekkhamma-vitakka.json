@@ -1,0 +1,45 @@
+{
+  "term": "nekkhammavitakka",
+  "normalized_term": "nekkhamma-vitakka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "thinking of renunciation",
+  "preferred_translation": "thinking of renunciation",
+  "alternative_translations": [
+    "renunciant thinking"
+  ],
+  "discouraged_translations": [
+    "thought of renunciation"
+  ],
+  "definition": "Wholesome thinking of renunciation in the MN 19 twofold division.",
+  "notes": "Use this record in MN 19-style analytical and practical contexts where wholesome thinking is explicitly classified. Keep the compound tied to nekkhamma as freeing renunciation and to vitakka as active thinking rather than passive occurrence.",
+  "related_terms": [
+    "kama-vitakka",
+    "nekkhamma",
+    "samma-sankappa",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nekkhammavitakko",
+      "translation": "thinking of renunciation",
+      "notes": "First member of the wholesome class in MN 19.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for MN 19-style ethical analysis of wholesome renunciation-oriented thinking.",
+    "when_not_to_apply": "Do not flatten the compound into a single thought-event or let renunciation drift into self-denial language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compound from losing either the active thinking force or the freeing sense of renunciation."
+  },
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

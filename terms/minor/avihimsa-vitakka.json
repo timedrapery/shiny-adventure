@@ -1,0 +1,46 @@
+{
+  "term": "avihiṁsāvitakka",
+  "normalized_term": "avihimsa-vitakka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "thinking of non-harming",
+  "preferred_translation": "thinking of non-harming",
+  "alternative_translations": [
+    "harmless thinking"
+  ],
+  "discouraged_translations": [
+    "compassionate thought",
+    "thought of harmlessness"
+  ],
+  "definition": "Wholesome thinking of non-harming in the MN 19 twofold division.",
+  "notes": "Use this record in MN 19-style analytical and practical contexts. Keep the phrase concrete as non-harming and do not replace it with more diffuse kindness or compassion language.",
+  "related_terms": [
+    "avihimsa",
+    "vihimsa-vitakka",
+    "samma-sankappa",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "avihiṁsāvitakko",
+      "translation": "thinking of non-harming",
+      "notes": "Third member of the wholesome class in MN 19.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for MN 19-style ethical analysis of wholesome thinking shaped by non-harming.",
+    "when_not_to_apply": "Do not broaden the phrase into compassion-language or weaken it into abstract harmlessness when the practical non-harming force matters.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compound from drifting away from practical non-harming."
+  },
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}
