@@ -4,11 +4,43 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "noble eightfold path",
-  "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
+  "alternative_translations": [
+    "noble eightfold way"
+  ],
+  "discouraged_translations": [
+    "noble eight-part path"
+  ],
+  "definition": "The collective designation for the eight-factor noble path of practice.",
+  "notes": "This record names the whole path as one governed doctrinal unit. It should point readers back to the eight individual same-factor entries rather than flattening them into a single slogan or replacing the more detailed headword records that control translation policy.",
+  "related_terms": [
+    "ariya",
+    "magga",
+    "samma-ajiva",
+    "samma-ditthi",
+    "samma-kammanta",
+    "samma-samadhi",
+    "samma-sankappa",
+    "samma-sati",
+    "samma-vaca",
+    "samma-vayama"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ariyo aṭṭhaṅgiko maggo",
+      "translation": "the noble eightfold path",
+      "notes": "Canonical collective label for the governed path-factor family.",
+      "source": "SN 45.8"
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "noble eightfold path",
   "tags": [
     "core-doctrine",
-    "core-practice"
+    "core-practice",
+    "path-family"
+  ],
+  "sutta_references": [
+    "SN 45.8",
+    "MN 117"
   ]
 }

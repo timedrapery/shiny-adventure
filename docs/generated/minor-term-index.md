@@ -108,7 +108,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [arammana-paccaya](../../terms/minor/arammana-paccaya.json) | arammana-paccaya | object condition | reviewed | causality |
 | [arammana](../../terms/minor/arammana.json) | arammana | object | reviewed | causality |
 | [arhat](../../terms/minor/arhat.json) | arhat | arhat | reviewed | persons, translation-sensitive |
-| [ariya-atthangika-magga](../../terms/minor/ariya-atthangika-magga.json) | ariya-atthangika-magga | noble eightfold path | reviewed | core-doctrine, core-practice |
+| [ariya-atthangika-magga](../../terms/minor/ariya-atthangika-magga.json) | ariya-atthangika-magga | noble eightfold path | reviewed | core-doctrine, core-practice, path-family |
 | [ariyasangha](../../terms/minor/ariyasangha.json) | ariyasaṅgha | noble sangha | reviewed | persons, liberation, translation-sensitive |
 | [arupa-dhatu](../../terms/minor/arupa-dhatu.json) | arūpa-dhātu | formless element | reviewed | core-doctrine |
 | [asamsagga](../../terms/minor/asamsagga.json) | asaṃsagga | non-entanglement | reviewed | core-practice |
