@@ -1,0 +1,44 @@
+{
+  "term": "vihiṁsāvitakka",
+  "normalized_term": "vihimsa-vitakka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "thinking of harming",
+  "preferred_translation": "thinking of harming",
+  "alternative_translations": [
+    "harmful thinking"
+  ],
+  "discouraged_translations": [
+    "cruel thought"
+  ],
+  "definition": "Unwholesome thinking bent toward harming in the MN 19 twofold division.",
+  "notes": "Use this record when MN 19 or similar contexts classify harmful thinking explicitly. Keep the compound behaviorally concrete and avoid turning it into a vague emotional label or a merely literary cruelty-word.",
+  "related_terms": [
+    "avihimsa",
+    "avihimsa-vitakka",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vihiṁsāvitakko",
+      "translation": "thinking of harming",
+      "notes": "Third member of the unwholesome class in MN 19.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for MN 19-style ethical analysis of thinking bent toward harming.",
+    "when_not_to_apply": "Do not soften the phrase into a merely literary cruelty-word or flatten it into generic negativity when the practical harm-direction matters.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compound from losing the concrete practical force of harming."
+  },
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

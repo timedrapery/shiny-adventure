@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 821
+- Entries: 827
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -17,6 +17,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [abrahmacariya-veramani](../../terms/minor/abrahmacariya-veramani.json) | abrahmacariya-veramani | abstaining from sexual activity | reviewed | ethics |
 | [abrahmacariya](../../terms/minor/abrahmacariya.json) | abrahmacariya | unchastity | reviewed | ethics |
 | [abyapada-dhatu](../../terms/minor/abyapada-dhatu.json) | abyāpāda-dhātu | element of non-ill-will | reviewed | core-doctrine |
+| [abyapada-vitakka](../../terms/minor/abyapada-vitakka.json) | abyāpādavitakka | thinking of non-ill-will | reviewed | core-practice, mental-qualities, ethics |
 | [acariya](../../terms/minor/acariya.json) | acariya | teacher | reviewed | persons |
 | [addha](../../terms/minor/addha.json) | aḍḍha | wealthy | reviewed | core-doctrine |
 | [adhikarana](../../terms/minor/adhikarana.json) | adhikaraṇa | case | reviewed | core-practice |
@@ -138,6 +139,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [avigata-paccaya](../../terms/minor/avigata-paccaya.json) | avigata-paccaya | non-disappearance condition | reviewed | causality |
 | [avigata](../../terms/minor/avigata.json) | avigata | non-disappearance | reviewed | causality |
 | [avihimsa-dhatu](../../terms/minor/avihimsa-dhatu.json) | avihiṃsā-dhātu | element of harmlessness | reviewed | core-doctrine |
+| [avihimsa-vitakka](../../terms/minor/avihimsa-vitakka.json) | avihiṁsāvitakka | thinking of non-harming | reviewed | core-practice, mental-qualities, ethics |
 | [avijja-anusaya](../../terms/minor/avijja-anusaya.json) | avijjā-anusaya | underlying tendency toward ignorance | stable | core-doctrine, mental-qualities |
 | [avijja-nirodha](../../terms/minor/avijja-nirodha.json) | avijja-nirodha | quenching of ignorance | reviewed | dependent-origination, liberation |
 | [avijja-paccaya](../../terms/minor/avijja-paccaya.json) | avijja-paccaya | ignorance as condition | reviewed | dependent-origination, causality |
@@ -186,6 +188,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [brahmavihara](../../terms/minor/brahmavihara.json) | brahmavihāra | divine abiding | reviewed | core-practice, meditative-development |
 | [buddhanussati](../../terms/minor/buddhanussati.json) | buddhānussati | recollection of the buddha | reviewed | core-practice |
 | [byapada-kayagantha](../../terms/minor/byapada-kayagantha.json) | byāpāda kāyagantha | bodily knot of ill will | stable | core-doctrine, mental-qualities, bondage-imagery |
+| [byapada-vitakka](../../terms/minor/byapada-vitakka.json) | byāpādavitakka | thinking of ill will | reviewed | core-practice, mental-qualities, ethics |
 
 ## C
 
@@ -365,6 +368,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [kalyanamitta](../../terms/minor/kalyanamitta.json) | kalyāṇamitta | good friend | reviewed | core-practice, persons |
 | [kalyanamittata](../../terms/minor/kalyanamittata.json) | kalyāṇamittatā | good friendship | draft | core-practice, persons |
 | [kama-dhatu](../../terms/minor/kama-dhatu.json) | kāma-dhātu | sensuality element | reviewed | core-doctrine, translation-sensitive |
+| [kama-vitakka](../../terms/minor/kama-vitakka.json) | kāmavitakka | thinking of sensuality | reviewed | core-practice, mental-qualities, ethics |
 | [kamaraga-anusaya](../../terms/minor/kamaraga-anusaya.json) | kāmarāga-anusaya | underlying tendency toward sensual passion | stable | core-doctrine, mental-qualities |
 | [kamasava](../../terms/minor/kamasava.json) | kāmāsava | sensual outflow | stable | core-doctrine, mental-qualities |
 | [kamayoga](../../terms/minor/kamayoga.json) | kāmayoga | sensual yoke | stable | core-doctrine, mental-qualities, bondage-imagery |
@@ -513,6 +517,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [navaka](../../terms/minor/navaka.json) | navaka | junior monastic | reviewed | persons |
 | [naya](../../terms/minor/naya.json) | naya | line of interpretation | draft | core-doctrine |
 | [nekkhamma-dhatu](../../terms/minor/nekkhamma-dhatu.json) | nekkhamma-dhātu | element of renunciation | reviewed | core-doctrine |
+| [nekkhamma-vitakka](../../terms/minor/nekkhamma-vitakka.json) | nekkhammavitakka | thinking of renunciation | reviewed | core-practice, mental-qualities, ethics |
 | [nevasannanasannayatana](../../terms/minor/nevasannanasannayatana.json) | nevasaññānāsaññāyatana | sphere of neither-recognition-nor-non-recognition | reviewed | meditative-development |
 | [neyya](../../terms/minor/neyya.json) | neyya | trainable | reviewed | persons |
 | [nharu](../../terms/minor/nharu.json) | nharu | sinews | reviewed | embodiment, meditative-development |
@@ -875,6 +880,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vigata-paccaya](../../terms/minor/vigata-paccaya.json) | vigata-paccaya | disappearance condition | reviewed | causality |
 | [vigata](../../terms/minor/vigata.json) | vigata | disappearance | reviewed | causality |
 | [vihara](../../terms/minor/vihara.json) | vihāra | monastery | reviewed | core-practice |
+| [vihimsa-vitakka](../../terms/minor/vihimsa-vitakka.json) | vihiṁsāvitakka | thinking of harming | reviewed | core-practice, mental-qualities, ethics |
 | [vikala-bhojana](../../terms/minor/vikala-bhojana.json) | vikālabhojana | untimely eating | reviewed | ethics |
 | [vikkhambhana](../../terms/minor/vikkhambhana.json) | vikkhambhana | suppression | reviewed | core-practice |
 | [vikkhayitaka](../../terms/minor/vikkhayitaka.json) | vikkhayitaka | gnawed corpse | reviewed | meditative-development, embodiment |

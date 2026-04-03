@@ -1,0 +1,45 @@
+{
+  "term": "kāmavitakka",
+  "normalized_term": "kama-vitakka",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "thinking of sensuality",
+  "preferred_translation": "thinking of sensuality",
+  "alternative_translations": [
+    "sensual thinking"
+  ],
+  "discouraged_translations": [
+    "sensual thought",
+    "lustful thought"
+  ],
+  "definition": "Unwholesome thinking directed toward sensuality in the MN 19 twofold division.",
+  "notes": "Use this record in analytical or practical contexts where kāma and vitakka appear together as one of the unwholesome classes of thinking. Keep kāma broad as sensuality rather than narrowing the phrase to sexuality, and keep vitakka practical as thinking rather than a bare isolated thought.",
+  "related_terms": [
+    "kama",
+    "nekkhamma-vitakka",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāmavitakko",
+      "translation": "thinking of sensuality",
+      "notes": "First member of the unwholesome class in MN 19.",
+      "source": "MN 19"
+    }
+  ],
+  "sutta_references": [
+    "MN 19"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for MN 19-style analytical and practical contexts naming unwholesome sensual thinking.",
+    "when_not_to_apply": "Do not narrow the phrase to sexuality or generic desire, and do not reduce vitakka to a momentary thought when the practical ethical-thinking force is in view.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compound from drifting toward sexual overtranslation or flattening into generic desire-language."
+  },
+  "tags": [
+    "core-practice",
+    "mental-qualities",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

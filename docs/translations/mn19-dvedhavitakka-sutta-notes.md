@@ -24,6 +24,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   `thinking of sensuality`, `thinking of ill will`, `thinking of harming`,
   `thinking of renunciation`, `thinking of non-ill-will`, and `thinking of
   non-harming`.
+- Those six compounds are now also explicit supporting minor records in the
+  repo rather than remaining document-only translation decisions.
 - `samādhi` remains `mental composure`.
 - `ekaggatā` family language in this discourse remains governed by
   `directness`, not one-pointedness.
