@@ -40,9 +40,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   class-language: `dwell by repeatedly dividing thinking into two classes`.
   The point is practical sorting, not mystical inwardness.
 - `yaññadeva ... bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti
-  cetaso` is rendered `Whatever a bhikkhu frequently thinks and ponders, that
-  becomes the inclination of the feeling mind` so the line stays active and
-  practical without sounding mechanically literal.
+  cetaso` is rendered `Whatever a bhikkhu frequently thinks and ponders,
+  toward that the feeling mind inclines` so the line stays active, practical,
+  and closer to the directional force of the source.
 - `satikaraṇīyameva ahosi: ete dhammā` is rendered `I only needed to remember:
   'These dhammas are here.'` The line is kept tied to remembering-language
   rather than recast as bare awareness.

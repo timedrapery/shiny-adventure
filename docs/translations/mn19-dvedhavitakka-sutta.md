@@ -69,19 +69,19 @@ The same was true for thinking of ill will and thinking of harming.
 
 ### The Inclination Of The Feeling Mind
 
-"Whatever a bhikkhu frequently thinks and ponders, that becomes the
-inclination of the feeling mind.
+"Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
+mind inclines.
 
-If a bhikkhu frequently thinks and ponders thinking of sensuality, one gives
-up thinking of renunciation and makes much of thinking of sensuality. The
+If a bhikkhu frequently thinks and ponders thinking of sensuality, thinking of
+renunciation is let go, thinking of sensuality is made much of, and the
 feeling mind inclines that way.
 
-If a bhikkhu frequently thinks and ponders thinking of ill will, one gives up
-thinking of non-ill-will and makes much of thinking of ill will. The feeling
+If a bhikkhu frequently thinks and ponders thinking of ill will, thinking of
+non-ill-will is let go, thinking of ill will is made much of, and the feeling
 mind inclines that way.
 
-If a bhikkhu frequently thinks and ponders thinking of harming, one gives up
-thinking of non-harming and makes much of thinking of harming. The feeling
+If a bhikkhu frequently thinks and ponders thinking of harming, thinking of
+non-harming is let go, thinking of harming is made much of, and the feeling
 mind inclines that way.
 
 ### The First Cowherd Simile
@@ -127,19 +127,19 @@ The same was true for thinking of non-ill-will and thinking of non-harming.
 
 ### The Inclination Of The Feeling Mind, Again
 
-"Whatever a bhikkhu frequently thinks and ponders, that becomes the
-inclination of the feeling mind.
+"Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
+mind inclines.
 
-If a bhikkhu frequently thinks and ponders thinking of renunciation, one gives
-up thinking of sensuality and makes much of thinking of renunciation. The
+If a bhikkhu frequently thinks and ponders thinking of renunciation, thinking
+of sensuality is let go, thinking of renunciation is made much of, and the
 feeling mind inclines that way.
 
-If a bhikkhu frequently thinks and ponders thinking of non-ill-will, one gives
-up thinking of ill will and makes much of thinking of non-ill-will. The
+If a bhikkhu frequently thinks and ponders thinking of non-ill-will, thinking
+of ill will is let go, thinking of non-ill-will is made much of, and the
 feeling mind inclines that way.
 
-If a bhikkhu frequently thinks and ponders thinking of non-harming, one gives
-up thinking of harming and makes much of thinking of non-harming. The feeling
+If a bhikkhu frequently thinks and ponders thinking of non-harming, thinking
+of harming is let go, thinking of non-harming is made much of, and the feeling
 mind inclines that way.
 
 ### The Second Cowherd Simile
@@ -274,8 +274,8 @@ female decoy has been destroyed.
 
 ### The Instruction
 
-"Whatever should be done by a teacher seeking the welfare of disciples, who has
-kindness towards them and acts from that kindness, has been done for you by me.
+"Whatever should be done by a teacher seeking the welfare of disciples, out of
+kindness towards them, has been done for you by me.
 
 Here are these roots of trees, bhikkhus; here are these empty huts. Think like
 this, bhikkhus; do not be negligent; do not later become regretful. This is
