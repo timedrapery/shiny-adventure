@@ -104,13 +104,13 @@ in one whose mind is noble, whose mind is without outflows, who possesses the
 noble path and develops the noble path: this is called right view that is
 noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort for the abandoning of wrong view and for the taking up of
-right view; that is one's right effort.
+"One makes effort to abandon wrong view and to take up right view; that is
+one's right effort.
 
 "Remembering, one abandons wrong view; remembering, one lives having taken up
 right view; that is one's right remembering.
 
-"These three qualities keep circling around right view, namely:
+"These three qualities keep running and circling around right view, namely:
 right view, right effort, and right remembering.
 
 ### Right Attitude
@@ -152,13 +152,13 @@ possesses the noble path and develops the noble path, that verbal conditioning
 is right attitude that is noble, without outflows, beyond-the-world, a factor
 of the path.
 
-"One makes effort for the abandoning of wrong attitude and for the taking up of
-right attitude; that is one's right effort.
+"One makes effort to abandon wrong attitude and to take up right attitude; that
+is one's right effort.
 
 "Remembering, one abandons wrong attitude; remembering, one lives having taken
 up right attitude; that is one's right remembering.
 
-"These three qualities keep circling around right attitude, namely:
+"These three qualities keep running and circling around right attitude, namely:
 right view, right effort, and right remembering.
 
 ### Speech, Action, And Livelihood
@@ -194,19 +194,18 @@ acquisitions.
 "And what is right speech that is noble, without outflows, beyond-the-world, a
 factor of the path?
 
-"Whatever avoidance, abstaining, complete abstaining, refraining from the four
-verbal misconducts there is in one whose mind is noble, whose mind is without
-outflows, who possesses the noble path and develops the noble path: this is
-right speech that is noble, without outflows, beyond-the-world, a factor of
-the path.
+"That avoidance, abstaining, complete abstaining, and refraining from the four
+verbal misconducts in one whose mind is noble, whose mind is without outflows,
+who possesses the noble path and develops the noble path, is right speech that
+is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort for the abandoning of wrong speech and for the taking up of
-right speech; that is one's right effort.
+"One makes effort to abandon wrong speech and to take up right speech; that is
+one's right effort.
 
 "Remembering, one abandons wrong speech; remembering, one lives having taken up
 right speech; that is one's right remembering.
 
-"These three qualities keep circling around right speech, namely:
+"These three qualities keep running and circling around right speech, namely:
 right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
@@ -240,19 +239,18 @@ acquisitions.
 "And what is right action that is noble, without outflows, beyond-the-world, a
 factor of the path?
 
-"Whatever avoidance, abstaining, complete abstaining, refraining from the three
-bodily misconducts there is in one whose mind is noble, whose mind is without
-outflows, who possesses the noble path and develops the noble path: this is
-right action that is noble, without outflows, beyond-the-world, a factor of
-the path.
+"That avoidance, abstaining, complete abstaining, and refraining from the three
+bodily misconducts in one whose mind is noble, whose mind is without outflows,
+who possesses the noble path and develops the noble path, is right action that
+is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort for the abandoning of wrong action and for the taking up of
-right action; that is one's right effort.
+"One makes effort to abandon wrong action and to take up right action; that is
+one's right effort.
 
 "Remembering, one abandons wrong action; remembering, one lives having taken up
 right action; that is one's right remembering.
 
-"These three qualities keep circling around right action, namely:
+"These three qualities keep running and circling around right action, namely:
 right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
@@ -263,7 +261,7 @@ view.
 
 "And what is wrong livelihood?
 
-"Deceiving, talking around, hinting, belittling, and pursuing gain with gain.
+"Deceiving, talking around, hinting, belittling, and chasing gain with gain.
 
 "This is wrong livelihood.
 
@@ -287,19 +285,19 @@ acquisitions.
 "And what is right livelihood that is noble, without outflows,
 beyond-the-world, a factor of the path?
 
-"Whatever avoidance, abstaining, complete abstaining, refraining from wrong
-livelihood there is in one whose mind is noble, whose mind is without outflows,
-who possesses the noble path and develops the noble path: this is right
-livelihood that is noble, without outflows, beyond-the-world, a factor of the
-path.
+"That avoidance, abstaining, complete abstaining, and refraining from wrong
+livelihood in one whose mind is noble, whose mind is without outflows, who
+possesses the noble path and develops the noble path, is right livelihood that
+is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort for the abandoning of wrong livelihood and for the taking up
-of right livelihood; that is one's right effort.
+"One makes effort to abandon wrong livelihood and to take up right livelihood;
+that is one's right effort.
 
 "Remembering, one abandons wrong livelihood; remembering, one lives having
 taken up right livelihood; that is one's right remembering.
 
-"These three qualities keep circling around right livelihood, namely:
+"These three qualities keep running and circling around right livelihood,
+namely:
 right view, right effort, and right remembering.
 
 ### The Path Sequence
