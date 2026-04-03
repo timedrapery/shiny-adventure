@@ -227,7 +227,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [citta-muduta](../../terms/minor/citta-muduta.json) | citta-muduta | pliancy of mind | reviewed | mental-qualities |
 | [citta-pagunnata](../../terms/minor/citta-pagunnata.json) | citta-pagunnata | proficiency of mind | reviewed | mental-qualities |
 | [citta-passaddhi](../../terms/minor/citta-passaddhi.json) | citta-passaddhi | tranquility of mind | reviewed | mental-qualities |
-| [citta-sankhara](../../terms/minor/citta-sankhara.json) | cittasaṅkhāra | mind process | reviewed | mental-qualities, translation-sensitive |
+| [citta-sankhara](../../terms/minor/citta-sankhara.json) | cittasaṅkhāra | mind conditioner | reviewed | mental-qualities, translation-sensitive |
 | [citta-ujjukata](../../terms/minor/citta-ujjukata.json) | citta-ujjukata | uprightness of mind | reviewed | mental-qualities |
 | [cittabhavana](../../terms/minor/cittabhavana.json) | cittabhāvanā | development of mind | reviewed | core-practice, meditative-development |
 | [cittanupassana](../../terms/minor/cittanupassana.json) | cittānupassanā | contemplation of mind | reviewed | core-practice |
@@ -391,7 +391,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [kaya-pagunnata](../../terms/minor/kaya-pagunnata.json) | kaya-pagunnata | proficiency of the mental body | reviewed | mental-qualities |
 | [kaya-passaddhi](../../terms/minor/kaya-passaddhi.json) | kaya-passaddhi | tranquility of the mental body | reviewed | mental-qualities |
 | [kaya-samphassa](../../terms/minor/kaya-samphassa.json) | kāyasamphassa | body-contact | reviewed | sense-fields |
-| [kaya-sankhara](../../terms/minor/kaya-sankhara.json) | kāyasaṅkhāra | body process | reviewed | embodiment, translation-sensitive |
+| [kaya-sankhara](../../terms/minor/kaya-sankhara.json) | kāyasaṅkhāra | body conditioner | reviewed | embodiment, translation-sensitive |
 | [kaya-ujjukata](../../terms/minor/kaya-ujjukata.json) | kaya-ujjukata | uprightness of the mental body | reviewed | mental-qualities |
 | [kaya-viveka](../../terms/minor/kaya-viveka.json) | kaya-viveka | bodily seclusion | reviewed | meditative-development |
 | [kayaduccarita](../../terms/minor/kayaduccarita.json) | kāyaduccarita | bad bodily conduct | reviewed | ethics |

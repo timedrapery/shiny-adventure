@@ -134,28 +134,28 @@ breathes out remembering the Dhamma.
 Body-related trainings:
 *The long and short breath trainings are not an end in themselves. Breathing is
 known, and when needed adjusted, so that the whole body may be experienced and
-the body process calmed with each breath.*
+the body conditioner calmed with each breath.*
 - Breathing in long, one knows: 'I breathe in long.' Breathing out long, one
   knows: 'I breathe out long.'
 - Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
   knows: 'I breathe out short.'
 - One trains: 'Breathing in, I will experience the whole body.' One trains:
   'Breathing out, I will experience the whole body.'
-- One trains: 'Breathing in, I will calm the body process.' One trains:
-  'Breathing out, I will calm the body process.'
+- One trains: 'Breathing in, I will calm the body conditioner.' One trains:
+  'Breathing out, I will calm the body conditioner.'
 
 Feeling-related trainings:
 *With each in-breath and out-breath, the trainee remembers to bring forth
-delight and ease, and to experience and calm the mind process of feeling and
+delight and ease, and to experience and calm the mind conditioner of feeling and
 recognition: liking, disliking, or neither liking nor disliking.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:
   'Breathing out, I will experience ease.'
-- One trains: 'Breathing in, I will experience the mind process.' One trains:
-  'Breathing out, I will experience the mind process.'
-- One trains: 'Breathing in, I will calm the mind process.' One trains:
-  'Breathing out, I will calm the mind process.'
+- One trains: 'Breathing in, I will experience the mind conditioner.' One trains:
+  'Breathing out, I will experience the mind conditioner.'
+- One trains: 'Breathing in, I will calm the mind conditioner.' One trains:
+  'Breathing out, I will calm the mind conditioner.'
 
 Feeling-mind trainings:
 *With each in-breath and out-breath, the trainee remembers to experience,
@@ -197,7 +197,7 @@ feeling mind, and dhammas.*
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
-experiencing the whole body, or in calming the body process, then one remains
+experiencing the whole body, or in calming the body conditioner, then one remains
 observing the body in relation to the body, ardent, with clear
 knowing, with remembering, having removed coveting and distress regarding the
 world. For, bhikkhus, I say that the in-breaths and out-breaths are one kind of
@@ -206,7 +206,7 @@ the body, ardent, with clear knowing, with remembering, having removed
 coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing delight, or ease, or the mind
-process, or in calming the mind process, then one remains observing feelings
+conditioner, or in calming the mind conditioner, then one remains observing feelings
 in relation to feelings, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world. For,
 bhikkhus, I say that careful attention to the in-breaths and out-breaths is one
