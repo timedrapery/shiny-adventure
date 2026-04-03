@@ -40,11 +40,11 @@ its requisites. Listen carefully, attend well, and I will speak."
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right mental composure with its supports and its
-requisites? Namely: right view, right attitude, right
-speech, right action, right livelihood, right effort, and right remembering.
-That directness of mind, furnished with these seven factors, is called noble
-right mental composure with supports, and also with requisites."
+"And what, bhikkhus, is noble right mental composure with its supports and
+requisites? It is this: right view, right attitude, right speech, right
+action, right livelihood, right effort, and right remembering. That
+directness of mind, furnished with these seven factors, is called noble right
+mental composure with supports, and also with requisites."
 
 *Study note: this opening definition governs the whole sutta. Right mental
 composure is not isolated; it is furnished by seven supporting path factors,
@@ -72,7 +72,7 @@ themselves, make them known.'
 
 "This is wrong view.
 
-"And what is right view? I say that right view is twofold.
+"And what is right view? Right view, I say, is twofold.
 
 "There is right view with outflows, on the side of merit, ripening in
 acquisitions.
@@ -124,7 +124,7 @@ attitude' and right attitude as 'right attitude'; that is one's right view.
 
 "This is wrong attitude.
 
-"And what is right attitude? I say that right attitude is twofold.
+"And what is right attitude? Right attitude, I say, is twofold.
 
 "There is right attitude with outflows, on the side of merit, ripening in
 acquisitions.
@@ -172,7 +172,7 @@ speech' and right speech as 'right speech'; that is one's right view.
 
 "This is wrong speech.
 
-"And what is right speech? I say that right speech is twofold.
+"And what is right speech? Right speech, I say, is twofold.
 
 "There is right speech with outflows, on the side of merit, ripening in
 acquisitions.
@@ -217,7 +217,7 @@ action' and right action as 'right action'; that is one's right view.
 
 "This is wrong action.
 
-"And what is right action? I say that right action is twofold.
+"And what is right action? Right action, I say, is twofold.
 
 "There is right action with outflows, on the side of merit, ripening in
 acquisitions.
@@ -259,11 +259,11 @@ view.
 
 "And what is wrong livelihood?
 
-"Deceiving, talking around, hinting, belittling, and chasing gain with gain.
+"Deceiving, flattery, hinting, belittling, and chasing gain with gain.
 
 "This is wrong livelihood.
 
-"And what is right livelihood? I say that right livelihood is twofold.
+"And what is right livelihood? Right livelihood, I say, is twofold.
 
 "There is right livelihood with outflows, on the side of merit, ripening in
 acquisitions.
@@ -274,7 +274,7 @@ beyond-the-world, a factor of the path.
 "And what is right livelihood with outflows, on the side of merit, ripening in
 acquisitions?
 
-"Here a noble disciple, having abandoned wrong livelihood, makes a living by
+"Here a noble disciple, having abandoned wrong livelihood, earns a living by
 right livelihood.
 
 "This is right livelihood with outflows, on the side of merit, ripening in
@@ -347,7 +347,7 @@ worn away.
 "And through right view, many wholesome qualities come to fulfillment in
 development.
 
-"The same pattern holds for right attitude, right speech, right action, right
+"The same pattern applies for right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right mental composure, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
 many bad and unwholesome qualities that arise because of that wrong factor are
@@ -367,7 +367,7 @@ and brings wholesome qualities to fulfillment in development.*
 cannot be rolled back by any samaṇa or brahmin, any god, Māra, Brahmā, or
 anyone at all in the world.
 
-"If any samaṇa or brahmin should think that this exposition of dhamma called
+"If any samaṇa or brahmin should imagine that this exposition of dhamma called
 'The Great Forty' ought to be criticized and rejected, then already in this
 very life ten legitimate grounds for rebuttal and criticism would come upon
 him.
