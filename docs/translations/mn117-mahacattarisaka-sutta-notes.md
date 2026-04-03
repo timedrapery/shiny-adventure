@@ -82,13 +82,9 @@ choices, source-audit calls, and edition notes that govern it.
 - This companion file should preserve rationale for contested renderings and
   future edition decisions rather than repeat the main file line by line.
 
-## Next Refinement Areas
+## Edition Status
 
-- Recheck the repeated worldly / beyond-the-world formula language for smoother
-  study prose without weakening the doctrinal distinction.
-- Recheck the opening definition and the `through right knowledge` line once
-  the whole sutta has had a complete continuous read-through.
-- Recheck the final Great Forty close once the whole sutta has had a complete
-  continuous read-through.
-- Recheck the tenfold completion sequence now that `sammāñāṇa` and
-  `sammāvimutti` are formal term records rather than only translation choices.
+- This companion now supports the first stable study edition of the repo's
+  MN 117 translation surface.
+- Future revisions should be driven by source-audit gains, policy changes, or
+  genuine readability improvements, not routine word swapping.
