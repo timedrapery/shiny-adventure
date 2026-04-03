@@ -29,9 +29,9 @@ choices, source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- `saupanisaṁ saparikkhāraṁ` is rendered `with its supporting conditions and
-  its requisites` to keep the practical path-support sense explicit without
-  collapsing the phrase into technical jargon.
+- `saupanisaṁ saparikkhāraṁ` is rendered `with its supports and its requisites`
+  to keep the practical path-support sense explicit without collapsing the
+  phrase into technical jargon.
 - `cittassa ekaggatā parikkhatā` is rendered here as `that directness of mind
   furnished with these seven factors`. This is one of the main governing lines
   for the current repo handling of `ekaggatā`.
@@ -44,6 +44,10 @@ choices, source-audit calls, and edition notes that govern it.
 - `anuparidhāvanti anuparivattanti` is rendered here with active `running and
   circling` language because the sutta presents right view, right effort, and
   right remembering as live path functions, not static boxes in a list.
+- The twentyfold section is now rendered as an explicit recurring pattern:
+  each right factor wears away its wrong counterpart, wears away the bad
+  qualities that arise from that wrong counterpart, and brings wholesome
+  qualities to fulfillment in development.
 - The Great Forty close is rendered with `has been set rolling` and `cannot be
   rolled back` so the rhetoric stays forceful without sounding archaic.
 
@@ -80,11 +84,11 @@ choices, source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- Recheck the opening `right mental composure with supports and requisites`
-  definition for cadence.
 - Recheck the repeated worldly / beyond-the-world formula language for smoother
   study prose without weakening the doctrinal distinction.
-- Recheck the path-sequence and twentyfold-close sections now that the middle
-  formula blocks are stronger.
+- Recheck the opening definition and the `through right knowledge` line once
+  the whole sutta has had a complete continuous read-through.
+- Recheck the final Great Forty close once the whole sutta has had a complete
+  continuous read-through.
 - Recheck the tenfold completion sequence now that `sammāñāṇa` and
   `sammāvimutti` are formal term records rather than only translation choices.
