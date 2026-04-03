@@ -133,8 +133,8 @@ breathes out remembering the Dhamma.
 
 Body-related trainings:
 *The long and short breath trainings are not an end in themselves. Breathing is
-known, and when needed adjusted, so that the whole body may be experienced and
-the body conditioner calmed with each breath.*
+known, and when needed adjusted, so the whole body can be experienced and the
+body conditioner calmed through each breath.*
 - Breathing in long, one knows: 'I breathe in long.' Breathing out long, one
   knows: 'I breathe out long.'
 - Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
@@ -146,8 +146,8 @@ the body conditioner calmed with each breath.*
 
 Feeling-related trainings:
 *With each in-breath and out-breath, the trainee remembers to bring forth
-delight and ease, and to experience and calm the mind conditioner of feeling and
-recognition: liking, disliking, or neither liking nor disliking.*
+delight and ease, and to experience and calm the mind conditioner, namely
+feeling and recognition: liking, disliking, or neither liking nor disliking.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:
@@ -193,7 +193,9 @@ great benefit."
 
 *Study note: the four fulfillments below do not leave breathing behind. They
 show how the same in-breath and out-breath training fulfills body, feelings,
-feeling mind, and dhammas.*
+feeling mind, and dhammas. Here the in-and-out breath remains the body
+conditioner, while feeling and recognition remain the mind conditioner worked
+with through breathing.*
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
@@ -238,7 +240,8 @@ establishments of sati."
 ### How The Four Establishments Of Sati Fulfill The Seven Awakening Factors
 
 *Study note: the awakening factors below are not a second practice added on
-after ānāpānasati. They name the same training as it matures.*
+after ānāpānasati. They name the same training as it matures, as the
+conditioners calm and the feeling mind steadies.*
 
 "And how, bhikkhus, are the four establishments of sati developed and cultivated
 so as to fulfill the seven awakening factors?

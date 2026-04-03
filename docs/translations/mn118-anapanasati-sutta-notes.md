@@ -66,8 +66,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - The breath is treated here as the recurring occasion for remembering the
   Dhamma and carrying out the training, not as an end in itself.
 - In the body tetrad, long and short breathing are not just observed for their
-  own sake; breathing is known so the whole body can be experienced and the
-  body conditioner calmed.
+  own sake; breathing is known and, when needed, adjusted so the whole body
+  can be experienced and the body conditioner calmed.
 - This edition also treats breathing as a practical bodily conditioner: by
   knowing and adjusting the breath, bodily tension is softened and the body is
   calmed rather than merely watched.
@@ -79,8 +79,11 @@ translation choices, source-audit calls, and edition notes that govern it.
   behind. The section is governed as a mapping of the same in-breath and
   out-breath training onto body, feelings, feeling mind, and dhammas.
 - In the feeling tetrad, the trainee remembers with each breath to bring forth
-  delight and ease, and to experience and calm the mind conditioner of feeling and
-  recognition, including liking, disliking, or neither.
+  delight and ease, and to experience and calm the mind conditioner, namely
+  feeling and recognition, including liking, disliking, or neither.
+- In the satipaṭṭhāna-fulfillment section, the in-and-out breath remains the
+  body conditioner, while feeling and recognition remain the mind conditioner
+  worked with through breathing.
 - In the feeling-mind tetrad, the trainee remembers with each breath to
   experience, gladden, bring the feeling mind to mental composure, and free
   it.
@@ -101,7 +104,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - In the awakening-factor section, the factors are not governed as a second
   list laid on top of practice. They are the maturation of the same
   ānāpānasati training: remembering, discernment of qualities, energy,
-  delight, relaxation, mental composure, and dynamic balance.
+  delight, relaxation, mental composure, and dynamic balance. The conditioner
+  language matters here because calming conditioning is part of how that
+  maturation unfolds.
 
 ## Next Refinement Areas
 
