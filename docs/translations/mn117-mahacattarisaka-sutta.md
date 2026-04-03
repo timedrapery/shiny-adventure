@@ -14,7 +14,8 @@
   `sammā-ñāṇa` is rendered `right knowledge`; `sammāvimutti` is rendered
   `right release`; `lokiya` is rendered `worldly`; `lokuttara` is rendered
   `beyond-the-world`; and `ekaggatā` is rendered here as `directness`.
-- This is a working study translation under active refinement.
+- This is the first stable study edition of the repository's MN 117
+  translation surface.
 
 ## Translation
 
@@ -42,9 +43,9 @@ The Buddha said this:
 
 "And what, bhikkhus, is noble right mental composure with its supports and
 requisites? It is this: right view, right attitude, right speech, right
-action, right livelihood, right effort, and right remembering. That
-directness of mind, furnished with these seven factors, is called noble right
-mental composure with supports, and also with requisites."
+action, right livelihood, right effort, and right remembering. The directness
+of mind furnished with these seven factors is called noble right mental
+composure with supports, and also with requisites."
 
 *Study note: this opening definition governs the whole sutta. Right mental
 composure is not isolated; it is furnished by seven supporting path factors,
@@ -330,8 +331,8 @@ beyond training, completed through right knowledge and right release. In this
 edition those two are not decorative extras; they mark the completion side of
 the path described in MN 117.*
 
-"And here too, through right knowledge, the wearing away of many bad,
-unwholesome qualities is brought to fulfillment in development.
+"And here too, through right knowledge, many bad, unwholesome qualities wear
+away, and development reaches fulfillment.
 
 ### Twenty Skillful And Twenty Unskillful Sides
 
@@ -347,7 +348,7 @@ worn away.
 "And through right view, many wholesome qualities come to fulfillment in
 development.
 
-"The same pattern applies for right attitude, right speech, right action, right
+"The same pattern applies to right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right mental composure, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
 many bad and unwholesome qualities that arise because of that wrong factor are
@@ -367,7 +368,7 @@ and brings wholesome qualities to fulfillment in development.*
 cannot be rolled back by any samaṇa or brahmin, any god, Māra, Brahmā, or
 anyone at all in the world.
 
-"If any samaṇa or brahmin should imagine that this exposition of dhamma called
+"If any samaṇa or brahmin should imagine that this dhamma exposition called
 'The Great Forty' ought to be criticized and rejected, then already in this
 very life ten legitimate grounds for rebuttal and criticism would come upon
 him.
