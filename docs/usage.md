@@ -27,6 +27,12 @@ For the jhana family specifically, add the dedicated audit:
 python scripts/jhana_cluster_report.py --strict
 ```
 
+For the path-factor family specifically, add the dedicated audit:
+
+```bash
+python scripts/path_factor_cluster_report.py --strict
+```
+
 ## Run The Full Verification Suite
 
 ```bash
@@ -35,7 +41,7 @@ python scripts/run_checks.py
 
 This runs tests, schema validation, editorial lint in strict mode, drift checks, coverage audit, and repository health reporting in sequence.
 
-It also runs the dedicated cluster audits, including the jhana core-cluster check.
+It also runs the dedicated cluster audits, including the jhana and path-factor core-cluster checks.
 
 ## Check Documentation And Repository Surface
 
