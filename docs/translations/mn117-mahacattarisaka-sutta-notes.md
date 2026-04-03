@@ -41,9 +41,9 @@ choices, source-audit calls, and edition notes that govern it.
   alternate `acquisition`.
 - `lokuttarā maggaṅgā` is rendered here as `beyond-the-world, a factor of the
   path`, not supramundane or supernatural.
-- `anuparidhāvanti anuparivattanti` is rendered here with active circling
-  language because the sutta presents right view, right effort, and right
-  remembering as live path functions, not static boxes in a list.
+- `anuparidhāvanti anuparivattanti` is rendered here with active `running and
+  circling` language because the sutta presents right view, right effort, and
+  right remembering as live path functions, not static boxes in a list.
 - The Great Forty close is rendered with `has been set rolling` and `cannot be
   rolled back` so the rhetoric stays forceful without sounding archaic.
 
@@ -84,7 +84,7 @@ choices, source-audit calls, and edition notes that govern it.
   definition for cadence.
 - Recheck the repeated worldly / beyond-the-world formula language for smoother
   study prose without weakening the doctrinal distinction.
-- Recheck the middle formula blocks for cadence now that the opening and final
-  close are stronger.
+- Recheck the path-sequence and twentyfold-close sections now that the middle
+  formula blocks are stronger.
 - Recheck the tenfold completion sequence now that `sammāñāṇa` and
   `sammāvimutti` are formal term records rather than only translation choices.
