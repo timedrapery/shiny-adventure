@@ -33,19 +33,18 @@ The Buddha said this:
 
 ### Noble Right Mental Composure With Its Supports
 
-"Bhikkhus, I will teach you noble right mental composure with its supporting
-conditions and its requisites. Listen carefully. Attend well, and I will
-speak."
+"Bhikkhus, I will teach you noble right mental composure with its supports and
+its requisites. Listen carefully, attend well, and I will speak."
 
 "Yes, venerable sir," the bhikkhus replied.
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right mental composure with its supporting
-conditions and its requisites? Namely: right view, right attitude, right
+"And what, bhikkhus, is noble right mental composure with its supports and its
+requisites? Namely: right view, right attitude, right
 speech, right action, right livelihood, right effort, and right remembering.
 That directness of mind, furnished with these seven factors, is called noble
-right mental composure with supporting conditions, and also with requisites."
+right mental composure with supports, and also with requisites."
 
 *Study note: this opening definition governs the whole sutta. Right mental
 composure is not isolated; it is furnished by seven supporting path factors,
@@ -64,7 +63,7 @@ and right view as 'right view'; that is one's right view.
 
 "And what is wrong view?
 
-"'There is nothing in giving, nothing in sacrifice, nothing in offerings.
+"'There is no meaning in giving, sacrifice, or offerings.
 There is no fruit or result of good and bad actions. There is no this world,
 no other world, no mother, no father, no beings who arise spontaneously, and
 no samaṇas or brahmins in the world who are rightly gone and rightly practicing
@@ -84,7 +83,7 @@ factor of the path.
 "And what is right view with outflows, on the side of merit, ripening in
 acquisitions?
 
-"'There is something in giving, something in sacrifice, something in offerings.
+"'There is meaning in giving, sacrifice, and offerings.
 There is fruit and result of good and bad actions. There is this world and the
 other world. There is mother and father. There are beings who arise
 spontaneously. And there are samaṇas and brahmins in the world who are rightly
@@ -97,11 +96,10 @@ acquisitions.
 "And what is right view that is noble, without outflows, beyond-the-world, a
 factor of the path?
 
-"Whatever discernment, the faculty of discernment, the power of discernment,
-the awakening factor of discernment of qualities, and the right-view factor of
-the path there is
-in one whose mind is noble, whose mind is without outflows, who possesses the
-noble path and develops the noble path: this is called right view that is
+"That discernment, the faculty of discernment, the power of discernment, the
+awakening factor of discernment of qualities, and the right-view factor of the
+path in one whose mind is noble, whose mind is without outflows, who possesses
+the noble path and develops the noble path, is called right view that is
 noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong view and to take up right view; that is
@@ -324,7 +322,7 @@ right view, right effort, and right remembering.
 
 "For one with right knowledge, right release comes forth.
 
-"Thus a trainee is possessed of eight factors, while an arahant is possessed of
+"So a trainee is endowed with eight factors, while an arahant is endowed with
 ten factors.
 
 *Study note: the trainee is still eight-factored. The arahant here is the one
@@ -333,7 +331,7 @@ edition those two are not decorative extras; they mark the completion side of
 the path described in MN 117.*
 
 "And here too, through right knowledge, the wearing away of many bad,
-unwholesome qualities comes to fulfillment in development.
+unwholesome qualities is brought to fulfillment in development.
 
 ### Twenty Skillful And Twenty Unskillful Sides
 
@@ -341,27 +339,31 @@ unwholesome qualities comes to fulfillment in development.
 
 "And how does right view come first?
 
-"For one of right view, wrong view is worn away.
+"For one with right view, wrong view is worn away.
 
 "And the many bad, unwholesome qualities that arise because of wrong view are
 worn away.
 
-"And because of right view, many wholesome qualities come to fulfillment in
+"And through right view, many wholesome qualities come to fulfillment in
 development.
 
-"The same is true for right attitude, right speech, right action, right
+"The same pattern holds for right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right mental composure, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
-many bad and unwholesome qualities arising because of that wrong factor are
-worn away, and many wholesome qualities come to fulfillment in development
-through the right factor.
+many bad and unwholesome qualities that arise because of that wrong factor are
+worn away, and through the right factor many wholesome qualities come to
+fulfillment in development.
 
 "Thus there are twenty on the wholesome side and twenty on the unwholesome
 side.
 
+*Study note: the pattern here is systematic. Each right factor wears away its
+wrong counterpart, wears away the bad qualities fed by that wrong counterpart,
+and brings wholesome qualities to fulfillment in development.*
+
 ### The Great Forty Cannot Be Rolled Back
 
-"This exposition of dhamma called 'The Great Forty' has been set rolling. It
+"This dhamma exposition called 'The Great Forty' has been set rolling, and it
 cannot be rolled back by any samaṇa or brahmin, any god, Māra, Brahmā, or
 anyone at all in the world.
 
@@ -370,7 +372,7 @@ anyone at all in the world.
 very life ten legitimate grounds for rebuttal and criticism would come upon
 him.
 
-"If he criticizes right view, then he thereby honors and praises samaṇas and brahmins
+"If he criticizes right view, then he honors and praises samaṇas and brahmins
 of wrong view.
 
 "If he criticizes right attitude, then he honors and praises samaṇas and
@@ -400,18 +402,18 @@ brahmins of wrong knowledge.
 "If he criticizes right release, then he honors and praises samaṇas and
 brahmins of wrong release.
 
-"If any samaṇa or brahmin should think that this exposition of dhamma called
-'The Great Forty' ought to be criticized and rejected, then already in this
-very life these ten legitimate grounds of rebuttal and criticism would come
-upon him.
+"If any samaṇa or brahmin should think that this dhamma exposition called 'The
+Great Forty' ought to be criticized and rejected, then already in this very
+life these ten legitimate grounds of rebuttal and criticism would come upon
+him.
 
-"Even those samaṇas and brahmins who loudly and boldly promoted the doctrines
-of no-cause, no-action, and nothingness did not imagine that The Great Forty
-should be criticized and rejected.
+"Even those samaṇas and brahmins who loudly and boldly proclaimed no-cause,
+no-action, and nothingness did not imagine that The Great Forty should be
+criticized or rejected.
 
 "Why not?
 
-"For fear of blame, attack, and fault."
+"For fear of blame, attack, and reproach."
 
 That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
