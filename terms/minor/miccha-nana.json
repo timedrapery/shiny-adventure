@@ -1,0 +1,24 @@
+{
+  "term": "micchā-ñāṇa",
+  "normalized_term": "miccha-nana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "wrong knowledge",
+  "preferred_translation": "wrong knowledge",
+  "alternative_translations": [
+    "misdirected knowledge"
+  ],
+  "discouraged_translations": [
+    "wrong insight"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Wrong knowledge opposed to right knowledge.",
+  "sutta_references": [
+    "MN 117"
+  ],
+  "tags": [
+    "core-practice",
+    "knowledge-cluster"
+  ],
+  "status": "reviewed"
+}

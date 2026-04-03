@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "One beyond training, classically the arahant who has completed the path.",
-  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase. In practice the term points to completed training, so it belongs closely with arahant and release language rather than with general maturity or expertise. The OSF glossary confirms beyond training as the house default and preserves fully trained as an explanatory alternate.",
+  "notes": "The project prefers beyond training because it keeps the doctrinal contrast with sekha explicit. Fully trained is acceptable in explanatory prose when the sentence wants a more idiomatic English phrase. In practice the term points to completed training, so it belongs closely with arahant and release language rather than with general maturity or expertise. MN 117 is a control passage here: the trainee is eight-factored, while the completed side opens into right knowledge and right release, which belong to the one beyond training. The OSF glossary confirms beyond training as the house default and preserves fully trained as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal classifications",
@@ -34,6 +34,8 @@
   "related_terms": [
     "arahant",
     "ariyasavaka",
+    "samma-nana",
+    "samma-vimutti",
     "ariyasāvaka",
     "sekha",
     "vimutti"
@@ -53,7 +55,8 @@
     }
   ],
   "sutta_references": [
-    "MN 53"
+    "MN 53",
+    "MN 117"
   ],
   "tags": [
     "core-doctrine",

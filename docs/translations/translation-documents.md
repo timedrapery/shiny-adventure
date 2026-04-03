@@ -20,3 +20,10 @@ Current MN 118 surfaces:
   translation text
 - [mn118-anapanasati-sutta-notes.md](mn118-anapanasati-sutta-notes.md):
   companion translator notes and rationale
+
+Current MN 117 surfaces:
+
+- [mn117-mahacattarisaka-sutta.md](mn117-mahacattarisaka-sutta.md): main
+  shareable translation text
+- [mn117-mahacattarisaka-sutta-notes.md](mn117-mahacattarisaka-sutta-notes.md):
+  companion translator notes and rationale

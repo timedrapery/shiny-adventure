@@ -3,32 +3,32 @@
   "normalized_term": "karuna",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "compassion",
-  "preferred_translation": "compassion",
+  "literal_meaning": "kindness towards others",
+  "preferred_translation": "kindness towards others",
   "alternative_translations": [
-    "care"
+    "care for others"
   ],
   "discouraged_translations": [
     "pity"
   ],
   "untranslated_preferred": false,
-  "definition": "Compassionate responsiveness to suffering, marked by the wish that suffering be relieved.",
-  "notes": "The project keeps compassion as the clearest and least distorted default in contemporary English. Pity is discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated. The term should be heard as responsive concern trained as a brahmavihāra, not as passive sadness. The OSF glossary reinforces compassion as empathy and concern for suffering, which is compatible with the current house handling.",
+  "definition": "Kindness towards others, especially when another's pain or difficulty calls for responsive humane care without joining them in suffering.",
+  "notes": "The project now rejects English that too easily suggests suffering alongside another, which this repository does not treat as noble Dhamma. Kindness towards others keeps the quality humane, active, and workable without importing co-suffering or sentimental heaviness. Pity is still discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated. The term should be heard as responsive kindness trained as a brahmavihāra, not as passive sadness or emotional collapse. The OSF glossary still supports keeping the quality humane, practical, and responsive to another's difficulty, and the repository now carries that pressure through kindness-towards-others language instead of older co-suffering wording.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
-      "rendering": "compassion",
+      "rendering": "kindness towards others",
       "notes": "Default project rendering."
     },
     {
       "context": "In prose emphasizing concrete responsive concern",
-      "rendering": "care",
-      "notes": "Acceptable alternate when compassion sounds too abstract."
+      "rendering": "care for others",
+      "notes": "Acceptable alternate when the sentence benefits from a shorter phrase."
     },
     {
-      "context": "When the passage emphasizes cultivated responsiveness to suffering within the brahmavihāra framework",
-      "rendering": "compassion",
-      "notes": "Keep the quality active and practice-oriented."
+      "context": "When the passage emphasizes the cultivated brahmavihāra quality rather than a passing emotional response",
+      "rendering": "kindness towards others",
+      "notes": "Keep the quality active, noble, and practice-oriented."
     }
   ],
   "related_terms": [
@@ -43,13 +43,13 @@
   "example_phrases": [
     {
       "pali": "karuṇā cetovimutti",
-      "translation": "the liberation of mind through compassion",
+      "translation": "the liberation of mind through kindness towards others",
       "notes": "Important brahmavihāra expression.",
       "source": "DN 13"
     },
     {
       "pali": "karuṇā bhāvetabbā",
-      "translation": "compassion should be developed",
+      "translation": "kindness towards others should be developed",
       "notes": "Simple cultivation-oriented usage.",
       "source": "MN 7"
     }
@@ -73,9 +73,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'compassion' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'kindness towards others' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc. Do not revert to co-suffering language by habit.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'pity' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward co-suffering language, pity, or other unrecorded alternates."
   }
 }

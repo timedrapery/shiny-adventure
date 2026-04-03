@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 819
+- Entries: 821
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -375,7 +375,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [kammassakata](../../terms/minor/kammassakata.json) | kammassakata | ownership of action | reviewed | ethics |
 | [kamogha](../../terms/minor/kamogha.json) | kāmogha | sensual flood | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [karisa](../../terms/minor/karisa.json) | karisa | feces | reviewed | embodiment, meditative-development |
-| [karuna-cetovimutti](../../terms/minor/karuna-cetovimutti.json) | karuṇācetovimutti | liberation of mind through compassion | reviewed | liberation, meditative-development |
+| [karuna-cetovimutti](../../terms/minor/karuna-cetovimutti.json) | karuṇācetovimutti | liberation of mind through kindness towards others | reviewed | liberation, meditative-development |
 | [katamo-ca-bhikkhave-sakkayo](../../terms/minor/katamo-ca-bhikkhave-sakkayo.json) | katamo ca, bhikkhave, sakkāyo, pañcupādānakkhandhā | and what, bhikkhus, is identity, the five clung-to heaps | stable | aggregates, formula, self-view, translation-sensitive |
 | [kathina](../../terms/minor/kathina.json) | kaṭhina | kaṭhina | reviewed | vinaya, core-practice, translation-sensitive |
 | [kaya-dvara](../../terms/minor/kaya-dvara.json) | kaya-dvara | body door | reviewed | sense-fields |
@@ -473,11 +473,13 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [miccha-ajiva](../../terms/minor/miccha-ajiva.json) | micchā-ājīva | wrong livelihood | reviewed | ethics |
 | [miccha-ditthi](../../terms/minor/miccha-ditthi.json) | micchā-diṭṭhi | wrong view | reviewed | core-doctrine |
 | [miccha-kammanta](../../terms/minor/miccha-kammanta.json) | micchā-kammanta | wrong action | reviewed | ethics |
+| [miccha-nana](../../terms/minor/miccha-nana.json) | micchā-ñāṇa | wrong knowledge | reviewed | core-practice, knowledge-cluster |
 | [miccha-samadhi](../../terms/minor/miccha-samadhi.json) | micchā-samādhi | wrong composure | reviewed | core-practice |
 | [miccha-sankappa](../../terms/minor/miccha-sankappa.json) | micchāsaṅkappa | wrong attitude | reviewed | core-practice |
 | [miccha-sati](../../terms/minor/miccha-sati.json) | micchā-sati | wrong sati | reviewed | core-practice |
 | [miccha-vaca](../../terms/minor/miccha-vaca.json) | micchā-vācā | wrong speech | reviewed | ethics |
 | [miccha-vayama](../../terms/minor/miccha-vayama.json) | micchā-vāyāma | wrong effort | reviewed | core-practice |
+| [miccha-vimutti](../../terms/minor/miccha-vimutti.json) | micchā-vimutti | wrong release | reviewed | core-practice, liberation |
 | [mitta](../../terms/minor/mitta.json) | mitta | friend | reviewed | persons |
 | [moggallana](../../terms/minor/moggallana.json) | Moggallāna | Moggallāna | reviewed | persons |
 | [moha-mula](../../terms/minor/moha-mula.json) | mohamūla | rooted in delusion | draft | ethics, mental-qualities |
