@@ -12,8 +12,8 @@
     "imagination"
   ],
   "untranslated_preferred": false,
-  "definition": "The multiplying spread of conceptual and reactive elaboration that entangles experience.",
-  "notes": "The project prefers proliferation because it is concise and already well established in Buddhist translation, while still reading as contemporary English. Conceptual proliferation is useful when the mental elaboration itself needs to be made explicit. The OSF glossary also treats papañca as proliferating mental elaboration, which supports the present wording.",
+  "definition": "The multiplying spread of conceptual and reactive elaboration that entangles experience, especially when recognition and thinking keep running on unchecked.",
+  "notes": "The project prefers proliferation because it is concise, readable, and already established in Buddhist translation while still sounding like living English. Conceptual proliferation remains available when explanatory prose needs the mental-elaboration side made more explicit. MN 18 is the control passage for this term in the repository: what is recognized becomes something thought about, and what is thought about can then be proliferated about until the person is overrun by the resulting recognitions and notions. The term should therefore stay practical and processive rather than collapsing into either mere imagination or a frozen technical abstraction. The OSF glossary supports the current wording, and the repository now uses the MN 18 formula family to keep the whole sequence coherent rather than treating papañca as a free-floating jargon item.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -31,14 +31,23 @@
     "manasikara",
     "manasikāra",
     "mannati",
+    "papanca-sanna-sankha",
+    "sanjanati",
     "tanha",
-    "taṇhā"
+    "taṇhā",
+    "vitakka"
   ],
   "example_phrases": [
     {
+      "pali": "yaṁ vitakketi taṁ papañceti",
+      "translation": "what one thinks about, one proliferates about",
+      "notes": "Core MN 18 sequence line keeping proliferation downstream of thinking.",
+      "source": "MN 18"
+    },
+    {
       "pali": "papañcasaññāsaṅkhā",
-      "translation": "perceptions and constructions of proliferation",
-      "notes": "Classic phrase showing the term's role in entangling mental elaboration.",
+      "translation": "recognitions and notions of proliferation",
+      "notes": "Classic compound showing the spread of proliferation into proliferated recognitions and notions.",
       "source": "MN 18"
     },
     {
@@ -61,13 +70,18 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current papañca policy."
+      "scope": "Supports keeping papañca as proliferation rather than drifting into imagination-language."
+    },
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the recognition -> thinking -> proliferation sequence and the culminating compound papañcasaññāsaṅkhā."
     }
   ],
   "translation_policy": {
     "default_scope": "Use 'proliferation' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'imagination' or other unrecorded alternates."
+    "drift_risk": "Prevents the term from drifting into imagination-language, from floating loose from the MN 18 sequence, or from being flattened into vague conceptuality."
   }
 }

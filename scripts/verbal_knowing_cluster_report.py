@@ -34,6 +34,7 @@ SUPPORTING_TERMS = [
     "abhinna",
     "asmimana",
     "upadana",
+    "vitakka",
     "papanca",
     "yathabhuta-nanadassana",
     "vimutti-nanadassana",
@@ -41,6 +42,10 @@ SUPPORTING_TERMS = [
 FORMULA_TERMS = [
     "yathabhutam-pajanati",
     "naparam-itthattayati-pajanati",
+    "yam-vedeti-tam-sanjanati",
+    "yam-sanjanati-tam-vitakketi",
+    "yam-vitakketi-tam-papanceti",
+    "yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti",
     "pathavim-pathavito-sannatva-pathavim-mannati",
     "pathavim-pathavito-abhinnaya-pathavim-ma-manni",
     "pathavim-pathavito-abhinnaya-pathavim-na-mannati",
@@ -105,6 +110,12 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
         "anna": "final knowledge",
         "yathabhutam-pajanati": "discerns it as it has come to be",
         "naparam-itthattayati-pajanati": "one discerns: there is no more of this state of being",
+        "yam-vedeti-tam-sanjanati": "what one feels, one recognizes",
+        "yam-sanjanati-tam-vitakketi": "what one recognizes, one thinks about",
+        "yam-vitakketi-tam-papanceti": "what one thinks about, one proliferates about",
+        "yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti": (
+            "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person"
+        ),
         "pathavim-pathavito-sannatva-pathavim-mannati": (
             "having recognized earth as earth, one takes oneself to be earth"
         ),
@@ -159,7 +170,7 @@ def render_glossary(terms: dict[str, dict[str, object]]) -> str:
         "| Pali | Default | Allowed alternates | Discouraged |",
         "| --- | --- | --- | --- |",
     ]
-    for stem in HEADWORD_TERMS + ["nana", "abhinna", "panna", "sanna", "asmimana", "upadana"]:
+    for stem in HEADWORD_TERMS + ["nana", "abhinna", "panna", "sanna", "vitakka", "papanca", "asmimana", "upadana"]:
         data = terms[stem]
         alts = ", ".join(data.get("alternative_translations", []))
         discouraged = ", ".join(data.get("discouraged_translations", []))
@@ -207,6 +218,19 @@ def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
             f"- `{terms['naparam-itthattayati-pajanati']['term']}` -> "
             f"`{terms['naparam-itthattayati-pajanati']['preferred_translation']}`"
         ),
+        f"- `{terms['yam-vedeti-tam-sanjanati']['term']}` -> `{terms['yam-vedeti-tam-sanjanati']['preferred_translation']}`",
+        (
+            f"- `{terms['yam-sanjanati-tam-vitakketi']['term']}` -> "
+            f"`{terms['yam-sanjanati-tam-vitakketi']['preferred_translation']}`"
+        ),
+        (
+            f"- `{terms['yam-vitakketi-tam-papanceti']['term']}` -> "
+            f"`{terms['yam-vitakketi-tam-papanceti']['preferred_translation']}`"
+        ),
+        (
+            f"- `{terms['yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti']['term']}` -> "
+            f"`{terms['yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti']['preferred_translation']}`"
+        ),
         (
             f"- `{terms['pathavim-pathavito-sannatva-pathavim-mannati']['term']}` -> "
             f"`{terms['pathavim-pathavito-sannatva-pathavim-mannati']['preferred_translation']}`"
@@ -229,6 +253,7 @@ def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
         "",
         "- Preserve the practical anti-mystification pressure in the knowing verbs: do not inflate them into imported realization-language.",
         "- Preserve the MN 1 sequence from recognition into selfing, and from direct knowing into non-selfing.",
+        "- Preserve the MN 18 sequence from feeling into recognition, from recognition into thinking, and from thinking into proliferation.",
         "- Preserve the closing pressure in MN 1: delight feeds dissatisfaction, and becoming keeps the birth-and-death sequence live.",
         "- Preserve MN 18 compatibility: what is recognized can become the footing for thought and proliferation if the family is flattened.",
     ]

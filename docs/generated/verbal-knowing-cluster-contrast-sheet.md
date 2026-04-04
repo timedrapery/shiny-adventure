@@ -30,6 +30,10 @@
 
 - `yathābhūtaṃ pajānāti` -> `discerns it as it has come to be`
 - `nāparaṃ itthattāyāti pajānāti` -> `one discerns: there is no more of this state of being`
+- `yaṁ vedeti taṁ sañjānāti` -> `what one feels, one recognizes`
+- `yaṁ sañjānāti taṁ vitakketi` -> `what one recognizes, one thinks about`
+- `yaṁ vitakketi taṁ papañceti` -> `what one thinks about, one proliferates about`
+- `yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti` -> `from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person`
 - `paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati` -> `having recognized earth as earth, one takes oneself to be earth`
 - `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi` -> `having directly known earth as earth, one should not take oneself to be earth`
 - `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati` -> `having directly known earth as earth, one does not take oneself to be earth`
@@ -40,5 +44,6 @@
 
 - Preserve the practical anti-mystification pressure in the knowing verbs: do not inflate them into imported realization-language.
 - Preserve the MN 1 sequence from recognition into selfing, and from direct knowing into non-selfing.
+- Preserve the MN 18 sequence from feeling into recognition, from recognition into thinking, and from thinking into proliferation.
 - Preserve the closing pressure in MN 1: delight feeds dissatisfaction, and becoming keeps the birth-and-death sequence live.
 - Preserve MN 18 compatibility: what is recognized can become the footing for thought and proliferation if the family is flattened.

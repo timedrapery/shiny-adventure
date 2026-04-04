@@ -1,0 +1,51 @@
+{
+  "term": "yaṁ vitakketi taṁ papañceti",
+  "normalized_term": "yam-vitakketi-tam-papanceti",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "what one thinks about, one proliferates about",
+  "alternative_translations": [
+    "what one thinks about, one proliferates around"
+  ],
+  "discouraged_translations": [
+    "what one thinks about, one conceptualizes",
+    "what one thinks about, one imagines"
+  ],
+  "untranslated_preferred": false,
+  "definition": "MN 18 sequence line linking thinking to proliferation.",
+  "notes": "MN 18 directly supports this formula. It keeps vitakka distinct from papañca. What is taken up in thought can then become the footing for proliferation; the line should not flatten that shift into one bland act of mental processing.",
+  "related_terms": [
+    "papanca",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṁ vitakketi taṁ papañceti",
+      "translation": "what one thinks about, one proliferates about",
+      "notes": "The transition from thinking into proliferation in MN 18.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the line connecting thinking to proliferation in the MN 18 sequence."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'what one thinks about, one proliferates about' as the default rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the controlled alternate only when English flow demands it. Do not flatten papañceti into imagination-language or generic conceptual activity.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the formula from erasing the shift from taken-up thought into proliferation."
+  }
+}

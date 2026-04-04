@@ -1,0 +1,52 @@
+{
+  "term": "yaṁ vedeti taṁ sañjānāti",
+  "normalized_term": "yam-vedeti-tam-sanjanati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "what one feels, one recognizes",
+  "alternative_translations": [
+    "what one feels, one identifies"
+  ],
+  "discouraged_translations": [
+    "what one experiences emotionally, one conceptualizes",
+    "what one senses, one understands"
+  ],
+  "untranslated_preferred": false,
+  "definition": "MN 18 sequence line linking felt experience to recognition.",
+  "notes": "This formula keeps vedanā-language immediate and sañjānāti as recognition-language. Do not psychologize vedeti into emotion-talk, and do not inflate sañjānāti into deeper knowing here. The line is the opening pivot of the MN 18 sequence.",
+  "related_terms": [
+    "sanna",
+    "sanjanati",
+    "vedana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṁ vedeti taṁ sañjānāti",
+      "translation": "what one feels, one recognizes",
+      "notes": "Opening movement of the MN 18 sequence.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the line connecting immediate felt experience to recognition."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'what one feels, one recognizes' as the default rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the controlled alternate only when the immediate English requires it. Do not widen vedeti into emotion-language or flatten sañjānāti into generic knowing.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the opening MN 18 line from drifting into psychologized feeling-language or over-heavy knowing-language."
+  }
+}

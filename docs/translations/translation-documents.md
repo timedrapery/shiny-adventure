@@ -41,3 +41,10 @@ Current MN 19 surfaces:
   translation text
 - [mn19-dvedhavitakka-sutta-notes.md](mn19-dvedhavitakka-sutta-notes.md):
   companion translator notes and rationale
+
+Current MN 18 surfaces:
+
+- [mn18-madhupindika-sutta.md](mn18-madhupindika-sutta.md): main shareable
+  translation text
+- [mn18-madhupindika-sutta-notes.md](mn18-madhupindika-sutta-notes.md):
+  companion translator notes and rationale
