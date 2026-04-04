@@ -1,0 +1,52 @@
+{
+  "term": "etaṁ mama, esohamasmi, eso me attā",
+  "normalized_term": "etam-mama-esohamasmi-eso-me-atta",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "this is mine, I am this, this is my self",
+  "alternative_translations": [
+    "this is mine, this I am, this is my self"
+  ],
+  "discouraged_translations": [
+    "this belongs to me, this is who I really am, this is the self"
+  ],
+  "definition": "Canonical three-part selfing formula of ownership, identification, and self-claim.",
+  "notes": "Use this record when a text explicitly spells out the movement into appropriation. Keep the three turns distinct: possession, I-am identification, and self-claim. MN 148 uses the formula as the live pattern of identity-arising rather than as an abstract doctrinal slogan.",
+  "related_terms": [
+    "anatta",
+    "atta",
+    "sakkaya",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "etaṁ mama, esohamasmi, eso me attā",
+      "translation": "this is mine, I am this, this is my self",
+      "notes": "Control line for the positive selfing pattern in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148",
+    "SN 22.59"
+  ],
+  "tags": [
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the formula as the explicit path leading to the arising of identity."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the positive selfing formula.",
+    "when_not_to_apply": "Do not soften the line into generic identity language and do not collapse the three movements into one vague paraphrase.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents explicit appropriation language from drifting into milder ownership or self-esteem phrasing."
+  }
+}

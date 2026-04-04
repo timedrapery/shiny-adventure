@@ -48,3 +48,10 @@ Current MN 18 surfaces:
   translation text
 - [mn18-madhupindika-sutta-notes.md](mn18-madhupindika-sutta-notes.md):
   companion translator notes and rationale
+
+Current MN 148 surfaces:
+
+- [mn148-chachakka-sutta.md](mn148-chachakka-sutta.md): main shareable
+  translation text
+- [mn148-chachakka-sutta-notes.md](mn148-chachakka-sutta-notes.md):
+  companion translator notes and rationale
