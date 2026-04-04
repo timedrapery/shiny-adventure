@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "The mind as one of the sense fields.",
+  "notes": "Keeps the internal mind field aligned with the ayatana family under sense-field language and pairs it with dhammas and mind-contact rather than turning it into an abstract cognitive realm.",
+  "related_terms": [
+    "dhammayatana",
+    "mano-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "man\u0101yatana\u1e43",
+      "translation": "the mind sense field",
+      "notes": "Internal field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

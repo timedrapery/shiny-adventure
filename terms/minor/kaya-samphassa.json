@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "body-contact",
+  "alternative_translations": [
+    "contact at the body"
+  ],
+  "discouraged_translations": [
+    "body sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the body when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the body-field interface. Keep it distinct from the field itself, from tangibles, and from the feeling that follows.",
   "literal_meaning": "contact at the body",
+  "related_terms": [
+    "kayayatana",
+    "photthabbatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāyasamphasso",
+      "translation": "body-contact",
+      "notes": "Contact event at the body-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

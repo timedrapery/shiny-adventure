@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "The tongue as one of the sense fields.",
+  "notes": "Keeps the internal tongue field aligned with the ayatana family under sense-field language and pairs it with tastes and tongue-contact rather than letting base-language become the unmarked default.",
+  "related_terms": [
+    "rasayatana",
+    "jivha-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jivh\u0101yatana\u1e43",
+      "translation": "the tongue sense field",
+      "notes": "Internal field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

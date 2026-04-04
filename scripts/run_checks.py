@@ -22,6 +22,7 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Jhana cluster", [sys.executable, "scripts/jhana_cluster_report.py", "--strict"]),
     ("Path-factor cluster", [sys.executable, "scripts/path_factor_cluster_report.py", "--strict"]),
     ("Four noble truths cluster", [sys.executable, "scripts/four_noble_truths_cluster_report.py", "--strict"]),
+    ("Sense-fields cluster", [sys.executable, "scripts/sense_fields_cluster_report.py", "--strict"]),
     ("Five heaps cluster", [sys.executable, "scripts/five_heaps_cluster_report.py", "--strict"]),
     ("Identity-construction cluster", [sys.executable, "scripts/identity_construction_cluster_report.py", "--strict"]),
     ("Bondage / residue cluster", [sys.executable, "scripts/bondage_residue_cluster_report.py", "--strict"]),

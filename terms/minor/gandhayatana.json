@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Odors as the olfactory object-field.",
+  "notes": "Keeps the olfactory object-side field aligned with the ayatana family under sense-field language and pairs it with the nose field and nose-contact rather than base-language.",
+  "related_terms": [
+    "ghanayatana",
+    "ghana-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "gandh\u0101yatana\u1e43",
+      "translation": "the odor sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

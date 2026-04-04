@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "The ear as one of the sense fields.",
+  "notes": "Keeps the internal ear field aligned with the ayatana family under sense-field language and pairs it with sounds and ear-contact rather than letting base-language become the unmarked default.",
+  "related_terms": [
+    "saddayatana",
+    "sota-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sot\u0101yatana\u1e43",
+      "translation": "the ear sense field",
+      "notes": "Internal field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

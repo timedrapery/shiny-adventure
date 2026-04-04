@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Dhammas as the mind-object field.",
+  "notes": "Keeps the mind-object field aligned with the ayatana family under sense-field language and pairs it with the mind field and mind-contact rather than turning the term into a vague abstract realm.",
+  "related_terms": [
+    "manayatana",
+    "mano-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhamm\u0101yatana\u1e43",
+      "translation": "the dhamma sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Sounds as the auditory object-field.",
+  "notes": "Keeps the auditory object-side field aligned with the ayatana family under sense-field language and pairs it with the ear field and ear-contact rather than base-language.",
+  "related_terms": [
+    "sotayatana",
+    "sota-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sadd\u0101yatana\u1e43",
+      "translation": "the sound sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],
