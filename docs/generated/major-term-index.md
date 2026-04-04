@@ -2,13 +2,14 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 234
+- Entries: 236
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
+| [abhijanati](../../terms/major/abhijanati.json) | abhijānāti | directly knows | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |
 | [abhinna](../../terms/major/abhinna.json) | abhiññā | higher knowing | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [abyapada](../../terms/major/abyapada.json) | abyāpāda | non-ill-will | reviewed | core-practice, mental-qualities |
 | [adhicitta](../../terms/major/adhicitta.json) | adhicitta | higher mind | stable | core-practice, mental-qualities, meditative-development |
@@ -174,6 +175,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [magga](../../terms/major/magga.json) | magga | path | reviewed | core-doctrine, core-practice, four-noble-truths |
 | [mana](../../terms/major/mana.json) | māna | conceit | stable | mental-qualities, core-doctrine, self-view, translation-sensitive |
 | [manasikara](../../terms/major/manasikara.json) | manasikāra | attention | stable | core-doctrine, core-practice, mental-qualities |
+| [mannati](../../terms/major/mannati.json) | maññati | takes to be | stable | core-doctrine, core-practice, translation-sensitive, self-view |
 | [mano-vinnana](../../terms/major/mano-vinnana.json) | manoviññāṇa | mind-knowing | reviewed | sense-fields, core-doctrine |
 | [mano](../../terms/major/mano.json) | mano | thinking mind | reviewed | core-doctrine, sense-fields, context-sensitive, translation-sensitive |
 | [manosancetana-ahara](../../terms/major/manosancetana-ahara.json) | manosañcetanāhāra | mental-intention nutriment | stable | core-doctrine, dependent-origination, translation-sensitive |

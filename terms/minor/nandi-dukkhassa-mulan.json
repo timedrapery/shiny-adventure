@@ -1,0 +1,53 @@
+{
+  "term": "nandī dukkhassa mūlan",
+  "normalized_term": "nandi-dukkhassa-mulan",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "delight is the root of dissatisfaction",
+  "alternative_translations": [
+    "relishing is the root of dissatisfaction",
+    "delighting is the root of dissatisfaction"
+  ],
+  "discouraged_translations": [
+    "happiness is the root of suffering"
+  ],
+  "definition": "MN 1 closing causal line linking delighting to the root of dissatisfaction.",
+  "notes": "Use this record for the closing causal turn of MN 1. It is a controlled full-line override of the nandī headword default: delight lands more cleanly than relishing in this concise causal sentence, while still preserving the active affective pull of the term.",
+  "related_terms": [
+    "bhava",
+    "dukkha",
+    "nandi",
+    "tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nandī dukkhassa mūlan",
+      "translation": "delight is the root of dissatisfaction",
+      "notes": "Closing causal line in the Tathāgata section of MN 1.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "four-noble-truths"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the concise closing causal line that links delighting to the root of dukkha."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the MN 1 causal closing.",
+    "when_not_to_apply": "Do not flatten delight into generic happiness or rotate back to suffering-language in this line.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compact line from losing either the active nandī force or the repo's governed dukkha rendering."
+  }
+}

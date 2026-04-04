@@ -22,9 +22,12 @@ source-audit calls, and edition notes that govern it.
   discourse works by a repeated root-pattern of recognition, selfing,
   ownership, and delight.
 - `sañjānāti` remains `recognizes`.
+- `abhijānāti` is now an explicit repo headword governed as `directly knows`.
 - In this discourse, the `maññati` family is rendered with explicit
   selfing-language: `takes oneself to be`, `takes oneself in`, `takes oneself
   apart from`, and `takes ... as 'mine'`.
+- `maññati` is now an explicit repo headword governed as `takes to be`, with
+  the MN 1 pattern using the more explicit selfing expansions.
 - `sekha` remains `trainee`.
 - `pariññā` family language remains governed by `full understanding`.
 - `nibbāna` remains untranslated.
@@ -37,12 +40,12 @@ source-audit calls, and edition notes that govern it.
   decoded before the discourse can be read. The governing point is the
   repeated practical movement from recognition into selfing and delight.
 - `sañjānāti` and `abhijānāti` are kept distinct in English as `recognizes`
-  and `directly knows`. The latter remains a document-level decision here
-  pending a fuller verbal-family expansion in `terms/`.
+  and `directly knows`, and that distinction is now stabilized in `terms/`.
 - The `maññati` lines are not rendered with abstract `conceives` language in
   the main file. This edition keeps the practical self-taking movement more
   explicit because that is what makes the sequence readable as training rather
-  than as ontology.
+  than as ontology, and that policy is now stabilized in the `maññati`
+  headword and the new MN 1 phrase records.
 - `nibbāna` is left untranslated even inside the list. That is deliberate. MN 1
   matters in part because it shows that even nibbāna-language can be taken up
   wrongly by the ordinary person and still remains a field for training in the
@@ -81,13 +84,11 @@ source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- Add a governed `maññati` headword so MN 1 no longer depends on a
-  translation-note decision for its central verb-family.
-- Add a governed `abhijānāti` headword so the recognition / knowing /
-  discernment ladder is complete in `terms/`.
 - If MN 1 becomes a wider control passage for selfing and appropriation work,
   consider a small translator-facing note on the relation between `maññati`,
-  `asmimāna`, and `upādāna`.
+  `asmimāna`, `upādāna`, and `papañca`.
+- Use the now-stabilized `sañjānāti` / `abhijānāti` / `maññati` pattern as a
+  direct support surface for the planned MN 18 pass.
 
 ## Edition Status
 

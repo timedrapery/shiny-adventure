@@ -1,0 +1,52 @@
+{
+  "term": "paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati",
+  "normalized_term": "pathavim-pathavito-sannatva-pathavim-mannati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "having recognized earth as earth, one takes oneself to be earth",
+  "alternative_translations": [
+    "having recognized earth as earth, one conceives earth"
+  ],
+  "discouraged_translations": [
+    "having perceived earth, one thinks about earth"
+  ],
+  "definition": "MN 1 formula surface showing the move from recognition into self-taking.",
+  "notes": "Use this record as the governing ordinary-person control line for the MN 1 maññati pattern. The English deliberately expands the selfing force rather than leaving maññati as a thinner abstract conceiving-verb. The line is not about neutral cognition; it marks the shift from recognition into appropriation.",
+  "related_terms": [
+    "asmimana",
+    "mannati",
+    "sanjanati",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati",
+      "translation": "having recognized earth as earth, one takes oneself to be earth",
+      "notes": "Control line for the ordinary-person side of the MN 1 pattern.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "self-view"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the ordinary-person move from recognition into selfing in the root-sequence pattern."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the ordinary-person MN 1 selfing pattern.",
+    "when_not_to_apply": "Do not flatten the line into generic perception or thought language, and do not use the conceives alternate unless a source-critical discussion explicitly requires it.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the MN 1 pattern from losing the move from recognition into self-taking."
+  }
+}

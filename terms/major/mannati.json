@@ -1,0 +1,95 @@
+{
+  "term": "maññati",
+  "normalized_term": "mannati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "takes to be, conceives",
+  "preferred_translation": "takes to be",
+  "alternative_translations": [
+    "conceives",
+    "regards as"
+  ],
+  "discouraged_translations": [
+    "thinks",
+    "imagines",
+    "understands"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A selfing or construing verb: taking something as something, often in ways that place self, ownership, or stand-apart relation into the field.",
+  "notes": "The project keeps takes to be as the default because maññati in this repository is not generic thinking. In MN 1 it names the live move from recognition into selfing, ownership, standing in, standing apart from, and taking as mine. Conceives remains a controlled alternate where source-critical or comparative prose explicitly needs the familiar doctrinal label, and regards as can help when the local syntax is broader than the tight MN 1 selfing pattern. But the headword should not be flattened into thinks, because that would erase the appropriation-side force that makes the discourse readable. In this repository, maññati belongs near asmimāna, upādāna, and papañca: it is one of the verbal surfaces by which I-making and mine-making spread across the field of experience.",
+  "context_rules": [
+    {
+      "context": "In most source-facing contexts where the verb marks taking something as something",
+      "rendering": "takes to be",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "In the structured MN 1 selfing pattern where the English needs the local self-reference spelled out",
+      "rendering": "takes oneself to be",
+      "notes": "Use for forms such as paṭhaviṃ maññati where the appropriation-side force should stay explicit."
+    },
+    {
+      "context": "In source-critical or comparative doctrinal prose where the familiar technical label is useful",
+      "rendering": "conceives",
+      "notes": "Allowed alternate, but do not let it become the unexamined default."
+    },
+    {
+      "context": "When the grammar is broader and English needs a slightly less forceful phrase",
+      "rendering": "regards as",
+      "notes": "Use only where the local syntax clearly supports it."
+    }
+  ],
+  "related_terms": [
+    "abhijanati",
+    "anatta",
+    "asmimana",
+    "mana",
+    "papanca",
+    "sanjanati",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ maññati",
+      "translation": "one takes oneself to be earth",
+      "notes": "The English expands the selfing force rather than leaving the line as a thin abstract conceiving-verb.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "nibbānaṃ me ti maññati",
+      "translation": "one takes nibbāna as 'mine'",
+      "notes": "Shows that the same selfing and ownership movement can even appropriate nibbāna-language.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "self-view"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the selfing, ownership, and delight pattern that the verb governs in the root-sequence discourse."
+    },
+    {
+      "source": "Repository editorial record",
+      "priority": "secondary",
+      "kind": "rationale",
+      "scope": "Supports keeping maññati distinct from generic thinking and aligning it with selfing, appropriation, and proliferation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'takes to be' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use the more explicit 'takes oneself to be' in MN 1-style selfing patterns, and use controlled 'conceives' or 'regards as' only where the local context genuinely benefits. Do not flatten maññati into generic thinking or understanding.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the verb from disappearing into bland thought-language and preserves its role in selfing, mine-making, and appropriation."
+  },
+  "version_notes": "Added after the MN 1 translation pass to stabilize the selfing verb-family rather than leaving it as a document-local decision."
+}

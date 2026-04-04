@@ -1,0 +1,52 @@
+{
+  "term": "paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati",
+  "normalized_term": "pathavim-pathavito-abhinnaya-pathavim-na-mannati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "having directly known earth as earth, one does not take oneself to be earth",
+  "alternative_translations": [
+    "having directly known earth as earth, one does not conceive earth"
+  ],
+  "discouraged_translations": [
+    "having understood earth, one does not think earth"
+  ],
+  "definition": "MN 1 completed formula surface pairing direct knowing with the absence of selfing.",
+  "notes": "Use this record for the arahant and Tathāgata side of the MN 1 pattern. The line preserves the same direct-knowing surface as the trainee formula, but here the non-selfing is stated as accomplished rather than instructed.",
+  "related_terms": [
+    "abhijanati",
+    "mannati",
+    "parinna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati",
+      "translation": "having directly known earth as earth, one does not take oneself to be earth",
+      "notes": "Control line for the completed arahant and Tathāgata pattern.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "self-view",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the accomplished non-selfing line for the arahant and the Tathāgata in the root-sequence pattern."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the completed MN 1 non-selfing pattern.",
+    "when_not_to_apply": "Do not flatten the line into generic understanding or thought language, and do not erase the achieved contrast with the prohibitive trainee formula.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the completed pattern from losing either the direct-knowing force or the explicit absence of selfing."
+  }
+}

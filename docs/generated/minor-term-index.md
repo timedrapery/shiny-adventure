@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 832
+- Entries: 837
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -161,6 +161,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [bhante](../../terms/minor/bhante.json) | bhante | bhante | reviewed | persons, translation-sensitive |
 | [bharo-have-pancakkhandha](../../terms/minor/bharo-have-pancakkhandha.json) | bhāro have pañcakkhandhā | the five heaps are indeed a burden | stable | aggregates, formula |
 | [bhatta](../../terms/minor/bhatta.json) | bhatta | meal | reviewed | embodiment |
+| [bhava-jati-bhutassa-jaramaranam](../../terms/minor/bhava-jati-bhutassa-jaramaranam.json) | bhavā jāti bhūtassa jarāmaraṇaṁ | with becoming there is birth, and for whatever has come to be there are aging and death | reviewed | core-doctrine, dependent-origination, translation-sensitive |
 | [bhava-nirodha](../../terms/minor/bhava-nirodha.json) | bhava-nirodha | quenching of becoming | reviewed | dependent-origination, liberation |
 | [bhava-paccaya](../../terms/minor/bhava-paccaya.json) | bhava-paccaya | becoming as condition | reviewed | dependent-origination, causality |
 | [bhavapaccaya-jati](../../terms/minor/bhavapaccaya-jati.json) | bhavapaccayā jāti | with becoming as condition, birth | reviewed | dependent-origination, causality, translation-sensitive |
@@ -511,6 +512,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [namarupapaccaya-salayatanam](../../terms/minor/namarupapaccaya-salayatanam.json) | nāmarūpapaccayā saḷāyatanaṃ | with name-and-form as condition, the six fields of experience | reviewed | dependent-origination, causality, translation-sensitive |
 | [nanadassana](../../terms/minor/nanadassana.json) | ñāṇadassana | knowing and seeing | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [nandaka](../../terms/minor/nandaka.json) | Nandaka | Nandaka | reviewed | persons |
+| [nandi-dukkhassa-mulan](../../terms/minor/nandi-dukkhassa-mulan.json) | nandī dukkhassa mūlan | delight is the root of dissatisfaction | reviewed | core-doctrine, core-practice, translation-sensitive, four-noble-truths |
 | [nandiraga-sahagata](../../terms/minor/nandiraga-sahagata.json) | nandirāgasahagatā | accompanied by relishing and passion | stable | four-noble-truths, formula, translation-sensitive |
 | [naparam-itthattayati-pajanati](../../terms/minor/naparam-itthattayati-pajanati.json) | nāparaṃ itthattāyāti pajānāti | one discerns: there is no more of this state of being | stable | core-doctrine, liberation, translation-sensitive, verbal-knowing-cluster |
 | [nataka](../../terms/minor/nataka.json) | ñātaka | relative | reviewed | persons |
@@ -610,6 +612,9 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pathavi-dhatu](../../terms/minor/pathavi-dhatu.json) | pathavi-dhatu | earth element | reviewed | embodiment, core-doctrine |
 | [pathavi-kasina](../../terms/minor/pathavi-kasina.json) | pathavī-kasiṇa | earth kasina | reviewed | meditative-development |
 | [pathavi](../../terms/minor/pathavi.json) | pathavi | earth | reviewed | embodiment, core-doctrine |
+| [pathavim-pathavito-abhinnaya-pathavim-ma-manni](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-ma-manni.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi | having directly known earth as earth, one should not take oneself to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
+| [pathavim-pathavito-abhinnaya-pathavim-na-mannati](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-na-mannati.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati | having directly known earth as earth, one does not take oneself to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
+| [pathavim-pathavito-sannatva-pathavim-mannati](../../terms/minor/pathavim-pathavito-sannatva-pathavim-mannati.json) | paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati | having recognized earth as earth, one takes oneself to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view |
 | [patibhaga-nimitta](../../terms/minor/patibhaga-nimitta.json) | patibhaga-nimitta | counterpart sign | reviewed | meditative-development |
 | [patigha-anusaya](../../terms/minor/patigha-anusaya.json) | paṭigha-anusaya | underlying tendency toward resistance | stable | core-doctrine, mental-qualities |
 | [patinissagga](../../terms/minor/patinissagga.json) | paṭinissagga | relinquishment | reviewed | mental-qualities |
