@@ -1,0 +1,57 @@
+{
+  "term": "ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
+  "normalized_term": "mn10-satipatthana-qualifier",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world",
+  "alternative_translations": [
+    "ardent, clearly knowing, and remembering, having removed coveting and distress regarding the world"
+  ],
+  "discouraged_translations": [
+    "ardent, fully aware, and mindful, having put away greed and distress for the world",
+    "mindful and clearly comprehending after putting away worldly grief"
+  ],
+  "definition": "Core satipaṭṭhāna qualifier line naming the practical stance of ardency, clear knowing, remembering, and removal of coveting and distress.",
+  "notes": "Use this record for the recurring MN 10 satipaṭṭhāna qualifier line. Keep sati and sampajañña distinct in English, and keep abhijjhā as coveting rather than broad greed. The line is practical and operational, not ceremonial.",
+  "related_terms": [
+    "abhijjha",
+    "atapi",
+    "domanassa",
+    "sampajanna",
+    "sati",
+    "satima",
+    "satima-sampajano",
+    "satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
+      "translation": "ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world",
+      "notes": "Core repeated qualifier in the four satipaṭṭhāna branches.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "DN 22"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "satipatthana"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10",
+      "kind": "context-rule",
+      "scope": "Supports the recurring practical qualifier line in the satipaṭṭhāna framework."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the recurring satipaṭṭhāna qualifier unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not collapse sati and sampajañña into one English word, and do not let coveting drift into generic greed or distress drift into a larger sorrow-language not present in the line.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the core satipaṭṭhāna qualifier line from drifting into mindfulness-jargon, archaic formula English, or blurred mental-quality language."
+  }
+}

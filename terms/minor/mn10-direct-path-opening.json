@@ -1,0 +1,56 @@
+{
+  "term": "ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā",
+  "normalized_term": "mn10-direct-path-opening",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "Bhikkhus, this is the direct path for the purification of beings, for going beyond sorrow and lamentation, for ending pain and distress, for reaching the right way, for directly realizing nibbāna: namely, the four establishments of sati",
+  "alternative_translations": [
+    "Bhikkhus, this is the direct path for the purification of beings ... namely, the four establishments of sati"
+  ],
+  "discouraged_translations": [
+    "this is the one and only way",
+    "this is the path of mindfulness meditation"
+  ],
+  "definition": "Opening MN 10 formula naming the four establishments of sati as the direct path to purification and nibbāna.",
+  "notes": "Use this record when the full MN 10 opening formula is translated directly. The repository keeps direct path rather than more absolutist or sermonic English for ekāyano. Keep nibbāna untranslated, and keep the line tied to the satipaṭṭhāna framework rather than recasting it as generic meditation marketing.",
+  "related_terms": [
+    "ariyasacca",
+    "cattaro-satipatthana",
+    "dukkha",
+    "magga",
+    "nibbana",
+    "nirodha",
+    "sati",
+    "satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā ... yadidaṁ cattāro satipaṭṭhānā",
+      "translation": "Bhikkhus, this is the direct path for the purification of beings, for going beyond sorrow and lamentation, for ending pain and distress, for reaching the right way, for directly realizing nibbāna: namely, the four establishments of sati",
+      "notes": "Opening control line for MN 10.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "satipatthana"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10",
+      "kind": "context-rule",
+      "scope": "Supports the opening path formula for the four establishments of sati."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the MN 10 opening formula unless a recorded local reason requires abbreviation.",
+    "when_not_to_apply": "Do not turn ekāyano into an uncontrolled claim that this is the only path in every possible sense, and do not replace the governed satipaṭṭhāna language with generic mindfulness-meditation wording.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the MN 10 opening formula from drifting into absolutist slogan language, mindfulness-language, or flattened nibbāna explanation."
+  }
+}

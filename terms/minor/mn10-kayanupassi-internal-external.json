@@ -1,0 +1,53 @@
+{
+  "term": "ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati",
+  "normalized_term": "mn10-kayanupassi-internal-external",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one remains observing the body as internal, observing the body as external, and observing the body as both internal and external",
+  "alternative_translations": [
+    "one remains observing the body within, observing the body outside, and observing the body both within and outside"
+  ],
+  "discouraged_translations": [
+    "one dwells contemplating the body internally and externally",
+    "one observes the body in oneself and in others"
+  ],
+  "definition": "Body-specific satipaṭṭhāna refrain line naming the internal, external, and internal-and-external contemplative turns.",
+  "notes": "Use this record for the body branch refrain in MN 10. The repository keeps internal and external rather than subjective and objective, and does not recast the line into self/other commentary. The same structural pattern governs the felt-experience, feeling-mind, and dhamma branches with the expected noun substitutions.",
+  "related_terms": [
+    "ajjhatta",
+    "bahiddha",
+    "kaya",
+    "kayanupassana",
+    "satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati",
+      "translation": "one remains observing the body as internal, observing the body as external, and observing the body as both internal and external",
+      "notes": "Body-branch refrain in MN 10.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "satipatthana"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10",
+      "kind": "context-rule",
+      "scope": "Supports the body-branch refrain pattern and its internal / external contrast."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the body-branch internal / external refrain unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not psychologize the contrast into subjective versus objective, and do not recast the line into self-versus-other commentary unless a source-facing note explicitly explains why.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the satipaṭṭhāna refrain from drifting into archaic contemplation-language or psychologized internal/external explanation."
+  }
+}

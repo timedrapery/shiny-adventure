@@ -1,0 +1,53 @@
+{
+  "term": "'atthi kāyo'ti vā panassa sati paccupaṭṭhitā hoti ... anissito ca viharati, na ca kiñci loke upādiyati",
+  "normalized_term": "mn10-kayo-anchor-nonappropriation",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally",
+  "alternative_translations": [
+    "or remembering is established: 'There is body,' just enough for knowing and for remembering. One remains without depending on anything and does not take anything in the world personally"
+  ],
+  "discouraged_translations": [
+    "body exists",
+    "he lives independent and clings to nothing in the world"
+  ],
+  "definition": "Body-specific closing anchor of the satipaṭṭhāna refrain, pairing bare presence-for-knowing with non-dependence and non-appropriation.",
+  "notes": "Use this record for the body-branch closing anchor in MN 10. The line is not a metaphysical claim that body exists in the abstract. It marks a practical anchor: enough presence for knowing and remembering, without leaning on anything and without taking anything personally. The same structure governs the felt-experience, feeling-mind, and dhamma branches with the expected noun substitutions.",
+  "related_terms": [
+    "anissita",
+    "kaya",
+    "sati",
+    "satipatthana",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "'atthi kāyo'ti vā panassa sati paccupaṭṭhitā hoti ... anissito ca viharati, na ca kiñci loke upādiyati",
+      "translation": "or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally",
+      "notes": "Body-branch closing anchor in the MN 10 refrain.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "satipatthana"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10",
+      "kind": "context-rule",
+      "scope": "Supports the body-branch closing anchor in the satipaṭṭhāna refrain."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the body-branch closing anchor unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not turn ‘There is body’ into a metaphysical proposition, and do not flatten the closing into generic non-attachment language that loses the repository's taking-personally distinction.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the satipaṭṭhāna closing anchor from drifting into metaphysical existence-language, generic non-attachment rhetoric, or stale clinging-language."
+  }
+}
