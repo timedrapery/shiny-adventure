@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 846
+- Entries: 850
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -489,6 +489,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [miccha-vayama](../../terms/minor/miccha-vayama.json) | micchā-vāyāma | wrong effort | reviewed | core-practice |
 | [miccha-vimutti](../../terms/minor/miccha-vimutti.json) | micchā-vimutti | wrong release | reviewed | core-practice, liberation |
 | [mitta](../../terms/minor/mitta.json) | mitta | friend | reviewed | persons |
+| [mn10-direct-path-opening](../../terms/minor/mn10-direct-path-opening.json) | ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā | Bhikkhus, this is the direct path for the purification of beings, for going beyond sorrow and lamentation, for ending pain and distress, for reaching the right way, for directly realizing nibbāna: namely, the four establishments of sati | reviewed | core-practice, translation-sensitive, satipatthana |
+| [mn10-kayanupassi-internal-external](../../terms/minor/mn10-kayanupassi-internal-external.json) | ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati | one remains observing the body as internal, observing the body as external, and observing the body as both internal and external | reviewed | core-practice, translation-sensitive, satipatthana |
+| [mn10-kayo-anchor-nonappropriation](../../terms/minor/mn10-kayo-anchor-nonappropriation.json) | 'atthi kāyo'ti vā panassa sati paccupaṭṭhitā hoti ... anissito ca viharati, na ca kiñci loke upādiyati | or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally | reviewed | core-practice, translation-sensitive, satipatthana |
+| [mn10-satipatthana-qualifier](../../terms/minor/mn10-satipatthana-qualifier.json) | ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ | ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world | reviewed | core-practice, translation-sensitive, satipatthana |
 | [moggallana](../../terms/minor/moggallana.json) | Moggallāna | Moggallāna | reviewed | persons |
 | [moha-mula](../../terms/minor/moha-mula.json) | mohamūla | rooted in delusion | draft | ethics, mental-qualities |
 | [mohagati](../../terms/minor/mohagati.json) | mohagati | bias through confusion | reviewed | ethics |
