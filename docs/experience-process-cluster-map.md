@@ -17,7 +17,7 @@ unless a governed record explicitly allows those English words in a specific way
 | Pali | Default | Functional role | Do not collapse into |
 | --- | --- | --- | --- |
 | `phassa` | `contact` | the contact event in the sense process | mere physical touch, vague encounter, sensation |
-| `vedanā` | `felt experience` | immediate felt tone, pleasant/painful/neutral | emotion, mood, affect |
+| `vedanā` | `felt experience` | immediate felt tone, pleasant/painful/mixed | emotion, mood, affect |
 | `saññā` | `recognition` | marking and identifying | thought, concept, memory |
 | `cetanā` | `intention` | directing / intending factor shaping action | desire, willpower, free will |
 | `viññāṇa` | `knowing` | conditioned knowing tied to sense process | self, soul, pure awareness, generic sentience |

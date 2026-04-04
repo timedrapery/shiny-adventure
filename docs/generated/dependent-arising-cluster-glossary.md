@@ -9,7 +9,7 @@
 | saḷāyatana | six fields of experience | six sense fields, sense field, six sense bases, six sense domains | sense organs |
 | phassa | contact | touch | sensation, touching, encounter |
 | vedanā | felt experience | feeling, feeling tone, sensation | emotion, mood, affect |
-| taṇhā | ignorant wanting | craving, thirst, excitement about things, wanting things you can't have right now | desire, attachment |
+| taṇhā | ignorant wanting | craving, thirst, excitement about getting things, wanting things you can't have right now | desire, attachment |
 | upādāna | taking personally | ignorantly holding, clinging, grasping, fuel | attachment, desire |
 | bhava | becoming | being, existence, state of existence, form of becoming, development, well-being, prosperity | life |
 | jāti | birth | rebirth, conception, arising | mere biological birth |

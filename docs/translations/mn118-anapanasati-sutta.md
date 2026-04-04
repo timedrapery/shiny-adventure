@@ -147,7 +147,7 @@ body conditioner calmed through each breath.*
 Feeling-related trainings:
 *With each in-breath and out-breath, the trainee remembers to bring forth
 delight and ease, and to experience and calm the mind conditioner, namely
-feeling and recognition: liking, disliking, or neither liking nor disliking.*
+feeling and recognition: liking, disliking, or a mixed pull.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:

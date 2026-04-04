@@ -36,10 +36,13 @@ class ExperienceProcessPolicyTests(unittest.TestCase):
 
     def test_vedana_is_not_flattened_into_emotion_or_mood(self) -> None:
         vedana = load_term("terms/major/vedana.json")
+        mixed = load_term("terms/minor/adukkhamasukha-vedana.json")
 
         self.assertIn("emotion", vedana["discouraged_translations"])
         self.assertIn("mood", vedana["discouraged_translations"])
         self.assertIn("felt experience", vedana["translation_policy"]["default_scope"])
+        self.assertIn("mixed", vedana["definition"])
+        self.assertEqual(mixed["preferred_translation"], "mixed feeling")
 
     def test_sanna_is_not_flattened_into_thought_or_concept(self) -> None:
         sanna = load_term("terms/major/sanna.json")

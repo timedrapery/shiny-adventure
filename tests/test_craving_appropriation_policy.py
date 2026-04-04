@@ -33,6 +33,7 @@ class CravingAppropriationPolicyTests(unittest.TestCase):
 
         self.assertIn("craving", chanda["discouraged_translations"])
         self.assertIn("desire", tanha["discouraged_translations"])
+        self.assertIn("excitement about getting things", tanha["alternative_translations"])
         self.assertIn("broader than taṇhā", chanda["notes"])
 
     def test_upadana_is_not_left_as_vague_attachment(self) -> None:

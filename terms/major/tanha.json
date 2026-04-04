@@ -8,7 +8,7 @@
   "alternative_translations": [
     "craving",
     "thirst",
-    "excitement about things",
+    "excitement about getting things",
     "wanting things you can't have right now"
   ],
   "discouraged_translations": [
@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Restless ignorant wanting that lunges toward satisfaction through experience, becoming, or non-becoming.",
-  "notes": "OSF house style keeps ignorant wanting as the default for taṇhā. In this repository, taṇhā is not generic desire. It names the thirsty, unsatisfied, mistake-driven wanting that drives the origin of dissatisfaction and the dependent-arising movement from felt experience toward appropriation. Craving remains a controlled alternate when continuity with familiar Buddhist-English terminology matters, and thirst remains available when the embedded metaphor needs to be audible. Taṇhā must stay distinct from chanda, which can be wholesome; from rāga, which is passion or affective coloring; from nandī, which is relishing or delighting; and from upādāna, which is the step of taking personally or appropriation. The standard definition of taṇhā as ponobbhavikā and nandirāgasahagatā should preserve that family coordination instead of flattening the whole field into desire. Compounds in the taṇhā family should inherit this headword unless a narrower formula or compound record documents a different rule. What Is And Is Not The Path supports treating taṇhā as an immediately observable practical problem, and SN 56.11 supports the classic definition formula. The Idappaccayatā practical talk profile reinforces the same practical immediacy by centering the movement from vedanā to taṇhā at lived sense contact rather than in distant speculative causation.",
+  "notes": "OSF house style keeps ignorant wanting as the default for taṇhā. In this repository, taṇhā is not generic desire. It names the thirsty, unsatisfied, mistake-driven wanting that drives the origin of dissatisfaction and the dependent-arising movement from felt experience toward appropriation. Craving remains a controlled alternate when continuity with familiar Buddhist-English terminology matters, and thirst remains available when the embedded metaphor needs to be audible. Excitement about getting things is also retained as a controlled practical gloss when the line needs to make the acquisitive, reactive pull immediately recognizable in plain English. Taṇhā must stay distinct from chanda, which can be wholesome; from rāga, which is passion or affective coloring; from nandī, which is relishing or delighting; and from upādāna, which is the step of taking personally or appropriation. The standard definition of taṇhā as ponobbhavikā and nandirāgasahagatā should preserve that family coordination instead of flattening the whole field into desire. Compounds in the taṇhā family should inherit this headword unless a narrower formula or compound record documents a different rule. What Is And Is Not The Path supports treating taṇhā as an immediately observable practical problem, and SN 56.11 supports the classic definition formula. The Idappaccayatā practical talk profile reinforces the same practical immediacy by centering the movement from vedanā to taṇhā at lived sense contact rather than in distant speculative causation.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical OSF contexts",
@@ -35,9 +35,9 @@
       "notes": "Acceptable in explanatory prose or special stylistic contexts."
     },
     {
-      "context": "In direct practical instruction emphasizing the agitated felt pull toward objects and outcomes",
-      "rendering": "excitement about things",
-      "notes": "Useful when the immediate restless leaning is the point."
+      "context": "In direct practical instruction emphasizing the agitated pull toward getting, securing, or forcing outcomes",
+      "rendering": "excitement about getting things",
+      "notes": "Useful when the immediate restless acquisitive leaning is the point."
     },
     {
       "context": "In plain-English newcomer explanation",
@@ -87,7 +87,7 @@
       "source": "SN 12.2"
     },
     {
-      "pali": "yāyaṁ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī",
+      "pali": "yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī",
       "translation": "that ignorant wanting that leads to renewed becoming, accompanied by relishing and passion, delighting here and there",
       "notes": "Classic four-truth definition line. Keep taṇhā, nandī, and rāga distinct.",
       "source": "SN 56.11"
@@ -130,7 +130,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'ignorant wanting' in most doctrinal and practical OSF contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Do not drift to desire by default inside dependent-arising and four-truths frames. Use 'craving' or 'thirst' only when the surrounding frame explicitly benefits from those controlled alternates.",
+    "when_not_to_apply": "Do not drift to desire by default inside dependent-arising and four-truths frames. Use 'craving', 'thirst', or 'excitement about getting things' only when the surrounding frame explicitly benefits from those controlled alternates.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents taṇhā from collapsing into generic desire-language or from absorbing the distinct functions of chanda, rāga, nandī, and upādāna."
   },

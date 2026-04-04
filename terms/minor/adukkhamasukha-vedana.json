@@ -3,8 +3,8 @@
   "normalized_term": "adukkhamasukha-vedana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "neutral feeling",
-  "definition": "Feeling that is neither painful nor pleasant.",
+  "preferred_translation": "mixed feeling",
+  "definition": "Feeling that is neither painful nor pleasant, rendered in this repository as mixed rather than neutral.",
   "status": "reviewed",
   "literal_meaning": "neither-painful-nor-pleasant feeling",
   "tags": [

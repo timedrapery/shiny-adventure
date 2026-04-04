@@ -29,7 +29,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [adinnadana-veramani](../../terms/minor/adinnadana-veramani.json) | adinnadana-veramani | abstaining from taking what is not given | reviewed | ethics |
 | [adinnadana](../../terms/minor/adinnadana.json) | adinnādāna | taking what is not given | reviewed | ethics |
 | [adosa-mula](../../terms/minor/adosa-mula.json) | adosamūla | rooted in non-aversion | draft | ethics, mental-qualities |
-| [adukkhamasukha-vedana](../../terms/minor/adukkhamasukha-vedana.json) | adukkhamasukhavedanā | neutral feeling | reviewed | aggregates |
+| [adukkhamasukha-vedana](../../terms/minor/adukkhamasukha-vedana.json) | adukkhamasukhavedanā | mixed feeling | reviewed | aggregates |
 | [agantuka](../../terms/minor/agantuka.json) | āgantuka | visiting | reviewed | core-doctrine |
 | [agara](../../terms/minor/agara.json) | agāra | household | reviewed | core-doctrine |
 | [ahara-paccaya](../../terms/minor/ahara-paccaya.json) | ahara-paccaya | nutriment condition | reviewed | causality |

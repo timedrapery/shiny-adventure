@@ -9,7 +9,7 @@
 - `saḷāyatana`: default `six fields of experience`; alternates `six sense fields, sense field, six sense bases, six sense domains`; discouraged `sense organs`
 - `phassa`: default `contact`; alternates `touch`; discouraged `sensation, touching, encounter`
 - `vedanā`: default `felt experience`; alternates `feeling, feeling tone, sensation`; discouraged `emotion, mood, affect`
-- `taṇhā`: default `ignorant wanting`; alternates `craving, thirst, excitement about things, wanting things you can't have right now`; discouraged `desire, attachment`
+- `taṇhā`: default `ignorant wanting`; alternates `craving, thirst, excitement about getting things, wanting things you can't have right now`; discouraged `desire, attachment`
 - `upādāna`: default `taking personally`; alternates `ignorantly holding, clinging, grasping, fuel`; discouraged `attachment, desire`
 - `bhava`: default `becoming`; alternates `being, existence, state of existence, form of becoming, development, well-being, prosperity`; discouraged `life`
 - `jāti`: default `birth`; alternates `rebirth, conception, arising`; discouraged `mere biological birth`

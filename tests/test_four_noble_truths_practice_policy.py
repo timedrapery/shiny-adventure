@@ -18,6 +18,7 @@ class FourNobleTruthsPracticePolicyTests(unittest.TestCase):
         ariyasacca = load_term("terms/major/ariyasacca.json")
 
         self.assertEqual(ariyasacca["preferred_translation"], "noble truth")
+        self.assertIn("truth of the buddha", ariyasacca["alternative_translations"])
         self.assertIn("correct noble practice", ariyasacca["notes"])
         self.assertTrue(any("wake up" in rule["notes"] for rule in ariyasacca["context_rules"]))
 
