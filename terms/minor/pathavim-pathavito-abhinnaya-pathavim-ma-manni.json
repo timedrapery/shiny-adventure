@@ -1,0 +1,52 @@
+{
+  "term": "paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi",
+  "normalized_term": "pathavim-pathavito-abhinnaya-pathavim-ma-manni",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "having directly known earth as earth, one should not take oneself to be earth",
+  "alternative_translations": [
+    "having directly known earth as earth, one is not to take oneself to be earth"
+  ],
+  "discouraged_translations": [
+    "having understood earth, one should not think earth"
+  ],
+  "definition": "MN 1 prohibitive formula surface pairing direct knowing with the instruction not to slide into selfing.",
+  "notes": "Use this record for the trainee-side control line in MN 1. The verb pair matters: abhijānāti marks direct knowing, while mā maññi blocks the ordinary-person movement into selfing and appropriation.",
+  "related_terms": [
+    "abhijanati",
+    "mannati",
+    "parinna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi",
+      "translation": "having directly known earth as earth, one should not take oneself to be earth",
+      "notes": "Control line for the prohibitive trainee-side pattern.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "self-view",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the trainee-side line where direct knowing blocks the slide into selfing."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the trainee-side MN 1 pattern.",
+    "when_not_to_apply": "Do not weaken the line into generic understanding or thought language, and do not lose the prohibitive force of mā maññi.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the trainee-side pattern from losing either the direct-knowing verb or the explicit prohibition on selfing."
+  }
+}

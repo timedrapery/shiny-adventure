@@ -1,0 +1,52 @@
+{
+  "term": "bhavā jāti bhūtassa jarāmaraṇaṁ",
+  "normalized_term": "bhava-jati-bhutassa-jaramaranam",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "with becoming there is birth, and for whatever has come to be there are aging and death",
+  "alternative_translations": [
+    "from becoming, birth; for what has come to be, aging and death"
+  ],
+  "discouraged_translations": [
+    "existence causes mortality"
+  ],
+  "definition": "MN 1 closing causal line moving from becoming into birth and then the aging and death of what has come to be.",
+  "notes": "Use this record for the closing processive line in MN 1. It should stay coordinated with the bhava, jāti, bhūta, and jarāmaraṇa headwords without being flattened into abstract metaphysical causation.",
+  "related_terms": [
+    "bhava",
+    "bhuta",
+    "jati",
+    "jaramarana",
+    "paticcasamuppada"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhavā jāti bhūtassa jarāmaraṇaṁ",
+      "translation": "with becoming there is birth, and for whatever has come to be there are aging and death",
+      "notes": "Closing processive line in the Tathāgata section of MN 1.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the compact causal move from becoming to birth and then to aging and death in the discourse's closing explanation."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the MN 1 becoming-birth-aging-death close.",
+    "when_not_to_apply": "Do not replace the processive line with abstract cause-language or detach it from the repo's governed bhava, jāti, bhūta, and jarāmaraṇa handling.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compact closing line from collapsing into static existence-language or generic mortality talk."
+  }
+}

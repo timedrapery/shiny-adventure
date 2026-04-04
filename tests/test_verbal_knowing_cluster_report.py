@@ -80,7 +80,7 @@ class VerbalKnowingClusterReportTests(unittest.TestCase):
         self.assertEqual(len(written), 2)
         self.assertTrue(any(path.name == "verbal-knowing-cluster-glossary.md" for path in written))
 
-    def test_render_contrast_sheet_mentions_recognition_and_sanna(self) -> None:
+    def test_render_contrast_sheet_mentions_recognition_selfing_and_sanna(self) -> None:
         terms = {
             stem: make_record(stem)
             for stem in cluster_report.HEADWORD_TERMS + cluster_report.SUPPORTING_TERMS + cluster_report.FORMULA_TERMS
@@ -89,7 +89,8 @@ class VerbalKnowingClusterReportTests(unittest.TestCase):
         sheet = cluster_report.render_contrast_sheet(terms)
 
         self.assertIn("recognition", sheet)
-        self.assertIn("saññā", sheet)
+        self.assertIn("selfing", sheet)
+        self.assertIn("sanna", sheet)
 
     def test_main_emits_json(self) -> None:
         output = io.StringIO()

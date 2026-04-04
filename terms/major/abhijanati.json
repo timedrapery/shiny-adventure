@@ -1,0 +1,91 @@
+{
+  "term": "abhijānāti",
+  "normalized_term": "abhijanati",
+  "entry_type": "major",
+  "part_of_speech": "verb",
+  "literal_meaning": "directly knows, fully knows",
+  "preferred_translation": "directly knows",
+  "alternative_translations": [
+    "knows directly",
+    "fully knows"
+  ],
+  "discouraged_translations": [
+    "recognizes",
+    "discerns",
+    "realizes"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A strengthened knowing-verb marking direct knowing, especially where mere recognition is not enough and the object is known without slipping into appropriation.",
+  "notes": "The project keeps directly knows as the default because abhijānāti in this repository needs to stay distinct from the broader baseline verb jānāti, from the recognition verb sañjānāti, and from the sharper but still different discerning verb pajānāti. In MN 1 this verb matters because it marks the trainee, arahant, and Tathāgata side of the pattern against the ordinary person's merely recognizing and then selfing. The raised prefix also belongs near the abhiññā family, so the English should preserve a stronger direct-knowing force without drifting into vague realization-language or prematurely completed full understanding. Fully knows remains available only where the local line stresses completeness more than contrast, and it must not erase the distinction from pariññā.",
+  "context_rules": [
+    {
+      "context": "In most source-facing contexts where the verb marks direct or strengthened knowing",
+      "rendering": "directly knows",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When English sentence flow is cleaner with the adverb placed later",
+      "rendering": "knows directly",
+      "notes": "Allowed alternate when it reads more naturally without changing the force."
+    },
+    {
+      "context": "When the line emphasizes completeness but should still stop short of pariññā-language",
+      "rendering": "fully knows",
+      "notes": "Use selectively and do not flatten the distinction from full understanding."
+    }
+  ],
+  "related_terms": [
+    "abhinna",
+    "anna",
+    "janati",
+    "mannati",
+    "pajanati",
+    "parinna",
+    "sanjanati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "paṭhaviṃ paṭhavito abhijānāti",
+      "translation": "one directly knows earth as earth",
+      "notes": "MN 1 direct-knowing surface contrasted with mere recognition and selfing.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "nibbānaṃ nibbānato abhijānāti",
+      "translation": "one directly knows nibbāna as nibbāna",
+      "notes": "Shows the same direct-knowing force extending even to nibbāna-language in the MN 1 pattern.",
+      "source": "MN 1"
+    }
+  ],
+  "sutta_references": [
+    "MN 1"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "knowledge-cluster",
+    "verbal-knowing-cluster"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "MN 1",
+      "kind": "context-rule",
+      "scope": "Supports the direct-knowing contrast with sañjānāti and maññati in the root-sequence pattern."
+    },
+    {
+      "source": "Repository editorial record",
+      "priority": "secondary",
+      "kind": "rationale",
+      "scope": "Supports keeping abhijānāti distinct from plain knowing, recognition, discernment, and completed full understanding in the verbal-knowing cluster."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'directly knows' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'knows directly' or controlled 'fully knows' only when the local English or context rule justifies it. Do not flatten abhijānāti into recognition, discernment, realization, or completed full understanding.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the verb from collapsing into generic knowing, recognition-language, or realization-talk while preserving its stronger direct-knowing force."
+  },
+  "version_notes": "Added after the MN 1 translation pass to stabilize the direct-knowing side of the verbal family and keep it distinct from recognition, discernment, and selfing."
+}

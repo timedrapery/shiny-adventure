@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit and generate translator-facing outputs for the verbal knowing / recognition cluster."""
+"""Audit and generate translator-facing outputs for the verbal knowing cluster."""
 
 from __future__ import annotations
 
@@ -20,7 +20,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
 OUTPUT_DIR = REPO_ROOT / "docs" / "generated"
 
-HEADWORD_TERMS = ["janati", "pajanati", "sanjanati", "anna"]
+HEADWORD_TERMS = ["janati", "abhijanati", "pajanati", "sanjanati", "mannati", "anna"]
 SUPPORTING_TERMS = [
     "nana",
     "vijja",
@@ -31,10 +31,22 @@ SUPPORTING_TERMS = [
     "sati",
     "avijja",
     "ditthi",
+    "abhinna",
+    "asmimana",
+    "upadana",
+    "papanca",
     "yathabhuta-nanadassana",
     "vimutti-nanadassana",
 ]
-FORMULA_TERMS = ["yathabhutam-pajanati", "naparam-itthattayati-pajanati"]
+FORMULA_TERMS = [
+    "yathabhutam-pajanati",
+    "naparam-itthattayati-pajanati",
+    "pathavim-pathavito-sannatva-pathavim-mannati",
+    "pathavim-pathavito-abhinnaya-pathavim-ma-manni",
+    "pathavim-pathavito-abhinnaya-pathavim-na-mannati",
+    "nandi-dukkhassa-mulan",
+    "bhava-jati-bhutassa-jaramaranam",
+]
 
 
 def load_json(path: Path) -> object:
@@ -86,11 +98,26 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
     warnings: list[str] = []
     expected = {
         "janati": "knows",
+        "abhijanati": "directly knows",
         "pajanati": "discerns",
         "sanjanati": "recognizes",
+        "mannati": "takes to be",
         "anna": "final knowledge",
         "yathabhutam-pajanati": "discerns it as it has come to be",
         "naparam-itthattayati-pajanati": "one discerns: there is no more of this state of being",
+        "pathavim-pathavito-sannatva-pathavim-mannati": (
+            "having recognized earth as earth, one takes oneself to be earth"
+        ),
+        "pathavim-pathavito-abhinnaya-pathavim-ma-manni": (
+            "having directly known earth as earth, one should not take oneself to be earth"
+        ),
+        "pathavim-pathavito-abhinnaya-pathavim-na-mannati": (
+            "having directly known earth as earth, one does not take oneself to be earth"
+        ),
+        "nandi-dukkhassa-mulan": "delight is the root of dissatisfaction",
+        "bhava-jati-bhutassa-jaramaranam": (
+            "with becoming there is birth, and for whatever has come to be there are aging and death"
+        ),
     }
     for stem, expected_rendering in expected.items():
         data = terms.get(stem)
@@ -127,12 +154,12 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
 
 def render_glossary(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Verbal Knowing / Recognition Glossary",
+        "# Verbal Knowing / Recognition / Selfing Glossary",
         "",
         "| Pali | Default | Allowed alternates | Discouraged |",
         "| --- | --- | --- | --- |",
     ]
-    for stem in HEADWORD_TERMS + ["nana", "panna", "sanna"]:
+    for stem in HEADWORD_TERMS + ["nana", "abhinna", "panna", "sanna", "asmimana", "upadana"]:
         data = terms[stem]
         alts = ", ".join(data.get("alternative_translations", []))
         discouraged = ", ".join(data.get("discouraged_translations", []))
@@ -145,38 +172,65 @@ def render_glossary(terms: dict[str, dict[str, object]]) -> str:
 
 def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Verbal Knowing / Recognition Contrast Sheet",
+        "# Verbal Knowing / Recognition / Selfing Contrast Sheet",
         "",
         f"- `{terms['janati']['term']}`: `{terms['janati']['preferred_translation']}`",
+        f"- `{terms['abhijanati']['term']}`: `{terms['abhijanati']['preferred_translation']}`",
         f"- `{terms['pajanati']['term']}`: `{terms['pajanati']['preferred_translation']}`",
         f"- `{terms['sanjanati']['term']}`: `{terms['sanjanati']['preferred_translation']}`",
+        f"- `{terms['mannati']['term']}`: `{terms['mannati']['preferred_translation']}`",
         f"- `{terms['anna']['term']}`: `{terms['anna']['preferred_translation']}`",
         "",
         "## Keep Distinct",
         "",
-        "- `jānāti` is plain knowing-language, not discernment or realization-talk.",
-        "- `pajānāti` is a sharper discerning verb, but not completed `pariññā`.",
-        "- `sañjānāti` is recognition-language in the `saññā` family, not generic knowledge or liberating insight.",
-        "- `aññā` is accomplishment-side final knowledge, not just another way of saying `ñāṇa` or vague realization.",
-        "- `sati` remains remembering, and `sampajañña` remains practice-side clear knowing.",
+        "- `janati` is plain knowing-language, not discernment, direct-knowing, or accomplishment-talk.",
+        "- `abhijanati` is strengthened direct-knowing language, not mere recognition or generic realization-talk.",
+        "- `pajanati` is a sharper discerning verb, but not completed `parinna`.",
+        "- `sanjanati` is recognition-language in the `sanna` family, not generic knowledge or liberating insight.",
+        "- `mannati` is selfing and taking-as language, not bland thought-language.",
+        "- `anna` is accomplishment-side final knowledge, not just another way of saying `nana` or vague realization.",
+        "- `sati` remains remembering, and `sampajanna` remains practice-side clear knowing.",
         "",
         "## Verb / Noun Guardrails",
         "",
-        "- `jānāti` <-> `ñāṇa`: keep the broad knowing family coherent without inflating the verb.",
-        "- `pajānāti` <-> `paññā` / `pariññā`: keep the verb sharper than plain knowing but short of completed full understanding.",
-        "- `sañjānāti` <-> `saññā`: keep recognition and designation surfaces coherent.",
-        "- `aññā` <-> `vijjā`: keep accomplishment-side knowledge distinct from broader clear knowledge.",
+        "- `janati` <-> `nana`: keep the broad knowing family coherent without inflating the verb.",
+        "- `abhijanati` <-> `abhinna`: keep direct-knowing language and higher-knowledge language related without flattening them together.",
+        "- `pajanati` <-> `panna` / `parinna`: keep the verb sharper than plain knowing but short of completed full understanding.",
+        "- `sanjanati` -> `mannati`: preserve the MN 1 movement from recognition into selfing.",
+        "- `mannati` <-> `asmimana` / `upadana` / `papanca`: keep the selfing verb tied to I-making, appropriation, and proliferation.",
+        "- `anna` <-> `vijja`: keep accomplishment-side knowledge distinct from broader clear knowledge.",
         "",
         "## Formula Guardrails",
         "",
         f"- `{terms['yathabhutam-pajanati']['term']}` -> `{terms['yathabhutam-pajanati']['preferred_translation']}`",
-        f"- `{terms['naparam-itthattayati-pajanati']['term']}` -> `{terms['naparam-itthattayati-pajanati']['preferred_translation']}`",
+        (
+            f"- `{terms['naparam-itthattayati-pajanati']['term']}` -> "
+            f"`{terms['naparam-itthattayati-pajanati']['preferred_translation']}`"
+        ),
+        (
+            f"- `{terms['pathavim-pathavito-sannatva-pathavim-mannati']['term']}` -> "
+            f"`{terms['pathavim-pathavito-sannatva-pathavim-mannati']['preferred_translation']}`"
+        ),
+        (
+            f"- `{terms['pathavim-pathavito-abhinnaya-pathavim-ma-manni']['term']}` -> "
+            f"`{terms['pathavim-pathavito-abhinnaya-pathavim-ma-manni']['preferred_translation']}`"
+        ),
+        (
+            f"- `{terms['pathavim-pathavito-abhinnaya-pathavim-na-mannati']['term']}` -> "
+            f"`{terms['pathavim-pathavito-abhinnaya-pathavim-na-mannati']['preferred_translation']}`"
+        ),
+        f"- `{terms['nandi-dukkhassa-mulan']['term']}` -> `{terms['nandi-dukkhassa-mulan']['preferred_translation']}`",
+        (
+            f"- `{terms['bhava-jati-bhutassa-jaramaranam']['term']}` -> "
+            f"`{terms['bhava-jati-bhutassa-jaramaranam']['preferred_translation']}`"
+        ),
         "",
         "## Source-Facing Guardrails",
         "",
-        "- Preserve OSF and Dhammarato anti-mystification pressure: keep the family practical and source-facing.",
-        "- Preserve Punnaji's practical help where useful without letting clarifying notes replace the governed defaults.",
-        "- Preserve Hillside / Ñāṇamoli help where useful: context, restraint, and unobscured recognition can sharpen notes without turning the family into imported jargon.",
+        "- Preserve the practical anti-mystification pressure in the knowing verbs: do not inflate them into imported realization-language.",
+        "- Preserve the MN 1 sequence from recognition into selfing, and from direct knowing into non-selfing.",
+        "- Preserve the closing pressure in MN 1: delight feeds dissatisfaction, and becoming keeps the birth-and-death sequence live.",
+        "- Preserve MN 18 compatibility: what is recognized can become the footing for thought and proliferation if the family is flattened.",
     ]
     return "\n".join(lines)
 
@@ -196,7 +250,7 @@ def print_text_report(report: dict[str, object]) -> None:
     summary = report["summary"]
     errors = report["errors"]
     warnings = report["warnings"]
-    print("Verbal Knowing / Recognition Cluster Report")
+    print("Verbal Knowing / Recognition / Selfing Cluster Report")
     print(f"- Headwords: {summary['headwords_present']} / {summary['headwords_expected']}")
     print(f"- Supporting terms: {summary['supporting_terms_present']} / {summary['supporting_terms_expected']}")
     print(f"- Formula records: {summary['formula_records_present']} / {summary['formula_records_expected']}")
