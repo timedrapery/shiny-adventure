@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Thinking that takes up a mental theme or directs the mind toward an object, especially in ethical reflection and first-jhāna formulae.",
-  "notes": "The project keeps thinking as the default because it stays readable and refuses to mystify a term that often names ordinary but disciplined mental activity. Directed thought remains available when the directional aspect is crucial, especially in technical prose. Applied attention can help when the function is closer to setting the mind on a mental theme, but it should not replace the default in ordinary translation. The entry should be read together with vicāra so that first-jhāna language is not collapsed into either mere discursiveness or later scholastic abstraction. Because first jhāna is the first member of ariya sammā samādhi in this repository, and because that first member is not treated as distinct from ānāpānasati, translators should keep the pair practical: vitakka is the thinking that brings up wholesome dhammas or thoughts worth having and takes the training straight to the task at hand. The OSF glossary likewise keeps vitakka grounded in practical mental activity rather than scholastic abstraction, and the Dhammarato quotes profile reinforces practical non-mystified handling of first-jhāna language even where it uses different explanatory verbs.",
+  "notes": "The project keeps thinking as the default because it stays readable and refuses to mystify a term that often names ordinary but disciplined mental activity. Directed thought remains available when the directional aspect is crucial, especially in technical prose. Applied attention can help when the function is closer to setting the mind on a mental theme, but it should not replace the default in ordinary translation. The entry should be read together with vicāra so that first-jhāna language is not collapsed into either mere discursiveness or later scholastic abstraction. Because first jhāna is the first member of ariya sammā samādhi in this repository, and because that first member is not treated as distinct from ānāpānasati, translators should keep the pair practical: vitakka is the thinking that brings up wholesome dhammas or thoughts worth having and takes the training straight to the task at hand. MN 18 is also a control surface here: what is recognized becomes something thought about, and what is thought about can then be proliferated about. The OSF glossary likewise keeps vitakka grounded in practical mental activity rather than scholastic abstraction, and the Dhammarato quotes profile reinforces practical non-mystified handling of first-jhāna language even where it uses different explanatory verbs.",
   "context_rules": [
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
@@ -51,12 +51,21 @@
     "jhāyati",
     "kama-vitakka",
     "nekkhamma-vitakka",
+    "papanca",
+    "papanca-sanna-sankha",
     "samādhi",
+    "sanjanati",
     "sati",
     "vicāra",
     "vihimsa-vitakka"
   ],
   "example_phrases": [
+    {
+      "pali": "yaṃ sañjānāti taṃ vitakketi",
+      "translation": "what one recognizes, one thinks about",
+      "notes": "MN 18 sequence line keeping vitakka downstream of recognition and upstream of proliferation.",
+      "source": "MN 18"
+    },
     {
       "pali": "savitakkaṃ savicāraṃ",
       "translation": "with thinking and pondering",
@@ -78,6 +87,7 @@
   ],
   "sutta_references": [
     "DN 2",
+    "MN 18",
     "MN 19",
     "MN 44"
   ],
@@ -88,13 +98,18 @@
     "context-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Expanded to govern both jhāna-factor and ethical-thinking usage and to prevent drift into over-technical scholastic renderings.",
+  "version_notes": "Expanded to govern both jhāna-factor and ethical-thinking usage, with MN 18 support added to keep thinking distinct from both recognition and proliferation.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current vitakka policy."
+    },
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the sequence in which recognition becomes thinking and thinking can run on into proliferation."
     },
     {
       "source": "Dhammarato quotes profile",
@@ -107,6 +122,6 @@
     "default_scope": "Use 'thinking' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'initial thought' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'initial thought' or other unrecorded alternates and keeps vitakka distinct from both sañjānāti and papañca in the MN 18 sequence."
   }
 }

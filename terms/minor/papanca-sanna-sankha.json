@@ -1,13 +1,67 @@
 {
-  "term": "papanca-sanna-sankha",
+  "term": "papañcasaññāsaṅkhā",
   "normalized_term": "papanca-sanna-sankha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception-and-concept proliferation",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
-  "literal_meaning": "perception-and-concept proliferation",
+  "preferred_translation": "recognitions and notions of proliferation",
+  "alternative_translations": [
+    "proliferation-bred recognitions and notions",
+    "recognitions and reckonings of proliferation"
+  ],
+  "discouraged_translations": [
+    "perception-and-concept proliferation",
+    "conceptual proliferation"
+  ],
+  "untranslated_preferred": false,
+  "literal_meaning": "proliferation-recognition-notions",
+  "definition": "Difficult MN 18 compound naming the proliferated recognitions and notions that spread over a person once papañca has run on.",
+  "notes": "Use this record for the compound itself rather than translating each element ad hoc every time. MN 18 is the governing source for this line. The repository keeps recognition for saññā here and uses plain notion-language for saṅkhā so the line does not collapse into stale perception-and-concept wording. This compound is not just another name for papañca; it is the downstream spread of proliferated recognitions and notions that closes in once the sequence has already moved through recognition, thinking, and proliferation.",
+  "context_rules": [
+    {
+      "context": "In the main MN 18 formula where the compound is the plural subject of samudācaranti",
+      "rendering": "recognitions and notions of proliferation",
+      "notes": "Default project rendering."
+    },
+    {
+      "context": "When explanatory prose needs the downstream-from-papañca force made more explicit",
+      "rendering": "proliferation-bred recognitions and notions",
+      "notes": "Allowed explanatory alternate."
+    }
+  ],
+  "related_terms": [
+    "papanca",
+    "sanna",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "papañcasaññāsaṅkhā samudācaranti",
+      "translation": "the recognitions and notions of proliferation sweep over",
+      "notes": "Use with the full MN 18 line rather than flattening the compound into generic mental proliferation.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the compound as the culminating proliferation-side surface in the recognition -> thinking -> proliferation sequence."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'recognitions and notions of proliferation' as the default rendering when this compound is translated directly.",
+    "when_not_to_apply": "Use the explanatory alternate only when the prose needs the downstream-from-papañca force made more explicit. Do not collapse the compound into generic concept-language or treat it as merely another name for papañca itself.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the difficult compound from drifting into stale perception/concept language or being flattened into undifferentiated mental proliferation."
+  }
 }

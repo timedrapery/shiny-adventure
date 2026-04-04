@@ -1,0 +1,54 @@
+{
+  "term": "yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti",
+  "normalized_term": "yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person",
+  "alternative_translations": [
+    "from what one proliferates about, the recognitions and notions of proliferation sweep over a person"
+  ],
+  "discouraged_translations": [
+    "from conceptual proliferation, concepts arise in a person",
+    "mental proliferation assails a person"
+  ],
+  "untranslated_preferred": false,
+  "definition": "Culminating MN 18 sequence line showing proliferation giving rise to downstream recognitions and notions that then overrun the person.",
+  "notes": "This formula should be read together with the preceding MN 18 lines. The repository keeps nidāna on its source-side sense here because the sentence is tracing what the later spread comes from. The difficult compound papañcasaññāsaṅkhā is governed separately so the whole line does not collapse into a single vague reference to mental proliferation.",
+  "related_terms": [
+    "nidana",
+    "papanca",
+    "papanca-sanna-sankha",
+    "sanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti",
+      "translation": "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person",
+      "notes": "Culminating line in the MN 18 sequence.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
+  "tags": [
+    "core-doctrine",
+    "core-practice",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the line in which proliferation becomes the source for the later spread of papañcasaññāsaṅkhā."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use the full recorded rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the shorter alternate only when the source-side force of nidāna is already clear from the surrounding English. Do not flatten papañcasaññāsaṅkhā into generic mental proliferation here.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the culminating MN 18 line from collapsing the source-force of nidāna and the governed compound papañcasaññāsaṅkhā into a single vague paraphrase."
+  }
+}

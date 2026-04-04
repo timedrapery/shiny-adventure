@@ -83,6 +83,7 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
         self.assertIn("abhinna", abhijanati["related_terms"])
         self.assertIn("panna", pajanati["related_terms"])
         self.assertIn("sanna", sanjanati["related_terms"])
+        self.assertIn("vitakka", sanjanati["related_terms"])
         self.assertIn("mannati", sanjanati["related_terms"])
         self.assertIn("asmimana", mannati["related_terms"])
         self.assertIn("nana", anna["related_terms"])
@@ -119,6 +120,24 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
             becoming_line["preferred_translation"],
             "with becoming there is birth, and for whatever has come to be there are aging and death",
         )
+
+    def test_mn18_formula_records_preserve_recognition_thinking_and_proliferation_pattern(self) -> None:
+        felt_recognition = load_term("terms/minor/yam-vedeti-tam-sanjanati.json")
+        recognition_thinking = load_term("terms/minor/yam-sanjanati-tam-vitakketi.json")
+        thinking_proliferation = load_term("terms/minor/yam-vitakketi-tam-papanceti.json")
+        proliferation_overrun = load_term(
+            "terms/minor/yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti.json"
+        )
+        papanca_sanna_sankha = load_term("terms/minor/papanca-sanna-sankha.json")
+
+        self.assertEqual(felt_recognition["preferred_translation"], "what one feels, one recognizes")
+        self.assertEqual(recognition_thinking["preferred_translation"], "what one recognizes, one thinks about")
+        self.assertEqual(thinking_proliferation["preferred_translation"], "what one thinks about, one proliferates about")
+        self.assertEqual(
+            proliferation_overrun["preferred_translation"],
+            "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person",
+        )
+        self.assertEqual(papanca_sanna_sankha["preferred_translation"], "recognitions and notions of proliferation")
 
     def test_cluster_integrates_external_checkpoints_without_changing_defaults(self) -> None:
         pajanati = load_term("terms/major/pajanati.json")

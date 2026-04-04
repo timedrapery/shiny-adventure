@@ -12,6 +12,8 @@
 | abhiññā | higher knowing | higher knowledge, direct knowledge | superpower, occult power, insight |
 | paññā | discernment | understanding, wisdom | insight, intelligence |
 | saññā | recognition | perception | concept, thought, memory |
+| vitakka | thinking | directed thought, applied attention | initial thought, applied thought |
+| papañca | proliferation | conceptual proliferation | imagination |
 | asmimāna | conceit 'I am' | the conceit 'I am', I-am conceit | ego, self-esteem, identity |
 | upādāna | taking personally | ignorantly holding, clinging, grasping, fuel | attachment, desire |
 

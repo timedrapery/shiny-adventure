@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 837
+- Entries: 841
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -587,7 +587,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [papaka-mitta](../../terms/minor/papaka-mitta.json) | papaka-mitta | bad friend | reviewed | core-practice |
 | [papamitta](../../terms/minor/papamitta.json) | pāpamitta | bad friend | reviewed | persons, ethics |
 | [papamittata](../../terms/minor/papamittata.json) | pāpamittatā | bad friendship | draft | ethics, persons |
-| [papanca-sanna-sankha](../../terms/minor/papanca-sanna-sankha.json) | papanca-sanna-sankha | perception-and-concept proliferation | reviewed | core-practice |
+| [papanca-sanna-sankha](../../terms/minor/papanca-sanna-sankha.json) | papañcasaññāsaṅkhā | recognitions and notions of proliferation | reviewed | core-doctrine, core-practice, translation-sensitive, verbal-knowing-cluster |
 | [papphasa](../../terms/minor/papphasa.json) | papphasa | lungs | reviewed | embodiment, meditative-development |
 | [paramita](../../terms/minor/paramita.json) | pāramitā | pāramitā | reviewed | core-practice, translation-sensitive |
 | [paribbajaka](../../terms/minor/paribbajaka.json) | paribbajaka | wanderer | reviewed | persons |
@@ -940,6 +940,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [yakkha](../../terms/minor/yakkha.json) | yakkha | yakkha | reviewed | persons |
 | [yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta](../../terms/minor/yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta.json) | yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā | what is impermanent is dissatisfaction; what is dissatisfaction is not-self | reviewed | three-marks, formula, translation-sensitive |
 | [yam-kinci-rupam-vedana-sanna-sankhara-vinnanam](../../terms/minor/yam-kinci-rupam-vedana-sanna-sankhara-vinnanam.json) | yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ | whatever form ... felt experience ... recognition ... putting-together activities ... knowing | stable | aggregates, formula, translation-sensitive |
+| [yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti](../../terms/minor/yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti.json) | yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti | from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person | reviewed | core-doctrine, core-practice, translation-sensitive, verbal-knowing-cluster |
+| [yam-sanjanati-tam-vitakketi](../../terms/minor/yam-sanjanati-tam-vitakketi.json) | yaṁ sañjānāti taṁ vitakketi | what one recognizes, one thinks about | reviewed | core-practice, translation-sensitive, verbal-knowing-cluster |
+| [yam-vedeti-tam-sanjanati](../../terms/minor/yam-vedeti-tam-sanjanati.json) | yaṁ vedeti taṁ sañjānāti | what one feels, one recognizes | reviewed | core-practice, translation-sensitive, verbal-knowing-cluster |
+| [yam-vitakketi-tam-papanceti](../../terms/minor/yam-vitakketi-tam-papanceti.json) | yaṁ vitakketi taṁ papañceti | what one thinks about, one proliferates about | reviewed | core-practice, translation-sensitive, verbal-knowing-cluster |
 | [yasa](../../terms/minor/yasa.json) | yasa | fame | reviewed | worldly-conditions |
 | [yathabhutam-pajanati](../../terms/minor/yathabhutam-pajanati.json) | yathābhūtaṃ pajānāti | discerns it as it has come to be | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |
 | [yogakkhema](../../terms/minor/yogakkhema.json) | yogakkhema | security from the yoke | stable | liberation, bondage-imagery, translation-sensitive |

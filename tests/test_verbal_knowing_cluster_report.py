@@ -89,6 +89,7 @@ class VerbalKnowingClusterReportTests(unittest.TestCase):
         sheet = cluster_report.render_contrast_sheet(terms)
 
         self.assertIn("recognition", sheet)
+        self.assertIn("proliferation", sheet)
         self.assertIn("selfing", sheet)
         self.assertIn("sanna", sheet)
 

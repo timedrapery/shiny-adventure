@@ -1,0 +1,51 @@
+{
+  "term": "yaṁ sañjānāti taṁ vitakketi",
+  "normalized_term": "yam-sanjanati-tam-vitakketi",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "what one recognizes, one thinks about",
+  "alternative_translations": [
+    "what one recognizes, one directs thinking toward"
+  ],
+  "discouraged_translations": [
+    "what one knows, one conceptualizes",
+    "what one perceives, one reasons about"
+  ],
+  "untranslated_preferred": false,
+  "definition": "MN 18 sequence line linking recognition to thinking.",
+  "notes": "MN 18 directly supports this formula. It keeps sañjānāti as recognition-language and vitakka as thinking-language. The line matters because it shows recognition becoming taken-up thought without yet collapsing into proliferation.",
+  "related_terms": [
+    "sanjanati",
+    "vitakka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṁ sañjānāti taṁ vitakketi",
+      "translation": "what one recognizes, one thinks about",
+      "notes": "Middle movement of the MN 18 sequence.",
+      "source": "MN 18"
+    }
+  ],
+  "sutta_references": [
+    "MN 18"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "verbal-knowing-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 18",
+      "kind": "context-rule",
+      "scope": "Supports the line connecting recognition to thinking in the MN 18 sequence."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'what one recognizes, one thinks about' as the default rendering when this formula is translated directly.",
+    "when_not_to_apply": "Use the controlled alternate only when the English sentence genuinely needs the directional force made more explicit. Do not collapse recognition into generic knowing or vitakka into abstract reasoning-language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the formula from erasing the distinction between recognition and thinking."
+  }
+}
