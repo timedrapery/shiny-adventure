@@ -1,0 +1,60 @@
+{
+  "term": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+  "normalized_term": "mn141-tanha-release-tail",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "the complete fading and quenching of that very ignorant wanting: giving it up, relinquishing it, freedom, non-attachment",
+  "alternative_translations": [
+    "the complete fading and quenching of that very ignorant wanting: giving it up, relinquishment, freedom, non-attachment"
+  ],
+  "discouraged_translations": [
+    "the annihilation of craving",
+    "cessation through detachment"
+  ],
+  "definition": "The formula tail defining the quenching of dissatisfaction through the release-sequence around taṇhā.",
+  "notes": "Use this record when the full quenching tail is translated as a governed unit in MN 141 or in the same stock truth formula in SN 56.11. Keep the sequence coordinated: fading and quenching of ignorant wanting, then giving up, relinquishing, freedom, and non-attachment. Do not flatten the tail into a single abstract release-word.",
+  "related_terms": [
+    "caga",
+    "mutti",
+    "nirodha",
+    "patinissagga",
+    "tanha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo",
+      "translation": "the complete fading and quenching of that very ignorant wanting: giving it up, relinquishing it, freedom, non-attachment",
+      "notes": "The canonical quenching-definition tail in MN 141.",
+      "source": "MN 141"
+    }
+  ],
+  "sutta_references": [
+    "MN 141",
+    "SN 56.11"
+  ],
+  "tags": [
+    "four-noble-truths",
+    "formula",
+    "translation-sensitive",
+    "liberation"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 141",
+      "kind": "context-rule",
+      "scope": "Supports the full quenching-definition tail in the explicit truth analysis."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the same release-sequence tail in the classic truth formula."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the full taṇhā-release tail unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not collapse the sequence into a single release-word, and do not let nirodha, cāga, paṭinissagga, mutti, and anālaya blur together without explanation.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the quenching-definition tail from drifting into generic liberation-language or ungoverned synonym rotation."
+  }
+}

@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 850
+- Entries: 854
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -463,7 +463,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [mano-kamma](../../terms/minor/mano-kamma.json) | mano-kamma | mental action | reviewed | ethics |
 | [mano-samphassa](../../terms/minor/mano-samphassa.json) | manosamphassa | mind-contact | reviewed | sense-fields |
 | [manoduccarita](../../terms/minor/manoduccarita.json) | manoduccarita | bad mental conduct | reviewed | ethics |
-| [manopavicara](../../terms/minor/manopavicara.json) | manopavicara | mental exploration | reviewed | core-practice |
+| [manopavicara](../../terms/minor/manopavicara.json) | manopavicara | mental exploration | reviewed | core-practice, translation-sensitive |
 | [manosucarita](../../terms/minor/manosucarita.json) | manosucarita | good mental conduct | reviewed | ethics |
 | [mantra](../../terms/minor/mantra.json) | mantra | mantra | reviewed | translation-sensitive |
 | [manussa-yoni](../../terms/minor/manussa-yoni.json) | manussa-yoni | human birth | reviewed | core-doctrine |
@@ -493,6 +493,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [mn10-kayanupassi-internal-external](../../terms/minor/mn10-kayanupassi-internal-external.json) | ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati | one remains observing the body as internal, observing the body as external, and observing the body as both internal and external | reviewed | core-practice, translation-sensitive, satipatthana |
 | [mn10-kayo-anchor-nonappropriation](../../terms/minor/mn10-kayo-anchor-nonappropriation.json) | 'atthi kāyo'ti vā panassa sati paccupaṭṭhitā hoti ... anissito ca viharati, na ca kiñci loke upādiyati | or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally | reviewed | core-practice, translation-sensitive, satipatthana |
 | [mn10-satipatthana-qualifier](../../terms/minor/mn10-satipatthana-qualifier.json) | ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ | ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world | reviewed | core-practice, translation-sensitive, satipatthana |
+| [mn137-supported-by-this-give-up-that](../../terms/minor/mn137-supported-by-this-give-up-that.json) | tatra idaṁ nissāya idaṁ pajahatha | here, supported by this, give up that | reviewed | core-practice, formula, translation-sensitive |
+| [mn137-three-establishments-of-sati](../../terms/minor/mn137-three-establishments-of-sati.json) | tayo satipaṭṭhānā | three establishments of sati | reviewed | core-practice, formula, translation-sensitive |
+| [mn141-four-truths-analysis-opening](../../terms/minor/mn141-four-truths-analysis-opening.json) | catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ | the explaining, teaching, laying out, establishing, opening up, analyzing, and making clear of the four noble truths | reviewed | four-noble-truths, formula, translation-sensitive |
+| [mn141-tanha-release-tail](../../terms/minor/mn141-tanha-release-tail.json) | yo tassāyeva taṇhāya asesavirāganirodho cāgo paṭinissaggo mutti anālayo | the complete fading and quenching of that very ignorant wanting: giving it up, relinquishing it, freedom, non-attachment | reviewed | four-noble-truths, formula, translation-sensitive, liberation |
 | [moggallana](../../terms/minor/moggallana.json) | Moggallāna | Moggallāna | reviewed | persons |
 | [moha-mula](../../terms/minor/moha-mula.json) | mohamūla | rooted in delusion | draft | ethics, mental-qualities |
 | [mohagati](../../terms/minor/mohagati.json) | mohagati | bias through confusion | reviewed | ethics |

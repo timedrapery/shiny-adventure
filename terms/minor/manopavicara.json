@@ -4,10 +4,30 @@
   "entry_type": "minor",
   "part_of_speech": "noun",
   "preferred_translation": "mental exploration",
-  "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
-  "status": "reviewed",
   "literal_meaning": "mental exploration",
+  "alternative_translations": [
+    "mental exploring"
+  ],
+  "discouraged_translations": [
+    "thoughts",
+    "reflections"
+  ],
+  "definition": "An active mental exploring or turning around an object, especially in analytic feeling formulas.",
+  "notes": "Use mental exploration as the default because the term in this repository names an active turning of the mind around an object, not merely a passing thought. In MN 137 it governs the eighteen explorations tied to gladness, distress, and dynamic balance across the six fields, so the English should preserve movement and repeated mental engagement rather than drifting into generic thought-language.",
+  "example_phrases": [
+    {
+      "pali": "aṭṭhārasa manopavicārā",
+      "translation": "eighteen mental explorations",
+      "notes": "The governing analytical label in MN 137.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
   "tags": [
-    "core-practice"
-  ]
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
 }

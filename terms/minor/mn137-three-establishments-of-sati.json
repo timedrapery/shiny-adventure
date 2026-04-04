@@ -1,0 +1,49 @@
+{
+  "term": "tayo satipaṭṭhānā",
+  "normalized_term": "mn137-three-establishments-of-sati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "three establishments of sati",
+  "alternative_translations": [
+    "three establishings of sati"
+  ],
+  "discouraged_translations": [
+    "three foundations of mindfulness"
+  ],
+  "definition": "MN 137's teacher-side classification of three establishments of sati.",
+  "notes": "Use this record for the closing MN 137 classification. Keep satipaṭṭhāna aligned with the repository default even though the discourse is not naming the standard fourfold framework of body, felt experience, mind, and dhammas. The point here is the teacher's steady placement of sati in response to how disciples receive the teaching.",
+  "related_terms": [
+    "sati",
+    "satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tayo satipaṭṭhānā yadariyo sevati",
+      "translation": "three establishments of sati that a noble one cultivates",
+      "notes": "MN 137's unusual but governed satipaṭṭhāna use.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 137",
+      "kind": "context-rule",
+      "scope": "Supports the teacher-response use of satipaṭṭhāna in the closing third of the discourse."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for MN 137's three satipaṭṭhāna classification unless a recorded local reason requires minor adjustment.",
+    "when_not_to_apply": "Do not replace satipaṭṭhāna with mindfulness-foundation language, and do not paraphrase away the phrase as generic steadiness.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents this unusual satipaṭṭhāna use from drifting into mindfulness-jargon or becoming detached from the headword's house policy."
+  }
+}
