@@ -4,9 +4,31 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "noble truth of dissatisfaction",
+  "alternative_translations": [
+    "first noble truth"
+  ],
+  "discouraged_translations": [
+    "truth of suffering"
+  ],
   "definition": "The first noble truth, concerning dissatisfaction and the burden of clinging.",
+  "notes": "This record keeps the first truth readable as the dissatisfaction-side member of the fourfold set while pointing back to the governed dukkha headword for wider translation policy.",
+  "related_terms": [
+    "ariyasacca",
+    "dukkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "idaṁ dukkhaṁ ariyasaccaṁ",
+      "translation": "this is the noble truth of dissatisfaction",
+      "notes": "Canonical naming line for the first truth.",
+      "source": "SN 56.11"
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "noble truth of dissatisfaction",
+  "sutta_references": [
+    "SN 56.11"
+  ],
   "tags": [
     "core-doctrine",
     "four-noble-truths"
