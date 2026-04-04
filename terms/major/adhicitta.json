@@ -18,17 +18,17 @@
     {
       "context": "In the threefold training framework",
       "rendering": "higher mind",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in mind",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage emphasizes collectedness, unification, or meditative development as the middle training",
       "rendering": "higher mind",
-      "notes": "Keep the term tied to cultivation of citta rather than to a metaphysical faculty."
+      "notes": "Keep the term tied to development of citta rather than to a metaphysical faculty."
     }
   ],
   "related_terms": [
@@ -53,7 +53,7 @@
     {
       "pali": "cittaṃ bhāveti",
       "translation": "one develops the mind",
-      "notes": "Useful supporting phrase for the practical force of the training.",
+      "notes": "Shows a supporting phrase for the practical force of the training.",
       "source": "AN 4.41"
     }
   ],

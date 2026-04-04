@@ -23,12 +23,12 @@
 
 So I heard.
 
-At one time the Buddha was dwelling near Sāvatthī, in Jeta's Grove, in
+At one time the Buddha was staying near Sāvatthī, in Jeta's Grove, in
 Anāthapiṇḍika's monastery.
 
 There the Buddha addressed the bhikkhus: "Bhikkhus."
 
-"Venerable sir," they replied.
+"Bhante," they replied.
 
 The Buddha said this:
 
@@ -37,7 +37,7 @@ The Buddha said this:
 "Bhikkhus, I will teach you noble right mental composure with its supports and
 its requisites. Listen carefully, attend well, and I will speak."
 
-"Yes, venerable sir," the bhikkhus replied.
+"Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -355,7 +355,7 @@ many bad and unwholesome qualities that arise because of that wrong factor are
 worn away, and through the right factor many wholesome qualities come to
 fulfillment in development.
 
-"Thus there are twenty on the wholesome side and twenty on the unwholesome
+"So there are twenty on the wholesome side and twenty on the unwholesome
 side.
 
 *Study note: the pattern here is systematic. Each right factor wears away its

@@ -22,12 +22,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "yoke",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a smoother English sentence is needed",
       "rendering": "bond",
-      "notes": "Allowed alternate when the yoke image would read too stiffly in English."
+      "notes": "Use this as a controlled alternate when the yoke image would read too stiffly in English."
     },
     {
       "context": "In named compounds such as kāmayoga or avijjāyoga",
@@ -37,7 +37,7 @@
     {
       "context": "In the fixed compound yogakkhema",
       "rendering": "yoke",
-      "notes": "Let the family logic stay audible, but follow the dedicated compound record for the whole expression."
+      "notes": "Keep the family logic audible, but follow the dedicated compound record for the whole expression."
     }
   ],
   "related_terms": [

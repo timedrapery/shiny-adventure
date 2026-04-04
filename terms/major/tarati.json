@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing and imagery-preserving contexts",
       "rendering": "crosses over",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In concise English prose where the object being crossed is already explicit",
       "rendering": "crosses",
-      "notes": "Allowed alternate when no imagery is lost."
+      "notes": "Use this as a controlled alternate when no imagery is lost."
     },
     {
       "context": "In flood or stream contexts",

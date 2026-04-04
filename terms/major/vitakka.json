@@ -20,7 +20,7 @@
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
       "rendering": "thinking",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In technical explanation emphasizing the directional setting of the mind on an object",
@@ -30,7 +30,7 @@
     {
       "context": "In prose emphasizing the function of taking up a mental theme",
       "rendering": "applied attention",
-      "notes": "Allowed explanatory alternate, not the default rendering."
+      "notes": "Use this as a controlled explanatory alternate, not the default rendering."
     },
     {
       "context": "In first-jhāna and ānāpānasati explanation where the wholesome content is being foregrounded",

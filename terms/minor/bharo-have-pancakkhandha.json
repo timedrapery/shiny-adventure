@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the burden formula",
       "rendering": "the five heaps are indeed a burden",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose using familiar aggregate terminology",
       "rendering": "the five aggregates are a burden",
-      "notes": "Allowed alternate for orientation."
+      "notes": "Use this as a controlled alternate for orientation."
     }
   ],
   "related_terms": [

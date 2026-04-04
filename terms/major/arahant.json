@@ -19,7 +19,7 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "arahant",
-      "notes": "Default project practice is to leave the term untranslated."
+      "notes": "Leave the term untranslated by default."
     },
     {
       "context": "On first occurrence or in explanatory prose requiring a short gloss",
@@ -59,13 +59,13 @@
     {
       "pali": "arahā hoti",
       "translation": "one is an arahant",
-      "notes": "Simple attainment statement.",
+      "notes": "Shows a simple attainment statement.",
       "source": "MN 2"
     },
     {
       "pali": "khīṇāsavo arahā",
       "translation": "an arahant whose outflows are worn away",
-      "notes": "Useful formula linking the category to āsava-language.",
+      "notes": "Shows the formula linking the category to āsava language.",
       "source": "MN 2"
     }
   ],

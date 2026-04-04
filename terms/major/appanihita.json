@@ -23,12 +23,12 @@
     {
       "context": "In most doctrinal and contemplative-designation contexts",
       "rendering": "wishless",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In translator-facing explanation that must make the practical force explicit",
       "rendering": "without placing desire",
-      "notes": "Controlled alternate when the line needs a more verbal explanation."
+      "notes": "Use this as a controlled alternate when the line needs a more verbal explanation."
     },
     {
       "context": "In practical explanatory prose about dropping projection toward an outcome",
@@ -54,7 +54,7 @@
   "example_phrases": [
     {
       "pali": "appaṇihitaṃ cetosamādhiṃ upasampajja viharati",
-      "translation": "one dwells having entered wishless composure of mind",
+      "translation": "one enters and remains in wishless composure of mind",
       "notes": "Shows the contemplative-designation use carried by the headword.",
       "source": "MN 43"
     },

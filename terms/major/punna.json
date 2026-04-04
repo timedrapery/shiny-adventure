@@ -18,17 +18,17 @@
     {
       "context": "In explanatory prose and contemporary doctrinal writing",
       "rendering": "benefit",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In fixed expressions or source-facing contexts where the familiar doctrinal label matters",
       "rendering": "merit",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "In chant titles, dedication formulas, and familiar liturgical expressions",
       "rendering": "merit",
-      "notes": "Source-backed alternate for chanting and ceremony contexts."
+      "notes": "Use this as a source-backed alternate for chanting and ceremony contexts."
     }
   ],
   "related_terms": [

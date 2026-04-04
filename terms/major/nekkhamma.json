@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "Renunciation as a freeing orientation away from sensual pull and toward release.",
-  "notes": "The project prefers renunciation because it is established, readable, and works across both practical and path-factor contexts. Going forth is acceptable where the line leans more toward the movement away from entanglement than toward the settled quality of renunciation. The OSF glossary likewise treats nekkhamma as a freeing orientation away from entanglement rather than as mere self-denial, which supports the present policy.",
+  "notes": "The project keeps renunciation as the default because it is readable and already stable in path language. Here the point is not grim self-denial. It is the freeing movement away from sensual pull and entanglement that supports release. Going forth remains a controlled alternate when the line stresses movement away rather than the settled quality. This entry stays distinct from virāga, which is fading, and from pabbajjā, which is the monastic act of going forth. The OSF glossary supports keeping nekkhamma practical and release-oriented rather than moralistic.",
   "context_rules": [
     {
       "context": "In right-attitude and practical contexts",
       "rendering": "renunciation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing movement away from entanglement",
       "rendering": "going forth",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When translating the right-intention triad",
+      "rendering": "renunciation",
+      "notes": "Keep the path-factor force explicit rather than reducing the term to vague simplicity."
     }
   ],
   "related_terms": [

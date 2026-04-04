@@ -19,7 +19,7 @@
     {
       "context": "In doctrinal analysis of the wholesome roots",
       "rendering": "root of the wholesome",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In compact framework headings or lists",
@@ -45,7 +45,7 @@
     {
       "pali": "kusalamūla",
       "translation": "root of the wholesome",
-      "notes": "Useful compact headword form in doctrinal discussion.",
+      "notes": "Shows a compact headword form in doctrinal discussion.",
       "source": "MN 9"
     }
   ],

@@ -22,6 +22,21 @@ On Windows PowerShell:
 3. Run targeted checks while iterating.
 4. Run full checks before opening a pull request.
 
+## Choose The Right Edit Surface
+
+Before editing, confirm which part of the repository you actually mean to
+change:
+
+- `terms/`: live translation policy and governed lexicon content
+- `candidates/`: intake evidence and review packets that have not become live policy
+- `docs/`: normative guidance, workflow docs, and planning notes
+- `docs/generated/`: derived reference outputs that should normally be regenerated, not hand-edited first
+- `scripts/` and `tests/`: workflow tooling and regression coverage
+
+If you are working from raw source text, start in `candidates/`, not `terms/`.
+If you are correcting a generated sheet, fix the upstream term data or script
+and regenerate the output.
+
 ## Commands
 
 Run all checks:
@@ -64,12 +79,17 @@ For a broader index of CLI tools, see [../scripts/README.md](../scripts/README.m
 - Term record change: validate JSON, run editorial lint, and check translation drift before moving on.
 - Script change: run the most relevant tests first, then full checks before opening a pull request.
 - Documentation change: update any affected cross-links and command examples in the same pass.
+- Candidate-workflow change: update both the script surface and the contributor-facing docs in `candidates/README.md` and `docs/candidate-term-workflow.md`.
 
 For documentation and repository-surface changes, run:
 
 ```bash
 python scripts/check_docs_integrity.py
 ```
+
+If the change affects generated navigation or translator-facing generated docs,
+regenerate or re-check the relevant outputs instead of editing them in
+isolation.
 
 ## Working Safely With Editorial Data
 

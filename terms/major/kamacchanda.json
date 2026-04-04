@@ -22,17 +22,17 @@
     {
       "context": "In the five-distractions framework",
       "rendering": "sensual distraction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose discussing the desire-element of the compound itself",
       "rendering": "sensual desire",
-      "notes": "Allowed alternate when the lexical link to chanda must be audible."
+      "notes": "Use this as a controlled alternate when the lexical link to chanda must be audible."
     },
     {
       "context": "When the passage emphasizes the derailment of practice by agreeable sensual objects",
       "rendering": "sensual distraction",
-      "notes": "Preserve the hindrance-framework force rather than reducing the term to bare wanting."
+      "notes": "Keep the hindrance-framework force explicit rather than reducing the term to bare wanting."
     }
   ],
   "related_terms": [

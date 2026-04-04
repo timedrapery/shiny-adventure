@@ -19,12 +19,12 @@
     {
       "context": "In most practical and doctrinal contexts",
       "rendering": "gladness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose highlighting delight in others' wellbeing",
       "rendering": "appreciative joy",
-      "notes": "Acceptable alternate when more explanation is needed."
+      "notes": "Use this as a controlled alternate when more explanation is needed."
     },
     {
       "context": "When engaging conventional Buddhist terminology",
@@ -54,7 +54,7 @@
     {
       "pali": "muditā bhāvetabbā",
       "translation": "gladness should be developed",
-      "notes": "Simple cultivation-oriented usage.",
+      "notes": "Shows development-focused use.",
       "source": "MN 7"
     }
   ],

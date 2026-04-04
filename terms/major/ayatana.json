@@ -20,7 +20,7 @@
     {
       "context": "In general analytical contexts where āyatana names a domain of experience",
       "rendering": "field",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In the sixfold experiential system or where the sensory function needs to be explicit",
@@ -30,7 +30,7 @@
     {
       "context": "In explanatory prose emphasizing scope or range rather than sensory function",
       "rendering": "domain",
-      "notes": "Allowed alternate when it reads more clearly."
+      "notes": "Use this as a controlled alternate when it reads more clearly."
     },
     {
       "context": "In compounds where conventional Buddhist-English phrasing is unusually entrenched",
@@ -65,7 +65,7 @@
     {
       "pali": "dhammāyatana",
       "translation": "the dhamma field",
-      "notes": "Useful where dhamma functions as the object-side field of mind.",
+      "notes": "Use this where dhamma functions as the object-side field of mind.",
       "source": "MN 137"
     }
   ],

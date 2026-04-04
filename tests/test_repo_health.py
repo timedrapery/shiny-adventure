@@ -20,6 +20,11 @@ class RepoHealthTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "stable",
                 "preferred_translation": "dissatisfaction",
+                "notes": "The default translation is dissatisfaction in most doctrinal contexts and this note explains the rule to prevent suffering drift.",
+                "context_rules": [
+                    {"context": "default doctrinal prose", "rendering": "dissatisfaction"},
+                    {"context": "narrow practical gloss", "rendering": "stress"},
+                ],
                 "tags": ["core-doctrine"],
                 "example_phrases": [{"pali": "dukkha", "translation": "dissatisfaction"}],
             },
@@ -27,8 +32,18 @@ class RepoHealthTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "preferred_translation": "feeling",
+                "notes": "The default translation is feeling in most contexts, this note explains the distinction in direct rule-bearing language, and it records the drift risk the policy is meant to prevent in later translation work.",
+                "context_rules": [
+                    {"context": "default doctrinal prose", "rendering": "feeling"},
+                    {"context": "threefold classification sheet", "rendering": "mixed feeling"},
+                ],
                 "authority_basis": [{"source": "OSF glossary", "scope": "default"}],
-                "translation_policy": {"default_scope": "default"},
+                "translation_policy": {
+                    "default_scope": "default",
+                    "when_not_to_apply": "Do not flatten this into emotion language.",
+                    "compound_inheritance": "case-by-case",
+                    "drift_risk": "Avoid sensation drift.",
+                },
                 "example_phrases": [{"pali": "vedanā", "source": "SN 12.2"}],
             },
             "sanna": {
@@ -52,6 +67,19 @@ class RepoHealthTests(unittest.TestCase):
         self.assertEqual(
             report["example_source_gap_tags"],
             [{"tag": "core-doctrine", "terms_with_source_gaps": 1}],
+        )
+        self.assertEqual(
+            report["rule_strength"]["weak_major_entries"],
+            [
+                {
+                    "term": "dukkha",
+                    "status": "stable",
+                    "reasons": [
+                        "missing_authority_basis",
+                        "missing_translation_policy",
+                    ],
+                }
+            ],
         )
 
     def test_build_report_groups_major_translation_collisions(self) -> None:
@@ -133,6 +161,71 @@ class RepoHealthTests(unittest.TestCase):
         self.assertEqual(result, 0)
         payload = json.loads(output.getvalue())
         self.assertEqual(payload["summary"]["major_terms"], 1)
+
+    def test_build_report_includes_generic_authority_basis_details(self) -> None:
+        terms = {
+            "abhijanati": {
+                "entry_type": "major",
+                "status": "stable",
+                "preferred_translation": "directly knows",
+                "tags": ["core-doctrine", "verbal-knowing-cluster"],
+                "authority_basis": [
+                    {"source": "Repository editorial record", "scope": "Placeholder provenance."}
+                ],
+                "example_phrases": [{"pali": "abhijānāti", "source": "MN 1"}],
+            }
+        }
+
+        report = repo_health.build_report(terms)
+
+        self.assertEqual(
+            report["major_policy_coverage"]["generic_authority_basis"],
+            [
+                {
+                    "term": "abhijanati",
+                    "status": "stable",
+                    "tags": ["core-doctrine", "verbal-knowing-cluster"],
+                }
+            ],
+        )
+
+    def test_build_report_surfaces_weak_major_rule_entries(self) -> None:
+        terms = {
+            "sati": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "preferred_translation": "remembering",
+                "notes": "Memory.",
+                "context_rules": [
+                    {"context": "path factor", "rendering": "right remembering"},
+                    {"context": "source-facing prose", "rendering": "sati"},
+                ],
+                "authority_basis": [],
+                "translation_policy": {},
+                "example_phrases": [{"pali": "sati", "source": "MN 10"}],
+            }
+        }
+
+        report = repo_health.build_report(terms)
+
+        self.assertEqual(
+            report["rule_strength"]["weak_major_entries"],
+            [
+                {
+                    "term": "sati",
+                    "status": "reviewed",
+                    "reasons": [
+                        "thin_notes",
+                        "missing_authority_basis",
+                        "missing_default_scope",
+                        "missing_when_not_to_apply",
+                        "missing_compound_inheritance",
+                        "missing_drift_risk",
+                        "preferred_not_in_context_rules",
+                    ],
+                }
+            ],
+        )
 
 
 if __name__ == "__main__":

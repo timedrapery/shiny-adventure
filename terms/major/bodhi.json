@@ -18,17 +18,17 @@
     {
       "context": "In most doctrinal and narrative contexts",
       "rendering": "awakening",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the context explicitly emphasizes complete realization",
       "rendering": "full awakening",
-      "notes": "Useful with compounds such as sammāsambodhi."
+      "notes": "Use this with compounds such as sammāsambodhi."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of existential awakening",
       "rendering": "awakening",
-      "notes": "Often explained there as awakening from the dream of existence."
+      "notes": "Use this explanation only when the source explicitly frames bodhi as waking from the dream of existence."
     }
   ],
   "related_terms": [
@@ -61,7 +61,7 @@
     {
       "pali": "bodhāya",
       "translation": "for awakening",
-      "notes": "Useful for source-facing translation where the practical aim is explicit.",
+      "notes": "Shows a source-facing line where the practical aim is explicit.",
       "source": "MN 26"
     }
   ],

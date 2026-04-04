@@ -27,17 +27,17 @@
     {
       "context": "In most doctrinal and source-facing translations",
       "rendering": "nibbāna",
-      "notes": "Default project practice is to keep the term untranslated."
+      "notes": "Keep the term untranslated by default."
     },
     {
       "context": "On first occurrence or in explanatory prose requiring a short gloss",
       "rendering": "quenching",
-      "notes": "Preferred English gloss when one is needed."
+      "notes": "Use this as the preferred English gloss when one is needed."
     },
     {
       "context": "In Buddhadasa-line or OSF explanatory prose about direct cooling of the fires here and now",
       "rendering": "coolness",
-      "notes": "Source-backed explanatory alternate, not the house default."
+      "notes": "Use this as a source-backed explanatory alternate, not as the house default."
     },
     {
       "context": "In rough OSF-facing explanatory prose where the practical image is one of cooling down right now",
@@ -47,12 +47,12 @@
     {
       "context": "In explanatory prose emphasizing the fire-going-out image itself",
       "rendering": "extinguishment",
-      "notes": "Allowed alternate when the image is explicitly being unpacked."
+      "notes": "Use this as a controlled alternate when the image is explicitly being unpacked."
     },
     {
       "context": "In Punnaji-style practical prose emphasizing unshakeable tranquility rather than doctrinal designation",
       "rendering": "imperturbable serenity of mind",
-      "notes": "Controlled practical alternate, not the house default."
+      "notes": "Use this as a controlled practical alternate, not as the house default."
     },
     {
       "context": "In source-facing doctrinal prose where narrowing the term would distort its full range",
@@ -89,7 +89,7 @@
     {
       "pali": "nibbānaṃ paramaṃ sukhaṃ",
       "translation": "nibbāna is the highest ease",
-      "notes": "Useful source-facing example with the term left untranslated.",
+      "notes": "Shows a source-facing example with the term left untranslated.",
       "source": "Dhp 203"
     },
     {

@@ -21,12 +21,12 @@
     {
       "context": "In the four clinging-types framework",
       "rendering": "taking self-doctrine personally",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
       "rendering": "clinging to self-doctrine",
-      "notes": "Allowed alternate when continuity matters more than maximizing explicit alignment with the headword."
+      "notes": "Use this as a controlled alternate when continuity matters more than maximizing explicit alignment with the headword."
     },
     {
       "context": "In explanatory prose emphasizing appropriation of self-theories",
@@ -36,7 +36,7 @@
     {
       "context": "In compressed doctrinal lists",
       "rendering": "self-doctrine clinging",
-      "notes": "Allowed compact alternate, not the default."
+      "notes": "Use this as a controlled compact alternate, not the default."
     }
   ],
   "related_terms": [

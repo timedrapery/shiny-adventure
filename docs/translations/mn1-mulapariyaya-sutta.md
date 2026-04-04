@@ -21,12 +21,12 @@
 
 So I heard.
 
-At one time the Buddha was dwelling at Ukkaṭṭhā, in the Subhaga grove, at the
+At one time the Buddha was staying at Ukkaṭṭhā, in the Subhaga grove, at the
 root of a royal sāla tree.
 
 There the Buddha addressed the bhikkhus: "Bhikkhus."
 
-"Venerable sir," they replied.
+"Bhante," they replied.
 
 The Buddha said this:
 
@@ -35,7 +35,7 @@ The Buddha said this:
 "Bhikkhus, I will teach you the root sequence of all things. Listen carefully,
 attend well, and I will speak."
 
-"Yes, venerable sir," the bhikkhus replied.
+"Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 

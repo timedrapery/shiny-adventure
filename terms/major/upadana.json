@@ -22,7 +22,7 @@
     {
       "context": "In most doctrinal and dependent-arising contexts",
       "rendering": "taking personally",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing sustained appropriation or holding",
@@ -32,7 +32,7 @@
     {
       "context": "In comparative doctrinal prose using more familiar Buddhist-English terminology",
       "rendering": "clinging",
-      "notes": "Acceptable alternate when continuity with established usage helps."
+      "notes": "Use this as a controlled alternate when continuity with established usage helps."
     },
     {
       "context": "In prose emphasizing active appropriation",
@@ -47,7 +47,7 @@
     {
       "context": "In compounds such as kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, and attavādupādāna",
       "rendering": "taking personally",
-      "notes": "The family should inherit the appropriative force of the headword unless a compound explicitly records a different emphasis."
+      "notes": "Keep the family aligned with the headword's appropriative force unless a compound records a different emphasis."
     },
     {
       "context": "In the singular heap compound upādānakkhandha",

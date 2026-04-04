@@ -18,7 +18,7 @@
     {
       "context": "In most ethical and practical contexts",
       "rendering": "conscience",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose discussing the classical ethical pair hiri-ottappa",
@@ -49,7 +49,7 @@
     {
       "pali": "hiri uppajjati",
       "translation": "conscience arises",
-      "notes": "Simple practical usage.",
+      "notes": "Shows a simple practical use.",
       "source": "AN 2.9"
     }
   ],

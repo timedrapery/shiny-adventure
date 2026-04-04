@@ -3,21 +3,42 @@
   "normalized_term": "vedananupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "contemplation of feeling",
-  "preferred_translation": "contemplation of feeling",
+  "literal_meaning": "contemplation of felt experience",
+  "preferred_translation": "contemplation of felt experience",
   "alternative_translations": [
-    "feeling contemplation"
+    "felt-experience contemplation",
+    "contemplation of feeling"
   ],
   "discouraged_translations": [
     "emotion work"
   ],
   "untranslated_preferred": false,
-  "definition": "Contemplation of feeling in the satipaṭṭhāna framework.",
+  "definition": "Contemplation of felt experience in the satipaṭṭhāna framework.",
+  "notes": "Use this record for the felt-experience branch of satipaṭṭhāna. Keep it aligned with the stable vedanā headword policy and avoid slipping back into generic feeling-language when the immediate affective tone is what matters.",
+  "related_terms": [
+    "vedana",
+    "satipatthana",
+    "cattaro-satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vedanāsu vedanānupassī viharati",
+      "translation": "one remains observing felt experience in relation to felt experience",
+      "notes": "Standard satipaṭṭhāna formula aligned with the repo's vedanā policy.",
+      "source": "DN 22"
+    }
+  ],
   "sutta_references": [
-    "DN 22"
+    "DN 22",
+    "MN 10",
+    "MN 118"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use for the felt-experience branch of satipaṭṭhāna in governed practice contexts.",
+    "when_not_to_apply": "Do not let emotion-language or generic neutral-feeling language take over when the entry is being used to govern direct vedanā practice."
+  }
 }

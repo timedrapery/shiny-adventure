@@ -49,6 +49,10 @@ source-audit calls, and edition notes that govern it.
   `if there is nothing there to delight in, to affirm, or to take personally`.
   The point is not merely emotional liking. The line marks a practical cut in
   the movement into appropriation and proliferation.
+- `cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ` is rendered
+  `dependent on eye and visible forms, eye-knowing arises` so the eye-door
+  formula stays aligned with the repository's current `rūpa` policy for
+  sense-field contexts.
 - `yatonidānaṁ ... papañcasaññāsaṅkhā samudācaranti` is governed by the new MN
   18 phrase records rather than left as a document-local improvisation.
 - The six-door sequence keeps the full repo chain visible:

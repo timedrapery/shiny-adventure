@@ -22,7 +22,7 @@
     {
       "context": "In source-facing translation and practice instructions",
       "rendering": "ānāpānasati",
-      "notes": "Default project practice is to keep the term untranslated."
+      "notes": "Keep the term untranslated by default."
     },
     {
       "context": "On first occurrence where a gloss helps orient the reader",
@@ -32,12 +32,12 @@
     {
       "context": "In explanatory prose where the function of sati in the compound must be made explicit",
       "rendering": "remembering the Dhamma while breathing in and out",
-      "notes": "Preferred explanatory gloss when the repository wants to make clear that sati here is Dhamma-remembering, not arbitrary recollection."
+      "notes": "Use this as the preferred explanatory gloss when the repository wants to make clear that sati here is Dhamma-remembering, not arbitrary recollection."
     },
     {
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly directed breathing attention",
       "rendering": "introspective breathing",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In older OSF-glossary style plain-English practice explanation",
@@ -57,7 +57,7 @@
     {
       "context": "In practice-facing explanation of removing obstructive states during the training",
       "rendering": "ānāpānasati",
-      "notes": "Allow explanation of countering distractions without turning the practice note into an uncontrolled theory about immediately uprooting all residue-families."
+      "notes": "Use this explanation only when countering distractions is the point, not as an uncontrolled theory about immediately uprooting all residue-families."
     }
   ],
   "related_terms": [

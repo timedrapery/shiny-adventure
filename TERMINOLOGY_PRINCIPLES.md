@@ -21,6 +21,9 @@ For major terms, these are not optional niceties. They are the mechanism by whic
 
 The `preferred_translation` field states the repository's default English rendering. It should govern unless a documented context rule overrides it.
 
+Those defaults should normally use modern, common English rather than inherited
+prestige diction from older Buddhist-English translation.
+
 ### Exceptions must be explicit
 
 When a term needs a different rendering in a specific doctrinal or literary context, the shift should be recorded in `context_rules`.
@@ -36,6 +39,10 @@ Term decisions are not isolated. A change to a headword can affect compounds, fo
 ### Drift prevention is part of the record
 
 Major entries should make clear what instability the rule is intended to prevent. That logic belongs in `notes`, `authority_basis`, and `translation_policy`.
+
+That includes register drift. If a family is prone to archaism,
+translator-inherited stiffness, or ceremonial phrasing, the record should make
+the preferred modern-English handling explicit.
 
 ## What This Repository Does Not Do
 

@@ -20,17 +20,17 @@
     {
       "context": "In most doctrinal and contemplative contexts",
       "rendering": "calming",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the text stresses the settling-down or quieting aspect",
       "rendering": "quieting",
-      "notes": "Allowed alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In compounds or recollection expressions that clearly point toward consummation-side peace",
       "rendering": "peace",
-      "notes": "Allowed alternate, but not the default."
+      "notes": "Use this as a controlled alternate, but not the default."
     }
   ],
   "related_terms": [

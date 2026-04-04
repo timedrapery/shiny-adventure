@@ -20,12 +20,12 @@
     {
       "context": "In most practical and meditative-development contexts",
       "rendering": "distraction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In comparative doctrinal prose using familiar Buddhist-English terminology",
       "rendering": "hindrance",
-      "notes": "Allowed alternate when reader continuity matters."
+      "notes": "Use this as a controlled alternate when reader continuity matters."
     },
     {
       "context": "When the covering or blocking function is the main point",

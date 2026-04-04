@@ -21,7 +21,7 @@
     {
       "context": "In most doctrinal and source-facing contexts where a sharper verbal knowing than jānāti is needed",
       "rendering": "discerns",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In formulae where the knowing side must stay more explicit than the English verb discerns naturally allows",
@@ -31,7 +31,7 @@
     {
       "context": "In idiomatic prose where the line would become too stiff in English and no stronger contrast is being erased",
       "rendering": "understands",
-      "notes": "Allowed alternate, but do not use it where pariññā or completed understanding is in view."
+      "notes": "Use this as a controlled alternate, but do not use it where pariññā or completed understanding is in view."
     }
   ],
   "related_terms": [

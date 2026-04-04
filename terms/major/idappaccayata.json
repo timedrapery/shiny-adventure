@@ -21,7 +21,7 @@
     {
       "context": "In most doctrinal discussion",
       "rendering": "conditionality",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose focused on the morphology of the term",
@@ -31,7 +31,7 @@
     {
       "context": "In Buddhadasa-style explanation of natural law",
       "rendering": "conditionality",
-      "notes": "Notes may explicitly describe it as the law of nature behind dependent arising."
+      "notes": "Use this note only when the law-of-nature explanation is explicitly in view."
     },
     {
       "context": "In formula-focused discussion of the four standard conditionality lines",
@@ -41,7 +41,7 @@
     {
       "context": "In translator-facing explanatory prose where the lawful character itself must be made explicit",
       "rendering": "conditionality",
-      "notes": "A note may gloss the term as the highest law of nature without replacing the default rendering."
+      "notes": "Use that gloss only when the highest-law-of-nature explanation is explicitly in view."
     }
   ],
   "related_terms": [

@@ -21,12 +21,12 @@
     {
       "context": "In the four clinging-types framework",
       "rendering": "taking views personally",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
       "rendering": "clinging to views",
-      "notes": "Allowed alternate when continuity matters more than maximizing explicit alignment with the headword."
+      "notes": "Use this as a controlled alternate when continuity matters more than maximizing explicit alignment with the headword."
     },
     {
       "context": "In explanatory prose emphasizing the appropriating function of upādāna",
@@ -36,7 +36,7 @@
     {
       "context": "In compressed doctrinal prose or list form",
       "rendering": "view-clinging",
-      "notes": "Allowed compact alternate, not the default."
+      "notes": "Use this as a controlled compact alternate, not the default."
     }
   ],
   "related_terms": [

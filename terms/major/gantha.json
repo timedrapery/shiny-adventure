@@ -22,12 +22,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "knot",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a lighter sentence shape is needed",
       "rendering": "tie",
-      "notes": "Allowed alternate when it reads more naturally without losing the knotting image."
+      "notes": "Use this as a controlled alternate when it reads more naturally without losing the knotting image."
     },
     {
       "context": "In the fourfold family-heading formula",

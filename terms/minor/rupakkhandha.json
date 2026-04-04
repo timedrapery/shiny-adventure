@@ -17,12 +17,12 @@
     {
       "context": "In direct heap analysis",
       "rendering": "form heap",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose using familiar aggregate terminology",
       "rendering": "aggregate of form",
-      "notes": "Allowed alternate for orientation."
+      "notes": "Use this as a controlled alternate for orientation."
     }
   ],
   "related_terms": [

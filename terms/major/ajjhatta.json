@@ -19,12 +19,12 @@
     {
       "context": "In satipaṭṭhāna and contemplative internal/external pairings",
       "rendering": "internal",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where a smoother English adjective is needed",
       "rendering": "inner",
-      "notes": "Acceptable alternate when the line stays concrete."
+      "notes": "Use this as a controlled alternate when the line stays concrete."
     },
     {
       "context": "When the passage points to what is considered within one's own field rather than what is outside it",
@@ -38,7 +38,7 @@
   "example_phrases": [
     {
       "pali": "ajjhattaṁ vā kāye kāyānupassī viharati",
-      "translation": "one dwells contemplating the body as internal",
+      "translation": "one observes the body as internal",
       "notes": "Standard satipaṭṭhāna internal reading.",
       "source": "MN 10"
     },

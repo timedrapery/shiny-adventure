@@ -4,12 +4,22 @@ This directory contains the repository's validation, reporting, scaffolding, and
 
 All CLI scripts support `--help`.
 
+Use [../docs/usage.md](../docs/usage.md) for task-based command recipes and
+[../docs/generated/generated-docs-guide.md](../docs/generated/generated-docs-guide.md)
+if you are working with scripts that write under `docs/generated/`.
+
+When a script produces generated reference material, treat that output as a
+derived surface. Fix the live term data or the generating script first when the
+output looks wrong.
+
 ## Core Verification Commands
 
 - `python scripts/run_checks.py`
   Runs the full verification suite in the same order used by CI.
 - `python scripts/check_docs_integrity.py`
   Validates internal Markdown links and required repository-surface metadata files.
+- `python scripts/check_translation_formula_consistency.py`
+  Detects discouraged stock-phrase variants and formula-level drift in the shareable translation surfaces under `docs/translations/`.
 - `python scripts/validate_terms.py`
   Validates term JSON files against the project schema.
 - `python scripts/lint_terms.py`
@@ -37,6 +47,10 @@ All CLI scripts support `--help`.
   Reports repository health signals for editorial scalability and automation.
 - `python scripts/audit_term_coverage.py --top 15`
   Reports doctrinal coverage gaps in the term dataset.
+- `python scripts/modern_english_audit.py`
+  Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
+- `python scripts/voice_consistency_audit.py`
+  Reports mixed note templates, fragmentary example-note phrasing, and other voice-pattern drift in the live repo surface.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`
   Checks the dependent-arising cluster surface and writes glossary, formula-sheet, brief, and consistency outputs into `docs/generated/`.
 - `python scripts/jhana_cluster_report.py --write-docs`

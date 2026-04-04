@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and comparative contexts",
       "rendering": "ordinary person",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose using established Buddhist technical idiom",
       "rendering": "worldling",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When explicitly contrasted with the noble disciple or stream-enterer",
@@ -50,7 +50,7 @@
     {
       "pali": "puthujjanabhūmi",
       "translation": "the plane of the ordinary person",
-      "notes": "Useful phrase for the pre-breakthrough condition.",
+      "notes": "Shows a phrase for the pre-breakthrough condition.",
       "source": "MN 9"
     }
   ],

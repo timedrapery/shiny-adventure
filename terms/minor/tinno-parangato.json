@@ -18,12 +18,12 @@
     {
       "context": "In direct translation of the accomplished-crossing phrase",
       "rendering": "crossed over, gone to the far shore",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a slightly lighter result phrase is needed",
       "rendering": "having crossed over, gone beyond",
-      "notes": "Allowed alternate when the far-shore image remains audible."
+      "notes": "Use this as a controlled alternate when the far-shore image remains audible."
     }
   ],
   "related_terms": [

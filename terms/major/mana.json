@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "conceit",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing comparative self-measuring",
       "rendering": "measuring",
-      "notes": "Acceptable alternate when the functional movement is more important than the standard doctrinal label."
+      "notes": "Use this as a controlled alternate when the functional movement is more important than the standard doctrinal label."
     },
     {
       "context": "When English needs to keep both the doctrinal label and the comparative force audible",
@@ -57,7 +57,7 @@
     {
       "pali": "mānānusaya",
       "translation": "the underlying tendency toward conceit",
-      "notes": "Useful bridge to latent-tendency language.",
+      "notes": "Shows the bridge to latent-tendency language.",
       "source": "SN 22.89"
     }
   ],

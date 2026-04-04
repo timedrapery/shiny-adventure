@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "A cause or reason, often more specifically causal than the broader paccaya.",
-  "notes": "The project prefers cause because the term often marks a more direct causal role than the broader conditionality language of paccaya. Reason is acceptable in explanatory prose when the line leans more rhetorical or justificatory than metaphysical. The OSF glossary aligns with this handling by distinguishing direct causal language from broader conditional framing.",
+  "notes": "The project keeps cause as the default because hetu usually marks a tighter causal role than the broader conditional language of paccaya. Reason remains a controlled alternate when the line is explanatory rather than analytical. This entry must stay distinct from paccaya, which covers wider supporting conditions, and from upanisā, which marks enabling support. Use cause-language when the point is direct causal responsibility, not just background dependence. The OSF glossary supports this narrower causal handling instead of treating hetu and paccaya as interchangeable.",
   "context_rules": [
     {
       "context": "In most doctrinal and analytical contexts",
       "rendering": "cause",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a justificatory or explanatory tone is stronger than strict causality",
       "rendering": "reason",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When contrasting hetu with paccaya or upanisā in analytical discussion",
+      "rendering": "cause",
+      "notes": "Keep the tighter causal force explicit."
     }
   ],
   "related_terms": [

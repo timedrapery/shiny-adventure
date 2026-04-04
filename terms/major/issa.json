@@ -18,12 +18,12 @@
     {
       "context": "In most ethical and analytical contexts",
       "rendering": "envy",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In more idiomatic prose where jealousy is the more natural English word",
       "rendering": "jealousy",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [

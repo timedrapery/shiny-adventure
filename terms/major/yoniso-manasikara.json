@@ -19,12 +19,12 @@
     {
       "context": "In most practical and doctrinal contexts",
       "rendering": "wise attention",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing attentional care rather than wisdom-language",
       "rendering": "careful attention",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In prose stressing contextual fit or right orientation",
@@ -59,7 +59,7 @@
     {
       "pali": "ayoniso manasikāra",
       "translation": "unwise attention",
-      "notes": "Useful contrastive pair.",
+      "notes": "Shows a contrastive pair.",
       "source": "MN 2"
     }
   ],

@@ -137,9 +137,11 @@ def add_finding(
     )
 
 
-def check_schema(records: list[TermRecord], findings: list[Finding]) -> None:
+def check_schema(
+    terms_dir: Path, records: list[TermRecord], findings: list[Finding]
+) -> None:
     del records
-    failures, _warnings = collect_validation_failures(TERMS_DIR)
+    failures, _warnings = collect_validation_failures(terms_dir)
     for failure in failures:
         add_finding(findings, "error", "Schema", "schema_violation", failure)
 
@@ -403,6 +405,21 @@ def check_context_sensitive_notes(
                     path=record.path,
                 )
 
+        distinct_renderings = {
+            english_key(rule.get("rendering"))
+            for rule in context_rules
+            if isinstance(rule, dict) and is_non_empty_string(rule.get("rendering"))
+        }
+        if len(distinct_renderings) < 2:
+            add_finding(
+                findings,
+                "error",
+                "Context Rules",
+                "context_sensitive_indistinct_renderings",
+                "context-sensitive entry must use at least two distinct renderings across context_rules",
+                path=record.path,
+            )
+
         policy = record.data.get("translation_policy")
         if not isinstance(policy, dict) or not is_non_empty_string(policy.get("when_not_to_apply")):
             add_finding(
@@ -411,6 +428,36 @@ def check_context_sensitive_notes(
                 "Context Rules",
                 "context_sensitive_missing_policy",
                 "context-sensitive entry must explain when_not_to_apply in translation_policy",
+                path=record.path,
+            )
+
+
+def check_default_rendering_coverage(
+    records: list[TermRecord], findings: list[Finding]
+) -> None:
+    for record in records:
+        data = record.data
+        if data.get("entry_type") != "major":
+            continue
+
+        preferred = data.get("preferred_translation")
+        context_rules = data.get("context_rules")
+        if not is_non_empty_string(preferred) or not isinstance(context_rules, list):
+            continue
+
+        preferred_key = english_key(preferred)
+        renderings = {
+            english_key(rule.get("rendering"))
+            for rule in context_rules
+            if isinstance(rule, dict) and is_non_empty_string(rule.get("rendering"))
+        }
+        if preferred_key not in renderings:
+            add_finding(
+                findings,
+                "error",
+                "Context Rules",
+                "preferred_not_covered_by_context_rules",
+                "major entry context_rules do not include the preferred_translation as an explicit rendering",
                 path=record.path,
             )
 
@@ -523,12 +570,13 @@ def collect_findings(terms_dir: Path = TERMS_DIR) -> tuple[list[Finding], int]:
     records = load_term_records(terms_dir)
     findings: list[Finding] = []
 
-    check_schema(records, findings)
+    check_schema(terms_dir, records, findings)
     check_conflicting_preferred_translations(records, findings)
     check_duplicate_preferred_renderings(records, findings)
     check_rule_bearing_fields(records, findings)
     check_alternate_consistency(records, findings)
     check_context_sensitive_notes(records, findings)
+    check_default_rendering_coverage(records, findings)
     check_headword_normalization(records, findings)
     check_major_entry_rule_strength(records, findings)
 

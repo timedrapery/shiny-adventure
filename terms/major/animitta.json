@@ -22,12 +22,12 @@
     {
       "context": "In most doctrinal and contemplative-designation contexts",
       "rendering": "signless",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When a translator-facing note needs the literal structure made explicit",
       "rendering": "without sign",
-      "notes": "Controlled alternate that keeps the same doctrinal force."
+      "notes": "Use this as a controlled alternate when it preserves the same doctrinal force."
     },
     {
       "context": "In practical explanatory prose about not fastening on perceptual markers",
@@ -48,7 +48,7 @@
   "example_phrases": [
     {
       "pali": "animittaṃ cetosamādhiṃ upasampajja viharati",
-      "translation": "one dwells having entered signless composure of mind",
+      "translation": "one enters and remains in signless composure of mind",
       "notes": "Shows the standard contemplative-designation use carried by the headword.",
       "source": "MN 43"
     },

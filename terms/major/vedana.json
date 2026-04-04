@@ -22,12 +22,12 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "felt experience",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose clarifying that emotion is not intended",
       "rendering": "feeling tone",
-      "notes": "Useful when precision itself is the point."
+      "notes": "Use this when precision itself is the point."
     },
     {
       "context": "When the passage emphasizes the link from contact toward wanting in dependent arising",
@@ -66,6 +66,7 @@
     "satipatthana",
     "sukha",
     "tanha",
+    "vedananupassana",
     "vedanakkhandha",
     "vinnana",
     "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam"
@@ -80,7 +81,7 @@
     {
       "pali": "sukhā vedanā",
       "translation": "pleasant felt experience",
-      "notes": "Simple subtype example without drifting into broader pleasure psychology.",
+      "notes": "Shows a simple subtype example without drifting into broader pleasure psychology.",
       "source": "SN 36.1"
     },
     {

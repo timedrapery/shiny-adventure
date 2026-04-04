@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and practice-sequence contexts",
       "rendering": "gladness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the active brightening of citta",
       "rendering": "gladdening",
-      "notes": "Allowed alternate when the process side matters more than the noun form."
+      "notes": "Use this as a controlled alternate when the process side matters more than the noun form."
     }
   ],
   "related_terms": [

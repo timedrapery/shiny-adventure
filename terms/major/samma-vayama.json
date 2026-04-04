@@ -21,12 +21,12 @@
     {
       "context": "In most path-factor and training contexts",
       "rendering": "right effort",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing vitality or ongoing application",
       "rendering": "right energy",
-      "notes": "Acceptable alternate when it clarifies tone."
+      "notes": "Use this as a controlled alternate when it clarifies tone."
     },
     {
       "context": "In prose stressing contextual fitness rather than willpower",
@@ -36,12 +36,12 @@
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious exercise",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right changing",
-      "notes": "Source-backed heading style when the factor is framed as the active changing of mind-state."
+      "notes": "Use this only when the heading-style phrasing fits the active changing-of-mind-state emphasis."
     },
     {
       "context": "In OSF publication prose emphasizing the four tasks of training",

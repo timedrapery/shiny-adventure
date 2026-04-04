@@ -20,12 +20,12 @@
     {
       "context": "In practical and awakening-factor contexts",
       "rendering": "relaxation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing the active calming movement",
       "rendering": "settling",
-      "notes": "Acceptable alternate when the processual sense should be explicit."
+      "notes": "Use this as a controlled alternate when the processual sense should be explicit."
     },
     {
       "context": "In prose where a more state-like English noun reads better",

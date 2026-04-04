@@ -19,12 +19,12 @@
     {
       "context": "In most ethical and doctrinal contexts",
       "rendering": "aversion",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In contexts stressing hostile intention toward others",
       "rendering": "ill will",
-      "notes": "Acceptable alternate when the phrase is more precise."
+      "notes": "Use this as a controlled alternate when the phrase is more precise."
     },
     {
       "context": "In prose emphasizing a more lingering reactive tone",
@@ -34,7 +34,7 @@
     {
       "context": "When the passage is naming one of the unwholesome roots",
       "rendering": "aversion",
-      "notes": "Preserve the analytical root classification rather than paraphrasing toward mood-language."
+      "notes": "Keep the analytical root classification explicit rather than paraphrasing toward mood-language."
     }
   ],
   "related_terms": [

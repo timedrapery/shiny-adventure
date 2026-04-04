@@ -34,7 +34,7 @@ class LintEncodingTests(unittest.TestCase):
     def test_mojibake_sequences_are_reported(self) -> None:
         terms = {
             "samadhi": {
-                "term": "samÄdhi",
+                "term": "samÃ„Âdhi",
                 "preferred_translation": "mental composure",
                 "definition": "A settled mind.",
             }
@@ -101,6 +101,70 @@ class LintRuleTests(unittest.TestCase):
         self.assertEqual(
             issues,
             ["dukkha.json: major reviewed entry is missing sutta_references"],
+        )
+
+    def test_major_reviewed_entries_require_example_sources(self) -> None:
+        terms = {
+            "dukkha": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "example_phrases": [
+                    {"pali": "dukkha", "translation": "dissatisfaction"},
+                    {"pali": "dukkha", "translation": "dissatisfaction", "source": "SN 12.2"},
+                ],
+            },
+            "anicca": {
+                "entry_type": "minor",
+                "status": "reviewed",
+                "example_phrases": [{"pali": "anicca", "translation": "impermanence"}],
+            },
+        }
+
+        issues = lint_terms.check_missing_example_sources(terms)
+
+        self.assertEqual(
+            issues,
+            ["dukkha.json: major reviewed entry has example_phrases missing source on item(s) 1"],
+        )
+
+    def test_major_reviewed_entries_warn_on_thin_governance_surfaces(self) -> None:
+        terms = {
+            "hetu": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Cause.",
+                "context_rules": [
+                    {"context": "default", "rendering": "cause"},
+                    {"context": "explanatory", "rendering": "reason"},
+                ],
+                "example_phrases": [{"pali": "hetu", "translation": "cause", "source": "AN 3.134"}],
+            },
+            "paccaya": {
+                "entry_type": "major",
+                "status": "stable",
+                "notes": (
+                    "The project keeps condition as the default in dependent-arising contexts, "
+                    "distinguishes it from narrower cause-language, and uses the note to explain "
+                    "the main drift risk the entry is meant to prevent in later translation work."
+                ),
+                "context_rules": [
+                    {"context": "default", "rendering": "condition"},
+                    {"context": "formula", "rendering": "condition"},
+                ],
+                "example_phrases": [
+                    {"pali": "paccaya", "translation": "condition", "source": "SN 12.2"},
+                    {"pali": "avijjāpaccayā saṅkhārā", "translation": "with ignorance as condition, putting together", "source": "SN 12.2"},
+                ],
+            },
+        }
+
+        issues = lint_terms.check_thin_governance_surfaces(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "hetu.json: major reviewed entry has a thin governance surface (context_rules=2, example_phrases=1, note_words=1); expand the note or add another rule/example"
+            ],
         )
 
     def test_untranslated_preference_requires_gloss(self) -> None:
@@ -209,6 +273,139 @@ class LintRuleTests(unittest.TestCase):
             ],
         )
 
+    def test_reviewed_major_entries_cannot_keep_generic_authority_basis(self) -> None:
+        terms = {
+            "mannati": {
+                "entry_type": "major",
+                "status": "stable",
+                "authority_basis": [
+                    {
+                        "source": "Repository editorial record",
+                        "scope": "Placeholder provenance.",
+                    }
+                ],
+            }
+        }
+
+        issues = lint_terms.check_generic_authority_basis_refinement(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "mannati.json: reviewed/stable major entry still uses generic authority_basis source 'Repository editorial record'; refine provenance before merge"
+            ],
+        )
+
+    def test_collect_lint_results_groups_example_source_warnings(self) -> None:
+        terms = {
+            "dukkha": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "The OSF glossary supports the default translation here and the note explains the drift prevention logic in explicit project language.",
+                "context_rules": [
+                    {"context": "default", "rendering": "dissatisfaction"},
+                    {"context": "contrast", "rendering": "stress"},
+                ],
+                "related_terms": ["nirodha"],
+                "example_phrases": [{"pali": "dukkha", "translation": "dissatisfaction"}],
+                "sutta_references": ["SN 12.2"],
+                "translation_policy": {
+                    "default_scope": "most doctrinal contexts",
+                    "drift_risk": "Avoid suffering drift.",
+                    "compound_inheritance": "case-by-case",
+                },
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the project default."}],
+            },
+            "nirodha": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "The OSF glossary supports the default translation here and the note explains the drift prevention logic in explicit project language.",
+                "context_rules": [
+                    {"context": "default", "rendering": "quenching"},
+                    {"context": "contrast", "rendering": "ending"},
+                ],
+                "related_terms": ["dukkha"],
+                "example_phrases": [{"pali": "nirodha", "translation": "quenching", "source": "SN 12.2"}],
+                "sutta_references": ["SN 12.2"],
+                "translation_policy": {
+                    "default_scope": "most doctrinal contexts",
+                    "drift_risk": "Avoid cessation flattening.",
+                    "compound_inheritance": "case-by-case",
+                },
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the project default."}],
+            },
+        }
+
+        errors, warnings = lint_terms.collect_lint_results(
+            terms,
+            enforce_stabilized_terms=False,
+        )
+
+        self.assertEqual(errors, {})
+        self.assertEqual(
+            warnings["Example Sources"],
+            ["dukkha.json: major reviewed entry has example_phrases missing source on item(s) 1"],
+        )
+
+    def test_collect_lint_results_groups_thin_governance_warnings(self) -> None:
+        terms = {
+            "hetu": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": "Cause.",
+                "context_rules": [
+                    {"context": "default", "rendering": "cause"},
+                    {"context": "explanatory", "rendering": "reason"},
+                ],
+                "related_terms": ["paccaya"],
+                "example_phrases": [{"pali": "hetu", "translation": "cause", "source": "AN 3.134"}],
+                "sutta_references": ["AN 3.134"],
+                "translation_policy": {
+                    "default_scope": "most analytical contexts",
+                    "drift_risk": "Avoid condition drift.",
+                    "compound_inheritance": "case-by-case",
+                },
+            },
+            "paccaya": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": (
+                    "The OSF glossary supports the default translation here, the note explains the "
+                    "broader conditional scope, and it records the drift risk the project wants to "
+                    "prevent when translators are tempted to collapse the term into cause-language."
+                ),
+                "context_rules": [
+                    {"context": "default", "rendering": "condition"},
+                    {"context": "formula", "rendering": "condition"},
+                ],
+                "related_terms": ["hetu"],
+                "example_phrases": [
+                    {"pali": "paccaya", "translation": "condition", "source": "SN 12.2"},
+                    {"pali": "imasmiṃ sati idaṃ hoti", "translation": "when this is present, this comes to be", "source": "SN 12.61"},
+                ],
+                "sutta_references": ["SN 12.2"],
+                "translation_policy": {
+                    "default_scope": "most analytical contexts",
+                    "drift_risk": "Avoid cause drift.",
+                    "compound_inheritance": "case-by-case",
+                },
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the project default."}],
+            },
+        }
+
+        errors, warnings = lint_terms.collect_lint_results(
+            terms,
+            enforce_stabilized_terms=False,
+        )
+
+        self.assertEqual(errors, {})
+        self.assertEqual(
+            warnings["Governance Surface"],
+            [
+                "hetu.json: major reviewed entry has a thin governance surface (context_rules=2, example_phrases=1, note_words=1); expand the note or add another rule/example"
+            ],
+        )
+
 
 class LintCliTests(unittest.TestCase):
     def test_main_reports_missing_terms_directory(self) -> None:
@@ -230,19 +427,27 @@ class LintCliTests(unittest.TestCase):
             "sati": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "Rule-bearing note.",
+                "notes": (
+                    "The project keeps remembering as the default, explains why mindfulness is not "
+                    "the uncontrolled house default, and records the specific drift risk the entry "
+                    "is meant to prevent in later path and practice translation work."
+                ),
                 "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
                 "related_terms": ["samadhi"],
-                "example_phrases": [{"pali": "sati"}],
+                "example_phrases": [{"pali": "sati", "source": "MN 10"}, {"pali": "satipaṭṭhāna", "source": "DN 22"}],
                 "sutta_references": ["MN 10"],
             },
             "samadhi": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "Rule-bearing note.",
+                "notes": (
+                    "The project keeps mental composure as the default, explains the distinction "
+                    "from generic concentration language, and records the practical drift risk the "
+                    "entry is meant to prevent in later meditative translation work."
+                ),
                 "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
-                "example_phrases": [{"pali": "samādhi"}],
+                "example_phrases": [{"pali": "samādhi", "source": "MN 44"}, {"pali": "sammā-samādhi", "source": "MN 117"}],
                 "sutta_references": ["MN 44"],
             },
         }
@@ -263,19 +468,27 @@ class LintCliTests(unittest.TestCase):
             "sati": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "Rule-bearing note.",
+                "notes": (
+                    "The project keeps remembering as the default, explains why mindfulness is not "
+                    "the uncontrolled house default, and records the specific drift risk the entry "
+                    "is meant to prevent in later path and practice translation work."
+                ),
                 "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
                 "related_terms": ["samadhi"],
-                "example_phrases": [{"pali": "sati"}],
+                "example_phrases": [{"pali": "sati", "source": "MN 10"}, {"pali": "satipaṭṭhāna", "source": "DN 22"}],
                 "sutta_references": ["MN 10"],
             },
             "samadhi": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "Rule-bearing note.",
+                "notes": (
+                    "The project keeps mental composure as the default, explains the distinction "
+                    "from generic concentration language, and records the practical drift risk the "
+                    "entry is meant to prevent in later meditative translation work."
+                ),
                 "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
-                "example_phrases": [{"pali": "samādhi"}],
+                "example_phrases": [{"pali": "samādhi", "source": "MN 44"}, {"pali": "sammā-samādhi", "source": "MN 117"}],
                 "sutta_references": ["MN 44"],
             },
         }

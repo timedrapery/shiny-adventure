@@ -19,7 +19,7 @@
     {
       "context": "In most source-facing and doctrinal contexts",
       "rendering": "Sugata",
-      "notes": "Default project practice is to leave the title untranslated."
+      "notes": "Leave the title untranslated by default."
     },
     {
       "context": "In explanatory prose where a gloss is necessary",
@@ -29,7 +29,7 @@
     {
       "context": "When the passage is explicitly using a Buddha-epithet in praise or recollection",
       "rendering": "Sugata",
-      "notes": "Preserve the title as a title rather than paraphrasing it away."
+      "notes": "Keep the title as a title rather than paraphrasing it away."
     }
   ],
   "related_terms": [

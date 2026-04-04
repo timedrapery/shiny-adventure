@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing and doctrinal contexts where the accomplishment-side force should stay explicit",
       "rendering": "final knowledge",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When immediacy matters more than completion in a closely related formula context",
       "rendering": "direct knowledge",
-      "notes": "Allowed alternate when the line benefits from a slightly more immediate English phrase."
+      "notes": "Use this as a controlled alternate when the line benefits from a slightly more immediate English phrase."
     },
     {
       "context": "In explanatory prose where the completed quality must stay audible without becoming technical jargon",

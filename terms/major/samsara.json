@@ -20,17 +20,17 @@
     {
       "context": "In most source-facing and doctrinal contexts",
       "rendering": "saṃsāra",
-      "notes": "Default project practice is to keep the term untranslated."
+      "notes": "Keep the term untranslated by default."
     },
     {
       "context": "On first occurrence or in explanatory prose requiring a gloss",
       "rendering": "wandering on",
-      "notes": "Preferred gloss because it preserves the literal force."
+      "notes": "Use this as the preferred gloss when you need the literal force."
     },
     {
       "context": "In explanatory prose emphasizing repeated birth and death",
       "rendering": "round of rebirth",
-      "notes": "Allowed alternate when the rebirth dimension needs explicit wording."
+      "notes": "Use this as a controlled alternate when the rebirth dimension needs explicit wording."
     }
   ],
   "related_terms": [
@@ -53,7 +53,7 @@
     {
       "pali": "sandhāvitaṃ saṃsaritaṃ",
       "translation": "there has been running on and wandering on",
-      "notes": "Useful for the processive feel of the term.",
+      "notes": "Shows the term's processive feel.",
       "source": "SN 15.3"
     }
   ],

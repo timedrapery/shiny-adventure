@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through aversion, hostility, or ill will toward what is resisted.",
-  "notes": "Project preference is aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label. The term should be heard as aversion functioning specifically as a disturbance of practice and composure. The OSF glossary confirms aversive distraction as the house default inside the five-distractions framework and preserves ill will as the explanatory alternate.",
+  "notes": "The project prefers aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label. The term should be heard as aversion functioning specifically as a disturbance of practice and composure. The OSF glossary confirms aversive distraction as the house default inside the five-distractions framework and preserves ill will as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
       "rendering": "aversive distraction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing hostility toward others or situations",
       "rendering": "ill will",
-      "notes": "Acceptable alternate when the aversive tone needs a more familiar phrase."
+      "notes": "Use this as a controlled alternate when the aversive tone needs a more familiar phrase."
     },
     {
       "context": "When the passage emphasizes aversion as a distraction to be abandoned in meditation",

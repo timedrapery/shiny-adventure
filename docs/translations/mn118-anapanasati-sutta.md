@@ -23,7 +23,7 @@
 
 So I heard.
 
-At one time the Buddha was dwelling near Sāvatthī, in the Eastern Monastery,
+At one time the Buddha was staying near Sāvatthī, in the Eastern Monastery,
 in Migāra's Mother's mansion, together with many well-known senior disciple
 bhikkhus: the venerable Sāriputta, Mahāmoggallāna, Mahākassapa, Mahākaccāyana,
 Mahākoṭṭhika, Mahākappina, Mahācunda, Anuruddha, Revata, Ānanda, and many
@@ -73,7 +73,7 @@ bag.
 "In this Saṅgha there are bhikkhus who are arahants, with outflows ended, who
 have lived the life, done what had to be done, laid down the burden, reached
 their own goal, ended the fetter of becoming, and been fully released through
-right knowing. There are such bhikkhus in this Saṅgha.
+right knowledge. There are such bhikkhus in this Saṅgha.
 
 "In this Saṅgha there are bhikkhus who, with the ending of the five lower
 fetters, are spontaneously reborn, are finally quenched there, and are not
@@ -144,10 +144,10 @@ body conditioner calmed through each breath.*
 - One trains: 'Breathing in, I will calm the body conditioner.' One trains:
   'Breathing out, I will calm the body conditioner.'
 
-Feeling-related trainings:
+Felt-experience trainings:
 *With each in-breath and out-breath, the trainee remembers to bring forth
 delight and ease, and to experience and calm the mind conditioner, namely
-feeling and recognition: liking, disliking, or a mixed pull.*
+felt experience and recognition: liking, disliking, or a mixed pull.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:
@@ -192,10 +192,10 @@ great benefit."
 ### How Ānāpānasati Fulfills The Four Establishments Of Sati
 
 *Study note: the four fulfillments below do not leave breathing behind. They
-show how the same in-breath and out-breath training fulfills body, feelings,
-feeling mind, and dhammas. Here the in-and-out breath remains the body
-conditioner, while feeling and recognition remain the mind conditioner worked
-with through breathing.*
+show how the same in-breath and out-breath training fulfills body, felt
+experience, feeling mind, and dhammas. Here the in-and-out breath remains the
+body conditioner, while felt experience and recognition remain the mind
+conditioner worked with through breathing.*
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
@@ -208,13 +208,13 @@ the body, ardent, with clear knowing, with remembering, having removed
 coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing delight, or ease, or the mind
-conditioner, or in calming the mind conditioner, then one remains observing feelings
-in relation to feelings, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world. For,
-bhikkhus, I say that careful attention to the in-breaths and out-breaths is one
-kind of feeling. Therefore one remains observing feelings
-in relation to feelings, ardent, with clear knowing, with remembering, having
-removed coveting and distress regarding the world.
+conditioner, or in calming the mind conditioner, then one remains observing
+felt experience in relation to felt experience, ardent, with clear knowing,
+with remembering, having removed coveting and distress regarding the world.
+For, bhikkhus, I say that careful attention to the in-breaths and out-breaths
+is one kind of felt experience. Therefore one remains observing felt
+experience in relation to felt experience, ardent, with clear knowing, with
+remembering, having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
 feeling mind, or bringing the feeling mind to mental composure, or freeing the
@@ -258,7 +258,7 @@ thoroughly examines that dhamma. Then the awakening factor of discernment of
 qualities is aroused. One develops it, and it comes to
 fulfillment through development.
 
-"As one thus discerns, investigates, and thoroughly examines that dhamma with
+"As one discerns, investigates, and thoroughly examines that dhamma with
 discernment, energy is aroused and does not slacken. Then the energy awakening
 factor is aroused. One develops it, and it comes to fulfillment
 through development.

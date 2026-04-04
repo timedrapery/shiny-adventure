@@ -19,12 +19,12 @@
     {
       "context": "In the four clinging-types framework",
       "rendering": "clinging to rules and observances",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In compact doctrinal lists",
       "rendering": "rule-and-observance clinging",
-      "notes": "Allowed alternate when brevity is needed."
+      "notes": "Use this as a controlled alternate when brevity is needed."
     },
     {
       "context": "In explanatory prose emphasizing the upādāna aspect of taking hold",

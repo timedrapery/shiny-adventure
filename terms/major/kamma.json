@@ -20,17 +20,17 @@
     {
       "context": "In most doctrinal and analytical contexts",
       "rendering": "action",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In ethical or narrative contexts where a more concrete noun reads better",
       "rendering": "deed",
-      "notes": "Acceptable alternate when the sentence points to a particular act."
+      "notes": "Use this as a controlled alternate when the sentence points to a particular act."
     },
     {
       "context": "In OSF explanatory prose emphasizing habit-pattern and conduct",
       "rendering": "behavior",
-      "notes": "Useful when the line is about how one is acting rather than the abstraction of action."
+      "notes": "Use this when the line is about how one is acting rather than the abstraction of action."
     },
     {
       "context": "In anti-drift notes contrasting kamma with simplistic cosmic bookkeeping",

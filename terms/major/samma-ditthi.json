@@ -20,7 +20,7 @@
     {
       "context": "In path-factor contexts",
       "rendering": "right view",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose stressing appropriateness rather than dogma",
@@ -30,12 +30,12 @@
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious perspective",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right viewing",
-      "notes": "Source-backed heading style reflecting the viewing or looking idiom."
+      "notes": "Use this only when the heading-style viewing idiom is worth preserving."
     },
     {
       "context": "In OSF publication prose stressing the practical seeing of dukkha and its cause",

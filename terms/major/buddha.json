@@ -14,12 +14,12 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "buddha (awakened one)",
   "definition": "An awakened one, especially the Fully Awakened Buddha who discovers and teaches the path.",
-  "notes": "The project leaves buddha untranslated by default because it functions as a distinct doctrinal title and category. Awakened one is useful as a gloss, while enlightened one should be avoided in line with the project's preference for awakening over enlightenment. This entry should be read as both a title and a doctrinal type: one who discovers and teaches the path, not merely one who is personally released. The OSF glossary supports keeping buddha untranslated as a doctrinal title while using awakened one only as a gloss.",
+  "notes": "The project leaves buddha untranslated by default because it functions as a distinct doctrinal title and category. Awakened one is useful as a gloss, while enlightened one should be avoided in line with the project's preference for awakening over enlightenment. This entry should be read as both a title and a doctrinal type: someone who discovers and teaches the path, not merely someone who is personally released. The OSF glossary supports keeping buddha untranslated as a doctrinal title while using awakened one only as a gloss.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
       "rendering": "buddha",
-      "notes": "Default project practice is to keep the term untranslated."
+      "notes": "Keep the term untranslated by default."
     },
     {
       "context": "On first occurrence or in explanatory prose requiring a gloss",
@@ -44,7 +44,7 @@
   "example_phrases": [
     {
       "pali": "itipi so bhagavā arahaṃ sammāsambuddho",
-      "translation": "thus the Blessed One is an arahant, a perfectly self-awakened buddha",
+      "translation": "so the Blessed One is an arahant, a perfectly self-awakened buddha",
       "notes": "Classic formula showing buddha as title.",
       "source": "DN 2"
     }

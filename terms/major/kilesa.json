@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "defilement",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the imagery of soiling or obscuration",
       "rendering": "stain",
-      "notes": "Allowed alternate when the image helps and the broader doctrinal label is not lost."
+      "notes": "Use this as a controlled alternate when the image helps and the broader doctrinal label is not lost."
     }
   ],
   "related_terms": [
@@ -43,7 +43,7 @@
     {
       "pali": "cittassa upakkilesā",
       "translation": "corruptions of the mind",
-      "notes": "Useful bridge to the narrower upakkilesa-family.",
+      "notes": "Shows the bridge to the narrower upakkilesa family.",
       "source": "MN 7"
     },
     {

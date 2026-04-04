@@ -21,17 +21,17 @@
     {
       "context": "In doctrinal and source-facing contexts",
       "rendering": "relinquishment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In direct practice explanation",
       "rendering": "letting go",
-      "notes": "Allowed alternate when the line is plainly practical."
+      "notes": "Use this as a controlled alternate when the line is plainly practical."
     },
     {
       "context": "In prose where the release aspect needs to remain explicit",
       "rendering": "release through letting go",
-      "notes": "Allowed fuller alternate, not the default."
+      "notes": "Use this as a controlled fuller alternate, not the default."
     }
   ],
   "related_terms": [

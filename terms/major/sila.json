@@ -20,22 +20,22 @@
     {
       "context": "In most practical and doctrinal contexts",
       "rendering": "conduct",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the ethical dimension of behavior",
       "rendering": "ethical conduct",
-      "notes": "Acceptable alternate when plain conduct feels too broad."
+      "notes": "Use this as a controlled alternate when plain conduct feels too broad."
     },
     {
       "context": "In compact doctrinal lists where a short noun is needed",
       "rendering": "virtue",
-      "notes": "Use sparingly."
+      "notes": "Use this sparingly."
     },
     {
       "context": "In taking-precept formulas and ceremonial request language",
       "rendering": "precepts",
-      "notes": "Source-backed alternate for liturgical and instructional contexts."
+      "notes": "Use this as a source-backed alternate for liturgical and instructional contexts."
     }
   ],
   "related_terms": [
@@ -57,7 +57,7 @@
     {
       "pali": "sīlasampanno",
       "translation": "accomplished in conduct",
-      "notes": "Useful expression showing sīla as embodied practice.",
+      "notes": "Shows sīla as embodied practice.",
       "source": "DN 2"
     },
     {

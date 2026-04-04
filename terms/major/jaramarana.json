@@ -19,17 +19,17 @@
     {
       "context": "In most dependent-arising contexts",
       "rendering": "ageing and dying",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In more literal or tightly formulaic doctrinal prose",
       "rendering": "aging-and-death",
-      "notes": "Acceptable alternate when the compound structure should remain more explicit."
+      "notes": "Use this as a controlled alternate when the compound structure should remain more explicit."
     },
     {
       "context": "In explanatory prose where a familiar phrase helps",
       "rendering": "old age and death",
-      "notes": "Acceptable alternate outside tightly patterned formula translation."
+      "notes": "Use this as a controlled alternate outside tightly patterned formula translation."
     },
     {
       "context": "When the passage emphasizes the culminating suffering that follows birth in the sequence",

@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "attention",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the active movement of the mind toward an object",
       "rendering": "attending",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage is analyzing the mental factor that can be directed wisely or unwisely",

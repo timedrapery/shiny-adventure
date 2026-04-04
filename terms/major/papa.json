@@ -18,12 +18,12 @@
     {
       "context": "In ethical and practical contexts",
       "rendering": "harmful",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In plain narrative or very compact phrases",
       "rendering": "bad",
-      "notes": "Acceptable alternate when the English line wants lighter diction."
+      "notes": "Use this as a controlled alternate when the English line wants lighter diction."
     }
   ],
   "related_terms": [

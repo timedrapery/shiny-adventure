@@ -20,22 +20,22 @@
     {
       "context": "In path-factor and ethical contexts",
       "rendering": "right action",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing what conduct accords with the path",
       "rendering": "appropriate action",
-      "notes": "Acceptable alternate when it improves clarity."
+      "notes": "Use this as a controlled alternate when it improves clarity."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious action",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right noble action",
-      "notes": "Source-backed heading style retained for close alignment with the quotes draft."
+      "notes": "Use this only when close alignment with the quotes draft matters."
     }
   ],
   "related_terms": [

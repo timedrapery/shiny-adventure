@@ -10,8 +10,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Primary source: the Pali text of MN 118 as segmented in SuttaCentral's
   Bilara data.
 - Control surface: the repository's current term policy, especially
-  `ānāpānasati`, `sati`, `dhamma`, `samādhi`, `citta`, `mano`, `upekkhā`,
-  `vossagga`, and `paṭinissagga`.
+  `ānāpānasati`, `sati`, `dhamma`, `samādhi`, `citta`, `mano`, `vedanā`,
+  `upekkhā`, `vossagga`, `paṭinissagga`, and `sammā-ñāṇa`.
 - Working method: repeated formulas are checked as families, not one line at a
   time, so the sutta reads as one governed practice movement.
 
@@ -26,6 +26,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   a numbered ladder of steps.
 - The tetrad headings stay in the main translation as study aids for practice.
 - `citta` remains `feeling mind` in the training formulas.
+- `vedanā` remains `felt experience`, and the satipaṭṭhāna-fulfillment section
+  keeps that wording rather than slipping back into generic feeling-language.
 - `samādhi` remains `mental composure`; this blocks drift toward
   concentration-language without making samādhi the headword equivalent of
   unification-of-mind language.
@@ -45,6 +47,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `nāhaṁ ... muṭṭhassatissa asampajānassa ānāpānassatiṁ vadāmi` is rendered so
   the line clearly excludes practice where remembering has slipped and clear
   knowing is absent.
+- `sammāñāṇena` in the assembly line is rendered `through right knowledge` so
+  the completed-path line stays aligned with the repository's current
+  `sammā-ñāṇa` record.
 - `sādhukaṁ ajjhupekkhitā hoti` is rendered with `dynamic balance`, not
   equanimity, to stay aligned with repo policy and with the active sense of
   careful looking-on.
@@ -77,13 +82,14 @@ translation choices, source-audit calls, and edition notes that govern it.
   goal rather than beating around the bush.
 - In the satipaṭṭhāna-fulfillment section, the breathing training is not left
   behind. The section is governed as a mapping of the same in-breath and
-  out-breath training onto body, feelings, feeling mind, and dhammas.
-- In the feeling tetrad, the trainee remembers with each breath to bring forth
-  delight and ease, and to experience and calm the mind conditioner, namely
-  feeling and recognition, including liking, disliking, or a mixed pull.
+  out-breath training onto body, felt experience, feeling mind, and dhammas.
+- In the felt-experience tetrad, the trainee remembers with each breath to
+  bring forth delight and ease, and to experience and calm the mind
+  conditioner, namely felt experience and recognition, including liking,
+  disliking, or a mixed pull.
 - In the satipaṭṭhāna-fulfillment section, the in-and-out breath remains the
-  body conditioner, while feeling and recognition remain the mind conditioner
-  worked with through breathing.
+  body conditioner, while felt experience and recognition remain the mind
+  conditioner worked with through breathing.
 - In the feeling-mind tetrad, the trainee remembers with each breath to
   experience, gladden, bring the feeling mind to mental composure, and free
   it.

@@ -19,12 +19,12 @@
     {
       "context": "In most practical and analytical contexts",
       "rendering": "investigation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing deliberate checking or testing",
       "rendering": "examination",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [

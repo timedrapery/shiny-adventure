@@ -19,17 +19,17 @@
     {
       "context": "In analytical and doctrinal contexts",
       "rendering": "non-aversion",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing warm practical expression",
       "rendering": "kindness",
-      "notes": "Acceptable alternate when the ethical quality is being expressed rather than classified."
+      "notes": "Use this as a controlled alternate when the ethical quality is being expressed rather than classified."
     },
     {
       "context": "In prose stressing the absence of hostility",
       "rendering": "non-hostility",
-      "notes": "Useful when the contrast with aversion needs emphasis."
+      "notes": "Use this when the contrast with aversion needs emphasis."
     },
     {
       "context": "When the passage is naming one of the wholesome roots",

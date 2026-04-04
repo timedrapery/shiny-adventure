@@ -18,12 +18,12 @@
     {
       "context": "In direct doctrinal translation of the compound",
       "rendering": "element of escape",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where the compound order is smoother in English",
       "rendering": "escape element",
-      "notes": "Allowed alternate when the line reads more naturally that way."
+      "notes": "Use this as a controlled alternate when the line reads more naturally that way."
     }
   ],
   "related_terms": [

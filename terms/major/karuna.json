@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "Kindness towards others, especially when another's pain or difficulty calls for responsive humane care without joining them in suffering.",
-  "notes": "The project now rejects English that too easily suggests suffering alongside another, which this repository does not treat as noble Dhamma. Kindness towards others keeps the quality humane, active, and workable without importing co-suffering or sentimental heaviness. Pity is still discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated. The term should be heard as responsive kindness trained as a brahmavihāra, not as passive sadness or emotional collapse. The OSF glossary still supports keeping the quality humane, practical, and responsive to another's difficulty, and the repository now carries that pressure through kindness-towards-others language instead of older co-suffering wording.",
+  "notes": "The project prefers kindness towards others because it rejects English that too easily suggests suffering alongside another, which this repository does not treat as noble Dhamma. Kindness towards others keeps the quality humane, active, and workable without importing co-suffering or sentimental heaviness. Pity is still discouraged because it can imply distance, superiority, or condescension that are foreign to the quality being cultivated. The term should be heard as responsive kindness trained as a brahmavihāra, not as passive sadness or emotional collapse. The OSF glossary still supports keeping the quality humane, practical, and responsive to another's difficulty, and the repository now carries that pressure through kindness-towards-others language instead of older co-suffering wording.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
       "rendering": "kindness towards others",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing concrete responsive concern",
       "rendering": "care for others",
-      "notes": "Acceptable alternate when the sentence benefits from a shorter phrase."
+      "notes": "Use this as a controlled alternate when the sentence benefits from a shorter phrase."
     },
     {
       "context": "When the passage emphasizes the cultivated brahmavihāra quality rather than a passing emotional response",
@@ -50,7 +50,7 @@
     {
       "pali": "karuṇā bhāvetabbā",
       "translation": "kindness towards others should be developed",
-      "notes": "Simple cultivation-oriented usage.",
+      "notes": "Shows development-focused use.",
       "source": "MN 7"
     }
   ],

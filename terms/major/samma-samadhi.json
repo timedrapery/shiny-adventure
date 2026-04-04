@@ -22,17 +22,17 @@
     {
       "context": "In most path-factor and practical OSF contexts",
       "rendering": "right mental composure",
-      "notes": "Default OSF house rendering."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In prose stressing steadiness or bearing more than integration",
       "rendering": "right composure",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
       "rendering": "right noble mental composure",
-      "notes": "Source-backed heading style."
+      "notes": "Use this only in source-backed heading style."
     },
     {
       "context": "When the factor is being defined in doctrinal prose by its fourfold path expression",

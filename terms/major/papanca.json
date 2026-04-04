@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "proliferation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the conceptual element needs to be explicit",
       "rendering": "conceptual proliferation",
-      "notes": "Acceptable alternate if plain proliferation feels too compressed."
+      "notes": "Use this as a controlled alternate if plain proliferation feels too compressed."
     }
   ],
   "related_terms": [
@@ -53,7 +53,7 @@
     {
       "pali": "papañca",
       "translation": "proliferation",
-      "notes": "Useful as a retained technical term in concise doctrinal exposition.",
+      "notes": "Shows the term retained in concise doctrinal exposition.",
       "source": "MN 18"
     }
   ],

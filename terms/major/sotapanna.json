@@ -6,29 +6,29 @@
   "literal_meaning": "stream-enterer",
   "preferred_translation": "stream-enterer",
   "alternative_translations": [
-    "one who has entered the stream"
+    "someone who has entered the stream"
   ],
   "discouraged_translations": [
     "convert"
   ],
   "untranslated_preferred": false,
   "definition": "A person who has entered the stream to awakening and irreversibly shifted in view and trajectory.",
-  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase one who has entered the stream can be used where a less technical sentence shape is needed. This term marks the first irreversible noble breakthrough and should be heard as a real doctrinal threshold rather than as a vague label for being interested in the teachings. The OSF glossary confirms stream-enterer as the house default and preserves one who has entered the stream as an explanatory alternate.",
+  "notes": "The project keeps stream-enterer because it is the clearest compact doctrinal label in English. The longer phrase someone who has entered the stream can be used where a less technical sentence shape is needed. This term marks the first irreversible noble breakthrough and should be heard as a real doctrinal threshold rather than as a vague label for being interested in the teachings. The OSF glossary confirms stream-enterer as the house default and preserves the fuller clause as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal and classificatory contexts",
       "rendering": "stream-enterer",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the sentence benefits from an explicit relative clause",
-      "rendering": "one who has entered the stream",
-      "notes": "Acceptable alternate."
+      "rendering": "someone who has entered the stream",
+      "notes": "Use this as a controlled alternate when a full clause reads more naturally than the compact stage label."
     },
     {
       "context": "When contrasted with the ordinary person or used as the first member of the liberation sequence",
       "rendering": "stream-enterer",
-      "notes": "Preserve the precision of the stage label."
+      "notes": "Keep the precision of the stage label explicit."
     }
   ],
   "related_terms": [
@@ -56,7 +56,7 @@
     {
       "pali": "sotāpanno hoti",
       "translation": "one becomes a stream-enterer",
-      "notes": "Simple doctrinal statement of attainment.",
+      "notes": "Shows a simple doctrinal statement of attainment.",
       "source": "SN 55.1"
     },
     {
@@ -81,7 +81,7 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping stream-enterer as the house default for the first irreversible stage, with the longer clause-style alternate reserved for explanatory prose."
+      "scope": "Supports keeping stream-enterer as the house default for the first irreversible stage, with the fuller explanatory clause reserved for prose that needs it."
     }
   ],
   "translation_policy": {

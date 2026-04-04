@@ -21,7 +21,7 @@
     {
       "context": "In most doctrinal and dependent-origination contexts",
       "rendering": "name-and-form",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the processive or functional sides need to be made explicit",
@@ -31,12 +31,12 @@
     {
       "context": "When the passage emphasizes the paired structuring of experience in dependent origination",
       "rendering": "name-and-form",
-      "notes": "Preserve the doctrinal compactness of the canonical compound."
+      "notes": "Keep the doctrinal compactness of the canonical compound explicit."
     },
     {
       "context": "In explanatory prose unpacking the pair for modern readers",
       "rendering": "mental and physical phenomena",
-      "notes": "Acceptable alternate when a broader explanatory gloss is helpful."
+      "notes": "Use this as a controlled alternate when a broader explanatory gloss is helpful."
     },
     {
       "context": "When the passage is explaining nāmarūpa as the mental and physical objects related to knowing",

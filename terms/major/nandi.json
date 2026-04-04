@@ -21,17 +21,17 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "relishing",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where the more verbal feel of the term matters",
       "rendering": "delighting",
-      "notes": "Allowed alternate when the line emphasizes active delighting."
+      "notes": "Use this as a controlled alternate when the line emphasizes active delighting."
     },
     {
       "context": "In explanatory prose that needs an explicit verbal phrase",
       "rendering": "taking delight",
-      "notes": "Allowed alternate when English needs a clearer action phrase."
+      "notes": "Use this as a controlled alternate when English needs a clearer action phrase."
     }
   ],
   "related_terms": [

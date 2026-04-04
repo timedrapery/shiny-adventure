@@ -42,6 +42,8 @@ This step:
 - assigns a review priority
 - writes a JSON evidence report
 
+The default output is `candidates/candidate_terms.json`.
+
 ### 2. Generate human review report
 
 ```bash
@@ -55,6 +57,8 @@ This renders a Markdown report grouped into:
 - `low_priority`
 - `ignore`
 
+The default output is `candidates/candidate_terms.md`.
+
 ### 3. Optional review scaffolding
 
 ```bash
@@ -65,6 +69,18 @@ This does **not** write into `terms/`.
 
 It creates review packets under `candidates/scaffolds/` so an editor can assess
 the evidence before deciding whether a real term entry should exist.
+
+The default packet filename pattern is `candidates/scaffolds/<normalized>.review.json`.
+
+## Files Written Under `candidates/`
+
+The intake workflow normally produces:
+
+- `candidates/candidate_terms.json`: machine-readable extraction report
+- `candidates/candidate_terms.md`: grouped human review report
+- `candidates/scaffolds/*.review.json`: editorial review packets for selected items
+
+Treat these as evidence and review aids. They are not live translation policy.
 
 ## Prioritization Rules
 
@@ -92,6 +108,9 @@ When promoting a candidate into a real term entry:
 3. decide whether it belongs as a `major` or `minor` entry
 4. follow `STYLE_GUIDE.md`, `docs/term-entry-standard.md`, and `docs/headword-compound-formula-policy.md`
 5. document any real translation decision explicitly rather than inheriting it from extraction output
+
+Use [../candidates/README.md](../candidates/README.md) when you need the
+directory-level overview of what belongs in intake versus the live lexicon.
 
 ## Suggested First Corpus
 

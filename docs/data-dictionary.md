@@ -1,33 +1,25 @@
-# DATA DICTIONARY
+# Data Dictionary
 
 ## Purpose
 
 This document defines the fields used in the **shiny-adventure** term dataset.
+Use it as the canonical reference for record structure, field meaning, and
+editorial expectations.
 
-It serves as the canonical reference for:
-
-- term record structure
-- field meaning
-- expected value types
-- editorial usage
-- downstream tooling
-
-Use this document alongside:
+Read it alongside:
 
 - `schema/PALI_TERM_SCHEMA.json`
 - `docs/term-entry-standard.md`
 - `docs/tag-status-vocabulary.md`
 - `STYLE_GUIDE.md`
 
----
-
 ## Core Principle
 
-The dataset is not merely definitional.
+The dataset is not merely definitional. It encodes translation decisions in a
+structured, machine-readable form.
 
-It is designed to encode **translation decisions** in a structured, machine-readable form.
-
-For that reason, the most important fields are not only descriptive fields such as `definition`, but also decision-bearing fields such as:
+For that reason, the most important fields are not only descriptive fields such
+as `definition`, but also decision-bearing fields such as:
 
 - `preferred_translation`
 - `alternative_translations`
@@ -35,8 +27,10 @@ For that reason, the most important fields are not only descriptive fields such 
 - `context_rules`
 - `related_terms`
 - `example_phrases`
+- `authority_basis`
+- `translation_policy`
 
-In contributor shorthand, these often correspond to:
+Contributor shorthand often maps to live schema fields like this:
 
 - preferred rendering -> `preferred_translation`
 - translation rule -> `context_rules`
@@ -45,11 +39,9 @@ In contributor shorthand, these often correspond to:
 - provenance -> `authority_basis`
 - rule summary -> `translation_policy`
 
----
-
 ## Field Reference
 
-## `term`
+### `term`
 
 **Type:** string  
 **Required:** yes
@@ -65,17 +57,16 @@ Example:
 Notes:
 
 - This is the canonical Pāli form shown to users.
-- Diacritics should be preserved in the value.
+- Preserve diacritics in the value.
 - This field may differ from the filename.
 
----
-
-## `normalized_term`
+### `normalized_term`
 
 **Type:** string  
 **Required:** yes
 
-An ASCII-safe normalized version of the headword used for filenames, indexing, and search.
+An ASCII-safe normalized version of the headword used for filenames, indexing,
+and search.
 
 Example:
 
@@ -89,14 +80,13 @@ Notes:
 - Do not use diacritics here.
 - Keep it lowercase unless there is a compelling reason not to.
 
----
-
-## `entry_type`
+### `entry_type`
 
 **Type:** string  
 **Required:** yes; allowed values are `major` or `minor`
 
-Classifies whether the record is a rule-bearing major entry or a lighter minor entry.
+Classifies whether the record is a rule-bearing major entry or a lighter minor
+entry.
 
 Example:
 
@@ -106,13 +96,14 @@ Example:
 
 Notes:
 
-- Use `major` for doctrinally important, context-sensitive, or widely reused terms.
-- Use `minor` for terms with a more stable and straightforward project treatment.
-- In the schema, `major` entries must include `notes`, `context_rules`, `related_terms`, and `example_phrases`.
+- Use `major` for doctrinally important, context-sensitive, or widely reused
+  terms.
+- Use `minor` for terms with a more stable and straightforward project
+  treatment.
+- In the schema, `major` entries must include `notes`, `context_rules`,
+  `related_terms`, and `example_phrases`.
 
----
-
-## `part_of_speech`
+### `part_of_speech`
 
 **Type:** string  
 **Required:** yes
@@ -133,15 +124,7 @@ Typical values include:
 - `expression`
 - `other`
 
-Example:
-
-```json
-"part_of_speech": "noun"
-```
-
----
-
-## `literal_meaning`
+### `literal_meaning`
 
 **Type:** string  
 **Required:** no
@@ -156,12 +139,11 @@ Example:
 
 Notes:
 
-- Include this when it helps clarify the structure or historical sense of the term.
+- Include this when it helps clarify the structure or historical sense of the
+  term.
 - Omit it when it adds little value or encourages misleading literalism.
 
----
-
-## `preferred_translation`
+### `preferred_translation`
 
 **Type:** string  
 **Required:** yes
@@ -177,11 +159,10 @@ Example:
 Notes:
 
 - This is the primary project choice.
-- For major entries, this should reflect an actual translation decision rather than a loose approximation.
+- For major entries, this should reflect an actual translation decision rather
+  than a loose approximation.
 
----
-
-## `alternative_translations`
+### `alternative_translations`
 
 **Type:** array of strings  
 **Required:** no
@@ -202,14 +183,13 @@ Notes:
 - These are permitted alternatives, not the project default.
 - Include only viable alternatives, not every historically attested rendering.
 
----
-
-## `discouraged_translations`
+### `discouraged_translations`
 
 **Type:** array of strings  
 **Required:** no
 
-Renderings that are common or conceivable but should generally be avoided in this project.
+Renderings that are common or conceivable but should generally be avoided in
+this project.
 
 Example:
 
@@ -219,14 +199,7 @@ Example:
 ]
 ```
 
-Notes:
-
-- Use this field to make project boundaries explicit.
-- This is especially helpful for commonly mistranslated doctrinal terms.
-
----
-
-## `untranslated_preferred`
+### `untranslated_preferred`
 
 **Type:** boolean  
 **Required:** no
@@ -241,12 +214,11 @@ Example:
 
 Notes:
 
-- Use this for terms such as `nibbāna` when the project prefers the Pāli form in most contexts.
+- Use this for terms such as `nibbāna` when the project prefers the Pāli form
+  in most contexts.
 - This does not forbid glossing on first occurrence.
 
----
-
-## `gloss_on_first_occurrence`
+### `gloss_on_first_occurrence`
 
 **Type:** string  
 **Required:** no
@@ -264,14 +236,13 @@ Notes:
 - Especially useful when `untranslated_preferred` is true.
 - Keep this concise and readable.
 
----
-
-## `definition`
+### `definition`
 
 **Type:** string  
 **Required:** yes
 
-A short explanatory definition suitable for glossary, dictionary, or UI display.
+A short explanatory definition suitable for glossary, dictionary, or UI
+display.
 
 Example:
 
@@ -284,9 +255,7 @@ Notes:
 - This should explain the term clearly in plain English.
 - It is not the same thing as the preferred translation.
 
----
-
-## `notes`
+### `notes`
 
 **Type:** string  
 **Required:** no
@@ -296,20 +265,17 @@ Editorial, doctrinal, or usage notes for translators and tool builders.
 Example:
 
 ```json
-"notes": "Project preference is dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness."
+"notes": "The project prefers dissatisfaction rather than suffering because it better reflects the broader sense of unsatisfactoriness."
 ```
 
 Notes:
 
 - Use this for nuance, cautions, and project-specific rationale.
-- This is a good place to explain why a preferred translation was chosen.
-- For major doctrinal anchors, this is also the place to explain what drift,
-  doctrinal confusion, or misleading alternate rendering the entry is meant to
-  block.
+- Explain why a preferred translation was chosen.
+- For major doctrinal anchors, explain what drift, doctrinal confusion, or
+  misleading alternate rendering the entry is meant to block.
 
----
-
-## `context_rules`
+### `context_rules`
 
 **Type:** array of objects  
 **Required:** no, but strongly recommended for major entries
@@ -323,7 +289,7 @@ Example:
   {
     "context": "In paṭiccasamuppāda sequences",
     "rendering": "choices",
-    "notes": "Project preference for saṅkhārā in dependent arising."
+    "notes": "Use this by default in dependent arising."
   },
   {
     "context": "In general doctrinal statements about compounded phenomena",
@@ -340,15 +306,14 @@ Each object may contain:
 
 Notes:
 
-- This is one of the most important fields in the entire dataset.
-- Use it whenever a term changes sense by doctrinal setting, formulaic environment, genre, or translation register.
+- This is one of the most important fields in the dataset.
+- Use it whenever a term changes sense by doctrinal setting, formulaic
+  environment, genre, or translation register.
 - Major terms should usually have this field.
-- For doctrinal anchor terms, these rules should make clear when compounds and
-  formula lines inherit the headword default and when they do not.
+- For doctrinal anchor terms, make clear when compounds and formula lines
+  inherit the headword default and when they do not.
 
----
-
-## `related_terms`
+### `related_terms`
 
 **Type:** array of strings  
 **Required:** no
@@ -365,14 +330,7 @@ Example:
 ]
 ```
 
-Notes:
-
-- These relationships help create doctrinal maps and semantic navigation.
-- Prefer meaningful relationships over exhaustive ones.
-
----
-
-## `example_phrases`
+### `example_phrases`
 
 **Type:** array of objects  
 **Required:** no, but strongly recommended for major entries
@@ -402,9 +360,7 @@ Notes:
 - Use canonical examples whenever possible.
 - Examples should clarify usage, not merely repeat the headword.
 
----
-
-## `sutta_references`
+### `sutta_references`
 
 **Type:** array of strings  
 **Required:** no
@@ -420,14 +376,7 @@ Example:
 ]
 ```
 
-Notes:
-
-- Use when a term is strongly tied to particular passages or frameworks.
-- Keep references concise and standardized.
-
----
-
-## `tags`
+### `tags`
 
 **Type:** array of strings  
 **Required:** no
@@ -443,35 +392,13 @@ Example:
 ]
 ```
 
-Possible tags include:
-
-- `aggregates`
-- `causality`
-- `context-sensitive`
-- `core-doctrine`
-- `core-practice`
-- `dependent-origination`
-- `embodiment`
-- `ethics`
-- `four-noble-truths`
-- `jhana-factors`
-- `liberation`
-- `mental-qualities`
-- `meditative-development`
-- `persons`
-- `sense-fields`
-- `three-marks`
-- `translation-sensitive`
-- `worldly-conditions`
-
 Notes:
 
 - Tags help with navigation and tooling.
-- Use the standard vocabulary in `docs/tag-status-vocabulary.md` rather than inventing near-duplicates.
+- Use the standard vocabulary in `docs/tag-status-vocabulary.md` rather than
+  inventing near-duplicates.
 
----
-
-## `authority_basis`
+### `authority_basis`
 
 **Type:** array of objects  
 **Required:** no
@@ -509,17 +436,13 @@ Notes:
 - Use `buddhadasa-support` for named Buddhadasa-line practical support
   profiles that reinforce a term's policy without outranking the main
   `buddhadasa` layer itself.
-- This field improves machine-readability for future review, reporting, and
-  conflict detection.
 - Mature doctrinal anchors should prefer explicit provenance rather than
   burying source support only in `notes`.
-- When source-specific provenance is not yet separated out, a provisional
-  internal value such as `Repository editorial record` may be used to mark
-  that the entry has structured provenance coverage but still needs refinement.
+- `Repository editorial record` is a drafting or backfill placeholder, not
+  finished provenance. Reviewed or stable major entries should replace it with
+  explicit named authority or repository-source support before merge.
 
----
-
-## `translation_policy`
+### `translation_policy`
 
 **Type:** object  
 **Required:** no
@@ -547,15 +470,12 @@ Possible keys include:
 
 Notes:
 
-- This field is meant to make rule-bearing entries easier for tools to inspect.
-- Use it when the headword governs compounds, carries a leave-untranslated
-  policy, or blocks a specific recurring drift.
-- `notes` still carries the full editorial explanation; `translation_policy`
-  is the compact machine-readable summary.
+- Use this when the headword governs compounds, carries a
+  leave-untranslated policy, or blocks a specific recurring drift.
+- `notes` still carries the full editorial explanation;
+  `translation_policy` is the compact machine-readable summary.
 
----
-
-## `status`
+### `status`
 
 **Type:** string  
 **Required:** yes
@@ -568,21 +488,13 @@ Allowed values:
 - `reviewed`
 - `stable`
 
-Example:
-
-```json
-"status": "stable"
-```
-
 Definitions:
 
 - `draft`: incomplete or provisional
 - `reviewed`: checked but still open to refinement
 - `stable`: current preferred project standard
 
----
-
-## `version_notes`
+### `version_notes`
 
 **Type:** string  
 **Required:** no
@@ -595,16 +507,9 @@ Example:
 "version_notes": "Changed preferred translation from suffering to dissatisfaction."
 ```
 
-Notes:
-
-- This field is useful when an entry evolves in a meaningful way.
-- It should summarize significant editorial shifts, not every tiny edit.
-
----
-
 ## Major Entry Minimum
 
-For a **major rule-bearing entry**, the recommended minimum is:
+For a major rule-bearing entry, the recommended minimum is:
 
 - `term`
 - `normalized_term`
@@ -627,8 +532,6 @@ For mature doctrinal anchors, also prefer:
 - `authority_basis`
 - `translation_policy`
 
----
-
 ## Filename Convention
 
 The JSON filename should normally correspond to `normalized_term`.
@@ -637,10 +540,6 @@ Example:
 
 - filename: `paticcasamuppada.json`
 - value: `"normalized_term": "paticcasamuppada"`
-
-This keeps the dataset consistent and easy to process.
-
----
 
 ## Editorial Guidance
 
@@ -652,11 +551,10 @@ When filling fields:
 4. Use context rules whenever the rendering changes meaningfully.
 5. Treat major entries as decision records, not just definitions.
 
----
-
 ## Long-Term Role
 
-This data dictionary supports the long-term goal of making **shiny-adventure** useful for:
+This data dictionary supports the long-term goal of making
+**shiny-adventure** useful for:
 
 - translators
 - lexicon readers
@@ -665,4 +563,5 @@ This data dictionary supports the long-term goal of making **shiny-adventure** u
 - lookup tools
 - AI-assisted translation workflows
 
-The project is intended to become a **structured Pāli translation engine dataset**.
+The project is intended to become a structured Pāli translation engine
+dataset.

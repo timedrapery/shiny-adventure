@@ -21,6 +21,17 @@ except ModuleNotFoundError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
+RULE_LANGUAGE_MARKERS = (
+    "default",
+    "context",
+    "render",
+    "translation",
+    "untranslated",
+    "compound",
+    "drift",
+    "avoid",
+    "prefer",
+)
 
 
 def stem_key(value: str) -> str:
@@ -57,6 +68,15 @@ def load_terms(terms_dir: Path = TERMS_DIR) -> dict[str, dict[str, object]]:
         if isinstance(data, dict):
             terms[path.stem] = data
     return terms
+
+
+def is_non_empty_string(value: object) -> bool:
+    return isinstance(value, str) and bool(value.strip())
+
+
+def has_rule_language(text: str) -> bool:
+    lowered = text.casefold()
+    return any(marker in lowered for marker in RULE_LANGUAGE_MARKERS)
 
 
 def compute_summary(terms: dict[str, dict[str, object]]) -> dict[str, object]:
@@ -96,15 +116,22 @@ def collect_major_missing_advanced_fields(
 
 def collect_generic_authority_basis_terms(
     terms: dict[str, dict[str, object]]
-) -> list[str]:
-    generic_terms: list[str] = []
+) -> list[dict[str, object]]:
+    generic_terms: list[dict[str, object]] = []
     for stem, data in sorted(terms.items()):
         authority_basis = data.get("authority_basis")
         if not isinstance(authority_basis, list):
             continue
         for item in authority_basis:
             if isinstance(item, dict) and item.get("source") == "Repository editorial record":
-                generic_terms.append(stem)
+                tags = data.get("tags", [])
+                generic_terms.append(
+                    {
+                        "term": stem,
+                        "status": str(data.get("status", "")),
+                        "tags": [tag for tag in tags if isinstance(tag, str)] if isinstance(tags, list) else [],
+                    }
+                )
                 break
     return generic_terms
 
@@ -176,6 +203,65 @@ def collect_preferred_translation_collisions(
     return results
 
 
+def collect_weak_major_rule_entries(
+    terms: dict[str, dict[str, object]]
+) -> list[dict[str, object]]:
+    weak_entries: list[dict[str, object]] = []
+    for stem, data in sorted(terms.items()):
+        if data.get("entry_type") != "major" or data.get("status") not in {"reviewed", "stable"}:
+            continue
+
+        reasons: list[str] = []
+        notes = data.get("notes")
+        context_rules = data.get("context_rules")
+        authority_basis = data.get("authority_basis")
+        translation_policy = data.get("translation_policy")
+        preferred = data.get("preferred_translation")
+
+        if not is_non_empty_string(notes) or len(notes.strip()) < 120 or not has_rule_language(notes):
+            reasons.append("thin_notes")
+        if not isinstance(context_rules, list) or len(context_rules) < 2:
+            reasons.append("thin_context_rules")
+        if not isinstance(authority_basis, list) or len(authority_basis) == 0:
+            reasons.append("missing_authority_basis")
+        if not isinstance(translation_policy, dict):
+            reasons.append("missing_translation_policy")
+        else:
+            if not is_non_empty_string(translation_policy.get("default_scope")):
+                reasons.append("missing_default_scope")
+            if not is_non_empty_string(translation_policy.get("when_not_to_apply")):
+                reasons.append("missing_when_not_to_apply")
+            if translation_policy.get("compound_inheritance") not in {"inherit", "case-by-case", "blocked"}:
+                reasons.append("missing_compound_inheritance")
+            if not is_non_empty_string(translation_policy.get("drift_risk")):
+                reasons.append("missing_drift_risk")
+
+        if isinstance(context_rules, list):
+            renderings = {
+                stem_key(rendering)
+                for rendering in (
+                    rule.get("rendering")
+                    for rule in context_rules
+                    if isinstance(rule, dict)
+                )
+                if isinstance(rendering, str)
+            }
+            if len(renderings) < 2 and isinstance(data.get("tags"), list) and "context-sensitive" in data["tags"]:
+                reasons.append("indistinct_context_renderings")
+            if is_non_empty_string(preferred) and stem_key(preferred) not in renderings:
+                reasons.append("preferred_not_in_context_rules")
+
+        if reasons:
+            weak_entries.append(
+                {
+                    "term": stem,
+                    "status": str(data.get("status", "")),
+                    "reasons": reasons,
+                }
+            )
+    return weak_entries
+
+
 def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     summary = compute_summary(terms)
     missing_advanced = collect_major_missing_advanced_fields(terms)
@@ -183,6 +269,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     example_source_gaps = collect_example_source_gaps(terms)
     example_source_gap_tags = collect_example_source_gap_tags(terms, example_source_gaps)
     translation_collisions = collect_preferred_translation_collisions(terms)
+    weak_major_rule_entries = collect_weak_major_rule_entries(terms)
 
     return {
         "summary": summary,
@@ -190,6 +277,9 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
             "authority_basis_missing": missing_advanced["authority_basis"],
             "translation_policy_missing": missing_advanced["translation_policy"],
             "generic_authority_basis": generic_authority_terms,
+        },
+        "rule_strength": {
+            "weak_major_entries": weak_major_rule_entries,
         },
         "example_source_gaps": example_source_gaps,
         "example_source_gap_tags": example_source_gap_tags,
@@ -200,6 +290,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
 def print_text_report(report: dict[str, object], *, top: int) -> None:
     summary = report["summary"]
     policy = report["major_policy_coverage"]
+    rule_strength = report["rule_strength"]
     example_source_gaps = report["example_source_gaps"]
     example_source_gap_tags = report["example_source_gap_tags"]
     collisions = report["preferred_translation_collisions"]
@@ -218,6 +309,34 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
     print(f"- Missing authority_basis: {len(policy['authority_basis_missing'])}")
     print(f"- Missing translation_policy: {len(policy['translation_policy_missing'])}")
     print(f"- Generic authority_basis needing refinement: {len(policy['generic_authority_basis'])}")
+    print()
+
+    print("Authority Basis Refinement Queue")
+    if not policy["generic_authority_basis"]:
+        print("- None")
+    else:
+        for item in policy["generic_authority_basis"][:top]:
+            tags = ", ".join(item["tags"]) if item["tags"] else "-"
+            print(
+                f"- {safe_text(item['term'])}: status {item['status']}; tags {safe_text(tags)}"
+            )
+        if len(policy["generic_authority_basis"]) > top:
+            remaining = len(policy["generic_authority_basis"]) - top
+            print(f"- ... {remaining} more term(s)")
+    print()
+
+    print("Weak Major Rule Entries")
+    if not rule_strength["weak_major_entries"]:
+        print("- None")
+    else:
+        for item in rule_strength["weak_major_entries"][:top]:
+            reasons = ", ".join(item["reasons"])
+            print(
+                f"- {safe_text(item['term'])}: status {item['status']}; reasons {safe_text(reasons)}"
+            )
+        if len(rule_strength["weak_major_entries"]) > top:
+            remaining = len(rule_strength["weak_major_entries"]) - top
+            print(f"- ... {remaining} more term(s)")
     print()
 
     print("Example Source Gaps")

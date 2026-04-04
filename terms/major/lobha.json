@@ -19,7 +19,7 @@
     {
       "context": "In most ethical and doctrinal contexts",
       "rendering": "greed",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing the motion of taking hold",
@@ -62,7 +62,7 @@
     {
       "pali": "vigatalobha",
       "translation": "free from greed",
-      "notes": "Useful contrastive form for practice language.",
+      "notes": "Shows a contrastive form for practice language.",
       "source": "MN 9"
     }
   ],

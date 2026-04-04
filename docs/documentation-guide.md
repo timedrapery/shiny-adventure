@@ -1,6 +1,16 @@
 # Documentation Guide
 
-This folder holds the repository's editorial, structural, and workflow reference material. Use this page as the main index rather than reading files in arbitrary order.
+This folder holds the repository's editorial, structural, and workflow
+reference material. Use this page as the main index rather than reading files
+in arbitrary order.
+
+## What This Guide Does
+
+Use this page to answer three questions quickly:
+
+- where live policy actually lives
+- which document governs the task in front of you
+- which files are reference-only outputs rather than source material
 
 ## Naming Convention
 
@@ -29,10 +39,38 @@ Then move into the editorial rules that govern live term data:
 
 6. [`../TERMINOLOGY_PRINCIPLES.md`](../TERMINOLOGY_PRINCIPLES.md)
 7. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
-8. [`osf-editorial-authority.md`](osf-editorial-authority.md)
-9. [`data-dictionary.md`](data-dictionary.md)
-10. [`term-entry-standard.md`](term-entry-standard.md)
-11. [`tag-status-vocabulary.md`](tag-status-vocabulary.md)
+8. [`MODERN_ENGLISH_POLICY.md`](MODERN_ENGLISH_POLICY.md)
+9. [`VOICE_STANDARD.md`](VOICE_STANDARD.md)
+10. [`osf-editorial-authority.md`](osf-editorial-authority.md)
+11. [`data-dictionary.md`](data-dictionary.md)
+12. [`term-entry-standard.md`](term-entry-standard.md)
+13. [`tag-status-vocabulary.md`](tag-status-vocabulary.md)
+
+If you are starting from raw source text rather than revising existing live
+entries, also read:
+
+14. [`candidate-term-workflow.md`](candidate-term-workflow.md)
+15. [`../candidates/README.md`](../candidates/README.md)
+
+## Fast Start Paths
+
+- New contributor: [`../README.md`](../README.md) -> [`project-overview.md`](project-overview.md) -> [`development-guide.md`](development-guide.md) -> [`../CONTRIBUTING.md`](../CONTRIBUTING.md)
+- Editing a live term entry: [`../terms/README.md`](../terms/README.md) -> [`data-dictionary.md`](data-dictionary.md) -> [`term-entry-standard.md`](term-entry-standard.md) -> [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
+- Working from raw source text: [`candidate-term-workflow.md`](candidate-term-workflow.md) -> [`../candidates/README.md`](../candidates/README.md)
+- Reviewing generated reference material: [`generated/generated-docs-guide.md`](generated/generated-docs-guide.md)
+- Changing tooling or tests: [`development-guide.md`](development-guide.md) -> [`../scripts/README.md`](../scripts/README.md)
+
+## Source Of Truth Versus Reference Output
+
+Use these layers deliberately:
+
+- live policy: `terms/major/` and `terms/minor/`
+- normative guidance: top-level governance docs and rule docs in `docs/`
+- intake evidence: `candidates/`
+- generated reference material: `docs/generated/`
+
+Generated docs help translators and reviewers navigate the repository, but they
+do not override live term records or normative policy docs.
 
 ## By Task
 
@@ -41,6 +79,8 @@ Then move into the editorial rules that govern live term data:
 - [`project-overview.md`](project-overview.md): scope, entry model, and design intent
 - [`architecture.md`](architecture.md): how terms, schema, scripts, tests, and review layers fit together
 - [`../README.md`](../README.md): public-facing overview and quick-start path
+- [`../terms/README.md`](../terms/README.md): how the live lexicon is laid out on disk
+- [`../candidates/README.md`](../candidates/README.md): what belongs in intake versus the live lexicon
 
 ### Set Up And Run Checks
 
@@ -53,6 +93,8 @@ Then move into the editorial rules that govern live term data:
 - [`data-dictionary.md`](data-dictionary.md): field meanings
 - [`term-entry-standard.md`](term-entry-standard.md): what good major and minor entries should contain
 - [`tag-status-vocabulary.md`](tag-status-vocabulary.md): permitted tag and status language
+- [`MODERN_ENGLISH_POLICY.md`](MODERN_ENGLISH_POLICY.md): modern-English register rules and anti-translationese guidance
+- [`VOICE_STANDARD.md`](VOICE_STANDARD.md): default sentence patterns for notes, context rules, examples, and contributor docs
 - [`headword-compound-formula-policy.md`](headword-compound-formula-policy.md): when policy belongs on a headword versus a compound or formula
 - [`drift-risk-terms.md`](drift-risk-terms.md): doctrinal terms most likely to destabilize translation choices
 
@@ -88,6 +130,25 @@ These profiles support notes, context rules, alternates, and authority reasoning
 
 - [`repository-review-2026-03.md`](repository-review-2026-03.md): current structural review snapshot
 
+### Use Generated Reference Material
+
+- [`generated/generated-docs-guide.md`](generated/generated-docs-guide.md): what generated docs are for and what they are not
+- [`generated/major-term-index.md`](generated/major-term-index.md): human navigation for `terms/major/`
+- [`generated/minor-term-index.md`](generated/minor-term-index.md): human navigation for `terms/minor/`
+
+## Document Families
+
+Use the docs set in layers:
+
+- normative policy docs: repository rules that govern live data
+- workflow docs: how contributors and scripts operate on that data
+- source profiles: named authority and comparison material used in notes and provenance
+- planning docs: backlog, sequencing, and review notes
+- generated docs: reference outputs derived from live policy
+
+Generated docs are useful reference material, but they do not override live
+term data or normative policy docs.
+
 ## Practical Workflow
 
 When editing or adding a term:
@@ -105,6 +166,14 @@ python scripts/run_checks.py
 ```
 
 For targeted local checking, see [`usage.md`](usage.md).
+
+## Directory Pointers Outside `docs/`
+
+Some important navigation surfaces live outside this directory:
+
+- [`../terms/README.md`](../terms/README.md): live lexicon layout and navigation
+- [`../candidates/README.md`](../candidates/README.md): review-first intake layer
+- [`../scripts/README.md`](../scripts/README.md): script-by-script command index
 
 ## Outside-Source Profiles
 

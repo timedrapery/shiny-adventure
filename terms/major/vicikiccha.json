@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through uncertainty, wavering, and indecisive doubt about the path or practice.",
-  "notes": "Project preference is uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough. The term should be heard as destabilizing uncertainty that interrupts commitment to practice and clear seeing. The OSF glossary confirms uncertain distraction as the house default inside the five-distractions framework and preserves doubt as the explanatory alternate.",
+  "notes": "The project prefers uncertain distraction within the nīvaraṇa framework because it keeps the family resemblance to the other distractions visible. Doubt remains acceptable in explanatory prose where the simpler, familiar term is enough. The term should be heard as destabilizing uncertainty that interrupts commitment to practice and clear seeing. The OSF glossary confirms uncertain distraction as the house default inside the five-distractions framework and preserves doubt as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
       "rendering": "uncertain distraction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing indecision or lack of confidence",
       "rendering": "doubt",
-      "notes": "Acceptable alternate when the practical uncertainty is already clear."
+      "notes": "Use this as a controlled alternate when the practical uncertainty is already clear."
     },
     {
       "context": "When the passage emphasizes uncertainty as one of the five distractions to be crossed beyond",
@@ -54,7 +54,7 @@
     {
       "pali": "kaṅkhāvitaraṇa",
       "translation": "crossing beyond doubt",
-      "notes": "Useful contrastive expression for the resolution of the condition.",
+      "notes": "Shows a contrastive expression for the resolution of the condition.",
       "source": "MN 39"
     }
   ],

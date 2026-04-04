@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "A factor cultivated and balanced in the process of awakening, classically enumerated as seven.",
-  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way. The OSF glossary likewise treats bojjhaṅga as a practical cultivation framework rather than a static label, which supports the current handling.",
+  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way. The OSF glossary likewise treats bojjhaṅga as a practical development framework rather than a static label, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "awakening factor",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the English sentence benefits from a smoother genitive phrase",
       "rendering": "factor of awakening",
-      "notes": "Allowed alternate, especially in explanatory prose."
+      "notes": "Use this as a controlled alternate, especially in explanatory prose."
     },
     {
       "context": "In the fixed sevenfold framework",
@@ -31,7 +31,7 @@
       "notes": "Use the plural heading for sati, dhammavicaya, viriya, pīti, passaddhi, samādhi, and upekkhā."
     },
     {
-      "context": "In practice-oriented prose emphasizing cultivation and balancing",
+      "context": "In practice-oriented prose emphasizing development and balancing",
       "rendering": "awakening factor",
       "notes": "Keep the term dynamic rather than treating it as a static metaphysical quality."
     }
@@ -65,7 +65,7 @@
     {
       "pali": "bojjhaṅgā bhāvitā bahulīkatā",
       "translation": "awakening factors developed and made much of",
-      "notes": "Useful for keeping the practical training force explicit.",
+      "notes": "Shows the practical training force explicitly.",
       "source": "SN 46.1"
     }
   ],
@@ -80,7 +80,7 @@
     "mental-qualities"
   ],
   "status": "stable",
-  "version_notes": "Expanded to make the seven-factor framework explicit and to encode its practical cultivation role rather than leaving the entry as a thin label.",
+  "version_notes": "Expanded to make the seven-factor framework explicit and to encode its practical development role rather than leaving the entry as a thin label.",
   "authority_basis": [
     {
       "source": "OSF glossary",

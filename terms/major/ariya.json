@@ -20,7 +20,7 @@
     {
       "context": "In established doctrinal compounds",
       "rendering": "noble",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing transformative force",
@@ -30,7 +30,7 @@
     {
       "context": "In Punnaji-style pedagogical framing of the eightfold way as above the ordinary condition",
       "rendering": "sublime",
-      "notes": "Source-backed alternate from the Ariyamagga Bhavana and Return To Tranquility materials."
+      "notes": "Use this as a source-backed alternate from the Ariyamagga Bhavana and Return To Tranquility materials."
     }
   ],
   "related_terms": [
@@ -54,7 +54,7 @@
     {
       "pali": "ariyasāvaka",
       "translation": "noble disciple",
-      "notes": "Useful reminder that the adjective extends beyond truth-language.",
+      "notes": "Shows that the adjective extends beyond truth-language.",
       "source": "MN 9"
     }
   ],

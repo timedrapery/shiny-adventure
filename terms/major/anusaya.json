@@ -21,12 +21,12 @@
     {
       "context": "In doctrinal analysis of latent persistence and reactivity",
       "rendering": "underlying tendency",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing dormancy or hidden persistence",
       "rendering": "latent tendency",
-      "notes": "Allowed alternate when the hidden aspect needs extra emphasis."
+      "notes": "Use this as a controlled alternate when the hidden aspect needs extra emphasis."
     },
     {
       "context": "In translator-facing explanation where the skewing or leaning quality needs to be audible",
@@ -65,7 +65,7 @@
     {
       "pali": "anuseti",
       "translation": "lies underneath",
-      "notes": "Useful verbal sense behind the doctrinal noun.",
+      "notes": "Shows the verbal sense behind the doctrinal noun.",
       "source": "MN 64"
     },
     {

@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "world",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In contexts where the term points more to a domain or sphere of experience",
       "rendering": "realm",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage is clearly about the conditioned field that is to be understood, outgrown, or transcended",

@@ -18,12 +18,12 @@
     {
       "context": "In doctrinal classifications",
       "rendering": "trainee",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a fuller phrase reads more naturally",
       "rendering": "one in training",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When contrasting the noble disciple still on the path with the one beyond training",
@@ -52,13 +52,13 @@
     {
       "pali": "sekho bhikkhu",
       "translation": "a trainee bhikkhu",
-      "notes": "Simple classificatory usage.",
+      "notes": "Shows a simple classificatory use.",
       "source": "MN 53"
     },
     {
       "pali": "sekhassa sikkhā",
       "translation": "the training of a trainee",
-      "notes": "Useful expression for the unfinished but noble character of the stage.",
+      "notes": "Shows the unfinished but noble character of the stage.",
       "source": "MN 53"
     }
   ],

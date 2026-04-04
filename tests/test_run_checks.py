@@ -27,6 +27,14 @@ class RunChecksTests(unittest.TestCase):
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(
+            [sys.executable, "scripts/check_translation_formula_consistency.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/voice_consistency_audit.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
             [sys.executable, "scripts/check_translation_drift.py", "--strict"],
             [call.args[0] for call in run_mock.call_args_list],
         )
@@ -130,6 +138,8 @@ class RunChecksTests(unittest.TestCase):
         self.assertEqual(result, 2)
         self.assertEqual(run_mock.call_count, 2)
         self.assertIn("Documentation integrity failed with exit code 2.", output.getvalue())
+        self.assertIn("Command: ", output.getvalue())
+        self.assertIn("scripts/check_docs_integrity.py", output.getvalue())
 
 
 if __name__ == "__main__":

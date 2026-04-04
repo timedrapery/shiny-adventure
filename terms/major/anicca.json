@@ -19,7 +19,7 @@
     {
       "context": "In direct doctrinal statements describing phenomena",
       "rendering": "impermanent",
-      "notes": "Default project rendering for the adjective."
+      "notes": "Use this as the default adjectival rendering."
     },
     {
       "context": "In explanatory prose naming the characteristic itself",
@@ -29,7 +29,7 @@
     {
       "context": "In passages emphasizing instability or unreliable changeability",
       "rendering": "inconstant",
-      "notes": "Acceptable alternate when impermanent sounds too static."
+      "notes": "Use this as a controlled alternate when impermanent sounds too static."
     }
   ],
   "related_terms": [

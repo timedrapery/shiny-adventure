@@ -18,12 +18,12 @@
     {
       "context": "In most analytical and source-facing contexts",
       "rendering": "taste",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In lighter prose where the concrete gustatory quality is being emphasized",
       "rendering": "flavor",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [
@@ -44,7 +44,7 @@
     {
       "pali": "rasārammaṇa",
       "translation": "having taste as object",
-      "notes": "Useful compact analytical usage.",
+      "notes": "Shows compact analytical use.",
       "source": "MN 148"
     }
   ],

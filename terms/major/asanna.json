@@ -19,12 +19,12 @@
     {
       "context": "In most doctrinal and analytical contexts",
       "rendering": "non-recognition",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In tightly literal explanatory prose",
       "rendering": "without recognition",
-      "notes": "Useful when the privative structure needs to be explicit."
+      "notes": "Use this when the privative structure needs to be explicit."
     },
     {
       "context": "In discussions of technical meditative or cosmological states",
@@ -47,7 +47,7 @@
     {
       "pali": "asaññī samāpatti",
       "translation": "attainment of non-recognition",
-      "notes": "Useful for technical meditative context.",
+      "notes": "Shows a technical meditative context.",
       "source": "DN 1"
     }
   ],

@@ -19,7 +19,7 @@
     {
       "context": "In most doctrinal and formulaic contexts",
       "rendering": "distress",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose contrasting mental and bodily pain",
@@ -49,7 +49,7 @@
     {
       "pali": "domanassaṃ paṭisaṃvedeti",
       "translation": "one experiences distress",
-      "notes": "Simple usage showing the felt character of the term.",
+      "notes": "Shows a simple use that keeps the term's felt character visible.",
       "source": "SN 12.2"
     }
   ],

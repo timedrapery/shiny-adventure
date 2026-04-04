@@ -12,12 +12,32 @@
     "body scanning"
   ],
   "untranslated_preferred": false,
-  "definition": "Contemplation of the body in the satipaṭṭhāna framework.",
+  "definition": "Contemplation of body in the satipaṭṭhāna framework.",
+  "notes": "Use this record for the body branch of satipaṭṭhāna. Keep it aligned with the headword kāya as body and with formula language such as observing the body in relation to the body.",
+  "related_terms": [
+    "kaya",
+    "satipatthana",
+    "cattaro-satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "kāye kāyānupassī viharati",
+      "translation": "one remains observing the body in relation to the body",
+      "notes": "Standard satipaṭṭhāna formula.",
+      "source": "DN 22"
+    }
+  ],
   "sutta_references": [
-    "DN 22"
+    "DN 22",
+    "MN 10",
+    "MN 118"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use for the body branch of satipaṭṭhāna in governed practice contexts.",
+    "when_not_to_apply": "Do not narrow this into modern scanning-language or other technique labels unless a source-facing note explicitly requires it."
+  }
 }

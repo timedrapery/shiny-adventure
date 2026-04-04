@@ -23,12 +23,12 @@
 
 So I heard.
 
-At one time the Buddha was dwelling near Sāvatthī, in Jeta's Grove, in
+At one time the Buddha was staying near Sāvatthī, in Jeta's Grove, in
 Anāthapiṇḍika's monastery.
 
 There the Buddha addressed the bhikkhus: "Bhikkhus."
 
-"Venerable sir," they replied.
+"Bhante," they replied.
 
 The Buddha said this:
 
@@ -37,7 +37,7 @@ The Buddha said this:
 "Bhikkhus, before my awakening, while I was still unawakened but intent on
 awakening, this thought arose in me:
 
-'What if I were to dwell by repeatedly dividing thinking into two classes?'
+'What if I were to keep dividing thinking into two classes?'
 
 So I made one class out of thinking of sensuality, thinking of ill will, and
 thinking of harming. And I made the second class out of thinking of
@@ -51,7 +51,7 @@ thinking that lead toward quenching.*
 
 ### The Unwholesome Class
 
-"Then, as I dwelt diligent, ardent, and resolved, thinking of sensuality arose
+"Then, while I was diligent, ardent, and resolved, thinking of sensuality arose
 in me. I understood:
 
 'This thinking of sensuality has arisen in me. It leads to harming myself, to
@@ -101,7 +101,7 @@ side of cleansing.
 
 ### The Wholesome Class
 
-"Then, as I dwelt diligent, ardent, and resolved, thinking of renunciation
+"Then, while I was diligent, ardent, and resolved, thinking of renunciation
 arose in me. I understood:
 
 'This thinking of renunciation has arisen in me. It does not lead to harming
@@ -173,23 +173,23 @@ composure.
 With the fading of delight, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
 the third mental theme, of which the noble ones say: 'One of dynamic balance
-and remembering dwells at ease.'
+and remembering stays at ease.'
 
 With the abandoning of ease and discomfort, and with the earlier ending of
 gladness and sadness, I entered and remained in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-With the feeling mind thus well-composed, purified, bright, stainless, free
+With the feeling mind well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward recollecting past lives. I recollected many kinds of past lives, with
 their aspects and particulars.
 
 This was the first knowledge I attained in the first watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
-as happens for one dwelling diligent, ardent, and resolved.
+as happens for someone diligent, ardent, and resolved.
 
-With the feeling mind thus well-composed, purified, bright, stainless, free
+With the feeling mind well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the passing away and reappearance of beings. With the
 purified divine eye, surpassing the human, I saw beings passing away and
@@ -198,9 +198,9 @@ destinations. I understood beings as moving on according to their kamma.
 
 This was the second knowledge I attained in the middle watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
-as happens for one dwelling diligent, ardent, and resolved.
+as happens for someone diligent, ardent, and resolved.
 
-With the feeling mind thus well-composed, purified, bright, stainless, free
+With the feeling mind well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the wearing away of the outflows.
 
@@ -224,7 +224,7 @@ to be done has been done, there is no further return to this state.'
 
 This was the third knowledge I attained in the last watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
-as happens for one dwelling diligent, ardent, and resolved.
+as happens for someone diligent, ardent, and resolved.
 
 ### The Deer Simile
 

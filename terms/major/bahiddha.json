@@ -19,12 +19,12 @@
     {
       "context": "In satipaṭṭhāna and contemplative internal/external pairings",
       "rendering": "external",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where a smoother English adjective is needed",
       "rendering": "outer",
-      "notes": "Acceptable alternate when the line stays concrete."
+      "notes": "Use this as a controlled alternate when the line stays concrete."
     },
     {
       "context": "When the passage points to what is considered outside one's own field rather than within it",
@@ -38,7 +38,7 @@
   "example_phrases": [
     {
       "pali": "bahiddhā vā kāye kāyānupassī viharati",
-      "translation": "one dwells contemplating the body as external",
+      "translation": "one observes the body as external",
       "notes": "Standard satipaṭṭhāna external reading.",
       "source": "MN 10"
     },

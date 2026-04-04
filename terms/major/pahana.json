@@ -21,17 +21,17 @@
     {
       "context": "In most practice and doctrinal contexts",
       "rendering": "abandoning",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In concise practical prose",
       "rendering": "giving up",
-      "notes": "Allowed alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In explanatory prose emphasizing putting something aside",
       "rendering": "putting away",
-      "notes": "Allowed alternate when the line wants an explicit act of removal."
+      "notes": "Use this as a controlled alternate when the line wants an explicit act of removal."
     }
   ],
   "related_terms": [

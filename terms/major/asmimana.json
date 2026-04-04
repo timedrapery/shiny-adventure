@@ -21,17 +21,17 @@
     {
       "context": "In direct doctrinal contexts naming the specific residue of self-conceiving",
       "rendering": "conceit 'I am'",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where English needs a more natural sentence shape",
       "rendering": "the conceit 'I am'",
-      "notes": "Allowed alternate when the article improves readability."
+      "notes": "Use this as a controlled alternate when the article improves readability."
     },
     {
       "context": "In compact analytical prose naming the compound as a doctrinal label",
       "rendering": "I-am conceit",
-      "notes": "Allowed alternate for compression, not the default."
+      "notes": "Use this as a controlled alternate for compression, not the default."
     }
   ],
   "related_terms": [

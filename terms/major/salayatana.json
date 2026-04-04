@@ -21,7 +21,7 @@
     {
       "context": "In most doctrinal and dependent-origination contexts",
       "rendering": "six fields of experience",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the sixfold structure needs to be explicit in prose",
@@ -31,7 +31,7 @@
     {
       "context": "When the sense-based side of the term needs to be foregrounded explicitly",
       "rendering": "six sense fields",
-      "notes": "Acceptable alternate when the sensory structure should be made more explicit."
+      "notes": "Use this as a controlled alternate when the sensory structure should be made more explicit."
     },
     {
       "context": "When the passage highlights the link from name-and-form into the arising of contact",
@@ -71,7 +71,7 @@
     {
       "pali": "ajjhattikāni āyatanāni",
       "translation": "the internal sense fields",
-      "notes": "Useful for showing how the broader āyatana family works.",
+      "notes": "Shows how the broader āyatana family works.",
       "source": "MN 148"
     },
     {

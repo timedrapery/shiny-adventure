@@ -18,7 +18,7 @@
     {
       "context": "In core doctrinal exposition and the four noble truths",
       "rendering": "dissatisfaction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the broad quality of conditioned experience",
@@ -33,7 +33,7 @@
     {
       "context": "In OSF practical instruction focused on what the mind is doing right now",
       "rendering": "dissatisfaction",
-      "notes": "Preferred when the point is to notice dukkha directly and change the mind-state rather than analyze doctrine abstractly."
+      "notes": "Use this when the point is to notice dukkha directly and change the mind-state rather than analyze doctrine abstractly."
     },
     {
       "context": "In OSF four-truths explanation where the first move is to wake up and look at what is here",
@@ -78,7 +78,7 @@
     {
       "pali": "dukkha-nirodha",
       "translation": "quenching of dissatisfaction",
-      "notes": "Useful paired example with nirodha.",
+      "notes": "Shows a paired example with nirodha.",
       "source": "SN 56.11"
     }
   ],

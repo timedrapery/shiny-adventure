@@ -18,7 +18,7 @@
     {
       "context": "In most source-facing and doctrinal contexts",
       "rendering": "eye",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In analytical prose emphasizing the faculty-role within the six sense fields",
@@ -39,7 +39,7 @@
   "example_phrases": [
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
-      "translation": "dependent on the eye and forms, eye-knowing arises",
+      "translation": "dependent on the eye and visible forms, eye-knowing arises",
       "notes": "Core sense-field formula.",
       "source": "MN 148"
     },

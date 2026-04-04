@@ -22,27 +22,27 @@
     {
       "context": "In most path-factor contexts",
       "rendering": "right attitude",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing deliberate direction",
       "rendering": "right resolve",
-      "notes": "Useful when the volitional aspect needs more weight."
+      "notes": "Use this when the volitional aspect needs more weight."
     },
     {
       "context": "When the passage focuses narrowly on intended aim",
       "rendering": "right intention",
-      "notes": "Acceptable alternate if attitude would sound too broad."
+      "notes": "Use this as a controlled alternate if attitude would sound too broad."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious orientation",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right noble attitude",
-      "notes": "Source-backed heading style that matches the quote-book formulation."
+      "notes": "Use this only when the quote-book heading style matters."
     },
     {
       "context": "In OSF publication prose where the factor is presented with both directional and intentional force",

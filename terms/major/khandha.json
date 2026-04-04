@@ -19,12 +19,12 @@
     {
       "context": "In direct doctrinal translation of the fivefold analysis",
       "rendering": "heap",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose aimed at readers already familiar with Buddhist-English terminology",
       "rendering": "aggregate",
-      "notes": "Allowed alternate for orientation, not the project default."
+      "notes": "Use this as a controlled alternate for orientation, not the project default."
     },
     {
       "context": "In the collective expression pañcakkhandhā",
@@ -34,7 +34,7 @@
     {
       "context": "In the fixed doctrinal expression pañcupādānakkhandhā",
       "rendering": "heap",
-      "notes": "The compound stays in the heap family, but the full expression is governed by its own whole-expression rendering as five clung-to heaps."
+      "notes": "Keep the compound in the heap family; the full expression is governed by its own whole-expression rendering as five clung-to heaps."
     },
     {
       "context": "When the point is the unstable, piled-up character of experience",

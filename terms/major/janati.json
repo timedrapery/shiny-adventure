@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing contexts where the verb simply states that something is known",
       "rendering": "knows",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the line stresses the arising or arrival of knowing rather than a static state",
       "rendering": "comes to know",
-      "notes": "Allowed alternate when the English sentence benefits from a slightly more processive verb."
+      "notes": "Use this as a controlled alternate when the English sentence benefits from a slightly more processive verb."
     },
     {
       "context": "In idiomatic English prose where knows would sound wooden and no sharper contrast is being lost",
@@ -48,7 +48,7 @@
     {
       "pali": "na jānāti",
       "translation": "does not know",
-      "notes": "Simple negated knowing surface showing the broad baseline role of the verb.",
+      "notes": "Shows a simple negated knowing surface that keeps the verb's broad baseline role visible.",
       "source": "MN 1"
     },
     {

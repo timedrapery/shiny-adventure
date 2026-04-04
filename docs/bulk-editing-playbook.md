@@ -21,6 +21,10 @@ python scripts/scaffold_policy_metadata.py sati samadhi vedana
 This creates placeholder `authority_basis` and `translation_policy` blocks so
 reviewers can see exactly what still needs editorial completion.
 
+Do not leave placeholder provenance merge-ready. If `Repository editorial
+record` appears after backfill, replace it with explicit named authority or
+repository-source support before review is considered complete.
+
 ## 3. Edit in Passes
 
 Recommended pass order:

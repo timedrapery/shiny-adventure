@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and release formulas",
       "rendering": "fading",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing cooling or the ending of passion",
       "rendering": "dispassion",
-      "notes": "Acceptable alternate when it fits the line better."
+      "notes": "Use this as a controlled alternate when it fits the line better."
     },
     {
       "context": "In formulas where virāga stands immediately beside nirodha",

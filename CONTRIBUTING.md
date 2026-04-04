@@ -3,8 +3,16 @@
 Contributions should improve clarity, consistency, and reusability across the lexicon. This repository treats term records as editorial policy objects, so even small wording changes can affect downstream translation behavior.
 
 For a concise reference on translation voice and house preferences, read [STYLE_GUIDE.md](STYLE_GUIDE.md) before making any entry changes.
+For the repo's explicit anti-translationese register rules, also read
+[docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md).
+For the repository's note, context-rule, and example-note sentence patterns,
+also read [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md).
 
 By participating in this project, you agree to follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
+
+If you are not sure where a change belongs, use [README.md](README.md) and
+[docs/documentation-guide.md](docs/documentation-guide.md) to route yourself
+before editing files.
 
 ## Before You Start
 
@@ -15,10 +23,12 @@ Read these documents in order:
 3. [docs/development-guide.md](docs/development-guide.md)
 4. [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
 5. [STYLE_GUIDE.md](STYLE_GUIDE.md)
-6. [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
-7. [docs/data-dictionary.md](docs/data-dictionary.md)
-8. [docs/term-entry-standard.md](docs/term-entry-standard.md)
-9. [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
+6. [docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md)
+7. [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md)
+8. [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
+9. [docs/data-dictionary.md](docs/data-dictionary.md)
+10. [docs/term-entry-standard.md](docs/term-entry-standard.md)
+11. [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
 
 If you are editing compounds or recurring formulas, also read [docs/headword-compound-formula-policy.md](docs/headword-compound-formula-policy.md).
 If you are changing review status on a major entry, also read [docs/review-status-model.md](docs/review-status-model.md).
@@ -28,6 +38,8 @@ If you are changing review status on a major entry, also read [docs/review-statu
 - Term record change: read the editorial documents above, inspect related headwords and compounds, and run validation plus linting before opening a pull request.
 - Script or validation change: read [docs/development-guide.md](docs/development-guide.md), keep behavior deterministic, and add or update tests in `tests/`.
 - Documentation change: keep wording explicit and repository-native, and update cross-links when changing workflow guidance.
+- Candidate intake change: update both [candidates/README.md](candidates/README.md) and [docs/candidate-term-workflow.md](docs/candidate-term-workflow.md) if the contributor-facing workflow changes.
+- Documentation and term changes should prefer modern common English over inherited prestige translation diction unless a narrow technical exception is documented.
 
 ## Contribution Types
 
@@ -140,6 +152,9 @@ python scripts/run_checks.py
 
 If your change affects candidate intake, metadata backfill, or repo reporting, also review the task-based commands in [docs/usage.md](docs/usage.md).
 If your change touches Markdown or repository metadata, run `python scripts/check_docs_integrity.py` as part of the local check loop.
+If your change touches `notes`, `context_rules`, `example_phrases`, or
+contributor docs, run `python scripts/voice_consistency_audit.py` as part of
+the local check loop.
 
 ## Pull Requests
 

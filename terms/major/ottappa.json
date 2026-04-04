@@ -19,7 +19,7 @@
     {
       "context": "In most ethical and practical contexts",
       "rendering": "moral caution",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose highlighting the term's stronger protective force",
@@ -54,7 +54,7 @@
     {
       "pali": "ottappaṃ uppajjati",
       "translation": "moral caution arises",
-      "notes": "Simple practical usage.",
+      "notes": "Shows a simple practical use.",
       "source": "AN 2.9"
     }
   ],

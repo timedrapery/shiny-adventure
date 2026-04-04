@@ -19,7 +19,7 @@
     {
       "context": "In most doctrinal and formulaic contexts",
       "rendering": "lamentation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In more vivid or narrative settings",
@@ -43,7 +43,7 @@
     {
       "pali": "paridevaṃ āpajjati",
       "translation": "one falls into lamentation",
-      "notes": "Useful verbal expression of the noun's force.",
+      "notes": "Shows a verbal expression of the noun's force.",
       "source": "SN 12.2"
     }
   ],

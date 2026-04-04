@@ -19,17 +19,17 @@
     {
       "context": "In most doctrinal and explanatory contexts",
       "rendering": "support",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the passage emphasizes what has been accumulated or appropriated",
       "rendering": "acquisition",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "In technical prose where the underlying supporting base is the focus",
       "rendering": "substrate",
-      "notes": "Use sparingly."
+      "notes": "Use this sparingly."
     }
   ],
   "related_terms": [
@@ -45,7 +45,7 @@
     {
       "pali": "nirūpadhi",
       "translation": "without support",
-      "notes": "Useful contrastive form in liberation language.",
+      "notes": "Shows a contrastive form in liberation language.",
       "source": "MN 26"
     },
     {

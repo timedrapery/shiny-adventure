@@ -76,6 +76,28 @@ class BackfillPolicyMetadataTests(unittest.TestCase):
 
         self.assertIn("leave_untranslated_when", policy)
 
+    def test_uses_generic_authority_basis_detects_placeholder(self) -> None:
+        self.assertTrue(
+            backfill_policy_metadata.uses_generic_authority_basis(
+                [
+                    {
+                        "source": "Repository editorial record",
+                        "scope": "Placeholder provenance.",
+                    }
+                ]
+            )
+        )
+        self.assertFalse(
+            backfill_policy_metadata.uses_generic_authority_basis(
+                [
+                    {
+                        "source": "OSF glossary",
+                        "scope": "Named support.",
+                    }
+                ]
+            )
+        )
+
     def test_backfill_term_adds_missing_fields(self) -> None:
         updated, changed = backfill_policy_metadata.backfill_term(
             {
@@ -119,6 +141,36 @@ class BackfillPolicyMetadataTests(unittest.TestCase):
                 backfill_policy_metadata.TERMS_DIR = original
 
         self.assertEqual(result, 0)
+
+    def test_main_warns_when_generic_placeholder_is_used(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            terms_dir = Path(tmpdir)
+            (terms_dir / "akusala.json").write_text(
+                json.dumps(
+                    {
+                        "term": "akusala",
+                        "normalized_term": "akusala",
+                        "entry_type": "major",
+                        "preferred_translation": "unwholesome",
+                        "notes": "The project prefers unwholesome.",
+                        "discouraged_translations": ["bad"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+
+            original = backfill_policy_metadata.TERMS_DIR
+            backfill_policy_metadata.TERMS_DIR = terms_dir
+            try:
+                output = io.StringIO()
+                with mock.patch("sys.argv", ["backfill_policy_metadata.py", "--check-only"]):
+                    with mock.patch("sys.stdout", output):
+                        result = backfill_policy_metadata.main()
+            finally:
+                backfill_policy_metadata.TERMS_DIR = original
+
+        self.assertEqual(result, 0)
+        self.assertIn("need provenance refinement before review or merge", output.getvalue())
 
 
 if __name__ == "__main__":

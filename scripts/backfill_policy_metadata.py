@@ -72,6 +72,16 @@ def infer_authority_basis(data: dict[str, object]) -> list[dict[str, str]]:
     ]
 
 
+def uses_generic_authority_basis(authority_basis: object) -> bool:
+    return (
+        isinstance(authority_basis, list)
+        and any(
+            isinstance(item, dict) and item.get("source") == GENERIC_AUTHORITY_SOURCE
+            for item in authority_basis
+        )
+    )
+
+
 def infer_compound_inheritance(data: dict[str, object]) -> str:
     notes = str(data.get("notes", "")).lower()
     rules = data.get("context_rules", [])
@@ -140,6 +150,7 @@ def main() -> int:
         return 1
 
     changed_paths: list[Path] = []
+    generic_placeholder_paths: list[Path] = []
     for path in iter_term_files(TERMS_DIR):
         data = load_json(path)
         if not isinstance(data, dict):
@@ -147,6 +158,8 @@ def main() -> int:
         updated, changed = backfill_term(data)
         if changed:
             changed_paths.append(path)
+            if uses_generic_authority_basis(updated.get("authority_basis")):
+                generic_placeholder_paths.append(path)
             if not args.check_only:
                 write_json(path, updated)
 
@@ -154,6 +167,10 @@ def main() -> int:
         print(f"Would update {len(changed_paths)} file(s).")
     else:
         print(f"Updated {len(changed_paths)} file(s).")
+    if generic_placeholder_paths:
+        print(
+            f"WARNING: {len(generic_placeholder_paths)} file(s) would still use '{GENERIC_AUTHORITY_SOURCE}' and need provenance refinement before review or merge."
+        )
     return 0
 
 

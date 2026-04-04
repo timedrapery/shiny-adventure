@@ -22,7 +22,7 @@
     {
       "context": "In most translations and practical OSF contexts",
       "rendering": "remembering",
-      "notes": "Default OSF house rendering."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In technical discussion where preserving the Pali term is more useful than translating it",
@@ -42,7 +42,7 @@
     {
       "context": "In OSF practical instruction emphasizing coming back to what matters right now",
       "rendering": "remembering",
-      "notes": "Preferred when sati is functioning as the return to present orientation."
+      "notes": "Use this when sati is functioning as the return to present orientation."
     },
     {
       "context": "In sense-door guarding explanation where sati functions like a gatekeeper",
@@ -52,7 +52,7 @@
     {
       "context": "In OSF practical instruction emphasizing repetition of correct noble practice whenever one remembers",
       "rendering": "remembering",
-      "notes": "Preferred when sati is the return-point that makes the whole cycle restart."
+      "notes": "Use this when sati is the return-point that makes the whole cycle restart."
     },
     {
       "context": "In ānāpānasati explanation where the remembered content must be made explicit",
@@ -67,6 +67,7 @@
     "bhavana",
     "bhikkhu",
     "bojjhanga",
+    "cattaro-satipatthana",
     "citta",
     "dhamma",
     "dhammavicaya",
@@ -93,7 +94,7 @@
     {
       "pali": "satipaṭṭhāna",
       "translation": "establishment of remembering",
-      "notes": "Useful for showing how the headword functions in compounds.",
+      "notes": "Shows how the headword works in compounds.",
       "source": "DN 22"
     }
   ],

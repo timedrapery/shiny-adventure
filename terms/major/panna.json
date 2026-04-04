@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "discernment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing comprehension more than cutting discrimination",
       "rendering": "understanding",
-      "notes": "Acceptable alternate when the local line truly benefits from it."
+      "notes": "Use this as a controlled alternate when the local line truly benefits from it."
     },
     {
       "context": "In prose engaging conventional Buddhist-English terminology for reader orientation",

@@ -21,7 +21,7 @@
     {
       "context": "In most doctrinal and path-factor contexts",
       "rendering": "view",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In compounds such as sammā-diṭṭhi, micchā-diṭṭhi, sakkāya-diṭṭhi, and diṭṭhupādāna",
@@ -31,7 +31,7 @@
     {
       "context": "In explanatory prose emphasizing a held standpoint or angle rather than the formal doctrinal family",
       "rendering": "viewpoint",
-      "notes": "Allowed alternate when the practical sense of taking a position needs to be explicit."
+      "notes": "Use this as a controlled alternate when the practical sense of taking a position needs to be explicit."
     },
     {
       "context": "In explanatory prose emphasizing a narrower personal or disputable claim",
@@ -41,7 +41,7 @@
     {
       "context": "In prose emphasizing assent or conviction rather than the wider family of view-language",
       "rendering": "belief",
-      "notes": "Allowed explanatory alternate, not the default rendering."
+      "notes": "Use this as a controlled explanatory alternate, not the default rendering."
     }
   ],
   "related_terms": [

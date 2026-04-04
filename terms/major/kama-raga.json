@@ -20,12 +20,12 @@
     {
       "context": "In fetter lists and liberation-stage analysis",
       "rendering": "passion for sensuality",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a shorter phrase reads better",
       "rendering": "sensual passion",
-      "notes": "Allowed alternate when no narrowing is introduced."
+      "notes": "Use this as a controlled alternate when no narrowing is introduced."
     },
     {
       "context": "When the passage is about attachment to the whole sensual domain rather than only sexual appetite",

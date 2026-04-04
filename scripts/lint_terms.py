@@ -55,6 +55,10 @@ STABILIZED_RULE_TERMS = {
 }
 
 
+def is_non_empty_string(value: object) -> bool:
+    return isinstance(value, str) and bool(value.strip())
+
+
 def load_json(path: Path) -> object:
     with path.open("r", encoding="utf-8") as handle:
         return json.load(handle)
@@ -125,6 +129,53 @@ def check_missing_sutta_references(terms: dict[str, dict[str, object]]) -> list[
         ):
             issues.append(
                 f"{stem}.json: major {status} entry is missing sutta_references"
+            )
+    return issues
+
+
+def check_missing_example_sources(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        entry_type = data.get("entry_type")
+        status = data.get("status")
+        examples = data.get("example_phrases", [])
+        if entry_type != "major" or status not in {"reviewed", "stable"}:
+            continue
+        if not isinstance(examples, list) or len(examples) == 0:
+            continue
+
+        missing_indexes = [
+            index
+            for index, example in enumerate(examples, start=1)
+            if isinstance(example, dict) and not is_non_empty_string(example.get("source"))
+        ]
+        if missing_indexes:
+            joined = ", ".join(str(index) for index in missing_indexes)
+            issues.append(
+                f"{stem}.json: major {status} entry has example_phrases missing source on item(s) {joined}"
+            )
+    return issues
+
+
+def check_thin_governance_surfaces(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        if data.get("entry_type") != "major" or data.get("status") not in {"reviewed", "stable"}:
+            continue
+
+        notes = data.get("notes")
+        context_rules = data.get("context_rules")
+        examples = data.get("example_phrases")
+
+        note_words = len(notes.split()) if isinstance(notes, str) else 0
+        context_count = len(context_rules) if isinstance(context_rules, list) else 0
+        example_count = len(examples) if isinstance(examples, list) else 0
+
+        if note_words < 90 and context_count < 3 and example_count < 2:
+            issues.append(
+                f"{stem}.json: major {data.get('status')} entry has a thin governance surface "
+                f"(context_rules={context_count}, example_phrases={example_count}, note_words={note_words}); "
+                "expand the note or add another rule/example"
             )
     return issues
 
@@ -313,6 +364,26 @@ def check_authority_basis_consistency(terms: dict[str, dict[str, object]]) -> li
     return issues
 
 
+def check_generic_authority_basis_refinement(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        if data.get("entry_type") != "major":
+            continue
+        if data.get("status") not in {"reviewed", "stable"}:
+            continue
+        authority_basis = data.get("authority_basis")
+        if not isinstance(authority_basis, list):
+            continue
+        if any(
+            isinstance(item, dict) and item.get("source") in GENERIC_AUTHORITY_SOURCES
+            for item in authority_basis
+        ):
+            issues.append(
+                f"{stem}.json: reviewed/stable major entry still uses generic authority_basis source 'Repository editorial record'; refine provenance before merge"
+            )
+    return issues
+
+
 def print_group(title: str, issues: list[str]) -> None:
     if not issues:
         return
@@ -333,7 +404,9 @@ def collect_lint_results(
     resolution_issues = check_missing_related_terms(terms)
     reciprocal_issues = check_one_way_related_terms(terms)
     reference_issues = check_missing_sutta_references(terms)
+    example_source_issues = check_missing_example_sources(terms)
     gloss_issues = check_untranslated_preferences(terms)
+    thin_governance_issues = check_thin_governance_surfaces(terms)
     placeholder_issues = check_suspicious_placeholders(terms)
     mojibake_issues = check_mojibake_patterns(terms)
     stabilized_term_issues = (
@@ -341,6 +414,7 @@ def collect_lint_results(
     )
     translation_policy_issues = check_translation_policy_consistency(terms)
     authority_basis_issues = check_authority_basis_consistency(terms)
+    generic_authority_issues = check_generic_authority_basis_refinement(terms)
 
     if resolution_issues:
         errors["Resolution"].extend(resolution_issues)
@@ -354,10 +428,16 @@ def collect_lint_results(
         errors["Translation Policy"].extend(translation_policy_issues)
     if authority_basis_issues:
         errors["Authority Basis"].extend(authority_basis_issues)
+    if generic_authority_issues:
+        errors["Authority Basis"].extend(generic_authority_issues)
     if reciprocal_issues:
         warnings["Reciprocal Links"].extend(reciprocal_issues)
     if reference_issues:
         warnings["References"].extend(reference_issues)
+    if example_source_issues:
+        warnings["Example Sources"].extend(example_source_issues)
+    if thin_governance_issues:
+        warnings["Governance Surface"].extend(thin_governance_issues)
     if gloss_issues:
         warnings["Glossing"].extend(gloss_issues)
 

@@ -22,17 +22,17 @@
     {
       "context": "In most doctrinal and practice contexts",
       "rendering": "release",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose or comparative discussion where conventional OSF-facing terminology is useful",
       "rendering": "liberation",
-      "notes": "Acceptable alternate when the line benefits from it."
+      "notes": "Use this as a controlled alternate when the line benefits from it."
     },
     {
       "context": "In Punnaji-style practical awakening prose",
       "rendering": "emancipation",
-      "notes": "Controlled practical alternate, not the house default."
+      "notes": "Use this as a controlled practical alternate, not as the house default."
     },
     {
       "context": "In compounds such as cetovimutti and paññāvimutti",

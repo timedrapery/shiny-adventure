@@ -19,12 +19,12 @@
     {
       "context": "In most ethical and doctrinal contexts",
       "rendering": "delusion",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing muddle rather than outright false view",
       "rendering": "confusion",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In prose highlighting mental disorientation",
@@ -60,7 +60,7 @@
     {
       "pali": "vigatamoha",
       "translation": "free from delusion",
-      "notes": "Useful contrastive expression in practice contexts.",
+      "notes": "Shows a contrastive expression in practice contexts.",
       "source": "MN 9"
     }
   ],

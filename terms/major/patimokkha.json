@@ -15,17 +15,22 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "pāṭimokkha (disciplinary code)",
   "definition": "The monastic disciplinary code recited on uposatha occasions and used as the core summary of training rules.",
-  "notes": "The repository keeps pāṭimokkha untranslated by default because it names a very specific Vinaya institution. Dhammarato's chanting manual strongly reinforces its liturgical role as a recited disciplinary summary on observance days.",
+  "notes": "The repository keeps pāṭimokkha untranslated by default because it names a specific Vinaya institution rather than a generic list of rules. The English gloss disciplinary code is useful, but only as a cue for readers who need quick orientation. Keep the Pali when the passage is about recitation, observance, restraint, or monastic procedure, because rulebook-language is too flat and too modernizing for the actual institution. Dhammarato's chanting manual reinforces the term's liturgical role as a recited disciplinary summary on observance days.",
   "context_rules": [
     {
       "context": "In most Vinaya and monastic-procedure contexts",
       "rendering": "pāṭimokkha",
-      "notes": "Default project practice is to keep the term untranslated."
+      "notes": "Keep the term untranslated by default."
     },
     {
       "context": "On first occurrence or in explanatory prose",
       "rendering": "disciplinary code",
       "notes": "Use as a gloss when a short English cue is needed."
+    },
+    {
+      "context": "When the passage is about recitation, observance, or pāṭimokkha-related compounds",
+      "rendering": "pāṭimokkha",
+      "notes": "Keep the Vinaya institution explicit rather than flattening it into generic rulebook language."
     }
   ],
   "related_terms": [

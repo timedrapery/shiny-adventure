@@ -25,7 +25,7 @@
     {
       "context": "In source-facing contexts where the term is too broad or loaded for a single English equivalent",
       "rendering": "dhamma",
-      "notes": "Default project practice is to leave the term untranslated."
+      "notes": "Leave the term untranslated by default."
     },
     {
       "context": "When the term clearly refers to the Buddha's teaching or doctrinal instruction",
@@ -35,7 +35,7 @@
     {
       "context": "In analytical contexts where the term refers to experiential or doctrinal items",
       "rendering": "phenomenon",
-      "notes": "Preferred English option for analytic usage."
+      "notes": "Use this when analytic English is clearer than the untranslated term."
     },
     {
       "context": "When the term names a moral or mental characteristic",
@@ -70,7 +70,7 @@
     {
       "context": "In OSF practical teaching prose where the direct subject is the Buddha's teaching at work here-now",
       "rendering": "dhamma",
-      "notes": "Default OSF practice still allows the untranslated term when English would narrow it too quickly."
+      "notes": "Keep the untranslated term when English would narrow it too quickly."
     },
     {
       "context": "In OSF publication prose contrasting lived practice with abstract theory",
@@ -82,6 +82,7 @@
     "anapanasati",
     "citta",
     "dhammata",
+    "dhammanupassana",
     "dhammaniyamata",
     "dhammatthiti",
     "dhammavicaya",
@@ -98,7 +99,7 @@
     {
       "pali": "dhammānudhammapaṭipanna",
       "translation": "practicing in line with the dhamma",
-      "notes": "Useful source-facing example where untranslated dhamma remains the safest choice.",
+      "notes": "Shows a source-facing example where untranslated dhamma remains the safest choice.",
       "source": "DN 22"
     },
     {
