@@ -21,6 +21,13 @@ Current MN 118 surfaces:
 - [mn118-anapanasati-sutta-notes.md](mn118-anapanasati-sutta-notes.md):
   companion translator notes and rationale
 
+Current MN 1 surfaces:
+
+- [mn1-mulapariyaya-sutta.md](mn1-mulapariyaya-sutta.md): main shareable
+  translation text
+- [mn1-mulapariyaya-sutta-notes.md](mn1-mulapariyaya-sutta-notes.md):
+  companion translator notes and rationale
+
 Current MN 117 surfaces:
 
 - [mn117-mahacattarisaka-sutta.md](mn117-mahacattarisaka-sutta.md): main
