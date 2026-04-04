@@ -3,12 +3,39 @@
   "normalized_term": "dukkha-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of dissatisfaction",
-  "definition": "A specific perception cultivated for insight and release.",
-  "status": "reviewed",
   "literal_meaning": "perception of dissatisfaction",
+  "preferred_translation": "perception of dissatisfaction",
+  "alternative_translations": [
+    "perception of unsatisfactoriness"
+  ],
+  "discouraged_translations": [
+    "perception of suffering"
+  ],
+  "definition": "A cultivated perception that keeps the unsatisfactory side of conditioned experience in view.",
+  "notes": "Use this record for the three-marks practice family when the dukkha-side perception is being cultivated explicitly. In AN 10.60 the perception appears in the more relational form anicce dukkhasaññā, so this entry should be heard as the governed family label for that practice rather than as permission to flatten dukkha back into suffering-language.",
+  "related_terms": [
+    "dukkha",
+    "dukkhanupassana",
+    "anicca-sanna",
+    "anatta-sanna",
+    "dukkha-sabbe-sankhara",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anicce dukkhasaññā",
+      "translation": "perception of dissatisfaction in the impermanent",
+      "notes": "Canonical perception formula linking impermanence and dissatisfaction.",
+      "source": "AN 10.60"
+    }
+  ],
+  "sutta_references": [
+    "AN 10.60"
+  ],
+  "status": "reviewed",
   "tags": [
     "meditative-development",
-    "liberation"
+    "liberation",
+    "three-marks"
   ]
 }

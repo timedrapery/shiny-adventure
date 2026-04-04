@@ -3,10 +3,36 @@
   "normalized_term": "dukkhanupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "contemplation of dissatisfaction",
-  "definition": "Contemplation that attends to the stressful and unsatisfactory side of conditioned experience.",
-  "status": "reviewed",
   "literal_meaning": "contemplation of dissatisfaction",
+  "preferred_translation": "contemplation of dissatisfaction",
+  "alternative_translations": [
+    "observing dissatisfaction"
+  ],
+  "discouraged_translations": [
+    "contemplation of suffering"
+  ],
+  "definition": "Contemplation that attends to the unsatisfactory side of conditioned experience.",
+  "notes": "Use this record for the active contemplative side of the dukkha mark. It should keep the repository's dissatisfaction default audible and should not drift into generalized suffering-language. In the three-marks sequence it belongs between impermanence and not-self rather than standing alone as a mood label.",
+  "related_terms": [
+    "dukkha",
+    "dukkha-sanna",
+    "aniccanupassana",
+    "anattanupassana",
+    "dukkha-sabbe-sankhara",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhānupassī",
+      "translation": "one contemplating dissatisfaction",
+      "notes": "Canonical contemplative designation governing the practice family.",
+      "source": "AN 7.17"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.17"
+  ],
+  "status": "reviewed",
   "tags": [
     "core-practice",
     "meditative-development",

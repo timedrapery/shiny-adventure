@@ -3,12 +3,38 @@
   "normalized_term": "anatta-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of not-self",
-  "definition": "A specific perception cultivated for insight and release.",
-  "status": "reviewed",
   "literal_meaning": "perception of not-self",
+  "preferred_translation": "perception of not-self",
+  "alternative_translations": [
+    "not-self perception"
+  ],
+  "discouraged_translations": [
+    "no-self perception"
+  ],
+  "definition": "A cultivated perception that keeps experience from being taken as self, owned, or identified with.",
+  "notes": "Use this record for the three-marks practice family when not-self is cultivated as a direct perception. In AN 10.60 the perception appears in the more relational form dukkhe anattasaññā, so this entry should stay tied to the movement from dissatisfaction toward de-appropriation rather than drifting into abstract no-self rhetoric.",
+  "related_terms": [
+    "anatta",
+    "anattanupassana",
+    "dukkha-sanna",
+    "sabbe-dhamma-anatta",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhe anattasaññā",
+      "translation": "perception of not-self in what is dissatisfaction",
+      "notes": "Canonical perception formula linking dissatisfaction and not-self.",
+      "source": "AN 10.60"
+    }
+  ],
+  "sutta_references": [
+    "AN 10.60"
+  ],
+  "status": "reviewed",
   "tags": [
     "meditative-development",
-    "liberation"
+    "liberation",
+    "three-marks"
   ]
 }

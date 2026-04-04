@@ -1,0 +1,74 @@
+{
+  "term": "aniccā sabbasaṅkhārā",
+  "normalized_term": "anicca-sabbe-sankhara",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "impermanent are all saṅkhārā",
+  "preferred_translation": "all that has been put together is impermanent",
+  "alternative_translations": [
+    "all constructed things are impermanent"
+  ],
+  "discouraged_translations": [
+    "all formations are impermanent"
+  ],
+  "definition": "Canonical three-marks formula stating the impermanent character of saṅkhārā.",
+  "notes": "Use this record for the full formula line. Dhp 277 anchors the line itself. Here the saṅkhārā family takes its result-side reading, so the line should sound like compounded or put-together things rather than the dependent-arising process of putting together. The OSF glossary supports keeping the formula inside the repository's governed saṅkhārā family rather than defaulting to formations-language.",
+  "context_rules": [
+    {
+      "context": "In direct Dhp 277-style formula translation",
+      "rendering": "all that has been put together is impermanent",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When prose needs a more idiomatic plural noun",
+      "rendering": "all constructed things are impermanent",
+      "notes": "Controlled alternate that still keeps the compounded side audible."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "anicca-sanna",
+    "aniccanupassana",
+    "dukkha",
+    "sankhara",
+    "dukkha-sabbe-sankhara",
+    "sabbe-sankhata-anicca",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aniccā sabbasaṅkhārā",
+      "translation": "all that has been put together is impermanent",
+      "notes": "Keep saṅkhārā on the result-side reading in this line.",
+      "source": "Dhp 277"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 277"
+  ],
+  "tags": [
+    "three-marks",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Dhp 277",
+      "kind": "context-rule",
+      "scope": "Supports the canonical formula line itself."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports keeping the line inside the governed saṅkhārā family rather than defaulting to formations-language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard rendering for the full Dhp 277 three-marks line.",
+    "when_not_to_apply": "Do not force dependent-arising process language into this formula slot, and do not restore formations as an unstated default.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the formula from drifting away from the governed result-side handling of saṅkhārā."
+  }
+}

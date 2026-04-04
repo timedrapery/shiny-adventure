@@ -3,10 +3,35 @@
   "normalized_term": "anattanupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "contemplation of not-self",
-  "definition": "Contemplation that sees experience as not fit to be taken as self or ownership.",
-  "status": "reviewed",
   "literal_meaning": "contemplation of not-self",
+  "preferred_translation": "contemplation of not-self",
+  "alternative_translations": [
+    "observing not-self"
+  ],
+  "discouraged_translations": [
+    "contemplation of no-self"
+  ],
+  "definition": "Contemplation that sees experience as not fit to be taken as self or ownership.",
+  "notes": "Use this record for the active contemplative side of the not-self mark. It should stay tied to de-appropriation and the release from I-and-mine language, not to metaphysical argument. In the three-marks family it completes the progression from impermanence to dissatisfaction to not-self.",
+  "related_terms": [
+    "anatta",
+    "anatta-sanna",
+    "dukkhanupassana",
+    "sabbe-dhamma-anatta",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "anattānupassī",
+      "translation": "one contemplating not-self",
+      "notes": "Canonical contemplative designation governing the practice family.",
+      "source": "AN 7.18"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.18"
+  ],
+  "status": "reviewed",
   "tags": [
     "core-practice",
     "meditative-development",

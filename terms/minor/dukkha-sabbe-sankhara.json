@@ -1,0 +1,74 @@
+{
+  "term": "dukkhā sabbasaṅkhārā",
+  "normalized_term": "dukkha-sabbe-sankhara",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "unsatisfactory are all saṅkhārā",
+  "preferred_translation": "all that has been put together is unsatisfactory",
+  "alternative_translations": [
+    "all constructed things are unsatisfactory"
+  ],
+  "discouraged_translations": [
+    "all formations are suffering"
+  ],
+  "definition": "Canonical three-marks formula stating the unsatisfactory character of saṅkhārā.",
+  "notes": "Use this record for the full formula line. Dhp 278 anchors the line itself. It keeps the saṅkhārā family on its result-side reading while allowing the dukkha side to take adjective-grade English inside the fixed formula. The OSF glossary supports this controlled handling so the line does not revert to suffering or formations defaults. That override should not be projected back onto every dukkha context elsewhere in the repository.",
+  "context_rules": [
+    {
+      "context": "In direct Dhp 278-style formula translation",
+      "rendering": "all that has been put together is unsatisfactory",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When prose needs a more idiomatic plural noun",
+      "rendering": "all constructed things are unsatisfactory",
+      "notes": "Controlled alternate that keeps the compounded side audible."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "dukkha",
+    "dukkha-sanna",
+    "dukkhanupassana",
+    "anatta",
+    "sankhara",
+    "anicca-sabbe-sankhara",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dukkhā sabbasaṅkhārā",
+      "translation": "all that has been put together is unsatisfactory",
+      "notes": "Keep saṅkhārā on the result-side reading and let dukkha stay adjective-grade in this fixed line.",
+      "source": "Dhp 278"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 278"
+  ],
+  "tags": [
+    "three-marks",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Dhp 278",
+      "kind": "context-rule",
+      "scope": "Supports the canonical formula line itself."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "compound-policy",
+      "scope": "Supports keeping the formula inside the governed dukkha and saṅkhārā families without reverting to suffering or formations defaults."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard rendering for the full Dhp 278 three-marks line.",
+    "when_not_to_apply": "Do not flatten the line into suffering-language, and do not project the formula's adjective-grade English back onto every dukkha occurrence outside this fixed expression.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the formula from drifting into suffering-language or process-side saṅkhārā language."
+  }
+}

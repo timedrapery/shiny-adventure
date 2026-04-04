@@ -3,12 +3,38 @@
   "normalized_term": "anicca-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of impermanence",
-  "definition": "A specific perception cultivated for insight and release.",
-  "status": "reviewed",
   "literal_meaning": "perception of impermanence",
+  "preferred_translation": "perception of impermanence",
+  "alternative_translations": [
+    "impermanence perception"
+  ],
+  "discouraged_translations": [
+    "temporary perception"
+  ],
+  "definition": "A cultivated perception that keeps the impermanent character of conditioned experience in view.",
+  "notes": "Use this record for the three-marks practice family when impermanence is cultivated as a steady perception rather than treated as a mere abstract doctrine. In the canonical perception lists it belongs to the insight-training sequence and should stay linked to the broader progression toward seeing dissatisfaction and not-self.",
+  "related_terms": [
+    "anicca",
+    "aniccanupassana",
+    "dukkha-sanna",
+    "anicca-sabbe-sankhara",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aniccasaññā",
+      "translation": "perception of impermanence",
+      "notes": "Listed among the cultivated perceptions used for insight and release.",
+      "source": "AN 10.60"
+    }
+  ],
+  "sutta_references": [
+    "AN 10.60"
+  ],
+  "status": "reviewed",
   "tags": [
     "meditative-development",
-    "liberation"
+    "liberation",
+    "three-marks"
   ]
 }

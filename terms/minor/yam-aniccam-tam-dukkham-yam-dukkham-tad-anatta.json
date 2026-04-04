@@ -1,0 +1,78 @@
+{
+  "term": "yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā",
+  "normalized_term": "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "what is impermanent, that is dukkha; what is dukkha, that is not-self",
+  "preferred_translation": "what is impermanent is dissatisfaction; what is dissatisfaction is not-self",
+  "alternative_translations": [
+    "what is impermanent is unsatisfactory; what is unsatisfactory is not-self"
+  ],
+  "discouraged_translations": [
+    "what is impermanent suffers; what suffers has no self"
+  ],
+  "definition": "Compact progression formula linking impermanence, dissatisfaction, and not-self in one line.",
+  "notes": "Use this record for the full progression line when the three marks are being coordinated explicitly. SN 22.15 anchors the line itself. It keeps the repository's house defaults for impermanent, dissatisfaction, and not-self audible in one sentence, and the OSF glossary supports keeping those defaults coordinated instead of switching ad hoc to suffering or no-self slogans. This is the cluster's most compact translator-facing map of how the three marks hang together.",
+  "context_rules": [
+    {
+      "context": "In direct progression-line translation",
+      "rendering": "what is impermanent is dissatisfaction; what is dissatisfaction is not-self",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When surrounding prose already requires adjective-grade English for dukkha",
+      "rendering": "what is impermanent is unsatisfactory; what is unsatisfactory is not-self",
+      "notes": "Controlled alternate when the sentence grammar demands it."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "anicca-sanna",
+    "aniccanupassana",
+    "dukkha",
+    "dukkha-sanna",
+    "dukkhanupassana",
+    "anatta",
+    "anatta-sanna",
+    "anattanupassana",
+    "anicca-sabbe-sankhara",
+    "dukkha-sabbe-sankhara",
+    "sabbe-dhamma-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā",
+      "translation": "what is impermanent is dissatisfaction; what is dissatisfaction is not-self",
+      "notes": "Compact progression line linking the full three-marks family.",
+      "source": "SN 22.15"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.15"
+  ],
+  "tags": [
+    "three-marks",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 22.15",
+      "kind": "context-rule",
+      "scope": "Supports the compact progression line itself."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping the repository's house defaults coordinated across the three-marks line."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard rendering when the full impermanent -> dissatisfaction -> not-self progression is explicit.",
+    "when_not_to_apply": "Do not substitute suffering or no-self by habit, and do not break the line into uncoordinated term-level paraphrases when the formula itself is the point.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compact three-marks progression from fragmenting into unrelated translation choices."
+  }
+}
