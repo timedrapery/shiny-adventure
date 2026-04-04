@@ -14,8 +14,18 @@
   ],
   "untranslated_preferred": false,
   "definition": "Non-identification or freedom from being shaped into I and mine by what is experienced.",
+  "notes": "Use non-identification as the default because it keeps the term practical and anti-appropriative without turning it into blank detachment. In MN 137 it functions as the support for going beyond the one-pointed dynamic balance tied to the formless fields, so the English should keep the line active and release-oriented rather than sounding like emotional numbness.",
+  "example_phrases": [
+    {
+      "pali": "atammayataṁ nissāya atammayataṁ āgamma",
+      "translation": "supported by non-identification, grounded in non-identification",
+      "notes": "MN 137 uses the term as the final support for going beyond one-pointed dynamic balance.",
+      "source": "MN 137"
+    }
+  ],
   "sutta_references": [
-    "Ud 1.10"
+    "Ud 1.10",
+    "MN 137"
   ],
   "tags": [
     "core-doctrine",

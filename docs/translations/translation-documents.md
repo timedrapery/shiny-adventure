@@ -56,6 +56,20 @@ Current MN 118 surfaces:
 - [mn118-anapanasati-sutta-notes.md](mn118-anapanasati-sutta-notes.md):
   companion translator notes and rationale
 
+Current MN 137 surfaces:
+
+- [mn137-salayatanavibhanga-sutta.md](mn137-salayatanavibhanga-sutta.md): main
+  shareable translation text
+- [mn137-salayatanavibhanga-sutta-notes.md](mn137-salayatanavibhanga-sutta-notes.md):
+  companion translator notes and rationale
+
+Current MN 141 surfaces:
+
+- [mn141-saccavibhanga-sutta.md](mn141-saccavibhanga-sutta.md): main shareable
+  translation text
+- [mn141-saccavibhanga-sutta-notes.md](mn141-saccavibhanga-sutta-notes.md):
+  companion translator notes and rationale
+
 Current MN 148 surfaces:
 
 - [mn148-chachakka-sutta.md](mn148-chachakka-sutta.md): main shareable

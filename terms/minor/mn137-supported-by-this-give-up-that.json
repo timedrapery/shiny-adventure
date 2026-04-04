@@ -1,0 +1,53 @@
+{
+  "term": "tatra idaṁ nissāya idaṁ pajahatha",
+  "normalized_term": "mn137-supported-by-this-give-up-that",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "here, supported by this, give up that",
+  "alternative_translations": [
+    "here, relying on this, give up that"
+  ],
+  "discouraged_translations": [
+    "with this as basis, abandon that",
+    "through this destroy that"
+  ],
+  "definition": "MN 137's staged replacement formula for moving from household-tied responses to subtler supports and beyond them.",
+  "notes": "Use this record for the recurring replacement logic in MN 137. The line is practical and sequential: use a better support to let go of a coarser one, then go further. Keep the English direct and operational rather than ceremonial.",
+  "related_terms": [
+    "atammayata",
+    "domanassa",
+    "nekkhamma",
+    "somanassa",
+    "upekkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "tatra idaṁ nissāya idaṁ pajahatha",
+      "translation": "here, supported by this, give up that",
+      "notes": "The governing replacement formula in MN 137.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 137",
+      "kind": "context-rule",
+      "scope": "Supports the staged replacement logic for feeling and dynamic-balance families in the six-fields analysis."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for MN 137's staged replacement formula unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not inflate the line into grand renunciation rhetoric, and do not flatten it into generic self-help language that loses the stepped support logic.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the MN 137 replacement sequence from drifting into vague improvement-language or inconsistent support / abandoning vocabulary."
+  }
+}

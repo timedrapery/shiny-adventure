@@ -1,0 +1,54 @@
+{
+  "term": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+  "normalized_term": "mn141-four-truths-analysis-opening",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "the explaining, teaching, laying out, establishing, opening up, analyzing, and making clear of the four noble truths",
+  "alternative_translations": [
+    "the explaining, teaching, setting out, establishing, opening up, analyzing, and making clear of the four noble truths"
+  ],
+  "discouraged_translations": [
+    "the doctrine of the four noble truths",
+    "the revelation of the four truths"
+  ],
+  "definition": "The analytical opening formula that frames MN 141 as an explicit breakdown of the four noble truths.",
+  "notes": "Use this record when the multi-verb analytical opening in MN 141 needs to be translated as a governed unit. Keep the sequence active and editorially plain rather than flattening it into a single abstract noun like exposition.",
+  "related_terms": [
+    "ariyasacca",
+    "dukkha",
+    "magga",
+    "nirodha",
+    "samudaya",
+    "sacca"
+  ],
+  "example_phrases": [
+    {
+      "pali": "catunnaṁ ariyasaccānaṁ ācikkhanā desanā paññāpanā paṭṭhapanā vivaraṇā vibhajanā uttānīkammaṁ",
+      "translation": "the explaining, teaching, laying out, establishing, opening up, analyzing, and making clear of the four noble truths",
+      "notes": "The governing analytical opening in MN 141.",
+      "source": "MN 141"
+    }
+  ],
+  "sutta_references": [
+    "MN 141"
+  ],
+  "tags": [
+    "four-noble-truths",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 141",
+      "kind": "context-rule",
+      "scope": "Supports the multi-verb analytical opening that frames the discourse as an explicit breakdown of the four truths."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for MN 141's analytical opening unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not collapse the sequence into generic teaching-language, and do not make the line sound ceremonial or archaic.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the title formula of MN 141 from drifting into vague exposition-language or inflated revelation-language."
+  }
+}
