@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "tongue-contact",
+  "alternative_translations": [
+    "contact at the tongue"
+  ],
+  "discouraged_translations": [
+    "tongue sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the tongue when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the tongue-field interface. Keep it distinct from the field itself, from tastes, and from the feeling that follows.",
   "literal_meaning": "contact at the tongue",
+  "related_terms": [
+    "jivhayatana",
+    "rasayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "jivhāsamphasso",
+      "translation": "tongue-contact",
+      "notes": "Contact event at the tongue-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

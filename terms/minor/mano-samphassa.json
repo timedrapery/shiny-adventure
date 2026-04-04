@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "mind-contact",
+  "alternative_translations": [
+    "contact at the mind"
+  ],
+  "discouraged_translations": [
+    "mental sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the mind when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the mind-field interface. Keep it distinct from the field itself, from dhammas as the object-side field, and from the feeling that follows.",
   "literal_meaning": "contact at the mind",
+  "related_terms": [
+    "manayatana",
+    "dhammayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "manosamphasso",
+      "translation": "mind-contact",
+      "notes": "Contact event at the mind-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

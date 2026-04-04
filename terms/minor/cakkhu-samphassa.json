@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "eye-contact",
+  "alternative_translations": [
+    "contact at the eye"
+  ],
+  "discouraged_translations": [
+    "eye sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the eye when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the eye-field interface. Keep it distinct from the field itself, from forms, and from the feeling that follows.",
   "literal_meaning": "contact at the eye",
+  "related_terms": [
+    "cakkhayatana",
+    "rupayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cakkhusamphasso",
+      "translation": "eye-contact",
+      "notes": "Contact event at the eye-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

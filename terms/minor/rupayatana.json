@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Forms as the visual object-field.",
+  "notes": "Keeps the visual object-side field aligned with the ayatana family under sense-field language and pairs it with the eye field and eye-contact rather than base-language.",
+  "related_terms": [
+    "cakkhayatana",
+    "cakkhu-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "r\u016bp\u0101yatana\u1e43",
+      "translation": "the form sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Tangibles as the tactile object-field.",
+  "notes": "Keeps the tactile object-side field aligned with the ayatana family under sense-field language and pairs it with the body field and body-contact rather than base-language.",
+  "related_terms": [
+    "kayayatana",
+    "kaya-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "pho\u1e6d\u1e6dhabb\u0101yatana\u1e43",
+      "translation": "the tangible sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

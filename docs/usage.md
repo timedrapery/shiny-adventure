@@ -39,6 +39,12 @@ For the four noble truths family specifically, add the dedicated audit:
 python scripts/four_noble_truths_cluster_report.py --strict
 ```
 
+For the sense-fields family specifically, add the dedicated audit:
+
+```bash
+python scripts/sense_fields_cluster_report.py --strict
+```
+
 ## Run The Full Verification Suite
 
 ```bash
@@ -47,7 +53,7 @@ python scripts/run_checks.py
 
 This runs tests, schema validation, editorial lint in strict mode, drift checks, coverage audit, and repository health reporting in sequence.
 
-It also runs the dedicated cluster audits, including the jhana, path-factor, and four-noble-truths checks.
+It also runs the dedicated cluster audits, including the jhana, path-factor, four-noble-truths, and sense-fields checks.
 
 ## Check Documentation And Repository Surface
 

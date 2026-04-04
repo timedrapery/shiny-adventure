@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "Tastes as the gustatory object-field.",
+  "notes": "Keeps the gustatory object-side field aligned with the ayatana family under sense-field language and pairs it with the tongue field and tongue-contact rather than base-language.",
+  "related_terms": [
+    "jivhayatana",
+    "jivha-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ras\u0101yatana\u1e43",
+      "translation": "the taste sense field",
+      "notes": "Object-side field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],

@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "ear-contact",
+  "alternative_translations": [
+    "contact at the ear"
+  ],
+  "discouraged_translations": [
+    "ear sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the ear when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the ear-field interface. Keep it distinct from the field itself, from sounds, and from the feeling that follows.",
   "literal_meaning": "contact at the ear",
+  "related_terms": [
+    "sotayatana",
+    "saddayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sotasamphasso",
+      "translation": "ear-contact",
+      "notes": "Contact event at the ear-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

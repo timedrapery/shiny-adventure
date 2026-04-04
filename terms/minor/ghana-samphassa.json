@@ -4,10 +4,33 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "nose-contact",
+  "alternative_translations": [
+    "contact at the nose"
+  ],
+  "discouraged_translations": [
+    "nose sensation"
+  ],
+  "untranslated_preferred": false,
   "definition": "Contact occurring at the nose when its field comes together in experience.",
-  "status": "reviewed",
+  "notes": "Use this fixed contact compound for the event at the nose-field interface. Keep it distinct from the field itself, from odors, and from the feeling that follows.",
   "literal_meaning": "contact at the nose",
+  "related_terms": [
+    "ghanayatana",
+    "gandhayatana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ghānasamphasso",
+      "translation": "nose-contact",
+      "notes": "Contact event at the nose-field interface.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
   "tags": [
     "sense-fields"
-  ]
+  ],
+  "status": "reviewed"
 }

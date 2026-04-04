@@ -13,6 +13,19 @@
   ],
   "untranslated_preferred": false,
   "definition": "The eye as one of the sense fields.",
+  "notes": "Keeps the internal eye field aligned with the ayatana family under sense-field language and pairs it with forms and eye-contact rather than letting base-language become the unmarked default.",
+  "related_terms": [
+    "rupayatana",
+    "cakkhu-samphassa"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cakkh\u0101yatana\u1e43",
+      "translation": "the eye sense field",
+      "notes": "Internal field in the twelve-field analysis.",
+      "source": "MN 148"
+    }
+  ],
   "sutta_references": [
     "MN 148"
   ],
