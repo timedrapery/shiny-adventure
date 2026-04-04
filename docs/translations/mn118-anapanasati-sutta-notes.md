@@ -80,7 +80,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   out-breath training onto body, feelings, feeling mind, and dhammas.
 - In the feeling tetrad, the trainee remembers with each breath to bring forth
   delight and ease, and to experience and calm the mind conditioner, namely
-  feeling and recognition, including liking, disliking, or neither.
+  feeling and recognition, including liking, disliking, or a mixed pull.
 - In the satipaṭṭhāna-fulfillment section, the in-and-out breath remains the
   body conditioner, while feeling and recognition remain the mind conditioner
   worked with through breathing.

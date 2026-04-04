@@ -10,7 +10,7 @@
 
 ## Guardrails
 
-- `ariyasacca` stays `noble truth` rather than turning the truths into slogan-language.
+- `ariyasacca` stays `noble truth` rather than turning the truths into slogan-language, with `truth of the buddha` available only as a controlled explanatory alternate.
 - `dukkha` stays `dissatisfaction` rather than drifting back to uncontrolled suffering-language.
 - `nirodha` stays `quenching` rather than flattening it into vague positivity or generic cessation-shorthand.
 - `magga` stays `path` while allowing the immediate practice-side gloss of making a wholesome change.

@@ -6,14 +6,15 @@
   "literal_meaning": "noble truth",
   "preferred_translation": "noble truth",
   "alternative_translations": [
-    "ennobling truth"
+    "ennobling truth",
+    "truth of the buddha"
   ],
   "discouraged_translations": [
     "holy truth"
   ],
   "untranslated_preferred": false,
   "definition": "A foundational truth of the path, especially in the standard fourfold formulation of dissatisfaction, origin, quenching, and path.",
-  "notes": "The project keeps noble truth as the default because it is already stable and widely intelligible in English. In explanatory prose, ennobling truth can be useful when the transformative force of ariya is the point, but it should not replace the default rendering in ordinary doctrinal translation. The OSF glossary confirms noble truth as the house default and records ennobling truth as a limited explanatory alternate. In OSF practice language, the four noble truths should also stay usable as correct noble practice rather than as a merely abstract list: waking up to what is here and where it is heading belongs with seeing dissatisfaction and its arising, making a wholesome change belongs with the path-side task, noticing and appreciating the quenching of dukkha belongs with nirodha, and remembering to do this again keeps the turnings practical rather than ceremonial. SN 22.86 sharpens this still further for repository governance: the Buddha says he makes known only dissatisfaction and the ending of dissatisfaction. So the repo should treat the four truths, and the wider doctrinal surface around them, as ordered by that dukkha / dukkha-nirodha scope.",
+  "notes": "The project keeps noble truth as the default because it is already stable and widely intelligible in English. In explanatory prose, ennobling truth can be useful when the transformative force of ariya is the point, and truth of the buddha can be useful when the line wants to stress that these truths belong to the Buddha's teaching and awakening frame, but neither should replace the default rendering in ordinary doctrinal translation. The OSF glossary confirms noble truth as the house default and records ennobling truth as a limited explanatory alternate. In OSF practice language, the four noble truths should also stay usable as correct noble practice rather than as a merely abstract list: waking up to what is here and where it is heading belongs with seeing dissatisfaction and its arising, making a wholesome change belongs with the path-side task, noticing and appreciating the quenching of dukkha belongs with nirodha, and remembering to do this again keeps the turnings practical rather than ceremonial. SN 22.86 sharpens this still further for repository governance: the Buddha says he makes known only dissatisfaction and the ending of dissatisfaction. So the repo should treat the four truths, and the wider doctrinal surface around them, as ordered by that dukkha / dukkha-nirodha scope.",
   "context_rules": [
     {
       "context": "In standard doctrinal contexts, especially the fourfold formulation",
@@ -24,6 +25,11 @@
       "context": "In explanatory prose emphasizing that the truth shapes and elevates the practitioner",
       "rendering": "ennobling truth",
       "notes": "Use sparingly as an explanatory alternate, not as the main house term."
+    },
+    {
+      "context": "In explanatory prose stressing that the four truths belong to the Buddha's teaching and awakening frame",
+      "rendering": "truth of the buddha",
+      "notes": "Use as a controlled explanatory alternate, not as the ordinary doctrinal default."
     },
     {
       "context": "In OSF practice-facing explanation of the four truths as lived training rather than abstract doctrine",
