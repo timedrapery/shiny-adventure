@@ -1,0 +1,70 @@
+{
+  "term": "sabbe saṅkhatā aniccā",
+  "normalized_term": "sabbe-sankhata-anicca",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "all conditioned things are impermanent",
+  "preferred_translation": "all conditioned things are impermanent",
+  "alternative_translations": [
+    "all conditioned phenomena are impermanent"
+  ],
+  "discouraged_translations": [
+    "all created things are impermanent"
+  ],
+  "definition": "Broad doctrinal formula stating the impermanent character of conditioned things.",
+  "notes": "Use this record for the full formula line when the conditioned side of the family is foregrounded explicitly. SN 43.1 anchors the line itself. It keeps saṅkhata tied to impermanence without collapsing back into created-language, and the OSF glossary supports keeping the family in conditioned-language rather than created-language. This gives translators a governed line when the broad conditioned category is the point rather than the more specific saṅkhārā family.",
+  "context_rules": [
+    {
+      "context": "In direct broad-doctrinal formula translation",
+      "rendering": "all conditioned things are impermanent",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When surrounding prose is more analytic than concrete",
+      "rendering": "all conditioned phenomena are impermanent",
+      "notes": "Controlled alternate for more analytic English."
+    }
+  ],
+  "related_terms": [
+    "anicca",
+    "sankhata",
+    "sankhara",
+    "anicca-sabbe-sankhara"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sabbe saṅkhatā aniccā",
+      "translation": "all conditioned things are impermanent",
+      "notes": "Keep the conditioned side explicit and avoid created-language.",
+      "source": "SN 43.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 43.1"
+  ],
+  "tags": [
+    "three-marks",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 43.1",
+      "kind": "context-rule",
+      "scope": "Supports the canonical formula line itself."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports keeping saṅkhata in conditioned-language rather than created-language."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard rendering when the broad conditioned category is the point of the formula.",
+    "when_not_to_apply": "Do not replace conditioned with created, and do not use this broader line when the more specific saṅkhārā formulas are actually in view.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents drift between saṅkhata and saṅkhārā in translator-facing formula work."
+  }
+}

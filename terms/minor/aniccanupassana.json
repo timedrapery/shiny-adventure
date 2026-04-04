@@ -3,10 +3,35 @@
   "normalized_term": "aniccanupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "contemplation of impermanence",
-  "definition": "Contemplation that attends to instability and change.",
-  "status": "reviewed",
   "literal_meaning": "contemplation of impermanence",
+  "preferred_translation": "contemplation of impermanence",
+  "alternative_translations": [
+    "observing impermanence"
+  ],
+  "discouraged_translations": [
+    "thinking about change"
+  ],
+  "definition": "Contemplation that keeps instability and change in direct view.",
+  "notes": "Use this record for the active contemplative side of the three-marks family. It should remain more direct than a philosophical reflection, and it should stay tied to the broader insight progression that moves from impermanence toward dissatisfaction and not-self.",
+  "related_terms": [
+    "anicca",
+    "anicca-sanna",
+    "dukkhanupassana",
+    "anicca-sabbe-sankhara",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aniccānupassī",
+      "translation": "one contemplating impermanence",
+      "notes": "Canonical contemplative designation governing the practice family.",
+      "source": "AN 7.16"
+    }
+  ],
+  "sutta_references": [
+    "AN 7.16"
+  ],
+  "status": "reviewed",
   "tags": [
     "core-practice",
     "meditative-development",

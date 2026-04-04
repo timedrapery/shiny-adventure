@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 827
+- Entries: 832
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -62,10 +62,11 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [anantara-paccaya](../../terms/minor/anantara-paccaya.json) | anantara-paccaya | immediacy condition | reviewed | causality |
 | [anantara](../../terms/minor/anantara.json) | anantara | immediacy | reviewed | causality |
 | [anathapindika](../../terms/minor/anathapindika.json) | Anāthapiṇḍika | Anāthapiṇḍika | reviewed | persons |
-| [anatta-sanna](../../terms/minor/anatta-sanna.json) | anatta-sanna | perception of not-self | reviewed | meditative-development, liberation |
+| [anatta-sanna](../../terms/minor/anatta-sanna.json) | anatta-sanna | perception of not-self | reviewed | meditative-development, liberation, three-marks |
 | [anattanupassana](../../terms/minor/anattanupassana.json) | anattānupassanā | contemplation of not-self | reviewed | core-practice, meditative-development, three-marks |
 | [anenjabhisankhara](../../terms/minor/anenjabhisankhara.json) | aneñjābhisaṅkhāra | imperturbable constructing | draft | core-doctrine |
-| [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | perception of impermanence | reviewed | meditative-development, liberation |
+| [anicca-sabbe-sankhara](../../terms/minor/anicca-sabbe-sankhara.json) | aniccā sabbasaṅkhārā | all that has been put together is impermanent | reviewed | three-marks, formula, translation-sensitive |
+| [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | perception of impermanence | reviewed | meditative-development, liberation, three-marks |
 | [aniccanupassana](../../terms/minor/aniccanupassana.json) | aniccānupassanā | contemplation of impermanence | reviewed | core-practice, meditative-development, three-marks |
 | [animitta-cetosamadhi](../../terms/minor/animitta-cetosamadhi.json) | animitta-cetosamadhi | signless composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
 | [animitta-samadhi](../../terms/minor/animitta-samadhi.json) | animitta-samadhi | signless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
@@ -278,7 +279,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [duccarita](../../terms/minor/duccarita.json) | duccarita | bad conduct | reviewed | ethics |
 | [duggati](../../terms/minor/duggati.json) | duggati | bad destination | reviewed | core-doctrine |
 | [dukkha-ariyasacca](../../terms/minor/dukkha-ariyasacca.json) | dukkha-ariyasacca | noble truth of dissatisfaction | reviewed | core-doctrine, four-noble-truths |
-| [dukkha-sanna](../../terms/minor/dukkha-sanna.json) | dukkha-sanna | perception of dissatisfaction | reviewed | meditative-development, liberation |
+| [dukkha-sabbe-sankhara](../../terms/minor/dukkha-sabbe-sankhara.json) | dukkhā sabbasaṅkhārā | all that has been put together is unsatisfactory | reviewed | three-marks, formula, translation-sensitive |
+| [dukkha-sanna](../../terms/minor/dukkha-sanna.json) | dukkha-sanna | perception of dissatisfaction | reviewed | meditative-development, liberation, three-marks |
 | [dukkha-vedana](../../terms/minor/dukkha-vedana.json) | dukkhavedanā | painful feeling | reviewed | aggregates |
 | [dukkhanupassana](../../terms/minor/dukkhanupassana.json) | dukkhānupassanā | contemplation of dissatisfaction | reviewed | core-practice, meditative-development, three-marks |
 | [duta](../../terms/minor/duta.json) | dūta | messenger | reviewed | persons |
@@ -674,6 +676,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
 | [sabbaloke-anabhirata-sanna](../../terms/minor/sabbaloke-anabhirata-sanna.json) | sabbaloke-anabhirata-sanna | perception of non-delight in the whole world | reviewed | meditative-development, liberation |
+| [sabbe-dhamma-anatta](../../terms/minor/sabbe-dhamma-anatta.json) | sabbe dhammā anattā | all phenomena are not-self | reviewed | three-marks, formula, translation-sensitive |
+| [sabbe-sankhata-anicca](../../terms/minor/sabbe-sankhata-anicca.json) | sabbe saṅkhatā aniccā | all conditioned things are impermanent | reviewed | three-marks, formula, translation-sensitive |
 | [sabha](../../terms/minor/sabha.json) | sabhā | hall | reviewed | core-doctrine |
 | [sadda-tanha](../../terms/minor/sadda-tanha.json) | sadda-tanha | craving for sounds | reviewed | core-doctrine, mental-qualities |
 | [saddayatana](../../terms/minor/saddayatana.json) | saddāyatana | sound sense field | reviewed | sense-fields |
@@ -929,6 +933,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [yagu](../../terms/minor/yagu.json) | yāgu | gruel | reviewed | embodiment |
 | [yakana](../../terms/minor/yakana.json) | yakana | liver | reviewed | embodiment, meditative-development |
 | [yakkha](../../terms/minor/yakkha.json) | yakkha | yakkha | reviewed | persons |
+| [yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta](../../terms/minor/yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta.json) | yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā | what is impermanent is dissatisfaction; what is dissatisfaction is not-self | reviewed | three-marks, formula, translation-sensitive |
 | [yam-kinci-rupam-vedana-sanna-sankhara-vinnanam](../../terms/minor/yam-kinci-rupam-vedana-sanna-sankhara-vinnanam.json) | yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ | whatever form ... felt experience ... recognition ... putting-together activities ... knowing | stable | aggregates, formula, translation-sensitive |
 | [yasa](../../terms/minor/yasa.json) | yasa | fame | reviewed | worldly-conditions |
 | [yathabhutam-pajanati](../../terms/minor/yathabhutam-pajanati.json) | yathābhūtaṃ pajānāti | discerns it as it has come to be | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |

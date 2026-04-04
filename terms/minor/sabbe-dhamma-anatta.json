@@ -1,0 +1,71 @@
+{
+  "term": "sabbe dhammā anattā",
+  "normalized_term": "sabbe-dhamma-anatta",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "all dhammas are not-self",
+  "preferred_translation": "all phenomena are not-self",
+  "alternative_translations": [
+    "all dhammas are not-self"
+  ],
+  "discouraged_translations": [
+    "all things have no self"
+  ],
+  "definition": "Canonical three-marks formula stating the not-self character of all phenomena.",
+  "notes": "Use this record for the full formula line. Dhp 279 anchors the line itself. It is a controlled override of the headword-level preference to leave dhamma untranslated: here the broad analytic scope is better heard as phenomena. The Buddhadasa usage profile supports keeping anattā practical and anti-reifying, so the line should stay within the repository's governed not-self family rather than being inflated into metaphysical no-self rhetoric.",
+  "context_rules": [
+    {
+      "context": "In direct Dhp 279-style formula translation",
+      "rendering": "all phenomena are not-self",
+      "notes": "Default full-line rendering."
+    },
+    {
+      "context": "When the surrounding passage is deliberately source-facing",
+      "rendering": "all dhammas are not-self",
+      "notes": "Controlled alternate for passages that intentionally retain dhamma."
+    }
+  ],
+  "related_terms": [
+    "anatta",
+    "dhamma",
+    "anatta-sanna",
+    "anattanupassana",
+    "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sabbe dhammā anattā",
+      "translation": "all phenomena are not-self",
+      "notes": "Controlled formula-level override of the headword default for dhamma.",
+      "source": "Dhp 279"
+    }
+  ],
+  "sutta_references": [
+    "Dhp 279"
+  ],
+  "tags": [
+    "three-marks",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Dhp 279",
+      "kind": "context-rule",
+      "scope": "Supports the canonical formula line itself."
+    },
+    {
+      "source": "Buddhadasa usage profile",
+      "priority": "buddhadasa",
+      "kind": "rationale",
+      "scope": "Supports keeping anattā practical and anti-reifying rather than turning the formula into nihilistic no-self rhetoric."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use as the standard rendering for the full Dhp 279 three-marks line.",
+    "when_not_to_apply": "Do not let the formula's use of phenomena force every dhamma context into the same English, and do not recast anattā as no-self.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents collapse of the formula into either untranslated dhamma everywhere or nihilistic no-self slogans."
+  }
+}

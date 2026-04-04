@@ -45,6 +45,12 @@ For the sense-fields family specifically, add the dedicated audit:
 python scripts/sense_fields_cluster_report.py --strict
 ```
 
+For the three-marks family specifically, add the dedicated audit:
+
+```bash
+python scripts/three_marks_cluster_report.py --strict
+```
+
 ## Run The Full Verification Suite
 
 ```bash
@@ -53,7 +59,7 @@ python scripts/run_checks.py
 
 This runs tests, schema validation, editorial lint in strict mode, drift checks, coverage audit, and repository health reporting in sequence.
 
-It also runs the dedicated cluster audits, including the jhana, path-factor, four-noble-truths, and sense-fields checks.
+It also runs the dedicated cluster audits, including the jhana, path-factor, four-noble-truths, sense-fields, and three-marks checks.
 
 ## Check Documentation And Repository Surface
 
