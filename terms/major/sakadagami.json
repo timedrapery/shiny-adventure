@@ -6,24 +6,24 @@
   "literal_meaning": "once-returner",
   "preferred_translation": "once-returner",
   "alternative_translations": [
-    "one who returns once"
+    "someone who returns once"
   ],
   "discouraged_translations": [
     "second-stage saint"
   ],
   "untranslated_preferred": false,
   "definition": "A practitioner who has weakened key fetters and is said to return to this world at most once.",
-  "notes": "The project keeps once-returner because it is established, concise, and doctrinally specific. The longer phrase one who returns once is acceptable when a sentence needs to breathe more naturally in English. The term belongs inside the graded liberation sequence and should be read as an intermediate noble stage, not as a stand-alone honorific. The OSF glossary confirms once-returner as the house default and preserves one who returns once as an explanatory alternate.",
+  "notes": "The project keeps once-returner because it is established, concise, and doctrinally specific. The longer phrase someone who returns once is acceptable when a sentence needs to breathe more naturally in English. The term belongs inside the graded liberation sequence and should be read as an intermediate noble stage, not as a stand-alone honorific. The OSF glossary confirms once-returner as the house default and preserves the fuller clause as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal classifications of awakening stages",
       "rendering": "once-returner",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose with fuller sentence rhythm",
-      "rendering": "one who returns once",
-      "notes": "Acceptable alternate."
+      "rendering": "someone who returns once",
+      "notes": "Use this as a controlled alternate when a full clause reads more naturally than the compact stage label."
     },
     {
       "context": "When used in the graded sequence between stream-enterer and non-returner",
@@ -52,7 +52,7 @@
     {
       "pali": "sakadāgāmimagga",
       "translation": "the path of the once-returner",
-      "notes": "Useful compound linking stage language back to magga terminology.",
+      "notes": "Shows a compound that links stage language back to magga terminology.",
       "source": "SN 55.5"
     }
   ],
@@ -71,7 +71,7 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping once-returner as the house default in graded attainment classification, with the clause-style alternate reserved for explanatory prose."
+      "scope": "Supports keeping once-returner as the house default in graded attainment classification, with the fuller explanatory clause reserved for prose that needs it."
     }
   ],
   "translation_policy": {

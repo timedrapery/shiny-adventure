@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "A supporting condition that decisively enables a later development or breakthrough.",
-  "notes": "The project prefers supporting condition because it is plain and fits the term's enabling function without sounding overly technical. Decisive support is acceptable in explanatory prose when the force of the condition needs to be emphasized more strongly. The OSF glossary supports this by treating upanisā as an enabling causal support rather than as vague inspiration, which supports the current handling.",
+  "notes": "The project keeps supporting condition as the default because it is plain and matches the term's enabling function without sounding needlessly technical. Decisive support remains a controlled alternate when the force of the condition needs stronger emphasis. This entry must stay distinct from hetu, which marks tighter causal force, and from paccaya, which is broader condition language. Upanisā is the condition that helps the next development become workable or possible. The OSF glossary supports this enabling reading rather than vague inspiration-language.",
   "context_rules": [
     {
       "context": "In most doctrinal and explanatory contexts",
       "rendering": "supporting condition",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the force or effectiveness of the support",
       "rendering": "decisive support",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When translating the positive conditional chain where one development enables the next",
+      "rendering": "supporting condition",
+      "notes": "Keep the enabling role explicit rather than collapsing the term into generic cause-language."
     }
   ],
   "related_terms": [

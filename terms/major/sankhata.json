@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal contrasts with asaṅkhata",
       "rendering": "conditioned",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose highlighting shaped or put-together character",
       "rendering": "constructed",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [
@@ -38,7 +38,7 @@
     {
       "pali": "saṅkhata dhamma",
       "translation": "a conditioned dhamma",
-      "notes": "Useful analytic collocation.",
+      "notes": "Shows an analytic collocation.",
       "source": "SN 43.1"
     },
     {

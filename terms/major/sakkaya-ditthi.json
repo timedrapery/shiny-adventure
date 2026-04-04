@@ -19,12 +19,12 @@
     {
       "context": "In fetter lists and liberation-stage analysis",
       "rendering": "identity view",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In comparative doctrinal prose using more familiar Buddhist-English terminology",
       "rendering": "personality view",
-      "notes": "Allowed alternate for reader orientation."
+      "notes": "Use this as a controlled alternate for reader orientation."
     },
     {
       "context": "In explanatory prose emphasizing appropriation of the heaps as self",

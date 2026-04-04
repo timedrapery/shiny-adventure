@@ -19,12 +19,12 @@
     {
       "context": "In fetter lists and stream-entry analysis",
       "rendering": "grasping at rules and observances",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the holding or attachment side",
       "rendering": "attachment to rules and observances",
-      "notes": "Allowed alternate when the sentence benefits from it."
+      "notes": "Use this as a controlled alternate when the sentence benefits from it."
     },
     {
       "context": "When clarifying the difference between wholesome discipline and liberating misunderstanding",

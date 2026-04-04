@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and list contexts where the term names a raised mode of knowing",
       "rendering": "higher knowing",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where a smoother noun phrase reads better than the more active form",
       "rendering": "higher knowledge",
-      "notes": "Acceptable alternate when the line genuinely benefits from it."
+      "notes": "Use this as a controlled alternate when the line genuinely benefits from it."
     },
     {
       "context": "In formulas such as sayaṃ abhiññā sacchikatvā where personal realization is foregrounded",
@@ -36,7 +36,7 @@
     {
       "context": "In Punnaji-style practical explanation of introspective awakening sequences",
       "rendering": "higher knowing",
-      "notes": "A practical note may mention apperception, but the default rendering remains governed."
+      "notes": "Use this note only when apperception is being mentioned as a practical gloss, not as the default rendering."
     }
   ],
   "related_terms": [

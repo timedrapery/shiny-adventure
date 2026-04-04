@@ -15,23 +15,23 @@
     "escaped"
   ],
   "untranslated_preferred": false,
-  "definition": "Accomplished crossing language: one who has crossed over or gotten to the other side.",
+  "definition": "Accomplished crossing language: crossed over or gotten to the other side.",
   "notes": "The project keeps crossed over as the default because it preserves the completed-crossing force without dissolving the imagery into generic liberation language. Gone beyond remains a controlled alternate when the line is explicitly shore-oriented, and got across is acceptable in plainer explanatory prose. The OSF glossary supports preserving completed-crossing imagery where it blocks drift into generic liberation-language, and AN 4.5 supports tiṇṇa in a far-shore frame. In this repository, tiṇṇa differs from tarati: tarati is the act of crossing, while tiṇṇa is the accomplished state of having crossed. It also differs from vimutti and mutti, which name release or freedom rather than preserving the completed flood-crossing image. Where passages pair tiṇṇa with pāraṅgata or dry-land imagery, translators should let the completed crossing remain audible rather than rewriting the line into abstract spirituality.",
   "context_rules": [
     {
       "context": "In most source-facing and imagery-preserving contexts",
       "rendering": "crossed over",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In shore-oriented formulas where the line stresses having gone beyond",
       "rendering": "gone beyond",
-      "notes": "Allowed alternate when the far-shore image is explicit."
+      "notes": "Use this as a controlled alternate when the far-shore image is explicit."
     },
     {
       "context": "In concise explanatory prose where a lighter phrase is needed",
       "rendering": "got across",
-      "notes": "Allowed alternate when the completed-crossing force remains clear."
+      "notes": "Use this as a controlled alternate when the completed-crossing force remains clear."
     }
   ],
   "related_terms": [

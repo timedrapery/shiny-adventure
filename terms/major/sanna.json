@@ -20,7 +20,7 @@
     {
       "context": "In most analytical and doctrinal contexts",
       "rendering": "recognition",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In direct five-heaps and heap-compound contexts",
@@ -66,7 +66,7 @@
     {
       "pali": "aniccasaññā",
       "translation": "recognition of impermanence",
-      "notes": "Useful meditative-development context without overriding the default.",
+      "notes": "Shows a meditative-development context without overriding the default.",
       "source": "AN 10.60"
     }
   ],

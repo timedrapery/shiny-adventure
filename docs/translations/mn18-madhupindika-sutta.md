@@ -24,7 +24,7 @@
 
 So I heard.
 
-At one time the Buddha was dwelling among the Sakyans at Kapilavatthu, in the
+At one time the Buddha was staying among the Sakyans at Kapilavatthu, in the
 Nigrodha grove.
 
 Then, in the morning, the Buddha robed up and, taking bowl and robe, entered
@@ -48,7 +48,7 @@ leaning on his staff, and said to the Buddha:
 "Friend, I speak in such a way that one does not stand quarreling with anyone
 in the world with its gods, Māras, and Brahmās, among this population with its
 ascetics and brahmins, its gods and humans. And I speak in such a way that
-recognitions do not underlie that brahmin who dwells detached from
+recognitions do not underlie that brahmin living detached from
 sensuality, free from doubt, with uncertainty cut off, with ignorant wanting
 worn away in every kind of becoming.
 
@@ -69,8 +69,8 @@ Then one bhikkhu said to him:
 anyone in the world with its gods, Māras, and Brahmās, among this population
 with its ascetics and brahmins, its gods and humans?
 
-And how is it that recognitions do not underlie the Buddha, that brahmin who
-dwells detached from sensuality, free from doubt, with uncertainty cut off,
+And how is it that recognitions do not underlie the Buddha, that brahmin living
+detached from sensuality, free from doubt, with uncertainty cut off,
 with ignorant wanting worn away in every kind of becoming?"
 
 ### The Buddha's Summary
@@ -139,12 +139,12 @@ over a person ... here these bad unwholesome dhammas cease without remainder.'
 
 I understand the detailed meaning of that brief summary like this:
 
-Dependent on eye and forms, eye-knowing arises. The meeting of the three is
+Dependent on eye and visible forms, eye-knowing arises. The meeting of the three is
 contact. With contact as condition, felt experience. What one feels, one
 recognizes. What one recognizes, one thinks about. What one thinks about, one
 proliferates about. From what one proliferates about as the source, the
-recognitions and notions of proliferation sweep over a person with regard to
-forms knowable by the eye in the past, future, and present.
+recognitions and notions of proliferation sweep over a person when it comes to
+visible forms knowable by the eye in the past, future, and present.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
@@ -153,7 +153,7 @@ Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, felt experience. What one feels, one
 recognizes. What one recognizes, one thinks about. What one thinks about, one
 proliferates about. From what one proliferates about as the source, the
-recognitions and notions of proliferation sweep over a person with regard to
+recognitions and notions of proliferation sweep over a person when it comes to
 dhammas knowable by the mind in the past, future, and present."
 
 ### When The Process Can Be Designated
@@ -162,7 +162,7 @@ dhammas knowable by the mind in the past, future, and present."
 designation-language. The point is not merely that something exists, but that
 it can be picked out and named once the upstream conditions are there.*
 
-"Friends, where there are eye, forms, and eye-knowing, it is possible to
+"Friends, where there are eye, visible forms, and eye-knowing, it is possible to
 designate contact.
 
 Where contact can be designated, it is possible to designate felt experience.
@@ -193,7 +193,7 @@ of the recognitions and notions of proliferation."
 
 ### When The Process Cannot Be Designated
 
-"Friends, where there are no eye, no forms, and no eye-knowing, it is not
+"Friends, where there are no eye, no visible forms, and no eye-knowing, it is not
 possible to designate contact.
 
 Where contact cannot be designated, it is not possible to designate felt

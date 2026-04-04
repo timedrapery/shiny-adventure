@@ -19,12 +19,12 @@
     {
       "context": "In most ethical and practical contexts",
       "rendering": "heedfulness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing careful steadiness in practice",
       "rendering": "carefulness",
-      "notes": "Acceptable alternate when the line benefits from plainer English."
+      "notes": "Use this as a controlled alternate when the line benefits from plainer English."
     },
     {
       "context": "In explanatory prose highlighting sustained application",
@@ -34,7 +34,7 @@
     {
       "context": "When the passage contrasts the path of the deathless with the path of heedlessness",
       "rendering": "heedfulness",
-      "notes": "Preserve the sharp ethical and existential contrast carried by the term."
+      "notes": "Keep the sharp ethical and existential contrast explicit."
     }
   ],
   "related_terms": [

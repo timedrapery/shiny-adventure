@@ -20,12 +20,12 @@
     {
       "context": "In most translations within this project",
       "rendering": "bhikkhu",
-      "notes": "Default singular project rendering."
+      "notes": "Use this as the default singular rendering."
     },
     {
       "context": "When the plural is required in normal English prose",
       "rendering": "bhikkhus",
-      "notes": "Preferred plural form."
+      "notes": "Use this as the preferred plural form."
     },
     {
       "context": "On first occurrence or in explanatory prose where a gloss is needed",
@@ -41,14 +41,14 @@
   "example_phrases": [
     {
       "pali": "evaṃ me sutaṃ ... bhikkhave",
-      "translation": "thus I heard ... bhikkhus",
+      "translation": "so I heard ... bhikkhus",
       "notes": "Shows the preferred plural form in discourse address.",
       "source": "MN 10"
     },
     {
       "pali": "bhikkhu satova assasati",
       "translation": "the bhikkhu breathes in with sati",
-      "notes": "Useful for source-facing translation with an untranslated headword.",
+      "notes": "Shows a source-facing line with an untranslated headword.",
       "source": "MN 118"
     }
   ],

@@ -20,17 +20,17 @@
     {
       "context": "In most doctrinal and practice contexts",
       "rendering": "establishment of sati",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing the active practice of bringing sati into place",
       "rendering": "establishing sati",
-      "notes": "Acceptable alternate when the verbal movement matters more."
+      "notes": "Use this as a controlled alternate when the verbal movement matters more."
     },
     {
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly focused attention",
       "rendering": "introversion of attention",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In OSF publication prose linking the framework directly with anapanasati practice",
@@ -39,16 +39,21 @@
     }
   ],
   "related_terms": [
+    "cattaro-satipatthana",
+    "cittanupassana",
     "ānāpānasati",
     "dhamma",
+    "dhammanupassana",
     "kaya",
+    "kayanupassana",
     "kāya",
     "kāyagatā sati",
     "samma-sati",
     "sampajanna",
     "sampajañña",
     "sati",
-    "vedanā"
+    "vedanā",
+    "vedananupassana"
   ],
   "example_phrases": [
     {

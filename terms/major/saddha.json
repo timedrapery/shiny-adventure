@@ -19,12 +19,12 @@
     {
       "context": "In most practical and doctrinal contexts",
       "rendering": "confidence",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing reliance or trust in a talker or path",
       "rendering": "trust",
-      "notes": "Acceptable alternate when that relational tone is central."
+      "notes": "Use this as a controlled alternate when that relational tone is central."
     },
     {
       "context": "When the passage emphasizes a motivating trust that energizes practice",

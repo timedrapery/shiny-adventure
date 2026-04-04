@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "Edible food as the physical nutriment sustaining embodied life.",
-  "notes": "The project prefers edible-food nutriment because it remains transparent to the Pāli compound while distinguishing this nutriment from the subtler three. Physical nutriment is acceptable in explanatory prose when English needs a smoother phrase. The OSF glossary supports this by keeping kabaḷīkārāhāra explicit within the four-nutriments framework rather than flattening it into generic materialism.",
+  "notes": "The project keeps edible-food nutriment as the default because it stays transparent to the Pāli compound while distinguishing this nutriment from the subtler three. Physical nutriment remains a controlled alternate when English needs a smoother phrase, but the term should not collapse into generic food-talk or materialism language. This entry needs to stay coordinated with āhāra as the broad category and with the other three nutriments as one member of the same doctrinal set. The OSF glossary supports keeping kabaḷīkārāhāra explicit inside the four-nutriments framework.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
       "rendering": "edible-food nutriment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing bodily sustenance",
       "rendering": "physical nutriment",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When contrasting this nutriment with contact, mental intention, and knowing",
+      "rendering": "edible-food nutriment",
+      "notes": "Keep the specifically edible and bodily side explicit."
     }
   ],
   "related_terms": [

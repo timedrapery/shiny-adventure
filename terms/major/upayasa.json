@@ -19,12 +19,12 @@
     {
       "context": "In the standard suffering formula and similar contexts",
       "rendering": "despair",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing oppressive burden rather than emotional collapse",
       "rendering": "affliction",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "In highly intensified descriptions of suffering",

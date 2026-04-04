@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the canonical five-heap pattern",
       "rendering": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose using familiar aggregate terminology",
       "rendering": "whatever form ... feeling ... perception ... formations ... consciousness",
-      "notes": "Allowed alternate for orientation."
+      "notes": "Use this as a controlled alternate for orientation."
     }
   ],
   "related_terms": [

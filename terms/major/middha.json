@@ -19,12 +19,12 @@
     {
       "context": "In explanation of the hindrance pair thīna-middha",
       "rendering": "drowsiness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In comparative doctrinal prose using standard Buddhist-English terminology",
       "rendering": "torpor",
-      "notes": "Allowed alternate for continuity with established terminology."
+      "notes": "Use this as a controlled alternate for continuity with established terminology."
     },
     {
       "context": "In explanatory prose emphasizing the bodily-sinking quality",

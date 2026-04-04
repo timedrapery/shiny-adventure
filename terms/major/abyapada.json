@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disposition free from ill will, especially as a component of right attitude.",
-  "notes": "The project prefers non-ill-will in doctrinal contexts because it stays transparent to the Pāli structure and links cleanly to byāpāda. Goodwill is acceptable in more fluid prose when the phrase would otherwise sound overly technical. The OSF glossary supports this by keeping abyāpāda closely aligned with the path-factor framework rather than broadening it into a vague kindness term.",
+  "notes": "The project keeps non-ill-will as the default in path-factor contexts because the negative form matters here: it stays visibly paired with byāpāda and keeps the right-intention triad aligned with nekkhamma and avihiṃsā. Goodwill remains a controlled alternate when a smoother English noun helps, but the term should not drift into generic kindness language. This entry stays distinct from mettā, which is broader friendliness, and from avihiṃsā, which stresses non-harming. The OSF glossary supports keeping abyāpāda inside the practical right-intention framework rather than expanding it into a general virtue label.",
   "context_rules": [
     {
       "context": "In path-factor and analytical contexts",
       "rendering": "non-ill-will",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a smoother English noun is useful",
       "rendering": "goodwill",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When contrasting the right-intention triad or the byāpāda family",
+      "rendering": "non-ill-will",
+      "notes": "Keep the direct contrast with ill will explicit."
     }
   ],
   "related_terms": [

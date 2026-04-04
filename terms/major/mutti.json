@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing and formula contexts where the shorter noun mutti is present",
       "rendering": "freedom",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose explicitly tying mutti back into the vimutti family",
       "rendering": "release",
-      "notes": "Allowed alternate when the family relation is the point."
+      "notes": "Use this as a controlled alternate when the family relation is the point."
     },
     {
       "context": "In formula tails such as cāgo paṭinissaggo mutti anālayo",

@@ -23,12 +23,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "flood",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing force or surge",
       "rendering": "torrent",
-      "notes": "Allowed alternate when the stronger motion is the point."
+      "notes": "Use this as a controlled alternate when the stronger motion is the point."
     },
     {
       "context": "In crossing, escape, or swept-along contexts",

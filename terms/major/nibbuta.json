@@ -21,17 +21,17 @@
     {
       "context": "In most source-facing and consummation-side adjectival contexts",
       "rendering": "cooled",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the fire-going-out image",
       "rendering": "quenched",
-      "notes": "Allowed alternate when the extinguishing image itself is the point."
+      "notes": "Use this as a controlled alternate when the extinguishing image itself is the point."
     },
     {
       "context": "In plain explanatory prose where a lighter phrase is needed",
       "rendering": "cooled down",
-      "notes": "Allowed alternate, but not the default."
+      "notes": "Use this as a controlled alternate, but not the default."
     },
     {
       "context": "When the adjective is closely tied to nibbāna-language nearby",

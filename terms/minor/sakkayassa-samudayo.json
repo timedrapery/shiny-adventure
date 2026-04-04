@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the formula",
       "rendering": "the arising of identity",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a fuller phrase is needed",
       "rendering": "the arising of personal identity",
-      "notes": "Allowed alternate for clarification."
+      "notes": "Use this as a controlled alternate for clarification."
     }
   ],
   "related_terms": [

@@ -13,6 +13,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Regression tests", [sys.executable, "-m", "unittest", "discover", "-s", "tests"]),
     ("Documentation integrity", [sys.executable, "scripts/check_docs_integrity.py"]),
+    ("Translation formula consistency", [sys.executable, "scripts/check_translation_formula_consistency.py"]),
+    ("Voice consistency audit", [sys.executable, "scripts/voice_consistency_audit.py"]),
     ("Schema validation", [sys.executable, "scripts/validate_terms.py"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),
@@ -43,12 +45,19 @@ CHECKS: tuple[tuple[str, list[str]], ...] = (
 )
 
 
+def format_command(command: list[str]) -> str:
+    return " ".join(command)
+
+
 def main() -> int:
     for label, command in CHECKS:
         print(f"==> {label}")
         result = subprocess.run(command, cwd=REPO_ROOT)
         if result.returncode != 0:
-            print(f"{label} failed with exit code {result.returncode}.")
+            print(
+                f"{label} failed with exit code {result.returncode}. "
+                f"Command: {format_command(command)}"
+            )
             return result.returncode
         print()
     print("All checks passed.")

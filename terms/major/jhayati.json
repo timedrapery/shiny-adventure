@@ -21,17 +21,17 @@
     {
       "context": "In direct practical instruction connected with jhāna and samādhi",
       "rendering": "think like this",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In smoother English prose where the instruction still needs to sound practical",
       "rendering": "think in this way",
-      "notes": "Allowed alternate when the sentence benefits from it."
+      "notes": "Use this as a controlled alternate when the sentence benefits from it."
     },
     {
       "context": "In explanatory prose where the contemplative side needs a little more weight without becoming mystical",
       "rendering": "contemplate in this way",
-      "notes": "Controlled alternate, not the default rendering."
+      "notes": "Use this as a controlled alternate, not as the default rendering."
     }
   ],
   "related_terms": [

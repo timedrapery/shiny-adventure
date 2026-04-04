@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "Sympathetic concern that responds to another's condition with humane care.",
-  "notes": "Project preference is sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Kind concern remains acceptable when explanatory prose needs a fuller phrase. The OSF glossary likewise treats anukampā as humane sympathetic concern rather than as sentimental pity, which supports the current handling.",
+  "notes": "The project prefers sympathy because it is plain contemporary English and retains the felt responsive quality of the term without overloading it with technical or sentimental baggage. Kind concern remains acceptable when explanatory prose needs a fuller phrase. The OSF glossary likewise treats anukampā as humane sympathetic concern rather than as sentimental pity, which supports the current handling.",
   "context_rules": [
     {
       "context": "In most practical and narrative contexts",
       "rendering": "sympathy",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the responsive and caring dimension needs more emphasis",
       "rendering": "kind concern",
-      "notes": "Acceptable alternate when sympathy sounds too brief."
+      "notes": "Use this as a controlled alternate when sympathy sounds too brief."
     }
   ],
   "related_terms": [

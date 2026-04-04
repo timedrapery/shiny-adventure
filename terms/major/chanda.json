@@ -15,12 +15,12 @@
   ],
   "untranslated_preferred": false,
   "definition": "A wanting, intention, or directed interest that can be wholesome, neutral, or unwholesome depending on context.",
-  "notes": "The project keeps desire as the default because chanda really does name wanting or inclination, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically blameworthy. In wholesome practice contexts, chanda often names the willing engagement or intentional drive that supports cultivation, which is why motivation and interest remain controlled alternates. In this repository, chanda must stay distinct from taṇhā, which is ignorant wanting; from rāga, which is passion or affective coloring; from nandī, which is relishing or delighting; and from upādāna, which is appropriation or taking personally. Translators should not let English desire silently drift into craving by habit. The OSF glossary supports keeping desire as the house default while protecting wholesome and practice-facing uses from being pulled into the taṇhā family, and SN 51.13 supports the term's wholesome practical role in the bases of power.",
+  "notes": "The project keeps desire as the default because chanda really does name wanting or inclination, but the entry must carry the rule that chanda is broader than taṇhā and is not automatically blameworthy. In wholesome practice contexts, chanda often names the willing engagement or intentional drive that supports development, which is why motivation and interest remain controlled alternates. In this repository, chanda must stay distinct from taṇhā, which is ignorant wanting; from rāga, which is passion or affective coloring; from nandī, which is relishing or delighting; and from upādāna, which is appropriation or taking personally. Translators should not let English desire silently drift into craving by habit. The OSF glossary supports keeping desire as the house default while protecting wholesome and practice-facing uses from being pulled into the taṇhā family, and SN 51.13 supports the term's wholesome practical role in the bases of power.",
   "context_rules": [
     {
       "context": "In general doctrinal contexts where the term simply names wanting or inclination",
       "rendering": "desire",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In wholesome practice contexts where English desire would sound misleadingly close to craving",
@@ -30,7 +30,7 @@
     {
       "context": "In lighter explanatory prose where the sense is one of willingness or directed engagement",
       "rendering": "interest",
-      "notes": "Acceptable alternate if the volitional pull remains audible."
+      "notes": "Use this as a controlled alternate if the volitional pull remains audible."
     },
     {
       "context": "In compounds or contexts already governed by a narrower negative framework such as kāmacchanda",
@@ -59,7 +59,7 @@
     {
       "pali": "kusalachando",
       "translation": "wholesome desire",
-      "notes": "Useful reminder that the term is not synonymous with taṇhā.",
+      "notes": "Shows that the term is not synonymous with taṇhā.",
       "source": "SN 51.13"
     }
   ],

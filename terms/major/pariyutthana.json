@@ -21,17 +21,17 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "manifestation",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the rising-up motion",
       "rendering": "upsurge",
-      "notes": "Allowed alternate when the movement into activity is the point."
+      "notes": "Use this as a controlled alternate when the movement into activity is the point."
     },
     {
       "context": "In prose emphasizing how the state overtakes the mind",
       "rendering": "taking over",
-      "notes": "Allowed alternate when the active takeover needs to be explicit."
+      "notes": "Use this as a controlled alternate when the active takeover needs to be explicit."
     }
   ],
   "related_terms": [

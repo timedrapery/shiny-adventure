@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "Release described in terms of discernment, often paired with release of mind.",
-  "notes": "The project prefers release through discernment because it aligns with the house preference for paññā-language as discernment rather than wisdom as a default label. Release through understanding is acceptable in explanatory prose when discernment feels too technical for the sentence. The OSF glossary likewise keeps paññāvimutti transparent as the discernment-side liberation term paired with cetovimutti, which supports the current policy.",
+  "notes": "The project keeps release through discernment as the default because it aligns with the house preference for paññā-language as discernment rather than wisdom as a default label. Release through understanding remains a controlled alternate when discernment feels too technical for a local sentence. This entry must stay distinct from cetovimutti, which names the mind-side release rather than the discernment-side emphasis. In paired formulas, keep both halves visible instead of flattening them into one generic liberation word. The OSF glossary supports this transparent paired handling.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "release through discernment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a slightly lighter English phrase is needed",
       "rendering": "release through understanding",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "In paired cetovimutti/paññāvimutti formulas",
+      "rendering": "release through discernment",
+      "notes": "Keep the discernment-side half explicit rather than flattening both compounds into generic liberation language."
     }
   ],
   "related_terms": [

@@ -19,17 +19,17 @@
     {
       "context": "In fetter lists and liberation-stage analysis",
       "rendering": "resistance",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the pushing-away or repelling movement",
       "rendering": "repulsion",
-      "notes": "Allowed alternate when the line benefits from it."
+      "notes": "Use this as a controlled alternate when the line benefits from it."
     },
     {
       "context": "When the affective aversive tone is central but hatred would be too strong",
       "rendering": "aversion",
-      "notes": "Acceptable alternate in practical prose."
+      "notes": "Use this as a controlled alternate in practical prose."
     }
   ],
   "related_terms": [

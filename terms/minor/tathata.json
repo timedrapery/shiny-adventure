@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and translator-facing contexts",
       "rendering": "suchness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a more literal form reads better",
       "rendering": "thusness",
-      "notes": "Allowed alternate when the sentence benefits from a closer formal echo."
+      "notes": "Use this as a controlled alternate when the sentence benefits from a closer formal echo."
     },
     {
       "context": "In practical Buddhadasa-line explanation cutting appropriation or overreaction",

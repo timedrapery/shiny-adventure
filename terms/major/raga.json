@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "passion",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing sticking or adhesive pull rather than heat",
       "rendering": "attachment",
-      "notes": "Acceptable alternate when the line wants the sticking dimension."
+      "notes": "Use this as a controlled alternate when the line wants the sticking dimension."
     },
     {
       "context": "In close explanatory prose drawing out the image of the mind being tinged or dyed",
@@ -57,7 +57,7 @@
     {
       "pali": "rāgānusaya",
       "translation": "the underlying tendency toward passion",
-      "notes": "Useful bridge to the residue family without collapsing the categories.",
+      "notes": "Shows the bridge to the residue family without collapsing the categories.",
       "source": "MN 64"
     }
   ],

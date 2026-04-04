@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the fivefold set",
       "rendering": "five heaps",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose using familiar Buddhist-English terminology",
       "rendering": "five aggregates",
-      "notes": "Allowed alternate for orientation, not the project default."
+      "notes": "Use this as a controlled alternate for orientation, not the project default."
     }
   ],
   "related_terms": [

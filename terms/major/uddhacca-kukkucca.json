@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "Distraction through agitation, unsettledness, and regretful mental churn.",
-  "notes": "Project preference is agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling. The OSF glossary confirms agitated distraction as the house default inside the five-distractions framework and preserves restlessness and remorse as the explanatory alternate.",
+  "notes": "The project prefers agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling. The OSF glossary confirms agitated distraction as the house default inside the five-distractions framework and preserves restlessness and remorse as the explanatory alternate.",
   "context_rules": [
     {
       "context": "In the five-distractions framework",
       "rendering": "agitated distraction",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose clarifying the two-part compound",
       "rendering": "restlessness and remorse",
-      "notes": "Acceptable alternate when the standard pair is clearer."
+      "notes": "Use this as a controlled alternate when the standard pair is clearer."
     },
     {
       "context": "When the passage emphasizes unsettledness as a disturbance of composure",
@@ -49,7 +49,7 @@
     {
       "pali": "ajjhattaṃ vūpasanta-citto",
       "translation": "with the mind inwardly settled",
-      "notes": "Useful contrast to the agitated condition named by the term.",
+      "notes": "Shows the contrast to the agitated condition named by the term.",
       "source": "MN 39"
     }
   ],

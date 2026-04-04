@@ -2,6 +2,11 @@
 
 This page provides task-based command patterns for maintainers and contributors. For a script-by-script index, see [../scripts/README.md](../scripts/README.md).
 
+If you are not sure where the underlying policy lives, read
+[documentation-guide.md](documentation-guide.md) first. If you are working with
+derived materials under `docs/generated/`, also read
+[generated/generated-docs-guide.md](generated/generated-docs-guide.md).
+
 ## Validate A Term Change
 
 After editing live records in `terms/`, run:
@@ -69,6 +74,26 @@ python scripts/check_docs_integrity.py
 
 Use this after editing Markdown, issue templates, or repository-surface metadata such as `CITATION.cff`.
 
+## Audit Modern English Register
+
+```bash
+python scripts/modern_english_audit.py
+```
+
+Use this after broad wording changes in `terms/`, translation docs, or policy
+docs when you want a quick report of likely archaic or elevated diction that
+should be reviewed before merge.
+
+## Audit Voice Consistency
+
+```bash
+python scripts/voice_consistency_audit.py
+```
+
+Use this after changing `notes`, `context_rules`, `example_phrases`, or
+contributor docs when you want a quick report of mixed note templates,
+fragmentary example notes, or other voice-pattern drift.
+
 ## Inspect Repository Health
 
 Generate the default human-readable report:
@@ -128,6 +153,8 @@ python scripts/backfill_policy_metadata.py --check-only
 ```
 
 Use this workflow conservatively. Placeholder scaffolding is only a drafting aid and still requires editorial completion.
+If the output leaves `Repository editorial record` in place, refine that
+provenance before treating the entry as review-ready.
 
 ## Candidate Intake Workflow
 
@@ -150,6 +177,27 @@ python scripts/scaffold_candidate_terms.py --priority create_now
 ```
 
 Candidate outputs belong in review flow first. Do not promote them into `terms/` until their editorial status, authority basis, and family impact have been checked.
+
+Directory-level guidance for those outputs lives in
+[../candidates/README.md](../candidates/README.md).
+
+## Regenerate Reference Material
+
+Regenerate the flat term indexes:
+
+```bash
+python scripts/term_directory_navigation.py --write-docs
+```
+
+Regenerate a translator-facing cluster surface after cluster-level policy work:
+
+```bash
+python scripts/path_factor_cluster_report.py --write-docs
+python scripts/four_noble_truths_cluster_report.py --write-docs
+```
+
+Use the relevant cluster script for the family you changed. Generated files are
+reference outputs, not the source of truth.
 
 ## Run Targeted Tests
 

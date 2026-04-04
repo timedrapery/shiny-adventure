@@ -20,12 +20,12 @@
     {
       "context": "In most meditative-development and bojjhaṅga contexts",
       "rendering": "delight",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing affective brightness",
       "rendering": "joy",
-      "notes": "Allowed alternate when delight sounds too restrained."
+      "notes": "Use this as a controlled alternate when delight sounds too restrained."
     },
     {
       "context": "In technical discussion of stronger meditative uplift",
@@ -63,7 +63,7 @@
     {
       "pali": "pītiyā ca virāgā",
       "translation": "with the fading of delight",
-      "notes": "Useful for showing that pīti is not the endpoint of the sequence.",
+      "notes": "Shows that pīti is not the endpoint of the sequence.",
       "source": "DN 2"
     }
   ],

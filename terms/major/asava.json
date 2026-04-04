@@ -23,12 +23,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "outflow",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing contamination rather than the flowing image",
       "rendering": "taint",
-      "notes": "Allowed alternate when the contaminating force is more important than the image of running on."
+      "notes": "Use this as a controlled alternate when the contaminating force is more important than the image of running on."
     },
     {
       "context": "In translator-facing prose that needs a more technical English label without using archaic canker-language",

@@ -22,17 +22,17 @@
     {
       "context": "In most doctrinal contrasts with saṅkhata",
       "rendering": "unconditioned",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the contrast with what is constructed",
       "rendering": "unconstructed",
-      "notes": "Acceptable alternate when that contrast needs to remain explicit."
+      "notes": "Use this as a controlled alternate when that contrast needs to remain explicit."
     },
     {
       "context": "In prose where fabrication-language is already foregrounded nearby",
       "rendering": "unfabricated",
-      "notes": "Allowed alternate when it clearly helps and does not import alien metaphysics."
+      "notes": "Use this as a controlled alternate when it clearly helps and does not import alien metaphysics."
     },
     {
       "context": "In asaṅkhata-dhātu compounds and formulas",

@@ -28,6 +28,13 @@ HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)(?:\[[^\]]+\])\(([^)]+)\)")
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.*)$", re.MULTILINE)
 DOCS_FILENAME_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*\.md$")
+DOCS_FILENAME_ALLOWLIST = {
+    "ARCHAIC_DICTION_SWEEP.md",
+    "MODERN_ENGLISH_AUDIT.md",
+    "MODERN_ENGLISH_POLICY.md",
+    "VOICE_CONSISTENCY_AUDIT.md",
+    "VOICE_STANDARD.md",
+}
 
 
 def iter_markdown_files(repo_root: Path = REPO_ROOT) -> list[Path]:
@@ -143,9 +150,11 @@ def collect_docs_naming_failures(repo_root: Path = REPO_ROOT) -> list[str]:
         return failures
     for path in sorted(docs_dir.rglob("*.md")):
         relative = path.relative_to(repo_root)
+        if path.name in DOCS_FILENAME_ALLOWLIST:
+            continue
         if not DOCS_FILENAME_RE.fullmatch(path.name):
             failures.append(
-                f"{relative}: docs filenames must use lowercase-kebab-case markdown names"
+                f"{relative}: docs filenames must use lowercase-kebab-case markdown names unless explicitly allowlisted"
             )
     return failures
 

@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and translator-facing contexts",
       "rendering": "emptiness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In Buddhadasa-line practical prose about void mind or a mind empty of selfing",
       "rendering": "voidness",
-      "notes": "Source-backed alternate when the voidness idiom itself is carrying the explanation."
+      "notes": "Use this as a source-backed alternate when the voidness idiom itself is carrying the explanation."
     },
     {
       "context": "When the passage explicitly contrasts emptiness with self and ownership",
@@ -74,7 +74,7 @@
     },
     {
       "pali": "suññataṃ upasampajja viharati",
-      "translation": "one dwells having entered emptiness",
+      "translation": "one enters and remains in emptiness",
       "notes": "Shows suññatā as a governed doctrinal-practical term rather than abstract philosophy.",
       "source": "MN 121"
     }

@@ -19,12 +19,12 @@
     {
       "context": "In most doctrinal and practice contexts",
       "rendering": "insight knowledge",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the knowing produced by direct clear seeing",
       "rendering": "knowledge through seeing clearly",
-      "notes": "Allowed alternate when the sentence benefits from unpacking."
+      "notes": "Use this as a controlled alternate when the sentence benefits from unpacking."
     },
     {
       "context": "When discussing later technical systems of named insight knowledges",

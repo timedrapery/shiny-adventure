@@ -24,7 +24,7 @@
     {
       "context": "In most doctrinal and practical contexts where the affective or experiential center is meant",
       "rendering": "feeling mind",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where emotional tone and cognition are both clearly in play",
@@ -39,12 +39,12 @@
     {
       "context": "In Punnaji-style meditation instruction emphasizing shifting affective tone",
       "rendering": "mood",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In OSF-glossary style explanatory prose about the affective center of experience",
       "rendering": "center of consciousness",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Buddhadasa-style practice prose contrasting ordinary mind with void mind",
@@ -62,6 +62,7 @@
     "adhicitta",
     "anapanasati",
     "cetovimutti",
+    "cittanupassana",
     "dhamma",
     "iddhipada",
     "kusala-dhamma",

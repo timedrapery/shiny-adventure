@@ -26,12 +26,12 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "seclusion",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In Buddhadasa-style explanation emphasizing a graduated practice of body, mind, and spirit",
       "rendering": "solitude",
-      "notes": "Source-backed alternate when the broader felt sense of separation from disturbance is central."
+      "notes": "Use this as a source-backed alternate when the broader felt sense of separation from disturbance is central."
     }
   ],
   "related_terms": [

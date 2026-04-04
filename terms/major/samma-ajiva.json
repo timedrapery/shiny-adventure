@@ -21,22 +21,22 @@
     {
       "context": "In path-factor and ethical contexts",
       "rendering": "right livelihood",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose focusing on livelihood that accords with the path",
       "rendering": "appropriate livelihood",
-      "notes": "Acceptable alternate when the line reads better."
+      "notes": "Use this as a controlled alternate when the line reads better."
     },
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious lifestyle",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
       "rendering": "right noble livelihood",
-      "notes": "Source-backed heading style retained for close alignment with the quotes draft."
+      "notes": "Use this only when close alignment with the quotes draft matters."
     }
   ],
   "related_terms": [
@@ -58,7 +58,7 @@
     {
       "pali": "micchā-ājīva",
       "translation": "wrong livelihood",
-      "notes": "Useful contrast showing the factor's ethical polarity.",
+      "notes": "Shows the factor's ethical polarity by contrast.",
       "source": "MN 117"
     }
   ],

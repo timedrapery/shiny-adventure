@@ -21,7 +21,7 @@
     {
       "context": "In technical doctrinal contexts such as sakkāya-diṭṭhi, fetter analysis, and direct heap analysis",
       "rendering": "identity",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In formulaic contexts such as katamo ca, bhikkhave, sakkāyo? pañcupādānakkhandhā",
@@ -31,7 +31,7 @@
     {
       "context": "In explanatory prose where plain identity may sound too abstract",
       "rendering": "personal identity",
-      "notes": "Allowed alternate for clarification."
+      "notes": "Use this as a controlled alternate for clarification."
     },
     {
       "context": "In general-audience translation where the personalizing force needs to be audible without collapsing into self",
@@ -70,7 +70,7 @@
     {
       "pali": "sakkāyassa samudayo",
       "translation": "the arising of identity",
-      "notes": "Useful for passages that frame the term dynamically rather than as a static label.",
+      "notes": "Shows the term framed dynamically rather than as a static label.",
       "source": "SN 22.105"
     },
     {

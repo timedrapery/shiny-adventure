@@ -21,22 +21,22 @@
     {
       "context": "In most doctrinal and meditative contexts",
       "rendering": "directness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the relation to cetaso ekodibhāva or gathered samādhi needs to be explicit",
       "rendering": "unification",
-      "notes": "Allowed alternate in explanatory prose."
+      "notes": "Use this as a controlled alternate in explanatory prose."
     },
     {
       "context": "When a slightly more literal noun is needed without losing the practical force",
       "rendering": "singleness",
-      "notes": "Acceptable alternate when directness would read too interpretively for the line."
+      "notes": "Use this as a controlled alternate when directness would read too interpretively for the line."
     },
     {
       "context": "In first-jhāna and ānāpānasati explanation where the point is not beating around the bush",
       "rendering": "single aim",
-      "notes": "Useful when the line needs explicit goal-directed practical texture."
+      "notes": "Use this when the line needs explicit goal-directed practical texture."
     }
   ],
   "related_terms": [

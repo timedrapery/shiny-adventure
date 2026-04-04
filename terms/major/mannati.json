@@ -21,7 +21,7 @@
     {
       "context": "In most source-facing contexts where the verb marks taking something as something",
       "rendering": "takes to be",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In the structured MN 1 selfing pattern where the English needs the local self-reference spelled out",
@@ -31,7 +31,7 @@
     {
       "context": "In source-critical or comparative doctrinal prose where the familiar technical label is useful",
       "rendering": "conceives",
-      "notes": "Allowed alternate, but do not let it become the unexamined default."
+      "notes": "Use this as a controlled alternate, but do not let it become the unexamined default."
     },
     {
       "context": "When the grammar is broader and English needs a slightly less forceful phrase",
@@ -79,10 +79,10 @@
       "scope": "Supports the selfing, ownership, and delight pattern that the verb governs in the root-sequence discourse."
     },
     {
-      "source": "Repository editorial record",
-      "priority": "secondary",
+      "source": "MN 1 translation notes",
+      "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Supports keeping maññati distinct from generic thinking and aligning it with selfing, appropriation, and proliferation."
+      "scope": "Supports the repository's house decision from the MN 1 translation pass to keep maññati distinct from generic thinking and align it with selfing, appropriation, and proliferation."
     }
   ],
   "translation_policy": {

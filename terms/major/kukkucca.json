@@ -19,12 +19,12 @@
     {
       "context": "In the hindrance compound uddhacca-kukkucca",
       "rendering": "remorse",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing repetitive troubled regret",
       "rendering": "anxious regret",
-      "notes": "Allowed alternate when plain remorse sounds too static."
+      "notes": "Use this as a controlled alternate when plain remorse sounds too static."
     },
     {
       "context": "In practical prose emphasizing agitated mental preoccupation",

@@ -20,12 +20,12 @@
     {
       "context": "In most doctrinal and task-language contexts",
       "rendering": "full understanding",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where a slightly more formal English noun phrase reads better",
       "rendering": "complete understanding",
-      "notes": "Acceptable alternate when the line genuinely benefits from it."
+      "notes": "Use this as a controlled alternate when the line genuinely benefits from it."
     },
     {
       "context": "In explanatory prose emphasizing the complete grasp of what must be known",

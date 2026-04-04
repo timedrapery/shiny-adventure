@@ -18,15 +18,15 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "noble disciple",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing transformation by the path",
       "rendering": "ennobled disciple",
-      "notes": "Use sparingly."
+      "notes": "Use this sparingly."
     },
     {
-      "context": "When the passage contrasts one who has seen clearly with the unlearned ordinary person",
+      "context": "When the passage contrasts someone who has seen clearly with the unlearned ordinary person",
       "rendering": "noble disciple",
       "notes": "Keep the classificatory and doctrinal contrast explicit."
     }
@@ -54,7 +54,7 @@
     {
       "pali": "ariyasāvakassa diṭṭhi",
       "translation": "the view of a noble disciple",
-      "notes": "Useful for the shift in understanding that separates the noble disciple from the ordinary person.",
+      "notes": "Shows the shift in understanding that separates the noble disciple from the ordinary person.",
       "source": "MN 9"
     }
   ],

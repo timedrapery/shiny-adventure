@@ -14,17 +14,27 @@
   ],
   "untranslated_preferred": false,
   "definition": "Ignorant wanting directed toward ending, annihilating, or escaping a mode of becoming.",
-  "notes": "The project prefers ignorant wanting for non-becoming so the compound inherits the house rule for taṇhā while staying explicit about vibhava. Craving for annihilation and craving for non-becoming remain acceptable alternates when explanatory prose needs stronger continuity with familiar Buddhist-English terminology. The OSF glossary supports this house handling of taṇhā compounds by keeping the craving category explicit while allowing familiar alternates in explanatory prose.",
+  "notes": "The project keeps ignorant wanting for non-becoming as the default so the compound inherits the house rule for taṇhā while staying explicit about vibhava. Craving for annihilation and craving for non-becoming remain controlled alternates when explanatory prose needs stronger continuity with familiar Buddhist-English terminology. This term should stay coordinated with kāmataṇhā and bhavataṇhā as one member of the standard threefold taṇhā family. It also stays distinct from nirodha and virāga: the term names wanting to end, erase, or get out of becoming, not the actual quenching or fading of the problem. The OSF glossary supports keeping the craving family explicit rather than letting non-becoming language masquerade as release.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
       "rendering": "ignorant wanting for non-becoming",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the annihilating impulse",
       "rendering": "craving for annihilation",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "In prose where continuity with bhava-language matters more than maximal explicitness",
+      "rendering": "craving for non-becoming",
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When translating the classic threefold taṇhā list alongside kāmataṇhā and bhavataṇhā",
+      "rendering": "ignorant wanting for non-becoming",
+      "notes": "Keep the family wording aligned across the whole set."
     }
   ],
   "related_terms": [

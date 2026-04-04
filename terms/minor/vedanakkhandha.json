@@ -17,12 +17,12 @@
     {
       "context": "In direct heap analysis",
       "rendering": "felt-experience heap",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In brief explanatory prose where the headword has already been explained",
       "rendering": "feeling heap",
-      "notes": "Allowed alternate for compactness."
+      "notes": "Use this as a controlled alternate for compactness."
     }
   ],
   "related_terms": [

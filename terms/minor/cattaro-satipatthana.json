@@ -1,14 +1,48 @@
 {
-  "term": "cattaro-satipatthana",
+  "term": "cattāro satipaṭṭhānā",
   "normalized_term": "cattaro-satipatthana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "four foundations of remembering",
-  "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
-  "status": "reviewed",
-  "literal_meaning": "four foundations of remembering",
+  "literal_meaning": "four establishments of sati",
+  "preferred_translation": "four establishments of sati",
+  "alternative_translations": [
+    "four establishments of remembering",
+    "four satipatthanas"
+  ],
+  "discouraged_translations": [
+    "four foundations of mindfulness"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The fourfold satipaṭṭhāna framework of body, felt experience, feeling mind, and dhammas.",
+  "notes": "Use this record for the collective satipaṭṭhāna framework. The project keeps establishments of sati to align with the headword satipaṭṭhāna record and to avoid reimporting foundation-of-mindfulness language.",
+  "related_terms": [
+    "satipatthana",
+    "sati",
+    "kayanupassana",
+    "vedananupassana",
+    "cittanupassana",
+    "dhammanupassana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cattāro satipaṭṭhānā",
+      "translation": "four establishments of sati",
+      "notes": "Collective practice framework heading.",
+      "source": "DN 22"
+    }
+  ],
+  "sutta_references": [
+    "DN 22",
+    "MN 10",
+    "MN 118"
+  ],
   "tags": [
     "core-doctrine",
     "core-practice"
-  ]
+  ],
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use for the collective satipaṭṭhāna framework in governed doctrinal and practice contexts.",
+    "when_not_to_apply": "Do not fall back to foundation-of-mindfulness language unless a source-facing discussion explicitly requires it."
+  }
 }

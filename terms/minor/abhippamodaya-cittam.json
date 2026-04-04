@@ -18,17 +18,17 @@
     {
       "context": "In direct ānāpānasati formula translation",
       "rendering": "gladdening the feeling mind",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a slightly more active brightness register reads better",
       "rendering": "brightening the feeling mind",
-      "notes": "Allowed alternate for explanation."
+      "notes": "Use this as a controlled alternate for explanation."
     },
     {
       "context": "In shorter prose where the citta distinction has already been explained nearby",
       "rendering": "gladdening the mind",
-      "notes": "Allowed compact alternate, not the default."
+      "notes": "Use this as a controlled compact alternate, not the default."
     }
   ],
   "related_terms": [

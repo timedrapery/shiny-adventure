@@ -37,20 +37,24 @@ translation choices, source-audit calls, and edition notes that govern it.
 ## Re-audit Calls
 
 - `dvidhā katvā dvidhā katvā vitakke vihareyyaṁ` is rendered with explicit
-  class-language: `dwell by repeatedly dividing thinking into two classes`.
+  class-language: `keep dividing thinking into two classes`.
   The point is practical sorting, not mystical inwardness.
 - `yaññadeva ... bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti
   cetaso` is rendered `Whatever a bhikkhu frequently thinks and ponders,
   toward that the feeling mind inclines` so the line stays active, practical,
   and closer to the directional force of the source.
+- The `viharantaṁ` lines are rendered with direct timing language such as
+  `while I was diligent, ardent, and resolved` rather than inherited
+  dwelling-language. That keeps the cadence modern without weakening the
+  practical force of the line.
 - `satikaraṇīyameva ahosi: ete dhammā` is rendered `I only needed to remember:
   'These dhammas are here.'` The line is kept tied to remembering-language
   rather than recast as bare awareness.
 - `samāhitaṁ cittaṁ ekaggaṁ` is rendered `the feeling mind was well-composed
   and direct` so the line stays aligned with current repo handling of
   `samādhi` and `ekaggatā`.
-- The three-knowledges section now uses `With the feeling mind thus
-  well-composed ...` as its repeated cadence so the stock formula remains
+- The three-knowledges section now uses `With the feeling mind well-composed
+  ...` as its repeated cadence so the stock formula remains
   visible without sounding mechanically copied.
 - `vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi` is rendered `When it was freed, there
   came the knowledge: 'It is freed.'` to keep the liberation-knowledge line

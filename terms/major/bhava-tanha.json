@@ -14,17 +14,27 @@
   ],
   "untranslated_preferred": false,
   "definition": "Ignorant wanting directed toward continued becoming or a mode of existence.",
-  "notes": "The project prefers ignorant wanting for becoming so the compound inherits the house rule for taṇhā while staying explicit about bhava. Craving for becoming remains an acceptable alternate for continuity with familiar Buddhist-English terminology. The shorter hyphenated form is acceptable only where English compactness really helps. The OSF glossary supports this house handling of taṇhā compounds by keeping the craving category explicit while allowing familiar alternates in explanatory prose.",
+  "notes": "The project keeps ignorant wanting for becoming as the default so the compound inherits the house rule for taṇhā while staying explicit about bhava. Use shorter craving-language only when continuity with familiar Buddhist-English wording is genuinely useful. This term should stay coordinated with kāmataṇhā and vibhavataṇhā as one member of the standard threefold taṇhā family. It also stays distinct from bhava itself: the term is not becoming as such, but the wanting that leans toward becoming, identity, or continued mode of existence. The OSF glossary supports keeping the craving family explicit instead of drifting into vague life-affirming language.",
   "context_rules": [
     {
       "context": "In four-truth and doctrinal analysis",
       "rendering": "ignorant wanting for becoming",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
+    },
+    {
+      "context": "In prose where continuity with familiar Buddhist-English terminology matters",
+      "rendering": "craving for becoming",
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "In tightly compressed prose or note-like contexts",
       "rendering": "becoming-craving",
-      "notes": "Use sparingly."
+      "notes": "Use this sparingly."
+    },
+    {
+      "context": "When translating the classic threefold taṇhā list alongside kāmataṇhā and vibhavataṇhā",
+      "rendering": "ignorant wanting for becoming",
+      "notes": "Keep the family wording aligned across the whole set."
     }
   ],
   "related_terms": [

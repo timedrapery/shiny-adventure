@@ -157,6 +157,52 @@ class DriftCheckRuleTests(unittest.TestCase):
 
         self.assertEqual(findings[0].code, "context_sensitive_missing_note")
 
+    def test_context_sensitive_entries_require_distinct_renderings(self) -> None:
+        findings: list[check_translation_drift.Finding] = []
+        record = make_record(
+            "sankhara",
+            tags=["context-sensitive"],
+            context_rules=[
+                {
+                    "context": "dependent arising",
+                    "rendering": "choices",
+                    "notes": "Use this in the sequence.",
+                },
+                {
+                    "context": "general doctrinal prose",
+                    "rendering": "choices",
+                    "notes": "This should still be caught.",
+                },
+            ],
+        )
+
+        check_translation_drift.check_context_sensitive_notes([record], findings)
+
+        self.assertEqual(findings[0].code, "context_sensitive_indistinct_renderings")
+
+    def test_major_entries_require_preferred_translation_in_context_rules(self) -> None:
+        findings: list[check_translation_drift.Finding] = []
+        record = make_record(
+            "sati",
+            preferred_translation="remembering",
+            context_rules=[
+                {
+                    "context": "path factor gloss",
+                    "rendering": "right remembering",
+                    "notes": "Use this in compounds.",
+                },
+                {
+                    "context": "source-facing prose",
+                    "rendering": "sati",
+                    "notes": "Use this when the Pali should remain visible.",
+                },
+            ],
+        )
+
+        check_translation_drift.check_default_rendering_coverage([record], findings)
+
+        self.assertEqual(findings[0].code, "preferred_not_covered_by_context_rules")
+
     def test_headword_normalization_mismatch_is_reported(self) -> None:
         findings: list[check_translation_drift.Finding] = []
         record = make_record("samadhi", term="samādhi", normalized_term="samatha")
@@ -255,6 +301,24 @@ class DriftCheckCliTests(unittest.TestCase):
 
         self.assertEqual(record_count, 0)
         self.assertEqual(findings[0].code, "missing_terms_dir")
+
+    def test_collect_findings_passes_terms_dir_to_schema_validation(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            terms_dir = tmp_path / "terms"
+            terms_dir.mkdir()
+            (terms_dir / "sati.json").write_text("{}", encoding="utf-8")
+
+            with mock.patch.object(
+                check_translation_drift,
+                "collect_validation_failures",
+                return_value=(["schema issue"], []),
+            ) as validation_mock:
+                findings, record_count = check_translation_drift.collect_findings(terms_dir)
+
+        self.assertEqual(record_count, 1)
+        validation_mock.assert_called_once_with(terms_dir)
+        self.assertEqual(findings[0].code, "schema_violation")
 
 
 if __name__ == "__main__":

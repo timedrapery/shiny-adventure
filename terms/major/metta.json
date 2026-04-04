@@ -19,12 +19,12 @@
     {
       "context": "In most practical and doctrinal OSF contexts",
       "rendering": "friendliness",
-      "notes": "Default OSF house rendering."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In prose emphasizing deliberate benevolent intention rather than social warmth",
       "rendering": "goodwill",
-      "notes": "Acceptable alternate when the line needs a firmer ethical tone."
+      "notes": "Use this as a controlled alternate when the line needs a firmer ethical tone."
     },
     {
       "context": "In explanatory prose engaging conventional Buddhist terminology or chant-book headings",
@@ -32,7 +32,7 @@
       "notes": "Retained as a familiar alternate."
     },
     {
-      "context": "When the passage emphasizes the brahmavihāra as an intentional cultivation opposed to hostility",
+      "context": "When the passage emphasizes the brahmavihāra as an intentional development opposed to hostility",
       "rendering": "friendliness",
       "notes": "Keep the practical, cultivated quality prominent."
     }
@@ -59,7 +59,7 @@
     {
       "pali": "mettā bhāvetabbā",
       "translation": "friendliness should be developed",
-      "notes": "Simple practice-oriented usage.",
+      "notes": "Shows practice-focused use.",
       "source": "MN 7"
     }
   ],

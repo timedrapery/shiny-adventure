@@ -24,17 +24,17 @@
     {
       "context": "In most OSF translations and practical instruction",
       "rendering": "mental composure",
-      "notes": "Default OSF house rendering."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In prose emphasizing steadiness and settled bearing more than integration",
       "rendering": "composure",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In prose emphasizing the gathered quality of mind",
       "rendering": "collectedness",
-      "notes": "Acceptable alternate when the line benefits from it."
+      "notes": "Use this as a controlled alternate when the line benefits from it."
     },
     {
       "context": "In older source profiles that use a different teaching idiom",

@@ -13,12 +13,32 @@
   ],
   "untranslated_preferred": false,
   "definition": "Contemplation of dhammas in the satipaṭṭhāna framework.",
+  "notes": "Use this record for the dhamma branch of satipaṭṭhāna. Keep dhammas untranslated by default here so the branch does not get narrowed to abstract doctrine-talk or generic mental objects.",
+  "related_terms": [
+    "dhamma",
+    "satipatthana",
+    "cattaro-satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "dhammesu dhammānupassī viharati",
+      "translation": "one remains observing dhammas among dhammas",
+      "notes": "Standard satipaṭṭhāna formula.",
+      "source": "DN 22"
+    }
+  ],
   "sutta_references": [
-    "DN 22"
+    "DN 22",
+    "MN 10",
+    "MN 118"
   ],
   "tags": [
     "core-practice",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use for the dhamma branch of satipaṭṭhāna in governed practice contexts.",
+    "when_not_to_apply": "Do not flatten this into generic doctrinal study or abstract phenomena-language unless a source-facing note explicitly requires it."
+  }
 }

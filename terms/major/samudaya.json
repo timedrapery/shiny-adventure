@@ -18,7 +18,7 @@
     {
       "context": "In the formula of the four noble truths",
       "rendering": "origin",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose focusing on emergence or coming-to-be",
@@ -63,7 +63,7 @@
     {
       "pali": "taṇhā ponobbhavikā",
       "translation": "ignorant wanting leads to renewed becoming",
-      "notes": "Useful doctrinal line showing why taṇhā is identified as the origin.",
+      "notes": "Shows a doctrinal line that identifies taṇhā as the origin.",
       "source": "SN 56.11"
     }
   ],

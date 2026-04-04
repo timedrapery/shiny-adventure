@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the standard heading",
       "rendering": "and what, bhikkhus, are the five clung-to heaps",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When explanatory prose needs the appropriative force highlighted",
       "rendering": "and what, bhikkhus, are the five heaps taken personally",
-      "notes": "Allowed alternate for explicitness."
+      "notes": "Use this as a controlled alternate for explicitness."
     }
   ],
   "related_terms": [

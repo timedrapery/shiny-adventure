@@ -81,7 +81,7 @@ Examples:
 
 ### `meditative-development`
 
-Use for terms connected to cultivation, training, or meditative development.
+Use for terms connected to development, training, or meditative development.
 
 Examples:
 

@@ -18,12 +18,12 @@
     {
       "context": "In the five strengths and related doctrinal frameworks",
       "rendering": "strength",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose comparing the term with indriya as an established framework",
       "rendering": "power",
-      "notes": "Acceptable alternate when conventional terminology helps orient the reader."
+      "notes": "Use this as a controlled alternate when conventional terminology helps orient the reader."
     }
   ],
   "related_terms": [

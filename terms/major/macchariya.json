@@ -18,12 +18,12 @@
     {
       "context": "In most ethical and analytical contexts",
       "rendering": "stinginess",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the act of holding back",
       "rendering": "selfish withholding",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [
@@ -44,7 +44,7 @@
     {
       "pali": "macchariyaṃ pahāya",
       "translation": "having abandoned stinginess",
-      "notes": "Useful practical expression.",
+      "notes": "Shows a practical expression.",
       "source": "AN 5.229"
     }
   ],

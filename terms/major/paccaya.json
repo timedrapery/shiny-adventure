@@ -19,7 +19,7 @@
     {
       "context": "In most doctrinal and dependent-arising contexts",
       "rendering": "condition",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In phrases of the form X-paccayā Y",
@@ -29,12 +29,12 @@
     {
       "context": "In explanatory prose emphasizing enablement or sustenance",
       "rendering": "support",
-      "notes": "Allowed alternate when the line benefits from it."
+      "notes": "Use this as a controlled alternate when the line benefits from it."
     },
     {
       "context": "When distinguishing paccaya from hetu in analytical discussion",
       "rendering": "conditioning factor",
-      "notes": "Useful where condition alone may sound too light or too generic."
+      "notes": "Use this where condition alone may sound too light or too generic."
     }
   ],
   "related_terms": [

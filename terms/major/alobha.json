@@ -19,17 +19,17 @@
     {
       "context": "In analytical and doctrinal contexts",
       "rendering": "non-greed",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing positive expression in conduct",
       "rendering": "generosity",
-      "notes": "Acceptable alternate when the practical manifestation is central."
+      "notes": "Use this as a controlled alternate when the practical manifestation is central."
     },
     {
       "context": "In prose stressing freedom from grasping",
       "rendering": "non-grasping",
-      "notes": "Useful when the contrast with greed needs to feel more immediate."
+      "notes": "Use this when the contrast with greed needs to feel more immediate."
     },
     {
       "context": "When the passage is naming one of the wholesome roots",

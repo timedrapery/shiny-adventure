@@ -12,6 +12,8 @@ In this repository, drift usually shows up as:
   disambiguation
 - major entries losing rule-bearing metadata and collapsing back into
   definition-only records
+- major entries carrying generic placeholder provenance instead of explicit
+  `authority_basis`
 - alternates and discouraged renderings contradicting each other
 - context-sensitive entries missing the notes that explain when a rendering
   shifts

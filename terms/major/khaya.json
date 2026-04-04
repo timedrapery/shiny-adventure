@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "wearing away",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing running out or exhaustion",
       "rendering": "exhaustion",
-      "notes": "Allowed alternate when the depletion aspect is clearer in English."
+      "notes": "Use this as a controlled alternate when the depletion aspect is clearer in English."
     },
     {
       "context": "In concise explanatory prose where a simpler phrase is needed",

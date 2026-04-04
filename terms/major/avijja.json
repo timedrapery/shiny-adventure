@@ -19,17 +19,17 @@
     {
       "context": "In most doctrinal and dependent-origination contexts",
       "rendering": "ignorance",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the literal force of the term",
       "rendering": "not-knowing",
-      "notes": "Useful when clarifying that the term is not only intellectual ignorance."
+      "notes": "Use this when you need to show that the term is not only intellectual ignorance."
     },
     {
       "context": "In prose stressing obscured awareness rather than simple absence of information",
       "rendering": "unawareness",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     }
   ],
   "related_terms": [

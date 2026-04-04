@@ -22,17 +22,17 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "sensuality",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the passage explicitly emphasizes agreeable sensual objects or indulgence in them",
       "rendering": "sensual pleasures",
-      "notes": "Allowed alternate when the object-side plurality matters more than the domain-language."
+      "notes": "Use this as a controlled alternate when the object-side plurality matters more than the domain-language."
     },
     {
       "context": "In explanatory prose contrasting sensual pursuit with renunciation or collected practice",
       "rendering": "sense pleasures",
-      "notes": "Allowed alternate when a slightly more idiomatic English phrase helps."
+      "notes": "Use this as a controlled alternate when a slightly more idiomatic English phrase helps."
     },
     {
       "context": "In explicitly sexual ethics compounds governed by narrower records",

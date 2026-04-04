@@ -19,7 +19,7 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "dependent arising",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When discussing the teaching in relation to standard Buddhist-English scholarship",
@@ -29,7 +29,7 @@
     {
       "context": "In Buddhadasa-sensitive explanatory prose emphasizing reciprocal process and immediacy",
       "rendering": "dependent co-arising",
-      "notes": "Allowed explanatory alternate, not the default doctrinal label."
+      "notes": "Use this as a controlled explanatory alternate, not the default doctrinal label."
     },
     {
       "context": "When translating the twelve-link formula itself",
@@ -44,7 +44,7 @@
     {
       "context": "In explanatory prose contrasting paṭiccasamuppāda with the broader idappaccayatā headword",
       "rendering": "dependent arising",
-      "notes": "Explain it as the dukkha-focused scope of the same conditional law rather than as a separate doctrine."
+      "notes": "Use this explanation when the dukkha-focused scope of the same conditional law needs to be explicit, not as a separate doctrine."
     }
   ],
   "related_terms": [

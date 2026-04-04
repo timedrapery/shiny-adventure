@@ -13,17 +13,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "A basis of power in practice, classically structured around desire, energy, mind, and investigation.",
-  "notes": "The project prefers basis of power because it stays close to the literal structure while remaining readable in contemporary English. The term should not be narrowed to paranormal achievement; in many contexts it names a practical framework of strong, directed cultivation. The OSF glossary likewise treats iddhipāda as a practical training framework rather than as a label for supernatural power, which supports the present policy.",
+  "notes": "The project prefers basis of power because it stays close to the literal structure while remaining readable in contemporary English. The term should not be narrowed to paranormal achievement; in many contexts it names a practical framework of strong, directed development. The OSF glossary likewise treats iddhipāda as a practical training framework rather than as a label for supernatural power, which supports the present policy.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "basis of power",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a shorter compound reads more naturally",
       "rendering": "base of power",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [

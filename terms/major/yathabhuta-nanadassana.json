@@ -19,12 +19,12 @@
     {
       "context": "In doctrinal and source-facing contexts where precision matters",
       "rendering": "knowing and seeing things as they have come to be",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In smoother explanatory prose where a shorter English phrase is needed",
       "rendering": "knowing and seeing things as they are",
-      "notes": "Allowed alternate when readability requires it."
+      "notes": "Use this as a controlled alternate when readability requires it."
     },
     {
       "context": "When the passage emphasizes conditioned process and non-distortion",

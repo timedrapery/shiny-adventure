@@ -70,6 +70,20 @@ class CheckDocsIntegrityTests(unittest.TestCase):
         self.assertEqual(len(failures), 1)
         self.assertIn("lowercase-kebab-case", failures[0])
 
+    def test_collect_docs_naming_failures_allows_registered_policy_docs(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            write_required_repo_files(repo_root)
+            (repo_root / "docs" / "MODERN_ENGLISH_AUDIT.md").write_text("# Audit\n", encoding="utf-8")
+            (repo_root / "docs" / "MODERN_ENGLISH_POLICY.md").write_text("# Policy\n", encoding="utf-8")
+            (repo_root / "docs" / "ARCHAIC_DICTION_SWEEP.md").write_text("# Sweep\n", encoding="utf-8")
+            (repo_root / "docs" / "VOICE_CONSISTENCY_AUDIT.md").write_text("# Voice Audit\n", encoding="utf-8")
+            (repo_root / "docs" / "VOICE_STANDARD.md").write_text("# Voice Standard\n", encoding="utf-8")
+
+            failures = check_docs_integrity.collect_docs_naming_failures(repo_root)
+
+        self.assertEqual(failures, [])
+
     def test_main_reports_success_for_clean_repo(self) -> None:
         output = io.StringIO()
         with tempfile.TemporaryDirectory() as tmpdir:

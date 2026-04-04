@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing contexts where the verb marks direct or strengthened knowing",
       "rendering": "directly knows",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When English sentence flow is cleaner with the adverb placed later",
       "rendering": "knows directly",
-      "notes": "Allowed alternate when it reads more naturally without changing the force."
+      "notes": "Use this as a controlled alternate when it reads more naturally without changing the force."
     },
     {
       "context": "When the line emphasizes completeness but should still stop short of pariññā-language",
@@ -75,10 +75,10 @@
       "scope": "Supports the direct-knowing contrast with sañjānāti and maññati in the root-sequence pattern."
     },
     {
-      "source": "Repository editorial record",
-      "priority": "secondary",
+      "source": "MN 1 translation notes",
+      "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Supports keeping abhijānāti distinct from plain knowing, recognition, discernment, and completed full understanding in the verbal-knowing cluster."
+      "scope": "Supports the repository's house decision from the MN 1 translation pass to keep abhijānāti distinct from plain knowing, recognition, discernment, and completed full understanding in the verbal-knowing cluster."
     }
   ],
   "translation_policy": {

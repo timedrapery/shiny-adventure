@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "A disposition of non-harming, especially as a component of right attitude.",
-  "notes": "The project prefers non-harming because it is clear, direct, and behaviorally concrete. Harmlessness is acceptable in explanatory prose when the English line wants a smoother abstract noun. The OSF glossary supports this by keeping avihiṃsā closely tied to practical non-harming within right attitude rather than to abstract pacifism.",
+  "notes": "The project keeps non-harming as the default because it is clear, direct, and behaviorally concrete. Harmlessness remains a controlled alternate when the English line needs a smoother abstract noun, but the term should not drift into vague moral gentleness or abstract pacifism. This entry stays distinct from abyāpāda, which stresses non-ill-will, and from karuṇā, which is compassion rather than restraint from harm. The OSF glossary supports keeping avihiṃsā tied to practical right-intention and right-action language rather than turning it into a slogan.",
   "context_rules": [
     {
       "context": "In path-factor and analytical contexts",
       "rendering": "non-harming",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a smoother English abstract noun is needed",
       "rendering": "harmlessness",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When contrasting the right-intention triad or the ethics family",
+      "rendering": "non-harming",
+      "notes": "Keep the practical restraint from harm explicit."
     }
   ],
   "related_terms": [

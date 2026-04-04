@@ -23,22 +23,22 @@
     {
       "context": "In most path and jhāna contexts, especially where the term belongs to ariya sammā samādhi",
       "rendering": "mental theme",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose referring to the Pāli technical category as such",
       "rendering": "jhāna",
-      "notes": "Retaining the Pāli can be appropriate where translation would distract from technical discussion."
+      "notes": "Keep the Pali when translation would distract from technical discussion."
     },
     {
       "context": "In OSF-glossary style practical explanation of a workable composed mind",
       "rendering": "satisfied composed mind fit for work",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In source-facing technical discussion where the fourfold category itself is under analysis",
       "rendering": "jhāna",
-      "notes": "Retain the Pali when translating it would create more confusion than clarity."
+      "notes": "Keep the Pali when translating it would create more confusion than clarity."
     },
     {
       "context": "In first-jhāna formulae coordinated with vitakka and vicāra",

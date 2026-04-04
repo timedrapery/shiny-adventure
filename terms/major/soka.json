@@ -18,12 +18,12 @@
     {
       "context": "In most formulaic and doctrinal contexts",
       "rendering": "sorrow",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing more acute emotional loss",
       "rendering": "grief",
-      "notes": "Acceptable alternate when context supports it."
+      "notes": "Use this as a controlled alternate when context supports it."
     }
   ],
   "related_terms": [
@@ -37,7 +37,7 @@
     {
       "pali": "taṇhāya jāyati soko",
       "translation": "from craving arises sorrow",
-      "notes": "Useful connection to craving.",
+      "notes": "Shows the connection to craving.",
       "source": "Dhp 216"
     },
     {

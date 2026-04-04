@@ -6,29 +6,29 @@
   "literal_meaning": "non-returner",
   "preferred_translation": "non-returner",
   "alternative_translations": [
-    "one who does not return"
+    "someone who does not return"
   ],
   "discouraged_translations": [
     "third-stage saint"
   ],
   "untranslated_preferred": false,
   "definition": "A practitioner who has gone beyond return to the sensual realm and is classically described as not coming back here.",
-  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase one who does not return is acceptable when a sentence needs more explicitness and less list-like compactness. The term should be read as a high noble stage still short of arahantship, especially in discussions of the fetters and the graded path. The OSF glossary confirms non-returner as the house default and preserves one who does not return as an explanatory alternate.",
+  "notes": "The project keeps non-returner because it is already concise and precise in English. The longer phrase someone who does not return is acceptable when a sentence needs more explicitness and less list-like compactness. The term should be read as a high noble stage still short of arahantship, especially in discussions of the fetters and the graded path. The OSF glossary confirms non-returner as the house default and preserves the fuller clause as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In doctrinal classifications of awakening stages",
       "rendering": "non-returner",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the phrase needs to unpack itself",
-      "rendering": "one who does not return",
-      "notes": "Acceptable alternate."
+      "rendering": "someone who does not return",
+      "notes": "Use this as a controlled alternate when a full clause reads more naturally than the compact stage label."
     },
     {
       "context": "When contrasted with the once-returner below and arahant above",
       "rendering": "non-returner",
-      "notes": "Preserve the staged sequence rather than treating the term generically."
+      "notes": "Keep the staged sequence explicit rather than treating the term generically."
     }
   ],
   "related_terms": [
@@ -55,7 +55,7 @@
     {
       "pali": "anāgāmimagga",
       "translation": "the path of the non-returner",
-      "notes": "Useful compound linking attainment-stage language to path language.",
+      "notes": "Shows a compound that links attainment-stage language to path language.",
       "source": "SN 55.5"
     }
   ],
@@ -74,7 +74,7 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping non-returner as the house default in graded attainment classification, with the clause-style alternate reserved for explanatory prose."
+      "scope": "Supports keeping non-returner as the house default in graded attainment classification, with the fuller explanatory clause reserved for prose that needs it."
     }
   ],
   "translation_policy": {

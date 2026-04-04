@@ -19,7 +19,7 @@
     {
       "context": "In explanation of the hindrance pair thīna-middha",
       "rendering": "sluggishness",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose distinguishing the mental dulling side from bodily heaviness",
@@ -29,7 +29,7 @@
     {
       "context": "In short practical prose where a simpler English noun is useful",
       "rendering": "dullness",
-      "notes": "Allowed alternate when the line stays clearly within practice context."
+      "notes": "Use this as a controlled alternate when the line stays clearly within practice context."
     }
   ],
   "related_terms": [

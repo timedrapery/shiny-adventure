@@ -20,17 +20,17 @@
     {
       "context": "In most path-factor and practical OSF contexts",
       "rendering": "right remembering",
-      "notes": "Default OSF house rendering."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In path-factor and source-facing doctrinal contexts that preserve more Pāli texture",
       "rendering": "right sati",
-      "notes": "Acceptable alternate when the Pāli term is intentionally retained."
+      "notes": "Use this as a controlled alternate when the Pāli term is intentionally retained."
     },
     {
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
       "rendering": "right noble remembering",
-      "notes": "Source-backed heading style, not required in every prose context."
+      "notes": "Use this only in source-backed heading style, not in every prose context."
     },
     {
       "context": "In OSF practical prose linking effort, remembering, and samadhi in daily life",

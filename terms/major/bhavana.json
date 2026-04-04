@@ -13,23 +13,23 @@
     "meditation"
   ],
   "untranslated_preferred": false,
-  "definition": "The deliberate development or cultivation of qualities of mind.",
-  "notes": "The project prefers development because it preserves the sense of actively bringing something into being rather than merely sitting in meditation. Ven. Dr. M. Punnaji frequently speaks of cultivation of tranquility in retreat instruction; the repository records that as a source-backed contextual alternate while retaining development as the house default. The OSF glossary reinforces the familiar explanation mental development or cultivation of mind through meditation, which fits the current house treatment.",
+  "definition": "The deliberate development of qualities of mind.",
+  "notes": "The project prefers development because it preserves the sense of actively bringing something into being rather than merely sitting in meditation, and because it reads more naturally in current English than cultivation as a standing default. Ven. Dr. M. Punnaji frequently speaks of cultivation of tranquility in retreat instruction; the repository records that as a source-backed contextual alternate while retaining development as the house default. The OSF glossary also supports the broader practical sense of mental development through meditation, which fits the current house treatment without making cultivation the repo's default prose.",
   "context_rules": [
     {
       "context": "In most project translations",
       "rendering": "development",
-      "notes": "Default rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing gradual growth of qualities",
       "rendering": "cultivation",
-      "notes": "Acceptable alternate when the English sentence benefits from it."
+      "notes": "Use this as a controlled alternate when a source or sentence genuinely benefits from the agricultural growth metaphor."
     },
     {
       "context": "In Punnaji-style retreat instruction focused specifically on calming practice",
       "rendering": "cultivation of tranquility",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     }
   ],
   "related_terms": [
@@ -89,6 +89,6 @@
     "default_scope": "Use 'development' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'meditation' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'meditation', unexamined 'cultivation', or other unrecorded alternates."
   }
 }

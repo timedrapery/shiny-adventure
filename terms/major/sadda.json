@@ -18,7 +18,7 @@
     {
       "context": "In most analytical and source-facing contexts",
       "rendering": "sound",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In contexts where the line clearly emphasizes disturbance or harshness",
@@ -43,7 +43,7 @@
     {
       "pali": "saddārammaṇa",
       "translation": "having sound as object",
-      "notes": "Useful compact analytical usage.",
+      "notes": "Shows compact analytical use.",
       "source": "MN 148"
     }
   ],

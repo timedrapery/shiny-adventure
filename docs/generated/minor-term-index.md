@@ -100,7 +100,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [appanihita-samadhi](../../terms/minor/appanihita-samadhi.json) | appanihita-samadhi | wishless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
 | [appanihita-vimokkha](../../terms/minor/appanihita-vimokkha.json) | appanihita-vimokkha | wishless release | reviewed | liberation, meditative-development, emptiness-interface |
 | [appicchata](../../terms/minor/appicchata.json) | appicchatā | fewness of wishes | reviewed | core-practice |
-| [apunnabhisankhara](../../terms/minor/apunnabhisankhara.json) | apuññābhisaṅkhāra | unmeritorious constructing | draft | core-doctrine |
+| [apunnabhisankhara](../../terms/minor/apunnabhisankhara.json) | apuññābhisaṅkhāra | harm-producing constructing | draft | core-doctrine |
 | [araddha-viriya](../../terms/minor/araddha-viriya.json) | āraddhavīriya | aroused energy | reviewed | core-practice, meditative-development, mental-qualities |
 | [arahatta-magga](../../terms/minor/arahatta-magga.json) | arahatta-magga | path of arahantship | reviewed | core-practice |
 | [arahatta-phala](../../terms/minor/arahatta-phala.json) | arahattaphala | fruit of arahantship | reviewed | liberation |
@@ -204,7 +204,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [cakkhu-samphassa](../../terms/minor/cakkhu-samphassa.json) | cakkhusamphassa | eye-contact | reviewed | sense-fields |
 | [cattaro-iddhipada](../../terms/minor/cattaro-iddhipada.json) | cattaro-iddhipada | four bases of power | reviewed | core-doctrine, core-practice |
 | [cattaro-sammappadhana](../../terms/minor/cattaro-sammappadhana.json) | cattaro-sammappadhana | four right exertions | reviewed | core-doctrine, core-practice |
-| [cattaro-satipatthana](../../terms/minor/cattaro-satipatthana.json) | cattaro-satipatthana | four foundations of remembering | reviewed | core-doctrine, core-practice |
+| [cattaro-satipatthana](../../terms/minor/cattaro-satipatthana.json) | cattāro satipaṭṭhānā | four establishments of sati | reviewed | core-doctrine, core-practice |
 | [cattarome-bhikkhave-gantha](../../terms/minor/cattarome-bhikkhave-gantha.json) | cattārome, bhikkhave, ganthā | bhikkhus, there are these four knots | stable | formula, core-doctrine, bondage-imagery |
 | [cattarome-bhikkhave-ogha](../../terms/minor/cattarome-bhikkhave-ogha.json) | cattārome, bhikkhave, oghā | bhikkhus, there are these four floods | stable | formula, core-doctrine, bondage-imagery |
 | [cattarome-bhikkhave-yoga](../../terms/minor/cattarome-bhikkhave-yoga.json) | cattārome, bhikkhave, yogā | bhikkhus, there are these four yokes | stable | formula, core-doctrine, bondage-imagery |
@@ -232,7 +232,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [citta-sankhara](../../terms/minor/citta-sankhara.json) | cittasaṅkhāra | mind conditioner | reviewed | mental-qualities, translation-sensitive |
 | [citta-ujjukata](../../terms/minor/citta-ujjukata.json) | citta-ujjukata | uprightness of mind | reviewed | mental-qualities |
 | [cittabhavana](../../terms/minor/cittabhavana.json) | cittabhāvanā | development of mind | reviewed | core-practice, meditative-development |
-| [cittanupassana](../../terms/minor/cittanupassana.json) | cittānupassanā | contemplation of mind | reviewed | core-practice |
+| [cittanupassana](../../terms/minor/cittanupassana.json) | cittānupassanā | contemplation of the feeling mind | reviewed | core-practice |
 | [civara](../../terms/minor/civara.json) | cīvara | robe | reviewed | core-practice |
 | [civarapaccaya](../../terms/minor/civarapaccaya.json) | cīvarapaccaya | robe support | reviewed | core-practice |
 | [cunda](../../terms/minor/cunda.json) | Cunda | Cunda | reviewed | persons |
@@ -656,8 +656,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [puggala](../../terms/minor/puggala.json) | puggala | individual | reviewed | persons |
 | [puja](../../terms/minor/puja.json) | pūjā | pūjā | reviewed | core-practice, translation-sensitive |
 | [puluvaka](../../terms/minor/puluvaka.json) | puluvaka | worm-infested corpse | reviewed | meditative-development, embodiment |
-| [punna-kamma](../../terms/minor/punna-kamma.json) | punna-kamma | meritorious action | reviewed | ethics |
-| [punnabhisankhara](../../terms/minor/punnabhisankhara.json) | puññābhisaṅkhāra | meritorious constructing | draft | core-doctrine |
+| [punna-kamma](../../terms/minor/punna-kamma.json) | punna-kamma | benefit-producing action | reviewed | ethics |
+| [punnabhisankhara](../../terms/minor/punnabhisankhara.json) | puññābhisaṅkhāra | benefit-producing constructing | draft | core-doctrine |
 | [purejata-paccaya](../../terms/minor/purejata-paccaya.json) | purejata-paccaya | pre-arising condition | reviewed | causality |
 | [purejata](../../terms/minor/purejata.json) | purejata | pre-arising | reviewed | causality |
 | [purisa](../../terms/minor/purisa.json) | purisa | man | reviewed | persons |
@@ -884,7 +884,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vedana-nirodha](../../terms/minor/vedana-nirodha.json) | vedana-nirodha | quenching of felt experience | reviewed | dependent-origination, liberation |
 | [vedana-paccaya](../../terms/minor/vedana-paccaya.json) | vedana-paccaya | felt experience as condition | reviewed | dependent-origination, causality |
 | [vedanakkhandha](../../terms/minor/vedanakkhandha.json) | vedanākkhandha | felt-experience heap | stable | aggregates, translation-sensitive |
-| [vedananupassana](../../terms/minor/vedananupassana.json) | vedanānupassanā | contemplation of feeling | reviewed | core-practice |
+| [vedananupassana](../../terms/minor/vedananupassana.json) | vedanānupassanā | contemplation of felt experience | reviewed | core-practice |
 | [vedanapaccaya-tanha](../../terms/minor/vedanapaccaya-tanha.json) | vedanāpaccayā taṇhā | with felt experience as condition, ignorant wanting | stable | dependent-origination, causality, translation-sensitive |
 | [vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati](../../terms/minor/vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati.json) | vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti | one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, translation-sensitive, sense-fields, knowledge-cluster |
 | [vera](../../terms/minor/vera.json) | vera | enmity | reviewed | mental-qualities |
@@ -911,7 +911,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vinnanakkhandha](../../terms/minor/vinnanakkhandha.json) | viññāṇakkhandha | knowing heap | stable | aggregates, translation-sensitive |
 | [vinnananancayatana](../../terms/minor/vinnananancayatana.json) | viññāṇañcāyatana | sphere of boundless knowing | reviewed | meditative-development |
 | [vinnanapaccaya-namarupa](../../terms/minor/vinnanapaccaya-namarupa.json) | viññāṇapaccayā nāmarūpaṃ | with knowing as condition, name-and-form | reviewed | dependent-origination, causality, translation-sensitive |
-| [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | one who understands with explanation | reviewed | persons |
+| [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | someone who understands with explanation | reviewed | persons |
 | [vipaka-paccaya](../../terms/minor/vipaka-paccaya.json) | vipaka-paccaya | result condition | reviewed | causality |
 | [vipaka](../../terms/minor/vipaka.json) | vipaka | result | reviewed | causality |
 | [vipassana](../../terms/minor/vipassana.json) | vipassanā | insight | reviewed | meditative-development, core-practice |

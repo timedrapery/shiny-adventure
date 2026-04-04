@@ -20,12 +20,12 @@
     {
       "context": "In doctrinal lists and stage-of-awakening analysis",
       "rendering": "fetter",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the tying or binding function",
       "rendering": "bond",
-      "notes": "Allowed alternate when the binding image matters more than the familiar doctrinal label."
+      "notes": "Use this as a controlled alternate when the binding image matters more than the familiar doctrinal label."
     },
     {
       "context": "In translator-facing prose that needs both the technical label and the function",

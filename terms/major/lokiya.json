@@ -18,12 +18,12 @@
     {
       "context": "In most explanatory and doctrinal contexts",
       "rendering": "worldly",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explicit technical contrast with lokuttara",
       "rendering": "mundane",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage distinguishes wholesome but still conditioned states from liberative realization",
@@ -43,13 +43,13 @@
     {
       "pali": "lokiya dhamma",
       "translation": "worldly dhamma",
-      "notes": "Simple doctrinal usage.",
+      "notes": "Shows a simple doctrinal use.",
       "source": "SN 45.8"
     },
     {
       "pali": "lokiyo sammādiṭṭhi",
       "translation": "worldly right view",
-      "notes": "Useful for the graded distinction in the path factors.",
+      "notes": "Shows the graded distinction in the path factors.",
       "source": "MN 117"
     }
   ],

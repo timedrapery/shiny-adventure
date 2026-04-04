@@ -20,12 +20,12 @@
     {
       "context": "In most source-facing doctrinal and narrative contexts",
       "rendering": "final nibbāna",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the quenching image itself is being unpacked",
       "rendering": "complete quenching",
-      "notes": "Allowed alternate when the nibbāna relation remains clear."
+      "notes": "Use this as a controlled alternate when the nibbāna relation remains clear."
     },
     {
       "context": "In passages about the Buddha or arahants at death",

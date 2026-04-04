@@ -17,12 +17,12 @@
     {
       "context": "In direct doctrinal translation of the canonical equation",
       "rendering": "and what, bhikkhus, is identity, the five clung-to heaps",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When English needs a fuller phrase for sakkāya",
       "rendering": "and what, bhikkhus, is personal identity, the five clung-to heaps",
-      "notes": "Allowed alternate for clarification, not the default."
+      "notes": "Use this as a controlled alternate for clarification, not the default."
     }
   ],
   "related_terms": [

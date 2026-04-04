@@ -18,12 +18,12 @@
     {
       "context": "In direct translation of the flood-crossing formula",
       "rendering": "crossed over the flood",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In concise explanatory prose",
       "rendering": "got across the flood",
-      "notes": "Allowed alternate when the image remains explicit."
+      "notes": "Use this as a controlled alternate when the image remains explicit."
     }
   ],
   "related_terms": [

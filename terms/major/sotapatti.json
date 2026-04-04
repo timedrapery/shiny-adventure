@@ -18,12 +18,12 @@
     {
       "context": "In doctrinal and classificatory contexts",
       "rendering": "stream-entry",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose highlighting the transition itself",
       "rendering": "entering the stream",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When emphasizing the threshold nature of the first breakthrough on the noble path",
@@ -47,7 +47,7 @@
     {
       "pali": "sotāpattiphala",
       "translation": "the fruit of stream-entry",
-      "notes": "Useful compound that ties the term to path-result language.",
+      "notes": "Shows a compound that ties the term to path-result language.",
       "source": "SN 55.5"
     },
     {

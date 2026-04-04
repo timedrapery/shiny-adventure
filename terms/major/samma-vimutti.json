@@ -19,12 +19,12 @@
     {
       "context": "In most path-sequence and doctrinal contexts",
       "rendering": "right release",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where familiar liberation-language is locally helpful",
       "rendering": "right liberation",
-      "notes": "Controlled alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When contrasting the trainee with the one beyond training in MN 117-style path exposition",

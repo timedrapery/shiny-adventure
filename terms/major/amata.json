@@ -22,17 +22,17 @@
     {
       "context": "In most doctrinal and practical contexts",
       "rendering": "deathless",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose clarifying the privative structure",
       "rendering": "death-free",
-      "notes": "Acceptable alternate when the English line benefits from directness."
+      "notes": "Use this as a controlled alternate when the English line benefits from directness."
     },
     {
       "context": "When the line turns the descriptor into a doctrinal noun or path-goal expression",
       "rendering": "deathlessness",
-      "notes": "Allowed alternate when the sentence needs a noun rather than an adjective."
+      "notes": "Use this as a controlled alternate when the sentence needs a noun rather than an adjective."
     },
     {
       "context": "In amatapada compounds and related formulas",

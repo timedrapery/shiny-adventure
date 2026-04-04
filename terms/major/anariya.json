@@ -19,12 +19,12 @@
     {
       "context": "In direct contrast to ariya in doctrinal and path language",
       "rendering": "not noble",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose stressing contrast with ordinary aims or habits",
       "rendering": "ordinary",
-      "notes": "Acceptable alternate when the practical contrast is clearer in English."
+      "notes": "Use this as a controlled alternate when the practical contrast is clearer in English."
     },
     {
       "context": "When the passage needs a compact attributive adjective",

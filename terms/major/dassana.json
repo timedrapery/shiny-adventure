@@ -20,17 +20,17 @@
     {
       "context": "In most doctrinal and formula contexts",
       "rendering": "seeing",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing the clarity of the seeing rather than the bare noun",
       "rendering": "clear seeing",
-      "notes": "Acceptable alternate when the local line benefits from explicitness."
+      "notes": "Use this as a controlled alternate when the local line benefits from explicitness."
     },
     {
       "context": "In fixed compounds such as vimutti-ñāṇadassana where English idiom strongly expects a paired noun",
       "rendering": "vision",
-      "notes": "Allowed only as a controlled compound-level alternate, not a headword default."
+      "notes": "Use this only as a controlled compound-level alternate, not a headword default."
     }
   ],
   "related_terms": [

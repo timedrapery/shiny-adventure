@@ -18,7 +18,7 @@
     {
       "context": "In general doctrinal or analytical contexts",
       "rendering": "result",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In established compounds referring to stages or fruits of practice",
@@ -40,7 +40,7 @@
     {
       "pali": "sotāpattiphala",
       "translation": "the fruit of stream-entry",
-      "notes": "Useful fixed compound showing where fruit remains the better English choice.",
+      "notes": "Shows a fixed compound where fruit remains the better English choice.",
       "source": "SN 55.5"
     },
     {

@@ -18,12 +18,12 @@
     {
       "context": "In most ethical and doctrinal contexts",
       "rendering": "wholesome quality",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In source-facing prose where dhamma should remain audible",
       "rendering": "wholesome dhamma",
-      "notes": "Allowed alternate when the broader dhamma range matters."
+      "notes": "Use this as a controlled alternate when the broader dhamma range matters."
     },
     {
       "context": "In explanatory practice prose where mano is working with thought-content to gladden citta",

@@ -19,12 +19,12 @@
     {
       "context": "In dependent-origination contexts and sequence analysis",
       "rendering": "link",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing origination or source",
       "rendering": "source",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage is enumerating or discussing the connected sequence of dependent origination",
@@ -45,7 +45,7 @@
     {
       "pali": "paṭiccasamuppādassa nidānaṃ",
       "translation": "a link in dependent origination",
-      "notes": "Useful analytical usage.",
+      "notes": "Shows analytical use.",
       "source": "SN 12.1"
     }
   ],

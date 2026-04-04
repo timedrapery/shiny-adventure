@@ -21,12 +21,12 @@
     {
       "context": "In most source-facing contexts where the verb marks recognition or taking something as something",
       "rendering": "recognizes",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the line stresses classificatory or differentiating recognition",
       "rendering": "identifies",
-      "notes": "Allowed alternate when the English needs a slightly more explicit verb."
+      "notes": "Use this as a controlled alternate when the English needs a slightly more explicit verb."
     },
     {
       "context": "When the object-complement structure matters and the line explicitly presents something as something",

@@ -1,24 +1,24 @@
-# TERM ENTRY STANDARD
+# Term Entry Standard
 
 ## Purpose
 
 This document defines how new term records should be created for the
 **shiny-adventure** Pāli translation dataset.
 
-The goal is not merely to store definitions, but to encode **translation
-decisions** in a structured and consistent format.
+The goal is not merely to store definitions, but to encode translation
+decisions in a structured and consistent format.
 
 The dataset functions as:
 
--   a translator's lexicon
--   a house style guide
--   a machine-readable translation rule system
+- a translator's lexicon
+- a house style guide
+- a machine-readable translation rule system
 
-For that reason, **major terms must be rule-bearing entries rather than
-simple dictionary definitions.**
+For that reason, major terms must be rule-bearing entries rather than simple
+dictionary definitions.
 
 The repository's live schema currently expresses these editorial ideas through
-the following field names:
+these field names:
 
 - preferred rendering -> `preferred_translation`
 - translation rule -> `context_rules`
@@ -27,8 +27,8 @@ the following field names:
 - provenance -> `authority_basis`
 - rule summary -> `translation_policy`
 
-Do not introduce a second parallel vocabulary such as
-`preferred_rendering` unless the schema itself is intentionally changed first.
+Do not introduce a parallel vocabulary such as `preferred_rendering` unless the
+schema itself is intentionally changed first.
 
 Use this document alongside:
 
@@ -36,93 +36,92 @@ Use this document alongside:
 - `docs/data-dictionary.md`
 - `docs/tag-status-vocabulary.md`
 - `STYLE_GUIDE.md`
-
-------------------------------------------------------------------------
+- `docs/MODERN_ENGLISH_POLICY.md`
+- `docs/VOICE_STANDARD.md`
 
 ## Entry Types
 
-## Major Entries (Rule-Bearing)
+### Major Entries
 
-Major entries encode **translation rules and decisions**.
+Major entries encode translation rules and decisions.
 
 Use these for:
 
--   doctrinal core vocabulary
--   context-sensitive terms
--   terms appearing in key formulas
--   terms widely mistranslated
--   terms whose rendering changes depending on context
+- doctrinal core vocabulary
+- context-sensitive terms
+- terms appearing in key formulas
+- terms widely mistranslated
+- terms whose rendering changes depending on context
 
 Examples:
 
--   dukkha
--   sati
--   jhāna
--   saṅkhārā
--   viññāṇa
--   taṇhā
--   nirodha
--   paṭiccasamuppāda
+- `dukkha`
+- `sati`
+- `jhāna`
+- `saṅkhārā`
+- `viññāṇa`
+- `taṇhā`
+- `nirodha`
+- `paṭiccasamuppāda`
 
 Major entries should normally include:
 
--   `preferred_translation`
--   `alternative_translations`
--   `discouraged_translations`
--   `context_rules`
--   `notes`
--   `related_terms`
--   `example_phrases`
--   `sutta_references`
--   `tags`
+- `preferred_translation`
+- `alternative_translations`
+- `discouraged_translations`
+- `context_rules`
+- `notes`
+- `related_terms`
+- `example_phrases`
+- `sutta_references`
+- `tags`
 
-------------------------------------------------------------------------
-
-## Minor Entries
+### Minor Entries
 
 Minor entries may be used for terms that:
 
--   have stable meanings
--   rarely shift by context
--   are not doctrinally central
+- have stable meanings
+- rarely shift by context
+- are not doctrinally central
 
 Minor entries may omit `context_rules` and `example_phrases`.
 
-However, the project generally favors **major entries for important
-terms**.
-
-------------------------------------------------------------------------
+The project still prefers major entries for important terms that need governed
+translation behavior.
 
 ## Suggested Workflow
 
 When working on an entry:
 
-1. Read the translation preference in `STYLE_GUIDE.md`.
+1. Read the translation preferences in `STYLE_GUIDE.md`.
 2. Confirm field meaning in `docs/data-dictionary.md`.
 3. Draft or revise the entry in `terms/major/` or `terms/minor/` according to `entry_type`.
 4. Choose tags and status from `docs/tag-status-vocabulary.md`.
 5. Validate the file before committing.
 
-------------------------------------------------------------------------
+If you are still gathering evidence from source text, start in `candidates/`
+rather than writing directly into the live lexicon.
 
 ## File Naming Convention
 
-Files must use **ASCII filenames**.
+Files must use ASCII filenames.
 
 Example file paths:
 
-    terms/major/sati.json
-    terms/major/dukkha.json
-    terms/major/jhana.json
-    terms/major/paticcasamuppada.json
+```text
+terms/major/sati.json
+terms/major/dukkha.json
+terms/major/jhana.json
+terms/major/paticcasamuppada.json
+```
 
 Inside the record, the Pāli term should retain diacritics.
 
 Example:
 
-    "term": "paṭiccasamuppāda"
-
-------------------------------------------------------------------------
+```json
+"term": "paṭiccasamuppāda"
+```
 
 ## Entry Type Convention
 
@@ -130,30 +129,29 @@ Every new entry should include `entry_type`.
 
 - Use `major` for rule-bearing entries that carry translation guidance.
 - Use `minor` for narrower entries that do not need the full rule set.
-- In the schema, `major` entries must include `notes`, `context_rules`, `related_terms`, and `example_phrases`.
-
-------------------------------------------------------------------------
+- In the schema, `major` entries must include `notes`, `context_rules`,
+  `related_terms`, and `example_phrases`.
 
 ## Required Fields
 
 Every entry should include:
 
-  Field                     Description
-  ------------------------- -----------------------------------------------
-  `term`                    Headword in Pāli with diacritics
-  `normalized_term`         ASCII version used for filenames and indexing
-  `entry_type`              Major or minor entry classification
-  `part_of_speech`          Grammatical category
-  `preferred_translation`   Default English rendering
-  `definition`              Short explanatory definition
-  `status`                  Editorial status
+| Field | Description |
+| --- | --- |
+| `term` | Headword in Pāli with diacritics |
+| `normalized_term` | ASCII version used for filenames and indexing |
+| `entry_type` | Major or minor entry classification |
+| `part_of_speech` | Grammatical category |
+| `preferred_translation` | Default English rendering |
+| `definition` | Short explanatory definition |
+| `status` | Editorial status |
 
 For major entries, these required fields are only the baseline. They do not by
 themselves make an entry rule-bearing.
 
 Example:
 
-``` json
+```json
 {
   "term": "dukkha",
   "normalized_term": "dukkha",
@@ -165,29 +163,30 @@ Example:
 }
 ```
 
-------------------------------------------------------------------------
-
-## Recommended Fields for Major Entries
+## Recommended Fields For Major Entries
 
 Major entries should normally include:
 
-  Field                        Purpose
-  ---------------------------- ---------------------------------
-  `alternative_translations`   Acceptable alternate renderings
-  `discouraged_translations`   Renderings to avoid
-  `context_rules`              Translation changes by context
-  `notes`                      Editorial rationale and usage notes
-  `related_terms`              Connected doctrinal vocabulary
-  `example_phrases`            Canonical usage examples
-  `sutta_references`           Canonical anchors for the rule
-  `tags`                       Thematic classification
-  `authority_basis`            Structured provenance for the policy
-  `translation_policy`         Machine-readable rule summary
+| Field | Purpose |
+| --- | --- |
+| `alternative_translations` | Acceptable alternate renderings |
+| `discouraged_translations` | Renderings to avoid |
+| `context_rules` | Translation changes by context |
+| `notes` | Editorial rationale and usage notes |
+| `related_terms` | Connected doctrinal vocabulary |
+| `example_phrases` | Canonical usage examples |
+| `sutta_references` | Canonical anchors for the rule |
+| `tags` | Thematic classification |
+| `authority_basis` | Structured provenance for the policy |
+| `translation_policy` | Machine-readable rule summary |
 
-These fields allow the dataset to function as a **translation engine**
-rather than a flat glossary.
+These fields allow the dataset to function as a translation engine rather than
+a flat glossary.
 
-------------------------------------------------------------------------
+For reviewed or stable major entries, `authority_basis` should not stop at a
+generic placeholder such as `Repository editorial record`. Use explicit named
+authority, source profile, or repository-source support once the entry is
+merge-ready.
 
 ## Source-Backed Alternates
 
@@ -209,24 +208,18 @@ The OSF glossary and named OSF books are not outside sources. They belong to
 the internal OSF house-material layer described in
 `docs/osf-editorial-authority.md`.
 
-For OSF authority order and cases where a source may directly change
-`preferred_translation`, also read `docs/osf-editorial-authority.md`.
-
-------------------------------------------------------------------------
-
 ## Context Rules
 
-`context_rules` encode translation decisions that vary depending on
-usage.
+`context_rules` encode translation decisions that vary by usage.
 
 Example:
 
-``` json
+```json
 "context_rules": [
   {
     "context": "In paṭiccasamuppāda sequences",
     "rendering": "choices",
-    "notes": "Project preference for saṅkhārā in dependent arising."
+    "notes": "Use this by default in dependent arising."
   },
   {
     "context": "In general doctrinal statements about compounded phenomena",
@@ -237,17 +230,23 @@ Example:
 
 Use context rules whenever:
 
--   a term's rendering shifts by doctrinal setting
--   literal translation would be misleading
--   traditional translations are inconsistent
+- a term's rendering shifts by doctrinal setting
+- literal translation would be misleading
+- traditional translations are inconsistent
 
 For doctrinal anchor terms, the combined `notes` and `context_rules` should
 also state:
 
--   when the default rendering applies
--   when it should not apply
--   whether compounds or formulas inherit the rule by default
--   what doctrinal confusion or translation drift the rule is preventing
+- when the default rendering applies
+- when it should not apply
+- whether compounds or formulas inherit the rule by default
+- what doctrinal confusion or translation drift the rule is preventing
+
+Avoid thin governance surfaces for reviewed or stable major entries. As a
+working house standard, those entries should normally show more than a single
+default/alternate split. Give the translator at least one clear boundary or
+contrast rule, or else reinforce the entry with extra examples and fuller note
+detail.
 
 Use `notes` alongside `context_rules` when the repository needs to explain why
 the default rendering was kept, changed, or left untranslated.
@@ -256,129 +255,44 @@ When a term-family decision is important enough to shape multiple compounds or
 formula lines, also summarize it in `translation_policy` so tools do not have
 to infer inheritance only from prose.
 
-------------------------------------------------------------------------
+Use the voice patterns in `docs/VOICE_STANDARD.md` when writing `notes`,
+`context_rules`, and `example_phrases`. In practice that means:
 
-## Alternative Translations
+- direct note openings such as `The project prefers ...`
+- direct context-rule notes such as `Use this by default.`
+- descriptive example notes such as `Shows the term in compound use.`
 
-Example:
+## Tags And Status
 
-``` json
-"alternative_translations": [
-  "unease",
-  "stress"
-]
-```
-
-------------------------------------------------------------------------
-
-## Discouraged Translations
-
-Example:
-
-``` json
-"discouraged_translations": [
-  "suffering"
-]
-```
-
-------------------------------------------------------------------------
-
-## Related Terms
-
-Example:
-
-``` json
-"related_terms": [
-  "taṇhā",
-  "nirodha",
-  "anicca"
-]
-```
-
-------------------------------------------------------------------------
-
-## Example Phrases
-
-Example:
-
-``` json
-"example_phrases": [
-  {
-    "pali": "aniccā sabbasaṅkhārā",
-    "translation": "all constructed things are impermanent"
-  }
-]
-```
-
-------------------------------------------------------------------------
-
-## Tags
-
-Example tags:
-
--   aggregates
--   causality
--   context-sensitive
--   core-doctrine
--   core-practice
--   dependent-origination
--   embodiment
--   ethics
--   four-noble-truths
--   jhana-factors
--   liberation
--   mental-qualities
--   meditative-development
--   persons
--   sense-fields
--   three-marks
--   translation-sensitive
--   worldly-conditions
-
-For the preferred current tag set and when to use each tag, see
-`docs/tag-status-vocabulary.md`.
-
-------------------------------------------------------------------------
-
-## Status Field
-
-Allowed values:
-
-  Status     Meaning
-  ---------- ----------------------------
-  draft      Entry is incomplete
-  reviewed   Entry checked but evolving
-  stable     Current project standard
-
-For practical guidance on when to use each status, see
-`docs/tag-status-vocabulary.md`.
-
-------------------------------------------------------------------------
+Use the approved values in `docs/tag-status-vocabulary.md`. Do not invent
+near-duplicate tags or ad hoc status labels.
 
 ## Editing Principles
 
-1.  Prefer clarity over jargon.
-2.  Preserve doctrinal precision.
-3.  Maintain consistency with the style guide.
-4.  Encode translation decisions explicitly.
-5.  Favor rule-bearing entries for important terms.
-6.  Prefer structured provenance when a named source materially supports the rule.
+1. Prefer clarity over jargon.
+2. Preserve doctrinal precision.
+3. Prefer modern common English over inherited translationese unless a narrow
+   technical case is documented.
+4. Maintain consistency with the style guide.
+5. Encode translation decisions explicitly.
+6. Favor rule-bearing entries for important terms.
+7. Prefer structured provenance when a named source materially supports the
+   rule.
 
-------------------------------------------------------------------------
+When modernizing wording, update notes, examples, and context rules as well as
+the headline translation fields.
 
 ## Long-Term Goal
 
 The **shiny-adventure** dataset aims to support:
 
--   translators
--   readers
--   dictionary tools
--   glossary generators
--   translation assistants
--   AI-assisted translation systems
+- translators
+- readers
+- dictionary tools
+- glossary generators
+- translation assistants
+- AI-assisted translation systems
 
-Entries should encode **translation knowledge**, not just dictionary
-meaning.
+Entries should encode translation knowledge, not just dictionary meaning.
 
-The long-term aim is to build a **structured Pāli translation engine
-dataset**.
+The long-term aim is to build a structured Pāli translation engine dataset.

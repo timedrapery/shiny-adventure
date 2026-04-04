@@ -20,7 +20,7 @@
     {
       "context": "In direct self-claim or self-view language in heap analysis",
       "rendering": "self",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "When the passage contrasts an imagined essence with not-self analysis",
@@ -30,7 +30,7 @@
     {
       "context": "In formulas emphasizing possession or control over the heaps",
       "rendering": "owner",
-      "notes": "Allowed explanatory alternate when the local syntax foregrounds owning or mastering."
+      "notes": "Use this as a controlled explanatory alternate when the local syntax foregrounds owning or mastering."
     }
   ],
   "related_terms": [

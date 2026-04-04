@@ -18,17 +18,17 @@
     {
       "context": "In doctrinal contexts referring to the noble path or a defined course of practice",
       "rendering": "path",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a lighter English tone is useful",
       "rendering": "way",
-      "notes": "Acceptable alternate if the line remains doctrinally clear."
+      "notes": "Use this as a controlled alternate if the line remains doctrinally clear."
     },
     {
       "context": "In Punnaji-style pedagogical references to the Ariya Atthangika Magga",
       "rendering": "way",
-      "notes": "Source-backed alternate for phrases such as the Sublime Eightfold Way."
+      "notes": "Use this as a source-backed alternate for phrases such as the Sublime Eightfold Way."
     },
     {
       "context": "In OSF publication prose stressing an immediately workable course of practice",

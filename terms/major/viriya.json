@@ -20,12 +20,12 @@
     {
       "context": "In most practical and awakening-factor contexts",
       "rendering": "energy",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing robust force or strength of application",
       "rendering": "vigor",
-      "notes": "Acceptable alternate when the line wants more intensity."
+      "notes": "Use this as a controlled alternate when the line wants more intensity."
     },
     {
       "context": "In prose emphasizing sustained steadiness over time",
@@ -35,7 +35,7 @@
     {
       "context": "In Punnaji-style pedagogical exposition of the awakening sequence",
       "rendering": "strength",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     }
   ],
   "related_terms": [

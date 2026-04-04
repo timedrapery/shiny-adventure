@@ -19,7 +19,7 @@
     {
       "context": "In most source-facing and doctrinal contexts",
       "rendering": "Tathāgata",
-      "notes": "Default project practice is to leave the title untranslated."
+      "notes": "Leave the title untranslated by default."
     },
     {
       "context": "In explanatory prose where a gloss is necessary",
@@ -48,7 +48,7 @@
     {
       "pali": "tathāgatabala",
       "translation": "the powers of the Tathāgata",
-      "notes": "Useful reminder that the title often appears in highly doctrinal compounds.",
+      "notes": "Shows that the title often appears in highly doctrinal compounds.",
       "source": "MN 72"
     }
   ],

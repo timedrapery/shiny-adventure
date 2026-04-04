@@ -21,17 +21,17 @@
     {
       "context": "In most doctrinal and release-facing contexts",
       "rendering": "clear knowledge",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the adjective would overburden the line",
       "rendering": "knowledge",
-      "notes": "Acceptable alternate when the local contrast with avijjā is still explicit in surrounding context."
+      "notes": "Use this as a controlled alternate when the local contrast with avijjā is still explicit in surrounding context."
     },
     {
       "context": "In Punnaji-style practical pedagogical sequences that stress the growth of liberating understanding",
       "rendering": "full knowledge",
-      "notes": "Controlled practical alternate, not the house default."
+      "notes": "Use this as a controlled practical alternate, not as the house default."
     },
     {
       "context": "When vijjā is paired with vimutti in liberation formulas",

@@ -29,6 +29,8 @@ policy revision.
   entry includes `authority_basis`.
 - The cited authority matches the order in
   `docs/osf-editorial-authority.md`.
+- `Repository editorial record` does not remain on a reviewed or stable major
+  entry once the change is merge-ready.
 - Source-backed alternates are not silently promoted to house defaults.
 - Example phrases include canonical `source` citations where available.
 

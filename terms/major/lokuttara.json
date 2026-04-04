@@ -19,17 +19,17 @@
     {
       "context": "In most explanatory and doctrinal contexts",
       "rendering": "beyond-the-world",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explicit technical contrast with lokiya",
       "rendering": "supramundane",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage marks path and fruition as transcending conditioned identity and acquisition",
       "rendering": "beyond-the-world",
-      "notes": "Preserve the liberative contrast rather than softening the term into merely elevated or spiritual."
+      "notes": "Keep the liberative contrast explicit rather than softening the term into merely elevated or spiritual."
     },
     {
       "context": "In OSF explanatory prose clarifying that the term does not imply supernaturalism",
@@ -50,7 +50,7 @@
     {
       "pali": "lokuttara magga",
       "translation": "the beyond-the-world path",
-      "notes": "Useful technical collocation.",
+      "notes": "Shows a technical collocation.",
       "source": "MN 117"
     },
     {

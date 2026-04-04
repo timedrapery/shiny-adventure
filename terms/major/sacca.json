@@ -18,12 +18,12 @@
     {
       "context": "In most doctrinal and source-facing contexts",
       "rendering": "truth",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing actuality rather than verbal assertion",
       "rendering": "reality",
-      "notes": "Acceptable alternate when it improves the line."
+      "notes": "Use this as a controlled alternate when it improves the line."
     }
   ],
   "related_terms": [

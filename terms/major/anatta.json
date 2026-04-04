@@ -21,12 +21,12 @@
     {
       "context": "In direct doctrinal statements and three-characteristics formulations",
       "rendering": "not-self",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose unpacking the predicate force of the term",
       "rendering": "not a self",
-      "notes": "Useful when English needs a more explicit sentence shape."
+      "notes": "Use this when English needs a more explicit sentence shape."
     },
     {
       "context": "In the standard heap refrain netaṃ mama, nesohamasmi, na me so attā",
@@ -36,7 +36,7 @@
     {
       "context": "When the point is freedom from identification and ownership rather than a doctrinal formula",
       "rendering": "without self",
-      "notes": "Allowed explanatory alternate, not the default translation."
+      "notes": "Use this as a controlled explanatory alternate, not the default translation."
     }
   ],
   "related_terms": [

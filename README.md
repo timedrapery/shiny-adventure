@@ -6,6 +6,13 @@
 Structured Pali-to-English translation infrastructure for Early Buddhist work.
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
+New here:
+
+1. Read [docs/project-overview.md](docs/project-overview.md) for the operating model.
+2. Use [docs/documentation-guide.md](docs/documentation-guide.md) as the main map of the docs set.
+3. Read [docs/development-guide.md](docs/development-guide.md) and [CONTRIBUTING.md](CONTRIBUTING.md) before editing live data.
+4. If you are working from raw source text rather than refining existing entries, start with [candidates/README.md](candidates/README.md) instead of writing directly into `terms/`.
+
 ## What This Repository Does
 
 - encodes term decisions in schema-validated JSON records
@@ -23,6 +30,34 @@ This repository stores translation policy as versioned data so term decisions st
 
 Major entries are policy-bearing records. They exist to preserve translation discipline across doctrinal families, compounds, formulas, and recurring editorial situations.
 
+## Source Of Truth
+
+The repository has a deliberate source-of-truth stack:
+
+- `terms/major/` and `terms/minor/` hold the live governed lexicon
+- top-level governance docs and normative docs in `docs/` explain how those records should be written and reviewed
+- `candidates/` holds intake evidence that has not yet become live policy
+- `docs/generated/` holds derived reference material for browsing, review, and translation support
+
+If a generated sheet or report looks wrong, fix the live term data or the generating script first. Do not treat generated docs as the primary place to make policy decisions.
+
+## How Governed Content Enters The Repo
+
+The repository has a deliberate review path:
+
+1. Raw source vocabulary is first handled in [`candidates/`](candidates/README.md), not in the live lexicon.
+2. Confirmed editorial decisions are encoded in `terms/major/` or `terms/minor/`.
+3. Scripts and tests validate structure, drift resistance, provenance, and workflow behavior.
+4. Generated docs in [`docs/generated/`](docs/generated/generated-docs-guide.md) provide reference surfaces, but they do not replace the live policy records.
+
+Typical candidate outputs include:
+
+- `candidates/candidate_terms.json`
+- `candidates/candidate_terms.md`
+- `candidates/scaffolds/*.review.json`
+
+Those files are review materials. They do not become governed lexicon content until an editor makes an explicit live-entry decision.
+
 ## Start Here
 
 - New to the project: [docs/project-overview.md](docs/project-overview.md)
@@ -32,6 +67,15 @@ Major entries are policy-bearing records. They exist to preserve translation dis
 - Looking for command examples: [docs/usage.md](docs/usage.md)
 - Want the script index: [scripts/README.md](scripts/README.md)
 - Need term-directory navigation: [terms/README.md](terms/README.md)
+- Working from extracted candidates: [candidates/README.md](candidates/README.md)
+- Need generated reference-material guidance: [docs/generated/generated-docs-guide.md](docs/generated/generated-docs-guide.md)
+
+## First Contribution Paths
+
+- Revising existing live policy: start in [terms/README.md](terms/README.md), then use [docs/term-entry-standard.md](docs/term-entry-standard.md) and [docs/data-dictionary.md](docs/data-dictionary.md).
+- Working from raw source text: start in [candidates/README.md](candidates/README.md) and [docs/candidate-term-workflow.md](docs/candidate-term-workflow.md).
+- Changing workflow code or checks: start in [docs/development-guide.md](docs/development-guide.md) and [scripts/README.md](scripts/README.md).
+- Checking project-level rules before any edit: read [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md), [STYLE_GUIDE.md](STYLE_GUIDE.md), [docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md), and [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md).
 
 ## Quick Start
 
@@ -95,24 +139,23 @@ python scripts/backfill_policy_metadata.py --check-only
 
 For task-based command guidance, see [docs/usage.md](docs/usage.md).
 
-## Repository Structure
+## Repository Map
 
-```text
-shiny-adventure/
-|- terms/                  # Live lexicon records, split into major/ and minor/
-|- schema/                 # JSON schema for term records
-|- scripts/                # Validation, reporting, scaffolding, and helper tools
-|- tests/                  # Regression tests for scripts and workflow behavior
-|- candidates/             # Review-first intake area for proposed terms
-|- docs/                   # Editorial standards, workflow docs, and planning notes
-`- .github/                # CI workflow plus issue and PR templates
-```
+| Path | Role | Start here |
+| --- | --- | --- |
+| `terms/` | Live lexicon and translation policy records | [terms/README.md](terms/README.md) |
+| `schema/` | Structural contract for term records | [docs/data-dictionary.md](docs/data-dictionary.md) |
+| `scripts/` | Validation, drift checks, reports, scaffolding, and helper tooling | [scripts/README.md](scripts/README.md) |
+| `tests/` | Regression coverage for scripts and repository workflows | [docs/development-guide.md](docs/development-guide.md) |
+| `candidates/` | Review-first intake area for source extraction output | [candidates/README.md](candidates/README.md) |
+| `docs/` | Normative policy docs, workflow guides, planning notes, and reference material | [docs/documentation-guide.md](docs/documentation-guide.md) |
+| `docs/generated/` | Generated reference outputs derived from live policy and audit scripts | [docs/generated/generated-docs-guide.md](docs/generated/generated-docs-guide.md) |
 
 See [docs/architecture.md](docs/architecture.md) for the operating model and [docs/data-dictionary.md](docs/data-dictionary.md) for field-level definitions.
 
 The live `terms/major/` and `terms/minor/` directories stay flat on disk; use
 [terms/README.md](terms/README.md) and the generated term indexes for human
-navigation.
+navigation rather than adding subfolders.
 
 ## Validation Stack
 
@@ -127,9 +170,12 @@ navigation.
 
 - translation principles: [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
 - translation voice and house preferences: [STYLE_GUIDE.md](STYLE_GUIDE.md)
+- modern-English register policy: [docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md)
+- voice-standard sentence patterns: [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md)
 - authority order: [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
 - term entry requirements: [docs/term-entry-standard.md](docs/term-entry-standard.md)
 - tags and status vocabulary: [docs/tag-status-vocabulary.md](docs/tag-status-vocabulary.md)
+- generated-reference guidance: [docs/generated/generated-docs-guide.md](docs/generated/generated-docs-guide.md)
 
 ## Current Priorities
 

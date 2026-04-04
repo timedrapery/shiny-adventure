@@ -18,12 +18,12 @@
     {
       "context": "In the five faculties and related doctrinal frameworks",
       "rendering": "faculty",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing operative ability rather than classification",
       "rendering": "capacity",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     }
   ],
   "related_terms": [

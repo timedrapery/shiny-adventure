@@ -3,21 +3,42 @@
   "normalized_term": "cittanupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "contemplation of mind",
-  "preferred_translation": "contemplation of mind",
+  "literal_meaning": "contemplation of the feeling mind",
+  "preferred_translation": "contemplation of the feeling mind",
   "alternative_translations": [
-    "mind contemplation"
+    "feeling-mind contemplation",
+    "contemplation of mind"
   ],
   "discouraged_translations": [
     "mindfulness of thoughts"
   ],
   "untranslated_preferred": false,
-  "definition": "Contemplation of mind in the satipaṭṭhāna framework.",
+  "definition": "Contemplation of the feeling mind in the satipaṭṭhāna framework.",
+  "notes": "Use this record for the citta branch of satipaṭṭhāna. Keep it aligned with the repository's feeling-mind policy so the branch does not collapse into generic cognition or thought-watching.",
+  "related_terms": [
+    "citta",
+    "satipatthana",
+    "cattaro-satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "citte cittānupassī viharati",
+      "translation": "one remains observing the feeling mind in relation to the feeling mind",
+      "notes": "Standard satipaṭṭhāna formula aligned with the repo's citta policy.",
+      "source": "DN 22"
+    }
+  ],
   "sutta_references": [
-    "DN 22"
+    "DN 22",
+    "MN 10",
+    "MN 118"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use for the citta branch of satipaṭṭhāna in governed practice contexts.",
+    "when_not_to_apply": "Do not reduce this to thought-monitoring or generic mind-language unless a source-facing note explicitly justifies that shift."
+  }
 }

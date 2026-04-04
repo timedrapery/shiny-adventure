@@ -19,12 +19,12 @@
     {
       "context": "In the four-nutriments framework",
       "rendering": "mental-intention nutriment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a slightly expanded phrase reads more clearly",
       "rendering": "nutriment of mental intention",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     }
   ],
   "related_terms": [

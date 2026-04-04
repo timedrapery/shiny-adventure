@@ -20,22 +20,22 @@
     {
       "context": "In most jhāna descriptions and practical doctrinal prose",
       "rendering": "pondering",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing reflective examination",
       "rendering": "reflection",
-      "notes": "Allowed alternate when it reads more cleanly."
+      "notes": "Use this as a controlled alternate when it reads more cleanly."
     },
     {
       "context": "In first-jhāna and ānāpānasati explanation where the checking function is foregrounded",
       "rendering": "evaluation",
-      "notes": "Allowed explanatory alternate for checking whether the line of practice is heading in the right direction."
+      "notes": "Use this as a controlled explanatory alternate for checking whether the line of practice is heading in the right direction."
     },
     {
       "context": "When explaining the continuing engagement with a chosen mental theme after vitakka has taken it up",
       "rendering": "sustained attention",
-      "notes": "Explanatory alternate, not the default translation."
+      "notes": "Use this as an explanatory alternate, not as the default translation."
     },
     {
       "context": "When paired with vitakka in first-jhāna formulae",
@@ -60,7 +60,7 @@
     {
       "pali": "avicārapaṭisaṃvedī",
       "translation": "experiencing the fading of pondering",
-      "notes": "Useful for showing how the factor is dropped in the higher jhāna sequence.",
+      "notes": "Shows how the factor drops out in the higher jhāna sequence.",
       "source": "MN 118"
     },
     {

@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and compound contexts where the active or result-side knowing should stay audible",
       "rendering": "knowledge",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose where a settled noun reads better than the more active English verbal noun",
       "rendering": "knowing",
-      "notes": "Acceptable alternate when the sentence genuinely needs more movement."
+      "notes": "Use this as a controlled alternate when the sentence genuinely needs more movement."
     },
     {
       "context": "In formulae or explanatory prose emphasizing immediacy rather than accumulated information",
@@ -36,7 +36,7 @@
     {
       "context": "In compounds such as khaye-ñāṇa where idiomatic English strongly favors a noun phrase",
       "rendering": "knowledge",
-      "notes": "Allow the compound record to keep smoother English where needed."
+      "notes": "Use this only when the compound record needs smoother English."
     }
   ],
   "related_terms": [

@@ -21,12 +21,12 @@
     {
       "context": "In most doctrinal and formula contexts",
       "rendering": "escape",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the directional sense needs to stay very plain",
       "rendering": "way out",
-      "notes": "Allowed alternate when the line benefits from it."
+      "notes": "Use this as a controlled alternate when the line benefits from it."
     },
     {
       "context": "In formulas of the form assāda, ādīnava, nissaraṇa",
@@ -36,7 +36,7 @@
     {
       "context": "When the text explicitly frames one as seeing the escape from a phenomenon",
       "rendering": "escape from",
-      "notes": "Let the out-from structure stay audible in English."
+      "notes": "Keep the out-from structure audible in English."
     }
   ],
   "related_terms": [

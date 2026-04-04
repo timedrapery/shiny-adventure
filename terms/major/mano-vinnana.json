@@ -19,17 +19,17 @@
     {
       "context": "In most analytical and source-facing contexts",
       "rendering": "mind-knowing",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the compound reads more naturally with a fuller adjective",
       "rendering": "mental knowing",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "In comparative doctrinal prose using established Buddhist-English terminology",
       "rendering": "mind-consciousness",
-      "notes": "Acceptable alternate when continuity with standard terminology helps."
+      "notes": "Use this as a controlled alternate when continuity with standard terminology helps."
     }
   ],
   "related_terms": [

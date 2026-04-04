@@ -25,26 +25,24 @@
 
 So I heard.
 
-At one time the Buddha was dwelling at Sāvatthī in Jeta's Grove, in
+At one time the Buddha was staying at Sāvatthī in Jeta's Grove, in
 Anāthapiṇḍika's monastery.
 
-There the Buddha addressed the bhikkhus:
-
-"Bhikkhus."
+There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 "Bhante," they replied.
 
-The Buddha said:
+The Buddha said this:
 
 "Bhikkhus, I will teach you a dhamma good in the beginning, good in the
 middle, and good in the end, meaningful and well-worded. I will make known
 the complete and purified spiritual life, namely: the six sets of six.
 
-Listen, attend carefully, I will speak."
+Listen carefully, attend well, and I will speak."
 
 "Yes, bhante," they replied.
 
-The Buddha said:
+The Buddha said this:
 
 ### The Six Sets Of Six
 
@@ -184,7 +182,7 @@ follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'the eye is self.'
 
-Thus the eye is not-self.
+So the eye is not-self.
 
 If anyone were to say, 'visible forms are self,' that would not hold.
 
@@ -195,7 +193,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'visible forms are self.'
 
-Thus the eye is not-self; visible forms are not-self.
+So the eye is not-self; visible forms are not-self.
 
 If anyone were to say, 'eye-knowing is self,' that would not hold.
 
@@ -206,7 +204,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'eye-knowing is self.'
 
-Thus the eye is not-self; visible forms are not-self; eye-knowing is
+So the eye is not-self; visible forms are not-self; eye-knowing is
 not-self.
 
 If anyone were to say, 'eye-contact is self,' that would not hold.
@@ -218,7 +216,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'eye-contact is self.'
 
-Thus the eye is not-self; visible forms are not-self; eye-knowing is
+So the eye is not-self; visible forms are not-self; eye-knowing is
 not-self; eye-contact is not-self.
 
 If anyone were to say, 'felt experience is self,' that would not hold.
@@ -230,7 +228,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'felt experience is self.'
 
-Thus the eye is not-self; visible forms are not-self; eye-knowing is
+So the eye is not-self; visible forms are not-self; eye-knowing is
 not-self; eye-contact is not-self; felt experience is not-self.
 
 If anyone were to say, 'ignorant wanting is self,' that would not hold.
@@ -242,7 +240,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'ignorant wanting is self.'
 
-Thus the eye is not-self; visible forms are not-self; eye-knowing is
+So the eye is not-self; visible forms are not-self; eye-knowing is
 not-self; eye-contact is not-self; felt experience is not-self; ignorant
 wanting is not-self.
 
@@ -261,7 +259,7 @@ follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'mind is self.'
 
-Thus mind is not-self.
+So mind is not-self.
 
 If anyone were to say, 'dhammas are self,' that would not hold.
 
@@ -272,7 +270,7 @@ follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'dhammas are self.'
 
-Thus mind is not-self; dhammas are not-self.
+So mind is not-self; dhammas are not-self.
 
 If anyone were to say, 'mind-knowing is self,' that would not hold.
 
@@ -283,7 +281,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'mind-knowing is self.'
 
-Thus mind is not-self; dhammas are not-self; mind-knowing is not-self.
+So mind is not-self; dhammas are not-self; mind-knowing is not-self.
 
 If anyone were to say, 'mind-contact is self,' that would not hold.
 
@@ -294,7 +292,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'mind-contact is self.'
 
-Thus mind is not-self; dhammas are not-self; mind-knowing is not-self;
+So mind is not-self; dhammas are not-self; mind-knowing is not-self;
 mind-contact is not-self.
 
 If anyone were to say, 'felt experience is self,' that would not hold.
@@ -306,7 +304,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'felt experience is self.'
 
-Thus mind is not-self; dhammas are not-self; mind-knowing is not-self;
+So mind is not-self; dhammas are not-self; mind-knowing is not-self;
 mind-contact is not-self; felt experience is not-self.
 
 If anyone were to say, 'ignorant wanting is self,' that would not hold.
@@ -318,7 +316,7 @@ would follow: 'my self arises and vanishes.'
 
 So it would not hold to say: 'ignorant wanting is self.'
 
-Thus mind is not-self; dhammas are not-self; mind-knowing is not-self;
+So mind is not-self; dhammas are not-self; mind-knowing is not-self;
 mind-contact is not-self; felt experience is not-self; ignorant wanting is
 not-self."
 
@@ -326,17 +324,17 @@ not-self."
 
 "And this, bhikkhus, is the way leading to the arising of identity:
 
-one regards the eye thus: 'This is mine, I am this, this is my self.'
+one regards the eye like this: 'This is mine, I am this, this is my self.'
 
-One regards visible forms thus: 'This is mine, I am this, this is my self.'
+One regards visible forms like this: 'This is mine, I am this, this is my self.'
 
-One regards eye-knowing thus: 'This is mine, I am this, this is my self.'
+One regards eye-knowing like this: 'This is mine, I am this, this is my self.'
 
-One regards eye-contact thus: 'This is mine, I am this, this is my self.'
+One regards eye-contact like this: 'This is mine, I am this, this is my self.'
 
-One regards felt experience thus: 'This is mine, I am this, this is my self.'
+One regards felt experience like this: 'This is mine, I am this, this is my self.'
 
-One regards ignorant wanting thus: 'This is mine, I am this, this is my
+One regards ignorant wanting like this: 'This is mine, I am this, this is my
 self.'
 
 The same pattern applies for ear, sounds, ear-knowing, ear-contact, felt
@@ -345,39 +343,39 @@ felt experience, and ignorant wanting; for tongue, tastes, tongue-knowing,
 tongue-contact, felt experience, and ignorant wanting; and for body,
 tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 
-One regards mind thus: 'This is mine, I am this, this is my self.'
+One regards mind like this: 'This is mine, I am this, this is my self.'
 
-One regards dhammas thus: 'This is mine, I am this, this is my self.'
+One regards dhammas like this: 'This is mine, I am this, this is my self.'
 
-One regards mind-knowing thus: 'This is mine, I am this, this is my self.'
+One regards mind-knowing like this: 'This is mine, I am this, this is my self.'
 
-One regards mind-contact thus: 'This is mine, I am this, this is my self.'
+One regards mind-contact like this: 'This is mine, I am this, this is my self.'
 
-One regards felt experience thus: 'This is mine, I am this, this is my self.'
+One regards felt experience like this: 'This is mine, I am this, this is my self.'
 
-One regards ignorant wanting thus: 'This is mine, I am this, this is my
+One regards ignorant wanting like this: 'This is mine, I am this, this is my
 self.'"
 
 ### The Way Leading To The Quenching Of Identity
 
 "And this, bhikkhus, is the way leading to the quenching of identity:
 
-one regards the eye thus: 'This is not mine, I am not this, this is not my
+one regards the eye like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards visible forms thus: 'This is not mine, I am not this, this is not
+One regards visible forms like this: 'This is not mine, I am not this, this is not
 my self.'
 
-One regards eye-knowing thus: 'This is not mine, I am not this, this is not
+One regards eye-knowing like this: 'This is not mine, I am not this, this is not
 my self.'
 
-One regards eye-contact thus: 'This is not mine, I am not this, this is not
+One regards eye-contact like this: 'This is not mine, I am not this, this is not
 my self.'
 
-One regards felt experience thus: 'This is not mine, I am not this, this is
+One regards felt experience like this: 'This is not mine, I am not this, this is
 not my self.'
 
-One regards ignorant wanting thus: 'This is not mine, I am not this, this is
+One regards ignorant wanting like this: 'This is not mine, I am not this, this is
 not my self.'
 
 The same pattern applies for ear, sounds, ear-knowing, ear-contact, felt
@@ -386,22 +384,22 @@ felt experience, and ignorant wanting; for tongue, tastes, tongue-knowing,
 tongue-contact, felt experience, and ignorant wanting; and for body,
 tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 
-One regards mind thus: 'This is not mine, I am not this, this is not my
+One regards mind like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards dhammas thus: 'This is not mine, I am not this, this is not my
+One regards dhammas like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards mind-knowing thus: 'This is not mine, I am not this, this is not
+One regards mind-knowing like this: 'This is not mine, I am not this, this is not
 my self.'
 
-One regards mind-contact thus: 'This is not mine, I am not this, this is not
+One regards mind-contact like this: 'This is not mine, I am not this, this is not
 my self.'
 
-One regards felt experience thus: 'This is not mine, I am not this, this is
+One regards felt experience like this: 'This is not mine, I am not this, this is
 not my self.'
 
-One regards ignorant wanting thus: 'This is not mine, I am not this, this is
+One regards ignorant wanting like this: 'This is not mine, I am not this, this is
 not my self.'"
 
 ### Pleasant, Painful, And Mixed Feeling: The Untrained Pattern
@@ -411,7 +409,7 @@ not my self.'"
 left unclear and therefore easily ruled by ignorance.*
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
-three is contact. With contact as condition there arises what is felt as
+three is contact. With contact as condition, there is felt experience as
 pleasant, painful, or mixed.
 
 When one is touched by pleasant feeling, one delights in it, affirms it, and
@@ -441,7 +439,7 @@ The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
-is contact. With contact as condition there arises what is felt as pleasant,
+is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
 When one is touched by pleasant feeling, one delights in it, affirms it, and
@@ -470,7 +468,7 @@ dissatisfaction in this very life."
 ### Pleasant, Painful, And Mixed Feeling: The Trained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
-three is contact. With contact as condition there arises what is felt as
+three is contact. With contact as condition, there is felt experience as
 pleasant, painful, or mixed.
 
 When one is touched by pleasant feeling, one does not delight in it, does not
@@ -500,7 +498,7 @@ The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
-is contact. With contact as condition there arises what is felt as pleasant,
+is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
 When one is touched by pleasant feeling, one does not delight in it, does not
@@ -528,7 +526,7 @@ life."
 
 ### Disenchantment, Fading, And Release
 
-"Seeing thus, bhikkhus, a learned noble disciple becomes disenchanted with the
+"Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with the
 eye, with visible forms, with eye-knowing, with eye-contact, with felt
 experience, and with ignorant wanting.
 

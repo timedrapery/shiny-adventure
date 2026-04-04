@@ -18,12 +18,12 @@
     {
       "context": "In doctrinal analysis of the four nutriments",
       "rendering": "nutriment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In plainly literal contexts or lighter explanatory prose",
       "rendering": "food",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
     },
     {
       "context": "When the passage emphasizes the fourfold analysis of what sustains experience and becoming",
@@ -48,7 +48,7 @@
     {
       "pali": "āhārasamudayā",
       "translation": "from the origin of nutriment",
-      "notes": "Useful for the causal framing around nutriment in SN 12.",
+      "notes": "Shows the causal framing around nutriment in SN 12.",
       "source": "SN 12.11"
     }
   ],

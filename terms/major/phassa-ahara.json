@@ -13,17 +13,22 @@
   ],
   "untranslated_preferred": false,
   "definition": "Contact as a nutriment that sustains the arising of felt experience and continued entanglement.",
-  "notes": "The project prefers contact nutriment because it stays transparent and compact. Nutriment of contact is acceptable in more explanatory prose if the phrase needs to open up slightly. The OSF glossary supports this by keeping phassāhāra aligned with the four-nutriments analysis and with phassa as the technical event of contact.",
+  "notes": "The project keeps contact nutriment as the default because it stays transparent and compact while keeping the compound aligned with phassa as a technical event. Nutriment of contact remains a controlled alternate when the phrase needs to open up slightly, but the term should not drift into sensory-stimulation language. This entry needs to stay coordinated with āhāra as the broad category and with vedanā as the next step contact helps sustain. The OSF glossary supports keeping phassāhāra inside the four-nutriments analysis rather than translating it as generic stimulation.",
   "context_rules": [
     {
       "context": "In the four-nutriments framework",
       "rendering": "contact nutriment",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where the genitive structure reads more naturally",
       "rendering": "nutriment of contact",
-      "notes": "Acceptable alternate."
+      "notes": "Use this as a controlled alternate."
+    },
+    {
+      "context": "When the line needs to stay aligned with phassa and the feeling sequence it feeds",
+      "rendering": "contact nutriment",
+      "notes": "Keep contact explicit rather than replacing it with generic stimulation language."
     }
   ],
   "related_terms": [

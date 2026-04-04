@@ -95,6 +95,11 @@ Use these `authority_basis.priority` values in structured term metadata:
   primary for the current policy decision
 - `external`: outside-source materials and profiles
 
+`Repository editorial record` is not part of this final authority order. It is
+only a temporary placeholder for metadata backfill or draft-stage coverage and
+should be replaced before a reviewed or stable major entry is treated as
+complete.
+
 ## Outside Sources
 
 Outside-source profiles can inform alternates, notes, and source-specific

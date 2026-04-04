@@ -22,7 +22,7 @@
     {
       "context": "In most doctrinal and practical OSF contexts",
       "rendering": "ignorant wanting",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In comparative doctrinal prose engaging established Buddhist-English usage",
@@ -37,7 +37,7 @@
     {
       "context": "In direct practical instruction emphasizing the agitated pull toward getting, securing, or forcing outcomes",
       "rendering": "excitement about getting things",
-      "notes": "Useful when the immediate restless acquisitive leaning is the point."
+      "notes": "Use this when the immediate restless acquisitive leaning is the point."
     },
     {
       "context": "In plain-English newcomer explanation",

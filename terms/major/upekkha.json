@@ -22,12 +22,12 @@
     {
       "context": "In most practical, doctrinal, and meditative contexts",
       "rendering": "dynamic balance",
-      "notes": "Default project rendering."
+      "notes": "Use this by default."
     },
     {
       "context": "In prose emphasizing steady balance",
       "rendering": "evenness",
-      "notes": "Acceptable alternate when it reads more naturally."
+      "notes": "Use this as a controlled alternate when it reads more naturally."
     },
     {
       "context": "In prose stressing composure under changing conditions",
@@ -37,17 +37,17 @@
     {
       "context": "When reader continuity with standard Buddhist-English is more important than the house idiom",
       "rendering": "equanimity",
-      "notes": "Controlled alternate, not the default rendering."
+      "notes": "Use this as a controlled alternate, not as the default rendering."
     },
     {
       "context": "In Punnaji-style advanced meditative explanation of inward observation",
       "rendering": "introspection",
-      "notes": "Source-backed alternate, not the house default."
+      "notes": "Use this as a source-backed alternate, not as the house default."
     },
     {
       "context": "In OSF-glossary style practical explanation of balanced adaptability",
       "rendering": "dynamic balance",
-      "notes": "Now aligned with the house default."
+      "notes": "Use this only where the aligned house default is already in view."
     }
   ],
   "related_terms": [
@@ -68,7 +68,7 @@
     {
       "pali": "upekkhako satimā",
       "translation": "balanced and with sati",
-      "notes": "Useful phrase showing the quality in meditative context without flattening it into detachment.",
+      "notes": "Shows the quality in meditative context without flattening it into detachment.",
       "source": "MN 7"
     }
   ],
