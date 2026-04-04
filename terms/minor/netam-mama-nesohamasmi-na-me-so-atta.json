@@ -1,0 +1,57 @@
+{
+  "term": "netaṁ mama, nesohamasmi, na me so attā",
+  "normalized_term": "netam-mama-nesohamasmi-na-me-so-atta",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "this is not mine, I am not this, this is not my self",
+  "alternative_translations": [
+    "this is not mine, this I am not, this is not my self"
+  ],
+  "discouraged_translations": [
+    "this does not belong to me, this is not who I really am, this is not the self"
+  ],
+  "definition": "Canonical three-part de-appropriation formula of not-mine, not-I-am, and not-self.",
+  "notes": "Use this record when the text explicitly spells out the practical force of not-self. Keep the three turns distinct: no ownership, no I-am identification, and no self-claim. SN 22.59 anchors the formula in the practical not-self analysis of the heaps, and MN 148 uses it as the live pattern of identity-quenching.",
+  "related_terms": [
+    "anatta",
+    "atta",
+    "sakkaya",
+    "upadana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "netaṁ mama, nesohamasmi, na me so attā",
+      "translation": "this is not mine, I am not this, this is not my self",
+      "notes": "Control line for the de-appropriation pattern in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148",
+    "SN 22.59"
+  ],
+  "tags": [
+    "core-doctrine",
+    "self-view",
+    "translation-sensitive"
+  ],
+  "status": "stable",
+  "authority_basis": [
+    {
+      "source": "SN 22.59",
+      "kind": "context-rule",
+      "scope": "Supports the practical de-appropriation formula that explains the force of not-self."
+    },
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the formula as the explicit path leading to the quenching of identity."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the practical not-self formula.",
+    "when_not_to_apply": "Do not turn the line into a metaphysical slogan and do not collapse its three movements into one abstract denial.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the de-appropriation formula from losing its ownership, identification, and self-claim structure."
+  }
+}

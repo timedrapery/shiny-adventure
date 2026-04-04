@@ -1,0 +1,45 @@
+{
+  "term": "rāga-anusaya",
+  "normalized_term": "raga-anusaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "underlying tendency toward passion",
+  "preferred_translation": "underlying tendency toward passion",
+  "definition": "A named latent tendency in the anusaya family.",
+  "notes": "This compound should inherit the anusaya headword policy. Keep both the latent force and the rāga family audible rather than flattening the line into generic liking or desire language. MN 148 gives the most immediate practical surface for this residue in relation to pleasant feeling.",
+  "related_terms": [
+    "anusaya",
+    "raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "rāgānusayo",
+      "translation": "the underlying tendency toward passion",
+      "notes": "Named residue in the MN 148 pleasant-feeling sequence.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148",
+    "MN 64"
+  ],
+  "tags": [
+    "core-doctrine",
+    "mental-qualities",
+    "sense-fields"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the compound as the named residue that lies underneath delighting in pleasant feeling."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'underlying tendency toward passion' as the default rendering when this compound is translated directly.",
+    "when_not_to_apply": "Do not flatten the compound into generic desire, liking, or emotion language.",
+    "compound_inheritance": "inherit",
+    "drift_risk": "Prevents the latent residue in the feeling sequence from collapsing into the broader taṇhā family or into vague liking-language."
+  }
+}

@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 841
+- Entries: 846
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -293,6 +293,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
 | [ehipassiko](../../terms/minor/ehipassiko.json) | ehipassiko | come and see | reviewed | core-doctrine, translation-sensitive |
+| [etam-mama-esohamasmi-eso-me-atta](../../terms/minor/etam-mama-esohamasmi-eso-me-atta.json) | etaṁ mama, esohamasmi, eso me attā | this is mine, I am this, this is my self | reviewed | core-doctrine, self-view, translation-sensitive |
 
 ## G
 
@@ -522,6 +523,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [naya](../../terms/minor/naya.json) | naya | line of interpretation | draft | core-doctrine |
 | [nekkhamma-dhatu](../../terms/minor/nekkhamma-dhatu.json) | nekkhamma-dhātu | element of renunciation | reviewed | core-doctrine |
 | [nekkhamma-vitakka](../../terms/minor/nekkhamma-vitakka.json) | nekkhammavitakka | thinking of renunciation | reviewed | core-practice, mental-qualities, ethics |
+| [netam-mama-nesohamasmi-na-me-so-atta](../../terms/minor/netam-mama-nesohamasmi-na-me-so-atta.json) | netaṁ mama, nesohamasmi, na me so attā | this is not mine, I am not this, this is not my self | stable | core-doctrine, self-view, translation-sensitive |
 | [nevasannanasannayatana](../../terms/minor/nevasannanasannayatana.json) | nevasaññānāsaññāyatana | sphere of neither-recognition-nor-non-recognition | reviewed | meditative-development |
 | [neyya](../../terms/minor/neyya.json) | neyya | trainable | reviewed | persons |
 | [nharu](../../terms/minor/nharu.json) | nharu | sinews | reviewed | embodiment, meditative-development |
@@ -666,6 +668,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
+| [raga-anusaya](../../terms/minor/raga-anusaya.json) | rāga-anusaya | underlying tendency toward passion | reviewed | core-doctrine, mental-qualities, sense-fields |
 | [rahula](../../terms/minor/rahula.json) | Rāhula | Rāhula | reviewed | persons |
 | [rajja](../../terms/minor/rajja.json) | rajja | kingdom | reviewed | core-doctrine |
 | [rasa-tanha](../../terms/minor/rasa-tanha.json) | rasa-tanha | craving for tastes | reviewed | core-doctrine, mental-qualities |
@@ -779,6 +782,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sudda](../../terms/minor/sudda.json) | sudda | laborer | reviewed | persons |
 | [sugati](../../terms/minor/sugati.json) | sugati | good destination | reviewed | core-doctrine |
 | [sukha-vedana](../../terms/minor/sukha-vedana.json) | sukhavedanā | pleasant feeling | reviewed | aggregates |
+| [sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati](../../terms/minor/sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati.json) | sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati | when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally | reviewed | core-practice, translation-sensitive, sense-fields |
 | [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | mental composure that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-vimokkha](../../terms/minor/sunnata-vimokkha.json) | sunnata-vimokkha | emptiness release | reviewed | liberation, meditative-development, emptiness-interface |
@@ -882,6 +886,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vedanakkhandha](../../terms/minor/vedanakkhandha.json) | vedanākkhandha | felt-experience heap | stable | aggregates, translation-sensitive |
 | [vedananupassana](../../terms/minor/vedananupassana.json) | vedanānupassanā | contemplation of feeling | reviewed | core-practice |
 | [vedanapaccaya-tanha](../../terms/minor/vedanapaccaya-tanha.json) | vedanāpaccayā taṇhā | with felt experience as condition, ignorant wanting | stable | dependent-origination, causality, translation-sensitive |
+| [vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati](../../terms/minor/vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati.json) | vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti | one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, translation-sensitive, sense-fields, knowledge-cluster |
 | [vera](../../terms/minor/vera.json) | vera | enmity | reviewed | mental-qualities |
 | [vessa](../../terms/minor/vessa.json) | vessa | merchant-householder | reviewed | persons |
 | [vicchiddaka](../../terms/minor/vicchiddaka.json) | vicchiddaka | cut-up corpse | reviewed | meditative-development, embodiment |

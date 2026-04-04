@@ -1,0 +1,52 @@
+{
+  "term": "sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati",
+  "normalized_term": "sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally",
+  "alternative_translations": [
+    "when touched by pleasant feeling, one delights in it, affirms it, and remains taking it personally"
+  ],
+  "discouraged_translations": [
+    "when one experiences pleasure, one approves, welcomes, and clings to it"
+  ],
+  "definition": "MN 148 formula for the pleasant-feeling response that feeds the passion tendency.",
+  "notes": "This line should be read together with the repository's MN 18 delight-and-taking-personally family. The point is not pleasant feeling by itself, but the movement of delighting, affirming, and continuing to take it personally.",
+  "related_terms": [
+    "nandi",
+    "raga",
+    "raga-anusaya",
+    "upadana",
+    "vedana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati",
+      "translation": "when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally",
+      "notes": "Pleasant-feeling response pattern in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "sense-fields"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the pleasant-feeling response line that conditions the passion tendency."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the MN 148 pleasant-feeling response formula.",
+    "when_not_to_apply": "Do not collapse the line into generic liking or craving language, and do not erase the ongoing taking-personally force of ajjhosāya tiṭṭhati.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents this response pattern from drifting into vague approval-language or losing its appropriative force."
+  }
+}

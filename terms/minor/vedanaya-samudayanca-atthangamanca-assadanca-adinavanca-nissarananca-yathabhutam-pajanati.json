@@ -1,0 +1,52 @@
+{
+  "term": "vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti",
+  "normalized_term": "vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+  "alternative_translations": [
+    "one clearly knows that feeling's arising and vanishing, gratification, danger, and escape as they have come to be"
+  ],
+  "discouraged_translations": [
+    "one objectively understands the cycle of neutral feeling"
+  ],
+  "definition": "MN 148 formula for discerning a feeling's arising, vanishing, gratification, danger, and escape.",
+  "notes": "This formula should be read together with the project's vedanā, nissaraṇa, and yathābhūtaṁ pajānāti policies. In MN 148 it is the decisive contrast with the mixed-feeling line that is not discerned. The repository keeps mixed rather than neutral in the surrounding register language.",
+  "related_terms": [
+    "nissarana",
+    "pajanati",
+    "vedana",
+    "yathabhutam-pajanati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti",
+      "translation": "one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+      "notes": "Discernment line in the trained half of MN 148's mixed-feeling sequence.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "translation-sensitive",
+    "sense-fields",
+    "knowledge-cluster"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the discernment line that blocks the ignorance tendency in relation to mixed feeling."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the MN 148 feeling-discernment formula.",
+    "when_not_to_apply": "Do not flatten the line into generic understanding language and do not replace the surrounding mixed-feeling register with neutral-feeling wording.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the formula from losing either the five-part discernment structure or the sharper verbal force of pajānāti."
+  }
+}
