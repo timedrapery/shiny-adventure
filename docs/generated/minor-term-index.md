@@ -718,7 +718,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [samphassaja](../../terms/minor/samphassaja.json) | samphassaja | contact-born | reviewed | core-practice, meditative-development |
 | [samskara](../../terms/minor/samskara.json) | saṃskāra | saṃskāra | reviewed | core-doctrine, translation-sensitive |
 | [samuccheda](../../terms/minor/samuccheda.json) | samuccheda | cutting off at the root | reviewed | core-practice |
-| [samudaya-ariyasacca](../../terms/minor/samudaya-ariyasacca.json) | samudaya-ariyasacca | noble truth of arising | reviewed | core-doctrine, four-noble-truths |
+| [samudaya-ariyasacca](../../terms/minor/samudaya-ariyasacca.json) | samudaya-ariyasacca | noble truth of origin | reviewed | core-doctrine, four-noble-truths |
 | [samvega](../../terms/minor/samvega.json) | saṃvega | urgency | reviewed | core-practice |
 | [sangha](../../terms/minor/sangha.json) | saṅgha | saṅgha | reviewed | persons, translation-sensitive |
 | [sanghakamma](../../terms/minor/sanghakamma.json) | saṅghakamma | Saṅgha act | reviewed | core-practice |

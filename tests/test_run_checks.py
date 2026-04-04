@@ -47,6 +47,10 @@ class RunChecksTests(unittest.TestCase):
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(
+            [sys.executable, "scripts/four_noble_truths_cluster_report.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
             [sys.executable, "scripts/five_heaps_cluster_report.py", "--strict"],
             [call.args[0] for call in run_mock.call_args_list],
         )

@@ -34,10 +34,14 @@
   "related_terms": [
     "ariya",
     "dukkha",
+    "dukkha-ariyasacca",
     "magga",
+    "magga-ariyasacca",
     "nirodha",
+    "nirodha-ariyasacca",
     "sacca",
     "samudaya",
+    "samudaya-ariyasacca",
     "sotapatti",
     "sotāpatti"
   ],
@@ -69,6 +73,12 @@
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping noble truth as the house default for the fourfold formulation, with ennobling truth retained only as an explanatory alternate."
+    },
+    {
+      "source": "SN 22.86",
+      "priority": "secondary",
+      "kind": "rationale",
+      "scope": "Supports treating the four truths under the repository's dukkha / dukkha-nirodha scope rather than as a disconnected doctrinal list."
     }
   ],
   "translation_policy": {

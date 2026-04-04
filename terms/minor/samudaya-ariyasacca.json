@@ -3,10 +3,33 @@
   "normalized_term": "samudaya-ariyasacca",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "noble truth of arising",
-  "definition": "The second noble truth, concerning the arising of dissatisfaction through craving.",
+  "preferred_translation": "noble truth of origin",
+  "alternative_translations": [
+    "noble truth of arising",
+    "second noble truth"
+  ],
+  "discouraged_translations": [
+    "truth of creation"
+  ],
+  "definition": "The second noble truth, concerning the origin of dissatisfaction through craving.",
+  "notes": "This record keeps the second truth aligned with the samudaya headword default of origin while allowing arising only as a controlled alternate where the dynamic side needs emphasis.",
+  "related_terms": [
+    "ariyasacca",
+    "samudaya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ayaṁ dukkhasamudayo ariyasaccaṁ",
+      "translation": "this is the noble truth of the origin of dissatisfaction",
+      "notes": "Canonical naming line for the second truth.",
+      "source": "SN 56.11"
+    }
+  ],
   "status": "reviewed",
-  "literal_meaning": "noble truth of arising",
+  "literal_meaning": "noble truth of origin",
+  "sutta_references": [
+    "SN 56.11"
+  ],
   "tags": [
     "core-doctrine",
     "four-noble-truths"

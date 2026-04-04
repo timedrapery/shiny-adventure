@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The arising or originating condition of something, especially the origin of dissatisfaction in the four noble truths.",
-  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation. The term should be heard both as a truth-label and as part of the wider causal vocabulary of the teachings. The OSF glossary confirms origin as the house default in four-truth contexts and records arising as a tolerated alternate when the dynamic aspect needs emphasis.",
+  "notes": "The project prefers origin in four-truth contexts because it reads cleanly in English and marks the explanatory role of the term without sounding overly process-heavy. Arising remains acceptable when the sentence emphasizes dynamic emergence rather than analytic designation. The term should be heard both as a truth-label and as part of the wider causal vocabulary of the teachings. The OSF glossary confirms origin as the house default in four-truth contexts and records arising as a tolerated alternate when the dynamic aspect needs emphasis. What Is And Is Not The Path supports keeping the second truth practically readable as seeing where it is heading, that is, where the present pattern is heading, rather than as a merely historical or metaphysical source claim. In OSF four-truths explanation, that practical move belongs inside the same governed cycle as waking up to dukkha, making a wholesome change, and noticing the quenching of dukkha.",
   "context_rules": [
     {
       "context": "In the formula of the four noble truths",
@@ -29,6 +29,11 @@
       "context": "When the passage emphasizes explanatory origin within causal analysis rather than mere temporal appearance",
       "rendering": "origin",
       "notes": "Keep the term analytically strong without over-metaphysicizing it."
+    },
+    {
+      "context": "In OSF four-truths explanation where the second move is to see where the present pattern is heading",
+      "rendering": "origin",
+      "notes": "Keep the doctrinal label stable while allowing notes to carry the practical force of seeing where it is heading."
     }
   ],
   "related_terms": [
@@ -43,6 +48,7 @@
     "nidāna",
     "nirodha",
     "paccaya",
+    "samudaya-ariyasacca",
     "tanha",
     "taṇhā",
     "vibhava-tanha"
@@ -77,6 +83,12 @@
       "priority": "osf-house",
       "kind": "gloss",
       "scope": "Supports keeping origin as the house default in four-noble-truths usage, with arising retained for lines that emphasize dynamic emergence."
+    },
+    {
+      "source": "What Is And Is Not The Path",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports the practical handling of the second truth as seeing where the present pattern is heading without changing the default rendering."
     }
   ],
   "translation_policy": {

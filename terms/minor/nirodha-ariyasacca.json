@@ -4,9 +4,31 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "noble truth of quenching",
+  "alternative_translations": [
+    "third noble truth"
+  ],
+  "discouraged_translations": [
+    "truth of annihilation"
+  ],
   "definition": "The third noble truth, concerning the quenching of dissatisfaction.",
+  "notes": "This record preserves the nirodha headword default of quenching in the standard four-truths naming formula rather than letting generic cessation-language become automatic here.",
+  "related_terms": [
+    "ariyasacca",
+    "nirodha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ayaṁ dukkhanirodho ariyasaccaṁ",
+      "translation": "this is the noble truth of the quenching of dissatisfaction",
+      "notes": "Canonical naming line for the third truth.",
+      "source": "SN 56.11"
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "noble truth of quenching",
+  "sutta_references": [
+    "SN 56.11"
+  ],
   "tags": [
     "core-doctrine",
     "four-noble-truths"

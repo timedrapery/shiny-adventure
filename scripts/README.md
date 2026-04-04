@@ -24,6 +24,8 @@ All CLI scripts support `--help`.
   Audits the jhana core cluster and can generate translator-facing outputs.
 - `python scripts/path_factor_cluster_report.py`
   Audits the path-factor core cluster and can generate translator-facing outputs.
+- `python scripts/four_noble_truths_cluster_report.py`
+  Audits the four noble truths cluster and can generate translator-facing outputs.
 
 ## Reporting And Planning Commands
 
@@ -37,6 +39,8 @@ All CLI scripts support `--help`.
   Checks the jhana core cluster surface and writes glossary, sequence, path-brief, and formula-sheet outputs into `docs/generated/`.
 - `python scripts/path_factor_cluster_report.py --write-docs`
   Checks the path-factor core cluster surface and writes glossary, core-loop, tenfold-sequence, and supporting-terms outputs into `docs/generated/`.
+- `python scripts/four_noble_truths_cluster_report.py --write-docs`
+  Checks the four noble truths cluster surface and writes glossary, truth-task, correct-noble-practice, and scope outputs into `docs/generated/`.
 - `python scripts/term_directory_navigation.py --write-docs`
   Generates navigation indexes for the flat `terms/major/` and `terms/minor/` directories.
 - `python scripts/draft_major_review_queue.py`

@@ -4,9 +4,31 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "noble truth of the path",
+  "alternative_translations": [
+    "fourth noble truth"
+  ],
+  "discouraged_translations": [
+    "truth of self-improvement"
+  ],
   "definition": "The fourth noble truth, concerning the path leading to quenching.",
+  "notes": "This record names the path-side truth while pointing readers back to the governed magga headword and the practical course language of patipada when the line needs that explanatory surface.",
+  "related_terms": [
+    "ariyasacca",
+    "magga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "ayaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ",
+      "translation": "this is the noble truth of the path of practice leading to the quenching of dissatisfaction",
+      "notes": "Canonical naming line for the fourth truth.",
+      "source": "SN 56.11"
+    }
+  ],
   "status": "reviewed",
   "literal_meaning": "noble truth of the path",
+  "sutta_references": [
+    "SN 56.11"
+  ],
   "tags": [
     "core-doctrine",
     "four-noble-truths"
