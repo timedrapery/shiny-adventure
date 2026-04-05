@@ -39,6 +39,14 @@ class RunChecksTests(unittest.TestCase):
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(
+            [sys.executable, "scripts/validate_terms.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/check_cluster_surfaces.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
             [sys.executable, "scripts/term_directory_navigation.py", "--check"],
             [call.args[0] for call in run_mock.call_args_list],
         )
@@ -140,6 +148,22 @@ class RunChecksTests(unittest.TestCase):
         self.assertIn("Documentation integrity failed with exit code 2.", output.getvalue())
         self.assertIn("Command: ", output.getvalue())
         self.assertIn("scripts/check_docs_integrity.py", output.getvalue())
+
+    def test_main_prints_repair_hint_for_schema_failure(self) -> None:
+        output = io.StringIO()
+        checks = (("Schema validation", [sys.executable, "scripts/validate_terms.py", "--strict"]),)
+
+        with mock.patch.object(run_checks, "CHECKS", checks):
+            with mock.patch.object(
+                run_checks.subprocess,
+                "run",
+                return_value=subprocess.CompletedProcess([], 1),
+            ):
+                with mock.patch("sys.stdout", output):
+                    result = run_checks.main()
+
+        self.assertEqual(result, 1)
+        self.assertIn("Repair hint: rerun the failing command directly.", output.getvalue())
 
 
 if __name__ == "__main__":

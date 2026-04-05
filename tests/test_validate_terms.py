@@ -290,6 +290,103 @@ class ValidateTermsTests(unittest.TestCase):
         self.assertEqual(result, 0)
         self.assertNotIn("major preferred_translation collision 'mind'", output.getvalue())
 
+    def test_main_schema_failure_includes_repair_guidance(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            schema_path = tmp_path / "schema.json"
+            terms_dir = tmp_path / "terms"
+            term_path = terms_dir / "example.json"
+            terms_dir.mkdir()
+            schema_path.write_text(
+                json.dumps(
+                    {
+                        "type": "object",
+                        "properties": {
+                            "term": {"type": "string"},
+                            "authority_basis": {
+                                "type": "array",
+                                "items": {"type": "object"},
+                            },
+                        },
+                        "required": ["term", "authority_basis"],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            term_path.write_text(json.dumps({"term": "example"}), encoding="utf-8")
+            output = io.StringIO()
+
+            with mock.patch.object(validate_terms, "SCHEMA_PATH", schema_path):
+                with mock.patch.object(validate_terms, "TERMS_DIR", terms_dir):
+                    with mock.patch("sys.stdout", output):
+                        result = validate_terms.main()
+
+        self.assertEqual(result, 1)
+        rendered = output.getvalue()
+        self.assertIn("Rule violated: Required schema field must be present", rendered)
+        self.assertIn("What failed: Missing `authority_basis`", rendered)
+        self.assertIn("Why it matters:", rendered)
+        self.assertIn("Minimal safe fix:", rendered)
+        self.assertIn("Good repo example(s):", rendered)
+
+    def test_main_returns_error_on_warning_in_strict_mode(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            tmp_path = Path(tmpdir)
+            schema_path = tmp_path / "schema.json"
+            terms_dir = tmp_path / "terms"
+            terms_dir.mkdir()
+            schema_path.write_text(
+                json.dumps(
+                    {
+                        "type": "object",
+                        "properties": {
+                            "term": {"type": "string"},
+                            "normalized_term": {"type": "string"},
+                            "entry_type": {"type": "string"},
+                            "preferred_translation": {"type": "string"},
+                        },
+                        "required": [
+                            "term",
+                            "normalized_term",
+                            "entry_type",
+                            "preferred_translation",
+                        ],
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (terms_dir / "citta.json").write_text(
+                json.dumps(
+                    {
+                        "term": "citta",
+                        "normalized_term": "citta",
+                        "entry_type": "major",
+                        "preferred_translation": "mind",
+                    }
+                ),
+                encoding="utf-8",
+            )
+            (terms_dir / "mano.json").write_text(
+                json.dumps(
+                    {
+                        "term": "mano",
+                        "normalized_term": "mano",
+                        "entry_type": "major",
+                        "preferred_translation": "mind",
+                    }
+                ),
+                encoding="utf-8",
+            )
+            output = io.StringIO()
+
+            with mock.patch.object(validate_terms, "SCHEMA_PATH", schema_path):
+                with mock.patch.object(validate_terms, "TERMS_DIR", terms_dir):
+                    with mock.patch("sys.stdout", output):
+                        result = validate_terms.main(["--strict"])
+
+        self.assertEqual(result, 1)
+        self.assertIn("Warnings:", output.getvalue())
+
 
 if __name__ == "__main__":
     unittest.main()

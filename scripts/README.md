@@ -26,6 +26,8 @@ generating script first.
   Runs editorial lint checks against live term data.
 - `python scripts/check_translation_drift.py`
   Detects translation drift across related terms and policy-bearing records.
+- `python scripts/check_cluster_surfaces.py`
+  Verifies that each CI-enforced doctrinal cluster has its authority doc, report script, and regression tests.
 - `python scripts/term_directory_navigation.py --check`
   Verifies that the generated major/minor term navigation indexes are present and current.
 - `python scripts/dependent_arising_cluster_report.py`

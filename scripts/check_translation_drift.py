@@ -8,14 +8,36 @@ import json
 import sys
 import unicodedata
 from collections import defaultdict
-from dataclasses import asdict, dataclass
+from dataclasses import dataclass
 from pathlib import Path
 
 try:
+    from scripts.repair_guidance import (
+        RepairDiagnostic,
+        diagnostics_as_json,
+        field_examples,
+        field_snippet,
+        print_diagnostics,
+        CLUSTER_DOC_EXAMPLES,
+        MAJOR_POLICY_EXAMPLES,
+        RELATIONSHIP_EXAMPLES,
+        STATUS_EXAMPLES,
+    )
     from scripts.text_utils import normalize_term, safe_text
     from scripts.term_store import iter_term_files
     from scripts.validate_terms import collect_validation_failures
 except ModuleNotFoundError:
+    from repair_guidance import (
+        RepairDiagnostic,
+        diagnostics_as_json,
+        field_examples,
+        field_snippet,
+        print_diagnostics,
+        CLUSTER_DOC_EXAMPLES,
+        MAJOR_POLICY_EXAMPLES,
+        RELATIONSHIP_EXAMPLES,
+        STATUS_EXAMPLES,
+    )
     from text_utils import normalize_term, safe_text
     from term_store import iter_term_files
     from validate_terms import collect_validation_failures
@@ -126,13 +148,19 @@ def add_finding(
     *,
     path: Path | None = None,
 ) -> None:
+    relpath = None
+    if path is not None:
+        try:
+            relpath = path.relative_to(REPO_ROOT).as_posix()
+        except ValueError:
+            relpath = path.as_posix()
     findings.append(
         Finding(
             severity=severity,
             category=category,
             code=code,
             message=message,
-            path=str(path.relative_to(REPO_ROOT)) if path is not None else None,
+            path=relpath,
         )
     )
 
@@ -172,7 +200,7 @@ def check_conflicting_preferred_translations(
             for record in grouped:
                 add_finding(
                     findings,
-                    "warning",
+                    "error",
                     "Preferred Translation",
                     "conflicting_preferred_translation",
                     message,
@@ -345,7 +373,7 @@ def check_alternate_consistency(records: list[TermRecord], findings: list[Findin
         for key in overlap:
             add_finding(
                 findings,
-                "warning",
+                "error",
                 "Alternates",
                 "alternate_discouraged_overlap",
                 f"rendering '{alt_map[key]}' appears in both alternative_translations and discouraged_translations",
@@ -366,7 +394,7 @@ def check_alternate_consistency(records: list[TermRecord], findings: list[Findin
             if rendering_key in disc_map:
                 add_finding(
                     findings,
-                    "warning",
+                    "error",
                     "Alternates",
                     "context_rule_uses_discouraged_rendering",
                     f"context rule uses discouraged rendering '{rendering}'",
@@ -590,14 +618,144 @@ def findings_by_severity(findings: list[Finding]) -> tuple[list[Finding], list[F
     return errors, warnings
 
 
-def print_group(title: str, findings: list[Finding]) -> None:
-    if not findings:
-        return
-    print(f"{title}:")
-    for finding in findings:
-        location = f"{finding.path}: " if finding.path else ""
-        print(f"- [{finding.code}] {location}{safe_text(finding.message)}")
-    print()
+def finding_to_diagnostic(finding: Finding) -> RepairDiagnostic:
+    file = finding.path
+
+    if finding.code == "schema_violation":
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Drift checking requires schema-clean term data",
+            summary=finding.message,
+            why="A schema-broken record cannot be trusted for any higher-level drift analysis.",
+            fix="Fix the schema error first with `python scripts/validate_terms.py --strict`, then rerun the drift check.",
+            examples=MAJOR_POLICY_EXAMPLES,
+        )
+
+    if finding.code == "conflicting_preferred_translation":
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="One canonical lemma cannot carry multiple preferred translations",
+            summary=finding.message,
+            why="Conflicting defaults for the same lemma leave translators and automation without a single house standard.",
+            fix="Review all records for this lemma together in the same pass. Preserve the existing stable policy unless a governed family review intentionally changes it, and align `preferred_translation`, `context_rules`, `discouraged_translations`, and `related_terms` together.",
+            examples=("terms/major/sankhara.json", "terms/major/dukkha.json"),
+        )
+
+    if finding.code == "duplicate_preferred_rendering":
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Distinct major lemmas need explicit disambiguation before sharing a default rendering",
+            summary=finding.message,
+            why="Shared defaults without documented contrast invite silent substitution between related terms.",
+            fix="Either differentiate the preferred renderings or make the shared rendering explicit by linking the lemmas to each other in `related_terms` on both sides and explaining the contrast in `notes` or `context_rules`.",
+            examples=RELATIONSHIP_EXAMPLES,
+        )
+
+    if finding.code in {"missing_rule_field", "missing_translation_policy_field"}:
+        field = finding.message.rsplit("'", 2)[1] if "'" in finding.message else "policy field"
+        snippet = field_snippet(field)
+        fix = f"Add a non-empty `{field}` value."
+        if snippet:
+            fix += f" Minimal compliant shape: {snippet}"
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Major entries must keep the full rule-bearing surface intact",
+            summary=finding.message,
+            why="If a major entry loses a governing field, the record stops acting as enforceable policy and falls back toward glossary prose.",
+            fix=fix,
+            examples=field_examples(field),
+        )
+
+    if finding.code in {
+        "preferred_listed_as_alternate",
+        "preferred_listed_as_discouraged",
+        "alternate_discouraged_overlap",
+        "context_rule_uses_discouraged_rendering",
+    }:
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Allowed, preferred, and discouraged renderings must not contradict each other",
+            summary=finding.message,
+            why="Contradictory rendering metadata destroys the entry's ability to govern downstream translation choices.",
+            fix="Keep one rendering in one lane only: preferred, allowed alternate, or discouraged. If the contrast is context-bound, record it in `context_rules` without also discouraging the same rendering.",
+            examples=("terms/major/dukkha.json", "terms/major/sati.json"),
+        )
+
+    if finding.code in {
+        "context_sensitive_missing_rules",
+        "context_sensitive_missing_note",
+        "context_sensitive_indistinct_renderings",
+        "context_sensitive_missing_policy",
+        "preferred_not_covered_by_context_rules",
+    }:
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Context-sensitive policy must be explicit in `context_rules`",
+            summary=finding.message,
+            why="Context-sensitive terms are major drift vectors unless the repo records both the default and the controlled departures from it.",
+            fix=f"Add or revise `context_rules` so the preferred rendering is explicitly covered and each context shift includes a short note. Minimal compliant shape: {field_snippet('context_rules')}",
+            examples=field_examples("context_rules"),
+        )
+
+    if finding.code in {
+        "normalized_term_mismatch",
+        "non_nfc_term",
+        "inconsistent_term_spelling",
+    }:
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Headword normalization must stay deterministic",
+            summary=finding.message,
+            why="Normalization drift makes it harder for scripts and contributors to tell whether two records are the same governed headword.",
+            fix="Keep one canonical displayed spelling and one matching normalized slug. Repair the term or slug rather than letting variants accumulate.",
+            examples=("terms/major/sankhara.json",),
+        )
+
+    if finding.code == "major_entry_too_definitional":
+        return RepairDiagnostic(
+            severity=finding.severity,
+            category=finding.category,
+            code=finding.code,
+            file=file,
+            rule="Major entries must read as policy, not just definition",
+            summary=finding.message,
+            why="Definition-only majors do not tell a later contributor what to preserve when nearby terms or compounds put pressure on the default.",
+            fix="Strengthen the same record by adding explicit rule-bearing notes, clearer `context_rules`, provenance in `authority_basis`, or a more specific `translation_policy` drift-risk note.",
+            examples=MAJOR_POLICY_EXAMPLES,
+        )
+
+    return RepairDiagnostic(
+        severity=finding.severity,
+        category=finding.category,
+        code=finding.code,
+        file=file,
+        rule=f"{finding.category} rule failed",
+        summary=finding.message,
+        why="This finding marks a translation-governance contradiction that the repo will not merge silently.",
+        fix="Repair the smallest safe surface that removes the contradiction, then rerun `python scripts/check_translation_drift.py --strict`.",
+        examples=MAJOR_POLICY_EXAMPLES,
+    )
 
 
 def main() -> int:
@@ -616,22 +774,24 @@ def main() -> int:
 
     findings, record_count = collect_findings()
     errors, warnings = findings_by_severity(findings)
+    error_diagnostics = [finding_to_diagnostic(finding) for finding in errors]
+    warning_diagnostics = [finding_to_diagnostic(finding) for finding in warnings]
 
     if args.json:
         report = {
             "term_files": record_count,
-            "errors": [asdict(finding) for finding in errors],
-            "warnings": [asdict(finding) for finding in warnings],
+            "errors": diagnostics_as_json(error_diagnostics),
+            "warnings": diagnostics_as_json(warning_diagnostics),
         }
         json.dump(report, sys.stdout, ensure_ascii=False, indent=2)
         sys.stdout.write("\n")
     else:
         if errors:
             print("Translation drift check failed:\n")
-            print_group("Errors", errors)
+            print_diagnostics("Errors", error_diagnostics)
         if warnings:
             print("Translation drift warnings:\n")
-            print_group("Warnings", warnings)
+            print_diagnostics("Warnings", warning_diagnostics)
         if not errors and not warnings:
             print(f"Translation drift check passed for {record_count} term file(s).")
 

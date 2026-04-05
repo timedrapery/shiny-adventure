@@ -77,6 +77,7 @@ class DriftCheckRuleTests(unittest.TestCase):
 
         self.assertEqual(len(findings), 2)
         self.assertTrue(all(item.code == "conflicting_preferred_translation" for item in findings))
+        self.assertTrue(all(item.severity == "error" for item in findings))
 
     def test_duplicate_major_preferred_renderings_warn_when_not_cross_related(self) -> None:
         findings: list[check_translation_drift.Finding] = []
@@ -135,8 +136,8 @@ class DriftCheckRuleTests(unittest.TestCase):
         )
         severities = {item.code: item.severity for item in findings}
         self.assertEqual(severities["preferred_listed_as_alternate"], "error")
-        self.assertEqual(severities["alternate_discouraged_overlap"], "warning")
-        self.assertEqual(severities["context_rule_uses_discouraged_rendering"], "warning")
+        self.assertEqual(severities["alternate_discouraged_overlap"], "error")
+        self.assertEqual(severities["context_rule_uses_discouraged_rendering"], "error")
 
     def test_context_sensitive_entries_require_rule_notes(self) -> None:
         findings: list[check_translation_drift.Finding] = []
@@ -253,6 +254,21 @@ class DriftCheckRuleTests(unittest.TestCase):
 
 
 class DriftCheckCliTests(unittest.TestCase):
+    def test_finding_to_diagnostic_includes_same_pass_guidance_for_conflicts(self) -> None:
+        diagnostic = check_translation_drift.finding_to_diagnostic(
+            check_translation_drift.Finding(
+                severity="error",
+                category="Preferred Translation",
+                code="conflicting_preferred_translation",
+                message="lemma 'sankhara' has conflicting preferred translations: formation, putting together",
+                path="terms/major/sankhara.json",
+            )
+        )
+
+        self.assertEqual(diagnostic.code, "conflicting_preferred_translation")
+        self.assertIn("same pass", diagnostic.fix)
+        self.assertIn("terms/major/sankhara.json", diagnostic.examples)
+
     def test_main_emits_json_report(self) -> None:
         output = io.StringIO()
         findings = [
