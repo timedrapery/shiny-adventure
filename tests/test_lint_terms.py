@@ -167,6 +167,50 @@ class LintRuleTests(unittest.TestCase):
             ],
         )
 
+    def test_major_entries_require_rule_bearing_notes(self) -> None:
+        terms = {
+            "sati": {
+                "entry_type": "major",
+                "notes": "Memory and recollection.",
+            }
+        }
+
+        issues = lint_terms.check_major_rule_note_quality(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "sati.json: major entry notes are too short to function as a rule-bearing policy surface"
+            ],
+        )
+
+    def test_stable_entries_must_meet_stable_floor(self) -> None:
+        notes = " ".join(
+            ["default", "translation", "drift"] + [f"word{i}" for i in range(1, 38)]
+        )
+        terms = {
+            "sati": {
+                "entry_type": "major",
+                "status": "stable",
+                "notes": notes,
+                "context_rules": [
+                    {"context": "default", "rendering": "remembering"},
+                    {"context": "alt", "rendering": "sati"},
+                ],
+                "example_phrases": [{"pali": "sati", "source": "MN 10"}],
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the default."}],
+            }
+        }
+
+        issues = lint_terms.check_stable_status_discipline(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "sati.json: stable major entry does not yet meet the stable-floor maturity gate (context_rules=2, example_phrases=1, authority_basis=1, note_words=40); demote to reviewed or deepen the rule surface"
+            ],
+        )
+
     def test_untranslated_preference_requires_gloss(self) -> None:
         terms = {
             "nibbana": {"untranslated_preferred": True},
@@ -296,12 +340,29 @@ class LintRuleTests(unittest.TestCase):
             ],
         )
 
+    def test_build_lint_diagnostic_for_short_notes_includes_repair_guidance(self) -> None:
+        diagnostic = lint_terms.build_lint_diagnostic(
+            "Rule Coverage",
+            "sati.json: major entry notes are too short to function as a rule-bearing policy surface",
+        )
+
+        self.assertEqual(diagnostic.code, "major_notes_too_short")
+        self.assertEqual(diagnostic.file, "sati.json")
+        self.assertIn("policy", diagnostic.rule)
+        self.assertIn("default", diagnostic.fix)
+        self.assertIn("terms/major/sati.json", diagnostic.examples)
+
     def test_collect_lint_results_groups_example_source_warnings(self) -> None:
         terms = {
             "dukkha": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "The OSF glossary supports the default translation here and the note explains the drift prevention logic in explicit project language.",
+                "notes": (
+                    "The OSF glossary supports the default translation here, the note explains "
+                    "the drift prevention logic in explicit project language, and it keeps the "
+                    "house default, source-facing scope, and main contrast with suffering-language "
+                    "visible enough for later contributors to follow reliably."
+                ),
                 "context_rules": [
                     {"context": "default", "rendering": "dissatisfaction"},
                     {"context": "contrast", "rendering": "stress"},
@@ -319,7 +380,12 @@ class LintRuleTests(unittest.TestCase):
             "nirodha": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "The OSF glossary supports the default translation here and the note explains the drift prevention logic in explicit project language.",
+                "notes": (
+                    "The OSF glossary supports the default translation here, the note explains "
+                    "the drift prevention logic in explicit project language, and it keeps the "
+                    "house default, quenching-side scope, and main contrast with cessation-language "
+                    "visible enough for later contributors to follow reliably."
+                ),
                 "context_rules": [
                     {"context": "default", "rendering": "quenching"},
                     {"context": "contrast", "rendering": "ending"},
@@ -352,7 +418,12 @@ class LintRuleTests(unittest.TestCase):
             "hetu": {
                 "entry_type": "major",
                 "status": "reviewed",
-                "notes": "Cause.",
+                "notes": (
+                    "The project keeps cause available here, but this note remains intentionally "
+                    "thin so the warning can prove the governance-surface check still catches "
+                    "reviewed entries whose policy is present yet not mature enough to anchor "
+                    "later translation work without another pass."
+                ),
                 "context_rules": [
                     {"context": "default", "rendering": "cause"},
                     {"context": "explanatory", "rendering": "reason"},
@@ -372,7 +443,9 @@ class LintRuleTests(unittest.TestCase):
                 "notes": (
                     "The OSF glossary supports the default translation here, the note explains the "
                     "broader conditional scope, and it records the drift risk the project wants to "
-                    "prevent when translators are tempted to collapse the term into cause-language."
+                    "prevent when translators are tempted to collapse the term into cause-language. "
+                    "It also keeps the default scope and contrast with narrower causal vocabulary "
+                    "explicit for later contributors working across the same family."
                 ),
                 "context_rules": [
                     {"context": "default", "rendering": "condition"},
@@ -402,7 +475,68 @@ class LintRuleTests(unittest.TestCase):
         self.assertEqual(
             warnings["Governance Surface"],
             [
-                "hetu.json: major reviewed entry has a thin governance surface (context_rules=2, example_phrases=1, note_words=1); expand the note or add another rule/example"
+                "hetu.json: major reviewed entry has a thin governance surface (context_rules=2, example_phrases=1, note_words=40); expand the note or add another rule/example"
+            ],
+        )
+
+    def test_collect_lint_results_groups_status_discipline_errors(self) -> None:
+        notes = " ".join(
+            ["default", "translation", "drift"] + [f"word{i}" for i in range(1, 38)]
+        )
+        terms = {
+            "sati": {
+                "entry_type": "major",
+                "status": "stable",
+                "notes": notes,
+                "context_rules": [
+                    {"context": "default", "rendering": "remembering"},
+                    {"context": "alt", "rendering": "sati"},
+                ],
+                "related_terms": ["samadhi"],
+                "example_phrases": [{"pali": "sati", "source": "MN 10"}],
+                "sutta_references": ["MN 10"],
+                "translation_policy": {
+                    "default_scope": "path contexts",
+                    "drift_risk": "Avoid mindfulness drift.",
+                    "compound_inheritance": "case-by-case",
+                },
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the default."}],
+            },
+            "samadhi": {
+                "entry_type": "major",
+                "status": "reviewed",
+                "notes": (
+                    "The project keeps mental composure as the default, explains the distinction "
+                    "from concentration language, and records the drift risk the entry is meant "
+                    "to prevent in later meditative translation work. It also makes the governing "
+                    "scope and compound handling explicit for later contributors."
+                ),
+                "context_rules": [
+                    {"context": "default", "rendering": "mental composure"},
+                    {"context": "alt", "rendering": "composure"},
+                ],
+                "related_terms": ["sati"],
+                "example_phrases": [{"pali": "samādhi", "source": "MN 44"}],
+                "sutta_references": ["MN 44"],
+                "translation_policy": {
+                    "default_scope": "meditative-development contexts",
+                    "drift_risk": "Avoid concentration drift.",
+                    "compound_inheritance": "case-by-case",
+                },
+                "authority_basis": [{"source": "OSF glossary", "scope": "Supports the default."}],
+            },
+        }
+
+        errors, warnings = lint_terms.collect_lint_results(
+            terms,
+            enforce_stabilized_terms=False,
+        )
+
+        self.assertIn("Governance Surface", warnings)
+        self.assertEqual(
+            errors["Status Discipline"],
+            [
+                "sati.json: stable major entry does not yet meet the stable-floor maturity gate (context_rules=2, example_phrases=1, authority_basis=1, note_words=40); demote to reviewed or deepen the rule surface"
             ],
         )
 
@@ -430,7 +564,8 @@ class LintCliTests(unittest.TestCase):
                 "notes": (
                     "The project keeps remembering as the default, explains why mindfulness is not "
                     "the uncontrolled house default, and records the specific drift risk the entry "
-                    "is meant to prevent in later path and practice translation work."
+                    "is meant to prevent in later path and practice translation work. It also "
+                    "keeps the compound behavior and source-facing scope explicit for later reuse."
                 ),
                 "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
                 "related_terms": ["samadhi"],
@@ -443,7 +578,8 @@ class LintCliTests(unittest.TestCase):
                 "notes": (
                     "The project keeps mental composure as the default, explains the distinction "
                     "from generic concentration language, and records the practical drift risk the "
-                    "entry is meant to prevent in later meditative translation work."
+                    "entry is meant to prevent in later meditative translation work. It also makes "
+                    "the governing scope and compound handling explicit for later contributors."
                 ),
                 "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
@@ -471,7 +607,8 @@ class LintCliTests(unittest.TestCase):
                 "notes": (
                     "The project keeps remembering as the default, explains why mindfulness is not "
                     "the uncontrolled house default, and records the specific drift risk the entry "
-                    "is meant to prevent in later path and practice translation work."
+                    "is meant to prevent in later path and practice translation work. It also "
+                    "keeps the compound behavior and source-facing scope explicit for later reuse."
                 ),
                 "context_rules": [{"context": "default", "rendering": "remembering"}, {"context": "alt", "rendering": "sati"}],
                 "related_terms": ["samadhi"],
@@ -484,7 +621,8 @@ class LintCliTests(unittest.TestCase):
                 "notes": (
                     "The project keeps mental composure as the default, explains the distinction "
                     "from generic concentration language, and records the practical drift risk the "
-                    "entry is meant to prevent in later meditative translation work."
+                    "entry is meant to prevent in later meditative translation work. It also makes "
+                    "the governing scope and compound handling explicit for later contributors."
                 ),
                 "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],

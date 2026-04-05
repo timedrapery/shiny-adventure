@@ -7,46 +7,61 @@ import subprocess
 import sys
 from pathlib import Path
 
+try:
+    from scripts.cluster_registry import build_cluster_checks
+except ModuleNotFoundError:
+    from cluster_registry import build_cluster_checks
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
-CHECKS: tuple[tuple[str, list[str]], ...] = (
+PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Regression tests", [sys.executable, "-m", "unittest", "discover", "-s", "tests"]),
     ("Documentation integrity", [sys.executable, "scripts/check_docs_integrity.py"]),
     ("Translation formula consistency", [sys.executable, "scripts/check_translation_formula_consistency.py"]),
     ("Voice consistency audit", [sys.executable, "scripts/voice_consistency_audit.py"]),
-    ("Schema validation", [sys.executable, "scripts/validate_terms.py"]),
+    ("Schema validation", [sys.executable, "scripts/validate_terms.py", "--strict"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),
     ("Term directory navigation", [sys.executable, "scripts/term_directory_navigation.py", "--check"]),
     ("Translation drift", [sys.executable, "scripts/check_translation_drift.py", "--strict"]),
-    ("Dependent arising cluster", [sys.executable, "scripts/dependent_arising_cluster_report.py", "--strict"]),
-    ("Jhana cluster", [sys.executable, "scripts/jhana_cluster_report.py", "--strict"]),
-    ("Path-factor cluster", [sys.executable, "scripts/path_factor_cluster_report.py", "--strict"]),
-    ("Four noble truths cluster", [sys.executable, "scripts/four_noble_truths_cluster_report.py", "--strict"]),
-    ("Sense-fields cluster", [sys.executable, "scripts/sense_fields_cluster_report.py", "--strict"]),
-    ("Three marks cluster", [sys.executable, "scripts/three_marks_cluster_report.py", "--strict"]),
-    ("Five heaps cluster", [sys.executable, "scripts/five_heaps_cluster_report.py", "--strict"]),
-    ("Identity-construction cluster", [sys.executable, "scripts/identity_construction_cluster_report.py", "--strict"]),
-    ("Bondage / residue cluster", [sys.executable, "scripts/bondage_residue_cluster_report.py", "--strict"]),
-    ("Bondage-imagery cluster", [sys.executable, "scripts/bondage_imagery_cluster_report.py", "--strict"]),
-    ("Abandonment-sequence cluster", [sys.executable, "scripts/abandonment_sequence_cluster_report.py", "--strict"]),
-    ("Crossing / release interface cluster", [sys.executable, "scripts/crossing_release_interface_cluster_report.py", "--strict"]),
-    ("Consummation / unconditioned interface cluster", [sys.executable, "scripts/consummation_interface_cluster_report.py", "--strict"]),
-    ("Emptiness / signless / wishless interface cluster", [sys.executable, "scripts/emptiness_signless_wishless_cluster_report.py", "--strict"]),
-    ("OSF reconciliation layer", [sys.executable, "scripts/osf_reconciliation_report.py", "--strict"]),
-    ("Knowledge / seeing / understanding cluster", [sys.executable, "scripts/knowledge_cluster_report.py", "--strict"]),
-    ("Verbal knowing / recognition cluster", [sys.executable, "scripts/verbal_knowing_cluster_report.py", "--strict"]),
-    ("Craving / appropriation cluster", [sys.executable, "scripts/craving_appropriation_cluster_report.py", "--strict"]),
-    ("Kama cluster", [sys.executable, "scripts/kama_cluster_report.py", "--strict"]),
-    ("Experience / process cluster", [sys.executable, "scripts/experience_process_cluster_report.py", "--strict"]),
+    ("Cluster surface coverage", [sys.executable, "scripts/check_cluster_surfaces.py"]),
+)
+
+POST_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
 )
 
 
+CHECKS: tuple[tuple[str, list[str]], ...] = (
+    PRE_CLUSTER_CHECKS + build_cluster_checks(sys.executable) + POST_CLUSTER_CHECKS
+)
+
+
 def format_command(command: list[str]) -> str:
     return " ".join(command)
+
+
+def repair_hint(label: str, command: list[str]) -> str | None:
+    if label in {
+        "Schema validation",
+        "Editorial lint",
+        "Translation drift",
+        "Cluster surface coverage",
+    }:
+        return (
+            "Repair hint: rerun the failing command directly. The script now prints "
+            "the rule violated, why it matters, the minimal safe fix, and repo-native examples."
+        )
+
+    if "cluster" in label.casefold() or label == "OSF reconciliation layer":
+        return (
+            "Repair hint: treat this as a family-level failure. Review the cluster authority doc, "
+            "repair the family terms or collective records in one pass, and rerun the cluster script directly."
+        )
+
+    return None
 
 
 def main() -> int:
@@ -58,6 +73,9 @@ def main() -> int:
                 f"{label} failed with exit code {result.returncode}. "
                 f"Command: {format_command(command)}"
             )
+            hint = repair_hint(label, command)
+            if hint is not None:
+                print(hint)
             return result.returncode
         print()
     print("All checks passed.")

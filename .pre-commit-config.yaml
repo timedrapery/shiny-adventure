@@ -1,0 +1,13 @@
+repos:
+  - repo: local
+    hooks:
+      - id: validate-terms
+        name: validate terms
+        entry: python scripts/validate_terms.py --strict
+        language: system
+        pass_filenames: false
+      - id: lint-terms
+        name: editorial lint
+        entry: python scripts/lint_terms.py --strict
+        language: system
+        pass_filenames: false
