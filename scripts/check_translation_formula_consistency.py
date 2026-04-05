@@ -143,7 +143,7 @@ def main() -> int:
         default=TRANSLATIONS_DIR,
         help="directory containing shareable translation markdown files",
     )
-    parser.add_argument("--top", type=int, default=10, help="number of sample findings to show")
+    parser.add_argument("--top", type=int, default=10, help="Number of sample findings to show.")
     args = parser.parse_args()
 
     report = build_report(REPO_ROOT, args.translations_dir)

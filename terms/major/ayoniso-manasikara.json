@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose emphasizing deviation or poor direction",
       "rendering": "misdirected attention",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage emphasizes the sort of attending that feeds confusion and distractions",
@@ -45,13 +45,13 @@
     {
       "pali": "ayoniso manasikaroto",
       "translation": "for one attending unwisely",
-      "notes": "Key phrase in the analysis of what should and should not be attended to.",
+      "notes": "Shows a key phrase in the analysis of what should and should not be attended to.",
       "source": "MN 2"
     },
     {
       "pali": "ayoniso manasikāra",
       "translation": "unwise attention",
-      "notes": "Compact doctrinal form.",
+      "notes": "Shows a compact doctrinal form.",
       "source": "MN 2"
     }
   ],

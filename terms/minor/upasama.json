@@ -25,12 +25,12 @@
     {
       "context": "When the text stresses the settling-down or quieting aspect",
       "rendering": "quieting",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In compounds or recollection expressions that clearly point toward consummation-side peace",
       "rendering": "peace",
-      "notes": "Use this as a controlled alternate, but not the default."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     }
   ],
   "related_terms": [
@@ -41,7 +41,7 @@
     {
       "pali": "sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo taṇhakkhayo virāgo nirodho nibbānaṃ",
       "translation": "the calming of all constructions, the relinquishment of all acquisitions, the wearing away of ignorant wanting, fading, quenching, nibbāna",
-      "notes": "Shows upasama-side quieting language in relation to the consummation cluster.",
+      "notes": "Shows upasama-side quieting language in the consummation cluster.",
       "source": "MN 26"
     }
   ],

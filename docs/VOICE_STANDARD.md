@@ -92,11 +92,37 @@ Preferred patterns:
 - `Shows a practical contrast.`
 - `Shows the formula in a canonical setting.`
 - `Shows a source-facing line with the term left untranslated.`
+- `Shows the standard family member in context.`
+- `Shows the contrast line in a parallel form.`
 
 Avoid fragment-only notes such as:
 
 - `Useful compact analytical usage.`
 - `Simple practical usage.`
+
+## Example Sentences
+
+Example translations and mini-illustrations should stay short, direct, and
+easy to scan.
+
+Preferred patterns:
+
+- use a complete phrase or sentence rather than a label fragment
+- keep the example focused on one distinction
+- use parallel syntax in contrast pairs where possible
+- keep explanation in the note line rather than loading it into the example
+
+Examples:
+
+- `with contact as condition, felt experience`
+- `what one recognizes, one thinks about`
+- `Use 'discernment' here. Do not switch to 'wisdom' just to sound elevated.`
+
+Avoid:
+
+- ornate slogan-like examples
+- examples that explain three things at once
+- contrast pairs with different sentence shapes
 
 ## Contributor-Facing Docs
 
@@ -125,4 +151,3 @@ Before merging a wording change, check:
 3. Does the example note describe what the example shows?
 4. Does the entry sound like its related terms?
 5. Does the contributor guidance use the same direct voice?
-

@@ -1,4 +1,4 @@
-# EDITORIAL REVIEW CHECKLIST
+# Editorial Review Checklist
 
 Use this checklist when reviewing a pull request, batch term import, or major
 policy revision.

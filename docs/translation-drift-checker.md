@@ -1,4 +1,4 @@
-# TRANSLATION DRIFT CHECKER
+# Translation Drift Checker
 
 ## Purpose
 
@@ -54,7 +54,7 @@ The drift checker validates:
 - headword normalization mismatches between `term` and `normalized_term`
 - major entries that look definitional rather than rule-bearing
 
-## How To Fix Findings
+## How to Fix Findings
 
 If the checker reports an error:
 

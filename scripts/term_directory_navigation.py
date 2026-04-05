@@ -121,8 +121,8 @@ def check_outputs(outputs: dict[Path, str]) -> list[str]:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--write-docs", action="store_true", help="Write generated navigation indexes.")
-    parser.add_argument("--check", action="store_true", help="Fail if generated navigation indexes are missing or stale.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated term indexes.")
+    parser.add_argument("--check", action="store_true", help="Fail if the generated term indexes are missing or stale.")
     args = parser.parse_args()
 
     outputs = build_outputs()

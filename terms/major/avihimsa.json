@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where a smoother English abstract noun is needed",
       "rendering": "harmlessness",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When contrasting the right-intention triad or the ethics family",
@@ -45,7 +45,7 @@
     {
       "pali": "avihiṃsāsaṅkappa",
       "translation": "an attitude of non-harming",
-      "notes": "Core link to the path-factor framework.",
+      "notes": "Shows a core link to the path-factor framework.",
       "source": "MN 117"
     }
   ],

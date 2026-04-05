@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose emphasizing origination or source",
       "rendering": "source",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage is enumerating or discussing the connected sequence of dependent origination",

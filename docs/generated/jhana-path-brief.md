@@ -1,6 +1,6 @@
 # Jhana Path Brief
 
-## Governing Rule
+## Path Rule
 
 - `sammā-samādhi` is the first, second, third, and fourth `jhāna`.
 - Keep `right mental composure` as the default rendering for the path factor while making that fourfold identity explicit in notes and explanations.

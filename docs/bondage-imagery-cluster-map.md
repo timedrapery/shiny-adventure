@@ -51,7 +51,7 @@ collapsing into one vague English blur.
 - Do not replace `gantha` with `problem`, `attachment`, or vague `entanglement`.
 - Let the concrete image do real work when the text does so.
 
-## Release And Crossing Guidance
+## Release and Crossing Guidance
 
 - `ogha` naturally pairs with crossing language. If the text is about crossing over, do not abstract the family away.
 - `yoga` naturally pairs with `yogakkhema`, where the yoke image remains audible even in a fixed whole-expression rendering.

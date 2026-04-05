@@ -58,7 +58,7 @@ distress regarding the world.
 One remains observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world."
 
-### Contemplation Of Body
+### Contemplation of Body
 
 #### Breathing
 
@@ -119,7 +119,7 @@ present: 'There is body,' just enough for knowing and for remembering. One
 stays without depending on anything and does not take anything in the world
 personally."
 
-#### Clear Knowing In Activities
+#### Clear Knowing in Activities
 
 "Again, a bhikkhu acts with clear knowing when going forward and coming back,
 when looking ahead and looking away, when bending and stretching, when
@@ -127,12 +127,12 @@ carrying robe and bowl, when eating, drinking, chewing, and tasting, when
 urinating and defecating, when walking, standing, sitting, falling asleep,
 waking, speaking, and keeping silent.
 
-*The same body-refrain applies here: internal, external, and both; arising,
+[The same body refrain follows here: internal, external, and both; arising,
 vanishing, and both; 'There is body,' just enough for knowing and remembering;
 without depending on anything and without taking anything in the world
-personally.*"
+personally.]"
 
-#### Reviewing The Body
+#### Reviewing the Body
 
 "Again, a bhikkhu reviews this very body from the soles of the feet up, and
 from the hair of the head down, enclosed by skin and full of many kinds of
@@ -153,7 +153,7 @@ things:
 
 'In this body there are head hairs, body hairs ... and urine.'
 
-*The same body-refrain applies here.*"
+[The same body refrain follows here.]"
 
 #### The Elements
 
@@ -171,7 +171,7 @@ terms of elements:
 'In this body there are the earth element, the water element, the fire
 element, and the air element.'
 
-*The same body-refrain applies here.*"
+[The same body refrain follows here.]"
 
 #### Charnel Ground Reflections
 
@@ -203,7 +203,7 @@ personally.
 
 That is how a bhikkhu remains observing the body in relation to the body."
 
-### Contemplation Of Felt Experience
+### Contemplation of Felt Experience
 
 "And how does a bhikkhu remain observing felt experience in relation to felt
 experience?
@@ -236,7 +236,7 @@ personally.
 That is how a bhikkhu remains observing felt experience in relation to felt
 experience."
 
-### Contemplation Of The Feeling Mind
+### Contemplation of the Feeling Mind
 
 "And how does a bhikkhu remain observing the feeling mind in relation to the
 feeling mind?
@@ -278,7 +278,7 @@ depending on anything and does not take anything in the world personally.
 That is how a bhikkhu remains observing the feeling mind in relation to the
 feeling mind."
 
-### Contemplation Of Dhammas
+### Contemplation of Dhammas
 
 #### The Five Distractions
 
@@ -349,12 +349,12 @@ Here a bhikkhu discerns:
 - 'This is knowing; this is the arising of knowing; this is the vanishing of
   knowing.'
 
-*The same dhammas-refrain applies here: internal, external, and both;
+[The same dhammas refrain follows here: internal, external, and both;
 arising, vanishing, and both; 'There are dhammas,' just enough for knowing and
 remembering; without depending on anything and without taking anything in the
-world personally.*"
+world personally.]"
 
-#### The Six Internal And External Fields
+#### The Six Internal and External Fields
 
 "Again, a bhikkhu remains observing dhammas among dhammas in the six internal
 and external fields.
@@ -374,7 +374,7 @@ One discerns the mind, dhammas, and the fetter that arises dependent on both.
 One also discerns how an unarisen fetter arises, how an arisen fetter is given
 up, and how an abandoned fetter does not arise again in the future.
 
-*The same dhammas-refrain applies here.*"
+[The same dhammas refrain follows here.]"
 
 #### The Seven Awakening Factors
 
@@ -396,7 +396,7 @@ the energy awakening factor, the delight awakening factor, the relaxation
 awakening factor, the mental composure awakening factor, and the dynamic
 balance awakening factor.
 
-*The same dhammas-refrain applies here.*"
+[The same dhammas refrain follows here.]"
 
 #### The Four Noble Truths
 

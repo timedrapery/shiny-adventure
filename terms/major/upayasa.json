@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose emphasizing oppressive burden rather than emotional collapse",
       "rendering": "affliction",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In highly intensified descriptions of suffering",
@@ -43,7 +43,7 @@
     {
       "pali": "sokaparidevadukkhadomanassupāyāsā",
       "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
-      "notes": "Standard extended suffering formula.",
+      "notes": "Shows the standard extended suffering formula.",
       "source": "SN 12.2"
     },
     {

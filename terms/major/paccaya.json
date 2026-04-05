@@ -29,7 +29,7 @@
     {
       "context": "In explanatory prose emphasizing enablement or sustenance",
       "rendering": "support",
-      "notes": "Use this as a controlled alternate when the line benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When distinguishing paccaya from hetu in analytical discussion",
@@ -49,7 +49,7 @@
     {
       "pali": "avijjāpaccayā saṅkhārā",
       "translation": "with ignorance as condition, putting together",
-      "notes": "Classic dependent-arising usage.",
+      "notes": "Shows the standard dependent-arising formula.",
       "source": "SN 12.2"
     },
     {
@@ -61,13 +61,13 @@
     {
       "pali": "imasmiṃ sati idaṃ hoti",
       "translation": "when this is present, this comes to be",
-      "notes": "Canonical condition formula behind paccaya-language.",
+      "notes": "Shows the canonical condition formula behind paccaya-language.",
       "source": "SN 12.61"
     },
     {
       "pali": "imassa nirodhā idaṃ nirujjhati",
       "translation": "with the quenching of this, this ceases",
-      "notes": "Canonical quenching formula paired with conditionality language.",
+      "notes": "Shows the canonical quenching formula paired with paccaya-language.",
       "source": "SN 12.61"
     }
   ],

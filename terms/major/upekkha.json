@@ -27,7 +27,7 @@
     {
       "context": "In prose emphasizing steady balance",
       "rendering": "evenness",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In prose stressing composure under changing conditions",
@@ -37,12 +37,12 @@
     {
       "context": "When reader continuity with standard Buddhist-English is more important than the house idiom",
       "rendering": "equanimity",
-      "notes": "Use this as a controlled alternate, not as the default rendering."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In Punnaji-style advanced meditative explanation of inward observation",
       "rendering": "introspection",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In OSF-glossary style practical explanation of balanced adaptability",
@@ -62,7 +62,7 @@
     {
       "pali": "upekkhā cetovimutti",
       "translation": "the liberation of mind through dynamic balance",
-      "notes": "Important brahmavihāra expression.",
+      "notes": "Shows an important brahmavihāra expression.",
       "source": "DN 13"
     },
     {

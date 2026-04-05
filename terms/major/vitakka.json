@@ -30,7 +30,7 @@
     {
       "context": "In prose emphasizing the function of taking up a mental theme",
       "rendering": "applied attention",
-      "notes": "Use this as a controlled explanatory alternate, not the default rendering."
+      "notes": "Use this in explanatory prose only. Do not rotate it into the house default."
     },
     {
       "context": "In first-jhāna and ānāpānasati explanation where the wholesome content is being foregrounded",
@@ -63,25 +63,25 @@
     {
       "pali": "yaṃ sañjānāti taṃ vitakketi",
       "translation": "what one recognizes, one thinks about",
-      "notes": "MN 18 sequence line keeping vitakka downstream of recognition and upstream of proliferation.",
+      "notes": "Shows the MN 18 sequence line, keeping vitakka downstream of recognition and upstream of proliferation.",
       "source": "MN 18"
     },
     {
       "pali": "savitakkaṃ savicāraṃ",
       "translation": "with thinking and pondering",
-      "notes": "Classic first-jhāna expression.",
+      "notes": "Shows the classic first-jhāna expression.",
       "source": "DN 2"
     },
     {
       "pali": "akusala-vitakka",
       "translation": "unwholesome thinking",
-      "notes": "Ethical usage that keeps the term grounded.",
+      "notes": "Shows an ethical usage that keeps the term grounded.",
       "source": "MN 19"
     },
     {
       "pali": "nekkhamma-vitakka",
       "translation": "thinking of renunciation",
-      "notes": "Wholesome counterpart in the same ethical family.",
+      "notes": "Shows the wholesome counterpart in the same ethical family.",
       "source": "MN 19"
     }
   ],

@@ -119,7 +119,7 @@ def inconsistent_clung_to_heap_terms(terms: dict[str, dict[str, object]]) -> lis
         "pancupadanakkhandha": "five clung-to heaps",
         "pancime-bhikkhave-upadanakkhandha": "and what, bhikkhus, are the five clung-to heaps",
         "katamo-ca-bhikkhave-sakkayo": "and what, bhikkhus, is identity, the five clung-to heaps",
-        "pancupadanakkhandhesu-assado-adinavo-nissaranam": "the gratification, danger, and escape in relation to the five clung-to heaps",
+        "pancupadanakkhandhesu-assado-adinavo-nissaranam": "the gratification, danger, and escape in the five clung-to heaps",
     }
     for stem, expected_rendering in expected.items():
         data = terms.get(stem)
@@ -216,7 +216,7 @@ def render_formula_sheet(terms: dict[str, dict[str, object]]) -> str:
 
 def render_translator_brief(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Heaps vs Clung-To Heaps Brief",
+        "# Heaps vs. Clung-To Heaps Brief",
         "",
         "## Defaults",
         "",
@@ -291,8 +291,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate Markdown outputs in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

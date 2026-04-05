@@ -5,8 +5,8 @@
 This document defines how new term records should be created for the
 **shiny-adventure** Pāli translation dataset.
 
-The goal is not merely to store definitions, but to encode translation
-decisions in a structured and consistent format.
+The goal is not just to store definitions. It is to encode translation
+decisions in a structured, consistent format.
 
 The dataset functions as:
 
@@ -14,11 +14,10 @@ The dataset functions as:
 - a house style guide
 - a machine-readable translation rule system
 
-For that reason, major terms must be rule-bearing entries rather than simple
-dictionary definitions.
+Major terms therefore need to be rule-bearing entries, not simple dictionary
+definitions.
 
-The repository's live schema currently expresses these editorial ideas through
-these field names:
+The live schema expresses those editorial ideas through these field names:
 
 - preferred rendering -> `preferred_translation`
 - translation rule -> `context_rules`
@@ -261,8 +260,25 @@ Use the voice patterns in `docs/VOICE_STANDARD.md` when writing `notes`,
 - direct note openings such as `The project prefers ...`
 - direct context-rule notes such as `Use this by default.`
 - descriptive example notes such as `Shows the term in compound use.`
+- short, direct example translations that demonstrate one point at a time
 
-## Tags And Status
+For `example_phrases`, prefer complete translation phrases and note lines that
+state what the example shows. Avoid fragment-only example notes when a short
+`Shows ...` sentence will do the same work more clearly.
+
+For repeated policy moves, prefer stable house phrasing such as:
+
+- `Use this by default.`
+- `Allow this as a controlled alternate only when the context clearly supports it.`
+- `Use this in explanatory prose only.`
+- `Do not rotate this into the house default.`
+- `Keep this distinct from ...`
+- `Do not let this drift into generic ... language.`
+
+Use those forms to keep note scaffolding recognizable across entries. Vary the
+surrounding sentence only when the policy difference is real.
+
+## Tags and Status
 
 Use the approved values in `docs/tag-status-vocabulary.md`. Do not invent
 near-duplicate tags or ad hoc status labels.

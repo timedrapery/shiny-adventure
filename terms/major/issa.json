@@ -23,7 +23,7 @@
     {
       "context": "In more idiomatic prose where jealousy is the more natural English word",
       "rendering": "jealousy",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -45,7 +45,7 @@
     {
       "pali": "issā",
       "translation": "envy",
-      "notes": "Compact ethical usage.",
+      "notes": "Shows a compact ethical use.",
       "source": "AN 5.229"
     }
   ],

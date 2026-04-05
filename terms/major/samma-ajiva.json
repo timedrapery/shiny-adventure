@@ -31,7 +31,7 @@
     {
       "context": "In Punnaji-style pedagogical exposition of the eightfold path",
       "rendering": "harmonious lifestyle",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In Dhammarato quote-book headings or close OSF pedagogical paraphrase",
@@ -52,7 +52,7 @@
     {
       "pali": "sammā-ājīva",
       "translation": "right livelihood",
-      "notes": "Path-factor headword form.",
+      "notes": "Shows the path-factor headword form.",
       "source": "MN 117"
     },
     {

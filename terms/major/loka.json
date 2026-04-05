@@ -23,7 +23,7 @@
     {
       "context": "In contexts where the term points more to a domain or sphere of experience",
       "rendering": "realm",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage is clearly about the conditioned field that is to be understood, outgrown, or transcended",

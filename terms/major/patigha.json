@@ -13,7 +13,7 @@
     "hatred"
   ],
   "untranslated_preferred": false,
-  "definition": "Reactive resistance or striking-against in relation to what is unpleasant, opposed, or frustrating.",
+  "definition": "Reactive resistance or striking-against toward what is unpleasant, opposed, or frustrating.",
   "notes": "The project keeps resistance as the default because it is broad enough for both fetter analysis and practical psychology. Repulsion and aversion remain acceptable alternates when the line needs a stronger affective tone. Hatred is too narrow and too strong as a blanket default. In liberation-stage language paṭigha belongs with kāma-rāga as a fetter abandoned by the non-returner. The OSF glossary confirms resistance as the house default and preserves repulsion and aversion as explanatory alternates.",
   "context_rules": [
     {
@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose emphasizing the pushing-away or repelling movement",
       "rendering": "repulsion",
-      "notes": "Use this as a controlled alternate when the line benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the affective aversive tone is central but hatred would be too strong",

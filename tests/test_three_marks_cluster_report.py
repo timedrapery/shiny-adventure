@@ -50,7 +50,7 @@ def make_record(stem: str, **overrides: object) -> dict[str, object]:
         "anicca": "three marks framework note linking impermanent and dissatisfaction",
         "dukkha": "dissatisfaction note linking the family without restoring suffering",
         "anatta": "note keeping not-self tied to what is impermanent is dissatisfaction",
-        "sankhara": "three-marks formulae note keeping that which has been put together visible",
+        "sankhara": "three-marks formulae note keeping what has been put together visible",
         "sankhata": "conditioned note linking the family to impermanent",
         "dhamma": "phenomenon note explaining analytic contexts",
         "anicca-sanna": "practice note linking impermanence and dissatisfaction",

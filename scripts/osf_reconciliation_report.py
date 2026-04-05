@@ -25,67 +25,67 @@ REVIEWED_TERMS = {
         "classification": "ALIGN",
         "expected_default": "emptiness",
         "osf_usage": "OSF-facing materials support emptiness, while Buddhadasa-line prose also uses voidness and void-mind language.",
-        "governance": "Keep emptiness as the default, tolerate voidness as a controlled alternate, refuse nihilist and mystical drift.",
+        "governance": "Use emptiness as the default rendering. Allow voidness as a controlled alternate only when the context clearly supports it. Do not let this drift into nihilist or mystical language.",
     },
     "animitta": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "signless",
         "osf_usage": "OSF-facing materials do not strongly displace the default, while practical explanation can unpack the term as without sign or not taking up signs.",
-        "governance": "Keep signless as the default, tolerate explanatory without-sign language, refuse formlessness and mystical-vagueness drift.",
+        "governance": "Use signless as the default rendering. Use without-sign language in explanatory prose only. Do not let this drift into formlessness or mystical vagueness.",
     },
     "appanihita": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "wishless",
         "osf_usage": "Practical explanation can unpack the term as without placing desire or as narrower desireless language, but the family needs a sharper default.",
-        "governance": "Keep wishless as the default, tolerate controlled explanatory alternates, refuse passivity, apathy, and no-goals drift.",
+        "governance": "Use wishless as the default rendering. Allow explanatory alternates only when the context clearly supports them. Do not let this drift into passivity, apathy, or no-goals language.",
     },
     "nibbana": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "nibbāna",
         "osf_usage": "OSF and Buddhadasa-facing materials strongly use cooling, coolness, and cooling down in explanation.",
-        "governance": "Keep nibbāna untranslated by default, tolerate cooling-language as explanatory OSF-facing gloss, refuse mystical and absolutized drift.",
+        "governance": "Keep nibbāna untranslated by default. Allow cooling-language in OSF-facing explanatory prose only. Do not let this drift into mystical or absolutized language.",
     },
     "nirodha": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "quenching",
         "osf_usage": "OSF and Dhammarato materials often use stopping, ending, or cessation in practical explanation.",
-        "governance": "Keep quenching as the default, tolerate ending or cessation in controlled OSF-facing frames, refuse loose generic cessation drift.",
+        "governance": "Use quenching as the default rendering. Allow ending or cessation only in controlled OSF-facing explanation. Do not let this drift into loose generic cessation language.",
     },
     "sati": {
         "classification": "ALIGN",
         "expected_default": "remembering",
         "osf_usage": "Dhammarato and OSF path-language strongly support remembering, while some rough glossary or coaching prose uses awareness-language.",
-        "governance": "Keep remembering as the default, tolerate awareness only as a controlled explanatory alternate, refuse mindfulness and bare-attention drift.",
+        "governance": "Use remembering as the default rendering. Allow awareness only as a controlled explanatory alternate. Do not let this drift into mindfulness or bare-attention language.",
     },
     "vimutti": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "release",
         "osf_usage": "OSF-facing prose can use liberation, but the repository default is sharper as release.",
-        "governance": "Keep release as the default, tolerate liberation as a controlled OSF-facing alternate, refuse generic spiritual-freedom rhetoric.",
+        "governance": "Use release as the default rendering. Allow liberation as a controlled OSF-facing alternate only when the context clearly supports it. Do not let this drift into generic spiritual-freedom rhetoric.",
     },
     "anapanasati": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "ānāpānasati",
         "osf_usage": "OSF glossary explains it as remembering to look at in-and-out breathing.",
-        "governance": "Keep the untranslated default, tolerate the OSF explanatory gloss, refuse collapse into generic breath-meditation language.",
+        "governance": "Keep the untranslated default. Allow the OSF gloss in explanatory prose only. Do not let this collapse into generic breath-meditation language.",
     },
     "samadhi": {
         "classification": "ALIGN",
         "expected_default": "mental composure",
         "osf_usage": "Dhammarato and OSF materials strongly reject concentration and support a practical composure or collectedness handling.",
-        "governance": "Keep mental composure as the current default and continue refusing concentration drift.",
+        "governance": "Use mental composure as the default rendering. Do not let this drift into concentration language.",
     },
     "citta": {
         "classification": "TOLERATE ALTERNATE",
         "expected_default": "feeling mind",
         "osf_usage": "OSF explanatory material can use mind, heart-mind, or center of consciousness, especially in practice prose.",
-        "governance": "Keep feeling mind as the default, tolerate OSF-facing explanatory alternates, refuse collapse into cognition or consciousness.",
+        "governance": "Use feeling mind as the default rendering. Allow OSF-facing alternates in explanatory prose only. Do not let this collapse into cognition or consciousness language.",
     },
     "passaddhi": {
         "classification": "REFUSE DRIFT",
         "expected_default": "relaxation",
         "osf_usage": "Rough peace- or calm-language could easily flatten passaddhi into santi or generic tranquility.",
-        "governance": "Keep relaxation as the default and refuse drift into undifferentiated peace-language.",
+        "governance": "Use relaxation as the default rendering. Do not let this drift into undifferentiated peace-language.",
     },
 }
 
@@ -174,8 +174,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate the reconciliation sheet in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write the reconciliation sheet to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

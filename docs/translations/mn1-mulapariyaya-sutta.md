@@ -45,11 +45,6 @@ The Buddha said this:
 ones and is untrained and undisciplined in their Dhamma, who has no regard for
 good people and is untrained and undisciplined in their Dhamma:
 
-*Study note: this discourse is not handled here as a mere cosmological list.
-The repeated pattern shows how recognition is followed by selfing, ownership,
-and delight, whether the object is coarse, subtle, meditative, totalizing, or
-even nibbāna-language itself.*
-
 - One recognizes earth as earth. Having recognized earth as earth, one takes
   oneself to be earth, takes oneself in earth, takes oneself apart from earth,
   takes earth as 'mine', and delights in earth. Why is that? Because one has
@@ -169,10 +164,6 @@ even nibbāna-language itself.*
 
 "Bhikkhus, a trainee bhikkhu, whose mind has not yet reached the goal and who
 is still aspiring to the unsurpassed security from the yoke:
-
-*Study note: the trainee section matters because the problem is not only
-holding wrong views. The live movement of taking things as me or mine is still
-in play, so the wording remains prohibitive rather than completed.*
 
 - One directly knows earth as earth. Having directly known earth as earth, one
   should not take oneself to be earth, should not take oneself in earth,
@@ -362,7 +353,7 @@ released through final knowledge:
   from it, does not take it as 'mine', and does not delight in it. Why is
   that? Because delusion is absent through the wearing away of delusion.
 
-### The Tathāgata: Understood To The End
+### The Tathāgata: Understood to the End
 
 "Bhikkhus, the Tathāgata, the arahant, the fully awakened Buddha:
 

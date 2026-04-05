@@ -13,7 +13,7 @@
   "discouraged_translations": [
     "five aggregates of attachment"
   ],
-  "definition": "The five heaps insofar as they are appropriated, taken as I and mine, and made the footing for identity view and dissatisfaction.",
+  "definition": "The five heaps when they are appropriated, taken as I and mine, and made the footing for identity view and dissatisfaction.",
   "notes": "This is a fixed doctrinal expression, not a place to mechanically combine the headword defaults for upādāna and khandha. The project keeps five clung-to heaps as the default whole-expression rendering because it is compact, doctrinally familiar, and stable across truth, self-view, and burden contexts. Five heaps taken personally remains the best explanatory alternate when the passage needs the appropriative force spelled out more explicitly. Five heaps of clinging is tolerated as a familiar comparative gloss, but it should not displace the house rendering in direct translation. Keep this expression distinct from pañcakkhandhā, which is simply five heaps without the added appropriation signal. The OSF glossary supports keeping this fixed expression stable, and SN 56.11 is the governing truth-context citation.",
   "context_rules": [
     {
@@ -29,7 +29,7 @@
     {
       "context": "When comparison with older Buddhist-English usage matters",
       "rendering": "five heaps of clinging",
-      "notes": "Use this as a controlled alternate for orientation, not the project default."
+      "notes": "Use this in explanatory prose only for orientation. Do not rotate it into the house default."
     }
   ],
   "related_terms": [
@@ -58,18 +58,18 @@
     {
       "pali": "dukkhaṃ ariyasaccaṃ: saṅkhittena pañcupādānakkhandhā",
       "translation": "the noble truth of dissatisfaction, in brief, is the five clung-to heaps",
-      "notes": "Important truth-context use of the fixed expression.",
+      "notes": "Shows the fixed expression in truth-context use.",
       "source": "SN 56.11"
     },
     {
       "pali": "katame ca, bhikkhave, pañcupādānakkhandhā",
       "translation": "and what, bhikkhus, are the five clung-to heaps?",
-      "notes": "Canonical heading that governs the standard constituent enumeration.",
+      "notes": "Shows the canonical heading that governs the standard constituent enumeration.",
       "source": "SN 22.48"
     },
     {
       "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
-      "translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "translation": "the gratification, danger, and escape in the five clung-to heaps",
       "notes": "Shows the expression in the gratification-danger-escape framework.",
       "source": "SN 22.26"
     }

@@ -86,7 +86,7 @@ These are still short minor records with little or no rule-bearing guidance,
 no examples, no related-term propagation, and no provenance. They are present
 in the lexicon but not yet translation-ready as a coordinated system.
 
-## 3. Missing Linked Compounds And Formula Objects
+## 3. Missing Linked Compounds and Formula Objects
 
 ### Missing as dedicated formula records
 

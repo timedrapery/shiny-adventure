@@ -35,7 +35,7 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### The Buddha Points To Sāriputta And Moggallāna
+### The Buddha Points to Sāriputta and Moggallāna
 
 "Bhikkhus, at Isipatana, in the Deer Park near Bārāṇasī, the Tathāgata, the
 arahant, the fully awakened Buddha, set rolling the unsurpassed wheel of
@@ -55,7 +55,7 @@ dissatisfaction.
 Bhikkhus, stay close to Sāriputta and Moggallāna. Keep company with them.
 Those wise bhikkhus support their spiritual companions.
 
-Sāriputta is like one who gives birth, and Moggallāna is like one who raises
+Sāriputta is like someone who gives birth, and Moggallāna is like someone who raises
 what has been born.
 
 Sāriputta trains people in the fruit of stream-entry, and Moggallāna in the
@@ -67,7 +67,7 @@ analyze, and make clear the four noble truths in detail."
 That is what the Buddha said. Having said this, the Buddha rose from his seat
 and entered his dwelling.
 
-### Sāriputta Begins The Analysis
+### Sāriputta Begins the Analysis
 
 Then, not long after the Buddha had gone, Venerable Sāriputta addressed the
 bhikkhus:
@@ -87,7 +87,7 @@ making clear of the four noble truths.
 
 And which four?
 
-### The Noble Truth Of Dissatisfaction
+### The Noble Truth of Dissatisfaction
 
 And what, friends, is the noble truth of dissatisfaction?
 
@@ -170,7 +170,7 @@ These are called the five clung-to heaps that in brief are dissatisfaction.
 
 This is called the noble truth of dissatisfaction.
 
-### The Noble Truth Of The Origin Of Dissatisfaction
+### The Noble Truth of the Origin of Dissatisfaction
 
 And what, friends, is the noble truth of the origin of dissatisfaction?
 
@@ -183,7 +183,7 @@ relishing and passion, delighting here and there. That is:
 
 This is called the noble truth of the origin of dissatisfaction.
 
-### The Noble Truth Of The Quenching Of Dissatisfaction
+### The Noble Truth of the Quenching of Dissatisfaction
 
 And what, friends, is the noble truth of the quenching of dissatisfaction?
 
@@ -192,7 +192,7 @@ it up, relinquishing it, freedom, non-attachment.
 
 This is called the noble truth of the quenching of dissatisfaction.
 
-### The Noble Truth Of The Path
+### The Noble Truth of the Path
 
 And what, friends, is the noble truth of the path of practice leading to the
 quenching of dissatisfaction?
@@ -290,7 +290,7 @@ dhammas, enters and remains in the first mental theme, with thinking and
 pondering, with delight and ease born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of the feeling mind, one enters and remains in the second mental
+unification of mind, one enters and remains in the second mental
 theme, without thinking and pondering, with delight and ease born of mental
 composure.
 

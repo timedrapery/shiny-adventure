@@ -5,10 +5,9 @@
 This directory contains generated reference material produced from live term
 records and audit scripts.
 
-These files are useful for translators and reviewers, but they are not the
-normative source of house policy.
+These files help translators and reviewers, but they do not set house policy.
 
-## Source Of Truth
+## Source of Truth
 
 The source of truth remains:
 
@@ -18,7 +17,7 @@ The source of truth remains:
 
 Generated files summarize that policy. They do not replace it.
 
-## When To Use These Files
+## When to Use These Files
 
 Use generated docs when you need:
 
@@ -52,9 +51,9 @@ Use [../documentation-guide.md](../documentation-guide.md) and
 [../../scripts/README.md](../../scripts/README.md) to find the right generator
 for a given output.
 
-## Editing Rule
+## Editing Generated Docs
 
-Do not treat these files as the primary place to make policy changes.
+Do not use these files as the main place to change policy.
 
 When a generated file looks wrong:
 
@@ -66,7 +65,7 @@ If you make a deliberate manual touch-up to a generated file, also fix the
 upstream generator or live data in the same pass so the output does not drift
 back on the next regeneration.
 
-## Practical Use
+## Common Uses
 
 Use generated docs when you need:
 

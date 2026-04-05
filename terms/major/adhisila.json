@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in conduct",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage highlights restraint, precepts, or behavioral purification as the basis for further training",
@@ -46,7 +46,7 @@
     {
       "pali": "adhisīlasikkhā",
       "translation": "the higher training in conduct",
-      "notes": "Standard triadic formulation.",
+      "notes": "Shows the standard triadic formulation.",
       "source": "MN 44"
     },
     {

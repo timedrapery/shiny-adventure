@@ -114,27 +114,12 @@ great fruit and great benefit?"
 
 ### The Sixteen Trainings
 
-*Editorial layout note: the lines below are grouped as trainings, not presented
-as a numbered sequence of steps.*
-
-*Study note: in this edition the breath is not treated as an object of mere
-fixation. Each in-breath and out-breath is the recurring occasion for
-remembering the Dhamma and carrying out the training.*
-
-*Study note: this edition does not treat the first mental theme as something
-separate from ānāpānasati. The same training clears distractions, brings up
-wholesome dhammas through thinking and evaluation, and goes straight toward
-the goal rather than wandering into side tracks.*
-
 "Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
 to an empty hut, sits down, folds the legs crosswise, sets the body upright,
 and sets remembering to the fore. One breathes in remembering the Dhamma; one
 breathes out remembering the Dhamma.
 
 Body-related trainings:
-*The long and short breath trainings are not an end in themselves. Breathing is
-known, and when needed adjusted, so the whole body can be experienced and the
-body conditioner calmed through each breath.*
 - Breathing in long, one knows: 'I breathe in long.' Breathing out long, one
   knows: 'I breathe out long.'
 - Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
@@ -145,9 +130,6 @@ body conditioner calmed through each breath.*
   'Breathing out, I will calm the body conditioner.'
 
 Felt-experience trainings:
-*With each in-breath and out-breath, the trainee remembers to bring forth
-delight and ease, and to experience and calm the mind conditioner, namely
-felt experience and recognition: liking, disliking, or a mixed pull.*
 - One trains: 'Breathing in, I will experience delight.' One trains:
   'Breathing out, I will experience delight.'
 - One trains: 'Breathing in, I will experience ease.' One trains:
@@ -158,11 +140,6 @@ felt experience and recognition: liking, disliking, or a mixed pull.*
   'Breathing out, I will calm the mind conditioner.'
 
 Feeling-mind trainings:
-*With each in-breath and out-breath, the trainee remembers to experience,
-gladden, bring to mental composure, and free the feeling mind. In practice,
-the thinking mind (`mano`) reaches in to gladden the feeling mind (`citta`) by
-bringing forth wholesome qualities, thoughts worth having, while abandoning
-unwholesome qualities, thoughts not worth keeping in mind.*
 - One trains: 'Breathing in, I will experience the feeling mind.' One trains:
   'Breathing out, I will experience the feeling mind.'
 - One trains: 'Breathing in, I will gladden the feeling mind.' One trains:
@@ -174,9 +151,6 @@ unwholesome qualities, thoughts not worth keeping in mind.*
   'Breathing out, I will free the feeling mind.'
 
 Dhamma-related trainings:
-*With each in-breath and out-breath, the trainee remembers the direction of
-the training: seeing impermanence, allowing fading, allowing quenching, and
-leaning into relinquishment rather than grasping again.*
 - One trains: 'Breathing in, I will observe impermanence.' One trains:
   'Breathing out, I will observe impermanence.'
 - One trains: 'Breathing in, I will observe fading.' One trains:
@@ -189,13 +163,7 @@ leaning into relinquishment rather than grasping again.*
 "That is how ānāpānasati, when developed and cultivated, bears great fruit and
 great benefit."
 
-### How Ānāpānasati Fulfills The Four Establishments Of Sati
-
-*Study note: the four fulfillments below do not leave breathing behind. They
-show how the same in-breath and out-breath training fulfills body, felt
-experience, feeling mind, and dhammas. Here the in-and-out breath remains the
-body conditioner, while felt experience and recognition remain the mind
-conditioner worked with through breathing.*
+### How Ānāpānasati Fulfills the Four Establishments of Sati
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
@@ -237,11 +205,7 @@ remembering, having removed coveting and distress regarding the world.
 "That is how ānāpānasati, when developed and cultivated, fulfills the four
 establishments of sati."
 
-### How The Four Establishments Of Sati Fulfill The Seven Awakening Factors
-
-*Study note: the awakening factors below are not a second practice added on
-after ānāpānasati. They name the same training as it matures, as the
-conditioners calm and the feeling mind steadies.*
+### How the Four Establishments of Sati Fulfill the Seven Awakening Factors
 
 "And how, bhikkhus, are the four establishments of sati developed and cultivated
 so as to fulfill the seven awakening factors?
@@ -287,7 +251,7 @@ and distress regarding the world.
 "That is how the four establishments of sati, when developed and cultivated,
 fulfill the seven awakening factors."
 
-### How The Seven Awakening Factors Fulfill Knowledge And Release
+### How the Seven Awakening Factors Fulfill Knowledge and Release
 
 "And how, bhikkhus, are the seven awakening factors developed and cultivated so
 as to fulfill knowledge and release?

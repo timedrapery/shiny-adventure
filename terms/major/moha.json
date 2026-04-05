@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose emphasizing muddle rather than outright false view",
       "rendering": "confusion",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In prose highlighting mental disorientation",
@@ -54,7 +54,7 @@
     {
       "pali": "moho akusalamūlaṃ",
       "translation": "delusion is a root of the unwholesome",
-      "notes": "Standard ethical classification.",
+      "notes": "Shows the standard ethical classification.",
       "source": "MN 9"
     },
     {

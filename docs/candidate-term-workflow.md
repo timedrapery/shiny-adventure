@@ -1,4 +1,4 @@
-# CANDIDATE TERM WORKFLOW
+# Candidate Term Workflow
 
 ## Purpose
 

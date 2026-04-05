@@ -3,7 +3,7 @@
 ## Headword Defaults
 
 - `avijjā`: default `ignorance`; alternates `not-knowing, unawareness`; discouraged `nescience`
-- `saṅkhārā`: default `putting things together`; alternates `that which has been put together, conditioned thing, construction, fabrication, putting-together activities`; discouraged `choices, volitional formations`
+- `saṅkhārā`: default `putting things together`; alternates `what has been put together, conditioned thing, construction, fabrication, putting-together activities`; discouraged `choices, volitional formations`
 - `viññāṇa`: default `knowing`; alternates `consciousness, awareness`; discouraged `pure awareness, witness consciousness, self, soul, sentience`
 - `nāmarūpa`: default `name-and-form`; alternates `naming and materiality, mental and physical phenomena, mental and physical objects of consciousness, mind and body`; discouraged `body and mind`
 - `saḷāyatana`: default `six fields of experience`; alternates `six sense fields, sense field, six sense bases, six sense domains`; discouraged `sense organs`

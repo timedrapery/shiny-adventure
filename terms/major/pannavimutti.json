@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where a slightly lighter English phrase is needed",
       "rendering": "release through understanding",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In paired cetovimutti/paññāvimutti formulas",
@@ -44,7 +44,7 @@
     {
       "pali": "cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati",
       "translation": "one lives having personally realized release of mind and release through discernment in this very life",
-      "notes": "Classic paired liberation formula.",
+      "notes": "Shows the classic paired liberation formula.",
       "source": "MN 70"
     }
   ],

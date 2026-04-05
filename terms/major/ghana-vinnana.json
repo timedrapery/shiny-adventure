@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose emphasizing the sensory modality",
       "rendering": "olfactory knowing",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In comparative doctrinal prose using established Buddhist-English terminology",
@@ -44,7 +44,7 @@
     {
       "pali": "ghānañca paṭicca gandhe ca uppajjati ghānaviññāṇaṃ",
       "translation": "dependent on the nose and odors, nose-knowing arises",
-      "notes": "Standard sense-base formula.",
+      "notes": "Shows the standard sense-base formula.",
       "source": "MN 148"
     }
   ],

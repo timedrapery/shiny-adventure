@@ -22,7 +22,7 @@
     {
       "context": "In explanatory prose using familiar aggregate terminology",
       "rendering": "the five aggregates are a burden",
-      "notes": "Use this as a controlled alternate for orientation."
+      "notes": "Use this in explanatory prose only for orientation."
     }
   ],
   "related_terms": [
@@ -33,7 +33,7 @@
     {
       "pali": "bhāro have pañcakkhandhā",
       "translation": "the five heaps are indeed a burden",
-      "notes": "Canonical burden line for the family.",
+      "notes": "Shows the canonical burden line for the family.",
       "source": "SN 22.22"
     }
   ],

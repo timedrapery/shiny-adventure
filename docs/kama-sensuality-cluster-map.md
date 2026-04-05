@@ -1,4 +1,4 @@
-# Kāma / Kāmacchanda Control Map
+# Kāma / Sensuality Cluster Map
 
 This cluster governs one of the repo's highest-risk English drift zones.
 

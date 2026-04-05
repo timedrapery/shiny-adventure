@@ -37,12 +37,12 @@
     {
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly directed breathing attention",
       "rendering": "introspective breathing",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In older OSF-glossary style plain-English practice explanation",
       "rendering": "remembering to look at in-and-out breathing",
-      "notes": "Tolerated explanatory alternate, but not the strongest current house gloss."
+      "notes": "Use this in explanatory prose only. It is not the strongest current house gloss."
     },
     {
       "context": "In OSF publication prose emphasizing the training as a whole rather than a technique fragment",
@@ -88,13 +88,13 @@
     {
       "pali": "so satova assasati satova passasati",
       "translation": "one breathes in remembering the Dhamma and breathes out remembering the Dhamma",
-      "notes": "Closely tied practical formulation showing that sati here is not arbitrary recollection.",
+      "notes": "Shows a closely tied practical formulation in which sati is not arbitrary recollection.",
       "source": "MN 118"
     },
     {
       "pali": "abhippamodayaṃ cittaṃ assasissāmīti sikkhati",
       "translation": "one trains: 'I will breathe in gladdening the feeling mind'",
-      "notes": "The gladdening-the-mind step can be explained through the repository's mano/citta distinction without complicating the formula.",
+      "notes": "Shows the gladdening-the-mind step as a place where the repository's mano/citta distinction can clarify the formula without complicating it.",
       "source": "MN 118"
     }
   ],

@@ -22,7 +22,7 @@ On Windows PowerShell:
 3. Run targeted checks while iterating.
 4. Run full checks before opening a pull request.
 
-## Choose The Right Edit Surface
+## Choose the Right Edit Surface
 
 Before editing, confirm which part of the repository you actually mean to
 change:

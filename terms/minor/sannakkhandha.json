@@ -22,7 +22,7 @@
     {
       "context": "In explanatory prose using familiar aggregate terminology",
       "rendering": "perception heap",
-      "notes": "Use this as a controlled alternate for orientation."
+      "notes": "Use this in explanatory prose only for orientation."
     }
   ],
   "related_terms": [
@@ -35,7 +35,7 @@
     {
       "pali": "saññākkhandho",
       "translation": "the recognition heap",
-      "notes": "Canonical constituent-heap expression.",
+      "notes": "Shows the canonical constituent-heap expression.",
       "source": "SN 22.48"
     }
   ],

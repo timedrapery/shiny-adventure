@@ -63,7 +63,7 @@ interchangeable.
 - Do not let `nibbuta` become a casual synonym for `nibbāna`.
 - Do not let `parinibbāna` become generic death-language.
 
-## Imagery And Designation Discipline
+## Imagery and Designation Discipline
 
 - Keep `nibbāna` untranslated by default in source-facing doctrinal prose.
 - Use `quenching` or `coolness` as controlled glosses, not as automatic replacements.
@@ -72,7 +72,7 @@ interchangeable.
 - Let `santi` keep peace-language without sentimentality.
 - Let `nibbuta` keep adjectival cooling force rather than turning it into a noun.
 
-## Compact Contrast Matrix
+## Contrast Matrix
 
 | If the text suggests... | Prefer | Avoid by Default |
 | --- | --- | --- |

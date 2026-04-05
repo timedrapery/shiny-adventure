@@ -243,9 +243,9 @@ def render_truth_task_sheet(terms: dict[str, dict[str, object]]) -> str:
 
 def render_correct_noble_practice_brief(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Correct Noble Practice Brief",
+        "# Four Noble Truths Practice Brief",
         "",
-        "## Governing Cycle",
+        "## Practice Cycle",
         "",
         "- Wake up and look at what is here.",
         "- See where it is heading.",
@@ -253,7 +253,7 @@ def render_correct_noble_practice_brief(terms: dict[str, dict[str, object]]) -> 
         "- Notice and appreciate the quenching of dukkha.",
         "- Do it again when remembered.",
         "",
-        "## Guardrails",
+        "## Drift Guards",
         "",
         f"- `{terms['ariyasacca']['term']}` stays `{terms['ariyasacca']['preferred_translation']}` rather than turning the truths into slogan-language.",
         f"- `{terms['dukkha']['term']}` stays `{terms['dukkha']['preferred_translation']}` rather than drifting back to uncontrolled suffering-language.",
@@ -266,7 +266,7 @@ def render_correct_noble_practice_brief(terms: dict[str, dict[str, object]]) -> 
 
 def render_scope_sheet(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Dukkha-Nirodha Scope Sheet",
+        "# Dukkha / Nirodha Scope Sheet",
         "",
         f"- `{terms['ariyasacca']['term']}` keeps the four truths ordered by the repository's `dukkha / dukkha-nirodha` scope rule.",
         f"- `{terms['dukkha']['term']}` remains the first governing side of that scope as `{terms['dukkha']['preferred_translation']}`.",
@@ -320,8 +320,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate Markdown outputs in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

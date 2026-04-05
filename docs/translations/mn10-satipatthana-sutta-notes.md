@@ -82,8 +82,8 @@ source-audit calls, and edition notes that govern it.
 - Those headings are editorial aids, not claims that such headings stand in
   the root text itself.
 - The first full refrain in each major branch is laid out in full.
-- Later formally identical refrains are partly compacted once the governing
-  pattern is fully clear.
+- Later formally identical refrains are compacted with bracketed refrain cues
+  once the governing pattern is fully clear.
 - The charnel-ground sequence is deliberately compacted into a readable staged
   list rather than repeated line by line.
 

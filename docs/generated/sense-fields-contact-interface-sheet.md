@@ -1,4 +1,4 @@
-# Sense-Fields Contact Interface Sheet
+# Sense-Fields Contact Sheet
 
 - `āyatana` stays `field` across the family and blocks silent drift back to `base` or `organ` language.
 - `saḷāyatana` stays `six fields of experience` and should remain readable as the experiential field structure from which contact can arise.

@@ -44,7 +44,7 @@ Listen carefully, attend well, and I will speak."
 
 The Buddha said this:
 
-### The Six Sets Of Six
+### The Six Sets of Six
 
 "The six internal fields are to be known. The six external fields are to be
 known. The six classes of knowing are to be known. The six classes of contact
@@ -166,12 +166,7 @@ of this.
 
 This is the sixth set of six."
 
-### Not-Self Across The Sixes
-
-*Study note: this discourse is a governing source in the repository for
-seeing the whole sixfold process as not-self, not just one slice of it. The
-pattern runs from field, to object-side field, to knowing, to contact, to
-felt experience, to ignorant wanting.*
+### Not-Self Across the Sixes
 
 "If anyone were to say, 'the eye is self,' that would not hold.
 
@@ -320,7 +315,7 @@ So mind is not-self; dhammas are not-self; mind-knowing is not-self;
 mind-contact is not-self; felt experience is not-self; ignorant wanting is
 not-self."
 
-### The Way Leading To The Arising Of Identity
+### The Way Leading to the Arising of Identity
 
 "And this, bhikkhus, is the way leading to the arising of identity:
 
@@ -356,7 +351,7 @@ One regards felt experience like this: 'This is mine, I am this, this is my self
 One regards ignorant wanting like this: 'This is mine, I am this, this is my
 self.'"
 
-### The Way Leading To The Quenching Of Identity
+### The Way Leading to the Quenching of Identity
 
 "And this, bhikkhus, is the way leading to the quenching of identity:
 
@@ -402,11 +397,7 @@ not my self.'
 One regards ignorant wanting like this: 'This is not mine, I am not this, this is
 not my self.'"
 
-### Pleasant, Painful, And Mixed Feeling: The Untrained Pattern
-
-*Study note: this edition keeps the third vedanā register as `mixed`, not
-`neutral`. The point is not a dead middle state, but a register that is easily
-left unclear and therefore easily ruled by ignorance.*
+### Pleasant, Painful, and Mixed Feeling: The Untrained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
@@ -465,7 +456,7 @@ in mixed feeling, has not abandoned ignorance, and has not brought up
 knowledge, there is no possibility that one will make an end of
 dissatisfaction in this very life."
 
-### Pleasant, Painful, And Mixed Feeling: The Trained Pattern
+### Pleasant, Painful, and Mixed Feeling: The Trained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
@@ -524,7 +515,7 @@ mixed feeling, has abandoned ignorance, and has brought up knowledge, there
 is the possibility that one will make an end of dissatisfaction in this very
 life."
 
-### Disenchantment, Fading, And Release
+### Disenchantment, Fading, and Release
 
 "Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with the
 eye, with visible forms, with eye-knowing, with eye-contact, with felt

@@ -12,7 +12,7 @@
   "discouraged_translations": [
     "heap of attachment"
   ],
-  "definition": "A heap insofar as it is appropriated or taken personally; the singular compound behind the collective pañcupādānakkhandhā.",
+  "definition": "A heap when it is appropriated or taken personally; the singular compound behind the collective pañcupādānakkhandhā.",
   "notes": "This compound follows the same fixed-family override as pañcupādānakkhandhā. The project keeps clung-to heap as the default because it is compact and aligns with the stabilized whole-expression policy. Heap taken personally remains the best explanatory alternate when the appropriative force itself needs to be spelled out more explicitly. Do not mechanically recombine the headword defaults of upādāna and khandha in ad hoc ways. SN 22.22 supports this constituent clung-to-heap usage directly.",
   "context_rules": [
     {
@@ -23,7 +23,7 @@
     {
       "context": "When explanatory prose needs the appropriative force made more explicit",
       "rendering": "heap taken personally",
-      "notes": "Use this as a controlled alternate for explanation."
+      "notes": "Use this in explanatory prose only."
     }
   ],
   "related_terms": [

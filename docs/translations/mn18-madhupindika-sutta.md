@@ -92,7 +92,7 @@ Here these bad unwholesome dhammas cease without remainder."
 That is what the Buddha said. Then the Fortunate One got up from his seat and
 entered his dwelling.
 
-### Mahākaccāna Is Asked To Explain
+### Mahākaccāna Is Asked to Explain
 
 Soon after the Buddha had gone, the bhikkhus thought:
 
@@ -122,12 +122,7 @@ Still, listen, friends, and attend carefully. I will speak."
 
 "Yes, friend," the bhikkhus replied.
 
-### The Sequence Through The Six Sense Doors
-
-*Study note: this discourse is a governing source in the repository for the
-sequence `phassa -> vedanā -> saññā -> vitakka -> papañca`. The point is not
-abstract psychology. It is how the lived process keeps rolling forward when it
-is fed.*
+### The Sequence Through the Six Sense Doors
 
 Mahākaccāna said:
 
@@ -156,11 +151,7 @@ proliferates about. From what one proliferates about as the source, the
 recognitions and notions of proliferation sweep over a person when it comes to
 dhammas knowable by the mind in the past, future, and present."
 
-### When The Process Can Be Designated
-
-*Study note: this edition keeps the `paññatti` sequence as
-designation-language. The point is not merely that something exists, but that
-it can be picked out and named once the upstream conditions are there.*
+### When the Process Can Be Designated
 
 "Friends, where there are eye, visible forms, and eye-knowing, it is possible to
 designate contact.
@@ -191,7 +182,7 @@ Where recognition can be designated, it is possible to designate thinking.
 Where thinking can be designated, it is possible to designate the sweeping-over
 of the recognitions and notions of proliferation."
 
-### When The Process Cannot Be Designated
+### When the Process Cannot Be Designated
 
 "Friends, where there are no eye, no visible forms, and no eye-knowing, it is not
 possible to designate contact.

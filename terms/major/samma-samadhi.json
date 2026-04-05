@@ -27,7 +27,7 @@
     {
       "context": "In prose stressing steadiness or bearing more than integration",
       "rendering": "right composure",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
@@ -62,7 +62,7 @@
     {
       "pali": "sammā-samādhi",
       "translation": "right mental composure",
-      "notes": "OSF house-style path-factor form.",
+      "notes": "Shows the OSF house-style path-factor form.",
       "source": "MN 117"
     },
     {

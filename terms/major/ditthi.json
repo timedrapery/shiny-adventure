@@ -41,7 +41,7 @@
     {
       "context": "In prose emphasizing assent or conviction rather than the wider family of view-language",
       "rendering": "belief",
-      "notes": "Use this as a controlled explanatory alternate, not the default rendering."
+      "notes": "Use this in explanatory prose only. Do not rotate it into the house default."
     }
   ],
   "related_terms": [
@@ -74,7 +74,7 @@
     {
       "pali": "diṭṭhupādāna",
       "translation": "taking views personally",
-      "notes": "Illustrates how the headword extends into appropriation language.",
+      "notes": "Shows how the headword extends into appropriation language.",
       "source": "MN 11"
     }
   ],

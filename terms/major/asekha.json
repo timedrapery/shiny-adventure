@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where a smoother English phrase is needed",
       "rendering": "fully trained",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage stresses completion of the path rather than ongoing development",

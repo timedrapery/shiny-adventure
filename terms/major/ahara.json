@@ -23,7 +23,7 @@
     {
       "context": "In plainly literal contexts or lighter explanatory prose",
       "rendering": "food",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage emphasizes the fourfold analysis of what sustains experience and becoming",
@@ -42,7 +42,7 @@
     {
       "pali": "cattāro ime bhikkhave āhārā",
       "translation": "bhikkhus, these are the four nutriments",
-      "notes": "Standard opening to the nutriment analysis.",
+      "notes": "Shows the standard opening to the nutriment analysis.",
       "source": "SN 12.11"
     },
     {

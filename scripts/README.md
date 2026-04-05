@@ -1,18 +1,18 @@
 # Script Index
 
-This directory contains the repository's validation, reporting, scaffolding, and helper tooling.
+This directory contains the repository's validation, reporting, scaffolding, and helper tools.
 
 All CLI scripts support `--help`.
 
 Use [../docs/usage.md](../docs/usage.md) for task-based command recipes and
 [../docs/generated/generated-docs-guide.md](../docs/generated/generated-docs-guide.md)
-if you are working with scripts that write under `docs/generated/`.
+for generated docs guidance.
 
 When a script produces generated reference material, treat that output as a
-derived surface. Fix the live term data or the generating script first when the
-output looks wrong.
+derived surface. If the output looks wrong, fix the live term data or the
+generating script first.
 
-## Core Verification Commands
+## Verification Commands
 
 - `python scripts/run_checks.py`
   Runs the full verification suite in the same order used by CI.
@@ -41,7 +41,7 @@ output looks wrong.
 - `python scripts/three_marks_cluster_report.py`
   Audits the three-marks cluster and can generate translator-facing outputs.
 
-## Reporting And Planning Commands
+## Reporting and Planning Commands
 
 - `python scripts/repo_health.py --top 10`
   Reports repository health signals for editorial scalability and automation.
@@ -56,11 +56,11 @@ output looks wrong.
 - `python scripts/jhana_cluster_report.py --write-docs`
   Checks the jhana core cluster surface and writes glossary, sequence, path-brief, and formula-sheet outputs into `docs/generated/`.
 - `python scripts/path_factor_cluster_report.py --write-docs`
-  Checks the path-factor core cluster surface and writes glossary, core-loop, tenfold-sequence, and supporting-terms outputs into `docs/generated/`.
+  Checks the path-factor core cluster surface and writes the glossary, core-loop brief, tenfold-sequence sheet, and support map to `docs/generated/`.
 - `python scripts/four_noble_truths_cluster_report.py --write-docs`
-  Checks the four noble truths cluster surface and writes glossary, truth-task, correct-noble-practice, and scope outputs into `docs/generated/`.
+  Checks the four noble truths cluster surface and writes the glossary, truth-task sheet, practice brief, and scope sheet to `docs/generated/`.
 - `python scripts/sense_fields_cluster_report.py --write-docs`
-  Checks the sense-fields cluster surface and writes glossary, twelve-field-map, contact-interface, and translator-brief outputs into `docs/generated/`.
+  Checks the sense-fields cluster surface and writes the glossary, twelve-field map, contact sheet, and translator brief to `docs/generated/`.
 - `python scripts/three_marks_cluster_report.py --write-docs`
   Checks the three-marks cluster surface and writes glossary, contemplation-sheet, formula-sheet, and translator-brief outputs into `docs/generated/`.
 - `python scripts/term_directory_navigation.py --write-docs`
@@ -98,7 +98,7 @@ output looks wrong.
 - `python scripts/policy_backfill_queue.py`
   Ranks major terms that should be prioritized for metadata backfill.
 
-## Candidate Intake Commands
+## Candidate Intake
 
 - `python scripts/extract_candidate_terms.py path/to/source.txt`
   Extracts review candidates from Pali source texts without creating live entries.
@@ -107,7 +107,7 @@ output looks wrong.
 - `python scripts/scaffold_candidate_terms.py --priority create_now`
   Scaffolds review packets for extracted candidates without writing to `terms/`.
 
-## Metadata Backfill Commands
+## Metadata Backfill
 
 - `python scripts/scaffold_policy_metadata.py --check-only --all-missing`
   Shows which major entries would receive placeholder `authority_basis` or `translation_policy` blocks.
@@ -118,12 +118,12 @@ output looks wrong.
 
 Use these conservatively. Placeholder output still requires editorial completion before review or merge.
 
-## Batch Writing Commands
+## Batch Writing
 
 - `python scripts/write_term_batch.py --help`
   Writes term entry batches to `terms/` using explicit UTF-8 output.
 
-## Internal Helper Modules
+## Helper Modules
 
 - `scripts/term_store.py`
   Shared helpers for locating and writing term files.
@@ -132,7 +132,7 @@ Use these conservatively. Placeholder output still requires editorial completion
 
 These modules are support code, not standalone workflow entry points.
 
-## Practical Starting Points
+## Starting Points
 
 - Editing term data: run `validate_terms.py`, `lint_terms.py`, and `check_translation_drift.py`.
 - Checking repository surface quality: run `check_docs_integrity.py`.

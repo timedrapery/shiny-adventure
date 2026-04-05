@@ -28,7 +28,7 @@
     {
       "context": "In explanatory prose emphasizing mental turbulence or disturbance",
       "rendering": "agitation",
-      "notes": "Use this as a controlled alternate when the line benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -44,7 +44,7 @@
     {
       "pali": "uddhacca-kukkucca",
       "translation": "restlessness and remorse",
-      "notes": "Standard hindrance expression.",
+      "notes": "Shows the standard hindrance expression.",
       "source": "DN 2"
     },
     {

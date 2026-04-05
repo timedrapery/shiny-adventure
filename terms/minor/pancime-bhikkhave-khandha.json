@@ -22,7 +22,7 @@
     {
       "context": "In explanatory prose using familiar Buddhist-English terminology",
       "rendering": "these, bhikkhus, are the five aggregates",
-      "notes": "Use this as a controlled alternate for orientation."
+      "notes": "Use this in explanatory prose only for orientation."
     }
   ],
   "related_terms": [
@@ -33,7 +33,7 @@
     {
       "pali": "pañcime, bhikkhave, khandhā",
       "translation": "these, bhikkhus, are the five heaps",
-      "notes": "Canonical heading for the plain set.",
+      "notes": "Shows the canonical heading for the plain set.",
       "source": "SN 22.48"
     }
   ],

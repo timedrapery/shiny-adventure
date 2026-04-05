@@ -22,7 +22,7 @@
     {
       "context": "In brief explanatory prose where the headword has already been explained",
       "rendering": "feeling heap",
-      "notes": "Use this as a controlled alternate for compactness."
+      "notes": "Use this in explanatory prose only when a more compact line helps."
     }
   ],
   "related_terms": [
@@ -35,7 +35,7 @@
     {
       "pali": "vedanākkhandho",
       "translation": "the felt-experience heap",
-      "notes": "Canonical constituent-heap expression.",
+      "notes": "Shows the canonical constituent-heap expression.",
       "source": "SN 22.48"
     }
   ],
