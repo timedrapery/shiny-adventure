@@ -188,7 +188,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
     parser.add_argument("--include-generated", action="store_true")
-    parser.add_argument("--top", type=int, default=10, help="number of top files and sample findings to show")
+    parser.add_argument("--top", type=int, default=10, help="Number of top files and sample findings to show.")
     args = parser.parse_args()
 
     report = build_report(REPO_ROOT, include_generated=args.include_generated)
@@ -203,4 +203,3 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
-

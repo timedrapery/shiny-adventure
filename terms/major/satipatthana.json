@@ -30,7 +30,7 @@
     {
       "context": "In Punnaji-style pedagogical explanation of the practice as inwardly focused attention",
       "rendering": "introversion of attention",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In OSF publication prose linking the framework directly with anapanasati practice",
@@ -59,7 +59,7 @@
     {
       "pali": "cattāro satipaṭṭhānā",
       "translation": "the four establishments of sati",
-      "notes": "Main collective expression for the framework.",
+      "notes": "Shows the main collective expression for the framework.",
       "source": "DN 22"
     },
     {

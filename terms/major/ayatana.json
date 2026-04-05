@@ -59,13 +59,13 @@
     {
       "pali": "manāyatana",
       "translation": "the mind field",
-      "notes": "Illustrates compound handling under the house default.",
+      "notes": "Shows the compound handling under the house default.",
       "source": "MN 148"
     },
     {
       "pali": "dhammāyatana",
       "translation": "the dhamma field",
-      "notes": "Use this where dhamma functions as the object-side field of mind.",
+      "notes": "Shows the object-side field of mind in the ?yatana family.",
       "source": "MN 137"
     }
   ],

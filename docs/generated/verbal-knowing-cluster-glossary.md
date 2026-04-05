@@ -4,7 +4,7 @@
 | --- | --- | --- | --- |
 | jānāti | knows | comes to know, understands | realizes, discerns, is aware of |
 | abhijānāti | directly knows | knows directly, fully knows | recognizes, discerns, realizes |
-| pajānāti | discerns | clearly knows, understands | realizes, comprehends fully, is aware of |
+| pajānāti | discerns | clearly knows, understands | realizes, fully understands, is aware of |
 | sañjānāti | recognizes | identifies, perceives as | knows, realizes, designates |
 | maññati | takes to be | conceives, regards as | thinks, imagines, understands |
 | aññā | final knowledge | direct knowledge, accomplished knowing | realization, gnosis, attainment |

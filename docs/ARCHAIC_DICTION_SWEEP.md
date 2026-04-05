@@ -21,7 +21,7 @@ Language was flagged when it:
 - left notes, examples, or translation surfaces more old-fashioned than the
   controlled headword policy
 
-## Inventory Of Flagged Language
+## Inventory of Flagged Language
 
 ### Archaic Connectives
 

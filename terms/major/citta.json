@@ -39,12 +39,12 @@
     {
       "context": "In Punnaji-style meditation instruction emphasizing shifting affective tone",
       "rendering": "mood",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In OSF-glossary style explanatory prose about the affective center of experience",
       "rendering": "center of consciousness",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In Buddhadasa-style practice prose contrasting ordinary mind with void mind",
@@ -86,19 +86,19 @@
     {
       "pali": "cittaṃ bhāveti",
       "translation": "one develops the feeling mind",
-      "notes": "Compact practice-oriented use.",
+      "notes": "Shows a compact practice use.",
       "source": "AN 4.41"
     },
     {
       "pali": "citte cittānupassī viharati",
       "translation": "one remains observing the feeling mind in relation to the feeling mind",
-      "notes": "Standard satipaṭṭhāna expression.",
+      "notes": "Shows the standard satipaṭṭhāna expression.",
       "source": "DN 22"
     },
     {
       "pali": "abhippamodayaṃ cittaṃ",
       "translation": "gladdening the feeling mind",
-      "notes": "Ānāpānasati formula showing citta as the affective side of mind rather than cognition.",
+      "notes": "Shows the ānāpānasati formula with citta on the affective side of mind rather than cognition.",
       "source": "MN 118"
     }
   ],

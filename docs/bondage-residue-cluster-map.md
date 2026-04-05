@@ -5,7 +5,7 @@ It is not a general essay. It exists to keep translators from collapsing distinc
 
 ## Core Distinctions
 
-| Term | Default | Functional Role | Do Not Collapse Into |
+| Term | Default | Functional role | Do not collapse into |
 | --- | --- | --- | --- |
 | `kilesa` | `defilement` | Broad afflictive or defiling family | every narrower bondage term |
 | `upakkilesa` | `corruption` | Narrower corruption or stain within the defilement field | every `kilesa`, every `nīvaraṇa` |
@@ -35,7 +35,7 @@ It is not a general essay. It exists to keep translators from collapsing distinc
 - `āsava` is corruptive outflow that keeps running on.
 - `pahāna`, `virāga`, `vossagga`, and `nirodha` name different sides of removal, fading, relinquishment, and quenching. Do not merge them casually.
 
-## Practice-Layer Guardrail
+## Practice-Layer Guardrails
 
 - The repository allows simple `ānāpānasati` explanation in which `mano` brings wholesome dhammas or wholesome thought-content to bear in order to gladden `citta`.
 - That explanation may include countering `nīvaraṇāni` or other active obstructive states.

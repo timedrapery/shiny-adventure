@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose emphasizing operative ability rather than classification",
       "rendering": "capacity",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -39,7 +39,7 @@
     {
       "pali": "pañcindriyāni",
       "translation": "the five faculties",
-      "notes": "Main collective expression for the framework.",
+      "notes": "Shows the main collective expression for the framework.",
       "source": "SN 48.10"
     },
     {

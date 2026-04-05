@@ -23,7 +23,7 @@
     {
       "context": "In lighter prose where odor sounds too formal",
       "rendering": "smell",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -38,13 +38,13 @@
     {
       "pali": "gandhe",
       "translation": "odors",
-      "notes": "Object-side term in standard sense-base formulas.",
+      "notes": "Shows the object-side term in the standard sense-base formulas.",
       "source": "MN 148"
     },
     {
       "pali": "gandhārammaṇa",
       "translation": "having odor as object",
-      "notes": "Shows compact analytical use.",
+      "notes": "Shows a compact analytical use.",
       "source": "MN 148"
     }
   ],

@@ -26,12 +26,12 @@
     {
       "context": "In smoother English prose where the instruction still needs to sound practical",
       "rendering": "think in this way",
-      "notes": "Use this as a controlled alternate when the sentence benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In explanatory prose where the contemplative side needs a little more weight without becoming mystical",
       "rendering": "contemplate in this way",
-      "notes": "Use this as a controlled alternate, not as the default rendering."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     }
   ],
   "related_terms": [

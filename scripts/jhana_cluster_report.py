@@ -228,7 +228,7 @@ def render_path_brief(terms: dict[str, dict[str, object]]) -> str:
     lines = [
         "# Jhana Path Brief",
         "",
-        "## Governing Rule",
+        "## Path Rule",
         "",
         f"- `{terms['samma-samadhi']['term']}` is the first, second, third, and fourth `{terms['jhana']['term']}`.",
         f"- Keep `{terms['samma-samadhi']['preferred_translation']}` as the default rendering for the path factor while making that fourfold identity explicit in notes and explanations.",
@@ -321,8 +321,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate Markdown outputs in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

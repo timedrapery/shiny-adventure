@@ -24,12 +24,12 @@
     {
       "context": "In explanatory prose emphasizing the annihilating impulse",
       "rendering": "craving for annihilation",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In prose where continuity with bhava-language matters more than maximal explicitness",
       "rendering": "craving for non-becoming",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When translating the classic threefold taṇhā list alongside kāmataṇhā and bhavataṇhā",
@@ -48,7 +48,7 @@
     {
       "pali": "vibhavataṇhā",
       "translation": "ignorant wanting for non-becoming",
-      "notes": "One of the classic threefold forms of craving.",
+      "notes": "Shows one of the classic threefold forms of craving.",
       "source": "SN 56.11"
     }
   ],

@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where the training frame should be made explicit",
       "rendering": "higher training in mind",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When the passage emphasizes collectedness, unification, or meditative development as the middle training",
@@ -47,7 +47,7 @@
     {
       "pali": "adhicittasikkhā",
       "translation": "the higher training in mind",
-      "notes": "Standard triadic formulation.",
+      "notes": "Shows the standard triadic formulation.",
       "source": "MN 44"
     },
     {

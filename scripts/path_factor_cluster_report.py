@@ -252,14 +252,14 @@ def render_core_loop_brief(terms: dict[str, dict[str, object]]) -> str:
     lines = [
         "# Path-Factor Core Loop Brief",
         "",
-        "## Governing Core Loop",
+        "## Core Loop",
         "",
         f"- `{terms['samma-ditthi']['term']}` -> `{terms['samma-ditthi']['preferred_translation']}`",
         f"- `{terms['samma-sati']['term']}` -> `{terms['samma-sati']['preferred_translation']}`",
         f"- `{terms['samma-vayama']['term']}` -> `{terms['samma-vayama']['preferred_translation']}`",
         f"- `{terms['magga']['term']}` keeps those three as recurring live path functions rather than isolated checklist items.",
         "",
-        "## Path-Family Guardrails",
+        "## Drift Guards",
         "",
         f"- `{terms['samma-samadhi']['term']}` is not treated as a standalone meditation box. It is furnished with seven supporting path factors.",
         f"- `{terms['ariya-atthangika-magga']['term']}` remains the collective record for the full eightfold path and points back to the governed factor entries rather than replacing them.",
@@ -274,16 +274,16 @@ def render_tenfold_sequence_sheet(terms: dict[str, dict[str, object]]) -> str:
     lines = [
         "# Path-Factor Tenfold Sequence Sheet",
         "",
-        "## Eight Training Factors",
+        "## Training Factors",
         "",
     ]
     for stem in HEADWORD_TERMS:
         data = terms[stem]
         lines.append(f"- `{data.get('term')}` -> `{data.get('preferred_translation')}`")
-        lines.extend(
+    lines.extend(
         [
             "",
-            "## Completion-Side Sequence",
+            "## Completion Sequence",
             "",
             f"- `{terms['samma-samadhi']['term']}` stays the eighth path factor and the governed opening into the completion-side close.",
             f"- `{terms['samma-nana']['term']}` -> `{terms['samma-nana']['preferred_translation']}`",
@@ -302,7 +302,7 @@ def render_tenfold_sequence_sheet(terms: dict[str, dict[str, object]]) -> str:
 
 def render_supporting_terms_map(terms: dict[str, dict[str, object]]) -> str:
     lines = [
-        "# Path-Factor Supporting Terms Map",
+        "# Path-Factor Support Map",
         "",
         f"- `{terms['magga']['term']}` names the whole path rather than one factor inside it.",
         f"- `{terms['ariya']['term']}` keeps the family anchored as the noble path, not just a useful lifestyle list.",
@@ -359,8 +359,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate Markdown outputs in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

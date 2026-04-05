@@ -105,7 +105,7 @@ Use this order when deciding the translation of a term in context:
 
 This order should govern both human editorial work and future tooling.
 
-## When To Create A Separate Compound Entry
+## When to Create a Separate Compound Entry
 
 Create or maintain a separate compound entry when:
 
@@ -117,7 +117,7 @@ Create or maintain a separate compound entry when:
 Do not create separate compound entries merely because a compound exists in
 Pali. The compound should earn its own record by translation relevance.
 
-## When To Create A Formula Entry
+## When to Create a Formula Entry
 
 Create a dedicated formula entry when:
 

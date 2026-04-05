@@ -14,7 +14,7 @@ It is not a general essay. It exists to stop translators from flattening several
 | `nirodha` | `quenching` | Quenching or extinguishing | generic `cessation`, `khaya` |
 | `khaya` | `wearing away` | Exhaustion or wearing out | `nirodha`, generic `release` |
 
-## Process And Culmination
+## Process and Culmination
 
 | Process-Side | Culmination-Side |
 | --- | --- |

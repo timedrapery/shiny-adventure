@@ -36,7 +36,7 @@
     {
       "context": "In compressed doctrinal lists",
       "rendering": "self-doctrine clinging",
-      "notes": "Use this as a controlled compact alternate, not the default."
+      "notes": "Allow this as a compact controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     }
   ],
   "related_terms": [
@@ -56,13 +56,13 @@
     {
       "pali": "attavādupādānaṃ",
       "translation": "taking self-doctrine personally",
-      "notes": "One member of the fourfold set.",
+      "notes": "Shows one member of the fourfold set.",
       "source": "MN 11"
     },
     {
       "pali": "na me so attā",
       "translation": "this is not my self",
-      "notes": "Nearby not-self formula showing the kind of self-claim this compound resists.",
+      "notes": "Shows a nearby not-self formula and the kind of self-claim this compound resists.",
       "source": "SN 22.59"
     }
   ],

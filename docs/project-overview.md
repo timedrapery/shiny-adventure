@@ -26,7 +26,7 @@ The dataset has two entry classes:
 
 Major entries carry stronger expectations around context rules, linked terms, examples, and rationale.
 
-## What Makes A Major Entry Policy-Bearing
+## What Makes a Major Entry Policy-Bearing
 
 A major entry is not just a fuller definition.
 
@@ -64,7 +64,7 @@ purpose.
 That means candidate files are not live rules, and generated docs are not the
 primary place to make policy changes.
 
-## How New Vocabulary Enters The Repository
+## How New Vocabulary Enters the Repository
 
 The repository uses a review-first path:
 
@@ -80,7 +80,7 @@ live house policy.
 
 Term decisions should be explicit and reviewable. If a translation choice changes interpretation, that choice should be represented in the record and validated in review.
 
-## Where To Go Next
+## Where to Go Next
 
 - Field definitions: [data-dictionary.md](data-dictionary.md)
 - Entry drafting: [term-entry-standard.md](term-entry-standard.md)

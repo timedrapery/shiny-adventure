@@ -10,7 +10,7 @@ also read [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md).
 
 By participating in this project, you agree to follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
-If you are not sure where a change belongs, use [README.md](README.md) and
+If you are unsure where a change belongs, use [README.md](README.md) and
 [docs/documentation-guide.md](docs/documentation-guide.md) to route yourself
 before editing files.
 
@@ -39,7 +39,7 @@ If you are changing review status on a major entry, also read [docs/review-statu
 - Script or validation change: read [docs/development-guide.md](docs/development-guide.md), keep behavior deterministic, and add or update tests in `tests/`.
 - Documentation change: keep wording explicit and repository-native, and update cross-links when changing workflow guidance.
 - Candidate intake change: update both [candidates/README.md](candidates/README.md) and [docs/candidate-term-workflow.md](docs/candidate-term-workflow.md) if the contributor-facing workflow changes.
-- Documentation and term changes should prefer modern common English over inherited prestige translation diction unless a narrow technical exception is documented.
+- Documentation and term changes should use modern common English unless a narrow technical exception is documented.
 
 ## Contribution Types
 
@@ -126,7 +126,7 @@ Contributor shorthand maps to live schema fields as follows:
 - provenance -> `authority_basis`
 - drift-control summary -> `translation_policy`
 
-For major entries, the repository expects those fields to function together rather than independently.
+For major entries, those fields should work together as one rule surface.
 
 ## Validation Checklist
 

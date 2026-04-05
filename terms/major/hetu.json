@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where a justificatory or explanatory tone is stronger than strict causality",
       "rendering": "reason",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When contrasting hetu with paccaya or upanisā in analytical discussion",
@@ -43,7 +43,7 @@
     {
       "pali": "hetuṃ paṭicca",
       "translation": "dependent on a cause",
-      "notes": "Compact analytical usage.",
+      "notes": "Shows a compact analytical use.",
       "source": "AN 3.134"
     }
   ],

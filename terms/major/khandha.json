@@ -13,7 +13,7 @@
     "collection"
   ],
   "untranslated_preferred": false,
-  "definition": "A heap or piled-up mass used in the five-heap analysis of experience, especially in relation to appropriation, self-view, and dissatisfaction.",
+  "definition": "A heap or piled-up mass used in the five-heap analysis of experience, especially where appropriation, self-view, and dissatisfaction are in play.",
   "notes": "The project prefers heap because it preserves the rough, non-essential character of the analysis better than the smoother and more scholastic aggregate. Aggregate remains acceptable in explanatory prose where reader orientation matters, but it should not silently replace the house term in direct translation. The term is especially important in the family of pañcakkhandhā and pañcupādānakkhandhā, where the point is not a metaphysical person made of parts, but a set of unstable heaps that become the basis for appropriation, self-view, and dissatisfaction. Translators should keep the heap rule stable across the five constituent members and compounds, should not smooth the family back into aggregate language without an explicit explanatory reason, and should respect the formula-level override that keeps pañcupādānakkhandhā as five clung-to heaps rather than mechanically expanding the upādāna headword. The OSF glossary establishes heap as the default house rendering and records aggregate as a tolerated alternate. SN 22.48 supports the coordinated five-heap and constituent-compound usage that governs this family.",
   "context_rules": [
     {
@@ -24,7 +24,7 @@
     {
       "context": "In explanatory prose aimed at readers already familiar with Buddhist-English terminology",
       "rendering": "aggregate",
-      "notes": "Use this as a controlled alternate for orientation, not the project default."
+      "notes": "Use this in explanatory prose only for orientation. Do not rotate it into the house default."
     },
     {
       "context": "In the collective expression pañcakkhandhā",
@@ -80,7 +80,7 @@
     {
       "pali": "yaṃ kiñci rūpaṃ ... vedanā ... saññā ... saṅkhārā ... viññāṇaṃ",
       "translation": "whatever form ... felt experience ... recognition ... putting-together activities ... knowing",
-      "notes": "Canonical listing of the five heaps in a translator-relevant voice.",
+      "notes": "Shows the canonical five-heaps listing in translator-facing English.",
       "source": "SN 22.59"
     }
   ],

@@ -26,7 +26,7 @@
     {
       "context": "In prose where a smoother noun phrase reads better than the more active form",
       "rendering": "higher knowledge",
-      "notes": "Use this as a controlled alternate when the line genuinely benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In formulas such as sayaṃ abhiññā sacchikatvā where personal realization is foregrounded",
@@ -56,7 +56,7 @@
     {
       "pali": "abhiññā",
       "translation": "higher knowing",
-      "notes": "Headword form for the broader doctrinal family.",
+      "notes": "Shows the headword form for the broader doctrinal family.",
       "source": "DN 2"
     }
   ],

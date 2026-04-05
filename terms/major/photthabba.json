@@ -23,7 +23,7 @@
     {
       "context": "In explanatory prose where a plainer adjective is helpful",
       "rendering": "touchable",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -39,13 +39,13 @@
     {
       "pali": "phoṭṭhabbe",
       "translation": "tangibles",
-      "notes": "Object-side term in standard sense-base formulas.",
+      "notes": "Shows the object-side term in the standard sense-base formulas.",
       "source": "MN 148"
     },
     {
       "pali": "phoṭṭhabbārammaṇa",
       "translation": "having a tangible as object",
-      "notes": "Shows compact analytical use.",
+      "notes": "Shows a compact analytical use.",
       "source": "MN 148"
     }
   ],

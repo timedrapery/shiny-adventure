@@ -39,7 +39,7 @@ collapsing into one vague English blur.
 5. If the text presents having already crossed, prefer `tiṇṇa`.
 6. If the text names stable safety on the far side of the yoke family, prefer `yogakkhema`.
 
-## Process And Result
+## Process and Result
 
 | Process / Direction | Result / Condition |
 | --- | --- |
@@ -70,7 +70,7 @@ interchangeable.
   yoke and security,
   knot and untied freedom are related images, not the same English word.
 
-## Compact Contrast Matrix
+## Contrast Matrix
 
 | If the text suggests... | Prefer | Avoid by Default |
 | --- | --- | --- |

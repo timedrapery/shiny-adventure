@@ -24,7 +24,7 @@
     {
       "context": "In prose emphasizing deliberate checking or testing",
       "rendering": "examination",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     }
   ],
   "related_terms": [
@@ -45,7 +45,7 @@
     {
       "pali": "vīmaṃsā",
       "translation": "investigation",
-      "notes": "Compact doctrinal use.",
+      "notes": "Shows a compact doctrinal use.",
       "source": "SN 51.13"
     }
   ],

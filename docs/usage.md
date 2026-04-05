@@ -7,7 +7,7 @@ If you are not sure where the underlying policy lives, read
 derived materials under `docs/generated/`, also read
 [generated/generated-docs-guide.md](generated/generated-docs-guide.md).
 
-## Validate A Term Change
+## Validate a Term Change
 
 After editing live records in `terms/`, run:
 
@@ -56,7 +56,7 @@ For the three-marks family specifically, add the dedicated audit:
 python scripts/three_marks_cluster_report.py --strict
 ```
 
-## Run The Full Verification Suite
+## Run the Full Verification Suite
 
 ```bash
 python scripts/run_checks.py
@@ -66,7 +66,7 @@ This runs tests, schema validation, editorial lint in strict mode, drift checks,
 
 It also runs the dedicated cluster audits, including the jhana, path-factor, four-noble-truths, sense-fields, and three-marks checks.
 
-## Check Documentation And Repository Surface
+## Check Documentation and Repository Surface
 
 ```bash
 python scripts/check_docs_integrity.py
@@ -81,8 +81,8 @@ python scripts/modern_english_audit.py
 ```
 
 Use this after broad wording changes in `terms/`, translation docs, or policy
-docs when you want a quick report of likely archaic or elevated diction that
-should be reviewed before merge.
+docs when you want a quick report of likely archaic or elevated diction to
+review before merge.
 
 ## Audit Voice Consistency
 
@@ -92,7 +92,7 @@ python scripts/voice_consistency_audit.py
 
 Use this after changing `notes`, `context_rules`, `example_phrases`, or
 contributor docs when you want a quick report of mixed note templates,
-fragmentary example notes, or other voice-pattern drift.
+fragmentary example notes, or other voice drift.
 
 ## Inspect Repository Health
 
@@ -132,7 +132,7 @@ python scripts/draft_major_review_queue.py --format json
 
 Use this when deciding which policy-bearing entries still need an editorial pass before promotion from `draft`.
 
-## Work On Metadata Backfill
+## Work on Metadata Backfill
 
 Rank the highest-priority terms first:
 
@@ -215,7 +215,7 @@ Use broad discovery before merging workflow changes:
 python -m unittest discover -s tests
 ```
 
-## Discover Flags And Options
+## Discover Flags and Options
 
 Every CLI script supports `--help`.
 

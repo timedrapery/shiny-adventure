@@ -149,7 +149,7 @@ cover:
 - related examples
 - linked entries likely to preserve stale wording
 
-## Definition Of Success
+## Definition of Success
 
 This repo is succeeding when a translator can take a passage from a sutta,
 identify the relevant doctrinal cluster, and receive:

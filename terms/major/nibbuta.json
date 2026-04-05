@@ -31,7 +31,7 @@
     {
       "context": "In plain explanatory prose where a lighter phrase is needed",
       "rendering": "cooled down",
-      "notes": "Use this as a controlled alternate, but not the default."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "When the adjective is closely tied to nibbāna-language nearby",

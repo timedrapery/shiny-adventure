@@ -27,12 +27,12 @@
     {
       "context": "In explanatory prose or comparative discussion where conventional OSF-facing terminology is useful",
       "rendering": "liberation",
-      "notes": "Use this as a controlled alternate when the line benefits from it."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In Punnaji-style practical awakening prose",
       "rendering": "emancipation",
-      "notes": "Use this as a controlled practical alternate, not as the house default."
+      "notes": "Use this in practical explanation only. Do not rotate it into the house default."
     },
     {
       "context": "In compounds such as cetovimutti and paññāvimutti",
@@ -81,13 +81,13 @@
     {
       "pali": "cetovimutti",
       "translation": "release of mind",
-      "notes": "Important doctrinal compound family.",
+      "notes": "Shows an important doctrinal compound family.",
       "source": "MN 43"
     },
     {
       "pali": "paññāvimutti",
       "translation": "release through discernment",
-      "notes": "Important doctrinal compound family.",
+      "notes": "Shows an important doctrinal compound family.",
       "source": "MN 70"
     }
   ],

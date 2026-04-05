@@ -289,7 +289,7 @@ Example:
   {
     "context": "In paṭiccasamuppāda sequences",
     "rendering": "choices",
-    "notes": "Use this by default in dependent arising."
+    "notes": "Use this by default."
   },
   {
     "context": "In general doctrinal statements about compounded phenomena",
@@ -312,6 +312,10 @@ Notes:
 - Major terms should usually have this field.
 - For doctrinal anchor terms, make clear when compounds and formula lines
   inherit the headword default and when they do not.
+- Prefer stable note scaffolding for repeated policy moves. The default house
+  forms are `Use this by default.`, `Allow this as a controlled alternate only
+  when the context clearly supports it.`, `Use this in explanatory prose
+  only.`, and `Do not rotate this into the house default.`
 
 ### `related_terms`
 
@@ -359,6 +363,9 @@ Notes:
 
 - Use canonical examples whenever possible.
 - Examples should clarify usage, not merely repeat the headword.
+- Keep example translations short and direct.
+- Prefer note lines that say what the example shows, usually in a `Shows ...`
+  sentence.
 
 ### `sutta_references`
 
@@ -474,6 +481,9 @@ Notes:
   leave-untranslated policy, or blocks a specific recurring drift.
 - `notes` still carries the full editorial explanation;
   `translation_policy` is the compact machine-readable summary.
+- Keep `translation_policy` aligned with the same house voice used in `notes`
+  and `context_rules`, especially for default scope, non-application, and
+  drift warnings.
 
 ### `status`
 

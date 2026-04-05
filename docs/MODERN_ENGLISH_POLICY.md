@@ -46,7 +46,7 @@ Examples of the direction the repo prefers:
 - direct sentence flow instead of filler `thus`
 - `enters and remains in ...` over `dwells having entered ...`
 
-## What To Avoid By Default
+## What to Avoid by Default
 
 Avoid unmarked use of:
 

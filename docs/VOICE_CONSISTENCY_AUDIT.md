@@ -64,7 +64,7 @@ Most entries already used direct openings such as `The project prefers ...` or
 
 That difference was minor in meaning but noticeable in voice.
 
-### Mixed Instructional Style In Contributor Docs
+### Mixed Instructional Style in Contributor Docs
 
 Contributor-facing docs largely used direct prose, but they did not yet define
 one explicit standard for:
@@ -147,7 +147,7 @@ The heaviest voice drift was concentrated in:
 3. schema and contributor docs that still showed older wording templates
 4. the script surface, which did not yet include a dedicated voice audit
 
-## Result Of This Pass
+## Result of This Pass
 
 After cleanup:
 

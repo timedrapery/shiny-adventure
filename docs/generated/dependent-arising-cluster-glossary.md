@@ -3,7 +3,7 @@
 | Pāli | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
 | avijjā | ignorance | not-knowing, unawareness | nescience |
-| saṅkhārā | putting things together | that which has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
+| saṅkhārā | putting things together | what has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
 | viññāṇa | knowing | consciousness, awareness | pure awareness, witness consciousness, self, soul, sentience |
 | nāmarūpa | name-and-form | naming and materiality, mental and physical phenomena, mental and physical objects of consciousness, mind and body | body and mind |
 | saḷāyatana | six fields of experience | six sense fields, sense field, six sense bases, six sense domains | sense organs |

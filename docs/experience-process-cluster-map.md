@@ -1,4 +1,4 @@
-# Phassa / Vedanā / Saññā / Cetanā / Viññāṇa Control Map
+# Experience / Process Cluster Map
 
 This cluster governs one of the repo's highest-risk English drift zones.
 

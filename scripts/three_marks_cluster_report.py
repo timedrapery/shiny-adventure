@@ -157,7 +157,7 @@ def contains_all(blob: str, tokens: list[str]) -> bool:
 def formula_override_identity_missing(terms: dict[str, dict[str, object]]) -> list[str]:
     missing: list[str] = []
     expectations = {
-        "sankhara": ["three-marks formulae", "that which has been put together"],
+        "sankhara": ["three-marks formulae", "what has been put together"],
         "sankhata": ["conditioned", "impermanent"],
         "dhamma": ["phenomenon"],
         "anicca-sabbe-sankhara": ["impermanent", "put together"],
@@ -335,8 +335,8 @@ def print_text_report(report: dict[str, object]) -> None:
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail on report errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Generate Markdown outputs in docs/generated.")
+    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
+    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
     args = parser.parse_args()
 
     if not TERMS_DIR.exists():

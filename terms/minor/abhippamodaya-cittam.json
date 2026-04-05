@@ -23,12 +23,12 @@
     {
       "context": "In explanatory prose where a slightly more active brightness register reads better",
       "rendering": "brightening the feeling mind",
-      "notes": "Use this as a controlled alternate for explanation."
+      "notes": "Use this in explanatory prose only."
     },
     {
       "context": "In shorter prose where the citta distinction has already been explained nearby",
       "rendering": "gladdening the mind",
-      "notes": "Use this as a controlled compact alternate, not the default."
+      "notes": "Allow this as a compact controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     }
   ],
   "related_terms": [

@@ -1,10 +1,10 @@
 # Documentation Guide
 
 This folder holds the repository's editorial, structural, and workflow
-reference material. Use this page as the main index rather than reading files
-in arbitrary order.
+reference material. Use this page as the main index instead of opening files
+at random.
 
-## What This Guide Does
+## What This Guide Covers
 
 Use this page to answer three questions quickly:
 
@@ -12,7 +12,7 @@ Use this page to answer three questions quickly:
 - which document governs the task in front of you
 - which files are reference-only outputs rather than source material
 
-## Naming Convention
+## File Naming
 
 Docs in `docs/` use lowercase-kebab-case filenames.
 
@@ -22,8 +22,8 @@ Examples:
 - `osf-editorial-authority.md`
 - `knowledge-seeing-understanding-cluster-map.md`
 
-This keeps links predictable across platforms and makes repository-surface
-automation simpler.
+This keeps links predictable across platforms and simplifies repository
+automation.
 
 ## Start Here
 
@@ -52,7 +52,7 @@ entries, also read:
 14. [`candidate-term-workflow.md`](candidate-term-workflow.md)
 15. [`../candidates/README.md`](../candidates/README.md)
 
-## Fast Start Paths
+## Quick Paths
 
 - New contributor: [`../README.md`](../README.md) -> [`project-overview.md`](project-overview.md) -> [`development-guide.md`](development-guide.md) -> [`../CONTRIBUTING.md`](../CONTRIBUTING.md)
 - Editing a live term entry: [`../terms/README.md`](../terms/README.md) -> [`data-dictionary.md`](data-dictionary.md) -> [`term-entry-standard.md`](term-entry-standard.md) -> [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
@@ -60,7 +60,7 @@ entries, also read:
 - Reviewing generated reference material: [`generated/generated-docs-guide.md`](generated/generated-docs-guide.md)
 - Changing tooling or tests: [`development-guide.md`](development-guide.md) -> [`../scripts/README.md`](../scripts/README.md)
 
-## Source Of Truth Versus Reference Output
+## Source of Truth vs. Reference Output
 
 Use these layers deliberately:
 
@@ -74,7 +74,7 @@ do not override live term records or normative policy docs.
 
 ## By Task
 
-### Understand The Repository
+### Understand the Repository
 
 - [`project-overview.md`](project-overview.md): scope, entry model, and design intent
 - [`architecture.md`](architecture.md): how terms, schema, scripts, tests, and review layers fit together
@@ -82,7 +82,7 @@ do not override live term records or normative policy docs.
 - [`../terms/README.md`](../terms/README.md): how the live lexicon is laid out on disk
 - [`../candidates/README.md`](../candidates/README.md): what belongs in intake versus the live lexicon
 
-### Set Up And Run Checks
+### Set Up and Run Checks
 
 - [`development-guide.md`](development-guide.md): local setup, edit loop, and targeted test runs
 - [`usage.md`](usage.md): task-based command recipes
@@ -105,7 +105,7 @@ do not override live term records or normative policy docs.
 - [`decision-record-template.md`](decision-record-template.md): lightweight structure for major decisions that should not live only in commit history
 - [`osf-editorial-authority.md`](osf-editorial-authority.md): authority order for source conflicts and house decisions
 
-### Work In Bulk Or Expand Coverage
+### Work in Bulk or Expand Coverage
 
 - [`bulk-editing-playbook.md`](bulk-editing-playbook.md): safe operating pattern for large edit batches
 - [`candidate-term-workflow.md`](candidate-term-workflow.md): intake and review flow for proposed terms
@@ -113,7 +113,7 @@ do not override live term records or normative policy docs.
 - [`expansion-batch-001.md`](expansion-batch-001.md): concrete expansion batch reference
 - [`lexicon-expansion-plan-500.md`](lexicon-expansion-plan-500.md): larger-scale planning note
 
-### Consult Named Source Profiles
+### Source Profiles
 
 - [`osf-glossary-profile.md`](osf-glossary-profile.md)
 - [`what-is-and-is-not-the-path-profile.md`](what-is-and-is-not-the-path-profile.md)
@@ -124,19 +124,19 @@ do not override live term records or normative policy docs.
 - [`punnaji-usage-profile.md`](punnaji-usage-profile.md)
 - [`hillside-nyanamoli-usage-profile.md`](hillside-nyanamoli-usage-profile.md)
 
-These profiles support notes, context rules, alternates, and authority reasoning. They do not override house policy on their own unless the repository has made that decision explicitly.
+These profiles support notes, context rules, alternates, and authority reasoning. They do not override house policy on their own unless the repository explicitly says they do.
 
-### Review Current State
+### Current State
 
 - [`repository-review-2026-03.md`](repository-review-2026-03.md): current structural review snapshot
 
-### Use Generated Reference Material
+### Generated Reference Material
 
 - [`generated/generated-docs-guide.md`](generated/generated-docs-guide.md): what generated docs are for and what they are not
 - [`generated/major-term-index.md`](generated/major-term-index.md): human navigation for `terms/major/`
 - [`generated/minor-term-index.md`](generated/minor-term-index.md): human navigation for `terms/minor/`
 
-## Document Families
+## Document Types
 
 Use the docs set in layers:
 
@@ -167,7 +167,7 @@ python scripts/run_checks.py
 
 For targeted local checking, see [`usage.md`](usage.md).
 
-## Directory Pointers Outside `docs/`
+## Key Directories Outside `docs/`
 
 Some important navigation surfaces live outside this directory:
 
@@ -175,7 +175,7 @@ Some important navigation surfaces live outside this directory:
 - [`../candidates/README.md`](../candidates/README.md): review-first intake layer
 - [`../scripts/README.md`](../scripts/README.md): script-by-script command index
 
-## Outside-Source Profiles
+## External Source Profiles
 
 When an outside source or author strongly influences a rendering decision:
 

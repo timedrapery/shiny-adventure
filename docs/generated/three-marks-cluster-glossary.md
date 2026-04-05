@@ -5,7 +5,7 @@
 | Headword | anicca | impermanent | inconstant, unstable | temporary |
 | Headword | dukkha | dissatisfaction | unsatisfactoriness, stress | suffering |
 | Headword | anattā | not-self | not a self, without self, free of I and mine | no-self, selfless |
-| Support | saṅkhārā | putting things together | that which has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
+| Support | saṅkhārā | putting things together | what has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
 | Support | saṅkhata | conditioned | constructed | created |
 | Support | dhamma | dhamma | teaching, phenomenon, quality, nature, law, duty, fruit | thing |
 | Practice | anicca-sanna | perception of impermanence | impermanence perception | temporary perception |

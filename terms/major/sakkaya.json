@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The appropriated identity built around the five clung-to heaps and taken as self or as belonging to self.",
-  "notes": "The project keeps identity as the primary default because it is compact, technical enough for doctrinal passages, and less misleading than personality, self, or ego. Personal identity remains the controlled explanatory alternate when English needs a fuller phrase, especially for general-audience prose where bare identity may sound too abstract. Identity-body is kept only for source-facing explanation of the compound. In canonical heap analysis sakkāya is not a hidden self behind the heaps; it names the appropriated identity built around the five clung-to heaps. This means translators should keep the term closely aligned with pañcupādānakkhandhā, upādāna, attā, anattā, and sakkāya-diṭṭhi. The OSF glossary supports identity-language here, and SN 22.105 gives the crucial governing formulation that identifies sakkāya with the five clung-to heaps. The main drift risk is flattening sakkāya into generic self-language or psychologized personality-language and thereby losing its specific relation to appropriated identity.",
+  "notes": "The project keeps identity as the primary default because it is compact, technical enough for doctrinal passages, and less misleading than personality, self, or ego. Personal identity remains the controlled explanatory alternate when English needs a fuller phrase, especially for general-audience prose where bare identity may sound too abstract. Identity-body is kept only for source-facing explanation of the compound. In canonical heap analysis sakkāya is not a hidden self behind the heaps; it names the appropriated identity built around the five clung-to heaps. This means translators should keep the term closely aligned with pañcupādānakkhandhā, upādāna, attā, anattā, and sakkāya-diṭṭhi. The OSF glossary supports identity-language here, and SN 22.105 gives the crucial governing formulation that identifies sakkāya with the five clung-to heaps. The main drift risk is flattening sakkāya into generic self-language or psychologized personality-language and so losing its specific relation to appropriated identity.",
   "context_rules": [
     {
       "context": "In technical doctrinal contexts such as sakkāya-diṭṭhi, fetter analysis, and direct heap analysis",
@@ -31,7 +31,7 @@
     {
       "context": "In explanatory prose where plain identity may sound too abstract",
       "rendering": "personal identity",
-      "notes": "Use this as a controlled alternate for clarification."
+      "notes": "Use this in explanatory prose only for clarification."
     },
     {
       "context": "In general-audience translation where the personalizing force needs to be audible without collapsing into self",

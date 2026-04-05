@@ -12,7 +12,7 @@
     "sadness"
   ],
   "untranslated_preferred": false,
-  "definition": "Sorrow or grief arising in relation to loss, pain, or distress.",
+  "definition": "Sorrow or grief arising from loss, pain, or distress.",
   "notes": "The project prefers sorrow as the broad default because it reads naturally in formula passages. Grief remains useful when the emotional intensity or bereavement-like shade needs more emphasis. The OSF glossary likewise keeps soka aligned with the standard suffering formulas while allowing grief where the sharper emotional tone is needed.",
   "context_rules": [
     {
@@ -43,7 +43,7 @@
     {
       "pali": "sokaparidevadukkhadomanassupāyāsā",
       "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
-      "notes": "Standard extended suffering formula.",
+      "notes": "Shows the standard extended suffering formula.",
       "source": "SN 12.2"
     }
   ],

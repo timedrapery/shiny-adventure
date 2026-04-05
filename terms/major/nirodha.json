@@ -29,12 +29,12 @@
     {
       "context": "In explanatory prose where a plainer English verb is needed",
       "rendering": "ending",
-      "notes": "Use this as a controlled alternate."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In Punnaji-style meditative explanation of interruption of the existential process",
       "rendering": "discontinuity",
-      "notes": "Use this as a source-backed alternate, not as the house default."
+      "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In rough OSF-glossary style plain-English explanation of the term",

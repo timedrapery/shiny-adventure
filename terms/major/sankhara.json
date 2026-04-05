@@ -6,7 +6,7 @@
   "literal_meaning": "making together",
   "preferred_translation": "putting things together",
   "alternative_translations": [
-    "that which has been put together",
+    "what has been put together",
     "conditioned thing",
     "construction",
     "fabrication",
@@ -22,7 +22,7 @@
   "context_rules": [
     {
       "context": "When the emphasis is on the result of construction",
-      "rendering": "that which has been put together",
+      "rendering": "what has been put together",
       "notes": "Use for the compounded or constructed side of the term."
     },
     {
@@ -42,7 +42,7 @@
     },
     {
       "context": "In three-marks formulae such as aniccā sabbasaṅkhārā",
-      "rendering": "that which has been put together",
+      "rendering": "what has been put together",
       "notes": "Use when the line is speaking about what is compounded rather than the activity of compounding."
     }
   ],

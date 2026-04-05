@@ -33,7 +33,7 @@
     {
       "context": "In translator-facing prose that needs a more technical English label without using archaic canker-language",
       "rendering": "effluent",
-      "notes": "Use selectively; it is not the house default."
+      "notes": "Use this only when the local prose clearly supports it. Do not rotate it into the house default."
     },
     {
       "context": "In liberation formulas such as āsavānaṃ khayā or āsavakkhaya",
@@ -68,19 +68,19 @@
     {
       "pali": "āsavānaṃ khayā",
       "translation": "through the wearing away of the outflows",
-      "notes": "Widely recurring liberation formula. Keep the outflow-family wording stable here.",
+      "notes": "Shows a widely recurring liberation formula. Keep the outflow-family wording stable here.",
       "source": "MN 2"
     },
     {
       "pali": "āsavakkhaya",
       "translation": "the wearing away of the outflows",
-      "notes": "Compact doctrinal compound for the same liberation goal.",
+      "notes": "Shows a compact doctrinal compound for the same liberation goal.",
       "source": "MN 2"
     },
     {
       "pali": "khīṇā jāti ... vusitaṃ brahmacariyaṃ ... nāparaṃ itthattāyāti pajānāti",
       "translation": "birth is worn away ... the holy life has been lived ... one discerns: there is no more of this state of being",
-      "notes": "Standard arahant declaration that commonly appears alongside outflow-ending language and now aligns with the pajānāti policy.",
+      "notes": "Shows the standard arahant declaration that often appears alongside outflow-ending language and now aligns with the pajānāti policy.",
       "source": "MN 36"
     }
   ],

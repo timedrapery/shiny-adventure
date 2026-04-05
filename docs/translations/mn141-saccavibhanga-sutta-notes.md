@@ -67,7 +67,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   trainable conduct, attitude, remembering, and mental composure.
 - The truth-analysis opening is not ornamental. It tells the reader what kind
   of discourse this is: one that explains, lays out, and makes clear.
-- Sāriputta's role matters. The Buddha points to him as the one who can carry
+- Sāriputta's role matters. The Buddha points to him as the one able to carry
   the detailed analysis forward after the wheel of Dhamma has been set rolling.
 
 ## Editorial Presentation

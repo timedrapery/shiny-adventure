@@ -34,7 +34,7 @@ can function as lived practice.
 - `nirodha`: notice the quenching of dukkha.
 - `sati`: remember to do this again.
 
-## Anti-Drift Guardrails
+## Drift Guards
 
 - Do not turn the Four Noble Truths into a merely therapeutic slogan.
 - Do not turn `magga` into generic self-improvement.

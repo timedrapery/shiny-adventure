@@ -3,7 +3,7 @@
 [![Checks](https://github.com/timedrapery/shiny-adventure/actions/workflows/checks.yml/badge.svg)](https://github.com/timedrapery/shiny-adventure/actions/workflows/checks.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
-Structured Pali-to-English translation infrastructure for Early Buddhist work.
+Structured Pali-to-English translation infrastructure for early Buddhist translation work.
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 New here:
@@ -30,20 +30,20 @@ New here:
 
 Major entries are policy-bearing records. They exist to preserve translation discipline across doctrinal families, compounds, formulas, and recurring editorial situations.
 
-## Source Of Truth
+## Source of Truth
 
-The repository has a deliberate source-of-truth stack:
+The repository uses a clear source-of-truth stack:
 
 - `terms/major/` and `terms/minor/` hold the live governed lexicon
 - top-level governance docs and normative docs in `docs/` explain how those records should be written and reviewed
 - `candidates/` holds intake evidence that has not yet become live policy
 - `docs/generated/` holds derived reference material for browsing, review, and translation support
 
-If a generated sheet or report looks wrong, fix the live term data or the generating script first. Do not treat generated docs as the primary place to make policy decisions.
+If a generated sheet or report looks wrong, fix the live term data or the generating script first. Do not settle policy in generated docs.
 
-## How Governed Content Enters The Repo
+## How Live Policy Enters the Repo
 
-The repository has a deliberate review path:
+The repository uses a review-first path:
 
 1. Raw source vocabulary is first handled in [`candidates/`](candidates/README.md), not in the live lexicon.
 2. Confirmed editorial decisions are encoded in `terms/major/` or `terms/minor/`.
@@ -56,7 +56,7 @@ Typical candidate outputs include:
 - `candidates/candidate_terms.md`
 - `candidates/scaffolds/*.review.json`
 
-Those files are review materials. They do not become governed lexicon content until an editor makes an explicit live-entry decision.
+Those files are review material. They do not become governed lexicon content until an editor makes an explicit live-entry decision.
 
 ## Start Here
 
@@ -166,7 +166,7 @@ navigation rather than adding subfolders.
 - repository health reports summarize machine-checkable maturity signals
 - GitHub Actions runs the full suite on pushes and pull requests for Python 3.11 and 3.12
 
-## Governance And House Style
+## Governance and Style
 
 - translation principles: [TERMINOLOGY_PRINCIPLES.md](TERMINOLOGY_PRINCIPLES.md)
 - translation voice and house preferences: [STYLE_GUIDE.md](STYLE_GUIDE.md)
@@ -179,7 +179,7 @@ navigation rather than adding subfolders.
 
 ## Current Priorities
 
-Current improvement work is focused on keeping the repository coherent as it grows: sharper onboarding, clearer workflow indexing, disciplined review of draft major entries, and continued maintenance of translation-policy quality.
+Current work is focused on keeping the repository coherent as it grows: clearer onboarding, sharper workflow indexing, disciplined review of draft major entries, and continued maintenance of translation-policy quality.
 
 Current review-queue and workflow surface tools include:
 

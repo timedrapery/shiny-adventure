@@ -45,7 +45,7 @@ Typical implementation:
 - keep the current `preferred_translation`
 - encode the OSF-facing wording as a controlled alternate or explanatory note
 - make the local scope explicit in `context_rules`
-- stop that alternate from silently becoming the new default
+- do not rotate that alternate into the house default
 
 ### REFUSE DRIFT
 
@@ -106,7 +106,8 @@ When OSF-facing wording differs from the current default, ask in this order:
 4. Is it translator-usable policy or merely teaching rhetoric?
 
 If the answer to 3 or 4 is unfavorable, encode the wording only as a
-controlled alternate or refuse it as drift.
+controlled alternate or explanatory-prose note. Do not rotate it into the
+house default.
 
 ## Current Reconciliation Focus
 

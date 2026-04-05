@@ -22,7 +22,7 @@ release-side family.
 - Their coordination does not make them interchangeable.
 - Headwords govern compounds by default unless a narrower record documents an override.
 
-## Relation To Nearby Terms
+## Relation to Nearby Terms
 
 | Nearby term | Default | How It Differs |
 | --- | --- | --- |
@@ -74,7 +74,7 @@ The family currently includes these governed compounds:
 - `appanihita-vimokkha`
 - `vimokkhamukha`
 
-## Compact Contrast Matrix
+## Contrast Matrix
 
 | If the text suggests... | Prefer | Avoid by Default |
 | --- | --- | --- |

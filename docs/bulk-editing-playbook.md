@@ -1,4 +1,4 @@
-# BULK EDITING PLAYBOOK
+# Bulk Editing Playbook
 
 Use this when adding or revising dozens of terms in one editorial cycle.
 

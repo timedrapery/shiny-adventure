@@ -36,7 +36,7 @@
     {
       "context": "In compressed doctrinal prose or list form",
       "rendering": "view-clinging",
-      "notes": "Use this as a controlled compact alternate, not the default."
+      "notes": "Allow this as a compact controlled alternate only when the context clearly supports it. Do not rotate it into the house default."
     }
   ],
   "related_terms": [
@@ -56,7 +56,7 @@
     {
       "pali": "diṭṭhupādānaṃ",
       "translation": "taking views personally",
-      "notes": "One member of the fourfold set.",
+      "notes": "Shows one member of the fourfold set.",
       "source": "MN 11"
     },
     {

@@ -22,7 +22,7 @@
     {
       "context": "When explanatory prose needs the appropriative force highlighted",
       "rendering": "and what, bhikkhus, are the five heaps taken personally",
-      "notes": "Use this as a controlled alternate for explicitness."
+      "notes": "Use this in explanatory prose only when added explicitness helps."
     }
   ],
   "related_terms": [
@@ -34,7 +34,7 @@
     {
       "pali": "katame ca, bhikkhave, pañcupādānakkhandhā",
       "translation": "and what, bhikkhus, are the five clung-to heaps?",
-      "notes": "Canonical heading for the appropriated set.",
+      "notes": "Shows the canonical heading for the appropriated set.",
       "source": "SN 22.48"
     }
   ],

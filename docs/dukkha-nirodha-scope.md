@@ -27,7 +27,7 @@ This principle supports the existing OSF-facing handling that:
 It also supports the path-factor clarification that right view, right
 remembering, and right effort are live functions inside that same frame.
 
-## Anti-Drift Guardrails
+## Drift Guards
 
 - Do not let side-topics eclipse `dukkha / nirodha` as the repo's central
   practical axis.

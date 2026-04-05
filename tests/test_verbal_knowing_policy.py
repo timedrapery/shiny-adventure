@@ -21,7 +21,7 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
         self.assertEqual(janati["preferred_translation"], "knows")
         self.assertEqual(pajanati["preferred_translation"], "discerns")
         self.assertIn("realizes", janati["discouraged_translations"])
-        self.assertIn("comprehends fully", pajanati["discouraged_translations"])
+        self.assertIn("fully understands", pajanati["discouraged_translations"])
 
     def test_pajanati_and_parinna_do_not_flatten(self) -> None:
         pajanati = load_term("terms/major/pajanati.json")

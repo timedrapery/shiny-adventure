@@ -26,7 +26,7 @@
     {
       "context": "In concise practical prose",
       "rendering": "giving up",
-      "notes": "Use this as a controlled alternate when it reads more naturally."
+      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "In explanatory prose emphasizing putting something aside",

@@ -47,15 +47,7 @@ action, right livelihood, right effort, and right remembering. The directness
 of mind furnished with these seven factors is called noble right mental
 composure with supports, and also with requisites."
 
-*Study note: this opening definition governs the whole sutta. Right mental
-composure is not isolated; it is furnished by seven supporting path factors,
-and the directness of mind belongs inside that whole path-training.*
-
 ### Right View
-
-*Study note: the worldly / beyond-the-world distinction below does not dismiss
-the worldly as useless. It marks the difference between wholesome conditioned
-training and the noble path-factor in its beyond-the-world form.*
 
 "In this case, bhikkhus, right view comes first.
 
@@ -99,8 +91,8 @@ factor of the path?
 
 "That discernment, the faculty of discernment, the power of discernment, the
 awakening factor of discernment of qualities, and the right-view factor of the
-path in one whose mind is noble, whose mind is without outflows, who possesses
-the noble path and develops the noble path, is called right view that is
+path in someone whose mind is noble and without outflows, who possesses the noble
+path and develops it, is called right view that is
 noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong view and to take up right view; that is
@@ -146,8 +138,8 @@ acquisitions.
 a factor of the path?
 
 "Whatever thinking, thought, attitude, placing, directing, and settling of
-mind there is in one whose mind is noble, whose mind is without outflows, who
-possesses the noble path and develops the noble path, that verbal conditioning
+mind there is in someone whose mind is noble and without outflows, who possesses
+the noble path and develops it, that verbal conditioning
 is right attitude that is noble, without outflows, beyond-the-world, a factor
 of the path.
 
@@ -160,7 +152,7 @@ up right attitude; that is one's right remembering.
 "These three qualities keep running and circling around right attitude, namely:
 right view, right effort, and right remembering.
 
-### Speech, Action, And Livelihood
+### Speech, Action, and Livelihood
 
 "In this case, bhikkhus, right view comes first.
 
@@ -194,8 +186,8 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the four
-verbal misconducts in one whose mind is noble, whose mind is without outflows,
-who possesses the noble path and develops the noble path, is right speech that
+verbal misconducts in someone whose mind is noble and without outflows, who
+possesses the noble path and develops it, is right speech that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong speech and to take up right speech; that is
@@ -239,8 +231,8 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the three
-bodily misconducts in one whose mind is noble, whose mind is without outflows,
-who possesses the noble path and develops the noble path, is right action that
+bodily misconducts in someone whose mind is noble and without outflows, who
+possesses the noble path and develops it, is right action that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong action and to take up right action; that is
@@ -285,8 +277,8 @@ acquisitions.
 beyond-the-world, a factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from wrong
-livelihood in one whose mind is noble, whose mind is without outflows, who
-possesses the noble path and develops the noble path, is right livelihood that
+livelihood in someone whose mind is noble and without outflows, who possesses the
+noble path and develops it, is right livelihood that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong livelihood and to take up right livelihood;
@@ -326,15 +318,10 @@ right view, right effort, and right remembering.
 "So a trainee is endowed with eight factors, while an arahant is endowed with
 ten factors.
 
-*Study note: the trainee is still eight-factored. The arahant here is the one
-beyond training, completed through right knowledge and right release. In this
-edition those two are not decorative extras; they mark the completion side of
-the path described in MN 117.*
-
 "And here too, through right knowledge, many bad, unwholesome qualities wear
 away, and development reaches fulfillment.
 
-### Twenty Skillful And Twenty Unskillful Sides
+### Twenty Skillful and Twenty Unskillful Sides
 
 "In this case, bhikkhus, right view comes first.
 
@@ -357,10 +344,6 @@ fulfillment in development.
 
 "So there are twenty on the wholesome side and twenty on the unwholesome
 side.
-
-*Study note: the pattern here is systematic. Each right factor wears away its
-wrong counterpart, wears away the bad qualities fed by that wrong counterpart,
-and brings wholesome qualities to fulfillment in development.*
 
 ### The Great Forty Cannot Be Rolled Back
 

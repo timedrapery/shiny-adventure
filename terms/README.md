@@ -2,12 +2,12 @@
 
 The repository keeps `terms/major/` and `terms/minor/` flat on disk.
 
-That is now a deliberate maintenance decision:
+That is deliberate:
 
 - flat directories keep record destinations predictable
 - scripts can continue to treat the live dataset uniformly
-- human navigation is handled by generated indexes rather than by adding
-  subfolders that would complicate existing tooling and editorial conventions
+- human navigation comes from generated indexes rather than extra subfolders
+  that would complicate existing tooling and editorial conventions
 
 ## What Lives Here
 
@@ -27,7 +27,7 @@ Do not store these here:
 - speculative half-finished live entries
 - generated browsing material
 
-## Major Versus Minor
+## Major vs. Minor
 
 Use a major entry when the term needs governed translation behavior, such as:
 
@@ -39,7 +39,7 @@ Use a major entry when the term needs governed translation behavior, such as:
 Use a minor entry when the term is live and useful but does not yet need the
 full rule-bearing surface.
 
-## Navigation Layer
+## Navigation
 
 Use these generated indexes for browsing:
 

@@ -1,13 +1,13 @@
 # Path-Factor Core Loop Brief
 
-## Governing Core Loop
+## Core Loop
 
 - `sammā-diṭṭhi` -> `right view`
 - `sammā-sati` -> `right remembering`
 - `sammā-vāyāma` -> `right effort`
 - `magga` keeps those three as recurring live path functions rather than isolated checklist items.
 
-## Path-Family Guardrails
+## Drift Guards
 
 - `sammā-samādhi` is not treated as a standalone meditation box. It is furnished with seven supporting path factors.
 - `ariya-atthangika-magga` remains the collective record for the full eightfold path and points back to the governed factor entries rather than replacing them.

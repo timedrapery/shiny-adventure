@@ -1,4 +1,4 @@
-# EXPANSION BATCH 001
+# Expansion Batch 001
 
 ## Purpose
 

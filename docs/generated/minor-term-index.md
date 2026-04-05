@@ -588,7 +588,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pancime-bhikkhave-khandha](../../terms/minor/pancime-bhikkhave-khandha.json) | pañcime, bhikkhave, khandhā | these, bhikkhus, are the five heaps | stable | aggregates, formula |
 | [pancime-bhikkhave-upadanakkhandha](../../terms/minor/pancime-bhikkhave-upadanakkhandha.json) | katame ca, bhikkhave, pañcupādānakkhandhā | and what, bhikkhus, are the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [pancupadanakkhandha](../../terms/minor/pancupadanakkhandha.json) | pañcupādānakkhandhā | five clung-to heaps | stable | aggregates, core-doctrine, translation-sensitive |
-| [pancupadanakkhandhesu-assado-adinavo-nissaranam](../../terms/minor/pancupadanakkhandhesu-assado-adinavo-nissaranam.json) | pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca | the gratification, danger, and escape in relation to the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
+| [pancupadanakkhandhesu-assado-adinavo-nissaranam](../../terms/minor/pancupadanakkhandhesu-assado-adinavo-nissaranam.json) | pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca | the gratification, danger, and escape in the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [pandita](../../terms/minor/pandita.json) | paṇḍita | wise person | reviewed | persons, mental-qualities |
 | [panna-dhana](../../terms/minor/panna-dhana.json) | panna-dhana | wealth of discernment | reviewed | ethics, core-practice |
 | [pannabala](../../terms/minor/pannabala.json) | paññābala | discernment strength | reviewed | core-practice, mental-qualities |
@@ -835,7 +835,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [uddhambhagiya-samyojana](../../terms/minor/uddhambhagiya-samyojana.json) | uddhambhāgiya-saṃyojana | higher fetter | stable | core-doctrine, liberation |
 | [uddhumataka](../../terms/minor/uddhumataka.json) | uddhumataka | bloated corpse | reviewed | meditative-development, embodiment |
 | [uggaha-nimitta](../../terms/minor/uggaha-nimitta.json) | uggaha-nimitta | acquired sign | reviewed | meditative-development |
-| [ugghatitannu](../../terms/minor/ugghatitannu.json) | ugghaṭitaññū | quick-understander | reviewed | persons |
+| [ugghatitannu](../../terms/minor/ugghatitannu.json) | ugghaṭitaññū | someone who understands quickly | reviewed | persons |
 | [upacara-samadhi](../../terms/minor/upacara-samadhi.json) | upacara-samadhi | access samadhi | reviewed | meditative-development |
 | [upadana-nirodha](../../terms/minor/upadana-nirodha.json) | upadana-nirodha | quenching of taking personally | reviewed | dependent-origination, liberation |
 | [upadana-paccaya](../../terms/minor/upadana-paccaya.json) | upadana-paccaya | taking personally as condition | reviewed | dependent-origination, causality |
@@ -919,7 +919,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vinnanakkhandha](../../terms/minor/vinnanakkhandha.json) | viññāṇakkhandha | knowing heap | stable | aggregates, translation-sensitive |
 | [vinnananancayatana](../../terms/minor/vinnananancayatana.json) | viññāṇañcāyatana | sphere of boundless knowing | reviewed | meditative-development |
 | [vinnanapaccaya-namarupa](../../terms/minor/vinnanapaccaya-namarupa.json) | viññāṇapaccayā nāmarūpaṃ | with knowing as condition, name-and-form | reviewed | dependent-origination, causality, translation-sensitive |
-| [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | someone who understands with explanation | reviewed | persons |
+| [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | someone who understands after explanation | reviewed | persons |
 | [vipaka-paccaya](../../terms/minor/vipaka-paccaya.json) | vipaka-paccaya | result condition | reviewed | causality |
 | [vipaka](../../terms/minor/vipaka.json) | vipaka | result | reviewed | causality |
 | [vipassana](../../terms/minor/vipassana.json) | vipassanā | insight | reviewed | meditative-development, core-practice |

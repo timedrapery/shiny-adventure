@@ -1,4 +1,4 @@
-# LEXICON EXPANSION PLAN 500
+# Lexicon Expansion Plan 500
 
 ## Purpose
 
@@ -149,7 +149,7 @@ Representative targets:
 
 Total planned next-stage additions: 500
 
-## What Not To Mass-Generate
+## What Not to Mass-Generate
 
 Do not mass-generate:
 

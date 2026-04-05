@@ -1,4 +1,4 @@
-# Path-Factor Supporting Terms Map
+# Path-Factor Support Map
 
 - `magga` names the whole path rather than one factor inside it.
 - `ariya` keeps the family anchored as the noble path, not just a useful lifestyle list.

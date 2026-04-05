@@ -1,6 +1,6 @@
-# Correct Noble Practice Brief
+# Four Noble Truths Practice Brief
 
-## Governing Cycle
+## Practice Cycle
 
 - Wake up and look at what is here.
 - See where it is heading.
@@ -8,9 +8,9 @@
 - Notice and appreciate the quenching of dukkha.
 - Do it again when remembered.
 
-## Guardrails
+## Drift Guards
 
-- `ariyasacca` stays `noble truth` rather than turning the truths into slogan-language, with `truth of the buddha` available only as a controlled explanatory alternate.
+- `ariyasacca` stays `noble truth` rather than turning the truths into slogan-language.
 - `dukkha` stays `dissatisfaction` rather than drifting back to uncontrolled suffering-language.
 - `nirodha` stays `quenching` rather than flattening it into vague positivity or generic cessation-shorthand.
 - `magga` stays `path` while allowing the immediate practice-side gloss of making a wholesome change.

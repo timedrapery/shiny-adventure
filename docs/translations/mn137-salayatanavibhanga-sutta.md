@@ -34,12 +34,12 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### Summary Of The Analysis
+### Summary of the Analysis
 
 "Bhikkhus, I will teach you the analysis of the six fields. Listen carefully,
 attend well, and I will speak."
 
-"Yes, Bhante," the bhikkhus replied.
+"Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -72,7 +72,7 @@ dhamma field: these are the six external fields to be known.'
 
 That is what was said with reference to this.
 
-### The Six Classes Of Knowing
+### The Six Classes of Knowing
 
 "'The six classes of knowing are to be known' was said. And with reference to
 what was that said?
@@ -82,7 +82,7 @@ mind-knowing: these are the six classes of knowing to be known.'
 
 That is what was said with reference to this.
 
-### The Six Classes Of Contact
+### The Six Classes of Contact
 
 "'The six classes of contact are to be known' was said. And with reference to
 what was that said?
@@ -253,7 +253,7 @@ These are the six dynamic balances tied to renunciation.
 
 That is what was said with reference to this.
 
-### Supported By This, Give Up That
+### Supported by This, Give Up That
 
 "'Here, supported by this, give up that' was said. And with reference to what
 was that said?
@@ -283,14 +283,14 @@ balance that is tied to oneness.
 
 And what is the dynamic balance tied to diversity?
 
-There is dynamic balance with regard to forms, sounds, smells, tastes, and
+There is dynamic balance for forms, sounds, smells, tastes, and
 tangibles. This is called dynamic balance tied to diversity.
 
 And what is the dynamic balance tied to oneness?
 
-There is dynamic balance supported by the base of infinite space, dynamic
-balance supported by the base of infinite knowing, dynamic balance supported by
-the base of nothingness, and dynamic balance supported by the base of
+There is dynamic balance supported by the sphere of boundless space, dynamic
+balance supported by the sphere of boundless knowing, dynamic balance supported
+by the sphere of nothingness, and dynamic balance supported by the sphere of
 neither-recognition-nor-non-recognition. This is called dynamic balance tied
 to oneness.
 
@@ -304,7 +304,7 @@ That is how it is gone beyond.
 
 That is what was said with reference to this.
 
-### Three Establishments Of Sati
+### Three Establishments of Sati
 
 "'There are three establishments of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group' was said. And with
@@ -376,14 +376,14 @@ Buddha, that person runs in eight directions:
 - one is intent only on the beautiful
 - going beyond all form-recognition, with the ending of resistance-recognition
   and without attending to diversity-recognition, one enters and remains in
-  the base of infinite space
-- going beyond the base of infinite space, one enters and remains in the base
-  of infinite knowing
-- going beyond the base of infinite knowing, one enters and remains in the
-  base of nothingness
-- going beyond the base of nothingness, one enters and remains in the base of
-  neither-recognition-nor-non-recognition
-- going beyond the base of neither-recognition-nor-non-recognition, one enters
+  the sphere of boundless space
+- going beyond the sphere of boundless space, one enters and remains in the
+  sphere of boundless knowing
+- going beyond the sphere of boundless knowing, one enters and remains in the
+  sphere of nothingness
+- going beyond the sphere of nothingness, one enters and remains in the sphere
+  of neither-recognition-nor-non-recognition
+- going beyond the sphere of neither-recognition-nor-non-recognition, one enters
   and remains in the quenching of recognition and feeling
 
 That is how a person trained by the Tathāgata runs in these eight directions.

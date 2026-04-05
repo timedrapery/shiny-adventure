@@ -1,4 +1,4 @@
-# DECISION RECORD TEMPLATE
+# Decision Record Template
 
 Use this template when a term-family decision is too important to leave only in
 commit history or scattered notes.

@@ -3,8 +3,8 @@
   "normalized_term": "pancupadanakkhandhesu-assado-adinavo-nissaranam",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "literal_meaning": "the gratification, danger, and escape in relation to the five clung-to heaps",
-  "preferred_translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
+  "literal_meaning": "the gratification, danger, and escape in the five clung-to heaps",
+  "preferred_translation": "the gratification, danger, and escape in the five clung-to heaps",
   "alternative_translations": [
     "the allure, drawback, and escape regarding the five clung-to heaps"
   ],
@@ -16,7 +16,7 @@
   "context_rules": [
     {
       "context": "In direct doctrinal translation of the formula",
-      "rendering": "the gratification, danger, and escape in relation to the five clung-to heaps",
+      "rendering": "the gratification, danger, and escape in the five clung-to heaps",
       "notes": "Use this by default."
     },
     {
@@ -33,8 +33,8 @@
   "example_phrases": [
     {
       "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
-      "translation": "the gratification, danger, and escape in relation to the five clung-to heaps",
-      "notes": "Canonical application of the triad to the heap family.",
+      "translation": "the gratification, danger, and escape in the five clung-to heaps",
+      "notes": "Shows the canonical application of the triad to the heap family.",
       "source": "SN 22.26"
     }
   ],

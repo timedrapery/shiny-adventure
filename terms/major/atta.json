@@ -14,7 +14,7 @@
     "ego"
   ],
   "untranslated_preferred": false,
-  "definition": "Self, especially as the imagined owner, controller, or identity claimed in relation to the heaps.",
+  "definition": "Self, especially as the imagined owner, controller, or identity built around the heaps.",
   "notes": "The project keeps self as the default because it is direct and doctrinally serviceable. Real self is a controlled explanatory alternate when the passage is contrasting a presumed essence with not-self analysis, and owner is acceptable when the local wording emphasizes possession or control. The term should not be softened into vague identity-language where the text is directly making or rejecting a self-claim, but it also should not be inflated into soul unless the passage is explicitly about that stronger doctrinal idea. In the five-heaps family, attā matters mainly through the formulas that take form, felt experience, recognition, putting-together activities, or knowing as self. The OSF glossary and SN 22.59 support keeping self-language explicit here so that anattā remains a practical rejection of appropriation rather than an abstract slogan.",
   "context_rules": [
     {
@@ -48,13 +48,13 @@
     {
       "pali": "rūpaṃ attato samanupassati",
       "translation": "one regards form as self",
-      "notes": "Canonical heap-based self-view formula.",
+      "notes": "Shows the canonical heap-based self-view formula.",
       "source": "SN 22.59"
     },
     {
       "pali": "na me so attā",
       "translation": "this is not my self",
-      "notes": "Part of the practical not-self refrain applied to the heaps.",
+      "notes": "Shows part of the practical not-self refrain applied to the heaps.",
       "source": "SN 22.59"
     },
     {

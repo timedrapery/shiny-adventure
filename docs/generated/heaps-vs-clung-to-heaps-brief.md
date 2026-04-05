@@ -1,4 +1,4 @@
-# Heaps vs Clung-To Heaps Brief
+# Heaps vs. Clung-To Heaps Brief
 
 ## Defaults
 

@@ -1,4 +1,4 @@
-# Dukkha-Nirodha Scope Sheet
+# Dukkha / Nirodha Scope Sheet
 
 - `ariyasacca` keeps the four truths ordered by the repository's `dukkha / dukkha-nirodha` scope rule.
 - `dukkha` remains the first governing side of that scope as `dissatisfaction`.

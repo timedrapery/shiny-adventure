@@ -32,7 +32,7 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### Dividing Thinking In Two
+### Dividing Thinking in Two
 
 "Bhikkhus, before my awakening, while I was still unawakened but intent on
 awakening, this thought arose in me:
@@ -42,12 +42,6 @@ awakening, this thought arose in me:
 So I made one class out of thinking of sensuality, thinking of ill will, and
 thinking of harming. And I made the second class out of thinking of
 renunciation, thinking of non-ill-will, and thinking of non-harming.
-
-*Study note: this discourse is one of the governing sources in the repository
-for handling `vitakka` as practical ethical thinking. The training here is not
-passive observation of whatever happens to show up. It is active discernment:
-abandoning kinds of thinking that lead to distress and cultivating kinds of
-thinking that lead toward quenching.*
 
 ### The Unwholesome Class
 
@@ -67,7 +61,7 @@ brought it to an end.
 
 The same was true for thinking of ill will and thinking of harming.
 
-### The Inclination Of The Feeling Mind
+### The Inclination of the Feeling Mind
 
 "Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
 mind inclines.
@@ -125,7 +119,7 @@ So that the feeling mind would not become strained.
 
 The same was true for thinking of non-ill-will and thinking of non-harming.
 
-### The Inclination Of The Feeling Mind, Again
+### The Inclination of the Feeling Mind, Again
 
 "Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
 mind inclines.
@@ -151,11 +145,7 @@ remember: 'Those are the cattle.'
 
 In the same way, I only needed to remember: 'These dhammas are here.'
 
-### Jhāna And The Three Knowledges
-
-*Study note: in this edition the first mental theme is not treated as a
-separate trance system. The discourse moves from sorting thinking ethically to
-gatheredness, mental composure, and the fourfold jhāna sequence.*
+### Jhāna and the Three Knowledges
 
 "My energy was aroused and unflagging, remembering was established and did not
 slip, the body was tranquil and undisturbed, and the feeling mind was
@@ -166,7 +156,7 @@ and remained in the first mental theme, with thinking and pondering, with
 delight and ease born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of the feeling mind, I entered and remained in the second mental
+unification of mind, I entered and remained in the second mental
 theme, without thinking and pondering, with delight and ease born of mental
 composure.
 
@@ -220,7 +210,7 @@ Knowing and seeing in this way, the feeling mind was freed from the outflow of
 sensuality, from the outflow of becoming, and from the outflow of ignorance.
 When it was freed, there came the knowledge: 'It is freed.' I directly
 understood: 'Birth is worn away, the spiritual life has been lived, what had
-to be done has been done, there is no further return to this state.'
+to be done has been done, there is no more of this state of being.'
 
 This was the third knowledge I attained in the last watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
