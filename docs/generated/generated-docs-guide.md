@@ -46,6 +46,7 @@ Most files here are written by commands under `scripts/`, including:
 
 - `python scripts/term_directory_navigation.py --write-docs`
 - `python scripts/*_cluster_report.py --write-docs`
+- `python scripts/check_generated_docs.py`
 
 Use [../documentation-guide.md](../documentation-guide.md) and
 [../../scripts/README.md](../../scripts/README.md) to find the right generator
@@ -61,6 +62,12 @@ When a generated file looks wrong:
 2. regenerate the file
 3. rerun checks
 
+The repository now checks generated-doc freshness directly with:
+
+```bash
+python scripts/check_generated_docs.py
+```
+
 If you make a deliberate manual touch-up to a generated file, also fix the
 upstream generator or live data in the same pass so the output does not drift
 back on the next regeneration.
@@ -70,7 +77,8 @@ back on the next regeneration.
 Use generated docs when you need:
 
 - a browsing surface over flat term directories
-- a translator-facing summary of a doctrinal cluster
+- a translator-facing summary of a governed family surface
+- a practice-text control sheet for shared translation formulas
 - a quick consistency sheet for review
 
 Use the normative docs and live term entries when you need to decide what the

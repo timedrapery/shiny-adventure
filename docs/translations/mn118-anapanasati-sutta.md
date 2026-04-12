@@ -15,7 +15,8 @@
   `paṭinissagga` are rendered `relinquishment`.
 - The sixteen ānāpānasati lines are laid out here as trainings in four tetrads,
   and the tetrad headings remain in the main text as study aids for practice.
-- This is a working study translation under active refinement.
+- This is the first stable study edition of the repository's MN 118
+  translation surface.
 
 ## Translation
 
@@ -243,10 +244,10 @@ One develops it, and it comes to fulfillment through development.
 mind. Then the dynamic balance awakening factor is aroused. One develops it,
 and it comes to fulfillment through development.
 
-"The same is true when a bhikkhu remains observing feelings in relation to
-feelings, the feeling mind in relation to the feeling mind, or dhammas among
-dhammas, ardent, with clear knowing, with remembering, having removed coveting
-and distress regarding the world.
+"The same is true when a bhikkhu remains observing felt experience in relation
+to felt experience, the feeling mind in relation to the feeling mind, or
+dhammas among dhammas, ardent, with clear knowing, with remembering, having
+removed coveting and distress regarding the world.
 
 "That is how the four establishments of sati, when developed and cultivated,
 fulfill the seven awakening factors."

@@ -1,6 +1,6 @@
 # CI Enforcement
 
-This repository is expected to fail early when live policy, doctrinal cluster
+This repository is expected to fail early when live policy, governed family
 surfaces, or regression coverage drift out of alignment.
 
 ## What CI Enforces
@@ -13,8 +13,10 @@ CI now blocks merges on:
   `stable` promotion
 - translation-drift failures, including conflicting lemma defaults and direct
   contradictions between allowed and discouraged renderings
-- missing doctrinal cluster authority surfaces
-- failed doctrinal cluster reports in strict mode
+- translation-surface registry mismatches
+- stale generated docs
+- missing governed family authority surfaces
+- failed governed family reports in strict mode
 - failed regression tests
 - any failure inside `python scripts/run_checks.py`
 
@@ -34,6 +36,8 @@ python scripts/validate_terms.py --strict
 python scripts/lint_terms.py --strict
 python scripts/check_translation_drift.py --strict
 python scripts/check_cluster_surfaces.py
+python scripts/translation_surface_index.py --check
+python scripts/check_generated_docs.py
 python -m unittest discover -s tests
 python scripts/run_checks.py
 ```
@@ -100,9 +104,9 @@ once:
 
 If an entry cannot clear that floor yet, keep it `reviewed`.
 
-## Doctrinal Cluster Coverage
+## Governed Surface Coverage
 
-Each CI-enforced doctrinal cluster must have all of the following:
+Each CI-enforced family surface must have all of the following:
 
 - one authority document in `docs/`
 - one report script in `scripts/`
@@ -113,17 +117,17 @@ The authoritative inventory lives in
 The surface verifier is
 [`scripts/check_cluster_surfaces.py`](../scripts/check_cluster_surfaces.py).
 
-When adding a new CI-enforced cluster:
+When adding a new CI-enforced family surface:
 
 1. Add the authority document in `docs/`.
 2. Add the report script in `scripts/`.
 3. Add the regression tests in `tests/`.
-4. Register the cluster in `scripts/cluster_registry.py`.
+4. Register the surface in `scripts/cluster_registry.py`.
 5. Run `python scripts/check_cluster_surfaces.py`.
 6. Run `python scripts/run_checks.py`.
 
-Do not add a cluster doc and assume CI will discover it automatically.
-The registry is deliberate so cluster coverage stays explicit.
+Do not add a family-surface doc and assume CI will discover it automatically.
+The registry is deliberate so surface coverage stays explicit.
 
 ## Adding or Modifying Terms
 
@@ -167,7 +171,7 @@ Use it to catch merge-blocking failures before pushing.
 - Schema failure: fix the term record structure first.
 - Lint failure: strengthen the live record rather than weakening the rule.
 - Drift failure: resolve the contradiction in term data or cluster policy.
-- Cluster surface failure: add the missing doc, script, test, or registry entry.
+- Governed-surface failure: add the missing doc, script, test, or registry entry.
 - Test failure: update the implementation and the regression expectation in the
   same pass.
 

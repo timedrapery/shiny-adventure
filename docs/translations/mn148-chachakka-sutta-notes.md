@@ -58,9 +58,14 @@ source-audit calls, and edition notes that govern it.
   `delights in it, affirms it, and keeps taking it personally`. That keeps the
   line aligned with the MN 18 `delight / affirm / take personally` family
   rather than turning it into generic approval or clinging language.
+- The inverse pleasant- and painful-feeling response lines are now governed by
+  dedicated records rather than remaining translation-local negations of the
+  positive formulas.
 - `tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca
   yathābhūtaṁ pajānāti` is now governed by a dedicated MN 148 phrase record
   rather than remaining translation-local.
+- The mixed-feeling non-discernment line is now governed alongside the
+  discernment line so the trained / untrained contrast stays explicit.
 - `netaṁ mama, nesohamasmi, na me so attā` is not treated here as a bare
   metaphysical formula. It is a practical de-appropriation pattern.
 - The middle four sense doors are compacted once the eye pattern is fully laid
@@ -99,10 +104,9 @@ source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- If MN 148 becomes a wider control passage for the feeling-response family,
-  consider adding dedicated inverse formula records for the negative pleasant
-  and painful responses rather than leaving those as translation-local
-  negations of the positive lines.
+- The MN 137 / MN 148 sensory-response family is now covered by a dedicated
+  surface report. Extend that surface if later translations begin reusing more
+  of the same household / renunciation or trained / untrained response lines.
 - If the assāda / ādīnava side becomes more central in later translations,
   consider promoting those terms to rule-bearing major entries rather than
   relying on formula inheritance and local notes.

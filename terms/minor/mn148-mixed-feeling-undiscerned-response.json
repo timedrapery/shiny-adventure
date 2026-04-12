@@ -1,0 +1,45 @@
+{
+  "term": "adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ na pajānāti",
+  "normalized_term": "mn148-mixed-feeling-undiscerned-response",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "when one is touched by mixed feeling, one does not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+  "alternative_translations": [
+    "when one is touched by mixed feeling, one does not clearly know that feeling's arising and vanishing, gratification, danger, and escape as they have come to be"
+  ],
+  "discouraged_translations": [
+    "one does not understand neutral feeling objectively"
+  ],
+  "definition": "MN 148's untrained mixed-feeling response that leaves the ignorance tendency in place.",
+  "notes": "Use this record for the untrained mixed-feeling response in MN 148. Keep mixed rather than neutral, and keep the five-part discernment structure explicit even in the negated form.",
+  "example_phrases": [
+    {
+      "pali": "adukkhamasukhāya vedanāya phuṭṭho samāno tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ na pajānāti",
+      "translation": "when one is touched by mixed feeling, one does not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+      "notes": "Untrained mixed-feeling response in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the mixed-feeling non-discernment line that leaves the ignorance tendency in place."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the untrained mixed-feeling response in MN 148.",
+    "when_not_to_apply": "Do not replace mixed with neutral, and do not flatten the line into generic misunderstanding language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the mixed-feeling response from drifting into neutral-feeling wording or losing the five-part discernment structure."
+  }
+}

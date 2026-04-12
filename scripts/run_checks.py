@@ -18,6 +18,8 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Regression tests", [sys.executable, "-m", "unittest", "discover", "-s", "tests"]),
     ("Documentation integrity", [sys.executable, "scripts/check_docs_integrity.py"]),
+    ("Translation surface registry", [sys.executable, "scripts/translation_surface_index.py", "--check"]),
+    ("Generated docs freshness", [sys.executable, "scripts/check_generated_docs.py"]),
     ("Translation formula consistency", [sys.executable, "scripts/check_translation_formula_consistency.py"]),
     ("Voice consistency audit", [sys.executable, "scripts/voice_consistency_audit.py"]),
     ("Schema validation", [sys.executable, "scripts/validate_terms.py", "--strict"]),
@@ -55,10 +57,11 @@ def repair_hint(label: str, command: list[str]) -> str | None:
             "the rule violated, why it matters, the minimal safe fix, and repo-native examples."
         )
 
-    if "cluster" in label.casefold() or label == "OSF reconciliation layer":
+    label_lower = label.casefold()
+    if "cluster" in label_lower or "surface" in label_lower or label == "OSF reconciliation layer":
         return (
-            "Repair hint: treat this as a family-level failure. Review the cluster authority doc, "
-            "repair the family terms or collective records in one pass, and rerun the cluster script directly."
+            "Repair hint: treat this as a family-level failure. Review the authority doc, "
+            "repair the family terms or collective records in one pass, and rerun the family report directly."
         )
 
     return None

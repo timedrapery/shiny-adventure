@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Verify that each CI-enforced doctrinal cluster has its required surfaces."""
+"""Verify that each CI-enforced family surface has its required files."""
 
 from __future__ import annotations
 

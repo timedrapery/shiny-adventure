@@ -7,8 +7,34 @@
   "definition": "The bodily conditioner named in meditative analysis, especially breathing.",
   "status": "reviewed",
   "literal_meaning": "body formation",
+  "notes": "Use body conditioner for kāyasaṅkhāra in the breathing tetrad and related practice explanation. The repository treats the term here as the bodily conditioning worked on through breathing, not as a vague body formation label. When the MN 10 / MN 118 practice-text surface is in view, keep this aligned with the governed body-conditioner training line rather than paraphrasing it into breath process or generic bodily activity.",
+  "related_terms": [
+    "anapanasati",
+    "kaya",
+    "mn118-body-conditioner-training",
+    "mn118-whole-body-training"
+  ],
+  "example_phrases": [
+    {
+      "pali": "passambhayaṁ kāyasaṅkhāraṁ assasissāmīti sikkhati",
+      "translation": "one trains: 'Breathing in, I will calm the body conditioner.'",
+      "notes": "Body-tetrad calming line in ānāpānasati and the aligned MN 10 breathing section.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "MN 118"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'body conditioner' in the governed MN 10 / MN 118 breathing family unless a recorded local reason requires fuller explanation.",
+    "when_not_to_apply": "Do not slide back to 'body formation' or loosen the line into generic breath-process language when the practice-text control phrase is in view.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the breathing-family line from drifting into vague bodily-activity or body-formation language."
+  },
   "tags": [
     "embodiment",
+    "meditative-development",
     "translation-sensitive"
   ]
 }

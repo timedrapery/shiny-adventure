@@ -39,8 +39,9 @@ source-audit calls, and edition notes that govern it.
 
 - `so satova assasati satova passasati` is aligned with the current MN 118
   handling: `One breathes in remembering the Dhamma; one breathes out
-  remembering the Dhamma.` This keeps the breathing family coordinated instead
-  of letting identical source lines drift apart across texts.
+  remembering the Dhamma.` That shared breathing-side line now has its own
+  governed phrase record, so MN 10 and MN 118 can stay synchronized by live
+  policy rather than by document-local memory.
 - `ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ` is rendered
   `ardent, with clear knowing, with remembering, having removed coveting and
   distress regarding the world.` The line keeps `sati` and `sampajañña`
@@ -89,9 +90,9 @@ source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- If MN 10 becomes a wider control passage for satipaṭṭhāna-family translation,
-  consider adding a dedicated cluster report for the refrain layer rather than
-  protecting it only through the general drift stack.
+- The MN 10 / MN 118 practice-text surface is now covered by a dedicated
+  report. Extend that surface further if more refrain families become
+  governance-critical across additional texts.
 - The citta-state adjectives in the mind section would benefit from fuller
   upstream term support if more translations begin to depend on them.
 - If later translations lean more heavily on the dhammānupassanā list-families,

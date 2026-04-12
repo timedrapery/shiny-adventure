@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Authoritative registry of CI-enforced doctrinal cluster surfaces."""
+"""Authoritative registry of CI-enforced family surfaces."""
 
 from __future__ import annotations
 
@@ -198,6 +198,26 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         test_relpaths=(
             "tests/test_path_factor_cluster_report.py",
             "tests/test_path_factor_core_loop_policy.py",
+        ),
+    ),
+    ClusterSurface(
+        key="practice_text_surface",
+        label="Practice-text surface",
+        doc_relpath="docs/practice-text-surface-map.md",
+        script_relpath="scripts/practice_text_surface_report.py",
+        test_relpaths=(
+            "tests/test_practice_text_surface_report.py",
+            "tests/test_practice_text_policy.py",
+        ),
+    ),
+    ClusterSurface(
+        key="sensory_response_surface",
+        label="Sensory-response surface",
+        doc_relpath="docs/sensory-response-surface-map.md",
+        script_relpath="scripts/sensory_response_surface_report.py",
+        test_relpaths=(
+            "tests/test_sensory_response_surface_report.py",
+            "tests/test_sensory_response_policy.py",
         ),
     ),
     ClusterSurface(

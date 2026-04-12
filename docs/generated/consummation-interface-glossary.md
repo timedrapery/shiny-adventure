@@ -2,7 +2,7 @@
 
 | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
-| nibbāna | nibbāna | quenching, coolness, extinguishment | enlightenment, peace, heaven, annihilation, mere cessation |
+| nibbāna | nibbāna | quenching, coolness, cooling down, extinguishment | enlightenment, peace, heaven, annihilation, mere cessation, ultimate reality |
 | amata | deathless | death-free, deathlessness | immortal, eternal life, soul, nibbāna |
 | asaṅkhata | unconditioned | unconstructed, unfabricated | eternal, transcendent reality, ultimate ground, nibbāna |
 | santi | peace | peacefulness, still peace | calm mood, sentimental peace, relaxation, nibbāna |

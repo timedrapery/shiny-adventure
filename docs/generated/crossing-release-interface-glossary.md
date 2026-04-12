@@ -3,7 +3,7 @@
 | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
 | nissaraṇa | escape | way out | liberation, freedom, release, exit |
-| vimutti | release | liberation | salvation, escape, freedom |
+| vimutti | release | liberation, emancipation | salvation, escape, freedom, spiritual freedom |
 | mutti | freedom | release | liberation, escape, crossing over, peace |
 | tarati | crosses over | gets across, crosses | escapes, is liberated, is free |
 | tiṇṇa | crossed over | gone beyond, got across | liberated, freed, escaped |

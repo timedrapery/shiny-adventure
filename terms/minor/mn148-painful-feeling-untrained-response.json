@@ -1,0 +1,45 @@
+{
+  "term": "dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati uraṁtadati sammohaṁ āpajjati",
+  "normalized_term": "mn148-painful-feeling-untrained-response",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "when one is touched by painful feeling, one sorrows, grows worn down, laments, beats one's chest and cries, and falls into confusion",
+  "alternative_translations": [
+    "when one is touched by painful feeling, one sorrows, becomes exhausted, laments, beats one's chest and cries, and falls into confusion"
+  ],
+  "discouraged_translations": [
+    "one reacts badly to pain"
+  ],
+  "definition": "MN 148's untrained painful-feeling response that feeds the resistance tendency.",
+  "notes": "Use this record for the untrained painful-feeling response in MN 148. Keep the escalating sequence explicit rather than compressing it into generic suffering or aversion language.",
+  "example_phrases": [
+    {
+      "pali": "dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati uraṁtadati sammohaṁ āpajjati",
+      "translation": "when one is touched by painful feeling, one sorrows, grows worn down, laments, beats one's chest and cries, and falls into confusion",
+      "notes": "Untrained painful-feeling response in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the painful-feeling response that feeds the resistance tendency."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the untrained painful-feeling response in MN 148.",
+    "when_not_to_apply": "Do not flatten the line into generic aversion or suffering language and do not erase the staged escalation of the response.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents this response pattern from collapsing into vague pain-reaction language or losing its escalation sequence."
+  }
+}

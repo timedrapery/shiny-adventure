@@ -27,6 +27,14 @@ class RunChecksTests(unittest.TestCase):
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(
+            [sys.executable, "scripts/translation_surface_index.py", "--check"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/check_generated_docs.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
             [sys.executable, "scripts/check_translation_formula_consistency.py"],
             [call.args[0] for call in run_mock.call_args_list],
         )
@@ -60,6 +68,14 @@ class RunChecksTests(unittest.TestCase):
         )
         self.assertIn(
             [sys.executable, "scripts/path_factor_cluster_report.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/practice_text_surface_report.py", "--strict"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/sensory_response_surface_report.py", "--strict"],
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(

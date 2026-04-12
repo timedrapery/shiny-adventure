@@ -1,0 +1,60 @@
+{
+  "term": "passambhayaṁ kāyasaṅkhāraṁ assasissāmīti sikkhati, passambhayaṁ kāyasaṅkhāraṁ passasissāmīti sikkhati",
+  "normalized_term": "mn118-body-conditioner-training",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one trains: 'Breathing in, I will calm the body conditioner.' One trains: 'Breathing out, I will calm the body conditioner.'",
+  "alternative_translations": [
+    "one trains: 'I will breathe in calming the body conditioner.' One trains: 'I will breathe out calming the body conditioner.'"
+  ],
+  "discouraged_translations": [
+    "one trains to calm bodily formations",
+    "one trains to relax the breath process"
+  ],
+  "definition": "Shared MN 10 / MN 118 body-tetrad training line for calming the body conditioner.",
+  "notes": "Use this record for the shared body-conditioner training line in MN 10 and MN 118. Keep kāyasaṅkhāra aligned with the repository's body conditioner policy and do not let the line drift back into body-formation language or generic breath-process paraphrase. This is one of the governed control lines that binds the two practice texts together.",
+  "related_terms": [
+    "anapanasati",
+    "kaya-sankhara",
+    "mn118-breathing-remembrance-line",
+    "mn118-whole-body-training"
+  ],
+  "example_phrases": [
+    {
+      "pali": "passambhayaṁ kāyasaṅkhāraṁ assasissāmīti sikkhati, passambhayaṁ kāyasaṅkhāraṁ passasissāmīti sikkhati",
+      "translation": "one trains: 'Breathing in, I will calm the body conditioner.' One trains: 'Breathing out, I will calm the body conditioner.'",
+      "notes": "Shared body-conditioner training line in MN 10 and MN 118.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "passambhayaṁ kāyasaṅkhāraṁ assasissāmīti sikkhati, passambhayaṁ kāyasaṅkhāraṁ passasissāmīti sikkhati",
+      "translation": "one trains: 'Breathing in, I will calm the body conditioner.' One trains: 'Breathing out, I will calm the body conditioner.'",
+      "notes": "Aligned body-tetrad calming line in the MN 10 breathing section.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "MN 118"
+  ],
+  "tags": [
+    "core-practice",
+    "embodiment",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10 / MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the shared body-conditioner training line as a governed control phrase across both practice texts."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the shared body-conditioner breathing training in MN 10 and MN 118 unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not replace body conditioner with body formation or loosen the line into generic breath-process language when the governed practice-text surface is in view.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the body-conditioner training line from drifting into body-formation language, loose breath-process paraphrase, or inconsistent wording between MN 10 and MN 118."
+  }
+}

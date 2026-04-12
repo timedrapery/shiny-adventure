@@ -6,6 +6,6 @@
 | pahāna | abandoning | giving up, putting away | suppression, cessation, release |
 | virāga | fading | dispassion | detachment, abandonment, cessation |
 | vossagga | relinquishment | letting go, release through letting go | suppression, cessation, abandonment |
-| nirodha | quenching | ending, cessation, discontinuity, to stop, to cease | annihilation, wearing away |
+| nirodha | quenching | ending, cessation, discontinuity, stop, cease | annihilation, wearing away, mere cessation |
 | khaya | wearing away | exhaustion, ending | cessation, annihilation, release |
 

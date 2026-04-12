@@ -1,0 +1,45 @@
+{
+  "term": "sukhāya vedanāya phuṭṭho samāno na abhinandati na abhivadati na ajjhosāya tiṭṭhati",
+  "normalized_term": "mn148-pleasant-feeling-trained-response",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally",
+  "alternative_translations": [
+    "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not remain taking it personally"
+  ],
+  "discouraged_translations": [
+    "one feels pleasure without clinging"
+  ],
+  "definition": "MN 148's trained pleasant-feeling response that blocks the passion tendency.",
+  "notes": "Use this record for the trained pleasant-feeling response in MN 148. Keep the three-part refusal explicit: no delighting, no affirming, and no ongoing taking personally. Do not compress it into generic non-clinging language.",
+  "example_phrases": [
+    {
+      "pali": "sukhāya vedanāya phuṭṭho samāno na abhinandati na abhivadati na ajjhosāya tiṭṭhati",
+      "translation": "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally",
+      "notes": "Trained pleasant-feeling response in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the inverse pleasant-feeling response that blocks the passion tendency."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the trained pleasant-feeling response in MN 148.",
+    "when_not_to_apply": "Do not flatten the line into generic non-attachment language or erase the ongoing taking-personally force of ajjhosāya tiṭṭhati.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents this response pattern from drifting into vague restraint language or losing the three-part structure."
+  }
+}

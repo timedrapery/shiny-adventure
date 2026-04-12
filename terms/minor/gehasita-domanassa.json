@@ -1,0 +1,47 @@
+{
+  "term": "gehasita domanassa",
+  "normalized_term": "gehasita-domanassa",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "household-tied distress",
+  "preferred_translation": "distress tied to the household life",
+  "alternative_translations": [
+    "household-tied distress"
+  ],
+  "discouraged_translations": [
+    "worldly sorrow",
+    "domestic unhappiness"
+  ],
+  "definition": "MN 137's category of distress bound to not obtaining or losing wanted sense objects.",
+  "notes": "Use this record for the household-side distress family in MN 137. Keep the household tie explicit and keep the line grounded in not obtaining or losing wanted objects. Do not broaden it into generic sorrow rhetoric.",
+  "example_phrases": [
+    {
+      "pali": "cha gehasitāni domanassāni",
+      "translation": "six distresses tied to the household life",
+      "notes": "Category label in the thirty-six positions section of MN 137.",
+      "source": "MN 137"
+    }
+  ],
+  "sutta_references": [
+    "MN 137"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 137",
+      "kind": "context-rule",
+      "scope": "Supports the household-side distress family in the six-fields analysis."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English label for the gehasita domanassa category in MN 137 unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not flatten the category into generic sadness language or drop the household-side distinction.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the MN 137 category from drifting into vague sorrow language or losing the household-side tie."
+  }
+}
