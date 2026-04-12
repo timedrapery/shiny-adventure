@@ -37,6 +37,11 @@ Current MN 19 surfaces:
 - [mn19-dvedhavitakka-sutta.md](mn19-dvedhavitakka-sutta.md): main shareable translation text
 - [mn19-dvedhavitakka-sutta-notes.md](mn19-dvedhavitakka-sutta-notes.md): companion translator notes and rationale
 
+Current MN 99 surfaces:
+
+- [mn99-subha-sutta.md](mn99-subha-sutta.md): main shareable translation text
+- [mn99-subha-sutta-notes.md](mn99-subha-sutta-notes.md): companion translator notes and rationale
+
 Current MN 117 surfaces:
 
 - [mn117-mahacattarisaka-sutta.md](mn117-mahacattarisaka-sutta.md): main shareable translation text
