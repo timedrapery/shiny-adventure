@@ -1,0 +1,45 @@
+{
+  "term": "dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na uraṁtadati na sammohaṁ āpajjati",
+  "normalized_term": "mn148-painful-feeling-trained-response",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "when one is touched by painful feeling, one does not sorrow, does not grow worn down, does not lament, does not beat one's chest and cry, and does not fall into confusion",
+  "alternative_translations": [
+    "when one is touched by painful feeling, one does not sorrow, does not become exhausted, does not lament, does not beat one's chest and cry, and does not fall into confusion"
+  ],
+  "discouraged_translations": [
+    "one stays calm when in pain"
+  ],
+  "definition": "MN 148's trained painful-feeling response that blocks the resistance tendency.",
+  "notes": "Use this record for the trained painful-feeling response in MN 148. Keep the full inverse sequence explicit rather than flattening it into generic calm-under-pain language.",
+  "example_phrases": [
+    {
+      "pali": "dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na uraṁtadati na sammohaṁ āpajjati",
+      "translation": "when one is touched by painful feeling, one does not sorrow, does not grow worn down, does not lament, does not beat one's chest and cry, and does not fall into confusion",
+      "notes": "Trained painful-feeling response in MN 148.",
+      "source": "MN 148"
+    }
+  ],
+  "sutta_references": [
+    "MN 148"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 148",
+      "kind": "context-rule",
+      "scope": "Supports the inverse painful-feeling response that blocks the resistance tendency."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the trained painful-feeling response in MN 148.",
+    "when_not_to_apply": "Do not flatten the line into generic composure language and do not erase the full inverse structure of the response.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents this response pattern from collapsing into vague calm-under-pain language or losing its full inverse sequence."
+  }
+}

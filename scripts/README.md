@@ -18,6 +18,10 @@ generating script first.
   Runs the full verification suite in the same order used by CI.
 - `python scripts/check_docs_integrity.py`
   Validates internal Markdown links and required repository-surface metadata files.
+- `python scripts/translation_surface_index.py --check`
+  Verifies that all registered translation-document pairs exist, cross-link correctly, and match the registry-driven index in `docs/translations/translation-documents.md`.
+- `python scripts/check_generated_docs.py`
+  Verifies that cluster-generated docs in `docs/generated/` are present and current relative to their source term data and generator scripts.
 - `python scripts/check_translation_formula_consistency.py`
   Detects discouraged stock-phrase variants and formula-level drift in the shareable translation surfaces under `docs/translations/`.
 - `python scripts/validate_terms.py`
@@ -27,7 +31,7 @@ generating script first.
 - `python scripts/check_translation_drift.py`
   Detects translation drift across related terms and policy-bearing records.
 - `python scripts/check_cluster_surfaces.py`
-  Verifies that each CI-enforced doctrinal cluster has its authority doc, report script, and regression tests.
+  Verifies that each CI-enforced family surface has its authority doc, report script, and regression tests.
 - `python scripts/term_directory_navigation.py --check`
   Verifies that the generated major/minor term navigation indexes are present and current.
 - `python scripts/dependent_arising_cluster_report.py`
@@ -36,6 +40,10 @@ generating script first.
   Audits the jhana core cluster and can generate translator-facing outputs.
 - `python scripts/path_factor_cluster_report.py`
   Audits the path-factor core cluster and can generate translator-facing outputs.
+- `python scripts/practice_text_surface_report.py`
+  Audits the MN 10 / MN 118 practice-text surface and can generate a control sheet in `docs/generated/`.
+- `python scripts/sensory_response_surface_report.py`
+  Audits the MN 137 / MN 148 sensory-response surface and can generate a control sheet in `docs/generated/`.
 - `python scripts/four_noble_truths_cluster_report.py`
   Audits the four noble truths cluster and can generate translator-facing outputs.
 - `python scripts/sense_fields_cluster_report.py`
@@ -59,6 +67,10 @@ generating script first.
   Checks the jhana core cluster surface and writes glossary, sequence, path-brief, and formula-sheet outputs into `docs/generated/`.
 - `python scripts/path_factor_cluster_report.py --write-docs`
   Checks the path-factor core cluster surface and writes the glossary, core-loop brief, tenfold-sequence sheet, and support map to `docs/generated/`.
+- `python scripts/practice_text_surface_report.py --write-docs`
+  Checks the MN 10 / MN 118 practice-text surface and writes the current control sheet into `docs/generated/`.
+- `python scripts/sensory_response_surface_report.py --write-docs`
+  Checks the MN 137 / MN 148 sensory-response surface and writes the current control sheet into `docs/generated/`.
 - `python scripts/four_noble_truths_cluster_report.py --write-docs`
   Checks the four noble truths cluster surface and writes the glossary, truth-task sheet, practice brief, and scope sheet to `docs/generated/`.
 - `python scripts/sense_fields_cluster_report.py --write-docs`
@@ -67,6 +79,8 @@ generating script first.
   Checks the three-marks cluster surface and writes glossary, contemplation-sheet, formula-sheet, and translator-brief outputs into `docs/generated/`.
 - `python scripts/term_directory_navigation.py --write-docs`
   Generates navigation indexes for the flat `terms/major/` and `terms/minor/` directories.
+- `python scripts/translation_surface_index.py --write-docs`
+  Regenerates the registry-driven translation surface index at `docs/translations/translation-documents.md`.
 - `python scripts/draft_major_review_queue.py`
   Reports the current queue of draft major entries still awaiting an editorial pass.
 - `python scripts/five_heaps_cluster_report.py`

@@ -26,8 +26,10 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     "forms knowable by the eye": re.compile(r"(?<!visible )forms knowable by the eye\b"),
     "right knowing": re.compile(r"\bright knowing\b"),
     "neutral feeling": re.compile(r"\bneutral feeling\b"),
-    "observing feelings in relation to feelings": re.compile(r"observing feelings in relation to feelings"),
-    "one kind of feeling": re.compile(r"\bone kind of feeling\b"),
+    "observing feelings in relation to feelings": re.compile(
+        r"observing\s+feelings\s+in\s+relation\s+to\s+feelings"
+    ),
+    "one kind of feeling": re.compile(r"\bone\s+kind\s+of\s+feeling\b"),
 }
 
 PATTERN_GUIDANCE: dict[str, str] = {
@@ -57,18 +59,20 @@ def iter_translation_files(translations_dir: Path) -> list[Path]:
 
 def scan_text(text: str, relative_path: str) -> list[dict[str, object]]:
     findings: list[dict[str, object]] = []
-    for line_number, line in enumerate(text.splitlines(), start=1):
-        for label, pattern in FLAGGED_PATTERNS.items():
-            if pattern.search(line):
-                findings.append(
-                    {
-                        "path": relative_path,
-                        "line": line_number,
-                        "label": label,
-                        "guidance": PATTERN_GUIDANCE[label],
-                        "text": line.strip(),
-                    }
-                )
+    lines = text.splitlines()
+    for label, pattern in FLAGGED_PATTERNS.items():
+        for match in pattern.finditer(text):
+            line_number = text.count("\n", 0, match.start()) + 1
+            line = lines[line_number - 1].strip() if lines else ""
+            findings.append(
+                {
+                    "path": relative_path,
+                    "line": line_number,
+                    "label": label,
+                    "guidance": PATTERN_GUIDANCE[label],
+                    "text": line,
+                }
+            )
     return findings
 
 

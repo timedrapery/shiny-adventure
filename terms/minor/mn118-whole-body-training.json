@@ -1,0 +1,60 @@
+{
+  "term": "sabbakāyapaṭisaṁvedī assasissāmīti sikkhati, sabbakāyapaṭisaṁvedī passasissāmīti sikkhati",
+  "normalized_term": "mn118-whole-body-training",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one trains: 'Breathing in, I will experience the whole body.' One trains: 'Breathing out, I will experience the whole body.'",
+  "alternative_translations": [
+    "one trains: 'I will breathe in experiencing the whole body.' One trains: 'I will breathe out experiencing the whole body.'"
+  ],
+  "discouraged_translations": [
+    "one trains to feel the whole breath body",
+    "one trains to experience the full breath process"
+  ],
+  "definition": "Shared MN 10 / MN 118 body-tetrad training line for experiencing the whole body while breathing.",
+  "notes": "Use this record for the shared whole-body training line in MN 10 and MN 118. Keep the line simple and practical. The repository uses whole body here rather than paraphrasing the phrase into breath-body jargon or a technical process label. This is one of the governed control lines that binds the two practice texts together.",
+  "related_terms": [
+    "anapanasati",
+    "kaya",
+    "kaya-sankhara",
+    "mn118-body-conditioner-training",
+    "mn118-breathing-remembrance-line"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sabbakāyapaṭisaṁvedī assasissāmīti sikkhati, sabbakāyapaṭisaṁvedī passasissāmīti sikkhati",
+      "translation": "one trains: 'Breathing in, I will experience the whole body.' One trains: 'Breathing out, I will experience the whole body.'",
+      "notes": "Shared whole-body training line in MN 10 and MN 118.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "sabbakāyapaṭisaṁvedī assasissāmīti sikkhati, sabbakāyapaṭisaṁvedī passasissāmīti sikkhati",
+      "translation": "one trains: 'Breathing in, I will experience the whole body.' One trains: 'Breathing out, I will experience the whole body.'",
+      "notes": "Aligned body-tetrad line in the MN 10 breathing section.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "MN 118"
+  ],
+  "tags": [
+    "core-practice",
+    "embodiment",
+    "meditative-development"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10 / MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the shared whole-body training line as a governed control phrase across both practice texts."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the shared whole-body breathing training in MN 10 and MN 118 unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not paraphrase this into breath-body jargon or process-language that narrows the line more than the governed practice surface does.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the body-tetrad line from drifting into breath-body jargon, loose process paraphrase, or other uncontrolled alternates between the two practice texts."
+  }
+}

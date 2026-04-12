@@ -73,6 +73,26 @@ class TranslationFormulaConsistencyTests(unittest.TestCase):
         rendered = json.loads(output.getvalue())
         self.assertEqual(rendered["summary"]["files_scanned"], 1)
 
+    def test_build_report_flags_cross_line_formula_variants(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            translations = repo_root / "docs" / "translations"
+            translations.mkdir(parents=True)
+            (translations / "sample.md").write_text(
+                "The same is true when a bhikkhu remains observing feelings in relation to\n"
+                "feelings.\n"
+                "For, bhikkhus, I say that this is one kind of\n"
+                "feeling.\n",
+                encoding="utf-8",
+            )
+
+            report = formula_audit.build_report(repo_root, translations)
+
+        self.assertEqual(report["summary"]["matches"], 2)
+        labels = {finding["label"] for finding in report["findings"]}
+        self.assertIn("observing feelings in relation to feelings", labels)
+        self.assertIn("one kind of feeling", labels)
+
 
 if __name__ == "__main__":
     unittest.main()

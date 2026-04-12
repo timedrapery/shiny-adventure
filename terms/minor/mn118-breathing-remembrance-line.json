@@ -1,0 +1,59 @@
+{
+  "term": "so satova assasati satova passasati",
+  "normalized_term": "mn118-breathing-remembrance-line",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one breathes in remembering the Dhamma; one breathes out remembering the Dhamma",
+  "alternative_translations": [
+    "one breathes in remembering the Dhamma and breathes out remembering the Dhamma"
+  ],
+  "discouraged_translations": [
+    "mindfully one breathes in, mindfully one breathes out",
+    "one breathes in mindfully and out mindfully"
+  ],
+  "definition": "Shared MN 10 / MN 118 breathing line keeping sati explicit as remembering the Dhamma while breathing in and out.",
+  "notes": "Use this record for the shared breathing-side line in MN 10 and MN 118. Keep sati explicit as remembering the Dhamma rather than generic mindfulness or arbitrary recollection. This line is a governed control phrase for the repo's practice-text surface and should stay aligned across both discourses.",
+  "related_terms": [
+    "anapanasati",
+    "mn10-satipatthana-qualifier",
+    "sati",
+    "satipatthana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "so satova assasati satova passasati",
+      "translation": "one breathes in remembering the Dhamma; one breathes out remembering the Dhamma",
+      "notes": "Shared breathing-side line in MN 10 and MN 118.",
+      "source": "MN 118"
+    },
+    {
+      "pali": "so satova assasati satova passasati",
+      "translation": "one breathes in remembering the Dhamma; one breathes out remembering the Dhamma",
+      "notes": "Same governed line in the breathing section of MN 10.",
+      "source": "MN 10"
+    }
+  ],
+  "sutta_references": [
+    "MN 10",
+    "MN 118"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "MN 10 / MN 118",
+      "kind": "context-rule",
+      "scope": "Supports the shared breathing-side line as the repo's governed control phrase for both the MN 10 breathing section and the MN 118 training sequence."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the shared breathing-side formula in MN 10 and MN 118 unless a recorded local reason requires minor punctuation adjustment.",
+    "when_not_to_apply": "Do not collapse remembering into mindfulness-jargon or leave the remembered content implicit when the repo wants the Dhamma-remembering force to stay explicit.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the breathing-side sati line from drifting into generic mindfulness wording or losing the Dhamma-remembering force that governs the practice surface."
+  }
+}

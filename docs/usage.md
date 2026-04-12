@@ -38,6 +38,18 @@ For the path-factor family specifically, add the dedicated audit:
 python scripts/path_factor_cluster_report.py --strict
 ```
 
+For the MN 10 / MN 118 practice-text surface specifically, add the dedicated audit:
+
+```bash
+python scripts/practice_text_surface_report.py --strict
+```
+
+For the MN 137 / MN 148 sensory-response surface specifically, add the dedicated audit:
+
+```bash
+python scripts/sensory_response_surface_report.py --strict
+```
+
 For the four noble truths family specifically, add the dedicated audit:
 
 ```bash
@@ -65,6 +77,7 @@ python scripts/run_checks.py
 This runs tests, schema validation, editorial lint in strict mode, drift checks, coverage audit, and repository health reporting in sequence.
 
 It also runs the dedicated cluster audits, including the jhana, path-factor, four-noble-truths, sense-fields, and three-marks checks.
+It also runs the MN 10 / MN 118 practice-text surface audit and the MN 137 / MN 148 sensory-response audit.
 
 ## Check Documentation and Repository Surface
 
@@ -73,6 +86,16 @@ python scripts/check_docs_integrity.py
 ```
 
 Use this after editing Markdown, issue templates, or repository-surface metadata such as `CITATION.cff`.
+
+For outward-facing translation surfaces, also run:
+
+```bash
+python scripts/translation_surface_index.py --check
+python scripts/check_generated_docs.py
+```
+
+Use these after changing files in `docs/translations/`, cluster generators, or
+live term data that feeds `docs/generated/`.
 
 ## Audit Modern English Register
 
@@ -189,10 +212,18 @@ Regenerate the flat term indexes:
 python scripts/term_directory_navigation.py --write-docs
 ```
 
+Regenerate the translation surface index:
+
+```bash
+python scripts/translation_surface_index.py --write-docs
+```
+
 Regenerate a translator-facing cluster surface after cluster-level policy work:
 
 ```bash
 python scripts/path_factor_cluster_report.py --write-docs
+python scripts/practice_text_surface_report.py --write-docs
+python scripts/sensory_response_surface_report.py --write-docs
 python scripts/four_noble_truths_cluster_report.py --write-docs
 ```
 

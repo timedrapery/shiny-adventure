@@ -8,5 +8,5 @@
 | kāmogha | sensual flood | - | - |
 | kāmayoga | sensual yoke | sensual bond | - |
 | kāyagantha | bodily knot | knot tied to the body | - |
-| yogakkhema | security from the yoke | security from bondage | peace |
+| yogakkhema | security from the yoke | security from bondage | peace, safety, freedom |
 

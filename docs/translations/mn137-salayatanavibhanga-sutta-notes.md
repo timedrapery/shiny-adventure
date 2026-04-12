@@ -38,6 +38,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 
 - `manopavicāra` is rendered `mental exploration` so the line keeps active
   mental turning rather than drifting into mere thought-language.
+- The `gehasita` / `nekkhammasita` gladness, distress, and dynamic-balance
+  families now have dedicated upstream records so the category labels do not
+  remain note-local.
 - `tatra idaṁ nissāya idaṁ pajahatha` is now governed by an explicit phrase
   record and stays direct: `here, supported by this, give up that`.
 - The renunciation-side joy, distress, and dynamic-balance formulas are kept
@@ -84,9 +87,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- If more feeling-domain translations are added, the `gehasita` /
-  `nekkhammasita` family deserves dedicated upstream records rather than
-  remaining mostly translation-local.
+- The MN 137 / MN 148 sensory-response family is now covered by a dedicated
+  surface report. Extend that surface if more feeling-domain translations
+  begin reusing these same categories and response lines.
 - The `anodhijinassa avipākajinassa` line in the household dynamic-balance
   section deserves a stronger lexical decision if the same idiom recurs in a
   later text.

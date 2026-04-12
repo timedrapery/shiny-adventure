@@ -43,7 +43,12 @@ translation choices, source-audit calls, and edition notes that govern it.
   judged too flat for a line immediately followed by `vīriyaṁ ārabhatha`.
 - `so satova assasati satova passasati` is rendered `One breathes in
   remembering the Dhamma; one breathes out remembering the Dhamma` so the
-  breathing formula stays explicit on both sides.
+  breathing formula stays explicit on both sides. That shared breathing-side
+  line is now governed by a dedicated phrase record used to keep MN 10 and
+  MN 118 synchronized.
+- The whole-body and body-conditioner training lines are now governed by
+  dedicated shared phrase records rather than being kept aligned only through
+  translation notes and repeated local wording.
 - `nāhaṁ ... muṭṭhassatissa asampajānassa ānāpānassatiṁ vadāmi` is rendered so
   the line clearly excludes practice where remembering has slipped and clear
   knowing is absent.
@@ -116,9 +121,19 @@ translation choices, source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
+- If later texts begin to reuse more of the tetrad language directly, extend
+  the governed practice-text surface beyond the current shared control lines
+  rather than letting the rest remain translation-local.
 - Recheck the opening and assembly rhetoric for study-text cadence now that the
   central practice sections are stronger.
 - Recheck the fruit-and-benefit framing and the final knowledge-and-release
   close for equal clarity and force.
 - Keep any future terminology changes synchronized between the main translation
   and this note file.
+
+## Edition Status
+
+- This companion now supports the first stable study edition of the repo's
+  MN 118 translation surface.
+- Future revisions should be driven by source-audit gains, term-policy
+  expansion, or real readability improvements, not routine word swapping.
