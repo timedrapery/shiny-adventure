@@ -1,0 +1,50 @@
+{
+  "term": "vinodanā",
+  "normalized_term": "vinodana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "dispelling, driving out",
+  "preferred_translation": "dispelling",
+  "alternative_translations": [
+    "driving out",
+    "getting rid of"
+  ],
+  "discouraged_translations": [
+    "suppression",
+    "abandoning"
+  ],
+  "definition": "Dispelling or driving out an arisen unwholesome pattern, especially in the MN 2 outflow sequence.",
+  "notes": "In MN 2 this follows the arising of thoughts tied to sensuality, ill will, or harmfulness. Keep it as active clearing-away language. Do not let it disappear back into generic abandoning, because the sutta already uses the broader pahāna family for the whole sequence.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavā vinodanā pahātabbā",
+      "translation": "outflows are to be abandoned by dispelling",
+      "notes": "One member of the sevenfold MN 2 method sequence.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "uppannaṁ kāmavitakkaṁ vinodeti",
+      "translation": "one dispels an arisen sensual thought",
+      "notes": "Shows the active clearing-away force behind the noun.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'dispelling' as the default rendering in the MN 2 method-sequence context and nearby practice prose.",
+    "when_not_to_apply": "Use 'driving out' or 'getting rid of' only when the local prose clearly benefits. Do not flatten the term into unmarked abandoning-language or recast it as suppression.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps vinodanā distinct from generic pahāna language within the sevenfold outflow sequence."
+  },
+  "status": "reviewed"
+}

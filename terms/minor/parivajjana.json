@@ -1,0 +1,49 @@
+{
+  "term": "parivajjanā",
+  "normalized_term": "parivajjana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "avoiding, steering clear of",
+  "preferred_translation": "avoiding",
+  "alternative_translations": [
+    "steering clear of",
+    "keeping away from"
+  ],
+  "discouraged_translations": [
+    "fearful avoidance"
+  ],
+  "definition": "Avoiding or steering clear of dangerous conditions, especially in the MN 2 outflow sequence.",
+  "notes": "In MN 2 the term is practical and situational: one avoids a wild elephant, a dangerous road, bad company, or any condition likely to provoke trouble. Keep it as intelligent steering clear, not as timidity or abstract renunciation-language.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavā parivajjanā pahātabbā",
+      "translation": "outflows are to be abandoned by avoiding",
+      "notes": "One member of the sevenfold MN 2 method sequence.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "caṇḍaṁ hatthiṁ parivajjeti",
+      "translation": "one avoids a wild elephant",
+      "notes": "Shows the practical steering-clear sense behind the noun.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'avoiding' as the default rendering in the MN 2 method-sequence context.",
+    "when_not_to_apply": "Use 'steering clear of' or 'keeping away from' only when the local prose clearly benefits. Do not recast the term as fear-language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the MN 2 method practical and situational rather than timid, abstract, or merely rhetorical."
+  },
+  "status": "reviewed"
+}

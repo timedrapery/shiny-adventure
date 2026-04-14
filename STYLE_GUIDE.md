@@ -108,9 +108,10 @@ Current repository tendencies include:
 - `dukkha` -> `dissatisfaction` by default, with approved alternates where documented
 - `taṇhā` -> `ignorant wanting`
 - `sati` -> `remembering`
-- `samādhi` -> `unification of mind`
+- `samādhi` -> `mental composure`
 - `sammā-sati` -> `right remembering`
-- `sammā-samādhi` -> `right unification of mind`
+- `sammā-samādhi` -> `right mental composure`
+- `jhāna` -> `mental theme`
 - `mettā` -> `friendliness`
 - `bhāvanā` -> `development`
 - `bodhi` -> `awakening`
