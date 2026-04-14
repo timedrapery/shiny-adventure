@@ -84,11 +84,13 @@ source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- If MN 1 becomes a wider control passage for selfing and appropriation work,
-  consider a small translator-facing note on the relation between `maññati`,
-  `asmimāna`, `upādāna`, and `papañca`.
+- The linked
+  [MN 1 / MN 18 / MN 148 surface brief](../mn1-mn18-mn148-linked-surface-brief.md)
+  now gives a translator-facing control note on `maññati`, `papañca`,
+  `upādāna`, and related selfing pressure. If MN 1 becomes a wider control
+  passage later, expand that brief into a fuller term-family note.
 - Use the now-stabilized `sañjānāti` / `abhijānāti` / `maññati` pattern as a
-  direct support surface for the planned MN 18 pass.
+  direct support surface for MN 18 and the linked brief.
 
 ## Edition Status
 

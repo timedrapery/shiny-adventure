@@ -99,11 +99,14 @@ source-audit calls, and edition notes that govern it.
 - If MN 18 becomes a wider control passage for sense-process and proliferation
   work, consider adding governed records for the `paññatti` family rather than
   leaving that terminology document-local.
-- Consider a small translator-facing note on the relation between
-  `papañca`, `maññati`, `upādāna`, and `asmimāna` once MN 18 and MN 1 are read
-  as a paired control surface.
-- Use this stabilized MN 18 surface as a direct lead-in to the planned MN 148
-  pass, where `phassa`, `vedanā`, and the six fields become even more explicit.
+- The linked
+  [MN 1 / MN 18 / MN 148 surface brief](../mn1-mn18-mn148-linked-surface-brief.md)
+  now makes the `papañca` / `maññati` / `upādāna` surface explicit. If the
+  family needs finer term-by-term explanation later, expand that brief rather
+  than re-solving it locally.
+- Use this stabilized MN 18 surface as a direct lead-in to MN 148 and the
+  linked brief, where `phassa`, `vedanā`, and the six fields become even more
+  explicit.
 
 ## Edition Status
 
