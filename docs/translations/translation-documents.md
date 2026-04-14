@@ -66,3 +66,8 @@ Current MN 148 surfaces:
 
 - [mn148-chachakka-sutta.md](mn148-chachakka-sutta.md): main shareable translation text
 - [mn148-chachakka-sutta-notes.md](mn148-chachakka-sutta-notes.md): companion translator notes and rationale
+
+Current SN 22.59 surfaces:
+
+- [sn22-59-anattalakkhana-sutta.md](sn22-59-anattalakkhana-sutta.md): main shareable translation text
+- [sn22-59-anattalakkhana-sutta-notes.md](sn22-59-anattalakkhana-sutta-notes.md): companion translator notes and rationale
