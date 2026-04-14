@@ -5,14 +5,19 @@
   "part_of_speech": "noun",
   "literal_meaning": "mark, sign, appearance",
   "preferred_translation": "sign",
-  "definition": "A sign, mark, or appearance taken as meaningful or operative.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "definition": "A sign, mark, or appearance taken up as meaningful, perceptible, or operative.",
+  "notes": "Keep sign as the default for the bare term. Use mark or appearance only when the local syntax genuinely needs it, and do not import later scholastic meditation-object language into the unmarked headword.",
   "tags": [
-    "core-doctrine"
+    "core-doctrine",
+    "translation-sensitive"
   ],
-  "status": "draft",
+  "status": "reviewed",
   "alternative_translations": [
     "mark",
     "appearance"
+  ],
+  "discouraged_translations": [
+    "mental image",
+    "meditation object"
   ]
 }

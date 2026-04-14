@@ -2,138 +2,131 @@
 
 ## Purpose
 
-This document defines the next development phase for **shiny-adventure** as a
-translation-working repository rather than only a term archive.
+This document defines the current working phase for **shiny-adventure** now
+that the repository already functions as a translation-working system rather
+than only a term archive.
 
-The repo already contains many term files, a schema, and validation tools. The
-next task is to shape those assets into a coherent translation system that can
-be used directly while translating texts.
+The repo now has governed major-entry coverage, cluster audits, generated
+translator-facing outputs, and verified translation surfaces. The active task
+is to extend those assets deliberately while keeping them synchronized.
 
 ## Immediate Goal
 
-Build the repository around **translation-ready doctrinal clusters** rather
-than around isolated headwords.
+Move from foundational cluster buildout to **translation-surface expansion and
+maintenance**.
 
-That means each important term should be usable in four layers:
+That means each covered doctrinal area should stay usable in four layers:
 
 1. as a headword
-2. as part of compounds
-3. as part of canonical formulas
-4. as part of a governed doctrinal cluster
+2. as part of compounds and supporting entries
+3. as part of canonical formulas or control lines
+4. as part of live translation documents and generated reference outputs
 
 ## Strategic Priorities
 
-### 1. Stabilize the editorial model
+### 1. Expand translation-facing text surfaces
 
-The first requirement is a clear editorial rule for:
+The repository already has enough policy to support more governed translation
+work directly.
 
-- headword entries
-- compound entries
-- formula entries
-- when compounds inherit the headword default
-- when a formula may override the headword default
+The next gains should come from:
 
-This is the foundation for translation consistency.
+- extending `docs/translations/` where cluster policy is already in place
+- treating note files and control lines as first-class editorial surfaces
+- using translation work to reveal where supporting entries still need refinement
 
-### 2. Build doctrinal clusters instead of editing randomly
+### 2. Keep generated outputs and navigation current
 
-The repo should now prioritize coherent clusters over scattered file growth.
+The generated browsing and translator-facing layers are now part of the normal
+working surface.
 
-The first clusters to stabilize should be:
+That means:
 
-- dependent arising
-- five aggregates
-- six sense bases
-- four noble truths
-- three marks
-- path factors
+- refresh generated docs and translation indexes whenever upstream term data changes
+- prefer fixing live data or generators rather than hand-editing derived outputs
+- keep navigation and reference layers trustworthy for contributors and translators
 
-### 3. Treat formulas as first-class translation objects
+### 3. Continue controlled lexicon expansion
 
-Many translation decisions only become clear in recurring canonical phrases.
+Expansion is still useful, but it should now follow the system already in
+place.
 
-The repo should therefore support not only:
+The next additions should:
 
-- `saṅkhāra`
-- `saṅkhāra-paccaya`
-- `saṅkhāra-nirodha`
+- come in coherent 20 to 40 term family batches
+- prioritize terms that unlock real translation work
+- strengthen live doctrinal clusters instead of isolated dictionary growth
 
-but also formula lines such as:
+### 4. Keep planning docs honest
 
-- `avijjāpaccayā saṅkhārā`
-- `aniccā sabbe saṅkhārā`
-- other recurring formula segments as they become editorially important
+Planning and review docs should now track actual repository state rather than
+stale expected work.
 
-### 4. Tighten propagation from major entries to related entries
+That means:
 
-When a major entry changes, related compounds and formula records should be
-reviewed in the same pass.
+- refresh README priorities when major queues empty or focus changes
+- update review snapshots when counts or structure change materially
+- treat stale roadmap language as a maintenance issue, not harmless drift
 
-The repo should stop allowing a major term to change while leaving nearby
-entries with stale language.
+### 5. Maintain the reviewed supporting surface
 
-### 5. Improve translation-facing outputs
+The draft-clearance phase is complete, but supporting entries still need
+editorial attention when live translation work exposes pressure.
 
-The term files are structured enough to support translator-facing artifacts.
+That means:
 
-Future tooling should generate:
-
-- doctrinal cluster glossaries
-- formula sheets
-- quick-reference term briefs
-- consistency reports for related term families
+- refine reviewed minor records when a translation surface shows ambiguity or drift risk
+- revise families together rather than making isolated synonym swaps
+- let real text work, not abstract completeness goals, decide when a minor entry needs more rule surface
 
 ## Operating Sequence
 
 Use this order when improving the repository:
 
-1. define policy
-2. stabilize one doctrinal cluster
-3. add validation rules that protect that cluster
-4. generate translator-facing outputs from the structured data
-5. repeat with the next cluster
+1. choose a family or translation surface with active pressure
+2. review the governing major entries plus affected supporting entries together
+3. update translation docs or generated outputs affected by the change
+4. run targeted checks and then full verification
+5. refresh planning or review docs if the repository state materially changed
 
-## First Working Cluster
+## Current Working Surface
 
-The first full pilot should be **dependent arising**.
+The foundational cluster-buildout milestone is largely complete.
 
-That cluster should include:
+The live lexicon currently has no draft major or minor entries.
 
-- nidāna headwords
-- `-paccaya` entries
-- `-nirodha` entries
-- major formula examples
-- cross-links between the related terms
+Current governed surfaces already include:
 
-The target is not merely correctness per file. The target is that the whole
-cluster reads in one voice and can guide an actual translation session.
+- dependent arising
+- five heaps
+- six sense fields
+- four noble truths
+- three marks
+- path factors
+- practice-text control surfaces
+- sensory-response control surfaces
 
 ## Concrete Next Tasks
 
-### Phase 1: Policy
+### Phase 1: Translation Surface Expansion
 
-- Add headword / compound / formula rules to project documentation.
-- Define inheritance and override behavior for related entries.
-- Add a short translator workflow to the main project docs.
+- Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
+- Add or refine note surfaces when a translation document exposes missing control language.
 
-### Phase 2: Dependent-Arising Audit
+### Phase 2: Maintenance And Freshness
 
-- Review every nidāna entry as a family.
-- Review all related `-paccaya` and `-nirodha` entries.
-- Add or strengthen formula examples for the standard chain.
-- Normalize cross-references and discouraged renderings.
+- Keep `README.md`, `docs/repository-review-2026-03.md`, and generated indexes aligned with the actual repository state.
+- Regenerate derived docs whenever upstream term data changes.
 
-### Phase 3: Tooling
+### Phase 3: Controlled Expansion
 
-- Add a validation check for stale discouraged renderings in related files.
-- Add a validation check for mojibake and broken diacritics.
-- Add a cluster audit report for doctrinal families.
+- Keep using `docs/lexicon-expansion-plan-500.md` as the intake plan for the next family batches.
+- Prefer additions that strengthen a live doctrinal cluster or translation surface.
 
-### Phase 4: Translator Outputs
+### Phase 4: Targeted Supporting-Term Refinement
 
-- Generate a dependent-arising cluster glossary.
-- Generate a formula sheet for recurring chain lines.
-- Generate concise term briefs for major entries.
+- Revise reviewed minor entries when live translation or note work reveals ambiguity that the current note surface does not control well enough.
+- Prefer updating a full local family or surface together rather than reopening scattered entries one by one.
 
 ## Editorial Standard Going Forward
 
@@ -160,4 +153,4 @@ identify the relevant doctrinal cluster, and receive:
 - the formula-specific overrides
 - the related term family needed to keep the passage coherent
 
-That is the next real milestone for **shiny-adventure**.
+That is the working standard for **shiny-adventure** now.

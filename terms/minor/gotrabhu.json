@@ -5,10 +5,15 @@
   "part_of_speech": "noun",
   "literal_meaning": "someone who has become of a new lineage",
   "preferred_translation": "lineage-shift",
-  "definition": "A shift of lineage or standing in awakening analysis.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "alternative_translations": [
+    "change of lineage"
   ],
-  "status": "draft"
+  "definition": "A shift of lineage or standing in progressive awakening analysis.",
+  "notes": "Use this headword for the lineage-shift language behind gotrabhu-nana. Keep the term narrow and technical; do not flatten it into ordinary family-lineage or identity-language.",
+  "tags": [
+    "core-doctrine",
+    "meditative-development",
+    "liberation"
+  ],
+  "status": "reviewed"
 }

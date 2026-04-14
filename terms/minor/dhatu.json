@@ -5,12 +5,12 @@
   "part_of_speech": "noun",
   "literal_meaning": "element, property",
   "preferred_translation": "element",
-  "definition": "An element, property, domain, or basic constituent depending on context.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "definition": "An element, constituent property, or domain, depending on context.",
+  "notes": "Keep element as the house default. Property or domain remain controlled alternates when the passage points to a field or basis rather than a material constituent. Do not import heavier later scholastic system-talk where the early-text function is simply analytical or descriptive.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft",
+  "status": "reviewed",
   "alternative_translations": [
     "property",
     "domain"

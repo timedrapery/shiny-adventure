@@ -5,10 +5,16 @@
   "part_of_speech": "noun",
   "literal_meaning": "active constructing",
   "preferred_translation": "active constructing",
-  "definition": "Intensive or charged constructing activity.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "definition": "Intensive or charged constructing activity in the wider sankhara family.",
+  "notes": "Use this record for the intensified or specially charged constructing side of the sankhara family. Keep the constructive process audible and do not collapse the term into generic mental-formation jargon.",
+  "related_terms": [
+    "apunnabhisankhara",
+    "punnabhisankhara",
+    "anenjabhisankhara"
   ],
-  "status": "draft"
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
 }

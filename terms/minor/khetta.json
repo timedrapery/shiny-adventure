@@ -6,9 +6,9 @@
   "literal_meaning": "field",
   "preferred_translation": "field",
   "definition": "A field, ground, or sphere of development or benefit depending on context.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "notes": "Keep field as the default. Ground or sphere can work when the passage is about cultivated range or scope, but compounds such as punnakkhetta should stay coordinated with the governed headword policy rather than slipping into churchy merit-language.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft"
+  "status": "reviewed"
 }

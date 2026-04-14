@@ -5,10 +5,15 @@
   "part_of_speech": "compound",
   "literal_meaning": "release by that factor",
   "preferred_translation": "release by opposition",
-  "definition": "A release or escape by means of an opposing factor or temporary displacement.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
-  "tags": [
-    "liberation"
+  "alternative_translations": [
+    "release by means of opposition"
   ],
-  "status": "draft"
+  "definition": "A release secured through an opposing factor rather than named as the final wearing away of the underlying tendency.",
+  "notes": "Keep this compound inside the vimutti family and treat it as a narrower technical release label. Do not inflate it into final release, generic freedom-language, or a metaphysical endpoint.",
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
 }

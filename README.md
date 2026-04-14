@@ -179,12 +179,14 @@ navigation rather than adding subfolders.
 
 ## Current Priorities
 
-Current work is focused on keeping the repository coherent as it grows: clearer onboarding, sharper workflow indexing, disciplined review of draft major entries, and continued maintenance of translation-policy quality.
+The live lexicon no longer has a draft major or minor queue. Current work is focused on expanding translation-facing text surfaces around already-governed clusters, refining supporting entries when live translation exposes pressure, and keeping generated and documentation surfaces synchronized with the live dataset.
 
-Current review-queue and workflow surface tools include:
+Current maintenance and workflow surface tools include:
 
-- `python scripts/draft_major_review_queue.py`
 - `python scripts/check_docs_integrity.py`
+- `python scripts/check_generated_docs.py`
+- `python scripts/translation_surface_index.py --check`
+- `python scripts/run_checks.py`
 
 Planning notes live in [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) and the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 

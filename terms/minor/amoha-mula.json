@@ -4,12 +4,20 @@
   "entry_type": "minor",
   "part_of_speech": "adjective",
   "literal_meaning": "rooted in non-delusion",
-  "preferred_translation": "rooted in non-delusion",
-  "definition": "Describing a state, intention, or action as having non-delusion as its root.",
-  "status": "draft",
+  "preferred_translation": "rooted in clarity",
+  "alternative_translations": [
+    "rooted in non-delusion"
+  ],
+  "definition": "Describing a state, intention, or action as having clarity as its root in the wholesome-root analysis.",
+  "notes": "Use this record in wholesome-root classification contexts such as MN 9. The project prefers 'rooted in clarity' to stay aligned with the stable amoha entry, while 'rooted in non-delusion' remains acceptable when explicit lexical symmetry with moha matters.",
+  "related_terms": [
+    "moha-mula"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
-    "mental-qualities"
+    "mental-qualities",
+    "causality"
   ],
   "sutta_references": [
     "MN 9"

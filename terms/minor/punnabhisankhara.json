@@ -5,10 +5,15 @@
   "part_of_speech": "compound",
   "literal_meaning": "merit constructing",
   "preferred_translation": "benefit-producing constructing",
-  "definition": "Constructing activity rooted in benefit-producing action.",
-  "notes": "Keep the rendering aligned with the current puñña policy and avoid later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "definition": "Constructing activity rooted in benefit within the abhisankhara family.",
+  "notes": "Keep this compound aligned with the repository's stable punna default 'benefit' and with the broader abhisankhara family. Do not revert to transactional merit-language unless a narrower context explicitly requires it.",
+  "related_terms": [
+    "abhisankhara"
   ],
-  "status": "draft"
+  "tags": [
+    "core-doctrine",
+    "dependent-origination",
+    "causality"
+  ],
+  "status": "reviewed"
 }

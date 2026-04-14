@@ -5,11 +5,16 @@
   "part_of_speech": "adjective",
   "literal_meaning": "rooted in delusion",
   "preferred_translation": "rooted in delusion",
-  "definition": "Describing a state, intention, or action as having delusion as its root.",
-  "status": "draft",
+  "definition": "Describing a state, intention, or action as having delusion as its root in the unwholesome-root analysis.",
+  "notes": "Use this record in root-classification contexts such as MN 9. Keep the compound aligned with the project's stable moha default 'delusion' and do not collapse it into avijja-style ignorance language.",
+  "related_terms": [
+    "amoha-mula"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
-    "mental-qualities"
+    "mental-qualities",
+    "causality"
   ],
   "sutta_references": [
     "MN 9"

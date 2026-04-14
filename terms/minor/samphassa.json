@@ -5,14 +5,32 @@
   "part_of_speech": "noun",
   "literal_meaning": "felt contact, conjunction",
   "preferred_translation": "contact-event",
-  "definition": "The conjunctional contact-event of a sense process.",
-  "notes": "Use practical meditative language. Avoid later-system jargon unless the term itself clearly requires technical treatment.",
-  "tags": [
-    "core-practice",
-    "meditative-development"
+  "definition": "The contact-event as it comes together in a specific sense process.",
+  "notes": "Use this supporting record when the contact event is named with the conjunctive sam- form or when the family behind the six sense-door contact compounds needs a shared label. Keep it aligned with the governing phassa entry and distinct from the feeling that follows.",
+  "example_phrases": [
+    {
+      "pali": "cakkhusamphasso",
+      "translation": "eye-contact",
+      "notes": "Shows the contact-event in a specific sense-door compound.",
+      "source": "MN 148"
+    },
+    {
+      "pali": "manosamphasso",
+      "translation": "mind-contact",
+      "notes": "Shows the same contact-event at the mind-field interface.",
+      "source": "MN 148"
+    }
   ],
-  "status": "draft",
+  "tags": [
+    "core-doctrine",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
   "alternative_translations": [
     "contact"
+  ],
+  "sutta_references": [
+    "MN 148"
   ]
 }
