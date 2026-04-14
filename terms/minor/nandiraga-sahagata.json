@@ -13,7 +13,7 @@
     "accompanied by pleasure"
   ],
   "definition": "A stock phrase that coordinates nandī and rāga in the classic definition of taṇhā.",
-  "notes": "Use this record when the phrase appears as a whole. Keep nandī and rāga distinct in English rather than collapsing both into one generic word such as craving or desire.",
+  "notes": "Use this record when the phrase appears as a whole. Keep nandī and rāga distinct in English rather than collapsing both into one generic word such as craving or desire. In the stock taṇhā definition line this phrase sits between the renewed-becoming opening and the delighting-here-and-there tail, so it should remain audible as a coordinated middle segment rather than as a vague intensifier.",
   "related_terms": [
     "nandi",
     "raga",
@@ -36,5 +36,11 @@
     "formula",
     "translation-sensitive"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English middle segment of the classic taṇhā-definition line unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not collapse nandī and rāga into one English word such as craving, desire, or pleasure.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the coordinated relishing-and-passion pair audible inside the stock taṇhā definition formula."
+  },
   "status": "stable"
 }

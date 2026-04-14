@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 871
+- Entries: 872
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -827,6 +827,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [tanhapaccaya-upadana](../../terms/minor/tanhapaccaya-upadana.json) | taṇhāpaccayā upādānaṃ | with ignorant wanting as condition, taking personally | stable | dependent-origination, causality, translation-sensitive |
 | [tathata](../../terms/minor/tathata.json) | tathatā | suchness | reviewed | core-doctrine, translation-sensitive |
 | [tatiya-jhana](../../terms/minor/tatiya-jhana.json) | tatiya-jhāna | third mental theme | reviewed | meditative-development, jhana-factors |
+| [tatratatrabhinandini](../../terms/minor/tatratatrabhinandini.json) | tatratatrābhinandinī | delighting here and there | reviewed | four-noble-truths, formula, translation-sensitive |
 | [tejo-dhatu](../../terms/minor/tejo-dhatu.json) | tejo-dhatu | fire element | reviewed | embodiment, core-doctrine |
 | [tejo-kasina](../../terms/minor/tejo-kasina.json) | tejo-kasiṇa | fire kasina | reviewed | meditative-development |
 | [tejo](../../terms/minor/tejo.json) | tejo | fire | reviewed | embodiment, core-doctrine |
