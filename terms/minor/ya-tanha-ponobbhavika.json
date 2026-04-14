@@ -12,12 +12,13 @@
     "that desire that causes rebirth"
   ],
   "definition": "Opening segment of the classic four-truth definition of taṇhā.",
-  "notes": "Use this record when the stock formula is translated as a unit. Keep taṇhā distinct from generic desire-language and preserve the renewed-becoming force of ponobbhavikā.",
+  "notes": "Use this record when the stock formula is translated as a unit. Keep taṇhā distinct from generic desire-language, preserve the renewed-becoming force of ponobbhavikā, and keep the opening segment coordinated with the following formula members nandirāgasahagatā and tatratatrābhinandinī.",
   "related_terms": [
     "nandi",
     "nandiraga-sahagata",
     "samudaya",
-    "tanha"
+    "tanha",
+    "tatratatrabhinandini"
   ],
   "example_phrases": [
     {
@@ -35,5 +36,11 @@
     "formula",
     "translation-sensitive"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English opening for the classic taṇhā-definition line unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not flatten ponobbhavikā into generic rebirth-language or recast taṇhā as mere desire.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the opening formula segment aligned with the governed taṇhā family and with renewed-becoming language rather than generic desire or rebirth wording."
+  },
   "status": "reviewed"
 }

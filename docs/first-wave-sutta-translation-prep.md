@@ -53,6 +53,7 @@ for the short queue.
   `taṇhā`, `upādāna`, and `pañcupādānakkhandhā`.
 - Consult:
   [generated/four-noble-truths-truth-task-sheet.md](generated/four-noble-truths-truth-task-sheet.md)
+  [tanha-origin-formula-sheet.md](tanha-origin-formula-sheet.md)
   and
   [generated/four-noble-truths-cluster-glossary.md](generated/four-noble-truths-cluster-glossary.md).
 - Watch for: the truth-task sequence, the `taṇhā` definition formula, and the

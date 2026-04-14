@@ -95,6 +95,7 @@ do not override live term records or normative policy docs.
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short first-wave queue extracted from the full roadmap
 - [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for the current first-wave translation queue
 - [`asava-method-sequence-sheet.md`](asava-method-sequence-sheet.md): control sheet for the `MN 2` outflow-method sequence
+- [`tanha-origin-formula-sheet.md`](tanha-origin-formula-sheet.md): control sheet for the `SN 56.11` taṇhā-definition line
 - [`generated/next-sutta-priority-table.md`](generated/next-sutta-priority-table.md): compact audit snapshot of rank, citation density, and cluster pressure
 - [`mn1-mn18-mn148-linked-surface-brief.md`](mn1-mn18-mn148-linked-surface-brief.md): linked control brief for recognition, proliferation, selfing, taking personally, identity, and de-appropriation across MN 1, MN 18, and MN 148
 - [`practice-text-surface-map.md`](practice-text-surface-map.md): shared MN 10 / MN 118 practice control lines

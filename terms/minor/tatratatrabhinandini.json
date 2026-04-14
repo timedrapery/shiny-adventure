@@ -1,0 +1,43 @@
+{
+  "term": "tatratatrābhinandinī",
+  "normalized_term": "tatratatrabhinandini",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "delighting here and there",
+  "preferred_translation": "delighting here and there",
+  "alternative_translations": [
+    "taking delight here and there"
+  ],
+  "discouraged_translations": [
+    "attached to this and that",
+    "enjoying everything"
+  ],
+  "definition": "Closing segment of the classic four-truth definition of taṇhā, showing its recurrent delighting in this and that.",
+  "notes": "Use this record for the final segment of the classic taṇhā-definition line. Keep the phrase as active delighting language that shows wanting re-catching here and there rather than as a neutral movement, generic enjoyment, or abstract attachment label.",
+  "related_terms": [
+    "ya-tanha-ponobbhavika"
+  ],
+  "example_phrases": [
+    {
+      "pali": "yāyaṃ taṇhā ponobbhavikā nandirāgasahagatā tatratatrābhinandinī",
+      "translation": "that ignorant wanting that leads to renewed becoming, accompanied by relishing and passion, delighting here and there",
+      "notes": "Classic four-truth definition line. Keep the tail coordinated with the opening and middle segments.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "tags": [
+    "four-noble-truths",
+    "formula",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English tail segment of the classic taṇhā-definition line unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not flatten the phrase into generic attachment-language or abstract enjoyment-language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the delighting-here-and-there tail audible as a distinct part of the stock taṇhā definition formula."
+  },
+  "status": "reviewed"
+}
