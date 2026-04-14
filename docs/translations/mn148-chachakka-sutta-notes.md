@@ -111,8 +111,9 @@ source-audit calls, and edition notes that govern it.
   consider promoting those terms to rule-bearing major entries rather than
   relying on formula inheritance and local notes.
 - MN 148, MN 18, and MN 1 now form a strong linked surface for sense process,
-  proliferation, selfing, and de-appropriation. A future translator-facing
-  brief could make that triad explicit.
+  proliferation, selfing, and de-appropriation. That linked surface is now
+  summarized in the
+  [MN 1 / MN 18 / MN 148 surface brief](../mn1-mn18-mn148-linked-surface-brief.md).
 
 ## Edition Status
 
