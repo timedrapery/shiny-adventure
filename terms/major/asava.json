@@ -18,7 +18,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A deep outflow that keeps contamination, bondage, and continued becoming running on.",
-  "notes": "The project keeps outflow as the default because it preserves the running-on and leaking image without importing archaic medical language. Taint and effluent remain controlled alternates when the contaminating side needs to be made more audible, but āsava should not collapse into generic defilement. In this repository, āsava belongs to the residue-and-bondage family as a deeper corruptive outflow, not to the actively obstructive nīvaraṇa layer, the latent anusaya layer, or the binding saṃyojana layer. Liberation formulas around āsavānaṃ khayā and āsavakkhaya should stay coordinated with this headword and should not rotate ad hoc among outflow, taint, effluent, and generic corruption language. The same policy extends by default into the named āsava compounds such as kāmāsava, bhavāsava, diṭṭhāsava, and avijjāsava unless a compound record documents a narrower override. The OSF glossary supports keeping outflow as the house default, and MN 2 and MN 36 support the standard release framing through the wearing away of the outflows.",
+  "notes": "The project keeps outflow as the default because it preserves the running-on and leaking image without importing archaic medical language. Taint and effluent remain controlled alternates when the contaminating side needs to be made more audible, but āsava should not collapse into generic defilement. In this repository, āsava belongs to the residue-and-bondage family as a deeper corruptive outflow, not to the actively obstructive nīvaraṇa layer, the latent anusaya layer, or the binding saṃyojana layer. Liberation formulas around āsavānaṃ khayā and āsavakkhaya should stay coordinated with this headword and should not rotate ad hoc among outflow, taint, effluent, and generic corruption language. The same policy extends by default into the named āsava compounds such as kāmāsava, bhavāsava, diṭṭhāsava, and avijjāsava unless a compound record documents a narrower override. MN 2 also requires the outflow family to stay coordinated with yoniso manasikāra and ayoniso manasikāra, and with the sevenfold method sequence where outflows are abandoned by seeing, restraint, using, enduring, avoiding, dispelling, and developing. Those local method nouns should stay explicit rather than being flattened back into one vague removal term. The OSF glossary supports keeping outflow as the house default, and MN 2 and MN 36 support the standard release framing through the wearing away of the outflows.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -42,11 +42,13 @@
     }
   ],
   "related_terms": [
+    "adhivasana",
     "anusaya",
     "arahant",
     "asavanam-khaya",
     "asavakkhaya",
     "asankhata",
+    "ayoniso-manasikara",
     "avijja",
     "avijjasava",
     "bhavasava",
@@ -58,10 +60,14 @@
     "nivarana",
     "ogha",
     "pahana",
+    "parivajjana",
+    "patisevana",
     "samyojana",
     "viraga",
     "vimutti",
+    "vinodana",
     "vossagga",
+    "yoniso-manasikara",
     "yoga"
   ],
   "example_phrases": [
@@ -111,8 +117,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'outflow' as the default rendering in the entry's governed doctrinal and liberation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'taint' or 'effluent' only when the explanatory context clearly needs them. Do not flatten āsava into generic defilement or rotate among inherited English glosses inside one formula-family.",
+    "when_not_to_apply": "Use 'taint' or 'effluent' only when the explanatory context clearly needs them. Do not flatten āsava into generic defilement, and do not flatten the MN 2 method sequence back into one vague removal term.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents drift between outflow-language, generic defilement-language, and older canker or fermentation renderings that obscure the repository's residue-family distinctions."
+    "drift_risk": "Prevents drift between outflow-language, generic defilement-language, and older canker or fermentation renderings, while also keeping the MN 2 method sequence from collapsing into unmarked generic removal language."
   }
 }

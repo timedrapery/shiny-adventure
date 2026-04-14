@@ -10,11 +10,12 @@
     "appropriate attention"
   ],
   "discouraged_translations": [
-    "reflection"
+    "reflection",
+    "rational application of mind"
   ],
   "untranslated_preferred": false,
   "definition": "A mode of attention that considers experience in a way conducive to understanding and freedom rather than confusion.",
-  "notes": "The project prefers wise attention because it is readable and established without sounding overly technical. Careful attention and appropriate attention can work in explanatory prose, but reflection is too broad and does not capture the attentional function clearly enough. The term should be heard as an active way of directing attention that supports discernment, not just as general thoughtfulness. Ven. Dr. M. Punnaji's introspective reading of meditation reinforces the practical importance of wise attention, especially where attention is withdrawn from external preoccupation and directed inwardly in a clarifying way.",
+  "notes": "The project prefers wise attention because it is readable and established without sounding overly technical. Careful attention and appropriate attention can work in explanatory prose, but reflection is too broad and does not capture the attentional function clearly enough. In this repository, yoniso manasikāra is not just a compliment about being thoughtful. MN 2 makes it the positive side of the opening contrast that blocks and abandons outflows, and SN 46.51 extends it into repeated formulas where frequent wise attention starves the hindrances and feeds the awakening factors. Keep the term as a governed mode of attending, not as rationalist slogan language or generic reflective thinking. Ven. Dr. M. Punnaji's introspective reading of meditation reinforces the practical importance of wise attention, especially where attention is withdrawn from external preoccupation and directed inwardly in a clarifying way.",
   "context_rules": [
     {
       "context": "In most practical and doctrinal contexts",
@@ -32,13 +33,14 @@
       "notes": "Use when it helps prevent a moralizing tone."
     },
     {
-      "context": "When the passage highlights the attention that undermines distractions and supports clear seeing",
+      "context": "When the passage highlights the attention that undermines distractions and supports clear seeing, including the repeated bahulīkāra formulas",
       "rendering": "wise attention",
-      "notes": "Keep the term practical and path-oriented."
+      "notes": "Keep the term practical and path-oriented, and do not swap it into rational-application language by default."
     }
   ],
   "related_terms": [
     "appamāda",
+    "asava",
     "ayoniso-manasikara",
     "dhammavicaya",
     "manasikara",
@@ -57,10 +59,10 @@
       "source": "MN 2"
     },
     {
-      "pali": "ayoniso manasikāra",
-      "translation": "unwise attention",
-      "notes": "Shows a contrastive pair.",
-      "source": "MN 2"
+      "pali": "yonisomanasikārabahulīkāro",
+      "translation": "repeated wise attention",
+      "notes": "Shows the feeding-side formula used with awakening factors and the starving-side formula used with hindrances.",
+      "source": "SN 46.51"
     }
   ],
   "sutta_references": [
@@ -75,6 +77,16 @@
   "status": "stable",
   "authority_basis": [
     {
+      "source": "MN 2",
+      "kind": "context-rule",
+      "scope": "Supports the term's role in blocking and abandoning outflows at the opening of the āsava sequence."
+    },
+    {
+      "source": "SN 46.51",
+      "kind": "context-rule",
+      "scope": "Supports the repeated feeding and starving formulas built around wise attention."
+    },
+    {
       "source": "Punnaji",
       "priority": "external",
       "kind": "rationale",
@@ -83,8 +95,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'wise attention' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use controlled alternates only where the local prose clearly benefits. Do not rotate into reflection-language or rational-application language unless a named source-comparison context explicitly requires it.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'reflection' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward reflection-language, rational-application language, or other unrecorded alternates inside the wise/unwise attention pair."
   }
 }

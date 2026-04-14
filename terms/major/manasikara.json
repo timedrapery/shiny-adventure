@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The act of directing the mind toward something; attention as an operative mental factor.",
-  "notes": "The project prefers attention because it is direct and contemporary, and because the term should not be collapsed into sati. Attending is acceptable where the English sentence benefits from a more active verbal-noun feel. The term should be heard as an operative mental directing-toward, which is why the wise and unwise forms matter so much in practice. This entry also aligns with Ven. Dr. M. Punnaji's broader attention-centered reading of meditation, where attention is treated as an operative mental directing-toward rather than as a synonym for sati.",
+  "notes": "The project prefers attention because it is direct and contemporary, and because the term should not be collapsed into sati. Attending is acceptable where the English sentence benefits from a more active verbal-noun feel. In this repository, manasikāra is the operative factor behind both yoniso manasikāra and ayoniso manasikāra. MN 2 makes that pair explicit at the entry point to the āsava sequence, and SN 46.51 extends the same factor into repeated feeding and starving formulas for the hindrances and awakening factors. That means the headword should stay as practical directing-of-mind language rather than drifting into mindfulness, reflection, or vague thought-language. This entry also aligns with Ven. Dr. M. Punnaji's broader attention-centered reading of meditation, where attention is treated as an operative mental directing-toward rather than as a synonym for sati.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -26,9 +26,9 @@
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
-      "context": "When the passage is analyzing the mental factor that can be directed wisely or unwisely",
+      "context": "When the passage is analyzing the mental factor that can be directed wisely or unwisely, or what should and should not be attended to",
       "rendering": "attention",
-      "notes": "Keep the operative function of the factor explicit."
+      "notes": "Keep the operative function of the factor explicit and do not let the term drift into mindfulness or generic reflection."
     }
   ],
   "related_terms": [
@@ -41,6 +41,12 @@
     "yoniso-manasikara"
   ],
   "example_phrases": [
+    {
+      "pali": "manasikaraṇīye dhamme",
+      "translation": "things that should be attended to",
+      "notes": "Shows the practical sorting frame around what should and should not be attended to.",
+      "source": "MN 2"
+    },
     {
       "pali": "manasikātabbaṃ",
       "translation": "it should be attended to",
@@ -55,7 +61,8 @@
     }
   ],
   "sutta_references": [
-    "MN 2"
+    "MN 2",
+    "SN 46.51"
   ],
   "tags": [
     "core-doctrine",
@@ -65,6 +72,16 @@
   "status": "stable",
   "authority_basis": [
     {
+      "source": "MN 2",
+      "kind": "context-rule",
+      "scope": "Supports the contrast between what should and should not be attended to and the wise/unwise attention pair."
+    },
+    {
+      "source": "SN 46.51",
+      "kind": "context-rule",
+      "scope": "Supports the term's role in repeated hindrance and awakening-factor feeding formulas."
+    },
+    {
       "source": "Punnaji",
       "priority": "external",
       "kind": "rationale",
@@ -73,8 +90,8 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'attention' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "when_not_to_apply": "Use 'attending' only when local prose clearly benefits. Do not rotate into mindfulness, reflection, or generic thought-language without an explicitly documented reason.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'mindfulness' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward mindfulness, reflection, or generic thought-language across the wise/unwise attention family."
   }
 }

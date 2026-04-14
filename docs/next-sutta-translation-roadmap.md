@@ -30,6 +30,11 @@ Use that full roadmap as the source of truth for:
 
 ## Operating Note
 
+Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md)
+as the operational prep packet for this queue, and use
+[asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when working
+`MN 2`.
+
 For each of these texts:
 
 1. review the governing headwords, compounds, and formula records together

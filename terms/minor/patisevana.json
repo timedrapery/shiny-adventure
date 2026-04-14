@@ -1,0 +1,49 @@
+{
+  "term": "paṭisevanā",
+  "normalized_term": "patisevana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "using, making use of",
+  "preferred_translation": "using",
+  "alternative_translations": [
+    "making use of",
+    "use"
+  ],
+  "discouraged_translations": [
+    "indulging in"
+  ],
+  "definition": "Disciplined using or making use of something, especially of requisites in the MN 2 outflow sequence.",
+  "notes": "In MN 2 this is not consumer language and not indulgence. The term belongs with robes, almsfood, lodging, and medicines under the requisites-review frame. Keep it distinct from generic consumption language and from vague abandoning-language.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavā paṭisevanā pahātabbā",
+      "translation": "outflows are to be abandoned by using",
+      "notes": "One member of the sevenfold MN 2 method sequence.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "cīvaraṁ paṭisevati",
+      "translation": "one uses robes",
+      "notes": "Shows the practical requisites-use frame behind the noun.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'using' as the default rendering in the MN 2 requisites and method-sequence contexts.",
+    "when_not_to_apply": "Use 'making use of' only when local prose clearly benefits. Do not recast the term as indulgence or consumer language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the MN 2 method distinct from indulgence-language and from generic abandoning-language."
+  },
+  "status": "reviewed"
+}

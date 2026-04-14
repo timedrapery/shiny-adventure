@@ -1,0 +1,49 @@
+{
+  "term": "adhivāsanā",
+  "normalized_term": "adhivasana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "enduring, bearing with",
+  "preferred_translation": "enduring",
+  "alternative_translations": [
+    "bearing",
+    "putting up with"
+  ],
+  "discouraged_translations": [
+    "suppression"
+  ],
+  "definition": "Enduring or bearing with unpleasant contact without reactive proliferation, especially in the MN 2 outflow sequence.",
+  "notes": "In MN 2 this is not passive resignation and not suppression. The point is bearing cold, heat, hunger, thirst, insects, harsh speech, and bodily pain without letting reactive outflows multiply. Keep the term practical and steady.",
+  "related_terms": [
+    "asava"
+  ],
+  "example_phrases": [
+    {
+      "pali": "āsavā adhivāsanā pahātabbā",
+      "translation": "outflows are to be abandoned by enduring",
+      "notes": "One member of the sevenfold MN 2 method sequence.",
+      "source": "MN 2"
+    },
+    {
+      "pali": "adhivāsakajātiko hoti",
+      "translation": "one is of a kind that endures",
+      "notes": "Shows the practical bearing-with sense behind the noun.",
+      "source": "MN 2"
+    }
+  ],
+  "sutta_references": [
+    "MN 2"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'enduring' as the default rendering in the MN 2 method-sequence context.",
+    "when_not_to_apply": "Use 'bearing' or 'putting up with' only when the local prose clearly benefits. Do not recast the term as suppression or passive resignation.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the MN 2 method distinct from suppression-language and from vaguer stoicism language."
+  },
+  "status": "reviewed"
+}

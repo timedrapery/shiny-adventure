@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 867
+- Entries: 871
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -25,6 +25,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [adhipati-paccaya](../../terms/minor/adhipati-paccaya.json) | adhipati-paccaya | dominance condition | reviewed | causality |
 | [adhipati](../../terms/minor/adhipati.json) | adhipati | dominance | reviewed | causality |
 | [adhitthana](../../terms/minor/adhitthana.json) | adhiṭṭhāna | resolution | reviewed | core-practice |
+| [adhivasana](../../terms/minor/adhivasana.json) | adhivāsanā | enduring | reviewed | core-practice, formula, translation-sensitive |
 | [adinava-nana](../../terms/minor/adinava-nana.json) | adinava-nana | knowledge of danger | reviewed | meditative-development, liberation |
 | [adinnadana-veramani](../../terms/minor/adinnadana-veramani.json) | adinnadana-veramani | abstaining from taking what is not given | reviewed | ethics |
 | [adinnadana](../../terms/minor/adinnadana.json) | adinnādāna | taking what is not given | reviewed | ethics |
@@ -622,6 +623,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [parisa](../../terms/minor/parisa.json) | parisā | assembly | reviewed | core-doctrine |
 | [parisuddhi](../../terms/minor/parisuddhi.json) | pārisuddhi | purity | reviewed | vinaya, core-practice |
 | [paritta](../../terms/minor/paritta.json) | paritta | protection | reviewed | core-practice, translation-sensitive |
+| [parivajjana](../../terms/minor/parivajjana.json) | parivajjanā | avoiding | reviewed | core-practice, formula, translation-sensitive |
 | [parivasa](../../terms/minor/parivasa.json) | parivāsa | probation | reviewed | core-practice |
 | [pariyatti](../../terms/minor/pariyatti.json) | pariyatti | learning | reviewed | core-practice |
 | [pariyaya](../../terms/minor/pariyaya.json) | pariyāya | mode of exposition | reviewed | core-doctrine |
@@ -646,6 +648,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [patisallana](../../terms/minor/patisallana.json) | patisallana | seclusion | reviewed | core-practice |
 | [patisankha-nana](../../terms/minor/patisankha-nana.json) | patisankha-nana | knowledge of reflective consideration | reviewed | meditative-development, liberation |
 | [patisankha-yoniso](../../terms/minor/patisankha-yoniso.json) | patisankha-yoniso | wise reflection | reviewed | core-practice |
+| [patisevana](../../terms/minor/patisevana.json) | paṭisevanā | using | reviewed | core-practice, formula, translation-sensitive |
 | [pativedha](../../terms/minor/pativedha.json) | paṭivedha | penetration | reviewed | core-practice, liberation |
 | [patta](../../terms/minor/patta.json) | patta | alms bowl | reviewed | core-practice |
 | [pavarana](../../terms/minor/pavarana.json) | pavāraṇā | invitation ceremony | reviewed | core-practice |
@@ -932,6 +935,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vinnanakkhandha](../../terms/minor/vinnanakkhandha.json) | viññāṇakkhandha | knowing heap | stable | aggregates, translation-sensitive |
 | [vinnananancayatana](../../terms/minor/vinnananancayatana.json) | viññāṇañcāyatana | sphere of boundless knowing | reviewed | meditative-development |
 | [vinnanapaccaya-namarupa](../../terms/minor/vinnanapaccaya-namarupa.json) | viññāṇapaccayā nāmarūpaṃ | with knowing as condition, name-and-form | reviewed | dependent-origination, causality, translation-sensitive |
+| [vinodana](../../terms/minor/vinodana.json) | vinodanā | dispelling | reviewed | core-practice, formula, translation-sensitive |
 | [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | someone who understands after explanation | reviewed | persons |
 | [vipaka-paccaya](../../terms/minor/vipaka-paccaya.json) | vipaka-paccaya | result condition | reviewed | causality |
 | [vipaka](../../terms/minor/vipaka.json) | vipaka | result | reviewed | causality |
