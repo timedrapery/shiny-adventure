@@ -111,7 +111,7 @@ Current governed surfaces already include:
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the working order for the next outward-facing sutta additions unless active term pressure makes a different sequence more urgent.
+- Use [next-suttas-roadmap.md](next-suttas-roadmap.md) as the source-of-truth ranked roadmap for the next outward-facing sutta additions, and use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) only as the short first-wave queue extracted from it.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness
