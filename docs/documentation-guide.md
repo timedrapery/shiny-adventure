@@ -88,6 +88,14 @@ do not override live term records or normative policy docs.
 - [`usage.md`](usage.md): task-based command recipes
 - [`../scripts/README.md`](../scripts/README.md): script-by-script CLI index
 
+### Work With Translation Surfaces
+
+- [`translations/translation-documents.md`](translations/translation-documents.md): index of shareable translation pairs
+- [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): ranked working order for the next outward-facing sutta translation passes
+- [`mn1-mn18-mn148-linked-surface-brief.md`](mn1-mn18-mn148-linked-surface-brief.md): linked control brief for recognition, proliferation, selfing, taking personally, identity, and de-appropriation across MN 1, MN 18, and MN 148
+- [`practice-text-surface-map.md`](practice-text-surface-map.md): shared MN 10 / MN 118 practice control lines
+- [`sensory-response-surface-map.md`](sensory-response-surface-map.md): shared MN 137 / MN 148 feeling-domain control lines
+
 ### Edit Term Records Safely
 
 - [`data-dictionary.md`](data-dictionary.md): field meanings
@@ -110,6 +118,7 @@ do not override live term records or normative policy docs.
 - [`bulk-editing-playbook.md`](bulk-editing-playbook.md): safe operating pattern for large edit batches
 - [`candidate-term-workflow.md`](candidate-term-workflow.md): intake and review flow for proposed terms
 - [`translation-workflow-plan.md`](translation-workflow-plan.md): current editorial sequencing and roadmap
+- [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): current recommended order for the next translation-document additions
 - [`expansion-batch-001.md`](expansion-batch-001.md): concrete expansion batch reference
 - [`lexicon-expansion-plan-500.md`](lexicon-expansion-plan-500.md): larger-scale planning note
 
