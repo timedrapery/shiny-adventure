@@ -6,7 +6,16 @@
   "literal_meaning": "development of the awakening factors",
   "preferred_translation": "development of the awakening factors",
   "definition": "The development of the awakening factors as a practical training framework.",
-  "status": "draft",
+  "notes": "Use this collective framework record when the seven awakening factors are named as something to be developed. Keep bojjhanga aligned with 'awakening factors' and bhavana aligned with 'development'; do not flatten the compound into generic meditation-language.",
+  "example_phrases": [
+    {
+      "pali": "bojjhaṅgabhāvanā",
+      "translation": "development of the awakening factors",
+      "notes": "Collective framework label for cultivating the seven awakening factors.",
+      "source": "SN 46.1"
+    }
+  ],
+  "status": "reviewed",
   "tags": [
     "core-practice",
     "meditative-development"

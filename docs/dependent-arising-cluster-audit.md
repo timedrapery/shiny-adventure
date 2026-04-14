@@ -80,7 +80,6 @@ compound behavior.
 
 - all eleven `*-paccaya` link compounds
 - all eleven `*-nirodha` link compounds
-- `samphassa`
 
 These are still short minor records with little or no rule-bearing guidance,
 no examples, no related-term propagation, and no provenance. They are present
@@ -159,7 +158,6 @@ used as the style target for the rest of the cluster.
 
 - The forward-link `*-paccaya` minors have no `example_phrases`.
 - The reverse-link `*-nirodha` minors have no `example_phrases`.
-- `samphassa` has no canonical examples and is still only a draft.
 
 ## 6. Wording That Appears Stale Against Current House Style
 

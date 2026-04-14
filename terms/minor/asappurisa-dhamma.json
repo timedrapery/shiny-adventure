@@ -6,7 +6,11 @@
   "literal_meaning": "qualities of a bad person",
   "preferred_translation": "qualities of a bad person",
   "definition": "Qualities that characterize an unreliable or ethically poor person in doctrinal and ethical instruction.",
-  "status": "draft",
+  "notes": "Use this record for named bad-person quality frameworks such as MN 110. Keep the compound aligned with asappurisa as 'bad person' rather than softening it into generic weakness-language.",
+  "related_terms": [
+    "sappurisa-dhamma"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
     "persons"

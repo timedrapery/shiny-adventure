@@ -5,10 +5,10 @@
   "part_of_speech": "noun",
   "literal_meaning": "lawfulness of dhamma",
   "preferred_translation": "lawful patterning",
-  "definition": "The lawful regularity or patterned order of things.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "definition": "The lawful ordering or patterned regularity by which dhamma proceeds.",
+  "notes": "Keep this in the same support layer as dhammata, dhammatthiti, and dhammaniyamata. The point is lawful order or patterned regularity, not fate, essence, or a cosmic decree detached from conditionality.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft"
+  "status": "reviewed"
 }

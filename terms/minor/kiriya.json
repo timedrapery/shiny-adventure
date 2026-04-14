@@ -5,12 +5,12 @@
   "part_of_speech": "noun",
   "literal_meaning": "doing, activity",
   "preferred_translation": "activity",
-  "definition": "Activity or action, often in distinction from karmically consequential action.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "definition": "Activity or mere doing, especially where the passage distinguishes performance from karmically consequential action.",
+  "notes": "Keep kiriya distinct from kamma. Use activity or doing when the line names functioning or performance without the ethical-volitional weight carried by kamma, and avoid translating both terms with the same unqualified English in contrastive passages.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft",
+  "status": "reviewed",
   "alternative_translations": [
     "doing"
   ]

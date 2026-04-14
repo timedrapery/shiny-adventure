@@ -10,10 +10,10 @@ other repository-maintenance concerns rather than doctrinal judgment.
 
 ## Current Surface
 
-- Term files: 1050
-- Major terms: 231
-- Minor terms: 819
-- Docs files in `docs/`: 46
+- Term files: 1103
+- Major terms: 236
+- Minor terms: 867
+- Docs files in `docs/`: 60
 - Verification stack: passing
 
 ## Findings
@@ -47,6 +47,8 @@ other repository-maintenance concerns rather than doctrinal judgment.
 - The previous review snapshot was stale and materially undercounted the live
   term surface.
 - This file now reflects the current repository scale and decisions.
+- Refresh this snapshot when the live term counts or the top-level docs surface
+  change materially.
 
 ## Immediate Maintenance Rule
 

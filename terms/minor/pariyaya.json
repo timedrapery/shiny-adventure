@@ -5,12 +5,15 @@
   "part_of_speech": "noun",
   "literal_meaning": "method, turn of expression",
   "preferred_translation": "mode of exposition",
-  "definition": "A method, mode, or turn of expression.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "definition": "A mode of exposition, method, or turn of expression.",
+  "notes": "Keep mode of exposition as the default when the passage is about how a teaching is set out or presented. Method and way of speaking remain controlled alternates, but do not collapse pariyaya into naya; pariyaya is about the form of presentation more than the interpretive line.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft",
+  "status": "reviewed",
+  "related_terms": [
+    "naya"
+  ],
   "alternative_translations": [
     "method",
     "way of speaking"

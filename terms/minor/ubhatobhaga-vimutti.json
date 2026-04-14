@@ -5,10 +5,15 @@
   "part_of_speech": "compound",
   "literal_meaning": "release in both respects",
   "preferred_translation": "two-sided release",
-  "definition": "Release described as being in both respects.",
-  "notes": "Keep the rendering tied to early-text liberation usage and avoid overloading the term with later metaphysical systematization.",
-  "tags": [
-    "liberation"
+  "alternative_translations": [
+    "release in both respects"
   ],
-  "status": "draft"
+  "definition": "Release described as being in both respects within technical liberation analysis.",
+  "notes": "Keep this compound inside the vimutti family and preserve its technical two-sided force. Do not smooth it into generic complete liberation language or treat it as an uncontrolled synonym for other release compounds.",
+  "tags": [
+    "core-doctrine",
+    "liberation",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
 }

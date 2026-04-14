@@ -5,8 +5,15 @@
   "part_of_speech": "compound",
   "literal_meaning": "good friendship",
   "preferred_translation": "good friendship",
+  "alternative_translations": [
+    "admirable friendship"
+  ],
   "definition": "The condition or quality of good friendship that supports the path and wise companionship.",
-  "status": "draft",
+  "notes": "Use this record for the quality or condition of having good friends in practice contexts such as SN 45.2. Keep it aligned with kalyanamitta as a concrete relational support, not an abstract spirituality slogan.",
+  "related_terms": [
+    "papamittata"
+  ],
+  "status": "reviewed",
   "tags": [
     "core-practice",
     "persons"

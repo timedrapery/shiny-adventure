@@ -6,7 +6,11 @@
   "literal_meaning": "qualities of a good person",
   "preferred_translation": "qualities of a good person",
   "definition": "Qualities that characterize a trustworthy and mature good person in doctrinal and ethical instruction.",
-  "status": "draft",
+  "notes": "Use this record for named person-quality frameworks such as MN 113. Keep the compound aligned with sappurisa as 'good person' rather than flattening it into generic virtue-language.",
+  "related_terms": [
+    "asappurisa-dhamma"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
     "persons",

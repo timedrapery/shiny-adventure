@@ -5,11 +5,16 @@
   "part_of_speech": "adjective",
   "literal_meaning": "rooted in non-aversion",
   "preferred_translation": "rooted in non-aversion",
-  "definition": "Describing a state, intention, or action as having non-aversion as its root.",
-  "status": "draft",
+  "definition": "Describing a state, intention, or action as having non-aversion as its root in the wholesome-root analysis.",
+  "notes": "Use this record in wholesome-root classification contexts such as MN 9. Keep the compound aligned with the project's stable adosa default 'non-aversion' rather than replacing it with kindness-language when classification is foregrounded.",
+  "related_terms": [
+    "dosa-mula"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
-    "mental-qualities"
+    "mental-qualities",
+    "causality"
   ],
   "sutta_references": [
     "MN 9"

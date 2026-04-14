@@ -5,11 +5,16 @@
   "part_of_speech": "adjective",
   "literal_meaning": "rooted in greed",
   "preferred_translation": "rooted in greed",
-  "definition": "Describing a state, intention, or action as having greed as its root.",
-  "status": "draft",
+  "definition": "Describing a state, intention, or action as having greed as its root in the unwholesome-root analysis.",
+  "notes": "Use this record in root-classification contexts such as MN 9. Keep the compound aligned with the project's stable lobha default 'greed' rather than broadening it into desire-language.",
+  "related_terms": [
+    "alobha-mula"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
-    "mental-qualities"
+    "mental-qualities",
+    "causality"
   ],
   "sutta_references": [
     "MN 9"

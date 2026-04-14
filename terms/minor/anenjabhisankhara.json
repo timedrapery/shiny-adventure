@@ -5,10 +5,14 @@
   "part_of_speech": "compound",
   "literal_meaning": "imperturbable constructing",
   "preferred_translation": "imperturbable constructing",
-  "definition": "Constructing activity tied to imperturbable states.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
-  "tags": [
-    "core-doctrine"
+  "definition": "Constructing activity tied to imperturbable states within the abhisankhara family.",
+  "notes": "Use this compound when the abhisankhara family points toward imperturbable states rather than benefit or harm. Keep the constructive force audible and avoid smoothing it into generic serenity-language.",
+  "related_terms": [
+    "abhisankhara"
   ],
-  "status": "draft"
+  "tags": [
+    "core-doctrine",
+    "dependent-origination"
+  ],
+  "status": "reviewed"
 }

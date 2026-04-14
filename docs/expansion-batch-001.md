@@ -44,9 +44,12 @@ Minor:
 
 ## Review Notes
 
-The major entries are intentionally draft-status rule-bearing entries. They are
- structured enough to reduce drift immediately, but they still need normal
- editorial review before being promoted.
+The major entries from this batch have now had a normal editorial pass and are
+ no longer draft-only scaffolds.
 
-The minor entries are intentionally lighter and should be upgraded only if real
- translation work shows they need fuller rule-bearing treatment.
+All minor entries from this batch have now also had a first editorial pass and
+ are reviewed.
+
+They remain lighter entries and should be promoted to fuller governed
+ treatment only when real translation work shows the added rule surface is
+ necessary.

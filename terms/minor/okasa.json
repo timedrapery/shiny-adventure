@@ -6,11 +6,11 @@
   "literal_meaning": "space, place, occasion",
   "preferred_translation": "space",
   "definition": "Space, room, place, or occasion depending on context.",
-  "notes": "Keep the rendering aligned with existing house terms and avoid importing later scholastic system language where the early-text function is simpler.",
+  "notes": "Keep space as the default when literal room or opening is in view. Place and occasion remain controlled alternates for local procedural or situational contexts, but do not default to abstract opportunity-language unless the passage clearly calls for it.",
   "tags": [
     "core-doctrine"
   ],
-  "status": "draft",
+  "status": "reviewed",
   "alternative_translations": [
     "place",
     "occasion"

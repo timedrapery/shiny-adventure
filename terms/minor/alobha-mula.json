@@ -5,11 +5,16 @@
   "part_of_speech": "adjective",
   "literal_meaning": "rooted in non-greed",
   "preferred_translation": "rooted in non-greed",
-  "definition": "Describing a state, intention, or action as having non-greed as its root.",
-  "status": "draft",
+  "definition": "Describing a state, intention, or action as having non-greed as its root in the wholesome-root analysis.",
+  "notes": "Use this record in wholesome-root classification contexts such as MN 9. Keep the compound aligned with the project's stable alobha default 'non-greed' so the lexical contrast with lobha stays clear.",
+  "related_terms": [
+    "lobha-mula"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
-    "mental-qualities"
+    "mental-qualities",
+    "causality"
   ],
   "sutta_references": [
     "MN 9"

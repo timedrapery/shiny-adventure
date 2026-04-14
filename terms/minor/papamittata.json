@@ -5,8 +5,15 @@
   "part_of_speech": "compound",
   "literal_meaning": "bad friendship",
   "preferred_translation": "bad friendship",
+  "alternative_translations": [
+    "harmful friendship"
+  ],
   "definition": "The condition or quality of bad friendship that pulls practice away from the path.",
-  "status": "draft",
+  "notes": "Use this record for the condition of bad or harmful friendship in contrast with kalyanamittata. Keep the phrase relational and practical rather than treating it as open hostility or simple social dislike.",
+  "related_terms": [
+    "kalyanamittata"
+  ],
+  "status": "reviewed",
   "tags": [
     "ethics",
     "persons"
