@@ -38,6 +38,7 @@ for the short queue.
 - Review first: `jhāna`, `samādhi`, `sammā-samādhi`, `ekaggatā`, `vitakka`,
   `vicāra`, `pīti`, `sukha`, `nīvaraṇa`, and `saṃvara`.
 - Consult:
+  [first-jhana-entry-sheet.md](first-jhana-entry-sheet.md),
   [generated/jhana-formula-sheet.md](generated/jhana-formula-sheet.md),
   [generated/jhana-sequence-sheet.md](generated/jhana-sequence-sheet.md), and
   [generated/jhana-path-brief.md](generated/jhana-path-brief.md).

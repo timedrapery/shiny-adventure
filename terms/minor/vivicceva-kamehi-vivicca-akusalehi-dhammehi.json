@@ -1,0 +1,43 @@
+{
+  "term": "vivicceva kāmehi vivicca akusalehi dhammehi",
+  "normalized_term": "vivicceva-kamehi-vivicca-akusalehi-dhammehi",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "quite secluded from sensuality, secluded from unskillful dhammas",
+  "preferred_translation": "quite secluded from sensuality, secluded from unwholesome dhammas",
+  "alternative_translations": [
+    "secluded from sensuality, secluded from unwholesome dhammas"
+  ],
+  "discouraged_translations": [
+    "withdrawn from sensual pleasures and evil states"
+  ],
+  "definition": "The standard opening formula for entry into the first mental theme.",
+  "notes": "Use this record for the stock first-jhāna opening line. Keep kāma as sensuality rather than collapsing it into a narrower pleasures-only gloss, and keep akusala dhammas as unwholesome dhammas rather than inventing a different moral register each time the line appears.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "vivicceva kāmehi vivicca akusalehi dhammehi",
+      "translation": "quite secluded from sensuality, secluded from unwholesome dhammas",
+      "notes": "Standard first-jhāna entry line before the factor list and the delight-and-ease phrase.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 19",
+    "MN 99",
+    "MN 141"
+  ],
+  "tags": [
+    "jhana-factors",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English opening for the first mental theme unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not narrow kāma to sensual pleasures only, and do not replace unwholesome dhammas with unrecorded moralizing or archaic variants.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the first-jhāna opening stable across DN 2 and the live translation surfaces that reuse the same entry formula."
+  },
+  "status": "reviewed"
+}
