@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 872
+- Entries: 874
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -783,6 +783,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [satta-bojjhanga](../../terms/minor/satta-bojjhanga.json) | satta-bojjhanga | seven awakening factors | reviewed | core-doctrine, core-practice |
 | [satta](../../terms/minor/satta.json) | satta | being | reviewed | persons |
 | [saupadisesa-nibbana-dhatu](../../terms/minor/saupadisesa-nibbana-dhatu.json) | sa-upādisesa-nibbāna-dhātu | nibbāna element with remainder | stable | core-doctrine, translation-sensitive, consummation-interface |
+| [savitakka-savicara](../../terms/minor/savitakka-savicara.json) | savitakkaṁ savicāraṁ | with thinking and pondering | reviewed | jhana-factors, meditative-development, translation-sensitive |
 | [semha](../../terms/minor/semha.json) | semha | phlegm | reviewed | embodiment, meditative-development |
 | [senapati](../../terms/minor/senapati.json) | senāpati | general | reviewed | persons |
 | [senasana](../../terms/minor/senasana.json) | senāsana | lodging | reviewed | core-practice |
@@ -959,6 +960,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vivekaja-piti-sukha](../../terms/minor/vivekaja-piti-sukha.json) | vivekaja-piti-sukha | delight and ease born of seclusion | reviewed | jhana-factors, meditative-development |
 | [vivekaja](../../terms/minor/vivekaja.json) | vivekaja | born of seclusion | reviewed | meditative-development |
 | [vivekanissita](../../terms/minor/vivekanissita.json) | vivekanissita | based on seclusion | reviewed | meditative-development |
+| [vivicceva-kamehi-vivicca-akusalehi-dhammehi](../../terms/minor/vivicceva-kamehi-vivicca-akusalehi-dhammehi.json) | vivicceva kāmehi vivicca akusalehi dhammehi | quite secluded from sensuality, secluded from unwholesome dhammas | reviewed | jhana-factors, meditative-development, translation-sensitive |
 | [vossaggaparinami](../../terms/minor/vossaggaparinami.json) | vossaggapariṇāmi | culminating in relinquishment | stable | core-practice, translation-sensitive |
 
 ## Y

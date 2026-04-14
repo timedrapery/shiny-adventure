@@ -1,0 +1,43 @@
+{
+  "term": "savitakkaṁ savicāraṁ",
+  "normalized_term": "savitakka-savicara",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "literal_meaning": "with thinking and with pondering",
+  "preferred_translation": "with thinking and pondering",
+  "alternative_translations": [
+    "with thinking and with pondering"
+  ],
+  "discouraged_translations": [
+    "with applied and sustained thought"
+  ],
+  "definition": "The first-jhāna formula pair marking the continuing presence of vitakka and vicāra.",
+  "notes": "Use this record for the standard first-jhāna factor pair. Keep the line practical and continuous with the live vitakka and vicāra headword policies rather than turning it into scholastic jargon or anti-discursive mysticism.",
+  "related_terms": [],
+  "example_phrases": [
+    {
+      "pali": "savitakkaṁ savicāraṁ",
+      "translation": "with thinking and pondering",
+      "notes": "Standard first-jhāna factor pair in the entry formula.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2",
+    "MN 19",
+    "MN 99",
+    "MN 141"
+  ],
+  "tags": [
+    "jhana-factors",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English factor pair in first-jhāna entry formulas unless a recorded local reason requires minor grammatical adjustment.",
+    "when_not_to_apply": "Do not turn the pair into scholastic labels such as applied and sustained thought, and do not mystify it into anti-thought rhetoric.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Keeps the first-jhāna factor pair aligned with the live vitakka and vicāra policies and with the practical reading of the first mental theme."
+  },
+  "status": "reviewed"
+}
