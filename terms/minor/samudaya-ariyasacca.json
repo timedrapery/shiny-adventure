@@ -12,7 +12,7 @@
     "truth of creation"
   ],
   "definition": "The second noble truth, concerning the origin of dissatisfaction through craving.",
-  "notes": "This record keeps the second truth aligned with the samudaya headword default of origin while allowing arising only as a controlled alternate where the dynamic side needs emphasis.",
+  "notes": "This record keeps the second truth aligned with the samudaya headword default of origin while allowing arising only as a controlled alternate where the dynamic side needs emphasis. The OSF glossary and SN 56.11 support this truth-label handling and its immediate coordination with the taṇhā-definition line.",
   "related_terms": [
     "ariyasacca",
     "samudaya"
@@ -30,6 +30,25 @@
   "sutta_references": [
     "SN 56.11"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping origin as the house default for the second truth while treating arising as a controlled explanatory alternate."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the canonical second-truth naming line and its taṇhā-definition context."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'noble truth of origin' as the default naming line for the second truth unless a recorded local reason explicitly needs the explanatory alternate 'noble truth of arising'.",
+    "when_not_to_apply": "Do not weaken the truth-label into vague emergence-language, and do not detach it from the governed taṇhā-definition line that immediately specifies the origin.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the second truth from drifting toward creation-language, loose process jargon, or slogan-like paraphrase."
+  },
   "tags": [
     "core-doctrine",
     "four-noble-truths"
