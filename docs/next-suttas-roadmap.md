@@ -187,8 +187,8 @@ Use the ranked list as the source of truth, but work in three waves:
 ### Wave 1: Dense Existing Support
 
 - `SN 12.2`
-- `DN 2`
 - `SN 56.11`
+- `DN 2`
 - `MN 2`
 - `MN 9`
 
@@ -213,6 +213,10 @@ Use the ranked list as the source of truth, but work in three waves:
 - Wave 1 should land first because those texts already carry the heaviest live
   policy surface. One translation pass in that tier pressures dozens of
   governed records and stabilizes highly reused formulas.
+- Inside Wave 1, the current operational order should run `SN 56.11` before
+  `DN 2`. The citation-weighted ranking still puts `DN 2` slightly ahead
+  overall, but the live drift picture now makes the truth-side origin formulas
+  the sharper next blocker after `SN 12.2`.
 - Wave 2 comes next because those texts sharpen distinctions the repo already
   records but has not yet forced through enough outward-facing translation
   documents: fetter versus tendency, identity residue versus view, and
