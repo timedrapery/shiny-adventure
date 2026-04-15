@@ -1,0 +1,35 @@
+{
+  "term": "taṇhāsamudaya",
+  "normalized_term": "tanha-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of ignorant wanting",
+  "definition": "The arising or originating condition of ignorant wanting within dependent-arising and four-truths analysis.",
+  "notes": "Use this record when the origin-side compound is named compactly as tanha-samudaya rather than quoted as a fuller origin-line sentence. Keep the compound aligned with the headword defaults for tanha and samudaya, and do not let the term slide back into generic desire-language.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of ignorant wanting",
+  "example_phrases": [
+    {
+      "pali": "taṇhāsamudaya",
+      "translation": "origin of ignorant wanting",
+      "notes": "Compact origin-side compound in the dependent-arising and four-truths family.",
+      "source": "SN 12.43"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43",
+    "SN 56.11"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named tanha-samudaya compound inside the origin-side dependent-arising and four-truths family; prefer fuller origin-line wording when the canonical sentence itself is present.",
+    "when_not_to_apply": "Do not let the compound drift into generic desire-language, and do not replace the compact doctrinal form with a looser paraphrase unless the surrounding prose explicitly requires it.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents origin-side tanha language from drifting away from the repository's ignorant-wanting default."
+  },
+  "tags": [
+    "dependent-origination",
+    "four-noble-truths",
+    "translation-sensitive"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "term": "jātisamudaya",
+  "normalized_term": "jati-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of birth",
+  "definition": "The arising or originating condition of birth within dependent-arising analysis.",
+  "notes": "Use this record when the origin-side compound is named compactly as jati-samudaya rather than quoted as a fuller origin-line sentence. Keep the compound aligned with the headword defaults for jati and samudaya, and do not let birth drift into rebirth by habit when the local frame does not require that narrower reading.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of birth",
+  "example_phrases": [
+    {
+      "pali": "jātisamudaya",
+      "translation": "origin of birth",
+      "notes": "Compact origin-side compound in the dependent-arising family.",
+      "source": "SN 12.43"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named jati-samudaya compound inside the origin-side dependent-arising family; prefer fuller origin-line wording when the canonical sentence itself is present.",
+    "when_not_to_apply": "Do not narrow the compound to rebirth by habit when the local doctrinal frame does not explicitly require that reading.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents origin-side jati language from drifting into an automatic rebirth reading."
+  },
+  "tags": [
+    "dependent-origination",
+    "translation-sensitive"
+  ]
+}

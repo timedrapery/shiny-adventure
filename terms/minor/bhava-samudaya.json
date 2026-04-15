@@ -1,0 +1,33 @@
+{
+  "term": "bhavasamudaya",
+  "normalized_term": "bhava-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of becoming",
+  "definition": "The arising or originating condition of becoming within dependent-arising analysis.",
+  "notes": "Use this record when the origin-side compound is named compactly as bhava-samudaya rather than quoted as a fuller origin-line sentence. Keep the compound aligned with the headword defaults for bhava and samudaya, and do not drift from becoming to being or existence by habit inside the standard chain.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of becoming",
+  "example_phrases": [
+    {
+      "pali": "bhavasamudaya",
+      "translation": "origin of becoming",
+      "notes": "Compact origin-side compound in the dependent-arising family.",
+      "source": "SN 12.43"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named bhava-samudaya compound inside the origin-side dependent-arising family; prefer fuller origin-line wording when the canonical sentence itself is present.",
+    "when_not_to_apply": "Do not rotate the compound to being or existence by habit when the dependent-arising frame is still governing the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents origin-side bhava language from drifting away from the repository's becoming default."
+  },
+  "tags": [
+    "dependent-origination",
+    "translation-sensitive"
+  ]
+}

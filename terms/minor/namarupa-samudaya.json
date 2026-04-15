@@ -1,0 +1,33 @@
+{
+  "term": "nāmarūpasamudaya",
+  "normalized_term": "namarupa-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of name-and-form",
+  "definition": "The arising or originating condition of name-and-form within dependent-arising analysis.",
+  "notes": "Use this record when the origin-side compound is named compactly as namarupa-samudaya rather than quoted as a fuller origin-line sentence. Keep the compound aligned with the headword defaults for namarupa and samudaya, and do not flatten it into body-and-mind language or generic arising-language by habit.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of name-and-form",
+  "example_phrases": [
+    {
+      "pali": "nāmarūpasamudaya",
+      "translation": "origin of name-and-form",
+      "notes": "Compact origin-side compound in the dependent-arising family.",
+      "source": "SN 12.43"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named namarupa-samudaya compound inside the origin-side dependent-arising family; prefer fuller origin-line wording when the canonical sentence itself is present.",
+    "when_not_to_apply": "Do not paraphrase the compound into body-and-mind language or generic arising-language when the compact doctrinal form already fits the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents name-and-form origin language from drifting into loose mind-and-body paraphrase or ungoverned arising-language."
+  },
+  "tags": [
+    "dependent-origination",
+    "translation-sensitive"
+  ]
+}

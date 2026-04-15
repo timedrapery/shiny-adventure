@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 874
+- Entries: 881
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -165,6 +165,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [bhava-jati-bhutassa-jaramaranam](../../terms/minor/bhava-jati-bhutassa-jaramaranam.json) | bhavā jāti bhūtassa jarāmaraṇaṁ | with becoming there is birth, and for whatever has come to be there are aging and death | reviewed | core-doctrine, dependent-origination, translation-sensitive |
 | [bhava-nirodha](../../terms/minor/bhava-nirodha.json) | bhava-nirodha | quenching of becoming | reviewed | dependent-origination, liberation |
 | [bhava-paccaya](../../terms/minor/bhava-paccaya.json) | bhava-paccaya | becoming as condition | reviewed | dependent-origination, causality |
+| [bhava-samudaya](../../terms/minor/bhava-samudaya.json) | bhavasamudaya | origin of becoming | reviewed | dependent-origination, translation-sensitive |
 | [bhavapaccaya-jati](../../terms/minor/bhavapaccaya-jati.json) | bhavapaccayā jāti | with becoming as condition, birth | reviewed | dependent-origination, causality, translation-sensitive |
 | [bhavaraga-anusaya](../../terms/minor/bhavaraga-anusaya.json) | bhavarāga-anusaya | underlying tendency toward passion for becoming | stable | core-doctrine, mental-qualities |
 | [bhavasava](../../terms/minor/bhavasava.json) | bhavāsava | outflow of becoming | stable | core-doctrine, mental-qualities |
@@ -282,6 +283,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [duggati](../../terms/minor/duggati.json) | duggati | bad destination | reviewed | core-doctrine |
 | [dukkha-ariyasacca](../../terms/minor/dukkha-ariyasacca.json) | dukkha-ariyasacca | noble truth of dissatisfaction | reviewed | core-doctrine, four-noble-truths |
 | [dukkha-sabbe-sankhara](../../terms/minor/dukkha-sabbe-sankhara.json) | dukkhā sabbasaṅkhārā | all that has been put together is unsatisfactory | reviewed | three-marks, formula, translation-sensitive |
+| [dukkha-samudaya](../../terms/minor/dukkha-samudaya.json) | dukkhasamudaya | origin of dissatisfaction | reviewed | four-noble-truths, core-doctrine, translation-sensitive |
 | [dukkha-sanna](../../terms/minor/dukkha-sanna.json) | dukkha-sanna | perception of dissatisfaction | reviewed | meditative-development, liberation, three-marks |
 | [dukkha-vedana](../../terms/minor/dukkha-vedana.json) | dukkhavedanā | painful feeling | reviewed | aggregates |
 | [dukkhanupassana](../../terms/minor/dukkhanupassana.json) | dukkhānupassanā | contemplation of dissatisfaction | reviewed | core-practice, meditative-development, three-marks |
@@ -359,6 +361,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [janapada](../../terms/minor/janapada.json) | janapada | district | reviewed | core-doctrine |
 | [jati-nirodha](../../terms/minor/jati-nirodha.json) | jati-nirodha | quenching of birth | reviewed | dependent-origination, liberation |
 | [jati-paccaya](../../terms/minor/jati-paccaya.json) | jati-paccaya | birth as condition | reviewed | dependent-origination, causality |
+| [jati-samudaya](../../terms/minor/jati-samudaya.json) | jātisamudaya | origin of birth | reviewed | dependent-origination, translation-sensitive |
 | [jatipaccaya-jaramaranam](../../terms/minor/jatipaccaya-jaramaranam.json) | jātipaccayā jarāmaraṇaṃ | with birth as condition, ageing and dying | reviewed | dependent-origination, causality, translation-sensitive |
 | [jhana-paccaya](../../terms/minor/jhana-paccaya.json) | jhana-paccaya | jhana condition | reviewed | causality |
 | [jhaya](../../terms/minor/jhaya.json) | jhaya | meditator | reviewed | core-practice |
@@ -529,6 +532,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [nama](../../terms/minor/nama.json) | nāma | name | reviewed | core-doctrine, dependent-origination |
 | [namarupa-nirodha](../../terms/minor/namarupa-nirodha.json) | namarupa-nirodha | quenching of name-and-form | reviewed | dependent-origination, liberation |
 | [namarupa-paccaya](../../terms/minor/namarupa-paccaya.json) | namarupa-paccaya | name-and-form as condition | reviewed | dependent-origination, causality |
+| [namarupa-samudaya](../../terms/minor/namarupa-samudaya.json) | nāmarūpasamudaya | origin of name-and-form | reviewed | dependent-origination, translation-sensitive |
 | [namarupapaccaya-salayatanam](../../terms/minor/namarupapaccaya-salayatanam.json) | nāmarūpapaccayā saḷāyatanaṃ | with name-and-form as condition, the six fields of experience | reviewed | dependent-origination, causality, translation-sensitive |
 | [nanadassana](../../terms/minor/nanadassana.json) | ñāṇadassana | knowing and seeing | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [nandaka](../../terms/minor/nandaka.json) | Nandaka | Nandaka | reviewed | persons |
@@ -825,6 +829,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [tadanga](../../terms/minor/tadanga.json) | tadanga | cutting off by replacement | reviewed | core-practice |
 | [tanha-nirodha](../../terms/minor/tanha-nirodha.json) | tanha-nirodha | quenching of ignorant wanting | reviewed | dependent-origination, liberation |
 | [tanha-paccaya](../../terms/minor/tanha-paccaya.json) | tanha-paccaya | ignorant wanting as condition | reviewed | dependent-origination, causality |
+| [tanha-samudaya](../../terms/minor/tanha-samudaya.json) | taṇhāsamudaya | origin of ignorant wanting | reviewed | dependent-origination, four-noble-truths, translation-sensitive |
 | [tanhapaccaya-upadana](../../terms/minor/tanhapaccaya-upadana.json) | taṇhāpaccayā upādānaṃ | with ignorant wanting as condition, taking personally | stable | dependent-origination, causality, translation-sensitive |
 | [tathata](../../terms/minor/tathata.json) | tathatā | suchness | reviewed | core-doctrine, translation-sensitive |
 | [tatiya-jhana](../../terms/minor/tatiya-jhana.json) | tatiya-jhāna | third mental theme | reviewed | meditative-development, jhana-factors |
@@ -857,6 +862,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [upacara-samadhi](../../terms/minor/upacara-samadhi.json) | upacara-samadhi | access samadhi | reviewed | meditative-development |
 | [upadana-nirodha](../../terms/minor/upadana-nirodha.json) | upadana-nirodha | quenching of taking personally | reviewed | dependent-origination, liberation |
 | [upadana-paccaya](../../terms/minor/upadana-paccaya.json) | upadana-paccaya | taking personally as condition | reviewed | dependent-origination, causality |
+| [upadana-samudaya](../../terms/minor/upadana-samudaya.json) | upādānasamudaya | origin of taking personally | reviewed | dependent-origination, translation-sensitive |
 | [upadanakkhandha](../../terms/minor/upadanakkhandha.json) | upādānakkhandha | clung-to heap | stable | aggregates, translation-sensitive |
 | [upadanapaccaya-bhavo](../../terms/minor/upadanapaccaya-bhavo.json) | upādānapaccayā bhavo | with taking personally as condition, becoming | reviewed | dependent-origination, causality, translation-sensitive |
 | [upadhi-viveka](../../terms/minor/upadhi-viveka.json) | upadhi-viveka | seclusion from acquisitions | reviewed | meditative-development |
@@ -909,6 +915,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vedana-dhatu](../../terms/minor/vedana-dhatu.json) | vedanā-dhātu | felt-experience element | reviewed | core-doctrine |
 | [vedana-nirodha](../../terms/minor/vedana-nirodha.json) | vedana-nirodha | quenching of felt experience | reviewed | dependent-origination, liberation |
 | [vedana-paccaya](../../terms/minor/vedana-paccaya.json) | vedana-paccaya | felt experience as condition | reviewed | dependent-origination, causality |
+| [vedana-samudaya](../../terms/minor/vedana-samudaya.json) | vedanāsamudaya | origin of felt experience | reviewed | dependent-origination, translation-sensitive |
 | [vedanakkhandha](../../terms/minor/vedanakkhandha.json) | vedanākkhandha | felt-experience heap | stable | aggregates, translation-sensitive |
 | [vedananupassana](../../terms/minor/vedananupassana.json) | vedanānupassanā | contemplation of felt experience | reviewed | core-practice |
 | [vedanapaccaya-tanha](../../terms/minor/vedanapaccaya-tanha.json) | vedanāpaccayā taṇhā | with felt experience as condition, ignorant wanting | stable | dependent-origination, causality, translation-sensitive |
