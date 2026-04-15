@@ -11,10 +11,15 @@ for the short queue.
 ## Working Order
 
 1. `SN 12.2`
-2. `DN 2`
-3. `SN 56.11`
+2. `SN 56.11`
+3. `DN 2`
 4. `MN 2`
 5. `MN 9`
+
+Operational note:
+work `SN 56.11` before `DN 2` in the current pass because the truth-side
+origin formulas now carry more immediate drift pressure than the already
+better-governed jhāna prose.
 
 ## Sutta Prep
 

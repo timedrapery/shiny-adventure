@@ -13,8 +13,8 @@ Use that full roadmap as the source of truth for:
 ## Current First Wave
 
 1. `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
-2. `DN 2` Sāmaññaphala Sutta
-3. `SN 56.11` Dhammacakkappavattana Sutta
+2. `SN 56.11` Dhammacakkappavattana Sutta
+3. `DN 2` Sāmaññaphala Sutta
 4. `MN 2` Sabbāsava Sutta
 5. `MN 9` Sammādiṭṭhi Sutta
 
@@ -27,6 +27,9 @@ Use that full roadmap as the source of truth for:
 - Together they are the fastest route to reduce future drift across dependent
   arising, four-truths language, outflow-family prose, right-view analysis,
   hindrance clearing, and repeated practice formulas.
+- The operational order now runs `SN 56.11` ahead of `DN 2` because the
+  truth-side origin formulas and the `taṇhā` / `upādāna` pressure are the
+  sharper current drift risk after the latest dependent-arising compound pass.
 
 ## Operating Note
 
