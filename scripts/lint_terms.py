@@ -56,6 +56,8 @@ RULE_LANGUAGE_MARKERS = (
 )
 STABILIZED_RULE_TERMS = {
     "anatta",
+    "anusaya",
+    "asava",
     "ayatana",
     "bhava",
     "dhamma",
@@ -75,18 +77,33 @@ STABILIZED_RULE_TERMS = {
     "paticcasamuppada",
     "rupa",
     "samadhi",
+    "samyojana",
     "sankhara",
     "sakkaya",
     "sati",
     "tanha",
     "upadana",
+    "upakkilesa",
     "attavadupadana",
     "asmimana",
     "vedana",
     "vicara",
     "vinnana",
     "vitakka",
+    "kilesa",
 }
+HIGH_LOAD_MINOR_PRIORITY_TAGS = {
+    "core-doctrine",
+    "dependent-origination",
+    "four-noble-truths",
+    "aggregates",
+    "translation-sensitive",
+    "liberation",
+    "self-view",
+    "formula",
+    "path-family",
+}
+HIGH_LOAD_MINOR_LINT_THRESHOLD = 9
 
 MISSING_RELATED_RE = re.compile(
     r"^(?P<file>[^:]+): related term '(?P<related>[^']+)' does not resolve to a local entry$"
@@ -116,6 +133,10 @@ STABLE_GATE_RE = re.compile(
     r"\(context_rules=(?P<context>\d+), example_phrases=(?P<examples>\d+), authority_basis=(?P<authority>\d+), note_words=(?P<words>\d+)\); "
     r"demote to reviewed or deepen the rule surface$"
 )
+HIGH_LOAD_MINOR_POLICY_RE = re.compile(
+    r"^(?P<file>[^:]+): high-load minor entry is missing translation_policy "
+    r"\(score=(?P<score>\d+)\); add a compact rule summary before further reuse$"
+)
 
 
 def is_non_empty_string(value: object) -> bool:
@@ -125,6 +146,23 @@ def is_non_empty_string(value: object) -> bool:
 def has_rule_language(text: str) -> bool:
     lowered = text.casefold()
     return any(marker in lowered for marker in RULE_LANGUAGE_MARKERS)
+
+
+def high_load_minor_score(data: dict[str, object]) -> int:
+    tags = data.get("tags", [])
+    tag_set = {tag for tag in tags if isinstance(tag, str)} if isinstance(tags, list) else set()
+    references = data.get("sutta_references", [])
+    reference_count = len(references) if isinstance(references, list) else 0
+
+    score = 2 * len(tag_set & HIGH_LOAD_MINOR_PRIORITY_TAGS)
+    score += min(reference_count, 4)
+    if data.get("part_of_speech") in {"phrase", "expression"}:
+        score += 1
+    preferred = data.get("preferred_translation")
+    term = data.get("term")
+    if isinstance(preferred, str) and preferred == term:
+        score += 1
+    return score
 
 
 def load_json(path: Path) -> object:
@@ -456,6 +494,24 @@ def check_translation_policy_consistency(terms: dict[str, dict[str, object]]) ->
     return issues
 
 
+def check_high_load_minor_translation_policy(terms: dict[str, dict[str, object]]) -> list[str]:
+    issues: list[str] = []
+    for stem, data in sorted(terms.items()):
+        if data.get("entry_type") != "minor" or data.get("status") not in {"reviewed", "stable"}:
+            continue
+
+        score = high_load_minor_score(data)
+        if score < HIGH_LOAD_MINOR_LINT_THRESHOLD:
+            continue
+
+        policy = data.get("translation_policy")
+        if not isinstance(policy, dict) or len(policy) == 0:
+            issues.append(
+                f"{stem}.json: high-load minor entry is missing translation_policy (score={score}); add a compact rule summary before further reuse"
+            )
+    return issues
+
+
 def check_authority_basis_consistency(terms: dict[str, dict[str, object]]) -> list[str]:
     issues: list[str] = []
     for stem, data in sorted(terms.items()):
@@ -638,6 +694,20 @@ def build_lint_diagnostic(category: str, issue: str) -> RepairDiagnostic:
             why="A stable entry should already be strong enough for downstream work to follow it without caveat.",
             fix="Either deepen the record in the same pass or demote the status to `reviewed` until the rule surface is mature enough to anchor reuse.",
             examples=STATUS_EXAMPLES,
+        )
+
+    match = HIGH_LOAD_MINOR_POLICY_RE.match(issue)
+    if match:
+        return RepairDiagnostic(
+            severity="warning",
+            category=category,
+            code="high_load_minor_missing_translation_policy",
+            rule="High-load minor records need a compact rule summary",
+            file=match.group("file"),
+            summary=f"The minor record carries high governance load at score={match.group('score')} but has no `translation_policy`",
+            why="A high-load minor may still be a minor record, but repeated doctrinal reuse becomes fragile if tools cannot see its default scope and drift guard.",
+            fix=f"Add a compact `translation_policy` block describing default scope, non-application, inheritance, and drift risk. Minimal compliant shape: {field_snippet('translation_policy')}",
+            examples=field_examples("translation_policy"),
         )
 
     file = issue_file(issue)
@@ -871,6 +941,7 @@ def collect_lint_results(
         check_stabilized_term_policy(terms) if enforce_stabilized_terms else []
     )
     translation_policy_issues = check_translation_policy_consistency(terms)
+    high_load_minor_policy_issues = check_high_load_minor_translation_policy(terms)
     authority_basis_issues = check_authority_basis_consistency(terms)
     generic_authority_issues = check_generic_authority_basis_refinement(terms)
     status_discipline_issues = check_stable_status_discipline(terms)
@@ -901,6 +972,8 @@ def collect_lint_results(
         warnings["Example Sources"].extend(example_source_issues)
     if thin_governance_issues:
         warnings["Governance Surface"].extend(thin_governance_issues)
+    if high_load_minor_policy_issues:
+        warnings["Minor Governance"].extend(high_load_minor_policy_issues)
     if gloss_issues:
         warnings["Glossing"].extend(gloss_issues)
 

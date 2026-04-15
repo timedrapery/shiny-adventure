@@ -295,6 +295,29 @@ class LintRuleTests(unittest.TestCase):
             issues,
         )
 
+    def test_high_load_minor_entries_require_translation_policy(self) -> None:
+        terms = {
+            "asavanam-khaya": {
+                "entry_type": "minor",
+                "status": "reviewed",
+                "part_of_speech": "phrase",
+                "preferred_translation": "through the wearing away of the outflows",
+                "notes": "Whole-phrase liberation formula.",
+                "example_phrases": [{"pali": "āsavānaṁ khayā", "source": "MN 2"}],
+                "sutta_references": ["MN 2", "MN 36"],
+                "tags": ["core-doctrine", "formula", "liberation", "translation-sensitive"],
+            }
+        }
+
+        issues = lint_terms.check_high_load_minor_translation_policy(terms)
+
+        self.assertEqual(
+            issues,
+            [
+                "asavanam-khaya.json: high-load minor entry is missing translation_policy (score=11); add a compact rule summary before further reuse"
+            ],
+        )
+
     def test_authority_basis_sources_should_appear_in_notes(self) -> None:
         terms = {
             "dukkha": {
@@ -537,6 +560,33 @@ class LintRuleTests(unittest.TestCase):
             errors["Status Discipline"],
             [
                 "sati.json: stable major entry does not yet meet the stable-floor maturity gate (context_rules=2, example_phrases=1, authority_basis=1, note_words=40); demote to reviewed or deepen the rule surface"
+            ],
+        )
+
+    def test_collect_lint_results_groups_minor_governance_warnings(self) -> None:
+        terms = {
+            "asavanam-khaya": {
+                "entry_type": "minor",
+                "status": "reviewed",
+                "part_of_speech": "phrase",
+                "preferred_translation": "through the wearing away of the outflows",
+                "notes": "Whole-phrase liberation formula.",
+                "example_phrases": [{"pali": "āsavānaṁ khayā", "source": "MN 2"}],
+                "sutta_references": ["MN 2", "MN 36"],
+                "tags": ["core-doctrine", "formula", "liberation", "translation-sensitive"],
+            }
+        }
+
+        errors, warnings = lint_terms.collect_lint_results(
+            terms,
+            enforce_stabilized_terms=False,
+        )
+
+        self.assertEqual(errors, {})
+        self.assertEqual(
+            warnings["Minor Governance"],
+            [
+                "asavanam-khaya.json: high-load minor entry is missing translation_policy (score=11); add a compact rule summary before further reuse"
             ],
         )
 

@@ -42,5 +42,11 @@
   "sutta_references": [
     "SN 45.8",
     "MN 117"
-  ]
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard collective label for the eight-factor path when the whole ariya-atthangika-magga expression is present.",
+    "when_not_to_apply": "Do not replace the collective label with slogan-like paraphrase or treat it as a substitute for the governed same-factor entries when the passage is actually unpacking the path.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the collective path label from drifting away from the repository's governed same-factor family."
+  }
 }

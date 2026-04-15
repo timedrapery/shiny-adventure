@@ -22,6 +22,12 @@
   "sutta_references": [
     "SN 12.2"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard whole-compound rendering when the asesa-viraga-nirodha sequence appears as one governed formula.",
+    "when_not_to_apply": "Do not compress fading and quenching into one generic ending word, and do not substitute a looser paraphrase when the paired sequence itself is doing doctrinal work.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the paired viraga-nirodha formula from collapsing into unmarked cessation-language."
+  },
   "tags": [
     "formula",
     "core-doctrine",

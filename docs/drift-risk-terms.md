@@ -45,6 +45,26 @@ Risk: This term is often translated as `concentration`, but the repository prefe
 
 Risk: The term sits near perception, recognition, labeling, and conceptual marking. Small gloss shifts can blur distinctions with `viññāṇa`, `sati`, and aggregate terminology.
 
+### `āsava`
+
+Risk: The term is easily flattened into generic defilement-language or rotated among `outflow`, `taint`, `effluent`, and older inherited glosses. Drift here weakens `MN 2`, `āsavānaṁ khayā`, and `āsavakkhaya`.
+
+### `upādāna`
+
+Risk: The term often collapses into generic attachment-language. In this repository it must stay distinct from `taṇhā`, preserve its appropriative force, and still allow the fixed `clung-to heaps` expressions to remain stable.
+
+### `anusaya`
+
+Risk: The term can blur into habit-language, broad defilement-language, or active hindrance-language. Drift here damages the repo's ability to distinguish latent persistence from active obstruction and binding fetter.
+
+### `saṁyojana`
+
+Risk: The familiar English `fetter` is stable, but nearby prose easily blurs it with `anusaya`, `āsava`, or vague attachment-language. Drift here destabilizes awakening-stage analysis and lower/higher-fetter handling.
+
+### `kilesa` and `upakkilesa`
+
+Risk: These terms are close enough in English that translators may let the broader defilement family swallow the narrower corruption family. Drift here spreads quickly into `MN 7` and related cleansing-imagery surfaces.
+
 ## Editorial Rule
 
 When editing one of the terms above:

@@ -41,6 +41,12 @@
   "sutta_references": [
     "SN 22.105"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording for the canonical equation that ties sakkaya directly to the five clung-to heaps.",
+    "when_not_to_apply": "Do not weaken sakkaya into personality-language or weaken pancupadanakkhandha into aggregate-of-attachment language when this identity-formula is doing direct doctrinal work.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the key sakkaya equation from drifting away from the repository's governed identity and clung-to-heaps defaults."
+  },
   "tags": [
     "aggregates",
     "formula",
