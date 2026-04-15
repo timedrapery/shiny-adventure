@@ -11,7 +11,7 @@
     "truth of suffering"
   ],
   "definition": "The first noble truth, concerning dissatisfaction and the burden of clinging.",
-  "notes": "This record keeps the first truth readable as the dissatisfaction-side member of the fourfold set while pointing back to the governed dukkha headword for wider translation policy.",
+  "notes": "This record keeps the first truth readable as the dissatisfaction-side member of the fourfold set while pointing back to the governed dukkha headword for wider translation policy. The OSF glossary and SN 56.11 support keeping the first truth aligned with dissatisfaction rather than letting truth-of-suffering wording creep back in.",
   "related_terms": [
     "ariyasacca",
     "dukkha"
@@ -29,6 +29,25 @@
   "sutta_references": [
     "SN 56.11"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping the first truth aligned with the house default of dukkha -> dissatisfaction rather than drifting back into suffering-language."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the canonical first-truth naming line and its brief identification with the five clung-to heaps."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'noble truth of dissatisfaction' as the default naming line for the first truth unless a recorded local reason requires only the shorter 'first noble truth' orientation gloss.",
+    "when_not_to_apply": "Do not let the formula drift into suffering-language or reduce the truth-label to a slogan detached from the governed dukkha and clung-to-heaps surface.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the first truth from drifting back toward 'truth of suffering' or other uncontrolled shorthand in translation-facing prose."
+  },
   "tags": [
     "core-doctrine",
     "four-noble-truths"

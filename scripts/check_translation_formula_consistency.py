@@ -30,6 +30,15 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
         r"observing\s+feelings\s+in\s+relation\s+to\s+feelings"
     ),
     "one kind of feeling": re.compile(r"\bone\s+kind\s+of\s+feeling\b"),
+    "tanha formula desire wording": re.compile(
+        r"\bthat desire that (?:leads to renewed becoming|causes rebirth)\b",
+        re.IGNORECASE,
+    ),
+    "tanha formula rebirth shorthand": re.compile(r"\bcauses rebirth\b"),
+    "tanha formula craving collapse": re.compile(r"\baccompanied by craving\b"),
+    "tanha formula pleasure collapse": re.compile(r"\baccompanied by pleasure\b"),
+    "tanha formula this-and-that attachment": re.compile(r"\battached to this and that\b"),
+    "tanha formula enjoying everything": re.compile(r"\benjoying everything\b"),
 }
 
 PATTERN_GUIDANCE: dict[str, str] = {
@@ -44,6 +53,12 @@ PATTERN_GUIDANCE: dict[str, str] = {
     "neutral feeling": "Use `mixed feeling`, not `neutral feeling`, for the third vedanā register.",
     "observing feelings in relation to feelings": "Use `observing felt experience in relation to felt experience` in satipaṭṭhāna formulas.",
     "one kind of feeling": "Use `one kind of felt experience` in the satipaṭṭhāna fulfillment formula.",
+    "tanha formula desire wording": "Use `that ignorant wanting that leads to renewed becoming` in the SN 56.11 taṇhā-definition line.",
+    "tanha formula rebirth shorthand": "Keep `ponobbhavikā` in renewed-becoming language in the governed taṇhā-definition formula; do not flatten it to `causes rebirth`.",
+    "tanha formula craving collapse": "Keep `nandī` and `rāga` distinct as `relishing and passion` in the governed taṇhā-definition formula.",
+    "tanha formula pleasure collapse": "Keep `nandī` and `rāga` distinct as `relishing and passion` in the governed taṇhā-definition formula.",
+    "tanha formula this-and-that attachment": "Use `delighting here and there` or the recorded controlled alternate, not `attached to this and that`, in the governed taṇhā-definition formula.",
+    "tanha formula enjoying everything": "Use `delighting here and there` or the recorded controlled alternate in the governed taṇhā-definition formula.",
 }
 
 

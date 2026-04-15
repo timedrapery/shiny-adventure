@@ -11,7 +11,7 @@
     "truth of annihilation"
   ],
   "definition": "The third noble truth, concerning the quenching of dissatisfaction.",
-  "notes": "This record preserves the nirodha headword default of quenching in the standard four-truths naming formula rather than letting generic cessation-language become automatic here.",
+  "notes": "This record preserves the nirodha headword default of quenching in the standard four-truths naming formula rather than letting generic cessation-language become automatic here. The OSF glossary and SN 56.11 support keeping the third truth governed as quenching, with the release-sequence tail making that quenching explicit.",
   "related_terms": [
     "ariyasacca",
     "nirodha"
@@ -29,6 +29,25 @@
   "sutta_references": [
     "SN 56.11"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping quenching available as the house default for nirodha in the third truth rather than yielding to ungoverned cessation-shorthand."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the canonical third-truth naming line and the release-sequence tail that defines it."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'noble truth of quenching' as the default naming line for the third truth unless a recorded explanatory context explicitly licenses a narrower alternate from the governed nirodha headword.",
+    "when_not_to_apply": "Do not let the line collapse into vague cessation-language or into generic positivity detached from the governed quenching of taṇhā.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the third truth from drifting into uncontrolled cessation-language and keeps it tied to the repo's quenching default."
+  },
   "tags": [
     "core-doctrine",
     "four-noble-truths"

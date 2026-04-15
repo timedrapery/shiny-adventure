@@ -11,7 +11,7 @@
     "truth of self-improvement"
   ],
   "definition": "The fourth noble truth, concerning the path leading to quenching.",
-  "notes": "This record names the path-side truth while pointing readers back to the governed magga headword and the practical course language of patipada when the line needs that explanatory surface.",
+  "notes": "This record names the path-side truth while pointing readers back to the governed magga headword and the practical course language of patipada when the line needs that explanatory surface. The OSF glossary and SN 56.11 support keeping this truth-label stable while the fuller formula expands into the path of practice leading to quenching.",
   "related_terms": [
     "ariyasacca",
     "magga"
@@ -29,6 +29,25 @@
   "sutta_references": [
     "SN 56.11"
   ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping path-language stable on the fourth-truth side while allowing path-of-practice explanation where the fuller formula requires it."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the canonical fourth-truth naming line and its immediate expansion as the noble eightfold path."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'noble truth of the path' as the default naming line for the fourth truth, and let the fuller formula expand it into 'the path of practice leading to the quenching of dissatisfaction' when the source sentence requires that explicit course-of-practice wording.",
+    "when_not_to_apply": "Do not recast the truth-label as self-improvement language or detach it from the governed path-factor set.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the fourth truth from collapsing into generic improvement rhetoric or from losing the link between magga and paṭipadā."
+  },
   "tags": [
     "core-doctrine",
     "four-noble-truths"

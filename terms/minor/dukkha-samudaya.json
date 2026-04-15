@@ -5,7 +5,7 @@
   "part_of_speech": "compound",
   "preferred_translation": "origin of dissatisfaction",
   "definition": "The second-truth expression naming the origin of dissatisfaction.",
-  "notes": "Use this record when the compact compound dukkha-samudaya is named directly rather than unfolded as the full noble-truth formula. Keep the compound aligned with the headword defaults for dukkha and samudaya, and do not let the term drift back into suffering-language by habit.",
+  "notes": "Use this record when the compact compound dukkha-samudaya is named directly rather than unfolded as the full noble-truth formula. Keep the compound aligned with the headword defaults for dukkha and samudaya, and do not let the term drift back into suffering-language by habit. The OSF glossary and SN 56.11 support this compact truth-label use and keep it coordinated with the governed taṇhā-definition line rather than functioning as a free-floating slogan.",
   "related_terms": [],
   "status": "reviewed",
   "literal_meaning": "origin of dissatisfaction",
@@ -19,6 +19,19 @@
   ],
   "sutta_references": [
     "SN 56.11"
+  ],
+  "authority_basis": [
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "gloss",
+      "scope": "Supports keeping the compound aligned with the house defaults for dukkha and samudaya rather than reverting to suffering-language."
+    },
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the compact second-truth naming line where the compound itself is present."
+    }
   ],
   "translation_policy": {
     "default_scope": "Use 'origin of dissatisfaction' when the compact second-truth compound itself is named; prefer the full noble-truth formula when the sentence explicitly uses the longer construction.",

@@ -13,7 +13,7 @@
     "accompanied by pleasure"
   ],
   "definition": "A stock phrase that coordinates nandī and rāga in the classic definition of taṇhā.",
-  "notes": "Use this record when the phrase appears as a whole. Keep nandī and rāga distinct in English rather than collapsing both into one generic word such as craving or desire. In the stock taṇhā definition line this phrase sits between the renewed-becoming opening and the delighting-here-and-there tail, so it should remain audible as a coordinated middle segment rather than as a vague intensifier.",
+  "notes": "Use this record when the phrase appears as a whole. Keep nandī and rāga distinct in English rather than collapsing both into one generic word such as craving or desire. In the stock taṇhā definition line this phrase sits between the renewed-becoming opening and the delighting-here-and-there tail, so it should remain audible as a coordinated middle segment rather than as a vague intensifier. SN 56.11 and the OSF glossary support keeping relishing and passion audible as two distinct factors here.",
   "related_terms": [
     "nandi",
     "raga",
@@ -30,6 +30,19 @@
   ],
   "sutta_references": [
     "SN 56.11"
+  ],
+  "authority_basis": [
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the middle segment of the classic taṇhā-definition line where nandī and rāga must remain distinct."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping relishing and passion audible as coordinated factors rather than collapsing them into one English affect word."
+    }
   ],
   "tags": [
     "four-noble-truths",

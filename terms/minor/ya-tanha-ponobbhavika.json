@@ -12,7 +12,7 @@
     "that desire that causes rebirth"
   ],
   "definition": "Opening segment of the classic four-truth definition of taṇhā.",
-  "notes": "Use this record when the stock formula is translated as a unit. Keep taṇhā distinct from generic desire-language, preserve the renewed-becoming force of ponobbhavikā, and keep the opening segment coordinated with the following formula members nandirāgasahagatā and tatratatrābhinandinī.",
+  "notes": "Use this record when the stock formula is translated as a unit. Keep taṇhā distinct from generic desire-language, preserve the renewed-becoming force of ponobbhavikā, and keep the opening segment coordinated with the following formula members nandirāgasahagatā and tatratatrābhinandinī. SN 56.11 and the OSF glossary support this governed opening and block drift into generic desire or rebirth shorthand.",
   "related_terms": [
     "nandi",
     "nandiraga-sahagata",
@@ -30,6 +30,19 @@
   ],
   "sutta_references": [
     "SN 56.11"
+  ],
+  "authority_basis": [
+    {
+      "source": "SN 56.11",
+      "kind": "context-rule",
+      "scope": "Supports the opening segment of the classic taṇhā-definition line in the second truth."
+    },
+    {
+      "source": "OSF glossary",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "Supports keeping taṇhā explicit as ignorant wanting and keeping ponobbhavikā in renewed-becoming language rather than generic rebirth shorthand."
+    }
   ],
   "tags": [
     "four-noble-truths",

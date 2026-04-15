@@ -93,6 +93,28 @@ class TranslationFormulaConsistencyTests(unittest.TestCase):
         self.assertIn("observing feelings in relation to feelings", labels)
         self.assertIn("one kind of feeling", labels)
 
+    def test_build_report_flags_tanha_definition_drift(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            translations = repo_root / "docs" / "translations"
+            translations.mkdir(parents=True)
+            (translations / "sample.md").write_text(
+                "That desire that causes rebirth, accompanied by craving, attached to this and that.\n"
+                "Later the same surface says it is accompanied by pleasure and enjoying everything.\n",
+                encoding="utf-8",
+            )
+
+            report = formula_audit.build_report(repo_root, translations)
+
+        self.assertEqual(report["summary"]["matches"], 6)
+        labels = {finding["label"] for finding in report["findings"]}
+        self.assertIn("tanha formula desire wording", labels)
+        self.assertIn("tanha formula rebirth shorthand", labels)
+        self.assertIn("tanha formula craving collapse", labels)
+        self.assertIn("tanha formula pleasure collapse", labels)
+        self.assertIn("tanha formula this-and-that attachment", labels)
+        self.assertIn("tanha formula enjoying everything", labels)
+
 
 if __name__ == "__main__":
     unittest.main()
