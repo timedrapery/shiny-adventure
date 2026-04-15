@@ -104,6 +104,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn56_11",
+        label="SN 56.11",
+        main_relpath="docs/translations/sn56-11-dhammacakkappavattana-sutta.md",
+        notes_relpath="docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn22_59",
         label="SN 22.59",
         main_relpath="docs/translations/sn22-59-anattalakkhana-sutta.md",
