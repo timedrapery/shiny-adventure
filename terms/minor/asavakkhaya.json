@@ -22,6 +22,12 @@
   "sutta_references": [
     "MN 2"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the compact doctrinal compound for the outflow-ending liberation goal when the asavakkhaya compound itself is present.",
+    "when_not_to_apply": "Do not flatten the compound into generic release or generic ending language, and do not substitute the longer phrase record unless the full phrase is actually present in the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the compact asavakkhaya compound from drifting away from the repository's governed outflow-family wording."
+  },
   "tags": [
     "core-doctrine",
     "formula",

@@ -81,6 +81,7 @@ class RepoHealthTests(unittest.TestCase):
                 }
             ],
         )
+        self.assertEqual(report["minor_governance"]["high_load_minors"], [])
 
     def test_build_report_groups_major_translation_collisions(self) -> None:
         terms = {
@@ -223,6 +224,36 @@ class RepoHealthTests(unittest.TestCase):
                         "missing_drift_risk",
                         "preferred_not_in_context_rules",
                     ],
+                }
+            ],
+        )
+
+    def test_build_report_surfaces_high_load_minor_queue(self) -> None:
+        terms = {
+            "asavanam-khaya": {
+                "entry_type": "minor",
+                "status": "reviewed",
+                "part_of_speech": "phrase",
+                "preferred_translation": "through the wearing away of the outflows",
+                "notes": "Whole-phrase liberation formula.",
+                "example_phrases": [{"pali": "āsavānaṁ khayā", "source": "MN 2"}],
+                "sutta_references": ["MN 2", "MN 36"],
+                "tags": ["core-doctrine", "formula", "liberation", "translation-sensitive"],
+            }
+        }
+
+        report = repo_health.build_report(terms)
+
+        self.assertEqual(
+            report["minor_governance"]["high_load_minors"],
+            [
+                {
+                    "term": "asavanam-khaya",
+                    "status": "reviewed",
+                    "score": 11,
+                    "missing_fields": ["translation_policy"],
+                    "sutta_reference_count": 2,
+                    "tags": ["core-doctrine", "formula", "liberation", "translation-sensitive"],
                 }
             ],
         )

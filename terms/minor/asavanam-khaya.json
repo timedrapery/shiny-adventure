@@ -29,6 +29,12 @@
     "MN 2",
     "MN 36"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard whole-phrase liberation formula when the full asavanam-khaya expression is present.",
+    "when_not_to_apply": "Do not recast the phrase into generic defilement or generic ending language, and do not prefer the shorter compound record when the full phrase is the actual text being translated.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the full outflow-ending formula from drifting away from the repository's governed asava and khaya wording."
+  },
   "tags": [
     "core-doctrine",
     "formula",

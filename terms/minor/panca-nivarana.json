@@ -28,6 +28,12 @@
     "DN 2",
     "MN 118"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard collective label for the five-distraction framework in governed practice and jhana-entry contexts.",
+    "when_not_to_apply": "Do not fall back to hindrances as an unmarked default unless comparative prose explicitly needs it, and do not replace the collective label with ad hoc problem-language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the governed five-distraction framework from drifting back into mixed hindrance and generic obstacle language."
+  },
   "tags": [
     "core-doctrine",
     "core-practice",

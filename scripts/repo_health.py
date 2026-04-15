@@ -32,6 +32,18 @@ RULE_LANGUAGE_MARKERS = (
     "avoid",
     "prefer",
 )
+HIGH_LOAD_MINOR_PRIORITY_TAGS = {
+    "core-doctrine",
+    "dependent-origination",
+    "four-noble-truths",
+    "aggregates",
+    "translation-sensitive",
+    "liberation",
+    "self-view",
+    "formula",
+    "path-family",
+}
+HIGH_LOAD_MINOR_SCORE_THRESHOLD = 7
 
 
 def stem_key(value: str) -> str:
@@ -77,6 +89,41 @@ def is_non_empty_string(value: object) -> bool:
 def has_rule_language(text: str) -> bool:
     lowered = text.casefold()
     return any(marker in lowered for marker in RULE_LANGUAGE_MARKERS)
+
+
+def minor_policy_score(data: dict[str, object]) -> int:
+    tags = data.get("tags", [])
+    tag_set = {tag for tag in tags if isinstance(tag, str)} if isinstance(tags, list) else set()
+    references = data.get("sutta_references", [])
+    reference_count = len(references) if isinstance(references, list) else 0
+
+    score = 2 * len(tag_set & HIGH_LOAD_MINOR_PRIORITY_TAGS)
+    score += min(reference_count, 4)
+    if data.get("part_of_speech") in {"phrase", "expression"}:
+        score += 1
+    preferred = data.get("preferred_translation")
+    term = data.get("term")
+    if isinstance(preferred, str) and preferred == term:
+        score += 1
+    return score
+
+
+def missing_minor_policy_fields(data: dict[str, object]) -> list[str]:
+    missing: list[str] = []
+
+    notes = data.get("notes")
+    if not is_non_empty_string(notes):
+        missing.append("notes")
+
+    examples = data.get("example_phrases")
+    if not isinstance(examples, list) or len(examples) == 0:
+        missing.append("example_phrases")
+
+    translation_policy = data.get("translation_policy")
+    if not isinstance(translation_policy, dict) or len(translation_policy) == 0:
+        missing.append("translation_policy")
+
+    return missing
 
 
 def compute_summary(terms: dict[str, dict[str, object]]) -> dict[str, object]:
@@ -262,6 +309,46 @@ def collect_weak_major_rule_entries(
     return weak_entries
 
 
+def collect_high_load_minor_entries(
+    terms: dict[str, dict[str, object]]
+) -> list[dict[str, object]]:
+    results: list[dict[str, object]] = []
+
+    for stem, data in sorted(terms.items()):
+        if data.get("entry_type") != "minor" or data.get("status") not in {"reviewed", "stable"}:
+            continue
+
+        score = minor_policy_score(data)
+        if score < HIGH_LOAD_MINOR_SCORE_THRESHOLD:
+            continue
+
+        missing_fields = missing_minor_policy_fields(data)
+        if not missing_fields:
+            continue
+
+        tags = data.get("tags", [])
+        references = data.get("sutta_references", [])
+        results.append(
+            {
+                "term": stem,
+                "status": str(data.get("status", "")),
+                "score": score,
+                "missing_fields": missing_fields,
+                "sutta_reference_count": len(references) if isinstance(references, list) else 0,
+                "tags": [tag for tag in tags if isinstance(tag, str)] if isinstance(tags, list) else [],
+            }
+        )
+
+    results.sort(
+        key=lambda item: (
+            -item["score"],
+            -item["sutta_reference_count"],
+            item["term"],
+        )
+    )
+    return results
+
+
 def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     summary = compute_summary(terms)
     missing_advanced = collect_major_missing_advanced_fields(terms)
@@ -270,6 +357,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     example_source_gap_tags = collect_example_source_gap_tags(terms, example_source_gaps)
     translation_collisions = collect_preferred_translation_collisions(terms)
     weak_major_rule_entries = collect_weak_major_rule_entries(terms)
+    high_load_minor_entries = collect_high_load_minor_entries(terms)
 
     return {
         "summary": summary,
@@ -281,6 +369,9 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
         "rule_strength": {
             "weak_major_entries": weak_major_rule_entries,
         },
+        "minor_governance": {
+            "high_load_minors": high_load_minor_entries,
+        },
         "example_source_gaps": example_source_gaps,
         "example_source_gap_tags": example_source_gap_tags,
         "preferred_translation_collisions": translation_collisions,
@@ -291,6 +382,7 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
     summary = report["summary"]
     policy = report["major_policy_coverage"]
     rule_strength = report["rule_strength"]
+    minor_governance = report["minor_governance"]
     example_source_gaps = report["example_source_gaps"]
     example_source_gap_tags = report["example_source_gap_tags"]
     collisions = report["preferred_translation_collisions"]
@@ -336,6 +428,22 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
             )
         if len(rule_strength["weak_major_entries"]) > top:
             remaining = len(rule_strength["weak_major_entries"]) - top
+            print(f"- ... {remaining} more term(s)")
+    print()
+
+    print("High-Load Minor Queue")
+    if not minor_governance["high_load_minors"]:
+        print("- None")
+    else:
+        for item in minor_governance["high_load_minors"][:top]:
+            missing = ", ".join(item["missing_fields"])
+            tags = ", ".join(item["tags"]) if item["tags"] else "-"
+            print(
+                f"- {safe_text(item['term'])}: status {item['status']}; "
+                f"score {item['score']}; missing {safe_text(missing)}; tags {safe_text(tags)}"
+            )
+        if len(minor_governance["high_load_minors"]) > top:
+            remaining = len(minor_governance["high_load_minors"]) - top
             print(f"- ... {remaining} more term(s)")
     print()
 
