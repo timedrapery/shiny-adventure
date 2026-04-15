@@ -1,0 +1,34 @@
+{
+  "term": "dukkhasamudaya",
+  "normalized_term": "dukkha-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of dissatisfaction",
+  "definition": "The second-truth expression naming the origin of dissatisfaction.",
+  "notes": "Use this record when the compact compound dukkha-samudaya is named directly rather than unfolded as the full noble-truth formula. Keep the compound aligned with the headword defaults for dukkha and samudaya, and do not let the term drift back into suffering-language by habit.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of dissatisfaction",
+  "example_phrases": [
+    {
+      "pali": "ayaṃ dukkhasamudayo ariyasaccaṃ",
+      "translation": "this is the noble truth of the origin of dissatisfaction",
+      "notes": "Compact truth-label use for the second truth.",
+      "source": "SN 56.11"
+    }
+  ],
+  "sutta_references": [
+    "SN 56.11"
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'origin of dissatisfaction' when the compact second-truth compound itself is named; prefer the full noble-truth formula when the sentence explicitly uses the longer construction.",
+    "when_not_to_apply": "Do not let the compound drift into suffering-language or replace it with a looser paraphrase when the truth-label itself is under discussion.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the second-truth compound from drifting away from the repository defaults for dukkha and samudaya."
+  },
+  "tags": [
+    "four-noble-truths",
+    "core-doctrine",
+    "translation-sensitive"
+  ]
+}

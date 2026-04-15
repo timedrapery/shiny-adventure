@@ -1,0 +1,33 @@
+{
+  "term": "vedanāsamudaya",
+  "normalized_term": "vedana-samudaya",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "origin of felt experience",
+  "definition": "The arising or originating condition of felt experience within dependent-arising analysis.",
+  "notes": "Use this record when the origin-side compound is named compactly as vedana-samudaya rather than quoted as a fuller origin-line sentence. Keep the compound aligned with the headword defaults for vedana and samudaya, and do not let the term drift into emotion-language or generic feeling-language.",
+  "related_terms": [],
+  "status": "reviewed",
+  "literal_meaning": "origin of felt experience",
+  "example_phrases": [
+    {
+      "pali": "vedanāsamudaya",
+      "translation": "origin of felt experience",
+      "notes": "Compact origin-side compound in the dependent-arising family.",
+      "source": "SN 12.43"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.43"
+  ],
+  "translation_policy": {
+    "default_scope": "Use for the compact named vedana-samudaya compound inside the origin-side dependent-arising family; prefer fuller origin-line wording when the canonical sentence itself is present.",
+    "when_not_to_apply": "Do not flatten the compound into emotion-language or treat generic feeling-language as an interchangeable default when the repository's vedana policy is governing the passage.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the origin-side vedana compound from drifting into emotion-language or away from the repository's felt-experience default."
+  },
+  "tags": [
+    "dependent-origination",
+    "translation-sensitive"
+  ]
+}
