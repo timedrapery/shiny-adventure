@@ -3,16 +3,16 @@
   "normalized_term": "sankhara-nirodha",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "quenching of putting together",
+  "preferred_translation": "quenching of putting things together",
   "definition": "A dependent-origination link named on the side of cessation and quenching.",
   "notes": "Use this record when the reverse dependent-arising link is named compactly as sankhara-nirodha rather than quoted as the fuller reverse-line sentence. Keep the family aligned with the repository's quenching default for nirodha and prefer fuller reverse-sequence wording when the canonical sentence itself is present.",
   "related_terms": [],
   "status": "reviewed",
-  "literal_meaning": "quenching of putting together",
+  "literal_meaning": "quenching of putting things together",
   "example_phrases": [
     {
       "pali": "saṅkhāranirodhā viññāṇanirodho",
-      "translation": "with the quenching of putting together, the quenching of knowing",
+      "translation": "with the quenching of putting things together, the quenching of knowing",
       "notes": "Shows the reverse-chain usage.",
       "source": "SN 12.2"
     }

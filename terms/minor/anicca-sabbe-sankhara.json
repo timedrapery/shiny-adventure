@@ -12,7 +12,7 @@
     "all formations are impermanent"
   ],
   "definition": "Canonical three-marks formula stating the impermanent character of saṅkhārā.",
-  "notes": "Use this record for the full formula line. Dhp 277 anchors the line itself. Here the saṅkhārā family takes its result-side reading, so the line should sound like compounded or put-together things rather than the dependent-arising process of putting together. The OSF glossary supports keeping the formula inside the repository's governed saṅkhārā family rather than defaulting to formations-language.",
+  "notes": "Use this record for the full formula line. Dhp 277 anchors the line itself. Here the saṅkhārā family takes its result-side reading, so the line should sound like compounded or put-together things rather than the dependent-arising process of putting things together. The OSF glossary supports keeping the formula inside the repository's governed saṅkhārā family rather than defaulting to formations-language.",
   "context_rules": [
     {
       "context": "In direct Dhp 277-style formula translation",

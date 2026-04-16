@@ -4,13 +4,13 @@
   "entry_type": "minor",
   "part_of_speech": "phrase",
   "literal_meaning": "with ignorance as condition, saṅkhārā",
-  "preferred_translation": "with ignorance as condition, putting together",
+  "preferred_translation": "with ignorance as condition, putting things together",
   "definition": "Opening forward-link line in the dependent-arising sequence.",
   "notes": "Use this record for the full line. It keeps avijjā, paccaya, and saṅkhārā in one stable English frame and blocks ad hoc shifts back into vague causal or volitional-formation language. The OSF glossary supports the line's coordinated inheritance from avijjā, paccaya, and saṅkhārā.",
   "context_rules": [
     {
       "context": "In standard chain translation",
-      "rendering": "with ignorance as condition, putting together",
+      "rendering": "with ignorance as condition, putting things together",
       "notes": "Default full-line rendering."
     },
     {
@@ -28,7 +28,7 @@
   "example_phrases": [
     {
       "pali": "avijjāpaccayā saṅkhārā",
-      "translation": "with ignorance as condition, putting together",
+      "translation": "with ignorance as condition, putting things together",
       "source": "SN 12.2"
     }
   ],

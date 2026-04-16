@@ -145,7 +145,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [avijja-anusaya](../../terms/minor/avijja-anusaya.json) | avijjā-anusaya | underlying tendency toward ignorance | stable | core-doctrine, mental-qualities |
 | [avijja-nirodha](../../terms/minor/avijja-nirodha.json) | avijja-nirodha | quenching of ignorance | reviewed | dependent-origination, liberation |
 | [avijja-paccaya](../../terms/minor/avijja-paccaya.json) | avijja-paccaya | ignorance as condition | reviewed | dependent-origination, causality |
-| [avijjapaccaya-sankhara](../../terms/minor/avijjapaccaya-sankhara.json) | avijjāpaccayā saṅkhārā | with ignorance as condition, putting together | reviewed | dependent-origination, causality, translation-sensitive |
+| [avijjapaccaya-sankhara](../../terms/minor/avijjapaccaya-sankhara.json) | avijjāpaccayā saṅkhārā | with ignorance as condition, putting things together | reviewed | dependent-origination, causality, translation-sensitive |
 | [avijjasava](../../terms/minor/avijjasava.json) | avijjāsava | outflow of ignorance | stable | core-doctrine, mental-qualities |
 | [avijjayoga](../../terms/minor/avijjayoga.json) | avijjāyoga | yoke of ignorance | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [avijjogha](../../terms/minor/avijjogha.json) | avijjogha | flood of ignorance | stable | core-doctrine, mental-qualities, bondage-imagery |
@@ -764,10 +764,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sanghakamma](../../terms/minor/sanghakamma.json) | saṅghakamma | Saṅgha act | reviewed | core-practice |
 | [sanghanussati](../../terms/minor/sanghanussati.json) | saṅghānussati | recollection of the saṅgha | reviewed | core-practice, translation-sensitive |
 | [sankappa](../../terms/minor/sankappa.json) | sankappa | attitude | reviewed | ethics, core-practice |
-| [sankhara-nirodha](../../terms/minor/sankhara-nirodha.json) | sankhara-nirodha | quenching of putting together | reviewed | dependent-origination, liberation |
-| [sankhara-paccaya](../../terms/minor/sankhara-paccaya.json) | sankhara-paccaya | putting together as condition | reviewed | dependent-origination, causality |
+| [sankhara-nirodha](../../terms/minor/sankhara-nirodha.json) | sankhara-nirodha | quenching of putting things together | reviewed | dependent-origination, liberation |
+| [sankhara-paccaya](../../terms/minor/sankhara-paccaya.json) | sankhara-paccaya | putting things together as condition | reviewed | dependent-origination, causality |
 | [sankharakkhandha](../../terms/minor/sankharakkhandha.json) | saṅkhārakkhandha | heap of putting-together activities | stable | aggregates, translation-sensitive, context-sensitive |
-| [sankharapaccaya-vinnana](../../terms/minor/sankharapaccaya-vinnana.json) | saṅkhārapaccayā viññāṇaṃ | with putting together as condition, knowing | reviewed | dependent-origination, causality, translation-sensitive |
+| [sankharapaccaya-vinnana](../../terms/minor/sankharapaccaya-vinnana.json) | saṅkhārapaccayā viññāṇaṃ | with putting things together as condition, knowing | reviewed | dependent-origination, causality, translation-sensitive |
 | [sankharupekkha-nana](../../terms/minor/sankharupekkha-nana.json) | sankharupekkha-nana | knowledge of dynamic balance toward formations | reviewed | meditative-development, liberation |
 | [sanna-dhatu](../../terms/minor/sanna-dhatu.json) | saññā-dhātu | recognition element | reviewed | core-doctrine |
 | [sannakkhandha](../../terms/minor/sannakkhandha.json) | saññākkhandha | recognition heap | stable | aggregates, translation-sensitive |

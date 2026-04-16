@@ -25,7 +25,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `paṭiccasamuppāda` remains `dependent arising`.
 - `paccaya` remains `condition`, and the forward-link sequence keeps the
   stable frame `with X as condition, Y`.
-- `saṅkhārā` in the chain remains `putting together`, not `choices` or
+- `saṅkhārā` in the chain remains `putting things together`, not `choices` or
   `volitional formations`.
 - `viññāṇa` remains `knowing`.
 - `nāmarūpa` remains `name-and-form`.
@@ -87,8 +87,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 
 ## Next Refinement Areas
 
-- When SN 56.11 lands, re-check the overlap between this sutta's
-  dissatisfaction-origin language and the four-truths control surface.
+- With SN 56.11 now live, keep the overlap between this sutta's
+  dissatisfaction-origin language and the four-truths control surface aligned.
 - When more SN 12 translations land, consider whether the recurrent `there are
   these six classes ...` patterns deserve dedicated phrase records rather than
   remaining governed by the current headwords and translation notes.
