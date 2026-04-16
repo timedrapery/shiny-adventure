@@ -10,7 +10,7 @@
   Bilara data.
 - House choices that most affect this sutta: `paṭiccasamuppāda` is rendered
   `dependent arising`; `paccaya` remains `condition`; `saṅkhārā` in the chain
-  is rendered `putting together`; `viññāṇa` is rendered `knowing`;
+  is rendered `putting things together`; `viññāṇa` is rendered `knowing`;
   `nāmarūpa` is rendered `name-and-form`; `saḷāyatana` is rendered `six fields
   of experience`; `vedanā` is rendered `felt experience`; `taṇhā` is rendered
   `ignorant wanting`; `upādāna` is rendered `taking personally`; `jāti` is
@@ -44,8 +44,8 @@ The Buddha said this:
 
 "And what, bhikkhus, is dependent arising?
 
-With ignorance as condition, putting together;
-with putting together as condition, knowing;
+With ignorance as condition, putting things together;
+with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;
 with the six fields of experience as condition, contact;
@@ -196,17 +196,17 @@ There are these six classes of knowing:
 
 This is called knowing."
 
-### Putting Together
+### Putting Things Together
 
-"And what, bhikkhus, is putting together?
+"And what, bhikkhus, is putting things together?
 
-There are these three kinds of putting together:
+There are these three kinds of putting things together:
 
-- bodily putting together
-- verbal putting together
-- mental putting together
+- bodily putting things together
+- verbal putting things together
+- mental putting things together
 
-These are called putting together."
+These are called putting things together."
 
 ### Ignorance
 
@@ -220,8 +220,8 @@ This is called ignorance."
 
 ### The Forward And Reverse Summary
 
-"And so, bhikkhus, with ignorance as condition, putting together;
-with putting together as condition, knowing;
+"And so, bhikkhus, with ignorance as condition, putting things together;
+with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;
 with the six fields of experience as condition, contact;
@@ -236,8 +236,8 @@ dissatisfaction, distress, and despair come to be.
 That is how this whole heap of dissatisfaction comes to arise.
 
 But with the complete fading and quenching of ignorance, the quenching of
-putting together;
-with the quenching of putting together, the quenching of knowing;
+putting things together;
+with the quenching of putting things together, the quenching of knowing;
 with the quenching of knowing, the quenching of name-and-form;
 with the quenching of name-and-form, the quenching of the six fields of
 experience;

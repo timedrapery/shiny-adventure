@@ -4,18 +4,18 @@
   "entry_type": "minor",
   "part_of_speech": "phrase",
   "literal_meaning": "with saṅkhārā as condition, viññāṇa",
-  "preferred_translation": "with putting together as condition, knowing",
+  "preferred_translation": "with putting things together as condition, knowing",
   "definition": "Second forward-link line in the dependent-arising sequence.",
   "notes": "Use this record for the whole line when the chain itself is being translated. It keeps the phrase within the repository's process-focused handling of saṅkhārā and conditioned handling of viññāṇa. The OSF glossary supports this coordinated inheritance from saṅkhārā and viññāṇa in the formula line.",
   "context_rules": [
     {
       "context": "In standard chain translation",
-      "rendering": "with putting together as condition, knowing",
+      "rendering": "with putting things together as condition, knowing",
       "notes": "Default full-line rendering."
     },
     {
       "context": "When a controlled doctrinal alternate for viññāṇa is already in use",
-      "rendering": "with putting together as condition, consciousness",
+      "rendering": "with putting things together as condition, consciousness",
       "notes": "Use only when the surrounding translation is already using that controlled alternate."
     }
   ],
@@ -28,7 +28,7 @@
   "example_phrases": [
     {
       "pali": "saṅkhārapaccayā viññāṇaṃ",
-      "translation": "with putting together as condition, knowing",
+      "translation": "with putting things together as condition, knowing",
       "source": "SN 12.2"
     }
   ],

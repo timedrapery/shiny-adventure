@@ -153,7 +153,7 @@ class LintRuleTests(unittest.TestCase):
                 ],
                 "example_phrases": [
                     {"pali": "paccaya", "translation": "condition", "source": "SN 12.2"},
-                    {"pali": "avijjāpaccayā saṅkhārā", "translation": "with ignorance as condition, putting together", "source": "SN 12.2"},
+                    {"pali": "avijjāpaccayā saṅkhārā", "translation": "with ignorance as condition, putting things together", "source": "SN 12.2"},
                 ],
             },
         }

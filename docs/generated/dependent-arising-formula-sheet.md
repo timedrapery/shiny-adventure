@@ -9,8 +9,8 @@
 
 ## Forward Chain
 
-- `avijjāpaccayā saṅkhārā` -> with ignorance as condition, putting together
-- `saṅkhārapaccayā viññāṇaṃ` -> with putting together as condition, knowing
+- `avijjāpaccayā saṅkhārā` -> with ignorance as condition, putting things together
+- `saṅkhārapaccayā viññāṇaṃ` -> with putting things together as condition, knowing
 - `viññāṇapaccayā nāmarūpaṃ` -> with knowing as condition, name-and-form
 - `nāmarūpapaccayā saḷāyatanaṃ` -> with name-and-form as condition, the six fields of experience
 - `saḷāyatanapaccayā phasso` -> with the six fields of experience as condition, contact
