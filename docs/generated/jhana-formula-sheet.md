@@ -9,7 +9,7 @@
 - `avitakka-avicara` -> without thinking and pondering
 - `ajjhatta-sampasadana` -> inner clarity
 - `cetaso-ekodibhava` -> unification of mind
-- `samadhija-piti-sukha` -> delight and ease born of samadhi
+- `samadhija-piti-sukha` -> delight and ease born of mental composure
 
 ## Third mental theme
 

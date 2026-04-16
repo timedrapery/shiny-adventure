@@ -734,7 +734,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
 | [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | mental composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | mental composure strength | reviewed | core-practice, mental-qualities |
-| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of samadhi | reviewed | jhana-factors, meditative-development |
+| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of mental composure | reviewed | jhana-factors, meditative-development |
 | [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | mental composure faculty | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |

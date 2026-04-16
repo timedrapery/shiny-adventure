@@ -81,3 +81,8 @@ Current SN 22.59 surfaces:
 
 - [sn22-59-anattalakkhana-sutta.md](sn22-59-anattalakkhana-sutta.md): main shareable translation text
 - [sn22-59-anattalakkhana-sutta-notes.md](sn22-59-anattalakkhana-sutta-notes.md): companion translator notes and rationale
+
+Current DN 2 surfaces:
+
+- [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text
+- [dn2-samannaphala-sutta-notes.md](dn2-samannaphala-sutta-notes.md): companion translator notes and rationale
