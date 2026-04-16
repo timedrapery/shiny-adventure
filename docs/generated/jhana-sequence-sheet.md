@@ -13,7 +13,7 @@
 
 - Default: `second mental theme`
 - Notes: The second jhāna in the standard fourfold sequence of ariya sammā samādhi.
-- Linked formulas: `avitakka-avicara` -> without thinking and pondering, `ajjhatta-sampasadana` -> inner clarity, `cetaso-ekodibhava` -> unification of mind, `samadhija-piti-sukha` -> delight and ease born of samadhi
+- Linked formulas: `avitakka-avicara` -> without thinking and pondering, `ajjhatta-sampasadana` -> inner clarity, `cetaso-ekodibhava` -> unification of mind, `samadhija-piti-sukha` -> delight and ease born of mental composure
 
 ## tatiya-jhāna
 
