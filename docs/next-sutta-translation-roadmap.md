@@ -10,33 +10,37 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Current First Wave
+## Current Active Queue
 
-1. `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
-2. `SN 56.11` Dhammacakkappavattana Sutta
-3. `DN 2` Sāmaññaphala Sutta
-4. `MN 2` Sabbāsava Sutta
-5. `MN 9` Sammādiṭṭhi Sutta
+Completed from the first wave:
+
+- `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
+- `SN 56.11` Dhammacakkappavattana Sutta
+- `DN 2` Sāmaññaphala Sutta
+- `MN 2` Sabbāsava Sutta
+
+Next active work:
+
+1. `MN 9` Sammādiṭṭhi Sutta
 
 ## Why This Short Queue
 
-- These five texts already anchor the densest current policy surface in the
-  lexicon.
-- Each one pressures a cluster the repo already governs strongly enough to
-  support a stable translation pass now.
-- Together they are the fastest route to reduce future drift across dependent
-  arising, four-truths language, outflow-family prose, right-view analysis,
-  hindrance clearing, and repeated practice formulas.
-- The operational order now runs `SN 56.11` ahead of `DN 2` because the
-  truth-side origin formulas and the `taṇhā` / `upādāna` pressure are the
-  sharper current drift risk after the latest dependent-arising compound pass.
+- The completed first-wave texts anchored dependent arising, four-truths
+  language, hindrance clearing, and repeated practice formulas in outward-facing
+  translation documents.
+- The completed `MN 2` surface now controls outflow-family prose, wise and
+  unwise attention, method verbs, restraint, use, enduring, avoiding,
+  dispelling, and development in one outward-facing document.
+- `MN 9` is now the next active pressure point because it tests right-view
+  analysis, root-family language, nutriment, appropriation, and
+  dependent-arising prose in a longer analytical exposition.
 
 ## Operating Note
 
 Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md)
-as the operational prep packet for this queue, and use
-[asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when working
-`MN 2`.
+as the operational prep packet for the completed and remaining first-wave work.
+Use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when
+revising the completed `MN 2` outflow surface.
 
 For each of these texts:
 

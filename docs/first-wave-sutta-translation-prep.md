@@ -2,30 +2,37 @@
 
 ## Purpose
 
-This prep packet turns the current first-wave queue into an operational worklist.
+This prep packet records the completed first-wave surfaces and the remaining
+first-wave operational worklist.
 
 Use it together with [next-suttas-roadmap.md](next-suttas-roadmap.md) for the
 full ranking logic and [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)
 for the short queue.
 
-## Working Order
+## Current Status
 
-1. `SN 12.2`
-2. `SN 56.11`
-3. `DN 2`
-4. `MN 2`
-5. `MN 9`
+Completed:
+
+- `SN 12.2`
+- `SN 56.11`
+- `DN 2`
+- `MN 2`
+
+Remaining active order:
+
+1. `MN 9`
 
 Operational note:
-work `SN 56.11` before `DN 2` in the current pass because the truth-side
-origin formulas now carry more immediate drift pressure than the already
-better-governed jhāna prose.
+the completed `SN 56.11` and `DN 2` surfaces should be used as reference
+controls when later work touches truth-side origin formulas, hindrance clearing,
+or jhāna prose.
 
 ## Sutta Prep
 
 ### `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
 
-- Review first: dependent-arising headwords and link terms, especially
+- Status: completed translation surface.
+- Review first when revising: dependent-arising headwords and link terms, especially
   `paṭiccasamuppāda`, `paccaya`, `nirodha`, `jāti`, `phassa`, `vedanā`,
   `taṇhā`, `upādāna`, `nāmarūpa`, and `viññāṇa`.
 - Consult:
@@ -40,7 +47,8 @@ better-governed jhāna prose.
 
 ### `DN 2` Sāmaññaphala Sutta
 
-- Review first: `jhāna`, `samādhi`, `sammā-samādhi`, `ekaggatā`, `vitakka`,
+- Status: completed translation surface.
+- Review first when revising: `jhāna`, `samādhi`, `sammā-samādhi`, `ekaggatā`, `vitakka`,
   `vicāra`, `pīti`, `sukha`, `nīvaraṇa`, and `saṃvara`.
 - Consult:
   [first-jhana-entry-sheet.md](first-jhana-entry-sheet.md),
@@ -55,7 +63,8 @@ better-governed jhāna prose.
 
 ### `SN 56.11` Dhammacakkappavattana Sutta
 
-- Review first: `ariyasacca`, `dukkha`, `samudaya`, `nirodha`, `magga`,
+- Status: completed translation surface.
+- Review first when revising: `ariyasacca`, `dukkha`, `samudaya`, `nirodha`, `magga`,
   `taṇhā`, `upādāna`, and `pañcupādānakkhandhā`.
 - Consult:
   [generated/four-noble-truths-truth-task-sheet.md](generated/four-noble-truths-truth-task-sheet.md)
@@ -69,7 +78,8 @@ better-governed jhāna prose.
 
 ### `MN 2` Sabbāsava Sutta
 
-- Review first: `āsava`, `āsavānaṃ khayā`, `āsavakkhaya`, `manasikāra`,
+- Status: completed translation surface.
+- Review first when revising: `āsava`, `āsavānaṃ khayā`, `āsavakkhaya`, `manasikāra`,
   `yoniso manasikāra`, `ayoniso manasikāra`, `pahāna`, `saṃvara`, `bhāvanā`,
   `dassana`, and the supporting method nouns `paṭisevanā`, `adhivāsanā`,
   `parivajjanā`, and `vinodanā`.
@@ -78,8 +88,8 @@ better-governed jhāna prose.
   [generated/bondage-residue-contrast-sheet.md](generated/bondage-residue-contrast-sheet.md).
 - Watch for: the opening attention contrast, the seven-method sequence, the
   requisites-review frame, and the outflow-family close.
-- Likely update targets after translation: only the outflow-family notes or
-  method-specific examples that prove reusable beyond the immediate document.
+- Likely update targets after revision: only the outflow-family notes or
+  method-specific examples that prove reusable beyond the document.
 
 ### `MN 9` Sammādiṭṭhi Sutta
 
@@ -98,7 +108,7 @@ better-governed jhāna prose.
 
 ## Use Rule
 
-Before drafting any one of these five suttas:
+Before drafting the remaining first-wave sutta, or revising a completed one:
 
 1. review the named headwords, compounds, and formula records together
 2. read the listed control sheets before opening a translation file
