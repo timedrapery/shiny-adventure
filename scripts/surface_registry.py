@@ -50,6 +50,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn2-sabbasava-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn9",
+        label="MN 9",
+        main_relpath="docs/translations/mn9-sammaditthi-sutta.md",
+        notes_relpath="docs/translations/mn9-sammaditthi-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn10",
         label="MN 10",
         main_relpath="docs/translations/mn10-satipatthana-sutta.md",

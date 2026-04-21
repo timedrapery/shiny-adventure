@@ -18,10 +18,11 @@ Completed from the first wave:
 - `SN 56.11` Dhammacakkappavattana Sutta
 - `DN 2` Sāmaññaphala Sutta
 - `MN 2` Sabbāsava Sutta
+- `MN 9` Sammādiṭṭhi Sutta
 
 Next active work:
 
-1. `MN 9` Sammādiṭṭhi Sutta
+1. `MN 44` Cūḷavedalla Sutta
 
 ## Why This Short Queue
 
@@ -31,14 +32,17 @@ Next active work:
 - The completed `MN 2` surface now controls outflow-family prose, wise and
   unwise attention, method verbs, restraint, use, enduring, avoiding,
   dispelling, and development in one outward-facing document.
-- `MN 9` is now the next active pressure point because it tests right-view
-  analysis, root-family language, nutriment, appropriation, and
-  dependent-arising prose in a longer analytical exposition.
+- The completed `MN 9` surface now controls right-view analysis, root-family
+  language, nutriment, appropriation, and dependent-arising prose in a longer
+  analytical exposition.
+- `MN 44` is now the next active pressure point because it forces the
+  distinctions among felt experience, recognition, knowing, mental composure,
+  and the higher-training triad.
 
 ## Operating Note
 
 Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md)
-as the operational prep packet for the completed and remaining first-wave work.
+as the operational prep packet for the completed first-wave work.
 Use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when
 revising the completed `MN 2` outflow surface.
 
