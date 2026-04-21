@@ -106,3 +106,8 @@ Current DN 2 surfaces:
 
 - [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text
 - [dn2-samannaphala-sutta-notes.md](dn2-samannaphala-sutta-notes.md): companion translator notes and rationale
+
+Current DN 15 surfaces:
+
+- [dn15-mahanidana-sutta.md](dn15-mahanidana-sutta.md): main shareable translation text
+- [dn15-mahanidana-sutta-notes.md](dn15-mahanidana-sutta-notes.md): companion translator notes and rationale

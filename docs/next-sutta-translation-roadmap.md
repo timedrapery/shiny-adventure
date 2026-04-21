@@ -21,10 +21,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `MN 9` Sammādiṭṭhi Sutta
 - `MN 44` Cūḷavedalla Sutta
 - `MN 64` Mahāmālukya Sutta
+- `DN 15` Mahānidāna Sutta
 
 Next active work:
 
-1. `DN 15` Mahānidāna Sutta
+1. `SN 22.89` Khemaka Sutta
 
 ## Why This Short Queue
 
@@ -45,9 +46,13 @@ Next active work:
   fetters and underlying tendencies, the infant simile, the path-that-cannot-be
   skipped, and the use of mental themes and formless spheres as bases for
   turning toward the deathless element.
-- `DN 15` is now the next active pressure point because it forces the
-  reciprocal `viññāṇa` / `nāmarūpa` structure and the contact-to-feeling
-  sequence into a longer dependent-arising discourse.
+- The completed `DN 15` surface now controls the reciprocal `viññāṇa` /
+  `nāmarūpa` structure, the contact-to-feeling hinge, self-designation
+  language, stations of knowing, and release-list prose in one longer
+  dependent-arising discourse.
+- `SN 22.89` is now the next active pressure point because it forces residual
+  `asmimāna`, identity residue, and five-heaps not-self language after the
+  completed SN 22.59 and Wave 2 identity surfaces.
 
 ## Operating Note
 
