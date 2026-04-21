@@ -9,7 +9,7 @@
 - Source basis: the Pali text of DN 2 as segmented in SuttaCentral's Bilara
   data.
 - House choices that most affect this sutta: `sīla` is rendered `conduct`;
-  `pātimokkha` remains `pātimokkha`; `indriyasaṃvara` is rendered `guarding
+  `pāṭimokkha` remains `pāṭimokkha`; `indriyasaṃvara` is rendered `guarding
   the faculties`; `sampajañña` is rendered `clear knowing`; `nīvaraṇa` is
   rendered `distraction`; `jhāna` is rendered `mental theme`; `samādhi` is
   rendered `mental composure`; `pīti` is rendered `delight`; `sukha` is

@@ -9,7 +9,7 @@
 - Source basis: the Pali text of MN 99 as segmented in SuttaCentral's Bilara
   data.
 - House choices that most affect this sutta: `gahaṭṭha` is rendered
-  `householder`; `pabbajita` is rendered `renunciate`; `nīvaraṇa` is rendered
+  `householder`; `pabbajita` is rendered `renunciant`; `nīvaraṇa` is rendered
   `distraction`; `jhāna` is rendered `mental theme`; `mettā` is rendered
   `friendliness`; `karuṇā` is rendered `kindness towards others`; `muditā` is
   rendered `gladness`; and `upekkhā` is rendered `dynamic balance`.

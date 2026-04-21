@@ -49,7 +49,7 @@ The book strongly reinforces the following existing OSF house directions:
 - `sati` as `remembering`
 - `samma-sati` as `right remembering`
 - `samadhi` as `mental composure`
-- `samma-sankappa` as `attitude`
+- `samma-sankappa` as `right attitude`
 - `anapanasati` as the central training rather than a narrow breath technique
 - `kamma` as `action` or `behavior`
 - `lokuttara` as supramundane without supernaturalism

@@ -20,7 +20,7 @@ source-audit calls, and edition notes that govern it.
 
 ## Governing Decisions
 
-- `gahaṭṭha` remains `householder` and `pabbajita` remains `renunciate`.
+- `gahaṭṭha` remains `householder` and `pabbajita` remains `renunciant`.
 - The five `nīvaraṇa` members stay inside the repository's
   distraction-language: `sensual distraction`, `aversive distraction`,
   `dull distraction`, `agitated distraction`, and `uncertain distraction`.
@@ -31,8 +31,10 @@ source-audit calls, and edition notes that govern it.
   `friendliness`, `kindness towards others`, `gladness`, and
   `dynamic balance`.
 - `mettā cetovimutti`, `karuṇā cetovimutti`, `muditā cetovimutti`, and
-  `upekkhā cetovimutti` are rendered as `liberation of mind through ...`
-  expressions rather than as vague mood language.
+  `upekkhā cetovimutti` are rendered as `liberation of mind through
+  friendliness`, `liberation of mind through kindness towards others`,
+  `liberation of mind through gladness`, and `liberation of mind through
+  dynamic balance` rather than as vague mood language.
 
 ## Re-audit Calls
 

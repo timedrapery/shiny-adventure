@@ -23,7 +23,7 @@ Use it together with the live `nīvaraṇa`, `pañca-nīvaraṇā`, `jhāna`,
   pleasures only.
 - Keep `akusalehi dhammehi` as unwholesome dhammas rather than rotating among
   unrecorded moral registers.
-- Keep `vitakka` and `vicāra` as `thinking and pondering`.
+- Keep `savitakkaṁ savicāraṁ` as `with thinking and pondering`.
 - Keep `vivekaja-pīti-sukha` tied to seclusion and to the prior abandoning of
   distractions.
 

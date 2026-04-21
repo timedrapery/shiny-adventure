@@ -4,7 +4,35 @@
   "entry_type": "minor",
   "part_of_speech": "noun",
   "preferred_translation": "renunciant",
+  "discouraged_translations": [
+    "renunciate",
+    "monk"
+  ],
   "definition": "Someone who has gone forth from household life into renunciation.",
+  "notes": "The project uses renunciant as the default because it names the person's chosen mode of life without narrowing the term to a monk or making renunciation sound like a one-time event. Keep this distinct from bhikkhu and bhikkhuni when the passage has not specified ordination status. Do not rotate renunciate into the house default; it can read as an action or process rather than the person described by pabbajita.",
+  "context_rules": [
+    {
+      "context": "When the passage contrasts household and gone-forth life",
+      "rendering": "renunciant",
+      "notes": "Use this by default."
+    },
+    {
+      "context": "When the passage specifically names an ordained monk or nun",
+      "rendering": "bhikkhu or bhikkhuni",
+      "notes": "Use the more specific term entry instead of forcing pabbajita to carry ordination status."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "gahaṭṭhā vā pabbajitā vā",
+      "translation": "householders or renunciants",
+      "notes": "Shows the household-life contrast that governs the default rendering.",
+      "source": "MN 99"
+    }
+  ],
+  "sutta_references": [
+    "MN 99"
+  ],
   "status": "reviewed",
   "literal_meaning": "gone forth one",
   "tags": [
