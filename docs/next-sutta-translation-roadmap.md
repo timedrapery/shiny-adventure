@@ -20,10 +20,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `MN 2` Sabbāsava Sutta
 - `MN 9` Sammādiṭṭhi Sutta
 - `MN 44` Cūḷavedalla Sutta
+- `MN 64` Mahāmālukya Sutta
 
 Next active work:
 
-1. `MN 64` Mahāmālukya Sutta
+1. `DN 15` Mahānidāna Sutta
 
 ## Why This Short Queue
 
@@ -40,9 +41,13 @@ Next active work:
   relation between taking personally and the five clung-to heaps, mental
   composure, cessation-attainment prose, and the three felt-experience
   register.
-- `MN 64` is now the next active pressure point because it forces the
-  distinction between underlying tendency and fetter language across the lower
-  and higher bondage families.
+- The completed `MN 64` surface now controls the relation between lower
+  fetters and underlying tendencies, the infant simile, the path-that-cannot-be
+  skipped, and the use of mental themes and formless spheres as bases for
+  turning toward the deathless element.
+- `DN 15` is now the next active pressure point because it forces the
+  reciprocal `viññāṇa` / `nāmarūpa` structure and the contact-to-feeling
+  sequence into a longer dependent-arising discourse.
 
 ## Operating Note
 

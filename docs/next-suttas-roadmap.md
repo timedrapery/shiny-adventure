@@ -22,8 +22,8 @@ This ranking is based on the current repository state:
 - `python scripts/audit_term_coverage.py --top 15` reports no missing
   families and no partial-family backlog.
 - the repo already has stable translation surfaces for DN 2, MN 1, MN 2, MN 9,
-  MN 10, MN 18, MN 19, MN 44, MN 99, MN 117, MN 118, MN 137, MN 141, MN 148,
-  SN 12.2, SN 22.59, and SN 56.11
+  MN 10, MN 18, MN 19, MN 44, MN 64, MN 99, MN 117, MN 118, MN 137, MN 141,
+  MN 148, SN 12.2, SN 22.59, and SN 56.11
 - the next gains therefore come from leverage inside mature clusters rather
   than from emergency term backfill
 
@@ -191,8 +191,7 @@ Use the ranked list as the source of truth, but work in three waves:
 
 ### Wave 2: Distinction-Forcing Surfaces
 
-- Completed: `MN 44`
-- `MN 64`
+- Completed: `MN 44`, `MN 64`
 - `DN 15`
 - `SN 22.89`
 - `SN 22.48`
@@ -211,10 +210,11 @@ Use the ranked list as the source of truth, but work in three waves:
   policy surface. The completed `SN 12.2`, `SN 56.11`, and `DN 2` surfaces now
   provide controls for dependent arising, four-truths language, hindrance
   clearing, and jhāna prose.
-- Wave 1 is now complete. Wave 2 now continues with `MN 64`, using the
-  completed first-wave surfaces and the completed `MN 44` surface as controls
-  for right-view, dependent-arising, four-truths, outflow,
-  training-sequence, identity, felt-experience, and mental-composure language.
+- Wave 1 is now complete. Wave 2 now continues with `DN 15`, using the
+  completed first-wave surfaces and the completed `MN 44` and `MN 64` surfaces
+  as controls for right-view, dependent-arising, four-truths, outflow,
+  training-sequence, identity, felt-experience, mental-composure, fetter, and
+  underlying-tendency language.
 - Wave 2 comes next because those texts sharpen distinctions the repo already
   records but has not yet forced through enough outward-facing translation
   documents: fetter versus tendency, identity residue versus view, and
