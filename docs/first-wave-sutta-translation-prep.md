@@ -2,8 +2,8 @@
 
 ## Purpose
 
-This prep packet records the completed first-wave surfaces and the remaining
-first-wave operational worklist.
+This prep packet records the completed first-wave surfaces and the reference
+controls they provide for later translation work.
 
 Use it together with [next-suttas-roadmap.md](next-suttas-roadmap.md) for the
 full ranking logic and [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)

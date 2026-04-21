@@ -12,17 +12,18 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-Completed from the first wave:
+Completed from Wave 1 and Wave 2 so far:
 
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
 - `SN 56.11` Dhammacakkappavattana Sutta
 - `DN 2` Sāmaññaphala Sutta
 - `MN 2` Sabbāsava Sutta
 - `MN 9` Sammādiṭṭhi Sutta
+- `MN 44` Cūḷavedalla Sutta
 
 Next active work:
 
-1. `MN 44` Cūḷavedalla Sutta
+1. `MN 64` Mahāmālukya Sutta
 
 ## Why This Short Queue
 
@@ -35,9 +36,13 @@ Next active work:
 - The completed `MN 9` surface now controls right-view analysis, root-family
   language, nutriment, appropriation, and dependent-arising prose in a longer
   analytical exposition.
-- `MN 44` is now the next active pressure point because it forces the
-  distinctions among felt experience, recognition, knowing, mental composure,
-  and the higher-training triad.
+- The completed `MN 44` surface now controls identity, identity view, the
+  relation between taking personally and the five clung-to heaps, mental
+  composure, cessation-attainment prose, and the three felt-experience
+  register.
+- `MN 64` is now the next active pressure point because it forces the
+  distinction between underlying tendency and fetter language across the lower
+  and higher bondage families.
 
 ## Operating Note
 

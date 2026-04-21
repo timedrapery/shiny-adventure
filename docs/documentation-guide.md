@@ -93,7 +93,7 @@ do not override live term records or normative policy docs.
 - [`translations/translation-documents.md`](translations/translation-documents.md): index of shareable translation pairs
 - [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next leverage-driven sutta translation passes
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
-- [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for completed and remaining first-wave translation work
+- [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for completed first-wave translation surfaces
 - [`asava-method-sequence-sheet.md`](asava-method-sequence-sheet.md): control sheet for the `MN 2` outflow-method sequence
 - [`tanha-origin-formula-sheet.md`](tanha-origin-formula-sheet.md): control sheet for the `SN 56.11` taṇhā-definition line
 - [`first-jhana-entry-sheet.md`](first-jhana-entry-sheet.md): control sheet for the first-jhāna entry sequence used by `DN 2` and linked live translations
