@@ -145,6 +145,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         main_relpath="docs/translations/dn2-samannaphala-sutta.md",
         notes_relpath="docs/translations/dn2-samannaphala-sutta-notes.md",
     ),
+    TranslationSurface(
+        key="dn15",
+        label="DN 15",
+        main_relpath="docs/translations/dn15-mahanidana-sutta.md",
+        notes_relpath="docs/translations/dn15-mahanidana-sutta-notes.md",
+    ),
 )
 
 
