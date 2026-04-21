@@ -1,6 +1,6 @@
 # Open Sangha Foundation Pali Translation Lexicon
 
-[![Checks](https://github.com/timedrapery/shiny-adventure/actions/workflows/checks.yml/badge.svg)](https://github.com/timedrapery/shiny-adventure/actions/workflows/checks.yml)
+[![CI](https://github.com/timedrapery/shiny-adventure/actions/workflows/ci.yml/badge.svg)](https://github.com/timedrapery/shiny-adventure/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 Structured Pali-to-English translation infrastructure for early Buddhist translation work.

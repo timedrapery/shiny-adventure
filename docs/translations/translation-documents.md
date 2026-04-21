@@ -22,6 +22,11 @@ Current MN 1 surfaces:
 - [mn1-mulapariyaya-sutta.md](mn1-mulapariyaya-sutta.md): main shareable translation text
 - [mn1-mulapariyaya-sutta-notes.md](mn1-mulapariyaya-sutta-notes.md): companion translator notes and rationale
 
+Current MN 2 surfaces:
+
+- [mn2-sabbasava-sutta.md](mn2-sabbasava-sutta.md): main shareable translation text
+- [mn2-sabbasava-sutta-notes.md](mn2-sabbasava-sutta-notes.md): companion translator notes and rationale
+
 Current MN 10 surfaces:
 
 - [mn10-satipatthana-sutta.md](mn10-satipatthana-sutta.md): main shareable translation text
