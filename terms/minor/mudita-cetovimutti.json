@@ -4,7 +4,35 @@
   "entry_type": "minor",
   "part_of_speech": "compound",
   "preferred_translation": "liberation of mind through gladness",
+  "discouraged_translations": [
+    "liberation of mind through ...",
+    "liberation of mind through excitement"
+  ],
   "definition": "A liberation of mind cultivated through one of the brahmaviharas.",
+  "notes": "The project keeps muditā audible as gladness in this compound, following the live muditā headword. The phrase should be written out rather than abbreviated with an ellipsis in translation notes or control surfaces. Excitement-language remains too reactive for the cultivated brahmavihāra quality.",
+  "context_rules": [
+    {
+      "context": "In brahmavihāra and liberation-of-mind contexts",
+      "rendering": "liberation of mind through gladness",
+      "notes": "Use this by default."
+    },
+    {
+      "context": "When discussing the four brahmavihāra liberations as a list",
+      "rendering": "liberation of mind through gladness",
+      "notes": "Write the full rendering rather than using an ellipsis placeholder."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "muditā cetovimutti",
+      "translation": "liberation of mind through gladness",
+      "notes": "Shows the brahmavihāra compound with the governed muditā rendering.",
+      "source": "MN 99"
+    }
+  ],
+  "sutta_references": [
+    "MN 99"
+  ],
   "status": "reviewed",
   "literal_meaning": "liberation of mind through gladness",
   "tags": [

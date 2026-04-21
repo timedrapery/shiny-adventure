@@ -34,6 +34,8 @@ DOCS_FILENAME_ALLOWLIST = {
     "MODERN_ENGLISH_POLICY.md",
     "VOICE_CONSISTENCY_AUDIT.md",
     "VOICE_STANDARD.md",
+    "translation_drift_audit.md",
+    "translation_drift_resolution.md",
 }
 
 

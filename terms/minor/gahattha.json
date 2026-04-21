@@ -4,7 +4,35 @@
   "entry_type": "minor",
   "part_of_speech": "noun",
   "preferred_translation": "householder",
+  "discouraged_translations": [
+    "renunciant",
+    "monastic"
+  ],
   "definition": "A person living the household life rather than the homeless life of renunciation.",
+  "notes": "The project uses householder as the default because the term marks household life in contrast with going forth. Keep this distinct from pabbajita, bhikkhu, and bhikkhuni. Do not replace it with monastic or renunciant language when the passage is explicitly contrasting household and gone-forth life.",
+  "context_rules": [
+    {
+      "context": "When the passage contrasts household and gone-forth life",
+      "rendering": "householder",
+      "notes": "Use this by default."
+    },
+    {
+      "context": "When the passage specifically names a lay follower",
+      "rendering": "lay follower",
+      "notes": "Use the more specific upāsaka or upāsikā entry when the Pali supports it."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "gahaṭṭhā vā pabbajitā vā",
+      "translation": "householders or renunciants",
+      "notes": "Shows the household-life contrast that governs the default rendering.",
+      "source": "MN 99"
+    }
+  ],
+  "sutta_references": [
+    "MN 99"
+  ],
   "status": "reviewed",
   "literal_meaning": "householder",
   "tags": [

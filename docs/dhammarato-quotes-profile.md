@@ -54,10 +54,10 @@ The draft strongly supports the following OSF house defaults:
 The draft also strongly reinforces these renderings or ideas, but they may need
 term-by-term editorial caution before replacing the current defaults:
 
-- `nirodha` as `cessation`
+- cessation-language used to explain `nirodha`
 - `jhana`, especially first `jhana`, as `the mind fit for work`
-- `vitakka` as `applying`
-- `vicara` as `sustaining`
+- applying-language used to explain `vitakka`
+- sustaining-language used to explain `vicara`
 - path-factor labels such as `Right Noble Viewing/Looking` and
   `Right Noble Changing`
 
