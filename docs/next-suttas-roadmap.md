@@ -21,9 +21,9 @@ This ranking is based on the current repository state:
   major entries, no major metadata gaps, and no translation collisions.
 - `python scripts/audit_term_coverage.py --top 15` reports no missing
   families and no partial-family backlog.
-- the repo already has stable translation surfaces for DN 2, MN 1, MN 2, MN 10,
-  MN 18, MN 19, MN 99, MN 117, MN 118, MN 137, MN 141, MN 148, SN 12.2,
-  SN 22.59, and SN 56.11
+- the repo already has stable translation surfaces for DN 2, MN 1, MN 2, MN 9,
+  MN 10, MN 18, MN 19, MN 99, MN 117, MN 118, MN 137, MN 141, MN 148,
+  SN 12.2, SN 22.59, and SN 56.11
 - the next gains therefore come from leverage inside mature clusters rather
   than from emergency term backfill
 
@@ -187,8 +187,7 @@ Use the ranked list as the source of truth, but work in three waves:
 
 ### Wave 1: Dense Existing Support
 
-- Completed: `SN 12.2`, `SN 56.11`, `DN 2`, `MN 2`
-- Remaining: `MN 9`
+- Completed: `SN 12.2`, `SN 56.11`, `DN 2`, `MN 2`, `MN 9`
 
 ### Wave 2: Distinction-Forcing Surfaces
 
@@ -212,9 +211,9 @@ Use the ranked list as the source of truth, but work in three waves:
   policy surface. The completed `SN 12.2`, `SN 56.11`, and `DN 2` surfaces now
   provide controls for dependent arising, four-truths language, hindrance
   clearing, and jhāna prose.
-- The remaining Wave 1 work is now `MN 9`, using the completed `MN 2` outflow
-  surface alongside the dependent-arising and four-truths controls already in
-  place.
+- Wave 1 is now complete. Wave 2 starts with `MN 44`, using the completed
+  first-wave surfaces as controls for right-view, dependent-arising,
+  four-truths, outflow, and training-sequence language.
 - Wave 2 comes next because those texts sharpen distinctions the repo already
   records but has not yet forced through enough outward-facing translation
   documents: fetter versus tendency, identity residue versus view, and

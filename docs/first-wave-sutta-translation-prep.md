@@ -17,10 +17,12 @@ Completed:
 - `SN 56.11`
 - `DN 2`
 - `MN 2`
+- `MN 9`
 
 Remaining active order:
 
-1. `MN 9`
+- None. Wave 1 is complete; use [next-suttas-roadmap.md](next-suttas-roadmap.md)
+  for Wave 2.
 
 Operational note:
 the completed `SN 56.11` and `DN 2` surfaces should be used as reference
@@ -93,7 +95,8 @@ or jhāna prose.
 
 ### `MN 9` Sammādiṭṭhi Sutta
 
-- Review first: `sammā-diṭṭhi`, `diṭṭhi`, `kusala`, `akusala`, `lobha`, `dosa`,
+- Status: completed translation surface.
+- Review first when revising: `sammā-diṭṭhi`, `diṭṭhi`, `kusala`, `akusala`, `lobha`, `dosa`,
   `moha`, `ariyasāvaka`, `āhāra`, `upādāna`, and the dependent-arising family.
 - Consult:
   [generated/dependent-arising-translator-brief.md](generated/dependent-arising-translator-brief.md),
@@ -103,12 +106,12 @@ or jhāna prose.
 - Watch for: analytical list prose rotating among near-neighbor glosses, root
   family consistency, and dependent-arising language embedded in a longer
   Sāriputta exposition.
-- Likely update targets after translation: only root-family, right-view, or
+- Likely update targets after revision: only root-family, right-view, or
   nutriment-side notes that prove reusable across future analytical texts.
 
 ## Use Rule
 
-Before drafting the remaining first-wave sutta, or revising a completed one:
+Before revising a completed first-wave sutta:
 
 1. review the named headwords, compounds, and formula records together
 2. read the listed control sheets before opening a translation file
