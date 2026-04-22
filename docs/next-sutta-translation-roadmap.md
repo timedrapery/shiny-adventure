@@ -22,10 +22,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `MN 44` Cūḷavedalla Sutta
 - `MN 64` Mahāmālukya Sutta
 - `DN 15` Mahānidāna Sutta
+- `SN 22.89` Khemaka Sutta
 
 Next active work:
 
-1. `SN 22.89` Khemaka Sutta
+1. `SN 22.48` Khandha Sutta
 
 ## Why This Short Queue
 
@@ -50,9 +51,12 @@ Next active work:
   `nāmarūpa` structure, the contact-to-feeling hinge, self-designation
   language, stations of knowing, and release-list prose in one longer
   dependent-arising discourse.
-- `SN 22.89` is now the next active pressure point because it forces residual
-  `asmimāna`, identity residue, and five-heaps not-self language after the
-  completed SN 22.59 and Wave 2 identity surfaces.
+- The completed `SN 22.89` surface now controls residual `asmimāna`,
+  identity residue, lower-fetter versus underlying-tendency language, and the
+  five-heaps selfing distinction after the completed SN 22.59 surface.
+- `SN 22.48` is now the next active pressure point because it stabilizes the
+  plain five-heaps and five-clung-to-heaps enumerations that support the SN
+  22.59 and SN 22.89 surfaces.
 
 ## Operating Note
 
