@@ -1,0 +1,39 @@
+{
+  "term": "so ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ",
+  "normalized_term": "sn36-6-one-feeling-painful-feeling",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one feels one feeling: bodily, not mental",
+  "definition": "SN 36.6's trained painful-feeling line for bodily feeling without added mental reaction.",
+  "notes": "Use this record for the one-feeling contrast in SN 36.6. Keep the negated mental side explicit so the one-arrow simile remains a practical contrast with reactive doubling.",
+  "example_phrases": [
+    {
+      "pali": "so ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ",
+      "translation": "one feels one feeling: bodily, not mental",
+      "notes": "Trained painful-feeling contrast in SN 36.6.",
+      "source": "SN 36.6"
+    }
+  ],
+  "sutta_references": [
+    "SN 36.6"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 36.6",
+      "kind": "context-rule",
+      "scope": "Supports the one-feeling line that names bodily feeling without added mental reaction."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the trained one-feeling contrast in SN 36.6.",
+    "when_not_to_apply": "Do not flatten the line into generic calm language or erase the bodily / mental distinction.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the one-arrow teaching from becoming vague composure language instead of a precise bodily / mental feeling contrast."
+  }
+}

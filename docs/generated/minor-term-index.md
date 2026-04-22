@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 881
+- Entries: 885
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -798,6 +798,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [silabbata-paramasa-kayagantha](../../terms/minor/silabbata-paramasa-kayagantha.json) | sīlabbata-parāmāsa kāyagantha | bodily knot of grasping at rules and observances | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [silanussati](../../terms/minor/silanussati.json) | sīlānussati | recollection of conduct | reviewed | core-practice |
 | [singhanika](../../terms/minor/singhanika.json) | singhanika | nasal mucus | reviewed | embodiment, meditative-development |
+| [sn36-6-feelings-discerned-response](../../terms/minor/sn36-6-feelings-discerned-response.json) | so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti | one discerns those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, sense-fields, translation-sensitive |
+| [sn36-6-feelings-undiscerned-response](../../terms/minor/sn36-6-feelings-undiscerned-response.json) | so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti | one does not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, sense-fields, translation-sensitive |
+| [sn36-6-one-feeling-painful-feeling](../../terms/minor/sn36-6-one-feeling-painful-feeling.json) | so ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ | one feels one feeling: bodily, not mental | reviewed | core-practice, sense-fields, translation-sensitive |
+| [sn36-6-two-feelings-painful-feeling](../../terms/minor/sn36-6-two-feelings-painful-feeling.json) | so dve vedanā vedayati—kāyikañca, cetasikañca | one feels two feelings: bodily and mental | reviewed | core-practice, sense-fields, translation-sensitive |
 | [somanassa](../../terms/minor/somanassa.json) | somanassa | gladness | reviewed | mental-qualities |
 | [sona](../../terms/minor/sona.json) | Soṇa | Soṇa | reviewed | persons |
 | [sota-dvara](../../terms/minor/sota-dvara.json) | sota-dvara | ear door | reviewed | sense-fields |

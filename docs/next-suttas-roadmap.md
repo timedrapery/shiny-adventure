@@ -23,8 +23,8 @@ This ranking is based on the current repository state:
   families and no partial-family backlog.
 - the repo already has stable translation surfaces for DN 2, DN 15, MN 1, MN
   2, MN 7, MN 9, MN 10, MN 18, MN 19, MN 44, MN 64, MN 99, MN 117, MN 118,
-  MN 137, MN 141, MN 148, SN 12.2, SN 22.48, SN 22.59, SN 22.89, and
-  SN 56.11
+  MN 137, MN 141, MN 148, SN 12.2, SN 22.48, SN 22.59, SN 22.89, SN 36.6,
+  and SN 56.11
 - the next gains therefore come from leverage inside mature clusters rather
   than from emergency term backfill
 
@@ -197,7 +197,7 @@ Use the ranked list as the source of truth, but work in three waves:
 ### Wave 3: Strategic Expansion
 
 - Completed: `MN 7`
-- `SN 36.6`
+- Completed: `SN 36.6`
 - `SN 46.51`
 - `MN 39`
 - `AN 10.60`
@@ -219,9 +219,10 @@ Use the ranked list as the source of truth, but work in three waves:
   translation documents: fetter versus tendency, identity residue versus view,
   and conditioned knowing versus metaphysical consciousness drift.
 - Wave 3 remains high value because the denser clusters have been confirmed in
-  translation-facing prose. After MN 7's cleansing and corruption surface,
-  `SN 36.6` is the next useful extension because it tests bodily pain versus
-  mental reaction and sharpens feeling-side response language.
+  translation-facing prose. After MN 7's cleansing and corruption surface and
+  SN 36.6's one-arrow / two-arrows sensory-response surface, `SN 46.51` is the
+  next useful extension because it tests feeding and starving language across
+  the five distractions and seven awakening factors.
 
 ## What To Update In The Lexicon After Each Sutta
 

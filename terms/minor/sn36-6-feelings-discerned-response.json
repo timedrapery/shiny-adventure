@@ -1,0 +1,39 @@
+{
+  "term": "so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti",
+  "normalized_term": "sn36-6-feelings-discerned-response",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one discerns those feelings' arising and vanishing, gratification, danger, and escape as they have come to be",
+  "definition": "SN 36.6's trained plural feeling-discernment line that blocks the ignorance tendency.",
+  "notes": "Use this record for the trained SN 36.6 plural-feelings line. Keep the five-part discernment structure aligned with MN 148 while preserving the plural reference to the three feeling registers.",
+  "example_phrases": [
+    {
+      "pali": "so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti",
+      "translation": "one discerns those feelings' arising and vanishing, gratification, danger, and escape as they have come to be",
+      "notes": "Trained plural feeling-discernment line in SN 36.6.",
+      "source": "SN 36.6"
+    }
+  ],
+  "sutta_references": [
+    "SN 36.6"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 36.6",
+      "kind": "context-rule",
+      "scope": "Supports the plural feeling-discernment line that blocks the ignorance tendency."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the trained plural feeling-discernment formula in SN 36.6.",
+    "when_not_to_apply": "Do not flatten the line into generic understanding language or lose the five-part discernment structure.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the SN 36.6 plural line from drifting away from the governed gratification-danger-escape pattern."
+  }
+}

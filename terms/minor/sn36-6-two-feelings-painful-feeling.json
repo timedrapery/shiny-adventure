@@ -1,0 +1,39 @@
+{
+  "term": "so dve vedanā vedayati—kāyikañca, cetasikañca",
+  "normalized_term": "sn36-6-two-feelings-painful-feeling",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "one feels two feelings: bodily and mental",
+  "definition": "SN 36.6's untrained painful-feeling line for the added mental feeling produced by reaction.",
+  "notes": "Use this record for the two-feelings contrast in SN 36.6. Keep bodily and mental explicit so the second-arrow simile remains tied to reactive doubling rather than to pain in general.",
+  "example_phrases": [
+    {
+      "pali": "so dve vedanā vedayati—kāyikañca, cetasikañca",
+      "translation": "one feels two feelings: bodily and mental",
+      "notes": "Untrained painful-feeling contrast in SN 36.6.",
+      "source": "SN 36.6"
+    }
+  ],
+  "sutta_references": [
+    "SN 36.6"
+  ],
+  "tags": [
+    "core-practice",
+    "sense-fields",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 36.6",
+      "kind": "context-rule",
+      "scope": "Supports the two-feelings line that names reactive doubling under painful feeling."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard English control line for the untrained two-feelings contrast in SN 36.6.",
+    "when_not_to_apply": "Do not flatten the line into generic suffering language or erase the bodily / mental distinction.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the second-arrow teaching from losing the practical difference between bodily pain and added mental reaction."
+  }
+}

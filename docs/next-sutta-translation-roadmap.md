@@ -25,10 +25,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `SN 22.89` Khemaka Sutta
 - `SN 22.48` Khandha Sutta
 - `MN 7` Vattha Sutta
+- `SN 36.6` Salla Sutta
 
 Next active work:
 
-1. `SN 36.6` Salla Sutta
+1. `SN 46.51` Āhāra Sutta
 
 ## Why This Short Queue
 
@@ -62,9 +63,11 @@ Next active work:
 - The completed `MN 7` surface now controls the cloth simile, the corruptions
   of the feeling mind, verified-confidence prose, divine-abiding language, and
   the inner-bathing contrast.
-- `SN 36.6` is now the next active pressure point because it tests bodily pain
-  versus mental reaction and extends the repo's feeling-side response language
-  beyond the larger sensory-response surfaces.
+- The completed `SN 36.6` surface now controls the one-arrow / two-arrows
+  contrast, bodily painful feeling versus added mental reaction, and the plural
+  feeling-discernment lines inside the sensory-response family.
+- `SN 46.51` is now the next active pressure point because it tests feeding and
+  starving language across the five distractions and seven awakening factors.
 
 ## Operating Note
 
