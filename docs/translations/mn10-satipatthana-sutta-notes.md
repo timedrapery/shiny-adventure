@@ -23,8 +23,8 @@ source-audit calls, and edition notes that govern it.
   `establishment of sati` in the body.
 - `sati` remains `remembering`.
 - `sampajañña` remains `clear knowing`.
-- `vedanā` remains `felt experience`, and this edition does not use
-  `neutral feeling`.
+- `vedanā` remains `felt experience`, and the third register is rendered
+  `mixed feeling`.
 - `citta` remains `feeling mind`.
 - `dhamma` remains untranslated in `dhammānupassanā`.
 - The five `nīvaraṇa` members follow the current repo family language:

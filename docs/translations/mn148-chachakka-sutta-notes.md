@@ -31,8 +31,8 @@ source-audit calls, and edition notes that govern it.
 - `vedanā` remains `felt experience` in the main contact chain, but the
   explicit three-register lines use `pleasant feeling`, `painful feeling`, and
   `mixed feeling`.
-- `mixed` is deliberate. This edition does not use `neutral feeling` in MN
-  148.
+- `mixed` is deliberate. This edition uses `mixed feeling` for the third
+  register in MN 148.
 - `taṇhā` remains `ignorant wanting`, including in the sixfold list and the
   not-self / identity sections.
 - `sakkāya` remains `identity`, so `sakkāyasamudayagāminī paṭipadā` becomes
