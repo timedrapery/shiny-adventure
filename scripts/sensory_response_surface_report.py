@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit and generate outputs for the MN 137 / MN 148 sensory-response surface."""
+"""Audit and generate outputs for the MN 137 / MN 148 / SN 36.6 sensory-response surface."""
 
 from __future__ import annotations
 
@@ -54,6 +54,10 @@ CONTROL_RECORDS = [
     "mn148-painful-feeling-trained-response",
     "mn148-mixed-feeling-undiscerned-response",
     "vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati",
+    "sn36-6-two-feelings-painful-feeling",
+    "sn36-6-one-feeling-painful-feeling",
+    "sn36-6-feelings-undiscerned-response",
+    "sn36-6-feelings-discerned-response",
 ]
 
 TRANSLATION_SURFACE_REQUIREMENTS: tuple[dict[str, object], ...] = (
@@ -81,6 +85,18 @@ TRANSLATION_SURFACE_REQUIREMENTS: tuple[dict[str, object], ...] = (
             "mn148-painful-feeling-trained-response",
             "mn148-mixed-feeling-undiscerned-response",
             "vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati",
+        ),
+    },
+    {
+        "label": "SN 36.6",
+        "relpath": "docs/translations/sn36-6-salla-sutta.md",
+        "required_terms": (
+            "mn148-painful-feeling-untrained-response",
+            "mn148-painful-feeling-trained-response",
+            "sn36-6-two-feelings-painful-feeling",
+            "sn36-6-one-feeling-painful-feeling",
+            "sn36-6-feelings-undiscerned-response",
+            "sn36-6-feelings-discerned-response",
         ),
     },
 )
@@ -112,6 +128,10 @@ EXPECTED_PREFERRED_TRANSLATIONS = {
     "mn148-painful-feeling-trained-response": "when one is touched by painful feeling, one does not sorrow, does not grow worn down, does not lament, does not beat one's chest and cry, and does not fall into confusion",
     "mn148-mixed-feeling-undiscerned-response": "when one is touched by mixed feeling, one does not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
     "vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati": "one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+    "sn36-6-two-feelings-painful-feeling": "one feels two feelings: bodily and mental",
+    "sn36-6-one-feeling-painful-feeling": "one feels one feeling: bodily, not mental",
+    "sn36-6-feelings-undiscerned-response": "one does not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be",
+    "sn36-6-feelings-discerned-response": "one discerns those feelings' arising and vanishing, gratification, danger, and escape as they have come to be",
 }
 
 
@@ -264,7 +284,7 @@ def render_control_sheet(terms: dict[str, dict[str, object]]) -> str:
         "",
         "## Shared Purpose",
         "",
-        "This sheet summarizes the current governed control lines for the linked MN 137 / MN 148 sensory-response surface.",
+        "This sheet summarizes the current governed control lines for the linked MN 137 / MN 148 / SN 36.6 sensory-response surface.",
         "",
         "## Control Records",
         "",

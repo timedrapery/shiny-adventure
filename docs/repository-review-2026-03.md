@@ -10,10 +10,10 @@ other repository-maintenance concerns rather than doctrinal judgment.
 
 ## Current Surface
 
-- Term files: 1117
+- Term files: 1121
 - Major terms: 236
-- Minor terms: 881
-- Docs files in `docs/`: 67
+- Minor terms: 885
+- Docs files in `docs/`: 176
 - Verification stack: passing
 
 ## Findings

@@ -3,7 +3,7 @@
 ## Purpose
 
 This document defines the current governed surface for the linked MN 137 /
-MN 148 sensory-response family.
+MN 148 / SN 36.6 sensory-response family.
 
 The goal is to keep the household / renunciation feeling categories and the
 trained / untrained feeling-response formulas under live repository policy
@@ -21,6 +21,8 @@ The current governed surface includes:
 - the MN 148 pleasant-feeling untrained and trained response lines
 - the MN 148 painful-feeling untrained and trained response lines
 - the MN 148 mixed-feeling undiscerned and discerned response lines
+- the SN 36.6 one-feeling / two-feelings painful-feeling contrast
+- the SN 36.6 plural feeling-discernment lines
 
 These lines and category labels are controlled through live records in
 `terms/` and audited together by
@@ -54,12 +56,17 @@ translation notes.
 - `mn148-painful-feeling-trained-response`
 - `mn148-mixed-feeling-undiscerned-response`
 - `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati`
+- `sn36-6-two-feelings-painful-feeling`
+- `sn36-6-one-feeling-painful-feeling`
+- `sn36-6-feelings-undiscerned-response`
+- `sn36-6-feelings-discerned-response`
 
 ## Translation-Surface Rule
 
-MN 137 and MN 148 should stay aligned on the household / renunciation and
-trained / untrained response families unless a recorded local reason explicitly
-governs a divergence.
+MN 137, MN 148, and SN 36.6 should stay aligned on the household /
+renunciation, trained / untrained response, painful-feeling escalation, and
+feeling-discernment families unless a recorded local reason explicitly governs
+a divergence.
 
 If a future feeling-domain translation begins reusing more of these same
 families, add it to the audit surface rather than re-solving the phrasing
