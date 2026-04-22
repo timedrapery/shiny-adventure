@@ -24,10 +24,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `DN 15` Mahānidāna Sutta
 - `SN 22.89` Khemaka Sutta
 - `SN 22.48` Khandha Sutta
+- `MN 7` Vattha Sutta
 
 Next active work:
 
-1. `MN 7` Vattha Sutta
+1. `SN 36.6` Salla Sutta
 
 ## Why This Short Queue
 
@@ -58,9 +59,12 @@ Next active work:
 - The completed `SN 22.48` surface now controls the plain five-heaps and
   five-clung-to-heaps enumerations that support the SN 22.59 and SN 22.89
   surfaces.
-- `MN 7` is now the next active pressure point because it moves the roadmap
-  into Wave 3 and tests defilement and cleansing imagery outside the already
-  dense five-heaps and identity surfaces.
+- The completed `MN 7` surface now controls the cloth simile, the corruptions
+  of the feeling mind, verified-confidence prose, divine-abiding language, and
+  the inner-bathing contrast.
+- `SN 36.6` is now the next active pressure point because it tests bodily pain
+  versus mental reaction and extends the repo's feeling-side response language
+  beyond the larger sensory-response surfaces.
 
 ## Operating Note
 
