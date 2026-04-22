@@ -113,7 +113,7 @@ Current governed surfaces already include:
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
 - Use [next-suttas-roadmap.md](next-suttas-roadmap.md) as the source-of-truth ranked roadmap for the next outward-facing sutta additions, and use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view extracted from it.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
-- Use Wave 2 in [next-suttas-roadmap.md](next-suttas-roadmap.md) for the next distinction-forcing surfaces, continuing with `SN 22.89` after the completed `MN 44`, `MN 64`, and `DN 15` surfaces.
+- Use Wave 2 in [next-suttas-roadmap.md](next-suttas-roadmap.md) for the next distinction-forcing surfaces, continuing with `SN 22.48` after the completed `MN 44`, `MN 64`, `DN 15`, and `SN 22.89` surfaces.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness
