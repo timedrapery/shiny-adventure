@@ -27,6 +27,11 @@ Current MN 2 surfaces:
 - [mn2-sabbasava-sutta.md](mn2-sabbasava-sutta.md): main shareable translation text
 - [mn2-sabbasava-sutta-notes.md](mn2-sabbasava-sutta-notes.md): companion translator notes and rationale
 
+Current MN 7 surfaces:
+
+- [mn7-vattha-sutta.md](mn7-vattha-sutta.md): main shareable translation text
+- [mn7-vattha-sutta-notes.md](mn7-vattha-sutta-notes.md): companion translator notes and rationale
+
 Current MN 9 surfaces:
 
 - [mn9-sammaditthi-sutta.md](mn9-sammaditthi-sutta.md): main shareable translation text
