@@ -23,7 +23,7 @@ This ranking is based on the current repository state:
   families and no partial-family backlog.
 - the repo already has stable translation surfaces for DN 2, DN 15, MN 1, MN
   2, MN 9, MN 10, MN 18, MN 19, MN 44, MN 64, MN 99, MN 117, MN 118, MN 137,
-  MN 141, MN 148, SN 12.2, SN 22.59, SN 22.89, and SN 56.11
+  MN 141, MN 148, SN 12.2, SN 22.48, SN 22.59, SN 22.89, and SN 56.11
 - the next gains therefore come from leverage inside mature clusters rather
   than from emergency term backfill
 
@@ -191,8 +191,7 @@ Use the ranked list as the source of truth, but work in three waves:
 
 ### Wave 2: Distinction-Forcing Surfaces
 
-- Completed: `MN 44`, `MN 64`, `DN 15`, `SN 22.89`
-- `SN 22.48`
+- Completed: `MN 44`, `MN 64`, `DN 15`, `SN 22.89`, `SN 22.48`
 
 ### Wave 3: Strategic Expansion
 
@@ -208,20 +207,19 @@ Use the ranked list as the source of truth, but work in three waves:
   policy surface. The completed `SN 12.2`, `SN 56.11`, and `DN 2` surfaces now
   provide controls for dependent arising, four-truths language, hindrance
   clearing, and jhāna prose.
-- Wave 1 is now complete. Wave 2 now continues with `SN 22.48`, using the
-  completed first-wave surfaces and the completed `MN 44`, `MN 64`, `DN 15`,
-  and `SN 22.89` surfaces as controls for right-view, dependent-arising,
-  four-truths, outflow, training-sequence, identity, felt-experience,
-  mental-composure, fetter, underlying-tendency, name-and-form, knowing, and
-  residual-conceit language.
-- Wave 2 comes next because those texts sharpen distinctions the repo already
-  records but has not yet forced through enough outward-facing translation
-  documents: fetter versus tendency, identity residue versus view, and
-  conditioned knowing versus metaphysical consciousness drift.
-- Wave 3 is still high value, but it is better treated after the denser
-  clusters are confirmed in translation-facing prose. Those texts are more
-  likely to extend surface coverage than to settle the biggest remaining
-  default-versus-default tensions.
+- Wave 1 and Wave 2 are now complete. Wave 3 now begins with `MN 7`, using the
+  completed first-wave and second-wave surfaces as controls for right-view,
+  dependent-arising, four-truths, outflow, training-sequence, identity,
+  felt-experience, mental-composure, fetter, underlying-tendency,
+  name-and-form, knowing, residual-conceit, plain-heap, and clung-to-heap
+  language.
+- Wave 2 landed next because those texts sharpened distinctions the repo
+  already recorded but had not yet forced through enough outward-facing
+  translation documents: fetter versus tendency, identity residue versus view,
+  and conditioned knowing versus metaphysical consciousness drift.
+- Wave 3 is now high value because the denser clusters have been confirmed in
+  translation-facing prose. These texts are more likely to extend surface
+  coverage than to settle default-versus-default tensions.
 
 ## What To Update In The Lexicon After Each Sutta
 

@@ -23,10 +23,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `MN 64` Mahāmālukya Sutta
 - `DN 15` Mahānidāna Sutta
 - `SN 22.89` Khemaka Sutta
+- `SN 22.48` Khandha Sutta
 
 Next active work:
 
-1. `SN 22.48` Khandha Sutta
+1. `MN 7` Vattha Sutta
 
 ## Why This Short Queue
 
@@ -54,9 +55,12 @@ Next active work:
 - The completed `SN 22.89` surface now controls residual `asmimāna`,
   identity residue, lower-fetter versus underlying-tendency language, and the
   five-heaps selfing distinction after the completed SN 22.59 surface.
-- `SN 22.48` is now the next active pressure point because it stabilizes the
-  plain five-heaps and five-clung-to-heaps enumerations that support the SN
-  22.59 and SN 22.89 surfaces.
+- The completed `SN 22.48` surface now controls the plain five-heaps and
+  five-clung-to-heaps enumerations that support the SN 22.59 and SN 22.89
+  surfaces.
+- `MN 7` is now the next active pressure point because it moves the roadmap
+  into Wave 3 and tests defilement and cleansing imagery outside the already
+  dense five-heaps and identity surfaces.
 
 ## Operating Note
 
