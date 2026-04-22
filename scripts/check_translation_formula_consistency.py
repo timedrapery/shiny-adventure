@@ -25,7 +25,7 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     "no eye no forms designation": re.compile(r"\bno eye, no forms, and no eye-knowing\b"),
     "forms knowable by the eye": re.compile(r"(?<!visible )forms knowable by the eye\b"),
     "right knowing": re.compile(r"\bright knowing\b"),
-    "neutral feeling": re.compile(r"\bneutral feeling\b"),
+    "neutral third-register wording": re.compile(r"\bneutral\s+feeling\b"),
     "observing feelings in relation to feelings": re.compile(
         r"observing\s+feelings\s+in\s+relation\s+to\s+feelings"
     ),
@@ -50,7 +50,7 @@ PATTERN_GUIDANCE: dict[str, str] = {
     "no eye no forms designation": "Keep the negative eye-door designation line aligned with `visible forms`.",
     "forms knowable by the eye": "Use `visible forms knowable by the eye` in eye-door sequence explanation.",
     "right knowing": "Use `right knowledge` for `sammā-ñāṇa` in translation surfaces.",
-    "neutral feeling": "Use `mixed feeling`, not `neutral feeling`, for the third vedanā register.",
+    "neutral third-register wording": "Use `mixed feeling` for the third vedanā register.",
     "observing feelings in relation to feelings": "Use `observing felt experience in relation to felt experience` in satipaṭṭhāna formulas.",
     "one kind of feeling": "Use `one kind of felt experience` in the satipaṭṭhāna fulfillment formula.",
     "tanha formula desire wording": "Use `that ignorant wanting that leads to renewed becoming` in the SN 56.11 taṇhā-definition line.",
