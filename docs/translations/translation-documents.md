@@ -102,6 +102,11 @@ Current SN 22.59 surfaces:
 - [sn22-59-anattalakkhana-sutta.md](sn22-59-anattalakkhana-sutta.md): main shareable translation text
 - [sn22-59-anattalakkhana-sutta-notes.md](sn22-59-anattalakkhana-sutta-notes.md): companion translator notes and rationale
 
+Current SN 22.48 surfaces:
+
+- [sn22-48-khandha-sutta.md](sn22-48-khandha-sutta.md): main shareable translation text
+- [sn22-48-khandha-sutta-notes.md](sn22-48-khandha-sutta-notes.md): companion translator notes and rationale
+
 Current SN 22.89 surfaces:
 
 - [sn22-89-khemaka-sutta.md](sn22-89-khemaka-sutta.md): main shareable translation text
