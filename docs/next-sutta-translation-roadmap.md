@@ -26,10 +26,11 @@ Completed from Wave 1 and Wave 2 so far:
 - `SN 22.48` Khandha Sutta
 - `MN 7` Vattha Sutta
 - `SN 36.6` Salla Sutta
+- `SN 46.51` Āhāra Sutta
 
 Next active work:
 
-1. `SN 46.51` Āhāra Sutta
+1. `MN 39` Mahā-Assapura Sutta
 
 ## Why This Short Queue
 
@@ -66,8 +67,11 @@ Next active work:
 - The completed `SN 36.6` surface now controls the one-arrow / two-arrows
   contrast, bodily painful feeling versus added mental reaction, and the plural
   feeling-discernment lines inside the sensory-response family.
-- `SN 46.51` is now the next active pressure point because it tests feeding and
-  starving language across the five distractions and seven awakening factors.
+- The completed `SN 46.51` surface now controls the feeding and starving
+  formulas that link the five distractions and seven awakening factors.
+- `MN 39` is now the next active pressure point because it extends the
+  hindrance-clearing and jhana-progression surface beyond DN 2 while staying
+  tightly connected to established release-side policy.
 
 ## Operating Note
 

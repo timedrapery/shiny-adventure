@@ -122,6 +122,11 @@ Current SN 36.6 surfaces:
 - [sn36-6-salla-sutta.md](sn36-6-salla-sutta.md): main shareable translation text
 - [sn36-6-salla-sutta-notes.md](sn36-6-salla-sutta-notes.md): companion translator notes and rationale
 
+Current SN 46.51 surfaces:
+
+- [sn46-51-ahara-sutta.md](sn46-51-ahara-sutta.md): main shareable translation text
+- [sn46-51-ahara-sutta-notes.md](sn46-51-ahara-sutta-notes.md): companion translator notes and rationale
+
 Current DN 2 surfaces:
 
 - [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text
