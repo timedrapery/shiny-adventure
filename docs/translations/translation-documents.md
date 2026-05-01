@@ -127,6 +127,11 @@ Current SN 46.51 surfaces:
 - [sn46-51-ahara-sutta.md](sn46-51-ahara-sutta.md): main shareable translation text
 - [sn46-51-ahara-sutta-notes.md](sn46-51-ahara-sutta-notes.md): companion translator notes and rationale
 
+Current AN 4.113 surfaces:
+
+- [an4-113-patoda-sutta.md](an4-113-patoda-sutta.md): main shareable translation text
+- [an4-113-patoda-sutta-notes.md](an4-113-patoda-sutta-notes.md): companion translator notes and rationale
+
 Current DN 2 surfaces:
 
 - [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text
