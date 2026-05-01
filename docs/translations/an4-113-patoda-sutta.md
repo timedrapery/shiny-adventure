@@ -26,25 +26,25 @@
 "Bhikkhus, these four fine thoroughbreds are found in the world. What four?
 
 Here, bhikkhus, one fine thoroughbred, on seeing the shadow of the goad, is
-stirred and comes to urgency, [thinking]: 'What task will the horse trainer
+stirred and comes to urgency, thinking: 'What task will the horse trainer
 have me do today? How should I respond?' Some fine thoroughbreds are like
 that. This, bhikkhus, is the first fine thoroughbred found in the world.
 
 Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
 goad, stirred and coming to urgency — but only when struck through the hairs,
-[thinking]: 'What task will the horse trainer have me do today? How should I
+thinking: 'What task will the horse trainer have me do today? How should I
 respond?' Some fine thoroughbreds are like that. This, bhikkhus, is the second
 fine thoroughbred found in the world.
 
 Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
 goad, stirred and coming to urgency, nor when struck through the hairs — but
-only when struck through the hide, [thinking]: 'What task will the horse
+only when struck through the hide, thinking: 'What task will the horse
 trainer have me do today? How should I respond?' Some fine thoroughbreds are
 like that. This, bhikkhus, is the third fine thoroughbred found in the world.
 
 Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
 goad, stirred and coming to urgency, nor when struck through the hairs, nor
-when struck through the hide — but only when struck to the bone, [thinking]:
+when struck through the hide — but only when struck to the bone, thinking:
 'What task will the horse trainer have me do today? How should I respond?'
 Some fine thoroughbreds are like that. This, bhikkhus, is the fourth fine
 thoroughbred found in the world.
@@ -110,4 +110,4 @@ thoroughbred individual found in the world.
 These, bhikkhus, are the four fine thoroughbred individuals found in the
 world."
 
-The third sutta.
+The third discourse is finished.
