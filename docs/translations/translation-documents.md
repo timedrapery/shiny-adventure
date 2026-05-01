@@ -132,6 +132,11 @@ Current AN 4.113 surfaces:
 - [an4-113-patoda-sutta.md](an4-113-patoda-sutta.md): main shareable translation text
 - [an4-113-patoda-sutta-notes.md](an4-113-patoda-sutta-notes.md): companion translator notes and rationale
 
+Current AN 11.9 surfaces:
+
+- [an11-9-saddha-sutta.md](an11-9-saddha-sutta.md): main shareable translation text
+- [an11-9-saddha-sutta-notes.md](an11-9-saddha-sutta-notes.md): companion translator notes and rationale
+
 Current DN 2 surfaces:
 
 - [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text

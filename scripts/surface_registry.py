@@ -176,6 +176,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an4-113-patoda-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an11_9",
+        label="AN 11.9",
+        main_relpath="docs/translations/an11-9-saddha-sutta.md",
+        notes_relpath="docs/translations/an11-9-saddha-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="dn2",
         label="DN 2",
         main_relpath="docs/translations/dn2-samannaphala-sutta.md",
