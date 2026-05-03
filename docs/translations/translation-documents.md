@@ -137,6 +137,11 @@ Current AN 4.113 surfaces:
 - [an4-113-patoda-sutta.md](an4-113-patoda-sutta.md): main shareable translation text
 - [an4-113-patoda-sutta-notes.md](an4-113-patoda-sutta-notes.md): companion translator notes and rationale
 
+Current AN 10.60 surfaces:
+
+- [an10-60-giriminanda-sutta.md](an10-60-giriminanda-sutta.md): main shareable translation text
+- [an10-60-giriminanda-sutta-notes.md](an10-60-giriminanda-sutta-notes.md): companion translator notes and rationale
+
 Current AN 11.9 surfaces:
 
 - [an11-9-saddha-sutta.md](an11-9-saddha-sutta.md): main shareable translation text
