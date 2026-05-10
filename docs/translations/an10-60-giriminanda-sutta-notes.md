@@ -48,8 +48,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `sati` is rendered `remembering` (major, house default). `Ānāpānassati`
   is rendered `the remembering of in-and-out breathing` in the perception
   list and section heading.
-- `pīti` is rendered `delight` (major, house default). In the ānāpānassati
-  step `pītipaṭisaṁvedī`, the rendering is `experiencing delight`.
+- `pīti` is rendered `rejoicing` (major, updated house default). In the
+  ānāpānassati step `pītipaṭisaṁvedī`, the rendering is `experiencing
+  rejoicing`.
 - `citta` is rendered `feeling mind` (major, house default) throughout the
   ānāpānassati steps: `cittapaṭisaṁvedī` → `experiencing the feeling mind`,
   `abhippamodayaṁ cittaṁ` → `gladdening the feeling mind`, `samādahaṁ

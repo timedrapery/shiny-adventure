@@ -31,9 +31,11 @@ source-audit calls, and edition notes that govern it.
   `agitated distraction`, and `uncertain distraction`.
 - The seven `bojjhanga` members follow the repository's established framework
   renderings: `remembering awakening factor`, `discernment-of-qualities
-  awakening factor`, `energy awakening factor`, `delight awakening factor`,
+  awakening factor`, `energy awakening factor`, `rejoicing awakening factor`,
   `relaxation awakening factor`, `mental composure awakening factor`, and
-  `dynamic-balance awakening factor`.
+  `dynamic-balance awakening factor`. The fourth member uses `rejoicing`
+  following the updated house default for `pīti` (major), which changed from
+  `delight` to `rejoicing` to preserve the active quality of the term.
 - `yonisomanasikarabahulikaro` and `ayonisomanasikarabahulikaro` remain
   `repeated wise attention` and `repeated unwise attention`, matching the
   headword example phrases already recorded in the live lexicon.

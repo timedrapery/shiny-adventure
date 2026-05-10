@@ -38,10 +38,13 @@ translation choices, source-audit calls, and edition notes that govern it.
   keeps the clearing action concrete.
 - `jhāna` is rendered `mental theme` (major, reviewed). The four formulas are
   rendered `first mental theme` through `fourth mental theme`.
-- `pīti` is rendered `delight` (major). In the jhāna formulas: `vivekajaṁ
-  pītisukhena` is rendered `delight and happiness born of seclusion`;
-  `samādhijaṁ pītisukhena` is rendered `delight and happiness born of mental
-  composure`; `nippītikena sukhena` is rendered `happiness free of delight`.
+- `pīti` is rendered `rejoicing` (major, updated house default). In the jhāna
+  formulas: `vivekajaṁ pītisukhena` is rendered `rejoicing and satisfaction
+  born of seclusion`; `samādhijaṁ pītisukhena` is rendered `rejoicing and
+  satisfaction born of composure`; `nippītikena sukhena` is rendered
+  `satisfaction free of rejoicing`. `Sukha` is rendered `satisfaction`
+  following the preferred house default; the earlier rendering `happiness` was
+  the discouraged form and has been corrected throughout this surface.
 - `upekkhā` in the third and fourth mental themes is rendered `dynamic
   balance` (major, house default). `Upekkhāsatipārisuddhiṁ` in the fourth
   mental theme is rendered `pure dynamic balance and remembering`.

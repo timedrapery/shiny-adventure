@@ -207,8 +207,8 @@ They train like this: 'I will breathe in stilling the bodily putting-together.'
 They train like this: 'I will breathe out stilling the bodily
 putting-together.'
 
-They train like this: 'I will breathe in experiencing delight.' They train
-like this: 'I will breathe out experiencing delight.'
+They train like this: 'I will breathe in experiencing rejoicing.' They train
+like this: 'I will breathe out experiencing rejoicing.'
 
 They train like this: 'I will breathe in experiencing happiness.' They train
 like this: 'I will breathe out experiencing happiness.'

@@ -101,11 +101,11 @@ the energy of pressing on. Repeated wise attention there feeds the arising of
 the energy awakening factor when it has not yet arisen, or, if it has arisen,
 its development and fulfillment.
 
-"And what feeds the arising of the delight awakening factor when it has not yet
+"And what feeds the arising of the rejoicing awakening factor when it has not yet
 arisen, or, if it has arisen, its development and fulfillment?
 
-There are qualities that support the delight awakening factor. Repeated wise
-attention there feeds the arising of the delight awakening factor when it has
+There are qualities that support the rejoicing awakening factor. Repeated wise
+attention there feeds the arising of the rejoicing awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what feeds the arising of the relaxation awakening factor when it has not
@@ -197,11 +197,11 @@ the energy of pressing on. Repeated non-attention there starves the arising of
 the energy awakening factor when it has not yet arisen, or, if it has arisen,
 its development and fulfillment.
 
-"And what starves the arising of the delight awakening factor when it has not
+"And what starves the arising of the rejoicing awakening factor when it has not
 yet arisen, or, if it has arisen, its development and fulfillment?
 
-There are qualities that support the delight awakening factor. Repeated
-non-attention there starves the arising of the delight awakening factor when it
+There are qualities that support the rejoicing awakening factor. Repeated
+non-attention there starves the arising of the rejoicing awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what starves the arising of the relaxation awakening factor when it has

@@ -290,11 +290,11 @@ freedom, and safe ground.
 Giving up these five distractions — corruptions of the feeling mind that
 weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
-thinking and pondering, with delight and happiness born of seclusion.
+thinking and pondering, with rejoicing and satisfaction born of seclusion.
 
 They drench, saturate, fill, and spread this very body with delight and
 happiness born of seclusion, so that no part of the whole body goes
-undrenched with delight and happiness born of seclusion.
+undrenched with rejoicing and satisfaction born of seclusion.
 
 Bhikkhus, suppose a skilled bathhouse attendant or their apprentice were to
 scatter bath powder into a bronze basin and knead it with water little by
@@ -302,8 +302,8 @@ little until the powder ball was thoroughly saturated with moisture — inside
 and out, soaked through — yet nothing dripped off.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with delight and happiness born of seclusion, so that no part
-of the whole body goes undrenched with delight and happiness born of seclusion.
+this very body with rejoicing and satisfaction born of seclusion, so that no part
+of the whole body goes undrenched with rejoicing and satisfaction born of seclusion.
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
 internal clarity, the feeling mind unified, without thinking and pondering, a
@@ -312,7 +312,7 @@ happiness born of mental composure.
 
 They drench, saturate, fill, and spread this very body with delight and
 happiness born of mental composure, so that no part of the whole body goes
-undrenched with delight and happiness born of mental composure.
+undrenched with rejoicing and satisfaction born of composure.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
 with no inlet from the east, west, north, or south, and the sky giving no
@@ -321,19 +321,19 @@ that lake and drench, saturate, fill, and spread throughout the lake, so that
 no part of the whole lake went undrenched with cool water.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with delight and happiness born of mental composure, so that
+this very body with rejoicing and satisfaction born of composure, so that
 no part of the whole body goes undrenched with delight and happiness born of
 mental composure.
 
-Furthermore, bhikkhus, with the fading of delight, a bhikkhu remains in
+Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the
-body the happiness of which the noble ones say: 'One who has dynamic balance
-and remembers lives in happiness.' They enter and remain in the third mental
+body the satisfaction of which the noble ones say: 'One who has dynamic balance
+and remembers lives in satisfaction.' They enter and remain in the third mental
 theme.
 
-They drench, saturate, fill, and spread this very body with happiness free of
-delight, so that no part of the whole body goes undrenched with happiness free
-of delight.
+They drench, saturate, fill, and spread this very body with satisfaction free
+of rejoicing, so that no part of the whole body goes undrenched with
+satisfaction free of rejoicing.
 
 Bhikkhus, suppose in a pond of blue lotuses, or pink or white lotuses, some
 lotuses were born and grew in the water, rose no higher than the water, and
@@ -342,8 +342,8 @@ saturated, filled, and permeated with cool water, so that no part of any lotus
 went undrenched with cool water.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with happiness free of delight, so that no part of the whole
-body goes undrenched with happiness free of delight.
+this very body with satisfaction free of rejoicing, so that no part of the whole
+body goes undrenched with satisfaction free of rejoicing.
 
 Furthermore, bhikkhus, with the abandoning of pleasure and pain, and with the
 earlier disappearance of gladness and sadness, a bhikkhu enters and remains in

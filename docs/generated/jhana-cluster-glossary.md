@@ -9,7 +9,7 @@
 | vitakka | thinking | directed thought, applied attention | initial thought, applied thought |
 | vicāra | pondering | reflection, evaluation, sustained attention | sustained thought |
 | ekaggatā | directness | unification, singleness, single aim | concentration, one-pointedness |
-| pīti | delight | joy, rapture, uplift | ecstasy |
+| pīti | rejoicing | delight, joy, rapture, uplift | ecstasy |
 | sukha | satisfaction | ease, wellbeing | happiness |
 | nīvaraṇa | distraction | hindrance, obstruction | problem, enemy |
 | bhāvanā | development | cultivation, cultivation of tranquility | meditation |
