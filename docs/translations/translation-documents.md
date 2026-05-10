@@ -97,6 +97,11 @@ Current MN 148 surfaces:
 - [mn148-chachakka-sutta.md](mn148-chachakka-sutta.md): main shareable translation text
 - [mn148-chachakka-sutta-notes.md](mn148-chachakka-sutta-notes.md): companion translator notes and rationale
 
+Current SN 12.23 surfaces:
+
+- [sn12-23-upanisa-sutta.md](sn12-23-upanisa-sutta.md): main shareable translation text
+- [sn12-23-upanisa-sutta-notes.md](sn12-23-upanisa-sutta-notes.md): companion translator notes and rationale
+
 Current SN 12.2 surfaces:
 
 - [sn12-2-paticcasamuppada-vibhanga-sutta.md](sn12-2-paticcasamuppada-vibhanga-sutta.md): main shareable translation text
