@@ -3,9 +3,10 @@
   "normalized_term": "piti",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "delight, uplift, gladdening",
-  "preferred_translation": "delight",
+  "literal_meaning": "rejoicing, uplift, active delight",
+  "preferred_translation": "rejoicing",
   "alternative_translations": [
+    "delight",
     "joy",
     "rapture",
     "uplift"
@@ -14,13 +15,18 @@
     "ecstasy"
   ],
   "untranslated_preferred": false,
-  "definition": "An energizing delight or uplift that arises in wholesome states, especially in collected practice.",
-  "notes": "The project prefers delight because it is vivid without sounding inflated. Joy remains acceptable in explanatory prose, while rapture is available for continuity with older Buddhist-English usage when the meditative intensity is the point. The term should be distinguished from sukha: pīti is the enlivening uplift, whereas sukha is the satisfying ease that can accompany it. This matters in jhāna translation, awakening-factor language, and practical meditation instruction. DN 2 is especially important here because it keeps the delight-and-ease pair coordinated across the first, second, and third members of the fourfold jhāna sequence. The OSF glossary likewise keeps pīti distinct from sukha and treats it as energizing uplift, which supports the current policy.",
+  "definition": "An active rejoicing that arises in wholesome states, especially in collected practice; something one does rather than merely experiences.",
+  "notes": "The project keeps rejoicing as the default because it preserves the active quality of pīti: rejoicing is something the practitioner does, not a mood that washes over them. Delight remains the primary alternate when the noun form needs to sound more settled, and joy remains available in explanatory prose. Rapture is available for continuity with older Buddhist-English usage when the meditative intensity is the point. The term should be distinguished from pāmojja, which is the earlier actively-cultivated gladness that precedes rejoicing in the positive dependent-arising sequence; SN 12.23 makes this order explicit. Pīti should also be distinguished from sukha: pīti is the enlivening active rejoicing, whereas sukha is the satisfying ease or satisfaction that can accompany or follow it — a distinction the OSF glossary keeps stable and that DN 2 enforces across the fourfold jhāna sequence. The active reading connects directly to the ānāpānassati step abhippamodayaṁ cittaṁ — gladdening the feeling mind — which leads to rejoicing rather than producing it passively.",
   "context_rules": [
     {
-      "context": "In most meditative-development and bojjhaṅga contexts",
-      "rendering": "delight",
+      "context": "In most meditative-development, bojjhaṅga, and positive-sequence contexts",
+      "rendering": "rejoicing",
       "notes": "Use this by default."
+    },
+    {
+      "context": "In explanatory prose where the noun needs to sound more settled or familiar",
+      "rendering": "delight",
+      "notes": "Use this as a controlled alternate when rejoicing sounds too active for the sentence."
     },
     {
       "context": "In explanatory prose emphasizing affective brightness",
@@ -34,8 +40,13 @@
     },
     {
       "context": "When contrasted directly with sukha in jhāna formulas",
-      "rendering": "delight",
-      "notes": "Keep the energizing quality distinct from satisfaction or ease."
+      "rendering": "rejoicing",
+      "notes": "Keep the active quality distinct from satisfaction or ease."
+    },
+    {
+      "context": "When describing the fading of pīti in the third jhāna",
+      "rendering": "rejoicing",
+      "notes": "The fading of rejoicing marks the transition to the quieter satisfaction of the third mental theme."
     }
   ],
   "related_terms": [
@@ -45,24 +56,25 @@
     "pamojja",
     "passaddhi",
     "samādhi",
+    "somanassa",
     "sukha"
   ],
   "example_phrases": [
     {
       "pali": "vivekajaṃ pītisukhaṃ",
-      "translation": "delight and ease born of seclusion",
+      "translation": "rejoicing and satisfaction born of seclusion",
       "notes": "Classic first-jhāna phrase distinguishing pīti and sukha.",
       "source": "DN 2"
     },
     {
       "pali": "pītisambojjhaṅga",
-      "translation": "the delight awakening factor",
+      "translation": "the rejoicing awakening factor",
       "notes": "Shows the term inside the awakening-factor framework.",
       "source": "SN 46.3"
     },
     {
       "pali": "pītiyā ca virāgā",
-      "translation": "with the fading of delight",
+      "translation": "with the fading of rejoicing",
       "notes": "Shows that pīti is not the endpoint of the sequence.",
       "source": "DN 2"
     }
@@ -70,7 +82,8 @@
   "sutta_references": [
     "DN 2",
     "SN 46.3",
-    "MN 118"
+    "MN 118",
+    "SN 12.23"
   ],
   "tags": [
     "core-practice",
@@ -79,24 +92,29 @@
     "mental-qualities"
   ],
   "status": "stable",
-  "version_notes": "Expanded to distinguish pīti from sukha explicitly and to stabilize its handling across jhāna and awakening-factor contexts.",
+  "version_notes": "Updated preferred rendering from delight to rejoicing to preserve the active quality of pīti as something the practitioner does rather than merely experiences. Delight moved to primary alternate.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "rationale",
-      "scope": "Named in notes as support for the current pīti policy."
+      "scope": "Supports treating pīti as energizing active uplift distinct from sukha."
     },
     {
       "source": "DN 2",
       "kind": "context-rule",
-      "scope": "Supports keeping the delight-and-ease pair stable across the jhāna sequence."
+      "scope": "Supports keeping the pīti-and-sukha pair stable across the jhāna sequence."
+    },
+    {
+      "source": "SN 12.23",
+      "kind": "context-rule",
+      "scope": "Supports the active-quality reading: pīti arises from pāmojja in the positive dependent-arising sequence."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'delight' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'rejoicing' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc. Use delight when the sentence needs a settled noun and rejoicing sounds too kinetic.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'ecstasy' or other unrecorded alternates."
+    "drift_risk": "Prevents drift toward ecstasy or passive emotion-language, and prevents flattening the active quality of pīti into a generic mood noun."
   }
 }

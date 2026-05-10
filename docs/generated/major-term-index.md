@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 236
+- Entries: 237
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -215,6 +215,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [paccaya](../../terms/major/paccaya.json) | paccaya | condition | stable | core-doctrine, dependent-origination, causality, translation-sensitive |
 | [pahana](../../terms/major/pahana.json) | pahāna | abandoning | stable | core-practice, translation-sensitive, liberation |
 | [pajanati](../../terms/major/pajanati.json) | pajānāti | discerns | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |
+| [pamojja](../../terms/major/pamojja.json) | somanassa | gladness | reviewed | mental-qualities, core-practice |
 | [panna](../../terms/major/panna.json) | paññā | discernment | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [pannavimutti](../../terms/major/pannavimutti.json) | paññāvimutti | release through discernment | reviewed | core-doctrine, liberation |
 | [papa](../../terms/major/papa.json) | pāpa | harmful | reviewed | ethics, mental-qualities |
@@ -233,7 +234,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [phassa-samudaya](../../terms/major/phassa-samudaya.json) | phassasamudaya | origin of contact | reviewed | core-doctrine, dependent-origination, sense-fields |
 | [phassa](../../terms/major/phassa.json) | phassa | contact | stable | core-doctrine, dependent-origination, sense-fields, translation-sensitive, context-sensitive |
 | [photthabba](../../terms/major/photthabba.json) | phoṭṭhabba | tangible | reviewed | sense-fields, core-doctrine |
-| [piti](../../terms/major/piti.json) | pīti | delight | stable | core-practice, meditative-development, jhana-factors, mental-qualities |
+| [piti](../../terms/major/piti.json) | pīti | rejoicing | stable | core-practice, meditative-development, jhana-factors, mental-qualities |
 | [punna](../../terms/major/punna.json) | puñña | benefit | reviewed | ethics, causality |
 | [puthujjana](../../terms/major/puthujjana.json) | puthujjana | ordinary person | stable | core-doctrine, persons |
 

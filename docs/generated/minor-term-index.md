@@ -595,7 +595,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [padhana](../../terms/minor/padhana.json) | padhāna | exertion | reviewed | core-practice, meditative-development |
 | [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | perception of abandoning | stable | meditative-development, liberation, translation-sensitive |
 | [pamada](../../terms/minor/pamada.json) | pamāda | heedlessness | reviewed | mental-qualities |
-| [pamojja](../../terms/minor/pamojja.json) | pāmojja | gladness | stable | mental-qualities, core-practice |
+| [pamojja](../../terms/minor/pamojja.json) | pāmojja | actively happy state | stable | core-practice, meditative-development, mental-qualities |
 | [pamsukula](../../terms/minor/pamsukula.json) | paṃsukūla | rag-robe | reviewed | vinaya, core-practice |
 | [panatipata-veramani](../../terms/minor/panatipata-veramani.json) | panatipata-veramani | abstaining from killing | reviewed | ethics |
 | [panatipata](../../terms/minor/panatipata.json) | pāṇātipāta | taking life | reviewed | ethics |

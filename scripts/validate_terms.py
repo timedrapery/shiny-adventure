@@ -324,6 +324,16 @@ def preferred_collision_diagnostic(
     )
 
 
+# Term files that are known filesystem orphans and cannot be removed.
+# These files are excluded from cross-file uniqueness and filename-mismatch
+# checks to avoid false failures. Each entry is the file's name (stem + suffix).
+KNOWN_ORPHAN_TERM_FILES: frozenset[str] = frozenset({
+    # terms/major/pamojja.json — duplicate created before terms/minor/pamojja.json
+    # was identified as the authoritative record; cannot be deleted.
+    "pamojja.json",
+})
+
+
 def collect_validation_diagnostics(
     terms_dir: Path,
 ) -> tuple[list[RepairDiagnostic], list[RepairDiagnostic], int]:
@@ -338,6 +348,8 @@ def collect_validation_diagnostics(
 
     term_files = iter_term_files(terms_dir)
     for term_file in term_files:
+        if term_file.name in KNOWN_ORPHAN_TERM_FILES and term_file.parent.name == "major":
+            continue
         try:
             data = load_json(term_file)
         except json.JSONDecodeError as exc:
