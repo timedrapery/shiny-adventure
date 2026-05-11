@@ -170,6 +170,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn22-89-khemaka-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn35_28",
+        label="SN 35.28",
+        main_relpath="docs/translations/sn35-28-aditta-sutta.md",
+        notes_relpath="docs/translations/sn35-28-aditta-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn36_6",
         label="SN 36.6",
         main_relpath="docs/translations/sn36-6-salla-sutta.md",

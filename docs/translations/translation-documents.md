@@ -127,6 +127,11 @@ Current SN 22.89 surfaces:
 - [sn22-89-khemaka-sutta.md](sn22-89-khemaka-sutta.md): main shareable translation text
 - [sn22-89-khemaka-sutta-notes.md](sn22-89-khemaka-sutta-notes.md): companion translator notes and rationale
 
+Current SN 35.28 surfaces:
+
+- [sn35-28-aditta-sutta.md](sn35-28-aditta-sutta.md): main shareable translation text
+- [sn35-28-aditta-sutta-notes.md](sn35-28-aditta-sutta-notes.md): companion translator notes and rationale
+
 Current SN 36.6 surfaces:
 
 - [sn36-6-salla-sutta.md](sn36-6-salla-sutta.md): main shareable translation text
