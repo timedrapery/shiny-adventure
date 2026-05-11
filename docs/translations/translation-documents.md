@@ -52,6 +52,11 @@ Current MN 19 surfaces:
 - [mn19-dvedhavitakka-sutta.md](mn19-dvedhavitakka-sutta.md): main shareable translation text
 - [mn19-dvedhavitakka-sutta-notes.md](mn19-dvedhavitakka-sutta-notes.md): companion translator notes and rationale
 
+Current MN 38 surfaces:
+
+- [mn38-mahatanhasankhaya-sutta.md](mn38-mahatanhasankhaya-sutta.md): main shareable translation text
+- [mn38-mahatanhasankhaya-sutta-notes.md](mn38-mahatanhasankhaya-sutta-notes.md): companion translator notes and rationale
+
 Current MN 39 surfaces:
 
 - [mn39-maha-assapura-sutta.md](mn39-maha-assapura-sutta.md): main shareable translation text
