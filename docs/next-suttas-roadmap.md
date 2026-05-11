@@ -15,18 +15,12 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking is based on the current repository state:
-
-- `python scripts/repo_health.py --top 10` reports no draft queue, no weak
-  major entries, no major metadata gaps, and no translation collisions.
-- `python scripts/audit_term_coverage.py --top 15` reports no missing
-  families and no partial-family backlog.
-- the repo already has stable translation surfaces for DN 2, DN 15, MN 1, MN
-  2, MN 7, MN 9, MN 10, MN 18, MN 19, MN 44, MN 64, MN 99, MN 117, MN 118,
-  MN 137, MN 141, MN 148, SN 12.2, SN 22.48, SN 22.59, SN 22.89, SN 36.6,
-  SN 46.51, and SN 56.11
-- the next gains therefore come from leverage inside mature clusters rather
-  than from emergency term backfill
+This ranking reflects the repository at 32 translation surfaces. All fifteen
+entries in the original ranked roadmap are complete, along with seven
+additional surfaces (AN 4.113, AN 11.9, SN 12.23, SN 35.28, MN 38, MN 26,
+and the pre-existing surfaces). The next gains come from doctrinal families
+that are now well-governed in the lexicon but thin in outward-facing
+translation documents.
 
 The ranking weights four factors:
 
@@ -36,194 +30,94 @@ The ranking weights four factors:
    language
 4. ability to reduce future drift across clusters already under governance
 
-No new blocking major-entry scaffolds were needed for this roadmap. The live
-policy surface is already strong enough to support the next translation wave.
+## Ranked Roadmap (Wave 5)
 
-## Ranked Roadmap
+### 1. MN 22: Alagaddūpama Sutta
 
-### 1. SN 12.2: Paṭiccasamuppāda-vibhaṅga Sutta
+- Leverage signal: the raft simile (`kullūpama dhamma`) was referenced in
+  MN 38 without a source surface — MN 22 is that source.
+- Strengthens: the not-self and not-grasping-the-teaching families; the "not
+  mine, not I, not my self" refrain; the `anattā` formula across the five
+  heaps; and the snake / grass simile for wrong grasp of the teaching.
+- Likely lexicon pressure: govern the "not mine, not I, not my self" refrain
+  as a formula record; confirm the `n'etaṁ mama` / `n'esohamasmi` /
+  `na m'eso attā` triple; and keep the not-grasping-the-teaching prose from
+  drifting into generic freedom language.
 
-- Leverage signal: `59` live citations, `24` from major entries.
-- Strengthens: dependent arising, `paccaya`, `nirodha`, `vedanā -> taṇhā ->
-  upādāna`, `nāmarūpa`, `viññāṇa`, and the eleven forward-link formulas.
-- Likely lexicon pressure: keep `condition` from drifting into `cause`, keep
-  `birth` distinct from `rebirth`, and confirm that link-level formula records
-  inherit the headword policy cleanly.
+### 2. SN 12.15: Kaccānagotta Sutta
 
-### 2. DN 2: Sāmaññaphala Sutta
+- Leverage signal: extremely high per-length leverage — one page, directly
+  defines right view as the middle between eternalism and annihilationism.
+- Strengthens: the `diṭṭhi` family (eternalism / annihilationism), the
+  `sammādiṭṭhi` record, and the DA-as-middle-way teaching that anchors MN 38,
+  SN 12.2, and MN 9.
+- Likely lexicon pressure: govern `sassatavāda` (eternalism) and `ucchedavāda`
+  (annihilationism) as a paired minor entry; confirm how the repo renders the
+  `atthitā / natthitā` (existence / non-existence) poles in the middle-way
+  formula.
 
-- Leverage signal: `35` live citations, `21` from major entries.
-- Strengthens: `nīvaraṇa`, `jhāna`, training-sequence prose, practical
-  abandoning formulas, and release-side stock declarations.
-- Likely lexicon pressure: keep the hindrance-clearing sequence stable, hold
-  `samādhi`, `jhāna`, `ekaggatā`, and first-jhāna pair language together, and
-  prevent long-practice prose from splitting into mixed English registers.
+### 3. AN 3.65: Kālāma Sutta
 
-### 3. SN 56.11: Dhammacakkappavattana Sutta
+- Leverage signal: the most broadly referenced AN sutta not yet covered; the
+  AN cluster has only three surfaces (AN 4.113, AN 10.60, AN 11.9).
+- Strengthens: the epistemological foundation — confidence grounded in direct
+  experience rather than tradition, report, or reasoning alone; connects to
+  MN 38's "known, seen, realized for yourselves" passage and MN 26's "not
+  speaking out of reverence for the teacher" passage.
+- Likely lexicon pressure: govern the ten-criterion list (don't rely on oral
+  tradition, lineage, hearsay, scripture, reasoning, inference, analogy,
+  agreement with one's views, the seeming competence of the speaker, or
+  reverence for the teacher); keep the empirical-confidence family distinct
+  from both pure faith language and pure rationalist language.
 
-- Leverage signal: `31` live citations, `23` from major entries.
-- Strengthens: four noble truths, the `taṇhā` definition formula,
-  `pañcupādānakkhandhā`, and the truth-task family.
-- Likely lexicon pressure: keep the first truth practical rather than
-  slogan-like, confirm the governed `five clung-to heaps` expression, and keep
-  truth-family formulas aligned with MN 141 rather than drifting into
-  prestige-diction.
+### 4. MN 63: Cūḷamāluṅkya Sutta
 
-### 4. MN 2: Sabbāsava Sutta
+- Leverage signal: the poisoned arrow simile; the unanswered-questions
+  (`avyākata`) family; connects directly to MN 38's not-running-to-past/future
+  passage and MN 26's conditional-knowing teaching.
+- Strengthens: the undeclared (`avyākata`) doctrinal family; the "poisoned
+  arrow" simile for not letting metaphysical speculation block practice; the
+  boundary between what the teaching covers and what it leaves aside.
+- Likely lexicon pressure: govern `avyākata` (undeclared / unrecorded) as a
+  minor entry; confirm the fourteen unanswered questions as a formula record;
+  and keep the simile from being read as anti-intellectual rather than
+  practice-orienting.
 
-- Leverage signal: `11` live citations, `7` from major entries.
-- Strengthens: `āsava`, `āsavakkhaya`, `yoniso manasikāra`,
-  `ayoniso manasikāra`, and the method-sequence for dealing with trouble.
-- Likely lexicon pressure: sharpen the outflow family beyond headline glosses,
-  stabilize the method verbs across `seeing`, `restraint`, `use`, `enduring`,
-  `avoiding`, `removing`, and `developing`, and keep `outflow` distinct from
-  broader defilement language.
+### 5. SN 12.15: Kaccānagotta Sutta
 
-### 5. MN 9: Sammādiṭṭhi Sutta
-
-- Leverage signal: `28` live citations, `22` from major entries.
-- Strengthens: wholesome and unwholesome roots, `diṭṭhi`, `ariyasāvaka`,
-  dependent arising, nutriment-related analysis, and appropriation-family
-  distinctions.
-- Likely lexicon pressure: keep the root family aligned, keep broad analytical
-  list prose from rotating among near-neighbor glosses, and confirm how the
-  dependent-arising family reads inside a longer Sariputta-style exposition.
-
-### 6. MN 44: Cūḷavedalla Sutta
-
-- Leverage signal: `10` live citations, `9` from major entries.
-- Strengthens: `vedanā`, `saññā`, `viññāṇa`, `samādhi`, and the
-  `adhisīla` / `adhicitta` / `adhipaññā` triad.
-- Likely lexicon pressure: keep feeling, recognition, and knowing sharply
-  distinct, confirm when comparative `consciousness` language is allowed but
-  not default, and stabilize compact analytic dialogue prose.
-
-### 7. MN 64: Mahāmālukya Sutta
-
-- Leverage signal: `11` live citations, `8` from major entries.
-- Strengthens: `anusaya`, `saṃyojana`, lower and higher fetters,
-  sensual-passion residue, and awakening-stage analysis.
-- Likely lexicon pressure: tighten the boundary between active hindrance,
-  latent tendency, and binding fetter, and promote any lower-fetter /
-  higher-fetter list handling that still lives only in prose.
-
-### 8. DN 15: Mahānidāna Sutta
-
-- Leverage signal: `8` live citations, `3` from major entries.
-- Strengthens: `viññāṇa`, `nāmarūpa`, the contact-to-feeling sequence, and
-  dependent-arising anti-metaphysical guardrails.
-- Likely lexicon pressure: keep `knowing` tied to conditioned process rather
-  than witness-like metaphysics, and confirm how the repo handles reciprocal
-  `viññāṇa` / `nāmarūpa` lines without losing readability.
-
-### 9. SN 22.89: Khemaka Sutta
-
-- Leverage signal: `7` live citations, `6` from major entries.
-- Strengthens: `asmimāna`, `anusaya`, `saṃyojana`, identity residue, and the
-  five-heaps selfing family after SN 22.59.
-- Likely lexicon pressure: keep self-view, taking personally, and the residual
-  conceit `I am` distinct, and decide whether the identity-construction brief
-  now needs an explicit five-heaps companion surface.
-
-### 10. SN 22.48: Khandha Sutta
-
-- Leverage signal: `11` live citations, `2` from major entries.
-- Strengthens: `pañcakkhandhā`, `pañcupādānakkhandhā`, and the constituent
-  heap compounds that carry the family in formulaic form.
-- Likely lexicon pressure: confirm collective `five heaps` versus
-  `five clung-to heaps`, keep the constituent compounds aligned with the
-  stabilized SN 22.59 translation voice, and prevent minor-entry compound drift
-  from accumulating invisibly.
-
-### 11. MN 7: Vattha Sutta
-
-- Leverage signal: `6` live citations, `6` from major entries.
-- Strengthens: `kilesa`, `upakkilesa`, cleansing imagery, and the relation
-  between broad defilement-family language and narrower corruption-language.
-- Likely lexicon pressure: keep `defilement` from swallowing the narrower
-  residue families, and decide whether the `upakkilesa` side now needs a
-  stronger translator-facing note surface.
-
-### 12. SN 36.6: Salla Sutta
-
-- Leverage signal: `1` live citation, `1` from a major entry.
-- Strengthens: feeling-side reaction language, bodily pain versus mental
-  distress, and the practical line between first pain and added reactive pain.
-- Likely lexicon pressure: add sharper note-level language for reactive
-  doubling, align it with the MN 137 / MN 148 sensory-response surface, and
-  decide whether the repo now needs a reusable feeling-escalation formula
-  record.
-
-### 13. SN 46.51: Āhāra Sutta
-
-- Leverage signal: `6` live citations, `6` from major entries.
-- Strengthens: `nīvaraṇa`, awakening factors, and the feeding / starving side
-  of conditional-practice prose.
-- Likely lexicon pressure: keep nourishment-side formulas distinct from generic
-  causal language, and decide whether the repo now needs a compact
-  translator-facing feed / unfeed brief for hindrance and awakening-factor
-  work.
-
-### 14. MN 39: Mahā-Assapura Sutta
-
-- Leverage signal: `9` live citations, `8` from major entries.
-- Strengthens: hindrance abandoning, jhāna sequence, release, and
-  `vimutti-ñāṇadassana` style closing formulas.
-- Likely lexicon pressure: stabilize long practice-progression English outside
-  DN 2, and keep the release-and-knowledge close coordinated with the existing
-  liberation family rather than recasting it as inspirational prose.
-
-### 15. AN 10.60: Girimānanda Sutta
-
-- Leverage signal: `6` live citations, `2` from major entries.
-- Strengthens: perception practice, three-marks contemplative compounds, and
-  abandoning-oriented saññā formulas.
-- Likely lexicon pressure: decide whether the practice-perception family now
-  needs a dedicated translator-facing note surface around `anicca-saññā`,
-  `dukkha-saññā`, `anatta-saññā`, and `pahāna-saññā`.
+(Already ranked at 2 — included here for completeness in the sequencing
+notes below.)
 
 ## Suggested Translation Order
 
-Use the ranked list as the source of truth, but work in three waves:
+### Wave 5: Source-Closing and Gap-Filling
 
-### Wave 1: Dense Existing Support
-
-- Completed: `SN 12.2`, `SN 56.11`, `DN 2`, `MN 2`, `MN 9`
-
-### Wave 2: Distinction-Forcing Surfaces
-
-- Completed: `MN 44`, `MN 64`, `DN 15`, `SN 22.89`, `SN 22.48`
-
-### Wave 3: Strategic Expansion
-
-- Completed: `MN 7`
-- Completed: `SN 36.6`
-- Completed: `SN 46.51`
-- `MN 39`
-- `AN 10.60`
+1. `MN 22` Alagaddūpama — closes the raft-simile source gap, governs the
+   not-self refrain as a formula record
+2. `SN 12.15` Kaccānagotta — highest per-length doctrinal leverage in the
+   remaining queue
+3. `AN 3.65` Kālāma — expands the AN cluster, governs empirical-confidence
+   epistemology
+4. `MN 63` Cūḷamāluṅkya — governs the undeclared family and the poisoned
+   arrow simile
 
 ## Why This Order
 
-- Wave 1 should land first because those texts already carry the heaviest live
-  policy surface. The completed `SN 12.2`, `SN 56.11`, and `DN 2` surfaces now
-  provide controls for dependent arising, four-truths language, hindrance
-  clearing, and jhāna prose.
-- Wave 1 and Wave 2 are now complete, and Wave 3 has started with `MN 7`,
-  using the completed first-wave and second-wave surfaces as controls for
-  right-view, dependent-arising, four-truths, outflow, training-sequence,
-  identity, felt-experience, mental-composure, fetter, underlying-tendency,
-  name-and-form, knowing, residual-conceit, plain-heap, clung-to-heap,
-  corruption, cleansing, verified-confidence, and divine-abiding language.
-- Wave 2 landed next because those texts sharpened distinctions the repo
-  already recorded but had not yet forced through enough outward-facing
-  translation documents: fetter versus tendency, identity residue versus view,
-  and conditioned knowing versus metaphysical consciousness drift.
-- Wave 3 remains high value because the denser clusters have been confirmed in
-  translation-facing prose. After MN 7's cleansing and corruption surface,
-  SN 36.6's one-arrow / two-arrows sensory-response surface, and SN 46.51's
-  feeding / starving control surface, `MN 39` is the next useful extension
-  because it tests long-form hindrance-clearing, jhana progression, and
-  release-knowledge prose against the existing practice core.
+- `MN 22` lands first because the raft simile was referenced in MN 38 without
+  a source surface. The sutta also carries the most reusable not-self formula
+  in the corpus — the threefold "not mine, not I, not my self" refrain across
+  all five heaps — which is cited but not yet governed in an outward-facing
+  translation document.
+- `SN 12.15` lands second because it is the shortest high-leverage text in the
+  remaining queue. One page, but it directly defines the middle-way framing
+  that underlies MN 38, MN 9, and SN 12.2. No other text gives this much
+  return per word.
+- `AN 3.65` lands third because the AN cluster is thin relative to the MN and
+  SN clusters, and this sutta is the most broadly referenced AN text in the
+  broader tradition.
+- `MN 63` lands fourth because the undeclared-questions family is currently
+  ungoverned and is beginning to appear as an implicit background in multiple
+  surfaces.
 
 ## What To Update In The Lexicon After Each Sutta
 
@@ -237,21 +131,3 @@ After each translation pass:
 4. refresh any linked brief, map, or generated cluster sheet that now has a
    stronger control passage
 5. regenerate translation indexes and rerun the full verification suite
-
-## Not First-Wave
-
-These texts are still useful, but they are not the best immediate leverage
-plays relative to the current lexicon surface:
-
-- `SN 35.28` Ādittapariyāya Sutta: strong and famous, but the current live
-  citation footprint is thinner than the ranked set above, so it would force
-  more net-new fire and fuel governance before returning value.
-- `MN 38` Mahātaṇhāsaṅkhaya Sutta: important for `viññāṇa` and `taṇhā`, but
-  the completed DN 15, MN 44, and MN 64 surfaces are cleaner first stabilizers
-  for the current knowing-process surface.
-- `MN 26` Ariyapariyesanā Sutta: already useful for knowledge and liberation
-  language, but it is less direct as a next-step drift reducer than the
-  denser formula and contrast texts above.
-- `SN 12.23` Upanisa Sutta: strong reserve candidate once the core
-  dependent-arising translation surfaces are in place and the repo is ready to
-  widen the positive-sequence side.
