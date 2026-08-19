@@ -15,7 +15,7 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking reflects the repository at 36 translation surfaces. All fifteen
+This ranking was made when the repository had 36 translation surfaces; it now has 41, and the historical figure is kept because the ranking below was computed against that state. All fifteen
 entries in the original ranked roadmap are complete, along with eleven
 additional surfaces (AN 4.113, AN 11.9, SN 12.23, SN 35.28, MN 38, MN 26,
 MN 22, SN 12.15, AN 3.65, MN 63, and the pre-existing surfaces). Wave 5 is now

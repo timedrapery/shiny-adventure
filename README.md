@@ -190,6 +190,8 @@ Current maintenance and workflow surface tools include:
 
 The repository has 41 translation surfaces (Waves 1 through 6 complete) and a plain-English standard applied across all of them.
 
+The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
+
 Picking the work up cold: start with [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md), whose Start Here section lists what to read and in what order, followed by the current state and the open work.
 
 Planning notes live in [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) and the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).

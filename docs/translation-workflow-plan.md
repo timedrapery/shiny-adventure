@@ -12,33 +12,57 @@ is to extend those assets deliberately while keeping them synchronized.
 
 ## Start Here
 
-If you are picking this repository up cold, read these three in order:
+If you are picking this repository up cold, read this section, then the two
+documents it names, then run the checks.
 
-1. **[plain-english-rollout-plan.md](plain-english-rollout-plan.md)** — the
+The repository is the editorial and governance layer. The public reading
+edition at `reader-src/` is generated from it. Neither is a copy of the other:
+the governed translations in `docs/translations/` are authoritative, and the
+reader is produced from them.
+
+1. **[reader-architecture.md](reader-architecture.md)** — how the reader is
+   generated, which files are authoritative, and how to add a translation or a
+   reader introduction.
+2. **[plain-english-rollout-plan.md](plain-english-rollout-plan.md)** — the
    register standard's working method, the traps in the tooling, and the
-   lexical decisions deliberately deferred. Read before touching any
-   translation surface.
-2. **[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)** —
-   the completed-surface list and the active translation queue.
-3. This document's Open Work section below.
+   lexical decisions deliberately deferred. Read before touching a translation
+   surface.
+3. **[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)** —
+   the completed-surface list and the translation queue.
 
-Then run the full suite to confirm the machine is in a good state:
+Then confirm the working copy is healthy:
 
 ```bash
 python scripts/run_checks.py
 ```
 
+```bash
+mkdocs build --strict
+```
+
+First-time setup on a new machine:
+
+```bash
+python -m venv .venv
+```
+
+```bash
+python -m pip install -r requirements-dev.txt
+```
+
 ## State As Of 2026-08-19
 
-- 41 translation surfaces, Waves 1 through 6 complete.
+- 41 governed translation surfaces, Waves 1 through 6 complete.
+- 41 reader pages, one per surface, all generated. 10 carry hand-written
+  reader introductions.
 - 1,148 term records. `repo_health.py` reports no open backlog in any section.
 - Register audit: 8 signals, all documented exceptions in the rollout plan.
 - Citation sweep: 400 ok, 0 absent.
-- Reader pages: 5, all in sync and enforced by a check.
+- The reader deploys automatically from `main` behind the full check suite.
 
 ## Open Work
 
-Ordered roughly by value, not urgency.
+Ordered by value, not urgency.
 
 ### 1. Harmonise the four `upadana` compounds
 
@@ -53,23 +77,23 @@ their notes, and the generated cluster sheets. Full evidence is in
 
 Revise the family in one pass. Half a family is worse than none.
 
-### 2. Promote the fourfold source question to a formula record
+### 2. Draft Wave 7
+
+Undrafted, and the next major translation project. Re-run the audit method in
+[next-suttas-roadmap.md](next-suttas-roadmap.md), which is more trustworthy
+than it was: four of Wave 6's leverage signals turned out wrong when checked
+against sources, all traceable to citations that have since been repaired.
+
+### 3. Promote the fourfold source question to a formula record
 
 `kim nidana kim samudaya kim jatika kim pabhava` now has identical wording in
 SN 12.11 and MN 11. A third surface should not re-solve it.
 
-### 3. Draft Wave 7
-
-Undrafted. Re-run the audit method in
-[next-suttas-roadmap.md](next-suttas-roadmap.md), which is now more
-trustworthy than it was: four of Wave 6's leverage signals turned out wrong
-when checked against sources, all traceable to citations that have since been
-repaired.
-
 ### 4. Smaller items
 
-- Add a check for list-structure damage. A bullet marker appearing mid-line is
-  the signature; see the trap recorded in the rollout plan.
+- Write reader introductions for the texts that still use the generated
+  default. The next ones in newcomer order are the Stage 2 and Stage 3 texts
+  without one: SN 55.5, MN 2, MN 118, MN 10, DN 2.
 - Work through the 11 `partial` citations from `verify_example_sources.py`.
   Those are usually the right sutta quoted with slightly wrong wording.
 - Consider dropping `HIGH_LOAD_MINOR_LINT_THRESHOLD` from 9 to 7 in
@@ -78,107 +102,9 @@ repaired.
   `sutava` (seven surfaces), `vemattata`, `kamaguna`, `attabhava`, `samisa`,
   `niramisa`, `nittha`, `dukkhakkhandha`, and the `bhavaditthi` /
   `vibhavaditthi` pair.
-
-## Immediate Goal
-
-Move from foundational cluster buildout to **translation-surface expansion and
-maintenance**.
-
-That means each covered doctrinal area should stay usable in four layers:
-
-1. as a headword
-2. as part of compounds and supporting entries
-3. as part of canonical formulas or control lines
-4. as part of live translation documents and generated reference outputs
-
-## Strategic Priorities
-
-### 1. Expand translation-facing text surfaces
-
-The repository already has enough policy to support more governed translation
-work directly.
-
-The next gains should come from:
-
-- extending `docs/translations/` where cluster policy is already in place
-- treating note files and control lines as first-class editorial surfaces
-- using translation work to reveal where supporting entries still need refinement
-
-### 2. Keep generated outputs and navigation current
-
-The generated browsing and translator-facing layers are now part of the normal
-working surface.
-
-That means:
-
-- refresh generated docs and translation indexes whenever upstream term data changes
-- prefer fixing live data or generators rather than hand-editing derived outputs
-- keep navigation and reference layers trustworthy for contributors and translators
-
-### 3. Continue controlled lexicon expansion
-
-Expansion is still useful, but it should now follow the system already in
-place.
-
-The next additions should:
-
-- come in coherent 20 to 40 term family batches
-- prioritize terms that unlock real translation work
-- strengthen live doctrinal clusters instead of isolated dictionary growth
-
-### 4. Keep planning docs honest
-
-Planning and review docs should now track actual repository state rather than
-stale expected work.
-
-That means:
-
-- refresh README priorities when major queues empty or focus changes
-- update review snapshots when counts or structure change materially
-- treat stale roadmap language as a maintenance issue, not harmless drift
-
-### 5. Maintain the reviewed supporting surface
-
-The draft-clearance phase is complete, but supporting entries still need
-editorial attention when live translation work exposes pressure.
-
-That means:
-
-- refine reviewed minor records when a translation surface shows ambiguity or drift risk
-- revise families together rather than making isolated synonym swaps
-- let real text work, not abstract completeness goals, decide when a minor entry needs more rule surface
-
-## Operating Sequence
-
-Use this order when improving the repository:
-
-1. choose a family or translation surface with active pressure
-2. review the governing major entries plus affected supporting entries together
-3. update translation docs or generated outputs affected by the change
-4. run targeted checks and then full verification
-5. refresh planning or review docs if the repository state materially changed
-
-## Current Working Surface
-
-The foundational cluster-buildout milestone is largely complete.
-
-The live lexicon currently has no draft major or minor entries.
-
-As of 2026-08-19 every backlog section in `python scripts/repo_health.py`
-reports none, including the high-load minor `translation_policy` queue. There
-is no remaining machine-detectable gap in the dataset, so the next work has to
-be chosen editorially rather than read off a report.
-
-Current governed surfaces already include:
-
-- dependent arising
-- five heaps
-- six sense fields
-- four noble truths
-- three marks
-- path factors
-- practice-text control surfaces
-- sensory-response control surfaces
+- Five dependabot pull requests are open against workflow actions and dev
+  dependencies. They were reviewed during the reader phase and deliberately
+  left alone; see the reader architecture document.
 
 ## Resolved Finding: Unverified Example Citations
 
