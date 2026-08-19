@@ -128,6 +128,48 @@ failure mode that has already bitten twice: governed term records that
 themselves carry the translationese, so that fixing a surface breaks the check
 suite until the record is fixed too.
 
+## Open Finding: Unverified Example Citations
+
+Found 2026-08-19 while translating SN 55.5. This is the most serious data
+issue currently known, and it is not detectable by any check in the suite.
+
+Several `example_phrases` cite a `source` sutta that does not contain the Pali
+they quote. Verified against the Bilara source text:
+
+| Record | Cited source | Cited Pali | Present? |
+| --- | --- | --- | --- |
+| `sakadagami` | SN 55.5 | `sakadāgāmimagga` | no |
+| `anagami` | SN 55.5 | `anāgāmimagga` | no |
+| `phala` | SN 55.5 | `sotāpattiphala` | no |
+| `phala` | AN 6.63 | `kammassa phalaṁ` | no |
+| `sotapatti` | SN 55.5 | `sotāpattiphala` | no |
+| `sotapatti` | SN 55.5 | `sotāpattiyaṅgāni` | no, text has the singular |
+| `sotapanna` | SN 55.5 | `sotāpannassa` | no, text has `sotāpanno` |
+
+SN 55.5 contains no `sakadāgām`, no `anāgām`, and no `phal` in any form.
+AN 6.63 uses `vipāka` throughout and never `phala`. `phala` therefore has no
+verified citation at all, and `anagami` has none either, since its other
+citation is AN 3.86, which also contains no `anāgām`.
+
+The two inflection mismatches have been corrected, because the right form was
+verifiable from the source. The rest are left in place and flagged, because
+picking a replacement source is an editorial decision and guessing one would
+repeat the original mistake.
+
+Why it matters beyond these records:
+
+- The Wave 6 ranking was built partly on this citation data, so its leverage
+  estimates were wrong. SN 55.5 was ranked for five orphan majors and actually
+  anchors two.
+- `lint_terms.py` checks that reviewed and stable major entries *have* example
+  sources. Nothing checks that a cited source contains the cited Pali.
+
+Closing this properly needs tooling: fetch the Bilara root text for each cited
+source and confirm the quoted Pali appears in it. That is a network-dependent
+check, so it probably belongs as a separate opt-in script rather than inside
+`run_checks.py`. Until it exists, treat `example_phrases` sources as unverified
+when they matter.
+
 ## Concrete Next Tasks
 
 ### Phase 1: Translation Surface Expansion

@@ -137,6 +137,11 @@ Current SN 12.2 surfaces:
 - [sn12-2-paticcasamuppada-vibhanga-sutta.md](sn12-2-paticcasamuppada-vibhanga-sutta.md): main shareable translation text
 - [sn12-2-paticcasamuppada-vibhanga-sutta-notes.md](sn12-2-paticcasamuppada-vibhanga-sutta-notes.md): companion translator notes and rationale
 
+Current SN 55.5 surfaces:
+
+- [sn55-5-dutiyasariputta-sutta.md](sn55-5-dutiyasariputta-sutta.md): main shareable translation text
+- [sn55-5-dutiyasariputta-sutta-notes.md](sn55-5-dutiyasariputta-sutta-notes.md): companion translator notes and rationale
+
 Current SN 56.11 surfaces:
 
 - [sn56-11-dhammacakkappavattana-sutta.md](sn56-11-dhammacakkappavattana-sutta.md): main shareable translation text
