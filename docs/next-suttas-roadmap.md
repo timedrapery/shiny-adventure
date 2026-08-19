@@ -97,6 +97,13 @@ volume.
   path and `phala` in ordinary result-language; and settle whether the four
   attainment terms stay in Pali or take English renderings, since they are
   currently governed as a family but never exercised.
+- Status: translated. See
+  [SN 55.5](translations/sn55-5-dutiyasariputta-sutta.md) and its
+  [translation notes](translations/sn55-5-dutiyasariputta-sutta-notes.md).
+  Correction to the leverage signal above: SN 55.5 anchors two majors, not
+  five. `sakadagami`, `anagami`, and `phala` cite this sutta for Pali that is
+  not in it. The discourse covers only the four stream-entry factors, the
+  stream as the eightfold path, and the stream-enterer.
 
 ### 3. AN 6.63: Nibbedhika Sutta
 
