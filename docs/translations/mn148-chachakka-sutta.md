@@ -403,19 +403,15 @@ not my self.'"
 three is contact. With contact as condition, there is felt experience as
 pleasant, painful, or mixed.
 
-When one is touched by pleasant feeling, one delights in it, affirms it, and
-keeps taking it personally.
+When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
 The underlying tendency toward passion lies underneath that.
 
-When one is touched by painful feeling, one sorrows, grows worn down, laments,
-beats one's chest and cries, and falls into confusion.
+When painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings.
 
 The underlying tendency toward resistance lies underneath that.
 
-When one is touched by mixed feeling, one does not discern that feeling's
-arising and vanishing, gratification, danger, and escape as they have come to
-be.
+When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
@@ -433,19 +429,15 @@ Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
-When one is touched by pleasant feeling, one delights in it, affirms it, and
-keeps taking it personally.
+When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
 The underlying tendency toward passion lies underneath that.
 
-When one is touched by painful feeling, one sorrows, grows worn down, laments,
-beats one's chest and cries, and falls into confusion.
+When painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings.
 
 The underlying tendency toward resistance lies underneath that.
 
-When one is touched by mixed feeling, one does not discern that feeling's
-arising and vanishing, gratification, danger, and escape as they have come to
-be.
+When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
@@ -462,19 +454,15 @@ dissatisfaction in this very life."
 three is contact. With contact as condition, there is felt experience as
 pleasant, painful, or mixed.
 
-When one is touched by pleasant feeling, one does not delight in it, does not
-affirm it, and does not keep taking it personally.
+When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
 The underlying tendency toward passion does not lie underneath that.
 
-When one is touched by painful feeling, one does not sorrow, does not grow
-worn down, does not lament, does not beat one's chest and cry, and does not
-fall into confusion.
+When painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings.
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When one is touched by mixed feeling, one discerns that feeling's arising and
-vanishing, gratification, danger, and escape as they have come to be.
+When one is touched by mixed feeling, they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
@@ -492,19 +480,15 @@ Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
-When one is touched by pleasant feeling, one does not delight in it, does not
-affirm it, and does not keep taking it personally.
+When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
 The underlying tendency toward passion does not lie underneath that.
 
-When one is touched by painful feeling, one does not sorrow, does not grow
-worn down, does not lament, does not beat one's chest and cry, and does not
-fall into confusion.
+When painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings.
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When one is touched by mixed feeling, one discerns that feeling's arising and
-vanishing, gratification, danger, and escape as they have come to be.
+When one is touched by mixed feeling, they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 

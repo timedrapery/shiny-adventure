@@ -26,8 +26,7 @@ source-audit calls, and edition notes that govern it.
 - `sutavā ariyasāvaka` remains `learned noble disciple`.
 - `dukkhāya vedanāya phuṭṭho samāno ...` reuses the existing MN 148 painful
   feeling response lines:
-  `when one is touched by painful feeling, one sorrows, grows worn down,
-  laments, beats one's chest and cries, and falls into confusion`, and the
+  `when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings`, and the
   inverse trained line.
 - `paṭigha` remains `resistance`, and the latent compound remains `underlying
   tendency toward resistance`.
@@ -40,15 +39,10 @@ source-audit calls, and edition notes that govern it.
 
 SN 36.6 adds four live phrase records to the sensory-response surface:
 
-- `sn36-6-two-feelings-painful-feeling`: `one feels two feelings: bodily and
-  mental`
-- `sn36-6-one-feeling-painful-feeling`: `one feels one feeling: bodily, not
-  mental`
-- `sn36-6-feelings-undiscerned-response`: `one does not discern those
-  feelings' arising and vanishing, gratification, danger, and escape as they
-  have come to be`
-- `sn36-6-feelings-discerned-response`: `one discerns those feelings' arising
-  and vanishing, gratification, danger, and escape as they have come to be`
+- `sn36-6-two-feelings-painful-feeling`: `they feel two feelings: one in the body, and one in the mind`
+- `sn36-6-one-feeling-painful-feeling`: `they feel one feeling: the one in the body, not the one in the mind`
+- `sn36-6-feelings-undiscerned-response`: `they do not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be`
+- `sn36-6-feelings-discerned-response`: `they discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be`
 
 These records keep the SN 36.6 surface auditable alongside the MN 137 / MN 148
 sensory-response family rather than leaving its core contrast to this note file

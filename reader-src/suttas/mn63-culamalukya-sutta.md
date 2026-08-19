@@ -21,59 +21,58 @@ specific word choices, see the
 
 ## The Setting
 
-So I have heard. At one time the Blessed One was staying near Sāvatthī, in
+So I have heard. At one time the Buddha was staying near Sāvatthī, in
 Jeta's Grove, Anāthapiṇḍika's Monastery.
 
 ## Mālukyaputta's Reflection
 
 Then, while Venerable Mālukyaputta was alone in seclusion, this reflection
-arose in his mind: "These points have been left undeclared by the Blessed
-One — set aside and rejected: 'the world is eternal,' 'the world is not
+arose in his mind: "These points have been left undeclared by the Buddha — set aside and rejected: 'the world is eternal,' 'the world is not
 eternal,' 'the world is finite,' 'the world is infinite,' 'the soul and the
 body are the same,' 'the soul is one thing and the body another,' 'the
 Tathāgata exists after death,' 'the Tathāgata does not exist after death,'
 'the Tathāgata both exists and does not exist after death,' 'the Tathāgata
-neither exists nor does not exist after death.' The Blessed One does not
+neither exists nor does not exist after death.' The Buddha does not
 declare these to me, and I do not approve of, I do not accept, that he does
-not declare them. I will go to the Blessed One and ask him about this. If the
-Blessed One declares to me that the world is eternal, or that the world is not
+not declare them. I will go to the Buddha and ask him about this. If the
+Buddha declares to me that the world is eternal, or that the world is not
 eternal, or that the world is finite, or that the world is infinite, or that
 the soul and the body are the same, or that the soul is one thing and the body
 another, or that the Tathāgata exists after death, or that the Tathāgata does
 not exist after death, or that the Tathāgata both exists and does not exist
 after death, or that the Tathāgata neither exists nor does not exist after
-death — then I will continue to live the spiritual life under the Blessed One.
-But if the Blessed One does not declare these to me, then I will renounce the
+death — then I will continue to live the spiritual life under the Buddha.
+But if the Buddha does not declare these to me, then I will renounce the
 training and return to the lower life of a layperson."
 
 ## Mālukyaputta's Challenge
 
 Then, when it was evening, Venerable Mālukyaputta rose from seclusion and went
-to the Blessed One. He bowed to the Blessed One and sat down to one side.
-Seated to one side, Venerable Mālukyaputta said to the Blessed One:
+to the Buddha. He bowed to the Buddha and sat down to one side.
+Seated to one side, Venerable Mālukyaputta said to the Buddha:
 
 "Bhante, while I was alone in seclusion, this reflection arose in my mind:
-'These points have been left undeclared by the Blessed One — set aside and
+'These points have been left undeclared by the Buddha — set aside and
 rejected: that the world is eternal, or not eternal; that the world is
 finite, or infinite; that the soul and the body are the same, or that the
 soul is one thing and the body another; that the Tathāgata exists after
 death, does not exist after death, both exists and does not exist after
-death, or neither exists nor does not exist after death. The Blessed One does
+death, or neither exists nor does not exist after death. The Buddha does
 not declare these to me, and I do not approve of, I do not accept, that he
 does not declare them.'
 
-If the Blessed One knows that the world is eternal, let the Blessed One
-declare to me that the world is eternal. If the Blessed One knows that the
-world is not eternal, let the Blessed One declare to me that the world is not
-eternal. If the Blessed One does not know whether the world is eternal or not
-eternal, then, not knowing, not seeing, the honest thing for the Blessed One
+If the Buddha knows that the world is eternal, let the Buddha
+declare to me that the world is eternal. If the Buddha knows that the
+world is not eternal, let the Buddha declare to me that the world is not
+eternal. If the Buddha does not know whether the world is eternal or not
+eternal, then, not knowing, not seeing, the honest thing for the Buddha
 to say is: 'I do not know, I do not see.'
 
 [And so with each of the remaining points: whether the world is finite or
 infinite; whether the soul and the body are the same or different; and
 whether the Tathāgata exists after death, does not exist after death, both
 exists and does not exist after death, or neither exists nor does not exist
-after death — if the Blessed One knows, let him declare it; if he does not
+after death — if the Buddha knows, let him declare it; if he does not
 know, let him say so.]"
 
 ## Not Promised, Not Agreed
@@ -88,7 +87,7 @@ not exist after death, or neither exists nor does not exist after death'?"
 "No, Bhante."
 
 "Or did you say to me, 'Bhante, I will live the spiritual life under the
-Blessed One, and the Blessed One will declare to me that the world is
+Buddha, and the Buddha will declare to me that the world is
 eternal...' and so on through all ten points?"
 
 "No, Bhante."
@@ -97,7 +96,7 @@ eternal...' and so on through all ten points?"
 being broken?
 
 Mālukyaputta, if anyone were to say, 'I will not live the spiritual life under
-the Blessed One until the Blessed One declares to me that the world is
+the Buddha until the Buddha declares to me that the world is
 eternal' — that would still be undeclared by the Tathāgata, and meanwhile that
 person would die.
 
@@ -123,7 +122,7 @@ oleander thorn.'
 That man would die, Mālukyaputta, before he ever knew these things.
 
 In the same way, if anyone were to say, 'I will not live the spiritual life
-under the Blessed One until the Blessed One declares to me that the world is
+under the Buddha until the Buddha declares to me that the world is
 eternal, or that the world is not eternal, or that the world is finite, or
 infinite, or that the soul and the body are the same or different, or that the
 Tathāgata exists after death, does not exist after death, both exists and does
@@ -195,8 +194,8 @@ declared it.
 So, Mālukyaputta, understand as undeclared what I have left undeclared, and
 understand as declared what I have declared."
 
-That is what the Blessed One said. Venerable Mālukyaputta was satisfied and
-welcomed what the Blessed One had said.
+That is what the Buddha said. Venerable Mālukyaputta was satisfied and
+welcomed what the Buddha had said.
 
 ---
 

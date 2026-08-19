@@ -1,0 +1,96 @@
+{
+  "term": "bhagavā",
+  "normalized_term": "bhagava",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "fortunate one / one who has good fortune",
+  "preferred_translation": "the Buddha",
+  "alternative_translations": [
+    "the Fortunate One"
+  ],
+  "discouraged_translations": [
+    "the Exalted One",
+    "the Lord"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The standard narrative designation for the Buddha in the discourses, used constantly in framing and dialogue rather than in doctrinal argument.",
+  "notes": "The project renders bhagavā as the Buddha in running translation. This is a deliberate trade. The word is an epithet rather than a name, and the Fortunate One is closer to it literally, but bhagavā does almost all of its work as the ordinary way the texts refer to the Buddha while telling the story. In natural spoken English the ordinary way to refer to him is the Buddha, so that is what the running text uses, and the epithet force is recorded here rather than carried in every sentence. OSF house style fixes this rendering for translation surfaces through the plain-English standard. Dhammarato is the authority the project follows for contemporary tone and anti-mystification language, and that is the specific basis for stripping devotional epithet register out of running text. The Blessed One is discouraged because it imports exactly that devotional register and because it was a live source of drift: before this entry existed, sixteen translation surfaces used the Blessed One, twenty-one used the Buddha, and DN 2 used both in one document. Keep tathāgata untranslated and distinct; that title is doing technical work that the Buddha would flatten. Two contexts are exceptions and are recorded as context rules rather than banned: direct address, because English does not address anyone as the Buddha and the repository already uses Bhante for bhante, and the itipi so recollection formula, where bhagavā heads a list that names buddha separately and the Buddha would be redundant. Note a live inconsistency in the corpus that this entry does not fix: sugata is governed as Sugata, but MN 64 renders it Fortunate One and AN 3.65 renders it Well-Departed One, so a surface may already be using Fortunate One for a different word.",
+  "context_rules": [
+    {
+      "context": "In narrative framing and ordinary dialogue attribution",
+      "rendering": "the Buddha",
+      "notes": "Use this by default."
+    },
+    {
+      "context": "In vocative address, where a speaker is addressing the Buddha directly",
+      "rendering": "Blessed One",
+      "notes": "Use this as a controlled alternate. English does not address someone as 'the Buddha', and the repository already uses 'Bhante' for bhante, so collapsing the vocative would lose a distinction the source makes."
+    },
+    {
+      "context": "In the itipi so recollection formula, where bhagavā heads a list of epithets",
+      "rendering": "that Blessed One",
+      "notes": "Use this as a controlled alternate. 'That Buddha is the arahant, the fully awakened Buddha' is redundant, because the formula names buddha separately."
+    },
+    {
+      "context": "When a passage turns on the literal sense of the epithet rather than on reference or address",
+      "rendering": "the Fortunate One",
+      "notes": "Use this rarely and record the reason in the surface notes. Check first that the surface is not already using 'Fortunate One' for sugata, which is a known live inconsistency."
+    },
+    {
+      "context": "When the source uses tathāgata rather than bhagavā",
+      "rendering": "Tathāgata",
+      "notes": "Do not use this entry. Keep the titles distinct."
+    }
+  ],
+  "related_terms": [
+    "arahant",
+    "buddha",
+    "sugata",
+    "tathagata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "evaṁ me sutaṁ, ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati",
+      "translation": "So I heard. At one time the Buddha was staying near Sāvatthī.",
+      "notes": "Shows the standard narrative framing use, which is the overwhelming majority of occurrences.",
+      "source": "MN 1"
+    },
+    {
+      "pali": "bhagavā etadavoca",
+      "translation": "The Buddha said this:",
+      "notes": "Shows the stock dialogue-attribution line that recurs across every surface.",
+      "source": "SN 36.6"
+    }
+  ],
+  "sutta_references": [
+    "MN 1",
+    "SN 36.6",
+    "DN 2"
+  ],
+  "translation_policy": {
+    "default_scope": "Use the Buddha for bhagavā throughout running translation surfaces, including narrative framing, dialogue attribution, and reported speech.",
+    "when_not_to_apply": "Do not use this rendering where the source has tathāgata, buddho, or another title, and do not use it where the passage is about the meaning of the epithet rather than about who is being referred to.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the devotional register of the Blessed One from re-entering the corpus, and prevents the surface-by-surface inconsistency that existed before this entry governed the choice."
+  },
+  "tags": [
+    "core-doctrine",
+    "persons",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "OSF house style",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "The plain-English standard for translation surfaces records the Buddha as the governed rendering for bhagavā."
+    },
+    {
+      "source": "Dhammarato",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Named in the authority order as primary for contemporary tone and anti-mystification language, which is the basis for removing devotional epithet register from running text."
+    }
+  ]
+}

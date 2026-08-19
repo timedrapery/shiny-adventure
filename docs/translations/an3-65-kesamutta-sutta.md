@@ -27,20 +27,20 @@
 
 ### The Setting
 
-So I have heard. At one time the Blessed One was wandering in the land of the
+So I have heard. At one time the Buddha was wandering in the land of the
 Kosalans together with a large Saṅgha of bhikkhus when he arrived at a town of
 the Kālāmas called Kesamutta.
 
 The Kālāmas of Kesamutta heard: "The recluse Gotama — a Sakyan, gone forth
 from a Sakyan family — has arrived at Kesamutta. This good report has spread
-about that Blessed One: 'He is indeed the Blessed One, the arahant, perfectly
+about that Blessed One: 'He is indeed the Buddha, the arahant, perfectly
 and fully awakened...' It is good to see such arahants."
 
-The Kālāmas of Kesamutta went to the Blessed One. Some bowed and sat to one
+The Kālāmas of Kesamutta went to the Buddha. Some bowed and sat to one
 side; some exchanged friendly greetings and polite conversation and sat to one
-side; some raised cupped palms toward the Blessed One and sat to one side; some
+side; some raised cupped palms toward the Buddha and sat to one side; some
 announced their name and clan and sat to one side; some sat to one side in
-silence. Seated to one side, the Kālāmas of Kesamutta said to the Blessed One:
+silence. Seated to one side, the Kālāmas of Kesamutta said to the Buddha:
 
 ### The Kālāmas' Uncertainty
 
@@ -267,8 +267,8 @@ life.
 
 ### Going for Refuge
 
-Excellent, Bhante! Excellent! ... We, Bhante, go to the Blessed One for
-refuge, and to the Dhamma and the Bhikkhu Saṅgha. May the Blessed One receive
+Excellent, Bhante! Excellent! ... We, Bhante, go to the Buddha for
+refuge, and to the Dhamma and the Bhikkhu Saṅgha. May the Buddha receive
 us as lay followers who have gone for refuge from this day forward for as long
 as life lasts."
 

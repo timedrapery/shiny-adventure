@@ -25,10 +25,10 @@
 
 ### The Setting
 
-At one time the Blessed One was staying at Ñātika, in the brick house.
+At one time the Buddha was staying at Ñātika, in the brick house.
 
-Then Venerable Saddha went to the Blessed One, bowed, and sat to one side.
-The Blessed One said this to Venerable Saddha sitting to one side:
+Then Venerable Saddha went to the Buddha, bowed, and sat to one side.
+The Buddha said this to Venerable Saddha sitting to one side:
 
 ### The Wild Colt's Way
 
@@ -134,7 +134,7 @@ on what your thinking stands.'
 
 ### Saddha's Question
 
-When this was said, Venerable Saddha asked the Blessed One: "But Bhante, how
+When this was said, Venerable Saddha asked the Buddha: "But Bhante, how
 does a fine thoroughbred person not hold earth as theme, water as theme, fire
 as theme, or air as theme; not hold the base of infinite space as theme, the
 base of infinite consciousness as theme, the base of nothingness as theme, or

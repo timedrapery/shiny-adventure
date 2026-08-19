@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 238
+- Entries: 239
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -59,6 +59,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | --- | --- | --- | --- | --- |
 | [bahiddha](../../terms/major/bahiddha.json) | bahiddha | external | reviewed | core-practice, sense-fields, context-sensitive |
 | [bala](../../terms/major/bala.json) | bala | strength | reviewed | core-practice, mental-qualities |
+| [bhagava](../../terms/major/bhagava.json) | bhagavā | the Buddha | reviewed | core-doctrine, persons, translation-sensitive |
 | [bhava-tanha](../../terms/major/bhava-tanha.json) | bhavataṇhā | ignorant wanting for becoming | reviewed | core-doctrine, four-noble-truths |
 | [bhava](../../terms/major/bhava.json) | bhava | becoming | stable | core-doctrine, dependent-origination, four-noble-truths |
 | [bhavana](../../terms/major/bhavana.json) | bhāvanā | development | stable | core-practice, meditative-development |

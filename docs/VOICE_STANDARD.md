@@ -5,10 +5,19 @@
 This document defines the repository's default sentence patterns for notes,
 context rules, example notes, and contributor-facing prose.
 
+It does **not** govern the translated text of a sutta. That is the job of
+[PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md), and the two standards
+deliberately differ: this document tells you to avoid casual or chatty wording,
+because editorial prose should read like a careful translator explaining a
+decision. A translation surface has the opposite target, because a sutta should
+sound like someone talking. Do not apply this document's voice rules to a
+translation.
+
 Use it with:
 
 - [../STYLE_GUIDE.md](../STYLE_GUIDE.md)
 - [MODERN_ENGLISH_POLICY.md](MODERN_ENGLISH_POLICY.md)
+- [PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md)
 - [term-entry-standard.md](term-entry-standard.md)
 
 ## Core Voice

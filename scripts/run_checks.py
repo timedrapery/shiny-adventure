@@ -22,6 +22,9 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Generated docs freshness", [sys.executable, "scripts/check_generated_docs.py"]),
     ("Translation formula consistency", [sys.executable, "scripts/check_translation_formula_consistency.py"]),
     ("Voice consistency audit", [sys.executable, "scripts/voice_consistency_audit.py"]),
+    # Advisory, not a gate. Several register signals have legitimate exceptions
+    # recorded as context_rules, so this reports without --strict.
+    ("Plain English audit", [sys.executable, "scripts/plain_english_audit.py", "--top", "5"]),
     ("Schema validation", [sys.executable, "scripts/validate_terms.py", "--strict"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),

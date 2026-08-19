@@ -31,17 +31,22 @@ class SensoryResponsePolicyTests(unittest.TestCase):
         )
 
     def test_mn148_response_lines_remain_stable(self) -> None:
+        # Revised 2026-08-19 under docs/PLAIN_ENGLISH_STANDARD.md. These lines
+        # previously pinned the generic `one`, which meant the lexicon was
+        # enforcing the translationese rather than preventing it. The governed
+        # triad `gratification, danger, and escape as they have come to be` is
+        # deliberately unchanged; only the generic person was fixed.
         self.assertEqual(
             load_term("terms/minor/mn148-pleasant-feeling-trained-response.json")["preferred_translation"],
-            "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally",
+            "when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally",
         )
         self.assertEqual(
             load_term("terms/minor/mn148-painful-feeling-untrained-response.json")["preferred_translation"],
-            "when one is touched by painful feeling, one sorrows, grows worn down, laments, beats one's chest and cries, and falls into confusion",
+            "when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings",
         )
         self.assertEqual(
             load_term("terms/minor/mn148-mixed-feeling-undiscerned-response.json")["preferred_translation"],
-            "when one is touched by mixed feeling, one does not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+            "when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
         )
 
     def test_live_sensory_response_surface_has_no_errors(self) -> None:

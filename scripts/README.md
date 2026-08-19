@@ -59,6 +59,8 @@ generating script first.
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/modern_english_audit.py`
   Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
+- `python scripts/plain_english_audit.py`
+  Reports spoken-English register signals in translation surfaces and reader pages, with guidance per signal. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
 - `python scripts/voice_consistency_audit.py`
   Reports mixed note templates, fragmentary example-note phrasing, and other voice-pattern drift in the live repo surface.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`

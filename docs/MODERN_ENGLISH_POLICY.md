@@ -17,6 +17,23 @@ That preference is not cosmetic. It affects:
 
 The goal is maximum doctrinal precision with maximum present-day readability.
 
+## Scope
+
+This document governs word choice inside term records. The running English of
+a translation surface is governed by
+[PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md).
+
+The two are related but not the same job. This document asks whether a
+rendering is the right modern word. That one asks whether a whole sentence is
+something a person would say out loud. A record can pass this document and
+still produce a sentence that fails that one, which is what happened to the
+sensory-response control lines: their `preferred_translation` values were
+modern in vocabulary but written with the generic `one`, so the lexicon was
+enforcing translationese at the phrase level. They were revised on 2026-08-19.
+
+When a governed rendering cannot be made to work in natural English, fix the
+record. Do not work around it in a single surface.
+
 ## Core Rule
 
 Do not use elevated legacy Buddhist-English diction as a mark of seriousness.

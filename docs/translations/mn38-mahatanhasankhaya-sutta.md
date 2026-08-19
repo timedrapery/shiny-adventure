@@ -34,63 +34,61 @@
 
 ### The Setting
 
-At one time the Blessed One was staying near Sāvatthī in Jeta's Grove,
+At one time the Buddha was staying near Sāvatthī in Jeta's Grove,
 Anāthapiṇḍika's monastery.
 
 ### Sāti's Wrong View
 
 Now at that time a bhikkhu called Sāti, the fisherman's son, had developed the
-following pernicious view: "As I understand the teaching taught by the Blessed
-One, it is this very knowing that roams and transmigrates, not another."
+following pernicious view: "As I understand the teaching taught by the Buddha, it is this very knowing that roams and transmigrates, not another."
 
 Several bhikkhus heard this rumour. They went to the bhikkhu Sāti and said:
 "Is it really true, Reverend Sāti, that you hold this pernicious view: 'As I
-understand the teaching taught by the Blessed One, it is this very knowing that
+understand the teaching taught by the Buddha, it is this very knowing that
 roams and transmigrates, not another'?"
 
 "It is exactly so, reverends. As I understand the teaching taught by the
-Blessed One, it is this very knowing that roams and transmigrates, not
+Buddha, it is this very knowing that roams and transmigrates, not
 another."
 
 Then, wishing to dissuade the bhikkhu Sāti from this pernicious view, those
 bhikkhus pressed him, challenged him, and argued with him: "Do not say that,
-Reverend Sāti. Do not misrepresent the Blessed One — misrepresenting the
-Blessed One is not good, and the Blessed One would not say that. In many ways,
-Reverend Sāti, the Blessed One has said that knowing is dependently arisen.
+Reverend Sāti. Do not misrepresent the Buddha — misrepresenting the
+Buddha is not good, and the Buddha would not say that. In many ways,
+Reverend Sāti, the Buddha has said that knowing is dependently arisen.
 Without a condition there is no arising of knowing."
 
 But even when pressed, challenged, and argued with in this way, the bhikkhu
 Sāti held to that pernicious view stubbornly, insisting on it: "It is exactly
-so, reverends. As I understand the teaching taught by the Blessed One, it is
+so, reverends. As I understand the teaching taught by the Buddha, it is
 this very knowing that roams and transmigrates, not another."
 
 When those bhikkhus were unable to dissuade the bhikkhu Sāti from that
-pernicious view, they went to the Blessed One, bowed, sat to one side, and
+pernicious view, they went to the Buddha, bowed, sat to one side, and
 told him what had happened: "Bhante, a bhikkhu called Sāti, the fisherman's
 son, has developed this pernicious view: 'As I understand the teaching taught
-by the Blessed One, it is this very knowing that roams and transmigrates, not
+by the Buddha, it is this very knowing that roams and transmigrates, not
 another.' We went to him and said: 'Do not say that, Reverend Sāti. Do not
-misrepresent the Blessed One — misrepresenting the Blessed One is not good,
-and the Blessed One would not say that. In many ways, Reverend Sāti, the
-Blessed One has said that knowing is dependently arisen. Without a condition
+misrepresent the Buddha — misrepresenting the Buddha is not good,
+and the Buddha would not say that. In many ways, Reverend Sāti, the
+Buddha has said that knowing is dependently arisen. Without a condition
 there is no arising of knowing.' But even when pressed in this way, Reverend
 Sāti held to that pernicious view stubbornly, insisting on it. Since we were
-unable to dissuade him, we are reporting this matter to the Blessed One."
+unable to dissuade him, we are reporting this matter to the Buddha."
 
-Then the Blessed One addressed a certain bhikkhu: "Come, bhikkhu. In my name,
+Then the Buddha addressed a certain bhikkhu: "Come, bhikkhu. In my name,
 tell the bhikkhu Sāti that the teacher summons him."
 
 "Yes, Bhante," that bhikkhu replied. He went to the bhikkhu Sāti and said:
 "Reverend Sāti, the teacher summons you."
 
-"Yes, reverend," the bhikkhu Sāti replied. He went to the Blessed One, bowed,
-and sat to one side. The Blessed One said to him: "Is it really true, Sāti,
+"Yes, reverend," the bhikkhu Sāti replied. He went to the Buddha, bowed,
+and sat to one side. The Buddha said to him: "Is it really true, Sāti,
 that you hold this pernicious view: 'As I understand the teaching taught by the
-Blessed One, it is this very knowing that roams and transmigrates, not
+Buddha, it is this very knowing that roams and transmigrates, not
 another'?"
 
-"It is exactly so, Bhante. As I understand the teaching taught by the Blessed
-One, it is this very knowing that roams and transmigrates, not another."
+"It is exactly so, Bhante. As I understand the teaching taught by the Buddha, it is this very knowing that roams and transmigrates, not another."
 
 "What knowing, Sāti?"
 
@@ -103,7 +101,7 @@ Without a condition there is no arising of knowing. But you, misguided man, by
 your wrong grasp, misrepresent me, harm yourself, and accumulate much
 demerit. That will be for your long-lasting harm and suffering."
 
-Then the Blessed One said to the bhikkhus: "What do you think, bhikkhus? Has
+Then the Buddha said to the bhikkhus: "What do you think, bhikkhus? Has
 this bhikkhu Sāti kindled even a spark of warmth in this teaching and
 training?"
 
@@ -112,16 +110,16 @@ training?"
 When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
-Knowing this, the Blessed One said to him: "Misguided man, you will be known
+Knowing this, the Buddha said to him: "Misguided man, you will be known
 by your own pernicious view. I shall now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 
-Then the Blessed One said to the bhikkhus: "Bhikkhus, do you understand my
+Then the Buddha said to the bhikkhus: "Bhikkhus, do you understand my
 teaching as this bhikkhu Sāti does — when he misrepresents me by his wrong
 grasp, harms himself, and accumulates much demerit?"
 
-"No, Bhante. In many ways the Blessed One has told us that knowing is
+"No, Bhante. In many ways the Buddha has told us that knowing is
 dependently arisen. Without a condition there is no arising of knowing."
 
 "Good, good, bhikkhus! It is good that you understand my teaching in this way.
@@ -743,7 +741,7 @@ Bhikkhus, hold this brief statement on freedom through the ending of ignorant
 wanting. But the bhikkhu Sāti, the fisherman's son, is caught up in a vast net
 of ignorant wanting, entangled in a tangle of ignorant wanting."
 
-That is what the Blessed One said. Satisfied, those bhikkhus approved of the
-Blessed One's words.
+That is what the Buddha said. Satisfied, those bhikkhus approved of the
+Buddha's words.
 
 The eighth discourse is finished.

@@ -16,16 +16,16 @@ This sheet summarizes the current governed control lines for the linked MN 137 /
 | `nekkhammasita-upekkha` | dynamic balance tied to renunciation | MN 137 |
 | `mn137-supported-by-this-give-up-that` | here, supported by this, give up that | MN 137 |
 | `mn137-three-establishments-of-sati` | three establishments of sati | MN 137 |
-| `sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati` | when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally | MN 148 |
-| `mn148-pleasant-feeling-trained-response` | when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally | MN 148 |
-| `mn148-painful-feeling-untrained-response` | when one is touched by painful feeling, one sorrows, grows worn down, laments, beats one's chest and cries, and falls into confusion | MN 148, SN 36.6 |
-| `mn148-painful-feeling-trained-response` | when one is touched by painful feeling, one does not sorrow, does not grow worn down, does not lament, does not beat one's chest and cry, and does not fall into confusion | MN 148, SN 36.6 |
-| `mn148-mixed-feeling-undiscerned-response` | when one is touched by mixed feeling, one does not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
-| `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati` | one discerns that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
-| `sn36-6-two-feelings-painful-feeling` | one feels two feelings: bodily and mental | SN 36.6 |
-| `sn36-6-one-feeling-painful-feeling` | one feels one feeling: bodily, not mental | SN 36.6 |
-| `sn36-6-feelings-undiscerned-response` | one does not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
-| `sn36-6-feelings-discerned-response` | one discerns those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
+| `sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati` | when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally | MN 148 |
+| `mn148-pleasant-feeling-trained-response` | when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally | MN 148 |
+| `mn148-painful-feeling-untrained-response` | when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings | MN 148, SN 36.6 |
+| `mn148-painful-feeling-trained-response` | when painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings | MN 148, SN 36.6 |
+| `mn148-mixed-feeling-undiscerned-response` | when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
+| `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati` | they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
+| `sn36-6-two-feelings-painful-feeling` | they feel two feelings: one in the body, and one in the mind | SN 36.6 |
+| `sn36-6-one-feeling-painful-feeling` | they feel one feeling: the one in the body, not the one in the mind | SN 36.6 |
+| `sn36-6-feelings-undiscerned-response` | they do not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
+| `sn36-6-feelings-discerned-response` | they discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
 
 ## Supporting Terms
 

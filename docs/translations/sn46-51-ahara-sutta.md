@@ -34,7 +34,7 @@ the seven awakening factors. Listen and attend well. I will speak."
 
 "Yes, Bhante," the bhikkhus replied.
 
-The Blessed One said this:
+The Buddha said this:
 
 ### What Feeds The Distractions
 

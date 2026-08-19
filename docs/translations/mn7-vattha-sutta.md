@@ -26,16 +26,16 @@
 
 So I have heard.
 
-At one time the Blessed One was staying at Sāvatthī, in Jeta's Grove,
+At one time the Buddha was staying at Sāvatthī, in Jeta's Grove,
 Anāthapiṇḍika's monastery.
 
-There the Blessed One addressed the bhikkhus:
+There the Buddha addressed the bhikkhus:
 
 "Bhikkhus."
 
 "Bhante," those bhikkhus replied.
 
-The Blessed One said this:
+The Buddha said this:
 
 ### The Cloth Simile
 
@@ -141,12 +141,12 @@ fit for training, teacher of gods and humans, awakened, blessed.'
 
 "One is equipped with verified confidence in the Dhamma:
 
-'The Dhamma is well taught by the Blessed One, visible here and now,
+'The Dhamma is well taught by the Buddha, visible here and now,
 timeless, come and see, leading onward, to be known personally by the wise.'
 
 "One is equipped with verified confidence in the Saṅgha:
 
-'The Blessed One's Saṅgha of disciples is practicing well, practicing
+'The Buddha's Saṅgha of disciples is practicing well, practicing
 straight, practicing the proper way, and practicing rightly; that is, the four
 pairs of persons, the eight kinds of individuals. This Blessed One's Saṅgha
 of disciples is worthy of offerings, hospitality, gifts, and reverential
@@ -253,9 +253,9 @@ has been done, there is no more of this state of being.'
 ### Sundarika Bhāradvāja
 
 At that time the brahmin Sundarika Bhāradvāja was sitting not far from the
-Blessed One.
+Buddha.
 
-Then he said to the Blessed One:
+Then he said to the Buddha:
 
 "Does Master Gotama go to the Bāhuka River to bathe?"
 
@@ -265,7 +265,7 @@ Then he said to the Blessed One:
 people regard the Bāhuka River as merit. And many people wash away the evil
 kamma they have done in the Bāhuka River."
 
-Then the Blessed One addressed the brahmin Sundarika Bhāradvāja in verses:
+Then the Buddha addressed the brahmin Sundarika Bhāradvāja in verses:
 
 "Bāhuka and Adhikakka,
 Gayā, Sundarikā too,
@@ -298,8 +298,7 @@ Even a well is Gayā for you."
 
 ### Bhāradvāja Goes Forth
 
-When this had been said, the brahmin Sundarika Bhāradvāja said to the Blessed
-One:
+When this had been said, the brahmin Sundarika Bhāradvāja said to the Buddha:
 
 "Excellent, Master Gotama! Excellent, Master Gotama!
 
@@ -314,8 +313,7 @@ bhikkhus.
 May I receive the going forth in Master Gotama's presence. May I receive full
 ordination."
 
-The brahmin Sundarika Bhāradvāja received the going forth in the Blessed
-One's presence, and he received full ordination.
+The brahmin Sundarika Bhāradvāja received the going forth in the Buddha's presence, and he received full ordination.
 
 Soon after his full ordination, Venerable Bhāradvāja, dwelling alone,
 secluded, heedful, ardent, and resolute, soon personally realized with direct

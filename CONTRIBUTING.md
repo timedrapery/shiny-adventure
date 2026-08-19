@@ -7,6 +7,8 @@ For the repo's explicit anti-translationese register rules, also read
 [docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md).
 For the repository's note, context-rule, and example-note sentence patterns,
 also read [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md).
+If you are editing the translated text of a sutta rather than a term record,
+read [docs/PLAIN_ENGLISH_STANDARD.md](docs/PLAIN_ENGLISH_STANDARD.md).
 
 By participating in this project, you agree to follow [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md).
 
@@ -25,6 +27,7 @@ Read these documents in order:
 5. [STYLE_GUIDE.md](STYLE_GUIDE.md)
 6. [docs/MODERN_ENGLISH_POLICY.md](docs/MODERN_ENGLISH_POLICY.md)
 7. [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md)
+8. [docs/PLAIN_ENGLISH_STANDARD.md](docs/PLAIN_ENGLISH_STANDARD.md)
 8. [docs/osf-editorial-authority.md](docs/osf-editorial-authority.md)
 9. [docs/data-dictionary.md](docs/data-dictionary.md)
 10. [docs/term-entry-standard.md](docs/term-entry-standard.md)

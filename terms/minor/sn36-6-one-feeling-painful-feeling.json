@@ -3,13 +3,13 @@
   "normalized_term": "sn36-6-one-feeling-painful-feeling",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "one feels one feeling: bodily, not mental",
+  "preferred_translation": "they feel one feeling: the one in the body, not the one in the mind",
   "definition": "SN 36.6's trained painful-feeling line for bodily feeling without added mental reaction.",
   "notes": "Use this record for the one-feeling contrast in SN 36.6. Keep the negated mental side explicit so the one-arrow simile remains a practical contrast with reactive doubling.",
   "example_phrases": [
     {
       "pali": "so ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ",
-      "translation": "one feels one feeling: bodily, not mental",
+      "translation": "they feel one feeling: the one in the body, not the one in the mind",
       "notes": "Trained painful-feeling contrast in SN 36.6.",
       "source": "SN 36.6"
     }

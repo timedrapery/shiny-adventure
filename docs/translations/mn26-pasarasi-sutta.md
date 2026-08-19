@@ -39,52 +39,51 @@
 
 ### The Setting
 
-At one time the Blessed One was staying near Sāvatthī in Jeta's Grove,
+At one time the Buddha was staying near Sāvatthī in Jeta's Grove,
 Anāthapiṇḍika's monastery.
 
-Then the Blessed One robed up in the morning and, taking bowl and robe, set
+Then the Buddha robed up in the morning and, taking bowl and robe, set
 out for Sāvatthī on alms-round. Several bhikkhus went to Venerable Ānanda and
 said: "Reverend Ānanda, it has been a long time since we heard a teaching-talk
-face to face with the Blessed One. It would be good if we could hear one."
+face to face with the Buddha. It would be good if we could hear one."
 
 "Then, reverends, go to the brahmin Rammaka's hermitage. Perhaps you will get
-to hear a teaching-talk face to face with the Blessed One."
+to hear a teaching-talk face to face with the Buddha."
 
 "Yes, reverend," they replied.
 
-Then, after the meal, returning from alms-round, the Blessed One addressed
+Then, after the meal, returning from alms-round, the Buddha addressed
 Venerable Ānanda: "Come, Ānanda, let us go to the Eastern Monastery, the
 stilt-longhouse of Migāra's mother, for the day's dwelling."
 
 "Yes, Bhante," Ānanda replied.
 
-So the Blessed One went with Ānanda to the stilt-longhouse of Migāra's mother
-for the day's dwelling. In the late afternoon, the Blessed One came out of
+So the Buddha went with Ānanda to the stilt-longhouse of Migāra's mother
+for the day's dwelling. In the late afternoon, the Buddha came out of
 seclusion and addressed Ānanda: "Come, Ānanda, let us go to the eastern gate
 to bathe."
 
 "Yes, Bhante," Ānanda replied.
 
-So the Blessed One went with Ānanda to the eastern gate to bathe. Having
+So the Buddha went with Ānanda to the eastern gate to bathe. Having
 bathed and emerged from the water, he stood in a single robe, drying his
 limbs. Then Venerable Ānanda said: "Bhante, the brahmin Rammaka's hermitage
-is nearby. It is delightful, beautiful. Bhante, may the Blessed One visit it
+is nearby. It is delightful, beautiful. Bhante, may the Buddha visit it
 out of compassion."
 
-The Blessed One consented with silence.
+The Buddha consented with silence.
 
 ### The Two Searches
 
 He went to the brahmin Rammaka's hermitage. At that time several bhikkhus were
-sitting together there talking about the Dhamma. The Blessed One stood outside
+sitting together there talking about the Dhamma. The Buddha stood outside
 the door waiting for the talk to end. When he knew it had ended, he cleared his
-throat and knocked on the door-panel. The bhikkhus opened the door. The Blessed
-One entered, sat down on the seat spread out, and addressed the bhikkhus:
+throat and knocked on the door-panel. The bhikkhus opened the door. The Buddha entered, sat down on the seat spread out, and addressed the bhikkhus:
 "Bhikkhus, what were you sitting talking about just now? What conversation was
 left unfinished?"
 
-"Bhante, a teaching-talk about the Blessed One himself was left unfinished when
-the Blessed One arrived."
+"Bhante, a teaching-talk about the Buddha himself was left unfinished when
+the Buddha arrived."
 
 "Good, bhikkhus! This is fitting for gentlemen who have gone forth from home
 into homelessness out of confidence — that you would sit together talking about
@@ -356,7 +355,7 @@ toward teaching the Dhamma.'
 Then, as quickly as a strong person might extend a bent arm or bend an
 extended arm, Brahmā Sahampati vanished from the Brahmā-world and appeared
 before me. He arranged his robe over one shoulder, raised his cupped hands
-toward me, and said: "Bhante, let the Blessed One teach the Dhamma! Let the
+toward me, and said: "Bhante, let the Buddha teach the Dhamma! Let the
 Well-Departed One teach the Dhamma! There are beings with little dust in their
 eyes who are declining for lack of hearing the Dhamma. There will be those who
 understand the Dhamma!"
@@ -377,7 +376,7 @@ That is what Brahmā Sahampati said. Then he said further:
 >  
 > Rise, hero! Victor in battle,  
 > caravan-leader, free of debt, wander the world.  
-> Let the Blessed One teach the Dhamma —  
+> Let the Buddha teach the Dhamma —  
 > there will be those who understand!
 
 ### The Lotus Simile
@@ -677,7 +676,7 @@ a trace, and to have gone where the Wicked One cannot see. They have crossed
 over the world's entanglement. They walk, stand, sit, and lie down in
 confidence. Why? Because they are beyond the Wicked One's range."
 
-That is what the Blessed One said. Satisfied, those bhikkhus approved of the
-Blessed One's words.
+That is what the Buddha said. Satisfied, those bhikkhus approved of the
+Buddha's words.
 
 The sixth discourse is finished.
