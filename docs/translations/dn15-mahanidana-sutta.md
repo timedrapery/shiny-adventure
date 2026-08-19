@@ -795,8 +795,8 @@ This is the eighth release.
 These are the eight releases.
 
 "When, Ānanda, a bhikkhu enters these eight releases forward, enters them in
-reverse, enters them forward and reverse, and, wherever one wishes, however one
-wishes, and as long as one wishes, enters them and emerges from them;
+reverse, enters them forward and reverse, and, wherever they wish, however they
+wish, and as long as they wish, enters them and emerges from them;
 
 and when, through the wearing away of the outflows, one personally realizes the
 outflow-free release of mind and release through discernment in this very life,

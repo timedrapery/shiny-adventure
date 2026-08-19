@@ -117,6 +117,13 @@ volume.
 - Likely lexicon pressure: keep `kamma` from drifting into generic
   consequence-language; and confirm how `cetana` reads when it is defining
   kamma rather than sitting in the dependent-arising chain.
+- Status: translated. See
+  [AN 6.63](translations/an6-63-nibbedhika-sutta.md) and its
+  [translation notes](translations/an6-63-nibbedhika-sutta-notes.md).
+  Correction to the leverage signal above: this discourse does not anchor
+  `phala` or `papa`. It uses `vipaka` throughout and never `phala`, and
+  contains no `pap` at all. That claim came from a mis-sourced citation, since
+  repaired. It genuinely anchors `kamma` and `cetana`.
 
 ### 4. SN 12.61
 
