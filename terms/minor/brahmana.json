@@ -7,6 +7,10 @@
   "definition": "A brahmin by birth, role, or idealized conduct depending on context.",
   "status": "reviewed",
   "literal_meaning": "brahmin",
+  "related_terms": [
+    "panca-brahmana-dhamma",
+    "samana"
+  ],
   "tags": [
     "persons"
   ]

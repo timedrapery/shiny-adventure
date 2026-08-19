@@ -38,5 +38,11 @@
     "formula",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use the fixed seven-term rendering wherever this exact formula recurs, in both its positive and negative forms.",
+    "when_not_to_apply": "Use a recorded context override instead of rotating the seven terms ad hoc; do not re-solve individual terms locally when they already appear together as this formula.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the seven-term chain from being paraphrased inconsistently across surfaces that reuse it, and keeps its two linked governing headwords (nibbida, viraga, nirodha, upasama, abhinna, sambodha, nibbana) audible as one sequence rather than a generic ending phrase."
+  }
 }
