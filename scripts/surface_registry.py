@@ -290,3 +290,337 @@ def generated_surface_groups() -> tuple[ClusterSurface, ...]:
     """Return the CI-enforced generated doc groups backed by report scripts."""
 
     return CLUSTER_SURFACES
+
+
+@dataclass(frozen=True)
+class ReaderMeta:
+    """Reader-facing metadata for one governed translation surface.
+
+    This lives beside TRANSLATION_SURFACES rather than in a second registry, so
+    there is exactly one place that knows the corpus. The reader generator in
+    `scripts/generate_reader.py` derives page titles, the newcomer reading
+    path, the All Suttas index, and the site navigation from these fields.
+
+    reader_title  A plain-English title for readers, or None to fall back to
+                  the Pali title. Only texts with a hand-written "About this
+                  text" introduction normally get one.
+    pali_title    The Pali name, without the collection reference.
+    stage         Which stage of the newcomer reading path the text sits in.
+    order         Position within that stage.
+    path_note     The one-line editorial note shown on the Start Here page.
+                  This is reader-facing editorial content, not a summary
+                  generated from the translation.
+    """
+
+    pali_title: str
+    stage: int
+    order: int
+    path_note: str
+    reader_title: str | None = None
+
+
+STAGES: tuple[tuple[int, str, str], ...] = (
+    (
+        1,
+        "Before Any Doctrine",
+        "Texts that set the tone before anything technical shows up: why to "
+        "trust this material at all, why some questions get deliberately left "
+        "unanswered, and who was actually asking these questions.",
+    ),
+    (
+        2,
+        "The Basic Diagnosis and the Path",
+        "The core claim and the practical response to it, kept concrete.",
+    ),
+    (
+        3,
+        "Learning to Look at Your Own Mind",
+        "Practical method. This is where the material stops being about ideas "
+        "and starts being about what you actually do.",
+    ),
+    (
+        4,
+        "Not-Self and Dependent Arising",
+        "The harder doctrinal core. Everything here assumes the practical "
+        "vocabulary from the earlier stages, and tests it against the two "
+        "hardest ideas in the material.",
+    ),
+    (
+        5,
+        "Advanced and Reference Texts",
+        "Technical material that rewards already knowing the vocabulary cold. "
+        "These are texts people return to rather than read straight through.",
+    ),
+)
+
+# The five texts that give the whole shape of the teaching in under a thousand
+# words. Keys index into TRANSLATION_SURFACES.
+ESSENTIAL_FIVE: tuple[str, ...] = (
+    "an3_65", "sn56_11", "sn36_6", "mn63", "sn22_59",
+)
+
+READER_METADATA: dict[str, ReaderMeta] = {
+    # Stage 1 -- Before Any Doctrine
+    "an3_65": ReaderMeta(
+        "Kesamutta Sutta", 1, 1,
+        "\"Don't take my word for it, or anyone else's.\" The most naturally "
+        "modern-feeling starting point: an explicit instruction to test claims "
+        "against your own experience rather than accept them on authority.",
+        reader_title="Test It Yourself",
+    ),
+    "mn63": ReaderMeta(
+        "Cūḷamālukya Sutta", 1, 2,
+        "Why the teaching refuses to answer certain metaphysical questions. "
+        "Directly answers the objection a skeptical reader will already be "
+        "forming after the first text.",
+        reader_title="The Man Struck by a Poisoned Arrow",
+    ),
+    "mn26": ReaderMeta(
+        "Pāsarāsi Sutta", 1, 3,
+        "The Buddha's own account of leaving home, studying under two teachers, "
+        "and finding them insufficient. A narrative, not a doctrine — a human "
+        "anchor before the vocabulary gets technical.",
+        reader_title="The Two Searches",
+    ),
+    # Stage 2 -- The Basic Diagnosis and the Path
+    "sn56_11": ReaderMeta(
+        "Dhammacakkappavattana Sutta", 2, 1,
+        "The first sermon: the four noble truths and the eightfold path stated "
+        "directly. Foundational, but reads better once Stage 1 has set the "
+        "frame — taken cold, its formulaic structure can feel like a list to "
+        "memorize rather than a diagnosis to recognize.",
+        reader_title="The First Teaching",
+    ),
+    "sn36_6": ReaderMeta(
+        "Salla Sutta", 2, 2,
+        "The one-arrow/two-arrows teaching: physical pain versus the added "
+        "mental suffering piled on top of it. Concrete, bodily, and "
+        "immediately recognizable.",
+        reader_title="One Arrow, Not Two",
+    ),
+    "mn7": ReaderMeta(
+        "Vattha Sutta", 2, 3,
+        "A mind is like cloth: dye it while it is dirty and the colour comes "
+        "out wrong. Ethics introduced through a simile instead of a rule list.",
+        reader_title="The Dirty Cloth",
+    ),
+    "an4_113": ReaderMeta(
+        "Patoda Sutta", 2, 4,
+        "Four kinds of horses, four kinds of people, and what it actually takes "
+        "to be moved to practice. A jolt of urgency after three fairly calm "
+        "texts.",
+        reader_title="Four Horses",
+    ),
+    "sn55_5": ReaderMeta(
+        "Dutiyasāriputta Sutta", 2, 5,
+        "What actually leads to the path, in four steps that are ordinary "
+        "enough to follow: find good company, hear the teaching, attend to it "
+        "carefully, then practise in line with it. The first item is social, "
+        "not inward.",
+    ),
+    "an11_9": ReaderMeta(
+        "Saddha Sutta", 2, 6,
+        "A wild colt tied to its trough can think of nothing but \"Fodder, "
+        "fodder!\" The contrast with a trained horse becomes a contrast between "
+        "two ways of sitting down to meditate.",
+        reader_title="Think Like a Thoroughbred",
+    ),
+    # Stage 3 -- Learning to Look at Your Own Mind
+    "mn19": ReaderMeta(
+        "Dvedhāvitakka Sutta", 3, 1,
+        "Sorting thoughts into two bins and learning what to do with each. The "
+        "simplest possible entry point into mind-training.",
+        reader_title="Two Kinds of Thinking",
+    ),
+    "mn2": ReaderMeta(
+        "Sabbāsava Sutta", 3, 2,
+        "Seven concrete methods for handling what erodes the mind: restraint, "
+        "use, endurance, avoidance, removal, development. A toolkit, not a "
+        "theory.",
+    ),
+    "mn118": ReaderMeta(
+        "Ānāpānasati Sutta", 3, 3,
+        "Structured breath-meditation instructions. The first text on this "
+        "list that is a practice manual rather than a teaching about practice.",
+    ),
+    "mn10": ReaderMeta(
+        "Satipaṭṭhāna Sutta", 3, 4,
+        "The four foundations of remembering, and the longest, densest text so "
+        "far. Not really a one-sitting read: it is the reference manual for "
+        "the pieces above, worth returning to rather than finishing.",
+    ),
+    "dn2": ReaderMeta(
+        "Sāmaññaphala Sutta", 3, 5,
+        "A king asks what a renunciant actually gets out of the life. A full "
+        "narrative walk through the gradual path from an outsider's curious, "
+        "slightly skeptical point of view.",
+    ),
+    "an10_60": ReaderMeta(
+        "Girimānanda Sutta", 3, 6,
+        "Ten perceptions taught to a sick monk. Practical and, unusually for "
+        "this stage, comforting.",
+    ),
+    "mn39": ReaderMeta(
+        "Mahā-Assapura Sutta", 3, 7,
+        "What actually makes someone a genuine renunciant, as opposed to "
+        "someone who merely looks like one. Ethics and practice fused.",
+    ),
+    "sn46_51": ReaderMeta(
+        "Āhāra Sutta", 3, 8,
+        "What feeds the distractions that block practice, and what starves "
+        "them. A closing, practical text for this stage.",
+    ),
+    # Stage 4 -- Not-Self and Dependent Arising
+    "sn22_59": ReaderMeta(
+        "Anattalakkhaṇa Sutta", 4, 1,
+        "The second sermon. Not-self laid out as a clean, followable argument "
+        "rather than an assertion.",
+        reader_title="Nothing Here Is You",
+    ),
+    "mn22": ReaderMeta(
+        "Alagaddūpama Sutta", 4, 2,
+        "The snake simile and the raft simile carry genuinely difficult "
+        "not-self doctrine on strong enough imagery that it stays followable.",
+    ),
+    "sn22_48": ReaderMeta(
+        "Khandha Sutta", 4, 3,
+        "What the five heaps actually are, stated directly.",
+    ),
+    "sn22_89": ReaderMeta(
+        "Khemaka Sutta", 4, 4,
+        "A subtler point: even someone who has genuinely seen not-self can "
+        "still carry a faint, hard-to-locate sense of \"I am.\"",
+    ),
+    "mn148": ReaderMeta(
+        "Chachakka Sutta", 4, 5,
+        "A systematic, almost mechanical working-through of not-self across "
+        "every sense door. Dense, but by this point the pattern should be "
+        "familiar.",
+    ),
+    "sn12_15": ReaderMeta(
+        "Kaccānagotta Sutta", 4, 6,
+        "One page, defining right view as the middle between \"it exists\" and "
+        "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
+    ),
+    "sn12_61": ReaderMeta(
+        "Assutavā Sutta", 4, 7,
+        "An argument that runs the opposite way from what you expect: if you "
+        "must identify with something, the body is the safer choice, because "
+        "its changing is visible and the mind's is not.",
+    ),
+    "sn12_23": ReaderMeta(
+        "Upanisa Sutta", 4, 8,
+        "The positive chain, dissatisfaction leading step by step to freedom, "
+        "mirroring the well-known negative chain.",
+    ),
+    "sn12_11": ReaderMeta(
+        "Āhāra Sutta", 4, 9,
+        "Four things that keep a life going, traced back to wanting and then "
+        "all the way back along the chain. Not to be confused with SN 46.51, "
+        "which shares its name.",
+    ),
+    "sn12_2": ReaderMeta(
+        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 10,
+        "The standard formula of dependent arising, defined term by term.",
+    ),
+    "mn38": ReaderMeta(
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 11,
+        "A monk's wrong view — that the same consciousness travels on "
+        "unchanged — gets corrected, and dependent arising gets restated in "
+        "narrative, argued form rather than as a bare formula.",
+    ),
+    "dn15": ReaderMeta(
+        "Mahānidāna Sutta", 4, 12,
+        "The deepest and longest exposition of dependent arising in the set. "
+        "The capstone of this stage, not an entry point to it.",
+    ),
+    "mn9": ReaderMeta(
+        "Sammādiṭṭhi Sutta", 4, 13,
+        "Right view examined through more than a dozen different doctrinal "
+        "lenses in one text. Reads best as a review once the pieces it is "
+        "reviewing are already familiar.",
+    ),
+    # Stage 5 -- Advanced and Reference Texts
+    "mn44": ReaderMeta(
+        "Cūḷavedalla Sutta", 5, 1,
+        "A systematic question-and-answer exchange between two disciples, "
+        "covering a wide sweep of doctrine efficiently.",
+    ),
+    "mn64": ReaderMeta(
+        "Mahāmālukya Sutta", 5, 2,
+        "The five lower fetters, and the companion piece to MN 63 — same "
+        "disciple, later in his practice.",
+    ),
+    "mn11": ReaderMeta(
+        "Cūḷasīhanāda Sutta", 5, 3,
+        "A claim about who counts as a genuine practitioner, grounded in "
+        "whether a teaching can account for all four ways of taking things "
+        "personally — including taking a doctrine of self personally.",
+    ),
+    "mn137": ReaderMeta(
+        "Saḷāyatanavibhaṅga Sutta", 5, 4,
+        "A technical analysis of the six fields of experience.",
+    ),
+    "mn141": ReaderMeta(
+        "Saccavibhaṅga Sutta", 5, 5,
+        "The four noble truths again, now in full analytical detail rather "
+        "than the compressed form from Stage 2.",
+    ),
+    "mn117": ReaderMeta(
+        "Mahācattārīsaka Sutta", 5, 6,
+        "A technical analysis of the eightfold path, factor by factor.",
+    ),
+    "an6_63": ReaderMeta(
+        "Nibbedhika Sutta", 5, 7,
+        "One analytical frame applied six times over, to sensuality, feeling, "
+        "recognition, the outflows, action, and dissatisfaction. Includes the "
+        "line that defines action as intention.",
+    ),
+    "sn35_28": ReaderMeta(
+        "Āditta Sutta", 5, 8,
+        "The fire sermon. Iconic imagery carrying a genuinely abstract point "
+        "about the senses.",
+    ),
+    "mn18": ReaderMeta(
+        "Madhupiṇḍika Sutta", 5, 9,
+        "The honey-ball sutta, on how recognition snowballs into proliferating "
+        "thought. Famously dense even by this collection's standards.",
+    ),
+    "mn99": ReaderMeta(
+        "Subha Sutta", 5, 10,
+        "A dialogue defending renunciant life against a brahmin's claim that "
+        "household life is better. Good late-stage read for weighing the whole "
+        "path against the alternative.",
+    ),
+    "mn1": ReaderMeta(
+        "Mūlapariyāya Sutta", 5, 11,
+        "\"The root of all things.\" Traditionally regarded as one of the most "
+        "difficult texts in the collection. Deliberately last: it rewards "
+        "everything that came before it and rewards very little read cold.",
+    ),
+}
+
+
+def reader_meta(surface: TranslationSurface) -> ReaderMeta:
+    """The reader metadata for a surface. Every surface must have one."""
+    return READER_METADATA[surface.key]
+
+
+def reader_slug(surface: TranslationSurface) -> str:
+    """The reader page filename for a surface, without the directory."""
+    return surface.main_name
+
+
+def display_title(surface: TranslationSurface) -> str:
+    """The title shown to readers: the reader title if there is one."""
+    meta = reader_meta(surface)
+    return meta.reader_title or f"{surface.label}: {meta.pali_title}"
+
+
+def surfaces_in_reading_order() -> tuple[TranslationSurface, ...]:
+    """Every surface, ordered by reading stage then position within it."""
+    by_key = {s.key: s for s in TRANSLATION_SURFACES}
+    ordered = sorted(
+        READER_METADATA.items(), key=lambda kv: (kv[1].stage, kv[1].order)
+    )
+    return tuple(by_key[key] for key, _ in ordered)

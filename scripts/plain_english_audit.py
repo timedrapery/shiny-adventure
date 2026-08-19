@@ -26,7 +26,13 @@ from pathlib import Path
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TRANSLATIONS_DIR = REPO_ROOT / "docs" / "translations"
-READER_DIR = REPO_ROOT / "reader-src" / "suttas"
+# Reader pages are generated from the governed surfaces by
+# scripts/generate_reader.py and cannot drift from them -- that is enforced by
+# `generate_reader.py --check`. Auditing them as well would double-count every
+# finding, and would also flag the reader glossary blocks, which are reader
+# apparatus in their own voice rather than translated text. The canonical
+# surfaces are the thing to audit.
+READER_DIR = None
 SKIP_FILES = {"translation-documents.md"}
 
 # Signals are grouped so a reviewer can tell a hard register error (an artifact
@@ -238,11 +244,11 @@ def strip_apparatus(text: str) -> str:
 
 def iter_target_files(
     translations_dir: Path = TRANSLATIONS_DIR,
-    reader_dir: Path = READER_DIR,
+    reader_dir: Path | None = READER_DIR,
 ) -> list[Path]:
     files: list[Path] = []
     for directory in (translations_dir, reader_dir):
-        if not directory.exists():
+        if directory is None or not directory.exists():
             continue
         files.extend(
             path
@@ -297,10 +303,7 @@ def build_report(
     if paths:
         files = sorted(p for p in paths if p.is_file())
     else:
-        files = iter_target_files(
-            translations_dir or TRANSLATIONS_DIR,
-            reader_dir if reader_dir is not None else READER_DIR,
-        )
+        files = iter_target_files(translations_dir or TRANSLATIONS_DIR, reader_dir)
 
     governed = load_governed_renderings(repo_root / "terms")
     findings: list[dict[str, object]] = []

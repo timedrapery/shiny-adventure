@@ -1,7 +1,8 @@
 site_name: OSF Pali Readings
 site_description: >-
-  Reader's Edition prototype for the Open Sangha Foundation Pali Translation
-  Lexicon -- Early Buddhist sutta translations in plain, contemporary English.
+  Early Buddhist sutta translations in plain, contemporary English, backed by a
+  governed Pali lexicon. The reader's edition of the Open Sangha Foundation
+  Pali Translation Lexicon.
 repo_url: https://github.com/timedrapery/shiny-adventure
 repo_name: timedrapery/shiny-adventure
 
@@ -27,24 +28,71 @@ theme:
 markdown_extensions:
   - abbr
   - attr_list
-  - pymdownx.snippets:
-      base_path:
-        - "."
-      auto_append:
-        - includes/glossary.md
+  - md_in_html
+  - toc:
+      permalink: true
+  - admonition
 
-# includes/ is kept outside docs_dir (reader-src/) on purpose: MkDocs treats
-# every file under docs_dir as a page unless excluded, and the glossary file
-# is a snippet to be auto-appended, not a page of its own.
+# Glossary definitions are injected per page by scripts/generate_reader.py
+# rather than auto-appended globally. Appending one shared glossary to every
+# page meant a term could only ever carry one note across the whole site, even
+# where the same English word does different work in different suttas.
+# includes/glossary.md remains the hand-written reader-voice source.
 watch:
   - includes
 
 nav:
   - Home: index.md
   - Start Here: start-here.md
-  - Suttas:
-      - "AN 3.65: Kesamutta Sutta": suttas/an3-65-kesamutta-sutta.md
-      - "SN 56.11: Dhammacakkappavattana Sutta": suttas/sn56-11-dhammacakkappavattana-sutta.md
-      - "SN 36.6: Salla Sutta": suttas/sn36-6-salla-sutta.md
-      - "MN 63: Culamalukya Sutta": suttas/mn63-culamalukya-sutta.md
-      - "SN 22.59: Anattalakkhana Sutta": suttas/sn22-59-anattalakkhana-sutta.md
+  - All Suttas: suttas/index.md
+  - Read in order:
+  # BEGIN GENERATED SUTTA NAV
+      - Stage 1. Before Any Doctrine:
+          - "Test It Yourself": suttas/an3-65-kesamutta-sutta.md
+          - "The Man Struck by a Poisoned Arrow": suttas/mn63-culamalukya-sutta.md
+          - "The Two Searches": suttas/mn26-pasarasi-sutta.md
+      - Stage 2. The Basic Diagnosis and the Path:
+          - "The First Teaching": suttas/sn56-11-dhammacakkappavattana-sutta.md
+          - "One Arrow, Not Two": suttas/sn36-6-salla-sutta.md
+          - "The Dirty Cloth": suttas/mn7-vattha-sutta.md
+          - "Four Horses": suttas/an4-113-patoda-sutta.md
+          - "SN 55.5: Dutiyasāriputta Sutta": suttas/sn55-5-dutiyasariputta-sutta.md
+          - "Think Like a Thoroughbred": suttas/an11-9-saddha-sutta.md
+      - Stage 3. Learning to Look at Your Own Mind:
+          - "Two Kinds of Thinking": suttas/mn19-dvedhavitakka-sutta.md
+          - "MN 2: Sabbāsava Sutta": suttas/mn2-sabbasava-sutta.md
+          - "MN 118: Ānāpānasati Sutta": suttas/mn118-anapanasati-sutta.md
+          - "MN 10: Satipaṭṭhāna Sutta": suttas/mn10-satipatthana-sutta.md
+          - "DN 2: Sāmaññaphala Sutta": suttas/dn2-samannaphala-sutta.md
+          - "AN 10.60: Girimānanda Sutta": suttas/an10-60-giriminanda-sutta.md
+          - "MN 39: Mahā-Assapura Sutta": suttas/mn39-maha-assapura-sutta.md
+          - "SN 46.51: Āhāra Sutta": suttas/sn46-51-ahara-sutta.md
+      - Stage 4. Not-Self and Dependent Arising:
+          - "Nothing Here Is You": suttas/sn22-59-anattalakkhana-sutta.md
+          - "MN 22: Alagaddūpama Sutta": suttas/mn22-alagaddupama-sutta.md
+          - "SN 22.48: Khandha Sutta": suttas/sn22-48-khandha-sutta.md
+          - "SN 22.89: Khemaka Sutta": suttas/sn22-89-khemaka-sutta.md
+          - "MN 148: Chachakka Sutta": suttas/mn148-chachakka-sutta.md
+          - "SN 12.15: Kaccānagotta Sutta": suttas/sn12-15-kaccanagotta-sutta.md
+          - "SN 12.61: Assutavā Sutta": suttas/sn12-61-assutava-sutta.md
+          - "SN 12.23: Upanisa Sutta": suttas/sn12-23-upanisa-sutta.md
+          - "SN 12.11: Āhāra Sutta": suttas/sn12-11-ahara-sutta.md
+          - "SN 12.2: Paṭiccasamuppāda-vibhaṅga Sutta": suttas/sn12-2-paticcasamuppada-vibhanga-sutta.md
+          - "MN 38: Mahātaṇhāsaṅkhaya Sutta": suttas/mn38-mahatanhasankhaya-sutta.md
+          - "DN 15: Mahānidāna Sutta": suttas/dn15-mahanidana-sutta.md
+          - "MN 9: Sammādiṭṭhi Sutta": suttas/mn9-sammaditthi-sutta.md
+      - Stage 5. Advanced and Reference Texts:
+          - "MN 44: Cūḷavedalla Sutta": suttas/mn44-culavedalla-sutta.md
+          - "MN 64: Mahāmālukya Sutta": suttas/mn64-mahamalukya-sutta.md
+          - "MN 11: Cūḷasīhanāda Sutta": suttas/mn11-culasihanada-sutta.md
+          - "MN 137: Saḷāyatanavibhaṅga Sutta": suttas/mn137-salayatanavibhanga-sutta.md
+          - "MN 141: Saccavibhaṅga Sutta": suttas/mn141-saccavibhanga-sutta.md
+          - "MN 117: Mahācattārīsaka Sutta": suttas/mn117-mahacattarisaka-sutta.md
+          - "AN 6.63: Nibbedhika Sutta": suttas/an6-63-nibbedhika-sutta.md
+          - "SN 35.28: Āditta Sutta": suttas/sn35-28-aditta-sutta.md
+          - "MN 18: Madhupiṇḍika Sutta": suttas/mn18-madhupindika-sutta.md
+          - "MN 99: Subha Sutta": suttas/mn99-subha-sutta.md
+          - "MN 1: Mūlapariyāya Sutta": suttas/mn1-mulapariyaya-sutta.md
+  # END GENERATED SUTTA NAV
+  - Glossary: glossary.md
+  - About this translation: about.md

@@ -59,8 +59,10 @@ generating script first.
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/modern_english_audit.py`
   Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
-- `python scripts/sync_reader_pages.py --check`
-  Fails when a reader page in `reader-src/suttas/` has drifted from its governed surface. Comparison ignores presentation-only differences such as heading level, emphasis, and horizontal rules. Use `--write` to rebuild the reader bodies from the surfaces.
+- `python scripts/generate_reader.py --check`
+  Regenerates and verifies the whole reader's edition: sutta pages, the Start Here reading path, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/` plus the reader metadata in `scripts/surface_registry.py`; the only hand-written part of a sutta page is its `About this text` block, which is preserved. Use `--write` to regenerate.
+- `python scripts/check_markdown_structure.py`
+  Fails when a bulleted list has been flattened into running prose by a paragraph rewriter, which is the damage that went unnoticed in MN 118 for three commits.
 - `python scripts/verify_example_sources.py`
   Checks that each `example_phrase` cites a sutta that actually contains its Pali, by fetching the Bilara root text. Needs network access and is deliberately outside `run_checks.py`. Read the verdict definitions in the script before acting: `inflected` and `inconclusive` are usually not errors, and AN numbering differs between editions.
 - `python scripts/plain_english_audit.py`
