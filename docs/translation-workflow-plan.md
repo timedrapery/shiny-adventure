@@ -111,6 +111,23 @@ Current governed surfaces already include:
 - practice-text control surfaces
 - sensory-response control surfaces
 
+## Active Work
+
+The current active piece of work is the plain-English rollout: bringing the
+running text of every translation surface up to
+[PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md).
+
+[plain-english-rollout-plan.md](plain-english-rollout-plan.md) is the
+pick-up-here document for that work. It holds the current counts, the ordered
+list of remaining surfaces, the working procedure, and the list of lexical
+questions that were deliberately deferred rather than settled as a side effect
+of a register pass.
+
+Read it before touching a translation surface. In particular it records the
+failure mode that has already bitten twice: governed term records that
+themselves carry the translationese, so that fixing a surface breaks the check
+suite until the record is fixed too.
+
 ## Concrete Next Tasks
 
 ### Phase 1: Translation Surface Expansion

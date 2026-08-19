@@ -188,6 +188,8 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
+The current active piece of work is the plain-English rollout across translation surfaces; [docs/plain-english-rollout-plan.md](docs/plain-english-rollout-plan.md) is the pick-up-here document for it.
+
 Planning notes live in [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) and the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 
 ## Contributing

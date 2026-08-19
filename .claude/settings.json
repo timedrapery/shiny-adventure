@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \"import json; d=json.load\\(open\\('terms/major/passaddhi.json'\\)\\); print\\(json.dumps\\(d.get\\('related_terms', []\\), indent=2\\)\\)\")",
+      "Bash(python -c 'import json,sys; d=json.loads\\(open\\('\\\\''__TRACKED_VAR__'\\\\'','\\\\''r'\\\\'',encoding='\\\\''utf-8'\\\\''\\).read\\(\\)\\); print\\(json.dumps\\(d.get\\('\\\\''related_terms'\\\\'',[]\\), indent=2\\)\\)')",
+      "Bash(python scripts/term_directory_navigation.py --check)",
+      "Bash(python scripts/term_directory_navigation.py --write-docs)",
+      "Bash(git commit -m 'fix\\(lexicon\\): update piti to rejoicing, create pamojja record, correct sukha in surfaces *)",
+      "Bash(git commit -m 'feat\\(translations\\): add SN 12.23 surface *)",
+      "Bash(git commit -m ' *)",
+      "Bash(gh api *)",
+      "Bash(curl -s \"https://raw.githubusercontent.com/suttacentral/sc-data/main/sc_bilara_data/root/pli/ms/sutta/mn/mn38_root-pli-ms.json\")",
+      "Bash(curl -s \"https://raw.githubusercontent.com/suttacentral/sc-data/main/sc_bilara_data/translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json\")",
+      "Bash(python -c ' *)",
+      "Bash(grep -v \"^$\")"
+    ]
+  }
+}
