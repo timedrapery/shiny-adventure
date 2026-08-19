@@ -1,0 +1,21 @@
+{
+  "term": "pariyesanā",
+  "normalized_term": "pariyesana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "search",
+  "definition": "What a person seeks or pursues in life, divided into the noble search (for what is not subject to birth, ageing, and death) and the ignoble search (for more of what is already subject to them).",
+  "literal_meaning": "seeking, searching for",
+  "notes": "Ariya pariyesana = the noble search; anariya pariyesana = the ignoble search. The verb form is pariyesati (seeks, searches for).",
+  "related_terms": [
+    "ariya",
+    "anariya"
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-practice"
+  ],
+  "status": "reviewed"
+}

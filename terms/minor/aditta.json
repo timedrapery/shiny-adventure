@@ -1,0 +1,17 @@
+{
+  "term": "āditta",
+  "normalized_term": "aditta",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "preferred_translation": "burning",
+  "definition": "Ablaze or on fire, used of the sense fields and their objects in the fire-simile teaching on the danger of unguarded sensory contact.",
+  "literal_meaning": "set alight, burning",
+  "sutta_references": [
+    "SN 35.28"
+  ],
+  "tags": [
+    "core-doctrine",
+    "simile"
+  ],
+  "status": "reviewed"
+}

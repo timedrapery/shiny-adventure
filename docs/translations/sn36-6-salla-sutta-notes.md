@@ -103,6 +103,10 @@ alone.
 
 - This companion now supports the first stable study edition of the repo's
   SN 36.6 translation surface.
+- `salla` (arrow) now has a shared minor entry, `terms/minor/salla.json`,
+  added from the MN 63 surface. It explicitly keeps this sutta's two-arrows
+  contrast distinct from MN 63's poisoned-arrow simile rather than treating
+  them as one cross-referenced image.
 - Future revisions should focus on the one-arrow / two-arrows control records,
   the plural feeling-discernment lines, or the summary verse if stronger
   repository controls emerge.

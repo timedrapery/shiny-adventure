@@ -1,0 +1,22 @@
+{
+  "term": "natthitā",
+  "normalized_term": "natthita",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "the view of non-existence",
+  "definition": "The abstract-noun view that things do not exist at all, named as one of the two extremes the middle-way teaching on right view avoids.",
+  "literal_meaning": "non-existence-ness, the fact/view of not being",
+  "notes": "An abstract noun formed from natthi (does not exist), distinct from the bare verb. Paired with atthita (the view of existence).",
+  "related_terms": [
+    "atthita",
+    "ditthi"
+  ],
+  "sutta_references": [
+    "SN 12.15"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

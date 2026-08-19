@@ -1,0 +1,29 @@
+{
+  "term": "mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garū",
+  "normalized_term": "an3-65-ten-criteria",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "Do not go by oral transmission; do not go by lineage; do not go by hearsay; do not go by scriptural authority; do not go by logical argumentation; do not go by inference; do not go by thinking through the apparent reasons; do not go by agreeing with a view after reflecting on it; do not go by the apparent competence of a speaker; and do not think 'This recluse is our teacher.'",
+  "definition": "The ten-criterion list of grounds that are each individually insufficient for accepting or rejecting a teaching, from the Kalama Sutta.",
+  "notes": "The instruction does not say these ten grounds are wrong in themselves; it says none of them is sufficient alone. The criterion that does count is knowing for oneself whether a thing is wholesome or unwholesome, blameworthy or blameless, criticized or praised by those with discernment, and whether it leads to harm or to welfare when undertaken. The list recurs (in abbreviated form) twice within AN 3.65 itself.",
+  "related_terms": [
+    "vinnu"
+  ],
+  "example_phrases": [
+    {
+      "pali": "mā anussavena, mā paramparāya, mā itikirāya...",
+      "translation": "Do not go by oral transmission; do not go by lineage; do not go by hearsay...",
+      "notes": "The Kalamas' governing epistemological instruction.",
+      "source": "AN 3.65"
+    }
+  ],
+  "sutta_references": [
+    "AN 3.65"
+  ],
+  "tags": [
+    "epistemology",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

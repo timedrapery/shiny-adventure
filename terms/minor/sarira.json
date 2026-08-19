@@ -1,0 +1,22 @@
+{
+  "term": "sarīra",
+  "normalized_term": "sarira",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "body",
+  "definition": "The physical body, in the specific sense paired with jiva in the undeclared question of whether the soul is the same as or different from the body.",
+  "literal_meaning": "body, corpse",
+  "notes": "Distinct from the repository's existing body-language around kaya. Sarira in this context names the physical frame as the counterpart to jiva in a metaphysical question, not the body as the field of embodied practice that kaya usually governs.",
+  "related_terms": [
+    "jiva",
+    "avyakata"
+  ],
+  "sutta_references": [
+    "MN 63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

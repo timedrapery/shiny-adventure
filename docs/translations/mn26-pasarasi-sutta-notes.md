@@ -134,24 +134,26 @@ All governing terms for MN 26 are covered by existing lexicon records:
 
 ## Re-audit Calls
 
-- `pariyesanā` has no lexicon entry. The rendering "search" is contextual and
-  consistent with the verb `pariyesati` = "searches, seeks." The "ignoble
+- Resolved: `pariyesanā` now has a minor entry, `terms/minor/pariyesana.json`.
+  The rendering "search" is contextual and consistent with the verb
+  `pariyesati` = "searches, seeks." The "ignoble
   search" and "noble search" framing is the central organizing metaphor of the
   sutta. Future revisions should add a minor entry if the term is governed
   across multiple surfaces.
-- `sambodha` has no lexicon entry. `Awakening` is the natural rendering in the
-  seven-term formula alongside `nibbāna`. The term is distinct from
-  `sambodhi` (the full awakening event) — here it names the seventh link in
-  the chain leading toward nibbāna. A minor entry should be considered if the
-  seven-term formula gains a governed record.
-- `saññāvedayitanirodha` has no lexicon entry. The rendering "cessation of
-  recognition and felt experience" follows the component terms (`saññā` =
-  recognition, `vedayita` from `vedanā` = felt experience). Future revisions
-  should add a minor entry for this compound.
-- `visattikā` (mn26:42.3) = "the world's entanglement/clinging-web" — rendered
-  "the world's entanglement." This term has no lexicon entry. It names the
-  sticky web of sensual clinging that keeps beings bound. A minor entry should
-  be considered.
+- Resolved: `sambodha` now has a minor cross-reference entry,
+  `terms/minor/sambodha.json`. It is deliberately kept as a minor
+  cross-reference to the existing major `bodhi` entry rather than a
+  standalone major entry, since `bodhi` already governs `awakening` as the
+  house default (and already cites `anuttarā sammāsambodhi` from this sutta
+  as an example) — a separate major entry would risk drifting away from an
+  already-governed near-synonym rather than staying consistent with it.
+- Resolved: the seven-term formula
+  (`nibbidāya...nibbānāya saṃvattati`) now has a formula record,
+  `terms/minor/nibbida-viraga-nirodha-upasama-abhinna-sambodha-nibbana-formula.json`.
+- Resolved: `saññāvedayitanirodha` now has a minor entry,
+  `terms/minor/sannavedayitanirodha.json`.
+- Resolved: `visattikā` ("the world's entanglement," mn26:42.3) now has a
+  minor entry, `terms/minor/visattika.json`.
 - The Bilara collapses many of the repeated passages in the sutta with `…pe…`
   markers. These include: the middle four qualities (sickness, death, sorrow,
   corruption) in mn26:13.3 (the bodhisatta's reflection), and the abbreviated
@@ -193,8 +195,7 @@ All governing terms for MN 26 are covered by existing lexicon records:
 
 - This companion supports the first stable study edition of the repo's
   MN 26 translation surface.
-- Future revisions should focus on `pariyesanā` if a minor entry is added,
-  `sambodha` if the seven-term formula gains a governed record, and
-  `saññāvedayitanirodha` if a minor entry for the cessation attainment is
-  created. The `ālaya` motif (clinging-as-home) should be revisited if an
-  `ālaya` minor entry is added to the lexicon.
+- The `pariyesanā`, `sambodha`, `saññāvedayitanirodha`, and `visattikā` minor
+  entries, and the seven-term formula record, were added in a later
+  lexicon-backlog pass; see Re-audit Calls above. The `ālaya` motif
+  (clinging-as-home) also now has a minor entry, `terms/minor/alaya.json`.

@@ -1,0 +1,31 @@
+{
+  "term": "abhisandeti parisandeti paripūreti parippharati",
+  "normalized_term": "abhisandeti-parisandeti-paripureti-parippharati",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "drenches, saturates, fills, and spreads",
+  "definition": "The four-verb formula describing the body's permeation by the quality generated in each of the four mental themes (jhana), used identically for each of the four in MN 39.",
+  "notes": "The progression from drench to saturate to fill to spread shows thorough permeation without overflow: each verb intensifies the last rather than repeating it. Keep all four verbs in this order and this rendering wherever the mental-theme permeation formula recurs.",
+  "related_terms": [
+    "jhana",
+    "piti",
+    "sukha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "so imameva kāyaṁ vivekajena pītisukhena abhisandeti parisandeti paripūreti parippharati",
+      "translation": "they drench, saturate, fill, and spread this very body with the rejoicing and pleasure born of seclusion",
+      "notes": "The first mental theme's permeation line; the same four verbs recur for the remaining three themes.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "MN 39"
+  ],
+  "tags": [
+    "core-practice",
+    "formula",
+    "mental-theme"
+  ],
+  "status": "reviewed"
+}

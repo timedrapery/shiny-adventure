@@ -1,0 +1,22 @@
+{
+  "term": "jīva",
+  "normalized_term": "jiva",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "soul",
+  "definition": "The felt animating principle of a person, at stake in the undeclared question of whether it is the same as or different from the body.",
+  "literal_meaning": "life, life-principle",
+  "notes": "Used here as the most legible modern English gloss for the term at stake in the jiva-sarira question, without taking a position on whether such a thing exists. The sutta itself leaves the question undeclared (see avyakata), and the translation should not resolve it either.",
+  "related_terms": [
+    "sarira",
+    "avyakata"
+  ],
+  "sutta_references": [
+    "MN 63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

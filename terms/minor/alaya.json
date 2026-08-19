@@ -1,0 +1,21 @@
+{
+  "term": "ālaya",
+  "normalized_term": "alaya",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "resting-place",
+  "definition": "The clinging-as-home orientation ordinary beings settle into and take delight in, named as what the teaching of dependent arising runs against.",
+  "literal_meaning": "hanging on, resting-place, abode",
+  "notes": "In the compound alayarama alayarata alayasammudita (\"delight in their resting-place, are pleased with their resting-place\"), alaya names attachment as a settled home rather than a specific object of clinging.",
+  "related_terms": [
+    "tanha",
+    "upadana"
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

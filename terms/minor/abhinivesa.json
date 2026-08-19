@@ -1,0 +1,23 @@
+{
+  "term": "abhinivesa",
+  "normalized_term": "abhinivesa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "insistence",
+  "definition": "The holding-hard gesture of insisting on a position, the third and most entrenched layer in the upaya-upadana-abhinivesa-vinibandha attachment sequence.",
+  "literal_meaning": "leaning into, insisting on",
+  "notes": "Distinct from upadana (taking personally, the grasping that precedes it) and anusaya (underlying tendency, the dormant form). Abhinivesa is the active, standing commitment to a view once it has been taken up.",
+  "related_terms": [
+    "upadana",
+    "anusaya",
+    "ditthi"
+  ],
+  "sutta_references": [
+    "SN 12.15"
+  ],
+  "tags": [
+    "core-doctrine",
+    "self-view"
+  ],
+  "status": "reviewed"
+}

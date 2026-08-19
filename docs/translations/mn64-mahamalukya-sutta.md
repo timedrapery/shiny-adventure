@@ -31,39 +31,41 @@
 
 So I heard.
 
-At one time the Buddha was staying near Sāvatthī, in Jeta's Grove, in
+At one time the Blessed One was staying near Sāvatthī, in Jeta's Grove, in
 Anāthapiṇḍika's monastery.
 
-There the Buddha addressed the bhikkhus:
+There the Blessed One addressed the bhikkhus:
 
 "Bhikkhus."
 
 "Bhante," they replied.
 
-The Buddha said this:
+The Blessed One said this:
 
 ### Mālukyaputta's List
 
 "Bhikkhus, do you remember the five lower fetters taught by me?"
 
-When this was said, Venerable Mālukyaputta said to the Buddha:
+When this was said, Venerable Mālukyaputta said to the Blessed One:
 
-"Bhante, I remember the five lower fetters taught by the Buddha."
+"Bhante, I remember the five lower fetters taught by the Blessed One."
 
 "But, Mālukyaputta, how do you remember the five lower fetters taught by me?"
 
-"Bhante, I remember identity view as a lower fetter taught by the Buddha.
+"Bhante, I remember identity view as a lower fetter taught by the Blessed
+One.
 
-I remember uncertain distraction as a lower fetter taught by the Buddha.
+I remember uncertain distraction as a lower fetter taught by the Blessed One.
 
 I remember grasping at rules and observances as a lower fetter taught by the
-Buddha.
+Blessed One.
 
-I remember sensual distraction as a lower fetter taught by the Buddha.
+I remember sensual distraction as a lower fetter taught by the Blessed One.
 
-I remember aversive distraction as a lower fetter taught by the Buddha.
+I remember aversive distraction as a lower fetter taught by the Blessed One.
 
-That is how, Bhante, I remember the five lower fetters taught by the Buddha."
+That is how, Bhante, I remember the five lower fetters taught by the Blessed
+One."
 
 ### The Infant Simile
 
@@ -104,17 +106,17 @@ tender infant?"
 
 ### Ānanda Requests the Teaching
 
-When this was said, Venerable Ānanda said to the Buddha:
+When this was said, Venerable Ānanda said to the Blessed One:
 
-"Now is the time, Blessed One. Now is the time, Fortunate One, for the Buddha
-to teach the five lower fetters. Having heard it from the Buddha, the bhikkhus
-will remember it."
+"Now is the time, Blessed One. Now is the time, Fortunate One, for the
+Blessed One to teach the five lower fetters. Having heard it from the Blessed
+One, the bhikkhus will remember it."
 
 "Then, Ānanda, listen carefully, attend well, and I will speak."
 
 "Yes, Bhante," Venerable Ānanda replied.
 
-The Buddha said this:
+The Blessed One said this:
 
 ### The Unlearned Ordinary Person
 
@@ -401,8 +403,8 @@ some bhikkhus those with release through discernment?"
 
 "Here, Ānanda, I say this is due to the difference in faculties."
 
-That is what the Buddha said.
+That is what the Blessed One said.
 
-Venerable Ānanda was satisfied and welcomed what the Buddha had said.
+Venerable Ānanda was satisfied and welcomed what the Blessed One had said.
 
 The Mahāmālukya Sutta, the fourth discourse, is finished.

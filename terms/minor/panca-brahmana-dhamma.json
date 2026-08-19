@@ -1,0 +1,29 @@
+{
+  "term": "pañcahi dhammehi samannāgato brāhmaṇo",
+  "normalized_term": "panca-brahmana-dhamma",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "a brahmin endowed with five things",
+  "definition": "The brahmin fivefold list named by Pokkharasati and examined in MN 99: truth, austerity, chaste conduct, recitation, and generosity.",
+  "notes": "The Buddha does not accept this list as final in itself; he reclassifies the five as supports for cultivating a mind free of enmity and ill will, rather than as ends in themselves. 'Chaste conduct' for brahmacariya is a local, argument-specific choice in this sutta (the brahmin list names a specific merit practice), distinct from the repository's broader default rendering of brahmacariya as 'spiritual life' elsewhere.",
+  "related_terms": [
+    "sacca",
+    "brahmana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saccena ca, tapasā ca, brahmacariyena ca, ajjhenena ca, cāgena ca",
+      "translation": "truth, austerity, chaste conduct, recitation, and generosity",
+      "notes": "The five items of the list as Pokkharasati states them.",
+      "source": "MN 99"
+    }
+  ],
+  "sutta_references": [
+    "MN 99"
+  ],
+  "tags": [
+    "formula",
+    "ethics"
+  ],
+  "status": "reviewed"
+}

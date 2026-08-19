@@ -1,0 +1,20 @@
+{
+  "term": "opapātika",
+  "normalized_term": "opapatika",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "preferred_translation": "spontaneously reborn",
+  "definition": "Arising fully formed at rebirth rather than through the other three modes of birth (egg, womb, or moisture), used especially of non-returners reborn in the pure abodes.",
+  "literal_meaning": "arisen spontaneously",
+  "related_terms": [
+    "anagami"
+  ],
+  "sutta_references": [
+    "MN 22"
+  ],
+  "tags": [
+    "core-doctrine",
+    "cosmology"
+  ],
+  "status": "reviewed"
+}

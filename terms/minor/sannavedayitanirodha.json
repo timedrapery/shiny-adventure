@@ -1,0 +1,23 @@
+{
+  "term": "saññāvedayitanirodha",
+  "normalized_term": "sannavedayitanirodha",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "cessation of recognition and felt experience",
+  "definition": "The attainment in which recognition and felt experience both cease, the furthest of the formless attainments reached in the deep-mental-composure sequence.",
+  "literal_meaning": "saññā (recognition) + vedayita (felt) + nirodha (cessation)",
+  "related_terms": [
+    "sanna",
+    "vedana",
+    "nirodha",
+    "jhana"
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-practice",
+    "mental-theme"
+  ],
+  "status": "reviewed"
+}

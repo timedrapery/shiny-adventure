@@ -1,0 +1,23 @@
+{
+  "term": "assāsa",
+  "normalized_term": "assasa",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "consolation",
+  "definition": "A practical reassurance won through freedom from greed, aversion, and delusion, independent of resolving a contested metaphysical question such as the afterlife.",
+  "literal_meaning": "in-breath; relief, reassurance",
+  "notes": "Distinct from the breath-related sense of assasa in anapanassati contexts. Here the word names a reassurance that holds regardless of which of several logical possibilities turns out to be true, not an argument for any one of them.",
+  "related_terms": [
+    "lobha",
+    "dosa",
+    "moha"
+  ],
+  "sutta_references": [
+    "AN 3.65"
+  ],
+  "tags": [
+    "practice",
+    "epistemology"
+  ],
+  "status": "reviewed"
+}

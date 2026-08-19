@@ -1,0 +1,21 @@
+{
+  "term": "sambodha",
+  "normalized_term": "sambodha",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "awakening",
+  "definition": "The awakening member of the seven-term nibbida-viraga-nirodha-upasama-abhinna-sambodha-nibbana formula, grammatically distinct from but doctrinally identical to sambodhi/bodhi.",
+  "literal_meaning": "full awakening, coming to know completely",
+  "notes": "This is a minor cross-reference entry rather than a standalone major entry. Sambodha is a grammatical variant of the same root already governed by the major bodhi entry (which cites anuttara sammasambodhi and bodhaya as examples, both from MN 26). Sambodha inherits bodhi's 'awakening' rendering rather than re-solving it locally, to avoid a near-synonym major entry drifting away from an already-governed one.",
+  "related_terms": [
+    "bodhi",
+    "nibbana"
+  ],
+  "sutta_references": [
+    "MN 26"
+  ],
+  "tags": [
+    "core-doctrine"
+  ],
+  "status": "reviewed"
+}

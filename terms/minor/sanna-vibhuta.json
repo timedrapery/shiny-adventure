@@ -1,0 +1,28 @@
+{
+  "term": "saññā vibhūtā hoti",
+  "normalized_term": "sanna-vibhuta",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "recognition has vanished",
+  "definition": "The explanatory formula naming the point at which recognition of a given basis has disappeared, used as AN 11.9's governing image for confidence that has stopped noticing its own object.",
+  "notes": "Vibhūtā is the past participle of vibhavati (vanishes, ceases to be); the house term for sañña is recognition. The phrase names an endpoint reached, not an ongoing process.",
+  "related_terms": [
+    "sanna"
+  ],
+  "example_phrases": [
+    {
+      "pali": "saññā vibhūtā hoti",
+      "translation": "recognition has vanished",
+      "notes": "The formula that gives AN 11.9 its key explanatory image.",
+      "source": "AN 11.9"
+    }
+  ],
+  "sutta_references": [
+    "AN 11.9"
+  ],
+  "tags": [
+    "formula",
+    "core-practice"
+  ],
+  "status": "reviewed"
+}
