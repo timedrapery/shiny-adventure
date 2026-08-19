@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (32 total)
+## Completed Surfaces (36 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -41,6 +41,12 @@ Use that full roadmap as the source of truth for:
 - `MN 38` Mahātaṇhāsaṅkhaya Sutta
 - `MN 26` Pāsarāsi Sutta
 
+### Wave 5: Source-Closing and Gap-Filling
+- `MN 22` Alagaddūpama Sutta
+- `SN 12.15` Kaccānagotta Sutta
+- `AN 3.65` Kesamutta Sutta (Kālāma Sutta)
+- `MN 63` Cūḷamālukya Sutta
+
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
 - `MN 10` Satipaṭṭhāna Sutta
@@ -55,22 +61,11 @@ Use that full roadmap as the source of truth for:
 - `SN 12.2` (see Wave 1)
 - `SN 22.59` Anattalakkhaṇa Sutta
 
-## Current Active Queue (Wave 5)
+## Current Active Queue
 
-Ranked by doctrinal leverage against the current 32-surface lexicon:
-
-1. `MN 22` Alagaddūpama Sutta — raft simile + "not mine, not I, not my self"
-   refrain + anattā / not-grasping-the-teaching families; the source surface
-   for the raft simile referenced in MN 38
-2. `SN 12.15` Kaccānagotta Sutta — one page; foundational text on right view
-   as the middle way between eternalism and annihilationism; highest
-   per-length leverage on the dependent-arising cluster
-3. `AN 3.65` Kālāma Sutta — "test it yourself" epistemology; most broadly
-   referenced AN sutta not yet covered; strengthens the AN cluster (currently
-   only three surfaces)
-4. `MN 63` Cūḷamāluṅkya Sutta — unanswered questions + poisoned arrow simile;
-   connects to MN 38's not-running-to-past/future passage and the undeclared
-   (`avyākata`) doctrinal family
+Wave 5 is complete. The next ranked wave has not yet been drafted — running
+[next-suttas-roadmap.md](next-suttas-roadmap.md)'s audit method against the
+current 36-surface lexicon is the next step before naming a Wave 6 queue.
 
 ## Operating Note
 

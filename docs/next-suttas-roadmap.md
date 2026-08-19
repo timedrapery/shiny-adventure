@@ -15,12 +15,13 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking reflects the repository at 32 translation surfaces. All fifteen
-entries in the original ranked roadmap are complete, along with seven
+This ranking reflects the repository at 36 translation surfaces. All fifteen
+entries in the original ranked roadmap are complete, along with eleven
 additional surfaces (AN 4.113, AN 11.9, SN 12.23, SN 35.28, MN 38, MN 26,
-and the pre-existing surfaces). The next gains come from doctrinal families
-that are now well-governed in the lexicon but thin in outward-facing
-translation documents.
+MN 22, SN 12.15, AN 3.65, MN 63, and the pre-existing surfaces). Wave 5 is now
+complete. The next gains come from doctrinal families that are now
+well-governed in the lexicon but thin in outward-facing translation
+documents.
 
 The ranking weights four factors:
 
@@ -70,7 +71,7 @@ The ranking weights four factors:
   reverence for the teacher); keep the empirical-confidence family distinct
   from both pure faith language and pure rationalist language.
 
-### 4. MN 63: Cūḷamāluṅkya Sutta
+### 4. MN 63: Cūḷamālukya Sutta
 
 - Leverage signal: the poisoned arrow simile; the unanswered-questions
   (`avyākata`) family; connects directly to MN 38's not-running-to-past/future
@@ -79,9 +80,14 @@ The ranking weights four factors:
   arrow" simile for not letting metaphysical speculation block practice; the
   boundary between what the teaching covers and what it leaves aside.
 - Likely lexicon pressure: govern `avyākata` (undeclared / unrecorded) as a
-  minor entry; confirm the fourteen unanswered questions as a formula record;
-  and keep the simile from being read as anti-intellectual rather than
-  practice-orienting.
+  minor entry; confirm the ten unanswered questions (`dasa avyākatavatthūni`)
+  as a formula record; and keep the simile from being read as
+  anti-intellectual rather than practice-orienting.
+- Status: translated. See
+  [MN 63](translations/mn63-culamalukya-sutta.md) and its
+  [translation notes](translations/mn63-culamalukya-sutta-notes.md). The
+  notes flag that the source text lists ten propositions, not fourteen, and
+  that `avyākata`, `jīva`, and `sarīra` still need formal minor entries.
 
 ### 5. SN 12.15: Kaccānagotta Sutta
 
@@ -90,7 +96,7 @@ notes below.)
 
 ## Suggested Translation Order
 
-### Wave 5: Source-Closing and Gap-Filling
+### Wave 5: Source-Closing and Gap-Filling (complete)
 
 1. `MN 22` Alagaddūpama — closes the raft-simile source gap, governs the
    not-self refrain as a formula record
@@ -98,8 +104,12 @@ notes below.)
    remaining queue
 3. `AN 3.65` Kālāma — expands the AN cluster, governs empirical-confidence
    epistemology
-4. `MN 63` Cūḷamāluṅkya — governs the undeclared family and the poisoned
+4. `MN 63` Cūḷamālukya — governs the undeclared family and the poisoned
    arrow simile
+
+All four surfaces are now translated; see
+[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) for the
+completed-surfaces list and the next wave.
 
 ## Why This Order
 

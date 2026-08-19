@@ -77,6 +77,11 @@ Current MN 44 surfaces:
 - [mn44-culavedalla-sutta.md](mn44-culavedalla-sutta.md): main shareable translation text
 - [mn44-culavedalla-sutta-notes.md](mn44-culavedalla-sutta-notes.md): companion translator notes and rationale
 
+Current MN 63 surfaces:
+
+- [mn63-culamalukya-sutta.md](mn63-culamalukya-sutta.md): main shareable translation text
+- [mn63-culamalukya-sutta-notes.md](mn63-culamalukya-sutta-notes.md): companion translator notes and rationale
+
 Current MN 64 surfaces:
 
 - [mn64-mahamalukya-sutta.md](mn64-mahamalukya-sutta.md): main shareable translation text
