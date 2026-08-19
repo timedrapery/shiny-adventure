@@ -117,6 +117,11 @@ Current MN 148 surfaces:
 - [mn148-chachakka-sutta.md](mn148-chachakka-sutta.md): main shareable translation text
 - [mn148-chachakka-sutta-notes.md](mn148-chachakka-sutta-notes.md): companion translator notes and rationale
 
+Current SN 12.11 surfaces:
+
+- [sn12-11-ahara-sutta.md](sn12-11-ahara-sutta.md): main shareable translation text
+- [sn12-11-ahara-sutta-notes.md](sn12-11-ahara-sutta-notes.md): companion translator notes and rationale
+
 Current SN 12.15 surfaces:
 
 - [sn12-15-kaccanagotta-sutta.md](sn12-15-kaccanagotta-sutta.md): main shareable translation text

@@ -78,6 +78,12 @@ volume.
   headword default once it governs a text where the four nutriments are the
   subject rather than a simile; and record the relationship between the
   headword default and the `SN 46.51` local override explicitly.
+- Status: translated. See [SN 12.11](translations/sn12-11-ahara-sutta.md) and
+  its [translation notes](translations/sn12-11-ahara-sutta-notes.md).
+  `nutriment` did survive as the headword default. The notes flag that
+  `dukkhakkhandha` is ungoverned and rendered inconsistently between SN 12.2
+  and SN 12.15, and that the fourfold source question is a candidate for a
+  formula record.
 
 ### 2. SN 55.5
 
