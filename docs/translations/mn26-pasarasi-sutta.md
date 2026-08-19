@@ -564,9 +564,9 @@ connected to sensual pleasure, arousing. These are the five strands of sensual
 pleasure.
 
 Those recluses or brahmins who indulge in these five strands of sensual
-pleasure tied, infatuated, and immersed in them, not seeing the danger,
-without the discernment of escape — they should be understood as: having met
-with calamity and disaster, subject to the Wicked One's will.
+pleasure tied, infatuated, and immersed in them, not seeing the danger, without
+the discernment of escape — they should be understood as: having met with
+calamity and disaster, subject to the Wicked Their will.
 
 Suppose a wild deer was lying in the wilderness caught on a heap of snares. It
 should be understood as: having met with calamity and disaster, subject to the
@@ -575,12 +575,12 @@ hunter's will. And when the hunter arrives, it cannot go wherever it wishes.
 In the same way, those recluses or brahmins who indulge in these five strands
 of sensual pleasure tied, infatuated, and immersed in them, not seeing the
 danger, without the discernment of escape — they should be understood as:
-having met with calamity and disaster, subject to the Wicked One's will.
+having met with calamity and disaster, subject to the Wicked Their will.
 
 Those recluses or brahmins, however, who indulge in these five strands of
 sensual pleasure without being tied, infatuated, or immersed in them, seeing
 the danger, with the discernment of escape — they should be understood as:
-having not met with calamity and disaster, not subject to the Wicked One's
+having not met with calamity and disaster, not subject to the Wicked Their
 will.
 
 Suppose a wild deer was lying in the wilderness on a heap of snares without
@@ -591,7 +591,7 @@ can go wherever it wishes.
 In the same way, those recluses or brahmins who indulge in these five strands
 of sensual pleasure without being tied, infatuated, or immersed in them, seeing
 the danger, with the discernment of escape — they should be understood as:
-having not met with calamity and disaster, not subject to the Wicked One's
+having not met with calamity and disaster, not subject to the Wicked Their
 will.
 
 Suppose a wild deer were wandering in the forest, walking, standing, sitting,
@@ -664,10 +664,10 @@ neither-recognition-nor-non-recognition, a bhikkhu enters and remains in the
 cessation of recognition and felt experience. And having seen with discernment,
 their outflows are exhausted.
 
-This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
-a trace, and to have gone where the Wicked One cannot see. They have crossed
-over the world's entanglement. They walk, stand, sit, and lie down in
-confidence. Why? Because they are beyond the Wicked One's range."
+This bhikkhu is said to have blinded Māra, to have put out Māra's eye without a
+trace, and to have gone where the Wicked One cannot see. They have crossed over
+the world's entanglement. They walk, stand, sit, and lie down in confidence.
+Why? Because they are beyond the Wicked Their range."
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
 Buddha's words.

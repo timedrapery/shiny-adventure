@@ -61,7 +61,7 @@ Then the king said to him, "My dear Jīvaka, why are you silent?"
 staying in my mango grove together with a large Saṅgha of 1,250 bhikkhus.
 He has this good reputation:
 
-'That Blessed One is the arahant, the fully awakened Buddha, accomplished in
+'That Blessed They are the arahant, the fully awakened Buddha, accomplished in
 knowledge and conduct, holy, knower of the world, unsurpassed guide for those
 fit for training, teacher of gods and humans, awakened, blessed.'
 
@@ -275,12 +275,12 @@ seat and left."
 
 He said:
 
-'Great king, consider a Nigaṇṭha restrained by a fourfold restraint. And how
-is a Nigaṇṭha restrained by a fourfold restraint? One is restrained in all
-that should be restrained, bridled in all that should be bridled, washed of
-evil in all that should be washed, and checked in all that should be checked.
-When restrained by this fourfold restraint, one is called knotless,
-self-mastered, self-controlled, and steadfast.'
+'Great king, consider a Nigaṇṭha restrained by a fourfold restraint. And how is
+a Nigaṇṭha restrained by a fourfold restraint? They are restrained in all that
+should be restrained, bridled in all that should be bridled, washed of evil in
+all that should be washed, and checked in all that should be checked. When
+restrained by this fourfold restraint, they are called knotless, self-mastered,
+self-controlled, and steadfast.'
 
 So when I asked Nigaṇṭha Nātaputta about a fruit of the ascetic life visible
 in this very life, he answered with the fourfold restraint. It was like
@@ -382,7 +382,7 @@ robes, and go forth from the lay life to homelessness?'
 After some time, suppose that person gives up a small or great fortune, gives
 up a small or great circle of relatives, shaves off hair and beard, puts on
 ocher robes, and goes forth from the lay life to homelessness. Having gone
-forth, one lives restrained in body, speech, and mind, content with nothing
+forth, they live restrained in body, speech, and mind, content with nothing
 more than robes and almsfood, delighting in seclusion.
 
 If your men reported this to you, would you say:
@@ -426,7 +426,7 @@ good in the middle, and good in the end, meaningful and well-phrased. He
 reveals a spiritual life that is completely full and pure.
 
 A householder, a householder's child, or someone born in a good family hears
-that Dhamma. Hearing it, they gain confidence in the Tathāgata and reflects:
+that Dhamma. Hearing it, they gain confidence in the Tathāgata and reflect:
 
 'Life at home is crowded and dusty. Going forth is wide open. It is not easy
 for one living at home to live the spiritual life utterly full and pure, as
@@ -437,9 +437,9 @@ After some time, they give up a small or great fortune, gives up a small or
 great circle of relatives, shaves off hair and beard, puts on ocher robes, and
 goes forth from the lay life to homelessness.
 
-Once gone forth, one lives restrained by restraint in the pātimokkha, of good
+Once gone forth, they live restrained by restraint in the pātimokkha, of good
 conduct and proper resort, seeing danger in the slightest fault, training by
-undertaking the training rules. One acts skillfully by body and speech, is
+undertaking the training rules. They act skillfully by body and speech, is
 purified in livelihood, accomplished in conduct, guards the faculties, has
 remembering and clear knowing, and is content.
 
@@ -447,7 +447,7 @@ remembering and clear knowing, and is content.
 
 And how, great king, is a bhikkhu accomplished in conduct?
 
-One gives up:
+They give up:
 
 - killing living beings, setting aside rod and sword, living scrupulous and
   kind, full of sympathy for all living beings
@@ -466,7 +466,7 @@ One gives up:
   line with the Dhamma and training, words worth treasuring, timely,
   measured, and useful
 
-One refrains from:
+They refrain from:
 
 - injuring seeds and plants
 - eating at the wrong time, taking one meal a day and not eating at night
@@ -539,23 +539,23 @@ conduct.
 
 And how does a bhikkhu guard the faculties?
 
-When seeing a visible form with the eye, one does not get caught up in its
+When seeing a visible form with the eye, they do not get caught up in its
 features and details. If the eye-faculty were left unguarded, harmful and
-unwholesome states of coveting and distress would flood in. So one practices
-restraint, guards the eye-faculty, and reaches restraint with regard to it.
+unwholesome states of coveting and distress would flood in. So they practice
+restraint, guard the eye-faculty, and reach restraint with regard to it.
 
 The same applies when hearing a sound with the ear, smelling an odor with the
 nose, tasting a flavor with the tongue, experiencing a touch with the body,
 and knowing a dhamma with the mind.
 
-When one has this noble guarding of the faculties, one experiences unsullied
+When they have this noble guarding of the faculties, they experience unsullied
 ease within. That is how a bhikkhu guards the faculties.
 
 ### Remembering and Clear Knowing
 
 And how does a bhikkhu have remembering and clear knowing?
 
-One acts with clear knowing when going forward and coming back, when looking
+They act with clear knowing when going forward and coming back, when looking
 ahead and looking away, when bending and stretching, when carrying outer robe,
 bowl, and robes, when eating, drinking, chewing, and tasting, when urinating
 and defecating, when walking, standing, sitting, falling asleep, waking,
@@ -567,14 +567,14 @@ That is how a bhikkhu has remembering and clear knowing.
 
 And how is a bhikkhu content?
 
-One is content with robes to protect the body and with almsfood to support the
-belly. Wherever one goes, one sets out taking only these along.
+They are content with robes to protect the body and with almsfood to support
+the belly. Wherever they go, they set out taking only these along.
 
 It is like a bird: wherever it flies, it goes carrying only its wings.
 
 In the same way, a bhikkhu is content with robes to protect the body and with
-almsfood to support the belly. Wherever one goes, one sets out taking only
-these along.
+almsfood to support the belly. Wherever they go, they set out taking only these
+along.
 
 That is how a bhikkhu is content.
 
@@ -587,7 +587,7 @@ tree, a mountain, a ravine, a hillside cave, a charnel ground, a forest
 thicket, the open air, or a heap of straw.
 
 After returning from almsround, after the meal, they sit down cross-legged,
-keeps the body upright, and establishes remembering in front of them.
+keep the body upright, and establish remembering in front of them.
 
 Giving up coveting for the world, they stay with a mind free of coveting,
 cleansing the mind of coveting.
@@ -634,9 +634,9 @@ Quite secluded from sensuality, secluded from unwholesome dhammas, a bhikkhu
 enters and remains in the first mental theme, with thinking and pondering,
 with delight and ease born of seclusion.
 
-One drenches, steeps, fills, and suffuses this very body with delight and
-ease born of seclusion, so that no part of the whole body remains untouched by
-delight and ease born of seclusion.
+They drench, steep, fill, and suffuse this very body with delight and ease born
+of seclusion, so that no part of the whole body remains untouched by delight
+and ease born of seclusion.
 
 It is like a skilled bath attendant or apprentice who would pour bath powder
 into a bronze bowl and knead it, sprinkling it little by little with water,
@@ -656,9 +656,9 @@ unification of mind, a bhikkhu enters and remains in the second mental theme,
 without thinking and pondering, with delight and ease born of mental
 composure.
 
-One drenches, steeps, fills, and suffuses this very body with delight and ease
-born of mental composure, so that no part of the whole body remains untouched
-by delight and ease born of mental composure.
+They drench, steep, fill, and suffuse this very body with delight and ease born
+of mental composure, so that no part of the whole body remains untouched by
+delight and ease born of mental composure.
 
 It is like a deep lake fed by spring water, with no inlet from east, west,
 north, or south, and with the heavens not sending rain from time to time; yet
@@ -675,11 +675,11 @@ life, better and finer than the former ones.
 ### The Third Mental Theme
 
 With the fading of delight, a bhikkhu remains in dynamic balance, remembering
-and clearly knowing, and experiences ease in the body. One enters and remains
-in the third mental theme, of which the noble ones say:
-'One of dynamic balance and remembering stays at ease.'
+and clearly knowing, and experiences ease in the body. They enter and remain in
+the third mental theme, of which the noble ones say: 'One of dynamic balance
+and remembering stays at ease.'
 
-One drenches, steeps, fills, and suffuses this very body with ease free from
+They drench, steep, fill, and suffuse this very body with ease free from
 delight, so that no part of the whole body remains untouched by ease free from
 delight.
 
@@ -701,7 +701,7 @@ gladness and sadness, a bhikkhu enters and remains in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-One sits suffusing this very body with a pure and bright mind, so that no part
+They sit suffusing this very body with a pure and bright mind, so that no part
 of the whole body remains untouched by a pure and bright mind.
 
 It is like a person sitting wrapped from head to foot in a white cloth, so
@@ -719,11 +719,10 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward knowledge and seeing.
 
-One understands:
-'This body of mine is form, made of the four principal states, produced by
-mother and father, built up from rice and porridge, liable to impermanence,
-wearing away, erosion, breaking, and destruction. And this knowing of mine is
-supported here and tied to it.'
+They understand: 'This body of mine is form, made of the four principal states,
+produced by mother and father, built up from rice and porridge, liable to
+impermanence, wearing away, erosion, breaking, and destruction. And this
+knowing of mine is supported here and tied to it.'
 
 It is like a beryl gem, beautiful, eight-faceted, well-worked, transparent,
 clear, and flawless, strung with a blue, yellow, red, white, or brown thread.
@@ -744,8 +743,8 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward creating a mind-made body.
 
-From this body one creates another body, formed, mind-made, complete in all
-its larger and smaller limbs, lacking no faculty.
+From this body they create another body, formed, mind-made, complete in all its
+larger and smaller limbs, lacking no faculty.
 
 It is like drawing:
 
@@ -753,10 +752,10 @@ It is like drawing:
 - a sword from its scabbard
 - a snake from its slough
 
-In each case one can see that the two are different, and that one has been
+In each case they can see that the two are different, and that they have been
 drawn out from the other.
 
-In the same way, from this body one creates another body, formed, mind-made,
+In the same way, from this body they create another body, formed, mind-made,
 complete in all its larger and smaller limbs, lacking no faculty.
 
 This too, great king, is a fruit of the ascetic life visible in this very
@@ -768,7 +767,7 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward psychic power.
 
-One wields many kinds of psychic power:
+They wield many kinds of psychic power:
 
 - becoming one from many, and many from one
 - appearing and disappearing
@@ -836,8 +835,8 @@ and they understand:
 
 It is like a young woman or man, youthful and fond of adornment, examining
 their own face in a bright mirror or a clear bowl of water. If there were a
-blemish, one would know: 'There is a blemish in me.' If there were no blemish,
-one would know: 'There is no blemish in me.'
+blemish, they would know: 'There is a blemish in me.' If there were no blemish,
+they would know: 'There is no blemish in me.'
 
 In the same way, a bhikkhu understands the minds of other beings and
 individuals after encompassing them with their own mind.
@@ -851,18 +850,17 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward recollecting past lives.
 
-One recollects many kinds of past lives: one birth, two births, three births,
-four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a
-hundred thousand; many eons of world-contraction, many eons of
-world-expansion, many eons of world-contraction and expansion.
+They recollect many kinds of past lives: one birth, two births, three births,
+four, five, ten, twenty, thirty, forty, fifty, a hundred, a thousand, a hundred
+thousand; many eons of world-contraction, many eons of world-expansion, many
+eons of world-contraction and expansion.
 
-One remembers:
-'There I was named this, of such a clan, with such an appearance; that was my
-food, that was how I experienced pleasure and pain, that was the span of my
-life. Passing away from there, I was reborn elsewhere. There too I was named
-this, of such a clan, with such an appearance; that was my food, that was how
-I experienced pleasure and pain, that was the span of my life. Passing away
-from there, I was reborn here.'
+They remember: 'There I was named this, of such a clan, with such an
+appearance; that was my food, that was how I experienced pleasure and pain,
+that was the span of my life. Passing away from there, I was reborn elsewhere.
+There too I was named this, of such a clan, with such an appearance; that was
+my food, that was how I experienced pleasure and pain, that was the span of my
+life. Passing away from there, I was reborn here.'
 
 That is how they recollect many kinds of past lives, with aspects and
 particulars.
@@ -888,7 +886,7 @@ turns it toward the knowledge of the passing away and reappearance of beings.
 
 With the purified divine eye, beyond the human, they see beings passing away
 and reappearing, low and high, beautiful and ugly, in good destinations and bad
-destinations. One understands beings as moving on according to their kamma:
+destinations. They understand beings as moving on according to their kamma:
 
 'These beings did bad things by body, speech, and mind. They criticized the
 noble ones, held wrong view, and acted from wrong view. When the body broke
@@ -940,9 +938,8 @@ sensuality, the outflow of becoming, and the outflow of ignorance.
 When it is freed, there comes the knowledge:
 'It is freed.'
 
-One discerns:
-'Birth is worn away, the spiritual life has been lived, what had to be done
-has been done, there is no more of this state of being.'
+They discern: 'Birth is worn away, the spiritual life has been lived, what had
+to be done has been done, there is no more of this state of being.'
 
 It is like a mountain lake, transparent, clear, and stainless. A person with
 clear eyesight standing on the shore would see shells, gravel, and schools of

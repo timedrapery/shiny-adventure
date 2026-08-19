@@ -129,28 +129,28 @@ heedlessness as a corruption of the feeling mind.
 
 "When a bhikkhu has known, 'Covetous distorted greed is a corruption of the
 feeling mind,' and covetous distorted greed has been abandoned as a corruption
-of the feeling mind; when ill will, anger, resentment, contempt, rivalry,
-envy, stinginess, deceit, fraudulence, stubbornness, contentious aggression,
-conceit, inflated conceit, arrogant intoxication, and heedlessness have each
-been known and abandoned as corruptions of the feeling mind, then one is
-equipped with verified confidence in the Buddha:
+of the feeling mind; when ill will, anger, resentment, contempt, rivalry, envy,
+stinginess, deceit, fraudulence, stubbornness, contentious aggression, conceit,
+inflated conceit, arrogant intoxication, and heedlessness have each been known
+and abandoned as corruptions of the feeling mind, then they are equipped with
+verified confidence in the Buddha:
 
-'That Blessed One is the arahant, the fully awakened Buddha, accomplished in
+'That Blessed They are the arahant, the fully awakened Buddha, accomplished in
 knowledge and conduct, holy, knower of the world, unsurpassed guide for those
 fit for training, teacher of gods and humans, awakened, blessed.'
 
-"One is equipped with verified confidence in the Dhamma:
+"They are equipped with verified confidence in the Dhamma:
 
 'The Dhamma is well taught by the Buddha, visible here and now,
 timeless, come and see, leading onward, to be known personally by the wise.'
 
-"One is equipped with verified confidence in the Saṅgha:
+"They are equipped with verified confidence in the Saṅgha:
 
-'The Buddha's Saṅgha of disciples is practicing well, practicing
-straight, practicing the proper way, and practicing rightly; that is, the four
-pairs of persons, the eight kinds of individuals. This Blessed One's Saṅgha
-of disciples is worthy of offerings, hospitality, gifts, and reverential
-greeting, the unsurpassed field of merit for the world.'
+'The Buddha's Saṅgha of disciples is practicing well, practicing straight,
+practicing the proper way, and practicing rightly; that is, the four pairs of
+persons, the eight kinds of individuals. This Blessed Their Saṅgha of disciples
+is worthy of offerings, hospitality, gifts, and reverential greeting, the
+unsurpassed field of merit for the world.'
 
 "To the extent that this has been given up, thrown out, released, abandoned,
 and relinquished, they think:
@@ -233,7 +233,7 @@ oppression.
 
 ### Release Through Knowing
 
-"One discerns:
+"They discern:
 
 'There is this. There is what is low. There is what is refined. There is an
 escape beyond this field reached by recognition.'
@@ -244,9 +244,8 @@ outflow, from the outflow of becoming, and from the outflow of ignorance.
 When it is released, there is the knowledge:
 'It is released.'
 
-One discerns:
-'Birth is worn away, the spiritual life has been lived, what had to be done
-has been done, there is no more of this state of being.'
+They discern: 'Birth is worn away, the spiritual life has been lived, what had
+to be done has been done, there is no more of this state of being.'
 
 "This is called, bhikkhus, a bhikkhu bathed by inner bathing."
 

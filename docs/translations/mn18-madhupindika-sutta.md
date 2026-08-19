@@ -45,12 +45,12 @@ leaning on his staff, and said to the Buddha:
 
 "What does the ascetic say? What does he declare?"
 
-"Friend, I speak in such a way that one does not stand quarreling with anyone
-in the world with its gods, Māras, and Brahmās, among this population with its
+"Friend, I speak in such a way that they do not stand quarreling with anyone in
+the world with its gods, Māras, and Brahmās, among this population with its
 ascetics and brahmins, its gods and humans. And I speak in such a way that
-recognitions do not underlie that brahmin living detached from
-sensuality, free from doubt, with uncertainty cut off, with ignorant wanting
-worn away in every kind of becoming.
+recognitions do not underlie that brahmin living detached from sensuality, free
+from doubt, with uncertainty cut off, with ignorant wanting worn away in every
+kind of becoming.
 
 That is what I say, friend; that is what I declare."
 
@@ -243,13 +243,12 @@ That is what it means. That is how you should remember it."
 
 When this was said, venerable Ānanda said to the Buddha:
 
-"Bhante, it is as though a person weak with hunger were to obtain a honey
-ball. Wherever one might taste it, one would get only a sweet, delicious
-flavor.
+"Bhante, it is as though a person weak with hunger were to obtain a honey ball.
+Wherever they might taste it, they would get only a sweet, delicious flavor.
 
 In the same way, wherever a capable bhikkhu were to examine with discernment
-the meaning of this dhamma exposition, one would get only gladness and
-clarity of mind.
+the meaning of this dhamma exposition, they would get only gladness and clarity
+of mind.
 
 What is the name of this dhamma exposition, bhante?"
 

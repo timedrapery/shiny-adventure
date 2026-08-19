@@ -57,57 +57,57 @@ state, and saṃsāra.
 ### The Conditional Chain
 
 "If, when asked, 'Is there ageing and dying because of this conditionality?'
-one should answer, 'There is.'
+they should answer, 'There is.'
 
-If they ask, 'With what as condition is there ageing and dying?' one should
+If they ask, 'With what as condition is there ageing and dying?' they should
 answer, 'With birth as condition, ageing and dying.'
 
-If, when asked, 'Is there birth because of this conditionality?' one should
+If, when asked, 'Is there birth because of this conditionality?' they should
 answer, 'There is.'
 
-If they ask, 'With what as condition is there birth?' one should answer, 'With
+If they ask, 'With what as condition is there birth?' they should answer, 'With
 becoming as condition, birth.'
 
-If, when asked, 'Is there becoming because of this conditionality?' one should
+If, when asked, 'Is there becoming because of this conditionality?' they should
 answer, 'There is.'
 
-If they ask, 'With what as condition is there becoming?' one should answer,
+If they ask, 'With what as condition is there becoming?' they should answer,
 'With taking personally as condition, becoming.'
 
 If, when asked, 'Is there taking personally because of this conditionality?'
-one should answer, 'There is.'
+they should answer, 'There is.'
 
-If they ask, 'With what as condition is there taking personally?' one should
+If they ask, 'With what as condition is there taking personally?' they should
 answer, 'With ignorant wanting as condition, taking personally.'
 
-If, when asked, 'Is there ignorant wanting because of this conditionality?' one
-should answer, 'There is.'
+If, when asked, 'Is there ignorant wanting because of this conditionality?'
+they should answer, 'There is.'
 
-If they ask, 'With what as condition is there ignorant wanting?' one should
+If they ask, 'With what as condition is there ignorant wanting?' they should
 answer, 'With felt experience as condition, ignorant wanting.'
 
-If, when asked, 'Is there felt experience because of this conditionality?' one
+If, when asked, 'Is there felt experience because of this conditionality?' they
 should answer, 'There is.'
 
-If they ask, 'With what as condition is there felt experience?' one should
+If they ask, 'With what as condition is there felt experience?' they should
 answer, 'With contact as condition, felt experience.'
 
-If, when asked, 'Is there contact because of this conditionality?' one should
+If, when asked, 'Is there contact because of this conditionality?' they should
 answer, 'There is.'
 
-If they ask, 'With what as condition is there contact?' one should answer,
+If they ask, 'With what as condition is there contact?' they should answer,
 'With name-and-form as condition, contact.'
 
-If, when asked, 'Is there name-and-form because of this conditionality?' one
+If, when asked, 'Is there name-and-form because of this conditionality?' they
 should answer, 'There is.'
 
-If they ask, 'With what as condition is there name-and-form?' one should
+If they ask, 'With what as condition is there name-and-form?' they should
 answer, 'With knowing as condition, name-and-form.'
 
-If, when asked, 'Is there knowing because of this conditionality?' one should
+If, when asked, 'Is there knowing because of this conditionality?' they should
 answer, 'There is.'
 
-If they ask, 'With what as condition is there knowing?' one should answer,
+If they ask, 'With what as condition is there knowing?' they should answer,
 'With name-and-form as condition, knowing.'
 
 So, Ānanda:
@@ -421,7 +421,7 @@ birth, ageing and dying, and dissatisfaction be found?"
 "Therefore, Ānanda, this is the cause, this is the source, this is the origin,
 this is the condition for knowing, namely name-and-form.
 
-To this extent, Ānanda, one may be born, age, die, pass away, or reappear.
+To this extent, Ānanda, they may be born, age, die, pass away, or reappear.
 
 To this extent there is the path of designation, the path of expression, the
 path of concept, and the field of discernment. To this extent the round turns
@@ -432,19 +432,19 @@ knowing, proceeding by mutual conditionality.
 
 "And to what extent, Ānanda, does one designate a self?
 
-One designates a self with form and limited:
+They designate a self with form and limited:
 
 'My self has form and is limited.'
 
-One designates a self with form and infinite:
+They designate a self with form and infinite:
 
 'My self has form and is infinite.'
 
-One designates a formless self and limited:
+They designate a formless self and limited:
 
 'My self is formless and limited.'
 
-One designates a formless self and infinite:
+They designate a formless self and infinite:
 
 'My self is formless and infinite.'
 
@@ -476,25 +476,25 @@ way in the present, or designates it that way in the future, or thinks,
 In this case, it is enough to say that a view of an infinite formless self lies
 underneath.
 
-To this extent, Ānanda, one designates a self.
+To this extent, Ānanda, they designate a self.
 
 ### Not Designating a Self
 
 "And to what extent, Ānanda, does one not designate a self?
 
-One does not designate a self with form and limited:
+They do not designate a self with form and limited:
 
 'My self has form and is limited.'
 
-One does not designate a self with form and infinite:
+They do not designate a self with form and infinite:
 
 'My self has form and is infinite.'
 
-One does not designate a formless self and limited:
+They do not designate a formless self and limited:
 
 'My self is formless and limited.'
 
-One does not designate a formless self and infinite:
+They do not designate a formless self and infinite:
 
 'My self is formless and infinite.'
 
@@ -527,7 +527,7 @@ does not think, 'Although it is not like that, I will make it be like that.'
 In this case, it is enough to say that a view of an infinite formless self does
 not lie underneath.
 
-To this extent, Ānanda, one does not designate a self.
+To this extent, Ānanda, they do not designate a self.
 
 ### Regarding a Self
 
@@ -630,13 +630,13 @@ feels, for my self has the nature of felt experience.'
 "When, Ānanda, a bhikkhu does not regard felt experience as self, does not
 regard a self that does not feel, and does not regard self in this way - 'My
 self feels, for my self has the nature of felt experience' - then, not
-regarding in this way, one does not take anything personally in the world.
+regarding in this way, they do not take anything personally in the world.
 
-Not taking anything personally, one is not agitated.
+Not taking anything personally, they are not agitated.
 
 Not agitated, one personally reaches final nibbāna.
 
-One discerns:
+They discern:
 
 'Birth is worn away. The holy life has been lived. What had to be done has
 been done. There is no more of this state of being.'
@@ -716,7 +716,7 @@ neither-recognition-nor-non-recognition are the two fields.
 diverse in recognition, such as humans, some devas, and some beings in downfall
 states.
 
-If one discerns this, discerns its arising, discerns its vanishing, discerns
+If they discern this, discerns its arising, discerns its vanishing, discerns
 its gratification, discerns its danger, and discerns its escape, is it fit to
 delight in it?"
 
@@ -726,7 +726,7 @@ delight in it?"
 
 And here, Ānanda, there is the field of non-recognizing beings.
 
-If one discerns this, discerns its arising, discerns its vanishing, discerns
+If they discern this, discerns its arising, discerns its vanishing, discerns
 its gratification, discerns its danger, and discerns its escape, is it fit to
 delight in it?"
 
@@ -735,7 +735,7 @@ delight in it?"
 "And here, Ānanda, there is the sphere of
 neither-recognition-nor-non-recognition.
 
-If one discerns this, discerns its arising, discerns its vanishing, discerns
+If they discern this, discerns its arising, discerns its vanishing, discerns
 its gratification, discerns its danger, and discerns its escape, is it fit to
 delight in it?"
 

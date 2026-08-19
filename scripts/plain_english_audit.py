@@ -31,16 +31,29 @@ SKIP_FILES = {"translation-documents.md"}
 
 # Signals are grouped so a reviewer can tell a hard register error (an artifact
 # of translation that Pali does not have) from a softer preference.
+# Words after `one` that mark it as a numeral or noun rather than a pronoun
+# standing in for a person.
+GENERIC_ONE_STOP = (
+    r"(?:of|or|and|another|who|whom|whose|kind|kinds|side|thing|things|day|days"
+    r"|year|years|arrow|arrows|feeling|feelings|direction|hand|in|at|on|to|for"
+    r"|by|with|from|was|were|among|alone)"
+)
+
+
 FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
-    # The negative lookbehind keeps `no one takes a life` out of the results.
-    # That is ordinary English, not the generic-person artifact.
+    # Structural rather than a verb list. An explicit list of verbs was tried
+    # first and missed roughly half the corpus: it caught `one recognizes` but
+    # not `one discerns`, `one cultivates`, `one fades`, or `one should`. The
+    # reliable signal is `one` standing as grammatical subject, which in English
+    # means it is followed by a third-person-singular verb or an auxiliary.
+    #
+    # GENERIC_ONE_STOP carries the legitimate uses, where `one` is a numeral or
+    # a noun: `one of them`, `one another`, `one kind of feeling`, `one arrow`,
+    # `one in the body`. The negative lookbehind keeps `no one takes a life`,
+    # which is ordinary English rather than the generic-person artifact.
     "generic one as subject": re.compile(
-        r"(?<!\bno )\bone (?:recognizes|perceives|knows|dwells|abides|sorrows|laments|feels|takes"
-        r"|delights|understands|conceives|attains|enters|remains|reflects|considers"
-        r"|regards|sees|hears|thinks|speaks|acts|trains|develops|abandons|gives"
-        # Added after these slipped through a full rollout: the four-truths
-        # formula carried `not getting what one wants` across four surfaces.
-        r"|wants|wishes|likes|dislikes|obtains|gains|holds|clings|seeks|finds)\b"
+        rf"(?<!\bno )\bone\s+(?!{GENERIC_ONE_STOP}\b)"
+        r"(?:[a-z]+(?:s|es)\b|is\b|has\b|does\b|will\b|would\b|should\b|can\b|must\b)"
     ),
     "generic one possessive": re.compile(r"\bone's\b"),
     "generic oneself": re.compile(r"\boneself\b"),

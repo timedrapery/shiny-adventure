@@ -552,9 +552,8 @@ Todeyya's son, coming in the distance and said:
 "What do you think, Master Bhāradvāja? Do you consider the ascetic Gotama
 wise in his clarity of understanding?"
 
-"Good man, who am I to know the clarity of understanding of the ascetic
-Gotama? One would have to be like him to know the clarity of his
-understanding."
+"Good man, who am I to know the clarity of understanding of the ascetic Gotama?
+They would have to be like him to know the clarity of his understanding."
 
 "Master Bhāradvāja praises the ascetic Gotama with high praise indeed."
 
