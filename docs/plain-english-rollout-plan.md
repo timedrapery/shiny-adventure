@@ -10,31 +10,55 @@ rereading the commit history. The standard says what good English looks like.
 This document says what was done, what was deliberately left alone, and how
 to do the same kind of work safely next time.
 
-Last updated 2026-08-19. Rollout completed the same day.
+Last updated 2026-08-19. The rollout is complete; what remains here is the
+working method, the traps, and the decisions that were deliberately deferred.
+Read it before touching a translation surface or extending the audit.
 
 ## Current State
 
-**The rollout is complete.** Every translation surface and every reader page
-has been brought up to the standard.
+The rollout is complete across all 41 translation surfaces and all 5 reader
+pages.
 
-- 37 of 37 translation surfaces carry no undocumented register signals.
-- 5 of 5 reader pages match their governed surfaces.
-- Corpus total has gone 680 to 8, and all 8 remaining signals are the
-  documented exceptions listed under Deliberately Deferred below.
-
-Check the live number at any time:
+- 41 of 41 surfaces carry no undocumented register signals.
+- 5 of 5 reader pages match their governed surfaces, enforced by
+  `scripts/sync_reader_pages.py --check` inside `run_checks.py`.
+- The audit reports 8 signals, and all 8 are the documented exceptions listed
+  under Deliberately Deferred below.
 
 ```bash
 python scripts/plain_english_audit.py
 ```
 
-Expect 8. If the number is higher, something has regressed or a new surface has
-been added; if it is lower, one of the deferred decisions has been settled and
-this document needs updating.
+Expect 8. Higher means a regression or a new surface; lower means one of the
+deferred decisions has been settled and this document needs updating.
 
-The remaining 8 are: six occurrences of `recognition of unattractiveness`
-across the two AN 10.60 files, one `one who` in MN 38 naming a referent, and
-one `duality of existence` in SN 12.15. None is a defect.
+The 8 are: six occurrences of `recognition of unattractiveness` across the two
+AN 10.60 files, one `one who` in MN 38 naming a referent, and one `duality of
+existence` in SN 12.15. None is a defect.
+
+### This Document Has Claimed Completion Once Before, Wrongly
+
+On 2026-08-19 this section said the rollout was complete at 8 signals. That
+number was an artifact of the detector, not a fact about the corpus.
+
+The audit found the generic person with an explicit **list of verbs**, and the
+list covered roughly half the real cases. It caught `one recognizes` but not
+`one discerns`, `one cultivates`, `one fades`, `one reaches`, or `one should`.
+Rerunning with a structural rule found **111 further instances across twelve
+surfaces** that a "complete" rollout had never touched.
+
+The rule is now structural: `one` is flagged when it stands as grammatical
+subject, meaning it is followed by a third-person-singular verb or an
+auxiliary, with a stoplist for the legitimate numeral and noun uses. That does
+not depend on anyone having anticipated the verb.
+
+Three separate times a miss turned out to be in the detector rather than the
+corpus. The first two were patched by adding verbs to the list. Do not do that
+again; if something is missed, ask whether the rule is the wrong shape.
+
+**The general lesson, which applies beyond this rollout: a clean report proves
+the detector found nothing, not that nothing is there.** Before trusting a zero,
+check what the detector is actually looking for.
 
 ## The Thing That Keeps Biting
 
@@ -103,20 +127,35 @@ python scripts/sync_reader_pages.py --write
 
 ## Surfaces Completed
 
-All 37, in this order:
+All 41. The five Wave 6 surfaces (SN 12.11, SN 55.5, AN 6.63, SN 12.61, MN 11)
+were written to the standard from the start and needed no retrofit, which is
+the intended pattern for everything new.
 
-1. MN 1, SN 36.6
-2. DN 2, DN 15, MN 7, MN 22
-3. MN 10, MN 117, MN 137, MN 38, MN 118, MN 18, MN 26
-4. AN 3.65, MN 44, MN 2, MN 64
-5. AN 10.60 (both filename variants), SN 12.15, SN 12.23, SN 22.89, MN 141,
-   MN 148, MN 99, MN 19, MN 39
+Note that AN 10.60 exists as two files, an ASCII-named one and a Unicode-named
+one that is allowlisted in `scripts/check_docs_integrity.py`. Both need the
+same edit. Any future surface work has to remember this.
 
-The rest were already clean when the standard was written.
+## Two Traps In The Tooling
 
-Note that AN 10.60 exists as two files, an ASCII-named one and a
-Unicode-named one that is allowlisted in `scripts/check_docs_integrity.py`.
-Both were edited. Any future surface work has to remember this.
+Both were found the hard way and both damaged committed work.
+
+**The paragraph rewriter merges adjacent list items.** The helper used for
+these passes treats a block between blank lines as one paragraph and re-wraps
+it. Where a bulleted list has no blank line between items, it flattens the
+list into running prose. This silently destroyed MN 118's breath-training
+bullets in commit `7819ad5` and was not noticed until three commits later,
+because **no check looks at list structure**. When rewriting a file with
+lists, convert line by line instead, and check afterwards:
+
+```bash
+grep -rn "[a-z.,'] - [A-Z]" docs/translations/
+```
+
+**Line-wrapped occurrences hide from line-by-line passes.** Surfaces are
+hard-wrapped at 79 columns, so `one` can sit at the end of one line with its
+verb at the start of the next. A line-by-line substitution misses those
+entirely. Handle them with a pattern that allows a newline and indent between
+the two words, and preserve that whitespace so the wrap survives.
 
 ## Deliberately Deferred
 
@@ -175,23 +214,45 @@ decision about the middle-way formula, not a register fix.
 
 ## Open Items Beyond This Rollout
 
-- **Wave 6 translations.** Queue is drafted in
-  [next-suttas-roadmap.md](next-suttas-roadmap.md), starting with SN 12.11.
-  New surfaces should be written to the plain English standard from the start;
-  anything translated in the old register becomes future rollout work.
-- **`HIGH_LOAD_MINOR_LINT_THRESHOLD`.** Currently 9 in
-  `scripts/lint_terms.py`. The queue it guards is empty, so dropping it to 7
-  would make the standard enforced rather than advisory. It would bind future
-  entries too, so it is a deliberate call.
+- **The four `upadana` compounds are not consistent with each other.** Two
+  render the head as `taking ... personally`, matching the headword; two use
+  `clinging`, which the headword records only as an alternate. The
+  `ditthupadana` notes show the family revision was started and left half
+  finished. Completing it touches two records, three surfaces (DN 15, MN 9,
+  SN 12.2), their notes, and the generated cluster sheets. This is the largest
+  open lexical question and it is well evidenced; see
+  [translations/mn11-culasihanada-sutta-notes.md](translations/mn11-culasihanada-sutta-notes.md).
+- **The fourfold source question wants a formula record.** SN 12.11 and MN 11
+  now use identical wording for `kim nidana kim samudaya kim jatika kim
+  pabhava`. A third surface should not re-solve it.
+- **No check looks at list structure.** See the trap above. A small check that
+  flags a bullet marker appearing mid-line would have caught the MN 118
+  damage.
+- **11 `partial` and 147 `inflected` citations** remain from
+  `verify_example_sources.py`. Neither is reliably an error, but the `partial`
+  set is worth a pass; those are usually the right sutta quoted with slightly
+  wrong wording.
+- **Wave 7 is undrafted.** Worth re-running the audit method now that the
+  citation data is trustworthy: four of Wave 6's leverage signals turned out
+  wrong when checked against sources, all traceable to citations that have
+  since been repaired.
+- **`HIGH_LOAD_MINOR_LINT_THRESHOLD`** is still 9 in `scripts/lint_terms.py`.
+  The queue it guards is empty, so dropping it to 7 would make the standard
+  enforced rather than advisory.
 
 ## Definition of Done
 
-The rollout is finished when:
+All four conditions are currently met:
 
 - `python scripts/plain_english_audit.py` reports only signals that are
-  documented exceptions in this file
+  documented exceptions in this file — currently 8
 - no governed rendering in `terms/` carries the generic person, excluding
   epithet nouns such as `worthy one` and `Thus-Gone One`, where `one` is a
   noun meaning `person` rather than a pronoun stand-in
-- every reader page matches its governed surface
+- every reader page matches its governed surface, enforced by
+  `sync_reader_pages.py --check`
 - `python scripts/run_checks.py` passes
+
+Keeping them met is the ongoing job. Anything newly translated should be
+written to the standard from the start, which costs nothing extra and is what
+the five Wave 6 surfaces did.

@@ -10,6 +10,75 @@ The repo now has governed major-entry coverage, cluster audits, generated
 translator-facing outputs, and verified translation surfaces. The active task
 is to extend those assets deliberately while keeping them synchronized.
 
+## Start Here
+
+If you are picking this repository up cold, read these three in order:
+
+1. **[plain-english-rollout-plan.md](plain-english-rollout-plan.md)** — the
+   register standard's working method, the traps in the tooling, and the
+   lexical decisions deliberately deferred. Read before touching any
+   translation surface.
+2. **[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)** —
+   the completed-surface list and the active translation queue.
+3. This document's Open Work section below.
+
+Then run the full suite to confirm the machine is in a good state:
+
+```bash
+python scripts/run_checks.py
+```
+
+## State As Of 2026-08-19
+
+- 41 translation surfaces, Waves 1 through 6 complete.
+- 1,148 term records. `repo_health.py` reports no open backlog in any section.
+- Register audit: 8 signals, all documented exceptions in the rollout plan.
+- Citation sweep: 400 ok, 0 absent.
+- Reader pages: 5, all in sync and enforced by a check.
+
+## Open Work
+
+Ordered roughly by value, not urgency.
+
+### 1. Harmonise the four `upadana` compounds
+
+The largest open lexical question, and well evidenced. Two of the four render
+the head as `taking ... personally`, matching the `upadana` headword; two use
+`clinging`, which the headword records only as an alternate. The
+`ditthupadana` notes show the revision was started and left half finished.
+
+Completing it touches two term records, three surfaces (DN 15, MN 9, SN 12.2),
+their notes, and the generated cluster sheets. Full evidence is in
+[translations/mn11-culasihanada-sutta-notes.md](translations/mn11-culasihanada-sutta-notes.md).
+
+Revise the family in one pass. Half a family is worse than none.
+
+### 2. Promote the fourfold source question to a formula record
+
+`kim nidana kim samudaya kim jatika kim pabhava` now has identical wording in
+SN 12.11 and MN 11. A third surface should not re-solve it.
+
+### 3. Draft Wave 7
+
+Undrafted. Re-run the audit method in
+[next-suttas-roadmap.md](next-suttas-roadmap.md), which is now more
+trustworthy than it was: four of Wave 6's leverage signals turned out wrong
+when checked against sources, all traceable to citations that have since been
+repaired.
+
+### 4. Smaller items
+
+- Add a check for list-structure damage. A bullet marker appearing mid-line is
+  the signature; see the trap recorded in the rollout plan.
+- Work through the 11 `partial` citations from `verify_example_sources.py`.
+  Those are usually the right sutta quoted with slightly wrong wording.
+- Consider dropping `HIGH_LOAD_MINOR_LINT_THRESHOLD` from 9 to 7 in
+  `scripts/lint_terms.py`, now that the queue it guards is empty.
+- Several terms recur across surfaces while still ungoverned: `assutava` and
+  `sutava` (seven surfaces), `vemattata`, `kamaguna`, `attabhava`, `samisa`,
+  `niramisa`, `nittha`, `dukkhakkhandha`, and the `bhavaditthi` /
+  `vibhavaditthi` pair.
+
 ## Immediate Goal
 
 Move from foundational cluster buildout to **translation-surface expansion and
@@ -111,23 +180,6 @@ Current governed surfaces already include:
 - practice-text control surfaces
 - sensory-response control surfaces
 
-## Active Work
-
-The current active piece of work is the plain-English rollout: bringing the
-running text of every translation surface up to
-[PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md).
-
-[plain-english-rollout-plan.md](plain-english-rollout-plan.md) is the
-pick-up-here document for that work. It holds the current counts, the ordered
-list of remaining surfaces, the working procedure, and the list of lexical
-questions that were deliberately deferred rather than settled as a side effect
-of a register pass.
-
-Read it before touching a translation surface. In particular it records the
-failure mode that has already bitten twice: governed term records that
-themselves carry the translationese, so that fixing a surface breaks the check
-suite until the record is fixed too.
-
 ## Resolved Finding: Unverified Example Citations
 
 Found 2026-08-19 while translating SN 55.5, and resolved the same day. Recorded
@@ -203,7 +255,7 @@ were caught by hand instead. Do not read `inconclusive` as `fine`.
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
 - Use [next-suttas-roadmap.md](next-suttas-roadmap.md) as the source-of-truth ranked roadmap for the next outward-facing sutta additions, and use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view extracted from it.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
-- Waves 1 through 5 are complete at 36 surfaces. Wave 6 has not been drafted; running the audit method in [next-suttas-roadmap.md](next-suttas-roadmap.md) against the current 36-surface state is the prerequisite for naming the next queue.
+- Waves 1 through 6 are complete at 41 surfaces. Wave 7 has not been drafted; running the audit method in [next-suttas-roadmap.md](next-suttas-roadmap.md) against the current state is the prerequisite for naming the next queue. See Open Work above for why that audit is more trustworthy now than it was.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness

@@ -10,16 +10,18 @@ other repository-maintenance concerns rather than doctrinal judgment.
 
 ## Current Surface
 
-Counts refreshed 2026-08-19, after the reader's-edition prototype and the
-high-load minor `translation_policy` pass.
+Counts refreshed 2026-08-19, after Wave 6 and the plain-English rollout.
 
-- Term files: 1145
-- Major terms: 238
-- Minor terms: 907
-- Docs files in `docs/`: 204
+- Term files: 1148
+- Major terms: 239
+- Minor terms: 909
+- Docs files in `docs/`: 216
+- Translation surfaces: 41
 - Verification stack: passing
 - Draft major or minor entries: 0
 - Open `repo_health.py` backlog sections: none
+- Register audit: 8 signals, all documented exceptions
+- Example-citation sweep: 400 ok, 0 absent
 
 ## Findings
 
