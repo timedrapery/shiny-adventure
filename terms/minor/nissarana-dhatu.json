@@ -40,6 +40,12 @@
   "sutta_references": [
     "MN 137"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard rendering when a text explicitly names an element or domain of escape.",
+    "when_not_to_apply": "Do not upgrade escape into release, liberation, or freedom here, since those renderings belong to the vimutti family and are discouraged for nissaraṇa.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the escape family and the release family from merging, which would erase the boundary nissaraṇa and vimutti are governed to keep against each other."
+  },
   "tags": [
     "core-doctrine",
     "translation-sensitive",

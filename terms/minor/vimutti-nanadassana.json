@@ -32,6 +32,12 @@
   "sutta_references": [
     "MN 39"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard rendering when a text names the knowing and seeing that release has occurred, keeping vimutti as release and ñāṇadassana as knowing and seeing.",
+    "when_not_to_apply": "Do not inflate the compound into mystical-experience language, and reserve the knowledge-and-vision alternate for comparative or explanatory prose rather than direct translation.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents a specific attainment expression from becoming vague experience-language, and keeps vimutti from drifting into the freedom and escape renderings the headword discourages."
+  },
   "tags": [
     "core-doctrine",
     "core-practice",

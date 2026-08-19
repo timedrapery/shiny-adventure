@@ -73,14 +73,14 @@ The ranking weights four factors:
 
 ### 4. MN 63: Cūḷamālukya Sutta
 
-- Leverage signal: the poisoned arrow simile; the unanswered-questions
+- Leverage signal: the poisoned arrow simile; the undeclared-questions
   (`avyākata`) family; connects directly to MN 38's not-running-to-past/future
   passage and MN 26's conditional-knowing teaching.
 - Strengthens: the undeclared (`avyākata`) doctrinal family; the "poisoned
   arrow" simile for not letting metaphysical speculation block practice; the
   boundary between what the teaching covers and what it leaves aside.
 - Likely lexicon pressure: govern `avyākata` (undeclared / unrecorded) as a
-  minor entry; confirm the ten unanswered questions (`dasa avyākatavatthūni`)
+  minor entry; confirm the ten undeclared points (`dasa avyākatavatthūni`)
   as a formula record; and keep the simile from being read as
   anti-intellectual rather than practice-orienting.
 - Status: translated. See

@@ -41,6 +41,12 @@
   "sutta_references": [
     "SN 22.48"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard heading wording when a text introduces the five clung-to heaps and their enumeration.",
+    "when_not_to_apply": "Do not use this heading for the plain pañcakkhandhā enumeration, which is not marked for appropriation, and do not fall back to aggregates-of-attachment phrasing.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the appropriated heading from blurring against the unappropriated heaps and from drifting into aggregate-of-attachment language."
+  },
   "tags": [
     "aggregates",
     "formula",

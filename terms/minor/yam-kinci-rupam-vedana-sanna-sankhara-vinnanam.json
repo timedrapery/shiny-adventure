@@ -45,6 +45,12 @@
   "sutta_references": [
     "SN 22.59"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording when one coordinated formula is run across all five heaps, including the heap-context override that renders saṅkhārā as putting-together activities.",
+    "when_not_to_apply": "Do not use the familiar aggregate alternates in direct doctrinal translation, and do not retranslate the individual heap terms locally while the sweep is in progress.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the five-heap sweep from being solved heap by heap with drifting vocabulary, especially saṅkhārā, which would break the parallelism the not-self argument depends on."
+  },
   "tags": [
     "aggregates",
     "formula",
