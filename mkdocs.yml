@@ -1,0 +1,45 @@
+site_name: OSF Pali Readings
+site_description: >-
+  Reader's Edition prototype for the Open Sangha Foundation Pali Translation
+  Lexicon -- Early Buddhist sutta translations in plain, contemporary English.
+repo_url: https://github.com/timedrapery/shiny-adventure
+repo_name: timedrapery/shiny-adventure
+
+docs_dir: reader-src
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - content.tooltips
+    - navigation.instant
+    - navigation.top
+
+markdown_extensions:
+  - abbr
+  - attr_list
+  - pymdownx.snippets:
+      base_path:
+        - "."
+      auto_append:
+        - includes/glossary.md
+
+# includes/ is kept outside docs_dir (reader-src/) on purpose: MkDocs treats
+# every file under docs_dir as a page unless excluded, and the glossary file
+# is a snippet to be auto-appended, not a page of its own.
+watch:
+  - includes
+
+nav:
+  - Home: index.md
+  - Suttas:
+      - "MN 63: Culamalukya Sutta": suttas/mn63-culamalukya-sutta.md
