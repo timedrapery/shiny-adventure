@@ -27,13 +27,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "parinibbānadhātu",
-      "translation": "final nibbāna element",
-      "notes": "Keeps the compound tied to the parinibbāna family.",
-      "source": "AN 4.173"
+      "pali": "anupādisesā nibbānadhātu",
+      "translation": "the nibbana element without fuel remaining",
+      "notes": "Shows the canonical compound. Note that the source reads nibbānadhātu, not parinibbānadhātu.",
+      "source": "Iti 44"
     }
   ],
   "sutta_references": [
-    "AN 4.173"
+    "Iti 44"
   ]
 }

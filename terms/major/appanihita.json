@@ -59,15 +59,15 @@
       "source": "MN 43"
     },
     {
-      "pali": "appaṇihito vimokkho",
-      "translation": "the wishless release",
-      "notes": "Shows the headword's place within the coordinated release-side family.",
-      "source": "AN 3.32"
+      "pali": "appaṇihito samādhi",
+      "translation": "wishless composure",
+      "notes": "Shows the wishless member of the three-composure set.",
+      "source": "SN 43.4"
     }
   ],
   "sutta_references": [
     "MN 43",
-    "AN 3.32"
+    "SN 43.4"
   ],
   "tags": [
     "core-doctrine",

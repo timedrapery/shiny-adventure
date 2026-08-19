@@ -39,18 +39,18 @@
     {
       "pali": "issāmacchariya",
       "translation": "envy and stinginess",
-      "notes": "Common pair linking the term to macchariya.",
-      "source": "AN 5.229"
+      "notes": "Shows the governed pair as a single compound.",
+      "source": "DN 21"
     },
     {
-      "pali": "issā",
-      "translation": "envy",
-      "notes": "Shows a compact ethical use.",
-      "source": "AN 5.229"
+      "pali": "kismiṁ sati issāmacchariyaṁ hoti",
+      "translation": "when what exists does envy and stinginess come to be?",
+      "notes": "Shows the pair inside the conditional question that drives the discourse.",
+      "source": "DN 21"
     }
   ],
   "sutta_references": [
-    "AN 5.229"
+    "DN 21"
   ],
   "tags": [
     "mental-qualities",
