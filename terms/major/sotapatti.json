@@ -45,9 +45,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "sotāpattiphala",
-      "translation": "the fruit of stream-entry",
-      "notes": "Shows a compound that ties the term to path-result language.",
+      "pali": "sappurisasaṁsevo hi",
+      "translation": "keeping company with good persons",
+      "notes": "Shows the first of the four factors of stream-entry.",
       "source": "SN 55.5"
     },
     {
@@ -58,8 +58,7 @@
     }
   ],
   "sutta_references": [
-    "SN 55.5",
-    "SN 55.1"
+    "SN 55.5"
   ],
   "tags": [
     "core-doctrine",

@@ -48,21 +48,20 @@
   ],
   "example_phrases": [
     {
-      "pali": "anāgāmī",
-      "translation": "non-returner",
-      "notes": "Shows the headword in stage lists.",
+      "pali": "opapātiko hoti tattha parinibbāyī",
+      "translation": "is spontaneously reborn there and attains final nibbāna there",
+      "notes": "Shows how AN 3.86 names the non-returner: by the destiny rather than by the title.",
       "source": "AN 3.86"
     },
     {
-      "pali": "anāgāmimagga",
-      "translation": "the path of the non-returner",
-      "notes": "Shows a compound that links attainment-stage language to path language.",
-      "source": "SN 55.5"
+      "pali": "pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā",
+      "translation": "with the wearing away of the five lower fetters",
+      "notes": "Shows the condition that defines the non-returner in the same passage.",
+      "source": "AN 3.86"
     }
   ],
   "sutta_references": [
-    "AN 3.86",
-    "SN 55.5"
+    "AN 3.86"
   ],
   "tags": [
     "core-doctrine",

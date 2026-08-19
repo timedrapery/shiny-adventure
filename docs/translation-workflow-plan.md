@@ -128,80 +128,73 @@ failure mode that has already bitten twice: governed term records that
 themselves carry the translationese, so that fixing a surface breaks the check
 suite until the record is fixed too.
 
-## Open Finding: Unverified Example Citations
+## Resolved Finding: Unverified Example Citations
 
-Found 2026-08-19 while translating SN 55.5. This is the most serious data
-issue currently known, and it is not detectable by any check in the suite.
+Found 2026-08-19 while translating SN 55.5, and resolved the same day. Recorded
+because the failure mode is worth recognising again.
 
-Several `example_phrases` cite a `source` sutta that does not contain the Pali
-they quote. Verified against the Bilara source text:
+Several `example_phrases` cited a `source` sutta that did not contain the Pali
+they quoted. `lint_terms.py` checks that a reviewed or stable major entry *has*
+example sources; nothing checked that a cited source actually contains the
+cited text, so the errors were invisible.
 
-| Record | Cited source | Cited Pali | Present? |
-| --- | --- | --- | --- |
-| `sakadagami` | SN 55.5 | `sakadāgāmimagga` | no |
-| `anagami` | SN 55.5 | `anāgāmimagga` | no |
-| `phala` | SN 55.5 | `sotāpattiphala` | no |
-| `phala` | AN 6.63 | `kammassa phalaṁ` | no |
-| `sotapatti` | SN 55.5 | `sotāpattiphala` | no |
-| `sotapatti` | SN 55.5 | `sotāpattiyaṅgāni` | no, text has the singular |
-| `sotapanna` | SN 55.5 | `sotāpannassa` | no, text has `sotāpanno` |
+Twelve citations across nine records were wrong. Every one was a genuinely
+wrong citation rather than a numbering artefact: the off-by-N hypothesis was
+tested by probing plus or minus six around each cited number and found the
+phrase nowhere. The cited suttas were about other things -- AN 5.229 is five
+dangers in a black snake, AN 3.134 is three kinds of assembly, and AN 4.173
+contains no `dhatu` at all.
 
-SN 55.5 contains no `sakadāgām`, no `anāgām`, and no `phal` in any form.
-AN 6.63 uses `vipāka` throughout and never `phala`. `phala` therefore has no
-verified citation at all, and `anagami` has none either, since its other
-citation is AN 3.86, which also contains no `anāgām`.
+Every replacement was verified against the Bilara root text before being
+written:
 
-The two inflection mismatches have been corrected, because the right form was
-verifiable from the source. The rest are left in place and flagged, because
-picking a replacement source is an editorial decision and guessing one would
-repeat the original mistake.
-
-Why it matters beyond these records:
-
-- The Wave 6 ranking was built partly on this citation data, so its leverage
-  estimates were wrong. SN 55.5 was ranked for five orphan majors and actually
-  anchors two.
-- `lint_terms.py` checks that reviewed and stable major entries *have* example
-  sources. Nothing checks that a cited source contains the cited Pali.
-
-### The Tooling Now Exists
-
-`python scripts/verify_example_sources.py` fetches the Bilara root text for
-each cited sutta and reports whether the quoted Pali is there. It is opt-in
-rather than part of `run_checks.py`, because it needs network access and a
-check that fails when GitHub is unreachable would be worse than no check.
-
-Sweep of all 738 examples, 2026-08-19:
-
-| Verdict | Count | Meaning |
+| Record | Was | Now |
 | --- | --- | --- |
-| ok | 387 | found |
-| inflected | 147 | stem present, different ending; normal lemma citation |
-| inconclusive | 148 | root text uses peyyala, so absence proves nothing |
-| partial | 11 | right sutta, wrong quoted wording |
-| absent | 9 | no word of the phrase in the cited sutta |
-| unfetched | 10 | retrieval failed |
-| unsupported | 26 | Dhp / Iti / Ud, chunked by verse range in Bilara |
+| `anagami` | AN 3.86 `anāgāmī` | AN 3.86 `opapātiko hoti tattha parinibbāyī` |
+| `appanihita` | AN 3.32 `appaṇihito vimokkho` | SN 43.4 `appaṇihito samādhi` |
+| `issa` | AN 5.229 | DN 21 `issāmacchariya` |
+| `macchariya` | AN 5.229 | DN 21 `piyāppiye sati issāmacchariyaṁ hoti` |
+| `tathata` | AN 3.134 | SN 12.20 `tathatā avitathatā anaññathatā` |
+| `vijja` | AN 10.1 | AN 10.61 `vijjāvimutti` |
+| `parinibbana-dhatu` | AN 4.173 | Iti 44 `anupādisesā nibbānadhātu` |
+| `sakadagami` | SN 55.5 `sakadāgāmimagga` | AN 3.86 `rāgadosamohānaṁ tanuttā sakadāgāmī hoti` |
+| `sotapatti` | SN 55.5 `sotāpattiphala` | SN 55.5 `sappurisasaṁsevo hi` |
+| `sotapanna` | SN 55.5 `sotāpannassa` | SN 55.5 `sotāpanno` |
+| `phala` | SN 55.5 and AN 6.63 | DN 2 `sāmaññaphalaṁ`, `sandiṭṭhikaṁ sāmaññaphalaṁ` |
 
-Only `absent` is reliably an error, and even there one caveat applies: AN
-numbering is not stable across editions. All nine remaining `absent` verdicts
-are AN citations, and SuttaCentral's AN 3.134 is Parisāsutta where other
-schemes number that discourse differently. Before treating one as wrong, check
-the fetched sutta's title.
+`sutta_references` were updated to match, so no record still points at a sutta
+none of its examples uses.
 
-The nine are: `anagami` (AN 3.86), `appanihita` (AN 3.32), `issa` and
-`macchariya` (AN 5.229, two each), `parinibbana-dhatu` (AN 4.173), `tathata`
-(AN 3.134), and `vijja` (AN 10.1). `anagami` is confirmed wrong by hand: AN
-3.86 is the right *kind* of sutta and contains `sakadāgāmī` and `sotāpanno`,
-but no `anāgām` in any form. The other eight need the numbering check before
-anyone edits them.
+Two cases are worth remembering:
 
-Building the tool took four corrections, all found by testing it against
-records verified by hand first, and all worth knowing if it is ever extended:
-case-sensitive stem probes missed segment-initial capitals; diacritic
-conventions differ between the records (`paṭhavi`) and Bilara MS (`pathavi`);
-root texts abridge with peyyala so absence often proves nothing; and a stem
-that keeps the final vowel misses ordinary case inflection.
+- `anagami` was the instructive one. AN 3.86 was the right sutta all along; it
+  simply never uses the word `anāgāmī`, naming the non-returner by destiny
+  instead. The fix was to quote what the sutta says, not to move the citation.
+- `phala` had no valid citation at all. SN 55.5 has no `phal` in any form, and
+  AN 6.63 uses `vipāka` throughout. It now cites DN 2, which is already a
+  governed surface.
+
+### What This Cost The Audit
+
+The Wave 6 ranking was built partly on this citation data, so some of its
+leverage estimates were wrong. SN 55.5 was ranked for five orphan majors and
+actually anchors two. Both roadmap documents carry the correction.
+
+### Standing Guidance
+
+Run `python scripts/verify_example_sources.py` after any pass that adds or
+edits `example_phrases`. It is opt-in rather than part of `run_checks.py`
+because it needs network access.
+
+The sweep currently reports zero `absent`. It also reports 11 `partial` and
+147 `inflected`, and neither is reliably an error: `partial` is usually the
+right sutta quoted with slightly wrong wording, and `inflected` is ordinary
+lemma citation. Worth a pass eventually; not defects.
+
+One known blind spot: a root text that uses peyyala anywhere makes every
+unmatched phrase in it `inconclusive`, even when the elision has nothing to do
+with the phrase. That is what initially hid three of the SN 55.5 errors, which
+were caught by hand instead. Do not read `inconclusive` as `fine`.
 
 ## Concrete Next Tasks
 

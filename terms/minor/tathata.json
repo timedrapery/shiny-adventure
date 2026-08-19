@@ -41,14 +41,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "tathatā",
-      "translation": "suchness",
-      "notes": "Base doctrinal rendering.",
-      "source": "AN 3.134"
+      "pali": "tathatā avitathatā anaññathatā",
+      "translation": "suchness, not-unsuchness, not-otherwiseness",
+      "notes": "Shows the term inside the governed idappaccayata triple.",
+      "source": "SN 12.20"
     }
   ],
   "sutta_references": [
-    "AN 3.134"
+    "SN 12.20"
   ],
   "tags": [
     "core-doctrine",

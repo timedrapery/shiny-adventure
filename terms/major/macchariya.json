@@ -38,18 +38,18 @@
     {
       "pali": "issāmacchariya",
       "translation": "envy and stinginess",
-      "notes": "Common pair linking the term to issā.",
-      "source": "AN 5.229"
+      "notes": "Shows the governed pair as a single compound.",
+      "source": "DN 21"
     },
     {
-      "pali": "macchariyaṃ pahāya",
-      "translation": "having abandoned stinginess",
-      "notes": "Shows a practical expression.",
-      "source": "AN 5.229"
+      "pali": "piyāppiye sati issāmacchariyaṁ hoti",
+      "translation": "when the dear and the not-dear exist, envy and stinginess come to be",
+      "notes": "Shows what the discourse traces the pair back to.",
+      "source": "DN 21"
     }
   ],
   "sutta_references": [
-    "AN 5.229"
+    "DN 21"
   ],
   "tags": [
     "mental-qualities",

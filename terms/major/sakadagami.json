@@ -50,15 +50,14 @@
       "source": "AN 3.86"
     },
     {
-      "pali": "sakadāgāmimagga",
-      "translation": "the path of the once-returner",
-      "notes": "Shows a compound that links stage language back to magga terminology.",
-      "source": "SN 55.5"
+      "pali": "rāgadosamohānaṁ tanuttā sakadāgāmī hoti",
+      "translation": "with the thinning of passion, aversion, and delusion, one becomes a once-returner",
+      "notes": "Shows the condition that defines the once-returner.",
+      "source": "AN 3.86"
     }
   ],
   "sutta_references": [
-    "AN 3.86",
-    "SN 55.5"
+    "AN 3.86"
   ],
   "tags": [
     "core-doctrine",
