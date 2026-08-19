@@ -37,7 +37,10 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     "generic one as subject": re.compile(
         r"(?<!\bno )\bone (?:recognizes|perceives|knows|dwells|abides|sorrows|laments|feels|takes"
         r"|delights|understands|conceives|attains|enters|remains|reflects|considers"
-        r"|regards|sees|hears|thinks|speaks|acts|trains|develops|abandons|gives)\b"
+        r"|regards|sees|hears|thinks|speaks|acts|trains|develops|abandons|gives"
+        # Added after these slipped through a full rollout: the four-truths
+        # formula carried `not getting what one wants` across four surfaces.
+        r"|wants|wishes|likes|dislikes|obtains|gains|holds|clings|seeks|finds)\b"
     ),
     "generic one possessive": re.compile(r"\bone's\b"),
     "generic oneself": re.compile(r"\boneself\b"),

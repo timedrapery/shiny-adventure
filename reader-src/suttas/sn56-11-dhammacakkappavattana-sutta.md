@@ -68,15 +68,12 @@ nibbāna.
 
 "And this, bhikkhus, is the noble truth of dissatisfaction:
 
-birth is dissatisfaction;
-ageing is dissatisfaction;
-illness is dissatisfaction;
-death is dissatisfaction;
-sorrow, lamentation, pain, distress, and despair are dissatisfaction;
-association with what is disliked is dissatisfaction;
-separation from what is liked is dissatisfaction;
-not getting what one wants is dissatisfaction;
-in brief, the five clung-to heaps are dissatisfaction.
+birth is dissatisfaction; ageing is dissatisfaction; illness is
+dissatisfaction; death is dissatisfaction; sorrow, lamentation, pain, distress,
+and despair are dissatisfaction; association with what is disliked is
+dissatisfaction; separation from what is liked is dissatisfaction; wanting
+something and not getting it is dissatisfaction; in brief, the five clung-to
+heaps are dissatisfaction.
 
 ## The Noble Truth of the Origin of Dissatisfaction
 

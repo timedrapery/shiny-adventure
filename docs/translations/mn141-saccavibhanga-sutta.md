@@ -93,8 +93,8 @@ And what, friends, is the noble truth of dissatisfaction?
 
 Birth is dissatisfaction. Ageing is dissatisfaction. Death is dissatisfaction.
 Sorrow, lamentation, pain, distress, and despair are dissatisfaction. Not
-getting what one wants is also dissatisfaction. In brief, the five clung-to
-heaps are dissatisfaction.
+wanting something and not getting it is also dissatisfaction. In brief, the
+five clung-to heaps are dissatisfaction.
 
 And what, friends, is birth?
 
@@ -142,18 +142,17 @@ When someone is affected by some loss or struck by some dissatisfactory thing,
 the exhaustion, despair, and desperate affliction that arise: this is called
 despair.
 
-And what, friends, is 'not getting what one wants is also dissatisfaction'?
+And what, friends, is 'wanting something and not getting it is also
+dissatisfaction'?
 
-For beings subject to birth, this wish arises:
-'Oh, if only we were not subject to birth, and birth would not come to us.'
-But that is not gained by wishing.
-This too is 'not getting what one wants is also dissatisfaction.'
+For beings subject to birth, this wish arises: 'Oh, if only we were not subject
+to birth, and birth would not come to us.' But that is not gained by wishing.
+This too is 'wanting something and not getting it is also dissatisfaction.'
 
-For beings subject to ageing, to illness, to death, and to sorrow,
-lamentation, pain, distress, and despair, the same wish arises:
-'Oh, if only this would not come to us.'
-But that is not gained by wishing.
-This too is 'not getting what one wants is also dissatisfaction.'
+For beings subject to ageing, to illness, to death, and to sorrow, lamentation,
+pain, distress, and despair, the same wish arises: 'Oh, if only this would not
+come to us.' But that is not gained by wishing. This too is 'wanting something
+and not getting it is also dissatisfaction.'
 
 And what, friends, are the five clung-to heaps that in brief are
 dissatisfaction?

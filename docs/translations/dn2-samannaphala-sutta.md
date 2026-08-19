@@ -426,7 +426,7 @@ good in the middle, and good in the end, meaningful and well-phrased. He
 reveals a spiritual life that is completely full and pure.
 
 A householder, a householder's child, or someone born in a good family hears
-that Dhamma. Hearing it, one gains confidence in the Tathāgata and reflects:
+that Dhamma. Hearing it, they gain confidence in the Tathāgata and reflects:
 
 'Life at home is crowded and dusty. Going forth is wide open. It is not easy
 for one living at home to live the spiritual life utterly full and pure, as

@@ -198,14 +198,11 @@ the noble disciple is one with right view.
 
 And what is dissatisfaction?
 
-Birth is dissatisfaction.
-Ageing is dissatisfaction.
-Death is dissatisfaction.
+Birth is dissatisfaction. Ageing is dissatisfaction. Death is dissatisfaction.
 Sorrow, lamentation, pain, distress, and despair are dissatisfaction.
-Association with what is disliked is dissatisfaction.
-Separation from what is liked is dissatisfaction.
-Not getting what one wants is dissatisfaction.
-In brief, the five clung-to heaps are dissatisfaction.
+Association with what is disliked is dissatisfaction. Separation from what is
+liked is dissatisfaction. Wanting something and not getting it is
+dissatisfaction. In brief, the five clung-to heaps are dissatisfaction.
 
 This is called dissatisfaction.
 
