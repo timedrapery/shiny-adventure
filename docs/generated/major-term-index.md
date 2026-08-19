@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/major/` directory.
 
-- Entries: 237
+- Entries: 238
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -260,6 +260,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [sakkaya](../../terms/major/sakkaya.json) | sakkāya | identity | stable | aggregates, core-doctrine, self-view, translation-sensitive, context-sensitive |
 | [salayatana](../../terms/major/salayatana.json) | saḷāyatana | six fields of experience | stable | core-doctrine, dependent-origination, context-sensitive |
 | [samadhi](../../terms/major/samadhi.json) | samādhi | mental composure | stable | core-practice, mental-qualities |
+| [samana](../../terms/major/samana.json) | samaṇa | recluse | reviewed | persons, core-practice, translation-sensitive |
 | [samma-ajiva](../../terms/major/samma-ajiva.json) | sammā-ājīva | right livelihood | reviewed | core-practice, core-doctrine |
 | [samma-ditthi](../../terms/major/samma-ditthi.json) | sammā-diṭṭhi | right view | reviewed | core-doctrine, core-practice |
 | [samma-kammanta](../../terms/major/samma-kammanta.json) | sammā-kammanta | right action | reviewed | core-practice, core-doctrine |
