@@ -136,6 +136,12 @@ volume.
   control language rather than a single text's vocabulary.
 - Likely lexicon pressure: stabilize the four-line formula as one governed
   block so it is not re-solved locally in each surface that quotes it.
+- Status: translated. See
+  [SN 12.61](translations/sn12-61-assutava-sutta.md) and its
+  [translation notes](translations/sn12-61-assutava-sutta-notes.md).
+  Correction to the leverage signal above: `idappaccayata` does not occur in
+  SN 12.61 at all. The four formula records do, and that is what this surface
+  anchors.
 
 ### 5. MN 11: Cūḷasīhanāda Sutta
 
@@ -148,6 +154,13 @@ volume.
   chain as currently surfaced.
 - Likely lexicon pressure: confirm the four-fold `upadana` enumeration as a
   formula record.
+- Status: translated. See
+  [MN 11](translations/mn11-culasihanada-sutta.md) and its
+  [translation notes](translations/mn11-culasihanada-sutta-notes.md). The
+  enumeration exposed that the four `upadana` compounds are not consistent with
+  each other: two render the head as `taking ... personally` and two as
+  `clinging`. That is recorded as the main open lexical question coming out of
+  Wave 6.
 
 ### Also Considered
 

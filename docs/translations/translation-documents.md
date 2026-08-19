@@ -42,6 +42,11 @@ Current MN 10 surfaces:
 - [mn10-satipatthana-sutta.md](mn10-satipatthana-sutta.md): main shareable translation text
 - [mn10-satipatthana-sutta-notes.md](mn10-satipatthana-sutta-notes.md): companion translator notes and rationale
 
+Current MN 11 surfaces:
+
+- [mn11-culasihanada-sutta.md](mn11-culasihanada-sutta.md): main shareable translation text
+- [mn11-culasihanada-sutta-notes.md](mn11-culasihanada-sutta-notes.md): companion translator notes and rationale
+
 Current MN 18 surfaces:
 
 - [mn18-madhupindika-sutta.md](mn18-madhupindika-sutta.md): main shareable translation text
@@ -121,6 +126,11 @@ Current SN 12.11 surfaces:
 
 - [sn12-11-ahara-sutta.md](sn12-11-ahara-sutta.md): main shareable translation text
 - [sn12-11-ahara-sutta-notes.md](sn12-11-ahara-sutta-notes.md): companion translator notes and rationale
+
+Current SN 12.61 surfaces:
+
+- [sn12-61-assutava-sutta.md](sn12-61-assutava-sutta.md): main shareable translation text
+- [sn12-61-assutava-sutta-notes.md](sn12-61-assutava-sutta-notes.md): companion translator notes and rationale
 
 Current SN 12.15 surfaces:
 

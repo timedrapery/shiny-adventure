@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (39 total)
+## Completed Surfaces (41 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -51,6 +51,8 @@ Use that full roadmap as the source of truth for:
 - `SN 12.11` Āhāra Sutta (The Four Nutriments)
 - `SN 55.5` Dutiyasāriputta Sutta (The Stream and the Stream-Enterer)
 - `AN 6.63` Nibbedhika Sutta (The Penetrating Exposition)
+- `SN 12.61` Assutavā Sutta (The Body and the Mind)
+- `MN 11` Cūḷasīhanāda Sutta (The Shorter Lion's Roar)
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
@@ -86,9 +88,14 @@ rejected as the ranking basis.
    [translation-workflow-plan.md](translation-workflow-plan.md).
 3. ~~`AN 6.63` Nibbedhika Sutta~~ — **complete**. Gives `kamma` its first
    translation surface, including the line that defines action as intention.
-4. `SN 12.61` — the four-line conditionality formula as reusable control
-   language
-5. `MN 11` Cūḷasīhanāda Sutta — the four-fold `upadana` enumeration
+4. ~~`SN 12.61`~~ — **complete**. Anchors the four conditionality formula
+   records. Note it does not contain `idappaccayata`, contrary to the
+   original leverage signal.
+5. ~~`MN 11` Cūḷasīhanāda Sutta~~ — **complete**. Anchors the four-fold
+   `upadana` enumeration, and surfaced that the four compounds are not
+   consistent with each other. See the surface notes.
+
+**Wave 6 is complete.** All five surfaces are translated.
 
 The organizing idea for this wave is different from Wave 5. Wave 5 closed
 source gaps for material already cited in existing surfaces. Wave 6 targets

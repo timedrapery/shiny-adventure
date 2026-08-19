@@ -1,0 +1,93 @@
+# MN 11 Translation Notes
+
+This document is the companion rationale for
+[MN 11: Cūḷasīhanāda Sutta](mn11-culasihanada-sutta.md). The main translation
+is the primary study surface; this file records debated translation choices,
+source-audit calls, and edition notes that govern it.
+
+## Source Base
+
+- Primary source: the Pali text of MN 11 as segmented in SuttaCentral's Bilara
+  data (132 segments).
+- Control surface: the repository's current term policy, especially `upādāna`
+  and its four compounds, `samaṇa`, `paribbājaka`, `papañca`, `pariññā`,
+  `pasāda`, `rāga`, `dosa`, `moha`, `taṇhā`, `vijjā`, and `avijjā`, together
+  with the fourfold source question established in SN 12.11.
+- Working method: the discourse was governed as one argument that starts from a
+  claim about who counts as a recluse and ends by grounding that claim in the
+  full understanding of taking personally, rather than as a polemic with a
+  doctrinal appendix.
+
+## Governing Decisions
+
+- The fourfold source question reuses the wording established in SN 12.11:
+  `what is their source? what is their origin? what are they born from? what
+  produces them?`, with the answer repeating all four. This is the second
+  surface to need it, which settles the question the SN 12.11 notes left open:
+  it should become a formula record.
+- `pasāda` takes its recorded alternate `confidence` rather than the `clarity`
+  default. The passage is about confidence in a teacher and a teaching, and
+  `clarity about the Teacher` does not say that.
+- `samaṇa` is `recluse` and `paribbājaka` is `wanderer`, both governed, which
+  keeps the two groups distinct throughout the exchange.
+- `niṭṭhā` is rendered `goal`. Ungoverned. The question the discourse turns on
+  is whether there is one goal or many, and `culmination` or `consummation`
+  would obscure a plain question.
+- `anuruddhappaṭiviruddha` is rendered `favours and opposes`, reusing the
+  wording already used in MN 38 and MN 26 for the same pair.
+- `paritassati` is rendered `is agitated`. Ungoverned.
+- The closing formula reuses the governed `there is no more of this state of
+  being`.
+
+## Re-audit Calls
+
+- **The four `upādāna` compounds are not consistent with each other, and this
+  is the surface where that shows.** The discourse enumerates all four in one
+  list, and the governed renderings produce:
+
+  > sensual clinging, taking views personally, clinging to rules and
+  > observances, and taking self-doctrine personally
+
+  Two members use `taking ... personally`, matching the `upādāna` headword.
+  Two use `clinging`, which the headword records only as an alternate.
+
+  This is a half-finished family revision rather than a considered split. The
+  `diṭṭhupādāna` notes say the project *now* keeps `taking views personally`
+  "because it aligns the compound more tightly with the upādāna headword",
+  which is the same argument that applies to `kāmupādāna` and
+  `sīlabbatupādāna`. `kāmupādāna` already records `taking sensuality
+  personally` as an alternate.
+
+  The translation uses the current governed renderings unchanged, because
+  harmonising them is a lexical decision affecting the whole dependent-arising
+  cluster, not something to settle inside a translation pass. The inconsistent
+  list is already propagated to DN 15, MN 9, and SN 12.2, so completing the
+  revision would touch those three surfaces, two term records, their notes, and
+  the generated cluster sheets.
+
+- The fourfold source question now has two surfaces (SN 12.11 and this one)
+  using identical wording. It should be promoted to a formula record so a third
+  surface does not re-solve it.
+- `niṭṭhā`, `paritassati`, `sīhanāda`, `sahadhammika`, `bhavadiṭṭhi`, and
+  `vibhavadiṭṭhi` are ungoverned. The two views in particular carry real weight
+  here and in SN 12.15, and are candidates for a paired minor entry.
+- The `kāmupādāna` record's example cites `catasso upādānā` from this
+  discourse. The text reads `cattārimāni upādānāni`. This was flagged as
+  `partial` by `verify_example_sources.py` and is corrected in the same pass as
+  this surface.
+
+## Practice Clarifications
+
+- The lion's roar is not a claim that other traditions have nothing. The
+  argument that follows grounds it in one specific thing: whether a teaching
+  can give a full account of all four kinds of taking personally, including the
+  taking of self-doctrine personally. A teaching that stops short of that last
+  one is described as leaving its followers' confidence pointed somewhere that
+  does not lead out.
+- The two views, becoming and non-becoming, are presented as a trap that works
+  by opposition: holding either one puts a person in conflict with the other,
+  and the way out is not to pick the better one but to see how both arise and
+  cease.
+- The final passage is the point of the whole discourse. What ends the taking
+  personally is not effort against each of the four in turn but the giving up
+  of ignorance, after which none of the four is taken up.

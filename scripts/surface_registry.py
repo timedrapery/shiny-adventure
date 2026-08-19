@@ -68,6 +68,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn10-satipatthana-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn11",
+        label="MN 11",
+        main_relpath="docs/translations/mn11-culasihanada-sutta.md",
+        notes_relpath="docs/translations/mn11-culasihanada-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn18",
         label="MN 18",
         main_relpath="docs/translations/mn18-madhupindika-sutta.md",
@@ -162,6 +168,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         label="SN 12.11",
         main_relpath="docs/translations/sn12-11-ahara-sutta.md",
         notes_relpath="docs/translations/sn12-11-ahara-sutta-notes.md",
+    ),
+    TranslationSurface(
+        key="sn12_61",
+        label="SN 12.61",
+        main_relpath="docs/translations/sn12-61-assutava-sutta.md",
+        notes_relpath="docs/translations/sn12-61-assutava-sutta-notes.md",
     ),
     TranslationSurface(
         key="sn12_15",
