@@ -1,44 +1,27 @@
 # OSF Pali Readings
 
-This is a **prototype** reader's edition of the Open Sangha Foundation Pali
-Translation Lexicon -- an attempt to make Early Buddhist sutta translations
-genuinely readable for a general audience, not just navigable for
-contributors.
+Early Buddhist discourses in plain, contemporary English.
 
-The full project is a structured translation dataset: 1,100+ governed term
-records and 36 sutta translations, each backed by explicit editorial
-rationale, kept internally consistent, and validated by an automated check
-suite. That rigor lives in the
-[main repository](https://github.com/timedrapery/shiny-adventure). This site
-is a separate, lighter layer built on top of it, meant for reading rather
-than editing.
-
-Five readings are built for this site so far, as a working prototype of the
-format: hover-glossed terms, clean typography, and a short plain-English
-introduction above each translation. The rest of the 36-sutta collection is
-readable today on GitHub in its unstyled source form -- see
-[Start Here](start-here.md) below for where to find each one and what order
-makes sense to read them in.
+All 41 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
 
 ## Start reading
 
-- [**Start Here**](start-here.md) -- a newcomer-friendly reading order
-  across all 36 suttas, not the same as the project's internal editorial
-  priority order
+- [**Start Here**](start-here.md) — a newcomer-friendly reading order through all 41 texts, arranged by what makes sense to read first rather than by editorial priority
+- [**All Suttas**](suttas/index.md) — the full collection, if you already know what you are looking for
+- [**Glossary**](glossary.md) — the recurring vocabulary, in plain English
 
-If you only read five texts on this site, these are the ones -- together
-they give the whole shape of the teaching in under a thousand words:
+## If you only read five
 
-- [**Test It Yourself**](suttas/an3-65-kesamutta-sutta.md) -- AN 3.65, the
-  Kālāma Sutta, on testing claims against your own experience
-- [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) --
-  SN 56.11, the four noble truths and the eightfold path
-- [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) -- SN 36.6, on pain
-  versus the suffering added on top of it
-- [**The Man Struck by a Poisoned Arrow**](suttas/mn63-culamalukya-sutta.md)
-  -- MN 63, on why the Buddha refused to answer certain questions
-- [**Nothing Here Is You**](suttas/sn22-59-anattalakkhana-sutta.md) --
-  SN 22.59, on why nothing in experience holds up as a fixed self
+Together these give the whole shape of the teaching in under a thousand words:
 
-More readings and a standalone glossary page are planned for later phases
-of this project.
+- [**Test It Yourself**](suttas/an3-65-kesamutta-sutta.md) — AN 3.65, Kesamutta Sutta
+- [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11, Dhammacakkappavattana Sutta
+- [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) — SN 36.6, Salla Sutta
+- [**The Man Struck by a Poisoned Arrow**](suttas/mn63-culamalukya-sutta.md) — MN 63, Cūḷamālukya Sutta
+- [**Nothing Here Is You**](suttas/sn22-59-anattalakkhana-sutta.md) — SN 22.59, Anattalakkhaṇa Sutta
+
+## How to read these
+
+The translations aim at ordinary spoken English: what a clear person would actually say, not what a translation is expected to sound like. Where a word is doing technical work, hover it for a short gloss.
+
+Repetition has been kept where the texts repeat. These were spoken and memorised, and the repeating is part of how they work.
