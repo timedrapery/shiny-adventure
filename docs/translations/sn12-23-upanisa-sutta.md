@@ -28,12 +28,12 @@
 
 At Sāvatthī.
 
-"Bhikkhus, I say the destruction of outflows is for one who knows and sees —
-not for one who does not know or see.
+"Bhikkhus, I say the destruction of outflows is for someone who knows and sees
+— not for someone who does not know or see.
 
 ### Knowing and Seeing What?
 
-And for one who knows and sees what?
+And for someone who knows and sees what?
 
 Such is form, such is form's arising, such is form's ending. Such is felt
 experience, such is felt experience's arising, such is felt experience's
@@ -42,8 +42,8 @@ recognition's ending. Such is what is put together, such is what is put
 together's arising, such is what is put together's ending. Such is knowing,
 such is knowing's arising, such is knowing's ending.
 
-It is for one who knows and sees in this way that the destruction of outflows
-occurs.
+It is for someone who knows and sees in this way that the destruction of
+outflows occurs.
 
 ### Each Link Has Its Condition
 

@@ -190,9 +190,9 @@ regarding the world.
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
 or relinquishment, then they remain observing dhammas among dhammas, ardent,
 with clear knowing, with remembering, having removed coveting and distress
-regarding the world. Having seen with discernment the abandoning of coveting
-and distress, one looks on carefully with dynamic balance. Therefore they
-remain observing dhammas among dhammas, ardent, with clear knowing, with
+regarding the world. Once they have seen with discernment the abandoning of
+coveting and distress, they look on carefully with dynamic balance. Therefore
+they remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
 
 "That is how ānāpānasati, when developed and cultivated, fulfills the four

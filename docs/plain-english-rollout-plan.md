@@ -7,17 +7,20 @@ This is the working plan for bringing every translation surface up to
 
 It exists so the work can be picked up cold, on either machine, without
 rereading the commit history. The standard says what good English looks like.
-This document says what is done, what is left, what was deliberately left
-alone, and how to do the next piece safely.
+This document says what was done, what was deliberately left alone, and how
+to do the same kind of work safely next time.
 
-Last updated 2026-08-19.
+Last updated 2026-08-19. Rollout completed the same day.
 
 ## Current State
 
-- 20 of 37 translation surfaces are clean.
-- 17 surfaces carry 66 remaining register signals.
-- 1 reader page carries 8, mirroring its surface.
-- Corpus total has gone 680 to 74.
+**The rollout is complete.** Every translation surface and every reader page
+has been brought up to the standard.
+
+- 37 of 37 translation surfaces carry no undocumented register signals.
+- 5 of 5 reader pages match their governed surfaces.
+- Corpus total has gone 680 to 8, and all 8 remaining signals are the
+  documented exceptions listed under Deliberately Deferred below.
 
 Check the live number at any time:
 
@@ -25,8 +28,13 @@ Check the live number at any time:
 python scripts/plain_english_audit.py
 ```
 
-Completed surfaces: MN 1, SN 36.6, DN 2, DN 15, MN 7, MN 22, MN 10, MN 117,
-MN 137, MN 38, MN 118, MN 18, MN 26 (partial, see below).
+Expect 8. If the number is higher, something has regressed or a new surface has
+been added; if it is lower, one of the deferred decisions has been settled and
+this document needs updating.
+
+The remaining 8 are: six occurrences of `recognition of unattractiveness`
+across the two AN 10.60 files, one `one who` in MN 38 naming a referent, and
+one `duality of existence` in SN 12.15. None is a defect.
 
 ## The Thing That Keeps Biting
 
@@ -82,35 +90,33 @@ python scripts/plain_english_audit.py --path docs/translations/<file>.md
 python scripts/run_checks.py
 ```
 
-8. If the surface has a reader page in `reader-src/suttas/`, resync it. There
-   is no check binding the two yet (see Open Items).
+8. If the surface has a reader page in `reader-src/suttas/`, resync it:
 
-## Remaining Surfaces
+```bash
+python scripts/sync_reader_pages.py --write
+```
 
-Ordered by signal count. None of these has a dominant offender any more, so
-batching by cluster is as reasonable as batching by count.
+   `scripts/sync_reader_pages.py --check` runs as part of `run_checks.py`, so a
+   forgotten resync now fails the build rather than drifting silently. The
+   comparison ignores presentation-only differences such as heading level,
+   emphasis, and horizontal rules.
 
-| Surface | Signals |
-| --- | --- |
-| AN 3.65 Kesamutta | 8 |
-| MN 26 Pasarasi | 8 |
-| MN 44 Culavedalla | 8 |
-| MN 2 Sabbasava | 6 |
-| MN 64 Mahamalukya | 5 |
-| AN 10.60 Girimananda (both filename variants) | 4 each |
-| SN 12.15 Kaccanagotta | 4 |
-| SN 12.23 Upanisa | 4 |
-| SN 22.89 Khemaka | 4 |
-| MN 141 Saccavibhanga | 3 |
-| MN 148 Chachakka | 2 |
-| MN 99 Subha | 2 |
-| MN 118, MN 19, MN 38, MN 39 | 1 each |
+## Surfaces Completed
+
+All 37, in this order:
+
+1. MN 1, SN 36.6
+2. DN 2, DN 15, MN 7, MN 22
+3. MN 10, MN 117, MN 137, MN 38, MN 118, MN 18, MN 26
+4. AN 3.65, MN 44, MN 2, MN 64
+5. AN 10.60 (both filename variants), SN 12.15, SN 12.23, SN 22.89, MN 141,
+   MN 148, MN 99, MN 19, MN 39
+
+The rest were already clean when the standard was written.
 
 Note that AN 10.60 exists as two files, an ASCII-named one and a
-Unicode-named one that is allowlisted in
-`scripts/check_docs_integrity.py`. Both need the same edit.
-
-AN 3.65 also has a reader page carrying the same 8 signals.
+Unicode-named one that is allowlisted in `scripts/check_docs_integrity.py`.
+Both were edited. Any future surface work has to remember this.
 
 ## Deliberately Deferred
 
@@ -152,20 +158,23 @@ it `Well-Departed One`. Three renderings for one governed term. Recorded in
 MN 38, Sati's wrong view. Ordinary English naming a referent, not the
 generic-person artifact. Stays flagged by the advisory audit on purpose.
 
-### The seven remaining nominalizations
+### `recognition of unattractiveness`
 
-All `recognition of unattractiveness`, a nominalized inflection of governed
-`asubha` (`unattractive`), recorded in the AN 10.60 notes. The
-`is_compositional` check does not currently do inflection matching, and making
-it do so risks over-suppression.
+Six occurrences, three in each of the two AN 10.60 files. A nominalized
+inflection of governed `asubha` (`unattractive`), and the rendering is recorded
+in the AN 10.60 notes. The `is_compositional` check in the audit suppresses an
+`X of Y` phrase when both halves are governed renderings, but it does not do
+inflection matching, and making it do so risks over-suppression.
+
+### `duality of existence`
+
+SN 12.15, once. This surface is the governed middle-way control text and the
+phrase belongs to the `atthita` / `natthita` framing, so it is doctrinal
+vocabulary rather than stray noun-stacking. Changing it would be a doctrinal
+decision about the middle-way formula, not a register fix.
 
 ## Open Items Beyond This Rollout
 
-- **Reader sync check.** `reader-src/suttas/` duplicates its surface body with
-  nothing enforcing agreement. Content is currently identical across all five
-  pages, so nothing has drifted, but it has been resynced by hand several
-  times. Wants a `--check` plus `--write`, tolerant of presentation
-  differences: MN 63's reader page italicizes the colophon and adds a rule.
 - **Wave 6 translations.** Queue is drafted in
   [next-suttas-roadmap.md](next-suttas-roadmap.md), starting with SN 12.11.
   New surfaces should be written to the plain English standard from the start;

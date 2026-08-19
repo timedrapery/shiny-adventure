@@ -286,7 +286,7 @@ there remains, following along among the five clung-to heaps, a conceit
 'I am,' a desire 'I am,' and an underlying tendency 'I am' that has not been
 uprooted.
 
-At a later time, one remains observing arising and passing away in the five
+At a later time, they remain observing arising and passing away in the five
 clung-to heaps:
 
 'Such is form. Such is the arising of form. Such is the vanishing of form.
@@ -303,7 +303,7 @@ activities. Such is the vanishing of putting-together activities.
 Such is knowing. Such is the arising of knowing. Such is the vanishing of
 knowing.'
 
-As one remains observing arising and passing away in these five clung-to heaps,
+As they remain observing arising and passing away in these five clung-to heaps,
 whatever remains, following along among the five clung-to heaps, as a conceit
 'I am,' a desire 'I am,' and an underlying tendency 'I am' that has not been
 uprooted - that too goes to uprooting.
@@ -330,7 +330,7 @@ lower fetters, still there remains, following along among the five clung-to
 heaps, a conceit 'I am,' a desire 'I am,' and an underlying tendency 'I am'
 that has not been uprooted.
 
-At a later time, one remains observing arising and passing away in the five
+At a later time, they remain observing arising and passing away in the five
 clung-to heaps:
 
 'Such is form. Such is the arising of form. Such is the vanishing of form.
@@ -347,7 +347,7 @@ activities. Such is the vanishing of putting-together activities.
 Such is knowing. Such is the arising of knowing. Such is the vanishing of
 knowing.'
 
-As one remains observing arising and passing away in these five clung-to heaps,
+As they remain observing arising and passing away in these five clung-to heaps,
 whatever remains, following along among the five clung-to heaps, as a conceit
 'I am,' a desire 'I am,' and an underlying tendency 'I am' that has not been
 uprooted - that too goes to uprooting."

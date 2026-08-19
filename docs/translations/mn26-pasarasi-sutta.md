@@ -104,7 +104,7 @@ And what should be described as subject to birth? Partners and children,
 bhikkhus, are subject to birth; male and female servants are subject to birth;
 goats and sheep are subject to birth; chickens and pigs are subject to birth;
 elephants, cattle, horses, and mares are subject to birth; gold and silver are
-subject to birth. These are supports subject to birth. One who is tied,
+subject to birth. These are supports subject to birth. Someone who is tied,
 infatuated, and immersed in these — being themselves subject to birth — seeks
 only what is subject to birth.
 
@@ -112,7 +112,7 @@ And what should be described as subject to aging? Partners and children,
 bhikkhus, are subject to aging; male and female servants are subject to aging;
 goats and sheep are subject to aging; chickens and pigs are subject to aging;
 elephants, cattle, horses, and mares are subject to aging; gold and silver are
-subject to aging. These are supports subject to aging. One who is tied,
+subject to aging. These are supports subject to aging. Someone who is tied,
 infatuated, and immersed in these — being themselves subject to aging — seeks
 only what is subject to aging.
 
@@ -120,30 +120,31 @@ And what should be described as subject to sickness? Partners and children,
 bhikkhus, are subject to sickness; male and female servants are subject to
 sickness; goats and sheep are subject to sickness; chickens and pigs are
 subject to sickness; elephants, cattle, horses, and mares are subject to
-sickness. These are supports subject to sickness. One who is tied, infatuated,
-and immersed in these — being themselves subject to sickness — seeks only what
-is subject to sickness.
+sickness. These are supports subject to sickness. Someone who is tied,
+infatuated, and immersed in these — being themselves subject to sickness —
+seeks only what is subject to sickness.
 
 And what should be described as subject to death? Partners and children,
 bhikkhus, are subject to death; male and female servants are subject to death;
 goats and sheep are subject to death; chickens and pigs are subject to death;
 elephants, cattle, horses, and mares are subject to death. These are supports
-subject to death. One who is tied, infatuated, and immersed in these — being
-themselves subject to death — seeks only what is subject to death.
+subject to death. Someone who is tied, infatuated, and immersed in these —
+being themselves subject to death — seeks only what is subject to death.
 
 And what should be described as subject to sorrow? Partners and children,
 bhikkhus, are subject to sorrow; male and female servants are subject to
 sorrow; goats and sheep are subject to sorrow; chickens and pigs are subject to
 sorrow; elephants, cattle, horses, and mares are subject to sorrow. These are
-supports subject to sorrow. One who is tied, infatuated, and immersed in these
-— being themselves subject to sorrow — seeks only what is subject to sorrow.
+supports subject to sorrow. Someone who is tied, infatuated, and immersed in
+these — being themselves subject to sorrow — seeks only what is subject to
+sorrow.
 
 And what should be described as subject to corruption? Partners and children,
 bhikkhus, are subject to corruption; male and female servants are subject to
 corruption; goats and sheep are subject to corruption; chickens and pigs are
 subject to corruption; elephants, cattle, horses, and mares are subject to
 corruption; gold and silver are subject to corruption. These are supports
-subject to corruption. One who is tied, infatuated, and immersed in these —
+subject to corruption. Someone who is tied, infatuated, and immersed in these —
 being themselves subject to corruption — seeks only what is subject to
 corruption. This is the ignoble search.
 
@@ -362,22 +363,14 @@ understand the Dhamma!"
 
 That is what Brahmā Sahampati said. Then he said further:
 
-> Among the Magadhans there appeared in the past  
-> a teaching thought up by those stained with impurity.  
-> Open wide the door to the deathless!  
-> Let them hear the Dhamma found by the stainless one.  
->  
-> As one who stands on a rocky summit  
-> can see the people all around —  
-> so too, Wise One, All-Seeing,  
-> ascending the palace of Dhamma,  
-> look upon the people swamped in sorrow,  
-> yourself sorrowless, overcome by birth and aging.  
->  
-> Rise, hero! Victor in battle,  
-> caravan-leader, free of debt, wander the world.  
-> Let the Buddha teach the Dhamma —  
-> there will be those who understand!
+> Among the Magadhans there appeared in the past > a teaching thought up by
+those stained with impurity. > Open wide the door to the deathless! > Let them
+hear the Dhamma found by the stainless one. > > As someone standing on a rocky
+summit > can see the people all around — > so too, Wise One, All-Seeing, >
+ascending the palace of Dhamma, > look upon the people swamped in sorrow, >
+yourself sorrowless, overcome by birth and aging. > > Rise, hero! Victor in
+battle, > caravan-leader, free of debt, wander the world. > Let the Buddha
+teach the Dhamma — > there will be those who understand!
 
 ### The Lotus Simile
 
@@ -489,12 +482,12 @@ wrong road, and left.
 
 ### The Five Ascetics
 
-Traveling stage by stage, I arrived at Vārāṇasī, at the deer park at
-Isipatana, and went to where the group of five bhikkhus was staying. The group
-of five bhikkhus saw me coming from a distance. Seeing me, they agreed among
-themselves: "Here comes the recluse Gotama — one who gave up the struggle,
-who turned to abundance. We should not bow to him or rise for him or take his
-bowl and robe. But we can set out a seat; if he wishes, he can sit."
+Traveling stage by stage, I arrived at Vārāṇasī, at the deer park at Isipatana,
+and went to where the group of five bhikkhus was staying. The group of five
+bhikkhus saw me coming from a distance. Seeing me, they agreed among
+themselves: "Here comes the recluse Gotama — he gave up the struggle and turned
+to abundance. We should not bow to him or rise for him or take his bowl and
+robe. But we can set out a seat; if he wishes, he can sit."
 
 Yet as I drew near, the group of five bhikkhus found themselves unable to hold
 to their agreement. Some came to meet me and took my bowl and robe; some set

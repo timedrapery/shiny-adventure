@@ -36,8 +36,8 @@ ascetic or brahmin should we visit today?"
 "Sir, the Buddha is staying near Sāvatthī, in Jeta's Grove, in
 Anāthapiṇḍika's monastery. Visit the Buddha."
 
-Agreeing with that householder, Subha went to the Buddha. Having approached,
-he exchanged greetings with the Buddha. When the polite and courteous talk was
+Agreeing with that householder, Subha went to the Buddha. When he arrived, he
+exchanged greetings with the Buddha. When the polite and courteous talk was
 finished, he sat down to one side and said to the Buddha:
 
 ### Householders and Renunciates
@@ -425,9 +425,9 @@ asked the road to Naḷakāra, there is no hesitation or confusion in the
 Tathāgata when asked about the realm of divinity or the practice leading to
 the realm of divinity.
 
-Student, I know divinity, I know the realm of divinity, and I know the
-practice that leads to the realm of divinity. And I know the one who, by
-practicing in that way, is reborn in the realm of divinity."
+Student, I know divinity, I know the realm of divinity, and I know the practice
+that leads to the realm of divinity. And I know who is reborn in the realm of
+divinity by practicing in that way."
 
 "Master Gotama, I have heard:
 

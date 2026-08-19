@@ -44,18 +44,19 @@ carefully, attend well, and I will speak."
 
 The Buddha said this:
 
-"Bhikkhus, I say there is the wearing away of the outflows for one who knows
-and sees, not for one who does not know and does not see.
+"Bhikkhus, I say there is the wearing away of the outflows for someone who
+knows and sees, not for someone who does not know and does not see.
 
 And what does one know and see, so that I say there is the wearing away of the
 outflows?
 
 Wise attention and unwise attention.
 
-For one who attends unwisely, unarisen outflows arise and arisen outflows grow.
+For someone who attends unwisely, unarisen outflows arise and arisen outflows
+grow.
 
-For one who attends wisely, unarisen outflows do not arise and arisen outflows
-are abandoned.
+For someone who attends wisely, unarisen outflows do not arise and arisen
+outflows are abandoned.
 
 There are outflows to be abandoned by seeing.
 There are outflows to be abandoned by restraint.
@@ -113,17 +114,12 @@ what should be attended to, unarisen outflows arise and arisen outflows grow.
 
 He attends unwisely in this way:
 
-"Was I in the past?
-Was I not in the past?
-What was I in the past?
-How was I in the past?
-Having been what, what was I in the past?
+"Was I in the past? Was I not in the past? What was I in the past? How was I in
+the past? After being what, what was I in the past?
 
-Will I be in the future?
-Will I not be in the future?
-What will I be in the future?
-How will I be in the future?
-Having been what, what will I be in the future?"
+Will I be in the future? Will I not be in the future? What will I be in the
+future? How will I be in the future? After being what, what will I be in the
+future?"
 
 Or else, in the present, he is inwardly uncertain:
 
