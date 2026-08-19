@@ -1,0 +1,50 @@
+{
+  "term": "itivuttaka",
+  "normalized_term": "itivuttaka",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "thus it was said",
+  "preferred_translation": "'thus it was said' texts",
+  "alternative_translations": [
+    "quoted sayings"
+  ],
+  "discouraged_translations": [
+    "aphorisms"
+  ],
+  "definition": "One of the nine genre labels used when the discourses list the forms in which the teaching was transmitted.",
+  "notes": "This is a genre name, not a description, so the quoted form is kept. The quotation marks matter: they mark 'thus it was said' as a label being cited rather than as narration, which is why the archaic-sounding thus survives here when the plain-English standard removes it elsewhere. Keep the quotation marks when using this rendering so the genre label stays visibly a label.",
+  "context_rules": [
+    {
+      "context": "In the nine-genre list of how the teaching is transmitted",
+      "rendering": "'thus it was said' texts",
+      "notes": "Use this by default."
+    },
+    {
+      "context": "In explanatory prose where the genre list is not being enumerated",
+      "rendering": "quoted sayings",
+      "notes": "Use this as a controlled alternate when the label itself is not the point."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "suttaṁ geyyaṁ veyyākaraṇaṁ gāthaṁ udānaṁ itivuttakaṁ jātakaṁ abbhutadhammaṁ vedallaṁ",
+      "translation": "suttas, mixed texts, analyses, verses, inspired utterances, 'thus it was said' texts, birth stories, remarkable accounts, and question-and-answer texts",
+      "notes": "Shows the genre label inside the full nine-item list.",
+      "source": "MN 22"
+    }
+  ],
+  "sutta_references": [
+    "MN 22"
+  ],
+  "translation_policy": {
+    "default_scope": "Use this quoted rendering wherever the nine-genre transmission list is translated.",
+    "when_not_to_apply": "Do not use it for ordinary narration, and do not strip the quotation marks, which are what mark the phrase as a cited genre label.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the genre label from being modernized into a paraphrase that no longer matches the other eight genre names in the list."
+  },
+  "tags": [
+    "canon-structure",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

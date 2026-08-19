@@ -80,49 +80,49 @@ Heedlessness is a corruption of the feeling mind.
 "A bhikkhu, knowing, 'Covetous distorted greed is a corruption of the feeling
 mind,' abandons covetous distorted greed as a corruption of the feeling mind.
 
-Knowing, 'Ill will is a corruption of the feeling mind,' one abandons ill will
+Knowing, 'Ill will is a corruption of the feeling mind,' they abandon ill will
 as a corruption of the feeling mind.
 
-Knowing, 'Anger is a corruption of the feeling mind,' one abandons anger as a
+Knowing, 'Anger is a corruption of the feeling mind,' they abandon anger as a
 corruption of the feeling mind.
 
-Knowing, 'Resentment is a corruption of the feeling mind,' one abandons
+Knowing, 'Resentment is a corruption of the feeling mind,' they abandon
 resentment as a corruption of the feeling mind.
 
-Knowing, 'Contempt is a corruption of the feeling mind,' one abandons contempt
+Knowing, 'Contempt is a corruption of the feeling mind,' they abandon contempt
 as a corruption of the feeling mind.
 
-Knowing, 'Rivalry is a corruption of the feeling mind,' one abandons rivalry
-as a corruption of the feeling mind.
-
-Knowing, 'Envy is a corruption of the feeling mind,' one abandons envy as a
-corruption of the feeling mind.
-
-Knowing, 'Stinginess is a corruption of the feeling mind,' one abandons
-stinginess as a corruption of the feeling mind.
-
-Knowing, 'Deceit is a corruption of the feeling mind,' one abandons deceit as
+Knowing, 'Rivalry is a corruption of the feeling mind,' they abandon rivalry as
 a corruption of the feeling mind.
 
-Knowing, 'Fraudulence is a corruption of the feeling mind,' one abandons
+Knowing, 'Envy is a corruption of the feeling mind,' they abandon envy as a
+corruption of the feeling mind.
+
+Knowing, 'Stinginess is a corruption of the feeling mind,' they abandon
+stinginess as a corruption of the feeling mind.
+
+Knowing, 'Deceit is a corruption of the feeling mind,' they abandon deceit as a
+corruption of the feeling mind.
+
+Knowing, 'Fraudulence is a corruption of the feeling mind,' they abandon
 fraudulence as a corruption of the feeling mind.
 
-Knowing, 'Stubbornness is a corruption of the feeling mind,' one abandons
+Knowing, 'Stubbornness is a corruption of the feeling mind,' they abandon
 stubbornness as a corruption of the feeling mind.
 
-Knowing, 'Contentious aggression is a corruption of the feeling mind,' one
-abandons contentious aggression as a corruption of the feeling mind.
+Knowing, 'Contentious aggression is a corruption of the feeling mind,' they
+abandon contentious aggression as a corruption of the feeling mind.
 
-Knowing, 'Conceit is a corruption of the feeling mind,' one abandons conceit
-as a corruption of the feeling mind.
+Knowing, 'Conceit is a corruption of the feeling mind,' they abandon conceit as
+a corruption of the feeling mind.
 
-Knowing, 'Inflated conceit is a corruption of the feeling mind,' one abandons
+Knowing, 'Inflated conceit is a corruption of the feeling mind,' they abandon
 inflated conceit as a corruption of the feeling mind.
 
-Knowing, 'Arrogant intoxication is a corruption of the feeling mind,' one
-abandons arrogant intoxication as a corruption of the feeling mind.
+Knowing, 'Arrogant intoxication is a corruption of the feeling mind,' they
+abandon arrogant intoxication as a corruption of the feeling mind.
 
-Knowing, 'Heedlessness is a corruption of the feeling mind,' one abandons
+Knowing, 'Heedlessness is a corruption of the feeling mind,' they abandon
 heedlessness as a corruption of the feeling mind.
 
 ### Verified Confidence
@@ -153,42 +153,42 @@ of disciples is worthy of offerings, hospitality, gifts, and reverential
 greeting, the unsurpassed field of merit for the world.'
 
 "To the extent that this has been given up, thrown out, released, abandoned,
-and relinquished, one thinks:
+and relinquished, they think:
 
 'I am equipped with verified confidence in the Buddha.'
 
-One gains a sense of the meaning, gains a sense of the Dhamma, and gains
-gladness connected with the Dhamma. When one is gladdened, delight arises.
-When the mind is delighted, the body grows calm. With the body calm, one feels
-ease. When one feels ease, the feeling mind becomes composed.
+They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
+connected with the Dhamma. When they are gladdened, delight arises. When the
+mind is delighted, the body grows calm. With the body calm, they feel ease.
+When they feel ease, the feeling mind becomes composed.
 
-"One thinks:
+"They think:
 
 'I am equipped with verified confidence in the Dhamma.'
 
-One gains a sense of the meaning, gains a sense of the Dhamma, and gains
-gladness connected with the Dhamma. When one is gladdened, delight arises.
-When the mind is delighted, the body grows calm. With the body calm, one feels
-ease. When one feels ease, the feeling mind becomes composed.
+They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
+connected with the Dhamma. When they are gladdened, delight arises. When the
+mind is delighted, the body grows calm. With the body calm, they feel ease.
+When they feel ease, the feeling mind becomes composed.
 
-"One thinks:
+"They think:
 
 'I am equipped with verified confidence in the Saṅgha.'
 
-One gains a sense of the meaning, gains a sense of the Dhamma, and gains
-gladness connected with the Dhamma. When one is gladdened, delight arises.
-When the mind is delighted, the body grows calm. With the body calm, one feels
-ease. When one feels ease, the feeling mind becomes composed.
+They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
+connected with the Dhamma. When they are gladdened, delight arises. When the
+mind is delighted, the body grows calm. With the body calm, they feel ease.
+When they feel ease, the feeling mind becomes composed.
 
-"One thinks:
+"They think:
 
 'To the extent that this has been given up, thrown out, released, abandoned,
 and relinquished.'
 
-One gains a sense of the meaning, gains a sense of the Dhamma, and gains
-gladness connected with the Dhamma. When one is gladdened, delight arises.
-When the mind is delighted, the body grows calm. With the body calm, one feels
-ease. When one feels ease, the feeling mind becomes composed.
+They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
+connected with the Dhamma. When they are gladdened, delight arises. When the
+mind is delighted, the body grows calm. With the body calm, they feel ease.
+When they feel ease, the feeling mind becomes composed.
 
 ### No Obstacle
 
@@ -205,28 +205,28 @@ many soups and many curries, and that will not be an obstacle.
 
 ### The Four Divine Abidings
 
-"With a feeling mind accompanied by friendliness, one pervades one direction,
-then the second, then the third, then the fourth. In the same way above,
-below, across, everywhere, and to all as to oneself, one remains pervading the
+"With a feeling mind accompanied by friendliness, they pervade one direction,
+then the second, then the third, then the fourth. In the same way above, below,
+across, everywhere, and to all as to themselves, they remain pervading the
 whole world with a feeling mind accompanied by friendliness: expansive, grown
 great, measureless, free from enmity, and free from oppression.
 
-"With a feeling mind accompanied by kindness towards others, one pervades one
+"With a feeling mind accompanied by kindness towards others, they pervade one
 direction, then the second, then the third, then the fourth. In the same way
-above, below, across, everywhere, and to all as to oneself, one remains
+above, below, across, everywhere, and to all as to themselves, they remain
 pervading the whole world with a feeling mind accompanied by kindness towards
 others: expansive, grown great, measureless, free from enmity, and free from
 oppression.
 
-"With a feeling mind accompanied by gladness, one pervades one direction, then
+"With a feeling mind accompanied by gladness, they pervade one direction, then
 the second, then the third, then the fourth. In the same way above, below,
-across, everywhere, and to all as to oneself, one remains pervading the whole
-world with a feeling mind accompanied by gladness: expansive, grown great,
-measureless, free from enmity, and free from oppression.
+across, everywhere, and to all as to themselves, they remain pervading the
+whole world with a feeling mind accompanied by gladness: expansive, grown
+great, measureless, free from enmity, and free from oppression.
 
-"With a feeling mind accompanied by dynamic balance, one pervades one
+"With a feeling mind accompanied by dynamic balance, they pervade one
 direction, then the second, then the third, then the fourth. In the same way
-above, below, across, everywhere, and to all as to oneself, one remains
+above, below, across, everywhere, and to all as to themselves, they remain
 pervading the whole world with a feeling mind accompanied by dynamic balance:
 expansive, grown great, measureless, free from enmity, and free from
 oppression.
@@ -303,8 +303,8 @@ When this had been said, the brahmin Sundarika Bhāradvāja said to the Buddha:
 "Excellent, Master Gotama! Excellent, Master Gotama!
 
 Just as if someone were to set upright what had been overturned, reveal what
-was hidden, point out the way to one who was lost, or hold up an oil lamp in
-the dark so that those with eyes could see forms, so too Master Gotama has
+was hidden, point out the way to someone who was lost, or hold up an oil lamp
+in the dark so that those with eyes could see forms, so too Master Gotama has
 made the Dhamma clear in many ways.
 
 I go for refuge to Master Gotama, to the Dhamma, and to the Saṅgha of

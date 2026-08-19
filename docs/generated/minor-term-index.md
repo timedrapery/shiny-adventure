@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 908
+- Entries: 909
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -359,6 +359,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [indriya-bhavana](../../terms/minor/indriya-bhavana.json) | indriya-bhavana | development of the faculties | reviewed | core-practice |
 | [indriya-paccaya](../../terms/minor/indriya-paccaya.json) | indriya-paccaya | faculty condition | reviewed | causality |
 | [indriya-samvara](../../terms/minor/indriya-samvara.json) | indriyasaṁvara | guarding the faculties | reviewed | core-practice, meditative-development |
+| [itivuttaka](../../terms/minor/itivuttaka.json) | itivuttaka | 'thus it was said' texts | reviewed | canon-structure, translation-sensitive |
 | [itthi](../../terms/minor/itthi.json) | itthī | woman | reviewed | persons |
 | [itthibhava](../../terms/minor/itthibhava.json) | itthibhāva | female state | reviewed | core-doctrine |
 

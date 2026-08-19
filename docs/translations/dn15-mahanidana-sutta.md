@@ -110,7 +110,7 @@ answer, 'There is.'
 If they ask, 'With what as condition is there knowing?' one should answer,
 'With name-and-form as condition, knowing.'
 
-Thus, Ānanda:
+So, Ānanda:
 
 with name-and-form as condition, knowing;
 with knowing as condition, name-and-form;
@@ -331,7 +331,7 @@ quenching of ignorant wanting, would searching be found?"
 "Therefore, Ānanda, this is the cause, this is the source, this is the origin,
 this is the condition for searching, namely ignorant wanting.
 
-Thus, Ānanda, these two dhammas meet at the two aspects of felt experience.
+So, Ānanda, these two dhammas meet at the two aspects of felt experience.
 
 ### Contact as Condition for Felt Experience
 
@@ -448,30 +448,30 @@ One designates a formless self and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, one who designates a self with form and limited either
+"Here, Ānanda, someone who designates a self with form and limited either
 designates it that way in the present, or designates it that way in the future,
 or thinks, 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of a limited self with form lies
 underneath.
 
-One who designates a self with form and infinite either designates it that way
-in the present, or designates it that way in the future, or thinks, 'Although
-it is not like that, I will make it be like that.'
+Someone who designates a self with form and infinite either designates it that
+way in the present, or designates it that way in the future, or thinks,
+'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite self with form
 lies underneath.
 
-One who designates a formless self and limited either designates it that way in
-the present, or designates it that way in the future, or thinks, 'Although it
-is not like that, I will make it be like that.'
+Someone who designates a formless self and limited either designates it that
+way in the present, or designates it that way in the future, or thinks,
+'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of a limited formless self lies
 underneath.
 
-One who designates a formless self and infinite either designates it that way
-in the present, or designates it that way in the future, or thinks, 'Although
-it is not like that, I will make it be like that.'
+Someone who designates a formless self and infinite either designates it that
+way in the present, or designates it that way in the future, or thinks,
+'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite formless self lies
 underneath.
@@ -498,31 +498,31 @@ One does not designate a formless self and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, one who does not designate a self with form and limited does not
-designate it that way in the present, does not designate it that way in the
+"Here, Ānanda, someone who does not designate a self with form and limited does
+not designate it that way in the present, does not designate it that way in the
 future, and does not think, 'Although it is not like that, I will make it be
 like that.'
 
 In this case, it is enough to say that a view of a limited self with form does
 not lie underneath.
 
-One who does not designate a self with form and infinite does not designate it
-that way in the present, does not designate it that way in the future, and does
-not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a self with form and infinite does not designate
+it that way in the present, does not designate it that way in the future, and
+does not think, 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite self with form
 does not lie underneath.
 
-One who does not designate a formless self and limited does not designate it
-that way in the present, does not designate it that way in the future, and does
-not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a formless self and limited does not designate
+it that way in the present, does not designate it that way in the future, and
+does not think, 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of a limited formless self does
 not lie underneath.
 
-One who does not designate a formless self and infinite does not designate it
-that way in the present, does not designate it that way in the future, and does
-not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a formless self and infinite does not designate
+it that way in the present, does not designate it that way in the future, and
+does not think, 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite formless self does
 not lie underneath.
@@ -531,17 +531,17 @@ To this extent, Ānanda, one does not designate a self.
 
 ### Regarding a Self
 
-"And to what extent, Ānanda, does one regard a self?
+"And to what extent, Ānanda, does someone regard a self?
 
-One regards felt experience as self:
+Someone regards felt experience as self:
 
 'Felt experience is my self.'
 
-Or one regards self in this way:
+Or they regard self in this way:
 
 'Felt experience is not my self. My self does not feel.'
 
-Or one regards self in this way:
+Or they regard self in this way:
 
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience.'
@@ -555,14 +555,14 @@ they should be told:
 'Friend, there are these three feelings: pleasant feeling, painful feeling, and
 mixed feeling. Which of these three feelings do you regard as self?'
 
-At a time when one feels pleasant feeling, one does not at that time feel
-painful feeling or mixed feeling. At that time one feels only pleasant feeling.
+When someone feels pleasant feeling, they do not at that time feel painful
+feeling or mixed feeling. At that time they feel only pleasant feeling.
 
-At a time when one feels painful feeling, one does not at that time feel
-pleasant feeling or mixed feeling. At that time one feels only painful feeling.
+When someone feels painful feeling, they do not at that time feel pleasant
+feeling or mixed feeling. At that time they feel only painful feeling.
 
-At a time when one feels mixed feeling, one does not at that time feel pleasant
-feeling or painful feeling. At that time one feels only mixed feeling.
+When someone feels mixed feeling, they do not at that time feel pleasant
+feeling or painful feeling. At that time they feel only mixed feeling.
 
 Pleasant feeling, Ānanda, is impermanent, conditioned, dependently arisen,
 liable to wearing away, passing away, fading, and quenching.
@@ -573,22 +573,22 @@ wearing away, passing away, fading, and quenching.
 Mixed feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
-Feeling pleasant feeling, one thinks, 'This is my self.'
+Feeling pleasant feeling, they think, 'This is my self.'
 
-With the quenching of that very pleasant feeling, one thinks, 'My self has gone
+With the quenching of that very pleasant feeling, they think, 'My self has gone
 away.'
 
-Feeling painful feeling, one thinks, 'This is my self.'
+Feeling painful feeling, they think, 'This is my self.'
 
-With the quenching of that very painful feeling, one thinks, 'My self has gone
+With the quenching of that very painful feeling, they think, 'My self has gone
 away.'
 
-Feeling mixed feeling, one thinks, 'This is my self.'
+Feeling mixed feeling, they think, 'This is my self.'
 
-With the quenching of that very mixed feeling, one thinks, 'My self has gone
+With the quenching of that very mixed feeling, they think, 'My self has gone
 away.'
 
-Thus, in this very life, one who says, 'Felt experience is my self,' regards
+So, in this very life, someone who says, 'Felt experience is my self,' regards
 self as impermanent, mixed with pleasant and painful experience, and liable to
 arising and passing away.
 
@@ -752,43 +752,43 @@ bhikkhu is called one released through discernment.
 
 What are the eight?
 
-Having form, one sees forms.
+Someone who has form sees forms.
 
 This is the first release.
 
-Not recognizing form internally, one sees forms externally.
+Not recognizing form internally, they see forms externally.
 
 This is the second release.
 
-One is intent only on the beautiful.
+They are intent only on the beautiful.
 
 This is the third release.
 
 By completely going beyond recognitions of form, with the ending of
-recognitions of resistance, and not attending to recognitions of diversity, one
-enters and remains in the sphere of boundless space, aware that 'space is
+recognitions of resistance, and not attending to recognitions of diversity,
+they enter and remain in the sphere of boundless space, aware that 'space is
 boundless.'
 
 This is the fourth release.
 
-By completely going beyond the sphere of boundless space, one enters and
-remains in the sphere of boundless knowing, aware that 'knowing is boundless.'
+By completely going beyond the sphere of boundless space, they enter and remain
+in the sphere of boundless knowing, aware that 'knowing is boundless.'
 
 This is the fifth release.
 
-By completely going beyond the sphere of boundless knowing, one enters and
-remains in the sphere of nothingness, aware that 'there is nothing.'
+By completely going beyond the sphere of boundless knowing, they enter and
+remain in the sphere of nothingness, aware that 'there is nothing.'
 
 This is the sixth release.
 
-By completely going beyond the sphere of nothingness, one enters and remains in
+By completely going beyond the sphere of nothingness, they enter and remain in
 the sphere of neither-recognition-nor-non-recognition.
 
 This is the seventh release.
 
-By completely going beyond the sphere of
-neither-recognition-nor-non-recognition, one enters and remains in the
-cessation of recognition and felt experience.
+By completely going beyond the sphere of neither-recognition-nor-non-
+recognition, they enter and remain in the cessation of recognition and felt
+experience.
 
 This is the eighth release.
 
