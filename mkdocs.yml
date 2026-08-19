@@ -43,4 +43,8 @@ nav:
   - Home: index.md
   - Start Here: start-here.md
   - Suttas:
+      - "AN 3.65: Kesamutta Sutta": suttas/an3-65-kesamutta-sutta.md
+      - "SN 56.11: Dhammacakkappavattana Sutta": suttas/sn56-11-dhammacakkappavattana-sutta.md
+      - "SN 36.6: Salla Sutta": suttas/sn36-6-salla-sutta.md
       - "MN 63: Culamalukya Sutta": suttas/mn63-culamalukya-sutta.md
+      - "SN 22.59: Anattalakkhana Sutta": suttas/sn22-59-anattalakkhana-sutta.md

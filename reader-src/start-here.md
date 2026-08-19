@@ -12,11 +12,15 @@ never read early Buddhist material before, what order actually makes sense?
 Those two orderings sometimes agree and often don't, and that's expected --
 they're solving different problems.
 
-**A note on links:** only [MN 63](suttas/mn63-culamalukya-sutta.md) has a
-built reader page on this site so far -- the rest of this project's readings
-are still in progress (see the [homepage](index.md)). Every other sutta below
-links to its source text on GitHub: the same governed translation, but as a
-plain Markdown document with the full editorial apparatus attached, rather
+**A note on links:** five suttas on this list --
+[AN 3.65](suttas/an3-65-kesamutta-sutta.md),
+[SN 56.11](suttas/sn56-11-dhammacakkappavattana-sutta.md),
+[SN 36.6](suttas/sn36-6-salla-sutta.md),
+[MN 63](suttas/mn63-culamalukya-sutta.md), and
+[SN 22.59](suttas/sn22-59-anattalakkhana-sutta.md) -- have built reader
+pages so far (see the [homepage](index.md)). Every other sutta below links
+to its source text on GitHub instead: the same governed translation, but as
+a plain Markdown document with the full editorial apparatus attached, rather
 than the clean reading layout this site is building toward. Read them there
 for now; they'll move here over time.
 
@@ -26,7 +30,7 @@ Three texts that set the tone before anything technical shows up: why to
 trust this material at all, why some questions get deliberately left
 unanswered, and who was actually asking these questions in the first place.
 
-1. **[AN 3.65: Kesamutta Sutta (the Kālāma Sutta)](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an3-65-kesamutta-sutta.md)** -- "don't take my word for it, or anyone else's." The most naturally modern-feeling starting point: an explicit instruction to test claims against your own experience rather than accept them on authority.
+1. **[Test It Yourself](suttas/an3-65-kesamutta-sutta.md)** (AN 3.65, the Kālāma Sutta) -- "don't take my word for it, or anyone else's." The most naturally modern-feeling starting point: an explicit instruction to test claims against your own experience rather than accept them on authority.
 2. **[MN 63: The Man Struck by a Poisoned Arrow](suttas/mn63-culamalukya-sutta.md)** -- why the teaching refuses to answer certain metaphysical questions. Directly answers the objection a skeptical reader will already be forming after text 1.
 3. **[MN 26: Pāsarāsi Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn26-pasarasi-sutta.md)** -- the Buddha's own account of leaving home, studying under two teachers, and finding them insufficient. A narrative, not a doctrine -- a human anchor before the vocabulary gets technical.
 
@@ -34,8 +38,8 @@ unanswered, and who was actually asking these questions in the first place.
 
 The core claim and the practical response to it, kept concrete.
 
-4. **[SN 56.11: Dhammacakkappavattana Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta.md)** -- the first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame -- taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.
-5. **[SN 36.6: Salla Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn36-6-salla-sutta.md)** -- the one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. Concrete, bodily, and immediately recognizable.
+4. **[The First Teaching](suttas/sn56-11-dhammacakkappavattana-sutta.md)** (SN 56.11) -- the first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame -- taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.
+5. **[One Arrow, Not Two](suttas/sn36-6-salla-sutta.md)** (SN 36.6) -- the one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. Concrete, bodily, and immediately recognizable.
 6. **[MN 7: Vattha Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn7-vattha-sutta.md)** -- a mind is like cloth: dye it while it's dirty and the color comes out wrong. Ethics introduced through a simile instead of a rule list.
 7. **[AN 4.113: Patoda Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an4-113-patoda-sutta.md)** -- four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. A jolt of urgency after three fairly calm texts.
 8. **[AN 11.9: Saddhā Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an11-9-saddha-sutta.md)** -- addresses the "do I have to believe something" question directly, which by this point the reader has probably already asked.
@@ -60,7 +64,7 @@ The harder doctrinal core. Everything here assumes the reader already has
 the practical vocabulary from Stages 1-3 -- this is where that vocabulary
 gets tested against the two hardest ideas in the material.
 
-17. **[SN 22.59: Anattalakkhaṇa Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-59-anattalakkhana-sutta.md)** -- the second sermon. Not-self laid out as a clean, followable argument rather than an assertion.
+17. **[Nothing Here Is You](suttas/sn22-59-anattalakkhana-sutta.md)** (SN 22.59) -- the second sermon. Not-self laid out as a clean, followable argument rather than an assertion.
 18. **[MN 22: Alagaddūpama Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn22-alagaddupama-sutta.md)** -- the cobra simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
 19. **[SN 22.48: Khandha Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-48-khandha-sutta.md)** -- what the five heaps actually are, stated directly.
 20. **[SN 22.89: Khemaka Sutta](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-89-khemaka-sutta.md)** -- a subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of "I am." Worth reading only after 17-19 make the basic claim solid.
