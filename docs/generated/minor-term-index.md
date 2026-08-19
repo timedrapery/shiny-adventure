@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 885
+- Entries: 908
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -11,8 +11,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | --- | --- | --- | --- | --- |
 | [abhijjha-kayagantha](../../terms/minor/abhijjha-kayagantha.json) | abhijjhā kāyagantha | bodily knot of coveting | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [abhijjha](../../terms/minor/abhijjha.json) | abhijjhā | coveting | reviewed | mental-qualities, ethics |
+| [abhinivesa](../../terms/minor/abhinivesa.json) | abhinivesa | insistence | reviewed | core-doctrine, self-view |
 | [abhippamodaya-cittam](../../terms/minor/abhippamodaya-cittam.json) | abhippamodayaṃ cittaṃ | gladdening the feeling mind | stable | core-practice, meditative-development, formula, translation-sensitive |
 | [abhisamaya](../../terms/minor/abhisamaya.json) | abhisamaya | penetration | reviewed | core-doctrine |
+| [abhisandeti-parisandeti-paripureti-parippharati](../../terms/minor/abhisandeti-parisandeti-paripureti-parippharati.json) | abhisandeti parisandeti paripūreti parippharati | drenches, saturates, fills, and spreads | reviewed | core-practice, formula, mental-theme |
 | [abhisankhara](../../terms/minor/abhisankhara.json) | abhisaṅkhāra | active constructing | reviewed | core-doctrine, dependent-origination |
 | [abrahmacariya-veramani](../../terms/minor/abrahmacariya-veramani.json) | abrahmacariya-veramani | abstaining from sexual activity | reviewed | ethics |
 | [abrahmacariya](../../terms/minor/abrahmacariya.json) | abrahmacariya | unchastity | reviewed | ethics |
@@ -29,6 +31,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [adinava-nana](../../terms/minor/adinava-nana.json) | adinava-nana | knowledge of danger | reviewed | meditative-development, liberation |
 | [adinnadana-veramani](../../terms/minor/adinnadana-veramani.json) | adinnadana-veramani | abstaining from taking what is not given | reviewed | ethics |
 | [adinnadana](../../terms/minor/adinnadana.json) | adinnādāna | taking what is not given | reviewed | ethics |
+| [aditta](../../terms/minor/aditta.json) | āditta | burning | reviewed | core-doctrine, simile |
 | [adosa-mula](../../terms/minor/adosa-mula.json) | adosamūla | rooted in non-aversion | reviewed | ethics, mental-qualities, causality |
 | [adukkhamasukha-vedana](../../terms/minor/adukkhamasukha-vedana.json) | adukkhamasukhavedanā | mixed feeling | reviewed | aggregates |
 | [agantuka](../../terms/minor/agantuka.json) | āgantuka | visiting | reviewed | core-doctrine |
@@ -47,6 +50,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [akuppa-cetovimutti](../../terms/minor/akuppa-cetovimutti.json) | akuppā-cetovimutti | unshakable release of mind | reviewed | liberation |
 | [akusala-dhamma](../../terms/minor/akusala-dhamma.json) | akusala-dhamma | unwholesome qualities | reviewed | ethics |
 | [alabha](../../terms/minor/alabha.json) | alābha | loss | reviewed | worldly-conditions |
+| [alaya](../../terms/minor/alaya.json) | ālaya | resting-place | reviewed | core-doctrine |
 | [alobha-mula](../../terms/minor/alobha-mula.json) | alobhamūla | rooted in non-greed | reviewed | ethics, mental-qualities, causality |
 | [aloka-kasina](../../terms/minor/aloka-kasina.json) | āloka-kasiṇa | light kasina | reviewed | meditative-development |
 | [amacca](../../terms/minor/amacca.json) | amacca | minister | reviewed | persons |
@@ -55,6 +59,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [amisa-piti](../../terms/minor/amisa-piti.json) | āmisa-pīti | worldly delight | reviewed | core-practice, meditative-development |
 | [amisa-sukha](../../terms/minor/amisa-sukha.json) | āmisa-sukha | worldly ease | reviewed | core-practice, meditative-development |
 | [amoha-mula](../../terms/minor/amoha-mula.json) | amohamūla | rooted in clarity | reviewed | ethics, mental-qualities, causality |
+| [an3-65-ten-criteria](../../terms/minor/an3-65-ten-criteria.json) | mā anussavena, mā paramparāya, mā itikirāya, mā piṭakasampadānena, mā takkahetu, mā nayahetu, mā ākāraparivitakkena, mā diṭṭhinijjhānakkhantiyā, mā bhabbarūpatāya, mā samaṇo no garū | Do not go by oral transmission; do not go by lineage; do not go by hearsay; do not go by scriptural authority; do not go by logical argumentation; do not go by inference; do not go by thinking through the apparent reasons; do not go by agreeing with a view after reflecting on it; do not go by the apparent competence of a speaker; and do not think 'This recluse is our teacher.' | reviewed | epistemology, formula, translation-sensitive |
 | [anagami-magga](../../terms/minor/anagami-magga.json) | anagami-magga | path of non-returning | reviewed | core-practice |
 | [anagami-phala](../../terms/minor/anagami-phala.json) | anāgāmiphala | fruit of non-returning | reviewed | liberation |
 | [anagara](../../terms/minor/anagara.json) | anagāra | homeless life | reviewed | core-doctrine |
@@ -122,6 +127,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [asesa-viraga-nirodha](../../terms/minor/asesa-viraga-nirodha.json) | asesavirāganirodha | complete fading and quenching | stable | formula, core-doctrine, liberation, translation-sensitive |
 | [asevana-paccaya](../../terms/minor/asevana-paccaya.json) | asevana-paccaya | repetition condition | reviewed | causality |
 | [asevana](../../terms/minor/asevana.json) | asevana | repetition | reviewed | causality |
+| [assasa](../../terms/minor/assasa.json) | assāsa | consolation | reviewed | practice, epistemology |
 | [assu](../../terms/minor/assu.json) | assu | tears | reviewed | embodiment, meditative-development |
 | [asubha-sanna](../../terms/minor/asubha-sanna.json) | asubha-sanna | perception of the unattractive | reviewed | meditative-development, liberation |
 | [asubha](../../terms/minor/asubha.json) | asubha | unattractive | reviewed | meditative-development |
@@ -137,6 +143,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [atthi](../../terms/minor/atthi.json) | atthi | bones | reviewed | embodiment, meditative-development |
 | [atthika-asubha](../../terms/minor/atthika-asubha.json) | atthika-asubha | skeleton contemplation | reviewed | meditative-development, embodiment |
 | [atthiminja](../../terms/minor/atthiminja.json) | atthiminja | bone marrow | reviewed | embodiment, meditative-development |
+| [atthita](../../terms/minor/atthita.json) | atthitā | the view of existence | reviewed | core-doctrine, translation-sensitive |
 | [aveccappasada](../../terms/minor/aveccappasada.json) | aveccappasada | verified confidence | reviewed | core-practice |
 | [avigata-paccaya](../../terms/minor/avigata-paccaya.json) | avigata-paccaya | non-disappearance condition | reviewed | causality |
 | [avigata](../../terms/minor/avigata.json) | avigata | non-disappearance | reviewed | causality |
@@ -150,6 +157,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [avijjayoga](../../terms/minor/avijjayoga.json) | avijjāyoga | yoke of ignorance | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [avijjogha](../../terms/minor/avijjogha.json) | avijjogha | flood of ignorance | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [avitakka-avicara](../../terms/minor/avitakka-avicara.json) | avitakka-avicara | without thinking and pondering | reviewed | jhana-factors, meditative-development |
+| [avyakata](../../terms/minor/avyakata.json) | avyākata | undeclared | reviewed | core-doctrine, epistemology, translation-sensitive |
 | [ayasa](../../terms/minor/ayasa.json) | ayasa | disrepute | reviewed | worldly-conditions |
 | [ayonisomanasikara](../../terms/minor/ayonisomanasikara.json) | ayonisomanasikara | unwise attention | reviewed | core-practice |
 
@@ -249,6 +257,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [danta](../../terms/minor/danta.json) | danta | teeth | reviewed | embodiment, meditative-development |
 | [daraka](../../terms/minor/daraka.json) | dāraka | child | reviewed | persons |
 | [darika](../../terms/minor/darika.json) | dārikā | girl | reviewed | persons |
+| [dasa-avyakatavatthuni](../../terms/minor/dasa-avyakatavatthuni.json) | dasa avyākatavatthūni | the ten undeclared points | reviewed | core-doctrine, formula, epistemology, translation-sensitive |
 | [desa](../../terms/minor/desa.json) | desa | region | reviewed | core-doctrine |
 | [deva-yoni](../../terms/minor/deva-yoni.json) | deva-yoni | deva birth | reviewed | core-doctrine |
 | [deva](../../terms/minor/deva.json) | deva | deva | reviewed | persons |
@@ -275,6 +284,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [ditthadhammanibbana](../../terms/minor/ditthadhammanibbana.json) | diṭṭhadhammanibbāna | here-and-now nibbāna | reviewed | liberation, consummation-interface, translation-sensitive |
 | [ditthasava](../../terms/minor/ditthasava.json) | diṭṭhāsava | outflow of views | stable | core-doctrine, mental-qualities |
 | [ditthi-anusaya](../../terms/minor/ditthi-anusaya.json) | diṭṭhi-anusaya | underlying tendency toward views | stable | core-doctrine, mental-qualities |
+| [ditthitthana](../../terms/minor/ditthitthana.json) | diṭṭhiṭṭhāna | ground for views | reviewed | core-doctrine, self-view |
 | [ditthiyoga](../../terms/minor/ditthiyoga.json) | diṭṭhiyoga | yoke of views | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [ditthogha](../../terms/minor/ditthogha.json) | diṭṭhogha | flood of views | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [dosa-mula](../../terms/minor/dosa-mula.json) | dosamūla | rooted in aversion | reviewed | ethics, mental-qualities, causality |
@@ -365,6 +375,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [jatipaccaya-jaramaranam](../../terms/minor/jatipaccaya-jaramaranam.json) | jātipaccayā jarāmaraṇaṃ | with birth as condition, ageing and dying | reviewed | dependent-origination, causality, translation-sensitive |
 | [jhana-paccaya](../../terms/minor/jhana-paccaya.json) | jhana-paccaya | jhana condition | reviewed | causality |
 | [jhaya](../../terms/minor/jhaya.json) | jhaya | meditator | reviewed | core-practice |
+| [jiva](../../terms/minor/jiva.json) | jīva | soul | reviewed | core-doctrine, translation-sensitive |
 | [jivha-dvara](../../terms/minor/jivha-dvara.json) | jivha-dvara | tongue door | reviewed | sense-fields |
 | [jivha-samphassa](../../terms/minor/jivha-samphassa.json) | jivhāsamphassa | tongue-contact | reviewed | sense-fields |
 | [jivhayatana](../../terms/minor/jivhayatana.json) | jivhāyatana | tongue sense field | reviewed | sense-fields |
@@ -542,6 +553,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [nataka](../../terms/minor/nataka.json) | ñātaka | relative | reviewed | persons |
 | [natthi-paccaya](../../terms/minor/natthi-paccaya.json) | natthi-paccaya | absence condition | reviewed | causality |
 | [natthi](../../terms/minor/natthi.json) | natthi | absence | reviewed | causality |
+| [natthita](../../terms/minor/natthita.json) | natthitā | the view of non-existence | reviewed | core-doctrine, translation-sensitive |
 | [navaka](../../terms/minor/navaka.json) | navaka | junior monastic | reviewed | persons |
 | [naya](../../terms/minor/naya.json) | naya | line of interpretation | reviewed | core-doctrine |
 | [nekkhamma-dhatu](../../terms/minor/nekkhamma-dhatu.json) | nekkhamma-dhātu | element of renunciation | reviewed | core-doctrine |
@@ -554,6 +566,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [neyya](../../terms/minor/neyya.json) | neyya | trainable | reviewed | persons |
 | [nharu](../../terms/minor/nharu.json) | nharu | sinews | reviewed | embodiment, meditative-development |
 | [nibbana-dhatu](../../terms/minor/nibbana-dhatu.json) | nibbāna-dhātu | nibbāna element | stable | core-doctrine, translation-sensitive, consummation-interface |
+| [nibbida-viraga-nirodha-upasama-abhinna-sambodha-nibbana-formula](../../terms/minor/nibbida-viraga-nirodha-upasama-abhinna-sambodha-nibbana-formula.json) | nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati | leads to disenchantment, fading, cessation, calming, higher knowing, awakening, or nibbāna | reviewed | core-doctrine, formula, translation-sensitive |
 | [nigama](../../terms/minor/nigama.json) | nigama | town | reviewed | core-doctrine |
 | [nila-kasina](../../terms/minor/nila-kasina.json) | nīla-kasiṇa | blue kasina | reviewed | meditative-development |
 | [nimitta](../../terms/minor/nimitta.json) | nimitta | sign | reviewed | core-doctrine, translation-sensitive |
@@ -576,6 +589,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [odata-kasina](../../terms/minor/odata-kasina.json) | odāta-kasiṇa | white kasina | reviewed | meditative-development |
 | [ogham-atari](../../terms/minor/ogham-atari.json) | oghaṃ atari | crossed over the flood | stable | formula, bondage-imagery, translation-sensitive, liberation |
 | [okasa](../../terms/minor/okasa.json) | okāsa | space | reviewed | core-doctrine |
+| [opapatika](../../terms/minor/opapatika.json) | opapātika | spontaneously reborn | reviewed | core-doctrine, cosmology |
 | [orambhagiya-samyojana](../../terms/minor/orambhagiya-samyojana.json) | orambhāgiya-saṃyojana | lower fetter | stable | core-doctrine, liberation |
 | [ottappa-dhana](../../terms/minor/ottappa-dhana.json) | ottappa-dhana | wealth of caution | reviewed | ethics, core-practice |
 | [ovada](../../terms/minor/ovada.json) | ovāda | exhortation | reviewed | core-practice |
@@ -600,6 +614,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [panatipata-veramani](../../terms/minor/panatipata-veramani.json) | panatipata-veramani | abstaining from killing | reviewed | ethics |
 | [panatipata](../../terms/minor/panatipata.json) | pāṇātipāta | taking life | reviewed | ethics |
 | [panca-bala](../../terms/minor/panca-bala.json) | panca-bala | five strengths | reviewed | core-doctrine, core-practice |
+| [panca-brahmana-dhamma](../../terms/minor/panca-brahmana-dhamma.json) | pañcahi dhammehi samannāgato brāhmaṇo | a brahmin endowed with five things | reviewed | formula, ethics |
 | [panca-indriya](../../terms/minor/panca-indriya.json) | panca-indriya | five faculties | reviewed | core-doctrine, core-practice |
 | [panca-nivarana](../../terms/minor/panca-nivarana.json) | pañca-nīvaraṇā | five distractions | stable | core-doctrine, core-practice, translation-sensitive |
 | [pancakkhandha](../../terms/minor/pancakkhandha.json) | pañcakkhandhā | five heaps | stable | aggregates, core-doctrine |
@@ -626,11 +641,13 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [parinibbana-dhatu](../../terms/minor/parinibbana-dhatu.json) | parinibbāna-dhātu | final nibbāna element | stable | core-doctrine, translation-sensitive, consummation-interface |
 | [parisa](../../terms/minor/parisa.json) | parisā | assembly | reviewed | core-doctrine |
 | [parisuddhi](../../terms/minor/parisuddhi.json) | pārisuddhi | purity | reviewed | vinaya, core-practice |
+| [paritassana](../../terms/minor/paritassana.json) | paritassanā | anxiety | reviewed | mental-qualities, self-view |
 | [paritta](../../terms/minor/paritta.json) | paritta | protection | reviewed | core-practice, translation-sensitive |
 | [parivajjana](../../terms/minor/parivajjana.json) | parivajjanā | avoiding | reviewed | core-practice, formula, translation-sensitive |
 | [parivasa](../../terms/minor/parivasa.json) | parivāsa | probation | reviewed | core-practice |
 | [pariyatti](../../terms/minor/pariyatti.json) | pariyatti | learning | reviewed | core-practice |
 | [pariyaya](../../terms/minor/pariyaya.json) | pariyāya | mode of exposition | reviewed | core-doctrine |
+| [pariyesana](../../terms/minor/pariyesana.json) | pariyesanā | search | reviewed | core-practice |
 | [pasada](../../terms/minor/pasada.json) | pasāda | clarity | reviewed | mental-qualities |
 | [pasamsa](../../terms/minor/pasamsa.json) | pasaṃsā | praise | reviewed | worldly-conditions |
 | [pasannacitta](../../terms/minor/pasannacitta.json) | pasannacitta | clear-hearted mind | reviewed | core-practice |
@@ -731,6 +748,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [salayatana-nirodha](../../terms/minor/salayatana-nirodha.json) | salayatana-nirodha | quenching of the six fields of experience | reviewed | dependent-origination, liberation |
 | [salayatana-paccaya](../../terms/minor/salayatana-paccaya.json) | salayatana-paccaya | six fields of experience as condition | reviewed | dependent-origination, causality |
 | [salayatanapaccaya-phasso](../../terms/minor/salayatanapaccaya-phasso.json) | saḷāyatanapaccayā phasso | with the six fields of experience as condition, contact | reviewed | dependent-origination, causality, translation-sensitive |
+| [salla](../../terms/minor/salla.json) | salla | arrow | reviewed | simile, translation-sensitive |
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
 | [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | mental composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | mental composure strength | reviewed | core-practice, mental-qualities |
@@ -738,7 +756,6 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | mental composure faculty | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
-| [samana](../../terms/minor/samana.json) | samaṇa | contemplative | reviewed | persons, core-practice |
 | [samanantara-paccaya](../../terms/minor/samanantara-paccaya.json) | samanantara-paccaya | contiguity condition | reviewed | causality |
 | [samanantara](../../terms/minor/samanantara.json) | samanantara | contiguity | reviewed | causality |
 | [samanera](../../terms/minor/samanera.json) | sāmaṇera | novice mendicant | reviewed | persons |
@@ -747,6 +764,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [samatha-vipassana](../../terms/minor/samatha-vipassana.json) | samatha-vipassana | calm and insight | reviewed | core-practice |
 | [samatha](../../terms/minor/samatha.json) | samatha | tranquility | reviewed | meditative-development, core-practice |
 | [samathayata](../../terms/minor/samathayata.json) | samathayata | inclined to calm | reviewed | core-practice |
+| [sambodha](../../terms/minor/sambodha.json) | sambodha | awakening | reviewed | core-doctrine |
 | [sammapadhana](../../terms/minor/sammapadhana.json) | sammappadhāna | right exertion | reviewed | core-practice, meditative-development |
 | [sammasana-nana](../../terms/minor/sammasana-nana.json) | sammasana-nana | knowledge of thorough contemplation | reviewed | meditative-development, liberation |
 | [sampajano](../../terms/minor/sampajano.json) | sampajāno | clearly knowing | reviewed | core-practice, embodiment |
@@ -770,7 +788,9 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sankharapaccaya-vinnana](../../terms/minor/sankharapaccaya-vinnana.json) | saṅkhārapaccayā viññāṇaṃ | with putting things together as condition, knowing | reviewed | dependent-origination, causality, translation-sensitive |
 | [sankharupekkha-nana](../../terms/minor/sankharupekkha-nana.json) | sankharupekkha-nana | knowledge of dynamic balance toward formations | reviewed | meditative-development, liberation |
 | [sanna-dhatu](../../terms/minor/sanna-dhatu.json) | saññā-dhātu | recognition element | reviewed | core-doctrine |
+| [sanna-vibhuta](../../terms/minor/sanna-vibhuta.json) | saññā vibhūtā hoti | recognition has vanished | reviewed | formula, core-practice |
 | [sannakkhandha](../../terms/minor/sannakkhandha.json) | saññākkhandha | recognition heap | stable | aggregates, translation-sensitive |
+| [sannavedayitanirodha](../../terms/minor/sannavedayitanirodha.json) | saññāvedayitanirodha | cessation of recognition and felt experience | reviewed | core-practice, mental-theme |
 | [santosa](../../terms/minor/santosa.json) | santosa | contentment | reviewed | mental-qualities |
 | [santutthi](../../terms/minor/santutthi.json) | santuṭṭhi | contentment | reviewed | core-practice |
 | [sappurisa-dhamma](../../terms/minor/sappurisa-dhamma.json) | sappurisadhamma | qualities of a good person | reviewed | ethics, persons, core-practice |
@@ -778,6 +798,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sarambha](../../terms/minor/sarambha.json) | sārambha | contentious aggression | reviewed | mental-qualities |
 | [sarana](../../terms/minor/sarana.json) | saraṇa | refuge | reviewed | core-practice |
 | [sariputta](../../terms/minor/sariputta.json) | Sāriputta | Sāriputta | reviewed | persons |
+| [sarira](../../terms/minor/sarira.json) | sarīra | body | reviewed | core-doctrine, translation-sensitive |
 | [sati-sambojjhanga](../../terms/minor/sati-sambojjhanga.json) | satisambojjhaṅga | remembering awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [sati-sampajanna](../../terms/minor/sati-sampajanna.json) | sati-sampajañña | remembering and clear knowing | reviewed | core-practice, mental-qualities, embodiment |
 | [satibala](../../terms/minor/satibala.json) | satibala | remembering strength | reviewed | core-practice, mental-qualities |
@@ -948,6 +969,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vinnanakkhandha](../../terms/minor/vinnanakkhandha.json) | viññāṇakkhandha | knowing heap | stable | aggregates, translation-sensitive |
 | [vinnananancayatana](../../terms/minor/vinnananancayatana.json) | viññāṇañcāyatana | sphere of boundless knowing | reviewed | meditative-development |
 | [vinnanapaccaya-namarupa](../../terms/minor/vinnanapaccaya-namarupa.json) | viññāṇapaccayā nāmarūpaṃ | with knowing as condition, name-and-form | reviewed | dependent-origination, causality, translation-sensitive |
+| [vinnu](../../terms/minor/vinnu.json) | viññū | those with discernment | reviewed | ethics, epistemology |
 | [vinodana](../../terms/minor/vinodana.json) | vinodanā | dispelling | reviewed | core-practice, formula, translation-sensitive |
 | [vipacitannu](../../terms/minor/vipacitannu.json) | vipacitaññū | someone who understands after explanation | reviewed | persons |
 | [vipaka-paccaya](../../terms/minor/vipaka-paccaya.json) | vipaka-paccaya | result condition | reviewed | causality |
@@ -965,6 +987,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [viriyabala](../../terms/minor/viriyabala.json) | viriyabala | energy strength | reviewed | core-practice, mental-qualities |
 | [viriyaindriya](../../terms/minor/viriyaindriya.json) | viriyindriya | energy faculty | reviewed | core-practice, mental-qualities |
 | [visakha](../../terms/minor/visakha.json) | Visākhā | Visākhā | reviewed | persons |
+| [visattika](../../terms/minor/visattika.json) | visattikā | the world's entanglement | reviewed | core-doctrine |
 | [visaya](../../terms/minor/visaya.json) | visaya | domain | reviewed | core-doctrine |
 | [vivada](../../terms/minor/vivada.json) | vivāda | dispute | reviewed | core-practice |
 | [viveka](../../terms/minor/viveka.json) | viveka | seclusion | reviewed | core-practice |
