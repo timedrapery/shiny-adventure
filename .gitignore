@@ -34,3 +34,6 @@ site/
 # Claude Code: share the project permission allowlist, keep machine-local
 # overrides out of the repo (the two machines have different local settings).
 .claude/settings.local.json
+
+# Cached Bilara root texts fetched by verify_example_sources.py
+.bilara-cache/

@@ -164,11 +164,44 @@ Why it matters beyond these records:
 - `lint_terms.py` checks that reviewed and stable major entries *have* example
   sources. Nothing checks that a cited source contains the cited Pali.
 
-Closing this properly needs tooling: fetch the Bilara root text for each cited
-source and confirm the quoted Pali appears in it. That is a network-dependent
-check, so it probably belongs as a separate opt-in script rather than inside
-`run_checks.py`. Until it exists, treat `example_phrases` sources as unverified
-when they matter.
+### The Tooling Now Exists
+
+`python scripts/verify_example_sources.py` fetches the Bilara root text for
+each cited sutta and reports whether the quoted Pali is there. It is opt-in
+rather than part of `run_checks.py`, because it needs network access and a
+check that fails when GitHub is unreachable would be worse than no check.
+
+Sweep of all 738 examples, 2026-08-19:
+
+| Verdict | Count | Meaning |
+| --- | --- | --- |
+| ok | 387 | found |
+| inflected | 147 | stem present, different ending; normal lemma citation |
+| inconclusive | 148 | root text uses peyyala, so absence proves nothing |
+| partial | 11 | right sutta, wrong quoted wording |
+| absent | 9 | no word of the phrase in the cited sutta |
+| unfetched | 10 | retrieval failed |
+| unsupported | 26 | Dhp / Iti / Ud, chunked by verse range in Bilara |
+
+Only `absent` is reliably an error, and even there one caveat applies: AN
+numbering is not stable across editions. All nine remaining `absent` verdicts
+are AN citations, and SuttaCentral's AN 3.134 is Parisāsutta where other
+schemes number that discourse differently. Before treating one as wrong, check
+the fetched sutta's title.
+
+The nine are: `anagami` (AN 3.86), `appanihita` (AN 3.32), `issa` and
+`macchariya` (AN 5.229, two each), `parinibbana-dhatu` (AN 4.173), `tathata`
+(AN 3.134), and `vijja` (AN 10.1). `anagami` is confirmed wrong by hand: AN
+3.86 is the right *kind* of sutta and contains `sakadāgāmī` and `sotāpanno`,
+but no `anāgām` in any form. The other eight need the numbering check before
+anyone edits them.
+
+Building the tool took four corrections, all found by testing it against
+records verified by hand first, and all worth knowing if it is ever extended:
+case-sensitive stem probes missed segment-initial capitals; diacritic
+conventions differ between the records (`paṭhavi`) and Bilara MS (`pathavi`);
+root texts abridge with peyyala so absence often proves nothing; and a stem
+that keeps the final vowel misses ordinary case inflection.
 
 ## Concrete Next Tasks
 
