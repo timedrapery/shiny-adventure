@@ -70,7 +70,10 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-### Wave 6: Ungoverned Major Families
+**Wave 7 is undrafted.** Drafting it is the next translation step; see
+below for what the Wave 6 experience says about how to run that audit.
+
+### Wave 6: Ungoverned Major Families (complete)
 
 Audited 2026-08-19 against the 36-surface, 1145-term state. See
 [next-suttas-roadmap.md](next-suttas-roadmap.md) for the full rationale, the
@@ -96,6 +99,31 @@ rejected as the ranking basis.
    consistent with each other. See the surface notes.
 
 **Wave 6 is complete.** All five surfaces are translated.
+
+### What Wave 6 Says About Running The Next Audit
+
+Four of the five leverage signals in the Wave 6 ranking turned out to be wrong
+when checked against the source texts:
+
+- SN 55.5 was ranked for five orphan majors and anchors two. `sakadagami`,
+  `anagami`, and `phala` cited it for Pali that is not in it.
+- AN 6.63 was said to anchor `phala` and `papa`. It uses `vipaka` throughout
+  and contains no `pap` at all.
+- SN 12.61 was said to anchor `idappaccayata`. The word does not occur in it.
+
+All three traced to `example_phrases` citing suttas that did not contain the
+quoted Pali. Those citations have since been repaired and
+`scripts/verify_example_sources.py` now reports zero `absent`, so an audit run
+today rests on better data than Wave 6's did.
+
+Two method points worth carrying forward:
+
+- Rank by **orphan count**, not citation volume. Raw citation weight ranked
+  DN 22 first, but twelve of its fifteen citing entries are already anchored
+  by MN 10, so it would mostly re-govern vocabulary already demonstrated.
+- **Verify the leverage signal against the source before committing to a
+  queue position.** Every one of the errors above would have been caught by
+  fetching the sutta and grepping for the term.
 
 The organizing idea for this wave is different from Wave 5. Wave 5 closed
 source gaps for material already cited in existing surfaces. Wave 6 targets
