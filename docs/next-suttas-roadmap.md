@@ -23,6 +23,10 @@ complete. The next gains come from doctrinal families that are now
 well-governed in the lexicon but thin in outward-facing translation
 documents.
 
+Wave 6 was audited on 2026-08-19 against this same 36-surface state. Its
+ranking applies the four factors below but corrects for a flaw they have on
+their own — see the method note under Ranked Roadmap (Wave 6).
+
 The ranking weights four factors:
 
 1. live `sutta_references` density across the current lexicon
@@ -30,6 +34,121 @@ The ranking weights four factors:
 3. formula and sequence density that can stabilize translator-facing control
    language
 4. ability to reduce future drift across clusters already under governance
+
+## Ranked Roadmap (Wave 6)
+
+Audited 2026-08-19 against the 36-surface, 1145-term state.
+
+### Method Note: Raw Citation Count Is Not Leverage
+
+The four factors above rank `DN 22` first on raw citation weight, at fifteen
+citing entries. That ranking is wrong, and the reason matters for every future
+audit.
+
+`DN 22` is the expanded Mahāsatipaṭṭhāna, and `MN 10` already has a surface.
+Of the fifteen entries citing `DN 22`, twelve are already anchored by `MN 10`,
+so translating it would re-govern vocabulary that running text already
+demonstrates. Its genuinely new contribution is three major entries.
+
+The sharper measure is how many citing entries are **orphans**: records whose
+sutta anchors are *all* untranslated, so no existing surface shows their policy
+in running text. Across the lexicon there are 189 such orphan entries. A
+further 543 entries carry no sutta citation at all, which is expected for many
+minor compounds but is worth watching as a separate coverage question.
+
+Wave 6 therefore ranks by ungoverned major families rather than by citation
+volume.
+
+### 1. SN 12.11: Āhāra Sutta
+
+- Leverage signal: six orphan entries, all major -- `ahara`, `cetana`,
+  `kabalinkara-ahara`, `manosancetana-ahara`, `phassa-ahara`, and
+  `vinnana-ahara`. No other candidate anchors this many major entries that
+  currently have no surface at all.
+- Beware the name collision: `SN 46.51` is also titled Āhāra Sutta and is
+  already translated, but it is a different text about what feeds the
+  distractions and awakening factors. More importantly, that surface
+  deliberately overrides `ahara` into a local feeding-and-starving idiom
+  rather than the headword default `nutriment`. The result is that the
+  `ahara` headword's own default rendering has no translation surface
+  demonstrating it anywhere in the repository.
+- Strengthens: the four-nutriments family as a governed set, and the
+  nutriment-to-craving link that sits directly beside dependent arising.
+- Likely lexicon pressure: confirm whether `nutriment` survives as the
+  headword default once it governs a text where the four nutriments are the
+  subject rather than a simile; and record the relationship between the
+  headword default and the `SN 46.51` local override explicitly.
+
+### 2. SN 55.5
+
+- Leverage signal: five orphan major entries -- `sotapanna`, `sakadagami`,
+  `anagami`, `sotapatti`, and `phala`. The entire attainment ladder is
+  governed in the lexicon but appears in no translation surface.
+- Strengthens: path-fruit vocabulary and the factors of stream-entry, which
+  are cited across the path-factor and liberation clusters without any running
+  text to anchor them.
+- Likely lexicon pressure: fix the boundary between `phala` as fruit of the
+  path and `phala` in ordinary result-language; and settle whether the four
+  attainment terms stay in Pali or take English renderings, since they are
+  currently governed as a family but never exercised.
+
+### 3. AN 6.63: Nibbedhika Sutta
+
+- Leverage signal: `kamma` is a major policy-bearing headword whose only
+  citation anchor is this untranslated text. For an early-Buddhist lexicon,
+  `kamma` having no translation surface is the single most conspicuous gap the
+  audit found.
+- Strengthens: the intention-and-action family -- `kamma`, `cetana`, `papa`,
+  and `phala` -- including the definition that identifies intention as what is
+  meant by kamma.
+- Likely lexicon pressure: keep `kamma` from drifting into generic
+  consequence-language; and confirm how `cetana` reads when it is defining
+  kamma rather than sitting in the dependent-arising chain.
+
+### 4. SN 12.61
+
+- Leverage signal: the highest formula density in the queue. Four formula
+  records -- `imasmim-sati-idam-hoti`, `imasmim-asati-idam-na-hoti`,
+  `imassuppada-idam-uppajjati`, and `imassa-nirodha-idam-nirujjhati` -- plus
+  the `idappaccayata` and `paccaya` majors.
+- Strengthens: the general conditionality formula that underlies every
+  dependent-arising surface already in the repository. This is reusable
+  control language rather than a single text's vocabulary.
+- Likely lexicon pressure: stabilize the four-line formula as one governed
+  block so it is not re-solved locally in each surface that quotes it.
+
+### 5. MN 11: Cūḷasīhanāda Sutta
+
+- Leverage signal: the highest major-entry pressure among texts whose entries
+  are not orphans -- six majors, including all four `upadana` types
+  (`kamupadana`, `ditthupadana`, `silabbatupadana`, `attavadupadana`) plus
+  `atta` and `ditthi`.
+- Strengthens: the appropriation family at the point where it is enumerated
+  rather than assumed, which is the weakest link in the dependent-arising
+  chain as currently surfaced.
+- Likely lexicon pressure: confirm the four-fold `upadana` enumeration as a
+  formula record.
+
+### Also Considered
+
+- `SN 22.105` -- short, and anchors the `sakkaya` pair whose
+  `translation_policy` was written on 2026-08-19. Good per-word return if a
+  quick surface is wanted.
+- `SN 51.13` -- the `iddhipada` family, four orphan entries.
+- `SN 45.174` -- the `gantha` knots family, seven orphan entries but only one
+  major.
+- `MN 77` -- ten orphan entries, but all are `kasina` minors with narrow
+  doctrinal reach. High count, low leverage; a good example of why raw orphan
+  count is also not sufficient on its own.
+
+## Suggested Order (Wave 6)
+
+1. `SN 12.11` -- most ungoverned major entries, and closes the `ahara`
+   headword-default gap
+2. `SN 55.5` -- the entire attainment ladder, currently unexercised
+3. `AN 6.63` -- gives `kamma` a translation surface
+4. `SN 12.61` -- reusable conditionality control language
+5. `MN 11` -- the four-fold appropriation enumeration
 
 ## Ranked Roadmap (Wave 5)
 

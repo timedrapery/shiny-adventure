@@ -63,9 +63,27 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-Wave 5 is complete. The next ranked wave has not yet been drafted — running
-[next-suttas-roadmap.md](next-suttas-roadmap.md)'s audit method against the
-current 36-surface lexicon is the next step before naming a Wave 6 queue.
+### Wave 6: Ungoverned Major Families
+
+Audited 2026-08-19 against the 36-surface, 1145-term state. See
+[next-suttas-roadmap.md](next-suttas-roadmap.md) for the full rationale, the
+per-text leverage signals, and the method note on why raw citation count was
+rejected as the ranking basis.
+
+1. `SN 12.11` Āhāra Sutta — six orphan major entries, the four-nutriments
+   family; also closes the gap where the `ahara` headword default has no
+   surface because `SN 46.51` overrides it locally
+2. `SN 55.5` — five orphan majors, the whole stream-entry and path-fruit ladder
+3. `AN 6.63` Nibbedhika Sutta — gives `kamma` its first translation surface
+4. `SN 12.61` — the four-line conditionality formula as reusable control
+   language
+5. `MN 11` Cūḷasīhanāda Sutta — the four-fold `upadana` enumeration
+
+The organizing idea for this wave is different from Wave 5. Wave 5 closed
+source gaps for material already cited in existing surfaces. Wave 6 targets
+**orphan** entries: governed records whose sutta anchors are all untranslated,
+so nothing in the outward-facing corpus demonstrates their policy in running
+text.
 
 ## Operating Note
 
