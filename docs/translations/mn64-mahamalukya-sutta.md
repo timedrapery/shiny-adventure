@@ -117,9 +117,9 @@ The Buddha said this:
 
 ### The Unlearned Ordinary Person
 
-"Here, Ānanda, an unlearned ordinary person, one who has not seen the noble
-ones, who is unskilled and untrained in the noble Dhamma, one who has not seen
-true persons, who is unskilled and untrained in the true person's Dhamma,
+"Here, Ānanda, an unlearned ordinary person, someone who has not seen the noble
+ones, who is unskilled and untrained in the noble Dhamma, someone who has not
+seen true persons, who is unskilled and untrained in the true person's Dhamma,
 lives with a feeling mind overwhelmed by identity view, possessed by identity
 view.
 
@@ -158,10 +158,11 @@ established, not brought under training, a lower fetter.
 
 ### The Learned Noble Disciple
 
-"But, Ānanda, a learned noble disciple, one who has seen the noble ones, who
-is skilled and trained in the noble Dhamma, one who has seen true persons, who
-is skilled and trained in the true person's Dhamma, does not live with a
-feeling mind overwhelmed by identity view, or possessed by identity view.
+"But, Ānanda, a learned noble disciple, someone who has seen the noble ones,
+who is skilled and trained in the noble Dhamma, someone who has seen true
+persons, who is skilled and trained in the true person's Dhamma, does not live
+with a feeling mind overwhelmed by identity view, or possessed by identity
+view.
 
 When identity view has arisen, that disciple discerns its escape as it has
 come to be. For that disciple, identity view is abandoned together with its
@@ -283,10 +284,10 @@ things together, and knowing: that bhikkhu observes those dhammas as
 impermanent, as dissatisfaction, as disease, as a boil, as a dart, as misery,
 as affliction, as alien, as disintegrating, as empty, as not-self.
 
-One turns the feeling mind back from those dhammas.
+They turn the feeling mind back from those dhammas.
 
-Having turned the feeling mind back from those dhammas, one brings the feeling
-mind to the element of the deathless:
+Once they have turned the feeling mind back from those dhammas, they bring the
+feeling mind to the element of the deathless:
 
 'This is peace. This is refined: the calming of all constructions, the
 relinquishment of all supports, the wearing away of ignorant wanting, fading,

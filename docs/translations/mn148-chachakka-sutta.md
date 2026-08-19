@@ -319,17 +319,19 @@ not-self."
 
 "And this, bhikkhus, is the way leading to the arising of identity:
 
-one regards the eye like this: 'This is mine, I am this, this is my self.'
+they regard the eye like this: 'This is mine, I am this, this is my self.'
 
-One regards visible forms like this: 'This is mine, I am this, this is my self.'
+They regard visible forms like this: 'This is mine, I am this, this is my
+self.'
 
-One regards eye-knowing like this: 'This is mine, I am this, this is my self.'
+They regard eye-knowing like this: 'This is mine, I am this, this is my self.'
 
-One regards eye-contact like this: 'This is mine, I am this, this is my self.'
+They regard eye-contact like this: 'This is mine, I am this, this is my self.'
 
-One regards felt experience like this: 'This is mine, I am this, this is my self.'
+They regard felt experience like this: 'This is mine, I am this, this is my
+self.'
 
-One regards ignorant wanting like this: 'This is mine, I am this, this is my
+They regard ignorant wanting like this: 'This is mine, I am this, this is my
 self.'
 
 The same pattern applies for ear, sounds, ear-knowing, ear-contact, felt
@@ -338,40 +340,41 @@ felt experience, and ignorant wanting; for tongue, tastes, tongue-knowing,
 tongue-contact, felt experience, and ignorant wanting; and for body,
 tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 
-One regards mind like this: 'This is mine, I am this, this is my self.'
+They regard mind like this: 'This is mine, I am this, this is my self.'
 
-One regards dhammas like this: 'This is mine, I am this, this is my self.'
+They regard dhammas like this: 'This is mine, I am this, this is my self.'
 
-One regards mind-knowing like this: 'This is mine, I am this, this is my self.'
+They regard mind-knowing like this: 'This is mine, I am this, this is my self.'
 
-One regards mind-contact like this: 'This is mine, I am this, this is my self.'
+They regard mind-contact like this: 'This is mine, I am this, this is my self.'
 
-One regards felt experience like this: 'This is mine, I am this, this is my self.'
+They regard felt experience like this: 'This is mine, I am this, this is my
+self.'
 
-One regards ignorant wanting like this: 'This is mine, I am this, this is my
+They regard ignorant wanting like this: 'This is mine, I am this, this is my
 self.'"
 
 ### The Way Leading to the Quenching of Identity
 
 "And this, bhikkhus, is the way leading to the quenching of identity:
 
-one regards the eye like this: 'This is not mine, I am not this, this is not my
+they regard the eye like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards visible forms like this: 'This is not mine, I am not this, this is not
-my self.'
-
-One regards eye-knowing like this: 'This is not mine, I am not this, this is not
-my self.'
-
-One regards eye-contact like this: 'This is not mine, I am not this, this is not
-my self.'
-
-One regards felt experience like this: 'This is not mine, I am not this, this is
+They regard visible forms like this: 'This is not mine, I am not this, this is
 not my self.'
 
-One regards ignorant wanting like this: 'This is not mine, I am not this, this is
+They regard eye-knowing like this: 'This is not mine, I am not this, this is
 not my self.'
+
+They regard eye-contact like this: 'This is not mine, I am not this, this is
+not my self.'
+
+They regard felt experience like this: 'This is not mine, I am not this, this
+is not my self.'
+
+They regard ignorant wanting like this: 'This is not mine, I am not this, this
+is not my self.'
 
 The same pattern applies for ear, sounds, ear-knowing, ear-contact, felt
 experience, and ignorant wanting; for nose, smells, nose-knowing, nose-contact,
@@ -379,23 +382,23 @@ felt experience, and ignorant wanting; for tongue, tastes, tongue-knowing,
 tongue-contact, felt experience, and ignorant wanting; and for body,
 tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 
-One regards mind like this: 'This is not mine, I am not this, this is not my
+They regard mind like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards dhammas like this: 'This is not mine, I am not this, this is not my
+They regard dhammas like this: 'This is not mine, I am not this, this is not my
 self.'
 
-One regards mind-knowing like this: 'This is not mine, I am not this, this is not
-my self.'
-
-One regards mind-contact like this: 'This is not mine, I am not this, this is not
-my self.'
-
-One regards felt experience like this: 'This is not mine, I am not this, this is
+They regard mind-knowing like this: 'This is not mine, I am not this, this is
 not my self.'
 
-One regards ignorant wanting like this: 'This is not mine, I am not this, this is
-not my self.'"
+They regard mind-contact like this: 'This is not mine, I am not this, this is
+not my self.'
+
+They regard felt experience like this: 'This is not mine, I am not this, this
+is not my self.'
+
+They regard ignorant wanting like this: 'This is not mine, I am not this, this
+is not my self.'"
 
 ### Pleasant, Painful, and Mixed Feeling: The Untrained Pattern
 

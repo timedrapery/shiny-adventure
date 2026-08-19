@@ -86,8 +86,7 @@ and there with a stick, turn them back, hem them in, and keep them out.
 
 Why is that?
 
-Because one sees what would come of it: a beating, a binding, a fine, or
-blame.
+Because they see what would come of it: a beating, a binding, a fine, or blame.
 
 In the same way, I saw in unwholesome dhammas the drawback, the low side, and
 the corruption; and in wholesome dhammas, in renunciation, the benefit and the

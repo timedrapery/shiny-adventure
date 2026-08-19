@@ -33,18 +33,19 @@ view extend?"
 
 ### Right View
 
-"Kaccāna, this world mostly relies on the duality of existence and
-non-existence. But for one who truly sees the arising of the world with right
+"Kaccāna, this world mostly relies on the duality of existence and non-
+existence. But for someone who truly sees the arising of the world with right
 discernment, the view of non-existence regarding the world does not occur. And
-for one who truly sees the cessation of the world with right discernment, the
-view of existence regarding the world does not occur.
+for someone who truly sees the cessation of the world with right discernment,
+the view of existence regarding the world does not occur.
 
 This world is for the most part bound by approach, taking personally, and
-insistence. But one who — with regard to all that approach, taking personally,
-fixation of the feeling mind, insistence, and underlying tendency — does not
-approach, does not take personally, does not fixate on 'my self': they have
-no doubt or uncertainty. What arises is just suffering arising; what ceases
-is just suffering ceasing. Their knowledge of this is independent of others.
+insistence. But someone who — with regard to all that approach, taking
+personally, fixation of the feeling mind, insistence, and underlying tendency —
+does not approach, does not take personally, does not fixate on 'my self': they
+have no doubt or uncertainty. What arises is just suffering arising; what
+ceases is just suffering ceasing. Their knowledge of this is independent of
+others.
 
 This far, Kaccāna, is right view.
 

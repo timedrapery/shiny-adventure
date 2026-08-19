@@ -110,13 +110,13 @@ to an empty dwelling, and reflects like this:
 
 'This body has much hardship and many drawbacks. For from this body many kinds
 of illness arise, namely: diseases of the eye, ear, nose, tongue, body, head,
-outer ear, mouth, teeth, and lips; cough, asthma, catarrh, fever, stomach
-ache, fainting, dysentery, colic, cholera; leprosy, boils, eczema,
-tuberculosis, epilepsy, ringworm, itch, scabs, smallpox, scabies; hemorrhage,
-diabetes, piles, sores, and ulcers; afflictions arising from bile, from
-phlegm, from wind, and from their combination; afflictions caused by changes
-in the weather, by neglect of oneself, by exertion, and by the ripening of
-past actions; cold, heat, hunger, thirst, defecation, and urination.'
+outer ear, mouth, teeth, and lips; cough, asthma, catarrh, fever, stomach ache,
+fainting, dysentery, colic, cholera; leprosy, boils, eczema, tuberculosis,
+epilepsy, ringworm, itch, scabs, smallpox, scabies; hemorrhage, diabetes,
+piles, sores, and ulcers; afflictions arising from bile, from phlegm, from
+wind, and from their combination; afflictions caused by changes in the weather,
+by self-neglect, by exertion, and by the ripening of past actions; cold, heat,
+hunger, thirst, defecation, and urination.'
 
 They remain observing drawbacks in this body.
 

@@ -188,30 +188,30 @@ why I said it.
 ## Friendliness, Kindness, Gladness, and Dynamic Balance
 
 That noble disciple, Kālāmas, free of coveting, free of aversive distraction,
-unconfused, clearly knowing and remembering, dwells pervading one direction with
-a feeling mind filled with friendliness, likewise the second, likewise the
-third, likewise the fourth — thus above, below, across, everywhere, for all as
-for oneself, they dwell pervading the entire world with a feeling mind filled
-with friendliness, vast, expansive, boundless, without enmity and without ill
-will.
+unconfused, clearly knowing and remembering, dwells pervading one direction
+with a feeling mind filled with friendliness, likewise the second, likewise the
+third, likewise the fourth — and so above, below, across, everywhere, for all
+as for themselves, they dwell pervading the entire world with a feeling mind
+filled with friendliness, vast, expansive, boundless, without enmity and
+without ill will.
 
 They dwell pervading one direction with a feeling mind filled with kindness
 towards others, likewise the second, likewise the third, likewise the fourth —
-thus above, below, across, everywhere, for all as for oneself, they dwell
+and so above, below, across, everywhere, for all as for themselves, they dwell
 pervading the entire world with a feeling mind filled with kindness towards
 others, vast, expansive, boundless, without enmity and without ill will.
 
 They dwell pervading one direction with a feeling mind filled with gladness,
-likewise the second, likewise the third, likewise the fourth — thus above,
-below, across, everywhere, for all as for oneself, they dwell pervading the
+likewise the second, likewise the third, likewise the fourth — and so above,
+below, across, everywhere, for all as for themselves, they dwell pervading the
 entire world with a feeling mind filled with gladness, vast, expansive,
 boundless, without enmity and without ill will.
 
 They dwell pervading one direction with a feeling mind filled with dynamic
-balance, likewise the second, likewise the third, likewise the fourth — thus
-above, below, across, everywhere, for all as for oneself, they dwell pervading
-the entire world with a feeling mind filled with dynamic balance, vast,
-expansive, boundless, without enmity and without ill will.
+balance, likewise the second, likewise the third, likewise the fourth — and so
+above, below, across, everywhere, for all as for themselves, they dwell
+pervading the entire world with a feeling mind filled with dynamic balance,
+vast, expansive, boundless, without enmity and without ill will.
 
 ## The Four Consolations
 

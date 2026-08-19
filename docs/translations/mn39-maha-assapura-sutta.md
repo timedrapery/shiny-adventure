@@ -327,9 +327,9 @@ mental composure.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the
-body the satisfaction of which the noble ones say: 'One who has dynamic balance
-and remembers lives in satisfaction.' They enter and remain in the third mental
-theme.
+body the satisfaction of which the noble ones say: 'Someone with dynamic
+balance and remembering lives in satisfaction.' They enter and remain in the
+third mental theme.
 
 They drench, saturate, fill, and spread this very body with satisfaction free
 of rejoicing, so that no part of the whole body goes undrenched with

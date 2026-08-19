@@ -117,11 +117,11 @@ taking personally there."
 
 "But, Ayye, how does identity view come to be?"
 
-"Here, friend Visākha, an unlearned ordinary person, one who has not seen the
-noble ones, who is unskilled and untrained in the noble Dhamma, one who has not
-seen true persons, who is unskilled and untrained in the true person's Dhamma,
-regards form as self, or self as having form, or form as in self, or self as
-in form.
+"Here, friend Visākha, an unlearned ordinary person, someone who has not seen
+the noble ones, who is unskilled and untrained in the noble Dhamma, someone who
+has not seen true persons, who is unskilled and untrained in the true person's
+Dhamma, regards form as self, or self as having form, or form as in self, or
+self as in form.
 
 That person regards felt experience as self, or self as having felt
 experience, or felt experience as in self, or self as in felt experience.
@@ -140,8 +140,8 @@ This, friend Visākha, is how identity view comes to be."
 
 "But, Ayye, how does identity view not come to be?"
 
-"Here, friend Visākha, a learned noble disciple, one who has seen the noble
-ones, who is skilled and trained in the noble Dhamma, one who has seen true
+"Here, friend Visākha, a learned noble disciple, someone who has seen the noble
+ones, who is skilled and trained in the noble Dhamma, someone who has seen true
 persons, who is skilled and trained in the true person's Dhamma, does not
 regard form as self, or self as having form, or form as in self, or self as in
 form.
@@ -236,8 +236,8 @@ experience the mind conditioner?"
 with the body. That is why in-breathing and out-breathing are the body
 conditioner.
 
-First one thinks and ponders, and afterward one breaks into speech. That is
-why thinking and pondering are the verbal process.
+First a person thinks and ponders, and afterward they break into speech. That
+is why thinking and pondering are the verbal process.
 
 Recognition and felt experience are mental dhammas, bound up with the feeling
 mind. That is why recognition and felt experience are the mind conditioner."
@@ -393,7 +393,7 @@ Here, friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
 and pondering, with delight and ease born of seclusion.
 
-Through that, one abandons passion, and the underlying tendency toward passion
+Through that, they abandon passion, and the underlying tendency toward passion
 does not lie there.
 
 Here, friend Visākha, a bhikkhu reflects:
@@ -404,7 +404,7 @@ remain in?'
 As one sets up longing for unsurpassed releases, distress arises with longing
 as condition.
 
-Through that, one abandons resistance, and the underlying tendency toward
+Through that, they abandon resistance, and the underlying tendency toward
 resistance does not lie there.
 
 Here, friend Visākha, with the abandoning of ease and discomfort, and with the
@@ -412,7 +412,7 @@ earlier ending of gladness and distress, a bhikkhu enters and remains in the
 fourth mental theme, without discomfort and without ease, with purity of
 remembering through dynamic balance.
 
-Through that, one abandons ignorance, and the underlying tendency toward
+Through that, they abandon ignorance, and the underlying tendency toward
 ignorance does not lie there."
 
 ### Counterparts

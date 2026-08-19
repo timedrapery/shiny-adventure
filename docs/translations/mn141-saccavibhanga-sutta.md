@@ -290,19 +290,17 @@ dhammas, enters and remains in the first mental theme, with thinking and
 pondering, with delight and ease born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, one enters and remains in the second mental
-theme, without thinking and pondering, with delight and ease born of mental
-composure.
+unification of mind, they enter and remain in the second mental theme, without
+thinking and pondering, with delight and ease born of mental composure.
 
-With the fading of delight, one remains in dynamic balance, remembering and
+With the fading of delight, they remain in dynamic balance, remembering and
 clearly knowing, and experiences ease in the body. One enters and remains in
-the third mental theme, of which the noble ones say:
-'One of dynamic balance and remembering stays at ease.'
+the third mental theme, of which the noble ones say: 'One of dynamic balance
+and remembering stays at ease.'
 
 With the abandoning of ease and discomfort, and with the earlier ending of
-gladness and sadness, one enters and remains in the fourth mental theme,
-without discomfort and without ease, purified by dynamic balance and
-remembering.
+gladness and sadness, they enter and remain in the fourth mental theme, without
+discomfort and without ease, purified by dynamic balance and remembering.
 
 This is called right mental composure.
 
