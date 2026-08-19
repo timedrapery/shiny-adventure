@@ -52,7 +52,7 @@ composure with supports, and also with requisites."
 "In this case, bhikkhus, right view comes first.
 
 "And how does right view come first? One discerns wrong view as 'wrong view'
-and right view as 'right view'; that is one's right view.
+and right view as 'right view'; that is their right view.
 
 "And what is wrong view?
 
@@ -96,10 +96,10 @@ path and develops it, is called right view that is
 noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong view and to take up right view; that is
-one's right effort.
+their right effort.
 
-"Remembering, one abandons wrong view; remembering, one lives having taken up
-right view; that is one's right remembering.
+"Remembering, they abandon wrong view; remembering, they live having taken up
+right view; that is their right remembering.
 
 "These three qualities keep running and circling around right view, namely:
 right view, right effort, and right remembering.
@@ -109,7 +109,7 @@ right view, right effort, and right remembering.
 "In this case, bhikkhus, right view comes first.
 
 "And how does right view come first? One discerns wrong attitude as 'wrong
-attitude' and right attitude as 'right attitude'; that is one's right view.
+attitude' and right attitude as 'right attitude'; that is their right view.
 
 "And what is wrong attitude?
 
@@ -144,10 +144,10 @@ is right attitude that is noble, without outflows, beyond-the-world, a factor
 of the path.
 
 "One makes effort to abandon wrong attitude and to take up right attitude; that
-is one's right effort.
+is their right effort.
 
-"Remembering, one abandons wrong attitude; remembering, one lives having taken
-up right attitude; that is one's right remembering.
+"Remembering, they abandon wrong attitude; remembering, they live having taken
+up right attitude; that is their right remembering.
 
 "These three qualities keep running and circling around right attitude, namely:
 right view, right effort, and right remembering.
@@ -157,7 +157,7 @@ right view, right effort, and right remembering.
 "In this case, bhikkhus, right view comes first.
 
 "And how does right view come first? One discerns wrong speech as 'wrong
-speech' and right speech as 'right speech'; that is one's right view.
+speech' and right speech as 'right speech'; that is their right view.
 
 "And what is wrong speech?
 
@@ -191,10 +191,10 @@ possesses the noble path and develops it, is right speech that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong speech and to take up right speech; that is
-one's right effort.
+their right effort.
 
-"Remembering, one abandons wrong speech; remembering, one lives having taken up
-right speech; that is one's right remembering.
+"Remembering, they abandon wrong speech; remembering, they live having taken up
+right speech; that is their right remembering.
 
 "These three qualities keep running and circling around right speech, namely:
 right view, right effort, and right remembering.
@@ -202,7 +202,7 @@ right view, right effort, and right remembering.
 "In this case, bhikkhus, right view comes first.
 
 "And how does right view come first? One discerns wrong action as 'wrong
-action' and right action as 'right action'; that is one's right view.
+action' and right action as 'right action'; that is their right view.
 
 "And what is wrong action?
 
@@ -236,10 +236,10 @@ possesses the noble path and develops it, is right action that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong action and to take up right action; that is
-one's right effort.
+their right effort.
 
-"Remembering, one abandons wrong action; remembering, one lives having taken up
-right action; that is one's right remembering.
+"Remembering, they abandon wrong action; remembering, they live having taken up
+right action; that is their right remembering.
 
 "These three qualities keep running and circling around right action, namely:
 right view, right effort, and right remembering.
@@ -247,7 +247,7 @@ right view, right effort, and right remembering.
 "In this case, bhikkhus, right view comes first.
 
 "And how does right view come first? One discerns wrong livelihood as 'wrong
-livelihood' and right livelihood as 'right livelihood'; that is one's right
+livelihood' and right livelihood as 'right livelihood'; that is their right
 view.
 
 "And what is wrong livelihood?
@@ -282,10 +282,10 @@ noble path and develops it, is right livelihood that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
 "One makes effort to abandon wrong livelihood and to take up right livelihood;
-that is one's right effort.
+that is their right effort.
 
-"Remembering, one abandons wrong livelihood; remembering, one lives having
-taken up right livelihood; that is one's right remembering.
+"Remembering, they abandon wrong livelihood; remembering, they live having
+taken up right livelihood; that is their right remembering.
 
 "These three qualities keep running and circling around right livelihood,
 namely:

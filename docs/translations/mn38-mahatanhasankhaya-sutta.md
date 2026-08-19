@@ -171,30 +171,30 @@ cessation?"
 
 "Yes, Bhante."
 
-"Does doubt arise in one who is uncertain whether this has come to be?"
+"Does doubt arise in someone who is uncertain whether this has come to be?"
 
 "Yes, Bhante."
 
-"Does doubt arise in one who is uncertain whether it arose from nutriment?"
+"Does doubt arise in someone who is uncertain whether it arose from nutriment?"
 
 "Yes, Bhante."
 
-"Does doubt arise in one who is uncertain whether, when that nutriment ceases,
-what has come to be is subject to cessation?"
+"Does doubt arise in someone who is uncertain whether, when that nutriment
+ceases, what has come to be is subject to cessation?"
 
 "Yes, Bhante."
 
-"Is doubt given up in one who sees clearly with right discernment that this has
-come to be?"
+"Is doubt given up in someone who sees clearly with right discernment that this
+has come to be?"
 
 "Yes, Bhante."
 
-"Is doubt given up in one who sees clearly with right discernment that it arose
-from nutriment?"
+"Is doubt given up in someone who sees clearly with right discernment that it
+arose from nutriment?"
 
 "Yes, Bhante."
 
-"Is doubt given up in one who sees clearly with right discernment that when
+"Is doubt given up in someone who sees clearly with right discernment that when
 that nutriment ceases, what has come to be is subject to cessation?"
 
 "Yes, Bhante."
@@ -683,11 +683,11 @@ uncertain distraction, they live having crossed beyond uncertain distraction,
 not undecided about wholesome qualities, cleansing the feeling mind of
 uncertain distraction.
 
-Having abandoned these five distractions — corruptions of the feeling mind
-that weaken discernment — secluded from sense pleasures, secluded from
-unwholesome qualities, they enter and remain in the first mental theme — with
-placing the mind, keeping it there — with rejoicing and satisfaction born of
-seclusion.
+They have abandoned these five distractions, the corruptions of the feeling
+mind that weaken discernment. Then, secluded from sense pleasures, secluded
+from unwholesome qualities, they enter and remain in the first mental theme —
+with placing the mind, keeping it there — with rejoicing and satisfaction born
+of seclusion.
 
 With the settling of placing and keeping the mind, internally confident, with
 a unified feeling mind, without placing and keeping the mind, they enter and
@@ -696,8 +696,8 @@ mental composure.
 
 With the fading of rejoicing they remain equanimous, remembering and clearly
 knowing, and experience satisfaction with the body — what the noble ones
-describe as 'equanimous, remembering, one who lives well' — and they enter and
-remain in the third mental theme.
+describe as 'equanimous, remembering, living well' — and they enter and remain
+in the third mental theme.
 
 With the abandoning of satisfaction and distress, and with the prior ending of
 gladness and grief, they enter and remain in the fourth mental theme — neither
@@ -711,14 +711,14 @@ of the body established, with a boundless feeling mind. They truly understand
 that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
-Having given up favoring and opposing in this way, whatever felt experience
-they experience — pleasant, painful, or mixed — they do not approve of it, do
-not welcome it, do not keep clinging to it. As a result, the relishing of felt
-experience ceases. With the cessation of relishing, taking personally ceases;
-with the cessation of taking personally, becoming ceases; with the cessation of
-becoming, birth ceases; with the cessation of birth, ageing and death, sorrow,
-lamentation, pain, distress, and despair cease. This is how this entire mass of
-dissatisfaction ceases.
+Once they have given up favoring and opposing in this way, whatever felt
+experience they experience — pleasant, painful, or mixed — they do not approve
+of it, do not welcome it, do not keep clinging to it. As a result, the
+relishing of felt experience ceases. With the cessation of relishing, taking
+personally ceases; with the cessation of taking personally, becoming ceases;
+with the cessation of becoming, birth ceases; with the cessation of birth,
+ageing and death, sorrow, lamentation, pain, distress, and despair cease. This
+is how this entire mass of dissatisfaction ceases.
 
 When they hear a sound with their ears... when they smell a smell with their
 nose... when they taste a taste with their tongue... when they feel a touch
@@ -728,14 +728,14 @@ live with remembering of the body established, with a boundless feeling mind.
 They truly understand that release of mind and release through discernment where
 those arisen bad, unwholesome qualities cease without remainder.
 
-Having given up favoring and opposing in this way, whatever felt experience
-they experience — pleasant, painful, or mixed — they do not approve of it, do
-not welcome it, do not keep clinging to it. As a result, the relishing of felt
-experience ceases. With the cessation of relishing, taking personally ceases;
-with the cessation of taking personally, becoming ceases; with the cessation of
-becoming, birth ceases; with the cessation of birth, ageing and death, sorrow,
-lamentation, pain, distress, and despair cease. This is how this entire mass of
-dissatisfaction ceases.
+Once they have given up favoring and opposing in this way, whatever felt
+experience they experience — pleasant, painful, or mixed — they do not approve
+of it, do not welcome it, do not keep clinging to it. As a result, the
+relishing of felt experience ceases. With the cessation of relishing, taking
+personally ceases; with the cessation of taking personally, becoming ceases;
+with the cessation of becoming, birth ceases; with the cessation of birth,
+ageing and death, sorrow, lamentation, pain, distress, and despair cease. This
+is how this entire mass of dissatisfaction ceases.
 
 Bhikkhus, hold this brief statement on freedom through the ending of ignorant
 wanting. But the bhikkhu Sāti, the fisherman's son, is caught up in a vast net

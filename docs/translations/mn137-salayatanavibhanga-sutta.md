@@ -130,17 +130,17 @@ And what are the six gladnesses tied to the household life?
 
 For visible forms knowable by the eye that are wished for, loved, agreeable,
 delightful, charming, and bound up with worldly bait, gladness arises either
-when one obtains them, when one reflects on having obtained them, or when one
-recalls forms once obtained but now past, ended, and changed. That kind of
+when a person obtains them, when they reflect on having obtained them, or when
+they recall forms once obtained but now past, ended, and changed. That kind of
 gladness is called gladness tied to the household life.
 
 The same pattern applies for sounds, smells, tastes, and tangibles.
 
 For dhammas knowable by the mind that are wished for, loved, agreeable,
 delightful, charming, and bound up with worldly bait, gladness arises either
-when one obtains them, when one reflects on having obtained them, or when one
-recalls dhammas once obtained but now past, ended, and changed. That kind of
-gladness is called gladness tied to the household life.
+when a person obtains them, when they reflect on having obtained them, or when
+they recall dhammas once obtained but now past, ended, and changed. That kind
+of gladness is called gladness tied to the household life.
 
 These are the six gladnesses tied to the household life.
 
@@ -148,14 +148,15 @@ These are the six gladnesses tied to the household life.
 
 And what are the six gladnesses tied to renunciation?
 
-Knowing the inconstancy, change, fading, and quenching of forms, one sees with
-right discernment as they have come to be: 'Forms before and forms now, all of
-them are inconstant, dissatisfactory, and subject to change.' Gladness arises
-from that. That kind of gladness is called gladness tied to renunciation.
+Knowing the inconstancy, change, fading, and quenching of forms, someone sees
+with right discernment as they have come to be: 'Forms before and forms now,
+all of them are inconstant, dissatisfactory, and subject to change.' Gladness
+arises from that. That kind of gladness is called gladness tied to
+renunciation.
 
 The same pattern applies for sounds, smells, tastes, and tangibles.
 
-Knowing the inconstancy, change, fading, and quenching of dhammas, one sees
+Knowing the inconstancy, change, fading, and quenching of dhammas, someone sees
 with right discernment as they have come to be: 'Dhammas before and dhammas
 now, all of them are inconstant, dissatisfactory, and subject to change.'
 Gladness arises from that. That kind of gladness is called gladness tied to
@@ -169,17 +170,17 @@ And what are the six distresses tied to the household life?
 
 For visible forms knowable by the eye that are wished for, loved, agreeable,
 delightful, charming, and bound up with worldly bait, distress arises either
-when one does not obtain them, when one reflects on not having obtained them,
-or when one recalls forms once obtained but now past, ended, and changed.
+when a person does not obtain them, when they reflect on not having obtained
+them, or when they recall forms once obtained but now past, ended, and changed.
 That kind of distress is called distress tied to the household life.
 
 The same pattern applies for sounds, smells, tastes, and tangibles.
 
 For dhammas knowable by the mind that are wished for, loved, agreeable,
 delightful, charming, and bound up with worldly bait, distress arises either
-when one does not obtain them, when one reflects on not having obtained them,
-or when one recalls dhammas once obtained but now past, ended, and changed.
-That kind of distress is called distress tied to the household life.
+when a person does not obtain them, when they reflect on not having obtained
+them, or when they recall dhammas once obtained but now past, ended, and
+changed. That kind of distress is called distress tied to the household life.
 
 These are the six distresses tied to the household life.
 
@@ -187,12 +188,11 @@ These are the six distresses tied to the household life.
 
 And what are the six distresses tied to renunciation?
 
-Knowing the inconstancy, change, fading, and quenching of forms, one sees with
-right discernment as they have come to be: 'Forms before and forms now, all of
-them are inconstant, dissatisfactory, and subject to change.' Then one
-arouses longing for the unsurpassed releases:
-'When will I enter and remain in that field where the noble ones now enter and
-remain?'
+Knowing the inconstancy, change, fading, and quenching of forms, someone sees
+with right discernment as they have come to be: 'Forms before and forms now,
+all of them are inconstant, dissatisfactory, and subject to change.' Then one
+arouses longing for the unsurpassed releases: 'When will I enter and remain in
+that field where the noble ones now enter and remain?'
 
 While one is arousing longing for the unsurpassed releases, distress arises
 because of that longing. That kind of distress is called distress tied to
@@ -200,12 +200,11 @@ renunciation.
 
 The same pattern applies for sounds, smells, tastes, and tangibles.
 
-Knowing the inconstancy, change, fading, and quenching of dhammas, one sees
+Knowing the inconstancy, change, fading, and quenching of dhammas, someone sees
 with right discernment as they have come to be: 'Dhammas before and dhammas
-now, all of them are inconstant, dissatisfactory, and subject to change.'
-Then one arouses longing for the unsurpassed releases:
-'When will I enter and remain in that field where the noble ones now enter and
-remain?'
+now, all of them are inconstant, dissatisfactory, and subject to change.' Then
+one arouses longing for the unsurpassed releases: 'When will I enter and remain
+in that field where the noble ones now enter and remain?'
 
 While one is arousing longing for the unsurpassed releases, distress arises
 because of that longing. That kind of distress is called distress tied to
@@ -235,15 +234,15 @@ These are the six dynamic balances tied to the household life.
 
 And what are the six dynamic balances tied to renunciation?
 
-Knowing the inconstancy, change, fading, and quenching of forms, one sees with
-right discernment as they have come to be: 'Forms before and forms now, all of
-them are inconstant, dissatisfactory, and subject to change.' Dynamic balance
-arises from that. That dynamic balance goes beyond the form. So it is called
-dynamic balance tied to renunciation.
+Knowing the inconstancy, change, fading, and quenching of forms, someone sees
+with right discernment as they have come to be: 'Forms before and forms now,
+all of them are inconstant, dissatisfactory, and subject to change.' Dynamic
+balance arises from that. That dynamic balance goes beyond the form. So it is
+called dynamic balance tied to renunciation.
 
 The same pattern applies for sounds, smells, tastes, and tangibles.
 
-Knowing the inconstancy, change, fading, and quenching of dhammas, one sees
+Knowing the inconstancy, change, fading, and quenching of dhammas, someone sees
 with right discernment as they have come to be: 'Dhammas before and dhammas
 now, all of them are inconstant, dissatisfactory, and subject to change.'
 Dynamic balance arises from that. That dynamic balance goes beyond the dhamma.
@@ -371,20 +370,17 @@ west, north, or south.
 But when a person is trained by the Tathāgata, the arahant, the fully awakened
 Buddha, that person runs in eight directions:
 
-- perceiving form internally, one sees external forms
-- not perceiving form internally, one sees external forms
-- one is intent only on the beautiful
-- going beyond all form-recognition, with the ending of resistance-recognition
-  and without attending to diversity-recognition, one enters and remains in
-  the sphere of boundless space
-- going beyond the sphere of boundless space, one enters and remains in the
-  sphere of boundless knowing
-- going beyond the sphere of boundless knowing, one enters and remains in the
-  sphere of nothingness
-- going beyond the sphere of nothingness, one enters and remains in the sphere
-  of neither-recognition-nor-non-recognition
-- going beyond the sphere of neither-recognition-nor-non-recognition, one enters
-  and remains in the quenching of recognition and feeling
+- perceiving form internally, they see external forms - not perceiving form
+  internally, they see external forms - they are intent only on the beautiful -
+  going beyond all form-recognition, with the ending of resistance-recognition
+  and without attending to diversity-recognition, they enter and remain in the
+  sphere of boundless space - going beyond the sphere of boundless space, they
+  enter and remain in the sphere of boundless knowing - going beyond the sphere
+  of boundless knowing, they enter and remain in the sphere of nothingness -
+  going beyond the sphere of nothingness, they enter and remain in the sphere
+  of neither-recognition-nor-non-recognition - going beyond the sphere of
+  neither-recognition-nor-non-recognition, they enter and remain in the
+  quenching of recognition and feeling
 
 That is how a person trained by the Tathāgata runs in these eight directions.
 

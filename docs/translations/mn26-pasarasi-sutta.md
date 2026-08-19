@@ -624,8 +624,8 @@ a trace, and to have gone where the Wicked One cannot see.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains
 equanimous, remembering and clearly knowing, and experiences satisfaction with
-the body — what the noble ones speak of as 'equanimous, remembering, one who
-lives well' — and enters and remains in the third mental theme.
+the body — what the noble ones speak of as 'equanimous, remembering, living
+well' — and enters and remains in the third mental theme.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.

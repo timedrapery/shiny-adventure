@@ -93,7 +93,7 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
         naparam = load_term("terms/minor/naparam-itthattayati-pajanati.json")
 
         self.assertEqual(yathabhutam["preferred_translation"], "discerns it as it has come to be")
-        self.assertEqual(naparam["preferred_translation"], "one discerns: there is no more of this state of being")
+        self.assertEqual(naparam["preferred_translation"], "they discern: there is no more of this state of being")
         self.assertIn("realizes reality", yathabhutam["discouraged_translations"])
 
     def test_mn1_formula_records_preserve_direct_knowing_and_selfing_pattern(self) -> None:
@@ -105,15 +105,15 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
 
         self.assertEqual(
             recognized_selfing["preferred_translation"],
-            "having recognized earth as earth, one takes oneself to be earth",
+            "once they have recognized earth as earth, they take themselves to be earth",
         )
         self.assertEqual(
             direct_knowing_prohibitive["preferred_translation"],
-            "having directly known earth as earth, one should not take oneself to be earth",
+            "once they have directly known earth as earth, they should not take themselves to be earth",
         )
         self.assertEqual(
             direct_knowing_nonselfing["preferred_translation"],
-            "having directly known earth as earth, one does not take oneself to be earth",
+            "once they have directly known earth as earth, they do not take themselves to be earth",
         )
         self.assertEqual(delight_root["preferred_translation"], "delight is the root of dissatisfaction")
         self.assertEqual(
@@ -130,12 +130,12 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
         )
         papanca_sanna_sankha = load_term("terms/minor/papanca-sanna-sankha.json")
 
-        self.assertEqual(felt_recognition["preferred_translation"], "what one feels, one recognizes")
-        self.assertEqual(recognition_thinking["preferred_translation"], "what one recognizes, one thinks about")
-        self.assertEqual(thinking_proliferation["preferred_translation"], "what one thinks about, one proliferates about")
+        self.assertEqual(felt_recognition["preferred_translation"], "what they feel, they recognize")
+        self.assertEqual(recognition_thinking["preferred_translation"], "what they recognize, they think about")
+        self.assertEqual(thinking_proliferation["preferred_translation"], "what they think about, they proliferate about")
         self.assertEqual(
             proliferation_overrun["preferred_translation"],
-            "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person",
+            "from what they proliferate about as the source, the recognitions and notions of proliferation sweep over a person",
         )
         self.assertEqual(papanca_sanna_sankha["preferred_translation"], "recognitions and notions of proliferation")
 

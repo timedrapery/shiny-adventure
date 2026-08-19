@@ -47,15 +47,15 @@ Here a bhikkhu remains observing the body in relation to the body, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-One remains observing felt experience in relation to felt experience, ardent,
+They remain observing felt experience in relation to felt experience, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-One remains observing the feeling mind in relation to the feeling mind,
-ardent, with clear knowing, with remembering, having removed coveting and
-distress regarding the world.
+They remain observing the feeling mind in relation to the feeling mind, ardent,
+with clear knowing, with remembering, having removed coveting and distress
+regarding the world.
 
-One remains observing dhammas among dhammas, ardent, with clear knowing, with
+They remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world."
 
 ### Contemplation of Body
@@ -64,41 +64,41 @@ remembering, having removed coveting and distress regarding the world."
 
 "And how does a bhikkhu remain observing the body in relation to the body?
 
-Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
-to an empty hut, sits down, folds the legs crosswise, sets the body upright,
-and sets remembering to the fore. One breathes in remembering the Dhamma; one
-breathes out remembering the Dhamma.
+Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or to
+an empty hut, sits down, folds the legs crosswise, sets the body upright, and
+sets remembering to the fore. They breathe in remembering the Dhamma; they
+breathe out remembering the Dhamma.
 
-Breathing in long, one knows: 'I breathe in long.' Breathing out long, one
-knows: 'I breathe out long.'
+Breathing in long, they know: 'I breathe in long.' Breathing out long, they
+know: 'I breathe out long.'
 
-Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
-knows: 'I breathe out short.'
+Breathing in short, they know: 'I breathe in short.' Breathing out short, they
+know: 'I breathe out short.'
 
-One trains: 'Breathing in, I will experience the whole body.' One trains:
+They train: 'Breathing in, I will experience the whole body.' They train:
 'Breathing out, I will experience the whole body.'
 
-One trains: 'Breathing in, I will calm the body conditioner.' One trains:
+They train: 'Breathing in, I will calm the body conditioner.' They train:
 'Breathing out, I will calm the body conditioner.'
 
 Just as a skilled turner or a turner's apprentice, when making a long turn,
 knows 'I am making a long turn,' and when making a short turn, knows 'I am
 making a short turn,' in the same way:
 
-breathing in long, one knows: 'I breathe in long.' Breathing out long, one
-knows: 'I breathe out long.'
+breathing in long, they know: 'I breathe in long.' Breathing out long, they
+know: 'I breathe out long.'
 
-Breathing in short, one knows: 'I breathe in short.' Breathing out short, one
-knows: 'I breathe out short.'
+Breathing in short, they know: 'I breathe in short.' Breathing out short, they
+know: 'I breathe out short.'
 
-One trains: 'Breathing in, I will experience the whole body.' One trains:
+They train: 'Breathing in, I will experience the whole body.' They train:
 'Breathing out, I will experience the whole body.'
 
-One trains: 'Breathing in, I will calm the body conditioner.' One trains:
+They train: 'Breathing in, I will calm the body conditioner.' They train:
 'Breathing out, I will calm the body conditioner.'
 
-Then one remains observing the body as internal, observing the body as
-external, and observing the body as both internal and external. One remains
+Then they remain observing the body as internal, observing the body as
+external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
 present: 'There is body,' just enough for knowing and for remembering. One
@@ -109,10 +109,10 @@ personally."
 
 "Again, a bhikkhu knows 'I am walking' when walking, 'I am standing' when
 standing, 'I am sitting' when sitting, and 'I am lying down' when lying down.
-Or however the body is placed, one knows it that way.
+Or however the body is placed, they know it that way.
 
-Then one remains observing the body as internal, observing the body as
-external, and observing the body as both internal and external. One remains
+Then they remain observing the body as internal, observing the body as
+external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
 present: 'There is body,' just enough for knowing and for remembering. One
@@ -193,8 +193,8 @@ One applies it to this very body like this:
 'This body too is of the same nature, will become like that, and has not gone
 beyond it.'
 
-Then one remains observing the body as internal, observing the body as
-external, and observing the body as both internal and external. One remains
+Then they remain observing the body as internal, observing the body as
+external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
 present: 'There is body,' just enough for knowing and for remembering. One
@@ -209,29 +209,28 @@ That is how a bhikkhu remains observing the body in relation to the body."
 experience?
 
 Here a bhikkhu, when feeling pleasant feeling, knows: 'I feel pleasant
-feeling.' When feeling painful feeling, one knows: 'I feel painful feeling.'
-When feeling mixed feeling, one knows: 'I feel mixed feeling.'
+feeling.' When feeling painful feeling, they know: 'I feel painful feeling.'
+When feeling mixed feeling, they know: 'I feel mixed feeling.'
 
-When feeling worldly pleasant feeling, one knows: 'I feel worldly pleasant
-feeling.' When feeling unworldly pleasant feeling, one knows: 'I feel
-unworldly pleasant feeling.'
+When feeling worldly pleasant feeling, they know: 'I feel worldly pleasant
+feeling.' When feeling unworldly pleasant feeling, they know: 'I feel unworldly
+pleasant feeling.'
 
-When feeling worldly painful feeling, one knows: 'I feel worldly painful
-feeling.' When feeling unworldly painful feeling, one knows: 'I feel
-unworldly painful feeling.'
+When feeling worldly painful feeling, they know: 'I feel worldly painful
+feeling.' When feeling unworldly painful feeling, they know: 'I feel unworldly
+painful feeling.'
 
-When feeling worldly mixed feeling, one knows: 'I feel worldly mixed feeling.'
-When feeling unworldly mixed feeling, one knows: 'I feel unworldly mixed
+When feeling worldly mixed feeling, they know: 'I feel worldly mixed feeling.'
+When feeling unworldly mixed feeling, they know: 'I feel unworldly mixed
 feeling.'
 
-Then one remains observing felt experience as internal, observing felt
+Then they remain observing felt experience as internal, observing felt
 experience as external, and observing felt experience as both internal and
-external. One remains observing arising qualities in felt experience,
-vanishing qualities in felt experience, and both arising and vanishing
-qualities in felt experience. Or remembering is simply present: 'There is
-felt experience,' just enough for knowing and for remembering. One stays
-without depending on anything and does not take anything in the world
-personally.
+external. They remain observing arising qualities in felt experience, vanishing
+qualities in felt experience, and both arising and vanishing qualities in felt
+experience. Or remembering is simply present: 'There is felt experience,' just
+enough for knowing and for remembering. One stays without depending on anything
+and does not take anything in the world personally.
 
 That is how a bhikkhu remains observing felt experience in relation to felt
 experience."
@@ -267,13 +266,13 @@ an uncomposed feeling mind as 'uncomposed feeling mind.'
 One discerns a released feeling mind as 'released feeling mind.' One discerns
 an unreleased feeling mind as 'unreleased feeling mind.'
 
-Then one remains observing the feeling mind as internal, observing the feeling
-mind as external, and observing the feeling mind as both internal and
-external. One remains observing arising qualities in the feeling mind,
-vanishing qualities in the feeling mind, and both arising and vanishing
-qualities in the feeling mind. Or remembering is simply present: 'There is the
-feeling mind,' just enough for knowing and for remembering. One stays without
-depending on anything and does not take anything in the world personally.
+Then they remain observing the feeling mind as internal, observing the feeling
+mind as external, and observing the feeling mind as both internal and external.
+They remain observing arising qualities in the feeling mind, vanishing
+qualities in the feeling mind, and both arising and vanishing qualities in the
+feeling mind. Or remembering is simply present: 'There is the feeling mind,'
+just enough for knowing and for remembering. One stays without depending on
+anything and does not take anything in the world personally.
 
 That is how a bhikkhu remains observing the feeling mind in relation to the
 feeling mind."
@@ -321,8 +320,8 @@ unarisen uncertain distraction arises, how arisen uncertain distraction is
 given up, and how abandoned uncertain distraction does not arise again in the
 future.
 
-Then one remains observing dhammas as internal, observing dhammas as external,
-and observing dhammas as both internal and external. One remains observing
+Then they remain observing dhammas as internal, observing dhammas as external,
+and observing dhammas as both internal and external. They remain observing
 arising qualities in dhammas, vanishing qualities in dhammas, and both arising
 and vanishing qualities in dhammas. Or remembering is simply present: 'There
 are dhammas,' just enough for knowing and for remembering. One stays without
@@ -413,8 +412,8 @@ Here a bhikkhu discerns as they have come to be:
 - 'This is the quenching of dissatisfaction.'
 - 'This is the way leading to the quenching of dissatisfaction.'
 
-Then one remains observing dhammas as internal, observing dhammas as external,
-and observing dhammas as both internal and external. One remains observing
+Then they remain observing dhammas as internal, observing dhammas as external,
+and observing dhammas as both internal and external. They remain observing
 arising qualities in dhammas, vanishing qualities in dhammas, and both arising
 and vanishing qualities in dhammas. Or remembering is simply present: 'There
 are dhammas,' just enough for knowing and for remembering. One stays without
