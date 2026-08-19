@@ -61,6 +61,8 @@ generating script first.
   Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
 - `python scripts/sync_reader_pages.py --check`
   Fails when a reader page in `reader-src/suttas/` has drifted from its governed surface. Comparison ignores presentation-only differences such as heading level, emphasis, and horizontal rules. Use `--write` to rebuild the reader bodies from the surfaces.
+- `python scripts/verify_example_sources.py`
+  Checks that each `example_phrase` cites a sutta that actually contains its Pali, by fetching the Bilara root text. Needs network access and is deliberately outside `run_checks.py`. Read the verdict definitions in the script before acting: `inflected` and `inconclusive` are usually not errors, and AN numbering differs between editions.
 - `python scripts/plain_english_audit.py`
   Reports spoken-English register signals in translation surfaces and reader pages, with guidance per signal. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
 - `python scripts/voice_consistency_audit.py`
