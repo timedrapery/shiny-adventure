@@ -1,10 +1,27 @@
 name: Deploy Reader's Edition
 
-# Prototype phase: manual trigger only. This is deliberately NOT wired to
-# push/pull_request yet -- the site is a new, unreviewed surface and should
-# not auto-deploy until the prototype has been reviewed. See
-# reader-src/ and mkdocs.yml for the site source.
+# The reader is now a generated presentation layer over the governed
+# translation corpus rather than a hand-maintained prototype, so it deploys
+# automatically from main. The gate is real: the full verification suite, the
+# reader-generation check, and a strict MkDocs build all have to pass in the
+# same job before anything is published. A reader that has drifted from the
+# governed surfaces fails `generate_reader.py --check` and never reaches the
+# deploy job.
+#
+# Only changes that can affect the site trigger it. Term-record edits reach the
+# reader through the glossary, so terms/ is included.
 on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/translations/**"
+      - "reader-src/**"
+      - "includes/**"
+      - "terms/**"
+      - "scripts/**"
+      - "mkdocs.yml"
+      - "requirements-dev.txt"
+      - ".github/workflows/deploy-reader.yml"
   workflow_dispatch:
 
 permissions:
@@ -12,6 +29,7 @@ permissions:
   pages: write
   id-token: write
 
+# Never let two deploys race; let a newer commit supersede an in-flight one.
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -19,6 +37,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -26,12 +45,25 @@ jobs:
           python-version: "3.12"
           cache: "pip"
           cache-dependency-path: requirements-dev.txt
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           python -m pip install -r requirements-dev.txt
+
+      # The full suite already includes the reader-generation check and the
+      # Markdown structure check, so a drifted or damaged reader stops here.
+      - name: Run full verification suite
+        run: python scripts/run_checks.py
+
+      # Belt and braces: fail loudly and specifically if the reader is stale,
+      # rather than leaving the reason buried in the suite output.
+      - name: Confirm the reader is current
+        run: python scripts/generate_reader.py --check
+
       - name: Build site
         run: mkdocs build --strict
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

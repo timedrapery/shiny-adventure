@@ -20,8 +20,10 @@ The rollout is complete across all 41 translation surfaces and all 5 reader
 pages.
 
 - 41 of 41 surfaces carry no undocumented register signals.
-- 5 of 5 reader pages match their governed surfaces, enforced by
-  `scripts/sync_reader_pages.py --check` inside `run_checks.py`.
+- 41 of 41 reader pages are generated from their governed surfaces, enforced
+  by `scripts/generate_reader.py --check` inside `run_checks.py`. The audit
+  scans the canonical surfaces only; auditing the generated copies as well
+  would double-count every finding.
 - The audit reports 8 signals, and all 8 are the documented exceptions listed
   under Deliberately Deferred below.
 
@@ -117,10 +119,10 @@ python scripts/run_checks.py
 8. If the surface has a reader page in `reader-src/suttas/`, resync it:
 
 ```bash
-python scripts/sync_reader_pages.py --write
+python scripts/generate_reader.py --write
 ```
 
-   `scripts/sync_reader_pages.py --check` runs as part of `run_checks.py`, so a
+   `scripts/generate_reader.py --check` runs as part of `run_checks.py`, so a
    forgotten resync now fails the build rather than drifting silently. The
    comparison ignores presentation-only differences such as heading level,
    emphasis, and horizontal rules.
@@ -250,7 +252,7 @@ All four conditions are currently met:
   epithet nouns such as `worthy one` and `Thus-Gone One`, where `one` is a
   noun meaning `person` rather than a pronoun stand-in
 - every reader page matches its governed surface, enforced by
-  `sync_reader_pages.py --check`
+  `generate_reader.py --check`
 - `python scripts/run_checks.py` passes
 
 Keeping them met is the ongoing job. Anything newly translated should be
