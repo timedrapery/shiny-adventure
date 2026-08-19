@@ -1,0 +1,34 @@
+{
+  "term": "dasa avyākatavatthūni",
+  "normalized_term": "dasa-avyakatavatthuni",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "the ten undeclared points",
+  "definition": "The ten propositions the Buddha leaves undeclared: whether the world is eternal or not eternal, finite or infinite; whether the soul and the body are the same or different; and whether the Tathagata exists, does not exist, both exists and does not exist, or neither exists nor does not exist after death.",
+  "notes": "Ten propositions, not fourteen: two each on the eternity and finitude of the world, two on the identity of soul and body, and four on the Tathagata's status after death (2+2+2+4=10). A broader Abhidharma-commentarial tradition applies the full four-cornered tetralemma to both the eternity and finitude questions to reach a count of fourteen; that count does not match what MN 63 itself gives, and should not be treated as this repository's default description of the sutta.",
+  "related_terms": [
+    "avyakata",
+    "jiva",
+    "sarira",
+    "tathagata",
+    "loka"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sassato loko...pe...neva hoti na na hoti tathāgato paraṁ maraṇāti",
+      "translation": "the world is eternal... the Tathāgata neither exists nor does not exist after death",
+      "notes": "The full ten-point list as given three times in the sutta.",
+      "source": "MN 63"
+    }
+  ],
+  "sutta_references": [
+    "MN 63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "formula",
+    "epistemology",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

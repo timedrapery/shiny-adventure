@@ -1,0 +1,21 @@
+{
+  "term": "viññū",
+  "normalized_term": "vinnu",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "preferred_translation": "those with discernment",
+  "definition": "The wise or discerning; used as the measure of what counts as a sound ethical or doctrinal assessment, especially in the fourfold test of what is blameworthy, praised, or leads to harm or welfare.",
+  "literal_meaning": "wise, understanding, discerning",
+  "notes": "Kept in the panna family (discernment) rather than rendered generically as \"the wise\" so the adjectival noun stays legible as the same root that governs pañña.",
+  "related_terms": [
+    "panna"
+  ],
+  "sutta_references": [
+    "AN 3.65"
+  ],
+  "tags": [
+    "ethics",
+    "epistemology"
+  ],
+  "status": "reviewed"
+}

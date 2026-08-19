@@ -1,0 +1,23 @@
+{
+  "term": "salla",
+  "normalized_term": "salla",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "arrow",
+  "definition": "An arrow or dart, used as a governing simile in more than one context: the wound of unmet metaphysical curiosity in MN 63, and the second, avoidable arrow of mental reaction in SN 36.6.",
+  "literal_meaning": "arrow, dart, thorn",
+  "notes": "Keep the two governing arrow-images distinct rather than cross-referencing them as one family. In MN 63 the poisoned arrow is the wound of demanding metaphysical answers before practicing, and refusing treatment (practice) until every background fact is settled is fatal. In SN 36.6 the two-arrows contrast is about bodily pain (the first, unavoidable arrow) versus added mental reaction (the second, avoidable arrow). The same headword, two different governing points.",
+  "related_terms": [
+    "avyakata",
+    "vedana"
+  ],
+  "sutta_references": [
+    "MN 63",
+    "SN 36.6"
+  ],
+  "tags": [
+    "simile",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,84 @@
+{
+  "term": "samaṇa",
+  "normalized_term": "samana",
+  "entry_type": "major",
+  "part_of_speech": "noun",
+  "literal_meaning": "striver, one who has calmed",
+  "preferred_translation": "recluse",
+  "alternative_translations": [
+    "contemplative",
+    "renunciant"
+  ],
+  "discouraged_translations": [
+    "monk",
+    "ascetic"
+  ],
+  "untranslated_preferred": false,
+  "definition": "A renunciant or wandering practitioner living apart from household life, addressed as a title across the Nikayas and given a folk etymology from samita (calmed) in MN 39.",
+  "notes": "Promoted from a lean minor entry to a major entry because the term functions as a governed title across multiple surfaces, not just a background noun. Recluse is the house default: it is the actual rendering used consistently across AN 3.65, MN 22, MN 26, MN 38, and MN 39 (all live translation surfaces), even though an earlier, thinner minor entry had recorded 'contemplative' as the preferred translation without that usage having taken hold anywhere. This entry corrects that drift and records recluse as the term the repository actually uses. Monk is discouraged because samaṇa is broader than the bhikkhu-specific ordained-monastic sense and covers non-Buddhist renunciants as well; ascetic is discouraged because it imports a self-mortification connotation the term does not carry by default. MN 39 makes samaṇa the sutta's central term of address and closes with a folk-etymology passage (samita = calmed, for samaṇa) that only makes sense if the headword itself is stable across the whole discourse.",
+  "context_rules": [
+    {
+      "context": "In most doctrinal, narrative, and address contexts",
+      "rendering": "recluse",
+      "notes": "Use this by default, matching current practice across AN 3.65, MN 22, MN 26, MN 38, and MN 39."
+    },
+    {
+      "context": "In the seven-title folk-etymology passage of MN 39 (samaṇa, brāhmaṇa, nhātaka, vedagū, sottiyo, ariya, arahaṁ)",
+      "rendering": "recluse",
+      "notes": "Keep alongside the paired title brāhmaṇa (brahmin) so the wordplay with samita (calmed) stays visible."
+    },
+    {
+      "context": "In explanatory prose emphasizing the practice of contemplation rather than the social/renunciant role",
+      "rendering": "contemplative",
+      "notes": "Use only as a controlled alternate in explanatory prose; do not let it replace recluse as the doctrinal default."
+    }
+  ],
+  "related_terms": [
+    "brahmana",
+    "bhikkhu",
+    "arahant",
+    "ariya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "samaṇo iti vuccati",
+      "translation": "is called a recluse",
+      "notes": "Shows the title-conferral use that anchors the seven-title formula.",
+      "source": "MN 39"
+    },
+    {
+      "pali": "samitāssa honti pāpakā akusalā dhammā",
+      "translation": "their bad, unwholesome qualities have been calmed",
+      "notes": "The folk etymology (samita, calmed) that MN 39 builds directly from the headword samaṇa.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "MN 39",
+    "AN 3.65",
+    "MN 22",
+    "MN 26",
+    "MN 38"
+  ],
+  "tags": [
+    "persons",
+    "core-practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Promoted from a minor entry (preferred_translation: contemplative) to a major entry (preferred_translation: recluse) to match the rendering actually used across five live translation surfaces.",
+  "authority_basis": [
+    {
+      "source": "AN 3.65, MN 22, MN 26, MN 38, MN 39",
+      "priority": "osf-house",
+      "kind": "preferred-translation",
+      "scope": "Supports recluse as the house default over the earlier, unused contemplative default."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'recluse' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not use 'monk' or 'ascetic' as defaults; reserve 'contemplative' for explanatory prose only.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the title from drifting back toward the unused 'contemplative' default or toward 'monk', which would narrow the term to ordained Buddhist monastics only."
+  }
+}

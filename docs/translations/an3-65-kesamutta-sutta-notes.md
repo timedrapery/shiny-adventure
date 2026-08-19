@@ -110,18 +110,12 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- The ten-criterion list has no formula record. This governing usage in AN
-  3.65 should be the basis for creating one. The list recurs (in abbreviated
-  form) twice within the sutta itself (an3.65:25, an3.65:41) and may appear
-  in other AN surfaces. A formula record would govern the rendering of all ten
-  terms consistently.
-- `assāsa` (consolation) has no lexicon entry. Future revisions should add a
-  minor entry. The four-consolation structure is unique to this sutta in the
-  current repository and represents a distinctive genre: conditional
-  reassurance that does not depend on resolving a contested metaphysical claim.
-- `viññū` (those with discernment) has no standalone minor entry. It appears
-  across many suttas as the measure of what counts as wise assessment. A minor
-  entry would govern its rendering across the growing surface set.
+- Resolved: the ten-criterion list now has a formula record,
+  `terms/minor/an3-65-ten-criteria.json`.
+- Resolved: `assāsa` (consolation) now has a minor entry,
+  `terms/minor/assasa.json`.
+- Resolved: `viññū` (those with discernment) now has a minor entry,
+  `terms/minor/vinnu.json`.
 - The Bilara abbreviates the aversion and delusion rounds in the positive
   triad (an3.65:31.2-31.3) with `…pe…`. These are expanded in full in the
   translation, following the policy of preserving repetition for study
@@ -148,8 +142,9 @@ source-audit calls, and edition notes that govern it.
 
 - This companion supports the first stable study edition of the repo's
   AN 3.65 translation surface.
-- Future revisions should focus on: creating a formula record for the
-  ten-criterion list; adding a minor entry for `assāsa` (consolation); adding
-  a minor entry for `viññū` (those with discernment); and confirming whether
-  the brahmavihāra formula in this sutta should be cross-linked to any future
-  brahmavihāra cluster report.
+- The ten-criterion formula record, and the `assāsa` and `viññū` minor
+  entries, were added in a later lexicon-backlog pass; see Re-audit Calls
+  above.
+- Future revisions should focus on confirming whether the brahmavihāra
+  formula in this sutta should be cross-linked to any future brahmavihāra
+  cluster report.

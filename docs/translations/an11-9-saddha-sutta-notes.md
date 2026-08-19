@@ -128,7 +128,8 @@ have sufficient lexicon coverage:
 
 - This companion supports the first stable study edition of the repo's
   AN 11.9 translation surface.
+- Resolved: `saññā vibhūtā hoti` now has a formula record,
+  `terms/minor/sanna-vibhuta.json`.
 - Future revisions should focus on the `jhāyati` dual-rendering decision if
   the jhāna cluster later establishes a single verb policy that covers both
-  the obsessive and the positive applications, or the `saññā vibhūtā`
-  formula if the sanna record develops a narrower governing phrase.
+  the obsessive and the positive applications.

@@ -92,17 +92,16 @@ choices, source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- `atthitā` and `natthitā` have no standalone lexicon entries. These abstract
-  noun forms are distinct from bare `atthi` / `natthi` (exists / does not
-  exist). Future revisions should add a paired minor entry for the
-  existence / non-existence duality as it is named in this sutta — especially
-  since `sassatavāda` (eternalism) and `ucchedavāda` (annihilationism) are
-  already future minor-entry candidates from the roadmap.
-- `abhinivesa` has no lexicon entry. The rendering "insistence" is used here
-  locally. If the views cluster develops a governed record, `abhinivesa`
-  should receive a minor entry distinguishing it from `upādāna` (taking
-  personally) and `anusaya` (underlying tendency).
-- `sammādiṭṭhi` has no lexicon entry. The rendering "right view" is the
+- Resolved: `atthitā` and `natthitā` now have paired minor entries,
+  `terms/minor/atthita.json` and `terms/minor/natthita.json`.
+- Resolved: `abhinivesa` now has a minor entry,
+  `terms/minor/abhinivesa.json`, distinguishing it from `upādāna` and
+  `anusaya` as planned.
+- `sammādiṭṭhi` still has no standalone lexicon entry, and this remains a
+  deliberate deferral rather than an oversight: `terms/major/ditthi.json`
+  already governs the compound via `compound_inheritance: inherit`, and this
+  sutta's "right view" rendering already follows from that. A standalone
+  entry is still appropriate when the path-factor cluster adds the
   natural English equivalent and is used consistently across the repository.
   A minor entry would be appropriate when the path-factor cluster adds the
   eight-factor path as individual entries.
@@ -127,9 +126,9 @@ choices, source-audit calls, and edition notes that govern it.
 
 - This companion supports the first stable study edition of the repo's
   SN 12.15 translation surface.
-- Future revisions should focus on: adding minor entries for `atthitā` /
-  `natthitā`; adding an entry for `abhinivesa` (insistence); and confirming
-  the rendering of `sammādiṭṭhi` if a path-factor lexicon entry is created.
-  This sutta should be cited as the governing authority for the two-extremes
+- The `atthitā` / `natthitā` and `abhinivesa` minor entries were added in a
+  later lexicon-backlog pass; see Re-audit Calls above. `sammādiṭṭhi` remains
+  intentionally deferred.
+- This sutta should be cited as the governing authority for the two-extremes
   / middle formulation in any future surface that touches eternalism or
   annihilationism.

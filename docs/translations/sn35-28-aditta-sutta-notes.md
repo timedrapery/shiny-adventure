@@ -70,10 +70,11 @@ records:
 
 ## Re-audit Calls
 
-- `āditta` has no standalone lexicon entry. It is an adjective used as the
-  sutta's structuring metaphor rather than a standalone doctrinal term.
-  `Burning` is used throughout without further qualification, which is the
-  correct approach: the fire metaphor is self-evident and needs no gloss.
+- Resolved: `āditta` now has a minor entry, `terms/minor/aditta.json`. It
+  remains an adjective used as the sutta's structuring metaphor rather than a
+  heavier doctrinal term. `Burning` is used throughout without further
+  qualification, which is the correct approach: the fire metaphor is
+  self-evident and needs no gloss.
 - `mano` as `thinking mind` (sixth sense base) versus `citta` as `feeling
   mind` (experiential mind) is a distinction the translation preserves
   consistently. The two terms appear in different syntactic roles within the
@@ -112,6 +113,7 @@ records:
 
 - This companion supports the first stable study edition of the repo's
   SN 35.28 translation surface.
-- Future revisions should focus on `āditta` if the term gains a lexicon entry,
-  or `mano` / `citta` if the feeling-mind / thinking-mind distinction develops
-  a more fully governed policy across the six-sense-field family.
+- The `āditta` minor entry was added in a later lexicon-backlog pass; see
+  Re-audit Calls above. Future revisions should focus on `mano` / `citta` if
+  the feeling-mind / thinking-mind distinction develops a more fully governed
+  policy across the six-sense-field family.

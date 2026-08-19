@@ -78,11 +78,14 @@ sufficient lexicon coverage:
 
 ## Re-audit Calls
 
-- `samaṇa` is rendered `recluse`. No major lexicon entry governs `samaṇa`;
-  the sutta makes it the central term of address and closes with its folk
-  etymology (`samita` = calmed). `Recluse` is the clearest modern English
-  that preserves the withdrawn, quieted sense without importing asceticism
-  or harshness. It is used consistently across all seven-title instances.
+- Resolved: `samaṇa` is now a major lexicon entry, `terms/major/samana.json`
+  (promoted from a thinner minor entry that had recorded an unused
+  "contemplative" default; the major entry corrects this to `recluse`,
+  matching actual usage). `Recluse` is the clearest modern English that
+  preserves the withdrawn, quieted sense without importing asceticism or
+  harshness, and MN 39 makes it the central term of address, closing with its
+  folk etymology (`samita` = calmed). It is used consistently across all
+  seven-title instances.
 - `brāhmaṇo` is rendered `brahmin` as a title alongside `recluse` throughout,
   with `brahmin` as the established English form.
 - The seven closing epithets (`samaṇa`, `brāhmaṇa`, `nhātaka`, `vedagū`,
@@ -108,11 +111,13 @@ sufficient lexicon coverage:
   (covetousness, wanting what belongs to the world) and `domanassa`
   (displeasure) name the two bad qualities that flood in through unguarded
   faculties.
-- `abhisandeti parisandeti paripūreti parippharati` is rendered `drenches,
-  saturates, fills, and spreads`. These four verbs describe the permeation of
-  the body by the quality generated in each mental theme. The progression from
-  drench to saturate to fill to spread shows thorough permeation without
-  overflow.
+- Resolved: `abhisandeti parisandeti paripūreti parippharati` now has a
+  formula record,
+  `terms/minor/abhisandeti-parisandeti-paripureti-parippharati.json`. It is
+  rendered `drenches, saturates, fills, and spreads`, describing the
+  permeation of the body by the quality generated in each mental theme. The
+  progression from drench to saturate to fill to spread shows thorough
+  permeation without overflow.
 - `āneñjappatta` in the three-higher-knowledge opener is rendered
   `imperturbable`. The compound means "having reached non-movement" —
   `imperturbable` keeps this literal without importing later doctrinal
@@ -150,7 +155,7 @@ sufficient lexicon coverage:
 
 - This companion supports the first stable study edition of the repo's MN 39
   translation surface.
-- Future revisions should focus on the `samaṇa` rendering if the term gains
-  a governed major entry, the `brahmacariya` rendering if the house develops
-  a narrower policy for the liberation formula, or the body-permeation verb
-  cluster if a governing formula record is created.
+- The `samaṇa` major-entry promotion and the body-permeation verb cluster
+  formula record were added in a later lexicon-backlog pass; see Re-audit
+  Calls above. Future revisions should focus on the `brahmacariya` rendering
+  if the house develops a narrower policy for the liberation formula.

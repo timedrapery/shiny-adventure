@@ -1,0 +1,21 @@
+{
+  "term": "paritassanā",
+  "normalized_term": "paritassana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "anxiety",
+  "definition": "Agitated distress that arises when something grasped as self or as belonging to self is seen to change or be threatened.",
+  "literal_meaning": "trembling, agitation",
+  "related_terms": [
+    "upadana",
+    "anatta"
+  ],
+  "sutta_references": [
+    "MN 22"
+  ],
+  "tags": [
+    "mental-qualities",
+    "self-view"
+  ],
+  "status": "reviewed"
+}

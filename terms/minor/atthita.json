@@ -1,0 +1,22 @@
+{
+  "term": "atthitā",
+  "normalized_term": "atthita",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "the view of existence",
+  "definition": "The abstract-noun view that things exist absolutely, named as one of the two extremes the middle-way teaching on right view avoids.",
+  "literal_meaning": "existence-ness, the fact/view of being",
+  "notes": "An abstract noun formed from atthi (exists), distinct from the bare verb. Paired with natthita (the view of non-existence). Related to but not identical with sassatavada (eternalism) and ucchedavada (annihilationism): atthita/natthita name the view-poles directly, while sassatavada/ucchedavada name the doctrinal positions built on them.",
+  "related_terms": [
+    "natthita",
+    "ditthi"
+  ],
+  "sutta_references": [
+    "SN 12.15"
+  ],
+  "tags": [
+    "core-doctrine",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

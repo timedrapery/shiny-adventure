@@ -89,6 +89,7 @@ source-audit calls, and edition notes that govern it.
 
 - This companion now supports the first study edition of the repo's
   MN 99 translation surface.
-- Future revisions should be driven by stronger source-audit gains, added term
-  records for the brahmin fivefold list, or clear readability improvements,
-  not routine word swapping.
+- Resolved: the brahmin fivefold list now has a formula record,
+  `terms/minor/panca-brahmana-dhamma.json`.
+- Future revisions should be driven by stronger source-audit gains or clear
+  readability improvements, not routine word swapping.

@@ -45,6 +45,12 @@ source-audit calls, and edition notes that govern it.
   the source sutta for the raft simile referenced in MN 38. The rendering
   "for crossing over, not for holding on" is used here and should be used
   consistently in any future surface referencing this simile.
+  Determination: the raft simile does not get its own formula record. Unlike
+  the ten undeclared points or the seven-term formula, it is a single
+  narrative image rather than a recurring formulaic line restated across
+  many surfaces, so it does not fit the formula-record pattern the way those
+  do. This note, plus the fixed rendering above, is the intended cross-link
+  for MN 22 and MN 38.
 - `antarāyika dhamma` is rendered "obstructing quality." `Antarāyika` =
   making an obstruction, causing an obstacle. Ariṭṭha's wrong view is that the
   qualities the Blessed One describes as obstructing do not actually obstruct
@@ -55,12 +61,12 @@ source-audit calls, and edition notes that govern it.
   the five heaps (individually) + whatever is seen, heard, sensed, known,
   reached, sought, and explored by the feeling mind + the eternalist view. On
   each of these grounds, the untrained person makes the "mine / I am / my self"
-  claim. No standalone lexicon entry; future revisions should add a minor entry
-  for this compound.
+  claim. Resolved: `diṭṭhiṭṭhāna` now has a minor entry,
+  `terms/minor/ditthitthana.json`.
 - `paritassati / paritassanā` are rendered "is anxious / anxiety." The
   dialogue in mn22:18-21 explores four combinations of presence / absence of
-  this anxiety with respect to external things and internal self-view. No
-  standalone lexicon entry; the natural English "anxiety" is used.
+  this anxiety with respect to external things and internal self-view.
+  Resolved: `paritassanā` now has a minor entry, `terms/minor/paritassana.json`.
 - `svākkhāta` = "well explained." The closing formula `Evaṁ svākkhāto mayā
   dhammo uttāno vivaṭo pakāsito chinnapilotiko` is rendered "The teaching thus
   well explained by me is open, laid bare, illuminated, and without patchwork."
@@ -128,18 +134,12 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- The `netaṁ mama, nesohamasmi, na meso attā` refrain has no standalone
-  formula record. This governing usage in MN 22 should be the basis for
-  creating one. The refrain recurs in the Anattalakkhaṇa Sutta (SN 22.59)
-  and in the full-heap analysis sections of many surfaces. A formula record
-  would prevent the three-part structure from being rendered inconsistently
-  across future surfaces.
-- `diṭṭhiṭṭhāna` (ground for views) has no lexicon entry. It appears in
-  the six-grounds analysis and in the anxiety dialogues. A minor entry
-  should be added when the views-cluster is next governed.
-- `opapātika` (spontaneously reborn / non-returner) has no lexicon entry.
-  It is used in the five-levels closing section. A minor entry should be
-  added when the awakening-stage family is next governed.
+- Resolved: the `netaṁ mama, nesohamasmi, na meso attā` refrain now has a
+  formula record, `terms/minor/netam-mama-nesohamasmi-na-me-so-atta.json`.
+- Resolved: `diṭṭhiṭṭhāna` (ground for views) now has a minor entry,
+  `terms/minor/ditthitthana.json`.
+- Resolved: `opapātika` (spontaneously reborn) now has a minor entry,
+  `terms/minor/opapatika.json`.
 - `abbūḷhesika` (stake pulled up = craving abandoned) — the "stake" metaphor
   names the structural post that holds the person in place. In the Pali,
   `esika` can be a pillar or a stake. Rendering as "stake" rather than
@@ -178,8 +178,7 @@ source-audit calls, and edition notes that govern it.
 
 - This companion supports the first stable study edition of the repo's
   MN 22 translation surface.
-- Future revisions should focus on: creating a formula record for the
-  `netaṁ mama, nesohamasmi, na meso attā` refrain; adding minor entries
-  for `diṭṭhiṭṭhāna`, `opapātika`, and `paritassanā`; and confirming
-  whether the raft-simile formula should gain its own formula record
-  cross-linking MN 22 and MN 38.
+- The not-self refrain formula record and the `diṭṭhiṭṭhāna`, `opapātika`,
+  and `paritassanā` minor entries were added in a later lexicon-backlog pass;
+  see Re-audit Calls above. The raft simile was determined not to need its
+  own formula record (see Governing Decisions).

@@ -1,0 +1,42 @@
+{
+  "term": "nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṃvattati",
+  "normalized_term": "nibbida-viraga-nirodha-upasama-abhinna-sambodha-nibbana-formula",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "leads to disenchantment, fading, cessation, calming, higher knowing, awakening, or nibbāna",
+  "definition": "The seven-term formula giving the full arc from first disillusionment with a teaching or view to final liberation, used both positively (what a sound teaching leads to) and negatively (what an unsound teaching, or an undeclared metaphysical view, fails to lead to).",
+  "notes": "First governed in MN 26 (Alara Kalama and Uddaka Ramaputta's teachings judged against this formula) and reused verbatim in MN 63 (why the ten undeclared points are left undeclared). Keep the seven terms in this fixed order and this fixed rendering wherever the formula recurs, rather than re-solving it locally per surface.",
+  "related_terms": [
+    "nibbida",
+    "viraga",
+    "nirodha",
+    "upasama",
+    "abhinna",
+    "sambodha",
+    "nibbana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "nayidaṁ dhammaṁ nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati",
+      "translation": "this teaching does not lead to disenchantment, fading, cessation, calming, higher knowing, awakening, or nibbāna",
+      "notes": "Negative use: judging Alara Kalama's and Uddaka Ramaputta's teachings against the formula.",
+      "source": "MN 26"
+    },
+    {
+      "pali": "na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṃvattati",
+      "translation": "it does not lead to disenchantment, fading, cessation, calming, higher knowing, awakening, or nibbāna",
+      "notes": "Negative use: why the ten undeclared points are left undeclared.",
+      "source": "MN 63"
+    }
+  ],
+  "sutta_references": [
+    "MN 26",
+    "MN 63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

@@ -1,0 +1,22 @@
+{
+  "term": "diṭṭhiṭṭhāna",
+  "normalized_term": "ditthitthana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "ground for views",
+  "definition": "A standpoint or basis on which a view is constructed and taken up, especially the self-referential grounds surveyed and rejected in MN 22's not-self analysis.",
+  "literal_meaning": "diṭṭhi (view) + ṭhāna (standing-place, ground)",
+  "notes": "Kept distinct from ditthi itself: a ditthitthana is the ground a view stands on, not the view or the act of holding it.",
+  "related_terms": [
+    "ditthi",
+    "anatta"
+  ],
+  "sutta_references": [
+    "MN 22"
+  ],
+  "tags": [
+    "core-doctrine",
+    "self-view"
+  ],
+  "status": "reviewed"
+}

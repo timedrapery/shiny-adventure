@@ -74,43 +74,25 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- `avyākata` (undeclared / unrecorded) has no lexicon entry. This sutta is
-  the natural governing surface for one: `byākata` / `avyākata` are rendered
-  "declared" / "undeclared" throughout, and a minor entry would fix this
-  pairing before it drifts into "answered/unanswered" or
-  "explained/unexplained" in a future surface.
-- The ten undeclared points themselves (`dasa avyākatavatthūni`) have no
-  formula record. This translation is the natural control surface for one.
+- Resolved: `avyākata` (undeclared / unrecorded) now has a minor entry,
+  `terms/minor/avyakata.json`.
+- Resolved: the ten undeclared points themselves (`dasa avyākatavatthūni`)
+  now have a formula record, `terms/minor/dasa-avyakatavatthuni.json`.
   Note for the roadmap: the source text of MN 63 lists ten propositions (two
   each on the eternity and finitude of the world, two on the identity of soul
   and body, and four on the Tathāgata's status after death), not fourteen.
-  [next-suttas-roadmap.md](../next-suttas-roadmap.md) and
-  [next-sutta-translation-roadmap.md](../next-sutta-translation-roadmap.md)
-  both describe "the fourteen unanswered questions" for MN 63; that count
-  belongs to a broader, later Abhidharma-commentarial enumeration that
-  applies the full four-cornered tetralemma to both the eternity and the
-  finitude questions, not to the Nikāya-level list this discourse actually
-  gives. Both roadmap documents should be corrected to "ten" the next time
-  they are revised, so the roadmap does not misstate the sutta it is
-  describing.
-- `jīva` (soul) and `sarīra` (body, in the specific sense of the physical
-  frame paired with `jīva` in this question) have no lexicon entries. `Sarīra`
-  is distinct from the repository's existing body-language around `kāya`; a
-  minor entry for each, cross-linked, would govern the "same as the body /
-  different from the body" question consistently if it recurs in a future
-  surface (e.g., a parallel undeclared-points discourse such as MN 72).
-  "Soul" is used here as the most legible modern English gloss for the felt
-  animating principle at stake in the question, without taking a position on
-  whether such a thing exists — the question itself is left undeclared by the
-  sutta, and the translation should not resolve it either.
-- `salla` (arrow, dart) has no lexicon entry. This sutta's arrow is a
-  different governing image from SN 36.6's two-arrows contrast: here the
-  poisoned arrow stands for the wound of unmet metaphysical curiosity itself,
-  and the simile's point is that refusing treatment (practice) until every
-  background fact is settled is fatal, not that a second, avoidable arrow of
-  mental reaction is added to a first. A future minor entry, if added, should
-  keep these two arrow-images distinct rather than collapsing them into one
-  cross-reference.
+  [next-suttas-roadmap.md](../next-suttas-roadmap.md) has already been
+  corrected to say "ten"; [next-sutta-translation-roadmap.md](../next-sutta-translation-roadmap.md)
+  never contained the erroneous count.
+- Resolved: `jīva` (soul) and `sarīra` (body, in the specific sense of the
+  physical frame paired with `jīva` in this question) now have cross-linked
+  minor entries, `terms/minor/jiva.json` and `terms/minor/sarira.json`.
+  `Sarīra` is kept distinct from the repository's existing body-language
+  around `kāya`.
+- Resolved: `salla` (arrow, dart) now has a minor entry,
+  `terms/minor/salla.json`, which explicitly keeps this sutta's poisoned-arrow
+  image distinct from SN 36.6's two-arrows contrast rather than collapsing
+  them into one cross-reference.
 - The bow, bowstring, shaft, fletching, and binding-sinew details in the
   poisoned-arrow simile are rendered with generalized, legible modern English
   (e.g., "vulture, heron, hawk, peacock, or some other bird" for the
@@ -119,13 +101,9 @@ source-audit calls, and edition notes that govern it.
   English equivalent. If a future revision wants maximal source-fidelity on
   this list, that should be a deliberate, separately reviewed editorial
   decision rather than an incidental effect of this pass.
-- `Bhagavā` rendering now differs between this surface (`Blessed One`) and
-  the companion MN 64 surface (`the Buddha`) for the same speaker and
-  disciple. This is a pre-existing drift between an early ("pre-existing
-  surfaces") edition and the current Wave 4/5 default, not something this
-  pass introduced. A future harmonization pass should decide whether to bring
-  MN 64 forward to the current default or to document `Bhagavā` as having a
-  genuine two-way house option.
+- Resolved: `Bhagavā` in MN 64 has been harmonized to `Blessed One`, matching
+  this surface and the current house default. See MN 64's notes, Edition
+  Status, for the revision log.
 
 ## Editorial Presentation
 
@@ -152,8 +130,7 @@ source-audit calls, and edition notes that govern it.
 
 - This companion supports the first stable study edition of the repository's
   MN 63 translation surface.
-- Future revisions should focus on: adding a minor entry for `avyākata`;
-  adding a formula record for the ten undeclared points; adding minor entries
-  for `jīva` and `sarīra`; correcting the "fourteen unanswered questions"
-  wording in both roadmap documents to "ten"; and deciding the `Bhagavā`
-  harmonization question against MN 64.
+- All items flagged in the original Re-audit Calls above were resolved in a
+  later lexicon-backlog pass: the `avyākata`, `jīva`, `sarīra`, and `salla`
+  minor entries; the ten-undeclared-points formula record; the roadmap
+  wording correction; and the `Bhagavā` harmonization against MN 64.

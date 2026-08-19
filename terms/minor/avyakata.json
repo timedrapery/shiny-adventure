@@ -1,0 +1,27 @@
+{
+  "term": "avyākata",
+  "normalized_term": "avyakata",
+  "entry_type": "minor",
+  "part_of_speech": "adjective",
+  "preferred_translation": "undeclared",
+  "definition": "Left undeclared by the Buddha as a doctrinal or metaphysical proposition, not because the answer is unknown but because declaring it would not serve the aim of practice.",
+  "literal_meaning": "not declared, not explained",
+  "notes": "Paired with byakata (declared). Avoid \"unanswered\" or \"unexplained\" as defaults: both suggest an epistemic gap rather than a deliberate editorial withholding, which is the point of the avyakata family in MN 63 and its parallels.",
+  "discouraged_translations": [
+    "unanswered",
+    "unexplained"
+  ],
+  "related_terms": [
+    "tathagata",
+    "ditthi"
+  ],
+  "sutta_references": [
+    "MN 63"
+  ],
+  "tags": [
+    "core-doctrine",
+    "epistemology",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}
