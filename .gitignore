@@ -30,3 +30,7 @@ repo-health.json
 
 # MkDocs build output
 site/
+
+# Claude Code: share the project permission allowlist, keep machine-local
+# overrides out of the repo (the two machines have different local settings).
+.claude/settings.local.json
