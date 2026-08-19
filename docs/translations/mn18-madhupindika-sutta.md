@@ -134,20 +134,20 @@ over a person ... here these bad unwholesome dhammas cease without remainder.'
 
 I understand the detailed meaning of that brief summary like this:
 
-Dependent on eye and visible forms, eye-knowing arises. The meeting of the three is
-contact. With contact as condition, felt experience. What one feels, one
-recognizes. What one recognizes, one thinks about. What one thinks about, one
-proliferates about. From what one proliferates about as the source, the
+Dependent on eye and visible forms, eye-knowing arises. The meeting of the
+three is contact. With contact as condition, felt experience. What they feel,
+they recognize. What they recognize, they think about. What they think about,
+they proliferate about. From what they proliferate about as the source, the
 recognitions and notions of proliferation sweep over a person when it comes to
 visible forms knowable by the eye in the past, future, and present.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
-is contact. With contact as condition, felt experience. What one feels, one
-recognizes. What one recognizes, one thinks about. What one thinks about, one
-proliferates about. From what one proliferates about as the source, the
+Dependent on mind and dhammas, mind-knowing arises. The meeting of the three is
+contact. With contact as condition, felt experience. What they feel, they
+recognize. What they recognize, they think about. What they think about, they
+proliferate about. From what they proliferate about as the source, the
 recognitions and notions of proliferation sweep over a person when it comes to
 dhammas knowable by the mind in the past, future, and present."
 

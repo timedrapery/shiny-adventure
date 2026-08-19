@@ -78,11 +78,11 @@ EXPECTED_PREFERRED_TRANSLATIONS = {
     "vedananupassana": "contemplation of felt experience",
     "mn10-direct-path-opening": "Bhikkhus, this is the direct path for the purification of beings, for going beyond sorrow and lamentation, for ending pain and distress, for reaching the right way, for directly realizing nibbāna: namely, the four establishments of sati",
     "mn10-satipatthana-qualifier": "ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world",
-    "mn10-kayanupassi-internal-external": "one remains observing the body as internal, observing the body as external, and observing the body as both internal and external",
+    "mn10-kayanupassi-internal-external": "they remain observing the body as internal, observing the body as external, and observing the body as both internal and external",
     "mn10-kayo-anchor-nonappropriation": "or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally",
-    "mn118-breathing-remembrance-line": "one breathes in remembering the Dhamma; one breathes out remembering the Dhamma",
-    "mn118-whole-body-training": "one trains: 'Breathing in, I will experience the whole body.' One trains: 'Breathing out, I will experience the whole body.'",
-    "mn118-body-conditioner-training": "one trains: 'Breathing in, I will calm the body conditioner.' One trains: 'Breathing out, I will calm the body conditioner.'",
+    "mn118-breathing-remembrance-line": "they breathe in remembering the Dhamma; they breathe out remembering the Dhamma",
+    "mn118-whole-body-training": "they train: 'Breathing in, I will experience the whole body.' They train: 'Breathing out, I will experience the whole body.'",
+    "mn118-body-conditioner-training": "they train: 'Breathing in, I will calm the body conditioner.' They train: 'Breathing out, I will calm the body conditioner.'",
 }
 
 

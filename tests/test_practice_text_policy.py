@@ -27,15 +27,15 @@ class PracticeTextPolicyTests(unittest.TestCase):
 
         self.assertEqual(
             breathing["preferred_translation"],
-            "one breathes in remembering the Dhamma; one breathes out remembering the Dhamma",
+            "they breathe in remembering the Dhamma; they breathe out remembering the Dhamma",
         )
         self.assertEqual(
             whole_body["preferred_translation"],
-            "one trains: 'Breathing in, I will experience the whole body.' One trains: 'Breathing out, I will experience the whole body.'",
+            "they train: 'Breathing in, I will experience the whole body.' They train: 'Breathing out, I will experience the whole body.'",
         )
         self.assertEqual(
             body_conditioner["preferred_translation"],
-            "one trains: 'Breathing in, I will calm the body conditioner.' One trains: 'Breathing out, I will calm the body conditioner.'",
+            "they train: 'Breathing in, I will calm the body conditioner.' They train: 'Breathing out, I will calm the body conditioner.'",
         )
 
     def test_live_practice_text_surface_has_no_errors(self) -> None:

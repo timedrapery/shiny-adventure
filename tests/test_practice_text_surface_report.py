@@ -91,7 +91,7 @@ class PracticeTextSurfaceReportTests(unittest.TestCase):
             write_required_surfaces(repo_root)
             mn118_path = repo_root / "docs/translations/mn118-anapanasati-sutta.md"
             mn118_path.write_text(
-                "One breathes in remembering the Dhamma; one breathes out remembering the Dhamma.\n",
+                "They breathe in remembering the Dhamma; they breathe out remembering the Dhamma.\n",
                 encoding="utf-8",
             )
 

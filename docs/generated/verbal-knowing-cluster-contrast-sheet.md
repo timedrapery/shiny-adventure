@@ -29,14 +29,14 @@
 ## Formula Guardrails
 
 - `yathābhūtaṃ pajānāti` -> `discerns it as it has come to be`
-- `nāparaṃ itthattāyāti pajānāti` -> `one discerns: there is no more of this state of being`
-- `yaṁ vedeti taṁ sañjānāti` -> `what one feels, one recognizes`
-- `yaṁ sañjānāti taṁ vitakketi` -> `what one recognizes, one thinks about`
-- `yaṁ vitakketi taṁ papañceti` -> `what one thinks about, one proliferates about`
-- `yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti` -> `from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person`
-- `paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati` -> `having recognized earth as earth, one takes oneself to be earth`
-- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi` -> `having directly known earth as earth, one should not take oneself to be earth`
-- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati` -> `having directly known earth as earth, one does not take oneself to be earth`
+- `nāparaṃ itthattāyāti pajānāti` -> `they discern: there is no more of this state of being`
+- `yaṁ vedeti taṁ sañjānāti` -> `what they feel, they recognize`
+- `yaṁ sañjānāti taṁ vitakketi` -> `what they recognize, they think about`
+- `yaṁ vitakketi taṁ papañceti` -> `what they think about, they proliferate about`
+- `yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti` -> `from what they proliferate about as the source, the recognitions and notions of proliferation sweep over a person`
+- `paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati` -> `once they have recognized earth as earth, they take themselves to be earth`
+- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi` -> `once they have directly known earth as earth, they should not take themselves to be earth`
+- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati` -> `once they have directly known earth as earth, they do not take themselves to be earth`
 - `nandī dukkhassa mūlan` -> `delight is the root of dissatisfaction`
 - `bhavā jāti bhūtassa jarāmaraṇaṁ` -> `with becoming there is birth, and for whatever has come to be there are aging and death`
 
