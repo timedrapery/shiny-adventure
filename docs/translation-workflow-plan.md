@@ -95,6 +95,11 @@ The foundational cluster-buildout milestone is largely complete.
 
 The live lexicon currently has no draft major or minor entries.
 
+As of 2026-08-19 every backlog section in `python scripts/repo_health.py`
+reports none, including the high-load minor `translation_policy` queue. There
+is no remaining machine-detectable gap in the dataset, so the next work has to
+be chosen editorially rather than read off a report.
+
 Current governed surfaces already include:
 
 - dependent arising
@@ -113,7 +118,7 @@ Current governed surfaces already include:
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
 - Use [next-suttas-roadmap.md](next-suttas-roadmap.md) as the source-of-truth ranked roadmap for the next outward-facing sutta additions, and use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view extracted from it.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
-- Use Wave 3 in [next-suttas-roadmap.md](next-suttas-roadmap.md) for the next strategic expansion surfaces, continuing with `MN 39` after the completed `SN 46.51` surface.
+- Waves 1 through 5 are complete at 36 surfaces. Wave 6 has not been drafted; running the audit method in [next-suttas-roadmap.md](next-suttas-roadmap.md) against the current 36-surface state is the prerequisite for naming the next queue.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness
