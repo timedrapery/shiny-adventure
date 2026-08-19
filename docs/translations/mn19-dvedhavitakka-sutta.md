@@ -39,7 +39,7 @@ awakening, this thought arose in me:
 
 'What if I were to keep dividing thinking into two classes?'
 
-So I made one class out of thinking of sensuality, thinking of ill will, and
+So I made they class out of thinking of sensuality, thinking of ill will, and
 thinking of harming. And I made the second class out of thinking of
 renunciation, thinking of non-ill-will, and thinking of non-harming.
 
@@ -81,7 +81,7 @@ mind inclines that way.
 ### The First Cowherd Simile
 
 "Suppose, bhikkhus, in the last month of the rainy season, in autumn, when the
-crops are thick, a cowherd were guarding the cattle. One would rap them here
+crops are thick, a cowherd were guarding the cattle. They would rap them here
 and there with a stick, turn them back, hem them in, and keep them out.
 
 Why is that?
@@ -137,10 +137,10 @@ mind inclines that way.
 
 ### The Second Cowherd Simile
 
-"Suppose, bhikkhus, in the last month of the hot season, when all the crops
-had been gathered into the villages, a cowherd were guarding the cattle.
-Whether at the root of a tree or out in the open, one would only need to
-remember: 'Those are the cattle.'
+"Suppose, bhikkhus, in the last month of the hot season, when all the crops had
+been gathered into the villages, a cowherd were guarding the cattle. Whether at
+the root of a tree or out in the open, they would only need to remember: 'Those
+are the cattle.'
 
 In the same way, I only needed to remember: 'These dhammas are here.'
 
@@ -220,15 +220,15 @@ as happens for someone diligent, ardent, and resolved.
 "Suppose, bhikkhus, in a forest wilderness there were a great low-lying marsh,
 and a large herd of deer lived depending on it.
 
-Then a person might appear who wanted their harm, their hurt, and their lack
-of safety. One would close off the safe and secure path leading to delight,
-open up the bad path, set out the male decoy, and station the female decoy. In
-that way, in time, that great herd of deer would come to ruin and disaster.
+Then a person might appear who wanted their harm, their hurt, and their lack of
+safety. They would close off the safe and secure path leading to delight, open
+up the bad path, set out the male decoy, and station the female decoy. In that
+way, in time, that great herd of deer would come to ruin and disaster.
 
 Then another person might appear who wanted their welfare, their good, and
-their safety. One would open the safe and secure path leading to delight,
-close off the bad path, remove the male decoy, and destroy the female decoy.
-In that way, in time, that great herd of deer would grow, increase, and reach
+their safety. They would open the safe and secure path leading to delight,
+close off the bad path, remove the male decoy, and destroy the female decoy. In
+that way, in time, that great herd of deer would grow, increase, and reach
 fullness.
 
 I have made this simile, bhikkhus, to make the meaning clear. And this is its

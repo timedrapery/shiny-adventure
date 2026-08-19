@@ -101,8 +101,8 @@ Then they remain observing the body as internal, observing the body as
 external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
-present: 'There is body,' just enough for knowing and for remembering. One
-stays without depending on anything and does not take anything in the world
+present: 'There is body,' just enough for knowing and for remembering. They
+stay without depending on anything and do not take anything in the world
 personally."
 
 #### Postures
@@ -115,8 +115,8 @@ Then they remain observing the body as internal, observing the body as
 external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
-present: 'There is body,' just enough for knowing and for remembering. One
-stays without depending on anything and does not take anything in the world
+present: 'There is body,' just enough for knowing and for remembering. They
+stay without depending on anything and do not take anything in the world
 personally."
 
 #### Clear Knowing in Activities
@@ -189,16 +189,15 @@ element, and the air element.'
 - bones heaped up, more than a year old;
 - bones rotten and crumbling to dust.
 
-One applies it to this very body like this:
-'This body too is of the same nature, will become like that, and has not gone
-beyond it.'
+They apply it to this very body like this: 'This body too is of the same
+nature, will become like that, and has not gone beyond it.'
 
 Then they remain observing the body as internal, observing the body as
 external, and observing the body as both internal and external. They remain
 observing arising qualities in the body, vanishing qualities in the body, and
 both arising and vanishing qualities in the body. Or remembering is simply
-present: 'There is body,' just enough for knowing and for remembering. One
-stays without depending on anything and does not take anything in the world
+present: 'There is body,' just enough for knowing and for remembering. They
+stay without depending on anything and do not take anything in the world
 personally.
 
 That is how a bhikkhu remains observing the body in relation to the body."
@@ -229,8 +228,8 @@ experience as external, and observing felt experience as both internal and
 external. They remain observing arising qualities in felt experience, vanishing
 qualities in felt experience, and both arising and vanishing qualities in felt
 experience. Or remembering is simply present: 'There is felt experience,' just
-enough for knowing and for remembering. One stays without depending on anything
-and does not take anything in the world personally.
+enough for knowing and for remembering. They stay without depending on anything
+and do not take anything in the world personally.
 
 That is how a bhikkhu remains observing felt experience in relation to felt
 experience."
@@ -241,29 +240,29 @@ experience."
 feeling mind?
 
 Here a bhikkhu discerns a feeling mind with passion as 'feeling mind with
-passion.' One discerns a feeling mind without passion as 'feeling mind without
+passion.' They discern a feeling mind without passion as 'feeling mind without
 passion.'
 
-One discerns a feeling mind with aversion as 'feeling mind with aversion.' One
-discerns a feeling mind without aversion as 'feeling mind without aversion.'
+They discern a feeling mind with aversion as 'feeling mind with aversion.' They
+discern a feeling mind without aversion as 'feeling mind without aversion.'
 
-One discerns a feeling mind with confusion as 'feeling mind with confusion.'
-One discerns a feeling mind without confusion as 'feeling mind without
+They discern a feeling mind with confusion as 'feeling mind with confusion.'
+They discern a feeling mind without confusion as 'feeling mind without
 confusion.'
 
-One discerns a contracted feeling mind as 'contracted feeling mind.' One
-discerns a scattered feeling mind as 'scattered feeling mind.'
+They discern a contracted feeling mind as 'contracted feeling mind.' They
+discern a scattered feeling mind as 'scattered feeling mind.'
 
-One discerns an expanded feeling mind as 'expanded feeling mind.' One discerns
+They discern an expanded feeling mind as 'expanded feeling mind.' They discern
 an unexpanded feeling mind as 'unexpanded feeling mind.'
 
-One discerns a surpassable feeling mind as 'surpassable feeling mind.' One
-discerns an unsurpassable feeling mind as 'unsurpassable feeling mind.'
+They discern a surpassable feeling mind as 'surpassable feeling mind.' They
+discern an unsurpassable feeling mind as 'unsurpassable feeling mind.'
 
-One discerns a composed feeling mind as 'composed feeling mind.' One discerns
+They discern a composed feeling mind as 'composed feeling mind.' They discern
 an uncomposed feeling mind as 'uncomposed feeling mind.'
 
-One discerns a released feeling mind as 'released feeling mind.' One discerns
+They discern a released feeling mind as 'released feeling mind.' They discern
 an unreleased feeling mind as 'unreleased feeling mind.'
 
 Then they remain observing the feeling mind as internal, observing the feeling
@@ -271,8 +270,8 @@ mind as external, and observing the feeling mind as both internal and external.
 They remain observing arising qualities in the feeling mind, vanishing
 qualities in the feeling mind, and both arising and vanishing qualities in the
 feeling mind. Or remembering is simply present: 'There is the feeling mind,'
-just enough for knowing and for remembering. One stays without depending on
-anything and does not take anything in the world personally.
+just enough for knowing and for remembering. They stay without depending on
+anything and do not take anything in the world personally.
 
 That is how a bhikkhu remains observing the feeling mind in relation to the
 feeling mind."
@@ -289,33 +288,33 @@ distractions.
 And how does one remain observing dhammas among dhammas in the five
 distractions?
 
-When sensual distraction is present internally, one discerns: 'There is
-sensual distraction in me.' When sensual distraction is absent internally, one
-discerns: 'There is no sensual distraction in me.' One also discerns how
+When sensual distraction is present internally, they discern: 'There is sensual
+distraction in me.' When sensual distraction is absent internally, they
+discern: 'There is no sensual distraction in me.' One also discerns how
 unarisen sensual distraction arises, how arisen sensual distraction is given
 up, and how abandoned sensual distraction does not arise again in the future.
 
-When aversive distraction is present internally, one discerns: 'There is
+When aversive distraction is present internally, they discern: 'There is
 aversive distraction in me.' When aversive distraction is absent internally,
-one discerns: 'There is no aversive distraction in me.' One also discerns how
+they discern: 'There is no aversive distraction in me.' One also discerns how
 unarisen aversive distraction arises, how arisen aversive distraction is given
 up, and how abandoned aversive distraction does not arise again in the future.
 
-When dull distraction is present internally, one discerns: 'There is dull
-distraction in me.' When dull distraction is absent internally, one discerns:
+When dull distraction is present internally, they discern: 'There is dull
+distraction in me.' When dull distraction is absent internally, they discern:
 'There is no dull distraction in me.' One also discerns how unarisen dull
 distraction arises, how arisen dull distraction is given up, and how abandoned
 dull distraction does not arise again in the future.
 
-When agitated distraction is present internally, one discerns: 'There is
+When agitated distraction is present internally, they discern: 'There is
 agitated distraction in me.' When agitated distraction is absent internally,
-one discerns: 'There is no agitated distraction in me.' One also discerns how
+they discern: 'There is no agitated distraction in me.' One also discerns how
 unarisen agitated distraction arises, how arisen agitated distraction is given
 up, and how abandoned agitated distraction does not arise again in the future.
 
-When uncertain distraction is present internally, one discerns: 'There is
+When uncertain distraction is present internally, they discern: 'There is
 uncertain distraction in me.' When uncertain distraction is absent internally,
-one discerns: 'There is no uncertain distraction in me.' One also discerns how
+they discern: 'There is no uncertain distraction in me.' One also discerns how
 unarisen uncertain distraction arises, how arisen uncertain distraction is
 given up, and how abandoned uncertain distraction does not arise again in the
 future.
@@ -324,8 +323,8 @@ Then they remain observing dhammas as internal, observing dhammas as external,
 and observing dhammas as both internal and external. They remain observing
 arising qualities in dhammas, vanishing qualities in dhammas, and both arising
 and vanishing qualities in dhammas. Or remembering is simply present: 'There
-are dhammas,' just enough for knowing and for remembering. One stays without
-depending on anything and does not take anything in the world personally."
+are dhammas,' just enough for knowing and for remembering. They stay without
+depending on anything and do not take anything in the world personally."
 
 #### The Five Clung-To Heaps
 
@@ -369,7 +368,7 @@ the future.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-One discerns the mind, dhammas, and the fetter that arises dependent on both.
+They discern the mind, dhammas, and the fetter that arises dependent on both.
 One also discerns how an unarisen fetter arises, how an arisen fetter is given
 up, and how an abandoned fetter does not arise again in the future.
 
@@ -383,12 +382,11 @@ awakening factors.
 And how does one remain observing dhammas among dhammas in the seven
 awakening factors?
 
-When the remembering awakening factor is present internally, one discerns:
-'The remembering awakening factor is present in me.' When it is absent
-internally, one discerns: 'The remembering awakening factor is not present in
-me.' One also discerns how the unarisen remembering awakening factor arises,
-and how the arisen remembering awakening factor comes to fulfillment through
-development.
+When the remembering awakening factor is present internally, they discern: 'The
+remembering awakening factor is present in me.' When it is absent internally,
+they discern: 'The remembering awakening factor is not present in me.' One also
+discerns how the unarisen remembering awakening factor arises, and how the
+arisen remembering awakening factor comes to fulfillment through development.
 
 The same pattern applies for the awakening factor of discernment of qualities,
 the energy awakening factor, the delight awakening factor, the relaxation
@@ -416,8 +414,8 @@ Then they remain observing dhammas as internal, observing dhammas as external,
 and observing dhammas as both internal and external. They remain observing
 arising qualities in dhammas, vanishing qualities in dhammas, and both arising
 and vanishing qualities in dhammas. Or remembering is simply present: 'There
-are dhammas,' just enough for knowing and for remembering. One stays without
-depending on anything and does not take anything in the world personally.
+are dhammas,' just enough for knowing and for remembering. They stay without
+depending on anything and do not take anything in the world personally.
 
 That is how a bhikkhu remains observing dhammas among dhammas."
 

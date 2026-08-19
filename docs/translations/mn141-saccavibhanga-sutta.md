@@ -267,15 +267,15 @@ Here a bhikkhu remains observing the body in relation to the body, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-One remains observing felt experience in relation to felt experience, ardent,
+They remain observing felt experience in relation to felt experience, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-One remains observing the feeling mind in relation to the feeling mind,
-ardent, with clear knowing, with remembering, having removed coveting and
-distress regarding the world.
+They remain observing the feeling mind in relation to the feeling mind, ardent,
+with clear knowing, with remembering, having removed coveting and distress
+regarding the world.
 
-One remains observing dhammas among dhammas, ardent, with clear knowing, with
+They remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
 
 This is called right remembering.
@@ -293,9 +293,9 @@ unification of mind, they enter and remain in the second mental theme, without
 thinking and pondering, with delight and ease born of mental composure.
 
 With the fading of delight, they remain in dynamic balance, remembering and
-clearly knowing, and experiences ease in the body. One enters and remains in
-the third mental theme, of which the noble ones say: 'One of dynamic balance
-and remembering stays at ease.'
+clearly knowing, and experience ease in the body. They enter and remain in the
+third mental theme, of which the noble ones say: 'One of dynamic balance and
+remembering stays at ease.'
 
 With the abandoning of ease and discomfort, and with the earlier ending of
 gladness and sadness, they enter and remain in the fourth mental theme, without

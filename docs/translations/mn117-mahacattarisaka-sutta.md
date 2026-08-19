@@ -51,7 +51,7 @@ composure with supports, and also with requisites."
 
 "In this case, bhikkhus, right view comes first.
 
-"And how does right view come first? One discerns wrong view as 'wrong view'
+"And how does right view come first? They discern wrong view as 'wrong view'
 and right view as 'right view'; that is their right view.
 
 "And what is wrong view?
@@ -95,7 +95,7 @@ path in someone whose mind is noble and without outflows, who possesses the nobl
 path and develops it, is called right view that is
 noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort to abandon wrong view and to take up right view; that is
+"They make effort to abandon wrong view and to take up right view; that is
 their right effort.
 
 "Remembering, they abandon wrong view; remembering, they live having taken up
@@ -108,7 +108,7 @@ right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
 
-"And how does right view come first? One discerns wrong attitude as 'wrong
+"And how does right view come first? They discern wrong attitude as 'wrong
 attitude' and right attitude as 'right attitude'; that is their right view.
 
 "And what is wrong attitude?
@@ -143,7 +143,7 @@ the noble path and develops it, that verbal conditioning
 is right attitude that is noble, without outflows, beyond-the-world, a factor
 of the path.
 
-"One makes effort to abandon wrong attitude and to take up right attitude; that
+"They make effort to abandon wrong attitude and to take up right attitude; that
 is their right effort.
 
 "Remembering, they abandon wrong attitude; remembering, they live having taken
@@ -156,7 +156,7 @@ right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
 
-"And how does right view come first? One discerns wrong speech as 'wrong
+"And how does right view come first? They discern wrong speech as 'wrong
 speech' and right speech as 'right speech'; that is their right view.
 
 "And what is wrong speech?
@@ -190,7 +190,7 @@ verbal misconducts in someone whose mind is noble and without outflows, who
 possesses the noble path and develops it, is right speech that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort to abandon wrong speech and to take up right speech; that is
+"They make effort to abandon wrong speech and to take up right speech; that is
 their right effort.
 
 "Remembering, they abandon wrong speech; remembering, they live having taken up
@@ -201,7 +201,7 @@ right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
 
-"And how does right view come first? One discerns wrong action as 'wrong
+"And how does right view come first? They discern wrong action as 'wrong
 action' and right action as 'right action'; that is their right view.
 
 "And what is wrong action?
@@ -235,7 +235,7 @@ bodily misconducts in someone whose mind is noble and without outflows, who
 possesses the noble path and develops it, is right action that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort to abandon wrong action and to take up right action; that is
+"They make effort to abandon wrong action and to take up right action; that is
 their right effort.
 
 "Remembering, they abandon wrong action; remembering, they live having taken up
@@ -246,7 +246,7 @@ right view, right effort, and right remembering.
 
 "In this case, bhikkhus, right view comes first.
 
-"And how does right view come first? One discerns wrong livelihood as 'wrong
+"And how does right view come first? They discern wrong livelihood as 'wrong
 livelihood' and right livelihood as 'right livelihood'; that is their right
 view.
 
@@ -281,7 +281,7 @@ livelihood in someone whose mind is noble and without outflows, who possesses th
 noble path and develops it, is right livelihood that
 is noble, without outflows, beyond-the-world, a factor of the path.
 
-"One makes effort to abandon wrong livelihood and to take up right livelihood;
+"They make effort to abandon wrong livelihood and to take up right livelihood;
 that is their right effort.
 
 "Remembering, they abandon wrong livelihood; remembering, they live having

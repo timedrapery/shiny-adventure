@@ -401,7 +401,7 @@ Here, friend Visākha, a bhikkhu reflects:
 'When will I enter and remain in that field which the noble ones now enter and
 remain in?'
 
-As one sets up longing for unsurpassed releases, distress arises with longing
+As they set up longing for unsurpassed releases, distress arises with longing
 as condition.
 
 Through that, they abandon resistance, and the underlying tendency toward

@@ -259,7 +259,7 @@ correctly?"
 
 "Then, friends, how would one answer correctly?"
 
-"Friend, one would answer correctly by saying, 'It is the scent of the
+"Friend, they would answer correctly by saying, 'It is the scent of the
 flower.'"
 
 "In the same way, friends, I do not say form is 'I am,' nor do I say apart from

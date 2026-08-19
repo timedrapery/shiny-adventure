@@ -45,10 +45,10 @@ The Buddha said this:
 
 "'The six internal fields are to be known, the six external fields are to be
 known, the six classes of knowing are to be known, the six classes of contact
-are to be known, the eighteen mental explorations are to be known, the
-thirty-six positions are to be known, and here, supported by this, you should
-give up that. And there are three establishments of sati that a noble one
-cultivates, cultivating which a teacher is fit to instruct a group.'
+are to be known, the eighteen mental explorations are to be known, the thirty-
+six positions are to be known, and here, supported by this, you should give up
+that. And there are three establishments of sati that a noble they cultivate,
+cultivating which a teacher is fit to instruct a group.'
 
 That is the summary of the analysis of the six fields.
 
@@ -190,11 +190,11 @@ And what are the six distresses tied to renunciation?
 
 Knowing the inconstancy, change, fading, and quenching of forms, someone sees
 with right discernment as they have come to be: 'Forms before and forms now,
-all of them are inconstant, dissatisfactory, and subject to change.' Then one
-arouses longing for the unsurpassed releases: 'When will I enter and remain in
+all of them are inconstant, dissatisfactory, and subject to change.' Then they
+arouse longing for the unsurpassed releases: 'When will I enter and remain in
 that field where the noble ones now enter and remain?'
 
-While one is arousing longing for the unsurpassed releases, distress arises
+While they are arousing longing for the unsurpassed releases, distress arises
 because of that longing. That kind of distress is called distress tied to
 renunciation.
 
@@ -203,10 +203,10 @@ The same pattern applies for sounds, smells, tastes, and tangibles.
 Knowing the inconstancy, change, fading, and quenching of dhammas, someone sees
 with right discernment as they have come to be: 'Dhammas before and dhammas
 now, all of them are inconstant, dissatisfactory, and subject to change.' Then
-one arouses longing for the unsurpassed releases: 'When will I enter and remain
+they arouse longing for the unsurpassed releases: 'When will I enter and remain
 in that field where the noble ones now enter and remain?'
 
-While one is arousing longing for the unsurpassed releases, distress arises
+While they are arousing longing for the unsurpassed releases, distress arises
 because of that longing. That kind of distress is called distress tied to
 renunciation.
 
@@ -305,7 +305,7 @@ That is what was said with reference to this.
 
 ### Three Establishments of Sati
 
-"'There are three establishments of sati that a noble one cultivates,
+"'There are three establishments of sati that a noble they cultivate,
 cultivating which a teacher is fit to instruct a group' was said. And with
 reference to what was that said?
 
@@ -319,7 +319,7 @@ to knowing, and they practice turning away from the teacher's instruction.
 Then the Tathāgata is neither upset nor does he experience upset. He stays
 untroubled, remembering, with clear knowing.
 
-This is called the first establishment of sati that a noble one cultivates,
+This is called the first establishment of sati that a noble they cultivate,
 cultivating which a teacher is fit to instruct a group.
 
 Again, out of compassion and seeking their welfare, a teacher teaches the
@@ -335,7 +335,7 @@ Then the Tathāgata is neither upset nor does he experience upset. But neither
 is he pleased nor does he experience pleasure. Leaving both displeasure and
 pleasure aside, he stays in dynamic balance, remembering, with clear knowing.
 
-This is called the second establishment of sati that a noble one cultivates,
+This is called the second establishment of sati that a noble they cultivate,
 cultivating which a teacher is fit to instruct a group.
 
 Again, out of compassion and seeking their welfare, a teacher teaches the
@@ -348,14 +348,14 @@ and they do not practice turning away from the teacher's instruction.
 Then the Tathāgata is pleased and experiences pleasure, yet he stays
 untroubled, remembering, with clear knowing.
 
-This is called the third establishment of sati that a noble one cultivates,
+This is called the third establishment of sati that a noble they cultivate,
 cultivating which a teacher is fit to instruct a group.
 
 That is what was said with reference to this.
 
 ### The Unsurpassed Trainer
 
-"'One is called the unsurpassed trainer of trainable people' was said. And
+"'They are called the unsurpassed trainer of trainable people' was said. And
 with reference to what was that said?
 
 Bhikkhus, when an elephant is trained by an elephant trainer, it runs only in
@@ -384,7 +384,7 @@ Buddha, that person runs in eight directions:
 
 That is how a person trained by the Tathāgata runs in these eight directions.
 
-So one is called the unsurpassed trainer of trainable people.
+So they are called the unsurpassed trainer of trainable people.
 
 That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.

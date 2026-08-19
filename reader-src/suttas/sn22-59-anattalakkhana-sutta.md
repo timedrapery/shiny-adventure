@@ -184,11 +184,11 @@ this, this is not my self.'"
 "Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with
 form, felt experience, recognition, putting-together activities, and knowing.
 
-Being disenchanted, one fades. Through fading, one is released.
+Being disenchanted, they fade. Through fading, they are released.
 
 When it is released, there is the knowledge: 'It is released.'
 
-One discerns: 'Birth is worn away, the spiritual life has been lived, what had
+They discern: 'Birth is worn away, the spiritual life has been lived, what had
 to be done has been done, there is no more of this state of being.'"
 
 That is what the Buddha said.

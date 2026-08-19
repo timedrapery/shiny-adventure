@@ -293,12 +293,12 @@ feeling mind to the element of the deathless:
 relinquishment of all supports, the wearing away of ignorant wanting, fading,
 quenching, nibbāna.'
 
-Standing there, one reaches the wearing away of the outflows.
+Standing there, they reach the wearing away of the outflows.
 
-But if one does not reach the wearing away of the outflows, then because of
-that passion for the Dhamma and that relishing in the Dhamma, with the
-complete wearing away of the five lower fetters, one is spontaneously reborn,
-finally quenched there, and not liable to return from that world.
+But if they do not reach the wearing away of the outflows, then because of that
+passion for the Dhamma and that relishing in the Dhamma, with the complete
+wearing away of the five lower fetters, they are spontaneously reborn, finally
+quenched there, and not liable to return from that world.
 
 This too, Ānanda, is the path, this is the way of practice for abandoning the
 five lower fetters.
@@ -313,22 +313,22 @@ Again, a bhikkhu enters and remains in the third mental theme.
 Again, a bhikkhu enters and remains in the fourth mental theme.
 
 In each case, whatever is there connected with form, felt experience,
-recognition, putting things together, and knowing, one observes those dhammas
+recognition, putting things together, and knowing, they observe those dhammas
 as impermanent, as dissatisfaction, as disease, as a boil, as a dart, as
 misery, as affliction, as alien, as disintegrating, as empty, as not-self.
 
-One turns the feeling mind back from those dhammas and brings it to the
-element of the deathless:
+They turn the feeling mind back from those dhammas and bring it to the element
+of the deathless:
 
 'This is peace. This is refined: the calming of all constructions, the
 relinquishment of all supports, the wearing away of ignorant wanting, fading,
 quenching, nibbāna.'
 
-Standing there, one reaches the wearing away of the outflows. But if one does
-not reach the wearing away of the outflows, then because of that passion for
-the Dhamma and that relishing in the Dhamma, with the complete wearing away of
-the five lower fetters, one is spontaneously reborn, finally quenched there,
-and not liable to return from that world.
+Standing there, they reach the wearing away of the outflows. But if they do not
+reach the wearing away of the outflows, then because of that passion for the
+Dhamma and that relishing in the Dhamma, with the complete wearing away of the
+five lower fetters, they are spontaneously reborn, finally quenched there, and
+not liable to return from that world.
 
 This too, Ānanda, is the path, this is the way of practice for abandoning the
 five lower fetters.
@@ -341,18 +341,18 @@ diversity, a bhikkhu enters and remains in the sphere of boundless space,
 aware that 'space is boundless.'
 
 Whatever is there connected with felt experience, recognition, putting things
-together, and knowing, one observes those dhammas as impermanent, as
-dissatisfaction, as disease, as a boil, as a dart, as misery, as affliction,
-as alien, as disintegrating, as empty, as not-self.
+together, and knowing, they observe those dhammas as impermanent, as
+dissatisfaction, as disease, as a boil, as a dart, as misery, as affliction, as
+alien, as disintegrating, as empty, as not-self.
 
-One turns the feeling mind back from those dhammas and brings it to the
-element of the deathless.
+They turn the feeling mind back from those dhammas and bring it to the element
+of the deathless.
 
-Standing there, one reaches the wearing away of the outflows. But if one does
-not reach the wearing away of the outflows, then because of that passion for
-the Dhamma and that relishing in the Dhamma, with the complete wearing away of
-the five lower fetters, one is spontaneously reborn, finally quenched there,
-and not liable to return from that world.
+Standing there, they reach the wearing away of the outflows. But if they do not
+reach the wearing away of the outflows, then because of that passion for the
+Dhamma and that relishing in the Dhamma, with the complete wearing away of the
+five lower fetters, they are spontaneously reborn, finally quenched there, and
+not liable to return from that world.
 
 This too, Ānanda, is the path, this is the way of practice for abandoning the
 five lower fetters.
@@ -362,15 +362,15 @@ bhikkhu enters and remains in the sphere of boundless knowing, aware that
 'knowing is boundless.'
 
 Whatever is there connected with felt experience, recognition, putting things
-together, and knowing, one observes those dhammas in the same way, turns the
+together, and knowing, they observe those dhammas in the same way, turns the
 feeling mind back from those dhammas, and brings it to the element of the
 deathless.
 
-Standing there, one reaches the wearing away of the outflows. But if one does
-not reach the wearing away of the outflows, then because of that passion for
-the Dhamma and that relishing in the Dhamma, with the complete wearing away of
-the five lower fetters, one is spontaneously reborn, finally quenched there,
-and not liable to return from that world.
+Standing there, they reach the wearing away of the outflows. But if they do not
+reach the wearing away of the outflows, then because of that passion for the
+Dhamma and that relishing in the Dhamma, with the complete wearing away of the
+five lower fetters, they are spontaneously reborn, finally quenched there, and
+not liable to return from that world.
 
 This too, Ānanda, is the path, this is the way of practice for abandoning the
 five lower fetters.
@@ -380,15 +380,15 @@ bhikkhu enters and remains in the sphere of nothingness, aware that 'there is
 nothing.'
 
 Whatever is there connected with felt experience, recognition, putting things
-together, and knowing, one observes those dhammas in the same way, turns the
+together, and knowing, they observe those dhammas in the same way, turns the
 feeling mind back from those dhammas, and brings it to the element of the
 deathless.
 
-Standing there, one reaches the wearing away of the outflows. But if one does
-not reach the wearing away of the outflows, then because of that passion for
-the Dhamma and that relishing in the Dhamma, with the complete wearing away of
-the five lower fetters, one is spontaneously reborn, finally quenched there,
-and not liable to return from that world.
+Standing there, they reach the wearing away of the outflows. But if they do not
+reach the wearing away of the outflows, then because of that passion for the
+Dhamma and that relishing in the Dhamma, with the complete wearing away of the
+five lower fetters, they are spontaneously reborn, finally quenched there, and
+not liable to return from that world.
 
 This too, Ānanda, is the path, this is the way of practice for abandoning the
 five lower fetters."

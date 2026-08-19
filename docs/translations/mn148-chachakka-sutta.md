@@ -418,11 +418,11 @@ When mixed feeling touches them, they do not discern that feeling's arising and 
 
 The underlying tendency toward ignorance lies underneath that.
 
-Bhikkhus, if one has not abandoned the underlying tendency toward passion in
+Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, has not driven out the underlying tendency toward resistance
 in painful feeling, has not uprooted the underlying tendency toward ignorance
 in mixed feeling, has not abandoned ignorance, and has not brought up
-knowledge, there is no possibility that one will make an end of
+knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
@@ -444,11 +444,11 @@ When mixed feeling touches them, they do not discern that feeling's arising and 
 
 The underlying tendency toward ignorance lies underneath that.
 
-Bhikkhus, if one has not abandoned the underlying tendency toward passion in
+Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, has not driven out the underlying tendency toward resistance
 in painful feeling, has not uprooted the underlying tendency toward ignorance
 in mixed feeling, has not abandoned ignorance, and has not brought up
-knowledge, there is no possibility that one will make an end of
+knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life."
 
 ### Pleasant, Painful, and Mixed Feeling: The Trained Pattern
@@ -465,16 +465,16 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When one is touched by mixed feeling, they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When they are touched by mixed feeling, they discern that feeling's arising and
+vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
-Bhikkhus, if one has abandoned the underlying tendency toward passion in
+Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, has driven out the underlying tendency toward resistance in
-painful feeling, has uprooted the underlying tendency toward ignorance in
-mixed feeling, has abandoned ignorance, and has brought up knowledge, there
-is the possibility that one will make an end of dissatisfaction in this very
-life.
+painful feeling, has uprooted the underlying tendency toward ignorance in mixed
+feeling, has abandoned ignorance, and has brought up knowledge, there is the
+possibility that they will make an end of dissatisfaction in this very life.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
@@ -491,16 +491,16 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When one is touched by mixed feeling, they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When they are touched by mixed feeling, they discern that feeling's arising and
+vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
-Bhikkhus, if one has abandoned the underlying tendency toward passion in
+Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, has driven out the underlying tendency toward resistance in
-painful feeling, has uprooted the underlying tendency toward ignorance in
-mixed feeling, has abandoned ignorance, and has brought up knowledge, there
-is the possibility that one will make an end of dissatisfaction in this very
-life."
+painful feeling, has uprooted the underlying tendency toward ignorance in mixed
+feeling, has abandoned ignorance, and has brought up knowledge, there is the
+possibility that they will make an end of dissatisfaction in this very life."
 
 ### Disenchantment, Fading, and Release
 
@@ -514,14 +514,14 @@ felt experience, and ignorant wanting; for tongue, tastes, tongue-knowing,
 tongue-contact, felt experience, and ignorant wanting; and for body,
 tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 
-One becomes disenchanted with mind, with dhammas, with mind-knowing, with
-mind-contact, with felt experience, and with ignorant wanting.
+They become disenchanted with mind, with dhammas, with mind-knowing, with mind-
+contact, with felt experience, and with ignorant wanting.
 
-Being disenchanted, one fades. Through fading, one is released.
+Being disenchanted, they fade. Through fading, they are released.
 
 When it is released, there is the knowledge: 'It is released.'
 
-One discerns: 'Birth is worn away, the spiritual life has been lived, what had
+They discern: 'Birth is worn away, the spiritual life has been lived, what had
 to be done has been done, there is no more of this state of being.'"
 
 That is what the Buddha said.

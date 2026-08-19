@@ -68,7 +68,7 @@ assembly: worthy of gifts, worthy of hospitality, worthy of offerings, worthy
 of reverential greeting, the unsurpassed field of merit for the world. In such
 an assembly, even a little gift becomes much, and a great gift becomes still
 greater. Such an assembly is rarely seen in the world. Such an assembly is
-worth traveling many leagues to see, even if one must carry provisions in a
+worth traveling many leagues to see, even if they must carry provisions in a
 bag.
 
 "In this Saṅgha there are bhikkhus who are arahants, with outflows ended, who
@@ -115,43 +115,51 @@ great fruit and great benefit?"
 
 ### The Sixteen Trainings
 
-"Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or to
-an empty hut, sits down, folds the legs crosswise, sets the body upright, and
-sets remembering to the fore. They breathe in remembering the Dhamma; they
+"Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
+to an empty hut, sits down, folds the legs crosswise, sets the body upright,
+and sets remembering to the fore. They breathe in remembering the Dhamma; they
 breathe out remembering the Dhamma.
 
-Body-related trainings: - Breathing in long, they know: 'I breathe in long.'
-Breathing out long, they know: 'I breathe out long.' - Breathing in short, they
-know: 'I breathe in short.' Breathing out short, they know: 'I breathe out
-short.' - They train: 'Breathing in, I will experience the whole body.' They
-train: 'Breathing out, I will experience the whole body.' - They train:
-'Breathing in, I will calm the body conditioner.' They train: 'Breathing out, I
-will calm the body conditioner.'
+Body-related trainings:
+- Breathing in long, they know: 'I breathe in long.' Breathing out long, they
+  know: 'I breathe out long.'
+- Breathing in short, they know: 'I breathe in short.' Breathing out short, they
+  know: 'I breathe out short.'
+- They train: 'Breathing in, I will experience the whole body.' They train:
+  'Breathing out, I will experience the whole body.'
+- They train: 'Breathing in, I will calm the body conditioner.' They train:
+  'Breathing out, I will calm the body conditioner.'
 
-Felt-experience trainings: - They train: 'Breathing in, I will experience
-delight.' They train: 'Breathing out, I will experience delight.' - They train:
-'Breathing in, I will experience ease.' They train: 'Breathing out, I will
-experience ease.' - They train: 'Breathing in, I will experience the mind
-conditioner.' They train: 'Breathing out, I will experience the mind
-conditioner.' - They train: 'Breathing in, I will calm the mind conditioner.'
-They train: 'Breathing out, I will calm the mind conditioner.'
+Felt-experience trainings:
+- They train: 'Breathing in, I will experience delight.' They train:
+  'Breathing out, I will experience delight.'
+- They train: 'Breathing in, I will experience ease.' They train:
+  'Breathing out, I will experience ease.'
+- They train: 'Breathing in, I will experience the mind conditioner.' They train:
+  'Breathing out, I will experience the mind conditioner.'
+- They train: 'Breathing in, I will calm the mind conditioner.' They train:
+  'Breathing out, I will calm the mind conditioner.'
 
-Feeling-mind trainings: - They train: 'Breathing in, I will experience the
-feeling mind.' They train: 'Breathing out, I will experience the feeling mind.'
+Feeling-mind trainings:
+- They train: 'Breathing in, I will experience the feeling mind.' They train:
+  'Breathing out, I will experience the feeling mind.'
 - They train: 'Breathing in, I will gladden the feeling mind.' They train:
-'Breathing out, I will gladden the feeling mind.' - They train: 'Breathing in,
-I will bring the feeling mind to mental composure.' They train: 'Breathing out,
-I will bring the feeling mind to mental composure.' - They train: 'Breathing
-in, I will free the feeling mind.' They train: 'Breathing out, I will free the
-feeling mind.'
+  'Breathing out, I will gladden the feeling mind.'
+- They train: 'Breathing in, I will bring the feeling mind to mental
+  composure.' They train: 'Breathing out, I will bring the feeling mind to
+  mental composure.'
+- They train: 'Breathing in, I will free the feeling mind.' They train:
+  'Breathing out, I will free the feeling mind.'
 
-Dhamma-related trainings: - They train: 'Breathing in, I will observe
-impermanence.' They train: 'Breathing out, I will observe impermanence.' - They
-train: 'Breathing in, I will observe fading.' They train: 'Breathing out, I
-will observe fading.' - They train: 'Breathing in, I will observe quenching.'
-They train: 'Breathing out, I will observe quenching.' - They train: 'Breathing
-in, I will observe relinquishment.' They train: 'Breathing out, I will observe
-relinquishment.'
+Dhamma-related trainings:
+- They train: 'Breathing in, I will observe impermanence.' They train:
+  'Breathing out, I will observe impermanence.'
+- They train: 'Breathing in, I will observe fading.' They train:
+  'Breathing out, I will observe fading.'
+- They train: 'Breathing in, I will observe quenching.' They train:
+  'Breathing out, I will observe quenching.'
+- They train: 'Breathing in, I will observe relinquishment.' They train:
+  'Breathing out, I will observe relinquishment.'
 
 "That is how ānāpānasati, when developed and cultivated, bears great fruit and
 great benefit."
@@ -160,39 +168,39 @@ great benefit."
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
-experiencing the whole body, or in calming the body conditioner, then they
-remain observing the body in relation to the body, ardent, with clear knowing,
-with remembering, having removed coveting and distress regarding the world.
-For, bhikkhus, I say that the in-breaths and out-breaths are one kind of body.
-Therefore they remain observing the body in relation to the body, ardent, with
-clear knowing, with remembering, having removed coveting and distress regarding
-the world.
+experiencing the whole body, or in calming the body conditioner, then they remain
+observing the body in relation to the body, ardent, with clear
+knowing, with remembering, having removed coveting and distress regarding the
+world. For, bhikkhus, I say that the in-breaths and out-breaths are one kind of
+body. Therefore they remain observing the body in relation to
+the body, ardent, with clear knowing, with remembering, having removed
+coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing delight, or ease, or the mind
 conditioner, or in calming the mind conditioner, then they remain observing
 felt experience in relation to felt experience, ardent, with clear knowing,
 with remembering, having removed coveting and distress regarding the world.
 For, bhikkhus, I say that careful attention to the in-breaths and out-breaths
-is one kind of felt experience. Therefore they remain observing felt experience
-in relation to felt experience, ardent, with clear knowing, with remembering,
-having removed coveting and distress regarding the world.
+is one kind of felt experience. Therefore they remain observing felt
+experience in relation to felt experience, ardent, with clear knowing, with
+remembering, having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
 feeling mind, or bringing the feeling mind to mental composure, or freeing the
-feeling mind, then they remain observing the feeling mind in relation to the
-feeling mind, ardent, with clear knowing, with remembering, having removed
-coveting and distress regarding the world. Bhikkhus, I do not call it
-ānāpānasati when remembering has slipped and clear knowing is absent. Therefore
-they remain observing the feeling mind in relation to the feeling mind, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+feeling mind, then they remain observing the feeling mind in relation to the feeling
+mind, ardent, with clear knowing, with remembering, having removed coveting and
+distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
+remembering has slipped and clear knowing is absent. Therefore they remain
+observing the feeling mind in relation to the feeling
+mind, ardent, with clear knowing, with remembering, having removed coveting and
+distress regarding the world.
 
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
 or relinquishment, then they remain observing dhammas among dhammas, ardent,
 with clear knowing, with remembering, having removed coveting and distress
-regarding the world. Once they have seen with discernment the abandoning of
-coveting and distress, they look on carefully with dynamic balance. Therefore
-they remain observing dhammas among dhammas, ardent, with clear knowing, with
+regarding the world. Once they have seen with discernment the abandoning of coveting
+and distress, they look on carefully with dynamic balance. Therefore they
+remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
 
 "That is how ānāpānasati, when developed and cultivated, fulfills the four
@@ -207,33 +215,33 @@ so as to fulfill the seven awakening factors?
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world, then that bhikkhu's remembering is present and does not
 slip. When remembering is present and does not slip, the remembering awakening
-factor is aroused. One develops it, and it comes to fulfillment through
+factor is aroused. They develop it, and it comes to fulfillment through
 development.
 
-"Living in that way, with remembering present, one discerns, investigates, and
+"Living in that way, with remembering present, they discern, investigates, and
 thoroughly examines that dhamma. Then the awakening factor of discernment of
-qualities is aroused. One develops it, and it comes to
+qualities is aroused. They develop it, and it comes to
 fulfillment through development.
 
-"As one discerns, investigates, and thoroughly examines that dhamma with
+"As they discern, investigates, and thoroughly examines that dhamma with
 discernment, energy is aroused and does not slacken. Then the energy awakening
-factor is aroused. One develops it, and it comes to fulfillment
+factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
 "When energy is aroused, unworldly delight arises. Then the delight
-awakening factor is aroused. One develops it, and it comes to fulfillment
+awakening factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
 "When delight fills one, body and feeling mind relax. Then the relaxation
-awakening factor is aroused. One develops it, and it comes
+awakening factor is aroused. They develop it, and it comes
 to fulfillment through development.
 
-"When the body is relaxed and one experiences ease, the feeling mind comes to
+"When the body is relaxed and they experience ease, the feeling mind comes to
 mental composure. Then the awakening factor of mental composure is aroused.
-One develops it, and it comes to fulfillment through development.
+They develop it, and it comes to fulfillment through development.
 
 "One then looks carefully with dynamic balance at that well-composed feeling
-mind. Then the dynamic balance awakening factor is aroused. One develops it,
+mind. Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 
 "The same is true when a bhikkhu remains observing felt experience in relation

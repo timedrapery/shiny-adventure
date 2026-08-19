@@ -11,7 +11,7 @@ This sheet summarizes the current governed control lines for the shared MN 10 / 
 | `mn10-direct-path-opening` | Bhikkhus, this is the direct path for the purification of beings, for going beyond sorrow and lamentation, for ending pain and distress, for reaching the right way, for directly realizing nibbāna: namely, the four establishments of sati | MN 10 |
 | `mn10-satipatthana-qualifier` | ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world | MN 10, MN 118 |
 | `mn10-kayanupassi-internal-external` | they remain observing the body as internal, observing the body as external, and observing the body as both internal and external | MN 10 |
-| `mn10-kayo-anchor-nonappropriation` | or remembering is simply present: 'There is body,' just enough for knowing and for remembering. One stays without depending on anything and does not take anything in the world personally | MN 10 |
+| `mn10-kayo-anchor-nonappropriation` | or remembering is simply present: 'There is body,' just enough for knowing and for remembering. They stay without depending on anything and do not take anything in the world personally | MN 10 |
 | `mn118-breathing-remembrance-line` | they breathe in remembering the Dhamma; they breathe out remembering the Dhamma | MN 10, MN 118 |
 | `mn118-whole-body-training` | they train: 'Breathing in, I will experience the whole body.' They train: 'Breathing out, I will experience the whole body.' | MN 10, MN 118 |
 | `mn118-body-conditioner-training` | they train: 'Breathing in, I will calm the body conditioner.' They train: 'Breathing out, I will calm the body conditioner.' | MN 10, MN 118 |
