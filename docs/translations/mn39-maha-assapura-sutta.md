@@ -30,13 +30,13 @@
 
 So I have heard.
 
-At one time the Blessed One was staying in the land of the Aṅgas, near the
-Aṅgan town named Assapura. There the Blessed One addressed the bhikkhus:
+At one time the Buddha was staying in the land of the Aṅgas, near the
+Aṅgan town named Assapura. There the Buddha addressed the bhikkhus:
 "Bhikkhus."
 
 "Bhante," those bhikkhus replied.
 
-The Blessed One said this:
+The Buddha said this:
 
 ### What Makes a True Recluse
 
@@ -462,7 +462,7 @@ corrupting, leading to further becoming, accompanied by trouble, resulting in
 painful fruit, causing future birth, ageing, and death — are kept impeccably
 far away. That is how a bhikkhu is a perfected one."
 
-That is what the Blessed One said. Satisfied, those bhikkhus approved of the
-Blessed One's words.
+That is what the Buddha said. Satisfied, those bhikkhus approved of the
+Buddha's words.
 
 The Greater Discourse at Assapura is finished.

@@ -32,6 +32,7 @@ DOCS_FILENAME_ALLOWLIST = {
     "ARCHAIC_DICTION_SWEEP.md",
     "MODERN_ENGLISH_AUDIT.md",
     "MODERN_ENGLISH_POLICY.md",
+    "PLAIN_ENGLISH_STANDARD.md",
     "VOICE_CONSISTENCY_AUDIT.md",
     "VOICE_STANDARD.md",
     "translation_drift_audit.md",

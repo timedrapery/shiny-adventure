@@ -57,7 +57,7 @@ At that time Jīvaka Komārabhacca was sitting silently nearby.
 
 Then the king said to him, "My dear Jīvaka, why are you silent?"
 
-"Great king, the Blessed One, the arahant, the fully awakened Buddha, is
+"Great king, the Buddha, the arahant, the fully awakened Buddha, is
 staying in my mango grove together with a large Saṅgha of 1,250 bhikkhus.
 He has this good reputation:
 
@@ -122,8 +122,8 @@ sat down to one side.
 
 The king said:
 
-"Bhante, I would like to ask the Blessed One about a certain matter, if the
-Blessed One would allow it."
+"Bhante, I would like to ask the Buddha about a certain matter, if the
+Buddha would allow it."
 
 "Ask what you wish, great king."
 
@@ -137,7 +137,7 @@ and they make their parents, children, partners, friends, and companions
 happy. They also establish a gift to ascetics and brahmins, a wholesome
 offering that leads to heaven and ripens in happiness.
 
-Can the Blessed One point out a fruit of the ascetic life that is likewise
+Can the Buddha point out a fruit of the ascetic life that is likewise
 visible in this very life?"
 
 "Great king, do you remember asking this question of other ascetics and
@@ -147,7 +147,7 @@ brahmins?"
 
 "Then, great king, if you do not mind, tell me how they answered."
 
-"It is no trouble when the Blessed One is sitting here."
+"It is no trouble when the Buddha is sitting here."
 
 "Then speak, great king."
 
@@ -325,7 +325,7 @@ Still, I neither approved nor rejected what he said. Displeased, but without
 showing displeasure, neither accepting nor contradicting his words, I got up
 from my seat and left.
 
-So now, bhante, I ask the Blessed One the same question."
+So now, bhante, I ask the Buddha the same question."
 
 ### The First Fruit of the Ascetic Life
 
@@ -367,7 +367,7 @@ point out to you."
 
 ### The Second Fruit of the Ascetic Life
 
-"Can the Blessed One point out another fruit of the ascetic life visible in
+"Can the Buddha point out another fruit of the ascetic life visible in
 this very life?"
 
 "I can, great king.
@@ -966,16 +966,16 @@ When the Buddha had spoken, King Ajātasattu said:
 
 Just as if someone were to set upright what had been overturned, reveal what
 was hidden, point out the way to one who was lost, or hold up an oil lamp in
-the dark so that those with eyes could see forms, so too the Blessed One has
+the dark so that those with eyes could see forms, so too the Buddha has
 made the Dhamma clear in many ways.
 
 I go for refuge to the Buddha, to the Dhamma, and to the Saṅgha of bhikkhus.
-May the Blessed One remember me as a lay follower gone for refuge from this
+May the Buddha remember me as a lay follower gone for refuge from this
 day for life.
 
 I transgressed, bhante. It was foolish, stupid, and unwholesome of me to kill
 my father, a just and principled king, for the sake of sovereignty. May the
-Blessed One accept that transgression as a transgression, so that I may show
+Buddha accept that transgression as a transgression, so that I may show
 restraint in the future."
 
 "Indeed, great king, you transgressed. It was foolish, stupid, and

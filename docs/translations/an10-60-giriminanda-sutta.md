@@ -28,16 +28,16 @@
 
 So I have heard.
 
-At one time the Blessed One was staying near Sāvatthī, in Jeta's Grove,
+At one time the Buddha was staying near Sāvatthī, in Jeta's Grove,
 Anāthapiṇḍika's monastery.
 
 At that time Venerable Girimānanda was sick, in pain, gravely ill.
 
-Then Venerable Ānanda went to the Blessed One, bowed, and sat to one side.
-Sitting to one side, Venerable Ānanda said this to the Blessed One:
+Then Venerable Ānanda went to the Buddha, bowed, and sat to one side.
+Sitting to one side, Venerable Ānanda said this to the Buddha:
 
 "Bhante, Venerable Girimānanda is sick, in pain, gravely ill. It would be
-good, Bhante, if the Blessed One would go to Venerable Girimānanda out of
+good, Bhante, if the Buddha would go to Venerable Girimānanda out of
 compassion."
 
 "Ānanda, if you were to recite to the bhikkhu Girimānanda these ten
@@ -253,8 +253,7 @@ If you were to recite to the bhikkhu Girimānanda these ten recognitions, it
 is possible that after hearing the ten recognitions his illness would subside
 on the spot."
 
-Then Venerable Ānanda, having learned these ten recognitions from the Blessed
-One, went to Venerable Girimānanda and recited them.
+Then Venerable Ānanda, having learned these ten recognitions from the Buddha, went to Venerable Girimānanda and recited them.
 
 After Venerable Girimānanda heard the ten recognitions, his illness subsided
 on the spot. Venerable Girimānanda rose from that illness, and that illness

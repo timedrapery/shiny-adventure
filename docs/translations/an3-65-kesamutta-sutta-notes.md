@@ -84,7 +84,7 @@ source-audit calls, and edition notes that govern it.
   feeling mind free of enmity, free of ill will, uncorrupted and pure." These
   four qualities describe the noble disciple after having cultivated the four
   brahmavihāras. They repeat the same four-quality description twice in the
-  discourse — once in the Blessed One's statement (an3.65:43, an3.65:47)
+  discourse — once in the Buddha's statement (an3.65:43, an3.65:47)
   and once in the Kālāmas' confirmation (an3.65:48, an3.65:52). The
   repetition is preserved.
 - The sutta title in the Bilara is `Kesamuttisutta` (named for Kesamutta, the
@@ -135,7 +135,7 @@ source-audit calls, and edition notes that govern it.
   (an3.65:25.3), and in the restatement after the positive triad
   (an3.65:41.3). All three are given in full, consistent with the policy of
   preserving repetition.
-- The four consolations are given twice — once by the Blessed One and once
+- The four consolations are given twice — once by the Buddha and once
   in confirmation by the Kālāmas. Both statements are preserved in full.
 
 ## Edition Status

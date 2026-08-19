@@ -27,7 +27,7 @@
 
 At Sāvatthī.
 
-Then Venerable Kaccānagotta went to the Blessed One, bowed, sat to one side,
+Then Venerable Kaccānagotta went to the Buddha, bowed, sat to one side,
 and said: "Bhante, they speak of 'right view, right view.' How far does right
 view extend?"
 

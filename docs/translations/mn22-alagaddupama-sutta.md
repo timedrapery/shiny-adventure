@@ -29,32 +29,32 @@
 
 ### The Setting
 
-At one time the Blessed One was staying near Sāvatthī in Jeta's Grove,
+At one time the Buddha was staying near Sāvatthī in Jeta's Grove,
 Anāthapiṇḍika's monastery.
 
 ### Ariṭṭha's Wrong View
 
 Now at that time a bhikkhu called Ariṭṭha, formerly a vulture-trapper, had
 developed the following pernicious view: "As I understand the teaching taught
-by the Blessed One, the obstructing qualities named by the Blessed One do not
+by the Buddha, the obstructing qualities named by the Buddha do not
 obstruct the one who engages in them."
 
 Several bhikkhus heard this rumour. They went to the bhikkhu Ariṭṭha and
 said: "Is it really true, Reverend Ariṭṭha, that you hold this pernicious
-view: 'As I understand the teaching taught by the Blessed One, the obstructing
-qualities named by the Blessed One do not obstruct the one who engages in
+view: 'As I understand the teaching taught by the Buddha, the obstructing
+qualities named by the Buddha do not obstruct the one who engages in
 them'?"
 
 "It is exactly so, reverends. As I understand the teaching taught by the
-Blessed One, the obstructing qualities named by the Blessed One do not
+Buddha, the obstructing qualities named by the Buddha do not
 obstruct the one who engages in them."
 
 Then, wishing to dissuade the bhikkhu Ariṭṭha from this pernicious view,
 those bhikkhus pressed him, challenged him, and argued with him: "Do not say
-that, Reverend Ariṭṭha. Do not misrepresent the Blessed One — misrepresenting
-the Blessed One is not good, and the Blessed One would not say that. In many
-ways, Reverend Ariṭṭha, the Blessed One has named the obstructing qualities as
-obstructing, and they do obstruct the one who engages in them. The Blessed One
+that, Reverend Ariṭṭha. Do not misrepresent the Buddha — misrepresenting
+the Buddha is not good, and the Buddha would not say that. In many
+ways, Reverend Ariṭṭha, the Buddha has named the obstructing qualities as
+obstructing, and they do obstruct the one who engages in them. The Buddha
 has said that sensual pleasures offer little gratification and much suffering
 and distress, and the danger in them is even greater — comparing them to: a
 skeleton of bones; a scrap of meat; a grass torch held against the wind; a pit
@@ -63,19 +63,19 @@ and chopping board; swords and spears; and a snake's head."
 
 But even when pressed in this way, the bhikkhu Ariṭṭha held to that pernicious
 view stubbornly, insisting on it. When those bhikkhus were unable to dissuade
-him, they went to the Blessed One, bowed, sat to one side, and told him what
+him, they went to the Buddha, bowed, sat to one side, and told him what
 had happened.
 
-Then the Blessed One addressed a certain bhikkhu: "Come, bhikkhu. In my name,
+Then the Buddha addressed a certain bhikkhu: "Come, bhikkhu. In my name,
 tell the bhikkhu Ariṭṭha that the teacher summons him."
 
 "Yes, Bhante," that bhikkhu replied. He went to Ariṭṭha and said: "Reverend
 Ariṭṭha, the teacher summons you."
 
-"Yes, reverend," Ariṭṭha replied. He went to the Blessed One, bowed, and sat
-to one side. The Blessed One said to him: "Is it really true, Ariṭṭha, that
+"Yes, reverend," Ariṭṭha replied. He went to the Buddha, bowed, and sat
+to one side. The Buddha said to him: "Is it really true, Ariṭṭha, that
 you hold this pernicious view: 'As I understand the teaching taught by the
-Blessed One, the obstructing qualities named by the Blessed One do not
+Buddha, the obstructing qualities named by the Buddha do not
 obstruct the one who engages in them'?"
 
 "It is exactly so, Bhante."
@@ -91,7 +91,7 @@ and a snake's head. But you, misguided man, by your wrong grasp, misrepresent
 me, harm yourself, and accumulate much demerit. That will be for your
 long-lasting harm and suffering."
 
-Then the Blessed One said to the bhikkhus: "What do you think, bhikkhus? Has
+Then the Buddha said to the bhikkhus: "What do you think, bhikkhus? Has
 this bhikkhu Ariṭṭha kindled even a spark of warmth in this teaching and
 training?"
 
@@ -100,16 +100,15 @@ training?"
 When this was said, the bhikkhu Ariṭṭha sat silent, abashed, shoulders
 drooping, downcast, dejected, unable to respond.
 
-Knowing this, the Blessed One said: "Misguided man, you will be known by your
+Knowing this, the Buddha said: "Misguided man, you will be known by your
 own pernicious view. I shall now question the bhikkhus about this."
 
-Then the Blessed One said to the bhikkhus: "Do you understand my teaching as
+Then the Buddha said to the bhikkhus: "Do you understand my teaching as
 the bhikkhu Ariṭṭha does, when he misrepresents me by his wrong grasp, harms
 himself, and accumulates much demerit?"
 
-"No, Bhante. In many ways the Blessed One has named the obstructing qualities
-as obstructing, and they do obstruct the one who engages in them. The Blessed
-One has said that sensual pleasures offer little gratification and much
+"No, Bhante. In many ways the Buddha has named the obstructing qualities
+as obstructing, and they do obstruct the one who engages in them. The Buddha has said that sensual pleasures offer little gratification and much
 suffering and distress, and the danger in them is even greater — comparing
 them to a skeleton of bones; a scrap of meat; a grass torch; a pit of glowing
 coals; a dream; borrowed goods; fruit on a tree; a butcher's knife and
@@ -251,7 +250,7 @@ Seeing in this way, they are not anxious about what does not exist."
 When this was said, a certain bhikkhu asked: "But, Bhante, can there be anxiety
 about what does not exist externally?"
 
-"There can, bhikkhu," the Blessed One said. "Here, someone thinks: 'I once
+"There can, bhikkhu," the Buddha said. "Here, someone thinks: 'I once
 had it, but no longer have it. I could have it, but I am not getting it.'
 They sorrow, wail, and lament, beating their breast and falling into confusion.
 That is how there is anxiety about what does not exist externally."
@@ -515,7 +514,7 @@ In this teaching thus well explained, those who have even a measure of
 confidence and affection for me — all of them are heading for the higher
 realms."
 
-That is what the Blessed One said. Satisfied, those bhikkhus approved of the
-Blessed One's words.
+That is what the Buddha said. Satisfied, those bhikkhus approved of the
+Buddha's words.
 
 The second discourse is finished.

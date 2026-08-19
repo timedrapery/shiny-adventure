@@ -24,10 +24,10 @@
 
 ### The Setting
 
-At one time the Blessed One was staying near Gayā, at Gayā Head, together
+At one time the Buddha was staying near Gayā, at Gayā Head, together
 with a thousand bhikkhus.
 
-There the Blessed One addressed the bhikkhus:
+There the Buddha addressed the bhikkhus:
 
 ### All Is Burning
 
@@ -115,8 +115,8 @@ the knowledge arises: 'Released.' They understand: 'Birth is finished, the
 spiritual life has been lived, what had to be done has been done, there is
 nothing further for this.'"
 
-That is what the Blessed One said. Satisfied, those bhikkhus approved of the
-Blessed One's words. And while this discourse was being spoken, the feeling
+That is what the Buddha said. Satisfied, those bhikkhus approved of the
+Buddha's words. And while this discourse was being spoken, the feeling
 minds of those thousand bhikkhus were released from outflows without clinging.
 
 The sixth discourse is finished.

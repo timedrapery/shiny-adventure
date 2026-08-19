@@ -41,6 +41,7 @@ Then move into the editorial rules that govern live term data:
 7. [`../STYLE_GUIDE.md`](../STYLE_GUIDE.md)
 8. [`MODERN_ENGLISH_POLICY.md`](MODERN_ENGLISH_POLICY.md)
 9. [`VOICE_STANDARD.md`](VOICE_STANDARD.md)
+10. [`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md)
 10. [`osf-editorial-authority.md`](osf-editorial-authority.md)
 11. [`data-dictionary.md`](data-dictionary.md)
 12. [`term-entry-standard.md`](term-entry-standard.md)
@@ -109,6 +110,7 @@ do not override live term records or normative policy docs.
 - [`tag-status-vocabulary.md`](tag-status-vocabulary.md): permitted tag and status language
 - [`MODERN_ENGLISH_POLICY.md`](MODERN_ENGLISH_POLICY.md): modern-English register rules and anti-translationese guidance
 - [`VOICE_STANDARD.md`](VOICE_STANDARD.md): default sentence patterns for notes, context rules, examples, and contributor docs
+- [`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md): the spoken-English standard for the running text of translation surfaces
 - [`headword-compound-formula-policy.md`](headword-compound-formula-policy.md): when policy belongs on a headword versus a compound or formula
 - [`drift-risk-terms.md`](drift-risk-terms.md): doctrinal terms most likely to destabilize translation choices
 

@@ -213,10 +213,10 @@ arose in Venerable Kondañña:
 
 ### The Wheel Rolls
 
-When the Blessed One had set the wheel of Dhamma rolling, the earth devas cried
+When the Buddha had set the wheel of Dhamma rolling, the earth devas cried
 out:
 
-"Near Bārāṇasī, at Isipatana in the Deer Park, the Blessed One has set rolling
+"Near Bārāṇasī, at Isipatana in the Deer Park, the Buddha has set rolling
 the unsurpassed wheel of Dhamma that cannot be rolled back by any samaṇa or
 brahmin or deva or Māra or Brahmā or anyone in the world."
 
@@ -225,7 +225,7 @@ up the cry; then the devas of the Thirty-three, the Yāma devas, the Contented
 devas, the devas delighting in creation, the devas wielding power over others'
 creations, and the Brahmā-company devas took up the same cry:
 
-"Near Bārāṇasī, at Isipatana in the Deer Park, the Blessed One has set rolling
+"Near Bārāṇasī, at Isipatana in the Deer Park, the Buddha has set rolling
 the unsurpassed wheel of Dhamma that cannot be rolled back by any samaṇa or
 brahmin or deva or Māra or Brahmā or anyone in the world."
 
@@ -233,7 +233,7 @@ At that moment the cry rose all the way to the Brahmā worlds. This ten-thousand
 world system shook, trembled, and quivered, and a vast immeasurable radiance
 appeared in the world, surpassing the glory of the devas.
 
-Then the Blessed One exclaimed:
+Then the Buddha exclaimed:
 
 "Kondañña really knows. Kondañña really knows."
 

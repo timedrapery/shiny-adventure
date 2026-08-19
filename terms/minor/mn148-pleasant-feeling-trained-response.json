@@ -3,7 +3,7 @@
   "normalized_term": "mn148-pleasant-feeling-trained-response",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally",
+  "preferred_translation": "when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally",
   "alternative_translations": [
     "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not remain taking it personally"
   ],
@@ -15,7 +15,7 @@
   "example_phrases": [
     {
       "pali": "sukhāya vedanāya phuṭṭho samāno na abhinandati na abhivadati na ajjhosāya tiṭṭhati",
-      "translation": "when one is touched by pleasant feeling, one does not delight in it, does not affirm it, and does not keep taking it personally",
+      "translation": "when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally",
       "notes": "Trained pleasant-feeling response in MN 148.",
       "source": "MN 148"
     }

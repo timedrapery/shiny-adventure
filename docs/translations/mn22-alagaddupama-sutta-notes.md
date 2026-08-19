@@ -53,7 +53,7 @@ source-audit calls, and edition notes that govern it.
   for MN 22 and MN 38.
 - `antarāyika dhamma` is rendered "obstructing quality." `Antarāyika` =
   making an obstruction, causing an obstacle. Ariṭṭha's wrong view is that the
-  qualities the Blessed One describes as obstructing do not actually obstruct
+  qualities the Buddha describes as obstructing do not actually obstruct
   when one engages in them. The rendering "obstructing quality" preserves the
   Pali's directness without importing "hindrance" (which is reserved for
   `nīvaraṇa`).
@@ -169,7 +169,7 @@ source-audit calls, and edition notes that govern it.
   Up What Isn't Yours`, and `The Teaching Well Explained`.
 - The Ariṭṭha episode (mn22:2-9) is parallel in structure to the Sāti episode
   in MN 38: a monk holds a wrong view, other monks cannot dissuade him, they
-  report to the Blessed One, the Blessed One summons him, refutes him publicly,
+  report to the Buddha, the Buddha summons him, refutes him publicly,
   and then addresses the broader community. The shared formula — abashed,
   shoulders drooping, downcast, dejected, unable to respond — is used
   identically in both surfaces.

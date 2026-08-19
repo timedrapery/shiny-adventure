@@ -29,7 +29,7 @@ source-audit calls, and edition notes that govern it.
 - `anusaya` remains `underlying tendency`, preserving the latent force that the
   infant simile is designed to expose.
 - Mālukyaputta's initial `kāmacchanda` is rendered `sensual distraction`, while
-  the Blessed One's later `kāma-rāga` is rendered `passion for sensuality`. The
+  the Buddha's later `kāma-rāga` is rendered `passion for sensuality`. The
   distinction is kept because the source itself shifts terms.
 - `byāpāda` is rendered `aversive distraction` in both the list and the
   later lower-fetter analysis. This keeps the text aligned with the live
@@ -60,9 +60,9 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- The translation keeps `Bhante` in the replies to the Blessed One, matching
+- The translation keeps `Bhante` in the replies to the Buddha, matching
   the repo's governed dialogue voice.
-- The Blessed One's rebuke of Mālukyaputta is not treated as a rejection of
+- The Buddha's rebuke of Mālukyaputta is not treated as a rejection of
   the lower-fetter list itself. The problem is that a merely active-state list
   leaves the infant-simile challenge unanswered unless underlying tendencies
   are distinguished from manifest fetters.
@@ -107,7 +107,7 @@ source-audit calls, and edition notes that govern it.
   line explains non-returning when the outflows have not yet worn away; it does
   not make passion or relishing into the final release itself.
 - Ānanda's final question keeps the pair `release of mind` and `release
-  through discernment` visible. The Blessed One's answer attributes the
+  through discernment` visible. The Buddha's answer attributes the
   difference to faculties, not to two unrelated paths.
 
 ## Practice Clarifications
@@ -156,5 +156,13 @@ source-audit calls, and edition notes that govern it.
 - Revision: `Bhagavā` was harmonized from `the Buddha` to `Blessed One`
   throughout the translation text and this notes file, to match the current
   house default confirmed across AN 3.65, SN 12.15, MN 22, and MN 63. This
-  closes the cross-surface inconsistency flagged in the MN 63 notes between
+  closed the cross-surface inconsistency flagged in the MN 63 notes between
   the two Mālukyaputta discourses.
+- Later revision: that change has been reversed. `Bhagavā` is now `the Buddha`
+  again, here and across every surface, under
+  [`terms/major/bhagava.json`](../../terms/major/bhagava.json). The earlier
+  harmonization picked the wrong side: it followed the most recent surfaces
+  rather than the corpus majority, and it settled a translation-surface
+  question inside a notes file, where no check could see it. The rendering is
+  now governed in the lexicon and enforced by
+  `scripts/check_translation_formula_consistency.py`.

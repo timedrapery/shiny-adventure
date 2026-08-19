@@ -3,7 +3,7 @@
   "normalized_term": "sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally",
+  "preferred_translation": "when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally",
   "alternative_translations": [
     "when touched by pleasant feeling, one delights in it, affirms it, and remains taking it personally"
   ],
@@ -22,7 +22,7 @@
   "example_phrases": [
     {
       "pali": "sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati",
-      "translation": "when one is touched by pleasant feeling, one delights in it, affirms it, and keeps taking it personally",
+      "translation": "when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally",
       "notes": "Pleasant-feeling response pattern in MN 148.",
       "source": "MN 148"
     }

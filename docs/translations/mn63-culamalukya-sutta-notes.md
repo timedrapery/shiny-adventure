@@ -67,10 +67,17 @@ source-audit calls, and edition notes that govern it.
   re-solving it locally. The positive mirror in the declared-truths section
   swaps only the final connective ("and" for "or") to match the source's
   affirmative framing.
-- `Bhagavā` is rendered `Blessed One`, matching the current default used in
-  the most recently governed surfaces (MN 22, SN 12.15, AN 3.65) rather than
-  "the Buddha," which the earlier MN 64 surface uses for the same speaker and
-  the same disciple. See Re-audit Calls below.
+- `Bhagavā` is rendered `the Buddha`, as governed by
+  [`terms/major/bhagava.json`](../../terms/major/bhagava.json). This reverses
+  an earlier decision recorded here, which set `Blessed One` on the grounds
+  that it matched the most recently governed surfaces (MN 22, SN 12.15,
+  AN 3.65). That reasoning was about recency rather than register, and it was
+  filed under Re-audit Calls at the time. The re-audit has now happened: the
+  earlier default was never the corpus majority (sixteen surfaces used
+  `Blessed One`, twenty-one used `the Buddha`, and DN 2 used both), and
+  `docs/PLAIN_ENGLISH_STANDARD.md` rules out the devotional register. The
+  decision now lives in the lexicon rather than in this notes file, which is
+  what allowed it to drift in the first place.
 
 ## Re-audit Calls
 
@@ -101,8 +108,9 @@ source-audit calls, and edition notes that govern it.
   English equivalent. If a future revision wants maximal source-fidelity on
   this list, that should be a deliberate, separately reviewed editorial
   decision rather than an incidental effect of this pass.
-- Resolved: `Bhagavā` in MN 64 has been harmonized to `Blessed One`, matching
-  this surface and the current house default. See MN 64's notes, Edition
+- Resolved, then reopened and resolved again: `Bhagavā` in MN 64 was first
+  harmonized to `Blessed One` to match this surface. Both surfaces now use
+  `the Buddha` under the governed `bhagava` record. See MN 64's notes, Edition
   Status, for the revision log.
 
 ## Editorial Presentation
@@ -112,8 +120,8 @@ source-audit calls, and edition notes that govern it.
   Agreed`, `The Poisoned Arrow`, `Not Dependent On These Views`, and
   `Undeclared And Declared`.
 - The ten-point list appears in full at each of its three occurrences
-  (Mālukyaputta's private reflection, his restatement to the Blessed One, and
-  the Blessed One's final declared/undeclared summary), consistent with the
+  (Mālukyaputta's private reflection, his restatement to the Buddha, and
+  the Buddha's final declared/undeclared summary), consistent with the
   repository's policy of preserving repetition for study readability rather
   than collapsing it to "and so on" outside of the one clearly bracketed
   editorial abridgment in `Mālukyaputta's Challenge` (marked in square
