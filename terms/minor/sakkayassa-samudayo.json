@@ -41,6 +41,12 @@
   "sutta_references": [
     "SN 22.105"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording for the arising side of the governed sakkāya arising-and-quenching pair, where identity is treated through the five clung-to heaps.",
+    "when_not_to_apply": "Do not use this wording where samudaya governs a subject other than appropriated identity, and do not rewrite the line as the arising of a self.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents samudaya from drifting toward creation-language and sakkāya from drifting into self-language, which together would present identity as a thing that comes into being rather than a process that is put together."
+  },
   "tags": [
     "aggregates",
     "formula",

@@ -42,6 +42,12 @@
   "sutta_references": [
     "SN 1.1"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording when a text says or asks that someone has crossed over the flood, keeping both the ogha image and the crossing verb explicit.",
+    "when_not_to_apply": "Do not use this phrasing where ogha is being defined or enumerated rather than crossed, and do not substitute generic escape or liberation prose for the crossing image.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the flood-crossing image from being flattened into unmarked liberation-language, which would also blur ogha against the repository's governed escape and release families."
+  },
   "tags": [
     "formula",
     "bondage-imagery",

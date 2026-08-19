@@ -24,6 +24,12 @@
   "sutta_references": [
     "MN 63"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard label for the set of propositions the sutta leaves undeclared, and keep the count at ten.",
+    "when_not_to_apply": "Do not use this label for the fourteen-point Abhidharma-commentarial expansion of the same questions, and do not render avyākata here as unanswered or unexplained, which would suggest the questions were beyond reach rather than deliberately set aside.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the ten-point list from being reported as fourteen, and prevents the undeclared family from drifting into unanswerable-question language."
+  },
   "tags": [
     "core-doctrine",
     "formula",

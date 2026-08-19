@@ -42,6 +42,12 @@
   "sutta_references": [
     "AN 4.5"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording when tiṇṇa is paired with pāraṅgata or comparable far-shore imagery to mark a completed crossing.",
+    "when_not_to_apply": "Do not use this phrasing where tiṇṇa stands alone without the far-shore image, and do not substitute result-language such as fully liberated or enlightened for the crossing itself.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the far-shore image from being replaced by abstract attainment vocabulary, which would lose the distinction the crossing family is governed to keep against the release and escape families."
+  },
   "tags": [
     "formula",
     "bondage-imagery",

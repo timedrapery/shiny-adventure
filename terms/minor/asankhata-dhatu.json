@@ -28,6 +28,12 @@
   "sutta_references": [
     "Ud 8.3"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard rendering when dhātu-language carries the asaṅkhata headword.",
+    "when_not_to_apply": "Do not use this compound as a synonym for nibbāna, and do not expand dhātu here into realm, ground, or reality language.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the unconditioned from being restated as an eternal or transcendent place, which the asaṅkhata headword explicitly discourages."
+  },
   "tags": [
     "formula",
     "core-doctrine",

@@ -41,6 +41,12 @@
   "sutta_references": [
     "SN 22.105"
   ],
+  "translation_policy": {
+    "default_scope": "Use this as the standard wording for the quenching side of the governed sakkāya arising-and-quenching pair, where identity is treated through the five clung-to heaps.",
+    "when_not_to_apply": "Do not use this wording where nirodha governs a subject other than appropriated identity, and do not rewrite the line as the destruction or annihilation of a self.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents nirodha from sliding out of the governed quenching default and sakkāya from sliding into self-language, which together would turn a structural claim into an annihilationist one."
+  },
   "tags": [
     "aggregates",
     "formula",
