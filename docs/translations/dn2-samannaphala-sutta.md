@@ -160,18 +160,17 @@ down to one side, and asked him this same question.
 
 He said:
 
-'Great king, one who acts does no evil in killing, cutting, mutilating,
-torturing, oppressing, frightening, stealing, breaking in, plundering,
-robbing the road, committing adultery, or lying. Even if someone were to turn
-all living beings on this earth into one heap of flesh with a razor-sharp
-wheel, no evil would come of it and no evil result. Even if someone were to
-go along the south bank of the Ganges killing and making others kill, cutting
-and making others cut, torturing and making others torture, no evil would
-come of it and no evil result. Even if someone were to go along the north
-bank of the Ganges giving and sacrificing and making others give and
-sacrifice, no merit would come of it and no result of merit. In giving,
-self-restraint, restraint, and truthfulness there is no merit and no result
-of merit.'
+'Great king, someone who acts does no evil in killing, cutting, mutilating,
+torturing, oppressing, frightening, stealing, breaking in, plundering, robbing
+the road, committing adultery, or lying. Even if someone were to turn all
+living beings on this earth into one heap of flesh with a razor-sharp wheel, no
+evil would come of it and no evil result. Even if someone were to go along the
+south bank of the Ganges killing and making others kill, cutting and making
+others cut, torturing and making others torture, no evil would come of it and
+no evil result. Even if someone were to go along the north bank of the Ganges
+giving and sacrificing and making others give and sacrifice, no merit would
+come of it and no result of merit. In giving, self-restraint, restraint, and
+truthfulness there is no merit and no result of merit.'
 
 So when I asked Pūraṇa Kassapa about a fruit of the ascetic life visible in
 this very life, he answered with the doctrine of non-action. It was like
@@ -222,10 +221,10 @@ seat and left."
 He said:
 
 'Great king, there is no meaning in giving, sacrifice, or offerings. There is
-no fruit or result of good and bad actions. There is no afterlife. There is
-no mother or father in any meaningful sense. There are no beings reborn
+no fruit or result of good and bad actions. There is no afterlife. There is no
+mother or father in any meaningful sense. There are no beings reborn
 spontaneously. There is no ascetic or brahmin rightly practicing who can
-describe the afterlife after realizing it directly for oneself.
+describe the afterlife after realizing it directly for themselves.
 
 This person is made up of the four principal states. At death, the earth in
 the body returns to earth, the water to water, the fire to fire, and the air
@@ -420,11 +419,11 @@ Buddha, accomplished in knowledge and conduct, holy, knower of the world,
 unsurpassed guide for those fit for training, teacher of gods and humans,
 awakened, blessed.
 
-Having realized with direct knowledge this world, with its gods, Māras, and
-Brahmās, this generation with its ascetics and brahmins, rulers and people,
-he makes it known to others. He teaches a Dhamma that is good in the
-beginning, good in the middle, and good in the end, meaningful and
-well-phrased. He reveals a spiritual life that is completely full and pure.
+He has realized with direct knowledge this world, with its gods, Māras, and
+Brahmās, this generation with its ascetics and brahmins, rulers and people, and
+he makes it known to others. He teaches a Dhamma that is good in the beginning,
+good in the middle, and good in the end, meaningful and well-phrased. He
+reveals a spiritual life that is completely full and pure.
 
 A householder, a householder's child, or someone born in a good family hears
 that Dhamma. Hearing it, one gains confidence in the Tathāgata and reflects:
@@ -434,9 +433,9 @@ for one living at home to live the spiritual life utterly full and pure, as
 if polished like a shell. Why don't I shave off hair and beard, put on ocher
 robes, and go forth from the lay life to homelessness?'
 
-After some time, one gives up a small or great fortune, gives up a small or
-great circle of relatives, shaves off hair and beard, puts on ocher robes,
-and goes forth from the lay life to homelessness.
+After some time, they give up a small or great fortune, gives up a small or
+great circle of relatives, shaves off hair and beard, puts on ocher robes, and
+goes forth from the lay life to homelessness.
 
 Once gone forth, one lives restrained by restraint in the pātimokkha, of good
 conduct and proper resort, seeing danger in the slightest fault, training by
@@ -581,29 +580,29 @@ That is how a bhikkhu is content.
 
 ### Clearing the Five Distractions
 
-When a bhikkhu possesses this full range of noble conduct, this noble
-guarding of the faculties, this noble remembering and clear knowing, and this
-noble contentment, one resorts to a secluded lodging: the wilderness, the
-root of a tree, a mountain, a ravine, a hillside cave, a charnel ground, a
-forest thicket, the open air, or a heap of straw.
+When a bhikkhu possesses this full range of noble conduct, this noble guarding
+of the faculties, this noble remembering and clear knowing, and this noble
+contentment, they resort to a secluded lodging: the wilderness, the root of a
+tree, a mountain, a ravine, a hillside cave, a charnel ground, a forest
+thicket, the open air, or a heap of straw.
 
-After returning from almsround, after the meal, one sits down cross-legged,
-keeps the body upright, and establishes remembering before oneself.
+After returning from almsround, after the meal, they sit down cross-legged,
+keeps the body upright, and establishes remembering in front of them.
 
-Giving up coveting for the world, one abides with a mind free of coveting,
+Giving up coveting for the world, they stay with a mind free of coveting,
 cleansing the mind of coveting.
 
-Giving up ill will and malice, one abides with a mind free of ill will, full
-of sympathy for all living beings, cleansing the mind of ill will.
+Giving up ill will and malice, they stay with a mind free of ill will, full of
+sympathy for all living beings, cleansing the mind of ill will.
 
-Giving up dullness and drowsiness, one abides free from dullness and
-drowsiness, perceiving light, remembering and clearly knowing, cleansing the
-mind of dullness and drowsiness.
+Giving up dullness and drowsiness, they stay free from dullness and drowsiness,
+perceiving light, remembering and clearly knowing, cleansing the mind of
+dullness and drowsiness.
 
-Giving up agitation and regret, one abides unagitated, inwardly at peace,
+Giving up agitation and regret, they stay unagitated, inwardly at peace,
 cleansing the mind of agitation and regret.
 
-Giving up doubt, one abides having crossed beyond doubt, no longer uncertain
+Giving up doubt, they stay having crossed beyond doubt, no longer uncertain
 about wholesome qualities, cleansing the mind of doubt.
 
 As long as these five distractions have not been abandoned within, a bhikkhu
@@ -624,9 +623,9 @@ regards that as:
 - freedom
 - a place of safety
 
-Seeing that the distractions have been abandoned, gladness arises. For one who
-is glad, delight arises. When the mind is delighted, the body becomes calm.
-When the body is calm, one feels ease. Feeling ease, the mind becomes mentally
+Seeing that the distractions have been abandoned, gladness arises. For someone
+who is glad, delight arises. When the mind is delighted, the body becomes calm.
+When the body is calm, they feel ease. Feeling ease, the mind becomes mentally
 composed.
 
 ### The First Mental Theme
@@ -796,7 +795,7 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the divine ear.
 
-With the divine ear, purified and beyond the human, one hears both kinds of
+With the divine ear, purified and beyond the human, they hear both kinds of
 sounds, human and divine, whether far or near.
 
 It is like a traveler on the road who hears the sound of drums, clay drums,
@@ -816,8 +815,8 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward encompassing the minds of others.
 
-Having encompassed the minds of other beings and individuals with one's own
-mind, one understands:
+They encompass the minds of other beings and individuals with their own mind,
+and they understand:
 
 - mind with passion as `mind with passion`, and mind without passion as `mind
   without passion`
@@ -836,12 +835,12 @@ mind, one understands:
 - freed mind as `freed mind`, and unfreed mind as `unfreed mind`
 
 It is like a young woman or man, youthful and fond of adornment, examining
-one's own face in a bright mirror or a clear bowl of water. If there were a
+their own face in a bright mirror or a clear bowl of water. If there were a
 blemish, one would know: 'There is a blemish in me.' If there were no blemish,
 one would know: 'There is no blemish in me.'
 
 In the same way, a bhikkhu understands the minds of other beings and
-individuals after encompassing them with one's own mind.
+individuals after encompassing them with their own mind.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.
@@ -865,13 +864,13 @@ this, of such a clan, with such an appearance; that was my food, that was how
 I experienced pleasure and pain, that was the span of my life. Passing away
 from there, I was reborn here.'
 
-Thus one recollects many kinds of past lives, with aspects and particulars.
+That is how they recollect many kinds of past lives, with aspects and
+particulars.
 
-It is like a person who goes from one's own village to another village, from
+It is like a person who goes from their own village to another village, from
 that village to still another village, and from there returns home, later
-thinking:
-'I went from my village to that village. There I stood like this, sat like
-that, spoke like this, kept silent like that. From there I went to another
+thinking: 'I went from my village to that village. There I stood like this, sat
+like that, spoke like this, kept silent like that. From there I went to another
 village. There too I stood like this, sat like that, spoke like this, kept
 silent like that. From there I returned home.'
 
@@ -887,10 +886,9 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the passing away and reappearance of beings.
 
-With the purified divine eye, beyond the human, one sees beings passing away
-and reappearing, low and high, beautiful and ugly, in good destinations and
-bad destinations. One understands beings as moving on according to their
-kamma:
+With the purified divine eye, beyond the human, they see beings passing away
+and reappearing, low and high, beautiful and ugly, in good destinations and bad
+destinations. One understands beings as moving on according to their kamma:
 
 'These beings did bad things by body, speech, and mind. They criticized the
 noble ones, held wrong view, and acted from wrong view. When the body broke
@@ -902,10 +900,9 @@ criticize the noble ones, held right view, and acted from right view. When
 the body broke up, after death, they were reborn in a good destination, a
 heavenly world.'
 
-Thus, with the purified divine eye, beyond the human, one sees beings passing
+So, with the purified divine eye, beyond the human, they see beings passing
 away and reappearing, low and high, beautiful and ugly, in good destinations
-and bad destinations, understanding them as moving on according to their
-kamma.
+and bad destinations, understanding them as moving on according to their kamma.
 
 It is like a person with clear eyesight standing in an upper hall at a
 crossroads, seeing people entering a house, leaving it, walking along the
@@ -965,9 +962,9 @@ When the Buddha had spoken, King Ajātasattu said:
 "Excellent, bhante! Excellent, bhante!
 
 Just as if someone were to set upright what had been overturned, reveal what
-was hidden, point out the way to one who was lost, or hold up an oil lamp in
-the dark so that those with eyes could see forms, so too the Buddha has
-made the Dhamma clear in many ways.
+was hidden, point out the way to someone who was lost, or hold up an oil lamp
+in the dark so that those with eyes could see forms, so too the Buddha has made
+the Dhamma clear in many ways.
 
 I go for refuge to the Buddha, to the Dhamma, and to the Saṅgha of bhikkhus.
 May the Buddha remember me as a lay follower gone for refuge from this

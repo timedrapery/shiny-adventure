@@ -32,8 +32,10 @@ SKIP_FILES = {"translation-documents.md"}
 # Signals are grouped so a reviewer can tell a hard register error (an artifact
 # of translation that Pali does not have) from a softer preference.
 FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
+    # The negative lookbehind keeps `no one takes a life` out of the results.
+    # That is ordinary English, not the generic-person artifact.
     "generic one as subject": re.compile(
-        r"\bone (?:recognizes|perceives|knows|dwells|abides|sorrows|laments|feels|takes"
+        r"(?<!\bno )\bone (?:recognizes|perceives|knows|dwells|abides|sorrows|laments|feels|takes"
         r"|delights|understands|conceives|attains|enters|remains|reflects|considers"
         r"|regards|sees|hears|thinks|speaks|acts|trains|develops|abandons|gives)\b"
     ),
@@ -49,7 +51,9 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
         r"\b(?:thus|therein|thereof|whereby|whilst|amongst|herein|hence forth)\b",
         re.IGNORECASE,
     ),
-    "clause person label": re.compile(r"\b(?:one who|he who|that which|those which)\b", re.IGNORECASE),
+    "clause person label": re.compile(
+        r"(?<!\bno )\b(?:one who|he who|that which|those which)\b", re.IGNORECASE
+    ),
     "contemplative abides": re.compile(r"\b(?:abides|abiding)\b", re.IGNORECASE),
     "nominalization chain": re.compile(
         r"\b\w+(?:tion|ment|ance|ence|ness|ity) of (?:the )?\w+(?:tion|ment|ance|ence|ness|ity)\b",
@@ -111,7 +115,11 @@ TERMS_DIR = REPO_ROOT / "terms"
 # Labels whose matches should be suppressed when the matched span is itself a
 # governed rendering. A stacked-noun phrase that the lexicon has deliberately
 # chosen is an editorial decision, not accidental translationese.
-LEXICON_AWARE_LABELS = {"nominalization chain", "legacy doctrinal vocabulary"}
+LEXICON_AWARE_LABELS = {
+    "nominalization chain",
+    "legacy doctrinal vocabulary",
+    "archaic connective",
+}
 
 
 def load_governed_renderings(terms_dir: Path = TERMS_DIR) -> set[str]:
@@ -138,12 +146,41 @@ def load_governed_renderings(terms_dir: Path = TERMS_DIR) -> set[str]:
     return renderings
 
 
-def is_governed(span: str, renderings: set[str]) -> bool:
-    """True when this span is part of a rendering the lexicon already chose."""
+def is_governed(span: str, renderings: set[str], window: str = "") -> bool:
+    """True when this span is part of a rendering the lexicon already chose.
+
+    When a window of surrounding text is supplied, the governed rendering must
+    actually appear in that window. That matters for short spans: the token
+    `thus` is a substring of the governed rendering `'thus it was said' texts`,
+    so a bare containment test would suppress every `thus` in the corpus. The
+    window makes suppression apply only where the governed phrase is really
+    present.
+    """
     needle = span.casefold().strip()
     if not needle:
         return False
-    return any(needle in rendering or rendering in needle for rendering in renderings)
+    if not window:
+        return any(needle in rendering or rendering in needle for rendering in renderings)
+    haystack = re.sub(r"\s+", " ", window).casefold()
+    return any(
+        needle in rendering and rendering in haystack for rendering in renderings
+    )
+
+
+def is_compositional(span: str, renderings: set[str]) -> bool:
+    """True when an `X of Y` phrase is built entirely from governed renderings.
+
+    The repository's doctrinal vocabulary legitimately stacks nouns:
+    `recognition of impermanence` is `sanna` plus `anicca`, both governed, and
+    `cessation of dissatisfaction` is a recorded four-noble-truths context rule
+    for `nirodha` plus the governed `dukkha`. Those are editorial decisions, not
+    accidental nominalization, so they should not be reported.
+    """
+    parts = [p.strip() for p in re.split(r"\bof\b", span.casefold()) if p.strip()]
+    if len(parts) < 2:
+        return False
+    cleaned = [re.sub(r"^(?:the|a|an)\s+", "", p) for p in parts]
+    return all(part in renderings for part in cleaned)
 
 
 def strip_apparatus(text: str) -> str:
@@ -212,8 +249,14 @@ def scan_text(
     findings: list[dict[str, object]] = []
     for label, pattern in FLAGGED_PATTERNS.items():
         for match in pattern.finditer(body):
-            if label in LEXICON_AWARE_LABELS and is_governed(match.group(0), governed):
-                continue
+            if label in LEXICON_AWARE_LABELS:
+                window = body[max(0, match.start() - 80): match.end() + 80]
+                if is_governed(match.group(0), governed, window):
+                    continue
+                if label == "nominalization chain" and is_compositional(
+                    match.group(0), governed
+                ):
+                    continue
             line_number = body.count("\n", 0, match.start()) + 1
             line = lines[line_number - 1].strip() if line_number <= len(lines) else ""
             findings.append(

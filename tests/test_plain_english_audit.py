@@ -84,6 +84,27 @@ class LexiconAwarenessTests(unittest.TestCase):
         labels = {str(f["label"]) for f in plain_audit.scan_text(text, "s.md", set())}
         self.assertIn("nominalization chain", labels)
 
+    def test_governed_genre_label_suppresses_archaic_connective(self) -> None:
+        governed = {"'thus it was said' texts"}
+        text = "## Translation\n\nverses, 'thus it was said' texts, birth stories\n"
+        self.assertEqual(plain_audit.scan_text(text, "s.md", governed), [])
+
+    def test_bare_thus_is_still_flagged(self) -> None:
+        # The governed rendering contains `thus`, so a containment-only test
+        # would wrongly suppress every `thus` in the corpus.
+        governed = {"'thus it was said' texts"}
+        text = "## Translation\n\nThus, Ananda, these two dhammas meet.\n"
+        labels = {str(f["label"]) for f in plain_audit.scan_text(text, "s.md", governed)}
+        self.assertIn("archaic connective", labels)
+
+    def test_no_one_constructions_are_not_flagged(self) -> None:
+        text = "## Translation\n\nThere is no one who kills, and no one takes a life.\n"
+        self.assertEqual(plain_audit.scan_text(text, "s.md", set()), [])
+
+    def test_is_governed_window_requires_rendering_present(self) -> None:
+        self.assertTrue(plain_audit.is_governed("thus", {"thus it was said"}, "a thus it was said b"))
+        self.assertFalse(plain_audit.is_governed("thus", {"thus it was said"}, "and thus he left"))
+
     def test_is_governed_matches_either_direction(self) -> None:
         self.assertTrue(plain_audit.is_governed("escape", {"element of escape"}))
         self.assertTrue(plain_audit.is_governed("element of escape", {"escape"}))
