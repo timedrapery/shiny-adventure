@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (36 total)
+## Completed Surfaces (37 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -47,6 +47,9 @@ Use that full roadmap as the source of truth for:
 - `AN 3.65` Kesamutta Sutta (Kālāma Sutta)
 - `MN 63` Cūḷamālukya Sutta
 
+### Wave 6: Ungoverned Major Families
+- `SN 12.11` Āhāra Sutta (The Four Nutriments)
+
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
 - `MN 10` Satipaṭṭhāna Sutta
@@ -70,9 +73,11 @@ Audited 2026-08-19 against the 36-surface, 1145-term state. See
 per-text leverage signals, and the method note on why raw citation count was
 rejected as the ranking basis.
 
-1. `SN 12.11` Āhāra Sutta — six orphan major entries, the four-nutriments
-   family; also closes the gap where the `ahara` headword default has no
-   surface because `SN 46.51` overrides it locally
+1. ~~`SN 12.11` Āhāra Sutta~~ — **complete**. Six orphan major entries, the
+   four-nutriments family; also closed the gap where the `ahara` headword
+   default had no surface because `SN 46.51` overrides it locally. See
+   [SN 12.11](translations/sn12-11-ahara-sutta.md) and its
+   [notes](translations/sn12-11-ahara-sutta-notes.md).
 2. `SN 55.5` — five orphan majors, the whole stream-entry and path-fruit ladder
 3. `AN 6.63` Nibbedhika Sutta — gives `kamma` its first translation surface
 4. `SN 12.61` — the four-line conditionality formula as reusable control
