@@ -27,3 +27,6 @@ Thumbs.db
 
 # Generated reports
 repo-health.json
+
+# MkDocs build output
+site/

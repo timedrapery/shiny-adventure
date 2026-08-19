@@ -41,5 +41,6 @@ watch:
 
 nav:
   - Home: index.md
+  - Start Here: start-here.md
   - Suttas:
       - "MN 63: Culamalukya Sutta": suttas/mn63-culamalukya-sutta.md
