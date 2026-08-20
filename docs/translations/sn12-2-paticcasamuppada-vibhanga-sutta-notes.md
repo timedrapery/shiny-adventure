@@ -48,8 +48,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - The `jātipaccayā jarāmaraṇaṁ ...` line keeps `birth` rather than narrowing
   to `rebirth`, in line with the current dependent-arising brief.
 - The `upādāna` definition uses the governed compound defaults now active in
-  the fourfold framework: `sensual clinging`, `taking views personally`,
-  `clinging to rules and observances`, and `taking self-doctrine personally`.
+  the fourfold framework, harmonised on the headword: `taking sensuality
+  personally`, `taking views personally`, `taking habits and observances
+  personally`, and `taking self-doctrine personally`.
 - The `taṇhākāyā` list keeps the headword audible as `ignorant wanting` rather
   than reverting to generic craving-language by habit.
 - `nāma` is rendered as `felt experience, recognition, intention, contact, and

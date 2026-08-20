@@ -148,9 +148,10 @@ This is the way to understand how with taking personally as condition there is
 becoming.
 
 If there were no taking personally at all, in any way, of anyone anywhere -
-sensual clinging, taking views personally, clinging to rules and observances,
-or taking self-doctrine personally - then with taking personally wholly
-absent, with the quenching of taking personally, would becoming be found?"
+taking sensuality personally, taking views personally, taking habits and
+observances personally, or taking self-doctrine personally - then with taking
+personally wholly absent, with the quenching of taking personally, would
+becoming be found?"
 
 "No, bhante."
 

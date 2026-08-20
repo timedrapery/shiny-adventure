@@ -36,7 +36,7 @@ source-audit calls, and edition notes that govern it.
   `byāpāda` record while preserving the fetter context in the notes.
 - The infant-simile tendency lines render direct compounds as:
   `underlying tendency toward identity view`, `underlying tendency toward
-  doubt`, `underlying tendency toward grasping at rules and observances`,
+  doubt`, `underlying tendency toward grasping at habits and observances`,
   `underlying tendency toward sensual passion`, and `underlying tendency toward
   aversive distraction`.
 - `nissaraṇaṃ yathābhūtaṃ pajānāti` is rendered `discerns its escape as it has

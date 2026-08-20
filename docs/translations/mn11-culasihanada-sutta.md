@@ -159,14 +159,15 @@ There are these four kinds of taking personally, bhikkhus.
 
 What four?
 
-Sensual clinging, taking views personally, clinging to rules and observances,
-and taking self-doctrine personally.
+Taking sensuality personally, taking views personally, taking habits and
+observances personally, and taking self-doctrine personally.
 
 There are some recluses and brahmins, bhikkhus, who claim to teach the full
-understanding of all taking personally. They do not rightly describe the full
-understanding of all taking personally: they describe the full understanding
-of sensual clinging, but not of taking views personally, not of clinging to
-rules and observances, not of taking self-doctrine personally.
+understanding of all taking personally. They do not rightly describe the
+full understanding of all taking personally: they describe the full
+understanding of taking sensuality personally, but not of taking views
+personally, not of taking habits and observances personally, not of taking
+self-doctrine personally.
 
 Why is that?
 
@@ -175,9 +176,9 @@ have come to be. So although they claim to teach the full understanding of all
 taking personally, they do not rightly describe it.
 
 There are some recluses and brahmins who claim to teach the full understanding
-of all taking personally. They describe the full understanding of sensual
-clinging and of taking views personally, but not of clinging to rules and
-observances, not of taking self-doctrine personally.
+of all taking personally. They describe the full understanding of taking
+sensuality personally and of taking views personally, but not of taking habits
+and observances personally, not of taking self-doctrine personally.
 
 Why is that?
 
@@ -185,9 +186,9 @@ Because those good recluses and brahmins do not discern two of these as they
 have come to be.
 
 There are some recluses and brahmins who claim to teach the full understanding
-of all taking personally. They describe the full understanding of sensual
-clinging, of taking views personally, and of clinging to rules and
-observances, but not of taking self-doctrine personally.
+of all taking personally. They describe the full understanding of taking
+sensuality personally, of taking views personally, and of taking habits and
+observances personally, but not of taking self-doctrine personally.
 
 Why is that?
 
@@ -208,11 +209,11 @@ Because that is how it goes, bhikkhus, in a Dhamma and discipline badly
 declared, badly proclaimed, not leading out, not conducive to peace, not
 declared by a fully awakened one.
 
-But the Tathāgata, bhikkhus, the arahant, the fully awakened one, claiming to
-teach the full understanding of all taking personally, does rightly describe
-it: he describes the full understanding of sensual clinging, of taking views
-personally, of clinging to rules and observances, and of taking self-doctrine
-personally.
+But the Tathāgata, bhikkhus, the arahant, the fully awakened one, claiming
+to teach the full understanding of all taking personally, does rightly
+describe it: he describes the full understanding of taking sensuality
+personally, of taking views personally, of taking habits and observances
+personally, and of taking self-doctrine personally.
 
 In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher is
 said to be rightly directed; confidence in the Dhamma is said to be rightly
@@ -281,9 +282,9 @@ and ignorance produces it.
 
 When a bhikkhu has given up ignorance, bhikkhus, and clear knowledge has
 arisen, then with the fading of ignorance and the arising of clear knowledge
-they no longer take sensuality personally, no longer take views personally, no
-longer take rules and observances personally, no longer take self-doctrine
-personally.
+they no longer take sensuality personally, no longer take views personally,
+no longer take habits and observances personally, no longer take
+self-doctrine personally.
 
 Not taking anything personally, they are not agitated. Not agitated, they
 personally reach final nibbāna.

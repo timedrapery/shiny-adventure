@@ -41,29 +41,37 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- **The four `upādāna` compounds are not consistent with each other, and this
-  is the surface where that shows.** The discourse enumerates all four in one
-  list, and the governed renderings produce:
+- **The four `upādāna` compounds were not consistent with each other, and this
+  is the surface where that showed. Resolved.** The discourse enumerates all
+  four in one list, which used to produce:
 
   > sensual clinging, taking views personally, clinging to rules and
   > observances, and taking self-doctrine personally
 
-  Two members use `taking ... personally`, matching the `upādāna` headword.
-  Two use `clinging`, which the headword records only as an alternate.
-
-  This is a half-finished family revision rather than a considered split. The
-  `diṭṭhupādāna` notes say the project *now* keeps `taking views personally`
+  Two members used `taking ... personally`, matching the `upādāna` headword;
+  two used `clinging`, which the headword records only as an alternate. That
+  was a half-finished family revision rather than a considered split. The
+  `diṭṭhupādāna` notes said the project *now* keeps `taking views personally`
   "because it aligns the compound more tightly with the upādāna headword",
   which is the same argument that applies to `kāmupādāna` and
-  `sīlabbatupādāna`. `kāmupādāna` already records `taking sensuality
-  personally` as an alternate.
+  `sīlabbatupādāna`. The headword's own compound context rule already directed
+  all four members to carry its appropriative force, so the two `clinging`
+  defaults were out of compliance with a rule the family already recorded.
 
-  The translation uses the current governed renderings unchanged, because
-  harmonising them is a lexical decision affecting the whole dependent-arising
-  cluster, not something to settle inside a translation pass. The inconsistent
-  list is already propagated to DN 15, MN 9, and SN 12.2, so completing the
-  revision would touch those three surfaces, two term records, their notes, and
-  the generated cluster sheets.
+  The family was harmonised in one pass. The list now reads:
+
+  > taking sensuality personally, taking views personally, taking habits and
+  > observances personally, and taking self-doctrine personally
+
+  Each revised compound keeps its `clinging` rendering as a controlled
+  continuity alternate rather than losing it, so source-facing prose can still
+  use the familiar wording.
+
+  In the same pass the `sīlabbata` stem moved from `rules and observances` to
+  `habits and observances` across every record that carries it, so
+  `sīlabbatupādāna`, `sīlabbata-parāmāsa`, and the `kāyagantha` knot entry stay
+  aligned. That reached MN 2 and MN 64 as well, which carry the fetter
+  wording.
 
 - The fourfold source question now has two surfaces (SN 12.11 and this one)
   using identical wording. It should be promoted to a formula record so a third

@@ -215,7 +215,7 @@ When he attends wisely in this way, three fetters are abandoned:
 
 - identity view
 - uncertain distraction
-- grasping at rules and observances
+- grasping at habits and observances
 
 These are called the outflows to be abandoned by seeing.
 

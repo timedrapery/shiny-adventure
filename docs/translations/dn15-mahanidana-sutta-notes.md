@@ -34,9 +34,10 @@ source-audit calls, and edition notes that govern it.
 - `nāmarūpa` remains `name-and-form`.
 - The summary chain keeps the same forward-link voice as the existing SN 12.2
   surface: `with X as condition, Y`.
-- `upādāna` remains `taking personally`, while the four kinds of upādāna keep
-  their compound records: `sensual clinging`, `taking views personally`,
-  `clinging to rules and observances`, and `taking self-doctrine personally`.
+- `upādāna` remains `taking personally`, and the four kinds of upādāna now
+  follow the headword uniformly: `taking sensuality personally`, `taking views
+  personally`, `taking habits and observances personally`, and `taking
+  self-doctrine personally`.
 - `taṇhā` remains `ignorant wanting`, and the threefold sequence is rendered
   `ignorant wanting for sensuality`, `ignorant wanting for becoming`, and
   `ignorant wanting for non-becoming`.

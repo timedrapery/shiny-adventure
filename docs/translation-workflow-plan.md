@@ -50,7 +50,7 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
-## State As Of 2026-08-19
+## State As Of 2026-08-20
 
 - 42 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
   which was requested directly rather than drawn from a wave audit.
@@ -58,6 +58,7 @@ python -m pip install -r requirements-dev.txt
   reader introductions. The reader also publishes a downloadable EPUB.
 - 1,148 term records. `repo_health.py` reports no open backlog in any section.
 - Register audit: 8 signals, all documented exceptions in the rollout plan.
+- The four `upadana` compounds are harmonised on the headword default.
 - Citation sweep: 400 ok, 0 absent.
 - The reader deploys automatically from `main` behind the full check suite.
 
@@ -65,32 +66,19 @@ python -m pip install -r requirements-dev.txt
 
 Ordered by value, not urgency.
 
-### 1. Harmonise the four `upadana` compounds
-
-The largest open lexical question, and well evidenced. Two of the four render
-the head as `taking ... personally`, matching the `upadana` headword; two use
-`clinging`, which the headword records only as an alternate. The
-`ditthupadana` notes show the revision was started and left half finished.
-
-Completing it touches two term records, three surfaces (DN 15, MN 9, SN 12.2),
-their notes, and the generated cluster sheets. Full evidence is in
-[translations/mn11-culasihanada-sutta-notes.md](translations/mn11-culasihanada-sutta-notes.md).
-
-Revise the family in one pass. Half a family is worse than none.
-
-### 2. Draft Wave 7
+### 1. Draft Wave 7
 
 Undrafted, and the next major translation project. Re-run the audit method in
 [next-suttas-roadmap.md](next-suttas-roadmap.md), which is more trustworthy
 than it was: four of Wave 6's leverage signals turned out wrong when checked
 against sources, all traceable to citations that have since been repaired.
 
-### 3. Promote the fourfold source question to a formula record
+### 2. Promote the fourfold source question to a formula record
 
 `kim nidana kim samudaya kim jatika kim pabhava` now has identical wording in
 SN 12.11 and MN 11. A third surface should not re-solve it.
 
-### 4. Smaller items
+### 3. Smaller items
 
 - Write reader introductions for the texts that still use the generated
   default. The next ones in newcomer order are the Stage 2 and Stage 3 texts
@@ -106,6 +94,56 @@ SN 12.11 and MN 11. A third surface should not re-solve it.
 - Five dependabot pull requests are open against workflow actions and dev
   dependencies. They were reviewed during the reader phase and deliberately
   left alone; see the reader architecture document.
+
+## Resolved Finding: The Split `upadana` Family
+
+Resolved 2026-08-20. The four `upadana` compounds are now harmonised on the
+headword default, so the fourfold enumeration reads:
+
+> taking sensuality personally, taking views personally, taking habits and
+> observances personally, and taking self-doctrine personally
+
+Two of the four previously rendered the head as `clinging`, which the headword
+records only as an alternate. The decisive evidence was already in the
+repository: `upadana`'s own compound context rule directs all four members to
+carry the headword's appropriative force, so the two `clinging` defaults were
+out of compliance with a rule the family had already recorded. The revision was
+not a new editorial judgment so much as finishing one.
+
+`silabbatupadana` was the only genuinely new wording. Its recorded alternates
+were `appropriating rules and observances` and `rule-and-observance clinging`,
+neither of which matches the family pattern.
+
+The same pass then moved the `silabbata` stem from `rules and observances` to
+`habits and observances` everywhere it occurs. Changing only the `upadana`
+compound would have left one Pali stem rendered two ways across neighbouring
+records, which is the same failure this finding exists to close, one level
+down. So `silabbata-paramasa` is now `grasping at habits and observances`, the
+`kayagantha` knot entry follows it, and MN 2 and MN 64 were brought along
+because they carry the fetter wording.
+
+Every revised compound keeps its `clinging` rendering as a controlled
+continuity alternate, so source-facing prose can still use the familiar
+wording. `silabbatupadana` keeps `clinging to habits and observances`
+specifically for continuity with the fetter entry `silabbata-paramasa`.
+
+The pass touched four term records, the headword's family note, six surfaces
+(DN 15, MN 2, MN 9, MN 11, MN 64, SN 12.2), five note files, the kama cluster
+map and its report script, one policy test, and the generated cluster sheets,
+term indexes, and reader pages.
+
+Two scope lessons, both worth repeating:
+
+- The scope recorded before the pass said three surfaces. MN 11 also carried
+  the wording and was missed in that count -- the surface whose own notes
+  raised the finding.
+- Prose surfaces wrap at about 76 characters, so a governed phrase can straddle
+  a line break and evade a plain `grep`. Two MN 11 paragraphs were missed on
+  the first sweep for exactly that reason. Audit renderings with a
+  whitespace-insensitive search (`\s+` between words), not a literal one.
+
+Full rationale is in
+[translations/mn11-culasihanada-sutta-notes.md](translations/mn11-culasihanada-sutta-notes.md).
 
 ## Resolved Finding: Unverified Example Citations
 

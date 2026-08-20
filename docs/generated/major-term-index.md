@@ -147,7 +147,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [kamabhava](../../terms/major/kamabhava.json) | kāmabhava | sensual existence | stable | core-doctrine, dependent-origination, context-sensitive, translation-sensitive |
 | [kamacchanda](../../terms/major/kamacchanda.json) | kāmacchanda | sensual distraction | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
 | [kamma](../../terms/major/kamma.json) | kamma | action | reviewed | core-doctrine, causality, ethics |
-| [kamupadana](../../terms/major/kamupadana.json) | kāmupādāna | sensual clinging | stable | core-doctrine, dependent-origination, mental-qualities, translation-sensitive |
+| [kamupadana](../../terms/major/kamupadana.json) | kāmupādāna | taking sensuality personally | stable | core-doctrine, dependent-origination, mental-qualities, translation-sensitive |
 | [karuna](../../terms/major/karuna.json) | karuṇā | kindness towards others | stable | core-practice, mental-qualities, meditative-development |
 | [kaya-vinnana](../../terms/major/kaya-vinnana.json) | kāyaviññāṇa | body-knowing | reviewed | sense-fields, core-doctrine |
 | [kaya](../../terms/major/kaya.json) | kāya | body | reviewed | core-doctrine, core-practice, embodiment |
@@ -286,8 +286,8 @@ Generated navigation index for the flat `terms/major/` directory.
 | [satipatthana](../../terms/major/satipatthana.json) | satipaṭṭhāna | establishment of sati | stable | core-practice, meditative-development, mental-qualities |
 | [sekha](../../terms/major/sekha.json) | sekha | trainee | stable | core-doctrine, persons |
 | [sila](../../terms/major/sila.json) | sīla | conduct | reviewed | core-practice, ethics |
-| [silabbata-paramasa](../../terms/major/silabbata-paramasa.json) | sīlabbata-parāmāsa | grasping at rules and observances | stable | core-doctrine, liberation, translation-sensitive |
-| [silabbatupadana](../../terms/major/silabbatupadana.json) | sīlabbatupādāna | clinging to rules and observances | reviewed | core-doctrine, dependent-origination, mental-qualities |
+| [silabbata-paramasa](../../terms/major/silabbata-paramasa.json) | sīlabbata-parāmāsa | grasping at habits and observances | stable | core-doctrine, liberation, translation-sensitive |
+| [silabbatupadana](../../terms/major/silabbatupadana.json) | sīlabbatupādāna | taking habits and observances personally | reviewed | core-doctrine, dependent-origination, mental-qualities |
 | [soka](../../terms/major/soka.json) | soka | sorrow | reviewed | core-doctrine, four-noble-truths |
 | [sota-vinnana](../../terms/major/sota-vinnana.json) | sotaviññāṇa | ear-knowing | reviewed | sense-fields, core-doctrine |
 | [sota](../../terms/major/sota.json) | sota | ear | reviewed | sense-fields, core-doctrine |
