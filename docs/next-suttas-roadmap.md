@@ -27,6 +27,11 @@ Wave 6 was audited on 2026-08-19 against this same 36-surface state. Its
 ranking applies the four factors below but corrects for a flaw they have on
 their own — see the method note under Ranked Roadmap (Wave 6).
 
+Wave 7 was audited on 2026-08-20 against the current 42-surface, 1147-term
+state, and is the first audit that is reproducible rather than hand-computed:
+run `python scripts/audit_surface_leverage.py`. It carries two further
+corrections to the method, both recorded under Ranked Roadmap (Wave 7).
+
 The ranking weights four factors:
 
 1. live `sutta_references` density across the current lexicon
@@ -34,6 +39,184 @@ The ranking weights four factors:
 3. formula and sequence density that can stabilize translator-facing control
    language
 4. ability to reduce future drift across clusters already under governance
+
+## Ranked Roadmap (Wave 7)
+
+Audited 2026-08-20 against the 42-surface, 1147-term state.
+
+This audit is reproducible. Run it rather than recomputing by hand:
+
+```bash
+python scripts/audit_surface_leverage.py
+```
+
+Current state: 614 of 1147 records are cited, 429 anchored, **185 orphaned**,
+533 uncited. Wave 6 recorded 189 orphans against 1145 terms, so three waves of
+translation have barely moved the orphan count. That is expected -- those waves
+added surfaces for vocabulary that was largely already anchored -- but it means
+orphan reduction has not been what the waves were buying.
+
+### Method Note: Orphan Count Is Not Leverage Either
+
+Wave 6 established that raw citation count is not leverage. That still holds:
+`DN 22` again tops raw citations at fifteen citing entries while contributing
+only three orphan majors, for the same reason as before.
+
+The orphan measure has now developed the same disease one level over. Ranked
+mechanically by orphan count, the top of the field is:
+
+| Sutta | Orphan entries | Pali words |
+| --- | --- | --- |
+| `SN 45.174` | 7 | 34 |
+| `SN 45.171` | 6 | 35 |
+| `AN 7.11` | 6 | 18 |
+| `SN 45.172` | 5 | 30 |
+
+These are bare enumerations. `AN 7.11` in full is a title, "there are seven
+underlying tendencies", the list, and a restatement of the count. `SN 45.171`
+carries a peyyala and an explicit expansion instruction. They score well per
+word because they *are* the vocabulary, with no context around it. A surface
+built from one would demonstrate nothing that a cluster sheet could not state
+more usefully.
+
+`MN 77` shows the same distortion from the other direction: ten orphan
+entries, all of them `kasina` compounds, one mechanical list inside a long
+discourse. Wave 6's Also Considered list already flagged that case; the
+correction here is to make it measurable rather than a judgement call.
+
+So the audit now separates candidates by whether the anchoring text is
+substantive, using a Pali body-word count from `.bilara-cache`. Texts at or
+below 80 words are reported as enumeration stubs on a separate track. Texts
+that are not cached are reported as unverified rather than guessed at.
+
+### Method Note: Orphan Percentage Understates Cluster Darkness
+
+Factor 4 asks which governed clusters would gain most. Measuring that by
+orphan share alone is misleading, because an *uncited* term is not an orphan
+-- it has no anchors to be untranslated -- yet it is equally invisible in
+running text.
+
+The audit therefore reports **dark** terms: orphaned plus uncited, meaning no
+running-text demonstration anywhere. The difference is not cosmetic. The
+emptiness / signless / wishless cluster has only 3 orphans out of 13 terms,
+which reads as healthy. It is in fact 13 of 13 dark: the three headwords are
+orphaned and all ten supporting terms are uncited. Not one of its governed
+terms appears in any translated surface.
+
+| Cluster | Dark | Principal untranslated anchor |
+| --- | --- | --- |
+| Emptiness / signless / wishless | 13/13 (100%) | `MN 43` |
+| Bondage-imagery | 15/17 (88%) | `SN 45.171` / `.172` / `.174` |
+| Consummation / unconditioned | 11/16 (69%) | `Iti 44` |
+| Bondage / residue | 10/22 (45%) | `AN 7.11` |
+| Crossing / release interface | 4/10 (40%) | `MN 70` |
+
+Five clusters are fully shown in running text: dependent arising, experience /
+process, five heaps, four noble truths, and sense-fields.
+
+### 1. MN 43: Mahāvedalla Sutta
+
+- Leverage signal: the emptiness / signless / wishless cluster is the only
+  governed cluster that is 100% dark, and `MN 43` is its principal anchor,
+  carrying both `animitta` and `appanihita`.
+- Note what it does not finish: `sunnata` cites `SN 35.85` and `MN 121`, not
+  `MN 43`. One surface brings the cluster from 0/13 shown to 2/13. The ten
+  supporting compounds are uncited and need citations written, not a further
+  translation.
+- Strengthens: a cluster with full policy machinery -- report script, contrast
+  sheet, governed alternates -- and no running text behind any of it.
+- Likely lexicon pressure: confirm whether the three headwords survive contact
+  with a text where they are the subject, and write `sutta_references` for the
+  ten supporting compounds.
+
+### 2. SN 51.13: Chandasamādhi Sutta
+
+- Leverage signal: three orphan majors -- `chanda`, `iddhipada`, `vimamsa` --
+  the highest count of any substantive text, in 242 Pali words.
+- The `iddhipada` family has no governed cluster of its own, so this opens
+  territory rather than completing it. `chanda` carries drift risk against
+  `kamacchanda` and `tanha`, and the kama cluster already governs that
+  boundary from the other side.
+- Likely lexicon pressure: whether `chanda` holds `desire` once it heads a
+  wholesome path factor rather than sitting beside the sensuality family.
+
+### 3. MN 70: Kīṭāgiri Sutta
+
+- Leverage signal: two orphan majors, `cetovimutti` and `pannavimutti`, and
+  the crossing / release interface cluster is 40% dark.
+- Touches three governed clusters at once -- crossing / release, knowledge /
+  seeing / understanding, and abandonment-sequence -- which is unusual.
+- Likely lexicon pressure: the relationship between the two liberations, which
+  the repository currently governs as separate records with no surface showing
+  them contrasted.
+
+### 4. Iti 44: Nibbānadhātu Sutta
+
+- Leverage signal: 135 Pali words, four orphans, and the consummation /
+  unconditioned cluster is 69% dark.
+- Anchors `nibbana-dhatu`, `saupadisesa-nibbana-dhatu`,
+  `anupadisesa-nibbana-dhatu`, and `parinibbana-dhatu` -- the last of which had
+  its citation repaired to `Iti 44` on 2026-08-19, so this would be the first
+  surface to exercise that repair.
+- Caveat: it is short and carries verse, and the collection has no `Iti`
+  surface yet, so it would set precedent for how the reader handles them.
+
+### 5. SN 12.43: Dukkha Sutta
+
+- Leverage signal: 183 Pali words and six orphans, all six of them the
+  `-samudaya` formula family (`phassa`, `vedana`, `namarupa`, `upadana`,
+  `bhava`, `jati`). Completes a formula family inside a cluster that is
+  already fully shown.
+- Only one orphan major, so it ranks low on factor 2 while being among the
+  best per-word returns in the corpus.
+
+### Also Considered
+
+- `DN 22` -- three orphan majors and fifteen citing entries, but the Wave 6
+  reasoning is unchanged: `MN 10` already anchors most of it.
+- `MN 119` -- `kaya` and `kayagata-sati`, 1902 words, overlapping `MN 10`.
+- `AN 3.86` -- `anagami` and `sakadagami`, 274 words, though `SN 55.5` already
+  anchors the attainment ladder and this record's citation was repaired on
+  2026-08-19.
+- `SN 50.1`, `AN 2.9` -- two orphan majors each (`bala` / `saddha`, `hiri` /
+  `ottappa`), but neither root text is cached, so length is unverified.
+- `MN 77`, `AN 8.6`, `MN 41` -- high orphan counts, lengths unverified.
+
+### Separate Track: Enumeration Stubs
+
+The bondage-imagery cluster is 88% dark, and all fifteen dark terms are
+anchored by three SN 45 repetition suttas totalling about 100 Pali words:
+`SN 45.171` (the floods), `SN 45.172` (the yokes), and `SN 45.174` (the
+knots). `AN 7.11` covers six `anusaya` orphans in eighteen words.
+
+This is the cheapest coverage in the repository, and it is invisible to the
+roadmap because the roadmap ranks translation candidates and these should not
+become translation surfaces. Handle the enumerations as formula records or
+cluster-sheet entries instead. Note that `silabbata-paramasa-kayagantha` sits
+in this set: it was revised on 2026-08-20 during the `silabbata` stem pass and
+still has no running text behind it.
+
+### Finding: MN 61 Anchors No Governed Vocabulary
+
+`MN 61` is the only translation surface that no term record cites. It was
+translated by direct request rather than drawn from a wave audit, so no
+lexicon follow-through was written. It shows no policy in running text and
+contributes nothing to any cluster. Either write citations for the vocabulary
+it governs, or accept it as a reader-facing text with no lexicon role and
+record that choice. `tests/test_audit_surface_leverage.py` pins the current
+state so the list cannot grow unnoticed.
+
+## Suggested Order (Wave 7)
+
+1. `MN 43` -- the only 100% dark governed cluster
+2. `SN 51.13` -- most orphan majors among substantive texts, and short
+3. `MN 70` -- three governed clusters at once
+4. `Iti 44` -- 69% dark cluster, 135 words
+5. `SN 12.43` -- completes the `-samudaya` formula family
+
+Before drafting, resolve the unverified lengths by caching the missing root
+texts, and settle the enumeration-stub track separately. It is cheaper than
+any item above and does not compete with them for translation effort.
 
 ## Ranked Roadmap (Wave 6)
 

@@ -66,12 +66,23 @@ python -m pip install -r requirements-dev.txt
 
 Ordered by value, not urgency.
 
-### 1. Draft Wave 7
+### 1. Translate Wave 7
 
-Undrafted, and the next major translation project. Re-run the audit method in
-[next-suttas-roadmap.md](next-suttas-roadmap.md), which is more trustworthy
-than it was: four of Wave 6's leverage signals turned out wrong when checked
-against sources, all traceable to citations that have since been repaired.
+Drafted 2026-08-20. The ranking is `MN 43`, `SN 51.13`, `MN 70`, `Iti 44`,
+`SN 12.43`; the reasoning and two method corrections are in
+[next-suttas-roadmap.md](next-suttas-roadmap.md).
+
+The audit is now reproducible rather than hand-computed:
+
+```bash
+python scripts/audit_surface_leverage.py
+```
+
+`MN 43` leads because the emptiness / signless / wishless cluster is the only
+governed cluster with no running text behind a single one of its thirteen
+terms. Two items to settle first: five candidates have uncached root texts, so
+their lengths are unverified; and the enumeration-stub track is cheaper than
+anything in the ranking but belongs in formula records, not surfaces.
 
 ### 2. Promote the fourfold source question to a formula record
 
