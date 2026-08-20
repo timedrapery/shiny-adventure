@@ -393,7 +393,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 ---
 
-[← MN 44: Cūḷavedalla Sutta](mn44-culavedalla-sutta.md) · [All suttas](index.md) · [MN 11: Cūḷasīhanāda Sutta →](mn11-culasihanada-sutta.md)
+[← MN 43: Mahāvedalla Sutta](mn43-mahavedalla-sutta.md) · [All suttas](index.md) · [MN 11: Cūḷasīhanāda Sutta →](mn11-culasihanada-sutta.md)
 
 
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.

@@ -1,6 +1,6 @@
 # All Suttas
 
-All 42 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 43 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -25,6 +25,7 @@ All 42 translations, grouped by collection. If you would rather be guided, use [
 | MN 26 | [The Two Searches](mn26-pasarasi-sutta.md)<br><small>Pāsarāsi Sutta</small> | 1 | The Buddha's own account of leaving home, studying under two teachers, and finding them insufficient. |
 | MN 38 | [MN 38: Mahātaṇhāsaṅkhaya Sutta](mn38-mahatanhasankhaya-sutta.md) | 4 | A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. |
 | MN 39 | [MN 39: Mahā-Assapura Sutta](mn39-maha-assapura-sutta.md) | 3 | What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. |
+| MN 43 | [MN 43: Mahāvedalla Sutta](mn43-mahavedalla-sutta.md) | 5 | The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. |
 | MN 44 | [MN 44: Cūḷavedalla Sutta](mn44-culavedalla-sutta.md) | 5 | A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. |
 | MN 61 | [The Water Vessel](mn61-ambalatthikarahulovada-sutta.md)<br><small>Ambalaṭṭhikarāhulovāda Sutta</small> | 3 | The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. |
 | MN 63 | [The Man Struck by a Poisoned Arrow](mn63-culamalukya-sutta.md)<br><small>Cūḷamālukya Sutta</small> | 1 | Why the teaching refuses to answer certain metaphysical questions. |

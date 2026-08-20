@@ -77,6 +77,11 @@ Current MN 39 surfaces:
 - [mn39-maha-assapura-sutta.md](mn39-maha-assapura-sutta.md): main shareable translation text
 - [mn39-maha-assapura-sutta-notes.md](mn39-maha-assapura-sutta-notes.md): companion translator notes and rationale
 
+Current MN 43 surfaces:
+
+- [mn43-mahavedalla-sutta.md](mn43-mahavedalla-sutta.md): main shareable translation text
+- [mn43-mahavedalla-sutta-notes.md](mn43-mahavedalla-sutta-notes.md): companion translator notes and rationale
+
 Current MN 44 surfaces:
 
 - [mn44-culavedalla-sutta.md](mn44-culavedalla-sutta.md): main shareable translation text
