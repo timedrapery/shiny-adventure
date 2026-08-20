@@ -16,10 +16,17 @@
       "translation": "the sensual outflow",
       "notes": "Shows a named member of the āsava family.",
       "source": "DN 33"
+    },
+    {
+      "pali": "anuppanno vā kāmāsavo uppajjati",
+      "translation": "the unarisen outflow of sensuality arises",
+      "notes": "From the unwise-attention passage that opens MN 2.",
+      "source": "MN 2"
     }
   ],
   "sutta_references": [
-    "DN 33"
+    "DN 33",
+    "MN 2"
   ],
   "tags": [
     "core-doctrine",

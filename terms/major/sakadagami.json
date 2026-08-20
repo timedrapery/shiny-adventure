@@ -54,10 +54,17 @@
       "translation": "with the thinning of passion, aversion, and delusion, one becomes a once-returner",
       "notes": "Shows the condition that defines the once-returner.",
       "source": "AN 3.86"
+    },
+    {
+      "pali": "rāgadosamohānaṁ tanuttā sakadāgāmino",
+      "translation": "with the weakening of passion, aversion and delusion, they are once-returners",
+      "notes": "The attainment stated in the assembly description.",
+      "source": "MN 118"
     }
   ],
   "sutta_references": [
-    "AN 3.86"
+    "AN 3.86",
+    "MN 118"
   ],
   "tags": [
     "core-doctrine",

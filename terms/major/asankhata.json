@@ -59,11 +59,18 @@
       "translation": "the unconditioned",
       "notes": "Shows a standalone doctrinal use.",
       "source": "Ud 8.3"
+    },
+    {
+      "pali": "saṅkhato udāhu asaṅkhato",
+      "translation": "put together or not put together",
+      "notes": "The question asked of the noble eightfold path in MN 44.",
+      "source": "MN 44"
     }
   ],
   "sutta_references": [
-    "Ud 8.3",
-    "SN 43.1"
+    "MN 44",
+    "SN 43.1",
+    "Ud 8.3"
   ],
   "tags": [
     "core-doctrine",

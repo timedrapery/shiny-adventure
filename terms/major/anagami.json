@@ -58,10 +58,17 @@
       "translation": "with the wearing away of the five lower fetters",
       "notes": "Shows the condition that defines the non-returner in the same passage.",
       "source": "AN 3.86"
+    },
+    {
+      "pali": "sati vā upādisese anāgāmitā",
+      "translation": "or, if there is a remainder of clinging, the state of non-returning",
+      "notes": "The second of the two fruits promised for satipatthana practice.",
+      "source": "MN 10"
     }
   ],
   "sutta_references": [
-    "AN 3.86"
+    "AN 3.86",
+    "MN 10"
   ],
   "tags": [
     "core-doctrine",
