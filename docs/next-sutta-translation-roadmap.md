@@ -77,8 +77,27 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 7 is undrafted.** Drafting it is the next translation step; see
-below for what the Wave 6 experience says about how to run that audit.
+**Wave 7 is drafted.** Audited 2026-08-20; the full ranking and its two
+method corrections are in
+[next-suttas-roadmap.md](next-suttas-roadmap.md). Rerun it with
+`python scripts/audit_surface_leverage.py` rather than recomputing by hand.
+
+Order:
+
+1. `MN 43` -- the emptiness / signless / wishless cluster is the only governed
+   cluster with no running text behind any of its thirteen terms
+2. `SN 51.13` -- three orphan majors (`chanda`, `iddhipada`, `vimamsa`) in
+   242 Pali words
+3. `MN 70` -- `cetovimutti` and `pannavimutti`; touches three governed
+   clusters
+4. `Iti 44` -- the two nibbana elements; consummation cluster is 69% dark
+5. `SN 12.43` -- completes the `-samudaya` formula family in 183 words
+
+Two things to settle before drafting. Five candidates have uncached root texts
+so their lengths are unverified. And the enumeration-stub track --
+`SN 45.171` / `.172` / `.174` and `AN 7.11`, about 120 Pali words covering
+21 dark terms -- is cheaper than anything in the list above but should become
+formula records rather than translation surfaces.
 
 ### Wave 6: Ungoverned Major Families (complete)
 
