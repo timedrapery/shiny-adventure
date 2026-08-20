@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 41 translations in this collection, for someone new to this material.
+A suggested order for reading the 42 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -30,6 +30,7 @@ The core claim and the practical response to it, kept concrete.
 Practical method. This is where the material stops being about ideas and starts being about what you actually do.
 
 - [**Two Kinds of Thinking**](suttas/mn19-dvedhavitakka-sutta.md) (MN 19, Dvedhāvitakka Sutta) — Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.
+- [**The Water Vessel**](suttas/mn61-ambalatthikarahulovada-sutta.md) (MN 61, Ambalaṭṭhikarāhulovāda Sutta) — The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. From there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it.
 - [**MN 2: Sabbāsava Sutta**](suttas/mn2-sabbasava-sutta.md) — Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.
 - [**MN 118: Ānāpānasati Sutta**](suttas/mn118-anapanasati-sutta.md) — Structured breath-meditation instructions. The first text on this list that is a practice manual rather than a teaching about practice.
 - [**MN 10: Satipaṭṭhāna Sutta**](suttas/mn10-satipatthana-sutta.md) — The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.

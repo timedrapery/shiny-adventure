@@ -1,6 +1,6 @@
 # All Suttas
 
-All 41 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 42 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -26,6 +26,7 @@ All 41 translations, grouped by collection. If you would rather be guided, use [
 | MN 38 | [MN 38: Mahātaṇhāsaṅkhaya Sutta](mn38-mahatanhasankhaya-sutta.md) | 4 | A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. |
 | MN 39 | [MN 39: Mahā-Assapura Sutta](mn39-maha-assapura-sutta.md) | 3 | What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. |
 | MN 44 | [MN 44: Cūḷavedalla Sutta](mn44-culavedalla-sutta.md) | 5 | A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. |
+| MN 61 | [The Water Vessel](mn61-ambalatthikarahulovada-sutta.md)<br><small>Ambalaṭṭhikarāhulovāda Sutta</small> | 3 | The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. |
 | MN 63 | [The Man Struck by a Poisoned Arrow](mn63-culamalukya-sutta.md)<br><small>Cūḷamālukya Sutta</small> | 1 | Why the teaching refuses to answer certain metaphysical questions. |
 | MN 64 | [MN 64: Mahāmālukya Sutta](mn64-mahamalukya-sutta.md) | 5 | The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice. |
 | MN 99 | [MN 99: Subha Sutta](mn99-subha-sutta.md) | 5 | A dialogue defending renunciant life against a brahmin's claim that household life is better. |
