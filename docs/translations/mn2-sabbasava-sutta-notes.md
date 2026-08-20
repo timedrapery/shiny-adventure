@@ -66,7 +66,7 @@ source-audit calls, and edition notes that govern it.
 - The four-truth attention line stays aligned with the existing truth surfaces:
   dissatisfaction, origin, quenching, and path of practice leading to quenching.
 - The three fetters use existing governed labels: identity view, uncertain
-  distraction, and grasping at rules and observances.
+  distraction, and grasping at habits and observances.
 - The sense-faculty restraint passage keeps the repeated distress-and-fever
   logic rather than paraphrasing it away.
 - The requisites passage uses `felt experience` where the text names `vedanā`,

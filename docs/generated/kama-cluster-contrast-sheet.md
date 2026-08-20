@@ -4,7 +4,7 @@
 - `kāmacchanda`: `sensual distraction`
 - `kāmataṇhā`: `ignorant wanting for sensuality`
 - `kāma-rāga`: `passion for sensuality`
-- `kāmupādāna`: `sensual clinging`
+- `kāmupādāna`: `taking sensuality personally`
 
 ## Keep Distinct
 
@@ -12,7 +12,7 @@
 - `kāmacchanda` is sensuality functioning as distraction, not plain desire or wholesome motivation.
 - `kāmataṇhā` is ignorant wanting for sensuality, not just pleasure-seeking language.
 - `kāma-rāga` is passion for sensuality, not a synonym for lust by default.
-- `kāmupādāna` is sensual clinging, not merely attachment to pleasure.
+- `kāmupādāna` is taking sensuality personally, not merely attachment to pleasure.
 
 ## Explicit Sexual Narrowing
 

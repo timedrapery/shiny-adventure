@@ -3,33 +3,39 @@
   "normalized_term": "silabbatupadana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "clinging to rules and observances",
-  "preferred_translation": "clinging to rules and observances",
+  "literal_meaning": "taking habits and observances personally",
+  "preferred_translation": "taking habits and observances personally",
   "alternative_translations": [
-    "rule-and-observance clinging",
-    "appropriating rules and observances"
+    "clinging to habits and observances",
+    "appropriating habits and observances",
+    "habit-and-observance clinging"
   ],
   "discouraged_translations": [
     "discipline"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to rules, observances, or practices as self-sufficient or identity-supporting.",
-  "notes": "The project keeps clinging to rules and observances as the default because it aligns clearly with the corresponding fetter entry and makes the upādāna function explicit. The issue is not wholesome discipline itself, but appropriative fixation on forms and procedures. This term belongs to the four clinging types and should be read alongside sīlabbata-parāmāsa. The OSF glossary supports this by treating sīlabbatupādāna as a specific clinging mode rather than as discipline itself.",
+  "definition": "Appropriating habits, observances, or practices as self-sufficient or identity-supporting; the habit-and-observance member of the fourfold upādāna framework.",
+  "notes": "The project now keeps taking habits and observances personally as the default because it aligns the compound with the upādāna headword, whose compound context rule directs the four members of the family to carry the headword’s appropriative force. The issue is not wholesome discipline itself, but appropriative fixation on forms and procedures, which the appropriation reading makes explicit. Clinging to habits and observances remains the familiar comparative alternate and is still acceptable in source-facing or continuity-sensitive prose, including where continuity with the corresponding fetter entry sīlabbata-parāmāsa matters. This term belongs to the four clinging types and should be read alongside sīlabbata-parāmāsa. The OSF glossary supports this by treating sīlabbatupādāna as a specific appropriation mode rather than as discipline itself.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
-      "rendering": "clinging to rules and observances",
+      "rendering": "taking habits and observances personally",
       "notes": "Use this by default."
     },
     {
-      "context": "In compact doctrinal lists",
-      "rendering": "rule-and-observance clinging",
-      "notes": "Use this as a controlled alternate when brevity is needed."
+      "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "clinging to habits and observances",
+      "notes": "Use this as a controlled alternate when continuity matters more than maximizing explicit alignment with the headword, including alongside the fetter entry sīlabbata-parāmāsa."
     },
     {
       "context": "In explanatory prose emphasizing the upādāna aspect of taking hold",
-      "rendering": "appropriating rules and observances",
+      "rendering": "appropriating habits and observances",
       "notes": "Use when the repo's broader upādāna logic should remain audible."
+    },
+    {
+      "context": "In compressed doctrinal prose or list form",
+      "rendering": "habit-and-observance clinging",
+      "notes": "Allow this as a compact controlled alternate only when brevity is needed. Do not rotate it back into the house default."
     }
   ],
   "related_terms": [
@@ -43,7 +49,7 @@
   "example_phrases": [
     {
       "pali": "sīlabbatupādānaṃ",
-      "translation": "clinging to rules and observances",
+      "translation": "taking habits and observances personally",
       "notes": "Shows one member of the fourfold set.",
       "source": "MN 11"
     }
@@ -58,7 +64,7 @@
     "mental-qualities"
   ],
   "status": "reviewed",
-  "version_notes": "Promoted from a stub to a major entry and aligned with the corresponding fetter entry.",
+  "version_notes": "Harmonised with the upādāna headword and the rest of the fourfold family: the default moves from clinging to rules and observances to taking habits and observances personally. The clinging rendering is retained as the continuity alternate, and the sīlabbata stem now renders as habits and observances across every record that carries it.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -68,9 +74,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'clinging to rules and observances' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
+    "default_scope": "Use 'taking habits and observances personally' as the default rendering in the fourfold upādāna framework unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clinging to habits and observances' only when continuity-sensitive prose or source-facing expectations make it the clearer choice. Do not reduce the term to discipline.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift back toward 'discipline' or other unrecorded alternates."
+    "drift_risk": "Prevents drift back toward 'discipline', and keeps the compound aligned with the upādāna family rather than with plain rule-language."
   }
 }

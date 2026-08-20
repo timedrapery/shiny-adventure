@@ -12,7 +12,7 @@
   `orambhāgiya-saṃyojana` is rendered `lower fetter`; `anusaya` is rendered
   `underlying tendency`; `sakkāyadiṭṭhi` is rendered `identity view`;
   `vicikicchā` is rendered `uncertain distraction`; `sīlabbata-parāmāsa` is
-  rendered `grasping at rules and observances`; `kāmacchanda` is rendered
+  rendered `grasping at habits and observances`; `kāmacchanda` is rendered
   `sensual distraction`; `kāma-rāga` is rendered `passion for sensuality`;
   `byāpāda` is rendered `aversive distraction`; `jhāna` is rendered `mental
   theme`; `viññāṇa` is rendered `knowing`; `amata` is rendered `deathless`;
@@ -56,8 +56,8 @@ When this was said, Venerable Mālukyaputta said to the Buddha:
 
 I remember uncertain distraction as a lower fetter taught by the Buddha.
 
-I remember grasping at rules and observances as a lower fetter taught by the
-Buddha.
+I remember grasping at habits and observances as a lower fetter taught by
+the Buddha.
 
 I remember sensual distraction as a lower fetter taught by the Buddha.
 
@@ -84,9 +84,9 @@ could uncertain distraction about dhammas arise in that child?
 Yet the underlying tendency toward doubt lies underneath.
 
 A young, tender infant lying on its back does not even have rules. So how
-could grasping at rules and observances arise in that child?
+could grasping at habits and observances arise in that child?
 
-Yet the underlying tendency toward grasping at rules and observances lies
+Yet the underlying tendency toward grasping at habits and observances lies
 underneath.
 
 A young, tender infant lying on its back does not even have sensualities. So
@@ -134,11 +134,11 @@ When uncertain distraction has arisen, that person does not discern its escape
 as it has come to be. For that person, uncertain distraction is firmly
 established, not brought under training, a lower fetter.
 
-That person lives with a feeling mind overwhelmed by grasping at rules and
-observances, possessed by grasping at rules and observances.
+That person lives with a feeling mind overwhelmed by grasping at habits and
+observances, possessed by grasping at habits and observances.
 
-When grasping at rules and observances has arisen, that person does not
-discern its escape as it has come to be. For that person, grasping at rules
+When grasping at habits and observances has arisen, that person does not
+discern its escape as it has come to be. For that person, grasping at habits
 and observances is firmly established, not brought under training, a lower
 fetter.
 
@@ -176,10 +176,10 @@ has come to be. For that disciple, uncertain distraction is abandoned together
 with its underlying tendency.
 
 That disciple does not live with a feeling mind overwhelmed by grasping at
-rules and observances, or possessed by grasping at rules and observances.
+habits and observances, or possessed by grasping at habits and observances.
 
-When grasping at rules and observances has arisen, that disciple discerns its
-escape as it has come to be. For that disciple, grasping at rules and
+When grasping at habits and observances has arisen, that disciple discerns
+its escape as it has come to be. For that disciple, grasping at habits and
 observances is abandoned together with its underlying tendency.
 
 That disciple does not live with a feeling mind overwhelmed by passion for

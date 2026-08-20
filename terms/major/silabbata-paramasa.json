@@ -3,33 +3,33 @@
   "normalized_term": "silabbata-paramasa",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "grasping at rules and observances",
-  "preferred_translation": "grasping at rules and observances",
+  "literal_meaning": "grasping at habits and observances",
+  "preferred_translation": "grasping at habits and observances",
   "alternative_translations": [
-    "attachment to rules and observances",
+    "attachment to habits and observances",
     "ritualized rule-clinging"
   ],
   "discouraged_translations": [
     "discipline"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to rules, practices, or observances as ends in themselves or as sufficient for liberation.",
-  "notes": "The project keeps grasping at rules and observances as the default because it states the practical problem directly. The issue is not ethical conduct itself, which the repository already treats positively under sīla, but the mistaken holding that external practices or procedures are liberating in themselves. This is one of the fetters abandoned by the stream-enterer and should not be flattened into a rejection of discipline as such. The OSF glossary confirms grasping at rules and observances as the house default and preserves attachment to rules and observances as an explanatory alternate.",
+  "definition": "Clinging to habits, practices, or observances as ends in themselves or as sufficient for liberation.",
+  "notes": "The project keeps grasping at habits and observances as the default because it states the practical problem directly. The issue is not ethical conduct itself, which the repository already treats positively under sīla, but the mistaken holding that external practices or procedures are liberating in themselves. This is one of the fetters abandoned by the stream-enterer and should not be flattened into a rejection of discipline as such. The OSF glossary confirms grasping at habits and observances as the house default and preserves attachment to habits and observances as an explanatory alternate.",
   "context_rules": [
     {
       "context": "In fetter lists and stream-entry analysis",
-      "rendering": "grasping at rules and observances",
+      "rendering": "grasping at habits and observances",
       "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose emphasizing the holding or attachment side",
-      "rendering": "attachment to rules and observances",
+      "rendering": "attachment to habits and observances",
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
       "context": "When clarifying the difference between wholesome discipline and liberating misunderstanding",
-      "rendering": "grasping at rules and observances",
-      "notes": "Keep the critical point on grasping, not on rules as such."
+      "rendering": "grasping at habits and observances",
+      "notes": "Keep the critical point on grasping, not on habits as such."
     }
   ],
   "related_terms": [
@@ -45,13 +45,13 @@
   "example_phrases": [
     {
       "pali": "sīlabbataparāmāso pahīno hoti",
-      "translation": "grasping at rules and observances is abandoned",
+      "translation": "grasping at habits and observances is abandoned",
       "notes": "Liberation-stage usage.",
       "source": "MN 118"
     },
     {
       "pali": "na sīlabbatena suddhi",
-      "translation": "there is no purification merely by rules and observances",
+      "translation": "there is no purification merely by habits and observances",
       "notes": "Captures the practical doctrinal point of the term.",
       "source": "MN 44"
     }
@@ -67,17 +67,17 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry that distinguishes wholesome discipline from grasping at forms of discipline.",
+  "version_notes": "Promoted from a thin minor entry to a rule-bearing major entry that distinguishes wholesome discipline from grasping at forms of discipline. The sīlabbata stem was later moved from rules and observances to habits and observances, keeping this entry aligned with sīlabbatupādāna.",
   "authority_basis": [
     {
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping grasping at rules and observances as the house default in stream-entry and fetter analysis, with the attachment phrasing retained as an explanatory alternate."
+      "scope": "Supports keeping grasping at habits and observances as the house default in stream-entry and fetter analysis, with the attachment phrasing retained as an explanatory alternate."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'grasping at rules and observances' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'grasping at habits and observances' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents drift back toward 'discipline' or other unrecorded alternates."

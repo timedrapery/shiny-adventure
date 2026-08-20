@@ -316,9 +316,9 @@ What is taking personally?
 
 There are these four ways of taking personally:
 
-- sensual clinging
+- taking sensuality personally
 - taking views personally
-- clinging to rules and observances
+- taking habits and observances personally
 - taking self-doctrine personally
 
 This is called taking personally.

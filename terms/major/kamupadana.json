@@ -3,24 +3,30 @@
   "normalized_term": "kamupadana",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "sensual clinging",
-  "preferred_translation": "sensual clinging",
+  "literal_meaning": "taking sensuality personally",
+  "preferred_translation": "taking sensuality personally",
   "alternative_translations": [
+    "clinging to sensuality",
     "sensual appropriation",
-    "taking sensuality personally"
+    "sensual clinging"
   ],
   "discouraged_translations": [
     "attachment to pleasure",
     "sexual attachment"
   ],
   "untranslated_preferred": false,
-  "definition": "Clinging to sensuality and sensual pleasures as something to possess, pursue, or identify with.",
-  "notes": "The project keeps sensual clinging as the default because it aligns cleanly with the existing house handling of upādāna while staying readable. Sensual appropriation is useful in explanatory prose when the taking-hold side needs emphasis. In this repository, kāmupādāna should stay tied to the broader sensuality field rather than drifting into mere pleasure-language or narrow sexualized English. It belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising. The OSF glossary supports this by treating kāmupādāna as a specific clinging mode within the fourfold upādāna analysis, and MN 11 supports the framework use.",
+  "definition": "Appropriating sensuality and sensual pleasures as something to possess, pursue, or identify with; the sensuality-member of the fourfold upādāna framework.",
+  "notes": "The project now keeps taking sensuality personally as the default because it aligns the compound with the upādāna headword, whose compound context rule directs kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, and attavādupādāna to carry the headword’s appropriative force. The practical point is preserved: not merely enjoying sensuality, but appropriating it into I and mine. Clinging to sensuality remains the familiar comparative alternate and is still acceptable in source-facing or continuity-sensitive prose. Sensual appropriation is the explanatory alternate when the taking-hold side needs emphasis, and sensual clinging is retained as a compact alternate for list form. In this repository, kāmupādāna should stay tied to the broader sensuality field rather than drifting into mere pleasure-language or narrow sexualized English. It belongs to the fourfold clinging framework and should be linked directly to taṇhā, kāmataṇhā, and dependent arising. The OSF glossary supports this by treating kāmupādāna as a specific appropriation mode within the fourfold upādāna analysis, and MN 11 supports the framework use.",
   "context_rules": [
     {
       "context": "In the four clinging-types framework",
-      "rendering": "sensual clinging",
+      "rendering": "taking sensuality personally",
       "notes": "Use this by default."
+    },
+    {
+      "context": "In source-facing or continuity-sensitive doctrinal prose using more familiar Buddhist-English terminology",
+      "rendering": "clinging to sensuality",
+      "notes": "Use this as a controlled alternate when continuity matters more than maximizing explicit alignment with the headword."
     },
     {
       "context": "In explanatory prose emphasizing the appropriating movement",
@@ -28,9 +34,9 @@
       "notes": "Use this as a controlled alternate when clinging sounds too static."
     },
     {
-      "context": "In practical explanation using the repo's upādāna language",
-      "rendering": "taking sensuality personally",
-      "notes": "Use selectively for close continuity with the headword upādāna."
+      "context": "In compressed doctrinal prose or list form",
+      "rendering": "sensual clinging",
+      "notes": "Allow this as a compact controlled alternate only when the context clearly supports it. Do not rotate it back into the house default."
     }
   ],
   "related_terms": [
@@ -51,7 +57,7 @@
     },
     {
       "pali": "kāmupādānaṃ",
-      "translation": "sensual clinging",
+      "translation": "taking sensuality personally",
       "notes": "Shows one member of the fourfold set.",
       "source": "MN 11"
     }
@@ -67,7 +73,7 @@
     "translation-sensitive"
   ],
   "status": "stable",
-  "version_notes": "Sharpened to keep the compound tied to sensuality rather than generic pleasure-language or narrow sexualized English.",
+  "version_notes": "Harmonised with the upādāna headword and the rest of the fourfold family: the default moves from sensual clinging to taking sensuality personally, with the former retained as a compact controlled alternate.",
   "authority_basis": [
     {
       "source": "OSF glossary",
@@ -82,9 +88,9 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'sensual clinging' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use the alternates only when the local line needs to emphasize appropriation more explicitly. Do not collapse the term into pleasure-language or sexualized English by default.",
+    "default_scope": "Use 'taking sensuality personally' as the default rendering in the fourfold upādāna framework unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'clinging to sensuality' only when continuity-sensitive prose or source-facing expectations make it the clearer choice. Do not collapse the term into pleasure-language or sexualized English by default.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents drift between the sensuality headword kāma, the appropriative headword upādāna, and weaker pleasure-language."
+    "drift_risk": "Prevents drift between the sensuality headword kāma, the appropriative headword upādāna, weaker pleasure-language, and the compact clinging alternate."
   }
 }

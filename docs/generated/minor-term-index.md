@@ -816,7 +816,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sikkha](../../terms/minor/sikkha.json) | sikkhā | training | reviewed | core-practice |
 | [sikkhapada](../../terms/minor/sikkhapada.json) | sikkhāpada | training rule | reviewed | ethics, core-practice |
 | [sila-dhana](../../terms/minor/sila-dhana.json) | sila-dhana | wealth of virtue | reviewed | ethics, core-practice |
-| [silabbata-paramasa-kayagantha](../../terms/minor/silabbata-paramasa-kayagantha.json) | sīlabbata-parāmāsa kāyagantha | bodily knot of grasping at rules and observances | stable | core-doctrine, mental-qualities, bondage-imagery |
+| [silabbata-paramasa-kayagantha](../../terms/minor/silabbata-paramasa-kayagantha.json) | sīlabbata-parāmāsa kāyagantha | bodily knot of grasping at habits and observances | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [silanussati](../../terms/minor/silanussati.json) | sīlānussati | recollection of conduct | reviewed | core-practice |
 | [singhanika](../../terms/minor/singhanika.json) | singhanika | nasal mucus | reviewed | embodiment, meditative-development |
 | [sn36-6-feelings-discerned-response](../../terms/minor/sn36-6-feelings-discerned-response.json) | so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti | they discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, sense-fields, translation-sensitive |

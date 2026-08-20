@@ -38,7 +38,7 @@ class KamaPolicyTests(unittest.TestCase):
 
         self.assertEqual(kama_tanha["preferred_translation"], "ignorant wanting for sensuality")
         self.assertEqual(kama_raga["preferred_translation"], "passion for sensuality")
-        self.assertEqual(kamupadana["preferred_translation"], "sensual clinging")
+        self.assertEqual(kamupadana["preferred_translation"], "taking sensuality personally")
         self.assertIn("sexual desire", kama_tanha["discouraged_translations"])
         self.assertIn("sexual desire", kama_raga["discouraged_translations"])
         self.assertIn("attachment to pleasure", kamupadana["discouraged_translations"])

@@ -19,7 +19,7 @@ The terms in this zone are not interchangeable with:
 | `kāmacchanda` | `sensual distraction` | desire for sensuality functioning as a hindrance | plain `chanda`, `interest`, `pleasant feeling` |
 | `kāmataṇhā` | `ignorant wanting for sensuality` | taṇhā directed toward sensuality | generic `desire`, sexual appetite |
 | `kāma-rāga` | `passion for sensuality` | rāga directed toward sensuality | generic wanting, pleasure, lust |
-| `kāmupādāna` | `sensual clinging` | upādāna directed toward sensuality | attachment to pleasure |
+| `kāmupādāna` | `taking sensuality personally` | upādāna directed toward sensuality | attachment to pleasure |
 
 ## Headword Guardrail
 
