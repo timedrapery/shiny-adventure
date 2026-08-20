@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (41 total)
+## Completed Surfaces (42 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -53,6 +53,13 @@ Use that full roadmap as the source of truth for:
 - `AN 6.63` Nibbedhika Sutta (The Penetrating Exposition)
 - `SN 12.61` Assutavā Sutta (The Body and the Mind)
 - `MN 11` Cūḷasīhanāda Sutta (The Shorter Lion's Roar)
+
+### Outside the Wave Sequence
+- `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
+  requested directly rather than drawn from a wave audit. Control surface for
+  the threefold before/during/after reflection formula on bodily, verbal, and
+  mental action, and for the water-vessel and war-elephant similes. Reader
+  placement is set 3.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta

@@ -3,15 +3,48 @@
   "normalized_term": "somanassa",
   "entry_type": "minor",
   "part_of_speech": "noun",
+  "literal_meaning": "mental gladness, felt pleasure of mind",
   "preferred_translation": "gladness",
-  "definition": "Pleasant feeling or gladness on the mental side, contrasted with distress.",
-  "status": "reviewed",
-  "literal_meaning": "good-mindedness, gladness",
-  "tags": [
-    "mental-qualities"
+  "alternative_translations": [
+    "mental gladness",
+    "joy"
+  ],
+  "discouraged_translations": [
+    "happiness",
+    "bliss"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The pleasant feeling-tone of mind; the mental component of gladness, paired with pāmojja in practice sequences and with the simile formulas for hindrance abandonment.",
+  "notes": "The project keeps gladness as the default because it is the simplest plain-English name for the pleasant feeling-side of mind without importing the cultivated-activity sense that pāmojja carries. Somanassa should stay distinct from pāmojja: pāmojja is the actively cultivated gladness, while somanassa is the pleasant feeling-tone that accompanies it. In the hindrance-simile formulas of MN 39 (labhetha pāmojjaṁ adhigaccheyya somanassaṁ), the pair is rendered gaining an actively happy state and arriving at gladness. The term should also stay distinct from pīti (rejoicing) and sukha (satisfaction), though all three can arise together in wholesome states.",
+  "context_rules": [
+    {
+      "context": "In simile formulas paired with pāmojja",
+      "rendering": "gladness",
+      "notes": "Use this by default to keep somanassa distinct from pāmojja's active-cultivation sense."
+    }
   ],
   "related_terms": [
+    "domanassa",
     "pamojja",
-    "piti"
-  ]
+    "piti",
+    "sukha",
+    "vedana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "labhetha pāmojjaṃ adhigaccheyya somanassaṃ",
+      "translation": "they would gain an actively happy state and arrive at gladness",
+      "notes": "Shows the paired formula in the hindrance-simile sequence.",
+      "source": "MN 39"
+    }
+  ],
+  "sutta_references": [
+    "MN 39",
+    "SN 12.23"
+  ],
+  "tags": [
+    "mental-qualities",
+    "core-practice"
+  ],
+  "status": "reviewed"
 }
