@@ -119,5 +119,68 @@ class ReportTests(unittest.TestCase):
         self.assertEqual(report["summary"]["sources"], 0)
 
 
+class RangeBundleTests(unittest.TestCase):
+    """SuttaCentral bundles peyyala vaggas, so a per-sutta URL can 404.
+
+    Before this fallback existed those citations were recorded as `unfetched`,
+    a verdict that neither passes nor fails and so read like a pass.
+    """
+
+    LISTING = [
+        "sn50.1-12_root-pli-ms.json",
+        "sn50.13-22_root-pli-ms.json",
+        "sn50.23-34_root-pli-ms.json",
+    ]
+
+    def test_first_sutta_of_a_bundle_resolves(self) -> None:
+        self.assertEqual(
+            verify.find_range_file(self.LISTING, "sn50", 1),
+            "sn50.1-12_root-pli-ms.json",
+        )
+
+    def test_interior_and_boundary_numbers_resolve(self) -> None:
+        self.assertEqual(
+            verify.find_range_file(self.LISTING, "sn50", 12),
+            "sn50.1-12_root-pli-ms.json",
+        )
+        self.assertEqual(
+            verify.find_range_file(self.LISTING, "sn50", 13),
+            "sn50.13-22_root-pli-ms.json",
+        )
+        self.assertEqual(
+            verify.find_range_file(self.LISTING, "sn50", 30),
+            "sn50.23-34_root-pli-ms.json",
+        )
+
+    def test_number_outside_every_range_returns_none(self) -> None:
+        self.assertIsNone(verify.find_range_file(self.LISTING, "sn50", 99))
+
+    def test_other_vagga_ranges_are_not_borrowed(self) -> None:
+        """A range file for sn49 must never satisfy an sn50 citation."""
+        listing = ["sn49.1-12_root-pli-ms.json"]
+
+        self.assertIsNone(verify.find_range_file(listing, "sn50", 1))
+
+    def test_plain_per_sutta_files_are_ignored_as_ranges(self) -> None:
+        listing = ["sn50.13_root-pli-ms.json"]
+
+        self.assertIsNone(verify.find_range_file(listing, "sn50", 13))
+
+    def test_range_split_only_applies_to_numbered_sn_and_an(self) -> None:
+        self.assertEqual(verify.range_candidates("SN 50.1"), ("sn50", 1))
+        self.assertEqual(verify.range_candidates("AN 2.9"), ("an2", 9))
+        self.assertIsNone(verify.range_candidates("MN 43"))
+        self.assertIsNone(verify.range_candidates("Dhp 21"))
+        self.assertIsNone(verify.range_candidates("nonsense"))
+
+    def test_listing_failure_degrades_quietly(self) -> None:
+        """A directory listing that cannot be reached must not raise; the
+        citation simply stays unresolved as it did before."""
+        with tempfile.TemporaryDirectory() as tmp:
+            names = verify.list_directory("zz999", Path(tmp), timeout=5)
+
+        self.assertEqual(names, [])
+
+
 if __name__ == "__main__":
     unittest.main()

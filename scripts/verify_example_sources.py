@@ -117,6 +117,96 @@ def fetch(url: str, cache_dir: Path, timeout: int = 60) -> str | None:
     return body
 
 
+GITHUB_CONTENTS_API = (
+    "https://api.github.com/repos/suttacentral/sc-data/contents/"
+    "sc_bilara_data/root/pli/ms/sutta"
+)
+RANGE_FILE_RE = re.compile(r"^([a-z]+\d+)\.(\d+)-(\d+)_root-pli-ms\.json$")
+
+
+def range_candidates(citation: str) -> tuple[str, int] | None:
+    """Split a citation into its directory stem and sutta number.
+
+    Returns None for collections that are not bundled this way.
+    """
+    match = CITE_RE.match(citation.strip())
+    if not match:
+        return None
+    collection, major, minor = match.group(1), match.group(2), match.group(3)
+    if collection not in {"SN", "AN"} or not minor:
+        return None
+    low = collection.lower()
+    return f"{low}{major}", int(minor)
+
+
+def list_directory(stem: str, cache_dir: Path, timeout: int = 60) -> list[str]:
+    """Filenames in a vagga directory, cached on disk.
+
+    Uses the GitHub contents API because raw.githubusercontent serves files
+    but not listings. One request per directory, cached, and a failure here
+    degrades to the previous behaviour rather than raising.
+    """
+    collection = stem.rstrip("0123456789")
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cached = cache_dir / f"_listing_{stem}.json"
+    if cached.exists():
+        try:
+            return json.loads(cached.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            pass
+    url = f"{GITHUB_CONTENTS_API}/{collection}/{stem}"
+    request = urllib.request.Request(url, headers={"User-Agent": "shiny-adventure"})
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError,
+            json.JSONDecodeError):
+        return []
+    names = [str(entry.get("name", "")) for entry in payload]
+    cached.write_text(json.dumps(names, ensure_ascii=False), encoding="utf-8")
+    return names
+
+
+def find_range_file(names: list[str], stem: str, number: int) -> str | None:
+    """The bundled filename whose range covers `number`, if any.
+
+    SuttaCentral bundles peyyala vaggas as e.g. sn50.1-12_root-pli-ms.json,
+    so SN 50.1 has no file of its own and a per-sutta URL 404s.
+    """
+    for name in names:
+        match = RANGE_FILE_RE.match(name)
+        if not match:
+            continue
+        if match.group(1) != stem:
+            continue
+        if int(match.group(2)) <= number <= int(match.group(3)):
+            return name
+    return None
+
+
+def resolve_source(citation: str, cache_dir: Path) -> str | None:
+    """Fetch a citation's root text, falling back to its range bundle.
+
+    Returns the body, or None when the text cannot be reached at all.
+    """
+    url = source_url(citation)
+    if url is None:
+        return None
+    body = fetch(url, cache_dir)
+    if body is not None:
+        return body
+
+    split = range_candidates(citation)
+    if split is None:
+        return None
+    stem, number = split
+    name = find_range_file(list_directory(stem, cache_dir), stem, number)
+    if name is None:
+        return None
+    collection = stem.rstrip("0123456789")
+    return fetch(f"{BILARA_ROOT}/{collection}/{stem}/{name}", cache_dir)
+
+
 def source_text(body: str) -> tuple[str, bool]:
     """Return the normalized root text and whether it uses peyyala elision."""
     try:
@@ -233,7 +323,7 @@ def build_report(
             findings.append(row)
             continue
         if citation not in texts:
-            body = fetch(url, cache_dir)
+            body = resolve_source(citation, cache_dir)
             texts[citation] = source_text(body) if body else None
         entry = texts[citation]
         if entry is None:

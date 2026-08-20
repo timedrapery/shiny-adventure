@@ -214,15 +214,26 @@ Run `python scripts/verify_example_sources.py` after any pass that adds or
 edits `example_phrases`. It is opt-in rather than part of `run_checks.py`
 because it needs network access.
 
-The sweep currently reports zero `absent`. It also reports 11 `partial` and
-147 `inflected`, and neither is reliably an error: `partial` is usually the
-right sutta quoted with slightly wrong wording, and `inflected` is ordinary
-lemma citation. Worth a pass eventually; not defects.
+The sweep currently reports zero `absent` and zero `unfetched`. It also
+reports 11 `partial` and 149 `inflected`, and neither is reliably an error:
+`partial` is usually the right sutta quoted with slightly wrong wording, and
+`inflected` is ordinary lemma citation. Worth a pass eventually; not defects.
 
 One known blind spot: a root text that uses peyyala anywhere makes every
 unmatched phrase in it `inconclusive`, even when the elision has nothing to do
 with the phrase. That is what initially hid three of the SN 55.5 errors, which
 were caught by hand instead. Do not read `inconclusive` as `fine`.
+
+A second blind spot of the same shape was closed on 2026-08-20. SuttaCentral
+bundles peyyala vaggas into range files such as `sn50.1-12`, so a per-sutta
+URL 404s and the citation was recorded as `unfetched` -- a verdict that
+neither fails nor passes. Ten citations across five suttas sat there
+unverified. `resolve_source` now falls back to the range bundle, and all ten
+resolved without turning up a single wrong citation.
+
+One gap is still open: `Dhp`, `Ud`, `Iti`, `Snp`, `Thag`, `Thig`, and `KN`
+are in the `UNSUPPORTED` set, so 27 citations are never checked at all. If a
+verse citation is wrong, nothing in the repository would notice.
 
 ## Concrete Next Tasks
 
