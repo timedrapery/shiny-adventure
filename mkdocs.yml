@@ -38,6 +38,13 @@ markdown_extensions:
 # page meant a term could only ever carry one note across the whole site, even
 # where the same English word does different work in different suttas.
 # includes/glossary.md remains the hand-written reader-voice source.
+
+# Makes Pali searchable without a Pali keyboard: adds ASCII spellings of
+# accented words to the search index only, so "nibbana" finds "nibbāna".
+# Touches nothing a reader sees on the page. See scripts/mkdocs_hooks.py.
+hooks:
+  - scripts/mkdocs_hooks.py
+
 watch:
   - includes
 
