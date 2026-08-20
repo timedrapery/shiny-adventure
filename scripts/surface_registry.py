@@ -116,6 +116,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn44-culavedalla-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn61",
+        label="MN 61",
+        main_relpath="docs/translations/mn61-ambalatthikarahulovada-sutta.md",
+        notes_relpath="docs/translations/mn61-ambalatthikarahulovada-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn63",
         label="MN 63",
         main_relpath="docs/translations/mn63-culamalukya-sutta.md",
@@ -432,41 +438,50 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "simplest possible entry point into mind-training.",
         reader_title="Two Kinds of Thinking",
     ),
+    "mn61": ReaderMeta(
+        "Ambalaṭṭhikarāhulovāda Sutta", 3, 2,
+        "The Buddha teaches his own son Rāhula, using a water vessel emptied "
+        "and turned upside down, then a war elephant, to make the case that "
+        "someone who feels no shame lying has nothing left to hold them back. "
+        "From there: a nine-part checklist for examining any action of body, "
+        "speech, or mind before, during, and after doing it.",
+        reader_title="The Water Vessel",
+    ),
     "mn2": ReaderMeta(
-        "Sabbāsava Sutta", 3, 2,
+        "Sabbāsava Sutta", 3, 3,
         "Seven concrete methods for handling what erodes the mind: restraint, "
         "use, endurance, avoidance, removal, development. A toolkit, not a "
         "theory.",
     ),
     "mn118": ReaderMeta(
-        "Ānāpānasati Sutta", 3, 3,
+        "Ānāpānasati Sutta", 3, 4,
         "Structured breath-meditation instructions. The first text on this "
         "list that is a practice manual rather than a teaching about practice.",
     ),
     "mn10": ReaderMeta(
-        "Satipaṭṭhāna Sutta", 3, 4,
+        "Satipaṭṭhāna Sutta", 3, 5,
         "The four foundations of remembering, and the longest, densest text so "
         "far. Not really a one-sitting read: it is the reference manual for "
         "the pieces above, worth returning to rather than finishing.",
     ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 5,
+        "Sāmaññaphala Sutta", 3, 6,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 6,
+        "Girimānanda Sutta", 3, 7,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 7,
+        "Mahā-Assapura Sutta", 3, 8,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 8,
+        "Āhāra Sutta", 3, 9,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
     ),

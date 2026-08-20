@@ -282,7 +282,7 @@ Buddha had said.
 
 ---
 
-[← Think Like a Thoroughbred](an11-9-saddha-sutta.md) · [All suttas](index.md) · [MN 2: Sabbāsava Sutta →](mn2-sabbasava-sutta.md)
+[← Think Like a Thoroughbred](an11-9-saddha-sutta.md) · [All suttas](index.md) · [The Water Vessel →](mn61-ambalatthikarahulovada-sutta.md)
 
 
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."

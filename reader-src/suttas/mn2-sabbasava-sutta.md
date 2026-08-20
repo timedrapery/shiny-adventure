@@ -373,7 +373,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 
 ---
 
-[← Two Kinds of Thinking](mn19-dvedhavitakka-sutta.md) · [All suttas](index.md) · [MN 118: Ānāpānasati Sutta →](mn118-anapanasati-sutta.md)
+[← The Water Vessel](mn61-ambalatthikarahulovada-sutta.md) · [All suttas](index.md) · [MN 118: Ānāpānasati Sutta →](mn118-anapanasati-sutta.md)
 
 
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
