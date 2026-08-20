@@ -128,6 +128,19 @@ process, five heaps, four noble truths, and sense-fields.
 - Likely lexicon pressure: confirm whether the three headwords survive contact
   with a text where they are the subject, and write `sutta_references` for the
   ten supporting compounds.
+- Status: translated 2026-08-20. See
+  [MN 43](translations/mn43-mahavedalla-sutta.md) and its
+  [translation notes](translations/mn43-mahavedalla-sutta-notes.md). The
+  cluster moved from 13/13 dark to 11/13: `animitta` and `appanihita` are now
+  anchored, and `sunnata` still is not, exactly as predicted. The remaining
+  eleven dark terms are the single `sunnata` orphan plus the ten uncited
+  supporting compounds, which need citations written rather than another
+  translation.
+
+  The pass also turned up a split in the threefold `sankhara` triad --
+  `vacisankhara` defaulted to `verbal process` while its two siblings used
+  `conditioner` -- and harmonised it before drafting, so the split was not
+  propagated to a second surface.
 
 ### 2. SN 51.13: Chandasamādhi Sutta
 

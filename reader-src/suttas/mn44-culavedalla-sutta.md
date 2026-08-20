@@ -466,7 +466,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 ---
 
-[← MN 9: Sammādiṭṭhi Sutta](mn9-sammaditthi-sutta.md) · [All suttas](index.md) · [MN 64: Mahāmālukya Sutta →](mn64-mahamalukya-sutta.md)
+[← MN 9: Sammādiṭṭhi Sutta](mn9-sammaditthi-sutta.md) · [All suttas](index.md) · [MN 43: Mahāvedalla Sutta →](mn43-mahavedalla-sutta.md)
 
 
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
