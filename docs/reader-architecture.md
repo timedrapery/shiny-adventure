@@ -46,9 +46,10 @@ python scripts/generate_reader.py --write
 from the governed corpus fails the build. It is deterministic and idempotent:
 running `--write` twice produces no second change.
 
-It owns 45 files: the home page, Start Here, the All Suttas index, the
-glossary page, 41 sutta pages, and the generated navigation block in
-`mkdocs.yml`.
+It owns one file per registered surface plus four collection pages and the
+generated navigation block in `mkdocs.yml`: the home page, Start Here, the All
+Suttas index, and the glossary page. The count follows the registry, so it is
+not restated here.
 
 Everything it needs comes from two places — the governed surface named in the
 registry, and the reader metadata in the registry itself.

@@ -16,11 +16,11 @@ Read it before touching a translation surface or extending the audit.
 
 ## Current State
 
-The rollout is complete across all 41 translation surfaces and all 5 reader
-pages.
+The rollout is complete across every registered translation surface and every
+reader page. Counts are not restated here; they follow the registry.
 
-- 41 of 41 surfaces carry no undocumented register signals.
-- 41 of 41 reader pages are generated from their governed surfaces, enforced
+- Every registered surface carries no undocumented register signals.
+- Every reader page is generated from its governed surface, enforced
   by `scripts/generate_reader.py --check` inside `run_checks.py`. The audit
   scans the canonical surfaces only; auditing the generated copies as well
   would double-count every finding.
@@ -129,9 +129,9 @@ python scripts/generate_reader.py --write
 
 ## Surfaces Completed
 
-All 41. The five Wave 6 surfaces (SN 12.11, SN 55.5, AN 6.63, SN 12.61, MN 11)
-were written to the standard from the start and needed no retrofit, which is
-the intended pattern for everything new.
+All of them. The five Wave 6 surfaces (SN 12.11, SN 55.5, AN 6.63, SN 12.61,
+MN 11) and MN 61 were written to the standard from the start and needed no
+retrofit, which is the intended pattern for everything new.
 
 Note that AN 10.60 exists as two files, an ASCII-named one and a Unicode-named
 one that is allowlisted in `scripts/check_docs_integrity.py`. Both need the

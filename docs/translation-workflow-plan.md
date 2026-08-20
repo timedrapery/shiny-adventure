@@ -52,9 +52,10 @@ python -m pip install -r requirements-dev.txt
 
 ## State As Of 2026-08-19
 
-- 41 governed translation surfaces, Waves 1 through 6 complete.
-- 41 reader pages, one per surface, all generated. 10 carry hand-written
-  reader introductions.
+- 42 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
+  which was requested directly rather than drawn from a wave audit.
+- 42 reader pages, one per surface, all generated. 11 carry hand-written
+  reader introductions. The reader also publishes a downloadable EPUB.
 - 1,148 term records. `repo_health.py` reports no open backlog in any section.
 - Register audit: 8 signals, all documented exceptions in the rollout plan.
 - Citation sweep: 400 ok, 0 absent.
