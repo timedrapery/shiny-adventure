@@ -14,11 +14,20 @@
   "untranslated_preferred": false,
   "definition": "The teaching and discipline taken together as the Buddha's dispensation.",
   "sutta_references": [
+    "DN 2",
     "MN 108"
   ],
   "tags": [
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "imaṁ dhammavinayaṁ ājānāsi",
+      "translation": "you understand this dhamma and discipline",
+      "notes": "From the quarrelling-teachers passage.",
+      "source": "DN 2"
+    }
+  ]
 }

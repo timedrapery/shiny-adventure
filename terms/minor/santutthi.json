@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "Contentment with little and ease with simple supports.",
   "sutta_references": [
-    "AN 4.27"
+    "AN 4.27",
+    "DN 2"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "ghāsacchādanaparamatāya santuṭṭho",
+      "translation": "content with a minimum of food and clothing",
+      "notes": "The contentment described for one gone forth.",
+      "source": "DN 2"
+    }
+  ]
 }

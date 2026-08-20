@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "False speech, classically prohibited in ethical training.",
   "sutta_references": [
-    "AN 8.39"
+    "AN 8.39",
+    "DN 2"
   ],
   "tags": [
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "Musāvādaṁ pahāya musāvādā paṭivirato hoti",
+      "translation": "having abandoned false speech, they refrain from false speech",
+      "notes": "From the conduct section of the gradual path.",
+      "source": "DN 2"
+    }
+  ]
 }

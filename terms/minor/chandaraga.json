@@ -24,9 +24,16 @@
       "translation": "desire and passion",
       "notes": "Keep the two terms distinct in English.",
       "source": "SN 35.191"
+    },
+    {
+      "pali": "vinicchayaṁ paṭicca chandarāgo",
+      "translation": "with judgement as condition, desire and passion",
+      "notes": "A link in the DN 15 social-consequence chain.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
+    "DN 15",
     "SN 35.191"
   ],
   "tags": [

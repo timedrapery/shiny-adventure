@@ -15,6 +15,7 @@
   "untranslated_preferred": false,
   "definition": "Full monastic ordination or higher acceptance into the bhikkhu or bhikkhuni sangha.",
   "sutta_references": [
+    "MN 117",
     "Mv I"
   ],
   "tags": [
@@ -22,5 +23,13 @@
     "core-practice",
     "vinaya"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "sammādiṭṭhiyā, upasampadāya",
+      "translation": "for the undertaking of right view",
+      "notes": "From the right-effort clause of the path-factor analysis.",
+      "source": "MN 117"
+    }
+  ]
 }

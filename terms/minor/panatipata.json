@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "The act of taking life, classically prohibited in ethical training.",
   "sutta_references": [
-    "AN 8.39"
+    "AN 8.39",
+    "DN 2"
   ],
   "tags": [
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "pāṇātipātaṁ pahāya pāṇātipātā paṭivirato hoti",
+      "translation": "having abandoned killing living beings, they refrain from killing living beings",
+      "notes": "From the conduct section of the gradual path.",
+      "source": "DN 2"
+    }
+  ]
 }
