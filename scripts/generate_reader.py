@@ -240,6 +240,15 @@ def render_home() -> str:
         "already know what you are looking for",
         "- [**Glossary**](glossary.md) — the recurring vocabulary, in plain "
         "English",
+        # Deliberately a raw anchor rather than a Markdown link. The book is
+        # built by scripts/build_book.py straight into the built site, after
+        # MkDocs has run, so it is not among the source files MkDocs knows
+        # about. A Markdown link here would fail `mkdocs build --strict` for
+        # anyone building the site without pandoc installed, which is most
+        # people editing a translation.
+        '- <a href="downloads/osf-pali-readings.epub"><strong>Download the '
+        "whole collection</strong></a> — EPUB, for e-readers, phones, and "
+        "reading offline",
         "",
         "## If you only read five",
         "",

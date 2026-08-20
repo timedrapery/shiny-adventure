@@ -9,6 +9,7 @@ All 42 translations in this collection are readable here. Each one is backed by 
 - [**Start Here**](start-here.md) — a newcomer-friendly reading order through all 42 texts, arranged by what makes sense to read first rather than by editorial priority
 - [**All Suttas**](suttas/index.md) — the full collection, if you already know what you are looking for
 - [**Glossary**](glossary.md) — the recurring vocabulary, in plain English
+- <a href="downloads/osf-pali-readings.epub"><strong>Download the whole collection</strong></a> — EPUB, for e-readers, phones, and reading offline
 
 ## If you only read five
 

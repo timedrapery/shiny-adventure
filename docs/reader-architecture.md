@@ -145,6 +145,37 @@ mkdocs serve
 `run_checks.py` includes the reader-generation check and the Markdown
 structure check. `mkdocs serve` gives a live preview on localhost.
 
+## The downloadable edition
+
+`scripts/build_book.py` assembles the whole collection into a single EPUB,
+published at `downloads/osf-pali-readings.epub` and linked from the home page.
+
+It is built from `reader-src/`, not from `docs/translations/`, so it inherits
+the reader titles, the hand-written introductions, and the reading order. Three
+pieces of website furniture are dropped on the way in, because they mean
+nothing in a book: the generated-by banner, the previous/next navigation line,
+and the per-page `*[term]: gloss` definitions that drive hover tooltips. The
+full glossary is included as an appendix instead.
+
+```bash
+python scripts/build_book.py --check    # is pandoc available?
+python scripts/build_book.py            # build into site/downloads/
+```
+
+Two things about how it is wired, both deliberate:
+
+- **pandoc is not required for ordinary work.** The book is built only in the
+  deploy workflow, after MkDocs has run. Editing a translation, running the
+  checks, and building the site locally all work without it.
+- **The home page links to the book with a raw `<a>` tag, not a Markdown
+  link.** MkDocs validates Markdown links against its own source files, and the
+  book is written straight into the built site, so a Markdown link would fail
+  `mkdocs build --strict` for anyone without pandoc. This is the one place in
+  the reader where raw HTML is used on purpose.
+
+The consequence worth knowing: a locally built site has a download link that
+404s unless `build_book.py` has been run into `site/` after `mkdocs build`.
+
 ## Deployment
 
 `.github/workflows/deploy-reader.yml` deploys to GitHub Pages on every push to
@@ -153,7 +184,9 @@ site configuration. It also accepts a manual dispatch.
 
 The gate is the real one: the full verification suite, then an explicit
 reader-freshness check, then a strict MkDocs build, all in the build job before
-the deploy job runs. A drifted reader or a failing check cannot publish.
+the deploy job runs. A drifted reader or a failing check cannot publish. The
+downloadable edition is built after the site and before the artifact upload,
+since MkDocs cleans `site/` on every build.
 
 CI additionally builds the site with `--strict` on pull requests, so site
 breakage is caught before it reaches `main`.
