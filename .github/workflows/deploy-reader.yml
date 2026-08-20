@@ -64,6 +64,16 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      # The downloadable edition is assembled from the generated reader pages
+      # and written into the built site, so it has to come after MkDocs (which
+      # cleans site/ on every build) and before the artifact is uploaded.
+      # pandoc is only needed here, not for an ordinary local site build.
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y --no-install-recommends pandoc
+
+      - name: Build downloadable edition
+        run: python scripts/build_book.py
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
