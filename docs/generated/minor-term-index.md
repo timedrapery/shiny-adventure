@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 909
+- Entries: 908
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -610,7 +610,6 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [padhana](../../terms/minor/padhana.json) | padhāna | exertion | reviewed | core-practice, meditative-development |
 | [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | perception of abandoning | stable | meditative-development, liberation, translation-sensitive |
 | [pamada](../../terms/minor/pamada.json) | pamāda | heedlessness | reviewed | mental-qualities |
-| [pamojja](../../terms/minor/pamojja.json) | pāmojja | actively happy state | stable | core-practice, meditative-development, mental-qualities |
 | [pamsukula](../../terms/minor/pamsukula.json) | paṃsukūla | rag-robe | reviewed | vinaya, core-practice |
 | [panatipata-veramani](../../terms/minor/panatipata-veramani.json) | panatipata-veramani | abstaining from killing | reviewed | ethics |
 | [panatipata](../../terms/minor/panatipata.json) | pāṇātipāta | taking life | reviewed | ethics |
@@ -824,7 +823,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sn36-6-feelings-undiscerned-response](../../terms/minor/sn36-6-feelings-undiscerned-response.json) | so tāsaṁ vedanānaṁ samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ nappajānāti | they do not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | reviewed | core-practice, sense-fields, translation-sensitive |
 | [sn36-6-one-feeling-painful-feeling](../../terms/minor/sn36-6-one-feeling-painful-feeling.json) | so ekaṁ vedanaṁ vedayati—kāyikaṁ, na cetasikaṁ | they feel one feeling: the one in the body, not the one in the mind | reviewed | core-practice, sense-fields, translation-sensitive |
 | [sn36-6-two-feelings-painful-feeling](../../terms/minor/sn36-6-two-feelings-painful-feeling.json) | so dve vedanā vedayati—kāyikañca, cetasikañca | they feel two feelings: one in the body, and one in the mind | reviewed | core-practice, sense-fields, translation-sensitive |
-| [somanassa](../../terms/minor/somanassa.json) | somanassa | gladness | reviewed | mental-qualities |
+| [somanassa](../../terms/minor/somanassa.json) | somanassa | gladness | reviewed | mental-qualities, core-practice |
 | [sona](../../terms/minor/sona.json) | Soṇa | Soṇa | reviewed | persons |
 | [sota-dvara](../../terms/minor/sota-dvara.json) | sota-dvara | ear door | reviewed | sense-fields |
 | [sota-samphassa](../../terms/minor/sota-samphassa.json) | sotasamphassa | ear-contact | reviewed | sense-fields |

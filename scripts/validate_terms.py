@@ -239,6 +239,42 @@ def invalid_json_diagnostic(term_file: Path, exc: json.JSONDecodeError) -> Repai
     )
 
 
+# The directory names that assert an entry's governance level. A record in one
+# of these must agree with it; a record outside them makes no such claim.
+ENTRY_TYPE_DIRECTORIES: frozenset[str] = frozenset({"major", "minor"})
+
+
+def entry_type_directory_mismatch_diagnostic(
+    term_file: Path, entry_type: str
+) -> RepairDiagnostic:
+    relpath = repo_relpath(term_file)
+    expected = term_file.parent.name
+    return RepairDiagnostic(
+        severity="error",
+        category="Schema",
+        code="entry_type_directory_mismatch",
+        rule="`entry_type` must match the directory the record lives in",
+        file=relpath,
+        summary=(
+            f"`entry_type` `{entry_type}` does not match its directory "
+            f"`terms/{expected}/`"
+        ),
+        why=(
+            "The directory is how a reader, and several scripts, tell a "
+            "policy-bearing major entry from a lighter minor one. A record "
+            "filed in the wrong directory is governed as the wrong class, and "
+            "the mismatch is invisible to every check that keys on the "
+            "filename rather than the field."
+        ),
+        fix=(
+            f"Either move the file to `terms/{entry_type}/` or change "
+            f"`entry_type` to `{expected}`, whichever matches the intended "
+            "governance level."
+        ),
+        examples=("terms/major/sati.json", "terms/minor/samagga.json"),
+    )
+
+
 def normalized_term_mismatch_diagnostic(
     term_file: Path, normalized_term: str
 ) -> RepairDiagnostic:
@@ -324,16 +360,6 @@ def preferred_collision_diagnostic(
     )
 
 
-# Term files that are known filesystem orphans and cannot be removed.
-# These files are excluded from cross-file uniqueness and filename-mismatch
-# checks to avoid false failures. Each entry is the file's name (stem + suffix).
-KNOWN_ORPHAN_TERM_FILES: frozenset[str] = frozenset({
-    # terms/major/pamojja.json — duplicate created before terms/minor/pamojja.json
-    # was identified as the authoritative record; cannot be deleted.
-    "pamojja.json",
-})
-
-
 def collect_validation_diagnostics(
     terms_dir: Path,
 ) -> tuple[list[RepairDiagnostic], list[RepairDiagnostic], int]:
@@ -348,8 +374,6 @@ def collect_validation_diagnostics(
 
     term_files = iter_term_files(terms_dir)
     for term_file in term_files:
-        if term_file.name in KNOWN_ORPHAN_TERM_FILES and term_file.parent.name == "major":
-            continue
         try:
             data = load_json(term_file)
         except json.JSONDecodeError as exc:
@@ -368,6 +392,25 @@ def collect_validation_diagnostics(
             normalized_index[normalized_term].append(term_file.name)
             if normalized_term != term_file.stem:
                 failures.append(normalized_term_mismatch_diagnostic(term_file, normalized_term))
+
+        # The directory is the second half of a record's identity, alongside
+        # its slug. Checking it here is what stops a major entry from sitting
+        # in terms/minor/ (or the reverse) without anything noticing.
+        #
+        # Only applied when the record actually sits in an entry-type
+        # directory: the live tree is split into terms/major and terms/minor,
+        # but callers may point TERMS_DIR at a flat directory, and a flat
+        # layout has no directory claim to contradict.
+        entry_type = data.get("entry_type")
+        parent = term_file.parent.name
+        if (
+            isinstance(entry_type, str)
+            and parent in ENTRY_TYPE_DIRECTORIES
+            and entry_type != parent
+        ):
+            failures.append(
+                entry_type_directory_mismatch_diagnostic(term_file, entry_type)
+            )
 
         term = data.get("term")
         if isinstance(term, str):

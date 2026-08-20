@@ -216,7 +216,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [paccaya](../../terms/major/paccaya.json) | paccaya | condition | stable | core-doctrine, dependent-origination, causality, translation-sensitive |
 | [pahana](../../terms/major/pahana.json) | pahāna | abandoning | stable | core-practice, translation-sensitive, liberation |
 | [pajanati](../../terms/major/pajanati.json) | pajānāti | discerns | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster, verbal-knowing-cluster |
-| [pamojja](../../terms/major/pamojja.json) | somanassa | gladness | reviewed | mental-qualities, core-practice |
+| [pamojja](../../terms/major/pamojja.json) | pāmojja | actively happy state | stable | core-practice, meditative-development, mental-qualities |
 | [panna](../../terms/major/panna.json) | paññā | discernment | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [pannavimutti](../../terms/major/pannavimutti.json) | paññāvimutti | release through discernment | reviewed | core-doctrine, liberation |
 | [papa](../../terms/major/papa.json) | pāpa | harmful | reviewed | ethics, mental-qualities |

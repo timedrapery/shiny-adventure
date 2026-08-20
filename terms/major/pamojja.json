@@ -1,50 +1,94 @@
 {
-  "term": "somanassa",
-  "normalized_term": "somanassa",
-  "entry_type": "minor",
+  "term": "pāmojja",
+  "normalized_term": "pamojja",
+  "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "mental gladness, felt pleasure of mind",
-  "preferred_translation": "gladness",
+  "literal_meaning": "gladdening, active gladness",
+  "preferred_translation": "actively happy state",
   "alternative_translations": [
-    "mental gladness",
-    "joy"
+    "active gladness",
+    "gladness"
   ],
   "discouraged_translations": [
-    "happiness",
-    "bliss"
+    "joy",
+    "happiness"
   ],
   "untranslated_preferred": false,
-  "definition": "The pleasant feeling-tone of mind; the mental component of gladness, paired with pāmojja in practice sequences and with the simile formulas for hindrance abandonment.",
-  "notes": "The project keeps gladness as the default because it is the simplest plain-English name for the pleasant feeling-side of mind without importing the cultivated-activity sense that pāmojja carries. Somanassa should stay distinct from pāmojja: pāmojja is the actively cultivated gladness, while somanassa is the pleasant feeling-tone that accompanies it. In the hindrance-simile formulas of MN 39 (labhetha pāmojjaṁ adhigaccheyya somanassaṁ), the pair is rendered gaining an actively happy state and arriving at gladness. The term should also stay distinct from pīti (rejoicing) and sukha (satisfaction), though all three can arise together in wholesome states.",
+  "definition": "The actively cultivated state of gladness that arises with confidence and immediately precedes rejoicing in the positive dependent-arising sequence; the practitioner does not wait for this state but brings the mind into it.",
+  "notes": "The project keeps actively happy state as the default because it preserves what the Buddha pointed to: with the confidence born of correct practice, the practitioner actively gets the mind into a gladdened state. This is not a passive emotion but a deliberate bringing-forward of gladness — the same move described as abhippamodayaṁ cittaṁ (gladdening the feeling mind) in the ānāpānassati formula. Pāmojja should stay distinct from pīti: pāmojja is the earlier active cultivation of gladness, while pīti is the rejoicing that arises from it. The sequence in SN 12.23 makes this order explicit: confidence → actively happy state → rejoicing → relaxation → satisfaction → composure. Discouraging joy and happiness prevents pāmojja from being collapsed with pīti and sukha under generic affect labels.",
   "context_rules": [
     {
-      "context": "In simile formulas paired with pāmojja",
+      "context": "In the positive dependent-arising sequence and related practice passages",
+      "rendering": "actively happy state",
+      "notes": "Use this by default to preserve the active cultivation sense."
+    },
+    {
+      "context": "In explanatory prose where the compound noun is too heavy",
+      "rendering": "active gladness",
+      "notes": "Use this as a controlled alternate when a shorter noun is needed."
+    },
+    {
+      "context": "In earlier passages translated before the house default was established",
       "rendering": "gladness",
-      "notes": "Use this by default to keep somanassa distinct from pāmojja's active-cultivation sense."
+      "notes": "Acceptable for continuity in surfaces where the full compound is not needed."
     }
   ],
   "related_terms": [
-    "domanassa",
-    "pamojja",
+    "anapanasati",
+    "citta",
+    "kusala",
+    "kusala-dhamma",
+    "passaddhi",
     "piti",
-    "sukha",
-    "vedana"
+    "saddha",
+    "samadhi",
+    "somanassa",
+    "sukha"
   ],
   "example_phrases": [
     {
-      "pali": "labhetha pāmojjaṃ adhigaccheyya somanassaṃ",
-      "translation": "they would gain an actively happy state and arrive at gladness",
-      "notes": "Shows the paired formula in the hindrance-simile sequence.",
-      "source": "MN 39"
+      "pali": "pāmojjaṃ jāyati",
+      "translation": "an actively happy state arises",
+      "notes": "Shows pāmojja as a link in the positive dependent-arising chain.",
+      "source": "SN 12.23"
+    },
+    {
+      "pali": "abhippamodayaṃ cittaṃ",
+      "translation": "gladdening the feeling mind",
+      "notes": "The ānāpānassati step that describes the same active cultivation of gladness.",
+      "source": "AN 10.60"
     }
   ],
   "sutta_references": [
-    "MN 39",
-    "SN 12.23"
+    "SN 12.23",
+    "MN 118",
+    "AN 10.60"
   ],
   "tags": [
-    "mental-qualities",
-    "core-practice"
+    "core-practice",
+    "meditative-development",
+    "mental-qualities"
   ],
-  "status": "reviewed"
+  "status": "stable",
+  "version_notes": "Updated preferred rendering from gladness to actively happy state to preserve the active cultivation quality of pāmojja. Promoted to major entry following its governing role in the SN 12.23 positive dependent-arising sequence.",
+  "authority_basis": [
+    {
+      "source": "SN 12.23",
+      "priority": "osf-house",
+      "kind": "context-rule",
+      "scope": "Governs pāmojja as an active step in the positive dependent-arising sequence, not a passive emotion."
+    },
+    {
+      "source": "AN 10.60",
+      "priority": "osf-house",
+      "kind": "rationale",
+      "scope": "The ānāpānassati step abhippamodayaṁ cittaṁ confirms that gladdening the mind is an active practice move."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'actively happy state' as the default rendering in the entry's governed positive-sequence and practice contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Do not use joy or happiness for pāmojja. Use active gladness only when the compound noun is genuinely too heavy for the English sentence.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents pāmojja from being collapsed with pīti (rejoicing) or sukha (satisfaction) under generic gladness or happiness labels."
+  }
 }
