@@ -206,6 +206,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn51_13",
+        label="SN 51.13",
+        main_relpath="docs/translations/sn51-13-chandasamadhi-sutta.md",
+        notes_relpath="docs/translations/sn51-13-chandasamadhi-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn55_5",
         label="SN 55.5",
         main_relpath="docs/translations/sn55-5-dutiyasariputta-sutta.md",
@@ -573,54 +579,60 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "A systematic question-and-answer exchange between two disciples, "
         "covering a wide sweep of doctrine efficiently.",
     ),
+    "sn51_13": ReaderMeta(
+        "Chandasamādhi Sutta", 5, 3,
+        "One short formula, stated four times, defining the four bases of "
+        "power. Useful mainly as a reference for how the effort formula is "
+        "built.",
+    ),
     "mn64": ReaderMeta(
-        "Mahāmālukya Sutta", 5, 3,
+        "Mahāmālukya Sutta", 5, 4,
         "The five lower fetters, and the companion piece to MN 63 — same "
         "disciple, later in his practice.",
     ),
     "mn11": ReaderMeta(
-        "Cūḷasīhanāda Sutta", 5, 4,
+        "Cūḷasīhanāda Sutta", 5, 5,
         "A claim about who counts as a genuine practitioner, grounded in "
         "whether a teaching can account for all four ways of taking things "
         "personally — including taking a doctrine of self personally.",
     ),
     "mn137": ReaderMeta(
-        "Saḷāyatanavibhaṅga Sutta", 5, 5,
+        "Saḷāyatanavibhaṅga Sutta", 5, 6,
         "A technical analysis of the six fields of experience.",
     ),
     "mn141": ReaderMeta(
-        "Saccavibhaṅga Sutta", 5, 6,
+        "Saccavibhaṅga Sutta", 5, 7,
         "The four noble truths again, now in full analytical detail rather "
         "than the compressed form from Stage 2.",
     ),
     "mn117": ReaderMeta(
-        "Mahācattārīsaka Sutta", 5, 7,
+        "Mahācattārīsaka Sutta", 5, 8,
         "A technical analysis of the eightfold path, factor by factor.",
     ),
     "an6_63": ReaderMeta(
-        "Nibbedhika Sutta", 5, 8,
+        "Nibbedhika Sutta", 5, 9,
         "One analytical frame applied six times over, to sensuality, feeling, "
         "recognition, the outflows, action, and dissatisfaction. Includes the "
         "line that defines action as intention.",
     ),
     "sn35_28": ReaderMeta(
-        "Āditta Sutta", 5, 9,
+        "Āditta Sutta", 5, 10,
         "The fire sermon. Iconic imagery carrying a genuinely abstract point "
         "about the senses.",
     ),
     "mn18": ReaderMeta(
-        "Madhupiṇḍika Sutta", 5, 10,
+        "Madhupiṇḍika Sutta", 5, 11,
         "The honey-ball sutta, on how recognition snowballs into proliferating "
         "thought. Famously dense even by this collection's standards.",
     ),
     "mn99": ReaderMeta(
-        "Subha Sutta", 5, 11,
+        "Subha Sutta", 5, 12,
         "A dialogue defending renunciant life against a brahmin's claim that "
         "household life is better. Good late-stage read for weighing the whole "
         "path against the alternative.",
     ),
     "mn1": ReaderMeta(
-        "Mūlapariyāya Sutta", 5, 12,
+        "Mūlapariyāya Sutta", 5, 13,
         "\"The root of all things.\" Traditionally regarded as one of the most "
         "difficult texts in the collection. Deliberately last: it rewards "
         "everything that came before it and rewards very little read cold.",

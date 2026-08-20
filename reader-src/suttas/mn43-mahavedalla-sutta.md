@@ -537,7 +537,7 @@ had said.
 
 ---
 
-[← MN 44: Cūḷavedalla Sutta](mn44-culavedalla-sutta.md) · [All suttas](index.md) · [MN 64: Mahāmālukya Sutta →](mn64-mahamalukya-sutta.md)
+[← MN 44: Cūḷavedalla Sutta](mn44-culavedalla-sutta.md) · [All suttas](index.md) · [SN 51.13: Chandasamādhi Sutta →](sn51-13-chandasamadhi-sutta.md)
 
 
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
