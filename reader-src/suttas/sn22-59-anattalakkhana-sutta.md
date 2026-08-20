@@ -5,7 +5,7 @@
 
 # Nothing Here Is You
 
-*SN 22.59, the Anattalakkhaṇa Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 22.59, the Anattalakkhaṇa Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

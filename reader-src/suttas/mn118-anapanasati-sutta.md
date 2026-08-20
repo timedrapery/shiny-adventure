@@ -5,7 +5,7 @@
 
 # MN 118: Ānāpānasati Sutta
 
-*MN 118, the Ānāpānasati Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 118, the Ānāpānasati Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

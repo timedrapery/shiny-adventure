@@ -6,7 +6,7 @@ This is deliberately **not** the project's internal translation roadmap. That ro
 
 Every text below is readable on this site.
 
-## Stage 1 — Before Any Doctrine
+## Set 1 — Before Any Doctrine
 
 Texts that set the tone before anything technical shows up: why to trust this material at all, why some questions get deliberately left unanswered, and who was actually asking these questions.
 
@@ -14,7 +14,7 @@ Texts that set the tone before anything technical shows up: why to trust this ma
 - [**The Man Struck by a Poisoned Arrow**](suttas/mn63-culamalukya-sutta.md) (MN 63, Cūḷamālukya Sutta) — Why the teaching refuses to answer certain metaphysical questions. Directly answers the objection a skeptical reader will already be forming after the first text.
 - [**The Two Searches**](suttas/mn26-pasarasi-sutta.md) (MN 26, Pāsarāsi Sutta) — The Buddha's own account of leaving home, studying under two teachers, and finding them insufficient. A narrative, not a doctrine — a human anchor before the vocabulary gets technical.
 
-## Stage 2 — The Basic Diagnosis and the Path
+## Set 2 — The Basic Diagnosis and the Path
 
 The core claim and the practical response to it, kept concrete.
 
@@ -25,7 +25,7 @@ The core claim and the practical response to it, kept concrete.
 - [**SN 55.5: Dutiyasāriputta Sutta**](suttas/sn55-5-dutiyasariputta-sutta.md) — What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. The first item is social, not inward.
 - [**Think Like a Thoroughbred**](suttas/an11-9-saddha-sutta.md) (AN 11.9, Saddha Sutta) — A wild colt tied to its trough can think of nothing but "Fodder, fodder!" The contrast with a trained horse becomes a contrast between two ways of sitting down to meditate.
 
-## Stage 3 — Learning to Look at Your Own Mind
+## Set 3 — Learning to Look at Your Own Mind
 
 Practical method. This is where the material stops being about ideas and starts being about what you actually do.
 
@@ -39,7 +39,7 @@ Practical method. This is where the material stops being about ideas and starts 
 - [**MN 39: Mahā-Assapura Sutta**](suttas/mn39-maha-assapura-sutta.md) — What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.
 - [**SN 46.51: Āhāra Sutta**](suttas/sn46-51-ahara-sutta.md) — What feeds the distractions that block practice, and what starves them. A closing, practical text for this stage.
 
-## Stage 4 — Not-Self and Dependent Arising
+## Set 4 — Not-Self and Dependent Arising
 
 The harder doctrinal core. Everything here assumes the practical vocabulary from the earlier stages, and tests it against the two hardest ideas in the material.
 
@@ -57,7 +57,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**DN 15: Mahānidāna Sutta**](suttas/dn15-mahanidana-sutta.md) — The deepest and longest exposition of dependent arising in the set. The capstone of this stage, not an entry point to it.
 - [**MN 9: Sammādiṭṭhi Sutta**](suttas/mn9-sammaditthi-sutta.md) — Right view examined through more than a dozen different doctrinal lenses in one text. Reads best as a review once the pieces it is reviewing are already familiar.
 
-## Stage 5 — Advanced and Reference Texts
+## Set 5 — Advanced and Reference Texts
 
 Technical material that rewards already knowing the vocabulary cold. These are texts people return to rather than read straight through.
 

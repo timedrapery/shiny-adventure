@@ -5,7 +5,7 @@
 
 # MN 148: Chachakka Sutta
 
-*MN 148, the Chachakka Sutta — stage 4, Not-Self and Dependent Arising*
+*MN 148, the Chachakka Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

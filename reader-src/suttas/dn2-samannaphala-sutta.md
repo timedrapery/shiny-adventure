@@ -5,7 +5,7 @@
 
 # DN 2: Sāmaññaphala Sutta
 
-*DN 2, the Sāmaññaphala Sutta — stage 3, Learning to Look at Your Own Mind*
+*DN 2, the Sāmaññaphala Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

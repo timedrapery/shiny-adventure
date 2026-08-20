@@ -5,7 +5,7 @@
 
 # Think Like a Thoroughbred
 
-*AN 11.9, the Saddha Sutta — stage 2, The Basic Diagnosis and the Path*
+*AN 11.9, the Saddha Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

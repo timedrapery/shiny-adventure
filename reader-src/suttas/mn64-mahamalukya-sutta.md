@@ -5,7 +5,7 @@
 
 # MN 64: Mahāmālukya Sutta
 
-*MN 64, the Mahāmālukya Sutta — stage 5, Advanced and Reference Texts*
+*MN 64, the Mahāmālukya Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

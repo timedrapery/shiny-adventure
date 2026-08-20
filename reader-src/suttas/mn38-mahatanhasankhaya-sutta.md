@@ -5,7 +5,7 @@
 
 # MN 38: Mahātaṇhāsaṅkhaya Sutta
 
-*MN 38, the Mahātaṇhāsaṅkhaya Sutta — stage 4, Not-Self and Dependent Arising*
+*MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

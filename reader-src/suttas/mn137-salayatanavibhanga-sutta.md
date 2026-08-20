@@ -5,7 +5,7 @@
 
 # MN 137: Saḷāyatanavibhaṅga Sutta
 
-*MN 137, the Saḷāyatanavibhaṅga Sutta — stage 5, Advanced and Reference Texts*
+*MN 137, the Saḷāyatanavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

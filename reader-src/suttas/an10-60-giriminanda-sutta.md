@@ -5,7 +5,7 @@
 
 # AN 10.60: Girimānanda Sutta
 
-*AN 10.60, the Girimānanda Sutta — stage 3, Learning to Look at Your Own Mind*
+*AN 10.60, the Girimānanda Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # Two Kinds of Thinking
 
-*MN 19, the Dvedhāvitakka Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 19, the Dvedhāvitakka Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

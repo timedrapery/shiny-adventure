@@ -5,7 +5,7 @@
 
 # The Man Struck by a Poisoned Arrow
 
-*MN 63, the Cūḷamālukya Sutta — stage 1, Before Any Doctrine*
+*MN 63, the Cūḷamālukya Sutta — set 1, Before Any Doctrine*
 
 ## About this text
 

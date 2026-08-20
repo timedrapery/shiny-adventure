@@ -5,7 +5,7 @@
 
 # MN 44: Cūḷavedalla Sutta
 
-*MN 44, the Cūḷavedalla Sutta — stage 5, Advanced and Reference Texts*
+*MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

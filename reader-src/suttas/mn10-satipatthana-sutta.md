@@ -5,7 +5,7 @@
 
 # MN 10: Satipaṭṭhāna Sutta
 
-*MN 10, the Satipaṭṭhāna Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

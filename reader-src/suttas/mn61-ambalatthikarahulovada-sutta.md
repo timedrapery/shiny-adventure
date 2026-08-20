@@ -5,7 +5,7 @@
 
 # The Water Vessel
 
-*MN 61, the Ambalaṭṭhikarāhulovāda Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 61, the Ambalaṭṭhikarāhulovāda Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

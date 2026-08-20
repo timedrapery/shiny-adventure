@@ -5,7 +5,7 @@
 
 # MN 18: Madhupiṇḍika Sutta
 
-*MN 18, the Madhupiṇḍika Sutta — stage 5, Advanced and Reference Texts*
+*MN 18, the Madhupiṇḍika Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

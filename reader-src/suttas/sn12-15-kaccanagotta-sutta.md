@@ -5,7 +5,7 @@
 
 # SN 12.15: Kaccānagotta Sutta
 
-*SN 12.15, the Kaccānagotta Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 12.15, the Kaccānagotta Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

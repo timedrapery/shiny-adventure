@@ -5,7 +5,7 @@
 
 # SN 55.5: Dutiyasāriputta Sutta
 
-*SN 55.5, the Dutiyasāriputta Sutta — stage 2, The Basic Diagnosis and the Path*
+*SN 55.5, the Dutiyasāriputta Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # Four Horses
 
-*AN 4.113, the Patoda Sutta — stage 2, The Basic Diagnosis and the Path*
+*AN 4.113, the Patoda Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

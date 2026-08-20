@@ -5,7 +5,7 @@
 
 # SN 12.23: Upanisa Sutta
 
-*SN 12.23, the Upanisa Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 12.23, the Upanisa Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # MN 2: Sabbāsava Sutta
 
-*MN 2, the Sabbāsava Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 2, the Sabbāsava Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

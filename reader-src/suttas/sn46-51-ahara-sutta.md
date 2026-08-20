@@ -5,7 +5,7 @@
 
 # SN 46.51: Āhāra Sutta
 
-*SN 46.51, the Āhāra Sutta — stage 3, Learning to Look at Your Own Mind*
+*SN 46.51, the Āhāra Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 
