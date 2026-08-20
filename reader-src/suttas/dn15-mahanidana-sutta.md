@@ -5,7 +5,7 @@
 
 # DN 15: Mahānidāna Sutta
 
-*DN 15, the Mahānidāna Sutta — stage 4, Not-Self and Dependent Arising*
+*DN 15, the Mahānidāna Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

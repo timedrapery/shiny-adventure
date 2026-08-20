@@ -5,7 +5,7 @@
 
 # SN 22.89: Khemaka Sutta
 
-*SN 22.89, the Khemaka Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 22.89, the Khemaka Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # SN 22.48: Khandha Sutta
 
-*SN 22.48, the Khandha Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 22.48, the Khandha Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # MN 99: Subha Sutta
 
-*MN 99, the Subha Sutta — stage 5, Advanced and Reference Texts*
+*MN 99, the Subha Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

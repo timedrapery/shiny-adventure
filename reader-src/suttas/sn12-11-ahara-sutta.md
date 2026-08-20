@@ -5,7 +5,7 @@
 
 # SN 12.11: Āhāra Sutta
 
-*SN 12.11, the Āhāra Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 12.11, the Āhāra Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

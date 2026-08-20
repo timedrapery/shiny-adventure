@@ -47,18 +47,18 @@ nav:
   - All Suttas: suttas/index.md
   - Read in order:
   # BEGIN GENERATED SUTTA NAV
-      - Stage 1. Before Any Doctrine:
+      - Set 1. Before Any Doctrine:
           - "Test It Yourself": suttas/an3-65-kesamutta-sutta.md
           - "The Man Struck by a Poisoned Arrow": suttas/mn63-culamalukya-sutta.md
           - "The Two Searches": suttas/mn26-pasarasi-sutta.md
-      - Stage 2. The Basic Diagnosis and the Path:
+      - Set 2. The Basic Diagnosis and the Path:
           - "The First Teaching": suttas/sn56-11-dhammacakkappavattana-sutta.md
           - "One Arrow, Not Two": suttas/sn36-6-salla-sutta.md
           - "The Dirty Cloth": suttas/mn7-vattha-sutta.md
           - "Four Horses": suttas/an4-113-patoda-sutta.md
           - "SN 55.5: Dutiyasāriputta Sutta": suttas/sn55-5-dutiyasariputta-sutta.md
           - "Think Like a Thoroughbred": suttas/an11-9-saddha-sutta.md
-      - Stage 3. Learning to Look at Your Own Mind:
+      - Set 3. Learning to Look at Your Own Mind:
           - "Two Kinds of Thinking": suttas/mn19-dvedhavitakka-sutta.md
           - "The Water Vessel": suttas/mn61-ambalatthikarahulovada-sutta.md
           - "MN 2: Sabbāsava Sutta": suttas/mn2-sabbasava-sutta.md
@@ -68,7 +68,7 @@ nav:
           - "AN 10.60: Girimānanda Sutta": suttas/an10-60-giriminanda-sutta.md
           - "MN 39: Mahā-Assapura Sutta": suttas/mn39-maha-assapura-sutta.md
           - "SN 46.51: Āhāra Sutta": suttas/sn46-51-ahara-sutta.md
-      - Stage 4. Not-Self and Dependent Arising:
+      - Set 4. Not-Self and Dependent Arising:
           - "Nothing Here Is You": suttas/sn22-59-anattalakkhana-sutta.md
           - "MN 22: Alagaddūpama Sutta": suttas/mn22-alagaddupama-sutta.md
           - "SN 22.48: Khandha Sutta": suttas/sn22-48-khandha-sutta.md
@@ -82,7 +82,7 @@ nav:
           - "MN 38: Mahātaṇhāsaṅkhaya Sutta": suttas/mn38-mahatanhasankhaya-sutta.md
           - "DN 15: Mahānidāna Sutta": suttas/dn15-mahanidana-sutta.md
           - "MN 9: Sammādiṭṭhi Sutta": suttas/mn9-sammaditthi-sutta.md
-      - Stage 5. Advanced and Reference Texts:
+      - Set 5. Advanced and Reference Texts:
           - "MN 44: Cūḷavedalla Sutta": suttas/mn44-culavedalla-sutta.md
           - "MN 64: Mahāmālukya Sutta": suttas/mn64-mahamalukya-sutta.md
           - "MN 11: Cūḷasīhanāda Sutta": suttas/mn11-culasihanada-sutta.md

@@ -5,7 +5,7 @@
 
 # MN 9: Sammādiṭṭhi Sutta
 
-*MN 9, the Sammādiṭṭhi Sutta — stage 4, Not-Self and Dependent Arising*
+*MN 9, the Sammādiṭṭhi Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

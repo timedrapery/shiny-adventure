@@ -5,7 +5,7 @@
 
 # The Two Searches
 
-*MN 26, the Pāsarāsi Sutta — stage 1, Before Any Doctrine*
+*MN 26, the Pāsarāsi Sutta — set 1, Before Any Doctrine*
 
 ## About this text
 

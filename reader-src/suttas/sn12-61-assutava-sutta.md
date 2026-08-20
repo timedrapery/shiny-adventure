@@ -5,7 +5,7 @@
 
 # SN 12.61: Assutavā Sutta
 
-*SN 12.61, the Assutavā Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 12.61, the Assutavā Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

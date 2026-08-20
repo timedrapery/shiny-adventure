@@ -5,7 +5,7 @@
 
 # SN 12.2: Paṭiccasamuppāda-vibhaṅga Sutta
 
-*SN 12.2, the Paṭiccasamuppāda-vibhaṅga Sutta — stage 4, Not-Self and Dependent Arising*
+*SN 12.2, the Paṭiccasamuppāda-vibhaṅga Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

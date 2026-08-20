@@ -5,7 +5,7 @@
 
 # AN 6.63: Nibbedhika Sutta
 
-*AN 6.63, the Nibbedhika Sutta — stage 5, Advanced and Reference Texts*
+*AN 6.63, the Nibbedhika Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

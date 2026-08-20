@@ -5,7 +5,7 @@
 
 # One Arrow, Not Two
 
-*SN 36.6, the Salla Sutta — stage 2, The Basic Diagnosis and the Path*
+*SN 36.6, the Salla Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

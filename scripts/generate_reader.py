@@ -189,7 +189,7 @@ def render_sutta_page(
         f"# {display_title(surface)}",
         "",
         f"*{surface.label}, the {meta.pali_title} — "
-        f"stage {meta.stage}, {stage_name}*",
+        f"set {meta.stage}, {stage_name}*",
         "",
         "## About this text",
         "",
@@ -290,7 +290,7 @@ def render_start_here() -> str:
             s for s in surfaces_in_reading_order()
             if reader_meta(s).stage == number
         ]
-        lines.extend([f"## Stage {number} — {title}", "", blurb, ""])
+        lines.extend([f"## Set {number} — {title}", "", blurb, ""])
         for surface in staged:
             meta = reader_meta(surface)
             label = display_title(surface)
@@ -350,7 +350,7 @@ def render_all_suttas() -> str:
         if not group:
             continue
         lines.extend([f"## {pali} ({prefix}) — {gloss}", ""])
-        lines.append("| Reference | Title | Stage | What it covers |")
+        lines.append("| Reference | Title | Set | What it covers |")
         lines.append("| --- | --- | --- | --- |")
         for surface in group:
             meta = reader_meta(surface)
@@ -422,7 +422,7 @@ def render_nav() -> str:
         ]
         if not staged:
             continue
-        lines.append(f"      - Stage {number}. {title}:")
+        lines.append(f"      - Set {number}. {title}:")
         for surface in staged:
             label = display_title(surface).replace('"', "'")
             lines.append(f'          - "{label}": suttas/{surface.main_name}')

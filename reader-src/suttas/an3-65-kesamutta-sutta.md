@@ -5,7 +5,7 @@
 
 # Test It Yourself
 
-*AN 3.65, the Kesamutta Sutta — stage 1, Before Any Doctrine*
+*AN 3.65, the Kesamutta Sutta — set 1, Before Any Doctrine*
 
 ## About this text
 

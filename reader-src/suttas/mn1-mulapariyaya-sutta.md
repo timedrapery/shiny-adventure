@@ -5,7 +5,7 @@
 
 # MN 1: Mūlapariyāya Sutta
 
-*MN 1, the Mūlapariyāya Sutta — stage 5, Advanced and Reference Texts*
+*MN 1, the Mūlapariyāya Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # MN 22: Alagaddūpama Sutta
 
-*MN 22, the Alagaddūpama Sutta — stage 4, Not-Self and Dependent Arising*
+*MN 22, the Alagaddūpama Sutta — set 4, Not-Self and Dependent Arising*
 
 ## About this text
 

@@ -5,7 +5,7 @@
 
 # The Dirty Cloth
 
-*MN 7, the Vattha Sutta — stage 2, The Basic Diagnosis and the Path*
+*MN 7, the Vattha Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

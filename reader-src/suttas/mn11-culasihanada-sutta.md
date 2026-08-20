@@ -5,7 +5,7 @@
 
 # MN 11: Cūḷasīhanāda Sutta
 
-*MN 11, the Cūḷasīhanāda Sutta — stage 5, Advanced and Reference Texts*
+*MN 11, the Cūḷasīhanāda Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

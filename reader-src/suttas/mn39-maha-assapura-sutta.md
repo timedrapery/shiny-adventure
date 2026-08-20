@@ -5,7 +5,7 @@
 
 # MN 39: Mahā-Assapura Sutta
 
-*MN 39, the Mahā-Assapura Sutta — stage 3, Learning to Look at Your Own Mind*
+*MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
 ## About this text
 

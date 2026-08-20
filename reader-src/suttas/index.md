@@ -4,14 +4,14 @@ All 42 translations, grouped by collection. If you would rather be guided, use [
 
 ## Dīgha Nikāya (DN) — the long discourses
 
-| Reference | Title | Stage | What it covers |
+| Reference | Title | Set | What it covers |
 | --- | --- | --- | --- |
 | DN 2 | [DN 2: Sāmaññaphala Sutta](dn2-samannaphala-sutta.md) | 3 | A king asks what a renunciant actually gets out of the life. |
 | DN 15 | [DN 15: Mahānidāna Sutta](dn15-mahanidana-sutta.md) | 4 | The deepest and longest exposition of dependent arising in the set. |
 
 ## Majjhima Nikāya (MN) — the middle-length discourses
 
-| Reference | Title | Stage | What it covers |
+| Reference | Title | Set | What it covers |
 | --- | --- | --- | --- |
 | MN 1 | [MN 1: Mūlapariyāya Sutta](mn1-mulapariyaya-sutta.md) | 5 | "The root of all things. |
 | MN 2 | [MN 2: Sabbāsava Sutta](mn2-sabbasava-sutta.md) | 3 | Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. |
@@ -38,7 +38,7 @@ All 42 translations, grouped by collection. If you would rather be guided, use [
 
 ## Saṁyutta Nikāya (SN) — the connected discourses
 
-| Reference | Title | Stage | What it covers |
+| Reference | Title | Set | What it covers |
 | --- | --- | --- | --- |
 | SN 12.2 | [SN 12.2: Paṭiccasamuppāda-vibhaṅga Sutta](sn12-2-paticcasamuppada-vibhanga-sutta.md) | 4 | The standard formula of dependent arising, defined term by term. |
 | SN 12.11 | [SN 12.11: Āhāra Sutta](sn12-11-ahara-sutta.md) | 4 | Four things that keep a life going, traced back to wanting and then all the way back along the chain. |
@@ -56,7 +56,7 @@ All 42 translations, grouped by collection. If you would rather be guided, use [
 
 ## Aṅguttara Nikāya (AN) — the numbered discourses
 
-| Reference | Title | Stage | What it covers |
+| Reference | Title | Set | What it covers |
 | --- | --- | --- | --- |
 | AN 3.65 | [Test It Yourself](an3-65-kesamutta-sutta.md)<br><small>Kesamutta Sutta</small> | 1 | "Don't take my word for it, or anyone else's. |
 | AN 4.113 | [Four Horses](an4-113-patoda-sutta.md)<br><small>Patoda Sutta</small> | 2 | Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. |

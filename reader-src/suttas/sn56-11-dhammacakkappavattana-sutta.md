@@ -5,7 +5,7 @@
 
 # The First Teaching
 
-*SN 56.11, the Dhammacakkappavattana Sutta — stage 2, The Basic Diagnosis and the Path*
+*SN 56.11, the Dhammacakkappavattana Sutta — set 2, The Basic Diagnosis and the Path*
 
 ## About this text
 

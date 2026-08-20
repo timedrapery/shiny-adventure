@@ -5,7 +5,7 @@
 
 # SN 35.28: Āditta Sutta
 
-*SN 35.28, the Āditta Sutta — stage 5, Advanced and Reference Texts*
+*SN 35.28, the Āditta Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

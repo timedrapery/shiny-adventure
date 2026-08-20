@@ -5,7 +5,7 @@
 
 # MN 141: Saccavibhaṅga Sutta
 
-*MN 141, the Saccavibhaṅga Sutta — stage 5, Advanced and Reference Texts*
+*MN 141, the Saccavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 

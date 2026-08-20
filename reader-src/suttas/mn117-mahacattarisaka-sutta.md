@@ -5,7 +5,7 @@
 
 # MN 117: Mahācattārīsaka Sutta
 
-*MN 117, the Mahācattārīsaka Sutta — stage 5, Advanced and Reference Texts*
+*MN 117, the Mahācattārīsaka Sutta — set 5, Advanced and Reference Texts*
 
 ## About this text
 
