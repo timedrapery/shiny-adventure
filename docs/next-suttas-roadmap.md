@@ -164,10 +164,15 @@ process, five heaps, four noble truths, and sense-fields.
   `cattaro-sammappadhana` all lack `sutta_references` that this discourse
   could supply.
 
-### 3. MN 70: Kīṭāgiri Sutta
+### 3. MN 70: Kīṭāgiri Sutta (withdrawn)
 
-- Leverage signal: two orphan majors, `cetovimutti` and `pannavimutti`, and
-  the crossing / release interface cluster is 40% dark.
+- **Withdrawn 2026-08-20.** Its two orphan majors, `cetovimutti` and
+  `pannavimutti`, were orphaned by missing citations rather than by absent
+  vocabulary: `MN 43` already demonstrates both. Citing it from those records
+  anchored them, and `MN 70` left the ranked candidate list. See Finding:
+  Citation Debt Outranks Translation.
+- Original leverage signal: two orphan majors, and the crossing / release
+  interface cluster is 40% dark.
 - Touches three governed clusters at once -- crossing / release, knowledge /
   seeing / understanding, and abandonment-sequence -- which is unusual.
 - Likely lexicon pressure: the relationship between the two liberations, which
@@ -216,6 +221,57 @@ low on factor 2, but each closes a coherent governed family in one pass:
   `kaya` / `vaci` / `mano` crossed with `sucarita` / `duccarita`.
 - `SN 45.2` (166 words) -- `kalyanamitta`, `kalyanamittata`, `papamittata`.
   Very short, and the friendship family currently has no surface at all.
+
+### Finding: Citation Debt Outranks Translation
+
+Found 2026-08-20 while preparing MN 70, and it changed the queue.
+
+`MN 70` was ranked third on the strength of two orphan majors, `cetovimutti`
+and `paññāvimutti`. Both records cited `MN 70` and nothing else. But `MN 43`,
+translated earlier the same day, uses `cetovimutti` throughout its final third
+-- qualifying it four ways as measureless, through nothingness, through
+emptiness, and signless -- and states `paññāvimutti` at 14.1. The vocabulary
+was already demonstrated in running text. The records simply did not cite the
+surface that demonstrated it.
+
+Adding three verified citations to `cetovimutti`, `paññāvimutti`, and
+`suññatā` moved more than translating a 1,945-word discourse would have:
+
+- orphan majors 40 to 37, orphans 178 to 175
+- `MN 70` left the ranked candidate list entirely
+- the emptiness / signless / wishless cluster reached **zero orphans**, with
+  its three headwords all anchored; its remaining ten dark terms are uncited
+  supporting compounds, which no translation addresses
+
+**An orphan is a claim about citations, not about coverage.** The audit
+measures whether a record's anchors are translated, and a record with a
+missing citation is indistinguishable from a record whose vocabulary has never
+been shown. The first costs a verified example phrase to fix. The second costs
+a translation.
+
+### How Much Debt Is There
+
+A crude sweep -- matching each orphan record's Pali stem against the cached
+root texts of the 40 translated suttas that have one -- returns 77 candidates,
+26 of them major entries. That number is an upper bound and should not be
+quoted as a finding. Short stems produce false positives: `santi` matches the
+ordinary verb "there are", and `dhamma` matches nearly everything. Each
+candidate needs the term checked in context before a citation is written.
+
+The high-confidence ones visible in that sweep include `sunnata` in `MN 44`
+and `MN 64`, `phassa-samudaya` in `SN 12.11`, `MN 9` and `MN 11`, `sakadagami`
+in `MN 118`, `sampajanna` in `DN 2` and `MN 39`, and `parinibbana` in `DN 15`
+and `MN 118`.
+
+**Run this pass before drafting any further Wave 7 surface.** Every citation it
+writes is cheaper than the translation it might otherwise justify, and each
+one that lands changes the ranking. Any candidate that survives the pass is a
+genuine translation target rather than a bookkeeping gap.
+
+Standing rule: after translating a surface, check which orphan records that
+surface now demonstrates and cite it from them. The lexicon pass already
+covers terms the surface exposed as missing; this is the reverse direction, and
+it was not being done.
 
 ### Resolved: The Enumeration-Stub Track
 
@@ -313,9 +369,14 @@ state so the list cannot grow unnoticed.
 
 1. `MN 43` -- the only 100% dark governed cluster
 2. `SN 51.13` -- most orphan majors among substantive texts, and short
-3. `MN 70` -- three governed clusters at once
-4. `Iti 44` -- 69% dark cluster, 135 words
+3. **the citation-debt pass** -- cheaper than any translation below it, and
+   it changes what the rest of the list should contain
+4. `Iti 44` -- 69% dark cluster, 135 words. Note that `Iti` is in the
+   verifier's `UNSUPPORTED` set, so citations this surface adds cannot be
+   machine-checked
 5. `SN 12.43` -- completes the `-samudaya` formula family
+
+`MN 70` was third on this list and has been withdrawn; see its entry above.
 
 Lengths were resolved on 2026-08-20 by caching the missing root texts, which
 moved `SN 50.1` to the stub track and confirmed `MN 77`. Three citations

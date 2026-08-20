@@ -89,8 +89,10 @@ Order:
    its thirteen terms; it is now 11/13 dark rather than 13/13
 2. `SN 51.13` -- **translated 2026-08-20.** Three orphan majors (`chanda`,
    `iddhipada`, `vimamsa`) anchored in 242 Pali words
-3. `MN 70` -- `cetovimutti` and `pannavimutti`; touches three governed
-   clusters
+3. **the citation-debt pass** -- `MN 70` was here until its two orphan majors
+   turned out to be already demonstrated by `MN 43` and merely uncited.
+   Roughly 77 orphan records may be in the same state; each verified citation
+   is cheaper than the translation it would otherwise justify
 4. `Iti 44` -- the two nibbana elements; consummation cluster is 69% dark
 5. `SN 12.43` -- completes the `-samudaya` formula family in 183 words
 

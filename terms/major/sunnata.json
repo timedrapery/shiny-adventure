@@ -77,11 +77,18 @@
       "translation": "one enters and remains in emptiness",
       "notes": "Shows suññatā as a governed doctrinal-practical term rather than abstract philosophy.",
       "source": "MN 121"
+    },
+    {
+      "pali": "suññatā cetovimutti",
+      "translation": "the release of mind through emptiness",
+      "notes": "MN 43 defines it by the reflection that this is empty of a self or of what belongs to a self.",
+      "source": "MN 43"
     }
   ],
   "sutta_references": [
-    "SN 35.85",
-    "MN 121"
+    "MN 121",
+    "MN 43",
+    "SN 35.85"
   ],
   "tags": [
     "core-doctrine",
