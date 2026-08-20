@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 914
+- Entries: 915
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -215,7 +215,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [cakkhu-dvara](../../terms/minor/cakkhu-dvara.json) | cakkhu-dvara | eye door | reviewed | sense-fields |
 | [cakkhu-samphassa](../../terms/minor/cakkhu-samphassa.json) | cakkhusamphassa | eye-contact | reviewed | sense-fields |
 | [cattaro-iddhipada](../../terms/minor/cattaro-iddhipada.json) | cattaro-iddhipada | four bases of power | reviewed | core-doctrine, core-practice |
-| [cattaro-sammappadhana](../../terms/minor/cattaro-sammappadhana.json) | cattaro-sammappadhana | four right exertions | reviewed | core-doctrine, core-practice |
+| [cattaro-sammappadhana](../../terms/minor/cattaro-sammappadhana.json) | cattāro sammappadhānā | four right exertions | reviewed | core-doctrine, core-practice |
 | [cattaro-satipatthana](../../terms/minor/cattaro-satipatthana.json) | cattāro satipaṭṭhānā | four establishments of sati | reviewed | core-doctrine, core-practice |
 | [cattarome-bhikkhave-gantha](../../terms/minor/cattarome-bhikkhave-gantha.json) | cattārome, bhikkhave, ganthā | bhikkhus, there are these four knots | stable | formula, core-doctrine, bondage-imagery |
 | [cattarome-bhikkhave-ogha](../../terms/minor/cattarome-bhikkhave-ogha.json) | cattārome, bhikkhave, oghā | bhikkhus, there are these four floods | stable | formula, core-doctrine, bondage-imagery |
@@ -611,6 +611,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pacchajata-paccaya](../../terms/minor/pacchajata-paccaya.json) | pacchajata-paccaya | post-arising condition | reviewed | causality |
 | [pacchajata](../../terms/minor/pacchajata.json) | pacchajata | post-arising | reviewed | causality |
 | [padaparama](../../terms/minor/padaparama.json) | padaparama | word-bound person | reviewed | persons |
+| [padhana-sankhara](../../terms/minor/padhana-sankhara.json) | padhānasaṅkhāra | exertion conditioner | reviewed | core-practice, meditative-development, translation-sensitive |
 | [padhana](../../terms/minor/padhana.json) | padhāna | exertion | reviewed | core-practice, meditative-development |
 | [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | perception of abandoning | stable | meditative-development, liberation, translation-sensitive |
 | [pamada](../../terms/minor/pamada.json) | pamāda | heedlessness | reviewed | mental-qualities |

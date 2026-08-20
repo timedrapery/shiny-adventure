@@ -1,0 +1,58 @@
+{
+  "term": "padhānasaṅkhāra",
+  "normalized_term": "padhana-sankhara",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "exertion conditioner",
+  "alternative_translations": [
+    "conditioner of exertion",
+    "exertion formation"
+  ],
+  "discouraged_translations": [
+    "volitional formation",
+    "effort of striving"
+  ],
+  "definition": "The conditioners of exertion named in the four bases of power: generating desire, making an effort, arousing energy, taking hold of the feeling mind, and exerting oneself.",
+  "literal_meaning": "exertion formation",
+  "notes": "Use exertion conditioner so the compound stays inside the governed saṅkhāra family alongside kāyasaṅkhāra, vacīsaṅkhāra, cittasaṅkhāra and āyusaṅkhāra, rather than drifting into volitional-formation language borrowed from the aggregate sense of saṅkhāra. Keep padhāna as exertion and sammā-vāyāma as effort: both verbs, vāyamati and padahati, appear in the same clause of the formula, so collapsing them makes one clause repeat another. SN 51.13 is the control passage: a base of power is defined there as a factor, the composure gained in dependence on it, and these conditioners together.",
+  "related_terms": [
+    "cattaro-sammappadhana",
+    "chanda",
+    "citta",
+    "iddhipada",
+    "padhana",
+    "sammapadhana",
+    "vimamsa",
+    "viriya"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Ime vuccanti ‘padhānasaṅkhārā’ti",
+      "translation": "these are called the exertion conditioners",
+      "notes": "Closes each of the four rounds of the formula.",
+      "source": "SN 51.13"
+    },
+    {
+      "pali": "chandasamādhippadhānasaṅkhārasamannāgato iddhipādo",
+      "translation": "the basis of power that possesses composure through desire together with the exertion conditioners",
+      "notes": "Shows the compound inside the full definition of a base of power.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
+  ],
+  "tags": [
+    "core-practice",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from SN 51.13 and aligned with the governed conditioner family.",
+  "translation_policy": {
+    "default_scope": "Use 'exertion conditioner' in the four-bases-of-power formula.",
+    "when_not_to_apply": "Do not import volitional-formation language from the aggregate sense of saṅkhāra, and do not merge padhāna with sammā-vāyāma.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the compound drifting out of the conditioner family and prevents exertion and effort collapsing into one word."
+  }
+}
