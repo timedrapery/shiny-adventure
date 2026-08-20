@@ -211,7 +211,7 @@ cluster-sheet entries instead. Note that `silabbata-paramasa-kayagantha` sits
 in this set: it was revised on 2026-08-20 during the `silabbata` stem pass and
 still has no running text behind it.
 
-### Finding: Range-Bundled Suttas Cannot Be Fetched Or Verified
+### Finding: Range-Bundled Suttas Could Not Be Verified (fixed)
 
 `SN 50.1` has no root-text file of its own. SuttaCentral bundles the
 Gangapeyyalavagga repetitions into `sn50.1-12_root-pli-ms.json`, and
@@ -224,8 +224,19 @@ passes. This is the same shape of blind spot as the peyyala case already
 recorded in the workflow plan: a verdict that looks like an absence of
 evidence and reads like a pass. Do not treat `unfetched` as `fine` either.
 
-`AN 2.9` is likely the same case. `Dhp 21` and `Ud 8.3` are different: their
-collections are in the `UNSUPPORTED` set, so no URL is attempted at all.
+Fixed on 2026-08-20. `resolve_source` now falls back to the range bundle,
+finding it by listing the vagga directory once and caching the listing. The
+sweep went from 10 `unfetched` to 0, and `absent` stayed at 0 -- so the blind
+spot was hiding ten citations and none of them was wrong. They resolve as four
+`ok`, two `inflected`, and four `inconclusive`, the last because range
+bundles are dense with peyyala.
+
+The affected citations were `AN 2.9` (4), `SN 50.1` (3), `SN 43.14`,
+`SN 35.191`, and `AN 1.49`.
+
+`Dhp 21` and `Ud 8.3` remain unverifiable for a different reason: their
+collections are in the `UNSUPPORTED` set, so no URL is attempted at all. That
+is a separate gap and still open.
 
 ### Finding: MN 61 Anchors No Governed Vocabulary
 
