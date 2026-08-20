@@ -53,10 +53,11 @@ source-audit calls, and edition notes that govern it.
 - `manoviññāṇa` is `mind-knowing` and `mano` is `thinking mind`, per the
   headwords. The distinction carries weight at 21.6, where `mano` is what the
   five faculties resort to.
-- `āyu` and `usmā` are rendered `vitality` and `warmth`. Neither is governed
-  in the lexicon yet; see Re-audit Calls.
-- `āyusaṅkhārā` is rendered `vitality conditioners`, keeping the governed
-  `conditioner` family audible rather than introducing `life-formations`.
+- `āyu` and `usmā` are rendered `vitality` and `warmth`, and `āyusaṅkhārā` is
+  rendered `vitality conditioners`, keeping the governed `conditioner` family
+  audible rather than introducing `life-formations`. All three were ungoverned
+  when this surface was drafted and were given records in the same pass; see
+  Re-audit Calls.
 - `saññāvedayitanirodha` keeps the governed `cessation of recognition and felt
   experience`, matching MN 44.
 - The threefold set at 25.2 and 25.3 is rendered `body conditioner`, `verbal
@@ -87,22 +88,28 @@ source-audit calls, and edition notes that govern it.
 
 ## Re-audit Calls
 
-- **`āyu` and `usmā` are ungoverned and carry real weight here.** The
-  vitality-and-warmth exchange at 22.7 through 22.19, with the oil-lamp
-  simile, is the passage the repository would cite for either term, and
-  neither has a record. They are also load-bearing at 24.2 and 25.2, where
-  the three dhammas that leave the body are vitality, warmth, and knowing.
-  Both are candidates for paired minor entries.
-- `āyusaṅkhāra` is likewise ungoverned. It was rendered here to match the
-  conditioner family, but that is a local decision that a record should
-  confirm rather than inherit silently.
+- **`āyu`, `usmā`, and `āyusaṅkhāra` were ungoverned. Resolved 2026-08-20.**
+  The vitality-and-warmth exchange at 22.7 through 22.19, with the oil-lamp
+  simile, is the repository's clearest control passage for all three, and none
+  had a record. They are also load-bearing at 24.2 and 25.2, where the three
+  dhammas that leave the body are vitality, warmth, and knowing. Minor entries
+  were written in the same pass as this surface: `āyu` is `vitality` with
+  `lifespan` as the alternate for duration contexts, `usmā` is `warmth`, and
+  `āyusaṅkhāra` is `vitality conditioner`, kept inside the governed conditioner
+  family so the cessation argument stays legible. `āyu` and `usmā` are governed
+  as a pair, because the formula is reciprocal and solving either alone invites
+  the other to drift.
+- **`pamāṇakaraṇa`, `kiñcana`, and `nimittakaraṇa` were ungoverned as a set.
+  Resolved 2026-08-20.** They only make sense together: each names what
+  passion, aversion, and delusion do, and each answers one of the qualified
+  releases of mind by name. Passion makes measurement, so the measureless
+  release answers it; passion is a something, so nothingness answers it;
+  passion makes signs, so the signless release answers it. Three minor entries
+  were written together, each recording that the set is governed as a unit so a
+  later surface cannot solve one member at a time and lose the echo.
 - `paññācakkhu` is ungoverned. `eye of discernment` follows the `paññā`
   headword, but the compound is used elsewhere in the canon and would benefit
   from a record before a second surface renders it.
-- `pamāṇakaraṇa`, `kiñcana`, and `nimittakaraṇa` are ungoverned as a set. They
-  only make sense together, and the final section of this discourse is their
-  clearest source. A paired or threefold minor entry would prevent a later
-  surface from solving them one at a time.
 - `akuppa` is ungoverned. It recurs across release contexts and is a candidate
   for a minor entry tied to `vimutti`.
 - `parato ghosa` is rendered `the word of another` and is ungoverned. It is

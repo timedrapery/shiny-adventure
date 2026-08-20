@@ -1,0 +1,51 @@
+{
+  "term": "nimittakaraṇa",
+  "normalized_term": "nimittakarana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "maker of signs",
+  "alternative_translations": [
+    "sign-maker",
+    "what makes signs"
+  ],
+  "discouraged_translations": [
+    "cause",
+    "omen"
+  ],
+  "definition": "What passion, aversion and delusion do in making signs, answered by the signless release of mind.",
+  "literal_meaning": "sign-making",
+  "notes": "Use maker of signs, keeping the governed nimitta default audible. The three belong together and should not be solved one at a time. MN 43 uses them as a matched set: each names what passion, aversion and delusion do, and each answers one of the qualified releases of mind by name. Passion makes measurement, so the measureless release answers it; passion is a something, so the release through nothingness answers it; passion makes signs, so the signless release answers it. The argument only works if the English preserves the echo between the defilement's work and the release's name, so these renderings are governed together with appamāṇā, ākiñcaññā and animittā cetovimutti.",
+  "related_terms": [
+    "animitta",
+    "cetovimutti",
+    "dosa",
+    "kincana",
+    "moha",
+    "nimitta",
+    "pamanakarana",
+    "raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Rāgo kho, āvuso, nimittakaraṇo",
+      "translation": "passion, friend, is a maker of signs",
+      "notes": "Third member of the threefold set, answered by the signless release.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "mental-qualities",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43 together with pamāṇakaraṇa and kiñcana as one set.",
+  "translation_policy": {
+    "default_scope": "Use 'maker of signs' so the echo with the signless release of mind survives in English.",
+    "when_not_to_apply": "Do not render nimitta as omen or cause here; the governed default is sign.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the set being solved one member at a time and losing the answering pattern."
+  }
+}

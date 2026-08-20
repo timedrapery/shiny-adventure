@@ -1,0 +1,49 @@
+{
+  "term": "āyusaṅkhāra",
+  "normalized_term": "ayu-sankhara",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "vitality conditioner",
+  "alternative_translations": [
+    "life-sustaining conditioner",
+    "vital conditioner"
+  ],
+  "discouraged_translations": [
+    "life force",
+    "life formation"
+  ],
+  "definition": "The conditioner that sustains vitality, distinguished in MN 43 from the dhammas that are felt.",
+  "literal_meaning": "life formation",
+  "notes": "Use vitality conditioner so the compound stays inside the governed saṅkhāra family alongside kāyasaṅkhāra, vacīsaṅkhāra and cittasaṅkhāra, rather than being rendered as a free-standing life force. The distinction MN 43 draws is load-bearing: if the vitality conditioners were the same as the dhammas that are felt, no one could emerge from the cessation of recognition and felt experience. Keep the compound audible as a conditioner so that argument stays legible in English.",
+  "related_terms": [
+    "ayu",
+    "citta-sankhara",
+    "kaya-sankhara",
+    "sannavedayitanirodha",
+    "vaci-sankhara"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aññe āyusaṅkhārā aññe vedaniyā dhammā",
+      "translation": "the vitality conditioners are one thing and the dhammas that are felt another",
+      "notes": "The distinction that makes emergence from cessation possible.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "embodiment",
+    "meditative-development",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43 and aligned with the threefold conditioner family.",
+  "translation_policy": {
+    "default_scope": "Use 'vitality conditioner' so the compound stays inside the governed conditioner family.",
+    "when_not_to_apply": "Do not render it as a free-standing life force, which loses the conditioning sense the cessation argument depends on.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the compound drifting out of the saṅkhāra family into vitalist language."
+  }
+}

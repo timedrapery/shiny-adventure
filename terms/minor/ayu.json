@@ -1,0 +1,54 @@
+{
+  "term": "āyu",
+  "normalized_term": "ayu",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "vitality",
+  "alternative_translations": [
+    "life",
+    "lifespan",
+    "vital force"
+  ],
+  "discouraged_translations": [
+    "soul",
+    "spirit"
+  ],
+  "definition": "The living force that keeps a body animate, paired with warmth and departing with it at death.",
+  "literal_meaning": "life",
+  "notes": "Use vitality when āyu is the living force sustaining a body, which is how MN 43 uses it: āyu and usmā depend on each other like a lamp's flame and its light, and the body is left behind when āyu, usmā and viññāṇa depart. Lifespan is the right alternate when the sense is duration rather than force, as in contexts measuring how long a being lives; the two readings should not be collapsed. The term must not be read as a soul or an animating self, which is precisely the reading the surrounding not-self material rules out. Keep it paired with usmā rather than solved alone.",
+  "related_terms": [
+    "ayu-sankhara",
+    "kaya",
+    "usma",
+    "vinnana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Āyu usmaṁ paṭicca tiṭṭhati",
+      "translation": "vitality remains depending on warmth",
+      "notes": "Half of the mutual-dependence pair that the oil-lamp simile explains.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "imaṁ kāyaṁ tayo dhammā jahanti—āyu usmā ca viññāṇaṁ",
+      "translation": "three dhammas leave this body: vitality, warmth, and knowing",
+      "notes": "Shows the term in the death formula rather than as a duration.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "embodiment",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43, which is the repository's clearest control passage for the term.",
+  "translation_policy": {
+    "default_scope": "Use 'vitality' where āyu is the living force sustaining a body.",
+    "when_not_to_apply": "Use 'lifespan' where the sense is duration rather than force. Never render it as soul or spirit.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between the vital-force reading, the duration reading, and self-language."
+  }
+}
