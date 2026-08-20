@@ -10,5 +10,23 @@
   "tags": [
     "core-practice",
     "meditative-development"
+  ],
+  "related_terms": [
+    "cattaro-sammappadhana",
+    "padhana",
+    "padhana-sankhara",
+    "samma-vayama"
+  ],
+  "notes": "SN 51.13 states the four-exertion formula in full four times but never uses the collective name sammappadhāna, so the citation below quotes what the discourse actually says rather than the term it does not use. This follows the anāgāmī precedent recorded in the workflow plan: quote the sutta, do not move the citation to a sutta that merely contains the word.",
+  "example_phrases": [
+    {
+      "pali": "anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti",
+      "translation": "they generate desire for the non-arising of unarisen harmful, unwholesome qualities",
+      "notes": "First of the four exertions, from a discourse that states the formula without naming it.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
   ]
 }

@@ -10,5 +10,23 @@
   "tags": [
     "core-practice",
     "meditative-development"
+  ],
+  "related_terms": [
+    "cattaro-sammappadhana",
+    "padhana-sankhara",
+    "sammapadhana",
+    "viriya"
+  ],
+  "notes": "Keep padhāna as exertion and sammā-vāyāma as effort. Both appear in the four-exertion formula -- vāyamati is the verb of effort, padahati the verb of exertion -- so a single English word for both makes one clause of the formula repeat another.",
+  "example_phrases": [
+    {
+      "pali": "cittaṁ paggaṇhāti padahati",
+      "translation": "they take hold of the feeling mind and exert themselves",
+      "notes": "The verb form closing each clause of the four-exertion formula.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
   ]
 }

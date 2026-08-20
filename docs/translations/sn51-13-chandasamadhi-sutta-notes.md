@@ -73,29 +73,38 @@ would produce a document four times longer than the discourse, in which the
 one thing the text does structurally -- state a formula once and then vary a
 single term -- becomes invisible.
 
-Note that this makes the surface a poor citation target for
-`verify_example_sources.py`, which reports any phrase in a peyyala-bearing
-text as `inconclusive`. That limitation is recorded in the workflow plan and
-applies to the source text, not to this rendering.
+The peyyala does affect citation verification, but less than expected. The
+workflow plan records that a peyyala-bearing root text downgrades unmatched
+phrases to `inconclusive`; it does not downgrade phrases that do match. All
+five citations added to the `padhāna` family from this discourse verify `ok`,
+because each quotes a phrase from a part the source writes out in full. The
+hazard is real for phrases that fall inside an elision, not for the text as a
+whole.
 
 ## Re-audit Calls
 
-- **`padhānasaṅkhāra` is ungoverned and is the load-bearing compound here.**
-  It is named four times, and the whole discourse exists to define the bases
-  of power as the combination of a factor, the composure gained through it,
-  and these conditioners. It was rendered to match the conditioner family, but
-  that is a local decision a record should confirm. A minor entry tied to
-  `padhāna` and the `saṅkhāra` family is the natural next step.
-- `cattāro-sammappadhāna`, `sammappadhāna`, and `padhāna` all have records but
-  none carries `sutta_references`. This discourse states the four-exertion
-  formula in full and is a clean citation for all three.
-- `cattaro-sammappadhana.json` has `cattaro-sammappadhana` in its `term`
-  field, where the standard expects the Pali headword with diacritics. That is
-  a record defect rather than a translation question, but it was noticed here.
-- `iddhipāda` has a record but this is the first surface to exercise it. The
-  three sibling factors `vīriya`, `citta`, and `vīmaṁsā` are governed
-  separately and are not currently linked to `iddhipāda` as a set. The four
-  bases are a family and would benefit from being recorded as one.
+- **`padhānasaṅkhāra` was ungoverned and is the load-bearing compound here.
+  Resolved 2026-08-20.** It is named four times, and the whole discourse exists
+  to define the bases of power as the combination of a factor, the composure
+  gained through it, and these conditioners. A minor entry now records
+  `exertion conditioner`, tied to `padhāna` and kept inside the governed
+  conditioner family, with `volitional formation` explicitly discouraged so the
+  aggregate sense of `saṅkhāra` cannot leak in.
+- **`padhāna`, `sammappadhāna`, and `cattāro sammappadhānā` had records but no
+  `sutta_references`. Resolved 2026-08-20.** All three now cite this discourse.
+  Note the care taken: SN 51.13 states the four-exertion formula in full four
+  times but never uses the collective name `sammappadhāna`, so those two
+  records quote what the discourse actually says rather than the term it does
+  not use. That follows the `anāgāmī` precedent recorded in the workflow plan
+  -- quote the sutta, do not move the citation to one that merely contains the
+  word.
+- `cattaro-sammappadhana.json` had `cattaro-sammappadhana` in its `term` field
+  where the standard expects the Pali headword with diacritics. Corrected to
+  `cattāro sammappadhānā` in the same pass.
+- **`iddhipāda` was not linked to its four factors. Resolved 2026-08-20.** The
+  headword now links to `chanda`, `vīriya`, `citta`, `vīmaṁsā`, `samādhi`, and
+  `padhānasaṅkhāra`, so the family is visible as a set rather than as four
+  unrelated records that happen to appear together.
 - `cittassa ekaggatā` is rendered `directness of feeling mind` from the
   `ekaggatā` headword. The full phrase is a stock expression and may deserve a
   formula record; it recurs wherever `samādhi` is defined.

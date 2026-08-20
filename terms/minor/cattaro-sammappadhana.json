@@ -1,5 +1,5 @@
 {
-  "term": "cattaro-sammappadhana",
+  "term": "cattāro sammappadhānā",
   "normalized_term": "cattaro-sammappadhana",
   "entry_type": "minor",
   "part_of_speech": "compound",
@@ -10,5 +10,22 @@
   "tags": [
     "core-doctrine",
     "core-practice"
+  ],
+  "related_terms": [
+    "padhana",
+    "padhana-sankhara",
+    "sammapadhana"
+  ],
+  "notes": "The collective name for the four exertions. As with sammappadhāna, SN 51.13 states the set in full without using the collective name, so the citation quotes the fourth member as the discourse gives it.",
+  "example_phrases": [
+    {
+      "pali": "uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya",
+      "translation": "for the continuation, non-confusion, and increase of arisen wholesome qualities",
+      "notes": "Fourth of the four exertions.",
+      "source": "SN 51.13"
+    }
+  ],
+  "sutta_references": [
+    "SN 51.13"
   ]
 }
