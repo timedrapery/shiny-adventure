@@ -50,7 +50,7 @@ source-audit calls, and edition notes that govern it.
   about signs of mental composure, preserving the repository's refusal of
   mindfulness-language while keeping the framework recognizable.
 - `kāyasaṅkhāra`, `vacīsaṅkhāra`, and `cittasaṅkhāra` are rendered `body
-  conditioner`, `verbal process`, and `mind conditioner`.
+  conditioner`, `verbal conditioner`, and `mind conditioner`.
 - `saññāvedayitanirodhasamāpatti` is rendered `attainment of cessation of
   recognition and felt experience`. This is a controlled compound-specific use
   of cessation-language and does not alter the default `nirodha` policy of
@@ -120,7 +120,7 @@ source-audit calls, and edition notes that govern it.
   directness of the feeling mind, signs, equipment, and development.
 - The three-conditioner section is important for breathing practice because it
   directly connects in-breathing and out-breathing with the body conditioner,
-  thinking and pondering with the verbal process, and recognition and felt
+  thinking and pondering with the verbal conditioner, and recognition and felt
   experience with the mind conditioner.
 - The cessation-attainment section should not be read as self-command. The
   bhikkhu does not enter or emerge by narrating the state to himself; the

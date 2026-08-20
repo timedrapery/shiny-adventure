@@ -216,20 +216,20 @@ development of mental composure here."
 "Friend Visākha, there are these three conditioners:
 
 - the body conditioner
-- the verbal process
+- the verbal conditioner
 - the mind conditioner"
 
-"Ayye, what is the body conditioner? What is the verbal process? What is the
-mind conditioner?"
+"Ayye, what is the body conditioner? What is the verbal conditioner? What is
+the mind conditioner?"
 
 "Friend Visākha, in-breathing and out-breathing are the body conditioner.
 
-Thinking and pondering are the verbal process.
+Thinking and pondering are the verbal conditioner.
 
 Recognition and felt experience are the mind conditioner."
 
 "Ayye, why are in-breathing and out-breathing the body conditioner? Why are
-thinking and pondering the verbal process? Why are recognition and felt
+thinking and pondering the verbal conditioner? Why are recognition and felt
 experience the mind conditioner?"
 
 "Friend Visākha, in-breathing and out-breathing are bodily dhammas, bound up
@@ -237,7 +237,7 @@ with the body. That is why in-breathing and out-breathing are the body
 conditioner.
 
 First a person thinks and ponders, and afterward they break into speech. That
-is why thinking and pondering are the verbal process.
+is why thinking and pondering are the verbal conditioner.
 
 Recognition and felt experience are mental dhammas, bound up with the feeling
 mind. That is why recognition and felt experience are the mind conditioner."
@@ -260,10 +260,10 @@ that it leads to that state."
 
 "Ayye, for a bhikkhu entering the attainment of cessation of recognition and
 felt experience, which dhammas are quenched first: the body conditioner, the
-verbal process, or the mind conditioner?"
+verbal conditioner, or the mind conditioner?"
 
 "Friend Visākha, for a bhikkhu entering the attainment of cessation of
-recognition and felt experience, the verbal process is quenched first, then
+recognition and felt experience, the verbal conditioner is quenched first, then
 the body conditioner, then the mind conditioner."
 
 "Ayye, how does emergence from the attainment of cessation of recognition and
@@ -282,11 +282,11 @@ that it leads to that state."
 
 "Ayye, for a bhikkhu emerging from the attainment of cessation of recognition
 and felt experience, which dhammas arise first: the body conditioner, the
-verbal process, or the mind conditioner?"
+verbal conditioner, or the mind conditioner?"
 
 "Friend Visākha, for a bhikkhu emerging from the attainment of cessation of
 recognition and felt experience, the mind conditioner arises first, then the
-body conditioner, then the verbal process."
+body conditioner, then the verbal conditioner."
 
 "Ayye, how many contacts touch a bhikkhu who has emerged from the attainment
 of cessation of recognition and felt experience?"

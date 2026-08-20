@@ -3,12 +3,21 @@
   "normalized_term": "vaci-sankhara",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "verbal process",
-  "definition": "The verbal process named in meditative analysis, especially thinking and pondering.",
+  "preferred_translation": "verbal conditioner",
+  "definition": "The verbal conditioner named in meditative analysis, especially thinking and pondering.",
   "status": "reviewed",
   "literal_meaning": "verbal formation",
   "tags": [
     "core-doctrine",
     "translation-sensitive"
-  ]
+  ],
+  "alternative_translations": [
+    "verbal process"
+  ],
+  "notes": "Use verbal conditioner for vacīsaṅkhāra so the threefold set stays audible as one family: kāyasaṅkhāra is body conditioner, vacīsaṅkhāra is verbal conditioner, cittasaṅkhāra is mind conditioner. The record previously defaulted to verbal process, which broke that pattern for the middle member alone and made the triad read as two conditioners and one unrelated thing. Verbal process is retained as a controlled alternate for explanatory prose where the conditioning language would be heavier than the point needs. The set is enumerated together in MN 44 and again in MN 43, so it should not be re-solved locally.",
+  "sutta_references": [
+    "MN 43",
+    "MN 44"
+  ],
+  "version_notes": "Harmonised with kāyasaṅkhāra and cittasaṅkhāra: the default moves from verbal process to verbal conditioner, with the former retained as a controlled alternate. Citations added for the two surfaces that enumerate the triad."
 }
