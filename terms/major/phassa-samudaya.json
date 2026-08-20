@@ -46,9 +46,16 @@
       "translation": "origin of contact",
       "notes": "Compact doctrinal headword use.",
       "source": "SN 12.43"
+    },
+    {
+      "pali": "Phassasamudayā vedanāsamudayo",
+      "translation": "with contact as origin, felt experience originates",
+      "notes": "MN 9 states the whole -samudaya chain in full and is a governed surface.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
+    "MN 9",
     "SN 12.43",
     "SN 35.93"
   ],

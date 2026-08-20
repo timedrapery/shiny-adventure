@@ -55,9 +55,16 @@
       "translation": "there has been running on and wandering on",
       "notes": "Shows the term's processive feel.",
       "source": "SN 15.3"
+    },
+    {
+      "pali": "apāyaṁ duggatiṁ vinipātaṁ saṁsāraṁ nātivattati",
+      "translation": "they do not pass beyond the plane of misery, the bad destination, the downfall, wandering on",
+      "notes": "States what not penetrating dependent arising leaves a person unable to pass beyond.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
+    "DN 15",
     "SN 15.1",
     "SN 15.3"
   ],

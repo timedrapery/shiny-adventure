@@ -190,10 +190,14 @@ process, five heaps, four noble truths, and sense-fields.
 - Caveat: it is short and carries verse, and the collection has no `Iti`
   surface yet, so it would set precedent for how the reader handles them.
 
-### 5. SN 12.43: Dukkha Sutta
+### 5. SN 12.43: Dukkha Sutta (withdrawn)
 
-- Leverage signal: 183 Pali words and six orphans, all six of them the
-  `-samudaya` formula family (`phassa`, `vedana`, `namarupa`, `upadana`,
+- **Withdrawn 2026-08-20.** All six of its orphans were the `-samudaya`
+  family, and `MN 9` already states the chain in full. Citing MN 9 from those
+  six records anchored them without a translation. Second candidate withdrawn
+  for citation debt, after `MN 70`.
+- Original leverage signal: 183 Pali words and six orphans, all six of them
+  the `-samudaya` formula family (`phassa`, `vedana`, `namarupa`, `upadana`,
   `bhava`, `jati`). Completes a formula family inside a cluster that is
   already fully shown.
 - Only one orphan major, so it ranks low on factor 2 while being among the
@@ -272,6 +276,61 @@ Standing rule: after translating a surface, check which orphan records that
 surface now demonstrates and cite it from them. The lexicon pass already
 covers terms the surface exposed as missing; this is the reverse direction, and
 it was not being done.
+
+### The Citation-Debt Pass, First Round
+
+Run 2026-08-20. Nineteen verified citations, no translation.
+
+| | Before the pass | After |
+| --- | --- | --- |
+| Orphan majors | 37 | **27** |
+| Orphan records | 175 | **156** |
+| Anchored records | 450 | 469 |
+
+For scale: the day opened at 45 orphan majors and 185 orphans, across 42
+surfaces. Two translations and this pass together account for the difference,
+and the pass did more of it than either translation.
+
+**What was cited.** The whole `-samudaya` family -- `phassa`, `vedanā`,
+`upādāna`, `bhava`, `jāti`, `nāmarūpa` -- from `MN 9`, which states the chain
+in full and has been a governed surface since Wave 3. Then thirteen more:
+`saṅkhata`, `tathāgata`, `saṁsāra`, `macchariya` from `DN 15`;
+`pāṭimokkha` from `DN 2`; `sakadāgāmī` from `MN 118`; `asaṅkhata` from
+`MN 44`; `nibbuta` from `MN 26`; `anāgāmī` and `upādānakkhandha` from `MN 10`;
+and the three `āsava` compounds from `MN 2`. Every one verifies `ok` against
+the Bilara root text.
+
+**`SN 12.43` is withdrawn as a consequence.** It was ranked fifth for six
+orphans, all of them the `-samudaya` family. `MN 9` already demonstrates every
+one. This is the second Wave 7 candidate to be withdrawn for the same reason,
+after `MN 70`.
+
+### How To Run The Rest Of It
+
+The matcher lives in scratch, not in `scripts/`, because it is not yet good
+enough to ship. Two rounds of it were wrong in instructive ways:
+
+- Matching a **truncated stem** produces false positives across compound
+  boundaries. `jūtappamādaṭṭhāna`, a compound about gambling, contains the
+  letters of `appamāda` and was reported as evidence that `DN 2` demonstrates
+  heedfulness. It does not.
+- Matching the **term minus its final character with a loose suffix** is
+  better but still wrong. It matched `bhavantaṁ`, a respectful address, for
+  `bhāvanā`; `dhammataṇhā` for `dhammatā`; `bhikkhuno` for `bhikkhunī`; and
+  `sāraṇīya` for `saraṇa`.
+
+What worked was requiring the match to start at a word boundary and then
+**reading the matching segment before writing anything**. Every citation in
+this round was eyeballed in context first. That is the step that cannot be
+automated away, and it is why the remaining candidates are listed rather than
+applied.
+
+Roughly thirty candidates remain from the word-boundary sweep, mostly minor
+entries: the conduct family (`kāyasucarita` and its five siblings) in `DN 2`
+and `MN 117`, the precepts (`pāṇātipāta`, `adinnādāna`, `musāvāda`) in `DN 2`
+and `MN 141`, `brahmacariya`, `dhammavinaya`, `sappurisadhamma`,
+`chandarāga`, `upasampadā`, `sikkhāpada`, `santuṭṭhi`. Each needs the same
+treatment: read the segment, write a phrase, verify.
 
 ### Resolved: The Enumeration-Stub Track
 
@@ -369,14 +428,18 @@ state so the list cannot grow unnoticed.
 
 1. `MN 43` -- the only 100% dark governed cluster
 2. `SN 51.13` -- most orphan majors among substantive texts, and short
-3. **the citation-debt pass** -- cheaper than any translation below it, and
-   it changes what the rest of the list should contain
+3. **finish the citation-debt pass** -- one round is done and took orphan
+   majors from 37 to 27 without a translation; roughly thirty candidates
+   remain
 4. `Iti 44` -- 69% dark cluster, 135 words. Note that `Iti` is in the
    verifier's `UNSUPPORTED` set, so citations this surface adds cannot be
    machine-checked
-5. `SN 12.43` -- completes the `-samudaya` formula family
 
-`MN 70` was third on this list and has been withdrawn; see its entry above.
+Two of the five original entries have been withdrawn. `MN 70` and
+`SN 12.43` were both ranked on orphans that already-translated surfaces
+demonstrate; see their entries above. Wave 7 as translation work is now
+`MN 43` and `SN 51.13`, both done, plus `Iti 44`. The rest of the value in
+the wave turned out to be citation work.
 
 Lengths were resolved on 2026-08-20 by caching the missing root texts, which
 moved `SN 50.1` to the stub track and confirmed `MN 77`. Three citations

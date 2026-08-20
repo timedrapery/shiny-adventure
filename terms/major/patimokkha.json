@@ -49,10 +49,17 @@
       "translation": "the exhortation on the pāṭimokkha",
       "notes": "Shows an important liturgical and disciplinary compound.",
       "source": "DN 14"
+    },
+    {
+      "pali": "pātimokkhasaṁvarasaṁvuto viharati",
+      "translation": "they live restrained by the restraint of the Pātimokkha",
+      "notes": "The standard training description in the gradual path.",
+      "source": "DN 2"
     }
   ],
   "sutta_references": [
-    "DN 14"
+    "DN 14",
+    "DN 2"
   ],
   "tags": [
     "vinaya",

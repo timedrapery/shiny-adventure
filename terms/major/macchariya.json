@@ -46,9 +46,16 @@
       "translation": "when the dear and the not-dear exist, envy and stinginess come to be",
       "notes": "Shows what the discourse traces the pair back to.",
       "source": "DN 21"
+    },
+    {
+      "pali": "pariggahaṁ paṭicca macchariyaṁ",
+      "translation": "with possessiveness as condition, stinginess",
+      "notes": "A link in the DN 15 social-consequence chain.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
+    "DN 15",
     "DN 21"
   ],
   "tags": [

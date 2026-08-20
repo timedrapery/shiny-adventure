@@ -46,9 +46,16 @@
       "translation": "all conditioned things are impermanent",
       "notes": "Shows the term in a broad doctrinal generalization.",
       "source": "SN 43.1"
+    },
+    {
+      "pali": "vedanā aniccā saṅkhatā paṭiccasamuppannā",
+      "translation": "felt experience is impermanent, put together, dependently arisen",
+      "notes": "Shows the term applied to felt experience in a governed surface.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
+    "DN 15",
     "SN 43.1"
   ],
   "tags": [

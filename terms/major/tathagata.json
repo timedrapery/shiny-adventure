@@ -53,9 +53,16 @@
       "translation": "the powers of the Tathāgata",
       "notes": "Shows that the title often appears in highly doctrinal compounds.",
       "source": "MN 72"
+    },
+    {
+      "pali": "hoti tathāgato paraṁ maraṇā",
+      "translation": "the Tathāgata exists after death",
+      "notes": "One of the undeclared positions, shown as a view that does not apply.",
+      "source": "DN 15"
     }
   ],
   "sutta_references": [
+    "DN 15",
     "MN 72"
   ],
   "tags": [

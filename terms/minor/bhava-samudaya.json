@@ -15,9 +15,16 @@
       "translation": "origin of becoming",
       "notes": "Compact origin-side compound in the dependent-arising family.",
       "source": "SN 12.43"
+    },
+    {
+      "pali": "Bhavasamudayā jātisamudayo",
+      "translation": "with becoming as origin, birth originates",
+      "notes": "MN 9 states the whole -samudaya chain in full and is a governed surface.",
+      "source": "MN 9"
     }
   ],
   "sutta_references": [
+    "MN 9",
     "SN 12.43"
   ],
   "translation_policy": {
