@@ -152,6 +152,17 @@ process, five heaps, four noble truths, and sense-fields.
   boundary from the other side.
 - Likely lexicon pressure: whether `chanda` holds `desire` once it heads a
   wholesome path factor rather than sitting beside the sensuality family.
+- Status: translated 2026-08-20. See
+  [SN 51.13](translations/sn51-13-chandasamadhi-sutta.md) and its
+  [translation notes](translations/sn51-13-chandasamadhi-sutta-notes.md).
+  `chanda` held `desire` without needing a context rule: what makes
+  `kamacchanda` a distraction is the sensuality, not the desiring, so the
+  headword survives contact with a wholesome path factor unchanged. All three
+  orphan majors are now anchored, taking the repository from 43 orphan majors
+  to 40. The notes flag `padhanasankhara` as the load-bearing ungoverned
+  compound, and record that `padhana`, `sammappadhana`, and
+  `cattaro-sammappadhana` all lack `sutta_references` that this discourse
+  could supply.
 
 ### 3. MN 70: Kīṭāgiri Sutta
 

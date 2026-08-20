@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 43 translations in this collection, for someone new to this material.
+A suggested order for reading the 44 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -63,6 +63,7 @@ Technical material that rewards already knowing the vocabulary cold. These are t
 
 - [**MN 44: Cūḷavedalla Sutta**](suttas/mn44-culavedalla-sutta.md) — A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
 - [**MN 43: Mahāvedalla Sutta**](suttas/mn43-mahavedalla-sutta.md) — The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.
+- [**SN 51.13: Chandasamādhi Sutta**](suttas/sn51-13-chandasamadhi-sutta.md) — One short formula, stated four times, defining the four bases of power. Useful mainly as a reference for how the effort formula is built.
 - [**MN 64: Mahāmālukya Sutta**](suttas/mn64-mahamalukya-sutta.md) — The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
 - [**MN 11: Cūḷasīhanāda Sutta**](suttas/mn11-culasihanada-sutta.md) — A claim about who counts as a genuine practitioner, grounded in whether a teaching can account for all four ways of taking things personally — including taking a doctrine of self personally.
 - [**MN 137: Saḷāyatanavibhaṅga Sutta**](suttas/mn137-salayatanavibhanga-sutta.md) — A technical analysis of the six fields of experience.
