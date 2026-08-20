@@ -93,11 +93,13 @@ Order:
 4. `Iti 44` -- the two nibbana elements; consummation cluster is 69% dark
 5. `SN 12.43` -- completes the `-samudaya` formula family in 183 words
 
-Two things to settle before drafting. Five candidates have uncached root texts
-so their lengths are unverified. And the enumeration-stub track --
-`SN 45.171` / `.172` / `.174` and `AN 7.11`, about 120 Pali words covering
-21 dark terms -- is cheaper than anything in the list above but should become
-formula records rather than translation surfaces.
+Both pre-drafting questions are now settled. Lengths were resolved by caching
+the missing root texts. The enumeration-stub track is closed: those terms were
+invisible because the cluster glossaries rendered one representative member per
+family, not because they lacked a translation. The renderers are fixed, and
+none of the fifteen dark bondage-imagery terms is reachable by a substantive
+text anyway, so `SN 45.171` / `.172` / `.174`, `AN 7.11`, and `SN 50.1` are off
+the queue permanently.
 
 ### Wave 6: Ungoverned Major Families (complete)
 

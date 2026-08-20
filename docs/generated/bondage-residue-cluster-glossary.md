@@ -11,4 +11,17 @@
 | pahāna | abandoning | giving up, putting away | suppression, cessation, release |
 | vossagga | relinquishment | letting go, release through letting go | suppression, cessation, abandonment |
 | pañca-nīvaraṇā | five distractions | five hindrances | five problems |
+| avijjāsava | outflow of ignorance | - | - |
+| kāmāsava | sensual outflow | - | - |
+| diṭṭhāsava | outflow of views | - | - |
+| bhavāsava | outflow of becoming | - | - |
+| avijjā-anusaya | underlying tendency toward ignorance | - | - |
+| kāmarāga-anusaya | underlying tendency toward sensual passion | - | - |
+| bhavarāga-anusaya | underlying tendency toward passion for becoming | - | - |
+| paṭigha-anusaya | underlying tendency toward resistance | - | - |
+| mānānusaya | underlying tendency toward conceit | - | - |
+| diṭṭhi-anusaya | underlying tendency toward views | - | - |
+| vicikicchā-anusaya | underlying tendency toward doubt | - | - |
+| orambhāgiya-saṃyojana | lower fetter | - | - |
+| uddhambhāgiya-saṃyojana | higher fetter | - | - |
 

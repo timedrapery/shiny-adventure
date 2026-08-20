@@ -193,7 +193,44 @@ low on factor 2, but each closes a coherent governed family in one pass:
 - `SN 45.2` (166 words) -- `kalyanamitta`, `kalyanamittata`, `papamittata`.
   Very short, and the friendship family currently has no surface at all.
 
-### Separate Track: Enumeration Stubs
+### Resolved: The Enumeration-Stub Track
+
+Settled 2026-08-20, and not by translation.
+
+Investigating the bondage-imagery cluster turned up a different defect than the
+one being looked for. The cluster declares seventeen terms and validates that
+all seventeen records exist, but `render_glossary` iterated a hardcoded subset:
+`HEADWORD_TERMS` plus one representative member per family. Ten governed terms
+-- three of the four floods, three of the four yokes, and all four bodily knots
+-- existed as JSON and appeared in no generated output anywhere. A translator
+consulting the repository's own sheets would never have seen them.
+
+Nine other cluster reports had the same shape. All ten now render their full
+declared member sets, and `tests/test_cluster_glossary_coverage.py` fails if
+any declared term stops appearing.
+
+That is the right remedy for these terms, and a translation surface is not.
+Rendering `kāmogho, bhavogho, diṭṭhogho, avijjogho` into English produces
+exactly what a glossary row produces, with more ceremony: the reader gains a
+three-line page and the translator gains nothing. The audit now confirms the
+point numerically. Of the bondage-imagery cluster's fifteen dark terms, **zero
+are reachable by a substantive text** -- every one is anchored only to
+enumeration stubs.
+
+So `SN 45.171`, `SN 45.172`, `SN 45.174`, `AN 7.11`, and `SN 50.1` stay off the
+translation queue permanently. The audit now reports enumeration-only terms
+separately from dark terms that a real text could still rescue, which keeps the
+ranking pointed at work translation can actually do.
+
+One thing this does **not** change. `dark` still means "never shown at work in
+a sentence", not "unpublished". Redefining it to exclude anything now visible
+in a glossary was considered and rejected: it would zero the metric for all
+twenty-one clusters and erase the Wave 7 ranking signal, MN 43's case with it.
+Policy visibility and running-text demonstration are different goods, and the
+metric tracks the second.
+
+### Background: The Original Enumeration-Stub Reasoning
+
 
 The bondage-imagery cluster is 88% dark, and all fifteen dark terms are
 anchored by three SN 45 repetition suttas totalling about 100 Pali words:
@@ -260,8 +297,8 @@ Lengths were resolved on 2026-08-20 by caching the missing root texts, which
 moved `SN 50.1` to the stub track and confirmed `MN 77`. Three citations
 remain unverifiable for structural reasons recorded below.
 
-The enumeration-stub track is still unsettled, and it is cheaper than any item
-above without competing with them for translation effort.
+The enumeration-stub track was settled on 2026-08-20 and removed from the
+queue; see Resolved below.
 
 ## Ranked Roadmap (Wave 6)
 
