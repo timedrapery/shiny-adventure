@@ -1,0 +1,49 @@
+{
+  "term": "pamāṇakaraṇa",
+  "normalized_term": "pamanakarana",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "maker of measurement",
+  "alternative_translations": [
+    "measurement-maker",
+    "what makes measurement"
+  ],
+  "discouraged_translations": [
+    "limitation",
+    "restriction"
+  ],
+  "definition": "What passion, aversion and delusion do in making measurement, answered by the measureless release of mind.",
+  "literal_meaning": "measurement-making",
+  "notes": "Use maker of measurement rather than limitation, which loses the agency. The three belong together and should not be solved one at a time. MN 43 uses them as a matched set: each names what passion, aversion and delusion do, and each answers one of the qualified releases of mind by name. Passion makes measurement, so the measureless release answers it; passion is a something, so the release through nothingness answers it; passion makes signs, so the signless release answers it. The argument only works if the English preserves the echo between the defilement's work and the release's name, so these renderings are governed together with appamāṇā, ākiñcaññā and animittā cetovimutti.",
+  "related_terms": [
+    "cetovimutti",
+    "dosa",
+    "kincana",
+    "moha",
+    "nimittakarana",
+    "raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Rāgo kho, āvuso, pamāṇakaraṇo",
+      "translation": "passion, friend, is a maker of measurement",
+      "notes": "First member of the threefold set, answered by the measureless release.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "mental-qualities",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43 together with kiñcana and nimittakaraṇa as one set.",
+  "translation_policy": {
+    "default_scope": "Use 'maker of measurement' so the echo with the measureless release of mind survives in English.",
+    "when_not_to_apply": "Do not flatten to limitation or restriction, which drops the making.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the set being solved one member at a time and losing the answering pattern."
+  }
+}

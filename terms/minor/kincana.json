@@ -1,0 +1,51 @@
+{
+  "term": "kiñcana",
+  "normalized_term": "kincana",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "a something",
+  "alternative_translations": [
+    "something",
+    "possession",
+    "encumbrance"
+  ],
+  "discouraged_translations": [
+    "nothing",
+    "obstacle"
+  ],
+  "definition": "What passion, aversion and delusion are as a something owned or held, answered by the release of mind through nothingness.",
+  "literal_meaning": "anything, a something",
+  "notes": "Use a something, keeping the indefiniteness, because the point is that any something at all is what nothingness is free of. The three belong together and should not be solved one at a time. MN 43 uses them as a matched set: each names what passion, aversion and delusion do, and each answers one of the qualified releases of mind by name. Passion makes measurement, so the measureless release answers it; passion is a something, so the release through nothingness answers it; passion makes signs, so the signless release answers it. The argument only works if the English preserves the echo between the defilement's work and the release's name, so these renderings are governed together with appamāṇā, ākiñcaññā and animittā cetovimutti.",
+  "related_terms": [
+    "akincannayatana",
+    "cetovimutti",
+    "dosa",
+    "moha",
+    "nimittakarana",
+    "pamanakarana",
+    "raga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Rāgo kho, āvuso, kiñcano",
+      "translation": "passion, friend, is a something",
+      "notes": "Second member of the threefold set, answered by the release through nothingness.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "mental-qualities",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43 together with pamāṇakaraṇa and nimittakaraṇa as one set.",
+  "translation_policy": {
+    "default_scope": "Use 'a something' so the echo with the release through nothingness survives in English.",
+    "when_not_to_apply": "Do not render it as obstacle, which imports an image the Pali does not use here.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the set being solved one member at a time and losing the answering pattern."
+  }
+}

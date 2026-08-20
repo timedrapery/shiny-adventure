@@ -1,0 +1,52 @@
+{
+  "term": "usmā",
+  "normalized_term": "usma",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "preferred_translation": "warmth",
+  "alternative_translations": [
+    "heat",
+    "bodily heat"
+  ],
+  "discouraged_translations": [
+    "fever",
+    "fire"
+  ],
+  "definition": "The bodily warmth that depends on vitality and is stilled at death, paired with āyu in the analysis of a living body.",
+  "literal_meaning": "heat",
+  "notes": "Use warmth rather than heat, which in English suggests either fever or the fire element. The term is one half of a reciprocal pair: usmā remains depending on āyu, and āyu remains depending on usmā, a circularity MN 43 states deliberately and then illustrates with an oil lamp whose flame and light each depend on the other. It also stands in the death formula as one of the three dhammas whose departure leaves the body like a log. Distinguish it from tejo-dhātu, the fire element, which is a constituent analysis rather than a sign of life.",
+  "related_terms": [
+    "ayu",
+    "kaya",
+    "vinnana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Usmā āyuṁ paṭicca tiṭṭhati",
+      "translation": "warmth remains depending on vitality",
+      "notes": "The reciprocal half of the pair with āyu.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "usmā vūpasantā",
+      "translation": "warmth is stilled",
+      "notes": "Distinguishes a corpse from a bhikkhu in the attainment of cessation, whose warmth is not stilled.",
+      "source": "MN 43"
+    }
+  ],
+  "sutta_references": [
+    "MN 43"
+  ],
+  "tags": [
+    "embodiment",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "version_notes": "Created from MN 43, paired with āyu so the reciprocal formula is governed as a set.",
+  "translation_policy": {
+    "default_scope": "Use 'warmth' in the āyu-and-usmā analysis of a living body.",
+    "when_not_to_apply": "Do not render it as fever or fire, and do not conflate it with tejo-dhātu.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents drift between bodily warmth as a sign of life and the fire element."
+  }
+}

@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 908
+- Entries: 914
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -160,6 +160,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [avyakata](../../terms/minor/avyakata.json) | avyākata | undeclared | reviewed | core-doctrine, epistemology, translation-sensitive |
 | [ayasa](../../terms/minor/ayasa.json) | ayasa | disrepute | reviewed | worldly-conditions |
 | [ayonisomanasikara](../../terms/minor/ayonisomanasikara.json) | ayonisomanasikara | unwise attention | reviewed | core-practice |
+| [ayu-sankhara](../../terms/minor/ayu-sankhara.json) | āyusaṅkhāra | vitality conditioner | reviewed | embodiment, meditative-development, translation-sensitive |
+| [ayu](../../terms/minor/ayu.json) | āyu | vitality | reviewed | embodiment, translation-sensitive |
 
 ## B
 
@@ -431,6 +433,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [khema](../../terms/minor/khema.json) | Khemā | Khemā | reviewed | persons |
 | [khetta](../../terms/minor/khetta.json) | khetta | field | reviewed | core-doctrine |
 | [kilomaka](../../terms/minor/kilomaka.json) | kilomaka | membrane | reviewed | embodiment, meditative-development |
+| [kincana](../../terms/minor/kincana.json) | kiñcana | a something | reviewed | mental-qualities, translation-sensitive |
 | [kinnara](../../terms/minor/kinnara.json) | kinnara | kinnara | reviewed | persons |
 | [kiriya](../../terms/minor/kiriya.json) | kiriyā | activity | reviewed | core-doctrine |
 | [kisagotami](../../terms/minor/kisagotami.json) | Kisāgotamī | Kisāgotamī | reviewed | persons |
@@ -571,6 +574,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [nigama](../../terms/minor/nigama.json) | nigama | town | reviewed | core-doctrine |
 | [nila-kasina](../../terms/minor/nila-kasina.json) | nīla-kasiṇa | blue kasina | reviewed | meditative-development |
 | [nimitta](../../terms/minor/nimitta.json) | nimitta | sign | reviewed | core-doctrine, translation-sensitive |
+| [nimittakarana](../../terms/minor/nimittakarana.json) | nimittakaraṇa | maker of signs | reviewed | mental-qualities, translation-sensitive |
 | [ninda](../../terms/minor/ninda.json) | nindā | blame | reviewed | worldly-conditions |
 | [niramisa-piti](../../terms/minor/niramisa-piti.json) | nirāmisa-pīti | unworldly delight | reviewed | core-practice, meditative-development |
 | [niramisa-sukha](../../terms/minor/niramisa-sukha.json) | nirāmisa-sukha | unworldly ease | reviewed | core-practice, meditative-development |
@@ -610,6 +614,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [padhana](../../terms/minor/padhana.json) | padhāna | exertion | reviewed | core-practice, meditative-development |
 | [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | perception of abandoning | stable | meditative-development, liberation, translation-sensitive |
 | [pamada](../../terms/minor/pamada.json) | pamāda | heedlessness | reviewed | mental-qualities |
+| [pamanakarana](../../terms/minor/pamanakarana.json) | pamāṇakaraṇa | maker of measurement | reviewed | mental-qualities, translation-sensitive |
 | [pamsukula](../../terms/minor/pamsukula.json) | paṃsukūla | rag-robe | reviewed | vinaya, core-practice |
 | [panatipata-veramani](../../terms/minor/panatipata-veramani.json) | panatipata-veramani | abstaining from killing | reviewed | ethics |
 | [panatipata](../../terms/minor/panatipata.json) | pāṇātipāta | taking life | reviewed | ethics |
@@ -915,6 +920,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [uposatha](../../terms/minor/uposatha.json) | uposatha | observance day | reviewed | core-practice |
 | [uposathagara](../../terms/minor/uposathagara.json) | uposathāgāra | uposatha hall | reviewed | core-practice |
 | [uppalavanna](../../terms/minor/uppalavanna.json) | Uppalavaṇṇā | Uppalavaṇṇā | reviewed | persons |
+| [usma](../../terms/minor/usma.json) | usmā | warmth | reviewed | embodiment, translation-sensitive |
 
 ## V
 
