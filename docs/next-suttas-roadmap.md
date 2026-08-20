@@ -178,9 +178,20 @@ process, five heaps, four noble truths, and sense-fields.
 - `AN 3.86` -- `anagami` and `sakadagami`, 274 words, though `SN 55.5` already
   anchors the attainment ladder and this record's citation was repaired on
   2026-08-19.
-- `SN 50.1`, `AN 2.9` -- two orphan majors each (`bala` / `saddha`, `hiri` /
-  `ottappa`), but neither root text is cached, so length is unverified.
-- `MN 77`, `AN 8.6`, `MN 41` -- high orphan counts, lengths unverified.
+- `AN 2.9` -- two orphan majors, `hiri` and `ottappa`. Length still
+  unverified; see the note on range files below.
+- `MN 77` -- verified at 4338 Pali words for ten `kasina` minors. The length
+  is now measured rather than assumed, and it confirms the deprioritisation.
+
+**Family-completion candidates.** These carry no orphan majors, so they rank
+low on factor 2, but each closes a coherent governed family in one pass:
+
+- `AN 8.6` (433 words) -- the eight worldly conditions, six orphans in three
+  pairs: `labha` / `alabha`, `yasa` / `ayasa`, `ninda` / `pasamsa`.
+- `MN 41` (1280 words) -- the threefold conduct family, six orphans:
+  `kaya` / `vaci` / `mano` crossed with `sucarita` / `duccarita`.
+- `SN 45.2` (166 words) -- `kalyanamitta`, `kalyanamittata`, `papamittata`.
+  Very short, and the friendship family currently has no surface at all.
 
 ### Separate Track: Enumeration Stubs
 
@@ -189,12 +200,32 @@ anchored by three SN 45 repetition suttas totalling about 100 Pali words:
 `SN 45.171` (the floods), `SN 45.172` (the yokes), and `SN 45.174` (the
 knots). `AN 7.11` covers six `anusaya` orphans in eighteen words.
 
+`SN 50.1` belongs here too. It was listed as unverified until 2026-08-20;
+fetching it showed a five-item `bala` enumeration with a Ganges simile, so its
+two orphan majors (`bala`, `saddha`) sit behind a stub rather than a text.
+
 This is the cheapest coverage in the repository, and it is invisible to the
 roadmap because the roadmap ranks translation candidates and these should not
 become translation surfaces. Handle the enumerations as formula records or
 cluster-sheet entries instead. Note that `silabbata-paramasa-kayagantha` sits
 in this set: it was revised on 2026-08-20 during the `silabbata` stem pass and
 still has no running text behind it.
+
+### Finding: Range-Bundled Suttas Cannot Be Fetched Or Verified
+
+`SN 50.1` has no root-text file of its own. SuttaCentral bundles the
+Gangapeyyalavagga repetitions into `sn50.1-12_root-pli-ms.json`, and
+`source_url` in `scripts/verify_example_sources.py` builds only the
+per-sutta path, so the request 404s.
+
+The consequence is quiet. A citation to a range-bundled sutta is recorded as
+`unfetched`, which is neither `absent` nor `ok`, so it neither fails nor
+passes. This is the same shape of blind spot as the peyyala case already
+recorded in the workflow plan: a verdict that looks like an absence of
+evidence and reads like a pass. Do not treat `unfetched` as `fine` either.
+
+`AN 2.9` is likely the same case. `Dhp 21` and `Ud 8.3` are different: their
+collections are in the `UNSUPPORTED` set, so no URL is attempted at all.
 
 ### Finding: MN 61 Anchors No Governed Vocabulary
 
@@ -214,9 +245,12 @@ state so the list cannot grow unnoticed.
 4. `Iti 44` -- 69% dark cluster, 135 words
 5. `SN 12.43` -- completes the `-samudaya` formula family
 
-Before drafting, resolve the unverified lengths by caching the missing root
-texts, and settle the enumeration-stub track separately. It is cheaper than
-any item above and does not compete with them for translation effort.
+Lengths were resolved on 2026-08-20 by caching the missing root texts, which
+moved `SN 50.1` to the stub track and confirmed `MN 77`. Three citations
+remain unverifiable for structural reasons recorded below.
+
+The enumeration-stub track is still unsettled, and it is cheaper than any item
+above without competing with them for translation effort.
 
 ## Ranked Roadmap (Wave 6)
 
