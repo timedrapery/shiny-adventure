@@ -8,8 +8,13 @@
 | dassana | seeing | clear seeing, vision | insight, mystical vision |
 | abhiññā | higher knowing | higher knowledge, direct knowledge | superpower, occult power, insight |
 | pariññā | full understanding | complete understanding, full comprehension | understanding, comprehension |
+| avijjā | ignorance | not-knowing, unawareness | nescience |
+| diṭṭhi | view | viewpoint, opinion, belief | wrong view, doctrine |
+| sammā-diṭṭhi | right view | appropriate view, harmonious perspective, right viewing | correct belief |
 | sampajañña | clear knowing | full awareness | mindfulness |
 | ñāṇadassana | knowing and seeing | knowledge and seeing, knowledge and vision | mystical vision |
-| yathābhūta-ñāṇadassana | knowing and seeing things as they have come to be | knowing and seeing things as they are, clear knowing and seeing | objectivity |
 | vimutti-ñāṇadassana | knowing and seeing of release | knowledge and vision of release, knowledge-and-vision of liberation | mystical experience |
+| yathābhūta-ñāṇadassana | knowing and seeing things as they have come to be | knowing and seeing things as they are, clear knowing and seeing | objectivity |
+| paññāvimutti | release through discernment | release through understanding | intellectual freedom |
+| amoha | clarity | non-delusion | innocence |
 

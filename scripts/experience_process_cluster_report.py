@@ -138,7 +138,7 @@ def render_glossary(terms: dict[str, dict[str, object]]) -> str:
         "| Pali | Default | Allowed alternates | Discouraged |",
         "| --- | --- | --- | --- |",
     ]
-    for stem in HEADWORD_TERMS + ["vedanakkhandha", "sannakkhandha", "vinnanakkhandha", "manosancetana-ahara"]:
+    for stem in HEADWORD_TERMS + SUPPORTING_TERMS:
         data = terms[stem]
         alts = ", ".join(data.get("alternative_translations", []))
         discouraged = ", ".join(data.get("discouraged_translations", []))

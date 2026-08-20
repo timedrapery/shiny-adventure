@@ -8,7 +8,8 @@
 | tarati | crosses over | gets across, crosses | escapes, is liberated, is free |
 | tiṇṇa | crossed over | gone beyond, got across | liberated, freed, escaped |
 | nissaraṇa-dhātu | element of escape | escape element | liberation element, freedom element |
+| cetovimutti | release of mind | mental release | emotional freedom |
+| paññāvimutti | release through discernment | release through understanding | intellectual freedom |
+| vimutti-ñāṇadassana | knowing and seeing of release | knowledge and vision of release, knowledge-and-vision of liberation | mystical experience |
 | yogakkhema | security from the yoke | security from bondage | peace, safety, freedom |
-| oghaṃ atari | crossed over the flood | got across the flood | escaped suffering, became liberated |
-| tiṇṇo pāraṅgato | crossed over, gone to the far shore | having crossed over, gone beyond | fully liberated, enlightened |
 

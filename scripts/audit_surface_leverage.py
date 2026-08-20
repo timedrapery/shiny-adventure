@@ -245,6 +245,8 @@ class ClusterCoverage:
     def total(self) -> int:
         return self.shown + self.orphan + self.uncited
 
+    enumeration_only: int = 0
+
     @property
     def dark(self) -> int:
         """Terms with no running-text demonstration anywhere.
@@ -252,8 +254,24 @@ class ClusterCoverage:
         Orphan percentage alone understates this. An uncited term is not an
         orphan -- it has no anchors to be untranslated -- but it is equally
         invisible in running text, so both count as dark.
+
+        Note that dark deliberately does NOT mean "unpublished". Every term a
+        cluster declares is rendered in its generated glossary, so the policy
+        is always reachable. Dark means the term has never been shown at work
+        in a sentence, which is what a translation surface adds and a table
+        cannot.
         """
         return self.orphan + self.uncited
+
+    @property
+    def dark_reachable(self) -> int:
+        """Dark terms a substantive text could still rescue.
+
+        The rest are anchored only to enumeration stubs, so no honest
+        translation would ever demonstrate them in context. Separating the two
+        keeps the ranking pointed at work that translation can actually do.
+        """
+        return self.dark - self.enumeration_only
 
     @property
     def dark_pct(self) -> float:
@@ -319,9 +337,17 @@ def build_cluster_coverage(
                 row.shown += 1
             else:
                 row.orphan += 1
-                for ref in refs:
-                    if ref not in translated:
-                        row.anchors[ref] = row.anchors.get(ref, 0) + 1
+                untranslated = [r for r in refs if r not in translated]
+                for ref in untranslated:
+                    row.anchors[ref] = row.anchors.get(ref, 0) + 1
+                # A term anchored only to enumeration stubs cannot be rescued
+                # by any honest translation, so it is dark for good.
+                if untranslated and all(
+                    (w := pali_word_count(r)) is not None
+                    and w <= ENUMERATION_STUB_MAX_WORDS
+                    for r in untranslated
+                ):
+                    row.enumeration_only += 1
         if row.total:
             rows.append(row)
     rows.sort(key=lambda r: (-r.dark_pct, -r.dark, r.label))
@@ -338,9 +364,15 @@ def print_cluster_coverage(rows: list[ClusterCoverage], top: int) -> None:
         shown_any = True
         anchors = sorted(row.anchors.items(), key=lambda kv: (-kv[1], kv[0]))[:3]
         anchor_text = ", ".join(f"{name}({count})" for name, count in anchors)
+        stuck = (
+            f", {row.enumeration_only} enumeration-only"
+            if row.enumeration_only
+            else ""
+        )
         print(
             f"- {safe_text(row.label)}: {row.dark}/{row.total} dark "
-            f"({row.dark_pct:.0f}%) -- orphan {row.orphan}, uncited {row.uncited}"
+            f"({row.dark_pct:.0f}%) -- {row.dark_reachable} reachable by a real "
+            f"text{stuck}; orphan {row.orphan}, uncited {row.uncited}"
             + (f"; anchors: {anchor_text}" if anchor_text else "")
         )
     if not shown_any:
@@ -404,6 +436,8 @@ def main() -> int:
                 "orphan": c.orphan,
                 "uncited": c.uncited,
                 "dark": c.dark,
+                "dark_reachable": c.dark_reachable,
+                "enumeration_only": c.enumeration_only,
                 "dark_pct": round(c.dark_pct, 1),
                 "anchors": c.anchors,
             }

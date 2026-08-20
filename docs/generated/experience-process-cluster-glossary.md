@@ -7,6 +7,7 @@
 | saññā | recognition | perception | concept, thought, memory |
 | cetanā | intention | volition | willpower, desire, free will |
 | viññāṇa | knowing | consciousness, awareness | pure awareness, witness consciousness, self, soul, sentience |
+| phassapaccayā vedanā | with contact as condition, felt experience | - | - |
 | vedanākkhandha | felt-experience heap | feeling heap | emotion heap |
 | saññākkhandha | recognition heap | perception heap | concept heap |
 | viññāṇakkhandha | knowing heap | consciousness heap | awareness aggregate |

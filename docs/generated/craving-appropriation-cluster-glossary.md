@@ -10,6 +10,8 @@
 | kāmacchanda | sensual distraction | sensual desire | desire, interest, attraction, lust, pleasant feeling |
 | kāmataṇhā | ignorant wanting for sensuality | sensual craving, craving for sensuality | lust, desire for pleasure, sexual desire |
 | kāma-rāga | passion for sensuality | sensual passion | lust, sexual desire, pleasure |
+| chandarāga | desire and passion | desire with passion | craving, attachment |
+| chandiddhipāda | basis of power grounded in desire | - | - |
 | upādānakkhandha | clung-to heap | heap taken personally, appropriated heap | heap of attachment |
 | pañcupādānakkhandhā | five clung-to heaps | five heaps taken personally, five appropriated heaps, five heaps of clinging | five aggregates of attachment |
 
