@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "Wholesome verbal conduct.",
   "sutta_references": [
+    "DN 2",
     "MN 41"
   ],
   "tags": [
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "vacīsucaritena samannāgatā",
+      "translation": "endowed with good verbal conduct",
+      "notes": "From the divine-eye passage describing beings faring well.",
+      "source": "DN 2"
+    }
+  ]
 }

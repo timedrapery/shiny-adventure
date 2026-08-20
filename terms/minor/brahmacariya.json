@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "The spiritual life or life of practice as a whole.",
   "sutta_references": [
+    "AN 6.63",
     "MN 29"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "imaṁ nibbedhikaṁ brahmacariyaṁ pajānāti",
+      "translation": "they discern this penetrative spiritual life",
+      "notes": "The refrain closing each section of the penetrative exposition.",
+      "source": "AN 6.63"
+    }
+  ]
 }

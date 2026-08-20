@@ -14,10 +14,19 @@
   "untranslated_preferred": false,
   "definition": "Unwholesome mental conduct.",
   "sutta_references": [
+    "DN 2",
     "MN 41"
   ],
   "tags": [
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "manoduccaritena samannāgatā",
+      "translation": "endowed with mental misconduct",
+      "notes": "From the divine-eye passage describing beings faring badly.",
+      "source": "DN 2"
+    }
+  ]
 }

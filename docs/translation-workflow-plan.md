@@ -52,14 +52,22 @@ python -m pip install -r requirements-dev.txt
 
 ## State As Of 2026-08-20
 
-- 42 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
-  which was requested directly rather than drawn from a wave audit.
-- 42 reader pages, one per surface, all generated. 11 carry hand-written
+- 44 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
+  which was requested directly rather than drawn from a wave audit, plus the
+  Wave 7 surfaces MN 43 and SN 51.13.
+- 44 reader pages, one per surface, all generated. 11 carry hand-written
   reader introductions. The reader also publishes a downloadable EPUB.
-- 1,148 term records. `repo_health.py` reports no open backlog in any section.
+- 1,154 term records. `repo_health.py` reports no open backlog in any section.
 - Register audit: 8 signals, all documented exceptions in the rollout plan.
-- The four `upadana` compounds are harmonised on the headword default.
-- Citation sweep: 400 ok, 0 absent.
+  Both new surfaces report zero signals.
+- The four `upadana` compounds are harmonised on the headword default, and the
+  `silabbata` stem renders as `habits and observances` throughout.
+- The threefold `sankhara` triad is harmonised on `conditioner`.
+- Citation sweep: 455 ok, 0 absent, 0 unfetched.
+- 140 orphan records, 27 of them major, down from 185 and 45. Two rounds of
+  the citation-debt pass account for most of that.
+- Every governed term a cluster declares now appears in its generated
+  glossary.
 - The reader deploys automatically from `main` behind the full check suite.
 
 ## Open Work

@@ -17,6 +17,15 @@
     "core-practice"
   ],
   "sutta_references": [
+    "MN 1",
     "MN 113"
+  ],
+  "example_phrases": [
+    {
+      "pali": "sappurisānaṁ adassāvī sappurisadhammassa akovido",
+      "translation": "not seeing true persons, unskilled in the dhamma of true persons",
+      "notes": "From the opening description of the untaught ordinary person.",
+      "source": "MN 1"
+    }
   ]
 }

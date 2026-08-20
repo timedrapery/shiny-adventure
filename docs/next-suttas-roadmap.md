@@ -332,6 +332,55 @@ and `MN 141`, `brahmacariya`, `dhammavinaya`, `sappurisadhamma`,
 `chandarāga`, `upasampadā`, `sikkhāpada`, `santuṭṭhi`. Each needs the same
 treatment: read the segment, write a phrase, verify.
 
+### The Citation-Debt Pass, Second Round
+
+Run 2026-08-20, immediately after the first. Sixteen more verified citations,
+again with no translation.
+
+| | Session start | After round one | After round two |
+| --- | --- | --- | --- |
+| Orphan majors | 45 | 27 | **27** |
+| Orphan records | 185 | 156 | **140** |
+| Anchored records | 429 | 469 | **485** |
+
+Round two was entirely minor entries, which is why the major count did not
+move. The conduct family -- `kayasucarita`, `vacisucarita`, `manosucarita` and
+their three misconduct counterparts -- all came from one segment of `DN 2`,
+the divine-eye passage, which states both halves of the set together. The
+precepts `panatipata`, `adinnadana` and `musavada` came from the conduct
+section of the same discourse, along with `sikkhapada`, `santutthi` and
+`dhammavinaya`. Then `chandaraga` from `DN 15`, `sappurisadhamma` from `MN 1`,
+`upasampada` from `MN 117`, and `brahmacariya` from `AN 6.63`.
+
+All sixteen verify `ok`. The repository-wide sweep now reports 455 `ok`,
+still zero `absent` and zero `unfetched`.
+
+**Three candidates were rejected on inspection**, and they are the useful part
+of the record because they show what the matcher cannot decide:
+
+- `bhikkhunī` matched `bhikkhuno`, which is the genitive of `bhikkhu`, a
+  different word entirely.
+- `dhammatā` matched `dhammataṇhā`, which is `dhamma` plus `taṇhā`.
+- `pārisuddhi` matched `parisuddhaṁ`, the adjective `parisuddha`. Related, but
+  not the noun the record governs.
+
+Each of these would have produced a citation that passes `verify_example_sources.py`,
+because the quoted phrase really is in the cited sutta. The verifier checks
+that a phrase occurs; it cannot check that the phrase contains the term the
+record is about. That gap is the reason this pass is done by reading rather
+than by script.
+
+### What Remains
+
+The word-boundary sweep is now exhausted for terms of eight characters or
+more. Shorter terms were excluded because they collide too often to be worth
+reviewing one by one, so a residue of genuine debt certainly remains among
+them.
+
+The 140 remaining orphans are not all debt. Many are genuine coverage gaps
+whose anchors are untranslated, which is what the ranked candidate list is
+for. Anything still ranked there has now survived two rounds of this pass.
+
 ### Resolved: The Enumeration-Stub Track
 
 Settled 2026-08-20, and not by translation.
@@ -428,12 +477,12 @@ state so the list cannot grow unnoticed.
 
 1. `MN 43` -- the only 100% dark governed cluster
 2. `SN 51.13` -- most orphan majors among substantive texts, and short
-3. **finish the citation-debt pass** -- one round is done and took orphan
-   majors from 37 to 27 without a translation; roughly thirty candidates
-   remain
-4. `Iti 44` -- 69% dark cluster, 135 words. Note that `Iti` is in the
-   verifier's `UNSUPPORTED` set, so citations this surface adds cannot be
-   machine-checked
+3. ~~the citation-debt pass~~ -- **done, two rounds.** Thirty-five verified
+   citations took orphan majors from 45 to 27 and orphans from 185 to 140,
+   without a translation
+4. `Iti 44` -- 69% dark cluster, 135 words, and the only translation left in
+   the wave. Note that `Iti` is in the verifier's `UNSUPPORTED` set, so
+   citations this surface adds cannot be machine-checked
 
 Two of the five original entries have been withdrawn. `MN 70` and
 `SN 12.43` were both ranked on orphans that already-translated surfaces
