@@ -37,11 +37,6 @@ DOCS_FILENAME_ALLOWLIST = {
     "VOICE_STANDARD.md",
     "translation_drift_audit.md",
     "translation_drift_resolution.md",
-    # Unicode-named files created before the ASCII-only filename convention was
-    # enforced; they cannot be deleted but are superseded by their ASCII-named
-    # counterparts (an10-60-giriminanda-sutta.md / -notes.md).
-    "an10-60-girimānanda-sutta.md",
-    "an10-60-girimānanda-sutta-notes.md",
 }
 
 
