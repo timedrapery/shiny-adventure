@@ -923,7 +923,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vaca](../../terms/minor/vaca.json) | vaca | speech | reviewed | ethics, core-practice |
 | [vacchagotta](../../terms/minor/vacchagotta.json) | Vacchagotta | Vacchagotta | reviewed | persons |
 | [vaci-kamma](../../terms/minor/vaci-kamma.json) | vaci-kamma | verbal action | reviewed | ethics |
-| [vaci-sankhara](../../terms/minor/vaci-sankhara.json) | vacīsaṅkhāra | verbal process | reviewed | core-doctrine, translation-sensitive |
+| [vaci-sankhara](../../terms/minor/vaci-sankhara.json) | vacīsaṅkhāra | verbal conditioner | reviewed | core-doctrine, translation-sensitive |
 | [vaciduccarita](../../terms/minor/vaciduccarita.json) | vacīduccarita | bad verbal conduct | reviewed | ethics |
 | [vacisucarita](../../terms/minor/vacisucarita.json) | vacīsucarita | good verbal conduct | reviewed | ethics |
 | [vajrayana](../../terms/minor/vajrayana.json) | vajrayāna | vajrayāna | reviewed | translation-sensitive |
