@@ -52,10 +52,10 @@ python -m pip install -r requirements-dev.txt
 
 ## State As Of 2026-08-21
 
-- 44 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
-  which was requested directly rather than drawn from a wave audit, plus the
-  Wave 7 surfaces MN 43 and SN 51.13.
-- 44 reader pages, one per surface, all generated. Every one now carries a
+- 45 governed translation surfaces. Waves 1 through 7 complete, plus MN 61,
+  which was requested directly rather than drawn from a wave audit. Wave 7 was
+  MN 43, SN 51.13, and Iti 44.
+- 45 reader pages, one per surface, all generated. Every one carries a
   hand-written reader introduction; none is left on the generated default. The
   reader also publishes a downloadable EPUB.
 - 1,155 term records. `repo_health.py` reports no open backlog in any section.
@@ -67,8 +67,9 @@ python -m pip install -r requirements-dev.txt
   `silabbata` stem renders as `habits and observances` throughout.
 - The threefold `sankhara` triad is harmonised on `conditioner`.
 - Citation sweep: 455 ok, 0 absent, 0 unfetched.
-- 140 orphan records, 27 of them major, down from 185 and 45. Two rounds of
-  the citation-debt pass account for most of that.
+- 136 orphan records, 27 of them major, down from 185 and 45. Two rounds of
+  the citation-debt pass account for most of that; Iti 44 anchored the last
+  four.
 - Every governed term a cluster declares now appears in its generated
   glossary.
 - The reader deploys automatically from `main` behind the full check suite.
@@ -77,23 +78,25 @@ python -m pip install -r requirements-dev.txt
 
 Ordered by value, not urgency.
 
-### 1. Translate Wave 7
+### 1. Audit and name Wave 8
 
-Drafted 2026-08-20. The ranking is `MN 43`, `SN 51.13`, `MN 70`, `Iti 44`,
-`SN 12.43`; the reasoning and two method corrections are in
-[next-suttas-roadmap.md](next-suttas-roadmap.md).
+Wave 7 finished on 2026-08-21 with `Iti 44`. Its three translation surfaces
+were `MN 43`, `SN 51.13`, and `Iti 44`; `MN 70` and `SN 12.43` were both
+withdrawn once the citation-debt pass anchored the orphans that justified
+them. The queue is now empty, so the next translation needs a fresh audit
+rather than a pick from a standing list.
 
-The audit is now reproducible rather than hand-computed:
+The audit is reproducible rather than hand-computed:
 
 ```bash
 python scripts/audit_surface_leverage.py
 ```
 
-`MN 43` leads because the emptiness / signless / wishless cluster is the only
-governed cluster with no running text behind a single one of its thirteen
-terms. Two items to settle first: five candidates have uncached root texts, so
-their lengths are unverified; and the enumeration-stub track is cheaper than
-anything in the ranking but belongs in formula records, not surfaces.
+Run against the 45-surface state it currently ranks `DN 22` first (three
+orphan majors: `dhamma`, `kaya`, `sampajanna`), then `MN 119` (`kaya`,
+`kayagata-sati`) and `SN 48.10` (`indriya`, `saddha`, 297 words). Confirm each
+leverage signal against the source before committing to a queue position; that
+is the method correction Wave 6 paid for.
 
 ### 2. Smaller items
 
@@ -306,6 +309,15 @@ resolved without turning up a single wrong citation.
 One gap is still open: `Dhp`, `Ud`, `Iti`, `Snp`, `Thag`, `Thig`, and `KN`
 are in the `UNSUPPORTED` set, so 27 citations are never checked at all. If a
 verse citation is wrong, nothing in the repository would notice.
+
+**That gap has now produced a real defect.** Translating `Iti 44` on
+2026-08-21 meant hand-checking the four `nibbana-dhatu` records against the
+cached root text, and one of them cited `sa-upādisesā nibbānadhātu` -- a
+hyphenated form the text does not contain. It had sat there unnoticed because
+no script can read `Iti`. The fix was trivial; finding it was not, and nothing
+except translating the sutta would have surfaced it. The other three verified
+clean. Treat the remaining 27 unsupported citations as unverified rather than
+as passing, and hand-check any of them that a new surface touches.
 
 ## Concrete Next Tasks
 

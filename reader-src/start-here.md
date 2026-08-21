@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 44 translations in this collection, for someone new to this material.
+A suggested order for reading the 45 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -74,6 +74,7 @@ Technical material that rewards already knowing the vocabulary cold. These are t
 - [**MN 18: Madhupiṇḍika Sutta**](suttas/mn18-madhupindika-sutta.md) — The honey-ball sutta, on how recognition snowballs into proliferating thought. Famously dense even by this collection's standards.
 - [**MN 99: Subha Sutta**](suttas/mn99-subha-sutta.md) — A dialogue defending renunciant life against a brahmin's claim that household life is better. Good late-stage read for weighing the whole path against the alternative.
 - [**MN 1: Mūlapariyāya Sutta**](suttas/mn1-mulapariyaya-sutta.md) — "The root of all things." Traditionally regarded as one of the most difficult texts in the collection. Deliberately last: it rewards everything that came before it and rewards very little read cold.
+- [**Iti 44: Nibbānadhātu Sutta**](suttas/iti44-nibbanadhatu-sutta.md) — A short reference text defining the two nibbāna elements. Read it for one distinction: what has already happened to a living arahant's mind, and what happens to everything they feel.
 
 ## If you only read five
 

@@ -301,6 +301,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         main_relpath="docs/translations/dn15-mahanidana-sutta.md",
         notes_relpath="docs/translations/dn15-mahanidana-sutta-notes.md",
     ),
+    TranslationSurface(
+        key="iti44",
+        label="Iti 44",
+        main_relpath="docs/translations/iti44-nibbanadhatu-sutta.md",
+        notes_relpath="docs/translations/iti44-nibbanadhatu-sutta-notes.md",
+    ),
 )
 
 
@@ -636,6 +642,12 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "\"The root of all things.\" Traditionally regarded as one of the most "
         "difficult texts in the collection. Deliberately last: it rewards "
         "everything that came before it and rewards very little read cold.",
+    ),
+    "iti44": ReaderMeta(
+        "Nibbānadhātu Sutta", 5, 14,
+        "A short reference text defining the two nibbāna elements. Read it "
+        "for one distinction: what has already happened to a living arahant's "
+        "mind, and what happens to everything they feel.",
     ),
 }
 

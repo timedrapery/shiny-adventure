@@ -179,7 +179,13 @@ process, five heaps, four noble truths, and sense-fields.
   the repository currently governs as separate records with no surface showing
   them contrasted.
 
-### 4. Iti 44: Nibbānadhātu Sutta
+### 4. Iti 44: Nibbānadhātu Sutta (complete)
+
+- **Translated 2026-08-21.** Anchors all four `nibbana-dhatu` records, taking
+  orphans from 140 to 136. Also the repository's first Itivuttaka surface, so
+  it settles the collection's framing formulas. The hand-check its
+  `UNSUPPORTED` status forced turned up a wrong citation in
+  `saupadisesa-nibbana-dhatu`; see the workflow plan.
 
 - Leverage signal: 135 Pali words, four orphans, and the consummation /
   unconditioned cluster is 69% dark.
@@ -480,11 +486,12 @@ state so the list cannot grow unnoticed.
 3. ~~the citation-debt pass~~ -- **done, two rounds.** Thirty-five verified
    citations took orphan majors from 45 to 27 and orphans from 185 to 140,
    without a translation
-4. `Iti 44` -- 69% dark cluster, 135 words, and the only translation left in
-   the wave. Note that `Iti` is in the verifier's `UNSUPPORTED` set, so
-   citations this surface adds cannot be machine-checked
+4. ~~`Iti 44`~~ -- **done 2026-08-21.** 69% dark cluster, 135 words, and the
+   last translation in the wave. `Iti` is in the verifier's `UNSUPPORTED` set,
+   so every citation it added was checked by hand instead -- which is how a
+   wrong one already in the lexicon was found
 
-Two of the five original entries have been withdrawn. `MN 70` and
+**Wave 7 is complete.** Two of the five original entries have been withdrawn. `MN 70` and
 `SN 12.43` were both ranked on orphans that already-translated surfaces
 demonstrate; see their entries above. Wave 7 as translation work is now
 `MN 43` and `SN 51.13`, both done, plus `Iti 44`. The rest of the value in

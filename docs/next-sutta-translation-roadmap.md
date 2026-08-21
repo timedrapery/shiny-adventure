@@ -10,7 +10,11 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
+<<<<<<< HEAD
 ## Completed Surfaces (44 total)
+=======
+## Completed Surfaces (45 total)
+>>>>>>> 6083840 (feat(translation): add Iti 44, the two nibbana elements)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -57,6 +61,11 @@ Use that full roadmap as the source of truth for:
 ### Wave 7: Dark Clusters and Orphan Majors
 - `MN 43` Mahāvedalla Sutta (The Longer Analysis)
 - `SN 51.13` Chandasamādhi Sutta (The Four Bases of Power)
+<<<<<<< HEAD
+=======
+- `Iti 44` Nibbānadhātu Sutta (The Two Nibbāna Elements) — the repository's
+  first Itivuttaka surface
+>>>>>>> 6083840 (feat(translation): add Iti 44, the two nibbana elements)
 
 ### Outside the Wave Sequence
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
@@ -81,8 +90,10 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 7 is drafted.** Audited 2026-08-20; the full ranking and its two
-method corrections are in
+**Wave 7 is complete as of 2026-08-21.** All three of its translation
+surfaces are done and the queue is empty; naming Wave 8 requires rerunning the
+audit against the current 45-surface state. Audited 2026-08-20; the full
+ranking and its two method corrections are in
 [next-suttas-roadmap.md](next-suttas-roadmap.md). Rerun it with
 `python scripts/audit_surface_leverage.py` rather than recomputing by hand.
 
@@ -98,8 +109,11 @@ Order:
    to 140, with no translation. Both `MN 70` and `SN 12.43` were withdrawn
    from this queue because the orphans justifying them were already
    demonstrated by `MN 43` and `MN 9`
-4. `Iti 44` -- the two nibbana elements; consummation cluster is 69% dark
-5. `SN 12.43` -- completes the `-samudaya` formula family in 183 words
+4. `Iti 44` -- **translated 2026-08-21.** The two nibbana elements. Anchors
+   the four `nibbana-dhatu` records, taking orphans from 140 to 136, and sets
+   the repository's handling of the Itivuttaka framing formulas
+5. ~~`SN 12.43`~~ -- **withdrawn 2026-08-20**, along with `MN 70`; see the
+   citation-debt entry above
 
 Both pre-drafting questions are now settled. Lengths were resolved by caching
 the missing root texts. The enumeration-stub track is closed: those terms were

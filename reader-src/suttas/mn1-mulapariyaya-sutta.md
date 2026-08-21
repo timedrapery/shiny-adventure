@@ -410,7 +410,7 @@ had said.
 
 ---
 
-[← MN 99: Subha Sutta](mn99-subha-sutta.md) · [All suttas](index.md)
+[← MN 99: Subha Sutta](mn99-subha-sutta.md) · [All suttas](index.md) · [Iti 44: Nibbānadhātu Sutta →](iti44-nibbanadhatu-sutta.md)
 
 
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
