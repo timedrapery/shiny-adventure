@@ -25,19 +25,19 @@
 
 ### The Setting
 
-So I have heard. At one time the Blessed One was staying near Rājagaha, in
+So I have heard. At one time the Buddha was staying near Rājagaha, in
 the Bamboo Grove, at the Squirrels' Feeding Ground. Now at that time
 Venerable Rāhula was staying at Ambalaṭṭhikā.
 
-Then, when it was evening, the Blessed One rose from seclusion and went to
+Then, when it was evening, the Buddha rose from seclusion and went to
 Ambalaṭṭhikā, to where Venerable Rāhula was. Venerable Rāhula saw the
-Blessed One coming in the distance and prepared a seat and water for washing
-the feet. The Blessed One sat down on the seat prepared for him and washed
-his feet. Venerable Rāhula bowed to the Blessed One and sat down to one side.
+Buddha coming in the distance and prepared a seat and water for washing
+the feet. The Buddha sat down on the seat prepared for him and washed
+his feet. Venerable Rāhula bowed to the Buddha and sat down to one side.
 
 ### The Water Vessel
 
-Then the Blessed One, leaving a little water in the water vessel, said to
+Then the Buddha, leaving a little water in the water vessel, said to
 Venerable Rāhula: "Rāhula, do you see this little water left in the water
 vessel?"
 
@@ -46,7 +46,7 @@ vessel?"
 "So little, Rāhula, is the contemplation of those who feel no shame in
 speaking a deliberate lie."
 
-Then the Blessed One threw away that little water and said to Venerable
+Then the Buddha threw away that little water and said to Venerable
 Rāhula: "Rāhula, do you see this little water that has been thrown away?"
 
 "Yes, Bhante."
@@ -54,7 +54,7 @@ Rāhula: "Rāhula, do you see this little water that has been thrown away?"
 "Rāhula, whoever feels no shame in speaking a deliberate lie throws away
 their contemplation just like that."
 
-Then the Blessed One turned that water vessel upside down and said to
+Then the Buddha turned that water vessel upside down and said to
 Venerable Rāhula: "Rāhula, do you see this water vessel turned upside down?"
 
 "Yes, Bhante."
@@ -62,7 +62,7 @@ Venerable Rāhula: "Rāhula, do you see this water vessel turned upside down?"
 "Rāhula, whoever feels no shame in speaking a deliberate lie turns their
 contemplation upside down just like that."
 
-Then the Blessed One set that water vessel right side up and said to
+Then the Buddha set that water vessel right side up and said to
 Venerable Rāhula: "Rāhula, do you see this water vessel, empty and void?"
 
 "Yes, Bhante."
@@ -263,7 +263,7 @@ repeatedly reflecting on it. I will purify my mental action by repeatedly
 reflecting on it.' It is in this way, Rāhula, that you should train
 yourself."
 
-That is what the Blessed One said. Venerable Rāhula was satisfied and
-welcomed what the Blessed One had said.
+That is what the Buddha said. Venerable Rāhula was satisfied and
+welcomed what the Buddha had said.
 
 The first discourse is finished.
