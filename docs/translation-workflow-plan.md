@@ -58,7 +58,7 @@ python -m pip install -r requirements-dev.txt
 - 45 reader pages, one per surface, all generated. Every one carries a
   hand-written reader introduction; none is left on the generated default. The
   reader also publishes a downloadable EPUB.
-- 1,155 term records. `repo_health.py` reports no open backlog in any section.
+- 1,154 term records. `repo_health.py` reports no open backlog in any section.
 - Register audit: 5 signals, all documented exceptions in the rollout plan.
   Both new surfaces report zero signals. The rollout plan still says 8; that
   figure counted notes files, which the audit no longer scans. Same three
@@ -66,10 +66,10 @@ python -m pip install -r requirements-dev.txt
 - The four `upadana` compounds are harmonised on the headword default, and the
   `silabbata` stem renders as `habits and observances` throughout.
 - The threefold `sankhara` triad is harmonised on `conditioner`.
-- Citation sweep: 466 ok, 0 absent, 0 unfetched, 0 partial.
-- 136 orphan records, 27 of them major, down from 185 and 45. Two rounds of
-  the citation-debt pass account for most of that; Iti 44 anchored the last
-  four.
+- Citation sweep: 470 ok, 0 absent, 0 unfetched, 0 partial.
+- 133 orphan records, 26 of them major, down from 185 and 45. Two rounds of
+  the citation-debt pass account for most of that; Iti 44 anchored four more,
+  and the partial-citation sweep anchored the rest.
 - Every governed term a cluster declares now appears in its generated
   glossary.
 - The reader deploys automatically from `main` behind the full check suite.
