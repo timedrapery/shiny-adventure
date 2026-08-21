@@ -20,14 +20,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "khaye ñāṇaṃ",
-      "translation": "knowledge of wearing away",
-      "notes": "Shows the khaya family carried into a knowledge-expression.",
-      "source": "MN 70"
+      "pali": "vimuttūpanisaṁ khaye ñāṇan",
+      "translation": "knowledge of the wearing away has release as its condition",
+      "notes": "Shows the khaya family carried into a knowledge-expression. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
-    "MN 70"
+    "SN 12.23"
   ],
   "tags": [
     "liberation",

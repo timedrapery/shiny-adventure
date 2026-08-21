@@ -45,10 +45,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "cetovimuttiṃ paññāvimuttiṃ diṭṭheva dhamme sayaṃ abhiññā sacchikatvā upasampajja viharati",
-      "translation": "one lives having personally realized release of mind and release through discernment in this very life",
-      "notes": "Shows the classic paired liberation formula.",
-      "source": "MN 70"
+      "pali": "yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato ahaṅkāramamaṅkāramānānusayā na honti",
+      "translation": "the release of mind and release through discernment, dwelling in which the underlying tendencies to I-making, mine-making, and conceit do not occur",
+      "notes": "Shows the classic paired liberation formula. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "AN 3.32"
     },
     {
       "pali": "animittāya cetovimuttiyā samāpattiyā",
@@ -59,7 +59,7 @@
   ],
   "sutta_references": [
     "MN 43",
-    "MN 70"
+    "AN 3.32"
   ],
   "tags": [
     "core-doctrine",

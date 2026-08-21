@@ -54,15 +54,15 @@
       "source": "MN 43"
     },
     {
-      "pali": "animitto vimokkho",
-      "translation": "the signless release",
-      "notes": "Shows the headword's role within the three release-side gateways.",
-      "source": "AN 3.32"
+      "pali": "animitto samādhi",
+      "translation": "signless composure",
+      "notes": "Shows the headword's role within the three release-side gateways. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "SN 43.4"
     }
   ],
   "sutta_references": [
     "MN 43",
-    "AN 3.32"
+    "SN 43.4"
   ],
   "tags": [
     "core-doctrine",

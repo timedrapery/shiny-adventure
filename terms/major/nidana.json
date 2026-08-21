@@ -44,15 +44,15 @@
   ],
   "example_phrases": [
     {
-      "pali": "paṭiccasamuppādassa nidānaṃ",
-      "translation": "a link in dependent origination",
-      "notes": "Shows analytical use.",
-      "source": "SN 12.1"
+      "pali": "Ime, bhikkhave, cattāro āhārā kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?",
+      "translation": "And these four nutriments, bhikkhus — what is their source? What is their origin? What are they born from? What produces them?",
+      "notes": "Shows analytical use. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "SN 12.11"
     }
   ],
   "sutta_references": [
-    "SN 12.1",
-    "SN 12.2"
+    "SN 12.2",
+    "SN 12.11"
   ],
   "tags": [
     "core-doctrine",
