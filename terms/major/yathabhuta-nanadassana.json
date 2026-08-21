@@ -46,10 +46,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "yathābhūtaṃ pajānāti",
-      "translation": "one discerns it as it has come to be",
-      "notes": "Shows the sharper verbal family usage behind the compound.",
-      "source": "MN 1"
+      "pali": "So idaṁ dukkhanti yathābhūtaṁ pajānāti",
+      "translation": "They understand as it really is: this is dissatisfaction",
+      "notes": "Shows the sharper verbal family usage behind the compound. MN 1 contains neither `pajānāti` nor `yathābhūta`; its verb throughout is `abhijānāti`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "DN 2"
     },
     {
       "pali": "yathābhūtañāṇadassana",
@@ -60,7 +60,7 @@
   ],
   "sutta_references": [
     "SN 12.23",
-    "MN 1"
+    "DN 2"
   ],
   "tags": [
     "core-doctrine",

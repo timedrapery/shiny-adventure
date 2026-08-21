@@ -14,9 +14,9 @@
   "notes": "Use this record for the untrained painful-feeling response in MN 148. Keep the escalating sequence explicit rather than compressing it into generic suffering or aversion language.",
   "example_phrases": [
     {
-      "pali": "dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati uraṁtadati sammohaṁ āpajjati",
-      "translation": "when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings",
-      "notes": "Untrained painful-feeling response in MN 148.",
+      "pali": "Dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati urattāḷiṁ kandati sammohaṁ āpajjati",
+      "translation": "Touched by painful feeling, they sorrow, grieve, lament, beat their breast, wail, and fall into confusion.",
+      "notes": "Untrained painful-feeling response in MN 148. MN 148 reads `urattāḷiṁ kandati` -- beating the breast and wailing. The record carried `uraṁtadati`, which is not a Pali word; a garbled transcription rather than a wrong citation. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "MN 148"
     }
   ],

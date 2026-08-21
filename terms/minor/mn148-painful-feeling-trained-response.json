@@ -14,9 +14,9 @@
   "notes": "Use this record for the trained painful-feeling response in MN 148. Keep the full inverse sequence explicit rather than flattening it into generic calm-under-pain language.",
   "example_phrases": [
     {
-      "pali": "dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na uraṁtadati na sammohaṁ āpajjati",
-      "translation": "when painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings",
-      "notes": "Trained painful-feeling response in MN 148.",
+      "pali": "Dukkhāya vedanāya phuṭṭho samāno na socati na kilamati na paridevati na urattāḷiṁ kandati na sammohaṁ āpajjati",
+      "translation": "Touched by painful feeling, they do not sorrow, grieve, lament, beat their breast, wail, or fall into confusion.",
+      "notes": "Trained painful-feeling response in MN 148. MN 148 reads `urattāḷiṁ kandati` -- beating the breast and wailing. The record carried `uraṁtadati`, which is not a Pali word; a garbled transcription rather than a wrong citation. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "MN 148"
     }
   ],

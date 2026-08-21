@@ -22,14 +22,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "yathābhūtaṃ pajānāti",
-      "translation": "one discerns it as it has come to be",
-      "notes": "Core formula surface for the sharper verbal knowing family.",
-      "source": "MN 1"
+      "pali": "So idaṁ dukkhanti yathābhūtaṁ pajānāti",
+      "translation": "They understand as it really is: this is dissatisfaction",
+      "notes": "Core formula surface for the sharper verbal knowing family. MN 1 contains neither `pajānāti` nor `yathābhūta`; its verb throughout is `abhijānāti`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "DN 2"
     }
   ],
   "sutta_references": [
-    "MN 1"
+    "DN 2"
   ],
   "tags": [
     "core-doctrine",

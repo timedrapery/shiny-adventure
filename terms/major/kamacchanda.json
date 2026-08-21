@@ -47,21 +47,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "kāmacchandanīvaraṇa",
-      "translation": "the sensual distraction",
-      "notes": "Shows the standard fivefold-list member.",
-      "source": "DN 2"
-    },
-    {
-      "pali": "kāmacchandassa pahānāya",
-      "translation": "for the abandoning of sensual distraction",
-      "notes": "Shows the term in practice-oriented framing.",
-      "source": "MN 39"
+      "pali": "santaṁ vā ajjhattaṁ kāmacchandaṁ ‘atthi me ajjhattaṁ kāmacchando’ti pajānāti",
+      "translation": "when there is desire for sensuality in them, they understand `there is desire for sensuality in me`",
+      "notes": "Shows the standard fivefold-list member. DN 2 contains no `kāmacchanda`; it names the hindrance by its content rather than its name. Repaired 2026-08-21 in the inflected/inconclusive sweep. This record previously carried two examples, citing DN 2 for `kāmacchandanīvaraṇa` and MN 39 for `kāmacchandassa pahānāya`. Neither sutta contains `kāmacchanda` in any form -- both name the hindrance by its content rather than its name -- so both were replaced by this MN 10 line and the duplicate removed.",
+      "source": "MN 10"
     }
   ],
   "sutta_references": [
-    "DN 2",
-    "MN 39"
+    "MN 10"
   ],
   "tags": [
     "core-practice",

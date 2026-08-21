@@ -53,20 +53,13 @@
   ],
   "example_phrases": [
     {
-      "pali": "appaṇihitaṃ cetosamādhiṃ upasampajja viharati",
-      "translation": "one enters and remains in wishless composure of mind",
-      "notes": "Shows the contemplative-designation use carried by the headword.",
-      "source": "MN 43"
-    },
-    {
       "pali": "appaṇihito samādhi",
       "translation": "wishless composure",
-      "notes": "Shows the wishless member of the three-composure set.",
+      "notes": "Shows the wishless member of the three-composure set. An example citing MN 43 for `appaṇihitaṁ cetosamādhiṁ` was removed on 2026-08-21. MN 43 contains no `appaṇihita` in any form: its four liberations of mind are `appamāṇā`, `ākiñcaññā`, `suññatā`, and `animittā`. This matters beyond the citation -- the Wave 7 audit ranked MN 43 first partly on its carrying `appanihita`, and it does not.",
       "source": "SN 43.4"
     }
   ],
   "sutta_references": [
-    "MN 43",
     "SN 43.4"
   ],
   "tags": [
