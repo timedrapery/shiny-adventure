@@ -10,7 +10,7 @@
 ## About this text
 
 A dyer takes a piece of cloth that is dirty and stained, dips it into dye, and
-the colour comes out badly — not because the dye was poor, but because of what
+the color comes out badly — not because the dye was poor, but because of what
 was already in the cloth.
 
 That is the whole argument. What you do lands on the mind you already have, and

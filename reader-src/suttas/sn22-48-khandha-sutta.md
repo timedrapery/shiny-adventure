@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+A definition, and almost nothing else. The five heaps are named -- form, felt
+experience, recognition, putting-together activities, knowing -- and then the
+same five are named again, this time as the clung-to heaps.
+
+The difference between the two lists is the entire point. The heaps are just
+the working parts of experience. They become the clung-to heaps when they are
+taken as me and mine.
+
+One page, and worth reading before any of the longer not-self texts, all of
+which assume you already have this vocabulary.
 
 ## The Setting
 

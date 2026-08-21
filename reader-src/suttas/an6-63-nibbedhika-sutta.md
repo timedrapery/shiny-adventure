@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+One analytical frame, applied six times. For each of sensuality, felt
+experience, recognition, the outflows, action, and dissatisfaction, the text
+asks the same six questions: what it is, where it comes from, how it varies,
+what it results in, how it ceases, and the way leading to its ceasing.
+
+The line most often quoted from it sits in the section on action: intention
+is what action is. What gets done by body, speech, and mind follows from
+that.
+
+The uniform structure makes this an unusually good text for comparison. Six
+different subjects, and because everything else is held constant, you can see
+exactly where they differ.
 
 ## The Setting
 

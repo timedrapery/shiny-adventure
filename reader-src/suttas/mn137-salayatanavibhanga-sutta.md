@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+A systematic breakdown of experience through the senses: six internal fields,
+six external, six classes of knowing, six of contact, and then eighteen
+mental explorations and thirty-six positions built on top of those.
+
+The useful part arrives after the enumeration. The instruction is to use one
+thing to give up another -- the gladness of renunciation replaces the
+gladness of the senses, and then in its turn that is given up too.
+
+It ends somewhere unexpected for a text this technical: three establishments
+of remembering that describe how a teacher stays steady whether or not the
+students actually listen.
 
 ## The Setting
 

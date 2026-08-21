@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Mahākoṭṭhika asks Sāriputta one precise question after another, and Sāriputta
+answers each. What discernment is, and how it differs from knowing. How felt
+experience, recognition, and knowing relate -- joined, he says, not
+separable. What the first mental theme consists of. What the faculties rest
+on. What the different kinds of release actually are.
+
+This is the longer and harder companion to MN 44, and it assumes more. Read
+that one first.
+
+The final third is where the vocabulary of release gets its most careful
+handling anywhere on this site -- the place to come when "release of mind"
+and "release through discernment" have started to blur together.
 
 ## The Setting
 

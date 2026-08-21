@@ -9,7 +9,19 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Mālukyaputta -- the same disciple who asked the unanswerable questions in
+MN 63 -- lists the five lower fetters correctly and is immediately challenged
+on it.
+
+The challenge is the infant simile. A baby lying on its back has no view of
+self, no doubt, no attachment to rules and rituals, because it has no
+concepts at all yet. Does that make it free of the fetters? No: the tendency
+still lies underneath, waiting for something to attach to.
+
+Then the way out, mental theme by mental theme, with the Ganges simile for
+why it cannot be skipped: a weak man does not get to swim the flooded river
+just because a strong one can. This is MN 63's disciple further along the
+road, and it reads best after that text.
 
 ## The Setting
 

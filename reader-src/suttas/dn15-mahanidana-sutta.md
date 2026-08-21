@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Ānanda remarks that dependent arising seems perfectly clear to him. "Do not
+say so, Ānanda" -- and what follows is the longest and most demanding
+treatment of it anywhere in the collection.
+
+Two things here appear nowhere else in this set. The chain runs in both
+directions between knowing and name-and-form, each conditioning the other,
+rather than in a single line. And there is a long, startlingly concrete
+passage tracing how quarrels, weapons, and lies grow step by step out of felt
+experience by way of wanting and possessiveness.
+
+It closes on the various ways people designate a self, and on the position of
+someone who does not. This is the capstone of the set, not the way into it.
 
 ## The Setting
 

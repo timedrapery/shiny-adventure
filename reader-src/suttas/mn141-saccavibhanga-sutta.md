@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+The Buddha names the four noble truths, points to Sāriputta and Moggallāna,
+and steps back. Sāriputta is like the mother who gives birth, he says, and
+Moggallāna like the nurse who raises the child.
+
+Sāriputta then gives the truths their full analytical treatment: what
+dissatisfaction covers, item by item; what its origin is; what its quenching
+is; and each of the eight path factors defined in turn.
+
+If SN 56.11 was the compressed statement, this is the expanded one. It is
+where to look when you want to know exactly what a path factor is supposed to
+mean.
 
 ## The Setting
 

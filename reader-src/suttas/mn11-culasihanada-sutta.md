@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+"Only here is there a true renunciant." The claim is deliberately
+provocative, and the Buddha raises the obvious objection himself: other
+traditions say exactly the same thing about themselves. So what actually
+makes the difference?
+
+The answer is a test rather than an assertion. Can a teaching account for all
+four ways of taking things personally -- sensuality, views, habits and
+observances, and doctrines of self? A teaching that misses that last one
+leaves its own followers holding the very thing it claims to free them from.
+
+It is a short text about how to evaluate a claim, which makes it an unlikely
+but real companion to AN 3.65 back at the start of this reading order.
 
 ## The Setting
 

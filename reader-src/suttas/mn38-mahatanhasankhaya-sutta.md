@@ -9,7 +9,19 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+A monk named Sāti gets it badly wrong. He has decided the Buddha teaches that
+it is "this very knowing that roams and transmigrates, not another" -- a soul
+under a different name. His fellow monks cannot talk him out of it, so the
+matter goes to the Buddha.
+
+The correction takes up the rest of the discourse. Knowing is named by
+whatever condition it arises from, the way a fire is named by what it burns:
+a wood fire, a grass fire. There is no knowing that travels along intact
+underneath.
+
+What makes this one valuable is that it argues rather than asserts. You watch
+a wrong version get taken seriously and then dismantled, which is more useful
+than being handed the right version directly.
 
 ## The Setting
 

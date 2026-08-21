@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Some problems you solve by seeing them clearly. Others you solve by not
+walking down that street. This text sorts the things that wear the mind down
+into seven groups and gives each one its own handling: seeing, restraining,
+using, enduring, avoiding, dispelling, and developing.
+
+The practical claim is that the wrong method on the wrong problem simply
+fails. You cannot endure your way out of a wrong view, and you cannot think
+your way out of standing too close to a dangerous animal.
+
+The stretch on unwise questions and the thicket of views is the part most
+worth slowing down for -- it is about the questions that feel deep but only
+tie you in knots.
 
 ## The Setting
 

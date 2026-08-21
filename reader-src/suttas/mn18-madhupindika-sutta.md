@@ -9,7 +9,21 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+A Sakyan named Daṇḍapāṇi asks the Buddha what he teaches. The answer is so
+compressed that he shakes his head, sticks out his tongue, and walks off
+leaning on his staff.
+
+The Buddha repeats the same compressed answer to the monks -- then gets up
+and goes into his dwelling without explaining it. They take the problem to
+Mahākaccāna, who unpacks it: from the eye and its object comes knowing, then
+contact, then felt experience, then recognition, then thinking, and then
+proliferation, which turns back on the person and overruns them. The sequence
+tips at the point where you stop having an experience and start being run by
+the commentary on it.
+
+Ānanda's response gives the text its name. Coming across this teaching, he
+says, is like a starving man finding a honey ball -- sweet wherever you taste
+it. Both reactions in this text are fair ones.
 
 ## The Setting
 

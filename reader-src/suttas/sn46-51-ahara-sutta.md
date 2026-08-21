@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Anything that grows is being fed something. This text takes that literally:
+each of the five distractions has a diet, and so does each of the seven
+awakening factors, and you can starve the one while feeding the other.
+
+The mechanism is attention. Whatever you keep giving unwise attention to
+grows; whatever you stop feeding weakens on its own.
+
+It is schematic and short, and it turns the general advice of the texts
+before it into something you can actually act on -- not "be less distracted",
+but "stop feeding this particular thing".
 
 ## The Setting
 
