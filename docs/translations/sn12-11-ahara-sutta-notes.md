@@ -83,7 +83,12 @@ finally governs running text.
 - The fourfold source question is likely to recur — it appears in this pattern
   elsewhere in the Nidāna collection — so it is a candidate for a formula
   record. This surface establishes the wording; a record should follow if a
-  second surface needs it.
+  second surface needs it. **Resolved 2026-08-21.** Promoted to
+  `kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula`, which records this
+  surface's wording as the governing one. The pass found a third surface as
+  well: MN 38 carries the same passage in identical Pali and had re-solved it
+  locally. It now follows this surface. DN 21 carries the question form alone
+  and is not yet translated.
 - `sambhavesī` is left ungoverned. It carries a real distinction against
   `bhūta` that this discourse depends on, and if another surface needs it, it
   should get a minor entry rather than a second local solution.
