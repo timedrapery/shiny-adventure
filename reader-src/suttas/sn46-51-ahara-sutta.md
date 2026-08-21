@@ -219,6 +219,17 @@ The first discourse is finished.
 [← MN 39: Mahā-Assapura Sutta](mn39-maha-assapura-sutta.md) · [All suttas](index.md) · [Nothing Here Is You →](sn22-59-anattalakkhana-sutta.md)
 
 
+*[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
+*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
+*[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
+*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
+*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
+*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
+*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
+*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.

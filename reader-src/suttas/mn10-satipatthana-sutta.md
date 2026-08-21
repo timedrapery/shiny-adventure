@@ -442,17 +442,31 @@ Buddha had said.
 [← MN 118: Ānāpānasati Sutta](mn118-anapanasati-sutta.md) · [All suttas](index.md) · [DN 2: Sāmaññaphala Sutta →](dn2-samannaphala-sutta.md)
 
 
+*[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
+*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
+*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
+*[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
+*[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
+*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
+*[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
+*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
+*[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
+*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.

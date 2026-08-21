@@ -117,5 +117,6 @@ The third discourse is finished.
 [← The Dirty Cloth](mn7-vattha-sutta.md) · [All suttas](index.md) · [SN 55.5: Dutiyasāriputta Sutta →](sn55-5-dutiyasariputta-sutta.md)
 
 
+*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
