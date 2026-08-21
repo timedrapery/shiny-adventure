@@ -201,9 +201,11 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 [← Test It Yourself](an3-65-kesamutta-sutta.md) · [All suttas](index.md) · [The Two Searches →](mn26-pasarasi-sutta.md)
 
 
+*[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[arrow]: A recurring image across these texts with more than one meaning. In MN 63 it's a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it's a different image entirely: an ordinary person's pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
+*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)

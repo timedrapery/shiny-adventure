@@ -194,6 +194,15 @@ The ninth discourse is finished.
 [← SN 55.5: Dutiyasāriputta Sutta](sn55-5-dutiyasariputta-sutta.md) · [All suttas](index.md) · [Two Kinds of Thinking →](mn19-dvedhavitakka-sutta.md)
 
 
+*[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
+*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
+*[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
+*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
+*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
+*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
