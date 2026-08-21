@@ -13,7 +13,7 @@ A wild colt tied up next to its feed can think about exactly one thing.
 *Fodder, fodder.* Not because it is stupid, but because nothing else has ever
 been asked of it.
 
-The Buddha uses that against a fairly recognisable failure of meditation:
+The Buddha uses that against a fairly recognizable failure of meditation:
 sitting down, being overrun by whatever is loudest — wanting, irritation,
 dullness, agitation, doubt — and then chewing on it. Not resisting it. Chewing
 on it. The alternative is not concentrating harder on a better object; it is

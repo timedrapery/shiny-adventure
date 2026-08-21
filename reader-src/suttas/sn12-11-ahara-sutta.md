@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Four things keep a life going: physical food, contact, intention, and
+knowing. The text names them, then asks what they depend on in turn -- and
+the answer walks straight back down the dependent-arising chain.
+
+The move worth catching is the one that treats contact and intention as
+nutriment in the same sense as food. They are not being compared to feeding
+here; they are what an ongoing life actually runs on.
+
+Not to be confused with SN 46.51, which shares its name and does something
+quite different.
 
 ## The Setting
 

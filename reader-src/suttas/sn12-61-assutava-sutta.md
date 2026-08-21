@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+An argument that runs the opposite way from the one you expect. If you are
+going to identify with something, the Buddha says, pick the body. It lasts
+decades, and you can watch it change.
+
+The mind is the worse candidate, precisely because it changes fastest: by day
+and by night it arises as one thing and ceases as another, like a monkey
+moving through the forest, grabbing one branch, letting go, taking the next.
+
+The point is not that you have a self after all. It is that the thing people
+treat most confidently as their stable inner core is the least stable thing
+they own.
 
 ## The Setting
 

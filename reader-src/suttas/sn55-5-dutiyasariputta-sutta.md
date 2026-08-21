@@ -9,7 +9,14 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Sāriputta is asked what actually sets someone on the path, and his answer
+starts somewhere you might not expect: with other people. Keeping good
+company comes first. Then hearing the teaching, then attending to it
+carefully, then practicing in line with it.
+
+It is a short exchange, and the order is the point. The first step is not an
+inward one at all -- it is about who you spend your time around. Everything
+inward comes after that.
 
 ## The Setting
 

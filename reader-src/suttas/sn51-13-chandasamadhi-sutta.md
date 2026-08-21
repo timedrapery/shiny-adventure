@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+One formula, stated four times over, with a single word changed each time:
+composure through desire, through energy, through the feeling mind, through
+investigation -- each paired with the effort of putting things together.
+
+Every version then unfolds the same way. The effort not to let unhelpful
+states arise, to abandon the ones that have, to bring about the helpful ones,
+and to keep them going.
+
+Short, and useful mainly as a reference for how the effort formula is
+assembled. Once you have watched it built four times, you start recognizing
+it everywhere else in the collection.
 
 ## Composure Through Desire
 

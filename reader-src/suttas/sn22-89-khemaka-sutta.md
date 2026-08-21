@@ -9,7 +9,19 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Khemaka, who is ill, is asked through messengers whether he finds any self in
+the five heaps. No, he says. So is he an arahant? Also no -- because
+something is still there, a faint "I am" he cannot locate in any particular
+heap.
+
+His image is the scent of a flower. You cannot say the scent belongs to the
+petal, or the color, or the pollen; it belongs to the flower. And then a
+second: a filthy cloth is washed clean, but it still smells of the salt and
+lye it was washed with, and only loses that after time in a fragrant chest.
+
+This is the subtlest text in this set and also the most reassuring. It says
+that seeing not-self clearly and being finished are two different events, and
+that what remains between them fades rather than having to be defeated.
 
 ## The Setting
 

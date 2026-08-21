@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+The twelve links, stated in order, and then each one defined in turn, working
+backwards from ageing and dying all the way to ignorance.
+
+This is the reference version. Other texts here argue about dependent
+arising, apply it, or arrive at it through a story. This one simply says what
+each term means.
+
+If a link has been a blur elsewhere, this is where to look it up. Reading it
+straight through also gives you something the definitions alone do not -- a
+feel for how tightly the sequence is bolted together.
 
 ## The Setting
 

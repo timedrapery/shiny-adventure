@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+This is a practice manual. Sixteen steps built on watching the breath, and
+then an argument: those sixteen fill out the four establishments of
+remembering, which fill out the seven awakening factors, which complete
+knowledge and release.
+
+The chaining is what makes it interesting. Rather than offering breath
+meditation as one technique among many, the text treats it as the thread the
+rest of the practice hangs from.
+
+Read the sixteen slowly. They are terse, and each one is doing something
+specific that the next one builds on.
 
 ## The Setting
 

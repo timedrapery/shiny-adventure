@@ -9,7 +9,19 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Two images carry this one. A man wants a snake, finds a big one, and grabs it
+by the coil or the tail -- and it turns and bites him. That, the Buddha says,
+is what learning the teaching in order to win arguments does to a person.
+
+Then the raft. You lash one together out of grass and branches to get across
+a flood, and it works. Now: do you hoist it onto your head and carry it
+around for the rest of your life? The teaching is for crossing over, not for
+holding on.
+
+Between those two images sits some of the hardest not-self material in the
+collection, including the striking passage where the Buddha describes people
+becoming agitated over the loss of something that was never there to begin
+with. The similes are strong enough to carry it.
 
 ## The Setting
 

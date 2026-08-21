@@ -9,7 +9,19 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+"You are called renunciants -- so train in what actually makes someone one."
+From there the text works steadily upward: conscience and shame, purified
+conduct, sense restraint, moderation in eating and in sleep, then seclusion,
+the clearing of the five distractions, the four mental themes, and the three
+knowledges.
+
+The five similes for being rid of the distractions are what people remember:
+a debt paid off, an illness recovered from, release from prison, freedom from
+slavery, and a desert crossed safely with your goods intact. Each one is
+relief rather than achievement.
+
+The argument underneath is that the title is not the thing. What makes
+someone a renunciant is the training, not the robe.
 
 ## The Setting
 

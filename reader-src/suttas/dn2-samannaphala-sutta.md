@@ -9,7 +9,21 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+A king cannot sleep. It is a beautiful full-moon night and Ajātasattu wants
+to visit someone who might settle his mind. He has already put the same
+question to six other teachers and been given the runaround by every one:
+what does anyone actually get out of the renunciant life, here and now, that
+you could point to?
+
+The Buddha answers by walking the whole path from the beginning -- conduct,
+sense restraint, contentment, clearing the distractions, the mental themes,
+and what lies past them -- always in the form of a result the king could
+recognize as an answer to his question.
+
+The ending is what stays with you. Ajātasattu had taken the throne by killing
+his father, and the text says plainly that but for that act he would have
+seen the path right there where he sat. It is the longest text on this site,
+and it reads like a story rather than a treatise.
 
 ## The Moonlit Night
 

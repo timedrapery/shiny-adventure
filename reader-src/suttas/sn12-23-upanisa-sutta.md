@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Everyone knows the chain that runs from ignorance down to suffering. This
+text gives the other one -- the chain that runs from suffering up to freedom.
+
+Dissatisfaction is the condition for confidence; confidence for gladness;
+and on through delight, calm, ease, composure, knowing and seeing things as
+they are, disenchantment, fading, release, and finally knowing that you are
+free.
+
+The rain simile closes it. Rain falls on a mountain, fills the ravines, which
+fill the pools, which fill the streams, which fill the rivers, which fill the
+ocean. Nothing is being forced anywhere. Each stage fills the next once it is
+full itself.
 
 ## The Setting
 

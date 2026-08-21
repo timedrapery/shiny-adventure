@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+The reference text for remembering practice: body, felt experience, the
+feeling mind, and dhammas, each worked through in turn.
+
+It is long and repetitive on purpose. The same refrain comes back after every
+section -- watching internally, externally, and both; watching things arise
+and pass; staying independent and holding on to nothing.
+
+Do not try to finish it in one sitting. This is the manual that the shorter
+practice texts here are drawing on, and it rewards returning far more than it
+rewards reading straight through.
 
 ## The Setting
 

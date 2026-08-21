@@ -9,7 +9,16 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Six sixes: the six senses, their objects, the knowing that arises from each,
+the contact, the felt experience, and the wanting that follows. Thirty-six
+items, taken one at a time.
+
+Then the same ground again, showing that not one of them can be a self,
+because each is visibly arising and passing while you look at it.
+
+It is mechanical by design, and at this point in the reading order that is
+exactly the value. You already know the pattern; what this text offers is
+watching it hold everywhere, without a single exception.
 
 ## Opening
 

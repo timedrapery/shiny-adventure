@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Everything is burning. The eye is burning, what it sees is burning, the
+knowing that arises from it is burning, and the felt experience that follows
+is burning too -- with greed, aversion, and confusion, and with birth,
+ageing and dying, sorrow and despair.
+
+Then the same again for each of the other five senses.
+
+The image is famous and the point underneath it is abstract: not that
+experience is bad, but that it is being consumed by what gets added to it.
+Seeing that, the text says, you cool toward it, and cooling is what frees
+you. Short, and the most vivid thing in this set.
 
 ## The Setting
 

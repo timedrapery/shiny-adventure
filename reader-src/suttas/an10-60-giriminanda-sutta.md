@@ -9,7 +9,17 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+Girimānanda is gravely ill. Ānanda asks the Buddha to go and visit him. The
+Buddha does not go -- instead he teaches Ānanda ten things to recognize, and
+sends him to recite them at the bedside.
+
+They run through impermanence, not-self, the body's unattractiveness, danger,
+letting go, fading, quenching, disenchantment with the whole world, and the
+breath.
+
+The text says the illness subsided on the spot. However you take that, this
+is the most directly consoling piece in the collection, and the only one
+built entirely around someone too sick to practice as usual.
 
 ## The Setting
 

@@ -9,7 +9,18 @@
 
 ## About this text
 
-This text has not yet been given a reader's introduction. The translation below is the same governed text used throughout the project; only the orienting note is missing.
+The layman Visākha puts a long run of questions to the bhikkhunī Dhammadinnā,
+and she answers every one: what identity is, how it arises and how it ceases,
+what the eightfold path is, what mental composure is, what happens in the
+attainment of cessation, and how the three kinds of felt experience relate to
+the underlying tendencies.
+
+It moves quickly and covers an unusual amount of ground for its length. When
+Visākha finally takes the whole exchange to the Buddha to check it, the
+Buddha tells him he would have answered in exactly the same way.
+
+Read it as a compact survey of the doctrine -- and notice who is teaching
+whom.
 
 ## The Setting
 
