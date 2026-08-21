@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 916
+- Entries: 915
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -737,7 +737,6 @@ Generated navigation index for the flat `terms/minor/` directory.
 | --- | --- | --- | --- | --- |
 | [sabbaloke-anabhirata-sanna](../../terms/minor/sabbaloke-anabhirata-sanna.json) | sabbaloke-anabhirata-sanna | perception of non-delight in the whole world | reviewed | meditative-development, liberation |
 | [sabbe-dhamma-anatta](../../terms/minor/sabbe-dhamma-anatta.json) | sabbe dhammā anattā | all phenomena are not-self | reviewed | three-marks, formula, translation-sensitive |
-| [sabbe-sankhata-anicca](../../terms/minor/sabbe-sankhata-anicca.json) | sabbe saṅkhatā aniccā | all conditioned things are impermanent | reviewed | three-marks, formula, translation-sensitive |
 | [sabha](../../terms/minor/sabha.json) | sabhā | hall | reviewed | core-doctrine |
 | [sadda-tanha](../../terms/minor/sadda-tanha.json) | sadda-tanha | craving for sounds | reviewed | core-doctrine, mental-qualities |
 | [saddayatana](../../terms/minor/saddayatana.json) | saddāyatana | sound sense field | reviewed | sense-fields |

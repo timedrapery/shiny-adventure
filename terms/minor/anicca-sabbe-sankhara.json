@@ -9,10 +9,11 @@
     "all constructed things are impermanent"
   ],
   "discouraged_translations": [
-    "all formations are impermanent"
+    "all formations are impermanent",
+    "all created things are impermanent"
   ],
   "definition": "Canonical three-marks formula stating the impermanent character of saṅkhārā.",
-  "notes": "Use this record for the full formula line. Dhp 277 anchors the line itself. Here the saṅkhārā family takes its result-side reading, so the line should sound like compounded or put-together things rather than the dependent-arising process of putting things together. The OSF glossary supports keeping the formula inside the repository's governed saṅkhārā family rather than defaulting to formations-language.",
+  "notes": "Use this record for the full formula line. Dhp 277 anchors the line itself. Here the saṅkhārā family takes its result-side reading, so the line should sound like compounded or put-together things rather than the dependent-arising process of putting things together. The OSF glossary supports keeping the formula inside the repository's governed saṅkhārā family rather than defaulting to formations-language. **Merged 2026-08-21.** A sibling record `sabbe-sankhata-anicca` governed `all conditioned things are impermanent` for a Pali line `sabbe saṅkhatā aniccā` that does not occur in the canon -- the saṅkhata-side word substituted into this formula -- and claimed SN 43.1 anchored it, which defines the *un*conditioned and contains neither word. It was merged here rather than repaired. If a passage needs conditioned-language rather than put-together language, that is the `saṅkhata` headword's job, not a second formula record; `all created things are impermanent` stays discouraged here, which is the one guard the merged record was carrying.",
   "context_rules": [
     {
       "context": "In direct Dhp 277-style formula translation",
@@ -32,7 +33,6 @@
     "dukkha",
     "sankhara",
     "dukkha-sabbe-sankhara",
-    "sabbe-sankhata-anicca",
     "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta"
   ],
   "example_phrases": [
@@ -41,10 +41,17 @@
       "translation": "all that has been put together is impermanent",
       "notes": "Keep saṅkhārā on the result-side reading in this line.",
       "source": "Dhp 277"
+    },
+    {
+      "pali": "Sabbe saṅkhārā aniccā.",
+      "translation": "all that has been put together is impermanent",
+      "notes": "The same line in the Uppādā word order. Recorded because Dhp 277 is in the verifier's UNSUPPORTED set, so this record previously had no citation any script could confirm.",
+      "source": "AN 3.136"
     }
   ],
   "sutta_references": [
-    "Dhp 277"
+    "Dhp 277",
+    "AN 3.136"
   ],
   "tags": [
     "three-marks",

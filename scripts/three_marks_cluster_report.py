@@ -45,7 +45,6 @@ FORMULA_TERMS = [
     "anicca-sabbe-sankhara",
     "dukkha-sabbe-sankhara",
     "sabbe-dhamma-anatta",
-    "sabbe-sankhata-anicca",
     "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta",
 ]
 
@@ -65,7 +64,6 @@ EXPECTED_PREFERRED_TRANSLATIONS = {
     "anicca-sabbe-sankhara": "all that has been put together is impermanent",
     "dukkha-sabbe-sankhara": "all that has been put together is unsatisfactory",
     "sabbe-dhamma-anatta": "all phenomena are not-self",
-    "sabbe-sankhata-anicca": "all conditioned things are impermanent",
     "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta": (
         "what is impermanent is dissatisfaction; what is dissatisfaction is not-self"
     ),
@@ -163,7 +161,6 @@ def formula_override_identity_missing(terms: dict[str, dict[str, object]]) -> li
         "anicca-sabbe-sankhara": ["impermanent", "put together"],
         "dukkha-sabbe-sankhara": ["unsatisfactory", "put together"],
         "sabbe-dhamma-anatta": ["phenomena", "not-self"],
-        "sabbe-sankhata-anicca": ["conditioned things", "impermanent"],
         "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta": ["impermanent", "dissatisfaction", "not-self"],
     }
     for stem, tokens in expectations.items():
@@ -261,8 +258,6 @@ def render_formula_sheet(terms: dict[str, dict[str, object]]) -> str:
         "  Let the formula use adjective-grade English without silently resetting the headword policy elsewhere.",
         f"- `{terms['sabbe-dhamma-anatta']['term']}` -> `{terms['sabbe-dhamma-anatta']['preferred_translation']}`",
         "  This line is a controlled override of the headword-level preference to leave `dhamma` untranslated.",
-        f"- `{terms['sabbe-sankhata-anicca']['term']}` -> `{terms['sabbe-sankhata-anicca']['preferred_translation']}`",
-        "  Keep the conditioned / impermanent relation explicit.",
         f"- `{terms['yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta']['term']}` -> "
         f"`{terms['yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta']['preferred_translation']}`",
         "  This is the cluster's compact progression line and should stay coordinated across all three marks.",
