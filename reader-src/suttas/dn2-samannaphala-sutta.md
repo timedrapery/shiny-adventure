@@ -15,9 +15,9 @@ question to six other teachers and been given the runaround by every one:
 what does anyone actually get out of the renunciant life, here and now, that
 you could point to?
 
-The Buddha answers by walking the whole path from the beginning -- conduct,
+The Buddha answers by walking the whole path from the beginning — conduct,
 sense restraint, contentment, clearing the distractions, the mental themes,
-and what lies past them -- always in the form of a result the king could
+and what lies past them — always in the form of a result the king could
 recognize as an answer to his question.
 
 The ending is what stays with you. Ajātasattu had taken the throne by killing

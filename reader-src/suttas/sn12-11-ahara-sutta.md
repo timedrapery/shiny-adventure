@@ -10,7 +10,7 @@
 ## About this text
 
 Four things keep a life going: physical food, contact, intention, and
-knowing. The text names them, then asks what they depend on in turn -- and
+knowing. The text names them, then asks what they depend on in turn — and
 the answer walks straight back down the dependent-arising chain.
 
 The move worth catching is the one that treats contact and intention as

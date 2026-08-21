@@ -15,7 +15,7 @@ company comes first. Then hearing the teaching, then attending to it
 carefully, then practicing in line with it.
 
 It is a short exchange, and the order is the point. The first step is not an
-inward one at all -- it is about who you spend your time around. Everything
+inward one at all — it is about who you spend your time around. Everything
 inward comes after that.
 
 ## The Setting

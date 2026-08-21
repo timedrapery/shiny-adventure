@@ -10,7 +10,7 @@
 ## About this text
 
 A monk named Mālukyaputta is frustrated that the Buddha won't answer his
-hardest questions -- is the world eternal? What happens after death? He
+hardest questions — is the world eternal? What happens after death? He
 threatens to quit practicing unless he gets straight answers. The Buddha's
 reply is one of the most well-known images in the early Buddhist texts: a
 man shot with a poisoned arrow who refuses treatment until he knows

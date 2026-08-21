@@ -12,9 +12,9 @@
 Traditionally held to be the Buddha's second teaching, given to the same
 five ascetics a few days after the first. Where the first teaching laid out
 the diagnosis and the path in broad strokes, this one goes after a specific,
-hard idea: that nothing you can point to in your own experience -- your
+hard idea: that nothing you can point to in your own experience — your
 body, your feelings, your perceptions, your mental activity, your
-awareness itself -- actually holds up as a fixed, controllable "self" when
+awareness itself — actually holds up as a fixed, controllable "self" when
 you examine it directly.
 
 The argument is built step by step rather than simply asserted, and it's

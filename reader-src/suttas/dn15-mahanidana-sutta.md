@@ -10,7 +10,7 @@
 ## About this text
 
 Ānanda remarks that dependent arising seems perfectly clear to him. "Do not
-say so, Ānanda" -- and what follows is the longest and most demanding
+say so, Ānanda" — and what follows is the longest and most demanding
 treatment of it anywhere in the collection.
 
 Two things here appear nowhere else in this set. The chain runs in both

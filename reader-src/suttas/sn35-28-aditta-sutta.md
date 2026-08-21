@@ -11,7 +11,7 @@
 
 Everything is burning. The eye is burning, what it sees is burning, the
 knowing that arises from it is burning, and the felt experience that follows
-is burning too -- with greed, aversion, and confusion, and with birth,
+is burning too — with greed, aversion, and confusion, and with birth,
 ageing and dying, sorrow and despair.
 
 Then the same again for each of the other five senses.

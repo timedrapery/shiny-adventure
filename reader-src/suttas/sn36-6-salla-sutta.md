@@ -9,14 +9,14 @@
 
 ## About this text
 
-Everyone feels pain -- that much is not in question. What this short text
+Everyone feels pain — that much is not in question. What this short text
 asks is what happens *next*. An untrained person, touched by pain, adds a
 whole second layer on top of it: sorrow, resistance, and a scramble for
 distraction. A trained person still feels the pain, fully, but doesn't add
 the second layer. The image the text uses is a single unavoidable arrow
 versus a second, self-inflicted one fired right after it.
 
-This is one of the most immediately practical texts on this site -- it isn't
+This is one of the most immediately practical texts on this site — it isn't
 asking you to accept a metaphysical claim, just to notice a distinction you
 can actually check against your own experience the next time something hurts.
 

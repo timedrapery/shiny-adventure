@@ -19,7 +19,7 @@ fails. You cannot endure your way out of a wrong view, and you cannot think
 your way out of standing too close to a dangerous animal.
 
 The stretch on unwise questions and the thicket of views is the part most
-worth slowing down for -- it is about the questions that feel deep but only
+worth slowing down for — it is about the questions that feel deep but only
 tie you in knots.
 
 ## The Setting

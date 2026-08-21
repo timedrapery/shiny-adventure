@@ -10,7 +10,7 @@
 ## About this text
 
 Everyone knows the chain that runs from ignorance down to suffering. This
-text gives the other one -- the chain that runs from suffering up to freedom.
+text gives the other one — the chain that runs from suffering up to freedom.
 
 Dissatisfaction is the condition for confidence; confidence for gladness;
 and on through delight, calm, ease, composure, knowing and seeing things as

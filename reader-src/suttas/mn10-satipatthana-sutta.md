@@ -13,7 +13,7 @@ The reference text for remembering practice: body, felt experience, the
 feeling mind, and dhammas, each worked through in turn.
 
 It is long and repetitive on purpose. The same refrain comes back after every
-section -- watching internally, externally, and both; watching things arise
+section — watching internally, externally, and both; watching things arise
 and pass; staying independent and holding on to nothing.
 
 Do not try to finish it in one sitting. This is the manual that the shorter

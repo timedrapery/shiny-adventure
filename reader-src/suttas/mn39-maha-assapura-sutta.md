@@ -9,7 +9,7 @@
 
 ## About this text
 
-"You are called renunciants -- so train in what actually makes someone one."
+"You are called renunciants — so train in what actually makes someone one."
 From there the text works steadily upward: conscience and shame, purified
 conduct, sense restraint, moderation in eating and in sleep, then seclusion,
 the clearing of the five distractions, the four mental themes, and the three

@@ -14,7 +14,7 @@ six external, six classes of knowing, six of contact, and then eighteen
 mental explorations and thirty-six positions built on top of those.
 
 The useful part arrives after the enumeration. The instruction is to use one
-thing to give up another -- the gladness of renunciation replaces the
+thing to give up another — the gladness of renunciation replaces the
 gladness of the senses, and then in its turn that is given up too.
 
 It ends somewhere unexpected for a text this technical: three establishments

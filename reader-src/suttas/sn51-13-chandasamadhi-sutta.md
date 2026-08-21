@@ -11,7 +11,7 @@
 
 One formula, stated four times over, with a single word changed each time:
 composure through desire, through energy, through the feeling mind, through
-investigation -- each paired with the effort of putting things together.
+investigation — each paired with the effort of putting things together.
 
 Every version then unfolds the same way. The effort not to let unhelpful
 states arise, to abandon the ones that have, to bring about the helpful ones,

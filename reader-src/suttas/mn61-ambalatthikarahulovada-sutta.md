@@ -13,13 +13,13 @@ Rāhula was the Buddha's own son, ordained as a boy. Here the Buddha visits
 him and, without any warning that a lesson is coming, pours out a water
 vessel, turns it upside down, and asks Rāhula what he sees. The point:
 someone who feels no shame telling a deliberate lie has emptied out their
-own integrity the same way -- and, like a war elephant that holds nothing
+own integrity the same way — and, like a war elephant that holds nothing
 back in battle, has nothing left stopping them from doing anything else.
 
 From there the text turns into something more like a checklist than a
 sermon: before you act, during, and after, check whether what you're doing
 (in body, speech, or mind) would hurt you, hurt someone else, or both. If
-it would, don't do it -- or stop, or own up to it and do better next time.
+it would, don't do it — or stop, or own up to it and do better next time.
 If it wouldn't, go ahead, and feel good about it. It's about as practical
 as these texts get.
 

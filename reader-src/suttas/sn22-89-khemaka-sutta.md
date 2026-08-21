@@ -10,7 +10,7 @@
 ## About this text
 
 Khemaka, who is ill, is asked through messengers whether he finds any self in
-the five heaps. No, he says. So is he an arahant? Also no -- because
+the five heaps. No, he says. So is he an arahant? Also no — because
 something is still there, a faint "I am" he cannot locate in any particular
 heap.
 
