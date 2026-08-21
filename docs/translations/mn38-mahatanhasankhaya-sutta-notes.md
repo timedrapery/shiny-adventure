@@ -14,7 +14,7 @@ choices, source-audit calls, and edition notes that govern it.
   `paññāvimutti`, `gandhabba`, `sati`, `sampajañña`, `jhāna`, `pīti`, `sukha`,
   `samādhi`, `paññā`, `āsava`, and the standard dependent-arising chain.
 - Working method: the discourse was governed as the repository's control
-  surface for the conditioned arising of knowing, the four nutrients as
+  surface for the conditioned arising of knowing, the four nutriments as
   doorways into dependent arising, and the structured parallel between the
   ordinary person's response to sense contact (relishing → taking personally →
   suffering) and the trained practitioner's response (no relishing → cessation
@@ -36,10 +36,13 @@ choices, source-audit calls, and edition notes that govern it.
   freedom through the ending of ignorant wanting. But the bhikkhu Sāti is
   caught up in a vast net of ignorant wanting, entangled in a tangle of
   ignorant wanting."
-- `āhāra` is rendered `nutriment` (major lexicon entry). The four nutrients
-  are: (1) `kabaḷīkāro āhāro oḷāriko vā sukhumo vā` — material nutriment,
-  whether coarse or subtle; (2) `phasso` — contact; (3) `manosañcetanā` —
-  mental volition; (4) `viññāṇa` — knowing. The nutriment teaching is the
+- `āhāra` is rendered `nutriment` (major lexicon entry). The four nutriments
+  are: (1) `kabaḷīkāro āhāro oḷāriko vā sukhumo vā` — edible-food nutriment,
+  whether coarse or subtle; (2) `phasso` — contact nutriment; (3)
+  `manosañcetanā` — mental-intention nutriment; (4) `viññāṇa` — knowing
+  nutriment. Each member takes the rendering its own major entry records for
+  the four-nutriments framework: `kabalinkara-ahara`, `phassa-ahara`,
+  `manosancetana-ahara`, and `vinnana-ahara`. The nutriment teaching is the
   hinge between the Sāti episode and the full dependent-arising exposition:
   each nutriment traces back through the chain to ignorant wanting, and
   ignorant wanting traces back through felt experience and contact to ignorance.
@@ -173,12 +176,37 @@ All governing terms for MN 38 are covered by existing lexicon records:
   ear through body. These are preserved as abbreviated sequences in the
   translation, with the mind-sense given in full (mn38:30.11-16 and
   mn38:41.5-10), following the Bilara's own structural pattern.
+- The fourfold source question at mn38:16 is governed by
+  `kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula`, promoted to a
+  formula record on 2026-08-21. This surface previously re-solved it locally,
+  rendering the question as `what is the origin, arising, birth, and source
+  of`, answering it with `have ignorant wanting as their source`, and then
+  compressing the remaining seven links into a prose chain
+  (`And felt experience — from contact`). The Pali of mn38:15.1-16.16 is
+  word-for-word identical to sn12.11:1.3-2.16, so the repository held one
+  passage in two renderings. The passage now follows the governed formula and
+  reads as SN 12.11 reads. The compression was also inconsistent with this
+  file's own recorded policy of preserving repetition for study readability;
+  the Pali here carries no `…pe…` at all, so nothing was being expanded --
+  the translation was abbreviating a text that is already written out in full.
+- Two wordings in that block remain local to this surface because no record
+  governs them: `oḷāriko vā sukhumo vā` as `coarse or subtle` where SN 12.11
+  has `coarse or fine`, and `bhūtānaṁ vā sattānaṁ ṭhitiyā sambhavesīnaṁ vā
+  anuggahāya` as `sustain beings that have come to be and support those
+  seeking to come to be` where SN 12.11 has `keep beings going once they have
+  come to be, and that support those looking to come to be`. Both are the same
+  Pali rendered two ways and should be settled when `oḷārika`, `sukhuma`, and
+  `sambhavesī` are governed.
+- `saḷāyatana` stays `six sense fields` throughout this surface, including in
+  the fourfold block, rather than moving to the headword default `six fields of
+  experience`. That is a recorded controlled alternate carried consistently by
+  this surface, not drift, so the formula pass left it alone.
 
 ## Editorial Presentation
 
 - The main translation is divided into ten sections: `The Setting`, `Sāti's
   Wrong View`, `Knowing Named by Its Condition`, `What Has Come to Be`, `The
-  Four Nutrients`, `The Arising Chain`, `The Cessation Chain`, `Known and Seen
+  Four Nutriments`, `The Arising Chain`, `The Cessation Chain`, `Known and Seen
   for Yourselves`, `How a Being Is Conceived`, `The Ordinary Course`, `The
   Arising of the Tathāgata`, `Going Forth and the Training`, `Sense Restraint
   and Clear Knowing`, `Abandoning the Distractions and Entering the Mental

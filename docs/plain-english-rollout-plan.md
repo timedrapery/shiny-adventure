@@ -24,19 +24,24 @@ reader page. Counts are not restated here; they follow the registry.
   by `scripts/generate_reader.py --check` inside `run_checks.py`. The audit
   scans the canonical surfaces only; auditing the generated copies as well
   would double-count every finding.
-- The audit reports 8 signals, and all 8 are the documented exceptions listed
+- The audit reports 5 signals, and all 5 are the documented exceptions listed
   under Deliberately Deferred below.
 
 ```bash
 python scripts/plain_english_audit.py
 ```
 
-Expect 8. Higher means a regression or a new surface; lower means one of the
+Expect 5. Higher means a regression or a new surface; lower means one of the
 deferred decisions has been settled and this document needs updating.
 
-The 8 are: six occurrences of `recognition of unattractiveness` across the two
-AN 10.60 files, one `one who` in MN 38 naming a referent, and one `duality of
-existence` in SN 12.15. None is a defect.
+The 5 are: three occurrences of `recognition of unattractiveness` in the
+AN 10.60 surface, one `one who` in MN 38 naming a referent, and one `duality
+of existence` in SN 12.15. None is a defect.
+
+This section said 8 until 2026-08-21. That count included the AN 10.60 notes
+file. The audit skips `-notes.md` as apparatus rather than translation, so the
+notes occurrences were never in its output; the number, not the corpus, was
+wrong. The three exception categories are unchanged.
 
 ### This Document Has Claimed Completion Once Before, Wrongly
 

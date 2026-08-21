@@ -75,7 +75,10 @@ source-audit calls, and edition notes that govern it.
 
 - The fourfold source question now has two surfaces (SN 12.11 and this one)
   using identical wording. It should be promoted to a formula record so a third
-  surface does not re-solve it.
+  surface does not re-solve it. **Resolved 2026-08-21.** The record is
+  `kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula`. The third surface
+  already existed: MN 38 carries the same Pali and had solved it a third way,
+  and was brought onto the governed wording in the same pass.
 - `niṭṭhā`, `paritassati`, `sīhanāda`, `sahadhammika`, `bhavadiṭṭhi`, and
   `vibhavadiṭṭhi` are ungoverned. The two views in particular carry real weight
   here and in SN 12.15, and are candidates for a paired minor entry.

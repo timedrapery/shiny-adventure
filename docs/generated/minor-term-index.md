@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 915
+- Entries: 916
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -433,6 +433,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [khema](../../terms/minor/khema.json) | Khemā | Khemā | reviewed | persons |
 | [khetta](../../terms/minor/khetta.json) | khetta | field | reviewed | core-doctrine |
 | [kilomaka](../../terms/minor/kilomaka.json) | kilomaka | membrane | reviewed | embodiment, meditative-development |
+| [kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula](../../terms/minor/kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula.json) | kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ | what is its source, what is its origin, what is it born from, what produces it | reviewed | core-doctrine, formula, translation-sensitive |
 | [kincana](../../terms/minor/kincana.json) | kiñcana | a something | reviewed | mental-qualities, translation-sensitive |
 | [kinnara](../../terms/minor/kinnara.json) | kinnara | kinnara | reviewed | persons |
 | [kiriya](../../terms/minor/kiriya.json) | kiriyā | activity | reviewed | core-doctrine |

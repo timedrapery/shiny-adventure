@@ -39,6 +39,20 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     "tanha formula pleasure collapse": re.compile(r"\baccompanied by pleasure\b"),
     "tanha formula this-and-that attachment": re.compile(r"\battached to this and that\b"),
     "tanha formula enjoying everything": re.compile(r"\benjoying everything\b"),
+    # The fourfold source question wraps across line breaks in prose surfaces,
+    # so these patterns match across whitespace rather than a literal space.
+    "source question recombined": re.compile(
+        r"\bwhat\s+is\s+the\s+origin,\s+arising,\s+birth,\s+and\s+source\s+of\b",
+        re.IGNORECASE,
+    ),
+    "source question collapsed": re.compile(
+        r"\bwhat\s+is\s+(?:its|their)\s+origin\?(?!\s+What\s+(?:is\s+it|are\s+they)\s+born\s+from\?)",
+        re.IGNORECASE,
+    ),
+    "source answer recombined": re.compile(
+        r"\bhave\s+(?:\w+\s+){1,3}as\s+(?:its|their)\s+source\b",
+        re.IGNORECASE,
+    ),
 }
 
 PATTERN_GUIDANCE: dict[str, str] = {
@@ -59,6 +73,9 @@ PATTERN_GUIDANCE: dict[str, str] = {
     "tanha formula pleasure collapse": "Keep `nandī` and `rāga` distinct as `relishing and passion` in the governed taṇhā-definition formula.",
     "tanha formula this-and-that attachment": "Use `delighting here and there` or the recorded controlled alternate, not `attached to this and that`, in the governed taṇhā-definition formula.",
     "tanha formula enjoying everything": "Use `delighting here and there` or the recorded controlled alternate in the governed taṇhā-definition formula.",
+    "source question recombined": "Use the governed fourfold source question; do not fold its four members into one `origin, arising, birth, and source` phrase. See `terms/minor/kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula.json`.",
+    "source question collapsed": "The fourfold source question must keep all four members: `what is its source? What is its origin? What is it born from? What produces it?` Do not shorten it to the origin question alone.",
+    "source answer recombined": "Answer the fourfold source question with the governed answering form — `X is its source, X is its origin; it is born from X, and X produces it` — reusing the four members in order.",
 }
 
 
