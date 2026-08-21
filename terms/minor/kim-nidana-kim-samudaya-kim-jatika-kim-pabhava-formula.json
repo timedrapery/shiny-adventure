@@ -1,0 +1,81 @@
+{
+  "term": "kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ",
+  "normalized_term": "kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "what is its source, what is its origin, what is it born from, what produces it",
+  "definition": "The fourfold source question: the fixed interrogative used to trace a conditioned item back to what it depends on, and answered by the same four members in the declarative. It is the Buddha's standard method for walking a chain backwards link by link.",
+  "notes": "The question and its answer are one governed unit, not two. The answering form declines the same four members against the conditioning item -- taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā -- so it must reuse the same four English words in the same order, or the reader cannot hear that the answer answers the question. Governed jointly by SN 12.11 and MN 11, which carry the formula in identical Pali across a full backwards walk of the chain, and by MN 38, which carries the same passage a third time. Keep the four members in this fixed order and this fixed rendering wherever the formula recurs, rather than re-solving it locally per surface. The members are individually governed: nidāna takes source here rather than its link default, under its own rule for prose emphasizing origination; samudaya takes its headword default origin; jātika and pabhava carry no separate records and are governed only here. The preferred rendering is recorded here without terminal punctuation because `lint_terms.py` reads a question mark in that field as possible encoding loss. In running text each member is its own question and carries its own question mark; the context rules below show the punctuated form.",
+  "related_terms": [
+    "jati",
+    "nidana",
+    "paticcasamuppada",
+    "samudaya"
+  ],
+  "context_rules": [
+    {
+      "context": "The question form, asked of a single item",
+      "rendering": "what is its source? what is its origin? what is it born from? what produces it?",
+      "notes": "The recurring form. Preceded in running text by the item and the address, as in `And this ignorant wanting, bhikkhus --`."
+    },
+    {
+      "context": "The question form, asked of a plural or enumerated item",
+      "rendering": "what is their source? what is their origin? what are they born from? what produces them?",
+      "notes": "Ordinary number agreement, not a separate decision. The Pali shows the same shift through its own gender and number agreement, as at sn12.11:2.1 for the four nutriments against sn12.11:2.3 for taṇhā."
+    },
+    {
+      "context": "The answering form",
+      "rendering": "X is its source, X is its origin; it is born from X, and X produces it",
+      "notes": "Same four members, same order, with the conditioning item named in each. Plural: `X is their source, X is their origin; they are born from X, and X produces them`."
+    },
+    {
+      "context": "Where the question stands alone without the fourfold answer",
+      "rendering": "what is its source? what is its origin? what is it born from? what produces it?",
+      "notes": "DN 21 pairs the question with `kismiṁ sati` rather than the fourfold answer, so the question form is portable on its own. The answering rule does not have to follow it."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "Ime, bhikkhave, cattāro āhārā kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?",
+      "translation": "And these four nutriments, bhikkhus — what is their source? What is their origin? What are they born from? What produces them?",
+      "notes": "Plural question form opening the backwards walk.",
+      "source": "SN 12.11"
+    },
+    {
+      "pali": "Ime cattāro āhārā taṇhānidānā taṇhāsamudayā taṇhājātikā taṇhāpabhavā.",
+      "translation": "Ignorant wanting is their source, ignorant wanting is their origin; they are born from ignorant wanting, and ignorant wanting produces them.",
+      "notes": "The answering form, reusing the four members in order.",
+      "source": "SN 12.11"
+    },
+    {
+      "pali": "Taṇhā cāyaṁ, bhikkhave, kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā?",
+      "translation": "And this ignorant wanting, bhikkhus — what is its source? What is its origin? What is it born from? What produces it?",
+      "notes": "Singular question form. Identical in SN 12.11, MN 11, and MN 38.",
+      "source": "MN 11"
+    },
+    {
+      "pali": "Issāmacchariyaṁ pana, mārisa, kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ",
+      "translation": "But jealousy and stinginess, dear sir — what is their source? What is their origin? What are they born from? What produces them?",
+      "notes": "The question form standing alone, answered by `kismiṁ sati` rather than by the fourfold. DN 21 is not yet a governed surface; recorded here so the formula is settled before it becomes one.",
+      "source": "DN 21"
+    }
+  ],
+  "sutta_references": [
+    "SN 12.11",
+    "MN 11",
+    "MN 38",
+    "DN 21"
+  ],
+  "tags": [
+    "core-doctrine",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "translation_policy": {
+    "default_scope": "Use the fixed fourfold rendering wherever this formula recurs, in both the question and the answering form, and in both numbers.",
+    "when_not_to_apply": "Do not compress the formula to a shorter causal question such as `what is its origin?` or fold the backwards walk into a prose chain. Where the source text spells the fourfold out for every link, the translation spells it out too.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents each surface from re-solving the four members locally, which had already happened once: MN 38 rendered the same Pali as `what is the origin, arising, birth, and source of` and then compressed the remaining links into a prose chain, so the repository's three copies of one passage read as three different formulas."
+  }
+}
