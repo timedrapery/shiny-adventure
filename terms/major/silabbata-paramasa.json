@@ -44,22 +44,22 @@
   ],
   "example_phrases": [
     {
-      "pali": "sīlabbataparāmāso pahīno hoti",
-      "translation": "grasping at habits and observances is abandoned",
-      "notes": "Liberation-stage usage.",
-      "source": "MN 118"
+      "pali": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+      "translation": "identity view, doubt, and grasping at habits and observances",
+      "notes": "Liberation-stage usage. MN 118 names the three fetters only by number and never individually. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 2"
     },
     {
-      "pali": "na sīlabbatena suddhi",
-      "translation": "there is no purification merely by habits and observances",
-      "notes": "Captures the practical doctrinal point of the term.",
-      "source": "MN 44"
+      "pali": "sīlabbataparāmāsaṁ kho ahaṁ, bhante, bhagavatā orambhāgiyaṁ saṁyojanaṁ desitaṁ dhāremi",
+      "translation": "I understand grasping at habits and observances to have been taught by the Buddha as a lower fetter",
+      "notes": "Captures the practical doctrinal point of the term. MN 44 contains no `sīlabbat` in any form. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 64"
     }
   ],
   "sutta_references": [
-    "MN 118",
     "SN 55.3",
-    "MN 44"
+    "MN 2",
+    "MN 64"
   ],
   "tags": [
     "core-doctrine",

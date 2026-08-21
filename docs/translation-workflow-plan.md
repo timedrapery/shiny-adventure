@@ -116,11 +116,37 @@ output as a review list, not an error list: it over-flags compounds and sandhi,
 where a word that is present appears only inside a longer form. Band A is
 sorted to the front because the sutta explains least of the missing word there.
 
-Started 2026-08-21. Five repaired so far, from 103 suspects down to 98:
-`iddhipada`, `kayagata-sati`, `kamma`, `domanassa`, and `asavanam-khaya`. Four
-were the `anagami` pattern -- the cited sutta was right and the fix was to
-quote what it actually says. `domanassa` had no line to move to, so the
-unsupported example was removed rather than replaced with an invented one.
+**Band A is clear as of 2026-08-21.** 25 repaired, 98 suspects down to 74,
+`ok` from 470 to 495. One row remains in band A and is flagged rather than
+fixed; see below.
+
+Roughly half were the `anagami` pattern -- the cited sutta was right and the
+fix was to quote what it actually says. `kamma` is the good example: it cited
+AN 6.63 for `kammassa phalaṁ`, a sutta with no `phala` in any form, and now
+quotes the line the surface was governed for, `Cetanāhaṁ, bhikkhave, kammaṁ
+vadāmi`. The other half were wrong suttas and had to move: `adhisila` and
+`adhicitta` cited an MN 44 with no `sikkhā` in it at all, `puthujjana` cited an
+MN 9 with no `puthujjana`, and `punna` cited AN 7.52, which is the
+Dānamahapphala Sutta and says `mahapphala` throughout rather than `puñña`.
+
+Five examples were removed rather than repaired, because the cited sutta had no
+line to move them to and inventing one is worse than carrying one example
+fewer: `domanassa`, `puthujjana`, `lokiya`, and both of `punna`'s.
+
+`lokiya` is worth remembering. Neither of its citations survived, and no
+governed surface uses the word: MN 117 draws exactly the mundane /
+supramundane distinction the record exists for, but calls it `sāsavā
+puññabhāgiyā`. The record now quotes that, and the word `lokiya` is marked as
+a commentarial convenience for a distinction the suttas draw in other words.
+
+`nissarana-dhatu` is the one band A row left. MN 137 contains no `nissaraṇa`,
+so the citation is wrong, but no cached sutta carries the compound
+`nissaraṇa-dhātu`. It is flagged in the record rather than moved to a sutta
+using the bare `nissaraṇa`, which would trade a wrong citation for a
+misleading one. Fetch the six `nissaraṇīyā dhātuyo` sutta and repair it there.
+
+Bands B and C are untouched: 42 and 31. Band C is mostly the screen's
+false-positive mode and should be expected to be largely clean.
 
 ### 2. Smaller items
 

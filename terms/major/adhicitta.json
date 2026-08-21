@@ -45,10 +45,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "adhicittasikkhā",
-      "translation": "the higher training in mind",
-      "notes": "Shows the standard triadic formulation.",
-      "source": "MN 44"
+      "pali": "Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā",
+      "translation": "the training in higher virtue, the training in higher mind, the training in higher discernment",
+      "notes": "Shows the standard triadic formulation. MN 44 contains no `adhicitta`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "AN 3.88"
     },
     {
       "pali": "cittaṃ bhāveti",
@@ -58,8 +58,8 @@
     }
   ],
   "sutta_references": [
-    "MN 44",
-    "AN 4.41"
+    "AN 4.41",
+    "AN 3.88"
   ],
   "tags": [
     "core-practice",
