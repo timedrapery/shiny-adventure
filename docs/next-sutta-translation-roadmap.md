@@ -90,14 +90,22 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 7 is complete as of 2026-08-21.** All three of its translation
-surfaces are done and the queue is empty; naming Wave 8 requires rerunning the
-audit against the current 45-surface state. Audited 2026-08-20; the full
-ranking and its two method corrections are in
-[next-suttas-roadmap.md](next-suttas-roadmap.md). Rerun it with
-`python scripts/audit_surface_leverage.py` rather than recomputing by hand.
+**Wave 8 is drafted, and it is not a translation wave.** Audited 2026-08-21
+against the 45-surface state. The full reasoning is in
+[next-suttas-roadmap.md](next-suttas-roadmap.md); the short version:
 
-Order:
+1. **Sweep the `inflected` and `inconclusive` citations.** 296 of them, and
+   `verify_example_sources.py` reports `Every verifiable citation checks out`
+   while both buckets hide wrong citations. Four confirmed by hand so far.
+2. **Repair `DN 22` rather than translating it.** It topped the ranking on
+   three orphan majors, but three of its five citations are already
+   demonstrated by `MN 10`, a governed surface, and the other two are wrong.
+   Moving them anchors all three records with no translation.
+3. **Then translate** `SN 48.10` (303 words, two orphan majors), then
+   `MN 119` (the `kayagata-sati` anchor), then `AN 2.9` — which is weaker than
+   the ranking implies and should be re-checked first.
+
+Wave 7 completed on 2026-08-21. Its order was:
 
 1. `MN 43` -- **translated 2026-08-20.** The emptiness / signless / wishless
    cluster was the only governed cluster with no running text behind any of

@@ -643,6 +643,105 @@ volume.
   doctrinal reach. High count, low leverage; a good example of why raw orphan
   count is also not sufficient on its own.
 
+## Wave 8 (audited 2026-08-21)
+
+**Wave 8 is not a translation wave.** The audit ranked `DN 22` first, and
+checking that signal against the source disqualified it. What the ranking was
+actually measuring was citation debt, and the same check found the debt is far
+larger than the `partial` bucket the 2026-08-21 sweep cleared.
+
+Run the audit yourself rather than trusting this summary:
+
+```bash
+python scripts/audit_surface_leverage.py
+```
+
+### 1. Sweep the `inflected` and `inconclusive` citations
+
+296 citations sit in these two buckets — 149 `inflected`, 147 `inconclusive` —
+and `verify_example_sources.py` prints `Every verifiable citation checks out`
+while they do. Both buckets demonstrably contain wrong citations.
+
+The plan already warned not to read `inconclusive` as `fine`, because a
+peyyala anywhere in a root text downgrades every unmatched phrase in it. What
+was not recorded is that `inflected` hides the same failure. `inflected` means
+a word stem matched, not that the cited phrase is present, so a citation can
+quote a different word from the same root and still pass.
+
+Four confirmed by hand, each checked against the cached root text:
+
+| Record | Cites | Quoting | Reality |
+| --- | --- | --- | --- |
+| `bhagava` | MN 1 | an opening formula sited at Sāvatthī | MN 1 opens at Ukkaṭṭhā, in the Subhaga grove |
+| `adhicitta` | MN 44 | `adhicittasikkhā` | MN 44 contains no `adhicitta` at all |
+| `anicca` | SN 22.59 | `yadaniccaṁ taṁ dukkhaṁ` | SN 22.59 does not use that form |
+| `arahant` | MN 2 | `arahā hoti` | MN 2 contains no `arahā` |
+
+A crude screen — flagging any citation with a whole word stem absent from the
+cited sutta — puts 103 of the 296 under suspicion. **That is an upper bound,
+not a count of errors.** The screen over-flags compounds and sandhi, where a
+word genuinely present appears only inside a longer form. Every one has to be
+checked by hand before it is called wrong. Four out of four hand-checked
+suspects were real, but they were chosen for being plausible, so that rate
+will not hold across the whole set.
+
+Method, the same one that worked on the `partial` bucket: check whether a
+whole word stem is missing from the cited sutta, not whether the phrase failed
+to match.
+
+### 2. Repair DN 22 rather than translating it
+
+`DN 22` topped the ranking on three orphan majors — `dhamma`, `kaya`,
+`sampajanna`. It should not be translated. Of the five citations behind those
+three records:
+
+- **three are already demonstrated by `MN 10`**, a governed surface:
+  `kāye kāyānupassī viharati`, `dhammesu dhammānupassī viharati`, and
+  `sampajānakārī hoti` all occur in both texts. DN 22 is MN 10 plus the
+  expanded truths section, so translating it would re-govern vocabulary the
+  corpus already shows in running text.
+- **two are wrong.** `dhammānudhammapaṭipanna` and `sati-sampajañña` do not
+  occur in DN 22. The first is recorded `inconclusive`, the second
+  `inflected`, which is how both survived the sweep.
+
+Moving the three good citations to MN 10 and repairing the two wrong ones
+anchors all three majors with no translation at all. This is the third time
+this pattern has decided a queue: `MN 70` and `SN 12.43` were both withdrawn
+from Wave 7 for it.
+
+### 3. Then translate, in this order
+
+All three signals below were verified against the cached root text before
+being written down, per the Wave 6 method correction.
+
+1. `SN 48.10` — 303 Pali words, `indriya` 14 times and `saddha` 3 times.
+   The best ratio in the audit: two orphan majors in a text short enough to
+   govern in one sitting.
+2. `MN 119` Kāyagatāsati Sutta — 1,906 words, `kāyagatā` 30 times. The
+   dedicated anchor for `kayagata-sati`. Note that its other claimed orphan
+   major, `kaya`, stops being one as soon as the DN 22 citations move to
+   MN 10, so this text is worth one record rather than two.
+3. `AN 2.9` — **weaker than the audit implies.** It was ranked while
+   uncached; now cached, it is 843 Pali words rather than the short text the
+   ranking assumed, and `hiri` occurs exactly once. Its `hiri` citation is
+   also among the suspects above. Verify before committing to it.
+
+`SN 50.1`, `SN 45.171`, `SN 45.172`, `SN 45.174`, and `AN 7.11` remain
+permanently off the queue as peyyala vaggas and enumeration stubs; the Wave 7
+audit settled that and nothing here reopens it.
+
+### What This Wave Says About The Audit Script
+
+`audit_surface_leverage.py` ranks by orphan count, and an orphan is a record
+whose citations all point at untranslated suttas. It cannot tell the
+difference between a record that needs a translation and a record that needs
+its citation corrected. DN 22 ranked first on three records that a governed
+surface already demonstrates.
+
+That is not a defect in the script so much as a limit worth stating: the
+ranking is a list of records with no running text behind them *as currently
+cited*. Check the citations before reading the ranking as a translation queue.
+
 ## Suggested Order (Wave 6)
 
 1. `SN 12.11` -- most ungoverned major entries, and closes the `ahara`

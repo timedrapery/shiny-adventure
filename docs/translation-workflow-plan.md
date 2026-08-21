@@ -78,25 +78,31 @@ python -m pip install -r requirements-dev.txt
 
 Ordered by value, not urgency.
 
-### 1. Audit and name Wave 8
+### 1. Sweep the `inflected` and `inconclusive` citations
 
-Wave 7 finished on 2026-08-21 with `Iti 44`. Its three translation surfaces
-were `MN 43`, `SN 51.13`, and `Iti 44`; `MN 70` and `SN 12.43` were both
-withdrawn once the citation-debt pass anchored the orphans that justified
-them. The queue is now empty, so the next translation needs a fresh audit
-rather than a pick from a standing list.
+Wave 8 was audited on 2026-08-21 and turned out not to be a translation wave.
+The ranking put `DN 22` first; checking that signal against the source
+disqualified it, and the same check found that the citation debt the `partial`
+sweep cleared was the small part of the problem.
 
-The audit is reproducible rather than hand-computed:
+296 citations sit in the `inflected` and `inconclusive` buckets, and
+`verify_example_sources.py` prints `Every verifiable citation checks out`
+while both hide wrong citations. `bhagava` cites MN 1 for an opening formula
+sited at Sāvatthī when MN 1 opens at Ukkaṭṭhā; `adhicitta` cites MN 44, which
+contains no `adhicitta`; `anicca` cites SN 22.59 for a form it does not use;
+`arahant` cites MN 2, which has no `arahā`. A crude screen puts 103 of the 296
+under suspicion, but that is an upper bound and every one needs a hand check.
+
+`DN 22` belongs in the same pass rather than in a translation queue: three of
+its five cited phrases are already demonstrated by `MN 10`, and two are wrong.
+
+Full reasoning, the verified translation order behind the sweep, and a note on
+what the ranking script can and cannot see are in
+[next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 ```bash
 python scripts/audit_surface_leverage.py
 ```
-
-Run against the 45-surface state it currently ranks `DN 22` first (three
-orphan majors: `dhamma`, `kaya`, `sampajanna`), then `MN 119` (`kaya`,
-`kayagata-sati`) and `SN 48.10` (`indriya`, `saddha`, 297 words). Confirm each
-leverage signal against the source before committing to a queue position; that
-is the method correction Wave 6 paid for.
 
 ### 2. Smaller items
 
