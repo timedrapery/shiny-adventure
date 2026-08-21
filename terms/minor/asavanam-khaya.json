@@ -19,9 +19,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "āsavānaṃ khayā anāsavaṃ cetovimuttiṃ paññāvimuttiṃ",
-      "translation": "through the wearing away of the outflows, the outflow-free release of the heart and release by wisdom",
-      "notes": "Classic liberation formula. Keep the outflow wording stable here.",
+      "pali": "Jānato ahaṁ, bhikkhave, passato āsavānaṁ khayaṁ vadāmi",
+      "translation": "It is for one who knows and sees, bhikkhus, that I speak of the wearing away of the outflows",
+      "notes": "Classic liberation formula. Keep the outflow wording stable here. MN 2 contains no `cetovimutti`, so the long stock phrase previously quoted was not in it. Citation repaired 2026-08-21 in the inflected/inconclusive sweep; MN 2 was the right sutta, so the fix quotes what it says.",
       "source": "MN 2"
     }
   ],

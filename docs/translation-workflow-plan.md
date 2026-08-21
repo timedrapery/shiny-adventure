@@ -104,6 +104,24 @@ what the ranking script can and cannot see are in
 python scripts/audit_surface_leverage.py
 ```
 
+The sweep itself is reproducible rather than hand-listed:
+
+```bash
+python scripts/triage_citation_stems.py --band A
+```
+
+It narrows the two buckets to citations with a whole word whose stem is absent
+from the cited sutta -- the test that worked on the `partial` bucket. Read its
+output as a review list, not an error list: it over-flags compounds and sandhi,
+where a word that is present appears only inside a longer form. Band A is
+sorted to the front because the sutta explains least of the missing word there.
+
+Started 2026-08-21. Five repaired so far, from 103 suspects down to 98:
+`iddhipada`, `kayagata-sati`, `kamma`, `domanassa`, and `asavanam-khaya`. Four
+were the `anagami` pattern -- the cited sutta was right and the fix was to
+quote what it actually says. `domanassa` had no line to move to, so the
+unsupported example was removed rather than replaced with an invented one.
+
 ### 2. Smaller items
 
 - Consider dropping `HIGH_LOAD_MINOR_LINT_THRESHOLD` from 9 to 7 in

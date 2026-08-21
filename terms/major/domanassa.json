@@ -44,13 +44,7 @@
     {
       "pali": "sokaparidevadukkhadomanassupāyāsā",
       "translation": "sorrow, lamentation, dissatisfaction, distress, and despair",
-      "notes": "Shows the standard extended suffering formula.",
-      "source": "SN 12.2"
-    },
-    {
-      "pali": "domanassaṃ paṭisaṃvedeti",
-      "translation": "one experiences distress",
-      "notes": "Shows a simple use that keeps the term's felt character visible.",
+      "notes": "Shows the standard extended suffering formula. SN 12.2 carries `domanassa` only inside this compound. A second example quoting `domanassaṁ paṭisaṁvedeti` was removed on 2026-08-21: SN 12.2 has no `paṭisaṁvedeti`, and the sutta offers no other line to move it to.",
       "source": "SN 12.2"
     }
   ],
