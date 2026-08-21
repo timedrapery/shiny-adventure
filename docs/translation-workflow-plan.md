@@ -145,8 +145,30 @@ so the citation is wrong, but no cached sutta carries the compound
 using the bare `nissaraṇa`, which would trade a wrong citation for a
 misleading one. Fetch the six `nissaraṇīyā dhātuyo` sutta and repair it there.
 
-Bands B and C are untouched: 42 and 31. Band C is mostly the screen's
-false-positive mode and should be expected to be largely clean.
+Band B is about half done: 42 down to 27. Band C (31) is untouched and is
+mostly the screen's false-positive mode, so it should be expected to come back
+largely clean.
+
+Band B turned out to have its own shape. Where band A was mostly wrong suttas,
+band B is mostly **compound-forms the text does not spell as one word** --
+`vigatalobha` cited to an MN 9 that says `Lobho akusalamūlaṁ`, `rasārammaṇa`
+cited to an MN 148 that says `rasāyatanaṁ`, `amohamūla` to an MN 9 that says
+`amoho kusalamūlaṁ`. Those are still wrong citations, but the sutta is right
+and the fix is a re-quote.
+
+Two results from band B are worth keeping:
+
+- **Two repo-native records for a governed surface carried a garbled Pali
+  word.** `mn148-painful-feeling-trained-response` and its untrained twin
+  quoted `uraṁtadati`, which is not a Pali word. MN 148 reads `urattāḷiṁ
+  kandati`, beating the breast and wailing. This was a transcription error in
+  the repository's own phrase records, not an inherited citation.
+- **MN 43 does not contain `appaṇihita`.** Its four liberations of mind are
+  `appamāṇā`, `ākiñcaññā`, `suññatā`, and `animittā`. The Wave 7 audit ranked
+  MN 43 first partly on its carrying both `animitta` and `appanihita`; it
+  carries the first and not the second. The translation was still worth doing
+  on the rest of the signal, but the ranking repeated on its own top candidate
+  exactly the error Wave 6 was corrected for.
 
 ### 2. Smaller items
 
