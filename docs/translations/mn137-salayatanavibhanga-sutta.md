@@ -47,7 +47,7 @@ The Buddha said this:
 known, the six classes of knowing are to be known, the six classes of contact
 are to be known, the eighteen mental explorations are to be known, the thirty-
 six positions are to be known, and here, supported by this, you should give up
-that. And there are three establishments of sati that a noble they cultivate,
+that. And there are three establishments of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group.'
 
 That is the summary of the analysis of the six fields.
@@ -305,7 +305,7 @@ That is what was said with reference to this.
 
 ### Three Establishments of Sati
 
-"'There are three establishments of sati that a noble they cultivate,
+"'There are three establishments of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group' was said. And with
 reference to what was that said?
 
@@ -319,7 +319,7 @@ to knowing, and they practice turning away from the teacher's instruction.
 Then the Tathāgata is neither upset nor does he experience upset. He stays
 untroubled, remembering, with clear knowing.
 
-This is called the first establishment of sati that a noble they cultivate,
+This is called the first establishment of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group.
 
 Again, out of compassion and seeking their welfare, a teacher teaches the
@@ -335,7 +335,7 @@ Then the Tathāgata is neither upset nor does he experience upset. But neither
 is he pleased nor does he experience pleasure. Leaving both displeasure and
 pleasure aside, he stays in dynamic balance, remembering, with clear knowing.
 
-This is called the second establishment of sati that a noble they cultivate,
+This is called the second establishment of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group.
 
 Again, out of compassion and seeking their welfare, a teacher teaches the
@@ -348,7 +348,7 @@ and they do not practice turning away from the teacher's instruction.
 Then the Tathāgata is pleased and experiences pleasure, yet he stays
 untroubled, remembering, with clear knowing.
 
-This is called the third establishment of sati that a noble they cultivate,
+This is called the third establishment of sati that a noble one cultivates,
 cultivating which a teacher is fit to instruct a group.
 
 That is what was said with reference to this.
