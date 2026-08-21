@@ -28,9 +28,15 @@
   ],
   "example_phrases": [
     {
-      "pali": "sa-upādisesā nibbānadhātu",
+      "pali": "saupādisesā nibbānadhātu",
       "translation": "the nibbāna element with remainder",
-      "notes": "Shows the standard consummation-side designation within the twofold nibbāna-element framework.",
+      "notes": "Shows the standard consummation-side designation within the twofold nibbāna-element framework. Citation repaired 2026-08-21: the recorded form carried a hyphen the root text does not have. `Iti` is in the verifier's UNSUPPORTED set, so this was checked by hand.",
+      "source": "Iti 44"
+    },
+    {
+      "pali": "Tassa tiṭṭhanteva pañcindriyāni yesaṁ avighātattā manāpāmanāpaṁ paccanubhoti, sukhadukkhaṁ paṭisaṁvedeti.",
+      "translation": "Their five sense faculties still stand, and because these are unimpaired they still meet what is agreeable and what is disagreeable, and still feel the pleasant and the painful.",
+      "notes": "What distinguishes this element: the senses keep working and experience keeps arriving. Verified by hand against the cached root text at iti44:3.3.",
       "source": "Iti 44"
     }
   ],

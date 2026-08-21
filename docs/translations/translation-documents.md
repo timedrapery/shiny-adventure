@@ -236,3 +236,8 @@ Current DN 15 surfaces:
 
 - [dn15-mahanidana-sutta.md](dn15-mahanidana-sutta.md): main shareable translation text
 - [dn15-mahanidana-sutta-notes.md](dn15-mahanidana-sutta-notes.md): companion translator notes and rationale
+
+Current Iti 44 surfaces:
+
+- [iti44-nibbanadhatu-sutta.md](iti44-nibbanadhatu-sutta.md): main shareable translation text
+- [iti44-nibbanadhatu-sutta-notes.md](iti44-nibbanadhatu-sutta-notes.md): companion translator notes and rationale

@@ -95,6 +95,16 @@ def surface_body(text: str) -> str:
     if BODY_MARKER not in text:
         raise ValueError(f"surface has no `{BODY_MARKER}` section")
     body = text.split(BODY_MARKER, 1)[1].strip()
+    # The body must open with a heading. `existing_intro` reads the reader
+    # page's `About this text` block as everything up to the next `## `, so a
+    # body that opens with prose gets absorbed into the intro on the next
+    # regeneration and re-emitted beneath it, growing by one paragraph each
+    # time. Failing loudly here beats corrupting the page quietly.
+    if not body.startswith("### "):
+        raise ValueError(
+            "surface body must open with a `### ` heading; found: "
+            f"{body.splitlines()[0][:60]!r}"
+        )
     return re.sub(r"^### ", "## ", body, flags=re.M)
 
 
@@ -343,6 +353,7 @@ def render_all_suttas() -> str:
         ("MN", "Majjhima Nikāya", "the middle-length discourses"),
         ("SN", "Saṁyutta Nikāya", "the connected discourses"),
         ("AN", "Aṅguttara Nikāya", "the numbered discourses"),
+        ("Iti", "Itivuttaka", "the short sayings, in the Khuddaka Nikāya"),
     ]
 
     def sort_key(surface: TranslationSurface) -> tuple[int, int]:

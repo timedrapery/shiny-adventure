@@ -1,6 +1,6 @@
 # All Suttas
 
-All 44 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 45 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -65,3 +65,9 @@ All 44 translations, grouped by collection. If you would rather be guided, use [
 | AN 6.63 | [AN 6.63: Nibbedhika Sutta](an6-63-nibbedhika-sutta.md) | 5 | One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction. |
 | AN 10.60 | [AN 10.60: Girimānanda Sutta](an10-60-giriminanda-sutta.md) | 3 | Ten perceptions taught to a sick monk. |
 | AN 11.9 | [Think Like a Thoroughbred](an11-9-saddha-sutta.md)<br><small>Saddha Sutta</small> | 2 | A wild colt tied to its trough can think of nothing but "Fodder, fodder!" The contrast with a trained horse becomes a contrast between two ways of sitting down to meditate. |
+
+## Itivuttaka (Iti) — the short sayings, in the Khuddaka Nikāya
+
+| Reference | Title | Set | What it covers |
+| --- | --- | --- | --- |
+| Iti 44 | [Iti 44: Nibbānadhātu Sutta](iti44-nibbanadhatu-sutta.md) | 5 | A short reference text defining the two nibbāna elements. |
