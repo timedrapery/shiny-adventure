@@ -229,26 +229,63 @@ shown as like a raft, for crossing over, not for holding on?"
 
 "Yes, Bhante."
 
-## The Four Nutrients
+## The Four Nutriments
 
-"Bhikkhus, there are four nutrients that sustain beings that have come to be
-and support those seeking to come to be. What four? Material nutriment, whether
-coarse or subtle; contact, the second; mental volition, the third; knowing, the
-fourth.
+"Bhikkhus, there are four nutriments that sustain beings that have come to be
+and support those seeking to come to be. What four? Edible-food nutriment,
+whether coarse or subtle; contact nutriment is the second; mental-intention
+nutriment is the third; knowing nutriment is the fourth.
 
 ## The Arising Chain
 
-And what is the origin, arising, birth, and source of these four nutrients?
-They originate from ignorant wanting, arise from ignorant wanting, are born
-from ignorant wanting, have ignorant wanting as their source.
+And these four nutriments, bhikkhus — what is their source? What is their
+origin? What are they born from? What produces them?
 
-And ignorant wanting — what is its origin? Ignorant wanting originates from
-felt experience.
+Ignorant wanting is their source, ignorant wanting is their origin; they are
+born from ignorant wanting, and ignorant wanting produces them.
 
-And felt experience — from contact. And contact — from the six sense fields.
-And the six sense fields — from name-and-form. And name-and-form — from
-knowing. And knowing — from putting things together. And putting things
-together — from ignorance.
+And this ignorant wanting, bhikkhus — what is its source? What is its origin?
+What is it born from? What produces it?
+
+Felt experience is its source, felt experience is its origin; it is born from
+felt experience, and felt experience produces it.
+
+And this felt experience, bhikkhus — what is its source? What is its origin?
+What is it born from? What produces it?
+
+Contact is its source, contact is its origin; it is born from contact, and
+contact produces it.
+
+And this contact, bhikkhus — what is its source? What is its origin? What is it
+born from? What produces it?
+
+The six sense fields are its source, the six sense fields are its origin; it is
+born from the six sense fields, and the six sense fields produce it.
+
+And these six sense fields, bhikkhus — what is their source? What is their
+origin? What are they born from? What produces them?
+
+Name-and-form is their source, name-and-form is their origin; they are born
+from name-and-form, and name-and-form produces them.
+
+And this name-and-form, bhikkhus — what is its source? What is its origin? What
+is it born from? What produces it?
+
+Knowing is its source, knowing is its origin; it is born from knowing, and
+knowing produces it.
+
+And this knowing, bhikkhus — what is its source? What is its origin? What is it
+born from? What produces it?
+
+Putting things together is its source, putting things together is its origin;
+it is born from putting things together, and putting things together produces
+it.
+
+And this putting things together, bhikkhus — what is its source? What is its
+origin? What is it born from? What produces it?
+
+Ignorance is its source, ignorance is its origin; it is born from ignorance,
+and ignorance produces it.
 
 So, bhikkhus:
 

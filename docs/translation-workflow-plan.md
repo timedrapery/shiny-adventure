@@ -50,16 +50,19 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
-## State As Of 2026-08-20
+## State As Of 2026-08-21
 
 - 44 governed translation surfaces. Waves 1 through 6 complete, plus MN 61,
   which was requested directly rather than drawn from a wave audit, plus the
   Wave 7 surfaces MN 43 and SN 51.13.
-- 44 reader pages, one per surface, all generated. 11 carry hand-written
-  reader introductions. The reader also publishes a downloadable EPUB.
-- 1,154 term records. `repo_health.py` reports no open backlog in any section.
-- Register audit: 8 signals, all documented exceptions in the rollout plan.
-  Both new surfaces report zero signals.
+- 44 reader pages, one per surface, all generated. Every one now carries a
+  hand-written reader introduction; none is left on the generated default. The
+  reader also publishes a downloadable EPUB.
+- 1,155 term records. `repo_health.py` reports no open backlog in any section.
+- Register audit: 5 signals, all documented exceptions in the rollout plan.
+  Both new surfaces report zero signals. The rollout plan still says 8; that
+  figure counted notes files, which the audit no longer scans. Same three
+  exceptions either way.
 - The four `upadana` compounds are harmonised on the headword default, and the
   `silabbata` stem renders as `habits and observances` throughout.
 - The threefold `sankhara` triad is harmonised on `conditioner`.
@@ -92,16 +95,8 @@ terms. Two items to settle first: five candidates have uncached root texts, so
 their lengths are unverified; and the enumeration-stub track is cheaper than
 anything in the ranking but belongs in formula records, not surfaces.
 
-### 2. Promote the fourfold source question to a formula record
+### 2. Smaller items
 
-`kim nidana kim samudaya kim jatika kim pabhava` now has identical wording in
-SN 12.11 and MN 11. A third surface should not re-solve it.
-
-### 3. Smaller items
-
-- Write reader introductions for the texts that still use the generated
-  default. The next ones in newcomer order are the Stage 2 and Stage 3 texts
-  without one: SN 55.5, MN 2, MN 118, MN 10, DN 2.
 - Work through the 11 `partial` citations from `verify_example_sources.py`.
   Those are usually the right sutta quoted with slightly wrong wording.
 - Consider dropping `HIGH_LOAD_MINOR_LINT_THRESHOLD` from 9 to 7 in
@@ -113,6 +108,75 @@ SN 12.11 and MN 11. A third surface should not re-solve it.
 - Five dependabot pull requests are open against workflow actions and dev
   dependencies. They were reviewed during the reader phase and deliberately
   left alone; see the reader architecture document.
+
+## Resolved Finding: The Fourfold Source Question
+
+Resolved 2026-08-21. `kiṁnidānaṁ kiṁsamudayaṁ kiṁjātikaṁ kiṁpabhavaṁ` is now
+governed by `kim-nidana-kim-samudaya-kim-jatika-kim-pabhava-formula`, a minor
+formula record covering both the question and its answering form:
+
+> what is its source? What is its origin? What is it born from? What produces
+> it?
+
+> Ignorant wanting is its source, ignorant wanting is its origin; it is born
+> from ignorant wanting, and ignorant wanting produces it.
+
+The question and the answer are one unit, not two. The Pali answers by
+declining the same four members against the conditioning item, so the English
+has to reuse the same four words in the same order or the answer stops sounding
+like an answer.
+
+The premise recorded for this task was that two surfaces shared the wording and
+a third should not re-solve it. The third surface already existed. **MN 38
+carries the same passage, in Pali word-for-word identical to SN 12.11, and had
+solved it a third way**: the question became `what is the origin, arising,
+birth, and source of`, the answer became `have ignorant wanting as their
+source`, and the remaining seven links were compressed into a prose chain
+(`And felt experience — from contact. And contact — from the six sense
+fields.`). MN 38 now reads as SN 12.11 reads.
+
+Three further things fell out of the same block, all of them compliance with
+records that already existed rather than new judgment:
+
+- MN 38 rendered `āhāra` as `nutrients` twice, against its own recorded
+  `nutriment`.
+- Three of the four nutriment members were off their own major entries:
+  `material nutriment` for `kabalinkara-ahara` (`edible-food nutriment`),
+  `mental volition` for `manosancetana-ahara` (`mental-intention nutriment`),
+  and a bare `contact` for `phassa-ahara` (`contact nutriment`). Each of those
+  records carries an explicit `In the four-nutriments framework` rule.
+- The compression contradicted MN 38's own recorded policy of preserving
+  repetition for study readability. That policy exists to expand `…pe…`, but
+  the Pali at mn38:16 carries no peyyala at all — the translation was
+  abbreviating a passage the source already writes out in full.
+
+`saḷāyatana` was deliberately left as `six sense fields` in MN 38 rather than
+moved to the headword default `six fields of experience`. That is a recorded
+controlled alternate this surface carries consistently, so it is not drift.
+
+Two wordings in the same block stay divergent because nothing governs them:
+`oḷāriko vā sukhumo vā` (`coarse or subtle` here, `coarse or fine` in
+SN 12.11) and the `bhūtānaṁ vā sattānaṁ ṭhitiyā sambhavesīnaṁ vā anuggahāya`
+clause. `oḷārika`, `sukhuma`, and `sambhavesī` are all ungoverned; SN 12.11's
+notes had already flagged `sambhavesī` as a candidate minor entry. Settle the
+records first, then the wording.
+
+### Enforcement
+
+Three patterns were added to `check_translation_formula_consistency.py` so a
+fourth surface cannot re-solve this quietly: the recombined question, the
+question collapsed to its origin member alone, and the recombined answer. All
+three match across `\s+` rather than a literal space, because the wrapped
+prose puts a line break inside the formula — the same trap that hid two MN 11
+paragraphs during the `upadana` pass.
+
+Both control surfaces had predicted this. SN 12.11's notes asked for a record
+if a second surface needed the wording, and MN 11's notes said a third surface
+should not re-solve it. Both calls are now marked resolved in place. Neither
+noticed that the third surface was already in the repository, which is the
+lesson worth keeping: a re-audit call that names a future risk should be
+checked against the corpus that already exists, not only against the corpus to
+come.
 
 ## Resolved Finding: The Split `upadana` Family
 

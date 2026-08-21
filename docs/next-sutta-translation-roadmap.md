@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (42 total)
+## Completed Surfaces (44 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -53,6 +53,10 @@ Use that full roadmap as the source of truth for:
 - `AN 6.63` Nibbedhika Sutta (The Penetrating Exposition)
 - `SN 12.61` Assutavā Sutta (The Body and the Mind)
 - `MN 11` Cūḷasīhanāda Sutta (The Shorter Lion's Roar)
+
+### Wave 7: Dark Clusters and Orphan Majors
+- `MN 43` Mahāvedalla Sutta (The Longer Analysis)
+- `SN 51.13` Chandasamādhi Sutta (The Four Bases of Power)
 
 ### Outside the Wave Sequence
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
