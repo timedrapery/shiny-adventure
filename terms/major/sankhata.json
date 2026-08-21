@@ -36,16 +36,16 @@
   ],
   "example_phrases": [
     {
-      "pali": "saṅkhata dhamma",
-      "translation": "a conditioned dhamma",
-      "notes": "Shows an analytic collocation.",
-      "source": "SN 43.1"
+      "pali": "Jarāmaraṇaṁ, bhikkhave, aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ",
+      "translation": "Ageing and death, bhikkhus, are impermanent, conditioned, dependently arisen",
+      "notes": "Shows an analytic collocation. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "SN 12.20"
     },
     {
-      "pali": "sabbe saṅkhatā aniccā",
-      "translation": "all conditioned things are impermanent",
-      "notes": "Shows the term in a broad doctrinal generalization.",
-      "source": "SN 43.1"
+      "pali": "yaṁ taṁ jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ",
+      "translation": "whatever is born, come to be, conditioned, and bound to fall apart",
+      "notes": "Shows the term in a broad doctrinal generalization. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "DN 16"
     },
     {
       "pali": "vedanā aniccā saṅkhatā paṭiccasamuppannā",
@@ -56,7 +56,8 @@
   ],
   "sutta_references": [
     "DN 15",
-    "SN 43.1"
+    "SN 12.20",
+    "DN 16"
   ],
   "tags": [
     "core-doctrine",

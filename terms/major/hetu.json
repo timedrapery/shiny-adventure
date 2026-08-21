@@ -41,14 +41,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "hetuṃ paṭicca",
-      "translation": "dependent on a cause",
-      "notes": "Shows a compact analytical use.",
-      "source": "AN 3.134"
+      "pali": "natthi, mahārāja, hetu natthi paccayo sattānaṁ saṅkilesāya",
+      "translation": "Great king, there is no cause and no condition for the corruption of beings",
+      "notes": "Shows a compact analytical use. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "DN 2"
     }
   ],
   "sutta_references": [
-    "AN 3.134"
+    "DN 2"
   ],
   "tags": [
     "core-doctrine",

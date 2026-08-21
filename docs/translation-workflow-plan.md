@@ -66,7 +66,7 @@ python -m pip install -r requirements-dev.txt
 - The four `upadana` compounds are harmonised on the headword default, and the
   `silabbata` stem renders as `habits and observances` throughout.
 - The threefold `sankhara` triad is harmonised on `conditioner`.
-- Citation sweep: 455 ok, 0 absent, 0 unfetched.
+- Citation sweep: 466 ok, 0 absent, 0 unfetched, 0 partial.
 - 136 orphan records, 27 of them major, down from 185 and 45. Two rounds of
   the citation-debt pass account for most of that; Iti 44 anchored the last
   four.
@@ -100,8 +100,6 @@ is the method correction Wave 6 paid for.
 
 ### 2. Smaller items
 
-- Work through the 11 `partial` citations from `verify_example_sources.py`.
-  Those are usually the right sutta quoted with slightly wrong wording.
 - Consider dropping `HIGH_LOAD_MINOR_LINT_THRESHOLD` from 9 to 7 in
   `scripts/lint_terms.py`, now that the queue it guards is empty.
 - Several terms recur across surfaces while still ungoverned: `assutava` and
@@ -231,6 +229,74 @@ Two scope lessons, both worth repeating:
 Full rationale is in
 [translations/mn11-culasihanada-sutta-notes.md](translations/mn11-culasihanada-sutta-notes.md).
 
+## Resolved Finding: The `partial` Verdict Was Not Benign
+
+Resolved 2026-08-21. The eleven `partial` citations are repaired and the sweep
+now reports zero. `ok` went from 455 to 466.
+
+The reason this sat untouched is recorded above: both roadmap documents
+described `partial` as *the right sutta quoted with slightly wrong wording* and
+filed it under smaller items. **One of the eleven was that.** The other ten
+were wrong citations, and four of them were the record's only citation, so
+those four records were resting on nothing at all -- the same shape as the
+`phala` case from the 2026-08-19 pass.
+
+Three of the ten point back at suttas that pass had already convicted. `AN
+3.32` was found not to contain `appaṇihito vimokkho`; `animitta` still cited it
+for `animitto vimokkho`, which is not there either. `AN 3.134` was found to be
+the three-assemblies sutta with no `dhātu` in it; `hetu` still cited it for
+`hetuṁ paṭicca`, and it has no `hetu` either. The earlier pass fixed the
+citations it was looking at rather than the suttas it had just disproved.
+
+| Record | Was | Now |
+| --- | --- | --- |
+| `animitta` | AN 3.32 `animitto vimokkho` | SN 43.4 `animitto samādhi` |
+| `cetovimutti` | MN 70 | AN 3.32 `yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato` |
+| `pannavimutti` | MN 70 | MN 70 `Ayaṁ vuccati, bhikkhave, puggalo paññāvimutto` |
+| `hetu` | AN 3.134 | DN 2 `natthi, mahārāja, hetu natthi paccayo sattānaṁ saṅkilesāya` |
+| `kilesa` | AN 3.33 | AN 4.5 `Yo ve kilesāni pahāya pañca` |
+| `nibbana` | SN 38.1 `taṇhakkhayo nibbānaṁ` | SN 38.1 `rāgakkhayo dosakkhayo mohakkhayo` |
+| `nidana` | SN 12.1 | SN 12.11 `kiṁnidānā kiṁsamudayā kiṁjātikā kiṁpabhavā` |
+| `sankhata` | SN 43.1 `saṅkhata dhamma` | SN 12.20 `aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ` |
+| `sankhata` | SN 43.1 `sabbe saṅkhatā aniccā` | DN 16 `jātaṁ bhūtaṁ saṅkhataṁ palokadhammaṁ` |
+| `khaye-nana` | MN 70 `khaye ñāṇaṁ` | SN 12.23 `vimuttūpanisaṁ khaye ñāṇan` |
+
+Three cases are worth remembering:
+
+- `nibbana` was the only genuine wording slip. SN 38.1 really does define
+  nibbāna, but by `rāgakkhayo dosakkhayo mohakkhayo`, not by `taṇhakkhayo`.
+- `pannavimutti` was the `anagami` precedent again. MN 70 was the right sutta;
+  it simply does not carry the long stock phrase the record quoted. The fix was
+  to quote what MN 70 says, not to move the citation. Its partner record
+  `cetovimutti` had to move, because MN 70 never uses that word at all -- one
+  quoted phrase, two records, and only one of them was in the right place.
+- `khaye-nana` and `nidana` both moved onto governed surfaces they should have
+  been citing all along, SN 12.23 and SN 12.11.
+
+### One Case Left Open
+
+`sabbe-sankhata-anicca` is not a citation repair. Its notes claimed `SN 43.1
+anchors the line itself`; SN 43.1 defines the *un*conditioned and contains
+neither `sabbe` nor `aniccā`. The phrase `sabbe saṅkhatā aniccā` does not
+appear anywhere this repository can reach. The canonical line is `sabbe
+saṅkhārā aniccā` (AN 3.136), and the sibling record `anicca-sabbe-sankhara`
+already governs it.
+
+So the record governs an English line built by substituting `saṅkhata` into a
+formula the texts state with `saṅkhāra`. The false claim is removed and the
+record now cites AN 3.136 with an explicit note that the Pali reads `saṅkhārā`.
+Whether to merge it into `anicca-sabbe-sankhara` or relabel it as a repository
+coinage is an editorial call, not a citation repair, so it is left standing and
+flagged in the record itself.
+
+### Method Note
+
+Read a `partial` by checking whether whole word stems are missing, not whether
+the phrase failed to match. `normalize()` already folds `ṁ` and `ṃ` together,
+so an orthographic mismatch does not produce `partial` -- which was the first
+hypothesis here, and it was wrong. If a stem is absent, the citation is wrong,
+not merely differently worded.
+
 ## Resolved Finding: Unverified Example Citations
 
 Found 2026-08-19 while translating SN 55.5, and resolved the same day. Recorded
@@ -289,10 +355,16 @@ Run `python scripts/verify_example_sources.py` after any pass that adds or
 edits `example_phrases`. It is opt-in rather than part of `run_checks.py`
 because it needs network access.
 
-The sweep currently reports zero `absent` and zero `unfetched`. It also
-reports 11 `partial` and 149 `inflected`, and neither is reliably an error:
-`partial` is usually the right sutta quoted with slightly wrong wording, and
-`inflected` is ordinary lemma citation. Worth a pass eventually; not defects.
+The sweep currently reports zero `absent`, zero `unfetched`, and zero
+`partial`. It reports 149 `inflected`, which is ordinary lemma citation and not
+an error.
+
+**The `partial` verdict was misread until 2026-08-21.** This section used to
+say `partial` is usually the right sutta quoted with slightly wrong wording,
+and dismissed the 11 of them as `worth a pass eventually; not defects`. When
+the pass was finally run, exactly one of the eleven fit that description. The
+other ten were wrong citations of the same kind the 2026-08-19 sweep found:
+whole word stems absent from the cited sutta. See the resolved finding below.
 
 One known blind spot: a root text that uses peyyala anywhere makes every
 unmatched phrase in it `inconclusive`, even when the elision has nothing to do

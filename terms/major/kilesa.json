@@ -47,15 +47,15 @@
       "source": "MN 7"
     },
     {
-      "pali": "kilesā pahīnā",
-      "translation": "the defilements have been abandoned",
-      "notes": "Shows the family in broad abandonment language without erasing more specific doctrinal layers.",
-      "source": "AN 3.33"
+      "pali": "Yo ve kilesāni pahāya pañca",
+      "translation": "who has given up the five defilements",
+      "notes": "Shows the family in broad abandonment language without erasing more specific doctrinal layers. Citation repaired 2026-08-21 in the partial-citation sweep.",
+      "source": "AN 4.5"
     }
   ],
   "sutta_references": [
     "MN 7",
-    "AN 3.33"
+    "AN 4.5"
   ],
   "tags": [
     "core-doctrine",

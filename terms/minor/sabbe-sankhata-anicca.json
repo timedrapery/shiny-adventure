@@ -12,7 +12,7 @@
     "all created things are impermanent"
   ],
   "definition": "Broad doctrinal formula stating the impermanent character of conditioned things.",
-  "notes": "Use this record for the full formula line when the conditioned side of the family is foregrounded explicitly. SN 43.1 anchors the line itself. It keeps saṅkhata tied to impermanence without collapsing back into created-language, and the OSF glossary supports keeping the family in conditioned-language rather than created-language. This gives translators a governed line when the broad conditioned category is the point rather than the more specific saṅkhārā family.",
+  "notes": "Use this record for the full formula line when the conditioned side of the family is foregrounded explicitly. It keeps saṅkhata tied to impermanence without collapsing back into created-language, and the OSF glossary supports keeping the family in conditioned-language rather than created-language. This gives translators a governed line when the broad conditioned category is the point rather than the more specific saṅkhārā family. **Open question, raised 2026-08-21.** The notes previously said `SN 43.1 anchors the line itself`. That is not true: SN 43.1 defines the *un*conditioned and contains neither `sabbe` nor `aniccā`. Nor does the phrase `sabbe saṅkhatā aniccā` appear anywhere in the canon that this repository can reach -- the canonical line is `sabbe saṅkhārā aniccā` (AN 3.136), which the sibling record `anicca-sabbe-sankhara` already governs. So this record governs an English line built by substituting `saṅkhata` into a formula the texts state with `saṅkhāra`. That may still be wanted as a translator-facing line, but it is a repository coinage rather than a quoted formula, and it should be either merged into `anicca-sabbe-sankhara` or relabelled as a coinage. Left standing rather than deleted, because the choice is editorial, not a citation repair.",
   "context_rules": [
     {
       "context": "In direct broad-doctrinal formula translation",
@@ -33,14 +33,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "sabbe saṅkhatā aniccā",
+      "pali": "sabbe saṅkhārā aniccā",
       "translation": "all conditioned things are impermanent",
-      "notes": "Keep the conditioned side explicit and avoid created-language.",
-      "source": "SN 43.1"
+      "notes": "The canonical line this record parallels. Cited so the record is not left resting on a phrase no text contains; note that the Pali here reads saṅkhārā, not saṅkhatā. See the open question in `notes`.",
+      "source": "AN 3.136"
     }
   ],
   "sutta_references": [
-    "SN 43.1"
+    "AN 3.136"
   ],
   "tags": [
     "three-marks",
