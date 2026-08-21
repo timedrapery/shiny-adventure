@@ -33,7 +33,7 @@
     {
       "pali": "nissaraṇa-dhātu",
       "translation": "element of escape",
-      "notes": "Compound governed by the nissaraṇa headword.",
+      "notes": "Compound governed by the nissaraṇa headword. **Unresolved 2026-08-21.** MN 137 contains no `nissaraṇa` in any form, so this citation is wrong, but no cached sutta carries the compound `nissaraṇa-dhātu` to move it to. Left in place and flagged rather than moved to a sutta that merely uses the bare `nissaraṇa`, which would trade a wrong citation for a misleading one. The canonical home is the six `nissaraṇīyā dhātuyo`; fetch that sutta and repair this properly.",
       "source": "MN 137"
     }
   ],

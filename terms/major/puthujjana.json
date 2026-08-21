@@ -42,20 +42,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "assutavā puthujjano",
-      "translation": "an unlearned ordinary person",
-      "notes": "Frequent canonical contrast to the noble disciple.",
-      "source": "MN 9"
-    },
-    {
-      "pali": "puthujjanabhūmi",
-      "translation": "the plane of the ordinary person",
-      "notes": "Shows a phrase for the pre-breakthrough condition.",
-      "source": "MN 9"
+      "pali": "assutavā, bhikkhave, puthujjano",
+      "translation": "the untaught ordinary person, bhikkhus",
+      "notes": "Shows a phrase for the pre-breakthrough condition. MN 9 contains no `puthujjana` in any form. Repaired 2026-08-21 in the inflected/inconclusive sweep. A second example citing MN 9 for `assutavā puthujjano` was removed on 2026-08-21: MN 9 contains no `puthujjana` in any form, and this line says the same thing from the sutta named for it.",
+      "source": "SN 12.61"
     }
   ],
   "sutta_references": [
-    "MN 9"
+    "SN 12.61"
   ],
   "tags": [
     "core-doctrine",

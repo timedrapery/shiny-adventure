@@ -57,10 +57,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "imasmiṁ sati idaṁ hoti",
-      "translation": "when this is, this comes to be",
-      "notes": "Shows the core conditionality formula.",
-      "source": "SN 12.2"
+      "pali": "duddasaṁ idaṁ ṭhānaṁ yadidaṁ—idappaccayatā paṭiccasamuppādo",
+      "translation": "this matter is hard to see, namely specific conditionality, dependent arising",
+      "notes": "Shows the core conditionality formula. SN 12.2 contains neither `idappaccayatā` nor the `imasmiṁ sati` formula; it analyses the twelve links one by one. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 26"
     },
     {
       "pali": "imassa nirodhā idaṁ nirujjhati",
@@ -70,8 +70,8 @@
     }
   ],
   "sutta_references": [
-    "SN 12.2",
-    "SN 12.61"
+    "SN 12.61",
+    "MN 26"
   ],
   "tags": [
     "core-doctrine",

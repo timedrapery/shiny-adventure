@@ -40,20 +40,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "puññakkhetta",
-      "translation": "a field of benefit",
-      "notes": "Shows how the project preference extends into compounds without churchy English.",
-      "source": "AN 7.52"
-    },
-    {
-      "pali": "puññāni karoti",
-      "translation": "one creates benefit",
-      "notes": "Practical ethical usage.",
-      "source": "AN 7.52"
+      "pali": "Brāhmaṇā, bho gotama, pañca dhamme paññapenti puññassa kiriyāya, kusalassa ārādhanāyā",
+      "translation": "The brahmins, Master Gotama, prescribe five things for the making of merit",
+      "notes": "Shows how the project preference extends into compounds without churchy English. AN 7.52 contains no `puñña` in any form; it is the Dānamahapphala Sutta and speaks of `mahapphala` throughout. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 99"
     }
   ],
   "sutta_references": [
-    "AN 7.52"
+    "MN 99"
   ],
   "tags": [
     "ethics",

@@ -44,10 +44,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "adhisīlasikkhā",
-      "translation": "the higher training in conduct",
-      "notes": "Shows the standard triadic formulation.",
-      "source": "MN 44"
+      "pali": "Adhisīlasikkhā, adhicittasikkhā, adhipaññāsikkhā",
+      "translation": "the training in higher virtue, the training in higher mind, the training in higher discernment",
+      "notes": "Shows the standard triadic formulation. MN 44 contains no `sikkhā` at all, so the three trainings are not in it; it analyses the three aggregates instead. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "AN 3.88"
     },
     {
       "pali": "sīlaṃ samādhi paññā",
@@ -57,8 +57,8 @@
     }
   ],
   "sutta_references": [
-    "MN 44",
-    "DN 2"
+    "DN 2",
+    "AN 3.88"
   ],
   "tags": [
     "core-practice",

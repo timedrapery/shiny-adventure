@@ -41,21 +41,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "lokiya dhamma",
-      "translation": "worldly dhamma",
-      "notes": "Shows a simple doctrinal use.",
-      "source": "SN 45.8"
-    },
-    {
-      "pali": "lokiyo sammādiṭṭhi",
-      "translation": "worldly right view",
-      "notes": "Shows the graded distinction in the path factors.",
+      "pali": "atthi, bhikkhave, sammādiṭṭhi sāsavā puññabhāgiyā upadhivepakkā",
+      "translation": "there is, bhikkhus, right view that is subject to outflows, on the side of merit, ripening in attachment",
+      "notes": "Shows the graded distinction in the path factors. MN 117 draws exactly this distinction but never uses the word `lokiya` for it; it says `sāsavā puññabhāgiyā`. Quoting what the sutta says rather than moving the citation. Repaired 2026-08-21 in the inflected/inconclusive sweep. A second example citing SN 45.8 for `lokiya dhamma` was removed on 2026-08-21: SN 45.8 contains no `lokiya`, and neither does any other governed surface. The word is a commentarial convenience for a distinction the suttas draw in other words.",
       "source": "MN 117"
     }
   ],
   "sutta_references": [
-    "MN 117",
-    "SN 45.8"
+    "MN 117"
   ],
   "tags": [
     "core-doctrine",

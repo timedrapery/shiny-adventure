@@ -55,10 +55,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "sakkāyadiṭṭhi pahīnā hoti",
-      "translation": "identity view is abandoned",
-      "notes": "Shows the term in liberation-stage context.",
-      "source": "MN 118"
+      "pali": "sakkāyadiṭṭhi, vicikicchā, sīlabbataparāmāso",
+      "translation": "identity view, doubt, and grasping at habits and observances",
+      "notes": "Shows the term in liberation-stage context. MN 118 names the three fetters only by number, never individually, so it cannot anchor this record. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 2"
     },
     {
       "pali": "rūpaṃ attato samanupassati",
@@ -77,8 +77,8 @@
     "SN 22.59",
     "SN 22.89",
     "SN 22.105",
-    "MN 118",
-    "SN 55.3"
+    "SN 55.3",
+    "MN 2"
   ],
   "tags": [
     "core-doctrine",

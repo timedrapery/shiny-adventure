@@ -43,16 +43,16 @@
       "source": "MN 10"
     },
     {
-      "pali": "bahiddha",
-      "translation": "external",
-      "notes": "Shows a compact headword use in paired analysis.",
-      "source": "SN 35.26"
+      "pali": "ajjhattaṁ vā bahiddhā vā",
+      "translation": "internal or external",
+      "notes": "Shows a compact headword use in paired analysis. SN 35.26 contains no `bahiddhā`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "SN 22.48"
     }
   ],
   "sutta_references": [
     "MN 10",
     "DN 22",
-    "SN 35.26"
+    "SN 22.48"
   ],
   "tags": [
     "core-practice",

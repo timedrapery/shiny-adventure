@@ -67,9 +67,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "suññato lokaṃ avekkhassu",
-      "translation": "look upon the world as empty",
-      "notes": "Classic emptiness instruction governed by the default rendering.",
+      "pali": "suñño loko, suñño loko",
+      "translation": "empty is the world, empty is the world",
+      "notes": "Classic emptiness instruction governed by the default rendering. SN 35.85 is the right sutta and its title names this line, but it does not contain `avekkhassu`; that imperative belongs to a verse elsewhere. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "SN 35.85"
     },
     {

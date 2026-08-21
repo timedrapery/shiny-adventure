@@ -20,10 +20,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "chandarāga",
-      "translation": "desire and passion",
-      "notes": "Keep the two terms distinct in English.",
-      "source": "SN 35.191"
+      "pali": "Yo kho, āvuso visākha, pañcasu upādānakkhandhesu chandarāgo taṁ tattha upādānan",
+      "translation": "The desire and passion for the five heaps of appropriation, friend Visākha, is the taking personally there",
+      "notes": "Keep the two terms distinct in English. SN 35.191 contains no `chandarāga`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 44"
     },
     {
       "pali": "vinicchayaṁ paṭicca chandarāgo",
@@ -34,7 +34,7 @@
   ],
   "sutta_references": [
     "DN 15",
-    "SN 35.191"
+    "MN 44"
   ],
   "tags": [
     "mental-qualities",

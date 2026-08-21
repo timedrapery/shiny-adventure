@@ -50,15 +50,15 @@
   ],
   "example_phrases": [
     {
-      "pali": "evaṁ me sutaṁ, ekaṁ samayaṁ bhagavā sāvatthiyaṁ viharati",
-      "translation": "So I heard. At one time the Buddha was staying near Sāvatthī.",
-      "notes": "Shows the standard narrative framing use, which is the overwhelming majority of occurrences.",
+      "pali": "ekaṁ samayaṁ bhagavā ukkaṭṭhāyaṁ viharati subhagavane sālarājamūle",
+      "translation": "at one time the Buddha was staying at Ukkaṭṭhā, in the Subhaga grove at the root of a great sal tree",
+      "notes": "Shows the standard narrative framing use, which is the overwhelming majority of occurrences. MN 1 does not open at Sāvatthī. The record quoted the commonest opening formula rather than this sutta's. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "MN 1"
     },
     {
-      "pali": "bhagavā etadavoca",
-      "translation": "The Buddha said this:",
-      "notes": "Shows the stock dialogue-attribution line that recurs across every surface.",
+      "pali": "Bhagavaṁmūlakā no, bhante, dhammā",
+      "translation": "Our teachings, bhante, are rooted in the Buddha",
+      "notes": "Shows the stock dialogue-attribution line that recurs across every surface. SN 36.6 contains no `etadavoca`. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "SN 36.6"
     }
   ],

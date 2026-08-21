@@ -53,10 +53,10 @@
       "source": "Iti 43"
     },
     {
-      "pali": "nibbutaṃ padaṃ",
-      "translation": "the cooled state",
-      "notes": "Keeps the consummation-side adjective distinct from the governing noun nibbāna.",
-      "source": "SN 43.14"
+      "pali": "sītibhūtosmi nibbuto",
+      "translation": "I am cooled, I am quenched",
+      "notes": "Keeps the consummation-side adjective distinct from the governing noun nibbāna. SN 43.14 contains no `nibbut` in any form. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
+      "source": "MN 26"
     },
     {
       "pali": "sītibhūtosmi nibbuto",
@@ -67,8 +67,7 @@
   ],
   "sutta_references": [
     "Iti 43",
-    "MN 26",
-    "SN 43.14"
+    "MN 26"
   ],
   "tags": [
     "core-doctrine",
