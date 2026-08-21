@@ -17,7 +17,7 @@ The mechanism is attention. Whatever you keep giving unwise attention to
 grows; whatever you stop feeding weakens on its own.
 
 It is schematic and short, and it turns the general advice of the texts
-before it into something you can actually act on -- not "be less distracted",
+before it into something you can actually act on — not "be less distracted",
 but "stop feeding this particular thing".
 
 ## The Setting

@@ -14,7 +14,7 @@ accomplish more than renunciants do. The Buddha refuses to answer in the
 abstract and makes him do the work of separating the cases.
 
 Then a sharper exchange. The brahmins' authority, the Buddha says, rests on a
-line of teachers in which no one -- not one, all the way back -- ever claimed
+line of teachers in which no one — not one, all the way back — ever claimed
 to have seen for himself what he taught. It is like a file of blind men, each
 holding on to the one in front. Subha takes this very badly.
 

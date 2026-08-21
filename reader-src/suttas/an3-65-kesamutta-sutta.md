@@ -13,7 +13,7 @@ A group of villagers complain to the Buddha: teachers keep passing through
 town, each one praising their own doctrine and tearing down everyone else's,
 and the villagers have no way to tell who's actually right. Instead of
 handing them a doctrine to trust, the Buddha gives them something else
-entirely -- a method. Don't go by tradition, report, scripture, logic,
+entirely — a method. Don't go by tradition, report, scripture, logic,
 or a speaker's reputation alone. Go by what you can actually verify:
 does a state of mind, acted on, lead to harm or to welfare, for yourself
 and others.

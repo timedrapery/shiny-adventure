@@ -10,7 +10,7 @@
 ## About this text
 
 Two images carry this one. A man wants a snake, finds a big one, and grabs it
-by the coil or the tail -- and it turns and bites him. That, the Buddha says,
+by the coil or the tail — and it turns and bites him. That, the Buddha says,
 is what learning the teaching in order to win arguments does to a person.
 
 Then the raft. You lash one together out of grass and branches to get across

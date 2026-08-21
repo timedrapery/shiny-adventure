@@ -15,7 +15,7 @@ traditions say exactly the same thing about themselves. So what actually
 makes the difference?
 
 The answer is a test rather than an assertion. Can a teaching account for all
-four ways of taking things personally -- sensuality, views, habits and
+four ways of taking things personally — sensuality, views, habits and
 observances, and doctrines of self? A teaching that misses that last one
 leaves its own followers holding the very thing it claims to free them from.
 

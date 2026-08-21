@@ -12,7 +12,7 @@
 Kaccānagotta asks what right view actually means. The answer is one of the
 shortest and most quoted passages in the canon.
 
-The world leans on two ideas, the Buddha says -- that things exist, and that
+The world leans on two ideas, the Buddha says — that things exist, and that
 they do not. Someone who really sees how things arise stops leaning on the
 second. Someone who really sees how they cease stops leaning on the first.
 In place of either: this comes to be because that comes to be.

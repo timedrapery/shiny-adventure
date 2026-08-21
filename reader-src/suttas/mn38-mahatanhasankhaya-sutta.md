@@ -10,7 +10,7 @@
 ## About this text
 
 A monk named Sāti gets it badly wrong. He has decided the Buddha teaches that
-it is "this very knowing that roams and transmigrates, not another" -- a soul
+it is "this very knowing that roams and transmigrates, not another" — a soul
 under a different name. His fellow monks cannot talk him out of it, so the
 matter goes to the Buddha.
 

@@ -11,16 +11,16 @@
 
 The hardest text here, placed last on purpose.
 
-The Buddha takes twenty-four things -- earth, water, fire, air, beings, gods,
+The Buddha takes twenty-four things — earth, water, fire, air, beings, gods,
 the formless spheres, the seen, the heard, the sensed, the cognized, oneness,
-diversity, all, nibbāna -- and runs each one through four kinds of person.
+diversity, all, nibbāna — and runs each one through four kinds of person.
 The ordinary person recognizes earth as earth, then takes himself to be
 earth, takes earth as his, and delights in it. The trainee is told not to.
 The arahant does not. The Buddha does not, and knows exactly why.
 
 The whole difficulty sits in one move: the step from recognizing something to
 taking a position about it. The claim is that the trouble does not start with
-wanting, but earlier -- in that first tipping of recognition into a stance,
+wanting, but earlier — in that first tipping of recognition into a stance,
 including a stance about nibbāna itself.
 
 The text famously ends without the monks delighting in it. Read cold it gives

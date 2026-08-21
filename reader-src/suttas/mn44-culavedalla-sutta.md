@@ -19,7 +19,7 @@ It moves quickly and covers an unusual amount of ground for its length. When
 Visākha finally takes the whole exchange to the Buddha to check it, the
 Buddha tells him he would have answered in exactly the same way.
 
-Read it as a compact survey of the doctrine -- and notice who is teaching
+Read it as a compact survey of the doctrine — and notice who is teaching
 whom.
 
 ## The Setting

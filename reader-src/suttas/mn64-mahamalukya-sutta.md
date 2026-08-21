@@ -9,8 +9,8 @@
 
 ## About this text
 
-Mālukyaputta -- the same disciple who asked the unanswerable questions in
-MN 63 -- lists the five lower fetters correctly and is immediately challenged
+Mālukyaputta — the same disciple who asked the unanswerable questions in
+MN 63 — lists the five lower fetters correctly and is immediately challenged
 on it.
 
 The challenge is the infant simile. A baby lying on its back has no view of

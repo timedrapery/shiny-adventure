@@ -17,7 +17,7 @@ arising, apply it, or arrive at it through a story. This one simply says what
 each term means.
 
 If a link has been a blur elsewhere, this is where to look it up. Reading it
-straight through also gives you something the definitions alone do not -- a
+straight through also gives you something the definitions alone do not — a
 feel for how tightly the sequence is bolted together.
 
 ## The Setting

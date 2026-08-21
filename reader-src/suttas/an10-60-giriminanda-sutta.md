@@ -10,7 +10,7 @@
 ## About this text
 
 Girimānanda is gravely ill. Ānanda asks the Buddha to go and visit him. The
-Buddha does not go -- instead he teaches Ānanda ten things to recognize, and
+Buddha does not go — instead he teaches Ānanda ten things to recognize, and
 sends him to recite them at the bedside.
 
 They run through impermanence, not-self, the body's unattractiveness, danger,

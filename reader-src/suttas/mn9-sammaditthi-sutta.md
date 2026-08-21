@@ -9,7 +9,7 @@
 
 ## About this text
 
-Sāriputta is asked what right view is. He answers -- then answers again a
+Sāriputta is asked what right view is. He answers — then answers again a
 different way, and again, more than a dozen times over. The wholesome and the
 unwholesome and their roots. Nutriment. The four noble truths. Then each link
 of dependent arising in turn, every one given the same four-part treatment.
@@ -18,7 +18,7 @@ Every answer arrives at the same destination: the disciple abandons the
 underlying tendencies and makes an end of dissatisfaction.
 
 Because it covers so much ground so consistently, this reads best as a
-review. Once the vocabulary is familiar, the repetition becomes the point --
+review. Once the vocabulary is familiar, the repetition becomes the point —
 one teaching, entered through door after door after door.
 
 ## The Setting

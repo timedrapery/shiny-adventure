@@ -15,7 +15,7 @@ deals in merit and results, and a noble right view with no outflows left in
 it. The same split runs through attitude, speech, action, and livelihood.
 
 The factors are also shown holding each other up rather than sitting in a
-list -- right view leads, and right effort and right remembering run
+list — right view leads, and right effort and right remembering run
 alongside every one of the others.
 
 The title comes from the count at the end: twenty skillful sides and twenty

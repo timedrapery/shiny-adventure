@@ -9,8 +9,8 @@
 
 ## About this text
 
-A definition, and almost nothing else. The five heaps are named -- form, felt
-experience, recognition, putting-together activities, knowing -- and then the
+A definition, and almost nothing else. The five heaps are named — form, felt
+experience, recognition, putting-together activities, knowing — and then the
 same five are named again, this time as the clung-to heaps.
 
 The difference between the two lists is the entire point. The heaps are just

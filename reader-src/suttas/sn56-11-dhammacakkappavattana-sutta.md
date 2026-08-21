@@ -11,15 +11,15 @@
 
 This is traditionally held to be the first teaching the Buddha gave after
 his awakening, delivered to five ascetics who had previously practiced
-extreme self-denial alongside him. It opens by rejecting two extremes --
-indulgence and self-mortification -- in favor of a middle way, then states
+extreme self-denial alongside him. It opens by rejecting two extremes —
+indulgence and self-mortification — in favor of a middle way, then states
 the four core claims the rest of the tradition builds on: there is
 dissatisfaction, it has a cause, the cause can end, and there's a specific
 path that ends it. The four aren't presented as beliefs to accept; the text
 insists each one had to be *known*, directly, before the Buddha would even
 claim to be fully awakened.
 
-This is dense and formulaic compared to earlier texts on this site -- it
+This is dense and formulaic compared to earlier texts on this site — it
 reads like a foundational statement, because it is one. One listener,
 Kondañña, understands it well enough on the spot that the text marks the
 moment by name.
