@@ -22,7 +22,6 @@ def make_record(stem: str, **overrides: object) -> dict[str, object]:
             "anicca-sabbe-sankhara": "formula note keeping impermanent and put together linked",
             "dukkha-sabbe-sankhara": "formula note keeping unsatisfactory and put together linked",
             "sabbe-dhamma-anatta": "formula note keeping phenomena and not-self linked",
-            "sabbe-sankhata-anicca": "formula note keeping conditioned things and impermanent linked",
             "yam-aniccam-tam-dukkham-yam-dukkham-tad-anatta": (
                 "formula note keeping impermanent dissatisfaction and not-self linked"
             ),

@@ -14,8 +14,7 @@
 | Practice | aniccānupassanā | contemplation of impermanence | observing impermanence | thinking about change |
 | Practice | dukkhānupassanā | contemplation of dissatisfaction | observing dissatisfaction | contemplation of suffering |
 | Practice | anattānupassanā | contemplation of not-self | observing not-self | contemplation of no-self |
-| Formula | aniccā sabbasaṅkhārā | all that has been put together is impermanent | all constructed things are impermanent | all formations are impermanent |
+| Formula | aniccā sabbasaṅkhārā | all that has been put together is impermanent | all constructed things are impermanent | all formations are impermanent, all created things are impermanent |
 | Formula | dukkhā sabbasaṅkhārā | all that has been put together is unsatisfactory | all constructed things are unsatisfactory | all formations are suffering |
 | Formula | sabbe dhammā anattā | all phenomena are not-self | all dhammas are not-self | all things have no self |
-| Formula | sabbe saṅkhatā aniccā | all conditioned things are impermanent | all conditioned phenomena are impermanent | all created things are impermanent |
 | Formula | yaṃ aniccaṃ taṃ dukkhaṃ; yaṃ dukkhaṃ tad anattā | what is impermanent is dissatisfaction; what is dissatisfaction is not-self | what is impermanent is unsatisfactory; what is unsatisfactory is not-self | what is impermanent suffers; what suffers has no self |
