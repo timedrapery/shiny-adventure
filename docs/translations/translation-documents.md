@@ -202,6 +202,11 @@ Current SN 46.51 surfaces:
 - [sn46-51-ahara-sutta.md](sn46-51-ahara-sutta.md): main shareable translation text
 - [sn46-51-ahara-sutta-notes.md](sn46-51-ahara-sutta-notes.md): companion translator notes and rationale
 
+Current SN 48.10 surfaces:
+
+- [sn48-10-dutiyavibhanga-sutta.md](sn48-10-dutiyavibhanga-sutta.md): main shareable translation text
+- [sn48-10-dutiyavibhanga-sutta-notes.md](sn48-10-dutiyavibhanga-sutta-notes.md): companion translator notes and rationale
+
 Current AN 3.65 surfaces:
 
 - [an3-65-kesamutta-sutta.md](an3-65-kesamutta-sutta.md): main shareable translation text

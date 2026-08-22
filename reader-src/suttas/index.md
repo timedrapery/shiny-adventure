@@ -1,6 +1,6 @@
 # All Suttas
 
-All 45 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 46 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -52,6 +52,7 @@ All 45 translations, grouped by collection. If you would rather be guided, use [
 | SN 35.28 | [SN 35.28: Āditta Sutta](sn35-28-aditta-sutta.md) | 5 | The fire sermon. |
 | SN 36.6 | [One Arrow, Not Two](sn36-6-salla-sutta.md)<br><small>Salla Sutta</small> | 2 | The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. |
 | SN 46.51 | [SN 46.51: Āhāra Sutta](sn46-51-ahara-sutta.md) | 3 | What feeds the distractions that block practice, and what starves them. |
+| SN 48.10 | [The Five Faculties](sn48-10-dutiyavibhanga-sutta.md)<br><small>Dutiyavibhaṅga Sutta</small> | 5 | Five definitions, one per faculty, each written as something a person does rather than something they have. |
 | SN 51.13 | [SN 51.13: Chandasamādhi Sutta](sn51-13-chandasamadhi-sutta.md) | 5 | One short formula, stated four times, defining the four bases of power. |
 | SN 55.5 | [SN 55.5: Dutiyasāriputta Sutta](sn55-5-dutiyasariputta-sutta.md) | 2 | What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. |
 | SN 56.11 | [The First Teaching](sn56-11-dhammacakkappavattana-sutta.md)<br><small>Dhammacakkappavattana Sutta</small> | 2 | The first sermon: the four noble truths and the eightfold path stated directly. |
