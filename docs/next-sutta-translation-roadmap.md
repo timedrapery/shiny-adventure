@@ -10,11 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-<<<<<<< HEAD
-## Completed Surfaces (44 total)
-=======
 ## Completed Surfaces (45 total)
->>>>>>> 6083840 (feat(translation): add Iti 44, the two nibbana elements)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -61,11 +57,8 @@ Use that full roadmap as the source of truth for:
 ### Wave 7: Dark Clusters and Orphan Majors
 - `MN 43` Mahāvedalla Sutta (The Longer Analysis)
 - `SN 51.13` Chandasamādhi Sutta (The Four Bases of Power)
-<<<<<<< HEAD
-=======
 - `Iti 44` Nibbānadhātu Sutta (The Two Nibbāna Elements) — the repository's
   first Itivuttaka surface
->>>>>>> 6083840 (feat(translation): add Iti 44, the two nibbana elements)
 
 ### Outside the Wave Sequence
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
