@@ -58,7 +58,9 @@ python -m pip install -r requirements-dev.txt
 - 45 reader pages, one per surface, all generated. Every one carries a
   hand-written reader introduction; none is left on the generated default. The
   reader also publishes a downloadable EPUB.
-- 1,154 term records. `repo_health.py` reports no open backlog in any section.
+- 1,154 term records. `repo_health.py` reports no open backlog except the
+  slug/headword mismatch queue, which lists three records whose slug names a
+  different Pali phrase from the headword they document.
 - Register audit: 5 signals, all documented exceptions in the rollout plan.
   Both new surfaces report zero signals. The rollout plan still says 8; that
   figure counted notes files, which the audit no longer scans. Same three
