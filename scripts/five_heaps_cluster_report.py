@@ -46,7 +46,7 @@ COLLECTIVE_TERMS = [
 
 FORMULA_TERMS = [
     "pancime-bhikkhave-khandha",
-    "pancime-bhikkhave-upadanakkhandha",
+    "katame-ca-bhikkhave-pancupadanakkhandha",
     "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam",
     "katamo-ca-bhikkhave-sakkayo",
     "bharo-have-pancakkhandha",
@@ -117,7 +117,7 @@ def inconsistent_clung_to_heap_terms(terms: dict[str, dict[str, object]]) -> lis
     flagged: list[str] = []
     expected = {
         "pancupadanakkhandha": "five clung-to heaps",
-        "pancime-bhikkhave-upadanakkhandha": "and what, bhikkhus, are the five clung-to heaps",
+        "katame-ca-bhikkhave-pancupadanakkhandha": "and what, bhikkhus, are the five clung-to heaps",
         "katamo-ca-bhikkhave-sakkayo": "and what, bhikkhus, is identity, the five clung-to heaps",
         "imesam-pancannam-upadanakkhandhanam-assadanca-adinavanca-nissarananca": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
     }
