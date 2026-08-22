@@ -1,27 +1,33 @@
 {
-  "term": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
+  "term": "imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato",
   "normalized_term": "pancupadanakkhandhesu-assado-adinavo-nissaranam",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "literal_meaning": "the gratification, danger, and escape in the five clung-to heaps",
-  "preferred_translation": "the gratification, danger, and escape in the five clung-to heaps",
+  "literal_meaning": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
+  "preferred_translation": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
   "alternative_translations": [
-    "the allure, drawback, and escape regarding the five clung-to heaps"
+    "the gratification, danger, and escape in the five clung-to heaps",
+    "of these five clung-to heaps, the allure as allure, the drawback as drawback, and the escape as escape"
   ],
   "discouraged_translations": [
     "the pleasure, harm, and exit in the five aggregates of attachment"
   ],
-  "definition": "Canonical gratification-danger-escape formula applied to the five clung-to heaps.",
-  "notes": "Use this record when the text applies the assāda-ādīnava-nissaraṇa framework to the appropriated heaps. The phrase inherits the fixed whole-expression policy for pañcupādānakkhandhā and keeps the triad in one stable voice. Comparative alternates like allure and drawback are allowed in explanation, but the default should stay compact and governed in direct translation.",
+  "definition": "Canonical gratification-danger-escape formula as SN 22.26 states it over the five clung-to heaps together, with each member known as what it is.",
+  "notes": "Use this record when the text applies the assāda-ādīnava-nissaraṇa framework to the appropriated heaps as one unit. The phrase inherits the fixed whole-expression policy for pañcupādānakkhandhā and keeps the triad in one stable voice. The doubling — gratification known as gratification, danger as danger, escape as escape — is doctrinal rather than stylistic and should not be smoothed away in direct translation; the compact alternate is available for explanatory prose. Comparative alternates like allure and drawback are allowed in explanation, but the default should stay compact and governed in direct translation. Headword corrected 2026-08-22: this record formerly headed itself with `pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṁ ca`, a paraphrase occurring in no sutta — SN 22.26 uses the genitive `imesaṁ pañcannaṁ upādānakkhandhānaṁ` rather than a locative compound, and joins the members with the `-ñca … -ato` doubling rather than with `ca`. The slug is left unchanged, following `pancime-bhikkhave-upadanakkhandha`, whose headword was corrected the same way.",
   "context_rules": [
     {
       "context": "In direct doctrinal translation of the formula",
+      "rendering": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
+      "notes": "Use this by default, and keep the doubling."
+    },
+    {
+      "context": "In explanatory prose naming the triad without quoting the sentence",
       "rendering": "the gratification, danger, and escape in the five clung-to heaps",
-      "notes": "Use this by default."
+      "notes": "Use this as a controlled alternate for explanation, not as the rendering of the canonical sentence."
     },
     {
       "context": "In explanatory prose unpacking the triad with more familiar alternates",
-      "rendering": "the allure, drawback, and escape regarding the five clung-to heaps",
+      "rendering": "of these five clung-to heaps, the allure as allure, the drawback as drawback, and the escape as escape",
       "notes": "Use this as a controlled alternate for explanation, not the default."
     }
   ],
@@ -32,9 +38,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca",
-      "translation": "the gratification, danger, and escape in the five clung-to heaps",
-      "notes": "Shows the canonical application of the triad to the heap family. **Unresolved 2026-08-22.** SN 22.26 words the triad as `imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato`; the locative phrasing recorded here is a paraphrase that occurs in no sutta. Because it is this record's own headword, repairing it is a record rename rather than a citation edit, so it is flagged rather than forced. Same shape as pancime-bhikkhave-khandha.",
+      "pali": "imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato",
+      "translation": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
+      "notes": "Shows the canonical application of the triad to the heap family, in the wording SN 22.26 uses. The sutta puts the triad per heap as a question first — `ko nu kho rūpassa assādo, ko ādīnavo, kiṁ nissaraṇaṁ` — and this is its summary over all five.",
       "source": "SN 22.26"
     }
   ],
@@ -45,7 +51,7 @@
     "default_scope": "Use this as the standard wording when the gratification-danger-escape triad is applied as one unit to the five clung-to heaps.",
     "when_not_to_apply": "Do not use the allure-and-drawback alternates in direct doctrinal translation, and do not re-solve the three terms separately per heap while the triad is running as a single formula.",
     "compound_inheritance": "blocked",
-    "drift_risk": "Prevents the triad from being retranslated locally each time it appears, and keeps nissaraṇa as escape rather than drifting toward release or liberation."
+    "drift_risk": "Prevents the triad from being retranslated locally each time it appears, keeps nissaraṇa as escape rather than drifting toward release or liberation, and keeps the headword tied to wording the corpus actually uses."
   },
   "tags": [
     "aggregates",

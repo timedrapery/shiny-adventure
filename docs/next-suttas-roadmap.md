@@ -796,6 +796,35 @@ Five rows remain, and none of them is a repairable citation:
   headwords** -- coined formula records naming a phrase no sutta uses. Each is
   a record rename, not a citation fix, and each is flagged in its own record.
 
+### The five-heaps triad headword, corrected (2026-08-22)
+
+`pancupadanakkhandhesu-assado-adinavo-nissaranam` is done, leaving four rows.
+Its headword read `pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṁ ca`,
+which SN 22.26 misses on three counts at once: it uses the genitive `imesaṁ
+pañcannaṁ upādānakkhandhānaṁ` rather than a locative, it never compounds
+`pañca` onto `upādānakkhandha` in this sentence, and it joins the members with
+the `-ñca … -ato` doubling rather than with `ca`. The headword is now the full
+attested span, and the rendering carries the doubling it had been dropping:
+*of these five clung-to heaps, the gratification as gratification, the danger
+as danger, and the escape as escape.*
+
+**The record was renamed in place -- slug and filename unchanged.** That is not
+a shortcut; `validate_terms.py` ties `normalized_term` to the *filename stem*
+only, never to the headword text, and the repo already contains the precedent:
+`pancime-bhikkhave-upadanakkhandha` carries the attested headword `katame ca,
+bhikkhave, pañcupādānakkhandhā` under its original slug. Following it avoided
+touching `terms/major/nissarana.json`'s reciprocal link and the membership list
+in `crossing_release_interface_cluster_report.py`. **Whoever takes
+`pancime-bhikkhave-khandha` should use the same pattern.**
+
+Two things a rename here does touch, and both are easy to miss because the
+failure surfaces one at a time: `five_heaps_cluster_report.py` pins the
+expected `preferred_translation` per slug in `inconsistent_clung_to_heap_terms`,
+so it has to move with the record; and two generated docs go stale --
+`docs/generated/five-heaps-formula-sheet.md` (via
+`five_heaps_cluster_report.py --write`) and `docs/generated/minor-term-index.md`
+(via `term_directory_navigation.py --write`).
+
 **What the sweep was actually worth.** It began as a check on 296 soft
 verdicts and ended having found that roughly one in three was wrong, that the
 wrongness clustered in citations pointing at the wrong sutta entirely, that

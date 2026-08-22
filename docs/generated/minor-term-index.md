@@ -628,7 +628,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pancime-bhikkhave-khandha](../../terms/minor/pancime-bhikkhave-khandha.json) | pañcime, bhikkhave, khandhā | these, bhikkhus, are the five heaps | stable | aggregates, formula |
 | [pancime-bhikkhave-upadanakkhandha](../../terms/minor/pancime-bhikkhave-upadanakkhandha.json) | katame ca, bhikkhave, pañcupādānakkhandhā | and what, bhikkhus, are the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [pancupadanakkhandha](../../terms/minor/pancupadanakkhandha.json) | pañcupādānakkhandhā | five clung-to heaps | stable | aggregates, core-doctrine, translation-sensitive |
-| [pancupadanakkhandhesu-assado-adinavo-nissaranam](../../terms/minor/pancupadanakkhandhesu-assado-adinavo-nissaranam.json) | pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca | the gratification, danger, and escape in the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
+| [pancupadanakkhandhesu-assado-adinavo-nissaranam](../../terms/minor/pancupadanakkhandhesu-assado-adinavo-nissaranam.json) | imesaṁ pañcannaṁ upādānakkhandhānaṁ evaṁ assādañca assādato ādīnavañca ādīnavato nissaraṇañca nissaraṇato | of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape | stable | aggregates, formula, translation-sensitive |
 | [pandita](../../terms/minor/pandita.json) | paṇḍita | wise person | reviewed | persons, mental-qualities |
 | [panna-dhana](../../terms/minor/panna-dhana.json) | panna-dhana | wealth of discernment | reviewed | ethics, core-practice |
 | [pannabala](../../terms/minor/pannabala.json) | paññābala | discernment strength | reviewed | core-practice, mental-qualities |
