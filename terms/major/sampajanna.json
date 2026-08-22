@@ -42,18 +42,18 @@
     {
       "pali": "sampajānakārī hoti",
       "translation": "one acts with clear knowing",
-      "notes": "Common practical expression for the quality in use.",
-      "source": "DN 22"
+      "notes": "Common practical expression for the quality in use. MN 10 carries the same line as DN 22 and is a governed surface.",
+      "source": "MN 10"
     },
     {
-      "pali": "sati-sampajañña",
-      "translation": "sati and clear knowing",
-      "notes": "Shows the pair without collapsing the two terms into one.",
-      "source": "DN 22"
+      "pali": "ātāpī sampajāno satimā",
+      "translation": "ardent, with clear knowing, with remembering",
+      "notes": "Shows the pair without collapsing the two terms into one. The compound sati-sampajañña occurs in neither DN 22 nor MN 10; the satipaṭṭhāna refrain is where the two stand side by side.",
+      "source": "MN 10"
     }
   ],
   "sutta_references": [
-    "DN 22"
+    "MN 10"
   ],
   "tags": [
     "core-practice",

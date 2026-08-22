@@ -97,20 +97,21 @@
   ],
   "example_phrases": [
     {
-      "pali": "dhammānudhammapaṭipanna",
+      "pali": "dhammānudhammappaṭipatti",
       "translation": "practicing in line with the dhamma",
-      "notes": "Shows a source-facing example where untranslated dhamma remains the safest choice.",
-      "source": "DN 22"
+      "notes": "Shows a source-facing example where untranslated dhamma remains the safest choice. The fourth factor of stream-entry.",
+      "source": "SN 55.5"
     },
     {
       "pali": "dhammesu dhammānupassī viharati",
       "translation": "one remains observing dhammas among dhammas",
-      "notes": "Shows why the term often needs contextual handling rather than a single fixed English equivalent.",
-      "source": "DN 22"
+      "notes": "Shows why the term often needs contextual handling rather than a single fixed English equivalent. MN 10 carries the same line as DN 22 and is a governed surface.",
+      "source": "MN 10"
     }
   ],
   "sutta_references": [
-    "DN 22"
+    "MN 10",
+    "SN 55.5"
   ],
   "tags": [
     "core-doctrine",

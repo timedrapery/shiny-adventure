@@ -49,18 +49,18 @@
     {
       "pali": "kāye kāyānupassī viharati",
       "translation": "one remains observing the body in relation to the body",
-      "notes": "Shows the standard satipaṭṭhāna expression.",
-      "source": "DN 22"
+      "notes": "Shows the standard satipaṭṭhāna expression. MN 10 carries the same line as DN 22 and is a governed surface.",
+      "source": "MN 10"
     },
     {
-      "pali": "kāyagatā sati",
+      "pali": "kāyagatāsati",
       "translation": "sati directed to the body",
-      "notes": "Shows the term in one of the project's existing untranslated compounds.",
+      "notes": "Shows the term in one of the project's existing untranslated compounds. MN 119 spells it solid throughout; the citation formerly split it.",
       "source": "MN 119"
     }
   ],
   "sutta_references": [
-    "DN 22",
+    "MN 10",
     "MN 119"
   ],
   "tags": [
