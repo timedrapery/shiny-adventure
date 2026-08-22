@@ -7,6 +7,17 @@
   "definition": "A collective doctrinal framework grouping important factors of practice or experience.",
   "status": "reviewed",
   "literal_meaning": "five faculties",
+  "example_phrases": [
+    {
+      "pali": "imāni kho, bhikkhave, pañcindriyānī",
+      "translation": "these, bhikkhus, are the five faculties",
+      "notes": "SN 48.10 defines each faculty by name and closes each definition with this line.",
+      "source": "SN 48.10"
+    }
+  ],
+  "sutta_references": [
+    "SN 48.10"
+  ],
   "tags": [
     "core-doctrine",
     "core-practice"
