@@ -55,16 +55,20 @@ python -m pip install -r requirements-dev.txt
 - 45 governed translation surfaces. Waves 1 through 7 complete, plus MN 61,
   which was requested directly rather than drawn from a wave audit. Wave 7 was
   MN 43, SN 51.13, and Iti 44.
-- 45 reader pages, one per surface, all generated. Every one carries a
+- 46 reader pages, one per surface, all generated. Every one carries a
   hand-written reader introduction; none is left on the generated default. The
   reader also publishes a downloadable EPUB.
-- 1,154 term records. `repo_health.py` reports no open backlog except the
+- 1,153 term records. `repo_health.py` reports two open backlog queues: the
   slug/headword mismatch queue, which lists three records whose slug names a
-  different Pali phrase from the headword they document.
-- Register audit: 5 signals, all documented exceptions in the rollout plan.
-  Both new surfaces report zero signals. The rollout plan still says 8; that
-  figure counted notes files, which the audit no longer scans. Same three
-  exceptions either way.
+  different Pali phrase from the headword they document, and the governed
+  rendering drift queue, which lists 21 declarations — three documents that
+  declare two renderings for one headword, and eighteen that declare a
+  rendering their term record neither prefers, lists as an alternate, nor
+  governs through a context rule.
+- Register audit: 10 signals across 46 files — one clause person label, five
+  generic `one` as subject, four nominalization chains — concentrated in
+  MN 137 (5) and AN 10.60 (3). The rollout plan still says 8; that figure
+  counted notes files, which the audit no longer scans.
 - The four `upadana` compounds are harmonised on the headword default, and the
   `silabbata` stem renders as `habits and observances` throughout.
 - The threefold `sankhara` triad is harmonised on `conditioner`.

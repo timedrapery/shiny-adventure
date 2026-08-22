@@ -324,6 +324,120 @@ class RepoHealthTests(unittest.TestCase):
 
         self.assertEqual(report["slug_headword_mismatches"], [])
 
+    def test_declaration_regex_reads_both_house_shapes(self) -> None:
+        matches = repo_health.RENDERING_DECLARATION.findall(
+            "`pīti` is rendered `rejoicing`, and `sukha` → `satisfaction`."
+        )
+        self.assertEqual(
+            matches, [("pīti", "rejoicing"), ("sukha", "satisfaction")]
+        )
+
+    def test_canonical_rendering_folds_wrapping_case_and_final_stop(self) -> None:
+        # declarations are hard-wrapped at 79 columns, so the same phrase
+        # arrives with a newline inside it
+        self.assertEqual(
+            repo_health.canonical_rendering("clear\n  knowing."),
+            repo_health.canonical_rendering("Clear knowing"),
+        )
+
+    def test_flags_a_document_declaring_two_renderings_for_one_headword(self) -> None:
+        # the trace the piti delight -> rejoicing migration left behind while
+        # it sat half-finished
+        terms = {
+            "piti": {
+                "term": "pīti",
+                "normalized_term": "piti",
+                "entry_type": "major",
+                "preferred_translation": "rejoicing",
+                "alternative_translations": ["delight"],
+                "status": "reviewed",
+            }
+        }
+        declarations = {
+            "an10-60-giriminanda-sutta-notes.md": [
+                ("pīti", "rejoicing"),
+                ("pīti", "delight"),
+            ]
+        }
+
+        report = repo_health.build_report(terms, declarations)
+
+        self.assertEqual(
+            report["governed_rendering_drift"],
+            [
+                {
+                    "document": "an10-60-giriminanda-sutta-notes.md",
+                    "headword": "pīti",
+                    "kind": "self_contradiction",
+                    "declared": ["delight", "rejoicing"],
+                    "preferred": "rejoicing",
+                }
+            ],
+        )
+
+    def test_flags_a_declared_rendering_the_record_discourages(self) -> None:
+        terms = {
+            "sukha": {
+                "term": "sukha",
+                "normalized_term": "sukha",
+                "entry_type": "major",
+                "preferred_translation": "satisfaction",
+                "discouraged_translations": ["happiness"],
+                "status": "reviewed",
+            }
+        }
+        declarations = {"mn39-maha-assapura-sutta.md": [("sukha", "happiness")]}
+
+        report = repo_health.build_report(terms, declarations)
+        drift = report["governed_rendering_drift"]
+
+        self.assertEqual(len(drift), 1)
+        self.assertEqual(drift[0]["kind"], "discouraged")
+
+    def test_allows_alternates_and_context_rule_renderings(self) -> None:
+        terms = {
+            "piti": {
+                "term": "pīti",
+                "normalized_term": "piti",
+                "entry_type": "major",
+                "preferred_translation": "rejoicing",
+                "alternative_translations": ["delight"],
+                "context_rules": [
+                    {"context": "explanatory prose", "rendering": "joy"}
+                ],
+                "status": "reviewed",
+            }
+        }
+        declarations = {
+            "a.md": [("pīti", "rejoicing")],
+            "b.md": [("pīti", "delight")],
+            "c.md": [("pīti", "joy")],
+        }
+
+        report = repo_health.build_report(terms, declarations)
+
+        self.assertEqual(report["governed_rendering_drift"], [])
+
+    def test_json_output_is_ascii_safe(self) -> None:
+        # CI writes this report with `> repo-health.json`. On Windows a
+        # redirected stdout is cp1252, and dumping raw Pali diacritics there
+        # raises partway through the write, leaving truncated JSON with a
+        # traceback inside it.
+        report = {"headword": "aniccā sabbasaṅkhārā"}
+        encoded = json.dumps(report, ensure_ascii=True, indent=2)
+
+        encoded.encode("cp1252")  # must not raise
+        self.assertEqual(json.loads(encoded)["headword"], "aniccā sabbasaṅkhārā")
+
+    def test_skips_headwords_with_no_record_of_their_own(self) -> None:
+        # inflected forms and compounds are declared constantly and are not
+        # drift; there is nothing to compare them against
+        declarations = {"a.md": [("taṇhākkhayo", "the wearing away of wanting")]}
+
+        report = repo_health.build_report({}, declarations)
+
+        self.assertEqual(report["governed_rendering_drift"], [])
+
 
 if __name__ == "__main__":
     unittest.main()
