@@ -14,7 +14,7 @@
   is put together` (in the perception names and reflection formulas) and
   `bodily putting-together` / `mental putting-together` (in the ānāpānassati
   steps); `taṇhā` is rendered `ignorant wanting`; `sati` is rendered
-  `remembering`; `pīti` is rendered `delight`; and `citta` is rendered
+  `remembering`; `pīti` is rendered `rejoicing`; and `citta` is rendered
   `feeling mind`.
 - This edition treats AN 10.60 as the repository's control surface for the
   ten perception-contemplation formulas and for ānāpānassati as the closing

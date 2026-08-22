@@ -159,8 +159,8 @@ and relinquished, they think:
 'I am equipped with verified confidence in the Buddha.'
 
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
-connected with the Dhamma. When they are gladdened, delight arises. When the
-mind is delighted, the body grows calm. With the body calm, they feel ease.
+connected with the Dhamma. When they are gladdened, rejoicing arises. When the
+mind is rejoicing, the body grows calm. With the body calm, they feel ease.
 When they feel ease, the feeling mind becomes composed.
 
 "They think:
@@ -168,8 +168,8 @@ When they feel ease, the feeling mind becomes composed.
 'I am equipped with verified confidence in the Dhamma.'
 
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
-connected with the Dhamma. When they are gladdened, delight arises. When the
-mind is delighted, the body grows calm. With the body calm, they feel ease.
+connected with the Dhamma. When they are gladdened, rejoicing arises. When the
+mind is rejoicing, the body grows calm. With the body calm, they feel ease.
 When they feel ease, the feeling mind becomes composed.
 
 "They think:
@@ -177,8 +177,8 @@ When they feel ease, the feeling mind becomes composed.
 'I am equipped with verified confidence in the Saṅgha.'
 
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
-connected with the Dhamma. When they are gladdened, delight arises. When the
-mind is delighted, the body grows calm. With the body calm, they feel ease.
+connected with the Dhamma. When they are gladdened, rejoicing arises. When the
+mind is rejoicing, the body grows calm. With the body calm, they feel ease.
 When they feel ease, the feeling mind becomes composed.
 
 "They think:
@@ -187,8 +187,8 @@ When they feel ease, the feeling mind becomes composed.
 and relinquished.'
 
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
-connected with the Dhamma. When they are gladdened, delight arises. When the
-mind is delighted, the body grows calm. With the body calm, they feel ease.
+connected with the Dhamma. When they are gladdened, rejoicing arises. When the
+mind is rejoicing, the body grows calm. With the body calm, they feel ease.
 When they feel ease, the feeling mind becomes composed.
 
 ## No Obstacle

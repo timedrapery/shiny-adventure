@@ -391,7 +391,7 @@ every mixed feeling.
 
 Here, friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
-and pondering, with delight and ease born of seclusion.
+and pondering, with rejoicing and satisfaction born of seclusion.
 
 Through that, they abandon passion, and the underlying tendency toward passion
 does not lie there.

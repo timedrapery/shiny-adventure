@@ -626,27 +626,27 @@ regards that as:
 - a place of safety
 
 Seeing that the distractions have been abandoned, gladness arises. For someone
-who is glad, delight arises. When the mind is delighted, the body becomes calm.
-When the body is calm, they feel ease. Feeling ease, the mind becomes mentally
-composed.
+who is glad, rejoicing arises. When the mind is rejoicing, the body becomes
+calm. When the body is calm, they feel ease. Feeling ease, the mind becomes
+mentally composed.
 
 ## The First Mental Theme
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, a bhikkhu
-enters and remains in the first mental theme, with thinking and pondering,
-with delight and ease born of seclusion.
+enters and remains in the first mental theme, with thinking and pondering, with
+rejoicing and satisfaction born of seclusion.
 
-They drench, steep, fill, and suffuse this very body with delight and ease born
-of seclusion, so that no part of the whole body remains untouched by delight
-and ease born of seclusion.
+They drench, steep, fill, and suffuse this very body with rejoicing and
+satisfaction born of seclusion, so that no part of the whole body remains
+untouched by rejoicing and satisfaction born of seclusion.
 
 It is like a skilled bath attendant or apprentice who would pour bath powder
 into a bronze bowl and knead it, sprinkling it little by little with water,
 until the ball of bath powder was soaked and saturated inside and out, yet not
 dripping.
 
-In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very
-body with delight and ease born of seclusion.
+In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
+with rejoicing and satisfaction born of seclusion.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.
@@ -655,12 +655,12 @@ life, better and finer than the former ones.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, a bhikkhu enters and remains in the second mental theme,
-without thinking and pondering, with delight and ease born of mental
+without thinking and pondering, with rejoicing and satisfaction born of mental
 composure.
 
-They drench, steep, fill, and suffuse this very body with delight and ease born
-of mental composure, so that no part of the whole body remains untouched by
-delight and ease born of mental composure.
+They drench, steep, fill, and suffuse this very body with rejoicing and
+satisfaction born of mental composure, so that no part of the whole body
+remains untouched by rejoicing and satisfaction born of mental composure.
 
 It is like a deep lake fed by spring water, with no inlet from east, west,
 north, or south, and with the heavens not sending rain from time to time; yet
@@ -668,30 +668,30 @@ the stream of cool water welling up inside the lake drenches, steeps, fills,
 and suffuses it, so that no part of the whole lake remains untouched by cool
 water.
 
-In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very
-body with delight and ease born of mental composure.
+In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
+with rejoicing and satisfaction born of mental composure.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.
 
 ## The Third Mental Theme
 
-With the fading of delight, a bhikkhu remains in dynamic balance, remembering
+With the fading of rejoicing, a bhikkhu remains in dynamic balance, remembering
 and clearly knowing, and experiences ease in the body. They enter and remain in
 the third mental theme, of which the noble ones say: 'One of dynamic balance
 and remembering stays at ease.'
 
-They drench, steep, fill, and suffuse this very body with ease free from
-delight, so that no part of the whole body remains untouched by ease free from
-delight.
+They drench, steep, fill, and suffuse this very body with satisfaction free of
+rejoicing, so that no part of the whole body remains untouched by satisfaction
+free of rejoicing.
 
 It is like a pool of blue, red, or white lotuses. Some lotuses are born and
 grow in the water without rising above it, and from tip to root they are
 drenched, steeped, filled, and suffused by cool water, so that no part of
 them remains untouched by cool water.
 
-In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very
-body with ease free from delight.
+In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
+with satisfaction free of rejoicing.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.

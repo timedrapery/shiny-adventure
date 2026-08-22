@@ -159,14 +159,14 @@ well-composed and direct.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, I entered
 and remained in the first mental theme, with thinking and pondering, with
-delight and ease born of seclusion.
+rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, I entered and remained in the second mental
-theme, without thinking and pondering, with delight and ease born of mental
+unification of mind, I entered and remained in the second mental theme, without
+thinking and pondering, with rejoicing and satisfaction born of mental
 composure.
 
-With the fading of delight, I remained in dynamic balance, remembering and
+With the fading of rejoicing, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
 the third mental theme, of which the noble ones say: 'One of dynamic balance
 and remembering stays at ease.'

@@ -270,10 +270,10 @@ person.
 five lower fetters?
 
 Here, Ānanda, with seclusion from supports, with the abandoning of unwholesome
-dhammas, and with the complete calming of bodily heaviness, quite secluded
-from sensuality, secluded from unwholesome dhammas, a bhikkhu enters and
-remains in the first mental theme, with thinking and pondering, with delight
-and ease born of seclusion.
+dhammas, and with the complete calming of bodily heaviness, quite secluded from
+sensuality, secluded from unwholesome dhammas, a bhikkhu enters and remains in
+the first mental theme, with thinking and pondering, with rejoicing and
+satisfaction born of seclusion.
 
 Whatever is there connected with form, felt experience, recognition, putting
 things together, and knowing: that bhikkhu observes those dhammas as

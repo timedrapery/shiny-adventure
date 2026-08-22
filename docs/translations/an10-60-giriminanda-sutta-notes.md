@@ -71,7 +71,7 @@ have sufficient lexicon coverage:
 - `saṅkhāra` → `what is put together` (major)
 - `taṇhā` → `ignorant wanting` (major)
 - `sati` → `remembering` (major)
-- `pīti` → `delight` (major)
+- `pīti` → `rejoicing` (major)
 - `citta` → `feeling mind` (major)
 - `mano` → `thinking mind` (major)
 - `vedanā` → `felt experience` (major) — in the five-heaps reflection

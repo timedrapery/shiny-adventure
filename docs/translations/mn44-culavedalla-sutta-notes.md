@@ -93,7 +93,8 @@ source-audit calls, and edition notes that govern it.
   `emptiness contact`, `signless contact`, and `wishless contact` so the
   release-side contemplative family stays compact and governed.
 - The first and fourth mental-theme passages stay aligned with MN 19: thinking
-  and pondering, delight and ease born of seclusion, and purity of remembering
+  and pondering, rejoicing and satisfaction born of seclusion, and purity of
+  remembering
   through dynamic balance are retained rather than converted to concentration
   or absorption language.
 - `anuttaresu vimokkhesu pihaṁ upaṭṭhāpayato` is rendered with `longing for
