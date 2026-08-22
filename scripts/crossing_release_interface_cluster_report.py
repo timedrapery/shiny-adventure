@@ -37,7 +37,7 @@ SUPPORTING_TERMS = [
 ]
 
 FORMULA_TERMS = [
-    "pancupadanakkhandhesu-assado-adinavo-nissaranam",
+    "imesam-pancannam-upadanakkhandhanam-assadanca-adinavanca-nissarananca",
     "ogham-atari",
     "tinno-parangato",
 ]
