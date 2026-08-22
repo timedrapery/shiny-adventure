@@ -36,16 +36,16 @@
   ],
   "example_phrases": [
     {
-      "pali": "saḷāyatanasamudayā phassasamudayo",
-      "translation": "from the origin of the six sense fields comes the origin of contact",
-      "notes": "Formulaic dependent-origination style usage.",
-      "source": "SN 12.43"
+      "pali": "phassasamudayā vedanāsamudayo",
+      "translation": "from the origin of contact comes the origin of felt experience",
+      "notes": "Formulaic dependent-origination style usage. SN 12.43 states the chain in paccayā form and never uses the -samudaya compounds.",
+      "source": "MN 9"
     },
     {
       "pali": "phassasamudaya",
       "translation": "origin of contact",
       "notes": "Compact doctrinal headword use.",
-      "source": "SN 12.43"
+      "source": "MN 9"
     },
     {
       "pali": "Phassasamudayā vedanāsamudayo",
@@ -56,7 +56,6 @@
   ],
   "sutta_references": [
     "MN 9",
-    "SN 12.43",
     "SN 35.93"
   ],
   "tags": [

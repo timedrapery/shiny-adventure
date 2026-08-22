@@ -707,6 +707,49 @@ than applied, because changing the screen mid-sweep reclassifies every band.
 Whatever the count says, a citation is only wrong once someone has read the
 segment.
 
+**Band B cleared (2026-08-21).** 25 citations repaired, band B 27 -> 2.
+Suspects 59 -> 33, `ok` 511 -> 540, `inconclusive` 106 -> 84, orphan majors
+24 -> 23.
+
+Band B did not have the shape the previous round recorded for it. That round
+called band B "mostly compound-forms the text does not spell as one word,"
+with the sutta right and the fix a re-quote. Across the remaining 27 the
+dominant failure was heavier than that: **eleven cited a sutta containing no
+form of the headword at all.** `viraga` cited an MN 149 with no virāga,
+`patigha` an SN 35.232 with no paṭigha, `sotapanna` an SN 55.1 with no
+sotāpanna, `parinna` an MN 9 with no pariññā, `panna` and `adhipanna` an
+SN 12.23 with no paññā, `arahant` an MN 2 with no arahant in either of its
+two citations. Those are not re-quotes; each needed a different sutta, and
+in nine cases a governed surface was available and took it.
+
+**Four wrong citations were holding up claims in `notes` and
+`authority_basis`, which is the part worth remembering.** A citation is not
+inert: the editorial prose cites it back. `samma-samadhi` stated that
+"MN 117 ... defines the factor through the four jhānas" -- MN 117 contains no
+jhāna in any form and defines the factor by its supports and equipment. The
+repository's doctrinal position is right and the attribution was wrong: MN 141
+does define sammā samādhi through the fourfold sequence, and is a governed
+surface, so the claim moved there and MN 117's actual framing is now stated as
+its own thing. `nivarana`, `pahana`, `mana` and `raga` needed the same kind of
+correction on a smaller scale. **After repairing a citation, grep the record's
+own `notes` for the phrase you just removed.** `lint_terms.py` catches this
+only when the `authority_basis` source name changes, not when the claim
+quietly stops being true.
+
+Two are flagged rather than forced, and both need a decision this pass cannot
+make:
+
+- `vipassana-nana` <- SN 12.23. `vipassanāñāṇa` appears in no governed
+  surface's body text. Its one occurrence anywhere in the cache is a DN 2
+  section heading, which is editorial apparatus rather than running text.
+  Citing a heading would be worse than leaving it uncited.
+- `pancime-bhikkhave-khandha` <- SN 22.48. The record's **headword itself** is
+  unattested: SN 22.48 reads `ime vuccanti, bhikkhave, pañcakkhandhā`, and the
+  nearest real `pañcime` phrase is SN 22.89's `pañcime, āvuso,
+  upādānakkhandhā`. No correct citation exists for the phrase as recorded, so
+  this is a record rename -- identity fields, filename, and the reciprocal
+  links in `khandha` and `pancakkhandha` -- not a citation fix.
+
 ### 2. Repair DN 22 rather than translating it
 
 `DN 22` topped the ranking on three orphan majors — `dhamma`, `kaya`,

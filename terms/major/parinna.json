@@ -52,15 +52,14 @@
       "source": "SN 56.11"
     },
     {
-      "pali": "pariññā",
-      "translation": "full understanding",
-      "notes": "Headword form for the completed-understanding family.",
-      "source": "MN 9"
+      "pali": "taṁ kho panidaṁ dukkhaṁ ariyasaccaṁ pariññātan",
+      "translation": "this noble truth of dissatisfaction has been fully understood",
+      "notes": "Shows the family in its completed sense. MN 9, formerly cited, contains no pariññā in any form.",
+      "source": "SN 56.11"
     }
   ],
   "sutta_references": [
-    "SN 56.11",
-    "MN 9"
+    "SN 56.11"
   ],
   "tags": [
     "core-doctrine",

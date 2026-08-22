@@ -65,10 +65,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "paññāya passati",
-      "translation": "one sees with discernment",
-      "notes": "Shows paññā as an active seeing-capacity rather than a static title of wisdom.",
-      "source": "SN 12.23"
+      "pali": "‘pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccati",
+      "translation": "'one discerns, one discerns', friend -- that is why one is called discerning",
+      "notes": "Shows paññā as an active seeing-capacity rather than a static title of wisdom. SN 12.23, formerly cited, contains no paññā in any form.",
+      "source": "MN 43"
     },
     {
       "pali": "paññāvimutti",
@@ -78,7 +78,7 @@
     }
   ],
   "sutta_references": [
-    "SN 12.23",
+    "MN 43",
     "MN 70"
   ],
   "tags": [

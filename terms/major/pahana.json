@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Abandoning or putting away an unwholesome factor in practice or doctrinal analysis.",
-  "notes": "The project keeps abandoning as the default because it is plain, operational English for the task of putting away what is unwholesome. Giving up and putting away remain controlled alternates for local prose flow. In this repository, pahāna is a process-facing task term. It is broader than temporary suppression, but it does not by itself mean fading, quenching, relinquishment, or final exhaustion. That means pahāna must stay distinct from virāga, vossagga, nirodha, and khaya rather than collapsing into one vague liberation word. It also differs from pariyuṭṭhāna: pariyuṭṭhāna names active manifestation, while pahāna names the abandoning of such factors. The same task-language extends by default into compounds such as pahāna-saññā unless a narrower compound record documents an override. The OSF glossary supports keeping task-language explicit, and MN 118 supports the term's practical role in abandoning distractions.",
+  "notes": "The project keeps abandoning as the default because it is plain, operational English for the task of putting away what is unwholesome. Giving up and putting away remain controlled alternates for local prose flow. In this repository, pahāna is a process-facing task term. It is broader than temporary suppression, but it does not by itself mean fading, quenching, relinquishment, or final exhaustion. That means pahāna must stay distinct from virāga, vossagga, nirodha, and khaya rather than collapsing into one vague liberation word. It also differs from pariyuṭṭhāna: pariyuṭṭhāna names active manifestation, while pahāna names the abandoning of such factors. The same task-language extends by default into compounds such as pahāna-saññā unless a narrower compound record documents an override. The OSF glossary supports keeping task-language explicit, and MN 118 supports the term's practical role in abandoning coveting and distress.",
   "context_rules": [
     {
       "context": "In most practice and doctrinal contexts",
@@ -48,9 +48,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "nīvaraṇānaṃ pahānāya",
-      "translation": "for the abandoning of the distractions",
-      "notes": "Practical removal language in meditative-development contexts.",
+      "pali": "abhijjhādomanassānaṁ pahānaṁ",
+      "translation": "the abandoning of coveting and distress",
+      "notes": "Practical removal language in meditative-development contexts. MN 118 contains no nīvaraṇa, which the citation formerly claimed.",
       "source": "MN 118"
     },
     {
@@ -80,7 +80,7 @@
     {
       "source": "MN 118",
       "kind": "context-rule",
-      "scope": "Supports the term's practical role in abandoning distractions."
+      "scope": "Supports the term's practical role in abandoning coveting and distress."
     }
   ],
   "translation_policy": {

@@ -53,10 +53,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "cattāri ariyasaccāni",
-      "translation": "the four noble truths",
-      "notes": "Shows the core doctrinal formulation.",
-      "source": "SN 56.11"
+      "pali": "catunnaṁ ariyasaccānaṁ",
+      "translation": "of the four noble truths",
+      "notes": "Shows the collective form. SN 56.11 states each truth singly and never uses the collective, so this is cited from MN 141, which does.",
+      "source": "MN 141"
     },
     {
       "pali": "dukkhaṃ ariyasaccaṃ",
@@ -66,6 +66,7 @@
     }
   ],
   "sutta_references": [
+    "MN 141",
     "SN 56.11"
   ],
   "tags": [

@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Conceit, especially the measuring movement of comparing oneself with others or with imagined standards.",
-  "notes": "The project keeps conceit as the default because it is the clearest concise doctrinal rendering and remains broader than ordinary pride. Measuring is the key explanatory alternate when the comparative function of māna needs to be made explicit rather than merely named, and comparative conceit is useful when English needs both the technical label and the functional explanation. The term should not be flattened into simple arrogance, because māna includes being better than, worse than, or equal to others; the problem is the measuring movement itself. It also needs to stay distinct from diṭṭhi, which concerns held views, and from asmimāna, which is the residual conceit 'I am' rather than the whole measuring family. The OSF glossary emphasizes comparison and hierarchy in explaining māna, and SN 22.89 supports the close relation between māna, mānānusaya, and asmimāna.",
+  "notes": "The project keeps conceit as the default because it is the clearest concise doctrinal rendering and remains broader than ordinary pride. Measuring is the key explanatory alternate when the comparative function of māna needs to be made explicit rather than merely named, and comparative conceit is useful when English needs both the technical label and the functional explanation. The term should not be flattened into simple arrogance, because māna includes being better than, worse than, or equal to others; the problem is the measuring movement itself. It also needs to stay distinct from diṭṭhi, which concerns held views, and from asmimāna, which is the residual conceit 'I am' rather than the whole measuring family. The OSF glossary emphasizes comparison and hierarchy in explaining māna, and SN 22.89 supports the close relation between māna, asmimāna, and the latent-tendency language it stands beside.",
   "context_rules": [
     {
       "context": "In most doctrinal and source-facing contexts",
@@ -55,9 +55,9 @@
       "source": "SN 22.89"
     },
     {
-      "pali": "mānānusaya",
-      "translation": "the underlying tendency toward conceit",
-      "notes": "Shows the bridge to latent-tendency language.",
+      "pali": "asmīti māno, asmīti chando, asmīti anusayo",
+      "translation": "the conceit 'I am', the desire 'I am', the underlying tendency 'I am'",
+      "notes": "Shows the bridge to latent-tendency language. SN 22.89 sets the three side by side and never uses the compound mānānusaya.",
       "source": "SN 22.89"
     }
   ],
@@ -81,7 +81,7 @@
     {
       "source": "SN 22.89",
       "kind": "context-rule",
-      "scope": "Supports the close relation between māna, asmimāna, and mānānusaya."
+      "scope": "Supports the close relation between māna, asmimāna, and the latent-tendency language it stands beside."
     }
   ],
   "translation_policy": {

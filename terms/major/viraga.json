@@ -57,15 +57,15 @@
       "source": "SN 12.2"
     },
     {
-      "pali": "virāgaṃ vimuccati",
-      "translation": "through fading one is released",
-      "notes": "Shows virāga in close connection with release while retaining its own process-language.",
-      "source": "MN 149"
+      "pali": "virāgūpanisā vimutti",
+      "translation": "release has the fading of desire as its proximate cause",
+      "notes": "Shows virāga in close connection with release while retaining its own process-language. MN 149, formerly cited, contains no virāga in any form.",
+      "source": "SN 12.23"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "MN 149"
+    "SN 12.23"
   ],
   "tags": [
     "core-doctrine",

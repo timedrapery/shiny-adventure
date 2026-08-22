@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An actively obstructive state that covers over clarity and interferes with collected practice.",
-  "notes": "The project keeps distraction as the default because it preserves the practical, active function of this family: these states pull the mind off course, cover over clarity, and block collected development. Hindrance remains a controlled alternate for continuity with familiar Buddhist-English, and obstruction remains available when the covering function needs emphasis. Nīvaraṇa should stay distinct from anusaya, which can remain latent even when nothing obvious is surfacing; from saṃyojana, which binds one to continued becoming; from āsava, which names deeper corruptive outflows; and from kilesa, which is the broader defilement family. In practice-facing prose, wholesome dhammas may counter or displace distractions, but translators should not treat that as identical to uprooting underlying tendencies or ending fetters and outflows. The same policy extends by default into the fixed collective compound pañca-nīvaraṇā unless a narrower formula record documents an override. The OSF glossary supports keeping distraction as the house default, and MN 118 supports the practical abandoning-of-distractions framing inside ānāpānasati.",
+  "notes": "The project keeps distraction as the default because it preserves the practical, active function of this family: these states pull the mind off course, cover over clarity, and block collected development. Hindrance remains a controlled alternate for continuity with familiar Buddhist-English, and obstruction remains available when the covering function needs emphasis. Nīvaraṇa should stay distinct from anusaya, which can remain latent even when nothing obvious is surfacing; from saṃyojana, which binds one to continued becoming; from āsava, which names deeper corruptive outflows; and from kilesa, which is the broader defilement family. In practice-facing prose, wholesome dhammas may counter or displace distractions, but translators should not treat that as identical to uprooting underlying tendencies or ending fetters and outflows. The same policy extends by default into the fixed collective compound pañca-nīvaraṇā unless a narrower formula record documents an override. The OSF glossary supports keeping distraction as the house default, and SN 46.51 supports the pairing of the five distractions with the seven awakening factors.",
   "context_rules": [
     {
       "context": "In most practical and meditative-development contexts",
@@ -80,15 +80,14 @@
       "source": "DN 2"
     },
     {
-      "pali": "nīvaraṇānaṃ pahānāya",
-      "translation": "for the abandoning of the distractions",
-      "notes": "Shows the family as a practical training target in ānāpānasati and awakening-factor contexts.",
-      "source": "MN 118"
+      "pali": "pañcannañca, bhikkhave, nīvaraṇānaṁ sattannañca bojjhaṅgānaṁ",
+      "translation": "of the five distractions, bhikkhus, and of the seven awakening factors",
+      "notes": "Shows the family paired with the awakening factors, its usual doctrinal partner. MN 118, formerly cited, contains no nīvaraṇa in any form.",
+      "source": "SN 46.51"
     }
   ],
   "sutta_references": [
     "DN 2",
-    "MN 118",
     "SN 46.51"
   ],
   "tags": [
@@ -106,9 +105,9 @@
       "scope": "Supports keeping distraction as the house default for the fivefold practice framework, with hindrance and obstruction retained as controlled alternates."
     },
     {
-      "source": "MN 118",
+      "source": "SN 46.51",
       "kind": "context-rule",
-      "scope": "Supports the practical abandonment framing inside ānāpānasati."
+      "scope": "Supports the pairing of the five distractions with the seven awakening factors."
     }
   ],
   "translation_policy": {

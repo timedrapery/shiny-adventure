@@ -51,10 +51,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "mettābhāvanā",
-      "translation": "development of friendliness",
-      "notes": "Shows productive compounding use.",
-      "source": "AN 4.41"
+      "pali": "catunnaṁ satipaṭṭhānānaṁ bhāvanānuyogamanuyuttā viharanti",
+      "translation": "they dwell devoted to the development of the four establishments of sati",
+      "notes": "Shows productive compounding use. AN 4.41 is the Samādhibhāvanā Sutta and contains no mettābhāvanā; MN 118 is a governed surface that carries the term.",
+      "source": "MN 118"
     },
     {
       "pali": "bhāvanā bahulīkatā",
@@ -64,7 +64,8 @@
     }
   ],
   "sutta_references": [
-    "AN 4.41"
+    "AN 4.41",
+    "MN 118"
   ],
   "tags": [
     "core-practice",
