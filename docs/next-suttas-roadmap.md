@@ -808,22 +808,38 @@ attested span, and the rendering carries the doubling it had been dropping:
 *of these five clung-to heaps, the gratification as gratification, the danger
 as danger, and the escape as escape.*
 
-**The record was renamed in place -- slug and filename unchanged.** That is not
-a shortcut; `validate_terms.py` ties `normalized_term` to the *filename stem*
-only, never to the headword text, and the repo already contains the precedent:
-`pancime-bhikkhave-upadanakkhandha` carries the attested headword `katame ca,
-bhikkhave, pañcupādānakkhandhā` under its original slug. Following it avoided
-touching `terms/major/nissarana.json`'s reciprocal link and the membership list
-in `crossing_release_interface_cluster_report.py`. **Whoever takes
-`pancime-bhikkhave-khandha` should use the same pattern.**
+**The slug follows the headword, so the file was renamed too** --
+`imesam-pancannam-upadanakkhandhanam-assadanca-adinavanca-nissarananca`.
 
-Two things a rename here does touch, and both are easy to miss because the
-failure surfaces one at a time: `five_heaps_cluster_report.py` pins the
-expected `preferred_translation` per slug in `inconsistent_clung_to_heap_terms`,
-so it has to move with the record; and two generated docs go stale --
-`docs/generated/five-heaps-formula-sheet.md` (via
-`five_heaps_cluster_report.py --write`) and `docs/generated/minor-term-index.md`
-(via `term_directory_navigation.py --write`).
+This was got wrong on the first pass and is worth recording as a trap rather
+than a footnote. `validate_terms.py` ties `normalized_term` to the *filename
+stem* only, never to the headword text, so a record whose slug names a
+different phrase than its headword passes every gate in the repo. That makes it
+tempting to change `term` and leave the slug alone, and
+`pancime-bhikkhave-upadanakkhandha` looked like a standing precedent for doing
+exactly that -- attested headword `katame ca, bhikkhave, pañcupādānakkhandhā`
+under a `pancime-` slug. **It was not a precedent; it was the same bug,
+undetected.** The data dictionary defines `normalized_term` as "an ASCII-safe
+normalized version of the headword", so the slug derives from `term` and never
+the reverse.
+
+Length is not a reason to avoid the rename either. The longest slug in the
+corpus is already 89 characters
+(`vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati`),
+a full transliteration of an equally long attested phrase, `-ñca` endings and
+all. **Whoever takes `pancime-bhikkhave-khandha` should rename the file, not
+just repoint the headword.**
+
+Four things a rename here touches, each surfacing only once the previous is
+fixed: `five_heaps_cluster_report.py` pins the expected `preferred_translation`
+per slug in `inconsistent_clung_to_heap_terms` *and* lists the slug in
+`FORMULA_TERMS`; `crossing_release_interface_cluster_report.py` lists it in its
+own `FORMULA_TERMS`; `terms/major/nissarana.json` carries a reciprocal
+`related_terms` link, which must be re-sorted after substitution because the
+list is kept alphabetical and nothing enforces it; and three generated docs go
+stale, via `five_heaps_cluster_report.py --write`,
+`crossing_release_interface_cluster_report.py --write`, and
+`term_directory_navigation.py --write`.
 
 **What the sweep was actually worth.** It began as a check on 296 soft
 verdicts and ended having found that roughly one in three was wrong, that the
