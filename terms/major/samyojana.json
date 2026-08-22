@@ -76,10 +76,10 @@
       "source": "MN 64"
     },
     {
-      "pali": "uddhambhāgiyāni saṃyojanāni",
-      "translation": "the higher fetters",
-      "notes": "Shows the complementary upper sub-classification used in awakening-stage analysis.",
-      "source": "MN 64"
+      "pali": "pañcuddhambhāgiyāni saṁyojanāni",
+      "translation": "the five higher fetters",
+      "notes": "Shows the complementary upper sub-classification used in awakening-stage analysis. MN 64 discusses only the orambhāgiya set and contains no uddhambhāgiya; AN 10.13 lists both.",
+      "source": "AN 10.13"
     }
   ],
   "sutta_references": [
@@ -104,7 +104,7 @@
     {
       "source": "MN 64",
       "kind": "context-rule",
-      "scope": "Supports the standard lower-fetter and higher-fetter classifications."
+      "scope": "Supports the standard lower-fetter classification."
     }
   ],
   "translation_policy": {

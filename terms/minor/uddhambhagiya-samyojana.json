@@ -12,14 +12,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "uddhambhāgiyāni saṃyojanāni",
-      "translation": "the higher fetters",
-      "notes": "Shows the standard subclassification in fetter analysis.",
-      "source": "MN 64"
+      "pali": "pañcuddhambhāgiyāni saṁyojanāni",
+      "translation": "the five higher fetters",
+      "notes": "Shows the standard subclassification in fetter analysis. MN 64, formerly cited, contains no uddhambhāgiya in any form.",
+      "source": "AN 10.13"
     }
   ],
   "sutta_references": [
-    "MN 64"
+    "AN 10.13"
   ],
   "tags": [
     "core-doctrine",

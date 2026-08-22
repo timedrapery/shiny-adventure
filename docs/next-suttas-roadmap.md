@@ -750,6 +750,60 @@ make:
   this is a record rename -- identity fields, filename, and the reciprocal
   links in `khandha` and `pancakkhandha` -- not a citation fix.
 
+### The sweep is finished (2026-08-22)
+
+Bands A and C worked in one pass. **Suspects 33 -> 5, band A 1 -> 0, band C
+31 -> 3.** `ok` 540 -> 568, `inconclusive` 84 -> 60, orphan majors 23 -> 22.
+Across the whole sweep, from the day it opened: **suspects 98 -> 5, `ok`
+470 -> 568, `inconclusive` 147 -> 60.**
+
+Band C was supposed to be the false-positive band -- "likely compound," the
+screen's own label. It was not. Of its 31 rows, 26 were genuinely wrong, and
+the same wrong-sutta failure that dominated band B ran straight through it:
+`ekaggata` cited a DN 2 with no `ekaggatā`, `samadhi` an MN 44 with no
+`samāhita`, `papa` an AN 6.63 with no `pāpa`, `asekha` an MN 53 -- the *Sekha*
+Sutta -- with no `asekha` at all, twice. **The `cover` figure sorts rows by
+how much of the missing word the sutta explains, and that turns out to
+correlate with nothing.** A wrong citation whose word happens to share letters
+with something present scores exactly like a right one. Band C should not be
+trusted as a triage tier in future sweeps; it only ever measured spelling
+overlap.
+
+Band A's one outstanding row is resolved. `nissarana-dhatu`'s note asked
+whoever came next to "fetch that sutta and repair this properly" -- DN 33 was
+already in the cache, listing `cha nissaraṇiyā dhātuyo`.
+
+**Three records traded a wrong citation on a governed surface for a correct
+one on an ungoverned surface** -- `kama-dhatu` and `nissarana-dhatu` to DN 33,
+`uddhambhagiya-samyojana` to AN 10.13. They became orphans by doing so, which
+is why orphan minors rose while orphan majors fell. That is the right trade:
+the audit measures whether a governed surface demonstrates a term, and a
+citation that points at a sutta not containing the word never demonstrated
+anything. `papa` went the other way, to a governed AN 3.65.
+
+Five rows remain, and none of them is a repairable citation:
+
+- `bhava-nirodha` and `jati-nirodha` <- SN 12.2 are **correct**. SN 12.2
+  spells its arising chain in full and elides the cessation chain
+  (`saṅkhāranirodhā viññāṇanirodho …pe…`), so both quoted lines belong to a
+  passage the root text abbreviates. This is precisely the case `inconclusive`
+  exists for, and they should stay.
+- `vipassana-nana` cannot be cited from anywhere. The compound occurs in no
+  governed surface's body text and its only occurrence in the cache is a DN 2
+  section heading. Documented in the record itself rather than moved.
+- `pancime-bhikkhave-khandha` and
+  `pancupadanakkhandhesu-assado-adinavo-nissaranam` both have **unattested
+  headwords** -- coined formula records naming a phrase no sutta uses. Each is
+  a record rename, not a citation fix, and each is flagged in its own record.
+
+**What the sweep was actually worth.** It began as a check on 296 soft
+verdicts and ended having found that roughly one in three was wrong, that the
+wrongness clustered in citations pointing at the wrong sutta entirely, that
+four wrong citations were propping up false claims in editorial `notes`, and
+that two records are named after phrases that do not exist. None of that was
+visible from `Every verifiable citation checks out`, which the verifier
+printed the whole time.
+
 ### 2. Repair DN 22 rather than translating it
 
 `DN 22` topped the ranking on three orphan majors — `dhamma`, `kaya`,

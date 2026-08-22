@@ -36,15 +36,15 @@
   ],
   "example_phrases": [
     {
-      "pali": "aṭṭha purisapuggalā",
-      "translation": "the eight kinds of noble persons",
-      "notes": "Core classification associated with the noble saṅgha.",
+      "pali": "aṭṭhime, bhikkhave, puggalā āhuneyyā pāhuneyyā dakkhiṇeyyā",
+      "translation": "these eight persons, bhikkhus, are worthy of offerings, of hospitality, of gifts",
+      "notes": "Core classification associated with the noble saṅgha. AN 8.59 counts eight puggalā; the purisapuggalā form belongs to the saṅgha recollection, not to this sutta.",
       "source": "AN 8.59"
     },
     {
-      "pali": "ariyapuggala",
-      "translation": "noble person",
-      "notes": "Shows a compact doctrinal headword form.",
+      "pali": "ime kho, bhikkhave, aṭṭha puggalā",
+      "translation": "these, bhikkhus, are the eight persons",
+      "notes": "Shows the closing collective. The compound ariyapuggala itself does not occur in AN 8.59.",
       "source": "AN 8.59"
     }
   ],

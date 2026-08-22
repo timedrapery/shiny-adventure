@@ -12,14 +12,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "kāmadhātu",
-      "translation": "the sensuality element",
-      "notes": "Keeps the domain-language tied to kāma rather than to generic pleasure.",
-      "source": "MN 137"
+      "pali": "kāmadhātu, byāpādadhātu, vihiṁsādhātu",
+      "translation": "the sensuality element, the ill-will element, the cruelty element",
+      "notes": "Keeps the domain-language tied to kāma rather than to generic pleasure, and shows it in the three-element set it belongs to. MN 137, formerly cited, contains no dhātu in any form.",
+      "source": "DN 33"
     }
   ],
   "sutta_references": [
-    "MN 137"
+    "DN 33"
   ],
   "tags": [
     "core-doctrine",

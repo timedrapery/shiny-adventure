@@ -56,10 +56,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "rūpakkhandho",
-      "translation": "the form heap",
-      "notes": "Heap usage.",
-      "source": "SN 22.56"
+      "pali": "ayaṁ vuccati rūpakkhandho",
+      "translation": "this is called the form heap",
+      "notes": "Heap usage. SN 22.56, formerly cited, spells only rūpupādānakkhandho; SN 22.48 carries the plain heap.",
+      "source": "SN 22.48"
     },
     {
       "pali": "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ",
@@ -75,7 +75,7 @@
     }
   ],
   "sutta_references": [
-    "SN 22.56",
+    "SN 22.48",
     "SN 22.59",
     "MN 148"
   ],

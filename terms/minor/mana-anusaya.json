@@ -14,14 +14,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "mānānusayo",
-      "translation": "the underlying tendency toward conceit",
-      "notes": "Bridge between the residue family and the identity-construction cluster.",
-      "source": "SN 22.89"
+      "pali": "esevanto mānānusayānaṁ",
+      "translation": "just this is the end of the underlying tendencies to conceit",
+      "notes": "Bridge between the residue family and the identity-construction cluster. SN 22.89, formerly cited, states the three side by side without the compound; MN 18 is the governed surface that uses it.",
+      "source": "MN 18"
     }
   ],
   "sutta_references": [
-    "SN 22.89"
+    "MN 18"
   ],
   "tags": [
     "core-doctrine",
