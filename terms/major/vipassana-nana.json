@@ -43,7 +43,7 @@
     {
       "pali": "vipassanāñāṇa",
       "translation": "insight knowledge",
-      "notes": "Headword form in meditative explanation.",
+      "notes": "Headword form in meditative explanation. **Unresolved 2026-08-22.** SN 12.23 contains no vipassanā in any form, so this citation is wrong. It is left in place rather than moved because the compound occurs in no governed surface's body text: its only occurrence anywhere in the cache is a DN 2 section heading, which is editorial apparatus rather than the discourse. Citing a heading would trade a wrong citation for a misleading one. Repair this by governing a surface that uses the term in running text, or by deciding the record should stand on its cluster policy without a running-text example.",
       "source": "SN 12.23"
     }
   ],

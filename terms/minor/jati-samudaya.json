@@ -11,10 +11,10 @@
   "literal_meaning": "origin of birth",
   "example_phrases": [
     {
-      "pali": "jātisamudaya",
-      "translation": "origin of birth",
-      "notes": "Compact origin-side compound in the dependent-arising family.",
-      "source": "SN 12.43"
+      "pali": "jātisamudayā jarāmaraṇasamudayo",
+      "translation": "from the origin of birth comes the origin of ageing-and-death",
+      "notes": "Compact origin-side compound in the dependent-arising family. SN 12.43, formerly cited, contains no jāti in any form.",
+      "source": "MN 9"
     },
     {
       "pali": "Jātisamudayā jarāmaraṇasamudayo",
@@ -24,8 +24,7 @@
     }
   ],
   "sutta_references": [
-    "MN 9",
-    "SN 12.43"
+    "MN 9"
   ],
   "translation_policy": {
     "default_scope": "Use for the compact named jati-samudaya compound inside the origin-side dependent-arising family; prefer fuller origin-line wording when the canonical sentence itself is present.",

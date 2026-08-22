@@ -78,15 +78,15 @@
       "source": "DN 2"
     },
     {
-      "pali": "savitakkaṁ savicāraṁ",
-      "translation": "with thinking and pondering",
-      "notes": "Closely associated with the first mental theme.",
-      "source": "MN 119"
+      "pali": "savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati",
+      "translation": "one enters and remains in the first mental theme, which has thinking and pondering and the rapture and ease born of seclusion",
+      "notes": "Closely associated with the first mental theme. MN 119 elides this formula with peyyala; MN 141 spells it out in full.",
+      "source": "MN 141"
     }
   ],
   "sutta_references": [
     "DN 2",
-    "MN 119"
+    "MN 141"
   ],
   "tags": [
     "core-practice",

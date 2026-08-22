@@ -42,20 +42,21 @@
   ],
   "example_phrases": [
     {
-      "pali": "asekho",
-      "translation": "one beyond training",
-      "notes": "Shows a simple classificatory use.",
-      "source": "MN 53"
+      "pali": "bhikkhu asekho hoti",
+      "translation": "a bhikkhu is one beyond training",
+      "notes": "Shows a simple classificatory use. MN 53, formerly cited, is the Sekha Sutta and contains no asekha in any form.",
+      "source": "AN 10.111"
     },
     {
-      "pali": "asekhā sīlasamādhipaññā",
-      "translation": "conduct, composure, and discernment beyond training",
-      "notes": "Shows the completion side of the training contrast.",
-      "source": "MN 53"
+      "pali": "asekhā sammādiṭṭhi, asekho sammāsaṅkappo",
+      "translation": "right view beyond training, right intention beyond training",
+      "notes": "Shows the completion side of the training contrast. AN 10.112 runs the asekha qualifier across the tenfold path; the sīla-samādhi-paññā grouping formerly quoted is not canonical wording.",
+      "source": "AN 10.112"
     }
   ],
   "sutta_references": [
-    "MN 53",
+    "AN 10.111",
+    "AN 10.112",
     "MN 117"
   ],
   "tags": [

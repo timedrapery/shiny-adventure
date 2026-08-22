@@ -36,10 +36,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "pāpakamma",
-      "translation": "harmful action",
-      "notes": "Shows the term in a direct ethical compound.",
-      "source": "AN 6.63"
+      "pali": "akarontaṁ kho pana maṁ pāpakammaṁ kuto dukkhaṁ phusissatī",
+      "translation": "since I do no harmful action, how could suffering touch me?",
+      "notes": "Shows the term in a direct ethical compound. AN 6.63, formerly cited, contains no pāpa in any form.",
+      "source": "AN 3.65"
     },
     {
       "pali": "pāpaṃ mittaṃ",
@@ -49,6 +49,7 @@
     }
   ],
   "sutta_references": [
+    "AN 3.65",
     "Dhp 78"
   ],
   "tags": [
