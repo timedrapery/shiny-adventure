@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -44,6 +45,12 @@ HIGH_LOAD_MINOR_PRIORITY_TAGS = {
     "path-family",
 }
 HIGH_LOAD_MINOR_SCORE_THRESHOLD = 7
+
+# A slug may legitimately be a descriptive label rather than a transliteration
+# when it is keyed to the sutta the formula comes from, or when it ends in the
+# house `-formula` suffix. Both are labelling conventions, not headword drift.
+DESCRIPTIVE_SLUG_PREFIX = re.compile(r"^(mn|dn|sn|an|kn|ud|iti|snp|dhp|thag|thig)\d")
+DESCRIPTIVE_SLUG_SUFFIX = "formula"
 
 
 def stem_key(value: str) -> str:
@@ -309,6 +316,64 @@ def collect_weak_major_rule_entries(
     return weak_entries
 
 
+def is_subsequence(needle: str, haystack: str) -> bool:
+    remaining = iter(haystack)
+    return all(char in remaining for char in needle)
+
+
+def orphan_slug_tokens(term: str, normalized_term: str) -> list[str]:
+    """Slug tokens naming something the headword does not contain.
+
+    Slugs are allowed to respell the headword. Sandhi is routinely split out
+    (`chandiddhipada` -> `chanda-iddhipada`) or collapsed (`sammappadhana` ->
+    `sammapadhana`), so a slug whose letters still run in headword order is
+    treated as a respelling however much it differs token by token. What is not
+    allowed is a slug token that names a *different* Pali word, which is how a
+    record ends up filed under a phrase it no longer documents.
+    """
+    if DESCRIPTIVE_SLUG_PREFIX.match(normalized_term):
+        return []
+
+    canonical = normalize_term(term).replace("_", "")
+    slug = normalize_term(normalized_term).replace("_", "")
+    if is_subsequence(canonical, slug) or is_subsequence(slug, canonical):
+        return []
+
+    return [
+        token
+        for token in normalize_term(normalized_term).split("_")
+        if token and token != DESCRIPTIVE_SLUG_SUFFIX and token not in canonical
+    ]
+
+
+def collect_slug_headword_mismatches(
+    terms: dict[str, dict[str, object]]
+) -> list[dict[str, object]]:
+    results: list[dict[str, object]] = []
+
+    for stem, data in sorted(terms.items()):
+        term = data.get("term")
+        normalized_term = data.get("normalized_term")
+        if not is_non_empty_string(term) or not is_non_empty_string(normalized_term):
+            continue
+
+        orphans = orphan_slug_tokens(str(term), str(normalized_term))
+        if not orphans:
+            continue
+
+        results.append(
+            {
+                "term": stem,
+                "headword": str(term),
+                "normalized_term": str(normalized_term),
+                "orphan_tokens": orphans,
+                "status": str(data.get("status", "")),
+            }
+        )
+
+    return results
+
+
 def collect_high_load_minor_entries(
     terms: dict[str, dict[str, object]]
 ) -> list[dict[str, object]]:
@@ -358,6 +423,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     translation_collisions = collect_preferred_translation_collisions(terms)
     weak_major_rule_entries = collect_weak_major_rule_entries(terms)
     high_load_minor_entries = collect_high_load_minor_entries(terms)
+    slug_headword_mismatches = collect_slug_headword_mismatches(terms)
 
     return {
         "summary": summary,
@@ -375,6 +441,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
         "example_source_gaps": example_source_gaps,
         "example_source_gap_tags": example_source_gap_tags,
         "preferred_translation_collisions": translation_collisions,
+        "slug_headword_mismatches": slug_headword_mismatches,
     }
 
 
@@ -386,6 +453,7 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
     example_source_gaps = report["example_source_gaps"]
     example_source_gap_tags = report["example_source_gap_tags"]
     collisions = report["preferred_translation_collisions"]
+    slug_mismatches = report["slug_headword_mismatches"]
 
     print("Repository Health")
     print(f"- Term files: {summary['term_files']}")
@@ -482,6 +550,22 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
         if len(collisions) > top:
             remaining = len(collisions) - top
             print(f"- ... {remaining} more collision group(s)")
+    print()
+
+    print("Slug / Headword Mismatch Queue")
+    if not slug_mismatches:
+        print("- None")
+    else:
+        for item in slug_mismatches[:top]:
+            orphans = ", ".join(item["orphan_tokens"])
+            print(
+                f"- {safe_text(item['term'])}: status {item['status']}; "
+                f"slug names {safe_text(orphans)}, headword is "
+                f"{safe_text(item['headword'])}"
+            )
+        if len(slug_mismatches) > top:
+            remaining = len(slug_mismatches) - top
+            print(f"- ... {remaining} more term(s)")
 
 
 def main() -> int:

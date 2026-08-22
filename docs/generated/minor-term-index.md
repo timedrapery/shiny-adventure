@@ -405,6 +405,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [kamogha](../../terms/minor/kamogha.json) | kāmogha | sensual flood | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [karisa](../../terms/minor/karisa.json) | karisa | feces | reviewed | embodiment, meditative-development |
 | [karuna-cetovimutti](../../terms/minor/karuna-cetovimutti.json) | karuṇācetovimutti | liberation of mind through kindness towards others | reviewed | liberation, meditative-development |
+| [katame-ca-bhikkhave-pancupadanakkhandha](../../terms/minor/katame-ca-bhikkhave-pancupadanakkhandha.json) | katame ca, bhikkhave, pañcupādānakkhandhā | and what, bhikkhus, are the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [katamo-ca-bhikkhave-sakkayo](../../terms/minor/katamo-ca-bhikkhave-sakkayo.json) | katamo ca, bhikkhave, sakkāyo, pañcupādānakkhandhā | and what, bhikkhus, is identity, the five clung-to heaps | stable | aggregates, formula, self-view, translation-sensitive |
 | [kathina](../../terms/minor/kathina.json) | kaṭhina | kaṭhina | reviewed | vinaya, core-practice, translation-sensitive |
 | [kaya-dvara](../../terms/minor/kaya-dvara.json) | kaya-dvara | body door | reviewed | sense-fields |
@@ -626,7 +627,6 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [panca-nivarana](../../terms/minor/panca-nivarana.json) | pañca-nīvaraṇā | five distractions | stable | core-doctrine, core-practice, translation-sensitive |
 | [pancakkhandha](../../terms/minor/pancakkhandha.json) | pañcakkhandhā | five heaps | stable | aggregates, core-doctrine |
 | [pancime-bhikkhave-khandha](../../terms/minor/pancime-bhikkhave-khandha.json) | pañcime, bhikkhave, khandhā | these, bhikkhus, are the five heaps | stable | aggregates, formula |
-| [pancime-bhikkhave-upadanakkhandha](../../terms/minor/pancime-bhikkhave-upadanakkhandha.json) | katame ca, bhikkhave, pañcupādānakkhandhā | and what, bhikkhus, are the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [pancupadanakkhandha](../../terms/minor/pancupadanakkhandha.json) | pañcupādānakkhandhā | five clung-to heaps | stable | aggregates, core-doctrine, translation-sensitive |
 | [pancupadanakkhandhesu-assado-adinavo-nissaranam](../../terms/minor/pancupadanakkhandhesu-assado-adinavo-nissaranam.json) | pañcupādānakkhandhesu assādo ca ādīnavo ca nissaraṇaṃ ca | the gratification, danger, and escape in the five clung-to heaps | stable | aggregates, formula, translation-sensitive |
 | [pandita](../../terms/minor/pandita.json) | paṇḍita | wise person | reviewed | persons, mental-qualities |

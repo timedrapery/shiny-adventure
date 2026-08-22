@@ -258,6 +258,72 @@ class RepoHealthTests(unittest.TestCase):
             ],
         )
 
+    def test_build_report_flags_slug_naming_a_different_phrase(self) -> None:
+        terms = {
+            "pancime-bhikkhave-upadanakkhandha": {
+                "term": "katame ca, bhikkhave, pañcupādānakkhandhā",
+                "normalized_term": "pancime-bhikkhave-upadanakkhandha",
+                "entry_type": "minor",
+                "part_of_speech": "phrase",
+                "status": "stable",
+            }
+        }
+
+        report = repo_health.build_report(terms)
+
+        self.assertEqual(
+            report["slug_headword_mismatches"],
+            [
+                {
+                    "term": "pancime-bhikkhave-upadanakkhandha",
+                    "headword": "katame ca, bhikkhave, pañcupādānakkhandhā",
+                    "normalized_term": "pancime-bhikkhave-upadanakkhandha",
+                    "orphan_tokens": ["pancime"],
+                    "status": "stable",
+                }
+            ],
+        )
+
+    def test_build_report_allows_conventional_slug_respellings(self) -> None:
+        terms = {
+            # sandhi split out for readability
+            "chanda-iddhipada": {
+                "term": "chandiddhipāda",
+                "normalized_term": "chanda-iddhipada",
+                "entry_type": "minor",
+                "part_of_speech": "compound",
+                "status": "stable",
+            },
+            # sandhi collapsed instead
+            "sammapadhana": {
+                "term": "sammappadhāna",
+                "normalized_term": "sammapadhana",
+                "entry_type": "minor",
+                "part_of_speech": "compound",
+                "status": "stable",
+            },
+            # descriptive label keyed to its sutta
+            "mn10-direct-path-opening": {
+                "term": "ekāyano ayaṁ, bhikkhave, maggo sattānaṁ visuddhiyā",
+                "normalized_term": "mn10-direct-path-opening",
+                "entry_type": "minor",
+                "part_of_speech": "phrase",
+                "status": "stable",
+            },
+            # house -formula suffix
+            "kim-nidana-kim-samudaya-formula": {
+                "term": "kiṁnidānaṁ kiṁsamudayaṁ",
+                "normalized_term": "kim-nidana-kim-samudaya-formula",
+                "entry_type": "minor",
+                "part_of_speech": "phrase",
+                "status": "stable",
+            },
+        }
+
+        report = repo_health.build_report(terms)
+
+        self.assertEqual(report["slug_headword_mismatches"], [])
+
 
 if __name__ == "__main__":
     unittest.main()
