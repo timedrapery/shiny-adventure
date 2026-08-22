@@ -119,7 +119,7 @@ def inconsistent_clung_to_heap_terms(terms: dict[str, dict[str, object]]) -> lis
         "pancupadanakkhandha": "five clung-to heaps",
         "pancime-bhikkhave-upadanakkhandha": "and what, bhikkhus, are the five clung-to heaps",
         "katamo-ca-bhikkhave-sakkayo": "and what, bhikkhus, is identity, the five clung-to heaps",
-        "pancupadanakkhandhesu-assado-adinavo-nissaranam": "the gratification, danger, and escape in the five clung-to heaps",
+        "pancupadanakkhandhesu-assado-adinavo-nissaranam": "of these five clung-to heaps, the gratification as gratification, the danger as danger, and the escape as escape",
     }
     for stem, expected_rendering in expected.items():
         data = terms.get(stem)
