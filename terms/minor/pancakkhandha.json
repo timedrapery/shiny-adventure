@@ -27,7 +27,6 @@
   ],
   "related_terms": [
     "khandha",
-    "pancime-bhikkhave-khandha",
     "pancupadanakkhandha",
     "rupa",
     "rupakkhandha",
@@ -42,21 +41,21 @@
   ],
   "example_phrases": [
     {
-      "pali": "pañcime, bhikkhave, khandhā",
-      "translation": "these, bhikkhus, are the five heaps",
-      "notes": "Canonical heading for the plain fivefold set.",
+      "pali": "ime vuccanti, bhikkhave, pañcakkhandhā",
+      "translation": "these are called, bhikkhus, the five heaps",
+      "notes": "Canonical heading for the plain fivefold set, in the wording SN 22.48 actually uses.",
       "source": "SN 22.48"
     },
     {
-      "pali": "ime kho, bhikkhave, pañcakkhandhā",
-      "translation": "these, bhikkhus, are the five heaps",
-      "notes": "Collective expression stated directly.",
-      "source": "SN 22.79"
+      "pali": "pañcakkhandhā. rūpakkhandho vedanākkhandho saññākkhandho saṅkhārakkhandho viññāṇakkhandho",
+      "translation": "the five heaps: form heap, felt-experience heap, recognition heap, heap of putting-together activities, knowing heap",
+      "notes": "Sangīti listing that names the plain set and enumerates it, immediately before pañcupādānakkhandhā gets the same treatment. Shows the two sets held apart in the source itself.",
+      "source": "DN 33"
     }
   ],
   "sutta_references": [
     "SN 22.48",
-    "SN 22.79"
+    "DN 33"
   ],
   "tags": [
     "aggregates",
