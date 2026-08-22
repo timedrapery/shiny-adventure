@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 915
+- Entries: 914
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -627,7 +627,6 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [panca-indriya](../../terms/minor/panca-indriya.json) | panca-indriya | five faculties | reviewed | core-doctrine, core-practice |
 | [panca-nivarana](../../terms/minor/panca-nivarana.json) | pañca-nīvaraṇā | five distractions | stable | core-doctrine, core-practice, translation-sensitive |
 | [pancakkhandha](../../terms/minor/pancakkhandha.json) | pañcakkhandhā | five heaps | stable | aggregates, core-doctrine |
-| [pancime-bhikkhave-khandha](../../terms/minor/pancime-bhikkhave-khandha.json) | pañcime, bhikkhave, khandhā | these, bhikkhus, are the five heaps | stable | aggregates, formula |
 | [pancupadanakkhandha](../../terms/minor/pancupadanakkhandha.json) | pañcupādānakkhandhā | five clung-to heaps | stable | aggregates, core-doctrine, translation-sensitive |
 | [pandita](../../terms/minor/pandita.json) | paṇḍita | wise person | reviewed | persons, mental-qualities |
 | [panna-dhana](../../terms/minor/panna-dhana.json) | panna-dhana | wealth of discernment | reviewed | ethics, core-practice |
