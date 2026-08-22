@@ -147,11 +147,15 @@ def main(argv: list[str] | None = None) -> int:
     report = ves.build_report(cache_dir=cache_dir)
     rows = triage(report["findings"], cache_dir)
 
+    # Not `print`: the report is full of Pali diacritics, and on Windows a
+    # redirected stdout defaults to cp1252, which raises rather than degrades.
+    # `ves.write_output` encodes with errors="replace", so piping the report to
+    # a file works the same way it does for verify_example_sources.py.
     if args.format == "json":
         payload = [r for r in rows if args.band is None or r["band"] == args.band]
-        print(json.dumps(payload, ensure_ascii=False, indent=2))
+        ves.write_output(json.dumps(payload, ensure_ascii=False, indent=2) + "\n")
     else:
-        print(render_text(rows, args.band))
+        ves.write_output(render_text(rows, args.band) + "\n")
     return 0
 
 
