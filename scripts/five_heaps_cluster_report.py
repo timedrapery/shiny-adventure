@@ -45,7 +45,6 @@ COLLECTIVE_TERMS = [
 ]
 
 FORMULA_TERMS = [
-    "pancime-bhikkhave-khandha",
     "pancime-bhikkhave-upadanakkhandha",
     "yam-kinci-rupam-vedana-sanna-sankhara-vinnanam",
     "katamo-ca-bhikkhave-sakkayo",

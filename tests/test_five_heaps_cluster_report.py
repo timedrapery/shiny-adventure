@@ -61,7 +61,7 @@ class ClusterReportTests(unittest.TestCase):
         report = cluster_report.build_report(terms)
 
         self.assertIn(
-            "pancime-bhikkhave-khandha",
+            "pancime-bhikkhave-upadanakkhandha",
             report["errors"]["missing_formula_records"],
         )
 
