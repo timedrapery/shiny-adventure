@@ -405,7 +405,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 ---
 
-[← SN 51.13: Chandasamādhi Sutta](sn51-13-chandasamadhi-sutta.md) · [All suttas](index.md) · [MN 11: Cūḷasīhanāda Sutta →](mn11-culasihanada-sutta.md)
+[← The Five Faculties](sn48-10-dutiyavibhanga-sutta.md) · [All suttas](index.md) · [MN 11: Cūḷasīhanāda Sutta →](mn11-culasihanada-sutta.md)
 
 
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
