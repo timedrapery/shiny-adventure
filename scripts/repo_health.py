@@ -22,6 +22,7 @@ except ModuleNotFoundError:
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
+TRANSLATIONS_DIR = REPO_ROOT / "docs" / "translations"
 RULE_LANGUAGE_MARKERS = (
     "default",
     "context",
@@ -51,6 +52,12 @@ HIGH_LOAD_MINOR_SCORE_THRESHOLD = 7
 # house `-formula` suffix. Both are labelling conventions, not headword drift.
 DESCRIPTIVE_SLUG_PREFIX = re.compile(r"^(mn|dn|sn|an|kn|ud|iti|snp|dhp|thag|thig)\d")
 DESCRIPTIVE_SLUG_SUFFIX = "formula"
+
+# Every governed translation states its house choices in its editorial note, in
+# one of two shapes: `pīti` is rendered `rejoicing`, or `pīti` → `rejoicing`.
+# Those declarations are the only place a document says, in machine-readable
+# form, which English it means to use for a given headword.
+RENDERING_DECLARATION = re.compile(r"`([^`]+)`\s*(?:is rendered|→)\s*`([^`]+)`")
 
 
 def stem_key(value: str) -> str:
@@ -374,6 +381,139 @@ def collect_slug_headword_mismatches(
     return results
 
 
+def canonical_rendering(value: str) -> str:
+    """Fold an English rendering for comparison.
+
+    Declarations are hard-wrapped at 79 columns, so the same phrase can arrive
+    with a newline in the middle of it. Case and a trailing period vary between
+    a heading and a sentence. None of that is drift.
+    """
+    return re.sub(r"\s+", " ", value).strip().rstrip(".").casefold()
+
+
+def load_translation_declarations(
+    translations_dir: Path = TRANSLATIONS_DIR,
+) -> dict[str, list[tuple[str, str]]]:
+    """Map each translation document to the renderings it declares."""
+    declarations: dict[str, list[tuple[str, str]]] = {}
+    if not translations_dir.exists():
+        return declarations
+    for path in sorted(translations_dir.glob("*.md")):
+        found: list[tuple[str, str]] = []
+        text = path.read_text(encoding="utf-8")
+        for match in RENDERING_DECLARATION.finditer(text):
+            headword = re.sub(r"\s+", " ", match.group(1)).strip()
+            rendering = re.sub(r"\s+", " ", match.group(2)).strip()
+            if headword and rendering:
+                found.append((headword, rendering))
+        if found:
+            declarations[path.name] = found
+    return declarations
+
+
+def governed_renderings(data: dict[str, object]) -> tuple[set[str], set[str], str]:
+    """Return (allowed, discouraged, preferred) renderings for one record."""
+    preferred = data.get("preferred_translation")
+    preferred = str(preferred) if is_non_empty_string(preferred) else ""
+    allowed = {canonical_rendering(preferred)} if preferred else set()
+    for value in data.get("alternative_translations") or []:
+        if is_non_empty_string(value):
+            allowed.add(canonical_rendering(str(value)))
+    for rule in data.get("context_rules") or []:
+        if isinstance(rule, dict) and is_non_empty_string(rule.get("rendering")):
+            allowed.add(canonical_rendering(str(rule["rendering"])))
+    discouraged = {
+        canonical_rendering(str(value))
+        for value in data.get("discouraged_translations") or []
+        if is_non_empty_string(value)
+    }
+    return allowed, discouraged, preferred
+
+
+def collect_governed_rendering_drift(
+    terms: dict[str, dict[str, object]],
+    declarations: dict[str, list[tuple[str, str]]],
+) -> list[dict[str, object]]:
+    """Translation documents whose declared renderings fight the term records.
+
+    Three shapes, most severe first.
+
+    `self_contradiction` -- one document declares two different renderings for
+    the same headword. This needs no term record to judge and is the highest
+    signal available: it is what a half-finished rename looks like from the
+    outside. The `piti` migration left exactly this trace in AN 10.60 and
+    MN 39, each carrying both `delight` and `rejoicing`, for as long as it sat
+    unfinished.
+
+    `discouraged` -- a document declares a rendering its record explicitly
+    discourages.
+
+    `unlisted` -- a document declares a rendering the record neither prefers,
+    lists as an alternate, nor governs through a context rule. Legitimate
+    often enough to be a review queue rather than an error.
+
+    Deliberately NOT checked: whether translation *prose* uses a discouraged
+    rendering. That was measured and abandoned. A phrase cannot be attributed
+    to a headword without alignment the repository does not have, and the
+    corpus is full of counter-examples: `wearing away` is discouraged for
+    `nirodha` and preferred for `khaya`; `air element` is discouraged for
+    `vayo-kasina` and correct for `vayodhatu`; `crossing over` is discouraged
+    for `mutti` and renders `nittharana` in MN 22's raft simile. Scanning
+    bodies for discouraged phrases produced 168 hits, of which a sampled
+    majority were correct renderings of a different term. Narrowing to phrases
+    no other record claims, and to the translation section alone, still left
+    21 hits with roughly one in four real. Do not re-attempt it without a
+    Pali-to-English alignment to check against.
+    """
+    by_key = {stem_key(str(data.get("term", ""))): data for data in terms.values()}
+    findings: list[dict[str, object]] = []
+
+    for document, declared in sorted(declarations.items()):
+        seen: dict[str, set[str]] = defaultdict(set)
+        for headword, rendering in declared:
+            seen[stem_key(headword)].add(canonical_rendering(rendering))
+
+        for headword_key, renderings in sorted(seen.items()):
+            if len(renderings) > 1:
+                findings.append(
+                    {
+                        "document": document,
+                        "headword": headword_key,
+                        "kind": "self_contradiction",
+                        "declared": sorted(renderings),
+                        "preferred": str(
+                            by_key.get(headword_key, {}).get("preferred_translation", "")
+                        ),
+                    }
+                )
+
+        for headword, rendering in declared:
+            data = by_key.get(stem_key(headword))
+            if data is None:
+                continue  # inflected forms and compounds have no record of their own
+            allowed, discouraged, preferred = governed_renderings(data)
+            canonical = canonical_rendering(rendering)
+            if canonical in discouraged:
+                kind = "discouraged"
+            elif allowed and canonical not in allowed:
+                kind = "unlisted"
+            else:
+                continue
+            findings.append(
+                {
+                    "document": document,
+                    "headword": headword,
+                    "kind": kind,
+                    "declared": [rendering],
+                    "preferred": preferred,
+                }
+            )
+
+    order = {"self_contradiction": 0, "discouraged": 1, "unlisted": 2}
+    findings.sort(key=lambda row: (order[str(row["kind"])], row["document"], str(row["headword"])))
+    return findings
+
+
 def collect_high_load_minor_entries(
     terms: dict[str, dict[str, object]]
 ) -> list[dict[str, object]]:
@@ -414,7 +554,10 @@ def collect_high_load_minor_entries(
     return results
 
 
-def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
+def build_report(
+    terms: dict[str, dict[str, object]],
+    declarations: dict[str, list[tuple[str, str]]] | None = None,
+) -> dict[str, object]:
     summary = compute_summary(terms)
     missing_advanced = collect_major_missing_advanced_fields(terms)
     generic_authority_terms = collect_generic_authority_basis_terms(terms)
@@ -424,6 +567,9 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
     weak_major_rule_entries = collect_weak_major_rule_entries(terms)
     high_load_minor_entries = collect_high_load_minor_entries(terms)
     slug_headword_mismatches = collect_slug_headword_mismatches(terms)
+    if declarations is None:
+        declarations = load_translation_declarations()
+    rendering_drift = collect_governed_rendering_drift(terms, declarations)
 
     return {
         "summary": summary,
@@ -442,6 +588,7 @@ def build_report(terms: dict[str, dict[str, object]]) -> dict[str, object]:
         "example_source_gap_tags": example_source_gap_tags,
         "preferred_translation_collisions": translation_collisions,
         "slug_headword_mismatches": slug_headword_mismatches,
+        "governed_rendering_drift": rendering_drift,
     }
 
 
@@ -454,6 +601,7 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
     example_source_gap_tags = report["example_source_gap_tags"]
     collisions = report["preferred_translation_collisions"]
     slug_mismatches = report["slug_headword_mismatches"]
+    rendering_drift = report["governed_rendering_drift"]
 
     print("Repository Health")
     print(f"- Term files: {summary['term_files']}")
@@ -566,6 +714,28 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
         if len(slug_mismatches) > top:
             remaining = len(slug_mismatches) - top
             print(f"- ... {remaining} more term(s)")
+    print()
+
+    print("Governed Rendering Drift Queue")
+    if not rendering_drift:
+        print("- None")
+    else:
+        labels = {
+            "self_contradiction": "declares two renderings",
+            "discouraged": "declares a discouraged rendering",
+            "unlisted": "declares an ungoverned rendering",
+        }
+        for item in rendering_drift[:top]:
+            declared = ", ".join(str(value) for value in item["declared"])
+            preferred = str(item["preferred"]) or "<none>"
+            print(
+                f"- {safe_text(str(item['document']))}: "
+                f"{labels[str(item['kind'])]} for {safe_text(str(item['headword']))} "
+                f"-- {safe_text(declared)}; record prefers {safe_text(preferred)}"
+            )
+        if len(rendering_drift) > top:
+            remaining = len(rendering_drift) - top
+            print(f"- ... {remaining} more declaration(s)")
 
 
 def main() -> int:
@@ -595,7 +765,13 @@ def main() -> int:
 
     report = build_report(terms)
     if args.format == "json":
-        json.dump(report, sys.stdout, ensure_ascii=False, indent=2)
+        # ensure_ascii, not because the escapes are prettier, but because this
+        # report carries Pali headwords and CI writes it with `> repo-health.json`.
+        # On Windows a redirected stdout defaults to cp1252, and dumping raw
+        # diacritics there raises UnicodeEncodeError partway through the write,
+        # leaving a truncated file with a traceback inside it. Escaping is
+        # lossless and parses identically.
+        json.dump(report, sys.stdout, ensure_ascii=True, indent=2)
         sys.stdout.write("\n")
     else:
         print_text_report(report, top=args.top)
