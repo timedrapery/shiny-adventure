@@ -53,8 +53,8 @@
     {
       "pali": "satta bojjhaṅgā",
       "translation": "the seven awakening factors",
-      "notes": "Shows the standard framework expression.",
-      "source": "SN 46.1"
+      "notes": "Shows the standard framework expression. SN 46.1 has only the accusative satta bojjhaṅge; MN 118 carries this nominative form.",
+      "source": "MN 118"
     },
     {
       "pali": "bojjhaṅgabhāvanā",
@@ -63,10 +63,10 @@
       "source": "SN 46.1"
     },
     {
-      "pali": "bojjhaṅgā bhāvitā bahulīkatā",
-      "translation": "awakening factors developed and made much of",
-      "notes": "Shows the practical training force explicitly.",
-      "source": "SN 46.1"
+      "pali": "satta bojjhaṅgā bhāvitā bahulīkatā",
+      "translation": "the seven awakening factors, developed and made much of",
+      "notes": "Shows the practical training force explicitly. SN 46.1 uses the gerunds bhāvento bahulīkaronto; MN 118 carries this exact participial line.",
+      "source": "MN 118"
     }
   ],
   "sutta_references": [

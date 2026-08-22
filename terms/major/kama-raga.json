@@ -52,15 +52,14 @@
       "source": "MN 64"
     },
     {
-      "pali": "kāmarāgasaṃyojanaṃ",
-      "translation": "the fetter of passion for sensuality",
-      "notes": "Shows the term inside the fetter framework.",
-      "source": "SN 45.179"
+      "pali": "kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena",
+      "translation": "one dwells with a mind obsessed by passion for sensuality, overcome by passion for sensuality",
+      "notes": "Shows the term as a live obstruction. SN 45.179, formerly cited, lists the lower fetters with kāmacchanda and never uses kāmarāga.",
+      "source": "MN 64"
     }
   ],
   "sutta_references": [
-    "MN 64",
-    "SN 45.179"
+    "MN 64"
   ],
   "tags": [
     "core-doctrine",

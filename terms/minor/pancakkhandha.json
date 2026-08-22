@@ -42,9 +42,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "pañcime, bhikkhave, khandhā",
-      "translation": "these, bhikkhus, are the five heaps",
-      "notes": "Canonical heading for the plain fivefold set.",
+      "pali": "ime vuccanti, bhikkhave, pañcakkhandhā",
+      "translation": "these are called, bhikkhus, the five heaps",
+      "notes": "Canonical heading for the plain fivefold set, in the wording SN 22.48 actually uses. The pañcime form the citation formerly quoted occurs nowhere in this sutta.",
       "source": "SN 22.48"
     },
     {

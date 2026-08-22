@@ -59,20 +59,20 @@
   ],
   "example_phrases": [
     {
-      "pali": "arahā hoti",
-      "translation": "one is an arahant",
-      "notes": "Shows a simple attainment statement.",
-      "source": "MN 2"
+      "pali": "arahanto khīṇāsavā vusitavanto katakaraṇīyā",
+      "translation": "arahants whose outflows are worn away, who have lived the life, who have done what was to be done",
+      "notes": "Shows the standard descriptive series. MN 2, formerly cited, contains no arahant in any form.",
+      "source": "MN 22"
     },
     {
-      "pali": "khīṇāsavo arahā",
-      "translation": "an arahant whose outflows are worn away",
-      "notes": "Shows the formula linking the category to āsava language.",
-      "source": "MN 2"
+      "pali": "ohitabhārā anuppattasadatthā parikkhīṇabhavasaṁyojanā sammadaññāvimuttā",
+      "translation": "who have put down the burden, reached their own goal, worn away the fetter of becoming, and are released through right knowing",
+      "notes": "Continues the same series, linking the category to the fetter and release language.",
+      "source": "MN 22"
     }
   ],
   "sutta_references": [
-    "MN 2",
+    "MN 22",
     "MN 53",
     "MN 117"
   ],

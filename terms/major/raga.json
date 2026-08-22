@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Passion or affective coloring that heats and inclines the mind toward its object.",
-  "notes": "The project keeps passion as the default because it preserves the heated, affectively colored force of rāga without reducing it to merely sexual lust. Attachment remains a controlled alternate when the sticking quality needs emphasis, and coloring remains available only when the text or explanation explicitly brings out that image. In this repository, rāga is not the same as taṇhā: taṇhā is ignorant wanting, whereas rāga is the passionate coloring or heat that accompanies attraction. It is also not the same as chanda, which can be wholesome or neutral, nor as nandī, which names relishing or delighting, nor as upādāna, which names appropriation or taking personally. The formula nandirāgasahagatā should preserve both relishing and passion instead of collapsing them into one English word. The OSF glossary supports keeping rāga broader than sexual desire, and MN 64 supports the liberation compounds and latent-tendency connections built from the term.",
+  "notes": "The project keeps passion as the default because it preserves the heated, affectively colored force of rāga without reducing it to merely sexual lust. Attachment remains a controlled alternate when the sticking quality needs emphasis, and coloring remains available only when the text or explanation explicitly brings out that image. In this repository, rāga is not the same as taṇhā: taṇhā is ignorant wanting, whereas rāga is the passionate coloring or heat that accompanies attraction. It is also not the same as chanda, which can be wholesome or neutral, nor as nandī, which names relishing or delighting, nor as upādāna, which names appropriation or taking personally. The formula nandirāgasahagatā should preserve both relishing and passion instead of collapsing them into one English word. The OSF glossary supports keeping rāga broader than sexual desire, and MN 64 supports the latent-tendency connections built from the term.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -52,10 +52,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "rāgakkhaya",
-      "translation": "the wearing away of passion",
-      "notes": "Compact doctrinal compound showing the term in liberation language.",
-      "source": "MN 64"
+      "pali": "taṇhā ponobbhavikā nandirāgasahagatā",
+      "translation": "craving that produces further becoming, accompanied by delight and passion",
+      "notes": "Shows the term inside the origin-of-dissatisfaction formula. MN 64 contains no rāgakkhaya, which the citation formerly quoted.",
+      "source": "SN 56.11"
     },
     {
       "pali": "rāgānusaya",
@@ -85,7 +85,7 @@
     {
       "source": "MN 64",
       "kind": "context-rule",
-      "scope": "Supports the liberation compound rāgakkhaya and the residue-family link rāgānusaya."
+      "scope": "Supports the residue-family link rāgānusaya."
     }
   ],
   "translation_policy": {

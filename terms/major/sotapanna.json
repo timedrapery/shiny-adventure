@@ -54,10 +54,10 @@
   ],
   "example_phrases": [
     {
-      "pali": "sotāpanno hoti",
-      "translation": "one becomes a stream-enterer",
-      "notes": "Shows a simple doctrinal statement of attainment.",
-      "source": "SN 55.1"
+      "pali": "tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpannā avinipātadhammā niyatā sambodhiparāyanā",
+      "translation": "with the wearing away of three fetters they are stream-enterers, no longer bound for the lower realms, fixed in destiny, headed for awakening",
+      "notes": "Shows the attainment stated with its defining condition. SN 55.1, formerly cited, contains no sotāpanna in any form.",
+      "source": "MN 118"
     },
     {
       "pali": "sotāpanno",
@@ -68,7 +68,7 @@
   ],
   "sutta_references": [
     "SN 55.5",
-    "SN 55.1"
+    "MN 118"
   ],
   "tags": [
     "core-doctrine",

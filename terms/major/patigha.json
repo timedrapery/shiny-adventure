@@ -48,15 +48,15 @@
       "source": "MN 64"
     },
     {
-      "pali": "paṭighasaṃyojana",
-      "translation": "the fetter of resistance",
-      "notes": "Shows the term inside the fetter framework.",
-      "source": "SN 35.232"
+      "pali": "dukkhāya vedanāya paṭighānusayo anuseti",
+      "translation": "toward painful felt experience the underlying tendency to resistance lies latent",
+      "notes": "Shows the term in the residue family, its main doctrinal home. SN 35.232, formerly cited, contains no paṭigha in any form.",
+      "source": "MN 44"
     }
   ],
   "sutta_references": [
     "MN 64",
-    "SN 35.232"
+    "MN 44"
   ],
   "tags": [
     "core-doctrine",

@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The noble path factor of samādhi, namely the first, second, third, and fourth jhāna.",
-  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 117 should remain explicit here, because it defines the factor through the four jhānas and places it inside a longer sequence that opens into right knowledge and right release. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
+  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 141 carries that identity explicitly, defining the factor through the four jhānas. MN 117 frames it differently -- as one-pointedness supported and equipped by the seven preceding factors, placed inside a longer sequence that opens into right knowledge and right release -- and contains no jhāna at all, so it should not be cited for the fourfold definition. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
@@ -66,14 +66,21 @@
       "source": "MN 117"
     },
     {
-      "pali": "catunnaṃ jhānānaṃ",
-      "translation": "of the four mental themes",
-      "notes": "MN 117 defines ariya sammā samādhi through the fourfold jhāna sequence.",
+      "pali": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati",
+      "translation": "quite secluded from sensuality, secluded from unwholesome qualities, one enters and remains in the first mental theme, which has directed thought and sustained thought and the rapture and ease born of seclusion",
+      "notes": "MN 141 is the surface that answers 'what is right mental composure?' with the fourfold sequence.",
+      "source": "MN 141"
+    },
+    {
+      "pali": "ariyo sammāsamādhi saupaniso saparikkhāro",
+      "translation": "noble right mental composure, with its supports and its equipment",
+      "notes": "MN 117 defines the factor by its supports and equipment, not through the fourfold jhāna sequence -- it contains no jhāna in any form.",
       "source": "MN 117"
     }
   ],
   "sutta_references": [
-    "MN 117"
+    "MN 117",
+    "MN 141"
   ],
   "tags": [
     "core-practice",
@@ -95,9 +102,14 @@
       "scope": "Supports practical path handling rather than vague broader meditation-category language."
     },
     {
+      "source": "MN 141",
+      "kind": "context-rule",
+      "scope": "Defines sammā samādhi through the first, second, third, and fourth jhāna."
+    },
+    {
       "source": "MN 117",
       "kind": "context-rule",
-      "scope": "Defines ariya sammā samādhi through the first, second, third, and fourth jhāna."
+      "scope": "Frames ariya sammā samādhi as one-pointedness supported and equipped by the seven preceding path factors, without reference to jhāna."
     }
   ],
   "translation_policy": {
