@@ -689,6 +689,24 @@ Method, the same one that worked on the `partial` bucket: check whether a
 whole word stem is missing from the cited sutta, not whether the phrase failed
 to match.
 
+**The screen under-flags as well as over-flags.** `triage_citation_stems.py`
+calls a word missing when its first five characters are absent from the cited
+sutta. A wrong word that happens to share those five characters with a word
+the sutta does contain is therefore invisible to it. Both of the DN 22 errors
+in section 2 were: `dhammānudhammapaṭipanna` in a text full of `dhamma`, and
+`sati-sampajañña` in a text full of `sampajāno`. Neither ever appeared in the
+98, and neither appears in the 59 that remain.
+
+Screening instead on how much of each word the sutta can account for as a
+contiguous run — the `cover` figure the script already computes — raises the
+suspect list from 59 to 110. That is not obviously the better screen: it
+trades one false-positive mode for another, since it flags every compound
+whose parts the text spells separately (`nibbida` citing `nibbindati`, which
+is fine). It is recorded here as a known limit of the current sweep rather
+than applied, because changing the screen mid-sweep reclassifies every band.
+Whatever the count says, a citation is only wrong once someone has read the
+segment.
+
 ### 2. Repair DN 22 rather than translating it
 
 `DN 22` topped the ranking on three orphan majors — `dhamma`, `kaya`,
@@ -708,6 +726,33 @@ Moving the three good citations to MN 10 and repairing the two wrong ones
 anchors all three majors with no translation at all. This is the third time
 this pattern has decided a queue: `MN 70` and `SN 12.43` were both withdrawn
 from Wave 7 for it.
+
+**Done (2026-08-21).** All five citations were checked against the cached root
+text segment before being rewritten, not against the verifier's verdict:
+
+| Record | Was | Now |
+| --- | --- | --- |
+| `kaya` | `kāye kāyānupassī viharati` ← DN 22 | same phrase ← MN 10 |
+| `dhamma` | `dhammesu dhammānupassī viharati` ← DN 22 | same phrase ← MN 10 |
+| `sampajanna` | `sampajānakārī hoti` ← DN 22 | same phrase ← MN 10 |
+| `dhamma` | `dhammānudhammapaṭipanna` ← DN 22 | `dhammānudhammappaṭipatti` ← SN 55.5 |
+| `sampajanna` | `sati-sampajañña` ← DN 22 | `ātāpī sampajāno satimā` ← MN 10 |
+
+The two repairs both landed on a governed surface rather than needing one.
+`dhammānudhammappaṭipatti` is the fourth factor of stream-entry and is spelled
+out in `SN 55.5`; the compound `sati-sampajañña` occurs in neither DN 22 nor
+MN 10, and the place the two words actually stand side by side is the
+satipaṭṭhāna refrain, `ātāpī sampajāno satimā`.
+
+One more citation in the same records was repaired on the way past: `kaya`
+cited MN 119 for `kāyagatā sati` split into two words, where MN 119 spells
+`kāyagatāsati` solid all thirty times.
+
+`sutta_references` is the field the audit reads for orphan status, not
+`example_phrases[].source` — both have to move, or the metric does not.
+Result: orphan majors 27 → 24, orphans 134 → 131, `ok` 508 → 511. DN 22 is off
+the ranked list entirely, and `MN 119` drops from two orphan majors to one,
+exactly as predicted below.
 
 ### 3. Then translate, in this order
 
