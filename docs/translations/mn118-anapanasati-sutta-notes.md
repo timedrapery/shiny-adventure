@@ -89,7 +89,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   behind. The section is governed as a mapping of the same in-breath and
   out-breath training onto body, felt experience, feeling mind, and dhammas.
 - In the felt-experience tetrad, the trainee remembers with each breath to
-  bring forth delight and ease, and to experience and calm the mind
+  bring forth rejoicing and satisfaction, and to experience and calm the mind
   conditioner, namely felt experience and recognition, including liking,
   disliking, or a mixed pull.
 - In the satipaṭṭhāna-fulfillment section, the in-and-out breath remains the

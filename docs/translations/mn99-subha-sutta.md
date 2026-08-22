@@ -289,15 +289,15 @@ And what is the delight that is apart from sensuality and apart from
 unskillful dhammas?
 
 Here, student, a bhikkhu, quite secluded from sensuality, secluded from
-unskillful dhammas, enters and remains in the first mental theme, with
-thinking and pondering, with delight and ease born of seclusion. This too is
+unskillful dhammas, enters and remains in the first mental theme, with thinking
+and pondering, with rejoicing and satisfaction born of seclusion. This too is
 delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
 unification of mind, a bhikkhu enters and remains in the second mental theme,
-without thinking and pondering, with delight and ease born of mental
-composure. This too is delight apart from sensuality and apart from
-unskillful dhammas."
+without thinking and pondering, with rejoicing and satisfaction born of mental
+composure. This too is delight apart from sensuality and apart from unskillful
+dhammas."
 
 ### A Sixth Ground For Merit
 

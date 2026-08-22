@@ -289,8 +289,8 @@ weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
 thinking and pondering, with rejoicing and satisfaction born of seclusion.
 
-They drench, saturate, fill, and spread this very body with delight and
-happiness born of seclusion, so that no part of the whole body goes
+They drench, saturate, fill, and spread this very body with rejoicing and
+satisfaction born of seclusion, so that no part of the whole body goes
 undrenched with rejoicing and satisfaction born of seclusion.
 
 Bhikkhus, suppose a skilled bathhouse attendant or their apprentice were to
@@ -304,11 +304,11 @@ of the whole body goes undrenched with rejoicing and satisfaction born of seclus
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
 internal clarity, the feeling mind unified, without thinking and pondering, a
-bhikkhu enters and remains in the second mental theme: with delight and
-happiness born of mental composure.
+bhikkhu enters and remains in the second mental theme: with rejoicing and
+satisfaction born of mental composure.
 
-They drench, saturate, fill, and spread this very body with delight and
-happiness born of mental composure, so that no part of the whole body goes
+They drench, saturate, fill, and spread this very body with rejoicing and
+satisfaction born of mental composure, so that no part of the whole body goes
 undrenched with rejoicing and satisfaction born of composure.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
@@ -318,8 +318,8 @@ that lake and drench, saturate, fill, and spread throughout the lake, so that
 no part of the whole lake went undrenched with cool water.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with rejoicing and satisfaction born of composure, so that
-no part of the whole body goes undrenched with delight and happiness born of
+this very body with rejoicing and satisfaction born of composure, so that no
+part of the whole body goes undrenched with rejoicing and satisfaction born of
 mental composure.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in

@@ -68,7 +68,7 @@ sufficient lexicon coverage:
 - `sati` → `remembering` (major)
 - `sampajañña` → `clear knowing` (major)
 - `jhāna` → `mental theme` (major, reviewed)
-- `pīti` → `delight` (major)
+- `pīti` → `rejoicing` (major)
 - `upekkhā` → `dynamic balance` (major)
 - `āsava` → `outflow` (major)
 - `citta` → `feeling mind` (major)

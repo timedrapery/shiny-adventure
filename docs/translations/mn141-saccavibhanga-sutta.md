@@ -286,13 +286,14 @@ And what, friends, is right mental composure?
 
 Here a bhikkhu, quite secluded from sensuality, secluded from unwholesome
 dhammas, enters and remains in the first mental theme, with thinking and
-pondering, with delight and ease born of seclusion.
+pondering, with rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, they enter and remain in the second mental theme, without
-thinking and pondering, with delight and ease born of mental composure.
+thinking and pondering, with rejoicing and satisfaction born of mental
+composure.
 
-With the fading of delight, they remain in dynamic balance, remembering and
+With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience ease in the body. They enter and remain in the
 third mental theme, of which the noble ones say: 'One of dynamic balance and
 remembering stays at ease.'

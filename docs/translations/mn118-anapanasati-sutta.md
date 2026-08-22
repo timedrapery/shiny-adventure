@@ -131,8 +131,8 @@ Body-related trainings:
   'Breathing out, I will calm the body conditioner.'
 
 Felt-experience trainings:
-- They train: 'Breathing in, I will experience delight.' They train:
-  'Breathing out, I will experience delight.'
+- They train: 'Breathing in, I will experience rejoicing.' They train:
+  'Breathing out, I will experience rejoicing.'
 - They train: 'Breathing in, I will experience ease.' They train:
   'Breathing out, I will experience ease.'
 - They train: 'Breathing in, I will experience the mind conditioner.' They train:
@@ -176,14 +176,14 @@ body. Therefore they remain observing the body in relation to
 the body, ardent, with clear knowing, with remembering, having removed
 coveting and distress regarding the world.
 
-"Whenever a bhikkhu trains in experiencing delight, or ease, or the mind
+"Whenever a bhikkhu trains in experiencing rejoicing, or ease, or the mind
 conditioner, or in calming the mind conditioner, then they remain observing
 felt experience in relation to felt experience, ardent, with clear knowing,
 with remembering, having removed coveting and distress regarding the world.
 For, bhikkhus, I say that careful attention to the in-breaths and out-breaths
-is one kind of felt experience. Therefore they remain observing felt
-experience in relation to felt experience, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world.
+is one kind of felt experience. Therefore they remain observing felt experience
+in relation to felt experience, ardent, with clear knowing, with remembering,
+having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
 feeling mind, or bringing the feeling mind to mental composure, or freeing the
@@ -228,13 +228,13 @@ discernment, energy is aroused and does not slacken. Then the energy awakening
 factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
-"When energy is aroused, unworldly delight arises. Then the delight
+"When energy is aroused, unworldly rejoicing arises. Then the rejoicing
 awakening factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
-"When delight fills one, body and feeling mind relax. Then the relaxation
-awakening factor is aroused. They develop it, and it comes
-to fulfillment through development.
+"When rejoicing fills one, body and feeling mind relax. Then the relaxation
+awakening factor is aroused. They develop it, and it comes to fulfillment
+through development.
 
 "When the body is relaxed and they experience ease, the feeling mind comes to
 mental composure. Then the awakening factor of mental composure is aroused.
@@ -265,7 +265,7 @@ as to fulfill knowledge and release?
   on fading, based on quenching, culminating in relinquishment;
 - the energy awakening factor, based on seclusion, based on fading, based on
   quenching, culminating in relinquishment;
-- the delight awakening factor, based on seclusion, based on fading, based on
+- the rejoicing awakening factor, based on seclusion, based on fading, based on
   quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;

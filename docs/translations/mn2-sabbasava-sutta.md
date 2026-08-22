@@ -347,7 +347,7 @@ relinquishment.
 
 Reflecting wisely, he develops the energy awakening factor.
 
-Reflecting wisely, he develops the delight awakening factor.
+Reflecting wisely, he develops the rejoicing awakening factor.
 
 Reflecting wisely, he develops the relaxation awakening factor.
 

@@ -389,7 +389,7 @@ discerns how the unarisen remembering awakening factor arises, and how the
 arisen remembering awakening factor comes to fulfillment through development.
 
 The same pattern applies for the awakening factor of discernment of qualities,
-the energy awakening factor, the delight awakening factor, the relaxation
+the energy awakening factor, the rejoicing awakening factor, the relaxation
 awakening factor, the mental composure awakening factor, and the dynamic
 balance awakening factor.
 

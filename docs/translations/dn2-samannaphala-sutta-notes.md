@@ -34,7 +34,8 @@ source-audit calls, and edition notes that govern it.
 - `jhāna` remains `mental theme` throughout the fourfold sequence.
 - `samādhi` remains `mental composure`, while `cetaso ekodibhāva` keeps
   `unification of mind` in the second-theme formula.
-- The second-theme delight pair is rendered `delight and ease born of mental
+- The second-theme rejoicing pair is rendered `rejoicing and satisfaction born
+  of mental
   composure` so the formula stays aligned with the live `samādhi` policy and
   existing translation surfaces.
 - `abhiññā` remains in higher-knowing territory without spectacle language,
