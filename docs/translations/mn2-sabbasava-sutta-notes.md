@@ -136,7 +136,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `lives restrained by restraint of the eye
   faculty` and the requisites line beginning `put down old felt experience`
   belong to shared formula families and should not be naturalized here alone.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

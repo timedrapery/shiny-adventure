@@ -95,7 +95,8 @@ choices, source-audit calls, and edition notes that govern it.
   deliberate repetition.
 - Governed wording left unchanged: the repeated `For one with ... comes forth`
   path sequence remains source-facing pending any policy-level revision.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 

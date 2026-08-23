@@ -176,7 +176,8 @@ source-audit calls, and edition notes that govern it.
 - Review: improved the opening exchange, future-becoming contrast, and
   body-left-behind question; preserved the catechism frame, faculty lists,
   cessation analysis, release sequence, and deliberate repetition.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: the reciprocal `vitality remains depending on

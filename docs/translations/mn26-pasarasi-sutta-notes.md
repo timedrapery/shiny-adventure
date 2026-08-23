@@ -209,7 +209,8 @@ All governing terms for MN 26 are covered by existing lexicon records:
 - Review: improved the bathing sequence, Brahmā verse pacing, and the audible
   contrast between caught and uncaught deer; preserved the two searches,
   teacher-attainment repetitions, mental-theme sequence, and Māra refrain.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: the repeated `live having entered into it`

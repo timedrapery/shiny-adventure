@@ -63,7 +63,7 @@ Then the king said to him, "My dear Jīvaka, why are you silent?"
 staying in my mango grove together with a large Saṅgha of 1,250 bhikkhus.
 He has this good reputation:
 
-'That Blessed They are the arahant, the fully awakened Buddha, accomplished in
+'That Blessed One is the arahant, the fully awakened Buddha, accomplished in
 knowledge and conduct, holy, knower of the world, unsurpassed guide for those
 fit for training, teacher of gods and humans, awakened, blessed.'
 
@@ -258,10 +258,10 @@ make pleasure, pain, or both pleasure and pain for one another. What seven?
 The substances of earth, water, fire, air, pleasure, pain, and soul as the
 seventh.
 
-There is no one who kills or causes killing, no one who hears or causes
-hearing, no one who understands or causes understanding. If someone cuts off
-another's head with a sharp sword, no one takes a life. The sword only passes
-through the gap between the seven substances.'
+No one kills or causes killing. No one hears or causes hearing. No one
+understands or causes understanding. If someone cuts off another's head with a
+sharp sword, no one takes a life. The sword only passes through the gap between
+the seven substances.'
 
 So when I asked Pakudha Kaccāyana about a fruit of the ascetic life visible
 in this very life, he answered with something else entirely. It was like
@@ -388,13 +388,12 @@ forth, they live restrained in body, speech, and mind, content with nothing
 more than robes and almsfood, delighting in seclusion.
 
 If your men reported this to you, would you say:
-'Bring that person back to me. Let that one once more be a householder,
+'Bring that person back to me. Let them once more be a householder,
 working hard and building up wealth'?"
 
-"No, bhante. Rather, I would bow to such a person, rise for that person,
-offer a seat, and invite that person to accept robes, almsfood, lodgings, and
-medicines and supplies for the sick. I would arrange lawful guarding and
-protection."
+"No, bhante. Rather, I would bow to them, rise for them, offer them a seat,
+and invite them to accept robes, almsfood, lodgings, and medicines and supplies
+for the sick. I would arrange lawful guarding and protection."
 
 "What do you think, great king? If this is so, is there a fruit of the
 ascetic life visible in this very life or not?"
@@ -435,38 +434,40 @@ for one living at home to live the spiritual life utterly full and pure, as
 if polished like a shell. Why don't I shave off hair and beard, put on ocher
 robes, and go forth from the lay life to homelessness?'
 
-After some time, they give up a small or great fortune, gives up a small or
-great circle of relatives, shaves off hair and beard, puts on ocher robes, and
-goes forth from the lay life to homelessness.
+After some time, they give up a small or great fortune, give up a small or
+great circle of relatives, shave off hair and beard, put on ocher robes, and go
+forth from the lay life to homelessness.
 
 Once gone forth, they live restrained by restraint in the pātimokkha, of good
 conduct and proper resort, seeing danger in the slightest fault, training by
-undertaking the training rules. They act skillfully by body and speech, is
-purified in livelihood, accomplished in conduct, guards the faculties, has
-remembering and clear knowing, and is content.
+undertaking the training rules. They act skillfully by body and speech, are
+purified in livelihood, are accomplished in conduct, guard the faculties, have
+remembering and clear knowing, and are content.
 
 ## Conduct
 
 And how, great king, is a bhikkhu accomplished in conduct?
 
-They give up:
+They live like this:
 
-- killing living beings, setting aside rod and sword, living scrupulous and
-  kind, full of sympathy for all living beings
-- taking what is not given, taking only what is given, expecting only what is
-  given, living cleanly, not thieving
-- unchaste conduct, living the celibate life, set apart, avoiding sexual
-  activity
-- false speech, speaking truth, holding to truth, reliable and dependable,
-  not deceiving the world
-- divisive speech, not repeating in one place what was heard elsewhere to
-  create division, but reconciling the divided and supporting the united,
-  delighting in harmony, loving harmony, speaking words that make harmony
-- harsh speech, speaking words that are gentle, pleasing to the ear,
-  affectionate, going to the heart, courteous, agreeable, and liked by many
-- idle chatter, speaking at the proper time what is true, beneficial, and in
-  line with the Dhamma and training, words worth treasuring, timely,
-  measured, and useful
+- They give up killing living beings. They set aside rod and sword and live
+  scrupulously and kindly, full of sympathy for all living beings.
+- They give up taking what is not given. They take only what is given, expect
+  only what is given, and live cleanly, without stealing.
+- They give up unchaste conduct. They live the celibate life, set apart,
+  avoiding sexual activity.
+- They give up false speech. They speak truth, hold to truth, remain reliable
+  and dependable, and do not deceive the world.
+- They give up divisive speech. They do not repeat in one place what they heard
+  elsewhere to create division. Instead, they reconcile the divided, support
+  the united, delight in harmony, love harmony, and speak words that make
+  harmony.
+- They give up harsh speech. They speak words that are gentle, pleasing to the
+  ear, affectionate, going to the heart, courteous, agreeable, and liked by
+  many.
+- They give up idle chatter. At the proper time, they speak what is true,
+  beneficial, and in line with the Dhamma and training: words worth treasuring,
+  timely, measured, and useful.
 
 They refrain from:
 
@@ -487,8 +488,8 @@ They refrain from:
 
 This is the shorter section on conduct.
 
-One also refrains from further kinds of behavior that others still engage in
-while living on food given in faith:
+A bhikkhu also refrains from further kinds of behavior that others still
+engage in while living on food given in faith:
 
 - injuring plants and seeds of all kinds
 - storing up food, drink, clothes, vehicles, bedding, scents, and fleshly
@@ -512,8 +513,8 @@ while living on food given in faith:
 
 This is the middle section on conduct.
 
-One also refrains from wrong livelihood through low arts and low lore, such
-as:
+A bhikkhu also refrains from wrong livelihood through low arts and low lore,
+such as:
 
 - augury, omen-reading, interpreting portents and dreams, reading bodily
   marks, mouse-chewed cloth, and sacrificial signs
@@ -533,9 +534,8 @@ as:
   emetics, expectorants, oils, salves, eye-medicines, nasal treatment, needle
   and scalpel work, children's remedies, roots, and herbal bandages
 
-Seeing no danger anywhere with regard to this ethical restraint, a bhikkhu
-experiences blameless ease within. That is how a bhikkhu is accomplished in
-conduct.
+Seeing no danger anywhere in this ethical restraint, a bhikkhu experiences
+blameless ease within. That is how a bhikkhu is accomplished in conduct.
 
 ## Guarding the Faculties
 
@@ -544,7 +544,7 @@ And how does a bhikkhu guard the faculties?
 When seeing a visible form with the eye, they do not get caught up in its
 features and details. If the eye-faculty were left unguarded, harmful and
 unwholesome states of coveting and distress would flood in. So they practice
-restraint, guard the eye-faculty, and reach restraint with regard to it.
+restraint, guard the eye-faculty, and keep it restrained.
 
 The same applies when hearing a sound with the ear, smelling an odor with the
 nose, tasting a flavor with the tongue, experiencing a touch with the body,
@@ -783,7 +783,7 @@ They wield many kinds of psychic power:
 
 It is like a skilled potter with well-prepared clay, a skilled ivory-worker
 with well-prepared ivory, or a skilled goldsmith with well-prepared gold:
-each could make from the material whatever kind of item one wished.
+each could make from the material whatever kind of item they wished.
 
 In the same way, a bhikkhu wields many kinds of psychic power.
 
@@ -920,14 +920,14 @@ When the mind is mentally composed like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the wearing away of the outflows.
 
-One directly understands as it really is:
+They directly understand as it really is:
 
 - `This is dissatisfaction.`
 - `This is the origin of dissatisfaction.`
 - `This is the quenching of dissatisfaction.`
 - `This is the path of practice leading to the quenching of dissatisfaction.`
 
-One directly understands as it really is:
+They directly understand as it really is:
 
 - `These are the outflows.`
 - `This is the origin of the outflows.`
@@ -999,7 +999,7 @@ his right side before leaving.
 
 Soon after the king had left, the Buddha addressed the bhikkhus:
 
-"Broken is the king, bhikkhus. Ruined is the king. If he had not killed his
+"The king is broken, bhikkhus. The king is ruined. If he had not killed his
 father, a just and principled king, then in that very seat the dustless,
 stainless Dhamma-eye would have arisen in him."
 
@@ -1012,6 +1012,7 @@ Buddha had said.
 
 
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.

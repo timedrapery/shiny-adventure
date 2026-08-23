@@ -116,7 +116,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: the final `Think like this` instruction and
   `feeling mind` / `mental theme` vocabulary remain repository-level choices
   and were not replaced with more familiar meditation language.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

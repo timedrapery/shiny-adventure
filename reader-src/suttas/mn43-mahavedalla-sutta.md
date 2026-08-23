@@ -30,9 +30,9 @@ At one time the Buddha was staying near Sāvatthī, in Jeta's Grove,
 Anāthapiṇḍika's park.
 
 Then in the late afternoon Venerable Mahākoṭṭhika came out of seclusion and
-went to Venerable Sāriputta. He exchanged greetings with him, and after
-sharing a courteous and memorable conversation, sat to one side. Sitting
-there, he said to Venerable Sāriputta:
+went to Venerable Sāriputta. They exchanged greetings and shared a courteous,
+memorable conversation. Then Mahākoṭṭhika sat to one side and said to
+Sāriputta:
 
 ## Poor In Discernment
 
@@ -216,19 +216,15 @@ and benefit."
 "Friend, there are these three kinds of becoming: sensual existence, form
 existence, and formless existence."
 
-"Friend, how does the production of renewed becoming in the future come to
-be?"
+"Friend, how does renewed becoming arise in the future?"
 
-"Friend, for beings hindered by ignorance and fettered by ignorant wanting,
-delighting now here and now there: that is how the production of renewed
-becoming in the future comes to be."
+"Friend, for beings hindered by ignorance, fettered by ignorant wanting, and
+delighting now here and now there, renewed becoming arises in the future."
 
-"Friend, how does the production of renewed becoming in the future not come to
-be?"
+"Friend, how does renewed becoming not arise in the future?"
 
-"Friend, with the fading of ignorance, the arising of true knowledge, and the
-quenching of ignorant wanting: that is how the production of renewed becoming
-in the future does not come to be."
+"Friend, when ignorance fades, true knowledge arises, and ignorant wanting is
+quenched, renewed becoming does not arise in the future."
 
 ## The First Mental Theme
 
@@ -356,8 +352,8 @@ entered the cessation of recognition and felt experience."
 
 ## When the Body Is Left Behind
 
-"Friend, when how many dhammas leave this body does it lie discarded and cast
-aside like an unfeeling log?"
+"How many dhammas must leave this body, friend, before it lies discarded and
+cast aside like an unfeeling log?"
 
 "Friend, when three dhammas leave this body -- vitality, warmth, and knowing
 -- it lies discarded and cast aside like an unfeeling log."
@@ -563,7 +559,6 @@ had said.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.

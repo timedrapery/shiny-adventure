@@ -115,7 +115,8 @@ finally governs running text.
 - Review result: the direct source questions and repeated answers make the
   nutriment sequence hearable; the governed dependent-arising chain remains
   unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

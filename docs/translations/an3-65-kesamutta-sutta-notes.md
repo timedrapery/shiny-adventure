@@ -158,7 +158,8 @@ source-audit calls, and edition notes that govern it.
 - Review result: the Kālāmas' uncertainty, the Buddha's validating answer,
   and the welfare / harm questions already form a natural conversation; the
   ten criteria and four consolations retain their intentional repetition.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

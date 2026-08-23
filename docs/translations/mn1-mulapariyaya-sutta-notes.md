@@ -111,7 +111,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `sphere of
   neither-recognition-nor-non-recognition` and the full-understanding refrains
   must be revised through their controlling records, not on MN 1 alone.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

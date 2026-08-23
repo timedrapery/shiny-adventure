@@ -51,11 +51,10 @@ to bathe."
 
 "Yes, Bhante," Ānanda replied.
 
-So the Buddha went with Ānanda to the eastern gate to bathe. Having
-bathed and emerged from the water, he stood in a single robe, drying his
-limbs. Then Venerable Ānanda said: "Bhante, the brahmin Rammaka's hermitage
-is nearby. It is delightful, beautiful. Bhante, may the Buddha visit it
-out of compassion."
+So the Buddha went with Ānanda to the eastern gate to bathe. After bathing, he
+came out of the water and stood in a single robe, drying his limbs. Then
+Venerable Ānanda said: "Bhante, the brahmin Rammaka's hermitage is nearby. It
+is delightful, beautiful. Bhante, may the Buddha visit it out of compassion."
 
 The Buddha consented with silence.
 
@@ -172,9 +171,9 @@ beard, put on ochre robes, and went forth from home into homelessness.
 
 ## Āḷāra Kālāma
 
-Having gone forth in search of the good, seeking the supreme resting-place of
-peace, I went to Āḷāra Kālāma and said: "Reverend Kālāma, I wish to live the
-spiritual life in this teaching and training."
+Once I had gone forth in search of the good, seeking the supreme resting-place
+of peace, I went to Āḷāra Kālāma and said: "Reverend Kālāma, I wish to live
+the spiritual life in this teaching and training."
 
 Āḷāra Kālāma replied: "Stay, venerable. This teaching is such that a sensible
 person can soon realize their own teacher's tradition with their own higher
@@ -349,14 +348,22 @@ understand the Dhamma!"
 
 That is what Brahmā Sahampati said. Then he said further:
 
-> Among the Magadhans there appeared in the past > a teaching thought up by
-those stained with impurity. > Open wide the door to the deathless! > Let them
-hear the Dhamma found by the stainless one. > > As someone standing on a rocky
-summit > can see the people all around — > so too, Wise One, All-Seeing, >
-ascending the palace of Dhamma, > look upon the people swamped in sorrow, >
-yourself sorrowless, overcome by birth and aging. > > Rise, hero! Victor in
-battle, > caravan-leader, free of debt, wander the world. > Let the Buddha
-teach the Dhamma — > there will be those who understand!
+> Among the Magadhans there appeared in the past
+> a teaching thought up by those stained with impurity.
+> Open wide the door to the deathless!
+> Let them hear the Dhamma found by the stainless one.
+>
+> As someone standing on a rocky summit
+> can see the people all around —
+> so too, Wise One, All-Seeing,
+> ascending the palace of Dhamma,
+> look upon the people swamped in sorrow,
+> yourself sorrowless, overcome by birth and aging.
+>
+> Rise, hero! Victor in battle,
+> caravan-leader, free of debt, wander the world.
+> Let the Buddha teach the Dhamma —
+> there will be those who understand!
 
 ## The Lotus Simile
 
@@ -550,38 +557,36 @@ connected to sensual pleasure, arousing. These are the five strands of sensual
 pleasure.
 
 Those recluses or brahmins who indulge in these five strands of sensual
-pleasure tied, infatuated, and immersed in them, not seeing the danger, without
-the discernment of escape — they should be understood as: having met with
-calamity and disaster, subject to the Wicked Their will.
+pleasure, tied, infatuated, and immersed in them, not seeing the danger, without
+the discernment of escape — understand that they have met with calamity and
+disaster and are subject to the Wicked One's will.
 
-Suppose a wild deer was lying in the wilderness caught on a heap of snares. It
-should be understood as: having met with calamity and disaster, subject to the
-hunter's will. And when the hunter arrives, it cannot go wherever it wishes.
+Suppose a wild deer lies in the wilderness, caught on a heap of snares.
+Understand that it has met with calamity and disaster and is subject to the
+hunter's will. When the hunter arrives, it cannot go wherever it wishes.
 
 In the same way, those recluses or brahmins who indulge in these five strands
-of sensual pleasure tied, infatuated, and immersed in them, not seeing the
-danger, without the discernment of escape — they should be understood as:
-having met with calamity and disaster, subject to the Wicked Their will.
+of sensual pleasure, tied, infatuated, and immersed in them, not seeing the
+danger, without the discernment of escape — understand that they have met with
+calamity and disaster and are subject to the Wicked One's will.
 
 Those recluses or brahmins, however, who indulge in these five strands of
 sensual pleasure without being tied, infatuated, or immersed in them, seeing
-the danger, with the discernment of escape — they should be understood as:
-having not met with calamity and disaster, not subject to the Wicked Their
-will.
+the danger, with the discernment of escape — understand that they have met with
+neither calamity nor disaster and are not subject to the Wicked One's will.
 
-Suppose a wild deer was lying in the wilderness on a heap of snares without
-being caught. It should be understood as: having not met with calamity and
-disaster, not subject to the hunter's will. And when the hunter arrives, it
-can go wherever it wishes.
+Suppose a wild deer lies in the wilderness on a heap of snares without being
+caught. Understand that it has met with neither calamity nor disaster and is
+not subject to the hunter's will. When the hunter arrives, it can go wherever
+it wishes.
 
 In the same way, those recluses or brahmins who indulge in these five strands
 of sensual pleasure without being tied, infatuated, or immersed in them, seeing
-the danger, with the discernment of escape — they should be understood as:
-having not met with calamity and disaster, not subject to the Wicked Their
-will.
+the danger, with the discernment of escape — understand that they have met with
+neither calamity nor disaster and are not subject to the Wicked One's will.
 
-Suppose a wild deer were wandering in the forest, walking, standing, sitting,
-and lying down in confidence. Why? Because it is beyond the hunter's range.
+Suppose a wild deer wanders in the forest, walking, standing, sitting, and
+lying down in confidence. Why? Because it is beyond the hunter's range.
 
 ## Blinding Māra: The Mental Themes and Beyond
 
@@ -647,13 +652,13 @@ a trace, and to have gone where the Wicked One cannot see.
 
 Furthermore, bhikkhus, going completely beyond the sphere of
 neither-recognition-nor-non-recognition, a bhikkhu enters and remains in the
-cessation of recognition and felt experience. And having seen with discernment,
-their outflows are exhausted.
+cessation of recognition and felt experience. When they see this with
+discernment, their outflows are exhausted.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without a
 trace, and to have gone where the Wicked One cannot see. They have crossed over
 the world's entanglement. They walk, stand, sit, and lie down in confidence.
-Why? Because they are beyond the Wicked Their range."
+Why? Because they are beyond the Wicked One's range."
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
 Buddha's words.

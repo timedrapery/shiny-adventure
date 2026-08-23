@@ -145,7 +145,8 @@ whole.
   `OSF-AV-6`, `OSF-AV-7`
 - Review result: each basis of power follows the same audible sequence, so the
   changed support stands out while the exertion refrain stays stable.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

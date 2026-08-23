@@ -115,7 +115,8 @@ have sufficient lexicon coverage:
 - Review result: the four horse cases were recast as short actions—what the
   horse sees, when the goad reaches it, and how it responds—while all four
   levels and the urgency / striving comparison remain intact.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

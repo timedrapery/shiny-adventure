@@ -121,7 +121,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Review: improved the arrival, water-vessel action, and war-elephant pacing;
   preserved the direct Rāhula dialogue, all three action cycles, the
   before/during/after sequence, and intentional repetition.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: `with dissatisfaction as its outcome,

@@ -3,7 +3,13 @@
 ## Status
 
 - Profile version: `osf-spoken-v1-pilot`
-- Pilot surface: `SN 36.6`
+- Rollout scope: every translation surface registered in
+  [`scripts/surface_registry.py`](../scripts/surface_registry.py), as of
+  2026-08-22
+- Original calibration surface: `SN 36.6`
+- Review status: `pilot`
+- Human approval gates: editor read-aloud and newcomer-comprehension review
+  are still pending
 - Governing standard:
   [PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md)
 - Evidence manifest:
@@ -11,7 +17,9 @@
 
 This profile governs sentence-level spoken English in OSF translation
 surfaces. It does not override the Pali, a term record, a phrase record, or a
-documented ambiguity.
+documented ambiguity. Corpus-wide coverage records which bodies received this
+pass; it does not mean that Dhammarato, Alexander H, or newcomer readers have
+approved them.
 
 ## Source Hierarchy
 

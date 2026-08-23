@@ -35,9 +35,9 @@ The Buddha said this:
 ## The Dependent-Arising Sequence
 
 "Bhikkhus, I will teach and analyze dependent arising for you. Listen
-carefully, attend well, and I will speak."
+carefully and pay close attention. I will speak."
 
-"Yes, bhante," the bhikkhus replied.
+"Yes, Bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -261,7 +261,6 @@ Buddha had said.
 
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[ageing and dying]: Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.
-*[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.

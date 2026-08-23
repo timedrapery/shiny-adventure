@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate spoken-voice source provenance and sparse surface review state."""
+"""Validate spoken-voice source provenance for every registered surface."""
 
 from __future__ import annotations
 
@@ -196,6 +196,7 @@ def review_failures(
     for surface in surfaces:
         review = surface.spoken_voice_review
         if review is None:
+            failures.append(f"{surface.label}: missing spoken_voice_review")
             continue
         prefix = surface.label
         if review.profile != PROFILE:

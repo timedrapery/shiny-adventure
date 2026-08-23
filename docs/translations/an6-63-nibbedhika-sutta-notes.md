@@ -123,7 +123,8 @@ and `cetanā`.
 - Review result: the repeated six-question framework keeps each topic
   predictable and hearable; the action-as-intention line and governed topic
   vocabulary remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

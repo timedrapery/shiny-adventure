@@ -116,7 +116,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: the fourfold `source / origin / born from /
   produces` question and the four `taking ... personally` compounds must stay
   synchronized with their controlling records.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

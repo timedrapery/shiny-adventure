@@ -129,7 +129,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `whose view has become direct` and the
   repeated liberation refrain remain controlled formula language and were not
   paraphrased for local smoothness.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

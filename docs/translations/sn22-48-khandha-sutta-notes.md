@@ -85,7 +85,8 @@ source-audit calls, and edition notes that govern it.
 - Review result: the two five-part lists keep identical cadence so the added
   `with outflows and fit to be taken personally` clause is easy to hear; the
   governed heap labels remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

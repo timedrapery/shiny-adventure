@@ -135,7 +135,8 @@ have sufficient lexicon coverage:
 - Review result: the question-and-answer sequence and rain simile carry the
   long progression in spoken steps; the repeated governed links remain
   stable and intentionally repetitive.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

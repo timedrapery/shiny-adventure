@@ -39,7 +39,7 @@ The Buddha said this:
 
 "Bhikkhus, people recognize you as recluses. And when asked what you are, you
 claim to be recluses. Given this recognition and this claim, you should train
-like this: 'We will undertake and follow the qualities that make one a recluse
+like this: 'We will undertake and follow the qualities expected of a recluse
 and a brahmin. In this way our recognition will be accurate and our claim
 true. The services of those whose robes, alms-food, lodgings, medicines, and
 supplies for the sick we enjoy will be very fruitful and beneficial for them.
@@ -48,7 +48,7 @@ worthwhile.'
 
 So you should train, bhikkhus.
 
-And what are the qualities that make one a recluse and a brahmin?
+And what qualities are expected of a recluse and a brahmin?
 
 You should train like this: 'We will be possessed of conscience and concern.'
 
@@ -219,8 +219,8 @@ purify the feeling mind of dull distraction.
 Giving up agitated distraction, they remain without agitation, the feeling
 mind inwardly stilled, and purify the feeling mind of agitated distraction.
 
-Giving up uncertain distraction, they remain having crossed over uncertainty,
-with no wavering over skillful qualities, and purify the feeling mind of
+Giving up uncertain distraction, they have crossed over uncertainty. They do
+not waver over skillful qualities, and they purify the feeling mind of
 uncertain distraction.
 
 ## Five Similes for the Distractions

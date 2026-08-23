@@ -105,7 +105,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   teaching ...` sequence and the third-theme saying `One of dynamic balance and
   remembering stays at ease` remain source-facing pending any policy-level
   revision.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 

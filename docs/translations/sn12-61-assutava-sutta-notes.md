@@ -102,7 +102,8 @@ They are now used verbatim:
 - Review result: the body-and-mind contrast, repeated `Why is that?` movement,
   and monkey simile already follow the spoken profile; the governed
   conditionality formulas remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

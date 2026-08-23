@@ -31,16 +31,16 @@ Anāthapiṇḍika's monastery.
 ## Sāti's Wrong View
 
 Now at that time a bhikkhu called Sāti, the fisherman's son, had developed the
-following pernicious view: "As I understand the teaching taught by the Buddha, it is this very knowing that roams and transmigrates, not another."
+following pernicious view: "As I understand the Buddha's teaching, it is this
+very knowing that roams and transmigrates, not another."
 
 Several bhikkhus heard this rumour. They went to the bhikkhu Sāti and said:
 "Is it really true, Reverend Sāti, that you hold this pernicious view: 'As I
-understand the teaching taught by the Buddha, it is this very knowing that
-roams and transmigrates, not another'?"
+understand the Buddha's teaching, it is this very knowing that roams and
+transmigrates, not another'?"
 
-"It is exactly so, reverends. As I understand the teaching taught by the
-Buddha, it is this very knowing that roams and transmigrates, not
-another."
+"It is exactly so, reverends. As I understand the Buddha's teaching, it is this
+very knowing that roams and transmigrates, not another."
 
 Then, wishing to dissuade the bhikkhu Sāti from this pernicious view, those
 bhikkhus pressed him, challenged him, and argued with him: "Do not say that,
@@ -51,15 +51,15 @@ Without a condition there is no arising of knowing."
 
 But even when pressed, challenged, and argued with in this way, the bhikkhu
 Sāti held to that pernicious view stubbornly, insisting on it: "It is exactly
-so, reverends. As I understand the teaching taught by the Buddha, it is
-this very knowing that roams and transmigrates, not another."
+so, reverends. As I understand the Buddha's teaching, it is this very knowing
+that roams and transmigrates, not another."
 
 When those bhikkhus were unable to dissuade the bhikkhu Sāti from that
 pernicious view, they went to the Buddha, bowed, sat to one side, and
 told him what had happened: "Bhante, a bhikkhu called Sāti, the fisherman's
-son, has developed this pernicious view: 'As I understand the teaching taught
-by the Buddha, it is this very knowing that roams and transmigrates, not
-another.' We went to him and said: 'Do not say that, Reverend Sāti. Do not
+son, has developed this pernicious view: 'As I understand the Buddha's
+teaching, it is this very knowing that roams and transmigrates, not another.'
+We went to him and said: 'Do not say that, Reverend Sāti. Do not
 misrepresent the Buddha — misrepresenting the Buddha is not good,
 and the Buddha would not say that. In many ways, Reverend Sāti, the
 Buddha has said that knowing is dependently arisen. Without a condition
@@ -75,11 +75,11 @@ tell the bhikkhu Sāti that the teacher summons him."
 
 "Yes, reverend," the bhikkhu Sāti replied. He went to the Buddha, bowed,
 and sat to one side. The Buddha said to him: "Is it really true, Sāti,
-that you hold this pernicious view: 'As I understand the teaching taught by the
-Buddha, it is this very knowing that roams and transmigrates, not
-another'?"
+that you hold this pernicious view: 'As I understand the Buddha's teaching, it
+is this very knowing that roams and transmigrates, not another'?"
 
-"It is exactly so, Bhante. As I understand the teaching taught by the Buddha, it is this very knowing that roams and transmigrates, not another."
+"It is exactly so, Bhante. As I understand the Buddha's teaching, it is this
+very knowing that roams and transmigrates, not another."
 
 "What knowing, Sāti?"
 
@@ -609,19 +609,20 @@ full and utterly pure.
 
 ## Going Forth and the Training
 
-A householder hears that Dhamma, or a householder's child, or one born into a
-family. Having heard it, they gain confidence in the Tathāgata. Armed with
-that gained confidence, they reflect: 'Household life is cramped and dusty; the
-going-forth is wide open. It is not easy for one living at home to live the
-spiritual life perfectly full and perfectly pure, like a polished shell. Why not
-shave off hair and beard, put on ochre robes, and go forth from home into
+A householder hears that Dhamma, or a householder's child, or someone born into
+a family. When they hear it, they gain confidence in the Tathāgata. With that
+confidence, they reflect: 'Household life is cramped and dusty; the going-forth
+is wide open. It is not easy for someone living at home to live the spiritual
+life perfectly full and perfectly pure, like a polished shell. Why not shave
+off hair and beard, put on ochre robes, and go forth from home into
 homelessness?'
 
 At some later time they give up a small or large fortune, give up a small or
 large circle of kin, shave off hair and beard, put on ochre robes, and go forth
 from home into homelessness.
 
-Having gone forth, they take up the training and livelihood of the bhikkhus.
+Once they have gone forth, they take up the training and livelihood of the
+bhikkhus.
 Abandoning the taking of life, they refrain from taking life — laying down the
 rod and the sword, scrupulous, full of care, compassionate toward all living
 beings. Abandoning the taking of what is not given, they refrain — taking only
@@ -707,9 +708,9 @@ rid of dullness and drowsiness, perceiving light, remembering and clearly
 knowing, cleansing the feeling mind of dullness and drowsiness. Abandoning
 restlessness and remorse, they live unrestless, with the feeling mind inwardly
 at peace, cleansing the feeling mind of restlessness and remorse. Abandoning
-uncertain distraction, they live having crossed beyond uncertain distraction,
-not undecided about wholesome qualities, cleansing the feeling mind of
-uncertain distraction.
+uncertain distraction, they have crossed beyond uncertainty. They are no
+longer undecided about wholesome qualities, and they cleanse the feeling mind
+of uncertain distraction.
 
 They have abandoned these five distractions, the corruptions of the feeling
 mind that weaken discernment. Then, secluded from sense pleasures, secluded

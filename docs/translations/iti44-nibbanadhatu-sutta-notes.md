@@ -184,7 +184,8 @@ its own, so the reader meets the discourse the way the collection presents it.
 - Review result: the prose asks and answers what the two elements are before
   the verse restates the contrast; the remainder / no-remainder distinction
   and governed nibbāna vocabulary remain explicit.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

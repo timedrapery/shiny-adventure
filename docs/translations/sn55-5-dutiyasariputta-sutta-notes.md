@@ -93,7 +93,8 @@ choices, source-audit calls, and edition notes that govern it.
 - Review result: the Buddha and Sāriputta exchange short, real questions and
   answers; the repeated definitions are preserved so the practical sequence
   can be heard and remembered.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

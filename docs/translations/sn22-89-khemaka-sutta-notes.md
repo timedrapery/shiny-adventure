@@ -122,7 +122,8 @@ source-audit calls, and edition notes that govern it.
 - Review result: the messenger exchange, Khemaka's interruption, and the two
   concrete scent similes already sound like a live discussion; the exact
   `I am` / `I am this` distinction is preserved.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

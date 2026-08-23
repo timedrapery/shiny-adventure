@@ -111,7 +111,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   three-establishments formula pending any policy-level revision; the
   source-facing `has not conquered the bounds or the results` line also remains
   unchanged.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 
