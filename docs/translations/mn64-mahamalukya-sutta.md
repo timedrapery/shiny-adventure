@@ -44,13 +44,13 @@ The Buddha said this:
 
 ### Mālukyaputta's List
 
-"Bhikkhus, do you remember the five lower fetters taught by me?"
+"Bhikkhus, do you remember the five lower fetters I have taught?"
 
 When this was said, Venerable Mālukyaputta said to the Buddha:
 
-"Bhante, I remember the five lower fetters taught by the Buddha."
+"Bhante, I remember the five lower fetters the Buddha has taught."
 
-"But, Mālukyaputta, how do you remember the five lower fetters taught by me?"
+"But, Mālukyaputta, how do you remember the five lower fetters I have taught?"
 
 "Bhante, I remember identity view as a lower fetter taught by the Buddha.
 
@@ -107,7 +107,8 @@ tender infant?"
 When this was said, Venerable Ānanda said to the Buddha:
 
 "Now is the time, Blessed One. Now is the time, Fortunate One, for the
-Buddha to teach the five lower fetters. Having heard it from the Buddha, the bhikkhus will remember it."
+Buddha to teach the five lower fetters. Once the bhikkhus have heard it from
+the Buddha, they will remember it."
 
 "Then, Ānanda, listen carefully, attend well, and I will speak."
 
@@ -207,8 +208,8 @@ That is not possible.
 
 It is like saying:
 
-'Without cutting the bark and cutting the sapwood of a great standing tree
-with heartwood, there will be a cutting of the heartwood.'
+'I will cut the heartwood from a great standing tree without first cutting
+through its bark and sapwood.'
 
 That is not possible.
 
@@ -225,8 +226,8 @@ That is possible.
 
 It is like saying:
 
-'After cutting the bark and cutting the sapwood of a great standing tree with
-heartwood, there will be a cutting of the heartwood.'
+'I will cut the heartwood from a great standing tree after first cutting
+through its bark and sapwood.'
 
 That is possible.
 
@@ -362,8 +363,8 @@ bhikkhu enters and remains in the sphere of boundless knowing, aware that
 'knowing is boundless.'
 
 Whatever is there connected with felt experience, recognition, putting things
-together, and knowing, they observe those dhammas in the same way, turns the
-feeling mind back from those dhammas, and brings it to the element of the
+together, and knowing, they observe those dhammas in the same way, turn the
+feeling mind back from those dhammas, and bring it to the element of the
 deathless.
 
 Standing there, they reach the wearing away of the outflows. But if they do not
@@ -380,8 +381,8 @@ bhikkhu enters and remains in the sphere of nothingness, aware that 'there is
 nothing.'
 
 Whatever is there connected with felt experience, recognition, putting things
-together, and knowing, they observe those dhammas in the same way, turns the
-feeling mind back from those dhammas, and brings it to the element of the
+together, and knowing, they observe those dhammas in the same way, turn the
+feeling mind back from those dhammas, and bring it to the element of the
 deathless.
 
 Standing there, they reach the wearing away of the outflows. But if they do not
@@ -395,11 +396,11 @@ five lower fetters."
 
 ### Release of Mind and Release Through Discernment
 
-"Bhante, if this is the path, this is the way of practice for abandoning the
-five lower fetters, then why are some bhikkhus those with release of mind and
-some bhikkhus those with release through discernment?"
+"Bhante, if this is the path and the way of practice for abandoning the five
+lower fetters, why do some bhikkhus have release of mind while others have
+release through discernment?"
 
-"Here, Ānanda, I say this is due to the difference in faculties."
+"Here, Ānanda, I say the difference is in their faculties."
 
 That is what the Buddha said.
 

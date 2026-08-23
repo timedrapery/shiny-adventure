@@ -147,6 +147,22 @@ source-audit calls, and edition notes that govern it.
 - The repeated practice formula is translated in full once and then compressed
   where the Pali itself abbreviates with ellipses.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass made the opening exchange, tree simile, and final question and
+  answer easier to hear, and repaired two broken verb sequences. It preserved
+  the lower-fetter, underlying-tendency, mental-theme, formless-sphere, and
+  release formulas and their intentional repetition.
+- Governed wording left unchanged: `discerns its escape as it has come to be`
+  remains source-facing pending any future policy-level revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's MN

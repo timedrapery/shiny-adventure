@@ -85,6 +85,23 @@ source-audit calls, and edition notes that govern it.
   list-level decisions, and future edition guidance rather than repeat the
   main file line by line.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass clarified speaker movement, simplified the Naḷakāra exchange,
+  repaired the chaste-conduct and support sentences, and removed ambiguous
+  pronouns. It preserved the five-dhamma argument, distraction and mental-theme
+  formulas, divine-abiding sequence, and intentional question-and-answer
+  repetition.
+- Governed wording left unchanged: `On this point, student, I analyze. I do not
+  speak one-sidedly` remains the controlled answer to Subha's either-or claim.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first study edition of the repo's

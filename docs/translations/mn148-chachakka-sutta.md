@@ -53,7 +53,7 @@ classes of ignorant wanting are to be known.
 
 "'The six internal fields are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 The eye sense field, the ear sense field, the nose sense field, the tongue
 sense field, the body sense field, and the mind sense field.
@@ -64,7 +64,7 @@ This is the first set of six.
 
 "'The six external fields are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 The form sense field, the sound sense field, the smell sense field, the taste
 sense field, the tangible sense field, and the dhamma sense field.
@@ -75,7 +75,7 @@ This is the second set of six.
 
 "'The six classes of knowing are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 Dependent on eye and visible forms, eye-knowing arises.
 
@@ -95,7 +95,7 @@ This is the third set of six.
 
 "'The six classes of contact are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact.
@@ -121,7 +121,7 @@ This is the fourth set of six.
 
 "'The six classes of felt experience are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, felt experience.
@@ -148,7 +148,7 @@ This is the fifth set of six.
 
 "'The six classes of ignorant wanting are to be known': that was said.
 
-And because of what was it said?
+What did that refer to?
 
 Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, felt experience. With felt
@@ -172,8 +172,8 @@ This is the sixth set of six."
 
 The arising and vanishing of the eye are evident.
 
-For one to whom the arising and vanishing of the eye are evident, it would
-follow: 'my self arises and vanishes.'
+If the arising and vanishing of the eye are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'the eye is self.'
 
@@ -183,8 +183,8 @@ If anyone were to say, 'visible forms are self,' that would not hold.
 
 The arising and vanishing of visible forms are evident.
 
-For one to whom the arising and vanishing of visible forms are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of visible forms are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'visible forms are self.'
 
@@ -194,8 +194,8 @@ If anyone were to say, 'eye-knowing is self,' that would not hold.
 
 The arising and vanishing of eye-knowing are evident.
 
-For one to whom the arising and vanishing of eye-knowing are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of eye-knowing are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'eye-knowing is self.'
 
@@ -206,8 +206,8 @@ If anyone were to say, 'eye-contact is self,' that would not hold.
 
 The arising and vanishing of eye-contact are evident.
 
-For one to whom the arising and vanishing of eye-contact are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of eye-contact are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'eye-contact is self.'
 
@@ -218,8 +218,8 @@ If anyone were to say, 'felt experience is self,' that would not hold.
 
 The arising and vanishing of felt experience are evident.
 
-For one to whom the arising and vanishing of felt experience are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of felt experience are evident to someone, it
+would follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'felt experience is self.'
 
@@ -230,8 +230,8 @@ If anyone were to say, 'ignorant wanting is self,' that would not hold.
 
 The arising and vanishing of ignorant wanting are evident.
 
-For one to whom the arising and vanishing of ignorant wanting are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of ignorant wanting are evident to someone, it
+would follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'ignorant wanting is self.'
 
@@ -249,8 +249,8 @@ If anyone were to say, 'mind is self,' that would not hold.
 
 The arising and vanishing of mind are evident.
 
-For one to whom the arising and vanishing of mind are evident, it would
-follow: 'my self arises and vanishes.'
+If the arising and vanishing of mind are evident to someone, it would follow:
+'My self arises and vanishes.'
 
 So it would not hold to say: 'mind is self.'
 
@@ -260,8 +260,8 @@ If anyone were to say, 'dhammas are self,' that would not hold.
 
 The arising and vanishing of dhammas are evident.
 
-For one to whom the arising and vanishing of dhammas are evident, it would
-follow: 'my self arises and vanishes.'
+If the arising and vanishing of dhammas are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'dhammas are self.'
 
@@ -271,8 +271,8 @@ If anyone were to say, 'mind-knowing is self,' that would not hold.
 
 The arising and vanishing of mind-knowing are evident.
 
-For one to whom the arising and vanishing of mind-knowing are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of mind-knowing are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'mind-knowing is self.'
 
@@ -282,8 +282,8 @@ If anyone were to say, 'mind-contact is self,' that would not hold.
 
 The arising and vanishing of mind-contact are evident.
 
-For one to whom the arising and vanishing of mind-contact are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of mind-contact are evident to someone, it would
+follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'mind-contact is self.'
 
@@ -294,8 +294,8 @@ If anyone were to say, 'felt experience is self,' that would not hold.
 
 The arising and vanishing of felt experience are evident.
 
-For one to whom the arising and vanishing of felt experience are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of felt experience are evident to someone, it
+would follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'felt experience is self.'
 
@@ -306,8 +306,8 @@ If anyone were to say, 'ignorant wanting is self,' that would not hold.
 
 The arising and vanishing of ignorant wanting are evident.
 
-For one to whom the arising and vanishing of ignorant wanting are evident, it
-would follow: 'my self arises and vanishes.'
+If the arising and vanishing of ignorant wanting are evident to someone, it
+would follow: 'My self arises and vanishes.'
 
 So it would not hold to say: 'ignorant wanting is self.'
 
@@ -419,9 +419,9 @@ When mixed feeling touches them, they do not discern that feeling's arising and 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
-pleasant feeling, has not driven out the underlying tendency toward resistance
-in painful feeling, has not uprooted the underlying tendency toward ignorance
-in mixed feeling, has not abandoned ignorance, and has not brought up
+pleasant feeling, have not driven out the underlying tendency toward resistance
+in painful feeling, have not uprooted the underlying tendency toward ignorance
+in mixed feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life.
 
@@ -445,9 +445,9 @@ When mixed feeling touches them, they do not discern that feeling's arising and 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
-pleasant feeling, has not driven out the underlying tendency toward resistance
-in painful feeling, has not uprooted the underlying tendency toward ignorance
-in mixed feeling, has not abandoned ignorance, and has not brought up
+pleasant feeling, have not driven out the underlying tendency toward resistance
+in painful feeling, have not uprooted the underlying tendency toward ignorance
+in mixed feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life."
 
@@ -471,9 +471,9 @@ vanishing, gratification, danger, and escape as they have come to be.
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
-pleasant feeling, has driven out the underlying tendency toward resistance in
-painful feeling, has uprooted the underlying tendency toward ignorance in mixed
-feeling, has abandoned ignorance, and has brought up knowledge, there is the
+pleasant feeling, have driven out the underlying tendency toward resistance in
+painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
@@ -497,9 +497,9 @@ vanishing, gratification, danger, and escape as they have come to be.
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
-pleasant feeling, has driven out the underlying tendency toward resistance in
-painful feeling, has uprooted the underlying tendency toward ignorance in mixed
-feeling, has abandoned ignorance, and has brought up knowledge, there is the
+pleasant feeling, have driven out the underlying tendency toward resistance in
+painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life."
 
 ### Disenchantment, Fading, and Release

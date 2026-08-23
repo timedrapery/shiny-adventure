@@ -131,6 +131,23 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Keep any future terminology changes synchronized between the main translation
   and this note file.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass clarified the assembly's travel image and repaired the subject and
+  verb movement through the awakening-factor sequence. It preserved the
+  sixteen trainings, the four establishments of sati, the seven awakening
+  factors, and the governed breathing and conditioner formulas.
+- Governed wording left unchanged: the shared `having gone to the wilderness`
+  setup and the repeated `observing ... in relation to ...` lines remain
+  source-facing pending any policy-level revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

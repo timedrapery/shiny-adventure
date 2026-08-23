@@ -115,6 +115,24 @@ source-audit calls, and edition notes that govern it.
   summarized in the
   [MN 1 / MN 18 / MN 148 surface brief](../mn1-mn18-mn148-linked-surface-brief.md).
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass made the six opening prompts conversational, recast the not-self
+  conditionals in ordinary English, and repaired agreement in the trained and
+  untrained conclusions. It preserved the sixfold chain, appropriation and
+  de-appropriation formulas, sensory-response contrasts, and intentional
+  repetition.
+- Governed wording left unchanged: `are to be known`, `the meeting of the three
+  is contact`, and the pleasant / painful / mixed response formulas remain
+  source-facing pending any policy-level revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's
