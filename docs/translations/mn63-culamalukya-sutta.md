@@ -32,15 +32,16 @@ Jeta's Grove, Anāthapiṇḍika's Monastery.
 ### Mālukyaputta's Reflection
 
 Then, while Venerable Mālukyaputta was alone in seclusion, this reflection
-arose in his mind: "These points have been left undeclared by the Buddha — set aside and rejected: 'the world is eternal,' 'the world is not
+arose in his mind: "These points have been left undeclared by the Buddha. He
+has set them aside and rejected them: 'the world is eternal,' 'the world is not
 eternal,' 'the world is finite,' 'the world is infinite,' 'the soul and the
 body are the same,' 'the soul is one thing and the body another,' 'the
 Tathāgata exists after death,' 'the Tathāgata does not exist after death,'
 'the Tathāgata both exists and does not exist after death,' 'the Tathāgata
-neither exists nor does not exist after death.' The Buddha does not
-declare these to me, and I do not approve of, I do not accept, that he does
-not declare them. I will go to the Buddha and ask him about this. If the
-Buddha declares to me that the world is eternal, or that the world is not
+neither exists nor does not exist after death.' The Buddha does not declare
+these to me. I do not approve of this, and I do not accept it. I will go to
+the Buddha and ask him about this. If the Buddha declares to me that the world
+is eternal, or that the world is not
 eternal, or that the world is finite, or that the world is infinite, or that
 the soul and the body are the same, or that the soul is one thing and the body
 another, or that the Tathāgata exists after death, or that the Tathāgata does
@@ -57,14 +58,13 @@ to the Buddha. He bowed to the Buddha and sat down to one side.
 Seated to one side, Venerable Mālukyaputta said to the Buddha:
 
 "Bhante, while I was alone in seclusion, this reflection arose in my mind:
-'These points have been left undeclared by the Buddha — set aside and
-rejected: that the world is eternal, or not eternal; that the world is
+'These points have been left undeclared by the Buddha. He has set them aside
+and rejected them: that the world is eternal, or not eternal; that the world is
 finite, or infinite; that the soul and the body are the same, or that the
 soul is one thing and the body another; that the Tathāgata exists after
 death, does not exist after death, both exists and does not exist after
-death, or neither exists nor does not exist after death. The Buddha does
-not declare these to me, and I do not approve of, I do not accept, that he
-does not declare them.'
+death, or neither exists nor does not exist after death. The Buddha does not
+declare these to me. I do not approve of this, and I do not accept it.'
 
 If the Buddha knows that the world is eternal, let the Buddha
 declare to me that the world is eternal. If the Buddha knows that the

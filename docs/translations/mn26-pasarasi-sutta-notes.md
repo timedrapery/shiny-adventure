@@ -199,3 +199,20 @@ All governing terms for MN 26 are covered by existing lexicon records:
   entries, and the seven-term formula record, were added in a later
   lexicon-backlog pass; see Re-audit Calls above. The `ālaya` motif
   (clinging-as-home) also now has a minor entry, `terms/minor/alaya.json`.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`
+- Review: improved the bathing sequence, Brahmā verse pacing, and the audible
+  contrast between caught and uncaught deer; preserved the two searches,
+  teacher-attainment repetitions, mental-theme sequence, and Māra refrain.
+- Automated review: pending integration
+- Alexander H read-aloud: pending
+- Newcomer review: pending
+- Governed wording retained: the repeated `live having entered into it`
+  attainment wording remains unchanged pending a formula-level source review;
+  changing it locally would risk drift across the governed higher-knowing
+  sequence.
