@@ -114,18 +114,16 @@ and `cetanā`.
   dissatisfaction as automatically productive; it says it goes one of two
   ways.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the repeated six-question framework keeps each topic
   predictable and hearable; the action-as-intention line and governed topic
   vocabulary remain unchanged.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

@@ -33,11 +33,12 @@ policy revision.
   entry once the change is merge-ready.
 - Source-backed alternates are not silently promoted to house defaults.
 - Example phrases include canonical `source` citations where available.
-- Spoken-voice claims cite source IDs from the metadata-only manifest and keep
-  speaker scope, transcript-review state, rights state, and redistribution
-  limits explicit.
-- Automatic captions or multi-speaker transcripts were checked against the
-  recording before supporting a speaker-specific editorial claim.
+- Readability changes preserve the source's speakers, propositions, sequence,
+  repetitions, and deliberate ambiguities.
+- Orientation or explanation added for newcomers stays outside the canonical
+  translation body.
+- The readability record names the current neutral standard and its body hash
+  still matches the reviewed translation.
 
 ## 4. Family Review
 
@@ -54,7 +55,9 @@ policy revision.
   gaps introduced by the change.
 - Documentation was updated if the change affects contributor workflow or
   schema interpretation.
-- A surface marked `approved` for the spoken profile records a completed
-  read-aloud review in its companion notes.
-- A surface marked `approved` records a completed newcomer-comprehension review
-  against the threshold in `docs/osf-spoken-translation-profile.md`.
+- A surface marked `validated` records a completed source-fidelity review and
+  human read-aloud usability review in its companion notes.
+- A surface marked `validated` records a completed newcomer-comprehension
+  review against the threshold in `docs/PLAIN_ENGLISH_STANDARD.md`.
+- Reader-template changes are checked for semantic structure, keyboard use,
+  contrast, zoom and reflow, and screen-reader behavior.

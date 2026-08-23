@@ -126,18 +126,16 @@ have sufficient lexicon coverage:
   shortening if the samādhi record later specifies when the abbreviated form
   is and is not appropriate.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the question-and-answer sequence and rain simile carry the
   long progression in spoken steps; the repeated governed links remain
   stable and intentionally repetitive.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

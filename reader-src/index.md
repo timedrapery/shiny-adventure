@@ -13,16 +13,16 @@ All 46 translations in this collection are readable here. Each one is backed by 
 
 ## If you only read five
 
-Together these give the whole shape of the teaching in under a thousand words:
+Together these give a compact first route through the collection: about 37 minutes of reading (6,554 words).
 
-- [**Test It Yourself**](suttas/an3-65-kesamutta-sutta.md) — AN 3.65, Kesamutta Sutta
+- [**How to Test a Teaching**](suttas/an3-65-kesamutta-sutta.md) — AN 3.65, Kesamutta Sutta
 - [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11, Dhammacakkappavattana Sutta
 - [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) — SN 36.6, Salla Sutta
 - [**The Man Struck by a Poisoned Arrow**](suttas/mn63-culamalukya-sutta.md) — MN 63, Cūḷamālukya Sutta
-- [**Nothing Here Is You**](suttas/sn22-59-anattalakkhana-sutta.md) — SN 22.59, Anattalakkhaṇa Sutta
+- [**What Is Fit to Call Self?**](suttas/sn22-59-anattalakkhana-sutta.md) — SN 22.59, Anattalakkhaṇa Sutta
 
 ## How to read these
 
-The translations aim at ordinary spoken English: what a clear person would actually say, not what a translation is expected to sound like. Where a word is doing technical work, hover it for a short gloss.
+The translations use clear, common English. Each page gives a reading time and a short orientation before the governed translation. Where a word is doing technical work, open the words-used panel for a plain-English definition. Some browsers also show the same note when you point to a marked word.
 
 Repetition has been kept where the texts repeat. These were spoken and memorised, and the repeating is part of how they work.

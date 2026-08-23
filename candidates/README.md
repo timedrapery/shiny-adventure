@@ -58,9 +58,6 @@ python scripts/scaffold_candidate_terms.py --priority create_now
 - `candidate_terms.md`: grouped human review report
 - `scaffolds/*.review.json`: review packets for terms that need editorial
   treatment
-- `source-manifests/osf-spoken-translation-sources.json`: source roles,
-  speaker scope, transcript-review state, rights state, and derived editorial
-  observations for the spoken-translation pilot
 
 These outputs are working review materials, not live policy.
 
@@ -78,8 +75,10 @@ relevant speaker turns and check automatic captions against the recording
 before making a speaker-specific claim, especially where Pali vocabulary is
 involved.
 
-Run `python scripts/check_spoken_voice_sources.py` after changing the spoken
-profile, its source manifest, or an opted-in surface review record.
+Translation readability reviews do not use a person-specific calibration
+manifest. They are governed directly by
+[`docs/PLAIN_ENGLISH_STANDARD.md`](../docs/PLAIN_ENGLISH_STANDARD.md) and checked
+with `python scripts/check_readability_reviews.py`.
 
 ## Promotion Rule
 

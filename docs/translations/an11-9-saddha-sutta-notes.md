@@ -134,18 +134,16 @@ have sufficient lexicon coverage:
   the jhāna cluster later establishes a single verb policy that covers both
   the obsessive and the positive applications.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the wild-colt / thoroughbred contrast, repeated `Why is
   that?` turns, and Saddha's question keep the long comparison grounded in a
   concrete scene; governed recognition and mental-theme language is retained.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

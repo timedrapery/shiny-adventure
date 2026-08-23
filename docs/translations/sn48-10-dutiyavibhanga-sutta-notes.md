@@ -141,18 +141,16 @@ surface quote text the source writes out in full.
   best-ranked candidate left standing once the repair work was done: two
   orphan majors in 297 words, the best ratio in the audit.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: each faculty is introduced by the same direct question and
   then shown through action; the governed right-effort, remembering, mental-
   theme, and truth formulas remain stable.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

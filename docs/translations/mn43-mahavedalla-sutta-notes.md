@@ -167,19 +167,17 @@ source-audit calls, and edition notes that govern it.
   signless / wishless interface cluster was the only governed cluster with no
   running text behind any of its thirteen terms.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, and `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review: improved the opening exchange, future-becoming contrast, and
   body-left-behind question; preserved the catechism frame, faculty lists,
   cessation analysis, release sequence, and deliberate repetition.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud: pending
-- Newcomer review: pending
+- Human read-aloud usability review: pending.
+- Newcomer comprehension review: pending.
 - Governed wording retained: the reciprocal `vitality remains depending on
   warmth` / `warmth remains depending on vitality` lines and `a something`
   remain unchanged because their exact technical echoes are governed.

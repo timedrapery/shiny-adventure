@@ -44,29 +44,26 @@ file. The audit skips `-notes.md` as apparatus rather than translation, so the
 notes occurrences were never in its output; the number, not the corpus, was
 wrong. The three exception categories are unchanged.
 
-## Spoken-Voice Pilot — 2026-08-22
+## Corpus-Wide Readability Review — 2026-08-22
 
 The completed anti-translationese rollout remains complete. As of 2026-08-22,
-the separate spoken-voice profile has been applied to every translation surface
-registered in `scripts/surface_registry.py`. SN 36.6 was the calibration
-surface; the remaining surfaces were then revised in controlled waves. This
+every translation surface registered in `scripts/surface_registry.py` has also
+received a neutral readability pass under
+[PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md). SN 36.6 was the first
+control surface; the remaining surfaces were revised in controlled waves. This
 does not reopen the anti-translationese retrofit or change its documented
 audit exceptions.
 
-The pilot is governed by
-[osf-spoken-translation-profile.md](osf-spoken-translation-profile.md). Its
-source roles, speaker scope, transcript-review state, and rights boundaries
-live in the metadata-only
-[source manifest](../candidates/source-manifests/osf-spoken-translation-sources.json).
-Run `python scripts/check_spoken_voice_sources.py` to validate that provenance,
-the review record attached to every registered surface, and each locked
-translation-body hash.
+Each registered surface now carries a neutral readability record and a locked
+translation-body hash. Run `python scripts/check_readability_reviews.py` to
+validate corpus coverage, companion-note metadata, review status, and hash
+freshness.
 
-Automated checks and a finished draft do not make these surfaces `approved`.
-Every surface remains at `pilot`. Approval still requires the recorded
-read-aloud, fidelity, governance, and newcomer-comprehension reviews in the
-profile; in particular, the editor read-aloud and newcomer checks are still
-pending.
+Automated checks and a finished draft do not make a surface `validated`.
+Every surface remains `provisional`. Validation still requires a recorded
+source-fidelity review, human read-aloud usability review, and
+newcomer-comprehension review. The current translation improvements remain in
+place while those human checks are pending.
 
 ### This Document Has Claimed Completion Once Before, Wrongly
 
@@ -200,7 +197,7 @@ be exactly the kind of incidental drift this repository exists to prevent.
 MN 10 and MN 118 render it `I breathe in long`. AN 10.60 renders it
 `I am breathing in long`. No term record governs it.
 
-`I breathe in long` is awkward English and probably fails the spoken test, but
+`I breathe in long` is awkward English and probably fails the readability test, but
 choosing between them affects three surfaces and should be a deliberate
 formula decision with its own record.
 

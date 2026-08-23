@@ -1,15 +1,15 @@
 <!--
-  Reader-facing glossary, auto-appended to every page (see mkdocs.yml,
-  pymdownx.snippets.auto_append). Each line below defines a hover tooltip
-  for every plain-text occurrence of the term on the page.
+  Reader-facing glossary. The generator includes matching definitions in a
+  visible words-used panel on each sutta and also provides inline abbreviation
+  notes where supported. The visible panel is the input-independent route.
 
   Source of truth: the governed terms/major/ and terms/minor/ JSON records.
   These glosses are deliberately rewritten in plain, contemporary English for
   a general reader -- they are NOT copies of the editorial `notes` field,
   which is written for translators and contributors, not readers. If a term's
   governed rendering or definition changes in terms/, this file should be
-  refreshed to match, but the wording here stays reader-voice, not
-  policy-voice.
+  refreshed to match, but the wording here stays reader-facing rather than
+  policy-oriented.
 
   Add entries here only for terms actually used in a page under
   reader-src/suttas/, and only where the exact string won't also occur in
@@ -18,7 +18,7 @@
   used generically) risks a false-positive tooltip. Keep each gloss to one or
   two short sentences.
 
-  IMPORTANT: this file is shared across every page on the site. If two
+  IMPORTANT: this file supplies definitions across the whole site. If two
   different suttas use the identical surface word for two different Pali
   concepts (e.g. "arrow" means something different in MN 63 than in SN 36.6),
   the gloss below must be written generically enough to be true on both

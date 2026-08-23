@@ -16,8 +16,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added `scripts/draft_major_review_queue.py` to keep remaining draft major entries visible as an explicit review queue.
 - Added `scripts/check_docs_integrity.py` to validate internal Markdown links and required repository-surface metadata files.
 - Added [docs/review-status-model.md](docs/review-status-model.md) to define how major entries move from draft to reviewed to stable.
-- Added the governed OSF spoken-translation pilot, its metadata-only source
-  manifest, and a checker for source, rights, and surface-review state.
+- Added neutral readability-review metadata and a checker that locks every
+  registered translation body to its documented review state.
+- Added structured, source-checked newcomer guides for the Essential Five and
+  a reader-accessibility regression checker covering every generated page.
+- Added a long-form reader stylesheet with system fonts, visible keyboard
+  focus, larger controls, reduced-motion support, mobile reflow, and print
+  rules.
 
 ### Changed
 
@@ -29,8 +34,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Improved `scaffold_policy_metadata.py` so placeholder scaffolding emits an explicit completion warning.
 - Extended the full verification suite so documentation and repository-surface integrity are checked alongside tests and term validation.
 - Promoted 8 structurally complete major entries from `draft` to `reviewed` after an explicit status pass.
-- Extended editorial review guidance with transcript provenance, read-aloud,
-  newcomer-comprehension, and redistribution checks for spoken-voice pilots.
-- Applied the governed spoken-voice profile to every registered translation
-  surface, with body hashes and source provenance locked while human
-  read-aloud and newcomer-comprehension reviews remain pending.
+- Extended editorial review guidance with source-fidelity, human read-aloud
+  usability, newcomer-comprehension, and reader-template accessibility checks.
+- Reframed the corpus-wide sentence-level pass around neutral newcomer
+  readability rather than person-specific voice calibration. The completed
+  translation improvements and body hashes remain intact while human reviews
+  remain pending.
+- Reworked all 46 reader pages around a clear `Before you read` / `Translation`
+  hierarchy, computed reading times, visible term definitions, semantic reading
+  navigation, and plain-English titles; replaced the wide glossary and sutta
+  index tables with flowing layouts.

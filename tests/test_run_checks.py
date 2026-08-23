@@ -31,7 +31,11 @@ class RunChecksTests(unittest.TestCase):
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(
-            [sys.executable, "scripts/check_spoken_voice_sources.py"],
+            [sys.executable, "scripts/check_readability_reviews.py"],
+            [call.args[0] for call in run_mock.call_args_list],
+        )
+        self.assertIn(
+            [sys.executable, "scripts/check_reader_accessibility.py"],
             [call.args[0] for call in run_mock.call_args_list],
         )
         self.assertIn(

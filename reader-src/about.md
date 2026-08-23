@@ -1,6 +1,6 @@
 # About this translation
 
-These are Early Buddhist discourses translated into ordinary contemporary
+These are Early Buddhist discourses translated into clear, common contemporary
 English. What makes this edition unusual is not the wording of any single
 sentence but the machinery underneath it.
 
@@ -63,15 +63,16 @@ translation was right and the underlying record was wrong.
 
 The pages you are reading are not separate copies of the translations. Each one
 is generated from the governed source text, so a correction made in the
-editorial layer appears here without anyone remembering to copy it across. The
-only hand-written part of a sutta page is the short orienting note at the top.
+editorial layer appears here without anyone remembering to copy it across.
+Structured newcomer guidance is kept separately from the governed translation,
+and legacy orienting notes are preserved when the reader is regenerated.
 
 This is deliberate. A reading edition that drifts from its own source is worse
 than no reading edition.
 
 ## Plain English, on purpose
 
-The English aims at what a clear person would actually say. Not
+The English aims to be direct and readily understandable. Not
 *"one abides contemplating the body as a body, ardent, clearly comprehending"*,
 but something a reader can take in at ordinary reading speed.
 
@@ -80,7 +81,8 @@ genuinely difficult, and the translation does not pretend otherwise. It only
 declines to add a second difficulty on top of the first.
 
 Where a word is doing technical work, it is glossed rather than smoothed away.
-Hover it, or see the [glossary](glossary.md).
+Open the words-used panel on any sutta, or see the [glossary](glossary.md).
+These definitions do not depend on hovering or using a mouse.
 
 ## Reading it yourself
 

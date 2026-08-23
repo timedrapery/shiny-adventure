@@ -39,72 +39,75 @@ It does **not** mean childish, dumbed down, cute, inspirational, poetic,
 mystical, devotional, or self-help. The simplicity has to come from
 understanding the text well enough to say it plainly. Simple is not vague.
 
-## Why This Is Not A New Direction
+## Governing Priorities
 
-The repository already places Dhammarato third in its authority order, and
-[osf-editorial-authority.md](osf-editorial-authority.md) names him
-authoritative for "practical teaching tone", "path language in contemporary
-English", and "anti-scholastic and anti-mystification language". That document
-closes by saying the repository should increasingly read like a coherent
-Dhammarato / Buddhadasa-line editorial system.
+The target is neutral, contemporary English that a newcomer can follow without
+knowing Buddhist terminology. No teacher, editor, transcript, or recording is a
+voice model for the translation. Named sources may support lexical or doctrinal
+decisions elsewhere in the repository, but sentence cadence and presentation
+are governed here by reader comprehension and source fidelity.
 
-The lexicon already reflects this: `sati` is `remembering`, `jhāna` is
-`mental theme`, `taṇhā` is `ignorant wanting`, `bhāvanā` is `development`.
+Use these controls in order:
 
-This standard extends that settled direction from individual word choices to
-whole sentences, which is where it had not yet been applied.
+1. The Pali controls meaning, speakers, sequence, repetition, and ambiguity.
+2. Governed term and phrase records control recurring vocabulary and formulas.
+3. This standard controls sentence shape, dialogue, paragraphing, and running
+   English.
+4. Human usability and newcomer-comprehension review test whether the result is
+   genuinely readable.
 
-This is a description of the qualities the English should have. It is not a
-claim that Dhammarato translated, reviewed, approved, or endorsed anything in
-this repository.
+If clearer wording would change a governed rendering or resolve a real
+ambiguity, stop the surface edit. Make the term- or phrase-family decision
+openly and update every linked control together.
 
-## The Spoken-English Test
+## The Read-Aloud Test
 
-Every sentence has to pass one question:
+Every sentence has to pass one neutral usability question:
 
-> Could somebody comfortably say this out loud in an ordinary conversation?
+> Can a reader say this comfortably and understand it at ordinary reading
+> speed?
 
-Read awkward sentences mentally aloud. If a sentence fails, try to make it
-natural without losing the meaning. If it cannot be made natural without
-losing a real distinction, keep the distinction and record why in the notes
-file.
+Read awkward sentences aloud. If a sentence fails, make it natural without
+losing meaning. If a real distinction prevents a smoother sentence, keep the
+distinction and record why in the companion notes.
 
-## The OSF Spoken Translation Voice
+## Newcomer Readability Rules
 
-The target is a calm, practical teaching voice: warm without being
-sentimental, direct without being blunt, and conversational without becoming
-casual slang. A newcomer should be able to hear the text once and follow the
-people, actions, contrasts, and practical point.
-
-The controlling order is:
-
-1. the Pali controls what the sentence means
-2. governed term and phrase records control recurring vocabulary
-3. the OSF spoken profile controls cadence, sentence shape, and practical tone
-4. read-aloud and newcomer review test whether the English actually lands
-
-Use the reusable qualities documented in
-[osf-spoken-translation-profile.md](osf-spoken-translation-profile.md):
-
-- begin with the concrete person, action, question, or problem already present
-  in the source
-- prefer one spoken move at a time: question, answer, reason, example,
-  consequence, or instruction
-- use short clause-based sentences when a long sentence would hide the action
-- use contractions when they sound neutral and natural
-- make a contrast explicit when the source itself establishes one
-- keep dialogue askable and answerable
-- perfect a repeated unit before repeating it
+- Begin with the concrete person, action, question, or problem already present
+  in the source.
+- Prefer one clear move at a time: question, answer, reason, example, contrast,
+  consequence, or instruction.
+- Use short clause-based sentences when a long sentence would hide the action.
+- Make speakers and pronoun referents clear without adding information.
+- Use neutral contractions where they improve flow; avoid slang and fashionable
+  idiom.
+- Make a contrast explicit when the source itself establishes one.
+- Keep dialogue askable and answerable.
+- Perfect a repeated unit before repeating it, and preserve intentional
+  repetition.
 
 These are composition rules, not permission to add teaching material. Do not
-insert a modern analogy, explanatory aside, joke, catchphrase, emotional cue,
-or direct address that the source does not provide. Added orientation belongs
-in the reader introduction; interpretation belongs in the companion notes.
+insert a modern analogy, explanatory aside, joke, emotional cue, or direct
+address that the source does not provide. Added orientation belongs in the
+reader introduction; interpretation belongs in the companion notes.
 
-The profile is informed by Dhammarato's public teaching transcripts and by
-authorized samples from OSF editors. It distills stable, reusable traits. It
-does not reproduce an individual's verbal fingerprints or imply that any
-source speaker translated, reviewed, approved, or endorsed a surface.
+## Review States
+
+Every registered translation carries a body hash and a neutral readability
+review record.
+
+- `provisional` means the current body received the documented readability pass
+  and automated governance checks, but its human validation gates are not all
+  complete.
+- `validated` requires a recorded source-fidelity review, a human read-aloud
+  usability review, and newcomer-comprehension testing in which at least four
+  of five readers can state what happened and the practical point in their own
+  words. The stored hash must still match the reviewed translation body.
+
+Website-level accessibility—including semantic structure, keyboard use,
+contrast, zoom and reflow, and screen-reader behavior—is tested at the reader
+template level. A readable body does not by itself prove that the surrounding
+website is accessible.
 
 ## Rules
 
@@ -195,7 +198,7 @@ Commands should be direct.
 
 Do not make ancient Indian characters sound like nineteenth-century English
 gentlemen. Do not add modern slang or American idiom either. Aim for neutral,
-contemporary spoken English.
+contemporary conversational English.
 
 ### 6. Prefer verbs to abstract nouns
 
@@ -269,7 +272,7 @@ Distinguish two things:
 The schema already supports this. A term record carries
 `preferred_translation`, `alternative_translations`,
 `discouraged_translations`, `context_rules`, and `translation_policy`. A fixed
-gloss that produces bad spoken English is a signal that the record needs a
+gloss that produces awkward running English is a signal that the record needs a
 `context_rule`, not a signal to ignore the record.
 
 If a governed rendering cannot be made to work in natural English anywhere,

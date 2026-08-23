@@ -106,18 +106,16 @@ have sufficient lexicon coverage:
   `kāyena sacchikaroti` formula if the witness-contact rendering is revisited
   across the surface library.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the four horse cases were recast as short actions—what the
   horse sees, when the goad reaches it, and how it responds—while all four
   levels and the urgency / striving comparison remain intact.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

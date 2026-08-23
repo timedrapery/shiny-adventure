@@ -143,19 +143,17 @@ source-audit calls, and edition notes that govern it.
   minor entries; the ten-undeclared-points formula record; the roadmap
   wording correction; and the `Bhagavā` harmonization against MN 64.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, and `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review: tightened Mālukyaputta's private and spoken challenge; preserved all
   ten undeclared points, the poisoned-arrow inventory, the declared/undeclared
   contrast, the seven-term formula, and intentional repetition.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud: pending
-- Newcomer review: pending
+- Human read-aloud usability review: pending.
+- Newcomer comprehension review: pending.
 - Source-sensitive wording retained: `who are you, and what promise are you
   accusing of being broken?` remains unchanged because a smoother local
   paraphrase could over-resolve the Pali challenge.

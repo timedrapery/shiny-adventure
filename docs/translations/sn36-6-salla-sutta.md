@@ -14,10 +14,9 @@
   person`; `ariyasāvaka` is rendered `noble disciple`; `paṭigha` is rendered
   `resistance`; `anusaya` is rendered `underlying tendency`; `rāga` is
   rendered `passion`; and `nissaraṇa` is rendered `escape`.
-- This surface follows [../PLAIN_ENGLISH_STANDARD.md](../PLAIN_ENGLISH_STANDARD.md)
-  and the
-  [OSF spoken-translation profile](../osf-spoken-translation-profile.md).
-  The 2026-08-22 pilot revised sentence shape, dialogue, and four local SN 36.6
+- This surface follows
+  [../PLAIN_ENGLISH_STANDARD.md](../PLAIN_ENGLISH_STANDARD.md). The 2026-08-22
+  neutral readability pass revised sentence shape, dialogue, and four local SN 36.6
   phrase records. The shared MN 148 grief-response lines and every governed
   headword remain unchanged. The five-part understanding lines still preserve
   `as they have come to be` for the processive `yathābhūta` language recorded
