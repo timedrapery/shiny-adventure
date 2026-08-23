@@ -104,6 +104,25 @@ source-audit calls, and edition notes that govern it.
   that DN 2 lead-in rather than leaving it controlled only by headwords and
   this note surface.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass repaired corrupted and mismatched pronouns, made the second visible
+  fruit sound like live dialogue, turned the shorter conduct list into clear
+  spoken actions, and restored the force of the Buddha's closing remark. It
+  preserved the rival-teacher sequence, gradual training, distraction clearing,
+  four mental themes, higher knowings, and outflow-ending formulas.
+- Governed wording left unchanged: `for one living at home` and `restrained by
+  restraint in the pātimokkha` in the going-forth formula, and `One of dynamic
+  balance and remembering stays at ease` in the third-theme formula, remain
+  source-facing pending any policy-level revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

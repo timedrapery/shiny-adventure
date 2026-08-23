@@ -97,6 +97,24 @@ translation choices, source-audit calls, and edition notes that govern it.
   teacher-response language, the `satipaṭṭhāna` major record may need a narrow
   MN 137 context rule rather than relying only on the new phrase record.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass gave the mental-exploration lines concrete subjects and separated
+  the eight-direction sequence into audible movements. It preserved the sixfold
+  analysis, household / renunciation contrasts, staged replacement formula,
+  three teacher responses, and intentional repetition.
+- Governed wording left unchanged: `a noble one cultivates` remains in the
+  three-establishments formula pending any policy-level revision; the
+  source-facing `has not conquered the bounds or the results` line also remains
+  unchanged.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

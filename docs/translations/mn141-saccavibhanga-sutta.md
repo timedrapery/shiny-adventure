@@ -39,8 +39,8 @@ The Buddha said this:
 
 "Bhikkhus, at Isipatana, in the Deer Park near Bārāṇasī, the Tathāgata, the
 arahant, the fully awakened Buddha, set rolling the unsurpassed wheel of
-Dhamma that cannot be rolled back by any samaṇa or brahmin or deva or Māra or
-Brahmā or anyone in the world. That is:
+Dhamma. That wheel cannot be rolled back by any samaṇa or brahmin or deva or
+Māra or Brahmā or anyone in the world. That is:
 the explaining, teaching, laying out, establishing, opening up, analyzing, and
 making clear of the four noble truths.
 
@@ -55,8 +55,8 @@ dissatisfaction.
 Bhikkhus, stay close to Sāriputta and Moggallāna. Keep company with them.
 Those wise bhikkhus support their spiritual companions.
 
-Sāriputta is like someone who gives birth, and Moggallāna is like someone who raises
-what has been born.
+Sāriputta is like someone who brings a child into the world, and Moggallāna is
+like someone who raises that child.
 
 Sāriputta trains people in the fruit of stream-entry, and Moggallāna in the
 highest aim.
@@ -64,7 +64,7 @@ highest aim.
 Bhikkhus, Sāriputta is able to explain, teach, lay out, establish, open up,
 analyze, and make clear the four noble truths in detail."
 
-That is what the Buddha said. Having said this, the Buddha rose from his seat
+That is what the Buddha said. After saying this, the Buddha rose from his seat
 and entered his dwelling.
 
 ### Sāriputta Begins the Analysis
@@ -80,8 +80,8 @@ Venerable Sāriputta said this:
 
 "Friends, at Isipatana, in the Deer Park near Bārāṇasī, the Tathāgata, the
 arahant, the fully awakened Buddha, set rolling the unsurpassed wheel of
-Dhamma that cannot be rolled back by any samaṇa or brahmin or deva or Māra or
-Brahmā or anyone in the world. That is:
+Dhamma. That wheel cannot be rolled back by any samaṇa or brahmin or deva or
+Māra or Brahmā or anyone in the world. That is:
 the explaining, teaching, laying out, establishing, opening up, analyzing, and
 making clear of the four noble truths.
 
@@ -92,8 +92,8 @@ And which four?
 And what, friends, is the noble truth of dissatisfaction?
 
 Birth is dissatisfaction. Ageing is dissatisfaction. Death is dissatisfaction.
-Sorrow, lamentation, pain, distress, and despair are dissatisfaction. Not
-wanting something and not getting it is also dissatisfaction. In brief, the
+Sorrow, lamentation, pain, distress, and despair are dissatisfaction. Wanting
+something and not getting it is also dissatisfaction. In brief, the
 five clung-to heaps are dissatisfaction.
 
 And what, friends, is birth?

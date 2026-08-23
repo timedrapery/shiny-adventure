@@ -82,6 +82,23 @@ choices, source-audit calls, and edition notes that govern it.
 - This companion file should preserve rationale for contested renderings and
   future edition decisions rather than repeat the main file line by line.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass made the closing challenge easier to hear by carrying its singular
+  subject consistently through the ten rebuttals. It preserved all path-factor
+  headwords, the worldly and beyond-the-world distinction, the recurring
+  right-view / right-effort / right-remembering pattern, and the Great Forty's
+  deliberate repetition.
+- Governed wording left unchanged: the repeated `For one with ... comes forth`
+  path sequence remains source-facing pending any policy-level revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

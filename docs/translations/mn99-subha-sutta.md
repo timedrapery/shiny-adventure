@@ -107,10 +107,9 @@ it fails it bears little fruit, but when it succeeds it bears great fruit."
 "Master Gotama, the brahmins lay down five dhammas for making merit and for
 succeeding in what is skillful."
 
-"If you do not mind, explain them in this assembly."
+"If you do not mind, tell this assembly about them."
 
-"It is no trouble when good people such as you are sitting here. Then listen,
-student."
+"Not at all, Master Gotama, when you or someone like you is sitting here."
 
 "Master Gotama, the brahmins lay down truth as the first dhamma for making
 merit and for succeeding in what is skillful. They lay down austerity as the
@@ -188,10 +187,10 @@ forms, nor blue forms, nor yellow forms, nor red forms, nor crimson forms. He
 could not see level ground and uneven ground. He could not see the stars, the
 moon, or the sun. He might say:
 
-'There are no dark and bright forms, and no one who sees dark and bright
-forms. There are no blue forms, no yellow forms, no red forms, no crimson
-forms. There is no level ground and no uneven ground. There are no stars, no
-moon, and no sun. I do not know these things. I do not see these things.
+'There are no dark and bright forms, and nobody sees them. There are no blue
+forms, no yellow forms, no red forms, or crimson forms. There is no level
+ground and no uneven ground. There are no stars, no moon, and no sun. I do not
+know these things. I do not see these things.
 Therefore they do not exist.'
 
 Would he be speaking rightly?"
@@ -350,9 +349,9 @@ many undertakings, and is not constantly and consistently truthful. But a
 renunciate has few responsibilities, few duties, few claims, and few
 undertakings, and is constantly and consistently truthful.
 
-A householder is not constantly and consistently austere, living chaste
+A householder is not constantly and consistently austere, living by chaste
 conduct, devoted to recitation, and abundant in generosity. But a renunciate
-is constantly and consistently austere, living chaste conduct, devoted to
+is constantly and consistently austere, living by chaste conduct, devoted to
 recitation, and abundant in generosity.
 
 So of those five dhammas that the brahmins lay down for making merit and for
@@ -361,8 +360,8 @@ only a little among householders."
 
 ### Supports For A Free Mind
 
-"Student, of those five dhammas that the brahmins lay down for making merit
-and for succeeding in what is skillful, I call them supports of the mind for
+"Student, I call those five dhammas that the brahmins lay down for making merit
+and for succeeding in what is skillful supports of the mind for
 developing a mind free of enmity and ill will.
 
 Here, student, a bhikkhu is truthful. Thinking, 'I am truthful,' he gains a
@@ -375,7 +374,7 @@ meaning, a sense of the dhamma, and gladness connected with the dhamma. That
 gladness connected with what is skillful, I call a support of the mind for
 developing a mind free of enmity and ill will.
 
-Again, a bhikkhu is living chaste conduct. Thinking, 'I am living chaste
+Again, a bhikkhu lives by chaste conduct. Thinking, 'I live by chaste
 conduct,' he gains a sense of the meaning, a sense of the dhamma, and gladness
 connected with the dhamma. That gladness connected with what is skillful, I
 call a support of the mind for developing a mind free of enmity and ill will.
@@ -392,8 +391,8 @@ gladness connected with the dhamma. That gladness connected with what is
 skillful, I call a support of the mind for developing a mind free of enmity
 and ill will.
 
-So, student, of those five dhammas that the brahmins lay down for making merit
-and for succeeding in what is skillful, I call them supports of the mind for
+So, student, I call those five dhammas that the brahmins lay down for making
+merit and for succeeding in what is skillful supports of the mind for
 developing a mind free of enmity and ill will."
 
 ### The Path To Company With Divinity
@@ -409,18 +408,18 @@ from here?"
 
 "Yes, Master Gotama, the village of Naḷakāra is near here, not far from here."
 
-"What do you think, student? Suppose someone were born and raised in Naḷakāra.
-If, as soon as he had gone out from Naḷakāra, people asked him the road to
-Naḷakāra, would there be any hesitation or confusion in him when asked?"
+"What do you think, student? Suppose someone was born and raised in Naḷakāra.
+If people asked them the road to Naḷakāra as soon as they had left the village,
+would they hesitate or be confused?"
 
 "No, Master Gotama."
 
 "Why is that?"
 
-"Because he was born and raised in Naḷakāra. All the roads to Naḷakāra are
-well known to him."
+"Because they were born and raised in Naḷakāra. They know all the roads to
+Naḷakāra well."
 
-"Student, although there might be hesitation or confusion in such a man when
+"Student, although there might be hesitation or confusion in that person when
 asked the road to Naḷakāra, there is no hesitation or confusion in the
 Tathāgata when asked about the realm of divinity or the practice leading to
 the realm of divinity.
@@ -447,8 +446,8 @@ The Buddha said this:
 
 Here, student, a bhikkhu remains pervading one direction with a heart
 accompanied by friendliness. So too the second, the third, and the fourth.
-In the same way above, below, across, everywhere, and in every respect, he
-remains pervading the whole world with a heart accompanied by friendliness,
+In the same way above, below, across, everywhere, and in every respect, they
+remain pervading the whole world with a heart accompanied by friendliness,
 abundant, expansive, vast, immeasurable, free of enmity, and free of ill will.
 
 When the liberation of mind through friendliness has been developed in this
@@ -464,7 +463,7 @@ This too is a path to company with divinity.
 
 Again, a bhikkhu remains pervading one direction with a heart accompanied by
 kindness towards others. So too the second, the third, and the fourth. In the
-same way above, below, across, everywhere, and in every respect, he remains
+same way above, below, across, everywhere, and in every respect, they remain
 pervading the whole world with a heart accompanied by kindness towards others,
 abundant, expansive, vast, immeasurable, free of enmity, and free of ill
 will.
@@ -483,7 +482,7 @@ This too is a path to company with divinity.
 
 Again, a bhikkhu remains pervading one direction with a heart accompanied by
 gladness. So too the second, the third, and the fourth. In the same way above,
-below, across, everywhere, and in every respect, he remains pervading the
+below, across, everywhere, and in every respect, they remain pervading the
 whole world with a heart accompanied by gladness, abundant, expansive, vast,
 immeasurable, free of enmity, and free of ill will.
 
@@ -500,7 +499,7 @@ This too is a path to company with divinity.
 
 Again, a bhikkhu remains pervading one direction with a heart accompanied by
 dynamic balance. So too the second, the third, and the fourth. In the same
-way above, below, across, everywhere, and in every respect, he remains
+way above, below, across, everywhere, and in every respect, they remain
 pervading the whole world with a heart accompanied by dynamic balance,
 abundant, expansive, vast, immeasurable, free of enmity, and free of ill
 will.
@@ -552,8 +551,8 @@ Todeyya's son, coming in the distance and said:
 "What do you think, Master Bhāradvāja? Do you consider the ascetic Gotama
 wise in his clarity of understanding?"
 
-"Good man, who am I to know the clarity of understanding of the ascetic Gotama?
-They would have to be like him to know the clarity of his understanding."
+"Good man, who am I to know the clarity of the ascetic Gotama's understanding?
+Anyone who knew it would have to be like him."
 
 "Master Bhāradvāja praises the ascetic Gotama with high praise indeed."
 

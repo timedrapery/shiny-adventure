@@ -91,6 +91,24 @@ translation choices, source-audit calls, and edition notes that govern it.
 - If more Sariputta analytical discourses are translated, a small stock-phrase
   layer around the `ācikkhanā / desanā / paññāpanā` family may be worthwhile.
 
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`.
+- This pass shortened the opening wheel-of-Dhamma sentences, made the
+  Sāriputta / Moggallāna comparison concrete, and corrected the first-truth
+  summary so its spoken meaning is unambiguous. It preserved the four-truth
+  definitions, eightfold-path headwords, and mental-theme formulas.
+- Governed wording left unchanged: the analytical `That is: the explaining,
+  teaching ...` sequence and the third-theme saying `One of dynamic balance and
+  remembering stays at ease` remain source-facing pending any policy-level
+  revision.
+- Automated review: pending integration.
+- Alexander H read-aloud review: pending.
+- Newcomer review: pending.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

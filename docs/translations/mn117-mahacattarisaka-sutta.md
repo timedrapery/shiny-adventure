@@ -354,42 +354,42 @@ anyone at all in the world.
 "If any samaṇa or brahmin should imagine that this dhamma exposition called
 'The Great Forty' ought to be criticized and rejected, then already in this
 very life ten legitimate grounds for rebuttal and criticism would come upon
-him.
+them.
 
-"If he criticizes right view, then he honors and praises samaṇas and brahmins
+"If they criticize right view, then they honor and praise samaṇas and brahmins
 of wrong view.
 
-"If he criticizes right attitude, then he honors and praises samaṇas and
+"If they criticize right attitude, then they honor and praise samaṇas and
 brahmins of wrong attitude.
 
-"If he criticizes right speech, then he honors and praises samaṇas and brahmins
+"If they criticize right speech, then they honor and praise samaṇas and brahmins
 of wrong speech.
 
-"If he criticizes right action, then he honors and praises samaṇas and brahmins
+"If they criticize right action, then they honor and praise samaṇas and brahmins
 of wrong action.
 
-"If he criticizes right livelihood, then he honors and praises samaṇas and
+"If they criticize right livelihood, then they honor and praise samaṇas and
 brahmins of wrong livelihood.
 
-"If he criticizes right effort, then he honors and praises samaṇas and
+"If they criticize right effort, then they honor and praise samaṇas and
 brahmins of wrong effort.
 
-"If he criticizes right remembering, then he honors and praises samaṇas and
+"If they criticize right remembering, then they honor and praise samaṇas and
 brahmins of wrong remembering.
 
-"If he criticizes right mental composure, then he honors and praises samaṇas
+"If they criticize right mental composure, then they honor and praise samaṇas
 and brahmins of wrong composure.
 
-"If he criticizes right knowledge, then he honors and praises samaṇas and
+"If they criticize right knowledge, then they honor and praise samaṇas and
 brahmins of wrong knowledge.
 
-"If he criticizes right release, then he honors and praises samaṇas and
+"If they criticize right release, then they honor and praise samaṇas and
 brahmins of wrong release.
 
 "If any samaṇa or brahmin should think that this dhamma exposition called 'The
 Great Forty' ought to be criticized and rejected, then already in this very
 life these ten legitimate grounds of rebuttal and criticism would come upon
-him.
+them.
 
 "Even those samaṇas and brahmins who loudly and boldly proclaimed no-cause,
 no-action, and nothingness did not imagine that The Great Forty should be

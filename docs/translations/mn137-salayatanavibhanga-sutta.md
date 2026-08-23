@@ -97,16 +97,16 @@ That is what was said with reference to this.
 "'The eighteen mental explorations are to be known' was said. And with
 reference to what was that said?
 
-Seeing a form with the eye, one mentally explores a form that supports
-gladness, a form that supports distress, and a form that supports dynamic
-balance.
+When someone sees a form with the eye, they mentally explore a form that
+supports gladness, a form that supports distress, and a form that supports
+dynamic balance.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Knowing a dhamma with the mind, one mentally explores a dhamma that supports
-gladness, a dhamma that supports distress, and a dhamma that supports dynamic
-balance.
+When someone knows a dhamma with the mind, they mentally explore a dhamma that
+supports gladness, a dhamma that supports distress, and a dhamma that supports
+dynamic balance.
 
 So there are six explorations of gladness, six explorations of distress, and
 six explorations of dynamic balance. These are the eighteen mental
@@ -370,17 +370,20 @@ west, north, or south.
 But when a person is trained by the Tathāgata, the arahant, the fully awakened
 Buddha, that person runs in eight directions:
 
-- perceiving form internally, they see external forms - not perceiving form
-  internally, they see external forms - they are intent only on the beautiful -
-  going beyond all form-recognition, with the ending of resistance-recognition
+- perceiving form internally, they see external forms
+- not perceiving form internally, they see external forms
+- they are intent only on the beautiful
+- going beyond all form-recognition, with the ending of resistance-recognition
   and without attending to diversity-recognition, they enter and remain in the
-  sphere of boundless space - going beyond the sphere of boundless space, they
-  enter and remain in the sphere of boundless knowing - going beyond the sphere
-  of boundless knowing, they enter and remain in the sphere of nothingness -
-  going beyond the sphere of nothingness, they enter and remain in the sphere
-  of neither-recognition-nor-non-recognition - going beyond the sphere of
-  neither-recognition-nor-non-recognition, they enter and remain in the
-  quenching of recognition and feeling
+  sphere of boundless space
+- going beyond the sphere of boundless space, they enter and remain in the
+  sphere of boundless knowing
+- going beyond the sphere of boundless knowing, they enter and remain in the
+  sphere of nothingness
+- going beyond the sphere of nothingness, they enter and remain in the sphere
+  of neither-recognition-nor-non-recognition
+- going beyond the sphere of neither-recognition-nor-non-recognition, they
+  enter and remain in the quenching of recognition and feeling
 
 That is how a person trained by the Tathāgata runs in these eight directions.
 
