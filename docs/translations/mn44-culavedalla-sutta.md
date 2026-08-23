@@ -33,15 +33,15 @@ At one time the Buddha was staying near Rājagaha, in the Bamboo Grove, at the
 squirrels' feeding ground.
 
 Then Visākha the lay follower went to Dhammadinnā the bhikkhunī. He bowed to
-her and sat to one side. Sitting there, he said to her:
+her and sat to one side. Once seated, he said:
 
 ### Identity
 
 "Ayye, people say, 'identity, identity.'
 
-What, Ayye, has the Buddha called identity?"
+What does the Buddha call identity, Ayye?"
 
-"Friend Visākha, the Buddha has called these five clung-to heaps identity:
+"Friend Visākha, the Buddha calls these five clung-to heaps identity:
 
 - the clung-to heap of form
 - the clung-to heap of felt experience
@@ -49,7 +49,7 @@ What, Ayye, has the Buddha called identity?"
 - the clung-to heap of putting things together
 - the clung-to heap of knowing
 
-Friend Visākha, the Buddha has called these five clung-to heaps identity."
+Friend Visākha, the Buddha calls these five clung-to heaps identity."
 
 Saying, "Good, Ayye," Visākha the lay follower was glad and approved of
 Dhammadinnā the bhikkhunī's words. Then he asked her a further question:
@@ -58,7 +58,7 @@ Dhammadinnā the bhikkhunī's words. Then he asked her a further question:
 
 "Ayye, people say, 'the origin of identity, the origin of identity.'
 
-What has the Buddha called the origin of identity?"
+What does the Buddha call the origin of identity?"
 
 "Friend Visākha, it is that ignorant wanting that leads to renewed becoming,
 accompanied by relishing and passion, delighting here and there, that is:
@@ -67,25 +67,25 @@ accompanied by relishing and passion, delighting here and there, that is:
 - ignorant wanting for becoming
 - ignorant wanting for non-becoming
 
-This, friend Visākha, is what the Buddha has called the origin of identity."
+This, friend Visākha, is what the Buddha calls the origin of identity."
 
 ### The Quenching of Identity
 
 "Ayye, people say, 'the quenching of identity, the quenching of identity.'
 
-What has the Buddha called the quenching of identity?"
+What does the Buddha call the quenching of identity?"
 
 "Friend Visākha, it is the complete fading and quenching of that very ignorant
 wanting: giving it up, relinquishing it, freedom, non-attachment.
 
-This, friend Visākha, is what the Buddha has called the quenching of identity."
+This, friend Visākha, is what the Buddha calls the quenching of identity."
 
 ### The Path to the Quenching of Identity
 
 "Ayye, people say, 'the path of practice leading to the quenching of identity,
 the path of practice leading to the quenching of identity.'
 
-What has the Buddha called the path of practice leading to the quenching of
+What does the Buddha call the path of practice leading to the quenching of
 identity?"
 
 "Friend Visākha, it is just this noble eightfold path:
@@ -99,16 +99,16 @@ identity?"
 - right remembering
 - right mental composure
 
-This, friend Visākha, is what the Buddha has called the path of practice
-leading to the quenching of identity."
+This, friend Visākha, is what the Buddha calls the path of practice leading to
+the quenching of identity."
 
 ### Taking Personally
 
-"Ayye, is taking personally the same as those five clung-to heaps, or is
-taking personally something apart from the five clung-to heaps?"
+"Is taking personally the same as the five clung-to heaps, Ayye, or is it
+separate from them?"
 
-"Friend Visākha, taking personally is not the same as those five clung-to
-heaps, nor is taking personally something apart from the five clung-to heaps.
+"Friend Visākha, taking personally is not the same as the five clung-to heaps,
+nor is it separate from them.
 
 The desire and passion in regard to the five clung-to heaps: that is the
 taking personally there."
@@ -459,8 +459,8 @@ bhikkhunī's words. He rose from his seat, bowed to her, and respectfully
 circled her, keeping her to his right. Then he went to the Buddha, bowed, and
 sat to one side.
 
-Sitting there, he reported to the Buddha the whole conversation he had had
-with Dhammadinnā the bhikkhunī.
+Once seated, he recounted his whole conversation with Dhammadinnā the
+bhikkhunī.
 
 When this was said, the Buddha said to him:
 

@@ -30,16 +30,15 @@ the Bamboo Grove, at the Squirrels' Feeding Ground. Now at that time
 Venerable Rāhula was staying at Ambalaṭṭhikā.
 
 Then, when it was evening, the Buddha rose from seclusion and went to
-Ambalaṭṭhikā, to where Venerable Rāhula was. Venerable Rāhula saw the
-Buddha coming in the distance and prepared a seat and water for washing
-the feet. The Buddha sat down on the seat prepared for him and washed
-his feet. Venerable Rāhula bowed to the Buddha and sat down to one side.
+Ambalaṭṭhikā, where Venerable Rāhula was staying. Venerable Rāhula saw the
+Buddha coming in the distance and prepared a seat and water for washing the
+feet. The Buddha sat down on the seat prepared for him and washed his feet.
+Venerable Rāhula bowed to the Buddha and sat down to one side.
 
 ### The Water Vessel
 
-Then the Buddha, leaving a little water in the water vessel, said to
-Venerable Rāhula: "Rāhula, do you see this little water left in the water
-vessel?"
+The Buddha left a little water in the vessel and said to Venerable Rāhula:
+"Rāhula, do you see this little water left in the water vessel?"
 
 "Yes, Bhante."
 
@@ -72,17 +71,15 @@ contemplation that is empty and void just like that.
 
 ### The War Elephant
 
-Suppose, Rāhula, there were a royal war elephant, with tusks like
-chariot-poles, fully grown, of good breed, accustomed to battle. Going into
-battle, it would use its forefeet and its hindfeet, its forequarters and its
-hindquarters, its head and its ears and its tusks and its tail, but it would
-guard its trunk. Then the elephant trainer would think: 'This royal war
-elephant has not yet given up its life for the king.' But when that royal
-war elephant, going into battle, uses its forefeet and its hindfeet, its
-forequarters and its hindquarters, its head and its ears and its tusks and
-its tail, and its trunk as well — then the elephant trainer thinks: 'This
-royal war elephant has now given up its life for the king. There is nothing
-it will not do.'
+Suppose, Rāhula, there were a royal war elephant with tusks like chariot-poles.
+It would be fully grown, of good breed, and accustomed to battle. In battle it
+would use its forefeet and hindfeet, forequarters and hindquarters, head, ears,
+tusks, and tail, but it would guard its trunk. The elephant trainer would
+think: 'This royal war elephant has not yet given up its life for the king.'
+
+But if it also used its trunk in battle, the elephant trainer would think:
+'This royal war elephant has now given up its life for the king. There is
+nothing it will not do.'
 
 In the same way, Rāhula, for whoever feels no shame in speaking a deliberate
 lie, there is no evil, I say, that they would not do. Therefore, Rāhula, you

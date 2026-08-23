@@ -159,3 +159,19 @@ sufficient lexicon coverage:
   formula record were added in a later lexicon-backlog pass; see Re-audit
   Calls above. Future revisions should focus on the `brahmacariya` rendering
   if the house develops a narrower policy for the liberation formula.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`
+- Review: made the opening definition and uncertainty passage easier to hear;
+  preserved the ascending `still more to do` refrain, five similes,
+  body-permeation formulas, higher knowledges, and seven-title wordplay.
+- Automated review: pending integration
+- Alexander H read-aloud: pending
+- Newcomer review: pending
+- Governed wording retained: `knowing measure in eating` and the seven title
+  epithets remain unchanged because the notes govern their functional and
+  wordplay renderings.

@@ -232,3 +232,19 @@ All governing terms for MN 38 are covered by existing lexicon records:
   `manosañcetanā` if a `cetanā` (volition) major entry is added; and on the
   `imasmiṁ sati` / `imasmiṁ asati` formulas if a formula record is created
   for the fundamental conditional-arising expression.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`
+- Review: clarified Sāti's repeated claim and the householder's going-forth
+  sequence; preserved the conditioned-knowing and fire teaching, the nutriment
+  dialogue, both full conditional chains, and the six-door parallel.
+- Automated review: pending integration
+- Alexander H read-aloud: pending
+- Newcomer review: pending
+- Governed wording retained: `he is the one who speaks and knows`, `cognizes an
+  idea`, and `Having been what, what did we become?` remain unchanged because
+  their referent and stock-formula distinctions require source-level review.

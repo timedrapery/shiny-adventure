@@ -35,18 +35,18 @@ Anāthapiṇḍika's monastery.
 ### Ariṭṭha's Wrong View
 
 Now at that time a bhikkhu called Ariṭṭha, formerly a vulture-trapper, had
-developed the following pernicious view: "As I understand the teaching taught
-by the Buddha, the obstructing qualities named by the Buddha do not obstruct
-anyone who engages in them."
+developed the following pernicious view: "As I understand the Buddha's
+teaching, the obstructing qualities named by the Buddha do not obstruct anyone
+who engages in them."
 
 Several bhikkhus heard this rumour. They went to the bhikkhu Ariṭṭha and said:
 "Is it really true, Reverend Ariṭṭha, that you hold this pernicious view: 'As I
-understand the teaching taught by the Buddha, the obstructing qualities named
-by the Buddha do not obstruct anyone who engages in them'?"
+understand the Buddha's teaching, the obstructing qualities named by the Buddha
+do not obstruct anyone who engages in them'?"
 
-"It is exactly so, reverends. As I understand the teaching taught by the
-Buddha, the obstructing qualities named by the Buddha do not obstruct anyone
-who engages in them."
+"It is exactly so, reverends. As I understand the Buddha's teaching, the
+obstructing qualities named by the Buddha do not obstruct anyone who engages
+in them."
 
 Then, wishing to dissuade the bhikkhu Ariṭṭha from this pernicious view, those
 bhikkhus pressed him, challenged him, and argued with him: "Do not say that,
@@ -73,9 +73,8 @@ Ariṭṭha, the teacher summons you."
 
 "Yes, reverend," Ariṭṭha replied. He went to the Buddha, bowed, and sat to one
 side. The Buddha said to him: "Is it really true, Ariṭṭha, that you hold this
-pernicious view: 'As I understand the teaching taught by the Buddha, the
-obstructing qualities named by the Buddha do not obstruct anyone who engages in
-them'?"
+pernicious view: 'As I understand the Buddha's teaching, the obstructing
+qualities named by the Buddha do not obstruct anyone who engages in them'?"
 
 "It is exactly so, Bhante."
 
@@ -133,17 +132,17 @@ sensual desire, sensual recognition, and sensual thinking.
 Here, some misguided persons learn the teaching — suttas, mixed texts,
 analyses, verses, inspired utterances, 'thus it was said' texts, birth stories,
 remarkable accounts, and question-and-answer texts. Once they have learned it,
-they do not examine the meaning of those teachings with discernment. Not
-examining the meaning with discernment, they do not arrive at a considered
-acceptance of those teachings. They learn the teaching for the sake of finding
-fault and winning arguments. They do not experience the goal for which they
-learned. Those teachings, being wrongly grasped, lead to their long-lasting
-harm and suffering. Why is that? Because of wrong grasp.
+they do not examine the meaning of those teachings with discernment. Because
+they do not examine the meaning with discernment, they do not arrive at a
+considered acceptance of those teachings. They learn the teaching for the sake
+of finding fault and winning arguments. They do not experience the goal for
+which they learned. Those teachings, being wrongly grasped, lead to their
+long-lasting harm and suffering. Why is that? Because of wrong grasp.
 
-Suppose, bhikkhus, a person wanted a cobra and went searching for one. They
-find a large cobra and grasp it by the coil or the tail. That cobra twists
-back and bites them on the hand or the arm or some other limb — resulting in
-death or death-level pain. Why is that? Because of wrong grasp of the cobra.
+Suppose, bhikkhus, a person wants a cobra and goes searching for one. They find
+a large cobra and grasp it by the coil or the tail. That cobra twists back and
+bites them on the hand, the arm, or some other limb, resulting in death or
+death-level pain. Why is that? Because of wrong grasp of the cobra.
 
 In the same way, those misguided persons learn the teaching — suttas, mixed
 texts, analyses, and the rest. Once they have learned it, they do not examine
@@ -155,17 +154,17 @@ that? Because of wrong grasp.
 But here, some gentlemen learn the teaching — suttas, mixed texts, analyses,
 verses, inspired utterances, 'thus it was said' texts, birth stories,
 remarkable accounts, and question-and-answer texts. Once they have learned it,
-they examine the meaning of those teachings with discernment. Examining the
-meaning with discernment, they arrive at a considered acceptance. They do not
-learn for the sake of finding fault and winning arguments. They experience the
-goal for which they learned. Those teachings, being correctly grasped, lead to
-their long-lasting welfare and happiness. Why is that? Because of correct
-grasp.
+they examine the meaning of those teachings with discernment. Because they
+examine the meaning with discernment, they arrive at a considered acceptance.
+They do not learn for the sake of finding fault and winning arguments. They
+experience the goal for which they learned. Those teachings, being correctly
+grasped, lead to their long-lasting welfare and happiness. Why is that?
+Because of correct grasp.
 
-Suppose, bhikkhus, a person wanted a cobra and went searching for one. They
-find a large cobra, and carefully pin it down with a forked stick. Having
-pinned it, they grasp it firmly by the neck. That cobra, though it wraps its
-coils around the person's hand or arm or other limbs, does not cause death or
+Suppose, bhikkhus, a person wants a cobra and goes searching for one. They find
+a large cobra and carefully pin it down with a forked stick. Once they have
+pinned it down, they grasp it firmly by the neck. Though the cobra wraps its
+coils around the person's hand, arm, or other limbs, it does not cause death or
 death-level pain. Why is that? Because of correct grasp of the cobra.
 
 In the same way, those gentlemen learn the teaching — suttas, mixed texts,

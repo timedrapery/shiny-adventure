@@ -182,3 +182,19 @@ source-audit calls, and edition notes that govern it.
   and `paritassanā` minor entries were added in a later lexicon-backlog pass;
   see Re-audit Calls above. The raft simile was determined not to need its
   own formula record (see Governing Decisions).
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`
+- Review: simplified Ariṭṭha's repeated claim and the cobra-simile syntax;
+  preserved the ten sensual-pleasure similes, the wrong/right grasp parallel,
+  the raft teaching, the not-self refrain, and intentional repetition.
+- Automated review: pending integration
+- Alexander H read-aloud: pending
+- Newcomer review: pending
+- Governed wording retained: `the teaching as like a raft — for crossing over,
+  not for holding on` remains unchanged because this notes file fixes that
+  rendering for MN 22 and its cross-surface use.

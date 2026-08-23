@@ -166,3 +166,19 @@ source-audit calls, and edition notes that govern it.
 - MN 43 is the Wave 7 lead candidate. It was chosen because the emptiness /
   signless / wishless interface cluster was the only governed cluster with no
   running text behind any of its thirteen terms.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, and `OSF-AV-7`
+- Review: improved the opening exchange, future-becoming contrast, and
+  body-left-behind question; preserved the catechism frame, faculty lists,
+  cessation analysis, release sequence, and deliberate repetition.
+- Automated review: pending integration
+- Alexander H read-aloud: pending
+- Newcomer review: pending
+- Governed wording retained: the reciprocal `vitality remains depending on
+  warmth` / `warmth remains depending on vitality` lines and `a something`
+  remain unchanged because their exact technical echoes are governed.
