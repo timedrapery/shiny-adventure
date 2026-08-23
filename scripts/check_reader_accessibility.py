@@ -296,6 +296,38 @@ def accessibility_asset_failures(
     for token, purpose in required_css.items():
         if token not in css_text:
             failures.append(f"reader.css: missing {purpose} ({token})")
+
+    # Material for MkDocs absolutely positions its own summary pseudo-elements.
+    # A grid on the summary therefore puts the anonymous label text in the
+    # narrow marker column and can render it one character per line. Keep the
+    # label in normal block flow and fully reset the theme's masked icon before
+    # drawing our own disclosure marker.
+    summary_rule = re.search(
+        r"\.reader-terms\s+summary\s*\{(?P<body>[^}]*)\}",
+        css_text,
+        re.DOTALL,
+    )
+    if not summary_rule or not re.search(
+        r"\bdisplay\s*:\s*block\b", summary_rule.group("body")
+    ):
+        failures.append(
+            "reader.css: terms summary label must use full-width block layout"
+        )
+
+    indicator_rule = re.search(
+        r"\.reader-terms\s+summary::before\s*\{(?P<body>[^}]*)\}",
+        css_text,
+        re.DOTALL,
+    )
+    indicator_body = indicator_rule.group("body") if indicator_rule else ""
+    indicator_requirements = {
+        r"\bposition\s*:\s*absolute\b": "positioned disclosure indicator",
+        r"(?<!-)\bmask\s*:\s*none\b": "theme mask reset",
+        r"-webkit-mask\s*:\s*none\b": "Chromium theme mask reset",
+    }
+    for pattern, purpose in indicator_requirements.items():
+        if not re.search(pattern, indicator_body):
+            failures.append(f"reader.css: missing {purpose}")
     return failures
 
 
