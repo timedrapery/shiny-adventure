@@ -19,6 +19,7 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Regression tests", [sys.executable, "-m", "unittest", "discover", "-s", "tests"]),
     ("Documentation integrity", [sys.executable, "scripts/check_docs_integrity.py"]),
     ("Translation surface registry", [sys.executable, "scripts/translation_surface_index.py", "--check"]),
+    ("Spoken voice review provenance", [sys.executable, "scripts/check_spoken_voice_sources.py"]),
     ("Markdown list structure", [sys.executable, "scripts/check_markdown_structure.py"]),
     ("Reader generation", [sys.executable, "scripts/generate_reader.py", "--check"]),
     ("Generated docs freshness", [sys.executable, "scripts/check_generated_docs.py"]),

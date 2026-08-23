@@ -10,7 +10,7 @@ rereading the commit history. The standard says what good English looks like.
 This document says what was done, what was deliberately left alone, and how
 to do the same kind of work safely next time.
 
-Last updated 2026-08-19. The rollout is complete; what remains here is the
+Last updated 2026-08-22. The rollout is complete; what remains here is the
 working method, the traps, and the decisions that were deliberately deferred.
 Read it before touching a translation surface or extending the audit.
 
@@ -24,24 +24,44 @@ reader page. Counts are not restated here; they follow the registry.
   by `scripts/generate_reader.py --check` inside `run_checks.py`. The audit
   scans the canonical surfaces only; auditing the generated copies as well
   would double-count every finding.
-- The audit reports 5 signals, and all 5 are the documented exceptions listed
+- The audit reports 10 signals, and all 10 are the documented exceptions listed
   under Deliberately Deferred below.
 
 ```bash
 python scripts/plain_english_audit.py
 ```
 
-Expect 5. Higher means a regression or a new surface; lower means one of the
+Expect 10. Higher means a regression or a new surface; lower means one of the
 deferred decisions has been settled and this document needs updating.
 
-The 5 are: three occurrences of `recognition of unattractiveness` in the
-AN 10.60 surface, one `one who` in MN 38 naming a referent, and one `duality
-of existence` in SN 12.15. None is a defect.
+The 10 are: five occurrences of `a noble one cultivates` in MN 137, three
+occurrences of `recognition of unattractiveness` in the canonical AN 10.60
+surface, one `one who` in MN 38 naming a referent, and one `duality of
+existence` in SN 12.15. None is an undocumented defect.
 
 This section said 8 until 2026-08-21. That count included the AN 10.60 notes
 file. The audit skips `-notes.md` as apparatus rather than translation, so the
 notes occurrences were never in its output; the number, not the corpus, was
 wrong. The three exception categories are unchanged.
+
+## Spoken-Voice Pilot — 2026-08-22
+
+The completed anti-translationese rollout remains complete. The SN 36.6
+spoken-voice pilot is a separate, opt-in calibration layer; it does not reopen
+the corpus-wide retrofit or change the five documented audit exceptions.
+
+The pilot is governed by
+[osf-spoken-translation-profile.md](osf-spoken-translation-profile.md). Its
+source roles, speaker scope, transcript-review state, and rights boundaries
+live in the metadata-only
+[source manifest](../candidates/source-manifests/osf-spoken-translation-sources.json).
+Run `python scripts/check_spoken_voice_sources.py` to validate that provenance
+and the review records attached to opted-in surfaces.
+
+Automated checks and a finished draft do not make a pilot surface `approved`.
+Approval still requires the recorded read-aloud, fidelity, governance, and
+newcomer-comprehension reviews in the profile. Until those human checks are
+complete, keep the surface status at `pilot`.
 
 ### This Document Has Claimed Completion Once Before, Wrongly
 
@@ -204,6 +224,14 @@ it `Well-Departed One`. Three renderings for one governed term. Recorded in
 MN 38, Sati's wrong view. Ordinary English naming a referent, not the
 generic-person artifact. Stays flagged by the advisory audit on purpose.
 
+### `a noble one cultivates`
+
+MN 137, five times. Here `one` is the noun in the teacher label `a noble one`,
+not an unnamed generic-person stand-in. The phrase is also pinned in the
+reviewed `mn137-three-establishments-of-sati` control record. A future choice
+such as `a noble person` should move through that record and all five surface
+occurrences together rather than being hidden as an audit-only exception.
+
 ### `recognition of unattractiveness`
 
 Six occurrences, three in each of the two AN 10.60 files. A nominalized
@@ -252,7 +280,7 @@ decision about the middle-way formula, not a register fix.
 All four conditions are currently met:
 
 - `python scripts/plain_english_audit.py` reports only signals that are
-  documented exceptions in this file — currently 8
+  documented exceptions in this file — currently 10
 - no governed rendering in `terms/` carries the generic person, excluding
   epithet nouns such as `worthy one` and `Thus-Gone One`, where `one` is a
   noun meaning `person` rather than a pronoun stand-in
