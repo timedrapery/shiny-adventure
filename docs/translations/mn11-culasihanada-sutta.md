@@ -27,10 +27,11 @@
 So I heard.
 
 At one time the Buddha was staying near Sāvatthī, in Jeta's Grove,
-Anāthapiṇḍika's monastery. There the Buddha addressed the bhikkhus:
-"Bhikkhus."
+Anāthapiṇḍika's monastery.
 
-"Bhadante," those bhikkhus replied.
+There the Buddha addressed the bhikkhus: "Bhikkhus."
+
+"Bhadante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -44,7 +45,7 @@ That, bhikkhus, is how you should rightly roar your lion's roar.
 
 ### What Others Will Ask
 
-It is possible, bhikkhus, that wanderers of other schools might say: 'And on
+Bhikkhus, wanderers of other schools may say: 'And on
 what confidence, on what strength, do the venerable ones say this — that only
 here is there a recluse, only here a second, only here a third, only here a
 fourth, and that other schools are empty of recluses?'
@@ -66,7 +67,7 @@ ourselves that we speak this way.'
 
 ### When They Claim the Same
 
-It is possible, bhikkhus, that wanderers of other schools might say: 'Friends,
+Bhikkhus, wanderers of other schools may say: 'Friends,
 we too have confidence in the Teacher — our own Teacher. We too have confidence
 in the Dhamma — our own Dhamma. We too fulfil the precepts — our own precepts.
 Our companions in the Dhamma are dear and agreeable to us too, both those who
@@ -205,7 +206,7 @@ directed.
 
 Why is that?
 
-Because that is how it goes, bhikkhus, in a Dhamma and discipline badly
+Because, bhikkhus, that is what happens in a Dhamma and discipline badly
 declared, badly proclaimed, not leading out, not conducive to peace, not
 declared by a fully awakened one.
 
@@ -222,7 +223,7 @@ fondness for companions in the Dhamma is said to be rightly directed.
 
 Why is that?
 
-Because that is how it goes, bhikkhus, in a Dhamma and discipline well
+Because, bhikkhus, that is what happens in a Dhamma and discipline well
 declared, well proclaimed, leading out, conducive to peace, declared by a
 fully awakened one.
 

@@ -143,3 +143,22 @@ source-audit calls, and edition notes that govern it.
   15 translation surface.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the self-designation alternatives now use complete spoken
+  clauses, and broken agreement in the stations-of-knowing questions has been
+  repaired; the conditional chain, proof refrains, self-view sequence, and
+  release lists remain intact.
+- Governed wording left unchanged: `Not agitated, one personally reaches final
+  nibbāna` and the final two-sided-release formula still switch generic
+  pronouns; changing them safely requires a coordinated formula-family review.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

@@ -32,8 +32,8 @@ The Buddha said this:
 
 ### The Root Sequence
 
-"Bhikkhus, I will teach you the root sequence of all things. Listen carefully,
-attend well, and I will speak."
+"Bhikkhus, I will teach you the root sequence of all things. Listen carefully
+and attend well. I will speak."
 
 "Yes, bhante," the bhikkhus replied.
 
@@ -323,10 +323,11 @@ lived the spiritual life, done what had to be done, laid down the burden,
 reached the goal, worn away the fetters of becoming, and is rightly released
 through final knowledge:
 
-- They directly know earth as earth. Once they have directly known earth as earth, they
-  does not take themselves to be earth, does not take themselves in earth, does not
-  take themselves apart from earth, does not take earth as 'mine', and does not
-  delight in earth. Why? Because it has been fully understood, I say.
+- They directly know earth as earth. Once they have directly known earth as
+  earth, they do not take themselves to be earth, do not take themselves in
+  earth, do not take themselves apart from earth, do not take earth as 'mine',
+  and do not delight in earth. Why? Because it has been fully understood, I
+  say.
 - The same pattern holds for water, fire, air, beings, gods, Pajāpati,
   Brahmā, Abhassara, Subhakiṇha, Vehapphala, Abhibhū, the sphere of boundless
   space, the sphere of boundless knowing, the sphere of nothingness, the

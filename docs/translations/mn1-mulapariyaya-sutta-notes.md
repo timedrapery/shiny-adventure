@@ -98,3 +98,21 @@ source-audit calls, and edition notes that govern it.
   MN 1 translation surface.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine word swapping.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the opening instruction now lands as separate spoken moves,
+  and a broken subject-verb sequence in the arahant section has been repaired;
+  the self-taking pattern, sequence, and intentional repetition remain intact.
+- Governed wording left unchanged: `sphere of
+  neither-recognition-nor-non-recognition` and the full-understanding refrains
+  must be revised through their controlling records, not on MN 1 alone.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

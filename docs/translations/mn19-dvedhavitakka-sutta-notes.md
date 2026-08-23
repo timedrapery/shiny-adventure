@@ -102,3 +102,22 @@ translation choices, source-audit calls, and edition notes that govern it.
   MN 19 translation surface.
 - Future revisions should be driven by source-audit gains, policy changes, or
   real readability improvements, not routine word swapping.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: a broken class label was repaired, and the cowherd and
+  wholesome-thinking conditionals now keep a consistent spoken tense; the two
+  classes, repeated consequences, similes, and knowledge sequence remain
+  intact.
+- Governed wording left unchanged: the final `Think like this` instruction and
+  `feeling mind` / `mental theme` vocabulary remain repository-level choices
+  and were not replaced with more familiar meditation language.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

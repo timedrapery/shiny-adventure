@@ -122,3 +122,22 @@ source-audit calls, and edition notes that govern it.
   MN 2 translation surface.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the opening instruction and question now move in shorter,
+  direct steps, and the reason for avoiding unsuitable situations is stated in
+  concrete English; the seven methods and their repeated consequences remain
+  intact.
+- Governed wording left unchanged: `lives restrained by restraint of the eye
+  faculty` and the requisites line beginning `put down old felt experience`
+  belong to shared formula families and should not be naturalized here alone.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

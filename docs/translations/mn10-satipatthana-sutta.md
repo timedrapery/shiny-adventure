@@ -207,21 +207,21 @@ That is how a bhikkhu remains observing the body in relation to the body."
 "And how does a bhikkhu remain observing felt experience in relation to felt
 experience?
 
-Here a bhikkhu, when feeling pleasant feeling, knows: 'I feel pleasant
-feeling.' When feeling painful feeling, they know: 'I feel painful feeling.'
-When feeling mixed feeling, they know: 'I feel mixed feeling.'
+Here, when a bhikkhu feels pleasant feeling, they know: 'I feel pleasant
+feeling.' When they feel painful feeling, they know: 'I feel painful feeling.'
+When they feel mixed feeling, they know: 'I feel mixed feeling.'
 
-When feeling worldly pleasant feeling, they know: 'I feel worldly pleasant
-feeling.' When feeling unworldly pleasant feeling, they know: 'I feel unworldly
-pleasant feeling.'
+When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
+feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
+unworldly pleasant feeling.'
 
-When feeling worldly painful feeling, they know: 'I feel worldly painful
-feeling.' When feeling unworldly painful feeling, they know: 'I feel unworldly
-painful feeling.'
+When they feel worldly painful feeling, they know: 'I feel worldly painful
+feeling.' When they feel unworldly painful feeling, they know: 'I feel
+unworldly painful feeling.'
 
-When feeling worldly mixed feeling, they know: 'I feel worldly mixed feeling.'
-When feeling unworldly mixed feeling, they know: 'I feel unworldly mixed
-feeling.'
+When they feel worldly mixed feeling, they know: 'I feel worldly mixed
+feeling.' When they feel unworldly mixed feeling, they know: 'I feel unworldly
+mixed feeling.'
 
 Then they remain observing felt experience as internal, observing felt
 experience as external, and observing felt experience as both internal and
@@ -285,36 +285,36 @@ feeling mind."
 Here a bhikkhu remains observing dhammas among dhammas in the five
 distractions.
 
-And how does one remain observing dhammas among dhammas in the five
+And how does a bhikkhu remain observing dhammas among dhammas in the five
 distractions?
 
 When sensual distraction is present internally, they discern: 'There is sensual
 distraction in me.' When sensual distraction is absent internally, they
-discern: 'There is no sensual distraction in me.' One also discerns how
+discern: 'There is no sensual distraction in me.' They also discern how
 unarisen sensual distraction arises, how arisen sensual distraction is given
 up, and how abandoned sensual distraction does not arise again in the future.
 
 When aversive distraction is present internally, they discern: 'There is
 aversive distraction in me.' When aversive distraction is absent internally,
-they discern: 'There is no aversive distraction in me.' One also discerns how
+they discern: 'There is no aversive distraction in me.' They also discern how
 unarisen aversive distraction arises, how arisen aversive distraction is given
 up, and how abandoned aversive distraction does not arise again in the future.
 
 When dull distraction is present internally, they discern: 'There is dull
 distraction in me.' When dull distraction is absent internally, they discern:
-'There is no dull distraction in me.' One also discerns how unarisen dull
+'There is no dull distraction in me.' They also discern how unarisen dull
 distraction arises, how arisen dull distraction is given up, and how abandoned
 dull distraction does not arise again in the future.
 
 When agitated distraction is present internally, they discern: 'There is
 agitated distraction in me.' When agitated distraction is absent internally,
-they discern: 'There is no agitated distraction in me.' One also discerns how
+they discern: 'There is no agitated distraction in me.' They also discern how
 unarisen agitated distraction arises, how arisen agitated distraction is given
 up, and how abandoned agitated distraction does not arise again in the future.
 
 When uncertain distraction is present internally, they discern: 'There is
 uncertain distraction in me.' When uncertain distraction is absent internally,
-they discern: 'There is no uncertain distraction in me.' One also discerns how
+they discern: 'There is no uncertain distraction in me.' They also discern how
 unarisen uncertain distraction arises, how arisen uncertain distraction is
 given up, and how abandoned uncertain distraction does not arise again in the
 future.
@@ -331,7 +331,7 @@ depending on anything and do not take anything in the world personally."
 "Again, a bhikkhu remains observing dhammas among dhammas in the five
 clung-to heaps.
 
-And how does one remain observing dhammas among dhammas in the five clung-to
+And how does a bhikkhu remain observing dhammas among dhammas in the five clung-to
 heaps?
 
 Here a bhikkhu discerns:
@@ -357,11 +357,11 @@ world personally.]"
 "Again, a bhikkhu remains observing dhammas among dhammas in the six internal
 and external fields.
 
-And how does one remain observing dhammas among dhammas in the six internal
+And how does a bhikkhu remain observing dhammas among dhammas in the six internal
 and external fields?
 
 Here a bhikkhu discerns the eye, visible forms, and the fetter that arises
-dependent on both. One also discerns how an unarisen fetter arises, how an
+dependent on both. They also discern how an unarisen fetter arises, how an
 arisen fetter is given up, and how an abandoned fetter does not arise again in
 the future.
 
@@ -369,7 +369,7 @@ The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
 They discern the mind, dhammas, and the fetter that arises dependent on both.
-One also discerns how an unarisen fetter arises, how an arisen fetter is given
+They also discern how an unarisen fetter arises, how an arisen fetter is given
 up, and how an abandoned fetter does not arise again in the future.
 
 [The same dhammas refrain follows here.]"
@@ -379,12 +379,12 @@ up, and how an abandoned fetter does not arise again in the future.
 "Again, a bhikkhu remains observing dhammas among dhammas in the seven
 awakening factors.
 
-And how does one remain observing dhammas among dhammas in the seven
+And how does a bhikkhu remain observing dhammas among dhammas in the seven
 awakening factors?
 
 When the remembering awakening factor is present internally, they discern: 'The
 remembering awakening factor is present in me.' When it is absent internally,
-they discern: 'The remembering awakening factor is not present in me.' One also
+they discern: 'The remembering awakening factor is not present in me.' They also
 discerns how the unarisen remembering awakening factor arises, and how the
 arisen remembering awakening factor comes to fulfillment through development.
 
@@ -400,7 +400,7 @@ balance awakening factor.
 "Again, a bhikkhu remains observing dhammas among dhammas in the four noble
 truths.
 
-And how does one remain observing dhammas among dhammas in the four noble
+And how does a bhikkhu remain observing dhammas among dhammas in the four noble
 truths?
 
 Here a bhikkhu discerns as they have come to be:
