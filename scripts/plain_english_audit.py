@@ -3,7 +3,7 @@
 
 This is the register counterpart to `check_translation_formula_consistency.py`.
 That script catches formula-level lexical drift and gates the build. This one
-catches spoken-English register problems and is advisory by default, because
+catches plain-English readability problems and is advisory by default, because
 several of its signals have legitimate exceptions and a crude gate would damage
 good translations.
 
@@ -58,7 +58,7 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     # `one in the body`. The negative lookbehind keeps `no one takes a life`,
     # which is ordinary English rather than the generic-person artifact.
     "generic one as subject": re.compile(
-        rf"(?<!\bno )\bone\s+(?!{GENERIC_ONE_STOP}\b)"
+        rf"(?<!\b[Nn]o )\bone\s+(?!{GENERIC_ONE_STOP}\b)"
         r"(?:[a-z]+(?:s|es)\b|is\b|has\b|does\b|will\b|would\b|should\b|can\b|must\b)"
     ),
     "generic one possessive": re.compile(r"\bone's\b"),

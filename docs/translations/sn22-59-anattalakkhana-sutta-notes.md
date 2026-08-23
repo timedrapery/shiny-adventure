@@ -96,18 +96,16 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the five-heaps argument is carried by direct questions and
   short replies; the de-appropriation refrain and controlled heap vocabulary
   remain unchanged.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

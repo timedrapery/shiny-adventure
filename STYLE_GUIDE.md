@@ -41,7 +41,7 @@ repo's explicit anti-translationese register rules. See
 [docs/VOICE_STANDARD.md](docs/VOICE_STANDARD.md) for the repository's default
 sentence patterns for notes, context rules, examples, and contributor docs.
 See [docs/PLAIN_ENGLISH_STANDARD.md](docs/PLAIN_ENGLISH_STANDARD.md) for the
-spoken-English standard that governs the running text of translation surfaces.
+plain-English readability standard that governs running translation text.
 
 Those three cover different things: word choice in a term record, voice in
 editorial prose, and sentences in a translation. Check which one applies before

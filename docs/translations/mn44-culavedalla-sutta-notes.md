@@ -153,18 +153,16 @@ source-audit calls, and edition notes that govern it.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Source IDs: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, and `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review: sharpened the opening definition sequence, the same/separate
   question, and the closing report; preserved `Ayye`, all governed headwords,
   conditioner order, underlying-tendency exceptions, and counterpart ladder.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud: pending
-- Newcomer review: pending
+- Human read-aloud usability review: pending.
+- Newcomer comprehension review: pending.
 - Governed wording retained: `attainment of cessation of recognition and felt
   experience` remains unchanged as a controlled compound shared with MN 43.

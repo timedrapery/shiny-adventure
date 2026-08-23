@@ -1,0 +1,280 @@
+/* Long-form reading defaults layered on top of Material for MkDocs. */
+
+.md-content__inner.md-typeset {
+  max-width: 70ch;
+  font-size: 0.9rem;
+  line-height: 1.72;
+}
+
+.md-typeset p {
+  margin-block: 0.9em 1.1em;
+}
+
+.md-typeset :is(h1, h2, h3, h4, h5, h6) {
+  scroll-margin-top: 4rem;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Links in prose must be identifiable without relying on color alone. */
+.md-typeset a:not(.headerlink):not(.md-button) {
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.16em;
+}
+
+:where(a, button, input, summary, [tabindex]):focus-visible {
+  border-radius: 0.1rem;
+  outline: 0.15rem solid var(--md-default-fg-color);
+  outline-offset: 0.15rem;
+}
+
+.md-header :where(a, button, input, label, [tabindex]):focus-visible {
+  outline-color: var(--md-primary-bg-color);
+}
+
+/* Reader-facing orientation and metadata blocks generated for sutta pages. */
+.reader-guide {
+  margin-block: 1.2rem;
+  padding: 0.8rem 1rem;
+  border-inline-start: 0.2rem solid var(--md-typeset-a-color);
+  border-radius: 0.15rem;
+  background: var(--md-default-fg-color--lightest);
+}
+
+.reader-guide > :first-child,
+.reader-terms > :first-child {
+  margin-top: 0;
+}
+
+.reader-guide > :last-child,
+.reader-terms > :last-child {
+  margin-bottom: 0;
+}
+
+.reading-meta {
+  margin-block: 0.5rem 1.2rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.95em;
+}
+
+.reader-terms {
+  margin-block: 1.2rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+}
+
+.reader-terms summary {
+  display: grid;
+  grid-template-columns: 1.1em 1fr;
+  gap: 0.35rem;
+  min-height: 44px;
+  align-items: center;
+  padding: 0.45rem 0.8rem;
+  cursor: pointer;
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+  list-style: none;
+}
+
+.reader-terms summary::-webkit-details-marker {
+  display: none;
+}
+
+.reader-terms summary::before {
+  content: "▸";
+}
+
+.reader-terms[open] summary::before {
+  content: "▾";
+}
+
+.reader-terms[open] summary {
+  border-bottom: 0.05rem solid var(--md-default-fg-color--lighter);
+  background: var(--md-default-fg-color--lightest);
+}
+
+.reader-terms dl {
+  margin: 0;
+  padding: 0.8rem;
+}
+
+.reader-terms dt {
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+}
+
+.reader-terms dd {
+  margin: 0.2rem 0 0.8rem 1rem;
+}
+
+.reader-terms dd:last-child {
+  margin-bottom: 0;
+}
+
+.reader-guide__terms,
+.glossary-list {
+  margin-block: 0.8rem;
+}
+
+.reader-guide__terms dt,
+.glossary-list dt {
+  margin-top: 0.8rem;
+  color: var(--md-default-fg-color);
+  font-weight: 600;
+}
+
+.reader-guide__terms dd,
+.glossary-list dd {
+  margin: 0.2rem 0 0.8rem 1rem;
+}
+
+.glossary-pali {
+  color: var(--md-default-fg-color--light);
+  font-weight: 400;
+}
+
+/* Previous, collection, and next links remain usable at high zoom and on touch. */
+.reading-order ul,
+.reader-pagination ul {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.5rem;
+  margin-block: 1.2rem;
+  padding: 0;
+  list-style: none;
+}
+
+.reading-order li,
+.reader-pagination li {
+  margin: 0;
+}
+
+.reading-order a,
+.reader-pagination a {
+  display: flex;
+  min-height: 44px;
+  align-items: center;
+  justify-content: center;
+  padding: 0.4rem 0.6rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  text-align: center;
+}
+
+.reading-order a:hover,
+.reader-pagination a:hover {
+  background: var(--md-default-fg-color--lightest);
+}
+
+/* Keep wide reference material usable without shrinking all text to fit. */
+.md-typeset table:not([class]) {
+  font-size: 0.75rem;
+  overscroll-behavior-inline: contain;
+}
+
+@media screen and (max-width: 44.984375em) {
+  .md-main__inner {
+    margin-top: 0.75rem;
+  }
+
+  .md-content__inner.md-typeset {
+    max-width: 100%;
+  }
+
+  .reader-guide,
+  .reader-terms {
+    margin-block: 1rem;
+  }
+
+  .reader-terms dd {
+    margin-left: 0;
+  }
+
+  .reader-guide__terms dd,
+  .glossary-list dd {
+    margin-left: 0;
+  }
+
+  .reading-order ul,
+  .reader-pagination ul {
+    grid-template-columns: 1fr;
+  }
+
+  .md-typeset table:not([class]) {
+    width: 100%;
+    font-size: 0.72rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-delay: 0ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media print {
+  @page {
+    margin: 18mm;
+  }
+
+  .md-content__inner.md-typeset {
+    max-width: none;
+    font-size: 11pt;
+    line-height: 1.55;
+  }
+
+  .md-typeset :is(h1, h2, h3, h4, h5, h6) {
+    break-after: avoid-page;
+    color: var(--md-default-fg-color);
+  }
+
+  .md-typeset :is(p, li, dd) {
+    orphans: 3;
+    widows: 3;
+  }
+
+  .reader-guide,
+  .reader-terms {
+    background: transparent;
+    break-inside: avoid-page;
+  }
+
+  .reader-terms:not([open]) > :not(summary) {
+    display: block !important;
+  }
+
+  .reader-terms::details-content {
+    height: auto !important;
+    content-visibility: visible !important;
+  }
+
+  .reader-terms summary {
+    min-height: 0;
+  }
+
+  .reading-order,
+  .reader-pagination {
+    display: none;
+  }
+
+  .md-typeset abbr {
+    border-bottom: 0;
+  }
+}

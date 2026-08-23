@@ -103,12 +103,10 @@ source-audit calls, and edition notes that govern it.
   personally is not effort against each of the four in turn but the giving up
   of ignorance, after which none of the four is taken up.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the setting, the other wanderers' possible objections, and
   the two causal answers now move in shorter spoken units; the goal contrasts,
   four kinds of taking personally, and repeated source questions remain
@@ -118,7 +116,7 @@ source-audit calls, and edition notes that govern it.
   synchronized with their controlling records.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

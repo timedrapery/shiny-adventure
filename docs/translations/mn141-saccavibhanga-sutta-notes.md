@@ -91,12 +91,10 @@ translation choices, source-audit calls, and edition notes that govern it.
 - If more Sariputta analytical discourses are translated, a small stock-phrase
   layer around the `ācikkhanā / desanā / paññāpanā` family may be worthwhile.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, and `OSF-AV-7`.
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - This pass shortened the opening wheel-of-Dhamma sentences, made the
   Sāriputta / Moggallāna comparison concrete, and corrected the first-truth
   summary so its spoken meaning is unambiguous. It preserved the four-truth
@@ -107,8 +105,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   revision.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
-- Newcomer review: pending.
+- Human read-aloud usability review: pending.
+- Newcomer comprehension review: pending.
 
 ## Edition Status
 

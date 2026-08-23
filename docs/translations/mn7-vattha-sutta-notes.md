@@ -94,12 +94,10 @@ calls, and edition notes that govern it.
   escape line, or stock-formula synchronization if those areas gain stronger
   repository controls.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: broken pronouns in the recollection formulas were repaired,
   and the going-forth and ordination actions now arrive as separate spoken
   steps; the corruption list, recollections, and divine-abiding repetitions
@@ -109,7 +107,7 @@ calls, and edition notes that govern it.
   points rather than local opportunities for paraphrase.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

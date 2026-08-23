@@ -18,9 +18,14 @@ generating script first.
   Runs the full verification suite in the same order used by CI.
 - `python scripts/check_docs_integrity.py`
   Validates internal Markdown links and required repository-surface metadata files.
-- `python scripts/check_spoken_voice_sources.py`
-  Validates the metadata-only spoken-voice source manifest, transcript and
-  rights states, cited source roles, and review records for opted-in surfaces.
+- `python scripts/check_readability_reviews.py`
+  Validates neutral readability-review coverage, companion-note metadata,
+  review status, and translation-body hashes for every registered surface.
+- `python scripts/check_reader_accessibility.py`
+  Validates the source-level reader contract: heading hierarchy, reading
+  metadata, skip links, visible definitions, named reading-order navigation,
+  structured starter guides, flowing indexes, and site-wide accessibility
+  assets.
 - `python scripts/translation_surface_index.py --check`
   Verifies that all registered translation-document pairs exist, cross-link correctly, and match the registry-driven index in `docs/translations/translation-documents.md`.
 - `python scripts/check_generated_docs.py`
@@ -63,13 +68,13 @@ generating script first.
 - `python scripts/modern_english_audit.py`
   Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
 - `python scripts/generate_reader.py --check`
-  Regenerates and verifies the whole reader's edition: sutta pages, the Start Here reading path, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/` plus the reader metadata in `scripts/surface_registry.py`; the only hand-written part of a sutta page is its `About this text` block, which is preserved. Use `--write` to regenerate.
+  Regenerates and verifies the whole reader's edition: sutta pages, the Start Here reading path, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/`, reader metadata in `scripts/surface_registry.py`, and structured Essential Five guidance in `includes/newcomer-guides/`. Legacy `About this text` and `Before you read` introductions on other pages are preserved. Use `--write` to regenerate.
 - `python scripts/check_markdown_structure.py`
   Fails when a bulleted list has been flattened into running prose by a paragraph rewriter, which is the damage that went unnoticed in MN 118 for three commits.
 - `python scripts/verify_example_sources.py`
   Checks that each `example_phrase` cites a sutta that actually contains its Pali, by fetching the Bilara root text. Needs network access and is deliberately outside `run_checks.py`. Read the verdict definitions in the script before acting: `inflected` and `inconclusive` are usually not errors, and AN numbering differs between editions.
 - `python scripts/plain_english_audit.py`
-  Reports spoken-English register signals in translation surfaces and reader pages, with guidance per signal. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
+  Reports plain-English readability signals in canonical translation surfaces, with guidance per signal. Generated reader copies are not double-counted. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
 - `python scripts/voice_consistency_audit.py`
   Reports mixed note templates, fragmentary example-note phrasing, and other voice-pattern drift in the live repo surface.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`

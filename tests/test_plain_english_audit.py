@@ -98,7 +98,10 @@ class LexiconAwarenessTests(unittest.TestCase):
         self.assertIn("archaic connective", labels)
 
     def test_no_one_constructions_are_not_flagged(self) -> None:
-        text = "## Translation\n\nThere is no one who kills, and no one takes a life.\n"
+        text = (
+            "## Translation\n\n"
+            "No one kills, there is no one who kills, and no one takes a life.\n"
+        )
         self.assertEqual(plain_audit.scan_text(text, "s.md", set()), [])
 
     def test_is_governed_window_requires_rendering_present(self) -> None:

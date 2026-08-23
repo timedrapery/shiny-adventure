@@ -107,34 +107,31 @@ alone.
   because SN 36.6 is now a control passage for the bodily / mental reaction
   distinction.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Governance source: `GOV-PLAIN-1`
-- Dhammarato sources: `DH-CORPUS-1`, `DH-ARROW-1`
-- Editor sources: `OSF-AV-1`, `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Source-fidelity review: completed against the cached segmented Pali for
   SN 36.6; the shared MN 148 grief-response formulas remain unchanged.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending; target is at least four of five
   readers accurately stating both what happens and the practical point.
 
-The calibration pass adopted direct questions, short action sentences, a
+The readability pass retained direct questions, short action sentences, a
 clear old-pattern / available-response contrast, deliberate repetition, and
-concrete arrow imagery. It excluded transcript filler, catchphrases, personal
-anecdotes, slang, and explanatory material not present in the Pali.
+concrete arrow imagery. It did not add anecdotes, slang, catchphrases, or
+explanatory material not present in the Pali.
 
-`pilot` is intentional. The draft may be generated and tested, but it must not
-be promoted to `approved` until the editor read-aloud and newcomer review are
-recorded.
+`provisional` is intentional. The draft may be generated and tested, but it
+must not be marked `validated` until the human read-aloud usability and
+newcomer-comprehension reviews are recorded.
 
 ## Edition Status
 
-- This companion supports the governed study edition and the first spoken-
-  voice pilot of the repo's SN 36.6 translation surface.
+- This companion supports the governed study edition and the first neutral
+  readability review of the repo's SN 36.6 translation surface.
 - `salla` (arrow) now has a shared minor entry, `terms/minor/salla.json`,
   added from the MN 63 surface. It explicitly keeps this sutta's two-arrows
   contrast distinct from MN 63's poisoned-arrow simile rather than treating

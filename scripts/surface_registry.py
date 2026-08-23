@@ -13,14 +13,13 @@ except ModuleNotFoundError:
 
 
 @dataclass(frozen=True)
-class SpokenVoiceReview:
-    """Sparse provenance for a surface reviewed against the spoken profile."""
+class ReadabilityReview:
+    """Integrity state for a surface revised under the plain-English standard."""
 
-    profile: str
+    standard: str
     status: str
-    recorded_on: str
+    reviewed_on: str
     body_sha256: str
-    source_ids: tuple[str, ...]
 
 
 @dataclass(frozen=True)
@@ -29,7 +28,7 @@ class TranslationSurface:
     label: str
     main_relpath: str
     notes_relpath: str
-    spoken_voice_review: SpokenVoiceReview | None = None
+    readability_review: ReadabilityReview | None = None
 
     @property
     def main_path(self) -> Path:
@@ -328,29 +327,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 )
 
 
-SPOKEN_VOICE_COMMON_SOURCE_IDS: tuple[str, ...] = (
-    "GOV-PLAIN-1",
-    "DH-CORPUS-1",
-    "DH-TEACH-1",
-    "OSF-AV-1",
-    "OSF-AV-6",
-    "OSF-AV-7",
-)
-
-# SN 36.6 has a sutta-specific Dhammarato calibration talk in place of the
-# general teaching-page calibration used for the rest of the corpus.
-SPOKEN_VOICE_SURFACE_SOURCE_IDS: dict[str, tuple[str, ...]] = {
-    "sn36_6": (
-        "GOV-PLAIN-1",
-        "DH-CORPUS-1",
-        "DH-ARROW-1",
-        "OSF-AV-1",
-        "OSF-AV-6",
-        "OSF-AV-7",
-    ),
-}
-
-SPOKEN_VOICE_BODY_SHA256: dict[str, str] = {
+READABILITY_BODY_SHA256: dict[str, str] = {
     "mn1": "f31b212f0f4adc6f284574023d82cd182c4956d5e8bc39ec8f1452b77d543cdf",
     "mn2": "3db7bb2ac46537fe306f7c750f39d96139271be740fb9291573f022d495f7bc8",
     "mn7": "6bdfe1732b54248ac9bbb316665b06fbef587c2b669819978d33c84e172a9bc5",
@@ -402,14 +379,11 @@ SPOKEN_VOICE_BODY_SHA256: dict[str, str] = {
 TRANSLATION_SURFACES = tuple(
     replace(
         surface,
-        spoken_voice_review=SpokenVoiceReview(
-            profile="osf-spoken-v1-pilot",
-            status="pilot",
-            recorded_on="2026-08-22",
-            body_sha256=SPOKEN_VOICE_BODY_SHA256[surface.key],
-            source_ids=SPOKEN_VOICE_SURFACE_SOURCE_IDS.get(
-                surface.key, SPOKEN_VOICE_COMMON_SOURCE_IDS
-            ),
+        readability_review=ReadabilityReview(
+            standard="plain-english-v1",
+            status="provisional",
+            reviewed_on="2026-08-22",
+            body_sha256=READABILITY_BODY_SHA256[surface.key],
         ),
     )
     for surface in TRANSLATION_SURFACES
@@ -483,8 +457,8 @@ STAGES: tuple[tuple[int, str, str], ...] = (
     ),
 )
 
-# The five texts that give the whole shape of the teaching in under a thousand
-# words. Keys index into TRANSLATION_SURFACES.
+# Five suggested entry points that together introduce the collection's main
+# themes. Keys index into TRANSLATION_SURFACES.
 ESSENTIAL_FIVE: tuple[str, ...] = (
     "an3_65", "sn56_11", "sn36_6", "mn63", "sn22_59",
 )
@@ -493,10 +467,10 @@ READER_METADATA: dict[str, ReaderMeta] = {
     # Stage 1 -- Before Any Doctrine
     "an3_65": ReaderMeta(
         "Kesamutta Sutta", 1, 1,
-        "\"Don't take my word for it, or anyone else's.\" The most naturally "
-        "modern-feeling starting point: an explicit instruction to test claims "
-        "against your own experience rather than accept them on authority.",
-        reader_title="Test It Yourself",
+        "A practical starting point for judging a teaching: tradition, "
+        "reasoning, and a teacher's authority are not sufficient on their own. "
+        "Examine what happens when a teaching is put into practice.",
+        reader_title="How to Test a Teaching",
     ),
     "mn63": ReaderMeta(
         "Cūḷamālukya Sutta", 1, 2,
@@ -547,6 +521,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
         "not inward.",
+        reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
         "Saddha Sutta", 2, 6,
@@ -576,108 +551,127 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "Seven concrete methods for handling what erodes the mind: restraint, "
         "use, endurance, avoidance, removal, development. A toolkit, not a "
         "theory.",
+        reader_title="Seven Ways to Handle What Erodes the Mind",
     ),
     "mn118": ReaderMeta(
         "Ānāpānasati Sutta", 3, 4,
         "Structured breath-meditation instructions. The first text on this "
         "list that is a practice manual rather than a teaching about practice.",
+        reader_title="Breath Meditation, Step by Step",
     ),
     "mn10": ReaderMeta(
         "Satipaṭṭhāna Sutta", 3, 5,
         "The four foundations of remembering, and the longest, densest text so "
         "far. Not really a one-sitting read: it is the reference manual for "
         "the pieces above, worth returning to rather than finishing.",
+        reader_title="The Four Foundations of Remembering",
     ),
     "dn2": ReaderMeta(
         "Sāmaññaphala Sutta", 3, 6,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
+        reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
         "Girimānanda Sutta", 3, 7,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
+        reader_title="Ten Perceptions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
         "Mahā-Assapura Sutta", 3, 8,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
+        reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
         "Āhāra Sutta", 3, 9,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
+        reader_title="What Feeds and Starves Distraction",
     ),
     # Stage 4 -- Not-Self and Dependent Arising
     "sn22_59": ReaderMeta(
         "Anattalakkhaṇa Sutta", 4, 1,
         "The second sermon. Not-self laid out as a clean, followable argument "
         "rather than an assertion.",
-        reader_title="Nothing Here Is You",
+        reader_title="What Is Fit to Call Self?",
     ),
     "mn22": ReaderMeta(
         "Alagaddūpama Sutta", 4, 2,
         "The snake simile and the raft simile carry genuinely difficult "
         "not-self doctrine on strong enough imagery that it stays followable.",
+        reader_title="The Snake and the Raft",
     ),
     "sn22_48": ReaderMeta(
         "Khandha Sutta", 4, 3,
         "What the five heaps actually are, stated directly.",
+        reader_title="The Five Heaps",
     ),
     "sn22_89": ReaderMeta(
         "Khemaka Sutta", 4, 4,
         "A subtler point: even someone who has genuinely seen not-self can "
         "still carry a faint, hard-to-locate sense of \"I am.\"",
+        reader_title="The Lingering Sense of 'I Am'",
     ),
     "mn148": ReaderMeta(
         "Chachakka Sutta", 4, 5,
         "A systematic, almost mechanical working-through of not-self across "
         "every sense door. Dense, but by this point the pattern should be "
         "familiar.",
+        reader_title="Not-Self at the Six Sense Doors",
     ),
     "sn12_15": ReaderMeta(
         "Kaccānagotta Sutta", 4, 6,
         "One page, defining right view as the middle between \"it exists\" and "
         "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
+        reader_title="Between 'It Exists' and 'It Doesn't'",
     ),
     "sn12_61": ReaderMeta(
         "Assutavā Sutta", 4, 7,
         "An argument that runs the opposite way from what you expect: if you "
         "must identify with something, the body is the safer choice, because "
         "its changing is visible and the mind's is not.",
+        reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
         "Upanisa Sutta", 4, 8,
         "The positive chain, dissatisfaction leading step by step to freedom, "
         "mirroring the well-known negative chain.",
+        reader_title="From Dissatisfaction to Freedom",
     ),
     "sn12_11": ReaderMeta(
         "Āhāra Sutta", 4, 9,
         "Four things that keep a life going, traced back to wanting and then "
         "all the way back along the chain. Not to be confused with SN 46.51, "
         "which shares its name.",
+        reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
         "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 10,
         "The standard formula of dependent arising, defined term by term.",
+        reader_title="Dependent Arising, Term by Term",
     ),
     "mn38": ReaderMeta(
         "Mahātaṇhāsaṅkhaya Sutta", 4, 11,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
+        reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
         "Mahānidāna Sutta", 4, 12,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
+        reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
         "Sammādiṭṭhi Sutta", 4, 13,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",
+        reader_title="Right View from Many Angles",
     ),
     # Stage 5 -- Advanced and Reference Texts
     "mn43": ReaderMeta(
@@ -685,17 +679,20 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "The longer companion to MN 44, and the same format: two senior "
         "disciples working through the vocabulary point by point. Read it "
         "second — it assumes more.",
+        reader_title="The Longer Questions and Answers",
     ),
     "mn44": ReaderMeta(
         "Cūḷavedalla Sutta", 5, 1,
         "A systematic question-and-answer exchange between two disciples, "
         "covering a wide sweep of doctrine efficiently.",
+        reader_title="Questions and Answers on the Teaching",
     ),
     "sn51_13": ReaderMeta(
         "Chandasamādhi Sutta", 5, 3,
         "One short formula, stated four times, defining the four bases of "
         "power. Useful mainly as a reference for how the effort formula is "
         "built.",
+        reader_title="The Four Bases of Power",
     ),
     "sn48_10": ReaderMeta(
         "Dutiyavibhaṅga Sutta", 5, 4,
@@ -709,59 +706,70 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "Mahāmālukya Sutta", 5, 5,
         "The five lower fetters, and the companion piece to MN 63 — same "
         "disciple, later in his practice.",
+        reader_title="The Five Lower Fetters",
     ),
     "mn11": ReaderMeta(
         "Cūḷasīhanāda Sutta", 5, 6,
         "A claim about who counts as a genuine practitioner, grounded in "
         "whether a teaching can account for all four ways of taking things "
         "personally — including taking a doctrine of self personally.",
+        reader_title="Who Counts as a Genuine Practitioner?",
     ),
     "mn137": ReaderMeta(
         "Saḷāyatanavibhaṅga Sutta", 5, 7,
         "A technical analysis of the six fields of experience.",
+        reader_title="The Six Fields of Experience",
     ),
     "mn141": ReaderMeta(
         "Saccavibhaṅga Sutta", 5, 8,
         "The four noble truths again, now in full analytical detail rather "
         "than the compressed form from Stage 2.",
+        reader_title="The Four Truths in Detail",
     ),
     "mn117": ReaderMeta(
         "Mahācattārīsaka Sutta", 5, 9,
         "A technical analysis of the eightfold path, factor by factor.",
+        reader_title="The Eightfold Path in Detail",
     ),
     "an6_63": ReaderMeta(
         "Nibbedhika Sutta", 5, 10,
         "One analytical frame applied six times over, to sensuality, feeling, "
         "recognition, the outflows, action, and dissatisfaction. Includes the "
         "line that defines action as intention.",
+        reader_title="Six Things Examined",
     ),
     "sn35_28": ReaderMeta(
         "Āditta Sutta", 5, 11,
         "The fire sermon. Iconic imagery carrying a genuinely abstract point "
         "about the senses.",
+        reader_title="The Fire Sermon",
     ),
     "mn18": ReaderMeta(
         "Madhupiṇḍika Sutta", 5, 12,
         "The honey-ball sutta, on how recognition snowballs into proliferating "
         "thought. Famously dense even by this collection's standards.",
+        reader_title="How Thought Snowballs",
     ),
     "mn99": ReaderMeta(
         "Subha Sutta", 5, 13,
         "A dialogue defending renunciant life against a brahmin's claim that "
         "household life is better. Good late-stage read for weighing the whole "
         "path against the alternative.",
+        reader_title="Household Life or Renunciant Life?",
     ),
     "mn1": ReaderMeta(
         "Mūlapariyāya Sutta", 5, 14,
         "\"The root of all things.\" Traditionally regarded as one of the most "
         "difficult texts in the collection. Deliberately last: it rewards "
         "everything that came before it and rewards very little read cold.",
+        reader_title="The Root of All Things",
     ),
     "iti44": ReaderMeta(
         "Nibbānadhātu Sutta", 5, 15,
         "A short reference text defining the two nibbāna elements. Read it "
         "for one distinction: what has already happened to a living arahant's "
         "mind, and what happens to everything they feel.",
+        reader_title="The Two Nibbāna Elements",
     ),
 }
 

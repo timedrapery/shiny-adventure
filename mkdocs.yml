@@ -11,6 +11,7 @@ site_dir: site
 
 theme:
   name: material
+  font: false
   palette:
     - scheme: default
       toggle:
@@ -22,8 +23,10 @@ theme:
         name: Switch to light mode
   features:
     - content.tooltips
-    - navigation.instant
     - navigation.top
+
+extra_css:
+  - stylesheets/reader.css
 
 markdown_extensions:
   - abbr
@@ -37,7 +40,7 @@ markdown_extensions:
 # rather than auto-appended globally. Appending one shared glossary to every
 # page meant a term could only ever carry one note across the whole site, even
 # where the same English word does different work in different suttas.
-# includes/glossary.md remains the hand-written reader-voice source.
+# includes/glossary.md remains the hand-written reader-facing source.
 
 # Makes Pali searchable without a Pali keyboard: adds ASCII spellings of
 # accented words to the search index only, so "nibbana" finds "nibbāna".
@@ -55,7 +58,7 @@ nav:
   - Read in order:
   # BEGIN GENERATED SUTTA NAV
       - Set 1. Before Any Doctrine:
-          - "Test It Yourself": suttas/an3-65-kesamutta-sutta.md
+          - "How to Test a Teaching": suttas/an3-65-kesamutta-sutta.md
           - "The Man Struck by a Poisoned Arrow": suttas/mn63-culamalukya-sutta.md
           - "The Two Searches": suttas/mn26-pasarasi-sutta.md
       - Set 2. The Basic Diagnosis and the Path:
@@ -63,48 +66,48 @@ nav:
           - "One Arrow, Not Two": suttas/sn36-6-salla-sutta.md
           - "The Dirty Cloth": suttas/mn7-vattha-sutta.md
           - "Four Horses": suttas/an4-113-patoda-sutta.md
-          - "SN 55.5: Dutiyasāriputta Sutta": suttas/sn55-5-dutiyasariputta-sutta.md
+          - "Four Steps That Lead to the Path": suttas/sn55-5-dutiyasariputta-sutta.md
           - "Think Like a Thoroughbred": suttas/an11-9-saddha-sutta.md
       - Set 3. Learning to Look at Your Own Mind:
           - "Two Kinds of Thinking": suttas/mn19-dvedhavitakka-sutta.md
           - "The Water Vessel": suttas/mn61-ambalatthikarahulovada-sutta.md
-          - "MN 2: Sabbāsava Sutta": suttas/mn2-sabbasava-sutta.md
-          - "MN 118: Ānāpānasati Sutta": suttas/mn118-anapanasati-sutta.md
-          - "MN 10: Satipaṭṭhāna Sutta": suttas/mn10-satipatthana-sutta.md
-          - "DN 2: Sāmaññaphala Sutta": suttas/dn2-samannaphala-sutta.md
-          - "AN 10.60: Girimānanda Sutta": suttas/an10-60-giriminanda-sutta.md
-          - "MN 39: Mahā-Assapura Sutta": suttas/mn39-maha-assapura-sutta.md
-          - "SN 46.51: Āhāra Sutta": suttas/sn46-51-ahara-sutta.md
+          - "Seven Ways to Handle What Erodes the Mind": suttas/mn2-sabbasava-sutta.md
+          - "Breath Meditation, Step by Step": suttas/mn118-anapanasati-sutta.md
+          - "The Four Foundations of Remembering": suttas/mn10-satipatthana-sutta.md
+          - "What Does a Renunciant Gain?": suttas/dn2-samannaphala-sutta.md
+          - "Ten Perceptions for a Sick Monk": suttas/an10-60-giriminanda-sutta.md
+          - "What Makes a Genuine Renunciant?": suttas/mn39-maha-assapura-sutta.md
+          - "What Feeds and Starves Distraction": suttas/sn46-51-ahara-sutta.md
       - Set 4. Not-Self and Dependent Arising:
-          - "Nothing Here Is You": suttas/sn22-59-anattalakkhana-sutta.md
-          - "MN 22: Alagaddūpama Sutta": suttas/mn22-alagaddupama-sutta.md
-          - "SN 22.48: Khandha Sutta": suttas/sn22-48-khandha-sutta.md
-          - "SN 22.89: Khemaka Sutta": suttas/sn22-89-khemaka-sutta.md
-          - "MN 148: Chachakka Sutta": suttas/mn148-chachakka-sutta.md
-          - "SN 12.15: Kaccānagotta Sutta": suttas/sn12-15-kaccanagotta-sutta.md
-          - "SN 12.61: Assutavā Sutta": suttas/sn12-61-assutava-sutta.md
-          - "SN 12.23: Upanisa Sutta": suttas/sn12-23-upanisa-sutta.md
-          - "SN 12.11: Āhāra Sutta": suttas/sn12-11-ahara-sutta.md
-          - "SN 12.2: Paṭiccasamuppāda-vibhaṅga Sutta": suttas/sn12-2-paticcasamuppada-vibhanga-sutta.md
-          - "MN 38: Mahātaṇhāsaṅkhaya Sutta": suttas/mn38-mahatanhasankhaya-sutta.md
-          - "DN 15: Mahānidāna Sutta": suttas/dn15-mahanidana-sutta.md
-          - "MN 9: Sammādiṭṭhi Sutta": suttas/mn9-sammaditthi-sutta.md
+          - "What Is Fit to Call Self?": suttas/sn22-59-anattalakkhana-sutta.md
+          - "The Snake and the Raft": suttas/mn22-alagaddupama-sutta.md
+          - "The Five Heaps": suttas/sn22-48-khandha-sutta.md
+          - "The Lingering Sense of 'I Am'": suttas/sn22-89-khemaka-sutta.md
+          - "Not-Self at the Six Sense Doors": suttas/mn148-chachakka-sutta.md
+          - "Between 'It Exists' and 'It Doesn't'": suttas/sn12-15-kaccanagotta-sutta.md
+          - "Body and Mind Keep Changing": suttas/sn12-61-assutava-sutta.md
+          - "From Dissatisfaction to Freedom": suttas/sn12-23-upanisa-sutta.md
+          - "What Keeps a Life Going": suttas/sn12-11-ahara-sutta.md
+          - "Dependent Arising, Term by Term": suttas/sn12-2-paticcasamuppada-vibhanga-sutta.md
+          - "Does the Same Consciousness Continue?": suttas/mn38-mahatanhasankhaya-sutta.md
+          - "Dependent Arising in Depth": suttas/dn15-mahanidana-sutta.md
+          - "Right View from Many Angles": suttas/mn9-sammaditthi-sutta.md
       - Set 5. Advanced and Reference Texts:
-          - "MN 44: Cūḷavedalla Sutta": suttas/mn44-culavedalla-sutta.md
-          - "MN 43: Mahāvedalla Sutta": suttas/mn43-mahavedalla-sutta.md
-          - "SN 51.13: Chandasamādhi Sutta": suttas/sn51-13-chandasamadhi-sutta.md
+          - "Questions and Answers on the Teaching": suttas/mn44-culavedalla-sutta.md
+          - "The Longer Questions and Answers": suttas/mn43-mahavedalla-sutta.md
+          - "The Four Bases of Power": suttas/sn51-13-chandasamadhi-sutta.md
           - "The Five Faculties": suttas/sn48-10-dutiyavibhanga-sutta.md
-          - "MN 64: Mahāmālukya Sutta": suttas/mn64-mahamalukya-sutta.md
-          - "MN 11: Cūḷasīhanāda Sutta": suttas/mn11-culasihanada-sutta.md
-          - "MN 137: Saḷāyatanavibhaṅga Sutta": suttas/mn137-salayatanavibhanga-sutta.md
-          - "MN 141: Saccavibhaṅga Sutta": suttas/mn141-saccavibhanga-sutta.md
-          - "MN 117: Mahācattārīsaka Sutta": suttas/mn117-mahacattarisaka-sutta.md
-          - "AN 6.63: Nibbedhika Sutta": suttas/an6-63-nibbedhika-sutta.md
-          - "SN 35.28: Āditta Sutta": suttas/sn35-28-aditta-sutta.md
-          - "MN 18: Madhupiṇḍika Sutta": suttas/mn18-madhupindika-sutta.md
-          - "MN 99: Subha Sutta": suttas/mn99-subha-sutta.md
-          - "MN 1: Mūlapariyāya Sutta": suttas/mn1-mulapariyaya-sutta.md
-          - "Iti 44: Nibbānadhātu Sutta": suttas/iti44-nibbanadhatu-sutta.md
+          - "The Five Lower Fetters": suttas/mn64-mahamalukya-sutta.md
+          - "Who Counts as a Genuine Practitioner?": suttas/mn11-culasihanada-sutta.md
+          - "The Six Fields of Experience": suttas/mn137-salayatanavibhanga-sutta.md
+          - "The Four Truths in Detail": suttas/mn141-saccavibhanga-sutta.md
+          - "The Eightfold Path in Detail": suttas/mn117-mahacattarisaka-sutta.md
+          - "Six Things Examined": suttas/an6-63-nibbedhika-sutta.md
+          - "The Fire Sermon": suttas/sn35-28-aditta-sutta.md
+          - "How Thought Snowballs": suttas/mn18-madhupindika-sutta.md
+          - "Household Life or Renunciant Life?": suttas/mn99-subha-sutta.md
+          - "The Root of All Things": suttas/mn1-mulapariyaya-sutta.md
+          - "The Two Nibbāna Elements": suttas/iti44-nibbanadhatu-sutta.md
   # END GENERATED SUTTA NAV
   - Glossary: glossary.md
   - About this translation: about.md

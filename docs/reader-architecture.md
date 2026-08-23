@@ -15,9 +15,10 @@ presentation layer over them, rebuilt by one script.
 | `docs/translations/*-notes.md` | authoritative | editorial layer |
 | `terms/**/*.json` | authoritative | editorial layer |
 | `scripts/surface_registry.py` | authoritative | corpus + reader metadata |
-| `includes/glossary.md` | authoritative | hand-written reader-voice glosses |
+| `includes/glossary.md` | authoritative | hand-written reader-facing glosses |
+| `includes/newcomer-guides/*.json` | authoritative | structured Essential Five orientation |
 | `reader-src/about.md` | authoritative | hand-written reader prose |
-| the `About this text` block in a sutta page | authoritative | hand-written reader prose |
+| a legacy `About this text` / `Before you read` block outside the Essential Five | authoritative | preserved reader prose |
 | everything else under `reader-src/` | **generated** | `scripts/generate_reader.py` |
 | the sutta block in `mkdocs.yml` nav | **generated** | `scripts/generate_reader.py` |
 | `site/` | build output, gitignored | MkDocs |
@@ -25,12 +26,12 @@ presentation layer over them, rebuilt by one script.
 A sutta reader page therefore contains exactly three kinds of content, and they
 are kept visibly separate:
 
-- **generated framing** — title, reference line, reading-path links, the
-  per-page glossary
-- **reader-authored prose** — the `About this text` block, preserved verbatim
-  across every regeneration
-- **canonical translation** — the body, copied from the governed surface with
-  headings demoted one level, never edited in place
+- **generated framing** — plain-English title, reference, reading time, skip
+  link, visible definitions, and semantic reading-order navigation
+- **newcomer orientation** — a validated structured guide for the Essential
+  Five, or a preserved legacy/default introduction for another text
+- **canonical translation** — the body copied unchanged from the governed
+  surface beneath a generated `Translation` heading, never edited in place
 
 ## The generator
 
@@ -51,8 +52,9 @@ generated navigation block in `mkdocs.yml`: the home page, Start Here, the All
 Suttas index, and the glossary page. The count follows the registry, so it is
 not restated here.
 
-Everything it needs comes from two places — the governed surface named in the
-registry, and the reader metadata in the registry itself.
+Everything it needs comes from the governed surface named in the registry, the
+reader metadata in the registry, the reader-facing glossary, and the structured
+Essential Five guides in `includes/newcomer-guides/`.
 
 ## Reader metadata lives in the surface registry
 
@@ -61,7 +63,7 @@ There is one registry, not two. `scripts/surface_registry.py` holds
 the same surface key. Each entry carries:
 
 - `pali_title` — the Pali name without the collection reference
-- `reader_title` — a plain-English title, or `None` to fall back to the Pali
+- `reader_title` — the required plain-English title
 - `stage` and `order` — position in the newcomer reading path
 - `path_note` — the one-line editorial note shown on Start Here
 
@@ -77,8 +79,7 @@ or if two texts claim the same position in a stage.
    [PLAIN_ENGLISH_STANDARD.md](PLAIN_ENGLISH_STANDARD.md).
 2. Register it in `TRANSLATION_SURFACES` in `scripts/surface_registry.py`.
 3. Add a `READER_METADATA` entry for it in the same file. Give it a stage, a
-   position, and a `path_note`. Leave `reader_title` as `None` unless you are
-   also writing an introduction.
+   position, a `path_note`, and a nonempty plain-English `reader_title`.
 4. Regenerate:
 
 ```bash
@@ -90,27 +91,37 @@ python scripts/generate_reader.py --write
 ```
 
 5. Run the suite. The new text now has a reader page, a place in the reading
-   path, a row in the All Suttas index, and a navigation entry. No counts need
+   path, an item in the All Suttas index, and a navigation entry. No counts need
    updating anywhere: every public number is derived from the registry.
 
-## Adding or improving a reader introduction
+## Adding or improving newcomer guidance
 
-Edit the `About this text` block directly in
-`reader-src/suttas/<surface>.md`. Then set `reader_title` for that surface in
-`READER_METADATA`, and regenerate.
+For an Essential Five text, edit its authoritative JSON record in
+`includes/newcomer-guides/`; never edit the guide inside the generated sutta
+page. Each record supplies the scene, central question, main point, reading
+cue, key terms, a guard against likely misreadings, and the governed section
+headings that support the summary.
 
-The generator reads the existing block back out of the page and writes it
-straight through, so it survives regeneration. Texts without one get a short
-restrained default rather than invented commentary.
+The generator validates that:
 
-Introductions should orient rather than interpret: plain contemporary English,
-an intelligent general reader assumed, a reason the text matters where it sits
-in the sequence, no academic throat-clearing, and no Buddhist jargon unless the
-jargon is the subject. Do not adjust the translation to match an introduction.
+- all five guides exist and point to registered Essential Five surfaces
+- required prose fields and three to six key terms are present
+- each key term exists in the reader glossary and occurs in the translation
+- each evidence heading exactly matches a governed translation heading
+
+For another text with a legacy introduction, edit its `About this text` or
+`Before you read` block in `reader-src/suttas/<surface>.md` and regenerate. The
+generator reads that block back out and preserves it. A text without one gets
+a short restrained default rather than invented commentary.
+
+Guidance should orient rather than interpret: plain contemporary English, no
+prior Buddhist knowledge assumed, no academic throat-clearing, and no Buddhist
+jargon unless it is immediately explained. Do not adjust the translation to
+match an introduction.
 
 ## The glossary
 
-`includes/glossary.md` is the hand-written source, in reader voice. It is
+`includes/glossary.md` is the hand-written reader-facing source. It is
 deliberately not the editorial `notes` field from the term records, which is
 written for contributors.
 
@@ -118,8 +129,10 @@ Two things are generated from it:
 
 - `reader-src/glossary.md`, the standalone glossary page, which joins each
   gloss to the governed Pali term where the rendering matches a record
-- a per-page block appended to each sutta page containing **only** the terms
-  that appear on that page
+- a visible, keyboard-operable terms panel on each sutta page containing
+  **only** terms that appear on that page
+- exact-case inline abbreviation notes as a secondary convenience where a
+  browser supports them; the visible panel never depends on hovering
 
 The per-page injection replaced a single glossary auto-appended to every page.
 That older arrangement meant a term could carry only one note across the whole
@@ -144,7 +157,11 @@ mkdocs serve
 ```
 
 `run_checks.py` includes the reader-generation check and the Markdown
-structure check. `mkdocs serve` gives a live preview on localhost.
+structure check. It also runs `check_reader_accessibility.py`, which validates
+heading hierarchy, reading metadata, skip links, visible definitions, named
+navigation, guide coverage, flowing indexes, and the site accessibility asset.
+`mkdocs serve` gives a live preview on localhost; `mkdocs build --strict` is the
+rendered-site gate used in CI.
 
 ## The downloadable edition
 
@@ -152,11 +169,11 @@ structure check. `mkdocs serve` gives a live preview on localhost.
 published at `downloads/osf-pali-readings.epub` and linked from the home page.
 
 It is built from `reader-src/`, not from `docs/translations/`, so it inherits
-the reader titles, the hand-written introductions, and the reading order. Three
-pieces of website furniture are dropped on the way in, because they mean
-nothing in a book: the generated-by banner, the previous/next navigation line,
-and the per-page `*[term]: gloss` definitions that drive hover tooltips. The
-full glossary is included as an appendix instead.
+the reader titles, structured newcomer guidance, preserved legacy
+introductions, reading times, and reading order. Website-only furniture is
+dropped on the way in: the generated-by banner, skip link, previous/all/next
+navigation, per-page visible terms panel, and inline abbreviation definitions.
+The full glossary is included once as an appendix instead.
 
 ```bash
 python scripts/build_book.py --check    # is pandoc available?
@@ -171,8 +188,9 @@ Two things about how it is wired, both deliberate:
 - **The home page links to the book with a raw `<a>` tag, not a Markdown
   link.** MkDocs validates Markdown links against its own source files, and the
   book is written straight into the built site, so a Markdown link would fail
-  `mkdocs build --strict` for anyone without pandoc. This is the one place in
-  the reader where raw HTML is used on purpose.
+  `mkdocs build --strict` for anyone without pandoc. Generated pages also use
+  small, scoped HTML elements where native semantics matter: `details` for the
+  terms disclosure, `nav` for reading order, and `dl` for definitions.
 
 The consequence worth knowing: a locally built site has a download link that
 404s unless `build_book.py` has been run into `site/` after `mkdocs build`.
@@ -192,17 +210,14 @@ since MkDocs cleans `site/` on every build.
 CI additionally builds the site with `--strict` on pull requests, so site
 breakage is caught before it reaches `main`.
 
-## Decisions deliberately not made here
+## Editorial boundaries
 
-- **Dependency and action upgrades.** Five dependabot pull requests are open
-  against `actions/checkout`, `actions/setup-python`, `actions/upload-artifact`,
-  `jsonschema`, and `pre-commit`. They were reviewed during this phase and left
-  alone: they are unrelated to the reader, and the workflows they touch cannot
-  be exercised locally, so merging them blind during a presentation-layer
-  change would be the wrong risk to take. They should be handled as their own
-  small task.
-- **Translation wording.** Nothing in the corpus was retranslated for the sake
-  of presentation. One reader-facing defect was corrected — the Start Here note
-  for AN 11.9 described it as being about faith, when `Saddha` there is the
-  name of the monk being addressed and the text is about how to meditate — and
-  that correction is to reader metadata, not to the translation.
+- Presentation changes do not authorize edits to the canonical translation
+  body. Meaning, recurring vocabulary, and formula decisions remain governed
+  by the translation and lexicon layers.
+- Newcomer guidance may explain what happens, identify the central question,
+  and warn against a likely misreading. It must remain traceable to governed
+  section headings and must not silently settle an ambiguity.
+- Passing the reader accessibility checker does not mark a translation
+  `validated`. Human read-aloud usability and newcomer-comprehension reviews
+  remain separate gates under `PLAIN_ENGLISH_STANDARD.md`.

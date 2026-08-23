@@ -82,12 +82,10 @@ choices, source-audit calls, and edition notes that govern it.
 - This companion file should preserve rationale for contested renderings and
   future edition decisions rather than repeat the main file line by line.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, and `OSF-AV-7`.
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - This pass made the closing challenge easier to hear by carrying its singular
   subject consistently through the ten rebuttals. It preserved all path-factor
   headwords, the worldly and beyond-the-world distinction, the recurring
@@ -97,8 +95,8 @@ choices, source-audit calls, and edition notes that govern it.
   path sequence remains source-facing pending any policy-level revision.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
-- Newcomer review: pending.
+- Human read-aloud usability review: pending.
+- Newcomer comprehension review: pending.
 
 ## Edition Status
 

@@ -175,18 +175,16 @@ its own, so the reader meets the discourse the way the collection presents it.
   `saupadisesa-nibbana-dhatu`, `anupadisesa-nibbana-dhatu`, and
   `parinibbana-dhatu` — in 135 Pali words.
 
-## Spoken-Voice Review
+## Readability Review
 
-- Profile: `osf-spoken-v1-pilot`
-- Status: `pilot`
-- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
-  `OSF-AV-6`, `OSF-AV-7`
+- Standard: `plain-english-v1`
+- Status: `provisional`
 - Review result: the prose asks and answers what the two elements are before
   the verse restates the contrast; the remainder / no-remainder distinction
   and governed nibbāna vocabulary remain explicit.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Alexander H read-aloud review: pending.
+- Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 
-This surface remains a pilot until the human reviews are recorded.
+This surface remains provisional until the human reviews are recorded.

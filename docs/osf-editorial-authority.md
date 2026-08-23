@@ -17,9 +17,8 @@ When sources disagree, use this order:
 2. OSF house materials at the publication level, including the OSF glossary and
    named OSF books such as *What Is And Is Not The Path* and the Dhammarato
    quotes book
-3. Dhammarato, as the primary living OSF lineage voice for practical
-   instruction, meditation language, contemporary tone, and OSF teaching
-   vocabulary
+3. Dhammarato, as a primary OSF teaching source for practical instruction,
+   meditation language, contemporary vocabulary, and here-now practice framing
 4. Buddhadasa Bhikkhu, as the foundational lineage authority for dependent
    arising, voidness, not-self, natural-law framing, and here-now liberation
    language
@@ -46,11 +45,18 @@ These are internal OSF sources, not outside-source profiles.
 Dhammarato is a primary OSF authority immediately under OSF house materials
 and is especially authoritative for:
 
-- practical teaching tone
+- practical explanatory framing
 - path language in contemporary English
 - meditation and mind-training vocabulary
 - here-now practice framing
 - anti-scholastic and anti-mystification language
+
+This authority concerns lexical choices, doctrinal interpretation, and
+documented explanatory framing. It does not make Dhammarato—or any other
+teacher or editor—a sentence-style or cadence model for canonical translation
+prose. Running English follows
+[`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md) and is judged by source
+fidelity and newcomer comprehension.
 
 ### Buddhadasa Bhikkhu
 
@@ -148,6 +154,6 @@ At the current stage of the project:
   the internal authority stack
 - Dhammarato is the next practical lineage authority
 - Buddhadasa is the next doctrinal lineage authority
-- the repository should increasingly read like a coherent Dhammarato /
-  Buddhadasa-line editorial system rather than a neutral aggregator of many
-  Buddhist English vocabularies
+- the repository should remain a coherent OSF editorial system whose source
+  decisions are explicit, while canonical running prose stays neutral and
+  newcomer-readable
