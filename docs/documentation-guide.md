@@ -136,6 +136,8 @@ do not override live term records or normative policy docs.
 ### Source Profiles
 
 - [`osf-glossary-profile.md`](osf-glossary-profile.md)
+- [`osf-spoken-translation-profile.md`](osf-spoken-translation-profile.md): governed spoken-voice pilot profile for sentence realization, evidence use, and approval
+- [`../candidates/source-manifests/osf-spoken-translation-sources.json`](../candidates/source-manifests/osf-spoken-translation-sources.json): metadata-only source, transcript-review, and rights manifest for that pilot
 - [`what-is-and-is-not-the-path-profile.md`](what-is-and-is-not-the-path-profile.md)
 - [`dhammarato-quotes-profile.md`](dhammarato-quotes-profile.md)
 - [`dhammarato-chanting-profile.md`](dhammarato-chanting-profile.md)

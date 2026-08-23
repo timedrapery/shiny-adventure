@@ -15,6 +15,7 @@ Use `candidates/` for:
 - extracted candidate-term JSON reports
 - rendered review reports
 - review packets under `candidates/scaffolds/`
+- metadata-only source manifests under `candidates/source-manifests/`
 - other review-first artifacts that still need editorial judgment
 
 Use `terms/` only after the repository has decided that a candidate belongs in
@@ -57,8 +58,28 @@ python scripts/scaffold_candidate_terms.py --priority create_now
 - `candidate_terms.md`: grouped human review report
 - `scaffolds/*.review.json`: review packets for terms that need editorial
   treatment
+- `source-manifests/osf-spoken-translation-sources.json`: source roles,
+  speaker scope, transcript-review state, rights state, and derived editorial
+  observations for the spoken-translation pilot
 
 These outputs are working review materials, not live policy.
+
+## Source Manifests And Rights
+
+Source manifests may store URLs or repository paths, source roles, speaker
+scope, review dates, transcript-review state, rights state, redistribution
+limits, and derived editorial observations. Keep them metadata-only: do not
+store transcript bodies, caption text, or extended verbatim passages there.
+
+Public availability does not by itself grant permission to redistribute a
+transcript. A `user-authorized-calibration` source may inform editorial review,
+but that status does not authorize transcript republication. Identify the
+relevant speaker turns and check automatic captions against the recording
+before making a speaker-specific claim, especially where Pali vocabulary is
+involved.
+
+Run `python scripts/check_spoken_voice_sources.py` after changing the spoken
+profile, its source manifest, or an opted-in surface review record.
 
 ## Promotion Rule
 

@@ -69,6 +69,43 @@ natural without losing the meaning. If it cannot be made natural without
 losing a real distinction, keep the distinction and record why in the notes
 file.
 
+## The OSF Spoken Translation Voice
+
+The target is a calm, practical teaching voice: warm without being
+sentimental, direct without being blunt, and conversational without becoming
+casual slang. A newcomer should be able to hear the text once and follow the
+people, actions, contrasts, and practical point.
+
+The controlling order is:
+
+1. the Pali controls what the sentence means
+2. governed term and phrase records control recurring vocabulary
+3. the OSF spoken profile controls cadence, sentence shape, and practical tone
+4. read-aloud and newcomer review test whether the English actually lands
+
+Use the reusable qualities documented in
+[osf-spoken-translation-profile.md](osf-spoken-translation-profile.md):
+
+- begin with the concrete person, action, question, or problem already present
+  in the source
+- prefer one spoken move at a time: question, answer, reason, example,
+  consequence, or instruction
+- use short clause-based sentences when a long sentence would hide the action
+- use contractions when they sound neutral and natural
+- make a contrast explicit when the source itself establishes one
+- keep dialogue askable and answerable
+- perfect a repeated unit before repeating it
+
+These are composition rules, not permission to add teaching material. Do not
+insert a modern analogy, explanatory aside, joke, catchphrase, emotional cue,
+or direct address that the source does not provide. Added orientation belongs
+in the reader introduction; interpretation belongs in the companion notes.
+
+The profile is informed by Dhammarato's public teaching transcripts and by
+authorized samples from OSF editors. It distills stable, reusable traits. It
+does not reproduce an individual's verbal fingerprints or imply that any
+source speaker translated, reviewed, approved, or endorsed a surface.
+
 ## Rules
 
 ### 1. Do not use `one` as a generic person

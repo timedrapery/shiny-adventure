@@ -16,6 +16,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Added `scripts/draft_major_review_queue.py` to keep remaining draft major entries visible as an explicit review queue.
 - Added `scripts/check_docs_integrity.py` to validate internal Markdown links and required repository-surface metadata files.
 - Added [docs/review-status-model.md](docs/review-status-model.md) to define how major entries move from draft to reviewed to stable.
+- Added the governed OSF spoken-translation pilot, its metadata-only source
+  manifest, and a checker for source, rights, and surface-review state.
 
 ### Changed
 
@@ -27,3 +29,5 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Improved `scaffold_policy_metadata.py` so placeholder scaffolding emits an explicit completion warning.
 - Extended the full verification suite so documentation and repository-surface integrity are checked alongside tests and term validation.
 - Promoted 8 structurally complete major entries from `draft` to `reviewed` after an explicit status pass.
+- Extended editorial review guidance with transcript provenance, read-aloud,
+  newcomer-comprehension, and redistribution checks for spoken-voice pilots.

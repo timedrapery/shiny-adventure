@@ -18,6 +18,9 @@ generating script first.
   Runs the full verification suite in the same order used by CI.
 - `python scripts/check_docs_integrity.py`
   Validates internal Markdown links and required repository-surface metadata files.
+- `python scripts/check_spoken_voice_sources.py`
+  Validates the metadata-only spoken-voice source manifest, transcript and
+  rights states, cited source roles, and review records for opted-in surfaces.
 - `python scripts/translation_surface_index.py --check`
   Verifies that all registered translation-document pairs exist, cross-link correctly, and match the registry-driven index in `docs/translations/translation-documents.md`.
 - `python scripts/check_generated_docs.py`

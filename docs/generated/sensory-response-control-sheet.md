@@ -22,10 +22,10 @@ This sheet summarizes the current governed control lines for the linked MN 137 /
 | `mn148-painful-feeling-trained-response` | when painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings | MN 148, SN 36.6 |
 | `mn148-mixed-feeling-undiscerned-response` | when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
 | `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati` | they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
-| `sn36-6-two-feelings-painful-feeling` | they feel two feelings: one in the body, and one in the mind | SN 36.6 |
-| `sn36-6-one-feeling-painful-feeling` | they feel one feeling: the one in the body, not the one in the mind | SN 36.6 |
-| `sn36-6-feelings-undiscerned-response` | they do not discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
-| `sn36-6-feelings-discerned-response` | they discern those feelings' arising and vanishing, gratification, danger, and escape as they have come to be | SN 36.6 |
+| `sn36-6-two-feelings-painful-feeling` | they feel it twice: once in the body and once in the mind | SN 36.6 |
+| `sn36-6-one-feeling-painful-feeling` | they feel it once: in the body, not in the mind | SN 36.6 |
+| `sn36-6-feelings-undiscerned-response` | they do not understand those feelings as they have come to be: how they arise and vanish, what is gratifying about them, what danger they hold, and what escape there is from them | SN 36.6 |
+| `sn36-6-feelings-discerned-response` | they understand those feelings as they have come to be: how they arise and vanish, what is gratifying about them, what danger they hold, and what escape there is from them | SN 36.6 |
 
 ## Supporting Terms
 

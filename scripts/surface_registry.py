@@ -13,11 +13,23 @@ except ModuleNotFoundError:
 
 
 @dataclass(frozen=True)
+class SpokenVoiceReview:
+    """Sparse provenance for a surface reviewed against the spoken profile."""
+
+    profile: str
+    status: str
+    recorded_on: str
+    body_sha256: str
+    source_ids: tuple[str, ...]
+
+
+@dataclass(frozen=True)
 class TranslationSurface:
     key: str
     label: str
     main_relpath: str
     notes_relpath: str
+    spoken_voice_review: SpokenVoiceReview | None = None
 
     @property
     def main_path(self) -> Path:
@@ -252,6 +264,20 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         label="SN 36.6",
         main_relpath="docs/translations/sn36-6-salla-sutta.md",
         notes_relpath="docs/translations/sn36-6-salla-sutta-notes.md",
+        spoken_voice_review=SpokenVoiceReview(
+            profile="osf-spoken-v1-pilot",
+            status="pilot",
+            recorded_on="2026-08-22",
+            body_sha256="39cd01829b1062587bee1568c8f3f2bcc8de13c9fd50f834da804bcdcc08b1d6",
+            source_ids=(
+                "GOV-PLAIN-1",
+                "DH-CORPUS-1",
+                "DH-ARROW-1",
+                "OSF-AV-1",
+                "OSF-AV-6",
+                "OSF-AV-7",
+            ),
+        ),
     ),
     TranslationSurface(
         key="sn46_51",

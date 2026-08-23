@@ -22,22 +22,19 @@ can actually check against your own experience the next time something hurts.
 
 ## The Difference
 
-"Bhikkhus, an unlearned ordinary person feels pleasant feeling, painful
-feeling, and mixed feeling.
+"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and mixed
+feelings.
 
-A learned noble disciple also feels pleasant feeling, painful feeling, and
-mixed feeling.
+A learned noble disciple feels pleasant, painful, and mixed feelings too.
 
-So what is the difference, bhikkhus? What sets a learned noble disciple apart
-from an unlearned ordinary person?"
+So what's the difference, bhikkhus? What sets them apart?"
 
-"Bhante, our dhammas are rooted in the Buddha, guided by the Buddha, and take
-refuge in the Buddha. It would be good if the Buddha would explain what this
-means. We will remember what we hear."
+"Bhante, our teachings come from the Buddha. The Buddha is our guide, and we
+rely on him. Please explain what this means. We will listen and remember it."
 
-"Then listen carefully, bhikkhus, and attend well. I will speak."
+"Then listen carefully and pay close attention. I will speak."
 
-"Yes, Bhante," those bhikkhus replied.
+"Yes, Bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -47,43 +44,41 @@ The Buddha said this:
 they grieve, they wear themselves out, they wail, they beat their chest and
 cry, and they lose their bearings.
 
-They feel two feelings: one in the body, and one in the mind.
+They feel it twice: once in the body and once in the mind.
 
-Suppose someone shot a man with an arrow, bhikkhus, and then shot him with a
-second arrow. That man would feel what two arrows feel like.
+Suppose, bhikkhus, someone is shot with an arrow. Then they are shot again
+with a second arrow. They would feel both arrows.
 
 It is the same for an unlearned ordinary person. When painful feeling touches
 them, they grieve, they wear themselves out, they wail, they beat their chest
 and cry, and they lose their bearings.
 
-They feel two feelings: one in the body, and one in the mind.
+They feel it twice: once in the body and once in the mind.
 
-"Touched by that same painful feeling, they feel resistance toward it. And
-when they feel resistance toward painful feeling, the underlying tendency
-toward resistance in painful feeling is lying there underneath.
+When that same painful feeling touches them, they resist it. The underlying
+tendency toward resistance in painful feeling remains.
 
-"Touched by painful feeling, they go looking for pleasure in the senses.
+When painful feeling touches them, they turn to sensual pleasure.
 
 Why?
 
-Because an unlearned ordinary person knows no escape from painful feeling
-except sensual pleasure. And when they take delight in sensual pleasure, the
-underlying tendency toward passion in pleasant feeling is lying there
-underneath.
+Because sensual pleasure is the only escape from painful feeling they know.
+When they delight in sensual pleasure, the underlying tendency toward passion
+in pleasant feeling remains.
 
-"They do not discern those feelings' arising and vanishing, gratification,
-danger, and escape as they have come to be. And when they do not discern those
-feelings' arising and vanishing, gratification, danger, and escape as they have
-come to be, the underlying tendency toward ignorance in mixed feeling is lying
-there underneath.
+They do not understand those feelings as they have come to be: how they arise
+and vanish, what is gratifying about them, what danger they hold, and what
+escape there is from them. Because they do not understand all this, the
+underlying tendency toward ignorance in mixed feeling remains.
 
-"If they feel pleasant feeling, they feel it while bound. If they feel painful
-feeling, they feel it while bound. If they feel mixed feeling, they feel it
-while bound.
+If they feel a pleasant feeling, they feel it while bound. If they feel a
+painful feeling, they feel it while bound. If they feel a mixed feeling, they
+feel it while bound.
 
-This, bhikkhus, is what it means to call an ordinary person unlearned: bound
-to birth, ageing, and death; bound to sorrow, lamentation, pain, distress, and
-despair. I say they are bound to dissatisfaction.
+Bhikkhus, this is what it means to call someone an unlearned ordinary person.
+They are bound to birth, ageing, and death. They are bound to sorrow,
+lamentation, pain, distress, and despair. I say they are bound to
+dissatisfaction."
 
 ## One Arrow
 
@@ -91,68 +86,68 @@ despair. I say they are bound to dissatisfaction.
 they do not grieve, they do not wear themselves out, they do not wail, they do
 not beat their chest and cry, and they do not lose their bearings.
 
-They feel one feeling: the one in the body, not the one in the mind.
+They feel it once: in the body, not in the mind.
 
-Suppose someone shot a man with an arrow, bhikkhus, but did not shoot him with
-a second arrow. That man would feel what one arrow feels like.
+Suppose, bhikkhus, someone is shot with an arrow but not with a second arrow.
+They would feel only one arrow.
 
 It is the same for a learned noble disciple. When painful feeling touches
 them, they do not grieve, do not wear themselves out, do not wail, do not beat
 their chest and cry, and do not lose their bearings.
 
-They feel one feeling: the one in the body, not the one in the mind.
+They feel it once: in the body, not in the mind.
 
-"Touched by that same painful feeling, they feel no resistance toward it. And
-when they feel no resistance toward painful feeling, the underlying tendency
-toward resistance in painful feeling is not lying underneath.
+When that same painful feeling touches them, they do not resist it. No
+underlying tendency toward resistance in painful feeling remains.
 
-"Touched by painful feeling, they do not go looking for pleasure in the
-senses.
+When painful feeling touches them, they do not turn to sensual pleasure.
 
 Why?
 
-Because a learned noble disciple knows an escape from painful feeling other
-than sensual pleasure. And when they take no delight in sensual pleasure, the
-underlying tendency toward passion in pleasant feeling is not lying
-underneath.
+Because they know an escape from painful feeling other than sensual pleasure.
+Since they do not delight in sensual pleasure, no underlying tendency toward
+passion in pleasant feeling remains.
 
-"They discern those feelings' arising and vanishing, gratification, danger,
-and escape as they have come to be. And when they discern those feelings'
-arising and vanishing, gratification, danger, and escape as they have come to
-be, the underlying tendency toward ignorance in mixed feeling is not lying
-underneath.
+They understand those feelings as they have come to be: how they arise and
+vanish, what is gratifying about them, what danger they hold, and what escape
+there is from them. Because they understand all this, no underlying tendency
+toward ignorance in mixed feeling remains.
 
-"If they feel pleasant feeling, they feel it while unbound. If they feel
-painful feeling, they feel it while unbound. If they feel mixed feeling, they
-feel it while unbound.
+If they feel a pleasant feeling, they feel it while unbound. If they feel a
+painful feeling, they feel it while unbound. If they feel a mixed feeling,
+they feel it while unbound.
 
-This, bhikkhus, is what it means to call a noble disciple learned: unbound
-from birth, ageing, and death; unbound from sorrow, lamentation, pain,
-distress, and despair. I say they are unbound from dissatisfaction.
+Bhikkhus, this is what it means to call someone a learned noble disciple.
+They are unbound from birth, ageing, and death. They are unbound from sorrow,
+lamentation, pain, distress, and despair. I say they are unbound from
+dissatisfaction.
 
-"That, bhikkhus, is the difference. That is what sets a learned noble disciple
-apart from an unlearned ordinary person.
+That, bhikkhus, is the difference. That is what sets a learned noble disciple
+apart from an unlearned ordinary person."
 
 ## Verses
 
 "Someone wise and learned
-does not feel the added feeling,
-whether it is pleasant or painful.
+does not add another feeling
+to what is pleasant or painful.
 
 This is the great difference
 between the steady, skillful person
 and the ordinary person.
 
-The learned person has understood dhammas
+The learned person has understood the teaching
 and sees this world and the next.
 Desirable things do not churn their feeling mind,
 and undesirable things bring up no resistance.
 
-For that person, favoring and opposing
-are blown away, finished, gone.
-They have known the dustless, sorrowless state,
-they have gone beyond becoming,
-and they discern rightly."
+Favoring and opposing
+have been blown away.
+They are finished. They are gone.
+
+That person knows the dustless,
+sorrowless state.
+They have gone beyond becoming
+and discern rightly."
 
 The sixth discourse is finished.
 
