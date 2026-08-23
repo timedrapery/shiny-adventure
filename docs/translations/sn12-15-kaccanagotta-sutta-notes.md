@@ -142,7 +142,8 @@ choices, source-audit calls, and edition notes that govern it.
 - Review result: Kaccānagotta's question and the two-extremes contrast remain
   the audible spine; the middle-way and dependent-arising control language is
   preserved rather than paraphrased away.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

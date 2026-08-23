@@ -169,7 +169,8 @@ sufficient lexicon coverage:
 - Review: made the opening definition and uncertainty passage easier to hear;
   preserved the ascending `still more to do` refrain, five similes,
   body-permeation formulas, higher knowledges, and seven-title wordplay.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: `knowing measure in eating` and the seven title

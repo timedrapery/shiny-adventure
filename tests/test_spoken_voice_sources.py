@@ -42,23 +42,33 @@ class CurrentPilotTests(unittest.TestCase):
     def test_current_manifest_and_reviews_validate(self) -> None:
         self.assertEqual(spoken_sources.collect_failures(), [])
 
-    def test_sn36_pilot_records_governance_calibration_and_body_hash(self) -> None:
-        surface = sn36_surface()
-        review = surface.spoken_voice_review
-        self.assertIsNotNone(review)
-        assert review is not None
-
-        self.assertEqual(review.profile, spoken_sources.PROFILE)
-        self.assertEqual(review.status, "pilot")
-        self.assertEqual(
-            review.body_sha256,
-            spoken_sources.translation_body_sha256(surface.main_path),
-        )
-
+    def test_every_surface_has_current_pilot_metadata(self) -> None:
         sources = current_sources()
-        roles = {str(sources[source_id]["role"]) for source_id in review.source_ids}
-        self.assertIn("governance", roles)
-        self.assertTrue(roles.intersection(spoken_sources.CALIBRATION_ROLES))
+        self.assertTrue(spoken_sources.TRANSLATION_SURFACES)
+
+        for surface in spoken_sources.TRANSLATION_SURFACES:
+            with self.subTest(surface=surface.key):
+                review = surface.spoken_voice_review
+                self.assertIsNotNone(review)
+                assert review is not None
+
+                self.assertEqual(review.profile, spoken_sources.PROFILE)
+                self.assertEqual(review.status, "pilot")
+                self.assertTrue(spoken_sources.is_iso_date(review.recorded_on))
+                self.assertEqual(
+                    review.body_sha256,
+                    spoken_sources.translation_body_sha256(surface.main_path),
+                )
+                self.assertTrue(review.source_ids)
+                self.assertTrue(set(review.source_ids).issubset(sources))
+                roles = {
+                    str(sources[source_id]["role"])
+                    for source_id in review.source_ids
+                }
+                self.assertIn("governance", roles)
+                self.assertTrue(
+                    roles.intersection(spoken_sources.CALIBRATION_ROLES)
+                )
 
 
 class ManifestValidationTests(unittest.TestCase):
@@ -102,6 +112,18 @@ class ManifestValidationTests(unittest.TestCase):
 
 
 class ReviewValidationTests(unittest.TestCase):
+    def test_missing_spoken_voice_review_is_rejected(self) -> None:
+        changed = replace(sn36_surface(), spoken_voice_review=None)
+
+        failures = spoken_sources.review_failures(
+            (changed,), current_sources(), REPO_ROOT
+        )
+
+        self.assertTrue(
+            any("missing spoken_voice_review" in failure for failure in failures),
+            failures,
+        )
+
     def test_unknown_review_source_is_rejected(self) -> None:
         surface = sn36_surface()
         review = surface.spoken_voice_review

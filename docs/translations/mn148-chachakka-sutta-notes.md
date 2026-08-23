@@ -129,7 +129,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `are to be known`, `the meeting of the three
   is contact`, and the pleasant / painful / mixed response formulas remain
   source-facing pending any policy-level revision.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 

@@ -31,3 +31,6 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Promoted 8 structurally complete major entries from `draft` to `reviewed` after an explicit status pass.
 - Extended editorial review guidance with transcript provenance, read-aloud,
   newcomer-comprehension, and redistribution checks for spoken-voice pilots.
+- Applied the governed spoken-voice profile to every registered translation
+  surface, with body hashes and source provenance locked while human
+  read-aloud and newcomer-comprehension reviews remain pending.

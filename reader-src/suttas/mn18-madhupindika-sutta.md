@@ -45,12 +45,12 @@ Then Daṇḍapāṇi the Sakyan, while walking and strolling, went to the Great
 Wood, plunged deep into it, approached the Buddha, and exchanged greetings
 with him.
 
-When the greetings and courteous talk were concluded, he stood to one side,
-leaning on his staff, and said to the Buddha:
+After they had exchanged greetings and polite conversation, he stood to one
+side, leaned on his staff, and said to the Buddha:
 
 "What does the ascetic say? What does he declare?"
 
-"Friend, I speak in such a way that they do not stand quarreling with anyone in
+"Friend, I speak in such a way that a person does not quarrel with anyone in
 the world with its gods, Māras, and Brahmās, among this population with its
 ascetics and brahmins, its gods and humans. And I speak in such a way that
 recognitions do not underlie that brahmin living detached from sensuality, free
@@ -70,9 +70,9 @@ exchange with Daṇḍapāṇi.
 
 Then one bhikkhu said to him:
 
-"But, bhante, speaking in what way does the Buddha not stand quarreling with
-anyone in the world with its gods, Māras, and Brahmās, among this population
-with its ascetics and brahmins, its gods and humans?
+"But, bhante, how does the Buddha speak without quarreling with anyone in the
+world with its gods, Māras, and Brahmās, among this population with its
+ascetics and brahmins, its gods and humans?
 
 And how is it that recognitions do not underlie the Buddha, that brahmin living
 detached from sensuality, free from doubt, with uncertainty cut off,
@@ -123,7 +123,7 @@ and imagine that heartwood should be sought among the branches and leaves.
 That is what has happened here. While the Teacher himself was present face to
 face, you passed him by and thought this matter should be asked of me.
 
-Still, listen, friends, and attend carefully. I will speak."
+Still, friends, listen carefully and attend well. I will speak."
 
 "Yes, friend," the bhikkhus replied.
 
@@ -248,7 +248,7 @@ That is what it means. That is how you should remember it."
 
 When this was said, venerable Ānanda said to the Buddha:
 
-"Bhante, it is as though a person weak with hunger were to obtain a honey ball.
+"Bhante, it is as though a person weak from hunger were to obtain a honey ball.
 Wherever they might taste it, they would get only a sweet, delicious flavor.
 
 In the same way, wherever a capable bhikkhu were to examine with discernment

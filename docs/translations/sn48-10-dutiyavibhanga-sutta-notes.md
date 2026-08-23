@@ -150,7 +150,8 @@ surface quote text the source writes out in full.
 - Review result: each faculty is introduced by the same direct question and
   then shown through action; the governed right-effort, remembering, mental-
   theme, and truth formulas remain stable.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

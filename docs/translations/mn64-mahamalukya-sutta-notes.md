@@ -159,7 +159,8 @@ source-audit calls, and edition notes that govern it.
   release formulas and their intentional repetition.
 - Governed wording left unchanged: `discerns its escape as it has come to be`
   remains source-facing pending any future policy-level revision.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 

@@ -114,7 +114,8 @@ would materially reduce drift.
 - Review result: the feeding / starving question is repeated as the audible
   frame, and each answer names one practical support; governed distraction
   and awakening-factor labels remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

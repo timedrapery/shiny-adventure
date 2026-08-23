@@ -38,7 +38,7 @@ The Buddha said this:
 ## The Method for All Outflows
 
 "Bhikkhus, I will teach you the method for restraining all outflows. Listen
-carefully, attend well, and I will speak."
+carefully and attend well. I will speak."
 
 "Yes, bhante," the bhikkhus replied.
 
@@ -47,8 +47,8 @@ The Buddha said this:
 "Bhikkhus, I say there is the wearing away of the outflows for someone who
 knows and sees, not for someone who does not know and does not see.
 
-And what does one know and see, so that I say there is the wearing away of the
-outflows?
+And what does someone know and see, so that I say there is the wearing away of
+the outflows?
 
 Wise attention and unwise attention.
 
@@ -304,8 +304,8 @@ dangerous horse, a dangerous ox, a dangerous dog, a snake, a stump, a thorny
 place, a pit, a cliff, a cesspit, and a sewer.
 
 Reflecting wisely, he avoids an unsuitable seat, an unsuitable resort, and bad
-friends, where knowledgeable companions in the spiritual life might suspect one
-of bad places.
+friends. Such situations could make knowledgeable companions in the spiritual
+life suspect him of wrongdoing.
 
 If he did not avoid these things, outflows, distress, and fever might arise.
 When he avoids them, those outflows, distress, and fever do not arise.
@@ -409,7 +409,6 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.
-*[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.

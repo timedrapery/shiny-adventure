@@ -143,7 +143,8 @@ have sufficient lexicon coverage:
 - Review result: the wild-colt / thoroughbred contrast, repeated `Why is
   that?` turns, and Saddha's question keep the long comparison grounded in a
   concrete scene; governed recognition and mental-theme language is retained.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

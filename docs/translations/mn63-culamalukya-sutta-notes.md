@@ -152,7 +152,8 @@ source-audit calls, and edition notes that govern it.
 - Review: tightened Mālukyaputta's private and spoken challenge; preserved all
   ten undeclared points, the poisoned-arrow inventory, the declared/undeclared
   contrast, the seven-term formula, and intentional repetition.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Source-sensitive wording retained: `who are you, and what promise are you

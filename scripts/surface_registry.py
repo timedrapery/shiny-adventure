@@ -3,7 +3,7 @@
 
 from __future__ import annotations
 
-from dataclasses import dataclass
+from dataclasses import dataclass, replace
 from pathlib import Path
 
 try:
@@ -264,20 +264,6 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         label="SN 36.6",
         main_relpath="docs/translations/sn36-6-salla-sutta.md",
         notes_relpath="docs/translations/sn36-6-salla-sutta-notes.md",
-        spoken_voice_review=SpokenVoiceReview(
-            profile="osf-spoken-v1-pilot",
-            status="pilot",
-            recorded_on="2026-08-22",
-            body_sha256="39cd01829b1062587bee1568c8f3f2bcc8de13c9fd50f834da804bcdcc08b1d6",
-            source_ids=(
-                "GOV-PLAIN-1",
-                "DH-CORPUS-1",
-                "DH-ARROW-1",
-                "OSF-AV-1",
-                "OSF-AV-6",
-                "OSF-AV-7",
-            ),
-        ),
     ),
     TranslationSurface(
         key="sn46_51",
@@ -339,6 +325,94 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         main_relpath="docs/translations/iti44-nibbanadhatu-sutta.md",
         notes_relpath="docs/translations/iti44-nibbanadhatu-sutta-notes.md",
     ),
+)
+
+
+SPOKEN_VOICE_COMMON_SOURCE_IDS: tuple[str, ...] = (
+    "GOV-PLAIN-1",
+    "DH-CORPUS-1",
+    "DH-TEACH-1",
+    "OSF-AV-1",
+    "OSF-AV-6",
+    "OSF-AV-7",
+)
+
+# SN 36.6 has a sutta-specific Dhammarato calibration talk in place of the
+# general teaching-page calibration used for the rest of the corpus.
+SPOKEN_VOICE_SURFACE_SOURCE_IDS: dict[str, tuple[str, ...]] = {
+    "sn36_6": (
+        "GOV-PLAIN-1",
+        "DH-CORPUS-1",
+        "DH-ARROW-1",
+        "OSF-AV-1",
+        "OSF-AV-6",
+        "OSF-AV-7",
+    ),
+}
+
+SPOKEN_VOICE_BODY_SHA256: dict[str, str] = {
+    "mn1": "f31b212f0f4adc6f284574023d82cd182c4956d5e8bc39ec8f1452b77d543cdf",
+    "mn2": "3db7bb2ac46537fe306f7c750f39d96139271be740fb9291573f022d495f7bc8",
+    "mn7": "6bdfe1732b54248ac9bbb316665b06fbef587c2b669819978d33c84e172a9bc5",
+    "mn9": "1adaab28e55052714021b36963f0002992f9b11fa9c8791a61651ee6955f4985",
+    "mn10": "9a06b71b31cd2c746a97a01a59c6dac5d7b86bdeae4a7be6ab7f46f611eafbb9",
+    "mn11": "1b8811594f7e00ed3f54d8d1ffc9ecf3b9ff2c21dc92d0ecd41b0e2ab1dae761",
+    "mn18": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
+    "mn19": "5b9f00a388ed022641a5d8fb266c4894e1131aa9a5fe585de42af6db8cc6963d",
+    "mn22": "e6ca1e27798c4cfb4c4411831fd2c71a72bf838ed3a473b2db69d8a75da9bbb3",
+    "mn26": "4b0598934de27de9670e52c934cc6fee3552c3a6b97dc7c23a017443a0918971",
+    "mn38": "643b40254ac9970f39dbbffce8d7515f9350d277885c0646e091adb0320d73dc",
+    "mn39": "bf6a34706fd6bc69854bc10c411a6afdb852dfadddf0384e86d9570edde88205",
+    "mn43": "217f3fbc5d8743e300fbb833c399e2a19f4f33d819e04e1b8365b2df8bc86ea2",
+    "mn44": "ca53a52751ee580ce35acbca2bfa7d2e033e1aa754dafaa9010df87f2ad9b18b",
+    "mn61": "6224dad79a4f97b99992407ea1f63f333370bf81f986706de44f243395a4ff25",
+    "mn63": "24d4fdba2728415fb92c273deb97d17e189841c8a0927516a4b2a62d712bf946",
+    "mn64": "d185b589c4e097b86e2a533db738a36c097a0e02f31e826e4273f99c0a7a2cfc",
+    "mn99": "df265af3b80bee9d56935b188bb07c2b83f5b0be1502370ded55720632acf847",
+    "mn117": "6fc4e6dad5d739f92e281e642e8b046a4c358b9f3cfd3e22055dc9bb9f4dca3f",
+    "mn118": "b882e148df56f98ff6378f5f68e7ce38f6fe5417d14929461927c72cb703397f",
+    "mn137": "0d52c976e54168c4bc1401b65fb7d03022317e96c1f5555ebf0c4df648622ccb",
+    "mn141": "011df1083e53b454b2e84c2a659b087ca9ec2d748ae6f3baa3c1b2a101e25d8d",
+    "mn148": "cc80f649865587452fd0a52fd39ecd47ea518bb3b34c36e9203c8ac27f5407c1",
+    "sn12_11": "1e477e680b47e78332c3a7a6b0168aa0b0801d4ff6a4b9c9a6e15da921b5f522",
+    "sn12_61": "19eae4ff65bda3f47787e1c84621a25d0904ad6bbdac23ad4ffd92711f5082cb",
+    "sn12_15": "12967655fb0abb09953d69070d171a4a47bb95877c356a0ae0c6bf6dd8bfbb8c",
+    "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
+    "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
+    "sn51_13": "870c81ac319f5b86848ae1184f16e5160ac28e355ab83735acf5a77bf5261341",
+    "sn55_5": "8aaeed7d9768d97f2fcf3838ab798e9609c1243977ad28ada1149883fc0c0672",
+    "sn56_11": "8263ffa4b2f4236f464e1f22ffded02d95dd16fa65092b33029ad8123e9581b3",
+    "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
+    "sn22_48": "b5ac6f591e4b8d397e205f8cae8b75629c974c4e9e0d84a7b9b3d1b808a5b49f",
+    "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
+    "sn35_28": "2392364c6a47b71dbbd4a21bc8593e612b7c169080c60c009d04bac82b07ac9f",
+    "sn36_6": "39cd01829b1062587bee1568c8f3f2bcc8de13c9fd50f834da804bcdcc08b1d6",
+    "sn46_51": "f897531d01d27cb3428efeb9fdceb1ed4425ac08e977cced56ee85c839c0e927",
+    "sn48_10": "6427267dc6dfabc8a46b537dbce6a67776ca52c5d12d078d6c2ae666fac47594",
+    "an3_65": "44d2b4b891a50e11a1c4b5eedb5aed65837b4f64f4c41a62503f75b7bd870956",
+    "an4_113": "fcd415f18a8c6738f548ff4eaa1733bebe4b850e6f50e4787527ed2e2a08a166",
+    "an6_63": "685e9cdbcb056ead938635e310292b4dd3f25ead2f335cd24f3588d575276f87",
+    "an10_60": "2ea40997cdfcc07157ec132ea7330f65f38202b6c6df16c8104f12a1a6bed78e",
+    "an11_9": "e386de70be3267ede96f43880b8c95772dba20ebaa1471b07cee783599cff4c3",
+    "dn2": "9d31e1bd2ceef134d94832ad6850d431965e05f4f45615d262ba0b76b8d07b20",
+    "dn15": "8461edc9ebaee7f98b372823f02660f84fba4534308cc3b74f3f17922f37c9f1",
+    "iti44": "cd8889506ec57be7071869300e6fe09a515ad7a982afcf7e9591eb6afd1da884",
+}
+
+TRANSLATION_SURFACES = tuple(
+    replace(
+        surface,
+        spoken_voice_review=SpokenVoiceReview(
+            profile="osf-spoken-v1-pilot",
+            status="pilot",
+            recorded_on="2026-08-22",
+            body_sha256=SPOKEN_VOICE_BODY_SHA256[surface.key],
+            source_ids=SPOKEN_VOICE_SURFACE_SOURCE_IDS.get(
+                surface.key, SPOKEN_VOICE_COMMON_SOURCE_IDS
+            ),
+        ),
+    )
+    for surface in TRANSLATION_SURFACES
 )
 
 

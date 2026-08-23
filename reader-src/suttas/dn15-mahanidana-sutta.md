@@ -423,47 +423,49 @@ knowing, proceeding by mutual conditionality.
 
 ## Designating a Self
 
-"And to what extent, Ānanda, does one designate a self?
+"And to what extent, Ānanda, does someone designate a self?
 
-They designate a self with form and limited:
+They designate a self as having form and being limited:
 
 'My self has form and is limited.'
 
-They designate a self with form and infinite:
+They designate a self as having form and being infinite:
 
 'My self has form and is infinite.'
 
-They designate a formless self and limited:
+They designate a self as being formless and limited:
 
 'My self is formless and limited.'
 
-They designate a formless self and infinite:
+They designate a self as being formless and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, someone who designates a self with form and limited either
+"Here, Ānanda, someone who designates a self as having form and being limited
+either
 designates it that way in the present, or designates it that way in the future,
 or thinks, 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of a limited self with form lies
 underneath.
 
-Someone who designates a self with form and infinite either designates it that
-way in the present, or designates it that way in the future, or thinks,
+Someone who designates a self as having form and being infinite either
+designates it that way in the present, or designates it that way in the future,
+or thinks,
 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite self with form
 lies underneath.
 
-Someone who designates a formless self and limited either designates it that
-way in the present, or designates it that way in the future, or thinks,
+Someone who designates a self as being formless and limited either designates
+it that way in the present, or designates it that way in the future, or thinks,
 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of a limited formless self lies
 underneath.
 
-Someone who designates a formless self and infinite either designates it that
-way in the present, or designates it that way in the future, or thinks,
+Someone who designates a self as being formless and infinite either designates
+it that way in the present, or designates it that way in the future, or thinks,
 'Although it is not like that, I will make it be like that.'
 
 In this case, it is enough to say that a view of an infinite formless self lies
@@ -473,49 +475,52 @@ To this extent, Ānanda, they designate a self.
 
 ## Not Designating a Self
 
-"And to what extent, Ānanda, does one not designate a self?
+"And to what extent, Ānanda, does someone not designate a self?
 
-They do not designate a self with form and limited:
+They do not designate a self as having form and being limited:
 
 'My self has form and is limited.'
 
-They do not designate a self with form and infinite:
+They do not designate a self as having form and being infinite:
 
 'My self has form and is infinite.'
 
-They do not designate a formless self and limited:
+They do not designate a self as being formless and limited:
 
 'My self is formless and limited.'
 
-They do not designate a formless self and infinite:
+They do not designate a self as being formless and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, someone who does not designate a self with form and limited does
-not designate it that way in the present, does not designate it that way in the
-future, and does not think, 'Although it is not like that, I will make it be
-like that.'
+"Here, Ānanda, someone who does not designate a self as having form and being
+limited does not designate it that way in the present, does not designate it
+that way in the future, and does not think, 'Although it is not like that, I
+will make it be like that.'
 
 In this case, it is enough to say that a view of a limited self with form does
 not lie underneath.
 
-Someone who does not designate a self with form and infinite does not designate
-it that way in the present, does not designate it that way in the future, and
-does not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a self as having form and being infinite does
+not designate it that way in the present, does not designate it that way in the
+future, and does not think, 'Although it is not like that, I will make it be
+like that.'
 
 In this case, it is enough to say that a view of an infinite self with form
 does not lie underneath.
 
-Someone who does not designate a formless self and limited does not designate
-it that way in the present, does not designate it that way in the future, and
-does not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a self as being formless and limited does not
+designate it that way in the present, does not designate it that way in the
+future, and does not think, 'Although it is not like that, I will make it be
+like that.'
 
 In this case, it is enough to say that a view of a limited formless self does
 not lie underneath.
 
-Someone who does not designate a formless self and infinite does not designate
-it that way in the present, does not designate it that way in the future, and
-does not think, 'Although it is not like that, I will make it be like that.'
+Someone who does not designate a self as being formless and infinite does not
+designate it that way in the present, does not designate it that way in the
+future, and does not think, 'Although it is not like that, I will make it be
+like that.'
 
 In this case, it is enough to say that a view of an infinite formless self does
 not lie underneath.
@@ -709,8 +714,8 @@ neither-recognition-nor-non-recognition are the two fields.
 diverse in recognition, such as humans, some devas, and some beings in downfall
 states.
 
-If they discern this, discerns its arising, discerns its vanishing, discerns
-its gratification, discerns its danger, and discerns its escape, is it fit to
+If they discern this, discern its arising, discern its vanishing, discern its
+gratification, discern its danger, and discern its escape, is it fit to
 delight in it?"
 
 "No, bhante."
@@ -719,8 +724,8 @@ delight in it?"
 
 And here, Ānanda, there is the field of non-recognizing beings.
 
-If they discern this, discerns its arising, discerns its vanishing, discerns
-its gratification, discerns its danger, and discerns its escape, is it fit to
+If they discern this, discern its arising, discern its vanishing, discern its
+gratification, discern its danger, and discern its escape, is it fit to
 delight in it?"
 
 "No, bhante."
@@ -728,8 +733,8 @@ delight in it?"
 "And here, Ānanda, there is the sphere of
 neither-recognition-nor-non-recognition.
 
-If they discern this, discerns its arising, discerns its vanishing, discerns
-its gratification, discerns its danger, and discerns its escape, is it fit to
+If they discern this, discern its arising, discern its vanishing, discern its
+gratification, discern its danger, and discern its escape, is it fit to
 delight in it?"
 
 "No, bhante."

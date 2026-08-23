@@ -3,6 +3,15 @@
   "profile": "osf-spoken-v1-pilot",
   "updated_on": "2026-08-22",
   "storage_policy": "Metadata and derived editorial observations only. Do not commit transcript bodies.",
+  "rollout_scope": {
+    "as_of": "2026-08-22",
+    "registry": "scripts/surface_registry.py",
+    "coverage": "all-registered-translation-surfaces",
+    "review_status": "pilot",
+    "human_read_aloud_status": "pending",
+    "newcomer_comprehension_status": "pending",
+    "approval_status": "not-approved"
+  },
   "sources": [
     {
       "id": "GOV-PLAIN-1",

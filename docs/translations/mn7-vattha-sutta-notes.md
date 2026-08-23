@@ -107,7 +107,8 @@ calls, and edition notes that govern it.
 - Governed wording left unchanged: the divine-abiding cadence and `There is an
   escape beyond this field reached by recognition` remain family-level review
   points rather than local opportunities for paraphrase.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

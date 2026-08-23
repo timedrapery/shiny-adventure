@@ -69,8 +69,8 @@ assembly: worthy of gifts, worthy of hospitality, worthy of offerings, worthy
 of reverential greeting, the unsurpassed field of merit for the world. In such
 an assembly, even a little gift becomes much, and a great gift becomes still
 greater. Such an assembly is rarely seen in the world. Such an assembly is
-worth traveling many leagues to see, even if they must carry provisions in a
-bag.
+worth traveling many leagues to see, even when the trip requires carrying
+provisions in a bag.
 
 "In this Saṅgha there are bhikkhus who are arahants, with outflows ended, who
 have lived the life, done what had to be done, laid down the burden, reached
@@ -219,12 +219,12 @@ slip. When remembering is present and does not slip, the remembering awakening
 factor is aroused. They develop it, and it comes to fulfillment through
 development.
 
-"Living in that way, with remembering present, they discern, investigates, and
-thoroughly examines that dhamma. Then the awakening factor of discernment of
+"Living in that way, with remembering present, they discern, investigate, and
+thoroughly examine that dhamma. Then the awakening factor of discernment of
 qualities is aroused. They develop it, and it comes to
 fulfillment through development.
 
-"As they discern, investigates, and thoroughly examines that dhamma with
+"As they discern, investigate, and thoroughly examine that dhamma with
 discernment, energy is aroused and does not slacken. Then the energy awakening
 factor is aroused. They develop it, and it comes to fulfillment
 through development.
@@ -233,15 +233,15 @@ through development.
 awakening factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
-"When rejoicing fills one, body and feeling mind relax. Then the relaxation
-awakening factor is aroused. They develop it, and it comes to fulfillment
-through development.
+"When rejoicing fills them, their body and feeling mind relax. Then the
+relaxation awakening factor is aroused. They develop it, and it comes to
+fulfillment through development.
 
 "When the body is relaxed and they experience ease, the feeling mind comes to
 mental composure. Then the awakening factor of mental composure is aroused.
 They develop it, and it comes to fulfillment through development.
 
-"One then looks carefully with dynamic balance at that well-composed feeling
+"They then look carefully with dynamic balance at that well-composed feeling
 mind. Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 

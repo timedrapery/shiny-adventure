@@ -192,7 +192,8 @@ source-audit calls, and edition notes that govern it.
 - Review: simplified Ariṭṭha's repeated claim and the cobra-simile syntax;
   preserved the ten sensual-pleasure similes, the wrong/right grasp parallel,
   the raft teaching, the not-self refrain, and intentional repetition.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: `the teaching as like a raft — for crossing over,

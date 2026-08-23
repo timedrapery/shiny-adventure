@@ -242,7 +242,8 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - Review: clarified Sāti's repeated claim and the householder's going-forth
   sequence; preserved the conditioned-knowing and fire teaching, the nutriment
   dialogue, both full conditional chains, and the six-door parallel.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: `he is the one who speaks and knows`, `cognizes an

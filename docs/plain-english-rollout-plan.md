@@ -46,22 +46,27 @@ wrong. The three exception categories are unchanged.
 
 ## Spoken-Voice Pilot — 2026-08-22
 
-The completed anti-translationese rollout remains complete. The SN 36.6
-spoken-voice pilot is a separate, opt-in calibration layer; it does not reopen
-the corpus-wide retrofit or change the five documented audit exceptions.
+The completed anti-translationese rollout remains complete. As of 2026-08-22,
+the separate spoken-voice profile has been applied to every translation surface
+registered in `scripts/surface_registry.py`. SN 36.6 was the calibration
+surface; the remaining surfaces were then revised in controlled waves. This
+does not reopen the anti-translationese retrofit or change its documented
+audit exceptions.
 
 The pilot is governed by
 [osf-spoken-translation-profile.md](osf-spoken-translation-profile.md). Its
 source roles, speaker scope, transcript-review state, and rights boundaries
 live in the metadata-only
 [source manifest](../candidates/source-manifests/osf-spoken-translation-sources.json).
-Run `python scripts/check_spoken_voice_sources.py` to validate that provenance
-and the review records attached to opted-in surfaces.
+Run `python scripts/check_spoken_voice_sources.py` to validate that provenance,
+the review record attached to every registered surface, and each locked
+translation-body hash.
 
-Automated checks and a finished draft do not make a pilot surface `approved`.
-Approval still requires the recorded read-aloud, fidelity, governance, and
-newcomer-comprehension reviews in the profile. Until those human checks are
-complete, keep the surface status at `pilot`.
+Automated checks and a finished draft do not make these surfaces `approved`.
+Every surface remains at `pilot`. Approval still requires the recorded
+read-aloud, fidelity, governance, and newcomer-comprehension reviews in the
+profile; in particular, the editor read-aloud and newcomer checks are still
+pending.
 
 ### This Document Has Claimed Completion Once Before, Wrongly
 

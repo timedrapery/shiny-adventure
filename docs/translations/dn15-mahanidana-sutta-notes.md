@@ -157,7 +157,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `Not agitated, one personally reaches final
   nibbāna` and the final two-sided-release formula still switch generic
   pronouns; changing them safely requires a coordinated formula-family review.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

@@ -46,9 +46,9 @@ awakening, this thought arose in me:
 
 'What if I were to keep dividing thinking into two classes?'
 
-So I made they class out of thinking of sensuality, thinking of ill will, and
-thinking of harming. And I made the second class out of thinking of
-renunciation, thinking of non-ill-will, and thinking of non-harming.
+So I put thinking of sensuality, thinking of ill will, and thinking of harming
+in the first class. I put thinking of renunciation, thinking of non-ill-will,
+and thinking of non-harming in the second.
 
 ## The Unwholesome Class
 
@@ -93,7 +93,8 @@ and there with a stick, turn them back, hem them in, and keep them out.
 
 Why is that?
 
-Because they see what would come of it: a beating, a binding, a fine, or blame.
+Because they would see what could happen: a beating, a binding, a fine, or
+blame.
 
 In the same way, I saw in unwholesome dhammas the drawback, the low side, and
 the corruption; and in wholesome dhammas, in renunciation, the benefit and the
@@ -108,10 +109,9 @@ arose in me. I understood:
 myself, to harming others, or to harming both. It nourishes discernment, is on
 the side of non-distress, and leads to quenching.'
 
-If I were to keep thinking and pondering this all night, I see no danger that
-would come from that. If I were to keep thinking and pondering this all day, I
-see no danger that would come from that. If I were to keep thinking and
-pondering this all night and day, I see no danger that would come from that.
+If I kept thinking and pondering this all night, I saw no danger in that. If I
+kept thinking and pondering this all day, I saw no danger in that. If I kept
+thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
 tired. When the body is tired, the feeling mind becomes strained. When the

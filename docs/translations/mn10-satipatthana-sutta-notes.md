@@ -120,7 +120,8 @@ source-audit calls, and edition notes that govern it.
 - Governed wording left unchanged: `remembering the Dhamma` in the breathing
   formula and `observing dhammas among dhammas` remain shared policy choices,
   even where a newcomer may initially find them unfamiliar.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

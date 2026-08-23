@@ -110,7 +110,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Review result: the opening exchange, short definitions, and list structure
   keep the analysis usable when heard; the forward and reverse governed
   chains remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

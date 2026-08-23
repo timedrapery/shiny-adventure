@@ -25,9 +25,9 @@ exactly where they differ.
 ## The Setting
 
 "Bhikkhus, I will teach you the penetrating exposition of the teaching. Listen
-carefully, attend well, and I will speak."
+carefully and pay close attention. I will speak."
 
-"Yes, bhante," those bhikkhus replied.
+"Yes, Bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -343,7 +343,7 @@ The ninth discourse is finished.
 [← MN 117: Mahācattārīsaka Sutta](mn117-mahacattarisaka-sutta.md) · [All suttas](index.md) · [SN 35.28: Āditta Sutta →](sn35-28-aditta-sutta.md)
 
 
-*[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.

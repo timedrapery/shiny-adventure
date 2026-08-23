@@ -162,7 +162,8 @@ source-audit calls, and edition notes that govern it.
 - Review: sharpened the opening definition sequence, the same/separate
   question, and the closing report; preserved `Ayye`, all governed headwords,
   conditioner order, underlying-tendency exceptions, and counterpart ladder.
-- Automated review: pending integration
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud: pending
 - Newcomer review: pending
 - Governed wording retained: `attainment of cessation of recognition and felt

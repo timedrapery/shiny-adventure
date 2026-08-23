@@ -153,7 +153,8 @@ have sufficient lexicon coverage:
 - Review result: the numbered sequence gives each recognition one spoken move
   at a time; the body and illness lists, breath training, and controlled
   recognition labels remain complete rather than being summarized away.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

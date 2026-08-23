@@ -98,7 +98,8 @@ source-audit calls, and edition notes that govern it.
   repetition.
 - Governed wording left unchanged: `On this point, student, I analyze. I do not
   speak one-sidedly` remains the controlled answer to Subha's either-or claim.
-- Automated review: pending integration.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer review: pending.
 

@@ -105,7 +105,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Review result: the five-heaps argument is carried by direct questions and
   short replies; the de-appropriation refrain and controlled heap vocabulary
   remain unchanged.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 

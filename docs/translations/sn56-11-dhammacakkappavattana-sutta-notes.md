@@ -118,7 +118,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - Review result: the two extremes, the middle path, and the truth-task rounds
   remain distinct spoken moves; governed path and truth formulas are
   preserved without decorative synonym changes.
-- Automated governance review: pending the integration run.
+- Automated governance review: complete; the full repository verification
+  suite passed on 2026-08-22.
 - Alexander H read-aloud review: pending.
 - Newcomer comprehension review: pending.
 
