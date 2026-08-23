@@ -114,3 +114,22 @@ source-audit calls, and edition notes that govern it.
   MN 18 translation surface.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: Daṇḍapāṇi's exchange now uses concrete actions and an explicit
+  subject, while Mahākaccāna's instruction and the honey-ball image are easier
+  to hear; the six-door sequence and positive/negative designation contrast
+  remain intact.
+- Governed wording left unchanged: `recognitions and notions of proliferation
+  sweep over a person` and the repeated `possible to designate` sequence
+  remain controlling phrase language rather than local paraphrase targets.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

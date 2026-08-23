@@ -33,7 +33,7 @@ There the Buddha addressed the bhikkhus:
 
 "Bhikkhus."
 
-"Bhante," those bhikkhus replied.
+"Bhante," the bhikkhus replied.
 
 The Buddha said this:
 
@@ -135,7 +135,7 @@ inflated conceit, arrogant intoxication, and heedlessness have each been known
 and abandoned as corruptions of the feeling mind, then they are equipped with
 verified confidence in the Buddha:
 
-'That Blessed They are the arahant, the fully awakened Buddha, accomplished in
+'That Blessed One is the arahant, the fully awakened Buddha, accomplished in
 knowledge and conduct, holy, knower of the world, unsurpassed guide for those
 fit for training, teacher of gods and humans, awakened, blessed.'
 
@@ -148,7 +148,7 @@ timeless, come and see, leading onward, to be known personally by the wise.'
 
 'The Buddha's Saṅgha of disciples is practicing well, practicing straight,
 practicing the proper way, and practicing rightly; that is, the four pairs of
-persons, the eight kinds of individuals. This Blessed Their Saṅgha of disciples
+persons, the eight kinds of individuals. This Saṅgha of the Buddha's disciples
 is worthy of offerings, hospitality, gifts, and reverential greeting, the
 unsurpassed field of merit for the world.'
 
@@ -312,7 +312,8 @@ bhikkhus.
 May I receive the going forth in Master Gotama's presence. May I receive full
 ordination."
 
-The brahmin Sundarika Bhāradvāja received the going forth in the Buddha's presence, and he received full ordination.
+The brahmin Sundarika Bhāradvāja received the going forth in the Buddha's
+presence. He also received full ordination.
 
 Soon after his full ordination, Venerable Bhāradvāja, dwelling alone,
 secluded, heedful, ardent, and resolute, soon personally realized with direct

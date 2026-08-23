@@ -102,3 +102,22 @@ source-audit calls, and edition notes that govern it.
 - The final passage is the point of the whole discourse. What ends the taking
   personally is not effort against each of the four in turn but the giving up
   of ignorance, after which none of the four is taken up.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the setting, the other wanderers' possible objections, and
+  the two causal answers now move in shorter spoken units; the goal contrasts,
+  four kinds of taking personally, and repeated source questions remain
+  intact.
+- Governed wording left unchanged: the fourfold `source / origin / born from /
+  produces` question and the four `taking ... personally` compounds must stay
+  synchronized with their controlling records.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

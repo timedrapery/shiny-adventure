@@ -46,11 +46,10 @@ In what way, friends, is a noble disciple one with right view, whose view has
 become direct, who is endowed with verified confidence in the Dhamma, and who
 has arrived at this true Dhamma?"
 
-"Friend, we would come from far away to learn the meaning of this statement in
-Venerable Sāriputta's presence. Let its meaning occur to Venerable Sāriputta
-himself. Hearing it from Venerable Sāriputta, the bhikkhus will remember it."
+"Friend, we would travel a long way to hear Venerable Sāriputta explain this.
+Please tell us what it means. We will listen and remember."
 
-"Then, friends, listen carefully, attend well, and I will speak."
+"Then, friends, listen carefully and attend well. I will speak."
 
 "Yes, friend," the bhikkhus replied.
 
@@ -128,11 +127,11 @@ has arrived at this true Dhamma."
 The bhikkhus were glad and approved of Venerable Sāriputta's words. Then they
 asked him a further question:
 
-"But, friend, might there be another way in which a noble disciple is one with
+"But, friend, is there another way in which a noble disciple is one with
 right view, whose view has become direct, who is endowed with verified
 confidence in the Dhamma, and who has arrived at this true Dhamma?"
 
-"There might, friends.
+"Yes, friends, there is.
 
 ### Nutriment
 
@@ -189,7 +188,7 @@ has arrived at this true Dhamma."
 Again the bhikkhus approved and asked whether there was another way. Sāriputta
 said:
 
-"There might, friends.
+"Yes, friends, there is.
 
 When a noble disciple discerns dissatisfaction, discerns the origin of
 dissatisfaction, discerns the quenching of dissatisfaction, and discerns the
@@ -485,7 +484,7 @@ eightfold path is the path of practice leading to the quenching of ignorance.
 Again the bhikkhus approved and asked whether there was another way. Sāriputta
 said:
 
-"There might, friends.
+"Yes, friends, there is.
 
 When a noble disciple discerns outflow, discerns the origin of outflow,
 discerns the quenching of outflow, and discerns the path of practice leading to

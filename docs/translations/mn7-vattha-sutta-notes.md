@@ -93,3 +93,22 @@ calls, and edition notes that govern it.
 - Future revisions should focus on the corruption-list family, the `sannagata`
   escape line, or stock-formula synchronization if those areas gain stronger
   repository controls.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: broken pronouns in the recollection formulas were repaired,
+  and the going-forth and ordination actions now arrive as separate spoken
+  steps; the corruption list, recollections, and divine-abiding repetitions
+  remain intact.
+- Governed wording left unchanged: the divine-abiding cadence and `There is an
+  escape beyond this field reached by recognition` remain family-level review
+  points rather than local opportunities for paraphrase.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.
