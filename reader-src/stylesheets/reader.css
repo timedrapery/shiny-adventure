@@ -72,12 +72,10 @@
 }
 
 .reader-terms summary {
-  display: grid;
-  grid-template-columns: 1.1em 1fr;
-  gap: 0.35rem;
+  display: block;
+  position: relative;
   min-height: 44px;
-  align-items: center;
-  padding: 0.45rem 0.8rem;
+  padding: 0.55rem 2.2rem 0.55rem 2.4rem;
   cursor: pointer;
   color: var(--md-default-fg-color);
   font-weight: 600;
@@ -90,6 +88,21 @@
 
 .reader-terms summary::before {
   content: "▸";
+  position: absolute;
+  top: 50%;
+  inset-inline-start: 0.8rem;
+  width: 1em;
+  height: 1em;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  line-height: 1;
+  transform: translateY(-50%);
+}
+
+/* Material adds its own right-hand marker; keep one clear indicator only. */
+.reader-terms summary::after {
+  display: none;
 }
 
 .reader-terms[open] summary::before {

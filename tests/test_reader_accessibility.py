@@ -145,12 +145,27 @@ class SiteAssetTests(unittest.TestCase):
         css = (
             ":focus-visible { outline: solid; }\n"
             "a { min-height: 44px; max-width: 70ch; }\n"
-            "summary::before { content: 'open'; }\n"
+            ".reader-terms summary { display: block; }\n"
+            ".reader-terms summary::before { content: 'open'; "
+            "position: absolute; mask: none; -webkit-mask: none; }\n"
             "@media (prefers-reduced-motion: reduce) {}\n"
         )
         self.assertEqual(
             accessibility.accessibility_asset_failures(mkdocs, css), []
         )
+
+    def test_theme_colliding_summary_grid_is_reported(self) -> None:
+        mkdocs = "theme:\n  font: false\nextra_css:\n  - stylesheets/reader.css\n"
+        css = (
+            ":focus-visible { outline: solid; }\n"
+            "a { min-height: 44px; max-width: 70ch; }\n"
+            ".reader-terms summary { display: grid; }\n"
+            ".reader-terms summary::before { content: 'open'; "
+            "position: absolute; mask: none; -webkit-mask: none; }\n"
+            "@media (prefers-reduced-motion: reduce) {}\n"
+        )
+        failures = accessibility.accessibility_asset_failures(mkdocs, css)
+        self.assertTrue(any("full-width block layout" in item for item in failures))
 
     def test_missing_accessibility_features_are_reported(self) -> None:
         failures = accessibility.accessibility_asset_failures(
