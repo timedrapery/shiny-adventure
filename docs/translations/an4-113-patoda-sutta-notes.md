@@ -105,3 +105,18 @@ have sufficient lexicon coverage:
   later OSF practice material provides a stronger house default, or the
   `kāyena sacchikaroti` formula if the witness-contact rendering is revisited
   across the surface library.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the four horse cases were recast as short actions—what the
+  horse sees, when the goad reaches it, and how it responds—while all four
+  levels and the urgency / striving comparison remain intact.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

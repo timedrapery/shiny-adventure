@@ -75,10 +75,10 @@ or for their harm?"
 
 "For their harm, Bhante."
 
-"A person seized by greed, their feeling mind overwhelmed and taken over: they
-kill living creatures, take what is not given, go to another's partner, speak
-falsely, and encourage others to do likewise. That is for their long-lasting
-harm and suffering."
+"When greed seizes a person and takes over their feeling mind, they kill living
+creatures, take what is not given, go to another's partner, speak falsely, and
+encourage others to do likewise. That brings them long-lasting harm and
+suffering."
 
 "Yes, Bhante."
 
@@ -87,10 +87,10 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"A person seized by aversion, their feeling mind overwhelmed and taken over:
-they kill living creatures, take what is not given, go to another's partner,
-speak falsely, and encourage others to do likewise. That is for their
-long-lasting harm and suffering."
+"When aversion seizes a person and takes over their feeling mind, they kill
+living creatures, take what is not given, go to another's partner, speak
+falsely, and encourage others to do likewise. That brings them long-lasting
+harm and suffering."
 
 "Yes, Bhante."
 
@@ -99,10 +99,10 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"A person seized by delusion, their feeling mind overwhelmed and taken over:
-they kill living creatures, take what is not given, go to another's partner,
-speak falsely, and encourage others to do likewise. That is for their
-long-lasting harm and suffering."
+"When delusion seizes a person and takes over their feeling mind, they kill
+living creatures, take what is not given, go to another's partner, speak
+falsely, and encourage others to do likewise. That brings them long-lasting
+harm and suffering."
 
 "Yes, Bhante."
 
@@ -152,10 +152,10 @@ welfare or for their harm?"
 
 "For their welfare, Bhante."
 
-"A person free of greed, their feeling mind not overwhelmed and not taken over:
-they do not kill living creatures, do not take what is not given, do not go to
-another's partner, do not speak falsely, and do not encourage others to do
-likewise. That is for their long-lasting welfare and happiness."
+"When a person is free of greed, it does not overwhelm or take over their
+feeling mind. They do not kill living creatures, take what is not given, go to
+another's partner, speak falsely, or encourage others to do likewise. That
+brings them long-lasting welfare and happiness."
 
 "Yes, Bhante."
 

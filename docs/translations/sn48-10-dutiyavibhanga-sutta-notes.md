@@ -140,3 +140,18 @@ surface quote text the source writes out in full.
   citation-repair wave rather than a translation wave, and this text was the
   best-ranked candidate left standing once the repair work was done: two
   orphan majors in 297 words, the best ratio in the audit.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: each faculty is introduced by the same direct question and
+  then shown through action; the governed right-effort, remembering, mental-
+  theme, and truth formulas remain stable.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

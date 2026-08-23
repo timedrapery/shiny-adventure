@@ -148,3 +148,18 @@ source-audit calls, and edition notes that govern it.
 - Future revisions should focus on confirming whether the brahmavihāra
   formula in this sutta should be cross-linked to any future brahmavihāra
   cluster report.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the Kālāmas' uncertainty, the Buddha's validating answer,
+  and the welfare / harm questions already form a natural conversation; the
+  ten criteria and four consolations retain their intentional repetition.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

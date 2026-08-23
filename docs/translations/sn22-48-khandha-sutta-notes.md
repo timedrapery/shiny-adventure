@@ -75,3 +75,18 @@ source-audit calls, and edition notes that govern it.
   SN 22.48 translation surface.
 - Future revisions should be driven by source-audit gains, term-policy
   expansion, or real readability improvements, not routine wording churn.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the two five-part lists keep identical cadence so the added
+  `with outflows and fit to be taken personally` clause is easy to hear; the
+  governed heap labels remain unchanged.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

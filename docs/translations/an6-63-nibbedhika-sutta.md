@@ -27,9 +27,9 @@
 ### The Setting
 
 "Bhikkhus, I will teach you the penetrating exposition of the teaching. Listen
-carefully, attend well, and I will speak."
+carefully and pay close attention. I will speak."
 
-"Yes, bhante," those bhikkhus replied.
+"Yes, Bhante," the bhikkhus replied.
 
 The Buddha said this:
 

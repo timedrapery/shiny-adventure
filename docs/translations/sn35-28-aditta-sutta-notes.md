@@ -117,3 +117,18 @@ records:
   Re-audit Calls above. Future revisions should focus on `mano` / `citta` if
   the feeling-mind / thinking-mind distinction develops a more fully governed
   policy across the six-sense-field family.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the repeated `is burning` unit stays short and forceful while
+  the changed sense field remains obvious; the release sequence and governed
+  sense vocabulary are preserved.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

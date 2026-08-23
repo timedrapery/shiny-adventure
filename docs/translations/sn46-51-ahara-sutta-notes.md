@@ -104,3 +104,18 @@ would materially reduce drift.
 - Future revisions should focus on the feeding / starving formula language, the
   `amanasikara` line, or any support-list phrase that later proves important
   enough to deserve its own governed record.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the feeding / starving question is repeated as the audible
+  frame, and each answer names one practical support; governed distraction
+  and awakening-factor labels remain unchanged.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

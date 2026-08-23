@@ -40,11 +40,11 @@ A wild colt, tied to the feeding trough, holds a theme: 'Fodder, fodder!'
 
 Why is that?
 
-Because it does not occur to a wild colt tied to the feeding trough: 'What
-task will the horse trainer have me do today? How should I respond?' Tied to
-the feeding trough, it holds a theme: 'Fodder, fodder!'
+Because a wild colt tied to the feeding trough never thinks: 'What task will
+the horse trainer have me do today? How should I respond?' Tied to the feeding
+trough, it holds a theme: 'Fodder, fodder!'
 
-In the same way, Saddha, there is the wild person who has gone to the forest,
+In the same way, Saddha, a wild person who has gone to the forest,
 to the root of a tree, or to an empty dwelling. They remain with their feeling
 mind overcome and seized by sensual distraction, and they do not truly
 understand the escape from sensual distraction that has arisen. Harboring
@@ -89,9 +89,9 @@ A fine thoroughbred, tied to the feeding trough, does not hold a theme:
 
 Why is that?
 
-Because it does occur to a fine thoroughbred tied to the feeding trough:
-'What task will the horse trainer have me do today? How should I respond?'
-Tied to the feeding trough, it does not hold a theme: 'Fodder, fodder!'
+Because a fine thoroughbred tied to the feeding trough does think: 'What task
+will the horse trainer have me do today? How should I respond?' Tied to the
+feeding trough, it does not hold a theme: 'Fodder, fodder!'
 
 For the fine thoroughbred regards the goad's contact as a debt, a bond, a
 loss, and a misfortune.

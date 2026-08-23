@@ -25,29 +25,29 @@
 
 "Bhikkhus, these four fine thoroughbreds are found in the world. What four?
 
-Here, bhikkhus, one fine thoroughbred, on seeing the shadow of the goad, is
-stirred and comes to urgency, thinking: 'What task will the horse trainer
-have me do today? How should I respond?' Some fine thoroughbreds are like
-that. This, bhikkhus, is the first fine thoroughbred found in the world.
+Here, bhikkhus, a fine thoroughbred sees the shadow of the goad and is stirred
+to urgency. It thinks: 'What task will the horse trainer have me do today? How
+should I respond?' Some fine thoroughbreds are like that. This is the first
+kind of fine thoroughbred found in the world.
 
-Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
-goad, stirred and coming to urgency — but only when struck through the hairs,
-thinking: 'What task will the horse trainer have me do today? How should I
-respond?' Some fine thoroughbreds are like that. This, bhikkhus, is the second
+Bhikkhus, another fine thoroughbred is not stirred to urgency just by seeing
+the shadow of the goad. It is stirred only when the goad strikes its hair.
+It thinks:
+'What task will the horse trainer have me do today? How should I respond?'
+Some fine thoroughbreds are like that. This, bhikkhus, is the second kind of
 fine thoroughbred found in the world.
 
-Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
-goad, stirred and coming to urgency, nor when struck through the hairs — but
-only when struck through the hide, thinking: 'What task will the horse
-trainer have me do today? How should I respond?' Some fine thoroughbreds are
-like that. This, bhikkhus, is the third fine thoroughbred found in the world.
+Bhikkhus, another is not stirred by the shadow or when the goad strikes its
+hair. It is stirred only when the goad strikes its hide. It thinks: 'What task
+will the horse trainer have me do today? How should I respond?'
+Some fine thoroughbreds are like that. This, bhikkhus, is the third kind of
+fine thoroughbred found in the world.
 
-Again, bhikkhus, one fine thoroughbred is not, on seeing the shadow of the
-goad, stirred and coming to urgency, nor when struck through the hairs, nor
-when struck through the hide — but only when struck to the bone, thinking:
-'What task will the horse trainer have me do today? How should I respond?'
-Some fine thoroughbreds are like that. This, bhikkhus, is the fourth fine
-thoroughbred found in the world.
+Bhikkhus, another is not stirred by the shadow, by the hair, or by the hide.
+It is stirred only when the goad strikes to the bone. It thinks: 'What task
+will the horse trainer have me do today? How should I respond?'
+Some fine thoroughbreds are like that. This, bhikkhus, is the fourth kind of
+fine thoroughbred found in the world.
 
 These, bhikkhus, are the four fine thoroughbreds found in the world.
 
@@ -56,7 +56,7 @@ These, bhikkhus, are the four fine thoroughbreds found in the world.
 "In just the same way, bhikkhus, these four fine thoroughbred individuals are
 found in the world. What four?
 
-Here, bhikkhus, one fine thoroughbred individual hears that in such-and-such
+Here, bhikkhus, a fine thoroughbred individual hears that in such-and-such
 village or town a woman or man has come to suffering or has died. They are
 stirred by this and come to urgency. Gripped by urgency, they strive
 thoroughly. Applying themselves, they witness the ultimate truth with the body
@@ -67,7 +67,7 @@ shadow of the goad — I say this fine thoroughbred individual is like that.
 Some fine thoroughbred individuals are like that. This, bhikkhus, is the first
 fine thoroughbred individual found in the world.
 
-Again, bhikkhus, one fine thoroughbred individual does not hear that in
+Bhikkhus, another fine thoroughbred individual does not hear that in
 such-and-such village or town a woman or man has come to suffering or has
 died, but they see it themselves — a woman or man who has come to suffering or
 has died. They are stirred by this and come to urgency. Gripped by urgency,
@@ -79,7 +79,7 @@ through the hairs — I say this fine thoroughbred individual is like that. Some
 fine thoroughbred individuals are like that. This, bhikkhus, is the second
 fine thoroughbred individual found in the world.
 
-Again, bhikkhus, one fine thoroughbred individual does not hear that in
+Bhikkhus, another fine thoroughbred individual does not hear that in
 such-and-such village or town a woman or man has come to suffering or has
 died, nor do they see it themselves — a woman or man who has come to suffering
 or has died — but it happens to their own relative or blood relation, who has
@@ -92,7 +92,7 @@ through the hide — I say this fine thoroughbred individual is like that. Some
 fine thoroughbred individuals are like that. This, bhikkhus, is the third fine
 thoroughbred individual found in the world.
 
-Again, bhikkhus, one fine thoroughbred individual does not hear that in
+Bhikkhus, another fine thoroughbred individual does not hear that in
 such-and-such village or town a woman or man has come to suffering or has
 died, nor do they see it themselves — a woman or man who has come to suffering
 or has died — nor does it happen to their own relative or blood relation, but

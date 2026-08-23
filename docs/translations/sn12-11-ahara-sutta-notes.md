@@ -105,3 +105,18 @@ finally governs running text.
   nutriments?` has already been answered once the answer reaches ignorance.
   The four nutriments are not a separate teaching bolted onto dependent
   arising; they are an entry point into it.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the direct source questions and repeated answers make the
+  nutriment sequence hearable; the governed dependent-arising chain remains
+  unchanged.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

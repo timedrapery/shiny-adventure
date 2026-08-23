@@ -257,7 +257,7 @@ correctly?"
 
 "No, friend."
 
-"Then, friends, how would one answer correctly?"
+"Then, friends, what would the correct answer be?"
 
 "Friend, they would answer correctly by saying, 'It is the scent of the
 flower.'"
@@ -356,7 +356,7 @@ uprooted - that too goes to uprooting."
 
 When this had been said, the senior bhikkhus said this to Venerable Khemaka:
 
-"We did not question Venerable Khemaka out of a wish to trouble him.
+"We weren't questioning Venerable Khemaka to trouble him.
 
 But Venerable Khemaka is able to explain, teach, designate, establish, open,
 analyze, and make clear the Buddha's instruction in detail.

@@ -35,12 +35,17 @@ At Sāvatthī.
 
 And for someone who knows and sees what?
 
-Such is form, such is form's arising, such is form's ending. Such is felt
-experience, such is felt experience's arising, such is felt experience's
-ending. Such is recognition, such is recognition's arising, such is
-recognition's ending. Such is what is put together, such is what is put
-together's arising, such is what is put together's ending. Such is knowing,
-such is knowing's arising, such is knowing's ending.
+This is form. This is how form arises. This is how form ends.
+
+This is felt experience. This is how felt experience arises. This is how felt
+experience ends.
+
+This is recognition. This is how recognition arises. This is how recognition
+ends.
+
+This is what is put together. This is how it arises. This is how it ends.
+
+This is knowing. This is how knowing arises. This is how knowing ends.
 
 It is for someone who knows and sees in this way that the destruction of
 outflows occurs.
