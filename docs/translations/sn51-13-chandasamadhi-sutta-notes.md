@@ -136,3 +136,17 @@ whole.
 - SN 51.13 is the second Wave 7 surface. It was chosen for carrying three
   orphan major entries -- `chanda`, `iddhipāda`, and `vīmaṁsā` -- the highest
   count of any substantive text in the audit, in 242 Pali words.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: each basis of power follows the same audible sequence, so the
+  changed support stands out while the exertion refrain stays stable.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

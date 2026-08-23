@@ -36,9 +36,9 @@ The Buddha said this:
 ### The Dependent-Arising Sequence
 
 "Bhikkhus, I will teach and analyze dependent arising for you. Listen
-carefully, attend well, and I will speak."
+carefully and pay close attention. I will speak."
 
-"Yes, bhante," the bhikkhus replied.
+"Yes, Bhante," the bhikkhus replied.
 
 The Buddha said this:
 

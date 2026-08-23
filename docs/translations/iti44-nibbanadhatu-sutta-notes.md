@@ -174,3 +174,18 @@ its own, so the reader meets the discourse the way the collection presents it.
   dark, and for four orphan entries — `nibbana-dhatu`,
   `saupadisesa-nibbana-dhatu`, `anupadisesa-nibbana-dhatu`, and
   `parinibbana-dhatu` — in 135 Pali words.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the prose asks and answers what the two elements are before
+  the verse restates the contrast; the remainder / no-remainder distinction
+  and governed nibbāna vocabulary remain explicit.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

@@ -30,7 +30,8 @@
 At Savatthi.
 
 "Bhikkhus, I will explain what feeds and what starves the five distractions and
-the seven awakening factors. Listen and attend well. I will speak."
+the seven awakening factors. Listen carefully and pay close attention. I will
+speak."
 
 "Yes, Bhante," the bhikkhus replied.
 

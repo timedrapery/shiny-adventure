@@ -92,3 +92,18 @@ They are now used verbatim:
 - The remedy offered is not to observe the mind harder but to attend to
   dependent arising, which is why the four-line formula and the full chain
   arrive at exactly this point in the discourse.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the body-and-mind contrast, repeated `Why is that?` movement,
+  and monkey simile already follow the spoken profile; the governed
+  conditionality formulas remain unchanged.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

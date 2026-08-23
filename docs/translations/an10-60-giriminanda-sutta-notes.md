@@ -143,3 +143,18 @@ have sufficient lexicon coverage:
   / `cittasaṅkhāra` compound rendering if the saṅkhāra cluster develops
   explicit guidance for the breath-context compounds, or the `upadhi`
   rendering if that term gains a lexicon entry of its own.
+
+## Spoken-Voice Review
+
+- Profile: `osf-spoken-v1-pilot`
+- Status: `pilot`
+- Sources: `GOV-PLAIN-1`, `DH-CORPUS-1`, `DH-TEACH-1`, `OSF-AV-1`,
+  `OSF-AV-6`, `OSF-AV-7`
+- Review result: the numbered sequence gives each recognition one spoken move
+  at a time; the body and illness lists, breath training, and controlled
+  recognition labels remain complete rather than being summarized away.
+- Automated governance review: pending the integration run.
+- Alexander H read-aloud review: pending.
+- Newcomer comprehension review: pending.
+
+This surface remains a pilot until the human reviews are recorded.

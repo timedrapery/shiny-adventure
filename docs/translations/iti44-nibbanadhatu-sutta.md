@@ -76,13 +76,13 @@ by the one with vision, independent, unshaken.
 One element belongs to what is visible here and now:
 with remainder, the conduit to becoming worn away.
 
-The one without remainder belongs to what comes after,
+The element without remainder belongs to what comes after,
 in which every becoming quenches.
 
 Those who know this unconditioned state,
-their feeling mind released, the conduit to becoming worn away,
-who have reached the heart of the Dhamma and delight in the wearing away —
-such ones have given up every becoming."
+whose feeling mind is released and whose conduit to becoming is worn away,
+have reached the heart of the Dhamma and delight in the wearing away.
+They have given up every becoming."
 
 This too was said by the Buddha — so I heard.
 
