@@ -9,7 +9,8 @@
     "ignorantly holding",
     "clinging",
     "grasping",
-    "fuel"
+    "fuel",
+    "appropriation"
   ],
   "discouraged_translations": [
     "attachment",
@@ -43,6 +44,11 @@
       "context": "In explanatory prose tied to the fire metaphor",
       "rendering": "fuel",
       "notes": "Use selectively because it is not the default doctrinal gloss."
+    },
+    {
+      "context": "In SN 12.23's compact dependent-arising chain",
+      "rendering": "appropriation",
+      "notes": "A concise analytical noun retained on that governed surface; do not displace the default taking personally."
     },
     {
       "context": "In compounds such as kāmupādāna, diṭṭhupādāna, sīlabbatupādāna, and attavādupādāna",

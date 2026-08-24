@@ -346,10 +346,28 @@ def orphan_slug_tokens(term: str, normalized_term: str) -> list[str]:
     if is_subsequence(canonical, slug) or is_subsequence(slug, canonical):
         return []
 
+    headword_tokens = [token for token in normalize_term(term).split("_") if token]
+
+    def matches_inflected_headword(token: str) -> bool:
+        # Formula slugs use dictionary-like stems while their Pali headwords
+        # carry case/number endings: sabbe/sabbasaṅkhārā,
+        # brahmana/brāhmaṇo, dhamma/dhammehi. Four shared initial letters are
+        # enough to recognize that ordinary inflection without forgiving a
+        # genuinely different phrase such as pañcime vs pañcupādānakkhandhā.
+        required_prefix = max(4, len(token) - 1)
+        return len(token) >= 4 and any(
+            len(headword) >= required_prefix
+            and token[:required_prefix] == headword[:required_prefix]
+            for headword in headword_tokens
+        )
+
     return [
         token
         for token in normalize_term(normalized_term).split("_")
-        if token and token != DESCRIPTIVE_SLUG_SUFFIX and token not in canonical
+        if token
+        and token != DESCRIPTIVE_SLUG_SUFFIX
+        and token not in canonical
+        and not matches_inflected_headword(token)
     ]
 
 
@@ -470,19 +488,34 @@ def collect_governed_rendering_drift(
 
     for document, declared in sorted(declarations.items()):
         seen: dict[str, set[str]] = defaultdict(set)
+        original_headwords: dict[str, str] = {}
         for headword, rendering in declared:
-            seen[stem_key(headword)].add(canonical_rendering(rendering))
+            # Self-contradiction needs the same declared Pali expression, not
+            # merely two inflected members of one family. The previous stem
+            # grouping falsely treated `nibbidā` and `nibbindati` as one
+            # headword even though noun and verb naturally need different
+            # English grammar.
+            normalized_headword = normalize_term(headword)
+            seen[normalized_headword].add(canonical_rendering(rendering))
+            original_headwords.setdefault(normalized_headword, headword)
 
         for headword_key, renderings in sorted(seen.items()):
             if len(renderings) > 1:
+                matching = next(
+                    (
+                        data for data in terms.values()
+                        if normalize_term(str(data.get("term", ""))) == headword_key
+                    ),
+                    {},
+                )
                 findings.append(
                     {
                         "document": document,
-                        "headword": headword_key,
+                        "headword": original_headwords[headword_key],
                         "kind": "self_contradiction",
                         "declared": sorted(renderings),
                         "preferred": str(
-                            by_key.get(headword_key, {}).get("preferred_translation", "")
+                            matching.get("preferred_translation", "")
                         ),
                     }
                 )

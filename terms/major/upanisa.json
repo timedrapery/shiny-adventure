@@ -6,7 +6,8 @@
   "literal_meaning": "supporting condition, decisive support",
   "preferred_translation": "supporting condition",
   "alternative_translations": [
-    "decisive support"
+    "decisive support",
+    "vital condition"
   ],
   "discouraged_translations": [
     "inspiration"
@@ -29,6 +30,11 @@
       "context": "When translating the positive conditional chain where one development enables the next",
       "rendering": "supporting condition",
       "notes": "Keep the enabling role explicit rather than collapsing the term into generic cause-language."
+    },
+    {
+      "context": "In SN 12.23 where the refrain emphasizes an indispensable enabling condition",
+      "rendering": "vital condition",
+      "notes": "A recorded surface-specific alternate; supporting condition remains the corpus default."
     }
   ],
   "related_terms": [

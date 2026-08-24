@@ -84,9 +84,9 @@ They remain observing not-self in the six inner and outer sense fields.
 
 This, Ānanda, is called the recognition of not-self.
 
-**3. Recognition of Unattractiveness**
+**3. Recognizing What Is Unattractive**
 
-And what, Ānanda, is the recognition of unattractiveness?
+And what, Ānanda, does it mean to recognize what is unattractive?
 
 Here, Ānanda, a bhikkhu examines this very body upward from the soles of the
 feet and downward from the tips of the hair, enclosed by skin, full of many
@@ -99,7 +99,7 @@ sweat, fat; tears, grease, saliva, snot, fluid of the joints, urine.'
 
 They remain observing unattractiveness in this body.
 
-This, Ānanda, is called the recognition of unattractiveness.
+This, Ānanda, is what it means to recognize what is unattractive.
 
 **4. Recognition of Drawbacks**
 

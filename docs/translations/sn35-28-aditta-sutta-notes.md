@@ -62,7 +62,8 @@ records:
 - `dosa` → `aversion` (major)
 - `moha` → `delusion` (major)
 - `vedanā` → `felt experience` (major)
-- `nibbidā` / `nibbindati` → `disenchantment` / `grows disenchanted` (major)
+- The noun `nibbidā` uses `disenchantment`; its verb `nibbindati` uses
+  `grows disenchanted` (major).
 - `virāga` → `fading` (major)
 - `vimutti` → `release` (major)
 - `āsava` → `outflow` (major)

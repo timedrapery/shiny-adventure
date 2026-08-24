@@ -117,6 +117,11 @@ Current MN 118 surfaces:
 - [mn118-anapanasati-sutta.md](mn118-anapanasati-sutta.md): main shareable translation text
 - [mn118-anapanasati-sutta-notes.md](mn118-anapanasati-sutta-notes.md): companion translator notes and rationale
 
+Current MN 119 surfaces:
+
+- [mn119-kayagatasati-sutta.md](mn119-kayagatasati-sutta.md): main shareable translation text
+- [mn119-kayagatasati-sutta-notes.md](mn119-kayagatasati-sutta-notes.md): companion translator notes and rationale
+
 Current MN 131 surfaces:
 
 - [mn131-bhaddekaratta-sutta.md](mn131-bhaddekaratta-sutta.md): main shareable translation text
@@ -202,6 +207,11 @@ Current SN 35.28 surfaces:
 - [sn35-28-aditta-sutta.md](sn35-28-aditta-sutta.md): main shareable translation text
 - [sn35-28-aditta-sutta-notes.md](sn35-28-aditta-sutta-notes.md): companion translator notes and rationale
 
+Current SN 45.2 surfaces:
+
+- [sn45-2-upaddha-sutta.md](sn45-2-upaddha-sutta.md): main shareable translation text
+- [sn45-2-upaddha-sutta-notes.md](sn45-2-upaddha-sutta-notes.md): companion translator notes and rationale
+
 Current SN 36.6 surfaces:
 
 - [sn36-6-salla-sutta.md](sn36-6-salla-sutta.md): main shareable translation text
@@ -231,6 +241,11 @@ Current AN 6.63 surfaces:
 
 - [an6-63-nibbedhika-sutta.md](an6-63-nibbedhika-sutta.md): main shareable translation text
 - [an6-63-nibbedhika-sutta-notes.md](an6-63-nibbedhika-sutta-notes.md): companion translator notes and rationale
+
+Current AN 8.6 surfaces:
+
+- [an8-6-dutiyalokadhamma-sutta.md](an8-6-dutiyalokadhamma-sutta.md): main shareable translation text
+- [an8-6-dutiyalokadhamma-sutta-notes.md](an8-6-dutiyalokadhamma-sutta-notes.md): companion translator notes and rationale
 
 Current AN 10.60 surfaces:
 

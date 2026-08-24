@@ -33,8 +33,8 @@ view extend?"
 
 ### Right View
 
-"Kaccāna, this world mostly relies on the duality of existence and non-
-existence. But for someone who truly sees the arising of the world with right
+"Kaccāna, this world mostly relies on two opposing views: that things exist and
+that they do not. But for someone who truly sees the arising of the world with right
 discernment, the view of non-existence regarding the world does not occur. And
 for someone who truly sees the cessation of the world with right discernment,
 the view of existence regarding the world does not occur.

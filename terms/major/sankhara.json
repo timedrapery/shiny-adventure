@@ -7,6 +7,7 @@
   "preferred_translation": "putting things together",
   "alternative_translations": [
     "what has been put together",
+    "what is put together",
     "conditioned thing",
     "construction",
     "fabrication",
@@ -24,6 +25,11 @@
       "context": "When the emphasis is on the result of construction",
       "rendering": "what has been put together",
       "notes": "Use for the compounded or constructed side of the term."
+    },
+    {
+      "context": "In running heap explanations where direct present-tense English describes the constructed result",
+      "rendering": "what is put together",
+      "notes": "A plain result-side surface used in MN 22 and SN 12.23; it does not displace the active default."
     },
     {
       "context": "When the emphasis is on the active constructive process",

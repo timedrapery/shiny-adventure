@@ -629,6 +629,17 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 </dl>
 </details>
 
+<details class="reader-source-status" markdown="1">
+<summary>Source and status</summary>
+
+- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn9/pli/ms)
+- **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn9-sammaditthi-sutta-notes.md)
+- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
+- **Last editorial review:** 2026-08-23 · body version `b8b5bd84`
+- [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%209) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
+
+</details>
+
 ---
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">

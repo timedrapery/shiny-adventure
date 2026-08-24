@@ -19,7 +19,7 @@
 | diṭṭhi | view | viewpoint, opinion, belief | wrong view, doctrine |
 | abhiññā | higher knowing | higher knowledge, direct knowledge | superpower, occult power, insight |
 | asmimāna | conceit 'I am' | the conceit 'I am', I-am conceit | ego, self-esteem, identity |
-| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel | attachment, desire |
+| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel, appropriation | attachment, desire |
 | vitakka | thinking | directed thought, applied attention | initial thought, applied thought |
 | papañca | proliferation | conceptual proliferation | imagination |
 | yathābhūta-ñāṇadassana | knowing and seeing things as they have come to be | knowing and seeing things as they are, clear knowing and seeing | objectivity |

@@ -7,7 +7,7 @@
 
 *MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,435 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,433 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -89,8 +89,8 @@ very knowing that roams and transmigrates, not another."
 
 "What knowing, Sāti?"
 
-"Bhante, he is the one who speaks and knows, who experiences the results of
-wholesome and unwholesome actions here and there."
+"Bhante, this same consciousness speaks and knows. It experiences the results
+of wholesome and unwholesome actions here and there."
 
 "Misguided man, who on earth have you ever known me to teach in that way?
 Misguided man, have I not said in many ways that knowing is dependently arisen?
@@ -859,6 +859,17 @@ The eighth discourse is finished.
 <dt><dfn>wrong view</dfn></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>
+</details>
+
+<details class="reader-source-status" markdown="1">
+<summary>Source and status</summary>
+
+- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn38/pli/ms)
+- **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
+- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
+- **Last editorial review:** 2026-08-24 · body version `04cb1af6`
+- [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
+
 </details>
 
 ---

@@ -12,7 +12,8 @@
     "nature",
     "law",
     "duty",
-    "fruit"
+    "fruit",
+    "ideas"
   ],
   "discouraged_translations": [
     "thing"
@@ -41,6 +42,11 @@
       "context": "When the term names a moral or mental characteristic",
       "rendering": "quality",
       "notes": "Use if phenomenon would sound too abstract or technical."
+    },
+    {
+      "context": "As objects of the thinking mind in the six-sense sequence, especially SN 35.28",
+      "rendering": "ideas",
+      "notes": "Reader-facing sense-object language; it does not redefine dhamma outside this narrow role."
     },
     {
       "context": "In Buddhadasa-line explanatory prose about natural law or lawful conditional process",

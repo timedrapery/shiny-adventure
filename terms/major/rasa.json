@@ -6,7 +6,8 @@
   "literal_meaning": "taste, flavor",
   "preferred_translation": "taste",
   "alternative_translations": [
-    "flavor"
+    "flavor",
+    "tastes"
   ],
   "discouraged_translations": [
     "essence"
@@ -24,6 +25,11 @@
       "context": "In lighter prose where the concrete gustatory quality is being emphasized",
       "rendering": "flavor",
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+    },
+    {
+      "context": "As plural tongue-sense objects in SN 35.28",
+      "rendering": "tastes",
+      "notes": "Ordinary plural English for the repeated burning sequence."
     }
   ],
   "related_terms": [

@@ -28,9 +28,10 @@ Verdicts:
   unfetched  the source could not be retrieved
   unsupported  the collection is not addressable by this script (see below)
 
-Dhp, Iti, Snp, Thag, and Thig are chunked by verse range in Bilara rather than
-by the numbers used in citations, so they are reported as unsupported rather
-than guessed at.
+The Khuddaka collections use several directory shapes. Dhp is bundled by verse
+range; Iti, Snp, and Ud sit in vagga directories; Thag and Thig use direct text
+files. The resolver handles each layout. Only a bare `KN` citation remains
+unsupported because it does not identify a collection.
 
 Two caveats before acting on a report:
 
@@ -65,7 +66,7 @@ BILARA_ROOT = (
     "sc_bilara_data/root/pli/ms/sutta"
 )
 CITE_RE = re.compile(r"^(MN|DN|SN|AN|KN|Ud|Iti|Snp|Dhp|Thag|Thig)\s+(\d+)(?:\.(\d+))?$")
-UNSUPPORTED = {"Dhp", "Iti", "Snp", "Thag", "Thig", "KN", "Ud"}
+UNSUPPORTED = {"KN"}
 ELLIPSIS = re.compile(r"\.{2,}|…+|\bpe\b")
 
 
@@ -75,14 +76,27 @@ def source_url(citation: str) -> str | None:
     if not match:
         return None
     collection, major, minor = match.group(1), match.group(2), match.group(3)
-    if collection in UNSUPPORTED:
+    if collection in UNSUPPORTED or collection == "Dhp":
         return None
     low = collection.lower()
     if collection in {"MN", "DN"}:
         return f"{BILARA_ROOT}/{low}/{low}{major}_root-pli-ms.json"
     if collection in {"SN", "AN"} and minor:
         return f"{BILARA_ROOT}/{low}/{low}{major}/{low}{major}.{minor}_root-pli-ms.json"
+    if collection in {"Snp", "Ud"} and minor:
+        return f"{BILARA_ROOT}/kn/{low}/vagga{major}/{low}{major}.{minor}_root-pli-ms.json"
+    if collection in {"Thag", "Thig"} and minor:
+        return f"{BILARA_ROOT}/kn/{low}/{low}{major}.{minor}_root-pli-ms.json"
+    if collection == "Iti" and minor is None:
+        vagga = (int(major) - 1) // 10 + 1
+        return f"{BILARA_ROOT}/kn/iti/vagga{vagga}/iti{major}_root-pli-ms.json"
     return None
+
+
+def citation_supported(citation: str) -> bool:
+    """Whether a citation identifies a collection this resolver understands."""
+    match = CITE_RE.match(citation.strip())
+    return bool(match and match.group(1) not in UNSUPPORTED)
 
 
 DIACRITICS = str.maketrans({
@@ -122,6 +136,7 @@ GITHUB_CONTENTS_API = (
     "sc_bilara_data/root/pli/ms/sutta"
 )
 RANGE_FILE_RE = re.compile(r"^([a-z]+\d+)\.(\d+)-(\d+)_root-pli-ms\.json$")
+DHP_RANGE_FILE_RE = re.compile(r"^dhp(\d+)-(\d+)_root-pli-ms\.json$")
 
 
 def range_candidates(citation: str) -> tuple[str, int] | None:
@@ -167,6 +182,40 @@ def list_directory(stem: str, cache_dir: Path, timeout: int = 60) -> list[str]:
     return names
 
 
+def list_directory_path(directory: str, cache_dir: Path, timeout: int = 60) -> list[str]:
+    """List a nested Bilara directory such as `kn/dhp`, with disk caching."""
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cache_key = directory.replace("/", "_")
+    cached = cache_dir / f"_listing_{cache_key}.json"
+    if cached.exists():
+        try:
+            return json.loads(cached.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            pass
+    request = urllib.request.Request(
+        f"{GITHUB_CONTENTS_API}/{directory}",
+        headers={"User-Agent": "shiny-adventure"},
+    )
+    try:
+        with urllib.request.urlopen(request, timeout=timeout) as response:
+            payload = json.loads(response.read().decode("utf-8"))
+    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError,
+            json.JSONDecodeError):
+        return []
+    names = [str(entry.get("name", "")) for entry in payload]
+    cached.write_text(json.dumps(names, ensure_ascii=False), encoding="utf-8")
+    return names
+
+
+def find_dhp_range_file(names: list[str], verse: int) -> str | None:
+    """The Dhammapada bundle containing a verse number."""
+    for name in names:
+        match = DHP_RANGE_FILE_RE.match(name)
+        if match and int(match.group(1)) <= verse <= int(match.group(2)):
+            return name
+    return None
+
+
 def find_range_file(names: list[str], stem: str, number: int) -> str | None:
     """The bundled filename whose range covers `number`, if any.
 
@@ -190,11 +239,17 @@ def resolve_source(citation: str, cache_dir: Path) -> str | None:
     Returns the body, or None when the text cannot be reached at all.
     """
     url = source_url(citation)
-    if url is None:
-        return None
-    body = fetch(url, cache_dir)
-    if body is not None:
-        return body
+    if url is not None:
+        body = fetch(url, cache_dir)
+        if body is not None:
+            return body
+
+    match = CITE_RE.match(citation.strip())
+    if match and match.group(1) == "Dhp":
+        name = find_dhp_range_file(
+            list_directory_path("kn/dhp", cache_dir), int(match.group(2))
+        )
+        return fetch(f"{BILARA_ROOT}/kn/dhp/{name}", cache_dir) if name else None
 
     split = range_candidates(citation)
     if split is None:
@@ -317,8 +372,7 @@ def build_report(
 
     for row in rows:
         citation = str(row["source"])
-        url = source_url(citation)
-        if url is None:
+        if not citation_supported(citation):
             row["verdict"] = "unsupported"
             findings.append(row)
             continue

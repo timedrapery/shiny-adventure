@@ -222,6 +222,19 @@ def sutta_page_failures(
                 f"{label}: `details.reader-terms` needs a non-empty summary"
             )
 
+    source_match = _opening_tag_with_classes(text, "details", "reader-source-status")
+    if source_match is None:
+        failures.append(f"{label}: missing `details.reader-source-status` provenance")
+    else:
+        source_tail = text[source_match.end():]
+        source_close = re.search(r"</details\s*>", source_tail, re.IGNORECASE)
+        source_body = source_tail[:source_close.start()] if source_close else source_tail
+        if source_close is None:
+            failures.append(f"{label}: `details.reader-source-status` is not closed")
+        for required in ("Source and status", "suttacentral.net/", "Provisional", "Report a problem"):
+            if required.casefold() not in source_body.casefold():
+                failures.append(f"{label}: source/status panel is missing {required!r}")
+
     if not _nav_has_reading_order_label(text):
         failures.append(
             f'{label}: missing `nav.reading-order` with aria-label="Reading order"'
@@ -269,6 +282,25 @@ def markdown_table_failures(text: str, label: str) -> list[str]:
     if MARKDOWN_TABLE_DIVIDER_RE.search(text):
         return [f"{label}: Markdown tables are not allowed in this reader index"]
     return []
+
+
+def discovery_page_failures(text: str, label: str) -> list[str]:
+    """Check that corpus filters are progressively enhanced and labelled."""
+    failures = markdown_table_failures(text, label)
+    if _opening_tag_with_classes(text, "form", "sutta-filters") is None:
+        failures.append(f"{label}: missing form.sutta-filters")
+    for control in ("sutta-query", "sutta-topic", "sutta-difficulty", "sutta-form", "sutta-length"):
+        if re.search(rf"<label\b[^>]*for=[\"']{control}[\"']", text, re.IGNORECASE) is None:
+            failures.append(f"{label}: missing visible label for {control}")
+        if re.search(rf"<(?:input|select)\b[^>]*id=[\"']{control}[\"']", text, re.IGNORECASE) is None:
+            failures.append(f"{label}: missing filter control {control}")
+    if re.search(r"role=[\"']status[\"'][^>]*aria-live=[\"']polite[\"']", text, re.IGNORECASE) is None:
+        failures.append(f"{label}: filter result count needs a polite live status")
+    if _opening_tag_with_classes(text, "div", "sutta-grid") is None:
+        failures.append(f"{label}: missing complete no-script sutta grid")
+    if "<noscript>" not in text.casefold():
+        failures.append(f"{label}: missing no-script filter explanation")
+    return failures
 
 
 def accessibility_asset_failures(
@@ -384,6 +416,13 @@ def collect_failures(
             failures.append(f"{relative}: missing from planned reader output")
             continue
         failures.extend(markdown_table_failures(text, relative))
+
+    discovery_path = repo_root / "reader-src" / "find-a-sutta.md"
+    discovery = planned.get(discovery_path)
+    if discovery is None:
+        failures.append(f"{_relative(discovery_path, repo_root)}: missing from planned reader output")
+    else:
+        failures.extend(discovery_page_failures(discovery, _relative(discovery_path, repo_root)))
 
     return failures
 

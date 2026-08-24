@@ -6,6 +6,9 @@ Every term here is governed: the project fixes one English rendering for each Pa
 
 Each sutta also has a visible words-used panel. Some browsers show the same definitions on marked terms, but the panel works without hovering.
 
+
+## A
+
 <dl class="glossary-list">
 <dt><dfn>ageing and dying</dfn> <span class="glossary-pali" lang="pi">(jarāmaraṇa)</span></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
@@ -23,6 +26,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
 <dt><dfn>awakening factor</dfn> <span class="glossary-pali" lang="pi">(bojjhaṅga)</span></dt>
 <dd>One of seven qualities developed and kept in balance on the way to waking up.</dd>
+</dl>
+
+## B
+
+<dl class="glossary-list">
 <dt><dfn>bhante</dfn> <span class="glossary-pali" lang="pi">(bhante)</span></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn> <span class="glossary-pali" lang="pi">(bhikkhu)</span></dt>
@@ -39,6 +47,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn> <span class="glossary-pali" lang="pi">(brāhmaṇa)</span></dt>
 <dd>A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair &quot;ascetics and brahmins,&quot; which means religious teachers and practitioners in general rather than one caste.</dd>
+</dl>
+
+## C
+
+<dl class="glossary-list">
 <dt><dfn>calming</dfn> <span class="glossary-pali" lang="pi">(upasama)</span></dt>
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>cessation</dfn></dt>
@@ -55,6 +68,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A practical reassurance that holds up regardless of how a contested question (like what happens after death) actually turns out -- not an argument that settles the question.</dd>
 <dt><dfn>contact</dfn> <span class="glossary-pali" lang="pi">(phassa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
+</dl>
+
+## D
+
+<dl class="glossary-list">
 <dt><dfn>delusion</dfn> <span class="glossary-pali" lang="pi">(moha)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>dependent arising</dfn> <span class="glossary-pali" lang="pi">(paṭiccasamuppāda)</span></dt>
@@ -71,8 +89,18 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
 <dt><dfn>dynamic balance</dfn> <span class="glossary-pali" lang="pi">(upekkhā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
+</dl>
+
+## E
+
+<dl class="glossary-list">
 <dt><dfn>escape</dfn> <span class="glossary-pali" lang="pi">(nissaraṇa)</span></dt>
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
+</dl>
+
+## F
+
+<dl class="glossary-list">
 <dt><dfn>fading</dfn> <span class="glossary-pali" lang="pi">(virāga)</span></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn> <span class="glossary-pali" lang="pi">(vedanā)</span></dt>
@@ -83,22 +111,42 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>friendliness</dfn> <span class="glossary-pali" lang="pi">(mettā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
+</dl>
+
+## G
+
+<dl class="glossary-list">
 <dt><dfn>gladness</dfn> <span class="glossary-pali" lang="pi">(muditā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn> <span class="glossary-pali" lang="pi">(pabbajjā)</span></dt>
 <dd>Leaving household life to live as a monastic.</dd>
 <dt><dfn>greed</dfn> <span class="glossary-pali" lang="pi">(lobha)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
+</dl>
+
+## H
+
+<dl class="glossary-list">
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
 <dt><dfn>heart</dfn> <span class="glossary-pali" lang="pi">(citta)</span></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn> <span class="glossary-pali" lang="pi">(abhiññā)</span></dt>
 <dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
+</dl>
+
+## I
+
+<dl class="glossary-list">
 <dt><dfn>ignorance</dfn> <span class="glossary-pali" lang="pi">(avijjā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn> <span class="glossary-pali" lang="pi">(taṇhā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+</dl>
+
+## K
+
+<dl class="glossary-list">
 <dt><dfn>kamma</dfn></dt>
 <dd>Intentional action, and the way it shapes what follows. Better known by its Sanskrit form &quot;karma,&quot; and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.</dd>
 <dt><dfn>kindness towards others</dfn> <span class="glossary-pali" lang="pi">(karuṇā)</span></dt>
@@ -107,10 +155,20 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn> <span class="glossary-pali" lang="pi">(ñāṇadassana)</span></dt>
 <dd>Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.</dd>
+</dl>
+
+## M
+
+<dl class="glossary-list">
 <dt><dfn>mental theme</dfn> <span class="glossary-pali" lang="pi">(jhāna)</span></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>mixed feeling</dfn> <span class="glossary-pali" lang="pi">(adukkhamasukhavedanā)</span></dt>
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+</dl>
+
+## N
+
+<dl class="glossary-list">
 <dt><dfn>name-and-form</dfn> <span class="glossary-pali" lang="pi">(nāmarūpa)</span></dt>
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
 <dt><dfn>nibbāna</dfn> <span class="glossary-pali" lang="pi">(nibbāna)</span></dt>
@@ -123,6 +181,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+</dl>
+
+## O
+
+<dl class="glossary-list">
 <dt><dfn>One Fine Night</dfn> <span class="glossary-pali" lang="pi">(bhaddekaratta)</span></dt>
 <dd>The title&#x27;s image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.</dd>
 <dt><dfn>ordinary person</dfn> <span class="glossary-pali" lang="pi">(puthujjana)</span></dt>
@@ -131,14 +194,29 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
+</dl>
+
+## P
+
+<dl class="glossary-list">
 <dt><dfn>path of practice</dfn> <span class="glossary-pali" lang="pi">(paṭipadā)</span></dt>
 <dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>putting things together</dfn> <span class="glossary-pali" lang="pi">(saṅkhārā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
 <dt><dfn>putting-together activities</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhārā&quot; (often translated &quot;mental formations&quot;) -- the mind&#x27;s constructing and assembling activity, one of the five heaps.</dd>
+</dl>
+
+## Q
+
+<dl class="glossary-list">
 <dt><dfn>quenching</dfn> <span class="glossary-pali" lang="pi">(nirodha)</span></dt>
 <dd>The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site&#x27;s other pages sometimes render the same Pali word (&quot;nirodha&quot;) as &quot;cessation&quot; instead -- same concept, different sentence.</dd>
+</dl>
+
+## R
+
+<dl class="glossary-list">
 <dt><dfn>recognition</dfn> <span class="glossary-pali" lang="pi">(saññā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>resistance</dfn> <span class="glossary-pali" lang="pi">(paṭigha)</span></dt>
@@ -159,6 +237,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
 <dt><dfn>right view</dfn> <span class="glossary-pali" lang="pi">(sammā-diṭṭhi)</span></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
+</dl>
+
+## S
+
+<dl class="glossary-list">
 <dt><dfn>sensual distraction</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>six fields of experience</dfn> <span class="glossary-pali" lang="pi">(saḷāyatana)</span></dt>
@@ -173,6 +256,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A deep meditative state in which awareness rests on there being nothing at all to take up.</dd>
 <dt><dfn>spiritual life</dfn> <span class="glossary-pali" lang="pi">(brahmacariya)</span></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+</dl>
+
+## T
+
+<dl class="glossary-list">
 <dt><dfn>taking personally</dfn> <span class="glossary-pali" lang="pi">(upādāna)</span></dt>
 <dd>This project&#x27;s rendering of &quot;upādāna&quot; -- treating some piece of experience as &quot;me&quot; or &quot;mine&quot; and holding on to it. Usually translated &quot;clinging&quot; or &quot;attachment.&quot;</dd>
 <dt><dfn>Tathāgata</dfn> <span class="glossary-pali" lang="pi">(tathāgata)</span></dt>
@@ -183,6 +271,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.</dd>
 <dt><dfn>those with discernment</dfn> <span class="glossary-pali" lang="pi">(viññū)</span></dt>
 <dd>People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.</dd>
+</dl>
+
+## U
+
+<dl class="glossary-list">
 <dt><dfn>uncertain distraction</dfn> <span class="glossary-pali" lang="pi">(vicikicchā)</span></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
 <dt><dfn>undeclared</dfn> <span class="glossary-pali" lang="pi">(avyākata)</span></dt>
@@ -191,6 +284,11 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
 <dt><dfn>unwholesome</dfn> <span class="glossary-pali" lang="pi">(akusala)</span></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+</dl>
+
+## W
+
+<dl class="glossary-list">
 <dt><dfn>wearing away</dfn> <span class="glossary-pali" lang="pi">(khaya)</span></dt>
 <dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
 <dt><dfn>wholesome</dfn> <span class="glossary-pali" lang="pi">(kusala)</span></dt>

@@ -51,6 +51,24 @@ jobs:
       # site should fail here rather than at deploy time.
       - name: Build the reader's edition
         run: mkdocs build --strict
+      - uses: pnpm/action-setup@v4
+        if: matrix.python-version == '3.12'
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        if: matrix.python-version == '3.12'
+        with:
+          node-version: "22"
+          cache: pnpm
+      - name: Install rendered-accessibility dependencies
+        if: matrix.python-version == '3.12'
+        run: pnpm install --frozen-lockfile
+      - name: Install Chromium
+        if: matrix.python-version == '3.12'
+        run: pnpm exec playwright install --with-deps chromium
+      - name: Check the rendered reader
+        if: matrix.python-version == '3.12'
+        run: pnpm test:a11y
       - name: Export repo health JSON
         run: python scripts/repo_health.py --format json > repo-health.json
       - name: Upload repo health artifact

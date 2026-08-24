@@ -8,6 +8,21 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added plain contemporary English translations, companion source notes,
+  reader introductions, and generated reader pages for SN 45.2, AN 8.6, and
+  MN 119.
+- Added a newcomer-review protocol and machine-checked seven-sutta cohort
+  ledger. Source-fidelity evidence is recorded separately from the still-
+  pending human read-aloud and newcomer-comprehension gates.
+- Added a progressively enhanced "Find a sutta" page with topic, form,
+  reading-stage, difficulty, and length filters, plus reading times throughout
+  the discovery lists.
+- Added visible source, license, provisional-status, review-date, and content-
+  hash disclosures to every sutta page.
+- Added Playwright and axe rendered-accessibility checks, narrow-screen and
+  keyboard regressions, EPUB structure validation, and Khuddaka Nikāya source
+  resolution for Dhammapada, Itivuttaka, Sutta Nipāta, Theragāthā,
+  Therīgāthā, and Udāna citations.
 - Added a governed, plain contemporary English translation of SN 22.86,
   Anurādha Sutta, with companion source notes, a controlled rendering of the
   Tathāgata and five-heaps questions, a hand-written newcomer introduction,
@@ -48,7 +63,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 46 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 51 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

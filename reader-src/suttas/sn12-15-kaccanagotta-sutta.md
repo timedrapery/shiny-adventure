@@ -7,7 +7,7 @@
 
 *SN 12.15, the Kaccānagotta Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 428 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 432 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -35,8 +35,8 @@ view extend?"
 
 ### Right View
 
-"Kaccāna, this world mostly relies on the duality of existence and non-
-existence. But for someone who truly sees the arising of the world with right
+"Kaccāna, this world mostly relies on two opposing views: that things exist and
+that they do not. But for someone who truly sees the arising of the world with right
 discernment, the view of non-existence regarding the world does not occur. And
 for someone who truly sees the cessation of the world with right discernment,
 the view of existence regarding the world does not occur.
@@ -129,6 +129,17 @@ The fifth discourse is finished.
 <dt><dfn>world</dfn></dt>
 <dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
 </dl>
+</details>
+
+<details class="reader-source-status" markdown="1">
+<summary>Source and status</summary>
+
+- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.15/pli/ms)
+- **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-15-kaccanagotta-sutta-notes.md)
+- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
+- **Last editorial review:** 2026-08-24 · body version `f4edd91b`
+- [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.15) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
+
 </details>
 
 ---

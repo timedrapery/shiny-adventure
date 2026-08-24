@@ -28,6 +28,9 @@ theme:
 extra_css:
   - stylesheets/reader.css
 
+extra_javascript:
+  - javascripts/reader-filters.js
+
 markdown_extensions:
   - abbr
   - attr_list
@@ -54,16 +57,19 @@ watch:
 nav:
   - Home: index.md
   - Start Here: start-here.md
+  - Find a sutta: find-a-sutta.md
   - All Suttas: suttas/index.md
   - Read in order:
   # BEGIN GENERATED SUTTA NAV
       - Set 1. Before Any Doctrine:
           - "How to Test a Teaching": suttas/an3-65-kesamutta-sutta.md
+          - "Good Friendship Is the Whole Path": suttas/sn45-2-upaddha-sutta.md
           - "The Man Struck by a Poisoned Arrow": suttas/mn63-culamalukya-sutta.md
           - "The Two Searches": suttas/mn26-pasarasi-sutta.md
       - Set 2. The Basic Diagnosis and the Path:
           - "The First Teaching": suttas/sn56-11-dhammacakkappavattana-sutta.md
           - "One Arrow, Not Two": suttas/sn36-6-salla-sutta.md
+          - "When Life Goes Up and Down": suttas/an8-6-dutiyalokadhamma-sutta.md
           - "The Dirty Cloth": suttas/mn7-vattha-sutta.md
           - "Four Horses": suttas/an4-113-patoda-sutta.md
           - "Four Steps That Lead to the Path": suttas/sn55-5-dutiyasariputta-sutta.md
@@ -74,6 +80,7 @@ nav:
           - "Seven Ways to Handle What Erodes the Mind": suttas/mn2-sabbasava-sutta.md
           - "Remembering the Dhamma While Breathing In and Out": suttas/mn118-anapanasati-sutta.md
           - "The Four Foundations of Remembering": suttas/mn10-satipatthana-sutta.md
+          - "Remembering Directed to the Body": suttas/mn119-kayagatasati-sutta.md
           - "What Does a Renunciant Gain?": suttas/dn2-samannaphala-sutta.md
           - "Ten Perceptions for a Sick Monk": suttas/an10-60-giriminanda-sutta.md
           - "What Makes a Genuine Renunciant?": suttas/mn39-maha-assapura-sutta.md

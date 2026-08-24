@@ -1,0 +1,88 @@
+{
+  "protocol_version": "newcomer-comprehension-v1",
+  "threshold": {
+    "participants_required": 5,
+    "independent_passes_required": 4
+  },
+  "cohort": [
+    "an3_65",
+    "sn56_11",
+    "sn36_6",
+    "mn63",
+    "sn22_59",
+    "mn131",
+    "sn22_86"
+  ],
+  "surfaces": {
+    "an3_65": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/an3-65-kesamutta-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn56_11": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn36_6": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/sn36-6-salla-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "mn63": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/mn63-culamalukya-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn22_59": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/sn22-59-anattalakkhana-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "mn131": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/mn131-bhaddekaratta-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn22_86": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/sn22-86-anuradha-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    }
+  }
+}

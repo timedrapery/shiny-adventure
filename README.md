@@ -7,7 +7,7 @@ Structured Pali-to-English translation infrastructure for early Buddhist transla
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 **[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
-48 early Buddhist discourses in clear, common English, with newcomer guidance,
+51 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
 New here:
@@ -86,6 +86,7 @@ Those files are review material. They do not become governed lexicon content unt
 ### Prerequisites
 
 - Python 3.11 or 3.12
+- Node.js 22 and pnpm 10 for rendered browser checks
 
 ### Setup
 
@@ -107,6 +108,15 @@ python scripts/run_checks.py
 ```
 
 That command runs regression tests, schema validation, editorial lint, drift checks, coverage audit, and repository health reporting.
+
+Build and exercise the rendered reader after installing the browser dependency:
+
+```bash
+mkdocs build --strict
+pnpm install --frozen-lockfile
+pnpm exec playwright install chromium
+pnpm test:a11y
+```
 
 ## Common Workflows
 
@@ -192,7 +202,7 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
-The repository has 48 registered translation surfaces and a plain-English
+The repository has 51 registered translation surfaces and a plain-English
 standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).

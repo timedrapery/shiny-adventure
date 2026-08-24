@@ -324,6 +324,19 @@ class RepoHealthTests(unittest.TestCase):
 
         self.assertEqual(report["slug_headword_mismatches"], [])
 
+    def test_build_report_allows_inflected_formula_slug_stems(self) -> None:
+        terms = {
+            "panca-brahmana-dhamma": {
+                "term": "pañcahi dhammehi samannāgato brāhmaṇo",
+                "normalized_term": "panca-brahmana-dhamma",
+                "entry_type": "minor",
+                "part_of_speech": "phrase",
+                "status": "reviewed",
+            }
+        }
+        report = repo_health.build_report(terms)
+        self.assertEqual(report["slug_headword_mismatches"], [])
+
     def test_declaration_regex_reads_both_house_shapes(self) -> None:
         matches = repo_health.RENDERING_DECLARATION.findall(
             "`pīti` is rendered `rejoicing`, and `sukha` → `satisfaction`."
@@ -374,6 +387,21 @@ class RepoHealthTests(unittest.TestCase):
                 }
             ],
         )
+
+    def test_does_not_call_noun_and_verb_a_self_contradiction(self) -> None:
+        terms = {
+            "nibbida": {
+                "term": "nibbidā",
+                "normalized_term": "nibbida",
+                "entry_type": "major",
+                "preferred_translation": "disenchantment",
+                "alternative_translations": ["grows disenchanted"],
+                "status": "reviewed",
+            }
+        }
+        declarations = {"a.md": [("nibbidā", "disenchantment"), ("nibbindati", "grows disenchanted")]}
+        report = repo_health.build_report(terms, declarations)
+        self.assertFalse(any(item["kind"] == "self_contradiction" for item in report["governed_rendering_drift"]))
 
     def test_flags_a_declared_rendering_the_record_discourages(self) -> None:
         terms = {

@@ -7,6 +7,7 @@
   "preferred_translation": "establishment of sati",
   "alternative_translations": [
     "establishing sati",
+    "establishments of sati",
     "introversion of attention",
     "systematic introspection"
   ],
@@ -21,6 +22,11 @@
       "context": "In most doctrinal and practice contexts",
       "rendering": "establishment of sati",
       "notes": "Use this by default."
+    },
+    {
+      "context": "Where the Pali is plural, including MN 44 and the standard fourfold framework",
+      "rendering": "establishments of sati",
+      "notes": "The ordinary grammatical plural of the governed default."
     },
     {
       "context": "In prose emphasizing the active practice of bringing sati into place",

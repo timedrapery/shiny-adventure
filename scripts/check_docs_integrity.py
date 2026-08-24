@@ -38,13 +38,20 @@ DOCS_FILENAME_ALLOWLIST = {
     "translation_drift_audit.md",
     "translation_drift_resolution.md",
 }
+IGNORED_MARKDOWN_DIRECTORIES = {
+    ".git",
+    ".venv",
+    "__pycache__",
+    "node_modules",
+    "site",
+}
 
 
 def iter_markdown_files(repo_root: Path = REPO_ROOT) -> list[Path]:
     return sorted(
         path
         for path in repo_root.rglob("*.md")
-        if ".git" not in path.parts and "__pycache__" not in path.parts
+        if not IGNORED_MARKDOWN_DIRECTORIES.intersection(path.relative_to(repo_root).parts)
     )
 
 

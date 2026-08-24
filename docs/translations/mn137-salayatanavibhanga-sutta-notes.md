@@ -105,8 +105,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   the eight-direction sequence into audible movements. It preserved the sixfold
   analysis, household / renunciation contrasts, staged replacement formula,
   three teacher responses, and intentional repetition.
-- Governed wording left unchanged: `a noble one cultivates` remains in the
-  three-establishments formula pending any policy-level revision; the
+- Governed wording revised across the phrase record and all five occurrences:
+  `a noble person cultivates` keeps the person-label force while removing the
+  easily misread generic `one`; the
   source-facing `has not conquered the bounds or the results` line also remains
   unchanged.
 - Automated governance review: complete; the full repository verification

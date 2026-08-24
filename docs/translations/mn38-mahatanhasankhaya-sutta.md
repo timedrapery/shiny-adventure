@@ -92,8 +92,8 @@ very knowing that roams and transmigrates, not another."
 
 "What knowing, Sāti?"
 
-"Bhante, he is the one who speaks and knows, who experiences the results of
-wholesome and unwholesome actions here and there."
+"Bhante, this same consciousness speaks and knows. It experiences the results
+of wholesome and unwholesome actions here and there."
 
 "Misguided man, who on earth have you ever known me to teach in that way?
 Misguided man, have I not said in many ways that knowing is dependently arisen?

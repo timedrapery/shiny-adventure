@@ -140,6 +140,9 @@ choices, source-audit calls, and edition notes that govern it.
 - Review result: Kaccānagotta's question and the two-extremes contrast remain
   the audible spine; the middle-way and dependent-arising control language is
   preserved rather than paraphrased away.
+- Plain-English follow-up: the opening now names the two opposing views as
+  `that things exist` and `that they do not`, preserving atthitā/natthitā
+  while removing the abstract `duality of existence` phrase.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.

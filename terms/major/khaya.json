@@ -7,7 +7,8 @@
   "preferred_translation": "wearing away",
   "alternative_translations": [
     "exhaustion",
-    "ending"
+    "ending",
+    "destruction"
   ],
   "discouraged_translations": [
     "cessation",
@@ -32,6 +33,11 @@
       "context": "In concise explanatory prose where a simpler phrase is needed",
       "rendering": "ending",
       "notes": "Allowed only when the line is plainly explanatory and no confusion with nirodha will result."
+    },
+    {
+      "context": "In SN 12.23's phrase naming knowledge of the destruction of the outflows",
+      "rendering": "destruction",
+      "notes": "A controlled local result noun; do not generalize it over the default wearing-away image."
     },
     {
       "context": "In compounds such as āsavakkhaya or rāgakkhaya",

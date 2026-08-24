@@ -1,6 +1,8 @@
 __pycache__/
 *.pyc
 .venv/
+node_modules/
+.pnpm-store/
 
 # Python build artefacts
 *.egg-info/
@@ -13,6 +15,9 @@ build/
 .pytest_cache/
 .coverage
 htmlcov/
+playwright-report/
+test-results/
+.playwright-browsers/
 
 # Editor and IDE files
 .vscode/

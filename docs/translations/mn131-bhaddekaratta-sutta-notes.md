@@ -121,13 +121,12 @@ translation choices, source-audit calls, and edition notes that govern it.
   pairs preserve parallel question-and-answer shapes. The fivefold and
   twentyfold expansions were read as repeated units rather than compressed
   into technical summaries.
-- Automated governance review: pending the full repository verification
-  suite.
+- Automated governance review: complete; the full repository suite passed on
+  2026-08-24.
 - Source-fidelity review: complete against the segmented Pali root on
   2026-08-24.
-- Human read-aloud usability review: complete on 2026-08-24; the verse and all
-  repeated prose units can be spoken at ordinary reading speed without a
-  syntactic restart.
+- Human read-aloud usability review: pending under the newcomer review
+  protocol.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the newcomer review is recorded.
