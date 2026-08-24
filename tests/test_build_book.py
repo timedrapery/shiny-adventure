@@ -72,7 +72,13 @@ The governed body stays.
         self.assertNotIn('class="reader-terms"', manuscript)
         self.assertNotIn('class="reading-order"', manuscript)
         self.assertNotIn("Skip to the translation", manuscript)
+        self.assertNotIn("](glossary.md)", manuscript)
+        self.assertIn("](#glossary)", manuscript)
         self.assertNotRegex(manuscript, r"^\*\[[^\]]+\]:", msg=manuscript[:500])
+
+    def test_glossary_page_link_becomes_an_epub_heading_link(self) -> None:
+        cleaned = book.strip_web_furniture("See the [glossary](glossary.md).")
+        self.assertEqual(cleaned, "See the [glossary](#glossary).")
 
 
 if __name__ == "__main__":
