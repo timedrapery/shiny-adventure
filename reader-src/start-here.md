@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 47 translations in this collection, for someone new to this material.
+A suggested order for reading the 48 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -46,6 +46,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**What Is Fit to Call Self?**](suttas/sn22-59-anattalakkhana-sutta.md) (SN 22.59, Anattalakkhaṇa Sutta) — The second sermon. Not-self laid out as a clean, followable argument rather than an assertion.
 - [**The Snake and the Raft**](suttas/mn22-alagaddupama-sutta.md) (MN 22, Alagaddūpama Sutta) — The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
 - [**The Five Heaps**](suttas/sn22-48-khandha-sutta.md) (SN 22.48, Khandha Sutta) — What the five heaps actually are, stated directly.
+- [**Can You Pin Down the Tathāgata?**](suttas/sn22-86-anuradha-sutta.md) (SN 22.86, Anurādha Sutta) — Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether the Tathāgata can be pinned down through the five heaps even here and now.
 - [**The Lingering Sense of 'I Am'**](suttas/sn22-89-khemaka-sutta.md) (SN 22.89, Khemaka Sutta) — A subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of "I am."
 - [**Don't Chase the Past or Long for the Future**](suttas/mn131-bhaddekaratta-sutta.md) (MN 131, Bhaddekaratta Sutta) — Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment. The explanation asks whether you are turning any part of present experience into self.
 - [**Not-Self at the Six Sense Doors**](suttas/mn148-chachakka-sutta.md) (MN 148, Chachakka Sutta) — A systematic, almost mechanical working-through of not-self across every sense door. Dense, but by this point the pattern should be familiar.

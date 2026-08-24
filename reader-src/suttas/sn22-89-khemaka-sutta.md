@@ -412,7 +412,7 @@ through not taking anything personally.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Five Heaps](sn22-48-khandha-sutta.md)
+- [← Can You Pin Down the Tathāgata?](sn22-86-anuradha-sutta.md)
 - [All suttas](index.md)
 - [Don't Chase the Past or Long for the Future →](mn131-bhaddekaratta-sutta.md)
 

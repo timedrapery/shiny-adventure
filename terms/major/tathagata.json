@@ -14,7 +14,7 @@
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "Tathāgata (an epithet of the Buddha)",
   "definition": "A title used for the Buddha, often carrying doctrinal weight that should not be flattened into a casual English equivalent.",
-  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed. The title often carries special doctrinal weight in statements about the Buddha, so the project avoids forcing a supposedly definitive English solution. The OSF glossary likewise keeps Tathāgata untranslated as a technical title, which supports the present handling.",
+  "notes": "The project leaves Tathāgata untranslated because attempts to fully render it in English are unstable and usually distract from the doctrinal use of the title. A short gloss is acceptable on first occurrence when needed. The title often carries special doctrinal weight in statements about the Buddha, so the project avoids forcing a supposedly definitive English solution. The OSF glossary likewise keeps Tathāgata untranslated as a technical title, which supports the present handling. SN 22.86 is a decisive control passage: it tests whether the Tathāgata can be identified with, in, apart from, as the total of, or outside the five heaps before refusing to establish any of the four claims about what happens after death.",
   "context_rules": [
     {
       "context": "In most source-facing and doctrinal contexts",
@@ -39,6 +39,7 @@
     "bodhi",
     "buddha",
     "dasa-avyakatavatthuni",
+    "saccato-thetato",
     "sugata"
   ],
   "example_phrases": [
@@ -59,11 +60,18 @@
       "translation": "the Tathāgata exists after death",
       "notes": "One of the undeclared positions, shown as a view that does not apply.",
       "source": "DN 15"
+    },
+    {
+      "pali": "rūpaṁ tathāgatoti samanupassasi",
+      "translation": "do you regard form as the Tathāgata?",
+      "notes": "SN 22.86 tests whether the Tathāgata can be identified with any member of the five-heaps sequence before addressing claims about what happens after death.",
+      "source": "SN 22.86"
     }
   ],
   "sutta_references": [
     "DN 15",
-    "MN 72"
+    "MN 72",
+    "SN 22.86"
   ],
   "tags": [
     "core-doctrine",
@@ -77,6 +85,12 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current Tathāgata policy."
+    },
+    {
+      "source": "SN 22.86",
+      "priority": "secondary",
+      "kind": "context-rule",
+      "scope": "Supports preserving Tathāgata as the technical title in the five-heaps identification questions and the four post-death positions."
     }
   ],
   "translation_policy": {

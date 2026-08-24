@@ -15,13 +15,14 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking was made when the repository had 36 translation surfaces; it now has 41, and the historical figure is kept because the ranking below was computed against that state. All fifteen
-entries in the original ranked roadmap are complete, along with eleven
-additional surfaces (AN 4.113, AN 11.9, SN 12.23, SN 35.28, MN 38, MN 26,
-MN 22, SN 12.15, AN 3.65, MN 63, and the pre-existing surfaces). Wave 5 is now
-complete. The next gains come from doctrinal families that are now
-well-governed in the lexicon but thin in outward-facing translation
-documents.
+This ranking was made when the repository had 36 translation surfaces; it now
+has 48, and the historical figure is kept because the ranking below was
+computed against that state. All fifteen entries in the original ranked
+roadmap are complete. Later waves and direct-request surfaces, including MN
+131 and SN 22.86, are tracked in
+[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md). The
+next gains come from doctrinal families that are now well-governed in the
+lexicon but thin in outward-facing translation documents.
 
 Wave 6 was audited on 2026-08-19 against this same 36-surface state. Its
 ranking applies the four factors below but corrects for a flaw they have on

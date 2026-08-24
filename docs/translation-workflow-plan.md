@@ -52,17 +52,20 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-08-24
 
-- 47 governed translation surfaces and 47 generated reader pages. SN 48.10
+- 48 governed translation surfaces and 48 generated reader pages. SN 48.10
   completed the first translation item from the verified Wave 8 queue, and
-  MN 131 was added by direct request outside the wave sequence.
+  MN 131 and SN 22.86 were added by direct request outside the wave sequence.
 - MN 131 is the control surface for the Bhaddekaratta verse and for its
   explanation through relishing past and future versions of the fivefold
   experiential field and identifying present experience as self.
-- 1,154 term records, including a reusable `bhaddekaratta` record that governs
-  the title and refrain across MN 131 through MN 134.
-- MN 131 reports no automated plain-English register signals. It is published
-  as provisional after source-fidelity and read-aloud review; newcomer
-  comprehension review remains the final validation gate.
+- SN 22.86 is the control surface for trying to identify the Tathāgata with,
+  in, apart from, as the total of, or outside the five heaps before applying
+  any of the four post-death positions.
+- 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
+  records and an exact governed example for the SN 22.86 dukkha-nirodha close.
+- MN 131 and SN 22.86 report no automated plain-English register signals.
+  Both are published as provisional after source-fidelity and read-aloud
+  review; newcomer comprehension review remains the final validation gate.
 
 ## State As Of 2026-08-21
 

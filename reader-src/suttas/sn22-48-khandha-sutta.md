@@ -131,7 +131,7 @@ These are called the five clung-to heaps."
 
 - [← The Snake and the Raft](mn22-alagaddupama-sutta.md)
 - [All suttas](index.md)
-- [The Lingering Sense of 'I Am' →](sn22-89-khemaka-sutta.md)
+- [Can You Pin Down the Tathāgata? →](sn22-86-anuradha-sutta.md)
 
 </nav>
 

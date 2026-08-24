@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (47 total)
+## Completed Surfaces (48 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -74,6 +74,10 @@ Use that full roadmap as the source of truth for:
   surface for chasing the past, longing for the future, and being pulled away
   by present experience through the fivefold self-view formula. Reader
   placement is set 4.
+- `SN 22.86` Anurādha Sutta — requested directly. Control surface for the
+  relationship between the Tathāgata and the five heaps, the four post-death
+  positions, and the compact dukkha-nirodha scope statement. Reader placement
+  is set 4.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
@@ -92,10 +96,10 @@ Use that full roadmap as the source of truth for:
 ## Current Active Queue
 
 The Wave 8 citation sweep and DN 22 repair are complete, and its first
-translation item, SN 48.10, is also complete. MN 131 was then added by direct
-request rather than by audit ranking. The remaining verified queue is MN 119,
-followed by AN 2.9 only after its weaker signal is checked again. The full
-reasoning and historical audit state remain in
+translation item, SN 48.10, is also complete. MN 131 and SN 22.86 were then
+added by direct request rather than by audit ranking. The remaining verified
+queue is MN 119, followed by AN 2.9 only after its weaker signal is checked
+again. The full reasoning and historical audit state remain in
 [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
