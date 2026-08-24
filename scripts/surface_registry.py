@@ -259,6 +259,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn22-89-khemaka-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn22_86",
+        label="SN 22.86",
+        main_relpath="docs/translations/sn22-86-anuradha-sutta.md",
+        notes_relpath="docs/translations/sn22-86-anuradha-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn35_28",
         label="SN 35.28",
         main_relpath="docs/translations/sn35-28-aditta-sutta.md",
@@ -369,6 +375,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
     "sn22_48": "b5ac6f591e4b8d397e205f8cae8b75629c974c4e9e0d84a7b9b3d1b808a5b49f",
     "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
+    "sn22_86": "dc596235a508bb359cc80f667bbb5f05984a99b313830825c7c4811b950ef1c1",
     "sn35_28": "b159e8dd510ce49333e7be928a5fd807c6b585af52fe3722e4677036a63b90a3",
     "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
     "sn46_51": "089c5d05fdadf815ca6ab2fa0cbca72f7df0a9375d3fb5ba5d48544647584cb4",
@@ -385,6 +392,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
     "mn131": "2026-08-24",
+    "sn22_86": "2026-08-24",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -621,72 +629,79 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "What the five heaps actually are, stated directly.",
         reader_title="The Five Heaps",
     ),
+    "sn22_86": ReaderMeta(
+        "Anurādha Sutta", 4, 4,
+        "Anurādha tries to place the Tathāgata outside four claims about what "
+        "happens after death. The Buddha asks whether the Tathāgata can be "
+        "pinned down through the five heaps even here and now.",
+        reader_title="Can You Pin Down the Tathāgata?",
+    ),
     "sn22_89": ReaderMeta(
-        "Khemaka Sutta", 4, 4,
+        "Khemaka Sutta", 4, 5,
         "A subtler point: even someone who has genuinely seen not-self can "
         "still carry a faint, hard-to-locate sense of \"I am.\"",
         reader_title="The Lingering Sense of 'I Am'",
     ),
     "mn131": ReaderMeta(
-        "Bhaddekaratta Sutta", 4, 5,
+        "Bhaddekaratta Sutta", 4, 6,
         "Do not chase the past or long for the future — but do not mistake "
         "that for a slogan about living in the moment. The explanation asks "
         "whether you are turning any part of present experience into self.",
         reader_title="Don't Chase the Past or Long for the Future",
     ),
     "mn148": ReaderMeta(
-        "Chachakka Sutta", 4, 6,
+        "Chachakka Sutta", 4, 7,
         "A systematic, almost mechanical working-through of not-self across "
         "every sense door. Dense, but by this point the pattern should be "
         "familiar.",
         reader_title="Not-Self at the Six Sense Doors",
     ),
     "sn12_15": ReaderMeta(
-        "Kaccānagotta Sutta", 4, 7,
+        "Kaccānagotta Sutta", 4, 8,
         "One page, defining right view as the middle between \"it exists\" and "
         "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
         reader_title="Between 'It Exists' and 'It Doesn't'",
     ),
     "sn12_61": ReaderMeta(
-        "Assutavā Sutta", 4, 8,
+        "Assutavā Sutta", 4, 9,
         "An argument that runs the opposite way from what you expect: if you "
         "must identify with something, the body is the safer choice, because "
         "its changing is visible and the mind's is not.",
         reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
-        "Upanisa Sutta", 4, 9,
+        "Upanisa Sutta", 4, 10,
         "The positive chain, dissatisfaction leading step by step to freedom, "
         "mirroring the well-known negative chain.",
         reader_title="From Dissatisfaction to Freedom",
     ),
     "sn12_11": ReaderMeta(
-        "Āhāra Sutta", 4, 10,
+        "Āhāra Sutta", 4, 11,
         "Four things that keep a life going, traced back to wanting and then "
         "all the way back along the chain. Not to be confused with SN 46.51, "
         "which shares its name.",
         reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
-        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 11,
+        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 12,
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 12,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 13,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 13,
+        "Mahānidāna Sutta", 4, 14,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 14,
+        "Sammādiṭṭhi Sutta", 4, 15,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",

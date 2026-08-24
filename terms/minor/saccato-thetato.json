@@ -1,0 +1,50 @@
+{
+  "term": "saccato thetato",
+  "normalized_term": "saccato-thetato",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "as something true and real",
+  "alternative_translations": [
+    "as a true and actual fact",
+    "as truth and reality"
+  ],
+  "discouraged_translations": [
+    "as an eternal essence"
+  ],
+  "definition": "A paired expression for treating something as genuinely established and real.",
+  "notes": "In SN 22.86 the phrase appears with the Tathāgata not being found even in the present life. The translation keeps the pair direct and does not turn it into a claim that the Tathāgata does not exist, since that would choose one of the four positions the discourse refuses to establish. The accompanying 'cannot pin down' renders the unsuccessful act of finding or establishing the Tathāgata under the proposed five-heaps descriptions.",
+  "related_terms": [
+    "tathāgata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "diṭṭheva dhamme saccato thetato tathāgate anupalabbhiyamāne",
+      "translation": "since you cannot pin down the Tathāgata as something true and real even here and now",
+      "notes": "The climactic SN 22.86 question after the Tathāgata has not been identified with, in, apart from, as the total of, or outside the five heaps.",
+      "source": "SN 22.86"
+    }
+  ],
+  "sutta_references": [
+    "SN 22.86"
+  ],
+  "tags": [
+    "five-heaps",
+    "tathagata",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "SN 22.86",
+      "priority": "secondary",
+      "kind": "context-rule",
+      "scope": "Supports the paired true-and-real rendering within the discourse's five-heaps examination of the Tathāgata."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use 'as something true and real' when saccato thetato forms one paired adverbial description.",
+    "when_not_to_apply": "Do not inflate the phrase into an eternal essence and do not use it to assert non-existence where the passage is rejecting fixed descriptions.",
+    "compound_inheritance": "blocked",
+    "drift_risk": "Prevents the SN 22.86 crux from drifting either into metaphysical reification or into an annihilation claim."
+  }
+}

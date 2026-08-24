@@ -32,6 +32,11 @@
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
     },
     {
+      "context": "In the compact closing statement of SN 22.86",
+      "rendering": "ending",
+      "notes": "Use the established repository wording 'the ending of dissatisfaction' so the summary remains immediate and plain without changing the headword default elsewhere."
+    },
+    {
       "context": "In Punnaji-style meditative explanation of interruption of the existential process",
       "rendering": "discontinuity",
       "notes": "Allow this as a source-backed alternate only when the source context clearly supports it. Do not rotate it into the house default."
@@ -105,11 +110,18 @@
       "translation": "with the quenching of this, this ceases",
       "notes": "Canonical formula for the quenching side of conditionality.",
       "source": "SN 12.61"
+    },
+    {
+      "pali": "dukkhañceva paññapemi, dukkhassa ca nirodhaṁ",
+      "translation": "I describe only dissatisfaction and the ending of dissatisfaction",
+      "notes": "Controlled plain-English ending-language in the compact SN 22.86 scope statement.",
+      "source": "SN 22.86"
     }
   ],
   "sutta_references": [
     "SN 56.11",
-    "SN 12.61"
+    "SN 12.61",
+    "SN 22.86"
   ],
   "tags": [
     "four-noble-truths",
@@ -135,6 +147,12 @@
       "priority": "external",
       "kind": "context-rule",
       "scope": "Supports discontinuity as a narrow practical alternate without displacing quenching as the default."
+    },
+    {
+      "source": "SN 22.86",
+      "priority": "secondary",
+      "kind": "context-rule",
+      "scope": "Supports ending as a controlled alternate in the discourse's compact dukkha-nirodha closing statement."
     }
   ],
   "translation_policy": {

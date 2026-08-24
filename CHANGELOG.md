@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed, plain contemporary English translation of SN 22.86,
+  Anurādha Sutta, with companion source notes, a controlled rendering of the
+  Tathāgata and five-heaps questions, a hand-written newcomer introduction,
+  and a generated reader page titled "Can You Pin Down the Tathāgata?"
 - Added a governed, plain contemporary English translation of MN 131,
   Bhaddekaratta Sutta, with companion source notes, reusable title policy, a
   hand-written newcomer introduction, and a generated reader page titled

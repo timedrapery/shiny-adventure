@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 915
+- Entries: 916
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -738,6 +738,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sabbaloke-anabhirata-sanna](../../terms/minor/sabbaloke-anabhirata-sanna.json) | sabbaloke-anabhirata-sanna | perception of non-delight in the whole world | reviewed | meditative-development, liberation |
 | [sabbe-dhamma-anatta](../../terms/minor/sabbe-dhamma-anatta.json) | sabbe dhammā anattā | all phenomena are not-self | reviewed | three-marks, formula, translation-sensitive |
 | [sabha](../../terms/minor/sabha.json) | sabhā | hall | reviewed | core-doctrine |
+| [saccato-thetato](../../terms/minor/saccato-thetato.json) | saccato thetato | as something true and real | reviewed | five-heaps, tathagata, translation-sensitive |
 | [sadda-tanha](../../terms/minor/sadda-tanha.json) | sadda-tanha | craving for sounds | reviewed | core-doctrine, mental-qualities |
 | [saddayatana](../../terms/minor/saddayatana.json) | saddāyatana | sound sense field | reviewed | sense-fields |
 | [saddha-dhana](../../terms/minor/saddha-dhana.json) | saddha-dhana | wealth of confidence | reviewed | ethics, core-practice |
