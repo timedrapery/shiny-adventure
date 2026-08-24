@@ -7,7 +7,7 @@
 
 *SN 35.28, the Āditta Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 676 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 675 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -121,8 +121,8 @@ spiritual life has been lived, what had to be done has been done, there is
 nothing further for this.'"
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
-Buddha's words. And while this discourse was being spoken, the feeling
-minds of those thousand bhikkhus were released from outflows without clinging.
+Buddha's words. And while this discourse was being spoken, the hearts of those
+thousand bhikkhus were released from outflows without clinging.
 
 The sixth discourse is finished.
 

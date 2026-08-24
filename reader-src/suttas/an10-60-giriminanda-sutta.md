@@ -7,7 +7,7 @@
 
 *AN 10.60, the Girimānanda Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,468 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,460 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -224,17 +224,17 @@ They train like this: 'I will breathe in stilling the mental putting-together.'
 They train like this: 'I will breathe out stilling the mental
 putting-together.'
 
-They train like this: 'I will breathe in experiencing the feeling mind.' They
-train like this: 'I will breathe out experiencing the feeling mind.'
+They train like this: 'I will breathe in experiencing the heart.' They
+train like this: 'I will breathe out experiencing the heart.'
 
-They train like this: 'I will breathe in gladdening the feeling mind.' They
-train like this: 'I will breathe out gladdening the feeling mind.'
+They train like this: 'I will breathe in gladdening the heart.' They
+train like this: 'I will breathe out gladdening the heart.'
 
-They train like this: 'I will breathe in composing the feeling mind.' They
-train like this: 'I will breathe out composing the feeling mind.'
+They train like this: 'I will breathe in composing the heart.' They
+train like this: 'I will breathe out composing the heart.'
 
-They train like this: 'I will breathe in releasing the feeling mind.' They
-train like this: 'I will breathe out releasing the feeling mind.'
+They train like this: 'I will breathe in releasing the heart.' They
+train like this: 'I will breathe out releasing the heart.'
 
 They train like this: 'I will breathe in observing impermanence.' They train
 like this: 'I will breathe out observing impermanence.'
@@ -277,14 +277,14 @@ The tenth discourse is finished.
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
@@ -316,9 +316,9 @@ The tenth discourse is finished.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.

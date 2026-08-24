@@ -19,8 +19,8 @@ calls, and edition notes that govern it.
 
 ## Governing Decisions
 
-- `citta` remains `feeling mind`.
-- `cittassa upakkilesa` is rendered `corruption of the feeling mind`.
+- `citta` remains `heart`.
+- `cittassa upakkilesa` is rendered `corruption of the heart`.
 - `upakkilesa` remains `corruption`, preserving the narrower surface distinct
   from the broader `kilesa` rendering `defilement`.
 - `aveccappasada` remains `verified confidence`.
@@ -79,7 +79,7 @@ calls, and edition notes that govern it.
 ## Editorial Presentation
 
 - The repeated abandoning list is mostly expanded, because MN 7 is now the
-  outward-facing list surface for the corruptions of the feeling mind.
+  outward-facing list surface for the corruptions of the heart.
 - The second full repetition, after the corruptions have been abandoned, is
   compressed into one paragraph to keep the document readable while preserving
   every list member.

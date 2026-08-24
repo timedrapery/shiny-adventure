@@ -73,8 +73,6 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
 <dt><dfn>fading</dfn> <span class="glossary-pali" lang="pi">(virāga)</span></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn> <span class="glossary-pali" lang="pi">(citta)</span></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn> <span class="glossary-pali" lang="pi">(vedanā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>five distractions</dfn> <span class="glossary-pali" lang="pi">(pañca-nīvaraṇā)</span></dt>
@@ -91,6 +89,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
+<dt><dfn>heart</dfn> <span class="glossary-pali" lang="pi">(citta)</span></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn> <span class="glossary-pali" lang="pi">(abhiññā)</span></dt>
 <dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
 <dt><dfn>ignorance</dfn> <span class="glossary-pali" lang="pi">(avijjā)</span></dt>

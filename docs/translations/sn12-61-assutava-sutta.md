@@ -8,8 +8,8 @@
   [SN 12.61 Translation Notes](sn12-61-assutava-sutta-notes.md)
 - Source basis: the Pali text of SN 12.61 as segmented in SuttaCentral's Bilara
   data.
-- House choices that most affect this sutta: `citta` is rendered `feeling
-  mind`, `mano` `thinking mind`, and `viññāṇa` `knowing`, so that the three
+- House choices that most affect this sutta: `citta` is rendered `heart`,
+  `mano` `thinking mind`, and `viññāṇa` `knowing`, so that the three
   names the discourse strings together stay distinct; `puthujjana` is `ordinary
   person`; `nibbidā`, `virāga`, and `vimutti` are `disenchantment`, `fading`,
   and `release`; and the four-line conditionality formula uses its four
@@ -44,7 +44,7 @@ great elements can be seen, its being taken up and its being put down. So an
 unlearned ordinary person might well grow disenchanted with it, might well fade
 toward it, might well be released from it.
 
-But as for what is called the feeling mind, and the thinking mind, and knowing
+But as for what is called the heart, and the thinking mind, and knowing
 — an unlearned ordinary person is not able to grow disenchanted with that, not
 able to fade toward it, not able to be released from it.
 
@@ -66,12 +66,12 @@ Because this body made of the four great elements is seen to last one year, two
 years, three, four, five, ten, twenty, thirty, forty, fifty years, a hundred
 years, and longer.
 
-But as for what is called the feeling mind, and the thinking mind, and knowing
+But as for what is called the heart, and the thinking mind, and knowing
 — by night and by day it arises as one thing and ceases as another.
 
 Suppose a monkey roaming the forest wilds takes hold of a branch, lets it go
 and takes hold of another, lets that go and takes hold of another. In the same
-way, bhikkhus, what is called the feeling mind, and the thinking mind, and
+way, bhikkhus, what is called the heart, and the thinking mind, and
 knowing — by night and by day it arises as one thing and ceases as another.
 
 ### How the Learned Disciple Attends

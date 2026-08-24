@@ -11,7 +11,7 @@
 - House choices that most affect this sutta: `satipaṭṭhāna` is rendered
   `establishment of sati`; `sati` is rendered `remembering`; `sampajañña` is
   rendered `clear knowing`; `vedanā` is rendered `felt experience`; `citta` is
-  rendered `feeling mind`; `dhamma` remains untranslated where English would
+  rendered `heart`; `dhamma` remains untranslated where English would
   narrow it too quickly; `nīvaraṇa` family language uses `distraction`;
   `upādāna` remains `taking personally`; and `nibbāna` remains untranslated.
 - Repeated refrain material is laid out in full when the pattern first needs to
@@ -51,7 +51,7 @@ They remain observing felt experience in relation to felt experience, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-They remain observing the feeling mind in relation to the feeling mind, ardent,
+They remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
@@ -234,47 +234,47 @@ and do not take anything in the world personally.
 That is how a bhikkhu remains observing felt experience in relation to felt
 experience."
 
-### Contemplation of the Feeling Mind
+### Contemplation of the Heart
 
-"And how does a bhikkhu remain observing the feeling mind in relation to the
-feeling mind?
+"And how does a bhikkhu remain observing the heart in relation to the
+heart?
 
-Here a bhikkhu discerns a feeling mind with passion as 'feeling mind with
-passion.' They discern a feeling mind without passion as 'feeling mind without
+Here a bhikkhu discerns a heart with passion as 'heart with
+passion.' They discern a heart without passion as 'heart without
 passion.'
 
-They discern a feeling mind with aversion as 'feeling mind with aversion.' They
-discern a feeling mind without aversion as 'feeling mind without aversion.'
+They discern a heart with aversion as 'heart with aversion.' They
+discern a heart without aversion as 'heart without aversion.'
 
-They discern a feeling mind with confusion as 'feeling mind with confusion.'
-They discern a feeling mind without confusion as 'feeling mind without
+They discern a heart with confusion as 'heart with confusion.'
+They discern a heart without confusion as 'heart without
 confusion.'
 
-They discern a contracted feeling mind as 'contracted feeling mind.' They
-discern a scattered feeling mind as 'scattered feeling mind.'
+They discern a contracted heart as 'contracted heart.' They
+discern a scattered heart as 'scattered heart.'
 
-They discern an expanded feeling mind as 'expanded feeling mind.' They discern
-an unexpanded feeling mind as 'unexpanded feeling mind.'
+They discern an expanded heart as 'expanded heart.' They discern
+an unexpanded heart as 'unexpanded heart.'
 
-They discern a surpassable feeling mind as 'surpassable feeling mind.' They
-discern an unsurpassable feeling mind as 'unsurpassable feeling mind.'
+They discern a surpassable heart as 'surpassable heart.' They
+discern an unsurpassable heart as 'unsurpassable heart.'
 
-They discern a composed feeling mind as 'composed feeling mind.' They discern
-an uncomposed feeling mind as 'uncomposed feeling mind.'
+They discern a composed heart as 'composed heart.' They discern
+an uncomposed heart as 'uncomposed heart.'
 
-They discern a released feeling mind as 'released feeling mind.' They discern
-an unreleased feeling mind as 'unreleased feeling mind.'
+They discern a released heart as 'released heart.' They discern
+an unreleased heart as 'unreleased heart.'
 
-Then they remain observing the feeling mind as internal, observing the feeling
-mind as external, and observing the feeling mind as both internal and external.
-They remain observing arising qualities in the feeling mind, vanishing
-qualities in the feeling mind, and both arising and vanishing qualities in the
-feeling mind. Or remembering is simply present: 'There is the feeling mind,'
+Then they remain observing the heart as internal, observing the heart as
+external, and observing the heart as both internal and external.
+They remain observing arising qualities in the heart, vanishing
+qualities in the heart, and both arising and vanishing qualities in the
+heart. Or remembering is simply present: 'There is the heart,'
 just enough for knowing and for remembering. They stay without depending on
 anything and do not take anything in the world personally.
 
-That is how a bhikkhu remains observing the feeling mind in relation to the
-feeling mind."
+That is how a bhikkhu remains observing the heart in relation to the
+heart."
 
 ### Contemplation of Dhammas
 

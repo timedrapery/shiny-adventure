@@ -3,21 +3,22 @@
   "normalized_term": "anapanasati",
   "entry_type": "major",
   "part_of_speech": "compound",
-  "literal_meaning": "breathing sati",
+  "literal_meaning": "remembering with in-and-out breathing",
   "preferred_translation": "ānāpānasati",
   "alternative_translations": [
     "remembering the Dhamma while breathing in and out",
-    "mindfulness with breathing",
     "introspective breathing",
     "remembering to look at in-and-out breathing"
   ],
   "discouraged_translations": [
-    "breath meditation"
+    "breath meditation",
+    "mindfulness of breathing",
+    "mindfulness with breathing"
   ],
   "untranslated_preferred": true,
   "gloss_on_first_occurrence": "ānāpānasati (remembering the Dhamma while breathing in and out)",
   "definition": "The practice of cultivating sati, understood here as remembering the Dhamma, with the in-breath and out-breath as the immediate field of attention.",
-  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. When an explanatory gloss is needed, the repository now prefers 'remembering the Dhamma while breathing in and out' so the practice is not reduced to generic awareness of breath or remembering just any old thing. If mindfulness-language is used at all in explanatory prose, prefer 'mindfulness with breathing' rather than 'mindfulness of breathing,' since the latter misframes the compound too narrowly. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository keeps that as a tolerated explanatory alternate, but strengthens the point that sati here is remembering the Dhamma while breathing in and out. The shared breathing-side control line and the paired whole-body and body-conditioner training lines now live as dedicated phrase records so MN 10 and MN 118 can stay synchronized by governed policy rather than by translator memory. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique. This repository also keeps one further practical rule explicit: the first jhāna is not treated as something separate from ānāpānasati. In this handling, the practice itself clears distractions, brings up wholesome dhammas through vitakka and vicāra, and stays direct through ekaggatā rather than turning into nostril-gazing or side-quest meditation theory. The repository also keeps the practice explanation simple where the text does so: in gladdening-the-mind work, mano can be explained as the thinking mind that brings wholesome dhammas or wholesome thought-content to bear, while citta is the feeling mind that becomes gladdened or brightened. That explanatory distinction should support the practice without replacing the formula itself. The same explanation must not be overextended: wholesome dhammas may counter or displace active distractions, but the repository does not treat that as identical to the final wearing away of outflows, uprooting of underlying tendencies, or ending of fetters.",
+  "notes": "The project prefers leaving anapanasati untranslated because the compound carries a specific practice frame that is narrowed too quickly by standard English shorthand. When an explanatory gloss is needed, the repository now prefers 'remembering the Dhamma while breathing in and out' so the practice is not reduced to generic awareness of breath or remembering just any old thing. Breath meditation and mindfulness of or with breathing are discouraged as translations because they hide the Dhamma-remembering function of sati. Ven. Dr. M. Punnaji uses introspective breathing in his MN 118 materials; the repository records that as a source-backed pedagogical alternate rather than replacing the house default of leaving the term untranslated. The OSF glossary explains this practice as remembering to look at in-and-out breathing; the repository keeps that as a tolerated explanatory alternate, but strengthens the point that sati here is remembering the Dhamma while breathing in and out. The shared breathing-side control line and the paired whole-body and body-conditioner training lines now live as dedicated phrase records so MN 10 and MN 118 can stay synchronized by governed policy rather than by translator memory. The OSF publication What Is And Is Not The Path strongly reinforces anapanasati as the central training, tightly integrated with satipatthana and the eightfold path, rather than as a narrow breath technique. This repository also keeps one further practical rule explicit: the first jhāna is not treated as something separate from ānāpānasati. In this handling, the practice itself clears distractions, brings up wholesome dhammas through vitakka and vicāra, and stays direct through ekaggatā rather than turning into nostril-gazing or side-quest meditation theory. The repository also keeps the practice explanation simple where the text does so: in gladdening-the-mind work, mano can be explained as the thinking mind that brings wholesome dhammas or wholesome thought-content to bear, while citta is the heart that becomes gladdened or brightened. That explanatory distinction should support the practice without replacing the formula itself. The same explanation must not be overextended: wholesome dhammas may counter or displace active distractions, but the repository does not treat that as identical to the final wearing away of outflows, uprooting of underlying tendencies, or ending of fetters.",
   "context_rules": [
     {
       "context": "In source-facing translation and practice instructions",
@@ -97,7 +98,7 @@
     },
     {
       "pali": "abhippamodayaṃ cittaṃ assasissāmīti sikkhati",
-      "translation": "one trains: 'I will breathe in gladdening the feeling mind'",
+      "translation": "one trains: 'I will breathe in gladdening the heart'",
       "notes": "Shows the gladdening-the-mind step as a place where the repository's mano/citta distinction can clarify the formula without complicating it.",
       "source": "MN 118"
     }

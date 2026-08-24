@@ -160,13 +160,13 @@ more to do.
 And what more is there to do?
 
 You should train like this: 'We will be devoted to wakefulness. During the
-day, by walking and sitting, we will purify the feeling mind from obstructing
+day, by walking and sitting, we will purify the heart from obstructing
 qualities. In the first watch of the night, by walking and sitting, we will
-purify the feeling mind from obstructing qualities. In the middle watch of the
+purify the heart from obstructing qualities. In the middle watch of the
 night, we will lie down on the right side in the lion's posture, one foot on
 the other, with remembering and clear knowing, intending to get up. In the
 last watch of the night, getting up and walking and sitting, we will purify
-the feeling mind from obstructing qualities.'
+the heart from obstructing qualities.'
 
 But bhikkhus, you might think: 'We are possessed of conscience and concern;
 our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
@@ -208,22 +208,22 @@ their legs, set their body upright, and establish remembering before them.
 
 ### Abandoning the Five Distractions
 
-Giving up covetousness for the world, they remain with a feeling mind free of
-covetousness, and purify the feeling mind of covetousness.
+Giving up covetousness for the world, they remain with a heart free of
+covetousness, and purify the heart of covetousness.
 
-Giving up ill will and malice, they remain with a feeling mind free of ill
-will, full of compassion toward all living beings, and purify the feeling mind
+Giving up ill will and malice, they remain with a heart free of ill
+will, full of compassion toward all living beings, and purify the heart
 of ill will.
 
-Giving up dull distraction, they remain with the feeling mind free of dull
+Giving up dull distraction, they remain with the heart free of dull
 distraction, with awareness of light, with remembering and clear knowing, and
-purify the feeling mind of dull distraction.
+purify the heart of dull distraction.
 
-Giving up agitated distraction, they remain without agitation, the feeling
-mind inwardly stilled, and purify the feeling mind of agitated distraction.
+Giving up agitated distraction, they remain without agitation, the heart
+inwardly stilled, and purify the heart of agitated distraction.
 
 Giving up uncertain distraction, they have crossed over uncertainty. They do
-not waver over skillful qualities, and they purify the feeling mind of
+not waver over skillful qualities, and they purify the heart of
 uncertain distraction.
 
 ### Five Similes for the Distractions
@@ -287,7 +287,7 @@ freedom, and safe ground.
 
 ### The Four Mental Themes
 
-Giving up these five distractions — corruptions of the feeling mind that
+Giving up these five distractions — corruptions of the heart that
 weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
 thinking and pondering, with rejoicing and satisfaction born of seclusion.
@@ -306,7 +306,7 @@ this very body with rejoicing and satisfaction born of seclusion, so that no par
 of the whole body goes undrenched with rejoicing and satisfaction born of seclusion.
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
-internal clarity, the feeling mind unified, without thinking and pondering, a
+internal clarity, the heart unified, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
 satisfaction born of mental composure.
 
@@ -350,19 +350,19 @@ earlier disappearance of gladness and sadness, a bhikkhu enters and remains in
 the fourth mental theme: neither painful nor pleasant, with pure dynamic
 balance and remembering.
 
-They sit suffusing this very body with a pure, bright feeling mind, so that no
-part of the whole body goes unsuffused with a pure, bright feeling mind.
+They sit suffusing this very body with a pure, bright heart, so that no
+part of the whole body goes unsuffused with a pure, bright heart.
 
 Bhikkhus, suppose a person were to sit wrapped from head to foot in white
 cloth, so that no part of the whole body went unwrapped in white cloth.
 
 In the same way, bhikkhus, a bhikkhu sits suffusing this very body with a
-pure, bright feeling mind, so that no part of the whole body goes unsuffused
-with a pure, bright feeling mind.
+pure, bright heart, so that no part of the whole body goes unsuffused
+with a pure, bright heart.
 
 ### Three Higher Knowledges
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of remembering past lives.
 
@@ -379,7 +379,7 @@ that village I returned to my home village.'
 In the same way, bhikkhus, a bhikkhu remembers many kinds of past lives in
 their various modes and details.
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of the death and rebirth of beings.
 
@@ -397,7 +397,7 @@ bhikkhu sees beings passing away and being reborn, lower and higher, beautiful
 and ugly, fortunate and unfortunate, and understands how beings pass on
 according to their actions.
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of the destruction of outflows.
 
@@ -411,7 +411,7 @@ is the arising of outflows.' They truly understand: 'This is the cessation of
 outflows.' They truly understand: 'This is the path leading to the cessation
 of outflows.'
 
-Knowing and seeing in this way, the feeling mind is released from the outflow
+Knowing and seeing in this way, the heart is released from the outflow
 of sensual desire, released from the outflow of becoming, released from the
 outflow of ignorance.
 

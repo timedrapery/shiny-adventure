@@ -7,7 +7,7 @@
 
 *MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,450 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,436 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -573,7 +573,7 @@ pleasure, arousing.
 
 When he sees a sight with his eyes, he is drawn toward what is pleasing and
 repelled by what is displeasing. He lives with remembering of the body
-unestablished, with a diminished feeling mind. He does not truly understand
+unestablished, with a diminished heart. He does not truly understand
 that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
@@ -589,7 +589,7 @@ When he hears a sound with his ears... when he smells a smell with his nose...
 when he tastes a taste with his tongue... when he feels a touch with his
 body... when he cognizes an idea with his thinking mind, he is drawn toward
 what is pleasing and repelled by what is displeasing. He lives with remembering
-of the body unestablished, with a diminished feeling mind. He does not truly
+of the body unestablished, with a diminished heart. He does not truly
 understand that release of mind and release through discernment where those
 arisen bad, unwholesome qualities cease without remainder.
 
@@ -705,27 +705,27 @@ open air, a heap of straw.
 Returning from the alms-round after the meal, they sit down cross-legged, hold
 their body erect, and establish remembering in front.
 
-Abandoning coveting for the world, they live with a feeling mind rid of
-coveting, cleansing the feeling mind of coveting. Abandoning aversive
-distraction and malevolence, they live with a feeling mind free of aversive
-distraction, full of compassion toward all living beings, cleansing the feeling
-mind of aversive distraction. Abandoning dullness and drowsiness, they live
+Abandoning coveting for the world, they live with a heart rid of
+coveting, cleansing the heart of coveting. Abandoning aversive
+distraction and malevolence, they live with a heart free of aversive
+distraction, full of compassion toward all living beings, cleansing the heart
+of aversive distraction. Abandoning dullness and drowsiness, they live
 rid of dullness and drowsiness, perceiving light, remembering and clearly
-knowing, cleansing the feeling mind of dullness and drowsiness. Abandoning
-restlessness and remorse, they live unrestless, with the feeling mind inwardly
-at peace, cleansing the feeling mind of restlessness and remorse. Abandoning
+knowing, cleansing the heart of dullness and drowsiness. Abandoning
+restlessness and remorse, they live unrestless, with the heart inwardly
+at peace, cleansing the heart of restlessness and remorse. Abandoning
 uncertain distraction, they have crossed beyond uncertainty. They are no
-longer undecided about wholesome qualities, and they cleanse the feeling mind
+longer undecided about wholesome qualities, and they cleanse the heart
 of uncertain distraction.
 
-They have abandoned these five distractions, the corruptions of the feeling
-mind that weaken discernment. Then, secluded from sense pleasures, secluded
+They have abandoned these five distractions, the corruptions of the heart
+that weaken discernment. Then, secluded from sense pleasures, secluded
 from unwholesome qualities, they enter and remain in the first mental theme —
 with placing the mind, keeping it there — with rejoicing and satisfaction born
 of seclusion.
 
 With the settling of placing and keeping the mind, internally confident, with
-a unified feeling mind, without placing and keeping the mind, they enter and
+a unified heart, without placing and keeping the mind, they enter and
 remain in the second mental theme with rejoicing and satisfaction born of
 mental composure.
 
@@ -742,7 +742,7 @@ satisfaction nor distress, with purity of equanimity and remembering.
 
 When they see a sight with their eyes, they are not drawn toward what is
 pleasing and not repelled by what is displeasing. They live with remembering
-of the body established, with a boundless feeling mind. They truly understand
+of the body established, with a boundless heart. They truly understand
 that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
@@ -759,7 +759,7 @@ When they hear a sound with their ears... when they smell a smell with their
 nose... when they taste a taste with their tongue... when they feel a touch
 with their body... when they cognize an idea with their thinking mind, they are
 not drawn toward what is pleasing and not repelled by what is displeasing. They
-live with remembering of the body established, with a boundless feeling mind.
+live with remembering of the body established, with a boundless heart.
 They truly understand that release of mind and release through discernment where
 those arisen bad, unwholesome qualities cease without remainder.
 
@@ -810,8 +810,6 @@ The eighth discourse is finished.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>five distractions</dfn></dt>
@@ -822,6 +820,8 @@ The eighth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -885,11 +885,11 @@ The eighth discourse is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

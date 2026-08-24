@@ -57,14 +57,14 @@ arisen, its increase and expansion.
 if it has arisen, its increase and expansion?
 
 There are discontent, sluggishness, yawning, after-meal drowsiness, and the
-sinking of the feeling mind. Repeated unwise attention there feeds the arising
+sinking of the heart. Repeated unwise attention there feeds the arising
 of dull distraction when it has not yet arisen, or, if it has arisen, its
 increase and expansion.
 
 "And what feeds the arising of agitated distraction when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
 
-There is the feeling mind's unrest. Repeated unwise attention there feeds the
+There is the heart's unrest. Repeated unwise attention there feeds the
 arising of agitated distraction when it has not yet arisen, or, if it has
 arisen, its increase and expansion.
 
@@ -112,7 +112,7 @@ not yet arisen, or, if it has arisen, its development and fulfillment.
 "And what feeds the arising of the relaxation awakening factor when it has not
 yet arisen, or, if it has arisen, its development and fulfillment?
 
-There are bodily relaxation and relaxation of the feeling mind. Repeated wise
+There are bodily relaxation and relaxation of the heart. Repeated wise
 attention there feeds the arising of the relaxation awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
@@ -158,7 +158,7 @@ increase and expansion.
 "And what starves the arising of agitated distraction when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
-There is the settling of the feeling mind. Repeated wise attention there
+There is the settling of the heart. Repeated wise attention there
 starves the arising of agitated distraction when it has not yet arisen, or, if
 it has arisen, its increase and expansion.
 
@@ -208,7 +208,7 @@ has not yet arisen, or, if it has arisen, its development and fulfillment.
 "And what starves the arising of the relaxation awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment?
 
-There are bodily relaxation and relaxation of the feeling mind. Repeated
+There are bodily relaxation and relaxation of the heart. Repeated
 non-attention there starves the arising of the relaxation awakening factor when
 it has not yet arisen, or, if it has arisen, its development and fulfillment.
 

@@ -7,7 +7,7 @@
 
 *MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,378 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,356 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -163,13 +163,13 @@ more to do.
 And what more is there to do?
 
 You should train like this: 'We will be devoted to wakefulness. During the
-day, by walking and sitting, we will purify the feeling mind from obstructing
+day, by walking and sitting, we will purify the heart from obstructing
 qualities. In the first watch of the night, by walking and sitting, we will
-purify the feeling mind from obstructing qualities. In the middle watch of the
+purify the heart from obstructing qualities. In the middle watch of the
 night, we will lie down on the right side in the lion's posture, one foot on
 the other, with remembering and clear knowing, intending to get up. In the
 last watch of the night, getting up and walking and sitting, we will purify
-the feeling mind from obstructing qualities.'
+the heart from obstructing qualities.'
 
 But bhikkhus, you might think: 'We are possessed of conscience and concern;
 our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
@@ -211,22 +211,22 @@ their legs, set their body upright, and establish remembering before them.
 
 ### Abandoning the Five Distractions
 
-Giving up covetousness for the world, they remain with a feeling mind free of
-covetousness, and purify the feeling mind of covetousness.
+Giving up covetousness for the world, they remain with a heart free of
+covetousness, and purify the heart of covetousness.
 
-Giving up ill will and malice, they remain with a feeling mind free of ill
-will, full of compassion toward all living beings, and purify the feeling mind
+Giving up ill will and malice, they remain with a heart free of ill
+will, full of compassion toward all living beings, and purify the heart
 of ill will.
 
-Giving up dull distraction, they remain with the feeling mind free of dull
+Giving up dull distraction, they remain with the heart free of dull
 distraction, with awareness of light, with remembering and clear knowing, and
-purify the feeling mind of dull distraction.
+purify the heart of dull distraction.
 
-Giving up agitated distraction, they remain without agitation, the feeling
-mind inwardly stilled, and purify the feeling mind of agitated distraction.
+Giving up agitated distraction, they remain without agitation, the heart
+inwardly stilled, and purify the heart of agitated distraction.
 
 Giving up uncertain distraction, they have crossed over uncertainty. They do
-not waver over skillful qualities, and they purify the feeling mind of
+not waver over skillful qualities, and they purify the heart of
 uncertain distraction.
 
 ### Five Similes for the Distractions
@@ -290,7 +290,7 @@ freedom, and safe ground.
 
 ### The Four Mental Themes
 
-Giving up these five distractions — corruptions of the feeling mind that
+Giving up these five distractions — corruptions of the heart that
 weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
 thinking and pondering, with rejoicing and satisfaction born of seclusion.
@@ -309,7 +309,7 @@ this very body with rejoicing and satisfaction born of seclusion, so that no par
 of the whole body goes undrenched with rejoicing and satisfaction born of seclusion.
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
-internal clarity, the feeling mind unified, without thinking and pondering, a
+internal clarity, the heart unified, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
 satisfaction born of mental composure.
 
@@ -353,19 +353,19 @@ earlier disappearance of gladness and sadness, a bhikkhu enters and remains in
 the fourth mental theme: neither painful nor pleasant, with pure dynamic
 balance and remembering.
 
-They sit suffusing this very body with a pure, bright feeling mind, so that no
-part of the whole body goes unsuffused with a pure, bright feeling mind.
+They sit suffusing this very body with a pure, bright heart, so that no
+part of the whole body goes unsuffused with a pure, bright heart.
 
 Bhikkhus, suppose a person were to sit wrapped from head to foot in white
 cloth, so that no part of the whole body went unwrapped in white cloth.
 
 In the same way, bhikkhus, a bhikkhu sits suffusing this very body with a
-pure, bright feeling mind, so that no part of the whole body goes unsuffused
-with a pure, bright feeling mind.
+pure, bright heart, so that no part of the whole body goes unsuffused
+with a pure, bright heart.
 
 ### Three Higher Knowledges
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of remembering past lives.
 
@@ -382,7 +382,7 @@ that village I returned to my home village.'
 In the same way, bhikkhus, a bhikkhu remembers many kinds of past lives in
 their various modes and details.
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of the death and rebirth of beings.
 
@@ -400,7 +400,7 @@ bhikkhu sees beings passing away and being reborn, lower and higher, beautiful
 and ugly, fortunate and unfortunate, and understands how beings pass on
 according to their actions.
 
-With the feeling mind so concentrated, purified, bright, without blemish, free
+With the heart so concentrated, purified, bright, without blemish, free
 from corruption, pliable, workable, steady, and imperturbable, they direct it
 toward the knowledge of the destruction of outflows.
 
@@ -414,7 +414,7 @@ is the arising of outflows.' They truly understand: 'This is the cessation of
 outflows.' They truly understand: 'This is the path leading to the cessation
 of outflows.'
 
-Knowing and seeing in this way, the feeling mind is released from the outflow
+Knowing and seeing in this way, the heart is released from the outflow
 of sensual desire, released from the outflow of becoming, released from the
 outflow of ignorance.
 
@@ -503,8 +503,6 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>five distractions</dfn></dt>
@@ -513,6 +511,8 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -564,11 +564,11 @@ The Greater Discourse at Assapura is finished.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[going forth]: Leaving household life to live as a monastic.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.

@@ -200,7 +200,7 @@ Right view and right attitude are included within the discernment heap."
 What dhammas are the equipment of mental composure? What is the development of
 mental composure?"
 
-"Friend Visākha, directness of the feeling mind is mental composure.
+"Friend Visākha, directness of the heart is mental composure.
 
 The four establishments of sati are signs of mental composure.
 
@@ -239,8 +239,8 @@ conditioner.
 First a person thinks and ponders, and afterward they break into speech. That
 is why thinking and pondering are the verbal conditioner.
 
-Recognition and felt experience are mental dhammas, bound up with the feeling
-mind. That is why recognition and felt experience are the mind conditioner."
+Recognition and felt experience are mental dhammas, bound up with the heart.
+That is why recognition and felt experience are the mind conditioner."
 
 ### Attainment of Cessation
 
@@ -255,7 +255,7 @@ or 'I am entering the attainment of cessation of recognition and felt
 experience,' or 'I have entered the attainment of cessation of recognition and
 felt experience.'
 
-Rather, that bhikkhu's feeling mind has already been developed in such a way
+Rather, that bhikkhu's heart has already been developed in such a way
 that it leads to that state."
 
 "Ayye, for a bhikkhu entering the attainment of cessation of recognition and
@@ -277,7 +277,7 @@ experience,' or 'I am emerging from the attainment of cessation of recognition
 and felt experience,' or 'I have emerged from the attainment of cessation of
 recognition and felt experience.'
 
-Rather, that bhikkhu's feeling mind has already been developed in such a way
+Rather, that bhikkhu's heart has already been developed in such a way
 that it leads to that state."
 
 "Ayye, for a bhikkhu emerging from the attainment of cessation of recognition
@@ -299,11 +299,11 @@ attainment of cessation of recognition and felt experience:
 - wishless contact"
 
 "Ayye, for a bhikkhu who has emerged from the attainment of cessation of
-recognition and felt experience, toward what is the feeling mind inclined,
+recognition and felt experience, toward what is the heart inclined,
 sloping, and leaning?"
 
 "Friend Visākha, for a bhikkhu who has emerged from the attainment of
-cessation of recognition and felt experience, the feeling mind is inclined to
+cessation of recognition and felt experience, the heart is inclined to
 seclusion, slopes to seclusion, and leans to seclusion."
 
 ### Three Kinds of Felt Experience

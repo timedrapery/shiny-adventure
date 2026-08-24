@@ -7,7 +7,7 @@
 
 *MN 43, the Mahāvedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,925 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,917 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -247,7 +247,7 @@ This, friend, is called the first mental theme."
 "Friend, the first mental theme has five factors.
 
 Here, friend, for a bhikkhu who has entered the first mental theme there occur
-thinking, pondering, rejoicing, satisfaction, and directness of feeling mind.
+thinking, pondering, rejoicing, satisfaction, and directness of heart.
 
 That, friend, is how the first mental theme has five factors."
 
@@ -263,7 +263,7 @@ is abandoned, agitated distraction is abandoned, and uncertain distraction is
 abandoned;
 
 and there occur thinking, pondering, rejoicing, satisfaction, and directness
-of feeling mind.
+of heart.
 
 That, friend, is how the first mental theme has left behind five factors and
 possesses five factors."
@@ -448,21 +448,21 @@ meaning and different only in letter.
 And what, friend, is the mode of exposition by which these dhammas are
 different in meaning and different in letter?
 
-Here, friend, a bhikkhu remains pervading one direction with a feeling mind
+Here, friend, a bhikkhu remains pervading one direction with a heart
 imbued with friendliness, and likewise the second, the third, and the fourth.
 So above, below, across, everywhere, to all as to himself, he remains
-pervading the whole world with a feeling mind imbued with friendliness,
+pervading the whole world with a heart imbued with friendliness,
 abundant, expansive, measureless, without hostility, without ill will.
 
-He remains pervading with a feeling mind imbued with kindness towards
+He remains pervading with a heart imbued with kindness towards
 others ...
 
-with a feeling mind imbued with gladness ...
+with a heart imbued with gladness ...
 
-He remains pervading one direction with a feeling mind imbued with dynamic
+He remains pervading one direction with a heart imbued with dynamic
 balance, and likewise the second, the third, and the fourth. So above, below,
 across, everywhere, to all as to himself, he remains pervading the whole world
-with a feeling mind imbued with dynamic balance, abundant, expansive,
+with a heart imbued with dynamic balance, abundant, expansive,
 measureless, without hostility, without ill will.
 
 This, friend, is called the measureless release of mind.
@@ -575,8 +575,6 @@ had said.
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
@@ -585,6 +583,8 @@ had said.
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
 <dt><dfn>ignorance</dfn></dt>
@@ -645,11 +645,11 @@ had said.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.

@@ -15,7 +15,7 @@
   `bodily putting-together` / `mental putting-together` (in the ānāpānassati
   steps); `taṇhā` is rendered `ignorant wanting`; `sati` is rendered
   `remembering`; `pīti` is rendered `rejoicing`; and `citta` is rendered
-  `feeling mind`.
+  `heart`.
 - This edition treats AN 10.60 as the repository's control surface for the
   ten perception-contemplation formulas and for ānāpānassati as the closing
   member of a practice sequence aimed at releasing illness through directed
@@ -221,17 +221,17 @@ They train like this: 'I will breathe in stilling the mental putting-together.'
 They train like this: 'I will breathe out stilling the mental
 putting-together.'
 
-They train like this: 'I will breathe in experiencing the feeling mind.' They
-train like this: 'I will breathe out experiencing the feeling mind.'
+They train like this: 'I will breathe in experiencing the heart.' They
+train like this: 'I will breathe out experiencing the heart.'
 
-They train like this: 'I will breathe in gladdening the feeling mind.' They
-train like this: 'I will breathe out gladdening the feeling mind.'
+They train like this: 'I will breathe in gladdening the heart.' They
+train like this: 'I will breathe out gladdening the heart.'
 
-They train like this: 'I will breathe in composing the feeling mind.' They
-train like this: 'I will breathe out composing the feeling mind.'
+They train like this: 'I will breathe in composing the heart.' They
+train like this: 'I will breathe out composing the heart.'
 
-They train like this: 'I will breathe in releasing the feeling mind.' They
-train like this: 'I will breathe out releasing the feeling mind.'
+They train like this: 'I will breathe in releasing the heart.' They
+train like this: 'I will breathe out releasing the heart.'
 
 They train like this: 'I will breathe in observing impermanence.' They train
 like this: 'I will breathe out observing impermanence.'

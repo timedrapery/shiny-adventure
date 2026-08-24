@@ -1013,7 +1013,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (41)</summary>
+<summary>Words used in this translation (42)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -1059,6 +1059,8 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>kamma</dfn></dt>
@@ -1133,6 +1135,7 @@ Buddha had said.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

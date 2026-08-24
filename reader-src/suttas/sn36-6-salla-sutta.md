@@ -7,7 +7,7 @@
 
 *SN 36.6, the Salla Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 784 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 783 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -171,7 +171,7 @@ and the ordinary person.
 
 The learned person has understood the teaching
 and sees this world and the next.
-Desirable things do not churn their feeling mind,
+Desirable things do not churn their heart,
 and undesirable things bring up no resistance.
 
 Favoring and opposing
@@ -202,8 +202,8 @@ The sixth discourse is finished.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>mixed feeling</dfn></dt>
@@ -239,7 +239,7 @@ The sixth discourse is finished.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

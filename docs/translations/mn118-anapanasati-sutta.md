@@ -11,7 +11,7 @@
   remain untranslated, but `ānāpānasati` is glossed here as `remembering the
   Dhamma while breathing in and out`; `sati` is rendered `remembering`;
   `samādhi` is rendered `mental composure`; `citta` is usually rendered
-  `feeling mind`; `upekkhā` is rendered `dynamic balance`; `vossagga` and
+  `heart`; `upekkhā` is rendered `dynamic balance`; `vossagga` and
   `paṭinissagga` are rendered `relinquishment`.
 - The sixteen ānāpānasati lines are laid out here as trainings in four tetrads,
   and the tetrad headings remain in the main text as study aids for practice.
@@ -140,16 +140,16 @@ Felt-experience trainings:
 - They train: 'Breathing in, I will calm the mind conditioner.' They train:
   'Breathing out, I will calm the mind conditioner.'
 
-Feeling-mind trainings:
-- They train: 'Breathing in, I will experience the feeling mind.' They train:
-  'Breathing out, I will experience the feeling mind.'
-- They train: 'Breathing in, I will gladden the feeling mind.' They train:
-  'Breathing out, I will gladden the feeling mind.'
-- They train: 'Breathing in, I will bring the feeling mind to mental
-  composure.' They train: 'Breathing out, I will bring the feeling mind to
+Heart trainings:
+- They train: 'Breathing in, I will experience the heart.' They train:
+  'Breathing out, I will experience the heart.'
+- They train: 'Breathing in, I will gladden the heart.' They train:
+  'Breathing out, I will gladden the heart.'
+- They train: 'Breathing in, I will bring the heart to mental
+  composure.' They train: 'Breathing out, I will bring the heart to
   mental composure.'
-- They train: 'Breathing in, I will free the feeling mind.' They train:
-  'Breathing out, I will free the feeling mind.'
+- They train: 'Breathing in, I will free the heart.' They train:
+  'Breathing out, I will free the heart.'
 
 Dhamma-related trainings:
 - They train: 'Breathing in, I will observe impermanence.' They train:
@@ -185,14 +185,14 @@ is one kind of felt experience. Therefore they remain observing felt experience
 in relation to felt experience, ardent, with clear knowing, with remembering,
 having removed coveting and distress regarding the world.
 
-"Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
-feeling mind, or bringing the feeling mind to mental composure, or freeing the
-feeling mind, then they remain observing the feeling mind in relation to the feeling
-mind, ardent, with clear knowing, with remembering, having removed coveting and
+"Whenever a bhikkhu trains in experiencing the heart, or gladdening the
+heart, or bringing the heart to mental composure, or freeing the
+heart, then they remain observing the heart in relation to the heart, ardent,
+with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
 remembering has slipped and clear knowing is absent. Therefore they remain
-observing the feeling mind in relation to the feeling
-mind, ardent, with clear knowing, with remembering, having removed coveting and
+observing the heart in relation to the heart, ardent, with clear knowing,
+with remembering, having removed coveting and
 distress regarding the world.
 
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
@@ -232,20 +232,20 @@ through development.
 awakening factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
-"When rejoicing fills them, their body and feeling mind relax. Then the
+"When rejoicing fills them, their body and heart relax. Then the
 relaxation awakening factor is aroused. They develop it, and it comes to
 fulfillment through development.
 
-"When the body is relaxed and they experience ease, the feeling mind comes to
+"When the body is relaxed and they experience ease, the heart comes to
 mental composure. Then the awakening factor of mental composure is aroused.
 They develop it, and it comes to fulfillment through development.
 
-"They then look carefully with dynamic balance at that well-composed feeling
-mind. Then the dynamic balance awakening factor is aroused. They develop it,
+"They then look carefully with dynamic balance at that well-composed heart.
+Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 
 "The same is true when a bhikkhu remains observing felt experience in relation
-to felt experience, the feeling mind in relation to the feeling mind, or
+to felt experience, the heart in relation to the heart, or
 dhammas among dhammas, ardent, with clear knowing, with remembering, having
 removed coveting and distress regarding the world.
 

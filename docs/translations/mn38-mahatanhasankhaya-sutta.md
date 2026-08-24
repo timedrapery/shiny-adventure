@@ -16,7 +16,7 @@
   rendered `relishing`; `jhāna` is rendered `mental theme`; `pīti` is rendered
   `rejoicing`; `sukha` is rendered `satisfaction`; `sati` is rendered
   `remembering`; `sampajañña` is rendered `clear knowing`; `citta` is rendered
-  `feeling mind`; `cetovimutti` is rendered `release of mind`; `paññāvimutti`
+  `heart`; `cetovimutti` is rendered `release of mind`; `paññāvimutti`
   is rendered `release through discernment`; `paññā` is rendered
   `discernment`; `āsava` is rendered `outflow`; `gandhabba` is rendered
   `gandhabba`.
@@ -576,7 +576,7 @@ pleasure, arousing.
 
 When he sees a sight with his eyes, he is drawn toward what is pleasing and
 repelled by what is displeasing. He lives with remembering of the body
-unestablished, with a diminished feeling mind. He does not truly understand
+unestablished, with a diminished heart. He does not truly understand
 that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
@@ -592,7 +592,7 @@ When he hears a sound with his ears... when he smells a smell with his nose...
 when he tastes a taste with his tongue... when he feels a touch with his
 body... when he cognizes an idea with his thinking mind, he is drawn toward
 what is pleasing and repelled by what is displeasing. He lives with remembering
-of the body unestablished, with a diminished feeling mind. He does not truly
+of the body unestablished, with a diminished heart. He does not truly
 understand that release of mind and release through discernment where those
 arisen bad, unwholesome qualities cease without remainder.
 
@@ -708,27 +708,27 @@ open air, a heap of straw.
 Returning from the alms-round after the meal, they sit down cross-legged, hold
 their body erect, and establish remembering in front.
 
-Abandoning coveting for the world, they live with a feeling mind rid of
-coveting, cleansing the feeling mind of coveting. Abandoning aversive
-distraction and malevolence, they live with a feeling mind free of aversive
-distraction, full of compassion toward all living beings, cleansing the feeling
-mind of aversive distraction. Abandoning dullness and drowsiness, they live
+Abandoning coveting for the world, they live with a heart rid of
+coveting, cleansing the heart of coveting. Abandoning aversive
+distraction and malevolence, they live with a heart free of aversive
+distraction, full of compassion toward all living beings, cleansing the heart
+of aversive distraction. Abandoning dullness and drowsiness, they live
 rid of dullness and drowsiness, perceiving light, remembering and clearly
-knowing, cleansing the feeling mind of dullness and drowsiness. Abandoning
-restlessness and remorse, they live unrestless, with the feeling mind inwardly
-at peace, cleansing the feeling mind of restlessness and remorse. Abandoning
+knowing, cleansing the heart of dullness and drowsiness. Abandoning
+restlessness and remorse, they live unrestless, with the heart inwardly
+at peace, cleansing the heart of restlessness and remorse. Abandoning
 uncertain distraction, they have crossed beyond uncertainty. They are no
-longer undecided about wholesome qualities, and they cleanse the feeling mind
+longer undecided about wholesome qualities, and they cleanse the heart
 of uncertain distraction.
 
-They have abandoned these five distractions, the corruptions of the feeling
-mind that weaken discernment. Then, secluded from sense pleasures, secluded
+They have abandoned these five distractions, the corruptions of the heart
+that weaken discernment. Then, secluded from sense pleasures, secluded
 from unwholesome qualities, they enter and remain in the first mental theme —
 with placing the mind, keeping it there — with rejoicing and satisfaction born
 of seclusion.
 
 With the settling of placing and keeping the mind, internally confident, with
-a unified feeling mind, without placing and keeping the mind, they enter and
+a unified heart, without placing and keeping the mind, they enter and
 remain in the second mental theme with rejoicing and satisfaction born of
 mental composure.
 
@@ -745,7 +745,7 @@ satisfaction nor distress, with purity of equanimity and remembering.
 
 When they see a sight with their eyes, they are not drawn toward what is
 pleasing and not repelled by what is displeasing. They live with remembering
-of the body established, with a boundless feeling mind. They truly understand
+of the body established, with a boundless heart. They truly understand
 that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
@@ -762,7 +762,7 @@ When they hear a sound with their ears... when they smell a smell with their
 nose... when they taste a taste with their tongue... when they feel a touch
 with their body... when they cognize an idea with their thinking mind, they are
 not drawn toward what is pleasing and not repelled by what is displeasing. They
-live with remembering of the body established, with a boundless feeling mind.
+live with remembering of the body established, with a boundless heart.
 They truly understand that release of mind and release through discernment where
 those arisen bad, unwholesome qualities cease without remainder.
 

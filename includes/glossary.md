@@ -121,7 +121,7 @@
   Added 2026-08-20: the house's own coinages.
 
   This project deliberately replaces stale Buddhist jargon with fresh English
-  ("citta" -> feeling mind, "upadana" -> taking personally). That is good
+  ("citta" -> heart, "upadana" -> taking personally). That is good
   lexicography but it creates a readability problem the older jargon did not
   have: a newcomer cannot guess these, and a reader who knows other
   translations does not recognise them either. Before this block, 287
@@ -136,7 +136,7 @@
   ---------------------------------------------------------------------------
 -->
 
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
 

@@ -27,7 +27,7 @@ source-audit calls, and edition notes that govern it.
 - `mano` is rendered `thinking mind` in its role as the sixth sense base.
   `Mano` names the cognitive, discursive aspect of mind — the organ that
   processes ideas (`dhamma`) as the eye processes sights. It is distinguished
-  from `citta` (`feeling mind`), which names the experiential, feeling aspect
+  from `citta` (`heart`), which names the experiential, feeling aspect
   of mind. Both terms appear in SN 35.28: `mano` as the sixth internal sense
   base, `citta` in the final verse describing the bhikkhus' release.
 - `dhamma` is rendered `ideas` in its role as the objects of `mano` (the sixth
@@ -44,7 +44,7 @@ source-audit calls, and edition notes that govern it.
 - `virāga` is rendered `fading` (house default).
 - `vimutti` is rendered `release` (house default).
 - `āsava` is rendered `outflow` (house default).
-- `citta` is rendered `feeling mind` in the final verse: `the feeling minds of
+- `citta` is rendered `heart` in the final verse: `the hearts of
   those thousand bhikkhus were released from outflows without clinging`.
 - `anupādāya` is rendered `without clinging`. The term names non-appropriation
   — not grasping at anything as the basis for continued becoming.
@@ -66,7 +66,7 @@ records:
 - `virāga` → `fading` (major)
 - `vimutti` → `release` (major)
 - `āsava` → `outflow` (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 
 ## Re-audit Calls
 
@@ -75,11 +75,11 @@ records:
   heavier doctrinal term. `Burning` is used throughout without further
   qualification, which is the correct approach: the fire metaphor is
   self-evident and needs no gloss.
-- `mano` as `thinking mind` (sixth sense base) versus `citta` as `feeling
-  mind` (experiential mind) is a distinction the translation preserves
+- `mano` as `thinking mind` (sixth sense base) versus `citta` as `heart`
+  (experiential mind) is a distinction the translation preserves
   consistently. The two terms appear in different syntactic roles within the
   same discourse: `mano` in the burning formula (`the thinking mind is
-  burning`), `citta` in the release formula (`the feeling minds of those
+  burning`), `citta` in the release formula (`the hearts of those
   thousand bhikkhus`). Keeping the distinction prevents flattening a
   meaningful Pali contrast.
 - The sense-contact objects are rendered with natural English sensory nouns
@@ -115,7 +115,7 @@ records:
   SN 35.28 translation surface.
 - The `āditta` minor entry was added in a later lexicon-backlog pass; see
   Re-audit Calls above. Future revisions should focus on `mano` / `citta` if
-  the feeling-mind / thinking-mind distinction develops a more fully governed
+  the heart / thinking-mind distinction develops a more fully governed
   policy across the six-sense-field family.
 
 ## Readability Review

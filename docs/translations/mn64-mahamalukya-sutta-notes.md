@@ -67,7 +67,7 @@ source-audit calls, and edition notes that govern it.
   leaves the infant-simile challenge unanswered unless underlying tendencies
   are distinguished from manifest fetters.
 - `vicikicchā` is `uncertain distraction` when it is active and overwhelming
-  the feeling mind. The compound `vicikicchānusaya` is rendered with the
+  the heart. The compound `vicikicchānusaya` is rendered with the
   existing minor-entry wording `underlying tendency toward doubt`.
 - `kāmacchanda` appears only in Mālukyaputta's opening list and the infant
   challenge. The main analysis uses `kāma-rāga`, so the translation shifts
@@ -82,7 +82,7 @@ source-audit calls, and edition notes that govern it.
   practical point that lower fetters are not reached by skipping the path that
   cuts through the outer layers first.
 - The Ganges simile renders `cittaṃ pakkhandati pasīdati santiṭṭhati
-  vimuccati` as the feeling mind leaping forward, becoming confident,
+  vimuccati` as the heart leaping forward, becoming confident,
   settling, and being released. This keeps four movements audible rather than
   flattening the line into generic faith.
 - `upadhivivekā` is rendered `with seclusion from supports`. This keeps the
@@ -113,7 +113,7 @@ source-audit calls, and edition notes that govern it.
 ## Practice Clarifications
 
 - MN 64 is a key surface for keeping `anusaya` and `saṃyojana` apart. A fetter
-  can be actively overwhelming the feeling mind, while an underlying tendency
+  can be actively overwhelming the heart, while an underlying tendency
   can lie underneath even when the active object has not yet appeared.
 - The infant simile matters because it blocks a shallow reading in which only
   currently manifest states count. The child does not yet have identity,
@@ -125,7 +125,7 @@ source-audit calls, and edition notes that govern it.
   the point that knowing, seeing, and abandoning the lower fetters requires the
   path and way of practice.
 - The mental themes and formless spheres are not treated as final destinations.
-  In each case the bhikkhu turns the feeling mind back from whatever dhammas
+  In each case the bhikkhu turns the heart back from whatever dhammas
   are present there and brings it to the element of the deathless.
 - The analysis of form, felt experience, recognition, putting things together,
   and knowing keeps refined meditative experience inside the same

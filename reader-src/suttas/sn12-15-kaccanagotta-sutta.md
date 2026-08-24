@@ -7,7 +7,7 @@
 
 *SN 12.15, the Kaccānagotta Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 429 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 428 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -43,7 +43,7 @@ the view of existence regarding the world does not occur.
 
 This world is for the most part bound by approach, taking personally, and
 insistence. But someone who — with regard to all that approach, taking
-personally, fixation of the feeling mind, insistence, and underlying tendency —
+personally, fixation of the heart, insistence, and underlying tendency —
 does not approach, does not take personally, does not fixate on 'my self': they
 have no doubt or uncertainty. What arises is just suffering arising; what
 ceases is just suffering ceasing. Their knowledge of this is independent of
@@ -102,12 +102,12 @@ The fifth discourse is finished.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -149,9 +149,9 @@ The fifth discourse is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

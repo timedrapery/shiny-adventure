@@ -7,7 +7,7 @@
 
 *SN 12.61, the Assutavā Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 733 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 730 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -47,7 +47,7 @@ great elements can be seen, its being taken up and its being put down. So an
 unlearned ordinary person might well grow disenchanted with it, might well fade
 toward it, might well be released from it.
 
-But as for what is called the feeling mind, and the thinking mind, and knowing
+But as for what is called the heart, and the thinking mind, and knowing
 — an unlearned ordinary person is not able to grow disenchanted with that, not
 able to fade toward it, not able to be released from it.
 
@@ -69,12 +69,12 @@ Because this body made of the four great elements is seen to last one year, two
 years, three, four, five, ten, twenty, thirty, forty, fifty years, a hundred
 years, and longer.
 
-But as for what is called the feeling mind, and the thinking mind, and knowing
+But as for what is called the heart, and the thinking mind, and knowing
 — by night and by day it arises as one thing and ceases as another.
 
 Suppose a monkey roaming the forest wilds takes hold of a branch, lets it go
 and takes hold of another, lets that go and takes hold of another. In the same
-way, bhikkhus, what is called the feeling mind, and the thinking mind, and
+way, bhikkhus, what is called the heart, and the thinking mind, and
 knowing — by night and by day it arises as one thing and ceases as another.
 
 ### How the Learned Disciple Attends
@@ -152,12 +152,12 @@ The first discourse is finished.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -206,9 +206,9 @@ The first discourse is finished.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

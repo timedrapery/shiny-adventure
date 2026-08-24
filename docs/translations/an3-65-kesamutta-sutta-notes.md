@@ -14,7 +14,7 @@ source-audit calls, and edition notes that govern it.
   `upekkhā`, `citta`, `sampajañña`, `sati`, `abhijjhā`, and `byāpāda`.
 - Working method: the discourse was governed as the repository's control
   surface for the ten-criterion epistemological instruction and the four
-  consolations that arise for a practitioner whose feeling mind is free of
+  consolations that arise for a practitioner whose heart is free of
   greed, aversion, and delusion.
 
 ## Governing Decisions
@@ -37,7 +37,7 @@ source-audit calls, and edition notes that govern it.
   pleasure; `lobha` (greed) names the acquisitive grasping that results.
   In AN 3.65 the three roots `lobha / dosa / moha` are used in their active,
   behavioural sense — they are what overwhelms (`abhibhūto`) the person and
-  takes over the feeling mind, leading to misconduct.
+  takes over the heart, leading to misconduct.
 - `dosa` is rendered `aversion` (house default). In the brahmavihāra
   description that follows the three-roots analysis, `byāpāda` (aversive
   distraction) is used in the phrase `vigatabyāpādo` (free of aversive
@@ -61,9 +61,9 @@ source-audit calls, and edition notes that govern it.
   tathā tatiyaṁ, tathā catutthaṁ, iti uddhamadho tiriyaṁ sabbadhi sabbattatāya
   sabbāvantaṁ lokaṁ ... cetasā vipulena mahaggatena appamāṇena averena
   abyāpajjhena pharitvā viharati` — is rendered: "dwells pervading one
-  direction with a feeling mind filled with [X], likewise the second, likewise
+  direction with a heart filled with [X], likewise the second, likewise
   the third, likewise the fourth — thus above, below, across, everywhere, for
-  all as for oneself, they dwell pervading the entire world with a feeling mind
+  all as for oneself, they dwell pervading the entire world with a heart
   filled with [X], vast, expansive, boundless, without enmity and without ill
   will." The phrase `sabbattatāya` (for all as for oneself) is translated
   literally rather than collapsed into "everywhere."
@@ -81,7 +81,7 @@ source-audit calls, and edition notes that govern it.
   logical possibilities regarding karma and the afterlife. No single position
   needs to be established for the practice to be worthwhile.
 - `averacitto abyāpajjhacitto asaṅkiliṭṭhacitto visuddhacitto` = "with a
-  feeling mind free of enmity, free of ill will, uncorrupted and pure." These
+  heart free of enmity, free of ill will, uncorrupted and pure." These
   four qualities describe the noble disciple after having cultivated the four
   brahmavihāras. They repeat the same four-quality description twice in the
   discourse — once in the Buddha's statement (an3.65:43, an3.65:47)
@@ -102,7 +102,7 @@ source-audit calls, and edition notes that govern it.
 - `karuṇā` → `kindness towards others` (major)
 - `muditā` → `gladness` (major)
 - `upekkhā` → `dynamic balance` (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 - `sampajañña` → `clear knowing` (major)
 - `sati` → `remembering` (major)
 - `abhijjhā` → `coveting` (minor)

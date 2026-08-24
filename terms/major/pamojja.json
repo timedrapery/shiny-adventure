@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The actively cultivated state of gladness that arises with confidence and immediately precedes rejoicing in the positive dependent-arising sequence; the practitioner does not wait for this state but brings the mind into it.",
-  "notes": "The project keeps actively happy state as the default because it preserves what the Buddha pointed to: with the confidence born of correct practice, the practitioner actively gets the mind into a gladdened state. This is not a passive emotion but a deliberate bringing-forward of gladness — the same move described as abhippamodayaṁ cittaṁ (gladdening the feeling mind) in the ānāpānassati formula. Pāmojja should stay distinct from pīti: pāmojja is the earlier active cultivation of gladness, while pīti is the rejoicing that arises from it. The sequence in SN 12.23 makes this order explicit: confidence → actively happy state → rejoicing → relaxation → satisfaction → composure. Discouraging joy and happiness prevents pāmojja from being collapsed with pīti and sukha under generic affect labels.",
+  "notes": "The project keeps actively happy state as the default because it preserves what the Buddha pointed to: with the confidence born of correct practice, the practitioner actively gets the mind into a gladdened state. This is not a passive emotion but a deliberate bringing-forward of gladness — the same move described as abhippamodayaṁ cittaṁ (gladdening the heart) in the ānāpānassati formula. Pāmojja should stay distinct from pīti: pāmojja is the earlier active cultivation of gladness, while pīti is the rejoicing that arises from it. The sequence in SN 12.23 makes this order explicit: confidence → actively happy state → rejoicing → relaxation → satisfaction → composure. Discouraging joy and happiness prevents pāmojja from being collapsed with pīti and sukha under generic affect labels.",
   "context_rules": [
     {
       "context": "In the positive dependent-arising sequence and related practice passages",
@@ -54,7 +54,7 @@
     },
     {
       "pali": "abhippamodayaṃ cittaṃ",
-      "translation": "gladdening the feeling mind",
+      "translation": "gladdening the heart",
       "notes": "The ānāpānassati step that describes the same active cultivation of gladness.",
       "source": "AN 10.60"
     }

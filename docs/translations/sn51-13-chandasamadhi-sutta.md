@@ -10,8 +10,8 @@
   Bilara data.
 - House choices that most affect this sutta: `chanda` is rendered `desire`;
   `iddhipāda` is rendered `basis of power`; `vīmaṁsā` is rendered
-  `investigation`; `vīriya` is rendered `energy`; `citta` is rendered `feeling
-  mind`; `samādhi` is rendered `mental composure`; `ekaggatā` is rendered
+  `investigation`; `vīriya` is rendered `energy`; `citta` is rendered `heart`;
+  `samādhi` is rendered `mental composure`; `ekaggatā` is rendered
   `directness`; `padhāna` is rendered `exertion`, so `padhānasaṅkhārā` are
   `exertion conditioners`; and `kusala` and `akusala` are rendered
   `wholesome` and `unwholesome`.
@@ -29,23 +29,23 @@
 ### Composure Through Desire
 
 "Bhikkhus, if a bhikkhu gains mental composure in dependence on desire, gains
-directness of feeling mind, this is called composure through desire.
+directness of heart, this is called composure through desire.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the abandoning of arisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the arising of unarisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 They generate desire for the continuation, non-confusion, increase,
 abundance, development, and fulfilment of arisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 These are called the exertion conditioners.
@@ -59,12 +59,12 @@ desire together with the exertion conditioners.
 ### Composure Through Energy
 
 Bhikkhus, if a bhikkhu gains mental composure in dependence on energy, gains
-directness of feeling mind, this is called composure through energy.
+directness of heart, this is called composure through energy.
 
 They generate desire for the non-arising of unarisen ... they generate desire
 for the continuation, non-confusion, increase, abundance, development, and
 fulfilment of arisen wholesome qualities; they make an effort, arouse energy,
-take hold of the feeling mind, and exert themselves.
+take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
@@ -74,37 +74,37 @@ conditioners.
 This, bhikkhus, is called the basis of power that possesses composure through
 energy together with the exertion conditioners.
 
-### Composure Through the Feeling Mind
+### Composure Through the Heart
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on the feeling
-mind, gains directness of feeling mind, this is called composure through the
-feeling mind.
+Bhikkhus, if a bhikkhu gains mental composure in dependence on the heart,
+gains directness of heart, this is called composure through the
+heart.
 
 They generate desire for the non-arising of unarisen harmful ... they generate
 desire for the continuation, non-confusion, increase, abundance, development,
 and fulfilment of arisen wholesome qualities; they make an effort, arouse
-energy, take hold of the feeling mind, and exert themselves.
+energy, take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
-So there is this feeling mind, and this composure through the feeling mind,
+So there is this heart, and this composure through the heart,
 and these exertion conditioners.
 
 This, bhikkhus, is called the basis of power that possesses composure through
-the feeling mind together with the exertion conditioners.
+the heart together with the exertion conditioners.
 
 ### Composure Through Investigation
 
 Bhikkhus, if a bhikkhu gains mental composure in dependence on investigation,
-gains directness of feeling mind, this is called composure through
+gains directness of heart, this is called composure through
 investigation.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves ... they generate desire for the continuation,
 non-confusion, increase, abundance, development, and fulfilment of arisen
 wholesome qualities; they make an effort, arouse energy, take hold of the
-feeling mind, and exert themselves.
+heart, and exert themselves.
 
 These are called the exertion conditioners.
 

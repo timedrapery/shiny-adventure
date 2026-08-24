@@ -35,11 +35,11 @@ source-audit calls, and edition notes that govern it.
   (simple + pa- + ni- + ava- prefixed forms of the same root) show escalating
   fixation on the distraction as theme. The rendering keeps each step
   distinct without importing clinical psychology vocabulary.
-- `citta` in `pariyuṭṭhitena cetasā viharati` is rendered `feeling mind`,
+- `citta` in `pariyuṭṭhitena cetasā viharati` is rendered `heart`,
   the house default. `Pariyuṭṭhita` (overcome, beset) is rendered `overcome`;
   `pareta` (seized, overpowered) is rendered `seized`. The phrase
   `kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena` becomes `remain
-  with their feeling mind overcome and seized by sensual distraction`. The
+  with their heart overcome and seized by sensual distraction`. The
   double adjective (overcome + seized) appears only for the first and fifth
   distractions (kāmacchanda and vicikicchā); the middle three use only
   `overcome`.
@@ -49,8 +49,8 @@ source-audit calls, and edition notes that govern it.
   why the thoroughbred holds none of them as theme. This is the sutta's
   central explanatory formula and the heading of the final section.
 - `mano` in `anuvicaritaṁ manasā` is rendered `thinking mind`, the house
-  default for `mano`. This keeps `mano` distinct from `citta` (`feeling
-  mind`) throughout the eleven-bases list.
+  default for `mano`. This keeps `mano` distinct from `citta` (`heart`)
+  throughout the eleven-bases list.
 
 ## Existing Control Records Reused
 
@@ -60,7 +60,7 @@ have sufficient lexicon coverage:
 - `jhāyati` → `think like this` (major, reviewed)
 - `jhāna` → `mental theme` (major, reviewed)
 - `nīvaraṇa` members → governed distraction-family renderings (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 - `mano` → `thinking mind` (major)
 - `saññā` → `recognition` (major)
 

@@ -3,18 +3,18 @@
   "normalized_term": "cittanupassana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "contemplation of the feeling mind",
-  "preferred_translation": "contemplation of the feeling mind",
+  "literal_meaning": "contemplation of the heart",
+  "preferred_translation": "contemplation of the heart",
   "alternative_translations": [
-    "feeling-mind contemplation",
+    "heart contemplation",
     "contemplation of mind"
   ],
   "discouraged_translations": [
     "mindfulness of thoughts"
   ],
   "untranslated_preferred": false,
-  "definition": "Contemplation of the feeling mind in the satipaṭṭhāna framework.",
-  "notes": "Use this record for the citta branch of satipaṭṭhāna. Keep it aligned with the repository's feeling-mind policy so the branch does not collapse into generic cognition or thought-watching.",
+  "definition": "Contemplation of the heart in the satipaṭṭhāna framework.",
+  "notes": "Use this record for the citta branch of satipaṭṭhāna. Keep it aligned with the repository's heart policy so the branch does not collapse into generic cognition or thought-watching.",
   "related_terms": [
     "citta",
     "satipatthana",
@@ -23,7 +23,7 @@
   "example_phrases": [
     {
       "pali": "citte cittānupassī viharati",
-      "translation": "one remains observing the feeling mind in relation to the feeling mind",
+      "translation": "one remains observing the heart in relation to the heart",
       "notes": "Standard satipaṭṭhāna formula aligned with the repo's citta policy.",
       "source": "DN 22"
     }

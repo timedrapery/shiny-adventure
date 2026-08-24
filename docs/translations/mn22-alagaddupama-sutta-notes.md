@@ -59,7 +59,7 @@ source-audit calls, and edition notes that govern it.
   `nīvaraṇa`).
 - `diṭṭhiṭṭhāna` is rendered "ground for views." The sutta names six grounds:
   the five heaps (individually) + whatever is seen, heard, sensed, known,
-  reached, sought, and explored by the feeling mind + the eternalist view. On
+  reached, sought, and explored by the heart + the eternalist view. On
   each of these grounds, the untrained person makes the "mine / I am / my self"
   claim. Resolved: `diṭṭhiṭṭhāna` now has a minor entry,
   `terms/minor/ditthitthana.json`.

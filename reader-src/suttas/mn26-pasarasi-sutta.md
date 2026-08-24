@@ -7,7 +7,7 @@
 
 *MN 26, the Pāsarāsi Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,411 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,410 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -605,7 +605,7 @@ This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
 
 Furthermore, bhikkhus, with the settling of placing and keeping the mind,
-internally confident, with a unified feeling mind, without placing and keeping
+internally confident, with a unified heart, without placing and keeping
 the mind, a bhikkhu enters and remains in the second mental theme with
 rejoicing and satisfaction born of mental composure.
 
@@ -708,8 +708,6 @@ The sixth discourse is finished.
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
@@ -718,6 +716,8 @@ The sixth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -781,10 +781,10 @@ The sixth discourse is finished.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

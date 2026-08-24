@@ -31,7 +31,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   `directness`, not one-pointedness.
 - `jhāna` remains `mental theme`.
 - `jhāyatha` remains `think like this`, not meditate or practice absorption.
-- `citta` remains `feeling mind` in the explanatory and practical lines of the
+- `citta` remains `heart` in the explanatory and practical lines of the
   discourse.
 
 ## Re-audit Calls
@@ -41,7 +41,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   The point is practical sorting, not mystical inwardness.
 - `yaññadeva ... bahulamanuvitakketi anuvicāreti, tathā tathā nati hoti
   cetaso` is rendered `Whatever a bhikkhu frequently thinks and ponders,
-  toward that the feeling mind inclines` so the line stays active, practical,
+  toward that the heart inclines` so the line stays active, practical,
   and closer to the directional force of the source.
 - The `viharantaṁ` lines are rendered with direct timing language such as
   `while I was diligent, ardent, and resolved` rather than inherited
@@ -50,10 +50,10 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `satikaraṇīyameva ahosi: ete dhammā` is rendered `I only needed to remember:
   'These dhammas are here.'` The line is kept tied to remembering-language
   rather than recast as bare awareness.
-- `samāhitaṁ cittaṁ ekaggaṁ` is rendered `the feeling mind was well-composed
+- `samāhitaṁ cittaṁ ekaggaṁ` is rendered `the heart was well-composed
   and direct` so the line stays aligned with current repo handling of
   `samādhi` and `ekaggatā`.
-- The three-knowledges section now uses `With the feeling mind well-composed
+- The three-knowledges section now uses `With the heart well-composed
   ...` as its repeated cadence so the stock formula remains
   visible without sounding mechanically copied.
 - `vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi` is rendered `When it was freed, there
@@ -76,7 +76,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   and cultivates.
 - The second half of the discourse is equally important. Once wholesome
   thinking is established, the training is not endless discursiveness. The
-  feeling mind is stilled, settled, made direct, and brought into mental
+  heart is stilled, settled, made direct, and brought into mental
   composure.
 - The first mental theme is therefore not treated in this repository as a
   separate trance system disconnected from right thinking. In MN 19 the line
@@ -112,7 +112,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   classes, repeated consequences, similes, and knowledge sequence remain
   intact.
 - Governed wording left unchanged: the final `Think like this` instruction and
-  `feeling mind` / `mental theme` vocabulary remain repository-level choices
+  `heart` / `mental theme` vocabulary remain repository-level choices
   and were not replaced with more familiar meditation language.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.

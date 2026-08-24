@@ -12,7 +12,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [abhijjha-kayagantha](../../terms/minor/abhijjha-kayagantha.json) | abhijjhā kāyagantha | bodily knot of coveting | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [abhijjha](../../terms/minor/abhijjha.json) | abhijjhā | coveting | reviewed | mental-qualities, ethics |
 | [abhinivesa](../../terms/minor/abhinivesa.json) | abhinivesa | insistence | reviewed | core-doctrine, self-view |
-| [abhippamodaya-cittam](../../terms/minor/abhippamodaya-cittam.json) | abhippamodayaṃ cittaṃ | gladdening the feeling mind | stable | core-practice, meditative-development, formula, translation-sensitive |
+| [abhippamodaya-cittam](../../terms/minor/abhippamodaya-cittam.json) | abhippamodayaṃ cittaṃ | gladdening the heart | stable | core-practice, meditative-development, formula, translation-sensitive |
 | [abhisamaya](../../terms/minor/abhisamaya.json) | abhisamaya | penetration | reviewed | core-doctrine |
 | [abhisandeti-parisandeti-paripureti-parippharati](../../terms/minor/abhisandeti-parisandeti-paripureti-parippharati.json) | abhisandeti parisandeti paripūreti parippharati | drenches, saturates, fills, and spreads | reviewed | core-practice, formula, mental-theme |
 | [abhisankhara](../../terms/minor/abhisankhara.json) | abhisaṅkhāra | active constructing | reviewed | core-doctrine, dependent-origination |
@@ -244,7 +244,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [citta-sankhara](../../terms/minor/citta-sankhara.json) | cittasaṅkhāra | mind conditioner | reviewed | mental-qualities, translation-sensitive |
 | [citta-ujjukata](../../terms/minor/citta-ujjukata.json) | citta-ujjukata | uprightness of mind | reviewed | mental-qualities |
 | [cittabhavana](../../terms/minor/cittabhavana.json) | cittabhāvanā | development of mind | reviewed | core-practice, meditative-development |
-| [cittanupassana](../../terms/minor/cittanupassana.json) | cittānupassanā | contemplation of the feeling mind | reviewed | core-practice |
+| [cittanupassana](../../terms/minor/cittanupassana.json) | cittānupassanā | contemplation of the heart | reviewed | core-practice |
 | [civara](../../terms/minor/civara.json) | cīvara | robe | reviewed | core-practice |
 | [civarapaccaya](../../terms/minor/civarapaccaya.json) | cīvarapaccaya | robe support | reviewed | core-practice |
 | [cunda](../../terms/minor/cunda.json) | Cunda | Cunda | reviewed | persons |

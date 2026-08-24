@@ -48,9 +48,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `upekkhā` in the third and fourth mental themes is rendered `dynamic
   balance` (major, house default). `Upekkhāsatipārisuddhiṁ` in the fourth
   mental theme is rendered `pure dynamic balance and remembering`.
-- `citta` is rendered `feeling mind` throughout. In the body-permeation
+- `citta` is rendered `heart` throughout. In the body-permeation
   formulas for the fourth mental theme, `parisuddhena cetasā pariyodātena`
-  is rendered `pure, bright feeling mind`.
+  is rendered `pure, bright heart`.
 - `āsava` is rendered `outflow` (major). The three outflows — `kāmāsava`,
   `bhavāsava`, `avijjāsava` — are rendered `outflow of sensual desire`,
   `outflow of becoming`, and `outflow of ignorance`.
@@ -71,7 +71,7 @@ sufficient lexicon coverage:
 - `pīti` → `rejoicing` (major)
 - `upekkhā` → `dynamic balance` (major)
 - `āsava` → `outflow` (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 - `paññā` → `discernment` (major)
 - `samādhi` → `mental composure` (major)
 - `vedanā` → `felt experience` (major) — in the eating section

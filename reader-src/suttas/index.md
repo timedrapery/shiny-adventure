@@ -28,7 +28,7 @@ All 46 translations, grouped by collection. If you would rather be guided, use [
 - [**The Five Lower Fetters**](mn64-mahamalukya-sutta.md) — MN 64 · Mahāmālukya Sutta · Set 5. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
 - [**Household Life or Renunciant Life?**](mn99-subha-sutta.md) — MN 99 · Subha Sutta · Set 5. A dialogue defending renunciant life against a brahmin's claim that household life is better.
 - [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · Set 5. A technical analysis of the eightfold path, factor by factor.
-- [**Breath Meditation, Step by Step**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · Set 3. Structured breath-meditation instructions.
+- [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
 - [**The Six Fields of Experience**](mn137-salayatanavibhanga-sutta.md) — MN 137 · Saḷāyatanavibhaṅga Sutta · Set 5. A technical analysis of the six fields of experience.
 - [**The Four Truths in Detail**](mn141-saccavibhanga-sutta.md) — MN 141 · Saccavibhaṅga Sutta · Set 5. The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.
 - [**Not-Self at the Six Sense Doors**](mn148-chachakka-sutta.md) — MN 148 · Chachakka Sutta · Set 4. A systematic, almost mechanical working-through of not-self across every sense door.

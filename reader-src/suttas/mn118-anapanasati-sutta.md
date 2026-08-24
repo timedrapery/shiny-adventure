@@ -3,24 +3,24 @@
      not this one. Newcomer guidance comes from includes/newcomer-guides;
      legacy reader introductions are preserved across regeneration. -->
 
-# Breath Meditation, Step by Step
+# Remembering the Dhamma While Breathing In and Out
 
 *MN 118, the Ānāpānasati Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,029 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,008 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-This is a practice manual. Sixteen steps built on watching the breath, and
-then an argument: those sixteen fill out the four establishments of
-remembering, which fill out the seven awakening factors, which complete
-knowledge and release.
+This is a practice manual. Sixteen steps use each in-breath and out-breath as
+the occasion for remembering the Dhamma. Those sixteen fill out the four
+establishments of remembering, which fill out the seven awakening factors,
+which complete knowledge and release.
 
-The chaining is what makes it interesting. Rather than offering breath
-meditation as one technique among many, the text treats it as the thread the
-rest of the practice hangs from.
+This is not "breath meditation." The breathing continues throughout,
+but the work is to remember and carry out the training: experience the body,
+gladden and steady the heart, observe change, and let go.
 
 Read the sixteen slowly. They are terse, and each one is doing something
 specific that the next one builds on.
@@ -147,16 +147,16 @@ Felt-experience trainings:
 - They train: 'Breathing in, I will calm the mind conditioner.' They train:
   'Breathing out, I will calm the mind conditioner.'
 
-Feeling-mind trainings:
-- They train: 'Breathing in, I will experience the feeling mind.' They train:
-  'Breathing out, I will experience the feeling mind.'
-- They train: 'Breathing in, I will gladden the feeling mind.' They train:
-  'Breathing out, I will gladden the feeling mind.'
-- They train: 'Breathing in, I will bring the feeling mind to mental
-  composure.' They train: 'Breathing out, I will bring the feeling mind to
+Heart trainings:
+- They train: 'Breathing in, I will experience the heart.' They train:
+  'Breathing out, I will experience the heart.'
+- They train: 'Breathing in, I will gladden the heart.' They train:
+  'Breathing out, I will gladden the heart.'
+- They train: 'Breathing in, I will bring the heart to mental
+  composure.' They train: 'Breathing out, I will bring the heart to
   mental composure.'
-- They train: 'Breathing in, I will free the feeling mind.' They train:
-  'Breathing out, I will free the feeling mind.'
+- They train: 'Breathing in, I will free the heart.' They train:
+  'Breathing out, I will free the heart.'
 
 Dhamma-related trainings:
 - They train: 'Breathing in, I will observe impermanence.' They train:
@@ -192,14 +192,14 @@ is one kind of felt experience. Therefore they remain observing felt experience
 in relation to felt experience, ardent, with clear knowing, with remembering,
 having removed coveting and distress regarding the world.
 
-"Whenever a bhikkhu trains in experiencing the feeling mind, or gladdening the
-feeling mind, or bringing the feeling mind to mental composure, or freeing the
-feeling mind, then they remain observing the feeling mind in relation to the feeling
-mind, ardent, with clear knowing, with remembering, having removed coveting and
+"Whenever a bhikkhu trains in experiencing the heart, or gladdening the
+heart, or bringing the heart to mental composure, or freeing the
+heart, then they remain observing the heart in relation to the heart, ardent,
+with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
 remembering has slipped and clear knowing is absent. Therefore they remain
-observing the feeling mind in relation to the feeling
-mind, ardent, with clear knowing, with remembering, having removed coveting and
+observing the heart in relation to the heart, ardent, with clear knowing,
+with remembering, having removed coveting and
 distress regarding the world.
 
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
@@ -239,20 +239,20 @@ through development.
 awakening factor is aroused. They develop it, and it comes to fulfillment
 through development.
 
-"When rejoicing fills them, their body and feeling mind relax. Then the
+"When rejoicing fills them, their body and heart relax. Then the
 relaxation awakening factor is aroused. They develop it, and it comes to
 fulfillment through development.
 
-"When the body is relaxed and they experience ease, the feeling mind comes to
+"When the body is relaxed and they experience ease, the heart comes to
 mental composure. Then the awakening factor of mental composure is aroused.
 They develop it, and it comes to fulfillment through development.
 
-"They then look carefully with dynamic balance at that well-composed feeling
-mind. Then the dynamic balance awakening factor is aroused. They develop it,
+"They then look carefully with dynamic balance at that well-composed heart.
+Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 
 "The same is true when a bhikkhu remains observing felt experience in relation
-to felt experience, the feeling mind in relation to the feeling mind, or
+to felt experience, the heart in relation to the heart, or
 dhammas among dhammas, ardent, with clear knowing, with remembering, having
 removed coveting and distress regarding the world.
 
@@ -316,14 +316,14 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>kindness towards others</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;karuṇā&quot; (often translated &quot;compassion&quot;) -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -363,10 +363,10 @@ Buddha had said.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.

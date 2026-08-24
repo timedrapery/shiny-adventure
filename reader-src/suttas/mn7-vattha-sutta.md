@@ -7,7 +7,7 @@
 
 *MN 7, the Vattha Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 11 min · 1,979 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 11 min · 1,911 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -54,7 +54,7 @@ Why is that?
 
 Because the cloth is impure.
 
-In the same way, bhikkhus, when the feeling mind is corrupted, a bad
+In the same way, bhikkhus, when the heart is corrupted, a bad
 destination can be expected.
 
 "Bhikkhus, suppose a cloth were pure and bright. Whatever color a dyer might
@@ -65,81 +65,81 @@ Why is that?
 
 Because the cloth is pure.
 
-In the same way, bhikkhus, when the feeling mind is uncorrupted, a good
+In the same way, bhikkhus, when the heart is uncorrupted, a good
 destination can be expected.
 
-### Corruptions Of The Feeling Mind
+### Corruptions of the Heart
 
-"And what, bhikkhus, are the corruptions of the feeling mind?
+"And what, bhikkhus, are the corruptions of the heart?
 
-Covetous distorted greed is a corruption of the feeling mind. Ill will is a
-corruption of the feeling mind. Anger is a corruption of the feeling mind.
-Resentment is a corruption of the feeling mind. Contempt is a corruption of
-the feeling mind. Rivalry is a corruption of the feeling mind. Envy is a
-corruption of the feeling mind. Stinginess is a corruption of the feeling
-mind. Deceit is a corruption of the feeling mind. Fraudulence is a corruption
-of the feeling mind. Stubbornness is a corruption of the feeling mind.
-Contentious aggression is a corruption of the feeling mind. Conceit is a
-corruption of the feeling mind. Inflated conceit is a corruption of the
-feeling mind. Arrogant intoxication is a corruption of the feeling mind.
-Heedlessness is a corruption of the feeling mind.
+Covetous distorted greed is a corruption of the heart. Ill will is a
+corruption of the heart. Anger is a corruption of the heart.
+Resentment is a corruption of the heart. Contempt is a corruption of
+the heart. Rivalry is a corruption of the heart. Envy is a
+corruption of the heart. Stinginess is a corruption of the heart. Deceit is a
+corruption of the heart. Fraudulence is a corruption
+of the heart. Stubbornness is a corruption of the heart.
+Contentious aggression is a corruption of the heart. Conceit is a
+corruption of the heart. Inflated conceit is a corruption of the
+heart. Arrogant intoxication is a corruption of the heart.
+Heedlessness is a corruption of the heart.
 
-"A bhikkhu, knowing, 'Covetous distorted greed is a corruption of the feeling
-mind,' abandons covetous distorted greed as a corruption of the feeling mind.
+"A bhikkhu, knowing, 'Covetous distorted greed is a corruption of the heart,'
+abandons covetous distorted greed as a corruption of the heart.
 
-Knowing, 'Ill will is a corruption of the feeling mind,' they abandon ill will
-as a corruption of the feeling mind.
+Knowing, 'Ill will is a corruption of the heart,' they abandon ill will
+as a corruption of the heart.
 
-Knowing, 'Anger is a corruption of the feeling mind,' they abandon anger as a
-corruption of the feeling mind.
+Knowing, 'Anger is a corruption of the heart,' they abandon anger as a
+corruption of the heart.
 
-Knowing, 'Resentment is a corruption of the feeling mind,' they abandon
-resentment as a corruption of the feeling mind.
+Knowing, 'Resentment is a corruption of the heart,' they abandon
+resentment as a corruption of the heart.
 
-Knowing, 'Contempt is a corruption of the feeling mind,' they abandon contempt
-as a corruption of the feeling mind.
+Knowing, 'Contempt is a corruption of the heart,' they abandon contempt
+as a corruption of the heart.
 
-Knowing, 'Rivalry is a corruption of the feeling mind,' they abandon rivalry as
-a corruption of the feeling mind.
+Knowing, 'Rivalry is a corruption of the heart,' they abandon rivalry as
+a corruption of the heart.
 
-Knowing, 'Envy is a corruption of the feeling mind,' they abandon envy as a
-corruption of the feeling mind.
+Knowing, 'Envy is a corruption of the heart,' they abandon envy as a
+corruption of the heart.
 
-Knowing, 'Stinginess is a corruption of the feeling mind,' they abandon
-stinginess as a corruption of the feeling mind.
+Knowing, 'Stinginess is a corruption of the heart,' they abandon
+stinginess as a corruption of the heart.
 
-Knowing, 'Deceit is a corruption of the feeling mind,' they abandon deceit as a
-corruption of the feeling mind.
+Knowing, 'Deceit is a corruption of the heart,' they abandon deceit as a
+corruption of the heart.
 
-Knowing, 'Fraudulence is a corruption of the feeling mind,' they abandon
-fraudulence as a corruption of the feeling mind.
+Knowing, 'Fraudulence is a corruption of the heart,' they abandon
+fraudulence as a corruption of the heart.
 
-Knowing, 'Stubbornness is a corruption of the feeling mind,' they abandon
-stubbornness as a corruption of the feeling mind.
+Knowing, 'Stubbornness is a corruption of the heart,' they abandon
+stubbornness as a corruption of the heart.
 
-Knowing, 'Contentious aggression is a corruption of the feeling mind,' they
-abandon contentious aggression as a corruption of the feeling mind.
+Knowing, 'Contentious aggression is a corruption of the heart,' they
+abandon contentious aggression as a corruption of the heart.
 
-Knowing, 'Conceit is a corruption of the feeling mind,' they abandon conceit as
-a corruption of the feeling mind.
+Knowing, 'Conceit is a corruption of the heart,' they abandon conceit as
+a corruption of the heart.
 
-Knowing, 'Inflated conceit is a corruption of the feeling mind,' they abandon
-inflated conceit as a corruption of the feeling mind.
+Knowing, 'Inflated conceit is a corruption of the heart,' they abandon
+inflated conceit as a corruption of the heart.
 
-Knowing, 'Arrogant intoxication is a corruption of the feeling mind,' they
-abandon arrogant intoxication as a corruption of the feeling mind.
+Knowing, 'Arrogant intoxication is a corruption of the heart,' they
+abandon arrogant intoxication as a corruption of the heart.
 
-Knowing, 'Heedlessness is a corruption of the feeling mind,' they abandon
-heedlessness as a corruption of the feeling mind.
+Knowing, 'Heedlessness is a corruption of the heart,' they abandon
+heedlessness as a corruption of the heart.
 
 ### Verified Confidence
 
 "When a bhikkhu has known, 'Covetous distorted greed is a corruption of the
-feeling mind,' and covetous distorted greed has been abandoned as a corruption
-of the feeling mind; when ill will, anger, resentment, contempt, rivalry, envy,
+heart,' and covetous distorted greed has been abandoned as a corruption
+of the heart; when ill will, anger, resentment, contempt, rivalry, envy,
 stinginess, deceit, fraudulence, stubbornness, contentious aggression, conceit,
 inflated conceit, arrogant intoxication, and heedlessness have each been known
-and abandoned as corruptions of the feeling mind, then they are equipped with
+and abandoned as corruptions of the heart, then they are equipped with
 verified confidence in the Buddha:
 
 'That Blessed One is the arahant, the fully awakened Buddha, accomplished in
@@ -167,7 +167,7 @@ and relinquished, they think:
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the feeling mind becomes composed.
+When they feel ease, the heart becomes composed.
 
 "They think:
 
@@ -176,7 +176,7 @@ When they feel ease, the feeling mind becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the feeling mind becomes composed.
+When they feel ease, the heart becomes composed.
 
 "They think:
 
@@ -185,7 +185,7 @@ When they feel ease, the feeling mind becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the feeling mind becomes composed.
+When they feel ease, the heart becomes composed.
 
 "They think:
 
@@ -195,7 +195,7 @@ and relinquished.'
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the feeling mind becomes composed.
+When they feel ease, the heart becomes composed.
 
 ### No Obstacle
 
@@ -212,29 +212,29 @@ many soups and many curries, and that will not be an obstacle.
 
 ### The Four Divine Abidings
 
-"With a feeling mind accompanied by friendliness, they pervade one direction,
+"With a heart accompanied by friendliness, they pervade one direction,
 then the second, then the third, then the fourth. In the same way above, below,
 across, everywhere, and to all as to themselves, they remain pervading the
-whole world with a feeling mind accompanied by friendliness: expansive, grown
+whole world with a heart accompanied by friendliness: expansive, grown
 great, measureless, free from enmity, and free from oppression.
 
-"With a feeling mind accompanied by kindness towards others, they pervade one
+"With a heart accompanied by kindness towards others, they pervade one
 direction, then the second, then the third, then the fourth. In the same way
 above, below, across, everywhere, and to all as to themselves, they remain
-pervading the whole world with a feeling mind accompanied by kindness towards
+pervading the whole world with a heart accompanied by kindness towards
 others: expansive, grown great, measureless, free from enmity, and free from
 oppression.
 
-"With a feeling mind accompanied by gladness, they pervade one direction, then
+"With a heart accompanied by gladness, they pervade one direction, then
 the second, then the third, then the fourth. In the same way above, below,
 across, everywhere, and to all as to themselves, they remain pervading the
-whole world with a feeling mind accompanied by gladness: expansive, grown
+whole world with a heart accompanied by gladness: expansive, grown
 great, measureless, free from enmity, and free from oppression.
 
-"With a feeling mind accompanied by dynamic balance, they pervade one
+"With a heart accompanied by dynamic balance, they pervade one
 direction, then the second, then the third, then the fourth. In the same way
 above, below, across, everywhere, and to all as to themselves, they remain
-pervading the whole world with a feeling mind accompanied by dynamic balance:
+pervading the whole world with a heart accompanied by dynamic balance:
 expansive, grown great, measureless, free from enmity, and free from
 oppression.
 
@@ -245,7 +245,7 @@ oppression.
 'There is this. There is what is low. There is what is refined. There is an
 escape beyond this field reached by recognition.'
 
-"Knowing and seeing like this, the feeling mind is released from the sensual
+"Knowing and seeing like this, the heart is released from the sensual
 outflow, from the outflow of becoming, and from the outflow of ignorance.
 
 When it is released, there is the knowledge:
@@ -364,8 +364,6 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
@@ -374,6 +372,8 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>Leaving household life to live as a monastic.</dd>
 <dt><dfn>greed</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>kamma</dfn></dt>
@@ -417,11 +417,11 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[going forth]: Leaving household life to live as a monastic.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
