@@ -3,14 +3,14 @@
 ## Path Rule
 
 - `sammā-samādhi` is the first, second, third, and fourth `jhāna`.
-- Keep `right mental composure` as the default rendering for the path factor while making that fourfold identity explicit in notes and explanations.
+- Keep `right composure` as the default rendering for the path factor while making that fourfold identity explicit in notes and explanations.
 
 ## Core Defaults
 
 - `jhāna` -> `mental theme`
 - `jhāyati` -> `think like this`
 - `ekaggatā` -> `directness`
-- `samādhi` -> `mental composure`
+- `samādhi` -> `composure`
 - `vitakka` and `vicāra` stay coordinated as the practical pair in the first mental theme.
 - The first mental theme is not treated as separate from ānāpānasati; the same training clears distractions, brings up wholesome dhammas, and keeps the line of practice direct.
 

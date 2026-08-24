@@ -7,7 +7,7 @@
 
 *MN 117, the Mahācattārīsaka Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,105 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,097 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -40,20 +40,20 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### Noble Right Mental Composure With Its Supports
+### Noble Right Composure With Its Supports
 
-"Bhikkhus, I will teach you noble right mental composure with its supports and
+"Bhikkhus, I will teach you noble right composure with its supports and
 its requisites. Listen carefully, attend well, and I will speak."
 
 "Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right mental composure with its supports and
+"And what, bhikkhus, is noble right composure with its supports and
 requisites? It is this: right view, right attitude, right speech, right
 action, right livelihood, right effort, and right remembering. The directness
-of mind furnished with these seven factors is called noble right mental
-composure with supports, and also with requisites."
+of mind furnished with these seven factors is called noble right composure
+with supports, and also with requisites."
 
 ### Right View
 
@@ -317,9 +317,9 @@ right view, right effort, and right remembering.
 
 "For one with right effort, right remembering comes forth.
 
-"For one with right remembering, right mental composure comes forth.
+"For one with right remembering, right composure comes forth.
 
-"For one with right mental composure, right knowledge comes forth.
+"For one with right composure, right knowledge comes forth.
 
 "For one with right knowledge, right release comes forth.
 
@@ -344,7 +344,7 @@ worn away.
 development.
 
 "The same pattern applies to right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure, right
+livelihood, right effort, right remembering, right composure, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
 many bad and unwholesome qualities that arise because of that wrong factor are
 worn away, and through the right factor many wholesome qualities come to
@@ -385,7 +385,7 @@ brahmins of wrong effort.
 "If they criticize right remembering, then they honor and praise samaṇas and
 brahmins of wrong remembering.
 
-"If they criticize right mental composure, then they honor and praise samaṇas
+"If they criticize right composure, then they honor and praise samaṇas
 and brahmins of wrong composure.
 
 "If they criticize right knowledge, then they honor and praise samaṇas and
@@ -425,10 +425,10 @@ Buddha had said.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>brahmin</dfn></dt>
 <dd>A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair &quot;ascetics and brahmins,&quot; which means religious teachers and practitioners in general rather than one caste.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -437,12 +437,12 @@ Buddha had said.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
+<dt><dfn>right composure</dfn></dt>
+<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
 <dd>Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.</dd>
-<dt><dfn>right mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of the path factor usually translated &quot;right concentration&quot; -- a settled, unified mind, not a trance state.</dd>
 <dt><dfn>right remembering</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
@@ -478,15 +478,15 @@ Buddha had said.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[brahmin]: A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair "ascetics and brahmins," which means religious teachers and practitioners in general rather than one caste.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
+*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
-*[right mental composure]: This project's rendering of the path factor usually translated "right concentration" -- a settled, unified mind, not a trance state.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.

@@ -730,7 +730,7 @@ of seclusion.
 With the settling of placing and keeping the mind, internally confident, with
 a unified heart, without placing and keeping the mind, they enter and
 remain in the second mental theme with rejoicing and satisfaction born of
-mental composure.
+composure.
 
 With the fading of rejoicing they remain equanimous, remembering and clearly
 knowing, and experience satisfaction with the body — what the noble ones

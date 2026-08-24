@@ -10,7 +10,7 @@
   data.
 - House choices that most affect this sutta: `bhikkhu` remains untranslated;
   `sammā-saṅkappa` is rendered `right attitude`; `sammā-sati` is rendered
-  `right remembering`; `sammā-samādhi` is rendered `right mental composure`;
+  `right remembering`; `sammā-samādhi` is rendered `right composure`;
   `sammā-ñāṇa` is rendered `right knowledge`; `sammāvimutti` is rendered
   `right release`; `lokiya` is rendered `worldly`; `lokuttara` is rendered
   `beyond-the-world`; and `ekaggatā` is rendered here as `directness`.
@@ -32,20 +32,20 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### Noble Right Mental Composure With Its Supports
+### Noble Right Composure With Its Supports
 
-"Bhikkhus, I will teach you noble right mental composure with its supports and
+"Bhikkhus, I will teach you noble right composure with its supports and
 its requisites. Listen carefully, attend well, and I will speak."
 
 "Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right mental composure with its supports and
+"And what, bhikkhus, is noble right composure with its supports and
 requisites? It is this: right view, right attitude, right speech, right
 action, right livelihood, right effort, and right remembering. The directness
-of mind furnished with these seven factors is called noble right mental
-composure with supports, and also with requisites."
+of mind furnished with these seven factors is called noble right composure
+with supports, and also with requisites."
 
 ### Right View
 
@@ -309,9 +309,9 @@ right view, right effort, and right remembering.
 
 "For one with right effort, right remembering comes forth.
 
-"For one with right remembering, right mental composure comes forth.
+"For one with right remembering, right composure comes forth.
 
-"For one with right mental composure, right knowledge comes forth.
+"For one with right composure, right knowledge comes forth.
 
 "For one with right knowledge, right release comes forth.
 
@@ -336,7 +336,7 @@ worn away.
 development.
 
 "The same pattern applies to right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure, right
+livelihood, right effort, right remembering, right composure, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
 many bad and unwholesome qualities that arise because of that wrong factor are
 worn away, and through the right factor many wholesome qualities come to
@@ -377,7 +377,7 @@ brahmins of wrong effort.
 "If they criticize right remembering, then they honor and praise samaṇas and
 brahmins of wrong remembering.
 
-"If they criticize right mental composure, then they honor and praise samaṇas
+"If they criticize right composure, then they honor and praise samaṇas
 and brahmins of wrong composure.
 
 "If they criticize right knowledge, then they honor and praise samaṇas and

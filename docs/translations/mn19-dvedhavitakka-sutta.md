@@ -11,7 +11,7 @@
 - House choices that most affect this sutta: `bhikkhu` remains untranslated;
   `vitakka` is rendered `thinking`; `nekkhamma` is rendered `renunciation`;
   `abyāpāda` is rendered `non-ill-will`; `avihiṁsā` is rendered
-  `non-harming`; `samādhi` is rendered `mental composure`; the `ekaggatā`
+  `non-harming`; `samādhi` is rendered `composure`; the `ekaggatā`
   family is rendered here with `directness`; and `jhāyatha` is rendered
   `think like this`.
 - This is the first stable study edition of the repository's MN 19
@@ -105,9 +105,9 @@ thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
 tired. When the body is tired, the heart becomes strained. When the
-heart is strained, it is far from mental composure. So I stilled the
+heart is strained, it is far from composure. So I stilled the
 heart inwardly, settled it down, made it direct, and brought it into
-mental composure.
+composure.
 
 Why is that?
 
@@ -151,8 +151,7 @@ rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, I entered and remained in the second mental theme, without
-thinking and pondering, with rejoicing and satisfaction born of mental
-composure.
+thinking and pondering, with rejoicing and satisfaction born of composure.
 
 With the fading of rejoicing, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
@@ -238,7 +237,7 @@ the Evil One.
 
 'The bad path' is a term for the wrong eightfold path, that is: wrong view,
 wrong attitude, wrong speech, wrong action, wrong livelihood, wrong effort,
-wrong remembering, and wrong mental composure.
+wrong remembering, and wrong composure.
 
 'The male decoy' is a term for relishing and passion.
 
@@ -249,7 +248,7 @@ Tathāgata, the arahant, the fully awakened Buddha.
 
 'The safe and secure path leading to delight' is a term for the noble
 eightfold path, that is: right view, right attitude, right speech, right
-action, right livelihood, right effort, right remembering, and right mental
+action, right livelihood, right effort, right remembering, and right
 composure.
 
 So, bhikkhus, the safe and secure path leading to delight has been opened by

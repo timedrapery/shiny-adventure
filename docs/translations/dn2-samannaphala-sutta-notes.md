@@ -32,11 +32,10 @@ source-audit calls, and edition notes that govern it.
   distractions` while allowing source-close wording inside the five individual
   abandonings.
 - `jhāna` remains `mental theme` throughout the fourfold sequence.
-- `samādhi` remains `mental composure`, while `cetaso ekodibhāva` keeps
+- `samādhi` remains `composure`, while `cetaso ekodibhāva` keeps
   `unification of mind` in the second-theme formula.
 - The second-theme rejoicing pair is rendered `rejoicing and satisfaction born
-  of mental
-  composure` so the formula stays aligned with the live `samādhi` policy and
+  of composure` so the formula stays aligned with the live `samādhi` policy and
   existing translation surfaces.
 - `abhiññā` remains in higher-knowing territory without spectacle language,
   and `āsava` remains `outflow`.

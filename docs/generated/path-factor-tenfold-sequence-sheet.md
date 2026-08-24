@@ -9,7 +9,7 @@
 - `sammā-ājīva` -> `right livelihood`
 - `sammā-vāyāma` -> `right effort`
 - `sammā-sati` -> `right remembering`
-- `sammā-samādhi` -> `right mental composure`
+- `sammā-samādhi` -> `right composure`
 
 ## Completion Sequence
 

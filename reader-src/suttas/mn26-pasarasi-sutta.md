@@ -7,7 +7,7 @@
 
 *MN 26, the Pāsarāsi Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,410 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,407 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -196,7 +196,7 @@ When I said this, he declared the sphere of nothingness.
 
 Then it occurred to me: 'It is not only Āḷāra Kālāma who has confidence — I
 too have confidence. It is not only Āḷāra Kālāma who has energy, remembering,
-mental composure, and discernment — I too have these. What if I were to make
+composure, and discernment — I too have these. What if I were to make
 the effort to realize the teaching that Āḷāra Kālāma proclaims he has realized
 with his own higher knowing?'
 
@@ -247,7 +247,7 @@ teaching with his own higher knowing and entered into it?"
 When I said this, he declared the sphere of neither-recognition-nor-non-recognition.
 
 Then it occurred to me: 'It was not only Rāma who had confidence — I too have
-confidence. It was not only Rāma who had energy, remembering, mental composure,
+confidence. It was not only Rāma who had energy, remembering, composure,
 and discernment — I too have these. What if I were to make the effort to
 realize the teaching that Rāma proclaims he had realized with his own higher
 knowing?'
@@ -607,7 +607,7 @@ a trace, and to have gone where the Wicked One cannot see.
 Furthermore, bhikkhus, with the settling of placing and keeping the mind,
 internally confident, with a unified heart, without placing and keeping
 the mind, a bhikkhu enters and remains in the second mental theme with
-rejoicing and satisfaction born of mental composure.
+rejoicing and satisfaction born of composure.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
@@ -698,6 +698,8 @@ The sixth discourse is finished.
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dependent arising</dfn></dt>
 <dd>The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -724,8 +726,6 @@ The sixth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>nibbāna</dfn></dt>
@@ -776,6 +776,7 @@ The sixth discourse is finished.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clearly knowing]: Acting while plainly aware of what you are doing.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
@@ -788,7 +789,6 @@ The sixth discourse is finished.
 *[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

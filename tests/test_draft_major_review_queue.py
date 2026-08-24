@@ -31,7 +31,7 @@ class DraftMajorReviewQueueTests(unittest.TestCase):
                 "term": "samādhi",
                 "entry_type": "major",
                 "status": "reviewed",
-                "preferred_translation": "mental composure",
+                "preferred_translation": "composure",
                 "tags": ["core-practice"],
             },
             "vedana": {

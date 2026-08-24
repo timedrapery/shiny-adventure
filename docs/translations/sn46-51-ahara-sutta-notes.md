@@ -32,7 +32,7 @@ source-audit calls, and edition notes that govern it.
 - The seven `bojjhanga` members follow the repository's established framework
   renderings: `remembering awakening factor`, `discernment-of-qualities
   awakening factor`, `energy awakening factor`, `rejoicing awakening factor`,
-  `relaxation awakening factor`, `mental composure awakening factor`, and
+  `relaxation awakening factor`, `composure awakening factor`, and
   `dynamic-balance awakening factor`. The fourth member uses `rejoicing`
   following the updated house default for `pīti` (major), which changed from
   `delight` to `rejoicing` to preserve the active quality of the term.

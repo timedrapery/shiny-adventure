@@ -13,7 +13,7 @@ All 46 translations in this collection are readable here. Each one is backed by 
 
 ## If you only read five
 
-Together these give a compact first route through the collection: about 37 minutes of reading (6,537 words).
+Together these give a compact first route through the collection: about 37 minutes of reading (6,535 words).
 
 - [**How to Test a Teaching**](suttas/an3-65-kesamutta-sutta.md) — AN 3.65, Kesamutta Sutta
 - [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11, Dhammacakkappavattana Sutta

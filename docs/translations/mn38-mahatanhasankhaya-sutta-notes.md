@@ -126,7 +126,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `sukha` → `satisfaction` (major)
 - `sati` → `remembering` (major)
 - `sampajañña` → `clear knowing` (major)
-- `samādhi` → `mental composure` (major)
+- `samādhi` → `composure` (major)
 - `jhāna` → `mental theme` (major)
 - `paññā` → `discernment` (major)
 - `āsava` → `outflow` (major)
@@ -168,7 +168,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
   in full in the translation, following the established formulas used in MN 39
   and DN 2. The first mental theme: with placing the mind, keeping it there,
   rejoicing and satisfaction born of seclusion. Second: rejoicing and
-  satisfaction born of mental composure. Third: the equanimous satisfaction
+  satisfaction born of composure. Third: the equanimous satisfaction
   with the body. Fourth: neither satisfaction nor distress, with purity of
   equanimity and remembering.
 - The five senses of the ordinary person (mn38:30.7-10) and trained

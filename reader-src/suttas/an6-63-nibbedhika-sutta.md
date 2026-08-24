@@ -7,7 +7,7 @@
 
 *AN 6.63, the Nibbedhika Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,109 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,103 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -111,7 +111,7 @@ And what is the quenching of sensuality?
 The quenching of contact, bhikkhus, is the quenching of sensuality. And this
 noble eightfold path is the path of practice leading to the quenching of
 sensuality: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands sensuality this way, understands where it
 comes from this way, understands the differences among its kinds this way,
@@ -154,7 +154,7 @@ And what is the quenching of felt experience?
 The quenching of contact, bhikkhus, is the quenching of felt experience. And
 this noble eightfold path is the path of practice leading to the quenching of
 felt experience: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands felt experience this way, and so on through
 to the path of practice leading to its quenching, then they understand this
@@ -194,7 +194,7 @@ And what is the quenching of recognition?
 The quenching of contact, bhikkhus, is the quenching of recognition. And this
 noble eightfold path is the path of practice leading to the quenching of
 recognition: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands recognition this way, and so on through to
 the path of practice leading to its quenching, then they understand this
@@ -235,7 +235,7 @@ And what is the quenching of the outflows?
 The quenching of ignorance, bhikkhus, is the quenching of the outflows. And
 this noble eightfold path is the path of practice leading to the quenching of
 the outflows: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands the outflows this way, and so on through to
 the path of practice leading to their quenching, then they understand this
@@ -274,7 +274,7 @@ And what is the quenching of action?
 The quenching of contact, bhikkhus, is the quenching of action. And this noble
 eightfold path is the path of practice leading to the quenching of action:
 right view, right attitude, right speech, right action, right livelihood,
-right effort, right remembering, right mental composure.
+right effort, right remembering, right composure.
 
 When a noble disciple understands action this way, and so on through to the
 path of practice leading to its quenching, then they understand this
@@ -324,7 +324,7 @@ And what is the quenching of dissatisfaction?
 The quenching of ignorant wanting, bhikkhus, is the quenching of
 dissatisfaction. And this noble eightfold path is the path of practice leading
 to the quenching of dissatisfaction: right view, right attitude, right speech,
-right action, right livelihood, right effort, right remembering, right mental
+right action, right livelihood, right effort, right remembering, right
 composure.
 
 When a noble disciple understands dissatisfaction this way, understands where
@@ -357,6 +357,8 @@ The ninth discourse is finished.
 <dd>The physical body. In MN 63 specifically, paired with &quot;soul&quot; in one of the undeclared questions.</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -369,14 +371,12 @@ The ninth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mixed feeling</dfn></dt>
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right mental composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -391,12 +391,12 @@ The ninth discourse is finished.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
+<dt><dfn>right composure</dfn></dt>
+<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
 <dd>Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.</dd>
-<dt><dfn>right mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of the path factor usually translated &quot;right concentration&quot; -- a settled, unified mind, not a trance state.</dd>
 <dt><dfn>right remembering</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
@@ -425,16 +425,16 @@ The ninth discourse is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right mental composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
@@ -442,9 +442,9 @@ The ninth discourse is finished.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
+*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
-*[right mental composure]: This project's rendering of the path factor usually translated "right concentration" -- a settled, unified mind, not a trance state.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.

@@ -56,7 +56,7 @@ EXPECTED_PREFERRED_TRANSLATIONS = {
     "samma-ajiva": "right livelihood",
     "samma-vayama": "right effort",
     "samma-sati": "right remembering",
-    "samma-samadhi": "right mental composure",
+    "samma-samadhi": "right composure",
     "magga": "path",
     "ariya": "noble",
     "patipada": "path of practice",
@@ -181,7 +181,7 @@ def tenfold_completion_identity_missing(terms: dict[str, dict[str, object]]) -> 
             missing.append("samma-samadhi")
 
     completion_expectations = {
-        "samma-nana": ["right mental composure", "right release"],
+        "samma-nana": ["right composure", "right release"],
         "samma-vimutti": ["right knowledge"],
     }
     for stem, tokens in completion_expectations.items():

@@ -5,7 +5,7 @@
 | suññatā | emptiness | voidness, emptiness of self and what belongs to self | nothingness, nihilism, mystical oneness |
 | animitta | signless | without sign, without taking up signs | formless, blank, imageless, mystical fog |
 | appaṇihita | wishless | without placing desire, without projection, desireless | passive, apathetic, aimless, no goals |
-| sunnata-samadhi | mental composure that comes forth from emptiness | mental composure that comes forth from voidness, emptiness mental composure | - |
+| sunnata-samadhi | composure that comes forth from emptiness | composure that comes forth from voidness, emptiness composure | - |
 | sunnata-cetosamadhi | emptiness composure of mind | - | - |
 | sunnata-vimokkha | emptiness release | emptiness liberation | - |
 | animitta-samadhi | signless samadhi | without-sign samadhi | - |

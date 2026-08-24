@@ -26,7 +26,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   non-harming`.
 - Those six compounds are now also explicit supporting minor records in the
   repo rather than remaining document-only translation decisions.
-- `samādhi` remains `mental composure`.
+- `samādhi` remains `composure`.
 - `ekaggatā` family language in this discourse remains governed by
   `directness`, not one-pointedness.
 - `jhāna` remains `mental theme`.
@@ -76,11 +76,10 @@ translation choices, source-audit calls, and edition notes that govern it.
   and cultivates.
 - The second half of the discourse is equally important. Once wholesome
   thinking is established, the training is not endless discursiveness. The
-  heart is stilled, settled, made direct, and brought into mental
-  composure.
+  heart is stilled, settled, made direct, and brought into composure.
 - The first mental theme is therefore not treated in this repository as a
   separate trance system disconnected from right thinking. In MN 19 the line
-  runs from ethical sorting of thinking to gatheredness, mental composure,
+  runs from ethical sorting of thinking to gatheredness, composure,
   directness, and the fourfold jhāna sequence.
 - The final exhortation to `jhāyatha` is consequently kept practical. The
   Buddha is not telling the bhikkhus to vanish into a mystical state. He is

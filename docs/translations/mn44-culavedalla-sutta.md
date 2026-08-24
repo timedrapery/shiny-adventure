@@ -13,13 +13,13 @@
   rendered `taking personally`; `pañcupādānakkhandhā` is rendered `five
   clung-to heaps`; `vedanā` is rendered `felt experience`; `saññā` is rendered
   `recognition`; `viññāṇa` is rendered `knowing`; `samādhi` is rendered
-  `mental composure`; `ekaggatā` is rendered `directness`; `sati` is rendered
+  `composure`; `ekaggatā` is rendered `directness`; `sati` is rendered
   `remembering`; `taṇhā` is rendered `ignorant wanting`; and `nirodha` is
   rendered `quenching` except in the governed technical compound `attainment
   of cessation`.
 - This edition treats MN 44 as a control passage for the relation between
   identity, the five clung-to heaps, the path factors, the three training
-  heaps, mental composure, cessation attainment, felt experience, and release.
+  heaps, composure, cessation attainment, felt experience, and release.
 - This is the first stable study edition of the repository's MN 44 translation
   surface.
 
@@ -97,7 +97,7 @@ identity?"
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 This, friend Visākha, is what the Buddha calls the path of practice leading to
 the quenching of identity."
@@ -174,7 +174,7 @@ This, friend Visākha, is how identity view does not come to be."
 - right livelihood
 - right effort
 - right remembering
-- right mental composure"
+- right composure"
 
 "Ayye, is the noble eightfold path conditioned or unconditioned?"
 
@@ -189,25 +189,25 @@ path. Rather, the noble eightfold path is included within the three heaps.
 Right speech, right action, and right livelihood are included within the
 conduct heap.
 
-Right effort, right remembering, and right mental composure are included
-within the mental-composure heap.
+Right effort, right remembering, and right composure are included
+within the composure heap.
 
 Right view and right attitude are included within the discernment heap."
 
-### Mental Composure
+### Composure
 
-"Ayye, what is mental composure? What dhammas are signs of mental composure?
-What dhammas are the equipment of mental composure? What is the development of
-mental composure?"
+"Ayye, what is composure? What dhammas are signs of composure?
+What dhammas are the equipment of composure? What is the development of
+composure?"
 
-"Friend Visākha, directness of the heart is mental composure.
+"Friend Visākha, directness of the heart is composure.
 
-The four establishments of sati are signs of mental composure.
+The four establishments of sati are signs of composure.
 
-The four right exertions are the equipment of mental composure.
+The four right exertions are the equipment of composure.
 
 The repetition, development, and making-much of these same dhammas is the
-development of mental composure here."
+development of composure here."
 
 ### Three Conditioners
 

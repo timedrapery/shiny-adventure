@@ -9,7 +9,7 @@
 | Core factor | sammā-ājīva | right livelihood | appropriate livelihood, harmonious lifestyle, harmonious life, right noble livelihood | correct living |
 | Core factor | sammā-vāyāma | right effort | right energy, appropriate effort, harmonious exercise, right changing | right striving |
 | Core factor | sammā-sati | right remembering | right sati, right noble remembering, harmonious attention | right mindfulness |
-| Core factor | sammā-samādhi | right mental composure | right composure, right collectedness, right noble mental composure, harmonious equilibrium | right concentration, right unification of mind |
+| Core factor | sammā-samādhi | right composure | right collectedness, right inner accord, right noble composure, harmonious equilibrium | right concentration, right unification of mind |
 | Path support | magga | path | way | road |
 | Path support | ariya | noble | ennobling, sublime, supernormal | holy |
 | Path support | paṭipadā | path of practice | course of practice, practice | behavior |

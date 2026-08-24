@@ -73,7 +73,7 @@ sufficient lexicon coverage:
 - `āsava` → `outflow` (major)
 - `citta` → `heart` (major)
 - `paññā` → `discernment` (major)
-- `samādhi` → `mental composure` (major)
+- `samādhi` → `composure` (major)
 - `vedanā` → `felt experience` (major) — in the eating section
 
 ## Re-audit Calls

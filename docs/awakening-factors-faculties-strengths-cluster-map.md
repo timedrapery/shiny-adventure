@@ -22,7 +22,7 @@ language from collapsing into one vague English blur.
 | `saddhā` | `confidence` | confidence that supports and steadies practice | belief, faith |
 | `viriya` | `energy` | energetic application in practice | `sammā-vāyāma`, effort as the default |
 | `sati` | `remembering` | recollective keeping-in-mind and gatekeeping function | mindfulness, bare awareness |
-| `samādhi` | `mental composure` | broader composure family within practice | `sammā-samādhi`, concentration |
+| `samādhi` | `composure` | broader composure family within practice | `sammā-samādhi`, concentration |
 | `paññā` | `discernment` | cultivated capacity of discernment | knowledge, generic wisdom-talk |
 
 ### Awakening-Factor Member Set
@@ -34,7 +34,7 @@ language from collapsing into one vague English blur.
 | `viriya` | `energy` | energizing application within the framework | `sammā-vāyāma` as the default |
 | `pīti` | `delight` | energizing uplift in wholesome development | `sukha`, ecstasy |
 | `passaddhi` | `relaxation` | settling and easing that supports composure | vague calmness, static tranquility by default |
-| `samādhi` | `mental composure` | composure member within the framework | concentration |
+| `samādhi` | `composure` | composure member within the framework | concentration |
 | `upekkhā` | `dynamic balance` | balanced steadiness without flatness or indifference | indifference, static equanimity |
 
 ## Collective Formula Guardrails
@@ -127,8 +127,8 @@ They do not replace the governing member defaults underneath them.
 - `sati` is not `sammā-sati`.
   `sati` remains `remembering`, while `sammā-sati` remains `right remembering`.
 - `samādhi` is not `sammā-samādhi`.
-  `samādhi` remains the broader mental-composure family, while
-  `sammā-samādhi` remains `right mental composure` as the path factor.
+  `samādhi` remains the broader composure family, while
+  `sammā-samādhi` remains `right composure` as the path factor.
 - The faculty / strength family supports path language, but it does not replace
   the noble-path framework.
 

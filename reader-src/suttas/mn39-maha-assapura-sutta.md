@@ -7,7 +7,7 @@
 
 *MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,356 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,353 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -311,10 +311,10 @@ of the whole body goes undrenched with rejoicing and satisfaction born of seclus
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
 internal clarity, the heart unified, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
-satisfaction born of mental composure.
+satisfaction born of composure.
 
 They drench, saturate, fill, and spread this very body with rejoicing and
-satisfaction born of mental composure, so that no part of the whole body goes
+satisfaction born of composure, so that no part of the whole body goes
 undrenched with rejoicing and satisfaction born of composure.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
@@ -326,7 +326,7 @@ no part of the whole lake went undrenched with cool water.
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
 this very body with rejoicing and satisfaction born of composure, so that no
 part of the whole body goes undrenched with rejoicing and satisfaction born of
-mental composure.
+composure.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the
@@ -493,6 +493,8 @@ The Greater Discourse at Assapura is finished.
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -519,8 +521,6 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
 <dd>Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>outflow</dfn></dt>
@@ -559,6 +559,7 @@ The Greater Discourse at Assapura is finished.
 *[brahmin]: A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair "ascetics and brahmins," which means religious teachers and practitioners in general rather than one caste.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
@@ -571,7 +572,6 @@ The Greater Discourse at Assapura is finished.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

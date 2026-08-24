@@ -13,8 +13,8 @@
     "right gnosis"
   ],
   "untranslated_preferred": false,
-  "definition": "The right knowledge that comes forth for one with right mental composure and belongs to the completed side of the path.",
-  "notes": "MN 117 gives sammā-ñāṇa structural weight: for one with right mental composure, right knowledge comes forth; for one with right knowledge, right release comes forth. The repository therefore treats this as more than a document-local convenience. It belongs to the completion side of the path, where the trainee's eight factors open into the ten-factored completion of the arahant, the one beyond training. Right knowing can remain available when the local English benefits from a slightly more active noun, but right knowledge is the stable house default.",
+  "definition": "The right knowledge that comes forth for one with right composure and belongs to the completed side of the path.",
+  "notes": "MN 117 gives sammā-ñāṇa structural weight: for one with right composure, right knowledge comes forth; for one with right knowledge, right release comes forth. The repository therefore treats this as more than a document-local convenience. It belongs to the completion side of the path, where the trainee's eight factors open into the ten-factored completion of the arahant, the one beyond training. Right knowing can remain available when the local English benefits from a slightly more active noun, but right knowledge is the stable house default.",
   "context_rules": [
     {
       "context": "In most path-sequence and doctrinal contexts",
@@ -50,8 +50,8 @@
     },
     {
       "pali": "sammāsamādhissa sammāñāṇaṃ",
-      "translation": "for one with right mental composure, right knowledge",
-      "notes": "Shows the sequence from right mental composure to right knowledge.",
+      "translation": "for one with right composure, right knowledge",
+      "notes": "Shows the sequence from right composure to right knowledge.",
       "source": "MN 117"
     }
   ],

@@ -3,11 +3,11 @@
   "normalized_term": "samadhi",
   "entry_type": "major",
   "part_of_speech": "noun",
-  "literal_meaning": "placing together or bringing into composure",
-  "preferred_translation": "mental composure",
+  "literal_meaning": "placing together or bringing into accord",
+  "preferred_translation": "composure",
   "alternative_translations": [
-    "composure",
     "collectedness",
+    "inner accord",
     "mental equilibrium",
     "stillness of mind",
     "workable composed mind"
@@ -18,23 +18,23 @@
     "unification of mind"
   ],
   "untranslated_preferred": false,
-  "definition": "A composed, collected, workable quality of mind that is fit for practice without the strain implied by concentration.",
-  "notes": "OSF house style now prefers mental composure for samadhi. Composure and collectedness remain useful alternates, but they are no longer secondary to unification-of-mind language. Dhammarato-facing and OSF-facing materials still strongly reject concentration and support a practical, workable handling of samadhi, and What Is And Is Not The Path reinforces that same anti-concentration practical framing, but this repository no longer treats unification of mind as the governing English for the headword itself. Generic samādhi can be wider than the noble path factor, but this repository keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader mental-composure family. Related formula terms such as cetaso ekodibhāva may still use unification-of-mind language where the Pali explicitly says that; that does not govern samādhi itself. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
+  "definition": "The thinking mind and the heart collected into accord: a settled, coherent, workable condition in which they no longer pull against each other and the mind is fit for practice.",
+  "notes": "The project prefers composure as the plain-English default for samādhi. The word names the resulting condition: the thinking mind and the heart are collected together and working in accord rather than pulling in conflicting directions. Collectedness can explain how the mind gathers, while inner accord can explain the absence of cognitive-affective conflict; neither should compete with composure as the repeated translation. Dhammarato-facing and OSF-facing materials strongly reject concentration and support a practical, workable handling of samādhi, and What Is And Is Not The Path reinforces that same anti-concentration framing. Generic samādhi can be wider than the noble path factor, but this repository keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader composure family. Related formula terms such as cetaso ekodibhāva may still use unification-of-mind language where the Pali explicitly says that; that does not govern samādhi itself. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or distraction-clearing contexts.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
-      "rendering": "mental composure",
-      "notes": "Use this as the OSF house default."
-    },
-    {
-      "context": "In prose emphasizing steadiness and settled bearing more than integration",
       "rendering": "composure",
-      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+      "notes": "Use this as the OSF house default."
     },
     {
       "context": "In prose emphasizing the gathered quality of mind",
       "rendering": "collectedness",
-      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+      "notes": "Use as an explanatory alternate when the gathering-together process needs emphasis."
+    },
+    {
+      "context": "In explanatory prose emphasizing that the thinking mind and heart are no longer in conflict",
+      "rendering": "inner accord",
+      "notes": "Use to explain composure, not as the repeated translation in sutta prose."
     },
     {
       "context": "In older source profiles that use a different teaching idiom",
@@ -48,7 +48,7 @@
     },
     {
       "context": "When distinguishing the broad headword from ariya sammā samādhi as the path factor",
-      "rendering": "mental composure",
+      "rendering": "composure",
       "notes": "Keep the generic headword broader, while the noble path factor is governed under sammā-samādhi as the four jhānas."
     }
   ],
@@ -90,13 +90,13 @@
   "example_phrases": [
     {
       "pali": "sammāsamādhi",
-      "translation": "right mental composure",
+      "translation": "right composure",
       "notes": "Key doctrinal compound under OSF house style.",
       "source": "MN 44"
     },
     {
       "pali": "yā kho, āvuso visākha, cittassa ekaggatā ayaṁ samādhi",
-      "translation": "that which is one-pointedness of mind, friend Visākha, is mental composure",
+      "translation": "directness of the heart, friend Visākha, is composure",
       "notes": "MN 44's own definition of the term. The participle samāhita does not occur in this sutta.",
       "source": "MN 44"
     }
@@ -123,11 +123,11 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use mental composure in most path-factor and practice contexts.",
+    "default_scope": "Use composure in most path-factor and practice contexts.",
     "when_not_to_apply": "Do not revert to concentration or absorption unless explicitly discussing outside terminology or source-specific framing.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents path and jhāna language from drifting back toward concentration."
   },
   "status": "stable",
-  "version_notes": "Shifted the house default from unification of mind to mental composure while keeping the anti-concentration policy stable across path-factor and practice contexts."
+  "version_notes": "Shortened the former two-word house default to composure and defined it as the thinking mind and heart collected into accord, while keeping the anti-concentration policy stable."
 }

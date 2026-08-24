@@ -49,6 +49,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Acting while plainly aware of what you are doing.</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
+<dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>consolation</dfn> <span class="glossary-pali" lang="pi">(assāsa)</span></dt>
 <dd>A practical reassurance that holds up regardless of how a contested question (like what happens after death) actually turns out -- not an argument that settles the question.</dd>
 <dt><dfn>contact</dfn> <span class="glossary-pali" lang="pi">(phassa)</span></dt>
@@ -105,8 +107,6 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn> <span class="glossary-pali" lang="pi">(ñāṇadassana)</span></dt>
 <dd>Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.</dd>
-<dt><dfn>mental composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn> <span class="glossary-pali" lang="pi">(jhāna)</span></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>mixed feeling</dfn> <span class="glossary-pali" lang="pi">(adukkhamasukhavedanā)</span></dt>
@@ -118,7 +118,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>noble disciple</dfn> <span class="glossary-pali" lang="pi">(ariyasāvaka)</span></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn> <span class="glossary-pali" lang="pi">(ariya-atthangika-magga)</span></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right mental composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
 <dt><dfn>noble truth</dfn> <span class="glossary-pali" lang="pi">(ariyasacca)</span></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
@@ -145,12 +145,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn> <span class="glossary-pali" lang="pi">(sammāsaṅkappa)</span></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
+<dt><dfn>right composure</dfn> <span class="glossary-pali" lang="pi">(sammā-samādhi)</span></dt>
+<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn> <span class="glossary-pali" lang="pi">(sammā-vāyāma)</span></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn> <span class="glossary-pali" lang="pi">(sammā-ājīva)</span></dt>
 <dd>Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.</dd>
-<dt><dfn>right mental composure</dfn> <span class="glossary-pali" lang="pi">(sammā-samādhi)</span></dt>
-<dd>This project&#x27;s rendering of the path factor usually translated &quot;right concentration&quot; -- a settled, unified mind, not a trance state.</dd>
 <dt><dfn>right remembering</dfn> <span class="glossary-pali" lang="pi">(sammā-sati)</span></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn> <span class="glossary-pali" lang="pi">(sammā-vācā)</span></dt>

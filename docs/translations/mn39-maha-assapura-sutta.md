@@ -308,10 +308,10 @@ of the whole body goes undrenched with rejoicing and satisfaction born of seclus
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
 internal clarity, the heart unified, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
-satisfaction born of mental composure.
+satisfaction born of composure.
 
 They drench, saturate, fill, and spread this very body with rejoicing and
-satisfaction born of mental composure, so that no part of the whole body goes
+satisfaction born of composure, so that no part of the whole body goes
 undrenched with rejoicing and satisfaction born of composure.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
@@ -323,7 +323,7 @@ no part of the whole lake went undrenched with cool water.
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
 this very body with rejoicing and satisfaction born of composure, so that no
 part of the whole body goes undrenched with rejoicing and satisfaction born of
-mental composure.
+composure.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the

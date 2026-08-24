@@ -28,7 +28,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `citta` remains `heart` in the training formulas.
 - `vedanā` remains `felt experience`, and the satipaṭṭhāna-fulfillment section
   keeps that wording rather than slipping back into generic feeling-language.
-- `samādhi` remains `mental composure`; this blocks drift toward
+- `samādhi` remains `composure`; this blocks drift toward
   concentration-language without making samādhi the headword equivalent of
   unification-of-mind language.
 - `upekkhā` remains `dynamic balance`.
@@ -96,7 +96,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   body conditioner, while felt experience and recognition remain the mind
   conditioner worked with through breathing.
 - In the heart tetrad, the trainee remembers with each breath to
-  experience, gladden, bring the heart to mental composure, and free
+  experience, gladden, bring the heart to composure, and free
   it.
 - `ekaggatā` in this repository is not governed as one-pointedness. In
   first-jhāna and ānāpānasati explanation it is the directness or single aim
@@ -115,7 +115,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - In the awakening-factor section, the factors are not governed as a second
   list laid on top of practice. They are the maturation of the same
   ānāpānasati training: remembering, discernment of qualities, energy,
-  delight, relaxation, mental composure, and dynamic balance. The conditioner
+  delight, relaxation, composure, and dynamic balance. The conditioner
   language matters here because calming conditioning is part of how that
   maturation unfolds.
 

@@ -70,7 +70,7 @@ source-audit calls, and edition notes that govern it.
   reclassifies those five as supports for cultivating a mind free of enmity and
   ill will.
 - The delight contrast matters. Sensual delight is not treated as equal to the
-  delight born from seclusion and mental composure.
+  delight born from seclusion and composure.
 - The brahmavihāra close is practical training language. It is not only a
   cosmological answer about Brahmā-world rebirth; it is a governed
   cultivation-path answer.

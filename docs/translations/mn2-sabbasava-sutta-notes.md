@@ -44,7 +44,7 @@ source-audit calls, and edition notes that govern it.
   not collapse into the broader `abandoning` frame.
 - The awakening factors are rendered with the repository's established
   defaults: remembering, discernment of qualities, energy, delight, relaxation,
-  mental composure, and dynamic balance.
+  composure, and dynamic balance.
 
 ## Re-audit Calls
 

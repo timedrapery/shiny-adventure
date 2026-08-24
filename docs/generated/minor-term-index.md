@@ -755,10 +755,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [salayatanapaccaya-phasso](../../terms/minor/salayatanapaccaya-phasso.json) | saḷāyatanapaccayā phasso | with the six fields of experience as condition, contact | reviewed | dependent-origination, causality, translation-sensitive |
 | [salla](../../terms/minor/salla.json) | salla | arrow | reviewed | simile, translation-sensitive |
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
-| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | mental composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
-| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | mental composure strength | reviewed | core-practice, mental-qualities |
-| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of mental composure | reviewed | jhana-factors, meditative-development |
-| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | mental composure faculty | reviewed | core-practice, mental-qualities |
+| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | strength of composure | reviewed | core-practice, mental-qualities |
+| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of composure | reviewed | jhana-factors, meditative-development |
+| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | faculty of composure | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
 | [samanantara-paccaya](../../terms/minor/samanantara-paccaya.json) | samanantara-paccaya | contiguity condition | reviewed | causality |
@@ -843,7 +843,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sukha-vedana](../../terms/minor/sukha-vedana.json) | sukhavedanā | pleasant feeling | reviewed | aggregates |
 | [sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati](../../terms/minor/sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati.json) | sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati | when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally | reviewed | core-practice, translation-sensitive, sense-fields |
 | [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | mental composure that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
+| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | composure that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-vimokkha](../../terms/minor/sunnata-vimokkha.json) | sunnata-vimokkha | emptiness release | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunyata](../../terms/minor/sunyata.json) | śūnyatā | śūnyatā | reviewed | core-doctrine, translation-sensitive |
 | [surameraya-majjapamadatthana-veramani](../../terms/minor/surameraya-majjapamadatthana-veramani.json) | surameraya-majjapamadatthana-veramani | abstaining from intoxicants | reviewed | ethics |

@@ -43,7 +43,7 @@ def make_record(stem: str, **overrides: object) -> dict[str, object]:
         "samma-vayama": "note with right view and right remembering",
         "magga": "note where right view, right remembering, and right effort run circles around one another",
         "samma-samadhi": "note with first second third fourth jhana and right knowledge plus right release",
-        "samma-nana": "note with right mental composure and right release",
+        "samma-nana": "note with right composure and right release",
         "samma-vimutti": "note with right knowledge",
     }
     note = notes_map.get(stem, f"{stem} note")

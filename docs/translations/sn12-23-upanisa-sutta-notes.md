@@ -33,9 +33,9 @@ source-audit calls, and edition notes that govern it.
   state`; `pīti` → `rejoicing`; `passaddhi` → `relaxation`; `sukha` →
   `satisfaction`; `samādhi` → `composure`.
 - `Composure` is used as the short form of `samādhi` here rather than the
-  full `mental composure`. In the condensed vertical sequence — where each
+  full `composure`. In the condensed vertical sequence — where each
   link is named as a single noun — `composure` reads more cleanly. The
-  full `mental composure` remains the default outside sequence contexts.
+  full `composure` remains the default outside sequence contexts.
 - `yathābhūtañāṇadassana` is rendered `seeing things as they are`. The
   compound: `yathābhūta` (as things actually are) + `ñāṇa` (knowing) +
   `dassana` (seeing). The rendering keeps it as a single practical phrase
@@ -68,7 +68,7 @@ have sufficient lexicon coverage:
 - `pīti` → `rejoicing` (major, updated)
 - `passaddhi` → `relaxation` (major)
 - `sukha` → `satisfaction` (major)
-- `samādhi` → `mental composure` / `composure` (major)
+- `samādhi` → `composure` / `composure` (major)
 - `nibbidā` → `disenchantment` (major)
 - `virāga` → `fading` (major)
 - `vimutti` → `release` (major)

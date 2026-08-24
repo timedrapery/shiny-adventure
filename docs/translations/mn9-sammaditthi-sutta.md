@@ -168,7 +168,7 @@ of nutriment:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 When a noble disciple discerns nutriment in this way, discerns the origin of
 nutriment in this way, discerns the quenching of nutriment in this way, and
@@ -234,7 +234,7 @@ It is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 This is called the path of practice leading to the quenching of
 dissatisfaction.
@@ -512,7 +512,7 @@ eightfold path is the path of practice leading to the quenching of outflows:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 When a noble disciple discerns outflow in this way, discerns the origin of
 outflow in this way, discerns the quenching of outflow in this way, and

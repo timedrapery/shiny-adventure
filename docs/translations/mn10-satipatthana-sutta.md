@@ -390,7 +390,7 @@ arisen remembering awakening factor comes to fulfillment through development.
 
 The same pattern applies for the awakening factor of discernment of qualities,
 the energy awakening factor, the rejoicing awakening factor, the relaxation
-awakening factor, the mental composure awakening factor, and the dynamic
+awakening factor, the composure awakening factor, and the dynamic
 balance awakening factor.
 
 [The same dhammas refrain follows here.]"
