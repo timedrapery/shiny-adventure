@@ -161,7 +161,7 @@ def dukkha_nirodha_scope_missing(terms: dict[str, dict[str, object]]) -> list[st
     missing: list[str] = []
     expectations = {
         "ariyasacca": ["sn 22.86", "dukkha / dukkha-nirodha scope"],
-        "dukkha": ["sn 22.86", "only dissatisfaction and the ending of dissatisfaction"],
+        "dukkha": ["sn 22.86", "dissatisfaction and how it ends"],
         "nirodha": ["sn 22.86"],
     }
     for stem, tokens in expectations.items():

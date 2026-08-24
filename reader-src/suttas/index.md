@@ -44,7 +44,7 @@ All 51 translations, grouped by collection. If you would rather be guided, use [
 - [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 730 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
 - [**The Five Heaps**](sn22-48-khandha-sutta.md) — SN 22.48 · Khandha Sutta · about 3 min · 363 words · Set 4. What the five heaps actually are, stated directly.
 - [**What Is Fit to Call Self?**](sn22-59-anattalakkhana-sutta.md) — SN 22.59 · Anattalakkhaṇa Sutta · about 6 min · 1,016 words · Set 4. The second sermon.
-- [**Can You Pin Down the Tathāgata?**](sn22-86-anuradha-sutta.md) — SN 22.86 · Anurādha Sutta · about 7 min · 1,217 words · Set 4. Anurādha tries to place the Tathāgata outside four claims about what happens after death.
+- [**Can You Pin Down the Tathāgata?**](sn22-86-anuradha-sutta.md) — SN 22.86 · Anurādha Sutta · about 7 min · 1,214 words · Set 4. Anurādha tries to place the Tathāgata outside four claims about what happens after death.
 - [**The Lingering Sense of 'I Am'**](sn22-89-khemaka-sutta.md) — SN 22.89 · Khemaka Sutta · about 12 min · 2,062 words · Set 4. A subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of "I am."
 - [**The Fire Sermon**](sn35-28-aditta-sutta.md) — SN 35.28 · Āditta Sutta · about 4 min · 675 words · Set 5. The fire sermon.
 - [**One Arrow, Not Two**](sn36-6-salla-sutta.md) — SN 36.6 · Salla Sutta · about 5 min · 783 words · Set 2. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it.

@@ -65,11 +65,12 @@ source-audit calls, and edition notes that govern it.
   establishing the Tathāgata under one of the proposed descriptions. It does
   not translate the line as `the Tathāgata does not exist`, which would simply
   choose one of the four rejected claims.
-- `dukkhañceva paññapemi, dukkhassa ca nirodhaṁ` is rendered `I describe only
-  dissatisfaction and the ending of dissatisfaction`. `Dissatisfaction`
-  is the governed `dukkha` default. `Ending` is a recorded `nirodha` alternate
-  and is already the wording used by the repository's SN 22.86 scope note; it
-  makes the compact closing sentence immediately understandable.
+- `pubbe cāhaṁ ... etarahi ca, dukkhañceva paññapemi, dukkhassa ca
+  nirodhaṁ` is rendered `All I've ever talked about is dissatisfaction and
+  how it ends`. The present perfect `I've ever talked about` carries the Pali
+  contrast between before (`pubbe`) and now (`etarahi`) in ordinary spoken
+  English. `Dissatisfaction` is the governed `dukkha` default, while `how it
+  ends` makes the compact `nirodha` phrase easy to understand.
 
 ## Source-Audit Calls
 

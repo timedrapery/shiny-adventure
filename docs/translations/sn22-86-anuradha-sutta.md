@@ -271,7 +271,7 @@ not exist after death'?"
 
 "No, Bhante."
 
-"Good, good, Anurādha. In the past as now, I describe only
-dissatisfaction and the ending of dissatisfaction."
+"Good, good, Anurādha. All I've ever talked about is dissatisfaction and
+how it ends."
 
 The fourth discourse is finished.

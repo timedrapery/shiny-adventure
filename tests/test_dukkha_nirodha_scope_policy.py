@@ -20,7 +20,7 @@ class DukkhaNirodhaScopePolicyTests(unittest.TestCase):
 
         self.assertEqual(dukkha["preferred_translation"], "dissatisfaction")
         self.assertIn("SN 22.86", dukkha["notes"])
-        self.assertIn("only dissatisfaction and the ending of dissatisfaction", dukkha["notes"])
+        self.assertIn("dissatisfaction and how it ends", dukkha["notes"])
         self.assertEqual(nirodha["preferred_translation"], "quenching")
         self.assertIn("SN 22.86", nirodha["notes"])
 
