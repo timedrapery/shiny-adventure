@@ -7,7 +7,7 @@
 
 *SN 22.86, the Anurādha Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,217 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,214 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -280,8 +280,8 @@ not exist after death'?"
 
 "No, Bhante."
 
-"Good, good, Anurādha. In the past as now, I describe only
-dissatisfaction and the ending of dissatisfaction."
+"Good, good, Anurādha. All I've ever talked about is dissatisfaction and
+how it ends."
 
 The fourth discourse is finished.
 
@@ -329,7 +329,7 @@ The fourth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.86/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-86-anuradha-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-24 · body version `dc596235`
+- **Last editorial review:** 2026-08-24 · body version `87b39d29`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.86) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

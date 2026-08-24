@@ -217,7 +217,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether the tathāgata can be pinned down through the five heaps even here and now. not-self">
 <h2><a href="../suttas/sn22-86-anuradha-sutta/">Can You Pin Down the Tathāgata?</a></h2>
 <p class="sutta-card__reference">SN 22.86 · <span lang="pi">Anurādha Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Dialogue · Medium · about 7 min · 1,217 words</p>
+<p class="sutta-card__meta">Intermediate · Dialogue · Medium · about 7 min · 1,214 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether the Tathāgata can be pinned down through the five heaps even here and now.</p>
 </article>

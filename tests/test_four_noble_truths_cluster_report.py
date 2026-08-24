@@ -39,7 +39,7 @@ def make_record(stem: str, **overrides: object) -> dict[str, object]:
 
     notes_map = {
         "ariyasacca": "correct noble practice wake up wholesome change quenching SN 22.86 dukkha / dukkha-nirodha scope",
-        "dukkha": "SN 22.86 only dissatisfaction and the ending of dissatisfaction waking up what is here",
+        "dukkha": "SN 22.86 dissatisfaction and how it ends waking up what is here",
         "samudaya": "note about where it is heading",
         "nirodha": "SN 22.86 note about congratulating oneself",
         "magga": "note about making a wholesome change",
