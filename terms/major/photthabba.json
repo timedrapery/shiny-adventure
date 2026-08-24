@@ -6,7 +6,8 @@
   "literal_meaning": "tangible, touchable thing",
   "preferred_translation": "tangible",
   "alternative_translations": [
-    "touchable"
+    "touchable",
+    "touches"
   ],
   "discouraged_translations": [
     "object"
@@ -24,6 +25,11 @@
       "context": "In explanatory prose where a plainer adjective is helpful",
       "rendering": "touchable",
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+    },
+    {
+      "context": "As plural body-sense objects in SN 35.28",
+      "rendering": "touches",
+      "notes": "Ordinary reader-facing plural in the repeated burning sequence."
     }
   ],
   "related_terms": [

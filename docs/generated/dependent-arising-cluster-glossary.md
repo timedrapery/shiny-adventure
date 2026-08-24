@@ -3,14 +3,14 @@
 | Pāli | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
 | avijjā | ignorance | not-knowing, unawareness | nescience |
-| saṅkhārā | putting things together | what has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
+| saṅkhārā | putting things together | what has been put together, what is put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
 | viññāṇa | knowing | consciousness, awareness | pure awareness, witness consciousness, self, soul, sentience |
 | nāmarūpa | name-and-form | naming and materiality, mental and physical phenomena, mental and physical objects of consciousness, mind and body | body and mind |
 | saḷāyatana | six fields of experience | six sense fields, sense field, six sense bases, six sense domains | sense organs |
 | phassa | contact | touch | sensation, touching, encounter |
 | vedanā | felt experience | feeling, feeling tone, sensation | emotion, mood, affect |
 | taṇhā | ignorant wanting | craving, thirst, excitement about getting things, wanting things you can't have right now | desire, attachment |
-| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel | attachment, desire |
+| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel, appropriation | attachment, desire |
 | bhava | becoming | being, existence, state of existence, form of becoming, development, well-being, prosperity | life |
 | jāti | birth | rebirth, conception, arising | mere biological birth |
 | jarāmaraṇa | ageing and dying | aging-and-death, old age and death | mortality |

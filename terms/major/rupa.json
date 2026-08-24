@@ -7,7 +7,8 @@
   "preferred_translation": "form",
   "alternative_translations": [
     "material form",
-    "visible form"
+    "visible form",
+    "sights"
   ],
   "discouraged_translations": [
     "body",
@@ -31,6 +32,11 @@
       "context": "In eye-and-form sense-field contexts such as cakkhuñca paṭicca rūpe ca",
       "rendering": "visible forms",
       "notes": "Use the visual-object sense rather than the broader heap sense."
+    },
+    {
+      "context": "As plural eye-sense objects in the SN 35.28 fire sequence",
+      "rendering": "sights",
+      "notes": "Prevents heap-language from intruding into an ordinary list of sense objects."
     },
     {
       "context": "In compounds such as rūpakkhandha and in the pattern yaṃ kiñci rūpaṃ",

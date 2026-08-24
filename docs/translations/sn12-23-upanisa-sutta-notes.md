@@ -54,9 +54,9 @@ source-audit calls, and edition notes that govern it.
   `phassa` → `contact`; `vedanā` → `felt experience`; `taṇhā` →
   `ignorant wanting`; `upādāna` → `appropriation`; `bhava` → `becoming`;
   `jāti` → `birth`; `dukkha` → `dissatisfaction`.
-- The five heaps in the opening are rendered: `rūpa` → `form`; `vedanā` →
-  `felt experience`; `saññā` → `recognition`; `saṅkhārā` → `what is put
-  together`; `viññāṇa` → `knowing`.
+- The five heaps in the opening use `form`, `felt experience`, `recognition`,
+  `what is put together`, and `knowing`. The result-oriented saṅkhāra wording
+  is a governed context alternate rather than a competing default.
 
 ## Existing Control Records Reused
 

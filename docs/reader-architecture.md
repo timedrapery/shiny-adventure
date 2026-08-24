@@ -17,6 +17,7 @@ presentation layer over them, rebuilt by one script.
 | `scripts/surface_registry.py` | authoritative | corpus + reader metadata |
 | `includes/glossary.md` | authoritative | hand-written reader-facing glosses |
 | `includes/newcomer-guides/*.json` | authoritative | structured Essential Five orientation |
+| `includes/reader-intros/*.md` | authoritative | hand-written orientation for newer non-Essential surfaces |
 | `reader-src/about.md` | authoritative | hand-written reader prose |
 | a legacy `About this text` / `Before you read` block outside the Essential Five | authoritative | preserved reader prose |
 | everything else under `reader-src/` | **generated** | `scripts/generate_reader.py` |
@@ -109,10 +110,11 @@ The generator validates that:
 - each key term exists in the reader glossary and occurs in the translation
 - each evidence heading exactly matches a governed translation heading
 
-For another text with a legacy introduction, edit its `About this text` or
-`Before you read` block in `reader-src/suttas/<surface>.md` and regenerate. The
-generator reads that block back out and preserves it. A text without one gets
-a short restrained default rather than invented commentary.
+For another text, prefer an authoritative
+`includes/reader-intros/<surface-key>.md` file. Older pages with a legacy
+introduction still preserve their `About this text` or `Before you read` block
+across regeneration. A text without either gets a short restrained default
+rather than invented commentary.
 
 Guidance should orient rather than interpret: plain contemporary English, no
 prior Buddhist knowledge assumed, no academic throat-clearing, and no Buddhist

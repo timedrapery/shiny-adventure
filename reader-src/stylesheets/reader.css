@@ -71,6 +71,44 @@
   background: var(--md-default-bg-color);
 }
 
+.reader-source-status {
+  margin-block: 1.2rem;
+  border-block: 0.05rem solid var(--md-default-fg-color--lighter);
+}
+
+.reader-source-status summary {
+  display: block;
+  position: relative;
+  min-height: 44px;
+  padding: 0.55rem 2rem 0.55rem 1.6rem;
+  cursor: pointer;
+  font-weight: 600;
+  list-style: none;
+}
+
+.reader-source-status summary::before {
+  content: "▸";
+  position: absolute;
+  top: 50%;
+  inset-inline-start: 0.2rem;
+  background: none;
+  -webkit-mask: none;
+  mask: none;
+  transform: translateY(-50%);
+}
+
+.reader-source-status[open] summary::before {
+  content: "▾";
+}
+
+.reader-source-status summary::after {
+  display: none;
+}
+
+.reader-source-status > :not(summary) {
+  margin-inline: 0.2rem;
+}
+
 .reader-terms summary {
   display: block;
   position: relative;
@@ -154,6 +192,72 @@
   font-weight: 400;
 }
 
+/* Progressive discovery: all cards are useful without JavaScript; controls
+   only narrow the already-readable list when scripting is available. */
+.sutta-filters {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem 0.8rem;
+  margin-block: 1.2rem;
+  padding: 1rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  background: var(--md-default-fg-color--lightest);
+}
+
+.sutta-filters label {
+  align-self: end;
+  font-weight: 600;
+}
+
+.sutta-filters :is(input, select, button) {
+  width: 100%;
+  min-height: 44px;
+  padding: 0.45rem 0.55rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.15rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+}
+
+.sutta-filters button {
+  grid-column: 1 / -1;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.filter-count {
+  font-weight: 600;
+}
+
+.sutta-grid {
+  display: grid;
+  gap: 0.8rem;
+}
+
+.sutta-card {
+  padding: 0.9rem 1rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+}
+
+.sutta-card[hidden] {
+  display: none;
+}
+
+.sutta-card h2 {
+  margin-top: 0;
+  font-size: 1.15rem;
+}
+
+.sutta-card__reference,
+.sutta-card__meta,
+.sutta-card__topics {
+  color: var(--md-default-fg-color--light);
+  font-size: 0.9em;
+}
+
 /* Previous, collection, and next links remain usable at high zoom and on touch. */
 .reading-order ul,
 .reader-pagination ul {
@@ -187,6 +291,13 @@
   background: var(--md-default-fg-color--lightest);
 }
 
+/* Material's default footer gray misses AA for its small copyright text by a
+   fraction on the dark footer. Keep the footer subtle without failing 4.5:1. */
+.md-footer-meta .md-copyright,
+.md-footer-meta .md-copyright a {
+  color: #a6a6a6;
+}
+
 /* Keep wide reference material usable without shrinking all text to fit. */
 .md-typeset table:not([class]) {
   font-size: 0.75rem;
@@ -203,7 +314,8 @@
   }
 
   .reader-guide,
-  .reader-terms {
+  .reader-terms,
+  .reader-source-status {
     margin-block: 1rem;
   }
 
@@ -218,6 +330,10 @@
 
   .reading-order ul,
   .reader-pagination ul {
+    grid-template-columns: 1fr;
+  }
+
+  .sutta-filters {
     grid-template-columns: 1fr;
   }
 

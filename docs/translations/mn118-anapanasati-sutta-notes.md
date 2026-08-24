@@ -41,8 +41,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `āraddhosmi ... āraddhacittosmi` is rendered `I am resolved in this way of
   practice ... My heart is resolved in this way of practice`. `Satisfied` was
   judged too flat for a line immediately followed by `vīriyaṁ ārabhatha`.
-- `so satova assasati satova passasati` is rendered `One breathes in
-  remembering the Dhamma; one breathes out remembering the Dhamma` so the
+- `so satova assasati satova passasati` is rendered `They breathe in
+  remembering the Dhamma; they breathe out remembering the Dhamma` so the
   breathing formula stays explicit on both sides. That shared breathing-side
   line is now governed by a dedicated phrase record used to keep MN 10 and
   MN 118 synchronized.

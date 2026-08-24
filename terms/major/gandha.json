@@ -6,7 +6,8 @@
   "literal_meaning": "odor, smell",
   "preferred_translation": "odor",
   "alternative_translations": [
-    "smell"
+    "smell",
+    "smells"
   ],
   "discouraged_translations": [
     "perfume"
@@ -24,6 +25,11 @@
       "context": "In lighter prose where odor sounds too formal",
       "rendering": "smell",
       "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+    },
+    {
+      "context": "As plural sense objects in SN 35.28",
+      "rendering": "smells",
+      "notes": "Ordinary plural English for the repeated burning sequence."
     }
   ],
   "related_terms": [

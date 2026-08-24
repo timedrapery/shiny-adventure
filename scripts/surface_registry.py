@@ -169,6 +169,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn118-anapanasati-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn119",
+        label="MN 119",
+        main_relpath="docs/translations/mn119-kayagatasati-sutta.md",
+        notes_relpath="docs/translations/mn119-kayagatasati-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn131",
         label="MN 131",
         main_relpath="docs/translations/mn131-bhaddekaratta-sutta.md",
@@ -271,6 +277,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn35-28-aditta-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn45_2",
+        label="SN 45.2",
+        main_relpath="docs/translations/sn45-2-upaddha-sutta.md",
+        notes_relpath="docs/translations/sn45-2-upaddha-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn36_6",
         label="SN 36.6",
         main_relpath="docs/translations/sn36-6-salla-sutta.md",
@@ -305,6 +317,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         label="AN 6.63",
         main_relpath="docs/translations/an6-63-nibbedhika-sutta.md",
         notes_relpath="docs/translations/an6-63-nibbedhika-sutta-notes.md",
+    ),
+    TranslationSurface(
+        key="an8_6",
+        label="AN 8.6",
+        main_relpath="docs/translations/an8-6-dutiyalokadhamma-sutta.md",
+        notes_relpath="docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md",
     ),
     TranslationSurface(
         key="an10_60",
@@ -350,7 +368,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn19": "cbd316fc12b13ac6362a881d0c084300195e4abaf848d9ca1b1daa5e666fb012",
     "mn22": "c4d78501fbf276810b7f9e5bca28f2b8aed3c99895745c7410347555729ff43e",
     "mn26": "839a76a0fe62caa29f03c7ee03a21ccbf0f2e5f245472183a2e8a5a1734921a2",
-    "mn38": "5d71f4445c77a4ecd730d97958251227b35a305130273bc1d7ade8f44915438e",
+    "mn38": "04cb1af6c20c7c80fd2ecc339386f6efbe427ed8c61c45e417e7c17478f0fe82",
     "mn39": "2d7ef3498aed55c1c45d2a39afd96ef1d63fa60427469ef7e706b13ba52701a3",
     "mn43": "89e8048c79bb6800263f7b4640e5ff88f9c15a39238797cfa6e59674a2e1adc1",
     "mn44": "8ebf5a76faa284802e000f9ba46c2822aa15627f900c65a036e783c8bd266179",
@@ -360,13 +378,14 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn99": "fe958da081881326fbc5f0e379908c48a1c68500b01feb379b34510a966f2d5c",
     "mn117": "e5d69b1863169ccc9a9f3fb503b413294aa84aa0951eca6c5a571dcb34261b60",
     "mn118": "21e66145b96bad998cfc4ffb60162d3c01d0471c18a24ef1dcf1576cf626c653",
+    "mn119": "d7be0fc71bfe595116ec6b72009a75f9ba210d90ea084818447fc19666e437a5",
     "mn131": "6c6498fe1ee6c5763b1ae962c2e0dd2c22018ef53d59fd7a8cd50d078f67912f",
-    "mn137": "0d52c976e54168c4bc1401b65fb7d03022317e96c1f5555ebf0c4df648622ccb",
+    "mn137": "af7beff3ec76703d37e219397f9996880768fe9532a83d48162851447ccbdbc3",
     "mn141": "a91647e933848b1215c94b313e7deccb01dabec1bf56330feb46806179239976",
     "mn148": "cc80f649865587452fd0a52fd39ecd47ea518bb3b34c36e9203c8ac27f5407c1",
     "sn12_11": "1e477e680b47e78332c3a7a6b0168aa0b0801d4ff6a4b9c9a6e15da921b5f522",
     "sn12_61": "d6425a0e787dbd6c87cb12ad3e52fd50c192bdd7b655a26554a560038b9eb11c",
-    "sn12_15": "54dba79ca696ae6b28fb592519c57f3ed767b6bad4a3c2d424f1a2e39981e0d7",
+    "sn12_15": "f4edd91be61c2e628c09ed7e4dca8dc7fd2933f5f69ad44544a6a8d7e4e12aaf",
     "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
     "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
     "sn51_13": "9bab46d9c0f2feb7e1994f3bdbd265a74b9acae41e9058ecb3d700573af15763",
@@ -377,13 +396,15 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
     "sn22_86": "dc596235a508bb359cc80f667bbb5f05984a99b313830825c7c4811b950ef1c1",
     "sn35_28": "b159e8dd510ce49333e7be928a5fd807c6b585af52fe3722e4677036a63b90a3",
+    "sn45_2": "044d73b1c4a850b57400a297bad0fc923b9d8a75b48b4ff16295278264b03321",
     "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
     "sn46_51": "089c5d05fdadf815ca6ab2fa0cbca72f7df0a9375d3fb5ba5d48544647584cb4",
     "sn48_10": "a7c91d4ed5b885b4e287022b0718eac6c0cf1e8bcbd17eab97776f39d01c90ec",
     "an3_65": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
     "an4_113": "fcd415f18a8c6738f548ff4eaa1733bebe4b850e6f50e4787527ed2e2a08a166",
     "an6_63": "d40dbfbf1d64a355fffa1a14d98d2dcc07661ff33b73d59cd0815f697bc3fc6c",
-    "an10_60": "3993445a897d7a07d9c92fb540dd10cf03b838c46b0bc5cd8eb5ccbc457b6663",
+    "an8_6": "0f532dc82ac30bda4c3a1d4300404280c988c6c08bf1272da8a91df46618d7da",
+    "an10_60": "55a08fcdd577c9177b17bb62672d11c27c278f6f27d23a0641279411285c54fc",
     "an11_9": "5be8a71c5b42fe60e4b30d4aa7ee37f5a7eaf6e0b67f7279352c1d4d04ac1abd",
     "dn2": "e14ae3eb8758d509eac9c1868993c55eb3ac51bd18763bfe28bb2a68c47ce323",
     "dn15": "8461edc9ebaee7f98b372823f02660f84fba4534308cc3b74f3f17922f37c9f1",
@@ -393,6 +414,13 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 READABILITY_REVIEWED_ON: dict[str, str] = {
     "mn131": "2026-08-24",
     "sn22_86": "2026-08-24",
+    "mn119": "2026-08-24",
+    "sn45_2": "2026-08-24",
+    "an8_6": "2026-08-24",
+    "mn38": "2026-08-24",
+    "mn137": "2026-08-24",
+    "sn12_15": "2026-08-24",
+    "an10_60": "2026-08-24",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -491,15 +519,22 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "Examine what happens when a teaching is put into practice.",
         reader_title="How to Test a Teaching",
     ),
+    "sn45_2": ReaderMeta(
+        "Upaḍḍha Sutta", 1, 2,
+        "Ānanda calls good friendship half the spiritual life; the Buddha calls "
+        "it the whole. A short, social bridge from testing a teaching to "
+        "actually developing the path.",
+        reader_title="Good Friendship Is the Whole Path",
+    ),
     "mn63": ReaderMeta(
-        "Cūḷamālukya Sutta", 1, 2,
+        "Cūḷamālukya Sutta", 1, 3,
         "Why the teaching refuses to answer certain metaphysical questions. "
         "Directly answers the objection a skeptical reader will already be "
         "forming after the first text.",
         reader_title="The Man Struck by a Poisoned Arrow",
     ),
     "mn26": ReaderMeta(
-        "Pāsarāsi Sutta", 1, 3,
+        "Pāsarāsi Sutta", 1, 4,
         "The Buddha's own account of leaving home, studying under two teachers, "
         "and finding them insufficient. A narrative, not a doctrine — a human "
         "anchor before the vocabulary gets technical.",
@@ -521,21 +556,27 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "immediately recognizable.",
         reader_title="One Arrow, Not Two",
     ),
+    "an8_6": ReaderMeta(
+        "Dutiyalokadhamma Sutta", 2, 3,
+        "Gain and loss, praise and blame, pleasure and pain happen to everyone. "
+        "The difference is whether they take over the heart.",
+        reader_title="When Life Goes Up and Down",
+    ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 3,
+        "Vattha Sutta", 2, 4,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 4,
+        "Patoda Sutta", 2, 5,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 5,
+        "Dutiyasāriputta Sutta", 2, 6,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -543,7 +584,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 6,
+        "Saddha Sutta", 2, 7,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -586,27 +627,34 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "the pieces above, worth returning to rather than finishing.",
         reader_title="The Four Foundations of Remembering",
     ),
+    "mn119": ReaderMeta(
+        "Kāyagatāsati Sutta", 3, 6,
+        "A long practice sequence directing remembering to breathing, movement, "
+        "the body's contents and fate, deep composure, resilience, and ten "
+        "claimed results.",
+        reader_title="Remembering Directed to the Body",
+    ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 6,
+        "Sāmaññaphala Sutta", 3, 7,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
         reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 7,
+        "Girimānanda Sutta", 3, 8,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
         reader_title="Ten Perceptions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 8,
+        "Mahā-Assapura Sutta", 3, 9,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 9,
+        "Āhāra Sutta", 3, 10,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves Distraction",
@@ -806,6 +854,97 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="The Two Nibbāna Elements",
     ),
 }
+
+
+# Discovery metadata is intentionally expressed as named groups rather than as
+# free-form tags copied into forty-eight records.  That keeps the public filter
+# vocabulary small, makes omissions testable, and lets one surface appear under
+# more than one useful reader question.
+TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
+    "Getting started": (
+        "an3_65", "sn45_2", "mn63", "mn26",
+    ),
+    "Ethics and conduct": (
+        "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
+    ),
+    "Meditation": (
+        "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
+        "sn46_51", "sn51_13", "sn48_10", "mn119",
+    ),
+    "Four truths and path": (
+        "sn56_11", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
+        "mn117", "an6_63", "sn45_2", "an8_6",
+    ),
+    "Not-self": (
+        "sn22_59", "mn22", "sn22_48", "sn22_86", "sn22_89", "mn131",
+        "mn148", "mn1", "iti44",
+    ),
+    "Dependent arising": (
+        "sn12_15", "sn12_61", "sn12_23", "sn12_11", "sn12_2", "mn38",
+        "dn15", "mn9",
+    ),
+    "Mind and senses": (
+        "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
+        "mn38", "an8_6",
+    ),
+}
+
+FORM_GROUPS: dict[str, tuple[str, ...]] = {
+    "Dialogue": (
+        "an3_65", "mn63", "mn26", "mn61", "dn2", "mn44", "mn43",
+        "mn64", "mn99", "mn18", "mn38", "sn22_86", "sn22_89",
+        "sn12_15", "sn45_2",
+    ),
+    "Practice instructions": (
+        "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
+        "sn51_13", "sn48_10", "mn119",
+    ),
+    "Analysis": (
+        "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
+        "sn22_48", "an6_63", "dn15",
+    ),
+    "Teaching with verse": (
+        "mn131", "iti44", "an11_9", "an8_6",
+    ),
+}
+
+DIFFICULTY_BY_STAGE: dict[int, str] = {
+    1: "Introductory",
+    2: "Introductory",
+    3: "Practical",
+    4: "Intermediate",
+    5: "Advanced",
+}
+
+
+def reader_topics(surface: TranslationSurface) -> tuple[str, ...]:
+    """Curated public topics for one surface, in display order."""
+    return tuple(
+        topic for topic, keys in TOPIC_GROUPS.items() if surface.key in keys
+    )
+
+
+def reader_form(surface: TranslationSurface) -> str:
+    """The surface's dominant literary form for reader discovery."""
+    for form, keys in FORM_GROUPS.items():
+        if surface.key in keys:
+            return form
+    return "Teaching"
+
+
+def reader_difficulty(surface: TranslationSurface) -> str:
+    """A plain orientation label derived from the governed reading stage."""
+    return DIFFICULTY_BY_STAGE[reader_meta(surface).stage]
+
+
+def canonical_reference(surface: TranslationSurface) -> str:
+    """SuttaCentral UID derived from a display reference such as `SN 22.86`."""
+    return surface.label.casefold().replace(" ", "")
+
+
+def canonical_pali_url(surface: TranslationSurface) -> str:
+    """Canonical Mahāsaṅgīti Pali source used by the translation workflow."""
+    return f"https://suttacentral.net/{canonical_reference(surface)}/pli/ms"
 
 
 def reader_meta(surface: TranslationSurface) -> ReaderMeta:

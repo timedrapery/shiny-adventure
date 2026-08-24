@@ -38,6 +38,7 @@ import math
 import re
 import sys
 from pathlib import Path
+from urllib.parse import quote
 
 try:
     from scripts.surface_registry import (
@@ -47,8 +48,13 @@ try:
         TRANSLATION_SURFACES,
         TranslationSurface,
         REPO_ROOT,
+        TOPIC_GROUPS,
+        canonical_pali_url,
         display_title,
+        reader_difficulty,
+        reader_form,
         reader_meta,
+        reader_topics,
         surfaces_in_reading_order,
     )
 except ModuleNotFoundError:  # invoked as a script from the repo root
@@ -59,8 +65,13 @@ except ModuleNotFoundError:  # invoked as a script from the repo root
         TRANSLATION_SURFACES,
         TranslationSurface,
         REPO_ROOT,
+        TOPIC_GROUPS,
+        canonical_pali_url,
         display_title,
+        reader_difficulty,
+        reader_form,
         reader_meta,
+        reader_topics,
         surfaces_in_reading_order,
     )
 
@@ -69,6 +80,7 @@ READER_DIR = REPO_ROOT / "reader-src"
 SUTTA_DIR = READER_DIR / "suttas"
 GLOSSARY_SOURCE = REPO_ROOT / "includes" / "glossary.md"
 GUIDES_DIR = REPO_ROOT / "includes" / "newcomer-guides"
+INTROS_DIR = REPO_ROOT / "includes" / "reader-intros"
 TERMS_DIR = REPO_ROOT / "terms"
 MKDOCS = REPO_ROOT / "mkdocs.yml"
 
@@ -132,6 +144,14 @@ def existing_intro(path: Path) -> str | None:
     return None
 
 
+def reader_intro(surface: TranslationSurface, page: Path) -> str | None:
+    """Authoritative intro file first; preserved legacy page prose second."""
+    intro_path = INTROS_DIR / f"{surface.key}.md"
+    if intro_path.is_file():
+        return intro_path.read_text(encoding="utf-8").strip()
+    return existing_intro(page)
+
+
 def translation_word_count(body: str) -> int:
     """A stable, reader-facing word count for a governed Markdown body."""
     plain = re.sub(r"<!--.*?-->", " ", body, flags=re.S)
@@ -144,6 +164,22 @@ def translation_word_count(body: str) -> int:
 def reading_stats(body: str) -> tuple[int, int]:
     words = translation_word_count(body)
     return words, max(1, math.ceil(words / WORDS_PER_MINUTE))
+
+
+def first_sentence(text: str) -> str:
+    """Return a first sentence without dropping its closing quote or bracket."""
+    normalized = re.sub(r"\s+", " ", text).strip()
+    match = re.search(r"[.!?](?:[\"'”’\)\]]*)(?=\s|$)", normalized)
+    return normalized[:match.end()] if match else normalized
+
+
+def length_band(words: int) -> tuple[str, str]:
+    """Stable reader-facing length buckets used by the discovery filter."""
+    if words <= 1_000:
+        return "short", "Short"
+    if words <= 3_000:
+        return "medium", "Medium"
+    return "long", "Long"
 
 
 # --------------------------------------------------------------------------
@@ -345,6 +381,36 @@ def render_terms_panel(entries: list[tuple[str, str]]) -> list[str]:
     return lines
 
 
+def render_source_status(surface: TranslationSurface) -> list[str]:
+    """Quiet, inspectable provenance without burdening the reading flow."""
+    review = surface.readability_review
+    status = review.status if review is not None else "unreviewed"
+    status_label = status.replace("-", " ").capitalize()
+    reviewed_on = review.reviewed_on if review is not None else "not recorded"
+    version = review.body_sha256[:8] if review is not None else "not recorded"
+    notes_url = (
+        "https://github.com/timedrapery/shiny-adventure/blob/main/"
+        f"{surface.notes_relpath}"
+    )
+    issue_title = quote(f"Reader correction: {surface.label}")
+    issue_url = (
+        "https://github.com/timedrapery/shiny-adventure/issues/new"
+        f"?title={issue_title}"
+    )
+    return [
+        '<details class="reader-source-status" markdown="1">',
+        "<summary>Source and status</summary>",
+        "",
+        f"- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition]({canonical_pali_url(surface)})",
+        f"- **Translation notes:** [Editorial decisions and source audit]({notes_url})",
+        f"- **Status:** {status_label}. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.",
+        f"- **Last editorial review:** {reviewed_on} · body version `{version}`",
+        f"- [Report a problem with this page]({issue_url}) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)",
+        "",
+        "</details>",
+    ]
+
+
 def render_reading_nav(
     previous: TranslationSurface | None,
     following: TranslationSurface | None,
@@ -403,6 +469,7 @@ def render_sutta_page(
         lines.append(intro.strip() if intro else DEFAULT_INTRO)
     lines.extend(["", "## Translation", "", body, ""])
     lines.extend(render_terms_panel(entries))
+    lines.extend([""] + render_source_status(surface))
     lines.extend(["", "---", ""])
     lines.extend(render_reading_nav(previous, following))
     lines.append("")
@@ -442,6 +509,8 @@ def render_home() -> str:
         "first rather than by editorial priority",
         "- [**All Suttas**](suttas/index.md) — the full collection, if you "
         "already know what you are looking for",
+        "- [**Find a sutta**](find-a-sutta.md) — filter by topic, difficulty, "
+        "form, or reading length",
         "- [**Glossary**](glossary.md) — the recurring vocabulary, in plain "
         "English",
         # Deliberately a raw anchor rather than a Markdown link. The book is
@@ -510,9 +579,11 @@ def render_start_here() -> str:
             meta = reader_meta(surface)
             label = display_title(surface)
             suffix = f" ({surface.label}, {meta.pali_title})"
+            body = surface_body(surface.main_path.read_text(encoding="utf-8"))
+            words, minutes = reading_stats(body)
             lines.append(
                 f"- [**{label}**](suttas/{surface.main_name}){suffix} — "
-                f"{meta.path_note}"
+                f"about {minutes} min · {words:,} words. {meta.path_note}"
             )
         lines.append("")
 
@@ -563,12 +634,101 @@ def render_all_suttas() -> str:
         lines.extend([f"## {pali} ({prefix}) — {gloss}", ""])
         for surface in group:
             meta = reader_meta(surface)
-            note = meta.path_note.split(".")[0].strip() + "."
+            note = first_sentence(meta.path_note)
+            body = surface_body(surface.main_path.read_text(encoding="utf-8"))
+            words, minutes = reading_stats(body)
             lines.append(
                 f"- [**{display_title(surface)}**]({surface.main_name}) — "
-                f"{surface.label} · {meta.pali_title} · Set {meta.stage}. {note}"
+                f"{surface.label} · {meta.pali_title} · about {minutes} min · "
+                f"{words:,} words · Set {meta.stage}. {note}"
             )
         lines.append("")
+    return "\n".join(lines).rstrip() + "\n"
+
+
+def render_find_a_sutta() -> str:
+    """A progressively enhanced, keyboard-friendly corpus discovery page."""
+    topic_options = "\n".join(
+        f'<option value="{html.escape(topic.casefold())}">{html.escape(topic)}</option>'
+        for topic in TOPIC_GROUPS
+    )
+    lines = [
+        "# Find a sutta",
+        "",
+        "Use one or more filters, or simply browse the complete list below. "
+        "Every result remains visible and linked when JavaScript is unavailable.",
+        "",
+        '<form class="sutta-filters" aria-label="Filter suttas">',
+        '<label for="sutta-query">Words in the title or description</label>',
+        '<input id="sutta-query" name="query" type="search" autocomplete="off">',
+        '<label for="sutta-topic">Topic</label>',
+        '<select id="sutta-topic" name="topic">',
+        '<option value="">All topics</option>',
+        topic_options,
+        "</select>",
+        '<label for="sutta-difficulty">Difficulty</label>',
+        '<select id="sutta-difficulty" name="difficulty">',
+        '<option value="">All difficulty levels</option>',
+        '<option value="introductory">Introductory</option>',
+        '<option value="practical">Practical</option>',
+        '<option value="intermediate">Intermediate</option>',
+        '<option value="advanced">Advanced</option>',
+        "</select>",
+        '<label for="sutta-form">Form</label>',
+        '<select id="sutta-form" name="form">',
+        '<option value="">All forms</option>',
+        '<option value="dialogue">Dialogue</option>',
+        '<option value="practice instructions">Practice instructions</option>',
+        '<option value="analysis">Analysis</option>',
+        '<option value="teaching with verse">Teaching with verse</option>',
+        '<option value="teaching">Teaching</option>',
+        "</select>",
+        '<label for="sutta-length">Length</label>',
+        '<select id="sutta-length" name="length">',
+        '<option value="">All lengths</option>',
+        '<option value="short">Short, up to about 6 minutes</option>',
+        '<option value="medium">Medium, about 6–17 minutes</option>',
+        '<option value="long">Long, more than about 17 minutes</option>',
+        "</select>",
+        '<button type="reset">Clear filters</button>',
+        "</form>",
+        "",
+        f'<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all {len(TRANSLATION_SURFACES)} suttas.</p>',
+        "",
+        '<div class="sutta-grid">',
+    ]
+    for surface in surfaces_in_reading_order():
+        meta = reader_meta(surface)
+        body = surface_body(surface.main_path.read_text(encoding="utf-8"))
+        words, minutes = reading_stats(body)
+        band, band_label = length_band(words)
+        topics = reader_topics(surface)
+        topic_text = " · ".join(topics)
+        topic_data = "|".join(topic.casefold() for topic in topics)
+        form = reader_form(surface)
+        difficulty = reader_difficulty(surface)
+        searchable = " ".join(
+            (display_title(surface), surface.label, meta.pali_title, meta.path_note, topic_text)
+        ).casefold()
+        lines.extend([
+            (
+                f'<article class="sutta-card" data-topic="{html.escape(topic_data)}" '
+                f'data-difficulty="{html.escape(difficulty.casefold())}" '
+                f'data-form="{html.escape(form.casefold())}" '
+                f'data-length="{band}" data-search="{html.escape(searchable)}">'
+            ),
+            f'<h2><a href="../suttas/{surface.main_path.stem}/">{html.escape(display_title(surface))}</a></h2>',
+            f'<p class="sutta-card__reference">{html.escape(surface.label)} · <span lang="pi">{html.escape(meta.pali_title)}</span></p>',
+            f'<p class="sutta-card__meta">{html.escape(difficulty)} · {html.escape(form)} · {band_label} · about {minutes} min · {words:,} words</p>',
+            f'<p class="sutta-card__topics"><strong>Topics:</strong> {html.escape(topic_text)}</p>',
+            f"<p>{html.escape(meta.path_note)}</p>",
+            "</article>",
+        ])
+    lines.extend([
+        "</div>",
+        "",
+        "<noscript>The filters need JavaScript, but the complete list above is already available.</noscript>",
+    ])
     return "\n".join(lines).rstrip() + "\n"
 
 
@@ -597,14 +757,20 @@ def render_glossary() -> str:
         "Each sutta also has a visible words-used panel. Some browsers show the "
         "same definitions on marked terms, but the panel works without hovering.",
         "",
-        '<dl class="glossary-list">',
     ]
     seen_definitions: set[tuple[str, str]] = set()
+    current_letter = ""
     for term, gloss in sorted(glossary.items(), key=lambda kv: kv[0].casefold()):
         identity = (term.casefold(), gloss)
         if identity in seen_definitions:
             continue
         seen_definitions.add(identity)
+        letter = term[0].upper()
+        if letter != current_letter:
+            if current_letter:
+                lines.append("</dl>")
+            current_letter = letter
+            lines.extend(["", f"## {html.escape(letter)}", "", '<dl class="glossary-list">'])
         record = by_rendering.get(term.casefold())
         pali = ""
         if record is not None and isinstance(record.get("term"), str):
@@ -658,6 +824,7 @@ def planned_files() -> dict[Path, str]:
     planned: dict[Path, str] = {
         READER_DIR / "index.md": render_home(),
         READER_DIR / "start-here.md": render_start_here(),
+        READER_DIR / "find-a-sutta.md": render_find_a_sutta(),
         READER_DIR / "glossary.md": render_glossary(),
         SUTTA_DIR / "index.md": render_all_suttas(),
     }
@@ -665,7 +832,7 @@ def planned_files() -> dict[Path, str]:
         page = SUTTA_DIR / surface.main_name
         planned[page] = render_sutta_page(
             surface,
-            existing_intro(page),
+            reader_intro(surface, page),
             glossary,
             ordered[position - 1] if position else None,
             ordered[position + 1] if position + 1 < len(ordered) else None,

@@ -3,11 +3,11 @@
 | Role | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- | --- |
 | Headword | anicca | impermanent | inconstant, unstable | temporary |
-| Headword | dukkha | dissatisfaction | unsatisfactoriness, stress | suffering |
+| Headword | dukkha | dissatisfaction | unsatisfactoriness, stress, pain | suffering |
 | Headword | anattā | not-self | not a self, without self, free of I and mine | no-self, selfless |
-| Support | saṅkhārā | putting things together | what has been put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
+| Support | saṅkhārā | putting things together | what has been put together, what is put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
 | Support | saṅkhata | conditioned | constructed | created |
-| Support | dhamma | dhamma | teaching, phenomenon, quality, nature, law, duty, fruit | thing |
+| Support | dhamma | dhamma | teaching, phenomenon, quality, nature, law, duty, fruit, ideas | thing |
 | Practice | anicca-sanna | perception of impermanence | impermanence perception | temporary perception |
 | Practice | dukkha-sanna | perception of dissatisfaction | perception of unsatisfactoriness | perception of suffering |
 | Practice | anatta-sanna | perception of not-self | not-self perception | no-self perception |

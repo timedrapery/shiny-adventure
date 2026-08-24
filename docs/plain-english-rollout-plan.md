@@ -10,7 +10,7 @@ rereading the commit history. The standard says what good English looks like.
 This document says what was done, what was deliberately left alone, and how
 to do the same kind of work safely next time.
 
-Last updated 2026-08-22. The rollout is complete; what remains here is the
+Last updated 2026-08-24. The rollout is complete; what remains here is the
 working method, the traps, and the decisions that were deliberately deferred.
 Read it before touching a translation surface or extending the audit.
 
@@ -24,25 +24,20 @@ reader page. Counts are not restated here; they follow the registry.
   by `scripts/generate_reader.py --check` inside `run_checks.py`. The audit
   scans the canonical surfaces only; auditing the generated copies as well
   would double-count every finding.
-- The audit reports 10 signals, and all 10 are the documented exceptions listed
-  under Deliberately Deferred below.
+- The audit reports zero signals. Four formerly deferred phrase families were
+  settled together with their notes or governing record on 2026-08-24.
 
 ```bash
 python scripts/plain_english_audit.py
 ```
 
-Expect 10. Higher means a regression or a new surface; lower means one of the
-deferred decisions has been settled and this document needs updating.
+Expect zero. A higher count means a regression or a new surface that needs a
+real source-aware review.
 
-The 10 are: five occurrences of `a noble one cultivates` in MN 137, three
-occurrences of `recognition of unattractiveness` in the canonical AN 10.60
-surface, one `one who` in MN 38 naming a referent, and one `duality of
-existence` in SN 12.15. None is an undocumented defect.
-
-This section said 8 until 2026-08-21. That count included the AN 10.60 notes
-file. The audit skips `-notes.md` as apparatus rather than translation, so the
-notes occurrences were never in its output; the number, not the corpus, was
-wrong. The three exception categories are unchanged.
+The settled changes are: `a noble person cultivates` in MN 137; verbal
+`recognizing what is unattractive` wording in AN 10.60; Sāti's referent named
+directly as `this same consciousness` in MN 38; and SN 12.15's two positions
+expressed as opposing views rather than a stacked abstract noun phrase.
 
 ## Corpus-Wide Readability Review — 2026-08-22
 
@@ -221,33 +216,28 @@ it `Well-Departed One`. Three renderings for one governed term. Recorded in
 `terms/major/bhagava.json` notes because `the Fortunate One` is also
 `bhagava`'s literal alternate, so the collision is live.
 
-### `he is the one who speaks and knows`
+### `this same consciousness speaks and knows`
 
-MN 38, Sati's wrong view. Ordinary English naming a referent, not the
-generic-person artifact. Stays flagged by the advisory audit on purpose.
+MN 38 now names Sāti's mistaken referent directly. This keeps the proposition
+while removing a clause-person label that was easy to mishear.
 
-### `a noble one cultivates`
+### `a noble person cultivates`
 
-MN 137, five times. Here `one` is the noun in the teacher label `a noble one`,
-not an unnamed generic-person stand-in. The phrase is also pinned in the
-reviewed `mn137-three-establishments-of-sati` control record. A future choice
-such as `a noble person` should move through that record and all five surface
-occurrences together rather than being hidden as an audit-only exception.
+MN 137, five times. The wording was moved through the reviewed
+`mn137-three-establishments-of-sati` control record and all occurrences
+together, so the plain-English improvement did not create formula drift.
 
-### `recognition of unattractiveness`
+### `recognizing what is unattractive`
 
-Six occurrences, three in each of the two AN 10.60 files. A nominalized
-inflection of governed `asubha` (`unattractive`), and the rendering is recorded
-in the AN 10.60 notes. The `is_compositional` check in the audit suppresses an
-`X of Y` phrase when both halves are governed renderings, but it does not do
-inflection matching, and making it do so risks over-suppression.
+AN 10.60 now uses a verb in the heading, question, and closing definition. The
+notes explicitly connect that running-English form to governed `saññā`
+(`recognition`) and `asubha` (`unattractive`).
 
-### `duality of existence`
+### The two existence views
 
-SN 12.15, once. This surface is the governed middle-way control text and the
-phrase belongs to the `atthita` / `natthita` framing, so it is doctrinal
-vocabulary rather than stray noun-stacking. Changing it would be a doctrinal
-decision about the middle-way formula, not a register fix.
+SN 12.15 now says the world relies on two opposing views: that things exist
+and that they do not. The atthitā/natthitā contrast remains explicit without
+making the reader decode `duality of existence and non-existence`.
 
 ## Open Items Beyond This Rollout
 

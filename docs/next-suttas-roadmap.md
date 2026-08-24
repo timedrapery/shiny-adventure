@@ -16,7 +16,7 @@ point is to choose texts that:
 ## Audit Basis
 
 This ranking was made when the repository had 36 translation surfaces; it now
-has 48, and the historical figure is kept because the ranking below was
+has 51, and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN
 131 and SN 22.86, are tracked in
@@ -908,7 +908,8 @@ being written down, per the Wave 6 method correction.
 2. `MN 119` Kāyagatāsati Sutta — 1,906 words, `kāyagatā` 30 times. The
    dedicated anchor for `kayagata-sati`. Note that its other claimed orphan
    major, `kaya`, stops being one as soon as the DN 22 citations move to
-   MN 10, so this text is worth one record rather than two.
+   MN 10, so this text is worth one record rather than two. **Translated
+   2026-08-24.**
 3. `AN 2.9` — **weaker than the audit implies.** It was ranked while
    uncached; now cached, it is 843 Pali words rather than the short text the
    ranking assumed, and `hiri` occurs exactly once. Its `hiri` citation is

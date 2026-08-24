@@ -6,7 +6,8 @@
   "literal_meaning": "sound",
   "preferred_translation": "sound",
   "alternative_translations": [
-    "noise"
+    "noise",
+    "sounds"
   ],
   "discouraged_translations": [
     "voice"
@@ -24,6 +25,11 @@
       "context": "In contexts where the line clearly emphasizes disturbance or harshness",
       "rendering": "noise",
       "notes": "Use selectively."
+    },
+    {
+      "context": "As plural ear-sense objects in SN 35.28",
+      "rendering": "sounds",
+      "notes": "Ordinary plural English for the repeated burning sequence."
     }
   ],
   "related_terms": [

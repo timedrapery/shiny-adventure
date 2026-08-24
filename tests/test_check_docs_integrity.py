@@ -22,6 +22,22 @@ def write_required_repo_files(repo_root: Path) -> None:
 
 
 class CheckDocsIntegrityTests(unittest.TestCase):
+    def test_iter_markdown_files_ignores_dependency_and_build_directories(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            write_required_repo_files(repo_root)
+            for directory in ("node_modules", "site", ".venv"):
+                path = repo_root / directory / "README.md"
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text("[missing](nowhere.md)\n", encoding="utf-8")
+
+            found = check_docs_integrity.iter_markdown_files(repo_root)
+
+        relative = {path.relative_to(repo_root).as_posix() for path in found}
+        self.assertNotIn("node_modules/README.md", relative)
+        self.assertNotIn("site/README.md", relative)
+        self.assertNotIn(".venv/README.md", relative)
+
     def test_collect_markdown_failures_accepts_valid_relative_links_and_anchor(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             repo_root = Path(tmpdir)

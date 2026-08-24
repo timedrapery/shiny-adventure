@@ -2,7 +2,7 @@
 
 | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
-| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel | attachment, desire |
+| upādāna | taking personally | ignorantly holding, clinging, grasping, fuel, appropriation | attachment, desire |
 | taṇhā | ignorant wanting | craving, thirst, excitement about getting things, wanting things you can't have right now | desire, attachment |
 | chanda | desire | motivation, interest | craving, attachment |
 | rāga | passion | attachment, coloring | lust, desire, craving |

@@ -78,7 +78,9 @@ have sufficient lexicon coverage:
 
 ## Re-audit Calls
 
-- `asubhasaññā` is rendered `recognition of unattractiveness`. `Asubha`
+- `asubhasaññā` is rendered in running English as `recognizing what is
+  unattractive`. This is the verbal form of the governed `saññā` →
+  `recognition` and `asubha` → `unattractive` pair. `Asubha`
   (not-beautiful, unattractive) names the body-review contemplation that
   works against sensual idealization. `Unattractiveness` is plain and
   functional without importing disgust-language or ascetic severity.
@@ -125,7 +127,9 @@ have sufficient lexicon coverage:
 - The main translation is divided into three sections: `The Setting`,
   `The Ten Recognitions`, and `The Outcome`. Within `The Ten Recognitions`,
   each perception is introduced with a bold numbered heading (e.g.,
-  **1. Recognition of Impermanence**). This keeps the parallel structure of
+  **1. Recognition of Impermanence**). The third uses the more speakable
+  **Recognizing What Is Unattractive** rather than stacking two abstract
+  nouns. This keeps the parallel structure of
   the ten definitions scannable without multiplying heading levels.
 - The ten perception names appear as a single list at the opening of the
   section, mirroring the Pali's enumeration before the individual definitions.

@@ -134,12 +134,12 @@ source-audit calls, and edition notes that govern it.
   expansion uses short repeated questions and answers, and the pivotal
   `cannot pin down` sentence states the failure of description without
   introducing a fifth metaphysical claim.
-- Automated governance review: pending the full repository verification
-  suite.
+- Automated governance review: complete; the full repository suite passed on
+  2026-08-24.
 - Source-fidelity review: complete against the segmented Pali root on
   2026-08-24.
-- Human read-aloud usability review: complete on 2026-08-24; every repeated
-  question can be spoken at ordinary speed without a syntactic restart.
+- Human read-aloud usability review: pending under the newcomer review
+  protocol.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the newcomer review is recorded.

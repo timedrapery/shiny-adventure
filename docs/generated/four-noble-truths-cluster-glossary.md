@@ -3,7 +3,7 @@
 | Role | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- | --- |
 | Headword | ariyasacca | noble truth | ennobling truth, truth of the buddha | holy truth |
-| Headword | dukkha | dissatisfaction | unsatisfactoriness, stress | suffering |
+| Headword | dukkha | dissatisfaction | unsatisfactoriness, stress, pain | suffering |
 | Headword | samudaya | origin | arising | creation |
 | Headword | nirodha | quenching | ending, cessation, discontinuity, stop, cease | annihilation, wearing away, mere cessation |
 | Headword | magga | path | way | road |

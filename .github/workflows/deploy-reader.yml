@@ -21,6 +21,10 @@ on:
       - "scripts/**"
       - "mkdocs.yml"
       - "requirements-dev.txt"
+      - "package.json"
+      - "pnpm-lock.yaml"
+      - "playwright.config.js"
+      - "tests/browser/**"
       - ".github/workflows/deploy-reader.yml"
   workflow_dispatch:
 
@@ -37,7 +41,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -64,6 +68,20 @@ jobs:
       - name: Build site
         run: mkdocs build --strict
 
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 10
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: pnpm
+      - name: Install rendered-accessibility dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Install Chromium
+        run: pnpm exec playwright install --with-deps chromium
+      - name: Check the rendered reader
+        run: pnpm test:a11y
+
       # The downloadable edition is assembled from the generated reader pages
       # and written into the built site, so it has to come after MkDocs (which
       # cleans site/ on every build) and before the artifact is uploaded.
@@ -73,6 +91,8 @@ jobs:
 
       - name: Build downloadable edition
         run: python scripts/build_book.py
+      - name: Validate downloadable edition
+        run: python scripts/check_epub.py
 
       - uses: actions/upload-pages-artifact@v3
         with:

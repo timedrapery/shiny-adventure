@@ -6,7 +6,8 @@
   "preferred_translation": "dissatisfaction",
   "alternative_translations": [
     "unsatisfactoriness",
-    "stress"
+    "stress",
+    "pain"
   ],
   "discouraged_translations": [
     "suffering"
@@ -29,6 +30,11 @@
       "context": "When referring narrowly to felt strain or pressure in a specific passage",
       "rendering": "stress",
       "notes": "Use only when context clearly supports a narrower shade."
+    },
+    {
+      "context": "As the felt opposite of sukha in AN 8.6's eight worldly conditions",
+      "rendering": "pain",
+      "notes": "A narrow experiential pair; the sutta's final doctrinal dukkha remains dissatisfaction."
     },
     {
       "context": "In OSF practical instruction focused on what the mind is doing right now",

@@ -7,7 +7,7 @@
 
 *AN 10.60, the Girimānanda Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,460 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,467 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -87,9 +87,9 @@ They remain observing not-self in the six inner and outer sense fields.
 
 This, Ānanda, is called the recognition of not-self.
 
-**3. Recognition of Unattractiveness**
+**3. Recognizing What Is Unattractive**
 
-And what, Ānanda, is the recognition of unattractiveness?
+And what, Ānanda, does it mean to recognize what is unattractive?
 
 Here, Ānanda, a bhikkhu examines this very body upward from the soles of the
 feet and downward from the tips of the hair, enclosed by skin, full of many
@@ -102,7 +102,7 @@ sweat, fat; tears, grease, saliva, snot, fluid of the joints, urine.'
 
 They remain observing unattractiveness in this body.
 
-This, Ānanda, is called the recognition of unattractiveness.
+This, Ānanda, is what it means to recognize what is unattractive.
 
 **4. Recognition of Drawbacks**
 
@@ -298,6 +298,17 @@ The tenth discourse is finished.
 <dt><dfn>world</dfn></dt>
 <dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
 </dl>
+</details>
+
+<details class="reader-source-status" markdown="1">
+<summary>Source and status</summary>
+
+- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an10.60/pli/ms)
+- **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an10-60-giriminanda-sutta-notes.md)
+- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
+- **Last editorial review:** 2026-08-24 · body version `55a08fcd`
+- [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2010.60) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
+
 </details>
 
 ---

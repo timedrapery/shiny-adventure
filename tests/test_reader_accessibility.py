@@ -48,6 +48,13 @@ The translation begins.
 Definitions go here.
 </details>
 
+<details class="reader-source-status">
+<summary>Source and status</summary>
+Canonical Pali: https://suttacentral.net/sn1.1/pli/ms
+Status: Provisional
+Report a problem
+</details>
+
 <nav class="reading-order" aria-label="Reading order">
 Previous, all suttas, next.
 </nav>
@@ -92,6 +99,37 @@ class PageContractTests(unittest.TestCase):
         )
         failures = accessibility.sutta_page_failures(broken, "x.md")
         self.assertTrue(any("raw HTML links" in failure for failure in failures))
+
+    def test_source_status_panel_is_required(self) -> None:
+        broken = GOOD_PAGE.replace(
+            '<details class="reader-source-status">', '<details class="other">'
+        )
+        failures = accessibility.sutta_page_failures(broken, "x.md")
+        self.assertTrue(any("reader-source-status" in failure for failure in failures))
+
+
+class DiscoveryPageTests(unittest.TestCase):
+    GOOD = """\
+# Find a sutta
+<form class="sutta-filters">
+<label for="sutta-query">Query</label><input id="sutta-query">
+<label for="sutta-topic">Topic</label><select id="sutta-topic"></select>
+<label for="sutta-difficulty">Difficulty</label><select id="sutta-difficulty"></select>
+<label for="sutta-form">Form</label><select id="sutta-form"></select>
+<label for="sutta-length">Length</label><select id="sutta-length"></select>
+</form>
+<p role="status" aria-live="polite">Showing all.</p>
+<div class="sutta-grid">All linked suttas.</div>
+<noscript>All suttas remain visible.</noscript>
+"""
+
+    def test_complete_discovery_page_passes(self) -> None:
+        self.assertEqual(accessibility.discovery_page_failures(self.GOOD, "find.md"), [])
+
+    def test_each_filter_needs_a_visible_label(self) -> None:
+        broken = self.GOOD.replace('<label for="sutta-topic">Topic</label>', "")
+        failures = accessibility.discovery_page_failures(broken, "find.md")
+        self.assertTrue(any("label for sutta-topic" in item for item in failures))
 
 
 class NewcomerGuideTests(unittest.TestCase):

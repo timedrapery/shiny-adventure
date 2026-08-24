@@ -60,6 +60,24 @@ class MetadataCoverageTests(unittest.TestCase):
         for key in registry.ESSENTIAL_FIVE:
             self.assertIn(key, keys)
 
+    def test_every_surface_has_discovery_metadata(self) -> None:
+        for surface in registry.TRANSLATION_SURFACES:
+            self.assertTrue(registry.reader_topics(surface), surface.key)
+            self.assertIn(
+                registry.reader_difficulty(surface),
+                {"Introductory", "Practical", "Intermediate", "Advanced"},
+            )
+            self.assertTrue(registry.reader_form(surface), surface.key)
+            self.assertRegex(
+                registry.canonical_pali_url(surface),
+                rf"/{re.escape(registry.canonical_reference(surface))}/pli/ms$",
+            )
+
+    def test_topic_groups_only_name_registered_surfaces(self) -> None:
+        keys = {surface.key for surface in registry.TRANSLATION_SURFACES}
+        named = {key for group in registry.TOPIC_GROUPS.values() for key in group}
+        self.assertEqual(named - keys, set())
+
 
 class GeneratedStateTests(unittest.TestCase):
     def test_reader_is_current(self) -> None:
@@ -120,6 +138,9 @@ class GeneratedStateTests(unittest.TestCase):
                 r"Reading time:</strong> about \d+ min · [\d,]+ words",
             )
             self.assertIn('<details class="reader-terms">', page, surface.label)
+            self.assertIn('<details class="reader-source-status"', page, surface.label)
+            self.assertIn(registry.canonical_pali_url(surface), page, surface.label)
+            self.assertIn("Report a problem with this page", page, surface.label)
             self.assertIn('aria-label="Reading order"', page, surface.label)
 
     def test_the_default_intro_never_displaces_a_written_one(self) -> None:
@@ -186,6 +207,22 @@ class CorpusCountTests(unittest.TestCase):
         for surface in registry.TRANSLATION_SURFACES:
             self.assertIn(surface.main_name, text, surface.label)
 
+    def test_start_here_and_all_suttas_show_reading_time(self) -> None:
+        for text in (reader.render_start_here(), reader.render_all_suttas()):
+            self.assertGreaterEqual(text.count("about "), len(registry.TRANSLATION_SURFACES))
+            self.assertIn(" words", text)
+
+    def test_find_page_has_progressive_filters_and_every_surface(self) -> None:
+        text = reader.render_find_a_sutta()
+        for control in ("sutta-query", "sutta-topic", "sutta-difficulty", "sutta-form", "sutta-length"):
+            self.assertIn(f'id="{control}"', text)
+        self.assertIn('role="status" aria-live="polite"', text)
+        self.assertIn('data-search=', text)
+        self.assertIn('<div class="sutta-grid">', text)
+        self.assertIn('<h2><a href="../suttas/', text)
+        for surface in registry.TRANSLATION_SURFACES:
+            self.assertIn(f"../suttas/{surface.main_path.stem}/", text, surface.label)
+
 
 class LinkTests(unittest.TestCase):
     def _internal_links(self, text: str) -> list[str]:
@@ -224,6 +261,16 @@ class LinkTests(unittest.TestCase):
         last = (SUTTA_DIR / ordered[-1].main_name).read_text(encoding="utf-8")
         self.assertIn(ordered[1].main_name, first)
         self.assertIn(ordered[-2].main_name, last)
+
+    def test_first_sentence_keeps_closing_quotes(self) -> None:
+        self.assertEqual(
+            reader.first_sentence('"The root of all things." Traditionally difficult.'),
+            '"The root of all things."',
+        )
+        self.assertEqual(
+            reader.first_sentence("Between 'it exists' and 'it doesn't.' Read next."),
+            "Between 'it exists' and 'it doesn't.'",
+        )
 
 
 class NavigationTests(unittest.TestCase):
