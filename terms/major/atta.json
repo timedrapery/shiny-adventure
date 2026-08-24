@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Self, especially as the imagined owner, controller, or identity built around the heaps.",
-  "notes": "The project keeps self as the default because it is direct and doctrinally serviceable. Real self is a controlled explanatory alternate when the passage is contrasting a presumed essence with not-self analysis, and owner is acceptable when the local wording emphasizes possession or control. The term should not be softened into vague identity-language where the text is directly making or rejecting a self-claim, but it also should not be inflated into soul unless the passage is explicitly about that stronger doctrinal idea. In the five-heaps family, attā matters mainly through the formulas that take form, felt experience, recognition, putting-together activities, or knowing as self. The OSF glossary and SN 22.59 support keeping self-language explicit here so that anattā remains a practical rejection of appropriation rather than an abstract slogan.",
+  "notes": "The project keeps self as the default because it is direct and doctrinally serviceable. Real self is a controlled explanatory alternate when the passage is contrasting a presumed essence with not-self analysis, and owner is acceptable when the local wording emphasizes possession or control. The term should not be softened into vague identity-language where the text is directly making or rejecting a self-claim, but it also should not be inflated into soul unless the passage is explicitly about that stronger doctrinal idea. In the five-heaps family, attā matters mainly through the formulas that take form, felt experience, recognition, putting-together activities, or knowing as self. MN 131 carries the exact four-position formula across all five members. The OSF glossary and SN 22.59 support keeping self-language explicit in the practical not-self refrain so that anattā remains a rejection of appropriation rather than an abstract slogan.",
   "context_rules": [
     {
       "context": "In direct self-claim or self-view language in heap analysis",
@@ -47,9 +47,9 @@
   "example_phrases": [
     {
       "pali": "rūpaṃ attato samanupassati",
-      "translation": "one regards form as self",
-      "notes": "Shows the canonical heap-based self-view formula.",
-      "source": "SN 22.59"
+      "translation": "they regard form as self",
+      "notes": "Shows the canonical heap-based self-view formula. The former SN 22.59 citation was wrong; that discourse carries the not-self refrain, not this four-position formula.",
+      "source": "MN 131"
     },
     {
       "pali": "na me so attā",
@@ -65,6 +65,7 @@
     }
   ],
   "sutta_references": [
+    "MN 131",
     "SN 22.59",
     "MN 11",
     "SN 22.1"
@@ -85,7 +86,7 @@
       "scope": "Supports retaining plain self-language and discouraging both soul-language and modern ego-language as defaults."
     },
     {
-      "source": "SN 22.59",
+      "source": "MN 131",
       "kind": "context-rule",
       "scope": "Supports the practical self/not-self formulas applied across all five heaps."
     }

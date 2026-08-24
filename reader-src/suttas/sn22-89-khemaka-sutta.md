@@ -414,7 +414,7 @@ through not taking anything personally.
 
 - [← The Five Heaps](sn22-48-khandha-sutta.md)
 - [All suttas](index.md)
-- [Not-Self at the Six Sense Doors →](mn148-chachakka-sutta.md)
+- [Don't Chase the Past or Long for the Future →](mn131-bhaddekaratta-sutta.md)
 
 </nav>
 

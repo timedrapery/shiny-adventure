@@ -62,9 +62,9 @@
     },
     {
       "pali": "rūpaṃ attato samanupassati",
-      "translation": "one regards form as self",
-      "notes": "Typical pattern of the view's operation.",
-      "source": "SN 22.59"
+      "translation": "they regard form as self",
+      "notes": "Typical pattern of the view's operation. The former SN 22.59 citation was wrong; MN 131 carries this exact four-position formula.",
+      "source": "MN 131"
     },
     {
       "pali": "pañcupādānakkhandhā sakkāyo",
@@ -74,6 +74,7 @@
     }
   ],
   "sutta_references": [
+    "MN 131",
     "SN 22.59",
     "SN 22.89",
     "SN 22.105",

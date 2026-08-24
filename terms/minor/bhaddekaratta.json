@@ -1,0 +1,76 @@
+{
+  "term": "bhaddekaratta",
+  "normalized_term": "bhaddekaratta",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "literal_meaning": "a single auspicious night; someone who has lived a single auspicious night",
+  "preferred_translation": "one fine night",
+  "alternative_translations": [
+    "a single auspicious night",
+    "an auspicious day"
+  ],
+  "definition": "The title and refrain of the Bhaddekaratta group of discourses: a night, or full day-and-night period, made good by not relishing past or future experience, not identifying present experience as self, and applying oneself now.",
+  "notes": "The compound is deliberately governed at both of its grammatical surfaces. As a title or named teaching it is One Fine Night. In the verse it describes the person who lives the teaching, so English needs someone who has lived one fine night. The Digital Pali Dictionary supports both the single-auspicious-night sense and the adjectival person-bearing use. MN 131 supplies both grammatical surfaces and defines the phrase through the verse and its analysis. The literal night-language remains visible because the same verse says day and night, but the public reader title is descriptive rather than literal so newcomers are not asked to infer the teaching from an unfamiliar idiom. Auspicious day is retained as an explanatory alternate because ratta can cover the full day-and-night period here, but auspicious is too ceremonial for the default running English. Do not reanalyze the alternative derivation from ratta as attached in one translation surface; the historical ambiguity belongs in notes, while the governed rendering stays stable across MN 131 through MN 134.",
+  "context_rules": [
+    {
+      "context": "As the title of the teaching or discourse",
+      "rendering": "One Fine Night",
+      "notes": "Use title case when the phrase names the teaching."
+    },
+    {
+      "context": "In the verse where the compound describes the practitioner",
+      "rendering": "someone who has lived one fine night",
+      "notes": "Use the person-bearing form required by the Pali adjective and the English sentence."
+    },
+    {
+      "context": "In explanatory prose discussing the time idiom",
+      "rendering": "an auspicious day",
+      "notes": "Allowed only when explaining that one night can denote the full day-and-night period."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhaddekarattassa vo, bhikkhave, uddesañca vibhaṅgañca desessāmi",
+      "translation": "Bhikkhus, I will teach you the summary and explanation of One Fine Night",
+      "notes": "The phrase names the teaching in the discourse opening.",
+      "source": "MN 131"
+    },
+    {
+      "pali": "taṁ ve bhaddekarattoti, santo ācikkhate muni",
+      "translation": "that is what the peaceful sage calls someone who has lived one fine night",
+      "notes": "The verse uses the compound to describe the person who lives in this way.",
+      "source": "MN 131"
+    }
+  ],
+  "sutta_references": [
+    "MN 131",
+    "MN 132",
+    "MN 133",
+    "MN 134"
+  ],
+  "tags": [
+    "formula",
+    "practice",
+    "translation-sensitive"
+  ],
+  "status": "reviewed",
+  "authority_basis": [
+    {
+      "source": "Digital Pali Dictionary",
+      "priority": "external",
+      "kind": "gloss",
+      "scope": "Supports the compound's single-auspicious-night sense and its adjectival person-bearing use."
+    },
+    {
+      "source": "MN 131",
+      "kind": "context-rule",
+      "scope": "Supports distinct title and practitioner uses and defines the phrase through the full verse and analysis."
+    }
+  ],
+  "translation_policy": {
+    "default_scope": "Use One Fine Night for the named teaching and the governed person-bearing form in the refrain across the Bhaddekaratta discourse family.",
+    "when_not_to_apply": "Do not use the literal title as the public reader's only orientation, and do not turn the verse into the generic slogan live in the present.",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the four Bhaddekaratta discourses from rotating among unrelated title solutions or hiding the time-and-practice idiom behind an unexplained Pali title."
+  }
+}

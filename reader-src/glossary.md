@@ -123,6 +123,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dt><dfn>One Fine Night</dfn> <span class="glossary-pali" lang="pi">(bhaddekaratta)</span></dt>
+<dd>The title&#x27;s image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.</dd>
 <dt><dfn>ordinary person</dfn> <span class="glossary-pali" lang="pi">(puthujjana)</span></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>outflow</dfn> <span class="glossary-pali" lang="pi">(āsava)</span></dt>

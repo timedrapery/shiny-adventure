@@ -2,11 +2,11 @@
 
 Early Buddhist discourses in plain, contemporary English.
 
-All 46 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
+All 47 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
 
 ## Start reading
 
-- [**Start Here**](start-here.md) — a newcomer-friendly reading order through all 46 texts, arranged by what makes sense to read first rather than by editorial priority
+- [**Start Here**](start-here.md) — a newcomer-friendly reading order through all 47 texts, arranged by what makes sense to read first rather than by editorial priority
 - [**All Suttas**](suttas/index.md) — the full collection, if you already know what you are looking for
 - [**Glossary**](glossary.md) — the recurring vocabulary, in plain English
 - <a href="downloads/osf-pali-readings.epub"><strong>Download the whole collection</strong></a> — EPUB, for e-readers, phones, and reading offline

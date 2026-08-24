@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed, plain contemporary English translation of MN 131,
+  Bhaddekaratta Sutta, with companion source notes, reusable title policy, a
+  hand-written newcomer introduction, and a generated reader page titled
+  "Don't Chase the Past or Long for the Future."
 - Added project trust and governance files: security policy and code of conduct.
 - Added contributor-oriented docs spine for project overview, architecture, development, and usage.
 - Added [scripts/README.md](scripts/README.md) as a script index for validation, reporting, and scaffolding tools.
