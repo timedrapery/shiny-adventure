@@ -43,6 +43,12 @@
   ],
   "example_phrases": [
     {
+      "pali": "tattha nandiṁ samanvāneti",
+      "translation": "they relish that",
+      "notes": "Shows nandī as the repeated pivot in chasing a past or imagined future version of the fivefold experiential field.",
+      "source": "MN 131"
+    },
+    {
       "pali": "nandirāgasahagatā",
       "translation": "accompanied by relishing and passion",
       "notes": "Keep nandī and rāga distinct in this stock definition phrase.",
@@ -56,6 +62,7 @@
     }
   ],
   "sutta_references": [
+    "MN 131",
     "SN 56.11"
   ],
   "tags": [

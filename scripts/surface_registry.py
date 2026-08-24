@@ -169,6 +169,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn118-anapanasati-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn131",
+        label="MN 131",
+        main_relpath="docs/translations/mn131-bhaddekaratta-sutta.md",
+        notes_relpath="docs/translations/mn131-bhaddekaratta-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn137",
         label="MN 137",
         main_relpath="docs/translations/mn137-salayatanavibhanga-sutta.md",
@@ -348,6 +354,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn99": "fe958da081881326fbc5f0e379908c48a1c68500b01feb379b34510a966f2d5c",
     "mn117": "e5d69b1863169ccc9a9f3fb503b413294aa84aa0951eca6c5a571dcb34261b60",
     "mn118": "21e66145b96bad998cfc4ffb60162d3c01d0471c18a24ef1dcf1576cf626c653",
+    "mn131": "6c6498fe1ee6c5763b1ae962c2e0dd2c22018ef53d59fd7a8cd50d078f67912f",
     "mn137": "0d52c976e54168c4bc1401b65fb7d03022317e96c1f5555ebf0c4df648622ccb",
     "mn141": "a91647e933848b1215c94b313e7deccb01dabec1bf56330feb46806179239976",
     "mn148": "cc80f649865587452fd0a52fd39ecd47ea518bb3b34c36e9203c8ac27f5407c1",
@@ -376,13 +383,17 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "iti44": "bc0e4a36775633d0ea0fa487d86851a0a7957f9384a4b31720718556716fd768",
 }
 
+READABILITY_REVIEWED_ON: dict[str, str] = {
+    "mn131": "2026-08-24",
+}
+
 TRANSLATION_SURFACES = tuple(
     replace(
         surface,
         readability_review=ReadabilityReview(
             standard="plain-english-v1",
             status="provisional",
-            reviewed_on="2026-08-23",
+            reviewed_on=READABILITY_REVIEWED_ON.get(surface.key, "2026-08-23"),
             body_sha256=READABILITY_BODY_SHA256[surface.key],
         ),
     )
@@ -616,59 +627,66 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "still carry a faint, hard-to-locate sense of \"I am.\"",
         reader_title="The Lingering Sense of 'I Am'",
     ),
+    "mn131": ReaderMeta(
+        "Bhaddekaratta Sutta", 4, 5,
+        "Do not chase the past or long for the future — but do not mistake "
+        "that for a slogan about living in the moment. The explanation asks "
+        "whether you are turning any part of present experience into self.",
+        reader_title="Don't Chase the Past or Long for the Future",
+    ),
     "mn148": ReaderMeta(
-        "Chachakka Sutta", 4, 5,
+        "Chachakka Sutta", 4, 6,
         "A systematic, almost mechanical working-through of not-self across "
         "every sense door. Dense, but by this point the pattern should be "
         "familiar.",
         reader_title="Not-Self at the Six Sense Doors",
     ),
     "sn12_15": ReaderMeta(
-        "Kaccānagotta Sutta", 4, 6,
+        "Kaccānagotta Sutta", 4, 7,
         "One page, defining right view as the middle between \"it exists\" and "
         "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
         reader_title="Between 'It Exists' and 'It Doesn't'",
     ),
     "sn12_61": ReaderMeta(
-        "Assutavā Sutta", 4, 7,
+        "Assutavā Sutta", 4, 8,
         "An argument that runs the opposite way from what you expect: if you "
         "must identify with something, the body is the safer choice, because "
         "its changing is visible and the mind's is not.",
         reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
-        "Upanisa Sutta", 4, 8,
+        "Upanisa Sutta", 4, 9,
         "The positive chain, dissatisfaction leading step by step to freedom, "
         "mirroring the well-known negative chain.",
         reader_title="From Dissatisfaction to Freedom",
     ),
     "sn12_11": ReaderMeta(
-        "Āhāra Sutta", 4, 9,
+        "Āhāra Sutta", 4, 10,
         "Four things that keep a life going, traced back to wanting and then "
         "all the way back along the chain. Not to be confused with SN 46.51, "
         "which shares its name.",
         reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
-        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 10,
+        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 11,
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 11,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 12,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 12,
+        "Mahānidāna Sutta", 4, 13,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 13,
+        "Sammādiṭṭhi Sutta", 4, 14,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",

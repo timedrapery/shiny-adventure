@@ -1,6 +1,6 @@
 # All Suttas
 
-All 46 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 47 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -29,6 +29,7 @@ All 46 translations, grouped by collection. If you would rather be guided, use [
 - [**Household Life or Renunciant Life?**](mn99-subha-sutta.md) — MN 99 · Subha Sutta · Set 5. A dialogue defending renunciant life against a brahmin's claim that household life is better.
 - [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · Set 5. A technical analysis of the eightfold path, factor by factor.
 - [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
+- [**Don't Chase the Past or Long for the Future**](mn131-bhaddekaratta-sutta.md) — MN 131 · Bhaddekaratta Sutta · Set 4. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment.
 - [**The Six Fields of Experience**](mn137-salayatanavibhanga-sutta.md) — MN 137 · Saḷāyatanavibhaṅga Sutta · Set 5. A technical analysis of the six fields of experience.
 - [**The Four Truths in Detail**](mn141-saccavibhanga-sutta.md) — MN 141 · Saccavibhaṅga Sutta · Set 5. The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.
 - [**Not-Self at the Six Sense Doors**](mn148-chachakka-sutta.md) — MN 148 · Chachakka Sutta · Set 4. A systematic, almost mechanical working-through of not-self across every sense door.

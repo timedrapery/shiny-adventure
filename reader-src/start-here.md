@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 46 translations in this collection, for someone new to this material.
+A suggested order for reading the 47 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -47,6 +47,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**The Snake and the Raft**](suttas/mn22-alagaddupama-sutta.md) (MN 22, Alagaddūpama Sutta) — The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
 - [**The Five Heaps**](suttas/sn22-48-khandha-sutta.md) (SN 22.48, Khandha Sutta) — What the five heaps actually are, stated directly.
 - [**The Lingering Sense of 'I Am'**](suttas/sn22-89-khemaka-sutta.md) (SN 22.89, Khemaka Sutta) — A subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of "I am."
+- [**Don't Chase the Past or Long for the Future**](suttas/mn131-bhaddekaratta-sutta.md) (MN 131, Bhaddekaratta Sutta) — Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment. The explanation asks whether you are turning any part of present experience into self.
 - [**Not-Self at the Six Sense Doors**](suttas/mn148-chachakka-sutta.md) (MN 148, Chachakka Sutta) — A systematic, almost mechanical working-through of not-self across every sense door. Dense, but by this point the pattern should be familiar.
 - [**Between 'It Exists' and 'It Doesn't'**](suttas/sn12-15-kaccanagotta-sutta.md) (SN 12.15, Kaccānagotta Sutta) — One page, defining right view as the middle between "it exists" and "it doesn't." The clearest, shortest bridge into dependent arising.
 - [**Body and Mind Keep Changing**](suttas/sn12-61-assutava-sutta.md) (SN 12.61, Assutavā Sutta) — An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.

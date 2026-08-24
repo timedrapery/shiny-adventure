@@ -117,6 +117,11 @@ Current MN 118 surfaces:
 - [mn118-anapanasati-sutta.md](mn118-anapanasati-sutta.md): main shareable translation text
 - [mn118-anapanasati-sutta-notes.md](mn118-anapanasati-sutta-notes.md): companion translator notes and rationale
 
+Current MN 131 surfaces:
+
+- [mn131-bhaddekaratta-sutta.md](mn131-bhaddekaratta-sutta.md): main shareable translation text
+- [mn131-bhaddekaratta-sutta-notes.md](mn131-bhaddekaratta-sutta-notes.md): companion translator notes and rationale
+
 Current MN 137 surfaces:
 
 - [mn137-salayatanavibhanga-sutta.md](mn137-salayatanavibhanga-sutta.md): main shareable translation text

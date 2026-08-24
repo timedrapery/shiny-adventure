@@ -116,6 +116,10 @@
 
 *[This is not mine, I am not this, this is not my self]: A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.
 
+*[One Fine Night]: The title's image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.
+
+*[one fine night]: The title's image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.
+
 <!--
   ---------------------------------------------------------------------------
   Added 2026-08-20: the house's own coinages.

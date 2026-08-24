@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 914
+- Entries: 915
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -168,6 +168,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
 | [bandhu](../../terms/minor/bandhu.json) | bandhu | kin | reviewed | persons |
+| [bhaddekaratta](../../terms/minor/bhaddekaratta.json) | bhaddekaratta | one fine night | reviewed | formula, practice, translation-sensitive |
 | [bhanga-nana](../../terms/minor/bhanga-nana.json) | bhanga-nana | knowledge of dissolution | reviewed | meditative-development, liberation |
 | [bhante](../../terms/minor/bhante.json) | bhante | bhante | reviewed | persons, translation-sensitive |
 | [bharo-have-pancakkhandha](../../terms/minor/bharo-have-pancakkhandha.json) | bhāro have pañcakkhandhā | the five heaps are indeed a burden | stable | aggregates, formula |

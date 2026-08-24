@@ -592,7 +592,7 @@ released from the outflows through not taking anything personally.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Lingering Sense of 'I Am'](sn22-89-khemaka-sutta.md)
+- [← Don't Chase the Past or Long for the Future](mn131-bhaddekaratta-sutta.md)
 - [All suttas](index.md)
 - [Between 'It Exists' and 'It Doesn't' →](sn12-15-kaccanagotta-sutta.md)
 

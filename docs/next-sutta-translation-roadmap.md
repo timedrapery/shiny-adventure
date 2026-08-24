@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (45 total)
+## Completed Surfaces (47 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -60,12 +60,20 @@ Use that full roadmap as the source of truth for:
 - `Iti 44` Nibbānadhātu Sutta (The Two Nibbāna Elements) — the repository's
   first Itivuttaka surface
 
+### Wave 8: Verified Translation Queue
+- `SN 48.10` Dutiyavibhaṅga Sutta (The Five Faculties) — the first translation
+  item after the Wave 8 citation and source audit
+
 ### Outside the Wave Sequence
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
   requested directly rather than drawn from a wave audit. Control surface for
   the threefold before/during/after reflection formula on bodily, verbal, and
   mental action, and for the water-vessel and war-elephant similes. Reader
   placement is set 3.
+- `MN 131` Bhaddekaratta Sutta (One Fine Night) — requested directly. Control
+  surface for chasing the past, longing for the future, and being pulled away
+  by present experience through the fivefold self-view formula. Reader
+  placement is set 4.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
@@ -83,20 +91,12 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 8 is drafted, and it is not a translation wave.** Audited 2026-08-21
-against the 45-surface state. The full reasoning is in
-[next-suttas-roadmap.md](next-suttas-roadmap.md); the short version:
-
-1. **Sweep the `inflected` and `inconclusive` citations.** 296 of them, and
-   `verify_example_sources.py` reports `Every verifiable citation checks out`
-   while both buckets hide wrong citations. Four confirmed by hand so far.
-2. **Repair `DN 22` rather than translating it.** It topped the ranking on
-   three orphan majors, but three of its five citations are already
-   demonstrated by `MN 10`, a governed surface, and the other two are wrong.
-   Moving them anchors all three records with no translation.
-3. **Then translate** `SN 48.10` (303 words, two orphan majors), then
-   `MN 119` (the `kayagata-sati` anchor), then `AN 2.9` — which is weaker than
-   the ranking implies and should be re-checked first.
+The Wave 8 citation sweep and DN 22 repair are complete, and its first
+translation item, SN 48.10, is also complete. MN 131 was then added by direct
+request rather than by audit ranking. The remaining verified queue is MN 119,
+followed by AN 2.9 only after its weaker signal is checked again. The full
+reasoning and historical audit state remain in
+[next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 
