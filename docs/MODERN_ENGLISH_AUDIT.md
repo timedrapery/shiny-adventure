@@ -54,7 +54,7 @@ Typical patterns:
 
 - `one dwells contemplating ...`
 - `one dwells having entered ...`
-- `with the feeling mind thus well-composed`
+- `with the heart thus well-composed`
 
 These are common in practice entries and translation surfaces because the repo
 often kept older source-facing cadence in examples even after modernizing the

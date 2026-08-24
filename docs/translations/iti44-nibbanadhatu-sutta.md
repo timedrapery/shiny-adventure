@@ -80,7 +80,7 @@ The element without remainder belongs to what comes after,
 in which every becoming quenches.
 
 Those who know this unconditioned state,
-whose feeling mind is released and whose conduit to becoming is worn away,
+whose heart is released and whose conduit to becoming is worn away,
 have reached the heart of the Dhamma and delight in the wearing away.
 They have given up every becoming."
 

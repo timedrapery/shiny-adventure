@@ -25,7 +25,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - The sixteen lines are presented as trainings grouped in four tetrads, not as
   a numbered ladder of steps.
 - The tetrad headings stay in the main translation as study aids for practice.
-- `citta` remains `feeling mind` in the training formulas.
+- `citta` remains `heart` in the training formulas.
 - `vedanā` remains `felt experience`, and the satipaṭṭhāna-fulfillment section
   keeps that wording rather than slipping back into generic feeling-language.
 - `samādhi` remains `mental composure`; this blocks drift toward
@@ -87,7 +87,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   goal rather than beating around the bush.
 - In the satipaṭṭhāna-fulfillment section, the breathing training is not left
   behind. The section is governed as a mapping of the same in-breath and
-  out-breath training onto body, felt experience, feeling mind, and dhammas.
+  out-breath training onto body, felt experience, heart, and dhammas.
 - In the felt-experience tetrad, the trainee remembers with each breath to
   bring forth rejoicing and satisfaction, and to experience and calm the mind
   conditioner, namely felt experience and recognition, including liking,
@@ -95,22 +95,22 @@ translation choices, source-audit calls, and edition notes that govern it.
 - In the satipaṭṭhāna-fulfillment section, the in-and-out breath remains the
   body conditioner, while felt experience and recognition remain the mind
   conditioner worked with through breathing.
-- In the feeling-mind tetrad, the trainee remembers with each breath to
-  experience, gladden, bring the feeling mind to mental composure, and free
+- In the heart tetrad, the trainee remembers with each breath to
+  experience, gladden, bring the heart to mental composure, and free
   it.
 - `ekaggatā` in this repository is not governed as one-pointedness. In
   first-jhāna and ānāpānasati explanation it is the directness or single aim
   that does not get pulled into side quests.
 - In practical explanation, the thinking mind (`mano`) reaches in to gladden
-  the feeling mind (`citta`) by bringing forth `kusala dhammas`, wholesome
+  the heart (`citta`) by bringing forth `kusala dhammas`, wholesome
   qualities or thoughts worth having, while abandoning `akusala dhammas`,
   unwholesome qualities or thoughts not worth keeping in mind.
 - This means gladdening `citta` is not passive breath-staring; it is an active
   Buddha-Dhamma training in which wholesome content is intentionally brought to
   bear and unwholesome content is let go.
 - In that practical sense, the breath and the thinking mind are both active in
-  changing conditioning: bodily calming helps the feeling mind settle, and
-  wholesome thoughts can be brought to bear so the feeling mind brightens
+  changing conditioning: bodily calming helps the heart settle, and
+  wholesome thoughts can be brought to bear so the heart brightens
   rather than remaining trapped in unwholesome qualities.
 - In the awakening-factor section, the factors are not governed as a second
   list laid on top of practice. They are the maturation of the same

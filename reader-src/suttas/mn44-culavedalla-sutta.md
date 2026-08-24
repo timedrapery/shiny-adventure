@@ -7,7 +7,7 @@
 
 *MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,475 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,469 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -203,7 +203,7 @@ Right view and right attitude are included within the discernment heap."
 What dhammas are the equipment of mental composure? What is the development of
 mental composure?"
 
-"Friend Visākha, directness of the feeling mind is mental composure.
+"Friend Visākha, directness of the heart is mental composure.
 
 The four establishments of sati are signs of mental composure.
 
@@ -242,8 +242,8 @@ conditioner.
 First a person thinks and ponders, and afterward they break into speech. That
 is why thinking and pondering are the verbal conditioner.
 
-Recognition and felt experience are mental dhammas, bound up with the feeling
-mind. That is why recognition and felt experience are the mind conditioner."
+Recognition and felt experience are mental dhammas, bound up with the heart.
+That is why recognition and felt experience are the mind conditioner."
 
 ### Attainment of Cessation
 
@@ -258,7 +258,7 @@ or 'I am entering the attainment of cessation of recognition and felt
 experience,' or 'I have entered the attainment of cessation of recognition and
 felt experience.'
 
-Rather, that bhikkhu's feeling mind has already been developed in such a way
+Rather, that bhikkhu's heart has already been developed in such a way
 that it leads to that state."
 
 "Ayye, for a bhikkhu entering the attainment of cessation of recognition and
@@ -280,7 +280,7 @@ experience,' or 'I am emerging from the attainment of cessation of recognition
 and felt experience,' or 'I have emerged from the attainment of cessation of
 recognition and felt experience.'
 
-Rather, that bhikkhu's feeling mind has already been developed in such a way
+Rather, that bhikkhu's heart has already been developed in such a way
 that it leads to that state."
 
 "Ayye, for a bhikkhu emerging from the attainment of cessation of recognition
@@ -302,11 +302,11 @@ attainment of cessation of recognition and felt experience:
 - wishless contact"
 
 "Ayye, for a bhikkhu who has emerged from the attainment of cessation of
-recognition and felt experience, toward what is the feeling mind inclined,
+recognition and felt experience, toward what is the heart inclined,
 sloping, and leaning?"
 
 "Friend Visākha, for a bhikkhu who has emerged from the attainment of
-cessation of recognition and felt experience, the feeling mind is inclined to
+cessation of recognition and felt experience, the heart is inclined to
 seclusion, slopes to seclusion, and leans to seclusion."
 
 ### Three Kinds of Felt Experience
@@ -504,8 +504,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
@@ -514,6 +512,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -592,11 +592,11 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

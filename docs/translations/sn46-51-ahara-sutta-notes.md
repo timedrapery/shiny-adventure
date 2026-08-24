@@ -68,11 +68,11 @@ would materially reduce drift.
   generic aversion label too early.
 - `arati tandi vijambhita bhattasammado cetaso ca linattam` is rendered as a
   practical list: `discontent, sluggishness, yawning, after-meal drowsiness,
-  and the sinking of the feeling mind`. The point is the drift into dullness,
+  and the sinking of the heart`. The point is the drift into dullness,
   not a polished literary cadence.
-- `cetaso avupasamo` and `cetaso vupasamo` are rendered `the feeling mind's
-  unrest` and `the settling of the feeling mind`. This keeps `citta` audible
-  as the feeling mind while preserving the paired contrast.
+- `cetaso avupasamo` and `cetaso vupasamo` are rendered `the heart's
+  unrest` and `the settling of the heart`. This keeps `citta` audible
+  as the heart while preserving the paired contrast.
 - `vicikicchatthaniya dhamma` is rendered `qualities that support
   uncertainty`, and the matching bojjhanga formulas are rendered `qualities
   that support the ... awakening factor`. This keeps the repeated structure

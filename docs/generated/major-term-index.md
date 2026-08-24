@@ -78,7 +78,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [cetana](../../terms/major/cetana.json) | cetanā | intention | stable | core-doctrine, mental-qualities, dependent-origination, translation-sensitive |
 | [cetovimutti](../../terms/major/cetovimutti.json) | cetovimutti | release of mind | reviewed | core-doctrine, liberation |
 | [chanda](../../terms/major/chanda.json) | chanda | desire | stable | core-doctrine, core-practice, mental-qualities, translation-sensitive, context-sensitive |
-| [citta](../../terms/major/citta.json) | citta | feeling mind | reviewed | core-doctrine, core-practice, mental-qualities |
+| [citta](../../terms/major/citta.json) | citta | heart | reviewed | core-doctrine, core-practice, mental-qualities |
 
 ## D
 

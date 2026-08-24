@@ -7,7 +7,7 @@
 
 *SN 48.10, the Dutiyavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 655 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 648 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -57,20 +57,20 @@ firm in exertion, not putting down the burden with respect to wholesome
 qualities.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the abandoning of arisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the arising of unarisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 They generate desire for the continuation, non-confusion, increase,
 abundance, development, and fulfilment of arisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 This, bhikkhus, is called the faculty of energy.
@@ -88,7 +88,7 @@ world.
 
 They remain observing felt experience ...
 
-They remain observing the feeling mind ...
+They remain observing the heart ...
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
@@ -100,14 +100,14 @@ This, bhikkhus, is called the faculty of remembering.
 And what, bhikkhus, is the faculty of mental composure?
 
 Here a noble disciple, having made relinquishment the object, gains mental
-composure, gains directness of feeling mind.
+composure, gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
 and remain in the first mental theme, which has thinking and pondering, and
 the rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of the feeling mind, they enter and remain in the second mental
+unification of the heart, they enter and remain in the second mental
 theme, without thinking and pondering, with the rejoicing and satisfaction
 born of mental composure.
 
@@ -164,12 +164,12 @@ These, bhikkhus, are the five faculties."
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental composure</dfn></dt>
@@ -212,9 +212,9 @@ These, bhikkhus, are the five faculties."
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.

@@ -51,11 +51,11 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `pīti` is rendered `rejoicing` (major, updated house default). In the
   ānāpānassati step `pītipaṭisaṁvedī`, the rendering is `experiencing
   rejoicing`.
-- `citta` is rendered `feeling mind` (major, house default) throughout the
-  ānāpānassati steps: `cittapaṭisaṁvedī` → `experiencing the feeling mind`,
-  `abhippamodayaṁ cittaṁ` → `gladdening the feeling mind`, `samādahaṁ
-  cittaṁ` → `composing the feeling mind`, `vimocayaṁ cittaṁ` → `releasing
-  the feeling mind`.
+- `citta` is rendered `heart` (major, house default) throughout the
+  ānāpānassati steps: `cittapaṭisaṁvedī` → `experiencing the heart`,
+  `abhippamodayaṁ cittaṁ` → `gladdening the heart`, `samādahaṁ
+  cittaṁ` → `composing the heart`, `vimocayaṁ cittaṁ` → `releasing
+  the heart`.
 - `mano` in `mano anattā` is rendered `thinking mind` (major, house default),
   keeping it distinct from `citta` within the same sutta.
 
@@ -72,7 +72,7 @@ have sufficient lexicon coverage:
 - `taṇhā` → `ignorant wanting` (major)
 - `sati` → `remembering` (major)
 - `pīti` → `rejoicing` (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 - `mano` → `thinking mind` (major)
 - `vedanā` → `felt experience` (major) — in the five-heaps reflection
 

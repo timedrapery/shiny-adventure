@@ -7,7 +7,7 @@
 
 *AN 3.65, the Kesamutta Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 11 min · 1,802 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,786 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -102,7 +102,7 @@ or for their harm?"
 
 "For their harm, Bhante."
 
-"When greed seizes a person and takes over their feeling mind, they kill living
+"When greed seizes a person and takes over their heart, they kill living
 creatures, take what is not given, go to another's partner, speak falsely, and
 encourage others to do likewise. That brings them long-lasting harm and
 suffering."
@@ -114,7 +114,7 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"When aversion seizes a person and takes over their feeling mind, they kill
+"When aversion seizes a person and takes over their heart, they kill
 living creatures, take what is not given, go to another's partner, speak
 falsely, and encourage others to do likewise. That brings them long-lasting
 harm and suffering."
@@ -126,7 +126,7 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"When delusion seizes a person and takes over their feeling mind, they kill
+"When delusion seizes a person and takes over their heart, they kill
 living creatures, take what is not given, go to another's partner, speak
 falsely, and encourage others to do likewise. That brings them long-lasting
 harm and suffering."
@@ -180,7 +180,7 @@ welfare or for their harm?"
 "For their welfare, Bhante."
 
 "When a person is free of greed, it does not overwhelm or take over their
-feeling mind. They do not kill living creatures, take what is not given, go to
+heart. They do not kill living creatures, take what is not given, go to
 another's partner, speak falsely, or encourage others to do likewise. That
 brings them long-lasting welfare and happiness."
 
@@ -221,33 +221,33 @@ why I said it.
 
 That noble disciple, Kālāmas, free of coveting, free of aversive distraction,
 unconfused, clearly knowing and remembering, dwells pervading one direction
-with a feeling mind filled with friendliness, likewise the second, likewise the
+with a heart filled with friendliness, likewise the second, likewise the
 third, likewise the fourth — and so above, below, across, everywhere, for all
-as for themselves, they dwell pervading the entire world with a feeling mind
+as for themselves, they dwell pervading the entire world with a heart
 filled with friendliness, vast, expansive, boundless, without enmity and
 without ill will.
 
-They dwell pervading one direction with a feeling mind filled with kindness
+They dwell pervading one direction with a heart filled with kindness
 towards others, likewise the second, likewise the third, likewise the fourth —
 and so above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a feeling mind filled with kindness towards
+pervading the entire world with a heart filled with kindness towards
 others, vast, expansive, boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a feeling mind filled with gladness,
+They dwell pervading one direction with a heart filled with gladness,
 likewise the second, likewise the third, likewise the fourth — and so above,
 below, across, everywhere, for all as for themselves, they dwell pervading the
-entire world with a feeling mind filled with gladness, vast, expansive,
+entire world with a heart filled with gladness, vast, expansive,
 boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a feeling mind filled with dynamic
+They dwell pervading one direction with a heart filled with dynamic
 balance, likewise the second, likewise the third, likewise the fourth — and so
 above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a feeling mind filled with dynamic balance,
+pervading the entire world with a heart filled with dynamic balance,
 vast, expansive, boundless, without enmity and without ill will.
 
 ### The Four Consolations
 
-That noble disciple, Kālāmas, with a feeling mind free of enmity, free of ill
+That noble disciple, Kālāmas, with a heart free of enmity, free of ill
 will, uncorrupted and pure, wins four consolations in this very life.
 
 'If there is another world, and if good and bad actions do bear fruit and
@@ -265,12 +265,12 @@ third consolation won.
 'If bad things do not come to those who do bad — then I see myself pure on both
 sides.' This is the fourth consolation won.
 
-That noble disciple, Kālāmas, with a feeling mind free of enmity, free of ill
+That noble disciple, Kālāmas, with a heart free of enmity, free of ill
 will, uncorrupted and pure — they win these four consolations in this very
 life."
 
 "That is exactly so, Blessed One. That is exactly so, Well-Departed One. That
-noble disciple, Bhante, with a feeling mind free of enmity, free of ill will,
+noble disciple, Bhante, with a heart free of enmity, free of ill will,
 uncorrupted and pure, wins four consolations in this very life.
 
 'If there is another world, and if good and bad actions do bear fruit and
@@ -288,7 +288,7 @@ third consolation won.
 'If bad things do not come to those who do bad — then I see myself pure on both
 sides.' This is the fourth consolation won.
 
-That noble disciple, Bhante, with a feeling mind free of enmity, free of ill
+That noble disciple, Bhante, with a heart free of enmity, free of ill
 will, uncorrupted and pure — they win these four consolations in this very
 life.
 
@@ -330,14 +330,14 @@ The fifth discourse is finished.
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>greed</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -375,10 +375,10 @@ The fifth discourse is finished.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[those with discernment]: People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.

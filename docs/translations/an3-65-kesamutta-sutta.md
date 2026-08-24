@@ -15,7 +15,7 @@
   rendered `wholesome`; `akusala` is rendered `unwholesome`; `mettā` is
   rendered `friendliness`; `karuṇā` is rendered `kindness towards others`;
   `muditā` is rendered `gladness`; `upekkhā` is rendered `dynamic balance`;
-  `citta` is rendered `feeling mind`; `sampajañña` is rendered `clear knowing`;
+  `citta` is rendered `heart`; `sampajañña` is rendered `clear knowing`;
   `sati` is rendered `remembering`.
 - This edition treats AN 3.65 as the repository's control surface for the
   ten-criterion epistemological instruction — the grounds that alone are
@@ -75,7 +75,7 @@ or for their harm?"
 
 "For their harm, Bhante."
 
-"When greed seizes a person and takes over their feeling mind, they kill living
+"When greed seizes a person and takes over their heart, they kill living
 creatures, take what is not given, go to another's partner, speak falsely, and
 encourage others to do likewise. That brings them long-lasting harm and
 suffering."
@@ -87,7 +87,7 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"When aversion seizes a person and takes over their feeling mind, they kill
+"When aversion seizes a person and takes over their heart, they kill
 living creatures, take what is not given, go to another's partner, speak
 falsely, and encourage others to do likewise. That brings them long-lasting
 harm and suffering."
@@ -99,7 +99,7 @@ welfare or for their harm?"
 
 "For their harm, Bhante."
 
-"When delusion seizes a person and takes over their feeling mind, they kill
+"When delusion seizes a person and takes over their heart, they kill
 living creatures, take what is not given, go to another's partner, speak
 falsely, and encourage others to do likewise. That brings them long-lasting
 harm and suffering."
@@ -153,7 +153,7 @@ welfare or for their harm?"
 "For their welfare, Bhante."
 
 "When a person is free of greed, it does not overwhelm or take over their
-feeling mind. They do not kill living creatures, take what is not given, go to
+heart. They do not kill living creatures, take what is not given, go to
 another's partner, speak falsely, or encourage others to do likewise. That
 brings them long-lasting welfare and happiness."
 
@@ -194,33 +194,33 @@ why I said it.
 
 That noble disciple, Kālāmas, free of coveting, free of aversive distraction,
 unconfused, clearly knowing and remembering, dwells pervading one direction
-with a feeling mind filled with friendliness, likewise the second, likewise the
+with a heart filled with friendliness, likewise the second, likewise the
 third, likewise the fourth — and so above, below, across, everywhere, for all
-as for themselves, they dwell pervading the entire world with a feeling mind
+as for themselves, they dwell pervading the entire world with a heart
 filled with friendliness, vast, expansive, boundless, without enmity and
 without ill will.
 
-They dwell pervading one direction with a feeling mind filled with kindness
+They dwell pervading one direction with a heart filled with kindness
 towards others, likewise the second, likewise the third, likewise the fourth —
 and so above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a feeling mind filled with kindness towards
+pervading the entire world with a heart filled with kindness towards
 others, vast, expansive, boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a feeling mind filled with gladness,
+They dwell pervading one direction with a heart filled with gladness,
 likewise the second, likewise the third, likewise the fourth — and so above,
 below, across, everywhere, for all as for themselves, they dwell pervading the
-entire world with a feeling mind filled with gladness, vast, expansive,
+entire world with a heart filled with gladness, vast, expansive,
 boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a feeling mind filled with dynamic
+They dwell pervading one direction with a heart filled with dynamic
 balance, likewise the second, likewise the third, likewise the fourth — and so
 above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a feeling mind filled with dynamic balance,
+pervading the entire world with a heart filled with dynamic balance,
 vast, expansive, boundless, without enmity and without ill will.
 
 ### The Four Consolations
 
-That noble disciple, Kālāmas, with a feeling mind free of enmity, free of ill
+That noble disciple, Kālāmas, with a heart free of enmity, free of ill
 will, uncorrupted and pure, wins four consolations in this very life.
 
 'If there is another world, and if good and bad actions do bear fruit and
@@ -238,12 +238,12 @@ third consolation won.
 'If bad things do not come to those who do bad — then I see myself pure on both
 sides.' This is the fourth consolation won.
 
-That noble disciple, Kālāmas, with a feeling mind free of enmity, free of ill
+That noble disciple, Kālāmas, with a heart free of enmity, free of ill
 will, uncorrupted and pure — they win these four consolations in this very
 life."
 
 "That is exactly so, Blessed One. That is exactly so, Well-Departed One. That
-noble disciple, Bhante, with a feeling mind free of enmity, free of ill will,
+noble disciple, Bhante, with a heart free of enmity, free of ill will,
 uncorrupted and pure, wins four consolations in this very life.
 
 'If there is another world, and if good and bad actions do bear fruit and
@@ -261,7 +261,7 @@ third consolation won.
 'If bad things do not come to those who do bad — then I see myself pure on both
 sides.' This is the fourth consolation won.
 
-That noble disciple, Bhante, with a feeling mind free of enmity, free of ill
+That noble disciple, Bhante, with a heart free of enmity, free of ill
 will, uncorrupted and pure — they win these four consolations in this very
 life.
 

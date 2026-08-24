@@ -613,7 +613,7 @@ This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
 
 Furthermore, bhikkhus, with the settling of placing and keeping the mind,
-internally confident, with a unified feeling mind, without placing and keeping
+internally confident, with a unified heart, without placing and keeping
 the mind, a bhikkhu enters and remains in the second mental theme with
 rejoicing and satisfaction born of mental composure.
 

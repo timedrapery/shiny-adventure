@@ -45,7 +45,7 @@ source-audit calls, and edition notes that govern it.
 - `saṅkhata` and `asaṅkhata` are rendered `conditioned` and `unconditioned` in
   the question about the noble eightfold path.
 - `samādhi` remains `mental composure`; `cittassa ekaggatā` is rendered
-  `directness of the feeling mind`.
+  `directness of the heart`.
 - `satipaṭṭhāna` is rendered `establishments of sati` in the technical answer
   about signs of mental composure, preserving the repository's refusal of
   mindfulness-language while keeping the framework recognizable.
@@ -118,14 +118,14 @@ source-audit calls, and edition notes that govern it.
   mental composure, and discernment. MN 44 explicitly gathers the path factors
   into those three heaps.
 - Mental composure is not mere concentration. Dhammadinnā defines it through
-  directness of the feeling mind, signs, equipment, and development.
+  directness of the heart, signs, equipment, and development.
 - The three-conditioner section is important for breathing practice because it
   directly connects in-breathing and out-breathing with the body conditioner,
   thinking and pondering with the verbal conditioner, and recognition and felt
   experience with the mind conditioner.
 - The cessation-attainment section should not be read as self-command. The
   bhikkhu does not enter or emerge by narrating the state to himself; the
-  feeling mind has already been developed in such a way that it leads there.
+  heart has already been developed in such a way that it leads there.
 - The felt-experience section prevents two opposite mistakes: pleasant feeling
   is not automatically a problem, and painful feeling is not automatically
   resistance. The underlying tendency depends on how the feeling is met and on

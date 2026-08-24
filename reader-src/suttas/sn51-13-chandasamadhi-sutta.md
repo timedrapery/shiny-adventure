@@ -7,7 +7,7 @@
 
 *SN 51.13, the Chandasamādhi Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 507 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 489 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -30,23 +30,23 @@ it everywhere else in the collection.
 ### Composure Through Desire
 
 "Bhikkhus, if a bhikkhu gains mental composure in dependence on desire, gains
-directness of feeling mind, this is called composure through desire.
+directness of heart, this is called composure through desire.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the abandoning of arisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the arising of unarisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 They generate desire for the continuation, non-confusion, increase,
 abundance, development, and fulfilment of arisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 These are called the exertion conditioners.
@@ -60,12 +60,12 @@ desire together with the exertion conditioners.
 ### Composure Through Energy
 
 Bhikkhus, if a bhikkhu gains mental composure in dependence on energy, gains
-directness of feeling mind, this is called composure through energy.
+directness of heart, this is called composure through energy.
 
 They generate desire for the non-arising of unarisen ... they generate desire
 for the continuation, non-confusion, increase, abundance, development, and
 fulfilment of arisen wholesome qualities; they make an effort, arouse energy,
-take hold of the feeling mind, and exert themselves.
+take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
@@ -75,37 +75,37 @@ conditioners.
 This, bhikkhus, is called the basis of power that possesses composure through
 energy together with the exertion conditioners.
 
-### Composure Through the Feeling Mind
+### Composure Through the Heart
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on the feeling
-mind, gains directness of feeling mind, this is called composure through the
-feeling mind.
+Bhikkhus, if a bhikkhu gains mental composure in dependence on the heart,
+gains directness of heart, this is called composure through the
+heart.
 
 They generate desire for the non-arising of unarisen harmful ... they generate
 desire for the continuation, non-confusion, increase, abundance, development,
 and fulfilment of arisen wholesome qualities; they make an effort, arouse
-energy, take hold of the feeling mind, and exert themselves.
+energy, take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
-So there is this feeling mind, and this composure through the feeling mind,
+So there is this heart, and this composure through the heart,
 and these exertion conditioners.
 
 This, bhikkhus, is called the basis of power that possesses composure through
-the feeling mind together with the exertion conditioners.
+the heart together with the exertion conditioners.
 
 ### Composure Through Investigation
 
 Bhikkhus, if a bhikkhu gains mental composure in dependence on investigation,
-gains directness of feeling mind, this is called composure through
+gains directness of heart, this is called composure through
 investigation.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves ... they generate desire for the continuation,
 non-confusion, increase, abundance, development, and fulfilment of arisen
 wholesome qualities; they make an effort, arouse energy, take hold of the
-feeling mind, and exert themselves.
+heart, and exert themselves.
 
 These are called the exertion conditioners.
 
@@ -122,8 +122,8 @@ investigation together with the exertion conditioners."
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>mental composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
@@ -146,7 +146,7 @@ investigation together with the exertion conditioners."
 
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

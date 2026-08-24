@@ -11,8 +11,8 @@
 - House choices that most affect this sutta: `jhāyati` is rendered `think
   like this` in instruction and positive contexts (house default); in the
   pejorative descriptive passages it is rendered `holds as theme`, following
-  the same `jhāna` → `mental theme` root policy; `citta` is rendered `feeling
-  mind`; `mano` is rendered `thinking mind`; `saññā` is rendered
+  the same `jhāna` → `mental theme` root policy; `citta` is rendered `heart`;
+  `mano` is rendered `thinking mind`; `saññā` is rendered
   `recognition`; and the five `nīvaraṇa` members follow their governed
   renderings as `sensual distraction`, `aversive distraction`, `dull
   distraction`, `agitated distraction`, and `uncertain distraction`.
@@ -45,28 +45,28 @@ the horse trainer have me do today? How should I respond?' Tied to the feeding
 trough, it holds a theme: 'Fodder, fodder!'
 
 In the same way, Saddha, a wild person who has gone to the forest,
-to the root of a tree, or to an empty dwelling. They remain with their feeling
-mind overcome and seized by sensual distraction, and they do not truly
+to the root of a tree, or to an empty dwelling. They remain with their heart
+overcome and seized by sensual distraction, and they do not truly
 understand the escape from sensual distraction that has arisen. Harboring
 sensual distraction as their theme, they think on it, dwell on it, brood over
 it, and keep circling back to it.
 
-They remain with their feeling mind overcome by aversive distraction, and they
+They remain with their heart overcome by aversive distraction, and they
 do not truly understand the escape from aversive distraction that has arisen.
 Harboring aversive distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome by dull distraction, and they do
+They remain with their heart overcome by dull distraction, and they do
 not truly understand the escape from dull distraction that has arisen.
 Harboring dull distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome by agitated distraction, and they
+They remain with their heart overcome by agitated distraction, and they
 do not truly understand the escape from agitated distraction that has arisen.
 Harboring agitated distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome and seized by uncertain
+They remain with their heart overcome and seized by uncertain
 distraction, and they do not truly understand the escape from uncertain
 distraction that has arisen. Harboring uncertain distraction as their theme,
 they think on it, dwell on it, brood over it, and keep circling back to it.
@@ -98,19 +98,19 @@ loss, and a misfortune.
 
 In the same way, Saddha, the fine thoroughbred person who has gone to the
 forest, to the root of a tree, or to an empty dwelling does not remain with
-their feeling mind overcome and seized by sensual distraction, and they truly
+their heart overcome and seized by sensual distraction, and they truly
 understand the escape from sensual distraction that has arisen.
 
-They do not remain with their feeling mind overcome by aversive distraction,
+They do not remain with their heart overcome by aversive distraction,
 and they truly understand the escape from aversive distraction that has arisen.
 
-They do not remain with their feeling mind overcome by dull distraction, and
+They do not remain with their heart overcome by dull distraction, and
 they truly understand the escape from dull distraction that has arisen.
 
-They do not remain with their feeling mind overcome by agitated distraction,
+They do not remain with their heart overcome by agitated distraction,
 and they truly understand the escape from agitated distraction that has arisen.
 
-They do not remain with their feeling mind overcome and seized by uncertain
+They do not remain with their heart overcome and seized by uncertain
 distraction, and they truly understand the escape from uncertain distraction
 that has arisen.
 

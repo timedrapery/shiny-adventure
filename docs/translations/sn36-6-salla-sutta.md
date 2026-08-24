@@ -144,7 +144,7 @@ and the ordinary person.
 
 The learned person has understood the teaching
 and sees this world and the next.
-Desirable things do not churn their feeling mind,
+Desirable things do not churn their heart,
 and undesirable things bring up no resistance.
 
 Favoring and opposing

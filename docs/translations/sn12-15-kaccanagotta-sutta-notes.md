@@ -45,9 +45,9 @@ choices, source-audit calls, and edition notes that govern it.
   toward experience, the grasping of it as personal, and the refusal to
   release it. Together they name the mechanism by which the world becomes
   entangling.
-- `cetaso adhiṭṭhāna` is rendered `fixation of the feeling mind`. `Adhiṭṭhāna`
+- `cetaso adhiṭṭhāna` is rendered `fixation of the heart`. `Adhiṭṭhāna`
   = standing upon, firm resolve, fixation. In the context of sn12.15:2.5, it
-  names the mental act of planting the feeling mind on something as a fixed
+  names the mental act of planting the heart on something as a fixed
   point — the psychological gesture that solidifies approach and grasping into
   a standing commitment.
 - `abhinivesa` is rendered `insistence` (no lexicon entry; local rendering).

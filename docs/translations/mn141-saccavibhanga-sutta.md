@@ -249,7 +249,7 @@ right livelihood. This is called right livelihood.
 And what, friends, is right effort?
 
 Here a bhikkhu arouses desire, makes effort, stirs up energy, steadies the
-feeling mind, and strives:
+heart, and strives:
 
 - so that unarisen harmful, unwholesome qualities do not arise
 - so that arisen harmful, unwholesome qualities are abandoned
@@ -271,7 +271,7 @@ They remain observing felt experience in relation to felt experience, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-They remain observing the feeling mind in relation to the feeling mind, ardent,
+They remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 

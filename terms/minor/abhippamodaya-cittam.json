@@ -3,26 +3,26 @@
   "normalized_term": "abhippamodaya-cittam",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "literal_meaning": "gladdening the feeling mind",
-  "preferred_translation": "gladdening the feeling mind",
+  "literal_meaning": "gladdening the heart",
+  "preferred_translation": "gladdening the heart",
   "alternative_translations": [
-    "brightening the feeling mind",
+    "brightening the heart",
     "gladdening the mind"
   ],
   "discouraged_translations": [
     "cheering yourself up"
   ],
   "definition": "Ānāpānasati formula language for actively brightening or gladdening citta in practice.",
-  "notes": "This phrase should stay simple. In repository house style, citta here is the feeling mind rather than the thinking or cognitive side of mind. Mano remains the thinking mind, so translator-facing explanation may note that wholesome dhammas or wholesome thought-content can be deliberately brought to bear in order to gladden citta. That explanatory note should remain subordinate to the formula itself, which stays compact as gladdening the feeling mind. The practice clarification may include countering distractions, but it should not be broadened into a claim that one phrase has already uprooted underlying tendencies, ended fetters, or worn away outflows.",
+  "notes": "This phrase should stay simple. In repository house style, citta here is the heart rather than the thinking or cognitive side of mind. Mano remains the thinking mind, so translator-facing explanation may note that wholesome dhammas or wholesome thought-content can be deliberately brought to bear in order to gladden citta. That explanatory note should remain subordinate to the formula itself, which stays compact as gladdening the heart. The practice clarification may include countering distractions, but it should not be broadened into a claim that one phrase has already uprooted underlying tendencies, ended fetters, or worn away outflows.",
   "context_rules": [
     {
       "context": "In direct ānāpānasati formula translation",
-      "rendering": "gladdening the feeling mind",
+      "rendering": "gladdening the heart",
       "notes": "Use this by default."
     },
     {
       "context": "In explanatory prose where a slightly more active brightness register reads better",
-      "rendering": "brightening the feeling mind",
+      "rendering": "brightening the heart",
       "notes": "Use this in explanatory prose only."
     },
     {
@@ -43,7 +43,7 @@
   "example_phrases": [
     {
       "pali": "abhippamodayaṃ cittaṃ assasissāmīti sikkhati",
-      "translation": "one trains: 'I will breathe in gladdening the feeling mind'",
+      "translation": "one trains: 'I will breathe in gladdening the heart'",
       "notes": "Gladdening-the-mind step in the ānāpānasati sequence.",
       "source": "MN 118"
     }

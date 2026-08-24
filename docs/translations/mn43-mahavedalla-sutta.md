@@ -247,7 +247,7 @@ This, friend, is called the first mental theme."
 "Friend, the first mental theme has five factors.
 
 Here, friend, for a bhikkhu who has entered the first mental theme there occur
-thinking, pondering, rejoicing, satisfaction, and directness of feeling mind.
+thinking, pondering, rejoicing, satisfaction, and directness of heart.
 
 That, friend, is how the first mental theme has five factors."
 
@@ -263,7 +263,7 @@ is abandoned, agitated distraction is abandoned, and uncertain distraction is
 abandoned;
 
 and there occur thinking, pondering, rejoicing, satisfaction, and directness
-of feeling mind.
+of heart.
 
 That, friend, is how the first mental theme has left behind five factors and
 possesses five factors."
@@ -448,21 +448,21 @@ meaning and different only in letter.
 And what, friend, is the mode of exposition by which these dhammas are
 different in meaning and different in letter?
 
-Here, friend, a bhikkhu remains pervading one direction with a feeling mind
+Here, friend, a bhikkhu remains pervading one direction with a heart
 imbued with friendliness, and likewise the second, the third, and the fourth.
 So above, below, across, everywhere, to all as to himself, he remains
-pervading the whole world with a feeling mind imbued with friendliness,
+pervading the whole world with a heart imbued with friendliness,
 abundant, expansive, measureless, without hostility, without ill will.
 
-He remains pervading with a feeling mind imbued with kindness towards
+He remains pervading with a heart imbued with kindness towards
 others ...
 
-with a feeling mind imbued with gladness ...
+with a heart imbued with gladness ...
 
-He remains pervading one direction with a feeling mind imbued with dynamic
+He remains pervading one direction with a heart imbued with dynamic
 balance, and likewise the second, the third, and the fourth. So above, below,
 across, everywhere, to all as to himself, he remains pervading the whole world
-with a feeling mind imbued with dynamic balance, abundant, expansive,
+with a heart imbued with dynamic balance, abundant, expansive,
 measureless, without hostility, without ill will.
 
 This, friend, is called the measureless release of mind.

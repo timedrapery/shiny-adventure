@@ -51,7 +51,7 @@ class BondageResiduePolicyTests(unittest.TestCase):
         notes = anapanasati["notes"]
 
         self.assertIn("mano can be explained as the thinking mind", notes)
-        self.assertIn("citta is the feeling mind", notes)
+        self.assertIn("citta is the heart", notes)
         self.assertIn("counter or displace active distractions", notes)
         self.assertIn("not treat that as identical to the final wearing away of outflows", notes)
 

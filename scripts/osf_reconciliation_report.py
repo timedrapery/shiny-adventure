@@ -77,9 +77,9 @@ REVIEWED_TERMS = {
     },
     "citta": {
         "classification": "TOLERATE ALTERNATE",
-        "expected_default": "feeling mind",
+        "expected_default": "heart",
         "osf_usage": "OSF explanatory material can use mind, heart-mind, or center of consciousness, especially in practice prose.",
-        "governance": "Use feeling mind as the default rendering. Allow OSF-facing alternates in explanatory prose only. Do not let this collapse into cognition or consciousness language.",
+        "governance": "Use heart as the default rendering. Allow OSF-facing alternates in explanatory prose only. Do not let this collapse into cognition or consciousness language.",
     },
     "passaddhi": {
         "classification": "REFUSE DRIFT",

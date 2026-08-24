@@ -7,7 +7,7 @@
 
 *MN 19, the Dvedhāvitakka Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,793 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,774 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -74,22 +74,19 @@ brought it to an end.
 
 The same was true for thinking of ill will and thinking of harming.
 
-### The Inclination of the Feeling Mind
+### The Inclination of the Heart
 
-"Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
-mind inclines.
+"Whatever a bhikkhu frequently thinks and ponders, toward that the heart inclines.
 
 If a bhikkhu frequently thinks and ponders thinking of sensuality, thinking of
 renunciation is let go, thinking of sensuality is made much of, and the
-feeling mind inclines that way.
+heart inclines that way.
 
 If a bhikkhu frequently thinks and ponders thinking of ill will, thinking of
-non-ill-will is let go, thinking of ill will is made much of, and the feeling
-mind inclines that way.
+non-ill-will is let go, thinking of ill will is made much of, and the heart inclines that way.
 
 If a bhikkhu frequently thinks and ponders thinking of harming, thinking of
-non-harming is let go, thinking of harming is made much of, and the feeling
-mind inclines that way.
+non-harming is let go, thinking of harming is made much of, and the heart inclines that way.
 
 ### The First Cowherd Simile
 
@@ -120,33 +117,31 @@ kept thinking and pondering this all day, I saw no danger in that. If I kept
 thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
-tired. When the body is tired, the feeling mind becomes strained. When the
-feeling mind is strained, it is far from mental composure. So I stilled the
-feeling mind inwardly, settled it down, made it direct, and brought it into
+tired. When the body is tired, the heart becomes strained. When the
+heart is strained, it is far from mental composure. So I stilled the
+heart inwardly, settled it down, made it direct, and brought it into
 mental composure.
 
 Why is that?
 
-So that the feeling mind would not become strained.
+So that the heart would not become strained.
 
 The same was true for thinking of non-ill-will and thinking of non-harming.
 
-### The Inclination of the Feeling Mind, Again
+### The Inclination of the Heart, Again
 
-"Whatever a bhikkhu frequently thinks and ponders, toward that the feeling
-mind inclines.
+"Whatever a bhikkhu frequently thinks and ponders, toward that the heart inclines.
 
 If a bhikkhu frequently thinks and ponders thinking of renunciation, thinking
 of sensuality is let go, thinking of renunciation is made much of, and the
-feeling mind inclines that way.
+heart inclines that way.
 
 If a bhikkhu frequently thinks and ponders thinking of non-ill-will, thinking
 of ill will is let go, thinking of non-ill-will is made much of, and the
-feeling mind inclines that way.
+heart inclines that way.
 
 If a bhikkhu frequently thinks and ponders thinking of non-harming, thinking
-of harming is let go, thinking of non-harming is made much of, and the feeling
-mind inclines that way.
+of harming is let go, thinking of non-harming is made much of, and the heart inclines that way.
 
 ### The Second Cowherd Simile
 
@@ -160,7 +155,7 @@ In the same way, I only needed to remember: 'These dhammas are here.'
 ### Jhāna and the Three Knowledges
 
 "My energy was aroused and unflagging, remembering was established and did not
-slip, the body was tranquil and undisturbed, and the feeling mind was
+slip, the body was tranquil and undisturbed, and the heart was
 well-composed and direct.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, I entered
@@ -182,7 +177,7 @@ gladness and sadness, I entered and remained in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-With the feeling mind well-composed, purified, bright, stainless, free
+With the heart well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward recollecting past lives. I recollected many kinds of past lives, with
 their aspects and particulars.
@@ -191,7 +186,7 @@ This was the first knowledge I attained in the first watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the feeling mind well-composed, purified, bright, stainless, free
+With the heart well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the passing away and reappearance of beings. With the
 purified divine eye, surpassing the human, I saw beings passing away and
@@ -202,7 +197,7 @@ This was the second knowledge I attained in the middle watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the feeling mind well-composed, purified, bright, stainless, free
+With the heart well-composed, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the wearing away of the outflows.
 
@@ -218,7 +213,7 @@ understood as it really is: 'This is the quenching of the outflows.' I
 directly understood as it really is: 'This is the way of practice leading to
 the quenching of the outflows.'
 
-Knowing and seeing in this way, the feeling mind was freed from the outflow of
+Knowing and seeing in this way, the heart was freed from the outflow of
 sensuality, from the outflow of becoming, and from the outflow of ignorance.
 When it was freed, there came the knowledge: 'It is freed.' I directly
 understood: 'Birth is worn away, the spiritual life has been lived, what had
@@ -313,10 +308,10 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>kamma</dfn></dt>
@@ -384,8 +379,8 @@ Buddha had said.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

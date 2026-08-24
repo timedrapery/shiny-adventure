@@ -7,7 +7,7 @@
 
 *MN 22, the Alagaddūpama Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 24 min · 4,192 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 24 min · 4,186 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -226,7 +226,7 @@ as: 'This is mine, I am this, this is my self.' They regard felt experience as:
 'This is mine, I am this, this is my self.' They regard recognition as: 'This
 is mine, I am this, this is my self.' They regard what is put together as:
 'This is mine, I am this, this is my self.' They regard whatever is seen,
-heard, sensed, known, reached, sought, and explored by the feeling mind as:
+heard, sensed, known, reached, sought, and explored by the heart as:
 'This is mine, I am this, this is my self.' And as for this ground for views
 — 'The world and self are one and the same. After death I will be that:
 permanent, stable, eternal, not subject to change, lasting as long as eternity
@@ -239,7 +239,7 @@ self.' They regard felt experience as: 'Not mine, I am not this, this is not
 my self.' They regard recognition as: 'Not mine, I am not this, this is not my
 self.' They regard what is put together as: 'Not mine, I am not this, this is
 not my self.' They regard whatever is seen, heard, sensed, known, reached,
-sought, and explored by the feeling mind as: 'Not mine, I am not this, this is
+sought, and explored by the heart as: 'Not mine, I am not this, this is
 not my self.' And as for this ground for views — 'The world and self are one
 and the same. After death I will be that: permanent, stable, eternal, not
 subject to change, lasting as long as eternity itself' — they regard this too
@@ -429,7 +429,7 @@ lowered, burden dropped, and fully detached.
 
 ### The Liberated One Is Not Found
 
-When a bhikkhu's feeling mind is released in this way, bhikkhus, gods together
+When a bhikkhu's heart is released in this way, bhikkhus, gods together
 with Indra, with the Brahmā, and with Pajāpati, searching, cannot find it:
 'This is what the Tathāgata's knowing rests upon.' Why is that? Even in this
 very life, bhikkhus, I say the Tathāgata is not to be traced.
@@ -444,14 +444,14 @@ recluses and brahmins misrepresent me in this way. In the past, as today,
 bhikkhus, what I describe is suffering and the cessation of suffering.
 
 If others abuse, attack, harass, and trouble the Tathāgata because of this,
-the Tathāgata feels no resentment, no irritation, no bitterness of feeling mind
+the Tathāgata feels no resentment, no irritation, no bitterness of heart
 about it. And if others honor, respect, revere, and venerate the Tathāgata
 because of this, the Tathāgata feels no delight, no gladness, no elation of
-feeling mind. If they show honor, the Tathāgata simply thinks: 'Such things are
+heart. If they show honor, the Tathāgata simply thinks: 'Such things are
 done for me with regard to what was already fully understood in the past.'
 
 Therefore, bhikkhus, if others abuse, attack, harass, and trouble you, do not
-make yourselves resentful, irritated, or bitter of feeling mind. And if others
+make yourselves resentful, irritated, or bitter of heart. And if others
 honor, respect, revere, and venerate you, do not make yourselves delighted,
 glad, or elated. If they show honor, simply think: 'Such things are done for
 us with regard to what was already fully understood in the past.'
@@ -546,14 +546,14 @@ The second discourse is finished.
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -603,10 +603,10 @@ The second discourse is finished.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

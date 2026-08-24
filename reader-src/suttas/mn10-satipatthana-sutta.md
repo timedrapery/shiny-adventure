@@ -7,7 +7,7 @@
 
 *MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,871 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,825 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -56,7 +56,7 @@ They remain observing felt experience in relation to felt experience, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
-They remain observing the feeling mind in relation to the feeling mind, ardent,
+They remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and distress
 regarding the world.
 
@@ -239,47 +239,47 @@ and do not take anything in the world personally.
 That is how a bhikkhu remains observing felt experience in relation to felt
 experience."
 
-### Contemplation of the Feeling Mind
+### Contemplation of the Heart
 
-"And how does a bhikkhu remain observing the feeling mind in relation to the
-feeling mind?
+"And how does a bhikkhu remain observing the heart in relation to the
+heart?
 
-Here a bhikkhu discerns a feeling mind with passion as 'feeling mind with
-passion.' They discern a feeling mind without passion as 'feeling mind without
+Here a bhikkhu discerns a heart with passion as 'heart with
+passion.' They discern a heart without passion as 'heart without
 passion.'
 
-They discern a feeling mind with aversion as 'feeling mind with aversion.' They
-discern a feeling mind without aversion as 'feeling mind without aversion.'
+They discern a heart with aversion as 'heart with aversion.' They
+discern a heart without aversion as 'heart without aversion.'
 
-They discern a feeling mind with confusion as 'feeling mind with confusion.'
-They discern a feeling mind without confusion as 'feeling mind without
+They discern a heart with confusion as 'heart with confusion.'
+They discern a heart without confusion as 'heart without
 confusion.'
 
-They discern a contracted feeling mind as 'contracted feeling mind.' They
-discern a scattered feeling mind as 'scattered feeling mind.'
+They discern a contracted heart as 'contracted heart.' They
+discern a scattered heart as 'scattered heart.'
 
-They discern an expanded feeling mind as 'expanded feeling mind.' They discern
-an unexpanded feeling mind as 'unexpanded feeling mind.'
+They discern an expanded heart as 'expanded heart.' They discern
+an unexpanded heart as 'unexpanded heart.'
 
-They discern a surpassable feeling mind as 'surpassable feeling mind.' They
-discern an unsurpassable feeling mind as 'unsurpassable feeling mind.'
+They discern a surpassable heart as 'surpassable heart.' They
+discern an unsurpassable heart as 'unsurpassable heart.'
 
-They discern a composed feeling mind as 'composed feeling mind.' They discern
-an uncomposed feeling mind as 'uncomposed feeling mind.'
+They discern a composed heart as 'composed heart.' They discern
+an uncomposed heart as 'uncomposed heart.'
 
-They discern a released feeling mind as 'released feeling mind.' They discern
-an unreleased feeling mind as 'unreleased feeling mind.'
+They discern a released heart as 'released heart.' They discern
+an unreleased heart as 'unreleased heart.'
 
-Then they remain observing the feeling mind as internal, observing the feeling
-mind as external, and observing the feeling mind as both internal and external.
-They remain observing arising qualities in the feeling mind, vanishing
-qualities in the feeling mind, and both arising and vanishing qualities in the
-feeling mind. Or remembering is simply present: 'There is the feeling mind,'
+Then they remain observing the heart as internal, observing the heart as
+external, and observing the heart as both internal and external.
+They remain observing arising qualities in the heart, vanishing
+qualities in the heart, and both arising and vanishing qualities in the
+heart. Or remembering is simply present: 'There is the heart,'
 just enough for knowing and for remembering. They stay without depending on
 anything and do not take anything in the world personally.
 
-That is how a bhikkhu remains observing the feeling mind in relation to the
-feeling mind."
+That is how a bhikkhu remains observing the heart in relation to the
+heart."
 
 ### Contemplation of Dhammas
 
@@ -483,8 +483,6 @@ Buddha had said.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>dull distraction</dfn></dt>
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>five distractions</dfn></dt>
@@ -493,6 +491,8 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental composure</dfn></dt>
@@ -520,7 +520,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Breath Meditation, Step by Step](mn118-anapanasati-sutta.md)
+- [← Remembering the Dhamma While Breathing In and Out](mn118-anapanasati-sutta.md)
 - [All suttas](index.md)
 - [What Does a Renunciant Gain? →](dn2-samannaphala-sutta.md)
 
@@ -541,10 +541,10 @@ Buddha had said.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.

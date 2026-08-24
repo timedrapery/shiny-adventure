@@ -31,8 +31,8 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `vīmaṁsā` keeps `investigation`. The alternate reading, `inquiry`, is
   available but `investigation` matches the headword and keeps the factor
   active rather than merely questioning.
-- `citta` keeps `feeling mind` throughout, including as the third base of
-  power. This produces `composure through the feeling mind`, which is heavier
+- `citta` keeps `heart` throughout, including as the third base of
+  power. This produces `composure through the heart`, which is heavier
   than the other three but consistent. Substituting a bare `mind` for the
   third member only would have made it read as a different kind of item than
   its siblings.
@@ -46,8 +46,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   effort, `padahati` the verb of exertion -- so collapsing them would have
   made one clause repeat another.
 - The four-clause effort formula is rendered `they generate desire ...; they
-  make an effort, arouse energy, take hold of the feeling mind, and exert
-  themselves`. `cittaṁ paggaṇhāti` is `take hold of the feeling mind` rather
+  make an effort, arouse energy, take hold of the heart, and exert
+  themselves`. `cittaṁ paggaṇhāti` is `take hold of the heart` rather
   than `uplift` or `exert`, keeping `exert` for `padahati`.
 - `dhammā` in the effort formula is rendered `qualities`, not `dhammas`. The
   Pali here means wholesome and unwholesome states of mind, and the governed
@@ -105,7 +105,7 @@ whole.
   headword now links to `chanda`, `vīriya`, `citta`, `vīmaṁsā`, `samādhi`, and
   `padhānasaṅkhāra`, so the family is visible as a set rather than as four
   unrelated records that happen to appear together.
-- `cittassa ekaggatā` is rendered `directness of feeling mind` from the
+- `cittassa ekaggatā` is rendered `directness of heart` from the
   `ekaggatā` headword. The full phrase is a stock expression and may deserve a
   formula record; it recurs wherever `samādhi` is defined.
 - `paggaṇhāti` is ungoverned. It appears in the effort formula, which recurs

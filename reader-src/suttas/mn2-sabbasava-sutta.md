@@ -448,7 +448,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 
 - [← The Water Vessel](mn61-ambalatthikarahulovada-sutta.md)
 - [All suttas](index.md)
-- [Breath Meditation, Step by Step →](mn118-anapanasati-sutta.md)
+- [Remembering the Dhamma While Breathing In and Out →](mn118-anapanasati-sutta.md)
 
 </nav>
 

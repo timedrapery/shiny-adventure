@@ -7,7 +7,7 @@
 
 *AN 11.9, the Saddha Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,257 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,247 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -50,28 +50,28 @@ the horse trainer have me do today? How should I respond?' Tied to the feeding
 trough, it holds a theme: 'Fodder, fodder!'
 
 In the same way, Saddha, a wild person who has gone to the forest,
-to the root of a tree, or to an empty dwelling. They remain with their feeling
-mind overcome and seized by sensual distraction, and they do not truly
+to the root of a tree, or to an empty dwelling. They remain with their heart
+overcome and seized by sensual distraction, and they do not truly
 understand the escape from sensual distraction that has arisen. Harboring
 sensual distraction as their theme, they think on it, dwell on it, brood over
 it, and keep circling back to it.
 
-They remain with their feeling mind overcome by aversive distraction, and they
+They remain with their heart overcome by aversive distraction, and they
 do not truly understand the escape from aversive distraction that has arisen.
 Harboring aversive distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome by dull distraction, and they do
+They remain with their heart overcome by dull distraction, and they do
 not truly understand the escape from dull distraction that has arisen.
 Harboring dull distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome by agitated distraction, and they
+They remain with their heart overcome by agitated distraction, and they
 do not truly understand the escape from agitated distraction that has arisen.
 Harboring agitated distraction as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their feeling mind overcome and seized by uncertain
+They remain with their heart overcome and seized by uncertain
 distraction, and they do not truly understand the escape from uncertain
 distraction that has arisen. Harboring uncertain distraction as their theme,
 they think on it, dwell on it, brood over it, and keep circling back to it.
@@ -103,19 +103,19 @@ loss, and a misfortune.
 
 In the same way, Saddha, the fine thoroughbred person who has gone to the
 forest, to the root of a tree, or to an empty dwelling does not remain with
-their feeling mind overcome and seized by sensual distraction, and they truly
+their heart overcome and seized by sensual distraction, and they truly
 understand the escape from sensual distraction that has arisen.
 
-They do not remain with their feeling mind overcome by aversive distraction,
+They do not remain with their heart overcome by aversive distraction,
 and they truly understand the escape from aversive distraction that has arisen.
 
-They do not remain with their feeling mind overcome by dull distraction, and
+They do not remain with their heart overcome by dull distraction, and
 they truly understand the escape from dull distraction that has arisen.
 
-They do not remain with their feeling mind overcome by agitated distraction,
+They do not remain with their heart overcome by agitated distraction,
 and they truly understand the escape from agitated distraction that has arisen.
 
-They do not remain with their feeling mind overcome and seized by uncertain
+They do not remain with their heart overcome and seized by uncertain
 distraction, and they truly understand the escape from uncertain distraction
 that has arisen.
 
@@ -210,8 +210,8 @@ The ninth discourse is finished.
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
-<dt><dfn>feeling mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to &quot;heart&quot; in everyday English than to &quot;intellect.&quot;</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
@@ -242,7 +242,7 @@ The ninth discourse is finished.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
-*[feeling mind]: This project's rendering of "citta" -- the mind as the part of you that feels, wants, and reacts, and the part that can be trained, settled, and freed. Closer to "heart" in everyday English than to "intellect."
+*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.

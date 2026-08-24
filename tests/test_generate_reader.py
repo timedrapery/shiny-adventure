@@ -34,6 +34,15 @@ class MetadataCoverageTests(unittest.TestCase):
             self.assertIsInstance(meta.reader_title, str, key)
             self.assertTrue(meta.reader_title.strip(), key)
 
+    def test_anapanasati_is_not_labeled_breath_meditation(self) -> None:
+        meta = registry.READER_METADATA["mn118"]
+        self.assertEqual(
+            meta.reader_title,
+            "Remembering the Dhamma While Breathing In and Out",
+        )
+        self.assertIn("remembering the Dhamma while breathing in and out", meta.path_note)
+        self.assertNotIn("breath meditation", meta.path_note.casefold())
+
     def test_reading_order_covers_the_corpus_exactly_once(self) -> None:
         ordered = registry.surfaces_in_reading_order()
         self.assertEqual(len(ordered), len(registry.TRANSLATION_SURFACES))

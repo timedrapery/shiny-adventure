@@ -224,7 +224,7 @@ as: 'This is mine, I am this, this is my self.' They regard felt experience as:
 'This is mine, I am this, this is my self.' They regard recognition as: 'This
 is mine, I am this, this is my self.' They regard what is put together as:
 'This is mine, I am this, this is my self.' They regard whatever is seen,
-heard, sensed, known, reached, sought, and explored by the feeling mind as:
+heard, sensed, known, reached, sought, and explored by the heart as:
 'This is mine, I am this, this is my self.' And as for this ground for views
 — 'The world and self are one and the same. After death I will be that:
 permanent, stable, eternal, not subject to change, lasting as long as eternity
@@ -237,7 +237,7 @@ self.' They regard felt experience as: 'Not mine, I am not this, this is not
 my self.' They regard recognition as: 'Not mine, I am not this, this is not my
 self.' They regard what is put together as: 'Not mine, I am not this, this is
 not my self.' They regard whatever is seen, heard, sensed, known, reached,
-sought, and explored by the feeling mind as: 'Not mine, I am not this, this is
+sought, and explored by the heart as: 'Not mine, I am not this, this is
 not my self.' And as for this ground for views — 'The world and self are one
 and the same. After death I will be that: permanent, stable, eternal, not
 subject to change, lasting as long as eternity itself' — they regard this too
@@ -427,7 +427,7 @@ lowered, burden dropped, and fully detached.
 
 ### The Liberated One Is Not Found
 
-When a bhikkhu's feeling mind is released in this way, bhikkhus, gods together
+When a bhikkhu's heart is released in this way, bhikkhus, gods together
 with Indra, with the Brahmā, and with Pajāpati, searching, cannot find it:
 'This is what the Tathāgata's knowing rests upon.' Why is that? Even in this
 very life, bhikkhus, I say the Tathāgata is not to be traced.
@@ -442,14 +442,14 @@ recluses and brahmins misrepresent me in this way. In the past, as today,
 bhikkhus, what I describe is suffering and the cessation of suffering.
 
 If others abuse, attack, harass, and trouble the Tathāgata because of this,
-the Tathāgata feels no resentment, no irritation, no bitterness of feeling mind
+the Tathāgata feels no resentment, no irritation, no bitterness of heart
 about it. And if others honor, respect, revere, and venerate the Tathāgata
 because of this, the Tathāgata feels no delight, no gladness, no elation of
-feeling mind. If they show honor, the Tathāgata simply thinks: 'Such things are
+heart. If they show honor, the Tathāgata simply thinks: 'Such things are
 done for me with regard to what was already fully understood in the past.'
 
 Therefore, bhikkhus, if others abuse, attack, harass, and trouble you, do not
-make yourselves resentful, irritated, or bitter of feeling mind. And if others
+make yourselves resentful, irritated, or bitter of heart. And if others
 honor, respect, revere, and venerate you, do not make yourselves delighted,
 glad, or elated. If they show honor, simply think: 'Such things are done for
 us with regard to what was already fully understood in the past.'

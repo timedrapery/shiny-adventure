@@ -121,21 +121,21 @@ The Buddha said this:
 "Here, Ānanda, an unlearned ordinary person, someone who has not seen the noble
 ones, who is unskilled and untrained in the noble Dhamma, someone who has not
 seen true persons, who is unskilled and untrained in the true person's Dhamma,
-lives with a feeling mind overwhelmed by identity view, possessed by identity
+lives with a heart overwhelmed by identity view, possessed by identity
 view.
 
 When identity view has arisen, that person does not discern its escape as it
 has come to be. For that person, identity view is firmly established, not
 brought under training, a lower fetter.
 
-That person lives with a feeling mind overwhelmed by uncertain distraction,
+That person lives with a heart overwhelmed by uncertain distraction,
 possessed by uncertain distraction.
 
 When uncertain distraction has arisen, that person does not discern its escape
 as it has come to be. For that person, uncertain distraction is firmly
 established, not brought under training, a lower fetter.
 
-That person lives with a feeling mind overwhelmed by grasping at habits and
+That person lives with a heart overwhelmed by grasping at habits and
 observances, possessed by grasping at habits and observances.
 
 When grasping at habits and observances has arisen, that person does not
@@ -143,14 +143,14 @@ discern its escape as it has come to be. For that person, grasping at habits
 and observances is firmly established, not brought under training, a lower
 fetter.
 
-That person lives with a feeling mind overwhelmed by passion for sensuality,
+That person lives with a heart overwhelmed by passion for sensuality,
 possessed by passion for sensuality.
 
 When passion for sensuality has arisen, that person does not discern its
 escape as it has come to be. For that person, passion for sensuality is firmly
 established, not brought under training, a lower fetter.
 
-That person lives with a feeling mind overwhelmed by aversive distraction,
+That person lives with a heart overwhelmed by aversive distraction,
 possessed by aversive distraction.
 
 When aversive distraction has arisen, that person does not discern its escape
@@ -162,35 +162,35 @@ established, not brought under training, a lower fetter.
 "But, Ānanda, a learned noble disciple, someone who has seen the noble ones,
 who is skilled and trained in the noble Dhamma, someone who has seen true
 persons, who is skilled and trained in the true person's Dhamma, does not live
-with a feeling mind overwhelmed by identity view, or possessed by identity
+with a heart overwhelmed by identity view, or possessed by identity
 view.
 
 When identity view has arisen, that disciple discerns its escape as it has
 come to be. For that disciple, identity view is abandoned together with its
 underlying tendency.
 
-That disciple does not live with a feeling mind overwhelmed by uncertain
+That disciple does not live with a heart overwhelmed by uncertain
 distraction, or possessed by uncertain distraction.
 
 When uncertain distraction has arisen, that disciple discerns its escape as it
 has come to be. For that disciple, uncertain distraction is abandoned together
 with its underlying tendency.
 
-That disciple does not live with a feeling mind overwhelmed by grasping at
+That disciple does not live with a heart overwhelmed by grasping at
 habits and observances, or possessed by grasping at habits and observances.
 
 When grasping at habits and observances has arisen, that disciple discerns
 its escape as it has come to be. For that disciple, grasping at habits and
 observances is abandoned together with its underlying tendency.
 
-That disciple does not live with a feeling mind overwhelmed by passion for
+That disciple does not live with a heart overwhelmed by passion for
 sensuality, or possessed by passion for sensuality.
 
 When passion for sensuality has arisen, that disciple discerns its escape as
 it has come to be. For that disciple, passion for sensuality is abandoned
 together with its underlying tendency.
 
-That disciple does not live with a feeling mind overwhelmed by aversive
+That disciple does not live with a heart overwhelmed by aversive
 distraction, or possessed by aversive distraction.
 
 When aversive distraction has arisen, that disciple discerns its escape as it
@@ -249,7 +249,7 @@ But that person would not be able to cross the Ganges River safely by cutting
 across the current with the arms.
 
 In the same way, when the Dhamma is being taught for the quenching of
-identity, there are people whose feeling mind does not leap forward, does not
+identity, there are people whose heart does not leap forward, does not
 become confident, does not settle, and is not released. They should be seen
 like that weak person.
 
@@ -265,7 +265,7 @@ That person would be able to cross the Ganges River safely by cutting across
 the current with the arms.
 
 In the same way, when the Dhamma is being taught for the quenching of
-identity, there are people whose feeling mind leaps forward, becomes
+identity, there are people whose heart leaps forward, becomes
 confident, settles, and is released. They should be seen like that strong
 person.
 
@@ -285,10 +285,10 @@ things together, and knowing: that bhikkhu observes those dhammas as
 impermanent, as dissatisfaction, as disease, as a boil, as a dart, as misery,
 as affliction, as alien, as disintegrating, as empty, as not-self.
 
-They turn the feeling mind back from those dhammas.
+They turn the heart back from those dhammas.
 
-Once they have turned the feeling mind back from those dhammas, they bring the
-feeling mind to the element of the deathless:
+Once they have turned the heart back from those dhammas, they bring the
+heart to the element of the deathless:
 
 'This is peace. This is refined: the calming of all constructions, the
 relinquishment of all supports, the wearing away of ignorant wanting, fading,
@@ -318,7 +318,7 @@ recognition, putting things together, and knowing, they observe those dhammas
 as impermanent, as dissatisfaction, as disease, as a boil, as a dart, as
 misery, as affliction, as alien, as disintegrating, as empty, as not-self.
 
-They turn the feeling mind back from those dhammas and bring it to the element
+They turn the heart back from those dhammas and bring it to the element
 of the deathless:
 
 'This is peace. This is refined: the calming of all constructions, the
@@ -346,7 +346,7 @@ together, and knowing, they observe those dhammas as impermanent, as
 dissatisfaction, as disease, as a boil, as a dart, as misery, as affliction, as
 alien, as disintegrating, as empty, as not-self.
 
-They turn the feeling mind back from those dhammas and bring it to the element
+They turn the heart back from those dhammas and bring it to the element
 of the deathless.
 
 Standing there, they reach the wearing away of the outflows. But if they do not
@@ -364,7 +364,7 @@ bhikkhu enters and remains in the sphere of boundless knowing, aware that
 
 Whatever is there connected with felt experience, recognition, putting things
 together, and knowing, they observe those dhammas in the same way, turn the
-feeling mind back from those dhammas, and bring it to the element of the
+heart back from those dhammas, and bring it to the element of the
 deathless.
 
 Standing there, they reach the wearing away of the outflows. But if they do not
@@ -382,7 +382,7 @@ nothing.'
 
 Whatever is there connected with felt experience, recognition, putting things
 together, and knowing, they observe those dhammas in the same way, turn the
-feeling mind back from those dhammas, and bring it to the element of the
+heart back from those dhammas, and bring it to the element of the
 deathless.
 
 Standing there, they reach the wearing away of the outflows. But if they do not

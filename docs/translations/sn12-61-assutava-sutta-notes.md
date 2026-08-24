@@ -34,8 +34,8 @@ They are now used verbatim:
 ## Governing Decisions
 
 - `cittaṁ itipi, mano itipi, viññāṇaṁ itipi` is rendered `what is called the
-  feeling mind, and the thinking mind, and knowing`. The repository governs the
-  three terms separately as `feeling mind`, `thinking mind`, and `knowing`, and
+  heart, and the thinking mind, and knowing`. The repository governs the
+  three terms separately as `heart`, `thinking mind`, and `knowing`, and
   keeping them distinct is what makes the sentence work: the discourse is
   stringing together three names for the same thing in order to say that none
   of them is a stable object.

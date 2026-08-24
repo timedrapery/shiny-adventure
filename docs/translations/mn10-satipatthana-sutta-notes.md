@@ -25,7 +25,7 @@ source-audit calls, and edition notes that govern it.
 - `sampajañña` remains `clear knowing`.
 - `vedanā` remains `felt experience`, and the third register is rendered
   `mixed feeling`.
-- `citta` remains `feeling mind`.
+- `citta` remains `heart`.
 - `dhamma` remains untranslated in `dhammānupassanā`.
 - The five `nīvaraṇa` members follow the current repo family language:
   `sensual distraction`, `aversive distraction`, `dull distraction`,
@@ -67,7 +67,7 @@ source-audit calls, and edition notes that govern it.
 - This edition does not treat MN 10 as a discourse about bare attention,
   passive noting, or technique collection.
 - It is handled as a structured training in remembering and clear knowing
-  across body, felt experience, feeling mind, and dhammas.
+  across body, felt experience, heart, and dhammas.
 - The body branch is not isolated from MN 118. The breathing subsection is
   translated so the family relation remains visible.
 - The dhamma branch is not reduced to doctrinal study. The discourse keeps the

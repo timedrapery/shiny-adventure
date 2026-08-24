@@ -13,7 +13,7 @@
   rendered `delusion`; `vedanā` is rendered `felt experience`; `nibbindati`
   is rendered `grows disenchanted`; `virāga` is rendered `fading`; `vimutti`
   is rendered `release`; `āsava` is rendered `outflow`; and `citta` is
-  rendered `feeling mind`.
+  rendered `heart`.
 - This edition treats SN 35.28 as the repository's control surface for the
   burning-fire formula across all six sense fields, the threefold fire of
   passion, aversion, and delusion, and the disenchantment-fading-release arc.
@@ -116,7 +116,7 @@ spiritual life has been lived, what had to be done has been done, there is
 nothing further for this.'"
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
-Buddha's words. And while this discourse was being spoken, the feeling
-minds of those thousand bhikkhus were released from outflows without clinging.
+Buddha's words. And while this discourse was being spoken, the hearts of those
+thousand bhikkhus were released from outflows without clinging.
 
 The sixth discourse is finished.

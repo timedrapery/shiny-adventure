@@ -57,7 +57,7 @@ choices, source-audit calls, and edition notes that govern it.
   (`byāpādapadosa`), dullness and drowsiness (`thinamiddha`), restlessness
   and remorse (`uddhaccakukkucca`), uncertain distraction (`vicikicchā`). The
   summary formula: "Having abandoned these five distractions — corruptions of
-  the feeling mind that weaken discernment."
+  the heart that weaken discernment."
 - `nandī` is rendered `relishing` (major lexicon entry). The key pivot in
   the ordinary-course section: "From this, relishing arises. The relishing of
   felt experience — that is taking personally." And the cessation arc: "As a
@@ -130,7 +130,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `jhāna` → `mental theme` (major)
 - `paññā` → `discernment` (major)
 - `āsava` → `outflow` (major)
-- `citta` → `feeling mind` (major)
+- `citta` → `heart` (major)
 - `sīla` → `conduct` (major)
 - `indriya` → `faculty` (major)
 
@@ -155,9 +155,9 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - The ordinary-person section (mn38:30) and the trained-practitioner section
   (mn38:40) use parallel language with opposite outcomes. The key pair:
   `anupaṭṭhitakāyasati ca viharati parittacetaso` (unestablished remembering,
-  diminished feeling mind) versus `upaṭṭhitakāyasati ca viharati appamāṇacetaso`
-  (established remembering, boundless feeling mind). `Parittaceta` = diminished /
-  limited feeling mind; `appamāṇaceta` = boundless / immeasurable feeling mind.
+  diminished heart) versus `upaṭṭhitakāyasati ca viharati appamāṇacetaso`
+  (established remembering, boundless heart). `Parittaceta` = diminished /
+  limited heart; `appamāṇaceta` = boundless / immeasurable heart.
 - The `anurodhavirodha` pair (favoring and opposing; mn38:30.3, mn38:40.3) is
   rendered `favoring and opposing`. `Anurodha` = going with, favoring what
   arises; `virodha` = opposing, resisting what arises. Together they name

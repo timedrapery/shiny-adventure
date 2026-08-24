@@ -79,7 +79,7 @@ alone.
   two-arrows frame.
 - `dhamma` in the verse is rendered `the teaching` because the learned person
   has understood the Buddha's instruction, not a list of analytical objects.
-- `citta` in the verse is rendered `feeling mind`, keeping the affective center
+- `citta` in the verse is rendered `heart`, keeping the affective center
   consistent with the repository's citta policy.
 - `padaṁ ... virajaṁ asokaṁ` is rendered `the dustless, sorrowless state`. This
   is a local verse rendering, not a new default for `pada`.

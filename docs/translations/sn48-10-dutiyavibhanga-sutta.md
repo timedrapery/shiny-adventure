@@ -14,7 +14,7 @@
   rendered `discernment`; `jhāna` is rendered `mental theme`; `pīti` and
   `sukha` are rendered `rejoicing` and `satisfaction`; `ekaggatā` is rendered
   `directness`; `upekkhā` is rendered `dynamic balance`; `citta` is rendered
-  `feeling mind`; and `chanda` is rendered `desire`.
+  `heart`; and `chanda` is rendered `desire`.
 - This edition is the control surface for the five faculties. Each faculty is
   defined here by what a noble disciple actually does, not by a definition of
   the abstract noun, and the translation keeps that shape.
@@ -60,20 +60,20 @@ firm in exertion, not putting down the burden with respect to wholesome
 qualities.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the abandoning of arisen harmful, unwholesome
-qualities; they make an effort, arouse energy, take hold of the feeling mind,
+qualities; they make an effort, arouse energy, take hold of the heart,
 and exert themselves.
 
 They generate desire for the arising of unarisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 They generate desire for the continuation, non-confusion, increase,
 abundance, development, and fulfilment of arisen wholesome qualities; they
-make an effort, arouse energy, take hold of the feeling mind, and exert
+make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
 This, bhikkhus, is called the faculty of energy.
@@ -91,7 +91,7 @@ world.
 
 They remain observing felt experience ...
 
-They remain observing the feeling mind ...
+They remain observing the heart ...
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
 remembering, having removed coveting and distress regarding the world.
@@ -103,14 +103,14 @@ This, bhikkhus, is called the faculty of remembering.
 And what, bhikkhus, is the faculty of mental composure?
 
 Here a noble disciple, having made relinquishment the object, gains mental
-composure, gains directness of feeling mind.
+composure, gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
 and remain in the first mental theme, which has thinking and pondering, and
 the rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of the feeling mind, they enter and remain in the second mental
+unification of the heart, they enter and remain in the second mental
 theme, without thinking and pondering, with the rejoicing and satisfaction
 born of mental composure.
 
