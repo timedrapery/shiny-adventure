@@ -71,9 +71,9 @@ REVIEWED_TERMS = {
     },
     "samadhi": {
         "classification": "ALIGN",
-        "expected_default": "mental composure",
+        "expected_default": "composure",
         "osf_usage": "Dhammarato and OSF materials strongly reject concentration and support a practical composure or collectedness handling.",
-        "governance": "Use mental composure as the default rendering. Do not let this drift into concentration language.",
+        "governance": "Use composure as the default rendering. Do not let this drift into concentration language.",
     },
     "citta": {
         "classification": "TOLERATE ALTERNATE",

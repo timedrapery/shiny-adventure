@@ -351,7 +351,7 @@ Reflecting wisely, he develops the rejoicing awakening factor.
 
 Reflecting wisely, he develops the relaxation awakening factor.
 
-Reflecting wisely, he develops the mental-composure awakening factor.
+Reflecting wisely, he develops the composure awakening factor.
 
 Reflecting wisely, he develops the dynamic-balance awakening factor, based on
 seclusion, based on fading, based on quenching, maturing in relinquishment.

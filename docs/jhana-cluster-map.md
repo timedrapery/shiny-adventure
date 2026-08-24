@@ -12,8 +12,8 @@ collapsing into one generic blur of `meditation`, `concentration`, or
 | --- | --- | --- | --- |
 | `jhāna` | `mental theme` | Governing jhāna-side headword in the fourfold sequence | meditation, absorption, trance, ecstasy |
 | `jhāyati` | `think like this` | Verb-side practical instruction linked to the family | meditate, enter absorption |
-| `samādhi` | `mental composure` | Broader composure-side headword | concentration, absorption, unification of mind |
-| `sammā-samādhi` | `right mental composure` | Path-factor form governed as the fourfold jhāna sequence | right concentration |
+| `samādhi` | `composure` | Broader composure-side headword | concentration, absorption, unification of mind |
+| `sammā-samādhi` | `right composure` | Path-factor form governed as the fourfold jhāna sequence | right concentration |
 | `vitakka` | `thinking` | First-jhāna active thought-side factor | applied thought, initial thought |
 | `vicāra` | `pondering` | Ongoing consideration-side factor | sustained thought |
 | `ekaggatā` | `directness` | Single-aim or unified-direction factor inside the family | one-pointedness, concentration |

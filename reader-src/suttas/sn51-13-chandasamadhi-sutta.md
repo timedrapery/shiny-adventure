@@ -7,7 +7,7 @@
 
 *SN 51.13, the Chandasamādhi Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 489 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 485 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -29,7 +29,7 @@ it everywhere else in the collection.
 
 ### Composure Through Desire
 
-"Bhikkhus, if a bhikkhu gains mental composure in dependence on desire, gains
+"Bhikkhus, if a bhikkhu gains composure in dependence on desire, gains
 directness of heart, this is called composure through desire.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
@@ -59,7 +59,7 @@ desire together with the exertion conditioners.
 
 ### Composure Through Energy
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on energy, gains
+Bhikkhus, if a bhikkhu gains composure in dependence on energy, gains
 directness of heart, this is called composure through energy.
 
 They generate desire for the non-arising of unarisen ... they generate desire
@@ -77,7 +77,7 @@ energy together with the exertion conditioners.
 
 ### Composure Through the Heart
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on the heart,
+Bhikkhus, if a bhikkhu gains composure in dependence on the heart,
 gains directness of heart, this is called composure through the
 heart.
 
@@ -96,7 +96,7 @@ the heart together with the exertion conditioners.
 
 ### Composure Through Investigation
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on investigation,
+Bhikkhus, if a bhikkhu gains composure in dependence on investigation,
 gains directness of heart, this is called composure through
 investigation.
 
@@ -122,10 +122,10 @@ investigation together with the exertion conditioners."
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wholesome</dfn></dt>
@@ -146,7 +146,7 @@ investigation together with the exertion conditioners."
 
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

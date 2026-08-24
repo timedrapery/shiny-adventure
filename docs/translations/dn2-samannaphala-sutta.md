@@ -12,7 +12,7 @@
   `pāṭimokkha` remains `pāṭimokkha`; `indriyasaṃvara` is rendered `guarding
   the faculties`; `sampajañña` is rendered `clear knowing`; `nīvaraṇa` is
   rendered `distraction`; `jhāna` is rendered `mental theme`; `samādhi` is
-  rendered `mental composure`; `pīti` is rendered `rejoicing`; `sukha` is
+  rendered `composure`; `pīti` is rendered `rejoicing`; `sukha` is
   rendered `satisfaction` in the jhāna sequence; `abhiññā` is rendered `higher
   knowing`; and `āsava` is rendered `outflow`.
 - This edition treats DN 2 as a control passage for the gradual-training
@@ -653,12 +653,12 @@ life, better and finer than the former ones.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, a bhikkhu enters and remains in the second mental theme,
-without thinking and pondering, with rejoicing and satisfaction born of mental
+without thinking and pondering, with rejoicing and satisfaction born of
 composure.
 
 They drench, steep, fill, and suffuse this very body with rejoicing and
-satisfaction born of mental composure, so that no part of the whole body
-remains untouched by rejoicing and satisfaction born of mental composure.
+satisfaction born of composure, so that no part of the whole body
+remains untouched by rejoicing and satisfaction born of composure.
 
 It is like a deep lake fed by spring water, with no inlet from east, west,
 north, or south, and with the heavens not sending rain from time to time; yet
@@ -667,7 +667,7 @@ and suffuses it, so that no part of the whole lake remains untouched by cool
 water.
 
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
-with rejoicing and satisfaction born of mental composure.
+with rejoicing and satisfaction born of composure.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.

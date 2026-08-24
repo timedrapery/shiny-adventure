@@ -11,7 +11,7 @@
 - House choices that most affect this sutta: `chanda` is rendered `desire`;
   `iddhipāda` is rendered `basis of power`; `vīmaṁsā` is rendered
   `investigation`; `vīriya` is rendered `energy`; `citta` is rendered `heart`;
-  `samādhi` is rendered `mental composure`; `ekaggatā` is rendered
+  `samādhi` is rendered `composure`; `ekaggatā` is rendered
   `directness`; `padhāna` is rendered `exertion`, so `padhānasaṅkhārā` are
   `exertion conditioners`; and `kusala` and `akusala` are rendered
   `wholesome` and `unwholesome`.
@@ -28,7 +28,7 @@
 
 ### Composure Through Desire
 
-"Bhikkhus, if a bhikkhu gains mental composure in dependence on desire, gains
+"Bhikkhus, if a bhikkhu gains composure in dependence on desire, gains
 directness of heart, this is called composure through desire.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
@@ -58,7 +58,7 @@ desire together with the exertion conditioners.
 
 ### Composure Through Energy
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on energy, gains
+Bhikkhus, if a bhikkhu gains composure in dependence on energy, gains
 directness of heart, this is called composure through energy.
 
 They generate desire for the non-arising of unarisen ... they generate desire
@@ -76,7 +76,7 @@ energy together with the exertion conditioners.
 
 ### Composure Through the Heart
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on the heart,
+Bhikkhus, if a bhikkhu gains composure in dependence on the heart,
 gains directness of heart, this is called composure through the
 heart.
 
@@ -95,7 +95,7 @@ the heart together with the exertion conditioners.
 
 ### Composure Through Investigation
 
-Bhikkhus, if a bhikkhu gains mental composure in dependence on investigation,
+Bhikkhus, if a bhikkhu gains composure in dependence on investigation,
 gains directness of heart, this is called composure through
 investigation.
 

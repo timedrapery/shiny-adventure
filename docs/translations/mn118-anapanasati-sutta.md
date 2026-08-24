@@ -10,7 +10,7 @@
 - House choices that most affect this sutta: `ānāpānasati` and `bhikkhu`
   remain untranslated, but `ānāpānasati` is glossed here as `remembering the
   Dhamma while breathing in and out`; `sati` is rendered `remembering`;
-  `samādhi` is rendered `mental composure`; `citta` is usually rendered
+  `samādhi` is rendered `composure`; `citta` is usually rendered
   `heart`; `upekkhā` is rendered `dynamic balance`; `vossagga` and
   `paṭinissagga` are rendered `relinquishment`.
 - The sixteen ānāpānasati lines are laid out here as trainings in four tetrads,
@@ -145,9 +145,8 @@ Heart trainings:
   'Breathing out, I will experience the heart.'
 - They train: 'Breathing in, I will gladden the heart.' They train:
   'Breathing out, I will gladden the heart.'
-- They train: 'Breathing in, I will bring the heart to mental
-  composure.' They train: 'Breathing out, I will bring the heart to
-  mental composure.'
+- They train: 'Breathing in, I will bring the heart to composure.' They train:
+  'Breathing out, I will bring the heart to composure.'
 - They train: 'Breathing in, I will free the heart.' They train:
   'Breathing out, I will free the heart.'
 
@@ -186,7 +185,7 @@ in relation to felt experience, ardent, with clear knowing, with remembering,
 having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the heart, or gladdening the
-heart, or bringing the heart to mental composure, or freeing the
+heart, or bringing the heart to composure, or freeing the
 heart, then they remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
@@ -237,7 +236,7 @@ relaxation awakening factor is aroused. They develop it, and it comes to
 fulfillment through development.
 
 "When the body is relaxed and they experience ease, the heart comes to
-mental composure. Then the awakening factor of mental composure is aroused.
+composure. Then the awakening factor of composure is aroused.
 They develop it, and it comes to fulfillment through development.
 
 "They then look carefully with dynamic balance at that well-composed heart.
@@ -269,7 +268,7 @@ as to fulfill knowledge and release?
   quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
-- the awakening factor of mental composure, based on seclusion, based on
+- the awakening factor of composure, based on seclusion, based on
   fading, based on quenching, culminating in relinquishment;
 - the dynamic balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.

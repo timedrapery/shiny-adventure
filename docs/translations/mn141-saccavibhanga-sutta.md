@@ -12,7 +12,7 @@
   truth`; `dukkha` is rendered `dissatisfaction`; `samudaya` is rendered
   `origin`; `nirodha` is rendered `quenching`; `magga` is rendered `path`;
   `taṇhā` is rendered `ignorant wanting`; `sammā-sati` is rendered `right
-  remembering`; `sammā-samādhi` is rendered `right mental composure`; and
+  remembering`; `sammā-samādhi` is rendered `right composure`; and
   `jhāna` remains `mental theme`.
 - The first-truth definitions and the eightfold-path definitions are laid out
   explicitly because they function as control passages for the current term
@@ -205,7 +205,7 @@ It is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 #### Right View
 
@@ -280,9 +280,9 @@ remembering, having removed coveting and distress regarding the world.
 
 This is called right remembering.
 
-#### Right Mental Composure
+#### Right Composure
 
-And what, friends, is right mental composure?
+And what, friends, is right composure?
 
 Here a bhikkhu, quite secluded from sensuality, secluded from unwholesome
 dhammas, enters and remains in the first mental theme, with thinking and
@@ -290,8 +290,7 @@ pondering, with rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, they enter and remain in the second mental theme, without
-thinking and pondering, with rejoicing and satisfaction born of mental
-composure.
+thinking and pondering, with rejoicing and satisfaction born of composure.
 
 With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience ease in the body. They enter and remain in the
@@ -302,7 +301,7 @@ With the abandoning of ease and discomfort, and with the earlier ending of
 gladness and sadness, they enter and remain in the fourth mental theme, without
 discomfort and without ease, purified by dynamic balance and remembering.
 
-This is called right mental composure.
+This is called right composure.
 
 This is called the noble truth of the path of practice leading to the
 quenching of dissatisfaction."

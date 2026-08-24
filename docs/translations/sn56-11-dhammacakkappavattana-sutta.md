@@ -14,7 +14,7 @@
   `path`; `patipada` is rendered `path of practice`; `taṇhā` is rendered
   `ignorant wanting`; `pañcupādānakkhandhā` is rendered `five clung-to heaps`;
   `sammā-sati` is rendered `right remembering`; and `sammā-samādhi` is
-  rendered `right mental composure`.
+  rendered `right composure`.
 - This edition treats SN 56.11 as a control passage for the middle-path
   opening, the four truth definitions, and the three-turning truth-task
   sequence.
@@ -62,7 +62,7 @@ It is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 This is the middle path of practice awakened to by the Tathāgata, which gives
 vision, gives knowledge, and leads to peace, higher knowing, awakening, and
@@ -111,7 +111,7 @@ it is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right mental composure
+- right composure
 
 ### The Three Turnings
 

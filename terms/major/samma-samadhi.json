@@ -4,11 +4,11 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "right composure",
-  "preferred_translation": "right mental composure",
+  "preferred_translation": "right composure",
   "alternative_translations": [
-    "right composure",
     "right collectedness",
-    "right noble mental composure",
+    "right inner accord",
+    "right noble composure",
     "harmonious equilibrium"
   ],
   "discouraged_translations": [
@@ -17,26 +17,26 @@
   ],
   "untranslated_preferred": false,
   "definition": "The noble path factor of samādhi, namely the first, second, third, and fourth jhāna.",
-  "notes": "OSF house style now prefers right mental composure. Dhammarato-facing and OSF-facing materials still justify rejecting right concentration and keeping the factor practical and path-facing, and What Is And Is Not The Path reinforces that same practical anti-concentration handling, but the repository no longer treats right unification of mind as the governing English. This repository now encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 141 carries that identity explicitly, defining the factor through the four jhānas. MN 117 frames it differently -- as one-pointedness supported and equipped by the seven preceding factors, placed inside a longer sequence that opens into right knowledge and right release -- and contains no jhāna at all, so it should not be cited for the fourfold definition. Right noble mental composure is retained for heading-style usage when a slightly fuller label is helpful.",
+  "notes": "The project prefers right composure as the plain-English path-factor default. Composure means the thinking mind and heart collected into a workable accord rather than pulling against each other; right marks that condition as oriented by the rest of the noble path. Translators should not let the factor drift back to right concentration or detach it from its path context. Dhammarato-facing and OSF-facing materials justify this practical handling, and What Is And Is Not The Path reinforces the same anti-concentration policy. This repository encodes the doctrinal identity directly: ariya sammā samādhi is the first jhāna, second jhāna, third jhāna, and fourth jhāna, not a vague broader meditative category floating free of the fourfold sequence. MN 141 carries that identity explicitly, defining the factor through the four jhānas. MN 117 frames it differently -- as directness supported and equipped by the seven preceding factors, placed inside a longer sequence that opens into right knowledge and right release -- and contains no jhāna at all, so it should not be cited for the fourfold definition. Right collectedness and right inner accord are explanatory alternates; right noble composure is retained for source-backed heading style.",
   "context_rules": [
     {
       "context": "In most path-factor and practical OSF contexts",
-      "rendering": "right mental composure",
+      "rendering": "right composure",
       "notes": "Use this as the OSF house default."
     },
     {
-      "context": "In prose stressing steadiness or bearing more than integration",
-      "rendering": "right composure",
-      "notes": "Allow this as a controlled alternate only when the context clearly supports it."
+      "context": "In explanatory prose stressing the thinking mind and heart working together",
+      "rendering": "right inner accord",
+      "notes": "Use to explain the default rather than replacing it in repeated path lists."
     },
     {
       "context": "In Dhammarato quote-book headings or close paraphrase of that house idiom",
-      "rendering": "right noble mental composure",
+      "rendering": "right noble composure",
       "notes": "Use this only in source-backed heading style."
     },
     {
       "context": "When the factor is being defined in doctrinal prose by its fourfold path expression",
-      "rendering": "right mental composure",
+      "rendering": "right composure",
       "notes": "Keep explicit that the factor is the first, second, third, and fourth jhāna."
     },
     {
@@ -61,19 +61,19 @@
   "example_phrases": [
     {
       "pali": "sammā-samādhi",
-      "translation": "right mental composure",
+      "translation": "right composure",
       "notes": "Shows the OSF house-style path-factor form.",
       "source": "MN 117"
     },
     {
       "pali": "vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati",
       "translation": "quite secluded from sensuality, secluded from unwholesome qualities, one enters and remains in the first mental theme, which has directed thought and sustained thought and the rapture and ease born of seclusion",
-      "notes": "MN 141 is the surface that answers 'what is right mental composure?' with the fourfold sequence.",
+      "notes": "MN 141 is the surface that answers 'what is right composure?' with the fourfold sequence.",
       "source": "MN 141"
     },
     {
       "pali": "ariyo sammāsamādhi saupaniso saparikkhāro",
-      "translation": "noble right mental composure, with its supports and its equipment",
+      "translation": "noble right composure, with its supports and its equipment",
       "notes": "MN 117 defines the factor by its supports and equipment, not through the fourfold jhāna sequence -- it contains no jhāna in any form.",
       "source": "MN 117"
     }
@@ -113,7 +113,7 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'right mental composure' as the default rendering for the path factor while keeping explicit that ariya sammā samādhi is the first, second, third, and fourth jhāna.",
+    "default_scope": "Use 'right composure' as the default rendering for the path factor while keeping explicit that ariya sammā samādhi is the first, second, third, and fourth jhāna.",
     "when_not_to_apply": "Do not widen the factor into a vague broader meditation category or revert to right concentration. Use controlled alternates only where a recorded context rule or source-specific house idiom justifies them.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents drift back toward right concentration and prevents separation of the path factor from the fourfold jhāna sequence."

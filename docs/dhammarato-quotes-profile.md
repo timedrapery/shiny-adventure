@@ -45,8 +45,8 @@ The draft strongly supports the following OSF house defaults:
 - `tanha` -> `ignorant wanting`
 - `sati` -> `remembering`
 - `samma-sati` -> `right remembering`
-- `samadhi` -> `mental composure`
-- `samma-samadhi` -> `right mental composure`
+- `samadhi` -> `composure`
+- `samma-samadhi` -> `right composure`
 - `metta` -> `friendliness`
 
 ## Strongly Reinforced But Not Automatically Defaulted

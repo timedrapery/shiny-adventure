@@ -7,7 +7,7 @@
 
 *MN 19, the Dvedhāvitakka Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,774 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,769 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -118,9 +118,9 @@ thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
 tired. When the body is tired, the heart becomes strained. When the
-heart is strained, it is far from mental composure. So I stilled the
+heart is strained, it is far from composure. So I stilled the
 heart inwardly, settled it down, made it direct, and brought it into
-mental composure.
+composure.
 
 Why is that?
 
@@ -164,8 +164,7 @@ rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 unification of mind, I entered and remained in the second mental theme, without
-thinking and pondering, with rejoicing and satisfaction born of mental
-composure.
+thinking and pondering, with rejoicing and satisfaction born of composure.
 
 With the fading of rejoicing, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
@@ -251,7 +250,7 @@ the Evil One.
 
 'The bad path' is a term for the wrong eightfold path, that is: wrong view,
 wrong attitude, wrong speech, wrong action, wrong livelihood, wrong effort,
-wrong remembering, and wrong mental composure.
+wrong remembering, and wrong composure.
 
 'The male decoy' is a term for relishing and passion.
 
@@ -262,7 +261,7 @@ Tathāgata, the arahant, the fully awakened Buddha.
 
 'The safe and secure path leading to delight' is a term for the noble
 eightfold path, that is: right view, right attitude, right speech, right
-action, right livelihood, right effort, right remembering, and right mental
+action, right livelihood, right effort, right remembering, and right
 composure.
 
 So, bhikkhus, the safe and secure path leading to delight has been opened by
@@ -302,6 +301,8 @@ Buddha had said.
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
@@ -320,8 +321,6 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
 <dd>Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>outflow</dfn></dt>
@@ -376,6 +375,7 @@ Buddha had said.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
@@ -384,7 +384,6 @@ Buddha had said.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

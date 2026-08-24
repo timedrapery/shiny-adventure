@@ -35,7 +35,7 @@ class LintEncodingTests(unittest.TestCase):
         terms = {
             "samadhi": {
                 "term": "samÃ„Âdhi",
-                "preferred_translation": "mental composure",
+                "preferred_translation": "composure",
                 "definition": "A settled mind.",
             }
         }
@@ -529,13 +529,13 @@ class LintRuleTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "notes": (
-                    "The project keeps mental composure as the default, explains the distinction "
+                    "The project keeps composure as the default, explains the distinction "
                     "from concentration language, and records the drift risk the entry is meant "
                     "to prevent in later meditative translation work. It also makes the governing "
                     "scope and compound handling explicit for later contributors."
                 ),
                 "context_rules": [
-                    {"context": "default", "rendering": "mental composure"},
+                    {"context": "default", "rendering": "composure"},
                     {"context": "alt", "rendering": "composure"},
                 ],
                 "related_terms": ["sati"],
@@ -626,12 +626,12 @@ class LintCliTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "notes": (
-                    "The project keeps mental composure as the default, explains the distinction "
+                    "The project keeps composure as the default, explains the distinction "
                     "from generic concentration language, and records the practical drift risk the "
                     "entry is meant to prevent in later meditative translation work. It also makes "
                     "the governing scope and compound handling explicit for later contributors."
                 ),
-                "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
+                "context_rules": [{"context": "default", "rendering": "composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
                 "example_phrases": [{"pali": "samādhi", "source": "MN 44"}, {"pali": "sammā-samādhi", "source": "MN 117"}],
                 "sutta_references": ["MN 44"],
@@ -669,12 +669,12 @@ class LintCliTests(unittest.TestCase):
                 "entry_type": "major",
                 "status": "reviewed",
                 "notes": (
-                    "The project keeps mental composure as the default, explains the distinction "
+                    "The project keeps composure as the default, explains the distinction "
                     "from generic concentration language, and records the practical drift risk the "
                     "entry is meant to prevent in later meditative translation work. It also makes "
                     "the governing scope and compound handling explicit for later contributors."
                 ),
-                "context_rules": [{"context": "default", "rendering": "mental composure"}, {"context": "alt", "rendering": "composure"}],
+                "context_rules": [{"context": "default", "rendering": "composure"}, {"context": "alt", "rendering": "composure"}],
                 "related_terms": [],
                 "example_phrases": [{"pali": "samādhi", "source": "MN 44"}, {"pali": "sammā-samādhi", "source": "MN 117"}],
                 "sutta_references": ["MN 44"],

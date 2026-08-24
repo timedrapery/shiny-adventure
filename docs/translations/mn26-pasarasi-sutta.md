@@ -15,8 +15,8 @@
   `security from the yoke`; `abhiññā` is rendered `higher knowing`; `nibbidā`
   is rendered `disenchantment`; `virāga` is rendered `fading`; `upasama` is
   rendered `calming`; `saddhā` is rendered `confidence`; `viriya` is rendered
-  `energy`; `sati` is rendered `remembering`; `samādhi` is rendered `mental
-  composure`; `paññā` is rendered `discernment`; `jhāna` is rendered `mental
+  `energy`; `sati` is rendered `remembering`; `samādhi` is rendered
+  `composure`; `paññā` is rendered `discernment`; `jhāna` is rendered `mental
   theme`; `pīti` is rendered `rejoicing`; `sukha` is rendered `satisfaction`;
   `saññā` is rendered `recognition`; `āsava` is rendered `outflow`;
   `ākiñcaññāyatana` is rendered `sphere of nothingness`;
@@ -204,7 +204,7 @@ When I said this, he declared the sphere of nothingness.
 
 Then it occurred to me: 'It is not only Āḷāra Kālāma who has confidence — I
 too have confidence. It is not only Āḷāra Kālāma who has energy, remembering,
-mental composure, and discernment — I too have these. What if I were to make
+composure, and discernment — I too have these. What if I were to make
 the effort to realize the teaching that Āḷāra Kālāma proclaims he has realized
 with his own higher knowing?'
 
@@ -255,7 +255,7 @@ teaching with his own higher knowing and entered into it?"
 When I said this, he declared the sphere of neither-recognition-nor-non-recognition.
 
 Then it occurred to me: 'It was not only Rāma who had confidence — I too have
-confidence. It was not only Rāma who had energy, remembering, mental composure,
+confidence. It was not only Rāma who had energy, remembering, composure,
 and discernment — I too have these. What if I were to make the effort to
 realize the teaching that Rāma proclaims he had realized with his own higher
 knowing?'
@@ -615,7 +615,7 @@ a trace, and to have gone where the Wicked One cannot see.
 Furthermore, bhikkhus, with the settling of placing and keeping the mind,
 internally confident, with a unified heart, without placing and keeping
 the mind, a bhikkhu enters and remains in the second mental theme with
-rejoicing and satisfaction born of mental composure.
+rejoicing and satisfaction born of composure.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.

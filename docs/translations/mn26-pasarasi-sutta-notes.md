@@ -117,7 +117,7 @@ All governing terms for MN 26 are covered by existing lexicon records:
 - `saddhā` → `confidence` (major)
 - `viriya` → `energy` (major)
 - `sati` → `remembering` (major)
-- `samādhi` → `mental composure` (major)
+- `samādhi` → `composure` (major)
 - `paññā` → `discernment` (major)
 - `jhāna` → `mental theme` (major)
 - `pīti` → `rejoicing` (major)

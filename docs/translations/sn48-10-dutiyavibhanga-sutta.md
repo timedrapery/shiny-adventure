@@ -10,7 +10,7 @@
   Bilara data.
 - House choices that most affect this sutta: `indriya` is rendered `faculty`;
   `saddhā` is rendered `confidence`; `vīriya` is rendered `energy`; `sati` is
-  rendered `remembering`; `samādhi` is rendered `mental composure`; `paññā` is
+  rendered `remembering`; `samādhi` is rendered `composure`; `paññā` is
   rendered `discernment`; `jhāna` is rendered `mental theme`; `pīti` and
   `sukha` are rendered `rejoicing` and `satisfaction`; `ekaggatā` is rendered
   `directness`; `upekkhā` is rendered `dynamic balance`; `citta` is rendered
@@ -98,12 +98,12 @@ remembering, having removed coveting and distress regarding the world.
 
 This, bhikkhus, is called the faculty of remembering.
 
-### The Faculty of Mental Composure
+### The Faculty of Composure
 
-And what, bhikkhus, is the faculty of mental composure?
+And what, bhikkhus, is the faculty of composure?
 
-Here a noble disciple, having made relinquishment the object, gains mental
-composure, gains directness of heart.
+Here a noble disciple, having made relinquishment the object, gains composure,
+gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
 and remain in the first mental theme, which has thinking and pondering, and
@@ -112,7 +112,7 @@ the rejoicing and satisfaction born of seclusion.
 With the subsiding of thinking and pondering, with inner clarity and
 unification of the heart, they enter and remain in the second mental
 theme, without thinking and pondering, with the rejoicing and satisfaction
-born of mental composure.
+born of composure.
 
 With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience satisfaction in the body. They enter and
@@ -124,7 +124,7 @@ ending of gladness and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This, bhikkhus, is called the faculty of mental composure.
+This, bhikkhus, is called the faculty of composure.
 
 ### The Faculty of Discernment
 

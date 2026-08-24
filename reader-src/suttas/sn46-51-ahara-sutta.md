@@ -7,7 +7,7 @@
 
 *SN 46.51, the Āhāra Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,522 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,518 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -117,11 +117,11 @@ There are bodily relaxation and relaxation of the heart. Repeated wise
 attention there feeds the arising of the relaxation awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what feeds the arising of the mental composure awakening factor when it
+"And what feeds the arising of the composure awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated wise attention
-there feeds the arising of the mental composure awakening factor when it has
+there feeds the arising of the composure awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what feeds the arising of the dynamic-balance awakening factor when it has
@@ -213,11 +213,11 @@ There are bodily relaxation and relaxation of the heart. Repeated
 non-attention there starves the arising of the relaxation awakening factor when
 it has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what starves the arising of the mental composure awakening factor when it
+"And what starves the arising of the composure awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated non-attention
-there starves the arising of the mental composure awakening factor when it has
+there starves the arising of the composure awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what starves the arising of the dynamic-balance awakening factor when it
@@ -245,6 +245,8 @@ The first discourse is finished.
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dull distraction</dfn></dt>
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
 <dt><dfn>five distractions</dfn></dt>
@@ -253,8 +255,6 @@ The first discourse is finished.
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>resistance</dfn></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
@@ -281,11 +281,11 @@ The first discourse is finished.
 *[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.

@@ -7,7 +7,7 @@
 
 *MN 99, the Subha Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,862 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,861 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -305,7 +305,7 @@ delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
 unification of mind, a bhikkhu enters and remains in the second mental theme,
-without thinking and pondering, with rejoicing and satisfaction born of mental
+without thinking and pondering, with rejoicing and satisfaction born of
 composure. This too is delight apart from sensuality and apart from unskillful
 dhammas."
 
@@ -583,7 +583,7 @@ whose realm the Tathāgata lives, the arahant, the rightly self-awakened
 Buddha!"
 
 <details class="reader-terms">
-<summary>Words used in this translation (22)</summary>
+<summary>Words used in this translation (23)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -601,6 +601,8 @@ Buddha!"
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn></dt>
 <dd>A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair &quot;ascetics and brahmins,&quot; which means religious teachers and practitioners in general rather than one caste.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
 <dt><dfn>dull distraction</dfn></dt>
@@ -651,6 +653,7 @@ Buddha!"
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[brahmin]: A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair "ascetics and brahmins," which means religious teachers and practitioners in general rather than one caste.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.

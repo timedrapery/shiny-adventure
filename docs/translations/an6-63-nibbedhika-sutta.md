@@ -107,7 +107,7 @@ And what is the quenching of sensuality?
 The quenching of contact, bhikkhus, is the quenching of sensuality. And this
 noble eightfold path is the path of practice leading to the quenching of
 sensuality: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands sensuality this way, understands where it
 comes from this way, understands the differences among its kinds this way,
@@ -150,7 +150,7 @@ And what is the quenching of felt experience?
 The quenching of contact, bhikkhus, is the quenching of felt experience. And
 this noble eightfold path is the path of practice leading to the quenching of
 felt experience: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands felt experience this way, and so on through
 to the path of practice leading to its quenching, then they understand this
@@ -190,7 +190,7 @@ And what is the quenching of recognition?
 The quenching of contact, bhikkhus, is the quenching of recognition. And this
 noble eightfold path is the path of practice leading to the quenching of
 recognition: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands recognition this way, and so on through to
 the path of practice leading to its quenching, then they understand this
@@ -231,7 +231,7 @@ And what is the quenching of the outflows?
 The quenching of ignorance, bhikkhus, is the quenching of the outflows. And
 this noble eightfold path is the path of practice leading to the quenching of
 the outflows: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right mental composure.
+livelihood, right effort, right remembering, right composure.
 
 When a noble disciple understands the outflows this way, and so on through to
 the path of practice leading to their quenching, then they understand this
@@ -270,7 +270,7 @@ And what is the quenching of action?
 The quenching of contact, bhikkhus, is the quenching of action. And this noble
 eightfold path is the path of practice leading to the quenching of action:
 right view, right attitude, right speech, right action, right livelihood,
-right effort, right remembering, right mental composure.
+right effort, right remembering, right composure.
 
 When a noble disciple understands action this way, and so on through to the
 path of practice leading to its quenching, then they understand this
@@ -320,7 +320,7 @@ And what is the quenching of dissatisfaction?
 The quenching of ignorant wanting, bhikkhus, is the quenching of
 dissatisfaction. And this noble eightfold path is the path of practice leading
 to the quenching of dissatisfaction: right view, right attitude, right speech,
-right action, right livelihood, right effort, right remembering, right mental
+right action, right livelihood, right effort, right remembering, right
 composure.
 
 When a noble disciple understands dissatisfaction this way, understands where

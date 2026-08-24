@@ -294,7 +294,7 @@ delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
 unification of mind, a bhikkhu enters and remains in the second mental theme,
-without thinking and pondering, with rejoicing and satisfaction born of mental
+without thinking and pondering, with rejoicing and satisfaction born of
 composure. This too is delight apart from sensuality and apart from unskillful
 dhammas."
 

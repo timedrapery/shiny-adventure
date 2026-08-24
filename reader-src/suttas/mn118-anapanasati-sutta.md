@@ -7,7 +7,7 @@
 
 *MN 118, the Ānāpānasati Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,008 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,002 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -152,9 +152,8 @@ Heart trainings:
   'Breathing out, I will experience the heart.'
 - They train: 'Breathing in, I will gladden the heart.' They train:
   'Breathing out, I will gladden the heart.'
-- They train: 'Breathing in, I will bring the heart to mental
-  composure.' They train: 'Breathing out, I will bring the heart to
-  mental composure.'
+- They train: 'Breathing in, I will bring the heart to composure.' They train:
+  'Breathing out, I will bring the heart to composure.'
 - They train: 'Breathing in, I will free the heart.' They train:
   'Breathing out, I will free the heart.'
 
@@ -193,7 +192,7 @@ in relation to felt experience, ardent, with clear knowing, with remembering,
 having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the heart, or gladdening the
-heart, or bringing the heart to mental composure, or freeing the
+heart, or bringing the heart to composure, or freeing the
 heart, then they remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
@@ -244,7 +243,7 @@ relaxation awakening factor is aroused. They develop it, and it comes to
 fulfillment through development.
 
 "When the body is relaxed and they experience ease, the heart comes to
-mental composure. Then the awakening factor of mental composure is aroused.
+composure. Then the awakening factor of composure is aroused.
 They develop it, and it comes to fulfillment through development.
 
 "They then look carefully with dynamic balance at that well-composed heart.
@@ -276,7 +275,7 @@ as to fulfill knowledge and release?
   quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
-- the awakening factor of mental composure, based on seclusion, based on
+- the awakening factor of composure, based on seclusion, based on
   fading, based on quenching, culminating in relinquishment;
 - the dynamic balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.
@@ -306,6 +305,8 @@ Buddha had said.
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn></dt>
@@ -328,8 +329,6 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;karuṇā&quot; (often translated &quot;compassion&quot;) -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -358,6 +357,7 @@ Buddha had said.
 *[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
@@ -369,7 +369,6 @@ Buddha had said.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.

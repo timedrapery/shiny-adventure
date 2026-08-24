@@ -7,7 +7,7 @@
 
 *SN 48.10, the Dutiyavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 648 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 643 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -95,12 +95,12 @@ remembering, having removed coveting and distress regarding the world.
 
 This, bhikkhus, is called the faculty of remembering.
 
-### The Faculty of Mental Composure
+### The Faculty of Composure
 
-And what, bhikkhus, is the faculty of mental composure?
+And what, bhikkhus, is the faculty of composure?
 
-Here a noble disciple, having made relinquishment the object, gains mental
-composure, gains directness of heart.
+Here a noble disciple, having made relinquishment the object, gains composure,
+gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
 and remain in the first mental theme, which has thinking and pondering, and
@@ -109,7 +109,7 @@ the rejoicing and satisfaction born of seclusion.
 With the subsiding of thinking and pondering, with inner clarity and
 unification of the heart, they enter and remain in the second mental
 theme, without thinking and pondering, with the rejoicing and satisfaction
-born of mental composure.
+born of composure.
 
 With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience satisfaction in the body. They enter and
@@ -121,7 +121,7 @@ ending of gladness and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This, bhikkhus, is called the faculty of mental composure.
+This, bhikkhus, is called the faculty of composure.
 
 ### The Faculty of Discernment
 
@@ -158,6 +158,8 @@ These, bhikkhus, are the five faculties."
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
@@ -172,8 +174,6 @@ These, bhikkhus, are the five faculties."
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mental composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- a collected, settled, workable state of mind. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -209,6 +209,7 @@ These, bhikkhus, are the five faculties."
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
+*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
@@ -216,7 +217,6 @@ These, bhikkhus, are the five faculties."
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mental composure]: This project's rendering of "samādhi" -- a collected, settled, workable state of mind. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.

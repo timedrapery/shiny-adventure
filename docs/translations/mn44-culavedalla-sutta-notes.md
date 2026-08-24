@@ -41,13 +41,13 @@ source-audit calls, and edition notes that govern it.
   relishing and passion, delighting here and there`.
 - The eight path factors stay aligned with MN 9 and MN 117: `right view`,
   `right attitude`, `right speech`, `right action`, `right livelihood`, `right
-  effort`, `right remembering`, and `right mental composure`.
+  effort`, `right remembering`, and `right composure`.
 - `saṅkhata` and `asaṅkhata` are rendered `conditioned` and `unconditioned` in
   the question about the noble eightfold path.
-- `samādhi` remains `mental composure`; `cittassa ekaggatā` is rendered
+- `samādhi` remains `composure`; `cittassa ekaggatā` is rendered
   `directness of the heart`.
 - `satipaṭṭhāna` is rendered `establishments of sati` in the technical answer
-  about signs of mental composure, preserving the repository's refusal of
+  about signs of composure, preserving the repository's refusal of
   mindfulness-language while keeping the framework recognizable.
 - `kāyasaṅkhāra`, `vacīsaṅkhāra`, and `cittasaṅkhāra` are rendered `body
   conditioner`, `verbal conditioner`, and `mind conditioner`.
@@ -80,10 +80,10 @@ source-audit calls, and edition notes that govern it.
   `attā` examples, and then expands the fourfold pattern across all five
   heaps instead of leaving the root's ellipsis unresolved for readers.
 - `sīlakkhandha`, `samādhikkhandha`, and `paññākkhandha` are rendered
-  `conduct heap`, `mental-composure heap`, and `discernment heap`. This keeps
+  `conduct heap`, `composure heap`, and `discernment heap`. This keeps
   the `khandha` family visible while avoiding the inherited aggregate-language
   that the repository generally treats as a drift risk.
-- The mental-composure answer keeps `signs` for `nimittā` and `equipment` for
+- The composure answer keeps `signs` for `nimittā` and `equipment` for
   `parikkhārā`. These are document-level renderings because no current term
   record requires a broader policy change.
 - The cessation-attainment section uses `quenched` and `arises` for the order
@@ -115,9 +115,9 @@ source-audit calls, and edition notes that govern it.
 - The path is not presented as unconditioned. It is conditioned training that
   leads to the quenching of identity.
 - The path factors are also not a fourth structure standing outside conduct,
-  mental composure, and discernment. MN 44 explicitly gathers the path factors
+  composure, and discernment. MN 44 explicitly gathers the path factors
   into those three heaps.
-- Mental composure is not mere concentration. Dhammadinnā defines it through
+- Composure is not mere concentration. Dhammadinnā defines it through
   directness of the heart, signs, equipment, and development.
 - The three-conditioner section is important for breathing practice because it
   directly connects in-breathing and out-breathing with the body conditioner,
