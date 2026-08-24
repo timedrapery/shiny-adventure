@@ -64,6 +64,7 @@ AUTHOR = "Open Sangha Foundation"
 
 HTML_COMMENT = re.compile(r"<!--.*?-->", re.DOTALL)
 ABBR_LINE = re.compile(r"^\*\[[^\]]+\]:.*$", re.M)
+GLOSSARY_PAGE_LINK = re.compile(r"\]\((?:\./)?glossary\.md\)")
 SKIP_LINK_LINE = re.compile(
     r"^\[Skip to the translation\]\(#translation\)\{[^\n]*\}\s*$",
     re.M,
@@ -121,6 +122,9 @@ def strip_web_furniture(text: str) -> str:
     text = TERMS_DETAILS.sub("\n", text)
     text = READING_NAV.sub("\n", text)
     text = ABBR_LINE.sub("", text)
+    # The website uses a separate Markdown page. In the combined manuscript,
+    # link to the glossary heading so pandoc can rewrite it across EPUB splits.
+    text = GLOSSARY_PAGE_LINK.sub("](#glossary)", text)
     return text
 
 
