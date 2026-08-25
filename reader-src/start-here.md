@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 59 translations in this collection, for someone new to this material.
+A suggested order for reading the 60 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -61,6 +61,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**Don't Chase the Past or Long for the Future**](suttas/mn131-bhaddekaratta-sutta.md) (MN 131, Bhaddekaratta Sutta) — about 6 min · 1,059 words. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment. The explanation asks whether you are turning any part of present experience into self.
 - [**Not-Self at the Six Sense Doors**](suttas/mn148-chachakka-sutta.md) (MN 148, Chachakka Sutta) — about 18 min · 3,085 words. A systematic, almost mechanical working-through of not-self across every sense door. Dense, but by this point the pattern should be familiar.
 - [**Between 'It Exists' and 'It Doesn't'**](suttas/sn12-15-kaccanagotta-sutta.md) (SN 12.15, Kaccānagotta Sutta) — about 3 min · 432 words. One page, defining right view as the middle between "it exists" and "it doesn't." The clearest, shortest bridge into dependent arising.
+- [**Taken Over by Views**](suttas/iti49-ditthigata-sutta.md) (Iti 49, Diṭṭhigata Sutta) — about 2 min · 310 words. Two views can take over: clinging to continued becoming, or treating annihilation as peace. The alternative is to see what has come to be without turning it into something permanent.
 - [**How the World Arises—and Ends**](suttas/sn12-44-loka-sutta.md) (SN 12.44, Loka Sutta) — about 2 min · 345 words. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
 - [**Body and Mind Keep Changing**](suttas/sn12-61-assutava-sutta.md) (SN 12.61, Assutavā Sutta) — about 5 min · 730 words. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
 - [**From Dissatisfaction to Freedom**](suttas/sn12-23-upanisa-sutta.md) (SN 12.23, Upanisa Sutta) — about 8 min · 1,280 words. The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.

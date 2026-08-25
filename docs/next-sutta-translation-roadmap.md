@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (59 total)
+## Completed Surfaces (60 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -74,6 +74,9 @@ Use that full roadmap as the source of truth for:
 - `AN 3.88` Tatiyasikkhā Sutta (Three Trainings Cover Everything) — complete
   2026-08-25. Gathers more than 150 rules into conduct, mind, and discernment,
   and anchors the previously orphaned major `adhicitta` record.
+- `Iti 49` Diṭṭhigata Sutta (Taken Over by Views) — complete 2026-08-25.
+  Shows how attachment to becoming and attraction to annihilation can each
+  take over, and anchors the previously orphaned major `pariyuṭṭhāna` record.
 
 ### Outside the Wave Sequence
 - `SN 56.17` Avijjā Sutta (What Ignorance Means) — requested directly. A
@@ -129,11 +132,13 @@ Use that full roadmap as the source of truth for:
 
 The older queue is complete. A fresh 55-surface, 1,155-term audit was run on
 2026-08-25 after repairing every partial source match and removing AN 4.41 as
-a false `adhicitta` anchor. SN 45.8, SN 12.44, and AN 3.88 are complete; the
-active Wave 9 queue is now Iti 49. Use the durable
-[Wave 9 execution plan](wave-9-execution-plan.md) for the queue, validation
-gates, and handoff procedure. The full reasoning and historical audit state
-remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
+a false `adhicitta` anchor. SN 45.8, SN 12.44, AN 3.88, and Iti 49 are now
+complete, as is the direct-request addition SN 56.17. Wave 9 is awaiting final
+validation and publication; after that, rerun the leverage audit before
+committing a new queue. Use the durable
+[Wave 9 execution plan](wave-9-execution-plan.md) for the validation gates and
+handoff procedure. The full reasoning and historical audit state remain in
+[next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 

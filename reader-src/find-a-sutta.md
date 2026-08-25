@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 59 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 60 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -297,6 +297,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Intermediate · Dialogue · Short · about 3 min · 432 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>One page, defining right view as the middle between &quot;it exists&quot; and &quot;it doesn&#x27;t.&quot; The clearest, shortest bridge into dependent arising.</p>
+</article>
+<article class="sutta-card" data-topic="not-self|dependent arising" data-difficulty="intermediate" data-form="teaching with verse" data-length="short" data-search="taken over by views iti 49 diṭṭhigata sutta two views can take over: clinging to continued becoming, or treating annihilation as peace. the alternative is to see what has come to be without turning it into something permanent. not-self · dependent arising">
+<h2><a href="../suttas/iti49-ditthigata-sutta/">Taken Over by Views</a></h2>
+<p class="sutta-card__reference">Iti 49 · <span lang="pi">Diṭṭhigata Sutta</span></p>
+<p class="sutta-card__meta">Intermediate · Teaching with verse · Short · about 2 min · 310 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Not-self · Dependent arising</p>
+<p>Two views can take over: clinging to continued becoming, or treating annihilation as peace. The alternative is to see what has come to be without turning it into something permanent.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="how the world arises—and ends sn 12.44 loka sutta how the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear. dependent arising · mind and senses">
 <h2><a href="../suttas/sn12-44-loka-sutta/">How the World Arises—and Ends</a></h2>
