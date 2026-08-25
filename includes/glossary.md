@@ -96,6 +96,8 @@
 
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 
+*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+
 *[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
@@ -178,6 +180,8 @@
 
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 
+*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
+
 *[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
@@ -220,6 +224,34 @@
 
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 
+*[with the stream]: Following the easy current of sensual indulgence and harmful action. In AN 4.5 this is a warning, not praise for being flexible.
+
+*[against the stream]: Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.
+
+*[stands firm]: AN 4.5's river image for a non-returner: someone no longer being swept back into ordinary sensual existence, though the crossing is not yet complete.
+
+*[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
+
+*[far shore]: The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.
+
+*[world's end]: In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.
+
+*[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
+
+*[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
+
+*[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
+
+*[release of mind]: Release described from the mind or heart side of experience, often paired with release through discernment.
+
+*[release through discernment]: Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.
+
+*[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
+
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+
+*[defilements]: Broadly, qualities that cloud the mind and support harmful patterns. More specific terms on this site name particular ways such qualities obstruct, persist, bind, or flow out.
+
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 
 *[knowing and seeing]: Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.
@@ -261,7 +293,7 @@
 
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
 
-*[brahmin]: A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair "ascetics and brahmins," which means religious teachers and practitioners in general rather than one caste.
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
 
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 

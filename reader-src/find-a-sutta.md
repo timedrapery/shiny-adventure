@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 53 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 54 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -115,6 +115,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,217 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Mind and senses</p>
 <p>Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct|four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="short" data-search="going with the stream—or against it an 4.5 anusota sutta four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land. ethics and conduct · four truths and path">
+<h2><a href="../suttas/an4-5-anusota-sutta/">Going With the Stream—or Against It</a></h2>
+<p class="sutta-card__reference">AN 4.5 · <span lang="pi">Anusota Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 3 min · 416 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Four truths and path</p>
+<p>Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four horses an 4.113 patoda sutta four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. a jolt of urgency after three fairly calm texts. ethics and conduct">
 <h2><a href="../suttas/an4-113-patoda-sutta/">Four Horses</a></h2>

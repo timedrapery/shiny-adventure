@@ -10,6 +10,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## A
 
 <dl class="glossary-list">
+<dt><dfn>against the stream</dfn></dt>
+<dd>Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.</dd>
 <dt><dfn>ageing and dying</dfn> <span class="glossary-pali" lang="pi">(jarāmaraṇa)</span></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
 <dt><dfn>agitated distraction</dfn> <span class="glossary-pali" lang="pi">(uddhacca-kukkucca)</span></dt>
@@ -46,7 +48,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>born of seclusion</dfn> <span class="glossary-pali" lang="pi">(vivekaja)</span></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn> <span class="glossary-pali" lang="pi">(brāhmaṇa)</span></dt>
-<dd>A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair &quot;ascetics and brahmins,&quot; which means religious teachers and practitioners in general rather than one caste.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
 </dl>
 
 ## C
@@ -74,11 +76,15 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A practical reassurance that holds up regardless of how a contested question (like what happens after death) actually turns out -- not an argument that settles the question.</dd>
 <dt><dfn>contact</dfn> <span class="glossary-pali" lang="pi">(phassa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
+<dt><dfn>crossed over</dfn> <span class="glossary-pali" lang="pi">(tiṇṇa)</span></dt>
+<dd>Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.</dd>
 </dl>
 
 ## D
 
 <dl class="glossary-list">
+<dt><dfn>defilements</dfn></dt>
+<dd>Broadly, qualities that cloud the mind and support harmful patterns. More specific terms on this site name particular ways such qualities obstruct, persist, bind, or flow out.</dd>
 <dt><dfn>delusion</dfn> <span class="glossary-pali" lang="pi">(moha)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>dependent arising</dfn> <span class="glossary-pali" lang="pi">(paṭiccasamuppāda)</span></dt>
@@ -107,12 +113,20 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## F
 
 <dl class="glossary-list">
+<dt><dfn>faculties</dfn></dt>
+<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn> <span class="glossary-pali" lang="pi">(virāga)</span></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
+<dt><dfn>far shore</dfn></dt>
+<dd>The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.</dd>
 <dt><dfn>felt experience</dfn> <span class="glossary-pali" lang="pi">(vedanā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dt><dfn>final nibbāna</dfn> <span class="glossary-pali" lang="pi">(parinibbāna)</span></dt>
+<dd>The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.</dd>
 <dt><dfn>five distractions</dfn> <span class="glossary-pali" lang="pi">(pañca-nīvaraṇā)</span></dt>
 <dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five lower fetters</dfn></dt>
+<dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
 <dt><dfn>form</dfn> <span class="glossary-pali" lang="pi">(rūpa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>friendliness</dfn> <span class="glossary-pali" lang="pi">(mettā)</span></dt>
@@ -231,6 +245,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>recognition</dfn> <span class="glossary-pali" lang="pi">(saññā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>release of mind</dfn> <span class="glossary-pali" lang="pi">(cetovimutti)</span></dt>
+<dd>Release described from the mind or heart side of experience, often paired with release through discernment.</dd>
+<dt><dfn>release through discernment</dfn> <span class="glossary-pali" lang="pi">(paññāvimutti)</span></dt>
+<dd>Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.</dd>
+<dt><dfn>remembering</dfn> <span class="glossary-pali" lang="pi">(sati)</span></dt>
+<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn> <span class="glossary-pali" lang="pi">(paṭigha)</span></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>right action</dfn> <span class="glossary-pali" lang="pi">(sammā-kammanta)</span></dt>
@@ -256,6 +276,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>sensual distraction</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
+<dt><dfn>sensual pleasures</dfn></dt>
+<dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
 <dt><dfn>six fields of experience</dfn> <span class="glossary-pali" lang="pi">(saḷāyatana)</span></dt>
 <dd>The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated &quot;sense bases.&quot;</dd>
 <dt><dfn>soul</dfn> <span class="glossary-pali" lang="pi">(jīva)</span></dt>
@@ -268,6 +290,10 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A deep meditative state in which awareness rests on there being nothing at all to take up.</dd>
 <dt><dfn>spiritual life</dfn> <span class="glossary-pali" lang="pi">(brahmacariya)</span></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+<dt><dfn>spontaneously reborn</dfn> <span class="glossary-pali" lang="pi">(opapātika)</span></dt>
+<dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
+<dt><dfn>stands firm</dfn></dt>
+<dd>AN 4.5&#x27;s river image for a non-returner: someone no longer being swept back into ordinary sensual existence, though the crossing is not yet complete.</dd>
 </dl>
 
 ## T
@@ -283,6 +309,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.</dd>
 <dt><dfn>those with discernment</dfn> <span class="glossary-pali" lang="pi">(viññū)</span></dt>
 <dd>People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.</dd>
+<dt><dfn>trainee</dfn> <span class="glossary-pali" lang="pi">(sekha)</span></dt>
+<dd>Someone who has entered the noble path and is still completing the training; not a beginner.</dd>
 </dl>
 
 ## U
@@ -305,8 +333,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
 <dt><dfn>wholesome</dfn> <span class="glossary-pali" lang="pi">(kusala)</span></dt>
 <dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
+<dt><dfn>with the stream</dfn></dt>
+<dd>Following the easy current of sensual indulgence and harmful action. In AN 4.5 this is a warning, not praise for being flexible.</dd>
 <dt><dfn>world</dfn> <span class="glossary-pali" lang="pi">(loka)</span></dt>
 <dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dt><dfn>world&#x27;s end</dfn></dt>
+<dd>In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.</dd>
 <dt><dfn>wrong view</dfn> <span class="glossary-pali" lang="pi">(micchā-diṭṭhi)</span></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>
