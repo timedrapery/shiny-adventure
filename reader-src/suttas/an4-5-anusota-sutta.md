@@ -184,7 +184,7 @@ The fifth discourse is finished.
 
 - [← What Drives Harm—and What Ends It](an3-69-akusalamula-sutta.md)
 - [All suttas](index.md)
-- [Four Horses →](an4-113-patoda-sutta.md)
+- [How Do You Cross the Flood? →](sn1-1-oghatara-sutta.md)
 
 </nav>
 

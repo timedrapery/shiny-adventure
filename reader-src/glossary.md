@@ -67,7 +67,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>complete quenching</dfn></dt>
-<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 the phrase explicitly describes what is reached here and now, not death.</dd>
+<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
 <dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
@@ -85,6 +85,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>defilements</dfn></dt>
 <dd>Broadly, qualities that cloud the mind and support harmful patterns. More specific terms on this site name particular ways such qualities obstruct, persist, bind, or flow out.</dd>
+<dt><dfn>deity</dfn></dt>
+<dd>A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.</dd>
 <dt><dfn>delusion</dfn> <span class="glossary-pali" lang="pi">(moha)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>dependent arising</dfn> <span class="glossary-pali" lang="pi">(paṭiccasamuppāda)</span></dt>
@@ -127,6 +129,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
+<dt><dfn>flood</dfn> <span class="glossary-pali" lang="pi">(ogha)</span></dt>
+<dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
 <dt><dfn>form</dfn> <span class="glossary-pali" lang="pi">(rūpa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>friendliness</dfn> <span class="glossary-pali" lang="pi">(mettā)</span></dt>
@@ -339,6 +343,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
 <dt><dfn>world&#x27;s end</dfn></dt>
 <dd>In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.</dd>
+<dt><dfn>world&#x27;s entanglement</dfn></dt>
+<dd>The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.</dd>
 <dt><dfn>wrong view</dfn> <span class="glossary-pali" lang="pi">(micchā-diṭṭhi)</span></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>

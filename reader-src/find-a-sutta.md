@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 54 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 55 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -122,6 +122,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 3 min · 416 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Four truths and path</p>
 <p>Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path|mind and senses" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="how do you cross the flood? sn 1.1 oghataraṇa sutta a deity asks how the buddha crossed a flood. the answer refuses both standing still and forceful struggle, preserving a compact paradox. four truths and path · mind and senses">
+<h2><a href="../suttas/sn1-1-oghatara-sutta/">How Do You Cross the Flood?</a></h2>
+<p class="sutta-card__reference">SN 1.1 · <span lang="pi">Oghataraṇa Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 170 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Mind and senses</p>
+<p>A deity asks how the Buddha crossed a flood. The answer refuses both standing still and forceful struggle, preserving a compact paradox.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four horses an 4.113 patoda sutta four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. a jolt of urgency after three fairly calm texts. ethics and conduct">
 <h2><a href="../suttas/an4-113-patoda-sutta/">Four Horses</a></h2>
