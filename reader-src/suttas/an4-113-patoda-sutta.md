@@ -124,7 +124,7 @@ The third discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>body</dfn></dt>
-<dd>The physical body. In MN 63 specifically, paired with &quot;soul&quot; in one of the undeclared questions.</dd>
+<dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
 </dl>
@@ -145,7 +145,7 @@ The third discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Dirty Cloth](mn7-vattha-sutta.md)
+- [← What Drives Harm—and What Ends It](an3-69-akusalamula-sutta.md)
 - [All suttas](index.md)
 - [Four Steps That Lead to the Path →](sn55-5-dutiyasariputta-sutta.md)
 
@@ -153,5 +153,5 @@ The third discourse is finished.
 
 
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
+*[body]: The physical body, as distinct from speech and the mental side of experience.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.

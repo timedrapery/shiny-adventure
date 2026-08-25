@@ -42,7 +42,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>Blessed One</dfn></dt>
 <dd>One of the Buddha&#x27;s traditional titles, used respectfully in place of his name in these texts.</dd>
 <dt><dfn>body</dfn> <span class="glossary-pali" lang="pi">(kāya)</span></dt>
-<dd>The physical body. In MN 63 specifically, paired with &quot;soul&quot; in one of the undeclared questions.</dd>
+<dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>born of seclusion</dfn> <span class="glossary-pali" lang="pi">(vivekaja)</span></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn> <span class="glossary-pali" lang="pi">(brāhmaṇa)</span></dt>
@@ -56,12 +56,16 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>cessation</dfn></dt>
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dt><dfn>clarity</dfn> <span class="glossary-pali" lang="pi">(amoha)</span></dt>
+<dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clear knowing</dfn> <span class="glossary-pali" lang="pi">(sampajañña)</span></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn> <span class="glossary-pali" lang="pi">(sampajāno)</span></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
+<dt><dfn>complete quenching</dfn></dt>
+<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 the phrase explicitly describes what is reached here and now, not death.</dd>
 <dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
@@ -183,6 +187,10 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
 <dt><dfn>noble truth</dfn> <span class="glossary-pali" lang="pi">(ariyasacca)</span></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
+<dt><dfn>non-aversion</dfn> <span class="glossary-pali" lang="pi">(adosa)</span></dt>
+<dd>The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.</dd>
+<dt><dfn>non-greed</dfn> <span class="glossary-pali" lang="pi">(alobha)</span></dt>
+<dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
 </dl>
@@ -215,7 +223,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 
 <dl class="glossary-list">
 <dt><dfn>quenching</dfn> <span class="glossary-pali" lang="pi">(nirodha)</span></dt>
-<dd>The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site&#x27;s other pages sometimes render the same Pali word (&quot;nirodha&quot;) as &quot;cessation&quot; instead -- same concept, different sentence.</dd>
+<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 </dl>
 
 ## R

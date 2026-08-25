@@ -164,7 +164,7 @@ The first discourse is finished.
 <dt><dfn>putting things together</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
 <dt><dfn>quenching</dfn></dt>
-<dd>The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site&#x27;s other pages sometimes render the same Pali word (&quot;nirodha&quot;) as &quot;cessation&quot; instead -- same concept, different sentence.</dd>
+<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>six fields of experience</dfn></dt>
 <dd>The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated &quot;sense bases.&quot;</dd>
 <dt><dfn>taking personally</dfn></dt>
@@ -207,6 +207,6 @@ The first discourse is finished.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
-*[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.
+*[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[six fields of experience]: The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated "sense bases."
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."

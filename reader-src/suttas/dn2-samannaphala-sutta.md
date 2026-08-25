@@ -1013,7 +1013,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (42)</summary>
+<summary>Words used in this translation (43)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -1030,11 +1030,13 @@ Buddha had said.
 <dt><dfn>Blessed One</dfn></dt>
 <dd>One of the Buddha&#x27;s traditional titles, used respectfully in place of his name in these texts.</dd>
 <dt><dfn>body</dfn></dt>
-<dd>The physical body. In MN 63 specifically, paired with &quot;soul&quot; in one of the undeclared questions.</dd>
+<dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>born of seclusion</dfn></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn></dt>
 <dd>A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair &quot;ascetics and brahmins,&quot; which means religious teachers and practitioners in general rather than one caste.</dd>
+<dt><dfn>clarity</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
@@ -1080,7 +1082,7 @@ Buddha had said.
 <dt><dfn>path of practice</dfn></dt>
 <dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>quenching</dfn></dt>
-<dd>The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site&#x27;s other pages sometimes render the same Pali word (&quot;nirodha&quot;) as &quot;cessation&quot; instead -- same concept, different sentence.</dd>
+<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>soul</dfn></dt>
@@ -1132,9 +1134,10 @@ Buddha had said.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
-*[body]: The physical body. In MN 63 specifically, paired with "soul" in one of the undeclared questions.
+*[body]: The physical body, as distinct from speech and the mental side of experience.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[brahmin]: A member of the hereditary priestly class of ancient India. In these texts it usually appears in the stock pair "ascetics and brahmins," which means religious teachers and practitioners in general rather than one caste.
+*[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
@@ -1155,7 +1158,7 @@ Buddha had said.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
-*[quenching]: The ending of dissatisfaction and its causes, and its underlying causes going out like an extinguished flame. This site's other pages sometimes render the same Pali word ("nirodha") as "cessation" instead -- same concept, different sentence.
+*[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[soul]: This translation's rendering of "jīva" -- the felt sense of an inner self or life-essence. Whether it exists, and whether it's the same as the body, is one of the questions MN 63 leaves undeclared.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
