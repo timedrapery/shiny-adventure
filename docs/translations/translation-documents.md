@@ -192,6 +192,11 @@ Current SN 56.11 surfaces:
 - [sn56-11-dhammacakkappavattana-sutta.md](sn56-11-dhammacakkappavattana-sutta.md): main shareable translation text
 - [sn56-11-dhammacakkappavattana-sutta-notes.md](sn56-11-dhammacakkappavattana-sutta-notes.md): companion translator notes and rationale
 
+Current SN 56.17 surfaces:
+
+- [sn56-17-avijja-sutta.md](sn56-17-avijja-sutta.md): main shareable translation text
+- [sn56-17-avijja-sutta-notes.md](sn56-17-avijja-sutta-notes.md): companion translator notes and rationale
+
 Current SN 22.59 surfaces:
 
 - [sn22-59-anattalakkhana-sutta.md](sn22-59-anattalakkhana-sutta.md): main shareable translation text

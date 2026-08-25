@@ -342,7 +342,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 
 - [← The Two Searches](mn26-pasarasi-sutta.md)
 - [All suttas](index.md)
-- [What the Eightfold Path Means →](sn45-8-vibhanga-sutta.md)
+- [What Ignorance Means →](sn56-17-avijja-sutta.md)
 
 </nav>
 

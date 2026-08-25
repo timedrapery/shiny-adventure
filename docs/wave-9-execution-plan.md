@@ -8,11 +8,11 @@ the baseline, and continue without relying on chat history.
 
 Snapshot date: 2026-08-25.
 
-- 58 governed translation surfaces and 58 generated sutta pages
+- 59 governed translation surfaces and 59 generated sutta pages
 - 1,155 governed term records
 - 633 cited term records: 525 anchored by a translated surface and 108 orphaned
 - 10 orphan major terms
-- 804 cited example phrases checked: zero partial, absent, unfetched, or
+- 806 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
 
@@ -48,6 +48,11 @@ Work in this order unless a direct reader request takes priority.
 4. **Iti 49, Diṭṭhigata Sutta** — 173 Pali words. Anchors `pariyuṭṭhāna` in
    its active sense of being taken over by views and strengthens the
    abandonment-sequence cluster.
+
+SN 56.17, Avijjā Sutta, was added by direct reader request on 2026-08-25
+without changing the committed queue. Its 53-word source defines ignorance
+through the four truths and expands the abbreviated closing practice formula
+for the reader.
 
 SN 35.82 was the fallback for SN 12.44 but was not needed: the published
 edition makes the abbreviated repetition readable by naming all six sense

@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 56.17, Avijjā Sutta, with
+  companion notes, newcomer guidance, an explicit expansion of the abbreviated
+  four-truths practice instruction, and reader placement as "What Ignorance
+  Means."
 - Added a governed plain-English translation of AN 3.88, Tatiyasikkhā Sutta,
   with companion notes, newcomer guidance, a consolidated and readable
   attainment ladder, and direct running-text support for `adhicitta` in the
@@ -68,6 +72,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Clarified the `yoga` policy for the distinct `yogo karaṇīyo` effort idiom
+  and added SN 56.17's four-truths definition to the governed `avijjā` record.
 - Corrected the three-training term examples to use the governed `higher
   conduct` rather than `higher virtue`, and repaired stale AN 3.88 source
   references for `adhipaññā` and `sikkhā`.
@@ -98,7 +104,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 58 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 59 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
