@@ -231,7 +231,7 @@ The eighth discourse is finished.
 
 - [← The First Teaching](sn56-11-dhammacakkappavattana-sutta.md)
 - [All suttas](index.md)
-- [One Arrow, Not Two →](sn36-6-salla-sutta.md)
+- [Three Trainings Cover Everything →](an3-88-tatiyasikkha-sutta.md)
 
 </nav>
 

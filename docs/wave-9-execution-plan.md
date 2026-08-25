@@ -8,10 +8,10 @@ the baseline, and continue without relying on chat history.
 
 Snapshot date: 2026-08-25.
 
-- 57 governed translation surfaces and 57 generated sutta pages
+- 58 governed translation surfaces and 58 generated sutta pages
 - 1,155 governed term records
-- 633 cited term records: 524 anchored by a translated surface and 109 orphaned
-- 11 orphan major terms
+- 633 cited term records: 525 anchored by a translated surface and 108 orphaned
+- 10 orphan major terms
 - 804 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -41,9 +41,10 @@ Work in this order unless a direct reader request takes priority.
    Anchors `loka` through the arising and ending of the world in lived sensory
    experience, with direct value for the reader's dependent-arising and
    sense-contact pathways.
-3. **AN 3.88, Tatiyasikkhā Sutta** — 230 Pali words. Anchors `adhicitta` in the
-   threefold training. AN 4.41 was removed as a false leverage anchor because
-   it contains only a related mind-development phrase, not `adhicitta`.
+3. **AN 3.88, Tatiyasikkhā Sutta** — **complete 2026-08-25.** 230 Pali
+   words. Anchors `adhicitta` in the threefold training. AN 4.41 was removed as
+   a false leverage anchor because it contains only a related mind-development
+   phrase, not `adhicitta`.
 4. **Iti 49, Diṭṭhigata Sutta** — 173 Pali words. Anchors `pariyuṭṭhāna` in
    its active sense of being taken over by views and strengthens the
    abandonment-sequence cluster.

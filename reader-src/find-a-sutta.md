@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 57 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 58 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -87,6 +87,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 524 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="three trainings cover everything an 3.88 tatiyasikkhā sutta more than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. minor mistakes can be repaired, and even partial training still bears fruit. four truths and path">
+<h2><a href="../suttas/an3-88-tatiyasikkha-sutta/">Three Trainings Cover Everything</a></h2>
+<p class="sutta-card__reference">AN 3.88 · <span lang="pi">Tatiyasikkhā Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching · Short · about 3 min · 366 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
+<p>More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. Minor mistakes can be repaired, and even partial training still bears fruit.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="one arrow, not two sn 36.6 salla sutta the one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. concrete, bodily, and immediately recognizable. four truths and path">
 <h2><a href="../suttas/sn36-6-salla-sutta/">One Arrow, Not Two</a></h2>

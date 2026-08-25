@@ -236,7 +236,7 @@ The sixth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← What the Eightfold Path Means](sn45-8-vibhanga-sutta.md)
+- [← Three Trainings Cover Everything](an3-88-tatiyasikkha-sutta.md)
 - [All suttas](index.md)
 - [When Life Goes Up and Down →](an8-6-dutiyalokadhamma-sutta.md)
 

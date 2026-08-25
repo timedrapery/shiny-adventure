@@ -1,6 +1,6 @@
 # All Suttas
 
-All 57 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 58 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -63,6 +63,7 @@ All 57 translations, grouped by collection. If you would rather be guided, use [
 - [**What Keeps the World Human**](an2-9-cariya-sutta.md) — AN 2.9 · Cariya Sutta · about 1 min · 109 words · Set 2. Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.
 - [**How to Test a Teaching**](an3-65-kesamutta-sutta.md) — AN 3.65 · Kesamutta Sutta · about 10 min · 1,786 words · Set 1. A practical starting point for judging a teaching: tradition, reasoning, and a teacher's authority are not sufficient on their own.
 - [**What Drives Harm—and What Ends It**](an3-69-akusalamula-sutta.md) — AN 3.69 · Akusalamūla Sutta · about 7 min · 1,217 words · Set 2. Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.
+- [**Three Trainings Cover Everything**](an3-88-tatiyasikkha-sutta.md) — AN 3.88 · Tatiyasikkhā Sutta · about 3 min · 366 words · Set 2. More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment.
 - [**Going With the Stream—or Against It**](an4-5-anusota-sutta.md) — AN 4.5 · Anusota Sutta · about 3 min · 416 words · Set 2. Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.
 - [**Four Horses**](an4-113-patoda-sutta.md) — AN 4.113 · Patoda Sutta · about 5 min · 801 words · Set 2. Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice.
 - [**Six Things Examined**](an6-63-nibbedhika-sutta.md) — AN 6.63 · Nibbedhika Sutta · about 12 min · 2,103 words · Set 5. One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction.
