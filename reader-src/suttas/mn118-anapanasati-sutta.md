@@ -342,7 +342,7 @@ Buddha had said.
 <dt><dfn>spontaneously reborn</dfn></dt>
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
@@ -394,4 +394,4 @@ Buddha had said.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

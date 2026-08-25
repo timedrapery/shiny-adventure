@@ -1106,7 +1106,7 @@ Buddha had said.
 <dt><dfn>wholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 <dt><dfn>wrong view</dfn></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>
@@ -1178,5 +1178,5 @@ Buddha had said.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
 *[wrong view]: Seeing things in a way that misses how they actually work; the opposite of right view.

@@ -181,7 +181,7 @@ The sixth discourse is finished.
 <dt><dfn>resistance</dfn></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
@@ -215,4 +215,4 @@ The sixth discourse is finished.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

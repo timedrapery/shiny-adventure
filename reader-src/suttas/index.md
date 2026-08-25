@@ -1,6 +1,6 @@
 # All Suttas
 
-All 56 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 57 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -42,6 +42,7 @@ All 56 translations, grouped by collection. If you would rather be guided, use [
 - [**What Keeps a Life Going**](sn12-11-ahara-sutta.md) — SN 12.11 · Āhāra Sutta · about 4 min · 677 words · Set 4. Four things that keep a life going, traced back to wanting and then all the way back along the chain.
 - [**Between 'It Exists' and 'It Doesn't'**](sn12-15-kaccanagotta-sutta.md) — SN 12.15 · Kaccānagotta Sutta · about 3 min · 432 words · Set 4. One page, defining right view as the middle between "it exists" and "it doesn't."
 - [**From Dissatisfaction to Freedom**](sn12-23-upanisa-sutta.md) — SN 12.23 · Upanisa Sutta · about 8 min · 1,280 words · Set 4. The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.
+- [**How the World Arises—and Ends**](sn12-44-loka-sutta.md) — SN 12.44 · Loka Sutta · about 2 min · 345 words · Set 4. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
 - [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 730 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
 - [**The Five Heaps**](sn22-48-khandha-sutta.md) — SN 22.48 · Khandha Sutta · about 3 min · 363 words · Set 4. What the five heaps actually are, stated directly.
 - [**What Is Fit to Call Self?**](sn22-59-anattalakkhana-sutta.md) — SN 22.59 · Anattalakkhaṇa Sutta · about 6 min · 1,016 words · Set 4. The second sermon.

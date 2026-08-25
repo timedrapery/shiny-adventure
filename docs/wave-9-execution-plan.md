@@ -8,10 +8,10 @@ the baseline, and continue without relying on chat history.
 
 Snapshot date: 2026-08-25.
 
-- 56 governed translation surfaces and 56 generated sutta pages
+- 57 governed translation surfaces and 57 generated sutta pages
 - 1,155 governed term records
-- 633 cited term records: 523 anchored by a translated surface and 110 orphaned
-- 12 orphan major terms
+- 633 cited term records: 524 anchored by a translated surface and 109 orphaned
+- 11 orphan major terms
 - 804 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -37,9 +37,10 @@ Work in this order unless a direct reader request takes priority.
    `ariya` inside a complete explanation of the noble eightfold path. This is
    the strongest combination of reader value, manageable length, and
    path-cluster pressure.
-2. **SN 12.44, Loka Sutta** — 182 Pali words. Anchors `loka` through the
-   arising and ending of the world in lived sensory experience, with direct
-   value for the reader's dependent-arising and sense-contact pathways.
+2. **SN 12.44, Loka Sutta** — **complete 2026-08-25.** 182 Pali words.
+   Anchors `loka` through the arising and ending of the world in lived sensory
+   experience, with direct value for the reader's dependent-arising and
+   sense-contact pathways.
 3. **AN 3.88, Tatiyasikkhā Sutta** — 230 Pali words. Anchors `adhicitta` in the
    threefold training. AN 4.41 was removed as a false leverage anchor because
    it contains only a related mind-development phrase, not `adhicitta`.
@@ -47,9 +48,10 @@ Work in this order unless a direct reader request takes priority.
    its active sense of being taken over by views and strengthens the
    abandonment-sequence cluster.
 
-SN 35.82 is the fallback if SN 12.44 proves too repetitive or source notes
-show that it adds no distinct `loka` policy. DN 21 and DN 1 remain useful but
-are deferred because their length is disproportionate to one orphan-major
+SN 35.82 was the fallback for SN 12.44 but was not needed: the published
+edition makes the abbreviated repetition readable by naming all six sense
+doors and consolidating their shared causal tail. DN 21 and DN 1 remain useful
+but are deferred because their length is disproportionate to one orphan-major
 anchor. Short Dhammapada verses remain eligible as poetry, but the current
 length heuristic reports them with enumeration stubs, so inspect them by hand
 before promoting one.

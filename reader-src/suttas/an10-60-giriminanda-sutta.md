@@ -300,7 +300,7 @@ The tenth discourse is finished.
 <dt><dfn>thinking mind</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
@@ -341,4 +341,4 @@ The tenth discourse is finished.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

@@ -221,7 +221,7 @@ The ninth discourse is finished.
 <dt><dfn>uncertain distraction</dfn></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
@@ -258,4 +258,4 @@ The ninth discourse is finished.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

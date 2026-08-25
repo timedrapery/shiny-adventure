@@ -202,7 +202,7 @@ The first discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Between 'It Exists' and 'It Doesn't'](sn12-15-kaccanagotta-sutta.md)
+- [← How the World Arises—and Ends](sn12-44-loka-sutta.md)
 - [All suttas](index.md)
 - [From Dissatisfaction to Freedom →](sn12-23-upanisa-sutta.md)
 

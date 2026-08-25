@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 56 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 57 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -283,6 +283,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Intermediate · Dialogue · Short · about 3 min · 432 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>One page, defining right view as the middle between &quot;it exists&quot; and &quot;it doesn&#x27;t.&quot; The clearest, shortest bridge into dependent arising.</p>
+</article>
+<article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="how the world arises—and ends sn 12.44 loka sutta how the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear. dependent arising · mind and senses">
+<h2><a href="../suttas/sn12-44-loka-sutta/">How the World Arises—and Ends</a></h2>
+<p class="sutta-card__reference">SN 12.44 · <span lang="pi">Loka Sutta</span></p>
+<p class="sutta-card__meta">Intermediate · Analysis · Short · about 2 min · 345 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
+<p>How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="body and mind keep changing sn 12.61 assutavā sutta an argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind&#x27;s is not. dependent arising">
 <h2><a href="../suttas/sn12-61-assutava-sutta/">Body and Mind Keep Changing</a></h2>

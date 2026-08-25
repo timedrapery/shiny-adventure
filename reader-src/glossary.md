@@ -340,7 +340,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>with the stream</dfn></dt>
 <dd>Following the easy current of sensual indulgence and harmful action. In AN 4.5 this is a warning, not praise for being flexible.</dd>
 <dt><dfn>world</dfn> <span class="glossary-pali" lang="pi">(loka)</span></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 <dt><dfn>world&#x27;s end</dfn></dt>
 <dd>In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.</dd>
 <dt><dfn>world&#x27;s entanglement</dfn></dt>

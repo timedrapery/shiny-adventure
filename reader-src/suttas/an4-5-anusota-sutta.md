@@ -159,7 +159,7 @@ The fifth discourse is finished.
 <dt><dfn>with the stream</dfn></dt>
 <dd>Following the easy current of sensual indulgence and harmful action. In AN 4.5 this is a warning, not praise for being flexible.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 <dt><dfn>world&#x27;s end</dfn></dt>
 <dd>In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.</dd>
 </dl>
@@ -208,5 +208,5 @@ The fifth discourse is finished.
 *[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[with the stream]: Following the easy current of sensual indulgence and harmful action. In AN 4.5 this is a warning, not praise for being flexible.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
 *[world's end]: In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.

@@ -34,7 +34,7 @@
 
 *[undeclared]: A question the Buddha deliberately left unanswered -- not because he didn't know, but because answering it wouldn't help anyone actually practice.
 
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
 
 *[soul]: This translation's rendering of "jīva" -- the felt sense of an inner self or life-essence. Whether it exists, and whether it's the same as the body, is one of the questions MN 63 leaves undeclared.
 

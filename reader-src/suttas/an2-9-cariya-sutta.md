@@ -55,7 +55,7 @@ The ninth discourse is finished.
 <dt><dfn>moral caution</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;ottappa&quot; -- alertness to the harm and consequences of an unwholesome action. It is the outward-looking partner of conscience, not ordinary fear.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
@@ -82,4 +82,4 @@ The ninth discourse is finished.
 
 
 *[moral caution]: This project's rendering of "ottappa" -- alertness to the harm and consequences of an unwholesome action. It is the outward-looking partner of conscience, not ordinary fear.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

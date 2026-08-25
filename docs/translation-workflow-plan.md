@@ -50,13 +50,15 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
-## Update As Of 2026-08-24
+## Update As Of 2026-08-25
 
-- 56 governed translation surfaces and 56 generated reader pages. SN 48.10
+- 57 governed translation surfaces and 57 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
-  queue and anchors `hiri` and `ottappa` in a compact running text.
+  queue and anchors `hiri` and `ottappa` in a compact running text. SN 45.8
+  and SN 12.44 are the first two completed Wave 9 surfaces, anchoring `ariya`
+  and `loka`.
 - MN 131 is the control surface for the Bhaddekaratta verse and for its
   explanation through relishing past and future versions of the fivefold
   experiential field and identifying present experience as self.
@@ -65,7 +67,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 56 surfaces report no automated plain-English register signals. The
+- All 57 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.
@@ -493,7 +495,10 @@ absent, unfetched, or unsupported matches.
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
 - Use the [Wave 9 execution plan](wave-9-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
-- Waves 1 through 8 and the direct-request additions are complete at 55 surfaces. The 2026-08-25 audit names SN 45.8, SN 12.44, AN 3.88, and Iti 49 as Wave 9; follow the packet and validation gates in the execution plan.
+- Waves 1 through 8 and the direct-request additions were complete at 55
+  surfaces. The first two items from the 2026-08-25 Wave 9 audit, SN 45.8 and
+  SN 12.44, are now complete; AN 3.88 and Iti 49 remain. Follow the packet and
+  validation gates in the execution plan.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness
