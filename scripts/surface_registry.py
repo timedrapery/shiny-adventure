@@ -217,6 +217,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn12-15-kaccanagotta-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn12_44",
+        label="SN 12.44",
+        main_relpath="docs/translations/sn12-44-loka-sutta.md",
+        notes_relpath="docs/translations/sn12-44-loka-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn12_23",
         label="SN 12.23",
         main_relpath="docs/translations/sn12-23-upanisa-sutta.md",
@@ -416,6 +422,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn12_11": "1e477e680b47e78332c3a7a6b0168aa0b0801d4ff6a4b9c9a6e15da921b5f522",
     "sn12_61": "d6425a0e787dbd6c87cb12ad3e52fd50c192bdd7b655a26554a560038b9eb11c",
     "sn12_15": "f4edd91be61c2e628c09ed7e4dca8dc7fd2933f5f69ad44544a6a8d7e4e12aaf",
+    "sn12_44": "d96035f8601aebff22abc0d3471d2bd7c38014e0fafccf46fe07741136d206c7",
     "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
     "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
     "sn51_13": "9bab46d9c0f2feb7e1994f3bdbd265a74b9acae41e9058ecb3d700573af15763",
@@ -460,6 +467,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "mn38": "2026-08-24",
     "mn137": "2026-08-24",
     "sn12_15": "2026-08-24",
+    "sn12_44": "2026-08-25",
     "an10_60": "2026-08-24",
 }
 
@@ -781,46 +789,53 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
         reader_title="Between 'It Exists' and 'It Doesn't'",
     ),
+    "sn12_44": ReaderMeta(
+        "Loka Sutta", 4, 9,
+        "How the lived world develops through the six senses into wanting, "
+        "taking experience personally, and dissatisfaction—and how that "
+        "process ends without the senses having to disappear.",
+        reader_title="How the World Arises—and Ends",
+    ),
     "sn12_61": ReaderMeta(
-        "Assutavā Sutta", 4, 9,
+        "Assutavā Sutta", 4, 10,
         "An argument that runs the opposite way from what you expect: if you "
         "must identify with something, the body is the safer choice, because "
         "its changing is visible and the mind's is not.",
         reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
-        "Upanisa Sutta", 4, 10,
+        "Upanisa Sutta", 4, 11,
         "The positive chain, dissatisfaction leading step by step to freedom, "
         "mirroring the well-known negative chain.",
         reader_title="From Dissatisfaction to Freedom",
     ),
     "sn12_11": ReaderMeta(
-        "Āhāra Sutta", 4, 11,
+        "Āhāra Sutta", 4, 12,
         "Four things that keep a life going, traced back to wanting and then "
         "all the way back along the chain. Not to be confused with SN 46.51, "
         "which shares its name.",
         reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
-        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 12,
+        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 13,
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 13,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 14,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 14,
+        "Mahānidāna Sutta", 4, 15,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 15,
+        "Sammādiṭṭhi Sutta", 4, 16,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",
@@ -952,12 +967,12 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
         "mn148", "mn1", "iti44",
     ),
     "Dependent arising": (
-        "sn12_15", "sn12_61", "sn12_23", "sn12_11", "sn12_2", "mn38",
-        "dn15", "mn9",
+        "sn12_15", "sn12_44", "sn12_61", "sn12_23", "sn12_11",
+        "sn12_2", "mn38", "dn15", "mn9",
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
-        "mn38", "an8_6", "an3_69", "sn1_1",
+        "mn38", "sn12_44", "an8_6", "an3_69", "sn1_1",
     ),
 }
 
@@ -973,7 +988,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
-        "sn22_48", "sn45_8", "an6_63", "dn15",
+        "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
     ),
     "Teaching with verse": (
         "mn131", "iti44", "an11_9", "an8_6", "an4_5",

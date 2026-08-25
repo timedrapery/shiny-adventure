@@ -157,6 +157,11 @@ Current SN 12.15 surfaces:
 - [sn12-15-kaccanagotta-sutta.md](sn12-15-kaccanagotta-sutta.md): main shareable translation text
 - [sn12-15-kaccanagotta-sutta-notes.md](sn12-15-kaccanagotta-sutta-notes.md): companion translator notes and rationale
 
+Current SN 12.44 surfaces:
+
+- [sn12-44-loka-sutta.md](sn12-44-loka-sutta.md): main shareable translation text
+- [sn12-44-loka-sutta-notes.md](sn12-44-loka-sutta-notes.md): companion translator notes and rationale
+
 Current SN 12.23 surfaces:
 
 - [sn12-23-upanisa-sutta.md](sn12-23-upanisa-sutta.md): main shareable translation text
