@@ -1,9 +1,9 @@
 # Next Sutta Priority Table
 
-Snapshot: 2026-08-25, after publishing the second Wave 9 surface.
+Snapshot: 2026-08-25, after publishing the third Wave 9 surface.
 
-The corpus has 1,155 term records and 57 translation surfaces. Of 633 cited
-records, 524 are anchored by a translated surface and 109 are orphaned; 11 of
+The corpus has 1,155 term records and 58 translation surfaces. Of 633 cited
+records, 525 are anchored by a translated surface and 108 are orphaned; 10 of
 those orphans are major terms.
 Use the [Wave 9 execution plan](../wave-9-execution-plan.md) for the committed
 order and delivery gates, and the
@@ -13,8 +13,8 @@ order and delivery gates, and the
 | ---: | --- | ---: | --- | --- |
 | complete | `SN 45.8` Vibhaṅga | 300 words | `ariya` | published 2026-08-25; path-factor cluster now has no dark governed terms |
 | complete | `SN 12.44` Loka | 182 words | `loka` | published 2026-08-25; connects lived sensory experience to dependent arising |
-| 1 | `AN 3.88` Tatiyasikkhā | 230 words | `adhicitta` | threefold training; replaces the false AN 4.41 leverage signal |
-| 2 | `Iti 49` Diṭṭhigata | 173 words | `pariyuṭṭhāna` | active takeover by views; abandonment-sequence cluster |
+| complete | `AN 3.88` Tatiyasikkhā | 230 words | `adhicitta` | published 2026-08-25; threefold training; replaces the false AN 4.41 leverage signal |
+| 1 | `Iti 49` Diṭṭhigata | 173 words | `pariyuṭṭhāna` | active takeover by views; abandonment-sequence cluster |
 
 Fallback: `SN 35.82` is an 85-word alternate anchor for `loka`. Longer
 one-anchor candidates such as DN 21 and DN 1 are deferred. Enumeration and

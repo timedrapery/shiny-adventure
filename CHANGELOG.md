@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 3.88, Tatiyasikkhā Sutta,
+  with companion notes, newcomer guidance, a consolidated and readable
+  attainment ladder, and direct running-text support for `adhicitta` in the
+  threefold training.
 - Added a governed plain-English translation of SN 12.44, Loka Sutta, with
   companion notes, newcomer guidance, a complete six-sense presentation of
   the abbreviated source pattern, and direct running-text support for `loka`.
@@ -64,6 +68,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Corrected the three-training term examples to use the governed `higher
+  conduct` rather than `higher virtue`, and repaired stale AN 3.88 source
+  references for `adhipaññā` and `sikkhā`.
 - Clarified the reader glossary's `world` entry so it covers the lived world
   built through the senses as well as wider cosmological uses.
 - Made per-page glossary generation prefer the longest matching phrase,
@@ -91,7 +98,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 57 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 58 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

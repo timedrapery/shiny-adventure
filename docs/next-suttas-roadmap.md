@@ -15,7 +15,7 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking was made when the repository had 36 translation surfaces; it now has 57,
+This ranking was made when the repository had 36 translation surfaces; it now has 58,
 and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN

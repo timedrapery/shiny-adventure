@@ -257,6 +257,11 @@ Current AN 3.69 surfaces:
 - [an3-69-akusalamula-sutta.md](an3-69-akusalamula-sutta.md): main shareable translation text
 - [an3-69-akusalamula-sutta-notes.md](an3-69-akusalamula-sutta-notes.md): companion translator notes and rationale
 
+Current AN 3.88 surfaces:
+
+- [an3-88-tatiyasikkha-sutta.md](an3-88-tatiyasikkha-sutta.md): main shareable translation text
+- [an3-88-tatiyasikkha-sutta-notes.md](an3-88-tatiyasikkha-sutta-notes.md): companion translator notes and rationale
+
 Current AN 4.5 surfaces:
 
 - [an4-5-anusota-sutta.md](an4-5-anusota-sutta.md): main shareable translation text
