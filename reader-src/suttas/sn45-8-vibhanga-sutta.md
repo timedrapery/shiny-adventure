@@ -229,7 +229,7 @@ The eighth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The First Teaching](sn56-11-dhammacakkappavattana-sutta.md)
+- [← What Ignorance Means](sn56-17-avijja-sutta.md)
 - [All suttas](index.md)
 - [Three Trainings Cover Everything →](an3-88-tatiyasikkha-sutta.md)
 

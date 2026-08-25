@@ -1,8 +1,9 @@
 # Next Sutta Priority Table
 
-Snapshot: 2026-08-25, after publishing the third Wave 9 surface.
+Snapshot: 2026-08-25, after publishing the third Wave 9 surface and adding SN
+56.17 by direct request.
 
-The corpus has 1,155 term records and 58 translation surfaces. Of 633 cited
+The corpus has 1,155 term records and 59 translation surfaces. Of 633 cited
 records, 525 are anchored by a translated surface and 108 are orphaned; 10 of
 those orphans are major terms.
 Use the [Wave 9 execution plan](../wave-9-execution-plan.md) for the committed

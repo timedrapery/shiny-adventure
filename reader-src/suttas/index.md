@@ -1,6 +1,6 @@
 # All Suttas
 
-All 58 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 59 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -57,6 +57,7 @@ All 58 translations, grouped by collection. If you would rather be guided, use [
 - [**The Four Bases of Power**](sn51-13-chandasamadhi-sutta.md) — SN 51.13 · Chandasamādhi Sutta · about 3 min · 485 words · Set 5. One short formula, stated four times, defining the four bases of power.
 - [**Four Steps That Lead to the Path**](sn55-5-dutiyasariputta-sutta.md) — SN 55.5 · Dutiyasāriputta Sutta · about 2 min · 252 words · Set 2. What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it.
 - [**The First Teaching**](sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11 · Dhammacakkappavattana Sutta · about 7 min · 1,221 words · Set 2. The first sermon: the four noble truths and the eightfold path stated directly.
+- [**What Ignorance Means**](sn56-17-avijja-sutta.md) — SN 56.17 · Avijjā Sutta · about 1 min · 106 words · Set 2. A bhikkhu asks what ignorance means.
 
 ## Aṅguttara Nikāya (AN) — the numbered discourses
 

@@ -52,13 +52,16 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-08-25
 
-- 58 governed translation surfaces and 58 generated reader pages. SN 48.10
+- 59 governed translation surfaces and 59 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
   queue and anchors `hiri` and `ottappa` in a compact running text. SN 45.8,
   SN 12.44, and AN 3.88 are the first three completed Wave 9 surfaces,
   anchoring `ariya`, `loka`, and `adhicitta`.
+- SN 56.17 was added by direct request as a 53-word definition of ignorance
+  through the four truths. It follows SN 56.11 in the reader and makes the
+  source's abbreviated four-part practice instruction explicit.
 - MN 131 is the control surface for the Bhaddekaratta verse and for its
   explanation through relishing past and future versions of the fivefold
   experiential field and identifying present experience as self.
@@ -67,7 +70,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 58 surfaces report no automated plain-English register signals. The
+- All 59 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.

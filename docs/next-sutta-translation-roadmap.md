@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (58 total)
+## Completed Surfaces (59 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -76,6 +76,10 @@ Use that full roadmap as the source of truth for:
   and anchors the previously orphaned major `adhicitta` record.
 
 ### Outside the Wave Sequence
+- `SN 56.17` Avijjā Sutta (What Ignorance Means) — requested directly. A
+  compact definition of ignorance as not understanding dissatisfaction, its
+  origin and ending, or the path leading to its ending. Reader placement is
+  set 2, immediately after SN 56.11.
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
   requested directly rather than drawn from a wave audit. Control surface for
   the threefold before/during/after reflection formula on bodily, verbal, and

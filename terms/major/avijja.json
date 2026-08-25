@@ -61,11 +61,18 @@
       "translation": "but with the complete fading and quenching of ignorance",
       "notes": "Shows the term in the cessation mode of the formula.",
       "source": "SN 12.2"
+    },
+    {
+      "pali": "dukkhe aññāṇaṃ, dukkhasamudaye aññāṇaṃ, dukkhanirodhe aññāṇaṃ, dukkhanirodhagāminiyā paṭipadāya aññāṇaṃ",
+      "translation": "not understanding dissatisfaction, where it comes from, how it ends, or the path of practice that leads to its ending",
+      "notes": "SN 56.17 defines ignorance through failure to understand the four truths. The plain sentence preserves the four-part scope without turning it into a string of abstract labels.",
+      "source": "SN 56.17"
     }
   ],
   "sutta_references": [
     "SN 12.2",
-    "MN 9"
+    "MN 9",
+    "SN 56.17"
   ],
   "tags": [
     "core-doctrine",

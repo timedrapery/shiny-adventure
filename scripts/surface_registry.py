@@ -259,6 +259,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn56_17",
+        label="SN 56.17",
+        main_relpath="docs/translations/sn56-17-avijja-sutta.md",
+        notes_relpath="docs/translations/sn56-17-avijja-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn22_59",
         label="SN 22.59",
         main_relpath="docs/translations/sn22-59-anattalakkhana-sutta.md",
@@ -435,6 +441,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn1_1": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
     "sn55_5": "ce0bbcfd5619eae08a38c0d01fab39674c232f73f2bab3c806d8b4968913ef2c",
     "sn56_11": "7be7a57e337b8d536d1419f8e7e7f19921596cfd5edf416a29127114890f0a89",
+    "sn56_17": "eb7c6d437ff1752a470fdeea4c8167d9c9f8378e78c6d75e83b5d758db077835",
     "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
     "sn22_48": "b5ac6f591e4b8d397e205f8cae8b75629c974c4e9e0d84a7b9b3d1b808a5b49f",
     "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
@@ -476,6 +483,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "sn12_15": "2026-08-24",
     "sn12_44": "2026-08-25",
     "an3_88": "2026-08-25",
+    "sn56_17": "2026-08-25",
     "an10_60": "2026-08-24",
 }
 
@@ -605,72 +613,79 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "memorize rather than a diagnosis to recognize.",
         reader_title="The First Teaching",
     ),
+    "sn56_17": ReaderMeta(
+        "Avijjā Sutta", 2, 2,
+        "A bhikkhu asks what ignorance means. The answer is precise: not "
+        "understanding dissatisfaction, where it comes from, how it ends, "
+        "and the path that leads to its ending.",
+        reader_title="What Ignorance Means",
+    ),
     "sn45_8": ReaderMeta(
-        "Vibhaṅga Sutta", 2, 2,
+        "Vibhaṅga Sutta", 2, 3,
         "The eightfold path unpacked one factor at a time: how to understand, "
         "speak, act, work, train, remember, and compose the heart.",
         reader_title="What the Eightfold Path Means",
     ),
     "an3_88": ReaderMeta(
-        "Tatiyasikkhā Sutta", 2, 3,
+        "Tatiyasikkhā Sutta", 2, 4,
         "More than 150 monastic rules gathered into three trainings—conduct, "
         "the mind, and discernment. Minor mistakes can be repaired, and even "
         "partial training still bears fruit.",
         reader_title="Three Trainings Cover Everything",
     ),
     "sn36_6": ReaderMeta(
-        "Salla Sutta", 2, 4,
+        "Salla Sutta", 2, 5,
         "The one-arrow/two-arrows teaching: physical pain versus the added "
         "mental suffering piled on top of it. Concrete, bodily, and "
         "immediately recognizable.",
         reader_title="One Arrow, Not Two",
     ),
     "an8_6": ReaderMeta(
-        "Dutiyalokadhamma Sutta", 2, 5,
+        "Dutiyalokadhamma Sutta", 2, 6,
         "Gain and loss, praise and blame, pleasure and pain happen to everyone. "
         "The difference is whether they take over the heart.",
         reader_title="When Life Goes Up and Down",
     ),
     "an2_9": ReaderMeta(
-        "Cariya Sutta", 2, 6,
+        "Cariya Sutta", 2, 7,
         "Two bright qualities protect the human world: conscience, the inward "
         "sense of integrity, and moral caution about harm and consequences.",
         reader_title="What Keeps the World Human",
     ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 7,
+        "Vattha Sutta", 2, 8,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an3_69": ReaderMeta(
-        "Akusalamūla Sutta", 2, 8,
+        "Akusalamūla Sutta", 2, 9,
         "Greed, aversion, and delusion are traced from their roots to their "
         "effects on action, speech, power, and the heart—then contrasted with "
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
-        "Anusota Sutta", 2, 9,
+        "Anusota Sutta", 2, 10,
         "Four ways of meeting the current: drifting with it, struggling "
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
     "sn1_1": ReaderMeta(
-        "Oghataraṇa Sutta", 2, 10,
+        "Oghataraṇa Sutta", 2, 11,
         "A deity asks how the Buddha crossed a flood. The answer refuses both "
         "standing still and forceful struggle, preserving a compact paradox.",
         reader_title="How Do You Cross the Flood?",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 11,
+        "Patoda Sutta", 2, 12,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 12,
+        "Dutiyasāriputta Sutta", 2, 13,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -678,7 +693,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 13,
+        "Saddha Sutta", 2, 14,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -974,7 +989,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
         "sn46_51", "sn51_13", "sn48_10", "mn119",
     ),
     "Four truths and path": (
-        "sn56_11", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
+        "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
         "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
         "an3_88",
     ),
@@ -996,7 +1011,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Dialogue": (
         "an3_65", "mn63", "mn26", "mn61", "dn2", "mn44", "mn43",
         "mn64", "mn99", "mn18", "mn38", "sn22_86", "sn22_89",
-        "sn12_15", "sn45_2", "sn1_1",
+        "sn12_15", "sn45_2", "sn1_1", "sn56_17",
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
