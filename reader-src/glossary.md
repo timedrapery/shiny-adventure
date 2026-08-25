@@ -64,6 +64,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
+<dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>consolation</dfn> <span class="glossary-pali" lang="pi">(assāsa)</span></dt>
 <dd>A practical reassurance that holds up regardless of how a contested question (like what happens after death) actually turns out -- not an argument that settles the question.</dd>
 <dt><dfn>contact</dfn> <span class="glossary-pali" lang="pi">(phassa)</span></dt>
@@ -164,6 +166,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>mixed feeling</dfn> <span class="glossary-pali" lang="pi">(adukkhamasukhavedanā)</span></dt>
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+<dt><dfn>moral caution</dfn> <span class="glossary-pali" lang="pi">(ottappa)</span></dt>
+<dd>This project&#x27;s rendering of &quot;ottappa&quot; -- alertness to the harm and consequences of an unwholesome action. It is the outward-looking partner of conscience, not ordinary fear.</dd>
 </dl>
 
 ## N

@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 51 translations in this collection, for someone new to this material.
+A suggested order for reading the 52 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -22,6 +22,7 @@ The core claim and the practical response to it, kept concrete.
 - [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) (SN 56.11, Dhammacakkappavattana Sutta) — about 7 min · 1,221 words. The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.
 - [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) (SN 36.6, Salla Sutta) — about 5 min · 783 words. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. Concrete, bodily, and immediately recognizable.
 - [**When Life Goes Up and Down**](suttas/an8-6-dutiyalokadhamma-sutta.md) (AN 8.6, Dutiyalokadhamma Sutta) — about 5 min · 824 words. Gain and loss, praise and blame, pleasure and pain happen to everyone. The difference is whether they take over the heart.
+- [**What Keeps the World Human**](suttas/an2-9-cariya-sutta.md) (AN 2.9, Cariya Sutta) — about 1 min · 109 words. Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.
 - [**The Dirty Cloth**](suttas/mn7-vattha-sutta.md) (MN 7, Vattha Sutta) — about 11 min · 1,911 words. A mind is like cloth: dye it while it is dirty and the colour comes out wrong. Ethics introduced through a simile instead of a rule list.
 - [**Four Horses**](suttas/an4-113-patoda-sutta.md) (AN 4.113, Patoda Sutta) — about 5 min · 801 words. Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. A jolt of urgency after three fairly calm texts.
 - [**Four Steps That Lead to the Path**](suttas/sn55-5-dutiyasariputta-sutta.md) (SN 55.5, Dutiyasāriputta Sutta) — about 2 min · 252 words. What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. The first item is social, not inward.

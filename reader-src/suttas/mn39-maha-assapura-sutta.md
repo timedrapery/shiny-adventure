@@ -471,7 +471,7 @@ Buddha's words.
 The Greater Discourse at Assapura is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (31)</summary>
+<summary>Words used in this translation (32)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -495,6 +495,8 @@ The Greater Discourse at Assapura is finished.
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conscience</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -571,6 +573,7 @@ The Greater Discourse at Assapura is finished.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conscience]: This project's rendering of "hiri" -- the inward ethical sense that recoils from an action because it would violate one's integrity. It does not mean guilt or toxic shame.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.

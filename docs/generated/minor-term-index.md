@@ -347,7 +347,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [hetu-paccaya](../../terms/minor/hetu-paccaya.json) | hetu-paccaya | root condition | reviewed | causality |
 | [hinayana](../../terms/minor/hinayana.json) | hīnayāna | hīnayāna | reviewed | translation-sensitive |
 | [hiri-dhana](../../terms/minor/hiri-dhana.json) | hiri-dhana | wealth of conscience | reviewed | ethics, core-practice |
-| [hiri-ottappa](../../terms/minor/hiri-ottappa.json) | hiri-ottappa | conscience and concern | reviewed | mental-qualities |
+| [hiri-ottappa](../../terms/minor/hiri-ottappa.json) | hiri-ottappa | conscience and moral caution | reviewed | mental-qualities |
 
 ## I
 

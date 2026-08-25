@@ -27,6 +27,7 @@ import json
 import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
+from functools import lru_cache
 from pathlib import Path
 
 try:
@@ -49,6 +50,12 @@ BILARA_CACHE = REPO_ROOT / ".bilara-cache"
 # title, a count, a list, and a restatement of the count.
 ENUMERATION_STUB_MAX_WORDS = 80
 
+# Length is a useful warning, not a definition. AN 2.9 is only 63 substantive
+# Pali words, but it contains a counterfactual social argument and a simile --
+# not merely a count, list, and restatement. Keep known short substantive texts
+# out of the enumeration-only track.
+SUBSTANTIVE_SHORT_TEXTS = frozenset({"AN 2.9"})
+
 
 @dataclass
 class SuttaLeverage:
@@ -67,6 +74,7 @@ class SuttaLeverage:
         return (
             self.pali_words is not None
             and self.pali_words <= ENUMERATION_STUB_MAX_WORDS
+            and self.sutta not in SUBSTANTIVE_SHORT_TEXTS
         )
 
     @property
@@ -88,14 +96,47 @@ def cache_key(sutta: str) -> str:
     return sutta.lower().replace(" ", "") + "_root-pli-ms.json"
 
 
+@lru_cache(maxsize=1)
+def bundled_cache_index() -> dict[str, Path]:
+    """Map every cached Bilara sutta UID to the file that contains it.
+
+    Most root texts have one file per discourse. Some collections, especially
+    AN 2, bundle several discourses into files such as
+    ``an2.1-10_root-pli-ms.json``. Looking only for an exact filename made the
+    audit call AN 2.9 uncached, and an earlier manual check then counted the
+    entire bundle as though it were one discourse.
+    """
+    index: dict[str, Path] = {}
+    for path in sorted(BILARA_CACHE.glob("*_root-pli-ms.json")):
+        try:
+            with path.open("r", encoding="utf-8") as handle:
+                segments = json.load(handle)
+        except (OSError, json.JSONDecodeError):
+            continue
+        for segment_id in segments:
+            uid, separator, _ = str(segment_id).partition(":")
+            if separator:
+                index.setdefault(uid, path)
+    return index
+
+
+def cache_path(sutta: str) -> Path | None:
+    """Return the exact or bundled cache path for a display reference."""
+    exact = BILARA_CACHE / cache_key(sutta)
+    if exact.exists():
+        return exact
+    uid = sutta.lower().replace(" ", "")
+    return bundled_cache_index().get(uid)
+
+
 def pali_word_count(sutta: str) -> int | None:
     """Body word count from the cached root text, or None when not cached.
 
-    Segment ids ending in a `0.x` counter are front matter (collection name,
-    vagga, title) and are excluded so short texts are not inflated.
+    Front-matter counters beginning with `0.` and bundled-discourse title
+    counters ending with `.0` are excluded so short texts are not inflated.
     """
-    path = BILARA_CACHE / cache_key(sutta)
-    if not path.exists():
+    path = cache_path(sutta)
+    if path is None:
         return None
     try:
         with path.open("r", encoding="utf-8") as handle:
@@ -103,9 +144,12 @@ def pali_word_count(sutta: str) -> int | None:
     except (OSError, json.JSONDecodeError):
         return None
     total = 0
+    target_uid = sutta.lower().replace(" ", "")
     for segment_id, text in segments.items():
-        _, _, counter = segment_id.partition(":")
-        if counter.startswith("0."):
+        uid, _, counter = segment_id.partition(":")
+        if uid != target_uid:
+            continue
+        if counter.startswith("0.") or counter.endswith(".0"):
             continue
         total += len(str(text).split())
     return total

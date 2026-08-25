@@ -227,6 +227,11 @@ Current SN 48.10 surfaces:
 - [sn48-10-dutiyavibhanga-sutta.md](sn48-10-dutiyavibhanga-sutta.md): main shareable translation text
 - [sn48-10-dutiyavibhanga-sutta-notes.md](sn48-10-dutiyavibhanga-sutta-notes.md): companion translator notes and rationale
 
+Current AN 2.9 surfaces:
+
+- [an2-9-cariya-sutta.md](an2-9-cariya-sutta.md): main shareable translation text
+- [an2-9-cariya-sutta-notes.md](an2-9-cariya-sutta-notes.md): companion translator notes and rationale
+
 Current AN 3.65 surfaces:
 
 - [an3-65-kesamutta-sutta.md](an3-65-kesamutta-sutta.md): main shareable translation text

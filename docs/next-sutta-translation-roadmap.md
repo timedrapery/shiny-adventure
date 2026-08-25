@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (51 total)
+## Completed Surfaces (52 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -86,6 +86,9 @@ Use that full roadmap as the source of truth for:
 - `MN 119` Kāyagatāsati Sutta — the dedicated running-text anchor for
   mindfulness directed to the body, including its full practice sequence and
   ten stated benefits.
+- `AN 2.9` Cariya Sutta — a 63-word running-text anchor for `hiri` and
+  `ottappa`, rendered as `conscience` and `moral caution`. The earlier
+  843-word estimate counted the entire AN 2.1–10 cache bundle.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
@@ -104,12 +107,12 @@ Use that full roadmap as the source of truth for:
 ## Current Active Queue
 
 The Wave 8 citation sweep and DN 22 repair are complete, and SN 48.10 and
-MN 119 are translated. MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by
-direct request or reader-value review rather than by audit ranking. The only
-remaining item in the older queue is AN 2.9, and it must be re-checked before
-drafting because its original leverage signal weakened once the source was
-cached. The full reasoning and historical audit state remain in
-[next-suttas-roadmap.md](next-suttas-roadmap.md).
+MN 119 are translated. MN 131, SN 22.86, SN 45.2, AN 8.6, and AN 2.9 were
+added by direct request or reader-value review rather than by audit ranking.
+The older queue is now complete. Run a fresh leverage and reader-value audit
+before naming a Wave 9; do not promote the next numerical candidate without
+checking its citations and source in context. The full reasoning and
+historical audit state remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 
