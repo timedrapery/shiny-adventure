@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added governed plain-English translations, companion notes, newcomer
+  introductions, and generated reader pages for AN 3.69, AN 4.5, and SN 1.1.
+- Added a durable Wave 9 execution plan and newcomer-review workboard so work
+  can resume from any clone without relying on chat history.
 - Added a governed plain-English translation of AN 2.9, Cariya Sutta, with
   companion source notes, newcomer guidance, reader placement as "What Keeps
   the World Human," and running-text anchors for `hiri` and `ottappa` as
@@ -23,7 +27,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   the discovery lists.
 - Added visible source, license, provisional-status, review-date, and content-
   hash disclosures to every sutta page.
-- Added Playwright and axe rendered-accessibility checks, narrow-screen and
+- Added Playwright and axe rendered-accessibility checks across every generated
+  sutta page, narrow-screen and
   keyboard regressions, EPUB structure validation, and Khuddaka Nikāya source
   resolution for Dhammapada, Itivuttaka, Sutta Nipāta, Theragāthā,
   Therīgāthā, and Udāna citations.
@@ -53,6 +58,11 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Repaired the example-source verifier so partial matches are visible and
+  strict mode rejects them; corrected all eight partial citations in the live
+  corpus.
+- Added a registry-backed documentation check that rejects stale current
+  translation-surface counts.
 - Corrected the surface-leverage audit so it resolves discourses stored inside
   bundled Bilara cache files, counts only the requested discourse, and does not
   misclassify AN 2.9's short counterfactual argument as a bare enumeration.
@@ -70,7 +80,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 52 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 55 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

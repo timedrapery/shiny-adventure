@@ -255,14 +255,12 @@ making the reader decode `duality of existence and non-existence`.
 - **No check looks at list structure.** See the trap above. A small check that
   flags a bullet marker appearing mid-line would have caught the MN 118
   damage.
-- **11 `partial` and 147 `inflected` citations** remain from
-  `verify_example_sources.py`. Neither is reliably an error, but the `partial`
-  set is worth a pass; those are usually the right sutta quoted with slightly
-  wrong wording.
-- **Wave 7 is undrafted.** Worth re-running the audit method now that the
-  citation data is trustworthy: four of Wave 6's leverage signals turned out
-  wrong when checked against sources, all traceable to citations that have
-  since been repaired.
+- **The citation-debt pass is complete.** On 2026-08-25 the verifier reported
+  zero partial, absent, unfetched, or unsupported citations. `inflected` and
+  peyyāla-driven `inconclusive` matches remain explicit review signals rather
+  than automatic errors.
+- **Waves 7 and 8 are complete.** The fresh 55-surface audit and committed next
+  queue now live in the [Wave 9 execution plan](wave-9-execution-plan.md).
 - **`HIGH_LOAD_MINOR_LINT_THRESHOLD`** is still 9 in `scripts/lint_terms.py`.
   The queue it guards is empty, so dropping it to 7 would make the standard
   enforced rather than advisory.

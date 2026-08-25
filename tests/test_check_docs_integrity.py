@@ -21,6 +21,15 @@ def write_required_repo_files(repo_root: Path) -> None:
         path.write_text("placeholder\n", encoding="utf-8")
 
 
+def write_current_count_declarations(repo_root: Path, count: int) -> None:
+    for relative_path, templates in check_docs_integrity.CURRENT_CORPUS_COUNT_TEMPLATES.items():
+        path = repo_root / relative_path
+        path.parent.mkdir(parents=True, exist_ok=True)
+        existing = path.read_text(encoding="utf-8") if path.exists() else ""
+        declarations = "\n".join(template.format(count=count) for template in templates)
+        path.write_text(existing + "\n" + declarations + "\n", encoding="utf-8")
+
+
 class CheckDocsIntegrityTests(unittest.TestCase):
     def test_iter_markdown_files_ignores_dependency_and_build_directories(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -100,6 +109,31 @@ class CheckDocsIntegrityTests(unittest.TestCase):
 
         self.assertEqual(failures, [])
 
+    def test_collect_corpus_count_failures_uses_registry_count(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            write_required_repo_files(repo_root)
+            write_current_count_declarations(repo_root, 55)
+
+            failures = check_docs_integrity.collect_corpus_count_failures(
+                repo_root, expected_count=55
+            )
+
+        self.assertEqual(failures, [])
+
+    def test_collect_corpus_count_failures_reports_stale_declaration(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            repo_root = Path(tmpdir)
+            write_required_repo_files(repo_root)
+            write_current_count_declarations(repo_root, 52)
+
+            failures = check_docs_integrity.collect_corpus_count_failures(
+                repo_root, expected_count=55
+            )
+
+        self.assertTrue(failures)
+        self.assertTrue(any("55 early Buddhist discourses" in item for item in failures))
+
     def test_main_reports_success_for_clean_repo(self) -> None:
         output = io.StringIO()
         with tempfile.TemporaryDirectory() as tmpdir:
@@ -107,11 +141,13 @@ class CheckDocsIntegrityTests(unittest.TestCase):
             write_required_repo_files(repo_root)
             (repo_root / "docs" / "guide.md").write_text("# Guide\n", encoding="utf-8")
             (repo_root / "README.md").write_text("See [guide](docs/guide.md).\n", encoding="utf-8")
+            write_current_count_declarations(repo_root, 55)
 
             with mock.patch.object(check_docs_integrity, "REPO_ROOT", repo_root):
-                with mock.patch("sys.argv", ["check_docs_integrity.py"]):
-                    with mock.patch("sys.stdout", output):
-                        result = check_docs_integrity.main()
+                with mock.patch.object(check_docs_integrity, "registered_surface_count", return_value=55):
+                    with mock.patch("sys.argv", ["check_docs_integrity.py"]):
+                        with mock.patch("sys.stdout", output):
+                            result = check_docs_integrity.main()
 
         self.assertEqual(result, 0)
         self.assertIn("Documentation integrity check passed.", output.getvalue())

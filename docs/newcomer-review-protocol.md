@@ -3,6 +3,9 @@
 This is the human gate between a technically checked translation and a reader-
 validated one. Automated checks cannot substitute for it.
 
+Use the [newcomer review workboard](../reviews/README.md) for public links and
+current progress. The JSON ledger remains authoritative.
+
 ## Cohort and threshold
 
 The initial cohort is the Essential Five plus MN 131 and SN 22.86. Each text

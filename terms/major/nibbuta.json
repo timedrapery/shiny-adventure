@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Adjectival consummation language describing what has become cooled or quenched.",
-  "notes": "The project keeps cooled as the default because it lets the cooling/quenching image remain adjectival instead of turning nibbuta into a loose synonym for nibbāna. Quenched remains a controlled alternate when the fire-going-out image needs to stay sharper, and cooled down is allowed in very plain explanatory prose. In this repository, nibbuta differs from nibbāna: nibbāna is the governing consummation-side noun, whereas nibbuta is adjectival language describing what is cooled or quenched. It also differs from santi, which is peace-language, and from vimutti, which is release-language. Buddhadasa's coolness framing strongly supports keeping the cooling force audible here, and SN 43.14 supports nibbuta as consummation-side adjectival language rather than a substitute for the nibbāna headword.",
+  "notes": "The project keeps cooled as the default because it lets the cooling/quenching image remain adjectival instead of turning nibbuta into a loose synonym for nibbāna. Quenched remains a controlled alternate when the fire-going-out image needs to stay sharper, and cooled down is allowed in very plain explanatory prose. In this repository, nibbuta differs from nibbāna: nibbāna is the governing consummation-side noun, whereas nibbuta is adjectival language describing what is cooled or quenched. It also differs from santi, which is peace-language, and from vimutti, which is release-language. Buddhadasa's coolness framing strongly supports keeping the cooling force audible here; MN 26 and SN 1.1 directly anchor the word family in consummation-side adjectival language.",
   "context_rules": [
     {
       "context": "In most source-facing and consummation-side adjectival contexts",
@@ -47,27 +47,21 @@
   ],
   "example_phrases": [
     {
-      "pali": "nibbuto so bhikkhu",
-      "translation": "that bhikkhu is cooled",
-      "notes": "Shows the adjectival cooling force directly.",
-      "source": "Iti 43"
-    },
-    {
       "pali": "sītibhūtosmi nibbuto",
       "translation": "I am cooled, I am quenched",
       "notes": "Keeps the consummation-side adjective distinct from the governing noun nibbāna. SN 43.14 contains no `nibbut` in any form. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "MN 26"
     },
     {
-      "pali": "sītibhūtosmi nibbuto",
-      "translation": "I am cooled, I am quenched",
-      "notes": "Spoken on the road to Benares before the first teaching.",
-      "source": "MN 26"
+      "pali": "brāhmaṇaṁ parinibbutaṁ",
+      "translation": "a brahmin who has reached complete quenching",
+      "notes": "Shows the same cooling family in the completed parinibbuta form.",
+      "source": "SN 1.1"
     }
   ],
   "sutta_references": [
-    "Iti 43",
-    "MN 26"
+    "MN 26",
+    "SN 1.1"
   ],
   "tags": [
     "core-doctrine",
@@ -83,9 +77,9 @@
       "scope": "Supports preserving cooling-language rather than dissolving nibbuta into generic peace or release."
     },
     {
-      "source": "SN 43.14",
+      "source": "MN 26 and SN 1.1",
       "kind": "context-rule",
-      "scope": "Supports nibbuta as adjectival consummation language distinct from the nibbāna headword."
+      "scope": "Directly supports nibbuta and parinibbuta as adjectival consummation language distinct from the nibbāna headword."
     }
   ],
   "translation_policy": {

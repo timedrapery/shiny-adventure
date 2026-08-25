@@ -15,8 +15,8 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking was made when the repository had 36 translation surfaces; it now
-has 52, and the historical figure is kept because the ranking below was
+This ranking was made when the repository had 36 translation surfaces; it now has 55,
+and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN
 131 and SN 22.86, are tracked in
@@ -32,6 +32,11 @@ Wave 7 was audited on 2026-08-20 against the current 42-surface, 1147-term
 state, and is the first audit that is reproducible rather than hand-computed:
 run `python scripts/audit_surface_leverage.py`. It carries two further
 corrections to the method, both recorded under Ranked Roadmap (Wave 7).
+
+Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state.
+Its committed queue and reproducible handoff procedure live in the
+[Wave 9 execution plan](wave-9-execution-plan.md). That current plan supersedes
+the historical numerical queues below without erasing their audit record.
 
 The ranking weights four factors:
 
@@ -467,9 +472,10 @@ bundles are dense with peyyala.
 The affected citations were `AN 2.9` (4), `SN 50.1` (3), `SN 43.14`,
 `SN 35.191`, and `AN 1.49`.
 
-`Dhp 21` and `Ud 8.3` remain unverifiable for a different reason: their
-collections are in the `UNSUPPORTED` set, so no URL is attempted at all. That
-is a separate gap and still open.
+This gap was later closed. The resolver now handles Dhammapada range files and
+the Udāna, Itivuttaka, Sutta Nipāta, Theragāthā, and Therīgāthā layouts. The
+2026-08-25 strict audit reports zero unsupported citations; only a bare `KN`
+label would remain unresolvable because it does not identify a collection.
 
 ### Finding: MN 61 Anchors No Governed Vocabulary
 
@@ -489,9 +495,10 @@ state so the list cannot grow unnoticed.
    citations took orphan majors from 45 to 27 and orphans from 185 to 140,
    without a translation
 4. ~~`Iti 44`~~ -- **done 2026-08-21.** 69% dark cluster, 135 words, and the
-   last translation in the wave. `Iti` is in the verifier's `UNSUPPORTED` set,
-   so every citation it added was checked by hand instead -- which is how a
-   wrong one already in the lexicon was found
+   last translation in the wave. `Iti` was unsupported by the verifier at the
+   time, so every citation it added was checked by hand instead -- which is
+   how a wrong one already in the lexicon was found. The resolver now supports
+   Itivuttaka directly.
 
 **Wave 7 is complete.** Two of the five original entries have been withdrawn. `MN 70` and
 `SN 12.43` were both ranked on orphans that already-translated surfaces

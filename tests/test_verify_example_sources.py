@@ -123,6 +123,27 @@ class ReportTests(unittest.TestCase):
         self.assertEqual(report["summary"]["unsupported"], 1)
         self.assertEqual(report["summary"]["sources"], 0)
 
+    def test_render_text_lists_partial_and_absent_findings(self) -> None:
+        report = {
+            "summary": {
+                "examples": 2, "sources": 1, "ok": 0, "inflected": 0,
+                "inconclusive": 0, "partial": 1, "absent": 1,
+                "unfetched": 0, "unsupported": 0,
+            },
+            "findings": [
+                {"verdict": "partial", "record": "a", "index": 0,
+                 "source": "MN 1", "pali": "some words"},
+                {"verdict": "absent", "record": "b", "index": 0,
+                 "source": "MN 2", "pali": "missing words"},
+            ],
+        }
+
+        rendered = verify.render_text(report, top=10)
+
+        self.assertIn("[partial] a", rendered)
+        self.assertIn("[absent] b", rendered)
+        self.assertNotIn("Every verifiable citation checks out", rendered)
+
 
 class RangeBundleTests(unittest.TestCase):
     """SuttaCentral bundles peyyala vaggas, so a per-sutta URL can 404.
