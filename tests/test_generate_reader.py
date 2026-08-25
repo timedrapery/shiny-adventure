@@ -329,6 +329,38 @@ class GlossaryTests(unittest.TestCase):
         found = reader.glossary_for_page("The Dhamma explains each dhamma.", entries)
         self.assertEqual(dict(found), entries)
 
+    def test_longer_glossary_phrase_blocks_nested_unrelated_term(self) -> None:
+        entries = {
+            "clearly knowing": "clear awareness in action",
+            "knowing": "sense awareness",
+        }
+
+        found = dict(reader.glossary_for_page("They remain clearly knowing.", entries))
+
+        self.assertEqual(found, {"clearly knowing": "clear awareness in action"})
+
+    def test_wrapped_glossary_phrase_blocks_nested_unrelated_term(self) -> None:
+        entries = {
+            "clearly knowing": "clear awareness in action",
+            "knowing": "sense awareness",
+        }
+
+        found = dict(reader.glossary_for_page("They remain clearly\nknowing.", entries))
+
+        self.assertEqual(found, {"clearly knowing": "clear awareness in action"})
+
+    def test_nested_term_is_kept_when_it_also_appears_standalone(self) -> None:
+        entries = {
+            "clearly knowing": "clear awareness in action",
+            "knowing": "sense awareness",
+        }
+
+        found = dict(
+            reader.glossary_for_page("Clearly knowing differs from knowing.", entries)
+        )
+
+        self.assertEqual(found, entries)
+
     def test_standalone_glossary_only_collapses_identical_case_variants(self) -> None:
         page = reader.render_glossary().casefold()
         self.assertEqual(page.count("<dfn>bhante</dfn>"), 1)

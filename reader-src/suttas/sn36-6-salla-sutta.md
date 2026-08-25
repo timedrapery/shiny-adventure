@@ -236,7 +236,7 @@ The sixth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The First Teaching](sn56-11-dhammacakkappavattana-sutta.md)
+- [← What the Eightfold Path Means](sn45-8-vibhanga-sutta.md)
 - [All suttas](index.md)
 - [When Life Goes Up and Down →](an8-6-dutiyalokadhamma-sutta.md)
 

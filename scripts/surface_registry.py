@@ -289,6 +289,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn45-2-upaddha-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn45_8",
+        label="SN 45.8",
+        main_relpath="docs/translations/sn45-8-vibhanga-sutta.md",
+        notes_relpath="docs/translations/sn45-8-vibhanga-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn36_6",
         label="SN 36.6",
         main_relpath="docs/translations/sn36-6-salla-sutta.md",
@@ -422,6 +428,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn22_86": "87b39d295adc90ee1681ca017149892e5c98b5096d04ff0367ef5c72cc93bd09",
     "sn35_28": "b159e8dd510ce49333e7be928a5fd807c6b585af52fe3722e4677036a63b90a3",
     "sn45_2": "044d73b1c4a850b57400a297bad0fc923b9d8a75b48b4ff16295278264b03321",
+    "sn45_8": "5fe5ee1ceca67b328fa74a22dae3939a2d2822e29371234b0e1a8320fc24588f",
     "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
     "sn46_51": "089c5d05fdadf815ca6ab2fa0cbca72f7df0a9375d3fb5ba5d48544647584cb4",
     "sn48_10": "a7c91d4ed5b885b4e287022b0718eac6c0cf1e8bcbd17eab97776f39d01c90ec",
@@ -448,6 +455,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "sn22_86": "2026-08-24",
     "mn119": "2026-08-24",
     "sn45_2": "2026-08-24",
+    "sn45_8": "2026-08-25",
     "an8_6": "2026-08-24",
     "mn38": "2026-08-24",
     "mn137": "2026-08-24",
@@ -581,59 +589,65 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "memorize rather than a diagnosis to recognize.",
         reader_title="The First Teaching",
     ),
+    "sn45_8": ReaderMeta(
+        "Vibhaṅga Sutta", 2, 2,
+        "The eightfold path unpacked one factor at a time: how to understand, "
+        "speak, act, work, train, remember, and compose the heart.",
+        reader_title="What the Eightfold Path Means",
+    ),
     "sn36_6": ReaderMeta(
-        "Salla Sutta", 2, 2,
+        "Salla Sutta", 2, 3,
         "The one-arrow/two-arrows teaching: physical pain versus the added "
         "mental suffering piled on top of it. Concrete, bodily, and "
         "immediately recognizable.",
         reader_title="One Arrow, Not Two",
     ),
     "an8_6": ReaderMeta(
-        "Dutiyalokadhamma Sutta", 2, 3,
+        "Dutiyalokadhamma Sutta", 2, 4,
         "Gain and loss, praise and blame, pleasure and pain happen to everyone. "
         "The difference is whether they take over the heart.",
         reader_title="When Life Goes Up and Down",
     ),
     "an2_9": ReaderMeta(
-        "Cariya Sutta", 2, 4,
+        "Cariya Sutta", 2, 5,
         "Two bright qualities protect the human world: conscience, the inward "
         "sense of integrity, and moral caution about harm and consequences.",
         reader_title="What Keeps the World Human",
     ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 5,
+        "Vattha Sutta", 2, 6,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an3_69": ReaderMeta(
-        "Akusalamūla Sutta", 2, 6,
+        "Akusalamūla Sutta", 2, 7,
         "Greed, aversion, and delusion are traced from their roots to their "
         "effects on action, speech, power, and the heart—then contrasted with "
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
-        "Anusota Sutta", 2, 7,
+        "Anusota Sutta", 2, 8,
         "Four ways of meeting the current: drifting with it, struggling "
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
     "sn1_1": ReaderMeta(
-        "Oghataraṇa Sutta", 2, 8,
+        "Oghataraṇa Sutta", 2, 9,
         "A deity asks how the Buddha crossed a flood. The answer refuses both "
         "standing still and forceful struggle, preserving a compact paradox.",
         reader_title="How Do You Cross the Flood?",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 9,
+        "Patoda Sutta", 2, 10,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 10,
+        "Dutiyasāriputta Sutta", 2, 11,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -641,7 +655,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 11,
+        "Saddha Sutta", 2, 12,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -931,7 +945,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Four truths and path": (
         "sn56_11", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
-        "mn117", "an6_63", "sn45_2", "an8_6", "an4_5", "sn1_1",
+        "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_86", "sn22_89", "mn131",
@@ -959,7 +973,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
-        "sn22_48", "an6_63", "dn15",
+        "sn22_48", "sn45_8", "an6_63", "dn15",
     ),
     "Teaching with verse": (
         "mn131", "iti44", "an11_9", "an8_6", "an4_5",

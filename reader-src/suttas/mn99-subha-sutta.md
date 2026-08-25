@@ -583,8 +583,10 @@ whose realm the Tathāgata lives, the arahant, the rightly self-awakened
 Buddha!"
 
 <details class="reader-terms">
-<summary>Words used in this translation (24)</summary>
+<summary>Words used in this translation (26)</summary>
 <dl>
+<dt><dfn>agitated distraction</dfn></dt>
+<dd>Being pulled off track by restlessness and nagging regret.</dd>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
 <dt><dfn>aversive distraction</dfn></dt>
@@ -627,6 +629,8 @@ Buddha!"
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
+<dt><dfn>sensual distraction</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>uncertain distraction</dfn></dt>
@@ -658,6 +662,7 @@ Buddha!"
 </nav>
 
 
+*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
 *[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
@@ -679,6 +684,7 @@ Buddha!"
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
+*[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.

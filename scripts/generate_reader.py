@@ -207,12 +207,58 @@ def glossary_abbreviations_for_page(
     body: str,
     glossary: dict[str, str],
 ) -> list[tuple[str, str]]:
-    """Exact-case definitions that can become inline abbreviation notes."""
-    return [
-        (term, gloss)
-        for term, gloss in sorted(glossary.items(), key=lambda item: item[0].casefold())
-        if re.search(rf"(?<!\w){re.escape(term)}(?!\w)", body)
-    ]
+    """Exact-case definitions that can become inline abbreviation notes.
+
+    Prefer the longest glossary phrase at an overlapping location. Without
+    that rule, `clearly knowing` also pulled in the unrelated `knowing` gloss
+    from the viññāṇa family.
+    """
+    found = select_glossary_matches(body, glossary.items())
+    return sorted(found, key=lambda item: item[0].casefold())
+
+
+def select_glossary_matches(
+    body: str,
+    entries,
+    *,
+    flags: int = 0,
+) -> list[tuple[str, str]]:
+    """Select whole-term matches, preferring longer overlapping phrases.
+
+    When matching without regard to case, an exact-case candidate wins over a
+    same-length case variant. This preserves distinct entries such as
+    ``Dhamma`` and ``dhamma`` while still recognizing a phrase at the start of
+    a sentence.
+    """
+    candidates: list[tuple[int, bool, int, int, str, str]] = []
+    searchable = body.casefold() if flags & re.I else body
+    normalized_searchable = " ".join(searchable.split())
+    for term, gloss in entries:
+        needle = term.casefold() if flags & re.I else term
+        parts = re.split(r"\s+", term)
+        if " ".join(needle.split()) not in normalized_searchable:
+            continue
+        pattern = r"\s+".join(re.escape(part) for part in parts)
+        for match in re.finditer(rf"(?<!\w){pattern}(?!\w)", body, flags=flags):
+            start, end = match.span()
+            matched_text = " ".join(match.group().split())
+            normalized_term = " ".join(term.split())
+            candidates.append(
+                (-len(term), matched_text != normalized_term, start, end, term, gloss)
+            )
+
+    occupied = bytearray(len(body))
+    found: list[tuple[str, str]] = []
+    seen: set[tuple[str, str]] = set()
+    for _, _, start, end, term, gloss in sorted(candidates):
+        if any(occupied[start:end]):
+            continue
+        occupied[start:end] = b"\x01" * (end - start)
+        identity = (term, gloss)
+        if identity not in seen:
+            found.append((term, gloss))
+            seen.add(identity)
+    return found
 
 
 def glossary_for_page(body: str, glossary: dict[str, str]) -> list[tuple[str, str]]:
@@ -226,25 +272,12 @@ def glossary_for_page(body: str, glossary: dict[str, str]) -> list[tuple[str, st
     gloss (`Dhamma` and `dhamma`). Case variants with the same definition are
     collapsed for the visible list, while inline abbreviations stay exact-case.
     """
-    exact = glossary_abbreviations_for_page(body, glossary)
-    exact_folded_terms = {term.casefold() for term, _ in exact}
+    matches = select_glossary_matches(body, glossary.items(), flags=re.I)
     found: list[tuple[str, str]] = []
     seen: set[tuple[str, str]] = set()
-    for term, gloss in exact:
+    for term, gloss in matches:
         identity = (term.casefold(), gloss)
         if identity not in seen:
-            found.append((term, gloss))
-            seen.add(identity)
-
-    # A sentence-initial capitalization may not have its own glossary entry.
-    # Add a case-insensitive fallback only for definitions not already shown.
-    for term, gloss in sorted(glossary.items(), key=lambda item: item[0].casefold()):
-        if term.casefold() in exact_folded_terms:
-            continue
-        identity = (term.casefold(), gloss)
-        if identity in seen:
-            continue
-        if re.search(rf"(?<!\w){re.escape(term)}(?!\w)", body, flags=re.I):
             found.append((term, gloss))
             seen.add(identity)
     return sorted(found, key=lambda item: item[0].casefold())

@@ -1,6 +1,6 @@
 # All Suttas
 
-All 55 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 56 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -50,6 +50,7 @@ All 55 translations, grouped by collection. If you would rather be guided, use [
 - [**The Fire Sermon**](sn35-28-aditta-sutta.md) — SN 35.28 · Āditta Sutta · about 4 min · 675 words · Set 5. The fire sermon.
 - [**One Arrow, Not Two**](sn36-6-salla-sutta.md) — SN 36.6 · Salla Sutta · about 5 min · 783 words · Set 2. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it.
 - [**Good Friendship Is the Whole Path**](sn45-2-upaddha-sutta.md) — SN 45.2 · Upaḍḍha Sutta · about 2 min · 330 words · Set 1. Ānanda calls good friendship half the spiritual life; the Buddha calls it the whole.
+- [**What the Eightfold Path Means**](sn45-8-vibhanga-sutta.md) — SN 45.8 · Vibhaṅga Sutta · about 3 min · 524 words · Set 2. The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart.
 - [**What Feeds and Starves Distraction**](sn46-51-ahara-sutta.md) — SN 46.51 · Āhāra Sutta · about 9 min · 1,518 words · Set 3. What feeds the distractions that block practice, and what starves them.
 - [**The Five Faculties**](sn48-10-dutiyavibhanga-sutta.md) — SN 48.10 · Dutiyavibhaṅga Sutta · about 4 min · 643 words · Set 5. Five definitions, one per faculty, each written as something a person does rather than something they have.
 - [**The Four Bases of Power**](sn51-13-chandasamadhi-sutta.md) — SN 51.13 · Chandasamādhi Sutta · about 3 min · 485 words · Set 5. One short formula, stated four times, defining the four bases of power.

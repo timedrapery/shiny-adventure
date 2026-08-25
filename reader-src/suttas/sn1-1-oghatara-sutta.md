@@ -65,7 +65,7 @@ Thinking, "The Teacher agrees with me," the deity bowed to the Buddha,
 circled him clockwise, and vanished right there.
 
 <details class="reader-terms">
-<summary>Words used in this translation (8)</summary>
+<summary>Words used in this translation (6)</summary>
 <dl>
 <dt><dfn>brahmin</dfn></dt>
 <dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
@@ -77,10 +77,6 @@ circled him clockwise, and vanished right there.
 <dd>A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.</dd>
 <dt><dfn>flood</dfn></dt>
 <dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
-<dt><dfn>quenching</dfn></dt>
-<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
-<dt><dfn>world</dfn></dt>
-<dd>A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta&#x27;s own framing makes clear which sense is meant.</dd>
 <dt><dfn>world&#x27;s entanglement</dfn></dt>
 <dd>The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.</dd>
 </dl>
@@ -113,6 +109,4 @@ circled him clockwise, and vanished right there.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
 *[deity]: A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.
 *[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
-*[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
-*[world]: A common word in these texts that shifts meaning by context -- sometimes the physical cosmos beings are reborn into, sometimes (as in MN 63) a specific philosophical question about whether existence as a whole is eternal or finite. Each sutta's own framing makes clear which sense is meant.
 *[world's entanglement]: The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.

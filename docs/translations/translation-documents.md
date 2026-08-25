@@ -217,6 +217,11 @@ Current SN 45.2 surfaces:
 - [sn45-2-upaddha-sutta.md](sn45-2-upaddha-sutta.md): main shareable translation text
 - [sn45-2-upaddha-sutta-notes.md](sn45-2-upaddha-sutta-notes.md): companion translator notes and rationale
 
+Current SN 45.8 surfaces:
+
+- [sn45-8-vibhanga-sutta.md](sn45-8-vibhanga-sutta.md): main shareable translation text
+- [sn45-8-vibhanga-sutta-notes.md](sn45-8-vibhanga-sutta-notes.md): companion translator notes and rationale
+
 Current SN 36.6 surfaces:
 
 - [sn36-6-salla-sutta.md](sn36-6-salla-sutta.md): main shareable translation text

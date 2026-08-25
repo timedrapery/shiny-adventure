@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (55 total)
+## Completed Surfaces (56 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -64,6 +64,11 @@ Use that full roadmap as the source of truth for:
 - `SN 48.10` Dutiyavibhaṅga Sutta (The Five Faculties) — the first translation
   item after the Wave 8 citation and source audit
 
+### Wave 9: Source-Verified Reader Value
+- `SN 45.8` Vibhaṅga Sutta (What the Eightfold Path Means) — complete
+  2026-08-25. Defines every path factor and anchors the previously orphaned
+  major `ariya` record.
+
 ### Outside the Wave Sequence
 - `MN 61` Ambalaṭṭhikarāhulovāda Sutta (Advice to Rāhula on Lying) —
   requested directly rather than drawn from a wave audit. Control surface for
@@ -114,8 +119,8 @@ Use that full roadmap as the source of truth for:
 
 The older queue is complete. A fresh 55-surface, 1,155-term audit was run on
 2026-08-25 after repairing every partial source match and removing AN 4.41 as
-a false `adhicitta` anchor. Wave 9 is now committed to SN 45.8, SN 12.44,
-AN 3.88, and Iti 49. Use the durable
+a false `adhicitta` anchor. SN 45.8 is complete; the active Wave 9 queue is now
+SN 12.44, AN 3.88, and Iti 49. Use the durable
 [Wave 9 execution plan](wave-9-execution-plan.md) for the queue, validation
 gates, and handoff procedure. The full reasoning and historical audit state
 remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).

@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 55 translations in this collection, for someone new to this material.
+A suggested order for reading the 56 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -20,6 +20,7 @@ Texts that set the tone before anything technical shows up: why to trust this ma
 The core claim and the practical response to it, kept concrete.
 
 - [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) (SN 56.11, Dhammacakkappavattana Sutta) — about 7 min · 1,221 words. The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.
+- [**What the Eightfold Path Means**](suttas/sn45-8-vibhanga-sutta.md) (SN 45.8, Vibhaṅga Sutta) — about 3 min · 524 words. The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart.
 - [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) (SN 36.6, Salla Sutta) — about 5 min · 783 words. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. Concrete, bodily, and immediately recognizable.
 - [**When Life Goes Up and Down**](suttas/an8-6-dutiyalokadhamma-sutta.md) (AN 8.6, Dutiyalokadhamma Sutta) — about 5 min · 824 words. Gain and loss, praise and blame, pleasure and pain happen to everyone. The difference is whether they take over the heart.
 - [**What Keeps the World Human**](suttas/an2-9-cariya-sutta.md) (AN 2.9, Cariya Sutta) — about 1 min · 109 words. Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.
