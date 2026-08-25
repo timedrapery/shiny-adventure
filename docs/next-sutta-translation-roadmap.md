@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (52 total)
+## Completed Surfaces (55 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -89,6 +89,12 @@ Use that full roadmap as the source of truth for:
 - `AN 2.9` Cariya Sutta — a 63-word running-text anchor for `hiri` and
   `ottappa`, rendered as `conscience` and `moral caution`. The earlier
   843-word estimate counted the entire AN 2.1–10 cache bundle.
+- `AN 3.69` Akusalamūla Sutta — a compact account of greed, aversion,
+  delusion, and their opposites in action.
+- `AN 4.5` Anusota Sutta — four ways of meeting the stream: going with it,
+  going against it, standing firm, and crossing to the far shore.
+- `SN 1.1` Oghataraṇa Sutta — the paradox of crossing the flood without
+  standing still and without struggling.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
@@ -106,13 +112,13 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-The Wave 8 citation sweep and DN 22 repair are complete, and SN 48.10 and
-MN 119 are translated. MN 131, SN 22.86, SN 45.2, AN 8.6, and AN 2.9 were
-added by direct request or reader-value review rather than by audit ranking.
-The older queue is now complete. Run a fresh leverage and reader-value audit
-before naming a Wave 9; do not promote the next numerical candidate without
-checking its citations and source in context. The full reasoning and
-historical audit state remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
+The older queue is complete. A fresh 55-surface, 1,155-term audit was run on
+2026-08-25 after repairing every partial source match and removing AN 4.41 as
+a false `adhicitta` anchor. Wave 9 is now committed to SN 45.8, SN 12.44,
+AN 3.88, and Iti 49. Use the durable
+[Wave 9 execution plan](wave-9-execution-plan.md) for the queue, validation
+gates, and handoff procedure. The full reasoning and historical audit state
+remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 

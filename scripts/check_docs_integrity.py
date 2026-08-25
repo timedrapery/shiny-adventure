@@ -23,6 +23,25 @@ REQUIRED_PATHS = (
     ".github/ISSUE_TEMPLATE/config.yml",
 )
 
+# These are deliberately narrow, current-state declarations. Historical
+# snapshots elsewhere in the roadmaps may retain the count that applied when
+# an audit was run, but these lines must always agree with the live registry.
+CURRENT_CORPUS_COUNT_TEMPLATES = {
+    "README.md": (
+        "{count} early Buddhist discourses",
+        "{count} registered translation surfaces",
+    ),
+    "CHANGELOG.md": ("Reworked all {count} reader pages",),
+    "docs/next-sutta-translation-roadmap.md": (
+        "Completed Surfaces ({count} total)",
+    ),
+    "docs/next-suttas-roadmap.md": ("it now has {count}",),
+    "docs/translation-workflow-plan.md": (
+        "{count} governed translation surfaces",
+        "All {count} surfaces report",
+    ),
+}
+
 FENCED_CODE_RE = re.compile(r"```.*?```", re.DOTALL)
 HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.DOTALL)
 MARKDOWN_LINK_RE = re.compile(r"(?<!!)(?:\[[^\]]+\])\(([^)]+)\)")
@@ -169,6 +188,34 @@ def collect_docs_naming_failures(repo_root: Path = REPO_ROOT) -> list[str]:
     return failures
 
 
+def registered_surface_count() -> int:
+    try:
+        from scripts.surface_registry import TRANSLATION_SURFACES
+    except ModuleNotFoundError:
+        from surface_registry import TRANSLATION_SURFACES
+    return len(TRANSLATION_SURFACES)
+
+
+def collect_corpus_count_failures(
+    repo_root: Path = REPO_ROOT, expected_count: int | None = None
+) -> list[str]:
+    """Keep selected current-state documentation tied to the live registry."""
+    count = registered_surface_count() if expected_count is None else expected_count
+    failures: list[str] = []
+    for relative_path, templates in CURRENT_CORPUS_COUNT_TEMPLATES.items():
+        path = repo_root / relative_path
+        if not path.exists():
+            continue
+        text = read_text(path)
+        for template in templates:
+            expected = template.format(count=count)
+            if expected not in text:
+                failures.append(
+                    f"{relative_path}: current corpus count must include '{expected}'"
+                )
+    return failures
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.parse_args()
@@ -176,6 +223,7 @@ def main() -> int:
     failures = [
         *collect_metadata_failures(REPO_ROOT),
         *collect_docs_naming_failures(REPO_ROOT),
+        *collect_corpus_count_failures(REPO_ROOT),
         *collect_markdown_failures(REPO_ROOT),
     ]
     if failures:

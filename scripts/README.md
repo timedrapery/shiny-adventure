@@ -17,7 +17,9 @@ generating script first.
 - `python scripts/run_checks.py`
   Runs the full verification suite in the same order used by CI.
 - `python scripts/check_docs_integrity.py`
-  Validates internal Markdown links and required repository-surface metadata files.
+  Validates internal Markdown links, required repository-surface metadata
+  files, and selected current corpus-count declarations against the live
+  surface registry.
 - `python scripts/check_readability_reviews.py`
   Validates neutral readability-review coverage, companion-note metadata,
   review status, and translation-body hashes for every registered surface.
@@ -71,8 +73,12 @@ generating script first.
   Regenerates and verifies the whole reader's edition: sutta pages, the Start Here reading path, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/`, reader metadata in `scripts/surface_registry.py`, and structured Essential Five guidance in `includes/newcomer-guides/`. Legacy `About this text` and `Before you read` introductions on other pages are preserved. Use `--write` to regenerate.
 - `python scripts/check_markdown_structure.py`
   Fails when a bulleted list has been flattened into running prose by a paragraph rewriter, which is the damage that went unnoticed in MN 118 for three commits.
-- `python scripts/verify_example_sources.py`
-  Checks that each `example_phrase` cites a sutta that actually contains its Pali, by fetching the Bilara root text. Needs network access and is deliberately outside `run_checks.py`. Read the verdict definitions in the script before acting: `inflected` and `inconclusive` are usually not errors, and AN numbering differs between editions.
+- `python scripts/verify_example_sources.py --strict`
+  Checks that each `example_phrase` cites a sutta that actually contains its
+  Pali, by fetching the Bilara root text. Needs network access and is
+  deliberately outside `run_checks.py`. Strict mode rejects `partial` and
+  `absent` matches; `inflected` and `inconclusive` remain review signals rather
+  than automatic failures, and AN numbering differs between editions.
 - `python scripts/plain_english_audit.py`
   Reports plain-English readability signals in canonical translation surfaces, with guidance per signal. Generated reader copies are not double-counted. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
 - `python scripts/voice_consistency_audit.py`

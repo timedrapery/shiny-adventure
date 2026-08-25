@@ -1,16 +1,26 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
+import { readdirSync } from "node:fs";
 
-const representativePages = [
+const readerUtilityPages = [
   "/",
   "/start-here/",
   "/find-a-sutta/",
-  "/suttas/sn22-86-anuradha-sutta/",
-  "/suttas/mn131-bhaddekaratta-sutta/",
   "/glossary/",
 ];
 
-for (const path of representativePages) {
+const suttaPages = readdirSync(new URL("../../site/suttas/", import.meta.url), {
+  withFileTypes: true,
+})
+  .filter((entry) => entry.isDirectory())
+  .map((entry) => `/suttas/${entry.name}/`)
+  .sort();
+
+test("rendered accessibility suite covers the complete sutta corpus", () => {
+  expect(suttaPages.length).toBeGreaterThan(50);
+});
+
+for (const path of [...readerUtilityPages, ...suttaPages]) {
   test(`${path} has no serious rendered accessibility violations`, async ({ page }) => {
     await page.goto(path);
     const results = await new AxeBuilder({ page }).analyze();

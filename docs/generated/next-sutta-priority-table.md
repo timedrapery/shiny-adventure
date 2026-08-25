@@ -1,26 +1,28 @@
 # Next Sutta Priority Table
 
-This compact table summarizes the current next-sutta audit.
+Snapshot: 2026-08-25, after the 55-surface source and leverage audit.
 
-The citation counts are a snapshot of live `sutta_references` coverage across
-`terms/major/` and `terms/minor/` at the time of this planning pass. Use
-[../next-suttas-roadmap.md](../next-suttas-roadmap.md) for the narrative
-rationale and the post-translation update rules.
+The corpus has 1,155 term records. Of 633 cited records, 522 are anchored by a
+translated surface and 111 are orphaned; 13 of those orphans are major terms.
+Use the [Wave 9 execution plan](../wave-9-execution-plan.md) for the committed
+order and delivery gates, and the
+[full roadmap](../next-suttas-roadmap.md) for historical method notes.
 
-| Rank | Sutta | Live refs | Major refs | Main leverage | Likely policy pressure |
-| --- | --- | ---: | ---: | --- | --- |
-| 1 | `SN 12.2` Paṭiccasamuppāda-vibhaṅga | 59 | 24 | dependent arising formulas | `condition` / `quenching`, link inheritance, `birth` / `rebirth` |
-| 2 | `DN 2` Sāmaññaphala | 35 | 21 | hindrances, jhāna, training sequence | stable practice-sequence English, jhāna family alignment |
-| 3 | `SN 56.11` Dhammacakkappavattana | 31 | 23 | four truths, `taṇhā`, clung-to heaps | truth-family formulas, `five clung-to heaps`, non-slogan prose |
-| 4 | `MN 2` Sabbāsava | 11 | 7 | `āsava`, wise attention, method sequence | outflow family, method verbs, `āsavakkhaya` close |
-| 5 | `MN 9` Sammādiṭṭhi | 28 | 22 | roots, right view, dependent arising | root-family consistency, long analytical list control |
-| 6 | `MN 44` Cūḷavedalla | 10 | 9 | feeling / recognition / knowing distinctions | tighter experience-process boundaries |
-| 7 | `MN 64` Mahāmālukya | 11 | 8 | underlying tendencies, fetters | lower / higher fetter handling, residue-family contrast |
-| 8 | `DN 15` Mahānidāna | 8 | 3 | `viññāṇa` / `nāmarūpa` conditionality | anti-metaphysical `knowing`, reciprocal conditional lines |
-| 9 | `SN 22.89` Khemaka | 7 | 6 | identity residue in the heap family | `I am` conceit, self-view versus residual tendency |
-| 10 | `SN 22.48` Khandha | 11 | 2 | collective and constituent heap formulas | `five heaps` versus `five clung-to heaps`, compound stability |
-| 11 | `MN 7` Vattha | 6 | 6 | `kilesa` / `upakkilesa` family | broad defilement versus narrower corruption language |
-| 12 | `SN 36.6` Salla | 1 | 1 | pain and reactive doubling | bodily pain versus mental distress, feeling-response formulas |
-| 13 | `SN 46.51` Āhāra | 6 | 6 | feeding and starving practice families | nourishment-side conditional formulas |
-| 14 | `MN 39` Mahā-Assapura | 9 | 8 | long practice progression | release knowledge close, non-drifting progression prose |
-| 15 | `AN 10.60` Girimānanda | 6 | 2 | practice perceptions | three-marks perception-family note surface |
+| Queue | Sutta | Pali length | Orphan major | Reader and policy value |
+| ---: | --- | ---: | --- | --- |
+| 1 | `SN 45.8` Vibhaṅga | 300 words | `ariya` | complete noble-eightfold-path explanation; path-factor cluster |
+| 2 | `SN 12.44` Loka | 182 words | `loka` | world arising and ending through lived sensory experience |
+| 3 | `AN 3.88` Tatiyasikkhā | 230 words | `adhicitta` | threefold training; replaces the false AN 4.41 leverage signal |
+| 4 | `Iti 49` Diṭṭhigata | 173 words | `pariyuṭṭhāna` | active takeover by views; abandonment-sequence cluster |
+
+Fallback: `SN 35.82` is an 85-word alternate anchor for `loka`. Longer
+one-anchor candidates such as DN 21 and DN 1 are deferred. Enumeration and
+peyyāla stubs remain formula or cluster-sheet work unless hand inspection
+shows a genuinely substantive short text.
+
+Reproduce the numbers:
+
+```bash
+python scripts/audit_surface_leverage.py --top 20
+python scripts/verify_example_sources.py --strict --top 30
+```

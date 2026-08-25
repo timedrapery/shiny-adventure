@@ -163,7 +163,9 @@ structure check. It also runs `check_reader_accessibility.py`, which validates
 heading hierarchy, reading metadata, skip links, visible definitions, named
 navigation, guide coverage, flowing indexes, and the site accessibility asset.
 `mkdocs serve` gives a live preview on localhost; `mkdocs build --strict` is the
-rendered-site gate used in CI.
+rendered-site gate used in CI. The Playwright/axe suite discovers every built
+directory under `site/suttas/`, so every registered sutta page receives a
+rendered serious/critical accessibility scan rather than a sample-only check.
 
 ## The downloadable edition
 

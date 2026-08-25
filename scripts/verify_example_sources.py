@@ -414,9 +414,12 @@ def render_text(report: dict[str, object], top: int) -> str:
         f"  unfetched   {s['unfetched']}",
         f"  unsupported {s['unsupported']}",
     ]
-    problems = [f for f in report["findings"] if f["verdict"] == "absent"]
+    problems = [
+        f for f in report["findings"]
+        if f["verdict"] in {"partial", "absent"}
+    ]
     if problems:
-        lines.extend(["", "Citations that do not check out:"])
+        lines.extend(["", "Citations needing review:"])
         for f in sorted(problems, key=lambda x: (x["verdict"], x["record"]))[:top]:
             lines.append(
                 f"- [{f['verdict']}] {f['record']} example[{f['index']}] "
@@ -426,6 +429,7 @@ def render_text(report: dict[str, object], top: int) -> str:
             lines.append(f"  ... and {len(problems) - top} more")
         lines.extend([
             "",
+            "`partial` means only some words of the quoted phrase appear;",
             "`absent` means no word of the phrase appears in the cited sutta.",
             "Before treating one as wrong, check the fetched sutta's title: AN",
             "numbering differs between editions, so an AN citation may simply",
@@ -433,7 +437,7 @@ def render_text(report: dict[str, object], top: int) -> str:
             "listed here; neither is reliably an error.",
         ])
     else:
-        lines.extend(["", "- Every verifiable citation checks out."])
+        lines.extend(["", "- No partial or absent citation matches."])
     return "\n".join(lines)
 
 
@@ -456,7 +460,7 @@ def main() -> int:
     )
     parser.add_argument(
         "--strict", action="store_true",
-        help="Exit non-zero if any citation is absent or inflected.",
+        help="Exit non-zero if any citation is absent or partial.",
     )
     args = parser.parse_args()
 
@@ -468,7 +472,7 @@ def main() -> int:
 
     if args.strict:
         s = report["summary"]
-        if s["absent"]:
+        if s["absent"] or s["partial"]:
             return 1
     return 0
 

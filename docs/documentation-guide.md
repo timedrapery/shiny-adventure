@@ -94,6 +94,7 @@ do not override live term records or normative policy docs.
 - [`translations/translation-documents.md`](translations/translation-documents.md): index of shareable translation pairs
 - [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next leverage-driven sutta translation passes
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
+- [`wave-9-execution-plan.md`](wave-9-execution-plan.md): current queue, validation gates, and machine-independent handoff procedure
 - [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for completed first-wave translation surfaces
 - [`asava-method-sequence-sheet.md`](asava-method-sequence-sheet.md): control sheet for the `MN 2` outflow-method sequence
 - [`tanha-origin-formula-sheet.md`](tanha-origin-formula-sheet.md): control sheet for the `SN 56.11` taṇhā-definition line
@@ -128,6 +129,7 @@ do not override live term records or normative policy docs.
 - [`bulk-editing-playbook.md`](bulk-editing-playbook.md): safe operating pattern for large edit batches
 - [`candidate-term-workflow.md`](candidate-term-workflow.md): intake and review flow for proposed terms
 - [`translation-workflow-plan.md`](translation-workflow-plan.md): current editorial sequencing and roadmap
+- [`wave-9-execution-plan.md`](wave-9-execution-plan.md): current executable plan and restart procedure
 - [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next translation-document additions
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
 - [`expansion-batch-001.md`](expansion-batch-001.md): concrete expansion batch reference

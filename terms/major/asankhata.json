@@ -17,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Unconditioned language used as a doctrinal designation on the consummation side.",
-  "notes": "The project prefers unconditioned because it is the clearest doctrinal English for this contrastive designation. Unconstructed and unfabricated remain controlled alternates when the contrast with saṅkhata or saṅkhāra needs to stay sharper. The OSF glossary supports unconditioned as the house default, and Ud 8.3 supports the canonical asaṅkhata-dhātu expression. In this repository, asaṅkhata is not just another name to rotate in for nibbāna: it marks the unconditioned aspect or designation, while nibbāna remains the governing consummation-side headword. It also differs from amata, which highlights deathless language rather than the conditioned/unconditioned contrast. Translators should therefore resist turning asaṅkhata into vague metaphysics, abstract transcendence, or an eternal substrate.",
+  "notes": "The project prefers unconditioned because it is the clearest doctrinal English for this contrastive designation. Unconstructed and unfabricated remain controlled alternates when the contrast with saṅkhata or saṅkhāra needs to stay sharper. The OSF glossary supports unconditioned as the house default, and Ud 8.3 directly supports asaṅkhata in its unborn, unbecome, unmade, unconditioned sequence. In this repository, asaṅkhata is not just another name to rotate in for nibbāna: it marks the unconditioned aspect or designation, while nibbāna remains the governing consummation-side headword. It also differs from amata, which highlights deathless language rather than the conditioned/unconditioned contrast. Translators should therefore resist turning asaṅkhata into vague metaphysics, abstract transcendence, or an eternal substrate.",
   "context_rules": [
     {
       "context": "In most doctrinal contrasts with saṅkhata",
@@ -48,12 +48,6 @@
     "sankhata"
   ],
   "example_phrases": [
-    {
-      "pali": "asaṅkhata dhātu",
-      "translation": "the unconditioned element",
-      "notes": "Shows the classic doctrinal expression for the unconditioned.",
-      "source": "Ud 8.3"
-    },
     {
       "pali": "asaṅkhata",
       "translation": "the unconditioned",
@@ -88,7 +82,7 @@
     {
       "source": "Ud 8.3",
       "kind": "context-rule",
-      "scope": "Supports asaṅkhata and asaṅkhata-dhātu as governed doctrinal designations."
+      "scope": "Directly supports asaṅkhata in the unborn, unbecome, unmade, unconditioned sequence."
     }
   ],
   "translation_policy": {

@@ -52,7 +52,7 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-08-24
 
-- 52 governed translation surfaces and 52 generated reader pages. SN 48.10
+- 55 governed translation surfaces and 55 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
@@ -65,7 +65,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 52 surfaces report no automated plain-English register signals. The
+- All 55 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.
@@ -456,9 +456,9 @@ Run `python scripts/verify_example_sources.py` after any pass that adds or
 edits `example_phrases`. It is opt-in rather than part of `run_checks.py`
 because it needs network access.
 
-The sweep currently reports zero `absent`, zero `unfetched`, and zero
-`partial`. It reports 149 `inflected`, which is ordinary lemma citation and not
-an error.
+The 2026-08-25 sweep reports zero `absent`, zero `unfetched`, zero
+`unsupported`, and zero `partial` across 804 examples. It reports 135
+`inflected`, which is ordinary lemma citation and not an automatic error.
 
 **The `partial` verdict was misread until 2026-08-21.** This section used to
 say `partial` is usually the right sutta quoted with slightly wrong wording,
@@ -479,27 +479,21 @@ neither fails nor passes. Ten citations across five suttas sat there
 unverified. `resolve_source` now falls back to the range bundle, and all ten
 resolved without turning up a single wrong citation.
 
-One gap is still open: `Dhp`, `Ud`, `Iti`, `Snp`, `Thag`, `Thig`, and `KN`
-are in the `UNSUPPORTED` set, so 27 citations are never checked at all. If a
-verse citation is wrong, nothing in the repository would notice.
-
-**That gap has now produced a real defect.** Translating `Iti 44` on
-2026-08-21 meant hand-checking the four `nibbana-dhatu` records against the
-cached root text, and one of them cited `sa-upādisesā nibbānadhātu` -- a
-hyphenated form the text does not contain. It had sat there unnoticed because
-no script can read `Iti`. The fix was trivial; finding it was not, and nothing
-except translating the sutta would have surfaced it. The other three verified
-clean. Treat the remaining 27 unsupported citations as unverified rather than
-as passing, and hand-check any of them that a new surface touches.
+The Khuddaka resolver gap is closed for `Dhp`, `Ud`, `Iti`, `Snp`, `Thag`, and
+`Thig`; only a bare `KN` label is intrinsically unresolvable because it does
+not identify a collection. On 2026-08-25 the verifier was also changed to list
+`partial` matches and make strict mode fail on them. All eight live partials
+were repaired. The resulting audit covers 804 examples with zero partial,
+absent, unfetched, or unsupported matches.
 
 ## Concrete Next Tasks
 
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use [next-suttas-roadmap.md](next-suttas-roadmap.md) as the source-of-truth ranked roadmap for the next outward-facing sutta additions, and use [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view extracted from it.
+- Use the [Wave 9 execution plan](wave-9-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
-- Waves 1 through 6 are complete at 41 surfaces, plus MN 61 added outside the wave sequence for 42 total. Wave 7 has not been drafted; running the audit method in [next-suttas-roadmap.md](next-suttas-roadmap.md) against the current state is the prerequisite for naming the next queue. See Open Work above for why that audit is more trustworthy now than it was.
+- Waves 1 through 8 and the direct-request additions are complete at 55 surfaces. The 2026-08-25 audit names SN 45.8, SN 12.44, AN 3.88, and Iti 49 as Wave 9; follow the packet and validation gates in the execution plan.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness

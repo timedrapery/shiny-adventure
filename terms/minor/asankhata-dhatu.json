@@ -13,15 +13,15 @@
     "transcendent realm"
   ],
   "definition": "Compound carrying the asaṅkhata headword into dhātu-language.",
-  "notes": "Keep this compound aligned with the asaṅkhata headword and avoid vague metaphysical or realm-language expansion.",
+  "notes": "Keep this compound aligned with the asaṅkhata headword and avoid vague metaphysical or realm-language expansion. Ud 8.3 directly anchors asaṅkhata, but does not quote the full compound; dhātu is governed here through the repository's compound policy.",
   "related_terms": [
     "asankhata"
   ],
   "example_phrases": [
     {
-      "pali": "asaṅkhata dhātu",
-      "translation": "the unconditioned element",
-      "notes": "Classic doctrinal expression governing the unconditioned family.",
+      "pali": "ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ",
+      "translation": "the unborn, unbecome, unmade, unconditioned",
+      "notes": "Ud 8.3 directly anchors the asaṅkhata side of this governed compound; it does not quote asaṅkhata-dhātu itself.",
       "source": "Ud 8.3"
     }
   ],
