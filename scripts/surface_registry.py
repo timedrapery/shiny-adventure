@@ -313,6 +313,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an3-65-kesamutta-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an3_69",
+        label="AN 3.69",
+        main_relpath="docs/translations/an3-69-akusalamula-sutta.md",
+        notes_relpath="docs/translations/an3-69-akusalamula-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an4_113",
         label="AN 4.113",
         main_relpath="docs/translations/an4-113-patoda-sutta.md",
@@ -408,6 +414,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn48_10": "a7c91d4ed5b885b4e287022b0718eac6c0cf1e8bcbd17eab97776f39d01c90ec",
     "an2_9": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
     "an3_65": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
+    "an3_69": "70ab99be572724b9051681ae7a8525b99dc129c518dbacf37dace77488aa0e44",
     "an4_113": "fcd415f18a8c6738f548ff4eaa1733bebe4b850e6f50e4787527ed2e2a08a166",
     "an6_63": "d40dbfbf1d64a355fffa1a14d98d2dcc07661ff33b73d59cd0815f697bc3fc6c",
     "an8_6": "0f532dc82ac30bda4c3a1d4300404280c988c6c08bf1272da8a91df46618d7da",
@@ -420,6 +427,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
     "an2_9": "2026-08-24",
+    "an3_69": "2026-08-24",
     "mn131": "2026-08-24",
     "sn22_86": "2026-08-24",
     "mn119": "2026-08-24",
@@ -582,15 +590,22 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
+    "an3_69": ReaderMeta(
+        "Akusalamūla Sutta", 2, 6,
+        "Greed, aversion, and delusion are traced from their roots to their "
+        "effects on action, speech, power, and the heart—then contrasted with "
+        "non-greed, non-aversion, and clarity.",
+        reader_title="What Drives Harm—and What Ends It",
+    ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 6,
+        "Patoda Sutta", 2, 7,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 7,
+        "Dutiyasāriputta Sutta", 2, 8,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -598,7 +613,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 8,
+        "Saddha Sutta", 2, 9,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -880,7 +895,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9",
+        "an2_9", "an3_69",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
@@ -900,7 +915,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
-        "mn38", "an8_6",
+        "mn38", "an8_6", "an3_69",
     ),
 }
 

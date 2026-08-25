@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 52 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 53 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -108,6 +108,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 11 min · 1,911 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>A mind is like cloth: dye it while it is dirty and the colour comes out wrong. Ethics introduced through a simile instead of a rule list.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
+<h2><a href="../suttas/an3-69-akusalamula-sutta/">What Drives Harm—and What Ends It</a></h2>
+<p class="sutta-card__reference">AN 3.69 · <span lang="pi">Akusalamūla Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,217 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Mind and senses</p>
+<p>Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four horses an 4.113 patoda sutta four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. a jolt of urgency after three fairly calm texts. ethics and conduct">
 <h2><a href="../suttas/an4-113-patoda-sutta/">Four Horses</a></h2>

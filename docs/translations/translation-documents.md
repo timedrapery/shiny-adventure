@@ -237,6 +237,11 @@ Current AN 3.65 surfaces:
 - [an3-65-kesamutta-sutta.md](an3-65-kesamutta-sutta.md): main shareable translation text
 - [an3-65-kesamutta-sutta-notes.md](an3-65-kesamutta-sutta-notes.md): companion translator notes and rationale
 
+Current AN 3.69 surfaces:
+
+- [an3-69-akusalamula-sutta.md](an3-69-akusalamula-sutta.md): main shareable translation text
+- [an3-69-akusalamula-sutta-notes.md](an3-69-akusalamula-sutta-notes.md): companion translator notes and rationale
+
 Current AN 4.113 surfaces:
 
 - [an4-113-patoda-sutta.md](an4-113-patoda-sutta.md): main shareable translation text
