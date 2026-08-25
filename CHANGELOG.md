@@ -8,6 +8,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 45.8, Vibhaṅga Sutta, with
+  companion notes, a newcomer introduction, complete definitions of all eight
+  path factors, and direct running-text support for `ariya`.
 - Added governed plain-English translations, companion notes, newcomer
   introductions, and generated reader pages for AN 3.69, AN 4.5, and SN 1.1.
 - Added a durable Wave 9 execution plan and newcomer-review workboard so work
@@ -58,6 +61,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Made per-page glossary generation prefer the longest matching phrase,
+  including phrases split by Markdown line wrapping, so a phrase such as
+  `clearly knowing` no longer picks up an unrelated gloss for `knowing`.
 - Repaired the example-source verifier so partial matches are visible and
   strict mode rejects them; corrected all eight partial citations in the live
   corpus.
@@ -80,7 +86,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 55 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 56 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

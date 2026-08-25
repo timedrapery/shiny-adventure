@@ -816,7 +816,7 @@ That is what the Buddha said.
 Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (36)</summary>
+<summary>Words used in this translation (35)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
@@ -858,8 +858,6 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>name-and-form</dfn></dt>
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
-<dt><dfn>nibbāna</dfn></dt>
-<dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -935,7 +933,6 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
-*[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.

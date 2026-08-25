@@ -537,9 +537,9 @@ And while this exposition was being spoken, the minds of sixty bhikkhus were
 released from the outflows through not taking anything personally.
 
 <details class="reader-terms">
-<summary>Words used in this translation (23)</summary>
+<summary>Words used in this translation (24)</summary>
 <dl>
-<dt><dfn>bhante</dfn></dt>
+<dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
@@ -583,6 +583,8 @@ released from the outflows through not taking anything personally.
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+<dt><dfn>This is not mine, I am not this, this is not my self</dfn></dt>
+<dd>A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.</dd>
 <dt><dfn>underlying tendency</dfn></dt>
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
 </dl>
@@ -610,8 +612,8 @@ released from the outflows through not taking anything personally.
 </nav>
 
 
-*[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
+*[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
@@ -631,4 +633,5 @@ released from the outflows through not taking anything personally.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
+*[This is not mine, I am not this, this is not my self]: A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.

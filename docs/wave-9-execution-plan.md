@@ -8,10 +8,10 @@ the baseline, and continue without relying on chat history.
 
 Snapshot date: 2026-08-25.
 
-- 55 governed translation surfaces and 55 generated sutta pages
+- 56 governed translation surfaces and 56 generated sutta pages
 - 1,155 governed term records
-- 633 cited term records: 522 anchored by a translated surface and 111 orphaned
-- 13 orphan major terms
+- 633 cited term records: 523 anchored by a translated surface and 110 orphaned
+- 12 orphan major terms
 - 804 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -32,7 +32,8 @@ in the reader as standalone translations.
 
 Work in this order unless a direct reader request takes priority.
 
-1. **SN 45.8, Vibhaṅga Sutta** — 300 Pali words. Anchors the orphan major
+1. **SN 45.8, Vibhaṅga Sutta** — **complete 2026-08-25.** 300 Pali words.
+   Anchors the orphan major
    `ariya` inside a complete explanation of the noble eightfold path. This is
    the strongest combination of reader value, manageable length, and
    path-cluster pressure.

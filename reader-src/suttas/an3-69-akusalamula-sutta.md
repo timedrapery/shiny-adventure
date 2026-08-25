@@ -203,7 +203,7 @@ These are the three roots of what is wholesome."
 The ninth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (14)</summary>
+<summary>Words used in this translation (13)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -227,8 +227,6 @@ The ninth discourse is finished.
 <dd>The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.</dd>
 <dt><dfn>non-greed</dfn></dt>
 <dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
-<dt><dfn>quenching</dfn></dt>
-<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wholesome</dfn></dt>
@@ -268,6 +266,5 @@ The ninth discourse is finished.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[non-aversion]: The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.
 *[non-greed]: The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.
-*[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

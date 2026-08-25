@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 55 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 56 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -80,6 +80,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,221 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="analysis" data-length="short" data-search="what the eightfold path means sn 45.8 vibhaṅga sutta the eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart. four truths and path">
+<h2><a href="../suttas/sn45-8-vibhanga-sutta/">What the Eightfold Path Means</a></h2>
+<p class="sutta-card__reference">SN 45.8 · <span lang="pi">Vibhaṅga Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 524 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
+<p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="one arrow, not two sn 36.6 salla sutta the one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. concrete, bodily, and immediately recognizable. four truths and path">
 <h2><a href="../suttas/sn36-6-salla-sutta/">One Arrow, Not Two</a></h2>

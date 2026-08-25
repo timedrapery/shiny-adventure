@@ -52,7 +52,7 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-08-24
 
-- 55 governed translation surfaces and 55 generated reader pages. SN 48.10
+- 56 governed translation surfaces and 56 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
@@ -65,7 +65,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 55 surfaces report no automated plain-English register signals. The
+- All 56 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.
