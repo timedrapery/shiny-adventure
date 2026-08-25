@@ -146,7 +146,7 @@ The fifth discourse is finished.
 
 - [← Not-Self at the Six Sense Doors](mn148-chachakka-sutta.md)
 - [All suttas](index.md)
-- [How the World Arises—and Ends →](sn12-44-loka-sutta.md)
+- [Taken Over by Views →](iti49-ditthigata-sutta.md)
 
 </nav>
 

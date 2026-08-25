@@ -8,10 +8,10 @@ the baseline, and continue without relying on chat history.
 
 Snapshot date: 2026-08-25.
 
-- 59 governed translation surfaces and 59 generated sutta pages
+- 60 governed translation surfaces and 60 generated sutta pages
 - 1,155 governed term records
-- 633 cited term records: 525 anchored by a translated surface and 108 orphaned
-- 10 orphan major terms
+- 633 cited term records: 526 anchored by a translated surface and 107 orphaned
+- 9 orphan major terms
 - 806 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -45,9 +45,9 @@ Work in this order unless a direct reader request takes priority.
    words. Anchors `adhicitta` in the threefold training. AN 4.41 was removed as
    a false leverage anchor because it contains only a related mind-development
    phrase, not `adhicitta`.
-4. **Iti 49, Diṭṭhigata Sutta** — 173 Pali words. Anchors `pariyuṭṭhāna` in
-   its active sense of being taken over by views and strengthens the
-   abandonment-sequence cluster.
+4. **Iti 49, Diṭṭhigata Sutta** — **complete 2026-08-25.** 173 Pali words.
+   Anchors `pariyuṭṭhāna` in its active sense of being taken over by views and
+   strengthens the abandonment-sequence cluster.
 
 SN 56.17, Avijjā Sutta, was added by direct reader request on 2026-08-25
 without changing the committed queue. Its 53-word source defines ignorance

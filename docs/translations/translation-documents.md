@@ -311,3 +311,8 @@ Current Iti 44 surfaces:
 
 - [iti44-nibbanadhatu-sutta.md](iti44-nibbanadhatu-sutta.md): main shareable translation text
 - [iti44-nibbanadhatu-sutta-notes.md](iti44-nibbanadhatu-sutta-notes.md): companion translator notes and rationale
+
+Current Iti 49 surfaces:
+
+- [iti49-ditthigata-sutta.md](iti49-ditthigata-sutta.md): main shareable translation text
+- [iti49-ditthigata-sutta-notes.md](iti49-ditthigata-sutta-notes.md): companion translator notes and rationale

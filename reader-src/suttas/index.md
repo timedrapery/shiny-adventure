@@ -1,6 +1,6 @@
 # All Suttas
 
-All 59 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 60 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -75,3 +75,4 @@ All 59 translations, grouped by collection. If you would rather be guided, use [
 ## Itivuttaka (Iti) — the short sayings, in the Khuddaka Nikāya
 
 - [**The Two Nibbāna Elements**](iti44-nibbanadhatu-sutta.md) — Iti 44 · Nibbānadhātu Sutta · about 2 min · 347 words · Set 5. A short reference text defining the two nibbāna elements.
+- [**Taken Over by Views**](iti49-ditthigata-sutta.md) — Iti 49 · Diṭṭhigata Sutta · about 2 min · 310 words · Set 4. Two views can take over: clinging to continued becoming, or treating annihilation as peace.

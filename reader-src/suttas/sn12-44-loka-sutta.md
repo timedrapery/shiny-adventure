@@ -143,7 +143,7 @@ The fourth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Between 'It Exists' and 'It Doesn't'](sn12-15-kaccanagotta-sutta.md)
+- [← Taken Over by Views](iti49-ditthigata-sutta.md)
 - [All suttas](index.md)
 - [Body and Mind Keep Changing →](sn12-61-assutava-sutta.md)
 

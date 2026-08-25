@@ -8,6 +8,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Iti 49, Diṭṭhigata Sutta,
+  with companion notes, newcomer guidance, reader placement as "Taken Over by
+  Views," and running-text support for `pariyuṭṭhāna` as active takeover.
 - Added a governed plain-English translation of SN 56.17, Avijjā Sutta, with
   companion notes, newcomer guidance, an explicit expansion of the abbreviated
   four-truths practice instruction, and reader placement as "What Ignorance
@@ -104,7 +107,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 59 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 60 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
