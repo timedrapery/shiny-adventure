@@ -72,7 +72,7 @@
 
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 
-*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 the phrase explicitly describes what is reached here and now, not death.
+*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.
 
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
 
@@ -234,6 +234,10 @@
 
 *[far shore]: The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.
 
+*[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+
+*[world's entanglement]: The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.
+
 *[world's end]: In AN 4.5, the end of the experienced world as a field of bondage -- not a geographic edge of the earth.
 
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
@@ -294,6 +298,8 @@
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
 
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
+
+*[deity]: A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.
 
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 

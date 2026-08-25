@@ -235,6 +235,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn51-13-chandasamadhi-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn1_1",
+        label="SN 1.1",
+        main_relpath="docs/translations/sn1-1-oghatara-sutta.md",
+        notes_relpath="docs/translations/sn1-1-oghatara-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn55_5",
         label="SN 55.5",
         main_relpath="docs/translations/sn55-5-dutiyasariputta-sutta.md",
@@ -407,6 +413,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
     "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
     "sn51_13": "9bab46d9c0f2feb7e1994f3bdbd265a74b9acae41e9058ecb3d700573af15763",
+    "sn1_1": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
     "sn55_5": "ce0bbcfd5619eae08a38c0d01fab39674c232f73f2bab3c806d8b4968913ef2c",
     "sn56_11": "7be7a57e337b8d536d1419f8e7e7f19921596cfd5edf416a29127114890f0a89",
     "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
@@ -436,6 +443,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "an2_9": "2026-08-24",
     "an3_69": "2026-08-24",
     "an4_5": "2026-08-24",
+    "sn1_1": "2026-08-24",
     "mn131": "2026-08-24",
     "sn22_86": "2026-08-24",
     "mn119": "2026-08-24",
@@ -611,15 +619,21 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
+    "sn1_1": ReaderMeta(
+        "Oghataraṇa Sutta", 2, 8,
+        "A deity asks how the Buddha crossed a flood. The answer refuses both "
+        "standing still and forceful struggle, preserving a compact paradox.",
+        reader_title="How Do You Cross the Flood?",
+    ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 8,
+        "Patoda Sutta", 2, 9,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 9,
+        "Dutiyasāriputta Sutta", 2, 10,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -627,7 +641,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 10,
+        "Saddha Sutta", 2, 11,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -917,7 +931,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Four truths and path": (
         "sn56_11", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
-        "mn117", "an6_63", "sn45_2", "an8_6", "an4_5",
+        "mn117", "an6_63", "sn45_2", "an8_6", "an4_5", "sn1_1",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_86", "sn22_89", "mn131",
@@ -929,7 +943,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
-        "mn38", "an8_6", "an3_69",
+        "mn38", "an8_6", "an3_69", "sn1_1",
     ),
 }
 
@@ -937,7 +951,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Dialogue": (
         "an3_65", "mn63", "mn26", "mn61", "dn2", "mn44", "mn43",
         "mn64", "mn99", "mn18", "mn38", "sn22_86", "sn22_89",
-        "sn12_15", "sn45_2",
+        "sn12_15", "sn45_2", "sn1_1",
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",

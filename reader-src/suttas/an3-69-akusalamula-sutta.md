@@ -214,7 +214,7 @@ The ninth discourse is finished.
 <dt><dfn>clarity</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>complete quenching</dfn></dt>
-<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 the phrase explicitly describes what is reached here and now, not death.</dd>
+<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
 <dt><dfn>delusion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -261,7 +261,7 @@ The ninth discourse is finished.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
-*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 the phrase explicitly describes what is reached here and now, not death.
+*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.

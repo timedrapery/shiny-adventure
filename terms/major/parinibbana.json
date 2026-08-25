@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Final nibbāna language, especially when the texts speak of the Buddha or an arahant at death.",
-  "notes": "The project keeps final nibbāna as the default in final-completion contexts because it preserves the direct relation to nibbāna while still marking the specialized frame. Complete quenching is the controlled alternate when the image itself is being unpacked or a verbal form explicitly describes present-life attainment, as in AN 3.69. Parinibbāna should never be flattened into mere death or annihilation. OSF editorial authority supports preserving the direct nibbāna relation rather than replacing the term with generic death-language, and DN 16 supports final nibbāna as the standard rendering in the Buddha's last-days framework. In this repository, parinibbāna differs from nibbāna: nibbāna is the governing consummation-side headword, whereas parinibbāna commonly names a final-completion frame but can also appear verbally for complete quenching here and now. It also differs from vimutti, which is release-language, and from nibbuta, which is adjectival cooling-language. Translators should therefore follow the local time frame and resist generic English substitutes that import materialist or eternalist baggage.",
+  "notes": "The project keeps final nibbāna as the default in final-completion contexts because it preserves the direct relation to nibbāna while still marking the specialized frame. Complete quenching is the controlled alternate when the image itself is being unpacked or a verbal or adjectival form describes present-life attainment, as in AN 3.69 and SN 1.1. Parinibbāna should never be flattened into mere death or annihilation. OSF editorial authority supports preserving the direct nibbāna relation rather than replacing the term with generic death-language, and DN 16 supports final nibbāna as the standard rendering in the Buddha's last-days framework. In this repository, parinibbāna differs from nibbāna: nibbāna is the governing consummation-side headword, whereas parinibbāna commonly names a final-completion frame but can also appear in living-attainment language. It also differs from vimutti, which is release-language, and from nibbuta, which is adjectival cooling-language. Translators should therefore follow the local time frame and resist generic English substitutes that import materialist or eternalist baggage.",
   "context_rules": [
     {
       "context": "In most source-facing doctrinal and narrative contexts",
@@ -28,9 +28,9 @@
       "notes": "Use this as a controlled alternate when the nibbāna relation remains clear."
     },
     {
-      "context": "When a verbal form explicitly describes attainment here and now",
-      "rendering": "reaches complete quenching here and now",
-      "notes": "Use where an explicit present-life marker rules out the final-at-death frame, as in AN 3.69."
+      "context": "When a verbal or adjectival form describes present-life attainment",
+      "rendering": "reaches complete quenching",
+      "notes": "Use the tense and any here-and-now wording supplied by the source. AN 3.69 is explicitly present-life; SN 1.1 describes the living Buddha."
     },
     {
       "context": "In passages about the Buddha or arahants at death",
@@ -67,12 +67,19 @@
       "translation": "reaches complete quenching here and now",
       "notes": "The explicit present-life marker governs this verbal use and rules out death-language.",
       "source": "AN 3.69"
+    },
+    {
+      "pali": "brāhmaṇaṃ parinibbutaṃ",
+      "translation": "a brahmin who has reached complete quenching",
+      "notes": "The deity is speaking with the living Buddha, so this participle cannot refer to death.",
+      "source": "SN 1.1"
     }
   ],
   "sutta_references": [
     "DN 16",
     "SN 6.15",
-    "AN 3.69"
+    "AN 3.69",
+    "SN 1.1"
   ],
   "tags": [
     "core-doctrine",
@@ -95,7 +102,7 @@
   ],
   "translation_policy": {
     "default_scope": "Use 'final nibbāna' as the default rendering in final-completion doctrinal and narrative contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'complete quenching' in explanatory prose that explicitly unpacks the image and for verbal forms explicitly marked as present-life attainment. Do not flatten parinibbāna into generic death, annihilation, or heaven-language.",
+    "when_not_to_apply": "Use 'complete quenching' in explanatory prose that explicitly unpacks the image and for verbal or adjectival forms marked by context as present-life attainment. Do not flatten parinibbāna into generic death, annihilation, or heaven-language.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents final-completion nibbāna language from collapsing into generic death-language or uncontrolled synonymy with nibbāna itself."
   }

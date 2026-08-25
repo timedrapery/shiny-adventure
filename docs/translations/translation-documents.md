@@ -172,6 +172,11 @@ Current SN 51.13 surfaces:
 - [sn51-13-chandasamadhi-sutta.md](sn51-13-chandasamadhi-sutta.md): main shareable translation text
 - [sn51-13-chandasamadhi-sutta-notes.md](sn51-13-chandasamadhi-sutta-notes.md): companion translator notes and rationale
 
+Current SN 1.1 surfaces:
+
+- [sn1-1-oghatara-sutta.md](sn1-1-oghatara-sutta.md): main shareable translation text
+- [sn1-1-oghatara-sutta-notes.md](sn1-1-oghatara-sutta-notes.md): companion translator notes and rationale
+
 Current SN 55.5 surfaces:
 
 - [sn55-5-dutiyasariputta-sutta.md](sn55-5-dutiyasariputta-sutta.md): main shareable translation text

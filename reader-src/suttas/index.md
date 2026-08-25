@@ -1,6 +1,6 @@
 # All Suttas
 
-All 54 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 55 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -37,6 +37,7 @@ All 54 translations, grouped by collection. If you would rather be guided, use [
 
 ## Saṁyutta Nikāya (SN) — the connected discourses
 
+- [**How Do You Cross the Flood?**](sn1-1-oghatara-sutta.md) — SN 1.1 · Oghataraṇa Sutta · about 1 min · 170 words · Set 2. A deity asks how the Buddha crossed a flood.
 - [**Dependent Arising, Term by Term**](sn12-2-paticcasamuppada-vibhanga-sutta.md) — SN 12.2 · Paṭiccasamuppāda-vibhaṅga Sutta · about 6 min · 908 words · Set 4. The standard formula of dependent arising, defined term by term.
 - [**What Keeps a Life Going**](sn12-11-ahara-sutta.md) — SN 12.11 · Āhāra Sutta · about 4 min · 677 words · Set 4. Four things that keep a life going, traced back to wanting and then all the way back along the chain.
 - [**Between 'It Exists' and 'It Doesn't'**](sn12-15-kaccanagotta-sutta.md) — SN 12.15 · Kaccānagotta Sutta · about 3 min · 432 words · Set 4. One page, defining right view as the middle between "it exists" and "it doesn't."
