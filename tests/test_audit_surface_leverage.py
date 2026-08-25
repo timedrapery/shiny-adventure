@@ -73,6 +73,12 @@ class EnumerationStubTests(unittest.TestCase):
         self.assertFalse(row.is_enumeration_stub)
         self.assertIn("unverified", row.length_note)
 
+    def test_short_substantive_text_is_not_misclassified_as_a_stub(self) -> None:
+        row = audit.SuttaLeverage(sutta="AN 2.9", pali_words=63)
+
+        self.assertFalse(row.is_enumeration_stub)
+        self.assertEqual(row.length_note, "63w short")
+
     def test_stubs_rank_by_total_coverage_not_by_major_split(self) -> None:
         many_minors = audit.SuttaLeverage(
             sutta="SN 45.174", orphan_minors=["a", "b", "c"], pali_words=34
@@ -112,6 +118,15 @@ class PaliWordCountTests(unittest.TestCase):
 
     def test_missing_cache_entry_returns_none_rather_than_guessing(self) -> None:
         self.assertIsNone(audit.pali_word_count("MN 99999"))
+
+    def test_bundled_cache_counts_only_the_requested_discourse(self) -> None:
+        """AN 2.9 lives inside the AN 2.1-10 cache bundle."""
+        cached = audit.pali_word_count("AN 2.9")
+
+        if cached is None:
+            self.skipTest("AN 2.1-10 root bundle is not cached")
+        self.assertGreaterEqual(cached, 60)
+        self.assertLessEqual(cached, 65)
 
 
 class LiveDataTests(unittest.TestCase):

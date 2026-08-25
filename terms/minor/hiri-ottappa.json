@@ -3,15 +3,29 @@
   "term": "hiri-ottappa",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "conscience and prudent shame",
-  "preferred_translation": "conscience and concern",
-  "definition": "The paired qualities of moral conscience and prudent concern about wrongdoing.",
-  "notes": "Use practical psychological English and keep the term close to lived experience rather than modern clinical or psychologized categories.",
+  "literal_meaning": "conscience and moral caution",
+  "preferred_translation": "conscience and moral caution",
+  "definition": "The paired ethical safeguards of inward conscience and outward-looking caution about harm and consequences.",
+  "notes": "Use the governed renderings of the two major headwords together. Conscience names the inward response of integrity; moral caution names concern for harm and consequences. The pair should not be reduced to guilt and fear.",
   "tags": [
     "mental-qualities"
   ],
   "status": "reviewed",
   "alternative_translations": [
+    "conscience and concern",
     "moral shame and moral dread"
+  ],
+  "discouraged_translations": [
+    "guilt and fear"
+  ],
+  "sutta_references": [
+    "AN 2.9"
+  ],
+  "example_phrases": [
+    {
+      "pali": "hirī ca ottappañca",
+      "translation": "conscience and moral caution",
+      "source": "AN 2.9"
+    }
   ]
 }

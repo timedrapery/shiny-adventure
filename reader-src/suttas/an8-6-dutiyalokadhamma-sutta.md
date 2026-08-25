@@ -202,7 +202,7 @@ The sixth discourse is finished.
 
 - [← One Arrow, Not Two](sn36-6-salla-sutta.md)
 - [All suttas](index.md)
-- [The Dirty Cloth →](mn7-vattha-sutta.md)
+- [What Keeps the World Human →](an2-9-cariya-sutta.md)
 
 </nav>
 

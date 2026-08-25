@@ -301,6 +301,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn48-10-dutiyavibhanga-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an2_9",
+        label="AN 2.9",
+        main_relpath="docs/translations/an2-9-cariya-sutta.md",
+        notes_relpath="docs/translations/an2-9-cariya-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an3_65",
         label="AN 3.65",
         main_relpath="docs/translations/an3-65-kesamutta-sutta.md",
@@ -400,6 +406,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
     "sn46_51": "089c5d05fdadf815ca6ab2fa0cbca72f7df0a9375d3fb5ba5d48544647584cb4",
     "sn48_10": "a7c91d4ed5b885b4e287022b0718eac6c0cf1e8bcbd17eab97776f39d01c90ec",
+    "an2_9": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
     "an3_65": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
     "an4_113": "fcd415f18a8c6738f548ff4eaa1733bebe4b850e6f50e4787527ed2e2a08a166",
     "an6_63": "d40dbfbf1d64a355fffa1a14d98d2dcc07661ff33b73d59cd0815f697bc3fc6c",
@@ -412,6 +419,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "an2_9": "2026-08-24",
     "mn131": "2026-08-24",
     "sn22_86": "2026-08-24",
     "mn119": "2026-08-24",
@@ -562,21 +570,27 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "The difference is whether they take over the heart.",
         reader_title="When Life Goes Up and Down",
     ),
+    "an2_9": ReaderMeta(
+        "Cariya Sutta", 2, 4,
+        "Two bright qualities protect the human world: conscience, the inward "
+        "sense of integrity, and moral caution about harm and consequences.",
+        reader_title="What Keeps the World Human",
+    ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 4,
+        "Vattha Sutta", 2, 5,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 5,
+        "Patoda Sutta", 2, 6,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 6,
+        "Dutiyasāriputta Sutta", 2, 7,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -584,7 +598,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 7,
+        "Saddha Sutta", 2, 8,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -862,10 +876,11 @@ READER_METADATA: dict[str, ReaderMeta] = {
 # more than one useful reader question.
 TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Getting started": (
-        "an3_65", "sn45_2", "mn63", "mn26",
+        "an3_65", "sn45_2", "mn63", "mn26", "an2_9",
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
+        "an2_9",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",

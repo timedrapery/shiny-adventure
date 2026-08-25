@@ -16,7 +16,7 @@ point is to choose texts that:
 ## Audit Basis
 
 This ranking was made when the repository had 36 translation surfaces; it now
-has 51, and the historical figure is kept because the ranking below was
+has 52, and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN
 131 and SN 22.86, are tracked in
@@ -218,8 +218,9 @@ process, five heaps, four noble truths, and sense-fields.
 - `AN 3.86` -- `anagami` and `sakadagami`, 274 words, though `SN 55.5` already
   anchors the attainment ladder and this record's citation was repaired on
   2026-08-19.
-- `AN 2.9` -- two orphan majors, `hiri` and `ottappa`. Length still
-  unverified; see the note on range files below.
+- `AN 2.9` -- **translated 2026-08-24.** Its bundled source was resolved to a
+  63-word substantive text, anchoring both `hiri` and `ottappa`. See the
+  correction to the range-file finding below.
 - `MN 77` -- verified at 4338 Pali words for ten `kasina` minors. The length
   is now measured rather than assumed, and it confirms the deprioritisation.
 
@@ -910,10 +911,12 @@ being written down, per the Wave 6 method correction.
    major, `kaya`, stops being one as soon as the DN 22 citations move to
    MN 10, so this text is worth one record rather than two. **Translated
    2026-08-24.**
-3. `AN 2.9` — **weaker than the audit implies.** It was ranked while
-   uncached; now cached, it is 843 Pali words rather than the short text the
-   ranking assumed, and `hiri` occurs exactly once. Its `hiri` citation is
-   also among the suspects above. Verify before committing to it.
+3. `AN 2.9` — **translated 2026-08-24 after correcting the cache reading.**
+   The 843-word figure was the whole AN 2.1–10 bundle, not this discourse.
+   Selecting only segments `an2.9:*` gives 63 substantive Pali words. The text
+   uses `hiri` and `ottappa` once each, then shows their shared social function
+   through a counterfactual and animal comparison. The audit now resolves
+   bundled cache files and treats this text as short but substantive.
 
 `SN 50.1`, `SN 45.171`, `SN 45.172`, `SN 45.174`, and `AN 7.11` remain
 permanently off the queue as peyyala vaggas and enumeration stubs; the Wave 7

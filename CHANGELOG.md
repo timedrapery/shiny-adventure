@@ -8,6 +8,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 2.9, Cariya Sutta, with
+  companion source notes, newcomer guidance, reader placement as "What Keeps
+  the World Human," and running-text anchors for `hiri` and `ottappa` as
+  `conscience` and `moral caution`.
 - Added plain contemporary English translations, companion source notes,
   reader introductions, and generated reader pages for SN 45.2, AN 8.6, and
   MN 119.
@@ -49,6 +53,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Corrected the surface-leverage audit so it resolves discourses stored inside
+  bundled Bilara cache files, counts only the requested discourse, and does not
+  misclassify AN 2.9's short counterfactual argument as a bare enumeration.
 - Reconstructed README for clearer onboarding and GitHub discoverability.
 - Strengthened GitHub collaboration metadata with issue template configuration and dependency update automation.
 - Reworked documentation navigation so task-based workflow entry points are easier to find.
@@ -63,7 +70,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 51 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 52 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

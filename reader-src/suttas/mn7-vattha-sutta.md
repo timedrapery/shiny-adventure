@@ -410,7 +410,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← When Life Goes Up and Down](an8-6-dutiyalokadhamma-sutta.md)
+- [← What Keeps the World Human](an2-9-cariya-sutta.md)
 - [All suttas](index.md)
 - [Four Horses →](an4-113-patoda-sutta.md)
 
