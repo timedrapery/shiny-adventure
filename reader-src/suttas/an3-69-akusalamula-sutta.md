@@ -253,7 +253,7 @@ The ninth discourse is finished.
 
 - [← The Dirty Cloth](mn7-vattha-sutta.md)
 - [All suttas](index.md)
-- [Four Horses →](an4-113-patoda-sutta.md)
+- [Going With the Stream—or Against It →](an4-5-anusota-sutta.md)
 
 </nav>
 

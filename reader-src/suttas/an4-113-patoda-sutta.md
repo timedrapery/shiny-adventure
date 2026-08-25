@@ -145,7 +145,7 @@ The third discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← What Drives Harm—and What Ends It](an3-69-akusalamula-sutta.md)
+- [← Going With the Stream—or Against It](an4-5-anusota-sutta.md)
 - [All suttas](index.md)
 - [Four Steps That Lead to the Path →](sn55-5-dutiyasariputta-sutta.md)
 

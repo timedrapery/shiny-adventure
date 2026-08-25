@@ -302,7 +302,7 @@ as life lasts."
 The fifth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (25)</summary>
+<summary>Words used in this translation (26)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -346,6 +346,8 @@ The fifth discourse is finished.
 <dd>The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.</dd>
 <dt><dfn>non-greed</dfn></dt>
 <dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
+<dt><dfn>remembering</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>those with discernment</dfn></dt>
 <dd>People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.</dd>
 <dt><dfn>unwholesome</dfn></dt>
@@ -398,6 +400,7 @@ The fifth discourse is finished.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[non-aversion]: The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.
 *[non-greed]: The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.
+*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[those with discernment]: People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

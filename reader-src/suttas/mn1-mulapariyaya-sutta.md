@@ -416,7 +416,7 @@ That is what the Buddha said. The bhikkhus did not delight in what the Buddha
 had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (24)</summary>
+<summary>Words used in this translation (25)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -464,6 +464,8 @@ had said.
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>trainee</dfn></dt>
+<dd>Someone who has entered the noble path and is still completing the training; not a beginner.</dd>
 <dt><dfn>wearing away</dfn></dt>
 <dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
 </dl>
@@ -515,4 +517,5 @@ had said.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.

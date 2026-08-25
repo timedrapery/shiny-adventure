@@ -319,6 +319,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an3-69-akusalamula-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an4_5",
+        label="AN 4.5",
+        main_relpath="docs/translations/an4-5-anusota-sutta.md",
+        notes_relpath="docs/translations/an4-5-anusota-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an4_113",
         label="AN 4.113",
         main_relpath="docs/translations/an4-113-patoda-sutta.md",
@@ -415,6 +421,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "an2_9": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
     "an3_65": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
     "an3_69": "70ab99be572724b9051681ae7a8525b99dc129c518dbacf37dace77488aa0e44",
+    "an4_5": "c869ec99776dfd12c82e1d93a5b0bc4a16c6e27fee0966a82e165303f3b31837",
     "an4_113": "fcd415f18a8c6738f548ff4eaa1733bebe4b850e6f50e4787527ed2e2a08a166",
     "an6_63": "d40dbfbf1d64a355fffa1a14d98d2dcc07661ff33b73d59cd0815f697bc3fc6c",
     "an8_6": "0f532dc82ac30bda4c3a1d4300404280c988c6c08bf1272da8a91df46618d7da",
@@ -428,6 +435,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 READABILITY_REVIEWED_ON: dict[str, str] = {
     "an2_9": "2026-08-24",
     "an3_69": "2026-08-24",
+    "an4_5": "2026-08-24",
     "mn131": "2026-08-24",
     "sn22_86": "2026-08-24",
     "mn119": "2026-08-24",
@@ -597,15 +605,21 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
+    "an4_5": ReaderMeta(
+        "Anusota Sutta", 2, 7,
+        "Four ways of meeting the current: drifting with it, struggling "
+        "against it, standing firm, and completing the crossing to dry land.",
+        reader_title="Going With the Stream—or Against It",
+    ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 7,
+        "Patoda Sutta", 2, 8,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 8,
+        "Dutiyasāriputta Sutta", 2, 9,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -613,7 +627,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 9,
+        "Saddha Sutta", 2, 10,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -895,7 +909,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9", "an3_69",
+        "an2_9", "an3_69", "an4_5",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
@@ -903,7 +917,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Four truths and path": (
         "sn56_11", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
-        "mn117", "an6_63", "sn45_2", "an8_6",
+        "mn117", "an6_63", "sn45_2", "an8_6", "an4_5",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_86", "sn22_89", "mn131",
@@ -934,7 +948,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
         "sn22_48", "an6_63", "dn15",
     ),
     "Teaching with verse": (
-        "mn131", "iti44", "an11_9", "an8_6",
+        "mn131", "iti44", "an11_9", "an8_6", "an4_5",
     ),
 }
 
