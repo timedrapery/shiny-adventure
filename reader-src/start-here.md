@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 60 translations in this collection, for someone new to this material.
+A suggested order for reading the 61 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -41,6 +41,7 @@ Practical method. This is where the material stops being about ideas and starts 
 - [**Two Kinds of Thinking**](suttas/mn19-dvedhavitakka-sutta.md) (MN 19, Dvedhāvitakka Sutta) — about 10 min · 1,769 words. Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.
 - [**The Water Vessel**](suttas/mn61-ambalatthikarahulovada-sutta.md) (MN 61, Ambalaṭṭhikarāhulovāda Sutta) — about 13 min · 2,175 words. The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. From there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it.
 - [**Seven Ways to Handle What Erodes the Mind**](suttas/mn2-sabbasava-sutta.md) (MN 2, Sabbāsava Sutta) — about 13 min · 2,201 words. Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.
+- [**Six Things to Remember Anywhere**](suttas/an11-12-dutiyamahanama-sutta.md) (AN 11.12, Dutiyamahānāma Sutta) — about 4 min · 547 words. Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.
 - [**Remembering the Dhamma While Breathing In and Out**](suttas/mn118-anapanasati-sutta.md) (MN 118, Ānāpānasati Sutta) — about 12 min · 2,002 words. Step-by-step instructions for remembering the Dhamma while breathing in and out. The first text on this list that is a practice manual rather than a teaching about practice.
 - [**The Four Foundations of Remembering**](suttas/mn10-satipatthana-sutta.md) (MN 10, Satipaṭṭhāna Sutta) — about 16 min · 2,824 words. The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.
 - [**Remembering Directed to the Body**](suttas/mn119-kayagatasati-sutta.md) (MN 119, Kāyagatāsati Sutta) — about 12 min · 2,083 words. A long practice sequence directing remembering to breathing, movement, the body's contents and fate, deep composure, resilience, and ten claimed results.

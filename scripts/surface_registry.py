@@ -385,6 +385,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an11-9-saddha-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an11_12",
+        label="AN 11.12",
+        main_relpath="docs/translations/an11-12-dutiyamahanama-sutta.md",
+        notes_relpath="docs/translations/an11-12-dutiyamahanama-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="dn2",
         label="DN 2",
         main_relpath="docs/translations/dn2-samannaphala-sutta.md",
@@ -468,6 +474,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "an8_6": "0f532dc82ac30bda4c3a1d4300404280c988c6c08bf1272da8a91df46618d7da",
     "an10_60": "55a08fcdd577c9177b17bb62672d11c27c278f6f27d23a0641279411285c54fc",
     "an11_9": "5be8a71c5b42fe60e4b30d4aa7ee37f5a7eaf6e0b67f7279352c1d4d04ac1abd",
+    "an11_12": "cfb1ca4428045864e672fb3bc3936857da33d3237a1ccdd5a8abc5a62fd76852",
     "dn2": "e14ae3eb8758d509eac9c1868993c55eb3ac51bd18763bfe28bb2a68c47ce323",
     "dn15": "8461edc9ebaee7f98b372823f02660f84fba4534308cc3b74f3f17922f37c9f1",
     "iti44": "bc0e4a36775633d0ea0fa487d86851a0a7957f9384a4b31720718556716fd768",
@@ -493,6 +500,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "sn56_17": "2026-08-25",
     "iti49": "2026-08-25",
     "an10_60": "2026-08-24",
+    "an11_12": "2026-08-25",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -730,48 +738,55 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "theory.",
         reader_title="Seven Ways to Handle What Erodes the Mind",
     ),
+    "an11_12": ReaderMeta(
+        "Dutiyamahānāma Sutta", 3, 4,
+        "Mahānāma asks how to practice in ordinary life while the Buddha "
+        "is away. The answer gives five qualities to stand on and six things "
+        "to remember while moving, working, or living with family.",
+        reader_title="Six Things to Remember Anywhere",
+    ),
     "mn118": ReaderMeta(
-        "Ānāpānasati Sutta", 3, 4,
+        "Ānāpānasati Sutta", 3, 5,
         "Step-by-step instructions for remembering the Dhamma while breathing "
         "in and out. The first text on this list that is a practice manual "
         "rather than a teaching about practice.",
         reader_title="Remembering the Dhamma While Breathing In and Out",
     ),
     "mn10": ReaderMeta(
-        "Satipaṭṭhāna Sutta", 3, 5,
+        "Satipaṭṭhāna Sutta", 3, 6,
         "The four foundations of remembering, and the longest, densest text so "
         "far. Not really a one-sitting read: it is the reference manual for "
         "the pieces above, worth returning to rather than finishing.",
         reader_title="The Four Foundations of Remembering",
     ),
     "mn119": ReaderMeta(
-        "Kāyagatāsati Sutta", 3, 6,
+        "Kāyagatāsati Sutta", 3, 7,
         "A long practice sequence directing remembering to breathing, movement, "
         "the body's contents and fate, deep composure, resilience, and ten "
         "claimed results.",
         reader_title="Remembering Directed to the Body",
     ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 7,
+        "Sāmaññaphala Sutta", 3, 8,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
         reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 8,
+        "Girimānanda Sutta", 3, 9,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
         reader_title="Ten Perceptions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 9,
+        "Mahā-Assapura Sutta", 3, 10,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 10,
+        "Āhāra Sutta", 3, 11,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves Distraction",
@@ -1001,7 +1016,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
-        "sn46_51", "sn51_13", "sn48_10", "mn119",
+        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1018,7 +1033,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
-        "mn38", "sn12_44", "an8_6", "an3_69", "sn1_1",
+        "mn38", "sn12_44", "an8_6", "an3_69", "sn1_1", "an11_12",
     ),
 }
 
@@ -1030,7 +1045,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
-        "sn51_13", "sn48_10", "mn119",
+        "sn51_13", "sn48_10", "mn119", "an11_12",
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",

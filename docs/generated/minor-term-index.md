@@ -906,7 +906,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [upasaka-sangha](../../terms/minor/upasaka-sangha.json) | upasaka-sangha | upasaka community | reviewed | persons |
 | [upasaka](../../terms/minor/upasaka.json) | upāsaka | lay follower | reviewed | persons |
 | [upasama](../../terms/minor/upasama.json) | upasama | calming | stable | core-doctrine, translation-sensitive, consummation-interface |
-| [upasamanussati](../../terms/minor/upasamanussati.json) | upasamānussati | recollection of peace | stable | core-practice, translation-sensitive, consummation-interface |
+| [upasamanussati](../../terms/minor/upasamanussati.json) | upasamānussati | recollection of peace | reviewed | core-practice, translation-sensitive, consummation-interface |
 | [upasampada-kamma](../../terms/minor/upasampada-kamma.json) | upasampadākamma | ordination act | reviewed | core-practice |
 | [upasampada](../../terms/minor/upasampada.json) | upasampadā | higher ordination | reviewed | persons, core-practice, vinaya |
 | [upasika-sangha](../../terms/minor/upasika-sangha.json) | upasika-sangha | upasika community | reviewed | persons |

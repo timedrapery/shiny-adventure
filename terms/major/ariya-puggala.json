@@ -49,8 +49,7 @@
     }
   ],
   "sutta_references": [
-    "AN 8.59",
-    "SN 55.30"
+    "AN 8.59"
   ],
   "tags": [
     "core-doctrine",
@@ -71,5 +70,6 @@
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents ariyapuggala from drifting into devotional titles such as 'saint'."
   },
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Removed SN 55.30 as a direct source citation after checking the root text. It contains ariyasavaka and an abbreviated Sangha-recollection formula, not the compound ariyapuggala. AN 8.59 remains as contextual support for the associated eight-person classification and is explicitly labeled as such in its example notes."
 }

@@ -7,7 +7,7 @@ Structured Pali-to-English translation infrastructure for early Buddhist transla
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 **[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
-60 early Buddhist discourses in clear, common English, with newcomer guidance,
+61 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
 New here:
@@ -202,14 +202,14 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
-The repository has 60 registered translation surfaces and a plain-English
+The repository has 61 registered translation surfaces and a plain-English
 standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-Picking the work up cold: start with the durable [Wave 9 execution plan](docs/wave-9-execution-plan.md), then use [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the full editorial method and repository history.
+Picking the work up cold: start with the durable [Wave 10 execution plan](docs/wave-10-execution-plan.md), then use [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the full editorial method and repository history.
 
-Planning notes live in the [Wave 9 execution plan](docs/wave-9-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
+Planning notes live in the [Wave 10 execution plan](docs/wave-10-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 
 ## Contributing
 

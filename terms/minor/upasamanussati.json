@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A contemplative recollection built around upasama-side peace or quieting language, often linked to nibbāna.",
-  "notes": "Use this record when the text explicitly names recollection of peace. The compound inherits the distinction between upasama and santi and should not be flattened into mere relaxation-language.",
+  "notes": "Use this record only when a source explicitly names recollection of peace. The compound inherits the distinction between upasama and santi and should not be flattened into mere relaxation-language. AN 11.12 contains six other recollections, not this compound; AN 1.296-305 supplies the direct early-text list source.",
   "related_terms": [
     "santi",
     "upasama"
@@ -22,17 +22,18 @@
     {
       "pali": "upasamānussati",
       "translation": "recollection of peace",
-      "notes": "Governed contemplative expression linked to consummation-side peace without collapsing into sentimental calm.",
-      "source": "AN 11.12"
+      "notes": "The final member of the ten recollections in the AN 1.296-305 list.",
+      "source": "AN 1.296"
     }
   ],
   "sutta_references": [
-    "AN 11.12"
+    "AN 1.296"
   ],
   "tags": [
     "core-practice",
     "translation-sensitive",
     "consummation-interface"
   ],
-  "status": "stable"
+  "status": "reviewed",
+  "version_notes": "Replaced the false AN 11.12 citation after direct source inspection. That discourse names recollections of the Buddha, Dhamma, Sangha, conduct, generosity, and devas, but not upasamanussati. AN 1.296-305 directly names upasamanussati in its ten-recollection list."
 }
