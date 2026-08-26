@@ -361,7 +361,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Seven Ways to Handle What Erodes the Mind](mn2-sabbasava-sutta.md)
+- [← Six Things to Remember Anywhere](an11-12-dutiyamahanama-sutta.md)
 - [All suttas](index.md)
 - [The Four Foundations of Remembering →](mn10-satipatthana-sutta.md)
 

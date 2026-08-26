@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (60 total)
+## Completed Surfaces (61 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -78,6 +78,12 @@ Use that full roadmap as the source of truth for:
   Shows how attachment to becoming and attraction to annihilation can each
   take over, and anchors the previously orphaned major `pariyuṭṭhāna` record.
 
+### Wave 10: Portable Practice and Verified Orphans
+- `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
+  complete 2026-08-25. Anchors six verified recollection compounds and shows
+  how remembering leads through active gladness, rejoicing, relaxation, and
+  satisfaction to composure in ordinary daily life.
+
 ### Outside the Wave Sequence
 - `SN 56.17` Avijjā Sutta (What Ignorance Means) — requested directly. A
   compact definition of ignorance as not understanding dissatisfaction, its
@@ -130,15 +136,13 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-The older queue is complete. A fresh 55-surface, 1,155-term audit was run on
-2026-08-25 after repairing every partial source match and removing AN 4.41 as
-a false `adhicitta` anchor. SN 45.8, SN 12.44, AN 3.88, and Iti 49 are now
-complete, as is the direct-request addition SN 56.17. Wave 9 is awaiting final
-validation and publication; after that, rerun the leverage audit before
-committing a new queue. Use the durable
-[Wave 9 execution plan](wave-9-execution-plan.md) for the validation gates and
-handoff procedure. The full reasoning and historical audit state remain in
-[next-suttas-roadmap.md](next-suttas-roadmap.md).
+Wave 9 is complete. A fresh 61-surface, 1,155-term audit was run on 2026-08-25
+after AN 11.12 and two source-metadata corrections. Of 633 cited records, 532
+are now anchored and 101 are orphaned. The next verified queue is SN 12.20,
+AN 8.39, and SN 46.1. Use the durable
+[Wave 10 execution plan](wave-10-execution-plan.md) for source checks,
+validation gates, and handoff. The full reasoning and historical audit state
+remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 

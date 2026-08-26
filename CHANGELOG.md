@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 11.12,
+  Dutiyamahānāma Sutta, with companion notes, newcomer guidance, reader
+  placement as "Six Things to Remember Anywhere," and running-text support
+  for six recollection terms.
+- Added a durable Wave 10 execution plan with a source-verified queue and a
+  restart procedure for continuing on another machine.
 - Added a governed plain-English translation of Iti 49, Diṭṭhigata Sutta,
   with companion notes, newcomer guidance, reader placement as "Taken Over by
   Views," and running-text support for `pariyuṭṭhāna` as active takeover.
@@ -75,6 +81,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Corrected false source signals for `ariyapuggala` and `upasamānussati`:
+  SN 55.30 does not contain the first compound, and AN 11.12 does not contain
+  the second; the latter now cites its direct list source at AN 1.296.
 - Clarified the `yoga` policy for the distinct `yogo karaṇīyo` effort idiom
   and added SN 56.17's four-truths definition to the governed `avijjā` record.
 - Corrected the three-training term examples to use the governed `higher
@@ -107,7 +116,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 60 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 61 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

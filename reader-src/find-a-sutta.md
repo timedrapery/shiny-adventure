@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 60 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 61 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -192,6 +192,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,201 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.</p>
+</article>
+<article class="sutta-card" data-topic="meditation|mind and senses" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="six things to remember anywhere an 11.12 dutiyamahānāma sutta mahānāma asks how to practice in ordinary life while the buddha is away. the answer gives five qualities to stand on and six things to remember while moving, working, or living with family. meditation · mind and senses">
+<h2><a href="../suttas/an11-12-dutiyamahanama-sutta/">Six Things to Remember Anywhere</a></h2>
+<p class="sutta-card__reference">AN 11.12 · <span lang="pi">Dutiyamahānāma Sutta</span></p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 4 min · 547 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation · Mind and senses</p>
+<p>Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="remembering the dhamma while breathing in and out mn 118 ānāpānasati sutta step-by-step instructions for remembering the dhamma while breathing in and out. the first text on this list that is a practice manual rather than a teaching about practice. meditation">
 <h2><a href="../suttas/mn118-anapanasati-sutta/">Remembering the Dhamma While Breathing In and Out</a></h2>

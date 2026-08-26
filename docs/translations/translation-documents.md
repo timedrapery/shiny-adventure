@@ -297,6 +297,11 @@ Current AN 11.9 surfaces:
 - [an11-9-saddha-sutta.md](an11-9-saddha-sutta.md): main shareable translation text
 - [an11-9-saddha-sutta-notes.md](an11-9-saddha-sutta-notes.md): companion translator notes and rationale
 
+Current AN 11.12 surfaces:
+
+- [an11-12-dutiyamahanama-sutta.md](an11-12-dutiyamahanama-sutta.md): main shareable translation text
+- [an11-12-dutiyamahanama-sutta-notes.md](an11-12-dutiyamahanama-sutta-notes.md): companion translator notes and rationale
+
 Current DN 2 surfaces:
 
 - [dn2-samannaphala-sutta.md](dn2-samannaphala-sutta.md): main shareable translation text

@@ -1,13 +1,13 @@
 # Next Sutta Priority Table
 
-Snapshot: 2026-08-25, after drafting all four Wave 9 surfaces and adding SN
-56.17 by direct request.
+Snapshot: 2026-08-25, after completing AN 11.12 and correcting two false
+source signals.
 
-The corpus has 1,155 term records and 60 translation surfaces. Of 633 cited
-records, 526 are anchored by a translated surface and 107 are orphaned; 9 of
-those orphans are major terms. Wave 9 is complete in content. Use the
-[Wave 9 execution plan](../wave-9-execution-plan.md) for its remaining
-validation and publication gates, and the
+The corpus has 1,155 term records and 61 translation surfaces. Of 633 cited
+records, 532 are anchored by a translated surface and 101 are orphaned; 9 of
+those orphans are major terms. Use the
+[Wave 10 execution plan](../wave-10-execution-plan.md) for the active queue,
+validation, and handoff gates, and the
 [full roadmap](../next-suttas-roadmap.md) for historical method notes.
 
 | Queue | Sutta | Pali length | Orphan major | Reader and policy value |
@@ -16,14 +16,18 @@ validation and publication gates, and the
 | complete | `SN 12.44` Loka | 182 words | `loka` | published 2026-08-25; connects lived sensory experience to dependent arising |
 | complete | `AN 3.88` Tatiyasikkhā | 230 words | `adhicitta` | published 2026-08-25; threefold training; replaces the false AN 4.41 leverage signal |
 | complete | `Iti 49` Diṭṭhigata | 173 words | `pariyuṭṭhāna` | active takeover by views; abandonment-sequence cluster |
+| complete | `AN 11.12` Dutiyamahānāma | 367 words | — | six verified recollection anchors; practice while moving, working, or at home |
+| 1 | `SN 12.20` Paccaya | 355 words | — | five orphan anchors in a substantive dependent-arising text |
+| 2 | `AN 8.39` Abhisanda | 268 words | — | two orphan anchors in a manageable ethics and consequence text |
+| 3 | `SN 46.1` Himavanta | 125 words | — | one orphan anchor and a compact awakening-factor practice |
 
-The strongest verified next-wave candidate is `AN 11.12`: 367 Pali words with
-seven orphan term anchors and a practical sequence built around recollection.
-Before committing that queue, inspect the unverified `SN 55.30` source boundary
-because it may provide a shorter running-text anchor for the orphan major
-`ariya-puggala`. Longer one-anchor candidates such as DN 21 and DN 1 remain
-deferred. `SN 50.1` and other enumeration or peyyāla stubs remain formula or
-cluster-sheet work rather than reader translations.
+Direct inspection found that SN 55.30 contains `ariyasāvaka` and an
+abbreviated Saṅgha formula, not `ariyapuggala`; it is not a priority anchor.
+AN 11.12 contains six of its seven credited recollection terms, not
+`upasamānussati`; that term belongs to the AN 1.296-305 list. SN 50.1 and
+other enumeration or peyyāla stubs remain
+formula or cluster-sheet work rather than reader translations. Longer
+one-anchor candidates such as DN 21 and DN 1 remain deferred.
 
 Reproduce the numbers:
 

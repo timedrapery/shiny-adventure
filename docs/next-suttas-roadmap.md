@@ -15,7 +15,7 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking was made when the repository had 36 translation surfaces; it now has 60,
+This ranking was made when the repository had 36 translation surfaces; it now has 61,
 and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN
@@ -33,10 +33,11 @@ state, and is the first audit that is reproducible rather than hand-computed:
 run `python scripts/audit_surface_leverage.py`. It carries two further
 corrections to the method, both recorded under Ranked Roadmap (Wave 7).
 
-Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state.
-Its committed queue and reproducible handoff procedure live in the
-[Wave 9 execution plan](wave-9-execution-plan.md). That current plan supersedes
-the historical numerical queues below without erasing their audit record.
+Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state and
+is complete. The fresh 61-surface audit and reproducible handoff procedure
+live in the [Wave 10 execution plan](wave-10-execution-plan.md). That current
+plan supersedes the historical numerical queues below without erasing their
+audit record.
 
 The ranking weights four factors:
 

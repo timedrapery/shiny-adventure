@@ -52,13 +52,14 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-08-25
 
-- 60 governed translation surfaces and 60 generated reader pages. SN 48.10
+- 61 governed translation surfaces and 61 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
   queue and anchors `hiri` and `ottappa` in a compact running text. SN 45.8,
-  SN 12.44, and AN 3.88 are the first three completed Wave 9 surfaces,
-  anchoring `ariya`, `loka`, and `adhicitta`.
+  SN 12.44, AN 3.88, and Iti 49 complete Wave 9. AN 11.12 opens Wave 10
+  with six source-verified recollection anchors and a portable daily-life
+  practice.
 - SN 56.17 was added by direct request as a 53-word definition of ignorance
   through the four truths. It follows SN 56.11 in the reader and makes the
   source's abbreviated four-part practice instruction explicit.
@@ -70,7 +71,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 60 surfaces report no automated plain-English register signals. The
+- All 61 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.
@@ -496,13 +497,13 @@ absent, unfetched, or unsupported matches.
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use the [Wave 9 execution plan](wave-9-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
+- Use the [Wave 10 execution plan](wave-10-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
 - Waves 1 through 8 and the direct-request additions were complete at 55
   surfaces. All four items from the 2026-08-25 Wave 9 audit—SN 45.8,
-  SN 12.44, AN 3.88, and Iti 49—are now drafted. Complete the validation and
-  publication gates in the execution plan, then run a fresh leverage audit
-  before committing the next queue.
+  SN 12.44, AN 3.88, and Iti 49—are published. AN 11.12 is the first Wave 10
+  packet; SN 12.20 is next, followed by AN 8.39 and SN 46.1, subject to the
+  source checks recorded in the execution plan.
 - Add or refine note surfaces when a translation document exposes missing control language.
 
 ### Phase 2: Maintenance And Freshness

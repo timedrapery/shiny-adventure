@@ -1,6 +1,6 @@
 # All Suttas
 
-All 60 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 61 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -71,6 +71,7 @@ All 60 translations, grouped by collection. If you would rather be guided, use [
 - [**When Life Goes Up and Down**](an8-6-dutiyalokadhamma-sutta.md) — AN 8.6 · Dutiyalokadhamma Sutta · about 5 min · 824 words · Set 2. Gain and loss, praise and blame, pleasure and pain happen to everyone.
 - [**Ten Perceptions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,467 words · Set 3. Ten perceptions taught to a sick monk.
 - [**Think Like a Thoroughbred**](an11-9-saddha-sutta.md) — AN 11.9 · Saddha Sutta · about 7 min · 1,247 words · Set 2. A wild colt tied to its trough can think of nothing but "Fodder, fodder!"
+- [**Six Things to Remember Anywhere**](an11-12-dutiyamahanama-sutta.md) — AN 11.12 · Dutiyamahānāma Sutta · about 4 min · 547 words · Set 3. Mahānāma asks how to practice in ordinary life while the Buddha is away.
 
 ## Itivuttaka (Iti) — the short sayings, in the Khuddaka Nikāya
 

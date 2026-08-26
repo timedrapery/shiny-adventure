@@ -463,7 +463,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 
 - [← The Water Vessel](mn61-ambalatthikarahulovada-sutta.md)
 - [All suttas](index.md)
-- [Remembering the Dhamma While Breathing In and Out →](mn118-anapanasati-sutta.md)
+- [Six Things to Remember Anywhere →](an11-12-dutiyamahanama-sutta.md)
 
 </nav>
 
