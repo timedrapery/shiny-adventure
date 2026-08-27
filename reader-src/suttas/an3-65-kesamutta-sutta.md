@@ -9,6 +9,14 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,786 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 7 of 12**
+
+[← Six Things to Remember Anywhere](an11-12-dutiyamahanama-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [The Man Struck by a Poisoned Arrow →](mn63-culamalukya-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
@@ -37,6 +45,7 @@ The text does not say that reasoning, tradition, or personal judgment are worthl
 
 ### Key words
 
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>wholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
@@ -302,7 +311,7 @@ as life lasts."
 The fifth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (26)</summary>
+<summary>Words used in this translation (27)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -348,6 +357,8 @@ The fifth discourse is finished.
 <dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>Saṅgha</dfn></dt>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>those with discernment</dfn></dt>
 <dd>People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.</dd>
 <dt><dfn>unwholesome</dfn></dt>
@@ -401,6 +412,7 @@ The fifth discourse is finished.
 *[non-aversion]: The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.
 *[non-greed]: The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[those with discernment]: People whose judgment is sound enough to trust as a check on your own -- not an appeal to authority, but a practical reference point.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

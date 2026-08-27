@@ -278,6 +278,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## S
 
 <dl class="glossary-list">
+<dt><dfn>Saṅgha</dfn> <span class="glossary-pali" lang="pi">(saṅgha)</span></dt>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>sensual distraction</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>

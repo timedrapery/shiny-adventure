@@ -70,7 +70,7 @@ generating script first.
 - `python scripts/modern_english_audit.py`
   Reports likely elevated or archaic diction in the live repo surface and helps reviewers catch register drift before merge.
 - `python scripts/generate_reader.py --check`
-  Regenerates and verifies the whole reader's edition: sutta pages, the Start Here reading path, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/`, reader metadata in `scripts/surface_registry.py`, and structured Essential Five guidance in `includes/newcomer-guides/`. Legacy `About this text` and `Before you read` introductions on other pages are preserved. Use `--write` to regenerate.
+  Regenerates and verifies the whole reader's edition: sutta pages, the First 12 and complete Start Here paths, the All Suttas index, the glossary page, the home page, and the generated block of site navigation. Everything is derived from `docs/translations/`, reader metadata in `scripts/surface_registry.py`, and structured First 12 guidance in `includes/newcomer-guides/`. Legacy `About this text` and `Before you read` introductions on other pages are preserved. Use `--write` to regenerate.
 - `python scripts/check_markdown_structure.py`
   Fails when a bulleted list has been flattened into running prose by a paragraph rewriter, which is the damage that went unnoticed in MN 118 for three commits.
 - `python scripts/verify_example_sources.py --strict`

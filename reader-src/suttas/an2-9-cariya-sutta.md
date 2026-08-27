@@ -9,18 +9,55 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 1 min · 109 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 1 of 12**
+
+[First 12 overview](../start-here.md#your-first-12) · [Good Friendship Is the Whole Path →](sn45-2-upaddha-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-This short text calls conscience and moral caution "bright" because they stop
-a person before harm is done. Conscience is the inward sense that an action
-would betray your own integrity. Moral caution looks outward to the harm and
-consequences.
+<div class="reader-guide" markdown="1">
 
-The example is framed in ancient terms and focuses on sexual boundaries within
-families and relationships. Its wider point is simple: a workable human world
-depends on people restraining themselves even when no one is forcing them.
+### What happens
+
+The Buddha addresses a group of monks about two qualities that keep basic human boundaries intact.
+
+### Central question
+
+What keeps people from treating one another without conscience or regard for harm?
+
+### Main point
+
+Conscience and moral caution protect the human world. One is the inward sense that an action would violate your integrity; the other stays alert to the harm and consequences the action would cause.
+
+### Reading tip
+
+This is a very short teaching built around a stark counterexample. Notice the contrast between a world protected by these qualities and one in which even basic sexual boundaries disappear.
+
+### This text is not saying
+
+The teaching is not praising guilt, toxic shame, or ordinary fear. It names an inward ethical response and an outward awareness of harm as two different but cooperating protections.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>bhikkhus</dfn></dt>
+<dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
+<dt><dfn>conscience</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
+<dt><dfn>moral caution</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;ottappa&quot; -- alertness to the harm and consequences of an unwholesome action. It is the outward-looking partner of conscience, not ordinary fear.</dd>
+<dt><dfn>world</dfn></dt>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

@@ -10,7 +10,7 @@ it shows about a sutta comes from two places:
 and two reader-facing sources:
 
   includes/newcomer-guides/<surface>.json  structured orientation for the
-                                         Essential Five
+                                         newcomer First 12
   the legacy "About this text" / "Before you read" block inside each other
   reader page, which is preserved across regeneration
 
@@ -43,6 +43,9 @@ from urllib.parse import quote
 try:
     from scripts.surface_registry import (
         ESSENTIAL_FIVE,
+        FIRST_TWELVE,
+        NEWCOMER_PATHWAYS,
+        QUICK_START,
         READER_METADATA,
         STAGES,
         TRANSLATION_SURFACES,
@@ -60,6 +63,9 @@ try:
 except ModuleNotFoundError:  # invoked as a script from the repo root
     from surface_registry import (  # type: ignore[no-redef]
         ESSENTIAL_FIVE,
+        FIRST_TWELVE,
+        NEWCOMER_PATHWAYS,
+        QUICK_START,
         READER_METADATA,
         STAGES,
         TRANSLATION_SURFACES,
@@ -324,8 +330,8 @@ def load_newcomer_guides(
             raise ValueError(f"{path.name}: filename and surface_key disagree")
         if key not in surfaces:
             raise ValueError(f"{path.name}: surface_key is not registered")
-        if key not in ESSENTIAL_FIVE:
-            raise ValueError(f"{path.name}: guides are currently limited to Essential Five")
+        if key not in FIRST_TWELVE:
+            raise ValueError(f"{path.name}: guide is not part of the First 12")
         if key in guides:
             raise ValueError(f"{path.name}: duplicate guide for {key}")
         for field in GUIDE_TEXT_FIELDS:
@@ -353,10 +359,10 @@ def load_newcomer_guides(
             if not re.search(rf"(?<!\w){re.escape(term)}(?!\w)", body, flags=re.I):
                 raise ValueError(f"{path.name}: key term {term!r} is absent from the text")
         guides[key] = data
-    missing = set(ESSENTIAL_FIVE) - set(guides)
+    missing = set(FIRST_TWELVE) - set(guides)
     if missing:
         raise ValueError(
-            "newcomer guides missing for Essential Five: " + ", ".join(sorted(missing))
+            "newcomer guides missing for First 12: " + ", ".join(sorted(missing))
         )
     return guides
 
@@ -390,7 +396,12 @@ def render_guide(guide: dict[str, object], glossary: dict[str, str]) -> list[str
     lines = ['<div class="reader-guide" markdown="1">', ""]
     for label, field in labels:
         lines.extend([f"### {label}", "", str(guide[field]).strip(), ""])
-    lines.extend(["### Key words", "", '<dl class="reader-guide__terms">'])
+    lines.extend(["### Key words", ""])
+    lines.append(
+        '<p class="reader-guide__terms-intro">These definitions are here so '
+        "you do not need to know Pali or Buddhist vocabulary before reading.</p>"
+    )
+    lines.append('<dl class="reader-guide__terms">')
     for requested in guide["key_terms"]:  # type: ignore[union-attr]
         term, gloss = glossary_entry(str(requested), glossary)
         lines.append(f"<dt><dfn>{html.escape(term)}</dfn></dt>")
@@ -465,6 +476,31 @@ def render_reading_nav(
     lines.extend(["", "</nav>"])
     return lines
 
+
+def render_first_twelve_progress(surface: TranslationSurface) -> list[str]:
+    """A clear next step inside the compact newcomer route."""
+    if surface.key not in FIRST_TWELVE:
+        return []
+    by_key = {item.key: item for item in TRANSLATION_SURFACES}
+    position = FIRST_TWELVE.index(surface.key)
+    links: list[str] = []
+    if position > 0:
+        previous = by_key[FIRST_TWELVE[position - 1]]
+        links.append(f"[← {display_title(previous)}]({previous.main_name})")
+    links.append("[First 12 overview](../start-here.md#your-first-12)")
+    if position + 1 < len(FIRST_TWELVE):
+        following = by_key[FIRST_TWELVE[position + 1]]
+        links.append(f"[{display_title(following)} →]({following.main_name})")
+    return [
+        '<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">',
+        "",
+        f"**Your First 12: {position + 1} of {len(FIRST_TWELVE)}**",
+        "",
+        " · ".join(links),
+        "",
+        "</nav>",
+    ]
+
 def render_sutta_page(
     surface: TranslationSurface,
     intro: str | None,
@@ -489,11 +525,16 @@ def render_sutta_page(
         f'<p class="reading-meta"><strong>Reading time:</strong> about {minutes} min '
         f"· {words:,} words</p>",
         "",
+    ]
+    first_twelve_progress = render_first_twelve_progress(surface)
+    if first_twelve_progress:
+        lines.extend(first_twelve_progress + [""])
+    lines.extend([
         "[Skip to the translation](#translation){ .reader-skip-link }",
         "",
         "## Before you read",
         "",
-    ]
+    ])
     entries = glossary_for_page(body, glossary)
     abbreviations = glossary_abbreviations_for_page(body, glossary)
     if guide is not None:
@@ -519,11 +560,9 @@ def render_sutta_page(
 def render_home() -> str:
     total = len(TRANSLATION_SURFACES)
     by_key = {s.key: s for s in TRANSLATION_SURFACES}
-    essential_words = 0
-    for key in ESSENTIAL_FIVE:
-        body = surface_body(by_key[key].main_path.read_text(encoding="utf-8"))
-        essential_words += translation_word_count(body)
-    essential_minutes = max(1, math.ceil(essential_words / WORDS_PER_MINUTE))
+    quick = by_key[QUICK_START]
+    quick_body = surface_body(quick.main_path.read_text(encoding="utf-8"))
+    _, quick_minutes = reading_stats(quick_body)
     lines = [
         "# OSF Pali Readings",
         "",
@@ -535,11 +574,50 @@ def render_home() -> str:
         "decision has a written reason behind it. See "
         "[About this translation](about.md) for what that means in practice.",
         "",
-        "## Start reading",
+        "## Start with one short teaching",
         "",
-        "- [**Start Here**](start-here.md) — a newcomer-friendly reading order "
-        f"through all {total} texts, arranged by what makes sense to read "
-        "first rather than by editorial priority",
+        "No Pali and no Buddhist background are required. Start with a human "
+        "question rather than a vocabulary lesson.",
+        "",
+        f"[Read **{display_title(quick)}** — about {quick_minutes} minutes]"
+        f"(suttas/{quick.main_name}){{ .md-button .md-button--primary }}",
+        "",
+        "## Choose what brings you here",
+        "",
+        '<div class="newcomer-pathways" markdown="1">',
+        "",
+    ]
+    for title, description, keys in NEWCOMER_PATHWAYS:
+        words = 0
+        for key in keys:
+            body = surface_body(by_key[key].main_path.read_text(encoding="utf-8"))
+            words += translation_word_count(body)
+        minutes = max(1, math.ceil(words / WORDS_PER_MINUTE))
+        lines.extend([
+            '<section class="newcomer-pathway" markdown="1">',
+            "",
+            f"### {title}",
+            "",
+            description,
+            "",
+            f"About {minutes} minutes total:",
+            "",
+        ])
+        for key in keys:
+            surface = by_key[key]
+            lines.append(
+                f"- [**{display_title(surface)}**](suttas/{surface.main_name})"
+            )
+        lines.extend(["", "</section>", ""])
+    lines.extend([
+        "</div>",
+        "",
+        "## Go further",
+        "",
+        "- [**Your First 12**](start-here.md#your-first-12) — a compact route "
+        "from short, recognizable teachings into the foundations",
+        "- [**Complete reading order**](start-here.md#the-complete-reading-order) — "
+        f"all {total} texts, arranged for a newcomer",
         "- [**All Suttas**](suttas/index.md) — the full collection, if you "
         "already know what you are looking for",
         "- [**Find a sutta**](find-a-sutta.md) — filter by topic, difficulty, "
@@ -555,21 +633,6 @@ def render_home() -> str:
         '- <a href="downloads/osf-pali-readings.epub"><strong>Download the '
         "whole collection</strong></a> — EPUB, for e-readers, phones, and "
         "reading offline",
-        "",
-        "## If you only read five",
-        "",
-        "Together these give a compact first route through the collection: "
-        f"about {essential_minutes} minutes of reading ({essential_words:,} words).",
-        "",
-    ]
-    for key in ESSENTIAL_FIVE:
-        surface = by_key[key]
-        meta = reader_meta(surface)
-        lines.append(
-            f"- [**{display_title(surface)}**](suttas/{surface.main_name}) — "
-            f"{surface.label}, {meta.pali_title}"
-        )
-    lines.extend([
         "",
         "## How to read these",
         "",
@@ -601,7 +664,32 @@ def render_start_here() -> str:
         "",
         "Every text below is readable on this site.",
         "",
+        "## Your First 12",
+        "",
+        "If the complete collection feels like too much choice, follow this "
+        "shorter route. It begins with brief, recognizable teachings and only "
+        "then introduces the longer foundations.",
+        "",
     ]
+    by_key = {s.key: s for s in TRANSLATION_SURFACES}
+    for number, key in enumerate(FIRST_TWELVE, start=1):
+        surface = by_key[key]
+        meta = reader_meta(surface)
+        body = surface_body(surface.main_path.read_text(encoding="utf-8"))
+        words, minutes = reading_stats(body)
+        lines.append(
+            f"{number}. [**{display_title(surface)}**](suttas/{surface.main_name}) "
+            f"— {surface.label} · about {minutes} min · {words:,} words. "
+            f"{meta.path_note}"
+        )
+    lines.extend([
+        "",
+        "## The complete reading order",
+        "",
+        "The five sets below include every translation and move from the least "
+        "technical material to advanced and reference texts.",
+        "",
+    ])
     for number, title, blurb in STAGES:
         staged = [
             s for s in surfaces_in_reading_order()
@@ -620,7 +708,6 @@ def render_start_here() -> str:
             )
         lines.append("")
 
-    by_key = {s.key: s for s in TRANSLATION_SURFACES}
     names = ", ".join(
         f"[{display_title(by_key[k])}](suttas/{by_key[k].main_name})"
         for k in ESSENTIAL_FIVE

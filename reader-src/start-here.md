@@ -6,6 +6,27 @@ This is deliberately **not** the project's internal translation roadmap. That ro
 
 Every text below is readable on this site.
 
+## Your First 12
+
+If the complete collection feels like too much choice, follow this shorter route. It begins with brief, recognizable teachings and only then introduces the longer foundations.
+
+1. [**What Keeps the World Human**](suttas/an2-9-cariya-sutta.md) — AN 2.9 · about 1 min · 109 words. Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.
+2. [**Good Friendship Is the Whole Path**](suttas/sn45-2-upaddha-sutta.md) — SN 45.2 · about 2 min · 330 words. Ānanda calls good friendship half the spiritual life; the Buddha calls it the whole. A short, social bridge from testing a teaching to actually developing the path.
+3. [**What Ignorance Means**](suttas/sn56-17-avijja-sutta.md) — SN 56.17 · about 1 min · 106 words. A bhikkhu asks what ignorance means. The answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.
+4. [**One Arrow, Not Two**](suttas/sn36-6-salla-sutta.md) — SN 36.6 · about 5 min · 783 words. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. Concrete, bodily, and immediately recognizable.
+5. [**When Life Goes Up and Down**](suttas/an8-6-dutiyalokadhamma-sutta.md) — AN 8.6 · about 5 min · 824 words. Gain and loss, praise and blame, pleasure and pain happen to everyone. The difference is whether they take over the heart.
+6. [**Six Things to Remember Anywhere**](suttas/an11-12-dutiyamahanama-sutta.md) — AN 11.12 · about 4 min · 547 words. Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.
+7. [**How to Test a Teaching**](suttas/an3-65-kesamutta-sutta.md) — AN 3.65 · about 10 min · 1,786 words. A practical starting point for judging a teaching: tradition, reasoning, and a teacher's authority are not sufficient on their own. Examine what happens when a teaching is put into practice.
+8. [**The Man Struck by a Poisoned Arrow**](suttas/mn63-culamalukya-sutta.md) — MN 63 · about 10 min · 1,729 words. Why the teaching refuses to answer certain metaphysical questions. Directly answers the objection a skeptical reader will already be forming after the first text.
+9. [**The First Teaching**](suttas/sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11 · about 7 min · 1,221 words. The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.
+10. [**What Is Fit to Call Self?**](suttas/sn22-59-anattalakkhana-sutta.md) — SN 22.59 · about 6 min · 1,016 words. The second sermon. Not-self laid out as a clean, followable argument rather than an assertion.
+11. [**Two Kinds of Thinking**](suttas/mn19-dvedhavitakka-sutta.md) — MN 19 · about 10 min · 1,769 words. Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.
+12. [**How the World Arises—and Ends**](suttas/sn12-44-loka-sutta.md) — SN 12.44 · about 2 min · 345 words. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
+
+## The complete reading order
+
+The five sets below include every translation and move from the least technical material to advanced and reference texts.
+
 ## Set 1 — Before Any Doctrine
 
 Texts that set the tone before anything technical shows up: why to trust this material at all, why some questions get deliberately left unanswered, and who was actually asking these questions.

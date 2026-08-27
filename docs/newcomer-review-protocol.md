@@ -8,10 +8,15 @@ current progress. The JSON ledger remains authoritative.
 
 ## Cohort and threshold
 
-The initial cohort is the Essential Five plus MN 131 and SN 22.86. Each text
-needs five people who are new to early Buddhist suttas. At least four must be
-able to explain both what happened and the practical point without being fed
-the answer.
+The current cohort is the newcomer First 12 defined in
+`scripts/surface_registry.py`. Each text needs five people who are new to early
+Buddhist suttas. At least four must be able to explain both what happened and
+the practical point without being fed the answer.
+
+Begin with the three-text pilot: AN 2.9, SN 36.6, and AN 3.65. Do not wait for
+the other nine texts before acting on a recurring problem found across these
+three different lengths and forms. A wording change that materially affects a
+reviewed passage invalidates the affected evidence and must be reviewed again.
 
 Record only anonymous participant labels such as `R1`. Do not record names,
 email addresses, demographic data, or private contact details in the repo.
@@ -23,7 +28,11 @@ email addresses, demographic data, or private contact details in the repo.
 3. Ask: “In your own words, what happened or what was being discussed?”
 4. Ask: “What do you think the practical point is?”
 5. Ask which sentence or term made them stop or reread.
-6. Separately, have a reviewer read the complete translation aloud and record
+6. Ask: “If you wanted to continue, would you know what to read next?” Record
+   the answer outside the repository unless it identifies a concrete page
+   problem; the governed ledger deliberately stores only comprehension
+   evidence.
+7. Separately, have a reviewer read the complete translation aloud and record
    any sentence that is hard to speak or understand on first hearing.
 
 A comprehension pass means both paraphrases are materially accurate and were

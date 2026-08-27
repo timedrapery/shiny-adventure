@@ -9,6 +9,14 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,729 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 8 of 12**
+
+[← How to Test a Teaching](an3-65-kesamutta-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [The First Teaching →](sn56-11-dhammacakkappavattana-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
@@ -37,6 +45,7 @@ The text is not rejecting every kind of question. It separates questions that do
 
 ### Key words
 
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>undeclared</dfn></dt>
 <dd>A question the Buddha deliberately left unanswered -- not because he didn&#x27;t know, but because answering it wouldn&#x27;t help anyone actually practice.</dd>

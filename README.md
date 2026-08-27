@@ -73,6 +73,8 @@ Those files are review material. They do not become governed lexicon content unt
 - Need term-directory navigation: [terms/README.md](terms/README.md)
 - Working from extracted candidates: [candidates/README.md](candidates/README.md)
 - Need generated reference-material guidance: [docs/generated/generated-docs-guide.md](docs/generated/generated-docs-guide.md)
+- Improving the public reader for people new to Pali and Buddha-Dhamma:
+  [docs/newcomer-accessibility-implementation-plan.md](docs/newcomer-accessibility-implementation-plan.md)
 
 ## First Contribution Paths
 
@@ -207,7 +209,12 @@ standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-Picking the work up cold: start with the durable [Wave 10 execution plan](docs/wave-10-execution-plan.md), then use [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the full editorial method and repository history.
+Picking the reader-accessibility work up cold: start with the durable
+[newcomer accessibility implementation plan](docs/newcomer-accessibility-implementation-plan.md)
+and the [newcomer review workboard](reviews/README.md). For translation
+expansion, start with the [Wave 10 execution plan](docs/wave-10-execution-plan.md),
+then use [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md)
+for the full editorial method and repository history.
 
 Planning notes live in the [Wave 10 execution plan](docs/wave-10-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 

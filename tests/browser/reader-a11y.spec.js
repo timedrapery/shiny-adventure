@@ -54,6 +54,21 @@ test("skip link and disclosure panels work from the keyboard", async ({ page }) 
   await expect(source).toHaveAttribute("open", "");
 });
 
+test("long repeated sections remain complete and can be collapsed", async ({ page }) => {
+  await page.goto("/suttas/mn118-anapanasati-sutta/");
+  const button = page.locator("button.reader-repeat-toggle").first();
+  await expect(button).toBeVisible();
+  await expect(button).toHaveAttribute("aria-expanded", "true");
+  const controlled = await button.getAttribute("aria-controls");
+  const section = page.locator(`#${controlled}`);
+  await expect(section).toBeVisible();
+  await button.click();
+  await expect(button).toHaveAttribute("aria-expanded", "false");
+  await expect(section).toBeHidden();
+  await button.click();
+  await expect(section).toBeVisible();
+});
+
 test("discovery filters narrow and restore the complete corpus", async ({ page }) => {
   await page.goto("/find-a-sutta/");
   const cards = page.locator(".sutta-card");
