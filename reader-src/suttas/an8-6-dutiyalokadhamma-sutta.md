@@ -9,14 +9,57 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 5 min · 824 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 5 of 12**
+
+[← One Arrow, Not Two](sn36-6-salla-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [Six Things to Remember Anywhere →](an11-12-dutiyamahanama-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-This text does not promise a life without gain and loss, praise and blame, or
-pleasure and pain. It asks what happens after one of those conditions arrives.
-The contrast is between letting it take over the heart and seeing clearly that
-it will change.
+<div class="reader-guide" markdown="1">
+
+### What happens
+
+The Buddha compares two ways people respond to gain and loss, fame and disrepute, blame and praise, and pleasure and pain.
+
+### Central question
+
+Since changing circumstances happen to everyone, what makes one person get carried away by them while another remains free?
+
+### Main point
+
+The difference is not whether pleasant and painful events occur. It is whether the heart welcomes one side, resists the other, and gets taken over, or sees that every condition is unstable and bound to change.
+
+### Reading tip
+
+The two long middle sections mirror one another. Learn the pattern from gain and loss, then notice that the same response is applied to status, other people's judgments, and bodily feeling.
+
+### This text is not saying
+
+The text does not promise a life without loss, blame, or pain, and it does not recommend suppressing them. It contrasts being taken over by changing conditions with understanding them as they occur.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>ordinary person</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
+<dt><dfn>noble disciple</dfn></dt>
+<dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
+<dt><dfn>resistance</dfn></dt>
+<dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
+<dt><dfn>dissatisfaction</dfn></dt>
+<dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

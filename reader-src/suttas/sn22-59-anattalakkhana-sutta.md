@@ -9,6 +9,14 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 6 min · 1,016 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 10 of 12**
+
+[← The First Teaching](sn56-11-dhammacakkappavattana-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [Two Kinds of Thinking →](mn19-dvedhavitakka-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
@@ -37,6 +45,7 @@ This passage is not trying to prove that nobody exists. It focuses on whether th
 
 ### Key words
 
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>

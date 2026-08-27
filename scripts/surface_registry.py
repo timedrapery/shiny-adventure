@@ -590,6 +590,48 @@ ESSENTIAL_FIVE: tuple[str, ...] = (
     "an3_65", "sn56_11", "sn36_6", "mn63", "sn22_59",
 )
 
+# The deliberately small, newcomer-tested front door to the full corpus.
+# This order is independent of both canonical order and the five-stage reading
+# path: it starts with short, recognizable teachings before asking a new reader
+# to take on the longer foundational texts.
+FIRST_TWELVE: tuple[str, ...] = (
+    "an2_9",
+    "sn45_2",
+    "sn56_17",
+    "sn36_6",
+    "an8_6",
+    "an11_12",
+    "an3_65",
+    "mn63",
+    "sn56_11",
+    "sn22_59",
+    "mn19",
+    "sn12_44",
+)
+
+QUICK_START = "sn45_2"
+
+# Short, human-centered ways into the First 12. A path may reuse a text from
+# another path; the purpose is to answer the reader's present question, not to
+# partition the corpus.
+NEWCOMER_PATHWAYS: tuple[tuple[str, str, tuple[str, ...]], ...] = (
+    (
+        "I am curious but skeptical",
+        "Begin with how to evaluate a teaching and why some questions are set aside.",
+        ("an3_65", "mn63", "sn45_2"),
+    ),
+    (
+        "I am dealing with stress or pain",
+        "Start with pain, changing circumstances, and the practical meaning of ignorance.",
+        ("sn36_6", "an8_6", "sn56_17"),
+    ),
+    (
+        "I want something practical to try",
+        "Begin with ethical awareness, everyday recollection, and training thought.",
+        ("an2_9", "an11_12", "mn19"),
+    ),
+)
+
 READER_METADATA: dict[str, ReaderMeta] = {
     # Stage 1 -- Before Any Doctrine
     "an3_65": ReaderMeta(

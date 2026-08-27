@@ -9,6 +9,14 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 5 min · 783 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 4 of 12**
+
+[← What Ignorance Means](sn56-17-avijja-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [When Life Goes Up and Down →](an8-6-dutiyalokadhamma-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
@@ -37,6 +45,7 @@ The text does not say that training prevents bodily pain. Its contrast is betwee
 
 ### Key words
 
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>

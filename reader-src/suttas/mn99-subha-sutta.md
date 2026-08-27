@@ -583,7 +583,7 @@ whose realm the Tathāgata lives, the arahant, the rightly self-awakened
 Buddha!"
 
 <details class="reader-terms">
-<summary>Words used in this translation (26)</summary>
+<summary>Words used in this translation (27)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -629,6 +629,8 @@ Buddha!"
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
+<dt><dfn>Saṅgha</dfn></dt>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
@@ -684,6 +686,7 @@ Buddha!"
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
+*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.

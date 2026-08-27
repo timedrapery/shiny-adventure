@@ -16,11 +16,12 @@ presentation layer over them, rebuilt by one script.
 | `terms/**/*.json` | authoritative | editorial layer |
 | `scripts/surface_registry.py` | authoritative | corpus + reader metadata |
 | `includes/glossary.md` | authoritative | hand-written reader-facing glosses |
-| `includes/newcomer-guides/*.json` | authoritative | structured Essential Five orientation |
-| `includes/reader-intros/*.md` | authoritative | hand-written orientation for newer non-Essential surfaces |
+| `includes/newcomer-guides/*.json` | authoritative | structured First 12 orientation |
+| `includes/reader-intros/*.md` | authoritative | hand-written orientation for newer non-First-12 surfaces |
 | `reader-src/about.md` | authoritative | hand-written reader prose |
-| a legacy `About this text` / `Before you read` block outside the Essential Five | authoritative | preserved reader prose |
-| everything else under `reader-src/` | **generated** | `scripts/generate_reader.py` |
+| `reader-src/stylesheets/` and `reader-src/javascripts/` | authoritative | progressive presentation and interaction |
+| a legacy `About this text` / `Before you read` block outside the First 12 | authoritative | preserved reader prose |
+| generated Markdown under `reader-src/` | **generated** | `scripts/generate_reader.py` |
 | the sutta block in `mkdocs.yml` nav | **generated** | `scripts/generate_reader.py` |
 | `site/` | build output, gitignored | MkDocs |
 
@@ -29,8 +30,8 @@ are kept visibly separate:
 
 - **generated framing** — plain-English title, reference, reading time, skip
   link, visible definitions, and semantic reading-order navigation
-- **newcomer orientation** — a validated structured guide for the Essential
-  Five, or a preserved legacy/default introduction for another text
+- **newcomer orientation** — an evidence-checked structured guide for the
+  First 12, or a preserved legacy/default introduction for another text
 - **canonical translation** — the body copied unchanged from the governed
   surface beneath a generated `Translation` heading, never edited in place
 
@@ -55,7 +56,7 @@ not restated here.
 
 Everything it needs comes from the governed surface named in the registry, the
 reader metadata in the registry, the reader-facing glossary, and the structured
-Essential Five guides in `includes/newcomer-guides/`.
+First 12 guides in `includes/newcomer-guides/`.
 
 ## Reader metadata lives in the surface registry
 
@@ -69,7 +70,10 @@ the same surface key. Each entry carries:
 - `path_note` — the one-line editorial note shown on Start Here
 
 `STAGES` defines the five stages of the reading path and their descriptions.
-`ESSENTIAL_FIVE` is the "if you only read five" set.
+`ESSENTIAL_FIVE` is the "if you only read five" set. `FIRST_TWELVE` is the
+smaller newcomer collection shown before the complete five-stage order.
+`QUICK_START` and `NEWCOMER_PATHWAYS` supply the homepage's low-commitment
+starting text and three human-centered routes.
 
 A test fails if any surface lacks reader metadata, if any metadata is orphaned,
 or if two texts claim the same position in a stage.
@@ -97,7 +101,7 @@ python scripts/generate_reader.py --write
 
 ## Adding or improving newcomer guidance
 
-For an Essential Five text, edit its authoritative JSON record in
+For a First 12 text, edit its authoritative JSON record in
 `includes/newcomer-guides/`; never edit the guide inside the generated sutta
 page. Each record supplies the scene, central question, main point, reading
 cue, key terms, a guard against likely misreadings, and the governed section
@@ -105,7 +109,7 @@ headings that support the summary.
 
 The generator validates that:
 
-- all five guides exist and point to registered Essential Five surfaces
+- all twelve guides exist and point to registered First 12 surfaces
 - required prose fields and three to six key terms are present
 - each key term exists in the reader glossary and occurs in the translation
 - each evidence heading exactly matches a governed translation heading
@@ -120,6 +124,20 @@ Guidance should orient rather than interpret: plain contemporary English, no
 prior Buddhist knowledge assumed, no academic throat-clearing, and no Buddhist
 jargon unless it is immediately explained. Do not adjust the translation to
 match an introduction.
+
+Every First 12 page also shows its position and previous/next step in that
+compact route. The complete five-stage navigation remains available
+independently.
+
+## Progressive guidance for long texts
+
+`reader-src/javascripts/reader-guidance.js` adds section progress cues to long
+translations and optional collapse controls to selected repeated patterns. It
+changes presentation only: the complete governed text is present and expanded
+by default, remains readable without JavaScript, and is never rewritten by the
+script. Add a section to its explicit allowlist only when the repetition is
+structural and hiding it temporarily helps navigation without hiding what
+changes from one cycle to the next.
 
 ## The glossary
 

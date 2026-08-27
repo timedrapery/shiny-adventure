@@ -9,20 +9,59 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 4 min · 547 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 6 of 12**
+
+[← When Life Goes Up and Down](an8-6-dutiyalokadhamma-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [How to Test a Teaching →](an3-65-kesamutta-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-Mahānāma has just recovered from an illness when he hears that the Buddha is
-about to leave on a journey. He asks a wonderfully ordinary question: with
-people living in so many different ways, how should we actually live?
+<div class="reader-guide" markdown="1">
 
-The answer does not require a retreat or a special posture. Start with five
-reliable qualities, then remember six sources of confidence and goodness
-while walking, standing, sitting, lying down, working, or living with your
-family. Watch the practical sequence: remembering points the heart straight,
-brings active gladness and rejoicing, relaxes the body, and lets the heart
-become composed.
+### What happens
+
+Mahānāma expects the Buddha to travel away and asks how to keep practicing while living an ordinary household life.
+
+### Central question
+
+What can someone remember and develop while working, moving around, and living at home?
+
+### Main point
+
+Stand on confidence, energy, remembering, composure, and discernment. Then repeatedly remember examples of awakening, teaching, community, conduct, generosity, and good qualities until the heart straightens, brightens, relaxes, and becomes composed.
+
+### Reading tip
+
+The six recollections contain traditional formulas and unfamiliar names. Keep your eye on what the practice does to the heart and on the final instruction to use it anywhere, including at work and around family.
+
+### This text is not saying
+
+The text does not restrict practice to formal meditation, solitude, or monastic life. Its closing instruction explicitly places these recollections in movement, work, and family life.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>remembering</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>Dhamma</dfn></dt>
+<dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
+<dt><dfn>Saṅgha</dfn></dt>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dt><dfn>arahant</dfn></dt>
+<dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
+</dl>
+
+</div>
 
 ## Translation
 
@@ -122,7 +161,7 @@ you."
 The second discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (13)</summary>
+<summary>Words used in this translation (14)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -148,6 +187,8 @@ The second discourse is finished.
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>Saṅgha</dfn></dt>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
@@ -187,4 +228,5 @@ The second discourse is finished.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

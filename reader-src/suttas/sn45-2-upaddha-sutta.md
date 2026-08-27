@@ -9,15 +9,57 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 2 min · 330 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 2 of 12**
+
+[← What Keeps the World Human](an2-9-cariya-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [What Ignorance Means →](sn56-17-avijja-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-Ānanda says that good friendship is half the spiritual life. The Buddha
-corrects him: it is the whole of it. Watch how the answer moves from friendship
-to developing every part of the eightfold path. The claim is not that another
-person can practice for you, but that the path becomes possible through wise
-companionship and teaching.
+<div class="reader-guide" markdown="1">
+
+### What happens
+
+Ānanda tells the Buddha that good friendship seems to be half of the spiritual life. The Buddha corrects him and calls it the whole.
+
+### Central question
+
+How much of the path depends on having good friends, companions, and examples?
+
+### Main point
+
+Good friendship supplies the conditions in which the whole path can be developed. The Buddha then points to himself as the decisive example of a good friend: through relying on his teaching, people can practice toward freedom.
+
+### Reading tip
+
+The long middle section names all eight parts of the path. You do not need to memorize them here. Follow the repeated point that good friendship supports the development of every part.
+
+### This text is not saying
+
+The text is not saying that pleasant company by itself completes the path. Its idea of a good friend is someone whose example and guidance support the entire course of practice.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>spiritual life</dfn></dt>
+<dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+<dt><dfn>noble eightfold path</dfn></dt>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dt><dfn>right remembering</dfn></dt>
+<dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
+<dt><dfn>right composure</dfn></dt>
+<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
+<dt><dfn>quenching</dfn></dt>
+<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

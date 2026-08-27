@@ -5,15 +5,70 @@
     "independent_passes_required": 4
   },
   "cohort": [
-    "an3_65",
-    "sn56_11",
+    "an2_9",
+    "sn45_2",
+    "sn56_17",
     "sn36_6",
+    "an8_6",
+    "an11_12",
+    "an3_65",
     "mn63",
+    "sn56_11",
     "sn22_59",
-    "mn131",
-    "sn22_86"
+    "mn19",
+    "sn12_44"
   ],
   "surfaces": {
+    "an2_9": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/an2-9-cariya-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn45_2": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/sn45-2-upaddha-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "sn56_17": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-25",
+        "evidence": "docs/translations/sn56-17-avijja-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "an8_6": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-24",
+        "evidence": "docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
+    "an11_12": {
+      "status": "recruiting",
+      "source_fidelity": {
+        "status": "complete",
+        "completed_on": "2026-08-25",
+        "evidence": "docs/translations/an11-12-dutiyamahanama-sutta-notes.md"
+      },
+      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "newcomer_reviews": []
+    },
     "an3_65": {
       "status": "recruiting",
       "source_fidelity": {
@@ -64,22 +119,22 @@
       "human_read_aloud": {"status": "pending", "reviewers": []},
       "newcomer_reviews": []
     },
-    "mn131": {
+    "mn19": {
       "status": "recruiting",
       "source_fidelity": {
         "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/mn131-bhaddekaratta-sutta-notes.md"
+        "completed_on": "2026-08-23",
+        "evidence": "docs/translations/mn19-dvedhavitakka-sutta-notes.md"
       },
       "human_read_aloud": {"status": "pending", "reviewers": []},
       "newcomer_reviews": []
     },
-    "sn22_86": {
+    "sn12_44": {
       "status": "recruiting",
       "source_fidelity": {
         "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn22-86-anuradha-sutta-notes.md"
+        "completed_on": "2026-08-25",
+        "evidence": "docs/translations/sn12-44-loka-sutta-notes.md"
       },
       "human_read_aloud": {"status": "pending", "reviewers": []},
       "newcomer_reviews": []

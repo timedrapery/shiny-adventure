@@ -9,26 +9,59 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,769 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 11 of 12**
+
+[← What Is Fit to Call Self?](sn22-59-anattalakkhana-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [How the World Arises—and Ends →](sn12-44-loka-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-Before his awakening, the Buddha says, he split his own thinking into two
-piles and watched what each one did.
+<div class="reader-guide" markdown="1">
 
-That is all the method is. Notice a thought; notice which pile it belongs in;
-notice where it leads if you keep going. The thoughts that lead somewhere bad
-he did not suppress — he watched them long enough to see the damage, and they
-fell away.
+### What happens
 
-Then the cowherd. In the wet season, when the crops are up, a cowherd has to
-watch the cattle constantly. After harvest, he can sit under a tree and simply
-keep them in view. Attention gets less effortful as the risk drops, not because
-he stopped caring.
+The Buddha describes how, before awakening, he divided his own thinking into two groups and watched where each group led.
 
-This is the simplest entry point into mind-training in the collection. Nothing
-here requires special conditions, and the whole thing is checkable against your
-own next hour.
+### Central question
+
+How does repeatedly thinking along one line shape the heart, and what can be done when a line of thought leads toward harm or distress?
+
+### Main point
+
+Repeated thinking inclines the heart in the same direction. Thoughts connected with sensuality, ill will, and harming are examined for their consequences and allowed to subside; thoughts connected with letting go, non-ill-will, and non-harming are developed without straining the heart.
+
+### Reading tip
+
+The immediately usable teaching is in the first two classes of thought and the two cowherd comparisons. The later account of deep practice and awakening shows where this training led; you do not need to master that whole sequence on a first reading.
+
+### This text is not saying
+
+The text is not telling you to fight every unwanted thought or to keep thinking without rest. It examines thoughts by the direction and consequences they reinforce, and it explicitly says that even helpful thinking can strain the heart when continued too long.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>heart</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>wholesome</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
+<dt><dfn>unwholesome</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dt><dfn>remembering</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>composure</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>mental theme</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

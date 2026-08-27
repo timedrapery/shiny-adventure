@@ -60,6 +60,24 @@ class MetadataCoverageTests(unittest.TestCase):
         for key in registry.ESSENTIAL_FIVE:
             self.assertIn(key, keys)
 
+    def test_first_twelve_are_registered_unique_surfaces(self) -> None:
+        keys = {s.key for s in registry.TRANSLATION_SURFACES}
+        self.assertEqual(len(registry.FIRST_TWELVE), 12)
+        self.assertEqual(len(set(registry.FIRST_TWELVE)), 12)
+        for key in registry.FIRST_TWELVE:
+            self.assertIn(key, keys)
+
+    def test_quick_start_and_pathways_use_first_twelve_surfaces(self) -> None:
+        first = set(registry.FIRST_TWELVE)
+        self.assertIn(registry.QUICK_START, first)
+        self.assertEqual(len(registry.NEWCOMER_PATHWAYS), 3)
+        for title, description, keys in registry.NEWCOMER_PATHWAYS:
+            self.assertTrue(title.strip())
+            self.assertTrue(description.strip())
+            self.assertGreaterEqual(len(keys), 3)
+            self.assertLessEqual(len(keys), 5)
+            self.assertEqual(set(keys) - first, set())
+
     def test_every_surface_has_discovery_metadata(self) -> None:
         for surface in registry.TRANSLATION_SURFACES:
             self.assertTrue(registry.reader_topics(surface), surface.key)
@@ -178,19 +196,27 @@ class CorpusCountTests(unittest.TestCase):
         total = len(registry.TRANSLATION_SURFACES)
         self.assertIn(f"All {total} translations", self._read("index.md"))
 
-    def test_essential_five_reading_claim_is_computed_from_the_corpus(self) -> None:
+    def test_home_page_has_a_computed_quick_start(self) -> None:
         by_key = {surface.key: surface for surface in registry.TRANSLATION_SURFACES}
-        words = sum(
-            reader.translation_word_count(reader.surface_body(
-                by_key[key].main_path.read_text(encoding="utf-8")
-            ))
-            for key in registry.ESSENTIAL_FIVE
-        )
+        quick = by_key[registry.QUICK_START]
+        words = reader.translation_word_count(reader.surface_body(
+            quick.main_path.read_text(encoding="utf-8")
+        ))
         minutes = (words + reader.WORDS_PER_MINUTE - 1) // reader.WORDS_PER_MINUTE
         home = reader.render_home()
+        self.assertIn(reader.display_title(quick), home)
         self.assertIn(f"about {minutes} minutes", home)
-        self.assertIn(f"({words:,} words)", home)
-        self.assertNotIn("under a thousand words", home)
+        self.assertIn("No Pali and no Buddhist background are required", home)
+
+    def test_start_here_lists_first_twelve_in_order(self) -> None:
+        text = reader.render_start_here()
+        positions = []
+        by_key = {surface.key: surface for surface in registry.TRANSLATION_SURFACES}
+        first_section = text.split("## The complete reading order", 1)[0]
+        for key in registry.FIRST_TWELVE:
+            needle = f"suttas/{by_key[key].main_name}"
+            positions.append(first_section.index(needle))
+        self.assertEqual(positions, sorted(positions))
 
     def test_no_stale_hardcoded_counts_in_reader_prose(self) -> None:
         total = len(registry.TRANSLATION_SURFACES)
@@ -284,6 +310,16 @@ class NavigationTests(unittest.TestCase):
             reader.MKDOCS.read_text(encoding="utf-8"), reader.planned_mkdocs()
         )
 
+    def test_progressive_reader_guidance_asset_is_registered(self) -> None:
+        mkdocs = reader.MKDOCS.read_text(encoding="utf-8")
+        asset = READER_DIR / "javascripts" / "reader-guidance.js"
+        self.assertTrue(asset.is_file())
+        self.assertIn("javascripts/reader-guidance.js", mkdocs)
+        script = asset.read_text(encoding="utf-8")
+        self.assertIn("aria-expanded", script)
+        self.assertIn("content.hidden", script)
+        self.assertIn("visible by default", script)
+
 
 class GlossaryTests(unittest.TestCase):
     def test_glossary_source_parses(self) -> None:
@@ -368,14 +404,14 @@ class GlossaryTests(unittest.TestCase):
 
 
 class NewcomerGuideTests(unittest.TestCase):
-    def test_guides_cover_the_essential_five_exactly(self) -> None:
+    def test_guides_cover_the_first_twelve_exactly(self) -> None:
         guides = reader.load_newcomer_guides()
-        self.assertEqual(set(guides), set(registry.ESSENTIAL_FIVE))
+        self.assertEqual(set(guides), set(registry.FIRST_TWELVE))
 
-    def test_essential_pages_render_the_structured_orientation(self) -> None:
+    def test_first_twelve_pages_render_the_structured_orientation(self) -> None:
         planned = reader.planned_files()
         by_key = {surface.key: surface for surface in registry.TRANSLATION_SURFACES}
-        for key in registry.ESSENTIAL_FIVE:
+        for key in registry.FIRST_TWELVE:
             page = planned[SUTTA_DIR / by_key[key].main_name]
             for heading in (
                 "### What happens",
@@ -386,6 +422,21 @@ class NewcomerGuideTests(unittest.TestCase):
                 "### Key words",
             ):
                 self.assertIn(heading, page, key)
+
+    def test_first_twelve_pages_show_position_and_next_step(self) -> None:
+        planned = reader.planned_files()
+        by_key = {surface.key: surface for surface in registry.TRANSLATION_SURFACES}
+        for position, key in enumerate(registry.FIRST_TWELVE, start=1):
+            page = planned[SUTTA_DIR / by_key[key].main_name]
+            self.assertIn('aria-label="First 12 reading route"', page, key)
+            self.assertIn(
+                f"Your First 12: {position} of {len(registry.FIRST_TWELVE)}",
+                page,
+                key,
+            )
+            if position < len(registry.FIRST_TWELVE):
+                following = by_key[registry.FIRST_TWELVE[position]]
+                self.assertIn(following.main_name, page, key)
 
     def test_guide_validation_checks_terms_and_governed_headings(self) -> None:
         # Loading is the validation boundary; malformed terms or evidence

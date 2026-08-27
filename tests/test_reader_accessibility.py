@@ -133,10 +133,10 @@ class DiscoveryPageTests(unittest.TestCase):
 
 
 class NewcomerGuideTests(unittest.TestCase):
-    def test_current_essential_five_guides_load(self) -> None:
+    def test_current_first_twelve_guides_load(self) -> None:
         guides, failures = accessibility.load_guides()
         self.assertEqual(failures, [])
-        self.assertEqual(set(guides), set(accessibility.ESSENTIAL_FIVE))
+        self.assertEqual(set(guides), set(accessibility.FIRST_TWELVE))
 
     def test_guide_content_and_key_terms_must_be_visible_before_translation(self) -> None:
         guide = {

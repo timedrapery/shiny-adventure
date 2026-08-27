@@ -9,19 +9,59 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 2 min · 345 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 12 of 12**
+
+[← Two Kinds of Thinking](mn19-dvedhavitakka-sutta.md) · [First 12 overview](../start-here.md#your-first-12)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-Here "the world" does not mean a planet being created or destroyed. It means
-the world as we live it: an eye meets a sight, knowing arises, and the three
-make contact. From there, felt experience can lead into wanting, taking the
-experience personally, and a chain that ends in dissatisfaction.
+<div class="reader-guide" markdown="1">
 
-The repetition is the point. The process can begin through sights, sounds,
-smells, tastes, touches, or thoughts. On the ending side, the senses do not
-vanish. What changes is that wanting fades and quenches, so the chain built on
-taking experience personally no longer keeps going.
+### What happens
+
+The Buddha traces the experienced world through seeing, hearing, smelling, tasting, touching, and thinking, then traces how the same process can end.
+
+### Central question
+
+How does an experienced world become a chain of dissatisfaction, and where can that chain stop?
+
+### Main point
+
+Sense experience conditions feeling; feeling can condition ignorant wanting; wanting can lead to taking experience personally and to the rest of the chain of dissatisfaction. When that wanting fades and quenches, the dependent chain no longer continues in the same way.
+
+### Reading tip
+
+The arising and ending halves deliberately mirror one another. First follow the eye example, then treat the other five senses as parallel starting points for the same sequence.
+
+### This text is not saying
+
+The text is not describing the physical creation or destruction of a planet. Here, world means the lived world that forms through the senses, the mind, and the responses that follow.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>world</dfn></dt>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dt><dfn>contact</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
+<dt><dfn>felt experience</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dt><dfn>ignorant wanting</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dt><dfn>taking personally</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;upādāna&quot; -- treating some piece of experience as &quot;me&quot; or &quot;mine&quot; and holding on to it. Usually translated &quot;clinging&quot; or &quot;attachment.&quot;</dd>
+<dt><dfn>quenching</dfn></dt>
+<dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

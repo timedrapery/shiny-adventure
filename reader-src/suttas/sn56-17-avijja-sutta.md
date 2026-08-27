@@ -9,18 +9,55 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 1 min · 106 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 3 of 12**
+
+[← Good Friendship Is the Whole Path](sn45-2-upaddha-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [One Arrow, Not Two →](sn36-6-salla-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
-In everyday speech, ignorance can mean simply not having enough facts. Here it
-has a narrower, practical meaning: not understanding dissatisfaction, where it
-comes from, how it ends, and the path that leads to its ending.
+<div class="reader-guide" markdown="1">
 
-The Pali source abbreviates the final four lines because the pattern was meant
-to be supplied by a reciter. This edition prints all four. The point is not
-just to know a definition of ignorance, but to apply yourself to understanding
-each part of the process.
+### What happens
+
+A monk asks the Buddha for a precise explanation of what people mean when they speak about ignorance.
+
+### Central question
+
+In this teaching, what exactly is a person failing to understand when they are caught in ignorance?
+
+### Main point
+
+Ignorance is not a lack of education or intelligence. It is not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.
+
+### Reading tip
+
+The answer comes in a four-part pattern. Read the final list as four things to investigate, not as four statements you are being asked to accept without examination.
+
+### This text is not saying
+
+The text is not using ignorance to mean stupidity or a general lack of facts. It gives the word a specific practical meaning tied to dissatisfaction and its ending.
+
+### Key words
+
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
+<dl class="reader-guide__terms">
+<dt><dfn>ignorance</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
+<dt><dfn>dissatisfaction</dfn></dt>
+<dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
+<dt><dfn>path of practice</dfn></dt>
+<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
+<dt><dfn>bhikkhu</dfn></dt>
+<dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
+</dl>
+
+</div>
 
 ## Translation
 

@@ -17,11 +17,11 @@ from typing import Any
 
 try:
     from scripts import generate_reader
-    from scripts.surface_registry import ESSENTIAL_FIVE, TRANSLATION_SURFACES
+    from scripts.surface_registry import FIRST_TWELVE, TRANSLATION_SURFACES
 except ModuleNotFoundError:  # invoked as a script from the repository root
     import generate_reader  # type: ignore[no-redef]
     from surface_registry import (  # type: ignore[no-redef]
-        ESSENTIAL_FIVE,
+        FIRST_TWELVE,
         TRANSLATION_SURFACES,
     )
 
@@ -115,14 +115,14 @@ def _section(text: str, heading: str) -> str | None:
 
 def load_guides(
     repo_root: Path = REPO_ROOT,
-    essential_five: tuple[str, ...] = ESSENTIAL_FIVE,
+    guide_cohort: tuple[str, ...] = FIRST_TWELVE,
 ) -> tuple[dict[str, dict[str, Any]], list[str]]:
-    """Load and minimally validate the Essential Five newcomer guides."""
+    """Load and minimally validate the First 12 newcomer guides."""
     guides: dict[str, dict[str, Any]] = {}
     failures: list[str] = []
     guide_dir = repo_root / "includes" / "newcomer-guides"
 
-    for key in essential_five:
+    for key in guide_cohort:
         path = guide_dir / f"{key}.json"
         relative = _relative(path, repo_root)
         if not path.is_file():
@@ -391,9 +391,9 @@ def collect_failures(
     failures.extend(accessibility_asset_failures(mkdocs_text, css_text, css_exists))
 
     by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
-    for key in ESSENTIAL_FIVE:
+    for key in FIRST_TWELVE:
         if key not in by_key:
-            failures.append(f"Essential Five key `{key}` is not a registered surface")
+            failures.append(f"First 12 key `{key}` is not a registered surface")
 
     sutta_dir = repo_root / "reader-src" / "suttas"
     for surface in TRANSLATION_SURFACES:

@@ -9,6 +9,14 @@
 
 <p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,221 words</p>
 
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 9 of 12**
+
+[← The Man Struck by a Poisoned Arrow](mn63-culamalukya-sutta.md) · [First 12 overview](../start-here.md#your-first-12) · [What Is Fit to Call Self? →](sn22-59-anattalakkhana-sutta.md)
+
+</nav>
+
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
@@ -37,6 +45,7 @@ The four truths are not presented as four beliefs to memorize. The repeated sect
 
 ### Key words
 
+<p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>

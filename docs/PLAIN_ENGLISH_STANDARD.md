@@ -237,6 +237,24 @@ lexicon, and the reader edition's tooltips.
 Do not drop a Pāli word into the English just because Buddhist readers would
 recognize it.
 
+### 9. Explain a technical word before it can strand the reader
+
+A definition below the translation or behind a pointer tooltip is useful for
+reference, but it is too late when an unfamiliar word blocks the first read.
+For the newcomer First 12, every deliberately retained Pāli term and every
+distinctive house rendering needed to follow the main point must be explained
+in the `Before you read` guide.
+
+This first-encounter help is part of the reader layer, not the governed
+translation. Do not insert explanatory doctrine into a speaker's words without
+source support. Keep the short definition visible without requiring hover,
+Pāli knowledge, or a separate glossary visit; keep the full words-used panel
+for readers who want more detail.
+
+Prioritize words such as `bhikkhu`, `arahant`, `nibbāna`, `Dhamma`, `Saṅgha`,
+`heart`, `thinking mind`, `remembering`, and `composure` whenever they are
+necessary to understand the page.
+
 ## Words To Be Suspicious Of
 
 These are not banned. The rule is never to use them *automatically* because
