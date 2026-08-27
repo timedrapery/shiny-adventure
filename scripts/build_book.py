@@ -74,9 +74,16 @@ TERMS_DETAILS = re.compile(
     r"[^>]*>.*?</details>\s*",
     re.IGNORECASE | re.DOTALL,
 )
+# The five-set reading order and the First 12 route are both on-site
+# navigation whose links point at other Markdown pages. The EPUB carries its
+# own linear order and table of contents, so these blocks are dropped rather
+# than rewritten; left in, they become unresolvable in-archive links.
+READER_NAV_CLASSES = ("reading-order", "first-twelve-nav")
 READING_NAV = re.compile(
     r"\s*(?:---\s*)?<nav\b"
-    r"(?=[^>]*\bclass=[\"'][^\"']*\breading-order\b[^\"']*[\"'])"
+    r"(?=[^>]*\bclass=[\"'][^\"']*\b(?:"
+    + "|".join(READER_NAV_CLASSES)
+    + r")\b[^\"']*[\"'])"
     r"[^>]*>.*?</nav>\s*",
     re.IGNORECASE | re.DOTALL,
 )

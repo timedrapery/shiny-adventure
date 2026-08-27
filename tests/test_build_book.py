@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import re
 import unittest
 
 from tests.helpers import load_module
@@ -17,6 +18,14 @@ class WebFurnitureTests(unittest.TestCase):
 <p class="reading-meta">Reading time: about 5 min · 784 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
+
+<nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
+
+**Your First 12: 4 of 12**
+
+[Previous](earlier.md) · [Your First 12](../start-here.md#your-first-12) · [Next](later.md)
+
+</nav>
 
 ## Before you read
 
@@ -61,6 +70,9 @@ The governed body stays.
             "reader-terms",
             "reading-order",
             "previous.md",
+            "first-twelve-nav",
+            "earlier.md",
+            "start-here.md",
             "*[term]",
         ):
             self.assertNotIn(web_only, cleaned)
@@ -75,6 +87,20 @@ The governed body stays.
         self.assertNotIn("](glossary.md)", manuscript)
         self.assertIn("](#glossary)", manuscript)
         self.assertNotRegex(manuscript, r"^\*\[[^\]]+\]:", msg=manuscript[:500])
+
+    def test_live_manuscript_keeps_no_relative_markdown_page_links(self) -> None:
+        """A relative Markdown link cannot resolve inside the EPUB archive.
+
+        Absolute links to the governed sources on GitHub are fine and stay.
+        The per-page nav blocks are the usual source of relative ones; this
+        is deliberately broader than any single block, so a newly added one
+        fails here rather than in the EPUB validator after a deploy.
+        """
+        leftover = re.findall(
+            r"\]\((?![a-z][a-z0-9+.-]*:|//)[^)\s]*\.md(?:#[^)\s]*)?\)",
+            book.manuscript(),
+        )
+        self.assertEqual(leftover, [], msg=f"unresolvable EPUB links: {leftover}")
 
     def test_glossary_page_link_becomes_an_epub_heading_link(self) -> None:
         cleaned = book.strip_web_furniture("See the [glossary](glossary.md).")
