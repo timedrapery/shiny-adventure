@@ -195,10 +195,12 @@ and discern rightly."
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (15)</summary>
+<summary>Words used in this translation (16)</summary>
 <dl>
 <dt><dfn>arrow</dfn></dt>
 <dd>A recurring image across these texts with more than one meaning. In MN 63 it&#x27;s a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it&#x27;s a different image entirely: an ordinary person&#x27;s pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
@@ -253,6 +255,7 @@ The sixth discourse is finished.
 
 
 *[arrow]: A recurring image across these texts with more than one meaning. In MN 63 it's a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it's a different image entirely: an ordinary person's pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.

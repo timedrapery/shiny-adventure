@@ -203,8 +203,10 @@ they understand rightly and have crossed beyond becoming."
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (10)</summary>
+<summary>Words used in this translation (11)</summary>
 <dl>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
@@ -250,6 +252,7 @@ The sixth discourse is finished.
 </nav>
 
 
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.

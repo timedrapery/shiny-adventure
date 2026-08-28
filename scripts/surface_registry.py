@@ -235,6 +235,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn12_20",
+        label="SN 12.20",
+        main_relpath="docs/translations/sn12-20-paccaya-sutta.md",
+        notes_relpath="docs/translations/sn12-20-paccaya-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn51_13",
         label="SN 51.13",
         main_relpath="docs/translations/sn51-13-chandasamadhi-sutta.md",
@@ -449,6 +455,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn12_44": "d96035f8601aebff22abc0d3471d2bd7c38014e0fafccf46fe07741136d206c7",
     "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
     "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
+    "sn12_20": "03baa90bc6111be9645ebb036bb0aceac7cb05fa16d475c7adc1a34d7e137c50",
     "sn51_13": "9bab46d9c0f2feb7e1994f3bdbd265a74b9acae41e9058ecb3d700573af15763",
     "sn1_1": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
     "sn55_5": "ce0bbcfd5619eae08a38c0d01fab39674c232f73f2bab3c806d8b4968913ef2c",
@@ -501,6 +508,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "iti49": "2026-08-25",
     "an10_60": "2026-08-24",
     "an11_12": "2026-08-25",
+    "sn12_20": "2026-08-27",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -923,21 +931,29 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
+    "sn12_20": ReaderMeta(
+        "Paccaya Sutta", 4, 15,
+        "Dependent arising stated as a pattern that holds whether or not "
+        "anyone discovers it, kept carefully apart from the changing things "
+        "the pattern runs through—and why someone who sees this stops "
+        "interrogating their own past and future.",
+        reader_title="Discovered, Not Invented",
+    ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 15,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 16,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 16,
+        "Mahānidāna Sutta", 4, 17,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 17,
+        "Sammādiṭṭhi Sutta", 4, 18,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",
@@ -1071,7 +1087,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Dependent arising": (
         "sn12_15", "sn12_44", "sn12_61", "sn12_23", "sn12_11",
-        "sn12_2", "mn38", "dn15", "mn9", "iti49",
+        "sn12_2", "sn12_20", "mn38", "dn15", "mn9", "iti49",
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
@@ -1091,7 +1107,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
-        "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
+        "sn12_20", "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
     ),
     "Teaching with verse": (
         "mn131", "iti44", "iti49", "an11_9", "an8_6", "an4_5",

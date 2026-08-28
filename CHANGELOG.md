@@ -8,6 +8,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 12.20, Paccaya Sutta, with
+  companion notes, a reader introduction, reader metadata, and a generated
+  reader page. The discourse separates dependent arising, the pattern, from
+  the things that arise dependently, the changing items the pattern runs
+  through, and closes with why someone who sees this stops asking what they
+  were and what they will be.
+- Added reader glosses for `becoming`, `dependently arisen`, `conditionality`,
+  `stability of the pattern`, `regularity of the pattern`, `suchness`, and
+  `right discernment`, closing tooltip gaps that affected the whole
+  dependent-arising set rather than only the new page.
 - Added a governed plain-English translation of AN 11.12,
   Dutiyamahānāma Sutta, with companion notes, newcomer guidance, reader
   placement as "Six Things to Remember Anywhere," and running-text support
@@ -81,6 +91,11 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Corrected two more false source signals found while auditing SN 12.20:
+  `dhammatā` does not occur in that discourse and now cites DN 14, and
+  `dhammatthiti` cited a form that was neither the headword nor the source
+  form and now cites the exact running-text `dhammaṭṭhitatā`. Both had passed
+  the strict verifier as `inflected` or as a prefix match.
 - Corrected false source signals for `ariyapuggala` and `upasamānussati`:
   SN 55.30 does not contain the first compound, and AN 11.12 does not contain
   the second; the latter now cites its direct list source at AN 1.296.
@@ -116,7 +131,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 61 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 62 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

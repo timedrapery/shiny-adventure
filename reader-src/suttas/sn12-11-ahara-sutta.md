@@ -135,10 +135,12 @@ That is how this whole heap of dissatisfaction quenches."
 The first discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (15)</summary>
+<summary>Words used in this translation (16)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
@@ -193,6 +195,7 @@ The first discourse is finished.
 
 
 *[ageing and dying]: Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.

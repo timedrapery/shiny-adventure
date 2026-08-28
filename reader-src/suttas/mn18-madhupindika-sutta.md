@@ -269,10 +269,12 @@ That is what the Buddha said. Venerable Ānanda was glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (18)</summary>
+<summary>Words used in this translation (19)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn></dt>
@@ -333,6 +335,7 @@ Buddha had said.
 
 
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.

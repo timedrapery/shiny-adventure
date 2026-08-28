@@ -85,10 +85,12 @@ This too was said by the Buddha—so I heard.
 The twelfth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (9)</summary>
+<summary>Words used in this translation (10)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
@@ -131,6 +133,7 @@ The twelfth discourse is finished.
 
 
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.

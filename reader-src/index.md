@@ -2,7 +2,7 @@
 
 Early Buddhist discourses in plain, contemporary English.
 
-All 61 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
+All 62 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
 
 ## Start with one short teaching
 
@@ -61,7 +61,7 @@ About 14 minutes total:
 ## Go further
 
 - [**Your First 12**](start-here.md#your-first-12) — a compact route from short, recognizable teachings into the foundations
-- [**Complete reading order**](start-here.md#the-complete-reading-order) — all 61 texts, arranged for a newcomer
+- [**Complete reading order**](start-here.md#the-complete-reading-order) — all 62 texts, arranged for a newcomer
 - [**All Suttas**](suttas/index.md) — the full collection, if you already know what you are looking for
 - [**Find a sutta**](find-a-sutta.md) — filter by topic, difficulty, form, or reading length
 - [**Glossary**](glossary.md) — the recurring vocabulary, in plain English

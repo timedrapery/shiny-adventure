@@ -286,7 +286,7 @@ how it ends."
 The fourth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (16)</summary>
+<summary>Words used in this translation (17)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -314,6 +314,8 @@ The fourth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;saṅkhārā&quot; (often translated &quot;mental formations&quot;) -- the mind&#x27;s constructing and assembling activity, one of the five heaps.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>right discernment</dfn></dt>
+<dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
@@ -356,6 +358,7 @@ The fourth discourse is finished.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[This is not mine, I am not this, this is not my self]: A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.

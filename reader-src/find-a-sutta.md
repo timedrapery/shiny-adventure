@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 61 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 62 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -346,6 +346,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Intermediate · Analysis · Short · about 6 min · 908 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>The standard formula of dependent arising, defined term by term.</p>
+</article>
+<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="discovered, not invented sn 12.20 paccaya sutta dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future. dependent arising">
+<h2><a href="../suttas/sn12-20-paccaya-sutta/">Discovered, Not Invented</a></h2>
+<p class="sutta-card__reference">SN 12.20 · <span lang="pi">Paccaya Sutta</span></p>
+<p class="sutta-card__meta">Intermediate · Analysis · Short · about 4 min · 572 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
+<p>Dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. dependent arising · mind and senses">
 <h2><a href="../suttas/mn38-mahatanhasankhaya-sutta/">Does the Same Consciousness Continue?</a></h2>

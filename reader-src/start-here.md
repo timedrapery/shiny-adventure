@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 61 translations in this collection, for someone new to this material.
+A suggested order for reading the 62 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -89,6 +89,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**From Dissatisfaction to Freedom**](suttas/sn12-23-upanisa-sutta.md) (SN 12.23, Upanisa Sutta) — about 8 min · 1,280 words. The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.
 - [**What Keeps a Life Going**](suttas/sn12-11-ahara-sutta.md) (SN 12.11, Āhāra Sutta) — about 4 min · 677 words. Four things that keep a life going, traced back to wanting and then all the way back along the chain. Not to be confused with SN 46.51, which shares its name.
 - [**Dependent Arising, Term by Term**](suttas/sn12-2-paticcasamuppada-vibhanga-sutta.md) (SN 12.2, Paṭiccasamuppāda-vibhaṅga Sutta) — about 6 min · 908 words. The standard formula of dependent arising, defined term by term.
+- [**Discovered, Not Invented**](suttas/sn12-20-paccaya-sutta.md) (SN 12.20, Paccaya Sutta) — about 4 min · 572 words. Dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future.
 - [**Does the Same Consciousness Continue?**](suttas/mn38-mahatanhasankhaya-sutta.md) (MN 38, Mahātaṇhāsaṅkhaya Sutta) — about 31 min · 5,433 words. A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.
 - [**Dependent Arising in Depth**](suttas/dn15-mahanidana-sutta.md) (DN 15, Mahānidāna Sutta) — about 25 min · 4,445 words. The deepest and longest exposition of dependent arising in the set. The capstone of this stage, not an entry point to it.
 - [**Right View from Many Angles**](suttas/mn9-sammaditthi-sutta.md) (MN 9, Sammādiṭṭhi Sutta) — about 15 min · 2,639 words. Right view examined through more than a dozen different doctrinal lenses in one text. Reads best as a review once the pieces it is reviewing are already familiar.

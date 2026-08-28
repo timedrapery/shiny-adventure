@@ -672,7 +672,7 @@ Buddha's words.
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (46)</summary>
+<summary>Words used in this translation (48)</summary>
 <dl>
 <dt><dfn>against the stream</dfn></dt>
 <dd>Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.</dd>
@@ -682,6 +682,8 @@ The sixth discourse is finished.
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
 <dt><dfn>awakening</dfn></dt>
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn></dt>
@@ -704,6 +706,8 @@ The sixth discourse is finished.
 <dd>Acting while plainly aware of what you are doing.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conditionality</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
 <dt><dfn>crossed over</dfn></dt>
 <dd>Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.</dd>
 <dt><dfn>deity</dfn></dt>
@@ -795,6 +799,7 @@ The sixth discourse is finished.
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
@@ -806,6 +811,7 @@ The sixth discourse is finished.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clearly knowing]: Acting while plainly aware of what you are doing.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
 *[deity]: A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.

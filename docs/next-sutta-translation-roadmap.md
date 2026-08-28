@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (61 total)
+## Completed Surfaces (62 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta

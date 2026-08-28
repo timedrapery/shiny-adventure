@@ -241,8 +241,10 @@ outflows."
 The third discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (17)</summary>
+<summary>Words used in this translation (18)</summary>
 <dl>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
@@ -302,6 +304,7 @@ The third discourse is finished.
 </nav>
 
 
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
