@@ -51,7 +51,7 @@ jobs:
       # site should fail here rather than at deploy time.
       - name: Build the reader's edition
         run: mkdocs build --strict
-      - uses: pnpm/action-setup@v4
+      - uses: pnpm/action-setup@v6
         if: matrix.python-version == '3.12'
         with:
           version: 10
