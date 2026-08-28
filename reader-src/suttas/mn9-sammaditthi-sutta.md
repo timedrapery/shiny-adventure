@@ -538,12 +538,14 @@ The bhikkhus were satisfied and welcomed what Venerable Sāriputta had said.
 The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (46)</summary>
+<summary>Words used in this translation (47)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
@@ -659,6 +661,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 
 *[ageing and dying]: Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
