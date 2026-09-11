@@ -3,6 +3,7 @@ site_description: >-
   Early Buddhist sutta translations in plain, contemporary English, backed by a
   governed Pali lexicon. The reader's edition of the Open Sangha Foundation
   Pali Translation Lexicon.
+site_url: https://timedrapery.github.io/shiny-adventure/
 repo_url: https://github.com/timedrapery/shiny-adventure
 repo_name: timedrapery/shiny-adventure
 

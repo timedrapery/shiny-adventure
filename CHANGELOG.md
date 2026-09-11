@@ -98,6 +98,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Set `site_url` in `mkdocs.yml`. Without it, the site's 404 page loaded its
+  stylesheets and scripts from the domain root instead of `/shiny-adventure/`,
+  so any mistyped or not-yet-deployed address showed an unstyled page with a
+  full-screen logo.
 - Corrected a false source signal found while auditing MN 36: the discourse
   does not contain `nāparaṃ itthattāyāti pajānāti`. Its first-person
   declaration closes with `abbhaññāsiṁ` (`abhijānāti`). The
