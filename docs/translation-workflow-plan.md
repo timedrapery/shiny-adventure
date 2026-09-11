@@ -50,6 +50,20 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
+## Update As Of 2026-09-11
+
+- 63 governed translation surfaces and 63 generated reader pages. MN 36 was
+  added by direct request, outside the Wave 10 queue, which still continues
+  with AN 8.39 and SN 46.1.
+- All 63 surfaces report no automated plain-English register signals.
+- The MN 36 source audit found a fourth citation of the `inflected` shape:
+  three records cited MN 36 for `nāparaṃ itthattāyāti pajānāti`, which it
+  does not contain. Repaired; see the MN 36 notes.
+- Two findings from that audit are recorded and not yet fixed. The MN 26
+  surface does not translate the lip-service line at `mn26:15.7` and
+  `mn26:16.7`. The four-mental-theme formula has drifted into at least four
+  versions across the corpus and has no formula record to hold it.
+
 ## Update As Of 2026-08-25
 
 - 62 governed translation surfaces and 62 generated reader pages. SN 48.10

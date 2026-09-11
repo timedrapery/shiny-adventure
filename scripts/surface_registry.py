@@ -109,6 +109,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn26-pasarasi-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn36",
+        label="MN 36",
+        main_relpath="docs/translations/mn36-mahasaccaka-sutta.md",
+        notes_relpath="docs/translations/mn36-mahasaccaka-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn38",
         label="MN 38",
         main_relpath="docs/translations/mn38-mahatanhasankhaya-sutta.md",
@@ -434,6 +440,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn19": "cbd316fc12b13ac6362a881d0c084300195e4abaf848d9ca1b1daa5e666fb012",
     "mn22": "c4d78501fbf276810b7f9e5bca28f2b8aed3c99895745c7410347555729ff43e",
     "mn26": "839a76a0fe62caa29f03c7ee03a21ccbf0f2e5f245472183a2e8a5a1734921a2",
+    "mn36": "129203276ab93a243ca7b50d19408330479c05c8c0915477127b1470889618a3",
     "mn38": "04cb1af6c20c7c80fd2ecc339386f6efbe427ed8c61c45e417e7c17478f0fe82",
     "mn39": "2d7ef3498aed55c1c45d2a39afd96ef1d63fa60427469ef7e706b13ba52701a3",
     "mn43": "89e8048c79bb6800263f7b4640e5ff88f9c15a39238797cfa6e59674a2e1adc1",
@@ -509,6 +516,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "an10_60": "2026-08-24",
     "an11_12": "2026-08-25",
     "sn12_20": "2026-08-27",
+    "mn36": "2026-09-11",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -772,8 +780,16 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "simplest possible entry point into mind-training.",
         reader_title="Two Kinds of Thinking",
     ),
+    "mn36": ReaderMeta(
+        "Mahāsaccaka Sutta", 3, 2,
+        "A debater says some people train the body and others the mind. The "
+        "Buddha answers with his own story: two teachers, self-torment that "
+        "nearly killed him, and the memory that pointed another way. Through "
+        "all of it, neither pain nor pleasure took over his heart.",
+        reader_title="Could This Be the Path to Awakening?",
+    ),
     "mn61": ReaderMeta(
-        "Ambalaṭṭhikarāhulovāda Sutta", 3, 2,
+        "Ambalaṭṭhikarāhulovāda Sutta", 3, 3,
         "The Buddha teaches his own son Rāhula, using a water vessel emptied "
         "and turned upside down, then a war elephant, to make the case that "
         "someone who feels no shame lying has nothing left to hold them back. "
@@ -782,61 +798,61 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="The Water Vessel",
     ),
     "mn2": ReaderMeta(
-        "Sabbāsava Sutta", 3, 3,
+        "Sabbāsava Sutta", 3, 4,
         "Seven concrete methods for handling what erodes the mind: restraint, "
         "use, endurance, avoidance, removal, development. A toolkit, not a "
         "theory.",
         reader_title="Seven Ways to Handle What Erodes the Mind",
     ),
     "an11_12": ReaderMeta(
-        "Dutiyamahānāma Sutta", 3, 4,
+        "Dutiyamahānāma Sutta", 3, 5,
         "Mahānāma asks how to practice in ordinary life while the Buddha "
         "is away. The answer gives five qualities to stand on and six things "
         "to remember while moving, working, or living with family.",
         reader_title="Six Things to Remember Anywhere",
     ),
     "mn118": ReaderMeta(
-        "Ānāpānasati Sutta", 3, 5,
+        "Ānāpānasati Sutta", 3, 6,
         "Step-by-step instructions for remembering the Dhamma while breathing "
         "in and out. The first text on this list that is a practice manual "
         "rather than a teaching about practice.",
         reader_title="Remembering the Dhamma While Breathing In and Out",
     ),
     "mn10": ReaderMeta(
-        "Satipaṭṭhāna Sutta", 3, 6,
+        "Satipaṭṭhāna Sutta", 3, 7,
         "The four foundations of remembering, and the longest, densest text so "
         "far. Not really a one-sitting read: it is the reference manual for "
         "the pieces above, worth returning to rather than finishing.",
         reader_title="The Four Foundations of Remembering",
     ),
     "mn119": ReaderMeta(
-        "Kāyagatāsati Sutta", 3, 7,
+        "Kāyagatāsati Sutta", 3, 8,
         "A long practice sequence directing remembering to breathing, movement, "
         "the body's contents and fate, deep composure, resilience, and ten "
         "claimed results.",
         reader_title="Remembering Directed to the Body",
     ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 8,
+        "Sāmaññaphala Sutta", 3, 9,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
         reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 9,
+        "Girimānanda Sutta", 3, 10,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
         reader_title="Ten Perceptions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 10,
+        "Mahā-Assapura Sutta", 3, 11,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 11,
+        "Āhāra Sutta", 3, 12,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves Distraction",
@@ -1074,7 +1090,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
-        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12",
+        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12", "mn36",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1099,7 +1115,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Dialogue": (
         "an3_65", "mn63", "mn26", "mn61", "dn2", "mn44", "mn43",
         "mn64", "mn99", "mn18", "mn38", "sn22_86", "sn22_89",
-        "sn12_15", "sn45_2", "sn1_1", "sn56_17",
+        "sn12_15", "sn45_2", "sn1_1", "sn56_17", "mn36",
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",

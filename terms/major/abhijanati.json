@@ -55,10 +55,17 @@
       "translation": "one directly knows nibbāna as nibbāna",
       "notes": "Shows the same direct-knowing force extending even to nibbāna-language in the MN 1 pattern.",
       "source": "MN 1"
+    },
+    {
+      "pali": "nāparaṁ itthattāyā’ti abbhaññāsiṁ",
+      "translation": "I directly knew: there is no more of this state of being",
+      "notes": "First-person aorist in the Buddha's own awakening account. MN 36 closes the declaration with this verb where the third-person gradual-training formula has pajānāti; keep the two verbs distinct rather than harmonizing the first-person line to discerns.",
+      "source": "MN 36"
     }
   ],
   "sutta_references": [
-    "MN 1"
+    "MN 1",
+    "MN 36"
   ],
   "tags": [
     "core-doctrine",
