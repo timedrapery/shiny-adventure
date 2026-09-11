@@ -416,7 +416,7 @@ Buddha had said.
 
 - [← Think Like a Thoroughbred](an11-9-saddha-sutta.md)
 - [All suttas](index.md)
-- [The Water Vessel →](mn61-ambalatthikarahulovada-sutta.md)
+- [Could This Be the Path to Awakening? →](mn36-mahasaccaka-sutta.md)
 
 </nav>
 

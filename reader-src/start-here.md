@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 62 translations in this collection, for someone new to this material.
+A suggested order for reading the 63 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -60,6 +60,7 @@ The core claim and the practical response to it, kept concrete.
 Practical method. This is where the material stops being about ideas and starts being about what you actually do.
 
 - [**Two Kinds of Thinking**](suttas/mn19-dvedhavitakka-sutta.md) (MN 19, Dvedhāvitakka Sutta) — about 10 min · 1,769 words. Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.
+- [**Could This Be the Path to Awakening?**](suttas/mn36-mahasaccaka-sutta.md) (MN 36, Mahāsaccaka Sutta) — about 36 min · 6,318 words. A debater says some people train the body and others the mind. The Buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. Through all of it, neither pain nor pleasure took over his heart.
 - [**The Water Vessel**](suttas/mn61-ambalatthikarahulovada-sutta.md) (MN 61, Ambalaṭṭhikarāhulovāda Sutta) — about 13 min · 2,175 words. The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. From there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it.
 - [**Seven Ways to Handle What Erodes the Mind**](suttas/mn2-sabbasava-sutta.md) (MN 2, Sabbāsava Sutta) — about 13 min · 2,201 words. Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.
 - [**Six Things to Remember Anywhere**](suttas/an11-12-dutiyamahanama-sutta.md) (AN 11.12, Dutiyamahānāma Sutta) — about 4 min · 547 words. Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.

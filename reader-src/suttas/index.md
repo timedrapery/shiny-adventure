@@ -1,6 +1,6 @@
 # All Suttas
 
-All 62 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 63 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -19,6 +19,7 @@ All 62 translations, grouped by collection. If you would rather be guided, use [
 - [**Two Kinds of Thinking**](mn19-dvedhavitakka-sutta.md) — MN 19 · Dvedhāvitakka Sutta · about 10 min · 1,769 words · Set 3. Sorting thoughts into two bins and learning what to do with each.
 - [**The Snake and the Raft**](mn22-alagaddupama-sutta.md) — MN 22 · Alagaddūpama Sutta · about 24 min · 4,186 words · Set 4. The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
 - [**The Two Searches**](mn26-pasarasi-sutta.md) — MN 26 · Pāsarāsi Sutta · about 31 min · 5,407 words · Set 1. The Buddha's own account of leaving home, studying under two teachers, and finding them insufficient.
+- [**Could This Be the Path to Awakening?**](mn36-mahasaccaka-sutta.md) — MN 36 · Mahāsaccaka Sutta · about 36 min · 6,318 words · Set 3. A debater says some people train the body and others the mind.
 - [**Does the Same Consciousness Continue?**](mn38-mahatanhasankhaya-sutta.md) — MN 38 · Mahātaṇhāsaṅkhaya Sutta · about 31 min · 5,433 words · Set 4. A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.
 - [**What Makes a Genuine Renunciant?**](mn39-maha-assapura-sutta.md) — MN 39 · Mahā-Assapura Sutta · about 19 min · 3,353 words · Set 3. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one.
 - [**The Longer Questions and Answers**](mn43-mahavedalla-sutta.md) — MN 43 · Mahāvedalla Sutta · about 17 min · 2,917 words · Set 5. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point.

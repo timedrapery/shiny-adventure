@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 62 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 63 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -178,6 +178,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 10 min · 1,769 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.</p>
+</article>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="could this be the path to awakening? mn 36 mahāsaccaka sutta a debater says some people train the body and others the mind. the buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. through all of it, neither pain nor pleasure took over his heart. meditation">
+<h2><a href="../suttas/mn36-mahasaccaka-sutta/">Could This Be the Path to Awakening?</a></h2>
+<p class="sutta-card__reference">MN 36 · <span lang="pi">Mahāsaccaka Sutta</span></p>
+<p class="sutta-card__meta">Practical · Dialogue · Long · about 36 min · 6,318 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
+<p>A debater says some people train the body and others the mind. The Buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. Through all of it, neither pain nor pleasure took over his heart.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="practical" data-form="dialogue" data-length="medium" data-search="the water vessel mn 61 ambalaṭṭhikarāhulovāda sutta the buddha teaches his own son rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. from there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it. ethics and conduct">
 <h2><a href="../suttas/mn61-ambalatthikarahulovada-sutta/">The Water Vessel</a></h2>
