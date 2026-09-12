@@ -816,10 +816,12 @@ That is what the Buddha said.
 Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (35)</summary>
+<summary>Words used in this translation (38)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn></dt>
@@ -830,10 +832,14 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>cessation</dfn></dt>
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dt><dfn>conditionality</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dependent arising</dfn></dt>
 <dd>The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.</dd>
+<dt><dfn>dependently arisen</dfn></dt>
+<dd>Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -914,13 +920,16 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 
 *[ageing and dying]: Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
+*[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
+*[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
