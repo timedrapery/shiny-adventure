@@ -6,12 +6,17 @@ confirm the baseline, and continue without relying on chat history.
 
 ## Baseline
 
-Snapshot date: 2026-08-25.
+Snapshot date: 2026-08-27.
 
-- 61 governed translation surfaces and 61 generated sutta pages
+- 62 governed translation surfaces and 62 generated sutta pages
 - 1,155 governed term records
-- 633 cited term records: 532 anchored by a translated surface and 101 orphaned
+- 633 cited term records: 536 anchored by a translated surface and 97 orphaned
 - 9 orphan major terms
+
+SN 12.20 anchored four of its five orphan signals rather than five. The fifth,
+`dhammatā`, was a false citation and its repaired source (DN 14) is not a
+translated surface, so that record stays orphaned. Closing a citation honestly
+can leave the orphan count higher than the queue predicted.
 - 806 cited example phrases checked: zero partial, absent, unfetched, or
   unsupported matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -39,6 +44,17 @@ in formula or cluster work, not automatically in the reader queue.
 - SN 50.1 remains an enumeration or peyyāla-family signal, despite appearing
   at the top of the raw major-term ranking. Do not promote it without first
   establishing a substantive source boundary.
+- `dhammatā` does not occur in SN 12.20. The discourse has `dhammaṭṭhitatā`
+  and `dhammaniyāmatā` and never the bare word, so the citation was moved to
+  DN 14, where `Ayamettha dhammatā` occurs in running text. The strict
+  verifier had scored it `inflected` rather than `absent`, because the stem
+  sits inside those two longer words.
+- `dhammatthiti` cited `dhammatthitā` to SN 12.20, which is neither the
+  headword nor the source form and passed only as a prefix of the real word.
+  It now cites `ṭhitāva sā dhātu dhammaṭṭhitatā`.
+- Both are the same shape as the earlier `ariyapuggala` and `upasamānussati`
+  findings. An `inflected` verdict on a short headword is worth opening by
+  hand; the verifier proves a string occurs, not that the governed term does.
 
 ## Committed Queue
 
@@ -47,10 +63,13 @@ Work in this order unless a direct reader request takes priority.
 1. **AN 11.12, Dutiyamahānāma Sutta** — **complete 2026-08-25.** 367 Pali
    words. Anchors six verified recollection compounds in a portable practice
    for walking, standing, sitting, lying down, working, and family life.
-2. **SN 12.20, Paccaya Sutta** — 355 Pali words. Five verified orphan signals
-   in a substantive dependent-arising text. Before drafting, inspect every
-   credited compound and decide how to present its compressed formula without
-   losing the source boundary.
+2. **SN 12.20, Paccaya Sutta** — **complete 2026-08-27.** 355 Pali words.
+   Anchors the natural-law support layer around conditionality in running
+   text. The compressed formula is presented by keeping both of the source's
+   full frame statements and naming each elided link once between them; the
+   source boundary excludes the vagga closing and mnemonic verse from
+   `sn12.20:5.10` onward. The source audit found two bad citations, recorded
+   below.
 3. **AN 8.39, Abhisanda Sutta** — 268 Pali words. Two orphan signals in a
    manageable ethics-and-consequence teaching. Confirm both terms in the root
    before translation.

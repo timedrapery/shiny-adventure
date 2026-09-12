@@ -53,14 +53,14 @@
     },
     {
       "pali": "nāparaṃ itthattāyāti pajānāti",
-      "translation": "one discerns: there is no more of this state of being",
-      "notes": "Arahant-declaration context showing pajānāti in a release-side formula without turning it into vague realization-language.",
-      "source": "MN 36"
+      "translation": "they discern: there is no more of this state of being",
+      "notes": "Arahant-declaration context showing pajānāti in a release-side formula without turning it into vague realization-language. Moved from MN 36 on 2026-09-11: MN 36 gives the same declaration in the first person with abbhaññāsiṁ (abhijānāti), not pajānāti. SN 22.86 has the exact form.",
+      "source": "SN 22.86"
     }
   ],
   "sutta_references": [
-    "MN 36",
-    "DN 2"
+    "DN 2",
+    "SN 22.86"
   ],
   "tags": [
     "core-doctrine",

@@ -8,6 +8,23 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of MN 36, Mahāsaccaka Sutta, by
+  direct request, with companion notes, a reader introduction, reader
+  metadata, and a generated reader page placed in stage 3 after MN 19. Saccaka
+  claims some practitioners train the body and others the mind; the Buddha
+  answers with a single test, whether pleasant or painful feeling takes over
+  the heart, and then with his own account of the two teachers, the
+  austerities, the remembered first mental theme, and the three knowledges.
+- Added a governed plain-English translation of SN 12.20, Paccaya Sutta, with
+  companion notes, a reader introduction, reader metadata, and a generated
+  reader page. The discourse separates dependent arising, the pattern, from
+  the things that arise dependently, the changing items the pattern runs
+  through, and closes with why someone who sees this stops asking what they
+  were and what they will be.
+- Added reader glosses for `becoming`, `dependently arisen`, `conditionality`,
+  `stability of the pattern`, `regularity of the pattern`, `suchness`, and
+  `right discernment`, closing tooltip gaps that affected the whole
+  dependent-arising set rather than only the new page.
 - Added a governed plain-English translation of AN 11.12,
   Dutiyamahānāma Sutta, with companion notes, newcomer guidance, reader
   placement as "Six Things to Remember Anywhere," and running-text support
@@ -81,6 +98,22 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Set `site_url` in `mkdocs.yml`. Without it, the site's 404 page loaded its
+  stylesheets and scripts from the domain root instead of `/shiny-adventure/`,
+  so any mistyped or not-yet-deployed address showed an unstyled page with a
+  full-screen logo.
+- Corrected a false source signal found while auditing MN 36: the discourse
+  does not contain `nāparaṃ itthattāyāti pajānāti`. Its first-person
+  declaration closes with `abbhaññāsiṁ` (`abhijānāti`). The
+  `naparam-itthattayati-pajanati` and `pajanati` records now cite SN 22.86
+  for the exact form, `asava` now quotes MN 36's own line naming the three
+  outflows, and `abhijanati` gains MN 36 as a running-text example. All three
+  old citations had passed the strict verifier as `inflected`.
+- Corrected two more false source signals found while auditing SN 12.20:
+  `dhammatā` does not occur in that discourse and now cites DN 14, and
+  `dhammatthiti` cited a form that was neither the headword nor the source
+  form and now cites the exact running-text `dhammaṭṭhitatā`. Both had passed
+  the strict verifier as `inflected` or as a prefix match.
 - Corrected false source signals for `ariyapuggala` and `upasamānussati`:
   SN 55.30 does not contain the first compound, and AN 11.12 does not contain
   the second; the latter now cites its direct list source at AN 1.296.
@@ -116,7 +149,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 61 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 63 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
