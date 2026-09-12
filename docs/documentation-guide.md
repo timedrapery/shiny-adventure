@@ -155,6 +155,7 @@ These profiles support notes, context rules, alternates, and authority reasoning
 ### Generated Reference Material
 
 - [`generated/generated-docs-guide.md`](generated/generated-docs-guide.md): what generated docs are for and what they are not
+- [`health-dashboard.md`](health-dashboard.md): what the coverage, drift, review-queue, and failure-history numbers mean
 - [`generated/major-term-index.md`](generated/major-term-index.md): human navigation for `terms/major/`
 - [`generated/minor-term-index.md`](generated/minor-term-index.md): human navigation for `terms/minor/`
 

@@ -33,6 +33,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## B
 
 <dl class="glossary-list">
+<dt><dfn>becoming</dfn> <span class="glossary-pali" lang="pi">(bhava)</span></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhante</dfn> <span class="glossary-pali" lang="pi">(bhante)</span></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn> <span class="glossary-pali" lang="pi">(bhikkhu)</span></dt>
@@ -70,6 +72,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
 <dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conditionality</dfn> <span class="glossary-pali" lang="pi">(idappaccayatā)</span></dt>
+<dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
 <dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
 <dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>consolation</dfn> <span class="glossary-pali" lang="pi">(assāsa)</span></dt>
@@ -91,6 +95,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>dependent arising</dfn> <span class="glossary-pali" lang="pi">(paṭiccasamuppāda)</span></dt>
 <dd>The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.</dd>
+<dt><dfn>dependently arisen</dfn></dt>
+<dd>Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.</dd>
 <dt><dfn>Dhamma</dfn> <span class="glossary-pali" lang="pi">(dhamma)</span></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn> <span class="glossary-pali" lang="pi">(dhamma)</span></dt>
@@ -249,6 +255,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>recognition</dfn> <span class="glossary-pali" lang="pi">(saññā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>regularity of the pattern</dfn></dt>
+<dd>That the same conditions reliably lead to the same results. Paired with the phrase above; the two say one thing from two sides.</dd>
 <dt><dfn>release of mind</dfn> <span class="glossary-pali" lang="pi">(cetovimutti)</span></dt>
 <dd>Release described from the mind or heart side of experience, often paired with release through discernment.</dd>
 <dt><dfn>release through discernment</dfn> <span class="glossary-pali" lang="pi">(paññāvimutti)</span></dt>
@@ -263,6 +271,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
 <dt><dfn>right composure</dfn> <span class="glossary-pali" lang="pi">(sammā-samādhi)</span></dt>
 <dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
+<dt><dfn>right discernment</dfn></dt>
+<dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
 <dt><dfn>right effort</dfn> <span class="glossary-pali" lang="pi">(sammā-vāyāma)</span></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn> <span class="glossary-pali" lang="pi">(sammā-ājīva)</span></dt>
@@ -298,8 +308,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>spontaneously reborn</dfn> <span class="glossary-pali" lang="pi">(opapātika)</span></dt>
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
+<dt><dfn>stability of the pattern</dfn> <span class="glossary-pali" lang="pi">(dhammatthiti)</span></dt>
+<dd>That the way conditions give rise to results holds steady. It names a reliable regularity, not a permanent thing standing behind events.</dd>
 <dt><dfn>stands firm</dfn></dt>
 <dd>AN 4.5&#x27;s river image for a non-returner: someone no longer being swept back into ordinary sensual existence, though the crossing is not yet complete.</dd>
+<dt><dfn>suchness</dfn> <span class="glossary-pali" lang="pi">(tathatā)</span></dt>
+<dd>This project&#x27;s rendering of &quot;tathatā&quot; -- that things are just as they are, and not otherwise. Used to stop the pattern being turned into a hidden essence.</dd>
 </dl>
 
 ## T
