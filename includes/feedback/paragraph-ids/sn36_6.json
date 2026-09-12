@@ -1,0 +1,274 @@
+{
+  "surface_key": "sn36_6",
+  "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+  "next_id": 39,
+  "passages": [
+    {
+      "id": "p001",
+      "fingerprint": "63ed37e14c4e2c24",
+      "section": "The Difference",
+      "preview": "\"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and mi…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p002",
+      "fingerprint": "503d21adefec8eef",
+      "section": "The Difference",
+      "preview": "A learned noble disciple feels pleasant, painful, and mixed feelings to…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p003",
+      "fingerprint": "f4d28a113d49bd39",
+      "section": "The Difference",
+      "preview": "So what's the difference, bhikkhus? What sets them apart?\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p004",
+      "fingerprint": "bc4d1534adb86c36",
+      "section": "The Difference",
+      "preview": "\"Bhante, our teachings come from the Buddha. The Buddha is our guide, a…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p005",
+      "fingerprint": "4f68bf917d151e40",
+      "section": "The Difference",
+      "preview": "\"Then listen carefully and pay close attention. I will speak.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p006",
+      "fingerprint": "e64ae539e497a206",
+      "section": "The Difference",
+      "preview": "\"Yes, Bhante,\" the bhikkhus replied.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p007",
+      "fingerprint": "691f6a21afd69226",
+      "section": "The Difference",
+      "preview": "The Buddha said this:",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p008",
+      "fingerprint": "dbb40ff420ffb49b",
+      "section": "Two Arrows",
+      "preview": "\"Bhikkhus, when an unlearned ordinary person is touched by painful feel…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p009",
+      "fingerprint": "182db92a99b7b685",
+      "section": "Two Arrows",
+      "preview": "They feel it twice: once in the body and once in the mind.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p010",
+      "fingerprint": "3318f37e06467cb8",
+      "section": "Two Arrows",
+      "preview": "Suppose, bhikkhus, someone is shot with an arrow. Then they are shot ag…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p011",
+      "fingerprint": "04588827e281d413",
+      "section": "Two Arrows",
+      "preview": "It is the same for an unlearned ordinary person. When painful feeling t…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p012",
+      "fingerprint": "182db92a99b7b685",
+      "section": "Two Arrows",
+      "preview": "They feel it twice: once in the body and once in the mind.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p013",
+      "fingerprint": "23f27470284f1c8e",
+      "section": "Two Arrows",
+      "preview": "When that same painful feeling touches them, they resist it. The underl…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p014",
+      "fingerprint": "169d5121ca520378",
+      "section": "Two Arrows",
+      "preview": "When painful feeling touches them, they turn to sensual pleasure.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p015",
+      "fingerprint": "5d8a995a6fa7cf7c",
+      "section": "Two Arrows",
+      "preview": "Why?",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p016",
+      "fingerprint": "37dffb3608c46f3e",
+      "section": "Two Arrows",
+      "preview": "Because sensual pleasure is the only escape from painful feeling they k…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p017",
+      "fingerprint": "8bb0429c1189bd59",
+      "section": "Two Arrows",
+      "preview": "They do not understand those feelings as they have come to be: how they…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p018",
+      "fingerprint": "b497c082401c72e3",
+      "section": "Two Arrows",
+      "preview": "If they feel a pleasant feeling, they feel it while bound. If they feel…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p019",
+      "fingerprint": "6a54231aeb7b99e4",
+      "section": "Two Arrows",
+      "preview": "Bhikkhus, this is what it means to call someone an unlearned ordinary p…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p020",
+      "fingerprint": "5463ec345f6cdc26",
+      "section": "One Arrow",
+      "preview": "\"But when a learned noble disciple is touched by painful feeling, bhikk…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p021",
+      "fingerprint": "a4dfe37ca0e56fba",
+      "section": "One Arrow",
+      "preview": "They feel it once: in the body, not in the mind.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p022",
+      "fingerprint": "7ac42f3afd75a557",
+      "section": "One Arrow",
+      "preview": "Suppose, bhikkhus, someone is shot with an arrow but not with a second…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p023",
+      "fingerprint": "870c81a2efc4f96a",
+      "section": "One Arrow",
+      "preview": "It is the same for a learned noble disciple. When painful feeling touch…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p024",
+      "fingerprint": "a4dfe37ca0e56fba",
+      "section": "One Arrow",
+      "preview": "They feel it once: in the body, not in the mind.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p025",
+      "fingerprint": "2e67ab8b9634d507",
+      "section": "One Arrow",
+      "preview": "When that same painful feeling touches them, they do not resist it. No…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p026",
+      "fingerprint": "b5ea443ce3bb7f61",
+      "section": "One Arrow",
+      "preview": "When painful feeling touches them, they do not turn to sensual pleasure.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p027",
+      "fingerprint": "5d8a995a6fa7cf7c",
+      "section": "One Arrow",
+      "preview": "Why?",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p028",
+      "fingerprint": "8039243e8e85ce02",
+      "section": "One Arrow",
+      "preview": "Because they know an escape from painful feeling other than sensual ple…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p029",
+      "fingerprint": "0f11a5adfefd996a",
+      "section": "One Arrow",
+      "preview": "They understand those feelings as they have come to be: how they arise…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p030",
+      "fingerprint": "f16dde2f51b04d41",
+      "section": "One Arrow",
+      "preview": "If they feel a pleasant feeling, they feel it while unbound. If they fe…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p031",
+      "fingerprint": "86afcb5cabe6d4ce",
+      "section": "One Arrow",
+      "preview": "Bhikkhus, this is what it means to call someone a learned noble discipl…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p032",
+      "fingerprint": "783ebdf4e3ccc91b",
+      "section": "One Arrow",
+      "preview": "That, bhikkhus, is the difference. That is what sets a learned noble di…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p033",
+      "fingerprint": "2f2e08945e96c84d",
+      "section": "Verses",
+      "preview": "\"Someone wise and learned does not add another feeling to what is pleas…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p034",
+      "fingerprint": "731e7fe10e8fb991",
+      "section": "Verses",
+      "preview": "This is the great difference between the steady, skillful person and th…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p035",
+      "fingerprint": "ac735080973a8c13",
+      "section": "Verses",
+      "preview": "The learned person has understood the teaching and sees this world and…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p036",
+      "fingerprint": "1f450bae2ca423f8",
+      "section": "Verses",
+      "preview": "Favoring and opposing have been blown away. They are finished. They are…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p037",
+      "fingerprint": "afed9033bd41bfbb",
+      "section": "Verses",
+      "preview": "That person knows the dustless, sorrowless state. They have gone beyond…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p038",
+      "fingerprint": "9ac7d9e4aeedaad2",
+      "section": "Verses",
+      "preview": "The sixth discourse is finished.",
+      "previous_fingerprints": []
+    }
+  ],
+  "retired": []
+}

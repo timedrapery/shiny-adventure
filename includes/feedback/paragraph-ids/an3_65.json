@@ -1,0 +1,449 @@
+{
+  "surface_key": "an3_65",
+  "body_sha256": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
+  "next_id": 64,
+  "passages": [
+    {
+      "id": "p001",
+      "fingerprint": "f91f19cd0403df6a",
+      "section": "The Setting",
+      "preview": "So I have heard. At one time the Buddha was wandering in the land of th…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p002",
+      "fingerprint": "ad8598639de86d27",
+      "section": "The Setting",
+      "preview": "The Kālāmas of Kesamutta heard: \"The recluse Gotama — a Sakyan, gone fo…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p003",
+      "fingerprint": "db2e3f1f9b44d5f9",
+      "section": "The Setting",
+      "preview": "The Kālāmas of Kesamutta went to the Buddha. Some bowed and sat to one…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p004",
+      "fingerprint": "e59ccf3ad9ed8001",
+      "section": "The Kālāmas' Uncertainty",
+      "preview": "\"Bhante, there are some recluses and brahmins who come to Kesamutta. Th…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p005",
+      "fingerprint": "9b9c5564da81ac40",
+      "section": "The Kālāmas' Uncertainty",
+      "preview": "\"It is right, Kālāmas, for you to doubt — right for you to be uncertain…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p006",
+      "fingerprint": "f4dbf6916b5c9d13",
+      "section": "The Ten Criteria",
+      "preview": "Come, Kālāmas. Do not go by oral transmission; do not go by lineage; do…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p007",
+      "fingerprint": "caf99400dca49772",
+      "section": "The Ten Criteria",
+      "preview": "But when you know for yourselves: 'These things are unwholesome, blamew…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p008",
+      "fingerprint": "67fbdf9cf16f30c3",
+      "section": "The Three Roots of Harm",
+      "preview": "What do you think, Kālāmas — does greed arise within a person for their…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p009",
+      "fingerprint": "576c15da295cf7fb",
+      "section": "The Three Roots of Harm",
+      "preview": "\"For their harm, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p010",
+      "fingerprint": "1f97d372ea2dafb5",
+      "section": "The Three Roots of Harm",
+      "preview": "\"When greed seizes a person and takes over their heart, they kill livin…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p011",
+      "fingerprint": "c9106f74d5e86dda",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Yes, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p012",
+      "fingerprint": "0971cbea010d0ad8",
+      "section": "The Three Roots of Harm",
+      "preview": "\"What do you think, Kālāmas — does aversion arise within a person for t…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p013",
+      "fingerprint": "576c15da295cf7fb",
+      "section": "The Three Roots of Harm",
+      "preview": "\"For their harm, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p014",
+      "fingerprint": "fea7edb431e557f4",
+      "section": "The Three Roots of Harm",
+      "preview": "\"When aversion seizes a person and takes over their heart, they kill li…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p015",
+      "fingerprint": "c9106f74d5e86dda",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Yes, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p016",
+      "fingerprint": "82d1a03bf41db527",
+      "section": "The Three Roots of Harm",
+      "preview": "\"What do you think, Kālāmas — does delusion arise within a person for t…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p017",
+      "fingerprint": "576c15da295cf7fb",
+      "section": "The Three Roots of Harm",
+      "preview": "\"For their harm, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p018",
+      "fingerprint": "4cb7f0a1c6e82018",
+      "section": "The Three Roots of Harm",
+      "preview": "\"When delusion seizes a person and takes over their heart, they kill li…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p019",
+      "fingerprint": "c9106f74d5e86dda",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Yes, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p020",
+      "fingerprint": "828c8341f6605cce",
+      "section": "The Three Roots of Harm",
+      "preview": "\"What do you think, Kālāmas — are these things wholesome or unwholesome…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p021",
+      "fingerprint": "f187b44bd4fb1a22",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Unwholesome, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p022",
+      "fingerprint": "e016dc7de993ce6e",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Blameworthy or blameless?\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p023",
+      "fingerprint": "4b8df719154347b8",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Blameworthy, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p024",
+      "fingerprint": "44b9a27738e42d31",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Criticized or praised by those with discernment?\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p025",
+      "fingerprint": "d668dad35c906c9f",
+      "section": "The Three Roots of Harm",
+      "preview": "\"Criticized by those with discernment, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p026",
+      "fingerprint": "e10fe688e8b6099c",
+      "section": "The Three Roots of Harm",
+      "preview": "\"When taken up and undertaken, do they lead to harm and suffering, or n…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p027",
+      "fingerprint": "ca44a1ef66be82be",
+      "section": "The Three Roots of Harm",
+      "preview": "\"When taken up and undertaken, they lead to harm and suffering. That is…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p028",
+      "fingerprint": "b305b84e56b2f88e",
+      "section": "The Three Roots of Harm",
+      "preview": "\"So, Kālāmas, when I said: 'Come, Kālāmas. Do not go by oral transmissi…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p029",
+      "fingerprint": "f4dbf6916b5c9d13",
+      "section": "The Three Roots of Welfare",
+      "preview": "Come, Kālāmas. Do not go by oral transmission; do not go by lineage; do…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p030",
+      "fingerprint": "2e482eba92953d10",
+      "section": "The Three Roots of Welfare",
+      "preview": "But when you know for yourselves: 'These things are wholesome, blameles…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p031",
+      "fingerprint": "8731177dfdf1627e",
+      "section": "The Three Roots of Welfare",
+      "preview": "What do you think, Kālāmas — does non-greed arise within a person for t…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p032",
+      "fingerprint": "a90b6ae170f0c999",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"For their welfare, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p033",
+      "fingerprint": "eebbed6981f033d7",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"When a person is free of greed, it does not overwhelm or take over the…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p034",
+      "fingerprint": "c9106f74d5e86dda",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Yes, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p035",
+      "fingerprint": "80d29e2050e9a12a",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"What do you think, Kālāmas — does non-aversion arise within a person f…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p036",
+      "fingerprint": "c9106f74d5e86dda",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Yes, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p037",
+      "fingerprint": "828c8341f6605cce",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"What do you think, Kālāmas — are these things wholesome or unwholesome…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p038",
+      "fingerprint": "1c880ec60661c7ea",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Wholesome, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p039",
+      "fingerprint": "e016dc7de993ce6e",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Blameworthy or blameless?\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p040",
+      "fingerprint": "3bd7cef6cee58353",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Blameless, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p041",
+      "fingerprint": "44b9a27738e42d31",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Criticized or praised by those with discernment?\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p042",
+      "fingerprint": "5e7213a32a3975ba",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"Praised by those with discernment, Bhante.\"",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p043",
+      "fingerprint": "cc9ad763895c4dae",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"When taken up and undertaken, do they lead to welfare and happiness, o…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p044",
+      "fingerprint": "5f50425a09246e20",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"When taken up and undertaken, they lead to welfare and happiness. That…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p045",
+      "fingerprint": "d64db5b692f72338",
+      "section": "The Three Roots of Welfare",
+      "preview": "\"So, Kālāmas, when I said: 'Come, Kālāmas. Do not go by oral transmissi…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p046",
+      "fingerprint": "ede7a4c8ef5e2720",
+      "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
+      "preview": "That noble disciple, Kālāmas, free of coveting, free of aversive distra…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p047",
+      "fingerprint": "029478f1461beabf",
+      "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
+      "preview": "They dwell pervading one direction with a heart filled with kindness to…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p048",
+      "fingerprint": "3d2dff0ef227e2fc",
+      "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
+      "preview": "They dwell pervading one direction with a heart filled with gladness, l…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p049",
+      "fingerprint": "31ddb0650b5e145e",
+      "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
+      "preview": "They dwell pervading one direction with a heart filled with dynamic bal…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p050",
+      "fingerprint": "f326dd376aeef494",
+      "section": "The Four Consolations",
+      "preview": "That noble disciple, Kālāmas, with a heart free of enmity, free of ill…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p051",
+      "fingerprint": "eedef5d49e3c89a1",
+      "section": "The Four Consolations",
+      "preview": "'If there is another world, and if good and bad actions do bear fruit a…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p052",
+      "fingerprint": "d5565555ff5d9df9",
+      "section": "The Four Consolations",
+      "preview": "'If there is no other world, and if good and bad actions do not bear fr…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p053",
+      "fingerprint": "84dd932be3d38c5f",
+      "section": "The Four Consolations",
+      "preview": "'If bad things do come to those who do bad — I have no harmful intentio…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p054",
+      "fingerprint": "5ff6aea330114bdc",
+      "section": "The Four Consolations",
+      "preview": "'If bad things do not come to those who do bad — then I see myself pure…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p055",
+      "fingerprint": "9ed61abc03f498d4",
+      "section": "The Four Consolations",
+      "preview": "That noble disciple, Kālāmas, with a heart free of enmity, free of ill…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p056",
+      "fingerprint": "ddf5e7dfa53f0515",
+      "section": "The Four Consolations",
+      "preview": "\"That is exactly so, Blessed One. That is exactly so, Well-Departed One…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p057",
+      "fingerprint": "eedef5d49e3c89a1",
+      "section": "The Four Consolations",
+      "preview": "'If there is another world, and if good and bad actions do bear fruit a…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p058",
+      "fingerprint": "d5565555ff5d9df9",
+      "section": "The Four Consolations",
+      "preview": "'If there is no other world, and if good and bad actions do not bear fr…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p059",
+      "fingerprint": "84dd932be3d38c5f",
+      "section": "The Four Consolations",
+      "preview": "'If bad things do come to those who do bad — I have no harmful intentio…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p060",
+      "fingerprint": "5ff6aea330114bdc",
+      "section": "The Four Consolations",
+      "preview": "'If bad things do not come to those who do bad — then I see myself pure…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p061",
+      "fingerprint": "842cea21d0a12483",
+      "section": "The Four Consolations",
+      "preview": "That noble disciple, Bhante, with a heart free of enmity, free of ill w…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p062",
+      "fingerprint": "43c1cbba43a44f17",
+      "section": "Going for Refuge",
+      "preview": "Excellent, Bhante! Excellent! ... We, Bhante, go to the Buddha for refu…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p063",
+      "fingerprint": "e656992c22eab55b",
+      "section": "Going for Refuge",
+      "preview": "The fifth discourse is finished.",
+      "previous_fingerprints": []
+    }
+  ],
+  "retired": []
+}
