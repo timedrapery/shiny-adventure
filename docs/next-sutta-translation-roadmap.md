@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (61 total)
+## Completed Surfaces (63 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -119,6 +119,11 @@ Use that full roadmap as the source of truth for:
   going against it, standing firm, and crossing to the far shore.
 - `SN 1.1` Oghataraṇa Sutta — the paradox of crossing the flood without
   standing still and without struggling.
+- `MN 36` Mahāsaccaka Sutta — requested directly. Control surface for being
+  developed in body and developed in mind, tested by whether pleasant or
+  painful feeling takes over the heart, and for the Buddha's first-person
+  account of the austerities and the turn to the first mental theme. Reader
+  placement is set 3, after MN 19.
 
 ### Pre-existing Surfaces (governed before the roadmap was active)
 - `MN 1` Mūlapariyāya Sutta
