@@ -22,6 +22,8 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Translation readability reviews", [sys.executable, "scripts/check_readability_reviews.py"]),
     ("Newcomer review ledger", [sys.executable, "scripts/check_newcomer_reviews.py"]),
     ("Markdown list structure", [sys.executable, "scripts/check_markdown_structure.py"]),
+    ("Passage identifiers", [sys.executable, "scripts/paragraph_ids.py", "--check"]),
+    ("Reader feedback inputs", [sys.executable, "scripts/reader_feedback.py", "--check"]),
     ("Reader generation", [sys.executable, "scripts/generate_reader.py", "--check"]),
     ("Reader accessibility", [sys.executable, "scripts/check_reader_accessibility.py"]),
     ("Generated docs freshness", [sys.executable, "scripts/check_generated_docs.py"]),

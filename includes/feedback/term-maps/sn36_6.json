@@ -1,0 +1,33 @@
+{
+  "surface_key": "sn36_6",
+  "basis": "Editor-written from the governing decisions in docs/translations/sn36-6-salla-sutta-notes.md. A passage maps to a governed term only where that term's rendering, or a governed SN 36.6 phrase record, is the wording the passage carries. Passages not listed here are unmapped unless the words-used panel supplies a glossary-backed rendering.",
+  "mapped_on": "2026-09-12",
+  "mappings": {
+    "p001": ["puthujjana", "vedana", "sukha-vedana", "dukkha-vedana", "adukkhamasukha-vedana"],
+    "p002": ["ariyasavaka", "vedana", "sukha-vedana", "dukkha-vedana", "adukkhamasukha-vedana"],
+    "p003": ["puthujjana", "ariyasavaka"],
+    "p008": ["puthujjana", "dukkha-vedana"],
+    "p009": ["sn36-6-two-feelings-painful-feeling"],
+    "p010": ["salla"],
+    "p011": ["puthujjana", "dukkha-vedana"],
+    "p012": ["sn36-6-two-feelings-painful-feeling"],
+    "p013": ["dukkha-vedana", "patigha", "anusaya"],
+    "p014": ["dukkha-vedana", "kama"],
+    "p016": ["kama", "nissarana", "dukkha-vedana", "raga", "anusaya", "sukha-vedana"],
+    "p017": ["sn36-6-feelings-undiscerned-response", "avijja", "anusaya", "adukkhamasukha-vedana"],
+    "p018": ["sukha-vedana", "dukkha-vedana", "adukkhamasukha-vedana"],
+    "p019": ["puthujjana", "dukkha"],
+    "p020": ["ariyasavaka", "dukkha-vedana"],
+    "p021": ["sn36-6-one-feeling-painful-feeling"],
+    "p022": ["salla"],
+    "p023": ["ariyasavaka", "dukkha-vedana"],
+    "p024": ["sn36-6-one-feeling-painful-feeling"],
+    "p025": ["dukkha-vedana", "patigha", "anusaya"],
+    "p026": ["dukkha-vedana", "kama"],
+    "p028": ["kama", "nissarana", "dukkha-vedana", "raga", "anusaya", "sukha-vedana"],
+    "p029": ["sn36-6-feelings-discerned-response", "avijja", "anusaya", "adukkhamasukha-vedana"],
+    "p030": ["sukha-vedana", "dukkha-vedana", "adukkhamasukha-vedana"],
+    "p031": ["ariyasavaka", "dukkha"],
+    "p032": ["puthujjana", "ariyasavaka"]
+  }
+}

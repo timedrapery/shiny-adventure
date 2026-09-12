@@ -1,0 +1,52 @@
+{
+  "surface_key": "sn36_6",
+  "version": 1,
+  "editorial_status": "draft",
+  "drafted_on": "2026-09-12",
+  "approved_on": null,
+  "approval_evidence": null,
+  "intro": "Three short questions, answered in your own words. There are no right or wrong answers. Your answers help the editors see what the translation actually communicates.",
+  "questions": [
+    {
+      "id": "paraphrase",
+      "role": "paraphrase",
+      "prompt": "In your own words, what was this passage saying?"
+    },
+    {
+      "id": "arrows",
+      "role": "specific",
+      "prompt": "The text says one person is hit by two arrows and the other by only one. What do the two arrows stand for?"
+    },
+    {
+      "id": "reread",
+      "role": "reread",
+      "prompt": "Which wording, if any, made you stop and reread?"
+    }
+  ],
+  "familiarity": {
+    "ask": true,
+    "prompt": "How familiar are you with these teachings?",
+    "options": [
+      {"value": "new", "label": "New to these teachings"},
+      {"value": "some", "label": "Some familiarity"},
+      {"value": "very", "label": "Very familiar"},
+      {"value": "undisclosed", "label": "Prefer not to say"}
+    ]
+  },
+  "assessment_guidance": {
+    "paraphrase": "Accept any account that captures the contrast: two people both feel pain, and the difference is what happens next in the mind. Accept everyday wording such as 'one person makes it worse by getting upset' or 'the trained person just feels the pain'. Do not require 'ordinary person', 'noble disciple', 'felt experience', or 'underlying tendency'.",
+    "specific": {
+      "accept": [
+        "The first arrow is the pain itself (physical pain, the thing that happened); the second is the extra suffering the mind adds (grief, distress, resistance, getting upset, chasing pleasure to escape).",
+        "Any wording that separates unavoidable pain from an avoidable reaction to it."
+      ],
+      "not_required": "House terms. Naming the underlying tendencies. Mentioning sensual pleasure or the verses.",
+      "reject": [
+        "The second arrow is a second physical injury or a second event.",
+        "The trained person feels no pain at all.",
+        "The two arrows are two different people."
+      ]
+    },
+    "reread": "Record the exact wording quoted. This question is diagnostic, not scored. Recurring quotes across readers identify a candidate revision; check whether the wording is a governed rendering before proposing a change to it."
+  }
+}
