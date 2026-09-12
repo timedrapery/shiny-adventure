@@ -44,6 +44,19 @@ CHECKS: tuple[tuple[str, tuple[str, ...]], ...] = (
 )
 
 
+def display_path(path: Path) -> str:
+    """A repo-relative path where that is meaningful, else the path as given.
+
+    `Path.relative_to` raises for anything outside the repository, and a
+    `--output` elsewhere is legitimate, so the failure must not land after a
+    replay that already took minutes.
+    """
+    try:
+        return path.resolve().relative_to(REPO_ROOT).as_posix()
+    except ValueError:
+        return str(path)
+
+
 def git(args: list[str], cwd: Path) -> str:
     result = subprocess.run(
         ["git", *args], cwd=cwd, capture_output=True, text=True, check=True
@@ -85,9 +98,19 @@ def count_failures(output: str) -> int:
         if found:
             return found
     # A non-zero exit with nothing parseable still means at least one failure.
-    # A missing dependency lands here, which is why the replay installs the
-    # dev requirements before it starts.
     return 1
+
+
+def is_environment_failure(output: str) -> bool:
+    """Whether a check failed for want of a working environment.
+
+    The replay runs every historical commit against the *current* interpreter
+    and installed packages. A commit that fails because `jsonschema` is not
+    installed says nothing about the editorial health of that week, and
+    recording it as a finding would invent a failure the repository never
+    had.
+    """
+    return "Missing dependency" in output or "ModuleNotFoundError" in output
 
 
 def measure_commit(commit: str, worktree: Path, repo_root: Path) -> dict[str, int]:
@@ -106,7 +129,16 @@ def measure_commit(commit: str, worktree: Path, repo_root: Path) -> dict[str, in
             text=True,
             check=False,
         )
-        counts[label] = 0 if result.returncode == 0 else count_failures(result.stdout + result.stderr)
+        if result.returncode == 0:
+            counts[label] = 0
+            continue
+        output = result.stdout + result.stderr
+        if is_environment_failure(output):
+            raise EnvironmentError(
+                f"{command[0]} could not run at {commit[:12]}: {output.strip().splitlines()[0]}. "
+                "Install the dev requirements before replaying history."
+            )
+        counts[label] = count_failures(output)
     return counts
 
 
@@ -150,9 +182,42 @@ def build_history(repo_root: Path = REPO_ROOT, *, limit: int | None = None) -> l
     return rows
 
 
+def read_history(path: Path) -> dict[str, dict[str, object]]:
+    """Existing rows keyed by week, so a partial replay can be merged in."""
+    existing: dict[str, dict[str, object]] = {}
+    if not path.exists():
+        return existing
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line:
+            continue
+        try:
+            row = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if isinstance(row, dict) and isinstance(row.get("week"), str):
+            existing[row["week"]] = row
+    return existing
+
+
 def write_history(rows: list[dict[str, object]], path: Path = HISTORY_PATH) -> None:
+    """Merge `rows` into the history file, newly measured weeks winning.
+
+    A full replay rewrites every week it measured, which is what makes the
+    script idempotent. A `--limit` run measures only recent weeks, and
+    overwriting the file with those alone would silently delete the older
+    history it did not look at.
+    """
     path.parent.mkdir(parents=True, exist_ok=True)
-    body = "".join(json.dumps(row, ensure_ascii=True, sort_keys=True) + "\n" for row in rows)
+    merged = read_history(path)
+    for row in rows:
+        week = row.get("week")
+        if isinstance(week, str):
+            merged[week] = row
+    body = "".join(
+        json.dumps(merged[week], ensure_ascii=True, sort_keys=True) + "\n"
+        for week in sorted(merged)
+    )
     path.write_text(body, encoding="utf-8")
 
 
@@ -186,10 +251,7 @@ def main() -> int:
     failing = sum(
         1 for row in rows if row["schema_failures"] or row["lint_failures"]
     )
-    print(
-        f"Wrote {len(rows)} week(s) to {args.output.relative_to(REPO_ROOT).as_posix()} "
-        f"({failing} with a failure)."
-    )
+    print(f"Wrote {len(rows)} week(s) to {display_path(args.output)} ({failing} with a failure).")
     return 0
 
 
