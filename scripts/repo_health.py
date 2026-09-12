@@ -457,7 +457,12 @@ def load_translation_declarations(
         for match in RENDERING_DECLARATION.finditer(text):
             headword = re.sub(r"\s+", " ", match.group(1)).strip()
             rendering = re.sub(r"\s+", " ", match.group(2)).strip()
-            if is_term_link(headword, rendering, keys):
+            # Only a bare arrow is ambiguous between "renders as" and "leads
+            # to". The words `is rendered` are an explicit translation claim,
+            # and an explicit claim that one headword renders as another
+            # (`nirodha` is rendered `nibbāna`) is precisely the kind of
+            # error this check exists to catch, so it is never filtered.
+            if "→" in match.group(0) and is_term_link(headword, rendering, keys):
                 continue
             if headword and rendering:
                 found.append((headword, rendering))

@@ -3,16 +3,17 @@
   "normalized_term": "anicca-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "perception of impermanence",
-  "preferred_translation": "perception of impermanence",
+  "literal_meaning": "recognition of impermanence",
+  "preferred_translation": "recognition of impermanence",
   "alternative_translations": [
-    "impermanence perception"
+    "impermanence recognition"
   ],
   "discouraged_translations": [
+    "perception of impermanence",
     "temporary perception"
   ],
-  "definition": "A cultivated perception that keeps the impermanent character of conditioned experience in view.",
-  "notes": "Use this record for the three-marks practice family when impermanence is cultivated as a steady perception rather than treated as a mere abstract doctrine. In the canonical perception lists it belongs to the insight-training sequence and should stay linked to the broader progression toward seeing dissatisfaction and not-self.",
+  "definition": "A cultivated recognition that keeps the impermanent character of conditioned experience in view.",
+  "notes": "Use this record for the three-marks practice family when impermanence is cultivated as a steady recognition rather than treated as a mere abstract doctrine. The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas saññā is the act of knowing the thing again -- re-cognizing it -- which is exactly the activity this practice trains. In the canonical recognition lists it belongs to the insight-training sequence and should stay linked to the broader progression toward seeing dissatisfaction and not-self.",
   "related_terms": [
     "anicca",
     "aniccanupassana",
@@ -23,8 +24,8 @@
   "example_phrases": [
     {
       "pali": "aniccasaññā",
-      "translation": "perception of impermanence",
-      "notes": "Listed among the cultivated perceptions used for insight and release.",
+      "translation": "recognition of impermanence",
+      "notes": "Listed among the cultivated recognitions used for insight and release.",
       "source": "AN 10.60"
     }
   ],

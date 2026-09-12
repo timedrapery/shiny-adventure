@@ -1,0 +1,135 @@
+{
+  "_comment": "Acknowledged formula disagreements, written by `scripts/check_formula_agreement.py --update-baseline`. The check fails on any disagreement not listed here or whose variants have changed, and on entries that are no longer in disagreement. Resolve groups by editing the records, then rerun with --update-baseline to drop them; never add to this file by hand to silence a finding.",
+  "groups": {
+    "abhijjhā kāyagantho": [
+      "abhijjha-kayagantha\tcoveting is a bodily knot",
+      "gantha\tcovetousness is a bodily knot",
+      "kayagantha\tcoveting is a bodily knot"
+    ],
+    "ajjhattikāni āyatanāni": [
+      "ayatana\tthe internal fields",
+      "salayatana\tthe internal sense fields"
+    ],
+    "alobho kusalamūlaṃ": [
+      "alobha\tnon-greed is a root of the wholesome",
+      "alobha\tnon-greed is a wholesome root"
+    ],
+    "anupādisesā nibbānadhātu": [
+      "anupadisesa-nibbana-dhatu\tthe nibbāna element without remainder",
+      "parinibbana-dhatu\tthe nibbana element without fuel remaining"
+    ],
+    "appamādo amatapadaṃ": [
+      "amata\theedfulness is the path to the deathless",
+      "amatapada\theedfulness is the path to the deathless",
+      "appamada\theedfulness is the deathless path"
+    ],
+    "cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ": [
+      "cakkhu\tdependent on the eye and visible forms, eye-knowing arises",
+      "cakkhu-vinnana\tdependent on the eye and forms, eye-knowing arises",
+      "rupa\tdependent on eye and visible forms, eye-knowing arises"
+    ],
+    "cattāro satipaṭṭhānā": [
+      "cattaro-satipatthana\tfour establishments of sati",
+      "samma-sati\tthe four establishments of remembering",
+      "satipatthana\tthe four establishments of sati"
+    ],
+    "catutthaṁ jhānaṁ": [
+      "catuttha-jhana\tfourth mental theme",
+      "jhana\tthe fourth mental theme"
+    ],
+    "cetanāhaṃ bhikkhave kammaṃ vadāmi": [
+      "cetana\tbhikkhus, i say that intention is action",
+      "kamma\tbhikkhus, i say that action is intention",
+      "kamma\tit is intention, bhikkhus, that i call action"
+    ],
+    "citte cittānupassī viharati": [
+      "citta\tthey remain observing the heart in relation to the heart",
+      "cittanupassana\tone remains observing the heart in relation to the heart"
+    ],
+    "imasmiṃ sati idaṃ hoti": [
+      "imasmim-sati-idam-hoti\twhen this is, this comes to be",
+      "paccaya\twhen this is present, this comes to be",
+      "paticcasamuppada\twhen this is, this comes to be"
+    ],
+    "indriyasaṁvaro": [
+      "indriya-samvara\tguarding the faculties",
+      "samvara\tsense restraint"
+    ],
+    "jātisamudayā jarāmaraṇasamudayo": [
+      "jati-samudaya\tfrom the origin of birth comes the origin of ageing-and-death",
+      "jati-samudaya\twith birth as origin, ageing-and-death originates"
+    ],
+    "karuṇā cetovimutti": [
+      "karuna\tthe liberation of mind through kindness towards others",
+      "karuna-cetovimutti\tliberation of mind through kindness towards others"
+    ],
+    "lobho akusalamūlaṃ": [
+      "lobha\tgreed is a root of the unwholesome",
+      "lobha\tgreed is an unwholesome root"
+    ],
+    "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ": [
+      "mano\tdependent on the mental faculty and dhammas, mind-knowing arises",
+      "mano-vinnana\tdependent on the mind and dhammas, mind-knowing arises"
+    ],
+    "manāyatana": [
+      "ayatana\tthe mind field",
+      "mano\tthinking-mind field"
+    ],
+    "mettā cetovimutti": [
+      "metta\tthe liberation of mind through friendliness",
+      "metta-cetovimutti\tliberation of mind through friendliness"
+    ],
+    "moho akusalamūlaṃ": [
+      "moha\tdelusion is a root of the unwholesome",
+      "moha\tdelusion is an unwholesome root"
+    ],
+    "muditā cetovimutti": [
+      "mudita\tthe liberation of mind through gladness",
+      "mudita-cetovimutti\tliberation of mind through gladness"
+    ],
+    "nekkhammasaṅkappa": [
+      "nekkhamma\tan attitude of renunciation",
+      "samma-sankappa\tattitude of renunciation"
+    ],
+    "nibbānaṃ paramaṃ sukhaṃ": [
+      "nibbana\tnibbāna is the highest ease",
+      "sukha\tnibbāna is the highest satisfaction"
+    ],
+    "nāmarūpapaccayā saḷāyatanaṁ": [
+      "namarupa\twith name-and-form as condition, the six fields of experience",
+      "namarupa-paccaya\twith name-and-form as condition, six fields of experience",
+      "namarupapaccaya-salayatanam\twith name-and-form as condition, the six fields of experience",
+      "paccaya\twith name-and-form as condition, the six fields of experience",
+      "salayatana\twith name-and-form as condition, six fields of experience"
+    ],
+    "paṭhamaṁ jhānaṁ": [
+      "jhana\tthe first mental theme",
+      "pathama-jhana\tfirst mental theme"
+    ],
+    "phassasamudayā vedanāsamudayo": [
+      "phassa-samudaya\tfrom the origin of contact comes the origin of felt experience",
+      "phassa-samudaya\twith contact as origin, felt experience originates"
+    ],
+    "Sabbe saṅkhārā aniccā": [
+      "anicca\tall constructed things are impermanent",
+      "anicca-sabbe-sankhara\tall that has been put together is impermanent",
+      "sankhara\tall that has been put together is impermanent"
+    ],
+    "satipaṭṭhāna": [
+      "sati\testablishment of remembering",
+      "satipatthana\testablishment of sati"
+    ],
+    "saḷāyatanapaccayā phasso": [
+      "salayatana-paccaya\twith six fields of experience as condition, contact",
+      "salayatanapaccaya-phasso\twith the six fields of experience as condition, contact"
+    ],
+    "upekkhā cetovimutti": [
+      "upekkha\tthe liberation of mind through dynamic balance",
+      "upekkha-cetovimutti\tliberation of mind through dynamic balance"
+    ],
+    "vimuttiñāṇadassana": [
+      "dassana\tknowing and seeing of release",
+      "vimutti-nanadassana\tknowledge and vision of release"
+    ]
+  }
+}

@@ -3,12 +3,19 @@
   "normalized_term": "asubha-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of the unattractive",
-  "definition": "A specific perception cultivated for insight and release.",
+  "preferred_translation": "recognizing what is unattractive",
+  "definition": "A specific recognition cultivated for insight and release.",
   "status": "reviewed",
-  "literal_meaning": "perception of the unattractive",
+  "literal_meaning": "recognizing what is unattractive",
   "tags": [
     "meditative-development",
     "liberation"
-  ]
+  ],
+  "alternative_translations": [
+    "recognition of unattractiveness"
+  ],
+  "discouraged_translations": [
+    "perception of the unattractive"
+  ],
+  "notes": "The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas sanna is the act of knowing the thing again -- re-cognizing it -- which is what this practice trains."
 }

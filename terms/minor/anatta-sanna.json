@@ -3,16 +3,17 @@
   "normalized_term": "anatta-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "perception of not-self",
-  "preferred_translation": "perception of not-self",
+  "literal_meaning": "recognition of not-self",
+  "preferred_translation": "recognition of not-self",
   "alternative_translations": [
-    "not-self perception"
+    "not-self recognition"
   ],
   "discouraged_translations": [
+    "perception of not-self",
     "no-self perception"
   ],
-  "definition": "A cultivated perception that keeps experience from being taken as self, owned, or identified with.",
-  "notes": "Use this record for the three-marks practice family when not-self is cultivated as a direct perception. In AN 10.60 the perception appears in the more relational form dukkhe anattasaññā, so this entry should stay tied to the movement from dissatisfaction toward de-appropriation rather than drifting into abstract no-self rhetoric.",
+  "definition": "A cultivated recognition that keeps experience from being taken as self, owned, or identified with.",
+  "notes": "Use this record for the three-marks practice family when not-self is cultivated as a direct recognition. In AN 10.60 the recognition appears in the more relational form dukkhe anattasaññā, so this entry should stay tied to the movement from dissatisfaction toward de-appropriation rather than drifting into abstract no-self rhetoric. The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas sanna is the act of knowing the thing again -- re-cognizing it -- which is what this practice trains.",
   "related_terms": [
     "anatta",
     "anattanupassana",
@@ -23,7 +24,7 @@
   "example_phrases": [
     {
       "pali": "dukkhe anattasaññā",
-      "translation": "perception of not-self in what is dissatisfaction",
+      "translation": "recognition of not-self in what is dissatisfaction",
       "notes": "Canonical perception formula linking dissatisfaction and not-self.",
       "source": "AN 10.60"
     }

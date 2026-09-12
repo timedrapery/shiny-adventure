@@ -616,6 +616,71 @@ def collect_check_failures(path: Path = HISTORY_PATH) -> dict[str, object]:
     }
 
 
+def collect_formula_agreement(terms: dict[str, dict[str, object]]) -> dict[str, object]:
+    """Shared Pali formulas whose English differs across the records quoting them.
+
+    A different question from declared-rendering drift, and kept as a
+    separate number on purpose: the drift figure can be an honest zero while
+    dozens of formulas still disagree, and one reassuring score would hide
+    the second behind the first.
+    """
+    try:
+        from scripts import check_formula_agreement as cfa
+    except ModuleNotFoundError:
+        import check_formula_agreement as cfa
+
+    exceptions = cfa.load_exceptions()
+    unexplained, waived = cfa.collect_disagreements(terms, exceptions)
+    regressions, stale = cfa.compare_to_baseline(unexplained, cfa.load_baseline())
+    return {
+        "unexplained": len(unexplained),
+        "waived": len(waived),
+        "regressions": len(regressions),
+        "stale_baseline": len(stale),
+        "groups": [
+            {"pali": str(f["pali"]), "records": f["records"], "renderings": f["renderings"]}
+            for f in unexplained
+        ],
+    }
+
+
+def collect_human_evidence(reviews_dir: Path = REVIEWS_DIR) -> dict[str, object]:
+    """What human review has actually been recorded, from the newcomer ledger.
+
+    Structural checks can all pass with this at zero. It is reported on its
+    own so that state is visible rather than inferred from silence.
+    """
+    ledger_path = reviews_dir / "newcomer-review-ledger.json"
+    empty = {
+        "surfaces": 0,
+        "source_fidelity_complete": 0,
+        "read_aloud_complete": 0,
+        "newcomer_reviews_recorded": 0,
+        "surfaces_validated": 0,
+    }
+    if not ledger_path.exists():
+        return empty
+    ledger = load_json(ledger_path)
+    surfaces = ledger.get("surfaces") if isinstance(ledger, dict) else None
+    if not isinstance(surfaces, dict):
+        return empty
+    rows = [s for s in surfaces.values() if isinstance(s, dict)]
+
+    def sub_complete(row: dict[str, object], key: str) -> bool:
+        sub = row.get(key)
+        return isinstance(sub, dict) and sub.get("status") == "complete"
+
+    return {
+        "surfaces": len(rows),
+        "source_fidelity_complete": sum(sub_complete(r, "source_fidelity") for r in rows),
+        "read_aloud_complete": sum(sub_complete(r, "human_read_aloud") for r in rows),
+        "newcomer_reviews_recorded": sum(
+            len(r["newcomer_reviews"]) for r in rows if isinstance(r.get("newcomer_reviews"), list)
+        ),
+        "surfaces_validated": sum(r.get("status") == LEDGER_TERMINAL_STATUS for r in rows),
+    }
+
+
 def build_report(
     terms: dict[str, dict[str, object]],
     *,
@@ -634,6 +699,8 @@ def build_report(
         "drift": collect_drift(terms, translations_dir),
         "review_queue": collect_review_queue(terms),
         "check_failures": collect_check_failures(history_path),
+        "formula_agreement": collect_formula_agreement(terms),
+        "human_evidence": collect_human_evidence(),
     }
 
 
@@ -764,7 +831,56 @@ def render_dashboard(report: dict[str, object], *, top: int = 25) -> str:
     else:
         lines += ["Nothing is waiting for review.", ""]
 
+    formulas = report["formula_agreement"]
     lines += [
+        "## Formula agreement",
+        "",
+        "Pali phrases quoted by more than one term record whose English differs",
+        "between those records. This is a different question from declared-rendering",
+        "drift above, and it is reported separately so a zero there cannot stand in",
+        "for a zero here. The acknowledged backlog lives in",
+        "`reviews/formula-baseline.json`; anything outside it fails the check.",
+        "",
+        "| Measure | Value |",
+        "| --- | --- |",
+        f"| Unexplained disagreements | {formulas['unexplained']} |",
+        f"| Waived by scoped exception | {formulas['waived']} |",
+        f"| Outside the acknowledged baseline | {formulas['regressions']} |",
+        f"| Stale baseline entries | {formulas['stale_baseline']} |",
+        "",
+    ]
+    if formulas["groups"]:
+        lines += [
+            "| Formula | Records | Renderings |",
+            "| --- | --- | --- |",
+        ]
+        for group in formulas["groups"][:top]:
+            renderings = "; ".join(f"`{md_escape(k)}`: {md_escape(t)}" for k, t in group["renderings"])
+            lines.append(f"| `{md_escape(group['pali'])}` | {len(group['records'])} | {renderings} |")
+        lines.append("")
+    else:
+        lines += ["Every shared formula is rendered the same way wherever it is quoted.", ""]
+
+    evidence = report["human_evidence"]
+    lines += [
+        "## Human review evidence",
+        "",
+        "What human review the newcomer ledger actually records. Every structural",
+        "check on this page can pass with these at zero; they are listed so that",
+        "state is visible rather than inferred from silence.",
+        "",
+        "| Measure | Value |",
+        "| --- | --- |",
+        f"| Surfaces in the cohort | {evidence['surfaces']} |",
+        f"| Source fidelity signed off | {evidence['source_fidelity_complete']} |",
+        f"| Human read-aloud complete | {evidence['read_aloud_complete']} |",
+        f"| Newcomer reviews recorded | {evidence['newcomer_reviews_recorded']} |",
+        f"| Surfaces validated | {evidence['surfaces_validated']} |",
+        "",
+        "Source verification (`scripts/verify_example_sources.py`) is not reported",
+        "here: its results depend on a network cache outside the repository, so the",
+        "same commit would not produce the same page. Run it directly.",
+        "",
         "## Schema and lint failures per week",
         "",
         "Replayed from git history by `scripts/backfill_check_history.py`, which runs",
@@ -931,6 +1047,25 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
         days = row["waiting_days"]
         age = f"{days}d" if days is not None else "unknown"
         print(f"    [{safe_text(str(row['kind']))}] {safe_text(str(row['id']))} — {age}")
+    print()
+
+    formulas = report["formula_agreement"]
+    print("Formula agreement")
+    print(
+        f"- Unexplained: {formulas['unexplained']} | waived: {formulas['waived']} "
+        f"| outside baseline: {formulas['regressions']} | stale baseline: {formulas['stale_baseline']}"
+    )
+    for group in formulas["groups"][:top]:
+        print(f"    {safe_text(str(group['pali']))} ({len(group['records'])} records)")
+    print()
+
+    evidence = report["human_evidence"]
+    print("Human review evidence")
+    print(
+        f"- Cohort {evidence['surfaces']} | fidelity {evidence['source_fidelity_complete']} "
+        f"| read-aloud {evidence['read_aloud_complete']} | newcomer reviews "
+        f"{evidence['newcomer_reviews_recorded']} | validated {evidence['surfaces_validated']}"
+    )
     print()
 
     print("Check failures")

@@ -3,17 +3,17 @@
   "normalized_term": "pahana-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "perception of abandoning",
-  "preferred_translation": "perception of abandoning",
-  "definition": "A specific contemplative perception cultivated around abandoning.",
-  "notes": "This compound should inherit the pahāna headword policy. Keep abandoning-language explicit rather than turning the phrase into generic letting-go language.",
+  "literal_meaning": "recognition through abandoning",
+  "preferred_translation": "recognition through abandoning",
+  "definition": "A specific contemplative recognition cultivated around abandoning.",
+  "notes": "This compound should inherit the pahāna headword policy. Keep abandoning-language explicit rather than turning the phrase into generic letting-go language. The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas sanna is the act of knowing the thing again -- re-cognizing it -- which is what this practice trains.",
   "related_terms": [
     "pahana"
   ],
   "example_phrases": [
     {
       "pali": "pahāna-saññā",
-      "translation": "the perception of abandoning",
+      "translation": "the recognition through abandoning",
       "notes": "Named contemplative perception in the release sequence.",
       "source": "AN 10.60"
     }
@@ -26,5 +26,8 @@
     "liberation",
     "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "discouraged_translations": [
+    "perception of abandoning"
+  ]
 }
