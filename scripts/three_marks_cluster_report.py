@@ -55,7 +55,7 @@ EXPECTED_PREFERRED_TRANSLATIONS = {
     "sankhara": "putting things together",
     "sankhata": "conditioned",
     "dhamma": "dhamma",
-    "anicca-sanna": "perception of impermanence",
+    "anicca-sanna": "recognition of impermanence",
     "dukkha-sanna": "perception of dissatisfaction",
     "anatta-sanna": "perception of not-self",
     "aniccanupassana": "contemplation of impermanence",

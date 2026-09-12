@@ -450,7 +450,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn64": "fe75862e43caf1286ae35d43b7d399562687006f3b164046abd010bdbf5deb65",
     "mn99": "fe958da081881326fbc5f0e379908c48a1c68500b01feb379b34510a966f2d5c",
     "mn117": "e5d69b1863169ccc9a9f3fb503b413294aa84aa0951eca6c5a571dcb34261b60",
-    "mn118": "21e66145b96bad998cfc4ffb60162d3c01d0471c18a24ef1dcf1576cf626c653",
+    "mn118": "bad084d41019132611e2b555e55b25a929a03afe8c1045b79cff54a63f5cdd28",
     "mn119": "d7be0fc71bfe595116ec6b72009a75f9ba210d90ea084818447fc19666e437a5",
     "mn131": "6c6498fe1ee6c5763b1ae962c2e0dd2c22018ef53d59fd7a8cd50d078f67912f",
     "mn137": "af7beff3ec76703d37e219397f9996880768fe9532a83d48162851447ccbdbc3",
@@ -496,6 +496,8 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    # Body re-touched for the saññā-compound ruling (perception -> recognition).
+    "mn118": "2026-09-12",
     "an2_9": "2026-08-24",
     "an3_69": "2026-08-24",
     "an4_5": "2026-08-24",

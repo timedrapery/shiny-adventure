@@ -125,7 +125,7 @@ for a zero here. The acknowledged backlog lives in
 
 | Measure | Value |
 | --- | --- |
-| Unexplained disagreements | 31 |
+| Unexplained disagreements | 30 |
 | Waived by scoped exception | 0 |
 | Outside the acknowledged baseline | 0 |
 | Stale baseline entries | 0 |
@@ -135,7 +135,6 @@ for a zero here. The acknowledged backlog lives in
 | `abhijjhā kāyagantho` | 3 | `abhijjha-kayagantha`: coveting is a bodily knot; `gantha`: covetousness is a bodily knot; `kayagantha`: coveting is a bodily knot |
 | `ajjhattikāni āyatanāni` | 2 | `ayatana`: the internal fields; `salayatana`: the internal sense fields |
 | `alobho kusalamūlaṃ` | 1 | `alobha`: non-greed is a root of the wholesome; `alobha`: non-greed is a wholesome root |
-| `aniccasaññā` | 2 | `anicca-sanna`: perception of impermanence; `sanna`: recognition of impermanence |
 | `anupādisesā nibbānadhātu` | 2 | `anupadisesa-nibbana-dhatu`: the nibbāna element without remainder; `parinibbana-dhatu`: the nibbana element without fuel remaining |
 | `appamādo amatapadaṃ` | 3 | `amata`: heedfulness is the path to the deathless; `amatapada`: heedfulness is the path to the deathless; `appamada`: heedfulness is the deathless path |
 | `cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ` | 3 | `cakkhu`: dependent on the eye and visible forms, eye-knowing arises; `cakkhu-vinnana`: dependent on the eye and forms, eye-knowing arises; `rupa`: dependent on eye and visible forms, eye-knowing arises |
@@ -157,6 +156,7 @@ for a zero here. The acknowledged backlog lives in
 | `nibbānaṃ paramaṃ sukhaṃ` | 2 | `nibbana`: nibbāna is the highest ease; `sukha`: nibbāna is the highest satisfaction |
 | `nāmarūpapaccayā saḷāyatanaṁ` | 5 | `namarupa`: with name-and-form as condition, the six fields of experience; `namarupa-paccaya`: with name-and-form as condition, six fields of experience; `namarupapaccaya-salayatanam`: with name-and-form as condition, the six fields of experience; `paccaya`: with name-and-form as condition, the six fields of experience; `salayatana`: with name-and-form as condition, six fields of experience |
 | `paṭhamaṁ jhānaṁ` | 2 | `jhana`: the first mental theme; `pathama-jhana`: first mental theme |
+| `phassasamudayā vedanāsamudayo` | 1 | `phassa-samudaya`: from the origin of contact comes the origin of felt experience; `phassa-samudaya`: with contact as origin, felt experience originates |
 
 ## Human review evidence
 

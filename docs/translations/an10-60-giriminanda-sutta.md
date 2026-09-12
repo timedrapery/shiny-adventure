@@ -11,13 +11,13 @@
 - House choices that most affect this sutta: `saññā` is rendered
   `recognition`; `anicca` is rendered `impermanent`; `virāga` is rendered
   `fading`; `nirodha` is rendered `quenching`; `saṅkhāra` is rendered `what
-  is put together` (in the perception names and reflection formulas) and
+  is put together` (in the recognition names and reflection formulas) and
   `bodily putting-together` / `mental putting-together` (in the ānāpānassati
   steps); `taṇhā` is rendered `ignorant wanting`; `sati` is rendered
   `remembering`; `pīti` is rendered `rejoicing`; and `citta` is rendered
   `heart`.
 - This edition treats AN 10.60 as the repository's control surface for the
-  ten perception-contemplation formulas and for ānāpānassati as the closing
+  ten recognition-contemplation formulas and for ānāpānassati as the closing
   member of a practice sequence aimed at releasing illness through directed
   recognition.
 - This is the third Aṅguttara Nikāya surface in the repository.
