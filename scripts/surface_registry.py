@@ -533,10 +533,27 @@ TRANSLATION_SURFACES = tuple(
 )
 
 
+# Generated docs that are not cluster surfaces. These are freshness-enforced
+# like the cluster reports, but they are deliberately kept out of
+# CLUSTER_SURFACES so `scripts/check_cluster_surfaces.py` does not demand an
+# authority document for them and `run_checks.py` does not run them in strict
+# family mode. They report on the repository rather than governing a doctrinal
+# family.
+NON_CLUSTER_GENERATED_SURFACES: tuple[ClusterSurface, ...] = (
+    ClusterSurface(
+        key="health_dashboard",
+        label="Editorial health dashboard",
+        doc_relpath="docs/generated/health-dashboard.md",
+        script_relpath="scripts/health_dashboard.py",
+        test_relpaths=("tests/test_health_dashboard.py",),
+    ),
+)
+
+
 def generated_surface_groups() -> tuple[ClusterSurface, ...]:
     """Return the CI-enforced generated doc groups backed by report scripts."""
 
-    return CLUSTER_SURFACES
+    return CLUSTER_SURFACES + NON_CLUSTER_GENERATED_SURFACES
 
 
 @dataclass(frozen=True)
