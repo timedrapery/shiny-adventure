@@ -1,0 +1,57 @@
+{
+  "surface_key": "an2_9",
+  "body_sha256": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
+  "next_id": 8,
+  "passages": [
+    {
+      "id": "p001",
+      "fingerprint": "f9556c47089f21f6",
+      "section": "Two Bright Qualities",
+      "preview": "\"Bhikkhus, two bright qualities protect the world.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p002",
+      "fingerprint": "c589349c1c9ec92a",
+      "section": "Two Bright Qualities",
+      "preview": "Which two?",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p003",
+      "fingerprint": "2ff94133457259f5",
+      "section": "Two Bright Qualities",
+      "preview": "Conscience and moral caution.",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p004",
+      "fingerprint": "fa87fc110974f7d0",
+      "section": "Two Bright Qualities",
+      "preview": "If these two bright qualities did not protect the world, people would s…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p005",
+      "fingerprint": "cf511a0b5c9c9e6d",
+      "section": "Two Bright Qualities",
+      "preview": "The world would lose all sexual boundaries, like goats and sheep, chick…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p006",
+      "fingerprint": "8393e921c4262e89",
+      "section": "Two Bright Qualities",
+      "preview": "But because these two bright qualities do protect the world, people res…",
+      "previous_fingerprints": []
+    },
+    {
+      "id": "p007",
+      "fingerprint": "14ba1a9cbe829ea8",
+      "section": "Two Bright Qualities",
+      "preview": "The ninth discourse is finished.",
+      "previous_fingerprints": []
+    }
+  ],
+  "retired": []
+}
