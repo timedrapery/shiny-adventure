@@ -345,10 +345,16 @@ class RepoHealthTests(unittest.TestCase):
             matches, [("pīti", "rejoicing"), ("sukha", "satisfaction")]
         )
 
-    def test_an_arrow_between_two_pali_words_is_not_a_declaration(self) -> None:
+    def test_an_arrow_between_two_headwords_is_a_link_not_a_declaration(self) -> None:
         # SN 12.20's notes write the dependent-arising chain as
         # `avijjā` → `saṅkhārā`. That is a link, not a rendering, and reading
         # it as one reported drift against words never mistranslated.
+        terms = {
+            "avijja": {"term": "avijjā", "normalized_term": "avijja"},
+            "sankhara": {"term": "saṅkhāra", "normalized_term": "sankhara"},
+            "jati": {"term": "jāti", "normalized_term": "jati"},
+            "jaramarana": {"term": "jarāmaraṇa", "normalized_term": "jaramarana"},
+        }
         with tempfile.TemporaryDirectory() as tmpdir:
             path = Path(tmpdir) / "sn12-20-notes.md"
             path.write_text(
@@ -356,9 +362,35 @@ class RepoHealthTests(unittest.TestCase):
                 "`saṅkhāra` is rendered `what is put together`.",
                 encoding="utf-8",
             )
-            declarations = repo_health.load_translation_declarations(Path(tmpdir))
+            declarations = repo_health.load_translation_declarations(Path(tmpdir), terms)
         self.assertEqual(
             declarations, {"sn12-20-notes.md": [("saṅkhāra", "what is put together")]}
+        )
+
+    def test_a_rendering_that_quotes_pali_is_still_a_declaration(self) -> None:
+        # The link test must be structural, not orthographic: English
+        # renderings quote Pali freely, and an untranslated headword maps to
+        # itself. A diacritic test threw all of these away.
+        terms = {
+            "nibbana": {"term": "nibbāna", "normalized_term": "nibbana"},
+            "nibbanadhatu": {"term": "nibbānadhātu", "normalized_term": "nibbanadhatu"},
+            "gandhabba": {"term": "gandhabba", "normalized_term": "gandhabba"},
+        }
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "iti44-notes.md"
+            path.write_text(
+                "`nibbānadhātu` → `nibbāna element`; `āvuso visākha` is rendered "
+                "`friend Visākha`; `gandhabba` → `gandhabba`.",
+                encoding="utf-8",
+            )
+            declarations = repo_health.load_translation_declarations(Path(tmpdir), terms)
+        self.assertEqual(
+            declarations["iti44-notes.md"],
+            [
+                ("nibbānadhātu", "nibbāna element"),
+                ("āvuso visākha", "friend Visākha"),
+                ("gandhabba", "gandhabba"),
+            ],
         )
 
     def test_canonical_rendering_folds_wrapping_case_and_final_stop(self) -> None:

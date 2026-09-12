@@ -83,7 +83,7 @@ That was measured and abandoned — see the note in
 | Measure | Value |
 | --- | --- |
 | Documents declaring renderings | 104 |
-| Declared renderings | 789 |
+| Declared renderings | 795 |
 | Findings | 0 |
 
 No declared rendering fights its record.
