@@ -51,7 +51,9 @@ diacritic, after which every token inside it counts. That keeps
 `pariyuṭṭhitena cetasā viharati` whole, including the undiacriticked
 `viharati`, without letting a backticked English `heart` into the corpus. The
 left side of a rendering declaration (`` `dukkha` is rendered `...` ``) is
-Pali by construction and counts too.
+Pali by construction, so it is collected too — but only when it carries no
+diacritic, since a diacriticked headword is already a backticked span and
+counting it twice inflated every occurrence figure.
 
 Two percentages are reported because they answer different questions. Coverage
 **by surface** asks how much of the vocabulary is governed. Coverage **by
@@ -69,13 +71,15 @@ one-line minor entry counts exactly as much as a mature major entry.
 | `inflected` | It matched after a coarse case-ending fold | Good, not certain |
 | `compound` | It is two governed headwords run together | Good, not certain |
 
-The fold is a measurement device, not a morphological analyser. It strips at
-most three characters, and restores a stem vowel afterwards, so `cittaṃ`,
-`cittassa`, and `dhamme` reach `citta` and `dhamma`. The three-character cap
-exists because a longer strip stops describing an inflection: without it
-`veramaṇī` lands on `vera`, which governs enmity and has nothing to do with
-abstaining. Wrong lemmas still get through occasionally. Treat any single
-folded row as a lead to check, not a fact.
+The fold is a measurement device, not a morphological analyser. It removes one
+whole listed ending — `-smiṃ`, `-ānaṃ`, `-assa` and the rest — then restores
+the stem vowel, so `cittaṃ`, `cittassa`, `rūpasmiṃ`, and `dhamme` reach
+`citta`, `rūpa`, and `dhamma`. A second round may take at most three more
+characters, because past that a fold stops describing an inflection and starts
+finding a different word: `veramaṇī` reaches `vera`, which governs enmity and
+has nothing to do with abstaining, only by taking two bites. Wrong lemmas still
+get through occasionally. Treat any single folded row as a lead to check, not a
+fact.
 
 **How to act on it.** The ranked ungoverned list is a candidate queue with
 evidence attached. A surface near the top appearing across several documents
@@ -108,16 +112,28 @@ three shapes the repository stores review work:
 
 - staged files under `candidates/`
 - term records still marked `draft`
-- translation surfaces in `reviews/newcomer-review-ledger.json` that are not
-  yet `complete`
+- translation surfaces in `reviews/newcomer-review-ledger.json` that have not
+  reached `validated`, the terminal status in that ledger's vocabulary
 
 **Where the dates come from.** There is no timestamp in the term schema, so
 git is the clock: each item is dated from the commit that added it. Ledger
 surfaces use their recorded source-fidelity date where they have one, since
 the ledger does not record when a surface entered the queue.
 
-This is why CI checks out full history. Under a shallow clone git cannot name
-the adding commit, and those items report `unknown` rather than a guess.
+This is why CI checks out full history. A shallow clone does not fail on
+`git log` — it answers from its graft boundary, so anything added before that
+boundary looks like it arrived on the day of the clone. The generator detects
+the boundary and withholds exactly those dates, reporting `unknown` instead of
+a wrong one; dates after the boundary are trustworthy and match what CI sees.
+
+Two workflow notes follow from dating the queue out of git:
+
+- **Commit before regenerating.** A candidate file added in the same change as
+  the regenerated dashboard has no commit to date it yet, so it renders
+  `unknown` locally and a real date in CI, and the freshness check calls the
+  dashboard stale. Commit the queue change first, then regenerate.
+- **Regenerate from a full clone.** From a shallow one, older items report
+  `unknown` and the committed file will not match CI.
 
 **Why the committed file shows dates, not day counts.** The generated Markdown
 is compared byte for byte by `scripts/check_generated_docs.py`. A day count

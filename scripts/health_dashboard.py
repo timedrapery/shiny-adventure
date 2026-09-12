@@ -25,6 +25,7 @@ import re
 import subprocess
 import sys
 from collections import Counter
+from functools import lru_cache
 from datetime import date, datetime
 from pathlib import Path
 
@@ -61,7 +62,10 @@ OUTPUT_DIR = REPO_ROOT / "docs" / "generated"
 # as Pali when it happens to match a term record, would make the coverage
 # number circular.
 BACKTICK_SPAN = re.compile(r"`([^`]+)`")
-PALI_DIACRITIC = re.compile(r"[āīūṁṃṅñṭḍṇḷṛś]")
+# Uppercase forms matter: a sentence-initial `Āsava` or a headword written
+# `Ṭhiti` carries the same diacritic evidence as its lowercase twin, and
+# leaving them out dropped those spans from the corpus entirely.
+PALI_DIACRITIC = re.compile(r"[āīūṁṃṅñṭḍṇḷṛś]", re.IGNORECASE)
 TOKEN_SPLIT = re.compile(r"[^\wÀ-ỿ]+")
 
 # The same declaration shape `repo_health` reads. The left side of a rendering
@@ -97,12 +101,20 @@ INFLECTION_SUFFIXES = (
     "a", "e", "i", "o", "u", "m",
 )
 MIN_FOLD_STEM = 4
-# Case endings are short. A fold that removes more than this stops being an
-# inflection and starts being a different word.
+# One listed ending may always be removed whole, however long it is, because
+# the table only holds real endings -- `-smiṃ`, `-ānaṃ`, `-assa`. The cap
+# applies to what a *second* round may remove on top of the first, where the
+# fold stops describing an inflection and starts finding a different word:
+# `veramaṇī` reaches `vera` only by taking `ani` and then `m`, and `vera`
+# governs enmity.
 MAX_FOLD_STRIP = 3
 
 # Anything shorter is noise once diacritics are stripped.
 MIN_CORPUS_TOKEN = 4
+
+# The newcomer-review ledger's terminal surface status, kept in step with
+# ALLOWED_STATUS in `scripts/check_newcomer_reviews.py`.
+LEDGER_TERMINAL_STATUS = "validated"
 
 STALE_BUCKETS = ((7, "0-7 days"), (30, "8-30 days"), (90, "31-90 days"))
 STALE_OVERFLOW = "over 90 days"
@@ -156,17 +168,17 @@ def fold_candidates(token: str) -> list[str]:
     """
     forms = [token]
     frontier = {token}
-    for _ in range(2):
+    for round_number in range(2):
         nextfrontier: set[str] = set()
         for stem in frontier:
             for suffix in INFLECTION_SUFFIXES:
                 if stem.endswith(suffix) and len(stem) - len(suffix) >= MIN_FOLD_STEM:
                     folded = stem[: -len(suffix)]
-                    # Endings are short. Letting a fold eat more than this
-                    # turns unrelated words into matches: `veramaṇī` loses
-                    # four characters to arrive at the `vera` record, which
-                    # governs enmity and has nothing to do with abstaining.
-                    if len(token) - len(folded) > MAX_FOLD_STRIP:
+                    # The first round may take one whole listed ending. Only
+                    # the second round is capped, so a compound ending like
+                    # `-smiṃ` folds while a two-step slide into a different
+                    # word does not.
+                    if round_number and len(token) - len(folded) > MAX_FOLD_STRIP:
                         continue
                     if folded not in forms and folded not in nextfrontier:
                         nextfrontier.add(folded)
@@ -223,8 +235,21 @@ def pali_tokens(text: str) -> list[str]:
                 continue
             tokens.append(normalized)
     for headword, _rendering in RENDERING_DECLARATION.findall(text):
-        normalized = normalize_term(headword)
-        if len(normalized) >= MIN_CORPUS_TOKEN and normalized not in CORPUS_STOPWORDS:
+        # Only headwords the backtick scan could not see. A declaration is
+        # itself a backticked span, so a diacriticked headword has already
+        # been counted above, and adding it again inflated every occurrence
+        # figure the coverage section reports.
+        if PALI_DIACRITIC.search(headword):
+            continue
+        # Tokenized like any other span: a declaration headword can be a
+        # phrase or carry an ellipsis, and taking it whole turned
+        # `āraddhosmi ... āraddhacittosmi` into one junk surface.
+        for raw in TOKEN_SPLIT.split(headword):
+            normalized = normalize_term(raw)
+            if len(normalized) < MIN_CORPUS_TOKEN or normalized in CORPUS_STOPWORDS:
+                continue
+            if normalized.isdigit():
+                continue
             tokens.append(normalized)
     return tokens
 
@@ -253,8 +278,6 @@ def example_phrase_tokens(terms: dict[str, dict[str, object]]) -> list[str]:
 def collect_coverage(
     terms: dict[str, dict[str, object]],
     translations_dir: Path = TRANSLATIONS_DIR,
-    *,
-    top: int = 25,
 ) -> dict[str, object]:
     """Governed versus ungoverned share of the Pali the corpus actually quotes."""
     index = headword_index(terms)
@@ -306,7 +329,10 @@ def collect_coverage(
         "surface_coverage_pct": round(100 * governed_types / distinct, 1) if distinct else 0.0,
         "occurrence_coverage_pct": round(100 * governed_tokens / total, 1) if total else 0.0,
         "match_routes": dict(sorted(by_route.items())),
-        "top_ungoverned": ungoverned[:top],
+        # The full list, not a preview. Truncation happens in the renderers,
+        # so the JSON a drill-down view reads never needs a second pass over
+        # the corpus to see the tail.
+        "top_ungoverned": ungoverned,
         "ungoverned_total": len(ungoverned),
     }
 
@@ -347,13 +373,54 @@ def collect_drift(
     }
 
 
+def git_output(args: list[str], repo_root: Path) -> str | None:
+    try:
+        result = subprocess.run(
+            ["git", *args],
+            cwd=repo_root,
+            capture_output=True,
+            text=True,
+            check=False,
+        )
+    except OSError:
+        return None
+    return result.stdout if result.returncode == 0 else None
+
+
+@lru_cache(maxsize=None)
+def shallow_boundary_date(repo_root: Path = REPO_ROOT) -> str | None:
+    """The date of the oldest commit a shallow clone can see, if it is shallow.
+
+    A shallow clone does not fail on `git log` — it answers from its graft
+    boundary. Anything genuinely added before that boundary is reported as
+    having been added *on* it, which is a wrong date wearing the costume of a
+    right one. Knowing the boundary lets `git_first_seen` withhold exactly
+    those answers and keep the rest, which matters because this repository is
+    routinely worked on from shallow clones while CI checks out full history.
+
+    Returns None for a complete clone, where every date is trustworthy.
+    """
+    shallow = git_output(["rev-parse", "--is-shallow-repository"], repo_root)
+    if shallow is None or shallow.strip() != "true":
+        return None
+    # Not `--reverse --max-count=1`: git applies the count before reversing,
+    # so that pair returns the newest commit, which would mark every date in
+    # the repository as untrustworthy.
+    log = git_output(["log", "--format=%ad", "--date=short"], repo_root)
+    if not log:
+        return None
+    dates = [line.strip() for line in log.splitlines() if line.strip()]
+    return dates[-1] if dates else None
+
+
 def git_first_seen(path: Path, repo_root: Path = REPO_ROOT) -> str | None:
     """The author date of the commit that added `path`, as an ISO date.
 
-    Returns None when git cannot answer — an untracked file, or a shallow
-    clone with the adding commit truncated away. Callers render that as
-    `unknown` rather than guessing, and CI checks out full history so the
-    committed dashboard stays reproducible.
+    Returns None when git cannot answer: an untracked file, no git at all, or
+    a date that sits on a shallow clone's graft boundary and therefore cannot
+    be distinguished from an older one. Callers render that as `unknown`
+    rather than guessing, and both workflows check out full history so CI
+    reports the real dates.
     """
     try:
         result = subprocess.run(
@@ -377,7 +444,14 @@ def git_first_seen(path: Path, repo_root: Path = REPO_ROOT) -> str | None:
     if result.returncode != 0:
         return None
     lines = [line.strip() for line in result.stdout.splitlines() if line.strip()]
-    return lines[-1] if lines else None
+    if not lines:
+        return None
+    first_seen = lines[-1]
+    boundary = shallow_boundary_date(repo_root)
+    if boundary is not None and first_seen <= boundary:
+        # Indistinguishable from an older date that was truncated away.
+        return None
+    return first_seen
 
 
 def collect_review_queue(
@@ -427,7 +501,14 @@ def collect_review_queue(
         ledger_opened = git_first_seen(ledger_path, repo_root)
         if isinstance(surfaces, dict):
             for surface_key, surface in sorted(surfaces.items()):
-                if not isinstance(surface, dict) or surface.get("status") == "complete":
+                if not isinstance(surface, dict):
+                    continue
+                # `validated` is the terminal state in the ledger's own
+                # vocabulary (`scripts/check_newcomer_reviews.py` allows
+                # recruiting, in-review, ready, validated). `complete` belongs
+                # to the sub-steps, not the surface, so testing for it here
+                # excluded nothing and left finished surfaces in the queue.
+                if surface.get("status") == LEDGER_TERMINAL_STATUS:
                     continue
                 # The ledger records when source fidelity was signed off but
                 # not when the surface entered the queue, so the fidelity date
@@ -540,7 +621,6 @@ def build_report(
     *,
     translations_dir: Path = TRANSLATIONS_DIR,
     history_path: Path = HISTORY_PATH,
-    top: int = 25,
 ) -> dict[str, object]:
     """The whole dashboard as data.
 
@@ -550,7 +630,7 @@ def build_report(
     second pass over the corpus.
     """
     return {
-        "coverage": collect_coverage(terms, translations_dir, top=top),
+        "coverage": collect_coverage(terms, translations_dir),
         "drift": collect_drift(terms, translations_dir),
         "review_queue": collect_review_queue(terms),
         "check_failures": collect_check_failures(history_path),
@@ -786,7 +866,7 @@ def main() -> int:
             print(f"Wrote {path.relative_to(REPO_ROOT).as_posix()}")
         return 0
 
-    report = build_report(terms, top=max(args.top, 25))
+    report = build_report(terms)
     report["review_queue_aged"] = bucket_review_queue(report["review_queue"], as_of)
 
     if args.format == "json":

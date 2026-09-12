@@ -135,7 +135,10 @@ class ReviewQueueTests(unittest.TestCase):
                 json.dumps(
                     {
                         "surfaces": {
-                            "done": {"status": "complete"},
+                            # `validated` is the ledger's terminal status;
+                            # `complete` belongs to the sub-steps and is not a
+                            # legal surface status at all.
+                            "done": {"status": "validated"},
                             "waiting": {
                                 "status": "recruiting",
                                 "source_fidelity": {"completed_on": "2026-01-02"},
@@ -262,6 +265,118 @@ class RenderTests(unittest.TestCase):
         # `scripts/check_generated_docs.py` reaches for exactly these three.
         for attribute in ("OUTPUT_DIR", "load_terms", "write_outputs"):
             self.assertTrue(hasattr(health_dashboard, attribute), attribute)
+
+
+class RegressionTests(unittest.TestCase):
+    """Cases that shipped broken in the first cut of this dashboard."""
+
+    def test_finished_ledger_surfaces_use_the_ledger_vocabulary(self) -> None:
+        # `scripts/check_newcomer_reviews.py` allows recruiting, in-review,
+        # ready, validated. Testing for `complete` excluded nothing.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            reviews = Path(tmpdir)
+            (reviews / "newcomer-review-ledger.json").write_text(
+                json.dumps(
+                    {
+                        "surfaces": {
+                            "finished": {"status": "validated"},
+                            "open": {"status": "ready"},
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+            queue = health_dashboard.collect_review_queue(
+                {},
+                candidates_dir=Path("does-not-exist"),
+                reviews_dir=reviews,
+            )
+
+        self.assertEqual([row["id"] for row in queue["items"]], ["open"])
+
+    def test_a_declaration_does_not_count_its_headword_twice(self) -> None:
+        # The declaration is itself a backticked span, so a diacriticked
+        # headword was counted by both scans and inflated every occurrence.
+        self.assertEqual(
+            health_dashboard.pali_tokens("`dukkhā` is rendered `suffering`"),
+            ["dukkha"],
+        )
+
+    def test_an_ascii_declaration_headword_is_still_collected(self) -> None:
+        self.assertEqual(
+            health_dashboard.pali_tokens("`dukkha` is rendered `suffering`"),
+            ["dukkha"],
+        )
+
+    def test_declaration_headwords_are_tokenized(self) -> None:
+        # Taken whole, `araddhosmi ... araddhacittosmi` became one junk surface.
+        self.assertEqual(
+            health_dashboard.pali_tokens("`araddhosmi ... araddhacittosmi` is rendered `x`"),
+            ["araddhosmi", "araddhacittosmi"],
+        )
+
+    def test_uppercase_diacritics_are_recognized_as_pali(self) -> None:
+        self.assertEqual(health_dashboard.pali_tokens("`Āsava` here"), ["asava"])
+
+    def test_a_four_character_ending_still_folds(self) -> None:
+        # The strip cap made `smim`, `anam` and `assa` unreachable, so the
+        # locative never folded at all.
+        index = health_dashboard.headword_index({"rupa": make_record("rupa")})
+        self.assertEqual(
+            health_dashboard.resolve_token("rupasmim", index), ("rupa", "inflected")
+        )
+
+    def test_the_report_carries_every_ungoverned_row(self) -> None:
+        # The JSON promised full detail lists but shipped a 25-row preview.
+        terms = {"citta": make_record("citta")}
+        with tempfile.TemporaryDirectory() as tmpdir:
+            translations = Path(tmpdir)
+            surfaces = " ".join(f"`ungoverned{n}ṃ`" for n in range(30))
+            (translations / "one-notes.md").write_text(surfaces, encoding="utf-8")
+            coverage = health_dashboard.collect_coverage(terms, translations)
+
+        self.assertEqual(len(coverage["top_ungoverned"]), coverage["ungoverned_total"])
+        self.assertGreater(coverage["ungoverned_total"], 25)
+
+    def test_a_partial_replay_keeps_the_weeks_it_did_not_measure(self) -> None:
+        # `--limit` rewrote the file with only the weeks it looked at.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "check-history.jsonl"
+            path.write_text(
+                json.dumps({"week": "2026-W01", "schema_failures": 0, "lint_failures": 0}) + "\n",
+                encoding="utf-8",
+            )
+            backfill_check_history.write_history(
+                [{"week": "2026-W02", "schema_failures": 1, "lint_failures": 0}], path
+            )
+            weeks = [json.loads(line)["week"] for line in path.read_text().splitlines()]
+
+        self.assertEqual(weeks, ["2026-W01", "2026-W02"])
+
+    def test_a_rewritten_week_wins_over_the_stored_one(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "check-history.jsonl"
+            path.write_text(
+                json.dumps({"week": "2026-W01", "schema_failures": 9, "lint_failures": 0}) + "\n",
+                encoding="utf-8",
+            )
+            backfill_check_history.write_history(
+                [{"week": "2026-W01", "schema_failures": 0, "lint_failures": 0}], path
+            )
+            rows = [json.loads(line) for line in path.read_text().splitlines()]
+
+        self.assertEqual(rows, [{"week": "2026-W01", "schema_failures": 0, "lint_failures": 0}])
+
+    def test_an_output_path_outside_the_repository_is_displayable(self) -> None:
+        # `relative_to` raised only after the multi-minute replay had run.
+        self.assertEqual(
+            backfill_check_history.display_path(Path("/tmp/elsewhere.jsonl")),
+            "/tmp/elsewhere.jsonl",
+        )
+
+    def test_a_missing_dependency_is_not_recorded_as_a_finding(self) -> None:
+        self.assertTrue(backfill_check_history.is_environment_failure("Missing dependency: jsonschema"))
+        self.assertFalse(backfill_check_history.is_environment_failure("- Rule violated: x"))
 
 
 if __name__ == "__main__":

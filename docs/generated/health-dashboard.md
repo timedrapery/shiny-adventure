@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2195 |
-| Governed surfaces | 841 |
-| Ungoverned surfaces | 1354 |
-| Coverage by surface | 38.3% |
-| Coverage by occurrence | 61.8% |
+| Distinct surfaces | 2095 |
+| Governed surfaces | 825 |
+| Ungoverned surfaces | 1270 |
+| Coverage by surface | 39.4% |
+| Coverage by occurrence | 60.2% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 64 |
-| `exact` | 403 |
-| `inflected` | 374 |
-| `none` | 1354 |
+| `exact` | 385 |
+| `inflected` | 376 |
+| `none` | 1270 |
 
-### Ungoverned surfaces by frequency (1354 total)
+### Ungoverned surfaces by frequency (1270 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -53,12 +53,12 @@ single row as a lead rather than a fact.
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
 | `panca` | 9 | an4-5-anusota-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
 | `ponobbhavika` | 9 | mn36-mahasaccaka-sutta-notes.md, sn56-11-dhammacakkappavattana-sutta-notes.md, terms/ |
+| `satova` | 9 | mn118-anapanasati-sutta-notes.md, terms/ |
 | `adinavanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `assadanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `nesohamasmi` | 8 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn22-59-anattalakkhana-sutta-notes.md, terms/ |
 | `nissarananca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `upasampajja` | 8 | mn26-pasarasi-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
-| `anupadaya` | 7 | sn22-59-anattalakkhana-sutta-notes.md, sn22-89-khemaka-sutta-notes.md, sn22-89-khemaka-sutta.md, sn35-28-aditta-sutta-notes.md |
 | `anupadisesa` | 7 | iti44-nibbanadhatu-sutta-notes.md, iti44-nibbanadhatu-sutta.md, terms/ |
 | `apajjati` | 7 | an3-88-tatiyasikkha-sutta-notes.md, an4-113-patoda-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `asmiti` | 7 | terms/ |
@@ -67,7 +67,7 @@ single row as a lead rather than a fact.
 | `kayanupassi` | 7 | terms/ |
 | `kaye` | 7 | terms/ |
 | `loko` | 7 | an2-9-cariya-sutta-notes.md, mn63-culamalukya-sutta-notes.md, terms/ |
-| `manosancetana` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-11-ahara-sutta-notes.md, terms/ |
+| `nirujjhati` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
 
 ## Drift
 
@@ -138,4 +138,4 @@ several commits is counted once.
 | 2026-W17 | 6 | 0 | 0 | 0 |
 | 2026-W34 | 35 | 0 | 0 | 0 |
 | 2026-W35 | 20 | 0 | 0 | 0 |
-| 2026-W37 | 2 | 0 | 0 | 0 |
+| 2026-W37 | 3 | 0 | 0 | 0 |
