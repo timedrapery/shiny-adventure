@@ -8,9 +8,9 @@
 | Support | saṅkhārā | putting things together | what has been put together, what is put together, conditioned thing, construction, fabrication, putting-together activities | choices, volitional formations |
 | Support | saṅkhata | conditioned | constructed | created |
 | Support | dhamma | dhamma | teaching, phenomenon, quality, nature, law, duty, fruit, ideas | thing |
-| Practice | anicca-sanna | perception of impermanence | impermanence perception | temporary perception |
-| Practice | dukkha-sanna | perception of dissatisfaction | perception of unsatisfactoriness | perception of suffering |
-| Practice | anatta-sanna | perception of not-self | not-self perception | no-self perception |
+| Practice | anicca-sanna | recognition of impermanence | impermanence recognition | perception of impermanence, temporary perception |
+| Practice | dukkha-sanna | recognition of dissatisfaction | recognition of unsatisfactoriness | perception of dissatisfaction, perception of suffering |
+| Practice | anatta-sanna | recognition of not-self | not-self recognition | perception of not-self, no-self perception |
 | Practice | aniccānupassanā | contemplation of impermanence | observing impermanence | thinking about change |
 | Practice | dukkhānupassanā | contemplation of dissatisfaction | observing dissatisfaction | contemplation of suffering |
 | Practice | anattānupassanā | contemplation of not-self | observing not-self | contemplation of no-self |

@@ -21,7 +21,7 @@
   "translation_policy": {
     "default_scope": "Use in first-jhana formula contexts for the rejoicing-and-satisfaction pair born of seclusion, following the pīti and sukha records' own jhāna-formula rules.",
     "when_not_to_apply": "Do not collapse pīti and sukha into one feeling-word or detach the phrase from the hindrance-clearing frame of the first mental theme. Retain the Pali only where the formula itself is under technical discussion.",
-    "compound_inheritance": "blocked",
+    "compound_inheritance": "inherit",
     "drift_risk": "Prevents the phrase from losing its first-jhana, hindrance-clearing force or from drifting into generic meditation language."
   },
   "status": "reviewed",

@@ -3,16 +3,17 @@
   "normalized_term": "dukkha-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "perception of dissatisfaction",
-  "preferred_translation": "perception of dissatisfaction",
+  "literal_meaning": "recognition of dissatisfaction",
+  "preferred_translation": "recognition of dissatisfaction",
   "alternative_translations": [
-    "perception of unsatisfactoriness"
+    "recognition of unsatisfactoriness"
   ],
   "discouraged_translations": [
+    "perception of dissatisfaction",
     "perception of suffering"
   ],
-  "definition": "A cultivated perception that keeps the unsatisfactory side of conditioned experience in view.",
-  "notes": "Use this record for the three-marks practice family when the dukkha-side perception is being cultivated explicitly. In AN 10.60 the perception appears in the more relational form anicce dukkhasaññā, so this entry should be heard as the governed family label for that practice rather than as permission to flatten dukkha back into suffering-language.",
+  "definition": "A cultivated recognition that keeps the unsatisfactory side of conditioned experience in view.",
+  "notes": "Use this record for the three-marks practice family when the dukkha-side recognition is being cultivated explicitly. In AN 10.60 the recognition appears in the more relational form anicce dukkhasaññā, so this entry should be heard as the governed family label for that practice rather than as permission to flatten dukkha back into suffering-language. The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas sanna is the act of knowing the thing again -- re-cognizing it -- which is what this practice trains.",
   "related_terms": [
     "dukkha",
     "dukkhanupassana",
@@ -24,7 +25,7 @@
   "example_phrases": [
     {
       "pali": "anicce dukkhasaññā",
-      "translation": "perception of dissatisfaction in the impermanent",
+      "translation": "recognition of dissatisfaction in the impermanent",
       "notes": "Canonical perception formula linking impermanence and dissatisfaction.",
       "source": "AN 10.60"
     }

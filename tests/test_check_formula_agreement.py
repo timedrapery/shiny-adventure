@@ -60,7 +60,10 @@ class DisagreementTests(unittest.TestCase):
         exceptions = {
             check.normalize_pali("vivekajaṃ pītisukhaṃ"): {
                 "pali": "vivekajaṃ pītisukhaṃ",
-                "records": ["piti", "sukha"],
+                "renderings": {
+                    "piti": "rejoicing and satisfaction born of seclusion",
+                    "sukha": "Delight and satisfaction born of seclusion",
+                },
                 "rationale": "sukha quotes the formula under its own contrast rule",
             }
         }
@@ -80,7 +83,10 @@ class DisagreementTests(unittest.TestCase):
         exceptions = {
             check.normalize_pali("vivekajaṃ pītisukhaṃ"): {
                 "pali": "vivekajaṃ pītisukhaṃ",
-                "records": ["piti", "sukha"],
+                "renderings": {
+                    "piti": "rejoicing and satisfaction born of seclusion",
+                    "sukha": "delight and satisfaction born of seclusion",
+                },
                 "rationale": "scoped to two records",
             }
         }
@@ -88,27 +94,131 @@ class DisagreementTests(unittest.TestCase):
         self.assertEqual(waived, [])
         self.assertEqual(unexplained[0]["exception_gap"], ["jhana"])
 
+    def test_an_exception_lapses_when_a_named_record_changes_its_english(self) -> None:
+        # The waiver pinned specific English. A named record drifting to a
+        # third rendering is a new decision nobody made, so it is reported.
+        terms = {
+            "piti": record("piti", ("vivekajaṃ pītisukhaṃ", "rejoicing and satisfaction born of seclusion")),
+            "sukha": record("sukha", ("vivekajaṃ pītisukhaṃ", "something else entirely")),
+        }
+        exceptions = {
+            check.normalize_pali("vivekajaṃ pītisukhaṃ"): {
+                "pali": "vivekajaṃ pītisukhaṃ",
+                "renderings": {
+                    "piti": "rejoicing and satisfaction born of seclusion",
+                    "sukha": "delight and satisfaction born of seclusion",
+                },
+                "rationale": "pinned",
+            }
+        }
+        unexplained, waived = check.collect_disagreements(terms, exceptions)
+        self.assertEqual(waived, [])
+        self.assertEqual(unexplained[0]["exception_gap"], ["sukha"])
+
+
+class BaselineTests(unittest.TestCase):
+    def finding(self, pali: str, *pairs: tuple[str, str]) -> dict[str, object]:
+        return {"pali": pali, "records": sorted(k for k, _t in pairs), "renderings": sorted(pairs)}
+
+    def test_a_known_group_with_unchanged_variants_is_not_a_regression(self) -> None:
+        f = self.finding("x y", ("a", "one"), ("b", "two"))
+        baseline = {check.normalize_pali("x y"): check.variant_key(f)}
+        regressions, stale = check.compare_to_baseline([f], baseline)
+        self.assertEqual((regressions, stale), ([], []))
+
+    def test_a_group_not_in_the_baseline_is_a_regression(self) -> None:
+        f = self.finding("x y", ("a", "one"), ("b", "two"))
+        regressions, _stale = check.compare_to_baseline([f], {})
+        self.assertEqual(regressions, [f])
+
+    def test_a_known_group_with_changed_variants_is_a_regression(self) -> None:
+        # Fixing one group must not pay for breaking another: the variants
+        # are compared, not the count.
+        old = self.finding("x y", ("a", "one"), ("b", "two"))
+        new = self.finding("x y", ("a", "one"), ("b", "three"))
+        baseline = {check.normalize_pali("x y"): check.variant_key(old)}
+        regressions, _stale = check.compare_to_baseline([new], baseline)
+        self.assertEqual(regressions, [new])
+
+    def test_a_resolved_group_still_in_the_baseline_is_stale(self) -> None:
+        baseline = {check.normalize_pali("x y"): ["a\tone", "b\ttwo"]}
+        regressions, stale = check.compare_to_baseline([], baseline)
+        self.assertEqual(regressions, [])
+        self.assertEqual(stale, [check.normalize_pali("x y")])
+
+    def test_baseline_round_trips_through_the_file(self) -> None:
+        f = self.finding("Vivekajaṁ pītisukhaṁ", ("a", "One"), ("b", "two"))
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "formula-baseline.json"
+            check.write_baseline([f], path)
+            loaded = check.load_baseline(path)
+        self.assertEqual(loaded, {check.normalize_pali("vivekajaṃ pītisukhaṃ"): check.variant_key(f)})
+
 
 class ExceptionFileTests(unittest.TestCase):
     def test_missing_file_means_no_exceptions(self) -> None:
         self.assertEqual(check.load_exceptions(Path("does-not-exist.json")), {})
 
+    def write(self, tmpdir: str, entries: list[dict[str, object]]) -> Path:
+        path = Path(tmpdir) / "formula-exceptions.json"
+        path.write_text(json.dumps({"exceptions": entries}), encoding="utf-8")
+        return path
+
     def test_an_exception_without_a_rationale_is_rejected(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
-            path = Path(tmpdir) / "formula-exceptions.json"
-            path.write_text(json.dumps({"exceptions": [{"pali": "x y", "records": ["a"]}]}), encoding="utf-8")
+            path = self.write(tmpdir, [{"pali": "x y", "renderings": {"a": "one"}}])
+            with self.assertRaises(ValueError):
+                check.load_exceptions(path)
+
+    def test_an_exception_without_renderings_is_rejected(self) -> None:
+        # A rationale alone waived the whole disagreement for every record,
+        # present and future. The approved English is the scope.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            for bad in ({"pali": "x y", "rationale": "why"}, {"pali": "x y", "rationale": "why", "renderings": {}}):
+                path = self.write(tmpdir, [bad])
+                with self.assertRaises(ValueError):
+                    check.load_exceptions(path)
+
+    def test_duplicate_entries_for_one_phrase_are_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.write(
+                tmpdir,
+                [
+                    {"pali": "x y", "rationale": "first", "renderings": {"a": "one"}},
+                    {"pali": "X Y.", "rationale": "second", "renderings": {"a": "one"}},
+                ],
+            )
             with self.assertRaises(ValueError):
                 check.load_exceptions(path)
 
     def test_exceptions_are_keyed_by_normalized_pali(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
-            path = Path(tmpdir) / "formula-exceptions.json"
-            path.write_text(
-                json.dumps({"exceptions": [{"pali": "Vivekajaṁ pītisukhaṁ", "rationale": "why"}]}),
-                encoding="utf-8",
+            path = self.write(
+                tmpdir,
+                [{"pali": "Vivekajaṁ pītisukhaṁ", "rationale": "why", "renderings": {"piti": "x"}}],
             )
             loaded = check.load_exceptions(path)
         self.assertIn(check.normalize_pali("vivekajaṃ pītisukhaṃ"), loaded)
+
+
+class JsonOutputTests(unittest.TestCase):
+    def test_json_mode_emits_one_parseable_document(self) -> None:
+        # The regression and stale-baseline summaries were printed after the
+        # JSON document, so the output no parser would accept -- found when a
+        # `--json | python -m json.tool` pipeline choked on it.
+        import io
+        import subprocess
+        import sys
+
+        result = subprocess.run(
+            [sys.executable, "scripts/check_formula_agreement.py", "--json"],
+            cwd=Path(__file__).resolve().parent.parent,
+            capture_output=True,
+            text=True,
+        )
+        payload = json.loads(result.stdout)
+        for key in ("unexplained", "waived", "regressions", "stale_baseline"):
+            self.assertIn(key, payload)
 
 
 if __name__ == "__main__":
