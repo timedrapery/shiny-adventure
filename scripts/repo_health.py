@@ -409,19 +409,56 @@ def canonical_rendering(value: str) -> str:
     return re.sub(r"\s+", " ", value).strip().rstrip(".").casefold()
 
 
+def headword_keys(terms: dict[str, dict[str, object]]) -> set[str]:
+    """Every normalized form under which a record can be named."""
+    keys: set[str] = set()
+    for key, data in terms.items():
+        for form in (key, normalize_term(str(data.get("term", "")))):
+            if form:
+                keys.add(form)
+                keys.add(form.replace("_", ""))
+    return keys
+
+
+def is_term_link(headword: str, rendering: str, keys: set[str]) -> bool:
+    """Whether an arrow joins two different governed headwords.
+
+    SN 12.20's notes write the dependent-arising chain as `avijjā` →
+    `saṅkhārā`. That is a link between two terms, not a claim that one
+    renders the other, and reading it as a declaration reported drift
+    against words that were never mistranslated. The test is structural —
+    does the right side name a different record? — rather than orthographic,
+    because English renderings quote Pali freely (`nibbāna element`, `friend
+    Visākha`) and a diacritic test threw those away with the links.
+    """
+    left = normalize_term(headword)
+    right = normalize_term(rendering)
+    if not right or right == left:
+        return False  # `gandhabba` → `gandhabba` is an untranslated rendering
+    return right in keys or right.replace("_", "") in keys
+
+
 def load_translation_declarations(
     translations_dir: Path = TRANSLATIONS_DIR,
+    terms: dict[str, dict[str, object]] | None = None,
 ) -> dict[str, list[tuple[str, str]]]:
-    """Map each translation document to the renderings it declares."""
+    """Map each translation document to the renderings it declares.
+
+    `terms` lets the loader tell a rendering from a link between two
+    headwords; when omitted the lexicon is read from disk.
+    """
     declarations: dict[str, list[tuple[str, str]]] = {}
     if not translations_dir.exists():
         return declarations
+    keys = headword_keys(terms if terms is not None else load_terms())
     for path in sorted(translations_dir.glob("*.md")):
         found: list[tuple[str, str]] = []
         text = path.read_text(encoding="utf-8")
         for match in RENDERING_DECLARATION.finditer(text):
             headword = re.sub(r"\s+", " ", match.group(1)).strip()
             rendering = re.sub(r"\s+", " ", match.group(2)).strip()
+            if is_term_link(headword, rendering, keys):
+                continue
             if headword and rendering:
                 found.append((headword, rendering))
         if found:
