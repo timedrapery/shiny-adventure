@@ -10,8 +10,10 @@ from pathlib import Path
 from typing import Any
 
 try:
+    from scripts.check_readability_reviews import translation_body_sha256
     from scripts.surface_registry import TRANSLATION_SURFACES
 except ModuleNotFoundError:
+    from check_readability_reviews import translation_body_sha256  # type: ignore[no-redef]
     from surface_registry import TRANSLATION_SURFACES  # type: ignore[no-redef]
 
 
@@ -19,6 +21,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 LEDGER = REPO_ROOT / "reviews" / "newcomer-review-ledger.json"
 ALLOWED_STATUS = {"recruiting", "in-review", "ready", "validated"}
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+SHA256 = re.compile(r"^[0-9a-f]{64}$")
 
 
 def _nonempty(value: object) -> bool:
@@ -30,6 +33,17 @@ def load_ledger(path: Path = LEDGER) -> dict[str, Any]:
     if not isinstance(data, dict):
         raise ValueError("ledger must be a JSON object")
     return data
+
+
+def current_body_hash(surface: Any, repo_root: Path) -> str | None:
+    """The hash of the body a reader would be given today, or None if unreadable."""
+    main_path = repo_root / surface.main_relpath
+    if not main_path.is_file():
+        return None
+    try:
+        return translation_body_sha256(main_path)
+    except (OSError, ValueError):
+        return None
 
 
 def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
@@ -78,6 +92,12 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
             if not _nonempty(fidelity.get("completed_on")) or not DATE.match(str(fidelity.get("completed_on"))):
                 failures.append(f"{key}: source-fidelity completion date is invalid")
 
+        # Human evidence is evidence about a *particular text*. The body it
+        # was gathered against is recorded with it, so an edit to the
+        # translation cannot silently inherit approval from readers who never
+        # saw it. Stale evidence is kept as history and simply stops counting.
+        body_hash = current_body_hash(by_key[key], repo_root)
+
         read_aloud = record.get("human_read_aloud")
         if not isinstance(read_aloud, dict) or read_aloud.get("status") not in {"pending", "complete"}:
             failures.append(f"{key}: human_read_aloud needs pending/complete status")
@@ -90,6 +110,16 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
             read_aloud_complete = read_aloud.get("status") == "complete"
             if read_aloud_complete and not reviewers:
                 failures.append(f"{key}: completed read-aloud gate needs evidence")
+            if read_aloud_complete:
+                recorded = read_aloud.get("body_sha256")
+                if not _nonempty(recorded) or not SHA256.match(str(recorded)):
+                    failures.append(f"{key}: completed read-aloud needs the body_sha256 it reviewed")
+                    read_aloud_complete = False
+                elif body_hash is not None and recorded != body_hash:
+                    failures.append(
+                        f"{key}: read-aloud evidence is for an older body; re-review or reopen the gate"
+                    )
+                    read_aloud_complete = False
 
         reviews = record.get("newcomer_reviews")
         if not isinstance(reviews, list):
@@ -97,6 +127,7 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
             reviews = []
         participants: set[str] = set()
         independent_passes = 0
+        current_reviews = 0
         for index, review in enumerate(reviews, start=1):
             label = f"{key} review {index}"
             if not isinstance(review, dict):
@@ -116,10 +147,22 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
                 failures.append(f"{label}: reviewed_on must be YYYY-MM-DD")
             if not isinstance(review.get("independent"), bool) or not isinstance(review.get("pass"), bool):
                 failures.append(f"{label}: independent and pass must be booleans")
+
+            # Which body this reader actually read. Recording it is required;
+            # matching today's body is what makes the review count. A review
+            # of an earlier draft stays in the file as history and simply
+            # stops paying toward the threshold.
+            recorded = review.get("body_sha256")
+            if not _nonempty(recorded) or not SHA256.match(str(recorded)):
+                failures.append(f"{label}: body_sha256 of the reviewed text is required")
+                continue
+            if body_hash is None or recorded != body_hash:
+                continue
+            current_reviews += 1
             if review.get("independent") is True and review.get("pass") is True:
                 independent_passes += 1
 
-        enough_reviews = isinstance(required, int) and len(reviews) >= required
+        enough_reviews = isinstance(required, int) and current_reviews >= required
         enough_passes = isinstance(passes_required, int) and independent_passes >= passes_required
         ready = fidelity.get("status") == "complete" and read_aloud_complete and enough_reviews and enough_passes
         registry_status = by_key[key].readability_review.status if by_key[key].readability_review else "unreviewed"
@@ -129,6 +172,19 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
             failures.append(f"{key}: registry says validated without completed ledger evidence")
         if status == "validated" and registry_status != "validated":
             failures.append(f"{key}: ledger says validated but registry does not")
+
+    # Enforcement used to iterate the cohort alone, so a surface promoted to
+    # `validated` in the registry but never added to the cohort escaped the
+    # evidence requirement entirely -- the one way to claim validation
+    # without any. The registry is where promotion is recorded, so the
+    # registry decides who owes evidence, not the list the ledger happens
+    # to name.
+    for surface in TRANSLATION_SURFACES:
+        review = surface.readability_review
+        if review is not None and review.status == "validated" and surface.key not in surfaces:
+            failures.append(
+                f"{surface.key}: registry says validated but the ledger has no record for it"
+            )
     return failures
 
 

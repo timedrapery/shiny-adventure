@@ -273,9 +273,41 @@ class SeparateMeasuresTests(unittest.TestCase):
                 "source_fidelity_complete": 2,
                 "read_aloud_complete": 1,
                 "newcomer_reviews_recorded": 3,
+                "newcomer_reviews_counting": 0,
                 "surfaces_validated": 1,
             },
         )
+
+    def test_only_reviews_of_the_current_body_count(self) -> None:
+        # Recorded and counting are different numbers. Two readers reviewed an
+        # earlier draft; reporting all three as progress would claim credit the
+        # gate does not give.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            reviews = Path(tmpdir)
+            (reviews / "newcomer-review-ledger.json").write_text(
+                json.dumps(
+                    {
+                        "surfaces": {
+                            "a": {
+                                "status": "in-review",
+                                "source_fidelity": {"status": "complete"},
+                                "human_read_aloud": {"status": "pending"},
+                                "newcomer_reviews": [
+                                    {"body_sha256": "a" * 64},
+                                    {"body_sha256": "b" * 64},
+                                    {"body_sha256": "b" * 64},
+                                ],
+                            }
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+            evidence = health_dashboard.collect_human_evidence(
+                reviews, current_hash=lambda key: "a" * 64
+            )
+        self.assertEqual(evidence["newcomer_reviews_recorded"], 3)
+        self.assertEqual(evidence["newcomer_reviews_counting"], 1)
 
     def test_missing_ledger_reports_zeros_not_an_error(self) -> None:
         evidence = health_dashboard.collect_human_evidence(Path("does-not-exist"))

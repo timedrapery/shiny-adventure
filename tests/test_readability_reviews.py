@@ -27,7 +27,12 @@ class CurrentReadabilityReviewTests(unittest.TestCase):
     def test_current_reviews_validate(self) -> None:
         self.assertEqual(readability_reviews.collect_failures(), [])
 
-    def test_every_surface_has_current_provisional_metadata(self) -> None:
+    def test_every_surface_has_current_review_metadata(self) -> None:
+        # Deliberately not `assertEqual(status, "provisional")`. That pinned
+        # the repository at the state it happened to be in, so the first
+        # genuinely validated surface would have failed CI -- the evidence
+        # work had nowhere to land. The status must be a legal one; whether
+        # it is earned is the ledger's question, not this test's.
         self.assertTrue(readability_reviews.TRANSLATION_SURFACES)
 
         for surface in readability_reviews.TRANSLATION_SURFACES:
@@ -37,7 +42,7 @@ class CurrentReadabilityReviewTests(unittest.TestCase):
                 assert review is not None
 
                 self.assertEqual(review.standard, readability_reviews.STANDARD)
-                self.assertEqual(review.status, "provisional")
+                self.assertIn(review.status, readability_reviews.REVIEW_STATUSES)
                 self.assertTrue(readability_reviews.is_iso_date(review.reviewed_on))
                 self.assertEqual(
                     review.body_sha256,
