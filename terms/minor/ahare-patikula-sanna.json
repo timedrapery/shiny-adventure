@@ -3,12 +3,16 @@
   "normalized_term": "ahare-patikula-sanna",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "perception of the repulsiveness of food",
-  "definition": "A specific perception cultivated for insight and release.",
+  "preferred_translation": "recognition of the repulsiveness of food",
+  "definition": "A specific recognition cultivated for insight and release.",
   "status": "reviewed",
-  "literal_meaning": "perception of the repulsiveness of food",
+  "literal_meaning": "recognition of the repulsiveness of food",
   "tags": [
     "meditative-development",
     "liberation"
-  ]
+  ],
+  "discouraged_translations": [
+    "perception of the repulsiveness of food"
+  ],
+  "notes": "The English follows the sanna record's default: recognition, not perception. Perception is discouraged here because readers take a perception to be a thing in its own right, something held and lasting, whereas sanna is the act of knowing the thing again -- re-cognizing it -- which is what this practice trains."
 }

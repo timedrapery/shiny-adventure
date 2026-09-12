@@ -301,13 +301,15 @@ def main() -> int:
 
     # The backlog is advisory; a change to it is not. A new disagreement, a
     # changed one, or a resolved one still listed in the baseline all fail,
-    # so the repairs already made stay made.
-    if regressions:
+    # so the repairs already made stay made. In JSON mode the machine-readable
+    # document is the whole output: appending this summary to it produced a
+    # file that no JSON parser would accept.
+    if regressions and not args.json:
         print(f"\nNew or changed disagreements not in the baseline ({len(regressions)}):")
         for finding in regressions:
             print(f"- {safe_text(finding['pali'])}")
         print("Reconcile the records, add a scoped exception, or acknowledge with --update-baseline.")
-    if stale:
+    if stale and not args.json:
         print(f"\nBaseline entries no longer in disagreement ({len(stale)}); run --update-baseline to drop them:")
         for key in stale:
             print(f"- {safe_text(key)}")
