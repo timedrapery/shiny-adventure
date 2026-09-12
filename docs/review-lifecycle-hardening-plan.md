@@ -43,13 +43,24 @@ sign-off stays `complete` across later edits to the translation.
 counting when the body changes.
 
 **Migration, without fabricating anything.** For each of the twelve existing
-sign-offs, compare the translation body at the recorded completion date with
-the body today, using git rather than assumption. Eleven are byte-identical, so
-binding the current hash records a fact already in the history. MN 19's body
-changed after its sign-off: that record becomes `pending` with its original
-date and evidence preserved as history, and it needs a real reassessment. No
-approval, reviewer, date, or source check is invented, and no sign-off is
-carried forward on the strength of wanting it to hold.
+sign-offs, ask git when the translation body last changed, and compare that
+with the recorded completion date.
+
+- Five surfaces (AN 3.65, SN 56.11, SN 36.6, MN 63, SN 22.59) last changed
+  *before* their sign-off date. The sign-off was therefore made against the
+  text published today, and binding the hash records a fact from the history.
+- The other seven were edited on the same day they were signed off. Git dates
+  are day-granular and the sign-off records no time, so whether the review came
+  before or after that day's edit cannot be established from the repository.
+  Those gates reopen as `pending`, with the original date, evidence file, and
+  the reason preserved in a `superseded_signoff` block.
+
+A first pass at this comparison used `git rev-list --until`, whose timezone
+handling silently excluded same-day commits and made MN 19 look like the only
+changed body. The day-granularity limit above is the real constraint, and it
+cuts the other way: fewer sign-offs can be bound, not more. No approval,
+reviewer, date, or source check is invented, and no sign-off is carried forward
+on the strength of wanting it to hold.
 
 ## 3. Separate baseline cleanup from accepting new debt
 

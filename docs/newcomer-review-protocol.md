@@ -90,6 +90,18 @@ Prefer new participants when you can get them. A follow-up is worth recording
 for a different reason: it shows whether a revision fixed the thing that
 confused that reader the first time, which a new reader cannot tell you.
 
+## Source fidelity
+
+The source-fidelity gate records the `body_sha256` it reviewed, exactly as the
+other two gates do: the sign-off says *this English renders this Pali*, so it
+is about a translation, not about a filename. When the body changes, the
+sign-off stops counting and the changed passages need a real reassessment.
+
+A sign-off that cannot be tied to the body now published is not deleted and not
+left standing. It moves to a `superseded_signoff` block — original date,
+evidence file, and the reason it does not carry forward — and the gate returns
+to `pending`.
+
 For a read-aloud review, add an anonymous reviewer label and dated observation
 under `human_read_aloud.reviewers`, record the `body_sha256` that was read
 aloud, then set that gate to `complete` only when the full text has been read

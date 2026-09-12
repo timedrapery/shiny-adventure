@@ -195,21 +195,55 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
         if status not in ALLOWED_STATUS:
             failures.append(f"{key}: unsupported status {status!r}")
 
-        fidelity = record.get("source_fidelity")
-        if not isinstance(fidelity, dict) or fidelity.get("status") not in {"pending", "complete"}:
-            failures.append(f"{key}: source_fidelity needs pending/complete status")
-        elif fidelity.get("status") == "complete":
-            evidence = fidelity.get("evidence")
-            if not _nonempty(evidence) or not (repo_root / str(evidence)).is_file():
-                failures.append(f"{key}: source-fidelity evidence file is missing")
-            if not _nonempty(fidelity.get("completed_on")) or not DATE.match(str(fidelity.get("completed_on"))):
-                failures.append(f"{key}: source-fidelity completion date is invalid")
-
         # Human evidence is evidence about a *particular text*. The body it
         # was gathered against is recorded with it, so an edit to the
         # translation cannot silently inherit approval from readers who never
         # saw it. Stale evidence is kept as history and simply stops counting.
         body_hash = current_body_hash(by_key[key], repo_root)
+
+        fidelity = record.get("source_fidelity")
+        fidelity_complete = False
+        if not isinstance(fidelity, dict) or fidelity.get("status") not in {"pending", "complete"}:
+            failures.append(f"{key}: source_fidelity needs pending/complete status")
+        else:
+            fidelity_complete = fidelity.get("status") == "complete"
+            superseded = fidelity.get("superseded_signoff")
+            if superseded is not None:
+                # A sign-off that cannot be tied to the current body is kept
+                # here rather than deleted or quietly left as `complete`.
+                if not isinstance(superseded, dict):
+                    failures.append(f"{key}: superseded_signoff must be an object")
+                else:
+                    if not DATE.match(str(superseded.get("completed_on", ""))):
+                        failures.append(f"{key}: superseded sign-off needs its original date")
+                    old_evidence = superseded.get("evidence")
+                    if not _nonempty(old_evidence) or not (repo_root / str(old_evidence)).is_file():
+                        failures.append(f"{key}: superseded sign-off evidence file is missing")
+                    if not _nonempty(superseded.get("note")):
+                        failures.append(f"{key}: superseded sign-off needs a note saying why")
+            if fidelity_complete:
+                evidence = fidelity.get("evidence")
+                if not _nonempty(evidence) or not (repo_root / str(evidence)).is_file():
+                    failures.append(f"{key}: source-fidelity evidence file is missing")
+                if not _nonempty(fidelity.get("completed_on")) or not DATE.match(str(fidelity.get("completed_on"))):
+                    failures.append(f"{key}: source-fidelity completion date is invalid")
+                # Source fidelity is a claim about a translation, not about a
+                # filename: it says this English renders this Pali. Leaving it
+                # unbound meant a sign-off stayed `complete` across later
+                # edits to the very text it was about.
+                recorded = fidelity.get("body_sha256")
+                if not _nonempty(recorded) or not SHA256.match(str(recorded)):
+                    failures.append(f"{key}: completed source-fidelity review needs the body_sha256 it reviewed")
+                    fidelity_complete = False
+                elif body_hash is not None and recorded != body_hash:
+                    failures.append(
+                        f"{key}: source-fidelity sign-off is for an older body; reassess the "
+                        "changed passages or reopen the gate"
+                    )
+                    fidelity_complete = False
+                basis = fidelity.get("bound_by")
+                if basis is not None and not _nonempty(basis):
+                    failures.append(f"{key}: bound_by must say how the sign-off was tied to this body")
 
         read_aloud = record.get("human_read_aloud")
         if not isinstance(read_aloud, dict) or read_aloud.get("status") not in {"pending", "complete"}:
@@ -244,7 +278,7 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
 
         enough_reviews = isinstance(required, int) and current_reviews >= required
         enough_passes = isinstance(passes_required, int) and independent_passes >= passes_required
-        ready = fidelity.get("status") == "complete" and read_aloud_complete and enough_reviews and enough_passes
+        ready = fidelity_complete and read_aloud_complete and enough_reviews and enough_passes
         registry_status = by_key[key].readability_review.status if by_key[key].readability_review else "unreviewed"
         if status in {"ready", "validated"} and not ready:
             failures.append(f"{key}: {status} requires all three evidence gates")

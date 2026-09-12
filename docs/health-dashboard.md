@@ -120,8 +120,9 @@ three shapes the repository stores review work:
 
 **Where the dates come from.** There is no timestamp in the term schema, so
 git is the clock: each item is dated from the commit that added it. Ledger
-surfaces use their recorded source-fidelity date where they have one, since
-the ledger does not record when a surface entered the queue.
+surfaces use their recorded source-fidelity date where they have one — or the
+date of a superseded sign-off, which is still when the surface entered the
+queue — since the ledger does not record entry directly.
 
 This is why CI checks out full history. A shallow clone does not fail on
 `git log` — it answers from its graft boundary, so anything added before that

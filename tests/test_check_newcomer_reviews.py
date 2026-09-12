@@ -72,6 +72,12 @@ class EvidenceIsBoundToABodyTests(unittest.TestCase):
         data = copy.deepcopy(reviews.load_ledger())
         record = data["surfaces"][key]
         record["status"] = "ready"
+        record["source_fidelity"] = {
+            "status": "complete",
+            "completed_on": "2026-09-10",
+            "evidence": "docs/translations/an2-9-cariya-sutta-notes.md",
+            "body_sha256": body_sha256,
+        }
         record["human_read_aloud"] = {
             "status": "complete",
             "reviewers": ["R1"],
@@ -113,6 +119,88 @@ class EvidenceIsBoundToABodyTests(unittest.TestCase):
         self.assertTrue(
             any("read-aloud evidence is for an older body" in item for item in failures),
             failures,
+        )
+
+
+class SourceFidelityBindingTests(unittest.TestCase):
+    """A source-fidelity sign-off is about a translation, not a filename."""
+
+    def test_a_bound_signoff_against_the_current_body_is_valid(self) -> None:
+        data = copy.deepcopy(reviews.load_ledger())
+        bound = [
+            key
+            for key, record in data["surfaces"].items()
+            if record["source_fidelity"]["status"] == "complete"
+        ]
+        self.assertTrue(bound, "expected at least one bound sign-off in the ledger")
+        for key in bound:
+            with self.subTest(surface=key):
+                self.assertEqual(
+                    data["surfaces"][key]["source_fidelity"]["body_sha256"],
+                    current_hash(key),
+                )
+        self.assertEqual(reviews.collect_failures(data), [])
+
+    def test_a_signoff_for_an_older_body_stops_counting(self) -> None:
+        data = copy.deepcopy(reviews.load_ledger())
+        key = next(
+            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "complete"
+        )
+        record = data["surfaces"][key]
+        record["source_fidelity"]["body_sha256"] = "0" * 64
+        record["status"] = "ready"
+
+        failures = reviews.collect_failures(data)
+
+        self.assertTrue(
+            any("source-fidelity sign-off is for an older body" in f for f in failures), failures
+        )
+        # And it can no longer help a promotion.
+        self.assertTrue(
+            any("requires all three evidence gates" in f for f in failures), failures
+        )
+
+    def test_a_completed_signoff_without_a_body_hash_is_rejected(self) -> None:
+        data = copy.deepcopy(reviews.load_ledger())
+        key = next(
+            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "complete"
+        )
+        del data["surfaces"][key]["source_fidelity"]["body_sha256"]
+
+        failures = reviews.collect_failures(data)
+
+        self.assertTrue(
+            any("needs the body_sha256 it reviewed" in f for f in failures), failures
+        )
+
+    def test_a_superseded_signoff_keeps_its_date_evidence_and_reason(self) -> None:
+        # The migration reopened the gates it could not tie to the current
+        # body. Nothing was deleted, and nothing was invented.
+        data = copy.deepcopy(reviews.load_ledger())
+        pending = [
+            (key, record["source_fidelity"])
+            for key, record in data["surfaces"].items()
+            if record["source_fidelity"]["status"] == "pending"
+        ]
+        self.assertTrue(pending)
+        for key, fidelity in pending:
+            with self.subTest(surface=key):
+                superseded = fidelity["superseded_signoff"]
+                self.assertTrue(reviews.DATE.match(superseded["completed_on"]))
+                self.assertTrue((reviews.REPO_ROOT / superseded["evidence"]).is_file())
+                self.assertIn("Reassess", superseded["note"])
+
+    def test_a_superseded_block_without_a_reason_is_rejected(self) -> None:
+        data = copy.deepcopy(reviews.load_ledger())
+        key = next(
+            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "pending"
+        )
+        del data["surfaces"][key]["source_fidelity"]["superseded_signoff"]["note"]
+
+        failures = reviews.collect_failures(data)
+
+        self.assertTrue(
+            any("superseded sign-off needs a note saying why" in f for f in failures), failures
         )
 
 
@@ -222,7 +310,13 @@ class ReviewLifecycleTests(unittest.TestCase):
         record = data["surfaces"][key]
         record["status"] = "ready"
         record["human_read_aloud"] = {"status": "complete", "reviewers": ["A1"], "body_sha256": body}
-        record["source_fidelity"]["body_sha256"] = body
+        record["source_fidelity"] = {
+            "status": "complete",
+            "completed_on": "2026-09-10",
+            "evidence": data["surfaces"][key]["source_fidelity"]
+            .get("evidence", "docs/translations/an2-9-cariya-sutta-notes.md"),
+            "body_sha256": body,
+        }
 
         count, passes = reviews.count_newcomer_evidence(
             key, record["newcomer_reviews"], body, []
