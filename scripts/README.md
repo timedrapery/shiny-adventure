@@ -65,6 +65,10 @@ generating script first.
 
 - `python scripts/repo_health.py --top 10`
   Reports repository health signals for editorial scalability and automation.
+- `python scripts/health_dashboard.py --top 10`
+  Reports corpus coverage, declared-rendering drift, review-queue latency, and weekly schema and lint failures. Add `--write` to regenerate `docs/generated/health-dashboard.md`, or `--format html` for a self-contained page with charts.
+- `python scripts/backfill_check_history.py`
+  Replays git history to rebuild `reviews/check-history.jsonl`, the weekly failure series the dashboard reads.
 - `python scripts/audit_term_coverage.py --top 15`
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/modern_english_audit.py`
@@ -175,6 +179,7 @@ These modules are support code, not standalone workflow entry points.
 - Editing term data: run `validate_terms.py`, `lint_terms.py`, and `check_translation_drift.py`.
 - Checking repository surface quality: run `check_docs_integrity.py`.
 - Checking overall repository maturity: run `repo_health.py` and `audit_term_coverage.py`.
+- Checking editorial throughput and coverage trends: run `health_dashboard.py`.
 - Reviewing open major-entry status work: run `draft_major_review_queue.py`.
 - Preparing a merge-ready pass: run `run_checks.py`.
 - Intake from new source material: use the candidate workflow commands first, then promote only after review.

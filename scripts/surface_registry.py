@@ -109,6 +109,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn26-pasarasi-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn36",
+        label="MN 36",
+        main_relpath="docs/translations/mn36-mahasaccaka-sutta.md",
+        notes_relpath="docs/translations/mn36-mahasaccaka-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn38",
         label="MN 38",
         main_relpath="docs/translations/mn38-mahatanhasankhaya-sutta.md",
@@ -233,6 +239,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         label="SN 12.2",
         main_relpath="docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta.md",
         notes_relpath="docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md",
+    ),
+    TranslationSurface(
+        key="sn12_20",
+        label="SN 12.20",
+        main_relpath="docs/translations/sn12-20-paccaya-sutta.md",
+        notes_relpath="docs/translations/sn12-20-paccaya-sutta-notes.md",
     ),
     TranslationSurface(
         key="sn51_13",
@@ -428,6 +440,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn19": "cbd316fc12b13ac6362a881d0c084300195e4abaf848d9ca1b1daa5e666fb012",
     "mn22": "c4d78501fbf276810b7f9e5bca28f2b8aed3c99895745c7410347555729ff43e",
     "mn26": "839a76a0fe62caa29f03c7ee03a21ccbf0f2e5f245472183a2e8a5a1734921a2",
+    "mn36": "129203276ab93a243ca7b50d19408330479c05c8c0915477127b1470889618a3",
     "mn38": "04cb1af6c20c7c80fd2ecc339386f6efbe427ed8c61c45e417e7c17478f0fe82",
     "mn39": "2d7ef3498aed55c1c45d2a39afd96ef1d63fa60427469ef7e706b13ba52701a3",
     "mn43": "89e8048c79bb6800263f7b4640e5ff88f9c15a39238797cfa6e59674a2e1adc1",
@@ -449,6 +462,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn12_44": "d96035f8601aebff22abc0d3471d2bd7c38014e0fafccf46fe07741136d206c7",
     "sn12_23": "2c2f48345aaea34edc489a04ca3a56e963f91d7ce2216f1a67f57482b282de1a",
     "sn12_2": "29ceade9662e6be88c86dad8995040ffd62a12158f544959b605b79ccbddaa83",
+    "sn12_20": "03baa90bc6111be9645ebb036bb0aceac7cb05fa16d475c7adc1a34d7e137c50",
     "sn51_13": "9bab46d9c0f2feb7e1994f3bdbd265a74b9acae41e9058ecb3d700573af15763",
     "sn1_1": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
     "sn55_5": "ce0bbcfd5619eae08a38c0d01fab39674c232f73f2bab3c806d8b4968913ef2c",
@@ -501,6 +515,8 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "iti49": "2026-08-25",
     "an10_60": "2026-08-24",
     "an11_12": "2026-08-25",
+    "sn12_20": "2026-08-27",
+    "mn36": "2026-09-11",
 }
 
 TRANSLATION_SURFACES = tuple(
@@ -517,10 +533,27 @@ TRANSLATION_SURFACES = tuple(
 )
 
 
+# Generated docs that are not cluster surfaces. These are freshness-enforced
+# like the cluster reports, but they are deliberately kept out of
+# CLUSTER_SURFACES so `scripts/check_cluster_surfaces.py` does not demand an
+# authority document for them and `run_checks.py` does not run them in strict
+# family mode. They report on the repository rather than governing a doctrinal
+# family.
+NON_CLUSTER_GENERATED_SURFACES: tuple[ClusterSurface, ...] = (
+    ClusterSurface(
+        key="health_dashboard",
+        label="Editorial health dashboard",
+        doc_relpath="docs/generated/health-dashboard.md",
+        script_relpath="scripts/health_dashboard.py",
+        test_relpaths=("tests/test_health_dashboard.py",),
+    ),
+)
+
+
 def generated_surface_groups() -> tuple[ClusterSurface, ...]:
     """Return the CI-enforced generated doc groups backed by report scripts."""
 
-    return CLUSTER_SURFACES
+    return CLUSTER_SURFACES + NON_CLUSTER_GENERATED_SURFACES
 
 
 @dataclass(frozen=True)
@@ -764,8 +797,16 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "simplest possible entry point into mind-training.",
         reader_title="Two Kinds of Thinking",
     ),
+    "mn36": ReaderMeta(
+        "Mahāsaccaka Sutta", 3, 2,
+        "A debater says some people train the body and others the mind. The "
+        "Buddha answers with his own story: two teachers, self-torment that "
+        "nearly killed him, and the memory that pointed another way. Through "
+        "all of it, neither pain nor pleasure took over his heart.",
+        reader_title="Could This Be the Path to Awakening?",
+    ),
     "mn61": ReaderMeta(
-        "Ambalaṭṭhikarāhulovāda Sutta", 3, 2,
+        "Ambalaṭṭhikarāhulovāda Sutta", 3, 3,
         "The Buddha teaches his own son Rāhula, using a water vessel emptied "
         "and turned upside down, then a war elephant, to make the case that "
         "someone who feels no shame lying has nothing left to hold them back. "
@@ -774,61 +815,61 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="The Water Vessel",
     ),
     "mn2": ReaderMeta(
-        "Sabbāsava Sutta", 3, 3,
+        "Sabbāsava Sutta", 3, 4,
         "Seven concrete methods for handling what erodes the mind: restraint, "
         "use, endurance, avoidance, removal, development. A toolkit, not a "
         "theory.",
         reader_title="Seven Ways to Handle What Erodes the Mind",
     ),
     "an11_12": ReaderMeta(
-        "Dutiyamahānāma Sutta", 3, 4,
+        "Dutiyamahānāma Sutta", 3, 5,
         "Mahānāma asks how to practice in ordinary life while the Buddha "
         "is away. The answer gives five qualities to stand on and six things "
         "to remember while moving, working, or living with family.",
         reader_title="Six Things to Remember Anywhere",
     ),
     "mn118": ReaderMeta(
-        "Ānāpānasati Sutta", 3, 5,
+        "Ānāpānasati Sutta", 3, 6,
         "Step-by-step instructions for remembering the Dhamma while breathing "
         "in and out. The first text on this list that is a practice manual "
         "rather than a teaching about practice.",
         reader_title="Remembering the Dhamma While Breathing In and Out",
     ),
     "mn10": ReaderMeta(
-        "Satipaṭṭhāna Sutta", 3, 6,
+        "Satipaṭṭhāna Sutta", 3, 7,
         "The four foundations of remembering, and the longest, densest text so "
         "far. Not really a one-sitting read: it is the reference manual for "
         "the pieces above, worth returning to rather than finishing.",
         reader_title="The Four Foundations of Remembering",
     ),
     "mn119": ReaderMeta(
-        "Kāyagatāsati Sutta", 3, 7,
+        "Kāyagatāsati Sutta", 3, 8,
         "A long practice sequence directing remembering to breathing, movement, "
         "the body's contents and fate, deep composure, resilience, and ten "
         "claimed results.",
         reader_title="Remembering Directed to the Body",
     ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 8,
+        "Sāmaññaphala Sutta", 3, 9,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
         reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 9,
+        "Girimānanda Sutta", 3, 10,
         "Ten perceptions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
         reader_title="Ten Perceptions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 10,
+        "Mahā-Assapura Sutta", 3, 11,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 11,
+        "Āhāra Sutta", 3, 12,
         "What feeds the distractions that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves Distraction",
@@ -923,21 +964,29 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
+    "sn12_20": ReaderMeta(
+        "Paccaya Sutta", 4, 15,
+        "Dependent arising stated as a pattern that holds whether or not "
+        "anyone discovers it, kept carefully apart from the changing things "
+        "the pattern runs through—and why someone who sees this stops "
+        "interrogating their own past and future.",
+        reader_title="Discovered, Not Invented",
+    ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 15,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 16,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 16,
+        "Mahānidāna Sutta", 4, 17,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 17,
+        "Sammādiṭṭhi Sutta", 4, 18,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",
@@ -1058,7 +1107,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
-        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12",
+        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12", "mn36",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1071,7 +1120,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Dependent arising": (
         "sn12_15", "sn12_44", "sn12_61", "sn12_23", "sn12_11",
-        "sn12_2", "mn38", "dn15", "mn9", "iti49",
+        "sn12_2", "sn12_20", "mn38", "dn15", "mn9", "iti49",
     ),
     "Mind and senses": (
         "mn137", "sn35_28", "mn18", "mn43", "mn44", "mn64", "mn148",
@@ -1083,7 +1132,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Dialogue": (
         "an3_65", "mn63", "mn26", "mn61", "dn2", "mn44", "mn43",
         "mn64", "mn99", "mn18", "mn38", "sn22_86", "sn22_89",
-        "sn12_15", "sn45_2", "sn1_1", "sn56_17",
+        "sn12_15", "sn45_2", "sn1_1", "sn56_17", "mn36",
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
@@ -1091,7 +1140,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
-        "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
+        "sn12_20", "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
     ),
     "Teaching with verse": (
         "mn131", "iti44", "iti49", "an11_9", "an8_6", "an4_5",

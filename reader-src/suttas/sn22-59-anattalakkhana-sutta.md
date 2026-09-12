@@ -247,7 +247,7 @@ bhikkhus were released from the outflows through not taking anything
 personally.
 
 <details class="reader-terms">
-<summary>Words used in this translation (17)</summary>
+<summary>Words used in this translation (18)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -279,6 +279,8 @@ personally.
 <dd>This project&#x27;s rendering of &quot;saṅkhārā&quot; (often translated &quot;mental formations&quot;) -- the mind&#x27;s constructing and assembling activity, one of the five heaps.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>right discernment</dfn></dt>
+<dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>This is not mine, I am not this, this is not my self</dfn></dt>
@@ -321,5 +323,6 @@ personally.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[This is not mine, I am not this, this is not my self]: A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.

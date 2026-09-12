@@ -172,6 +172,20 @@
 
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
+
+*[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.
+
+*[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
+
+*[stability of the pattern]: That the way conditions give rise to results holds steady. It names a reliable regularity, not a permanent thing standing behind events.
+
+*[regularity of the pattern]: That the same conditions reliably lead to the same results. Paired with the phrase above; the two say one thing from two sides.
+
+*[suchness]: This project's rendering of "tathatā" -- that things are just as they are, and not otherwise. Used to stop the pattern being turned into a hidden essence.
+
+*[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
+
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 
 *[clearly knowing]: Acting while plainly aware of what you are doing.

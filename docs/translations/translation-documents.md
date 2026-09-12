@@ -67,6 +67,11 @@ Current MN 26 surfaces:
 - [mn26-pasarasi-sutta.md](mn26-pasarasi-sutta.md): main shareable translation text
 - [mn26-pasarasi-sutta-notes.md](mn26-pasarasi-sutta-notes.md): companion translator notes and rationale
 
+Current MN 36 surfaces:
+
+- [mn36-mahasaccaka-sutta.md](mn36-mahasaccaka-sutta.md): main shareable translation text
+- [mn36-mahasaccaka-sutta-notes.md](mn36-mahasaccaka-sutta-notes.md): companion translator notes and rationale
+
 Current MN 38 surfaces:
 
 - [mn38-mahatanhasankhaya-sutta.md](mn38-mahatanhasankhaya-sutta.md): main shareable translation text
@@ -171,6 +176,11 @@ Current SN 12.2 surfaces:
 
 - [sn12-2-paticcasamuppada-vibhanga-sutta.md](sn12-2-paticcasamuppada-vibhanga-sutta.md): main shareable translation text
 - [sn12-2-paticcasamuppada-vibhanga-sutta-notes.md](sn12-2-paticcasamuppada-vibhanga-sutta-notes.md): companion translator notes and rationale
+
+Current SN 12.20 surfaces:
+
+- [sn12-20-paccaya-sutta.md](sn12-20-paccaya-sutta.md): main shareable translation text
+- [sn12-20-paccaya-sutta-notes.md](sn12-20-paccaya-sutta-notes.md): companion translator notes and rationale
 
 Current SN 51.13 surfaces:
 
