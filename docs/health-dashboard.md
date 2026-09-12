@@ -32,6 +32,9 @@ python scripts/health_dashboard.py --format json
 # Regenerate the committed Markdown
 python scripts/health_dashboard.py --write
 
+# A self-contained page with charts, for looking at or sharing
+python scripts/health_dashboard.py --format html > health-dashboard.html
+
 # Rebuild the weekly schema and lint failure history
 python scripts/backfill_check_history.py
 ```
@@ -163,6 +166,24 @@ trend.
 run-history scrape cannot distinguish a real failure from a re-run, a
 force-push, or an infrastructure error, and it cannot see the weeks before the
 workflow existed.
+
+## The HTML view
+
+`--format html` renders the same report as a single self-contained page:
+four summary tiles, then each section as a chart beside its table. It is
+produced by `scripts/health_dashboard_html.py`, a renderer over the report dict
+that knows nothing about term files or git.
+
+It is deliberately **not committed**. It carries live day counts and the date
+it was generated, which the byte-for-byte freshness check on
+`docs/generated/` could never accept, and a chart-bearing page churning in git
+on every regeneration buys nothing the JSON does not already give. CI uploads
+it with the JSON as the `repo-health` artifact, so every run has a viewable
+copy.
+
+Every chart has a table twin beside it, so no value is reachable only through
+colour or hover; status chips pair a glyph with a label for the same reason.
+The page renders in light and dark, following the viewer's system setting.
 
 ## Maintenance
 
