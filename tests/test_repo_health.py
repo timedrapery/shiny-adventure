@@ -345,6 +345,22 @@ class RepoHealthTests(unittest.TestCase):
             matches, [("pīti", "rejoicing"), ("sukha", "satisfaction")]
         )
 
+    def test_an_arrow_between_two_pali_words_is_not_a_declaration(self) -> None:
+        # SN 12.20's notes write the dependent-arising chain as
+        # `avijjā` → `saṅkhārā`. That is a link, not a rendering, and reading
+        # it as one reported drift against words never mistranslated.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "sn12-20-notes.md"
+            path.write_text(
+                "`avijjā` → `saṅkhārā` and `jāti` →\n`jarāmaraṇa` in the chain; "
+                "`saṅkhāra` is rendered `what is put together`.",
+                encoding="utf-8",
+            )
+            declarations = repo_health.load_translation_declarations(Path(tmpdir))
+        self.assertEqual(
+            declarations, {"sn12-20-notes.md": [("saṅkhāra", "what is put together")]}
+        )
+
     def test_canonical_rendering_folds_wrapping_case_and_final_stop(self) -> None:
         # declarations are hard-wrapped at 79 columns, so the same phrase
         # arrives with a newline inside it
