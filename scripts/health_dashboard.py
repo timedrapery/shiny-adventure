@@ -824,9 +824,9 @@ def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
         "--format",
-        choices=("text", "json"),
+        choices=("text", "json", "html"),
         default="text",
-        help="Output format.",
+        help="Output format. `html` is a self-contained page with charts, written to stdout.",
     )
     parser.add_argument(
         "--top",
@@ -874,6 +874,22 @@ def main() -> int:
         # carries Pali headwords and CI writes it through a redirect.
         json.dump(report, sys.stdout, ensure_ascii=True, indent=2)
         sys.stdout.write("\n")
+    elif args.format == "html":
+        try:
+            from scripts.health_dashboard_html import render_html
+        except ModuleNotFoundError:
+            from health_dashboard_html import render_html
+        head = git_output(["rev-parse", "--short", "HEAD"], REPO_ROOT)
+        page = render_html(
+            report,
+            generated_on=as_of.isoformat(),
+            head_commit=head.strip() if head else None,
+            top=args.top,
+        )
+        # The page is UTF-8 by declaration and carries Pali; a redirected
+        # stdout on Windows would otherwise pick cp1252 and fail on the first
+        # diacritic, so the bytes are written directly.
+        sys.stdout.buffer.write(page.encode("utf-8"))
     else:
         print_text_report(report, top=args.top)
     return 0
