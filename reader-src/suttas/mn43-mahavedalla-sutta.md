@@ -592,7 +592,7 @@ had said.
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn></dt>
-<dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
+<dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -680,7 +680,7 @@ had said.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
+*[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.

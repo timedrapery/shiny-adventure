@@ -759,7 +759,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
 | [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | strength of composure | reviewed | core-practice, mental-qualities |
-| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | delight and ease born of composure | reviewed | jhana-factors, meditative-development |
+| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | rejoicing and satisfaction born of composure | reviewed | jhana-factors, meditative-development |
 | [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | faculty of composure | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
@@ -999,7 +999,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [visaya](../../terms/minor/visaya.json) | visaya | domain | reviewed | core-doctrine |
 | [vivada](../../terms/minor/vivada.json) | vivāda | dispute | reviewed | core-practice |
 | [viveka](../../terms/minor/viveka.json) | viveka | seclusion | reviewed | core-practice |
-| [vivekaja-piti-sukha](../../terms/minor/vivekaja-piti-sukha.json) | vivekaja-piti-sukha | delight and ease born of seclusion | reviewed | jhana-factors, meditative-development |
+| [vivekaja-piti-sukha](../../terms/minor/vivekaja-piti-sukha.json) | vivekaja-piti-sukha | rejoicing and satisfaction born of seclusion | reviewed | jhana-factors, meditative-development |
 | [vivekaja](../../terms/minor/vivekaja.json) | vivekaja | born of seclusion | reviewed | meditative-development |
 | [vivekanissita](../../terms/minor/vivekanissita.json) | vivekanissita | based on seclusion | reviewed | meditative-development |
 | [vivicceva-kamehi-vivicca-akusalehi-dhammehi](../../terms/minor/vivicceva-kamehi-vivicca-akusalehi-dhammehi.json) | vivicceva kāmehi vivicca akusalehi dhammehi | quite secluded from sensuality, secluded from unwholesome dhammas | reviewed | jhana-factors, meditative-development, translation-sensitive |

@@ -7,13 +7,13 @@
 
 - Default: `first mental theme`
 - Notes: The first jhāna in the standard fourfold sequence of ariya sammā samādhi.
-- Linked formulas: `vivekaja-piti-sukha` -> delight and ease born of seclusion
+- Linked formulas: `vivekaja-piti-sukha` -> rejoicing and satisfaction born of seclusion
 
 ## dutiya-jhāna
 
 - Default: `second mental theme`
 - Notes: The second jhāna in the standard fourfold sequence of ariya sammā samādhi.
-- Linked formulas: `avitakka-avicara` -> without thinking and pondering, `ajjhatta-sampasadana` -> inner clarity, `cetaso-ekodibhava` -> unification of mind, `samadhija-piti-sukha` -> delight and ease born of composure
+- Linked formulas: `avitakka-avicara` -> without thinking and pondering, `ajjhatta-sampasadana` -> inner clarity, `cetaso-ekodibhava` -> unification of mind, `samadhija-piti-sukha` -> rejoicing and satisfaction born of composure
 
 ## tatiya-jhāna
 

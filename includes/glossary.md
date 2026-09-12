@@ -54,7 +54,7 @@
 
 *[calming]: A settling and quieting of the mind on the way toward full release.
 
-*[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
+*[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 
