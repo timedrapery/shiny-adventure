@@ -13,7 +13,7 @@ Use it together with the live `nīvaraṇa`, `pañca-nīvaraṇā`, `jhāna`,
 - `so ime pañca nīvaraṇe pahāya` -> `having abandoned these five distractions`
 - `vivicceva kāmehi vivicca akusalehi dhammehi` -> `quite secluded from sensuality, secluded from unwholesome dhammas`
 - `savitakkaṁ savicāraṁ` -> `with thinking and pondering`
-- `vivekajaṁ pītisukhaṁ` -> `delight and ease born of seclusion`
+- `vivekajaṁ pītisukhaṁ` -> `rejoicing and satisfaction born of seclusion`
 - `paṭhamaṁ jhānaṁ` -> `the first mental theme`
 
 ## Use Rule
@@ -34,7 +34,7 @@ Use it together with the live `nīvaraṇa`, `pañca-nīvaraṇā`, `jhāna`,
   translated in full.
 - Do not turn `thinking and pondering` into scholastic jargon or trance
   rhetoric.
-- Do not detach `delight and ease born of seclusion` from the hindrance-clearing
+- Do not detach `rejoicing and satisfaction born of seclusion` from the hindrance-clearing
   frame that precedes it.
 
 ## Working Reminder
