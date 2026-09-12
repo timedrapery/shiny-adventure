@@ -37,7 +37,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [agantuka](../../terms/minor/agantuka.json) | āgantuka | visiting | reviewed | core-doctrine |
 | [agara](../../terms/minor/agara.json) | agāra | household | reviewed | core-doctrine |
 | [ahara-paccaya](../../terms/minor/ahara-paccaya.json) | ahara-paccaya | nutriment condition | reviewed | causality |
-| [ahare-patikula-sanna](../../terms/minor/ahare-patikula-sanna.json) | ahare-patikula-sanna | perception of the repulsiveness of food | reviewed | meditative-development, liberation |
+| [ahare-patikula-sanna](../../terms/minor/ahare-patikula-sanna.json) | ahare-patikula-sanna | recognition of the repulsiveness of food | reviewed | meditative-development, liberation |
 | [ahetuka](../../terms/minor/ahetuka.json) | ahetuka | rootless | reviewed | core-practice |
 | [ahirika](../../terms/minor/ahirika.json) | ahirika | lack of conscience | reviewed | mental-qualities |
 | [ajatasattu](../../terms/minor/ajatasattu.json) | Ajātasattu | Ajātasattu | reviewed | persons |
@@ -68,7 +68,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [anantara-paccaya](../../terms/minor/anantara-paccaya.json) | anantara-paccaya | immediacy condition | reviewed | causality |
 | [anantara](../../terms/minor/anantara.json) | anantara | immediacy | reviewed | causality |
 | [anathapindika](../../terms/minor/anathapindika.json) | Anāthapiṇḍika | Anāthapiṇḍika | reviewed | persons |
-| [anatta-sanna](../../terms/minor/anatta-sanna.json) | anatta-sanna | perception of not-self | reviewed | meditative-development, liberation, three-marks |
+| [anatta-sanna](../../terms/minor/anatta-sanna.json) | anatta-sanna | recognition of not-self | reviewed | meditative-development, liberation, three-marks |
 | [anattanupassana](../../terms/minor/anattanupassana.json) | anattānupassanā | contemplation of not-self | reviewed | core-practice, meditative-development, three-marks |
 | [anenjabhisankhara](../../terms/minor/anenjabhisankhara.json) | aneñjābhisaṅkhāra | imperturbable constructing | reviewed | core-doctrine, dependent-origination |
 | [anicca-sabbe-sankhara](../../terms/minor/anicca-sabbe-sankhara.json) | aniccā sabbasaṅkhārā | all that has been put together is impermanent | reviewed | three-marks, formula, translation-sensitive |
@@ -129,7 +129,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [asevana](../../terms/minor/asevana.json) | asevana | repetition | reviewed | causality |
 | [assasa](../../terms/minor/assasa.json) | assāsa | consolation | reviewed | practice, epistemology |
 | [assu](../../terms/minor/assu.json) | assu | tears | reviewed | embodiment, meditative-development |
-| [asubha-sanna](../../terms/minor/asubha-sanna.json) | asubha-sanna | perception of the unattractive | reviewed | meditative-development, liberation |
+| [asubha-sanna](../../terms/minor/asubha-sanna.json) | asubha-sanna | recognizing what is unattractive | reviewed | meditative-development, liberation |
 | [asubha](../../terms/minor/asubha.json) | asubha | unattractive | reviewed | meditative-development |
 | [asubhanupassana](../../terms/minor/asubhanupassana.json) | asubhānupassanā | contemplation of the unattractive | reviewed | core-practice, meditative-development |
 | [asura](../../terms/minor/asura.json) | asura | asura | reviewed | persons |
@@ -297,7 +297,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [dukkha-ariyasacca](../../terms/minor/dukkha-ariyasacca.json) | dukkha-ariyasacca | noble truth of dissatisfaction | reviewed | core-doctrine, four-noble-truths |
 | [dukkha-sabbe-sankhara](../../terms/minor/dukkha-sabbe-sankhara.json) | dukkhā sabbasaṅkhārā | all that has been put together is unsatisfactory | reviewed | three-marks, formula, translation-sensitive |
 | [dukkha-samudaya](../../terms/minor/dukkha-samudaya.json) | dukkhasamudaya | origin of dissatisfaction | reviewed | four-noble-truths, core-doctrine, translation-sensitive |
-| [dukkha-sanna](../../terms/minor/dukkha-sanna.json) | dukkha-sanna | perception of dissatisfaction | reviewed | meditative-development, liberation, three-marks |
+| [dukkha-sanna](../../terms/minor/dukkha-sanna.json) | dukkha-sanna | recognition of dissatisfaction | reviewed | meditative-development, liberation, three-marks |
 | [dukkha-vedana](../../terms/minor/dukkha-vedana.json) | dukkhavedanā | painful feeling | reviewed | aggregates |
 | [dukkhanupassana](../../terms/minor/dukkhanupassana.json) | dukkhānupassanā | contemplation of dissatisfaction | reviewed | core-practice, meditative-development, three-marks |
 | [duta](../../terms/minor/duta.json) | dūta | messenger | reviewed | persons |
@@ -496,7 +496,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [manussa](../../terms/minor/manussa.json) | manussa | human being | reviewed | persons |
 | [manussaloka](../../terms/minor/manussaloka.json) | manussaloka | human world | reviewed | core-doctrine |
 | [mara](../../terms/minor/mara.json) | māra | Māra | reviewed | persons, core-doctrine |
-| [marana-sanna](../../terms/minor/marana-sanna.json) | marana-sanna | perception of death | reviewed | meditative-development, liberation |
+| [marana-sanna](../../terms/minor/marana-sanna.json) | marana-sanna | recognition of death | reviewed | meditative-development, liberation |
 | [maranassati](../../terms/minor/maranassati.json) | maraṇassati | recollection of death | reviewed | core-practice |
 | [marga](../../terms/minor/marga.json) | mārga | mārga | reviewed | core-doctrine, translation-sensitive |
 | [mata](../../terms/minor/mata.json) | mātā | mother | reviewed | persons |
@@ -586,7 +586,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [niraya](../../terms/minor/niraya.json) | niraya | hell realm | reviewed | persons |
 | [nirodha-ariyasacca](../../terms/minor/nirodha-ariyasacca.json) | nirodha-ariyasacca | noble truth of quenching | reviewed | core-doctrine, four-noble-truths |
 | [nirodha-samapatti](../../terms/minor/nirodha-samapatti.json) | nirodhasamāpatti | attainment of cessation | reviewed | liberation, meditative-development |
-| [nirodha-sanna](../../terms/minor/nirodha-sanna.json) | nirodha-sanna | perception of quenching | reviewed | meditative-development, liberation |
+| [nirodha-sanna](../../terms/minor/nirodha-sanna.json) | nirodha-sanna | recognition of quenching | reviewed | meditative-development, liberation |
 | [nirodhanissita](../../terms/minor/nirodhanissita.json) | nirodhanissita | based on quenching | reviewed | core-practice |
 | [nissarana-dhatu](../../terms/minor/nissarana-dhatu.json) | nissaraṇa-dhātu | element of escape | stable | core-doctrine, translation-sensitive, liberation |
 | [nissaya](../../terms/minor/nissaya.json) | nissaya | dependence | reviewed | vinaya, core-practice |
@@ -617,7 +617,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [padaparama](../../terms/minor/padaparama.json) | padaparama | word-bound person | reviewed | persons |
 | [padhana-sankhara](../../terms/minor/padhana-sankhara.json) | padhānasaṅkhāra | exertion conditioner | reviewed | core-practice, meditative-development, translation-sensitive |
 | [padhana](../../terms/minor/padhana.json) | padhāna | exertion | reviewed | core-practice, meditative-development |
-| [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | perception of abandoning | stable | meditative-development, liberation, translation-sensitive |
+| [pahana-sanna](../../terms/minor/pahana-sanna.json) | pahāna-saññā | recognition through abandoning | stable | meditative-development, liberation, translation-sensitive |
 | [pamada](../../terms/minor/pamada.json) | pamāda | heedlessness | reviewed | mental-qualities |
 | [pamanakarana](../../terms/minor/pamanakarana.json) | pamāṇakaraṇa | maker of measurement | reviewed | mental-qualities, translation-sensitive |
 | [pamsukula](../../terms/minor/pamsukula.json) | paṃsukūla | rag-robe | reviewed | vinaya, core-practice |
@@ -735,7 +735,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
-| [sabbaloke-anabhirata-sanna](../../terms/minor/sabbaloke-anabhirata-sanna.json) | sabbaloke-anabhirata-sanna | perception of non-delight in the whole world | reviewed | meditative-development, liberation |
+| [sabbaloke-anabhirata-sanna](../../terms/minor/sabbaloke-anabhirata-sanna.json) | sabbaloke-anabhirata-sanna | recognition of no delight in the whole world | reviewed | meditative-development, liberation |
 | [sabbe-dhamma-anatta](../../terms/minor/sabbe-dhamma-anatta.json) | sabbe dhammā anattā | all phenomena are not-self | reviewed | three-marks, formula, translation-sensitive |
 | [sabha](../../terms/minor/sabha.json) | sabhā | hall | reviewed | core-doctrine |
 | [saccato-thetato](../../terms/minor/saccato-thetato.json) | saccato thetato | as something true and real | reviewed | five-heaps, tathagata, translation-sensitive |
@@ -988,7 +988,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [vippayutta-paccaya](../../terms/minor/vippayutta-paccaya.json) | vippayutta-paccaya | dissociation condition | reviewed | causality |
 | [vippayutta](../../terms/minor/vippayutta.json) | vippayutta | dissociated | reviewed | causality |
 | [vipubbaka](../../terms/minor/vipubbaka.json) | vipubbaka | festering corpse | reviewed | meditative-development, embodiment |
-| [viraga-sanna](../../terms/minor/viraga-sanna.json) | viraga-sanna | perception of fading | reviewed | meditative-development, liberation |
+| [viraga-sanna](../../terms/minor/viraga-sanna.json) | viraga-sanna | recognition of fading | reviewed | meditative-development, liberation |
 | [viraganissita](../../terms/minor/viraganissita.json) | viraganissita | based on fading | reviewed | core-practice |
 | [viriya-iddhipada](../../terms/minor/viriya-iddhipada.json) | viriyiddhipāda | basis of power grounded in energy | reviewed | core-practice, meditative-development |
 | [viriya-sambojjhanga](../../terms/minor/viriya-sambojjhanga.json) | viriyasambojjhaṅga | energy awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
