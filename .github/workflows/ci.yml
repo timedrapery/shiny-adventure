@@ -79,6 +79,8 @@ jobs:
       # series, not just the summary the Markdown shows.
       - name: Export health dashboard JSON
         run: python scripts/health_dashboard.py --format json > health-dashboard.json
+      - name: Export health dashboard HTML
+        run: python scripts/health_dashboard.py --format html > health-dashboard.html
       - name: Upload repo health artifact
         uses: actions/upload-artifact@v7
         with:
@@ -86,3 +88,4 @@ jobs:
           path: |
             repo-health.json
             health-dashboard.json
+            health-dashboard.html
