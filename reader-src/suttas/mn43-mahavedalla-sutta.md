@@ -549,7 +549,7 @@ Venerable Mahākoṭṭhika was satisfied and delighted in what Venerable Sārip
 had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (41)</summary>
+<summary>Words used in this translation (42)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -557,6 +557,8 @@ had said.
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
 <dt><dfn>aversive distraction</dfn></dt>
 <dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>body</dfn></dt>
@@ -661,6 +663,7 @@ had said.
 *[agitated distraction]: Being pulled off track by restlessness and nagging regret.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.

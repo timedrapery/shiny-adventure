@@ -21,7 +21,11 @@ jobs:
       matrix:
         python-version: ["3.11", "3.12"]
     steps:
-      - uses: actions/checkout@v6
+      - uses: actions/checkout@v7
+        with:
+          # The health dashboard dates the review queue from the commit
+          # that added each item, which a shallow checkout cannot answer.
+          fetch-depth: 0
       - uses: actions/setup-python@v6
         with:
           python-version: ${{ matrix.python-version }}
@@ -71,8 +75,17 @@ jobs:
         run: pnpm test:a11y
       - name: Export repo health JSON
         run: python scripts/repo_health.py --format json > repo-health.json
+      # The dashboard's JSON carries the full detail lists and the whole weekly
+      # series, not just the summary the Markdown shows.
+      - name: Export health dashboard JSON
+        run: python scripts/health_dashboard.py --format json > health-dashboard.json
+      - name: Export health dashboard HTML
+        run: python scripts/health_dashboard.py --format html > health-dashboard.html
       - name: Upload repo health artifact
         uses: actions/upload-artifact@v7
         with:
           name: repo-health-py${{ matrix.python-version }}
-          path: repo-health.json
+          path: |
+            repo-health.json
+            health-dashboard.json
+            health-dashboard.html

@@ -86,8 +86,10 @@ This is how this entire mass of dissatisfaction ceases.
 The fifth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (19)</summary>
+<summary>Words used in this translation (21)</summary>
 <dl>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>birth</dfn></dt>
@@ -116,6 +118,8 @@ The fifth discourse is finished.
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
 <dt><dfn>putting things together</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
+<dt><dfn>right discernment</dfn></dt>
+<dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>taking personally</dfn></dt>
@@ -151,6 +155,7 @@ The fifth discourse is finished.
 </nav>
 
 
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
@@ -166,6 +171,7 @@ The fifth discourse is finished.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
+*[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."

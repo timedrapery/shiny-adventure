@@ -34,14 +34,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "dhammatā",
-      "translation": "lawfulness",
-      "notes": "Base support-layer rendering.",
-      "source": "SN 12.20"
+      "pali": "Ayamettha dhammatā",
+      "translation": "this is the lawfulness here",
+      "notes": "Base support-layer rendering. Citation repaired 2026-08-27: the record previously cited SN 12.20, which contains dhammaṭṭhitatā and dhammaniyāmatā but never dhammatā itself. The strict verifier scored the old citation inflected rather than absent because the stem occurs inside those longer words.",
+      "source": "DN 14"
     }
   ],
   "sutta_references": [
-    "SN 12.20"
+    "DN 14"
   ],
   "tags": [
     "core-doctrine"

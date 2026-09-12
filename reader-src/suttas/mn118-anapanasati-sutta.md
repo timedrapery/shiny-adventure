@@ -287,7 +287,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (28)</summary>
+<summary>Words used in this translation (29)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -295,6 +295,8 @@ Buddha had said.
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
 <dt><dfn>awakening factor</dfn></dt>
 <dd>One of seven qualities developed and kept in balance on the way to waking up.</dd>
+<dt><dfn>becoming</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
@@ -373,6 +375,7 @@ Buddha had said.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 *[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
+*[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.

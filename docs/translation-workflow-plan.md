@@ -50,9 +50,23 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
+## Update As Of 2026-09-11
+
+- 63 governed translation surfaces and 63 generated reader pages. MN 36 was
+  added by direct request, outside the Wave 10 queue, which still continues
+  with AN 8.39 and SN 46.1.
+- All 63 surfaces report no automated plain-English register signals.
+- The MN 36 source audit found a fourth citation of the `inflected` shape:
+  three records cited MN 36 for `nāparaṃ itthattāyāti pajānāti`, which it
+  does not contain. Repaired; see the MN 36 notes.
+- Two findings from that audit are recorded and not yet fixed. The MN 26
+  surface does not translate the lip-service line at `mn26:15.7` and
+  `mn26:16.7`. The four-mental-theme formula has drifted into at least four
+  versions across the corpus and has no formula record to hold it.
+
 ## Update As Of 2026-08-25
 
-- 61 governed translation surfaces and 61 generated reader pages. SN 48.10
+- 62 governed translation surfaces and 62 generated reader pages. SN 48.10
   and MN 119 complete the two strong translation items from the verified Wave
   8 queue; MN 131, SN 22.86, SN 45.2, and AN 8.6 were added by direct request
   or reader-value review outside the wave sequence. AN 2.9 closes the older
@@ -71,7 +85,7 @@ python -m pip install -r requirements-dev.txt
   any of the four post-death positions.
 - 1,155 term records, including reusable `bhaddekaratta` and `saccato thetato`
   records and an exact governed example for the SN 22.86 dukkha-nirodha close.
-- All 61 surfaces report no automated plain-English register signals. The
+- All 62 surfaces report no automated plain-English register signals. The
   first seven-sutta newcomer review cohort is tracked in
   `reviews/newcomer-review-ledger.json`; human read-aloud and comprehension
   passes remain the final validation gate, so none is mislabeled as validated.
