@@ -11,7 +11,25 @@ private remarks here or in the repository.
 - Anonymous participant label: R__
 - Date: YYYY-MM-DD
 - Confirmed new to early Buddhist suttas: yes / no
+- Has this person read an earlier version of this text? yes / no
+  (if yes, this is a follow-up: see *Returning readers* below)
 - Translation notes and glossary page withheld: yes / no
+- Body hash of the text they are about to read:
+
+Get that last one before the session, and paste the same value into the record
+afterwards. It is what ties the evidence to the words this person actually read:
+
+```bash
+python - <<'EOF'
+from pathlib import Path
+from scripts.check_readability_reviews import translation_body_sha256
+print(translation_body_sha256(Path("docs/translations/an2-9-cariya-sutta.md")))
+EOF
+```
+
+The three pilot texts are `docs/translations/an2-9-cariya-sutta.md`,
+`docs/translations/sn36-6-salla-sutta.md`, and
+`docs/translations/an3-65-kesamutta-sutta.md`.
 
 Give the participant only the public reader page. Do not define a term or
 explain the teaching while they read.
@@ -63,9 +81,26 @@ replacing every placeholder with the participant's actual, unprompted evidence.
   "what_happened": "Participant's unprompted paraphrase.",
   "practical_point": "Participant's unprompted paraphrase.",
   "confusing_words": [],
-  "pass": true
+  "pass": true,
+  "body_sha256": "the hash recorded before the session",
+  "follow_up": false
 }
 ```
+
+Then run `python scripts/check_newcomer_reviews.py`. It will tell you if
+anything is missing or inconsistent; it cannot tell whether the evidence is
+real, which is the part that rests on you.
+
+### Returning readers
+
+If this person read an earlier version of the same text, set `follow_up` to
+`true` and `independent` to `false`, and leave their earlier record exactly as
+it is. A follow-up counts as one of the five participants for this version of
+the text but never toward the four independent passes: someone who has already
+read an earlier draft cannot give a first unprompted account of it.
+
+A follow-up is still worth running. It is the only way to learn whether a
+revision fixed the thing that confused that particular reader.
 
 ## Separate full read-aloud review
 
@@ -73,7 +108,11 @@ replacing every placeholder with the participant's actual, unprompted evidence.
 - Date: YYYY-MM-DD
 - Complete translation read aloud from beginning to end: yes / no
 - Sentences that were hard to say or understand on first hearing:
+- Body hash of the text that was read aloud:
 - Result: pending / complete
+
+The read-aloud gate records its `body_sha256` too, in the
+`human_read_aloud` object beside the reviewer labels.
 
 Do not mark the ledger's read-aloud gate complete unless the whole translation
 was read aloud and a dated reviewer observation was recorded.
