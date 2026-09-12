@@ -41,6 +41,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 try:
+    from scripts import paragraph_ids, reader_feedback
     from scripts.surface_registry import (
         ESSENTIAL_FIVE,
         FIRST_TWELVE,
@@ -61,6 +62,8 @@ try:
         surfaces_in_reading_order,
     )
 except ModuleNotFoundError:  # invoked as a script from the repo root
+    import paragraph_ids  # type: ignore[no-redef]
+    import reader_feedback  # type: ignore[no-redef]
     from surface_registry import (  # type: ignore[no-redef]
         ESSENTIAL_FIVE,
         FIRST_TWELVE,
@@ -381,6 +384,142 @@ def load_term_records() -> list[dict[str, object]]:
     return records
 
 
+def glossary_term_ids(
+    terms: list[str], records: list[dict[str, object]] | None = None,
+) -> dict[str, str]:
+    """Reader glossary term -> governed term id, where a record's preferred
+    rendering equals the glossary term. This is the site's one existing
+    explicit link between a reader-facing word and a lexicon record; nothing
+    looser is used to attach term ids to feedback."""
+    records = records if records is not None else load_term_records()
+    by_rendering: dict[str, str] = {}
+    for record in records:
+        preferred = record.get("preferred_translation")
+        ident = record.get("normalized_term")
+        if isinstance(preferred, str) and isinstance(ident, str):
+            by_rendering.setdefault(preferred.casefold(), ident)
+    return {
+        term: by_rendering[term.casefold()]
+        for term in terms if term.casefold() in by_rendering
+    }
+
+
+# --------------------------------------------------------------------------
+# reader feedback
+# --------------------------------------------------------------------------
+
+def feedback_manifest(
+    surface: TranslationSurface,
+    body: str,
+    glossary: dict[str, str],
+    entries: list[tuple[str, str]],
+    guide: dict[str, object] | None,
+    intro: str | None,
+    config: dict[str, object],
+    records: list[dict[str, object]] | None = None,
+) -> dict[str, object]:
+    """Everything the reader script needs to attach feedback to this page."""
+    passages = paragraph_ids.passages_from_body(body)
+    map_file = paragraph_ids.map_path(surface.key)
+    if not map_file.is_file():
+        raise ValueError(
+            f"{surface.key}: feedback is enabled but the paragraph map is missing; run "
+            f"`python scripts/paragraph_ids.py --write --surface {surface.key}`"
+        )
+    passage_map = paragraph_ids.load_map(map_file)
+    term_map = reader_feedback.load_term_map(surface.key) or {}
+    explicit = {
+        str(pid): [str(t) for t in terms]
+        for pid, terms in (term_map.get("mappings") or {}).items()
+    }
+    term_ids = glossary_term_ids([term for term, _ in glossary.items()], records)
+    derived: dict[str, list[str]] = {}
+    for entry, passage in zip(passage_map["passages"], passages):
+        matched = select_glossary_matches(passage.markdown, glossary.items(), flags=re.I)
+        ids = []
+        for term, _ in matched:
+            ident = term_ids.get(term)
+            if ident and ident not in ids:
+                ids.append(ident)
+        derived[entry["id"]] = ids
+    if guide is not None:
+        intro_kind, intro_text = "guide", json.dumps(guide, sort_keys=True, ensure_ascii=False)
+    elif intro:
+        intro_kind, intro_text = "intro", intro.strip()
+    else:
+        intro_kind, intro_text = "default", DEFAULT_INTRO
+    return reader_feedback.build_manifest(
+        surface=surface,
+        reader_title=display_title(surface),
+        body_sha256=surface.readability_review.body_sha256 if surface.readability_review else "",
+        page_path=f"suttas/{surface.main_path.stem}/",
+        passages=passages,
+        passage_map=passage_map,
+        explicit_terms=explicit,
+        derived_terms=derived,
+        glossary_entries=entries,
+        glossary_term_ids=term_ids,
+        introduction_kind=intro_kind,
+        introduction_text=intro_text,
+        question_set=reader_feedback.load_question_set(surface.key),
+        config=config,
+    )
+
+
+def render_feedback_section(manifest: dict[str, object]) -> list[str]:
+    """The reader-facing feedback block: a note on how feedback is used and,
+    when the surface has a question set, the optional comprehension review.
+
+    It is emitted hidden. The reader script reveals it only after the
+    submission endpoint answers a health probe, so a site with no service
+    shows nothing and a page without scripting keeps its usual shape.
+    """
+    note = html.escape(str(manifest["reader_note"]))
+    lines = [
+        '<section class="reader-feedback" id="reader-feedback" hidden '
+        'aria-labelledby="reader-feedback-heading">',
+        '<h2 id="reader-feedback-heading">Feedback on this translation</h2>',
+        f'<p>{note} <a href="../../about/#reader-feedback">How feedback is used</a>.</p>',
+    ]
+    review = manifest.get("comprehension")
+    if isinstance(review, dict):
+        lines.extend([
+            '<h3 id="reader-review-heading">Optional: what did you take from this?</h3>',
+            f'<p>{html.escape(str(review["intro"]))}</p>',
+            '<form class="reader-review" id="reader-review" novalidate>',
+        ])
+        for question in review["questions"]:  # type: ignore[index]
+            qid = html.escape(str(question["id"]))
+            lines.extend([
+                '<p class="reader-feedback__field">',
+                f'<label for="reader-review-{qid}">{html.escape(str(question["prompt"]))}</label>',
+                f'<textarea id="reader-review-{qid}" name="{qid}" rows="3" maxlength="2000"></textarea>',
+                "</p>",
+            ])
+        familiarity = review.get("familiarity")
+        if isinstance(familiarity, dict):
+            lines.extend([
+                '<fieldset class="reader-feedback__choices">',
+                f'<legend>{html.escape(str(familiarity["prompt"]))} (optional)</legend>',
+            ])
+            for option in familiarity["options"]:  # type: ignore[index]
+                value = html.escape(str(option["value"]))
+                lines.append(
+                    f'<label><input type="radio" name="familiarity" value="{value}"> '
+                    f'{html.escape(str(option["label"]))}</label>'
+                )
+            lines.append("</fieldset>")
+        lines.extend([
+            '<div hidden><label>Leave this field empty <input type="text" name="website" '
+            'autocomplete="off" tabindex="-1"></label></div>',
+            '<p><button type="submit" class="reader-feedback__submit">Send my answers</button></p>',
+            '<p class="reader-feedback__status" role="status" aria-live="polite"></p>',
+            "</form>",
+        ])
+    lines.append("</section>")
+    return lines
+
+
 # --------------------------------------------------------------------------
 # page rendering
 # --------------------------------------------------------------------------
@@ -508,9 +647,15 @@ def render_sutta_page(
     previous: TranslationSurface | None,
     following: TranslationSurface | None,
     guide: dict[str, object] | None = None,
+    feedback_config: dict[str, object] | None = None,
+    term_records: list[dict[str, object]] | None = None,
 ) -> str:
     meta = reader_meta(surface)
     body = surface_body(surface.main_path.read_text(encoding="utf-8"))
+    feedback_config = (
+        feedback_config if feedback_config is not None else reader_feedback.load_config()
+    )
+    feedback_enabled = surface.key in reader_feedback.enabled_surfaces(feedback_config)
     words, minutes = reading_stats(body)
     stage_name = dict((n, t) for n, t, _ in STAGES)[meta.stage]
 
@@ -543,6 +688,12 @@ def render_sutta_page(
         lines.append(intro.strip() if intro else DEFAULT_INTRO)
     lines.extend(["", "## Translation", "", body, ""])
     lines.extend(render_terms_panel(entries))
+    if feedback_enabled:
+        manifest = feedback_manifest(
+            surface, body, glossary, entries, guide, intro, feedback_config, term_records,
+        )
+        lines.extend([""] + render_feedback_section(manifest))
+        lines.extend(["", reader_feedback.manifest_script(manifest)])
     lines.extend([""] + render_source_status(surface))
     lines.extend(["", "---", ""])
     lines.extend(render_reading_nav(previous, following))
@@ -940,6 +1091,8 @@ def planned_files() -> dict[Path, str]:
     """Every file the generator owns, mapped to its intended content."""
     glossary = load_glossary()
     guides = load_newcomer_guides(glossary)
+    feedback_config = reader_feedback.load_config()
+    term_records = load_term_records()
     ordered = surfaces_in_reading_order()
     planned: dict[Path, str] = {
         READER_DIR / "index.md": render_home(),
@@ -957,6 +1110,8 @@ def planned_files() -> dict[Path, str]:
             ordered[position - 1] if position else None,
             ordered[position + 1] if position + 1 < len(ordered) else None,
             guides.get(surface.key),
+            feedback_config,
+            term_records,
         )
     return planned
 

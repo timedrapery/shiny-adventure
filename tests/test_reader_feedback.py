@@ -137,5 +137,104 @@ class ManifestScriptTests(unittest.TestCase):
         self.assertEqual(json.loads(body)["x"], "</script><b>")
 
 
+generate_reader = load_module("generate_reader", "scripts/generate_reader.py")
+build_book = load_module("build_book", "scripts/build_book.py")
+
+
+def manifest_from_page(text: str) -> dict | None:
+    marker = 'id="reader-feedback-manifest">'
+    if marker not in text:
+        return None
+    body = text.split(marker, 1)[1].split("</script>", 1)[0]
+    return json.loads(body)
+
+
+class GeneratedPageTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.planned = generate_reader.planned_files()
+        cls.pages = {
+            path.name: content for path, content in cls.planned.items()
+            if path.parent.name == "suttas"
+        }
+
+    def test_manifest_and_section_appear_only_on_enabled_pages(self) -> None:
+        enabled = {surface(k).main_name for k in reader_feedback.enabled_surfaces()}
+        for name, content in self.pages.items():
+            has_manifest = manifest_from_page(content) is not None
+            self.assertEqual(has_manifest, name in enabled, name)
+            self.assertEqual('class="reader-feedback"' in content, name in enabled, name)
+
+    def test_manifest_carries_the_version_evidence(self) -> None:
+        manifest = manifest_from_page(self.pages["sn36-6-salla-sutta.md"])
+        sn = surface("sn36_6")
+        self.assertEqual(manifest["surface_key"], "sn36_6")
+        self.assertEqual(manifest["body_sha256"], sn.readability_review.body_sha256)
+        self.assertEqual(manifest["page_path"], "suttas/sn36-6-salla-sutta/")
+        self.assertIsNone(manifest["endpoint"])
+        self.assertEqual(manifest["introduction"]["kind"], "guide")
+        self.assertEqual(len(manifest["introduction"]["version"]), 12)
+        self.assertEqual(manifest["comprehension"]["version"], 1)
+        self.assertEqual(manifest["comprehension"]["editorial_status"], "draft")
+        self.assertEqual([q["role"] for q in manifest["comprehension"]["questions"]],
+                         ["paraphrase", "specific", "reread"])
+        self.assertNotIn("assessment_guidance", json.dumps(manifest))
+
+    def test_passages_match_the_map_and_carry_term_basis(self) -> None:
+        manifest = manifest_from_page(self.pages["sn36-6-salla-sutta.md"])
+        mapping = paragraph_ids.load_map(paragraph_ids.map_path("sn36_6"))
+        self.assertEqual([p["id"] for p in manifest["passages"]],
+                         [e["id"] for e in mapping["passages"]])
+        by_id = {p["id"]: p for p in manifest["passages"]}
+        # p009 is a governed SN 36.6 phrase record, mapped explicitly.
+        self.assertIn({"id": "sn36-6-two-feelings-painful-feeling", "basis": "explicit"},
+                      by_id["p009"]["terms"])
+        # p001 names "ordinary person", which the words-used panel links to
+        # puthujjana; the explicit map already lists it, so it is not repeated.
+        ids = [t["id"] for t in by_id["p001"]["terms"]]
+        self.assertEqual(ids.count("puthujjana"), 1)
+        # A verse with no governed rendering stays honestly unmapped.
+        self.assertEqual(by_id["p036"]["mapping"], "unmapped")
+        self.assertEqual(by_id["p036"]["terms"], [])
+        bases = {t["basis"] for p in manifest["passages"] for t in p["terms"]}
+        self.assertTrue(bases <= {"explicit", "glossary"})
+
+    def test_glossary_versions_join_to_governed_terms_where_a_record_exists(self) -> None:
+        manifest = manifest_from_page(self.pages["sn36-6-salla-sutta.md"])
+        self.assertEqual(manifest["glossary"]["ordinary person"]["term_id"], "puthujjana")
+        self.assertEqual(len(manifest["glossary"]["ordinary person"]["version"]), 12)
+
+    def test_feedback_section_is_hidden_until_the_service_answers(self) -> None:
+        page = self.pages["sn36-6-salla-sutta.md"]
+        self.assertIn('<section class="reader-feedback" id="reader-feedback" hidden', page)
+        self.assertIn('<form class="reader-review" id="reader-review" novalidate>', page)
+        self.assertIn('<label for="reader-review-arrows">', page)
+        self.assertIn("How feedback is used", page)
+
+    def test_governed_body_is_unchanged_by_feedback(self) -> None:
+        sn = surface("sn36_6")
+        body = generate_reader.surface_body(sn.main_path.read_text(encoding="utf-8"))
+        self.assertIn(body, self.pages["sn36-6-salla-sutta.md"])
+
+    def test_epub_drops_feedback_furniture(self) -> None:
+        stripped = build_book.strip_web_furniture(self.pages["sn36-6-salla-sutta.md"])
+        self.assertNotIn("reader-feedback", stripped)
+        self.assertNotIn("<script", stripped)
+        self.assertIn("### Two Arrows", stripped)
+
+    def test_a_stale_map_stops_generation_with_a_repair_hint(self) -> None:
+        sn = surface("sn36_6")
+        glossary = generate_reader.load_glossary()
+        body = generate_reader.surface_body(sn.main_path.read_text(encoding="utf-8"))
+        entries = generate_reader.glossary_for_page(body, glossary)
+        config = reader_feedback.load_config()
+        with self.assertRaises(ValueError) as caught:
+            generate_reader.feedback_manifest(
+                sn, body.replace("Two Arrows", "Two Arrows\n\nAn added passage."),
+                glossary, entries, None, None, config,
+            )
+        self.assertIn("paragraph_ids.py --write", str(caught.exception))
+
+
 if __name__ == "__main__":
     unittest.main()

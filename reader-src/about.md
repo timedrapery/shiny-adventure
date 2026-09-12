@@ -103,6 +103,31 @@ Where a word is doing technical work, it is glossed rather than smoothed away.
 Open the words-used panel on any sutta, or see the [glossary](glossary.md).
 These definitions do not depend on hovering or using a mouse.
 
+## Reader feedback
+
+On some pages you can tell the editors where the reading got hard. A small
+"Give feedback" control follows each passage, the words-used panel asks
+whether an explanation helped, and a short optional review at the end of the
+page asks what you took from it. None of this needs an account, any knowledge
+of Pali, or a suggested rewording.
+
+What happens to it:
+
+- It goes to a private queue read only by the translation's editors.
+- It is used to find wording and explanations that readers stumble on, and to
+  decide what to revise. Recurring problems with the same word across several
+  texts inform the shared term decisions.
+- It is stored with the exact passage you saw and the version of the text at
+  that time, so a later revision can be checked against it.
+- It is not published, it is not posted to the public repository, and it never
+  changes a translation by itself. An editor reads it, decides, and records why.
+- No name, email address, or account is collected. The service keeps only what
+  you type, the page and passage, and the time. Feedback is deleted on the
+  schedule the operator publishes with the service.
+
+Public feedback is not counted as a formal review. Formal reviews with
+newcomers are run in sessions with a facilitator and recorded separately.
+
 ## Reading it yourself
 
 If you want the editorial layer — the term records, the translation notes, the

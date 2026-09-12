@@ -428,6 +428,188 @@
   }
 }
 
+/* Reader feedback. Controls are appended beside the governed text by
+   reader-feedback.js, only once the submission service answers. They stay
+   visually quiet until focused or hovered, but are always visible so touch
+   and keyboard users find them. */
+.reader-feedback__button {
+  margin-inline-start: 0.35em;
+  padding: 0.15em 0.4em;
+  min-height: 24px;
+  border: 0.05rem solid transparent;
+  border-radius: 0.2rem;
+  background: transparent;
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-size: 0.72em;
+  line-height: 1.4;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 0.2em;
+  cursor: pointer;
+  vertical-align: baseline;
+}
+
+.reader-feedback__button:hover,
+.reader-feedback__button:focus-visible,
+.reader-feedback__button[aria-expanded="true"] {
+  border-color: var(--md-default-fg-color--lighter);
+  background: var(--md-default-fg-color--lightest);
+  text-decoration-style: solid;
+}
+
+.reader-feedback__done {
+  margin-inline-start: 0.4em;
+  font-size: 0.78em;
+  color: var(--md-default-fg-color);
+}
+
+.reader-feedback__control {
+  margin-block: 0.4rem 1rem;
+}
+
+.reader-feedback__form,
+.reader-feedback,
+.reader-feedback__gloss {
+  margin-block: 0.8rem 1.4rem;
+  padding: 0.8rem 1rem;
+  border: 0.05rem solid var(--md-default-fg-color--lighter);
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+  font-size: 0.85rem;
+}
+
+.reader-feedback > :first-child,
+.reader-feedback__form > :first-child {
+  margin-top: 0;
+}
+
+.reader-feedback__gloss {
+  margin-block: 0.5rem 0.2rem;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.8em;
+}
+
+.reader-feedback__passage {
+  margin: 0 0 0.8rem;
+  padding-inline-start: 0.8rem;
+  border-inline-start: 0.2rem solid var(--md-default-fg-color--lighter);
+  color: var(--md-default-fg-color);
+  font-style: italic;
+}
+
+.reader-feedback__choices {
+  margin: 0 0 0.8rem;
+  padding: 0;
+  border: 0;
+  min-inline-size: 0;
+}
+
+.reader-feedback__choices legend {
+  padding: 0;
+  margin-bottom: 0.3rem;
+  font-weight: 600;
+}
+
+.reader-feedback__choices label {
+  display: block;
+  min-height: 44px;
+  padding-block: 0.3rem;
+  cursor: pointer;
+}
+
+.reader-feedback__choices--inline label {
+  display: inline-block;
+  margin-inline-end: 1rem;
+}
+
+.reader-feedback__choices input {
+  margin-inline-end: 0.4em;
+}
+
+.reader-feedback__field {
+  margin-block: 0.6rem;
+}
+
+.reader-feedback__field label {
+  display: block;
+  margin-bottom: 0.25rem;
+  font-weight: 600;
+}
+
+.reader-feedback__field textarea,
+.reader-feedback__field input[type="email"] {
+  display: block;
+  inline-size: 100%;
+  max-inline-size: 100%;
+  padding: 0.45rem 0.55rem;
+  border: 0.05rem solid var(--md-default-fg-color--light);
+  border-radius: 0.2rem;
+  background: var(--md-default-bg-color);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  resize: vertical;
+}
+
+.reader-feedback__actions {
+  margin-block: 0.6rem;
+}
+
+.reader-feedback__submit,
+.reader-feedback__cancel {
+  min-height: 44px;
+  padding: 0.4rem 1rem;
+  border: 0.05rem solid var(--md-default-fg-color--light);
+  border-radius: 0.2rem;
+  background: var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.reader-feedback__submit {
+  background: var(--md-typeset-a-color);
+  border-color: var(--md-typeset-a-color);
+  color: var(--md-primary-bg-color);
+}
+
+.reader-feedback__submit--small {
+  min-height: 36px;
+  padding: 0.25rem 0.7rem;
+  font-size: 0.9em;
+}
+
+.reader-feedback__submit[disabled],
+.reader-feedback__cancel[disabled] {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.reader-feedback__note,
+.reader-feedback__session {
+  color: var(--md-default-fg-color);
+  font-size: 0.85em;
+}
+
+.reader-feedback__status:empty {
+  display: none;
+}
+
+.reader-feedback__status {
+  margin-block: 0.4rem 0;
+  font-weight: 600;
+}
+
+.reader-feedback__status--error {
+  padding: 0.4rem 0.6rem;
+  border-inline-start: 0.2rem solid var(--md-default-fg-color);
+}
+
+.reader-review textarea {
+  min-block-size: 4.5rem;
+}
+
 @media print {
   @page {
     margin: 18mm;
@@ -469,7 +651,12 @@
   }
 
   .reading-order,
-  .reader-pagination {
+  .reader-pagination,
+  .reader-feedback,
+  .reader-feedback__button,
+  .reader-feedback__form,
+  .reader-feedback__gloss,
+  .reader-feedback__control {
     display: none;
   }
 
