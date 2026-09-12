@@ -1,6 +1,8 @@
 from __future__ import annotations
 
 import json
+import subprocess
+import sys
 import tempfile
 import unittest
 from pathlib import Path
@@ -150,9 +152,114 @@ class BaselineTests(unittest.TestCase):
         f = self.finding("Vivekajaṁ pītisukhaṁ", ("a", "One"), ("b", "two"))
         with tempfile.TemporaryDirectory() as tmpdir:
             path = Path(tmpdir) / "formula-baseline.json"
-            check.write_baseline([f], path)
+            check.write_baseline_document({str(f["pali"]): check.variant_key(f)}, path)
             loaded = check.load_baseline(path)
         self.assertEqual(loaded, {check.normalize_pali("vivekajaṃ pītisukhaṃ"): check.variant_key(f)})
+
+
+class BaselineMaintenanceTests(unittest.TestCase):
+    """Cleanup and accepting new debt are two different decisions."""
+
+    def finding(self, pali: str, *pairs: tuple[str, str]) -> dict[str, object]:
+        return {"pali": pali, "records": sorted(k for k, _t in pairs), "renderings": sorted(pairs)}
+
+    def setUp(self) -> None:
+        self.resolved = self.finding("x y", ("a", "one"), ("b", "two"))
+        self.still_broken = self.finding("p q", ("a", "three"), ("b", "four"))
+        self.new_debt = self.finding("m n", ("a", "five"), ("b", "six"))
+
+    def baseline_file(self, tmpdir: str, *findings: dict[str, object]) -> Path:
+        path = Path(tmpdir) / "formula-baseline.json"
+        check.write_baseline_document({str(f["pali"]): check.variant_key(f) for f in findings}, path)
+        return path
+
+    def test_pruning_removes_resolved_groups_and_nothing_else(self) -> None:
+        # The mixed case: one old disagreement is resolved while a new one
+        # appears. A cleanup must not absorb the new one -- that is how routine
+        # tidying silently increased the accepted backlog.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.baseline_file(tmpdir, self.resolved, self.still_broken)
+            regressions, stale = check.compare_to_baseline(
+                [self.still_broken, self.new_debt], check.load_baseline(path)
+            )
+            self.assertEqual([f["pali"] for f in regressions], ["m n"])
+            groups, removed = check.prune_baseline(check.load_baseline_document(path), stale)
+
+        self.assertEqual(removed, ["x y"])
+        self.assertEqual(sorted(groups), ["p q"])
+        self.assertNotIn("m n", groups)
+
+    def test_pruning_keeps_a_known_group_exactly_as_acknowledged(self) -> None:
+        # A changed variant set on a known group is a regression, so pruning
+        # must not quietly re-acknowledge it with its new English.
+        changed = self.finding("p q", ("a", "three"), ("b", "different now"))
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.baseline_file(tmpdir, self.still_broken)
+            _regressions, stale = check.compare_to_baseline([changed], check.load_baseline(path))
+            groups, _removed = check.prune_baseline(check.load_baseline_document(path), stale)
+
+        self.assertEqual(groups["p q"], check.variant_key(self.still_broken))
+
+    def test_accepting_new_debt_records_the_reason_and_the_groups(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.baseline_file(tmpdir, self.still_broken)
+            document = check.load_baseline_document(path)
+            groups, acknowledgements = check.accept_new_debt(
+                document, [self.still_broken, self.new_debt], [self.new_debt], "agreed with the editor"
+            )
+            check.write_baseline_document(groups, path, acknowledgements)
+            written = json.loads(path.read_text(encoding="utf-8"))
+
+        self.assertEqual(sorted(written["groups"]), ["m n", "p q"])
+        self.assertEqual(written["acknowledgements"][-1]["groups"], ["m n"])
+        self.assertIn("agreed with the editor", written["acknowledgements"][-1]["reason"])
+
+    def test_acknowledgement_history_is_kept(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.baseline_file(tmpdir, self.still_broken)
+            check.write_baseline_document(
+                {str(self.still_broken["pali"]): check.variant_key(self.still_broken)},
+                path,
+                [{"reason": "an older decision", "groups": ["p q"]}],
+            )
+            groups, acknowledgements = check.accept_new_debt(
+                check.load_baseline_document(path), [self.new_debt], [self.new_debt], "a new decision"
+            )
+
+        self.assertEqual([entry["reason"] for entry in acknowledgements], ["an older decision", "a new decision"])
+
+
+class BaselineCommandTests(unittest.TestCase):
+    REPO = Path(__file__).resolve().parent.parent
+
+    def run_check(self, *args: str) -> subprocess.CompletedProcess[str]:
+        return subprocess.run(
+            [sys.executable, "scripts/check_formula_agreement.py", *args],
+            cwd=self.REPO,
+            capture_output=True,
+            text=True,
+        )
+
+    def test_accepting_debt_without_a_reason_is_refused(self) -> None:
+        result = self.run_check("--accept-new-debt")
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("requires --reason", result.stdout)
+
+    def test_the_two_operations_cannot_be_combined(self) -> None:
+        result = self.run_check("--prune-baseline", "--accept-new-debt", "--reason", "no")
+
+        self.assertEqual(result.returncode, 1)
+        self.assertIn("separate operations", result.stdout)
+
+    def test_pruning_with_nothing_resolved_leaves_the_file_alone(self) -> None:
+        baseline = self.REPO / "reviews" / "formula-baseline.json"
+        before = baseline.read_bytes()
+
+        result = self.run_check("--prune-baseline")
+
+        self.assertEqual(result.returncode, 0)
+        self.assertEqual(baseline.read_bytes(), before)
 
 
 class ExceptionFileTests(unittest.TestCase):
