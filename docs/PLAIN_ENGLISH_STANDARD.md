@@ -104,6 +104,15 @@ review record.
   of five readers can state what happened and the practical point in their own
   words. The stored hash must still match the reviewed translation body.
 
+Human evidence is evidence about a particular text, so every read-aloud and
+newcomer review records the `body_sha256` of the body it was gathered against.
+Only evidence matching today's body counts toward the threshold: editing a
+validated translation does not inherit approval from readers who never saw the
+edit. Superseded records stay in the ledger as history and simply stop paying.
+Promotion is also enforced from the registry rather than from the ledger's own
+cohort list, so a surface cannot reach `validated` by being left out of the
+ledger.
+
 Website-level accessibility—including semantic structure, keyboard use,
 contrast, zoom and reflow, and screen-reader behavior—is tested at the reader
 template level. A readable body does not by itself prove that the surrounding

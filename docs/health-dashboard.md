@@ -171,7 +171,14 @@ or a named record whose English later drifts, is reported again.
 
 **What it measures.** What `reviews/newcomer-review-ledger.json` actually
 records: surfaces in the cohort, source-fidelity sign-offs, completed human
-read-alouds, newcomer reviews recorded, and surfaces validated.
+read-alouds, newcomer reviews recorded, newcomer reviews counting for the
+current body, and surfaces validated.
+
+Recorded and counting are two different numbers. A newcomer review is evidence
+about the body that reader actually read, so each record carries the
+`body_sha256` it was gathered against. Editing a translation leaves the older
+reviews in the ledger as history and stops them counting toward the threshold;
+reporting only the recorded total would show progress the gate does not credit.
 
 Every structural check on this dashboard can pass with all of these at zero.
 They are listed so that state is visible rather than inferred from silence.
