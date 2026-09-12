@@ -54,6 +54,7 @@ python scripts/lint_terms.py
 python scripts/check_translation_drift.py
 python scripts/audit_term_coverage.py
 python scripts/repo_health.py --top 10
+python scripts/health_dashboard.py --top 10
 ```
 
 Use script help when you are unsure about flags or output format:
