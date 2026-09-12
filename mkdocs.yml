@@ -32,6 +32,7 @@ extra_css:
 extra_javascript:
   - javascripts/reader-filters.js
   - javascripts/reader-guidance.js
+  - javascripts/reader-feedback.js
 
 markdown_extensions:
   - abbr

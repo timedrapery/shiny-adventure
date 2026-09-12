@@ -87,6 +87,17 @@ READING_NAV = re.compile(
     r"[^>]*>.*?</nav>\s*",
     re.IGNORECASE | re.DOTALL,
 )
+# Reader feedback is a website interaction: the hidden feedback section and
+# the JSON manifest that drives it have no meaning in a book.
+FEEDBACK_SECTION = re.compile(
+    r"\s*<section\b(?=[^>]*\bclass=[\"'][^\"']*\breader-feedback\b[^\"']*[\"'])"
+    r"[^>]*>.*?</section>\s*",
+    re.IGNORECASE | re.DOTALL,
+)
+FEEDBACK_MANIFEST = re.compile(
+    r"\s*<script\b[^>]*\bid=[\"']reader-feedback-manifest[\"'][^>]*>.*?</script>\s*",
+    re.IGNORECASE | re.DOTALL,
+)
 HEADING = re.compile(r"^(#{1,6})( )", re.M)
 BLANK_RUN = re.compile(r"\n{3,}")
 
@@ -128,6 +139,8 @@ def strip_web_furniture(text: str) -> str:
     text = SKIP_LINK_LINE.sub("", text)
     text = TERMS_DETAILS.sub("\n", text)
     text = READING_NAV.sub("\n", text)
+    text = FEEDBACK_SECTION.sub("\n", text)
+    text = FEEDBACK_MANIFEST.sub("\n", text)
     text = ABBR_LINE.sub("", text)
     # The website uses a separate Markdown page. In the combined manuscript,
     # link to the glossary heading so pandoc can rewrite it across EPUB splits.
