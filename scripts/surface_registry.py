@@ -521,12 +521,19 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "mn36": "2026-09-11",
 }
 
+# Surfaces that have cleared all three human evidence gates. A surface is
+# listed here only once `reviews/newcomer-review-ledger.json` carries the
+# evidence for the *current* body: `scripts/check_newcomer_reviews.py` fails
+# if this map and the ledger disagree in either direction, so promotion is a
+# two-key operation rather than a line edit.
+READABILITY_STATUS: dict[str, str] = {}
+
 TRANSLATION_SURFACES = tuple(
     replace(
         surface,
         readability_review=ReadabilityReview(
             standard="plain-english-v1",
-            status="provisional",
+            status=READABILITY_STATUS.get(surface.key, "provisional"),
             reviewed_on=READABILITY_REVIEWED_ON.get(surface.key, "2026-08-23"),
             body_sha256=READABILITY_BODY_SHA256[surface.key],
         ),

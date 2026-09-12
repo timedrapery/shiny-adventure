@@ -41,12 +41,15 @@ For each text:
 2. Ask the questions in the protocol and record the answers on the session
    sheet.
 3. Enter only the anonymous evidence fields in
-   `newcomer-review-ledger.json`.
+   `newcomer-review-ledger.json`, including the `body_sha256` of the body the
+   participant read.
 4. Complete one independent, full read-aloud pass and record hard-to-say or
-   hard-to-hear sentences.
+   hard-to-hear sentences, with the `body_sha256` that was read aloud.
 5. Run `python scripts/check_newcomer_reviews.py`.
 6. Revise only when evidence shows a recurring problem, update the body hash
-   when translation wording changes, and repeat affected reviews.
+   when translation wording changes, and repeat affected reviews. Earlier
+   records stay in the ledger as history and stop counting toward the
+   threshold; never edit an old record's hash to make it current.
 
 Do not invent, summarize from memory, or backfill participant evidence. Do not
 put names, contact details, demographic data, or private recruiting notes in

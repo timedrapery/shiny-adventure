@@ -50,15 +50,38 @@ Add a record to `reviews/newcomer-review-ledger.json`:
   "what_happened": "The participant's unprompted paraphrase.",
   "practical_point": "The participant's unprompted paraphrase.",
   "confusing_words": ["word or sentence, if any"],
-  "pass": true
+  "pass": true,
+  "body_sha256": "the hash of the body this reader actually read"
 }
 ```
 
+`body_sha256` is the hash of the translation body the participant was given.
+Get it for the current body with:
+
+```bash
+python - <<'EOF'
+from pathlib import Path
+from scripts.check_readability_reviews import translation_body_sha256
+print(translation_body_sha256(Path("docs/translations/an2-9-cariya-sutta.md")))
+EOF
+```
+
+Recording it is required; matching today's body is what makes the review count
+toward the threshold. When wording changes, the earlier records stay in the
+ledger as history and stop counting, and the gate needs fresh sessions. Do not
+edit an old record's hash to make it current — that claims a reader saw text
+they never saw.
+
 For a read-aloud review, add an anonymous reviewer label and dated observation
-under `human_read_aloud.reviewers`, then set that gate to `complete` only when
-the full text has been read aloud.
+under `human_read_aloud.reviewers`, record the `body_sha256` that was read
+aloud, then set that gate to `complete` only when the full text has been read
+aloud.
 
 Run `python scripts/check_newcomer_reviews.py`. The check rejects duplicate
-participants, incomplete evidence, a false promotion to `validated`, or a
-missing companion document. Once all three gates pass, change the surface's
-readability status to `validated` and update its body hash if wording changed.
+participants, incomplete evidence, evidence without the body it was gathered
+against, a false promotion to `validated`, or a missing companion document. It
+reads the promotion requirement from `scripts/surface_registry.py`, so a
+surface marked `validated` there must have a complete ledger record even if it
+is not listed in the cohort. Once all three gates pass, change the surface's
+readability status to `validated` in `READABILITY_STATUS` and update its body
+hash if wording changed.

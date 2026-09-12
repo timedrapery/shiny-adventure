@@ -251,7 +251,7 @@ def render_html(
     formulas = report.get("formula_agreement") or {"unexplained": 0, "waived": 0, "regressions": 0, "stale_baseline": 0, "groups": []}
     evidence = report.get("human_evidence") or {
         "surfaces": 0, "source_fidelity_complete": 0, "read_aloud_complete": 0,
-        "newcomer_reviews_recorded": 0, "surfaces_validated": 0,
+        "newcomer_reviews_recorded": 0, "newcomer_reviews_counting": 0, "surfaces_validated": 0,
     }
     formula_chip = status_chip(
         "critical" if formulas["regressions"] or formulas["stale_baseline"]
@@ -517,6 +517,8 @@ tr:last-child td {{ border-bottom: 0; }}
          ["Source fidelity signed off", fmt_int(evidence["source_fidelity_complete"])],
          ["Human read-aloud complete", fmt_int(evidence["read_aloud_complete"])],
          ["Newcomer reviews recorded", fmt_int(evidence["newcomer_reviews_recorded"])],
+         ["Newcomer reviews counting for the current body",
+          fmt_int(evidence.get("newcomer_reviews_counting", 0))],
          ["Surfaces validated", fmt_int(evidence["surfaces_validated"])]],
         empty="No ledger.")}</div>
 </section>

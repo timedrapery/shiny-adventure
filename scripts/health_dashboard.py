@@ -26,6 +26,7 @@ import subprocess
 import sys
 from collections import Counter
 from functools import lru_cache
+from typing import Callable
 from datetime import date, datetime
 from pathlib import Path
 
@@ -34,6 +35,8 @@ try:
         collect_governed_rendering_drift,
         load_translation_declarations,
     )
+    from scripts.check_readability_reviews import translation_body_sha256
+    from scripts.surface_registry import TRANSLATION_SURFACES
     from scripts.term_store import iter_term_files
     from scripts.text_utils import normalize_term, safe_text
 except ModuleNotFoundError:
@@ -41,6 +44,8 @@ except ModuleNotFoundError:
         collect_governed_rendering_drift,
         load_translation_declarations,
     )
+    from check_readability_reviews import translation_body_sha256  # type: ignore[no-redef]
+    from surface_registry import TRANSLATION_SURFACES  # type: ignore[no-redef]
     from term_store import iter_term_files
     from text_utils import normalize_term, safe_text
 
@@ -644,11 +649,35 @@ def collect_formula_agreement(terms: dict[str, dict[str, object]]) -> dict[str, 
     }
 
 
-def collect_human_evidence(reviews_dir: Path = REVIEWS_DIR) -> dict[str, object]:
+@lru_cache(maxsize=None)
+def registry_body_hash(key: str) -> str | None:
+    """The hash of the body a reader would be given today, or None if unreadable."""
+    for surface in TRANSLATION_SURFACES:
+        if surface.key == key:
+            path = REPO_ROOT / surface.main_relpath
+            if not path.is_file():
+                return None
+            try:
+                return translation_body_sha256(path)
+            except (OSError, ValueError):
+                return None
+    return None
+
+
+def collect_human_evidence(
+    reviews_dir: Path = REVIEWS_DIR,
+    current_hash: Callable[[str], str | None] = registry_body_hash,
+) -> dict[str, object]:
     """What human review has actually been recorded, from the newcomer ledger.
 
     Structural checks can all pass with this at zero. It is reported on its
     own so that state is visible rather than inferred from silence.
+
+    Recorded and counting are two different numbers. A review is evidence
+    about the body its reader actually read, so once a translation is edited
+    the older reviews stay in the ledger as history and stop counting toward
+    the threshold. Reporting only the recorded total would read as progress
+    that the gate does not in fact credit.
     """
     ledger_path = reviews_dir / "newcomer-review-ledger.json"
     empty = {
@@ -656,6 +685,7 @@ def collect_human_evidence(reviews_dir: Path = REVIEWS_DIR) -> dict[str, object]
         "source_fidelity_complete": 0,
         "read_aloud_complete": 0,
         "newcomer_reviews_recorded": 0,
+        "newcomer_reviews_counting": 0,
         "surfaces_validated": 0,
     }
     if not ledger_path.exists():
@@ -665,6 +695,19 @@ def collect_human_evidence(reviews_dir: Path = REVIEWS_DIR) -> dict[str, object]
     if not isinstance(surfaces, dict):
         return empty
     rows = [s for s in surfaces.values() if isinstance(s, dict)]
+
+    counting = 0
+    for key, row in surfaces.items():
+        if not isinstance(row, dict) or not isinstance(row.get("newcomer_reviews"), list):
+            continue
+        body_hash = current_hash(str(key))
+        if body_hash is None:
+            continue
+        counting += sum(
+            1
+            for review in row["newcomer_reviews"]
+            if isinstance(review, dict) and review.get("body_sha256") == body_hash
+        )
 
     def sub_complete(row: dict[str, object], key: str) -> bool:
         sub = row.get(key)
@@ -677,6 +720,7 @@ def collect_human_evidence(reviews_dir: Path = REVIEWS_DIR) -> dict[str, object]
         "newcomer_reviews_recorded": sum(
             len(r["newcomer_reviews"]) for r in rows if isinstance(r.get("newcomer_reviews"), list)
         ),
+        "newcomer_reviews_counting": counting,
         "surfaces_validated": sum(r.get("status") == LEDGER_TERMINAL_STATUS for r in rows),
     }
 
@@ -875,6 +919,7 @@ def render_dashboard(report: dict[str, object], *, top: int = 25) -> str:
         f"| Source fidelity signed off | {evidence['source_fidelity_complete']} |",
         f"| Human read-aloud complete | {evidence['read_aloud_complete']} |",
         f"| Newcomer reviews recorded | {evidence['newcomer_reviews_recorded']} |",
+        f"| Newcomer reviews counting for the current body | {evidence['newcomer_reviews_counting']} |",
         f"| Surfaces validated | {evidence['surfaces_validated']} |",
         "",
         "Source verification (`scripts/verify_example_sources.py`) is not reported",
@@ -1064,7 +1109,8 @@ def print_text_report(report: dict[str, object], *, top: int) -> None:
     print(
         f"- Cohort {evidence['surfaces']} | fidelity {evidence['source_fidelity_complete']} "
         f"| read-aloud {evidence['read_aloud_complete']} | newcomer reviews "
-        f"{evidence['newcomer_reviews_recorded']} | validated {evidence['surfaces_validated']}"
+        f"{evidence['newcomer_reviews_recorded']} ({evidence['newcomer_reviews_counting']} "
+        f"current) | validated {evidence['surfaces_validated']}"
     )
     print()
 

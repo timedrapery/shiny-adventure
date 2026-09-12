@@ -170,6 +170,7 @@ state is visible rather than inferred from silence.
 | Source fidelity signed off | 12 |
 | Human read-aloud complete | 0 |
 | Newcomer reviews recorded | 0 |
+| Newcomer reviews counting for the current body | 0 |
 | Surfaces validated | 0 |
 
 Source verification (`scripts/verify_example_sources.py`) is not reported
