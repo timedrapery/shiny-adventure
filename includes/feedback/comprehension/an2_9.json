@@ -1,0 +1,52 @@
+{
+  "surface_key": "an2_9",
+  "version": 1,
+  "editorial_status": "draft",
+  "drafted_on": "2026-09-12",
+  "approved_on": null,
+  "approval_evidence": null,
+  "intro": "Three short questions, answered in your own words. There are no right or wrong answers. Your answers help the editors see what the translation actually communicates.",
+  "questions": [
+    {
+      "id": "paraphrase",
+      "role": "paraphrase",
+      "prompt": "In your own words, what was this passage saying?"
+    },
+    {
+      "id": "qualities",
+      "role": "specific",
+      "prompt": "The text names two qualities that protect the world. In your own words, what does each of them do?"
+    },
+    {
+      "id": "reread",
+      "role": "reread",
+      "prompt": "Which wording, if any, made you stop and reread?"
+    }
+  ],
+  "familiarity": {
+    "ask": true,
+    "prompt": "How familiar are you with these teachings?",
+    "options": [
+      {"value": "new", "label": "New to these teachings"},
+      {"value": "some", "label": "Some familiarity"},
+      {"value": "very", "label": "Very familiar"},
+      {"value": "undisclosed", "label": "Prefer not to say"}
+    ]
+  },
+  "assessment_guidance": {
+    "paraphrase": "Accept any account that two inner qualities keep people respecting basic boundaries, and that without them people would behave like animals. Accept plain wording such as 'a sense of right and wrong' and 'thinking about consequences'. Do not require 'conscience' or 'moral caution'.",
+    "specific": {
+      "accept": [
+        "One is an inner sense that an action would be wrong or beneath you; the other is being aware of the harm or consequences it would cause.",
+        "Any wording that separates an inward reluctance from an outward awareness of harm, in either order."
+      ],
+      "not_required": "House terms. The family list. The animal comparison.",
+      "reject": [
+        "The two qualities are laws or punishments.",
+        "Both qualities are the same thing described twice.",
+        "The text is about religious rules for monks only."
+      ]
+    },
+    "reread": "Record the exact wording quoted. This question is diagnostic, not scored. Recurring quotes across readers identify a candidate revision; check whether the wording is a governed rendering before proposing a change to it."
+  }
+}

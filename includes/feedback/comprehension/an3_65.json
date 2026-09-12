@@ -1,0 +1,52 @@
+{
+  "surface_key": "an3_65",
+  "version": 1,
+  "editorial_status": "draft",
+  "drafted_on": "2026-09-12",
+  "approved_on": null,
+  "approval_evidence": null,
+  "intro": "Three short questions, answered in your own words. There are no right or wrong answers. Your answers help the editors see what the translation actually communicates.",
+  "questions": [
+    {
+      "id": "paraphrase",
+      "role": "paraphrase",
+      "prompt": "In your own words, what was this passage saying?"
+    },
+    {
+      "id": "deciding",
+      "role": "specific",
+      "prompt": "The Kālāmas do not know which teachers to believe. What does the Buddha tell them to go by instead?"
+    },
+    {
+      "id": "reread",
+      "role": "reread",
+      "prompt": "Which wording, if any, made you stop and reread?"
+    }
+  ],
+  "familiarity": {
+    "ask": true,
+    "prompt": "How familiar are you with these teachings?",
+    "options": [
+      {"value": "new", "label": "New to these teachings"},
+      {"value": "some", "label": "Some familiarity"},
+      {"value": "very", "label": "Very familiar"},
+      {"value": "undisclosed", "label": "Prefer not to say"}
+    ]
+  },
+  "assessment_guidance": {
+    "paraphrase": "Accept any account in which visiting teachers contradict one another, the community asks whom to trust, and the Buddha gives them a way to judge for themselves by results. Accept summaries that stop before the four consolations.",
+    "specific": {
+      "accept": [
+        "Look at what a teaching leads to when it is put into practice: whether it causes harm or benefit, whether it feeds greed, hatred, and confusion or their opposites.",
+        "Test it in your own experience rather than accepting it on tradition, reputation, logic, or loyalty to a teacher."
+      ],
+      "not_required": "Listing the ten grounds. House terms such as 'wholesome', 'unwholesome', 'dynamic balance', or 'consolation'.",
+      "reject": [
+        "Never trust any teacher or any tradition.",
+        "Go by whatever feels right to you.",
+        "Rely on reasoning alone."
+      ]
+    },
+    "reread": "Record the exact wording quoted. This question is diagnostic, not scored. Recurring quotes across readers identify a candidate revision; check whether the wording is a governed rendering before proposing a change to it."
+  }
+}
