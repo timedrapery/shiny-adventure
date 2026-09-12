@@ -248,12 +248,32 @@ def render_html(
         "no history" if not weeks_recorded else f"{weeks_recorded} weeks recorded",
     )
 
+    formulas = report.get("formula_agreement") or {"unexplained": 0, "waived": 0, "regressions": 0, "stale_baseline": 0, "groups": []}
+    evidence = report.get("human_evidence") or {
+        "surfaces": 0, "source_fidelity_complete": 0, "read_aloud_complete": 0,
+        "newcomer_reviews_recorded": 0, "surfaces_validated": 0,
+    }
+    formula_chip = status_chip(
+        "critical" if formulas["regressions"] or formulas["stale_baseline"]
+        else "warning" if formulas["unexplained"] else "good",
+        "outside baseline" if formulas["regressions"] else "acknowledged backlog" if formulas["unexplained"] else "all agree",
+    )
+    reviews_done = int(evidence["newcomer_reviews_recorded"])
+    evidence_chip = status_chip(
+        "good" if evidence["surfaces_validated"] else "warning" if reviews_done else "critical",
+        f"{evidence['surfaces_validated']} validated" if evidence["surfaces_validated"] else "no human evidence yet" if not reviews_done else "in progress",
+    )
+
     tiles = "".join(
         [
             stat_tile("Coverage by occurrence", fmt_pct(coverage["occurrence_coverage_pct"]),
                       f"{fmt_pct(surface_pct)} of {fmt_int(coverage['distinct_surfaces'])} distinct surfaces", cov_chip),
-            stat_tile("Drift findings", fmt_int(drift_total),
+            stat_tile("Declared-rendering conflicts", fmt_int(drift_total),
                       f"across {fmt_int(drift['declared_renderings'])} declared renderings", drift_chip),
+            stat_tile("Formula disagreements", fmt_int(formulas["unexplained"]),
+                      f"{fmt_int(formulas['waived'])} waived by exception", formula_chip),
+            stat_tile("Newcomer reviews recorded", fmt_int(reviews_done),
+                      f"{fmt_int(evidence['read_aloud_complete'])} read-alouds of {fmt_int(evidence['surfaces'])} surfaces", evidence_chip),
             stat_tile("Waiting for review", fmt_int(queue["total"]),
                       "candidates, drafts, and unfinished newcomer reviews", queue_chip),
             stat_tile("Weeks with a failure", fmt_int(failing_weeks) if weeks_recorded else "—",
@@ -472,6 +492,33 @@ tr:last-child td {{ border-bottom: 0; }}
     <div class="card"><h3>By waiting time</h3>{queue_chart}</div>
     <div class="card"><h3>Waiting ({fmt_int(queue['total'])})</h3>{queue_table}</div>
   </div>
+</section>
+
+<section aria-labelledby="formulas">
+  <div class="section-head">
+    <h2 id="formulas">Formula agreement</h2>
+    <p>Pali phrases quoted by more than one record whose English differs between them — a different question from declared-rendering conflicts, and kept separate so one zero cannot stand in for the other. {fmt_int(formulas['unexplained'])} unexplained, {fmt_int(formulas['waived'])} waived, {fmt_int(formulas['regressions'])} outside the acknowledged baseline.</p>
+  </div>
+  <div class="card"><h3>Disagreeing formulas</h3>{table(
+        ["Formula", "Records", "Renderings"],
+        [[mono(g["pali"]), fmt_int(len(g["records"])),
+          "<br>".join(f"{mono(k)} {escape(t)}" for k, t in g["renderings"])] for g in formulas["groups"][:top]],
+        empty="Every shared formula is rendered the same way wherever it is quoted.")}</div>
+</section>
+
+<section aria-labelledby="evidence">
+  <div class="section-head">
+    <h2 id="evidence">Human review evidence</h2>
+    <p>What the newcomer ledger actually records. Every structural check on this page can pass with these at zero. Source verification is not shown: it depends on a cache outside the repository.</p>
+  </div>
+  <div class="card"><h3>Newcomer ledger</h3>{table(
+        ["Measure", "Value"],
+        [["Surfaces in the cohort", fmt_int(evidence["surfaces"])],
+         ["Source fidelity signed off", fmt_int(evidence["source_fidelity_complete"])],
+         ["Human read-aloud complete", fmt_int(evidence["read_aloud_complete"])],
+         ["Newcomer reviews recorded", fmt_int(evidence["newcomer_reviews_recorded"])],
+         ["Surfaces validated", fmt_int(evidence["surfaces_validated"])]],
+        empty="No ledger.")}</div>
 </section>
 
 <section aria-labelledby="failures">

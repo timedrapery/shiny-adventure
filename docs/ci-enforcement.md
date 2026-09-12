@@ -20,10 +20,13 @@ CI now blocks merges on:
 - failed regression tests
 - any failure inside `python scripts/run_checks.py`
 
-Advisory, not yet blocking: `scripts/check_formula_agreement.py` reports Pali
-example phrases that several term records render differently. It runs inside
-`run_checks.py` without `--strict` until the existing disagreements are
-reconciled or waived with a rationale in `reviews/formula-exceptions.json`.
+Partly blocking: `scripts/check_formula_agreement.py` reports Pali example
+phrases that several term records render differently. The acknowledged backlog
+in `reviews/formula-baseline.json` is advisory; a disagreement outside it, a
+change to one inside it, or a resolved group still listed there fails the
+check. Intentional differences are waived, with pinned English and a
+rationale, in `reviews/formula-exceptions.json`. `--strict` fails on the
+backlog too.
 
 `python scripts/run_checks.py` is the single authoritative repository entrypoint.
 CI also runs the highest-signal checks individually so failures surface earlier

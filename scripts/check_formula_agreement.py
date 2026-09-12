@@ -37,6 +37,7 @@ except ModuleNotFoundError:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
 EXCEPTIONS_PATH = REPO_ROOT / "reviews" / "formula-exceptions.json"
+BASELINE_PATH = REPO_ROOT / "reviews" / "formula-baseline.json"
 
 # Records write the anusvāra both ways. Folding them is the difference
 # between seeing one shared formula and two unrelated phrases.
@@ -68,9 +69,13 @@ def load_terms(terms_dir: Path = TERMS_DIR) -> dict[str, dict[str, object]]:
 def load_exceptions(path: Path = EXCEPTIONS_PATH) -> dict[str, dict[str, object]]:
     """Waived disagreements, keyed by normalized Pali.
 
-    Each entry names the phrase, the records allowed to differ, and why. An
-    exception without a rationale is not an exception; it is a suppressed
-    finding, and it is rejected here.
+    An exception is a pinned editorial decision, not a mute button. Each
+    entry must name the phrase, a rationale, and `renderings`: the exact
+    English each named record is approved to use. That scope is what makes
+    the waiver mean something — a record the entry does not name, or a
+    named record whose English later drifts from what was approved, is
+    reported again rather than riding the old waiver. Two entries for the
+    same phrase are rejected instead of one silently winning.
     """
     if not path.exists():
         return {}
@@ -85,9 +90,22 @@ def load_exceptions(path: Path = EXCEPTIONS_PATH) -> dict[str, dict[str, object]
             continue
         pali = entry.get("pali")
         rationale = entry.get("rationale")
+        renderings = entry.get("renderings")
         if not isinstance(pali, str) or not isinstance(rationale, str) or not rationale.strip():
             raise ValueError(f"formula exception needs `pali` and a non-empty `rationale`: {entry!r}")
-        result[normalize_pali(pali)] = entry
+        if (
+            not isinstance(renderings, dict)
+            or not renderings
+            or not all(isinstance(k, str) and isinstance(v, str) and v.strip() for k, v in renderings.items())
+        ):
+            raise ValueError(
+                "formula exception needs `renderings`: a non-empty map of record key to the "
+                f"exact English that record is approved to use: {pali!r}"
+            )
+        key = normalize_pali(pali)
+        if key in result:
+            raise ValueError(f"duplicate formula exception for {pali!r}; merge the two entries")
+        result[key] = entry
     return result
 
 
@@ -131,11 +149,18 @@ def collect_disagreements(
         }
         exception = exceptions.get(normalized)
         if exception is not None:
-            allowed = exception.get("records")
-            if isinstance(allowed, list) and set(finding["records"]) - set(allowed):
-                # The exception names fewer records than actually disagree:
-                # a new copy of the formula has drifted since it was written.
-                finding["exception_gap"] = sorted(set(finding["records"]) - set(allowed))
+            approved = {k: canonical_rendering(v) for k, v in exception["renderings"].items()}
+            # A record the exception does not name has no approved English,
+            # and a named record whose English no longer matches what was
+            # approved has drifted since the decision was made. Either way
+            # the waiver does not cover what is actually on disk.
+            uncovered = sorted(
+                key
+                for key, _pali, translation in quotes
+                if key not in approved or canonical_rendering(translation) != approved[key]
+            )
+            if uncovered:
+                finding["exception_gap"] = sorted(set(uncovered))
                 unexplained.append(finding)
                 continue
             finding["rationale"] = exception["rationale"]
@@ -143,6 +168,67 @@ def collect_disagreements(
         else:
             unexplained.append(finding)
     return unexplained, waived
+
+
+def variant_key(finding: dict[str, object]) -> list[str]:
+    """The exact set of (record, English) pairs a disagreement consists of."""
+    return sorted(f"{key}\t{canonical_rendering(translation)}" for key, translation in finding["renderings"])
+
+
+def load_baseline(path: Path = BASELINE_PATH) -> dict[str, list[str]]:
+    """Known, not-yet-reconciled disagreements, keyed by normalized Pali.
+
+    The baseline is the acknowledged backlog. It lets the check block a
+    *new* disagreement, or a change to a known one, without first demanding
+    that all of the backlog be resolved. Gating on the total count would let
+    one fixed group pay for one freshly broken group; the variants are
+    recorded so that trade is visible instead.
+    """
+    if not path.exists():
+        return {}
+    with path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+    groups = data.get("groups") if isinstance(data, dict) else None
+    if not isinstance(groups, dict):
+        return {}
+    return {normalize_pali(pali): sorted(str(v) for v in variants) for pali, variants in groups.items()}
+
+
+def compare_to_baseline(
+    unexplained: list[dict[str, object]],
+    baseline: dict[str, list[str]],
+) -> tuple[list[dict[str, object]], list[str]]:
+    """Return (regressions, stale) against the baseline.
+
+    A regression is an unexplained disagreement the baseline does not list,
+    or lists with a different set of variants. A stale entry is a baseline
+    group no longer in disagreement: it has been resolved, and should be
+    removed so the file keeps describing the real backlog.
+    """
+    current = {normalize_pali(str(f["pali"])): f for f in unexplained}
+    regressions = [
+        f for key, f in current.items()
+        if key not in baseline or baseline[key] != variant_key(f)
+    ]
+    stale = sorted(key for key in baseline if key not in current)
+    return regressions, stale
+
+
+def write_baseline(unexplained: list[dict[str, object]], path: Path = BASELINE_PATH) -> None:
+    payload = {
+        "_comment": (
+            "Acknowledged formula disagreements, written by "
+            "`scripts/check_formula_agreement.py --update-baseline`. The check fails on any "
+            "disagreement not listed here or whose variants have changed, and on entries that "
+            "are no longer in disagreement. Resolve groups by editing the records, then rerun "
+            "with --update-baseline to drop them; never add to this file by hand to silence a finding."
+        ),
+        "groups": {str(f["pali"]): variant_key(f) for f in unexplained},
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as handle:
+        json.dump(payload, handle, ensure_ascii=False, indent=2)
+        handle.write("\n")
 
 
 def print_findings(unexplained: list[dict[str, object]], waived: list[dict[str, object]]) -> None:
@@ -168,7 +254,16 @@ def print_findings(unexplained: list[dict[str, object]], waived: list[dict[str, 
 
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--strict", action="store_true", help="Fail on unexplained disagreements.")
+    parser.add_argument(
+        "--strict",
+        action="store_true",
+        help="Fail on every unexplained disagreement, baseline or not.",
+    )
+    parser.add_argument(
+        "--update-baseline",
+        action="store_true",
+        help="Rewrite reviews/formula-baseline.json to the current unexplained set.",
+    )
     parser.add_argument("--json", action="store_true", help="Emit findings as JSON.")
     args = parser.parse_args()
 
@@ -184,14 +279,41 @@ def main() -> int:
 
     unexplained, waived = collect_disagreements(load_terms(), exceptions)
 
+    if args.update_baseline:
+        write_baseline(unexplained)
+        print(f"Wrote {len(unexplained)} acknowledged group(s) to {BASELINE_PATH.relative_to(REPO_ROOT).as_posix()}.")
+        return 0
+
+    regressions, stale = compare_to_baseline(unexplained, load_baseline())
+
     if args.json:
-        json.dump({"unexplained": unexplained, "waived": waived}, sys.stdout, ensure_ascii=True, indent=2)
+        json.dump(
+            {"unexplained": unexplained, "waived": waived, "regressions": regressions, "stale_baseline": stale},
+            sys.stdout,
+            ensure_ascii=True,
+            indent=2,
+        )
         sys.stdout.write("\n")
     elif not unexplained:
         print(f"Formula agreement check passed ({len(waived)} waived by exception).")
     else:
         print_findings(unexplained, waived)
 
+    # The backlog is advisory; a change to it is not. A new disagreement, a
+    # changed one, or a resolved one still listed in the baseline all fail,
+    # so the repairs already made stay made.
+    if regressions:
+        print(f"\nNew or changed disagreements not in the baseline ({len(regressions)}):")
+        for finding in regressions:
+            print(f"- {safe_text(finding['pali'])}")
+        print("Reconcile the records, add a scoped exception, or acknowledge with --update-baseline.")
+    if stale:
+        print(f"\nBaseline entries no longer in disagreement ({len(stale)}); run --update-baseline to drop them:")
+        for key in stale:
+            print(f"- {safe_text(key)}")
+
+    if regressions or stale:
+        return 1
     if unexplained and args.strict:
         return 1
     return 0

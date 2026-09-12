@@ -223,6 +223,77 @@ class CheckHistoryTests(unittest.TestCase):
         self.assertEqual(backfill_check_history.count_failures("Missing dependency"), 1)
 
 
+class SeparateMeasuresTests(unittest.TestCase):
+    """Drift, formula agreement, and human evidence are different questions."""
+
+    def test_formula_disagreements_are_counted_apart_from_drift(self) -> None:
+        # Two records quote one formula with different English. Drift (a
+        # document-vs-record question) has nothing to say; formula agreement
+        # must still report it.
+        terms = {
+            "piti": make_record("piti", example_phrases=[{"pali": "vivekajaṃ pītisukhaṃ", "translation": "a"}]),
+            "sukha": make_record("sukha", example_phrases=[{"pali": "vivekajaṃ pītisukhaṃ", "translation": "b"}]),
+        }
+        report = health_dashboard.build_report(
+            terms, translations_dir=Path("does-not-exist"), history_path=Path("does-not-exist")
+        )
+        self.assertEqual(report["drift"]["findings_total"], 0)
+        self.assertEqual(report["formula_agreement"]["unexplained"], 1)
+        self.assertEqual(report["formula_agreement"]["groups"][0]["records"], ["piti", "sukha"])
+
+    def test_human_evidence_reads_the_ledger_counts(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            reviews = Path(tmpdir)
+            (reviews / "newcomer-review-ledger.json").write_text(
+                json.dumps(
+                    {
+                        "surfaces": {
+                            "a": {
+                                "status": "validated",
+                                "source_fidelity": {"status": "complete"},
+                                "human_read_aloud": {"status": "complete"},
+                                "newcomer_reviews": [{}, {}, {}],
+                            },
+                            "b": {
+                                "status": "recruiting",
+                                "source_fidelity": {"status": "complete"},
+                                "human_read_aloud": {"status": "pending"},
+                                "newcomer_reviews": [],
+                            },
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+            evidence = health_dashboard.collect_human_evidence(reviews)
+        self.assertEqual(
+            evidence,
+            {
+                "surfaces": 2,
+                "source_fidelity_complete": 2,
+                "read_aloud_complete": 1,
+                "newcomer_reviews_recorded": 3,
+                "surfaces_validated": 1,
+            },
+        )
+
+    def test_missing_ledger_reports_zeros_not_an_error(self) -> None:
+        evidence = health_dashboard.collect_human_evidence(Path("does-not-exist"))
+        self.assertEqual(evidence["surfaces"], 0)
+        self.assertEqual(evidence["newcomer_reviews_recorded"], 0)
+
+    def test_markdown_shows_both_sections(self) -> None:
+        report = health_dashboard.build_report(
+            {"citta": make_record("citta")},
+            translations_dir=Path("does-not-exist"),
+            history_path=Path("does-not-exist"),
+        )
+        rendered = health_dashboard.render_dashboard(report)
+        self.assertIn("## Formula agreement", rendered)
+        self.assertIn("## Human review evidence", rendered)
+        self.assertIn("| Newcomer reviews recorded |", rendered)
+
+
 class RenderTests(unittest.TestCase):
     def test_dashboard_renders_every_section(self) -> None:
         report = health_dashboard.build_report(
