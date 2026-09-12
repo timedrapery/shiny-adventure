@@ -306,7 +306,7 @@ The first discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Two Kinds of Thinking](mn19-dvedhavitakka-sutta.md)
+- [← Could This Be the Path to Awakening?](mn36-mahasaccaka-sutta.md)
 - [All suttas](index.md)
 - [Seven Ways to Handle What Erodes the Mind →](mn2-sabbasava-sutta.md)
 
