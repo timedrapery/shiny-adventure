@@ -58,6 +58,9 @@ DESCRIPTIVE_SLUG_SUFFIX = "formula"
 # Those declarations are the only place a document says, in machine-readable
 # form, which English it means to use for a given headword.
 RENDERING_DECLARATION = re.compile(r"`([^`]+)`\s*(?:is rendered|→)\s*`([^`]+)`")
+# The right side of a declaration is English; Pali there means the arrow is
+# doing some other job, such as spelling out a dependent-arising link.
+PALI_DIACRITIC = re.compile(r"[āīūṁṃṅñṭḍṇḷṛś]", re.IGNORECASE)
 
 
 def stem_key(value: str) -> str:
@@ -422,6 +425,13 @@ def load_translation_declarations(
         for match in RENDERING_DECLARATION.finditer(text):
             headword = re.sub(r"\s+", " ", match.group(1)).strip()
             rendering = re.sub(r"\s+", " ", match.group(2)).strip()
+            # A rendering is English. An arrow with Pali on both sides is a
+            # different notation entirely: SN 12.20's notes write the
+            # dependent-arising chain as `avijjā` → `saṅkhārā`, and reading
+            # that as "avijjā is rendered saṅkhārā" produced two drift
+            # findings against words that were never mistranslated.
+            if PALI_DIACRITIC.search(rendering):
+                continue
             if headword and rendering:
                 found.append((headword, rendering))
         if found:

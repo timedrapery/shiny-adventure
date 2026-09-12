@@ -65,6 +65,8 @@ generating script first.
 
 - `python scripts/repo_health.py --top 10`
   Reports repository health signals for editorial scalability and automation.
+- `python scripts/check_formula_agreement.py`
+  Reports Pali example phrases that more than one term record quotes with different English. Advisory in `run_checks.py`; `--strict` makes it a gate. Scoped waivers live in `reviews/formula-exceptions.json` and must carry a rationale.
 - `python scripts/health_dashboard.py --top 10`
   Reports corpus coverage, declared-rendering drift, review-queue latency, and weekly schema and lint failures. Add `--write` to regenerate `docs/generated/health-dashboard.md`, or `--format html` for a self-contained page with charts.
 - `python scripts/backfill_check_history.py`
@@ -176,7 +178,7 @@ These modules are support code, not standalone workflow entry points.
 
 ## Starting Points
 
-- Editing term data: run `validate_terms.py`, `lint_terms.py`, and `check_translation_drift.py`.
+- Editing term data: run `validate_terms.py`, `lint_terms.py`, `check_translation_drift.py`, and `check_formula_agreement.py` when the record quotes a shared formula.
 - Checking repository surface quality: run `check_docs_integrity.py`.
 - Checking overall repository maturity: run `repo_health.py` and `audit_term_coverage.py`.
 - Checking editorial throughput and coverage trends: run `health_dashboard.py`.
