@@ -30,6 +30,9 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     # Advisory, not a gate. Several register signals have legitimate exceptions
     # recorded as context_rules, so this reports without --strict.
     ("Plain English audit", [sys.executable, "scripts/plain_english_audit.py", "--top", "5"]),
+    # Advisory until the existing disagreements are reconciled or waived in
+    # reviews/formula-exceptions.json; then promote to --strict.
+    ("Formula agreement", [sys.executable, "scripts/check_formula_agreement.py"]),
     ("Schema validation", [sys.executable, "scripts/validate_terms.py", "--strict"]),
     # Strict lint keeps structural warnings release-blocking in the combined flow.
     ("Editorial lint", [sys.executable, "scripts/lint_terms.py", "--strict"]),

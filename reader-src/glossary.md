@@ -162,7 +162,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>heart</dfn> <span class="glossary-pali" lang="pi">(citta)</span></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn> <span class="glossary-pali" lang="pi">(abhiññā)</span></dt>
-<dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
+<dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 </dl>
 
 ## I

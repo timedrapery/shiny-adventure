@@ -855,7 +855,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>higher knowing</dfn></dt>
-<dd>Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.</dd>
+<dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -937,7 +937,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[higher knowing]: Direct, personally realized understanding -- not a special power, just knowing something for yourself rather than taking it on faith.
+*[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.

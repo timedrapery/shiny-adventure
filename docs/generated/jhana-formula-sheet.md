@@ -2,14 +2,14 @@
 
 ## First mental theme
 
-- `vivekaja-piti-sukha` -> delight and ease born of seclusion
+- `vivekaja-piti-sukha` -> rejoicing and satisfaction born of seclusion
 
 ## Second mental theme
 
 - `avitakka-avicara` -> without thinking and pondering
 - `ajjhatta-sampasadana` -> inner clarity
 - `cetaso-ekodibhava` -> unification of mind
-- `samadhija-piti-sukha` -> delight and ease born of composure
+- `samadhija-piti-sukha` -> rejoicing and satisfaction born of composure
 
 ## Third mental theme
 

@@ -20,6 +20,11 @@ CI now blocks merges on:
 - failed regression tests
 - any failure inside `python scripts/run_checks.py`
 
+Advisory, not yet blocking: `scripts/check_formula_agreement.py` reports Pali
+example phrases that several term records render differently. It runs inside
+`run_checks.py` without `--strict` until the existing disagreements are
+reconciled or waived with a rationale in `reviews/formula-exceptions.json`.
+
 `python scripts/run_checks.py` is the single authoritative repository entrypoint.
 CI also runs the highest-signal checks individually so failures surface earlier
 and more clearly in pull requests.

@@ -82,14 +82,11 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 105 |
-| Declared renderings | 797 |
-| Findings | 2 |
+| Documents declaring renderings | 104 |
+| Declared renderings | 795 |
+| Findings | 0 |
 
-| Document | Headword | Kind | Declared | Preferred |
-| --- | --- | --- | --- | --- |
-| sn12-20-paccaya-sutta-notes.md | `avijjā` | unlisted | saṅkhārā | ignorance |
-| sn12-20-paccaya-sutta-notes.md | `jāti` | unlisted | jarāmaraṇa | birth |
+No declared rendering fights its record.
 
 ## Review queue
 

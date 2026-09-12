@@ -350,7 +350,7 @@ def collect_drift(
     phrase cannot be attributed to a headword without alignment this
     repository does not have.
     """
-    declarations = load_translation_declarations(translations_dir)
+    declarations = load_translation_declarations(translations_dir, terms)
     findings = collect_governed_rendering_drift(terms, declarations)
 
     by_kind: Counter[str] = Counter()

@@ -1,0 +1,4 @@
+{
+  "_comment": "Scoped waivers for scripts/check_formula_agreement.py. Each entry names a Pali phrase quoted by more than one term record, the records allowed to render it differently, and why. An entry without a rationale is rejected. Prefer reconciling the records; add an exception only when the difference is intentional and the context rule that produces it is cited here.",
+  "exceptions": []
+}
