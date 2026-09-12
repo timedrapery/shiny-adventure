@@ -143,6 +143,45 @@ is compared byte for byte by `scripts/check_generated_docs.py`. A day count
 would change every midnight and the file would be permanently stale. Run the
 script directly for live ages; they are in the JSON output too.
 
+## Formula agreement
+
+**What it measures.** Pali phrases quoted by more than one term record whose
+English differs between those records, from `scripts/check_formula_agreement.py`.
+
+This is a different question from drift. Drift asks whether a translation
+document's *declared* renderings fight their records; formula agreement asks
+whether the records agree *with each other*. Both can be true at once — zero
+declared conflicts and dozens of disagreeing formulas — which is why they are
+separate numbers and never combined into one score.
+
+**How the backlog is held.** `reviews/formula-baseline.json` lists every
+acknowledged, not-yet-reconciled group with its exact variants. The check
+fails on a disagreement outside that list, on a listed group whose variants
+changed, and on a listed group that has since been resolved (so the file keeps
+describing the real backlog). It does not fail on the acknowledged backlog
+itself. Gating on the count alone would let one fixed group pay for one newly
+broken one; recording the variants makes that trade visible instead.
+
+**Exceptions.** An intentional difference is waived in
+`reviews/formula-exceptions.json` by pinning the exact English each named
+record is approved to use, with a rationale. A record the entry does not name,
+or a named record whose English later drifts, is reported again.
+
+## Human review evidence
+
+**What it measures.** What `reviews/newcomer-review-ledger.json` actually
+records: surfaces in the cohort, source-fidelity sign-offs, completed human
+read-alouds, newcomer reviews recorded, and surfaces validated.
+
+Every structural check on this dashboard can pass with all of these at zero.
+They are listed so that state is visible rather than inferred from silence.
+
+**What is deliberately not here.** Source verification
+(`scripts/verify_example_sources.py`). Its results depend on a network cache
+that is outside the repository and ignored by git, so the same commit would
+not produce the same page and the freshness check could never accept it. Run
+it directly; making it reproducible is its own piece of work.
+
 ## Schema and lint failures per week
 
 **What it measures.** `validate_terms.py --strict` and `lint_terms.py

@@ -367,6 +367,20 @@ class RepoHealthTests(unittest.TestCase):
             declarations, {"sn12-20-notes.md": [("saṅkhāra", "what is put together")]}
         )
 
+    def test_an_explicit_is_rendered_claim_is_never_filtered(self) -> None:
+        # Only a bare arrow is ambiguous. `nirodha` is rendered `nibbāna` is
+        # an explicit — and wrong — translation claim, exactly what the drift
+        # check exists to catch, so the link filter must not swallow it.
+        terms = {
+            "nirodha": {"term": "nirodha", "normalized_term": "nirodha"},
+            "nibbana": {"term": "nibbāna", "normalized_term": "nibbana"},
+        }
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "notes.md"
+            path.write_text("`nirodha` is rendered `nibbāna`; `nirodha` → `nibbāna`.", encoding="utf-8")
+            declarations = repo_health.load_translation_declarations(Path(tmpdir), terms)
+        self.assertEqual(declarations, {"notes.md": [("nirodha", "nibbāna")]})
+
     def test_a_rendering_that_quotes_pali_is_still_a_declaration(self) -> None:
         # The link test must be structural, not orthographic: English
         # renderings quote Pali freely, and an untranslated headword maps to
