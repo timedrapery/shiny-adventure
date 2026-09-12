@@ -82,9 +82,17 @@ generating script first.
 - `python scripts/verify_example_sources.py --strict`
   Checks that each `example_phrase` cites a sutta that actually contains its
   Pali, by fetching the Bilara root text. Needs network access and is
-  deliberately outside `run_checks.py`. Strict mode rejects `partial` and
-  `absent` matches; `inflected` and `inconclusive` remain review signals rather
-  than automatic failures, and AN numbering differs between editions.
+  deliberately outside `run_checks.py`. Results are grouped by what they
+  establish: `exact` is verified; `compound` and `inflected` are real but
+  weaker relationships; `partial` and `absent` are failures; `inconclusive`,
+  `unfetched`, `unsupported`, and `source-changed` are unresolved. Matching is
+  on whole words, so a short quotation is not verified by a longer word that
+  happens to contain it. Strict mode fails on failures and on any unresolved
+  result not waived with a reason in
+  `reviews/source-verification-waivers.json`. Each source's digest is pinned in
+  `reviews/source-pins.json`; refresh it deliberately with `--update-pins`.
+  AN numbering differs between editions, so check a fetched sutta's title
+  before treating a failure as a wrong citation.
 - `python scripts/plain_english_audit.py`
   Reports plain-English readability signals in canonical translation surfaces, with guidance per signal. Generated reader copies are not double-counted. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
 - `python scripts/voice_consistency_audit.py`

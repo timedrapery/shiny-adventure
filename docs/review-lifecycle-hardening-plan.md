@@ -97,6 +97,24 @@ verified, failed, and unresolved reported separately, regression cases for the
 reported `dhammatā` and `sati` matches, and a precise statement of what remains
 uncovered. A gate is added only if its result is trustworthy and repeatable.
 
+**Outcome.** All three gaps were confirmed and closed. Matching is now on whole
+words, with `compound` as its own verdict for the real case of a word quoted
+from inside a longer one. Strict mode fails on failures *and* on unresolved
+results unless waived with a reason. Source digests are pinned, and a changed
+upstream text is reported rather than silently re-verified.
+
+Against the corpus (807 examples, 119 sources reachable from this environment):
+553 exact, 48 compound, 122 inflected, 0 partial, 0 absent, 56 inconclusive, 28
+unfetched. The 28 are SN and AN range bundles whose directory listing needs the
+GitHub contents API, which this environment does not reach; they are not
+failures, they are unresolved, and the report now says so.
+
+**Not wired into CI, on purpose.** The check needs network access to a moving
+upstream repository. A gate that fails when GitHub is unreachable would be
+worse than no gate, and pinning digests makes the check *more* sensitive to
+upstream movement, not less. It stays a deliberate run, and the pins make two
+deliberate runs comparable.
+
 ## 5. Prepare the three-text pilot for real participants
 
 AN 2.9, SN 36.6, and AN 3.65 are named in
