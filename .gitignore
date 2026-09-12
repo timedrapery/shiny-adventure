@@ -45,3 +45,4 @@ site/
 
 # Local transcript material used to derive the spoken-translation profile.
 .voice-source-cache/
+feedback-data/
