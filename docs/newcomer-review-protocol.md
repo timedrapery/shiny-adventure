@@ -51,7 +51,8 @@ Add a record to `reviews/newcomer-review-ledger.json`:
   "practical_point": "The participant's unprompted paraphrase.",
   "confusing_words": ["word or sentence, if any"],
   "pass": true,
-  "body_sha256": "the hash of the body this reader actually read"
+  "body_sha256": "the hash of the body this reader actually read",
+  "follow_up": false
 }
 ```
 
@@ -71,6 +72,23 @@ toward the threshold. When wording changes, the earlier records stay in the
 ledger as history and stop counting, and the gate needs fresh sessions. Do not
 edit an old record's hash to make it current — that claims a reader saw text
 they never saw.
+
+## Returning readers
+
+A participant may review more than one version of the same text, and the
+earlier record stays. What must be unique is the pair of participant and body:
+one record per person per version.
+
+A later session by someone who already read an earlier version is a follow-up,
+and records `follow_up: true` with `independent: false`. It counts as one of
+the five participants for that version — they did read it — but never toward
+the four independent passes. Someone who has read an earlier draft cannot give
+a first unprompted account of the text, and counting them as a fresh newcomer
+would inflate the only number the gate really rests on.
+
+Prefer new participants when you can get them. A follow-up is worth recording
+for a different reason: it shows whether a revision fixed the thing that
+confused that reader the first time, which a new reader cannot tell you.
 
 For a read-aloud review, add an anonymous reviewer label and dated observation
 under `human_read_aloud.reviewers`, record the `body_sha256` that was read
