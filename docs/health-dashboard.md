@@ -120,8 +120,9 @@ three shapes the repository stores review work:
 
 **Where the dates come from.** There is no timestamp in the term schema, so
 git is the clock: each item is dated from the commit that added it. Ledger
-surfaces use their recorded source-fidelity date where they have one, since
-the ledger does not record when a surface entered the queue.
+surfaces use their recorded source-fidelity date where they have one — or the
+date of a superseded sign-off, which is still when the surface entered the
+queue — since the ledger does not record entry directly.
 
 This is why CI checks out full history. A shallow clone does not fail on
 `git log` — it answers from its graft boundary, so anything added before that
@@ -161,6 +162,13 @@ changed, and on a listed group that has since been resolved (so the file keeps
 describing the real backlog). It does not fail on the acknowledged backlog
 itself. Gating on the count alone would let one fixed group pay for one newly
 broken one; recording the variants makes that trade visible instead.
+
+Two separate operations maintain that file, and the separation is the point.
+`--prune-baseline` removes groups that have been resolved; it removes only, and
+refuses to run while a regression is present. `--accept-new-debt --reason '...'`
+is the deliberate act of taking on a new or changed disagreement, and records
+why in the file. One command used to do both, so the routine cleanup after a
+repair could silently adopt a freshly broken group in the same keystroke.
 
 **Exceptions.** An intentional difference is waived in
 `reviews/formula-exceptions.json` by pinning the exact English each named

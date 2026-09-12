@@ -104,8 +104,9 @@ review record.
   of five readers can state what happened and the practical point in their own
   words. The stored hash must still match the reviewed translation body.
 
-Human evidence is evidence about a particular text, so every read-aloud and
-newcomer review records the `body_sha256` of the body it was gathered against.
+Human evidence is evidence about a particular text, so all three gates —
+source fidelity, read-aloud, and newcomer comprehension — record the
+`body_sha256` of the body they were gathered against.
 Only evidence matching today's body counts toward the threshold: editing a
 validated translation does not inherit approval from readers who never saw the
 edit. Superseded records stay in the ledger as history and simply stop paying.

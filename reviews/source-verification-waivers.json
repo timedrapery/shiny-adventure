@@ -1,0 +1,4 @@
+{
+  "_comment": "Unresolved source-verification results accepted on purpose, keyed by term record and example index, each with a reason. `scripts/verify_example_sources.py --strict` fails on any unresolved result that is not listed here. An unresolved result is one the checker could not settle either way -- it is not evidence of a good citation, and it is not evidence of a bad one.",
+  "waivers": []
+}

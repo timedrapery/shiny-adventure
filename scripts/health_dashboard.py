@@ -522,6 +522,14 @@ def collect_review_queue(
                 since = None
                 if isinstance(fidelity, dict):
                     completed = fidelity.get("completed_on")
+                    # A sign-off that could not be tied to the current body was
+                    # reopened, and its original date moved into the superseded
+                    # block. That date is still when this surface entered the
+                    # queue, so reading only the live field made seven surfaces
+                    # look newer than they are.
+                    superseded = fidelity.get("superseded_signoff")
+                    if not (isinstance(completed, str) and completed) and isinstance(superseded, dict):
+                        completed = superseded.get("completed_on")
                     if isinstance(completed, str) and completed:
                         since = completed
                 items.append(
