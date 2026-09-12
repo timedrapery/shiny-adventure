@@ -72,7 +72,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [anattanupassana](../../terms/minor/anattanupassana.json) | anattānupassanā | contemplation of not-self | reviewed | core-practice, meditative-development, three-marks |
 | [anenjabhisankhara](../../terms/minor/anenjabhisankhara.json) | aneñjābhisaṅkhāra | imperturbable constructing | reviewed | core-doctrine, dependent-origination |
 | [anicca-sabbe-sankhara](../../terms/minor/anicca-sabbe-sankhara.json) | aniccā sabbasaṅkhārā | all that has been put together is impermanent | reviewed | three-marks, formula, translation-sensitive |
-| [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | perception of impermanence | reviewed | meditative-development, liberation, three-marks |
+| [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | recognition of impermanence | reviewed | meditative-development, liberation, three-marks |
 | [aniccanupassana](../../terms/minor/aniccanupassana.json) | aniccānupassanā | contemplation of impermanence | reviewed | core-practice, meditative-development, three-marks |
 | [animitta-cetosamadhi](../../terms/minor/animitta-cetosamadhi.json) | animitta-cetosamadhi | signless composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
 | [animitta-samadhi](../../terms/minor/animitta-samadhi.json) | animitta-samadhi | signless samadhi | reviewed | liberation, meditative-development, emptiness-interface |

@@ -96,7 +96,7 @@ eightfold path. There are such bhikkhus in this Saṅgha.
 
 "In this Saṅgha there are bhikkhus devoted to developing friendliness,
 kindness towards others, gladness, dynamic balance, contemplation of the unattractive, and
-the perception of impermanence. There are such bhikkhus in this Saṅgha.
+the recognition of impermanence. There are such bhikkhus in this Saṅgha.
 
 "In this Saṅgha there are bhikkhus devoted to developing ānāpānasati
 (remembering the Dhamma while breathing in and out)."
