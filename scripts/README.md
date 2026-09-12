@@ -66,7 +66,7 @@ generating script first.
 - `python scripts/repo_health.py --top 10`
   Reports repository health signals for editorial scalability and automation.
 - `python scripts/check_formula_agreement.py`
-  Reports Pali example phrases that more than one term record quotes with different English. Fails on any disagreement outside the acknowledged backlog in `reviews/formula-baseline.json` (`--update-baseline` rewrites it after reconciling); `--strict` fails on the backlog too. Scoped waivers in `reviews/formula-exceptions.json` pin each record's approved English and must carry a rationale.
+  Reports Pali example phrases that more than one term record quotes with different English. Fails on any disagreement outside the acknowledged backlog in `reviews/formula-baseline.json`; `--strict` fails on the backlog too. The backlog is maintained by two separate operations: `--prune-baseline` drops groups that have been resolved and refuses to run while a regression is present, and `--accept-new-debt --reason '...'` is the deliberate act of taking on a new disagreement, recorded in the file. Scoped waivers in `reviews/formula-exceptions.json` pin each record's approved English and must carry a rationale.
 - `python scripts/health_dashboard.py --top 10`
   Reports corpus coverage, declared-rendering drift, review-queue latency, and weekly schema and lint failures. Add `--write` to regenerate `docs/generated/health-dashboard.md`, or `--format html` for a self-contained page with charts.
 - `python scripts/backfill_check_history.py`

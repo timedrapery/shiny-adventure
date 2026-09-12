@@ -64,9 +64,9 @@ on the strength of wanting it to hold.
 
 ## 3. Separate baseline cleanup from accepting new debt
 
-`--update-baseline` rewrites `reviews/formula-baseline.json` from every current
-disagreement, and the contributor documentation presents it as the normal step
-after repairs. The same keystroke that drops resolved groups can silently
+`--update-baseline` rewrote `reviews/formula-baseline.json` from every current
+disagreement, and the contributor documentation presented it as the normal step
+after repairs. The same keystroke that dropped resolved groups could silently
 accept a newly introduced one.
 
 **Intended behaviour.** Cleanup and acknowledgement become two operations:
