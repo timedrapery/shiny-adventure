@@ -41,6 +41,9 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
 POST_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     ("Coverage audit", [sys.executable, "scripts/audit_term_coverage.py"]),
     ("Repository health", [sys.executable, "scripts/repo_health.py", "--top", "10"]),
+    # Reporting only. The dashboard never fails the suite on its numbers;
+    # generated-doc freshness is what keeps the committed copy honest.
+    ("Editorial health dashboard", [sys.executable, "scripts/health_dashboard.py", "--top", "10"]),
 )
 
 
