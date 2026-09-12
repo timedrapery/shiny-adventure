@@ -201,5 +201,25 @@ class ExceptionFileTests(unittest.TestCase):
         self.assertIn(check.normalize_pali("vivekajaṃ pītisukhaṃ"), loaded)
 
 
+class JsonOutputTests(unittest.TestCase):
+    def test_json_mode_emits_one_parseable_document(self) -> None:
+        # The regression and stale-baseline summaries were printed after the
+        # JSON document, so the output no parser would accept -- found when a
+        # `--json | python -m json.tool` pipeline choked on it.
+        import io
+        import subprocess
+        import sys
+
+        result = subprocess.run(
+            [sys.executable, "scripts/check_formula_agreement.py", "--json"],
+            cwd=Path(__file__).resolve().parent.parent,
+            capture_output=True,
+            text=True,
+        )
+        payload = json.loads(result.stdout)
+        for key in ("unexplained", "waived", "regressions", "stale_baseline"):
+            self.assertIn(key, payload)
+
+
 if __name__ == "__main__":
     unittest.main()
