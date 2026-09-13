@@ -170,10 +170,15 @@ Two channels, never mixed:
 
 The reviewed export of a session includes only assessed, counted responses
 whose independence the facilitator recorded, and lists everything else as
-excluded with the reason. `scripts/stage_feedback_evidence.py` checks it
-against the ledger contract, gives returning readers a distinct ledger label,
-marks which records count against the current body, and appends only when
-`check_newcomer_reviews.py` still passes. Promotion to `validated` remains
+excluded with the reason. A returning participant is never independent: the
+service refuses to record it, the export says `follow_up: true`, and
+`scripts/stage_feedback_evidence.py` stages them under their earlier ledger
+label with `independent: false`, which the ledger checker counts as a
+participant and never as an independent pass. Responses to a draft question
+set stay exploratory: the staging script leaves them out unless an editor
+runs it with `--accept-draft-questions`, and that acceptance, the question
+version, and the question set hash are written on the staged record. The
+script appends only when `check_newcomer_reviews.py` still passes. Promotion to `validated` remains
 the two-key operation in the protocol; nothing in this path performs it.
 
 ## Running the whole workflow locally
@@ -222,9 +227,13 @@ The public site uses a transport instead of a hosted service:
 `includes/feedback/config.json` names a Google Form the editors own
 (`transport.form_action` and `transport.payload_field`). The page posts each
 submission as one JSON string into the form's single long-answer question.
-Readers see the same controls and messages; the browser cannot read the
-form's reply, so a completed request counts as received, and the client
-submission id lets the ingest step drop any retry duplicate.
+Readers see the same controls. The browser cannot read the form's reply, so
+the page says "sent", not "received", keeps the reader's text, and offers
+"Send again"; the client submission id stays the same, so a repeat is
+dropped on import. Receipt was verified end to end on 2026-09-13: two test
+submissions from the public SN 36.6 page reached the responses sheet and
+imported into the queue with the expected passage ids, fingerprints, body
+hash, and term mappings. Repeat that check after any change to the form.
 
 To read feedback: open the form's **Responses** tab, open the linked
 spreadsheet, download it as CSV, then

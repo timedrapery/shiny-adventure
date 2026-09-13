@@ -124,6 +124,11 @@ class Storage:
     def add_participant(self, session_id: int, label: str, kind: str,
                         returning_from: int | None = None,
                         independent: bool | None = None) -> sqlite3.Row:
+        # A returning reader has read an earlier version and cannot give a
+        # first unprompted account; the ledger records that as a follow-up
+        # with independent: false, so the service never stores otherwise.
+        if kind == "returning":
+            independent = False
         self.connection.execute(
             "INSERT INTO participants (session_id, label, kind, returning_from_participant_id, "
             "independent, created_at) VALUES (?, ?, ?, ?, ?, ?)",
@@ -148,6 +153,9 @@ class Storage:
         ))
 
     def set_participant_independent(self, participant_id: int, independent: bool | None) -> None:
+        row = self.participant_by_id(participant_id)
+        if row is not None and row["kind"] == "returning":
+            independent = False
         self.connection.execute(
             "UPDATE participants SET independent = ? WHERE id = ?",
             (None if independent is None else int(independent), participant_id),

@@ -1,8 +1,11 @@
 # Reader feedback service
 
-The submission service behind the reader's "Give feedback" controls. The
-reader site is static (MkDocs on GitHub Pages), so this small service is
-deployed separately and the page talks to it across origins.
+The maintainer queue behind the reader's "Give feedback" controls, and a
+submission endpoint for when a hosted mailbox is wanted. The reader site is
+static (MkDocs on GitHub Pages). Today the public page posts to a Google
+Form (see "Without hosting" below) and this service runs on the editor's
+machine over the imported responses; the endpoint path is kept for a later
+hosted deployment.
 
 Stack: Python 3.11+, standard library only, SQLite. The application is a
 plain WSGI callable, so it runs locally with `wsgiref` and in production
@@ -43,7 +46,26 @@ python -m feedback_service serve
 Everything below then applies to that local queue. The sheet's "Timestamp"
 becomes the receipt time; each row's payload is validated exactly as a live
 submission would be; rows whose client submission id is already stored are
-skipped.
+skipped, so importing the same download twice is safe.
+
+Operating routine for the form transport:
+
+- **Who imports**: the maintainer who owns the form. Import before each
+  editorial pass, and at least monthly while the pilot texts are live.
+- **Deletion applies in two places.** Deleting a row from the responses
+  sheet does not delete it from the local database, and `purge` or `delete`
+  here does not touch the sheet. To honour a deletion or the retention
+  period, run the purge here and clear the same rows from the sheet
+  (Responses → the sheet, or "Delete all responses" once everything has been
+  imported and backed up).
+- **Receipt is unconfirmed on the page.** The browser cannot read Google's
+  reply, so the reader is told "sent", not "received". Confirm the chain
+  yourself after any change to the form or the config: send one clearly
+  marked test submission from the public page, see it in the sheet, import
+  it, and then delete it from both places. This was done on 2026-09-13 for
+  SN 36.6 with two test submissions.
+- Keep the form's single Paragraph question and its "anyone with the link"
+  access as they are; either change breaks the post.
 
 ## Configuration
 
@@ -177,11 +199,12 @@ ledger, not by the service; purging the service does not remove it.
 `python -m feedback_service migrate` applies them without serving. Add a
 new numbered file for a schema change; never edit an applied one.
 
-## Deploying
+## Deploying a hosted endpoint (optional)
 
-The public site does not show feedback controls until
-`includes/feedback/config.json` carries the service's origin as `endpoint`
-and the reader is regenerated. Steps:
+The public site currently uses the Google Form transport and needs no
+hosted service. To move submissions to a hosted copy of this service
+instead, replace `transport` with `endpoint` in
+`includes/feedback/config.json` and regenerate. Steps:
 
 1. Choose a host that runs a Python WSGI app with a persistent disk (a small
    VM, a container platform with a volume, or a PaaS with persistent
@@ -201,4 +224,4 @@ and the reader is regenerated. Steps:
 6. Open the pilot page and confirm the controls appear and a test
    submission reaches the queue; then delete the test submission.
 
-Until step 5 is done the public site is unchanged.
+Until step 5 is done the public site keeps posting to the form.

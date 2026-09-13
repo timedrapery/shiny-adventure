@@ -363,13 +363,18 @@ def session_page(app: "FeedbackApp", user: str, session, notice: str) -> str:
                     earlier = f"{origin_session['code'] if origin_session else '?'} / {origin['label']}"
             independent = {None: "not recorded", 0: "no", 1: "yes"}[p["independent"]]
             link = f"?{urlencode({'session': code, 'participant': p['label']})}"
+            if p["kind"] == "returning":
+                control = '<span class="muted">follow-up: never independent</span>'
+            else:
+                control = (
+                    f'<form method="post" action="/admin/sessions/{h(code)}/participants/{h(p["label"])}/independent">'
+                    f'<input type="hidden" name="csrf" value="{h(token)}">'
+                    '<select name="independent"><option value="">not recorded</option><option value="1">yes, unprompted</option><option value="0">no, prompted</option></select> '
+                    '<button type="submit">Save</button></form>'
+                )
             body.append(
                 f"<tr><td>{h(p['label'])}</td><td>{h(p['kind'])}</td><td>{h(earlier)}</td><td>{h(independent)}</td>"
-                f"<td><code>&lt;reader page URL&gt;{h(link)}</code></td>"
-                f'<td><form method="post" action="/admin/sessions/{h(code)}/participants/{h(p["label"])}/independent">'
-                f'<input type="hidden" name="csrf" value="{h(token)}">'
-                '<select name="independent"><option value="">not recorded</option><option value="1">yes, unprompted</option><option value="0">no, prompted</option></select> '
-                '<button type="submit">Save</button></form></td></tr>'
+                f"<td><code>&lt;reader page URL&gt;{h(link)}</code></td><td>{control}</td></tr>"
             )
         body.append("</table>")
     else:
