@@ -411,7 +411,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (23)</summary>
+<summary>Words used in this translation (24)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -427,6 +427,8 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dt><dfn>discernment of qualities</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -492,6 +494,7 @@ Buddha had said.
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
+*[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.

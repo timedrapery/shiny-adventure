@@ -547,7 +547,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
 | [nacca-gita-vadita](../../terms/minor/nacca-gita-vadita.json) | naccagītavādita | dancing, singing, and music | reviewed | ethics |
-| [naga](../../terms/minor/naga.json) | naga | naga | reviewed | persons |
+| [naga](../../terms/minor/naga.json) | nāga | nāga | reviewed | persons, translation-sensitive |
 | [nakha](../../terms/minor/nakha.json) | nakha | nails | reviewed | embodiment, meditative-development |
 | [nama](../../terms/minor/nama.json) | nāma | name | reviewed | core-doctrine, dependent-origination |
 | [namarupa-nirodha](../../terms/minor/namarupa-nirodha.json) | namarupa-nirodha | quenching of name-and-form | reviewed | dependent-origination, liberation |
@@ -660,7 +660,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pasamsa](../../terms/minor/pasamsa.json) | pasaṃsā | praise | reviewed | worldly-conditions |
 | [pasannacitta](../../terms/minor/pasannacitta.json) | pasannacitta | clear-hearted mind | reviewed | core-practice |
 | [pasenadi](../../terms/minor/pasenadi.json) | Pasenadi | Pasenadi | reviewed | persons |
-| [passaddhi-sambojjhanga](../../terms/minor/passaddhi-sambojjhanga.json) | passaddhisambojjhaṅga | tranquility awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [passaddhi-sambojjhanga](../../terms/minor/passaddhi-sambojjhanga.json) | passaddhisambojjhaṅga | relaxation awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [patacara](../../terms/minor/patacara.json) | Paṭācārā | Paṭācārā | reviewed | persons |
 | [pathama-jhana](../../terms/minor/pathama-jhana.json) | paṭhama-jhāna | first mental theme | reviewed | meditative-development, jhana-factors |
 | [pathavi-dhatu](../../terms/minor/pathavi-dhatu.json) | pathavi-dhatu | earth element | reviewed | embodiment, core-doctrine |
@@ -701,7 +701,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pisuna-vaca](../../terms/minor/pisuna-vaca.json) | pisuna-vaca | divisive speech | reviewed | ethics, core-practice |
 | [pita-kasina](../../terms/minor/pita-kasina.json) | pīta-kasiṇa | yellow kasina | reviewed | meditative-development |
 | [pita](../../terms/minor/pita.json) | pitā | father | reviewed | persons |
-| [piti-sambojjhanga](../../terms/minor/piti-sambojjhanga.json) | pītisambojjhaṅga | delight awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [piti-sambojjhanga](../../terms/minor/piti-sambojjhanga.json) | pītisambojjhaṅga | rejoicing awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [pitta](../../terms/minor/pitta.json) | pitta | bile | reviewed | embodiment, meditative-development |
 | [pokkharasati](../../terms/minor/pokkharasati.json) | Pokkharasāti | Pokkharasāti | reviewed | persons |
 | [prajna](../../terms/minor/prajna.json) | prajñā | prajñā | reviewed | core-doctrine, translation-sensitive |

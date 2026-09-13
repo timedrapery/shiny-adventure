@@ -86,8 +86,8 @@ QUEUE: tuple[QueueItem, ...] = (
         "published 2026-09-13; both ranked orphan signals anchored, plus `dāna`, `saraṇa`, `saṅgha`",
     ),
     QueueItem(
-        "next", "SN 46.1", "Himavanta", 125, "—",
-        "one orphan anchor (`bojjhaṅga-bhāvanā`) and a compact awakening-factor practice",
+        "complete", "SN 46.1", "Himavanta", 125, "—",
+        "published 2026-09-13; completes Wave 10; its one ranked orphan signal was a phrase the discourse does not contain",
     ),
 )
 
@@ -99,6 +99,9 @@ METHOD_NOTES: tuple[str, ...] = (
     "AN 8.39 does not contain `veramaṇī` in any form, so the "
     "`kāmesu-micchācāra` citation that quoted it was repaired to the "
     "discourse's own `pahāya … paṭivirato hoti` wording.",
+    "SN 46.1 does not contain `bojjhaṅgabhāvanā`, the compound that ranked it. "
+    "Its running text is `satta bojjhaṅge bhāvento satta bojjhaṅge "
+    "bahulīkaronto`, which both citing records now quote.",
     "SN 50.1 and the other enumeration or peyyāla stubs remain formula or "
     "cluster-sheet work rather than reader translations.",
     "Longer one-anchor candidates such as DN 21 and DN 1 remain deferred.",
@@ -169,13 +172,22 @@ def render_table(report: dict[str, int]) -> str:
             f"| {item.position} | `{item.sutta}` {item.pali_title} "
             f"| {item.pali_words} words | {item.orphan_anchor} | {item.value} |"
         )
-    lines += [
-        "",
-        "After the last queue item, run a fresh audit rather than extending this",
-        "ranking. Every wave so far has found leverage signals that were wrong",
-        "until they were checked against the source.",
-        "",
-    ]
+    lines.append("")
+    if any(item.position == "next" for item in QUEUE):
+        lines += [
+            "After the last queue item, run a fresh audit rather than extending",
+            "this ranking. Every wave so far has found leverage signals that were",
+            "wrong until they were checked against the source.",
+        ]
+    else:
+        lines += [
+            "**Every item in this queue is published, and there is no next item.**",
+            "The next translation task is to run a fresh audit and build a new",
+            "queue from it. Do not extend this ranking: it was computed against a",
+            "61-surface corpus, and every wave so far has found leverage signals",
+            "that were wrong until they were checked against the source.",
+        ]
+    lines.append("")
     lines += [f"- {note}" for note in METHOD_NOTES]
     lines += [
         "",

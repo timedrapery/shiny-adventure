@@ -1,13 +1,36 @@
 {
-  "term": "naga",
+  "term": "nāga",
   "normalized_term": "naga",
   "entry_type": "minor",
   "part_of_speech": "noun",
-  "preferred_translation": "naga",
-  "definition": "A person-type, community, or being-class commonly named in Buddhist texts.",
+  "preferred_translation": "nāga",
+  "definition": "A class of great creature named in similes and narrative. The word covers both great serpents and elephants, and a given passage often does not settle which is meant.",
   "status": "reviewed",
-  "literal_meaning": "naga",
+  "literal_meaning": "nāga",
   "tags": [
-    "persons"
-  ]
+    "persons",
+    "translation-sensitive"
+  ],
+  "alternative_translations": [
+    "nāgas"
+  ],
+  "discouraged_translations": [
+    "dragon",
+    "elephant",
+    "serpent"
+  ],
+  "untranslated_preferred": true,
+  "notes": "Keep the word in Pali. Choosing an English animal resolves an ambiguity the sources usually leave open: at SN 46.1 the commentarial tradition reads elephants, while the creatures' migration down through pools and rivers into the ocean reads more naturally as serpents, and the discourse itself gives no way to decide. The reader glossary carries the short explanation instead. Do not use `nāga` as an honorific for a person in these translations; that sense belongs to separate epithet contexts and is not governed here.",
+  "example_phrases": [
+    {
+      "pali": "himavantaṁ pabbatarājānaṁ nissāya nāgā kāyaṁ vaḍḍhenti",
+      "translation": "relying on the Himalaya, the king of mountains, nāgas grow in body",
+      "notes": "The opening of SN 46.1's simile. Nothing in the discourse says whether these are serpents or elephants.",
+      "source": "SN 46.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 46.1"
+  ],
+  "gloss_on_first_occurrence": "nāga (a great creature of myth and simile)"
 }

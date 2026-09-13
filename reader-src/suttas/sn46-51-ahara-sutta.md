@@ -231,7 +231,7 @@ fulfillment."
 The first discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (15)</summary>
+<summary>Words used in this translation (18)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -247,6 +247,8 @@ The first discourse is finished.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>discernment-of-qualities</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>dull distraction</dfn></dt>
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
 <dt><dfn>five distractions</dfn></dt>
@@ -255,6 +257,10 @@ The first discourse is finished.
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
+<dt><dfn>relaxation</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn></dt>
@@ -283,7 +289,7 @@ The first discourse is finished.
 
 - [← What Makes a Genuine Renunciant?](mn39-maha-assapura-sutta.md)
 - [All suttas](index.md)
-- [What Is Fit to Call Self? →](sn22-59-anattalakkhana-sutta.md)
+- [Conduct Is Where Practice Grows →](sn46-1-himavanta-sutta.md)
 
 </nav>
 
@@ -295,10 +301,13 @@ The first discourse is finished.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[discernment-of-qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.

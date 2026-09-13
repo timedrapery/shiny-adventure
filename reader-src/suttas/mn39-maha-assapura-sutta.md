@@ -471,7 +471,7 @@ Buddha's words.
 The Greater Discourse at Assapura is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (38)</summary>
+<summary>Words used in this translation (41)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -499,6 +499,8 @@ The Greater Discourse at Assapura is finished.
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>conscience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>contact</dfn></dt>
@@ -539,8 +541,12 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>seclusion</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -587,6 +593,7 @@ The Greater Discourse at Assapura is finished.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[conscience]: This project's rendering of "hiri" -- the inward ethical sense that recoils from an action because it would violate one's integrity. It does not mean guilt or toxic shame.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
@@ -606,6 +613,7 @@ The Greater Discourse at Assapura is finished.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.

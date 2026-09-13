@@ -52,9 +52,28 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-09-13
 
-- 64 governed translation surfaces and 64 generated reader pages. AN 8.39
-  completes the third Wave 10 queue item; only SN 46.1 remains in the wave.
-- All 64 surfaces report no automated plain-English register signals.
+- 65 governed translation surfaces and 65 generated reader pages. AN 8.39 and
+  SN 46.1 close the Wave 10 queue. **Wave 10 is complete**, and the next
+  translation task is a fresh audit rather than another item from that
+  ranking.
+- All 65 surfaces report no automated plain-English register signals.
+- The SN 46.1 source audit found a sixth false citation of the familiar shape,
+  and the first one hidden behind an `inconclusive` verdict rather than an
+  `inflected` one. `bojjhaṅga-bhāvanā` and the `bojjhaṅga` major entry both
+  quoted the compound `bojjhaṅgabhāvanā` to SN 46.1, which contains no form of
+  `bhāvanā`; because the discourse uses peyyāla, the strict verifier could not
+  call it absent. Both records now quote running text. Open `inconclusive`
+  verdicts on short discourses by hand as well as `inflected` ones.
+- Two awakening-factor compound records contradicted their own headwords and
+  are repaired: `pītisambojjhaṅga` read `delight` where `pīti` records an
+  explicit bojjhaṅga rule for `rejoicing`, and `passaddhisambojjhaṅga` read
+  `tranquility` where `passaddhi` defaults to `relaxation`. Both translation
+  surfaces already followed the headwords. `check_translation_drift.py`
+  compares renderings across related entries and does not compare a compound
+  against the context rule of its own head.
+- Recorded but not fixed: the seven awakening factors are named one way in
+  SN 46.51 and another in MN 118. Both are defensible English and neither
+  contradicts a record, so no check sees it.
 - The AN 8.39 source audit found a fifth citation of the `inflected` shape.
   `kāmesu-micchācāra` cited `kāmesu micchācārā veramaṇī` to AN 8.39, which
   contains no form of `veramaṇī` at all. Repaired to the discourse's own

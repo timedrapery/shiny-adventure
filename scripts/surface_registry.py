@@ -325,6 +325,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn36-6-salla-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn46_1",
+        label="SN 46.1",
+        main_relpath="docs/translations/sn46-1-himavanta-sutta.md",
+        notes_relpath="docs/translations/sn46-1-himavanta-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn46_51",
         label="SN 46.51",
         main_relpath="docs/translations/sn46-51-ahara-sutta.md",
@@ -482,6 +488,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn45_2": "044d73b1c4a850b57400a297bad0fc923b9d8a75b48b4ff16295278264b03321",
     "sn45_8": "5fe5ee1ceca67b328fa74a22dae3939a2d2822e29371234b0e1a8320fc24588f",
     "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+    "sn46_1": "8646a31e6e3ee0931a6cd429e41f83cdf884d8503c76b2e4218cf48a4e7a92ef",
     "sn46_51": "089c5d05fdadf815ca6ab2fa0cbca72f7df0a9375d3fb5ba5d48544647584cb4",
     "sn48_10": "a7c91d4ed5b885b4e287022b0718eac6c0cf1e8bcbd17eab97776f39d01c90ec",
     "an2_9": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
@@ -527,6 +534,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "sn12_20": "2026-08-27",
     "mn36": "2026-09-11",
     "an8_39": "2026-09-13",
+    "sn46_1": "2026-09-13",
 }
 
 # Surfaces that have cleared all three human evidence gates. A surface is
@@ -905,6 +913,13 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves Distraction",
     ),
+    "sn46_1": ReaderMeta(
+        "Himavanta Sutta", 3, 13,
+        "Nāgas grow big enough for the ocean by first growing on a mountain. "
+        "Conduct is put in the mountain's place: it is what the seven "
+        "awakening factors get large on.",
+        reader_title="Conduct Is Where Practice Grows",
+    ),
     # Stage 4 -- Not-Self and Dependent Arising
     "sn22_59": ReaderMeta(
         "Anattalakkhaṇa Sutta", 4, 1,
@@ -1134,11 +1149,12 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9", "an3_69", "an4_5", "an8_39",
+        "an2_9", "an3_69", "an4_5", "an8_39", "sn46_1",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
-        "sn46_51", "sn51_13", "sn48_10", "mn119", "an11_12", "mn36",
+        "sn46_51", "sn46_1", "sn51_13", "sn48_10", "mn119", "an11_12",
+        "mn36",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1167,6 +1183,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
+        "sn46_1",
         "sn51_13", "sn48_10", "mn119", "an11_12",
     ),
     "Analysis": (

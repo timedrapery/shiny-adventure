@@ -782,7 +782,7 @@ Buddha's words.
 The eighth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (46)</summary>
+<summary>Words used in this translation (48)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -810,6 +810,8 @@ The eighth discourse is finished.
 <dd>Acting while plainly aware of what you are doing.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dependently arisen</dfn></dt>
@@ -848,6 +850,8 @@ The eighth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
 <dt><dfn>recluses</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>release of mind</dfn></dt>
 <dd>Release described from the mind or heart side of experience, often paired with release through discernment.</dd>
 <dt><dfn>release through discernment</dfn></dt>
@@ -914,6 +918,7 @@ The eighth discourse is finished.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
@@ -932,6 +937,7 @@ The eighth discourse is finished.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[release of mind]: Release described from the mind or heart side of experience, often paired with release through discernment.
 *[release through discernment]: Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.

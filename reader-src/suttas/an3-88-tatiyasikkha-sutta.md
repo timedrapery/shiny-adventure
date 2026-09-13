@@ -90,7 +90,7 @@ I tell you: none of these training rules is wasted."
 The eighth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (13)</summary>
+<summary>Words used in this translation (14)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -100,6 +100,8 @@ The eighth discourse is finished.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>final nibbāna</dfn></dt>
@@ -146,6 +148,7 @@ The eighth discourse is finished.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.

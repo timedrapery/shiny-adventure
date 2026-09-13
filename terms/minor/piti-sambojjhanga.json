@@ -3,13 +3,28 @@
   "normalized_term": "piti-sambojjhanga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "delight awakening factor",
+  "preferred_translation": "rejoicing awakening factor",
   "definition": "One of the seven awakening factors, named here in its specific form.",
   "status": "reviewed",
-  "literal_meaning": "awakening factor of delight",
+  "literal_meaning": "awakening factor of rejoicing",
   "tags": [
     "core-practice",
     "meditative-development",
     "mental-qualities"
+  ],
+  "alternative_translations": [
+    "delight awakening factor"
+  ],
+  "notes": "Inherit the `pīti` headword, which records an explicit rule that meditative-development and bojjhaṅga contexts take `rejoicing`. The record read `delight awakening factor` until 2026-09-13, contradicting that rule and both translation surfaces that list the seven factors; `delight` is kept only as the headword's explanatory alternate.",
+  "example_phrases": [
+    {
+      "pali": "pītisambojjhaṅgaṁ bhāveti",
+      "translation": "develops the rejoicing awakening factor",
+      "notes": "The running-text form in SN 46.1, where all seven factors are named in the same sentence shape.",
+      "source": "SN 46.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 46.1"
   ]
 }

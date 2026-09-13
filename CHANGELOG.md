@@ -8,6 +8,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 46.1, Himavanta Sutta, with
+  companion notes, a reader introduction, reader metadata, and a generated
+  reader page placed at the end of stage 3, beside SN 46.51. Nāgas grow on the
+  Himalaya until they are big enough to go down through the pools and rivers
+  into the ocean; conduct is put in the mountain's place, as what the seven
+  awakening factors get large on. **This completes Wave 10.**
+- Added seven reader glosses (nāgas, conduct, seclusion, relinquishment,
+  discernment of qualities, rejoicing, relaxation), which close tooltip gaps
+  across the awakening-factor and jhāna surfaces, not only this page.
+
 - Added a governed plain-English translation of AN 8.39, Abhisanda Sutta, with
   companion notes, a reader introduction, reader metadata, and a generated
   reader page placed in stage 2 after AN 2.9. The discourse counts the three
@@ -143,6 +153,18 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Replaced the auto-scaffolded `nāga` record, whose definition and preferred
+  translation were both placeholder text, with a real entry: the word is kept
+  in Pali because it covers great serpents and elephants alike and the sources
+  usually do not say which, and picking an English animal would resolve an
+  ambiguity the source leaves open.
+- Marked Wave 10 complete across the plan, the roadmap, the README, and the
+  generated priority table. None of them now names a next queue item; all of
+  them say the next translation task is a fresh audit, and the Wave 10 plan
+  gained a short procedure for running one. `next_sutta_priority_report.py`
+  renders a finished queue as finished, and its tests enforce that a queue with
+  no next item says so.
+
 - Separated the two kinds of review gate across the planning documents. The
   automated and editorial gates are what a translation must clear to be
   published, as `provisional`; recorded newcomer and read-aloud evidence is an
@@ -173,6 +195,21 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   for the exact form, `asava` now quotes MN 36's own line naming the three
   outflows, and `abhijanati` gains MN 36 as a running-text example. All three
   old citations had passed the strict verifier as `inflected`.
+- Corrected a sixth false source signal, found while auditing SN 46.1 and the
+  first one hidden behind an `inconclusive` verdict rather than an `inflected`
+  one. `bojjhaṅga-bhāvanā` and the `bojjhaṅga` major entry both quoted the
+  compound `bojjhaṅgabhāvanā` to SN 46.1, which contains no form of `bhāvanā`
+  at all. Because the discourse uses peyyāla, the strict verifier returned
+  `inconclusive` and could not call it absent. Both records now quote the
+  running text `satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto`.
+- Aligned two awakening-factor compound records with their own headwords.
+  `pītisambojjhaṅga` read `delight awakening factor` while `pīti` records an
+  explicit rule that bojjhaṅga contexts take `rejoicing`, and
+  `passaddhisambojjhaṅga` read `tranquility awakening factor` while
+  `passaddhi` defaults to `relaxation`. Both translation surfaces already
+  followed the headwords, so the records were the outliers; nothing caught it,
+  because the drift checker compares renderings across related entries rather
+  than a compound against the context rule of its own head.
 - Corrected a false source signal found while auditing AN 8.39:
   `kāmesu-micchācāra` cited `kāmesu micchācārā veramaṇī` to that discourse,
   which contains no form of `veramaṇī`. It now quotes the discourse's own
@@ -219,7 +256,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 64 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 65 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

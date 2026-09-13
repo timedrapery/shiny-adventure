@@ -287,7 +287,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (30)</summary>
+<summary>Words used in this translation (35)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -313,6 +313,8 @@ Buddha had said.
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dt><dfn>discernment of qualities</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
@@ -341,10 +343,18 @@ Buddha had said.
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
+<dt><dfn>relaxation</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
+<dt><dfn>relinquishment</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dt><dfn>seclusion</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>spontaneously reborn</dfn></dt>
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
 <dt><dfn>world</dfn></dt>
@@ -386,6 +396,7 @@ Buddha had said.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
+*[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
@@ -400,7 +411,11 @@ Buddha had said.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
+*[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

@@ -482,7 +482,7 @@ Visākha the lay follower was satisfied and welcomed what the Buddha had said.
 The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (44)</summary>
+<summary>Words used in this translation (47)</summary>
 <dl>
 <dt><dfn>becoming</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
@@ -498,6 +498,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -544,6 +546,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn></dt>
@@ -564,6 +568,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
+<dt><dfn>seclusion</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>taking personally</dfn></dt>
@@ -604,6 +610,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
@@ -627,6 +634,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[right action]: Acting without harming -- a factor of the eightfold path.
@@ -637,6 +645,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
+*[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.

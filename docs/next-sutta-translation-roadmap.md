@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (64 total)
+## Completed Surfaces (65 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -92,6 +92,11 @@ Use that full roadmap as the source of truth for:
   every other being freedom from fear. Anchors both of its ranked orphan
   signals, `kāmesu-micchācāra` and `surāmeraya-majjapamādaṭṭhāna`, and closes
   `dāna`, `saraṇa`, and `saṅgha` on the way.
+- `SN 46.1` Himavanta Sutta (Conduct Is Where Practice Grows) — complete
+  2026-09-13. Conduct as the ground the seven awakening factors grow on, in
+  one simile. Its ranked orphan signal, `bojjhaṅga-bhāvanā`, quoted a compound
+  the discourse does not contain; the record is anchored by repair.
+  **Wave 10 is complete.**
 
 ### Outside the Wave Sequence
 - `SN 56.17` Avijjā Sutta (What Ignorance Means) — requested directly. A
@@ -150,16 +155,17 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Next translation: `SN 46.1` Himavanta Sutta**, the last unfinished item in
-Wave 10. After it, run a fresh audit rather than extending this ranking.
+**There is no next queue item. Wave 10 is complete, and the next translation
+task is a fresh audit.**
 
-AN 11.12, SN 12.20, and AN 8.39 are published. The audit behind this queue was
-run on 2026-08-25 against 61 surfaces and 1,155 term records; re-running it
-today reports 64 surfaces, 1,157 records, and 91 orphans of 635 cited. Use the
-durable [Wave 10 execution plan](wave-10-execution-plan.md) for source checks,
-validation gates, and handoff, and reproduce the numbers with
-`python scripts/audit_surface_leverage.py --top 20` rather than quoting them
-from here. The full reasoning and historical audit state remain in
+All four Wave 10 items — AN 11.12, SN 12.20, AN 8.39, and SN 46.1 — are
+published. The audit behind that queue was run on 2026-08-25 against 61
+surfaces and 1,155 term records, and it is now spent. Do not extend it: run
+`python scripts/audit_surface_leverage.py --top 20`, verify each candidate's
+leverage signal against its root text, and write a new plan from the result.
+The [Wave 10 execution plan](wave-10-execution-plan.md) keeps the packet
+requirements, the validation gates, and the source-audit precedents that carry
+forward. The full reasoning and historical audit state remain in
 [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Human newcomer review runs in parallel and does not gate translation work. A

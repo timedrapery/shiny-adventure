@@ -338,7 +338,7 @@ And Venerable Bhāradvāja became one of the arahants.
 The seventh discourse, the Vattha Sutta, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (29)</summary>
+<summary>Words used in this translation (31)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -358,6 +358,8 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>brahmin</dfn></dt>
 <dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn></dt>
@@ -392,6 +394,8 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>refuge</dfn></dt>
 <dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -431,6 +435,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
@@ -447,6 +452,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

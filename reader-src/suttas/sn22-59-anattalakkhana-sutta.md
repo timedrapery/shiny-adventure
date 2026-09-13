@@ -303,7 +303,7 @@ personally.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← What Feeds and Starves Distraction](sn46-51-ahara-sutta.md)
+- [← Conduct Is Where Practice Grows](sn46-1-himavanta-sutta.md)
 - [All suttas](index.md)
 - [The Snake and the Raft →](mn22-alagaddupama-sutta.md)
 

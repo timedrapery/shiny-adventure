@@ -244,7 +244,7 @@ welcomed what the Buddha had said.
 The Cūḷamālukya Sutta, the third discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (18)</summary>
+<summary>Words used in this translation (19)</summary>
 <dl>
 <dt><dfn>arrow</dfn></dt>
 <dd>A recurring image across these texts with more than one meaning. In MN 63 it&#x27;s a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it&#x27;s a different image entirely: an ordinary person&#x27;s pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.</dd>
@@ -272,6 +272,8 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
+<dt><dfn>seclusion</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>soul</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;jīva&quot; -- the felt sense of an inner self or life-essence. Whether it exists, and whether it&#x27;s the same as the body, is one of the questions MN 63 leaves undeclared.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -320,6 +322,7 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
+*[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[soul]: This translation's rendering of "jīva" -- the felt sense of an inner self or life-essence. Whether it exists, and whether it's the same as the body, is one of the questions MN 63 leaves undeclared.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."

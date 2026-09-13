@@ -241,7 +241,7 @@ outflows."
 The third discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (18)</summary>
+<summary>Words used in this translation (20)</summary>
 <dl>
 <dt><dfn>becoming</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
@@ -279,6 +279,10 @@ The third discourse is finished.
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
+<dt><dfn>relaxation</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
 </dl>
 </details>
 
@@ -320,3 +324,5 @@ The third discourse is finished.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.

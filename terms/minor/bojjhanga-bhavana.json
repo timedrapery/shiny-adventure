@@ -9,9 +9,9 @@
   "notes": "Use this collective framework record when the seven awakening factors are named as something to be developed. Keep bojjhanga aligned with 'awakening factors' and bhavana aligned with 'development'; do not flatten the compound into generic meditation-language.",
   "example_phrases": [
     {
-      "pali": "bojjhaṅgabhāvanā",
-      "translation": "development of the awakening factors",
-      "notes": "Collective framework label for cultivating the seven awakening factors.",
+      "pali": "satta bojjhaṅge bhāvento satta bojjhaṅge bahulīkaronto",
+      "translation": "developing the seven awakening factors and cultivating them",
+      "notes": "The running-text form in SN 46.1. The record previously quoted the bare compound `bojjhaṅgabhāvanā` to this discourse, which contains no form of `bhāvanā` at all; the strict verifier returned `inconclusive` rather than `absent` because the discourse uses peyyāla. Repaired 2026-09-13 with the SN 46.1 packet.",
       "source": "SN 46.1"
     }
   ],
