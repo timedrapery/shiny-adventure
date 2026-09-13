@@ -458,6 +458,23 @@
   text-decoration-style: solid;
 }
 
+/* Where a hover pointer exists, keep passage controls out of the way until
+   the passage is hovered, the control is focused, or its form is open. They
+   stay in the document at full size, so keyboard and screen-reader users and
+   touch screens (which have no hover) are unaffected. */
+@media (hover: hover) and (pointer: fine) {
+  [data-passage-id] > .reader-feedback__button {
+    opacity: 0;
+    transition: opacity 120ms ease-in;
+  }
+
+  [data-passage-id]:hover > .reader-feedback__button,
+  [data-passage-id] > .reader-feedback__button:focus-visible,
+  [data-passage-id] > .reader-feedback__button[aria-expanded="true"] {
+    opacity: 1;
+  }
+}
+
 .reader-feedback__done {
   margin-inline-start: 0.4em;
   font-size: 0.78em;
