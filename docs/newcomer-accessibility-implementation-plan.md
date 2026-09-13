@@ -192,6 +192,15 @@ instead of forcing one ranking to serve both purposes.
 - New translations are prioritized with both editorial-leverage and
   newcomer-value scores.
 
+## Reader feedback
+
+The reader feedback system described in
+[reader-feedback-system.md](reader-feedback-system.md) is the instrument for
+steps 1 and 2: passage-level and glossary feedback from any reader, and
+formal sessions whose reviewed export is staged into the ledger by
+`scripts/stage_feedback_evidence.py`. It is enabled on SN 36.6 first and
+needs a deployed submission service before public readers can use it.
+
 ## Immediate next action
 
 Prepare the three-text pilot and the First 12 infrastructure, then ask real

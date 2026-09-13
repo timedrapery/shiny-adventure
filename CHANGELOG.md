@@ -8,6 +8,27 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a reader feedback system, enabled first on SN 36.6. Each passage of
+  an enabled translation gets a discreet, keyboard- and screen-reader-operable
+  "Give feedback" control; the words-used panel asks whether each explanation
+  helped; and an optional comprehension review closes the page. Submissions
+  carry the surface, stable passage id, exact wording shown, translation body
+  hash, governed term ids with their mapping basis, glossary and introduction
+  versions, and the question set version. A standard-library submission
+  service (`feedback_service/`) stores them in SQLite behind validation,
+  rate limiting, and honeypot checks, and gives maintainers an authenticated
+  queue with a five-step editorial lifecycle, per-term grouping, formal
+  review sessions, and a reviewed export that
+  `scripts/stage_feedback_evidence.py` checks into the newcomer ledger. See
+  [docs/reader-feedback-system.md](docs/reader-feedback-system.md).
+- Added stable passage identifiers (`scripts/paragraph_ids.py`,
+  `includes/feedback/paragraph-ids/`) with documented split and merge
+  behaviour, an editor-written term map for SN 36.6, and draft comprehension
+  question sets with assessment guidance for AN 2.9, SN 36.6, and AN 3.65.
+  The question sets are drafts awaiting editorial review.
+- Added a facilitator guide for real newcomer sessions
+  ([reviews/facilitator-guide.md](reviews/facilitator-guide.md)).
+
 - Added a governed plain-English translation of MN 36, Mahāsaccaka Sutta, by
   direct request, with companion notes, a reader introduction, reader
   metadata, and a generated reader page placed in stage 3 after MN 19. Saccaka

@@ -185,6 +185,19 @@ rendered-site gate used in CI. The Playwright/axe suite discovers every built
 directory under `site/suttas/`, so every registered sutta page receives a
 rendered serious/critical accessibility scan rather than a sample-only check.
 
+## Reader feedback
+
+Enabled surfaces (listed in `includes/feedback/config.json`) carry a JSON
+manifest and a hidden feedback section generated from authoritative inputs
+under `includes/feedback/`: stable passage ids, an editor-written term map,
+and a versioned comprehension question set. `reader-feedback.js` reveals the
+controls only when the submission service answers, so the public site is
+unchanged until an endpoint is configured. The governed translation body is
+not modified; controls are appended beside it. See
+[reader-feedback-system.md](reader-feedback-system.md). After editing an
+enabled translation, run `python scripts/paragraph_ids.py --write` before
+regenerating the reader.
+
 ## The downloadable edition
 
 `scripts/build_book.py` assembles the whole collection into a single EPUB,
