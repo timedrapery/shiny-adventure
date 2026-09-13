@@ -15,14 +15,12 @@
   "gloss_on_first_occurrence": "śūnyatā (emptiness)",
   "definition": "The Sanskrit form of suññatā, used for emptiness or voidness in Buddhist doctrinal contexts.",
   "related_terms": [
-    "su\u00f1\u00f1at\u0101"
-  ],
-  "sutta_references": [
-    "MN 121"
+    "suññatā"
   ],
   "tags": [
     "core-doctrine",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "This record exists for the Sanskrit spelling only; the governed Pali headword is `suññatā`, which carries the policy and the sources. The record previously cited MN 121, which contains `suññatā` and no form of `śūnyatā`, so it counted as an orphan against a source that cannot demonstrate it. The citation was removed in the 2026-09-13 Wave 11 audit rather than repaired: a Sanskrit form has no Pali running-text anchor."
 }

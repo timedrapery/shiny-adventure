@@ -35,7 +35,7 @@ corrections to the method, both recorded under Ranked Roadmap (Wave 7).
 
 Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state and
 is complete. The fresh 61-surface audit and reproducible handoff procedure
-live in the [Wave 10 execution plan](wave-10-execution-plan.md). That current
+live in the [Wave 11 execution plan](wave-11-execution-plan.md). That current
 plan supersedes the historical numerical queues below without erasing their
 audit record.
 

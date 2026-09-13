@@ -1,14 +1,13 @@
 # Wave 10 Execution Plan
 
-**Wave 10 is complete as of 2026-09-13.** All four queue items are published,
-and there is no next item in this plan.
+**Wave 10 is complete as of 2026-09-13, and this plan is superseded.** The
+active handoff document is the
+[Wave 11 execution plan](wave-11-execution-plan.md), written from a fresh audit
+run the same day.
 
-The next translation task is a fresh audit, not another text from the ranking
-below. See [Running the next audit](#running-the-next-audit).
-
-This page stays as the durable record of the wave: its baseline, its source
-findings, the packet every sutta needs, and the validation gates. Those last
-two still apply to whatever the next audit selects.
+This page stays as the durable record of Wave 10: its baseline, its source
+findings, and the audit procedure that produced its successor. Every number
+below is a snapshot and no longer describes the corpus.
 
 ## Baseline
 

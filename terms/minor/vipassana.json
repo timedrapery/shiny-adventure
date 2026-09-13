@@ -15,7 +15,7 @@
   "untranslated_preferred": false,
   "definition": "Insight or clear seeing into the nature of experience, often paired with tranquility.",
   "sutta_references": [
-    "SN 35.204"
+    "MN 43"
   ],
   "tags": [
     "meditative-development",
@@ -24,5 +24,13 @@
   "status": "reviewed",
   "related_terms": [
     "vipassana-nana"
+  ],
+  "example_phrases": [
+    {
+      "pali": "vipassanānuggahitā ca hoti",
+      "translation": "supported by insight",
+      "notes": "One of the five supports of right view in MN 43, a translated surface. The record previously cited SN 35.204, which contains neither `samatha` nor `vipassanā`. Repaired in the 2026-09-13 Wave 11 audit.",
+      "source": "MN 43"
+    }
   ]
 }

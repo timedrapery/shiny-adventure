@@ -155,18 +155,23 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**There is no next queue item. Wave 10 is complete, and the next translation
-task is a fresh audit.**
+**Wave 11 is the active wave.** Its queue, verified against the root texts on
+2026-09-13, is in the [Wave 11 execution plan](wave-11-execution-plan.md):
 
-All four Wave 10 items — AN 11.12, SN 12.20, AN 8.39, and SN 46.1 — are
-published. The audit behind that queue was run on 2026-08-25 against 61
-surfaces and 1,155 term records, and it is now spent. Do not extend it: run
-`python scripts/audit_surface_leverage.py --top 20`, verify each candidate's
-leverage signal against its root text, and write a new plan from the result.
-The [Wave 10 execution plan](wave-10-execution-plan.md) keeps the packet
-requirements, the validation gates, and the source-audit precedents that carry
-forward. The full reasoning and historical audit state remain in
-[next-suttas-roadmap.md](next-suttas-roadmap.md).
+1. `Dhp 21-32` the Appamādavagga — 124 words, anchors the orphan major
+   `appamāda`. Has a precondition: settle how verse is handled first.
+2. `Ud 8.3` Tatiyanibbānapaṭisaṁyutta — 84 words, anchors `asaṅkhata-dhātu`.
+3. `SN 22.22` Bhāra Sutta — 108 words, anchors the burden formula.
+4. `SN 22.26` Assāda Sutta — 223 words, anchors the gratification, danger, and
+   escape formula for the five heaps.
+5. `MN 122` Mahāsuññata Sutta — 1,547 words, anchors `appicchatā` and
+   `asaṁsagga`. Take it last.
+
+Wave 10 is complete: AN 11.12, SN 12.20, AN 8.39, and SN 46.1 are all
+published. The audit behind that queue was spent, and the Wave 11 audit
+replaced it rather than extending it — finding and repairing eight false or
+mis-cased citations on the way. The full reasoning and historical audit state
+remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
 
 Human newcomer review runs in parallel and does not gate translation work. A
 published surface stays `provisional` until its human evidence is recorded;

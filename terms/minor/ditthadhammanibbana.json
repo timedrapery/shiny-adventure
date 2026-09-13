@@ -12,14 +12,14 @@
   ],
   "example_phrases": [
     {
-      "pali": "diṭṭhadhammanibbāna",
-      "translation": "here-and-now nibbāna",
-      "notes": "Compound governing immediate-life nibbāna language without collapsing into worldly comfort or final nibbāna at death.",
-      "source": "MN 13"
+      "pali": "paramadiṭṭhadhammanibbānaṁ paññapenti pañcahi vatthūhi",
+      "translation": "they describe supreme here-and-now nibbāna on five grounds",
+      "notes": "The five here-and-now-nibbāna doctrines in DN 1. The record previously cited MN 13, the Mahādukkhakkhandha Sutta, which contains no form of `nibbāna` at all; the strict verifier returned `inconclusive` because MN 13 uses peyyāla. DN 1 is not a translated surface, so the record stays orphaned. Repaired in the 2026-09-13 Wave 11 audit.",
+      "source": "DN 1"
     }
   ],
   "sutta_references": [
-    "MN 13"
+    "DN 1"
   ],
   "tags": [
     "liberation",

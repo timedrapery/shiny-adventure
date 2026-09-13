@@ -31,9 +31,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "bhāro have pañcakkhandhā",
+      "pali": "Bhārā have pañcakkhandhā",
       "translation": "the five heaps are indeed a burden",
-      "notes": "Shows the canonical burden line for the family.",
+      "notes": "The opening line of SN 22.22's closing verse. The record quoted the singular `bhāro`, which is not the form in the verse; the verse has the nominative plural agreeing with `pañcakkhandhā`. Corrected in the 2026-09-13 Wave 11 audit.",
       "source": "SN 22.22"
     }
   ],

@@ -8,6 +8,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added the [Wave 11 execution plan](docs/wave-11-execution-plan.md), written
+  from a fresh audit rather than by extending Wave 10's spent ranking. Its
+  queue is Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122; every signal was
+  checked against the cached root text before the item was given a position.
+  The plan also records what is permanently off the queue and why, so the next
+  audit does not re-propose it.
+
 - Added a governed plain-English translation of SN 46.1, Himavanta Sutta, with
   companion notes, a reader introduction, reader metadata, and a generated
   reader page placed at the end of stage 3, beside SN 46.51. Nāgas grow on the
@@ -153,6 +160,19 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- `audit_surface_leverage.py` no longer ranks verse collections by length.
+  Once the Dhammapada bundles were cached, it filed Dhp 21 — twelve Pali words,
+  and the only running-text anchor for the governed major `appamāda` — as an
+  enumeration stub for being short. A verse is the densest substantive text
+  there is, not a count followed by a list.
+- `next_sutta_priority_report.py` now carries the Wave 11 queue and keeps
+  Wave 10's finished rows as history. Queue rows record whether they are
+  published as a fact rather than as display text, and the tests check that
+  claim against the corpus in both directions.
+- Pointed the documentation guide, the roadmap, the README, and the workflow
+  plan at the Wave 11 plan. The documentation guide had still been calling the
+  Wave 9 plan current, two waves after it was superseded.
+
 - Replaced the auto-scaffolded `nāga` record, whose definition and preferred
   translation were both placeholder text, with a real entry: the word is kept
   in Pali because it covers great serpents and elephants alike and the sources
@@ -195,6 +215,20 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   for the exact form, `asava` now quotes MN 36's own line naming the three
   outflows, and `abhijanati` gains MN 36 as a running-text example. All three
   old citations had passed the strict verifier as `inflected`.
+- Repaired eight citation problems found by the Wave 11 audit, in the records
+  it was ranking. Four closed an orphan with no translation at all, because the
+  term was already demonstrated in a translated surface: `cāga` cited AN 7.49,
+  the Dutiyasaññā Sutta, which has no form of it, and now cites AN 11.12;
+  `samatha` and `vipassanā` both cited SN 35.204, a Saṭṭhipeyyāla repetition
+  sutta containing neither, and now cite MN 43; `vinaya` cited MN 108, which
+  contains no form of it, and now cites MN 11. Three were repaired to a true
+  but untranslated source and stay orphaned: `appicchatā` (AN 4.27 to MN 122),
+  `diṭṭhadhammanibbāna` (MN 13, which contains no form of `nibbāna` at all, to
+  DN 1), and the burden formula, which quoted a singular `bhāro` where SN 22.22
+  reads the nominative plural `Bhārā`. The eighth, the Sanskrit `śūnyatā`, lost
+  its citation rather than gaining a new one: it cited MN 121, which contains
+  `suññatā` and no form of `śūnyatā`, and a Sanskrit form has no Pali
+  running-text anchor. Corpus orphans 90 to 85.
 - Corrected a sixth false source signal, found while auditing SN 46.1 and the
   first one hidden behind an `inconclusive` verdict rather than an `inflected`
   one. `bojjhaṅga-bhāvanā` and the `bojjhaṅga` major entry both quoted the

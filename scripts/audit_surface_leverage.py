@@ -56,6 +56,14 @@ ENUMERATION_STUB_MAX_WORDS = 80
 # out of the enumeration-only track.
 SUBSTANTIVE_SHORT_TEXTS = frozenset({"AN 2.9"})
 
+# Verse is the other systematic exception, and it is a whole-collection one.
+# The Wave 11 audit caught this: once the Dhammapada bundles were cached,
+# Dhp 21 -- `Appamado amatapadam`, twelve Pali words and the only running-text
+# anchor for the governed major `appamada` -- was filed as an enumeration stub
+# purely for being short. A verse is the densest substantive text there is, not
+# a count followed by a list, so no verse collection is ever ranked by length.
+VERSE_COLLECTIONS = frozenset({"Dhp", "Thag", "Thig", "Snp"})
+
 
 @dataclass
 class SuttaLeverage:
@@ -70,11 +78,16 @@ class SuttaLeverage:
         return len(self.orphan_majors) + len(self.orphan_minors)
 
     @property
+    def is_verse(self) -> bool:
+        return self.sutta.split(" ", 1)[0] in VERSE_COLLECTIONS
+
+    @property
     def is_enumeration_stub(self) -> bool:
         return (
             self.pali_words is not None
             and self.pali_words <= ENUMERATION_STUB_MAX_WORDS
             and self.sutta not in SUBSTANTIVE_SHORT_TEXTS
+            and not self.is_verse
         )
 
     @property
@@ -83,6 +96,8 @@ class SuttaLeverage:
             return "unverified (not cached)"
         if self.is_enumeration_stub:
             return f"{self.pali_words}w enumeration stub"
+        if self.is_verse:
+            return f"{self.pali_words}w verse"
         if self.pali_words < 250:
             return f"{self.pali_words}w short"
         return f"{self.pali_words}w full"

@@ -53,9 +53,27 @@ python -m pip install -r requirements-dev.txt
 ## Update As Of 2026-09-13
 
 - 65 governed translation surfaces and 65 generated reader pages. AN 8.39 and
-  SN 46.1 close the Wave 10 queue. **Wave 10 is complete**, and the next
-  translation task is a fresh audit rather than another item from that
-  ranking.
+  SN 46.1 closed the Wave 10 queue, and a fresh audit the same day produced
+  the [Wave 11 plan](wave-11-execution-plan.md). Wave 11's queue is Dhp 21-32,
+  Ud 8.3, SN 22.22, SN 22.26, and MN 122, each signal checked against its root
+  text before it was given a position.
+- That audit found and repaired eight citation problems in the records it was
+  ranking. Four closed an orphan with no translation at all, because the term
+  was already demonstrated in a translated surface: `cāga` (AN 7.49 to
+  AN 11.12), `samatha` and `vipassanā` (both SN 35.204 to MN 43), and `vinaya`
+  (MN 108 to MN 11). Three were repaired to a true but untranslated source and
+  stay orphaned: `appicchatā`, `diṭṭhadhammanibbāna`, and the burden formula's
+  case. One, the Sanskrit `śūnyatā`, lost its citation entirely — a Sanskrit
+  form has no Pali running-text anchor. Corpus orphans 90 to 85.
+- Two structural findings from the same audit. SN 50.1 is permanently off the
+  queue: upstream has no `sn50.1` file, only `sn50.1-12`, so there is no
+  discrete boundary to translate, and the orphan major `bala` cannot be
+  anchored that way. And the orphan-major track is exhausted for short
+  substantive prose — all nine remaining orphan majors sit behind verse, a
+  peyyāla series, an enumeration stub, or a discourse over 3,000 words.
+- `audit_surface_leverage.py` no longer ranks verse collections by length. Once
+  the Dhammapada bundles were cached it filed Dhp 21 as an enumeration stub for
+  being twelve words long.
 - All 65 surfaces report no automated plain-English register signals.
 - The SN 46.1 source audit found a sixth false citation of the familiar shape,
   and the first one hidden behind an `inconclusive` verdict rather than an
@@ -541,7 +559,7 @@ absent, unfetched, or unsupported matches.
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use the [Wave 10 execution plan](wave-10-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
+- Use the [Wave 11 execution plan](wave-11-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
 - Waves 1 through 8 and the direct-request additions were complete at 55
   surfaces. All four items from the 2026-08-25 Wave 9 audit—SN 45.8,
