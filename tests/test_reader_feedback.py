@@ -21,19 +21,37 @@ class ConfigTests(unittest.TestCase):
         config = reader_feedback.load_config()
         self.assertEqual(reader_feedback.config_problems(config), [])
 
-    def test_public_site_ships_without_an_endpoint(self) -> None:
-        # No service is deployed yet. The reader script shows nothing until
-        # an operator sets the endpoint, so the public site must not claim one.
-        self.assertIsNone(reader_feedback.load_config()["endpoint"])
-
     def test_endpoint_must_be_an_origin(self) -> None:
         config = reader_feedback.load_config()
+        config["transport"] = None
         config["endpoint"] = "feedback.example.org"
         self.assertTrue(any("endpoint" in p for p in reader_feedback.config_problems(config)))
         config["endpoint"] = "https://feedback.example.org/"
         self.assertTrue(any("slash" in p for p in reader_feedback.config_problems(config)))
         config["endpoint"] = "https://feedback.example.org"
         self.assertEqual(reader_feedback.config_problems(config), [])
+
+    def test_transport_is_validated(self) -> None:
+        config = reader_feedback.load_config()
+        config["endpoint"] = None
+        config["transport"] = {"kind": "google-form", "form_action": "https://evil.example/formResponse",
+                               "payload_field": "entry.1"}
+        problems = reader_feedback.config_problems(config)
+        self.assertTrue(any("form_action" in p for p in problems))
+        self.assertTrue(any("payload_field" in p for p in problems))
+        config["transport"] = {
+            "kind": "google-form",
+            "form_action": "https://docs.google.com/forms/d/e/1FAIpQLSf7i3UIU3R7GcY9ihUz0C40cv_M0KwieYH2hZ6GGwKaXKaFJQ/formResponse",
+            "payload_field": "entry.1359254143",
+        }
+        self.assertEqual(reader_feedback.config_problems(config), [])
+        config["endpoint"] = "https://feedback.example.org"
+        self.assertTrue(any("not both" in p for p in reader_feedback.config_problems(config)))
+
+    def test_public_site_uses_the_google_form_transport(self) -> None:
+        config = reader_feedback.load_config()
+        self.assertIsNone(config["endpoint"])
+        self.assertEqual(config["transport"]["kind"], "google-form")
 
     def test_unregistered_enabled_surface_is_rejected(self) -> None:
         config = reader_feedback.load_config()
@@ -172,6 +190,7 @@ class GeneratedPageTests(unittest.TestCase):
         self.assertEqual(manifest["body_sha256"], sn.readability_review.body_sha256)
         self.assertEqual(manifest["page_path"], "suttas/sn36-6-salla-sutta/")
         self.assertIsNone(manifest["endpoint"])
+        self.assertEqual(manifest["transport"]["payload_field"], "entry.1359254143")
         self.assertEqual(manifest["introduction"]["kind"], "guide")
         self.assertEqual(len(manifest["introduction"]["version"]), 12)
         self.assertEqual(manifest["comprehension"]["version"], 1)

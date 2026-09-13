@@ -1,6 +1,13 @@
 {
   "endpoint": null,
-  "enabled_surfaces": ["sn36_6"],
+  "enabled_surfaces": [
+    "sn36_6"
+  ],
   "contact_optin": false,
-  "reader_note": "Feedback goes to the editors of this translation. It is used to find wording that is hard to follow and to decide what to revise. It is not published, it is not linked to you, and it never changes a translation by itself."
+  "reader_note": "Feedback goes to the editors of this translation through a form they control. It is used to find wording that is hard to follow and to decide what to revise. It is not published, it is not linked to you, and it never changes a translation by itself.",
+  "transport": {
+    "kind": "google-form",
+    "form_action": "https://docs.google.com/forms/d/e/1FAIpQLSf7i3UIU3R7GcY9ihUz0C40cv_M0KwieYH2hZ6GGwKaXKaFJQ/formResponse",
+    "payload_field": "entry.1359254143"
+  }
 }

@@ -121,9 +121,10 @@ What happens to it:
   that time, so a later revision can be checked against it.
 - It is not published, it is not posted to the public repository, and it never
   changes a translation by itself. An editor reads it, decides, and records why.
-- No name, email address, or account is collected. The service keeps only what
-  you type, the page and passage, and the time. Feedback is deleted on the
-  schedule the operator publishes with the service.
+- No name, email address, or account is collected. What is kept is only what
+  you type, the page and passage, and the time. Submissions are received
+  through a form the editors control and are removed from it once they have
+  been reviewed.
 
 Public feedback is not counted as a formal review. Formal reviews with
 newcomers are run in sessions with a facilitator and recorded separately.

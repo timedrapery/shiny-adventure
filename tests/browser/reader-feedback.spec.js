@@ -1,5 +1,6 @@
 import { test, expect } from "@playwright/test";
 import AxeBuilder from "@axe-core/playwright";
+import { readFileSync } from "node:fs";
 
 // These tests run against the feedback service serving the built reader on
 // its own origin (see playwright.config.js), so the page's health probe
@@ -12,6 +13,22 @@ const OTHER = `${FEEDBACK_BASE}/suttas/an2-9-cariya-sutta/`;
 const ADMIN_USER = "editor";
 const ADMIN_PASSWORD = "browser-test-password";
 
+// The committed config points the public site at the Google Form transport.
+// The service-path tests below rewrite the manifest to use the local service
+// instead, so both paths are exercised against the same build.
+async function useServiceTransport(page) {
+  await page.route(`${FEEDBACK_BASE}/suttas/**`, async (route) => {
+    if (route.request().resourceType() !== "document") {
+      await route.continue();
+      return;
+    }
+    const pathname = new URL(route.request().url()).pathname.replace(/\/$/, "/index.html");
+    const file = new URL(`../../site${pathname}`, import.meta.url);
+    const body = readFileSync(file, "utf8").replace(/"transport":\s*\{[^}]*\}/, '"transport":null');
+    await route.fulfill({ status: 200, contentType: "text/html; charset=utf-8", body });
+  });
+}
+
 async function adminGet(request, path) {
   return request.get(`${FEEDBACK_BASE}${path}`, {
     headers: { Authorization: "Basic " + Buffer.from(`${ADMIN_USER}:${ADMIN_PASSWORD}`).toString("base64") },
@@ -19,6 +36,8 @@ async function adminGet(request, path) {
 }
 
 test.describe("passage feedback", () => {
+  test.beforeEach(async ({ page }) => { await useServiceTransport(page); });
+
   test("controls appear only on the enabled pilot text, after the service answers", async ({ page }) => {
     await page.goto(PILOT);
     const buttons = page.locator("button.reader-feedback__button");
@@ -114,6 +133,7 @@ test.describe("passage feedback", () => {
   test("works on a phone-sized viewport", async ({ browser }) => {
     const phone = await browser.newContext({ viewport: { width: 360, height: 740 }, hasTouch: true, isMobile: true });
     const page = await phone.newPage();
+    await useServiceTransport(page);
     await page.goto(PILOT);
     const passage = page.locator("[data-passage-id='p022']");
     await passage.locator("button.reader-feedback__button").tap();
@@ -143,6 +163,8 @@ test.describe("passage feedback", () => {
 });
 
 test.describe("glossary and comprehension feedback", () => {
+  test.beforeEach(async ({ page }) => { await useServiceTransport(page); });
+
   test("glossary rating records the explanation version", async ({ page, request }) => {
     await page.goto(PILOT);
     await expect(page.locator("button.reader-feedback__button").first()).toBeVisible();
@@ -186,6 +208,8 @@ test.describe("glossary and comprehension feedback", () => {
 });
 
 test.describe("maintainer access", () => {
+  test.beforeEach(async ({ page }) => { await useServiceTransport(page); });
+
   test("the queue and exports refuse unauthenticated and wrongly authenticated requests", async ({ request }) => {
     for (const path of ["/admin/", "/admin/export.json", "/admin/terms", "/admin/sessions"]) {
       const anonymous = await request.get(`${FEEDBACK_BASE}${path}`);
@@ -245,5 +269,48 @@ test.describe("maintainer access", () => {
     await expect(queue.locator("table").last()).toContainText("Examined");
     await expect(queue.locator("table").last()).toContainText("Translation");
     await admin.close();
+  });
+});
+
+test.describe("google form transport (the committed public configuration)", () => {
+  test("the page posts the submission as one JSON field to the editors' form", async ({ page }) => {
+    const posts = [];
+    await page.route("https://docs.google.com/**", async (route) => {
+      posts.push({ url: route.request().url(), body: route.request().postData() || "" });
+      await route.fulfill({ status: 200, body: "" });
+    });
+    await page.goto(PILOT);
+    const passage = page.locator("[data-passage-id='p013']");
+    await expect(passage.locator("button.reader-feedback__button")).toBeVisible();
+    await passage.locator("button.reader-feedback__button").click();
+    const form = page.locator("#reader-feedback-p013-form");
+    await form.locator("input[name=category][value=word]").check();
+    await form.locator("textarea[name=comment]").fill("What is an underlying tendency? form-marker");
+    await form.locator("button[type=submit]").click();
+    await expect(passage.locator(".reader-feedback__done")).toContainText("received");
+    expect(posts).toHaveLength(1);
+    expect(posts[0].url).toMatch(/^https:\/\/docs\.google\.com\/forms\/d\/e\/[A-Za-z0-9_-]+\/formResponse$/);
+    const match = posts[0].body.match(/name="entry\.1359254143"\r?\n\r?\n([\s\S]*?)\r?\n--/);
+    expect(match).toBeTruthy();
+    const payload = JSON.parse(match[1]);
+    expect(payload.target).toBe("translation");
+    expect(payload.passage_id).toBe("p013");
+    expect(payload.comment).toContain("form-marker");
+    expect(payload.body_sha256).toMatch(/^[0-9a-f]{64}$/);
+    expect(payload.client_submission_id).toMatch(/^[0-9a-f-]{36}$/);
+    expect(payload.terms.map((t) => t.id)).toContain("patigha");
+  });
+
+  test("a failed post to the form keeps the form contents", async ({ page }) => {
+    await page.route("https://docs.google.com/**", (route) => route.abort("connectionrefused"));
+    await page.goto(PILOT);
+    const passage = page.locator("[data-passage-id='p014']");
+    await passage.locator("button.reader-feedback__button").click();
+    const form = page.locator("#reader-feedback-p014-form");
+    await form.locator("input[name=category][value=awkward]").check();
+    await form.locator("textarea[name=comment]").fill("keep me");
+    await form.locator("button[type=submit]").click();
+    await expect(form.locator(".reader-feedback__status")).toContainText("could not be sent");
+    await expect(form.locator("textarea[name=comment]")).toHaveValue("keep me");
   });
 });

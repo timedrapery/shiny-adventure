@@ -29,6 +29,22 @@ same origin and the feedback controls appear. The maintainer queue is at
 Data lives in `feedback-data/feedback.sqlite` (git-ignored) unless
 `FEEDBACK_DB` says otherwise.
 
+## Without hosting: the Google Form transport
+
+The public site currently posts to a Google Form rather than to a hosted
+copy of this service (see `transport` in `includes/feedback/config.json`).
+Download the form's responses as CSV and load them into a local queue:
+
+```bash
+python -m feedback_service ingest --csv responses.csv
+python -m feedback_service serve
+```
+
+Everything below then applies to that local queue. The sheet's "Timestamp"
+becomes the receipt time; each row's payload is validated exactly as a live
+submission would be; rows whose client submission id is already stored are
+skipped.
+
 ## Configuration
 
 | Variable | Meaning | Default |
