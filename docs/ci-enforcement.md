@@ -26,7 +26,9 @@ in `reviews/formula-baseline.json` is advisory; a disagreement outside it, a
 change to one inside it, or a resolved group still listed there fails the
 check. Intentional differences are waived, with pinned English and a
 rationale, in `reviews/formula-exceptions.json`. `--strict` fails on the
-backlog too.
+backlog too. Maintain the backlog with `--prune-baseline` to drop resolved
+groups, and `--accept-new-debt --reason '...'` to acknowledge a new one on
+purpose; a prune refuses to run while a regression is present.
 
 `python scripts/run_checks.py` is the single authoritative repository entrypoint.
 CI also runs the highest-signal checks individually so failures surface earlier

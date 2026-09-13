@@ -59,8 +59,34 @@ class CheckPhraseTests(unittest.TestCase):
         "kabaḷīkāro āhāro oḷāriko vā sukhumo vā phasso dutiyo"
     )
 
-    def test_present_phrase_is_ok(self) -> None:
-        self.assertEqual(verify.check_phrase("phasso dutiyo", self.HAY), "ok")
+    def test_present_phrase_is_exact(self) -> None:
+        self.assertEqual(verify.check_phrase("phasso dutiyo", self.HAY), "exact")
+
+    def test_a_word_inside_a_longer_word_is_not_verified(self) -> None:
+        # Substring containment reported `sati` as found in a text whose only
+        # match is `satipaṭṭhānā`, and `paṭṭhāna` as found in
+        # `satipaṭṭhānasutta`. Neither is an occurrence of the quoted word, so
+        # neither may pass as `exact`; the relationship is real, so it is
+        # reported rather than dropped.
+        haystack = verify.normalize("Satipaṭṭhānasutta. Cattāro satipaṭṭhānā bhāvetabbā.")
+        self.assertEqual(verify.check_phrase("sati", haystack), "compound")
+        self.assertEqual(verify.check_phrase("paṭṭhāna", haystack), "compound")
+        self.assertEqual(verify.check_phrase("cattāro satipaṭṭhānā", haystack), "exact")
+
+    def test_dhammata_is_matched_as_a_whole_word_only(self) -> None:
+        self.assertEqual(
+            verify.check_phrase("dhammatā", verify.normalize("ayaṁ dhammatā hoti")), "exact"
+        )
+        self.assertEqual(
+            verify.check_phrase("dhammatā", verify.normalize("dhammataññeva sandhāya")),
+            "compound",
+        )
+
+    def test_a_sandhi_joined_citation_is_not_a_failure(self) -> None:
+        # SN 1.1 has `oghamatarī` where the record quotes `oghaṃ atariṃ`. The
+        # words are not there as quoted, but the citation is sound.
+        haystack = verify.normalize("“kathaṁ nu tvaṁ, mārisa, oghamatarī”ti?")
+        self.assertIn(verify.check_phrase("oghaṃ atariṃ", haystack), {"compound", "inflected"})
 
     def test_wrong_ending_is_inflected(self) -> None:
         self.assertEqual(verify.check_phrase("phassassa", self.HAY), "inflected")
@@ -79,8 +105,77 @@ class CheckPhraseTests(unittest.TestCase):
 
     def test_ellipsis_in_citation_is_split_into_chunks(self) -> None:
         self.assertEqual(
-            verify.check_phrase("cattārome bhikkhave ... phasso dutiyo", self.HAY), "ok"
+            verify.check_phrase("cattārome bhikkhave ... phasso dutiyo", self.HAY), "exact"
         )
+
+
+class WaiverTests(unittest.TestCase):
+    def write(self, tmpdir: str, entries: list[dict[str, object]]) -> Path:
+        path = Path(tmpdir) / "source-verification-waivers.json"
+        path.write_text(json.dumps({"waivers": entries}), encoding="utf-8")
+        return path
+
+    def test_missing_file_means_no_waivers(self) -> None:
+        self.assertEqual(verify.load_waivers(Path("does-not-exist.json")), {})
+
+    def test_a_waiver_without_a_reason_is_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.write(tmpdir, [{"record": "sati", "index": 0}])
+            with self.assertRaises(ValueError):
+                verify.load_waivers(path)
+
+    def test_duplicate_waivers_for_one_example_are_rejected(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = self.write(
+                tmpdir,
+                [
+                    {"record": "sati", "index": 0, "reason": "first"},
+                    {"record": "sati", "index": 0, "reason": "second"},
+                ],
+            )
+            with self.assertRaises(ValueError):
+                verify.load_waivers(path)
+
+    def test_an_unresolved_example_is_waived_by_record_and_index(self) -> None:
+        # An unsupported collection needs no network, so this exercises the
+        # whole path: unresolved, then explicitly accepted with a reason.
+        with tempfile.TemporaryDirectory() as tmp:
+            terms = Path(tmp) / "minor"
+            terms.mkdir(parents=True)
+            (terms / "x.json").write_text(
+                json.dumps({"example_phrases": [{"pali": "phasso", "source": "KN 1.1"}]}),
+                encoding="utf-8",
+            )
+            bare = verify.build_report(terms, cache_dir=Path(tmp) / "cache")
+            waived = verify.build_report(
+                terms,
+                cache_dir=Path(tmp) / "cache",
+                waivers={("x", 0): "KN citations name no collection; checked by hand."},
+            )
+
+        self.assertEqual(bare["summary"]["unresolved"], 1)
+        self.assertEqual(bare["summary"]["unresolved_waived"], 0)
+        self.assertEqual(waived["summary"]["unresolved_waived"], 1)
+        self.assertIn("by hand", waived["findings"][0]["waiver"])
+
+
+class PinTests(unittest.TestCase):
+    def test_pins_round_trip(self) -> None:
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = Path(tmpdir) / "source-pins.json"
+            verify.write_pins({"MN 1": "a" * 64}, path)
+            self.assertEqual(verify.load_pins(path), {"MN 1": "a" * 64})
+
+    def test_missing_pin_file_means_no_pins(self) -> None:
+        self.assertEqual(verify.load_pins(Path("does-not-exist.json")), {})
+
+    def test_the_repository_pins_are_well_formed(self) -> None:
+        pins = verify.load_pins()
+        self.assertTrue(pins)
+        for citation, digest in pins.items():
+            with self.subTest(citation=citation):
+                self.assertTrue(verify.citation_supported(citation), citation)
+                self.assertRegex(digest, r"^[0-9a-f]{64}$")
 
 
 class AbridgementTests(unittest.TestCase):
@@ -126,9 +221,12 @@ class ReportTests(unittest.TestCase):
     def test_render_text_lists_partial_and_absent_findings(self) -> None:
         report = {
             "summary": {
-                "examples": 2, "sources": 1, "ok": 0, "inflected": 0,
+                "examples": 2, "sources": 1, "pinned_sources": 0,
+                "verified": 0, "qualified": 0, "failed": 2,
+                "unresolved": 0, "unresolved_waived": 0,
+                "exact": 0, "compound": 0, "inflected": 0,
                 "inconclusive": 0, "partial": 1, "absent": 1,
-                "unfetched": 0, "unsupported": 0,
+                "unfetched": 0, "unsupported": 0, "source-changed": 0,
             },
             "findings": [
                 {"verdict": "partial", "record": "a", "index": 0,

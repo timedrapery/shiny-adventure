@@ -6,6 +6,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
 
@@ -46,6 +47,118 @@ def current_body_hash(surface: Any, repo_root: Path) -> str | None:
         return None
 
 
+def count_newcomer_evidence(
+    key: str,
+    reviews: list[Any],
+    body_hash: str | None,
+    failures: list[str],
+) -> tuple[int, int]:
+    """Validate one surface's newcomer reviews and count what still holds.
+
+    Returns (participants who reviewed the current body, independent passes
+    among them).
+
+    A review is evidence about one version of one text, so the identity that
+    must be unique is the pair (participant, body). Checking the participant
+    label alone across the whole history blocked the workflow the protocol
+    asks for -- keep the old record, repeat the affected review -- because the
+    returning reader collided with their own earlier entry.
+
+    A returning reader still counts as one of the required participants: they
+    did read this body. They cannot count toward the independent passes,
+    because someone who has already read an earlier draft is no longer giving
+    a first unprompted account of it. That is recorded as `follow_up` rather
+    than inferred silently, so the ledger says what kind of session it was.
+    """
+    entries: list[dict[str, Any]] = []
+    for index, review in enumerate(reviews, start=1):
+        label = f"{key} review {index}"
+        if not isinstance(review, dict):
+            failures.append(f"{label}: must be an object")
+            continue
+        participant = review.get("participant")
+        if not _nonempty(participant):
+            failures.append(f"{label}: participant label is required")
+        for field in ("reviewed_on", "what_happened", "practical_point"):
+            if not _nonempty(review.get(field)):
+                failures.append(f"{label}: {field} is required")
+        if _nonempty(review.get("reviewed_on")) and not DATE.match(str(review["reviewed_on"])):
+            failures.append(f"{label}: reviewed_on must be YYYY-MM-DD")
+        if not isinstance(review.get("independent"), bool) or not isinstance(review.get("pass"), bool):
+            failures.append(f"{label}: independent and pass must be booleans")
+        follow_up = review.get("follow_up", False)
+        if not isinstance(follow_up, bool):
+            failures.append(f"{label}: follow_up must be a boolean when present")
+            follow_up = False
+
+        # Which body this reader actually read. Recording it is required;
+        # matching today's body is what makes the review count. A review of an
+        # earlier draft stays in the file as history and simply stops paying
+        # toward the threshold.
+        recorded = review.get("body_sha256")
+        if not _nonempty(recorded) or not SHA256.match(str(recorded)):
+            failures.append(f"{label}: body_sha256 of the reviewed text is required")
+            continue
+        if not _nonempty(participant):
+            continue
+        entries.append(
+            {
+                "label": label,
+                "order": (str(review.get("reviewed_on") or ""), index),
+                "participant": str(participant),
+                "body": str(recorded),
+                "independent": review.get("independent") is True,
+                "passed": review.get("pass") is True,
+                "follow_up": follow_up,
+            }
+        )
+
+    seen: Counter[tuple[str, str]] = Counter()
+    for entry in entries:
+        seen[(entry["participant"], entry["body"])] += 1
+    for (participant, _body), count in sorted(seen.items()):
+        if count > 1:
+            failures.append(
+                f"{key}: duplicate participant {participant} for one body version"
+            )
+
+    # Only a *later* session is a follow-up. Asking whether the participant
+    # appears anywhere else would flag the original review too, which is the
+    # record the protocol asks contributors to keep.
+    earlier_bodies: dict[str, set[str]] = defaultdict(set)
+    returning_labels: set[str] = set()
+    for entry in sorted(entries, key=lambda item: item["order"]):
+        if earlier_bodies[entry["participant"]] - {entry["body"]}:
+            returning_labels.add(entry["label"])
+        earlier_bodies[entry["participant"]].add(entry["body"])
+
+    participants: set[str] = set()
+    independent_passes = 0
+    for entry in entries:
+        returning = entry["label"] in returning_labels
+        if returning and not entry["follow_up"]:
+            failures.append(
+                f"{entry['label']}: {entry['participant']} reviewed another body of this "
+                "text; record follow_up: true"
+            )
+        if not returning and entry["follow_up"]:
+            failures.append(
+                f"{entry['label']}: follow_up is recorded but this participant has no "
+                "review of an earlier body"
+            )
+        if returning and entry["independent"]:
+            failures.append(
+                f"{entry['label']}: a returning reader cannot give a first unprompted "
+                "reading; record independent: false on a follow-up"
+            )
+        if body_hash is None or entry["body"] != body_hash:
+            continue
+        participants.add(entry["participant"])
+        if entry["independent"] and entry["passed"] and not returning:
+            independent_passes += 1
+    return len(participants), independent_passes
+
+
 def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
     failures: list[str] = []
     by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
@@ -82,21 +195,55 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
         if status not in ALLOWED_STATUS:
             failures.append(f"{key}: unsupported status {status!r}")
 
-        fidelity = record.get("source_fidelity")
-        if not isinstance(fidelity, dict) or fidelity.get("status") not in {"pending", "complete"}:
-            failures.append(f"{key}: source_fidelity needs pending/complete status")
-        elif fidelity.get("status") == "complete":
-            evidence = fidelity.get("evidence")
-            if not _nonempty(evidence) or not (repo_root / str(evidence)).is_file():
-                failures.append(f"{key}: source-fidelity evidence file is missing")
-            if not _nonempty(fidelity.get("completed_on")) or not DATE.match(str(fidelity.get("completed_on"))):
-                failures.append(f"{key}: source-fidelity completion date is invalid")
-
         # Human evidence is evidence about a *particular text*. The body it
         # was gathered against is recorded with it, so an edit to the
         # translation cannot silently inherit approval from readers who never
         # saw it. Stale evidence is kept as history and simply stops counting.
         body_hash = current_body_hash(by_key[key], repo_root)
+
+        fidelity = record.get("source_fidelity")
+        fidelity_complete = False
+        if not isinstance(fidelity, dict) or fidelity.get("status") not in {"pending", "complete"}:
+            failures.append(f"{key}: source_fidelity needs pending/complete status")
+        else:
+            fidelity_complete = fidelity.get("status") == "complete"
+            superseded = fidelity.get("superseded_signoff")
+            if superseded is not None:
+                # A sign-off that cannot be tied to the current body is kept
+                # here rather than deleted or quietly left as `complete`.
+                if not isinstance(superseded, dict):
+                    failures.append(f"{key}: superseded_signoff must be an object")
+                else:
+                    if not DATE.match(str(superseded.get("completed_on", ""))):
+                        failures.append(f"{key}: superseded sign-off needs its original date")
+                    old_evidence = superseded.get("evidence")
+                    if not _nonempty(old_evidence) or not (repo_root / str(old_evidence)).is_file():
+                        failures.append(f"{key}: superseded sign-off evidence file is missing")
+                    if not _nonempty(superseded.get("note")):
+                        failures.append(f"{key}: superseded sign-off needs a note saying why")
+            if fidelity_complete:
+                evidence = fidelity.get("evidence")
+                if not _nonempty(evidence) or not (repo_root / str(evidence)).is_file():
+                    failures.append(f"{key}: source-fidelity evidence file is missing")
+                if not _nonempty(fidelity.get("completed_on")) or not DATE.match(str(fidelity.get("completed_on"))):
+                    failures.append(f"{key}: source-fidelity completion date is invalid")
+                # Source fidelity is a claim about a translation, not about a
+                # filename: it says this English renders this Pali. Leaving it
+                # unbound meant a sign-off stayed `complete` across later
+                # edits to the very text it was about.
+                recorded = fidelity.get("body_sha256")
+                if not _nonempty(recorded) or not SHA256.match(str(recorded)):
+                    failures.append(f"{key}: completed source-fidelity review needs the body_sha256 it reviewed")
+                    fidelity_complete = False
+                elif body_hash is not None and recorded != body_hash:
+                    failures.append(
+                        f"{key}: source-fidelity sign-off is for an older body; reassess the "
+                        "changed passages or reopen the gate"
+                    )
+                    fidelity_complete = False
+                basis = fidelity.get("bound_by")
+                if basis is not None and not _nonempty(basis):
+                    failures.append(f"{key}: bound_by must say how the sign-off was tied to this body")
 
         read_aloud = record.get("human_read_aloud")
         if not isinstance(read_aloud, dict) or read_aloud.get("status") not in {"pending", "complete"}:
@@ -125,46 +272,13 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
         if not isinstance(reviews, list):
             failures.append(f"{key}: newcomer_reviews must be a list")
             reviews = []
-        participants: set[str] = set()
-        independent_passes = 0
-        current_reviews = 0
-        for index, review in enumerate(reviews, start=1):
-            label = f"{key} review {index}"
-            if not isinstance(review, dict):
-                failures.append(f"{label}: must be an object")
-                continue
-            participant = review.get("participant")
-            if not _nonempty(participant):
-                failures.append(f"{label}: participant label is required")
-            elif str(participant) in participants:
-                failures.append(f"{key}: duplicate participant {participant}")
-            else:
-                participants.add(str(participant))
-            for field in ("reviewed_on", "what_happened", "practical_point"):
-                if not _nonempty(review.get(field)):
-                    failures.append(f"{label}: {field} is required")
-            if _nonempty(review.get("reviewed_on")) and not DATE.match(str(review["reviewed_on"])):
-                failures.append(f"{label}: reviewed_on must be YYYY-MM-DD")
-            if not isinstance(review.get("independent"), bool) or not isinstance(review.get("pass"), bool):
-                failures.append(f"{label}: independent and pass must be booleans")
-
-            # Which body this reader actually read. Recording it is required;
-            # matching today's body is what makes the review count. A review
-            # of an earlier draft stays in the file as history and simply
-            # stops paying toward the threshold.
-            recorded = review.get("body_sha256")
-            if not _nonempty(recorded) or not SHA256.match(str(recorded)):
-                failures.append(f"{label}: body_sha256 of the reviewed text is required")
-                continue
-            if body_hash is None or recorded != body_hash:
-                continue
-            current_reviews += 1
-            if review.get("independent") is True and review.get("pass") is True:
-                independent_passes += 1
+        current_reviews, independent_passes = count_newcomer_evidence(
+            key, reviews, body_hash, failures
+        )
 
         enough_reviews = isinstance(required, int) and current_reviews >= required
         enough_passes = isinstance(passes_required, int) and independent_passes >= passes_required
-        ready = fidelity.get("status") == "complete" and read_aloud_complete and enough_reviews and enough_passes
+        ready = fidelity_complete and read_aloud_complete and enough_reviews and enough_passes
         registry_status = by_key[key].readability_review.status if by_key[key].readability_review else "unreviewed"
         if status in {"ready", "validated"} and not ready:
             failures.append(f"{key}: {status} requires all three evidence gates")
