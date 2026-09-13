@@ -142,8 +142,8 @@ class RepositoryInputTests(unittest.TestCase):
     def test_all_feedback_inputs_pass(self) -> None:
         self.assertEqual(reader_feedback.check(), [])
 
-    def test_only_the_pilot_text_is_enabled(self) -> None:
-        self.assertEqual(reader_feedback.enabled_surfaces(), ["sn36_6"])
+    def test_only_the_pilot_texts_are_enabled(self) -> None:
+        self.assertEqual(reader_feedback.enabled_surfaces(), ["sn36_6", "an2_9", "an3_65"])
 
 
 class ManifestScriptTests(unittest.TestCase):

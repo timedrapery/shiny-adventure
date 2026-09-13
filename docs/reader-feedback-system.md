@@ -50,12 +50,13 @@ and "Reader feedback inputs".
 
 ## The pilot
 
-Feedback is enabled on one text: **SN 36.6, One Arrow, Not Two**. The reasons
-are in the plan: it is in the Essential Five and on a newcomer pathway, it
-carries the most governed terminology of the three pilot texts, and it is
-short enough for one session. Draft comprehension questions exist for AN 2.9
-and AN 3.65 as well, so enabling either later is a one-line change to
-`enabled_surfaces` plus a paragraph map.
+Feedback is enabled on the three pilot texts: **SN 36.6**, **AN 2.9**, and
+**AN 3.65**. SN 36.6 went first (the reasons are in the plan: Essential Five,
+on a newcomer pathway, the most governed terminology, one-session length)
+and is the only one with an editor-written term map; on the other two,
+term mappings come from the words-used panel until an editor writes their
+maps. Enabling a further text is one line in `enabled_surfaces` plus
+`python scripts/paragraph_ids.py --write --surface <key>`.
 
 Everything in `includes/feedback/comprehension/` is marked
 `"editorial_status": "draft"`. Nothing has been through source review. To

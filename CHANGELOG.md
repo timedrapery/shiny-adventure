@@ -8,7 +8,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
-- Added a reader feedback system, enabled first on SN 36.6. Each passage of
+- Added a reader feedback system, enabled on the three pilot texts (SN 36.6, AN 2.9, AN 3.65). Each passage of
   an enabled translation gets a discreet, keyboard- and screen-reader-operable
   "Give feedback" control; the words-used panel asks whether each explanation
   helped; and an optional comprehension review closes the page. Submissions

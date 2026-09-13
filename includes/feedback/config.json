@@ -1,7 +1,9 @@
 {
   "endpoint": null,
   "enabled_surfaces": [
-    "sn36_6"
+    "sn36_6",
+    "an2_9",
+    "an3_65"
   ],
   "contact_optin": false,
   "reader_note": "Feedback goes to the editors of this translation through a form they control. It is used to find wording that is hard to follow and to decide what to revise. It is not published, it is not linked to you, and it never changes a translation by itself.",

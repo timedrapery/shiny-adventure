@@ -9,7 +9,7 @@ import { readFileSync } from "node:fs";
 
 const FEEDBACK_BASE = process.env.FEEDBACK_BASE_URL || "http://127.0.0.1:8765";
 const PILOT = `${FEEDBACK_BASE}/suttas/sn36-6-salla-sutta/`;
-const OTHER = `${FEEDBACK_BASE}/suttas/an2-9-cariya-sutta/`;
+const OTHER = `${FEEDBACK_BASE}/suttas/sn45-2-upaddha-sutta/`;
 const ADMIN_USER = "editor";
 const ADMIN_PASSWORD = "browser-test-password";
 
