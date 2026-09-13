@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 64 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 65 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -262,6 +262,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,518 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>What feeds the distractions that block practice, and what starves them. A closing, practical text for this stage.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="conduct is where practice grows sn 46.1 himavanta sutta nāgas grow big enough for the ocean by first growing on a mountain. conduct is put in the mountain&#x27;s place: it is what the seven awakening factors get large on. ethics and conduct · meditation">
+<h2><a href="../suttas/sn46-1-himavanta-sutta/">Conduct Is Where Practice Grows</a></h2>
+<p class="sutta-card__reference">SN 46.1 · <span lang="pi">Himavanta Sutta</span></p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 2 min · 307 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
+<p>Nāgas grow big enough for the ocean by first growing on a mountain. Conduct is put in the mountain&#x27;s place: it is what the seven awakening factors get large on.</p>
 </article>
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="teaching" data-length="medium" data-search="what is fit to call self? sn 22.59 anattalakkhaṇa sutta the second sermon. not-self laid out as a clean, followable argument rather than an assertion. not-self">
 <h2><a href="../suttas/sn22-59-anattalakkhana-sutta/">What Is Fit to Call Self?</a></h2>

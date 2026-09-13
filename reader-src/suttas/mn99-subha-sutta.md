@@ -583,7 +583,7 @@ whose realm the Tathāgata lives, the arahant, the rightly self-awakened
 Buddha!"
 
 <details class="reader-terms">
-<summary>Words used in this translation (28)</summary>
+<summary>Words used in this translation (30)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -607,6 +607,8 @@ Buddha!"
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>conduct</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
 <dt><dfn>dull distraction</dfn></dt>
@@ -631,6 +633,8 @@ Buddha!"
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>refuge</dfn></dt>
 <dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
@@ -677,6 +681,7 @@ Buddha!"
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
@@ -689,6 +694,7 @@ Buddha!"
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."

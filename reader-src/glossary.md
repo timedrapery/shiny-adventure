@@ -74,6 +74,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conditionality</dfn> <span class="glossary-pali" lang="pi">(idappaccayatā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
+<dt><dfn>conduct</dfn> <span class="glossary-pali" lang="pi">(sīla)</span></dt>
+<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
 <dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>consolation</dfn> <span class="glossary-pali" lang="pi">(assāsa)</span></dt>
@@ -101,6 +103,10 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn> <span class="glossary-pali" lang="pi">(dhamma)</span></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dt><dfn>discernment of qualities</dfn> <span class="glossary-pali" lang="pi">(dhammavicaya)</span></dt>
+<dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
+<dt><dfn>discernment-of-qualities</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>disenchantment</dfn> <span class="glossary-pali" lang="pi">(nibbidā)</span></dt>
 <dd>A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.</dd>
 <dt><dfn>dissatisfaction</dfn> <span class="glossary-pali" lang="pi">(dukkha)</span></dt>
@@ -217,6 +223,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dt><dfn>nāgas</dfn></dt>
+<dd>Great creatures of Indian story. The Pāli word covers both huge serpents and elephants, and the texts often do not say which is meant, so this translation keeps the word rather than picking an animal.</dd>
 </dl>
 
 ## O
@@ -261,10 +269,16 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
 <dt><dfn>regularity of the pattern</dfn></dt>
 <dd>That the same conditions reliably lead to the same results. Paired with the phrase above; the two say one thing from two sides.</dd>
+<dt><dfn>rejoicing</dfn> <span class="glossary-pali" lang="pi">(pīti)</span></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
+<dt><dfn>relaxation</dfn> <span class="glossary-pali" lang="pi">(passaddhi)</span></dt>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
 <dt><dfn>release of mind</dfn> <span class="glossary-pali" lang="pi">(cetovimutti)</span></dt>
 <dd>Release described from the mind or heart side of experience, often paired with release through discernment.</dd>
 <dt><dfn>release through discernment</dfn> <span class="glossary-pali" lang="pi">(paññāvimutti)</span></dt>
 <dd>Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.</dd>
+<dt><dfn>relinquishment</dfn> <span class="glossary-pali" lang="pi">(vossagga)</span></dt>
+<dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>remembering</dfn> <span class="glossary-pali" lang="pi">(sati)</span></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn> <span class="glossary-pali" lang="pi">(paṭigha)</span></dt>
@@ -294,6 +308,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>Saṅgha</dfn> <span class="glossary-pali" lang="pi">(saṅgha)</span></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dt><dfn>seclusion</dfn> <span class="glossary-pali" lang="pi">(patisallana)</span></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual distraction</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>

@@ -3,13 +3,28 @@
   "normalized_term": "passaddhi-sambojjhanga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "tranquility awakening factor",
+  "preferred_translation": "relaxation awakening factor",
   "definition": "One of the seven awakening factors, named here in its specific form.",
   "status": "reviewed",
-  "literal_meaning": "awakening factor of tranquility",
+  "literal_meaning": "awakening factor of relaxation",
   "tags": [
     "core-practice",
     "meditative-development",
     "mental-qualities"
+  ],
+  "alternative_translations": [
+    "tranquility awakening factor"
+  ],
+  "notes": "Inherit the `passaddhi` headword, whose default is `relaxation` and which scopes `tranquility` to prose needing a more state-like English noun. The record read `tranquility awakening factor` until 2026-09-13, contradicting that default and both translation surfaces that list the seven factors.",
+  "example_phrases": [
+    {
+      "pali": "passaddhisambojjhaṅgaṁ bhāveti",
+      "translation": "develops the relaxation awakening factor",
+      "notes": "The running-text form in SN 46.1, where all seven factors are named in the same sentence shape.",
+      "source": "SN 46.1"
+    }
+  ],
+  "sutta_references": [
+    "SN 46.1"
   ]
 }

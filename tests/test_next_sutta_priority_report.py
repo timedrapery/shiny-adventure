@@ -36,11 +36,20 @@ class PriorityReportTests(unittest.TestCase):
             if item.position == "complete":
                 self.assertIn(item.sutta, translated, item.sutta)
 
-    def test_exactly_one_next_item(self) -> None:
-        """The queue names one next translation, so a handoff is unambiguous."""
+    def test_at_most_one_next_item_and_it_is_untranslated(self) -> None:
+        """A handoff is unambiguous: one next translation, or none at all."""
         nexts = [item for item in report.QUEUE if item.position == "next"]
-        self.assertEqual(len(nexts), 1)
-        self.assertNotIn(nexts[0].sutta, translated_suttas())
+        self.assertLessEqual(len(nexts), 1)
+        for item in nexts:
+            self.assertNotIn(item.sutta, translated_suttas())
+
+    def test_a_finished_queue_asks_for_a_fresh_audit(self) -> None:
+        """With nothing left to translate, the table must not read as a plan."""
+        if any(item.position == "next" for item in report.QUEUE):
+            self.skipTest("the queue still has an unfinished item")
+        rendered = report.render_table(report.build_report(self.terms))
+        self.assertIn("there is no next item", rendered)
+        self.assertIn("run a fresh audit", rendered)
 
     def test_render_is_deterministic(self) -> None:
         summary = report.build_report(self.terms)

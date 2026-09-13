@@ -411,7 +411,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (40)</summary>
+<summary>Words used in this translation (43)</summary>
 <dl>
 <dt><dfn>aversive distraction</dfn></dt>
 <dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
@@ -467,12 +467,18 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>rejoicing</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>release of mind</dfn></dt>
 <dd>Release described from the mind or heart side of experience, often paired with release through discernment.</dd>
 <dt><dfn>release through discernment</dfn></dt>
 <dd>Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.</dd>
+<dt><dfn>relinquishment</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>resistance</dfn></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
+<dt><dfn>seclusion</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>sphere of boundless knowing</dfn></dt>
@@ -545,9 +551,12 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
+*[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[release of mind]: Release described from the mind or heart side of experience, often paired with release through discernment.
 *[release through discernment]: Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.
+*[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
+*[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[sphere of boundless knowing]: A deep meditative state in which awareness rests on knowing itself without limit.
 *[sphere of boundless space]: A deep meditative state in which awareness rests on space without limit.

@@ -1,18 +1,24 @@
 # Wave 10 Execution Plan
 
-This is the durable handoff document for the active translation wave. A
-contributor should be able to clone the repository on another machine,
-confirm the baseline, and continue without relying on chat history.
+**Wave 10 is complete as of 2026-09-13.** All four queue items are published,
+and there is no next item in this plan.
+
+The next translation task is a fresh audit, not another text from the ranking
+below. See [Running the next audit](#running-the-next-audit).
+
+This page stays as the durable record of the wave: its baseline, its source
+findings, the packet every sutta needs, and the validation gates. Those last
+two still apply to whatever the next audit selects.
 
 ## Baseline
 
-Snapshot date: 2026-09-13, after AN 8.39.
+Snapshot date: 2026-09-13, at the close of the wave.
 
-- 64 governed translation surfaces and 64 generated sutta pages
+- 65 governed translation surfaces and 65 generated sutta pages
 - 1,157 governed term records
-- 635 cited term records: 544 anchored by a translated surface and 91 orphaned
+- 638 cited term records: 548 anchored by a translated surface and 90 orphaned
 - 9 orphan major terms
-- 813 cited example phrases checked: zero partial and zero absent matches
+- 816 cited example phrases checked: zero partial and zero absent matches
 - all generated sutta pages included in the rendered axe accessibility suite
 
 Do not copy these numbers forward. They are a snapshot, and the two commands
@@ -61,14 +67,26 @@ in formula or cluster work, not automatically in the reader queue.
 - `kāmesu micchācārā veramaṇī` is not in AN 8.39. The discourse has
   `kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti` and no form of
   `veramaṇī` anywhere. The citation now quotes the running text.
+- `bojjhaṅgabhāvanā` is not in SN 46.1. The discourse contains no form of
+  `bhāvanā` at all; its running text is `satta bojjhaṅge bhāvento satta
+  bojjhaṅge bahulīkaronto`. Two records quoted the compound to it, including
+  the orphan record that ranked the text. Both now quote running text.
 - All of these have the same shape as the earlier `ariyapuggala` and
   `upasamānussati` findings. An `inflected` verdict on a short headword or on
   a precept formula is worth opening by hand; the verifier proves a string
   occurs, not that the governed term does.
+- **The SN 46.1 case extends that rule to `inconclusive`.** A discourse that
+  uses peyyāla makes the verifier return `inconclusive` for anything it cannot
+  find, which proves nothing either way — so a false citation can sit behind
+  that verdict indefinitely. On a short discourse the elision is usually
+  readable: check what the peyyāla actually stands for, and the question is
+  decidable by hand.
 
 ## Committed Queue
 
-Work in this order unless a direct reader request takes priority.
+All four items are published. This section is now history; it is kept because
+the source decisions recorded in it are still the precedents the next wave
+works from.
 
 1. **AN 11.12, Dutiyamahānāma Sutta** — **complete 2026-08-25.** 367 Pali
    words. Anchors six verified recollection compounds in a portable practice
@@ -86,10 +104,14 @@ Work in this order unless a direct reader request takes priority.
    and `saṅgha` were closed at the same time, each against an exact
    running-text phrase. The source boundary excludes `an8.39:8.2`
    (`Navamaṁ`); the source audit found one bad citation, recorded below.
-4. **SN 46.1, Himavanta Sutta** — **not started. This is the next
-   translation.** 125 Pali words. One orphan awakening-factor anchor
-   (`bojjhaṅga-bhāvanā`) and a compact practice comparison. Verify that
-   signal against the root before drafting, as with every other item here.
+4. **SN 46.1, Himavanta Sutta** — **complete 2026-09-13.** 125 Pali words.
+   Conduct as the ground the seven awakening factors grow on, in one simile.
+   The source boundary excludes `sn46.1:1.14` (`Paṭhamaṁ`); the five elided
+   factors are written out because the peyyāla stands for nothing but a tail
+   the source prints twice. Its one ranked orphan signal,
+   `bojjhaṅga-bhāvanā`, turned out to quote a compound the discourse does not
+   contain; the record is anchored here by repair, and the finding is recorded
+   below.
 
 DN 21 and DN 1 each carry one orphan major but are deferred at roughly 3,142
 and 7,693 Pali words. Their reader value may justify later full packets, but
@@ -159,9 +181,11 @@ python scripts/repo_health.py
 
 Read this plan, the short
 [active roadmap](next-sutta-translation-roadmap.md), and the
-[translation workflow](translation-workflow-plan.md). The first unfinished
-queue item is **SN 46.1**. Create a `codex/` or contributor branch and keep
-the entire translation packet together. Before stopping, record completed work,
+[translation workflow](translation-workflow-plan.md). There is no unfinished
+queue item; run the audit described under
+[Running the next audit](#running-the-next-audit) first. Then create a
+`codex/` or contributor branch and keep the entire translation packet
+together. Before stopping, record completed work,
 open questions, exact validation results, and the next action in the surface
 notes or this plan—not only in a local terminal or chat.
 
@@ -170,17 +194,40 @@ green and open the public reader page. Check the title, introduction,
 translation, source disclosure, previous/next navigation, and narrow-screen
 reflow.
 
-## Definition of Wave Completion
+## Wave Completion
 
-Three of the four queue items are published. Wave 10 is complete when SN 46.1
-joins them, its source examples pass the strict verifier, the full repository
-checks and rendered accessibility suite pass, and the live pages are
-reachable.
+All four queue items are published, their source examples pass the strict
+verifier, the full repository checks and the rendered accessibility suite
+pass, and the live pages are reachable. Wave 10 is complete.
 
-Recorded reader evidence is not part of that definition. It is a separate,
-open-ended workstream, and waiting for it would stop the wave indefinitely.
+Recorded reader evidence was not part of that definition and is not a gap in
+it. It is a separate, open-ended workstream; waiting for it would have stopped
+the wave indefinitely. All four surfaces are published as `provisional` and
+stay that way until their evidence is recorded.
 
-After SN 46.1, run a fresh audit. Do not extend this ranking: it was built
-against a 61-surface corpus, three of its four items are done, and every wave
-so far has found leverage signals that were wrong until checked against the
-source. Replace this plan with the new audit rather than relabeling it.
+## Running the Next Audit
+
+Do not pick the next text from the queue above. That ranking was computed
+against a 61-surface corpus, every item in it is done, and each of the four
+waves so far has found at least one leverage signal that was wrong until it
+was checked against the source.
+
+Start here instead:
+
+```bash
+python scripts/audit_surface_leverage.py --top 20
+python scripts/next_sutta_priority_report.py
+```
+
+Then, for each candidate the audit ranks:
+
+1. Fetch the root text and confirm the governed term is in meaningful running
+   prose, not a bare list, a peyyāla stub, a collection heading, or a
+   related-but-different compound.
+2. Read the segment the citation quotes. Both `inflected` and `inconclusive`
+   verdicts hide false citations, and six have been found this way so far.
+3. Only then commit to a queue position, and write the new plan from the audit
+   rather than relabeling this one.
+
+The **Packet Required for Every Sutta** and **Validation Gates** sections above
+carry forward unchanged, whatever the next audit selects.
