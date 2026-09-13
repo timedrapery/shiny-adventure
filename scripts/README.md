@@ -23,6 +23,17 @@ generating script first.
 - `python scripts/check_readability_reviews.py`
   Validates neutral readability-review coverage, companion-note metadata,
   review status, and translation-body hashes for every registered surface.
+- `python scripts/paragraph_ids.py --check`
+  Verifies that every reader-feedback paragraph map in
+  `includes/feedback/paragraph-ids/` matches its translation; `--write`
+  realigns a map after an edit, keeping ids stable across unrelated changes.
+- `python scripts/reader_feedback.py --check`
+  Validates the reader feedback inputs: site config, term maps, and
+  versioned comprehension question sets.
+- `python scripts/stage_feedback_evidence.py --export session.json`
+  Checks a reviewed formal-session export from the feedback service against
+  the newcomer ledger contract; `--write` appends it when the ledger check
+  still passes.
 - `python scripts/check_reader_accessibility.py`
   Validates the source-level reader contract: heading hierarchy, reading
   metadata, skip links, visible definitions, named reading-order navigation,

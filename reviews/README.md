@@ -16,7 +16,10 @@ reviews complete**. Source-fidelity review is complete for every cohort text.
 | SN 36.6 | [One Arrow, Not Two](https://timedrapery.github.io/shiny-adventure/suttas/sn36-6-salla-sutta/) | pending | 0/5 | 0/4 |
 | AN 3.65 | [How to Test a Teaching](https://timedrapery.github.io/shiny-adventure/suttas/an3-65-kesamutta-sutta/) | pending | 0/5 | 0/4 |
 
-Use the [printable pilot session sheet](pilot-session-sheet.md). Finish and
+Use the [printable pilot session sheet](pilot-session-sheet.md) and the
+[facilitator guide](facilitator-guide.md), which explains how to run a
+session through the reader feedback system and stage its export into this
+ledger. Finish and
 evaluate this pilot before recruiting for the remaining nine texts.
 
 ## Remaining First 12

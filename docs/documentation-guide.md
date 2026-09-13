@@ -79,6 +79,8 @@ do not override live term records or normative policy docs.
 
 - [`project-overview.md`](project-overview.md): scope, entry model, and design intent
 - [`architecture.md`](architecture.md): how terms, schema, scripts, tests, and review layers fit together
+- [`reader-feedback-system.md`](reader-feedback-system.md): how reader feedback is collected, tied to passages and terms, reviewed, and staged as evidence
+- [`reader-feedback-plan.md`](reader-feedback-plan.md): the design decisions behind the feedback system
 - [`../README.md`](../README.md): public-facing overview and quick-start path
 - [`../terms/README.md`](../terms/README.md): how the live lexicon is laid out on disk
 - [`../candidates/README.md`](../candidates/README.md): what belongs in intake versus the live lexicon
