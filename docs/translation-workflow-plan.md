@@ -50,12 +50,23 @@ python -m venv .venv
 python -m pip install -r requirements-dev.txt
 ```
 
+## Update As Of 2026-09-13
+
+- 64 governed translation surfaces and 64 generated reader pages. AN 8.39
+  completes the third Wave 10 queue item; only SN 46.1 remains in the wave.
+- All 64 surfaces report no automated plain-English register signals.
+- The AN 8.39 source audit found a fifth citation of the `inflected` shape.
+  `kāmesu-micchācāra` cited `kāmesu micchācārā veramaṇī` to AN 8.39, which
+  contains no form of `veramaṇī` at all. Repaired to the discourse's own
+  `pahāya … paṭivirato hoti` wording; see the AN 8.39 notes.
+- That packet also recorded, without fixing, that DN 2, MN 99, and MN 18
+  render `samaṇa` as `ascetic`, which its record lists as discouraged, while
+  six other surfaces use the governed `recluse`. Nothing catches this because
+  the drift checker compares term records rather than translation prose.
+
 ## Update As Of 2026-09-11
 
-- 63 governed translation surfaces and 63 generated reader pages. MN 36 was
-  added by direct request, outside the Wave 10 queue, which still continues
-  with AN 8.39 and SN 46.1.
-- All 63 surfaces report no automated plain-English register signals.
+- MN 36 was added by direct request, outside the Wave 10 queue.
 - The MN 36 source audit found a fourth citation of the `inflected` shape:
   three records cited MN 36 for `nāparaṃ itthattāyāti pajānāti`, which it
   does not contain. Repaired; see the MN 36 notes.

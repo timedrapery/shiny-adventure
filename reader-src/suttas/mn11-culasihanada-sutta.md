@@ -305,7 +305,7 @@ Buddha had said.
 The Cūḷasīhanāda Sutta, the first, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (23)</summary>
+<summary>Words used in this translation (24)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -345,6 +345,8 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
 <dt><dfn>putting things together</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
+<dt><dfn>recluses</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
 <dt><dfn>six fields of experience</dfn></dt>
 <dd>The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated &quot;sense bases.&quot;</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -398,6 +400,7 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
+*[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
 *[six fields of experience]: The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated "sense bases."
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."

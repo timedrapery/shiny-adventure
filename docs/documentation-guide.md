@@ -101,7 +101,7 @@ do not override live term records or normative policy docs.
 - [`asava-method-sequence-sheet.md`](asava-method-sequence-sheet.md): control sheet for the `MN 2` outflow-method sequence
 - [`tanha-origin-formula-sheet.md`](tanha-origin-formula-sheet.md): control sheet for the `SN 56.11` taṇhā-definition line
 - [`first-jhana-entry-sheet.md`](first-jhana-entry-sheet.md): control sheet for the first-jhāna entry sequence used by `DN 2` and linked live translations
-- [`generated/next-sutta-priority-table.md`](generated/next-sutta-priority-table.md): compact audit snapshot of rank, citation density, and cluster pressure
+- [`generated/next-sutta-priority-table.md`](generated/next-sutta-priority-table.md): generated queue table and live orphan counts, written by `scripts/next_sutta_priority_report.py`
 - [`mn1-mn18-mn148-linked-surface-brief.md`](mn1-mn18-mn148-linked-surface-brief.md): linked control brief for recognition, proliferation, selfing, taking personally, identity, and de-appropriation across MN 1, MN 18, and MN 148
 - [`practice-text-surface-map.md`](practice-text-surface-map.md): shared MN 10 / MN 118 practice control lines
 - [`sensory-response-surface-map.md`](sensory-response-surface-map.md): shared MN 137 / MN 148 feeling-domain control lines

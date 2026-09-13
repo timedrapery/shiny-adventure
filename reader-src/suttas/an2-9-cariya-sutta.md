@@ -146,7 +146,7 @@ The ninth discourse is finished.
 
 - [← When Life Goes Up and Down](an8-6-dutiyalokadhamma-sutta.md)
 - [All suttas](index.md)
-- [The Dirty Cloth →](mn7-vattha-sutta.md)
+- [Eight Streams of Benefit →](an8-39-abhisanda-sutta.md)
 
 </nav>
 

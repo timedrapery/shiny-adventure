@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (63 total)
+## Completed Surfaces (64 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -83,6 +83,15 @@ Use that full roadmap as the source of truth for:
   complete 2026-08-25. Anchors six verified recollection compounds and shows
   how remembering leads through active gladness, rejoicing, relaxation, and
   satisfaction to composure in ordinary daily life.
+- `SN 12.20` Paccaya Sutta (Discovered, Not Invented) — complete 2026-08-27.
+  Separates dependent arising, the pattern, from the things that arise
+  dependently, and anchors four of its five ranked orphan signals. The fifth,
+  `dhammatā`, turned out not to be in the discourse.
+- `AN 8.39` Abhisanda Sutta (Eight Streams of Benefit) — complete 2026-09-13.
+  Presents the three refuges and the five abstentions as things that give
+  every other being freedom from fear. Anchors both of its ranked orphan
+  signals, `kāmesu-micchācāra` and `surāmeraya-majjapamādaṭṭhāna`, and closes
+  `dāna`, `saraṇa`, and `saṅgha` on the way.
 
 ### Outside the Wave Sequence
 - `SN 56.17` Avijjā Sutta (What Ignorance Means) — requested directly. A
@@ -141,13 +150,21 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-Wave 9 is complete. A fresh 61-surface, 1,155-term audit was run on 2026-08-25
-after AN 11.12 and two source-metadata corrections. Of 633 cited records, 532
-are now anchored and 101 are orphaned. The next verified queue is SN 12.20,
-AN 8.39, and SN 46.1. Use the durable
-[Wave 10 execution plan](wave-10-execution-plan.md) for source checks,
-validation gates, and handoff. The full reasoning and historical audit state
-remain in [next-suttas-roadmap.md](next-suttas-roadmap.md).
+**Next translation: `SN 46.1` Himavanta Sutta**, the last unfinished item in
+Wave 10. After it, run a fresh audit rather than extending this ranking.
+
+AN 11.12, SN 12.20, and AN 8.39 are published. The audit behind this queue was
+run on 2026-08-25 against 61 surfaces and 1,155 term records; re-running it
+today reports 64 surfaces, 1,157 records, and 91 orphans of 635 cited. Use the
+durable [Wave 10 execution plan](wave-10-execution-plan.md) for source checks,
+validation gates, and handoff, and reproduce the numbers with
+`python scripts/audit_surface_leverage.py --top 20` rather than quoting them
+from here. The full reasoning and historical audit state remain in
+[next-suttas-roadmap.md](next-suttas-roadmap.md).
+
+Human newcomer review runs in parallel and does not gate translation work. A
+published surface stays `provisional` until its human evidence is recorded;
+see the [newcomer review workboard](../reviews/README.md).
 
 Wave 7 completed on 2026-08-21. Its order was:
 

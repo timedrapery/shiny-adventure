@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 63 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 64 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -122,6 +122,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching · Short · about 1 min · 109 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started · Ethics and conduct</p>
 <p>Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="eight streams of benefit an 8.39 abhisanda sutta keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it. ethics and conduct">
+<h2><a href="../suttas/an8-39-abhisanda-sutta/">Eight Streams of Benefit</a></h2>
+<p class="sutta-card__reference">AN 8.39 · <span lang="pi">Abhisanda Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching · Short · about 5 min · 734 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
+<p>Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the dirty cloth mn 7 vattha sutta a mind is like cloth: dye it while it is dirty and the colour comes out wrong. ethics introduced through a simile instead of a rule list. ethics and conduct">
 <h2><a href="../suttas/mn7-vattha-sutta/">The Dirty Cloth</a></h2>

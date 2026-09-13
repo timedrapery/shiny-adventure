@@ -7,7 +7,7 @@ Structured Pali-to-English translation infrastructure for early Buddhist transla
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 **[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
-63 early Buddhist discourses in clear, common English, with newcomer guidance,
+64 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
 New here:
@@ -204,17 +204,27 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
-The repository has 63 registered translation surfaces and a plain-English
+The repository has 64 registered translation surfaces and a plain-English
 standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-Picking the reader-accessibility work up cold: start with the durable
+The next translation is **SN 46.1, Himavanta Sutta**, the last unfinished item
+in Wave 10. After it, run a fresh audit rather than extending that ranking.
+
+Picking the work up cold: for translation expansion, start with the
+[Wave 10 execution plan](docs/wave-10-execution-plan.md), then use
+[docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the
+full editorial method and repository history. For reader accessibility, start
+with the durable
 [newcomer accessibility implementation plan](docs/newcomer-accessibility-implementation-plan.md)
-and the [newcomer review workboard](reviews/README.md). For translation
-expansion, start with the [Wave 10 execution plan](docs/wave-10-execution-plan.md),
-then use [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md)
-for the full editorial method and repository history.
+and the [newcomer review workboard](reviews/README.md).
+
+The two run in parallel. A translation is published once its automated and
+editorial gates pass, and is marked `provisional` until recorded reader
+evidence raises it to `validated`. Reader recruitment never blocks drafting,
+and no reader evidence is ever inferred or backfilled to make it look
+finished.
 
 Planning notes live in the [Wave 10 execution plan](docs/wave-10-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 

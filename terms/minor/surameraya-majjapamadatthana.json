@@ -19,5 +19,13 @@
   "tags": [
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "surāmerayamajjapamādaṭṭhānaṁ pahāya surāmerayamajjapamādaṭṭhānā paṭivirato hoti",
+      "translation": "gives up intoxicants that lead to heedlessness and refrains from intoxicants that lead to heedlessness",
+      "notes": "The fifth of the five great gifts in AN 8.39. Added 2026-09-13; the record previously carried a bare reference with no quoted source text.",
+      "source": "AN 8.39"
+    }
+  ]
 }

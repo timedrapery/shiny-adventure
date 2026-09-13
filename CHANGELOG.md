@@ -8,6 +8,30 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 8.39, Abhisanda Sutta, with
+  companion notes, a reader introduction, reader metadata, and a generated
+  reader page placed in stage 2 after AN 2.9. The discourse counts the three
+  refuges and the five abstentions as eight streams of benefit, and describes
+  each abstention as a gift: someone who has given up killing, stealing,
+  betrayal, lying, or drunken recklessness has given every other being freedom
+  from fear, freedom from enmity, and freedom from affliction, and comes to
+  share in that freedom without limit. Both of its ranked orphan signals,
+  `kāmesu-micchācāra` and `surāmeraya-majjapamādaṭṭhāna`, are anchored in
+  running text, and `dāna`, `saraṇa`, and `saṅgha` are closed along the way.
+  Corpus orphans 96 to 91.
+- Added two minor phrase records the AN 8.39 translation needed:
+  `puññābhisando kusalābhisando`, which holds `benefit` and `wholesome` to
+  their own governed headwords across the discourse's signature compound, and
+  `abhayaṁ averaṁ abyābajjhaṁ`, which fixes one `freedom from` frame for all
+  three members of the triad. `dāna` gains a context rule for the countable
+  sense, since `five generosities` is not English.
+- Added `scripts/next_sutta_priority_report.py`, so
+  `docs/generated/next-sutta-priority-table.md` is generated from the live
+  corpus instead of written by hand into `docs/generated/`, where nothing
+  regenerated it. The committed file had drifted to 61 surfaces and 101
+  orphans against an actual 64 and 91, and still listed a finished text as the
+  next item. `check_generated_docs.py` now fails when it drifts again.
+
 - Added a reader feedback system, enabled on the three pilot texts (SN 36.6, AN 2.9, AN 3.65). Each passage of
   an enabled translation gets a discreet, keyboard- and screen-reader-operable
   "Give feedback" control; the words-used panel asks whether each explanation
@@ -119,6 +143,25 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Separated the two kinds of review gate across the planning documents. The
+  automated and editorial gates are what a translation must clear to be
+  published, as `provisional`; recorded newcomer and read-aloud evidence is an
+  open-ended workstream that raises a published surface to `validated`. The
+  Wave 10 plan, the newcomer accessibility plan, and the review workboard now
+  say so, and none of them tells a contributor to stop translating while the
+  ledger is empty. No evidence rule was relaxed: reader evidence still must be
+  recorded against the body hash it was gathered against, and must never be
+  inferred, simulated, or backfilled.
+- Refreshed the stale counts, queue positions, and next-action language in the
+  Wave 10 execution plan, the active roadmap, the newcomer accessibility plan,
+  the review workboard, and the translation workflow plan. Where a document
+  quoted a number that a script can regenerate, it now says which script to
+  run instead of inviting the next reader to trust the snapshot.
+- Recorded in the Wave 10 plan that `verify_example_sources.py --strict`
+  reports `unfetched` for Dhp verse ranges and bundled AN and SN files when
+  `https://api.github.com` is unreachable, because that is how the resolver
+  finds a bundle. It is a network result rather than a citation problem.
+
 - Set `site_url` in `mkdocs.yml`. Without it, the site's 404 page loaded its
   stylesheets and scripts from the domain root instead of `/shiny-adventure/`,
   so any mistyped or not-yet-deployed address showed an unstyled page with a
@@ -130,6 +173,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   for the exact form, `asava` now quotes MN 36's own line naming the three
   outflows, and `abhijanati` gains MN 36 as a running-text example. All three
   old citations had passed the strict verifier as `inflected`.
+- Corrected a false source signal found while auditing AN 8.39:
+  `kāmesu-micchācāra` cited `kāmesu micchācārā veramaṇī` to that discourse,
+  which contains no form of `veramaṇī`. It now quotes the discourse's own
+  `kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti`. The old
+  citation had passed the strict verifier as `inflected`, the same shape as
+  the `ariyapuggala`, `upasamānussati`, `dhammatā`, and MN 36 findings.
 - Corrected two more false source signals found while auditing SN 12.20:
   `dhammatā` does not occur in that discourse and now cites DN 14, and
   `dhammatthiti` cited a form that was neither the headword nor the source
@@ -170,7 +219,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 63 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 64 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
