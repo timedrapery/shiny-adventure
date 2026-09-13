@@ -176,12 +176,17 @@
   }
 
   async function post(endpoint, payload) {
-    const response = await fetch(`${endpoint}/api/submissions`, {
-      method: "POST",
-      mode: "cors",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(payload),
-    });
+    let response;
+    try {
+      response = await fetch(`${endpoint}/api/submissions`, {
+        method: "POST",
+        mode: "cors",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(payload),
+      });
+    } catch (error) {
+      return { ok: false }; // network failure: the form keeps its contents
+    }
     if (response.ok) return { ok: true };
     if (response.status === 400 || response.status === 413 || response.status === 422) {
       return { ok: false, rejected: true };
@@ -544,9 +549,13 @@
       const data = new FormData(form);
       const answers = {};
       let anyAnswer = false;
+      // Answers are keyed by the question's role (paraphrase, specific,
+      // reread) so the reviewed export can map them onto the evidence
+      // ledger's fields; the exact prompts are identified by the question
+      // set version and hash sent alongside.
       review.questions.forEach((question) => {
         const answer = normalize(data.get(question.id)).slice(0, 2000);
-        answers[question.id] = answer;
+        answers[question.role] = answer;
         if (answer) anyAnswer = true;
       });
       if (!anyAnswer) {

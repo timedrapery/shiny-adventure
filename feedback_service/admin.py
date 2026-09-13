@@ -263,7 +263,7 @@ def detail_page(app: "FeedbackApp", user: str, row, notice: str) -> str:
     parts.append("<h2>Governed terms</h2>")
     if doc["terms"]:
         parts.append("<ul>" + "".join(
-            f'<li><a href="/admin/?{urlencode({"term": t["term_id"]})}">{h(t["term_id"])}</a> <span class="muted">({h(t["basis"])} mapping)</span></li>'
+            f'<li><a href="/admin/?{urlencode({"term": t["id"]})}">{h(t["id"])}</a> <span class="muted">({h(t["basis"])} mapping)</span></li>'
             for t in doc["terms"]) + "</ul>")
     else:
         parts.append("<p class=\"muted\">Unmapped: no explicit or glossary-backed term mapping for this passage. Record the term below if you identify one.</p>")
