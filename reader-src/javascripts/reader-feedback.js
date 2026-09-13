@@ -175,7 +175,32 @@
     };
   }
 
+  // A Google Form the editors own can stand in for the service when there
+  // is nothing to host. The page posts one long-answer field carrying the
+  // whole submission as JSON; the browser cannot read the form's reply
+  // (mode "no-cors"), so a completed request counts as received and the
+  // client submission id lets the ingest step drop any retry duplicate.
+  function transportFor(manifest) {
+    const transport = manifest.transport;
+    if (transport && transport.kind === "google-form" && transport.form_action && transport.payload_field) {
+      return transport;
+    }
+    return null;
+  }
+
+  async function postToForm(transport, payload) {
+    const body = new FormData();
+    body.append(transport.payload_field, JSON.stringify(payload));
+    try {
+      await fetch(transport.form_action, { method: "POST", mode: "no-cors", body });
+    } catch (error) {
+      return { ok: false };
+    }
+    return { ok: true };
+  }
+
   async function post(endpoint, payload) {
+    if (endpoint && typeof endpoint === "object") return postToForm(endpoint, payload);
     let response;
     try {
       response = await fetch(`${endpoint}/api/submissions`, {
@@ -614,8 +639,11 @@
     if (!root || root.dataset.readerFeedback === "ready") return;
     root.dataset.readerFeedback = "ready";
 
-    const endpoint = endpointFor(manifest);
-    if (!(await serviceIsHealthy(endpoint))) return;
+    // `endpoint` is either the service origin (a string) or the form
+    // transport object; `post` tells them apart.
+    const transport = transportFor(manifest);
+    const endpoint = transport || endpointFor(manifest);
+    if (!transport && !(await serviceIsHealthy(endpoint))) return;
     const session = sessionContext();
 
     revealSection(session);

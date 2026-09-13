@@ -86,6 +86,7 @@ def load_config(path: Path = CONFIG_PATH) -> dict[str, Any]:
     data.setdefault("enabled_surfaces", [])
     data.setdefault("contact_optin", False)
     data.setdefault("reader_note", DEFAULT_READER_NOTE)
+    data.setdefault("transport", None)
     return data
 
 
@@ -109,9 +110,41 @@ def config_problems(data: dict[str, Any]) -> list[str]:
             problems.append("config: enabled_surfaces contains duplicates")
     if not isinstance(data.get("contact_optin"), bool):
         problems.append("config: contact_optin must be true or false")
+    transport = data.get("transport")
+    if transport is not None:
+        problems.extend(transport_problems(transport))
+        if endpoint is not None:
+            problems.append("config: set either endpoint or transport, not both")
     note = data.get("reader_note")
     if not isinstance(note, str) or not note.strip():
         problems.append("config: reader_note must be a nonempty string")
+    return problems
+
+
+GOOGLE_FORM_ACTION_RE = re.compile(
+    r"^https://docs\.google\.com/forms/(?:d/e/|u/\d+/d/e/)[A-Za-z0-9_-]{20,}/formResponse$"
+)
+ENTRY_RE = re.compile(r"^entry\.\d{3,}$")
+
+
+def transport_problems(transport: Any) -> list[str]:
+    """A transport is a no-hosting mailbox the public page can post to.
+
+    Only one kind exists: a Google Form the editors own. The page posts one
+    long-answer field carrying the JSON submission; the responses sheet is
+    then loaded into the maintainer queue with `feedback_service ingest`.
+    """
+    if not isinstance(transport, dict):
+        return ["config: transport must be an object"]
+    problems: list[str] = []
+    if transport.get("kind") != "google-form":
+        problems.append("config: transport.kind must be 'google-form'")
+    action = transport.get("form_action")
+    if not isinstance(action, str) or not GOOGLE_FORM_ACTION_RE.match(action):
+        problems.append("config: transport.form_action must be the form's formResponse URL")
+    field = transport.get("payload_field")
+    if not isinstance(field, str) or not ENTRY_RE.match(field):
+        problems.append("config: transport.payload_field must look like entry.1234567890")
     return problems
 
 
@@ -367,6 +400,7 @@ def build_manifest(
         "page_path": page_path,
         "body_sha256": body_sha256,
         "endpoint": config.get("endpoint"),
+        "transport": config.get("transport"),
         "contact_optin": bool(config.get("contact_optin", False)),
         "reader_note": config.get("reader_note", DEFAULT_READER_NOTE),
         "categories": list(FEEDBACK_CATEGORIES),
