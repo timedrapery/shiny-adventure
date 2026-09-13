@@ -461,6 +461,14 @@ class FormalSessionTests(unittest.TestCase):
         self.assertEqual(data["records"][0]["participant_kind"], "returning")
         self.assertEqual(data["records"][0]["returning_from"], {"session": "pilot001", "participant": "R1"})
         self.assertEqual([p["kind"] for p in data["participants"]], ["returning", "fresh"])
+        # A returning reader is a follow-up and is never independent, whatever
+        # the facilitator tried to record.
+        self.assertTrue(data["records"][0]["follow_up"])
+        self.assertFalse(data["records"][0]["independent"])
+        returning = storage.participant(later["id"], "R1")
+        self.assertEqual(returning["independent"], 0)
+        storage.set_participant_independent(returning["id"], True)
+        self.assertEqual(storage.participant(later["id"], "R1")["independent"], 0)
 
 
 class OperationsTests(unittest.TestCase):

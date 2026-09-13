@@ -56,18 +56,32 @@ class StagingTests(unittest.TestCase):
     def setUp(self) -> None:
         self.ledger = newcomer_checks.load_ledger()
 
+    def approved(self, **overrides) -> dict:
+        return export_fixture(question_editorial_status="approved", **overrides)
+
     def test_current_body_record_is_staged_and_counts(self) -> None:
-        records, notes = stage_evidence.stage(export_fixture(), self.ledger)
+        records, notes = stage_evidence.stage(self.approved(), self.ledger)
         self.assertEqual(len(records), 1)
         self.assertEqual(records[0]["participant"], "R1")
+        self.assertFalse(records[0]["follow_up"])
         self.assertEqual(records[0]["evidence_source"]["session"], "pilot001")
-        self.assertTrue(any("counts toward the threshold" in n for n in notes))
-        self.assertTrue(any("DRAFT question set" in n for n in notes))
+        self.assertEqual(records[0]["evidence_source"]["question_set_sha256"], "a" * 64)
+        self.assertFalse(records[0]["evidence_source"]["draft_questions_accepted_by_editor"])
+        self.assertTrue(any("current body" in n for n in notes))
         updated = stage_evidence.apply(self.ledger, "sn36_6", records)
         self.assertEqual(newcomer_checks.collect_failures(updated, REPO_ROOT), [])
 
+    def test_draft_question_responses_are_exploratory_unless_an_editor_accepts_them(self) -> None:
+        records, notes = stage_evidence.stage(export_fixture(), self.ledger)
+        self.assertEqual(records, [])
+        self.assertTrue(any("not staged" in n and "draft" in n for n in notes))
+        records, notes = stage_evidence.stage(export_fixture(), self.ledger, accept_draft_questions=True)
+        self.assertEqual(len(records), 1)
+        self.assertTrue(records[0]["evidence_source"]["draft_questions_accepted_by_editor"])
+        self.assertEqual(records[0]["evidence_source"]["question_editorial_status"], "draft")
+
     def test_older_body_is_staged_as_history_only(self) -> None:
-        records, notes = stage_evidence.stage(export_fixture(body_sha256="b" * 64), self.ledger)
+        records, notes = stage_evidence.stage(self.approved(body_sha256="b" * 64), self.ledger)
         self.assertEqual(len(records), 1)
         self.assertTrue(any("does not count" in n for n in notes))
 
@@ -80,32 +94,59 @@ class StagingTests(unittest.TestCase):
 
     def test_unassessed_record_is_refused(self) -> None:
         with self.assertRaises(stage_evidence.StagingError):
-            stage_evidence.stage(export_fixture(assessment=None), self.ledger)
+            stage_evidence.stage(self.approved(assessment=None), self.ledger)
 
-    def test_returning_reader_gets_a_distinct_ledger_label(self) -> None:
+    def test_returning_reader_keeps_identity_and_never_counts_as_independent(self) -> None:
         ledger = copy.deepcopy(self.ledger)
         ledger["surfaces"]["sn36_6"]["newcomer_reviews"].append({
             "participant": "R1", "reviewed_on": "2026-09-01", "independent": True,
             "what_happened": "x", "practical_point": "y", "confusing_words": [], "pass": True,
             "body_sha256": "c" * 64,
         })
-        fixture = export_fixture(participant_kind="returning",
-                                 returning_from={"session": "pilot000", "participant": "R1"})
-        records, _ = stage_evidence.stage(fixture, ledger)
-        self.assertEqual(records[0]["participant"], "R1@pilot001")
-        self.assertEqual(records[0]["evidence_source"]["participant_kind"], "returning")
+        # The service labels them R7 in the later session and, wrongly, independent.
+        fixture = self.approved(participant="R7", participant_kind="returning", independent=True,
+                                returning_from={"session": "pilot000", "participant": "R1"})
+        records, notes = stage_evidence.stage(fixture, ledger)
+        record = records[0]
+        self.assertEqual(record["participant"], "R1")
+        self.assertTrue(record["follow_up"])
+        self.assertFalse(record["independent"])
+        self.assertEqual(record["evidence_source"]["session_label"], "R7")
+        self.assertTrue(any("staged as independent: false" in n for n in notes))
         updated = stage_evidence.apply(ledger, "sn36_6", records)
         self.assertEqual(newcomer_checks.collect_failures(updated, REPO_ROOT), [])
+        # One participant for the current body, zero independent passes.
+        failures: list[str] = []
+        count, passes = newcomer_checks.count_newcomer_evidence(
+            "sn36_6", updated["surfaces"]["sn36_6"]["newcomer_reviews"], CURRENT_HASH, failures
+        )
+        self.assertEqual((count, passes, failures), (1, 0, []))
+
+    def test_returning_reader_without_an_earlier_record_is_refused(self) -> None:
+        fixture = self.approved(participant_kind="returning",
+                                returning_from={"session": "pilot000", "participant": "R1"})
+        with self.assertRaises(stage_evidence.StagingError):
+            stage_evidence.stage(fixture, self.ledger)
+
+    def test_fresh_reader_cannot_reuse_a_ledger_label(self) -> None:
+        ledger = copy.deepcopy(self.ledger)
+        ledger["surfaces"]["sn36_6"]["newcomer_reviews"].append({
+            "participant": "R1", "reviewed_on": "2026-09-01", "independent": True,
+            "what_happened": "x", "practical_point": "y", "confusing_words": [], "pass": True,
+            "body_sha256": "c" * 64,
+        })
+        with self.assertRaises(stage_evidence.StagingError):
+            stage_evidence.stage(self.approved(), ledger)
 
     def test_already_staged_submission_is_skipped(self) -> None:
-        records, _ = stage_evidence.stage(export_fixture(), self.ledger)
+        records, _ = stage_evidence.stage(self.approved(), self.ledger)
         updated = stage_evidence.apply(self.ledger, "sn36_6", records)
-        again, notes = stage_evidence.stage(export_fixture(), updated)
+        again, notes = stage_evidence.stage(self.approved(), updated)
         self.assertEqual(again, [])
         self.assertTrue(any("already in the ledger" in n for n in notes))
 
     def test_staging_never_marks_a_surface_validated(self) -> None:
-        fixtures = export_fixture()
+        fixtures = self.approved()
         fixtures["records"] = [
             dict(fixtures["records"][0], participant=f"R{i}", submission_id=f"fb_test00000{i}")
             for i in range(1, 6)
@@ -114,12 +155,10 @@ class StagingTests(unittest.TestCase):
         updated = stage_evidence.apply(self.ledger, "sn36_6", records)
         self.assertEqual(updated["surfaces"]["sn36_6"]["status"], "recruiting")
         self.assertEqual(newcomer_checks.collect_failures(updated, REPO_ROOT), [])
-        # Even five passing sessions leave the read-aloud gate pending, and the
-        # registry unchanged: nothing in this path can promote the text.
         self.assertEqual(SN36_6.readability_review.status, "provisional")
 
     def test_unregistered_surface_is_refused(self) -> None:
-        fixture = export_fixture()
+        fixture = self.approved()
         fixture["session"]["surface_key"] = "zz9"
         with self.assertRaises(stage_evidence.StagingError):
             stage_evidence.stage(fixture, self.ledger)

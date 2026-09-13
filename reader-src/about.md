@@ -121,10 +121,13 @@ What happens to it:
   that time, so a later revision can be checked against it.
 - It is not published, it is not posted to the public repository, and it never
   changes a translation by itself. An editor reads it, decides, and records why.
-- No name, email address, or account is collected. What is kept is only what
-  you type, the page and passage, and the time. Submissions are received
-  through a form the editors control and are removed from it once they have
-  been reviewed.
+- No name, email address, or account is asked for. What is sent is what you
+  type, the page and passage, and the time. It is collected through a Google
+  Form that the editors run, which is subject to Google's own handling of
+  form responses, and it is copied into the editors' private queue and
+  removed from the form once reviewed. If you take part in a facilitated
+  session, your responses carry the anonymous label the facilitator gave
+  you, so that one session's answers can be told apart.
 
 Public feedback is not counted as a formal review. Formal reviews with
 newcomers are run in sessions with a facilitator and recorded separately.

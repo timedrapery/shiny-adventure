@@ -9,7 +9,11 @@ path from that file into `reviews/newcomer-review-ledger.json`:
 - it checks every record's fields against the ledger contract;
 - it says which records will count toward the threshold (those whose body
   hash is the current translation body) and which are staged as history;
-- it derives a unique ledger label for returning participants;
+- it keeps a returning reader's ledger identity and stages them as a
+  follow-up (`independent: false`), which the checker counts as a
+  participant and never as an independent pass;
+- it leaves responses to draft question sets out unless an editor accepts
+  them explicitly, and records that acceptance;
 - with `--write`, it appends the records and re-runs the ledger check before
   saving, so a file that would fail `check_newcomer_reviews.py` is never
   written.
@@ -63,23 +67,24 @@ def load_export(path: Path) -> dict[str, Any]:
     return data
 
 
-def ledger_label(label: str, kind: str, session_code: str, taken: set[str]) -> str:
-    """A unique anonymous label for the ledger.
+def stage(
+    export_data: dict[str, Any],
+    ledger: dict[str, Any],
+    *,
+    accept_draft_questions: bool = False,
+) -> tuple[list[dict[str, Any]], list[str]]:
+    """Return ledger records to append and human-readable notes.
 
-    The ledger rejects a repeated participant label within one surface, so a
-    returning reader (or a label reused by a later session) is suffixed with
-    the session code. The export keeps the link to the earlier label.
+    Participant identity is preserved across sessions: a returning reader is
+    staged under the label of their earlier ledger record with `follow_up:
+    true` and `independent: false`, which is what the ledger checker counts
+    as one participant and never as an independent pass. A fresh reader may
+    not reuse a label already in the ledger.
+
+    Responses to a question set still marked `draft` are exploratory. They
+    are left out unless an editor accepts them with `accept_draft_questions`,
+    and the acceptance is recorded on the staged record.
     """
-    if kind == "fresh" and label not in taken:
-        return label
-    candidate = f"{label}@{session_code}"
-    if candidate in taken:
-        raise StagingError(f"label {candidate} already exists in the ledger")
-    return candidate
-
-
-def stage(export_data: dict[str, Any], ledger: dict[str, Any]) -> tuple[list[dict[str, Any]], list[str]]:
-    """Return ledger records to append and human-readable notes."""
     session = export_data["session"]
     key = session.get("surface_key")
     by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
@@ -89,11 +94,11 @@ def stage(export_data: dict[str, Any], ledger: dict[str, Any]) -> tuple[list[dic
     if key not in surfaces:
         raise StagingError(f"{key} is not in the ledger cohort; add it there first")
     current_hash = translation_body_sha256(by_key[key].main_path)
-    existing = surfaces[key].get("newcomer_reviews", [])
-    taken = {str(r.get("participant")) for r in existing if isinstance(r, dict)}
+    existing = [r for r in surfaces[key].get("newcomer_reviews", []) if isinstance(r, dict)]
+    known_labels = {str(r.get("participant")) for r in existing}
     staged_ids = {
         r.get("evidence_source", {}).get("submission_id")
-        for r in existing if isinstance(r, dict) and isinstance(r.get("evidence_source"), dict)
+        for r in existing if isinstance(r.get("evidence_source"), dict)
     }
     notes: list[str] = []
     records: list[dict[str, Any]] = []
@@ -118,13 +123,46 @@ def stage(export_data: dict[str, Any], ledger: dict[str, Any]) -> tuple[list[dic
         confusing = item.get("confusing_words", [])
         if not isinstance(confusing, list) or any(not isinstance(c, str) for c in confusing):
             raise StagingError(f"{label}: confusing_words must be a list of strings")
+
+        status = item.get("question_editorial_status")
+        if status != "approved" and not accept_draft_questions:
+            notes.append(
+                f"{item['participant']}: answered a {status or 'unreviewed'} question set "
+                f"(v{item.get('question_version')}); kept as exploratory evidence in the "
+                "service, not staged. Re-run with --accept-draft-questions once an editor "
+                "has decided those questions can carry formal weight."
+            )
+            continue
+
         kind = item.get("participant_kind", "fresh")
-        name = ledger_label(item["participant"], kind, session["code"], taken)
-        taken.add(name)
+        returning = item.get("returning_from") or {}
+        if kind == "returning":
+            name = str(returning.get("participant") or item["participant"])
+            if name not in known_labels:
+                raise StagingError(
+                    f"{label}: returning reader {name} has no earlier record in the ledger "
+                    "for this text; stage the earlier session first or mark them fresh"
+                )
+            independent = False
+            follow_up = True
+            if item["independent"]:
+                notes.append(f"{name}: export marked a returning reader independent; staged as independent: false")
+        else:
+            name = item["participant"]
+            if name in known_labels:
+                raise StagingError(
+                    f"{label}: label {name} already exists in the ledger for this text; "
+                    "mark the participant as returning or use a new label"
+                )
+            independent = item["independent"]
+            follow_up = False
+        known_labels.add(name)
+
         record = {
             "participant": name,
             "reviewed_on": item["reviewed_on"],
-            "independent": item["independent"],
+            "independent": independent,
+            "follow_up": follow_up,
             "what_happened": item["what_happened"],
             "practical_point": item["practical_point"],
             "confusing_words": confusing,
@@ -134,22 +172,23 @@ def stage(export_data: dict[str, Any], ledger: dict[str, Any]) -> tuple[list[dic
                 "kind": "reader-feedback-session",
                 "session": session["code"],
                 "submission_id": item.get("submission_id"),
+                "session_label": item["participant"],
                 "participant_kind": kind,
                 "returning_from": item.get("returning_from"),
                 "familiarity": item.get("familiarity"),
                 "question_version": item.get("question_version"),
-                "question_editorial_status": item.get("question_editorial_status"),
+                "question_set_sha256": item.get("question_set_sha256"),
+                "question_editorial_status": status,
+                "draft_questions_accepted_by_editor": status != "approved",
                 "assessment": item.get("assessment"),
             },
         }
         counts = item["body_sha256"] == current_hash
-        status = "counts toward the threshold" if counts else "staged as history (older body); does not count"
-        notes.append(
-            f"{name}: {kind}, independent={item['independent']}, pass={item['pass']}, {status}"
-        )
-        if item.get("question_editorial_status") == "draft":
-            notes.append(f"{name}: answered a DRAFT question set (v{item.get('question_version')}); "
-                         "record that in the surface notes before relying on it")
+        role = "follow-up (counts as a participant, never as an independent pass)" if follow_up else "fresh"
+        version = "current body" if counts else "older body; history only, does not count"
+        notes.append(f"{name}: {role}, pass={item['pass']}, {version}")
+        if status != "approved":
+            notes.append(f"{name}: staged from a DRAFT question set on editor acceptance; recorded on the record")
         records.append(record)
     if export_data.get("excluded"):
         notes.append(f"{len(export_data['excluded'])} response(s) were excluded by the service export "
@@ -168,11 +207,13 @@ def main() -> int:
     parser.add_argument("--export", required=True, type=Path, help="session export JSON from the service")
     parser.add_argument("--ledger", type=Path, default=LEDGER)
     parser.add_argument("--write", action="store_true", help="append the records to the ledger")
+    parser.add_argument("--accept-draft-questions", action="store_true",
+                        help="an editor accepts responses to a draft question set as formal evidence")
     args = parser.parse_args()
     try:
         export_data = load_export(args.export)
         ledger = load_ledger(args.ledger)
-        records, notes = stage(export_data, ledger)
+        records, notes = stage(export_data, ledger, accept_draft_questions=args.accept_draft_questions)
     except (OSError, json.JSONDecodeError, StagingError, ValueError) as error:
         print(f"Cannot stage: {error}")
         return 1

@@ -181,6 +181,9 @@ test.describe("glossary and comprehension feedback", () => {
     const record = data.submissions.find((s) => s.comment.includes("glossary-marker"));
     expect(record.glossary_term).toBe("underlying tendency");
     expect(record.glossary_version).toMatch(/^[0-9a-f]{12}$/);
+    // The stored explanation is what the reader read, not the controls.
+    expect(record.passage_text).toMatch(/^A reactive pattern/);
+    expect(record.passage_text).not.toMatch(/Did this explanation|Comment|Send/);
     expect(record.rating).toBe("partly");
     expect(record.terms.map((t) => t.id)).toEqual(["anusaya"]);
   });
@@ -287,8 +290,19 @@ test.describe("google form transport (the committed public configuration)", () =
     await form.locator("input[name=category][value=word]").check();
     await form.locator("textarea[name=comment]").fill("What is an underlying tendency? form-marker");
     await form.locator("button[type=submit]").click();
-    await expect(passage.locator(".reader-feedback__done")).toContainText("received");
-    expect(posts).toHaveLength(1);
+    // The form mailbox gives no readable reply: say "sent", keep the text,
+    // and let the reader send again under the same client id.
+    const status = form.locator(".reader-feedback__status");
+    await expect(status).toContainText("was sent");
+    await expect(status).not.toContainText("received");
+    await expect(form.locator("textarea[name=comment]")).toHaveValue("What is an underlying tendency? form-marker");
+    await expect(form.locator("button[type=submit]")).toHaveText("Send again");
+    await form.locator("button[type=submit]").click();
+    await expect(status).toContainText("was sent");
+    expect(posts).toHaveLength(2);
+    const ids = posts.map((p) => JSON.parse(p.body.match(/name="entry\.1359254143"\r?\n\r?\n([\s\S]*?)\r?\n--/)[1]).client_submission_id);
+    expect(ids[0]).toBe(ids[1]);
+    posts.length = 1;
     expect(posts[0].url).toMatch(/^https:\/\/docs\.google\.com\/forms\/d\/e\/[A-Za-z0-9_-]+\/formResponse$/);
     const match = posts[0].body.match(/name="entry\.1359254143"\r?\n\r?\n([\s\S]*?)\r?\n--/);
     expect(match).toBeTruthy();

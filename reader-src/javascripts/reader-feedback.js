@@ -31,6 +31,8 @@
 
   const MESSAGES = {
     sent: "Thank you. Your feedback was received.",
+    sentUnconfirmed:
+      "Thank you. Your feedback was sent. This page cannot confirm it arrived; if you are unsure, sending it again is harmless, because repeats are ignored.",
     sending: "Sending…",
     failed:
       "Your feedback could not be sent. Nothing you wrote has been lost; please try again in a moment.",
@@ -196,7 +198,7 @@
     } catch (error) {
       return { ok: false };
     }
-    return { ok: true };
+    return { ok: true, unconfirmed: true };
   }
 
   async function post(endpoint, payload) {
@@ -328,6 +330,15 @@
       setStatus(status, MESSAGES.sending, false);
       const result = await post(endpoint, payload);
       send.disabled = false;
+      if (result.ok && result.unconfirmed) {
+        // The form mailbox gives no readable reply, so say "sent", not
+        // "received", and keep the contents so the reader can send again.
+        // The client id stays the same, so a repeat is dropped on import.
+        setStatus(status, MESSAGES.sentUnconfirmed, false);
+        send.textContent = "Send again";
+        cancel.textContent = "Close";
+        return;
+      }
       if (result.ok) {
         submissionId = uuid();
         onDone(true);
@@ -492,6 +503,9 @@
       const term = normalize(dfn.textContent);
       const info = manifest.glossary[term];
       if (!info) return;
+      // Snapshot the explanation now, before any control is appended to
+      // the same element, so the stored text is exactly what was read.
+      const explanation = normalize(dd.textContent).slice(0, 2000);
       const prefix = `reader-feedback-gloss-${index}`;
       let submissionId = uuid();
 
@@ -533,7 +547,7 @@
           glossary_version: info.version,
           terms: info.term_id ? [{ id: info.term_id, basis: "glossary" }] : [],
           mapping: info.term_id ? "mapped" : "unmapped",
-          passage_text: normalize(dd.textContent).slice(0, 2000),
+          passage_text: explanation,
           rating,
           comment: normalize(data.get("comment")).slice(0, 1000),
           website: data.get("website") || "",
@@ -542,6 +556,11 @@
         setStatus(status, MESSAGES.sending, false);
         const result = await post(endpoint, payload);
         send.disabled = false;
+        if (result.ok && result.unconfirmed) {
+          setStatus(status, MESSAGES.sentUnconfirmed, false);
+          send.textContent = "Send again";
+          return;
+        }
         if (result.ok) {
           submissionId = uuid();
           setStatus(status, MESSAGES.sent, false);
@@ -601,6 +620,11 @@
       setStatus(status, MESSAGES.sending, false);
       const result = await post(endpoint, payload);
       send.disabled = false;
+      if (result.ok && result.unconfirmed) {
+        setStatus(status, MESSAGES.sentUnconfirmed, false);
+        send.textContent = "Send again";
+        return;
+      }
       if (result.ok) {
         submissionId = uuid();
         setStatus(status, MESSAGES.sent, false);
