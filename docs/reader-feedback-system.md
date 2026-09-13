@@ -259,6 +259,15 @@ directly) remains an option; the steps are under "Deploying" in the
 service README, and switching is a config change from `transport` to
 `endpoint`.
 
+## Keeping the page readable
+
+On devices with a mouse or trackpad, the passage controls are transparent
+until the passage is hovered, the control is focused, or its form is open;
+they remain in the document at full size, so keyboard and screen-reader
+users find them in the normal order. Touch screens have no hover, so there
+the controls are always shown. This is a presentation choice in
+`reader.css`, not a change to what is collected.
+
 ## Limitations of the first version
 
 - No feedback without JavaScript. The GitHub issue link in the source-and-

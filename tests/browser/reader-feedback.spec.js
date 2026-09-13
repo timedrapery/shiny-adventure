@@ -139,6 +139,8 @@ test.describe("passage feedback", () => {
     await passage.locator("button.reader-feedback__button").tap();
     const form = page.locator("#reader-feedback-p022-form");
     await expect(form).toBeVisible();
+    // No hover on a touch screen, so controls are always shown.
+    expect(await passage.locator("button.reader-feedback__button").evaluate((n) => getComputedStyle(n).opacity)).toBe("1");
     const overflow = await page.evaluate(
       () => document.documentElement.scrollWidth - document.documentElement.clientWidth
     );
@@ -147,6 +149,25 @@ test.describe("passage feedback", () => {
     await form.locator("button[type=submit]").tap();
     await expect(passage.locator(".reader-feedback__done")).toContainText("received");
     await phone.close();
+  });
+
+  test("with a mouse, passage controls appear on hover or focus and stay usable", async ({ page }) => {
+    await page.goto(PILOT);
+    const passage = page.locator("[data-passage-id='p005']");
+    const button = passage.locator("button.reader-feedback__button");
+    await expect(button).toBeAttached();
+    const opacity = () => button.evaluate((node) => getComputedStyle(node).opacity);
+    expect(await opacity()).toBe("0");
+    await passage.hover();
+    await expect.poll(opacity).toBe("1");
+    await page.mouse.move(0, 0);
+    await expect.poll(opacity).toBe("0");
+    await button.focus();
+    await expect.poll(opacity).toBe("1");
+    await page.keyboard.press("Enter");
+    await expect(page.locator("#reader-feedback-p005-form")).toBeVisible();
+    await page.mouse.move(0, 0);
+    expect(await opacity()).toBe("1");
   });
 
   test("escape closes the form and returns focus to the control", async ({ page }) => {
