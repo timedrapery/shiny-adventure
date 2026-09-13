@@ -1,6 +1,6 @@
 # All Suttas
 
-All 65 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 66 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -81,3 +81,7 @@ All 65 translations, grouped by collection. If you would rather be guided, use [
 
 - [**The Two Nibbāna Elements**](iti44-nibbanadhatu-sutta.md) — Iti 44 · Nibbānadhātu Sutta · about 2 min · 347 words · Set 5. A short reference text defining the two nibbāna elements.
 - [**Taken Over by Views**](iti49-ditthigata-sutta.md) — Iti 49 · Diṭṭhigata Sutta · about 2 min · 310 words · Set 4. Two views can take over: clinging to continued becoming, or treating annihilation as peace.
+
+## Udāna (Ud) — the inspired sayings, in the Khuddaka Nikāya
+
+- [**Why There Is a Way Out**](ud8-3-tatiyanibbanapatisamyutta-sutta.md) — Ud 8.3 · Tatiyanibbānapaṭisaṁyutta Sutta · about 1 min · 139 words · Set 5. One minute, and one argument: there would be no way out of what is born, made and conditioned unless there were something that is not.

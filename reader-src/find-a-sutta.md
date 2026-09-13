@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 65 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 66 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -500,6 +500,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Advanced · Teaching with verse · Short · about 2 min · 347 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>A short reference text defining the two nibbāna elements. Read it for one distinction: what has already happened to a living arahant&#x27;s mind, and what happens to everything they feel.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="teaching" data-length="short" data-search="why there is a way out ud 8.3 tatiyanibbānapaṭisaṁyutta sutta one minute, and one argument: there would be no way out of what is born, made and conditioned unless there were something that is not. it says that there is, and nothing more about it. four truths and path">
+<h2><a href="../suttas/ud8-3-tatiyanibbanapatisamyutta-sutta/">Why There Is a Way Out</a></h2>
+<p class="sutta-card__reference">Ud 8.3 · <span lang="pi">Tatiyanibbānapaṭisaṁyutta Sutta</span></p>
+<p class="sutta-card__meta">Advanced · Teaching · Short · about 1 min · 139 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
+<p>One minute, and one argument: there would be no way out of what is born, made and conditioned unless there were something that is not. It says that there is, and nothing more about it.</p>
 </article>
 </div>
 

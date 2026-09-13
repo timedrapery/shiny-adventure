@@ -74,6 +74,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conditionality</dfn> <span class="glossary-pali" lang="pi">(idappaccayatā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
+<dt><dfn>conditioned</dfn> <span class="glossary-pali" lang="pi">(saṅkhata)</span></dt>
+<dd>This project&#x27;s rendering of &quot;saṅkhata&quot; -- anything that came about because other things did, and that stops when they stop. Nearly everything is.</dd>
 <dt><dfn>conduct</dfn> <span class="glossary-pali" lang="pi">(sīla)</span></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>conscience</dfn> <span class="glossary-pali" lang="pi">(hiri)</span></dt>
@@ -121,7 +123,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 
 <dl class="glossary-list">
 <dt><dfn>escape</dfn> <span class="glossary-pali" lang="pi">(nissaraṇa)</span></dt>
-<dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 </dl>
 
 ## F
@@ -362,6 +364,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>uncertain distraction</dfn> <span class="glossary-pali" lang="pi">(vicikicchā)</span></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>unconditioned</dfn> <span class="glossary-pali" lang="pi">(asaṅkhata)</span></dt>
+<dd>This project&#x27;s rendering of &quot;asaṅkhata&quot; -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.</dd>
 <dt><dfn>undeclared</dfn> <span class="glossary-pali" lang="pi">(avyākata)</span></dt>
 <dd>A question the Buddha deliberately left unanswered -- not because he didn&#x27;t know, but because answering it wouldn&#x27;t help anyone actually practice.</dd>
 <dt><dfn>underlying tendency</dfn> <span class="glossary-pali" lang="pi">(anusaya)</span></dt>

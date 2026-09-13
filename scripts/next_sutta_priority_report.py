@@ -89,8 +89,9 @@ QUEUE: tuple[QueueItem, ...] = (
         "twelve verses in one upstream file; the repository's first verse surface, so settle verse handling in the packet",
     ),
     QueueItem(
-        "2", "Ud 8.3", "Tatiyanibbānapaṭisaṁyutta", 84, "—",
-        "anchors `asaṅkhata-dhātu` exactly; the `ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ` passage and its argument",
+        "wave 11", "Ud 8.3", "Tatiyanibbānapaṭisaṁyutta", 84, "—",
+        "published 2026-09-13; anchors `asaṅkhata-dhātu`, and settles the Udāna framing formula",
+        published=True,
     ),
     QueueItem(
         "3", "SN 22.22", "Bhāra", 108, "—",

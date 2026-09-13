@@ -887,7 +887,24 @@ def render_all_suttas() -> str:
         ("SN", "Saṁyutta Nikāya", "the connected discourses"),
         ("AN", "Aṅguttara Nikāya", "the numbered discourses"),
         ("Iti", "Itivuttaka", "the short sayings, in the Khuddaka Nikāya"),
+        ("Ud", "Udāna", "the inspired sayings, in the Khuddaka Nikāya"),
     ]
+
+    # A surface whose collection is missing from that list used to vanish from
+    # the index silently. Adding Ud 8.3 is what surfaced it, and a registered
+    # surface disappearing from the one page that claims to list them all is
+    # exactly the kind of quiet gap this repository checks for elsewhere.
+    known = {prefix for prefix, _, _ in collections}
+    unlisted = sorted(
+        {s.label.split(" ", 1)[0] for s in TRANSLATION_SURFACES}
+        - known
+    )
+    if unlisted:
+        raise ValueError(
+            "All Suttas index has no collection heading for: "
+            + ", ".join(unlisted)
+            + ". Add it to `collections` in scripts/generate_reader.py."
+        )
 
     def sort_key(surface: TranslationSurface) -> tuple[int, int]:
         numbers = re.findall(r"\d+", surface.label)

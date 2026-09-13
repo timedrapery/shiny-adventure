@@ -433,6 +433,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/iti44-nibbanadhatu-sutta-notes.md",
     ),
     TranslationSurface(
+        key="ud8_3",
+        label="Ud 8.3",
+        main_relpath="docs/translations/ud8-3-tatiyanibbanapatisamyutta-sutta.md",
+        notes_relpath="docs/translations/ud8-3-tatiyanibbanapatisamyutta-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="iti49",
         label="Iti 49",
         main_relpath="docs/translations/iti49-ditthigata-sutta.md",
@@ -506,6 +512,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "dn2": "e14ae3eb8758d509eac9c1868993c55eb3ac51bd18763bfe28bb2a68c47ce323",
     "dn15": "8461edc9ebaee7f98b372823f02660f84fba4534308cc3b74f3f17922f37c9f1",
     "iti44": "bc0e4a36775633d0ea0fa487d86851a0a7957f9384a4b31720718556716fd768",
+    "ud8_3": "7aae0cf48a19f1a07274647e64fc3b646761d17515a20de0f56c2d5dd89afd51",
     "iti49": "c0e3d31030c2b1c46dab5e7419b37f3ef0a2e3e39438f49bdde6ed7aa0c010a1",
 }
 
@@ -535,6 +542,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "mn36": "2026-09-11",
     "an8_39": "2026-09-13",
     "sn46_1": "2026-09-13",
+    "ud8_3": "2026-09-13",
 }
 
 # Surfaces that have cleared all three human evidence gates. A surface is
@@ -1136,6 +1144,13 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "mind, and what happens to everything they feel.",
         reader_title="The Two Nibbāna Elements",
     ),
+    "ud8_3": ReaderMeta(
+        "Tatiyanibbānapaṭisaṁyutta Sutta", 5, 16,
+        "One minute, and one argument: there would be no way out of what is "
+        "born, made and conditioned unless there were something that is not. "
+        "It says that there is, and nothing more about it.",
+        reader_title="Why There Is a Way Out",
+    ),
 }
 
 
@@ -1159,7 +1174,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
         "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
-        "an3_88",
+        "an3_88", "ud8_3",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_86", "sn22_89", "mn131",

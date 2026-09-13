@@ -122,14 +122,14 @@ its own, so the reader meets the discourse the way the collection presents it.
 
 ## Re-audit Calls
 
-- **`Iti` is in the `UNSUPPORTED` set in
-  `scripts/verify_example_sources.py`.** Every citation this surface adds is
-  therefore unverifiable by machine. All citations added in this pass were
-  checked by hand against the cached Bilara root text
-  (`.bilara-cache/iti44_root-pli-ms.json`), and that check has to be repeated
-  by hand if they are edited. This is the first surface in the repository
-  whose citations no script can confirm; see the workflow plan's standing note
-  on the verse-collection gap.
+- ~~**`Iti` is in the `UNSUPPORTED` set in
+  `scripts/verify_example_sources.py`**, so every citation this surface adds
+  is unverifiable by machine.~~ **Resolved.** The resolver was taught the
+  Khuddaka directory shapes, and `UNSUPPORTED` is now `{"KN"}` alone — a bare
+  `KN` citation, which names no collection. Iti 44's citations verify by
+  machine like any other, and so do Ud 8.3's, added 2026-09-13. The hand-check
+  this note asked for is no longer the only check; run
+  `python scripts/verify_example_sources.py --strict` as usual.
 - `bhavanetti`, `tādi`, `pada`, `sāra`, `cakkhumant`, `diṭṭhadhammika`, and
   `samparāyika` are all ungoverned and all appear in the verse. None is
   load-bearing enough on its own to justify a record from this surface alone,

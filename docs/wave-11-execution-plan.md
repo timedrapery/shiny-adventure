@@ -10,11 +10,11 @@ extending Wave 10's ranking.
 
 ## Baseline
 
-Snapshot date: 2026-09-13, after the audit and its citation repairs.
+Snapshot date: 2026-09-13, after the audit, its citation repairs, and Ud 8.3.
 
-- 65 governed translation surfaces and 65 generated sutta pages
+- 66 governed translation surfaces and 66 generated sutta pages
 - 1,157 governed term records
-- 637 cited term records: 552 anchored by a translated surface and 85 orphaned
+- 637 cited term records: 553 anchored by a translated surface and 84 orphaned
 - 9 orphan major terms
 - 821 cited example phrases checked: zero partial and zero absent matches
 - all generated sutta pages included in the rendered axe accessibility suite
@@ -124,12 +124,14 @@ priority.
    and should be), and how a vagga is titled and numbered as a reader page.
    Iti 44 is the precedent for adding a collection: settle the framing in the
    notes, once, for everything that follows.
-2. **Ud 8.3, Tatiyanibbānapaṭisaṁyutta** — 84 Pali words, no peyyāla. Anchors
-   `asankhata-dhatu` with an exact quotation, and it is the `atthi, bhikkhave,
-   ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ` passage, which carries its own argument:
-   without the unborn there would be no escape from the born. The repository
-   already has Itivuttaka surfaces, so a second Khuddaka collection is a small
-   step. The shortest high-value item on the list.
+2. **Ud 8.3, Tatiyanibbānapaṭisaṁyutta** — **complete 2026-09-13**, taken
+   first because item 1 carries a precondition. 84 Pali words, no peyyāla, and
+   now the shortest surface in the corpus. Anchors `asankhata-dhatu`, whose
+   quoted `ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ` verified `exact` against the root
+   before drafting. The source boundary excludes `ud8.3:3.4` (`Tatiyaṁ`). This
+   is the repository's first Udāna surface, so its notes settle the
+   collection's framing formula, as Iti 44 did for the Itivuttaka. Corpus
+   orphans 85 to 84.
 3. **SN 22.22, Bhāra Sutta** — 108 Pali words. Anchors the burden formula. The
    burden is the five clung-to heaps, the carrier is the person, taking it up
    is ignorant wanting, putting it down is its fading. Note before drafting
@@ -230,12 +232,13 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **Dhp 21–32**, and it has a precondition; if you do
-not want to settle verse now, take **Ud 8.3** and leave item 1 in place.
-Create a `codex/` or contributor branch and keep the entire translation packet
-together. Before stopping, record completed work, open questions, exact
-validation results, and the next action in the surface notes or this plan —
-not only in a local terminal or chat.
+unfinished queue item is **Dhp 21–32**, and it still has its precondition:
+settling how verse is set, titled and numbered is the first half of that
+packet. **SN 22.22** is the next item without one, if that decision is not
+yours to make. Create a `codex/` or contributor branch and keep the entire
+translation packet together. Before stopping, record completed work, open
+questions, exact validation results, and the next action in the surface notes
+or this plan — not only in a local terminal or chat.
 
 After merging or pushing to `main`, confirm both GitHub Actions workflows are
 green and open the public reader page. Check the title, introduction,
