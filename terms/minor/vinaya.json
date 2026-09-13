@@ -14,12 +14,20 @@
   "untranslated_preferred": false,
   "definition": "Discipline or training, often referring to the disciplinary framework of the teachings.",
   "sutta_references": [
-    "MN 108"
+    "MN 11"
   ],
   "tags": [
     "ethics",
     "core-practice"
   ],
   "status": "reviewed",
-  "notes": "The OSF glossary reinforces discipline as the ordinary explanatory rendering of vinaya, which fits the current house handling."
+  "notes": "The OSF glossary reinforces discipline as the ordinary explanatory rendering of vinaya, which fits the current house handling.",
+  "example_phrases": [
+    {
+      "pali": "Evarūpe kho, bhikkhave, dhammavinaye yo satthari pasādo",
+      "translation": "In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher",
+      "notes": "The compound `dhammavinaya` in MN 11, a translated surface, where it is rendered `Dhamma and discipline`. The record previously cited MN 108, the Gopakamoggallāna Sutta, which discusses life after the Buddha's death but contains no form of `vinaya`. Repaired in the 2026-09-13 Wave 11 audit.",
+      "source": "MN 11"
+    }
+  ]
 }

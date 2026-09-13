@@ -29,23 +29,25 @@ class PriorityReportTests(unittest.TestCase):
         self.assertEqual(summary["orphans"], len(orphans))
         self.assertEqual(summary["anchored"], len(cited) - len(orphans))
 
-    def test_every_complete_queue_item_is_a_registered_surface(self) -> None:
-        """A row cannot claim `complete` unless the corpus actually has it."""
+    def test_published_rows_match_the_corpus_in_both_directions(self) -> None:
+        """A row cannot claim to be published, or pending, against the facts."""
         translated = translated_suttas()
         for item in report.QUEUE:
-            if item.position == "complete":
+            if item.published:
                 self.assertIn(item.sutta, translated, item.sutta)
+            else:
+                self.assertNotIn(item.sutta, translated, item.sutta)
 
-    def test_at_most_one_next_item_and_it_is_untranslated(self) -> None:
+    def test_at_most_one_next_item_and_it_is_unpublished(self) -> None:
         """A handoff is unambiguous: one next translation, or none at all."""
         nexts = [item for item in report.QUEUE if item.position == "next"]
         self.assertLessEqual(len(nexts), 1)
         for item in nexts:
-            self.assertNotIn(item.sutta, translated_suttas())
+            self.assertFalse(item.published)
 
     def test_a_finished_queue_asks_for_a_fresh_audit(self) -> None:
         """With nothing left to translate, the table must not read as a plan."""
-        if any(item.position == "next" for item in report.QUEUE):
+        if any(not item.published for item in report.QUEUE):
             self.skipTest("the queue still has an unfinished item")
         rendered = report.render_table(report.build_report(self.terms))
         self.assertIn("there is no next item", rendered)

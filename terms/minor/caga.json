@@ -17,10 +17,18 @@
     "alobha"
   ],
   "sutta_references": [
-    "AN 7.49"
+    "AN 11.12"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "attano cāgaṁ anussareyyāsi",
+      "translation": "remember your own generosity",
+      "notes": "The cāgānussati instruction in AN 11.12, a translated surface. The record previously cited AN 7.49, which is the Dutiyasaññā Sutta and contains no form of `cāga`. Repaired in the 2026-09-13 Wave 11 audit.",
+      "source": "AN 11.12"
+    }
+  ]
 }

@@ -45,7 +45,11 @@ OUTPUT_DIR = REPO_ROOT / "docs" / "generated"
 
 @dataclass(frozen=True)
 class QueueItem:
-    """One row of the Wave 10 queue, in the order it is worked."""
+    """One row of the queue, in the order it is worked.
+
+    `position` is display text only. `published` is the fact the tests check,
+    so a row cannot drift out of step with the corpus by being relabelled.
+    """
 
     position: str
     sutta: str
@@ -53,58 +57,72 @@ class QueueItem:
     pali_words: int
     orphan_anchor: str
     value: str
+    published: bool = False
 
 
-# Wave 10, as committed in docs/wave-10-execution-plan.md. Keep the two in step.
+# Wave 11, as committed in docs/wave-11-execution-plan.md. Keep the two in step.
+# Wave 10's completed items stay listed: the table is the corpus's queue
+# history, and dropping finished rows would hide what each wave actually cost.
 QUEUE: tuple[QueueItem, ...] = (
     QueueItem(
-        "complete", "SN 45.8", "Vibhaṅga", 300, "`ariya`",
-        "published 2026-08-25; path-factor cluster now has no dark governed terms",
-    ),
-    QueueItem(
-        "complete", "SN 12.44", "Loka", 182, "`loka`",
-        "published 2026-08-25; connects lived sensory experience to dependent arising",
-    ),
-    QueueItem(
-        "complete", "AN 3.88", "Tatiyasikkhā", 230, "`adhicitta`",
-        "published 2026-08-25; threefold training; replaces the false AN 4.41 leverage signal",
-    ),
-    QueueItem(
-        "complete", "Iti 49", "Diṭṭhigata", 173, "`pariyuṭṭhāna`",
-        "published 2026-08-25; active takeover by views; abandonment-sequence cluster",
-    ),
-    QueueItem(
-        "complete", "AN 11.12", "Dutiyamahānāma", 367, "—",
+        "wave 10", "AN 11.12", "Dutiyamahānāma", 367, "—",
         "published 2026-08-25; six verified recollection anchors for daily life",
+        published=True,
     ),
     QueueItem(
-        "complete", "SN 12.20", "Paccaya", 355, "—",
+        "wave 10", "SN 12.20", "Paccaya", 355, "—",
         "published 2026-08-27; anchored four of five ranked orphan signals, not five",
+        published=True,
     ),
     QueueItem(
-        "complete", "AN 8.39", "Abhisanda", 268, "—",
+        "wave 10", "AN 8.39", "Abhisanda", 268, "—",
         "published 2026-09-13; both ranked orphan signals anchored, plus `dāna`, `saraṇa`, `saṅgha`",
+        published=True,
     ),
     QueueItem(
-        "complete", "SN 46.1", "Himavanta", 125, "—",
-        "published 2026-09-13; completes Wave 10; its one ranked orphan signal was a phrase the discourse does not contain",
+        "wave 10", "SN 46.1", "Himavanta", 125, "—",
+        "published 2026-09-13; closed Wave 10; its one ranked orphan signal was a phrase the discourse does not contain",
+        published=True,
+    ),
+    QueueItem(
+        "next", "Dhp 21-32", "Appamādavagga", 124, "`appamāda`",
+        "twelve verses in one upstream file; the repository's first verse surface, so settle verse handling in the packet",
+    ),
+    QueueItem(
+        "2", "Ud 8.3", "Tatiyanibbānapaṭisaṁyutta", 84, "—",
+        "anchors `asaṅkhata-dhātu` exactly; the `ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ` passage and its argument",
+    ),
+    QueueItem(
+        "3", "SN 22.22", "Bhāra", 108, "—",
+        "anchors the burden formula; note that `puggalo tissa vacanīyaṁ` is a crux the translation must not settle",
+    ),
+    QueueItem(
+        "4", "SN 22.26", "Assāda", 223, "—",
+        "anchors the gratification, danger, and escape formula for the five heaps, exactly",
+    ),
+    QueueItem(
+        "5", "MN 122", "Mahāsuññata", 1547, "—",
+        "anchors `appicchatā` and `asaṁsagga`; the last multi-orphan text that is neither a stub nor a length deferral",
     ),
 )
 
 METHOD_NOTES: tuple[str, ...] = (
-    "Direct inspection found that SN 55.30 contains `ariyasāvaka` and an "
-    "abbreviated Saṅgha formula, not `ariyapuggala`; it is not a priority anchor.",
-    "AN 11.12 contains six of its seven credited recollection terms, not "
-    "`upasamānussati`; that term belongs to the AN 1.296-305 list.",
-    "AN 8.39 does not contain `veramaṇī` in any form, so the "
-    "`kāmesu-micchācāra` citation that quoted it was repaired to the "
-    "discourse's own `pahāya … paṭivirato hoti` wording.",
-    "SN 46.1 does not contain `bojjhaṅgabhāvanā`, the compound that ranked it. "
-    "Its running text is `satta bojjhaṅge bhāvento satta bojjhaṅge "
-    "bahulīkaronto`, which both citing records now quote.",
-    "SN 50.1 and the other enumeration or peyyāla stubs remain formula or "
-    "cluster-sheet work rather than reader translations.",
-    "Longer one-anchor candidates such as DN 21 and DN 1 remain deferred.",
+    "Every Wave 11 signal was checked against the cached root text before the "
+    "item was given a position. The audit that produced this queue found and "
+    "repaired eight false or mis-cased citations in the records it was ranking.",
+    "SN 50.1 is permanently off the queue: upstream has no `sn50.1` file at "
+    "all. The text lives in `sn50.1-12`, a Ganges-repetition series covering "
+    "twelve discourses, so there is no discrete boundary to translate.",
+    "SN 35.204, AN 4.27, AN 7.49, MN 13, and MN 108 ranked only on citations "
+    "that turned out to be false, and carry no leverage now that those are "
+    "repaired.",
+    "MN 77's ten orphans are all kasiṇa records. That is a formula sheet, not "
+    "a translation.",
+    "The emptiness / signless / wishless cluster reports eleven of thirteen "
+    "terms dark, but ten of those are uncited rather than orphaned. No "
+    "translation can anchor them until they have verified sources.",
+    "Longer one-anchor candidates such as DN 1, DN 21, DN 33, and DN 16 remain "
+    "deferred on length.",
 )
 
 
@@ -160,7 +178,7 @@ def render_table(report: dict[str, int]) -> str:
     )
     lines += [
         "",
-        "Use the [Wave 10 execution plan](../wave-10-execution-plan.md) for the",
+        "Use the [Wave 11 execution plan](../wave-11-execution-plan.md) for the",
         "active queue, validation, and handoff gates, and the",
         "[full roadmap](../next-suttas-roadmap.md) for historical method notes.",
         "",

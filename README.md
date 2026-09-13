@@ -209,13 +209,13 @@ standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-**Wave 10 is complete.** The next translation task is a fresh audit —
-`python scripts/audit_surface_leverage.py --top 20`, with each candidate's
-leverage signal checked against its root text — not another item from the
-spent ranking.
+The next translation is **Dhp 21-32, the Appamādavagga**, the first item in
+the [Wave 11 execution plan](docs/wave-11-execution-plan.md). It carries a
+precondition — it would be the repository's first verse surface, and the packet
+has to settle how verse is handled. **Ud 8.3** is the next item without one.
 
 Picking the work up cold: for translation expansion, start with the
-[Wave 10 execution plan](docs/wave-10-execution-plan.md), then use
+[Wave 11 execution plan](docs/wave-11-execution-plan.md), then use
 [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the
 full editorial method and repository history. For reader accessibility, start
 with the durable
@@ -228,7 +228,7 @@ evidence raises it to `validated`. Reader recruitment never blocks drafting,
 and no reader evidence is ever inferred or backfilled to make it look
 finished.
 
-Planning notes live in the [Wave 10 execution plan](docs/wave-10-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
+Planning notes live in the [Wave 11 execution plan](docs/wave-11-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 
 ## Contributing
 

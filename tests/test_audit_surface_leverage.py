@@ -79,6 +79,21 @@ class EnumerationStubTests(unittest.TestCase):
         self.assertFalse(row.is_enumeration_stub)
         self.assertEqual(row.length_note, "63w short")
 
+    def test_verse_is_never_a_stub_however_short(self) -> None:
+        """A Dhammapada verse is the densest substantive text, not a bare list."""
+        row = audit.SuttaLeverage(sutta="Dhp 21", pali_words=12)
+
+        self.assertTrue(row.is_verse)
+        self.assertFalse(row.is_enumeration_stub)
+        self.assertEqual(row.length_note, "12w verse")
+
+    def test_prose_of_the_same_length_is_still_a_stub(self) -> None:
+        """The verse exemption is by collection, not a blanket length waiver."""
+        row = audit.SuttaLeverage(sutta="AN 7.18", pali_words=6)
+
+        self.assertFalse(row.is_verse)
+        self.assertTrue(row.is_enumeration_stub)
+
     def test_stubs_rank_by_total_coverage_not_by_major_split(self) -> None:
         many_minors = audit.SuttaLeverage(
             sutta="SN 45.174", orphan_minors=["a", "b", "c"], pali_words=34
