@@ -215,15 +215,39 @@ environment variables with no defaults; no contact details unless
 `backup`, `purge --older-than`, and `delete` commands; request logs without
 bodies.
 
+## The Google Form transport
+
+The public site uses a transport instead of a hosted service:
+`includes/feedback/config.json` names a Google Form the editors own
+(`transport.form_action` and `transport.payload_field`). The page posts each
+submission as one JSON string into the form's single long-answer question.
+Readers see the same controls and messages; the browser cannot read the
+form's reply, so a completed request counts as received, and the client
+submission id lets the ingest step drop any retry duplicate.
+
+To read feedback: open the form's **Responses** tab, open the linked
+spreadsheet, download it as CSV, then
+
+```bash
+python -m feedback_service ingest --csv responses.csv
+python -m feedback_service serve
+```
+
+`ingest` applies the same validation as the live endpoint, resolves formal
+session codes against the local sessions, and skips rows already stored.
+The queue, dispositions, sessions, exports, and evidence staging then work
+exactly as described above, on the maintainer's machine. Delete rows from
+the sheet once they are in the queue if you want the form to hold nothing.
+
 ## Deployment status
 
-The service runs locally and under test. It is **not** deployed.
-`includes/feedback/config.json` carries `"endpoint": null`, so the public
-site shows no feedback controls. The remaining steps, none of which this
-repository can perform on its own, are listed under "Deploying" in the
-service README: a host with a persistent disk, a WSGI server behind HTTPS,
-the environment variables, scheduled backup and purge, and finally setting
-the endpoint and regenerating the reader.
+No hosted service is deployed and none is required: the public site posts
+to the Google Form transport above, and the maintainer queue runs on the
+editor's machine over the ingested responses. Hosting the service instead
+(so the queue is reachable from anywhere and submissions are stored
+directly) remains an option; the steps are under "Deploying" in the
+service README, and switching is a config change from `transport` to
+`endpoint`.
 
 ## Limitations of the first version
 
