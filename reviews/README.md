@@ -6,7 +6,11 @@ handoff-ready queue. The JSON ledger remains authoritative; this page is the
 human-readable operating view.
 
 Current state: **0 of 60 newcomer sessions recorded** and **0 of 12 read-aloud
-reviews complete**. Source-fidelity review is complete for every cohort text.
+reviews complete**. Source-fidelity review is signed off and bound to the
+published body for five of the twelve cohort texts; the other seven were edited
+on the same day they were signed off, so that sign-off could not be tied to the
+text now published and those gates are open again. See
+[source fidelity](../docs/newcomer-review-protocol.md#source-fidelity).
 
 ## Three-text pilot — do these first
 

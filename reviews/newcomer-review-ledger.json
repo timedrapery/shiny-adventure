@@ -22,51 +22,81 @@
     "an2_9": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/an2-9-cariya-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/an2-9-cariya-sutta-notes.md",
+          "note": "Signed off on 2026-08-24; the translation body was also edited on 2026-08-24, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn45_2": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn45-2-upaddha-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/sn45-2-upaddha-sutta-notes.md",
+          "note": "Signed off on 2026-08-24; the translation body was also edited on 2026-08-24, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn56_17": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-25",
-        "evidence": "docs/translations/sn56-17-avijja-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-25",
+          "evidence": "docs/translations/sn56-17-avijja-sutta-notes.md",
+          "note": "Signed off on 2026-08-25; the translation body was also edited on 2026-08-25, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "an8_6": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md",
+          "note": "Signed off on 2026-08-24; the translation body was also edited on 2026-08-24, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "an11_12": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-25",
-        "evidence": "docs/translations/an11-12-dutiyamahanama-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-25",
+          "evidence": "docs/translations/an11-12-dutiyamahanama-sutta-notes.md",
+          "note": "Signed off on 2026-08-25; the translation body was also edited on 2026-08-25, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "an3_65": {
@@ -74,9 +104,14 @@
       "source_fidelity": {
         "status": "complete",
         "completed_on": "2026-08-24",
-        "evidence": "docs/translations/an3-65-kesamutta-sutta-notes.md"
+        "evidence": "docs/translations/an3-65-kesamutta-sutta-notes.md",
+        "body_sha256": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
+        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn56_11": {
@@ -84,9 +119,14 @@
       "source_fidelity": {
         "status": "complete",
         "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md"
+        "evidence": "docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md",
+        "body_sha256": "7be7a57e337b8d536d1419f8e7e7f19921596cfd5edf416a29127114890f0a89",
+        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn36_6": {
@@ -94,9 +134,14 @@
       "source_fidelity": {
         "status": "complete",
         "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn36-6-salla-sutta-notes.md"
+        "evidence": "docs/translations/sn36-6-salla-sutta-notes.md",
+        "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "mn63": {
@@ -104,9 +149,14 @@
       "source_fidelity": {
         "status": "complete",
         "completed_on": "2026-08-24",
-        "evidence": "docs/translations/mn63-culamalukya-sutta-notes.md"
+        "evidence": "docs/translations/mn63-culamalukya-sutta-notes.md",
+        "body_sha256": "24d4fdba2728415fb92c273deb97d17e189841c8a0927516a4b2a62d712bf946",
+        "bound_by": "git: last body change 2026-08-22, before the 2026-08-24 sign-off"
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn22_59": {
@@ -114,29 +164,46 @@
       "source_fidelity": {
         "status": "complete",
         "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn22-59-anattalakkhana-sutta-notes.md"
+        "evidence": "docs/translations/sn22-59-anattalakkhana-sutta-notes.md",
+        "body_sha256": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
+        "bound_by": "git: last body change 2026-08-21, before the 2026-08-24 sign-off"
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "mn19": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-23",
-        "evidence": "docs/translations/mn19-dvedhavitakka-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-23",
+          "evidence": "docs/translations/mn19-dvedhavitakka-sutta-notes.md",
+          "note": "Signed off on 2026-08-23; the translation body was also edited on 2026-08-23, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     },
     "sn12_44": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-25",
-        "evidence": "docs/translations/sn12-44-loka-sutta-notes.md"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-25",
+          "evidence": "docs/translations/sn12-44-loka-sutta-notes.md",
+          "note": "Signed off on 2026-08-25; the translation body was also edited on 2026-08-25, and the sign-off records no time of day, so it cannot be tied to the body now published. Reassess against the current text."
+        }
       },
-      "human_read_aloud": {"status": "pending", "reviewers": []},
+      "human_read_aloud": {
+        "status": "pending",
+        "reviewers": []
+      },
       "newcomer_reviews": []
     }
   }

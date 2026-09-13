@@ -158,6 +158,36 @@ class ReviewQueueTests(unittest.TestCase):
         self.assertEqual(queue["items"][0]["id"], "waiting")
         self.assertEqual(queue["items"][0]["waiting_since"], "2026-01-02")
 
+    def test_a_reopened_gate_keeps_its_queue_date(self) -> None:
+        # Reopening a sign-off that could not be tied to the current body moved
+        # its date into the superseded block. Reading only the live field made
+        # those surfaces look newer than they are.
+        with tempfile.TemporaryDirectory() as tmpdir:
+            reviews = Path(tmpdir)
+            (reviews / "newcomer-review-ledger.json").write_text(
+                json.dumps(
+                    {
+                        "surfaces": {
+                            "waiting": {
+                                "status": "recruiting",
+                                "source_fidelity": {
+                                    "status": "pending",
+                                    "superseded_signoff": {"completed_on": "2026-01-02"},
+                                },
+                            }
+                        }
+                    }
+                ),
+                encoding="utf-8",
+            )
+            queue = health_dashboard.collect_review_queue(
+                {},
+                candidates_dir=Path("does-not-exist"),
+                reviews_dir=reviews,
+            )
+
+        self.assertEqual(queue["items"][0]["waiting_since"], "2026-01-02")
+
     def test_ages_are_bucketed_against_the_reference_date(self) -> None:
         queue = {
             "items": [

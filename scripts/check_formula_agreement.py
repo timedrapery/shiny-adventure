@@ -214,21 +214,88 @@ def compare_to_baseline(
     return regressions, stale
 
 
-def write_baseline(unexplained: list[dict[str, object]], path: Path = BASELINE_PATH) -> None:
-    payload = {
-        "_comment": (
-            "Acknowledged formula disagreements, written by "
-            "`scripts/check_formula_agreement.py --update-baseline`. The check fails on any "
-            "disagreement not listed here or whose variants have changed, and on entries that "
-            "are no longer in disagreement. Resolve groups by editing the records, then rerun "
-            "with --update-baseline to drop them; never add to this file by hand to silence a finding."
-        ),
-        "groups": {str(f["pali"]): variant_key(f) for f in unexplained},
-    }
+BASELINE_COMMENT = (
+    "Acknowledged formula disagreements. The check fails on any disagreement not listed "
+    "here or whose variants have changed, and on entries that are no longer in disagreement. "
+    "Two separate operations maintain this file: `--prune-baseline` removes groups that have "
+    "been resolved and refuses to run while a regression is present, and `--accept-new-debt "
+    "--reason '...'` is the deliberate act of taking on a new or changed disagreement. Never "
+    "edit this file by hand to silence a finding."
+)
+
+
+def load_baseline_document(path: Path = BASELINE_PATH) -> dict[str, object]:
+    """The baseline file as written, keys in their original Pali spelling."""
+    if not path.exists():
+        return {"groups": {}}
+    with path.open("r", encoding="utf-8") as handle:
+        data = json.load(handle)
+    if not isinstance(data, dict) or not isinstance(data.get("groups"), dict):
+        return {"groups": {}}
+    return data
+
+
+def write_baseline_document(
+    groups: dict[str, list[str]],
+    path: Path = BASELINE_PATH,
+    acknowledgements: list[dict[str, object]] | None = None,
+) -> None:
+    payload: dict[str, object] = {"_comment": BASELINE_COMMENT, "groups": dict(sorted(groups.items()))}
+    if acknowledgements:
+        payload["acknowledgements"] = acknowledgements
     path.parent.mkdir(parents=True, exist_ok=True)
     with path.open("w", encoding="utf-8") as handle:
         json.dump(payload, handle, ensure_ascii=False, indent=2)
         handle.write("\n")
+
+
+def prune_baseline(
+    document: dict[str, object],
+    stale: list[str],
+) -> tuple[dict[str, list[str]], list[str]]:
+    """Drop resolved groups, keeping every acknowledged one exactly as it was.
+
+    Returns (groups to write, the original spellings removed). Pruning only
+    ever removes: a group still in disagreement keeps the variants it was
+    acknowledged with, so a change to a known disagreement cannot ride along
+    with a cleanup.
+    """
+    resolved = set(stale)
+    raw = document.get("groups")
+    groups = raw if isinstance(raw, dict) else {}
+    kept: dict[str, list[str]] = {}
+    removed: list[str] = []
+    for pali, variants in groups.items():
+        if normalize_pali(pali) in resolved:
+            removed.append(pali)
+        else:
+            kept[pali] = sorted(str(v) for v in variants)
+    return kept, sorted(removed)
+
+
+def accept_new_debt(
+    document: dict[str, object],
+    unexplained: list[dict[str, object]],
+    regressions: list[dict[str, object]],
+    reason: str,
+) -> tuple[dict[str, list[str]], list[dict[str, object]]]:
+    """Rewrite the baseline to the current set, recording what was accepted.
+
+    Accepting debt is a decision, so it is a separate operation that has to
+    say why. Cleanup used to do this silently: one keystroke dropped resolved
+    groups and adopted freshly broken ones in the same pass.
+    """
+    groups = {str(f["pali"]): variant_key(f) for f in unexplained}
+    history = document.get("acknowledgements")
+    acknowledgements = [h for h in history if isinstance(h, dict)] if isinstance(history, list) else []
+    if regressions:
+        acknowledgements.append(
+            {
+                "reason": reason.strip(),
+                "groups": sorted(str(f["pali"]) for f in regressions),
+            }
+        )
+    return groups, acknowledgements
 
 
 def print_findings(unexplained: list[dict[str, object]], waived: list[dict[str, object]]) -> None:
@@ -260,9 +327,19 @@ def main() -> int:
         help="Fail on every unexplained disagreement, baseline or not.",
     )
     parser.add_argument(
-        "--update-baseline",
+        "--prune-baseline",
         action="store_true",
-        help="Rewrite reviews/formula-baseline.json to the current unexplained set.",
+        help="Remove resolved groups from reviews/formula-baseline.json. Removes only; "
+             "refuses to run while a regression is present.",
+    )
+    parser.add_argument(
+        "--accept-new-debt",
+        action="store_true",
+        help="Deliberately acknowledge a new or changed disagreement. Requires --reason.",
+    )
+    parser.add_argument(
+        "--reason",
+        help="Why the new disagreement is being acknowledged; recorded in the baseline.",
     )
     parser.add_argument("--json", action="store_true", help="Emit findings as JSON.")
     args = parser.parse_args()
@@ -278,13 +355,57 @@ def main() -> int:
         return 1
 
     unexplained, waived = collect_disagreements(load_terms(), exceptions)
+    regressions, stale = compare_to_baseline(unexplained, load_baseline())
+    relative_baseline = BASELINE_PATH.relative_to(REPO_ROOT).as_posix()
 
-    if args.update_baseline:
-        write_baseline(unexplained)
-        print(f"Wrote {len(unexplained)} acknowledged group(s) to {BASELINE_PATH.relative_to(REPO_ROOT).as_posix()}.")
+    if args.prune_baseline and args.accept_new_debt:
+        print("ERROR: --prune-baseline and --accept-new-debt are separate operations; run one.")
+        return 1
+
+    if args.prune_baseline:
+        # Cleanup must not be able to absorb a regression. Refusing here is the
+        # whole point: the same keystroke used to drop resolved groups and
+        # adopt freshly broken ones in one pass.
+        if regressions:
+            print(
+                f"Refusing to prune: {len(regressions)} new or changed disagreement(s) are "
+                "present. Reconcile them, add a scoped exception, or acknowledge them "
+                "deliberately with --accept-new-debt --reason '...'.\n"
+            )
+            for finding in regressions:
+                print(f"- {safe_text(finding['pali'])}")
+            return 1
+        if not stale:
+            print(f"Nothing to prune: every group in {relative_baseline} is still in disagreement.")
+            return 0
+        document = load_baseline_document()
+        groups, removed = prune_baseline(document, stale)
+        history = document.get("acknowledgements")
+        write_baseline_document(
+            groups,
+            acknowledgements=[h for h in history if isinstance(h, dict)] if isinstance(history, list) else None,
+        )
+        print(f"Pruned {len(removed)} resolved group(s) from {relative_baseline}:")
+        for pali in removed:
+            print(f"- {safe_text(pali)}")
         return 0
 
-    regressions, stale = compare_to_baseline(unexplained, load_baseline())
+    if args.accept_new_debt:
+        if not (args.reason and args.reason.strip()):
+            print("ERROR: --accept-new-debt requires --reason explaining the decision.")
+            return 1
+        if not regressions:
+            print(f"Nothing to accept: no disagreement is missing from {relative_baseline}.")
+            return 0
+        groups, acknowledgements = accept_new_debt(
+            load_baseline_document(), unexplained, regressions, args.reason
+        )
+        write_baseline_document(groups, acknowledgements=acknowledgements)
+        print(f"Acknowledged {len(regressions)} new or changed group(s) in {relative_baseline}:")
+        for finding in regressions:
+            print(f"- {safe_text(finding['pali'])}")
+        print(f"Reason recorded: {args.reason.strip()}")
+        return 0
 
     if args.json:
         json.dump(
@@ -308,9 +429,12 @@ def main() -> int:
         print(f"\nNew or changed disagreements not in the baseline ({len(regressions)}):")
         for finding in regressions:
             print(f"- {safe_text(finding['pali'])}")
-        print("Reconcile the records, add a scoped exception, or acknowledge with --update-baseline.")
+        print(
+            "Reconcile the records, add a scoped exception, or acknowledge deliberately with "
+            "--accept-new-debt --reason '...'."
+        )
     if stale and not args.json:
-        print(f"\nBaseline entries no longer in disagreement ({len(stale)}); run --update-baseline to drop them:")
+        print(f"\nBaseline entries no longer in disagreement ({len(stale)}); run --prune-baseline to drop them:")
         for key in stale:
             print(f"- {safe_text(key)}")
 

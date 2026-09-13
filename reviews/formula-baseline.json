@@ -1,6 +1,11 @@
 {
-  "_comment": "Acknowledged formula disagreements, written by `scripts/check_formula_agreement.py --update-baseline`. The check fails on any disagreement not listed here or whose variants have changed, and on entries that are no longer in disagreement. Resolve groups by editing the records, then rerun with --update-baseline to drop them; never add to this file by hand to silence a finding.",
+  "_comment": "Acknowledged formula disagreements. The check fails on any disagreement not listed here or whose variants have changed, and on entries that are no longer in disagreement. Two separate operations maintain this file: `--prune-baseline` removes groups that have been resolved and refuses to run while a regression is present, and `--accept-new-debt --reason '...'` is the deliberate act of taking on a new or changed disagreement. Never edit this file by hand to silence a finding.",
   "groups": {
+    "Sabbe saṅkhārā aniccā": [
+      "anicca\tall constructed things are impermanent",
+      "anicca-sabbe-sankhara\tall that has been put together is impermanent",
+      "sankhara\tall that has been put together is impermanent"
+    ],
     "abhijjhā kāyagantho": [
       "abhijjha-kayagantha\tcoveting is a bodily knot",
       "gantha\tcovetousness is a bodily knot",
@@ -109,11 +114,6 @@
     "phassasamudayā vedanāsamudayo": [
       "phassa-samudaya\tfrom the origin of contact comes the origin of felt experience",
       "phassa-samudaya\twith contact as origin, felt experience originates"
-    ],
-    "Sabbe saṅkhārā aniccā": [
-      "anicca\tall constructed things are impermanent",
-      "anicca-sabbe-sankhara\tall that has been put together is impermanent",
-      "sankhara\tall that has been put together is impermanent"
     ],
     "satipaṭṭhāna": [
       "sati\testablishment of remembering",
