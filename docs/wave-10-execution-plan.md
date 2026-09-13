@@ -6,27 +6,33 @@ confirm the baseline, and continue without relying on chat history.
 
 ## Baseline
 
-Snapshot date: 2026-08-27.
+Snapshot date: 2026-09-13, after AN 8.39.
 
-- 62 governed translation surfaces and 62 generated sutta pages
-- 1,155 governed term records
-- 633 cited term records: 536 anchored by a translated surface and 97 orphaned
+- 64 governed translation surfaces and 64 generated sutta pages
+- 1,157 governed term records
+- 635 cited term records: 544 anchored by a translated surface and 91 orphaned
 - 9 orphan major terms
-
-SN 12.20 anchored four of its five orphan signals rather than five. The fifth,
-`dhammatā`, was a false citation and its repaired source (DN 14) is not a
-translated surface, so that record stays orphaned. Closing a citation honestly
-can leave the orphan count higher than the queue predicted.
-- 806 cited example phrases checked: zero partial, absent, unfetched, or
-  unsupported matches
+- 813 cited example phrases checked: zero partial and zero absent matches
 - all generated sutta pages included in the rendered axe accessibility suite
 
-Reproduce the planning audit with:
+Do not copy these numbers forward. They are a snapshot, and the two commands
+below regenerate them in under a minute:
 
 ```bash
 python scripts/audit_surface_leverage.py --top 20
 python scripts/verify_example_sources.py --strict --top 30
 ```
+
+Two things the counts do not show on their own. SN 12.20 anchored four of its
+five orphan signals rather than five: the fifth, `dhammatā`, was a false
+citation, and its repaired source (DN 14) is not a translated surface, so that
+record stays orphaned. Closing a citation honestly can leave the orphan count
+higher than the queue predicted. And `verify_example_sources.py` reaches
+bundled root texts — Dhp verse ranges, `an2.1-10`, `sn50.1-12` — by listing
+the upstream directory through the GitHub contents API. Where that API is
+unreachable, those citations come back `unfetched` rather than verified, and
+`--strict` fails on them. That is a network result, not a citation problem;
+check whether `https://api.github.com` is reachable before treating it as one.
 
 Do not select a text solely because it has many citations. Confirm that its
 root text contains each governed term in meaningful running prose. Bare lists,
@@ -52,9 +58,13 @@ in formula or cluster work, not automatically in the reader queue.
 - `dhammatthiti` cited `dhammatthitā` to SN 12.20, which is neither the
   headword nor the source form and passed only as a prefix of the real word.
   It now cites `ṭhitāva sā dhātu dhammaṭṭhitatā`.
-- Both are the same shape as the earlier `ariyapuggala` and `upasamānussati`
-  findings. An `inflected` verdict on a short headword is worth opening by
-  hand; the verifier proves a string occurs, not that the governed term does.
+- `kāmesu micchācārā veramaṇī` is not in AN 8.39. The discourse has
+  `kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti` and no form of
+  `veramaṇī` anywhere. The citation now quotes the running text.
+- All of these have the same shape as the earlier `ariyapuggala` and
+  `upasamānussati` findings. An `inflected` verdict on a short headword or on
+  a precept formula is worth opening by hand; the verifier proves a string
+  occurs, not that the governed term does.
 
 ## Committed Queue
 
@@ -70,12 +80,16 @@ Work in this order unless a direct reader request takes priority.
    source boundary excludes the vagga closing and mnemonic verse from
    `sn12.20:5.10` onward. The source audit found two bad citations, recorded
    below.
-3. **AN 8.39, Abhisanda Sutta** — 268 Pali words. Two orphan signals in a
-   manageable ethics-and-consequence teaching. Confirm both terms in the root
-   before translation.
-4. **SN 46.1, Himavanta Sutta** — 125 Pali words. One orphan awakening-factor
-   anchor and a compact practice comparison. Use after the two higher-leverage
-   texts, or as a safe fallback if either source audit fails.
+3. **AN 8.39, Abhisanda Sutta** — **complete 2026-09-13.** 268 Pali words.
+   Both ranked orphan signals confirmed in the root and anchored:
+   `kāmesu-micchācāra` and `surāmeraya-majjapamādaṭṭhāna`. `dāna`, `saraṇa`,
+   and `saṅgha` were closed at the same time, each against an exact
+   running-text phrase. The source boundary excludes `an8.39:8.2`
+   (`Navamaṁ`); the source audit found one bad citation, recorded below.
+4. **SN 46.1, Himavanta Sutta** — **not started. This is the next
+   translation.** 125 Pali words. One orphan awakening-factor anchor
+   (`bojjhaṅga-bhāvanā`) and a compact practice comparison. Verify that
+   signal against the root before drafting, as with every other item here.
 
 DN 21 and DN 1 each carry one orphan major but are deferred at roughly 3,142
 and 7,693 Pali words. Their reader value may justify later full packets, but
@@ -118,14 +132,18 @@ The rendered accessibility suite discovers every directory under
 
 ## Human Review Workstream
 
-The initial seven-sutta review cohort stays independent of Wave 10 drafting.
-Use [the newcomer review workboard](../reviews/README.md) to recruit five new
-readers per text and record one full read-aloud review. Do not delay a
-source-faithful draft for unavailable participants, but keep it provisional
-until the ledger satisfies the review threshold.
+Human newcomer review runs in parallel with drafting and does not gate it.
+Publishing a surface requires the automated and editorial gates above; reader
+evidence is what moves an already-published surface from `provisional` to
+`validated`, and it accumulates whenever real readers are available.
 
-The likely second cohort is AN 2.9, AN 3.69, AN 4.5, and SN 1.1, followed by
-the Wave 9 and Wave 10 surfaces.
+So: never delay a source-faithful draft because participants are unavailable,
+and never mark a surface `validated` without recorded evidence for the body
+now published. Both halves of that hold at once.
+
+Use [the newcomer review workboard](../reviews/README.md) for the cohort, the
+public links, and the current tally. The cohort is the First 12, and its
+threshold is five readers and one full read-aloud review per text.
 
 ## Restart and Handoff Procedure
 
@@ -141,9 +159,9 @@ python scripts/repo_health.py
 
 Read this plan, the short
 [active roadmap](next-sutta-translation-roadmap.md), and the
-[translation workflow](translation-workflow-plan.md). Choose the first
-unfinished queue item, create a `codex/` or contributor branch, and keep the
-entire translation packet together. Before stopping, record completed work,
+[translation workflow](translation-workflow-plan.md). The first unfinished
+queue item is **SN 46.1**. Create a `codex/` or contributor branch and keep
+the entire translation packet together. Before stopping, record completed work,
 open questions, exact validation results, and the next action in the surface
 notes or this plan—not only in a local terminal or chat.
 
@@ -154,7 +172,15 @@ reflow.
 
 ## Definition of Wave Completion
 
-Wave 10 is complete when all four queue items are published, their source
-examples pass the strict verifier, the full repository checks and rendered
-accessibility suite pass, the live pages are reachable, and this plan has been
-replaced by a fresh audit rather than merely relabeled.
+Three of the four queue items are published. Wave 10 is complete when SN 46.1
+joins them, its source examples pass the strict verifier, the full repository
+checks and rendered accessibility suite pass, and the live pages are
+reachable.
+
+Recorded reader evidence is not part of that definition. It is a separate,
+open-ended workstream, and waiting for it would stop the wave indefinitely.
+
+After SN 46.1, run a fresh audit. Do not extend this ranking: it was built
+against a 61-surface corpus, three of its four items are done, and every wave
+so far has found leverage signals that were wrong until checked against the
+source. Replace this plan with the new audit rather than relabeling it.

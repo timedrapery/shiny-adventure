@@ -13,14 +13,36 @@ adding doctrine to the translated text.
 
 ## Current baseline
 
-- 61 governed translations are published with reading times, source
+Snapshot 2026-09-13. Regenerate the counts with `python scripts/run_checks.py`
+rather than quoting them from here.
+
+- 64 governed translations are published with reading times, source
   disclosures, navigation, and page-specific words-used panels.
 - The corpus passes the automated plain-English register audit.
-- Five texts have structured newcomer guides and twelve more have dedicated
-  reader introductions.
-- The review ledger records zero of thirty-five required newcomer sessions and
-  zero of seven required read-aloud reviews. Automated checks are not a
-  substitute for these human gates.
+- All twelve First 12 texts have structured newcomer guides, and fifteen more
+  surfaces have hand-written reader introductions.
+- The review ledger records zero of the sixty newcomer sessions and zero of the
+  twelve read-aloud reviews the First 12 cohort needs.
+
+## Two kinds of gate
+
+These are not the same thing, and the difference decides what work waits on
+what.
+
+**Required to publish**: source fidelity against the segmented Pali, the
+governed terminology checks, the plain-English standard, the strict example
+verifier, the reader-generation and accessibility checks, and the full
+repository suite. A surface that clears these is published as `provisional`,
+and its page says so.
+
+**Optional and ongoing**: recorded newcomer comprehension and read-aloud
+evidence. This is what raises a published surface from `provisional` to
+`validated`. It increases confidence; it is not permission to publish, and no
+translation work waits on it.
+
+Automated checks are not a substitute for the human gates, and the human gates
+are not a substitute for shipping. Never infer, simulate, or backfill reader
+evidence to close the difference.
 
 ## Recommended First 12
 
@@ -78,8 +100,8 @@ entries, valid public pages, reading metadata, and navigation.
 
 ### 4. Give every First 12 text a structured newcomer guide
 
-Extend the existing evidence-checked guide format beyond the Essential Five.
-Each guide must include:
+Done: the evidence-checked guide format now covers all twelve, not only the
+Essential Five. Each guide must include:
 
 - what happens;
 - the central question;
@@ -89,8 +111,11 @@ Each guide must include:
 - three to six key words already supported by the reader glossary;
 - one or more governed translation sections that support the guide.
 
-After the First 12 are complete, extend the same coverage to all texts in Sets
-1 and 2 of the newcomer reading order.
+The remaining work here is to extend the same coverage to the other texts in
+sets 1 and 2 of the newcomer reading order. Newer surfaces outside the First
+12 currently carry a hand-written `Before you read` introduction instead, which
+is lighter than a structured guide and not evidence-checked against the
+governed body.
 
 ### 5. Introduce a first-encounter terminology rule
 
@@ -114,8 +139,8 @@ takes about two minutes. Beneath it, offer three short pathways:
 - I want something practical to try.
 
 Each pathway should contain three to five texts, show its approximate total
-reading time, and end with a clear next choice. Preserve the complete 61-text
-reading order and advanced filters for readers who want them.
+reading time, and end with a clear next choice. Preserve the complete
+five-stage reading order and advanced filters for readers who want them.
 
 ### 7. Complete human validation of the First 12
 
@@ -162,15 +187,16 @@ instead of forcing one ranking to serve both purposes.
 
 ## Delivery milestones
 
-### Milestone A — Pilot-ready
+### Milestone A — Pilot-ready — **done**
 
 - This plan is published.
 - The First 12 are represented in project data.
-- AN 2.9, SN 36.6, and AN 3.65 have complete guide and review materials.
+- AN 2.9, SN 36.6, and AN 3.65 have complete guide and review materials, and
+  all three carry reader feedback controls on the public site.
 - A reviewer can perform and record the three-text pilot without editing JSON
   by guesswork.
 
-### Milestone B — First 12 reader experience
+### Milestone B — First 12 reader experience — **done**
 
 - All twelve structured guides pass evidence and glossary validation.
 - The homepage offers a two-minute start and three newcomer pathways.
@@ -178,12 +204,15 @@ instead of forcing one ranking to serve both purposes.
   governed translation.
 - Reader, EPUB, link, and accessibility checks pass.
 
-### Milestone C — Human validated
+### Milestone C — Human validated — **open, and waiting on readers, not on code**
 
-- All required newcomer and read-aloud evidence is recorded.
+- All required newcomer and read-aloud evidence is recorded. None is yet.
 - Recurring comprehension failures have been repaired and re-reviewed.
 - Passing First 12 surfaces are marked `validated` by the existing machine
   gate.
+
+Nothing else in the project waits on this milestone. Translation, guides,
+presentation work, and new waves all continue while it fills up.
 
 ### Milestone D — Deeper access
 
@@ -196,14 +225,24 @@ instead of forcing one ranking to serve both purposes.
 
 The reader feedback system described in
 [reader-feedback-system.md](reader-feedback-system.md) is the instrument for
-steps 1 and 2: passage-level and glossary feedback from any reader, and
-formal sessions whose reviewed export is staged into the ledger by
-`scripts/stage_feedback_evidence.py`. It is enabled on SN 36.6 first and
-needs a deployed submission service before public readers can use it.
+steps 1 and 2: passage-level and glossary feedback from any reader, and formal
+sessions whose reviewed export is staged into the ledger by
+`scripts/stage_feedback_evidence.py`. It is enabled on all three pilot texts —
+SN 36.6, AN 2.9, and AN 3.65 — and the public site posts to the editors' Google
+Form, so no service has to be hosted for readers to use it.
 
-## Immediate next action
+## Where this stands
 
-Prepare the three-text pilot and the First 12 infrastructure, then ask real
-newcomers to read AN 2.9, SN 36.6, and AN 3.65. The human evidence is the next
-decisive input; implementation may prepare and improve the experience, but it
-must not claim that unperformed reviews have passed.
+The pilot infrastructure is in place: the First 12 are represented in the
+registry, the three pilot texts carry reader feedback controls on the public
+site, and a facilitator can run and stage a session without editing JSON by
+guesswork. What is missing is readers.
+
+So the open item here is recruitment, and it runs on its own clock. Ask real
+newcomers to read AN 2.9, SN 36.6, and AN 3.65 whenever they are available,
+record what they say, and act on recurring problems. In the meantime the rest
+of this plan — guides, terminology help, the front door, presentation of long
+texts — can proceed, and so can new translation work, which this plan has never
+gated.
+
+What must not happen is claiming that unperformed reviews have passed.

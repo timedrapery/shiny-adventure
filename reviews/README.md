@@ -12,6 +12,25 @@ on the same day they were signed off, so that sign-off could not be tied to the
 text now published and those gates are open again. See
 [source fidelity](../docs/newcomer-review-protocol.md#source-fidelity).
 
+Reproduce the tally with `python scripts/check_newcomer_reviews.py`; the table
+below is written by hand and the ledger is what counts.
+
+## What this queue does and does not block
+
+This queue does not block translation work, and no contributor should stop
+drafting while it is empty. A translation is publishable once its automated and
+editorial gates pass — source fidelity against the segmented Pali, the full
+repository suite, the strict example verifier, the rendered accessibility
+suite, and the plain-English standard. It is published as `provisional`, and
+the reader page says so.
+
+What this queue adds is confidence, not permission. Recorded reader evidence is
+the only thing that moves a surface from `provisional` to `validated`, and
+there is no substitute for it: no inference from page views, no editorial
+judgement standing in for a reader, no backfilling from memory. Sessions
+accumulate whenever real readers are available, and an empty tally means
+exactly what it says — nobody has read these texts under the protocol yet.
+
 ## Three-text pilot — do these first
 
 | Text | Public reader page | Read aloud | Newcomers | Passing threshold |
@@ -21,10 +40,10 @@ text now published and those gates are open again. See
 | AN 3.65 | [How to Test a Teaching](https://timedrapery.github.io/shiny-adventure/suttas/an3-65-kesamutta-sutta/) | pending | 0/5 | 0/4 |
 
 Use the [printable pilot session sheet](pilot-session-sheet.md) and the
-[facilitator guide](facilitator-guide.md), which explains how to run a
-session through the reader feedback system and stage its export into this
-ledger. Finish and
-evaluate this pilot before recruiting for the remaining nine texts.
+[facilitator guide](facilitator-guide.md), which explains how to run a session
+through the reader feedback system and stage its export into this ledger.
+Evaluate this pilot before recruiting for the remaining nine texts; all three
+pilot texts already carry the reader feedback controls on the public site.
 
 ## Remaining First 12
 

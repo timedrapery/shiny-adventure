@@ -1,0 +1,32 @@
+{
+  "term": "puññābhisando kusalābhisando",
+  "normalized_term": "punnabhisando-kusalabhisando",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "stream of benefit, stream of what is wholesome",
+  "definition": "The paired compound that names each of the eight items in AN 8.39: three refuges and five abstentions, each called a stream of benefit and a stream of what is wholesome.",
+  "notes": "Keep `puñña` at its house default `benefit` here. The controlled `merit` alternate is scoped to chant titles, dedication formulas, and other fixed liturgical expressions, and this is a discourse being taught rather than a liturgy. `abhisanda` is water flowing in; `stream` keeps that image, while `outpouring` or `flood` would add a grace or catastrophe overtone the Pali does not carry. The two halves always occur together and must be rendered as a matched pair, so that `benefit` and `wholesome` stay attached to their own governed headwords.",
+  "related_terms": [
+    "punna",
+    "kusala",
+    "dana",
+    "sagga"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Aṭṭhime, bhikkhave, puññābhisandā kusalābhisandā sukhassāhārā",
+      "translation": "Bhikkhus, there are eight streams of benefit, streams of what is wholesome, food for ease",
+      "notes": "The opening statement. `sukhassāhāra` takes the plain `food` for `āhāra` and the recorded idiomatic `ease` for `sukha`.",
+      "source": "AN 8.39"
+    }
+  ],
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics",
+    "formula",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

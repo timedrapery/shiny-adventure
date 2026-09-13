@@ -15,7 +15,8 @@
   "untranslated_preferred": false,
   "definition": "Giving or generosity as a basic wholesome practice and support for spiritual development.",
   "sutta_references": [
-    "AN 7.49"
+    "AN 7.49",
+    "AN 8.39"
   ],
   "tags": [
     "ethics",
@@ -28,6 +29,19 @@
       "context": "In ceremony headings and formal donation formulas",
       "rendering": "offering",
       "notes": "Source-backed liturgical alternate."
+    },
+    {
+      "context": "When the text counts discrete acts of giving rather than naming the quality",
+      "rendering": "gift",
+      "notes": "AN 8.39 counts `pañca dānāni mahādānāni`, and `five generosities` is not English. Use `gift` only where the Pali is enumerating; keep `generosity` for the quality."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "Pañcimāni, bhikkhave, dānāni mahādānāni",
+      "translation": "There are five gifts, bhikkhus—great gifts",
+      "notes": "The countable sense. AN 8.39 calls the five abstentions gifts because each one gives every other being freedom from fear.",
+      "source": "AN 8.39"
     }
   ]
 }

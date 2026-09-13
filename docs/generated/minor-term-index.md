@@ -2,13 +2,14 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 916
+- Entries: 918
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
+| [abhayam-averam-abyabajjham](../../terms/minor/abhayam-averam-abyabajjham.json) | abhayaṁ averaṁ abyābajjhaṁ | freedom from fear, freedom from enmity, freedom from affliction | reviewed | ethics, formula |
 | [abhijjha-kayagantha](../../terms/minor/abhijjha-kayagantha.json) | abhijjhā kāyagantha | bodily knot of coveting | stable | core-doctrine, mental-qualities, bondage-imagery |
 | [abhijjha](../../terms/minor/abhijjha.json) | abhijjhā | coveting | reviewed | mental-qualities, ethics |
 | [abhinivesa](../../terms/minor/abhinivesa.json) | abhinivesa | insistence | reviewed | core-doctrine, self-view |
@@ -709,6 +710,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [puja](../../terms/minor/puja.json) | pūjā | pūjā | reviewed | core-practice, translation-sensitive |
 | [puluvaka](../../terms/minor/puluvaka.json) | puluvaka | worm-infested corpse | reviewed | meditative-development, embodiment |
 | [punna-kamma](../../terms/minor/punna-kamma.json) | punna-kamma | benefit-producing action | reviewed | ethics |
+| [punnabhisando-kusalabhisando](../../terms/minor/punnabhisando-kusalabhisando.json) | puññābhisando kusalābhisando | stream of benefit, stream of what is wholesome | reviewed | ethics, formula, translation-sensitive |
 | [punnabhisankhara](../../terms/minor/punnabhisankhara.json) | puññābhisaṅkhāra | benefit-producing constructing | reviewed | core-doctrine, dependent-origination, causality |
 | [purejata-paccaya](../../terms/minor/purejata-paccaya.json) | purejata-paccaya | pre-arising condition | reviewed | causality |
 | [purejata](../../terms/minor/purejata.json) | purejata | pre-arising | reviewed | causality |

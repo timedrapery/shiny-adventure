@@ -253,8 +253,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## R
 
 <dl class="glossary-list">
+<dt><dfn>recluses</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
 <dt><dfn>recognition</dfn> <span class="glossary-pali" lang="pi">(saññā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>refuge</dfn> <span class="glossary-pali" lang="pi">(saraṇa)</span></dt>
+<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
 <dt><dfn>regularity of the pattern</dfn></dt>
 <dd>That the same conditions reliably lead to the same results. Paired with the phrase above; the two say one thing from two sides.</dd>
 <dt><dfn>release of mind</dfn> <span class="glossary-pali" lang="pi">(cetovimutti)</span></dt>
@@ -312,6 +316,10 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>That the way conditions give rise to results holds steady. It names a reliable regularity, not a permanent thing standing behind events.</dd>
 <dt><dfn>stands firm</dfn></dt>
 <dd>AN 4.5&#x27;s river image for a non-returner: someone no longer being swept back into ordinary sensual existence, though the crossing is not yet complete.</dd>
+<dt><dfn>stream of benefit</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;puññābhisanda&quot; -- benefit flowing in, the way water flows into a low place. &quot;Benefit&quot; is the house rendering of &quot;puñña&quot;, more often translated &quot;merit&quot;.</dd>
+<dt><dfn>streams of benefit</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;puññābhisanda&quot; -- benefit flowing in, the way water flows into a low place. &quot;Benefit&quot; is the house rendering of &quot;puñña&quot;, more often translated &quot;merit&quot;.</dd>
 <dt><dfn>suchness</dfn> <span class="glossary-pali" lang="pi">(tathatā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;tathatā&quot; -- that things are just as they are, and not otherwise. Used to stop the pattern being turned into a hidden essence.</dd>
 </dl>

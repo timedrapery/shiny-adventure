@@ -3,8 +3,11 @@
 This plan records how reader feedback is added to the generated reader so
 that readability problems can be found, tied to the exact passage and lexicon
 decision they concern, fixed in the right layer, and re-checked with readers.
-It is committed before the implementation so the design can be reviewed on its
-own and so later drift from it is visible.
+It was committed before the implementation so the design could be reviewed on
+its own and so later drift from it would be visible. The implementation is
+done; this document is now the record of the design decisions, and
+[reader-feedback-system.md](reader-feedback-system.md) describes the system as
+built.
 
 The governed translation, the lexicon, and the newcomer evidence ledger keep
 their existing authority. Feedback never edits any of them. It is evidence for
@@ -51,8 +54,9 @@ Enable the system on **SN 36.6, One Arrow, Not Two** first.
   anonymous public reader. AN 3.65 is the longest and most sectioned of the
   three; it is a better second text once the workflow has run once.
 
-Draft comprehension questions are prepared for all three pilot texts, but only
-SN 36.6 is enabled in `includes/feedback/config.json`.
+Draft comprehension questions are prepared for all three pilot texts. SN 36.6
+was enabled first, for the reasons above; AN 2.9 and AN 3.65 followed once the
+workflow had run, and `includes/feedback/config.json` now enables all three.
 
 ## Architecture
 
@@ -189,6 +193,8 @@ bounded mapping work for the pilot is the explicit map for SN 36.6.
   human to run it.
 
 ## Sequence of work
+
+All nine steps are done.
 
 1. Commit this plan.
 2. Passage identifiers: script, maps for the three pilot texts, tests,

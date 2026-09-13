@@ -1,8 +1,9 @@
 # Wave 9 Execution Plan
 
-This is the durable handoff document for the next translation wave. A
-contributor should be able to clone the repository on another machine, confirm
-the baseline, and continue without relying on chat history.
+**Superseded. Wave 9 is complete**; the active handoff document is the
+[Wave 10 execution plan](wave-10-execution-plan.md). This page is kept as the
+record of Wave 9's baseline, queue, and findings. Every number below is a
+2026-08-25 snapshot and no longer describes the corpus.
 
 ## Baseline
 

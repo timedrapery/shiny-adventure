@@ -297,6 +297,11 @@ Current AN 8.6 surfaces:
 - [an8-6-dutiyalokadhamma-sutta.md](an8-6-dutiyalokadhamma-sutta.md): main shareable translation text
 - [an8-6-dutiyalokadhamma-sutta-notes.md](an8-6-dutiyalokadhamma-sutta-notes.md): companion translator notes and rationale
 
+Current AN 8.39 surfaces:
+
+- [an8-39-abhisanda-sutta.md](an8-39-abhisanda-sutta.md): main shareable translation text
+- [an8-39-abhisanda-sutta-notes.md](an8-39-abhisanda-sutta-notes.md): companion translator notes and rationale
+
 Current AN 10.60 surfaces:
 
 - [an10-60-giriminanda-sutta.md](an10-60-giriminanda-sutta.md): main shareable translation text

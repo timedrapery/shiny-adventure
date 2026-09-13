@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2095 |
-| Governed surfaces | 825 |
-| Ungoverned surfaces | 1270 |
-| Coverage by surface | 39.4% |
-| Coverage by occurrence | 60.2% |
+| Distinct surfaces | 2134 |
+| Governed surfaces | 836 |
+| Ungoverned surfaces | 1298 |
+| Coverage by surface | 39.2% |
+| Coverage by occurrence | 59.7% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -34,12 +34,12 @@ single row as a lead rather than a fact.
 
 | Route | Surfaces |
 | --- | --- |
-| `compound` | 64 |
-| `exact` | 385 |
-| `inflected` | 376 |
-| `none` | 1270 |
+| `compound` | 65 |
+| `exact` | 388 |
+| `inflected` | 383 |
+| `none` | 1298 |
 
-### Ungoverned surfaces by frequency (1270 total)
+### Ungoverned surfaces by frequency (1298 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -48,10 +48,11 @@ single row as a lead rather than a fact.
 | `paticca` | 19 | mn148-chachakka-sutta-notes.md, mn18-madhupindika-sutta-notes.md, terms/ |
 | `mama` | 13 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn12-61-assutava-sutta-notes.md, sn22-59-anattalakkhana-sutta-notes.md |
 | `yathabhutam` | 12 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, terms/ |
+| `pahaya` | 10 | an8-39-abhisanda-sutta-notes.md, terms/ |
+| `panca` | 10 | an4-5-anusota-sutta-notes.md, an8-39-abhisanda-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `cetasa` | 9 | an11-9-saddha-sutta-notes.md, an3-65-kesamutta-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, mn39-maha-assapura-sutta-notes.md, terms/ |
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
-| `panca` | 9 | an4-5-anusota-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
 | `ponobbhavika` | 9 | mn36-mahasaccaka-sutta-notes.md, sn56-11-dhammacakkappavattana-sutta-notes.md, terms/ |
 | `satova` | 9 | mn118-anapanasati-sutta-notes.md, terms/ |
 | `adinavanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
@@ -67,7 +68,6 @@ single row as a lead rather than a fact.
 | `kayanupassi` | 7 | terms/ |
 | `kaye` | 7 | terms/ |
 | `loko` | 7 | an2-9-cariya-sutta-notes.md, mn63-culamalukya-sutta-notes.md, terms/ |
-| `nirujjhati` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
 
 ## Drift
 
@@ -82,11 +82,13 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 104 |
-| Declared renderings | 795 |
-| Findings | 0 |
+| Documents declaring renderings | 105 |
+| Declared renderings | 796 |
+| Findings | 1 |
 
-No declared rendering fights its record.
+| Document | Headword | Kind | Declared | Preferred |
+| --- | --- | --- | --- | --- |
+| an8-39-abhisanda-sutta-notes.md | `samaṇa` | unlisted | ascetics and brahmins | recluse |
 
 ## Review queue
 

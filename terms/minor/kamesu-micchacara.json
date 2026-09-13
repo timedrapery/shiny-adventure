@@ -20,9 +20,9 @@
   ],
   "example_phrases": [
     {
-      "pali": "kāmesu micchācārā veramaṇī",
-      "translation": "abstaining from sexual misconduct",
-      "notes": "Explicitly sexual ethical context; narrower than bare kāma.",
+      "pali": "kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti",
+      "translation": "gives up sexual misconduct and refrains from sexual misconduct",
+      "notes": "The running-text form in AN 8.39. The record previously cited `kāmesu micchācārā veramaṇī` to this discourse, which does not contain `veramaṇī` in any form; the strict verifier scored that as `inflected` rather than `absent` because each stem occurs elsewhere in the text. Repaired 2026-09-13 with the AN 8.39 packet.",
       "source": "AN 8.39"
     }
   ],

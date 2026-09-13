@@ -82,6 +82,8 @@ generating script first.
   Reports corpus coverage, declared-rendering drift, review-queue latency, and weekly schema and lint failures. Add `--write` to regenerate `docs/generated/health-dashboard.md`, or `--format html` for a self-contained page with charts.
 - `python scripts/backfill_check_history.py`
   Replays git history to rebuild `reviews/check-history.jsonl`, the weekly failure series the dashboard reads.
+- `python scripts/next_sutta_priority_report.py`
+  Prints the translation queue with live corpus, citation, and orphan counts derived from `terms/` and the surface registry. Add `--write` to regenerate `docs/generated/next-sutta-priority-table.md`, which `check_generated_docs.py` then keeps in step with the corpus. The queue order itself is editorial and lives in the script beside the Wave plan it mirrors.
 - `python scripts/audit_term_coverage.py --top 15`
   Reports doctrinal coverage gaps in the term dataset.
 - `python scripts/modern_english_audit.py`

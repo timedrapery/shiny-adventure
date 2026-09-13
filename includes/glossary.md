@@ -326,3 +326,11 @@
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+
+*[stream of benefit]: This project's rendering of "puññābhisanda" -- benefit flowing in, the way water flows into a low place. "Benefit" is the house rendering of "puñña", more often translated "merit".
+
+*[streams of benefit]: This project's rendering of "puññābhisanda" -- benefit flowing in, the way water flows into a low place. "Benefit" is the house rendering of "puñña", more often translated "merit".
+
+*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
+
+*[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.

@@ -385,6 +385,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an8_39",
+        label="AN 8.39",
+        main_relpath="docs/translations/an8-39-abhisanda-sutta.md",
+        notes_relpath="docs/translations/an8-39-abhisanda-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an10_60",
         label="AN 10.60",
         main_relpath="docs/translations/an10-60-giriminanda-sutta.md",
@@ -488,6 +494,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "an8_6": "0f532dc82ac30bda4c3a1d4300404280c988c6c08bf1272da8a91df46618d7da",
     "an10_60": "55a08fcdd577c9177b17bb62672d11c27c278f6f27d23a0641279411285c54fc",
     "an11_9": "5be8a71c5b42fe60e4b30d4aa7ee37f5a7eaf6e0b67f7279352c1d4d04ac1abd",
+    "an8_39": "ab7b0483479dcd5b6c33a4890e3b6c54983aa5f3296c9aa62bc3412eab9d23f0",
     "an11_12": "cfb1ca4428045864e672fb3bc3936857da33d3237a1ccdd5a8abc5a62fd76852",
     "dn2": "e14ae3eb8758d509eac9c1868993c55eb3ac51bd18763bfe28bb2a68c47ce323",
     "dn15": "8461edc9ebaee7f98b372823f02660f84fba4534308cc3b74f3f17922f37c9f1",
@@ -519,6 +526,7 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "an11_12": "2026-08-25",
     "sn12_20": "2026-08-27",
     "mn36": "2026-09-11",
+    "an8_39": "2026-09-13",
 }
 
 # Surfaces that have cleared all three human evidence gates. A surface is
@@ -555,6 +563,13 @@ NON_CLUSTER_GENERATED_SURFACES: tuple[ClusterSurface, ...] = (
         doc_relpath="docs/generated/health-dashboard.md",
         script_relpath="scripts/health_dashboard.py",
         test_relpaths=("tests/test_health_dashboard.py",),
+    ),
+    ClusterSurface(
+        key="next_sutta_priority",
+        label="Next-sutta priority table",
+        doc_relpath="docs/generated/next-sutta-priority-table.md",
+        script_relpath="scripts/next_sutta_priority_report.py",
+        test_relpaths=("tests/test_next_sutta_priority_report.py",),
     ),
 )
 
@@ -752,40 +767,47 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "sense of integrity, and moral caution about harm and consequences.",
         reader_title="What Keeps the World Human",
     ),
+    "an8_39": ReaderMeta(
+        "Abhisanda Sutta", 2, 8,
+        "Keeping the five precepts described from the other side: every being "
+        "who might have been harmed is given freedom from fear, and the "
+        "person who gave it comes to share in it.",
+        reader_title="Eight Streams of Benefit",
+    ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 8,
+        "Vattha Sutta", 2, 9,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an3_69": ReaderMeta(
-        "Akusalamūla Sutta", 2, 9,
+        "Akusalamūla Sutta", 2, 10,
         "Greed, aversion, and delusion are traced from their roots to their "
         "effects on action, speech, power, and the heart—then contrasted with "
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
-        "Anusota Sutta", 2, 10,
+        "Anusota Sutta", 2, 11,
         "Four ways of meeting the current: drifting with it, struggling "
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
     "sn1_1": ReaderMeta(
-        "Oghataraṇa Sutta", 2, 11,
+        "Oghataraṇa Sutta", 2, 12,
         "A deity asks how the Buddha crossed a flood. The answer refuses both "
         "standing still and forceful struggle, preserving a compact paradox.",
         reader_title="How Do You Cross the Flood?",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 12,
+        "Patoda Sutta", 2, 13,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 13,
+        "Dutiyasāriputta Sutta", 2, 14,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -793,7 +815,7 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 14,
+        "Saddha Sutta", 2, 15,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
@@ -1112,7 +1134,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9", "an3_69", "an4_5",
+        "an2_9", "an3_69", "an4_5", "an8_39",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",

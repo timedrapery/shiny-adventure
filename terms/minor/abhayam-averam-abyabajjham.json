@@ -1,0 +1,30 @@
+{
+  "term": "abhayaṁ averaṁ abyābajjhaṁ",
+  "normalized_term": "abhayam-averam-abyabajjham",
+  "entry_type": "minor",
+  "part_of_speech": "phrase",
+  "preferred_translation": "freedom from fear, freedom from enmity, freedom from affliction",
+  "definition": "What a noble disciple who keeps one of the five great gifts gives to countless beings in AN 8.39, and comes to share in without limit.",
+  "notes": "Render all three members with the same `freedom from` frame, because the Pali repeats one privative pattern three times and the point is cumulative. `vera` keeps its governed `enmity`. `abyābajjha` has no headword entry; `affliction` follows the existing corpus, where MN 2 renders `abyābajjhaparamatā` as `the highest freedom from affliction` and MN 61 renders the `byābādha` family the same way. Do not render `abyābajjha` as `harm`, which is already carrying `pāpa` and `apuñña` elsewhere in the lexicon.",
+  "related_terms": [
+    "vera",
+    "satta",
+    "punnabhisando-kusalabhisando"
+  ],
+  "example_phrases": [
+    {
+      "pali": "aparimāṇānaṁ sattānaṁ abhayaṁ deti, averaṁ deti, abyābajjhaṁ deti",
+      "translation": "gives countless beings freedom from fear, gives them freedom from enmity, gives them freedom from affliction",
+      "notes": "Stated for the first of the five great gifts and repeated in full for the fifth; the source abbreviates it for the middle three.",
+      "source": "AN 8.39"
+    }
+  ],
+  "sutta_references": [
+    "AN 8.39"
+  ],
+  "tags": [
+    "ethics",
+    "formula"
+  ],
+  "status": "reviewed"
+}
