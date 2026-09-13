@@ -616,7 +616,7 @@ Buddha!"
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>five distractions</dfn></dt>
 <dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
 <dt><dfn>friendliness</dfn></dt>
@@ -685,7 +685,7 @@ Buddha!"
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
+*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 *[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.

@@ -134,7 +134,7 @@ arise dependently."
 The tenth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (23)</summary>
+<summary>Words used in this translation (24)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
@@ -148,6 +148,8 @@ The tenth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>conditionality</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
+<dt><dfn>conditioned</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;saṅkhata&quot; -- anything that came about because other things did, and that stops when they stop. Nearly everything is.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dependent arising</dfn></dt>
@@ -213,6 +215,7 @@ The tenth discourse is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
+*[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 *[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.

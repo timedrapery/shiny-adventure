@@ -112,7 +112,7 @@
 
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 
-*[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
+*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 
@@ -350,3 +350,7 @@
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
 
 *[discernment-of-qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
+
+*[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
+
+*[unconditioned]: This project's rendering of "asaṅkhata" -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.

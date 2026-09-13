@@ -432,7 +432,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>faculties</dfn></dt>
 <dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
@@ -533,7 +533,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
+*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 *[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.

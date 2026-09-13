@@ -8,6 +8,19 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Ud 8.3,
+  Tatiyanibbānapaṭisaṁyutta Sutta, with companion notes, a reader
+  introduction, reader metadata, and a generated reader page placed at the end
+  of set 5 beside Iti 44. At 139 English words it is the shortest page in the
+  collection, and it makes one conditional argument: there would be no
+  discernible escape from what is born, become, made and conditioned unless
+  there were something that is not. Wave 11 item 2, taken first because item 1
+  carries a precondition. Anchors `asaṅkhata-dhātu`; corpus orphans 85 to 84.
+- Added three reader glosses (conditioned, unconditioned) and generalised a
+  fourth: the `escape` gloss described `nissaraṇa` only as a way out of a
+  feeling, which was true on SN 36.6 and wrong on every other page that uses
+  the word.
+
 - Added the [Wave 11 execution plan](docs/wave-11-execution-plan.md), written
   from a fresh audit rather than by extending Wave 10's spent ranking. Its
   queue is Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122; every signal was
@@ -160,6 +173,15 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Ud 8.3 is the repository's first Udāna surface, and its notes settle the
+  collection's framing formula — the occasion, the `imaṁ udānaṁ udānesi`
+  line, and the closing marker — as Iti 44 did for the Itivuttaka.
+- `generate_reader.py` no longer drops a surface whose collection is missing
+  from the All Suttas index's hardcoded list. Adding Ud 8.3 exposed it: the
+  page claims to list every translation and silently omitted one. The Udāna is
+  now listed, and an unlisted collection raises an error naming it instead of
+  vanishing.
+
 - `audit_surface_leverage.py` no longer ranks verse collections by length.
   Once the Dhammapada bundles were cached, it filed Dhp 21 — twelve Pali words,
   and the only running-text anchor for the governed major `appamāda` — as an
@@ -290,7 +312,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 65 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 66 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

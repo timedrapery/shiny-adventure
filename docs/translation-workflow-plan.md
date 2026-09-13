@@ -52,11 +52,19 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-09-13
 
-- 65 governed translation surfaces and 65 generated reader pages. AN 8.39 and
+- 66 governed translation surfaces and 66 generated reader pages. AN 8.39 and
   SN 46.1 closed the Wave 10 queue, and a fresh audit the same day produced
   the [Wave 11 plan](wave-11-execution-plan.md). Wave 11's queue is Dhp 21-32,
   Ud 8.3, SN 22.22, SN 22.26, and MN 122, each signal checked against its root
-  text before it was given a position.
+  text before it was given a position. **Ud 8.3 is published**, taken ahead of
+  Dhp 21-32 because that item carries a precondition: it would be the
+  repository's first verse surface.
+- All 66 surfaces report no automated plain-English register signals.
+- Ud 8.3 is the repository's first Udāna surface and settles the collection's
+  framing formula, as Iti 44 did for the Itivuttaka. Adding it also exposed
+  that `generate_reader.py` dropped any surface whose collection was missing
+  from the All Suttas index's hardcoded list, silently. The list now has the
+  Udāna, and an unlisted collection raises instead of vanishing.
 - That audit found and repaired eight citation problems in the records it was
   ranking. Four closed an orphan with no translation at all, because the term
   was already demonstrated in a translated surface: `cāga` (AN 7.49 to
@@ -74,7 +82,6 @@ python -m pip install -r requirements-dev.txt
 - `audit_surface_leverage.py` no longer ranks verse collections by length. Once
   the Dhammapada bundles were cached it filed Dhp 21 as an enumeration stub for
   being twelve words long.
-- All 65 surfaces report no automated plain-English register signals.
 - The SN 46.1 source audit found a sixth false citation of the familiar shape,
   and the first one hidden behind an `inconclusive` verdict rather than an
   `inflected` one. `bojjhaṅga-bhāvanā` and the `bojjhaṅga` major entry both

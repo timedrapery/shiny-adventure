@@ -95,7 +95,7 @@ This too was said by the Buddha — so I heard.
 The seventh discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (13)</summary>
+<summary>Words used in this translation (14)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -121,6 +121,8 @@ The seventh discourse is finished.
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+<dt><dfn>unconditioned</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;asaṅkhata&quot; -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.</dd>
 <dt><dfn>wearing away</dfn></dt>
 <dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
 </dl>
@@ -143,6 +145,7 @@ The seventh discourse is finished.
 
 - [← The Root of All Things](mn1-mulapariyaya-sutta.md)
 - [All suttas](index.md)
+- [Why There Is a Way Out →](ud8-3-tatiyanibbanapatisamyutta-sutta.md)
 
 </nav>
 
@@ -159,4 +162,5 @@ The seventh discourse is finished.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
+*[unconditioned]: This project's rendering of "asaṅkhata" -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.

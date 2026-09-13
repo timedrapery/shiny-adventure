@@ -13,15 +13,15 @@
     "transcendent realm"
   ],
   "definition": "Compound carrying the asaṅkhata headword into dhātu-language.",
-  "notes": "Keep this compound aligned with the asaṅkhata headword and avoid vague metaphysical or realm-language expansion. Ud 8.3 directly anchors asaṅkhata, but does not quote the full compound; dhātu is governed here through the repository's compound policy.",
+  "notes": "Keep this compound aligned with the asaṅkhata headword and avoid vague metaphysical or realm-language expansion. Ud 8.3 directly anchors asaṅkhata, but does not quote the full compound; dhātu is governed here through the repository's compound policy. Ud 8.3 became a translated surface on 2026-09-13, so this record is now anchored.",
   "related_terms": [
     "asankhata"
   ],
   "example_phrases": [
     {
       "pali": "ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ",
-      "translation": "the unborn, unbecome, unmade, unconditioned",
-      "notes": "Ud 8.3 directly anchors the asaṅkhata side of this governed compound; it does not quote asaṅkhata-dhātu itself.",
+      "translation": "what is unborn, unbecome, unmade, unconditioned",
+      "notes": "Ud 8.3 directly anchors the asaṅkhata side of this governed compound; it does not quote asaṅkhata-dhātu itself. The English matches the published Ud 8.3 surface, which renders the bare neuter series `what is ...` rather than reifying four separate items.",
       "source": "Ud 8.3"
     }
   ],

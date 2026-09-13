@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (65 total)
+## Completed Surfaces (66 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -77,6 +77,13 @@ Use that full roadmap as the source of truth for:
 - `Iti 49` Diṭṭhigata Sutta (Taken Over by Views) — complete 2026-08-25.
   Shows how attachment to becoming and attraction to annihilation can each
   take over, and anchors the previously orphaned major `pariyuṭṭhāna` record.
+
+### Wave 11: Verified Anchors After a Fresh Audit
+- `Ud 8.3` Tatiyanibbānapaṭisaṁyutta Sutta (Why There Is a Way Out) — complete
+  2026-09-13. The repository's first Udāna surface, and its shortest page: one
+  conditional argument that there would be no discernible escape from what is
+  born, made and conditioned unless there were something that is not. Anchors
+  `asaṅkhata-dhātu`.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -160,7 +167,9 @@ Use that full roadmap as the source of truth for:
 
 1. `Dhp 21-32` the Appamādavagga — 124 words, anchors the orphan major
    `appamāda`. Has a precondition: settle how verse is handled first.
-2. `Ud 8.3` Tatiyanibbānapaṭisaṁyutta — 84 words, anchors `asaṅkhata-dhātu`.
+2. `Ud 8.3` Tatiyanibbānapaṭisaṁyutta — **complete 2026-09-13**, taken first
+   because item 1's precondition is unsettled. 84 words, anchors
+   `asaṅkhata-dhātu`, and settles the Udāna framing formula.
 3. `SN 22.22` Bhāra Sutta — 108 words, anchors the burden formula.
 4. `SN 22.26` Assāda Sutta — 223 words, anchors the gratification, danger, and
    escape formula for the five heaps.

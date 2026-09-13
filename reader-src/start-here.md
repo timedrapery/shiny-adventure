@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 65 translations in this collection, for someone new to this material.
+A suggested order for reading the 66 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -116,6 +116,7 @@ Technical material that rewards already knowing the vocabulary cold. These are t
 - [**Household Life or Renunciant Life?**](suttas/mn99-subha-sutta.md) (MN 99, Subha Sutta) — about 22 min · 3,861 words. A dialogue defending renunciant life against a brahmin's claim that household life is better. Good late-stage read for weighing the whole path against the alternative.
 - [**The Root of All Things**](suttas/mn1-mulapariyaya-sutta.md) (MN 1, Mūlapariyāya Sutta) — about 22 min · 3,787 words. "The root of all things." Traditionally regarded as one of the most difficult texts in the collection. Deliberately last: it rewards everything that came before it and rewards very little read cold.
 - [**The Two Nibbāna Elements**](suttas/iti44-nibbanadhatu-sutta.md) (Iti 44, Nibbānadhātu Sutta) — about 2 min · 347 words. A short reference text defining the two nibbāna elements. Read it for one distinction: what has already happened to a living arahant's mind, and what happens to everything they feel.
+- [**Why There Is a Way Out**](suttas/ud8-3-tatiyanibbanapatisamyutta-sutta.md) (Ud 8.3, Tatiyanibbānapaṭisaṁyutta Sutta) — about 1 min · 139 words. One minute, and one argument: there would be no way out of what is born, made and conditioned unless there were something that is not. It says that there is, and nothing more about it.
 
 ## If you only read five
 

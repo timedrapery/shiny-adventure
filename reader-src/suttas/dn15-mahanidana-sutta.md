@@ -816,7 +816,7 @@ That is what the Buddha said.
 Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (38)</summary>
+<summary>Words used in this translation (39)</summary>
 <dl>
 <dt><dfn>ageing and dying</dfn></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
@@ -834,6 +834,8 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>conditionality</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
+<dt><dfn>conditioned</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;saṅkhata&quot; -- anything that came about because other things did, and that stops when they stop. Nearly everything is.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>dependent arising</dfn></dt>
@@ -845,7 +847,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
@@ -927,12 +929,13 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
+*[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 *[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[escape]: A genuine way out of being stuck in a feeling -- as opposed to the false escapes (like chasing pleasure) an untrained mind tends to reach for instead.
+*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
