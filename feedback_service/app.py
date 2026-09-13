@@ -42,7 +42,7 @@ HTML_HEADERS = [
     ("Content-Type", "text/html; charset=utf-8"),
     ("Cache-Control", "no-store"),
     ("X-Content-Type-Options", "nosniff"),
-    ("Referrer-Policy", "no-referrer"),
+    ("Referrer-Policy", "same-origin"),
     ("X-Frame-Options", "DENY"),
     (
         "Content-Security-Policy",
@@ -281,9 +281,16 @@ class FeedbackApp:
                 b"Authentication required.\n",
             )
         if request.method == "POST":
+            # Browsers that send Sec-Fetch-Site say exactly where a form came
+            # from; older ones fall back to the Origin header. Either way the
+            # HMAC form token below is the real protection.
             fetch_site = (request.header("sec-fetch-site") or "").lower()
             origin = request.header("origin")
-            if fetch_site in {"cross-site"} or (origin and origin.rstrip("/") != request.own_origin()):
+            if fetch_site:
+                cross_site = fetch_site not in {"same-origin", "none"}
+            else:
+                cross_site = bool(origin) and origin.rstrip("/") != request.own_origin()
+            if cross_site:
                 return Response.text("Cross-site form submission refused.\n", "403 Forbidden")
             form = request.form(self.settings.max_body_bytes * 4)
             if not auth.csrf_valid(self.settings.secret_key, user, form.get("csrf")):

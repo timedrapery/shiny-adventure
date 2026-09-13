@@ -25,7 +25,7 @@ def _row(row) -> dict[str, Any]:
 def submission_document(storage: Storage, row) -> dict[str, Any]:
     """A full, contact-free view of one submission with its history."""
     document = _row(row)
-    document["terms"] = [dict(t) for t in storage.terms_for(row["id"])]
+    document["terms"] = [{"id": t["term_id"], "basis": t["basis"]} for t in storage.terms_for(row["id"])]
     document["glossary_versions"] = json.loads(row["glossary_versions_json"] or "{}")
     document["answers"] = json.loads(row["answers_json"]) if row["answers_json"] else None
     document["dispositions"] = [_row(d) for d in storage.dispositions(row["id"])]
