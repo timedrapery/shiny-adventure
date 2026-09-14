@@ -628,10 +628,10 @@ equanimity and remembering.
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
 
-Furthermore, bhikkhus, with the complete transcending of perceptions of form,
-with the passing away of perceptions of resistance, with non-attention to
-perceptions of diversity, aware that 'space is boundless,' a bhikkhu enters
-and remains in the sphere of boundless space.
+Furthermore, bhikkhus, with the complete transcending of recognitions of
+form, with the passing away of recognitions of resistance, with non-attention
+to recognitions of diversity, aware that 'space is boundless,' a bhikkhu
+enters and remains in the sphere of boundless space.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
@@ -787,7 +787,7 @@ The sixth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn26/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn26-pasarasi-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `839a76a0`
+- **Last editorial review:** 2026-09-14 · body version `1c433fa5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2026) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

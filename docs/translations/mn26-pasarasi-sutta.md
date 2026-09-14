@@ -636,10 +636,10 @@ equanimity and remembering.
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
 
-Furthermore, bhikkhus, with the complete transcending of perceptions of form,
-with the passing away of perceptions of resistance, with non-attention to
-perceptions of diversity, aware that 'space is boundless,' a bhikkhu enters
-and remains in the sphere of boundless space.
+Furthermore, bhikkhus, with the complete transcending of recognitions of
+form, with the passing away of recognitions of resistance, with non-attention
+to recognitions of diversity, aware that 'space is boundless,' a bhikkhu
+enters and remains in the sphere of boundless space.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.

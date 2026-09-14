@@ -3,7 +3,7 @@
      not this one. Newcomer guidance comes from includes/newcomer-guides;
      legacy reader introductions are preserved across regeneration. -->
 
-# Ten Perceptions for a Sick Monk
+# Ten Recognitions for a Sick Monk
 
 *AN 10.60, the Girimānanda Sutta — set 3, Learning to Look at Your Own Mind*
 

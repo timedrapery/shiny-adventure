@@ -1141,7 +1141,7 @@ Buddha had said.
 
 - [← Remembering Directed to the Body](mn119-kayagatasati-sutta.md)
 - [All suttas](index.md)
-- [Ten Perceptions for a Sick Monk →](an10-60-giriminanda-sutta.md)
+- [Ten Recognitions for a Sick Monk →](an10-60-giriminanda-sutta.md)
 
 </nav>
 

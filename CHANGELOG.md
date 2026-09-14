@@ -173,6 +173,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Finished applying the saññā ruling, which had two stragglers. AN 10.60's
+  reader title and Start Here note still said `Ten Perceptions for a Sick
+  Monk` while its own body says `The Ten Recognitions` throughout — so the
+  public page, the navigation, the All Suttas index, find-a-sutta, both
+  neighbour links and the EPUB all contradicted the translation they pointed
+  at. And MN 26's formless-sphere triad still read `perceptions of form`, `of
+  resistance` and `of diversity`; MN 64 carries the same formula and had
+  already been converted, so MN 26 was the lone holdout. Both now follow the
+  `saññā` headword. MN 26's body hash is updated with the touch dated.
+
 - Ud 8.3 is the repository's first Udāna surface, and its notes settle the
   collection's framing formula — the occasion, the `imaṁ udānaṁ udānesi`
   line, and the closing marker — as Iti 44 did for the Itivuttaka.

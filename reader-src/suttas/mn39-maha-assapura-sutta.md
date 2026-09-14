@@ -573,7 +573,7 @@ The Greater Discourse at Assapura is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Ten Perceptions for a Sick Monk](an10-60-giriminanda-sutta.md)
+- [← Ten Recognitions for a Sick Monk](an10-60-giriminanda-sutta.md)
 - [All suttas](index.md)
 - [What Feeds and Starves Distraction →](sn46-51-ahara-sutta.md)
 
