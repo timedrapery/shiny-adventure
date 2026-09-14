@@ -242,12 +242,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>A king asks what a renunciant actually gets out of the life. A full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="ten perceptions for a sick monk an 10.60 girimānanda sutta ten perceptions taught to a sick monk. practical and, unusually for this stage, comforting. meditation">
-<h2><a href="../suttas/an10-60-giriminanda-sutta/">Ten Perceptions for a Sick Monk</a></h2>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="ten recognitions for a sick monk an 10.60 girimānanda sutta ten recognitions taught to a sick monk. practical and, unusually for this stage, comforting. meditation">
+<h2><a href="../suttas/an10-60-giriminanda-sutta/">Ten Recognitions for a Sick Monk</a></h2>
 <p class="sutta-card__reference">AN 10.60 · <span lang="pi">Girimānanda Sutta</span></p>
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,467 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>Ten perceptions taught to a sick monk. Practical and, unusually for this stage, comforting.</p>
+<p>Ten recognitions taught to a sick monk. Practical and, unusually for this stage, comforting.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="what makes a genuine renunciant? mn 39 mahā-assapura sutta what actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. ethics and practice fused. ethics and conduct · meditation">
 <h2><a href="../suttas/mn39-maha-assapura-sutta/">What Makes a Genuine Renunciant?</a></h2>

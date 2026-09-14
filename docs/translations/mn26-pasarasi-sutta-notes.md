@@ -122,7 +122,12 @@ All governing terms for MN 26 are covered by existing lexicon records:
 - `jhāna` → `mental theme` (major)
 - `pīti` → `rejoicing` (major)
 - `sukha` → `satisfaction` (major)
-- `saññā` → `recognition` (via heap and perception-family records)
+- `saññā` → `recognition` (via heap and perception-family records). The
+  formless-sphere triad `rūpasaññā`, `paṭighasaññā`, and `nānattasaññā` was
+  missed when that ruling was applied and still read `perceptions of form`,
+  `of resistance`, and `of diversity` until 2026-09-14. MN 64 carries the
+  same formula and had already been converted, so this surface now matches
+  it. The three compounds are ungoverned and inherit the `saññā` headword.
 - `āsava` → `outflow` (major)
 - `taṇhā` → `ignorant wanting` (major)
 - `nirodha` → `cessation` (major)

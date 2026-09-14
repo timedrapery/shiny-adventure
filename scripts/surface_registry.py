@@ -457,7 +457,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn18": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
     "mn19": "cbd316fc12b13ac6362a881d0c084300195e4abaf848d9ca1b1daa5e666fb012",
     "mn22": "c4d78501fbf276810b7f9e5bca28f2b8aed3c99895745c7410347555729ff43e",
-    "mn26": "839a76a0fe62caa29f03c7ee03a21ccbf0f2e5f245472183a2e8a5a1734921a2",
+    "mn26": "1c433fa5d86b732bbb19759dbe63adbbf17d90f23ace5d355e7617f1aca53665",
     "mn36": "129203276ab93a243ca7b50d19408330479c05c8c0915477127b1470889618a3",
     "mn38": "04cb1af6c20c7c80fd2ecc339386f6efbe427ed8c61c45e417e7c17478f0fe82",
     "mn39": "2d7ef3498aed55c1c45d2a39afd96ef1d63fa60427469ef7e706b13ba52701a3",
@@ -519,6 +519,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 READABILITY_REVIEWED_ON: dict[str, str] = {
     # Body re-touched for the saññā-compound ruling (perception -> recognition).
     "mn118": "2026-09-12",
+    "mn26": "2026-09-14",
     "an2_9": "2026-08-24",
     "an3_69": "2026-08-24",
     "an4_5": "2026-08-24",
@@ -905,9 +906,9 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "an10_60": ReaderMeta(
         "Girimānanda Sutta", 3, 10,
-        "Ten perceptions taught to a sick monk. Practical and, unusually for "
+        "Ten recognitions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
-        reader_title="Ten Perceptions for a Sick Monk",
+        reader_title="Ten Recognitions for a Sick Monk",
     ),
     "mn39": ReaderMeta(
         "Mahā-Assapura Sutta", 3, 11,

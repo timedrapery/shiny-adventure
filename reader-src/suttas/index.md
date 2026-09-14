@@ -73,7 +73,7 @@ All 66 translations, grouped by collection. If you would rather be guided, use [
 - [**Six Things Examined**](an6-63-nibbedhika-sutta.md) — AN 6.63 · Nibbedhika Sutta · about 12 min · 2,103 words · Set 5. One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction.
 - [**When Life Goes Up and Down**](an8-6-dutiyalokadhamma-sutta.md) — AN 8.6 · Dutiyalokadhamma Sutta · about 5 min · 824 words · Set 2. Gain and loss, praise and blame, pleasure and pain happen to everyone.
 - [**Eight Streams of Benefit**](an8-39-abhisanda-sutta.md) — AN 8.39 · Abhisanda Sutta · about 5 min · 734 words · Set 2. Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.
-- [**Ten Perceptions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,467 words · Set 3. Ten perceptions taught to a sick monk.
+- [**Ten Recognitions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,467 words · Set 3. Ten recognitions taught to a sick monk.
 - [**Think Like a Thoroughbred**](an11-9-saddha-sutta.md) — AN 11.9 · Saddha Sutta · about 7 min · 1,247 words · Set 2. A wild colt tied to its trough can think of nothing but "Fodder, fodder!"
 - [**Six Things to Remember Anywhere**](an11-12-dutiyamahanama-sutta.md) — AN 11.12 · Dutiyamahānāma Sutta · about 4 min · 547 words · Set 3. Mahānāma asks how to practice in ordinary life while the Buddha is away.
 

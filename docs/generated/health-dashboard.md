@@ -20,9 +20,9 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2204 |
-| Governed surfaces | 851 |
-| Ungoverned surfaces | 1353 |
+| Distinct surfaces | 2207 |
+| Governed surfaces | 853 |
+| Ungoverned surfaces | 1354 |
 | Coverage by surface | 38.6% |
 | Coverage by occurrence | 59.3% |
 
@@ -34,12 +34,12 @@ single row as a lead rather than a fact.
 
 | Route | Surfaces |
 | --- | --- |
-| `compound` | 65 |
+| `compound` | 67 |
 | `exact` | 390 |
 | `inflected` | 396 |
-| `none` | 1353 |
+| `none` | 1354 |
 
-### Ungoverned surfaces by frequency (1353 total)
+### Ungoverned surfaces by frequency (1354 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
