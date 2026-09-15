@@ -456,10 +456,10 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn11": "1b8811594f7e00ed3f54d8d1ffc9ecf3b9ff2c21dc92d0ecd41b0e2ab1dae761",
     "mn18": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
     "mn19": "cbd316fc12b13ac6362a881d0c084300195e4abaf848d9ca1b1daa5e666fb012",
-    "mn22": "c4d78501fbf276810b7f9e5bca28f2b8aed3c99895745c7410347555729ff43e",
+    "mn22": "001497f9056593526e111bb53fca6b642877aab2ab114551360804f71845912e",
     "mn26": "1c433fa5d86b732bbb19759dbe63adbbf17d90f23ace5d355e7617f1aca53665",
     "mn36": "129203276ab93a243ca7b50d19408330479c05c8c0915477127b1470889618a3",
-    "mn38": "04cb1af6c20c7c80fd2ecc339386f6efbe427ed8c61c45e417e7c17478f0fe82",
+    "mn38": "409ff137bbda1c276bbbd90a203ea845e9b9d29d9573c9dd1fecb2e6399744e2",
     "mn39": "2d7ef3498aed55c1c45d2a39afd96ef1d63fa60427469ef7e706b13ba52701a3",
     "mn43": "89e8048c79bb6800263f7b4640e5ff88f9c15a39238797cfa6e59674a2e1adc1",
     "mn44": "8ebf5a76faa284802e000f9ba46c2822aa15627f900c65a036e783c8bd266179",
@@ -544,7 +544,10 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "an8_39": "2026-09-13",
     "sn46_1": "2026-09-13",
     "ud8_3": "2026-09-13",
-    # Body re-touched for the `moghapurisa` address (foolish man -> stupid man).
+    # Bodies re-touched for the `moghapurisa` ruling (misguided/foolish man ->
+    # stupid man, and `misguided persons` -> `stupid persons` in MN 22).
+    "mn22": "2026-09-15",
+    "mn38": "2026-09-15",
     "mn63": "2026-09-15",
 }
 

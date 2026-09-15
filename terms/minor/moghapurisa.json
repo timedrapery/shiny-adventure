@@ -1,0 +1,73 @@
+{
+  "term": "moghapurisa",
+  "normalized_term": "moghapurisa",
+  "entry_type": "minor",
+  "part_of_speech": "compound",
+  "preferred_translation": "stupid man",
+  "definition": "The Buddha's direct rebuke of a bhikkhu who has misrepresented what he was taught: an empty man, one whose grasp of the teaching has no substance in it.",
+  "literal_meaning": "empty man, hollow man",
+  "notes": "Compound of mogha (empty, hollow, vain) and purisa (man). The rendering follows the Pali number and case rather than being fixed as one English phrase: the singular is `stupid man` (vocative `moghapurisa` in direct address, oblique `moghapurisassa` when the Buddha speaks of the man to others), and the nominative plural `moghapurisā` is `stupid persons`, because there the word describes a class rather than addressing one monk. Purisa is masculine, so the singular is `man` rather than `person` in every governed occurrence so far: each one addresses or describes a named bhikkhu (Ariṭṭha in MN 22, Sāti in MN 38, Mālukyaputta in MN 63). A future occurrence addressing a woman, or a singular used of a generic person, would take `stupid person` under the same rule. Do not soften the word: `misguided man` and `foolish man` read as an assessment of someone's direction or native wit, where the Pali is a reproach aimed at what the man has done with the teaching. The rebuke is directed at the wrong grasp the passages go on to describe, and it is always followed by the correction itself, so the register is blunt rather than dismissive.",
+  "alternative_translations": [
+    "stupid persons",
+    "stupid person"
+  ],
+  "discouraged_translations": [
+    "misguided man",
+    "foolish man",
+    "worthless man",
+    "silly man"
+  ],
+  "context_rules": [
+    {
+      "context": "Vocative singular `moghapurisa`, the Buddha addressing one bhikkhu directly",
+      "rendering": "stupid man",
+      "notes": "MN 22:6.1, MN 38:5.12, and MN 63:4.17 all address a named bhikkhu. Keep the epithet where the Pali has it rather than substituting the monk's name."
+    },
+    {
+      "context": "Oblique singular such as the genitive `moghapurisassa`, the Buddha describing the man to the assembly",
+      "rendering": "stupid man",
+      "notes": "MN 22:8.15 and MN 38:7.9. The case changes, the rendering does not."
+    },
+    {
+      "context": "Nominative plural `moghapurisā`, describing a class rather than addressing anyone",
+      "rendering": "stupid persons",
+      "notes": "MN 22:10.1 and MN 22:10.17, the wrong-grasp simile of the water snake. The plural is generic, so `persons` carries it in English where the masculine plural carries it in Pali."
+    }
+  ],
+  "example_phrases": [
+    {
+      "pali": "Kassa kho nāma tvaṁ, moghapurisa, mayā evaṁ dhammaṁ desitaṁ ājānāsi",
+      "translation": "Stupid man, who on earth have you ever known me to teach in that way",
+      "notes": "Vocative singular, addressed to the bhikkhu Ariṭṭha. The same line opens the rebuke to Sāti at MN 38:5.12.",
+      "source": "MN 22"
+    },
+    {
+      "pali": "Idha, bhikkhave, ekacce moghapurisā dhammaṁ pariyāpuṇanti",
+      "translation": "Here, some stupid persons learn the teaching",
+      "notes": "Nominative plural, describing a class of monks rather than addressing one. This is the occurrence that takes `persons` rather than `man`.",
+      "source": "MN 22"
+    },
+    {
+      "pali": "Evaṁ sante, moghapurisa, ko santo kaṁ paccācikkhasi",
+      "translation": "That being so, stupid man, who are you, and what promise are you accusing of being broken",
+      "notes": "Vocative singular, addressed to Mālukyaputta.",
+      "source": "MN 63"
+    }
+  ],
+  "sutta_references": [
+    "MN 22",
+    "MN 38",
+    "MN 63"
+  ],
+  "translation_policy": {
+    "default_scope": "Every occurrence of the compound, with the English number following the Pali: `stupid man` for the singular, `stupid persons` for the plural.",
+    "when_not_to_apply": "Do not replace the epithet with the monk's name or drop it where the Pali repeats it, and do not carry `stupid` over to bāla, mūḷha, or duppañña, which are separate words with their own renderings (DN 2 and SN 22.86 already govern bāla as `foolish`).",
+    "compound_inheritance": "case-by-case",
+    "drift_risk": "Prevents the rebuke from being softened surface by surface into `misguided man` or `foolish man`, which is how three surfaces came to hold three different renderings of one word."
+  },
+  "tags": [
+    "register",
+    "translation-sensitive"
+  ],
+  "status": "reviewed"
+}

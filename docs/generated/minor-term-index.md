@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 918
+- Entries: 919
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -532,6 +532,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [mn148-painful-feeling-untrained-response](../../terms/minor/mn148-painful-feeling-untrained-response.json) | dukkhāya vedanāya phuṭṭho samāno socati kilamati paridevati uraṁtadati sammohaṁ āpajjati | when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings | reviewed | core-practice, sense-fields, translation-sensitive |
 | [mn148-pleasant-feeling-trained-response](../../terms/minor/mn148-pleasant-feeling-trained-response.json) | sukhāya vedanāya phuṭṭho samāno na abhinandati na abhivadati na ajjhosāya tiṭṭhati | when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally | reviewed | core-practice, sense-fields, translation-sensitive |
 | [moggallana](../../terms/minor/moggallana.json) | Moggallāna | Moggallāna | reviewed | persons |
+| [moghapurisa](../../terms/minor/moghapurisa.json) | moghapurisa | stupid man | reviewed | register, translation-sensitive |
 | [moha-mula](../../terms/minor/moha-mula.json) | mohamūla | rooted in delusion | reviewed | ethics, mental-qualities, causality |
 | [mohagati](../../terms/minor/mohagati.json) | mohagati | bias through confusion | reviewed | ethics |
 | [mudita-cetovimutti](../../terms/minor/mudita-cetovimutti.json) | muditācetovimutti | liberation of mind through gladness | reviewed | liberation, meditative-development |
