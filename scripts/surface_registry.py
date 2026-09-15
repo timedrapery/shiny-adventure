@@ -464,7 +464,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "mn43": "89e8048c79bb6800263f7b4640e5ff88f9c15a39238797cfa6e59674a2e1adc1",
     "mn44": "8ebf5a76faa284802e000f9ba46c2822aa15627f900c65a036e783c8bd266179",
     "mn61": "6224dad79a4f97b99992407ea1f63f333370bf81f986706de44f243395a4ff25",
-    "mn63": "24d4fdba2728415fb92c273deb97d17e189841c8a0927516a4b2a62d712bf946",
+    "mn63": "1aa74f3d663102fd7e8c9415cef0027ceca4b40b8c460a837066446cbe12a971",
     "mn64": "fe75862e43caf1286ae35d43b7d399562687006f3b164046abd010bdbf5deb65",
     "mn99": "fe958da081881326fbc5f0e379908c48a1c68500b01feb379b34510a966f2d5c",
     "mn117": "e5d69b1863169ccc9a9f3fb503b413294aa84aa0951eca6c5a571dcb34261b60",
@@ -544,6 +544,8 @@ READABILITY_REVIEWED_ON: dict[str, str] = {
     "an8_39": "2026-09-13",
     "sn46_1": "2026-09-13",
     "ud8_3": "2026-09-13",
+    # Body re-touched for the `moghapurisa` address (foolish man -> stupid man).
+    "mn63": "2026-09-15",
 }
 
 # Surfaces that have cleared all three human evidence gates. A surface is
