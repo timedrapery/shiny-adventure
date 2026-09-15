@@ -110,6 +110,20 @@ source-audit calls, and edition notes that govern it.
   existing being, because even now the Tathāgata is not traceable as a fixed
   entity. This passage directly supports the not-self teaching that precedes
   it.
+- `moghapurisa` is rendered `stupid man` in the singular and `stupid persons`
+  in the plural, as governed by
+  [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json). This
+  surface previously read `misguided man` and `misguided persons`. The number
+  follows the Pali. The singular occurrences in the rebuke to Ariṭṭha are the
+  vocative at mn22:6.1, 6.2, 6.14, 6.15, and 7.8 and the genitive `tassa
+  moghapurisassa` at mn22:8.15; the four this translation carries into English
+  read `stupid man`. The water-snake simile's nominative plural `moghapurisā`
+  (mn22:10.1 and 10.17) reads `stupid persons`, since there the word describes
+  a class rather than addressing one bhikkhu. Two singular occurrences are not
+  carried: mn22:6.15 reads "That will be for your long-lasting harm and
+  suffering" without the epithet, and at mn22:8.15 the translation names
+  Ariṭṭha instead. Restoring those two would be a separate decision about how
+  closely to track the Pali's repetition, not a question about the gloss.
 
 ## Existing Control Records Reused
 

@@ -147,11 +147,13 @@
     "mn63": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/mn63-culamalukya-sutta-notes.md",
-        "body_sha256": "24d4fdba2728415fb92c273deb97d17e189841c8a0927516a4b2a62d712bf946",
-        "bound_by": "git: last body change 2026-08-22, before the 2026-08-24 sign-off"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/mn63-culamalukya-sutta-notes.md",
+          "body_sha256": "24d4fdba2728415fb92c273deb97d17e189841c8a0927516a4b2a62d712bf946",
+          "note": "Signed off on 2026-08-24 against the body published then. On 2026-09-15 the Buddha's direct address in `Not Promised, Not Agreed` was re-rendered from `foolish man` to `stupid man` (moghapurisa), so the sign-off no longer covers the published text. Reassess that passage against the source."
+        }
       },
       "human_read_aloud": {
         "status": "pending",

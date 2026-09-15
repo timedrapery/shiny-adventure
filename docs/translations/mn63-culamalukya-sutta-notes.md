@@ -78,6 +78,15 @@ source-audit calls, and edition notes that govern it.
   `docs/PLAIN_ENGLISH_STANDARD.md` rules out the devotional register. The
   decision now lives in the lexicon rather than in this notes file, which is
   what allowed it to drift in the first place.
+- `moghapurisa` is rendered `stupid man` in the Buddha's direct address to
+  Mālukyaputta ("That being so, stupid man, who are you..."), as governed by
+  [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json). The
+  Pali literally means "empty/hollow man," and the line is a pointed rebuke
+  rather than a technical term, so the rendering carries the force of the
+  reproach in plain contemporary English. This surface previously read
+  `foolish man`. The single occurrence here (mn63:4.17) is the vocative
+  singular, which takes `stupid man`; the record's plural rendering, `stupid
+  persons`, does not arise in this discourse.
 
 ## Re-audit Calls
 

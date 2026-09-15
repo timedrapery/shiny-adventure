@@ -97,7 +97,7 @@ eternal...' and so on through all ten points?"
 
 "No, Bhante."
 
-"That being so, foolish man, who are you, and what promise are you accusing of
+"That being so, stupid man, who are you, and what promise are you accusing of
 being broken?
 
 Mālukyaputta, if anyone were to say, 'I will not live the spiritual life under

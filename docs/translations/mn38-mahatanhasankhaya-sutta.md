@@ -95,11 +95,11 @@ very knowing that roams and transmigrates, not another."
 "Bhante, this same consciousness speaks and knows. It experiences the results
 of wholesome and unwholesome actions here and there."
 
-"Misguided man, who on earth have you ever known me to teach in that way?
-Misguided man, have I not said in many ways that knowing is dependently arisen?
-Without a condition there is no arising of knowing. But you, misguided man, by
-your wrong grasp, misrepresent me, harm yourself, and accumulate much
-demerit. That will be for your long-lasting harm and suffering."
+"Stupid man, who on earth have you ever known me to teach in that way? Stupid
+man, have I not said in many ways that knowing is dependently arisen? Without a
+condition there is no arising of knowing. But you, stupid man, by your wrong
+grasp, misrepresent me, harm yourself, and accumulate much demerit. That will
+be for your long-lasting harm and suffering."
 
 Then the Buddha said to the bhikkhus: "What do you think, bhikkhus? Has
 this bhikkhu Sāti kindled even a spark of warmth in this teaching and
@@ -110,8 +110,8 @@ training?"
 When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
-Knowing this, the Buddha said to him: "Misguided man, you will be known
-by your own pernicious view. I shall now question the bhikkhus about this."
+Knowing this, the Buddha said to him: "Stupid man, you will be known by your
+own pernicious view. I shall now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 

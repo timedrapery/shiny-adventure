@@ -136,7 +136,7 @@ eternal...' and so on through all ten points?"
 
 "No, Bhante."
 
-"That being so, foolish man, who are you, and what promise are you accusing of
+"That being so, stupid man, who are you, and what promise are you accusing of
 being broken?
 
 Mālukyaputta, if anyone were to say, 'I will not live the spiritual life under
@@ -293,7 +293,7 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn63/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn63-culamalukya-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `24d4fdba`
+- **Last editorial review:** 2026-09-15 · body version `1aa74f3d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2063) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
