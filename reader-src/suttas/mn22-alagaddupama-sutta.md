@@ -80,16 +80,16 @@ qualities named by the Buddha do not obstruct anyone who engages in them'?"
 
 "It is exactly so, Bhante."
 
-"Misguided man, who on earth have you ever known me to teach in that way?
-Misguided man, have I not said in many ways that obstructing qualities obstruct
-and do obstruct anyone who engages in them? I have said that sensual pleasures
-offer little gratification and much suffering and distress, and the danger in
-them is even greater — comparing them to a skeleton of bones; a scrap of meat;
-a grass torch held against the wind; a pit of glowing coals; a dream; borrowed
-goods; fruit on a tree; a butcher's knife and chopping board; swords and
-spears; and a snake's head. But you, misguided man, by your wrong grasp,
-misrepresent me, harm yourself, and accumulate much demerit. That will be for
-your long-lasting harm and suffering."
+"Stupid man, who on earth have you ever known me to teach in that way? Stupid
+man, have I not said in many ways that obstructing qualities obstruct and do
+obstruct anyone who engages in them? I have said that sensual pleasures offer
+little gratification and much suffering and distress, and the danger in them is
+even greater — comparing them to a skeleton of bones; a scrap of meat; a grass
+torch held against the wind; a pit of glowing coals; a dream; borrowed goods;
+fruit on a tree; a butcher's knife and chopping board; swords and spears; and a
+snake's head. But you, stupid man, by your wrong grasp, misrepresent me, harm
+yourself, and accumulate much demerit. That will be for your long-lasting harm
+and suffering."
 
 Then the Buddha said to the bhikkhus: "What do you think, bhikkhus? Has
 this bhikkhu Ariṭṭha kindled even a spark of warmth in this teaching and
@@ -100,8 +100,8 @@ training?"
 When this was said, the bhikkhu Ariṭṭha sat silent, abashed, shoulders
 drooping, downcast, dejected, unable to respond.
 
-Knowing this, the Buddha said: "Misguided man, you will be known by your
-own pernicious view. I shall now question the bhikkhus about this."
+Knowing this, the Buddha said: "Stupid man, you will be known by your own
+pernicious view. I shall now question the bhikkhus about this."
 
 Then the Buddha said to the bhikkhus: "Do you understand my teaching as
 the bhikkhu Ariṭṭha does, when he misrepresents me by his wrong grasp, harms
@@ -131,8 +131,8 @@ sensual desire, sensual recognition, and sensual thinking.
 
 ### Wrong Grasp and Right Grasp
 
-Here, some misguided persons learn the teaching — suttas, mixed texts,
-analyses, verses, inspired utterances, 'thus it was said' texts, birth stories,
+Here, some stupid persons learn the teaching — suttas, mixed texts, analyses,
+verses, inspired utterances, 'thus it was said' texts, birth stories,
 remarkable accounts, and question-and-answer texts. Once they have learned it,
 they do not examine the meaning of those teachings with discernment. Because
 they do not examine the meaning with discernment, they do not arrive at a
@@ -146,9 +146,9 @@ a large cobra and grasp it by the coil or the tail. That cobra twists back and
 bites them on the hand, the arm, or some other limb, resulting in death or
 death-level pain. Why is that? Because of wrong grasp of the cobra.
 
-In the same way, those misguided persons learn the teaching — suttas, mixed
-texts, analyses, and the rest. Once they have learned it, they do not examine
-the meaning with discernment and do not arrive at a considered acceptance. They
+In the same way, those stupid persons learn the teaching — suttas, mixed texts,
+analyses, and the rest. Once they have learned it, they do not examine the
+meaning with discernment and do not arrive at a considered acceptance. They
 learn for the sake of finding fault and winning arguments. Those teachings,
 being wrongly grasped, lead to their long-lasting harm and suffering. Why is
 that? Because of wrong grasp.
@@ -603,7 +603,7 @@ The second discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn22/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn22-alagaddupama-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `c4d78501`
+- **Last editorial review:** 2026-09-15 · body version `001497f9`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2022) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

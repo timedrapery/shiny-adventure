@@ -92,11 +92,11 @@ very knowing that roams and transmigrates, not another."
 "Bhante, this same consciousness speaks and knows. It experiences the results
 of wholesome and unwholesome actions here and there."
 
-"Misguided man, who on earth have you ever known me to teach in that way?
-Misguided man, have I not said in many ways that knowing is dependently arisen?
-Without a condition there is no arising of knowing. But you, misguided man, by
-your wrong grasp, misrepresent me, harm yourself, and accumulate much
-demerit. That will be for your long-lasting harm and suffering."
+"Stupid man, who on earth have you ever known me to teach in that way? Stupid
+man, have I not said in many ways that knowing is dependently arisen? Without a
+condition there is no arising of knowing. But you, stupid man, by your wrong
+grasp, misrepresent me, harm yourself, and accumulate much demerit. That will
+be for your long-lasting harm and suffering."
 
 Then the Buddha said to the bhikkhus: "What do you think, bhikkhus? Has
 this bhikkhu Sāti kindled even a spark of warmth in this teaching and
@@ -107,8 +107,8 @@ training?"
 When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
-Knowing this, the Buddha said to him: "Misguided man, you will be known
-by your own pernicious view. I shall now question the bhikkhus about this."
+Knowing this, the Buddha said to him: "Stupid man, you will be known by your
+own pernicious view. I shall now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 
@@ -889,7 +889,7 @@ The eighth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn38/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-24 · body version `04cb1af6`
+- **Last editorial review:** 2026-09-15 · body version `409ff137`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

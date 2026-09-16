@@ -79,10 +79,15 @@ choices, source-audit calls, and edition notes that govern it.
   intention). As the third nutriment it names the volitional activity of mind
   — deliberate intention — that sustains becoming alongside physical food,
   contact, and knowing.
-- `moghapurisa` is rendered `misguided man`. The Pali literally means
-  "empty/hollow man" — one whose mind is without substance or right
-  understanding. `Misguided man` captures the reproach without sounding
-  archaic.
+- `moghapurisa` is rendered `stupid man`, as governed by
+  [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json). The
+  Pali literally means "empty/hollow man" — one whose mind is without
+  substance or right understanding. This surface previously read `misguided
+  man` on the grounds that it carried the reproach without sounding archaic;
+  the governed record rejects that reading, because "misguided" assesses the
+  direction a man has taken rather than delivering the rebuke the Pali
+  delivers. Every occurrence here is the vocative singular addressed to Sāti,
+  so all four take the singular `stupid man`.
 - The fire simile for conditioned knowing (mn38:8) connects directly to SN
   35.28. In SN 35.28, the six sense fields are burning with the three fires
   of passion, aversion, and delusion. In MN 38, fire is used as the simile
@@ -141,9 +146,14 @@ All governing terms for MN 38 are covered by existing lexicon records:
   established conventional English equivalents used throughout the repository's
   other surfaces. Future revisions should create minor entries if the distraction
   cluster develops a full governed record.
-- `moghapurisa` = "misguided man" is a local rendering with no lexicon entry.
-  The Buddha uses it twice in direct address to Sāti (mn38:5.12 and mn38:6.8),
-  making it a pointed rebuke rather than a technical term.
+- Resolved: `moghapurisa` is no longer a local rendering. It now has a minor
+  entry, [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json),
+  which governs MN 22, MN 38, and MN 63 together and renders the word `stupid
+  man` in the singular. The count recorded here was also wrong: the Buddha
+  uses the vocative four times in direct address to Sāti (mn38:5.12, 5.13,
+  5.14, and 6.8), not twice, and speaks of him once more in the genitive
+  (`tassa moghapurisassa`, mn38:7.9), where this translation names Sāti
+  instead of carrying the epithet.
 - The `imasmiṁ sati idaṁ hoti / imassuppādā idaṁ uppajjati` formula (mn38:19.3)
   is rendered "When this exists, this comes to be; from the arising of this,
   this arises." Similarly, `imasmiṁ asati idaṁ na hoti / imassa nirodhā idaṁ
