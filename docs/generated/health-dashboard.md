@@ -20,9 +20,9 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2207 |
-| Governed surfaces | 853 |
-| Ungoverned surfaces | 1354 |
+| Distinct surfaces | 2212 |
+| Governed surfaces | 854 |
+| Ungoverned surfaces | 1358 |
 | Coverage by surface | 38.6% |
 | Coverage by occurrence | 59.3% |
 
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 67 |
-| `exact` | 390 |
+| `exact` | 391 |
 | `inflected` | 396 |
-| `none` | 1354 |
+| `none` | 1358 |
 
-### Ungoverned surfaces by frequency (1354 total)
+### Ungoverned surfaces by frequency (1358 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -83,7 +83,7 @@ That was measured and abandoned — see the note in
 | Measure | Value |
 | --- | --- |
 | Documents declaring renderings | 105 |
-| Declared renderings | 796 |
+| Declared renderings | 798 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |
@@ -169,7 +169,7 @@ state is visible rather than inferred from silence.
 | Measure | Value |
 | --- | --- |
 | Surfaces in the cohort | 12 |
-| Source fidelity signed off | 5 |
+| Source fidelity signed off | 4 |
 | Human read-aloud complete | 0 |
 | Newcomer reviews recorded | 0 |
 | Newcomer reviews counting for the current body | 0 |
