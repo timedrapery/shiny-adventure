@@ -42,6 +42,13 @@ exactly what it says — nobody has read these texts under the protocol yet.
 Use the [printable pilot session sheet](pilot-session-sheet.md) and the
 [facilitator guide](facilitator-guide.md), which explains how to run a session
 through the reader feedback system and stage its export into this ledger.
+
+The read-aloud column is a separate gate and does not wait on recruitment. It
+needs one reviewer and a voice, and all three pilot texts together are about
+twenty minutes of reading. Generate a kit with
+`python scripts/read_aloud_kit.py --surface sn36_6` and follow
+[Read-aloud review](../docs/newcomer-review-protocol.md#read-aloud-review).
+Of the three gates this is the one that can move today.
 Evaluate this pilot before recruiting for the remaining nine texts; all three
 pilot texts already carry the reader feedback controls on the public site.
 

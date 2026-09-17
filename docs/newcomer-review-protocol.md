@@ -33,7 +33,9 @@ email addresses, demographic data, or private contact details in the repo.
    problem; the governed ledger deliberately stores only comprehension
    evidence.
 7. Separately, have a reviewer read the complete translation aloud and record
-   any sentence that is hard to speak or understand on first hearing.
+   any sentence that is hard to speak or understand on first hearing. That is
+   its own gate with its own procedure; see [Read-aloud review](#read-aloud-review).
+   It does not depend on this session and should not wait for one.
 
 A comprehension pass means both paraphrases are materially accurate and were
 given without prompting. Small vocabulary differences are not failures.
@@ -102,10 +104,73 @@ left standing. It moves to a `superseded_signoff` block — original date,
 evidence file, and the reason it does not carry forward — and the gate returns
 to `pending`.
 
-For a read-aloud review, add an anonymous reviewer label and dated observation
-under `human_read_aloud.reviewers`, record the `body_sha256` that was read
-aloud, then set that gate to `complete` only when the full text has been read
-aloud.
+## Read-aloud review
+
+This gate is separate from the newcomer sessions and much cheaper to run. It
+needs one reviewer and a voice, not five recruited strangers, and the whole
+three-text pilot is about twenty minutes of reading. Nothing about it waits on
+recruitment, so it should not be queued behind it.
+
+Generate the session kit first:
+
+```bash
+python scripts/read_aloud_kit.py --surface sn36_6
+```
+
+The kit carries the current `body_sha256`, computed rather than copied, and the
+translation split into numbered sentences. Add `--facilitator` for the measured
+watch points from the spoken register profile, and withhold that section until
+after the read: a reviewer who has been told where the awkward sentences are is
+no longer giving a first hearing.
+
+Run it like this:
+
+1. Read the whole translation aloud at a speaking pace, to the end. Silent
+   review does not satisfy this gate, and a section skipped is a section
+   unreviewed.
+2. Do not stop to fix anything. Mark the sentence number and carry on.
+3. Mark a sentence when you have to restart it, run out of breath, breathe
+   where the punctuation offered nowhere to, say a word you would not say out
+   loud, or finish unsure of who was speaking.
+4. A listener is optional and useful. What they could not follow on first
+   hearing is the thing silent review cannot reach; record it separately.
+
+### What to record
+
+Record the location, not a verdict. A gate that stores one boolean per surface
+throws away the only part that tells an editor what to change.
+
+```json
+{
+  "status": "complete",
+  "body_sha256": "the hash of the body that was read aloud",
+  "reviewers": [
+    {
+      "label": "A1",
+      "reviewed_on": "2026-09-17",
+      "read_complete": true,
+      "observations": [
+        {
+          "sentence": 14,
+          "line": 62,
+          "problem": "What caught, in the reviewer's words."
+        }
+      ]
+    }
+  ]
+}
+```
+
+Sentence numbers come from the kit and are stable for as long as the body is.
+If the body changes the hash changes with it, so a number can never quietly
+come to point at different words.
+
+An empty `observations` list is a real result. A reviewer who read the whole
+text and stumbled nowhere has told you something; an invented stumble has not.
+
+`read_complete: false` with the observations gathered so far is the honest
+record of a session that stopped early. Leave `status` at `pending` in that
+case: a partial read is worth keeping and is not the gate.
 
 Run `python scripts/check_newcomer_reviews.py`. The check rejects duplicate
 participants, incomplete evidence, evidence without the body it was gathered
