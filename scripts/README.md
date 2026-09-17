@@ -108,6 +108,7 @@ generating script first.
   before treating a failure as a wrong citation.
 - `python scripts/plain_english_audit.py`
   Reports plain-English readability signals in canonical translation surfaces, with guidance per signal. Generated reader copies are not double-counted. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
+  Add `--spoken` for the spoken register profile: dialogue contraction rate, vocative position, sentences over forty-five words, and repeated units ranked by how much weight they carry within and across surfaces. That section is distributional rather than per-line, and `--strict` never gates on it.
 - `python scripts/voice_consistency_audit.py`
   Reports mixed note templates, fragmentary example-note phrasing, and other voice-pattern drift in the live repo surface.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`

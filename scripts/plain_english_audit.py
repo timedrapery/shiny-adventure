@@ -12,6 +12,25 @@ The standard it checks against is `docs/PLAIN_ENGLISH_STANDARD.md`.
 Scope is the translated text only. Editorial Note blocks, reader "About this
 text" introductions, notes files, and fenced code are apparatus rather than
 translation, and are skipped.
+
+The script reports two different kinds of thing.
+
+`findings` are point signals: a specific span on a specific line that reads as
+translationese. They are what `--strict` gates on.
+
+The `spoken register profile` is distributional. It does not claim any line is
+wrong; it measures four properties of the running English that only matter when
+the text is said out loud, and that no per-line regex can see:
+
+- how often dialogue leaves a negation uncontracted where a speaker would
+  contract it
+- where vocatives sit in the sentence
+- the longest stretch a reader must get through on one breath
+- which repeated units carry the most weight, so the unit that a reader hears
+  twenty times gets edited first
+
+These are read-aloud pressures, reported so a reviewer can aim a read-aloud
+pass. See `docs/PLAIN_ENGLISH_STANDARD.md`, the read-aloud test and rule 4.
 """
 
 from __future__ import annotations
@@ -242,6 +261,298 @@ def strip_apparatus(text: str) -> str:
     return "\n".join(out)
 
 
+# ---------------------------------------------------------------------------
+# Spoken register profile
+#
+# Everything below measures the running English as speech rather than as text.
+# It is deliberately kept out of `findings`: these are distributional pressures
+# with legitimate exceptions on any given line, so gating on them would be
+# exactly the crude gate this script's docstring warns against.
+# ---------------------------------------------------------------------------
+
+# Negations an English speaker normally contracts when talking. Emphatic and
+# formal negation is real ("I do not say that a person is reborn"), so this is
+# reported as a rate rather than as a per-line error.
+CONTRACTIBLE_NEGATION = re.compile(
+    r"\b(?:do|does|did|is|are|was|were|will|would|should|could|have|has|had)\s+not\b"
+    r"|\bcannot\b",
+    re.IGNORECASE,
+)
+
+SPOKEN_CONTRACTION = re.compile(r"\b\w+n't\b", re.IGNORECASE)
+
+# The corpus's forms of address. Restricted to the governed address terms
+# rather than any capitalised name, because a comma-flanked name is far more
+# often an ordinary appositive than a vocative.
+VOCATIVES = (
+    "bhikkhus",
+    "bhikkhu",
+    "bhante",
+    "ayye",
+    "friends",
+    "friend",
+)
+_VOC = r"(?:%s)" % "|".join(VOCATIVES)
+
+# A vocative opening the sentence or the quoted speech: `"Bhikkhus, ...`.
+VOCATIVE_INITIAL = re.compile(
+    rf'(?:^|(?<=[.?!])\s|(?<=")|(?<=“))\s*{_VOC},', re.IGNORECASE | re.MULTILINE
+)
+# A vocative closing the sentence: `..., bhikkhus.`
+VOCATIVE_FINAL = re.compile(rf',\s*{_VOC}\s*(?=[.?!]|"|”|$)', re.IGNORECASE | re.MULTILINE)
+# A vocative wedged inside the clause: `And what, bhikkhus, is right view?`
+VOCATIVE_MEDIAL = re.compile(rf'\w\s*,\s*{_VOC}\s*,\s*\w', re.IGNORECASE)
+
+# A reader has to get from one full stop to the next without a landing point.
+# 45 words is roughly twice the corpus median sentence and well past what most
+# people can deliver on one breath.
+BREATH_LIMIT = 45
+
+# A repeated unit shorter than this is a refrain, not a sentence under strain.
+REPEAT_MIN_WORDS = 6
+REPEAT_MIN_COUNT = 3
+
+
+LIST_ITEM = re.compile(r"^\s*(?:[-*+]|\d+\.)\s+")
+
+
+def split_paragraphs(body: str) -> list[tuple[int, str]]:
+    """Split stripped body text into (start line number, paragraph) pairs.
+
+    Surfaces are hard-wrapped, so a paragraph is a run of non-blank lines. The
+    line number is carried so a reported paragraph can be found in the file.
+
+    A list item starts its own block even without a blank line before it. A
+    reader delivers a bulleted list one item at a time, so gluing the items
+    together would invent breath spans that nobody has to say in one go -- the
+    enumerated lists in DN 2 and MN 118 are the corpus's longest by far, and
+    every one of them is read item by item.
+    """
+    paragraphs: list[tuple[int, str]] = []
+    current: list[str] = []
+    start = 0
+
+    def flush() -> None:
+        nonlocal current
+        if current:
+            paragraphs.append((start, " ".join(current)))
+            current = []
+
+    for index, line in enumerate(body.splitlines(), start=1):
+        if not line.strip():
+            flush()
+            continue
+        if LIST_ITEM.match(line):
+            flush()
+            start = index
+            current.append(LIST_ITEM.sub("", line.strip()))
+            continue
+        if not current:
+            start = index
+        current.append(line.strip())
+    flush()
+    return paragraphs
+
+
+def iter_speech_paragraphs(body: str) -> list[tuple[int, str]]:
+    """Return the paragraphs that are somebody speaking.
+
+    The corpus convention is that a speech opens with a double quote and runs
+    across paragraphs until a paragraph ends on the closing quote; continuation
+    paragraphs are not re-opened. A paragraph-local test would therefore miss
+    most of the dialogue, so this tracks the open speech across the surface.
+
+    It is deliberately conservative: unbalanced quotes close the block rather
+    than swallowing the rest of the file.
+    """
+    speech: list[tuple[int, str]] = []
+    inside = False
+    for line_number, paragraph in split_paragraphs(body):
+        opens = paragraph.startswith('"') or paragraph.startswith("“")
+        if opens:
+            inside = True
+        if inside:
+            speech.append((line_number, paragraph))
+        if inside and re.search(r'["”][.,!?]?\s*$', paragraph):
+            inside = False
+    return speech
+
+
+def split_sentences(paragraph: str) -> list[str]:
+    """Split a paragraph into sentences on terminal punctuation.
+
+    Splitting is paragraph-local on purpose. Joining paragraphs first makes a
+    question-and-answer exchange look like one enormous sentence, which is an
+    artifact of the measurement rather than a property of the text.
+    """
+    parts = re.split(r"(?<=[.?!])[\"”\']*\s+", paragraph)
+    return [part.strip() for part in parts if part.strip()]
+
+
+def normalize_unit(sentence: str) -> str:
+    """Reduce a sentence to a comparison key for repeat counting."""
+    lowered = sentence.casefold()
+    lowered = re.sub(r"[\"“”\'‘’]", "", lowered)
+    lowered = re.sub(r"[^\w\s]", " ", lowered)
+    return re.sub(r"\s+", " ", lowered).strip()
+
+
+def word_count(text: str) -> int:
+    return len(text.split())
+
+
+def profile_text(text: str, relative_path: str) -> dict[str, object]:
+    """Measure the read-aloud properties of one surface."""
+    body = strip_apparatus(text)
+    paragraphs = split_paragraphs(body)
+    speech = iter_speech_paragraphs(body)
+    speech_text = " ".join(paragraph for _, paragraph in speech)
+
+    contractible = len(CONTRACTIBLE_NEGATION.findall(speech_text))
+    contracted = len(SPOKEN_CONTRACTION.findall(speech_text))
+
+    vocatives = {
+        "initial": len(VOCATIVE_INITIAL.findall(speech_text)),
+        "medial": len(VOCATIVE_MEDIAL.findall(speech_text)),
+        "final": len(VOCATIVE_FINAL.findall(speech_text)),
+    }
+
+    long_units: list[dict[str, object]] = []
+    sentence_lengths: list[int] = []
+    for line_number, paragraph in paragraphs:
+        for sentence in split_sentences(paragraph):
+            length = word_count(sentence)
+            sentence_lengths.append(length)
+            if length > BREATH_LIMIT:
+                long_units.append(
+                    {
+                        "line": line_number,
+                        "words": length,
+                        "opening": " ".join(sentence.split()[:12]),
+                    }
+                )
+    long_units.sort(key=lambda unit: int(unit["words"]), reverse=True)
+
+    repeats: Counter[str] = Counter()
+    examples: dict[str, str] = {}
+    for _, paragraph in paragraphs:
+        for sentence in split_sentences(paragraph):
+            key = normalize_unit(sentence)
+            if word_count(key) < REPEAT_MIN_WORDS:
+                continue
+            repeats[key] += 1
+            examples.setdefault(key, sentence)
+
+    repeated_units = [
+        {
+            "occurrences": count,
+            "words": word_count(key),
+            # What it costs a reader to leave this unit unpolished: every
+            # repeat after the first is a re-hearing of the same sentence.
+            "weight": word_count(key) * (count - 1),
+            "text": examples[key],
+        }
+        for key, count in repeats.items()
+        if count >= REPEAT_MIN_COUNT
+    ]
+    repeated_units.sort(key=lambda unit: int(unit["weight"]), reverse=True)
+
+    return {
+        "path": relative_path,
+        "words": sum(sentence_lengths),
+        "speech_words": word_count(speech_text),
+        "dialogue": {
+            "contractible_negations": contractible,
+            "contractions": contracted,
+        },
+        "vocatives": vocatives,
+        "longest_unit": int(long_units[0]["words"]) if long_units else 0,
+        "over_breath_limit": len(long_units),
+        "long_units": long_units[:5],
+        "repeated_units": repeated_units[:5],
+        # Every unit, not just the locally repeated ones: a formula said once
+        # per sutta across eight suttas repeats for the reader even though no
+        # single surface repeats it. Underscored because this is the whole
+        # corpus keyed twice over -- it feeds aggregate_profiles and is dropped
+        # before the report is returned, so it never reaches --format json.
+        "_unit_counts": dict(repeats),
+        "_unit_examples": examples,
+    }
+
+
+def aggregate_profiles(profiles: list[dict[str, object]]) -> dict[str, object]:
+    """Roll per-surface profiles up into corpus-level pressures."""
+    words = sum(int(p["words"]) for p in profiles)
+    speech_words = sum(int(p["speech_words"]) for p in profiles)
+    contractible = sum(int(p["dialogue"]["contractible_negations"]) for p in profiles)
+    contracted = sum(int(p["dialogue"]["contractions"]) for p in profiles)
+    vocatives = {
+        position: sum(int(p["vocatives"][position]) for p in profiles)
+        for position in ("initial", "medial", "final")
+    }
+    vocative_total = sum(vocatives.values())
+
+    long_units = [
+        dict(unit, path=p["path"]) for p in profiles for unit in p["long_units"]
+    ]
+    long_units.sort(key=lambda unit: int(unit["words"]), reverse=True)
+
+    repeated_units = [
+        dict(unit, path=p["path"]) for p in profiles for unit in p["repeated_units"]
+    ]
+    repeated_units.sort(key=lambda unit: int(unit["weight"]), reverse=True)
+
+    # A unit that appears across several surfaces is the highest-leverage thing
+    # in the corpus to get right: one edit improves every text that carries it,
+    # and one awkward phrasing is heard in all of them.
+    corpus_counts: Counter[str] = Counter()
+    corpus_surfaces: dict[str, set[str]] = {}
+    corpus_examples: dict[str, str] = {}
+    for profile in profiles:
+        for key, count in profile["_unit_counts"].items():
+            corpus_counts[key] += count
+            corpus_surfaces.setdefault(key, set()).add(str(profile["path"]))
+            corpus_examples.setdefault(key, profile["_unit_examples"][key])
+
+    shared_units = [
+        {
+            "surfaces": len(corpus_surfaces[key]),
+            "occurrences": count,
+            "words": word_count(key),
+            "weight": word_count(key) * (count - 1),
+            "text": corpus_examples[key],
+        }
+        for key, count in corpus_counts.items()
+        if len(corpus_surfaces[key]) >= 2 and count >= REPEAT_MIN_COUNT
+    ]
+    shared_units.sort(key=lambda unit: int(unit["weight"]), reverse=True)
+
+    return {
+        "words": words,
+        "speech_words": speech_words,
+        "dialogue": {
+            "contractible_negations": contractible,
+            "contractions": contracted,
+            "contraction_rate": (
+                round(contracted / (contracted + contractible), 3)
+                if (contracted + contractible)
+                else None
+            ),
+        },
+        "vocatives": dict(
+            vocatives,
+            medial_share=(
+                round(vocatives["medial"] / vocative_total, 3) if vocative_total else None
+            ),
+        ),
+        "over_breath_limit": sum(int(p["over_breath_limit"]) for p in profiles),
+        "breath_limit": BREATH_LIMIT,
+        "longest_units": long_units[:20],
+        "repeated_units": repeated_units[:20],
+        "shared_units": shared_units[:20],
+    }
+
+
 def iter_target_files(
     translations_dir: Path = TRANSLATIONS_DIR,
     reader_dir: Path | None = READER_DIR,
@@ -307,12 +618,23 @@ def build_report(
 
     governed = load_governed_renderings(repo_root / "terms")
     findings: list[dict[str, object]] = []
+    profiles: list[dict[str, object]] = []
     for path in files:
         try:
             relative = path.relative_to(repo_root).as_posix()
         except ValueError:
             relative = path.as_posix()
-        findings.extend(scan_text(path.read_text(encoding="utf-8"), relative, governed))
+        text = path.read_text(encoding="utf-8")
+        findings.extend(scan_text(text, relative, governed))
+        profiles.append(profile_text(text, relative))
+
+    spoken_register = aggregate_profiles(profiles)
+    # The per-unit tables exist only to build the cross-surface rollup above.
+    # Left in place they would put every sentence of the corpus, keyed twice,
+    # into `--format json`.
+    for profile in profiles:
+        profile.pop("_unit_counts", None)
+        profile.pop("_unit_examples", None)
 
     label_counts: Counter[str] = Counter(str(f["label"]) for f in findings)
     file_counts: Counter[str] = Counter(str(f["path"]) for f in findings)
@@ -323,10 +645,108 @@ def build_report(
             {"path": path, "matches": count} for path, count in file_counts.most_common(20)
         ],
         "findings": findings,
+        # Distributional, not gated. See the module docstring.
+        "spoken_register": spoken_register,
+        "surface_profiles": profiles,
     }
 
 
-def render_text(report: dict[str, object], top: int) -> str:
+def render_spoken_register(report: dict[str, object], top: int) -> list[str]:
+    """Render the distributional read-aloud section.
+
+    Nothing here is an error. Each block names a pressure and where it is
+    heaviest, so a read-aloud pass can be aimed rather than guessed at.
+    """
+    spoken = report.get("spoken_register")
+    if not spoken:
+        return []
+
+    dialogue = spoken["dialogue"]
+    vocatives = spoken["vocatives"]
+    contractible = dialogue["contractible_negations"]
+    contracted = dialogue["contractions"]
+    rate = dialogue["contraction_rate"]
+
+    lines = [
+        "",
+        "Spoken register profile",
+        "-----------------------",
+        f"Translated words: {spoken['words']}  (in dialogue: {spoken['speech_words']})",
+        "",
+        "Dialogue negation:",
+        f"- contracted: {contracted}",
+        f"- left uncontracted: {contractible}",
+    ]
+    if rate is not None:
+        lines.append(f"- contraction rate: {rate:.1%}")
+    lines.append(
+        "    The standard allows neutral contractions. Emphatic negation is real,"
+    )
+    lines.append(
+        "    so this is a rate to judge, not a list of lines to change."
+    )
+
+    medial_share = vocatives["medial_share"]
+    lines.extend(
+        [
+            "",
+            "Vocative position:",
+            f"- opening the sentence: {vocatives['initial']}",
+            f"- wedged mid-clause: {vocatives['medial']}",
+            f"- closing the sentence: {vocatives['final']}",
+        ]
+    )
+    if medial_share is not None:
+        lines.append(f"- mid-clause share: {medial_share:.1%}")
+    lines.append(
+        "    Mid-clause address is the stiffest position for a speaking voice."
+    )
+
+    lines.extend(
+        [
+            "",
+            f"Sentences over {spoken['breath_limit']} words: {spoken['over_breath_limit']}",
+        ]
+    )
+    for unit in spoken["longest_units"][:top]:
+        lines.append(f"- {unit['path']}:{unit['line']} ({unit['words']}w) {unit['opening']} ...")
+    if spoken["over_breath_limit"]:
+        lines.extend(
+            [
+                "    Measured between full stops. Semicolons and dashes do give a",
+                "    reader somewhere to breathe, and a deliberately piled-up",
+                "    sentence can be the point, so read the long ones before cutting.",
+            ]
+        )
+
+    lines.extend(["", "Repeated units carrying the most weight, within one surface:"])
+    if not spoken["repeated_units"]:
+        lines.append("- none above the reporting threshold.")
+    for unit in spoken["repeated_units"][:top]:
+        lines.append(
+            f"- {unit['path']} x{unit['occurrences']} ({unit['words']}w,"
+            f" weight {unit['weight']}): {unit['text']}"
+        )
+
+    lines.extend(["", "Repeated units shared across surfaces:"])
+    if not spoken["shared_units"]:
+        lines.append("- none above the reporting threshold.")
+    for unit in spoken["shared_units"][:top]:
+        lines.append(
+            f"- {unit['surfaces']} surfaces, x{unit['occurrences']}"
+            f" ({unit['words']}w, weight {unit['weight']}): {unit['text']}"
+        )
+    lines.append(
+        "    Perfect the unit before it repeats. See PLAIN_ENGLISH_STANDARD rule 4."
+    )
+    lines.append(
+        "    A shared unit is the highest-leverage edit in the corpus: fixing it"
+    )
+    lines.append("    once improves every surface that carries it.")
+    return lines
+
+
+def render_text(report: dict[str, object], top: int, spoken: bool = False) -> str:
     summary = report["summary"]
     lines = [
         "Plain English audit",
@@ -338,6 +758,8 @@ def render_text(report: dict[str, object], top: int) -> str:
     if not report["findings"]:
         lines.append("")
         lines.append("- No register signals found.")
+        if spoken:
+            lines.extend(render_spoken_register(report, top))
         return "\n".join(lines)
 
     lines.extend(["", "Signals by pattern:"])
@@ -352,6 +774,9 @@ def render_text(report: dict[str, object], top: int) -> str:
     for finding in report["findings"][:top]:
         lines.append(f"- {finding['path']}:{finding['line']} [{finding['label']}] {finding['match']}")
         lines.append(f"    {finding['guidance']}")
+
+    if spoken:
+        lines.extend(render_spoken_register(report, top))
 
     lines.extend(
         [
@@ -387,13 +812,22 @@ def main() -> int:
         action="store_true",
         help="Exit non-zero when any register signal is found.",
     )
+    parser.add_argument(
+        "--spoken",
+        action="store_true",
+        help=(
+            "Also show the spoken register profile: dialogue contraction rate, "
+            "vocative position, breath spans, and repeated-unit weight. Always "
+            "advisory; --strict never gates on it."
+        ),
+    )
     args = parser.parse_args()
 
     report = build_report(REPO_ROOT, paths=args.path)
     if args.format == "json":
         write_output(json.dumps(report, indent=2, ensure_ascii=False) + "\n")
     else:
-        write_output(render_text(report, max(args.top, 1)) + "\n")
+        write_output(render_text(report, max(args.top, 1), spoken=args.spoken) + "\n")
 
     if args.strict and report["summary"]["matches"]:
         return 1

@@ -326,6 +326,41 @@ while revising.
 A flagged line is a prompt to reread the sentence aloud. It is not proof that
 the sentence must change.
 
+### The spoken register profile
+
+```bash
+python scripts/plain_english_audit.py --spoken
+```
+
+The signals above are things you can see on the page. This section measures
+four things you can only hear, and it reports them as distributions rather than
+as findings, because no single line is wrong on its own:
+
+- **Dialogue negation.** How often speech leaves a negation uncontracted where
+  a speaker would contract it. Emphatic negation is real and some of these
+  should stay, so read the rate and judge it; do not run a replacement.
+- **Vocative position.** Whether forms of address open the sentence, close it,
+  or sit wedged mid-clause. Mid-clause address is the stiffest position for a
+  speaking voice and the easiest to inherit from Pāli word order.
+- **Sentence length.** Sentences over forty-five words, measured between full
+  stops. Semicolons and dashes do give a reader somewhere to breathe, and a
+  deliberately piled-up sentence can be the point of the passage, so read the
+  long ones before cutting them.
+- **Repeated-unit weight.** Repeated sentences ranked by length times
+  re-hearings, within a surface and across surfaces. This implements rule 4
+  from the other direction: rather than reminding you to perfect a unit before
+  repeating it, it tells you which unread unit is costing the most.
+
+The cross-surface list is the highest-leverage one in the repository. A formula
+said once each in eight suttas never shows up as repetition inside any one of
+them, but a reader moving through the corpus hears it eight times, and one edit
+fixes all eight.
+
+`--strict` never gates on this section. It is a way to aim a read-aloud pass,
+and it does not replace one: the read-aloud gate in
+[Review States](#review-states) is a human saying the text out loud, and no
+measurement substitutes for it.
+
 ## What This Standard Does Not Cover
 
 - `-notes.md` files, generated docs, and contributor prose. Those follow
