@@ -238,7 +238,9 @@ class SpokenRegisterTests(unittest.TestCase):
         body = f"{line}\n\n{line}\n"
         profile = self._profile(body)
         self.assertEqual(profile["over_breath_limit"], 0)
-        self.assertEqual(profile["longest_unit"], 0)
+        # longest_unit is the longest sentence, not the longest flagged one:
+        # each paragraph is its own 30-word unit, and neither passed the limit.
+        self.assertEqual(profile["longest_unit"], 30)
 
     def test_long_sentence_is_measured(self) -> None:
         body = " ".join(["word"] * 50) + "."

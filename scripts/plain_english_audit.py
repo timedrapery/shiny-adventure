@@ -466,7 +466,10 @@ def profile_text(text: str, relative_path: str) -> dict[str, object]:
             "contractions": contracted,
         },
         "vocatives": vocatives,
-        "longest_unit": int(long_units[0]["words"]) if long_units else 0,
+        # The longest sentence in the surface, whether or not anything passed
+        # the limit. Reporting the longest *flagged* sentence would print a
+        # flat 0 for every clean surface, which reads as "no sentences".
+        "longest_unit": max(sentence_lengths, default=0),
         "over_breath_limit": len(long_units),
         "long_units": long_units[:5],
         "repeated_units": repeated_units[:5],
