@@ -30,8 +30,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-09-17",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text spoken aloud at ordinary pace; nothing caught. Read from the translation body at this hash, without the section heading, which is reader apparatus rather than translated text."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
