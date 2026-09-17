@@ -42,6 +42,7 @@ try:
         split_paragraphs,
         split_sentences,
         strip_apparatus,
+        write_output,
     )
     from scripts.surface_registry import TRANSLATION_SURFACES
 except ModuleNotFoundError:  # pragma: no cover - exercised by direct invocation
@@ -54,6 +55,7 @@ except ModuleNotFoundError:  # pragma: no cover - exercised by direct invocation
         split_paragraphs,
         split_sentences,
         strip_apparatus,
+        write_output,
     )
     from surface_registry import TRANSLATION_SURFACES  # type: ignore[no-redef]
 
@@ -298,7 +300,7 @@ def main() -> int:
     kits = [build_kit(registry[key]) for key in keys]
 
     if args.format == "json":
-        print(json.dumps(kits, indent=2, ensure_ascii=False))
+        write_output(json.dumps(kits, indent=2, ensure_ascii=False) + "\n")
         return 0
 
     if args.out:
@@ -309,7 +311,7 @@ def main() -> int:
             print(f"Wrote {target}")
         return 0
 
-    print("\n\n".join(render_kit(kit, args.facilitator) for kit in kits))
+    write_output("\n\n".join(render_kit(kit, args.facilitator) for kit in kits) + "\n")
     return 0
 
 
