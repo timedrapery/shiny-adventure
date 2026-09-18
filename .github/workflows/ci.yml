@@ -26,7 +26,7 @@ jobs:
           # The health dashboard dates the review queue from the commit
           # that added each item, which a shallow checkout cannot answer.
           fetch-depth: 0
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: ${{ matrix.python-version }}
           cache: "pip"
