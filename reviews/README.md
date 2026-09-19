@@ -5,7 +5,7 @@ This workboard turns the
 handoff-ready queue. The JSON ledger remains authoritative; this page is the
 human-readable operating view.
 
-Current state: **0 of 60 newcomer sessions recorded** and **0 of 12 read-aloud
+Current state: **0 of 60 newcomer sessions recorded** and **2 of 12 read-aloud
 reviews complete**. Source-fidelity review is signed off and bound to the
 published body for five of the twelve cohort texts; the other seven were edited
 on the same day they were signed off, so that sign-off could not be tied to the
@@ -35,13 +35,20 @@ exactly what it says — nobody has read these texts under the protocol yet.
 
 | Text | Public reader page | Read aloud | Newcomers | Passing threshold |
 | --- | --- | --- | ---: | ---: |
-| AN 2.9 | [What Keeps the World Human](https://timedrapery.github.io/shiny-adventure/suttas/an2-9-cariya-sutta/) | pending | 0/5 | 0/4 |
-| SN 36.6 | [One Arrow, Not Two](https://timedrapery.github.io/shiny-adventure/suttas/sn36-6-salla-sutta/) | pending | 0/5 | 0/4 |
+| AN 2.9 | [What Keeps the World Human](https://timedrapery.github.io/shiny-adventure/suttas/an2-9-cariya-sutta/) | complete | 0/5 | 0/4 |
+| SN 36.6 | [One Arrow, Not Two](https://timedrapery.github.io/shiny-adventure/suttas/sn36-6-salla-sutta/) | complete | 0/5 | 0/4 |
 | AN 3.65 | [How to Test a Teaching](https://timedrapery.github.io/shiny-adventure/suttas/an3-65-kesamutta-sutta/) | pending | 0/5 | 0/4 |
 
 Use the [printable pilot session sheet](pilot-session-sheet.md) and the
 [facilitator guide](facilitator-guide.md), which explains how to run a session
 through the reader feedback system and stage its export into this ledger.
+
+The read-aloud column is a separate gate and does not wait on recruitment. It
+needs one reviewer and a voice, and all three pilot texts together are about
+twenty minutes of reading. Generate a kit with
+`python scripts/read_aloud_kit.py --surface sn36_6` and follow
+[Read-aloud review](../docs/newcomer-review-protocol.md#read-aloud-review).
+Of the three gates this is the one that can move today.
 Evaluate this pilot before recruiting for the remaining nine texts; all three
 pilot texts already carry the reader feedback controls on the public site.
 

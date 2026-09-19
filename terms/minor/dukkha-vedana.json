@@ -9,5 +9,6 @@
   "literal_meaning": "painful feeling",
   "tags": [
     "aggregates"
-  ]
+  ],
+  "notes": "Kept as `painful feeling` after `unpleasant feeling` was considered and declined on 2026-09-17. The case for the change was real and is recorded here so it is not rediscovered from scratch: `pleasant` and `unpleasant` are a matched pair where `pleasant` and `painful` are not, and MN 44 defines this term as whatever bodily or mental dissatisfaction is felt, disagreeable -- broader than `painful` suggests on its own. The blocking cost is that `unpleasant` already renders `asata` in MN 141, so the swap needs that family moved to `disagreeable` in the same pass, which is a wider change than the triad. Note the live consequence of keeping this: `painful` does two jobs in the corpus -- this broad triad term, and the narrow body-contact `dukkha` of the dukkha/domanassa pair in MN 141 -- and the English does not distinguish them. Reopen the question with that whole family together or not at all."
 }
