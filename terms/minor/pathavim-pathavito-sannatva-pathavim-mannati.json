@@ -3,7 +3,7 @@
   "normalized_term": "pathavim-pathavito-sannatva-pathavim-mannati",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "once they have recognized earth as earth, they take themselves to be earth",
+  "preferred_translation": "once they have recognized earth as earth, they think of themselves as earth",
   "alternative_translations": [
     "once they have recognized earth as earth, they conceive earth"
   ],
@@ -11,7 +11,7 @@
     "having perceived earth, one thinks about earth"
   ],
   "definition": "MN 1 formula surface showing the move from recognition into self-taking.",
-  "notes": "Use this record as the governing ordinary-person control line for the MN 1 maññati pattern. The English deliberately expands the selfing force rather than leaving maññati as a thinner abstract conceiving-verb. The line is not about neutral cognition; it marks the shift from recognition into appropriation.",
+  "notes": "Use this record as the governing ordinary-person control line for the MN 1 maññati pattern. The English uses think of, with oneself as an explicit interpretive addition that makes the self-reference clear. The line is not about neutral cognition; it marks the shift from recognition into appropriation.",
   "related_terms": [
     "asmimana",
     "mannati",
@@ -21,7 +21,7 @@
   "example_phrases": [
     {
       "pali": "paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati",
-      "translation": "having recognized earth as earth, one takes oneself to be earth",
+      "translation": "having recognized earth as earth, one thinks of oneself as earth",
       "notes": "Control line for the ordinary-person side of the MN 1 pattern.",
       "source": "MN 1"
     }

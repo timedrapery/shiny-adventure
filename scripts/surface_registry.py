@@ -448,7 +448,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
-    "mn1": "f31b212f0f4adc6f284574023d82cd182c4956d5e8bc39ec8f1452b77d543cdf",
+    "mn1": "dc1ae324088fd806036ea4d07abfbb64534066ec4761177b7a7a2427e1186c7d",
     "mn2": "09782d8ad37ed3a3d5689cdd7c9b7c5b75d7a3e3e5f61e7779d9d677f0920f98",
     "mn7": "5a7fe259f744027b4bd37566ce894b0d88ee52a5d9a25012d3b140b7311af870",
     "mn9": "b8b5bd840ed8d7f9d4777cc7349221f3c03609cfdb02b85d97e37f6b28b8a4d7",

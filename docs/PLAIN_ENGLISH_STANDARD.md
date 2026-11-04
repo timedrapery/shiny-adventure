@@ -153,15 +153,15 @@ recognized earth as earth, ...` is not normal English.
 
 Prefer:
 
-> He recognizes earth as earth. Then he takes himself to be earth.
+> He recognizes earth as earth. Then he thinks of himself as earth.
 
 or:
 
-> Once he has recognized earth as earth, he takes himself to be earth.
+> Once he has recognized earth as earth, he thinks of himself as earth.
 
 Avoid:
 
-> Having recognized earth as earth, one takes oneself to be earth.
+> Having recognized earth as earth, one thinks of oneself as earth.
 
 ### 3. Use `the Buddha`, not `the Blessed One`
 

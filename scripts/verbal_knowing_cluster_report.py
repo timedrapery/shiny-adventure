@@ -106,7 +106,7 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
         "abhijanati": "directly knows",
         "pajanati": "discerns",
         "sanjanati": "recognizes",
-        "mannati": "takes to be",
+        "mannati": "thinks of",
         "anna": "final knowledge",
         "yathabhutam-pajanati": "discerns it as it has come to be",
         "naparam-itthattayati-pajanati": "one discerns: there is no more of this state of being",
@@ -117,13 +117,13 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
             "from what one proliferates about as the source, the recognitions and notions of proliferation sweep over a person"
         ),
         "pathavim-pathavito-sannatva-pathavim-mannati": (
-            "having recognized earth as earth, one takes oneself to be earth"
+            "having recognized earth as earth, one thinks of oneself as earth"
         ),
         "pathavim-pathavito-abhinnaya-pathavim-ma-manni": (
-            "having directly known earth as earth, one should not take oneself to be earth"
+            "having directly known earth as earth, one should not think of oneself as earth"
         ),
         "pathavim-pathavito-abhinnaya-pathavim-na-mannati": (
-            "having directly known earth as earth, one does not take oneself to be earth"
+            "having directly known earth as earth, one does not think of oneself as earth"
         ),
         "nandi-dukkhassa-mulan": "delight is the root of dissatisfaction",
         "bhava-jati-bhutassa-jaramaranam": (

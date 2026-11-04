@@ -55,7 +55,7 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
     def test_mannati_stays_distinct_from_generic_thinking_and_links_to_selfing(self) -> None:
         mannati = load_term("terms/major/mannati.json")
 
-        self.assertEqual(mannati["preferred_translation"], "takes to be")
+        self.assertEqual(mannati["preferred_translation"], "thinks of")
         self.assertIn("thinks", mannati["discouraged_translations"])
         self.assertIn("asmimana", mannati["related_terms"])
         self.assertIn("upadana", mannati["related_terms"])
@@ -105,15 +105,15 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
 
         self.assertEqual(
             recognized_selfing["preferred_translation"],
-            "once they have recognized earth as earth, they take themselves to be earth",
+            "once they have recognized earth as earth, they think of themselves as earth",
         )
         self.assertEqual(
             direct_knowing_prohibitive["preferred_translation"],
-            "once they have directly known earth as earth, they should not take themselves to be earth",
+            "once they have directly known earth as earth, they should not think of themselves as earth",
         )
         self.assertEqual(
             direct_knowing_nonselfing["preferred_translation"],
-            "once they have directly known earth as earth, they do not take themselves to be earth",
+            "once they have directly known earth as earth, they do not think of themselves as earth",
         )
         self.assertEqual(delight_root["preferred_translation"], "delight is the root of dissatisfaction")
         self.assertEqual(
@@ -160,7 +160,7 @@ class VerbalKnowingPolicyTests(unittest.TestCase):
         mannati_sources = {item["source"] for item in mannati["authority_basis"]}
 
         self.assertEqual(abhijanati["preferred_translation"], "directly knows")
-        self.assertEqual(mannati["preferred_translation"], "takes to be")
+        self.assertEqual(mannati["preferred_translation"], "thinks of")
         self.assertIn("MN 1", abhijanati_sources)
         self.assertIn("MN 1", mannati_sources)
 

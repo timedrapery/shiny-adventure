@@ -3,8 +3,8 @@
   "normalized_term": "mannati",
   "entry_type": "major",
   "part_of_speech": "verb",
-  "literal_meaning": "takes to be, conceives",
-  "preferred_translation": "takes to be",
+  "literal_meaning": "thinks of, considers, conceives",
+  "preferred_translation": "thinks of",
   "alternative_translations": [
     "conceives",
     "regards as"
@@ -16,17 +16,17 @@
   ],
   "untranslated_preferred": false,
   "definition": "A selfing or construing verb: taking something as something, often in ways that place self, ownership, or stand-apart relation into the field.",
-  "notes": "The project keeps takes to be as the default because maññati in this repository is not generic thinking. In MN 1 it names the live move from recognition into selfing, ownership, standing in, standing apart from, and taking as mine. Conceives remains a controlled alternate where source-critical or comparative prose explicitly needs the familiar doctrinal label, and regards as can help when the local syntax is broader than the tight MN 1 selfing pattern. But the headword should not be flattened into thinks, because that would erase the appropriation-side force that makes the discourse readable. In this repository, maññati belongs near asmimāna, upādāna, and papañca: it is one of the verbal surfaces by which I-making and mine-making spread across the field of experience.",
+  "notes": "The project prefers thinks of as plain English for maññati. In MN 1, the complements carry the pattern: thinking of oneself as, in, or apart from something, and thinking of something as mine. The self-reference is an interpretive expansion, not an explicit object supplied by the Pali in every clause. Keep that explanation visible in the translation notes. This wording does not make the completed practitioner's freedom from maññati a claim that all thought has stopped. Conceives remains a controlled alternate in comparative prose, and regards as is available where local syntax supports it. Keep maññati distinct from vitakka, the thinking stage in MN 18.",
   "context_rules": [
     {
       "context": "In most source-facing contexts where the verb marks taking something as something",
-      "rendering": "takes to be",
+      "rendering": "thinks of",
       "notes": "Use this by default."
     },
     {
       "context": "In the structured MN 1 selfing pattern where the English needs the local self-reference spelled out",
-      "rendering": "takes themselves to be",
-      "notes": "Use for forms such as paṭhaviṃ maññati where the appropriation-side force should stay explicit."
+      "rendering": "thinks of themselves as",
+      "notes": "Use this in MN 1; themselves makes the interpreted self-reference explicit. Use in and apart from for the following case forms, and thinks of ... as mine for ownership."
     },
     {
       "context": "In source-critical or comparative doctrinal prose where the familiar technical label is useful",
@@ -51,13 +51,13 @@
   "example_phrases": [
     {
       "pali": "paṭhaviṃ maññati",
-      "translation": "one takes oneself to be earth",
-      "notes": "The English expands the selfing force rather than leaving the line as a thin abstract conceiving-verb.",
+      "translation": "one thinks of oneself as earth",
+      "notes": "Shows the MN 1 self-reference made explicit as an interpretive addition.",
       "source": "MN 1"
     },
     {
       "pali": "nibbānaṃ me ti maññati",
-      "translation": "one takes nibbāna as 'mine'",
+      "translation": "one thinks of nibbāna as 'mine'",
       "notes": "Shows that the same selfing and ownership movement can even appropriate nibbāna-language.",
       "source": "MN 1"
     }
@@ -86,10 +86,10 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'takes to be' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use the more explicit 'takes oneself to be' in MN 1-style selfing patterns, and use controlled 'conceives' or 'regards as' only where the local context genuinely benefits. Do not flatten maññati into generic thinking or understanding.",
+    "default_scope": "Use 'thinks of' by default, inflected to fit the subject and completed by the local object and relation.",
+    "when_not_to_apply": "In MN 1 use thinks of oneself as, in, or apart from, and thinks of ... as mine. Do not omit these relations or treat the passage as a prohibition on all thinking. Use conceives or regards as only under the recorded context rules.",
     "compound_inheritance": "case-by-case",
-    "drift_risk": "Prevents the verb from disappearing into bland thought-language and preserves its role in selfing, mine-making, and appropriation."
+    "drift_risk": "Preserves plain English while keeping the MN 1 self-reference and ownership relations explicit and distinct from vitakka."
   },
-  "version_notes": "Added after the MN 1 translation pass to stabilize the selfing verb-family rather than leaving it as a document-local decision."
+  "version_notes": "Revised 2026-11-04 by explicit editorial decision to use thinks of, with the MN 1 case relations and interpretive self-reference retained."
 }

@@ -24,10 +24,14 @@ source-audit calls, and edition notes that govern it.
 - `sañjānāti` remains `recognizes`.
 - `abhijānāti` is now an explicit repo headword governed as `directly knows`.
 - In this discourse, the `maññati` family is rendered with explicit
-  selfing-language: `takes oneself to be`, `takes oneself in`, `takes oneself
-  apart from`, and `takes ... as 'mine'`.
-- `maññati` is now an explicit repo headword governed as `takes to be`, with
-  the MN 1 pattern using the more explicit selfing expansions.
+  selfing-language: `thinks of oneself as`, `thinks of oneself in`, `thinks of oneself
+  apart from`, and `thinks of ... as 'mine'`.
+- `maññati` is now an explicit repo headword governed as `thinks of`, with
+  the MN 1 pattern using explicit self-reference and case relations.
+- The self-reference in `themselves` is an interpretive addition. The Pali
+  does not explicitly supply a self-object in every clause. `Thinks of`
+  keeps the English ordinary while the complements express the relations;
+  the completed practitioner is not being described as unable to think.
 - `sekha` remains `trainee`.
 - `pariññā` family language remains governed by `full understanding`.
 - `nibbāna` remains untranslated.
@@ -91,6 +95,13 @@ source-audit calls, and edition notes that govern it.
   passage later, expand that brief into a fuller term-family note.
 - Use the now-stabilized `sañjānāti` / `abhijānāti` / `maññati` pattern as a
   direct support surface for MN 18 and the linked brief.
+
+## Wording Revision: 2026-11-04
+
+- By explicit editorial decision, the maññati family now uses `thinks of`
+  throughout the ordinary-person, trainee, and completed-practitioner patterns.
+- The term record, three formula records, and linked control surfaces follow
+  the same wording. The self-reference remains an explicit interpretation.
 
 ## Edition Status
 
