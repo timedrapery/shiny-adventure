@@ -9,7 +9,7 @@ All 66 translations, grouped by collection. If you would rather be guided, use [
 
 ## Majjhima Nikāya (MN) — the middle-length discourses
 
-- [**The Root of All Things**](mn1-mulapariyaya-sutta.md) — MN 1 · Mūlapariyāya Sutta · about 22 min · 3,787 words · Set 5. "The root of all things."
+- [**The Root of All Things**](mn1-mulapariyaya-sutta.md) — MN 1 · Mūlapariyāya Sutta · about 22 min · 3,940 words · Set 5. "The root of all things."
 - [**Seven Ways to Handle What Erodes the Mind**](mn2-sabbasava-sutta.md) — MN 2 · Sabbāsava Sutta · about 13 min · 2,201 words · Set 3. Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development.
 - [**The Dirty Cloth**](mn7-vattha-sutta.md) — MN 7 · Vattha Sutta · about 11 min · 1,911 words · Set 2. A mind is like cloth: dye it while it is dirty and the colour comes out wrong.
 - [**Right View from Many Angles**](mn9-sammaditthi-sutta.md) — MN 9 · Sammādiṭṭhi Sutta · about 15 min · 2,639 words · Set 4. Right view examined through more than a dozen different doctrinal lenses in one text.

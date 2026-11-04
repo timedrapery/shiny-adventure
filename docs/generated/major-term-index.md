@@ -176,7 +176,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [magga](../../terms/major/magga.json) | magga | path | reviewed | core-doctrine, core-practice, four-noble-truths |
 | [mana](../../terms/major/mana.json) | māna | conceit | stable | mental-qualities, core-doctrine, self-view, translation-sensitive |
 | [manasikara](../../terms/major/manasikara.json) | manasikāra | attention | stable | core-doctrine, core-practice, mental-qualities |
-| [mannati](../../terms/major/mannati.json) | maññati | takes to be | stable | core-doctrine, core-practice, translation-sensitive, self-view |
+| [mannati](../../terms/major/mannati.json) | maññati | thinks of | stable | core-doctrine, core-practice, translation-sensitive, self-view |
 | [mano-vinnana](../../terms/major/mano-vinnana.json) | manoviññāṇa | mind-knowing | reviewed | sense-fields, core-doctrine |
 | [mano](../../terms/major/mano.json) | mano | thinking mind | reviewed | core-doctrine, sense-fields, context-sensitive, translation-sensitive |
 | [manosancetana-ahara](../../terms/major/manosancetana-ahara.json) | manosañcetanāhāra | mental-intention nutriment | stable | core-doctrine, dependent-origination, translation-sensitive |

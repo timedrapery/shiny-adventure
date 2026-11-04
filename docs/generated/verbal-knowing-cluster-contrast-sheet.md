@@ -4,7 +4,7 @@
 - `abhijānāti`: `directly knows`
 - `pajānāti`: `discerns`
 - `sañjānāti`: `recognizes`
-- `maññati`: `takes to be`
+- `maññati`: `thinks of`
 - `aññā`: `final knowledge`
 
 ## Keep Distinct
@@ -34,9 +34,9 @@
 - `yaṁ sañjānāti taṁ vitakketi` -> `what they recognize, they think about`
 - `yaṁ vitakketi taṁ papañceti` -> `what they think about, they proliferate about`
 - `yaṁ papañceti tato nidānaṁ purisaṁ papañcasaññāsaṅkhā samudācaranti` -> `from what they proliferate about as the source, the recognitions and notions of proliferation sweep over a person`
-- `paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati` -> `once they have recognized earth as earth, they take themselves to be earth`
-- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi` -> `once they have directly known earth as earth, they should not take themselves to be earth`
-- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati` -> `once they have directly known earth as earth, they do not take themselves to be earth`
+- `paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati` -> `once they have recognized earth as earth, they think of themselves as earth`
+- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi` -> `once they have directly known earth as earth, they should not think of themselves as earth`
+- `paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati` -> `once they have directly known earth as earth, they do not think of themselves as earth`
 - `nandī dukkhassa mūlan` -> `delight is the root of dissatisfaction`
 - `bhavā jāti bhūtassa jarāmaraṇaṁ` -> `with becoming there is birth, and for whatever has come to be there are aging and death`
 

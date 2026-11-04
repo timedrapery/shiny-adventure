@@ -490,7 +490,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self" data-difficulty="advanced" data-form="teaching" data-length="long" data-search="the root of all things mn 1 mūlapariyāya sutta &quot;the root of all things.&quot; traditionally regarded as one of the most difficult texts in the collection. deliberately last: it rewards everything that came before it and rewards very little read cold. not-self">
 <h2><a href="../suttas/mn1-mulapariyaya-sutta/">The Root of All Things</a></h2>
 <p class="sutta-card__reference">MN 1 · <span lang="pi">Mūlapariyāya Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Teaching · Long · about 22 min · 3,787 words</p>
+<p class="sutta-card__meta">Advanced · Teaching · Long · about 22 min · 3,940 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>&quot;The root of all things.&quot; Traditionally regarded as one of the most difficult texts in the collection. Deliberately last: it rewards everything that came before it and rewards very little read cold.</p>
 </article>
