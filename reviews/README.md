@@ -1,5 +1,9 @@
 # Newcomer Review Workboard
 
+These reviews are optional. Nothing here blocks drafting or publishing, and the
+reader no longer shows a `provisional` label. The records stay so that real
+review evidence can be kept whenever it exists.
+
 This workboard turns the
 [newcomer comprehension protocol](../docs/newcomer-review-protocol.md) into a
 handoff-ready queue. The JSON ledger remains authoritative; this page is the

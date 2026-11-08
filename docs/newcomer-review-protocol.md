@@ -1,7 +1,10 @@
 # Newcomer Comprehension Review Protocol
 
-This is the human gate between a technically checked translation and a reader-
-validated one. Automated checks cannot substitute for it.
+This protocol describes optional human reviews. Since 2026-11-08 they are not
+required for publishing and the reader does not show a review status: the
+project is maintained by one editor, so these records are kept when outside
+readers are available and are never inferred or backfilled when they are not.
+Automated checks do not substitute for them; they simply are not a gate.
 
 Use the [newcomer review workboard](../reviews/README.md) for public links and
 current progress. The JSON ledger remains authoritative.
