@@ -3,21 +3,22 @@
   "normalized_term": "miccha-samadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "wrong composure",
-  "preferred_translation": "wrong composure",
+  "literal_meaning": "wrong unification of mind",
+  "preferred_translation": "wrong unification of mind",
   "alternative_translations": [
-    "misdirected composure"
+    "misdirected unification of mind"
   ],
   "discouraged_translations": [
     "bad concentration"
   ],
   "untranslated_preferred": false,
-  "definition": "Wrong composure opposed to right composure.",
+  "definition": "Wrong unification of mind opposed to right unification of mind.",
   "sutta_references": [
     "MN 117"
   ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi and sammā-samādhi headwords."
 }

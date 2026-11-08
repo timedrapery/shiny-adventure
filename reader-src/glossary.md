@@ -70,7 +70,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>complete quenching</dfn></dt>
 <dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
-<dt><dfn>composure</dfn> <span class="glossary-pali" lang="pi">(samādhi)</span></dt>
+<dt><dfn>composure</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conditionality</dfn> <span class="glossary-pali" lang="pi">(idappaccayatā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
@@ -139,7 +139,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>final nibbāna</dfn> <span class="glossary-pali" lang="pi">(parinibbāna)</span></dt>
 <dd>The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.</dd>
-<dt><dfn>five distractions</dfn> <span class="glossary-pali" lang="pi">(pañca-nīvaraṇā)</span></dt>
+<dt><dfn>five distractions</dfn></dt>
 <dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
@@ -289,7 +289,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn> <span class="glossary-pali" lang="pi">(sammāsaṅkappa)</span></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn> <span class="glossary-pali" lang="pi">(sammā-samādhi)</span></dt>
+<dt><dfn>right composure</dfn></dt>
 <dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right discernment</dfn></dt>
 <dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>

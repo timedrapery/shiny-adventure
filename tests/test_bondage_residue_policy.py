@@ -37,8 +37,8 @@ class BondageResiduePolicyTests(unittest.TestCase):
         panca_nivarana = load_term("terms/minor/panca-nivarana.json")
 
         self.assertEqual(samyojana["preferred_translation"], "fetter")
-        self.assertEqual(nivarana["preferred_translation"], "distraction")
-        self.assertEqual(panca_nivarana["preferred_translation"], "five distractions")
+        self.assertEqual(nivarana["preferred_translation"], "hindrance")
+        self.assertEqual(panca_nivarana["preferred_translation"], "five hindrances")
 
     def test_kilesa_stays_broader_than_specific_bondage_families(self) -> None:
         kilesa = load_term("terms/major/kilesa.json")

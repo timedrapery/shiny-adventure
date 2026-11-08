@@ -4,28 +4,29 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "covering, obstruction",
-  "preferred_translation": "distraction",
+  "preferred_translation": "hindrance",
   "alternative_translations": [
-    "hindrance",
-    "obstruction"
+    "distraction",
+    "obstruction",
+    "obstacle"
   ],
   "discouraged_translations": [
     "problem",
     "enemy"
   ],
   "untranslated_preferred": false,
-  "definition": "An actively obstructive state that covers over clarity and interferes with collected practice.",
-  "notes": "The project keeps distraction as the default because it preserves the practical, active function of this family: these states pull the mind off course, cover over clarity, and block collected development. Hindrance remains a controlled alternate for continuity with familiar Buddhist-English, and obstruction remains available when the covering function needs emphasis. Nīvaraṇa should stay distinct from anusaya, which can remain latent even when nothing obvious is surfacing; from saṃyojana, which binds one to continued becoming; from āsava, which names deeper corruptive outflows; and from kilesa, which is the broader defilement family. In practice-facing prose, wholesome dhammas may counter or displace distractions, but translators should not treat that as identical to uprooting underlying tendencies or ending fetters and outflows. The same policy extends by default into the fixed collective compound pañca-nīvaraṇā unless a narrower formula record documents an override. The OSF glossary supports keeping distraction as the house default, and SN 46.51 supports the pairing of the five distractions with the seven awakening factors.",
+  "definition": "An actively obstructive state that hinders the mind: it covers over clarity, pulls the mind off course, and blocks collected practice and entry into the first jhāna.",
+  "notes": "The project uses hindrance as the default because that is how Dhammarato teaches this family throughout the 2014–2026 talk transcripts: roughly 7,500 uses of hindrance against about 250 of distraction, with the explanation that \"the word hindrance means things that will hinder us from being in first jhana.\" Hindrance keeps the active, practical function in view: these states block the mind from being free, satisfied, and fit for work, and the practice is to throw them out. Distraction, the earlier house default supported by the OSF glossary, remains the primary alternate when the pull-off-course function needs emphasis or when continuity with earlier OSF material matters, and published translations made before this revision may still read distractions until they are re-rendered. Obstruction and obstacle remain available when the covering or blocking function is the point. Nīvaraṇa should stay distinct from anusaya, which can remain latent even when nothing obvious is surfacing; from saṃyojana, which binds one to continued becoming; from āsava, which names deeper corruptive outflows; and from kilesa, which is the broader defilement family. In practice-facing prose, wholesome dhammas may counter or displace hindrances, but translators should not treat that as identical to uprooting underlying tendencies or ending fetters and outflows. The same policy extends by default into the fixed collective compound pañca-nīvaraṇā unless a narrower formula record documents an override. The five named members currently keep their own governed names, which were built on the earlier distraction default. SN 46.51 supports the pairing of the five hindrances with the seven awakening factors.",
   "context_rules": [
     {
       "context": "In most practical and meditative-development contexts",
-      "rendering": "distraction",
-      "notes": "Use this by default."
+      "rendering": "hindrance",
+      "notes": "Use this by default, following Dhammarato's teaching usage."
     },
     {
-      "context": "In comparative doctrinal prose using familiar Buddhist-English terminology",
-      "rendering": "hindrance",
-      "notes": "Use this as a controlled alternate when reader continuity matters."
+      "context": "When the pull-off-course function is the main point, or in continuity with earlier OSF material",
+      "rendering": "distraction",
+      "notes": "Use as the primary alternate; it was the house default before the 2026 revision."
     },
     {
       "context": "When the covering or blocking function is the main point",
@@ -33,9 +34,14 @@
       "notes": "Use sparingly to emphasize what the state does."
     },
     {
+      "context": "In plain explanatory prose about what stands in the way of practice",
+      "rendering": "obstacle",
+      "notes": "Use to explain hindrance, not to replace it in sutta prose."
+    },
+    {
       "context": "In the fixed fivefold framework",
-      "rendering": "distractions",
-      "notes": "Keep the family resemblance stable across the named five and let collective compounds such as pañca-nīvaraṇā inherit the headword default unless a narrower record overrides it."
+      "rendering": "hindrances",
+      "notes": "Keep the family label stable across the named five and let collective compounds such as pañca-nīvaraṇā inherit the headword default unless a narrower record overrides it."
     }
   ],
   "related_terms": [
@@ -69,19 +75,19 @@
   "example_phrases": [
     {
       "pali": "pañca nīvaraṇā",
-      "translation": "the five distractions",
+      "translation": "the five hindrances",
       "notes": "Standard framework expression governed by the headword default.",
       "source": "DN 2"
     },
     {
       "pali": "so ime pañca nīvaraṇe pahāya",
-      "translation": "having abandoned these five distractions",
+      "translation": "having abandoned these five hindrances",
       "notes": "Classic transition into collected practice. This is active practical removal, not yet the same as uprooting latent tendencies.",
       "source": "DN 2"
     },
     {
       "pali": "pañcannañca, bhikkhave, nīvaraṇānaṁ sattannañca bojjhaṅgānaṁ",
-      "translation": "of the five distractions, bhikkhus, and of the seven awakening factors",
+      "translation": "of the five hindrances, bhikkhus, and of the seven awakening factors",
       "notes": "Shows the family paired with the awakening factors, its usual doctrinal partner. MN 118, formerly cited, contains no nīvaraṇa in any form.",
       "source": "SN 46.51"
     }
@@ -102,18 +108,25 @@
       "source": "OSF glossary",
       "priority": "osf-house",
       "kind": "gloss",
-      "scope": "Supports keeping distraction as the house default for the fivefold practice framework, with hindrance and obstruction retained as controlled alternates."
+      "scope": "Supports distraction as the earlier house default for the fivefold practice framework; distraction is kept as the primary alternate after the 2026 revision."
     },
     {
       "source": "SN 46.51",
       "kind": "context-rule",
-      "scope": "Supports the pairing of the five distractions with the seven awakening factors."
+      "scope": "Supports the pairing of the five hindrances with the seven awakening factors."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports hindrance as the default: about 7,500 uses of hindrance(s) and 109 of the five hindrances across 2,063 talks, against about 250 uses of distraction and none of the five distractions."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'distraction' as the default rendering in the entry's governed practice and meditative-development contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'hindrance' or 'obstruction' only when the explanatory context clearly calls for them. Do not flatten nīvaraṇa into vague problem-language or treat it as interchangeable with latent tendencies, fetters, or outflows.",
+    "default_scope": "Use 'hindrance' as the default rendering in the entry's governed practice and meditative-development contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'distraction', 'obstruction', or 'obstacle' only when the explanatory context clearly calls for them. Do not flatten nīvaraṇa into vague problem-language or treat it as interchangeable with latent tendencies, fetters, or outflows.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift between active obstruction-language, generic problem-language, and the broader residue families."
-  }
+  },
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: hindrance replaces distraction as the default, with distraction kept as the primary alternate."
 }

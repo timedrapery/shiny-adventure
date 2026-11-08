@@ -15,7 +15,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "The recognizing and marking function by which experience is identified and picked out.",
-  "notes": "The project keeps recognition as the default because it highlights the active identifying function of saññā more clearly than the flatter English word perception. Perception remains a controlled alternate in familiar aggregate discussions, but it must not become the unmarked default everywhere. In this repository, saññā is not discursive thought, not concept in the abstract, and not memory as such. It names the marking and identifying function that works alongside vedanā, cetanā, and viññāṇa without collapsing into any of them. Translators should therefore keep recognition as the default in direct analytical and heap contexts, use perception only for controlled orientation, and avoid over-intellectual renderings that make saññā sound like conceptual theorizing. The OSF glossary establishes recognition as the house default, and SN 22.59 supports keeping that same wording in canonical formulas.",
+  "notes": "The project keeps recognition as the default because it highlights the active identifying function of saññā more clearly than the flatter English word perception. Perception remains a controlled alternate in familiar aggregate discussions, but it must not become the unmarked default everywhere. In this repository, saññā is not discursive thought, not concept in the abstract, and not memory as such. It names the marking and identifying function that works alongside vedanā, cetanā, and viññāṇa without collapsing into any of them. Translators should therefore keep recognition as the default in direct analytical and heap contexts, use perception only for controlled orientation, and avoid over-intellectual renderings that make saññā sound like conceptual theorizing. The OSF glossary establishes recognition as the house default, and SN 22.59 supports keeping that same wording in canonical formulas. Dhammarato's talks explain saññā as the labeling and storytelling that brings an object in and colors it with the past; that is explanatory language for recognition, not a replacement rendering.",
   "context_rules": [
     {
       "context": "In most analytical and doctrinal contexts",
@@ -95,6 +95,12 @@
       "source": "SN 22.59",
       "kind": "context-rule",
       "scope": "Supports the term's use in canonical heap enumeration and not-self formulas."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Supports labeling and storytelling as explanatory language for recognition."
     }
   ],
   "translation_policy": {

@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Awakening to the nature of experience and the ending of delusion.",
-  "notes": "The project prefers awakening over enlightenment because it is clearer, less culturally overloaded, and closer to the sense of coming awake. Full awakening may be useful when the context explicitly marks unsurpassed or complete realization. Ven. Dr. M. Punnaji often frames bodhi as awakening from the dream of existence; the repository records that as a source-backed pedagogical interpretation without replacing awakening as the house default.",
+  "notes": "The project prefers awakening over enlightenment because it is clearer, less culturally overloaded, and closer to the sense of coming awake. Full awakening may be useful when the context explicitly marks unsurpassed or complete realization. Ven. Dr. M. Punnaji often frames bodhi as awakening from the dream of existence; the repository records that as a source-backed pedagogical interpretation without replacing awakening as the house default. Dhammarato's talks support the house preference: \"I'm actually not against the word [enlightenment]. A better actual word would be awakening or to wake up.\"",
   "context_rules": [
     {
       "context": "In most doctrinal and narrative contexts",
@@ -80,6 +80,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Named in notes as support for the current bodhi policy."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports awakening over enlightenment."
     }
   ],
   "translation_policy": {

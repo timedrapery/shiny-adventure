@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "An active rejoicing that arises in wholesome states, especially in collected practice; something one does rather than merely experiences.",
-  "notes": "The project keeps rejoicing as the default because it preserves the active quality of pīti: rejoicing is something the practitioner does, not a mood that washes over them. Delight remains the primary alternate when the noun form needs to sound more settled, and joy remains available in explanatory prose. The term should be distinguished from pāmojja, which is the earlier actively-cultivated gladness that precedes rejoicing in the positive dependent-arising sequence; SN 12.23 makes this order explicit. Pīti should also be distinguished from sukha: pīti is the enlivening active rejoicing, whereas sukha is the satisfying ease or satisfaction that can accompany or follow it — a distinction the OSF glossary keeps stable and that DN 2 enforces across the fourfold jhāna sequence. The active reading connects directly to the ānāpānassati step abhippamodayaṁ cittaṁ — gladdening the heart — which leads to rejoicing rather than producing it passively. Rapture is discouraged outright: it reads as mythological, religious-register language to a modern reader and does not land as an ordinary human feeling, which is the whole point of rejoicing as the house default. Where the rejoicing-and-satisfaction pair needs a lighter second term, rejoicing and ease is the acceptable fallback.",
+  "notes": "The project keeps rejoicing as the default because it preserves the active quality of pīti: rejoicing is something the practitioner does, not a mood that washes over them. Delight remains the primary alternate when the noun form needs to sound more settled, and joy remains available in explanatory prose. The term should be distinguished from pāmojja, which is the earlier actively-cultivated gladness that precedes rejoicing in the positive dependent-arising sequence; SN 12.23 makes this order explicit. Pīti should also be distinguished from sukha: pīti is the enlivening active rejoicing, whereas sukha is the satisfying ease or satisfaction that can accompany or follow it — a distinction the OSF glossary keeps stable and that DN 2 enforces across the fourfold jhāna sequence. The active reading connects directly to the ānāpānassati step abhippamodayaṁ cittaṁ — gladdening the heart — which leads to rejoicing rather than producing it passively. Rapture is discouraged outright: it reads as mythological, religious-register language to a modern reader and does not land as an ordinary human feeling, which is the whole point of rejoicing as the house default. Where the rejoicing-and-satisfaction pair needs a lighter second term, rejoicing and ease is the acceptable fallback. Dhammarato's talks support keeping rapture discouraged: he once called it \"absolutely the wrong word,\" and the word fades from his own speech after 2020, though it recurs when he reads published translations aloud. His settled explanation is pīti as the feeling of success, the win, the wow factor, and feeling like a champion, which then melts into the satisfaction of sukha. That success-language is a useful explanatory layer for the active quality of rejoicing.",
   "context_rules": [
     {
       "context": "In most meditative-development, bojjhaṅga, and positive-sequence contexts",
@@ -110,6 +110,12 @@
       "source": "SN 12.23",
       "kind": "context-rule",
       "scope": "Supports the active-quality reading: pīti arises from pāmojja in the positive dependent-arising sequence."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Supports discouraging rapture and explaining pīti as success, the win, and the wow factor that conditions sukha."
     }
   ],
   "translation_policy": {
