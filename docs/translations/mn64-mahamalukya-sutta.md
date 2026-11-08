@@ -11,10 +11,10 @@
 - House choices that most affect this sutta: `saṃyojana` is rendered `fetter`;
   `orambhāgiya-saṃyojana` is rendered `lower fetter`; `anusaya` is rendered
   `underlying tendency`; `sakkāyadiṭṭhi` is rendered `identity view`;
-  `vicikicchā` is rendered `uncertain distraction`; `sīlabbata-parāmāsa` is
+  `vicikicchā` is rendered `doubt`; `sīlabbata-parāmāsa` is
   rendered `grasping at habits and observances`; `kāmacchanda` is rendered
-  `sensual distraction`; `kāma-rāga` is rendered `passion for sensuality`;
-  `byāpāda` is rendered `aversive distraction`; `jhāna` is rendered `mental
+  `sensual desire`; `kāma-rāga` is rendered `passion for sensuality`;
+  `byāpāda` is rendered `ill will`; `jhāna` is rendered `mental
   theme`; `viññāṇa` is rendered `knowing`; `amata` is rendered `deathless`;
   `nibbāna` remains untranslated; `cetovimutti` is rendered `release of mind`;
   and `paññāvimutti` is rendered `release through discernment`.
@@ -54,14 +54,14 @@ When this was said, Venerable Mālukyaputta said to the Buddha:
 
 "Bhante, I remember identity view as a lower fetter taught by the Buddha.
 
-I remember uncertain distraction as a lower fetter taught by the Buddha.
+I remember doubt as a lower fetter taught by the Buddha.
 
 I remember grasping at habits and observances as a lower fetter taught by
 the Buddha.
 
-I remember sensual distraction as a lower fetter taught by the Buddha.
+I remember sensual desire as a lower fetter taught by the Buddha.
 
-I remember aversive distraction as a lower fetter taught by the Buddha.
+I remember ill will as a lower fetter taught by the Buddha.
 
 That is how, Bhante, I remember the five lower fetters taught by the Buddha."
 
@@ -79,7 +79,7 @@ how could identity view arise in that child?
 Yet the underlying tendency toward identity view lies underneath.
 
 A young, tender infant lying on its back does not even have dhammas. So how
-could uncertain distraction about dhammas arise in that child?
+could doubt about dhammas arise in that child?
 
 Yet the underlying tendency toward doubt lies underneath.
 
@@ -90,14 +90,14 @@ Yet the underlying tendency toward grasping at habits and observances lies
 underneath.
 
 A young, tender infant lying on its back does not even have sensualities. So
-how could sensual distraction regarding sensualities arise in that child?
+how could sensual desire regarding sensualities arise in that child?
 
 Yet the underlying tendency toward sensual passion lies underneath.
 
 A young, tender infant lying on its back does not even have beings. So how
-could aversive distraction toward beings arise in that child?
+could ill will toward beings arise in that child?
 
-Yet the underlying tendency toward aversive distraction lies underneath.
+Yet the underlying tendency toward ill will lies underneath.
 
 Wouldn't wanderers of other traditions challenge you with this simile of a
 tender infant?"
@@ -128,11 +128,11 @@ When identity view has arisen, that person does not discern its escape as it
 has come to be. For that person, identity view is firmly established, not
 brought under training, a lower fetter.
 
-That person lives with a heart overwhelmed by uncertain distraction,
-possessed by uncertain distraction.
+That person lives with a heart overwhelmed by doubt,
+possessed by doubt.
 
-When uncertain distraction has arisen, that person does not discern its escape
-as it has come to be. For that person, uncertain distraction is firmly
+When doubt has arisen, that person does not discern its escape
+as it has come to be. For that person, doubt is firmly
 established, not brought under training, a lower fetter.
 
 That person lives with a heart overwhelmed by grasping at habits and
@@ -150,11 +150,11 @@ When passion for sensuality has arisen, that person does not discern its
 escape as it has come to be. For that person, passion for sensuality is firmly
 established, not brought under training, a lower fetter.
 
-That person lives with a heart overwhelmed by aversive distraction,
-possessed by aversive distraction.
+That person lives with a heart overwhelmed by ill will,
+possessed by ill will.
 
-When aversive distraction has arisen, that person does not discern its escape
-as it has come to be. For that person, aversive distraction is firmly
+When ill will has arisen, that person does not discern its escape
+as it has come to be. For that person, ill will is firmly
 established, not brought under training, a lower fetter.
 
 ### The Learned Noble Disciple
@@ -169,11 +169,11 @@ When identity view has arisen, that disciple discerns its escape as it has
 come to be. For that disciple, identity view is abandoned together with its
 underlying tendency.
 
-That disciple does not live with a heart overwhelmed by uncertain
-distraction, or possessed by uncertain distraction.
+That disciple does not live with a heart overwhelmed by
+doubt, or possessed by doubt.
 
-When uncertain distraction has arisen, that disciple discerns its escape as it
-has come to be. For that disciple, uncertain distraction is abandoned together
+When doubt has arisen, that disciple discerns its escape as it
+has come to be. For that disciple, doubt is abandoned together
 with its underlying tendency.
 
 That disciple does not live with a heart overwhelmed by grasping at
@@ -190,11 +190,11 @@ When passion for sensuality has arisen, that disciple discerns its escape as
 it has come to be. For that disciple, passion for sensuality is abandoned
 together with its underlying tendency.
 
-That disciple does not live with a heart overwhelmed by aversive
-distraction, or possessed by aversive distraction.
+That disciple does not live with a heart overwhelmed by ill
+will, or possessed by ill will.
 
-When aversive distraction has arisen, that disciple discerns its escape as it
-has come to be. For that disciple, aversive distraction is abandoned together
+When ill will has arisen, that disciple discerns its escape as it
+has come to be. For that disciple, ill will is abandoned together
 with its underlying tendency.
 
 ### The Path Cannot Be Skipped

@@ -6,7 +6,9 @@
   "literal_meaning": "good friend",
   "preferred_translation": "good friend",
   "alternative_translations": [
-    "admirable friend"
+    "admirable friend",
+    "noble friend",
+    "spiritual friend"
   ],
   "discouraged_translations": [
     "guru"
@@ -20,5 +22,14 @@
     "core-practice",
     "persons"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Dhammarato's talks describe the kalyāṇamitta as a noble friend or spiritual friend, \"just friends\" rather than a guru; both are recorded as alternates.",
+  "authority_basis": [
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "gloss",
+      "scope": "Supports noble friend and spiritual friend as alternates and the anti-guru framing."
+    }
+  ]
 }

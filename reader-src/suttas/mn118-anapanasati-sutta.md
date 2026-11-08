@@ -7,7 +7,7 @@
 
 *MN 118, the Ānāpānasati Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,002 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,010 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -152,8 +152,8 @@ Heart trainings:
   'Breathing out, I will experience the heart.'
 - They train: 'Breathing in, I will gladden the heart.' They train:
   'Breathing out, I will gladden the heart.'
-- They train: 'Breathing in, I will bring the heart to composure.' They train:
-  'Breathing out, I will bring the heart to composure.'
+- They train: 'Breathing in, I will bring the heart to unification of mind.' They train:
+  'Breathing out, I will bring the heart to unification of mind.'
 - They train: 'Breathing in, I will free the heart.' They train:
   'Breathing out, I will free the heart.'
 
@@ -192,7 +192,7 @@ in relation to felt experience, ardent, with clear knowing, with remembering,
 having removed coveting and distress regarding the world.
 
 "Whenever a bhikkhu trains in experiencing the heart, or gladdening the
-heart, or bringing the heart to composure, or freeing the
+heart, or bringing the heart to unification of mind, or freeing the
 heart, then they remain observing the heart in relation to the heart, ardent,
 with clear knowing, with remembering, having removed coveting and
 distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
@@ -243,10 +243,10 @@ relaxation awakening factor is aroused. They develop it, and it comes to
 fulfillment through development.
 
 "When the body is relaxed and they experience ease, the heart comes to
-composure. Then the awakening factor of composure is aroused.
+unification of mind. Then the awakening factor of unification is aroused.
 They develop it, and it comes to fulfillment through development.
 
-"They then look carefully with dynamic balance at that well-composed heart.
+"They then look carefully with dynamic balance at that well-unified heart.
 Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 
@@ -275,7 +275,7 @@ as to fulfill knowledge and release?
   quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
-- the awakening factor of composure, based on seclusion, based on
+- the awakening factor of unification, based on seclusion, based on
   fading, based on quenching, culminating in relinquishment;
 - the dynamic balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.
@@ -287,7 +287,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (35)</summary>
+<summary>Words used in this translation (36)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -307,8 +307,6 @@ Buddha had said.
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn></dt>
@@ -320,7 +318,7 @@ Buddha had said.
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
@@ -336,7 +334,7 @@ Buddha had said.
 <dt><dfn>kindness towards others</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;karuṇā&quot; (often translated &quot;compassion&quot;) -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -346,7 +344,7 @@ Buddha had said.
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>relaxation</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
 <dt><dfn>relinquishment</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>remembering</dfn></dt>
@@ -357,18 +355,21 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>spontaneously reborn</dfn></dt>
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn118/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn118-anapanasati-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-09-12 · body version `bad084d4`
+- **Last editorial review:** 2026-11-08 · body version `ac497000`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20118) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -393,13 +394,12 @@ Buddha had said.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
@@ -407,15 +407,17 @@ Buddha had said.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

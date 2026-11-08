@@ -4,9 +4,13 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "placing together or bringing into accord",
-  "preferred_translation": "composure",
+  "preferred_translation": "unification of mind",
   "alternative_translations": [
+    "unification",
+    "unified mind",
+    "composure",
     "collectedness",
+    "integration",
     "inner accord",
     "mental equilibrium",
     "stillness of mind",
@@ -14,17 +18,26 @@
   ],
   "discouraged_translations": [
     "concentration",
-    "absorption",
-    "unification of mind"
+    "absorption"
   ],
   "untranslated_preferred": false,
-  "definition": "The thinking mind and the heart collected into accord: a settled, coherent, workable condition in which they no longer pull against each other and the mind is fit for practice.",
-  "notes": "The project prefers composure as the plain-English default for samādhi. The word names the resulting condition: the thinking mind and the heart are collected together and working in accord rather than pulling in conflicting directions. Collectedness can explain how the mind gathers, while inner accord can explain the absence of cognitive-affective conflict; neither should compete with composure as the repeated translation. Dhammarato-facing and OSF-facing materials strongly reject concentration and support a practical, workable handling of samādhi, and What Is And Is Not The Path reinforces that same anti-concentration framing. Generic samādhi can be wider than the noble path factor, but this repository keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader composure family. Related formula terms such as cetaso ekodibhāva may still use unification-of-mind language where the Pali explicitly says that; that does not govern samādhi itself. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or distraction-clearing contexts.",
+  "definition": "The mind gathered together and unified: the thinking mind and the heart collected into one organized, workable whole instead of being at war with each other, so that the mind is fit for practice.",
+  "notes": "The project uses unification of mind as the default for samādhi because that is how Dhammarato teaches the word across the 2014–2026 talk transcripts: about six hundred uses of unification of mind and two hundred of unified mind, against a handful of composure. His explanations stay consistent: samādhi is gathering everything together, getting the factors together, having the mind organized and unified rather than at war with itself, and \"the word Samadhi does not mean concentration.\" Unification here names that gathering-together and integration; it does not mean narrowing attention onto one point, and translators should not let it be heard as focus or one-pointedness. What Is And Is Not The Path reinforces the same anti-concentration framing. Composure, the former house default drawn from the Dhammarato quotes draft, remains a continuity alternate. Collectedness can explain how the mind gathers, integration can explain the parts working as one, and inner accord can explain the absence of cognitive-affective conflict; none should compete with unification of mind as the repeated translation. In compounds and short repeated lists the compact form unification may stand for the headword, as in faculty of unification or strength of unification. Generic samādhi can be wider than the noble path factor, but this repository keeps one distinction explicit: ariya sammā samādhi is the first, second, third, and fourth jhāna, whereas the headword samādhi remains the broader unification family. The second-jhāna formula phrase cetaso ekodibhāva is now governed separately as singleness of mind, so the formula does not read unification of mind born of unification of mind. Core compounds such as sammāsamādhi should normally inherit the headword policy unless they explicitly document a narrower reason to differ. Translators should not let concentration return as an unstated default in path-factor, jhāna, or hindrance-clearing contexts.",
   "context_rules": [
     {
       "context": "In most OSF translations and practical instruction",
+      "rendering": "unification of mind",
+      "notes": "Use this as the OSF house default, following Dhammarato's teaching usage."
+    },
+    {
+      "context": "In compounds and short repeated lists where the full phrase would be heavy",
+      "rendering": "unification",
+      "notes": "Use the compact form only where the compound or list already makes the mental reference clear."
+    },
+    {
+      "context": "In continuity with earlier OSF publications or translations made before the 2026 revision",
       "rendering": "composure",
-      "notes": "Use this as the OSF house default."
+      "notes": "Retained as a continuity alternate; do not introduce it in new translation work."
     },
     {
       "context": "In prose emphasizing the gathered quality of mind",
@@ -32,9 +45,14 @@
       "notes": "Use as an explanatory alternate when the gathering-together process needs emphasis."
     },
     {
+      "context": "In explanatory prose emphasizing that the parts of the mind work as one",
+      "rendering": "integration",
+      "notes": "Dhammarato's own explanatory word; use to explain unification, not to replace it in sutta prose."
+    },
+    {
       "context": "In explanatory prose emphasizing that the thinking mind and heart are no longer in conflict",
       "rendering": "inner accord",
-      "notes": "Use to explain composure, not as the repeated translation in sutta prose."
+      "notes": "Use to explain unification of mind, not as the repeated translation in sutta prose."
     },
     {
       "context": "In older source profiles that use a different teaching idiom",
@@ -48,7 +66,7 @@
     },
     {
       "context": "When distinguishing the broad headword from ariya sammā samādhi as the path factor",
-      "rendering": "composure",
+      "rendering": "unification of mind",
       "notes": "Keep the generic headword broader, while the noble path factor is governed under sammā-samādhi as the four jhānas."
     }
   ],
@@ -90,13 +108,13 @@
   "example_phrases": [
     {
       "pali": "sammāsamādhi",
-      "translation": "right composure",
+      "translation": "right unification of mind",
       "notes": "Key doctrinal compound under OSF house style.",
       "source": "MN 44"
     },
     {
       "pali": "yā kho, āvuso visākha, cittassa ekaggatā ayaṁ samādhi",
-      "translation": "directness of the heart, friend Visākha, is composure",
+      "translation": "directness of the heart, friend Visākha, is unification of mind",
       "notes": "MN 44's own definition of the term. The participle samāhita does not occur in this sutta.",
       "source": "MN 44"
     }
@@ -112,22 +130,28 @@
     {
       "source": "Dhammarato quotes draft",
       "priority": "osf-house",
-      "kind": "preferred-translation",
-      "scope": "Supports rejecting concentration and treating samādhi as a workable, practical quality of mind."
+      "kind": "rationale",
+      "scope": "Supports rejecting concentration and treating samādhi as a workable, practical quality of mind; its earlier composure default is kept as a continuity alternate."
     },
     {
       "source": "What Is And Is Not The Path",
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Supports rejection of concentration as the governing frame."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports unification of mind as the default: roughly 600 uses of unification of mind and 200 of unified mind across 2,063 talks, always explained as gathering together and integration rather than concentration."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use composure in most path-factor and practice contexts.",
+    "default_scope": "Use unification of mind in most path-factor and practice contexts, and the compact unification in compounds.",
     "when_not_to_apply": "Do not revert to concentration or absorption unless explicitly discussing outside terminology or source-specific framing.",
     "compound_inheritance": "inherit",
-    "drift_risk": "Prevents path and jhāna language from drifting back toward concentration."
+    "drift_risk": "Prevents path and jhāna language from drifting back toward concentration, and prevents unification from being heard as one-pointed focus."
   },
   "status": "stable",
-  "version_notes": "Shortened the former two-word house default to composure and defined it as the thinking mind and heart collected into accord, while keeping the anti-concentration policy stable."
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: unification of mind replaces composure as the default, with composure kept as a continuity alternate and the anti-concentration policy unchanged."
 }

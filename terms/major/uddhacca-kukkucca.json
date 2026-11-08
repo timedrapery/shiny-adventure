@@ -4,31 +4,37 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "restlessness-and-remorse",
-  "preferred_translation": "agitated distraction",
+  "preferred_translation": "restlessness and worry",
   "alternative_translations": [
+    "agitated distraction",
     "restlessness and remorse"
   ],
   "discouraged_translations": [
     "anxiety"
   ],
   "untranslated_preferred": false,
-  "definition": "Distraction through agitation, unsettledness, and regretful mental churn.",
-  "notes": "The project prefers agitated distraction within the nīvaraṇa framework because the term names a disturbance of collectedness more than a generic diagnosis. Restlessness and remorse remains acceptable in explanatory prose where the standard pair is more informative. The term should be heard as churned-up instability that prevents inner settling. The OSF glossary confirms agitated distraction as the house default inside the five-distractions framework and preserves restlessness and remorse as the explanatory alternate.",
+  "definition": "A hindrance of agitation, unsettledness, and regretful mental churn.",
+  "notes": "The project uses restlessness and worry as the default for this hindrance because that is how Dhammarato names it throughout the 2014–2026 talk transcripts (restlessness and worry about three times as often as restlessness and remorse, against no uses of agitated distraction); restlessness matches uddhacca, and worry is kukkucca's recorded alternate; restlessness and remorse stays as the alternate that follows the members' own defaults. It names churned-up instability that prevents inner settling. Agitated distraction, the earlier house default built on the OSF glossary's distraction family, remains the alternate where continuity with earlier OSF material matters. The family label is now hindrance (nīvaraṇa), and the five members are named the way Dhammarato names them. Compounds built on this pair inherit the same name unless a narrower compound record documents an override.",
   "context_rules": [
     {
-      "context": "In the five-distractions framework",
-      "rendering": "agitated distraction",
-      "notes": "Use this by default."
+      "context": "In the five-hindrances framework",
+      "rendering": "restlessness and worry",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     },
     {
       "context": "In explanatory prose clarifying the two-part compound",
       "rendering": "restlessness and remorse",
-      "notes": "Use this as a controlled alternate when the standard pair is clearer."
+      "notes": "Use where the line should follow the members' own defaults, restlessness (uddhacca) and remorse (kukkucca)."
     },
     {
-      "context": "When the passage emphasizes unsettledness as a disturbance of composure",
+      "context": "In continuity with earlier OSF material that uses the distraction-family names",
       "rendering": "agitated distraction",
-      "notes": "Keep the practical meditative disturbance in view."
+      "notes": "Use as the alternate that keeps the earlier OSF distraction-family naming, where continuity with earlier OSF material matters."
+    },
+    {
+      "context": "When the passage emphasizes unsettledness as a disturbance of unification of mind",
+      "rendering": "restlessness and worry",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     }
   ],
   "related_terms": [
@@ -42,7 +48,7 @@
   "example_phrases": [
     {
       "pali": "uddhaccakukkuccanīvaraṇa",
-      "translation": "the agitated distraction",
+      "translation": "the restlessness and worry",
       "notes": "Shows the standard fivefold-list member.",
       "source": "DN 2"
     },
@@ -67,14 +73,21 @@
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "gloss",
-      "scope": "Supports keeping agitated distraction as the house default inside the five-hindrances framework, with restlessness and remorse retained as the explanatory alternate."
+      "kind": "rationale",
+      "scope": "Supported agitated distraction as the earlier house default inside the five-distractions framework; it is kept as the alternate after the 2026 revision."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports restlessness and worry as the default name for this hindrance (restlessness and worry about three times as often as restlessness and remorse; no uses of agitated distraction)."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'agitated distraction' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'restlessness and worry' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift back toward 'anxiety' or other unrecorded alternates."
-  }
+  },
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: restlessness and worry replaces agitated distraction as the default, which stays as the alternate."
 }

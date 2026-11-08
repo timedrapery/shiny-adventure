@@ -9,7 +9,7 @@ It is not a general essay. It exists to keep translators from collapsing distinc
 | --- | --- | --- | --- |
 | `kilesa` | `defilement` | Broad afflictive or defiling family | every narrower bondage term |
 | `upakkilesa` | `corruption` | Narrower corruption or stain within the defilement field | every `kilesa`, every `nīvaraṇa` |
-| `nīvaraṇa` | `distraction` | Actively obstructive state that covers over clarity in practice | generic problem-state, latent residue |
+| `nīvaraṇa` | `hindrance` | Actively obstructive state that covers over clarity in practice | generic problem-state, latent residue |
 | `anusaya` | `underlying tendency` | Latent persistence lying underneath experience | habit, instinct, active hindrance |
 | `saṃyojana` | `fetter` | Binding factor tying one to continued becoming | vague attachment |
 | `āsava` | `outflow` | Deep corruptive outflow that keeps contamination running on | generic defilement, mere tendency |

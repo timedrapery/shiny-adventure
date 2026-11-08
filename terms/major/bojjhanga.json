@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A factor cultivated and balanced in the process of awakening, classically enumerated as seven.",
-  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way. The OSF glossary likewise treats bojjhaṅga as a practical development framework rather than a static label, which supports the current handling.",
+  "notes": "The project keeps awakening factor as the default because it is clear, contemporary, and aligned with the house preference for awakening over enlightenment. The entry should function as the heading for the seven-member framework rather than as a thin synonym list. In practice the term carries a training implication: these factors are developed, balanced, and brought to maturity, not merely possessed. Factor of awakening remains available when the English line reads better that way. The OSF glossary likewise treats bojjhaṅga as a practical development framework rather than a static label, which supports the current handling. Dhammarato's talks add a practical rule for the framework: a path quality becomes an awakening factor when it becomes unremitting (\"the only word that is changed to make it an enlightenment factor is the word unremitting\"), so remembering, investigation, and the rest are taught as unremitting remembering, unremitting investigation, and so on. Unremitting here means returning again and again like a drumbeat, not an unbroken state.",
   "context_rules": [
     {
       "context": "In most doctrinal and practical contexts",
@@ -87,6 +87,12 @@
       "priority": "osf-house",
       "kind": "rationale",
       "scope": "Named in notes as support for the current bojjhaṅga policy."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Supports explaining the awakening factors as the unremitting form of the path qualities, in the sense of returning again and again."
     }
   ],
   "translation_policy": {

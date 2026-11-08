@@ -10,7 +10,7 @@
   data.
 - Not to be confused with [SN 46.51](sn46-51-ahara-sutta.md), which is also
   titled Āhāra Sutta but is a different discourse, about what feeds and starves
-  the distractions and the awakening factors. This surface is the first in the
+  the hindrances and the awakening factors. This surface is the first in the
   repository where the four nutriments are the subject rather than a simile,
   so it is the first to use the `āhāra` headword default `nutriment` rather
   than a local override.

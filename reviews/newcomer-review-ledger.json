@@ -111,11 +111,12 @@
     "an3_65": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/an3-65-kesamutta-sutta-notes.md",
-        "body_sha256": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
-        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/an3-65-kesamutta-sutta-notes.md",
+          "note": "Signed off against an earlier body. The 2026-11-08 hindrance ruling changed aversive distraction to ill will in the noble disciple's description, so the sign-off no longer matches the published text. Reassess the changed lines against the Pali."
+        }
       },
       "human_read_aloud": {
         "status": "pending",
@@ -126,11 +127,12 @@
     "sn56_11": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md",
-        "body_sha256": "7be7a57e337b8d536d1419f8e7e7f19921596cfd5edf416a29127114890f0a89",
-        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md",
+          "note": "Signed off on 2026-08-24 against an earlier body. The 2026-11-08 samādhi ruling changed right composure to right unification of mind in the path list, so the sign-off no longer matches the published text. Reassess the changed lines against the Pali."
+        }
       },
       "human_read_aloud": {
         "status": "pending",

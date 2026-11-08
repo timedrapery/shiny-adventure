@@ -144,6 +144,7 @@ do not override live term records or normative policy docs.
 - [`what-is-and-is-not-the-path-profile.md`](what-is-and-is-not-the-path-profile.md)
 - [`dhammarato-quotes-profile.md`](dhammarato-quotes-profile.md)
 - [`dhammarato-chanting-profile.md`](dhammarato-chanting-profile.md)
+- [`dhammarato-talk-transcripts-profile.md`](dhammarato-talk-transcripts-profile.md)
 - [`buddhadasa-usage-profile.md`](buddhadasa-usage-profile.md)
 - [`idappaccayata-practical-talk-profile.md`](idappaccayata-practical-talk-profile.md)
 - [`punnaji-usage-profile.md`](punnaji-usage-profile.md)

@@ -26,7 +26,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   non-harming`.
 - Those six compounds are now also explicit supporting minor records in the
   repo rather than remaining document-only translation decisions.
-- `samādhi` remains `composure`.
+- `samādhi` is now `unification of mind`.
 - `ekaggatā` family language in this discourse remains governed by
   `directness`, not one-pointedness.
 - `jhāna` remains `mental theme`.
@@ -50,10 +50,10 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `satikaraṇīyameva ahosi: ete dhammā` is rendered `I only needed to remember:
   'These dhammas are here.'` The line is kept tied to remembering-language
   rather than recast as bare awareness.
-- `samāhitaṁ cittaṁ ekaggaṁ` is rendered `the heart was well-composed
+- `samāhitaṁ cittaṁ ekaggaṁ` is rendered `the heart was well-unified
   and direct` so the line stays aligned with current repo handling of
   `samādhi` and `ekaggatā`.
-- The three-knowledges section now uses `With the heart well-composed
+- The three-knowledges section now uses `With the heart well-unified
   ...` as its repeated cadence so the stock formula remains
   visible without sounding mechanically copied.
 - `vimuttasmiṁ vimuttamiti ñāṇaṁ ahosi` is rendered `When it was freed, there
@@ -76,10 +76,10 @@ translation choices, source-audit calls, and edition notes that govern it.
   and cultivates.
 - The second half of the discourse is equally important. Once wholesome
   thinking is established, the training is not endless discursiveness. The
-  heart is stilled, settled, made direct, and brought into composure.
+  heart is stilled, settled, made direct, and brought into unification of mind.
 - The first mental theme is therefore not treated in this repository as a
   separate trance system disconnected from right thinking. In MN 19 the line
-  runs from ethical sorting of thinking to gatheredness, composure,
+  runs from ethical sorting of thinking to gatheredness, unification of mind,
   directness, and the fourfold jhāna sequence.
 - The final exhortation to `jhāyatha` is consequently kept practical. The
   Buddha is not telling the bhikkhus to vanish into a mystical state. He is
@@ -94,6 +94,19 @@ translation choices, source-audit calls, and edition notes that govern it.
 - This companion file should preserve rationale for contested renderings,
   source-audit judgments, and future edition decisions rather than repeat the
   main file line by line.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Edition Status
 

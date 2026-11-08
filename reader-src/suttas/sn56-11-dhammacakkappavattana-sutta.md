@@ -7,7 +7,7 @@
 
 *SN 56.11, the Dhammacakkappavattana Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,221 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,225 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -56,7 +56,7 @@ The four truths are not presented as four beliefs to memorize. The repeated sect
 <dt><dfn>noble truth</dfn></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 </dl>
 
 </div>
@@ -102,7 +102,7 @@ It is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 This is the middle path of practice awakened to by the Tathāgata, which gives
 vision, gives knowledge, and leads to peace, higher knowing, awakening, and
@@ -151,7 +151,7 @@ it is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 ### The Three Turnings
 
@@ -306,7 +306,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>noble truth</dfn></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>path of practice</dfn></dt>
@@ -317,8 +317,6 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -327,6 +325,8 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
@@ -337,12 +337,11 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn56.11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `7be7a57e`
+- **Last editorial review:** 2026-11-08 · body version `eb6d3157`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -371,17 +370,17 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[noble truth]: One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

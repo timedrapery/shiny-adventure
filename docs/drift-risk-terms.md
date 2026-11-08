@@ -39,7 +39,7 @@ Risk: The term is frequently narrowed or inflated by English preferences such as
 
 ### `samādhi`
 
-Risk: This term is often translated as `concentration`, but the repository prefers `composure`. Drift in `samādhi` propagates directly into path factors and meditation-family compounds.
+Risk: This term is often translated as `concentration`, but the repository prefers `unification of mind`, in the sense of gathering together rather than one-pointed focus. Drift in `samādhi` propagates directly into path factors and meditation-family compounds.
 
 ### `saññā`
 

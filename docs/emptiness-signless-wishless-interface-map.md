@@ -41,7 +41,7 @@ release-side family.
 - `appaṇihita` governs not placing desire or projection toward an outcome.
 - None of the three should be used as premature bypass language detached from training.
 - Practice-facing explanation may connect them with gladdening the mind,
-  hindrance-clearing, composure, and release, but should not erase their distinct functions.
+  hindrance-clearing, unification of mind, and release, but should not erase their distinct functions.
 
 ## Translator Guardrails
 

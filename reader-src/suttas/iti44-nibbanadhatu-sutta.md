@@ -112,7 +112,7 @@ The seventh discourse is finished.
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>nibbāna</dfn></dt>
@@ -129,11 +129,10 @@ The seventh discourse is finished.
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/iti44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/iti44-nibbanadhatu-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
 - **Last editorial review:** 2026-08-23 · body version `bc0e4a36`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Iti%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
@@ -157,7 +156,7 @@ The seventh discourse is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

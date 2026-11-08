@@ -3,12 +3,12 @@
   "normalized_term": "sunnata-samadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "composure that comes forth from emptiness",
+  "preferred_translation": "unification that comes forth from emptiness",
   "alternative_translations": [
-    "composure that comes forth from voidness",
-    "emptiness composure"
+    "unification that comes forth from voidness",
+    "emptiness unification"
   ],
-  "definition": "Composure governed by, or coming forth from, the emptiness side of the emptiness / signless / wishless family.",
+  "definition": "Unification governed by, or coming forth from, the emptiness side of the emptiness / signless / wishless family.",
   "notes": "Keep this compound tied to suññatā as emptiness rather than treating it as interchangeable with signless or wishless compounds. This repository now prefers a fuller English rendering here so the compound does not read like a frozen technical label detached from practice. The compound inherits the headword's anti-nihilist and anti-mystifying policy, and voidness remains a controlled alternate when the Buddhadasa-line idiom itself is doing explanatory work.",
   "related_terms": [
     "sunnata"
@@ -19,5 +19,6 @@
     "liberation",
     "meditative-development",
     "emptiness-interface"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form."
 }

@@ -25,7 +25,7 @@ records whose only citation anchor was an untranslated text.
 
 The gap was easy to miss because
 [SN 46.51](sn46-51-ahara-sutta.md) is also titled Āhāra Sutta and was already
-translated. That discourse is about what feeds and starves the distractions and
+translated. That discourse is about what feeds and starves the hindrances and
 the awakening factors, and it deliberately renders `āhāra` with a local
 feeding-and-starving idiom rather than the headword default. The consequence
 was that `nutriment`, the `āhāra` headword's own default rendering, appeared in
@@ -105,6 +105,16 @@ finally governs running text.
   nutriments?` has already been answered once the answer reaches ignorance.
   The four nutriments are not a separate teaching bolted onto dependent
   arising; they are an entry point into it.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`. The five named members now use Dhammarato's
+  names as well: `sensual desire`, `ill will`, `sloth and torpor`,
+  `restlessness and worry`, and `doubt`.
 
 ## Readability Review
 

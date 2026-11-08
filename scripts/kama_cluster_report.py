@@ -86,7 +86,7 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
     warnings: list[str] = []
     expected = {
         "kama": "sensuality",
-        "kamacchanda": "sensual distraction",
+        "kamacchanda": "sensual desire",
         "kama-tanha": "ignorant wanting for sensuality",
         "kama-raga": "passion for sensuality",
         "kamupadana": "taking sensuality personally",
@@ -158,7 +158,7 @@ def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
         "## Keep Distinct",
         "",
         "- `kāma` is the sensual domain, not generic desire and not automatically sexual.",
-        "- `kāmacchanda` is sensuality functioning as distraction, not plain desire or wholesome motivation.",
+        "- `kāmacchanda` is sensuality functioning as a hindrance, not plain desire or wholesome motivation.",
         "- `kāmataṇhā` is ignorant wanting for sensuality, not just pleasure-seeking language.",
         "- `kāma-rāga` is passion for sensuality, not a synonym for lust by default.",
         "- `kāmupādāna` is taking sensuality personally, not merely attachment to pleasure.",

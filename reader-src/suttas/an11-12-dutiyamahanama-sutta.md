@@ -7,7 +7,7 @@
 
 *AN 11.12, the Dutiyamahānāma Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 547 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 549 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -33,7 +33,7 @@ What can someone remember and develop while working, moving around, and living a
 
 ### Main point
 
-Stand on confidence, energy, remembering, composure, and discernment. Then repeatedly remember examples of awakening, teaching, community, conduct, generosity, and good qualities until the heart straightens, brightens, relaxes, and becomes composed.
+Stand on confidence, energy, remembering, unification of mind, and discernment. Then repeatedly remember examples of awakening, teaching, community, conduct, generosity, and good qualities until the heart straightens, brightens, relaxes, and becomes composed.
 
 ### Reading tip
 
@@ -51,8 +51,8 @@ The text does not restrict practice to formal meditation, solitude, or monastic 
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
@@ -96,7 +96,7 @@ People who have aroused their energy succeed; lazy people do not.
 
 People who keep remembering succeed; forgetful people do not.
 
-People who are composed succeed; uncomposed people do not.
+People who are unified succeed; ununified people do not.
 
 People with discernment succeed; people without discernment do not.
 
@@ -124,7 +124,7 @@ Remember the Saṅgha:
 > reverential greeting—the unsurpassed field of merit for the world.
 
 Remember your own conduct: conduct that is unbroken, intact, spotless, and
-freeing; praised by the wise, not clung to, and leading to composure.
+freeing; praised by the wise, not clung to, and leading to unification of mind.
 
 Remember your own generosity:
 
@@ -150,7 +150,7 @@ the Dhamma. An actively happy state connected with the Dhamma arises.
 
 From that active gladness comes rejoicing. With a rejoicing heart, the body
 relaxes. A relaxed body feels satisfaction. With satisfaction, the heart
-becomes composed.
+becomes unified.
 
 ### Practice Anywhere
 
@@ -175,8 +175,6 @@ The second discourse is finished.
 <dd>One of the Buddha&#x27;s traditional titles, used respectfully in place of his name in these texts.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conduct</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -193,18 +191,19 @@ The second discourse is finished.
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an11.12/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an11-12-dutiyamahanama-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-25 · body version `cfb1ca44`
+- **Last editorial review:** 2026-11-08 · body version `fae0dd24`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2011.12) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -226,7 +225,6 @@ The second discourse is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
@@ -235,4 +233,5 @@ The second discourse is finished.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

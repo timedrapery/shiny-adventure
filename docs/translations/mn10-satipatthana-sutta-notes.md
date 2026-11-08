@@ -28,8 +28,8 @@ source-audit calls, and edition notes that govern it.
 - `citta` remains `heart`.
 - `dhamma` remains untranslated in `dhammānupassanā`.
 - The five `nīvaraṇa` members follow the current repo family language:
-  `sensual distraction`, `aversive distraction`, `dull distraction`,
-  `agitated distraction`, and `uncertain distraction`.
+  `sensual desire`, `ill will`, `sloth and torpor`,
+  `restlessness and worry`, and `doubt`.
 - The opening `ekāyano ayaṁ ... maggo` line is governed here as `direct path`,
   not as an uncontrolled `the only way` slogan.
 - The MN 10 opening line and the repeated practical qualifier line are now
@@ -54,7 +54,7 @@ source-audit calls, and edition notes that govern it.
   for remembering ... does not take anything in the world personally.` It is
   not treated as a metaphysical existence statement.
 - The citta-state list now uses `contracted / scattered`, `expanded /
-  unexpanded`, `surpassable / unsurpassable`, `composed / uncomposed`, and
+  unexpanded`, `surpassable / unsurpassable`, `unified / ununified`, and
   `released / unreleased`. Those choices fit the current house voice, but they
   are still more translation-local than the stronger cluster-governed families.
 - `dhammesu dhammānupassī viharati` remains `one remains observing dhammas
@@ -96,9 +96,25 @@ source-audit calls, and edition notes that govern it.
 - The citta-state adjectives in the mind section would benefit from fuller
   upstream term support if more translations begin to depend on them.
 - If later translations lean more heavily on the dhammānupassanā list-families,
-  it may be worth adding dedicated phrase records for the five distractions,
+  it may be worth adding dedicated phrase records for the five hindrances,
   six fields, and awakening-factor subsection templates rather than leaving
   those patterns translation-local.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

@@ -11,8 +11,8 @@
 - House choices that most affect this sutta: `sīla` is rendered `conduct`;
   `pāṭimokkha` remains `pāṭimokkha`; `indriyasaṃvara` is rendered `guarding
   the faculties`; `sampajañña` is rendered `clear knowing`; `nīvaraṇa` is
-  rendered `distraction`; `jhāna` is rendered `mental theme`; `samādhi` is
-  rendered `composure`; `pīti` is rendered `rejoicing`; `sukha` is
+  rendered `hindrance`; `jhāna` is rendered `mental theme`; `samādhi` is
+  rendered `unification of mind`; `pīti` is rendered `rejoicing`; `sukha` is
   rendered `satisfaction` in the jhāna sequence; `abhiññā` is rendered `higher
   knowing`; and `āsava` is rendered `outflow`.
 - This edition treats DN 2 as a control passage for the gradual-training
@@ -578,7 +578,7 @@ along.
 
 That is how a bhikkhu is content.
 
-### Clearing the Five Distractions
+### Clearing the Five Hindrances
 
 When a bhikkhu possesses this full range of noble conduct, this noble guarding
 of the faculties, this noble remembering and clear knowing, and this noble
@@ -605,7 +605,7 @@ cleansing the mind of agitation and regret.
 Giving up doubt, they stay having crossed beyond doubt, no longer uncertain
 about wholesome qualities, cleansing the mind of doubt.
 
-As long as these five distractions have not been abandoned within, a bhikkhu
+As long as these five hindrances have not been abandoned within, a bhikkhu
 regards them as:
 
 - a debt
@@ -614,7 +614,7 @@ regards them as:
 - slavery
 - a desert crossing
 
-But when these five distractions have been abandoned within, a bhikkhu
+But when these five hindrances have been abandoned within, a bhikkhu
 regards that as:
 
 - freedom from debt
@@ -623,10 +623,10 @@ regards that as:
 - freedom
 - a place of safety
 
-Seeing that the distractions have been abandoned, gladness arises. For someone
+Seeing that the hindrances have been abandoned, gladness arises. For someone
 who is glad, rejoicing arises. When the mind is rejoicing, the body becomes
 calm. When the body is calm, they feel ease. Feeling ease, the mind becomes
-mentally composed.
+mentally unified.
 
 ### The First Mental Theme
 
@@ -652,13 +652,13 @@ life, better and finer than the former ones.
 ### The Second Mental Theme
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, a bhikkhu enters and remains in the second mental theme,
+singleness of mind, a bhikkhu enters and remains in the second mental theme,
 without thinking and pondering, with rejoicing and satisfaction born of
-composure.
+unification.
 
 They drench, steep, fill, and suffuse this very body with rejoicing and
-satisfaction born of composure, so that no part of the whole body
-remains untouched by rejoicing and satisfaction born of composure.
+satisfaction born of unification, so that no part of the whole body
+remains untouched by rejoicing and satisfaction born of unification.
 
 It is like a deep lake fed by spring water, with no inlet from east, west,
 north, or south, and with the heavens not sending rain from time to time; yet
@@ -667,7 +667,7 @@ and suffuses it, so that no part of the whole lake remains untouched by cool
 water.
 
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
-with rejoicing and satisfaction born of composure.
+with rejoicing and satisfaction born of unification.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.
@@ -715,7 +715,7 @@ life, better and finer than the former ones.
 
 ### Knowledge and Seeing
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward knowledge and seeing.
 
@@ -739,7 +739,7 @@ life, better and finer than the former ones.
 
 ### A Mind-Made Body
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward creating a mind-made body.
 
@@ -763,7 +763,7 @@ life, better and finer than the former ones.
 
 ### Psychic Powers
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward psychic power.
 
@@ -790,7 +790,7 @@ life, better and finer than the former ones.
 
 ### The Divine Ear
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the divine ear.
 
@@ -810,7 +810,7 @@ life, better and finer than the former ones.
 
 ### Knowing Others' Minds
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward encompassing the minds of others.
 
@@ -829,8 +829,8 @@ and they understand:
   mind`
 - surpassable mind as `surpassable mind`, and unsurpassable mind as
   `unsurpassable mind`
-- mentally composed mind as `mentally composed mind`, and uncomposed mind as
-  `uncomposed mind`
+- mentally unified mind as `mentally unified mind`, and ununified mind as
+  `ununified mind`
 - freed mind as `freed mind`, and unfreed mind as `unfreed mind`
 
 It is like a young woman or man, youthful and fond of adornment, examining
@@ -846,7 +846,7 @@ life, better and finer than the former ones.
 
 ### Recollecting Past Lives
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward recollecting past lives.
 
@@ -880,7 +880,7 @@ life, better and finer than the former ones.
 
 ### The Divine Eye
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the passing away and reappearance of beings.
 
@@ -914,7 +914,7 @@ life, better and finer than the former ones.
 
 ### The Wearing Away of the Outflows
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the wearing away of the outflows.
 

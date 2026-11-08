@@ -7,7 +7,7 @@
 | chanda | desire | motivation, interest | craving, attachment |
 | rāga | passion | attachment, coloring | lust, desire, craving |
 | nandī | relishing | delighting, taking delight | happiness, pleasure, joy |
-| kāmacchanda | sensual distraction | sensual desire | desire, interest, attraction, lust, pleasant feeling |
+| kāmacchanda | sensual desire | sensual distraction | desire, interest, attraction, lust, pleasant feeling |
 | kāmataṇhā | ignorant wanting for sensuality | sensual craving, craving for sensuality | lust, desire for pleasure, sexual desire |
 | kāma-rāga | passion for sensuality | sensual passion | lust, sexual desire, pleasure |
 | chandarāga | desire and passion | desire with passion | craving, attachment |

@@ -10,15 +10,15 @@
   Bilara data.
 - House choices that most affect this sutta: `ahara` is rendered here with the
   local feeding and starving idiom rather than the headword default
-  `nutriment`; `nivarana` is rendered `distraction`; `kamacchanda` is rendered
-  `sensual distraction`; `byapada` is rendered `aversive distraction`;
-  `thina-middha` is rendered `dull distraction`; `uddhacca-kukkucca` is
-  rendered `agitated distraction`; `vicikiccha` is rendered `uncertain
-  distraction`; `ayoniso manasikara` and `yoniso manasikara` are rendered
+  `nutriment`; `nivarana` is rendered `hindrance`; `kamacchanda` is rendered
+  `sensual desire`; `byapada` is rendered `ill will`;
+  `thina-middha` is rendered `sloth and torpor`; `uddhacca-kukkucca` is
+  rendered `restlessness and worry`; `vicikiccha` is rendered `
+  doubt`; `ayoniso manasikara` and `yoniso manasikara` are rendered
   `unwise attention` and `wise attention`; and the seven `bojjhanga` members
   follow the repository's established awakening-factor renderings.
 - This edition treats SN 46.51 as the repository's control surface for the
-  feeding and starving formulas that connect the five distractions and the
+  feeding and starving formulas that connect the five hindrances and the
   seven awakening factors.
 - This is the first stable study edition of the repository's SN 46.51
   translation surface.
@@ -29,7 +29,7 @@
 
 At Savatthi.
 
-"Bhikkhus, I will explain what feeds and what starves the five distractions and
+"Bhikkhus, I will explain what feeds and what starves the five hindrances and
 the seven awakening factors. Listen carefully and pay close attention. I will
 speak."
 
@@ -37,42 +37,42 @@ speak."
 
 The Buddha said this:
 
-### What Feeds The Distractions
+### What Feeds The Hindrances
 
-"And what feeds the arising of sensual distraction when it has not yet arisen,
+"And what feeds the arising of sensual desire when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
 
 There is the attractive sign. Repeated unwise attention there feeds the arising
-of sensual distraction when it has not yet arisen, or, if it has arisen, its
+of sensual desire when it has not yet arisen, or, if it has arisen, its
 increase and expansion.
 
-"And what feeds the arising of aversive distraction when it has not yet arisen,
+"And what feeds the arising of ill will when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
 
 There is the sign of resistance. Repeated unwise attention there feeds the
-arising of aversive distraction when it has not yet arisen, or, if it has
+arising of ill will when it has not yet arisen, or, if it has
 arisen, its increase and expansion.
 
-"And what feeds the arising of dull distraction when it has not yet arisen, or,
+"And what feeds the arising of sloth and torpor when it has not yet arisen, or,
 if it has arisen, its increase and expansion?
 
 There are discontent, sluggishness, yawning, after-meal drowsiness, and the
 sinking of the heart. Repeated unwise attention there feeds the arising
-of dull distraction when it has not yet arisen, or, if it has arisen, its
+of sloth and torpor when it has not yet arisen, or, if it has arisen, its
 increase and expansion.
 
-"And what feeds the arising of agitated distraction when it has not yet arisen,
+"And what feeds the arising of restlessness and worry when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
 
 There is the heart's unrest. Repeated unwise attention there feeds the
-arising of agitated distraction when it has not yet arisen, or, if it has
+arising of restlessness and worry when it has not yet arisen, or, if it has
 arisen, its increase and expansion.
 
-"And what feeds the arising of uncertain distraction when it has not yet
+"And what feeds the arising of doubt when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
 There are qualities that support uncertainty. Repeated unwise attention there
-feeds the arising of uncertain distraction when it has not yet arisen, or, if
+feeds the arising of doubt when it has not yet arisen, or, if
 it has arisen, its increase and expansion.
 
 ### What Feeds The Awakening Factors
@@ -116,11 +116,11 @@ There are bodily relaxation and relaxation of the heart. Repeated wise
 attention there feeds the arising of the relaxation awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what feeds the arising of the composure awakening factor when it
+"And what feeds the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated wise attention
-there feeds the arising of the composure awakening factor when it has
+there feeds the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what feeds the arising of the dynamic-balance awakening factor when it has
@@ -131,43 +131,43 @@ wise attention there feeds the arising of the dynamic-balance awakening factor
 when it has not yet arisen, or, if it has arisen, its development and
 fulfillment.
 
-### What Starves The Distractions
+### What Starves The Hindrances
 
-"And what starves the arising of sensual distraction when it has not yet
+"And what starves the arising of sensual desire when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
 There is the unattractive sign. Repeated wise attention there starves the
-arising of sensual distraction when it has not yet arisen, or, if it has
+arising of sensual desire when it has not yet arisen, or, if it has
 arisen, its increase and expansion.
 
-"And what starves the arising of aversive distraction when it has not yet
+"And what starves the arising of ill will when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
 There is the liberation of mind through friendliness. Repeated wise attention
-there starves the arising of aversive distraction when it has not yet arisen,
+there starves the arising of ill will when it has not yet arisen,
 or, if it has arisen, its increase and expansion.
 
-"And what starves the arising of dull distraction when it has not yet arisen,
+"And what starves the arising of sloth and torpor when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
 
 There are the energy of getting started, the energy of stepping forward, and
 the energy of pressing on. Repeated wise attention there starves the arising of
-dull distraction when it has not yet arisen, or, if it has arisen, its
+sloth and torpor when it has not yet arisen, or, if it has arisen, its
 increase and expansion.
 
-"And what starves the arising of agitated distraction when it has not yet
+"And what starves the arising of restlessness and worry when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
 There is the settling of the heart. Repeated wise attention there
-starves the arising of agitated distraction when it has not yet arisen, or, if
+starves the arising of restlessness and worry when it has not yet arisen, or, if
 it has arisen, its increase and expansion.
 
-"And what starves the arising of uncertain distraction when it has not yet
+"And what starves the arising of doubt when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
 
 There are qualities that are skillful and unskillful, blameworthy and
 blameless, low and refined, dark and bright counterparts. Repeated wise
-attention there starves the arising of uncertain distraction when it has not
+attention there starves the arising of doubt when it has not
 yet arisen, or, if it has arisen, its increase and expansion.
 
 ### What Starves The Awakening Factors
@@ -212,11 +212,11 @@ There are bodily relaxation and relaxation of the heart. Repeated
 non-attention there starves the arising of the relaxation awakening factor when
 it has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what starves the arising of the composure awakening factor when it
+"And what starves the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated non-attention
-there starves the arising of the composure awakening factor when it has
+there starves the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what starves the arising of the dynamic-balance awakening factor when it

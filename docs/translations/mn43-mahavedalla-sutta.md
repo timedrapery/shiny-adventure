@@ -15,7 +15,7 @@
   `suññatā` is rendered `emptiness`; `animitta` is rendered `signless`;
   `nimitta` is rendered `sign`; `jhāna` is rendered `mental theme`; `saṅkhāra`
   compounds keep the governed `conditioner` family; and the four `nīvaraṇa`
-  are rendered as the four `distraction` compounds.
+  are rendered as the four `hindrance` compounds.
 - This edition treats MN 43 as the control passage for the
   emptiness / signless / wishless interface, for the relation between
   discernment and knowing, and for the four releases of mind that are
@@ -258,8 +258,8 @@ factors does it possess?"
 five factors.
 
 Here, friend, for a bhikkhu who has entered the first mental theme, sensual
-distraction is abandoned, aversive distraction is abandoned, dull distraction
-is abandoned, agitated distraction is abandoned, and uncertain distraction is
+desire is abandoned, ill will is abandoned, sloth and torpor
+is abandoned, restlessness and worry is abandoned, and doubt is
 abandoned;
 
 and there occur thinking, pondering, rejoicing, satisfaction, and directness
@@ -487,7 +487,7 @@ This, friend, is called the release of mind through emptiness.
 And what, friend, is the signless release of mind?
 
 Here, friend, by not attending to any signs, a bhikkhu enters and remains in
-the signless composure of mind.
+the signless unification of mind.
 
 This, friend, is called the signless release of mind.
 

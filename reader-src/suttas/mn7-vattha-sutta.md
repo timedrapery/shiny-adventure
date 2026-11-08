@@ -167,7 +167,7 @@ and relinquished, they think:
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -176,7 +176,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -185,7 +185,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -195,7 +195,7 @@ and relinquished.'
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 ### No Obstacle
 
@@ -338,7 +338,7 @@ And Venerable Bhāradvāja became one of the arahants.
 The seventh discourse, the Vattha Sutta, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (31)</summary>
+<summary>Words used in this translation (32)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -380,6 +380,8 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>kamma</dfn></dt>
 <dd>Intentional action, and the way it shapes what follows. Better known by its Sanskrit form &quot;karma,&quot; and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.</dd>
 <dt><dfn>kindness towards others</dfn></dt>
@@ -406,12 +408,11 @@ The seventh discourse, the Vattha Sutta, is finished.
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn7/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn7-vattha-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `5a7fe259`
+- **Last editorial review:** 2026-11-08 · body version `2676a15d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%207) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -446,6 +447,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

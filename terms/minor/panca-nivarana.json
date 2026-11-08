@@ -3,23 +3,23 @@
   "normalized_term": "panca-nivarana",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "literal_meaning": "five distractions",
-  "preferred_translation": "five distractions",
+  "literal_meaning": "five hindrances",
+  "preferred_translation": "five hindrances",
   "alternative_translations": [
-    "five hindrances"
+    "five distractions"
   ],
   "discouraged_translations": [
     "five problems"
   ],
-  "definition": "The standard fivefold framework of active distractions that obstruct collected practice.",
-  "notes": "This collective entry should inherit the headword policy for nīvaraṇa. Use five distractions as the house default and keep five hindrances only as the controlled alternate for comparative prose.",
+  "definition": "The standard fivefold framework of active hindrances that obstruct collected practice.",
+  "notes": "This collective entry should inherit the headword policy for nīvaraṇa. Use five hindrances as the house default, following Dhammarato's teaching usage, and keep five distractions as the controlled alternate for continuity with earlier OSF material.",
   "related_terms": [
     "nivarana"
   ],
   "example_phrases": [
     {
       "pali": "pañca nīvaraṇā",
-      "translation": "the five distractions",
+      "translation": "the five hindrances",
       "notes": "Standard collective framework expression.",
       "source": "DN 2"
     }
@@ -29,15 +29,16 @@
     "MN 118"
   ],
   "translation_policy": {
-    "default_scope": "Use this as the standard collective label for the five-distraction framework in governed practice and jhana-entry contexts.",
-    "when_not_to_apply": "Do not fall back to hindrances as an unmarked default unless comparative prose explicitly needs it, and do not replace the collective label with ad hoc problem-language.",
+    "default_scope": "Use this as the standard collective label for the five-hindrance framework in governed practice and jhāna-entry contexts.",
+    "when_not_to_apply": "Do not fall back to five distractions as an unmarked default unless continuity with earlier material explicitly needs it, and do not replace the collective label with ad hoc problem-language.",
     "compound_inheritance": "blocked",
-    "drift_risk": "Prevents the governed five-distraction framework from drifting back into mixed hindrance and generic obstacle language."
+    "drift_risk": "Prevents the governed five-hindrance framework from drifting into mixed distraction and generic obstacle language."
   },
   "tags": [
     "core-doctrine",
     "core-practice",
     "translation-sensitive"
   ],
-  "status": "stable"
+  "status": "stable",
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: five hindrances replaces five distractions as the default, following the nīvaraṇa headword."
 }

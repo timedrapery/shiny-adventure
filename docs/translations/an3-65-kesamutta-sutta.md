@@ -192,7 +192,7 @@ why I said it.
 
 ### Friendliness, Kindness, Gladness, and Dynamic Balance
 
-That noble disciple, Kālāmas, free of coveting, free of aversive distraction,
+That noble disciple, Kālāmas, free of coveting, free of ill will,
 unconfused, clearly knowing and remembering, dwells pervading one direction
 with a heart filled with friendliness, likewise the second, likewise the
 third, likewise the fourth — and so above, below, across, everywhere, for all

@@ -20,7 +20,7 @@ choices, source-audit calls, and edition notes that govern it.
 
 - `sammā-saṅkappa` remains `right attitude`.
 - `sammā-sati` remains `right remembering`.
-- `sammā-samādhi` remains `right composure`.
+- `sammā-samādhi` is now `right unification of mind`.
 - `lokiya` remains `worldly`.
 - `lokuttara` remains `beyond-the-world`.
 - `ekaggatā` in this sutta is governed as `directness`, not one-pointedness.
@@ -55,13 +55,13 @@ choices, source-audit calls, and edition notes that govern it.
 
 - This edition treats MN 117 as a path-training discourse, not as an abstract
   doctrinal catalog.
-- The sutta is governed here as showing that `right composure` is not
+- The sutta is governed here as showing that `right unification of mind` is not
   isolated. It is furnished with seven supporting path factors.
 - The opening `ekaggatā` line is therefore not treated as breathless fixation
   or point-staring. It names the directness of mind furnished by the other
   seven factors.
 - The opening study note in the main file is deliberate. It signals to the
-  reader immediately that right composure in this sutta is not a
+  reader immediately that right unification of mind in this sutta is not a
   standalone meditative box but part of a furnished path whole.
 - The repeated trio of `right view`, `right effort`, and `right remembering`
   is central to this edition. They are treated as recurring live functions that
@@ -97,6 +97,15 @@ choices, source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
 
 ## Edition Status
 
