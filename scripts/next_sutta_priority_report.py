@@ -94,8 +94,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "3", "SN 22.22", "Bhāra", 108, "—",
-        "anchors the burden formula; note that `puggalo tissa vacanīyaṁ` is a crux the translation must not settle",
+        "wave 11", "SN 22.22", "Bhāra", 108, "—",
+        "published 2026-11-08; anchors the burden formula, and records the `puggalo tissa vacanīyaṁ` crux in the notes without settling it",
+        published=True,
     ),
     QueueItem(
         "4", "SN 22.26", "Assāda", 223, "—",

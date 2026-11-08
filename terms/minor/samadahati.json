@@ -1,0 +1,37 @@
+{
+  "term": "samādahati",
+  "normalized_term": "samadahati",
+  "entry_type": "minor",
+  "part_of_speech": "verb",
+  "literal_meaning": "puts together, gathers",
+  "preferred_translation": "unifies",
+  "alternative_translations": [
+    "composes"
+  ],
+  "discouraged_translations": [
+    "concentrates"
+  ],
+  "definition": "To gather the mind or heart together into unification; the verb behind samādhi.",
+  "notes": "The verb follows the samādhi headword, now governed as unification of mind. In the ānāpānasati sequence the present participle samādahaṁ is unifying, as in unifying the heart. Composes is kept as a continuity alternate for material written before the 2026-11-08 revision.",
+  "related_terms": [
+    "samadhi",
+    "samahita",
+    "anapanasati"
+  ],
+  "example_phrases": [
+    {
+      "pali": "samādahaṁ cittaṁ",
+      "translation": "unifying the heart",
+      "notes": "Step 11 of ānāpānasati.",
+      "source": "MN 118"
+    }
+  ],
+  "sutta_references": [
+    "MN 118"
+  ],
+  "tags": [
+    "meditative-development"
+  ],
+  "status": "reviewed",
+  "version_notes": "Added 2026-11-08 to govern wording the samādhi ruling introduced into the translations."
+}

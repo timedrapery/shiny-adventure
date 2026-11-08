@@ -7,7 +7,7 @@
 
 *MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,481 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,473 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -200,14 +200,14 @@ Right view and right attitude are included within the discernment heap."
 ### Unification of Mind
 
 "Ayye, what is unification of mind? What dhammas are signs of unification of mind?
-What dhammas are the equipment of unification of mind? What is the development of
-unification of mind?"
+What dhammas are its equipment? What is the development of unification of
+mind?"
 
 "Friend Visākha, directness of the heart is unification of mind.
 
 The four establishments of sati are signs of unification of mind.
 
-The four right exertions are the equipment of unification of mind.
+The four right exertions are its equipment.
 
 The repetition, development, and making-much of these same dhammas is the
 development of unification of mind here."
@@ -592,7 +592,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn44-culavedalla-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `2fb58cb3`
+- **Last editorial review:** 2026-11-08 · body version `60da6c54`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

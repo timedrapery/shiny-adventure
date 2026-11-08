@@ -8,6 +8,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 22.22, Bhāra Sutta
+  (Putting Down the Burden), with companion notes, a reader introduction,
+  reader metadata, and a generated reader page placed in stage 4 after SN
+  22.48. The five clung-to heaps are the burden, the individual is its
+  carrier, ignorant wanting is taking it up, and its fading and quenching is
+  putting it down; the last two answers reuse SN 56.11's origin and quenching
+  formulas word for word. The `puggalo tissa vacanīyaṁ` crux is laid out in
+  the notes and left unsettled in the translation. Wave 11 item 3. Adds a
+  `burden` reader gloss that also serves the arahant formula's `laid down
+  the burden`.
 - Added a governed plain-English translation of Ud 8.3,
   Tatiyanibbānapaṭisaṁyutta Sutta, with companion notes, a reader
   introduction, reader metadata, and a generated reader page placed at the end
@@ -322,7 +332,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 66 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 67 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

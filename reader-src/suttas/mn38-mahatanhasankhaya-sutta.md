@@ -782,7 +782,7 @@ Buddha's words.
 The eighth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (48)</summary>
+<summary>Words used in this translation (49)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -800,6 +800,8 @@ The eighth discourse is finished.
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>born of seclusion</dfn></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
+<dt><dfn>burden</dfn></dt>
+<dd>The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.</dd>
 <dt><dfn>cessation</dfn></dt>
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>clear knowing</dfn></dt>
@@ -912,6 +914,7 @@ The eighth discourse is finished.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
+*[burden]: The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.

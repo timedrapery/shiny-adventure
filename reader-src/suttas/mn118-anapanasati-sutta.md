@@ -287,7 +287,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (36)</summary>
+<summary>Words used in this translation (37)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -303,6 +303,8 @@ Buddha had said.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
+<dt><dfn>burden</dfn></dt>
+<dd>The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.</dd>
 <dt><dfn>calming</dfn></dt>
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>clear knowing</dfn></dt>
@@ -392,6 +394,7 @@ Buddha had said.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
+*[burden]: The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.

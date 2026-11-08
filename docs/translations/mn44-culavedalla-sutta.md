@@ -197,14 +197,14 @@ Right view and right attitude are included within the discernment heap."
 ### Unification of Mind
 
 "Ayye, what is unification of mind? What dhammas are signs of unification of mind?
-What dhammas are the equipment of unification of mind? What is the development of
-unification of mind?"
+What dhammas are its equipment? What is the development of unification of
+mind?"
 
 "Friend Visākha, directness of the heart is unification of mind.
 
 The four establishments of sati are signs of unification of mind.
 
-The four right exertions are the equipment of unification of mind.
+The four right exertions are its equipment.
 
 The repetition, development, and making-much of these same dhammas is the
 development of unification of mind here."

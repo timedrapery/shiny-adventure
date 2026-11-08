@@ -339,7 +339,7 @@ The fourth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Five Heaps](sn22-48-khandha-sutta.md)
+- [← Putting Down the Burden](sn22-22-bhara-sutta.md)
 - [All suttas](index.md)
 - [The Lingering Sense of 'I Am' →](sn22-89-khemaka-sutta.md)
 

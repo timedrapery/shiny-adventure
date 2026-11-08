@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 66 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 67 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -291,6 +291,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>What the five heaps actually are, stated directly.</p>
 </article>
+<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="teaching with verse" data-length="short" data-search="putting down the burden sn 22.22 bhāra sutta the five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down. the second and third truths in one image. not-self">
+<h2><a href="../suttas/sn22-22-bhara-sutta/">Putting Down the Burden</a></h2>
+<p class="sutta-card__reference">SN 22.22 · <span lang="pi">Bhāra Sutta</span></p>
+<p class="sutta-card__meta">Intermediate · Teaching with verse · Short · about 2 min · 301 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
+<p>The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down. The second and third truths in one image.</p>
+</article>
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether the tathāgata can be pinned down through the five heaps even here and now. not-self">
 <h2><a href="../suttas/sn22-86-anuradha-sutta/">Can You Pin Down the Tathāgata?</a></h2>
 <p class="sutta-card__reference">SN 22.86 · <span lang="pi">Anurādha Sutta</span></p>
@@ -399,7 +406,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="questions and answers on the teaching mn 44 cūḷavedalla sutta a systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. mind and senses">
 <h2><a href="../suttas/mn44-culavedalla-sutta/">Questions and Answers on the Teaching</a></h2>
 <p class="sutta-card__reference">MN 44 · <span lang="pi">Cūḷavedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,481 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,473 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.</p>
 </article>
