@@ -217,6 +217,11 @@ Current SN 22.48 surfaces:
 - [sn22-48-khandha-sutta.md](sn22-48-khandha-sutta.md): main shareable translation text
 - [sn22-48-khandha-sutta-notes.md](sn22-48-khandha-sutta-notes.md): companion translator notes and rationale
 
+Current SN 22.22 surfaces:
+
+- [sn22-22-bhara-sutta.md](sn22-22-bhara-sutta.md): main shareable translation text
+- [sn22-22-bhara-sutta-notes.md](sn22-22-bhara-sutta-notes.md): companion translator notes and rationale
+
 Current SN 22.89 surfaces:
 
 - [sn22-89-khemaka-sutta.md](sn22-89-khemaka-sutta.md): main shareable translation text

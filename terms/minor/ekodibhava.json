@@ -1,0 +1,39 @@
+{
+  "term": "ekodibhāva",
+  "normalized_term": "ekodibhava",
+  "entry_type": "minor",
+  "part_of_speech": "noun",
+  "literal_meaning": "becoming single",
+  "preferred_translation": "singleness",
+  "alternative_translations": [
+    "single"
+  ],
+  "discouraged_translations": [
+    "one-pointedness",
+    "unification"
+  ],
+  "definition": "The mind become single and undivided, especially as thinking and pondering settle in the second mental theme.",
+  "notes": "Governed as singleness so it stays distinct from samādhi, which is now unification of mind. The fixed formula phrase cetaso ekodibhāva is governed separately as singleness of mind; the adjectival ekodi in refrains such as MN 119's is single. Unification is discouraged here because it would collapse this term into the samādhi headword.",
+  "related_terms": [
+    "cetaso-ekodibhava",
+    "samadhi",
+    "ekaggata"
+  ],
+  "example_phrases": [
+    {
+      "pali": "cetaso ekodibhāvaṁ",
+      "translation": "singleness of mind",
+      "notes": "Second-mental-theme formula.",
+      "source": "DN 2"
+    }
+  ],
+  "sutta_references": [
+    "DN 2"
+  ],
+  "tags": [
+    "jhana-factors",
+    "meditative-development"
+  ],
+  "status": "reviewed",
+  "version_notes": "Added 2026-11-08 to govern wording the samādhi ruling introduced into the translations."
+}

@@ -6,7 +6,9 @@
   "preferred_translation": "singleness of mind",
   "definition": "A jhāna formula expression for the singleness of mind characteristic of the second mental theme and beyond.",
   "notes": "Use this record where the second-jhāna formula names the gathered, single quality of mind. Because samādhi itself is now governed as unification of mind, this phrase moved from unification of mind to singleness of mind in the 2026 revision, so the formula does not read unification of mind born of unification of mind. Singleness of mind is also the wording Dhammarato reads aloud for this phrase. Keep it aligned with ariya sammā samādhi as the fourfold jhāna sequence, and do not hear singleness as one-pointed focus.",
-  "related_terms": [],
+  "related_terms": [
+    "ekodibhava"
+  ],
   "example_phrases": [
     {
       "pali": "cetaso ekodibhāvaṁ",

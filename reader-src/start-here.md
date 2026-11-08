@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 66 translations in this collection, for someone new to this material.
+A suggested order for reading the 67 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -81,6 +81,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 - [**What Is Fit to Call Self?**](suttas/sn22-59-anattalakkhana-sutta.md) (SN 22.59, Anattalakkhaṇa Sutta) — about 6 min · 1,016 words. The second sermon. Not-self laid out as a clean, followable argument rather than an assertion.
 - [**The Snake and the Raft**](suttas/mn22-alagaddupama-sutta.md) (MN 22, Alagaddūpama Sutta) — about 24 min · 4,186 words. The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
 - [**The Five Heaps**](suttas/sn22-48-khandha-sutta.md) (SN 22.48, Khandha Sutta) — about 3 min · 363 words. What the five heaps actually are, stated directly.
+- [**Putting Down the Burden**](suttas/sn22-22-bhara-sutta.md) (SN 22.22, Bhāra Sutta) — about 2 min · 301 words. The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down. The second and third truths in one image.
 - [**Can You Pin Down the Tathāgata?**](suttas/sn22-86-anuradha-sutta.md) (SN 22.86, Anurādha Sutta) — about 7 min · 1,214 words. Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether the Tathāgata can be pinned down through the five heaps even here and now.
 - [**The Lingering Sense of 'I Am'**](suttas/sn22-89-khemaka-sutta.md) (SN 22.89, Khemaka Sutta) — about 12 min · 2,062 words. A subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of "I am."
 - [**Don't Chase the Past or Long for the Future**](suttas/mn131-bhaddekaratta-sutta.md) (MN 131, Bhaddekaratta Sutta) — about 6 min · 1,059 words. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment. The explanation asks whether you are turning any part of present experience into self.
@@ -101,7 +102,7 @@ The harder doctrinal core. Everything here assumes the practical vocabulary from
 
 Technical material that rewards already knowing the vocabulary cold. These are texts people return to rather than read straight through.
 
-- [**Questions and Answers on the Teaching**](suttas/mn44-culavedalla-sutta.md) (MN 44, Cūḷavedalla Sutta) — about 14 min · 2,481 words. A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
+- [**Questions and Answers on the Teaching**](suttas/mn44-culavedalla-sutta.md) (MN 44, Cūḷavedalla Sutta) — about 14 min · 2,473 words. A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
 - [**The Longer Questions and Answers**](suttas/mn43-mahavedalla-sutta.md) (MN 43, Mahāvedalla Sutta) — about 17 min · 2,918 words. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.
 - [**The Four Bases of Power**](suttas/sn51-13-chandasamadhi-sutta.md) (SN 51.13, Chandasamādhi Sutta) — about 3 min · 493 words. One short formula, stated four times, defining the four bases of power. Useful mainly as a reference for how the effort formula is built.
 - [**The Five Faculties**](suttas/sn48-10-dutiyavibhanga-sutta.md) (SN 48.10, Dutiyavibhaṅga Sutta) — about 4 min · 645 words. Five definitions, one per faculty, each written as something a person does rather than something they have. The shortest place to see confidence, energy, remembering, unification of mind, and discernment treated as one set.
