@@ -262,7 +262,7 @@ Pāli knowledge, or a separate glossary visit; keep the full words-used panel
 for readers who want more detail.
 
 Prioritize words such as `bhikkhu`, `arahant`, `nibbāna`, `Dhamma`, `Saṅgha`,
-`heart`, `thinking mind`, `remembering`, and `composure` whenever they are
+`heart`, `thinking mind`, `remembering`, and `unification of mind` whenever they are
 necessary to understand the page.
 
 ## Words To Be Suspicious Of

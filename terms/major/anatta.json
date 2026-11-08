@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Describing phenomena as not fit to be taken as self, owned as self, or identified as I or mine.",
-  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulas and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. The Buddhadasa usage profile reinforces explicit resistance both to reifying a hidden self and to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages, especially in the standard five-heap refrain, and should use explanatory paraphrases only when the prose explicitly needs them. SN 22.59 anchors this policy by showing not-self worked out through the de-appropriation of each heap.",
+  "notes": "The repository keeps not-self as the default because it is the most stable English for canonical formulas and avoids turning the teaching into either a metaphysical slogan or a vague ethical compliment. The project treats anattā primarily as a practical and analytical designation: what is impermanent and dependently arisen is not fit to be appropriated as self. The Buddhadasa usage profile reinforces explicit resistance both to reifying a hidden self and to overshooting into nihilistic no-self rhetoric. The phrase free of I and mine is retained as explanatory prose, not as the default doctrinal label. Translators should keep the canonical not-self label stable in three-marks and aggregate passages, especially in the standard five-heap refrain, and should use explanatory paraphrases only when the prose explicitly needs them. SN 22.59 anchors this policy by showing not-self worked out through the de-appropriation of each heap. Dhammarato's talks often say there is no self and no soul as polemic against an eternal soul, and argue that anattā should have been rendered no soul rather than no-self; his own definitions (\"anatta means I am not the self\", \"that's not me\") match not-self. Translators should keep not-self as the rendering and should not correct his no-soul wording when quoting him.",
   "context_rules": [
     {
       "context": "In direct doctrinal statements and three-characteristics formulations",
@@ -109,6 +109,12 @@
       "source": "SN 22.59",
       "kind": "context-rule",
       "scope": "Supports the standard five-heap not-self refrain and keeps the term tied to de-appropriation rather than metaphysical sloganizing."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Supports not-self in the sense of I am not the self, and records his no-soul polemic as quotation context rather than a rendering."
     }
   ],
   "translation_policy": {

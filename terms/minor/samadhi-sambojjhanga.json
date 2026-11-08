@@ -3,13 +3,14 @@
   "normalized_term": "samadhi-sambojjhanga",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "composure awakening factor",
+  "preferred_translation": "unification awakening factor",
   "definition": "One of the seven awakening factors, named here in its specific form.",
   "status": "reviewed",
-  "literal_meaning": "awakening factor of composure",
+  "literal_meaning": "awakening factor of unification",
   "tags": [
     "core-practice",
     "meditative-development",
     "mental-qualities"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form."
 }

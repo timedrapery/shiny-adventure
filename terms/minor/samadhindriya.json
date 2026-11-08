@@ -3,29 +3,29 @@
   "normalized_term": "samadhindriya",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "faculty of composure",
+  "preferred_translation": "faculty of unification",
   "alternative_translations": [
-    "composure faculty"
+    "unification faculty"
   ],
   "definition": "One of the five faculties that governs and steadies practice.",
   "status": "reviewed",
-  "literal_meaning": "faculty of composure",
+  "literal_meaning": "faculty of unification",
   "context_rules": [
     {
       "context": "In direct translation of running prose",
-      "rendering": "faculty of composure",
+      "rendering": "faculty of unification",
       "notes": "Use this by default in a sentence. The compound reads as an English noun phrase here, not as a label."
     },
     {
       "context": "In lists, headings, and cluster tables",
-      "rendering": "composure faculty",
+      "rendering": "unification faculty",
       "notes": "Use the compact form where the phrase is a label rather than part of a sentence."
     }
   ],
   "example_phrases": [
     {
       "pali": "idaṁ vuccati, bhikkhave, samādhindriyaṁ",
-      "translation": "this, bhikkhus, is called the faculty of composure",
+      "translation": "this, bhikkhus, is called the faculty of unification",
       "notes": "SN 48.10 defines each faculty by name and closes each definition with this line.",
       "source": "SN 48.10"
     }
@@ -36,5 +36,6 @@
   "tags": [
     "core-practice",
     "mental-qualities"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form."
 }

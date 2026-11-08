@@ -10,7 +10,7 @@ Use it together with the live `nīvaraṇa`, `pañca-nīvaraṇā`, `jhāna`,
 
 ## Control Sequence
 
-- `so ime pañca nīvaraṇe pahāya` -> `having abandoned these five distractions`
+- `so ime pañca nīvaraṇe pahāya` -> `having abandoned these five hindrances`
 - `vivicceva kāmehi vivicca akusalehi dhammehi` -> `quite secluded from sensuality, secluded from unwholesome dhammas`
 - `savitakkaṁ savicāraṁ` -> `with thinking and pondering`
 - `vivekajaṁ pītisukhaṁ` -> `rejoicing and satisfaction born of seclusion`
@@ -25,7 +25,7 @@ Use it together with the live `nīvaraṇa`, `pañca-nīvaraṇā`, `jhāna`,
   unrecorded moral registers.
 - Keep `savitakkaṁ savicāraṁ` as `with thinking and pondering`.
 - Keep `vivekaja-pīti-sukha` tied to seclusion and to the prior abandoning of
-  distractions.
+  hindrances.
 
 ## Drift Guards
 

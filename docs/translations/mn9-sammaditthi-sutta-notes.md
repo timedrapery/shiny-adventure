@@ -109,6 +109,15 @@ source-audit calls, and edition notes that govern it.
   a reusable note surface may be worthwhile for `X`, `X-origin`, `X-quenching`,
   and `path leading to X-quenching`.
 
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+
 ## Edition Status
 
 - This companion now supports the first stable study edition of the repo's

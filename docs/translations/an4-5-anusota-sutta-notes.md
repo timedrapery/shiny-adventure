@@ -55,12 +55,20 @@ This document records the source and editorial decisions for
   alternate for `kilesa`. The source deliberately changes families here; this
   note prevents that broader word from erasing the more specific fetter
   category.
-- `samāhitindriyo` is `with their faculties composed`. This preserves the
+- `samāhitindriyo` is `with their faculties unified`. This preserves the
   `samādhi` family's sense of collected accord rather than suggesting forced
   concentration.
 - `lokantagū` is `gone to the world's end`. In the completed-crossing verse,
   this is the end of the experienced world as a field of bondage, not a
   geographic journey to an edge of the earth.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Readability Review
 

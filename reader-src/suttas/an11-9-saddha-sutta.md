@@ -7,7 +7,7 @@
 
 *AN 11.9, the Saddha Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,247 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,252 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -51,29 +51,29 @@ trough, it holds a theme: 'Fodder, fodder!'
 
 In the same way, Saddha, a wild person who has gone to the forest,
 to the root of a tree, or to an empty dwelling. They remain with their heart
-overcome and seized by sensual distraction, and they do not truly
-understand the escape from sensual distraction that has arisen. Harboring
-sensual distraction as their theme, they think on it, dwell on it, brood over
+overcome and seized by sensual desire, and they do not truly
+understand the escape from sensual desire that has arisen. Harboring
+sensual desire as their theme, they think on it, dwell on it, brood over
 it, and keep circling back to it.
 
-They remain with their heart overcome by aversive distraction, and they
-do not truly understand the escape from aversive distraction that has arisen.
-Harboring aversive distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by ill will, and they
+do not truly understand the escape from ill will that has arisen.
+Harboring ill will as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome by dull distraction, and they do
-not truly understand the escape from dull distraction that has arisen.
-Harboring dull distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by sloth and torpor, and they do
+not truly understand the escape from sloth and torpor that has arisen.
+Harboring sloth and torpor as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome by agitated distraction, and they
-do not truly understand the escape from agitated distraction that has arisen.
-Harboring agitated distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by restlessness and worry, and they
+do not truly understand the escape from restlessness and worry that has arisen.
+Harboring restlessness and worry as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome and seized by uncertain
-distraction, and they do not truly understand the escape from uncertain
-distraction that has arisen. Harboring uncertain distraction as their theme,
+They remain with their heart overcome and seized by
+doubt, and they do not truly understand the escape from
+doubt that has arisen. Harboring doubt as their theme,
 they think on it, dwell on it, brood over it, and keep circling back to it.
 
 They hold earth as theme, water as theme, fire as theme, and air as theme.
@@ -103,20 +103,20 @@ loss, and a misfortune.
 
 In the same way, Saddha, the fine thoroughbred person who has gone to the
 forest, to the root of a tree, or to an empty dwelling does not remain with
-their heart overcome and seized by sensual distraction, and they truly
-understand the escape from sensual distraction that has arisen.
+their heart overcome and seized by sensual desire, and they truly
+understand the escape from sensual desire that has arisen.
 
-They do not remain with their heart overcome by aversive distraction,
-and they truly understand the escape from aversive distraction that has arisen.
+They do not remain with their heart overcome by ill will,
+and they truly understand the escape from ill will that has arisen.
 
-They do not remain with their heart overcome by dull distraction, and
-they truly understand the escape from dull distraction that has arisen.
+They do not remain with their heart overcome by sloth and torpor, and
+they truly understand the escape from sloth and torpor that has arisen.
 
-They do not remain with their heart overcome by agitated distraction,
-and they truly understand the escape from agitated distraction that has arisen.
+They do not remain with their heart overcome by restlessness and worry,
+and they truly understand the escape from restlessness and worry that has arisen.
 
-They do not remain with their heart overcome and seized by uncertain
-distraction, and they truly understand the escape from uncertain distraction
+They do not remain with their heart overcome and seized by
+doubt, and they truly understand the escape from doubt
 that has arisen.
 
 They do not hold earth as theme, water as theme, fire as theme, or air as
@@ -198,40 +198,39 @@ The ninth discourse is finished.
 <details class="reader-terms">
 <summary>Words used in this translation (12)</summary>
 <dl>
-<dt><dfn>agitated distraction</dfn></dt>
-<dd>Being pulled off track by restlessness and nagging regret.</dd>
-<dt><dfn>aversive distraction</dfn></dt>
-<dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
-<dt><dfn>dull distraction</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
+<dt><dfn>doubt</dfn></dt>
+<dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
-<dt><dfn>sensual distraction</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant.</dd>
+<dt><dfn>restlessness and worry</dfn></dt>
+<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dt><dfn>sloth and torpor</dfn></dt>
+<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
 <dt><dfn>thinking mind</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
-<dt><dfn>uncertain distraction</dfn></dt>
-<dd>Being pulled off track by doubt and indecision about the practice.</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an11.9/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an11-9-saddha-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `5be8a71c`
+- **Last editorial review:** 2026-11-08 · body version `68e0a02f`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2011.9) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -247,15 +246,15 @@ The ninth discourse is finished.
 </nav>
 
 
-*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
-*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
-*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
-*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
+*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

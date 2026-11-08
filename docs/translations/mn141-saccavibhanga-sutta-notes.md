@@ -32,8 +32,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   instead of being left as document-only wording.
 - The third-truth tail around `cāgo paṭinissaggo mutti anālayo` is also now
   governed by an explicit phrase record.
-- `sammā-sati` remains `right remembering`, and `sammā-samādhi` remains `right
-  composure`.
+- `sammā-sati` remains `right remembering`, and `sammā-samādhi` is now
+  `right unification of mind`.
 - `jhāna` remains `mental theme`, in line with the live jhāna-family policy.
 
 ## Re-audit Calls
@@ -54,7 +54,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - The third-truth tail stays coordinated as `giving it up, relinquishing it,
   freedom, non-attachment` rather than collapsing into one release-word.
 - The right-remembering section reuses the current MN 10 house wording.
-- The right-composure section reuses the current jhāna-language already
+- The right-unification-of-mind section reuses the current jhāna-language already
   stabilized in the live corpus.
 
 ## Practice Clarifications
@@ -64,7 +64,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - The discourse matters because it spreads the first truth out into named,
   workable components rather than leaving it as a slogan.
 - The path section matters because it anchors the four truths back into
-  trainable conduct, attitude, remembering, and composure.
+  trainable conduct, attitude, remembering, and unification of mind.
 - The truth-analysis opening is not ornamental. It tells the reader what kind
   of discourse this is: one that explains, lays out, and makes clear.
 - Sāriputta's role matters. The Buddha points to him as the one able to carry
@@ -107,6 +107,17 @@ translation choices, source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Edition Status
 

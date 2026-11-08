@@ -16,7 +16,7 @@ The terms in this zone are not interchangeable with:
 | Pali | Default | Functional role | Do not collapse into |
 | --- | --- | --- | --- |
 | `kāma` | `sensuality` | the sensual domain; sensuality and the pleasures sought through sense experience | `desire`, `pleasure`, `sex` |
-| `kāmacchanda` | `sensual distraction` | desire for sensuality functioning as a hindrance | plain `chanda`, `interest`, `pleasant feeling` |
+| `kāmacchanda` | `sensual desire` | desire for sensuality functioning as a hindrance | plain `chanda`, `interest`, `pleasant feeling` |
 | `kāmataṇhā` | `ignorant wanting for sensuality` | taṇhā directed toward sensuality | generic `desire`, sexual appetite |
 | `kāma-rāga` | `passion for sensuality` | rāga directed toward sensuality | generic wanting, pleasure, lust |
 | `kāmupādāna` | `taking sensuality personally` | upādāna directed toward sensuality | attachment to pleasure |
@@ -47,7 +47,7 @@ Sexualized English is reserved for narrower expressions that explicitly require 
 It is not wholesome motivation.
 It is not mere attraction or preference.
 
-It is governed as `sensual distraction` because the term sits inside the hindrance framework.
+It is governed as `sensual desire`, following Dhammarato's name for this hindrance; the word desire keeps the link to `chanda` audible.
 
 `sensual desire` remains a controlled alternate only when explanatory prose needs the lexical connection to `chanda`.
 
@@ -69,7 +69,7 @@ It is governed as `sensual distraction` because the term sits inside the hindran
   Delight or uplift.
 
 Sensuality is not the same thing as pleasant feeling.
-Sensual distraction is not the same thing as plain desire.
+Sensual desire is not the same thing as plain desire.
 
 ## Erotic-Register Rule
 

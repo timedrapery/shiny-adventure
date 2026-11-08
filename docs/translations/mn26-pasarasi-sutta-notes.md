@@ -117,7 +117,7 @@ All governing terms for MN 26 are covered by existing lexicon records:
 - `saddhā` → `confidence` (major)
 - `viriya` → `energy` (major)
 - `sati` → `remembering` (major)
-- `samādhi` → `composure` (major)
+- `samādhi` → `unification of mind` (major)
 - `paññā` → `discernment` (major)
 - `jhāna` → `mental theme` (major)
 - `pīti` → `rejoicing` (major)
@@ -195,6 +195,17 @@ All governing terms for MN 26 are covered by existing lexicon records:
 - The verse passages are set with Markdown blockquote formatting to distinguish
   them visually from prose. The original Pali verses are not reproduced —
   only the English rendering.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Edition Status
 

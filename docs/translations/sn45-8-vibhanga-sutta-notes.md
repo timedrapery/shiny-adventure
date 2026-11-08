@@ -9,7 +9,7 @@ This document records the source and editorial decisions for
   `sn45.8:1.1`–`sn45.8:10.7`.
 - Canonical reader source: <https://suttacentral.net/sn45.8/pli/ms>.
 - Control surfaces: the matching path definitions in MN 141, the right-effort
-  formula in SN 51.13, the remembering and composure definitions in SN 48.10,
+  formula in SN 51.13, the remembering and unification of mind definitions in SN 48.10,
   and the governed path-factor records.
 - The discourse has about 300 Pali words after front matter is excluded.
 
@@ -21,7 +21,7 @@ This document records the source and editorial decisions for
   This surface directly anchors the previously orphaned `ariya` major record.
 - **The path-factor names follow current house policy.** In particular,
   `sammāsaṅkappa` is `right attitude`, `sammāsati` is `right remembering`, and
-  `sammāsamādhi` is `right composure`. The translation does not rotate back to
+  `sammāsamādhi` is `right unification of mind`. The translation does not rotate back to
   `right intention`, `right mindfulness`, or `right concentration`.
 - **The four-truth definition of right view follows the existing control
   passage.** Repeating `knowledge` preserves the four occurrences of `ñāṇa`
@@ -41,7 +41,7 @@ This document records the source and editorial decisions for
   `heart`; the technical fourth object remains `dhammas` rather than being
   flattened into the same English used for wholesome and unwholesome mental
   qualities.
-- **Right composure is defined by the four mental themes.** The translation
+- **Right unification of mind is defined by the four mental themes.** The translation
   follows the current governed sequence: `pīti` is `rejoicing`, `sukha` is
   `satisfaction`, `upekkhā` is `dynamic balance`, and `jhāna` is `mental
   theme`. The passage stays practical and avoids trance or concentration
@@ -61,6 +61,17 @@ The source also writes the first and fourth right-effort rounds in full while
 abbreviating the two middle rounds. The edition expands those middle rounds
 from the identical governed formula. No new doctrinal content is supplied;
 only the repeated wording represented by the source's peyyāla is restored.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Readability Review
 

@@ -33,15 +33,15 @@ source-audit calls, and edition notes that govern it.
 - `jhāyati pajjhāyati nijjhāyati avajjhāyati` is rendered `think on it,
   dwell on it, brood over it, and keep circling back to it`. The four verbs
   (simple + pa- + ni- + ava- prefixed forms of the same root) show escalating
-  fixation on the distraction as theme. The rendering keeps each step
+  fixation on the hindrance as theme. The rendering keeps each step
   distinct without importing clinical psychology vocabulary.
 - `citta` in `pariyuṭṭhitena cetasā viharati` is rendered `heart`,
   the house default. `Pariyuṭṭhita` (overcome, beset) is rendered `overcome`;
   `pareta` (seized, overpowered) is rendered `seized`. The phrase
   `kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena` becomes `remain
-  with their heart overcome and seized by sensual distraction`. The
+  with their heart overcome and seized by sensual desire`. The
   double adjective (overcome + seized) appears only for the first and fifth
-  distractions (kāmacchanda and vicikicchā); the middle three use only
+  hindrances (kāmacchanda and vicikicchā); the middle three use only
   `overcome`.
 - `saññā vibhūtā hoti` is rendered `recognition has vanished`. The house
   term for `saññā` is `recognition`. `Vibhūtā` (past participle) is rendered
@@ -59,7 +59,7 @@ have sufficient lexicon coverage:
 
 - `jhāyati` → `think like this` (major, reviewed)
 - `jhāna` → `mental theme` (major, reviewed)
-- `nīvaraṇa` members → governed distraction-family renderings (major)
+- `nīvaraṇa` members → governed member renderings (major)
 - `citta` → `heart` (major)
 - `mano` → `thinking mind` (major)
 - `saññā` → `recognition` (major)
@@ -123,6 +123,15 @@ have sufficient lexicon coverage:
 - Saddha's question restates the full eleven-base list as a question, which
   the Pali also does. Repetition is preserved rather than collapsed because
   the restatement is part of the dialogue's teaching dynamic, not filler.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

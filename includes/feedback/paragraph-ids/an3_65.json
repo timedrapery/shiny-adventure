@@ -1,6 +1,6 @@
 {
   "surface_key": "an3_65",
-  "body_sha256": "e0d025b9597ca291e006f0cb8cf7a0cd2e369d67f2dd657ae0f571f44efb3986",
+  "body_sha256": "54ad464a9de6ff0a6fceb17ff684129dda50416f5dce2f44c07bbaf6d4b0edb7",
   "next_id": 64,
   "passages": [
     {
@@ -320,10 +320,12 @@
     },
     {
       "id": "p046",
-      "fingerprint": "ede7a4c8ef5e2720",
+      "fingerprint": "555f32b7b7cbf239",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "That noble disciple, Kālāmas, free of coveting, free of aversive distra…",
-      "previous_fingerprints": []
+      "preview": "That noble disciple, Kālāmas, free of coveting, free of ill will, uncon…",
+      "previous_fingerprints": [
+        "ede7a4c8ef5e2720"
+      ]
     },
     {
       "id": "p047",

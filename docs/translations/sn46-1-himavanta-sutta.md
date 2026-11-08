@@ -51,7 +51,7 @@ Here, bhikkhus, a bhikkhu develops:
   on quenching, culminating in relinquishment;
 - the relaxation awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
-- the composure awakening factor, based on seclusion, based on fading, based
+- the unification awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
 - the dynamic-balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.

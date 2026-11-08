@@ -10,14 +10,14 @@
   Bilara data.
 - House choices that most affect this sutta: `upanisā` is rendered `vital
   condition`; the positive sequence uses `confidence`, `actively happy state`,
-  `rejoicing`, `relaxation`, `satisfaction`, and `composure`; the negative
+  `rejoicing`, `relaxation`, `satisfaction`, and `unification of mind`; the negative
   sequence uses the standard dependent-arising renderings; `nibbidā` is
   rendered `disenchantment`; `virāga` is rendered `fading`; `vimutti` is
   rendered `release`; and `āsava` is rendered `outflow`.
 - This edition treats SN 12.23 as the repository's control surface for the
   positive dependent-arising sequence — from dissatisfaction through
   confidence, the actively happy state, rejoicing, relaxation, satisfaction,
-  and composure to knowing-and-seeing, disenchantment, fading, release, and
+  and unification of mind to knowing-and-seeing, disenchantment, fading, release, and
   the knowledge of outflow destruction.
 - This is the first stable study edition of the repository's SN 12.23
   translation surface.
@@ -78,10 +78,10 @@ I say, bhikkhus, that seeing things as they are has a vital condition — it
 does not lack a vital condition. And what, bhikkhus, is the vital condition for
 seeing things as they are?
 
-You should say: 'Composure.'
+You should say: 'Unification of mind.'
 
-I say, bhikkhus, that composure has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for composure?
+I say, bhikkhus, that unification of mind has a vital condition — it does not lack a
+vital condition. And what, bhikkhus, is the vital condition for unification of mind?
 
 You should say: 'Satisfaction.'
 
@@ -191,8 +191,8 @@ Confidence is the vital condition for an actively happy state.
 An actively happy state is the vital condition for rejoicing.
 Rejoicing is the vital condition for relaxation.
 Relaxation is the vital condition for satisfaction.
-Satisfaction is the vital condition for composure.
-Composure is the vital condition for seeing things as they are.
+Satisfaction is the vital condition for unification of mind.
+Unification of mind is the vital condition for seeing things as they are.
 Seeing things as they are is the vital condition for disenchantment.
 Disenchantment is the vital condition for fading.
 Fading is the vital condition for release.
@@ -226,8 +226,8 @@ Confidence is the vital condition for an actively happy state.
 An actively happy state is the vital condition for rejoicing.
 Rejoicing is the vital condition for relaxation.
 Relaxation is the vital condition for satisfaction.
-Satisfaction is the vital condition for composure.
-Composure is the vital condition for seeing things as they are.
+Satisfaction is the vital condition for unification of mind.
+Unification of mind is the vital condition for seeing things as they are.
 Seeing things as they are is the vital condition for disenchantment.
 Disenchantment is the vital condition for fading.
 Fading is the vital condition for release.

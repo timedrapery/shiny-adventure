@@ -3,15 +3,16 @@
   "normalized_term": "samadhibala",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "strength of composure",
+  "preferred_translation": "strength of unification",
   "alternative_translations": [
-    "composure strength"
+    "unification strength"
   ],
   "definition": "One of the five strengths that stabilizes practice beyond wavering.",
   "status": "reviewed",
-  "literal_meaning": "strength of composure",
+  "literal_meaning": "strength of unification",
   "tags": [
     "core-practice",
     "mental-qualities"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form."
 }

@@ -567,8 +567,6 @@ def render_terms_panel(entries: list[tuple[str, str]]) -> list[str]:
 def render_source_status(surface: TranslationSurface) -> list[str]:
     """Quiet, inspectable provenance without burdening the reading flow."""
     review = surface.readability_review
-    status = review.status if review is not None else "unreviewed"
-    status_label = status.replace("-", " ").capitalize()
     reviewed_on = review.reviewed_on if review is not None else "not recorded"
     version = review.body_sha256[:8] if review is not None else "not recorded"
     notes_url = (
@@ -582,11 +580,10 @@ def render_source_status(surface: TranslationSurface) -> list[str]:
     )
     return [
         '<details class="reader-source-status" markdown="1">',
-        "<summary>Source and status</summary>",
+        "<summary>Source and corrections</summary>",
         "",
         f"- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition]({canonical_pali_url(surface)})",
         f"- **Translation notes:** [Editorial decisions and source audit]({notes_url})",
-        f"- **Status:** {status_label}. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.",
         f"- **Last editorial review:** {reviewed_on} · body version `{version}`",
         f"- [Report a problem with this page]({issue_url}) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)",
         "",

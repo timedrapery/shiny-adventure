@@ -39,9 +39,9 @@ source-audit calls, and edition notes that govern it.
   behavioural sense — they are what overwhelms (`abhibhūto`) the person and
   takes over the heart, leading to misconduct.
 - `dosa` is rendered `aversion` (house default). In the brahmavihāra
-  description that follows the three-roots analysis, `byāpāda` (aversive
-  distraction) is used in the phrase `vigatabyāpādo` (free of aversive
-  distraction) — the compound form with the same root. Both `dosa` and
+  description that follows the three-roots analysis, `byāpāda` (ill
+  will) is used in the phrase `vigatabyāpādo` (free of ill
+  will) — the compound form with the same root. Both `dosa` and
   `byāpāda` are rendered consistently using the established house term family.
 - `kusala` / `akusala` are rendered `wholesome` / `unwholesome` (major
   lexicon entries). The four-fold test in each triad — unwholesome, blameworthy,
@@ -106,7 +106,7 @@ source-audit calls, and edition notes that govern it.
 - `sampajañña` → `clear knowing` (major)
 - `sati` → `remembering` (major)
 - `abhijjhā` → `coveting` (minor)
-- `byāpāda` → `aversive distraction` (major)
+- `byāpāda` → `ill will` (major)
 
 ## Re-audit Calls
 
@@ -137,6 +137,15 @@ source-audit calls, and edition notes that govern it.
   preserving repetition.
 - The four consolations are given twice — once by the Buddha and once
   in confirmation by the Kālāmas. Both statements are preserved in full.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

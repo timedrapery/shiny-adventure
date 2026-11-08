@@ -12,14 +12,14 @@
   `hirī-ottappa` is rendered `conscience and concern`; `sati` is rendered
   `remembering`; `sampajañña` is rendered `clear knowing`; `indriya` is
   rendered `faculty`; the five `nīvaraṇa` members follow their governed
-  distraction-family renderings; `jhāna` is rendered `mental theme`; `pīti`
+  hindrance-family renderings; `jhāna` is rendered `mental theme`; `pīti`
   is rendered `delight`; `upekkhā` is rendered `dynamic balance`; `āsava`
   is rendered `outflow`; and `dukkha` in the Four Truths passages is rendered
   `dissatisfaction`.
 - This edition treats MN 39 as the repository's control surface for the full
   ascending-practice arc: from conscience and concern through faculty
   restraint, remembering and clear knowing, the five similes for the
-  distractions, the four mental themes with their body-permeation formulas,
+  hindrances, the four mental themes with their body-permeation formulas,
   and the three higher knowledges through outflow destruction.
 - This is the first stable study edition of the repository's MN 39
   translation surface.
@@ -206,7 +206,7 @@ forest, the open air, a heap of straw.
 After returning from the alms-round following the meal, they sit down, cross
 their legs, set their body upright, and establish remembering before them.
 
-### Abandoning the Five Distractions
+### Abandoning the Five Hindrances
 
 Giving up covetousness for the world, they remain with a heart free of
 covetousness, and purify the heart of covetousness.
@@ -215,18 +215,18 @@ Giving up ill will and malice, they remain with a heart free of ill
 will, full of compassion toward all living beings, and purify the heart
 of ill will.
 
-Giving up dull distraction, they remain with the heart free of dull
-distraction, with awareness of light, with remembering and clear knowing, and
-purify the heart of dull distraction.
+Giving up sloth and torpor, they remain with the heart free of sloth and
+torpor, with awareness of light, with remembering and clear knowing, and
+purify the heart of sloth and torpor.
 
-Giving up agitated distraction, they remain without agitation, the heart
-inwardly stilled, and purify the heart of agitated distraction.
+Giving up restlessness and worry, they remain without agitation, the heart
+inwardly stilled, and purify the heart of restlessness and worry.
 
-Giving up uncertain distraction, they have crossed over uncertainty. They do
+Giving up doubt, they have crossed over uncertainty. They do
 not waver over skillful qualities, and they purify the heart of
-uncertain distraction.
+doubt.
 
-### Five Similes for the Distractions
+### Five Similes for the Hindrances
 
 Bhikkhus, suppose a man were to take out a loan and apply himself to work, and
 his work were to succeed. He would pay off his original debts and have enough
@@ -277,17 +277,17 @@ property.'
 
 From that they would gain gladness and arrive at joy.
 
-In the same way, bhikkhus, as long as a bhikkhu sees these five distractions
+In the same way, bhikkhus, as long as a bhikkhu sees these five hindrances
 as not given up within themselves, they regard them as a debt, an illness, a
 prison, slavery, and a desert road.
 
-But when a bhikkhu sees these five distractions as given up within themselves,
+But when a bhikkhu sees these five hindrances as given up within themselves,
 they regard this as freedom from debt, good health, release from prison,
 freedom, and safe ground.
 
 ### The Four Mental Themes
 
-Giving up these five distractions — corruptions of the heart that
+Giving up these five hindrances — corruptions of the heart that
 weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
 thinking and pondering, with rejoicing and satisfaction born of seclusion.
@@ -306,13 +306,13 @@ this very body with rejoicing and satisfaction born of seclusion, so that no par
 of the whole body goes undrenched with rejoicing and satisfaction born of seclusion.
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
-internal clarity, the heart unified, without thinking and pondering, a
+internal clarity, the heart single, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
-satisfaction born of composure.
+satisfaction born of unification.
 
 They drench, saturate, fill, and spread this very body with rejoicing and
-satisfaction born of composure, so that no part of the whole body goes
-undrenched with rejoicing and satisfaction born of composure.
+satisfaction born of unification, so that no part of the whole body goes
+undrenched with rejoicing and satisfaction born of unification.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
 with no inlet from the east, west, north, or south, and the sky giving no
@@ -321,9 +321,9 @@ that lake and drench, saturate, fill, and spread throughout the lake, so that
 no part of the whole lake went undrenched with cool water.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with rejoicing and satisfaction born of composure, so that no
+this very body with rejoicing and satisfaction born of unification, so that no
 part of the whole body goes undrenched with rejoicing and satisfaction born of
-composure.
+unification.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the

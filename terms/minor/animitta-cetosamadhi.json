@@ -3,14 +3,15 @@
   "normalized_term": "animitta-cetosamadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "signless composure of mind",
-  "definition": "Composure of mind governed by the signless side of the emptiness / signless / wishless family.",
+  "preferred_translation": "signless unification of mind",
+  "definition": "Unification of mind governed by the signless side of the emptiness / signless / wishless family.",
   "notes": "Keep this compound tied to animitta's signless force rather than turning it into vague imageless or blank meditation language.",
   "status": "reviewed",
-  "literal_meaning": "signless composure of mind",
+  "literal_meaning": "signless unification of mind",
   "tags": [
     "liberation",
     "meditative-development",
     "emptiness-interface"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword."
 }

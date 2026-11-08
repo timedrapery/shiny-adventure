@@ -23,7 +23,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   chosen to settle. The headword default survives contact with a text where
   `chanda` heads a wholesome path factor, and no context rule was needed. The
   word is not the problem in Pali or in English: what makes `kāmacchanda` a
-  distraction is the sensuality, not the desiring. Rendering `chanda` as
+  hindrance is the sensuality, not the desiring. Rendering `chanda` as
   `enthusiasm` or `zeal` here to avoid an awkward-sounding wholesome desire
   would have hidden exactly the continuity the four bases of power depend on.
 - `iddhipāda` keeps `basis of power`. The compound names the footing that
@@ -32,7 +32,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   available but `investigation` matches the headword and keeps the factor
   active rather than merely questioning.
 - `citta` keeps `heart` throughout, including as the third base of
-  power. This produces `composure through the heart`, which is heavier
+  power. This produces `unification through the heart`, which is heavier
   than the other three but consistent. Substituting a bare `mind` for the
   third member only would have made it read as a different kind of item than
   its siblings.
@@ -85,7 +85,7 @@ whole.
 
 - **`padhānasaṅkhāra` was ungoverned and is the load-bearing compound here.
   Resolved 2026-08-20.** It is named four times, and the whole discourse exists
-  to define the bases of power as the combination of a factor, the composure
+  to define the bases of power as the combination of a factor, the unification of mind
   gained through it, and these conditioners. A minor entry now records
   `exertion conditioner`, tied to `padhāna` and kept inside the governed
   conditioner family, with `volitional formation` explicitly discouraged so the
@@ -114,7 +114,7 @@ whole.
 ## Practice Clarifications
 
 - The four bases of power are not four different techniques. They are four
-  things a person can lean on to arrive at the same composure, and the rest of
+  things a person can lean on to arrive at the same unification of mind, and the rest of
   the formula is identical in each case.
 - The desire in question is desire for a result that has not happened yet:
   that unarisen unwholesome qualities stay unarisen, that arisen ones be
@@ -122,13 +122,22 @@ whole.
   and fill out. It is not desire for an object.
 - `iddhi` is often read as psychic power. This discourse says nothing about
   that. It defines the footing, and the footing is ordinary: something to lean
-  on, composure, and sustained exertion.
+  on, unification of mind, and sustained exertion.
 
 ## Editorial Presentation
 
 - Section headings are editorial and do not correspond to divisions in the
   Pali.
 - Prose is hard-wrapped at 79 columns, per the register standard.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
 
 ## Edition Status
 

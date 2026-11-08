@@ -49,6 +49,12 @@ The draft strongly supports the following OSF house defaults:
 - `samma-samadhi` -> `right composure`
 - `metta` -> `friendliness`
 
+On 2026-11-08 the `samadhi` and `samma-samadhi` defaults moved to
+`unification of mind` and `right unification of mind`, by explicit editorial
+decision following the
+[talk transcripts profile](dhammarato-talk-transcripts-profile.md); composure
+is kept as a continuity alternate.
+
 ## Strongly Reinforced But Not Automatically Defaulted
 
 The draft also strongly reinforces these renderings or ideas, but they may need

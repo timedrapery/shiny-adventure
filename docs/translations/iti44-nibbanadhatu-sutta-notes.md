@@ -36,7 +36,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - **`pañcindriyāni` is rendered `five sense faculties`, not `five
   faculties`.** `indriya` keeps its `faculty` default, but a bare `five
   faculties` in this repository already names the spiritual set — faith,
-  energy, remembering, composure, discernment — which is a different list
+  energy, remembering, unification of mind, discernment — which is a different list
   governed under the awakening-factors cluster. The five meant here are the
   senses, as the rest of the sentence makes plain: they are what meets the
   agreeable and the disagreeable. `sense` is doing disambiguating work, not

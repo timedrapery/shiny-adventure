@@ -231,7 +231,7 @@ def sutta_page_failures(
         source_body = source_tail[:source_close.start()] if source_close else source_tail
         if source_close is None:
             failures.append(f"{label}: `details.reader-source-status` is not closed")
-        for required in ("Source and status", "suttacentral.net/", "Provisional", "Report a problem"):
+        for required in ("Source and corrections", "suttacentral.net/", "Report a problem"):
             if required.casefold() not in source_body.casefold():
                 failures.append(f"{label}: source/status panel is missing {required!r}")
 

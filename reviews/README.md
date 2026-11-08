@@ -1,5 +1,9 @@
 # Newcomer Review Workboard
 
+These reviews are optional. Nothing here blocks drafting or publishing, and the
+reader no longer shows a `provisional` label. The records stay so that real
+review evidence can be kept whenever it exists.
+
 This workboard turns the
 [newcomer comprehension protocol](../docs/newcomer-review-protocol.md) into a
 handoff-ready queue. The JSON ledger remains authoritative; this page is the
@@ -7,9 +11,12 @@ human-readable operating view.
 
 Current state: **0 of 60 newcomer sessions recorded** and **2 of 12 read-aloud
 reviews complete**. Source-fidelity review is signed off and bound to the
-published body for five of the twelve cohort texts; the other seven were edited
-on the same day they were signed off, so that sign-off could not be tied to the
-text now published and those gates are open again. See
+published body for two of the twelve cohort texts (SN 36.6 and SN 22.59). The
+other ten gates are open again: most were edited on the same day they were
+signed off, so that sign-off could not be tied to the text now published, and
+SN 56.11 and AN 3.65 changed under the 2026-11-08 term rulings. Those two need
+only a few lines rechecked; see the
+[recheck packet](source-fidelity-recheck-2026-11-08.md) and
 [source fidelity](../docs/newcomer-review-protocol.md#source-fidelity).
 
 Reproduce the tally with `python scripts/check_newcomer_reviews.py`; the table

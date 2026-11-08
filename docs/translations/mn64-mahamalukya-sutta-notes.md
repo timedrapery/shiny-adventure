@@ -28,17 +28,17 @@ source-audit calls, and edition notes that govern it.
 - `pañcorambhāgiyāni saṃyojanāni` is rendered `the five lower fetters`.
 - `anusaya` remains `underlying tendency`, preserving the latent force that the
   infant simile is designed to expose.
-- Mālukyaputta's initial `kāmacchanda` is rendered `sensual distraction`, while
+- Mālukyaputta's initial `kāmacchanda` is rendered `sensual desire`, while
   the Buddha's later `kāma-rāga` is rendered `passion for sensuality`. The
   distinction is kept because the source itself shifts terms.
-- `byāpāda` is rendered `aversive distraction` in both the list and the
+- `byāpāda` is rendered `ill will` in both the list and the
   later lower-fetter analysis. This keeps the text aligned with the live
   `byāpāda` record while preserving the fetter context in the notes.
 - The infant-simile tendency lines render direct compounds as:
   `underlying tendency toward identity view`, `underlying tendency toward
   doubt`, `underlying tendency toward grasping at habits and observances`,
   `underlying tendency toward sensual passion`, and `underlying tendency toward
-  aversive distraction`.
+  ill will`.
 - `nissaraṇaṃ yathābhūtaṃ pajānāti` is rendered `discerns its escape as it has
   come to be`, preserving both the escape-family and the processive
   yathābhūta language.
@@ -66,7 +66,7 @@ source-audit calls, and edition notes that govern it.
   the lower-fetter list itself. The problem is that a merely active-state list
   leaves the infant-simile challenge unanswered unless underlying tendencies
   are distinguished from manifest fetters.
-- `vicikicchā` is `uncertain distraction` when it is active and overwhelming
+- `vicikicchā` is `doubt` when it is active and overwhelming
   the heart. The compound `vicikicchānusaya` is rendered with the
   existing minor-entry wording `underlying tendency toward doubt`.
 - `kāmacchanda` appears only in Mālukyaputta's opening list and the infant
@@ -161,6 +161,15 @@ source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

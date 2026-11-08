@@ -163,7 +163,7 @@ process, five heaps, four noble truths, and sense-fields.
   [SN 51.13](translations/sn51-13-chandasamadhi-sutta.md) and its
   [translation notes](translations/sn51-13-chandasamadhi-sutta-notes.md).
   `chanda` held `desire` without needing a context rule: what makes
-  `kamacchanda` a distraction is the sensuality, not the desiring, so the
+  `kamacchanda` a hindrance is the sensuality, not the desiring, so the
   headword survives contact with a wholesome path factor unchanged. All three
   orphan majors are now anchored, taking the repository from 43 orphan majors
   to 40. The notes flag `padhanasankhara` as the load-bearing ungoverned
@@ -546,7 +546,7 @@ volume.
   currently have no surface at all.
 - Beware the name collision: `SN 46.51` is also titled Āhāra Sutta and is
   already translated, but it is a different text about what feeds the
-  distractions and awakening factors. More importantly, that surface
+  hindrances and awakening factors. More importantly, that surface
   deliberately overrides `ahara` into a local feeding-and-starving idiom
   rather than the headword default `nutriment`. The result is that the
   `ahara` headword's own default rendering has no translation surface

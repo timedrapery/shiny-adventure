@@ -7,7 +7,9 @@
   "preferred_translation": "suchness",
   "alternative_translations": [
     "thusness",
-    "just like that"
+    "just like that",
+    "thisness",
+    "just as it is"
   ],
   "discouraged_translations": [
     "essence",
@@ -15,7 +17,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "Suchness or thusness, the way things are as they are without appropriation or metaphysical projection.",
-  "notes": "The repository keeps suchness as the default because it is the cleanest doctrinal noun in English and aligns with existing Buddhadasa-line handling. Thusness remains acceptable when the sentence benefits from a more literal echo of the form. The Idappaccayatā practical talk profile adds one useful controlled practical note here: tathatā may be explained as just like that when the purpose is to cut appropriation, resistance, or metaphysical overreach. That phrase should remain explanatory only. It should not replace the default doctrinal rendering or become decorative Zen-style atmosphere. In this repository, tathatā is not an essence hiding behind conditions; it is the suchness of the conditioned pattern itself, aligned with not-self and emptiness rather than opposed to them.",
+  "notes": "The repository keeps suchness as the default because it is the cleanest doctrinal noun in English and aligns with existing Buddhadasa-line handling. Thusness remains acceptable when the sentence benefits from a more literal echo of the form. The Idappaccayatā practical talk profile adds one useful controlled practical note here: tathatā may be explained as just like that when the purpose is to cut appropriation, resistance, or metaphysical overreach. That phrase should remain explanatory only. It should not replace the default doctrinal rendering or become decorative Zen-style atmosphere. In this repository, tathatā is not an essence hiding behind conditions; it is the suchness of the conditioned pattern itself, aligned with not-self and emptiness rather than opposed to them. Dhammarato's talks first criticised thusness and suchness as clumsy English, then by 2026 used thusness himself in the sense of just as it is, this is it, and here now. The repository keeps suchness as the default, keeps thusness, and adds thisness and just as it is as explanatory alternates for that present-moment reading.",
   "context_rules": [
     {
       "context": "In most doctrinal and translator-facing contexts",
@@ -31,6 +33,11 @@
       "context": "In practical Buddhadasa-line explanation cutting appropriation or overreaction",
       "rendering": "just like that",
       "notes": "Use only as an explanatory phrase, not as the headword default."
+    },
+    {
+      "context": "In Dhammarato-line practical explanation of the present-moment reading",
+      "rendering": "just as it is",
+      "notes": "Explanatory only; pairs with thisness and this is it, and does not replace suchness."
     }
   ],
   "related_terms": [
@@ -67,6 +74,12 @@
       "priority": "buddhadasa-support",
       "kind": "context-rule",
       "scope": "Supports preserving just like that as a controlled explanatory note that blocks appropriation and metaphysical drift."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "gloss",
+      "scope": "Supports thisness and just as it is as explanatory alternates and the here-now reading of tathatā; does not displace suchness."
     }
   ],
   "translation_policy": {

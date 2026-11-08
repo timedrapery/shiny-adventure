@@ -70,17 +70,16 @@ and legacy orienting notes are preserved when the reader is regenerated.
 This is deliberate. A reading edition that drifts from its own source is worse
 than no reading edition.
 
-## Source, status, and corrections
+## Source and corrections
 
 The primary Pali source is SuttaCentral's segmented Mahāsaṅgīti edition. Every
 sutta page links directly to its canonical Pali text and to the repository's
 companion translation notes.
 
-`Provisional` does not mean unchecked. It means the automated governance,
-source, structure, and readability gates have passed, while the required human
-read-aloud and newcomer-comprehension reviews are still incomplete. A page is
-only marked `validated` after those human reviews are recorded in the public
-review ledger.
+Every published page has passed the automated governance, source,
+structure, and readability checks. Human read-aloud and newcomer reviews are
+recorded when they happen, but they are optional and are not shown as a page
+status.
 
 Each page also shows its last editorial-review date and a short body-version
 identifier. If something looks wrong, use its **Report a problem** link so the
