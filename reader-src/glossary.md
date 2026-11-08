@@ -47,6 +47,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn> <span class="glossary-pali" lang="pi">(brāhmaṇa)</span></dt>
 <dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dt><dfn>burden</dfn></dt>
+<dd>The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.</dd>
 </dl>
 
 ## C

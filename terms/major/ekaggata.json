@@ -43,7 +43,8 @@
     "anapanasati",
     "jhāna",
     "samādhi",
-    "samma-samadhi"
+    "samma-samadhi",
+    "ekodibhava"
   ],
   "example_phrases": [
     {
@@ -60,7 +61,7 @@
     },
     {
       "pali": "samāhitaṃ cittaṃ ekaggaṃ",
-      "translation": "a mentally composed mind, direct in aim",
+      "translation": "a mentally unified mind, direct in aim",
       "notes": "Shows the close relation of ekaggatā and samādhi.",
       "source": "MN 19"
     }

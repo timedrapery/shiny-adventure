@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (66 total)
+## Completed Surfaces (67 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -84,6 +84,10 @@ Use that full roadmap as the source of truth for:
   conditional argument that there would be no discernible escape from what is
   born, made and conditioned unless there were something that is not. Anchors
   `asaṅkhata-dhātu`.
+- `SN 22.22` Bhāra Sutta (Putting Down the Burden) — complete 2026-11-08. The
+  five clung-to heaps as a burden, ignorant wanting as taking it up, and its
+  fading as putting it down. Anchors the burden formula; the `puggala` crux is
+  recorded in the notes and left unsettled.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -170,7 +174,8 @@ Use that full roadmap as the source of truth for:
 2. `Ud 8.3` Tatiyanibbānapaṭisaṁyutta — **complete 2026-09-13**, taken first
    because item 1's precondition is unsettled. 84 words, anchors
    `asaṅkhata-dhātu`, and settles the Udāna framing formula.
-3. `SN 22.22` Bhāra Sutta — 108 words, anchors the burden formula.
+3. `SN 22.22` Bhāra Sutta — **complete 2026-11-08**. 108 words, anchors the
+   burden formula.
 4. `SN 22.26` Assāda Sutta — 223 words, anchors the gratification, danger, and
    escape formula for the five heaps.
 5. `MN 122` Mahāsuññata Sutta — 1,547 words, anchors `appicchatā` and

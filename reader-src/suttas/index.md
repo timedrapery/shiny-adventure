@@ -1,6 +1,6 @@
 # All Suttas
 
-All 66 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 67 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -23,7 +23,7 @@ All 66 translations, grouped by collection. If you would rather be guided, use [
 - [**Does the Same Consciousness Continue?**](mn38-mahatanhasankhaya-sutta.md) — MN 38 · Mahātaṇhāsaṅkhaya Sutta · about 31 min · 5,431 words · Set 4. A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.
 - [**What Makes a Genuine Renunciant?**](mn39-maha-assapura-sutta.md) — MN 39 · Mahā-Assapura Sutta · about 19 min · 3,356 words · Set 3. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one.
 - [**The Longer Questions and Answers**](mn43-mahavedalla-sutta.md) — MN 43 · Mahāvedalla Sutta · about 17 min · 2,918 words · Set 5. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point.
-- [**Questions and Answers on the Teaching**](mn44-culavedalla-sutta.md) — MN 44 · Cūḷavedalla Sutta · about 14 min · 2,481 words · Set 5. A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
+- [**Questions and Answers on the Teaching**](mn44-culavedalla-sutta.md) — MN 44 · Cūḷavedalla Sutta · about 14 min · 2,473 words · Set 5. A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
 - [**The Water Vessel**](mn61-ambalatthikarahulovada-sutta.md) — MN 61 · Ambalaṭṭhikarāhulovāda Sutta · about 13 min · 2,175 words · Set 3. The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back.
 - [**The Man Struck by a Poisoned Arrow**](mn63-culamalukya-sutta.md) — MN 63 · Cūḷamālukya Sutta · about 10 min · 1,729 words · Set 1. Why the teaching refuses to answer certain metaphysical questions.
 - [**The Five Lower Fetters**](mn64-mahamalukya-sutta.md) — MN 64 · Mahāmālukya Sutta · about 14 min · 2,405 words · Set 5. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
@@ -46,6 +46,7 @@ All 66 translations, grouped by collection. If you would rather be guided, use [
 - [**From Dissatisfaction to Freedom**](sn12-23-upanisa-sutta.md) — SN 12.23 · Upanisa Sutta · about 8 min · 1,294 words · Set 4. The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.
 - [**How the World Arises—and Ends**](sn12-44-loka-sutta.md) — SN 12.44 · Loka Sutta · about 2 min · 345 words · Set 4. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
 - [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 730 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
+- [**Putting Down the Burden**](sn22-22-bhara-sutta.md) — SN 22.22 · Bhāra Sutta · about 2 min · 301 words · Set 4. The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down.
 - [**The Five Heaps**](sn22-48-khandha-sutta.md) — SN 22.48 · Khandha Sutta · about 3 min · 363 words · Set 4. What the five heaps actually are, stated directly.
 - [**What Is Fit to Call Self?**](sn22-59-anattalakkhana-sutta.md) — SN 22.59 · Anattalakkhaṇa Sutta · about 6 min · 1,016 words · Set 4. The second sermon.
 - [**Can You Pin Down the Tathāgata?**](sn22-86-anuradha-sutta.md) — SN 22.86 · Anurādha Sutta · about 7 min · 1,214 words · Set 4. Anurādha tries to place the Tathāgata outside four claims about what happens after death.

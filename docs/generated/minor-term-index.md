@@ -2,7 +2,7 @@
 
 Generated navigation index for the flat `terms/minor/` directory.
 
-- Entries: 919
+- Entries: 922
 - Structure decision: keep the on-disk directory flat and rely on generated navigation for human browsing.
 
 ## A
@@ -310,6 +310,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
 | [ehipassiko](../../terms/minor/ehipassiko.json) | ehipassiko | come and see | reviewed | core-doctrine, translation-sensitive |
+| [ekodibhava](../../terms/minor/ekodibhava.json) | ekodibhāva | singleness | reviewed | jhana-factors, meditative-development |
 | [etam-mama-esohamasmi-eso-me-atta](../../terms/minor/etam-mama-esohamasmi-eso-me-atta.json) | etaṁ mama, esohamasmi, eso me attā | this is mine, I am this, this is my self | reviewed | core-doctrine, self-view, translation-sensitive |
 
 ## G
@@ -760,11 +761,13 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [salayatanapaccaya-phasso](../../terms/minor/salayatanapaccaya-phasso.json) | saḷāyatanapaccayā phasso | with the six fields of experience as condition, contact | reviewed | dependent-origination, causality, translation-sensitive |
 | [salla](../../terms/minor/salla.json) | salla | arrow | reviewed | simile, translation-sensitive |
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
+| [samadahati](../../terms/minor/samadahati.json) | samādahati | unifies | reviewed | meditative-development |
 | [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | unification awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
 | [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | strength of unification | reviewed | core-practice, mental-qualities |
 | [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | rejoicing and satisfaction born of unification | reviewed | jhana-factors, meditative-development |
 | [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | faculty of unification | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
+| [samahita](../../terms/minor/samahita.json) | samāhita | unified | reviewed | meditative-development |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
 | [samanantara-paccaya](../../terms/minor/samanantara-paccaya.json) | samanantara-paccaya | contiguity condition | reviewed | causality |
 | [samanantara](../../terms/minor/samanantara.json) | samanantara | contiguity | reviewed | causality |

@@ -141,7 +141,7 @@ These are called the five clung-to heaps."
 
 - [← The Snake and the Raft](mn22-alagaddupama-sutta.md)
 - [All suttas](index.md)
-- [Can You Pin Down the Tathāgata? →](sn22-86-anuradha-sutta.md)
+- [Putting Down the Burden →](sn22-22-bhara-sutta.md)
 
 </nav>
 

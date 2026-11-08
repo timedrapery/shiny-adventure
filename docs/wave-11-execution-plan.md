@@ -132,9 +132,10 @@ priority.
    is the repository's first Udāna surface, so its notes settle the
    collection's framing formula, as Iti 44 did for the Itivuttaka. Corpus
    orphans 85 to 84.
-3. **SN 22.22, Bhāra Sutta** — 108 Pali words. Anchors the burden formula. The
-   burden is the five clung-to heaps, the carrier is the person, taking it up
-   is ignorant wanting, putting it down is its fading. Note before drafting
+3. **SN 22.22, Bhāra Sutta** — **complete 2026-11-08**. 108 Pali words.
+   Anchors the burden formula. The burden is the five clung-to heaps, the
+   carrier is the person, taking it up is ignorant wanting, putting it down is
+   its fading. Note before drafting
    that `puggalo tissa vacanīyaṁ` is a long-standing interpretive crux and the
    translation must not settle it; the notes are where that belongs.
 4. **SN 22.26, Assāda Sutta** — 223 Pali words, one peyyāla. Anchors the
@@ -234,7 +235,7 @@ Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
 unfinished queue item is **Dhp 21–32**, and it still has its precondition:
 settling how verse is set, titled and numbered is the first half of that
-packet. **SN 22.22** is the next item without one, if that decision is not
+packet. **SN 22.26** is the next item without one, if that decision is not
 yours to make. Create a `codex/` or contributor branch and keep the entire
 translation packet together. Before stopping, record completed work, open
 questions, exact validation results, and the next action in the surface notes

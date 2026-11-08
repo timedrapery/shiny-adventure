@@ -154,6 +154,9 @@ source-audit calls, and edition notes that govern it.
 - `samādhi` and its compounds now use `unification of mind`, or the compact
   `unification` inside compounds (for example `right unification of mind`,
   `born of unification`), in place of `composure`.
+- The samādhi definition's `equipment` question and answer use `its
+  equipment`, so the English does not stack `equipment of unification of
+  mind`. `equipment` for `parikkhārā` is unchanged.
 
 ## Edition Status
 
