@@ -12,7 +12,7 @@
   `taṇhā` is rendered `ignorant wanting`; `āhāra` is rendered `nutriment`;
   `saṅkhārā` is rendered `putting things together`; `vedanā` is rendered
   `felt experience`; `upādāna` is rendered `taking personally`; `bhava` is
-  rendered `becoming`; `nīvaraṇa` is rendered `distraction`; `nandī` is
+  rendered `becoming`; `nīvaraṇa` is rendered `hindrance`; `nandī` is
   rendered `relishing`; `jhāna` is rendered `mental theme`; `pīti` is rendered
   `rejoicing`; `sukha` is rendered `satisfaction`; `sati` is rendered
   `remembering`; `sampajañña` is rendered `clear knowing`; `citta` is rendered
@@ -703,7 +703,7 @@ clear knowing, they resort to a secluded dwelling — a wilderness, the foot of
 a tree, a hill, a ravine, a mountain cave, a charnel ground, a forest, the
 open air, a heap of straw.
 
-### Abandoning the Distractions and Entering the Mental Themes
+### Abandoning the Hindrances and Entering the Mental Themes
 
 Returning from the alms-round after the meal, they sit down cross-legged, hold
 their body erect, and establish remembering in front.
@@ -721,16 +721,16 @@ uncertain distraction, they have crossed beyond uncertainty. They are no
 longer undecided about wholesome qualities, and they cleanse the heart
 of uncertain distraction.
 
-They have abandoned these five distractions, the corruptions of the heart
+They have abandoned these five hindrances, the corruptions of the heart
 that weaken discernment. Then, secluded from sense pleasures, secluded
 from unwholesome qualities, they enter and remain in the first mental theme —
 with placing the mind, keeping it there — with rejoicing and satisfaction born
 of seclusion.
 
 With the settling of placing and keeping the mind, internally confident, with
-a unified heart, without placing and keeping the mind, they enter and
+singleness of heart, without placing and keeping the mind, they enter and
 remain in the second mental theme with rejoicing and satisfaction born of
-composure.
+unification.
 
 With the fading of rejoicing they remain equanimous, remembering and clearly
 knowing, and experience satisfaction with the body — what the noble ones

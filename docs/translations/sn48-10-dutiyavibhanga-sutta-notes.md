@@ -117,7 +117,7 @@ surface quote text the source writes out in full.
 
 - The five faculties are not five capacities a person has or lacks. Every
   definition here is a description of activity: placing confidence, arousing
-  energy, remembering, composing the mind, discerning. The noun form is a
+  energy, remembering, unifying the mind, discerning. The noun form is a
   convenience.
 - The faculty of remembering is defined twice over — first as ordinary recall
   of what was said and done long ago, then as the four establishments. The
@@ -132,6 +132,17 @@ surface quote text the source writes out in full.
 - Section headings are editorial and do not correspond to divisions in the
   Pali.
 - Prose is hard-wrapped at 79 columns, per the register standard.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Edition Status
 

@@ -33,7 +33,7 @@ source-audit calls, and edition notes that govern it.
 - `jhāyati pajjhāyati nijjhāyati avajjhāyati` is rendered `think on it,
   dwell on it, brood over it, and keep circling back to it`. The four verbs
   (simple + pa- + ni- + ava- prefixed forms of the same root) show escalating
-  fixation on the distraction as theme. The rendering keeps each step
+  fixation on the hindrance as theme. The rendering keeps each step
   distinct without importing clinical psychology vocabulary.
 - `citta` in `pariyuṭṭhitena cetasā viharati` is rendered `heart`,
   the house default. `Pariyuṭṭhita` (overcome, beset) is rendered `overcome`;
@@ -41,7 +41,7 @@ source-audit calls, and edition notes that govern it.
   `kāmarāgapariyuṭṭhitena cetasā viharati kāmarāgaparetena` becomes `remain
   with their heart overcome and seized by sensual distraction`. The
   double adjective (overcome + seized) appears only for the first and fifth
-  distractions (kāmacchanda and vicikicchā); the middle three use only
+  hindrances (kāmacchanda and vicikicchā); the middle three use only
   `overcome`.
 - `saññā vibhūtā hoti` is rendered `recognition has vanished`. The house
   term for `saññā` is `recognition`. `Vibhūtā` (past participle) is rendered

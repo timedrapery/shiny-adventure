@@ -7,7 +7,7 @@
 
 *MN 26, the Pāsarāsi Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,407 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,411 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -196,7 +196,7 @@ When I said this, he declared the sphere of nothingness.
 
 Then it occurred to me: 'It is not only Āḷāra Kālāma who has confidence — I
 too have confidence. It is not only Āḷāra Kālāma who has energy, remembering,
-composure, and discernment — I too have these. What if I were to make
+unification of mind, and discernment — I too have these. What if I were to make
 the effort to realize the teaching that Āḷāra Kālāma proclaims he has realized
 with his own higher knowing?'
 
@@ -247,7 +247,7 @@ teaching with his own higher knowing and entered into it?"
 When I said this, he declared the sphere of neither-recognition-nor-non-recognition.
 
 Then it occurred to me: 'It was not only Rāma who had confidence — I too have
-confidence. It was not only Rāma who had energy, remembering, composure,
+confidence. It was not only Rāma who had energy, remembering, unification of mind,
 and discernment — I too have these. What if I were to make the effort to
 realize the teaching that Rāma proclaims he had realized with his own higher
 knowing?'
@@ -605,9 +605,9 @@ This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
 
 Furthermore, bhikkhus, with the settling of placing and keeping the mind,
-internally confident, with a unified heart, without placing and keeping
+internally confident, with singleness of heart, without placing and keeping
 the mind, a bhikkhu enters and remains in the second mental theme with
-rejoicing and satisfaction born of composure.
+rejoicing and satisfaction born of unification.
 
 This bhikkhu is said to have blinded Māra, to have put out Māra's eye without
 a trace, and to have gone where the Wicked One cannot see.
@@ -672,7 +672,7 @@ Buddha's words.
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (52)</summary>
+<summary>Words used in this translation (53)</summary>
 <dl>
 <dt><dfn>against the stream</dfn></dt>
 <dd>Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.</dd>
@@ -704,8 +704,6 @@ The sixth discourse is finished.
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conditionality</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
 <dt><dfn>conduct</dfn></dt>
@@ -723,7 +721,7 @@ The sixth discourse is finished.
 <dt><dfn>escape</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
@@ -772,6 +770,10 @@ The sixth discourse is finished.
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>world</dfn></dt>
@@ -787,7 +789,7 @@ The sixth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn26/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn26-pasarasi-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-09-14 · body version `1c433fa5`
+- **Last editorial review:** 2026-11-08 · body version `ec4124c7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2026) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -818,7 +820,6 @@ The sixth discourse is finished.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
@@ -827,7 +828,7 @@ The sixth discourse is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
@@ -851,6 +852,8 @@ The sixth discourse is finished.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
 *[world's entanglement]: The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.

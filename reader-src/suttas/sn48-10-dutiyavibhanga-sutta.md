@@ -7,14 +7,14 @@
 
 *SN 48.10, the Dutiyavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 643 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 645 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
 Five words that sound like personality traits — confidence, energy,
-remembering, composure, discernment — and not one of them is defined here as a
+remembering, unification of mind, discernment — and not one of them is defined here as a
 trait. Every answer starts the same way, with a person, and then describes
 something being done. Confidence is placed somewhere specific, for reasons the
 text spells out. Energy is four efforts, named one at a time. Remembering is
@@ -95,11 +95,11 @@ remembering, having removed coveting and distress regarding the world.
 
 This, bhikkhus, is called the faculty of remembering.
 
-### The Faculty of Composure
+### The Faculty of Unification
 
-And what, bhikkhus, is the faculty of composure?
+And what, bhikkhus, is the faculty of unification?
 
-Here a noble disciple, having made relinquishment the object, gains composure,
+Here a noble disciple, having made relinquishment the object, gains unification of mind,
 gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
@@ -107,9 +107,9 @@ and remain in the first mental theme, which has thinking and pondering, and
 the rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of the heart, they enter and remain in the second mental
+singleness of the heart, they enter and remain in the second mental
 theme, without thinking and pondering, with the rejoicing and satisfaction
-born of composure.
+born of unification.
 
 With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience satisfaction in the body. They enter and
@@ -121,7 +121,7 @@ ending of gladness and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This, bhikkhus, is called the faculty of composure.
+This, bhikkhus, is called the faculty of unification.
 
 ### The Faculty of Discernment
 
@@ -142,7 +142,7 @@ This, bhikkhus, is called the faculty of discernment.
 These, bhikkhus, are the five faculties."
 
 <details class="reader-terms">
-<summary>Words used in this translation (28)</summary>
+<summary>Words used in this translation (29)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -160,8 +160,6 @@ These, bhikkhus, are the five faculties."
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conduct</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -169,7 +167,7 @@ These, bhikkhus, are the five faculties."
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
@@ -192,6 +190,10 @@ These, bhikkhus, are the five faculties."
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wearing away</dfn></dt>
@@ -209,7 +211,7 @@ These, bhikkhus, are the five faculties."
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn48.10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn48-10-dutiyavibhanga-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `a7c91d4e`
+- **Last editorial review:** 2026-11-08 · body version `e0d24473`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2048.10) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -233,11 +235,10 @@ These, bhikkhus, are the five faculties."
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
@@ -249,6 +250,8 @@ These, bhikkhus, are the five faculties."
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

@@ -253,14 +253,14 @@ Subhaga grove speak in agreement or not in agreement?"
 
 "Uselessly, Master Gotama."
 
-### The Five Distractions
+### The Five Hindrances
 
-"Student, there are these five distractions. What five? The sensual
+"Student, there are these five hindrances. What five? The sensual
 distraction, the aversive distraction, the dull distraction, the agitated
-distraction, and the uncertain distraction. These are the five distractions.
+distraction, and the uncertain distraction. These are the five hindrances.
 
 Pokkharasāti Opamañña of the Subhaga grove is wrapped up, shut in, flooded
-over, and covered by these five distractions. It is impossible for him to
+over, and covered by these five hindrances. It is impossible for him to
 know, see, or directly realize a distinction in knowledge and vision beyond
 the human, worthy of the noble ones.
 
@@ -304,9 +304,9 @@ and pondering, with rejoicing and satisfaction born of seclusion. This too is
 delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
-unification of mind, a bhikkhu enters and remains in the second mental theme,
+singleness of mind, a bhikkhu enters and remains in the second mental theme,
 without thinking and pondering, with rejoicing and satisfaction born of
-composure. This too is delight apart from sensuality and apart from unskillful
+unification. This too is delight apart from sensuality and apart from unskillful
 dhammas."
 
 ### A Sixth Ground For Merit
@@ -583,7 +583,7 @@ whose realm the Tathāgata lives, the arahant, the rightly self-awakened
 Buddha!"
 
 <details class="reader-terms">
-<summary>Words used in this translation (30)</summary>
+<summary>Words used in this translation (31)</summary>
 <dl>
 <dt><dfn>agitated distraction</dfn></dt>
 <dd>Being pulled off track by restlessness and nagging regret.</dd>
@@ -605,8 +605,6 @@ Buddha!"
 <dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
 <dt><dfn>clarity</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conduct</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>dhamma</dfn></dt>
@@ -617,8 +615,8 @@ Buddha!"
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
-<dt><dfn>five distractions</dfn></dt>
-<dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five hindrances</dfn></dt>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
@@ -639,10 +637,14 @@ Buddha!"
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
+<dt><dfn>singleness of mind</dfn></dt>
+<dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>uncertain distraction</dfn></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
@@ -654,7 +656,7 @@ Buddha!"
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn99/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn99-subha-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `fe958da0`
+- **Last editorial review:** 2026-11-08 · body version `17a737ac`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2099) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -680,13 +682,12 @@ Buddha!"
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
@@ -697,6 +698,8 @@ Buddha!"
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

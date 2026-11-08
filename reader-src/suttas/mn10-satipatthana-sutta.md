@@ -264,8 +264,8 @@ an unexpanded heart as 'unexpanded heart.'
 They discern a surpassable heart as 'surpassable heart.' They
 discern an unsurpassable heart as 'unsurpassable heart.'
 
-They discern a composed heart as 'composed heart.' They discern
-an uncomposed heart as 'uncomposed heart.'
+They discern a unified heart as 'unified heart.' They discern
+an ununified heart as 'ununified heart.'
 
 They discern a released heart as 'released heart.' They discern
 an unreleased heart as 'unreleased heart.'
@@ -283,15 +283,15 @@ heart."
 
 ### Contemplation of Dhammas
 
-#### The Five Distractions
+#### The Five Hindrances
 
 "And how does a bhikkhu remain observing dhammas among dhammas?
 
 Here a bhikkhu remains observing dhammas among dhammas in the five
-distractions.
+hindrances.
 
 And how does a bhikkhu remain observing dhammas among dhammas in the five
-distractions?
+hindrances?
 
 When sensual distraction is present internally, they discern: 'There is sensual
 distraction in me.' When sensual distraction is absent internally, they
@@ -395,7 +395,7 @@ arisen remembering awakening factor comes to fulfillment through development.
 
 The same pattern applies for the awakening factor of discernment of qualities,
 the energy awakening factor, the rejoicing awakening factor, the relaxation
-awakening factor, the composure awakening factor, and the dynamic
+awakening factor, the unification awakening factor, and the dynamic
 balance awakening factor.
 
 [The same dhammas refrain follows here.]"
@@ -477,8 +477,6 @@ Buddha had said.
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>discernment of qualities</dfn></dt>
@@ -491,8 +489,8 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
-<dt><dfn>five distractions</dfn></dt>
-<dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five hindrances</dfn></dt>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heart</dfn></dt>
@@ -512,13 +510,15 @@ Buddha had said.
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>relaxation</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>sensual distraction</dfn></dt>
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>uncertain distraction</dfn></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
@@ -530,7 +530,7 @@ Buddha had said.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `f23b9954`
+- **Last editorial review:** 2026-11-08 · body version `da5f8236`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -557,14 +557,13 @@ Buddha had said.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
@@ -574,8 +573,9 @@ Buddha had said.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

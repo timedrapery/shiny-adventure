@@ -34,7 +34,7 @@ calls, and edition notes that govern it.
 ## Corruption List
 
 - `byapada` is rendered `ill will` in this list. The major-entry default
-  `aversive distraction` is retained for the five-distractions framework, but
+  `aversive distraction` is retained for the five-hindrances framework, but
   this context is an ethical corruption list rather than a nivarana list.
 - `kodha`, `upanaha`, `makkha`, `mada`, and `pamada` follow their reviewed
   supporting records: `anger`, `resentment`, `contempt`, `arrogant
@@ -85,6 +85,14 @@ calls, and edition notes that govern it.
   every list member.
 - Verse lines are broken for readability, but the meaning is kept direct and
   source-facing.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Edition Status
 

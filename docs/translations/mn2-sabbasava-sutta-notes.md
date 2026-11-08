@@ -44,7 +44,7 @@ source-audit calls, and edition notes that govern it.
   not collapse into the broader `abandoning` frame.
 - The awakening factors are rendered with the repository's established
   defaults: remembering, discernment of qualities, energy, delight, relaxation,
-  composure, and dynamic balance.
+  unification of mind, and dynamic balance.
 
 ## Re-audit Calls
 
@@ -115,6 +115,15 @@ source-audit calls, and edition notes that govern it.
 - If later suttas reuse the requisites reflection, the repo may want phrase
   records for robe, almsfood, lodging, and medicine use instead of controlling
   them only through this note surface and minor entries.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
 
 ## Edition Status
 

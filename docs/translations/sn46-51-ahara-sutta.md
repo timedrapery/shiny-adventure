@@ -10,7 +10,7 @@
   Bilara data.
 - House choices that most affect this sutta: `ahara` is rendered here with the
   local feeding and starving idiom rather than the headword default
-  `nutriment`; `nivarana` is rendered `distraction`; `kamacchanda` is rendered
+  `nutriment`; `nivarana` is rendered `hindrance`; `kamacchanda` is rendered
   `sensual distraction`; `byapada` is rendered `aversive distraction`;
   `thina-middha` is rendered `dull distraction`; `uddhacca-kukkucca` is
   rendered `agitated distraction`; `vicikiccha` is rendered `uncertain
@@ -18,7 +18,7 @@
   `unwise attention` and `wise attention`; and the seven `bojjhanga` members
   follow the repository's established awakening-factor renderings.
 - This edition treats SN 46.51 as the repository's control surface for the
-  feeding and starving formulas that connect the five distractions and the
+  feeding and starving formulas that connect the five hindrances and the
   seven awakening factors.
 - This is the first stable study edition of the repository's SN 46.51
   translation surface.
@@ -29,7 +29,7 @@
 
 At Savatthi.
 
-"Bhikkhus, I will explain what feeds and what starves the five distractions and
+"Bhikkhus, I will explain what feeds and what starves the five hindrances and
 the seven awakening factors. Listen carefully and pay close attention. I will
 speak."
 
@@ -37,7 +37,7 @@ speak."
 
 The Buddha said this:
 
-### What Feeds The Distractions
+### What Feeds The Hindrances
 
 "And what feeds the arising of sensual distraction when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
@@ -116,11 +116,11 @@ There are bodily relaxation and relaxation of the heart. Repeated wise
 attention there feeds the arising of the relaxation awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what feeds the arising of the composure awakening factor when it
+"And what feeds the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated wise attention
-there feeds the arising of the composure awakening factor when it has
+there feeds the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what feeds the arising of the dynamic-balance awakening factor when it has
@@ -131,7 +131,7 @@ wise attention there feeds the arising of the dynamic-balance awakening factor
 when it has not yet arisen, or, if it has arisen, its development and
 fulfillment.
 
-### What Starves The Distractions
+### What Starves The Hindrances
 
 "And what starves the arising of sensual distraction when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
@@ -212,11 +212,11 @@ There are bodily relaxation and relaxation of the heart. Repeated
 non-attention there starves the arising of the relaxation awakening factor when
 it has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what starves the arising of the composure awakening factor when it
+"And what starves the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated non-attention
-there starves the arising of the composure awakening factor when it has
+there starves the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what starves the arising of the dynamic-balance awakening factor when it

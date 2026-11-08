@@ -23,7 +23,7 @@ The source brings several already-governed families together in running prose:
 - `sikkhā` and `sikkhāpada`: `training` and `training rule`
 - `adhisīla`, `adhicitta`, and `adhipaññā`: `higher conduct`, `higher
   mind`, and `higher discernment`
-- `sīla`, `samādhi`, and `paññā`: `conduct`, `composure`, and
+- `sīla`, `samādhi`, and `paññā`: `conduct`, `unification of mind`, and
   `discernment`
 - `brahmacariya`: `spiritual life`
 - `āsava`, `khaya`, `cetovimutti`, and `paññāvimutti`: `outflows`,
@@ -34,7 +34,7 @@ The source brings several already-governed families together in running prose:
 The main collision is structural rather than lexical. The compounds in the
 opening are names of trainings, while the next paragraph uses their three
 domains without the `adhi-` prefix. The translation therefore says `training
-in higher conduct` but later says `fulfills conduct, composure, and
+in higher conduct` but later says `fulfills conduct, unification of mind, and
 discernment`.
 
 ## Governing Decisions
@@ -99,6 +99,15 @@ defined, AN 3.88 gives a second organizing frame: all the detailed training can
 be gathered into conduct, the mind, and discernment. The newcomer introduction
 explicitly tells readers that the technical middle ladder is evidence for the
 closing point, not a list they must memorize.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
 
 ## Readability Review
 

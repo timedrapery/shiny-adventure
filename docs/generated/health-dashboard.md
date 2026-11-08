@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2212 |
+| Distinct surfaces | 2202 |
 | Governed surfaces | 854 |
-| Ungoverned surfaces | 1358 |
-| Coverage by surface | 38.6% |
-| Coverage by occurrence | 59.3% |
+| Ungoverned surfaces | 1348 |
+| Coverage by surface | 38.8% |
+| Coverage by occurrence | 59.2% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -37,19 +37,23 @@ single row as a lead rather than a fact.
 | `compound` | 67 |
 | `exact` | 391 |
 | `inflected` | 396 |
-| `none` | 1358 |
+| `none` | 1348 |
 
-### Ungoverned surfaces by frequency (1358 total)
+### Ungoverned surfaces by frequency (1348 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
 | `samma` | 35 | mn117-mahacattarisaka-sutta-notes.md, mn117-mahacattarisaka-sutta.md, mn118-anapanasati-sutta-notes.md, mn141-saccavibhanga-sutta-notes.md, mn141-saccavibhanga-sutta.md |
 | `uppajjati` | 21 | mn148-chachakka-sutta-notes.md, mn18-madhupindika-sutta-notes.md, mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
 | `paticca` | 19 | mn148-chachakka-sutta-notes.md, mn18-madhupindika-sutta-notes.md, terms/ |
+| `cetaso` | 16 | dn2-samannaphala-sutta-notes.md, mn119-kayagatasati-sutta-notes.md, mn141-saccavibhanga-sutta-notes.md, mn19-dvedhavitakka-sutta-notes.md, mn26-pasarasi-sutta-notes.md |
 | `mama` | 13 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn12-61-assutava-sutta-notes.md, sn22-59-anattalakkhana-sutta-notes.md |
 | `yathabhutam` | 12 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, terms/ |
+| `ekodibhava` | 11 | dn2-samannaphala-sutta-notes.md, mn119-kayagatasati-sutta-notes.md, mn141-saccavibhanga-sutta-notes.md, mn19-dvedhavitakka-sutta-notes.md, mn26-pasarasi-sutta-notes.md |
+| `samahita` | 11 | an10-60-giriminanda-sutta-notes.md, an11-12-dutiyamahanama-sutta-notes.md, an4-5-anusota-sutta-notes.md, an4-5-anusota-sutta.md, dn2-samannaphala-sutta-notes.md |
 | `pahaya` | 10 | an8-39-abhisanda-sutta-notes.md, terms/ |
 | `panca` | 10 | an4-5-anusota-sutta-notes.md, an8-39-abhisanda-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
+| `samadahati` | 10 | an10-60-giriminanda-sutta-notes.md, an11-12-dutiyamahanama-sutta-notes.md, an4-5-anusota-sutta-notes.md, dn2-samannaphala-sutta-notes.md, mn10-satipatthana-sutta-notes.md |
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `cetasa` | 9 | an11-9-saddha-sutta-notes.md, an3-65-kesamutta-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, mn39-maha-assapura-sutta-notes.md, terms/ |
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
@@ -64,10 +68,6 @@ single row as a lead rather than a fact.
 | `apajjati` | 7 | an3-88-tatiyasikkha-sutta-notes.md, an4-113-patoda-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `asmiti` | 7 | terms/ |
 | `assasissamiti` | 7 | terms/ |
-| `imassa` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
-| `kayanupassi` | 7 | terms/ |
-| `kaye` | 7 | terms/ |
-| `loko` | 7 | an2-9-cariya-sutta-notes.md, mn63-culamalukya-sutta-notes.md, terms/ |
 
 ## Drift
 
@@ -169,7 +169,7 @@ state is visible rather than inferred from silence.
 | Measure | Value |
 | --- | --- |
 | Surfaces in the cohort | 12 |
-| Source fidelity signed off | 4 |
+| Source fidelity signed off | 3 |
 | Human read-aloud complete | 2 |
 | Newcomer reviews recorded | 0 |
 | Newcomer reviews counting for the current body | 0 |

@@ -160,7 +160,7 @@ and relinquished, they think:
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -169,7 +169,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -178,7 +178,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -188,7 +188,7 @@ and relinquished.'
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 ### No Obstacle
 

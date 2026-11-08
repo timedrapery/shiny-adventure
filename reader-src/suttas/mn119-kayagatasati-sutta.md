@@ -16,7 +16,7 @@
 This is a long practice text built around one question: what changes when
 remembering is repeatedly directed to the body? It moves from breathing and
 ordinary movement through the body's contents, its elements, death, deep
-composure, resilience, and ten claimed results. You do not need to settle how
+unification of mind, resilience, and ten claimed results. You do not need to settle how
 to interpret every extraordinary result before following that practical arc.
 
 ## Translation
@@ -60,7 +60,7 @@ They train: 'Breathing in, I will calm the body conditioner.' They train:
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This is how a bhikkhu develops kāyagatā sati.
 
@@ -72,7 +72,7 @@ However the body is placed, they know it that way.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -83,7 +83,7 @@ sitting, falling asleep, waking, speaking, and keeping silent.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -105,7 +105,7 @@ body and identifies what is inside it.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -123,7 +123,7 @@ bhikkhu reviews this body in terms of its elements.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -149,7 +149,7 @@ same nature. It will become like that and has not gone beyond it.'
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -167,25 +167,25 @@ kneads it until the whole ball is saturated inside and out without dripping.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
 ### The Second Mental Theme
 
-With thinking and pondering stilled, with inner clarity and unification of
+With thinking and pondering stilled, with inner clarity and singleness of
 mind, a bhikkhu enters and remains in the second mental theme, with rejoicing
-and satisfaction born of composure.
+and satisfaction born of unification.
 
 They fill and suffuse this very body with rejoicing and satisfaction born of
-composure, so no part remains untouched.
+unification, so no part remains untouched.
 
 It is like a deep lake fed by a cool spring from within, with no outside inlet
 and no rain. The cool water fills and suffuses the whole lake.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -204,7 +204,7 @@ fills and suffuses them from root to tip.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -222,7 +222,7 @@ part of the body left uncovered.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -290,7 +290,7 @@ can be expected.
    divine sounds, whether far or near.
 7. They encompass the minds of others with their own and know a heart with or
    without passion, aversion, or delusion; contracted or distracted; expansive
-   or unexpansive; surpassable or unsurpassable; composed or uncomposed; freed
+   or unexpansive; surpassable or unsurpassable; unified or ununified; freed
    or unfreed.
 8. They recollect many past lives, from one or two births through many eons of
    world-contraction and expansion, remembering their circumstances and how
@@ -312,7 +312,7 @@ words.
 The ninth discourse, Kāyagatāsati Sutta, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (25)</summary>
+<summary>Words used in this translation (26)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -334,8 +334,6 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>delusion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -358,6 +356,10 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>singleness of mind</dfn></dt>
+<dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wholesome</dfn></dt>
@@ -373,7 +375,7 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn119/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn119-kayagatasati-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-24 · body version `d7be0fc7`
+- **Last editorial review:** 2026-11-08 · body version `dfdbf65a`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20119) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -399,7 +401,6 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
@@ -411,6 +412,8 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

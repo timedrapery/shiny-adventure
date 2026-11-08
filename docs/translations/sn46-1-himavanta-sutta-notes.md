@@ -104,10 +104,10 @@ No factor is added, removed, or reordered.
 
 - **The seven awakening factors are named two different ways across the
   corpus. Found here, not fixed.** SN 46.51 uses one attributive pattern for
-  all seven (`the discernment-of-qualities awakening factor`, `the composure
+  all seven (`the discernment-of-qualities awakening factor`, `the unification
   awakening factor`, `the dynamic-balance awakening factor`). MN 118 switches
   to a genitive for three of them (`the awakening factor of discernment of
-  qualities`, `the awakening factor of composure`) and drops the hyphens. Both
+  qualities`, `the awakening factor of unification`) and drops the hyphens. Both
   are defensible English and neither contradicts a term record, so nothing
   catches it. This surface follows SN 46.51, its neighbour in the same
   saṁyutta. A single pass across MN 118 would settle the corpus on one
@@ -134,6 +134,15 @@ No factor is added, removed, or reordered.
   body gets big.
 - The four-part tail is not decoration. It says what the seven factors are
   developed *toward*, and it is the same in every surface that lists them.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
 
 ## Readability Review
 

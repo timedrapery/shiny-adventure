@@ -28,9 +28,9 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `citta` remains `heart` in the training formulas.
 - `vedanā` remains `felt experience`, and the satipaṭṭhāna-fulfillment section
   keeps that wording rather than slipping back into generic feeling-language.
-- `samādhi` remains `composure`; this blocks drift toward
-  concentration-language without making samādhi the headword equivalent of
-  unification-of-mind language.
+- `samādhi` is now `unification of mind`, meaning the heart gathered
+  together and integrated; this blocks drift toward concentration-language
+  and should not be heard as one-pointed focus.
 - `upekkhā` remains `dynamic balance`.
 - `vossagga` and `paṭinissagga` remain `relinquishment`.
 
@@ -82,7 +82,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   knowing and adjusting the breath, bodily tension is softened and the body is
   calmed rather than merely watched.
 - This edition does not treat the first jhāna as distinct from ānāpānasati.
-  The same training clears distractions, brings up wholesome dhammas through
+  The same training clears hindrances, brings up wholesome dhammas through
   vitakka and vicāra, and keeps the line of practice going straight to the
   goal rather than beating around the bush.
 - In the satipaṭṭhāna-fulfillment section, the breathing training is not left
@@ -96,7 +96,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   body conditioner, while felt experience and recognition remain the mind
   conditioner worked with through breathing.
 - In the heart tetrad, the trainee remembers with each breath to
-  experience, gladden, bring the heart to composure, and free
+  experience, gladden, bring the heart to unification of mind, and free
   it.
 - `ekaggatā` in this repository is not governed as one-pointedness. In
   first-jhāna and ānāpānasati explanation it is the directness or single aim
@@ -115,7 +115,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - In the awakening-factor section, the factors are not governed as a second
   list laid on top of practice. They are the maturation of the same
   ānāpānasati training: remembering, discernment of qualities, energy,
-  delight, relaxation, composure, and dynamic balance. The conditioner
+  delight, relaxation, unification of mind, and dynamic balance. The conditioner
   language matters here because calming conditioning is part of how that
   maturation unfolds.
 
@@ -146,6 +146,17 @@ translation choices, source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Edition Status
 

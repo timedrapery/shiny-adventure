@@ -54,7 +54,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `citta` is rendered `heart` (major, house default) throughout the
   ānāpānassati steps: `cittapaṭisaṁvedī` → `experiencing the heart`,
   `abhippamodayaṁ cittaṁ` → `gladdening the heart`, `samādahaṁ
-  cittaṁ` → `composing the heart`, `vimocayaṁ cittaṁ` → `releasing
+  cittaṁ` → `unifying the heart`, `vimocayaṁ cittaṁ` → `releasing
   the heart`.
 - `mano` in `mano anattā` is rendered `thinking mind` (major, house default),
   keeping it distinct from `citta` within the same sutta.
@@ -137,6 +137,14 @@ have sufficient lexicon coverage:
   subside`) opens the teaching and is repeated verbatim at the close of the
   ten definitions before the narrative conclusion — following the Pali
   structure exactly.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Edition Status
 

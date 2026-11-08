@@ -12,7 +12,7 @@
   `establishment of sati`; `sati` is rendered `remembering`; `sampajañña` is
   rendered `clear knowing`; `vedanā` is rendered `felt experience`; `citta` is
   rendered `heart`; `dhamma` remains untranslated where English would
-  narrow it too quickly; `nīvaraṇa` family language uses `distraction`;
+  narrow it too quickly; `nīvaraṇa` family language uses `hindrance`;
   `upādāna` remains `taking personally`; and `nibbāna` remains untranslated.
 - Repeated refrain material is laid out in full when the pattern first needs to
   be heard clearly, then compacted where later repetitions add no new policy.
@@ -259,8 +259,8 @@ an unexpanded heart as 'unexpanded heart.'
 They discern a surpassable heart as 'surpassable heart.' They
 discern an unsurpassable heart as 'unsurpassable heart.'
 
-They discern a composed heart as 'composed heart.' They discern
-an uncomposed heart as 'uncomposed heart.'
+They discern a unified heart as 'unified heart.' They discern
+an ununified heart as 'ununified heart.'
 
 They discern a released heart as 'released heart.' They discern
 an unreleased heart as 'unreleased heart.'
@@ -278,15 +278,15 @@ heart."
 
 ### Contemplation of Dhammas
 
-#### The Five Distractions
+#### The Five Hindrances
 
 "And how does a bhikkhu remain observing dhammas among dhammas?
 
 Here a bhikkhu remains observing dhammas among dhammas in the five
-distractions.
+hindrances.
 
 And how does a bhikkhu remain observing dhammas among dhammas in the five
-distractions?
+hindrances?
 
 When sensual distraction is present internally, they discern: 'There is sensual
 distraction in me.' When sensual distraction is absent internally, they
@@ -390,7 +390,7 @@ arisen remembering awakening factor comes to fulfillment through development.
 
 The same pattern applies for the awakening factor of discernment of qualities,
 the energy awakening factor, the rejoicing awakening factor, the relaxation
-awakening factor, the composure awakening factor, and the dynamic
+awakening factor, the unification awakening factor, and the dynamic
 balance awakening factor.
 
 [The same dhammas refrain follows here.]"

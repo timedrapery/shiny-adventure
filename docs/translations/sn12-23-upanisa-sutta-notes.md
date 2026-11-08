@@ -16,7 +16,7 @@ source-audit calls, and edition notes that govern it.
 - Working method: the discourse was governed as the repository's control
   surface for the positive dependent-arising sequence, which runs from
   dissatisfaction through confidence → actively happy state → rejoicing →
-  relaxation → satisfaction → composure → seeing things as they are →
+  relaxation → satisfaction → unification of mind → seeing things as they are →
   disenchantment → fading → release → knowledge of outflow destruction.
 
 ## Governing Decisions
@@ -31,11 +31,11 @@ source-audit calls, and edition notes that govern it.
 - The positive sequence follows the current house defaults updated for this
   governance pass: `saddhā` → `confidence`; `pāmojja` → `actively happy
   state`; `pīti` → `rejoicing`; `passaddhi` → `relaxation`; `sukha` →
-  `satisfaction`; `samādhi` → `composure`.
-- `Composure` is used as the short form of `samādhi` here rather than the
-  full `composure`. In the condensed vertical sequence — where each
-  link is named as a single noun — `composure` reads more cleanly. The
-  full `composure` remains the default outside sequence contexts.
+  `satisfaction`; `samādhi` → `unification of mind`.
+- `Unification of mind` is kept in full in the condensed vertical sequence,
+  where each link is otherwise named as a single noun. The compact
+  `unification` is reserved for compounds, so the sequence keeps the house
+  default.
 - `yathābhūtañāṇadassana` is rendered `seeing things as they are`. The
   compound: `yathābhūta` (as things actually are) + `ñāṇa` (knowing) +
   `dassana` (seeing). The rendering keeps it as a single practical phrase
@@ -68,7 +68,7 @@ have sufficient lexicon coverage:
 - `pīti` → `rejoicing` (major, updated)
 - `passaddhi` → `relaxation` (major)
 - `sukha` → `satisfaction` (major)
-- `samādhi` → `composure` / `composure` (major)
+- `samādhi` → `unification of mind` (major)
 - `nibbidā` → `disenchantment` (major)
 - `virāga` → `fading` (major)
 - `vimutti` → `release` (major)
@@ -116,13 +116,22 @@ have sufficient lexicon coverage:
   using `evameva kho` (in the same way). The editorial flow preserves this
   pairing: simile → chain restatement within the same section.
 
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+
 ## Edition Status
 
 - This companion supports the first stable study edition of the repo's
   SN 12.23 translation surface.
 - Future revisions should focus on the `upanisā` rendering if the term gains
   a lexicon entry of its own, the `yathābhūtañāṇadassana` rendering if the
-  ñāṇadassana family develops a narrower governed phrase, or the `composure`
+  ñāṇadassana family develops a narrower governed phrase, or the `unification of mind`
   shortening if the samādhi record later specifies when the abbreviated form
   is and is not appropriate.
 

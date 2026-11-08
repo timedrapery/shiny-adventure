@@ -7,14 +7,14 @@
 
 *SN 51.13, the Chandasamādhi Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 485 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 493 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
 ## Before you read
 
 One formula, stated four times over, with a single word changed each time:
-composure through desire, through energy, through the feeling mind, through
+unification through desire, through energy, through the feeling mind, through
 investigation — each paired with the effort of putting things together.
 
 Every version then unfolds the same way. The effort not to let unhelpful
@@ -27,10 +27,10 @@ it everywhere else in the collection.
 
 ## Translation
 
-### Composure Through Desire
+### Unification Through Desire
 
-"Bhikkhus, if a bhikkhu gains composure in dependence on desire, gains
-directness of heart, this is called composure through desire.
+"Bhikkhus, if a bhikkhu gains unification of mind in dependence on desire, gains
+directness of heart, this is called unification through desire.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
 qualities; they make an effort, arouse energy, take hold of the heart,
@@ -51,16 +51,16 @@ themselves.
 
 These are called the exertion conditioners.
 
-So there is this desire, and this composure through desire, and these exertion
+So there is this desire, and this unification through desire, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses composure through
+This, bhikkhus, is called the basis of power that possesses unification through
 desire together with the exertion conditioners.
 
-### Composure Through Energy
+### Unification Through Energy
 
-Bhikkhus, if a bhikkhu gains composure in dependence on energy, gains
-directness of heart, this is called composure through energy.
+Bhikkhus, if a bhikkhu gains unification of mind in dependence on energy, gains
+directness of heart, this is called unification through energy.
 
 They generate desire for the non-arising of unarisen ... they generate desire
 for the continuation, non-confusion, increase, abundance, development, and
@@ -69,16 +69,16 @@ take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
-So there is this energy, and this composure through energy, and these exertion
+So there is this energy, and this unification through energy, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses composure through
+This, bhikkhus, is called the basis of power that possesses unification through
 energy together with the exertion conditioners.
 
-### Composure Through the Heart
+### Unification Through the Heart
 
-Bhikkhus, if a bhikkhu gains composure in dependence on the heart,
-gains directness of heart, this is called composure through the
+Bhikkhus, if a bhikkhu gains unification of mind in dependence on the heart,
+gains directness of heart, this is called unification through the
 heart.
 
 They generate desire for the non-arising of unarisen harmful ... they generate
@@ -88,16 +88,16 @@ energy, take hold of the heart, and exert themselves.
 
 These are called the exertion conditioners.
 
-So there is this heart, and this composure through the heart,
+So there is this heart, and this unification through the heart,
 and these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses composure through
+This, bhikkhus, is called the basis of power that possesses unification through
 the heart together with the exertion conditioners.
 
-### Composure Through Investigation
+### Unification Through Investigation
 
-Bhikkhus, if a bhikkhu gains composure in dependence on investigation,
-gains directness of heart, this is called composure through
+Bhikkhus, if a bhikkhu gains unification of mind in dependence on investigation,
+gains directness of heart, this is called unification through
 investigation.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
@@ -109,23 +109,25 @@ heart, and exert themselves.
 
 These are called the exertion conditioners.
 
-So there is this investigation, and this composure through investigation, and
+So there is this investigation, and this unification through investigation, and
 these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses composure through
+This, bhikkhus, is called the basis of power that possesses unification through
 investigation together with the exertion conditioners."
 
 <details class="reader-terms">
-<summary>Words used in this translation (6)</summary>
+<summary>Words used in this translation (7)</summary>
 <dl>
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wholesome</dfn></dt>
@@ -139,7 +141,7 @@ investigation together with the exertion conditioners."
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn51.13/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn51-13-chandasamadhi-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `9bab46d9`
+- **Last editorial review:** 2026-11-08 · body version `04e6dc98`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2051.13) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -157,7 +159,8 @@ investigation together with the exertion conditioners."
 
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

@@ -18,7 +18,7 @@ source-audit calls, and edition notes that govern it.
   `upekkha-satiparisuddha`, `asava`, `abhinna`, `vijja`, and the generated
   jhāna control sheets.
 - Working method: the gradual-training lead-in, the clearing of the five
-  distractions, the four mental themes, and the higher-knowledge sequence are
+  hindrances, the four mental themes, and the higher-knowledge sequence are
   governed together so DN 2 reads as one controlled training arc rather than
   as disconnected stock passages.
 
@@ -29,13 +29,13 @@ source-audit calls, and edition notes that govern it.
 - `pātimokkha` remains untranslated in the core going-forth formula.
 - `indriyasaṃvara` is handled through `guarding the faculties`.
 - The hindrance-clearing section keeps the collective line as `these five
-  distractions` while allowing source-close wording inside the five individual
+  hindrances` while allowing source-close wording inside the five individual
   abandonings.
 - `jhāna` remains `mental theme` throughout the fourfold sequence.
-- `samādhi` remains `composure`, while `cetaso ekodibhāva` keeps
-  `unification of mind` in the second-theme formula.
+- `samādhi` is now `unification of mind`, while `cetaso ekodibhāva` is now
+  `singleness of mind` in the second-theme formula, so the two stay distinct.
 - The second-theme rejoicing pair is rendered `rejoicing and satisfaction born
-  of composure` so the formula stays aligned with the live `samādhi` policy and
+  of unification` so the formula stays aligned with the live `samādhi` policy and
   existing translation surfaces.
 - `abhiññā` remains in higher-knowing territory without spectacle language,
   and `āsava` remains `outflow`.
@@ -50,7 +50,7 @@ source-audit calls, and edition notes that govern it.
   is compressed only enough to keep the document readable as one study text.
 - The gradual-training turn is the real center of the discourse. The file
   therefore gives full space to conduct, guarding the faculties, clear
-  knowing, contentment, distraction-clearing, and the four mental themes.
+  knowing, contentment, hindrance-clearing, and the four mental themes.
 - The long conduct lists stay plain and modern rather than sounding liturgical
   or pseudo-biblical. DN 2 needs stable training prose more than prestige
   diction.
@@ -98,7 +98,7 @@ source-audit calls, and edition notes that govern it.
 - If more higher-knowing passages are translated, the repo may want one
   tighter translator-facing note for the move from the four mental themes into
   knowledge and vision, higher knowing, and outflow-ending.
-- If future translation work pressures the individual five-distraction
+- If future translation work pressures the individual five-hindrance
   abandonings further, the repo may want a compact phrase-record layer for
   that DN 2 lead-in rather than leaving it controlled only by headwords and
   this note surface.
@@ -110,7 +110,7 @@ source-audit calls, and edition notes that govern it.
 - This pass repaired corrupted and mismatched pronouns, made the second visible
   fruit sound like live dialogue, turned the shorter conduct list into clear
   spoken actions, and restored the force of the Buddha's closing remark. It
-  preserved the rival-teacher sequence, gradual training, distraction clearing,
+  preserved the rival-teacher sequence, gradual training, hindrance clearing,
   four mental themes, higher knowings, and outflow-ending formulas.
 - Governed wording left unchanged: `for one living at home` and `restrained by
   restraint in the pātimokkha` in the going-forth formula, and `One of dynamic
@@ -120,6 +120,21 @@ source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`. The five named members keep their governed names.
 
 ## Edition Status
 

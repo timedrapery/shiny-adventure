@@ -56,7 +56,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="getting started|four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="good friendship is the whole path sn 45.2 upaḍḍha sutta ānanda calls good friendship half the spiritual life; the buddha calls it the whole. a short, social bridge from testing a teaching to actually developing the path. getting started · four truths and path">
 <h2><a href="../suttas/sn45-2-upaddha-sutta/">Good Friendship Is the Whole Path</a></h2>
 <p class="sutta-card__reference">SN 45.2 · <span lang="pi">Upaḍḍha Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Short · about 2 min · 330 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Short · about 2 min · 332 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started · Four truths and path</p>
 <p>Ānanda calls good friendship half the spiritual life; the Buddha calls it the whole. A short, social bridge from testing a teaching to actually developing the path.</p>
 </article>
@@ -70,14 +70,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="long" data-search="the two searches mn 26 pāsarāsi sutta the buddha&#x27;s own account of leaving home, studying under two teachers, and finding them insufficient. a narrative, not a doctrine — a human anchor before the vocabulary gets technical. getting started">
 <h2><a href="../suttas/mn26-pasarasi-sutta/">The Two Searches</a></h2>
 <p class="sutta-card__reference">MN 26 · <span lang="pi">Pāsarāsi Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Long · about 31 min · 5,407 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Long · about 31 min · 5,411 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started</p>
 <p>The Buddha&#x27;s own account of leaving home, studying under two teachers, and finding them insufficient. A narrative, not a doctrine — a human anchor before the vocabulary gets technical.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the first teaching sn 56.11 dhammacakkappavattana sutta the first sermon: the four noble truths and the eightfold path stated directly. foundational, but reads better once stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize. four truths and path">
 <h2><a href="../suttas/sn56-11-dhammacakkappavattana-sutta/">The First Teaching</a></h2>
 <p class="sutta-card__reference">SN 56.11 · <span lang="pi">Dhammacakkappavattana Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,221 words</p>
+<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,225 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
 </article>
@@ -88,17 +88,17 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A bhikkhu asks what ignorance means. The answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="analysis" data-length="short" data-search="what the eightfold path means sn 45.8 vibhaṅga sutta the eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="analysis" data-length="short" data-search="what the eightfold path means sn 45.8 vibhaṅga sutta the eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart. four truths and path">
 <h2><a href="../suttas/sn45-8-vibhanga-sutta/">What the Eightfold Path Means</a></h2>
 <p class="sutta-card__reference">SN 45.8 · <span lang="pi">Vibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 524 words</p>
+<p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 532 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and compose the heart.</p>
+<p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="three trainings cover everything an 3.88 tatiyasikkhā sutta more than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. minor mistakes can be repaired, and even partial training still bears fruit. four truths and path">
 <h2><a href="../suttas/an3-88-tatiyasikkha-sutta/">Three Trainings Cover Everything</a></h2>
 <p class="sutta-card__reference">AN 3.88 · <span lang="pi">Tatiyasikkhā Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching · Short · about 3 min · 366 words</p>
+<p class="sutta-card__meta">Introductory · Teaching · Short · about 3 min · 368 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. Minor mistakes can be repaired, and even partial training still bears fruit.</p>
 </article>
@@ -168,7 +168,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four steps that lead to the path sn 55.5 dutiyasāriputta sutta what actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. the first item is social, not inward. four truths and path">
 <h2><a href="../suttas/sn55-5-dutiyasariputta-sutta/">Four Steps That Lead to the Path</a></h2>
 <p class="sutta-card__reference">SN 55.5 · <span lang="pi">Dutiyasāriputta Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching · Short · about 2 min · 252 words</p>
+<p class="sutta-card__meta">Introductory · Teaching · Short · about 2 min · 256 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. The first item is social, not inward.</p>
 </article>
@@ -182,14 +182,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="two kinds of thinking mn 19 dvedhāvitakka sutta sorting thoughts into two bins and learning what to do with each. the simplest possible entry point into mind-training. meditation">
 <h2><a href="../suttas/mn19-dvedhavitakka-sutta/">Two Kinds of Thinking</a></h2>
 <p class="sutta-card__reference">MN 19 · <span lang="pi">Dvedhāvitakka Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 10 min · 1,769 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 10 min · 1,777 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="could this be the path to awakening? mn 36 mahāsaccaka sutta a debater says some people train the body and others the mind. the buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. through all of it, neither pain nor pleasure took over his heart. meditation">
 <h2><a href="../suttas/mn36-mahasaccaka-sutta/">Could This Be the Path to Awakening?</a></h2>
 <p class="sutta-card__reference">MN 36 · <span lang="pi">Mahāsaccaka Sutta</span></p>
-<p class="sutta-card__meta">Practical · Dialogue · Long · about 36 min · 6,318 words</p>
+<p class="sutta-card__meta">Practical · Dialogue · Long · about 36 min · 6,330 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>A debater says some people train the body and others the mind. The Buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. Through all of it, neither pain nor pleasure took over his heart.</p>
 </article>
@@ -210,14 +210,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation|mind and senses" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="six things to remember anywhere an 11.12 dutiyamahānāma sutta mahānāma asks how to practice in ordinary life while the buddha is away. the answer gives five qualities to stand on and six things to remember while moving, working, or living with family. meditation · mind and senses">
 <h2><a href="../suttas/an11-12-dutiyamahanama-sutta/">Six Things to Remember Anywhere</a></h2>
 <p class="sutta-card__reference">AN 11.12 · <span lang="pi">Dutiyamahānāma Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Short · about 4 min · 547 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 4 min · 549 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation · Mind and senses</p>
 <p>Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="remembering the dhamma while breathing in and out mn 118 ānāpānasati sutta step-by-step instructions for remembering the dhamma while breathing in and out. the first text on this list that is a practice manual rather than a teaching about practice. meditation">
 <h2><a href="../suttas/mn118-anapanasati-sutta/">Remembering the Dhamma While Breathing In and Out</a></h2>
 <p class="sutta-card__reference">MN 118 · <span lang="pi">Ānāpānasati Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,002 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,010 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Step-by-step instructions for remembering the Dhamma while breathing in and out. The first text on this list that is a practice manual rather than a teaching about practice.</p>
 </article>
@@ -228,12 +228,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="remembering directed to the body mn 119 kāyagatāsati sutta a long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep composure, resilience, and ten claimed results. meditation">
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="remembering directed to the body mn 119 kāyagatāsati sutta a long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep unification of mind, resilience, and ten claimed results. meditation">
 <h2><a href="../suttas/mn119-kayagatasati-sutta/">Remembering Directed to the Body</a></h2>
 <p class="sutta-card__reference">MN 119 · <span lang="pi">Kāyagatāsati Sutta</span></p>
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,083 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>A long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep composure, resilience, and ten claimed results.</p>
+<p>A long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep unification of mind, resilience, and ten claimed results.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="what does a renunciant gain? dn 2 sāmaññaphala sutta a king asks what a renunciant actually gets out of the life. a full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view. ethics and conduct · meditation">
 <h2><a href="../suttas/dn2-samannaphala-sutta/">What Does a Renunciant Gain?</a></h2>
@@ -256,12 +256,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="what feeds and starves distraction sn 46.51 āhāra sutta what feeds the distractions that block practice, and what starves them. a closing, practical text for this stage. meditation">
-<h2><a href="../suttas/sn46-51-ahara-sutta/">What Feeds and Starves Distraction</a></h2>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="what feeds and starves the hindrances sn 46.51 āhāra sutta what feeds the hindrances that block practice, and what starves them. a closing, practical text for this stage. meditation">
+<h2><a href="../suttas/sn46-51-ahara-sutta/">What Feeds and Starves the Hindrances</a></h2>
 <p class="sutta-card__reference">SN 46.51 · <span lang="pi">Āhāra Sutta</span></p>
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,518 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>What feeds the distractions that block practice, and what starves them. A closing, practical text for this stage.</p>
+<p>What feeds the hindrances that block practice, and what starves them. A closing, practical text for this stage.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="conduct is where practice grows sn 46.1 himavanta sutta nāgas grow big enough for the ocean by first growing on a mountain. conduct is put in the mountain&#x27;s place: it is what the seven awakening factors get large on. ethics and conduct · meditation">
 <h2><a href="../suttas/sn46-1-himavanta-sutta/">Conduct Is Where Practice Grows</a></h2>
@@ -350,7 +350,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="medium" data-search="from dissatisfaction to freedom sn 12.23 upanisa sutta the positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain. dependent arising">
 <h2><a href="../suttas/sn12-23-upanisa-sutta/">From Dissatisfaction to Freedom</a></h2>
 <p class="sutta-card__reference">SN 12.23 · <span lang="pi">Upanisa Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Teaching · Medium · about 8 min · 1,280 words</p>
+<p class="sutta-card__meta">Intermediate · Teaching · Medium · about 8 min · 1,294 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.</p>
 </article>
@@ -392,14 +392,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path|dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="medium" data-search="right view from many angles mn 9 sammādiṭṭhi sutta right view examined through more than a dozen different doctrinal lenses in one text. reads best as a review once the pieces it is reviewing are already familiar. four truths and path · dependent arising">
 <h2><a href="../suttas/mn9-sammaditthi-sutta/">Right View from Many Angles</a></h2>
 <p class="sutta-card__reference">MN 9 · <span lang="pi">Sammādiṭṭhi Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 15 min · 2,639 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 15 min · 2,645 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Dependent arising</p>
 <p>Right view examined through more than a dozen different doctrinal lenses in one text. Reads best as a review once the pieces it is reviewing are already familiar.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="questions and answers on the teaching mn 44 cūḷavedalla sutta a systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. mind and senses">
 <h2><a href="../suttas/mn44-culavedalla-sutta/">Questions and Answers on the Teaching</a></h2>
 <p class="sutta-card__reference">MN 44 · <span lang="pi">Cūḷavedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,457 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,481 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.</p>
 </article>
@@ -413,16 +413,16 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="advanced" data-form="practice instructions" data-length="short" data-search="the four bases of power sn 51.13 chandasamādhi sutta one short formula, stated four times, defining the four bases of power. useful mainly as a reference for how the effort formula is built. meditation">
 <h2><a href="../suttas/sn51-13-chandasamadhi-sutta/">The Four Bases of Power</a></h2>
 <p class="sutta-card__reference">SN 51.13 · <span lang="pi">Chandasamādhi Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Practice instructions · Short · about 3 min · 485 words</p>
+<p class="sutta-card__meta">Advanced · Practice instructions · Short · about 3 min · 493 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>One short formula, stated four times, defining the four bases of power. Useful mainly as a reference for how the effort formula is built.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="advanced" data-form="practice instructions" data-length="short" data-search="the five faculties sn 48.10 dutiyavibhaṅga sutta five definitions, one per faculty, each written as something a person does rather than something they have. the shortest place to see confidence, energy, remembering, composure, and discernment treated as one set. meditation">
+<article class="sutta-card" data-topic="meditation" data-difficulty="advanced" data-form="practice instructions" data-length="short" data-search="the five faculties sn 48.10 dutiyavibhaṅga sutta five definitions, one per faculty, each written as something a person does rather than something they have. the shortest place to see confidence, energy, remembering, unification of mind, and discernment treated as one set. meditation">
 <h2><a href="../suttas/sn48-10-dutiyavibhanga-sutta/">The Five Faculties</a></h2>
 <p class="sutta-card__reference">SN 48.10 · <span lang="pi">Dutiyavibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Practice instructions · Short · about 4 min · 643 words</p>
+<p class="sutta-card__meta">Advanced · Practice instructions · Short · about 4 min · 645 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>Five definitions, one per faculty, each written as something a person does rather than something they have. The shortest place to see confidence, energy, remembering, composure, and discernment treated as one set.</p>
+<p>Five definitions, one per faculty, each written as something a person does rather than something they have. The shortest place to see confidence, energy, remembering, unification of mind, and discernment treated as one set.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the five lower fetters mn 64 mahāmālukya sutta the five lower fetters, and the companion piece to mn 63 — same disciple, later in his practice. mind and senses">
 <h2><a href="../suttas/mn64-mahamalukya-sutta/">The Five Lower Fetters</a></h2>
@@ -448,21 +448,21 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the four truths in detail mn 141 saccavibhaṅga sutta the four noble truths again, now in full analytical detail rather than the compressed form from stage 2. four truths and path">
 <h2><a href="../suttas/mn141-saccavibhanga-sutta/">The Four Truths in Detail</a></h2>
 <p class="sutta-card__reference">MN 141 · <span lang="pi">Saccavibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 9 min · 1,501 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 9 min · 1,509 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the eightfold path in detail mn 117 mahācattārīsaka sutta a technical analysis of the eightfold path, factor by factor. four truths and path">
 <h2><a href="../suttas/mn117-mahacattarisaka-sutta/">The Eightfold Path in Detail</a></h2>
 <p class="sutta-card__reference">MN 117 · <span lang="pi">Mahācattārīsaka Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,097 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,115 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A technical analysis of the eightfold path, factor by factor.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="six things examined an 6.63 nibbedhika sutta one analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction. includes the line that defines action as intention. four truths and path">
 <h2><a href="../suttas/an6-63-nibbedhika-sutta/">Six Things Examined</a></h2>
 <p class="sutta-card__reference">AN 6.63 · <span lang="pi">Nibbedhika Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,103 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,115 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction. Includes the line that defines action as intention.</p>
 </article>

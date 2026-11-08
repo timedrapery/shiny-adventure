@@ -7,7 +7,7 @@
 
 *MN 36, the Mahāsaccaka Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 36 min · 6,318 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 36 min · 6,330 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -33,7 +33,7 @@ moment he remembered a calm satisfaction he had known long before and asked,
 
 Listen for the line that comes back after every stage of the story. The pain
 was extreme, and it did not take over his heart. Later the satisfaction of
-deep composure was extreme too, and it did not take over his heart either.
+deep unification of mind was extreme too, and it did not take over his heart either.
 
 ## Translation
 
@@ -231,7 +231,7 @@ knowledge, and entered and remain in it?'
 "Then I thought: 'It is not only Āḷāra Kālāma who has confidence. I have
 confidence too. It is not only Āḷāra Kālāma who has energy. I have energy
 too. It is not only Āḷāra Kālāma who has remembering. I have remembering too.
-It is not only Āḷāra Kālāma who has composure. I have composure too. It is
+It is not only Āḷāra Kālāma who has unification of mind. I have unification of mind too. It is
 not only Āḷāra Kālāma who has discernment. I have discernment too. What if I
 were to exert myself to realize the teaching that Āḷāra Kālāma declares he
 has realized for himself with direct knowledge, and entered and remains in?'
@@ -293,7 +293,7 @@ neither-recognition-nor-non-recognition.
 "Then I thought: 'It was not only Rāma who had confidence. I have confidence
 too. It was not only Rāma who had energy. I have energy too. It was not only
 Rāma who had remembering. I have remembering too. It was not only Rāma who
-had composure. I have composure too. It was not only Rāma who had
+had unification of mind. I have unification of mind too. It was not only Rāma who had
 discernment. I have discernment too. What if I were to exert myself to
 realize the teaching that Rāma declared he had realized for himself with
 direct knowledge, and entered and remained in?'
@@ -618,9 +618,9 @@ the first mental theme, with thinking and pondering, and with rejoicing and
 satisfaction born of seclusion. But even pleasant feeling like that, once it
 arose, did not take over my heart.
 
-"With thinking and pondering subsiding, with inner clarity and unification of
+"With thinking and pondering subsiding, with inner clarity and singleness of
 mind, I entered and remained in the second mental theme, without thinking and
-pondering, with rejoicing and satisfaction born of composure. But even
+pondering, with rejoicing and satisfaction born of unification. But even
 pleasant feeling like that, once it arose, did not take over my heart.
 
 "With the fading of rejoicing, I remained in dynamic balance, remembering and
@@ -637,7 +637,7 @@ did not take over my heart.
 
 ### The Three Knowledges
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of recollecting past lives. I recollected many kinds of past
 lives, beginning with one birth. In this way I recollected many kinds of
@@ -649,7 +649,7 @@ darkness was dispelled and light arose, as happens for someone who lives
 diligent, ardent, and resolved. But even pleasant feeling like that, once it
 arose, did not take over my heart.
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of the passing away and reappearance of beings. With the divine
 eye, purified and surpassing the human, I saw beings passing away and
@@ -662,7 +662,7 @@ dispelled and light arose, as happens for someone who lives diligent,
 ardent, and resolved. But even pleasant feeling like that, once it arose,
 did not take over my heart.
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of the wearing away of the outflows.
 
@@ -698,8 +698,8 @@ Dhamma just for me.' But it should not be seen like that. The Tathāgata
 teaches others the Dhamma only so that they will understand.
 
 "When that talk is over, I steady my heart inwardly on that same sign of
-composure as before. I settle it, make it direct, and bring it into
-composure. That is how I live all the time."
+unification of mind as before. I settle it, make it direct, and bring it into
+unification of mind. That is how I live all the time."
 
 "That is believable of Master Gotama, as it would be of an arahant, a fully
 awakened Buddha. But does Master Gotama remember sleeping during the day?"
@@ -779,7 +779,7 @@ his seat, and left.
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (45)</summary>
+<summary>Words used in this translation (47)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -807,8 +807,6 @@ The sixth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>disenchantment</dfn></dt>
@@ -859,12 +857,18 @@ The sixth discourse is finished.
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
+<dt><dfn>singleness of mind</dfn></dt>
+<dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
 <dt><dfn>sphere of nothingness</dfn></dt>
 <dd>A deep meditative state in which awareness rests on there being nothing at all to take up.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wearing away</dfn></dt>
@@ -880,7 +884,7 @@ The sixth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn36/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn36-mahasaccaka-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-09-11 · body version `12920327`
+- **Last editorial review:** 2026-11-08 · body version `e063f77e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2036) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -909,7 +913,6 @@ The sixth discourse is finished.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
@@ -934,9 +937,12 @@ The sixth discourse is finished.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

@@ -167,7 +167,7 @@ and relinquished, they think:
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -176,7 +176,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -185,7 +185,7 @@ When they feel ease, the heart becomes composed.
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 "They think:
 
@@ -195,7 +195,7 @@ and relinquished.'
 They gain a sense of the meaning, gain a sense of the Dhamma, and gain gladness
 connected with the Dhamma. When they are gladdened, rejoicing arises. When the
 mind is rejoicing, the body grows calm. With the body calm, they feel ease.
-When they feel ease, the heart becomes composed.
+When they feel ease, the heart becomes unified.
 
 ### No Obstacle
 
@@ -411,7 +411,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn7/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn7-vattha-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `5a7fe259`
+- **Last editorial review:** 2026-11-08 · body version `2676a15d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%207) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -227,8 +227,8 @@ train like this: 'I will breathe out experiencing the heart.'
 They train like this: 'I will breathe in gladdening the heart.' They
 train like this: 'I will breathe out gladdening the heart.'
 
-They train like this: 'I will breathe in composing the heart.' They
-train like this: 'I will breathe out composing the heart.'
+They train like this: 'I will breathe in unifying the heart.' They
+train like this: 'I will breathe out unifying the heart.'
 
 They train like this: 'I will breathe in releasing the heart.' They
 train like this: 'I will breathe out releasing the heart.'

@@ -7,7 +7,7 @@
 
 *AN 6.63, the Nibbedhika Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,103 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,115 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -111,7 +111,7 @@ And what is the quenching of sensuality?
 The quenching of contact, bhikkhus, is the quenching of sensuality. And this
 noble eightfold path is the path of practice leading to the quenching of
 sensuality: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right composure.
+livelihood, right effort, right remembering, right unification of mind.
 
 When a noble disciple understands sensuality this way, understands where it
 comes from this way, understands the differences among its kinds this way,
@@ -154,7 +154,7 @@ And what is the quenching of felt experience?
 The quenching of contact, bhikkhus, is the quenching of felt experience. And
 this noble eightfold path is the path of practice leading to the quenching of
 felt experience: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right composure.
+livelihood, right effort, right remembering, right unification of mind.
 
 When a noble disciple understands felt experience this way, and so on through
 to the path of practice leading to its quenching, then they understand this
@@ -194,7 +194,7 @@ And what is the quenching of recognition?
 The quenching of contact, bhikkhus, is the quenching of recognition. And this
 noble eightfold path is the path of practice leading to the quenching of
 recognition: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right composure.
+livelihood, right effort, right remembering, right unification of mind.
 
 When a noble disciple understands recognition this way, and so on through to
 the path of practice leading to its quenching, then they understand this
@@ -235,7 +235,7 @@ And what is the quenching of the outflows?
 The quenching of ignorance, bhikkhus, is the quenching of the outflows. And
 this noble eightfold path is the path of practice leading to the quenching of
 the outflows: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right composure.
+livelihood, right effort, right remembering, right unification of mind.
 
 When a noble disciple understands the outflows this way, and so on through to
 the path of practice leading to their quenching, then they understand this
@@ -274,7 +274,7 @@ And what is the quenching of action?
 The quenching of contact, bhikkhus, is the quenching of action. And this noble
 eightfold path is the path of practice leading to the quenching of action:
 right view, right attitude, right speech, right action, right livelihood,
-right effort, right remembering, right composure.
+right effort, right remembering, right unification of mind.
 
 When a noble disciple understands action this way, and so on through to the
 path of practice leading to its quenching, then they understand this
@@ -325,7 +325,7 @@ The quenching of ignorant wanting, bhikkhus, is the quenching of
 dissatisfaction. And this noble eightfold path is the path of practice leading
 to the quenching of dissatisfaction: right view, right attitude, right speech,
 right action, right livelihood, right effort, right remembering, right
-composure.
+unification of mind.
 
 When a noble disciple understands dissatisfaction this way, understands where
 it comes from this way, understands the differences among its kinds this way,
@@ -374,7 +374,7 @@ The ninth discourse is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -389,8 +389,6 @@ The ninth discourse is finished.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -399,6 +397,8 @@ The ninth discourse is finished.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -414,7 +414,7 @@ The ninth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an6.63/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an6-63-nibbedhika-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `d40dbfbf`
+- **Last editorial review:** 2026-11-08 · body version `6d23d627`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%206.63) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -442,7 +442,7 @@ The ninth discourse is finished.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
@@ -450,11 +450,11 @@ The ninth discourse is finished.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

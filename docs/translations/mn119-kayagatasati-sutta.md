@@ -54,7 +54,7 @@ They train: 'Breathing in, I will calm the body conditioner.' They train:
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This is how a bhikkhu develops kāyagatā sati.
 
@@ -66,7 +66,7 @@ However the body is placed, they know it that way.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -77,7 +77,7 @@ sitting, falling asleep, waking, speaking, and keeping silent.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -99,7 +99,7 @@ body and identifies what is inside it.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -117,7 +117,7 @@ bhikkhu reviews this body in terms of its elements.
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -143,7 +143,7 @@ same nature. It will become like that and has not gone beyond it.'
 
 As they remain diligent, ardent, and committed, thoughts tied to household life
 are given up. With those thoughts gone, the heart settles within, grows quiet,
-becomes unified, and is mentally composed.
+becomes single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -161,25 +161,25 @@ kneads it until the whole ball is saturated inside and out without dripping.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
 ### The Second Mental Theme
 
-With thinking and pondering stilled, with inner clarity and unification of
+With thinking and pondering stilled, with inner clarity and singleness of
 mind, a bhikkhu enters and remains in the second mental theme, with rejoicing
-and satisfaction born of composure.
+and satisfaction born of unification.
 
 They fill and suffuse this very body with rejoicing and satisfaction born of
-composure, so no part remains untouched.
+unification, so no part remains untouched.
 
 It is like a deep lake fed by a cool spring from within, with no outside inlet
 and no rain. The cool water fills and suffuses the whole lake.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -198,7 +198,7 @@ fills and suffuses them from root to tip.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -216,7 +216,7 @@ part of the body left uncovered.
 
 As the bhikkhu remains diligent, ardent, and committed, thoughts tied to
 household life are given up. The heart settles within, grows quiet, becomes
-unified, and is mentally composed.
+single, and is mentally unified.
 
 This too is how a bhikkhu develops kāyagatā sati.
 
@@ -284,7 +284,7 @@ can be expected.
    divine sounds, whether far or near.
 7. They encompass the minds of others with their own and know a heart with or
    without passion, aversion, or delusion; contracted or distracted; expansive
-   or unexpansive; surpassable or unsurpassable; composed or uncomposed; freed
+   or unexpansive; surpassable or unsurpassable; unified or ununified; freed
    or unfreed.
 8. They recollect many past lives, from one or two births through many eons of
    world-contraction and expansion, remembering their circumstances and how

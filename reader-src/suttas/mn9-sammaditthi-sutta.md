@@ -7,7 +7,7 @@
 
 *MN 9, the Sammādiṭṭhi Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 15 min · 2,639 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 15 min · 2,645 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -172,7 +172,7 @@ of nutriment:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 When a noble disciple discerns nutriment in this way, discerns the origin of
 nutriment in this way, discerns the quenching of nutriment in this way, and
@@ -238,7 +238,7 @@ It is just this noble eightfold path:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 This is called the path of practice leading to the quenching of
 dissatisfaction.
@@ -516,7 +516,7 @@ eightfold path is the path of practice leading to the quenching of outflows:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 When a noble disciple discerns outflow in this way, discerns the origin of
 outflow in this way, discerns the quenching of outflow in this way, and
@@ -565,7 +565,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
@@ -587,7 +587,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>non-aversion</dfn></dt>
 <dd>The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.</dd>
 <dt><dfn>non-greed</dfn></dt>
@@ -610,8 +610,6 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -620,6 +618,8 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>six fields of experience</dfn></dt>
@@ -643,7 +643,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn9/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn9-sammaditthi-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `b8b5bd84`
+- **Last editorial review:** 2026-11-08 · body version `89876f26`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%209) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -669,7 +669,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
@@ -680,7 +680,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
@@ -690,11 +690,11 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[six fields of experience]: The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated "sense bases."
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."

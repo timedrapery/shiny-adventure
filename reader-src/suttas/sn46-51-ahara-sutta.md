@@ -3,7 +3,7 @@
      not this one. Newcomer guidance comes from includes/newcomer-guides;
      legacy reader introductions are preserved across regeneration. -->
 
-# What Feeds and Starves Distraction
+# What Feeds and Starves the Hindrances
 
 *SN 46.51, the Āhāra Sutta — set 3, Learning to Look at Your Own Mind*
 
@@ -14,7 +14,7 @@
 ## Before you read
 
 Anything that grows is being fed something. This text takes that literally:
-each of the five distractions has a diet, and so does each of the seven
+each of the five hindrances has a diet, and so does each of the seven
 awakening factors, and you can starve the one while feeding the other.
 
 The mechanism is attention. Whatever you keep giving unwise attention to
@@ -30,7 +30,7 @@ but "stop feeding this particular thing".
 
 At Savatthi.
 
-"Bhikkhus, I will explain what feeds and what starves the five distractions and
+"Bhikkhus, I will explain what feeds and what starves the five hindrances and
 the seven awakening factors. Listen carefully and pay close attention. I will
 speak."
 
@@ -38,7 +38,7 @@ speak."
 
 The Buddha said this:
 
-### What Feeds The Distractions
+### What Feeds The Hindrances
 
 "And what feeds the arising of sensual distraction when it has not yet arisen,
 or, if it has arisen, its increase and expansion?
@@ -117,11 +117,11 @@ There are bodily relaxation and relaxation of the heart. Repeated wise
 attention there feeds the arising of the relaxation awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what feeds the arising of the composure awakening factor when it
+"And what feeds the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated wise attention
-there feeds the arising of the composure awakening factor when it has
+there feeds the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what feeds the arising of the dynamic-balance awakening factor when it has
@@ -132,7 +132,7 @@ wise attention there feeds the arising of the dynamic-balance awakening factor
 when it has not yet arisen, or, if it has arisen, its development and
 fulfillment.
 
-### What Starves The Distractions
+### What Starves The Hindrances
 
 "And what starves the arising of sensual distraction when it has not yet
 arisen, or, if it has arisen, its increase and expansion?
@@ -213,11 +213,11 @@ There are bodily relaxation and relaxation of the heart. Repeated
 non-attention there starves the arising of the relaxation awakening factor when
 it has not yet arisen, or, if it has arisen, its development and fulfillment.
 
-"And what starves the arising of the composure awakening factor when it
+"And what starves the arising of the unification awakening factor when it
 has not yet arisen, or, if it has arisen, its development and fulfillment?
 
 There are the calm sign and the sign of non-scatter. Repeated non-attention
-there starves the arising of the composure awakening factor when it has
+there starves the arising of the unification awakening factor when it has
 not yet arisen, or, if it has arisen, its development and fulfillment.
 
 "And what starves the arising of the dynamic-balance awakening factor when it
@@ -245,14 +245,12 @@ The first discourse is finished.
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>discernment-of-qualities</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>dull distraction</dfn></dt>
 <dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
-<dt><dfn>five distractions</dfn></dt>
-<dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five hindrances</dfn></dt>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>heart</dfn></dt>
@@ -260,7 +258,7 @@ The first discourse is finished.
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>relaxation</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn></dt>
@@ -269,6 +267,8 @@ The first discourse is finished.
 <dd>Being pulled off track by wanting something pleasant.</dd>
 <dt><dfn>uncertain distraction</dfn></dt>
 <dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 </dl>
 </details>
 
@@ -278,7 +278,7 @@ The first discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn46.51/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn46-51-ahara-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `089c5d05`
+- **Last editorial review:** 2026-11-08 · body version `4e09b5a5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2046.51) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -300,15 +300,15 @@ The first discourse is finished.
 *[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[discernment-of-qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[sensual distraction]: Being pulled off track by wanting something pleasant.
 *[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."

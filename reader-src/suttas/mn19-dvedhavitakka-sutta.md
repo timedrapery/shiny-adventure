@@ -7,7 +7,7 @@
 
 *MN 19, the Dvedhāvitakka Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,769 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,777 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -55,8 +55,8 @@ The text is not telling you to fight every unwanted thought or to keep thinking 
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 </dl>
@@ -151,9 +151,9 @@ thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
 tired. When the body is tired, the heart becomes strained. When the
-heart is strained, it is far from composure. So I stilled the
+heart is strained, it is far from unification of mind. So I stilled the
 heart inwardly, settled it down, made it direct, and brought it into
-composure.
+unification of mind.
 
 Why is that?
 
@@ -189,15 +189,15 @@ In the same way, I only needed to remember: 'These dhammas are here.'
 
 "My energy was aroused and unflagging, remembering was established and did not
 slip, the body was tranquil and undisturbed, and the heart was
-well-composed and direct.
+well-unified and direct.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, I entered
 and remained in the first mental theme, with thinking and pondering, with
 rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, I entered and remained in the second mental theme, without
-thinking and pondering, with rejoicing and satisfaction born of composure.
+singleness of mind, I entered and remained in the second mental theme, without
+thinking and pondering, with rejoicing and satisfaction born of unification.
 
 With the fading of rejoicing, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
@@ -209,7 +209,7 @@ gladness and sadness, I entered and remained in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward recollecting past lives. I recollected many kinds of past lives, with
 their aspects and particulars.
@@ -218,7 +218,7 @@ This was the first knowledge I attained in the first watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the passing away and reappearance of beings. With the
 purified divine eye, surpassing the human, I saw beings passing away and
@@ -229,7 +229,7 @@ This was the second knowledge I attained in the middle watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the wearing away of the outflows.
 
@@ -283,7 +283,7 @@ the Evil One.
 
 'The bad path' is a term for the wrong eightfold path, that is: wrong view,
 wrong attitude, wrong speech, wrong action, wrong livelihood, wrong effort,
-wrong remembering, and wrong composure.
+wrong remembering, and wrong unification of mind.
 
 'The male decoy' is a term for relishing and passion.
 
@@ -295,7 +295,7 @@ Tathāgata, the arahant, the fully awakened Buddha.
 'The safe and secure path leading to delight' is a term for the noble
 eightfold path, that is: right view, right attitude, right speech, right
 action, right livelihood, right effort, right remembering, and right
-composure.
+unification of mind.
 
 So, bhikkhus, the safe and secure path leading to delight has been opened by
 me; the bad path has been closed off; the male decoy has been removed; the
@@ -314,7 +314,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (41)</summary>
+<summary>Words used in this translation (43)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -338,8 +338,6 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
@@ -359,7 +357,7 @@ Buddha had said.
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -374,8 +372,6 @@ Buddha had said.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -384,12 +380,20 @@ Buddha had said.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
+<dt><dfn>singleness of mind</dfn></dt>
+<dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wearing away</dfn></dt>
@@ -407,7 +411,7 @@ Buddha had said.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn19/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn19-dvedhavitakka-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `cbd316fc`
+- **Last editorial review:** 2026-11-08 · body version `736cf611`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2019) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -433,7 +437,6 @@ Buddha had said.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
@@ -442,7 +445,7 @@ Buddha had said.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
@@ -450,14 +453,17 @@ Buddha had said.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.

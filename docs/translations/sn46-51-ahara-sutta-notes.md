@@ -17,7 +17,7 @@ source-audit calls, and edition notes that govern it.
   `metta`, and `metta-cetovimutti`.
 - Working method: the discourse was governed as the next strategic
   translation-surface expansion after SN 36.6, with the repeated feeding and
-  starving formulas treated as a control surface for the distraction and
+  starving formulas treated as a control surface for the hindrance and
   awakening-factor families.
 
 ## Governing Decisions
@@ -32,7 +32,7 @@ source-audit calls, and edition notes that govern it.
 - The seven `bojjhanga` members follow the repository's established framework
   renderings: `remembering awakening factor`, `discernment-of-qualities
   awakening factor`, `energy awakening factor`, `rejoicing awakening factor`,
-  `relaxation awakening factor`, `composure awakening factor`, and
+  `relaxation awakening factor`, `unification awakening factor`, and
   `dynamic-balance awakening factor`. The fourth member uses `rejoicing`
   following the updated house default for `pīti` (major), which changed from
   `delight` to `rejoicing` to preserve the active quality of the term.
@@ -52,7 +52,7 @@ existing entries:
 - `yonisomanasikarabahulikaro` -> `repeated wise attention`
 - `ayonisomanasikarabahulikaro` -> `repeated unwise attention`
 - `satisambojjhanga` and the other awakening-factor member compounds
-- the fixed five-distractions family under `nivarana`
+- the fixed five-hindrances family under `nivarana`
 
 This pass therefore extends the translator-facing surface without reopening the
 lexicon unless later translation work shows that a narrower formula record
@@ -90,12 +90,23 @@ would materially reduce drift.
 ## Editorial Presentation
 
 - The main translation breaks the discourse into four prose sections:
-  `What Feeds The Distractions`, `What Feeds The Awakening Factors`,
-  `What Starves The Distractions`, and `What Starves The Awakening Factors`.
+  `What Feeds The Hindrances`, `What Feeds The Awakening Factors`,
+  `What Starves The Hindrances`, and `What Starves The Awakening Factors`.
 - Those headings are editorial aids only. Their job is to keep a highly
   repetitive teaching discourse readable as a study document.
 - Repetition is mostly preserved rather than collapsed, because SN 46.51 now
   serves as the repo's outward-facing feeding / starving control passage.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`. The five named members keep their governed names.
 
 ## Edition Status
 
@@ -110,7 +121,7 @@ would materially reduce drift.
 - Standard: `plain-english-v1`
 - Status: `provisional`
 - Review result: the feeding / starving question is repeated as the audible
-  frame, and each answer names one practical support; governed distraction
+  frame, and each answer names one practical support; governed hindrance
   and awakening-factor labels remain unchanged.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.

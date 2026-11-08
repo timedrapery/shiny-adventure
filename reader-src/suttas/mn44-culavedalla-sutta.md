@@ -7,7 +7,7 @@
 
 *MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,457 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,481 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -15,7 +15,7 @@
 
 The layman Visākha puts a long run of questions to the bhikkhunī Dhammadinnā,
 and she answers every one: what identity is, how it arises and how it ceases,
-what the eightfold path is, what composure is, what happens in the
+what the eightfold path is, what unification of mind is, what happens in the
 attainment of cessation, and how the three kinds of felt experience relate to
 the underlying tendencies.
 
@@ -100,7 +100,7 @@ identity?"
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 This, friend Visākha, is what the Buddha calls the path of practice leading to
 the quenching of identity."
@@ -177,7 +177,7 @@ This, friend Visākha, is how identity view does not come to be."
 - right livelihood
 - right effort
 - right remembering
-- right composure"
+- right unification of mind"
 
 "Ayye, is the noble eightfold path conditioned or unconditioned?"
 
@@ -192,25 +192,25 @@ path. Rather, the noble eightfold path is included within the three heaps.
 Right speech, right action, and right livelihood are included within the
 conduct heap.
 
-Right effort, right remembering, and right composure are included
-within the composure heap.
+Right effort, right remembering, and right unification of mind are included
+within the unification heap.
 
 Right view and right attitude are included within the discernment heap."
 
-### Composure
+### Unification of Mind
 
-"Ayye, what is composure? What dhammas are signs of composure?
-What dhammas are the equipment of composure? What is the development of
-composure?"
+"Ayye, what is unification of mind? What dhammas are signs of unification of mind?
+What dhammas are the equipment of unification of mind? What is the development of
+unification of mind?"
 
-"Friend Visākha, directness of the heart is composure.
+"Friend Visākha, directness of the heart is unification of mind.
 
-The four establishments of sati are signs of composure.
+The four establishments of sati are signs of unification of mind.
 
-The four right exertions are the equipment of composure.
+The four right exertions are the equipment of unification of mind.
 
 The repetition, development, and making-much of these same dhammas is the
-development of composure here."
+development of unification of mind here."
 
 ### Three Conditioners
 
@@ -482,7 +482,7 @@ Visākha the lay follower was satisfied and welcomed what the Buddha had said.
 The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (49)</summary>
+<summary>Words used in this translation (50)</summary>
 <dl>
 <dt><dfn>becoming</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
@@ -496,8 +496,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conditioned</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhata&quot; -- anything that came about because other things did, and that stops when they stop. Nearly everything is.</dd>
 <dt><dfn>conduct</dfn></dt>
@@ -537,7 +535,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.</dd>
+<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>path of practice</dfn></dt>
@@ -558,8 +556,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -568,6 +564,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>seclusion</dfn></dt>
@@ -580,6 +578,10 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;asaṅkhata&quot; -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.</dd>
 <dt><dfn>underlying tendency</dfn></dt>
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 </dl>
@@ -591,7 +593,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn44-culavedalla-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `8ebf5a76`
+- **Last editorial review:** 2026-11-08 · body version `2fb58cb3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -613,7 +615,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
@@ -633,7 +634,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
@@ -644,15 +645,17 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."
 *[unconditioned]: This project's rendering of "asaṅkhata" -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.

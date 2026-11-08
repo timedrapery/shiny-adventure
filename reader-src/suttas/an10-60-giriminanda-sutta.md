@@ -230,8 +230,8 @@ train like this: 'I will breathe out experiencing the heart.'
 They train like this: 'I will breathe in gladdening the heart.' They
 train like this: 'I will breathe out gladdening the heart.'
 
-They train like this: 'I will breathe in composing the heart.' They
-train like this: 'I will breathe out composing the heart.'
+They train like this: 'I will breathe in unifying the heart.' They
+train like this: 'I will breathe out unifying the heart.'
 
 They train like this: 'I will breathe in releasing the heart.' They
 train like this: 'I will breathe out releasing the heart.'
@@ -312,7 +312,7 @@ The tenth discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an10.60/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an10-60-giriminanda-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-24 · body version `55a08fcd`
+- **Last editorial review:** 2026-11-08 · body version `dfaf0a7d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2010.60) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

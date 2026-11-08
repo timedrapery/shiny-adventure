@@ -53,11 +53,11 @@ They speak of 'the stream, the stream.' What is the stream?"
 
 "Bhante, this noble eightfold path is itself the stream: right view, right
 attitude, right speech, right action, right livelihood, right effort, right
-remembering, right composure."
+remembering, right unification of mind."
 
 "Good, good, Sāriputta. This noble eightfold path is itself the stream: right
 view, right attitude, right speech, right action, right livelihood, right
-effort, right remembering, right composure.
+effort, right remembering, right unification of mind.
 
 ### The Stream-Enterer
 

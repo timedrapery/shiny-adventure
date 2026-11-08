@@ -7,7 +7,7 @@
 - Primary source: the Mahāsaṅgīti Pali text in SuttaCentral's Bilara data.
 - The eight factors follow the repository's governed renderings: `right view`,
   `right attitude`, `right speech`, `right action`, `right livelihood`, `right
-  effort`, `right remembering`, and `right composure`.
+  effort`, `right remembering`, and `right unification of mind`.
 - `ariya` is rendered `noble`. This is the first reader surface that directly
   anchors the repository's main `ariya` term record.
 - The Pali abbreviates the opening list and three of the four right-effort
@@ -41,7 +41,7 @@ It is:
 - right livelihood
 - right effort
 - right remembering
-- right composure
+- right unification of mind
 
 ### Right View
 
@@ -122,17 +122,17 @@ remembering—having removed coveting and distress regarding the world.
 
 This is called right remembering.
 
-### Right Composure
+### Right Unification of Mind
 
-And what is right composure?
+And what is right unification of mind?
 
 A bhikkhu, quite secluded from sensuality and unwholesome qualities, enters
 and remains in the first mental theme, with thinking and pondering, and with
 rejoicing and satisfaction born of seclusion.
 
 With thinking and pondering subsiding, the heart settles within and becomes
-unified. They enter and remain in the second mental theme. It is without
-thinking and pondering, with rejoicing and satisfaction born of composure.
+single. They enter and remain in the second mental theme. It is without
+thinking and pondering, with rejoicing and satisfaction born of unification.
 
 With the fading of rejoicing, they remain in dynamic balance, remembering and
 clearly knowing, and experience satisfaction in the body. They enter and
@@ -144,6 +144,6 @@ ending of joy and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This is called right composure."
+This is called right unification of mind."
 
 The eighth discourse is finished.

@@ -10,7 +10,7 @@
   data.
 - House choices that most affect this sutta: `gahaṭṭha` is rendered
   `householder`; `pabbajita` is rendered `renunciant`; `nīvaraṇa` is rendered
-  `distraction`; `jhāna` is rendered `mental theme`; `mettā` is rendered
+  `hindrance`; `jhāna` is rendered `mental theme`; `mettā` is rendered
   `friendliness`; `karuṇā` is rendered `kindness towards others`; `muditā` is
   rendered `gladness`; and `upekkhā` is rendered `dynamic balance`.
 - This is the first study edition of the repository's MN 99 translation
@@ -242,14 +242,14 @@ Subhaga grove speak in agreement or not in agreement?"
 
 "Uselessly, Master Gotama."
 
-### The Five Distractions
+### The Five Hindrances
 
-"Student, there are these five distractions. What five? The sensual
+"Student, there are these five hindrances. What five? The sensual
 distraction, the aversive distraction, the dull distraction, the agitated
-distraction, and the uncertain distraction. These are the five distractions.
+distraction, and the uncertain distraction. These are the five hindrances.
 
 Pokkharasāti Opamañña of the Subhaga grove is wrapped up, shut in, flooded
-over, and covered by these five distractions. It is impossible for him to
+over, and covered by these five hindrances. It is impossible for him to
 know, see, or directly realize a distinction in knowledge and vision beyond
 the human, worthy of the noble ones.
 
@@ -293,9 +293,9 @@ and pondering, with rejoicing and satisfaction born of seclusion. This too is
 delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
-unification of mind, a bhikkhu enters and remains in the second mental theme,
+singleness of mind, a bhikkhu enters and remains in the second mental theme,
 without thinking and pondering, with rejoicing and satisfaction born of
-composure. This too is delight apart from sensuality and apart from unskillful
+unification. This too is delight apart from sensuality and apart from unskillful
 dhammas."
 
 ### A Sixth Ground For Merit

@@ -7,7 +7,7 @@
 
 *SN 12.23, the Upanisa Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 8 min · 1,280 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 8 min · 1,294 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -17,7 +17,7 @@ Everyone knows the chain that runs from ignorance down to suffering. This
 text gives the other one — the chain that runs from suffering up to freedom.
 
 Dissatisfaction is the condition for confidence; confidence for gladness;
-and on through delight, calm, ease, composure, knowing and seeing things as
+and on through delight, calm, ease, unification of mind, knowing and seeing things as
 they are, disenchantment, fading, release, and finally knowing that you are
 free.
 
@@ -82,10 +82,10 @@ I say, bhikkhus, that seeing things as they are has a vital condition — it
 does not lack a vital condition. And what, bhikkhus, is the vital condition for
 seeing things as they are?
 
-You should say: 'Composure.'
+You should say: 'Unification of mind.'
 
-I say, bhikkhus, that composure has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for composure?
+I say, bhikkhus, that unification of mind has a vital condition — it does not lack a
+vital condition. And what, bhikkhus, is the vital condition for unification of mind?
 
 You should say: 'Satisfaction.'
 
@@ -195,8 +195,8 @@ Confidence is the vital condition for an actively happy state.
 An actively happy state is the vital condition for rejoicing.
 Rejoicing is the vital condition for relaxation.
 Relaxation is the vital condition for satisfaction.
-Satisfaction is the vital condition for composure.
-Composure is the vital condition for seeing things as they are.
+Satisfaction is the vital condition for unification of mind.
+Unification of mind is the vital condition for seeing things as they are.
 Seeing things as they are is the vital condition for disenchantment.
 Disenchantment is the vital condition for fading.
 Fading is the vital condition for release.
@@ -230,8 +230,8 @@ Confidence is the vital condition for an actively happy state.
 An actively happy state is the vital condition for rejoicing.
 Rejoicing is the vital condition for relaxation.
 Relaxation is the vital condition for satisfaction.
-Satisfaction is the vital condition for composure.
-Composure is the vital condition for seeing things as they are.
+Satisfaction is the vital condition for unification of mind.
+Unification of mind is the vital condition for seeing things as they are.
 Seeing things as they are is the vital condition for disenchantment.
 Disenchantment is the vital condition for fading.
 Fading is the vital condition for release.
@@ -249,8 +249,6 @@ The third discourse is finished.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>disenchantment</dfn></dt>
@@ -282,7 +280,9 @@ The third discourse is finished.
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>relaxation</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into composure.</dd>
+<dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 </dl>
 </details>
 
@@ -292,7 +292,7 @@ The third discourse is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.23/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-23-upanisa-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `2c2f4834`
+- **Last editorial review:** 2026-11-08 · body version `15887d7e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.23) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -311,7 +311,6 @@ The third discourse is finished.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
@@ -325,4 +324,5 @@ The third discourse is finished.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.

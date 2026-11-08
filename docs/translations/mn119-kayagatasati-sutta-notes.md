@@ -17,7 +17,7 @@ This document records the source and editorial decisions for
   occurrence supplies the record's gloss: `sati directed to the body`.
 - The body exercises are not described as a generic meditation technique.
   Each is followed by the text's result: household-linked thoughts are given
-  up and the heart settles, unifies, and becomes composed.
+  up and the heart settles, becomes single, and becomes unified.
 - The body-parts and elements passages reuse MN 10 wording where the Pali is
   the same. MN 119's different refrain remains different.
 - The charnel-ground stages are collected into one complete, scannable list.
@@ -34,6 +34,19 @@ This document records the source and editorial decisions for
 - Extraordinary claims are translated as claims of the text. The reader
   introduction does not require a newcomer to settle how they should be
   interpreted before following the sutta's practical structure.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
 
 ## Readability Review
 

@@ -20,7 +20,7 @@ what does anyone actually get out of the renunciant life, here and now, that
 you could point to?
 
 The Buddha answers by walking the whole path from the beginning — conduct,
-sense restraint, contentment, clearing the distractions, the mental themes,
+sense restraint, contentment, clearing the hindrances, the mental themes,
 and what lies past them — always in the form of a result the king could
 recognize as an answer to his question.
 
@@ -586,7 +586,7 @@ along.
 
 That is how a bhikkhu is content.
 
-### Clearing the Five Distractions
+### Clearing the Five Hindrances
 
 When a bhikkhu possesses this full range of noble conduct, this noble guarding
 of the faculties, this noble remembering and clear knowing, and this noble
@@ -613,7 +613,7 @@ cleansing the mind of agitation and regret.
 Giving up doubt, they stay having crossed beyond doubt, no longer uncertain
 about wholesome qualities, cleansing the mind of doubt.
 
-As long as these five distractions have not been abandoned within, a bhikkhu
+As long as these five hindrances have not been abandoned within, a bhikkhu
 regards them as:
 
 - a debt
@@ -622,7 +622,7 @@ regards them as:
 - slavery
 - a desert crossing
 
-But when these five distractions have been abandoned within, a bhikkhu
+But when these five hindrances have been abandoned within, a bhikkhu
 regards that as:
 
 - freedom from debt
@@ -631,10 +631,10 @@ regards that as:
 - freedom
 - a place of safety
 
-Seeing that the distractions have been abandoned, gladness arises. For someone
+Seeing that the hindrances have been abandoned, gladness arises. For someone
 who is glad, rejoicing arises. When the mind is rejoicing, the body becomes
 calm. When the body is calm, they feel ease. Feeling ease, the mind becomes
-mentally composed.
+mentally unified.
 
 ### The First Mental Theme
 
@@ -660,13 +660,13 @@ life, better and finer than the former ones.
 ### The Second Mental Theme
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, a bhikkhu enters and remains in the second mental theme,
+singleness of mind, a bhikkhu enters and remains in the second mental theme,
 without thinking and pondering, with rejoicing and satisfaction born of
-composure.
+unification.
 
 They drench, steep, fill, and suffuse this very body with rejoicing and
-satisfaction born of composure, so that no part of the whole body
-remains untouched by rejoicing and satisfaction born of composure.
+satisfaction born of unification, so that no part of the whole body
+remains untouched by rejoicing and satisfaction born of unification.
 
 It is like a deep lake fed by spring water, with no inlet from east, west,
 north, or south, and with the heavens not sending rain from time to time; yet
@@ -675,7 +675,7 @@ and suffuses it, so that no part of the whole lake remains untouched by cool
 water.
 
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
-with rejoicing and satisfaction born of composure.
+with rejoicing and satisfaction born of unification.
 
 This too, great king, is a fruit of the ascetic life visible in this very
 life, better and finer than the former ones.
@@ -723,7 +723,7 @@ life, better and finer than the former ones.
 
 ### Knowledge and Seeing
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward knowledge and seeing.
 
@@ -747,7 +747,7 @@ life, better and finer than the former ones.
 
 ### A Mind-Made Body
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward creating a mind-made body.
 
@@ -771,7 +771,7 @@ life, better and finer than the former ones.
 
 ### Psychic Powers
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward psychic power.
 
@@ -798,7 +798,7 @@ life, better and finer than the former ones.
 
 ### The Divine Ear
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the divine ear.
 
@@ -818,7 +818,7 @@ life, better and finer than the former ones.
 
 ### Knowing Others' Minds
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward encompassing the minds of others.
 
@@ -837,8 +837,8 @@ and they understand:
   mind`
 - surpassable mind as `surpassable mind`, and unsurpassable mind as
   `unsurpassable mind`
-- mentally composed mind as `mentally composed mind`, and uncomposed mind as
-  `uncomposed mind`
+- mentally unified mind as `mentally unified mind`, and ununified mind as
+  `ununified mind`
 - freed mind as `freed mind`, and unfreed mind as `unfreed mind`
 
 It is like a young woman or man, youthful and fond of adornment, examining
@@ -854,7 +854,7 @@ life, better and finer than the former ones.
 
 ### Recollecting Past Lives
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward recollecting past lives.
 
@@ -888,7 +888,7 @@ life, better and finer than the former ones.
 
 ### The Divine Eye
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the passing away and reappearance of beings.
 
@@ -922,7 +922,7 @@ life, better and finer than the former ones.
 
 ### The Wearing Away of the Outflows
 
-When the mind is mentally composed like this, purified, bright, stainless,
+When the mind is mentally unified like this, purified, bright, stainless,
 free from corruption, pliable, workable, steady, and unshakable, a bhikkhu
 turns it toward the knowledge of the wearing away of the outflows.
 
@@ -1013,7 +1013,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (53)</summary>
+<summary>Words used in this translation (54)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -1043,8 +1043,6 @@ Buddha had said.
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>clearly knowing</dfn></dt>
 <dd>Acting while plainly aware of what you are doing.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conduct</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>delusion</dfn></dt>
@@ -1058,11 +1056,11 @@ Buddha had said.
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
-<dt><dfn>five distractions</dfn></dt>
-<dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five hindrances</dfn></dt>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
 <dt><dfn>flood</dfn></dt>
 <dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
 <dt><dfn>form</dfn></dt>
@@ -1103,6 +1101,8 @@ Buddha had said.
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
+<dt><dfn>singleness of mind</dfn></dt>
+<dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
 <dt><dfn>soul</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;jīva&quot; -- the felt sense of an inner self or life-essence. Whether it exists, and whether it&#x27;s the same as the body, is one of the questions MN 63 leaves undeclared.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -1111,6 +1111,8 @@ Buddha had said.
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wearing away</dfn></dt>
@@ -1130,7 +1132,7 @@ Buddha had said.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dn2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn2-samannaphala-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `e14ae3eb`
+- **Last editorial review:** 2026-11-08 · body version `f99747de`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -1161,16 +1163,15 @@ Buddha had said.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
 *[clearly knowing]: Acting while plainly aware of what you are doing.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
 *[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
@@ -1189,10 +1190,12 @@ Buddha had said.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 *[soul]: This translation's rendering of "jīva" -- the felt sense of an inner self or life-essence. Whether it exists, and whether it's the same as the body, is one of the questions MN 63 leaves undeclared.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
