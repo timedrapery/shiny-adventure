@@ -53,9 +53,9 @@ choices, source-audit calls, and edition notes that govern it.
   personally`. This rendering captures the self-referential grip — taking the
   felt experience as mine, as belonging to me.
 - `nīvaraṇa` is rendered `hindrance` (house default). The five are named
-  individually: coveting (`abhijjhā`), aversive distraction and malevolence
+  individually: coveting (`abhijjhā`), ill will and malevolence
   (`byāpādapadosa`), dullness and drowsiness (`thinamiddha`), restlessness
-  and remorse (`uddhaccakukkucca`), uncertain distraction (`vicikicchā`). The
+  and remorse (`uddhaccakukkucca`), doubt (`vicikicchā`). The
   summary formula: "Having abandoned these five hindrances — corruptions of
   the heart that weaken discernment."
 - `nandī` is rendered `relishing` (major lexicon entry). The key pivot in
@@ -114,8 +114,8 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `nīvaraṇa` → `hindrance` (major)
 - `nandī` → `relishing` (major)
 - `abhijjhā` → `coveting` (minor)
-- `byāpāda` → `aversive distraction` (major)
-- `vicikicchā` → `uncertain distraction` (major)
+- `byāpāda` → `ill will` (major)
+- `vicikicchā` → `doubt` (major)
 - `cetovimutti` → `release of mind` (major)
 - `paññāvimutti` → `release through discernment` (major)
 - `gandhabba` → `gandhabba` (minor, untranslated)
@@ -144,7 +144,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `thinamiddha` (dullness and drowsiness) and `uddhaccakukkucca` (restlessness
   and remorse) have no standalone lexicon entries. They are rendered with the
   established conventional English equivalents used throughout the repository's
-  other surfaces. Future revisions should create minor entries if the distraction
+  other surfaces. Future revisions should create minor entries if the hindrance
   cluster develops a full governed record.
 - Resolved: `moghapurisa` is no longer a local rendering. It now has a minor
   entry, [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json),
@@ -244,14 +244,17 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
   `single`, so it stays distinct from `unification`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 
 - This companion supports the first stable study edition of the repo's
   MN 38 translation surface.
 - Future revisions should focus on `thinamiddha` and `uddhaccakukkucca` if
-  those terms gain lexicon entries within the distraction cluster; on
+  those terms gain lexicon entries within the hindrance cluster; on
   `manosañcetanā` if a `cetanā` (volition) major entry is added; and on the
   `imasmiṁ sati` / `imasmiṁ asati` formulas if a formula record is created
   for the fundamental conditional-arising expression.

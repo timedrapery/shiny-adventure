@@ -28,8 +28,8 @@ source-audit calls, and edition notes that govern it.
 - `citta` remains `heart`.
 - `dhamma` remains untranslated in `dhammānupassanā`.
 - The five `nīvaraṇa` members follow the current repo family language:
-  `sensual distraction`, `aversive distraction`, `dull distraction`,
-  `agitated distraction`, and `uncertain distraction`.
+  `sensual desire`, `ill will`, `sloth and torpor`,
+  `restlessness and worry`, and `doubt`.
 - The opening `ekāyano ayaṁ ... maggo` line is governed here as `direct path`,
   not as an uncontrolled `the only way` slogan.
 - The MN 10 opening line and the repeated practical qualifier line are now
@@ -111,7 +111,10 @@ source-audit calls, and edition notes that govern it.
 - The participle `samāhita` and the verb `samādahati` follow it: `unified`
   and `unifying` in place of `composed` and `composing`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

@@ -99,7 +99,7 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
         "chanda": "desire",
         "raga": "passion",
         "nandi": "relishing",
-        "kamacchanda": "sensual distraction",
+        "kamacchanda": "sensual desire",
         "kama-tanha": "ignorant wanting for sensuality",
         "kama-raga": "passion for sensuality",
         "upadanakkhandha": "clung-to heap",

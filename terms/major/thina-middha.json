@@ -4,31 +4,31 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "sloth-and-torpor",
-  "preferred_translation": "dull distraction",
+  "preferred_translation": "sloth and torpor",
   "alternative_translations": [
-    "sloth and torpor"
+    "dull distraction"
   ],
   "discouraged_translations": [
     "laziness"
   ],
   "untranslated_preferred": false,
-  "definition": "Distraction through dullness, heaviness, and sinking energy of mind and body.",
-  "notes": "The project prefers dull distraction within the five-distractions framework because it names the practical effect of the compound without relying only on inherited jargon. Sloth and torpor remains acceptable in explanatory prose or comparative discussion. The term should be heard as a sinking and blunting of practice-energy rather than as ordinary laziness. The OSF glossary confirms dull distraction as the house default inside the five-distractions framework and preserves sloth and torpor as the explanatory alternate.",
+  "definition": "A hindrance of dullness, heaviness, and sinking energy of mind and body.",
+  "notes": "The project uses sloth and torpor as the default for this hindrance because that is how Dhammarato names it throughout the 2014–2026 talk transcripts (about 110 uses of sloth and torpor, against no uses of dull distraction); the pair name is kept even though the members are governed separately as sluggishness (thīna) and drowsiness (middha); sloth and torpor are recorded as their alternates. It names a sinking and blunting of practice-energy rather than ordinary laziness. Dull distraction, the earlier house default built on the OSF glossary's distraction family, remains the alternate where continuity with earlier OSF material matters. The family label is now hindrance (nīvaraṇa), and the five members are named the way Dhammarato names them. Compounds built on this pair inherit the same name unless a narrower compound record documents an override.",
   "context_rules": [
     {
-      "context": "In the five-distractions framework",
-      "rendering": "dull distraction",
-      "notes": "Use this by default."
+      "context": "In the five-hindrances framework",
+      "rendering": "sloth and torpor",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     },
     {
-      "context": "In explanatory prose or comparison with conventional Buddhist terminology",
-      "rendering": "sloth and torpor",
-      "notes": "Use this as a controlled alternate when the traditional pair is useful."
+      "context": "In continuity with earlier OSF material that uses the distraction-family names",
+      "rendering": "dull distraction",
+      "notes": "Use as the alternate that keeps the earlier OSF distraction-family naming, where continuity with earlier OSF material matters."
     },
     {
       "context": "When the passage emphasizes the heaviness and dulling that undercut collected practice",
-      "rendering": "dull distraction",
-      "notes": "Keep the practical meditative effect in view."
+      "rendering": "sloth and torpor",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     }
   ],
   "related_terms": [
@@ -42,7 +42,7 @@
   "example_phrases": [
     {
       "pali": "thīnamiddhanīvaraṇa",
-      "translation": "the dull distraction",
+      "translation": "the sloth and torpor",
       "notes": "Shows the standard fivefold-list member.",
       "source": "DN 2"
     },
@@ -67,14 +67,21 @@
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "gloss",
-      "scope": "Supports keeping dull distraction as the house default inside the five-hindrances framework, with sloth and torpor retained as the explanatory alternate."
+      "kind": "rationale",
+      "scope": "Supported dull distraction as the earlier house default inside the five-distractions framework; it is kept as the alternate after the 2026 revision."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports sloth and torpor as the default name for this hindrance (about 110 uses of sloth and torpor; no uses of dull distraction)."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'dull distraction' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'sloth and torpor' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "inherit",
     "drift_risk": "Prevents drift back toward 'laziness' or other unrecorded alternates."
-  }
+  },
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: sloth and torpor replaces dull distraction as the default, which stays as the alternate."
 }

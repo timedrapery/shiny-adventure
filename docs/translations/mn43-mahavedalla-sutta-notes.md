@@ -169,7 +169,10 @@ source-audit calls, and edition notes that govern it.
   `unification` inside compounds (for example `right unification of mind`,
   `born of unification`), in place of `composure`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

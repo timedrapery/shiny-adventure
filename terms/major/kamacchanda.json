@@ -4,9 +4,9 @@
   "entry_type": "major",
   "part_of_speech": "compound",
   "literal_meaning": "desire for sensuality",
-  "preferred_translation": "sensual distraction",
+  "preferred_translation": "sensual desire",
   "alternative_translations": [
-    "sensual desire"
+    "sensual distraction"
   ],
   "discouraged_translations": [
     "desire",
@@ -16,23 +16,23 @@
     "pleasant feeling"
   ],
   "untranslated_preferred": false,
-  "definition": "Desire for sensuality functioning as a distraction that derails collected practice.",
-  "notes": "The project keeps sensual distraction rather than the more standard sensual desire because this entry sits inside the nīvaraṇa framework, which the repository governs as distractions. Sensual desire remains acceptable in explanatory prose where the lexical link to chanda must be audible, but the term should not be flattened into plain desire, interest, or attraction. In this repository, kāmacchanda differs from bare chanda because it is a narrowed, unwholesome desire for sensuality. It differs from kāma, which names the sensual domain; from taṇhā, which is ignorant wanting; from rāga, which is passion; and from sukha or vedanā, which name felt satisfaction or feeling-tone rather than the distracting pull toward sensuality. The OSF glossary supports sensual distraction as the house default within the five-distractions framework, and DN 2 with MN 39 support the term's place in distraction and abandonment contexts.",
+  "definition": "Desire for sensuality functioning as a hindrance that derails collected practice.",
+  "notes": "The project uses sensual desire as the default for this hindrance because that is how Dhammarato names it throughout the 2014–2026 talk transcripts (about 270 uses of sensual desire, against no uses of sensual distraction); kāmacchanda's chanda is the house desire, so the name keeps the lexical link to chanda audible. It names the narrowed, unwholesome desire for sensuality that hinders the mind. Sensual distraction, the earlier house default built on the OSF glossary's distraction family, remains the alternate where continuity with earlier OSF material matters. The family label is now hindrance (nīvaraṇa), and the five members are named the way Dhammarato names them. The term should not be flattened into plain desire, interest, or attraction. In this repository, kāmacchanda differs from bare chanda because it is a narrowed, unwholesome desire for sensuality. It differs from kāma, which names the sensual domain; from taṇhā, which is ignorant wanting; from rāga, which is passion; and from sukha or vedanā, which name felt satisfaction or feeling-tone rather than the hindering pull toward sensuality. DN 2 with MN 39 support the term's place in hindrance and abandonment contexts.",
   "context_rules": [
     {
-      "context": "In the five-distractions framework",
-      "rendering": "sensual distraction",
-      "notes": "Use this by default."
+      "context": "In the five-hindrances framework",
+      "rendering": "sensual desire",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     },
     {
-      "context": "In explanatory prose discussing the desire-element of the compound itself",
-      "rendering": "sensual desire",
-      "notes": "Use this as a controlled alternate when the lexical link to chanda must be audible."
+      "context": "In continuity with earlier OSF material that uses the distraction-family names",
+      "rendering": "sensual distraction",
+      "notes": "Use as the alternate that keeps the earlier OSF distraction-family naming, where continuity with earlier OSF material matters."
     },
     {
       "context": "When the passage emphasizes the derailment of practice by agreeable sensual objects",
-      "rendering": "sensual distraction",
-      "notes": "Keep the hindrance-framework force explicit rather than reducing the term to bare wanting."
+      "rendering": "sensual desire",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     }
   ],
   "related_terms": [
@@ -67,19 +67,26 @@
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "gloss",
-      "scope": "Supports keeping sensual distraction as the house default inside the five-distractions framework, with sensual desire retained only as a controlled alternate."
+      "kind": "rationale",
+      "scope": "Supported sensual distraction as the earlier house default inside the five-distractions framework; it is kept as the alternate after the 2026 revision."
     },
     {
       "source": "DN 2",
       "kind": "context-rule",
-      "scope": "Supports the term's place inside the five-distractions framework."
+      "scope": "Supports the term's place inside the five-hindrances framework."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports sensual desire as the default name for this hindrance (about 270 uses of sensual desire; no uses of sensual distraction)."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'sensual distraction' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
-    "when_not_to_apply": "Use 'sensual desire' only when explanatory prose needs the lexical link to chanda. Do not collapse kāmacchanda into plain desire, wholesome motivation, pleasant feeling, or generic sexualized English.",
+    "default_scope": "Use 'sensual desire' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
+    "when_not_to_apply": "Use 'sensual distraction' only where continuity with earlier OSF material matters. Do not collapse kāmacchanda into plain desire, wholesome motivation, pleasant feeling, or generic sexualized English.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents drift between the sensual-domain term kāma, the broader desire-term chanda, and the hindrance term kāmacchanda."
-  }
+  },
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: sensual desire replaces sensual distraction as the default, which stays as the alternate."
 }

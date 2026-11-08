@@ -30,9 +30,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   at the faculty doors) is rendered `guarded at the faculty doors`, with the
   individual faculty restraint instructions using `eye-faculty`, `ear-faculty`,
   and so on.
-- The five `nīvaraṇa` members follow their governed distraction-family
-  renderings: `sensual distraction`, `aversive distraction`, `dull
-  distraction`, `agitated distraction`, and `uncertain distraction`. In the
+- The five `nīvaraṇa` members follow their governed
+  renderings: `sensual desire`, `ill will`, `sloth and
+  torpor`, `restlessness and worry`, and `doubt`. In the
   hindrance-clearing sequence (section 13), the abandonment formula names
   each individually rather than using collective `nīvaraṇa` language; this
   keeps the clearing action concrete.
@@ -64,7 +64,7 @@ sufficient lexicon coverage:
 
 - `hirī-ottappa` → `conscience and concern` (minor, reviewed)
 - `indriya` → `faculty` (major)
-- `nīvaraṇa` members → governed distraction-family renderings (major)
+- `nīvaraṇa` members → governed member renderings (major)
 - `sati` → `remembering` (major)
 - `sampajañña` → `clear knowing` (major)
 - `jhāna` → `mental theme` (major, reviewed)
@@ -162,7 +162,10 @@ sufficient lexicon coverage:
 - `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
   `single`, so it stays distinct from `unification`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

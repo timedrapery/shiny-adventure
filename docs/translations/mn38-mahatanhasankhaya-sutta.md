@@ -709,17 +709,17 @@ Returning from the alms-round after the meal, they sit down cross-legged, hold
 their body erect, and establish remembering in front.
 
 Abandoning coveting for the world, they live with a heart rid of
-coveting, cleansing the heart of coveting. Abandoning aversive
-distraction and malevolence, they live with a heart free of aversive
-distraction, full of compassion toward all living beings, cleansing the heart
-of aversive distraction. Abandoning dullness and drowsiness, they live
+coveting, cleansing the heart of coveting. Abandoning ill
+will and malevolence, they live with a heart free of ill
+will, full of compassion toward all living beings, cleansing the heart
+of ill will. Abandoning dullness and drowsiness, they live
 rid of dullness and drowsiness, perceiving light, remembering and clearly
 knowing, cleansing the heart of dullness and drowsiness. Abandoning
 restlessness and remorse, they live unrestless, with the heart inwardly
 at peace, cleansing the heart of restlessness and remorse. Abandoning
-uncertain distraction, they have crossed beyond uncertainty. They are no
+doubt, they have crossed beyond uncertainty. They are no
 longer undecided about wholesome qualities, and they cleanse the heart
-of uncertain distraction.
+of doubt.
 
 They have abandoned these five hindrances, the corruptions of the heart
 that weaken discernment. Then, secluded from sense pleasures, secluded

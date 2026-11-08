@@ -22,7 +22,7 @@ language from collapsing into one vague English blur.
 | `saddhā` | `confidence` | confidence that supports and steadies practice | belief, faith |
 | `viriya` | `energy` | energetic application in practice | `sammā-vāyāma`, effort as the default |
 | `sati` | `remembering` | recollective keeping-in-mind and gatekeeping function | mindfulness, bare awareness |
-| `samādhi` | `composure` | broader composure family within practice | `sammā-samādhi`, concentration |
+| `samādhi` | `unification of mind` | broader unification family within practice | `sammā-samādhi`, concentration |
 | `paññā` | `discernment` | cultivated capacity of discernment | knowledge, generic wisdom-talk |
 
 ### Awakening-Factor Member Set
@@ -33,8 +33,8 @@ language from collapsing into one vague English blur.
 | `dhammavicaya` | `discernment of qualities` | practical discernment within the seven-member framework | analysis of doctrine |
 | `viriya` | `energy` | energizing application within the framework | `sammā-vāyāma` as the default |
 | `pīti` | `delight` | energizing uplift in wholesome development | `sukha`, ecstasy |
-| `passaddhi` | `relaxation` | settling and easing that supports composure | vague calmness, static tranquility by default |
-| `samādhi` | `composure` | composure member within the framework | concentration |
+| `passaddhi` | `relaxation` | settling and easing that supports unification of mind | vague calmness, static tranquility by default |
+| `samādhi` | `unification of mind` | unification member within the framework | concentration |
 | `upekkhā` | `dynamic balance` | balanced steadiness without flatness or indifference | indifference, static equanimity |
 
 ## Collective Formula Guardrails
@@ -110,15 +110,15 @@ They do not replace the governing member defaults underneath them.
 ## Hindrance Interface
 
 - This family meets the hindrance layer primarily through
-  `nīvaraṇa`, `kāmacchanda`, and nearby distraction-clearing practice language.
-- `nīvaraṇa` remains `distraction`, not a generic English for every obstacle.
-- `kāmacchanda` remains `sensual distraction`, not wholesome motivation and not
+  `nīvaraṇa`, `kāmacchanda`, and nearby hindrance-clearing practice language.
+- `nīvaraṇa` is `hindrance`, not a generic English for every obstacle.
+- `kāmacchanda` is `sensual desire`, not wholesome motivation and not
   plain `chanda`.
 - Awakening-factor development may be discussed alongside hindrance-clearing,
   but the family should not be reduced to anti-hindrance slogans.
 - `sati`, `viriya`, and `samādhi` can all appear in practice-facing passages
   about hindrance-clearing without becoming synonyms for abandoning
-  distractions.
+  hindrances.
 
 ## Path-Factor Interface
 
@@ -127,8 +127,8 @@ They do not replace the governing member defaults underneath them.
 - `sati` is not `sammā-sati`.
   `sati` remains `remembering`, while `sammā-sati` remains `right remembering`.
 - `samādhi` is not `sammā-samādhi`.
-  `samādhi` remains the broader composure family, while
-  `sammā-samādhi` remains `right composure` as the path factor.
+  `samādhi` remains the broader unification family, while
+  `sammā-samādhi` is `right unification of mind` as the path factor.
 - The faculty / strength family supports path language, but it does not replace
   the noble-path framework.
 

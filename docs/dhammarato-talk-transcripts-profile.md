@@ -74,15 +74,17 @@ doubled to match the size of the others.
   times and distraction about 250 times, and the five hindrances 109 times
   against no uses of the five distractions.
 
-The five named hindrance members (`kamacchanda`, `byapada`, `thina-middha`,
-`uddhacca-kukkucca`, `vicikiccha`) keep their current governed names, which
-were built on the earlier distraction default. Dhammarato never uses those
-names; he uses their existing alternates (sensual desire, ill will, sloth and
-torpor, restlessness, doubt). Whether to change them is an open editorial
-question.
+- The five named hindrances follow his names, with the earlier
+  distraction-family names kept as alternates: `kamacchanda` ->
+  `sensual desire`, `byapada` -> `ill will`, `thina-middha` ->
+  `sloth and torpor`, `uddhacca-kukkucca` -> `restlessness and worry`, and
+  `vicikiccha` -> `doubt`. He never uses the distraction-family names. For
+  uddhacca-kukkucca he says restlessness and worry about three times as often
+  as restlessness and remorse, which stays as the alternate that follows the
+  members' own defaults.
 
-Published translations made before this revision still read composure and
-distractions until they are re-rendered.
+All 66 published translations, their notes, and the reader were re-rendered
+to this wording on 2026-11-08.
 
 ## Confirmed House Defaults
 

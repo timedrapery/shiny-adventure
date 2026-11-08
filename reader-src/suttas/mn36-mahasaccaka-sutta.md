@@ -779,7 +779,7 @@ his seat, and left.
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (47)</summary>
+<summary>Words used in this translation (48)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -855,6 +855,8 @@ The sixth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
 <dt><dfn>singleness of mind</dfn></dt>
@@ -936,6 +938,7 @@ The sixth discourse is finished.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
 *[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.

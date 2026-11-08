@@ -175,7 +175,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="medium" data-search="think like a thoroughbred an 11.9 saddha sutta a wild colt tied to its trough can think of nothing but &quot;fodder, fodder!&quot; the contrast with a trained horse becomes a contrast between two ways of sitting down to meditate. four truths and path">
 <h2><a href="../suttas/an11-9-saddha-sutta/">Think Like a Thoroughbred</a></h2>
 <p class="sutta-card__reference">AN 11.9 · <span lang="pi">Saddha Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching with verse · Medium · about 7 min · 1,247 words</p>
+<p class="sutta-card__meta">Introductory · Teaching with verse · Medium · about 7 min · 1,252 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A wild colt tied to its trough can think of nothing but &quot;Fodder, fodder!&quot; The contrast with a trained horse becomes a contrast between two ways of sitting down to meditate.</p>
 </article>
@@ -203,7 +203,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="seven ways to handle what erodes the mind mn 2 sabbāsava sutta seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. a toolkit, not a theory. meditation">
 <h2><a href="../suttas/mn2-sabbasava-sutta/">Seven Ways to Handle What Erodes the Mind</a></h2>
 <p class="sutta-card__reference">MN 2 · <span lang="pi">Sabbāsava Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,201 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,200 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.</p>
 </article>
@@ -224,7 +224,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="the four foundations of remembering mn 10 satipaṭṭhāna sutta the four foundations of remembering, and the longest, densest text so far. not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing. meditation">
 <h2><a href="../suttas/mn10-satipatthana-sutta/">The Four Foundations of Remembering</a></h2>
 <p class="sutta-card__reference">MN 10 · <span lang="pi">Satipaṭṭhāna Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,824 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,831 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.</p>
 </article>
@@ -252,14 +252,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="what makes a genuine renunciant? mn 39 mahā-assapura sutta what actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. ethics and practice fused. ethics and conduct · meditation">
 <h2><a href="../suttas/mn39-maha-assapura-sutta/">What Makes a Genuine Renunciant?</a></h2>
 <p class="sutta-card__reference">MN 39 · <span lang="pi">Mahā-Assapura Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,353 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,356 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="what feeds and starves the hindrances sn 46.51 āhāra sutta what feeds the hindrances that block practice, and what starves them. a closing, practical text for this stage. meditation">
 <h2><a href="../suttas/sn46-51-ahara-sutta/">What Feeds and Starves the Hindrances</a></h2>
 <p class="sutta-card__reference">SN 46.51 · <span lang="pi">Āhāra Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,518 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,522 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>What feeds the hindrances that block practice, and what starves them. A closing, practical text for this stage.</p>
 </article>
@@ -378,7 +378,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. dependent arising · mind and senses">
 <h2><a href="../suttas/mn38-mahatanhasankhaya-sutta/">Does the Same Consciousness Continue?</a></h2>
 <p class="sutta-card__reference">MN 38 · <span lang="pi">Mahātaṇhāsaṅkhaya Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,433 words</p>
+<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,431 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
 <p>A monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.</p>
 </article>
@@ -406,7 +406,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the longer questions and answers mn 43 mahāvedalla sutta the longer companion to mn 44, and the same format: two senior disciples working through the vocabulary point by point. read it second — it assumes more. mind and senses">
 <h2><a href="../suttas/mn43-mahavedalla-sutta/">The Longer Questions and Answers</a></h2>
 <p class="sutta-card__reference">MN 43 · <span lang="pi">Mahāvedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,917 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,918 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.</p>
 </article>
@@ -427,7 +427,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the five lower fetters mn 64 mahāmālukya sutta the five lower fetters, and the companion piece to mn 63 — same disciple, later in his practice. mind and senses">
 <h2><a href="../suttas/mn64-mahamalukya-sutta/">The Five Lower Fetters</a></h2>
 <p class="sutta-card__reference">MN 64 · <span lang="pi">Mahāmālukya Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,415 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,405 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.</p>
 </article>
@@ -483,7 +483,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="advanced" data-form="dialogue" data-length="long" data-search="household life or renunciant life? mn 99 subha sutta a dialogue defending renunciant life against a brahmin&#x27;s claim that household life is better. good late-stage read for weighing the whole path against the alternative. ethics and conduct">
 <h2><a href="../suttas/mn99-subha-sutta/">Household Life or Renunciant Life?</a></h2>
 <p class="sutta-card__reference">MN 99 · <span lang="pi">Subha Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Long · about 22 min · 3,861 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Long · about 22 min · 3,857 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>A dialogue defending renunciant life against a brahmin&#x27;s claim that household life is better. Good late-stage read for weighing the whole path against the alternative.</p>
 </article>

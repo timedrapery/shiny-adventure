@@ -26,10 +26,10 @@ class KamaPolicyTests(unittest.TestCase):
         kamacchanda = load_term("terms/major/kamacchanda.json")
         chanda = load_term("terms/major/chanda.json")
 
-        self.assertEqual(kamacchanda["preferred_translation"], "sensual distraction")
+        self.assertEqual(kamacchanda["preferred_translation"], "sensual desire")
         self.assertEqual(chanda["preferred_translation"], "desire")
         self.assertIn("interest", kamacchanda["discouraged_translations"])
-        self.assertIn("five-distractions framework", kamacchanda["notes"])
+        self.assertIn("hindrance", kamacchanda["notes"])
 
     def test_kama_cluster_support_terms_preserve_distinctions(self) -> None:
         kama_tanha = load_term("terms/major/kama-tanha.json")

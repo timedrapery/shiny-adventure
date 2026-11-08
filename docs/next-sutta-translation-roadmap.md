@@ -89,7 +89,7 @@ Use that full roadmap as the source of truth for:
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
   complete 2026-08-25. Anchors six verified recollection compounds and shows
   how remembering leads through active gladness, rejoicing, relaxation, and
-  satisfaction to composure in ordinary daily life.
+  satisfaction to unification of mind in ordinary daily life.
 - `SN 12.20` Paccaya Sutta (Discovered, Not Invented) — complete 2026-08-27.
   Separates dependent arising, the pattern, from the things that arise
   dependently, and anchors four of its five ranked orphan signals. The fifth,

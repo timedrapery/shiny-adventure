@@ -522,7 +522,7 @@ Buddha's words.
 The second discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (35)</summary>
+<summary>Words used in this translation (36)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -582,6 +582,8 @@ The second discourse is finished.
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>right discernment</dfn></dt>
 <dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -648,6 +650,7 @@ The second discourse is finished.
 *[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.

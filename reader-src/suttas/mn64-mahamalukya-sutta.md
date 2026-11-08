@@ -7,7 +7,7 @@
 
 *MN 64, the Mahāmālukya Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,415 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,405 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -56,14 +56,14 @@ When this was said, Venerable Mālukyaputta said to the Buddha:
 
 "Bhante, I remember identity view as a lower fetter taught by the Buddha.
 
-I remember uncertain distraction as a lower fetter taught by the Buddha.
+I remember doubt as a lower fetter taught by the Buddha.
 
 I remember grasping at habits and observances as a lower fetter taught by
 the Buddha.
 
-I remember sensual distraction as a lower fetter taught by the Buddha.
+I remember sensual desire as a lower fetter taught by the Buddha.
 
-I remember aversive distraction as a lower fetter taught by the Buddha.
+I remember ill will as a lower fetter taught by the Buddha.
 
 That is how, Bhante, I remember the five lower fetters taught by the Buddha."
 
@@ -81,7 +81,7 @@ how could identity view arise in that child?
 Yet the underlying tendency toward identity view lies underneath.
 
 A young, tender infant lying on its back does not even have dhammas. So how
-could uncertain distraction about dhammas arise in that child?
+could doubt about dhammas arise in that child?
 
 Yet the underlying tendency toward doubt lies underneath.
 
@@ -92,14 +92,14 @@ Yet the underlying tendency toward grasping at habits and observances lies
 underneath.
 
 A young, tender infant lying on its back does not even have sensualities. So
-how could sensual distraction regarding sensualities arise in that child?
+how could sensual desire regarding sensualities arise in that child?
 
 Yet the underlying tendency toward sensual passion lies underneath.
 
 A young, tender infant lying on its back does not even have beings. So how
-could aversive distraction toward beings arise in that child?
+could ill will toward beings arise in that child?
 
-Yet the underlying tendency toward aversive distraction lies underneath.
+Yet the underlying tendency toward ill will lies underneath.
 
 Wouldn't wanderers of other traditions challenge you with this simile of a
 tender infant?"
@@ -130,11 +130,11 @@ When identity view has arisen, that person does not discern its escape as it
 has come to be. For that person, identity view is firmly established, not
 brought under training, a lower fetter.
 
-That person lives with a heart overwhelmed by uncertain distraction,
-possessed by uncertain distraction.
+That person lives with a heart overwhelmed by doubt,
+possessed by doubt.
 
-When uncertain distraction has arisen, that person does not discern its escape
-as it has come to be. For that person, uncertain distraction is firmly
+When doubt has arisen, that person does not discern its escape
+as it has come to be. For that person, doubt is firmly
 established, not brought under training, a lower fetter.
 
 That person lives with a heart overwhelmed by grasping at habits and
@@ -152,11 +152,11 @@ When passion for sensuality has arisen, that person does not discern its
 escape as it has come to be. For that person, passion for sensuality is firmly
 established, not brought under training, a lower fetter.
 
-That person lives with a heart overwhelmed by aversive distraction,
-possessed by aversive distraction.
+That person lives with a heart overwhelmed by ill will,
+possessed by ill will.
 
-When aversive distraction has arisen, that person does not discern its escape
-as it has come to be. For that person, aversive distraction is firmly
+When ill will has arisen, that person does not discern its escape
+as it has come to be. For that person, ill will is firmly
 established, not brought under training, a lower fetter.
 
 ### The Learned Noble Disciple
@@ -171,11 +171,11 @@ When identity view has arisen, that disciple discerns its escape as it has
 come to be. For that disciple, identity view is abandoned together with its
 underlying tendency.
 
-That disciple does not live with a heart overwhelmed by uncertain
-distraction, or possessed by uncertain distraction.
+That disciple does not live with a heart overwhelmed by
+doubt, or possessed by doubt.
 
-When uncertain distraction has arisen, that disciple discerns its escape as it
-has come to be. For that disciple, uncertain distraction is abandoned together
+When doubt has arisen, that disciple discerns its escape as it
+has come to be. For that disciple, doubt is abandoned together
 with its underlying tendency.
 
 That disciple does not live with a heart overwhelmed by grasping at
@@ -192,11 +192,11 @@ When passion for sensuality has arisen, that disciple discerns its escape as
 it has come to be. For that disciple, passion for sensuality is abandoned
 together with its underlying tendency.
 
-That disciple does not live with a heart overwhelmed by aversive
-distraction, or possessed by aversive distraction.
+That disciple does not live with a heart overwhelmed by ill
+will, or possessed by ill will.
 
-When aversive distraction has arisen, that disciple discerns its escape as it
-has come to be. For that disciple, aversive distraction is abandoned together
+When ill will has arisen, that disciple discerns its escape as it
+has come to be. For that disciple, ill will is abandoned together
 with its underlying tendency.
 
 ### The Path Cannot Be Skipped
@@ -413,8 +413,6 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <details class="reader-terms">
 <summary>Words used in this translation (43)</summary>
 <dl>
-<dt><dfn>aversive distraction</dfn></dt>
-<dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>bhikkhu</dfn></dt>
@@ -431,6 +429,8 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
+<dt><dfn>doubt</dfn></dt>
+<dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>escape</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 <dt><dfn>faculties</dfn></dt>
@@ -447,6 +447,8 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
@@ -479,8 +481,8 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
-<dt><dfn>sensual distraction</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sphere of boundless knowing</dfn></dt>
 <dd>A deep meditative state in which awareness rests on knowing itself without limit.</dd>
 <dt><dfn>sphere of boundless space</dfn></dt>
@@ -489,8 +491,6 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>A deep meditative state in which awareness rests on there being nothing at all to take up.</dd>
 <dt><dfn>spontaneously reborn</dfn></dt>
 <dd>Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.</dd>
-<dt><dfn>uncertain distraction</dfn></dt>
-<dd>Being pulled off track by doubt and indecision about the practice.</dd>
 <dt><dfn>underlying tendency</dfn></dt>
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
 <dt><dfn>unwholesome</dfn></dt>
@@ -508,7 +508,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn64/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn64-mahamalukya-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `fe75862e`
+- **Last editorial review:** 2026-11-08 · body version `790b7b3a`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2064) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -524,7 +524,6 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 </nav>
 
 
-*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
@@ -533,6 +532,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[calming]: A settling and quieting of the mind on the way toward full release.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
 *[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
@@ -541,6 +541,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
@@ -557,12 +558,11 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
-*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 *[sphere of boundless knowing]: A deep meditative state in which awareness rests on knowing itself without limit.
 *[sphere of boundless space]: A deep meditative state in which awareness rests on space without limit.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.

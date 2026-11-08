@@ -12,7 +12,7 @@
 - `ekaggatā` -> `directness`
 - `samādhi` -> `unification of mind`
 - `vitakka` and `vicāra` stay coordinated as the practical pair in the first mental theme.
-- The first mental theme is not treated as separate from ānāpānasati; the same training clears distractions, brings up wholesome dhammas, and keeps the line of practice direct.
+- The first mental theme is not treated as separate from ānāpānasati; the same training clears hindrances, brings up wholesome dhammas, and keeps the line of practice direct.
 
 ## Drift Guards
 

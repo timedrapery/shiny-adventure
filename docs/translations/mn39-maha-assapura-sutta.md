@@ -215,16 +215,16 @@ Giving up ill will and malice, they remain with a heart free of ill
 will, full of compassion toward all living beings, and purify the heart
 of ill will.
 
-Giving up dull distraction, they remain with the heart free of dull
-distraction, with awareness of light, with remembering and clear knowing, and
-purify the heart of dull distraction.
+Giving up sloth and torpor, they remain with the heart free of sloth and
+torpor, with awareness of light, with remembering and clear knowing, and
+purify the heart of sloth and torpor.
 
-Giving up agitated distraction, they remain without agitation, the heart
-inwardly stilled, and purify the heart of agitated distraction.
+Giving up restlessness and worry, they remain without agitation, the heart
+inwardly stilled, and purify the heart of restlessness and worry.
 
-Giving up uncertain distraction, they have crossed over uncertainty. They do
+Giving up doubt, they have crossed over uncertainty. They do
 not waver over skillful qualities, and they purify the heart of
-uncertain distraction.
+doubt.
 
 ### Five Similes for the Hindrances
 

@@ -134,7 +134,9 @@ source-audit calls, and edition notes that govern it.
 - `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
   `single`, so it stays distinct from `unification`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`. The five named members now use Dhammarato's
+  names as well: `sensual desire`, `ill will`, `sloth and torpor`,
+  `restlessness and worry`, and `doubt`.
 
 ## Edition Status
 

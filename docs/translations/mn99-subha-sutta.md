@@ -244,9 +244,9 @@ Subhaga grove speak in agreement or not in agreement?"
 
 ### The Five Hindrances
 
-"Student, there are these five hindrances. What five? The sensual
-distraction, the aversive distraction, the dull distraction, the agitated
-distraction, and the uncertain distraction. These are the five hindrances.
+"Student, there are these five hindrances. What five? Sensual desire,
+ill will, sloth and torpor, restlessness and worry, and doubt. These are
+the five hindrances.
 
 Pokkharasāti Opamañña of the Subhaga grove is wrapped up, shut in, flooded
 over, and covered by these five hindrances. It is impossible for him to

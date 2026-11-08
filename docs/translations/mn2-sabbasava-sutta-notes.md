@@ -65,8 +65,8 @@ source-audit calls, and edition notes that govern it.
   views.
 - The four-truth attention line stays aligned with the existing truth surfaces:
   dissatisfaction, origin, quenching, and path of practice leading to quenching.
-- The three fetters use existing governed labels: identity view, uncertain
-  distraction, and grasping at habits and observances.
+- The three fetters use existing governed labels: identity view,
+  doubt, and grasping at habits and observances.
 - The sense-faculty restraint passage keeps the repeated distress-and-fever
   logic rather than paraphrasing it away.
 - The requisites passage uses `felt experience` where the text names `vedanā`,
@@ -124,6 +124,9 @@ source-audit calls, and edition notes that govern it.
 - `samādhi` and its compounds now use `unification of mind`, or the compact
   `unification` inside compounds (for example `right unification of mind`,
   `born of unification`), in place of `composure`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

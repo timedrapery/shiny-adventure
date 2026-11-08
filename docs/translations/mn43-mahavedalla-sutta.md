@@ -258,8 +258,8 @@ factors does it possess?"
 five factors.
 
 Here, friend, for a bhikkhu who has entered the first mental theme, sensual
-distraction is abandoned, aversive distraction is abandoned, dull distraction
-is abandoned, agitated distraction is abandoned, and uncertain distraction is
+desire is abandoned, ill will is abandoned, sloth and torpor
+is abandoned, restlessness and worry is abandoned, and doubt is
 abandoned;
 
 and there occur thinking, pondering, rejoicing, satisfaction, and directness

@@ -15,7 +15,7 @@ collapsing into one vague English blur.
 | `saṃyojana` | `fetter` | Canonical binding factor in awakening-stage analysis | every imagery term |
 | `āsava` | `outflow` | Corruptive outflow or running-on residue | flood imagery, knot imagery |
 | `anusaya` | `underlying tendency` | Latent persistence lying underneath experience | active imagery terms |
-| `nīvaraṇa` | `distraction` | Active obstruction in practice | residue or bondage imagery |
+| `nīvaraṇa` | `hindrance` | Active obstruction in practice | residue or bondage imagery |
 | `kilesa` | `defilement` | Broad afflictive category | any narrower family by default |
 
 ## Operational Reading Order
@@ -68,4 +68,4 @@ collapsing into one vague English blur.
 | canonical stage-of-awakening binding set | `fetter` | imagery terms as substitutes |
 | corruptive running-on or leakage | `outflow` | `flood`, `yoke`, `knot` |
 | latent persistence beneath the surface | `underlying tendency` | active imagery terms |
-| active meditation obstruction | `distraction` | residue or bondage imagery |
+| active meditation obstruction | `hindrance` | residue or bondage imagery |

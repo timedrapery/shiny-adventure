@@ -288,35 +288,35 @@ hindrances.
 And how does a bhikkhu remain observing dhammas among dhammas in the five
 hindrances?
 
-When sensual distraction is present internally, they discern: 'There is sensual
-distraction in me.' When sensual distraction is absent internally, they
-discern: 'There is no sensual distraction in me.' They also discern how
-unarisen sensual distraction arises, how arisen sensual distraction is given
-up, and how abandoned sensual distraction does not arise again in the future.
+When sensual desire is present internally, they discern: 'There is sensual
+desire in me.' When sensual desire is absent internally, they
+discern: 'There is no sensual desire in me.' They also discern how
+unarisen sensual desire arises, how arisen sensual desire is given
+up, and how abandoned sensual desire does not arise again in the future.
 
-When aversive distraction is present internally, they discern: 'There is
-aversive distraction in me.' When aversive distraction is absent internally,
-they discern: 'There is no aversive distraction in me.' They also discern how
-unarisen aversive distraction arises, how arisen aversive distraction is given
-up, and how abandoned aversive distraction does not arise again in the future.
+When ill will is present internally, they discern: 'There is
+ill will in me.' When ill will is absent internally,
+they discern: 'There is no ill will in me.' They also discern how
+unarisen ill will arises, how arisen ill will is given
+up, and how abandoned ill will does not arise again in the future.
 
-When dull distraction is present internally, they discern: 'There is dull
-distraction in me.' When dull distraction is absent internally, they discern:
-'There is no dull distraction in me.' They also discern how unarisen dull
-distraction arises, how arisen dull distraction is given up, and how abandoned
-dull distraction does not arise again in the future.
+When sloth and torpor is present internally, they discern: 'There is sloth and
+torpor in me.' When sloth and torpor is absent internally, they discern:
+'There is no sloth and torpor in me.' They also discern how unarisen sloth and
+torpor arises, how arisen sloth and torpor is given up, and how abandoned
+sloth and torpor does not arise again in the future.
 
-When agitated distraction is present internally, they discern: 'There is
-agitated distraction in me.' When agitated distraction is absent internally,
-they discern: 'There is no agitated distraction in me.' They also discern how
-unarisen agitated distraction arises, how arisen agitated distraction is given
-up, and how abandoned agitated distraction does not arise again in the future.
+When restlessness and worry is present internally, they discern: 'There is
+restlessness and worry in me.' When restlessness and worry is absent internally,
+they discern: 'There is no restlessness and worry in me.' They also discern how
+unarisen restlessness and worry arises, how arisen restlessness and worry is given
+up, and how abandoned restlessness and worry does not arise again in the future.
 
-When uncertain distraction is present internally, they discern: 'There is
-uncertain distraction in me.' When uncertain distraction is absent internally,
-they discern: 'There is no uncertain distraction in me.' They also discern how
-unarisen uncertain distraction arises, how arisen uncertain distraction is
-given up, and how abandoned uncertain distraction does not arise again in the
+When doubt is present internally, they discern: 'There is
+doubt in me.' When doubt is absent internally,
+they discern: 'There is no doubt in me.' They also discern how
+unarisen doubt arises, how arisen doubt is
+given up, and how abandoned doubt does not arise again in the
 future.
 
 Then they remain observing dhammas as internal, observing dhammas as external,

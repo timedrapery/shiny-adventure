@@ -14,16 +14,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.</dd>
 <dt><dfn>ageing and dying</dfn> <span class="glossary-pali" lang="pi">(jarāmaraṇa)</span></dt>
 <dd>Growing old and dying, treated in these texts as one linked process and as the end point of the dependent-arising sequence.</dd>
-<dt><dfn>agitated distraction</dfn> <span class="glossary-pali" lang="pi">(uddhacca-kukkucca)</span></dt>
-<dd>Being pulled off track by restlessness and nagging regret.</dd>
 <dt><dfn>arahant</dfn> <span class="glossary-pali" lang="pi">(arahant)</span></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
 <dt><dfn>arrow</dfn> <span class="glossary-pali" lang="pi">(salla)</span></dt>
 <dd>A recurring image across these texts with more than one meaning. In MN 63 it&#x27;s a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it&#x27;s a different image entirely: an ordinary person&#x27;s pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.</dd>
 <dt><dfn>aversion</dfn> <span class="glossary-pali" lang="pi">(dosa)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
-<dt><dfn>aversive distraction</dfn> <span class="glossary-pali" lang="pi">(byāpāda)</span></dt>
-<dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
 <dt><dfn>awakening</dfn> <span class="glossary-pali" lang="pi">(bodhi)</span></dt>
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
 <dt><dfn>awakening factor</dfn> <span class="glossary-pali" lang="pi">(bojjhaṅga)</span></dt>
@@ -111,8 +107,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.</dd>
 <dt><dfn>dissatisfaction</dfn> <span class="glossary-pali" lang="pi">(dukkha)</span></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
-<dt><dfn>dull distraction</dfn> <span class="glossary-pali" lang="pi">(thīna-middha)</span></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
+<dt><dfn>doubt</dfn> <span class="glossary-pali" lang="pi">(vicikicchā)</span></dt>
+<dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>dynamic balance</dfn> <span class="glossary-pali" lang="pi">(upekkhā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 </dl>
@@ -138,7 +134,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>final nibbāna</dfn> <span class="glossary-pali" lang="pi">(parinibbāna)</span></dt>
 <dd>The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.</dd>
 <dt><dfn>five hindrances</dfn> <span class="glossary-pali" lang="pi">(pañca-nīvaraṇā)</span></dt>
-<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
 <dt><dfn>flood</dfn> <span class="glossary-pali" lang="pi">(ogha)</span></dt>
@@ -178,6 +174,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn> <span class="glossary-pali" lang="pi">(taṇhā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dt><dfn>ill will</dfn> <span class="glossary-pali" lang="pi">(byāpāda)</span></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 </dl>
 
 ## K
@@ -283,6 +281,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn> <span class="glossary-pali" lang="pi">(paṭigha)</span></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
+<dt><dfn>restlessness and worry</dfn> <span class="glossary-pali" lang="pi">(uddhacca-kukkucca)</span></dt>
+<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
 <dt><dfn>right action</dfn> <span class="glossary-pali" lang="pi">(sammā-kammanta)</span></dt>
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn> <span class="glossary-pali" lang="pi">(sammāsaṅkappa)</span></dt>
@@ -310,14 +310,16 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>seclusion</dfn> <span class="glossary-pali" lang="pi">(patisallana)</span></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
-<dt><dfn>sensual distraction</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
-<dd>Being pulled off track by wanting something pleasant.</dd>
+<dt><dfn>sensual desire</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
 <dt><dfn>singleness of mind</dfn> <span class="glossary-pali" lang="pi">(cetaso-ekodibhava)</span></dt>
 <dd>The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).</dd>
 <dt><dfn>six fields of experience</dfn> <span class="glossary-pali" lang="pi">(saḷāyatana)</span></dt>
 <dd>The six channels through which anything at all is experienced: seeing, hearing, smelling, tasting, touching, and thinking. Often translated &quot;sense bases.&quot;</dd>
+<dt><dfn>sloth and torpor</dfn> <span class="glossary-pali" lang="pi">(thīna-middha)</span></dt>
+<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
 <dt><dfn>soul</dfn> <span class="glossary-pali" lang="pi">(jīva)</span></dt>
 <dd>This translation&#x27;s rendering of &quot;jīva&quot; -- the felt sense of an inner self or life-essence. Whether it exists, and whether it&#x27;s the same as the body, is one of the questions MN 63 leaves undeclared.</dd>
 <dt><dfn>sphere of boundless knowing</dfn> <span class="glossary-pali" lang="pi">(viññāṇañcāyatana)</span></dt>
@@ -362,8 +364,6 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## U
 
 <dl class="glossary-list">
-<dt><dfn>uncertain distraction</dfn> <span class="glossary-pali" lang="pi">(vicikicchā)</span></dt>
-<dd>Being pulled off track by doubt and indecision about the practice.</dd>
 <dt><dfn>unconditioned</dfn> <span class="glossary-pali" lang="pi">(asaṅkhata)</span></dt>
 <dd>This project&#x27;s rendering of &quot;asaṅkhata&quot; -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.</dd>
 <dt><dfn>undeclared</dfn> <span class="glossary-pali" lang="pi">(avyākata)</span></dt>

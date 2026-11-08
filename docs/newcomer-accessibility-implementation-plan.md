@@ -127,7 +127,7 @@ immediate short explanation available in the reading flow.
 Implement this as reader annotation or orientation, not as an unmarked addition
 to the governed translation. Keep the full words-used panel for deeper help.
 Prioritize terms such as *bhikkhu*, *arahant*, *nibbāna*, Dhamma/dhamma,
-Saṅgha, heart, thinking mind, composure, and remembering.
+Saṅgha, heart, thinking mind, unification of mind, and remembering.
 
 ### 6. Simplify the public front door
 

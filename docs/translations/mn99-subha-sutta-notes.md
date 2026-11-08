@@ -21,9 +21,9 @@ source-audit calls, and edition notes that govern it.
 ## Governing Decisions
 
 - `gahaṭṭha` remains `householder` and `pabbajita` remains `renunciant`.
-- The five `nīvaraṇa` members stay inside the repository's
-  distraction-language: `sensual distraction`, `aversive distraction`,
-  `dull distraction`, `agitated distraction`, and `uncertain distraction`.
+- The five `nīvaraṇa` members use the repository's
+  governed names: `sensual desire`, `ill will`,
+  `sloth and torpor`, `restlessness and worry`, and `doubt`.
 - The delight contrast stays aligned with current `jhāna` policy:
   `first mental theme` and `second mental theme`, with `thinking and
   pondering`, `inner clarity`, and `singleness of mind`.
@@ -112,7 +112,10 @@ source-audit calls, and edition notes that govern it.
 - `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
   `single`, so it stays distinct from `unification`.
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

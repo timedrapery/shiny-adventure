@@ -112,7 +112,9 @@ finally governs running text.
   teaching usage, recorded in the
   [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
 - `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
-  place of `distraction`. The five named members keep their governed names.
+  place of `distraction`. The five named members now use Dhammarato's
+  names as well: `sensual desire`, `ill will`, `sloth and torpor`,
+  `restlessness and worry`, and `doubt`.
 
 ## Readability Review
 

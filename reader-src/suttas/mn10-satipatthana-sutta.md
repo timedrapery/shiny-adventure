@@ -7,7 +7,7 @@
 
 *MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,824 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,831 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -293,35 +293,35 @@ hindrances.
 And how does a bhikkhu remain observing dhammas among dhammas in the five
 hindrances?
 
-When sensual distraction is present internally, they discern: 'There is sensual
-distraction in me.' When sensual distraction is absent internally, they
-discern: 'There is no sensual distraction in me.' They also discern how
-unarisen sensual distraction arises, how arisen sensual distraction is given
-up, and how abandoned sensual distraction does not arise again in the future.
+When sensual desire is present internally, they discern: 'There is sensual
+desire in me.' When sensual desire is absent internally, they
+discern: 'There is no sensual desire in me.' They also discern how
+unarisen sensual desire arises, how arisen sensual desire is given
+up, and how abandoned sensual desire does not arise again in the future.
 
-When aversive distraction is present internally, they discern: 'There is
-aversive distraction in me.' When aversive distraction is absent internally,
-they discern: 'There is no aversive distraction in me.' They also discern how
-unarisen aversive distraction arises, how arisen aversive distraction is given
-up, and how abandoned aversive distraction does not arise again in the future.
+When ill will is present internally, they discern: 'There is
+ill will in me.' When ill will is absent internally,
+they discern: 'There is no ill will in me.' They also discern how
+unarisen ill will arises, how arisen ill will is given
+up, and how abandoned ill will does not arise again in the future.
 
-When dull distraction is present internally, they discern: 'There is dull
-distraction in me.' When dull distraction is absent internally, they discern:
-'There is no dull distraction in me.' They also discern how unarisen dull
-distraction arises, how arisen dull distraction is given up, and how abandoned
-dull distraction does not arise again in the future.
+When sloth and torpor is present internally, they discern: 'There is sloth and
+torpor in me.' When sloth and torpor is absent internally, they discern:
+'There is no sloth and torpor in me.' They also discern how unarisen sloth and
+torpor arises, how arisen sloth and torpor is given up, and how abandoned
+sloth and torpor does not arise again in the future.
 
-When agitated distraction is present internally, they discern: 'There is
-agitated distraction in me.' When agitated distraction is absent internally,
-they discern: 'There is no agitated distraction in me.' They also discern how
-unarisen agitated distraction arises, how arisen agitated distraction is given
-up, and how abandoned agitated distraction does not arise again in the future.
+When restlessness and worry is present internally, they discern: 'There is
+restlessness and worry in me.' When restlessness and worry is absent internally,
+they discern: 'There is no restlessness and worry in me.' They also discern how
+unarisen restlessness and worry arises, how arisen restlessness and worry is given
+up, and how abandoned restlessness and worry does not arise again in the future.
 
-When uncertain distraction is present internally, they discern: 'There is
-uncertain distraction in me.' When uncertain distraction is absent internally,
-they discern: 'There is no uncertain distraction in me.' They also discern how
-unarisen uncertain distraction arises, how arisen uncertain distraction is
-given up, and how abandoned uncertain distraction does not arise again in the
+When doubt is present internally, they discern: 'There is
+doubt in me.' When doubt is absent internally,
+they discern: 'There is no doubt in me.' They also discern how
+unarisen doubt arises, how arisen doubt is
+given up, and how abandoned doubt does not arise again in the
 future.
 
 Then they remain observing dhammas as internal, observing dhammas as external,
@@ -455,12 +455,8 @@ Buddha had said.
 <details class="reader-terms">
 <summary>Words used in this translation (33)</summary>
 <dl>
-<dt><dfn>agitated distraction</dfn></dt>
-<dd>Being pulled off track by restlessness and nagging regret.</dd>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
-<dt><dfn>aversive distraction</dfn></dt>
-<dd>Being pulled off track by ill will, hostility, or pushing things away.</dd>
 <dt><dfn>awakening</dfn></dt>
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
 <dt><dfn>awakening factor</dfn></dt>
@@ -483,18 +479,20 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
-<dt><dfn>dull distraction</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
+<dt><dfn>doubt</dfn></dt>
+<dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>five hindrances</dfn></dt>
-<dd>The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one&#x27;s name says how it pulls the mind away.</dd>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mixed feeling</dfn></dt>
@@ -513,10 +511,12 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
-<dt><dfn>sensual distraction</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant.</dd>
-<dt><dfn>uncertain distraction</dfn></dt>
-<dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>restlessness and worry</dfn></dt>
+<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dt><dfn>sloth and torpor</dfn></dt>
+<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
 <dt><dfn>unification</dfn></dt>
 <dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>world</dfn></dt>
@@ -530,7 +530,7 @@ Buddha had said.
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
 - **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-11-08 · body version `da5f8236`
+- **Last editorial review:** 2026-11-08 · body version `f05ab929`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -546,9 +546,7 @@ Buddha had said.
 </nav>
 
 
-*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
-*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 *[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
@@ -560,12 +558,13 @@ Buddha had said.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
@@ -575,7 +574,8 @@ Buddha had said.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
-*[sensual distraction]: Being pulled off track by wanting something pleasant.
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
+*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

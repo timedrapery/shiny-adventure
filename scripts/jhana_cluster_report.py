@@ -240,7 +240,7 @@ def render_path_brief(terms: dict[str, dict[str, object]]) -> str:
         f"- `{terms['ekaggata']['term']}` -> `{terms['ekaggata']['preferred_translation']}`",
         f"- `{terms['samadhi']['term']}` -> `{terms['samadhi']['preferred_translation']}`",
         f"- `{terms['vitakka']['term']}` and `{terms['vicara']['term']}` stay coordinated as the practical pair in the first mental theme.",
-        "- The first mental theme is not treated as separate from ānāpānasati; the same training clears distractions, brings up wholesome dhammas, and keeps the line of practice direct.",
+        "- The first mental theme is not treated as separate from ānāpānasati; the same training clears hindrances, brings up wholesome dhammas, and keeps the line of practice direct.",
         "",
         "## Drift Guards",
         "",

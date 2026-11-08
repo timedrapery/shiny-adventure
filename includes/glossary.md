@@ -194,19 +194,19 @@
 
 *[clearly knowing]: Acting while plainly aware of what you are doing.
 
-*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Each one's name says how it pulls the mind away.
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
 
-*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
 
-*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 
-*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
 
-*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
+*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
 
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 
