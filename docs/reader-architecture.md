@@ -255,4 +255,5 @@ breakage is caught before it reaches `main`.
   section headings and must not silently settle an ambiguity.
 - Passing the reader accessibility checker does not mark a translation
   `validated`. Human read-aloud usability and newcomer-comprehension reviews
-  remain separate gates under `PLAIN_ENGLISH_STANDARD.md`.
+  are optional records under `PLAIN_ENGLISH_STANDARD.md`; the reader does not
+  display a review status.

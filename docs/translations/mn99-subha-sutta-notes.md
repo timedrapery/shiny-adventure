@@ -13,7 +13,7 @@ source-audit calls, and edition notes that govern it.
   `gahaṭṭha`, `pabbajita`, `nīvaraṇa`, `kāmacchanda`, `byāpāda`,
   `thīna-middha`, `uddhacca-kukkucca`, `vicikicchā`, `jhāna`, `mettā`,
   `karuṇā`, `muditā`, `upekkhā`, `brahmavihāra`, and `cāga`.
-- Working method: the brahmin fivefold list, the five-distractions section,
+- Working method: the brahmin fivefold list, the five-hindrances section,
   the delight-and-jhāna contrast, and the four divine-abiding lines are
   checked as coordinated blocks so the discourse reads as one practical
   argument rather than as disconnected inherited formulas.
@@ -21,12 +21,12 @@ source-audit calls, and edition notes that govern it.
 ## Governing Decisions
 
 - `gahaṭṭha` remains `householder` and `pabbajita` remains `renunciant`.
-- The five `nīvaraṇa` members stay inside the repository's
-  distraction-language: `sensual distraction`, `aversive distraction`,
-  `dull distraction`, `agitated distraction`, and `uncertain distraction`.
+- The five `nīvaraṇa` members use the repository's
+  governed names: `sensual desire`, `ill will`,
+  `sloth and torpor`, `restlessness and worry`, and `doubt`.
 - The delight contrast stays aligned with current `jhāna` policy:
   `first mental theme` and `second mental theme`, with `thinking and
-  pondering`, `inner clarity`, and `unification of mind`.
+  pondering`, `inner clarity`, and `singleness of mind`.
 - The brahmavihāra close uses current house terms:
   `friendliness`, `kindness towards others`, `gladness`, and
   `dynamic balance`.
@@ -70,7 +70,7 @@ source-audit calls, and edition notes that govern it.
   reclassifies those five as supports for cultivating a mind free of enmity and
   ill will.
 - The delight contrast matters. Sensual delight is not treated as equal to the
-  delight born from seclusion and composure.
+  delight born from seclusion and unification of mind.
 - The brahmavihāra close is practical training language. It is not only a
   cosmological answer about Brahmā-world rebirth; it is a governed
   cultivation-path answer.
@@ -91,7 +91,7 @@ source-audit calls, and edition notes that govern it.
 - Status: `provisional`
 - This pass clarified speaker movement, simplified the Naḷakāra exchange,
   repaired the chaste-conduct and support sentences, and removed ambiguous
-  pronouns. It preserved the five-dhamma argument, distraction and mental-theme
+  pronouns. It preserved the five-dhamma argument, hindrance and mental-theme
   formulas, divine-abiding sequence, and intentional question-and-answer
   repetition.
 - Governed wording left unchanged: `On this point, student, I analyze. I do not
@@ -100,6 +100,22 @@ source-audit calls, and edition notes that govern it.
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 

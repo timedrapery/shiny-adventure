@@ -12,14 +12,14 @@ collapsing into one generic blur of `meditation`, `concentration`, or
 | --- | --- | --- | --- |
 | `jhāna` | `mental theme` | Governing jhāna-side headword in the fourfold sequence | meditation, absorption, trance, ecstasy |
 | `jhāyati` | `think like this` | Verb-side practical instruction linked to the family | meditate, enter absorption |
-| `samādhi` | `composure` | Broader composure-side headword | concentration, absorption, unification of mind |
-| `sammā-samādhi` | `right composure` | Path-factor form governed as the fourfold jhāna sequence | right concentration |
+| `samādhi` | `unification of mind` | Broader unification-side headword | concentration, absorption |
+| `sammā-samādhi` | `right unification of mind` | Path-factor form governed as the fourfold jhāna sequence | right concentration |
 | `vitakka` | `thinking` | First-jhāna active thought-side factor | applied thought, initial thought |
 | `vicāra` | `pondering` | Ongoing consideration-side factor | sustained thought |
 | `ekaggatā` | `directness` | Single-aim or unified-direction factor inside the family | one-pointedness, concentration |
 | `pīti` | `delight` | Uplifted or energizing factor in the sequence | ecstasy |
 | `sukha` | `satisfaction` | Pleasant settled tone within the family | happiness |
-| `nīvaraṇa` | `distraction` | Obstructing family that must be kept distinct from jhāna language | enemy, problem |
+| `nīvaraṇa` | `hindrance` | Obstructing family that must be kept distinct from jhāna language | enemy, problem |
 | `bhāvanā` | `development` | Practice-development term, not a synonym for jhāna itself | meditation |
 
 ## Operational Reading Order
@@ -37,7 +37,7 @@ collapsing into one generic blur of `meditation`, `concentration`, or
 
 - `jhāna` governs the fourfold sequence as `first mental theme`,
   `second mental theme`, `third mental theme`, and `fourth mental theme`.
-- `samādhi` remains the broader composure headword that interfaces with the
+- `samādhi` remains the broader unification headword that interfaces with the
   jhāna family without collapsing into concentration-language.
 - `sammā-samādhi` belongs to the path-factor family and the jhāna family at the
   same time. Keep both sides audible.

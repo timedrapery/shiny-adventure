@@ -98,7 +98,7 @@
 
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
 
@@ -156,7 +156,11 @@
 
 *[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
 
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
+
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
+
+*[singleness of mind]: The mind become single and undivided as thinking and pondering settle in the second mental theme. Kept distinct from unification of mind (samādhi).
 
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 
@@ -190,21 +194,21 @@
 
 *[clearly knowing]: Acting while plainly aware of what you are doing.
 
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
 
-*[sensual distraction]: Being pulled off track by wanting something pleasant.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
 
-*[aversive distraction]: Being pulled off track by ill will, hostility, or pushing things away.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 
-*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
 
-*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
+*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
 
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right composure.
+*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 
@@ -266,7 +270,7 @@
 
 *[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
 
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, composure, and discernment—considered as abilities that can be trained and brought into balance.
+*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
 
 *[defilements]: Broadly, qualities that cloud the mind and support harmful patterns. More specific terms on this site name particular ways such qualities obstruct, persist, bind, or flow out.
 
@@ -347,7 +351,7 @@
 
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 
-*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into composure.
+*[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 
 *[discernment-of-qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 

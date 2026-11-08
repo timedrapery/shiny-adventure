@@ -214,7 +214,7 @@ He wisely attends:
 When he attends wisely in this way, three fetters are abandoned:
 
 - identity view
-- uncertain distraction
+- doubt
 - grasping at habits and observances
 
 These are called the outflows to be abandoned by seeing.
@@ -351,7 +351,7 @@ Reflecting wisely, he develops the rejoicing awakening factor.
 
 Reflecting wisely, he develops the relaxation awakening factor.
 
-Reflecting wisely, he develops the composure awakening factor.
+Reflecting wisely, he develops the unification awakening factor.
 
 Reflecting wisely, he develops the dynamic-balance awakening factor, based on
 seclusion, based on fading, based on quenching, maturing in relinquishment.

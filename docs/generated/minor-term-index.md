@@ -75,7 +75,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [anicca-sabbe-sankhara](../../terms/minor/anicca-sabbe-sankhara.json) | aniccā sabbasaṅkhārā | all that has been put together is impermanent | reviewed | three-marks, formula, translation-sensitive |
 | [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | recognition of impermanence | reviewed | meditative-development, liberation, three-marks |
 | [aniccanupassana](../../terms/minor/aniccanupassana.json) | aniccānupassanā | contemplation of impermanence | reviewed | core-practice, meditative-development, three-marks |
-| [animitta-cetosamadhi](../../terms/minor/animitta-cetosamadhi.json) | animitta-cetosamadhi | signless composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
+| [animitta-cetosamadhi](../../terms/minor/animitta-cetosamadhi.json) | animitta-cetosamadhi | signless unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
 | [animitta-samadhi](../../terms/minor/animitta-samadhi.json) | animitta-samadhi | signless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
 | [animitta-vimokkha](../../terms/minor/animitta-vimokkha.json) | animitta-vimokkha | signless release | reviewed | liberation, meditative-development, emptiness-interface |
 | [anissita](../../terms/minor/anissita.json) | anissita | not depending | reviewed | liberation |
@@ -103,7 +103,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [apo](../../terms/minor/apo.json) | apo | water | reviewed | embodiment, core-doctrine |
 | [appamana](../../terms/minor/appamana.json) | appamana | measureless state | reviewed | core-practice |
 | [appana-samadhi](../../terms/minor/appana-samadhi.json) | appana-samadhi | absorption samadhi | reviewed | meditative-development |
-| [appanihita-cetosamadhi](../../terms/minor/appanihita-cetosamadhi.json) | appanihita-cetosamadhi | wishless composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
+| [appanihita-cetosamadhi](../../terms/minor/appanihita-cetosamadhi.json) | appanihita-cetosamadhi | wishless unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
 | [appanihita-samadhi](../../terms/minor/appanihita-samadhi.json) | appanihita-samadhi | wishless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
 | [appanihita-vimokkha](../../terms/minor/appanihita-vimokkha.json) | appanihita-vimokkha | wishless release | reviewed | liberation, meditative-development, emptiness-interface |
 | [appicchata](../../terms/minor/appicchata.json) | appicchatā | fewness of wishes | reviewed | core-practice |
@@ -228,10 +228,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [catuttha-jhana](../../terms/minor/catuttha-jhana.json) | catuttha-jhāna | fourth mental theme | reviewed | meditative-development, jhana-factors |
 | [cetana-dhatu](../../terms/minor/cetana-dhatu.json) | cetanā-dhātu | intention element | reviewed | core-doctrine |
 | [cetanasampanna](../../terms/minor/cetanasampanna.json) | cetanasampanna | endowed with intention | reviewed | core-practice |
-| [cetaso-ekodibhava](../../terms/minor/cetaso-ekodibhava.json) | cetaso-ekodibhava | unification of mind | reviewed | jhana-factors, meditative-development |
+| [cetaso-ekodibhava](../../terms/minor/cetaso-ekodibhava.json) | cetaso-ekodibhava | singleness of mind | reviewed | jhana-factors, meditative-development |
 | [ceto-vimutti](../../terms/minor/ceto-vimutti.json) | ceto-vimutti | release of mind | reviewed | liberation |
 | [ceto-viveka](../../terms/minor/ceto-viveka.json) | ceto-viveka | mental seclusion | reviewed | meditative-development |
-| [cetosamadhi](../../terms/minor/cetosamadhi.json) | cetosamadhi | composure of mind | reviewed | meditative-development |
+| [cetosamadhi](../../terms/minor/cetosamadhi.json) | cetosamadhi | unification of mind | reviewed | meditative-development |
 | [cetosamatha](../../terms/minor/cetosamatha.json) | cetosamatha | calming of mind | reviewed | core-practice, meditative-development |
 | [cha-dvarani](../../terms/minor/cha-dvarani.json) | cha-dvarani | six doors | reviewed | core-doctrine, core-practice |
 | [chanda-iddhipada](../../terms/minor/chanda-iddhipada.json) | chandiddhipāda | basis of power grounded in desire | reviewed | core-practice, meditative-development, translation-sensitive |
@@ -509,7 +509,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [miccha-ditthi](../../terms/minor/miccha-ditthi.json) | micchā-diṭṭhi | wrong view | reviewed | core-doctrine |
 | [miccha-kammanta](../../terms/minor/miccha-kammanta.json) | micchā-kammanta | wrong action | reviewed | ethics |
 | [miccha-nana](../../terms/minor/miccha-nana.json) | micchā-ñāṇa | wrong knowledge | reviewed | core-practice, knowledge-cluster |
-| [miccha-samadhi](../../terms/minor/miccha-samadhi.json) | micchā-samādhi | wrong composure | reviewed | core-practice |
+| [miccha-samadhi](../../terms/minor/miccha-samadhi.json) | micchā-samādhi | wrong unification of mind | reviewed | core-practice |
 | [miccha-sankappa](../../terms/minor/miccha-sankappa.json) | micchāsaṅkappa | wrong attitude | reviewed | core-practice |
 | [miccha-sati](../../terms/minor/miccha-sati.json) | micchā-sati | wrong sati | reviewed | core-practice |
 | [miccha-vaca](../../terms/minor/miccha-vaca.json) | micchā-vācā | wrong speech | reviewed | ethics |
@@ -628,7 +628,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [panca-bala](../../terms/minor/panca-bala.json) | panca-bala | five strengths | reviewed | core-doctrine, core-practice |
 | [panca-brahmana-dhamma](../../terms/minor/panca-brahmana-dhamma.json) | pañcahi dhammehi samannāgato brāhmaṇo | a brahmin endowed with five things | reviewed | formula, ethics |
 | [panca-indriya](../../terms/minor/panca-indriya.json) | panca-indriya | five faculties | reviewed | core-doctrine, core-practice |
-| [panca-nivarana](../../terms/minor/panca-nivarana.json) | pañca-nīvaraṇā | five distractions | stable | core-doctrine, core-practice, translation-sensitive |
+| [panca-nivarana](../../terms/minor/panca-nivarana.json) | pañca-nīvaraṇā | five hindrances | stable | core-doctrine, core-practice, translation-sensitive |
 | [pancakkhandha](../../terms/minor/pancakkhandha.json) | pañcakkhandhā | five heaps | stable | aggregates, core-doctrine |
 | [pancupadanakkhandha](../../terms/minor/pancupadanakkhandha.json) | pañcupādānakkhandhā | five clung-to heaps | stable | aggregates, core-doctrine, translation-sensitive |
 | [pandita](../../terms/minor/pandita.json) | paṇḍita | wise person | reviewed | persons, mental-qualities |
@@ -667,9 +667,9 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [pathavi-dhatu](../../terms/minor/pathavi-dhatu.json) | pathavi-dhatu | earth element | reviewed | embodiment, core-doctrine |
 | [pathavi-kasina](../../terms/minor/pathavi-kasina.json) | pathavī-kasiṇa | earth kasina | reviewed | meditative-development |
 | [pathavi](../../terms/minor/pathavi.json) | pathavi | earth | reviewed | embodiment, core-doctrine |
-| [pathavim-pathavito-abhinnaya-pathavim-ma-manni](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-ma-manni.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi | once they have directly known earth as earth, they should not take themselves to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
-| [pathavim-pathavito-abhinnaya-pathavim-na-mannati](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-na-mannati.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati | once they have directly known earth as earth, they do not take themselves to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
-| [pathavim-pathavito-sannatva-pathavim-mannati](../../terms/minor/pathavim-pathavito-sannatva-pathavim-mannati.json) | paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati | once they have recognized earth as earth, they take themselves to be earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view |
+| [pathavim-pathavito-abhinnaya-pathavim-ma-manni](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-ma-manni.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi | once they have directly known earth as earth, they should not think of themselves as earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
+| [pathavim-pathavito-abhinnaya-pathavim-na-mannati](../../terms/minor/pathavim-pathavito-abhinnaya-pathavim-na-mannati.json) | paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ na maññati | once they have directly known earth as earth, they do not think of themselves as earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view, verbal-knowing-cluster |
+| [pathavim-pathavito-sannatva-pathavim-mannati](../../terms/minor/pathavim-pathavito-sannatva-pathavim-mannati.json) | paṭhaviṃ paṭhavito saññatvā paṭhaviṃ maññati | once they have recognized earth as earth, they think of themselves as earth | reviewed | core-doctrine, core-practice, translation-sensitive, self-view |
 | [patibhaga-nimitta](../../terms/minor/patibhaga-nimitta.json) | patibhaga-nimitta | counterpart sign | reviewed | meditative-development |
 | [patigha-anusaya](../../terms/minor/patigha-anusaya.json) | paṭigha-anusaya | underlying tendency toward resistance | stable | core-doctrine, mental-qualities |
 | [patinissagga](../../terms/minor/patinissagga.json) | paṭinissagga | relinquishment | reviewed | mental-qualities |
@@ -760,10 +760,10 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [salayatanapaccaya-phasso](../../terms/minor/salayatanapaccaya-phasso.json) | saḷāyatanapaccayā phasso | with the six fields of experience as condition, contact | reviewed | dependent-origination, causality, translation-sensitive |
 | [salla](../../terms/minor/salla.json) | salla | arrow | reviewed | simile, translation-sensitive |
 | [sallekha](../../terms/minor/sallekha.json) | sallekha | self-effacement | reviewed | mental-qualities |
-| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | composure awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
-| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | strength of composure | reviewed | core-practice, mental-qualities |
-| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | rejoicing and satisfaction born of composure | reviewed | jhana-factors, meditative-development |
-| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | faculty of composure | reviewed | core-practice, mental-qualities |
+| [samadhi-sambojjhanga](../../terms/minor/samadhi-sambojjhanga.json) | samādhisambojjhaṅga | unification awakening factor | reviewed | core-practice, meditative-development, mental-qualities |
+| [samadhibala](../../terms/minor/samadhibala.json) | samādhibala | strength of unification | reviewed | core-practice, mental-qualities |
+| [samadhija-piti-sukha](../../terms/minor/samadhija-piti-sukha.json) | samadhija-piti-sukha | rejoicing and satisfaction born of unification | reviewed | jhana-factors, meditative-development |
+| [samadhindriya](../../terms/minor/samadhindriya.json) | samādhindriya | faculty of unification | reviewed | core-practice, mental-qualities |
 | [samagga](../../terms/minor/samagga.json) | samagga | harmonious | reviewed | core-practice |
 | [samaja](../../terms/minor/samaja.json) | samāja | gathering | reviewed | core-doctrine |
 | [samanantara-paccaya](../../terms/minor/samanantara-paccaya.json) | samanantara-paccaya | contiguity condition | reviewed | causality |
@@ -847,8 +847,8 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sugati](../../terms/minor/sugati.json) | sugati | good destination | reviewed | core-doctrine |
 | [sukha-vedana](../../terms/minor/sukha-vedana.json) | sukhavedanā | pleasant feeling | reviewed | aggregates |
 | [sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati](../../terms/minor/sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati.json) | sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati | when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally | reviewed | core-practice, translation-sensitive, sense-fields |
-| [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness composure of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | composure that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
+| [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
+| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | unification that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-vimokkha](../../terms/minor/sunnata-vimokkha.json) | sunnata-vimokkha | emptiness release | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunyata](../../terms/minor/sunyata.json) | śūnyatā | śūnyatā | reviewed | core-doctrine, translation-sensitive |
 | [surameraya-majjapamadatthana-veramani](../../terms/minor/surameraya-majjapamadatthana-veramani.json) | surameraya-majjapamadatthana-veramani | abstaining from intoxicants | reviewed | ethics |

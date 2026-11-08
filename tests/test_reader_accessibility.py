@@ -49,9 +49,8 @@ Definitions go here.
 </details>
 
 <details class="reader-source-status">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 Canonical Pali: https://suttacentral.net/sn1.1/pli/ms
-Status: Provisional
 Report a problem
 </details>
 

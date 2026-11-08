@@ -16,7 +16,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A tendency that remains lying underneath experience and can reassert itself when conditions support it.",
-  "notes": "The project keeps underlying tendency as the default because it is plain English that still preserves the doctrinal image of something lying underneath. Latent tendency is a controlled alternate when dormancy needs to be foregrounded, but anusaya should not be reduced to mere habit or personality. In this repository, anusaya is not the same as actively obstructive nīvaraṇas, not the same as the binding saṃyojana set, and not the same as the broader kilesa family. It names a layer of latent persistence that may not be manifest on the surface yet still conditions reaction. Formula and compound handling should preserve that dormant-but-potent force in cases such as rāgānusaya, diṭṭhānusaya, and mānānusaya. The OSF glossary supports keeping underlying tendency as the house default, and MN 64 together with SN 22.89 support the family logic of tendencies that lie underneath and can be uprooted rather than merely suppressed.",
+  "notes": "The project keeps underlying tendency as the default because it is plain English that still preserves the doctrinal image of something lying underneath. Latent tendency is a controlled alternate when dormancy needs to be foregrounded, but anusaya should not be reduced to mere habit or personality. In this repository, anusaya is not the same as actively obstructive nīvaraṇas, not the same as the binding saṃyojana set, and not the same as the broader kilesa family. It names a layer of latent persistence that may not be manifest on the surface yet still conditions reaction. Formula and compound handling should preserve that dormant-but-potent force in cases such as rāgānusaya, diṭṭhānusaya, and mānānusaya. The OSF glossary supports keeping underlying tendency as the house default, and MN 64 together with SN 22.89 support the family logic of tendencies that lie underneath and can be uprooted rather than merely suppressed. Dhammarato's talks repeatedly map the underlying tendencies onto the four modes of clinging and onto four basic instincts (self-preservation, procreation, nesting, territory). He presents this as his own explanatory map and notes that the suttas do not use that terminology, so the instinct framing is allowed in explanation but instinct stays discouraged as a rendering.",
   "context_rules": [
     {
       "context": "In doctrinal analysis of latent persistence and reactivity",
@@ -104,6 +104,12 @@
       "source": "MN 64",
       "kind": "context-rule",
       "scope": "Supports the verbal and compound logic of tendencies that lie underneath and can be uprooted."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "rationale",
+      "scope": "Supports the four-instincts framing as explanatory language only; instinct remains discouraged as a rendering."
     }
   ],
   "translation_policy": {

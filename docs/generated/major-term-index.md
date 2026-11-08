@@ -67,7 +67,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [bodhi](../../terms/major/bodhi.json) | bodhi | awakening | reviewed | core-doctrine, core-practice |
 | [bojjhanga](../../terms/major/bojjhanga.json) | bojjhaṅga | awakening factor | stable | core-practice, meditative-development, mental-qualities |
 | [buddha](../../terms/major/buddha.json) | buddha | buddha | stable | core-doctrine, persons, translation-sensitive |
-| [byapada](../../terms/major/byapada.json) | byāpāda | aversive distraction | stable | core-practice, meditative-development, mental-qualities |
+| [byapada](../../terms/major/byapada.json) | byāpāda | ill will | stable | core-practice, meditative-development, mental-qualities |
 
 ## C
 
@@ -145,7 +145,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [kama-tanha](../../terms/major/kama-tanha.json) | kāmataṇhā | ignorant wanting for sensuality | stable | core-doctrine, four-noble-truths, translation-sensitive |
 | [kama](../../terms/major/kama.json) | kāma | sensuality | stable | core-doctrine, mental-qualities, translation-sensitive, context-sensitive |
 | [kamabhava](../../terms/major/kamabhava.json) | kāmabhava | sensual existence | stable | core-doctrine, dependent-origination, context-sensitive, translation-sensitive |
-| [kamacchanda](../../terms/major/kamacchanda.json) | kāmacchanda | sensual distraction | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
+| [kamacchanda](../../terms/major/kamacchanda.json) | kāmacchanda | sensual desire | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
 | [kamma](../../terms/major/kamma.json) | kamma | action | reviewed | core-doctrine, causality, ethics |
 | [kamupadana](../../terms/major/kamupadana.json) | kāmupādāna | taking sensuality personally | stable | core-doctrine, dependent-origination, mental-qualities, translation-sensitive |
 | [karuna](../../terms/major/karuna.json) | karuṇā | kindness towards others | stable | core-practice, mental-qualities, meditative-development |
@@ -176,7 +176,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [magga](../../terms/major/magga.json) | magga | path | reviewed | core-doctrine, core-practice, four-noble-truths |
 | [mana](../../terms/major/mana.json) | māna | conceit | stable | mental-qualities, core-doctrine, self-view, translation-sensitive |
 | [manasikara](../../terms/major/manasikara.json) | manasikāra | attention | stable | core-doctrine, core-practice, mental-qualities |
-| [mannati](../../terms/major/mannati.json) | maññati | takes to be | stable | core-doctrine, core-practice, translation-sensitive, self-view |
+| [mannati](../../terms/major/mannati.json) | maññati | thinks of | stable | core-doctrine, core-practice, translation-sensitive, self-view |
 | [mano-vinnana](../../terms/major/mano-vinnana.json) | manoviññāṇa | mind-knowing | reviewed | sense-fields, core-doctrine |
 | [mano](../../terms/major/mano.json) | mano | thinking mind | reviewed | core-doctrine, sense-fields, context-sensitive, translation-sensitive |
 | [manosancetana-ahara](../../terms/major/manosancetana-ahara.json) | manosañcetanāhāra | mental-intention nutriment | stable | core-doctrine, dependent-origination, translation-sensitive |
@@ -200,7 +200,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [nidana](../../terms/major/nidana.json) | nidāna | link | stable | core-doctrine, dependent-origination |
 | [nirodha](../../terms/major/nirodha.json) | nirodha | quenching | stable | four-noble-truths, core-doctrine, translation-sensitive, liberation |
 | [nissarana](../../terms/major/nissarana.json) | nissaraṇa | escape | stable | core-doctrine, core-practice, translation-sensitive, liberation |
-| [nivarana](../../terms/major/nivarana.json) | nīvaraṇa | distraction | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
+| [nivarana](../../terms/major/nivarana.json) | nīvaraṇa | hindrance | stable | core-practice, meditative-development, mental-qualities, translation-sensitive |
 
 ## O
 
@@ -260,13 +260,13 @@ Generated navigation index for the flat `terms/major/` directory.
 | [sakkaya-ditthi](../../terms/major/sakkaya-ditthi.json) | sakkāya-diṭṭhi | identity view | stable | core-doctrine, liberation, translation-sensitive, self-view |
 | [sakkaya](../../terms/major/sakkaya.json) | sakkāya | identity | stable | aggregates, core-doctrine, self-view, translation-sensitive, context-sensitive |
 | [salayatana](../../terms/major/salayatana.json) | saḷāyatana | six fields of experience | stable | core-doctrine, dependent-origination, context-sensitive |
-| [samadhi](../../terms/major/samadhi.json) | samādhi | composure | stable | core-practice, mental-qualities |
+| [samadhi](../../terms/major/samadhi.json) | samādhi | unification of mind | stable | core-practice, mental-qualities |
 | [samana](../../terms/major/samana.json) | samaṇa | recluse | reviewed | persons, core-practice, translation-sensitive |
 | [samma-ajiva](../../terms/major/samma-ajiva.json) | sammā-ājīva | right livelihood | reviewed | core-practice, core-doctrine |
 | [samma-ditthi](../../terms/major/samma-ditthi.json) | sammā-diṭṭhi | right view | reviewed | core-doctrine, core-practice |
 | [samma-kammanta](../../terms/major/samma-kammanta.json) | sammā-kammanta | right action | reviewed | core-practice, core-doctrine |
 | [samma-nana](../../terms/major/samma-nana.json) | sammā-ñāṇa | right knowledge | reviewed | core-doctrine, core-practice, knowledge-cluster, path-family |
-| [samma-samadhi](../../terms/major/samma-samadhi.json) | sammā-samādhi | right composure | reviewed | core-practice, core-doctrine, meditative-development |
+| [samma-samadhi](../../terms/major/samma-samadhi.json) | sammā-samādhi | right unification of mind | reviewed | core-practice, core-doctrine, meditative-development |
 | [samma-sankappa](../../terms/major/samma-sankappa.json) | sammāsaṅkappa | right attitude | reviewed | core-practice, core-doctrine |
 | [samma-sati](../../terms/major/samma-sati.json) | sammā-sati | right remembering | reviewed | core-practice, core-doctrine, mental-qualities |
 | [samma-vaca](../../terms/major/samma-vaca.json) | sammā-vācā | right speech | reviewed | core-practice, core-doctrine |
@@ -304,7 +304,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [tanha](../../terms/major/tanha.json) | taṇhā | ignorant wanting | stable | four-noble-truths, dependent-origination, core-doctrine, translation-sensitive |
 | [tarati](../../terms/major/tarati.json) | tarati | crosses over | stable | core-doctrine, translation-sensitive, bondage-imagery, liberation |
 | [tathagata](../../terms/major/tathagata.json) | tathāgata | Tathāgata | stable | core-doctrine, persons, translation-sensitive |
-| [thina-middha](../../terms/major/thina-middha.json) | thīna-middha | dull distraction | stable | core-practice, meditative-development, mental-qualities |
+| [thina-middha](../../terms/major/thina-middha.json) | thīna-middha | sloth and torpor | stable | core-practice, meditative-development, mental-qualities |
 | [thina](../../terms/major/thina.json) | thīna | sluggishness | reviewed | core-practice, meditative-development, mental-qualities |
 | [tinna](../../terms/major/tinna.json) | tiṇṇa | crossed over | stable | core-doctrine, translation-sensitive, bondage-imagery, liberation |
 
@@ -312,7 +312,7 @@ Generated navigation index for the flat `terms/major/` directory.
 
 | Stem | Pali | Preferred | Status | Tags |
 | --- | --- | --- | --- | --- |
-| [uddhacca-kukkucca](../../terms/major/uddhacca-kukkucca.json) | uddhacca-kukkucca | agitated distraction | stable | core-practice, meditative-development, mental-qualities |
+| [uddhacca-kukkucca](../../terms/major/uddhacca-kukkucca.json) | uddhacca-kukkucca | restlessness and worry | stable | core-practice, meditative-development, mental-qualities |
 | [uddhacca](../../terms/major/uddhacca.json) | uddhacca | restlessness | stable | core-doctrine, core-practice, mental-qualities |
 | [upadana](../../terms/major/upadana.json) | upādāna | taking personally | stable | core-doctrine, dependent-origination, four-noble-truths, aggregates, translation-sensitive |
 | [upadhi](../../terms/major/upadhi.json) | upadhi | support | reviewed | core-doctrine, liberation, dependent-origination |
@@ -328,7 +328,7 @@ Generated navigation index for the flat `terms/major/` directory.
 | [vedana](../../terms/major/vedana.json) | vedanā | felt experience | stable | core-doctrine, dependent-origination, aggregates, context-sensitive, translation-sensitive |
 | [vibhava-tanha](../../terms/major/vibhava-tanha.json) | vibhavataṇhā | ignorant wanting for non-becoming | reviewed | core-doctrine, four-noble-truths |
 | [vicara](../../terms/major/vicara.json) | vicāra | pondering | stable | core-practice, meditative-development, jhana-factors, context-sensitive |
-| [vicikiccha](../../terms/major/vicikiccha.json) | vicikicchā | uncertain distraction | stable | core-practice, meditative-development, mental-qualities |
+| [vicikiccha](../../terms/major/vicikiccha.json) | vicikicchā | doubt | stable | core-practice, meditative-development, mental-qualities |
 | [vijja](../../terms/major/vijja.json) | vijjā | clear knowledge | stable | core-doctrine, core-practice, translation-sensitive, knowledge-cluster |
 | [vimamsa](../../terms/major/vimamsa.json) | vīmaṃsā | investigation | reviewed | core-practice, mental-qualities |
 | [vimutti](../../terms/major/vimutti.json) | vimutti | release | stable | core-doctrine, core-practice, translation-sensitive, liberation |

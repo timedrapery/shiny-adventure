@@ -10,7 +10,7 @@
 - `tiṇṇo pāraṅgato` is rendered `crossed over, gone to the far shore`,
   preserving completed-crossing language rather than replacing it with an
   abstract word such as "liberated."
-- `sati` is `remembering`; `samāhita` is expressed through `composed`.
+- `sati` is `remembering`; `samāhita` is expressed through `unified`.
 
 ## Translation
 
@@ -85,7 +85,7 @@ Such a person is said to go against the stream.
 
 Someone who has abandoned five stains,
 a fully developed trainee who cannot fall back,
-master of their heart, with their faculties composed,
+master of their heart, with their faculties unified,
 is called a person who stands firm.
 
 Whoever has fully understood things high and low

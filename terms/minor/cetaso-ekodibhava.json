@@ -3,14 +3,14 @@
   "normalized_term": "cetaso-ekodibhava",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "unification of mind",
-  "definition": "A jhana formula expression for the unification of mind characteristic of the second mental theme and beyond.",
-  "notes": "Use this record where the formula names the gathered, unified quality of mind in the jhana sequence. This formula can keep unification-of-mind language even though samadhi itself is governed in this repository as composure. Keep it aligned with ariya samma samadhi as the fourfold jhana sequence.",
+  "preferred_translation": "singleness of mind",
+  "definition": "A jhāna formula expression for the singleness of mind characteristic of the second mental theme and beyond.",
+  "notes": "Use this record where the second-jhāna formula names the gathered, single quality of mind. Because samādhi itself is now governed as unification of mind, this phrase moved from unification of mind to singleness of mind in the 2026 revision, so the formula does not read unification of mind born of unification of mind. Singleness of mind is also the wording Dhammarato reads aloud for this phrase. Keep it aligned with ariya sammā samādhi as the fourfold jhāna sequence, and do not hear singleness as one-pointed focus.",
   "related_terms": [],
   "example_phrases": [
     {
       "pali": "cetaso ekodibhāvaṁ",
-      "translation": "unification of mind",
+      "translation": "singleness of mind",
       "notes": "Second-jhana formula phrase closely tied to samadhi.",
       "source": "DN 2"
     }
@@ -19,15 +19,16 @@
     "DN 2"
   ],
   "translation_policy": {
-    "default_scope": "Use in jhana formula contexts for the mind's gathered unification.",
+    "default_scope": "Use in jhāna formula contexts for the mind's gathered singleness.",
     "when_not_to_apply": "Do not recast as concentration or as an absorptive state label. Retain the Pali only where the technical formula is under direct discussion.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents the phrase from sliding back into concentration language or from being detached from the jhana path sequence."
   },
   "status": "reviewed",
-  "literal_meaning": "unification of mind",
+  "literal_meaning": "singleness of mind",
   "tags": [
     "jhana-factors",
     "meditative-development"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: moved from unification of mind to singleness of mind so it stays distinct from the samādhi headword."
 }

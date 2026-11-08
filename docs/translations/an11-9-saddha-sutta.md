@@ -14,8 +14,8 @@
   the same `jhāna` → `mental theme` root policy; `citta` is rendered `heart`;
   `mano` is rendered `thinking mind`; `saññā` is rendered
   `recognition`; and the five `nīvaraṇa` members follow their governed
-  renderings as `sensual distraction`, `aversive distraction`, `dull
-  distraction`, `agitated distraction`, and `uncertain distraction`.
+  renderings as `sensual desire`, `ill will`, `sloth and
+  torpor`, `restlessness and worry`, and `doubt`.
 - This edition treats AN 11.9 as the repository's control surface for the
   `jhāyati` verb in its dual application: the wild colt's theme-holding
   (obsessive) and the thoroughbred's thinking (formless and unbased).
@@ -46,29 +46,29 @@ trough, it holds a theme: 'Fodder, fodder!'
 
 In the same way, Saddha, a wild person who has gone to the forest,
 to the root of a tree, or to an empty dwelling. They remain with their heart
-overcome and seized by sensual distraction, and they do not truly
-understand the escape from sensual distraction that has arisen. Harboring
-sensual distraction as their theme, they think on it, dwell on it, brood over
+overcome and seized by sensual desire, and they do not truly
+understand the escape from sensual desire that has arisen. Harboring
+sensual desire as their theme, they think on it, dwell on it, brood over
 it, and keep circling back to it.
 
-They remain with their heart overcome by aversive distraction, and they
-do not truly understand the escape from aversive distraction that has arisen.
-Harboring aversive distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by ill will, and they
+do not truly understand the escape from ill will that has arisen.
+Harboring ill will as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome by dull distraction, and they do
-not truly understand the escape from dull distraction that has arisen.
-Harboring dull distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by sloth and torpor, and they do
+not truly understand the escape from sloth and torpor that has arisen.
+Harboring sloth and torpor as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome by agitated distraction, and they
-do not truly understand the escape from agitated distraction that has arisen.
-Harboring agitated distraction as their theme, they think on it, dwell on it,
+They remain with their heart overcome by restlessness and worry, and they
+do not truly understand the escape from restlessness and worry that has arisen.
+Harboring restlessness and worry as their theme, they think on it, dwell on it,
 brood over it, and keep circling back to it.
 
-They remain with their heart overcome and seized by uncertain
-distraction, and they do not truly understand the escape from uncertain
-distraction that has arisen. Harboring uncertain distraction as their theme,
+They remain with their heart overcome and seized by
+doubt, and they do not truly understand the escape from
+doubt that has arisen. Harboring doubt as their theme,
 they think on it, dwell on it, brood over it, and keep circling back to it.
 
 They hold earth as theme, water as theme, fire as theme, and air as theme.
@@ -98,20 +98,20 @@ loss, and a misfortune.
 
 In the same way, Saddha, the fine thoroughbred person who has gone to the
 forest, to the root of a tree, or to an empty dwelling does not remain with
-their heart overcome and seized by sensual distraction, and they truly
-understand the escape from sensual distraction that has arisen.
+their heart overcome and seized by sensual desire, and they truly
+understand the escape from sensual desire that has arisen.
 
-They do not remain with their heart overcome by aversive distraction,
-and they truly understand the escape from aversive distraction that has arisen.
+They do not remain with their heart overcome by ill will,
+and they truly understand the escape from ill will that has arisen.
 
-They do not remain with their heart overcome by dull distraction, and
-they truly understand the escape from dull distraction that has arisen.
+They do not remain with their heart overcome by sloth and torpor, and
+they truly understand the escape from sloth and torpor that has arisen.
 
-They do not remain with their heart overcome by agitated distraction,
-and they truly understand the escape from agitated distraction that has arisen.
+They do not remain with their heart overcome by restlessness and worry,
+and they truly understand the escape from restlessness and worry that has arisen.
 
-They do not remain with their heart overcome and seized by uncertain
-distraction, and they truly understand the escape from uncertain distraction
+They do not remain with their heart overcome and seized by
+doubt, and they truly understand the escape from doubt
 that has arisen.
 
 They do not hold earth as theme, water as theme, fire as theme, or air as

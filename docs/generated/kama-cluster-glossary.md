@@ -3,7 +3,7 @@
 | Pali | Default | Allowed alternates | Discouraged |
 | --- | --- | --- | --- |
 | kāma | sensuality | sensual pleasures, sense pleasures | desire, pleasure, sex, lust |
-| kāmacchanda | sensual distraction | sensual desire | desire, interest, attraction, lust, pleasant feeling |
+| kāmacchanda | sensual desire | sensual distraction | desire, interest, attraction, lust, pleasant feeling |
 | kāmataṇhā | ignorant wanting for sensuality | sensual craving, craving for sensuality | lust, desire for pleasure, sexual desire |
 | kāma-rāga | passion for sensuality | sensual passion | lust, sexual desire, pleasure |
 | kāmupādāna | taking sensuality personally | clinging to sensuality, sensual appropriation, sensual clinging | attachment to pleasure, sexual attachment |

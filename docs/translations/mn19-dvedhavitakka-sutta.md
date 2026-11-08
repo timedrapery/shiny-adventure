@@ -11,7 +11,7 @@
 - House choices that most affect this sutta: `bhikkhu` remains untranslated;
   `vitakka` is rendered `thinking`; `nekkhamma` is rendered `renunciation`;
   `abyāpāda` is rendered `non-ill-will`; `avihiṁsā` is rendered
-  `non-harming`; `samādhi` is rendered `composure`; the `ekaggatā`
+  `non-harming`; `samādhi` is rendered `unification of mind`; the `ekaggatā`
   family is rendered here with `directness`; and `jhāyatha` is rendered
   `think like this`.
 - This is the first stable study edition of the repository's MN 19
@@ -105,9 +105,9 @@ thinking and pondering this all night and day, I saw no danger in that.
 
 Still, if I were to keep thinking and pondering too long, my body would become
 tired. When the body is tired, the heart becomes strained. When the
-heart is strained, it is far from composure. So I stilled the
+heart is strained, it is far from unification of mind. So I stilled the
 heart inwardly, settled it down, made it direct, and brought it into
-composure.
+unification of mind.
 
 Why is that?
 
@@ -143,15 +143,15 @@ In the same way, I only needed to remember: 'These dhammas are here.'
 
 "My energy was aroused and unflagging, remembering was established and did not
 slip, the body was tranquil and undisturbed, and the heart was
-well-composed and direct.
+well-unified and direct.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, I entered
 and remained in the first mental theme, with thinking and pondering, with
 rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
-unification of mind, I entered and remained in the second mental theme, without
-thinking and pondering, with rejoicing and satisfaction born of composure.
+singleness of mind, I entered and remained in the second mental theme, without
+thinking and pondering, with rejoicing and satisfaction born of unification.
 
 With the fading of rejoicing, I remained in dynamic balance, remembering and
 clearly knowing, and I experienced ease in the body. I entered and remained in
@@ -163,7 +163,7 @@ gladness and sadness, I entered and remained in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward recollecting past lives. I recollected many kinds of past lives, with
 their aspects and particulars.
@@ -172,7 +172,7 @@ This was the first knowledge I attained in the first watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the passing away and reappearance of beings. With the
 purified divine eye, surpassing the human, I saw beings passing away and
@@ -183,7 +183,7 @@ This was the second knowledge I attained in the middle watch of the night.
 Ignorance was dispelled, knowledge arose; darkness was dispelled, light arose,
 as happens for someone diligent, ardent, and resolved.
 
-With the heart well-composed, purified, bright, stainless, free
+With the heart well-unified, purified, bright, stainless, free
 from corruption, pliable, workable, steady, and unshakable, I inclined it
 toward the knowledge of the wearing away of the outflows.
 
@@ -237,7 +237,7 @@ the Evil One.
 
 'The bad path' is a term for the wrong eightfold path, that is: wrong view,
 wrong attitude, wrong speech, wrong action, wrong livelihood, wrong effort,
-wrong remembering, and wrong composure.
+wrong remembering, and wrong unification of mind.
 
 'The male decoy' is a term for relishing and passion.
 
@@ -249,7 +249,7 @@ Tathāgata, the arahant, the fully awakened Buddha.
 'The safe and secure path leading to delight' is a term for the noble
 eightfold path, that is: right view, right attitude, right speech, right
 action, right livelihood, right effort, right remembering, and right
-composure.
+unification of mind.
 
 So, bhikkhus, the safe and secure path leading to delight has been opened by
 me; the bad path has been closed off; the male decoy has been removed; the

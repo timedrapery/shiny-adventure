@@ -20,7 +20,7 @@
   fixed phrases `pleasant feeling` and `painful feeling`; `bhāvanā` is
   `development`; `jhāna` is `mental theme`; `sukha` inside the mental themes
   is `satisfaction`; `upekkhā` is `dynamic balance`; `sati` is `remembering`;
-  `samādhi` is `composure`; `āsava` is `outflow`; `padhāna` is `exertion`;
+  `samādhi` is `unification of mind`; `āsava` is `outflow`; `padhāna` is `exertion`;
   `sayaṁ abhiññā sacchikatvā` is `realized for myself with direct knowledge`.
 - The source abbreviates the lists of ascetic practices, the recollection of
   past lives, the passing away and reappearance of beings, and Saccaka's list
@@ -223,7 +223,7 @@ knowledge, and entered and remain in it?'
 "Then I thought: 'It is not only Āḷāra Kālāma who has confidence. I have
 confidence too. It is not only Āḷāra Kālāma who has energy. I have energy
 too. It is not only Āḷāra Kālāma who has remembering. I have remembering too.
-It is not only Āḷāra Kālāma who has composure. I have composure too. It is
+It is not only Āḷāra Kālāma who has unification of mind. I have unification of mind too. It is
 not only Āḷāra Kālāma who has discernment. I have discernment too. What if I
 were to exert myself to realize the teaching that Āḷāra Kālāma declares he
 has realized for himself with direct knowledge, and entered and remains in?'
@@ -285,7 +285,7 @@ neither-recognition-nor-non-recognition.
 "Then I thought: 'It was not only Rāma who had confidence. I have confidence
 too. It was not only Rāma who had energy. I have energy too. It was not only
 Rāma who had remembering. I have remembering too. It was not only Rāma who
-had composure. I have composure too. It was not only Rāma who had
+had unification of mind. I have unification of mind too. It was not only Rāma who had
 discernment. I have discernment too. What if I were to exert myself to
 realize the teaching that Rāma declared he had realized for himself with
 direct knowledge, and entered and remained in?'
@@ -610,9 +610,9 @@ the first mental theme, with thinking and pondering, and with rejoicing and
 satisfaction born of seclusion. But even pleasant feeling like that, once it
 arose, did not take over my heart.
 
-"With thinking and pondering subsiding, with inner clarity and unification of
+"With thinking and pondering subsiding, with inner clarity and singleness of
 mind, I entered and remained in the second mental theme, without thinking and
-pondering, with rejoicing and satisfaction born of composure. But even
+pondering, with rejoicing and satisfaction born of unification. But even
 pleasant feeling like that, once it arose, did not take over my heart.
 
 "With the fading of rejoicing, I remained in dynamic balance, remembering and
@@ -629,7 +629,7 @@ did not take over my heart.
 
 ### The Three Knowledges
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of recollecting past lives. I recollected many kinds of past
 lives, beginning with one birth. In this way I recollected many kinds of
@@ -641,7 +641,7 @@ darkness was dispelled and light arose, as happens for someone who lives
 diligent, ardent, and resolved. But even pleasant feeling like that, once it
 arose, did not take over my heart.
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of the passing away and reappearance of beings. With the divine
 eye, purified and surpassing the human, I saw beings passing away and
@@ -654,7 +654,7 @@ dispelled and light arose, as happens for someone who lives diligent,
 ardent, and resolved. But even pleasant feeling like that, once it arose,
 did not take over my heart.
 
-"With my heart composed like this, purified, bright, stainless, free from
+"With my heart unified like this, purified, bright, stainless, free from
 corruption, pliable, workable, steady, and unshakable, I inclined it toward
 the knowledge of the wearing away of the outflows.
 
@@ -690,8 +690,8 @@ Dhamma just for me.' But it should not be seen like that. The Tathāgata
 teaches others the Dhamma only so that they will understand.
 
 "When that talk is over, I steady my heart inwardly on that same sign of
-composure as before. I settle it, make it direct, and bring it into
-composure. That is how I live all the time."
+unification of mind as before. I settle it, make it direct, and bring it into
+unification of mind. That is how I live all the time."
 
 "That is believable of Master Gotama, as it would be of an arahant, a fully
 awakened Buddha. But does Master Gotama remember sleeping during the day?"

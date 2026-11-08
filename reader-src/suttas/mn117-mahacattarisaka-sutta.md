@@ -7,7 +7,7 @@
 
 *MN 117, the Mahācattārīsaka Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,097 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,115 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -40,19 +40,19 @@ There the Buddha addressed the bhikkhus: "Bhikkhus."
 
 The Buddha said this:
 
-### Noble Right Composure With Its Supports
+### Noble Right Unification of Mind With Its Supports
 
-"Bhikkhus, I will teach you noble right composure with its supports and
+"Bhikkhus, I will teach you noble right unification of mind with its supports and
 its requisites. Listen carefully, attend well, and I will speak."
 
 "Yes, bhante," the bhikkhus replied.
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right composure with its supports and
+"And what, bhikkhus, is noble right unification of mind with its supports and
 requisites? It is this: right view, right attitude, right speech, right
 action, right livelihood, right effort, and right remembering. The directness
-of mind furnished with these seven factors is called noble right composure
+of mind furnished with these seven factors is called noble right unification of mind
 with supports, and also with requisites."
 
 ### Right View
@@ -317,9 +317,9 @@ right view, right effort, and right remembering.
 
 "For one with right effort, right remembering comes forth.
 
-"For one with right remembering, right composure comes forth.
+"For one with right remembering, right unification of mind comes forth.
 
-"For one with right composure, right knowledge comes forth.
+"For one with right unification of mind, right knowledge comes forth.
 
 "For one with right knowledge, right release comes forth.
 
@@ -344,7 +344,7 @@ worn away.
 development.
 
 "The same pattern applies to right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right composure, right
+livelihood, right effort, right remembering, right unification of mind, right
 knowledge, and right release: the corresponding wrong factor is worn away, the
 many bad and unwholesome qualities that arise because of that wrong factor are
 worn away, and through the right factor many wholesome qualities come to
@@ -385,8 +385,8 @@ brahmins of wrong effort.
 "If they criticize right remembering, then they honor and praise samaṇas and
 brahmins of wrong remembering.
 
-"If they criticize right composure, then they honor and praise samaṇas
-and brahmins of wrong composure.
+"If they criticize right unification of mind, then they honor and praise samaṇas
+and brahmins of wrong unification of mind.
 
 "If they criticize right knowledge, then they honor and praise samaṇas and
 brahmins of wrong knowledge.
@@ -411,7 +411,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (24)</summary>
+<summary>Words used in this translation (25)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -423,12 +423,12 @@ Buddha had said.
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>brahmin</dfn></dt>
 <dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>dhamma</dfn></dt>
 <dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
 <dt><dfn>discernment of qualities</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -439,8 +439,6 @@ Buddha had said.
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
-<dt><dfn>right composure</dfn></dt>
-<dd>The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -449,10 +447,14 @@ Buddha had said.
 <dd>This project&#x27;s rendering of the path factor usually translated &quot;right mindfulness&quot; -- keeping what actually matters in view, moment to moment, rather than losing track of it.</dd>
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
+<dt><dfn>right unification of mind</dfn></dt>
+<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>trainee</dfn></dt>
 <dd>Someone who has entered the noble path and is still completing the training; not a beginner.</dd>
+<dt><dfn>unification of mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
 <dt><dfn>wholesome</dfn></dt>
@@ -465,12 +467,11 @@ Buddha had said.
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn117/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn117-mahacattarisaka-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `e5d69b18`
+- **Last editorial review:** 2026-11-08 · body version `2c7bd951`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20117) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -492,21 +493,22 @@ Buddha had said.
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
 *[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
-*[right composure]: The path factor in which composure is supported and directed by the rest of the noble path. The thinking mind and heart are collected into a workable accord, not forced into a trance.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
+*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
+*[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

@@ -52,11 +52,11 @@ choices, source-audit calls, and edition notes that govern it.
   person's response pattern: `The relishing of felt experience — that is taking
   personally`. This rendering captures the self-referential grip — taking the
   felt experience as mine, as belonging to me.
-- `nīvaraṇa` is rendered `distraction` (house default). The five are named
-  individually: coveting (`abhijjhā`), aversive distraction and malevolence
+- `nīvaraṇa` is rendered `hindrance` (house default). The five are named
+  individually: coveting (`abhijjhā`), ill will and malevolence
   (`byāpādapadosa`), dullness and drowsiness (`thinamiddha`), restlessness
-  and remorse (`uddhaccakukkucca`), uncertain distraction (`vicikicchā`). The
-  summary formula: "Having abandoned these five distractions — corruptions of
+  and remorse (`uddhaccakukkucca`), doubt (`vicikicchā`). The
+  summary formula: "Having abandoned these five hindrances — corruptions of
   the heart that weaken discernment."
 - `nandī` is rendered `relishing` (major lexicon entry). The key pivot in
   the ordinary-course section: "From this, relishing arises. The relishing of
@@ -111,11 +111,11 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `taṇhā` → `ignorant wanting` (major)
 - `āhāra` → `nutriment` (major)
 - `upādāna` → `taking personally` (major)
-- `nīvaraṇa` → `distraction` (major)
+- `nīvaraṇa` → `hindrance` (major)
 - `nandī` → `relishing` (major)
 - `abhijjhā` → `coveting` (minor)
-- `byāpāda` → `aversive distraction` (major)
-- `vicikicchā` → `uncertain distraction` (major)
+- `byāpāda` → `ill will` (major)
+- `vicikicchā` → `doubt` (major)
 - `cetovimutti` → `release of mind` (major)
 - `paññāvimutti` → `release through discernment` (major)
 - `gandhabba` → `gandhabba` (minor, untranslated)
@@ -131,7 +131,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `sukha` → `satisfaction` (major)
 - `sati` → `remembering` (major)
 - `sampajañña` → `clear knowing` (major)
-- `samādhi` → `composure` (major)
+- `samādhi` → `unification of mind` (major)
 - `jhāna` → `mental theme` (major)
 - `paññā` → `discernment` (major)
 - `āsava` → `outflow` (major)
@@ -144,7 +144,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - `thinamiddha` (dullness and drowsiness) and `uddhaccakukkucca` (restlessness
   and remorse) have no standalone lexicon entries. They are rendered with the
   established conventional English equivalents used throughout the repository's
-  other surfaces. Future revisions should create minor entries if the distraction
+  other surfaces. Future revisions should create minor entries if the hindrance
   cluster develops a full governed record.
 - Resolved: `moghapurisa` is no longer a local rendering. It now has a minor
   entry, [`terms/minor/moghapurisa.json`](../../terms/minor/moghapurisa.json),
@@ -178,7 +178,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
   in full in the translation, following the established formulas used in MN 39
   and DN 2. The first mental theme: with placing the mind, keeping it there,
   rejoicing and satisfaction born of seclusion. Second: rejoicing and
-  satisfaction born of composure. Third: the equanimous satisfaction
+  satisfaction born of unification. Third: the equanimous satisfaction
   with the body. Fourth: neither satisfaction nor distress, with purity of
   equanimity and remembering.
 - The five senses of the ordinary person (mn38:30.7-10) and trained
@@ -219,7 +219,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
   Four Nutriments`, `The Arising Chain`, `The Cessation Chain`, `Known and Seen
   for Yourselves`, `How a Being Is Conceived`, `The Ordinary Course`, `The
   Arising of the Tathāgata`, `Going Forth and the Training`, `Sense Restraint
-  and Clear Knowing`, `Abandoning the Distractions and Entering the Mental
+  and Clear Knowing`, `Abandoning the Hindrances and Entering the Mental
   Themes`, and `Freedom Through the Ending of Craving`.
 - The arising-chain and cessation-chain Q&A sections (mn38:18 and mn38:21)
   are expanded in full — all eleven links confirmed individually. The Bilara
@@ -233,12 +233,28 @@ All governing terms for MN 38 are covered by existing lexicon records:
   epistemological ladder — from uncertainty to doubt-free clear seeing — is
   pedagogically central and is not abbreviated.
 
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
+
 ## Edition Status
 
 - This companion supports the first stable study edition of the repo's
   MN 38 translation surface.
 - Future revisions should focus on `thinamiddha` and `uddhaccakukkucca` if
-  those terms gain lexicon entries within the distraction cluster; on
+  those terms gain lexicon entries within the hindrance cluster; on
   `manosañcetanā` if a `cetanā` (volition) major entry is added; and on the
   `imasmiṁ sati` / `imasmiṁ asati` formulas if a formula record is created
   for the fundamental conditional-arising expression.

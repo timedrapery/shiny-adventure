@@ -3,17 +3,18 @@
   "normalized_term": "appanihita-cetosamadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "wishless composure of mind",
+  "preferred_translation": "wishless unification of mind",
   "alternative_translations": [
-    "desireless composure of mind"
+    "desireless unification of mind"
   ],
-  "definition": "Composure of mind governed by the wishless side of the emptiness / signless / wishless family.",
+  "definition": "Unification of mind governed by the wishless side of the emptiness / signless / wishless family.",
   "notes": "Keep this compound tied to appaṇihita as wishless rather than flattening it into relaxed passivity or generic calm.",
   "status": "reviewed",
-  "literal_meaning": "wishless composure of mind",
+  "literal_meaning": "wishless unification of mind",
   "tags": [
     "liberation",
     "meditative-development",
     "emptiness-interface"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword."
 }

@@ -9,14 +9,15 @@
     "right energy",
     "appropriate effort",
     "harmonious exercise",
-    "right changing"
+    "right changing",
+    "right noble effort"
   ],
   "discouraged_translations": [
     "right striving"
   ],
   "untranslated_preferred": false,
   "definition": "The path factor of directed effort that prevents and abandons the unwholesome while developing and sustaining the wholesome.",
-  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor. Ven. Dr. M. Punnaji uses harmonious exercise in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering. The OSF publication What Is And Is Not The Path gives this factor unusual prominence by treating it as the active engine that abandons the unwholesome, establishes the wholesome, and supports remembering and samadhi. In OSF practice explanation, right effort must also stay tightly linked to right view and right remembering: it is the active changing factor that keeps the path moving, not a separate willpower-module disconnected from seeing and remembering.",
+  "notes": "The project prefers right effort because it is clear and familiar, while right energy remains available in prose that wants to highlight vitality rather than strain. Right striving is discouraged because it can sound forced or ascetic in a way that distorts the factor. Ven. Dr. M. Punnaji uses harmonious exercise in his eightfold-way teaching materials; the repository records that as a source-specific pedagogical alternate. The Dhammarato quotes draft functions as an OSF house-style authority and is recorded here where it uses a stable path-factor heading idiom even when the repository does not adopt that heading as the default standalone rendering. The OSF publication What Is And Is Not The Path gives this factor unusual prominence by treating it as the active engine that abandons the unwholesome, establishes the wholesome, and supports remembering and samadhi. In OSF practice explanation, right effort must also stay tightly linked to right view and right remembering: it is the active changing factor that keeps the path moving, not a separate willpower-module disconnected from seeing and remembering. Dhammarato's talks use right noble effort as a heading form, and right effort is by far his most common label for the factor.",
   "context_rules": [
     {
       "context": "In most path-factor and training contexts",
@@ -52,6 +53,11 @@
       "context": "In OSF practice explanation where right view, right remembering, and right effort are described as mutually reinforcing path functions",
       "rendering": "right effort",
       "notes": "Keep the default and allow notes to explain that this factor is the active changing side of the recurring path cycle."
+    },
+    {
+      "context": "In Dhammarato heading style for the noble path factor",
+      "rendering": "right noble effort",
+      "notes": "Use for source-backed headings; keep right effort in running translation."
     }
   ],
   "related_terms": [
@@ -109,6 +115,12 @@
       "priority": "external",
       "kind": "rationale",
       "scope": "Named in notes as support for the current sammā-vāyāma policy."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "context-rule",
+      "scope": "Supports right effort as the running label and right noble effort as heading style."
     }
   ],
   "translation_policy": {

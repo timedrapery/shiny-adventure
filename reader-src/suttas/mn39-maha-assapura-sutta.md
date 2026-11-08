@@ -7,7 +7,7 @@
 
 *MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,353 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,356 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -16,10 +16,10 @@
 "You are called renunciants — so train in what actually makes someone one."
 From there the text works steadily upward: conscience and shame, purified
 conduct, sense restraint, moderation in eating and in sleep, then seclusion,
-the clearing of the five distractions, the four mental themes, and the three
+the clearing of the five hindrances, the four mental themes, and the three
 knowledges.
 
-The five similes for being rid of the distractions are what people remember:
+The five similes for being rid of the hindrances are what people remember:
 a debt paid off, an illness recovered from, release from prison, freedom from
 slavery, and a desert crossed safely with your goods intact. Each one is
 relief rather than achievement.
@@ -209,7 +209,7 @@ forest, the open air, a heap of straw.
 After returning from the alms-round following the meal, they sit down, cross
 their legs, set their body upright, and establish remembering before them.
 
-### Abandoning the Five Distractions
+### Abandoning the Five Hindrances
 
 Giving up covetousness for the world, they remain with a heart free of
 covetousness, and purify the heart of covetousness.
@@ -218,18 +218,18 @@ Giving up ill will and malice, they remain with a heart free of ill
 will, full of compassion toward all living beings, and purify the heart
 of ill will.
 
-Giving up dull distraction, they remain with the heart free of dull
-distraction, with awareness of light, with remembering and clear knowing, and
-purify the heart of dull distraction.
+Giving up sloth and torpor, they remain with the heart free of sloth and
+torpor, with awareness of light, with remembering and clear knowing, and
+purify the heart of sloth and torpor.
 
-Giving up agitated distraction, they remain without agitation, the heart
-inwardly stilled, and purify the heart of agitated distraction.
+Giving up restlessness and worry, they remain without agitation, the heart
+inwardly stilled, and purify the heart of restlessness and worry.
 
-Giving up uncertain distraction, they have crossed over uncertainty. They do
+Giving up doubt, they have crossed over uncertainty. They do
 not waver over skillful qualities, and they purify the heart of
-uncertain distraction.
+doubt.
 
-### Five Similes for the Distractions
+### Five Similes for the Hindrances
 
 Bhikkhus, suppose a man were to take out a loan and apply himself to work, and
 his work were to succeed. He would pay off his original debts and have enough
@@ -280,17 +280,17 @@ property.'
 
 From that they would gain gladness and arrive at joy.
 
-In the same way, bhikkhus, as long as a bhikkhu sees these five distractions
+In the same way, bhikkhus, as long as a bhikkhu sees these five hindrances
 as not given up within themselves, they regard them as a debt, an illness, a
 prison, slavery, and a desert road.
 
-But when a bhikkhu sees these five distractions as given up within themselves,
+But when a bhikkhu sees these five hindrances as given up within themselves,
 they regard this as freedom from debt, good health, release from prison,
 freedom, and safe ground.
 
 ### The Four Mental Themes
 
-Giving up these five distractions — corruptions of the heart that
+Giving up these five hindrances — corruptions of the heart that
 weaken discernment — secluded from sensual pleasures, secluded from
 unskillful qualities, they enter and remain in the first mental theme: with
 thinking and pondering, with rejoicing and satisfaction born of seclusion.
@@ -309,13 +309,13 @@ this very body with rejoicing and satisfaction born of seclusion, so that no par
 of the whole body goes undrenched with rejoicing and satisfaction born of seclusion.
 
 Furthermore, bhikkhus, with the stilling of thinking and pondering, with
-internal clarity, the heart unified, without thinking and pondering, a
+internal clarity, the heart single, without thinking and pondering, a
 bhikkhu enters and remains in the second mental theme: with rejoicing and
-satisfaction born of composure.
+satisfaction born of unification.
 
 They drench, saturate, fill, and spread this very body with rejoicing and
-satisfaction born of composure, so that no part of the whole body goes
-undrenched with rejoicing and satisfaction born of composure.
+satisfaction born of unification, so that no part of the whole body goes
+undrenched with rejoicing and satisfaction born of unification.
 
 Bhikkhus, suppose there were a lake with spring water welling up inside it,
 with no inlet from the east, west, north, or south, and the sky giving no
@@ -324,9 +324,9 @@ that lake and drench, saturate, fill, and spread throughout the lake, so that
 no part of the whole lake went undrenched with cool water.
 
 In the same way, bhikkhus, a bhikkhu drenches, saturates, fills, and spreads
-this very body with rejoicing and satisfaction born of composure, so that no
+this very body with rejoicing and satisfaction born of unification, so that no
 part of the whole body goes undrenched with rejoicing and satisfaction born of
-composure.
+unification.
 
 Furthermore, bhikkhus, with the fading of rejoicing, a bhikkhu remains in
 dynamic balance, with remembering and clear knowing, and experiences with the
@@ -471,10 +471,8 @@ Buddha's words.
 The Greater Discourse at Assapura is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (41)</summary>
+<summary>Words used in this translation (43)</summary>
 <dl>
-<dt><dfn>agitated distraction</dfn></dt>
-<dd>Being pulled off track by restlessness and nagging regret.</dd>
 <dt><dfn>becoming</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
 <dt><dfn>Bhante</dfn></dt>
@@ -497,8 +495,6 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
-<dt><dfn>composure</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>conduct</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>conscience</dfn></dt>
@@ -509,16 +505,16 @@ The Greater Discourse at Assapura is finished.
 <dd>Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
-<dt><dfn>dull distraction</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy.</dd>
+<dt><dfn>doubt</dfn></dt>
+<dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
-<dt><dfn>five distractions</dfn></dt>
-<dd>The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated &quot;the five hindrances.&quot;</dd>
+<dt><dfn>five hindrances</dfn></dt>
+<dd>The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
@@ -527,6 +523,8 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
+<dt><dfn>ill will</dfn></dt>
+<dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
@@ -545,26 +543,31 @@ The Greater Discourse at Assapura is finished.
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dt><dfn>restlessness and worry</dfn></dt>
+<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
+<dt><dfn>sensual desire</dfn></dt>
+<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
 <dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
+<dt><dfn>sloth and torpor</dfn></dt>
+<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
-<dt><dfn>uncertain distraction</dfn></dt>
-<dd>Being pulled off track by doubt and indecision about the practice.</dd>
+<dt><dfn>unification</dfn></dt>
+<dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>world</dfn></dt>
 <dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
 </dl>
 </details>
 
 <details class="reader-source-status" markdown="1">
-<summary>Source and status</summary>
+<summary>Source and corrections</summary>
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn39/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn39-maha-assapura-sutta-notes.md)
-- **Status:** Provisional. Provisional means automated checks have passed, but the required human newcomer review is not yet complete.
-- **Last editorial review:** 2026-08-23 · body version `2d7ef349`
+- **Last editorial review:** 2026-11-08 · body version `4bea34c6`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2039) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -575,12 +578,11 @@ The Greater Discourse at Assapura is finished.
 
 - [← Ten Recognitions for a Sick Monk](an10-60-giriminanda-sutta.md)
 - [All suttas](index.md)
-- [What Feeds and Starves Distraction →](sn46-51-ahara-sutta.md)
+- [What Feeds and Starves the Hindrances →](sn46-51-ahara-sutta.md)
 
 </nav>
 
 
-*[agitated distraction]: Being pulled off track by restlessness and nagging regret.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
@@ -592,21 +594,21 @@ The Greater Discourse at Assapura is finished.
 *[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
-*[composure]: This project's rendering of "samādhi" -- the thinking mind and heart collected together and working in accord rather than pulling against each other. It is a settled, coherent, workable condition fit for practice. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[conscience]: This project's rendering of "hiri" -- the inward ethical sense that recoils from an action because it would violate one's integrity. It does not mean guilt or toxic shame.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[dull distraction]: Being pulled off track by sluggishness, heaviness, and sinking energy.
+*[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[five distractions]: The five things that reliably pull the mind off task: sensual distraction, aversive distraction, dull distraction, agitated distraction, and uncertain distraction. Usually translated "the five hindrances."
+*[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[going forth]: Leaving household life to live as a monastic.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
+*[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
@@ -615,7 +617,10 @@ The Greater Discourse at Assapura is finished.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
+*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
 *[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
+*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
-*[uncertain distraction]: Being pulled off track by doubt and indecision about the practice.
+*[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

@@ -104,12 +104,12 @@ def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
         "asava": "outflow",
         "anusaya": "underlying tendency",
         "samyojana": "fetter",
-        "nivarana": "distraction",
+        "nivarana": "hindrance",
         "kilesa": "defilement",
         "upakkilesa": "corruption",
         "pahana": "abandoning",
         "vossagga": "relinquishment",
-        "panca-nivarana": "five distractions",
+        "panca-nivarana": "five hindrances",
     }
     for stem, expected_rendering in expected.items():
         data = terms.get(stem)
@@ -176,7 +176,7 @@ def render_contrast_sheet(terms: dict[str, dict[str, object]]) -> str:
         "## Keep Distinct",
         "",
         "- `kilesa` is the broad defilement-family; it is not the only label for every narrower bondage term.",
-        "- `nīvaraṇa` is active distraction in practice, not a latent residue by default.",
+        "- `nīvaraṇa` is an active hindrance in practice, not a latent residue by default.",
         "- `anusaya` is latent persistence lying underneath, not merely a surface obstruction.",
         "- `saṃyojana` is binding fetter-language tied to continued becoming and awakening-stage analysis.",
         "- `āsava` is deep outflow-language and should stay stable in liberation formulas such as `āsavānaṃ khayā`.",

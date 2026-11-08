@@ -153,15 +153,15 @@ recognized earth as earth, ...` is not normal English.
 
 Prefer:
 
-> He recognizes earth as earth. Then he takes himself to be earth.
+> He recognizes earth as earth. Then he thinks of himself as earth.
 
 or:
 
-> Once he has recognized earth as earth, he takes himself to be earth.
+> Once he has recognized earth as earth, he thinks of himself as earth.
 
 Avoid:
 
-> Having recognized earth as earth, one takes oneself to be earth.
+> Having recognized earth as earth, one thinks of oneself as earth.
 
 ### 3. Use `the Buddha`, not `the Blessed One`
 
@@ -262,7 +262,7 @@ Pāli knowledge, or a separate glossary visit; keep the full words-used panel
 for readers who want more detail.
 
 Prioritize words such as `bhikkhu`, `arahant`, `nibbāna`, `Dhamma`, `Saṅgha`,
-`heart`, `thinking mind`, `remembering`, and `composure` whenever they are
+`heart`, `thinking mind`, `remembering`, and `unification of mind` whenever they are
 necessary to understand the page.
 
 ## Words To Be Suspicious Of

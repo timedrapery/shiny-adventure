@@ -71,9 +71,9 @@ REVIEWED_TERMS = {
     },
     "samadhi": {
         "classification": "ALIGN",
-        "expected_default": "composure",
-        "osf_usage": "Dhammarato and OSF materials strongly reject concentration and support a practical composure or collectedness handling.",
-        "governance": "Use composure as the default rendering. Do not let this drift into concentration language.",
+        "expected_default": "unification of mind",
+        "osf_usage": "Dhammarato and OSF materials strongly reject concentration; Dhammarato's talks consistently teach samādhi as unification of mind, with composure kept as a continuity alternate.",
+        "governance": "Use unification of mind as the default rendering. Do not let this drift into concentration or one-pointed-focus language.",
     },
     "citta": {
         "classification": "TOLERATE ALTERNATE",

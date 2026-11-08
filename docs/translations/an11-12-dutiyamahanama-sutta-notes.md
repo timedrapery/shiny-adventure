@@ -22,16 +22,16 @@ This document records the source and editorial decisions for
   makes the practical task immediately visible without using `mindfulness`.
 - **`citta` is `heart`.** Here the term names the affective or feeling mind:
   it may be taken over by passion, aversion, or confusion; pointed straight;
-  and brought into composure. `Heart` keeps this distinct from `mano`, the
+  and brought into unification of mind. `Heart` keeps this distinct from `mano`, the
   thinking mind, which does not occur in this discourse.
-- **`samādhi` is `composure`.** The closing sequence describes the affective
+- **`samādhi` is `unification of mind`.** The closing sequence describes the affective
   and cognitive life coming together rather than fighting. The translation
-  therefore says that the heart `becomes composed`, not concentrated.
+  therefore says that the heart `becomes unified`, not concentrated.
 - **The positive sequence keeps four governed states distinct.** `Pāmojja` is
   an `actively happy state` (with `active gladness` used once as a lighter
   back-reference), `pīti` is `rejoicing`, `passaddhi` is `relaxation`, and
   `sukha` is `satisfaction`. This lets a newcomer follow the movement from
-  deliberate gladdening through bodily relaxation into composure.
+  deliberate gladdening through bodily relaxation into unification of mind.
 - **`ujugata citta` is a heart `pointed straight`.** This is more concrete in
   English than `upright mind` and fits the passage's repeated statement that
   each recollection gives the heart a wholesome direction.
@@ -52,7 +52,7 @@ repository's established recollection language.
 
 The Pali's shared result—freedom from takeover, straightening of the heart,
 inspiration, active gladness, rejoicing, relaxation, satisfaction, and
-composure—would occur after each recollection in the expanded text. Repeating
+unification of mind—would occur after each recollection in the expanded text. Repeating
 that paragraph six times would obscure the practical pattern for a new
 reader, so the edition lists all six recollections first and states their
 shared result once. No new stage or result has been added.
@@ -73,6 +73,17 @@ source's abbreviation.
   and an abbreviated Saṅgha formula, but not the compound `ariyapuggala`.
   Its direct citation is removed from that term record rather than using the
   discourse as a misleading translation priority.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Readability Review
 

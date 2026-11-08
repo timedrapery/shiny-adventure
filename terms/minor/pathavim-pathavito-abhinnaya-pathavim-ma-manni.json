@@ -3,9 +3,9 @@
   "normalized_term": "pathavim-pathavito-abhinnaya-pathavim-ma-manni",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "once they have directly known earth as earth, they should not take themselves to be earth",
+  "preferred_translation": "once they have directly known earth as earth, they should not think of themselves as earth",
   "alternative_translations": [
-    "once they have directly known earth as earth, they are not to take themselves to be earth"
+    "once they have directly known earth as earth, they are not to think of themselves as earth"
   ],
   "discouraged_translations": [
     "having understood earth, one should not think earth"
@@ -20,7 +20,7 @@
   "example_phrases": [
     {
       "pali": "paṭhaviṃ paṭhavito abhiññāya paṭhaviṃ mā maññi",
-      "translation": "having directly known earth as earth, one should not take oneself to be earth",
+      "translation": "having directly known earth as earth, one should not think of oneself as earth",
       "notes": "Control line for the prohibitive trainee-side pattern.",
       "source": "MN 1"
     }

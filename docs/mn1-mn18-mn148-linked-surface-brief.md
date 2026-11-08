@@ -42,7 +42,7 @@ replacement for those sources.
 - `papanca` -> `proliferation`
 - `vinnana` -> `knowing`
 - `tanha` -> `ignorant wanting`
-- `mannati` -> `takes to be`
+- `mannati` -> `thinks of`
 - `upadana` -> `taking personally`
 - `sakkaya` -> `identity`
 

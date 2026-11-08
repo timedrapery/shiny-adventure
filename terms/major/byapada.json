@@ -4,31 +4,31 @@
   "entry_type": "major",
   "part_of_speech": "noun",
   "literal_meaning": "ill will, malevolence",
-  "preferred_translation": "aversive distraction",
+  "preferred_translation": "ill will",
   "alternative_translations": [
-    "ill will"
+    "aversive distraction"
   ],
   "discouraged_translations": [
     "anger"
   ],
   "untranslated_preferred": false,
-  "definition": "Distraction through aversion, hostility, or ill will toward what is resisted.",
-  "notes": "The project prefers aversive distraction within the nīvaraṇa framework so the relation to distraction remains explicit. Ill will remains a clear alternate when explanatory prose wants the more familiar ethical label. The term should be heard as aversion functioning specifically as a disturbance of practice and composure. The OSF glossary confirms aversive distraction as the house default inside the five-distractions framework and preserves ill will as the explanatory alternate.",
+  "definition": "A hindrance of aversion, hostility, or ill will toward what is resisted.",
+  "notes": "The project uses ill will as the default for this hindrance because that is how Dhammarato names it throughout the 2014–2026 talk transcripts (about 1,000 uses of ill will, against no uses of aversive distraction); ill will also matches abyāpāda (non-ill-will) and the ill-will compounds. It names aversion functioning as a hindrance to practice and to unification of mind. Aversive distraction, the earlier house default built on the OSF glossary's distraction family, remains the alternate where continuity with earlier OSF material matters. The family label is now hindrance (nīvaraṇa), and the five members are named the way Dhammarato names them.",
   "context_rules": [
     {
-      "context": "In the five-distractions framework",
-      "rendering": "aversive distraction",
-      "notes": "Use this by default."
-    },
-    {
-      "context": "In explanatory prose emphasizing hostility toward others or situations",
+      "context": "In the five-hindrances framework",
       "rendering": "ill will",
-      "notes": "Use this as a controlled alternate when the aversive tone needs a more familiar phrase."
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     },
     {
-      "context": "When the passage emphasizes aversion as a distraction to be abandoned in meditation",
+      "context": "In continuity with earlier OSF material that uses the distraction-family names",
       "rendering": "aversive distraction",
-      "notes": "Keep the family relation to the other nīvaraṇa terms explicit."
+      "notes": "Use as the alternate that keeps the earlier OSF distraction-family naming, where continuity with earlier OSF material matters."
+    },
+    {
+      "context": "When the passage emphasizes aversion as a hindrance to be abandoned in meditation",
+      "rendering": "ill will",
+      "notes": "Use this as the default, following Dhammarato's teaching usage."
     }
   ],
   "related_terms": [
@@ -43,13 +43,13 @@
   "example_phrases": [
     {
       "pali": "byāpādanīvaraṇa",
-      "translation": "the aversive distraction",
+      "translation": "the ill will",
       "notes": "Shows the standard fivefold-list member.",
       "source": "DN 2"
     },
     {
       "pali": "abyāpajjhaṃ cittaṃ",
-      "translation": "a mind free from aversive distraction",
+      "translation": "a mind free from ill will",
       "notes": "Shows the practical counter-movement.",
       "source": "MN 39"
     }
@@ -68,14 +68,21 @@
     {
       "source": "OSF glossary",
       "priority": "osf-house",
-      "kind": "gloss",
-      "scope": "Supports keeping aversive distraction as the house default inside the five-hindrances framework, with ill will retained as the explanatory alternate."
+      "kind": "rationale",
+      "scope": "Supported aversive distraction as the earlier house default inside the five-distractions framework; it is kept as the alternate after the 2026 revision."
+    },
+    {
+      "source": "Dhammarato talk transcripts (2014–2026)",
+      "priority": "dhammarato",
+      "kind": "preferred-translation",
+      "scope": "Supports ill will as the default name for this hindrance (about 1,000 uses of ill will; no uses of aversive distraction)."
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'aversive distraction' as the default rendering in the entry's governed translation contexts unless a recorded context rule overrides it.",
+    "default_scope": "Use 'ill will' as the default rendering in the entry's governed hindrance and practice contexts unless a recorded context rule overrides it.",
     "when_not_to_apply": "Yield to recorded context_rules, source-facing technical use, or other explicitly documented local reasons rather than rotating among alternates ad hoc.",
     "compound_inheritance": "case-by-case",
     "drift_risk": "Prevents drift back toward 'anger' or other unrecorded alternates."
-  }
+  },
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: ill will replaces aversive distraction as the default, which stays as the alternate."
 }

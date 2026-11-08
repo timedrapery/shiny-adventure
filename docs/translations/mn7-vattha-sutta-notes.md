@@ -34,7 +34,7 @@ calls, and edition notes that govern it.
 ## Corruption List
 
 - `byapada` is rendered `ill will` in this list. The major-entry default
-  `aversive distraction` is retained for the five-distractions framework, but
+  `ill will` is retained for the five-hindrances framework, but
   this context is an ethical corruption list rather than a nivarana list.
 - `kodha`, `upanaha`, `makkha`, `mada`, and `pamada` follow their reviewed
   supporting records: `anger`, `resentment`, `contempt`, `arrogant
@@ -65,7 +65,7 @@ calls, and edition notes that govern it.
 - `atthaveda`, `dhammaveda`, and `dhammupasamhita pamojja` are rendered `a
   sense of the meaning`, `a sense of the Dhamma`, and `gladness connected with
   the Dhamma`, following the established MN 99 style.
-- `piti` is rendered `delight` in the gladness-to-composure sequence, matching
+- `piti` is rendered `delight` in the gladness-to-unification sequence, matching
   the current translation voice for positive meditative affect.
 - `sabbattataya` is rendered `to all as to oneself`, preserving the universal
   scope without turning the phrase into a separate doctrine.
@@ -85,6 +85,14 @@ calls, and edition notes that govern it.
   every list member.
 - Verse lines are broken for readability, but the meaning is kept direct and
   source-facing.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- The participle `samāhita` and the verb `samādahati` follow it: `unified`
+  and `unifying` in place of `composed` and `composing`.
 
 ## Edition Status
 

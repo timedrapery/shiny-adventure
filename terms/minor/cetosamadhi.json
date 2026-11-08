@@ -3,11 +3,12 @@
   "normalized_term": "cetosamadhi",
   "entry_type": "minor",
   "part_of_speech": "noun",
-  "preferred_translation": "composure of mind",
+  "preferred_translation": "unification of mind",
   "definition": "A supporting doctrinal, meditative, or analytical term used across Buddhist teaching.",
   "status": "reviewed",
-  "literal_meaning": "composure of mind",
+  "literal_meaning": "unification of mind",
   "tags": [
     "meditative-development"
-  ]
+  ],
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword; the of-mind already carries ceto-."
 }

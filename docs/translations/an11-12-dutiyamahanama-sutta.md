@@ -10,7 +10,7 @@
   edition restores those familiar formulas from the parallel discourse AN
   11.11, then states their repeated result once in plain English.
 - `citta` is rendered `heart`, meaning the affective or feeling mind;
-  `samādhi` is `composure`; and `sati` and its compounds keep their active
+  `samādhi` is `unification of mind`; and `sati` and its compounds keep their active
   sense of remembering.
 - `pāmojja`, `pīti`, `passaddhi`, and `sukha` remain distinct: an `actively
   happy state`, `rejoicing`, `relaxation`, and `satisfaction`.
@@ -48,7 +48,7 @@ People who have aroused their energy succeed; lazy people do not.
 
 People who keep remembering succeed; forgetful people do not.
 
-People who are composed succeed; uncomposed people do not.
+People who are unified succeed; ununified people do not.
 
 People with discernment succeed; people without discernment do not.
 
@@ -76,7 +76,7 @@ Remember the Saṅgha:
 > reverential greeting—the unsurpassed field of merit for the world.
 
 Remember your own conduct: conduct that is unbroken, intact, spotless, and
-freeing; praised by the wise, not clung to, and leading to composure.
+freeing; praised by the wise, not clung to, and leading to unification of mind.
 
 Remember your own generosity:
 
@@ -102,7 +102,7 @@ the Dhamma. An actively happy state connected with the Dhamma arises.
 
 From that active gladness comes rejoicing. With a rejoicing heart, the body
 relaxes. A relaxed body feels satisfaction. With satisfaction, the heart
-becomes composed.
+becomes unified.
 
 ### Practice Anywhere
 

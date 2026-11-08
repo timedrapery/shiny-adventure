@@ -223,10 +223,10 @@ with the durable
 and the [newcomer review workboard](reviews/README.md).
 
 The two run in parallel. A translation is published once its automated and
-editorial gates pass, and is marked `provisional` until recorded reader
-evidence raises it to `validated`. Reader recruitment never blocks drafting,
-and no reader evidence is ever inferred or backfilled to make it look
-finished.
+editorial gates pass. Human read-aloud and newcomer reviews are optional
+records kept when they happen; they do not block drafting or publishing, the
+reader does not show a status label, and no reader evidence is ever inferred or
+backfilled.
 
 Planning notes live in the [Wave 11 execution plan](docs/wave-11-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
 

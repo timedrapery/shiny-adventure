@@ -58,7 +58,7 @@ maturing in relinquishment.
 They develop right remembering supported by seclusion, fading, and quenching,
 maturing in relinquishment.
 
-They develop right composure supported by seclusion, fading, and quenching,
+They develop right unification of mind supported by seclusion, fading, and quenching,
 maturing in relinquishment.
 
 That is how a bhikkhu with good friends, companions, and fellows develops the

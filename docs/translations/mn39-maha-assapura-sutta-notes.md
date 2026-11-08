@@ -14,7 +14,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   `piti`, `upekkha`, `asava`, `citta`, `vedana`, `panna`, and `samadhi`.
 - Working method: the discourse was governed as the next strategic surface
   per `docs/next-sutta-translation-roadmap.md`, extending the jhāna
-  progression and distraction-clearing surfaces from DN 2 and SN 46.51 into
+  progression and hindrance-clearing surfaces from DN 2 and SN 46.51 into
   a full ascending-practice arc with the five similes and three higher
   knowledges.
 
@@ -30,9 +30,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   at the faculty doors) is rendered `guarded at the faculty doors`, with the
   individual faculty restraint instructions using `eye-faculty`, `ear-faculty`,
   and so on.
-- The five `nīvaraṇa` members follow their governed distraction-family
-  renderings: `sensual distraction`, `aversive distraction`, `dull
-  distraction`, `agitated distraction`, and `uncertain distraction`. In the
+- The five `nīvaraṇa` members follow their governed
+  renderings: `sensual desire`, `ill will`, `sloth and
+  torpor`, `restlessness and worry`, and `doubt`. In the
   hindrance-clearing sequence (section 13), the abandonment formula names
   each individually rather than using collective `nīvaraṇa` language; this
   keeps the clearing action concrete.
@@ -41,7 +41,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - `pīti` is rendered `rejoicing` (major, updated house default). In the jhāna
   formulas: `vivekajaṁ pītisukhena` is rendered `rejoicing and satisfaction
   born of seclusion`; `samādhijaṁ pītisukhena` is rendered `rejoicing and
-  satisfaction born of composure`; `nippītikena sukhena` is rendered
+  satisfaction born of unification`; `nippītikena sukhena` is rendered
   `satisfaction free of rejoicing`. `Sukha` is rendered `satisfaction`
   following the preferred house default; the earlier rendering `happiness` was
   the discouraged form and has been corrected throughout this surface.
@@ -64,7 +64,7 @@ sufficient lexicon coverage:
 
 - `hirī-ottappa` → `conscience and concern` (minor, reviewed)
 - `indriya` → `faculty` (major)
-- `nīvaraṇa` members → governed distraction-family renderings (major)
+- `nīvaraṇa` members → governed member renderings (major)
 - `sati` → `remembering` (major)
 - `sampajañña` → `clear knowing` (major)
 - `jhāna` → `mental theme` (major, reviewed)
@@ -73,7 +73,7 @@ sufficient lexicon coverage:
 - `āsava` → `outflow` (major)
 - `citta` → `heart` (major)
 - `paññā` → `discernment` (major)
-- `samādhi` → `composure` (major)
+- `samādhi` → `unification of mind` (major)
 - `vedanā` → `felt experience` (major) — in the eating section
 
 ## Re-audit Calls
@@ -138,7 +138,7 @@ sufficient lexicon coverage:
 
 - The main translation is divided into seven sections: `The Setting`, `What
   Makes a True Recluse`, `Settling Into Seclusion`, `Abandoning the Five
-  Distractions`, `Five Similes for the Distractions`, `The Four Mental
+  Hindrances`, `Five Similes for the Hindrances`, `The Four Mental
   Themes`, `Three Higher Knowledges`, and `Seven Titles Explained`.
 - The "still more to do" refrain (`'mā vo sāmaññatthikānaṁ sataṁ sāmaññattho
   parihāyi, sati uttariṁ karaṇīye'`) is rendered consistently as: `I declare
@@ -150,6 +150,22 @@ sufficient lexicon coverage:
 - Repetition is preserved throughout: body-permeation formulas, simile
   structure, three-higher-knowledge opener, and seven-title closing are all
   written out in full.
+
+## Wording Revision: 2026-11-08
+
+- By explicit editorial decision, this translation follows Dhammarato's
+  teaching usage, recorded in the
+  [talk transcripts profile](../dhammarato-talk-transcripts-profile.md).
+- `samādhi` and its compounds now use `unification of mind`, or the compact
+  `unification` inside compounds (for example `right unification of mind`,
+  `born of unification`), in place of `composure`.
+- `cetaso ekodibhāva` and related `ekodi` wording now use `singleness` or
+  `single`, so it stays distinct from `unification`.
+- `nīvaraṇa` and the collective `five hindrances` now use `hindrance` in
+  place of `distraction`.
+- The five named members now use Dhammarato's names: `sensual desire`,
+  `ill will`, `sloth and torpor`, `restlessness and worry`, and `doubt`, in
+  place of the earlier distraction-family names.
 
 ## Edition Status
 
