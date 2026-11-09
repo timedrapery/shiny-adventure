@@ -104,7 +104,7 @@ priority.
    written out in the source. Names and defines the five strengths and
    anchors the orphan major `bala`. The faith definition is the Tathāgata's
    epithets (DN 2), and the strengths follow SN 48.10's faculties.
-3. **Dhp 273–289, the Maggavagga** — 209 Pali words in seventeen verses, one
+3. **Dhp 273–289, the Maggavagga** — **complete 2026-11-09**. 209 Pali words in seventeen verses, one
    upstream file (`dhp273-289`). The Path chapter: the eightfold path as best
    of paths, verses 277 to 279 on impermanence, unsatisfactoriness, and
    not-self, and the call to make the effort yourself. Verse handling is
@@ -187,8 +187,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **Dhp 273–289**; AN 3.136 and AN 5.14 are
-published. Keep each translation packet together
+unfinished queue item is **AN 6.19**; AN 3.136, AN 5.14, and Dhp 273–289
+are published. Keep each translation packet together
 on one branch, and record completed work, open questions, and the next action
 in the surface notes or this plan.
 

@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Dhp 273-289, the Maggavagga
+  (The Path), with notes, a reader introduction, and a reader page in stage
+  2 after Dhp 21-32: the repository's second Dhammapada chapter. Seventeen
+  verses on the path, including "you yourselves must make the effort;
+  Tathāgatas only tell the way" and verses 277 to 279, which keep AN 3.136's
+  formula wording. Wave 12 item 3. Follows the Dhp 21-32 framing unchanged.
 - Added a governed plain-English translation of AN 5.14, Vitthata Sutta (The
   Five Strengths), with notes, a reader introduction, and a reader page in
   stage 5 after SN 48.10. Names and defines the five strengths in the words
@@ -386,7 +392,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 72 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 73 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
