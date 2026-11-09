@@ -15,12 +15,20 @@
   "untranslated_preferred": false,
   "definition": "A protective discourse or chant recited for blessing, safeguarding, and reassurance.",
   "sutta_references": [
-    "Sn 1.8",
-    "Khp 6"
+    "AN 4.67"
   ],
   "tags": [
     "core-practice",
     "translation-sensitive"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "Katā me rakkhā katā me parittā",
+      "translation": "I have made my safeguard, I have made my protection",
+      "notes": "AN 4.67's verse of protection, said after spreading friendliness to the four royal families of snakes.",
+      "source": "AN 4.67"
+    }
+  ],
+  "notes": "Citations corrected in the 2026-11-09 Wave 13 audit: the record cited Sn 1.8 (Karaṇīyamettā) and Khp 6 (Ratana), which are recited as protection texts but contain no form of `paritta`. AN 4.67 uses the word itself."
 }

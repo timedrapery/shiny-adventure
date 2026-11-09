@@ -3,13 +3,13 @@
   "normalized_term": "sunnata-samadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "unification that comes forth from emptiness",
+  "preferred_translation": "emptiness unification",
   "alternative_translations": [
-    "unification that comes forth from voidness",
-    "emptiness unification"
+    "unification that comes forth from emptiness",
+    "unification that comes forth from voidness"
   ],
   "definition": "Unification governed by, or coming forth from, the emptiness side of the emptiness / signless / wishless family.",
-  "notes": "Keep this compound tied to suññatā as emptiness rather than treating it as interchangeable with signless or wishless compounds. This repository now prefers a fuller English rendering here so the compound does not read like a frozen technical label detached from practice. The compound inherits the headword's anti-nihilist and anti-mystifying policy, and voidness remains a controlled alternate when the Buddhadasa-line idiom itself is doing explanatory work.",
+  "notes": "Keep this compound tied to suññatā as emptiness rather than treating it as interchangeable with signless or wishless compounds. This repository now prefers a fuller English rendering here so the compound does not read like a frozen technical label detached from practice. The compound inherits the headword's anti-nihilist and anti-mystifying policy, and voidness remains a controlled alternate when the Buddhadasa-line idiom itself is doing explanatory work. Aligned in the 2026-11-09 Wave 13 audit with the samādhi ruling (`unification of mind`, compact `unification` in compounds) so that the three unification records read as one family: `emptiness unification`, `signless unification`, `wishless unification`. The cetosamādhi records keep the full `unification of mind`.",
   "related_terms": [
     "sunnata"
   ],
@@ -28,7 +28,7 @@
   "example_phrases": [
     {
       "pali": "Suññato samādhi, animitto samādhi, appaṇihito samādhi",
-      "translation": "unification that comes forth from emptiness, signless samadhi, wishless samadhi",
+      "translation": "emptiness unification, signless unification, wishless unification",
       "notes": "SN 43.4 names the three together as the path to the unconditioned; DN 33 lists them among the threes. Cited in the 2026-11-09 Wave 12 emptiness-cluster citation pass.",
       "source": "SN 43.4"
     }

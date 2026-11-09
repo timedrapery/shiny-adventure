@@ -62,7 +62,7 @@ class QueueItem:
     published: bool = False
 
 
-# Wave 12, as committed in docs/wave-12-execution-plan.md. Keep the two in step.
+# Wave 13, as committed in docs/wave-13-execution-plan.md. Keep the two in step.
 # Earlier waves' completed items stay listed: the table is the corpus's queue
 # history, and dropping finished rows would hide what each wave actually cost.
 QUEUE: tuple[QueueItem, ...] = (
@@ -136,21 +136,38 @@ QUEUE: tuple[QueueItem, ...] = (
         "published 2026-11-09; the gradual entry into emptiness, with the emptiness-cluster citation pass",
         published=True,
     ),
+    QueueItem(
+        "1", "Dhp 179-196", "Buddhavagga", 210, "—",
+        "the Buddha chapter, with verses 183 to 185; anchors `khanti`",
+    ),
+    QueueItem(
+        "2", "Snp 1.8", "Karaṇīyamettā", 134, "—",
+        "friendliness for all beings; the first Sutta Nipāta surface",
+    ),
+    QueueItem(
+        "3", "AN 8.41", "Saṅkhittūposatha", 337, "—",
+        "the eight factors of the observance day; anchors `uposatha`",
+    ),
+    QueueItem(
+        "4", "AN 8.54", "Dīghajāṇu", 626, "—",
+        "welfare here and now and in the future, for a householder; anchors `pāpamitta`",
+    ),
+    QueueItem(
+        "5", "AN 1.49-52", "Pabhassara", 69, "—",
+        "the luminous mind, in four one-sentence discourses; anchors `pabhassara-citta`",
+    ),
 )
 
 METHOD_NOTES: tuple[str, ...] = (
-    "Every Wave 12 signal was checked against the root text before the item "
-    "was given a position. The audit found and repaired five false citations "
-    "among the orphan records it was ranking, and repointed `bala` from SN "
-    "50.1 to AN 5.14.",
-    "The orphan-major ranking is nearly spent. Its remaining leaders are "
-    "enumeration stubs, single verses, the SN 50.1 repetition series, and DN "
-    "1, DN 21, DN 33, and DN 16, which stay deferred on length. This queue is "
-    "therefore ranked on verified anchors plus reader value.",
-    "MN 77's kasiṇa orphans are still a formula sheet, not a translation; "
-    "its light-kasiṇa citation was false and is removed.",
-    "The emptiness / signless / wishless cluster is still mostly uncited "
-    "rather than orphaned. Give it verified sources before MN 121.",
+    "Every Wave 13 signal was checked against the root text before the item "
+    "was given a position, including every orphan record's headword against "
+    "the texts it cites. That found `paritta` citing two protection texts "
+    "that never use the word; it now cites AN 4.67.",
+    "The orphan-major ranking is still spent for short prose, so this queue "
+    "is ranked on reader value plus a verified anchor.",
+    "The three unification records now read as one family: emptiness, "
+    "signless, and wishless unification.",
+    "MN 113, AN 8.51, and MN 123 are verified anchors held for the next wave.",
 )
 
 
@@ -206,7 +223,7 @@ def render_table(report: dict[str, int]) -> str:
     )
     lines += [
         "",
-        "Use the [Wave 12 execution plan](../wave-12-execution-plan.md) for the",
+        "Use the [Wave 13 execution plan](../wave-13-execution-plan.md) for the",
         "active queue, validation, and handoff gates, and the",
         "[full roadmap](../next-suttas-roadmap.md) for historical method notes.",
         "",

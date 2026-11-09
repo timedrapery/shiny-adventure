@@ -76,7 +76,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [anicca-sanna](../../terms/minor/anicca-sanna.json) | anicca-sanna | recognition of impermanence | reviewed | meditative-development, liberation, three-marks |
 | [aniccanupassana](../../terms/minor/aniccanupassana.json) | aniccānupassanā | contemplation of impermanence | reviewed | core-practice, meditative-development, three-marks |
 | [animitta-cetosamadhi](../../terms/minor/animitta-cetosamadhi.json) | animitta-cetosamadhi | signless unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [animitta-samadhi](../../terms/minor/animitta-samadhi.json) | animitta-samadhi | signless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
+| [animitta-samadhi](../../terms/minor/animitta-samadhi.json) | animitta-samadhi | signless unification | reviewed | liberation, meditative-development, emptiness-interface |
 | [animitta-vimokkha](../../terms/minor/animitta-vimokkha.json) | animitta-vimokkha | signless release | reviewed | liberation, meditative-development, emptiness-interface |
 | [anissita](../../terms/minor/anissita.json) | anissita | not depending | reviewed | liberation |
 | [annamanya-paccaya](../../terms/minor/annamanya-paccaya.json) | annamanya-paccaya | mutuality condition | reviewed | causality |
@@ -104,7 +104,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [appamana](../../terms/minor/appamana.json) | appamana | measureless state | reviewed | core-practice |
 | [appana-samadhi](../../terms/minor/appana-samadhi.json) | appana-samadhi | absorption samadhi | reviewed | meditative-development |
 | [appanihita-cetosamadhi](../../terms/minor/appanihita-cetosamadhi.json) | appanihita-cetosamadhi | wishless unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [appanihita-samadhi](../../terms/minor/appanihita-samadhi.json) | appanihita-samadhi | wishless samadhi | reviewed | liberation, meditative-development, emptiness-interface |
+| [appanihita-samadhi](../../terms/minor/appanihita-samadhi.json) | appanihita-samadhi | wishless unification | reviewed | liberation, meditative-development, emptiness-interface |
 | [appanihita-vimokkha](../../terms/minor/appanihita-vimokkha.json) | appanihita-vimokkha | wishless release | reviewed | liberation, meditative-development, emptiness-interface |
 | [appicchata](../../terms/minor/appicchata.json) | appicchatā | fewness of wishes | reviewed | core-practice |
 | [apunnabhisankhara](../../terms/minor/apunnabhisankhara.json) | apuññābhisaṅkhāra | harm-producing constructing | reviewed | core-doctrine, dependent-origination, causality |
@@ -851,7 +851,7 @@ Generated navigation index for the flat `terms/minor/` directory.
 | [sukha-vedana](../../terms/minor/sukha-vedana.json) | sukhavedanā | pleasant feeling | reviewed | aggregates |
 | [sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati](../../terms/minor/sukhaya-vedanaya-phuttho-samano-abhinandati-abhivadati-ajjhosaya-titthati.json) | sukhāya vedanāya phuṭṭho samāno abhinandati abhivadati ajjhosāya tiṭṭhati | when pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally | reviewed | core-practice, translation-sensitive, sense-fields |
 | [sunnata-cetosamadhi](../../terms/minor/sunnata-cetosamadhi.json) | sunnata-cetosamadhi | emptiness unification of mind | reviewed | liberation, meditative-development, emptiness-interface |
-| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | unification that comes forth from emptiness | reviewed | liberation, meditative-development, emptiness-interface |
+| [sunnata-samadhi](../../terms/minor/sunnata-samadhi.json) | sunnata-samadhi | emptiness unification | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunnata-vimokkha](../../terms/minor/sunnata-vimokkha.json) | sunnata-vimokkha | emptiness release | reviewed | liberation, meditative-development, emptiness-interface |
 | [sunyata](../../terms/minor/sunyata.json) | śūnyatā | śūnyatā | reviewed | core-doctrine, translation-sensitive |
 | [surameraya-majjapamadatthana-veramani](../../terms/minor/surameraya-majjapamadatthana-veramani.json) | surameraya-majjapamadatthana-veramani | abstaining from intoxicants | reviewed | ethics |
