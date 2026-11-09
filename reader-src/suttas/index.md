@@ -1,6 +1,6 @@
 # All Suttas
 
-All 68 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 69 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -47,6 +47,7 @@ All 68 translations, grouped by collection. If you would rather be guided, use [
 - [**How the World Arises—and Ends**](sn12-44-loka-sutta.md) — SN 12.44 · Loka Sutta · about 2 min · 345 words · Set 4. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
 - [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 730 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
 - [**Putting Down the Burden**](sn22-22-bhara-sutta.md) — SN 22.22 · Bhāra Sutta · about 2 min · 301 words · Set 4. The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down.
+- [**What the Heaps Offer, and the Way Out**](sn22-26-assada-sutta.md) — SN 22.26 · Assāda Sutta · about 4 min · 559 words · Set 4. Before his awakening, the Buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out.
 - [**The Five Heaps**](sn22-48-khandha-sutta.md) — SN 22.48 · Khandha Sutta · about 3 min · 363 words · Set 4. What the five heaps actually are, stated directly.
 - [**What Is Fit to Call Self?**](sn22-59-anattalakkhana-sutta.md) — SN 22.59 · Anattalakkhaṇa Sutta · about 6 min · 1,016 words · Set 4. The second sermon.
 - [**Can You Pin Down the Tathāgata?**](sn22-86-anuradha-sutta.md) — SN 22.86 · Anurādha Sutta · about 7 min · 1,214 words · Set 4. Anurādha tries to place the Tathāgata outside four claims about what happens after death.

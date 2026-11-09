@@ -295,6 +295,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/sn22-22-bhara-sutta-notes.md",
     ),
     TranslationSurface(
+        key="sn22_26",
+        label="SN 22.26",
+        main_relpath="docs/translations/sn22-26-assada-sutta.md",
+        notes_relpath="docs/translations/sn22-26-assada-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="sn22_89",
         label="SN 22.89",
         main_relpath="docs/translations/sn22-89-khemaka-sutta.md",
@@ -501,6 +507,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
     "sn22_48": "b5ac6f591e4b8d397e205f8cae8b75629c974c4e9e0d84a7b9b3d1b808a5b49f",
     "sn22_22": "114c637b7fd1c8c5718d104b8f5f9549a8a40426473dd3c11aad0ecc54529e64",
+    "sn22_26": "ac14ba830a1faf02eddf5b50f4a1ea9a777dd9e5d67d857733135806dbcf0fe7",
     "dhp21_32": "49f334a4480939df786153a07bdb084f5a2143934d772516c66baba38fe807c4",
     "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
     "sn22_86": "87b39d295adc90ee1681ca017149892e5c98b5096d04ff0367ef5c72cc93bd09",
@@ -531,6 +538,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "sn22_26": "2026-11-09",
     "dhp21_32": "2026-11-09",
     "sn22_22": "2026-11-08",
     # Body re-touched for the samādhi / nīvaraṇa ruling (composure -> unification
@@ -1004,80 +1012,86 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "fading as putting it down. The second and third truths in one image.",
         reader_title="Putting Down the Burden",
     ),
+    "sn22_26": ReaderMeta(
+        "Assāda Sutta", 4, 5,
+        "Before his awakening, the Buddha asks three questions of each of the "
+        "five heaps: what it offers, what is wrong with it, and the way out.",
+        reader_title="What the Heaps Offer, and the Way Out",
+    ),
     "sn22_86": ReaderMeta(
-        "Anurādha Sutta", 4, 5,
+        "Anurādha Sutta", 4, 6,
         "Anurādha tries to place the Tathāgata outside four claims about what "
         "happens after death. The Buddha asks whether the Tathāgata can be "
         "pinned down through the five heaps even here and now.",
         reader_title="Can You Pin Down the Tathāgata?",
     ),
     "sn22_89": ReaderMeta(
-        "Khemaka Sutta", 4, 6,
+        "Khemaka Sutta", 4, 7,
         "A subtler point: even someone who has genuinely seen not-self can "
         "still carry a faint, hard-to-locate sense of \"I am.\"",
         reader_title="The Lingering Sense of 'I Am'",
     ),
     "mn131": ReaderMeta(
-        "Bhaddekaratta Sutta", 4, 7,
+        "Bhaddekaratta Sutta", 4, 8,
         "Do not chase the past or long for the future — but do not mistake "
         "that for a slogan about living in the moment. The explanation asks "
         "whether you are turning any part of present experience into self.",
         reader_title="Don't Chase the Past or Long for the Future",
     ),
     "mn148": ReaderMeta(
-        "Chachakka Sutta", 4, 8,
+        "Chachakka Sutta", 4, 9,
         "A systematic, almost mechanical working-through of not-self across "
         "every sense door. Dense, but by this point the pattern should be "
         "familiar.",
         reader_title="Not-Self at the Six Sense Doors",
     ),
     "sn12_15": ReaderMeta(
-        "Kaccānagotta Sutta", 4, 9,
+        "Kaccānagotta Sutta", 4, 10,
         "One page, defining right view as the middle between \"it exists\" and "
         "\"it doesn't.\" The clearest, shortest bridge into dependent arising.",
         reader_title="Between 'It Exists' and 'It Doesn't'",
     ),
     "iti49": ReaderMeta(
-        "Diṭṭhigata Sutta", 4, 10,
+        "Diṭṭhigata Sutta", 4, 11,
         "Two views can take over: clinging to continued becoming, or treating "
         "annihilation as peace. The alternative is to see what has come to be "
         "without turning it into something permanent.",
         reader_title="Taken Over by Views",
     ),
     "sn12_44": ReaderMeta(
-        "Loka Sutta", 4, 11,
+        "Loka Sutta", 4, 12,
         "How the lived world develops through the six senses into wanting, "
         "taking experience personally, and dissatisfaction—and how that "
         "process ends without the senses having to disappear.",
         reader_title="How the World Arises—and Ends",
     ),
     "sn12_61": ReaderMeta(
-        "Assutavā Sutta", 4, 12,
+        "Assutavā Sutta", 4, 13,
         "An argument that runs the opposite way from what you expect: if you "
         "must identify with something, the body is the safer choice, because "
         "its changing is visible and the mind's is not.",
         reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
-        "Upanisa Sutta", 4, 13,
+        "Upanisa Sutta", 4, 14,
         "The positive chain, dissatisfaction leading step by step to freedom, "
         "mirroring the well-known negative chain.",
         reader_title="From Dissatisfaction to Freedom",
     ),
     "sn12_11": ReaderMeta(
-        "Āhāra Sutta", 4, 14,
+        "Āhāra Sutta", 4, 15,
         "Four things that keep a life going, traced back to wanting and then "
         "all the way back along the chain. Not to be confused with SN 46.51, "
         "which shares its name.",
         reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
-        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 15,
+        "Paṭiccasamuppāda-vibhaṅga Sutta", 4, 16,
         "The standard formula of dependent arising, defined term by term.",
         reader_title="Dependent Arising, Term by Term",
     ),
     "sn12_20": ReaderMeta(
-        "Paccaya Sutta", 4, 16,
+        "Paccaya Sutta", 4, 17,
         "Dependent arising stated as a pattern that holds whether or not "
         "anyone discovers it, kept carefully apart from the changing things "
         "the pattern runs through—and why someone who sees this stops "
@@ -1085,20 +1099,20 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Discovered, Not Invented",
     ),
     "mn38": ReaderMeta(
-        "Mahātaṇhāsaṅkhaya Sutta", 4, 17,
+        "Mahātaṇhāsaṅkhaya Sutta", 4, 18,
         "A monk's wrong view — that the same consciousness travels on "
         "unchanged — gets corrected, and dependent arising gets restated in "
         "narrative, argued form rather than as a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
-        "Mahānidāna Sutta", 4, 18,
+        "Mahānidāna Sutta", 4, 19,
         "The deepest and longest exposition of dependent arising in the set. "
         "The capstone of this stage, not an entry point to it.",
         reader_title="Dependent Arising in Depth",
     ),
     "mn9": ReaderMeta(
-        "Sammādiṭṭhi Sutta", 4, 19,
+        "Sammādiṭṭhi Sutta", 4, 20,
         "Right view examined through more than a dozen different doctrinal "
         "lenses in one text. Reads best as a review once the pieces it is "
         "reviewing are already familiar.",
@@ -1236,7 +1250,8 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
         "an3_88", "ud8_3", "dhp21_32",
     ),
     "Not-self": (
-        "sn22_59", "mn22", "sn22_48", "sn22_22", "sn22_86", "sn22_89",
+        "sn22_59", "mn22", "sn22_48", "sn22_22", "sn22_26", "sn22_86",
+        "sn22_89",
         "mn131", "mn148", "mn1", "iti44", "iti49",
     ),
     "Dependent arising": (
@@ -1262,7 +1277,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",
-        "sn12_20", "sn22_48", "sn45_8", "sn12_44", "an6_63", "dn15",
+        "sn12_20", "sn22_48", "sn22_26", "sn45_8", "sn12_44", "an6_63", "dn15",
     ),
     "Teaching with verse": (
         "mn131", "iti44", "iti49", "an11_9", "an8_6", "an4_5", "sn22_22",

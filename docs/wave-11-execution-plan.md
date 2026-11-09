@@ -139,7 +139,8 @@ priority.
    its fading. Note before drafting
    that `puggalo tissa vacanīyaṁ` is a long-standing interpretive crux and the
    translation must not settle it; the notes are where that belongs.
-4. **SN 22.26, Assāda Sutta** — 223 Pali words, one peyyāla. Anchors the
+4. **SN 22.26, Assāda Sutta** — **complete 2026-11-09**. 223 Pali words, one
+   peyyāla. Anchors the
    `imesaṁ pañcannaṁ upādānakkhandhānaṁ … assādañca … ādīnavañca …
    nissaraṇañca` formula with an exact quotation. A first-person account of
    the Buddha's pre-awakening investigation, and a natural companion to SN
@@ -234,8 +235,9 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **SN 22.26**. Dhp 21–32, Ud 8.3, and SN 22.22 are
-published, and the verse precondition is settled in the Dhp 21–32 notes.
+unfinished queue item is **MN 122**, the long one. Dhp 21–32, Ud 8.3, SN 22.22,
+and SN 22.26 are published, and the verse precondition is settled in the
+Dhp 21–32 notes.
 Create a `codex/` or contributor branch and keep the entire
 translation packet together. Before stopping, record completed work, open
 questions, exact validation results, and the next action in the surface notes

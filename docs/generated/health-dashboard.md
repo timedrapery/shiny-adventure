@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2231 |
-| Governed surfaces | 862 |
-| Ungoverned surfaces | 1369 |
-| Coverage by surface | 38.6% |
-| Coverage by occurrence | 59.7% |
+| Distinct surfaces | 2240 |
+| Governed surfaces | 863 |
+| Ungoverned surfaces | 1377 |
+| Coverage by surface | 38.5% |
+| Coverage by occurrence | 59.6% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -34,12 +34,12 @@ single row as a lead rather than a fact.
 
 | Route | Surfaces |
 | --- | --- |
-| `compound` | 67 |
+| `compound` | 68 |
 | `exact` | 396 |
 | `inflected` | 399 |
-| `none` | 1369 |
+| `none` | 1377 |
 
-### Ungoverned surfaces by frequency (1369 total)
+### Ungoverned surfaces by frequency (1377 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ single row as a lead rather than a fact.
 | `paticca` | 19 | mn148-chachakka-sutta-notes.md, mn18-madhupindika-sutta-notes.md, terms/ |
 | `cetaso` | 17 | dn2-samannaphala-sutta-notes.md, mn119-kayagatasati-sutta-notes.md, mn141-saccavibhanga-sutta-notes.md, mn19-dvedhavitakka-sutta-notes.md, mn26-pasarasi-sutta-notes.md |
 | `mama` | 13 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn12-61-assutava-sutta-notes.md, sn22-59-anattalakkhana-sutta-notes.md |
-| `yathabhutam` | 12 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, terms/ |
+| `yathabhutam` | 13 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, sn22-26-assada-sutta-notes.md |
 | `pahaya` | 10 | an8-39-abhisanda-sutta-notes.md, terms/ |
 | `panca` | 10 | an4-5-anusota-sutta-notes.md, an8-39-abhisanda-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
