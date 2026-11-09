@@ -578,7 +578,7 @@ The Greater Discourse at Assapura is finished.
 
 - [← Recollecting Death, One Breath at a Time](an6-19-maranassati-sutta.md)
 - [All suttas](index.md)
-- [What Feeds and Starves the Hindrances →](sn46-51-ahara-sutta.md)
+- [The Good Person and the Bad Person →](mn113-sappurisa-sutta.md)
 
 </nav>
 

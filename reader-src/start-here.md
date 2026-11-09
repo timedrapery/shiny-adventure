@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 79 translations in this collection, for someone new to this material.
+A suggested order for reading the 80 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -81,6 +81,7 @@ Practical method. This is where the material stops being about ideas and starts 
 - [**Ten Recognitions for a Sick Monk**](suttas/an10-60-giriminanda-sutta.md) (AN 10.60, Girimānanda Sutta) — about 9 min · 1,467 words. Ten recognitions taught to a sick monk. Practical and, unusually for this stage, comforting.
 - [**Recollecting Death, One Breath at a Time**](suttas/an6-19-maranassati-sutta.md) (AN 6.19, Maraṇassati Sutta) — about 5 min · 779 words. Six monks say how they recollect death, each with less time than the last. The Buddha sorts the heedless from the heedful.
 - [**What Makes a Genuine Renunciant?**](suttas/mn39-maha-assapura-sutta.md) (MN 39, Mahā-Assapura Sutta) — about 19 min · 3,356 words. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.
+- [**The Good Person and the Bad Person**](suttas/mn113-sappurisa-sutta.md) (MN 113, Sappurisa Sutta) — about 21 min · 3,700 words. Twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them.
 - [**What Feeds and Starves the Hindrances**](suttas/sn46-51-ahara-sutta.md) (SN 46.51, Āhāra Sutta) — about 9 min · 1,522 words. What feeds the hindrances that block practice, and what starves them. A closing, practical text for this stage.
 - [**Conduct Is Where Practice Grows**](suttas/sn46-1-himavanta-sutta.md) (SN 46.1, Himavanta Sutta) — about 2 min · 307 words. Nāgas grow big enough for the ocean by first growing on a mountain. Conduct is put in the mountain's place: it is what the seven awakening factors get large on.
 

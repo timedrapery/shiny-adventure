@@ -286,7 +286,7 @@ The first discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← What Makes a Genuine Renunciant?](mn39-maha-assapura-sutta.md)
+- [← The Good Person and the Bad Person](mn113-sappurisa-sutta.md)
 - [All suttas](index.md)
 - [Conduct Is Where Practice Grows →](sn46-1-himavanta-sutta.md)
 

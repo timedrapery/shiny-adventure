@@ -1,6 +1,6 @@
 # All Suttas
 
-All 79 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 80 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -28,6 +28,7 @@ All 79 translations, grouped by collection. If you would rather be guided, use [
 - [**The Man Struck by a Poisoned Arrow**](mn63-culamalukya-sutta.md) — MN 63 · Cūḷamālukya Sutta · about 10 min · 1,729 words · Set 1. Why the teaching refuses to answer certain metaphysical questions.
 - [**The Five Lower Fetters**](mn64-mahamalukya-sutta.md) — MN 64 · Mahāmālukya Sutta · about 14 min · 2,405 words · Set 5. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
 - [**Household Life or Renunciant Life?**](mn99-subha-sutta.md) — MN 99 · Subha Sutta · about 22 min · 3,857 words · Set 5. A dialogue defending renunciant life against a brahmin's claim that household life is better.
+- [**The Good Person and the Bad Person**](mn113-sappurisa-sutta.md) — MN 113 · Sappurisa Sutta · about 21 min · 3,700 words · Set 3. Twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them.
 - [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · about 12 min · 2,115 words · Set 5. A technical analysis of the eightfold path, factor by factor.
 - [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · about 12 min · 2,010 words · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
 - [**Remembering Directed to the Body**](mn119-kayagatasati-sutta.md) — MN 119 · Kāyagatāsati Sutta · about 12 min · 2,083 words · Set 3. A long practice sequence directing remembering to breathing, movement, the body's contents and fate, deep unification of mind, resilience, and ten claimed results.

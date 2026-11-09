@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 79 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 80 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -325,6 +325,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,356 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="practical" data-form="teaching" data-length="long" data-search="the good person and the bad person mn 113 sappurisa sutta twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them. ethics and conduct">
+<h2><a href="../suttas/mn113-sappurisa-sutta/">The Good Person and the Bad Person</a></h2>
+<p class="sutta-card__reference">MN 113 · <span lang="pi">Sappurisa Sutta</span></p>
+<p class="sutta-card__meta">Practical · Teaching · Long · about 21 min · 3,700 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
+<p>Twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="what feeds and starves the hindrances sn 46.51 āhāra sutta what feeds the hindrances that block practice, and what starves them. a closing, practical text for this stage. meditation">
 <h2><a href="../suttas/sn46-51-ahara-sutta/">What Feeds and Starves the Hindrances</a></h2>
