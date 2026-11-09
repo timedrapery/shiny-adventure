@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 75 translations in this collection, for someone new to this material.
+A suggested order for reading the 76 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -58,6 +58,7 @@ The core claim and the practical response to it, kept concrete.
 - [**Think Like a Thoroughbred**](suttas/an11-9-saddha-sutta.md) (AN 11.9, Saddha Sutta) — about 7 min · 1,252 words. A wild colt tied to its trough can think of nothing but "Fodder, fodder!" The contrast with a trained horse becomes a contrast between two ways of sitting down to meditate.
 - [**Heedfulness Is the Path to the Deathless**](suttas/dhp21-32-appamadavagga.md) (Dhp 21-32, Appamādavagga) — about 2 min · 303 words. Twelve verses on one quality: heedfulness, the path to the deathless. Short, memorable, and the first verse page in the set.
 - [**The Path**](suttas/dhp273-289-maggavagga.md) (Dhp 273-289, Maggavagga) — about 3 min · 462 words. Seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way.
+- [**The Teaching of the Buddhas**](suttas/dhp179-196-buddhavagga.md) (Dhp 179-196, Buddhavagga) — about 3 min · 459 words. Eighteen verses on the Buddha, including the four-line summary of the whole teaching and what a real refuge is.
 
 ## Set 3 — Learning to Look at Your Own Mind
 

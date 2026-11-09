@@ -8,6 +8,11 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Dhp 179-196, the Buddhavagga
+  (The Teaching of the Buddhas), with notes, a reader introduction, and a
+  reader page in stage 2 after Dhp 273-289: the repository's third
+  Dhammapada chapter, with verses 183 to 185 and the refuge verses 188 to
+  192. Wave 13 item 1. Anchors `khanti`.
 - Added a governed plain-English translation of MN 121, Cūḷasuññata Sutta
   (Emptiness, Step by Step), with notes, a reader introduction, and a reader
   page in stage 3 after MN 122. Emptiness entered gradually: at each step the
@@ -413,7 +418,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 75 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 76 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
