@@ -112,6 +112,11 @@ Current MN 99 surfaces:
 - [mn99-subha-sutta.md](mn99-subha-sutta.md): main shareable translation text
 - [mn99-subha-sutta-notes.md](mn99-subha-sutta-notes.md): companion translator notes and rationale
 
+Current MN 113 surfaces:
+
+- [mn113-sappurisa-sutta.md](mn113-sappurisa-sutta.md): main shareable translation text
+- [mn113-sappurisa-sutta-notes.md](mn113-sappurisa-sutta-notes.md): companion translator notes and rationale
+
 Current MN 117 surfaces:
 
 - [mn117-mahacattarisaka-sutta.md](mn117-mahacattarisaka-sutta.md): main shareable translation text

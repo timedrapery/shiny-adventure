@@ -75,7 +75,7 @@ given a position.
 4. **AN 8.54, Dīghajāṇu Sutta** — **complete 2026-11-09**. 626 Pali words. Four things for welfare
    here and now and four for welfare in the future, taught to a householder.
    Anchors `pāpamitta`. The most practical lay text in the queue.
-5. **MN 113, Sappurisa Sutta** — 1,448 Pali words. The good person and the
+5. **MN 113, Sappurisa Sutta** — **complete 2026-11-09**. 1,448 Pali words. The good person and the
    bad person: pride in family, fame, gains, learning, ascetic practice, or
    even meditative attainment marks the bad person; the good person puts the
    practice, and non-identification, first. Anchors `asappurisadhamma`.
@@ -136,8 +136,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **MN 113**; Dhp 179–196, Snp 1.8, AN 8.41, and
-AN 8.54 are published.
+queue is finished: Dhp 179–196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are all
+published. The next step is a fresh audit for the next wave.
 
 ## Definition of Wave Completion
 

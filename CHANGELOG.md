@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of MN 113, Sappurisa Sutta (The
+  Good Person and the Bad Person), with notes, a reader introduction, and a
+  reader page in stage 3 after MN 39. Twenty-six grounds for pride, from
+  family to the formless attainments; the good person puts the practice, and
+  non-identification, first. Every abbreviated case is written out. Wave 13
+  item 5, which closes the wave. Anchors `asappurisadhamma`.
 - Added a governed plain-English translation of AN 8.54, Dīghajāṇu Sutta (A
   Good Life Now and Later), with notes, a reader introduction, and a reader
   page in stage 2 after AN 8.41. Four things for a householder's welfare in
@@ -435,7 +441,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 79 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 80 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

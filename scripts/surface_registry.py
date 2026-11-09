@@ -163,6 +163,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn99-subha-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn113",
+        label="MN 113",
+        main_relpath="docs/translations/mn113-sappurisa-sutta.md",
+        notes_relpath="docs/translations/mn113-sappurisa-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn117",
         label="MN 117",
         main_relpath="docs/translations/mn117-mahacattarisaka-sutta.md",
@@ -526,6 +532,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "mn113": "8cceeed8266b4f2e1b1315279ce7914408306f55ebc8e7ee2caa17f67c526c7a",
     "an8_54": "a2a6f90f9c9144c54b34040f3e36f9ef89cf124f1f93608f75de9bd3de83d7c5",
     "an8_41": "fb0d3f9287117f7a4247a2d3ee2b6cf7dd0d5cdbe3e7732ff51b6e37aa41a125",
     "snp1_8": "e8e31b4c2e239b9658a7336f623220c427e329081382d28a92209099e6c75ce3",
@@ -608,6 +615,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "mn113": "2026-11-09",
     "an8_54": "2026-11-09",
     "an8_41": "2026-11-09",
     "snp1_8": "2026-11-09",
@@ -1110,14 +1118,20 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
+    "mn113": ReaderMeta(
+        "Sappurisa Sutta", 3, 15,
+        "Twenty-six things a monk might be proud of, from family to deep "
+        "meditation, and how a good person refuses to rank themselves by them.",
+        reader_title="The Good Person and the Bad Person",
+    ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 15,
+        "Āhāra Sutta", 3, 16,
         "What feeds the hindrances that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves the Hindrances",
     ),
     "sn46_1": ReaderMeta(
-        "Himavanta Sutta", 3, 16,
+        "Himavanta Sutta", 3, 17,
         "Nāgas grow big enough for the ocean by first growing on a mountain. "
         "Conduct is put in the mountain's place: it is what the seven "
         "awakening factors get large on.",
@@ -1378,7 +1392,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9", "an3_69", "an4_5", "an8_39", "sn46_1", "snp1_8", "an8_41", "an8_54",
+        "an2_9", "an3_69", "an4_5", "an8_39", "sn46_1", "snp1_8", "an8_41", "an8_54", "mn113",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
