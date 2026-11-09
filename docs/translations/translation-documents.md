@@ -127,6 +127,11 @@ Current MN 119 surfaces:
 - [mn119-kayagatasati-sutta.md](mn119-kayagatasati-sutta.md): main shareable translation text
 - [mn119-kayagatasati-sutta-notes.md](mn119-kayagatasati-sutta-notes.md): companion translator notes and rationale
 
+Current MN 121 surfaces:
+
+- [mn121-culasunnata-sutta.md](mn121-culasunnata-sutta.md): main shareable translation text
+- [mn121-culasunnata-sutta-notes.md](mn121-culasunnata-sutta-notes.md): companion translator notes and rationale
+
 Current MN 122 surfaces:
 
 - [mn122-mahasunnata-sutta.md](mn122-mahasunnata-sutta.md): main shareable translation text

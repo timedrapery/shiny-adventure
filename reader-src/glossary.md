@@ -250,6 +250,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>One Fine Night</dfn> <span class="glossary-pali" lang="pi">(bhaddekaratta)</span></dt>
 <dd>The title&#x27;s image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.</dd>
+<dt><dfn>oneness</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;ekatta&quot; in MN 121 -- the single recognition the mind rests on at each step, once the coarser ones have been set aside.</dd>
 <dt><dfn>ordinary person</dfn> <span class="glossary-pali" lang="pi">(puthujjana)</span></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>outflow</dfn> <span class="glossary-pali" lang="pi">(āsava)</span></dt>

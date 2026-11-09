@@ -8,6 +8,15 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of MN 121, Cūḷasuññata Sutta
+  (Emptiness, Step by Step), with notes, a reader introduction, and a reader
+  page in stage 3 after MN 122. Emptiness entered gradually: at each step the
+  bhikkhu sees what the state is empty of and what remains, until the signless
+  unification of mind is seen as constructed and the heart is released. Every
+  step is written out, as in the source. Wave 12 item 5, which closes the
+  wave. With it, an emptiness-cluster citation pass: `animitta-cetosamādhi`
+  now cites MN 43 and MN 121 and is anchored, and the three unification
+  records (`suññata`, `animitta`, `appaṇihita`) cite SN 43.4 and DN 33.
 - Added a governed plain-English translation of AN 6.19, Maraṇassati Sutta
   (Recollecting Death, One Breath at a Time), with notes, a reader
   introduction, and a reader page in stage 3 after AN 10.60. Six bhikkhus
@@ -398,7 +407,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 74 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 75 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
