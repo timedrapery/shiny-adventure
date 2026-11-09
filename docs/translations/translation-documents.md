@@ -287,6 +287,11 @@ Current AN 3.65 surfaces:
 - [an3-65-kesamutta-sutta.md](an3-65-kesamutta-sutta.md): main shareable translation text
 - [an3-65-kesamutta-sutta-notes.md](an3-65-kesamutta-sutta-notes.md): companion translator notes and rationale
 
+Current AN 6.19 surfaces:
+
+- [an6-19-maranassati-sutta.md](an6-19-maranassati-sutta.md): main shareable translation text
+- [an6-19-maranassati-sutta-notes.md](an6-19-maranassati-sutta-notes.md): companion translator notes and rationale
+
 Current AN 5.14 surfaces:
 
 - [an5-14-vitthata-sutta.md](an5-14-vitthata-sutta.md): main shareable translation text

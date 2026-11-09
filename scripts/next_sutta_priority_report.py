@@ -127,8 +127,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "4", "AN 6.19", "Maraṇassati", 487, "—",
-        "recollection of death as daily practice; anchors `maraṇassati`",
+        "wave 12", "AN 6.19", "Maraṇassati", 487, "—",
+        "published 2026-11-09; recollection of death sorted into heedless and heedful; anchors `maraṇassati`",
+        published=True,
     ),
     QueueItem(
         "5", "MN 121", "Cūḷasuññata", 995, "—",

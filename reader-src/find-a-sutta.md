@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 73 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 74 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -276,6 +276,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 9 min · 1,467 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Ten recognitions taught to a sick monk. Practical and, unusually for this stage, comforting.</p>
+</article>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="recollecting death, one breath at a time an 6.19 maraṇassati sutta six monks say how they recollect death, each with less time than the last. the buddha sorts the heedless from the heedful. meditation">
+<h2><a href="../suttas/an6-19-maranassati-sutta/">Recollecting Death, One Breath at a Time</a></h2>
+<p class="sutta-card__reference">AN 6.19 · <span lang="pi">Maraṇassati Sutta</span></p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 5 min · 779 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
+<p>Six monks say how they recollect death, each with less time than the last. The Buddha sorts the heedless from the heedful.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="what makes a genuine renunciant? mn 39 mahā-assapura sutta what actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. ethics and practice fused. ethics and conduct · meditation">
 <h2><a href="../suttas/mn39-maha-assapura-sutta/">What Makes a Genuine Renunciant?</a></h2>

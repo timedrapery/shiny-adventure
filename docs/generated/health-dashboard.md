@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2371 |
-| Governed surfaces | 897 |
-| Ungoverned surfaces | 1474 |
-| Coverage by surface | 37.8% |
-| Coverage by occurrence | 58.8% |
+| Distinct surfaces | 2395 |
+| Governed surfaces | 899 |
+| Ungoverned surfaces | 1496 |
+| Coverage by surface | 37.5% |
+| Coverage by occurrence | 58.4% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 72 |
-| `exact` | 409 |
-| `inflected` | 416 |
-| `none` | 1474 |
+| `exact` | 410 |
+| `inflected` | 417 |
+| `none` | 1496 |
 
-### Ungoverned surfaces by frequency (1474 total)
+### Ungoverned surfaces by frequency (1496 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -51,9 +51,11 @@ single row as a lead rather than a fact.
 | `mama` | 13 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn12-61-assutava-sutta-notes.md, sn22-59-anattalakkhana-sutta-notes.md |
 | `sabbe` | 13 | an3-136-uppada-sutta-notes.md, terms/ |
 | `yathabhutam` | 13 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, sn22-26-assada-sutta-notes.md |
+| `bahulikata` | 10 | an6-19-maranassati-sutta-notes.md, an6-19-maranassati-sutta.md, sn46-1-himavanta-sutta-notes.md, terms/ |
 | `pahaya` | 10 | an8-39-abhisanda-sutta-notes.md, terms/ |
 | `ponobbhavika` | 10 | mn122-mahasunnata-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, sn56-11-dhammacakkappavattana-sutta-notes.md, terms/ |
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
+| `bhavita` | 9 | an6-19-maranassati-sutta-notes.md, an6-19-maranassati-sutta.md, sn46-1-himavanta-sutta-notes.md, terms/ |
 | `cetasa` | 9 | an11-9-saddha-sutta-notes.md, an3-65-kesamutta-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, mn39-maha-assapura-sutta-notes.md, terms/ |
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
 | `satova` | 9 | mn118-anapanasati-sutta-notes.md, terms/ |
@@ -66,8 +68,6 @@ single row as a lead rather than a fact.
 | `apajjati` | 7 | an3-88-tatiyasikkha-sutta-notes.md, an4-113-patoda-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `asmiti` | 7 | terms/ |
 | `assasissamiti` | 7 | terms/ |
-| `imassa` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
-| `kayanupassi` | 7 | terms/ |
 
 ## Drift
 
@@ -82,8 +82,8 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 112 |
-| Declared renderings | 812 |
+| Documents declaring renderings | 113 |
+| Declared renderings | 813 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |
