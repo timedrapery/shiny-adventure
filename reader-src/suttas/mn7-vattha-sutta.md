@@ -427,7 +427,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 
 - [← Eight Streams of Benefit](an8-39-abhisanda-sutta.md)
 - [All suttas](index.md)
-- [What Drives Harm—and What Ends It →](an3-69-akusalamula-sutta.md)
+- [May All Beings Be Happy →](snp1-8-metta-sutta.md)
 
 </nav>
 

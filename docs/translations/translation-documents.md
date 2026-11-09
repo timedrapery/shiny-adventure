@@ -387,6 +387,11 @@ Current Dhp 21-32 surfaces:
 - [dhp21-32-appamadavagga.md](dhp21-32-appamadavagga.md): main shareable translation text
 - [dhp21-32-appamadavagga-notes.md](dhp21-32-appamadavagga-notes.md): companion translator notes and rationale
 
+Current Snp 1.8 surfaces:
+
+- [snp1-8-metta-sutta.md](snp1-8-metta-sutta.md): main shareable translation text
+- [snp1-8-metta-sutta-notes.md](snp1-8-metta-sutta-notes.md): companion translator notes and rationale
+
 Current Dhp 179-196 surfaces:
 
 - [dhp179-196-buddhavagga.md](dhp179-196-buddhavagga.md): main shareable translation text
