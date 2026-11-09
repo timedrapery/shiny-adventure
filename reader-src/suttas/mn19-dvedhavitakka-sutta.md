@@ -421,7 +421,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Heedfulness Is the Path to the Deathless](dhp21-32-appamadavagga.md)
+- [← The Path](dhp273-289-maggavagga.md)
 - [All suttas](index.md)
 - [Could This Be the Path to Awakening? →](mn36-mahasaccaka-sutta.md)
 

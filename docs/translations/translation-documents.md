@@ -376,3 +376,8 @@ Current Dhp 21-32 surfaces:
 
 - [dhp21-32-appamadavagga.md](dhp21-32-appamadavagga.md): main shareable translation text
 - [dhp21-32-appamadavagga-notes.md](dhp21-32-appamadavagga-notes.md): companion translator notes and rationale
+
+Current Dhp 273-289 surfaces:
+
+- [dhp273-289-maggavagga.md](dhp273-289-maggavagga.md): main shareable translation text
+- [dhp273-289-maggavagga-notes.md](dhp273-289-maggavagga-notes.md): companion translator notes and rationale

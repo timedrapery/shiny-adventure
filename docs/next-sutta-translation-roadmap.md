@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (72 total)
+## Completed Surfaces (73 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -106,6 +106,9 @@ Use that full roadmap as the source of truth for:
   Tathāgatas arise. Opens Wave 12.
 - `AN 5.14` Vitthata Sutta (The Five Strengths) — complete 2026-11-09. The
   five strengths named and defined. Anchors the orphan major `bala`.
+- `Dhp 273-289` the Maggavagga (The Path) — complete 2026-11-09. The
+  Dhammapada's Path chapter, with verses 277 to 279 on the three
+  characteristics.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -191,7 +194,7 @@ Use that full roadmap as the source of truth for:
    characteristics stated as a law that holds whether or not Tathāgatas arise.
 2. `AN 5.14` Vitthata Sutta — **complete 2026-11-09**. 181 words; names and defines the five
    strengths, and anchors the orphan major `bala`.
-3. `Dhp 273-289` the Maggavagga — 209 words; the Path chapter, with verses
+3. `Dhp 273-289` the Maggavagga — **complete 2026-11-09**. 209 words; the Path chapter, with verses
    277 to 279.
 4. `AN 6.19` Maraṇassati Sutta — 487 words; recollection of death.
 5. `MN 121` Cūḷasuññata Sutta — 995 words; the companion to MN 122, after a

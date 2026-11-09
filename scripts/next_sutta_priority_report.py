@@ -122,8 +122,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "3", "Dhp 273-289", "Maggavagga", 209, "—",
-        "the Path chapter, with verses 277 to 279; verse handling is already settled",
+        "wave 12", "Dhp 273-289", "Maggavagga", 209, "—",
+        "published 2026-11-09; the Path chapter, with verses 277 to 279 in AN 3.136's formula wording",
+        published=True,
     ),
     QueueItem(
         "4", "AN 6.19", "Maraṇassati", 487, "—",
