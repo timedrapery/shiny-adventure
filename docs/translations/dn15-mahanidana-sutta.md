@@ -559,16 +559,16 @@ self feels, for my self has the nature of felt experience.'
 they should be told:
 
 'Friend, there are these three feelings: pleasant feeling, painful feeling, and
-neutral feeling. Which of these three feelings do you regard as self?'
+mixed feeling. Which of these three feelings do you regard as self?'
 
 When someone feels pleasant feeling, they do not at that time feel painful
-feeling or neutral feeling. At that time they feel only pleasant feeling.
+feeling or mixed feeling. At that time they feel only pleasant feeling.
 
 When someone feels painful feeling, they do not at that time feel pleasant
-feeling or neutral feeling. At that time they feel only painful feeling.
+feeling or mixed feeling. At that time they feel only painful feeling.
 
-When someone feels neutral feeling, they do not at that time feel pleasant
-feeling or painful feeling. At that time they feel only neutral feeling.
+When someone feels mixed feeling, they do not at that time feel pleasant
+feeling or painful feeling. At that time they feel only mixed feeling.
 
 Pleasant feeling, Ānanda, is impermanent, conditioned, dependently arisen,
 liable to wearing away, passing away, fading, and quenching.
@@ -576,7 +576,7 @@ liable to wearing away, passing away, fading, and quenching.
 Painful feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
-Neutral feeling is impermanent, conditioned, dependently arisen, liable to
+Mixed feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
 Feeling pleasant feeling, they think, 'This is my self.'
@@ -589,9 +589,9 @@ Feeling painful feeling, they think, 'This is my self.'
 With the quenching of that very painful feeling, they think, 'My self has gone
 away.'
 
-Feeling neutral feeling, they think, 'This is my self.'
+Feeling mixed feeling, they think, 'This is my self.'
 
-With the quenching of that very neutral feeling, they think, 'My self has gone
+With the quenching of that very mixed feeling, they think, 'My self has gone
 away.'
 
 So, in this very life, someone who says, 'Felt experience is my self,' regards

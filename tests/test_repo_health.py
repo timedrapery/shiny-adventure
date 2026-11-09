@@ -35,7 +35,7 @@ class RepoHealthTests(unittest.TestCase):
                 "notes": "The default translation is feeling in most contexts, this note explains the distinction in direct rule-bearing language, and it records the drift risk the policy is meant to prevent in later translation work.",
                 "context_rules": [
                     {"context": "default doctrinal prose", "rendering": "feeling"},
-                    {"context": "threefold classification sheet", "rendering": "neutral feeling"},
+                    {"context": "threefold classification sheet", "rendering": "mixed feeling"},
                 ],
                 "authority_basis": [{"source": "OSF glossary", "scope": "default"}],
                 "translation_policy": {

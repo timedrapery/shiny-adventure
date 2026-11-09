@@ -281,18 +281,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   kept: forms of address moved out of mid-sentence, the bare `Here` opener
   dropped, `Having ...ed` clauses rewritten, the release declaration unified
   on its governed formula, and `they fade` replaced by `their passion fades`.
-  SN 22.59 and AN 2.9 were left unchanged so their review evidence stays
-  bound. See `docs/plain-readability-handoff.md` for what was done, what was
+  SN 22.59, AN 2.9, and SN 36.6 were left unchanged so their review evidence
+  stays bound. See `docs/plain-readability-handoff.md` for what was done, what was
   left, and what to do next.
 - Defined `ignorant wanting` for readers as "wanting something you can't have
   right now", in the glossary and as a newcomer context rule on `taṇhā`.
-- Rendered `adukkhamasukhā vedanā` as `neutral feeling` instead of `mixed
-  feeling` in all nine translations that name the third feeling register, with
-  their notes, records, glossary, and checks. In ordinary English `mixed
-  feelings` means feeling two ways at once, which the Pali does not say. The
-  formula check now flags `mixed feeling`. SN 36.6 changed in six lines, so its
-  source-fidelity sign-off and read-aloud review are open again; see
-  `reviews/source-fidelity-recheck-2026-11-09.md`.
+- `adukkhamasukhā vedanā` stays `mixed feeling`. A change to `neutral feeling`
+  was made and then withdrawn on the owner's ruling that `neutral feeling` is
+  inaccurate: the third register is still something felt, not an absence of
+  feeling. SN 36.6 is back to its reviewed text, with its sign-off and
+  read-aloud review bound again.
 - Corrected one `right intention` in SN 45.2 to the governed `right attitude`.
 - Ran the Wave 13 audit and wrote the [Wave 13 execution plan](docs/wave-13-execution-plan.md):
   Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and AN 1.49-52, each checked

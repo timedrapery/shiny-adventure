@@ -170,8 +170,8 @@ state is visible rather than inferred from silence.
 | Measure | Value |
 | --- | --- |
 | Surfaces in the cohort | 12 |
-| Source fidelity signed off | 1 |
-| Human read-aloud complete | 1 |
+| Source fidelity signed off | 2 |
+| Human read-aloud complete | 2 |
 | Newcomer reviews recorded | 0 |
 | Newcomer reviews counting for the current body | 0 |
 | Surfaces validated | 0 |

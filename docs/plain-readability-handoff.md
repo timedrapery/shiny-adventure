@@ -14,7 +14,14 @@ So `ignorant wanting`, `taking personally`, `quenching`, `felt experience`,
 and `Tathāgata` all stay in the translations. The readability work is on the
 sentences around those terms, and on the reader guides.
 
-One related ruling: the owner asked that taṇhā be explained to newcomers as
+Two related rulings.
+
+**`mixed feeling` stays.** `adukkhamasukhā vedanā` was changed to `neutral
+feeling` during this pass and changed back the same day: the owner ruled that
+`neutral feeling` is inaccurate. The third register is still something felt,
+not a flat absence of feeling. Do not propose `neutral` again.
+
+The second ruling: the owner asked that taṇhā be explained to newcomers as
 **"wanting something you can't have right now"**. That phrase is now the first
 sentence of the `ignorant wanting` definition in
 [`includes/glossary.md`](../includes/glossary.md), which feeds the glossary
@@ -25,13 +32,8 @@ dependent-arising chain.
 
 ## What changed in this pass
 
-1. **Two errors fixed.**
-   - `adukkhamasukhā vedanā` is now `neutral feeling`, not `mixed feeling`, in
-     all nine translations that name it. In ordinary English `mixed feelings`
-     means feeling two ways at once. The formula check now flags
-     `mixed feeling`.
-   - SN 45.2 had one `right intention`; it is now the governed
-     `right attitude`.
+1. **One error fixed.** SN 45.2 had one `right intention`; it is now the
+   governed `right attitude`.
 2. **Forms of address moved out of the middle of the sentence.**
    `This too, bhikkhus, is ...` became `Bhikkhus, this too is ...`, and
    `And what, friends, is birth?` became `And what is birth, friends?`. The
@@ -60,18 +62,14 @@ The full suite (`python scripts/run_checks.py`) passes.
 
 ## What was deliberately left alone
 
-- **SN 22.59 and AN 2.9 were not edited.** They hold the only human review
-  evidence still bound to a published body (SN 22.59's source-fidelity
-  sign-off and AN 2.9's read-aloud review), and several tests expect at least
+- **SN 22.59, AN 2.9, and SN 36.6 were not edited.** They hold the only human
+  review evidence still bound to a published body (source-fidelity sign-offs
+  for SN 22.59 and SN 36.6, read-aloud reviews for AN 2.9 and SN 36.6), and several tests expect at least
   one bound sign-off to exist. As a result SN 22.59 still says
   `Seeing this, bhikkhus, a learned noble disciple ...` and
   `Being disenchanted, they fade. Through fading, they are released.` while
   its sister texts have the new wording. Bring it into line the next time its
   sign-off is being redone anyway.
-- **SN 36.6's two review gates are open again**, because six of its lines
-  changed. The recheck packet is
-  [`reviews/source-fidelity-recheck-2026-11-09.md`](../reviews/source-fidelity-recheck-2026-11-09.md).
-  The old read-aloud record is kept in the ledger under `superseded_reviews`.
 - **The dependent-arising chain was not restructured.** Lines such as
   `with putting things together as condition, knowing` and the 129-word
   quenching chain are the hardest sentences left in the corpus, but every link
@@ -91,11 +89,11 @@ The full suite (`python scripts/run_checks.py`) passes.
 
 1. Decide the dependent-arising chain (see above). It is the single largest
    readability gain available without changing a house term.
-2. Read the First 12 aloud. Ten of the twelve changed in this pass, so every
-   read-aloud gate except AN 2.9 is open. One reviewer, about an hour:
+2. Read the First 12 aloud. Nine of the twelve changed in this pass; the
+   read-aloud gates for AN 2.9 and SN 36.6 are complete. One reviewer, about an hour:
    `python scripts/read_aloud_kit.py --surface <key>`.
-3. Sign off the SN 36.6 recheck packet, then bring SN 22.59 into line and
-   redo its sign-off in the same sitting.
+3. Bring SN 22.59 and SN 36.6 into line with the new sentence patterns and
+   redo their sign-offs in the same sitting.
 4. Make the `Before you read` guides plainer, using the taṇhā definition as
    the model: say the plain thing first, name the house term second.
 5. Write a phrase record for the four-directions formula and unify the four

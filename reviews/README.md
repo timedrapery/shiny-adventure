@@ -9,18 +9,15 @@ This workboard turns the
 handoff-ready queue. The JSON ledger remains authoritative; this page is the
 human-readable operating view.
 
-Current state: **0 of 60 newcomer sessions recorded** and **1 of 12 read-aloud
+Current state: **0 of 60 newcomer sessions recorded** and **2 of 12 read-aloud
 reviews complete**. Source-fidelity review is signed off and bound to the
-published body for one of the twelve cohort texts (SN 22.59). The
-other eleven gates are open again: most were edited on the same day they were
+published body for two of the twelve cohort texts (SN 36.6 and SN 22.59). The
+other ten gates are open again: most were edited on the same day they were
 signed off, so that sign-off could not be tied to the text now published, and
 SN 56.11 and AN 3.65 changed under the 2026-11-08 term rulings. Those two need
 only a few lines rechecked; see the
 [recheck packet](source-fidelity-recheck-2026-11-08.md) and
 [source fidelity](../docs/newcomer-review-protocol.md#source-fidelity).
-SN 36.6 changed on 2026-11-09, when `mixed feeling` became `neutral feeling` in
-six lines. Its source-fidelity sign-off and its read-aloud review are both
-open again; see the [2026-11-09 recheck packet](source-fidelity-recheck-2026-11-09.md).
 
 Reproduce the tally with `python scripts/check_newcomer_reviews.py`; the table
 below is written by hand and the ledger is what counts.
@@ -46,7 +43,7 @@ exactly what it says — nobody has read these texts under the protocol yet.
 | Text | Public reader page | Read aloud | Newcomers | Passing threshold |
 | --- | --- | --- | ---: | ---: |
 | AN 2.9 | [What Keeps the World Human](https://timedrapery.github.io/shiny-adventure/suttas/an2-9-cariya-sutta/) | complete | 0/5 | 0/4 |
-| SN 36.6 | [One Arrow, Not Two](https://timedrapery.github.io/shiny-adventure/suttas/sn36-6-salla-sutta/) | pending | 0/5 | 0/4 |
+| SN 36.6 | [One Arrow, Not Two](https://timedrapery.github.io/shiny-adventure/suttas/sn36-6-salla-sutta/) | complete | 0/5 | 0/4 |
 | AN 3.65 | [How to Test a Teaching](https://timedrapery.github.io/shiny-adventure/suttas/an3-65-kesamutta-sutta/) | pending | 0/5 | 0/4 |
 
 Use the [printable pilot session sheet](pilot-session-sheet.md) and the

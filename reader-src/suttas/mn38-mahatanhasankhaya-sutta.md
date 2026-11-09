@@ -577,7 +577,7 @@ that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
 Being full of favoring and opposing in this way, whatever felt experience he
-experiences — pleasant, painful, or neutral — he approves of it, welcomes it,
+experiences — pleasant, painful, or mixed — he approves of it, welcomes it,
 keeps clinging to it. From this, relishing arises. The relishing of felt
 experience — that is taking personally. With taking personally as condition,
 becoming; with becoming as condition, birth; with birth as condition, ageing
@@ -593,7 +593,7 @@ understand that release of mind and release through discernment where those
 arisen bad, unwholesome qualities cease without remainder.
 
 Being full of favoring and opposing in this way, whatever felt experience he
-experiences — pleasant, painful, or neutral — he approves of it, welcomes it,
+experiences — pleasant, painful, or mixed — he approves of it, welcomes it,
 keeps clinging to it. From this, relishing arises. The relishing of felt
 experience — that is taking personally. With taking personally as condition,
 becoming; with becoming as condition, birth; with birth as condition, ageing
@@ -746,7 +746,7 @@ that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
 Once they have given up favoring and opposing in this way, whatever felt
-experience they experience — pleasant, painful, or neutral — they do not approve
+experience they experience — pleasant, painful, or mixed — they do not approve
 of it, do not welcome it, do not keep clinging to it. As a result, the
 relishing of felt experience ceases. With the cessation of relishing, taking
 personally ceases; with the cessation of taking personally, becoming ceases;
@@ -763,7 +763,7 @@ They truly understand that release of mind and release through discernment where
 those arisen bad, unwholesome qualities cease without remainder.
 
 Once they have given up favoring and opposing in this way, whatever felt
-experience they experience — pleasant, painful, or neutral — they do not approve
+experience they experience — pleasant, painful, or mixed — they do not approve
 of it, do not welcome it, do not keep clinging to it. As a result, the
 relishing of felt experience ceases. With the cessation of relishing, taking
 personally ceases; with the cessation of taking personally, becoming ceases;
@@ -889,7 +889,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn38/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `689b6712`
+- **Last editorial review:** 2026-11-08 · body version `28d7a4c5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
