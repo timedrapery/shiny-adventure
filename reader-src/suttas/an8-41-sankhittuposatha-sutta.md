@@ -180,7 +180,7 @@ The first discourse is finished.
 
 - [← May All Beings Be Happy](snp1-8-metta-sutta.md)
 - [All suttas](index.md)
-- [What Drives Harm—and What Ends It →](an3-69-akusalamula-sutta.md)
+- [A Good Life Now and Later →](an8-54-dighajanu-sutta.md)
 
 </nav>
 

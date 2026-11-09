@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (78 total)
+## Completed Surfaces (79 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -121,6 +121,8 @@ Use that full roadmap as the source of truth for:
   Karaṇīyamettā; the first Sutta Nipāta surface.
 - `AN 8.41` Saṅkhittūposatha Sutta (Living Like an Arahant for a Day) —
   complete 2026-11-09. The eight factors of the observance day.
+- `AN 8.54` Dīghajāṇu Sutta (A Good Life Now and Later) — complete
+  2026-11-09. Welfare for a householder, now and in the life to come.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -205,8 +207,9 @@ Use that full roadmap as the source of truth for:
 1. `Dhp 179-196` the Buddhavagga — **complete 2026-11-09**. 210 words; verses 183 to 185, and `khanti`.
 2. `Snp 1.8` Karaṇīyamettā Sutta — **complete 2026-11-09**. 134 words; friendliness for all beings.
 3. `AN 8.41` Saṅkhittūposatha Sutta — **complete 2026-11-09**. 337 words; the observance day.
-4. `AN 8.54` Dīghajāṇu Sutta — 626 words; welfare for a householder.
-5. `AN 1.49-52` the luminous mind — 69 words in four short discourses.
+4. `AN 8.54` Dīghajāṇu Sutta — **complete 2026-11-09**. 626 words; welfare for a householder.
+5. `MN 113` Sappurisa Sutta — 1,448 words; the good person and the bad
+   person. Replaces AN 1.49-52; see the plan.
 
 ### Wave 12 (complete)
 
