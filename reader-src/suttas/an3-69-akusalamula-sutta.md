@@ -248,7 +248,7 @@ The ninth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Living Like an Arahant for a Day](an8-41-sankhittuposatha-sutta.md)
+- [← A Good Life Now and Later](an8-54-dighajanu-sutta.md)
 - [All suttas](index.md)
 - [Going With the Stream—or Against It →](an4-5-anusota-sutta.md)
 

@@ -493,6 +493,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/dhp21-32-appamadavagga-notes.md",
     ),
     TranslationSurface(
+        key="an8_54",
+        label="AN 8.54",
+        main_relpath="docs/translations/an8-54-dighajanu-sutta.md",
+        notes_relpath="docs/translations/an8-54-dighajanu-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an8_41",
         label="AN 8.41",
         main_relpath="docs/translations/an8-41-sankhittuposatha-sutta.md",
@@ -520,6 +526,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "an8_54": "a2a6f90f9c9144c54b34040f3e36f9ef89cf124f1f93608f75de9bd3de83d7c5",
     "an8_41": "fb0d3f9287117f7a4247a2d3ee2b6cf7dd0d5cdbe3e7732ff51b6e37aa41a125",
     "snp1_8": "e8e31b4c2e239b9658a7336f623220c427e329081382d28a92209099e6c75ce3",
     "dhp179_196": "35d74b3f9f89e92f87b2dbcac9f729951e38ecf10e5fc8cd88371853baff7c6a",
@@ -601,6 +608,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "an8_54": "2026-11-09",
     "an8_41": "2026-11-09",
     "snp1_8": "2026-11-09",
     "dhp179_196": "2026-11-09",
@@ -939,34 +947,40 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "disciple lives as the arahants live for life.",
         reader_title="Living Like an Arahant for a Day",
     ),
+    "an8_54": ReaderMeta(
+        "Dīghajāṇu Sutta", 2, 13,
+        "A householder asks how to live well now and later. Four things for "
+        "this life, four drains on wealth, and four things for the life to come.",
+        reader_title="A Good Life Now and Later",
+    ),
     "an3_69": ReaderMeta(
-        "Akusalamūla Sutta", 2, 13,
+        "Akusalamūla Sutta", 2, 14,
         "Greed, aversion, and delusion are traced from their roots to their "
         "effects on action, speech, power, and the heart—then contrasted with "
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
-        "Anusota Sutta", 2, 14,
+        "Anusota Sutta", 2, 15,
         "Four ways of meeting the current: drifting with it, struggling "
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
     "sn1_1": ReaderMeta(
-        "Oghataraṇa Sutta", 2, 15,
+        "Oghataraṇa Sutta", 2, 16,
         "A deity asks how the Buddha crossed a flood. The answer refuses both "
         "standing still and forceful struggle, preserving a compact paradox.",
         reader_title="How Do You Cross the Flood?",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 16,
+        "Patoda Sutta", 2, 17,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 17,
+        "Dutiyasāriputta Sutta", 2, 18,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -974,26 +988,26 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 18,
+        "Saddha Sutta", 2, 19,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
         reader_title="Think Like a Thoroughbred",
     ),
     "dhp21_32": ReaderMeta(
-        "Appamādavagga", 2, 19,
+        "Appamādavagga", 2, 20,
         "Twelve verses on one quality: heedfulness, the path to the "
         "deathless. Short, memorable, and the first verse page in the set.",
         reader_title="Heedfulness Is the Path to the Deathless",
     ),
     "dhp273_289": ReaderMeta(
-        "Maggavagga", 2, 20,
+        "Maggavagga", 2, 21,
         "Seventeen verses on the path: you must make the effort yourself, and "
         "seeing impermanence, unsatisfactoriness, and not-self is the way.",
         reader_title="The Path",
     ),
     "dhp179_196": ReaderMeta(
-        "Buddhavagga", 2, 21,
+        "Buddhavagga", 2, 22,
         "Eighteen verses on the Buddha, including the four-line summary of the "
         "whole teaching and what a real refuge is.",
         reader_title="The Teaching of the Buddhas",
@@ -1364,7 +1378,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Ethics and conduct": (
         "mn61", "mn7", "mn39", "dn2", "mn99", "an4_113", "mn11",
-        "an2_9", "an3_69", "an4_5", "an8_39", "sn46_1", "snp1_8", "an8_41",
+        "an2_9", "an3_69", "an4_5", "an8_39", "sn46_1", "snp1_8", "an8_41", "an8_54",
     ),
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",

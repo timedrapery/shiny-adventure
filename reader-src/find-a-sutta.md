@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 78 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 79 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -157,6 +157,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Practice instructions · Short · about 5 min · 803 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>The eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="a good life now and later an 8.54 dīghajāṇu sutta a householder asks how to live well now and later. four things for this life, four drains on wealth, and four things for the life to come. ethics and conduct">
+<h2><a href="../suttas/an8-54-dighajanu-sutta/">A Good Life Now and Later</a></h2>
+<p class="sutta-card__reference">AN 8.54 · <span lang="pi">Dīghajāṇu Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,153 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
+<p>A householder asks how to live well now and later. Four things for this life, four drains on wealth, and four things for the life to come.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
 <h2><a href="../suttas/an3-69-akusalamula-sutta/">What Drives Harm—and What Ends It</a></h2>
