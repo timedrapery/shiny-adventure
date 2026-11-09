@@ -8,6 +8,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of MN 122, Mahāsuññata Sutta
+  (Dwelling in Emptiness), with notes, a reader introduction, and a reader
+  page in stage 3 after MN 119. The Buddha's own way of dwelling in
+  emptiness, how a bhikkhu trains toward it when the heart will not go there,
+  the ten topics of talk, the three kinds of ruin, and the call to treat the
+  teacher as a friend. The four mental themes follow MN 19, the heaps passage
+  SN 22.89, and the epithets DN 2; every abbreviated passage is written out.
+  Wave 11 item 5, which closes the wave. Adds reader glosses for
+  `emptiness`, `the imperturbable`, `fewness of wishes`, and
+  `non-entanglement`.
 - Added a governed plain-English translation of SN 22.26, Assāda Sutta (What
   the Heaps Offer, and the Way Out), with notes, a reader introduction, and a
   reader page in stage 4 after SN 22.22. Before his awakening the Buddha asks
@@ -354,7 +364,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 69 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 70 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

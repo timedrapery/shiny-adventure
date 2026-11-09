@@ -7,7 +7,7 @@ Structured Pali-to-English translation infrastructure for early Buddhist transla
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 **[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
-69 early Buddhist discourses in clear, common English, with newcomer guidance,
+70 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
 New here:
@@ -204,15 +204,14 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
-The repository has 69 registered translation surfaces and a plain-English
+The repository has 70 registered translation surfaces and a plain-English
 standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-The next translation is **MN 122, the Mahāsuññata Sutta**, the last and
-longest item in the [Wave 11 execution plan](docs/wave-11-execution-plan.md).
-Dhp 21-32, Ud 8.3, SN 22.22, and SN 22.26 are published; Dhp 21-32's notes
-settle how verse is handled.
+Wave 11 is complete: Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122 are
+all published (see the [Wave 11 execution plan](docs/wave-11-execution-plan.md)).
+The next queue needs a fresh audit before a sutta is given a position.
 
 Picking the work up cold: for translation expansion, start with the
 [Wave 11 execution plan](docs/wave-11-execution-plan.md), then use

@@ -1,6 +1,6 @@
 # All Suttas
 
-All 69 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 70 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -31,6 +31,7 @@ All 69 translations, grouped by collection. If you would rather be guided, use [
 - [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · about 12 min · 2,115 words · Set 5. A technical analysis of the eightfold path, factor by factor.
 - [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · about 12 min · 2,010 words · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
 - [**Remembering Directed to the Body**](mn119-kayagatasati-sutta.md) — MN 119 · Kāyagatāsati Sutta · about 12 min · 2,083 words · Set 3. A long practice sequence directing remembering to breathing, movement, the body's contents and fate, deep unification of mind, resilience, and ten claimed results.
+- [**Dwelling in Emptiness**](mn122-mahasunnata-sutta.md) — MN 122 · Mahāsuññata Sutta · about 19 min · 3,250 words · Set 3. The Buddha's own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.
 - [**Don't Chase the Past or Long for the Future**](mn131-bhaddekaratta-sutta.md) — MN 131 · Bhaddekaratta Sutta · about 6 min · 1,059 words · Set 4. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment.
 - [**The Six Fields of Experience**](mn137-salayatanavibhanga-sutta.md) — MN 137 · Saḷāyatanavibhaṅga Sutta · about 14 min · 2,484 words · Set 5. A technical analysis of the six fields of experience.
 - [**The Four Truths in Detail**](mn141-saccavibhanga-sutta.md) — MN 141 · Saccavibhaṅga Sutta · about 9 min · 1,509 words · Set 5. The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.
