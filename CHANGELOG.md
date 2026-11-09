@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 8.54, Dīghajāṇu Sutta (A
+  Good Life Now and Later), with notes, a reader introduction, and a reader
+  page in stage 2 after AN 8.41. Four things for a householder's welfare in
+  this life, the four drains and inlets of wealth, and four things for the
+  life to come; the abbreviated epithets and precepts are written out. Wave
+  13 item 4. Anchors `pāpamitta`.
 - Added a governed plain-English translation of AN 8.41, Saṅkhittūposatha
   Sutta (Living Like an Arahant for a Day), with notes, a reader
   introduction, and a reader page in stage 2 after Snp 1.8. The eight
@@ -429,7 +435,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 78 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 79 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

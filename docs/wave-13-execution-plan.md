@@ -72,14 +72,17 @@ given a position.
    Nipāta surface; its notes settle the collection's framing.
 3. **AN 8.41, Saṅkhittūposatha Sutta** — **complete 2026-11-09**. 337 Pali words. The eight factors of
    the observance day, each modeled on the arahants. Anchors `uposatha`.
-4. **AN 8.54, Dīghajāṇu Sutta** — 626 Pali words. Four things for welfare
+4. **AN 8.54, Dīghajāṇu Sutta** — **complete 2026-11-09**. 626 Pali words. Four things for welfare
    here and now and four for welfare in the future, taught to a householder.
    Anchors `pāpamitta`. The most practical lay text in the queue.
-5. **AN 1.49–52, the luminous mind** — 69 Pali words in four one-sentence
-   discourses across two upstream files (`an1.41-50` and `an1.51-60`): the
-   mind is luminous, defiled by visiting defilements, and freed from them.
-   Anchors `pabhassara-citta`. Its notes must settle a surface that spans two
-   source files and two vaggas.
+5. **MN 113, Sappurisa Sutta** — 1,448 Pali words. The good person and the
+   bad person: pride in family, fame, gains, learning, ascetic practice, or
+   even meditative attainment marks the bad person; the good person puts the
+   practice, and non-identification, first. Anchors `asappurisadhamma`.
+   **Replaces AN 1.49–52.** That surface would span two upstream bundle files
+   (`an1.41-50`, `an1.51-60`) and two vaggas, and its SuttaCentral source link
+   could not be verified from the working environment. It stays a good
+   candidate once a cross-file surface is designed.
 
 ## Off The Queue, And Why
 
@@ -133,8 +136,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **AN 8.54**; Dhp 179–196, Snp 1.8, and AN 8.41
-are published.
+unfinished queue item is **MN 113**; Dhp 179–196, Snp 1.8, AN 8.41, and
+AN 8.54 are published.
 
 ## Definition of Wave Completion
 

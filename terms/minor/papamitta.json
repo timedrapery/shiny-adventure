@@ -20,5 +20,13 @@
     "persons",
     "ethics"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "itthidhutto, surādhutto, akkhadhutto, pāpamitto pāpasahāyo pāpasampavaṅko",
+      "translation": "chasing women, drinking, gambling, and having bad friends, bad companions, and bad associates",
+      "notes": "AN 8.54's four drains on a household's wealth.",
+      "source": "AN 8.54"
+    }
+  ]
 }

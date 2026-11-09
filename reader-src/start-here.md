@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 78 translations in this collection, for someone new to this material.
+A suggested order for reading the 79 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -52,6 +52,7 @@ The core claim and the practical response to it, kept concrete.
 - [**The Dirty Cloth**](suttas/mn7-vattha-sutta.md) (MN 7, Vattha Sutta) — about 11 min · 1,911 words. A mind is like cloth: dye it while it is dirty and the colour comes out wrong. Ethics introduced through a simile instead of a rule list.
 - [**May All Beings Be Happy**](suttas/snp1-8-metta-sutta.md) (Snp 1.8, Metta Sutta) — about 2 min · 267 words. Ten verses on friendliness: the character it starts from, the wish for all beings to be happy, and a mother's care for her only child.
 - [**Living Like an Arahant for a Day**](suttas/an8-41-sankhittuposatha-sutta.md) (AN 8.41, Saṅkhittūposatha Sutta) — about 5 min · 803 words. The eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life.
+- [**A Good Life Now and Later**](suttas/an8-54-dighajanu-sutta.md) (AN 8.54, Dīghajāṇu Sutta) — about 7 min · 1,153 words. A householder asks how to live well now and later. Four things for this life, four drains on wealth, and four things for the life to come.
 - [**What Drives Harm—and What Ends It**](suttas/an3-69-akusalamula-sutta.md) (AN 3.69, Akusalamūla Sutta) — about 7 min · 1,217 words. Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.
 - [**Going With the Stream—or Against It**](suttas/an4-5-anusota-sutta.md) (AN 4.5, Anusota Sutta) — about 3 min · 416 words. Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.
 - [**How Do You Cross the Flood?**](suttas/sn1-1-oghatara-sutta.md) (SN 1.1, Oghataraṇa Sutta) — about 1 min · 170 words. A deity asks how the Buddha crossed a flood. The answer refuses both standing still and forceful struggle, preserving a compact paradox.

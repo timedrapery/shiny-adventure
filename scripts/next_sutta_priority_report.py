@@ -152,12 +152,13 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "4", "AN 8.54", "Dīghajāṇu", 626, "—",
-        "welfare here and now and in the future, for a householder; anchors `pāpamitta`",
+        "wave 13", "AN 8.54", "Dīghajāṇu", 626, "—",
+        "published 2026-11-09; welfare here and now and in the future, for a householder; anchors `pāpamitta`",
+        published=True,
     ),
     QueueItem(
-        "5", "AN 1.49-52", "Pabhassara", 69, "—",
-        "the luminous mind, in four one-sentence discourses; anchors `pabhassara-citta`",
+        "5", "MN 113", "Sappurisa", 1448, "—",
+        "the good person and the bad person; anchors `asappurisadhamma`; replaces AN 1.49-52",
     ),
 )
 

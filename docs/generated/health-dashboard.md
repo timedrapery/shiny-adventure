@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2504 |
-| Governed surfaces | 919 |
-| Ungoverned surfaces | 1585 |
-| Coverage by surface | 36.7% |
-| Coverage by occurrence | 57.9% |
+| Distinct surfaces | 2528 |
+| Governed surfaces | 924 |
+| Ungoverned surfaces | 1604 |
+| Coverage by surface | 36.6% |
+| Coverage by occurrence | 57.7% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -34,12 +34,12 @@ single row as a lead rather than a fact.
 
 | Route | Surfaces |
 | --- | --- |
-| `compound` | 78 |
-| `exact` | 416 |
-| `inflected` | 425 |
-| `none` | 1585 |
+| `compound` | 79 |
+| `exact` | 417 |
+| `inflected` | 428 |
+| `none` | 1604 |
 
-### Ungoverned surfaces by frequency (1585 total)
+### Ungoverned surfaces by frequency (1604 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -82,8 +82,8 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 116 |
-| Declared renderings | 816 |
+| Documents declaring renderings | 117 |
+| Declared renderings | 817 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |
