@@ -32,5 +32,13 @@
   "related_terms": [
     "patimokkha",
     "pāṭimokkha"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Aṭṭhaṅgasamannāgato, bhikkhave, uposatho upavuttho mahapphalo hoti mahānisaṁso",
+      "translation": "bhikkhus, when the observance day is kept with its eight factors, it bears great fruit and great benefit",
+      "notes": "AN 8.41 opens with this claim and then gives the eight factors, each modeled on the arahants.",
+      "source": "AN 8.41"
+    }
   ]
 }

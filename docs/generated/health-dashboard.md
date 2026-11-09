@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2479 |
-| Governed surfaces | 916 |
-| Ungoverned surfaces | 1563 |
-| Coverage by surface | 37.0% |
-| Coverage by occurrence | 58.1% |
+| Distinct surfaces | 2504 |
+| Governed surfaces | 919 |
+| Ungoverned surfaces | 1585 |
+| Coverage by surface | 36.7% |
+| Coverage by occurrence | 57.9% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 78 |
-| `exact` | 414 |
-| `inflected` | 424 |
-| `none` | 1563 |
+| `exact` | 416 |
+| `inflected` | 425 |
+| `none` | 1585 |
 
-### Ungoverned surfaces by frequency (1563 total)
+### Ungoverned surfaces by frequency (1585 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -64,10 +64,10 @@ single row as a lead rather than a fact.
 | `assadanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `nesohamasmi` | 8 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn22-59-anattalakkhana-sutta-notes.md, terms/ |
 | `nissarananca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
+| `pathamam` | 8 | an8-41-sankhittuposatha-sutta-notes.md, mn121-culasunnata-sutta-notes.md, sn22-22-bhara-sutta-notes.md, sn46-1-himavanta-sutta-notes.md, terms/ |
 | `anupadisesa` | 7 | iti44-nibbanadhatu-sutta-notes.md, iti44-nibbanadhatu-sutta.md, terms/ |
 | `apajjati` | 7 | an3-88-tatiyasikkha-sutta-notes.md, an4-113-patoda-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `asmiti` | 7 | terms/ |
-| `assasissamiti` | 7 | terms/ |
 
 ## Drift
 
@@ -82,8 +82,8 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 115 |
-| Declared renderings | 815 |
+| Documents declaring renderings | 116 |
+| Declared renderings | 816 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |
