@@ -233,7 +233,8 @@ class GeneratedPageTests(unittest.TestCase):
     def test_governed_body_is_unchanged_by_feedback(self) -> None:
         sn = surface("sn36_6")
         body = generate_reader.surface_body(sn.main_path.read_text(encoding="utf-8"))
-        self.assertIn(body, self.pages["sn36-6-salla-sutta.md"])
+        # Verse presentation only adds stanza markers; the words are unchanged.
+        self.assertIn(generate_reader.present_verse(body), self.pages["sn36-6-salla-sutta.md"])
 
     def test_epub_drops_feedback_furniture(self) -> None:
         stripped = build_book.strip_web_furniture(self.pages["sn36-6-salla-sutta.md"])

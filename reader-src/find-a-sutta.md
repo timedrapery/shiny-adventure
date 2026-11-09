@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 67 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 68 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -178,6 +178,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching with verse · Medium · about 7 min · 1,252 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A wild colt tied to its trough can think of nothing but &quot;Fodder, fodder!&quot; The contrast with a trained horse becomes a contrast between two ways of sitting down to meditate.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="short" data-search="heedfulness is the path to the deathless dhp 21-32 appamādavagga twelve verses on one quality: heedfulness, the path to the deathless. short, memorable, and the first verse page in the set. four truths and path">
+<h2><a href="../suttas/dhp21-32-appamadavagga/">Heedfulness Is the Path to the Deathless</a></h2>
+<p class="sutta-card__reference">Dhp 21-32 · <span lang="pi">Appamādavagga</span></p>
+<p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 2 min · 303 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
+<p>Twelve verses on one quality: heedfulness, the path to the deathless. Short, memorable, and the first verse page in the set.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="two kinds of thinking mn 19 dvedhāvitakka sutta sorting thoughts into two bins and learning what to do with each. the simplest possible entry point into mind-training. meditation">
 <h2><a href="../suttas/mn19-dvedhavitakka-sutta/">Two Kinds of Thinking</a></h2>

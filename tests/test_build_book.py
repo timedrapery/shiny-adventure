@@ -107,5 +107,21 @@ The governed body stays.
         self.assertEqual(cleaned, "See the [glossary](#glossary).")
 
 
+class VerseTests(unittest.TestCase):
+    def test_web_verse_becomes_a_pandoc_line_block(self) -> None:
+        page = (
+            'Prose.\n\n<span class="verse-number">21</span>'
+            '<span class="verse-line">First line,</span>\n'
+            '<span class="verse-line verse-line--last">second line.</span>\n'
+            "{: .verse }\n\nMore prose."
+        )
+        out = book.verse_to_line_blocks(page)
+        self.assertIn("| **21** First line,\n| second line.", out)
+        self.assertNotIn("{: .verse", out)
+        self.assertNotIn("verse-line", out)
+        self.assertIn("Prose.\n\n", out)
+        self.assertIn("\n\nMore prose.", out)
+
+
 if __name__ == "__main__":
     unittest.main()

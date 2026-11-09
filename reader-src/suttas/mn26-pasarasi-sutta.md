@@ -672,7 +672,7 @@ Buddha's words.
 The sixth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (53)</summary>
+<summary>Words used in this translation (55)</summary>
 <dl>
 <dt><dfn>against the stream</dfn></dt>
 <dd>Resisting the current of sensual indulgence and harmful action, even when changing direction is difficult.</dd>
@@ -710,6 +710,8 @@ The sixth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
 <dt><dfn>crossed over</dfn></dt>
 <dd>Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.</dd>
+<dt><dfn>deathless</dfn></dt>
+<dd>A name for nibbāna: what does not die, because it was never born.</dd>
 <dt><dfn>deity</dfn></dt>
 <dd>A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.</dd>
 <dt><dfn>dependent arising</dfn></dt>
@@ -760,6 +762,8 @@ The sixth discourse is finished.
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
+<dt><dfn>security from the yoke</dfn></dt>
+<dd>A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.</dd>
 <dt><dfn>sphere of boundless knowing</dfn></dt>
 <dd>A deep meditative state in which awareness rests on knowing itself without limit.</dd>
 <dt><dfn>sphere of boundless space</dfn></dt>
@@ -822,6 +826,7 @@ The sixth discourse is finished.
 *[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
+*[deathless]: A name for nibbāna: what does not die, because it was never born.
 *[deity]: A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.
 *[dependent arising]: The teaching that experience -- and the dissatisfaction in it -- comes from conditions rather than from any fixed self or essence. Each link depends on the one before it, which is why removing a condition stops what follows.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
@@ -846,6 +851,7 @@ The sixth discourse is finished.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
+*[security from the yoke]: A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.
 *[sphere of boundless knowing]: A deep meditative state in which awareness rests on knowing itself without limit.
 *[sphere of boundless space]: A deep meditative state in which awareness rests on space without limit.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.

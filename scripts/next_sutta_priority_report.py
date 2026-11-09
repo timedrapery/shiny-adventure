@@ -28,12 +28,14 @@ try:
     from scripts.audit_surface_leverage import (
         build_leverage,
         load_entries,
+        covered_refs,
         translated_suttas,
     )
 except ModuleNotFoundError:
     from audit_surface_leverage import (
         build_leverage,
         load_entries,
+        covered_refs,
         translated_suttas,
     )
 
@@ -85,8 +87,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "next", "Dhp 21-32", "Appamādavagga", 124, "`appamāda`",
-        "twelve verses in one upstream file; the repository's first verse surface, so settle verse handling in the packet",
+        "wave 11", "Dhp 21-32", "Appamādavagga", 124, "`appamāda`",
+        "published 2026-11-09; anchors `appamāda` and `amatapada`, and settles Dhammapada and verse framing",
+        published=True,
     ),
     QueueItem(
         "wave 11", "Ud 8.3", "Tatiyanibbānapaṭisaṁyutta", 84, "—",
@@ -142,7 +145,7 @@ def build_report(terms: list[dict[str, object]]) -> dict[str, int]:
     translated = translated_suttas()
     cited = [entry for entry in terms if entry["refs"]]
     orphans = [
-        entry for entry in cited if not (set(entry["refs"]) & translated)
+        entry for entry in cited if not (set(entry["refs"]) & covered_refs(translated))
     ]
     leverage = build_leverage(terms, translated)
     orphan_majors = {

@@ -133,6 +133,28 @@ def find_pandoc() -> str | None:
 # assembling the manuscript
 # --------------------------------------------------------------------------
 
+VERSE_STANZA = re.compile(r"(?m)^((?:.+\n)+?)\{: \.verse \}[ \t]*$")
+VERSE_NUMBER_SPAN = re.compile(r'<span class="verse-number">(\d+)</span>')
+VERSE_LINE_SPAN = re.compile(r'</?span class="verse-line[^"]*">|</span>')
+
+
+def verse_to_line_blocks(text: str) -> str:
+    """Turn the website's verse stanzas into pandoc line blocks.
+
+    The website marks a stanza with an attribute line (`{: .verse }`) and one
+    span per line, which pandoc does not understand: the marker would print
+    as text and the lines would run together. A pandoc line block (`| line`)
+    keeps each verse line, and a verse number is kept in bold.
+    """
+    def convert(match: re.Match[str]) -> str:
+        stanza = VERSE_NUMBER_SPAN.sub(r"**\1** ", match.group(1))
+        stanza = VERSE_LINE_SPAN.sub("", stanza)
+        lines = [line.strip() for line in stanza.splitlines() if line.strip()]
+        return "\n".join(f"| {line}" for line in lines)
+
+    return VERSE_STANZA.sub(convert, text)
+
+
 def strip_web_furniture(text: str) -> str:
     """Remove the parts of a reader page that only make sense on the web."""
     text = HTML_COMMENT.sub("", text)
@@ -142,6 +164,7 @@ def strip_web_furniture(text: str) -> str:
     text = FEEDBACK_SECTION.sub("\n", text)
     text = FEEDBACK_MANIFEST.sub("\n", text)
     text = ABBR_LINE.sub("", text)
+    text = verse_to_line_blocks(text)
     # The website uses a separate Markdown page. In the combined manuscript,
     # link to the glossary heading so pandoc can rewrite it across EPUB splits.
     text = GLOSSARY_PAGE_LINK.sub("](#glossary)", text)
