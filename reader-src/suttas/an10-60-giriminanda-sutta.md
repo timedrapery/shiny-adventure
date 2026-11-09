@@ -324,7 +324,7 @@ The tenth discourse is finished.
 
 - [← What Does a Renunciant Gain?](dn2-samannaphala-sutta.md)
 - [All suttas](index.md)
-- [What Makes a Genuine Renunciant? →](mn39-maha-assapura-sutta.md)
+- [Recollecting Death, One Breath at a Time →](an6-19-maranassati-sutta.md)
 
 </nav>
 

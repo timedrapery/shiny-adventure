@@ -1,6 +1,6 @@
 # All Suttas
 
-All 73 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 74 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -75,6 +75,7 @@ All 73 translations, grouped by collection. If you would rather be guided, use [
 - [**Going With the Stream—or Against It**](an4-5-anusota-sutta.md) — AN 4.5 · Anusota Sutta · about 3 min · 416 words · Set 2. Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.
 - [**Four Horses**](an4-113-patoda-sutta.md) — AN 4.113 · Patoda Sutta · about 5 min · 801 words · Set 2. Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice.
 - [**The Five Strengths**](an5-14-vitthata-sutta.md) — AN 5.14 · Vitthata Sutta · about 3 min · 408 words · Set 5. The five strengths named and defined, in the same words SN 48.10 uses for the five faculties.
+- [**Recollecting Death, One Breath at a Time**](an6-19-maranassati-sutta.md) — AN 6.19 · Maraṇassati Sutta · about 5 min · 779 words · Set 3. Six monks say how they recollect death, each with less time than the last.
 - [**Six Things Examined**](an6-63-nibbedhika-sutta.md) — AN 6.63 · Nibbedhika Sutta · about 12 min · 2,115 words · Set 5. One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction.
 - [**When Life Goes Up and Down**](an8-6-dutiyalokadhamma-sutta.md) — AN 8.6 · Dutiyalokadhamma Sutta · about 5 min · 824 words · Set 2. Gain and loss, praise and blame, pleasure and pain happen to everyone.
 - [**Eight Streams of Benefit**](an8-39-abhisanda-sutta.md) — AN 8.39 · Abhisanda Sutta · about 5 min · 734 words · Set 2. Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.

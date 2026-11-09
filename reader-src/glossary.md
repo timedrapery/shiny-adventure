@@ -285,6 +285,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
 <dt><dfn>recognition</dfn> <span class="glossary-pali" lang="pi">(saññā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
+<dt><dfn>recollection of death</dfn> <span class="glossary-pali" lang="pi">(maraṇassati)</span></dt>
+<dd>This project&#x27;s rendering of &quot;maraṇassati&quot; -- keeping in mind that death can come at any time, so as not to put off the work of practice.</dd>
 <dt><dfn>refuge</dfn> <span class="glossary-pali" lang="pi">(saraṇa)</span></dt>
 <dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
 <dt><dfn>regularity of the pattern</dfn></dt>
