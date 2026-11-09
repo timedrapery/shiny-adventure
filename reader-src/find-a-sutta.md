@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 69 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 70 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -241,6 +241,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,083 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>A long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep unification of mind, resilience, and ten claimed results.</p>
+</article>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="dwelling in emptiness mn 122 mahāsuññata sutta the buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend. meditation">
+<h2><a href="../suttas/mn122-mahasunnata-sutta/">Dwelling in Emptiness</a></h2>
+<p class="sutta-card__reference">MN 122 · <span lang="pi">Mahāsuññata Sutta</span></p>
+<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,250 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
+<p>The Buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="what does a renunciant gain? dn 2 sāmaññaphala sutta a king asks what a renunciant actually gets out of the life. a full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view. ethics and conduct · meditation">
 <h2><a href="../suttas/dn2-samannaphala-sutta/">What Does a Renunciant Gain?</a></h2>

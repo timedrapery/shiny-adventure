@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (69 total)
+## Completed Surfaces (70 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -97,6 +97,10 @@ Use that full roadmap as the source of truth for:
   2026-11-09. The Buddha's account of asking, before his awakening, for the
   gratification, danger, and escape of each of the five clung-to heaps.
   Anchors that formula exactly.
+- `MN 122` Mahāsuññata Sutta (Dwelling in Emptiness) — complete 2026-11-09.
+  The Buddha's way of dwelling in emptiness and the training toward it,
+  with the ten topics of talk and the three kinds of ruin. Anchors
+  `appicchatā` and `asaṁsagga`, and closes Wave 11.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -175,7 +179,7 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 11 is the active wave.** Its queue, verified against the root texts on
+**Wave 11 is complete.** Its queue, verified against the root texts on
 2026-09-13, is in the [Wave 11 execution plan](wave-11-execution-plan.md):
 
 1. `Dhp 21-32` the Appamādavagga — **complete 2026-11-09**. 124 words,
@@ -187,8 +191,11 @@ Use that full roadmap as the source of truth for:
    burden formula.
 4. `SN 22.26` Assāda Sutta — **complete 2026-11-09**. 223 words, anchors the
    gratification, danger, and escape formula for the five heaps.
-5. `MN 122` Mahāsuññata Sutta — 1,547 words, anchors `appicchatā` and
-   `asaṁsagga`. Take it last.
+5. `MN 122` Mahāsuññata Sutta — **complete 2026-11-09**. 1,547 words, anchors
+   `appicchatā` and `asaṁsagga`.
+
+The next queue needs a fresh audit, run the way the Wave 11 audit was:
+every signal checked against its root text before it gets a position.
 
 Wave 10 is complete: AN 11.12, SN 12.20, AN 8.39, and SN 46.1 are all
 published. The audit behind that queue was spent, and the Wave 11 audit

@@ -385,7 +385,7 @@ The ninth discourse, Kāyagatāsati Sutta, is finished.
 
 - [← The Four Foundations of Remembering](mn10-satipatthana-sutta.md)
 - [All suttas](index.md)
-- [What Does a Renunciant Gain? →](dn2-samannaphala-sutta.md)
+- [Dwelling in Emptiness →](mn122-mahasunnata-sutta.md)
 
 </nav>
 

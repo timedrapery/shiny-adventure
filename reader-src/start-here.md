@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 69 translations in this collection, for someone new to this material.
+A suggested order for reading the 70 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -69,6 +69,7 @@ Practical method. This is where the material stops being about ideas and starts 
 - [**Remembering the Dhamma While Breathing In and Out**](suttas/mn118-anapanasati-sutta.md) (MN 118, Ānāpānasati Sutta) — about 12 min · 2,010 words. Step-by-step instructions for remembering the Dhamma while breathing in and out. The first text on this list that is a practice manual rather than a teaching about practice.
 - [**The Four Foundations of Remembering**](suttas/mn10-satipatthana-sutta.md) (MN 10, Satipaṭṭhāna Sutta) — about 16 min · 2,831 words. The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.
 - [**Remembering Directed to the Body**](suttas/mn119-kayagatasati-sutta.md) (MN 119, Kāyagatāsati Sutta) — about 12 min · 2,083 words. A long practice sequence directing remembering to breathing, movement, the body's contents and fate, deep unification of mind, resilience, and ten claimed results.
+- [**Dwelling in Emptiness**](suttas/mn122-mahasunnata-sutta.md) (MN 122, Mahāsuññata Sutta) — about 19 min · 3,250 words. The Buddha's own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.
 - [**What Does a Renunciant Gain?**](suttas/dn2-samannaphala-sutta.md) (DN 2, Sāmaññaphala Sutta) — about 39 min · 6,958 words. A king asks what a renunciant actually gets out of the life. A full narrative walk through the gradual path from an outsider's curious, slightly skeptical point of view.
 - [**Ten Recognitions for a Sick Monk**](suttas/an10-60-giriminanda-sutta.md) (AN 10.60, Girimānanda Sutta) — about 9 min · 1,467 words. Ten recognitions taught to a sick monk. Practical and, unusually for this stage, comforting.
 - [**What Makes a Genuine Renunciant?**](suttas/mn39-maha-assapura-sutta.md) (MN 39, Mahā-Assapura Sutta) — about 19 min · 3,356 words. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.
