@@ -170,27 +170,32 @@ apart from an unlearned ordinary person."
 
 ### Verses
 
-"Someone wise and learned
-does not add another feeling
-to what is pleasant or painful.
+<span class="verse-line">"Someone wise and learned</span>
+<span class="verse-line">does not add another feeling</span>
+<span class="verse-line verse-line--last">to what is pleasant or painful.</span>
+{: .verse }
 
-This is the great difference
-between the steady, skillful person
-and the ordinary person.
+<span class="verse-line">This is the great difference</span>
+<span class="verse-line">between the steady, skillful person</span>
+<span class="verse-line verse-line--last">and the ordinary person.</span>
+{: .verse }
 
-The learned person has understood the teaching
-and sees this world and the next.
-Desirable things do not churn their heart,
-and undesirable things bring up no resistance.
+<span class="verse-line">The learned person has understood the teaching</span>
+<span class="verse-line">and sees this world and the next.</span>
+<span class="verse-line">Desirable things do not churn their heart,</span>
+<span class="verse-line verse-line--last">and undesirable things bring up no resistance.</span>
+{: .verse }
 
-Favoring and opposing
-have been blown away.
-They are finished. They are gone.
+<span class="verse-line">Favoring and opposing</span>
+<span class="verse-line">have been blown away.</span>
+<span class="verse-line verse-line--last">They are finished. They are gone.</span>
+{: .verse }
 
-That person knows the dustless,
-sorrowless state.
-They have gone beyond becoming
-and discern rightly."
+<span class="verse-line">That person knows the dustless,</span>
+<span class="verse-line">sorrowless state.</span>
+<span class="verse-line">They have gone beyond becoming</span>
+<span class="verse-line verse-line--last">and discern rightly."</span>
+{: .verse }
 
 The sixth discourse is finished.
 

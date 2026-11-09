@@ -351,3 +351,8 @@ Current Iti 49 surfaces:
 
 - [iti49-ditthigata-sutta.md](iti49-ditthigata-sutta.md): main shareable translation text
 - [iti49-ditthigata-sutta-notes.md](iti49-ditthigata-sutta-notes.md): companion translator notes and rationale
+
+Current Dhp 21-32 surfaces:
+
+- [dhp21-32-appamadavagga.md](dhp21-32-appamadavagga.md): main shareable translation text
+- [dhp21-32-appamadavagga-notes.md](dhp21-32-appamadavagga-notes.md): companion translator notes and rationale

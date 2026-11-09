@@ -166,15 +166,23 @@ class LiveDataTests(unittest.TestCase):
         """Labels are matched against sutta_references by exact string, so a
         label like "MN 10: Satipatthana Sutta" would silently make the audit
         report an already-translated text as a candidate."""
-        pattern = re.compile(r"^(?:[A-Z][A-Za-z]{1,5}) \d+(?:\.\d+)?$")
+        pattern = re.compile(r"^(?:[A-Z][A-Za-z]{1,5}) \d+(?:\.\d+|-\d+)?$")
 
         malformed = sorted(
-            label for label in audit.translated_suttas() if not pattern.match(label)
+            surface.label
+            for surface in audit.TRANSLATION_SURFACES
+            if not pattern.match(surface.label)
         )
 
         self.assertEqual(
             malformed, [], f"surface labels not in reference-id format: {malformed}"
         )
+
+    def test_a_verse_range_label_covers_each_verse(self) -> None:
+        self.assertEqual(
+            audit.label_refs("Dhp 21-23"), {"Dhp 21", "Dhp 22", "Dhp 23"}
+        )
+        self.assertEqual(audit.label_refs("SN 22.22"), {"SN 22.22"})
 
     def test_surfaces_that_anchor_no_governed_vocabulary_are_known(self) -> None:
         """A surface no term record cites shows no policy in running text.
@@ -189,7 +197,9 @@ class LiveDataTests(unittest.TestCase):
         all_refs = {ref for entry in entries for ref in entry["refs"]}
 
         uncited_surfaces = sorted(
-            label for label in audit.translated_suttas() if label not in all_refs
+            surface.label
+            for surface in audit.TRANSLATION_SURFACES
+            if not (audit.label_refs(surface.label) & all_refs)
         )
 
         self.assertEqual(uncited_surfaces, ["MN 61"])

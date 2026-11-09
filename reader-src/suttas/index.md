@@ -1,6 +1,6 @@
 # All Suttas
 
-All 67 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 68 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -86,3 +86,7 @@ All 67 translations, grouped by collection. If you would rather be guided, use [
 ## Udāna (Ud) — the inspired sayings, in the Khuddaka Nikāya
 
 - [**Why There Is a Way Out**](ud8-3-tatiyanibbanapatisamyutta-sutta.md) — Ud 8.3 · Tatiyanibbānapaṭisaṁyutta Sutta · about 1 min · 139 words · Set 5. One minute, and one argument: there would be no way out of what is born, made and conditioned unless there were something that is not.
+
+## Dhammapada (Dhp) — the verses on the Dhamma, in the Khuddaka Nikāya
+
+- [**Heedfulness Is the Path to the Deathless**](dhp21-32-appamadavagga.md) — Dhp 21-32 · Appamādavagga · about 2 min · 303 words · Set 2. Twelve verses on one quality: heedfulness, the path to the deathless.

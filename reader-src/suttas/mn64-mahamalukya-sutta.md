@@ -411,7 +411,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (43)</summary>
+<summary>Words used in this translation (44)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -425,6 +425,8 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>calming</dfn></dt>
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
+<dt><dfn>deathless</dfn></dt>
+<dd>A name for nibbāna: what does not die, because it was never born.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -529,6 +531,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
 *[calming]: A settling and quieting of the mind on the way toward full release.
+*[deathless]: A name for nibbāna: what does not die, because it was never born.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.

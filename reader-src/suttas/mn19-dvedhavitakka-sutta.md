@@ -421,7 +421,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Think Like a Thoroughbred](an11-9-saddha-sutta.md)
+- [← Heedfulness Is the Path to the Deathless](dhp21-32-appamadavagga.md)
 - [All suttas](index.md)
 - [Could This Be the Path to Awakening? →](mn36-mahasaccaka-sutta.md)
 

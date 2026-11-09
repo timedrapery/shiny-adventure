@@ -69,16 +69,18 @@ This is what the Buddha said. And in reference to this, it was said:
 
 ### Verses
 
-"Those who see what has come to be
-simply as what has come to be,
-and see the way beyond it,
-are released in line with reality
-when ignorant wanting for becoming is completely worn away.
+<span class="verse-line">"Those who see what has come to be</span>
+<span class="verse-line">simply as what has come to be,</span>
+<span class="verse-line">and see the way beyond it,</span>
+<span class="verse-line">are released in line with reality</span>
+<span class="verse-line verse-line--last">when ignorant wanting for becoming is completely worn away.</span>
+{: .verse }
 
-"Fully understanding what has come to be,
-free of wanting for becoming or non-becoming,
-a bhikkhu does not come to further becoming
-when what has come to be is gone."
+<span class="verse-line">"Fully understanding what has come to be,</span>
+<span class="verse-line">free of wanting for becoming or non-becoming,</span>
+<span class="verse-line">a bhikkhu does not come to further becoming</span>
+<span class="verse-line verse-line--last">when what has come to be is gone."</span>
+{: .verse }
 
 This too was said by the Buddha—so I heard.
 

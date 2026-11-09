@@ -360,3 +360,13 @@
 *[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 
 *[unconditioned]: This project's rendering of "asaṅkhata" -- what did not come about that way. The word says only what it is not; the texts deliberately do not describe it further.
+
+*[heedfulness]: This project's rendering of "appamāda" -- staying awake to what you are doing, keeping up the effort, and coming back when attention slips. Often translated "diligence" or "vigilance."
+
+*[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
+
+*[heedful]: Living with heedfulness: awake to what you are doing and keeping up the effort.
+
+*[deathless]: A name for nibbāna: what does not die, because it was never born.
+
+*[security from the yoke]: A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.

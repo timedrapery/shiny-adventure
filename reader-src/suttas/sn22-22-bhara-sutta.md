@@ -83,15 +83,17 @@ on to say:
 
 ### Verses
 
-"The five heaps are indeed a burden,
-and the individual is the carrier of the burden.
-Taking up the burden is dissatisfaction in the world;
-putting the burden down is satisfaction.
+<span class="verse-line">"The five heaps are indeed a burden,</span>
+<span class="verse-line">and the individual is the carrier of the burden.</span>
+<span class="verse-line">Taking up the burden is dissatisfaction in the world;</span>
+<span class="verse-line verse-line--last">putting the burden down is satisfaction.</span>
+{: .verse }
 
-Having put the heavy burden down
-and taken up no other,
-having pulled out ignorant wanting together with its root,
-they are free of hunger and have reached complete quenching."
+<span class="verse-line">Having put the heavy burden down</span>
+<span class="verse-line">and taken up no other,</span>
+<span class="verse-line">having pulled out ignorant wanting together with its root,</span>
+<span class="verse-line verse-line--last">they are free of hunger and have reached complete quenching."</span>
+{: .verse }
 
 The first discourse is finished.
 

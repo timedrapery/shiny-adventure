@@ -114,7 +114,8 @@ Every signal below was checked against the cached root text before the item
 was given a position. Work in this order unless a direct reader request takes
 priority.
 
-1. **Dhp 21–32, the Appamādavagga** — 124 Pali words in twelve verses, one
+1. **Dhp 21–32, the Appamādavagga** — **complete 2026-11-09**; the verse
+   decisions are settled in its notes. 124 Pali words in twelve verses, one
    upstream file (`dhp21-32`), clean boundary. Anchors the orphan major
    `appamāda` (`Appamādo amatapadaṁ, pamādo maccuno padaṁ`) and the record
    `amatapada`. **Precondition: settle verse before drafting.** This would be
@@ -233,10 +234,9 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **Dhp 21–32**, and it still has its precondition:
-settling how verse is set, titled and numbered is the first half of that
-packet. **SN 22.26** is the next item without one, if that decision is not
-yours to make. Create a `codex/` or contributor branch and keep the entire
+unfinished queue item is **SN 22.26**. Dhp 21–32, Ud 8.3, and SN 22.22 are
+published, and the verse precondition is settled in the Dhp 21–32 notes.
+Create a `codex/` or contributor branch and keep the entire
 translation packet together. Before stopping, record completed work, open
 questions, exact validation results, and the next action in the surface notes
 or this plan — not only in a local terminal or chat.

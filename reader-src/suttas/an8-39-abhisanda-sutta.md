@@ -125,12 +125,14 @@ and ease."
 The ninth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (9)</summary>
+<summary>Words used in this translation (10)</summary>
 <dl>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
+<dt><dfn>heedlessness</dfn></dt>
+<dd>The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>recluses</dfn></dt>
@@ -171,6 +173,7 @@ The ninth discourse is finished.
 
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
+*[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
 *[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.

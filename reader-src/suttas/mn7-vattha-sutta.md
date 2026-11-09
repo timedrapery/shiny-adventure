@@ -338,7 +338,7 @@ And Venerable Bhāradvāja became one of the arahants.
 The seventh discourse, the Vattha Sutta, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (32)</summary>
+<summary>Words used in this translation (34)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -378,6 +378,10 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>heedful</dfn></dt>
+<dd>Living with heedfulness: awake to what you are doing and keeping up the effort.</dd>
+<dt><dfn>heedlessness</dfn></dt>
+<dd>The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ill will</dfn></dt>
@@ -446,6 +450,8 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[going forth]: Leaving household life to live as a monastic.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heedful]: Living with heedfulness: awake to what you are doing and keeping up the effort.
+*[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.

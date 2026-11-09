@@ -8,6 +8,20 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Dhp 21-32, the Appamādavagga
+  (Heedfulness Is the Path to the Deathless): the repository's first
+  Dhammapada surface and first all-verse surface. Its notes settle the verse
+  framing for later chapters: one surface per chapter, numbered verses, lines
+  kept, and the commentary's story titles left out. Wave 11 item 1. Anchors
+  `appamāda` and `amatapada`; the `appamāda` record's examples now match
+  `amatapada`, clearing one formula-agreement baseline entry.
+- The reader now displays verse as verse. Stanzas under a `Verse` or `Verses`
+  heading keep their lines, with a hanging indent for wrapped lines and an
+  optional verse number in the margin. This also fixes the closing verses of
+  SN 36.6, SN 22.22, Iti 44, and Iti 49, which had been showing as run-on
+  prose.
+- Added reader glosses for heedfulness, heedlessness, heedful, deathless, and
+  security from the yoke.
 - Added a governed plain-English translation of SN 22.22, Bhāra Sutta
   (Putting Down the Burden), with companion notes, a reader introduction,
   reader metadata, and a generated reader page placed in stage 4 after SN
@@ -332,7 +346,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 67 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 68 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
