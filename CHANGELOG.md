@@ -249,6 +249,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Ran the Wave 13 audit and wrote the [Wave 13 execution plan](docs/wave-13-execution-plan.md):
+  Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and AN 1.49-52, each checked
+  against its root text. `paritta` cited Sn 1.8 and Khp 6, which contain no
+  form of the word; it now cites AN 4.67. The three unification records now
+  prefer `emptiness unification`, `signless unification`, and `wishless
+  unification`, matching the samādhi ruling.
 - Ran the Wave 12 audit and wrote the [Wave 12 execution plan](docs/wave-12-execution-plan.md):
   AN 3.136, AN 5.14, Dhp 273-289, AN 6.19, and MN 121, each checked against
   its root text. The audit checked every orphan record's headword against

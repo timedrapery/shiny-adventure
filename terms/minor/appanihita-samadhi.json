@@ -3,12 +3,13 @@
   "normalized_term": "appanihita-samadhi",
   "entry_type": "minor",
   "part_of_speech": "compound",
-  "preferred_translation": "wishless samadhi",
+  "preferred_translation": "wishless unification",
   "alternative_translations": [
-    "desireless samadhi"
+    "wishless samadhi",
+    "desireless unification"
   ],
   "definition": "Samadhi governed by the wishless side of the emptiness / signless / wishless family.",
-  "notes": "Keep this compound tied to appaṇihita as wishless rather than turning it into generic desirelessness, passivity, or no-goals rhetoric.",
+  "notes": "Keep this compound tied to appaṇihita as wishless rather than turning it into generic desirelessness, passivity, or no-goals rhetoric. Aligned in the 2026-11-09 Wave 13 audit with the samādhi ruling (`unification of mind`, compact `unification` in compounds) so that the three unification records read as one family: `emptiness unification`, `signless unification`, `wishless unification`. The cetosamādhi records keep the full `unification of mind`.",
   "status": "reviewed",
   "literal_meaning": "wishless samadhi",
   "tags": [
@@ -23,7 +24,7 @@
   "example_phrases": [
     {
       "pali": "Suññato samādhi, animitto samādhi, appaṇihito samādhi",
-      "translation": "unification that comes forth from emptiness, signless samadhi, wishless samadhi",
+      "translation": "emptiness unification, signless unification, wishless unification",
       "notes": "SN 43.4 names the three together as the path to the unconditioned; DN 33 lists them among the threes. Cited in the 2026-11-09 Wave 12 emptiness-cluster citation pass.",
       "source": "SN 43.4"
     }

@@ -209,9 +209,9 @@ standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-Wave 12 is complete: AN 3.136, AN 5.14, Dhp 273-289, AN 6.19, and MN 121 are
-all published (see the [Wave 12 execution plan](docs/wave-12-execution-plan.md)).
-The next queue needs a fresh audit before a sutta is given a position.
+The next translation is **Dhp 179-196, the Buddhavagga**, the first item in
+the [Wave 13 execution plan](docs/wave-13-execution-plan.md). Wave 12 is
+complete.
 
 Picking the work up cold: for translation expansion, start with the
 [Wave 11 execution plan](docs/wave-11-execution-plan.md), then use
