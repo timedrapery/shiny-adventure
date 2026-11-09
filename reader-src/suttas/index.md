@@ -1,6 +1,6 @@
 # All Suttas
 
-All 75 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
+All 76 translations, grouped by collection. If you would rather be guided, use [Start Here](../start-here.md).
 
 ## Dīgha Nikāya (DN) — the long discourses
 
@@ -96,4 +96,5 @@ All 75 translations, grouped by collection. If you would rather be guided, use [
 ## Dhammapada (Dhp) — the verses on the Dhamma, in the Khuddaka Nikāya
 
 - [**Heedfulness Is the Path to the Deathless**](dhp21-32-appamadavagga.md) — Dhp 21-32 · Appamādavagga · about 2 min · 303 words · Set 2. Twelve verses on one quality: heedfulness, the path to the deathless.
+- [**The Teaching of the Buddhas**](dhp179-196-buddhavagga.md) — Dhp 179-196 · Buddhavagga · about 3 min · 459 words · Set 2. Eighteen verses on the Buddha, including the four-line summary of the whole teaching and what a real refuge is.
 - [**The Path**](dhp273-289-maggavagga.md) — Dhp 273-289 · Maggavagga · about 3 min · 462 words · Set 2. Seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way.

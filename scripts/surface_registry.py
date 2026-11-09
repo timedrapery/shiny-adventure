@@ -493,6 +493,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/dhp21-32-appamadavagga-notes.md",
     ),
     TranslationSurface(
+        key="dhp179_196",
+        label="Dhp 179-196",
+        main_relpath="docs/translations/dhp179-196-buddhavagga.md",
+        notes_relpath="docs/translations/dhp179-196-buddhavagga-notes.md",
+    ),
+    TranslationSurface(
         key="dhp273_289",
         label="Dhp 273-289",
         main_relpath="docs/translations/dhp273-289-maggavagga.md",
@@ -502,6 +508,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "dhp179_196": "35d74b3f9f89e92f87b2dbcac9f729951e38ecf10e5fc8cd88371853baff7c6a",
     "mn121": "630eaaee885ad75550ee0aa241df8a95b50f4daaf87de31a094037d5f7f9bf5f",
     "an6_19": "0ef51010c5e67bf6820bfed2eedc40099bdb1e511b8cbce9ef261495e22fe50e",
     "dhp273_289": "986887d71b564ce3c8a2e39bcce0119f7cc83cf570f1cbf9c69a55907081e62a",
@@ -580,6 +587,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "dhp179_196": "2026-11-09",
     "mn121": "2026-11-09",
     "an6_19": "2026-11-09",
     "dhp273_289": "2026-11-09",
@@ -955,6 +963,12 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "Seventeen verses on the path: you must make the effort yourself, and "
         "seeing impermanence, unsatisfactoriness, and not-self is the way.",
         reader_title="The Path",
+    ),
+    "dhp179_196": ReaderMeta(
+        "Buddhavagga", 2, 19,
+        "Eighteen verses on the Buddha, including the four-line summary of the "
+        "whole teaching and what a real refuge is.",
+        reader_title="The Teaching of the Buddhas",
     ),
     # Stage 3 -- Learning to Look at Your Own Mind
     "mn19": ReaderMeta(
@@ -1332,7 +1346,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
         "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
-        "an3_88", "ud8_3", "dhp21_32", "an3_136", "dhp273_289",
+        "an3_88", "ud8_3", "dhp21_32", "an3_136", "dhp273_289", "dhp179_196",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_22", "sn22_26", "sn22_86",
@@ -1366,7 +1380,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Teaching with verse": (
         "mn131", "iti44", "iti49", "an11_9", "an8_6", "an4_5", "sn22_22",
-        "dhp21_32", "dhp273_289",
+        "dhp21_32", "dhp273_289", "dhp179_196",
     ),
 }
 

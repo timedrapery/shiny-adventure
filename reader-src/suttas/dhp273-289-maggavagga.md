@@ -188,7 +188,7 @@ The twentieth chapter, on the path, is finished.
 
 - [← Heedfulness Is the Path to the Deathless](dhp21-32-appamadavagga.md)
 - [All suttas](index.md)
-- [Two Kinds of Thinking →](mn19-dvedhavitakka-sutta.md)
+- [The Teaching of the Buddhas →](dhp179-196-buddhavagga.md)
 
 </nav>
 

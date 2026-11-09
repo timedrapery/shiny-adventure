@@ -137,8 +137,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "1", "Dhp 179-196", "Buddhavagga", 210, "—",
-        "the Buddha chapter, with verses 183 to 185; anchors `khanti`",
+        "wave 13", "Dhp 179-196", "Buddhavagga", 210, "—",
+        "published 2026-11-09; the Buddha chapter, with verses 183 to 185; anchors `khanti`",
+        published=True,
     ),
     QueueItem(
         "2", "Snp 1.8", "Karaṇīyamettā", 134, "—",
