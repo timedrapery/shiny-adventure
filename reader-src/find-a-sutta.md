@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 72 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 73 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -192,6 +192,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 2 min · 303 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>Twelve verses on one quality: heedfulness, the path to the deathless. Short, memorable, and the first verse page in the set.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="short" data-search="the path dhp 273-289 maggavagga seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way. four truths and path">
+<h2><a href="../suttas/dhp273-289-maggavagga/">The Path</a></h2>
+<p class="sutta-card__reference">Dhp 273-289 · <span lang="pi">Maggavagga</span></p>
+<p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 3 min · 462 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
+<p>Seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="two kinds of thinking mn 19 dvedhāvitakka sutta sorting thoughts into two bins and learning what to do with each. the simplest possible entry point into mind-training. meditation">
 <h2><a href="../suttas/mn19-dvedhavitakka-sutta/">Two Kinds of Thinking</a></h2>

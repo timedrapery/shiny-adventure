@@ -153,7 +153,7 @@ The second chapter, on heedfulness, is finished.
 
 - [← Think Like a Thoroughbred](an11-9-saddha-sutta.md)
 - [All suttas](index.md)
-- [Two Kinds of Thinking →](mn19-dvedhavitakka-sutta.md)
+- [The Path →](dhp273-289-maggavagga.md)
 
 </nav>
 
