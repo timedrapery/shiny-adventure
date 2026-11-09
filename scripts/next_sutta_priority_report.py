@@ -132,8 +132,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "5", "MN 121", "Cūḷasuññata", 995, "—",
-        "the companion to MN 122; take it after a citation pass on the emptiness cluster",
+        "wave 12", "MN 121", "Cūḷasuññata", 995, "—",
+        "published 2026-11-09; the gradual entry into emptiness, with the emptiness-cluster citation pass",
+        published=True,
     ),
 )
 

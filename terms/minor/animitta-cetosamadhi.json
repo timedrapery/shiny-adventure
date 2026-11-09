@@ -13,5 +13,23 @@
     "meditative-development",
     "emptiness-interface"
   ],
-  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword."
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword.",
+  "sutta_references": [
+    "MN 43",
+    "MN 121"
+  ],
+  "example_phrases": [
+    {
+      "pali": "bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati",
+      "translation": "by not attending to any signs, a bhikkhu enters and remains in the signless unification of mind",
+      "notes": "MN 43 defines the signless release of mind by this attainment.",
+      "source": "MN 43"
+    },
+    {
+      "pali": "animittaṁ cetosamādhiṁ paṭicca manasi karoti ekattaṁ",
+      "translation": "attends to the oneness that depends on the signless unification of mind",
+      "notes": "MN 121's last step before the outflows are seen to be absent.",
+      "source": "MN 121"
+    }
+  ]
 }

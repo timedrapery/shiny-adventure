@@ -20,5 +20,17 @@
     "meditative-development",
     "emptiness-interface"
   ],
-  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form."
+  "version_notes": "Revised 2026-11-08 by explicit editorial decision to follow Dhammarato's spoken usage in the 2014–2026 talk transcripts: follows the samādhi headword in its compact form.",
+  "sutta_references": [
+    "SN 43.4",
+    "DN 33"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Suññato samādhi, animitto samādhi, appaṇihito samādhi",
+      "translation": "unification that comes forth from emptiness, signless samadhi, wishless samadhi",
+      "notes": "SN 43.4 names the three together as the path to the unconditioned; DN 33 lists them among the threes. Cited in the 2026-11-09 Wave 12 emptiness-cluster citation pass.",
+      "source": "SN 43.4"
+    }
+  ]
 }

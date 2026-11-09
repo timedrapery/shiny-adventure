@@ -181,6 +181,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/mn119-kayagatasati-sutta-notes.md",
     ),
     TranslationSurface(
+        key="mn121",
+        label="MN 121",
+        main_relpath="docs/translations/mn121-culasunnata-sutta.md",
+        notes_relpath="docs/translations/mn121-culasunnata-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="mn122",
         label="MN 122",
         main_relpath="docs/translations/mn122-mahasunnata-sutta.md",
@@ -496,6 +502,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "mn121": "630eaaee885ad75550ee0aa241df8a95b50f4daaf87de31a094037d5f7f9bf5f",
     "an6_19": "0ef51010c5e67bf6820bfed2eedc40099bdb1e511b8cbce9ef261495e22fe50e",
     "dhp273_289": "986887d71b564ce3c8a2e39bcce0119f7cc83cf570f1cbf9c69a55907081e62a",
     "an5_14": "3ae144feac3a781e6866987f070a56ca6817b85594309eee7e4ba807b0196add",
@@ -573,6 +580,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "mn121": "2026-11-09",
     "an6_19": "2026-11-09",
     "dhp273_289": "2026-11-09",
     "an5_14": "2026-11-09",
@@ -1015,39 +1023,45 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "correcting you is a friend.",
         reader_title="Dwelling in Emptiness",
     ),
+    "mn121": ReaderMeta(
+        "Cūḷasuññata Sutta", 3, 10,
+        "Emptiness entered step by step: each time, notice what has dropped "
+        "away and what remains, until only this living body is left.",
+        reader_title="Emptiness, Step by Step",
+    ),
     "dn2": ReaderMeta(
-        "Sāmaññaphala Sutta", 3, 10,
+        "Sāmaññaphala Sutta", 3, 11,
         "A king asks what a renunciant actually gets out of the life. A full "
         "narrative walk through the gradual path from an outsider's curious, "
         "slightly skeptical point of view.",
         reader_title="What Does a Renunciant Gain?",
     ),
     "an10_60": ReaderMeta(
-        "Girimānanda Sutta", 3, 11,
+        "Girimānanda Sutta", 3, 12,
         "Ten recognitions taught to a sick monk. Practical and, unusually for "
         "this stage, comforting.",
         reader_title="Ten Recognitions for a Sick Monk",
     ),
     "an6_19": ReaderMeta(
-        "Maraṇassati Sutta", 3, 12,
+        "Maraṇassati Sutta", 3, 13,
         "Six monks say how they recollect death, each with less time than the "
         "last. The Buddha sorts the heedless from the heedful.",
         reader_title="Recollecting Death, One Breath at a Time",
     ),
     "mn39": ReaderMeta(
-        "Mahā-Assapura Sutta", 3, 13,
+        "Mahā-Assapura Sutta", 3, 14,
         "What actually makes someone a genuine renunciant, as opposed to "
         "someone who merely looks like one. Ethics and practice fused.",
         reader_title="What Makes a Genuine Renunciant?",
     ),
     "sn46_51": ReaderMeta(
-        "Āhāra Sutta", 3, 14,
+        "Āhāra Sutta", 3, 15,
         "What feeds the hindrances that block practice, and what starves "
         "them. A closing, practical text for this stage.",
         reader_title="What Feeds and Starves the Hindrances",
     ),
     "sn46_1": ReaderMeta(
-        "Himavanta Sutta", 3, 15,
+        "Himavanta Sutta", 3, 16,
         "Nāgas grow big enough for the ocean by first growing on a mountain. "
         "Conduct is put in the mountain's place: it is what the seven "
         "awakening factors get large on.",
@@ -1313,7 +1327,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
         "sn46_51", "sn46_1", "sn51_13", "sn48_10", "mn119", "an11_12",
-        "mn36", "mn122", "an5_14", "an6_19",
+        "mn36", "mn122", "an5_14", "an6_19", "mn121",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1344,7 +1358,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
         "sn46_1",
-        "sn51_13", "sn48_10", "mn119", "an11_12", "mn122", "an5_14", "an6_19",
+        "sn51_13", "sn48_10", "mn119", "an11_12", "mn122", "an5_14", "an6_19", "mn121",
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",

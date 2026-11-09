@@ -534,7 +534,7 @@ The second discourse is finished.
 
 - [← Remembering Directed to the Body](mn119-kayagatasati-sutta.md)
 - [All suttas](index.md)
-- [What Does a Renunciant Gain? →](dn2-samannaphala-sutta.md)
+- [Emptiness, Step by Step →](mn121-culasunnata-sutta.md)
 
 </nav>
 

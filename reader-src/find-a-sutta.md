@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 74 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 75 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -262,6 +262,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,250 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The Buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.</p>
+</article>
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="emptiness, step by step mn 121 cūḷasuññata sutta emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left. meditation">
+<h2><a href="../suttas/mn121-culasunnata-sutta/">Emptiness, Step by Step</a></h2>
+<p class="sutta-card__reference">MN 121 · <span lang="pi">Cūḷasuññata Sutta</span></p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,072 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
+<p>Emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="what does a renunciant gain? dn 2 sāmaññaphala sutta a king asks what a renunciant actually gets out of the life. a full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view. ethics and conduct · meditation">
 <h2><a href="../suttas/dn2-samannaphala-sutta/">What Does a Renunciant Gain?</a></h2>

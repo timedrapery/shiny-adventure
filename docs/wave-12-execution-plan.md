@@ -113,10 +113,30 @@ priority.
 4. **AN 6.19, Maraṇassati Sutta** — **complete 2026-11-09**. 487 Pali words. Bhikkhus say how they
    recollect death; the Buddha says which of them practice it heedfully.
    Anchors `maraṇassati`, and connects to `appamāda` in Dhp 21–32.
-5. **MN 121, Cūḷasuññata Sutta** — 995 Pali words. The gradual entry into
+5. **MN 121, Cūḷasuññata Sutta** — **complete 2026-11-09**. 995 Pali words. The gradual entry into
    emptiness, step by step, and the companion to MN 122. Take it last, after
    a citation pass on the emptiness / signless / wishless cluster, and expect
    a full packet.
+
+## Emptiness-Cluster Citation Pass
+
+Done with MN 121, as item 5 required:
+
+- `animitta-cetosamādhi` now cites MN 43 (`sabbanimittānaṁ amanasikārā
+  animittaṁ cetosamādhiṁ upasampajja viharati`) and MN 121, both `exact`.
+  MN 43 was already translated, so the record is anchored.
+- `suññata-samādhi`, `animitta-samādhi`, and `appaṇihita-samādhi` now cite
+  SN 43.4 and DN 33 (`suññato samādhi, animitto samādhi, appaṇihito
+  samādhi`), `exact` at SN 43.4. Neither text is translated, so they move
+  from uncited to orphaned.
+- The three `vimokkha` records, the two remaining `cetosamādhi` records, and
+  `vimokkhamukha` stay uncited. Their terms belong to the Paṭisambhidāmagga
+  and later literature; no sutta source was found.
+- Follow-up for the next audit: `animitta-samādhi` and `appaṇihita-samādhi`
+  still prefer `signless samadhi` and `wishless samadhi`, which predate the
+  samādhi ruling (`unification of mind`), while `suññata-samādhi` reads
+  `unification that comes forth from emptiness`. Bring the three into one
+  form before they are used on a surface.
 
 ## Off The Queue, And Why
 
@@ -187,8 +207,9 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **MN 121**, after the emptiness-cluster citation
-pass; AN 3.136, AN 5.14, Dhp 273–289, and AN 6.19 are published. Keep each translation packet together
+queue is finished: AN 3.136, AN 5.14, Dhp 273–289, AN 6.19, and MN 121 are
+all published, and the emptiness-cluster citation pass went in with MN 121.
+The next step is a fresh audit for the next wave. Keep each translation packet together
 on one branch, and record completed work, open questions, and the next action
 in the surface notes or this plan.
 
