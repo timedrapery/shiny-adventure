@@ -6,7 +6,7 @@
   "literal_meaning": "qualities of a bad person",
   "preferred_translation": "qualities of a bad person",
   "definition": "Qualities that characterize an unreliable or ethically poor person in doctrinal and ethical instruction.",
-  "notes": "Use this record for named bad-person quality frameworks such as MN 110. Keep the compound aligned with asappurisa as 'bad person' rather than softening it into generic weakness-language.",
+  "notes": "Use this record for named bad-person quality frameworks such as MN 113. Keep the compound aligned with asappurisa as 'bad person' rather than softening it into generic weakness-language. Citation corrected in the 2026-11-09 Wave 12 audit: MN 110 speaks of the bad person (`asappurisa`) and their qualities but never uses the compound `asappurisadhamma`; MN 113 opens with it (`sappurisadhammañca vo, bhikkhave, desessāmi asappurisadhammañca`).",
   "related_terms": [
     "sappurisa-dhamma"
   ],
@@ -16,6 +16,14 @@
     "persons"
   ],
   "sutta_references": [
-    "MN 110"
+    "MN 113"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Katamo ca, bhikkhave, asappurisadhammo?",
+      "translation": "And what, bhikkhus, are the qualities of a bad person?",
+      "notes": "MN 113 names the framework before listing its members.",
+      "source": "MN 113"
+    }
   ]
 }

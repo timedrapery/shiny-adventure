@@ -179,6 +179,21 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
+**Wave 12 is the active wave.** Its queue, verified against the root texts on
+2026-11-09, is in the [Wave 12 execution plan](wave-12-execution-plan.md):
+
+1. `AN 3.136` Uppāda Sutta — 94 words; the three characteristics stated as a
+   law that holds whether or not Tathāgatas arise.
+2. `AN 5.14` Vitthata Sutta — 181 words; names and defines the five
+   strengths, and anchors the orphan major `bala`.
+3. `Dhp 273-289` the Maggavagga — 209 words; the Path chapter, with verses
+   277 to 279.
+4. `AN 6.19` Maraṇassati Sutta — 487 words; recollection of death.
+5. `MN 121` Cūḷasuññata Sutta — 995 words; the companion to MN 122, after a
+   citation pass on the emptiness cluster.
+
+### Wave 11 (complete)
+
 **Wave 11 is complete.** Its queue, verified against the root texts on
 2026-09-13, is in the [Wave 11 execution plan](wave-11-execution-plan.md):
 
@@ -193,9 +208,6 @@ Use that full roadmap as the source of truth for:
    gratification, danger, and escape formula for the five heaps.
 5. `MN 122` Mahāsuññata Sutta — **complete 2026-11-09**. 1,547 words, anchors
    `appicchatā` and `asaṁsagga`.
-
-The next queue needs a fresh audit, run the way the Wave 11 audit was:
-every signal checked against its root text before it gets a position.
 
 Wave 10 is complete: AN 11.12, SN 12.20, AN 8.39, and SN 46.1 are all
 published. The audit behind that queue was spent, and the Wave 11 audit

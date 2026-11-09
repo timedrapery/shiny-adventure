@@ -215,6 +215,15 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Ran the Wave 12 audit and wrote the [Wave 12 execution plan](docs/wave-12-execution-plan.md):
+  AN 3.136, AN 5.14, Dhp 273-289, AN 6.19, and MN 121, each checked against
+  its root text. The audit checked every orphan record's headword against
+  the texts it cites and repaired five false citations: `adhiṭṭhāna` (AN
+  10.176), `āloka-kasiṇa` (MN 77), `asappurisadhamma` (MN 110 to MN 113),
+  `diṭṭhāsava` (DN 33), and `bala` (SN 50.1 to AN 5.14). `dukkhā
+  sabbasaṅkhārā` and `sabbe dhammā anattā` gain a checkable AN 3.136 source.
+  The priority table's closing footer no longer reports a finished queue
+  while an item is unpublished.
 - Finished applying the saññā ruling, which had two stragglers. AN 10.60's
   reader title and Start Here note still said `Ten Perceptions for a Sick
   Monk` while its own body says `The Ten Recognitions` throughout — so the

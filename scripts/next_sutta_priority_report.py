@@ -62,8 +62,8 @@ class QueueItem:
     published: bool = False
 
 
-# Wave 11, as committed in docs/wave-11-execution-plan.md. Keep the two in step.
-# Wave 10's completed items stay listed: the table is the corpus's queue
+# Wave 12, as committed in docs/wave-12-execution-plan.md. Keep the two in step.
+# Earlier waves' completed items stay listed: the table is the corpus's queue
 # history, and dropping finished rows would hide what each wave actually cost.
 QUEUE: tuple[QueueItem, ...] = (
     QueueItem(
@@ -111,25 +111,41 @@ QUEUE: tuple[QueueItem, ...] = (
         "published 2026-11-09; anchors `appicchatā` and `asaṁsagga` through the ten topics of talk",
         published=True,
     ),
+    QueueItem(
+        "1", "AN 3.136", "Uppāda", 94, "—",
+        "the three characteristics stated as a law that holds whether or not Tathāgatas arise; anchors all three formula lines",
+    ),
+    QueueItem(
+        "2", "AN 5.14", "Vitthata", 181, "`bala`",
+        "names and defines the five strengths; the gap Wave 11 could not close through SN 50.1",
+    ),
+    QueueItem(
+        "3", "Dhp 273-289", "Maggavagga", 209, "—",
+        "the Path chapter, with verses 277 to 279; verse handling is already settled",
+    ),
+    QueueItem(
+        "4", "AN 6.19", "Maraṇassati", 487, "—",
+        "recollection of death as daily practice; anchors `maraṇassati`",
+    ),
+    QueueItem(
+        "5", "MN 121", "Cūḷasuññata", 995, "—",
+        "the companion to MN 122; take it after a citation pass on the emptiness cluster",
+    ),
 )
 
 METHOD_NOTES: tuple[str, ...] = (
-    "Every Wave 11 signal was checked against the cached root text before the "
-    "item was given a position. The audit that produced this queue found and "
-    "repaired eight false or mis-cased citations in the records it was ranking.",
-    "SN 50.1 is permanently off the queue: upstream has no `sn50.1` file at "
-    "all. The text lives in `sn50.1-12`, a Ganges-repetition series covering "
-    "twelve discourses, so there is no discrete boundary to translate.",
-    "SN 35.204, AN 4.27, AN 7.49, MN 13, and MN 108 ranked only on citations "
-    "that turned out to be false, and carry no leverage now that those are "
-    "repaired.",
-    "MN 77's ten orphans are all kasiṇa records. That is a formula sheet, not "
-    "a translation.",
-    "The emptiness / signless / wishless cluster reports eleven of thirteen "
-    "terms dark, but ten of those are uncited rather than orphaned. No "
-    "translation can anchor them until they have verified sources.",
-    "Longer one-anchor candidates such as DN 1, DN 21, DN 33, and DN 16 remain "
-    "deferred on length.",
+    "Every Wave 12 signal was checked against the root text before the item "
+    "was given a position. The audit found and repaired five false citations "
+    "among the orphan records it was ranking, and repointed `bala` from SN "
+    "50.1 to AN 5.14.",
+    "The orphan-major ranking is nearly spent. Its remaining leaders are "
+    "enumeration stubs, single verses, the SN 50.1 repetition series, and DN "
+    "1, DN 21, DN 33, and DN 16, which stay deferred on length. This queue is "
+    "therefore ranked on verified anchors plus reader value.",
+    "MN 77's kasiṇa orphans are still a formula sheet, not a translation; "
+    "its light-kasiṇa citation was false and is removed.",
+    "The emptiness / signless / wishless cluster is still mostly uncited "
+    "rather than orphaned. Give it verified sources before MN 121.",
 )
 
 
@@ -185,7 +201,7 @@ def render_table(report: dict[str, int]) -> str:
     )
     lines += [
         "",
-        "Use the [Wave 11 execution plan](../wave-11-execution-plan.md) for the",
+        "Use the [Wave 12 execution plan](../wave-12-execution-plan.md) for the",
         "active queue, validation, and handoff gates, and the",
         "[full roadmap](../next-suttas-roadmap.md) for historical method notes.",
         "",
@@ -198,7 +214,7 @@ def render_table(report: dict[str, int]) -> str:
             f"| {item.pali_words} words | {item.orphan_anchor} | {item.value} |"
         )
     lines.append("")
-    if any(item.position == "next" for item in QUEUE):
+    if any(not item.published for item in QUEUE):
         lines += [
             "After the last queue item, run a fresh audit rather than extending",
             "this ranking. Every wave so far has found leverage signals that were",
