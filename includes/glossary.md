@@ -388,3 +388,5 @@
 *[recollection of death]: This project's rendering of "maraṇassati" -- keeping in mind that death can come at any time, so as not to put off the work of practice.
 
 *[oneness]: This project's rendering of "ekatta" in MN 121 -- the single recognition the mind rests on at each step, once the coarser ones have been set aside.
+
+*[observance day]: This project's rendering of "uposatha" -- the days of the lunar month when lay followers take on extra precepts for a night and a day, and monastics recite their code.

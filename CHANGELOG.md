@@ -8,6 +8,11 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 8.41, Saṅkhittūposatha
+  Sutta (Living Like an Arahant for a Day), with notes, a reader
+  introduction, and a reader page in stage 2 after Snp 1.8. The eight
+  factors of the observance day, each modeled on the arahants; the first
+  four follow DN 2. Wave 13 item 3. Anchors `uposatha`.
 - Added a governed plain-English translation of Snp 1.8, the Metta Sutta
   (May All Beings Be Happy), widely known as the Karaṇīyamettā Sutta, with
   notes, a reader introduction, and a reader page in stage 2 after MN 7:
@@ -424,7 +429,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 77 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 78 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.
