@@ -7,7 +7,7 @@
 
 *MN 43, the Mahāvedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,918 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,907 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -44,7 +44,7 @@ Sāriputta:
 
 "Friend, people say, 'poor in discernment, poor in discernment.'
 
-In what way, friend, is someone said to be poor in discernment?"
+In what way is someone said to be poor in discernment, friend?"
 
 "'They do not discern, they do not discern,' friend: that is why someone is
 said to be poor in discernment.
@@ -67,7 +67,7 @@ question:
 
 "Friend, people say, 'discerning, discerning.'
 
-In what way, friend, is someone said to be discerning?"
+In what way is someone said to be discerning, friend?"
 
 "'They discern, they discern,' friend: that is why someone is said to be
 discerning.
@@ -86,7 +86,7 @@ discerning."
 
 "Friend, people say, 'knowing, knowing.'
 
-In what way, friend, is it said to be knowing?"
+In what way is it said to be knowing, friend?"
 
 "'It knows, it knows,' friend: that is why it is said to be knowing.
 
@@ -126,7 +126,7 @@ That is the difference between them."
 
 "Friend, people say, 'felt experience, felt experience.'
 
-In what way, friend, is it said to be felt experience?"
+In what way is it said to be felt experience, friend?"
 
 "'It feels, it feels,' friend: that is why it is said to be felt experience.
 
@@ -141,7 +141,7 @@ is neither dissatisfying nor satisfying.
 
 "Friend, people say, 'recognition, recognition.'
 
-In what way, friend, is it said to be recognition?"
+In what way is it said to be recognition, friend?"
 
 "'It recognizes, it recognizes,' friend: that is why it is said to be
 recognition.
@@ -198,7 +198,7 @@ abandoning."
 "Friend, there are two conditions for the arising of right view: the word of
 another, and wise attention.
 
-These, friend, are the two conditions for the arising of right view."
+Friend, these are the two conditions for the arising of right view."
 
 "Friend, by how many factors is right view supported when it has release of
 mind as its fruit and benefit, and release through discernment as its fruit
@@ -208,8 +208,8 @@ and benefit?"
 as its fruit and benefit, and release through discernment as its fruit and
 benefit.
 
-Here, friend, right view is supported by conduct, supported by learning,
-supported by discussion, supported by tranquility, and supported by insight.
+Friend, right view is supported by conduct, supported by learning, supported by
+discussion, supported by tranquility, and supported by insight.
 
 By these five factors, friend, right view is supported when it has release of
 mind as its fruit and benefit, and release through discernment as its fruit
@@ -236,37 +236,36 @@ quenched, renewed becoming does not arise in the future."
 
 "Friend, what is the first mental theme?"
 
-"Here, friend, quite secluded from sensuality, secluded from unwholesome
-dhammas, a bhikkhu enters and remains in the first mental theme, which has
-thinking and pondering, and the rejoicing and satisfaction born of seclusion.
+"Friend, quite secluded from sensuality, secluded from unwholesome dhammas, a
+bhikkhu enters and remains in the first mental theme, which has thinking and
+pondering, and the rejoicing and satisfaction born of seclusion.
 
-This, friend, is called the first mental theme."
+Friend, this is called the first mental theme."
 
 "Friend, how many factors does the first mental theme have?"
 
 "Friend, the first mental theme has five factors.
 
-Here, friend, for a bhikkhu who has entered the first mental theme there occur
+Friend, for a bhikkhu who has entered the first mental theme there occur
 thinking, pondering, rejoicing, satisfaction, and directness of heart.
 
-That, friend, is how the first mental theme has five factors."
+Friend, that is how the first mental theme has five factors."
 
 "Friend, how many factors has the first mental theme left behind, and how many
-factors does it possess?"
+factors does it have?"
 
-"Friend, the first mental theme has left behind five factors and possesses
-five factors.
+"Friend, the first mental theme has left behind five factors and has five
+factors.
 
-Here, friend, for a bhikkhu who has entered the first mental theme, sensual
-desire is abandoned, ill will is abandoned, sloth and torpor
-is abandoned, restlessness and worry is abandoned, and doubt is
-abandoned;
+Friend, for a bhikkhu who has entered the first mental theme, sensual desire is
+abandoned, ill will is abandoned, sloth and torpor is abandoned, restlessness
+and worry is abandoned, and doubt is abandoned;
 
 and there occur thinking, pondering, rejoicing, satisfaction, and directness
 of heart.
 
-That, friend, is how the first mental theme has left behind five factors and
-possesses five factors."
+Friend, that is how the first mental theme has left behind five factors and has
+five factors."
 
 ### The Five Faculties and What They Rely On
 
@@ -304,7 +303,7 @@ their resort, and the thinking mind experiences their range and scope."
 - the tongue faculty
 - the body faculty
 
-Depending on what, friend, do these five faculties remain?"
+Depending on what do these five faculties remain, friend?"
 
 "Friend, there are these five faculties. They are:
 
@@ -316,11 +315,11 @@ Depending on what, friend, do these five faculties remain?"
 
 Depending on vitality, friend, these five faculties remain."
 
-"Depending on what, friend, does vitality remain?"
+"Depending on what does vitality remain, friend?"
 
 "Vitality remains depending on warmth."
 
-"Depending on what, friend, does warmth remain?"
+"Depending on what does warmth remain, friend?"
 
 "Warmth remains depending on vitality."
 
@@ -328,7 +327,7 @@ Depending on vitality, friend, these five faculties remain."
 depending on warmth.' And just now, friend, we understood Venerable Sāriputta
 to say, 'warmth remains depending on vitality.'
 
-How, friend, should the meaning of this statement be seen?"
+How should the meaning of this statement be seen, friend?"
 
 "Then, friend, I will give you a simile. Some intelligent people here
 understand the meaning of a statement through a simile.
@@ -336,8 +335,8 @@ understand the meaning of a statement through a simile.
 Suppose, friend, an oil lamp were burning. Its light appears depending on its
 flame, and its flame appears depending on its light.
 
-In just the same way, friend, vitality remains depending on warmth, and
-warmth remains depending on vitality."
+Friend, in just the same way, vitality remains depending on warmth, and warmth
+remains depending on vitality."
 
 ### Vitality Conditioners and Felt Dhammas
 
@@ -379,9 +378,8 @@ conditioner has ceased and subsided, the mind conditioner has ceased and
 subsided, but vitality is not exhausted, warmth is not stilled, and the
 faculties are bright.
 
-That, friend, is the difference between someone who has died and passed away
-and a bhikkhu who has entered the cessation of recognition and felt
-experience."
+Friend, that is the difference between someone who has died and passed away and
+a bhikkhu who has entered the cessation of recognition and felt experience."
 
 ### The Neither-Dissatisfying-Nor-Satisfying Release of Mind
 
@@ -391,14 +389,13 @@ is neither dissatisfying nor satisfying?"
 "Friend, there are four conditions for entering the release of mind that is
 neither dissatisfying nor satisfying.
 
-Here, friend, with the abandoning of satisfaction and the abandoning of
-dissatisfaction, and with the earlier ending of gladness and sadness, a
-bhikkhu enters and remains in the fourth mental theme, which is neither
-dissatisfying nor satisfying and has the purity of dynamic balance and
-remembering.
+Friend, with the abandoning of satisfaction and the abandoning of
+dissatisfaction, and with the earlier ending of gladness and sadness, a bhikkhu
+enters and remains in the fourth mental theme, which is neither dissatisfying
+nor satisfying and has the purity of dynamic balance and remembering.
 
-These, friend, are the four conditions for entering the release of mind that
-is neither dissatisfying nor satisfying."
+Friend, these are the four conditions for entering the release of mind that is
+neither dissatisfying nor satisfying."
 
 ### The Signless Release of Mind
 
@@ -408,7 +405,7 @@ mind?"
 "Friend, there are two conditions for entering the signless release of mind:
 not attending to any signs, and attending to the signless element.
 
-These, friend, are the two conditions for entering the signless release of
+Friend, these are the two conditions for entering the signless release of
 mind."
 
 "Friend, how many conditions are there for remaining in the signless release
@@ -418,8 +415,8 @@ of mind?"
 mind: not attending to any signs, attending to the signless element, and the
 earlier putting together.
 
-These, friend, are the three conditions for remaining in the signless release
-of mind."
+Friend, these are the three conditions for remaining in the signless release of
+mind."
 
 "Friend, how many conditions are there for emerging from the signless release
 of mind?"
@@ -427,8 +424,8 @@ of mind?"
 "Friend, there are two conditions for emerging from the signless release of
 mind: attending to all signs, and not attending to the signless element.
 
-These, friend, are the two conditions for emerging from the signless release
-of mind."
+Friend, these are the two conditions for emerging from the signless release of
+mind."
 
 ### Different in Meaning, or Different Only in Letter
 
@@ -445,14 +442,14 @@ different in meaning and different in letter;
 and there is a mode of exposition, friend, by which these dhammas are one in
 meaning and different only in letter.
 
-And what, friend, is the mode of exposition by which these dhammas are
-different in meaning and different in letter?
+Friend, what is the mode of exposition by which these dhammas are different in
+meaning and different in letter?
 
-Here, friend, a bhikkhu remains pervading one direction with a heart
-imbued with friendliness, and likewise the second, the third, and the fourth.
-So above, below, across, everywhere, to all as to himself, he remains
-pervading the whole world with a heart imbued with friendliness,
-abundant, expansive, measureless, without hostility, without ill will.
+Friend, a bhikkhu remains pervading one direction with a heart imbued with
+friendliness, and likewise the second, the third, and the fourth. So above,
+below, across, everywhere, to all as to himself, he remains pervading the whole
+world with a heart imbued with friendliness, abundant, expansive, measureless,
+without hostility, without ill will.
 
 He remains pervading with a heart imbued with kindness towards
 others ...
@@ -465,42 +462,41 @@ across, everywhere, to all as to himself, he remains pervading the whole world
 with a heart imbued with dynamic balance, abundant, expansive,
 measureless, without hostility, without ill will.
 
-This, friend, is called the measureless release of mind.
+Friend, this is called the measureless release of mind.
 
-And what, friend, is the release of mind through nothingness?
+And what is the release of mind through nothingness, friend?
 
-Here, friend, by completely surmounting the sphere of boundless knowing, a
-bhikkhu enters and remains in the sphere of nothingness, aware that 'there is
-nothing.'
+Friend, by completely surmounting the sphere of boundless knowing, a bhikkhu
+enters and remains in the sphere of nothingness, aware that 'there is nothing.'
 
-This, friend, is called the release of mind through nothingness.
+Friend, this is called the release of mind through nothingness.
 
-And what, friend, is the release of mind through emptiness?
+And what is the release of mind through emptiness, friend?
 
-Here, friend, a bhikkhu who has gone to the wilderness, or to the root of a
-tree, or to an empty dwelling, reflects like this:
+Friend, a bhikkhu who has gone to the wilderness, or to the root of a tree, or
+to an empty dwelling, reflects like this:
 
 'This is empty of a self or of what belongs to a self.'
 
-This, friend, is called the release of mind through emptiness.
+Friend, this is called the release of mind through emptiness.
 
-And what, friend, is the signless release of mind?
+And what is the signless release of mind, friend?
 
-Here, friend, by not attending to any signs, a bhikkhu enters and remains in
-the signless unification of mind.
+Friend, by not attending to any signs, a bhikkhu enters and remains in the
+signless unification of mind.
 
-This, friend, is called the signless release of mind.
+Friend, this is called the signless release of mind.
 
-This, friend, is the mode of exposition by which these dhammas are different
-in meaning and different in letter.
+Friend, this is the mode of exposition by which these dhammas are different in
+meaning and different in letter.
 
 ### One in Meaning, Different Only in Letter
 
-And what, friend, is the mode of exposition by which these dhammas are one in
+Friend, what is the mode of exposition by which these dhammas are one in
 meaning and different only in letter?
 
-Passion, friend, is a maker of measurement; aversion is a maker of
-measurement; delusion is a maker of measurement.
+Friend, passion is a maker of measurement; aversion is a maker of measurement;
+delusion is a maker of measurement.
 
 For a bhikkhu whose outflows are exhausted, these are abandoned, cut off at
 the root, made like a palm stump, done away with, and unable to arise in the
@@ -512,7 +508,7 @@ mind is declared the foremost.
 And that unshakable release of mind is empty of passion, empty of aversion,
 empty of delusion.
 
-Passion, friend, is a something; aversion is a something; delusion is a
+Friend, passion is a something; aversion is a something; delusion is a
 something.
 
 For a bhikkhu whose outflows are exhausted, these are abandoned, cut off at
@@ -525,8 +521,8 @@ release of mind is declared the foremost.
 And that unshakable release of mind is empty of passion, empty of aversion,
 empty of delusion.
 
-Passion, friend, is a maker of signs; aversion is a maker of signs; delusion
-is a maker of signs.
+Friend, passion is a maker of signs; aversion is a maker of signs; delusion is
+a maker of signs.
 
 For a bhikkhu whose outflows are exhausted, these are abandoned, cut off at
 the root, made like a palm stump, done away with, and unable to arise in the
@@ -538,7 +534,7 @@ is declared the foremost.
 And that unshakable release of mind is empty of passion, empty of aversion,
 empty of delusion.
 
-This, friend, is the mode of exposition by which these dhammas are one in
+Friend, this is the mode of exposition by which these dhammas are one in
 meaning and different only in letter."
 
 ### Closing
@@ -594,7 +590,7 @@ had said.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>kindness towards others</dfn></dt>
@@ -651,7 +647,7 @@ had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn43/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn43-mahavedalla-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `f10fff5f`
+- **Last editorial review:** 2026-11-08 · body version `5619145e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2043) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -688,7 +684,7 @@ had said.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

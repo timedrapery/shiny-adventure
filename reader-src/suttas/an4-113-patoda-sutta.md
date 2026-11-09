@@ -7,7 +7,7 @@
 
 *AN 4.113, the Patoda Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 801 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 799 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -31,8 +31,8 @@ supplies something the others do not: a reason to start now rather than later.
 
 "Bhikkhus, these four fine thoroughbreds are found in the world. What four?
 
-Here, bhikkhus, a fine thoroughbred sees the shadow of the goad and is stirred
-to urgency. It thinks: 'What task will the horse trainer have me do today? How
+Bhikkhus, a fine thoroughbred sees the shadow of the goad and is stirred to
+urgency. It thinks: 'What task will the horse trainer have me do today? How
 should I respond?' Some fine thoroughbreds are like that. This is the first
 kind of fine thoroughbred found in the world.
 
@@ -40,38 +40,38 @@ Bhikkhus, another fine thoroughbred is not stirred to urgency just by seeing
 the shadow of the goad. It is stirred only when the goad strikes its hair.
 It thinks:
 'What task will the horse trainer have me do today? How should I respond?'
-Some fine thoroughbreds are like that. This, bhikkhus, is the second kind of
+Some fine thoroughbreds are like that. Bhikkhus, this is the second kind of
 fine thoroughbred found in the world.
 
 Bhikkhus, another is not stirred by the shadow or when the goad strikes its
 hair. It is stirred only when the goad strikes its hide. It thinks: 'What task
-will the horse trainer have me do today? How should I respond?'
-Some fine thoroughbreds are like that. This, bhikkhus, is the third kind of
-fine thoroughbred found in the world.
+will the horse trainer have me do today? How should I respond?' Some fine
+thoroughbreds are like that. Bhikkhus, this is the third kind of fine
+thoroughbred found in the world.
 
-Bhikkhus, another is not stirred by the shadow, by the hair, or by the hide.
-It is stirred only when the goad strikes to the bone. It thinks: 'What task
-will the horse trainer have me do today? How should I respond?'
-Some fine thoroughbreds are like that. This, bhikkhus, is the fourth kind of
-fine thoroughbred found in the world.
+Bhikkhus, another is not stirred by the shadow, by the hair, or by the hide. It
+is stirred only when the goad strikes to the bone. It thinks: 'What task will
+the horse trainer have me do today? How should I respond?' Some fine
+thoroughbreds are like that. Bhikkhus, this is the fourth kind of fine
+thoroughbred found in the world.
 
-These, bhikkhus, are the four fine thoroughbreds found in the world.
+Bhikkhus, these are the four fine thoroughbreds found in the world.
 
 ### The Four Thoroughbred Individuals
 
-"In just the same way, bhikkhus, these four fine thoroughbred individuals are
+"Bhikkhus, in just the same way, these four fine thoroughbred individuals are
 found in the world. What four?
 
-Here, bhikkhus, a fine thoroughbred individual hears that in such-and-such
-village or town a woman or man has come to suffering or has died. They are
-stirred by this and come to urgency. Gripped by urgency, they strive
-thoroughly. Applying themselves, they witness the ultimate truth with the body
-and see through it with discernment.
+Bhikkhus, a fine thoroughbred individual hears that in such-and-such village or
+town a woman or man has come to suffering or has died. They are stirred by this
+and come to urgency. Gripped by urgency, they strive thoroughly. Applying
+themselves, they witness the ultimate truth with the body and see through it
+with discernment.
 
 Just as that fine thoroughbred is stirred and comes to urgency on seeing the
-shadow of the goad — I say this fine thoroughbred individual is like that.
-Some fine thoroughbred individuals are like that. This, bhikkhus, is the first
-fine thoroughbred individual found in the world.
+shadow of the goad — I say this fine thoroughbred individual is like that. Some
+fine thoroughbred individuals are like that. Bhikkhus, this is the first fine
+thoroughbred individual found in the world.
 
 Bhikkhus, another fine thoroughbred individual does not hear that in
 such-and-such village or town a woman or man has come to suffering or has
@@ -82,8 +82,8 @@ with the body and see through it with discernment.
 
 Just as that fine thoroughbred is stirred and comes to urgency when struck
 through the hairs — I say this fine thoroughbred individual is like that. Some
-fine thoroughbred individuals are like that. This, bhikkhus, is the second
-fine thoroughbred individual found in the world.
+fine thoroughbred individuals are like that. Bhikkhus, this is the second fine
+thoroughbred individual found in the world.
 
 Bhikkhus, another fine thoroughbred individual does not hear that in
 such-and-such village or town a woman or man has come to suffering or has
@@ -95,7 +95,7 @@ the ultimate truth with the body and see through it with discernment.
 
 Just as that fine thoroughbred is stirred and comes to urgency when struck
 through the hide — I say this fine thoroughbred individual is like that. Some
-fine thoroughbred individuals are like that. This, bhikkhus, is the third fine
+fine thoroughbred individuals are like that. Bhikkhus, this is the third fine
 thoroughbred individual found in the world.
 
 Bhikkhus, another fine thoroughbred individual does not hear that in
@@ -110,11 +110,10 @@ and see through it with discernment.
 
 Just as that fine thoroughbred is stirred and comes to urgency when struck to
 the bone — I say this fine thoroughbred individual is like that. Some fine
-thoroughbred individuals are like that. This, bhikkhus, is the fourth fine
+thoroughbred individuals are like that. Bhikkhus, this is the fourth fine
 thoroughbred individual found in the world.
 
-These, bhikkhus, are the four fine thoroughbred individuals found in the
-world."
+Bhikkhus, these are the four fine thoroughbred individuals found in the world."
 
 The third discourse is finished.
 
@@ -135,7 +134,7 @@ The third discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an4.113/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an4-113-patoda-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `fcd415f1`
+- **Last editorial review:** 2026-08-23 · body version `5b174ac0`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%204.113) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -151,6 +150,5 @@ The third discourse is finished.
 </nav>
 
 
-*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

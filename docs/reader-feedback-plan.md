@@ -44,7 +44,7 @@ Enable the system on **SN 36.6, One Arrow, Not Two** first.
   newcomers are likely to reach it without being recruited.
 - It has the highest lexicon exposure of the three pilot texts: `felt
   experience`, `ordinary person`, `noble disciple`, `resistance`, `underlying
-  tendency`, `mixed feeling`, `escape`, and four SN 36.6 phrase records. That
+  tendency`, `neutral feeling`, `escape`, and four SN 36.6 phrase records. That
   is where feedback can inform lexicon decisions rather than only local
   wording.
 - At about 780 words and 38 passages it is long enough to reveal

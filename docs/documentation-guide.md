@@ -154,6 +154,7 @@ These profiles support notes, context rules, alternates, and authority reasoning
 
 ### Current State
 
+- [`plain-readability-handoff.md`](plain-readability-handoff.md): handoff notes for the 2026-11-09 plain-readability pass — decisions, what changed, what was left, and next steps
 - [`repository-review-2026-03.md`](repository-review-2026-03.md): current structural review snapshot
 
 ### Generated Reference Material

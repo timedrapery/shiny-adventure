@@ -7,7 +7,7 @@
 
 *SN 35.28, the Āditta Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 675 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 689 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -36,11 +36,11 @@ There the Buddha addressed the bhikkhus:
 
 ### All Is Burning
 
-"Bhikkhus, all is burning. And what, bhikkhus, is the all that is burning?
+"Bhikkhus, all is burning. And what is the all that is burning, bhikkhus?
 
 The eye is burning. Sights are burning. Eye-knowing is burning. Eye-contact
 is burning. And whatever felt experience arises conditioned by eye-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -48,7 +48,7 @@ pain, distress, and despair — so I say.
 
 The ear is burning. Sounds are burning. Ear-knowing is burning. Ear-contact
 is burning. And whatever felt experience arises conditioned by ear-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -56,7 +56,7 @@ pain, distress, and despair — so I say.
 
 The nose is burning. Smells are burning. Nose-knowing is burning. Nose-contact
 is burning. And whatever felt experience arises conditioned by nose-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -64,7 +64,7 @@ pain, distress, and despair — so I say.
 
 The tongue is burning. Tastes are burning. Tongue-knowing is burning.
 Tongue-contact is burning. And whatever felt experience arises conditioned by
-tongue-contact — whether pleasant, painful, or mixed — that too is burning.
+tongue-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -72,7 +72,7 @@ pain, distress, and despair — so I say.
 
 The body is burning. Touches are burning. Body-knowing is burning.
 Body-contact is burning. And whatever felt experience arises conditioned by
-body-contact — whether pleasant, painful, or mixed — that too is burning.
+body-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -80,7 +80,7 @@ pain, distress, and despair — so I say.
 
 The thinking mind is burning. Ideas are burning. Mind-knowing is burning.
 Mind-contact is burning. And whatever felt experience arises conditioned by
-mind-contact — whether pleasant, painful, or mixed — that too is burning.
+mind-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -88,37 +88,37 @@ pain, distress, and despair — so I say.
 
 ### Disenchantment and Release
 
-Seeing this, bhikkhus, a learned noble disciple grows disenchanted with the
-eye, grows disenchanted with sights, grows disenchanted with eye-knowing,
-grows disenchanted with eye-contact. And with whatever felt experience arises
-conditioned by eye-contact — whether pleasant, painful, or mixed — with that
+Bhikkhus, seeing this, a learned noble disciple grows disenchanted with the
+eye, grows disenchanted with sights, grows disenchanted with eye-knowing, grows
+disenchanted with eye-contact. And with whatever felt experience arises
+conditioned by eye-contact — whether pleasant, painful, or neutral — with that
 too they grow disenchanted.
 
 They grow disenchanted with the ear, with sounds, with ear-knowing, with
 ear-contact, and with whatever felt experience arises conditioned by
-ear-contact — whether pleasant, painful, or mixed.
+ear-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the nose, with smells, with nose-knowing, with
 nose-contact, and with whatever felt experience arises conditioned by
-nose-contact — whether pleasant, painful, or mixed.
+nose-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the tongue, with tastes, with tongue-knowing,
 with tongue-contact, and with whatever felt experience arises conditioned by
-tongue-contact — whether pleasant, painful, or mixed.
+tongue-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the body, with touches, with body-knowing, with
 body-contact, and with whatever felt experience arises conditioned by
-body-contact — whether pleasant, painful, or mixed.
+body-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the thinking mind, with ideas, with mind-knowing,
 with mind-contact. And with whatever felt experience arises conditioned by
-mind-contact — whether pleasant, painful, or mixed — with that too they grow
+mind-contact — whether pleasant, painful, or neutral — with that too they grow
 disenchanted.
 
-Growing disenchanted, they fade. Fading, they are released. Being released,
-the knowledge arises: 'Released.' They understand: 'Birth is finished, the
-spiritual life has been lived, what had to be done has been done, there is
-nothing further for this.'"
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.' They
+discern: 'Birth is worn away, the spiritual life has been lived, what had to be
+done has been done, there is no more of this state of being.'"
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
 Buddha's words. And while this discourse was being spoken, the hearts of those
@@ -167,7 +167,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn35.28/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn35-28-aditta-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `b159e8dd`
+- **Last editorial review:** 2026-08-23 · body version `417a6e30`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2035.28) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -190,6 +190,7 @@ The sixth discourse is finished.
 *[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
+*[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

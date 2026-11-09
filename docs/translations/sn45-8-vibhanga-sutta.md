@@ -106,19 +106,17 @@ This is called right effort.
 And what is right remembering?
 
 A bhikkhu remains observing the body in relation to the body—ardent, clearly
-knowing, and remembering—having removed coveting and distress regarding the
-world.
+knowing, remembering, and with coveting and distress about the world put aside.
 
 They remain observing felt experience in relation to felt experience—ardent,
-clearly knowing, and remembering—having removed coveting and distress
-regarding the world.
+clearly knowing, remembering, and with coveting and distress about the world
+put aside.
 
 They remain observing the heart in relation to the heart—ardent, clearly
-knowing, and remembering—having removed coveting and distress regarding the
-world.
+knowing, remembering, and with coveting and distress about the world put aside.
 
-They remain observing dhammas among dhammas—ardent, clearly knowing, and
-remembering—having removed coveting and distress regarding the world.
+They remain observing dhammas among dhammas—ardent, clearly knowing,
+remembering, and with coveting and distress about the world put aside.
 
 This is called right remembering.
 

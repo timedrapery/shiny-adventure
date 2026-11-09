@@ -43,7 +43,7 @@ source-audit calls, and edition notes that govern it.
   `ignorant wanting for non-becoming`.
 - `vedanā` remains `felt experience` in the main process language. The three
   named feeling registers use the existing minor records: `pleasant feeling`,
-  `painful feeling`, and `mixed feeling`.
+  `painful feeling`, and `neutral feeling`.
 - `dukkha` remains `dissatisfaction`, including the `whole heap of
   dissatisfaction` formula.
 - `parinibbāyati` is rendered `personally reaches final nibbāna`, preserving

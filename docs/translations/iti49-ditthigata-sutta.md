@@ -47,9 +47,9 @@ are.'
 
 "And how do those who see clearly recognize what is happening?
 
-"Here a bhikkhu sees what has come to be simply as what has come to be. Seeing
-it this way, they practice for disenchantment with it, for its fading, and for
-its quenching.
+"A bhikkhu sees what has come to be simply as what has come to be. Seeing it
+this way, they practice for disenchantment with it, for its fading, and for its
+quenching.
 
 "This is how those who see clearly recognize what is happening."
 

@@ -7,7 +7,7 @@
 
 *SN 12.2, the Paṭiccasamuppāda-vibhaṅga Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 6 min · 908 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 6 min · 907 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -47,7 +47,7 @@ carefully and pay close attention. I will speak."
 
 The Buddha said this:
 
-"And what, bhikkhus, is dependent arising?
+"And what is dependent arising, bhikkhus?
 
 With ignorance as condition, putting things together;
 with putting things together as condition, knowing;
@@ -66,7 +66,7 @@ That is how this whole heap of dissatisfaction comes to arise."
 
 ### Ageing And Dying
 
-"And what, bhikkhus, is ageing and dying?
+"And what is ageing and dying, bhikkhus?
 
 Whatever ageing, wearing out, brokenness of teeth, greying of hair, wrinkling
 of skin, decline of life, and maturing of the faculties there is for the
@@ -80,7 +80,7 @@ Such is ageing, and such is death. This is called ageing and dying."
 
 ### Birth
 
-"And what, bhikkhus, is birth?
+"And what is birth, bhikkhus?
 
 Whatever birth, being born, descent, appearance, manifestation of the heaps,
 and obtaining of the fields there is for the various beings in the various
@@ -88,7 +88,7 @@ classes of beings: this is called birth."
 
 ### Becoming
 
-"And what, bhikkhus, is becoming?
+"And what is becoming, bhikkhus?
 
 There are these three kinds of becoming:
 
@@ -100,7 +100,7 @@ This is called becoming."
 
 ### Taking Personally
 
-"And what, bhikkhus, is taking personally?
+"And what is taking personally, bhikkhus?
 
 There are these four ways of taking personally:
 
@@ -113,7 +113,7 @@ This is called taking personally."
 
 ### Ignorant Wanting
 
-"And what, bhikkhus, is ignorant wanting?
+"And what is ignorant wanting, bhikkhus?
 
 There are these six classes of ignorant wanting:
 
@@ -128,7 +128,7 @@ This is called ignorant wanting."
 
 ### Felt Experience
 
-"And what, bhikkhus, is felt experience?
+"And what is felt experience, bhikkhus?
 
 There are these six classes of felt experience:
 
@@ -143,7 +143,7 @@ This is called felt experience."
 
 ### Contact
 
-"And what, bhikkhus, is contact?
+"And what is contact, bhikkhus?
 
 There are these six classes of contact:
 
@@ -158,7 +158,7 @@ This is called contact."
 
 ### The Six Fields Of Experience
 
-"And what, bhikkhus, are the six fields of experience?
+"And what are the six fields of experience, bhikkhus?
 
 - the eye sense field
 - the ear sense field
@@ -171,7 +171,7 @@ These are called the six fields of experience."
 
 ### Name-And-Form
 
-"And what, bhikkhus, is name-and-form?
+"And what is name-and-form, bhikkhus?
 
 - felt experience
 - recognition
@@ -188,7 +188,7 @@ Such is name, and such is form. This is called name-and-form."
 
 ### Knowing
 
-"And what, bhikkhus, is knowing?
+"And what is knowing, bhikkhus?
 
 There are these six classes of knowing:
 
@@ -203,7 +203,7 @@ This is called knowing."
 
 ### Putting Things Together
 
-"And what, bhikkhus, is putting things together?
+"And what is putting things together, bhikkhus?
 
 There are these three kinds of putting things together:
 
@@ -215,7 +215,7 @@ These are called putting things together."
 
 ### Ignorance
 
-"And what, bhikkhus, is ignorance?
+"And what is ignorance, bhikkhus?
 
 Not knowing about dissatisfaction, the origin of dissatisfaction, the
 quenching of dissatisfaction, and the practice leading to the quenching of
@@ -225,7 +225,7 @@ This is called ignorance."
 
 ### The Forward And Reverse Summary
 
-"And so, bhikkhus, with ignorance as condition, putting things together;
+"Bhikkhus, so with ignorance as condition, putting things together;
 with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;
@@ -294,7 +294,7 @@ Buddha had said.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>name-and-form</dfn></dt>
@@ -317,7 +317,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `29ceade9`
+- **Last editorial review:** 2026-08-23 · body version `10524ad1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -348,7 +348,7 @@ Buddha had said.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.

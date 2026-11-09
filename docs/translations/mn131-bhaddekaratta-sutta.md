@@ -150,9 +150,9 @@ This is how you do not long for the future.
 
 "And how are you pulled away by what is happening now, bhikkhus?
 
-Here, an unlearned ordinary person has not seen the noble ones and is
-unskilled and untrained in the noble Dhamma. They have not seen true persons
-and are unskilled and untrained in the true person's Dhamma.
+An unlearned ordinary person has not seen the noble ones and is unskilled and
+untrained in the noble Dhamma. They have not seen true persons and are
+unskilled and untrained in the true person's Dhamma.
 
 They regard form as self, or self as having form, or form as in self, or self
 as in form.
@@ -176,9 +176,9 @@ This is how you are pulled away by what is happening now.
 
 "And how are you not pulled away by what is happening now, bhikkhus?
 
-Here, a learned noble disciple has seen the noble ones and is skilled and
-trained in the noble Dhamma. They have seen true persons and are skilled and
-trained in the true person's Dhamma.
+A learned noble disciple has seen the noble ones and is skilled and trained in
+the noble Dhamma. They have seen true persons and are skilled and trained in
+the true person's Dhamma.
 
 They do not regard form as self, or self as having form, or form as in self,
 or self as in form.

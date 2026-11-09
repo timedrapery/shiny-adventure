@@ -30,7 +30,7 @@ These are the three trainings that include them all.
 
 ### Firm in What Matters
 
-Here a bhikkhu completely fulfills conduct, unification of mind, and discernment.
+A bhikkhu completely fulfills conduct, unification of mind, and discernment.
 
 They may break some lesser and minor training rules, then make things right and
 return to good standing.

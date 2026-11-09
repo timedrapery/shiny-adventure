@@ -43,7 +43,7 @@ above verse 288.
 - `dassanassa visuddhiyā` is `for the purifying of vision`, and `esa maggo
   visuddhiyā` is `this is the path to purity`. `visuddhi` has no record; it is
   a candidate headword in the Dhammarato profile.
-- `aññāya sallakantanaṁ` is `having understood how the arrow is drawn out`.
+- `aññāya sallakantanaṁ` is `knowing how the arrow is drawn out`.
   `salla` keeps its governed `arrow`, as in SN 36.6.
 - `akkhātāro tathāgatā` is `Tathāgatas only tell the way`. `only` makes the
   contrast with `tumhehi kiccamātappaṁ` (`you yourselves must make the

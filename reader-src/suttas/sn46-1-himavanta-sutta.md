@@ -7,7 +7,7 @@
 
 *SN 46.1, the Himavanta Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 307 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 306 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -46,7 +46,7 @@ From the small rivers they go down into the great rivers. From the great
 rivers they go down into the sea, the great ocean. And there they come to
 greatness and fullness in body.
 
-In just the same way, bhikkhus, a bhikkhu who relies on conduct and is
+Bhikkhus, in just the same way, a bhikkhu who relies on conduct and is
 established in conduct, developing the seven awakening factors and cultivating
 them, reaches greatness and fullness in qualities.
 
@@ -54,7 +54,7 @@ And how does a bhikkhu who relies on conduct and is established in conduct,
 developing the seven awakening factors and cultivating them, reach greatness
 and fullness in qualities?
 
-Here, bhikkhus, a bhikkhu develops:
+Bhikkhus, a bhikkhu develops:
 
 - the remembering awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
@@ -71,7 +71,7 @@ Here, bhikkhus, a bhikkhu develops:
 - the dynamic-balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.
 
-That, bhikkhus, is how a bhikkhu who relies on conduct and is established in
+Bhikkhus, that is how a bhikkhu who relies on conduct and is established in
 conduct, developing the seven awakening factors and cultivating them, reaches
 greatness and fullness in qualities."
 
@@ -120,7 +120,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn46.1/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn46-1-himavanta-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `894fc01b`
+- **Last editorial review:** 2026-11-08 · body version `84d634d7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2046.1) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -139,7 +139,6 @@ The first discourse is finished.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 *[awakening factor]: One of seven qualities developed and kept in balance on the way to waking up.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
-*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
 *[discernment-of-qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.

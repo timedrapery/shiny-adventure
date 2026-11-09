@@ -95,9 +95,9 @@ and unify it.
 And how does a bhikkhu steady the heart within, settle it, make it single, and
 unify it?
 
-Here, Ānanda, quite secluded from sensuality, secluded from unwholesome
-dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
-and pondering, with rejoicing and satisfaction born of seclusion.
+Ānanda, quite secluded from sensuality, secluded from unwholesome dhammas, a
+bhikkhu enters and remains in the first mental theme, with thinking and
+pondering, with rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 singleness of mind, they enter and remain in the second mental theme, without
@@ -113,14 +113,14 @@ gladness and sadness, they enter and remain in the fourth mental theme,
 without discomfort and without ease, purified by dynamic balance and
 remembering.
 
-This is how, Ānanda, a bhikkhu steadies the heart within, settles it, makes
-it single, and unifies it.
+Ānanda, this is how a bhikkhu steadies the heart within, settles it, makes it
+single, and unifies it.
 
 ### Attending to Emptiness
 
 They attend to emptiness internally. As they attend to emptiness internally,
 their heart does not leap forward into emptiness internally, does not become
-clear, does not settle, and is not released. When that is so, Ānanda, the
+clear, does not settle, and is not released. Ānanda, when that is so, the
 bhikkhu discerns: 'As I attend to emptiness internally, my heart does not leap
 forward into emptiness internally, does not become clear, does not settle, and
 is not released.' In this way they clearly know it.
@@ -141,20 +141,20 @@ emptiness internally and externally, does not become clear, does not settle,
 and is not released.' In this way they clearly know it.
 
 They attend to the imperturbable. As they attend to the imperturbable, their
-heart does not leap forward into the imperturbable, does not become clear,
-does not settle, and is not released. When that is so, Ānanda, the bhikkhu
-discerns: 'As I attend to the imperturbable, my heart does not leap forward
-into the imperturbable, does not become clear, does not settle, and is not
-released.' In this way they clearly know it.
+heart does not leap forward into the imperturbable, does not become clear, does
+not settle, and is not released. Ānanda, when that is so, the bhikkhu discerns:
+'As I attend to the imperturbable, my heart does not leap forward into the
+imperturbable, does not become clear, does not settle, and is not released.' In
+this way they clearly know it.
 
 Then, Ānanda, that bhikkhu should steady their heart within, settle it, make
 it single, and unify it in that same earlier sign of unification.
 
 They attend to emptiness internally. As they attend to emptiness internally,
 their heart leaps forward into emptiness internally, becomes clear, settles,
-and is released. When that is so, Ānanda, the bhikkhu discerns: 'As I attend
-to emptiness internally, my heart leaps forward into emptiness internally,
-becomes clear, settles, and is released.' In this way they clearly know it.
+and is released. Ānanda, when that is so, the bhikkhu discerns: 'As I attend to
+emptiness internally, my heart leaps forward into emptiness internally, becomes
+clear, settles, and is released.' In this way they clearly know it.
 
 They attend to emptiness externally. As they attend to emptiness externally,
 their heart leaps forward into emptiness externally, becomes clear, settles,
@@ -171,13 +171,13 @@ becomes clear, settles, and is released.' In this way they clearly know it.
 
 They attend to the imperturbable. As they attend to the imperturbable, their
 heart leaps forward into the imperturbable, becomes clear, settles, and is
-released. When that is so, Ānanda, the bhikkhu discerns: 'As I attend to the
+released. Ānanda, when that is so, the bhikkhu discerns: 'As I attend to the
 imperturbable, my heart leaps forward into the imperturbable, becomes clear,
 settles, and is released.' In this way they clearly know it.
 
 ### Walking, Standing, Sitting, and Lying Down
 
-If, Ānanda, while a bhikkhu is dwelling in this way, their heart inclines to
+Ānanda, if while a bhikkhu is dwelling in this way, their heart inclines to
 walking, they walk, knowing: 'While I walk like this, bad, unwholesome dhammas
 of coveting and distress will not flood in on me.' In this way they clearly
 know it.
@@ -198,7 +198,7 @@ know it.
 
 ### Talk
 
-If, Ānanda, while a bhikkhu is dwelling in this way, their heart inclines to
+Ānanda, if while a bhikkhu is dwelling in this way, their heart inclines to
 talking, they resolve: 'I will not engage in talk that is low, vulgar,
 ordinary, ignoble, and unbeneficial, that does not lead to disenchantment,
 fading, cessation, calming, higher knowing, awakening, or nibbāna: talk about
@@ -218,7 +218,7 @@ they clearly know it.
 
 ### Thinking
 
-If, Ānanda, while a bhikkhu is dwelling in this way, their heart inclines to
+Ānanda, if while a bhikkhu is dwelling in this way, their heart inclines to
 thinking, they resolve: 'I will not think the kinds of thinking that are low,
 vulgar, ordinary, ignoble, and unbeneficial, that do not lead to
 disenchantment, fading, cessation, calming, higher knowing, awakening, or
@@ -239,9 +239,8 @@ by the nose, tastes knowable by the tongue, and tangibles knowable by the body
 that are likable, attractive, agreeable, pleasing, tied to sensuality, and
 passion stirring. These are the five kinds of sensual stimulation.
 
-Here a bhikkhu should keep checking their own heart: 'Does my mind become
-involved with one or another field among these five kinds of sensual
-stimulation?'
+A bhikkhu should keep checking their own heart: 'Does my mind become involved
+with one or another field among these five kinds of sensual stimulation?'
 
 If, on checking, the bhikkhu discerns, 'My mind does become involved with one
 or another field among these five kinds of sensual stimulation,' then, when
@@ -274,12 +273,12 @@ activities. Such is the vanishing of putting-together activities.
 Such is knowing. Such is the arising of knowing. Such is the vanishing of
 knowing.'
 
-As they remain observing arising and passing away in these five clung-to
-heaps, the conceit 'I am' in the five clung-to heaps is abandoned. When that
-is so, Ānanda, the bhikkhu discerns: 'The conceit "I am" in these five
-clung-to heaps has been abandoned in me.' In this way they clearly know it.
+As they remain observing arising and passing away in these five clung-to heaps,
+the conceit 'I am' in the five clung-to heaps is abandoned. Ānanda, when that
+is so, the bhikkhu discerns: 'The conceit "I am" in these five clung-to heaps
+has been abandoned in me.' In this way they clearly know it.
 
-These dhammas, Ānanda, are entirely wholesome, with wholesome outcomes, noble,
+Ānanda, these dhammas are entirely wholesome, with wholesome outcomes, noble,
 beyond the world, and out of the Wicked One's reach.
 
 ### Why a Disciple Follows the Teacher
@@ -293,9 +292,9 @@ meaning of what he has said. The bhikkhus will remember it after hearing it
 from him."
 
 "Ānanda, it is not for the sake of discourses, songs, and explanations that a
-disciple is worthy to follow the teacher. Why is that? For a long time,
-Ānanda, you have heard those teachings, remembered them, recited them, examined
-them with the mind, and penetrated them well by view.
+disciple is worthy to follow the teacher. Why is that? Ānanda, for a long time,
+you have heard those teachings, remembered them, recited them, examined them
+with the mind, and penetrated them well by view.
 
 But there is talk, Ānanda, that is wholly self-effacing, that helps the heart
 come free of hindrances, and that leads only to disenchantment, fading,
@@ -310,18 +309,18 @@ that a disciple is worthy to follow the teacher, even when told to go away.
 That being so, Ānanda, there can be the ruin of a teacher, the ruin of a
 pupil, and the ruin of someone who lives the spiritual life.
 
-And how, Ānanda, does a teacher come to ruin? Here, Ānanda, some teacher
-resorts to a secluded lodging: a forest, the root of a tree, a mountain, a
-ravine, a hillside cave, a charnel ground, a jungle thicket, the open air, a
-heap of straw. While he lives withdrawn like this, brahmins and householders
-from town and country come flocking to him. When they come flocking to him,
-he becomes infatuated, falls into greed, and turns back to luxury. This is
-called a teacher ruined by the teacher's ruin. Bad, unwholesome dhammas strike
-him down: defiling, leading to renewed becoming, troubling, ripening in
-dissatisfaction, and leading to future birth, aging, and death. This is how a
-teacher comes to ruin.
+And how does a teacher come to ruin, Ānanda? Ānanda, some teacher resorts to a
+secluded lodging: a forest, the root of a tree, a mountain, a ravine, a
+hillside cave, a charnel ground, a jungle thicket, the open air, a heap of
+straw. While he lives withdrawn like this, brahmins and householders from town
+and country come flocking to him. When they come flocking to him, he becomes
+infatuated, falls into greed, and turns back to luxury. This is called a
+teacher ruined by the teacher's ruin. Bad, unwholesome dhammas strike him down:
+defiling, leading to renewed becoming, troubling, ripening in dissatisfaction,
+and leading to future birth, ageing, and death. This is how a teacher comes to
+ruin.
 
-And how, Ānanda, does a pupil come to ruin? A disciple of that same teacher,
+And how does a pupil come to ruin, Ānanda? A disciple of that same teacher,
 following the teacher's example of seclusion, resorts to a secluded lodging: a
 forest, the root of a tree, a mountain, a ravine, a hillside cave, a charnel
 ground, a jungle thicket, the open air, a heap of straw. While he lives
@@ -330,18 +329,18 @@ flocking to him. When they come flocking to him, he becomes infatuated, falls
 into greed, and turns back to luxury. This is called a pupil ruined by the
 pupil's ruin. Bad, unwholesome dhammas strike him down: defiling, leading to
 renewed becoming, troubling, ripening in dissatisfaction, and leading to future
-birth, aging, and death. This is how a pupil comes to ruin.
+birth, ageing, and death. This is how a pupil comes to ruin.
 
-And how, Ānanda, does someone who lives the spiritual life come to ruin? Here,
-Ānanda, a Tathāgata arises in the world, the arahant, the fully awakened
-Buddha, accomplished in knowledge and conduct, holy, knower of the world,
-unsurpassed guide for those fit for training, teacher of gods and humans,
-awakened, blessed. He resorts to a secluded lodging: a forest, the root of a
-tree, a mountain, a ravine, a hillside cave, a charnel ground, a jungle
-thicket, the open air, a heap of straw. While he lives withdrawn like this,
-brahmins and householders from town and country come flocking to him. When
-they come flocking to him, he does not become infatuated, does not fall into
-greed, and does not turn back to luxury.
+And how does someone who lives the spiritual life come to ruin, Ānanda? Ānanda,
+a Tathāgata arises in the world, the arahant, the fully awakened Buddha,
+accomplished in knowledge and conduct, holy, knower of the world, unsurpassed
+guide for those fit for training, teacher of gods and humans, awakened,
+blessed. He resorts to a secluded lodging: a forest, the root of a tree, a
+mountain, a ravine, a hillside cave, a charnel ground, a jungle thicket, the
+open air, a heap of straw. While he lives withdrawn like this, brahmins and
+householders from town and country come flocking to him. When they come
+flocking to him, he does not become infatuated, does not fall into greed, and
+does not turn back to luxury.
 
 But a disciple of that same teacher, following the teacher's example of
 seclusion, resorts to a secluded lodging: a forest, the root of a tree, a
@@ -352,7 +351,7 @@ flocking to him, he becomes infatuated, falls into greed, and turns back to
 luxury. This is called someone who lives the spiritual life ruined by the ruin
 of the spiritual life. Bad, unwholesome dhammas strike him down: defiling,
 leading to renewed becoming, troubling, ripening in dissatisfaction, and
-leading to future birth, aging, and death. This is how someone who lives the
+leading to future birth, ageing, and death. This is how someone who lives the
 spiritual life comes to ruin.
 
 And here, Ānanda, the ruin of someone who lives the spiritual life has a more
@@ -364,21 +363,21 @@ pupil. It even leads to a downfall state.
 So, Ānanda, treat me as a friend, not as an enemy. That will be for your
 welfare and satisfaction for a long time.
 
-And how, Ānanda, do disciples treat the teacher as an enemy and not as a
-friend? Here, Ānanda, out of sympathy, the teacher teaches the disciples the
-Dhamma, seeking their welfare, moved by sympathy: 'This is for your welfare.
-This is for your satisfaction.' His disciples do not want to listen. They do
-not lend an ear, they do not apply their hearts to understanding, and they
-turn away from the teacher's instruction. This is how disciples treat the
-teacher as an enemy and not as a friend.
+Ānanda, how do disciples treat the teacher as an enemy and not as a friend?
+Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma, seeking
+their welfare, moved by sympathy: 'This is for your welfare. This is for your
+satisfaction.' His disciples do not want to listen. They do not lend an ear,
+they do not apply their hearts to understanding, and they turn away from the
+teacher's instruction. This is how disciples treat the teacher as an enemy and
+not as a friend.
 
-And how, Ānanda, do disciples treat the teacher as a friend and not as an
-enemy? Here, Ānanda, out of sympathy, the teacher teaches the disciples the
-Dhamma, seeking their welfare, moved by sympathy: 'This is for your welfare.
-This is for your satisfaction.' His disciples want to listen. They lend an
-ear, they apply their hearts to understanding, and they do not turn away from
-the teacher's instruction. This is how disciples treat the teacher as a
-friend and not as an enemy.
+Ānanda, how do disciples treat the teacher as a friend and not as an enemy?
+Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma, seeking
+their welfare, moved by sympathy: 'This is for your welfare. This is for your
+satisfaction.' His disciples want to listen. They lend an ear, they apply their
+hearts to understanding, and they do not turn away from the teacher's
+instruction. This is how disciples treat the teacher as a friend and not as an
+enemy.
 
 So, Ānanda, treat me as a friend, not as an enemy. That will be for your
 welfare and satisfaction for a long time.

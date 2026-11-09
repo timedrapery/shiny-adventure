@@ -36,7 +36,7 @@ Listen to this.
 
 ### The Five Heaps
 
-"And what, bhikkhus, are the five heaps?
+"And what are the five heaps, bhikkhus?
 
 Whatever form there is, past, future, or present, internal or external, coarse
 or subtle, inferior or superior, far or near:
@@ -67,7 +67,7 @@ These are called the five heaps.
 
 ### The Five Clung-To Heaps
 
-"And what, bhikkhus, are the five clung-to heaps?
+"And what are the five clung-to heaps, bhikkhus?
 
 Whatever form there is, past, future, or present, internal or external, coarse
 or subtle, inferior or superior, far or near, with outflows and fit to be taken
@@ -130,7 +130,7 @@ These are called the five clung-to heaps."
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.48/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-48-khandha-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `b5ac6f59`
+- **Last editorial review:** 2026-08-23 · body version `fb38ded1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.48) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -7,7 +7,7 @@
 
 *SN 12.61, the Assutavā Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 730 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 741 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -37,26 +37,26 @@ Anāthapiṇḍika's monastery.
 ### The Body Is the Easier Thing to Let Go Of
 
 "Bhikkhus, an unlearned ordinary person might well grow disenchanted with this
-body made of the four great elements, might well fade toward it, might well be
-released from it.
+body made of the four great elements. Their passion for it might well fade, and
+they might well be released from it.
 
 Why is that?
 
 Because the building up and the wearing down of this body made of the four
 great elements can be seen, its being taken up and its being put down. So an
-unlearned ordinary person might well grow disenchanted with it, might well fade
-toward it, might well be released from it.
+unlearned ordinary person might well grow disenchanted with it. Their passion
+for it might well fade, and they might well be released from it.
 
-But as for what is called the heart, and the thinking mind, and knowing
-— an unlearned ordinary person is not able to grow disenchanted with that, not
-able to fade toward it, not able to be released from it.
+But as for what is called the heart, and the thinking mind, and knowing — an
+unlearned ordinary person is not able to grow disenchanted with that. Their
+passion for it cannot fade, and they cannot be released from it.
 
 Why is that?
 
 Because for a long time an unlearned ordinary person has held to it, taken it
 as mine, and grasped it: 'This is mine, I am this, this is my self.' So an
-unlearned ordinary person is not able to grow disenchanted with it, not able to
-fade toward it, not able to be released from it.
+unlearned ordinary person is not able to grow disenchanted with it. Their
+passion for it cannot fade, and they cannot be released from it.
 
 ### The Monkey
 
@@ -79,8 +79,8 @@ knowing — by night and by day it arises as one thing and ceases as another.
 
 ### How the Learned Disciple Attends
 
-There, bhikkhus, a learned noble disciple attends closely and wisely to
-dependent arising itself:
+Bhikkhus, a learned noble disciple attends closely and wisely to dependent
+arising itself:
 
 'When this is, this comes to be; from the arising of this, this arises. When
 this is not, this does not come to be; with the quenching of this, this ceases.
@@ -119,12 +119,12 @@ That is how this whole heap of dissatisfaction quenches.'
 
 ### Disenchantment, Fading, and Release
 
-Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with form,
+Bhikkhus, seeing this, a learned noble disciple becomes disenchanted with form,
 disenchanted with felt experience, disenchanted with recognition, disenchanted
 with putting things together, disenchanted with knowing.
 
-Being disenchanted, they fade. Through fading, they are released. When it is
-released, there is the knowledge: 'It is released.'
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.'
 
 They discern: 'Birth is worn away, the spiritual life has been lived, what had
 to be done has been done, there is no more of this state of being.'"
@@ -163,7 +163,7 @@ The first discourse is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>name-and-form</dfn></dt>
@@ -194,7 +194,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.61/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-61-assutava-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `d6425a0e`
+- **Last editorial review:** 2026-08-23 · body version `e6baa344`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.61) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -223,7 +223,7 @@ The first discourse is finished.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

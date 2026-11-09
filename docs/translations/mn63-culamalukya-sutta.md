@@ -110,19 +110,22 @@ person would die.
 Suppose, Mālukyaputta, a man were wounded by an arrow thickly smeared with
 poison, and his friends and companions, his relatives and family, brought a
 surgeon to treat him. But the man would say: 'I will not let this arrow be
-pulled out until I know the name and clan of the man who wounded me; until I
-know whether the man who wounded me was tall, short, or of middle height;
-until I know whether the man who wounded me was dark-skinned, brown-skinned,
-or golden-skinned; until I know which village, town, or city the man who
-wounded me comes from; until I know whether the bow that wounded me was a
-long bow or a crossbow; until I know whether the bowstring was made of fiber,
-reed, sinew, hemp, or bark; until I know whether the shaft was from a wild
-plant or a cultivated one; until I know what kind of feathers were bound to
-the shaft — vulture, heron, hawk, peacock, or some other bird; until I know
-what kind of sinew was used to wrap the shaft — ox, buffalo, deer, or monkey
-sinew; until I know what sort of arrow it was — an ordinary arrow, a curved
-one, a barbed one, one shaped like a calf's tooth, or one shaped like an
-oleander thorn.'
+pulled out until I know the name and clan of the man who wounded me. I will not
+let it be pulled out until I know whether the man who wounded me was tall,
+short, or of middle height. I will not let it be pulled out until I know
+whether the man who wounded me was dark-skinned, brown-skinned, or
+golden-skinned. I will not let it be pulled out until I know which village,
+town, or city the man who wounded me comes from. I will not let it be pulled
+out until I know whether the bow that wounded me was a long bow or a crossbow.
+I will not let it be pulled out until I know whether the bowstring was made of
+fiber, reed, sinew, hemp, or bark. I will not let it be pulled out until I know
+whether the shaft was from a wild plant or a cultivated one. I will not let it
+be pulled out until I know what kind of feathers were bound to the shaft —
+vulture, heron, hawk, peacock, or some other bird. I will not let it be pulled
+out until I know what kind of sinew was used to wrap the shaft — ox, buffalo,
+deer, or monkey sinew. I will not let it be pulled out until I know what sort
+of arrow it was — an ordinary arrow, a curved one, a barbed one, one shaped
+like a calf's tooth, or one shaped like an oleander thorn.'
 
 That man would die, Mālukyaputta, before he ever knew these things.
 

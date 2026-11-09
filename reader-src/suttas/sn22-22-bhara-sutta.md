@@ -7,7 +7,7 @@
 
 *SN 22.22, the Bhāra Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 301 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 303 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -42,8 +42,8 @@ up of the burden, and the putting down of the burden. Listen.
 
 ### The Burden
 
-"And what, bhikkhus, is the burden? It should be said: the five clung-to
-heaps. Which five?
+"And what is the burden, bhikkhus? It should be said: the five clung-to heaps.
+Which five?
 
 - the form clung-to heap
 - the felt-experience clung-to heap
@@ -51,34 +51,34 @@ heaps. Which five?
 - the putting-together-activities clung-to heap
 - the knowing clung-to heap
 
-This, bhikkhus, is called the burden.
+Bhikkhus, this is called the burden.
 
 ### The Carrier of the Burden
 
-"And what, bhikkhus, is the carrier of the burden? It should be said: the
-individual, this venerable one of such a name and such a clan. This,
-bhikkhus, is called the carrier of the burden.
+"And what is the carrier of the burden, bhikkhus? It should be said: the
+individual, this venerable one of such a name and such a clan. Bhikkhus, this
+is called the carrier of the burden.
 
 ### Taking Up the Burden
 
-"And what, bhikkhus, is the taking up of the burden? It is that ignorant
-wanting that leads to renewed becoming, accompanied by relishing and passion,
+"And what is the taking up of the burden, bhikkhus? It is that ignorant wanting
+that leads to renewed becoming, accompanied by relishing and passion,
 delighting here and there. That is:
 
 - ignorant wanting for sensuality
 - ignorant wanting for becoming
 - ignorant wanting for non-becoming
 
-This, bhikkhus, is called the taking up of the burden.
+Bhikkhus, this is called the taking up of the burden.
 
 ### Putting Down the Burden
 
-"And what, bhikkhus, is the putting down of the burden? It is the complete
-fading and quenching of that very ignorant wanting: giving it up,
-relinquishing it, freedom, non-attachment. This, bhikkhus, is called the
-putting down of the burden."
+"And what is the putting down of the burden, bhikkhus? It is the complete
+fading and quenching of that very ignorant wanting: giving it up, relinquishing
+it, freedom, non-attachment. Bhikkhus, this is called the putting down of the
+burden."
 
-That is what the Buddha said. Having said this, the Sugata, the Teacher, went
+That is what the Buddha said. After saying this, the Sugata, the Teacher, went
 on to say:
 
 ### Verses
@@ -89,9 +89,9 @@ on to say:
 <span class="verse-line verse-line--last">putting the burden down is satisfaction.</span>
 {: .verse }
 
-<span class="verse-line">Having put the heavy burden down</span>
-<span class="verse-line">and taken up no other,</span>
-<span class="verse-line">having pulled out ignorant wanting together with its root,</span>
+<span class="verse-line">They have put the heavy burden down</span>
+<span class="verse-line">and taken up no other.</span>
+<span class="verse-line">They have pulled out ignorant wanting together with its root;</span>
 <span class="verse-line verse-line--last">they are free of hunger and have reached complete quenching."</span>
 {: .verse }
 
@@ -119,7 +119,7 @@ The first discourse is finished.
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -136,7 +136,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.22/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-22-bhara-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `114c637b`
+- **Last editorial review:** 2026-11-08 · body version `b7f1f96a`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.22) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -161,7 +161,7 @@ The first discourse is finished.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.

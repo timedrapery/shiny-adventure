@@ -53,8 +53,8 @@ These are called the exertion conditioners.
 So there is this desire, and this unification through desire, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
-desire together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through desire
+together with the exertion conditioners.
 
 ### Unification Through Energy
 
@@ -71,8 +71,8 @@ These are called the exertion conditioners.
 So there is this energy, and this unification through energy, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
-energy together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through energy
+together with the exertion conditioners.
 
 ### Unification Through the Heart
 
@@ -90,8 +90,8 @@ These are called the exertion conditioners.
 So there is this heart, and this unification through the heart,
 and these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
-the heart together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through the
+heart together with the exertion conditioners.
 
 ### Unification Through Investigation
 
@@ -111,5 +111,5 @@ These are called the exertion conditioners.
 So there is this investigation, and this unification through investigation, and
 these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that has unification through
 investigation together with the exertion conditioners."

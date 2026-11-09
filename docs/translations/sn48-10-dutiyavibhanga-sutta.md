@@ -40,24 +40,23 @@ What five? The faculty of confidence ... the faculty of discernment.
 
 ### The Faculty of Confidence
 
-And what, bhikkhus, is the faculty of confidence?
+And what is the faculty of confidence, bhikkhus?
 
-Here a noble disciple has confidence. They place confidence in the awakening
-of the Tathāgata: 'So indeed is the Buddha — an arahant, perfectly and fully
-awakened, accomplished in knowledge and conduct, well-departed, knower of the
-world, unsurpassed guide for those to be tamed, teacher of gods and humans,
-awakened, blessed.'
+A noble disciple has confidence. They place confidence in the awakening of the
+Tathāgata: 'So indeed is the Buddha — an arahant, perfectly and fully awakened,
+accomplished in knowledge and conduct, well-departed, knower of the world,
+unsurpassed guide for those to be tamed, teacher of gods and humans, awakened,
+blessed.'
 
-This, bhikkhus, is called the faculty of confidence.
+Bhikkhus, this is called the faculty of confidence.
 
 ### The Faculty of Energy
 
-And what, bhikkhus, is the faculty of energy?
+And what is the faculty of energy, bhikkhus?
 
-Here a noble disciple lives with aroused energy for the abandoning of
-unwholesome qualities and the taking up of wholesome qualities — steadfast,
-firm in exertion, not putting down the burden with respect to wholesome
-qualities.
+A noble disciple lives with aroused energy for the abandoning of unwholesome
+qualities and the taking up of wholesome qualities — steadfast, firm in
+exertion, not putting down the burden with respect to wholesome qualities.
 
 They generate desire for the non-arising of unarisen harmful, unwholesome
 qualities; they make an effort, arouse energy, take hold of the heart,
@@ -76,33 +75,33 @@ abundance, development, and fulfilment of arisen wholesome qualities; they
 make an effort, arouse energy, take hold of the heart, and exert
 themselves.
 
-This, bhikkhus, is called the faculty of energy.
+Bhikkhus, this is called the faculty of energy.
 
 ### The Faculty of Remembering
 
-And what, bhikkhus, is the faculty of remembering?
+And what is the faculty of remembering, bhikkhus?
 
-Here a noble disciple remembers. They possess the highest carefulness in
-remembering, and they recall and call to mind what was done and said long ago.
+A noble disciple remembers. They have the highest carefulness in remembering,
+and they recall and call to mind what was done and said long ago.
 
 They remain observing the body in relation to the body, ardent, with clear
-knowing, with remembering, having removed coveting and distress regarding the
-world.
+knowing, with remembering, and with coveting and distress about the world put
+aside.
 
 They remain observing felt experience ...
 
 They remain observing the heart ...
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world.
+remembering, and with coveting and distress about the world put aside.
 
-This, bhikkhus, is called the faculty of remembering.
+Bhikkhus, this is called the faculty of remembering.
 
 ### The Faculty of Unification
 
-And what, bhikkhus, is the faculty of unification?
+And what is the faculty of unification, bhikkhus?
 
-Here a noble disciple, having made relinquishment the object, gains unification of mind,
+A noble disciple makes relinquishment the object, gains unification of mind,
 gains directness of heart.
 
 Quite secluded from sensuality, secluded from unwholesome dhammas, they enter
@@ -124,15 +123,15 @@ ending of gladness and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This, bhikkhus, is called the faculty of unification.
+Bhikkhus, this is called the faculty of unification.
 
 ### The Faculty of Discernment
 
-And what, bhikkhus, is the faculty of discernment?
+And what is the faculty of discernment, bhikkhus?
 
-Here a noble disciple discerns. They possess the discernment that leads to
-arising and passing away — noble, penetrating, rightly leading to the wearing
-away of dissatisfaction.
+A noble disciple discerns. They have the discernment that leads to arising and
+passing away — noble, penetrating, rightly leading to the wearing away of
+dissatisfaction.
 
 They discern it as it has come to be: 'This is dissatisfaction.' They discern
 it as it has come to be: 'This is the origin of dissatisfaction.' They discern
@@ -140,6 +139,6 @@ it as it has come to be: 'This is the quenching of dissatisfaction.' They
 discern it as it has come to be: 'This is the way of practice leading to the
 quenching of dissatisfaction.'
 
-This, bhikkhus, is called the faculty of discernment.
+Bhikkhus, this is called the faculty of discernment.
 
-These, bhikkhus, are the five faculties."
+Bhikkhus, these are the five faculties."

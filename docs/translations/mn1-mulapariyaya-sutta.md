@@ -41,9 +41,9 @@ The Buddha said this:
 
 ### The Ordinary Person
 
-"Here, bhikkhus, an unlearned ordinary person, who has no regard for noble
-ones and is untrained and undisciplined in their Dhamma, who has no regard for
-good people and is untrained and undisciplined in their Dhamma:
+"Bhikkhus, an unlearned ordinary person, who has no regard for noble ones and
+is untrained and undisciplined in their Dhamma, who has no regard for good
+people and is untrained and undisciplined in their Dhamma:
 
 - They recognize earth as earth. Once they have recognized earth as earth, they
   think of themselves as earth, they think of themselves in earth, they think of
@@ -392,7 +392,7 @@ released through final knowledge:
   or apart from it, does not think of it as 'mine', and does not delight in it.
 - Why? The Tathāgata knows that delight is the root of
   dissatisfaction, that with becoming there is birth, and that for whatever is
-  born there are aging and death. Therefore, with the wearing away, fading,
+  born there are ageing and death. Therefore, with the wearing away, fading,
   quenching, giving up, and relinquishment of ignorant wanting in every way,
   the Tathāgata has awakened to unsurpassed full awakening, I say.
 

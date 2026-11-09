@@ -15,7 +15,7 @@ source-audit calls, and edition notes that govern it.
   epithets and the four mental themes, so that the faculties and the
   strengths read as the same qualities under two names.
 - Working method: the discourse names the five strengths, then defines each
-  one in a fixed frame: `And what is ...? Here a noble disciple ... This is
+  one in a fixed frame: `And what is ...? A noble disciple ... This is
   called ...`. The frame is kept for all five.
 
 ## Governing Decisions

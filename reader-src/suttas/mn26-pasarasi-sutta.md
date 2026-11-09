@@ -7,7 +7,7 @@
 
 *MN 26, the Pāsarāsi Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,411 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,426 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -78,60 +78,59 @@ the Buddha arrived."
 
 "Good, bhikkhus! This is fitting for gentlemen who have gone forth from home
 into homelessness out of confidence — that you would sit together talking about
-the Dhamma. When gathered together, bhikkhus, you should do one of two things:
+the Dhamma. Bhikkhus, when gathered together, you should do one of two things:
 talk about the Dhamma, or keep noble silence.
 
 Bhikkhus, there are two searches: the noble search and the ignoble search.
 
-And what is the ignoble search? Here, someone who is themselves subject to
-birth seeks only what is subject to birth. Being themselves subject to aging,
-they seek only what is subject to aging. Being themselves subject to sickness,
-they seek only what is subject to sickness. Being themselves subject to death,
-they seek only what is subject to death. Being themselves subject to sorrow,
-they seek only what is subject to sorrow. Being themselves subject to
-corruption, they seek only what is subject to corruption.
+And what is the ignoble search? Someone who is themselves subject to birth
+seeks only what is subject to birth. Being themselves subject to ageing, they
+seek only what is subject to ageing. Being themselves subject to sickness, they
+seek only what is subject to sickness. Being themselves subject to death, they
+seek only what is subject to death. Being themselves subject to sorrow, they
+seek only what is subject to sorrow. Being themselves subject to corruption,
+they seek only what is subject to corruption.
 
-And what should be described as subject to birth? Partners and children,
-bhikkhus, are subject to birth; male and female servants are subject to birth;
+And what should be described as subject to birth? Bhikkhus, partners and
+children are subject to birth; male and female servants are subject to birth;
 goats and sheep are subject to birth; chickens and pigs are subject to birth;
 elephants, cattle, horses, and mares are subject to birth; gold and silver are
 subject to birth. These are supports subject to birth. Someone who is tied,
 infatuated, and immersed in these — being themselves subject to birth — seeks
 only what is subject to birth.
 
-And what should be described as subject to aging? Partners and children,
-bhikkhus, are subject to aging; male and female servants are subject to aging;
-goats and sheep are subject to aging; chickens and pigs are subject to aging;
-elephants, cattle, horses, and mares are subject to aging; gold and silver are
-subject to aging. These are supports subject to aging. Someone who is tied,
-infatuated, and immersed in these — being themselves subject to aging — seeks
-only what is subject to aging.
+And what should be described as subject to ageing? Bhikkhus, partners and
+children are subject to ageing; male and female servants are subject to ageing;
+goats and sheep are subject to ageing; chickens and pigs are subject to ageing;
+elephants, cattle, horses, and mares are subject to ageing; gold and silver are
+subject to ageing. These are supports subject to ageing. Someone who is tied,
+infatuated, and immersed in these — being themselves subject to ageing — seeks
+only what is subject to ageing.
 
-And what should be described as subject to sickness? Partners and children,
-bhikkhus, are subject to sickness; male and female servants are subject to
+And what should be described as subject to sickness? Bhikkhus, partners and
+children are subject to sickness; male and female servants are subject to
 sickness; goats and sheep are subject to sickness; chickens and pigs are
 subject to sickness; elephants, cattle, horses, and mares are subject to
 sickness. These are supports subject to sickness. Someone who is tied,
 infatuated, and immersed in these — being themselves subject to sickness —
 seeks only what is subject to sickness.
 
-And what should be described as subject to death? Partners and children,
-bhikkhus, are subject to death; male and female servants are subject to death;
+And what should be described as subject to death? Bhikkhus, partners and
+children are subject to death; male and female servants are subject to death;
 goats and sheep are subject to death; chickens and pigs are subject to death;
 elephants, cattle, horses, and mares are subject to death. These are supports
 subject to death. Someone who is tied, infatuated, and immersed in these —
 being themselves subject to death — seeks only what is subject to death.
 
-And what should be described as subject to sorrow? Partners and children,
-bhikkhus, are subject to sorrow; male and female servants are subject to
-sorrow; goats and sheep are subject to sorrow; chickens and pigs are subject to
-sorrow; elephants, cattle, horses, and mares are subject to sorrow. These are
-supports subject to sorrow. Someone who is tied, infatuated, and immersed in
-these — being themselves subject to sorrow — seeks only what is subject to
-sorrow.
+And what should be described as subject to sorrow? Bhikkhus, partners and
+children are subject to sorrow; male and female servants are subject to sorrow;
+goats and sheep are subject to sorrow; chickens and pigs are subject to sorrow;
+elephants, cattle, horses, and mares are subject to sorrow. These are supports
+subject to sorrow. Someone who is tied, infatuated, and immersed in these —
+being themselves subject to sorrow — seeks only what is subject to sorrow.
 
-And what should be described as subject to corruption? Partners and children,
-bhikkhus, are subject to corruption; male and female servants are subject to
+And what should be described as subject to corruption? Bhikkhus, partners and
+children are subject to corruption; male and female servants are subject to
 corruption; goats and sheep are subject to corruption; chickens and pigs are
 subject to corruption; elephants, cattle, horses, and mares are subject to
 corruption; gold and silver are subject to corruption. These are supports
@@ -139,34 +138,34 @@ subject to corruption. Someone who is tied, infatuated, and immersed in these �
 being themselves subject to corruption — seeks only what is subject to
 corruption. This is the ignoble search.
 
-And what is the noble search? Here, someone who is themselves subject to birth,
-having seen the danger in what is subject to birth, seeks nibbāna — the supreme
-security from the yoke, free from birth. Being themselves subject to aging,
-having seen the danger in what is subject to aging, they seek nibbāna — the
-supreme security from the yoke, free from aging. Being themselves subject to
-sickness, having seen the danger in what is subject to sickness, they seek
-nibbāna — the supreme security from the yoke, free from sickness. Being
-themselves subject to death, having seen the danger in what is subject to
-death, they seek nibbāna — the supreme security from the yoke, free from
-death. Being themselves subject to sorrow, having seen the danger in what is
-subject to sorrow, they seek nibbāna — the supreme security from the yoke,
-free from sorrow. Being themselves subject to corruption, having seen the
-danger in what is subject to corruption, they seek nibbāna — the supreme
-security from the yoke, free from corruption. This is the noble search.
+And what is the noble search? Someone who is themselves subject to birth sees
+the danger in what is subject to birth and seeks nibbāna — the supreme security
+from the yoke, free from birth. They are themselves subject to ageing. Seeing
+the danger in what is subject to ageing, they seek nibbāna — the supreme
+security from the yoke, free from ageing. They are themselves subject to
+sickness. Seeing the danger in what is subject to sickness, they seek nibbāna —
+the supreme security from the yoke, free from sickness. They are themselves
+subject to death. Seeing the danger in what is subject to death, they seek
+nibbāna — the supreme security from the yoke, free from death. They are
+themselves subject to sorrow. Seeing the danger in what is subject to sorrow,
+they seek nibbāna — the supreme security from the yoke, free from sorrow. They
+are themselves subject to corruption. Seeing the danger in what is subject to
+corruption, they seek nibbāna — the supreme security from the yoke, free from
+corruption. This is the noble search.
 
 ### The Bodhisatta's Own Search
 
 Bhikkhus, before my awakening — when I was still unawakened but intent on
 awakening — I too, being myself subject to birth, sought only what was subject
-to birth. Being myself subject to aging, sickness, death, sorrow, and
+to birth. Being myself subject to ageing, sickness, death, sorrow, and
 corruption, I sought only what was subject to those things.
 
 Then it occurred to me: 'Why do I, being myself subject to birth, seek only
-what is subject to birth? Being myself subject to aging, sickness, death,
+what is subject to birth? Being myself subject to ageing, sickness, death,
 sorrow, and corruption, why do I seek only what is subject to those things?
-What if I were to see the danger in what is subject to birth, aging, sickness,
+What if I were to see the danger in what is subject to birth, ageing, sickness,
 death, sorrow, and corruption, and seek nibbāna — the supreme security from
-the yoke, free from birth, aging, sickness, death, sorrow, and corruption?'
+the yoke, free from birth, ageing, sickness, death, sorrow, and corruption?'
 
 ### Going Forth
 
@@ -183,14 +182,14 @@ the spiritual life in this teaching and training."
 
 Āḷāra Kālāma replied: "Stay, venerable. This teaching is such that a sensible
 person can soon realize their own teacher's tradition with their own higher
-knowing, live having entered into it, and make it known."
+knowing, enter it and live in it, and make it known."
 
 I quickly mastered that teaching. Then it occurred to me: 'Āḷāra Kālāma does
-not proclaim "I live having realized this teaching with my own higher knowing,
-having entered into it" by mere faith alone — surely he lives knowing and
-seeing this teaching.' So I approached Āḷāra Kālāma and asked: "Reverend
-Kālāma, up to what point do you proclaim that you have realized this teaching
-with your own higher knowing and entered into it?"
+not proclaim "I have realized this teaching with my own higher knowing, and I
+live in it" by mere faith alone — surely he lives knowing and seeing this
+teaching.' So I approached Āḷāra Kālāma and asked: "Reverend Kālāma, up to what
+point do you proclaim that you have realized this teaching with your own higher
+knowing and entered into it?"
 
 When I said this, he declared the sphere of nothingness.
 
@@ -208,15 +207,15 @@ and entered into it?"
 "It is up to this point, reverend."
 
 "I too, reverend, have realized this teaching with my own higher knowing up to
-this point and live having entered into it."
+this point and enter it and live in it."
 
 "We are fortunate, reverend — how very fortunate — to see such a venerable as
 yourself as a fellow practitioner! The teaching that I have realized with my
-own higher knowing and entered into — that you live having realized with your
-own higher knowing. The teaching that you live having realized with your own
-higher knowing — that I have realized and made known. What I know, you know;
-what you know, I know. As I am, so are you; as you are, so am I. Come now,
-reverend — let us both lead this community together."
+own higher knowing and entered into — that you have realized with your own
+higher knowing and live in. The teaching that you have realized with your own
+higher knowing and live in — that I have realized and made known. What I know,
+you know; what you know, I know. As I am, so are you; as you are, so am I. Come
+now, reverend — let us both lead this community together."
 
 And so Āḷāra Kālāma, my teacher, placed me his student on equal footing with
 himself and honored me with high honor.
@@ -235,14 +234,14 @@ life in this teaching and training."
 
 Uddaka, son of Rāma, replied: "Stay, venerable. This teaching is such that a
 sensible person can soon realize their own teacher's tradition with their own
-higher knowing, live having entered into it, and make it known."
+higher knowing, enter it and live in it, and make it known."
 
 I quickly mastered that teaching. Then it occurred to me: 'Rāma did not
-proclaim "I live having realized this teaching with my own higher knowing,
-having entered into it" by mere faith alone — surely he lived knowing and
-seeing this teaching.' So I approached Uddaka, son of Rāma, and asked:
-"Reverend, up to what point did Rāma proclaim that he had realized this
-teaching with his own higher knowing and entered into it?"
+proclaim "I have realized this teaching with my own higher knowing, and I live
+in it" by mere faith alone — surely he lived knowing and seeing this teaching.'
+So I approached Uddaka, son of Rāma, and asked: "Reverend, up to what point did
+Rāma proclaim that he had realized this teaching with his own higher knowing
+and entered into it?"
 
 When I said this, he declared the sphere of neither-recognition-nor-non-recognition.
 
@@ -260,15 +259,15 @@ into it?"
 "He did, reverend."
 
 "I too, reverend, have realized this teaching with my own higher knowing up to
-this point and live having entered into it."
+this point and enter it and live in it."
 
 "We are fortunate, reverend — how very fortunate — to see such a venerable as
-yourself as a fellow practitioner! The teaching that Rāma realized with his
-own higher knowing and entered into — that you live having realized with your
-own higher knowing. The teaching that you live having realized with your own
-higher knowing — that Rāma realized and made known. What Rāma knew, you know;
-what you know, Rāma knew. As Rāma was, so are you; as you are, so was Rāma.
-Come now, reverend — you should lead this community."
+yourself as a fellow practitioner! The teaching that Rāma realized with his own
+higher knowing and entered into — that you have realized with your own higher
+knowing and live in. The teaching that you have realized with your own higher
+knowing and live in — that Rāma realized and made known. What Rāma knew, you
+know; what you know, Rāma knew. As Rāma was, so are you; as you are, so was
+Rāma. Come now, reverend — you should lead this community."
 
 And so Uddaka, son of Rāma — my fellow practitioner — placed me in the
 position of teacher and honored me with high honor.
@@ -293,20 +292,20 @@ pleasant banks, and nearby a village to go to for alms. This is good enough
 for striving, for a person of good family intent on striving.' And so I sat
 down right there, thinking: 'This is good enough for striving.'
 
-Being myself subject to birth, having seen the danger in what is subject to
-birth, I sought nibbāna — the supreme security from the yoke, free from birth
-— and I found it. Being myself subject to aging, having seen the danger in what
-is subject to aging, I sought nibbāna — the supreme security from the yoke,
-free from aging — and I found it. Being myself subject to sickness, having seen
-the danger in what is subject to sickness, I sought nibbāna — the supreme
-security from the yoke, free from sickness — and I found it. Being myself
-subject to death, having seen the danger in what is subject to death, I sought
-nibbāna — the supreme security from the yoke, free from death — and I found
-it. Being myself subject to sorrow, having seen the danger in what is subject
-to sorrow, I sought nibbāna — the supreme security from the yoke, free from
-sorrow — and I found it. Being myself subject to corruption, having seen the
-danger in what is subject to corruption, I sought nibbāna — the supreme
-security from the yoke, free from corruption — and I found it.
+I was myself subject to birth. Seeing the danger in what is subject to birth, I
+sought nibbāna — the supreme security from the yoke, free from birth — and I
+found it. I was myself subject to ageing. Seeing the danger in what is subject
+to ageing, I sought nibbāna — the supreme security from the yoke, free from
+ageing — and I found it. I was myself subject to sickness. Seeing the danger in
+what is subject to sickness, I sought nibbāna — the supreme security from the
+yoke, free from sickness — and I found it. I was myself subject to death.
+Seeing the danger in what is subject to death, I sought nibbāna — the supreme
+security from the yoke, free from death — and I found it. I was myself subject
+to sorrow. Seeing the danger in what is subject to sorrow, I sought nibbāna —
+the supreme security from the yoke, free from sorrow — and I found it. I was
+myself subject to corruption. Seeing the danger in what is subject to
+corruption, I sought nibbāna — the supreme security from the yoke, free from
+corruption — and I found it.
 
 Knowledge and vision arose in me: 'My release is unshakable. This is my last
 birth. There is no more further becoming.'
@@ -364,7 +363,7 @@ That is what Brahmā Sahampati said. Then he said further:
 > so too, Wise One, All-Seeing,
 > ascending the palace of Dhamma,
 > look upon the people swamped in sorrow,
-> yourself sorrowless, overcome by birth and aging.
+> yourself sorrowless, overcome by birth and ageing.
 >
 > Rise, hero! Victor in battle,
 > caravan-leader, free of debt, wander the world.
@@ -450,8 +449,8 @@ I replied to Upaka in verse:
 
 > I am the all-conqueror, the knower of all,  
 > unstained in the midst of all things.  
-> Having given up all, freed through the ending of ignorant wanting —  
-> having known this for myself, whose follower should I be?  
+> I have given up all and am freed through the ending of ignorant wanting.  
+> I know this for myself, so whose follower should I be?  
 >  
 > I have no teacher;  
 > there is no one like me.  
@@ -466,7 +465,7 @@ I replied to Upaka in verse:
 > To set rolling the Wheel of Dhamma  
 > I go to the city of Kāsi.  
 > In a world gone blind  
-> I shall beat the drum of the deathless.
+> I will beat the drum of the deathless.
 
 Upaka said: "According to what you claim, reverend, you ought to be the
 Infinite Victor."
@@ -495,22 +494,22 @@ however, and as "reverend."
 
 So I said to them: "Bhikkhus, do not address the Tathāgata by name and as
 'reverend.' The Tathāgata is an arahant, perfectly and fully awakened. Listen,
-bhikkhus: the deathless has been reached! I shall instruct you. I shall teach
-you the Dhamma. Practicing as instructed, you will soon, in this very life,
-realize with your own higher knowing the supreme culmination of the spiritual
-life — that for which gentlemen rightly go forth from home into homelessness
-— and live having entered into it."
+bhikkhus: the deathless has been reached! I will instruct you. I will teach you
+the Dhamma. Practicing as instructed, you will soon, in this very life, realize
+with your own higher knowing the supreme culmination of the spiritual life —
+that for which gentlemen rightly go forth from home into homelessness — and
+enter it and live in it."
 
 But the bhikkhus said to me: "Reverend Gotama, even by that conduct, that
 practice, that grueling austerity, you did not reach any superhuman distinction
 in knowledge and vision worthy of a noble one. How will you reach it now that
 you have turned to abundance and given up the struggle?"
 
-I said: "Bhikkhus, the Tathāgata has not turned to abundance, has not given
-up the struggle. The Tathāgata is an arahant, perfectly and fully awakened.
-Listen, bhikkhus: the deathless has been reached! I shall instruct you. I
-shall teach you the Dhamma. Practicing as instructed, you will soon realize
-the supreme culmination of the spiritual life and live having entered into it."
+I said: "Bhikkhus, the Tathāgata has not turned to abundance, has not given up
+the struggle. The Tathāgata is an arahant, perfectly and fully awakened.
+Listen, bhikkhus: the deathless has been reached! I will instruct you. I will
+teach you the Dhamma. Practicing as instructed, you will soon realize the
+supreme culmination of the spiritual life and enter it and live in it."
 
 A second time the bhikkhus said the same. A second time I replied in the same
 way.
@@ -525,11 +524,11 @@ I said to them: "Bhikkhus, have you ever known me to speak like this before?"
 "No, Bhante."
 
 "The Tathāgata is an arahant, perfectly and fully awakened. Listen, bhikkhus:
-the deathless has been reached! I shall instruct you. I shall teach you the
+the deathless has been reached! I will instruct you. I will teach you the
 Dhamma. Practicing as instructed, you will soon, in this very life, realize
 with your own higher knowing the supreme culmination of the spiritual life —
 that for which gentlemen rightly go forth from home into homelessness — and
-live having entered into it."
+enter it and live in it."
 
 I was able to bring the group of five bhikkhus around. Then sometimes I would
 instruct two bhikkhus while the other three went on alms-round, and we six
@@ -539,15 +538,15 @@ what those two brought back.
 
 ### The Five Achieve the Noble Search
 
-As the group of five bhikkhus was being instructed and guided by me in this
-way, being themselves subject to birth, having seen the danger in what is
-subject to birth, they sought nibbāna — the supreme security from the yoke,
-free from birth — and they found it. Being themselves subject to aging, having
-seen the danger in what is subject to aging, they sought nibbāna — the supreme
-security from the yoke, free from aging — and they found it. Being themselves
-subject to sickness, death, sorrow, and corruption, having seen the danger in
-these, they sought nibbāna — the supreme security from the yoke, free from
-sickness, death, sorrow, and corruption — and they found it.
+The group of five bhikkhus was instructed and guided by me in this way. They
+were themselves subject to birth. Seeing the danger in what is subject to
+birth, they sought nibbāna — the supreme security from the yoke, free from
+birth — and they found it. They were themselves subject to ageing. Seeing the
+danger in what is subject to ageing, they sought nibbāna — the supreme security
+from the yoke, free from ageing — and they found it. They were themselves
+subject to sickness, death, sorrow, and corruption. Seeing the danger in these,
+they sought nibbāna — the supreme security from the yoke, free from sickness,
+death, sorrow, and corruption — and they found it.
 
 Knowledge and vision arose in them: 'Our release is unshakable. This is our
 last birth. There is no more further becoming.'
@@ -739,7 +738,7 @@ The sixth discourse is finished.
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
@@ -792,7 +791,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn26/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn26-pasarasi-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `ec4124c7`
+- **Last editorial review:** 2026-11-08 · body version `fad88e4b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2026) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -839,7 +838,7 @@ The sixth discourse is finished.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[knowing and seeing]: Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.

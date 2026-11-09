@@ -1,6 +1,6 @@
 {
   "surface_key": "an3_65",
-  "body_sha256": "54ad464a9de6ff0a6fceb17ff684129dda50416f5dce2f44c07bbaf6d4b0edb7",
+  "body_sha256": "e6aceddf78a3d2b0361438aca13cd83bff9088367722eb2244aa5680b4cbeb6d",
   "next_id": 64,
   "passages": [
     {
@@ -26,10 +26,12 @@
     },
     {
       "id": "p004",
-      "fingerprint": "e59ccf3ad9ed8001",
+      "fingerprint": "6cc2d2a8b954eb6e",
       "section": "The Kālāmas' Uncertainty",
       "preview": "\"Bhante, there are some recluses and brahmins who come to Kesamutta. Th…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "e59ccf3ad9ed8001"
+      ]
     },
     {
       "id": "p005",
@@ -320,40 +322,50 @@
     },
     {
       "id": "p046",
-      "fingerprint": "555f32b7b7cbf239",
+      "fingerprint": "cdc884bf43b2b2f5",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "That noble disciple, Kālāmas, free of coveting, free of ill will, uncon…",
+      "preview": "Kālāmas, that noble disciple — free of coveting, free of ill will, unco…",
       "previous_fingerprints": [
-        "ede7a4c8ef5e2720"
+        "ede7a4c8ef5e2720",
+        "555f32b7b7cbf239",
+        "4c9cc4e4932a2147"
       ]
     },
     {
       "id": "p047",
-      "fingerprint": "029478f1461beabf",
+      "fingerprint": "e0a2e73dc7e48345",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with kindness to…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with kindness towards ot…",
+      "previous_fingerprints": [
+        "029478f1461beabf"
+      ]
     },
     {
       "id": "p048",
-      "fingerprint": "3d2dff0ef227e2fc",
+      "fingerprint": "8d73658c3274617d",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with gladness, l…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with gladness, then the…",
+      "previous_fingerprints": [
+        "3d2dff0ef227e2fc"
+      ]
     },
     {
       "id": "p049",
-      "fingerprint": "31ddb0650b5e145e",
+      "fingerprint": "cfdf2e5e54ca4320",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with dynamic bal…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with dynamic balance, th…",
+      "previous_fingerprints": [
+        "31ddb0650b5e145e"
+      ]
     },
     {
       "id": "p050",
-      "fingerprint": "f326dd376aeef494",
+      "fingerprint": "2664e1c6964c68bf",
       "section": "The Four Consolations",
-      "preview": "That noble disciple, Kālāmas, with a heart free of enmity, free of ill…",
-      "previous_fingerprints": []
+      "preview": "Kālāmas, that noble disciple with a heart free of enmity, free of ill w…",
+      "previous_fingerprints": [
+        "f326dd376aeef494"
+      ]
     },
     {
       "id": "p051",
@@ -385,17 +397,21 @@
     },
     {
       "id": "p055",
-      "fingerprint": "9ed61abc03f498d4",
+      "fingerprint": "3ae86e5e57873d41",
       "section": "The Four Consolations",
-      "preview": "That noble disciple, Kālāmas, with a heart free of enmity, free of ill…",
-      "previous_fingerprints": []
+      "preview": "Kālāmas, that noble disciple with a heart free of enmity, free of ill w…",
+      "previous_fingerprints": [
+        "9ed61abc03f498d4"
+      ]
     },
     {
       "id": "p056",
-      "fingerprint": "ddf5e7dfa53f0515",
+      "fingerprint": "96656a8335d548a0",
       "section": "The Four Consolations",
       "preview": "\"That is exactly so, Blessed One. That is exactly so, Well-Departed One…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "ddf5e7dfa53f0515"
+      ]
     },
     {
       "id": "p057",
@@ -427,17 +443,21 @@
     },
     {
       "id": "p061",
-      "fingerprint": "842cea21d0a12483",
+      "fingerprint": "8477566e5c90628c",
       "section": "The Four Consolations",
-      "preview": "That noble disciple, Bhante, with a heart free of enmity, free of ill w…",
-      "previous_fingerprints": []
+      "preview": "Bhante, that noble disciple with a heart free of enmity, free of ill wi…",
+      "previous_fingerprints": [
+        "842cea21d0a12483"
+      ]
     },
     {
       "id": "p062",
-      "fingerprint": "43c1cbba43a44f17",
+      "fingerprint": "1e675fcf58cef027",
       "section": "Going for Refuge",
-      "preview": "Excellent, Bhante! Excellent! ... We, Bhante, go to the Buddha for refu…",
-      "previous_fingerprints": []
+      "preview": "Excellent, Bhante! Excellent! ... Bhante, we go to the Buddha for refug…",
+      "previous_fingerprints": [
+        "43c1cbba43a44f17"
+      ]
     },
     {
       "id": "p063",

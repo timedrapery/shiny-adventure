@@ -227,7 +227,7 @@ All governing terms for MN 26 are covered by existing lexicon records:
   suite passed on 2026-08-22.
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
-- Governed wording retained: the repeated `live having entered into it`
+- Governed wording retained: the repeated `enter it and live in it`
   attainment wording remains unchanged pending a formula-level source review;
   changing it locally would risk drift across the governed higher-knowing
   sequence.

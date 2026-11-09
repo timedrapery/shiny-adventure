@@ -56,122 +56,120 @@ outflows occurs.
 
 ### Each Link Has Its Condition
 
-I say, bhikkhus, that the knowledge of the destruction of outflows has a vital
-condition — it does not lack a vital condition. And what, bhikkhus, is the
-vital condition for the knowledge of the destruction of outflows?
+Bhikkhus, I say that the knowledge of the destruction of outflows has a vital
+condition — it does not lack a vital condition. And what is the vital condition
+for the knowledge of the destruction of outflows, bhikkhus?
 
 You should say: 'Release.'
 
-I say, bhikkhus, that release has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for release?
+Bhikkhus, I say that release has a vital condition — it does not lack a vital
+condition. And what is the vital condition for release, bhikkhus?
 
 You should say: 'Fading.'
 
-I say, bhikkhus, that fading has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for fading?
+Bhikkhus, I say that fading has a vital condition — it does not lack a vital
+condition. And what is the vital condition for fading, bhikkhus?
 
 You should say: 'Disenchantment.'
 
-I say, bhikkhus, that disenchantment has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for
-disenchantment?
+Bhikkhus, I say that disenchantment has a vital condition — it does not lack a
+vital condition. And what is the vital condition for disenchantment, bhikkhus?
 
 You should say: 'Seeing things as they are.'
 
-I say, bhikkhus, that seeing things as they are has a vital condition — it
-does not lack a vital condition. And what, bhikkhus, is the vital condition for
-seeing things as they are?
+Bhikkhus, I say that seeing things as they are has a vital condition — it does
+not lack a vital condition. And what is the vital condition for seeing things
+as they are, bhikkhus?
 
 You should say: 'Unification of mind.'
 
-I say, bhikkhus, that unification of mind has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for unification of mind?
+Bhikkhus, I say that unification of mind has a vital condition — it does not
+lack a vital condition. And what is the vital condition for unification of
+mind, bhikkhus?
 
 You should say: 'Satisfaction.'
 
-I say, bhikkhus, that satisfaction has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for satisfaction?
+Bhikkhus, I say that satisfaction has a vital condition — it does not lack a
+vital condition. And what is the vital condition for satisfaction, bhikkhus?
 
 You should say: 'Relaxation.'
 
-I say, bhikkhus, that relaxation has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for relaxation?
+Bhikkhus, I say that relaxation has a vital condition — it does not lack a
+vital condition. And what is the vital condition for relaxation, bhikkhus?
 
 You should say: 'Rejoicing.'
 
-I say, bhikkhus, that rejoicing has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for rejoicing?
+Bhikkhus, I say that rejoicing has a vital condition — it does not lack a vital
+condition. And what is the vital condition for rejoicing, bhikkhus?
 
 You should say: 'An actively happy state.'
 
-I say, bhikkhus, that an actively happy state has a vital condition — it does
-not lack a vital condition. And what, bhikkhus, is the vital condition for an
-actively happy state?
+Bhikkhus, I say that an actively happy state has a vital condition — it does
+not lack a vital condition. And what is the vital condition for an actively
+happy state, bhikkhus?
 
 You should say: 'Confidence.'
 
-I say, bhikkhus, that confidence has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for confidence?
+Bhikkhus, I say that confidence has a vital condition — it does not lack a
+vital condition. And what is the vital condition for confidence, bhikkhus?
 
 You should say: 'Dissatisfaction.'
 
-I say, bhikkhus, that dissatisfaction has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for
-dissatisfaction?
+Bhikkhus, I say that dissatisfaction has a vital condition — it does not lack a
+vital condition. And what is the vital condition for dissatisfaction, bhikkhus?
 
 You should say: 'Birth.'
 
-I say, bhikkhus, that birth has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for birth?
+Bhikkhus, I say that birth has a vital condition — it does not lack a vital
+condition. And what is the vital condition for birth, bhikkhus?
 
 You should say: 'Becoming.'
 
-I say, bhikkhus, that becoming has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for becoming?
+Bhikkhus, I say that becoming has a vital condition — it does not lack a vital
+condition. And what is the vital condition for becoming, bhikkhus?
 
 You should say: 'Appropriation.'
 
-I say, bhikkhus, that appropriation has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for appropriation?
+Bhikkhus, I say that appropriation has a vital condition — it does not lack a
+vital condition. And what is the vital condition for appropriation, bhikkhus?
 
 You should say: 'Ignorant wanting.'
 
-I say, bhikkhus, that ignorant wanting has a vital condition — it does not
-lack a vital condition. And what, bhikkhus, is the vital condition for
-ignorant wanting?
+Bhikkhus, I say that ignorant wanting has a vital condition — it does not lack
+a vital condition. And what is the vital condition for ignorant wanting,
+bhikkhus?
 
 You should say: 'Felt experience.'
 
-I say, bhikkhus, that felt experience has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for felt
-experience?
+Bhikkhus, I say that felt experience has a vital condition — it does not lack a
+vital condition. And what is the vital condition for felt experience, bhikkhus?
 
 You should say: 'Contact.'
 
-I say, bhikkhus, that contact has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for contact?
+Bhikkhus, I say that contact has a vital condition — it does not lack a vital
+condition. And what is the vital condition for contact, bhikkhus?
 
 You should say: 'The six sense fields.'
 
-I say, bhikkhus, that the six sense fields have a vital condition — they do
-not lack a vital condition. And what, bhikkhus, is the vital condition for the
-six sense fields?
+Bhikkhus, I say that the six sense fields have a vital condition — they do not
+lack a vital condition. And what is the vital condition for the six sense
+fields, bhikkhus?
 
 You should say: 'Name-and-form.'
 
-I say, bhikkhus, that name-and-form has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for name-and-form?
+Bhikkhus, I say that name-and-form has a vital condition — it does not lack a
+vital condition. And what is the vital condition for name-and-form, bhikkhus?
 
 You should say: 'Knowing.'
 
-I say, bhikkhus, that knowing has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for knowing?
+Bhikkhus, I say that knowing has a vital condition — it does not lack a vital
+condition. And what is the vital condition for knowing, bhikkhus?
 
 You should say: 'Putting things together.'
 
-I say, bhikkhus, that putting things together has a vital condition — it does
-not lack a vital condition. And what, bhikkhus, is the vital condition for
-putting things together?
+Bhikkhus, I say that putting things together has a vital condition — it does
+not lack a vital condition. And what is the vital condition for putting things
+together, bhikkhus?
 
 You should say: 'Ignorance.'
 
@@ -264,7 +262,7 @@ The third discourse is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
@@ -293,7 +291,7 @@ The third discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.23/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-23-upanisa-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `15887d7e`
+- **Last editorial review:** 2026-11-08 · body version `8ca128e1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.23) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -318,7 +316,7 @@ The third discourse is finished.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

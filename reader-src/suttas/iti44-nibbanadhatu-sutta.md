@@ -7,7 +7,7 @@
 
 *Iti 44, the Nibbānadhātu Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 347 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 345 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -41,12 +41,12 @@ with remainder, and the nibbāna element without remainder.
 
 ### The Element With Remainder
 
-And what, bhikkhus, is the nibbāna element with remainder?
+And what is the nibbāna element with remainder, bhikkhus?
 
-Here, bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has
-lived the spiritual life, done what had to be done, laid down the burden,
-reached the goal, worn away the fetters of becoming, and is rightly released
-through final knowledge.
+Bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has lived
+the spiritual life, done what had to be done, laid down the burden, reached the
+goal, worn away the fetters of becoming, and is rightly released through final
+knowledge.
 
 Their five sense faculties still stand, and because these are unimpaired they
 still meet what is agreeable and what is disagreeable, and still feel the
@@ -58,19 +58,19 @@ remainder.
 
 ### The Element Without Remainder
 
-And what, bhikkhus, is the nibbāna element without remainder?
+And what is the nibbāna element without remainder, bhikkhus?
 
-Here, bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has
-lived the spiritual life, done what had to be done, laid down the burden,
-reached the goal, worn away the fetters of becoming, and is rightly released
-through final knowledge.
+Bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has lived
+the spiritual life, done what had to be done, laid down the burden, reached the
+goal, worn away the fetters of becoming, and is rightly released through final
+knowledge.
 
-For them, bhikkhus, right here, everything felt — being not relished — will
+Bhikkhus, for them, right here, everything felt — being not relished — will
 become cool.
 
-This, bhikkhus, is called the nibbāna element without remainder.
+Bhikkhus, this is called the nibbāna element without remainder.
 
-These, bhikkhus, are the two nibbāna elements."
+Bhikkhus, these are the two nibbāna elements."
 
 This is what the Buddha said. And in reference to this, it was said:
 
@@ -139,7 +139,7 @@ The seventh discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/iti44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/iti44-nibbanadhatu-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `bc0e4a36`
+- **Last editorial review:** 2026-08-23 · body version `f767898d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Iti%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

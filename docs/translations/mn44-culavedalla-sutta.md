@@ -117,9 +117,9 @@ taking personally there."
 
 "But, Ayye, how does identity view come to be?"
 
-"Here, friend Visākha, an unlearned ordinary person, someone who has not seen
-the noble ones, who is unskilled and untrained in the noble Dhamma, someone who
-has not seen true persons, who is unskilled and untrained in the true person's
+"Friend Visākha, an unlearned ordinary person, someone who has not seen the
+noble ones, who is unskilled and untrained in the noble Dhamma, someone who has
+not seen true persons, who is unskilled and untrained in the true person's
 Dhamma, regards form as self, or self as having form, or form as in self, or
 self as in form.
 
@@ -140,8 +140,8 @@ This, friend Visākha, is how identity view comes to be."
 
 "But, Ayye, how does identity view not come to be?"
 
-"Here, friend Visākha, a learned noble disciple, someone who has seen the noble
-ones, who is skilled and trained in the noble Dhamma, someone who has seen true
+"Friend Visākha, a learned noble disciple, someone who has seen the noble ones,
+who is skilled and trained in the noble Dhamma, someone who has seen true
 persons, who is skilled and trained in the true person's Dhamma, does not
 regard form as self, or self as having form, or form as in self, or self as in
 form.
@@ -314,9 +314,9 @@ seclusion, slopes to seclusion, and leans to seclusion."
 
 - pleasant feeling
 - painful feeling
-- mixed feeling"
+- neutral feeling"
 
-"Ayye, what is pleasant feeling? What is painful feeling? What is mixed
+"Ayye, what is pleasant feeling? What is painful feeling? What is neutral
 feeling?"
 
 "Friend Visākha, whatever bodily or mental satisfaction, whatever agreeable
@@ -326,11 +326,11 @@ Whatever bodily or mental dissatisfaction, whatever disagreeable felt
 experience is felt: this is painful feeling.
 
 Whatever bodily or mental felt experience is neither agreeable nor
-disagreeable: this is mixed feeling."
+disagreeable: this is neutral feeling."
 
 "Ayye, in what way is pleasant feeling satisfying, and in what way is it
 dissatisfying? In what way is painful feeling satisfying, and in what way is
-it dissatisfying? In what way is mixed feeling satisfying, and in what way is
+it dissatisfying? In what way is neutral feeling satisfying, and in what way is
 it dissatisfying?"
 
 "Friend Visākha, pleasant feeling is satisfying while it stays and
@@ -339,35 +339,35 @@ dissatisfying when it changes.
 Painful feeling is dissatisfying while it stays and satisfying when it
 changes.
 
-Mixed feeling is satisfying when there is knowledge and dissatisfying when
+Neutral feeling is satisfying when there is knowledge and dissatisfying when
 there is no knowledge."
 
 ### Felt Experience and Underlying Tendencies
 
 "Ayye, what underlying tendency lies underneath pleasant feeling? What
 underlying tendency lies underneath painful feeling? What underlying tendency
-lies underneath mixed feeling?"
+lies underneath neutral feeling?"
 
 "Friend Visākha, the underlying tendency toward passion lies underneath
 pleasant feeling.
 
 The underlying tendency toward resistance lies underneath painful feeling.
 
-The underlying tendency toward ignorance lies underneath mixed feeling."
+The underlying tendency toward ignorance lies underneath neutral feeling."
 
 "Ayye, does the underlying tendency toward passion lie underneath every
 pleasant feeling? Does the underlying tendency toward resistance lie underneath
 every painful feeling? Does the underlying tendency toward ignorance lie
-underneath every mixed feeling?"
+underneath every neutral feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion does not lie
 underneath every pleasant feeling. The underlying tendency toward resistance
 does not lie underneath every painful feeling. The underlying tendency toward
-ignorance does not lie underneath every mixed feeling."
+ignorance does not lie underneath every neutral feeling."
 
 "Ayye, what should be abandoned in relation to pleasant feeling? What should be
 abandoned in relation to painful feeling? What should be abandoned in relation
-to mixed feeling?"
+to neutral feeling?"
 
 "Friend Visākha, the underlying tendency toward passion should be abandoned in
 relation to pleasant feeling.
@@ -376,27 +376,27 @@ The underlying tendency toward resistance should be abandoned in relation to
 painful feeling.
 
 The underlying tendency toward ignorance should be abandoned in relation to
-mixed feeling."
+neutral feeling."
 
 "Ayye, should the underlying tendency toward passion be abandoned in relation
 to every pleasant feeling? Should the underlying tendency toward resistance be
 abandoned in relation to every painful feeling? Should the underlying tendency
-toward ignorance be abandoned in relation to every mixed feeling?"
+toward ignorance be abandoned in relation to every neutral feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion should not be
 abandoned in relation to every pleasant feeling. The underlying tendency toward
 resistance should not be abandoned in relation to every painful feeling. The
 underlying tendency toward ignorance should not be abandoned in relation to
-every mixed feeling.
+every neutral feeling.
 
-Here, friend Visākha, quite secluded from sensuality, secluded from unwholesome
+Friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
 and pondering, with rejoicing and satisfaction born of seclusion.
 
 Through that, they abandon passion, and the underlying tendency toward passion
 does not lie there.
 
-Here, friend Visākha, a bhikkhu reflects:
+Friend Visākha, a bhikkhu reflects:
 
 'When will I enter and remain in that field which the noble ones now enter and
 remain in?'
@@ -407,7 +407,7 @@ as condition.
 Through that, they abandon resistance, and the underlying tendency toward
 resistance does not lie there.
 
-Here, friend Visākha, with the abandoning of ease and discomfort, and with the
+Friend Visākha, with the abandoning of ease and discomfort, and with the
 earlier ending of gladness and distress, a bhikkhu enters and remains in the
 fourth mental theme, without discomfort and without ease, with purity of
 remembering through dynamic balance.
@@ -425,9 +425,9 @@ ignorance does not lie there."
 
 "Friend Visākha, pleasant feeling is the counterpart of painful feeling."
 
-"Ayye, what is the counterpart of mixed feeling?"
+"Ayye, what is the counterpart of neutral feeling?"
 
-"Friend Visākha, ignorance is the counterpart of mixed feeling."
+"Friend Visākha, ignorance is the counterpart of neutral feeling."
 
 "Ayye, what is the counterpart of ignorance?"
 

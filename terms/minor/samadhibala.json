@@ -21,7 +21,7 @@
   "example_phrases": [
     {
       "pali": "Katamañca, bhikkhave, samādhibalaṁ?",
-      "translation": "And what, bhikkhus, is the unification strength?",
+      "translation": "And what is the unification strength, bhikkhus?",
       "notes": "AN 5.14 defines it by the four mental themes. The record default is `strength of unification`; the surface uses the listed alternate `unification strength` to keep the five names parallel.",
       "source": "AN 5.14"
     }

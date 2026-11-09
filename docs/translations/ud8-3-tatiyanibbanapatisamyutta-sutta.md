@@ -30,7 +30,7 @@ bear, listening closely.
 Then the Buddha, understanding what this meant, spoke this inspired saying at
 that moment:
 
-"There is, bhikkhus, what is unborn, unbecome, unmade, unconditioned.
+"Bhikkhus, there is what is unborn, unbecome, unmade, unconditioned.
 
 If there were no such thing, bhikkhus — nothing unborn, unbecome, unmade,
 unconditioned — then no escape would be discerned here from what is born,

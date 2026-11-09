@@ -7,7 +7,7 @@
 
 *MN 121, the Cūḷasuññata Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,072 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,070 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -58,14 +58,13 @@ emptiness.
 
 ### The Recognition of the Forest
 
-Just as this mansion of Migāra's Mother is empty of elephants, cattle, horses,
-and mares, empty of gold and silver, and empty of gatherings of men and women,
-and there is only this that is not empty: the oneness that depends on the
-Saṅgha of bhikkhus; in the same way, Ānanda, not attending to the recognition
-of the village, not attending to the recognition of people, a bhikkhu attends
-to the oneness that depends on the recognition of the forest. Their heart leaps
-forward into the recognition of the forest, becomes clear, settles, and commits
-to it.
+This mansion of Migāra's Mother is empty of elephants, cattle, horses, and
+mares, empty of gold and silver, and empty of gatherings of men and women.
+There is only this that is not empty: the oneness that depends on the Saṅgha of
+bhikkhus. In the same way, Ānanda, a bhikkhu does not attend to the recognition
+of the village or to the recognition of people. They attend to the oneness that
+depends on the recognition of the forest. Their heart leaps forward into the
+recognition of the forest, becomes clear, settles, and commits to it.
 
 They discern: 'Whatever disturbances there would be dependent on the
 recognition of the village are not present here. Whatever disturbances there
@@ -79,8 +78,8 @@ of people. There is only this that is not empty: the oneness that depends on
 the recognition of the forest.' So they regard it as empty of whatever is not
 there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Recognition of Earth
 
@@ -108,8 +107,8 @@ of the forest. There is only this that is not empty: the oneness that depends
 on the recognition of earth.' So they regard it as empty of whatever is not
 there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Formless Spheres
 
@@ -131,8 +130,8 @@ of earth. There is only this that is not empty: the oneness that depends on the
 recognition of the sphere of boundless space.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of earth, not attending to
 the recognition of the sphere of boundless space, a bhikkhu attends to the
@@ -153,8 +152,8 @@ that depends on the recognition of the sphere of boundless knowing.' So they
 regard it as empty of whatever is not there, and of what remains they discern:
 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of the sphere of boundless
 space, not attending to the recognition of the sphere of boundless knowing, a
@@ -175,8 +174,8 @@ is not empty: the oneness that depends on the recognition of the sphere of
 nothingness.' So they regard it as empty of whatever is not there, and of what
 remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of the sphere of boundless
 knowing, not attending to the recognition of the sphere of nothingness, a
@@ -199,8 +198,8 @@ empty: the oneness that depends on the recognition of the sphere of
 neither-recognition-nor-non-recognition.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Signless Unification of Mind
 
@@ -224,8 +223,8 @@ is only this that is not empty: the six fields of experience that depend on
 this very body and are conditioned by life.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Release of the Heart
 
@@ -259,8 +258,8 @@ is only this that is not empty: the six fields of experience that depend on
 this very body and are conditioned by life.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, purely, and in the highest and unsurpassed way.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+purely, and in the highest and unsurpassed way.
 
 ### The Highest Emptiness
 
@@ -337,7 +336,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn121/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn121-culasunnata-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `630eaaee`
+- **Last editorial review:** 2026-11-09 · body version `7979493b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20121) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

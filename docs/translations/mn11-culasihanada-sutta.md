@@ -37,11 +37,11 @@ The Buddha said this:
 
 ### The Lion's Roar
 
-"Only here, bhikkhus, is there a recluse; only here a second recluse; only
-here a third recluse; only here a fourth recluse. Other schools are empty of
+"Bhikkhus, only here is there a recluse; only here a second recluse; only here
+a third recluse; only here a fourth recluse. Other schools are empty of
 recluses.
 
-That, bhikkhus, is how you should rightly roar your lion's roar.
+Bhikkhus, that is how you should rightly roar your lion's roar.
 
 ### What Others Will Ask
 
@@ -61,9 +61,9 @@ Friends, we have confidence in the Teacher, we have confidence in the Dhamma,
 we fulfil the precepts, and our companions in the Dhamma are dear and
 agreeable to us — both those who live at home and those who have gone forth.
 
-These, friends, are the four things declared by the Buddha, who knows and
-sees, the arahant, the fully awakened one, and it is because we see them in
-ourselves that we speak this way.'
+Friends, these are the four things declared by the Buddha, who knows and sees,
+the arahant, the fully awakened one, and it is because we see them in ourselves
+that we speak this way.'
 
 ### When They Claim the Same
 
@@ -198,7 +198,7 @@ come to be.
 
 ### Why Confidence There Does Not Lead Anywhere
 
-In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher is
+Bhikkhus, in a Dhamma and discipline like that, confidence in the Teacher is
 said not to be rightly directed; confidence in the Dhamma is said not to be
 rightly directed; fulfilment of the precepts is said not to be rightly
 directed; and fondness for companions in the Dhamma is said not to be rightly
@@ -216,7 +216,7 @@ describe it: he describes the full understanding of taking sensuality
 personally, of taking views personally, of taking habits and observances
 personally, and of taking self-doctrine personally.
 
-In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher is
+Bhikkhus, in a Dhamma and discipline like that, confidence in the Teacher is
 said to be rightly directed; confidence in the Dhamma is said to be rightly
 directed; fulfilment of the precepts is said to be rightly directed; and
 fondness for companions in the Dhamma is said to be rightly directed.

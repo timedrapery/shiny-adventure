@@ -118,11 +118,10 @@ The Buddha said this:
 
 ### The Unlearned Ordinary Person
 
-"Here, Ānanda, an unlearned ordinary person, someone who has not seen the noble
-ones, who is unskilled and untrained in the noble Dhamma, someone who has not
-seen true persons, who is unskilled and untrained in the true person's Dhamma,
-lives with a heart overwhelmed by identity view, possessed by identity
-view.
+"Ānanda, an unlearned ordinary person, someone who has not seen the noble ones,
+who is unskilled and untrained in the noble Dhamma, someone who has not seen
+true persons, who is unskilled and untrained in the true person's Dhamma, lives
+with a heart overwhelmed by identity view, possessed by identity view.
 
 When identity view has arisen, that person does not discern its escape as it
 has come to be. For that person, identity view is firmly established, not
@@ -271,10 +270,10 @@ person.
 
 ### The First Mental Theme
 
-"And what, Ānanda, is the path, what is the way of practice for abandoning the
-five lower fetters?
+"Ānanda, what is the path, what is the way of practice for abandoning the five
+lower fetters?
 
-Here, Ānanda, with seclusion from supports, with the abandoning of unwholesome
+Ānanda, with seclusion from supports, with the abandoning of unwholesome
 dhammas, and with the complete calming of bodily heaviness, quite secluded from
 sensuality, secluded from unwholesome dhammas, a bhikkhu enters and remains in
 the first mental theme, with thinking and pondering, with rejoicing and
@@ -301,7 +300,7 @@ passion for the Dhamma and that relishing in the Dhamma, with the complete
 wearing away of the five lower fetters, they are spontaneously reborn, finally
 quenched there, and not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 ### The Higher Mental Themes
@@ -331,7 +330,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 ### The Formless Spheres
@@ -355,7 +354,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 "Again, Ānanda, by completely going beyond the sphere of boundless space, a
@@ -373,7 +372,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 "Again, Ānanda, by completely going beyond the sphere of boundless knowing, a
@@ -391,7 +390,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters."
 
 ### Release of Mind and Release Through Discernment
@@ -400,7 +399,7 @@ five lower fetters."
 lower fetters, why do some bhikkhus have release of mind while others have
 release through discernment?"
 
-"Here, Ānanda, I say the difference is in their faculties."
+"Ānanda, I say the difference is in their faculties."
 
 That is what the Buddha said.
 

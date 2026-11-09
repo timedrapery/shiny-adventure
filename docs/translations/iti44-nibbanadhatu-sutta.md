@@ -35,12 +35,12 @@ with remainder, and the nibbāna element without remainder.
 
 ### The Element With Remainder
 
-And what, bhikkhus, is the nibbāna element with remainder?
+And what is the nibbāna element with remainder, bhikkhus?
 
-Here, bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has
-lived the spiritual life, done what had to be done, laid down the burden,
-reached the goal, worn away the fetters of becoming, and is rightly released
-through final knowledge.
+Bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has lived
+the spiritual life, done what had to be done, laid down the burden, reached the
+goal, worn away the fetters of becoming, and is rightly released through final
+knowledge.
 
 Their five sense faculties still stand, and because these are unimpaired they
 still meet what is agreeable and what is disagreeable, and still feel the
@@ -52,19 +52,19 @@ remainder.
 
 ### The Element Without Remainder
 
-And what, bhikkhus, is the nibbāna element without remainder?
+And what is the nibbāna element without remainder, bhikkhus?
 
-Here, bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has
-lived the spiritual life, done what had to be done, laid down the burden,
-reached the goal, worn away the fetters of becoming, and is rightly released
-through final knowledge.
+Bhikkhus, a bhikkhu is an arahant, whose outflows are worn away, who has lived
+the spiritual life, done what had to be done, laid down the burden, reached the
+goal, worn away the fetters of becoming, and is rightly released through final
+knowledge.
 
-For them, bhikkhus, right here, everything felt — being not relished — will
+Bhikkhus, for them, right here, everything felt — being not relished — will
 become cool.
 
-This, bhikkhus, is called the nibbāna element without remainder.
+Bhikkhus, this is called the nibbāna element without remainder.
 
-These, bhikkhus, are the two nibbāna elements."
+Bhikkhus, these are the two nibbāna elements."
 
 This is what the Buddha said. And in reference to this, it was said:
 
