@@ -317,9 +317,9 @@ seclusion, slopes to seclusion, and leans to seclusion."
 
 - pleasant feeling
 - painful feeling
-- neutral feeling"
+- mixed feeling"
 
-"Ayye, what is pleasant feeling? What is painful feeling? What is neutral
+"Ayye, what is pleasant feeling? What is painful feeling? What is mixed
 feeling?"
 
 "Friend Visākha, whatever bodily or mental satisfaction, whatever agreeable
@@ -329,11 +329,11 @@ Whatever bodily or mental dissatisfaction, whatever disagreeable felt
 experience is felt: this is painful feeling.
 
 Whatever bodily or mental felt experience is neither agreeable nor
-disagreeable: this is neutral feeling."
+disagreeable: this is mixed feeling."
 
 "Ayye, in what way is pleasant feeling satisfying, and in what way is it
 dissatisfying? In what way is painful feeling satisfying, and in what way is
-it dissatisfying? In what way is neutral feeling satisfying, and in what way is
+it dissatisfying? In what way is mixed feeling satisfying, and in what way is
 it dissatisfying?"
 
 "Friend Visākha, pleasant feeling is satisfying while it stays and
@@ -342,35 +342,35 @@ dissatisfying when it changes.
 Painful feeling is dissatisfying while it stays and satisfying when it
 changes.
 
-Neutral feeling is satisfying when there is knowledge and dissatisfying when
+Mixed feeling is satisfying when there is knowledge and dissatisfying when
 there is no knowledge."
 
 ### Felt Experience and Underlying Tendencies
 
 "Ayye, what underlying tendency lies underneath pleasant feeling? What
 underlying tendency lies underneath painful feeling? What underlying tendency
-lies underneath neutral feeling?"
+lies underneath mixed feeling?"
 
 "Friend Visākha, the underlying tendency toward passion lies underneath
 pleasant feeling.
 
 The underlying tendency toward resistance lies underneath painful feeling.
 
-The underlying tendency toward ignorance lies underneath neutral feeling."
+The underlying tendency toward ignorance lies underneath mixed feeling."
 
 "Ayye, does the underlying tendency toward passion lie underneath every
 pleasant feeling? Does the underlying tendency toward resistance lie underneath
 every painful feeling? Does the underlying tendency toward ignorance lie
-underneath every neutral feeling?"
+underneath every mixed feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion does not lie
 underneath every pleasant feeling. The underlying tendency toward resistance
 does not lie underneath every painful feeling. The underlying tendency toward
-ignorance does not lie underneath every neutral feeling."
+ignorance does not lie underneath every mixed feeling."
 
 "Ayye, what should be abandoned in relation to pleasant feeling? What should be
 abandoned in relation to painful feeling? What should be abandoned in relation
-to neutral feeling?"
+to mixed feeling?"
 
 "Friend Visākha, the underlying tendency toward passion should be abandoned in
 relation to pleasant feeling.
@@ -379,18 +379,18 @@ The underlying tendency toward resistance should be abandoned in relation to
 painful feeling.
 
 The underlying tendency toward ignorance should be abandoned in relation to
-neutral feeling."
+mixed feeling."
 
 "Ayye, should the underlying tendency toward passion be abandoned in relation
 to every pleasant feeling? Should the underlying tendency toward resistance be
 abandoned in relation to every painful feeling? Should the underlying tendency
-toward ignorance be abandoned in relation to every neutral feeling?"
+toward ignorance be abandoned in relation to every mixed feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion should not be
 abandoned in relation to every pleasant feeling. The underlying tendency toward
 resistance should not be abandoned in relation to every painful feeling. The
 underlying tendency toward ignorance should not be abandoned in relation to
-every neutral feeling.
+every mixed feeling.
 
 Friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
@@ -428,9 +428,9 @@ ignorance does not lie there."
 
 "Friend Visākha, pleasant feeling is the counterpart of painful feeling."
 
-"Ayye, what is the counterpart of neutral feeling?"
+"Ayye, what is the counterpart of mixed feeling?"
 
-"Friend Visākha, ignorance is the counterpart of neutral feeling."
+"Friend Visākha, ignorance is the counterpart of mixed feeling."
 
 "Ayye, what is the counterpart of ignorance?"
 
@@ -530,8 +530,8 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
-<dt><dfn>neutral feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
+<dt><dfn>mixed feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -594,7 +594,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn44-culavedalla-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `331cdd14`
+- **Last editorial review:** 2026-11-08 · body version `bb921376`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -633,7 +633,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
-*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
+*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.

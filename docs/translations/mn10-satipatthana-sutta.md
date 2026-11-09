@@ -206,7 +206,7 @@ experience?
 
 When a bhikkhu feels pleasant feeling, they know: 'I feel pleasant feeling.'
 When they feel painful feeling, they know: 'I feel painful feeling.' When they
-feel neutral feeling, they know: 'I feel neutral feeling.'
+feel mixed feeling, they know: 'I feel mixed feeling.'
 
 When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
 feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
@@ -216,9 +216,9 @@ When they feel worldly painful feeling, they know: 'I feel worldly painful
 feeling.' When they feel unworldly painful feeling, they know: 'I feel
 unworldly painful feeling.'
 
-When they feel worldly neutral feeling, they know: 'I feel worldly neutral
-feeling.' When they feel unworldly neutral feeling, they know: 'I feel unworldly
-neutral feeling.'
+When they feel worldly mixed feeling, they know: 'I feel worldly mixed
+feeling.' When they feel unworldly mixed feeling, they know: 'I feel unworldly
+mixed feeling.'
 
 Then they remain observing felt experience as internal, observing felt
 experience as external, and observing felt experience as both internal and

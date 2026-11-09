@@ -126,7 +126,7 @@ practice leading to the quenching of felt experience.' That is what was said.
 Why was it said?
 
 There are these three kinds of felt experience, bhikkhus: pleasant feeling,
-painful feeling, and neutral feeling.
+painful feeling, and mixed feeling.
 
 And where does felt experience come from?
 
@@ -135,8 +135,8 @@ Bhikkhus, contact is where felt experience comes from.
 And what are the differences among kinds of felt experience?
 
 There is worldly pleasant feeling and unworldly pleasant feeling; worldly
-painful feeling and unworldly painful feeling; worldly neutral feeling and
-unworldly neutral feeling. This is called the differences among kinds of felt
+painful feeling and unworldly painful feeling; worldly mixed feeling and
+unworldly mixed feeling. This is called the differences among kinds of felt
 experience.
 
 And what is the result of felt experience?
