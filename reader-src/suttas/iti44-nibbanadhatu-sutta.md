@@ -76,19 +76,23 @@ This is what the Buddha said. And in reference to this, it was said:
 
 ### Verses
 
-"These two nibbāna elements were made plain
-by the one with vision, independent, unshaken.
+<span class="verse-line">"These two nibbāna elements were made plain</span>
+<span class="verse-line verse-line--last">by the one with vision, independent, unshaken.</span>
+{: .verse }
 
-One element belongs to what is visible here and now:
-with remainder, the conduit to becoming worn away.
+<span class="verse-line">One element belongs to what is visible here and now:</span>
+<span class="verse-line verse-line--last">with remainder, the conduit to becoming worn away.</span>
+{: .verse }
 
-The element without remainder belongs to what comes after,
-in which every becoming quenches.
+<span class="verse-line">The element without remainder belongs to what comes after,</span>
+<span class="verse-line verse-line--last">in which every becoming quenches.</span>
+{: .verse }
 
-Those who know this unconditioned state,
-whose heart is released and whose conduit to becoming is worn away,
-have reached the heart of the Dhamma and delight in the wearing away.
-They have given up every becoming."
+<span class="verse-line">Those who know this unconditioned state,</span>
+<span class="verse-line">whose heart is released and whose conduit to becoming is worn away,</span>
+<span class="verse-line">have reached the heart of the Dhamma and delight in the wearing away.</span>
+<span class="verse-line verse-line--last">They have given up every becoming."</span>
+{: .verse }
 
 This too was said by the Buddha — so I heard.
 

@@ -6,7 +6,7 @@ import unittest
 from pathlib import Path
 
 from scripts import next_sutta_priority_report as report
-from scripts.audit_surface_leverage import load_entries, translated_suttas
+from scripts.audit_surface_leverage import covered_refs, load_entries, translated_suttas
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -22,7 +22,7 @@ class PriorityReportTests(unittest.TestCase):
         entries = load_entries(REPO_ROOT / "terms")
         translated = translated_suttas()
         cited = [entry for entry in entries if entry["refs"]]
-        orphans = [e for e in cited if not (set(e["refs"]) & translated)]
+        orphans = [e for e in cited if not (set(e["refs"]) & covered_refs(translated))]
         self.assertEqual(summary["surfaces"], len(translated))
         self.assertEqual(summary["records"], len(entries))
         self.assertEqual(summary["cited"], len(cited))

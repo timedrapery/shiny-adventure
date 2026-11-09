@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (67 total)
+## Completed Surfaces (68 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -88,6 +88,11 @@ Use that full roadmap as the source of truth for:
   five clung-to heaps as a burden, ignorant wanting as taking it up, and its
   fading as putting it down. Anchors the burden formula; the `puggala` crux is
   recorded in the notes and left unsettled.
+- `Dhp 21-32` Appamādavagga (Heedfulness Is the Path to the Deathless) —
+  complete 2026-11-09. The repository's first Dhammapada surface and first
+  verse surface: twelve numbered verses on heedfulness. Its notes settle how
+  verse is set, numbered, and titled, and the reader now displays verse as
+  verse on every page that has it. Anchors `appamāda` and `amatapada`.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -169,8 +174,8 @@ Use that full roadmap as the source of truth for:
 **Wave 11 is the active wave.** Its queue, verified against the root texts on
 2026-09-13, is in the [Wave 11 execution plan](wave-11-execution-plan.md):
 
-1. `Dhp 21-32` the Appamādavagga — 124 words, anchors the orphan major
-   `appamāda`. Has a precondition: settle how verse is handled first.
+1. `Dhp 21-32` the Appamādavagga — **complete 2026-11-09**. 124 words,
+   anchors the orphan major `appamāda`; its notes settle verse handling.
 2. `Ud 8.3` Tatiyanibbānapaṭisaṁyutta — **complete 2026-09-13**, taken first
    because item 1's precondition is unsettled. 84 words, anchors
    `asaṅkhata-dhātu`, and settles the Udāna framing formula.

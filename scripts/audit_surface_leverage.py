@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
@@ -103,8 +104,28 @@ class SuttaLeverage:
         return f"{self.pali_words}w full"
 
 
+def label_refs(label: str) -> set[str]:
+    """The sutta references a surface label covers.
+
+    Most labels name one discourse (`SN 22.22`). A verse surface can name a
+    range (`Dhp 21-32`), which covers each verse in it, since term records cite
+    single verses (`Dhp 21`).
+    """
+    label = label.strip()
+    match = re.fullmatch(r"([A-Za-z]+) (\d+)-(\d+)", label)
+    if not match:
+        return {label}
+    prefix, start, end = match.group(1), int(match.group(2)), int(match.group(3))
+    return {f"{prefix} {number}" for number in range(start, end + 1)}
+
+
 def translated_suttas() -> set[str]:
     return {surface.label.strip() for surface in TRANSLATION_SURFACES}
+
+
+def covered_refs(translated: set[str]) -> set[str]:
+    """Every sutta reference the translated surfaces cover, ranges expanded."""
+    return {ref for label in translated for ref in label_refs(label)}
 
 
 def cache_key(sutta: str) -> str:
@@ -189,6 +210,7 @@ def load_entries(terms_dir: Path = TERMS_DIR) -> list[dict[str, object]]:
 def build_leverage(
     entries: list[dict[str, object]], translated: set[str]
 ) -> dict[str, SuttaLeverage]:
+    covered = covered_refs(translated)
     leverage: dict[str, SuttaLeverage] = defaultdict(
         lambda: SuttaLeverage(sutta="")
     )
@@ -196,9 +218,9 @@ def build_leverage(
         refs = entry["refs"]
         if not refs:
             continue
-        is_orphan = not (set(refs) & translated)
+        is_orphan = not (set(refs) & covered)
         for ref in refs:
-            if ref in translated:
+            if ref in covered:
                 continue
             row = leverage[ref]
             row.sutta = ref
@@ -215,7 +237,8 @@ def build_leverage(
 
 def summarize(entries: list[dict[str, object]], translated: set[str]) -> dict[str, int]:
     cited = [e for e in entries if e["refs"]]
-    orphans = [e for e in cited if not (set(e["refs"]) & translated)]
+    covered = covered_refs(translated)
+    orphans = [e for e in cited if not (set(e["refs"]) & covered)]
     return {
         "surfaces": len(translated),
         "terms": len(entries),
@@ -378,6 +401,7 @@ def build_cluster_coverage(
     except ModuleNotFoundError:
         from cluster_registry import CLUSTER_SURFACES
 
+    covered = covered_refs(translated)
     by_name = {entry["name"]: entry for entry in entries}
     rows = []
     for cluster in CLUSTER_SURFACES:
@@ -392,11 +416,11 @@ def build_cluster_coverage(
             refs = entry["refs"]
             if not refs:
                 row.uncited += 1
-            elif set(refs) & translated:
+            elif set(refs) & covered:
                 row.shown += 1
             else:
                 row.orphan += 1
-                untranslated = [r for r in refs if r not in translated]
+                untranslated = [r for r in refs if r not in covered]
                 for ref in untranslated:
                     row.anchors[ref] = row.anchors.get(ref, 0) + 1
                 # A term anchored only to enumeration stubs cannot be rescued

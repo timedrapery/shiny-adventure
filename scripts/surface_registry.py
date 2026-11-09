@@ -450,6 +450,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         main_relpath="docs/translations/iti49-ditthigata-sutta.md",
         notes_relpath="docs/translations/iti49-ditthigata-sutta-notes.md",
     ),
+    TranslationSurface(
+        key="dhp21_32",
+        label="Dhp 21-32",
+        main_relpath="docs/translations/dhp21-32-appamadavagga.md",
+        notes_relpath="docs/translations/dhp21-32-appamadavagga-notes.md",
+    ),
 )
 
 
@@ -495,6 +501,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
     "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
     "sn22_48": "b5ac6f591e4b8d397e205f8cae8b75629c974c4e9e0d84a7b9b3d1b808a5b49f",
     "sn22_22": "114c637b7fd1c8c5718d104b8f5f9549a8a40426473dd3c11aad0ecc54529e64",
+    "dhp21_32": "49f334a4480939df786153a07bdb084f5a2143934d772516c66baba38fe807c4",
     "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
     "sn22_86": "87b39d295adc90ee1681ca017149892e5c98b5096d04ff0367ef5c72cc93bd09",
     "sn35_28": "b159e8dd510ce49333e7be928a5fd807c6b585af52fe3722e4677036a63b90a3",
@@ -524,6 +531,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "dhp21_32": "2026-11-09",
     "sn22_22": "2026-11-08",
     # Body re-touched for the samādhi / nīvaraṇa ruling (composure -> unification
     # of mind, distraction -> hindrance, and the five hindrance names), 2026-11-08.
@@ -874,6 +882,12 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "two ways of sitting down to meditate.",
         reader_title="Think Like a Thoroughbred",
     ),
+    "dhp21_32": ReaderMeta(
+        "Appamādavagga", 2, 16,
+        "Twelve verses on one quality: heedfulness, the path to the "
+        "deathless. Short, memorable, and the first verse page in the set.",
+        reader_title="Heedfulness Is the Path to the Deathless",
+    ),
     # Stage 3 -- Learning to Look at Your Own Mind
     "mn19": ReaderMeta(
         "Dvedhāvitakka Sutta", 3, 1,
@@ -1219,7 +1233,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
         "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
-        "an3_88", "ud8_3",
+        "an3_88", "ud8_3", "dhp21_32",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_22", "sn22_86", "sn22_89",
@@ -1252,6 +1266,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     ),
     "Teaching with verse": (
         "mn131", "iti44", "iti49", "an11_9", "an8_6", "an4_5", "sn22_22",
+        "dhp21_32",
     ),
 }
 

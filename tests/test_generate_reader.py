@@ -123,7 +123,8 @@ class GeneratedStateTests(unittest.TestCase):
                 surface.main_path.read_text(encoding="utf-8")
             )
             page = (SUTTA_DIR / surface.main_name).read_text(encoding="utf-8")
-            self.assertIn(want.strip(), page, surface.label)
+            # Verse presentation only adds stanza markers; the words are unchanged.
+            self.assertIn(reader.present_verse(want).strip(), page, surface.label)
 
     def test_hand_written_intros_survive_regeneration(self) -> None:
         page = SUTTA_DIR / "mn26-pasarasi-sutta.md"
@@ -446,3 +447,38 @@ class NewcomerGuideTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class VersePresentationTests(unittest.TestCase):
+    def test_stanzas_in_a_verses_section_get_the_verse_class(self) -> None:
+        body = (
+            "### The Setting\n\nA prose line\nwrapped in the source.\n\n"
+            "### Verses\n\n\"First line,\nsecond line.\"\n\n"
+            "The first discourse is finished."
+        )
+        out = reader.present_verse(body)
+        self.assertIn(
+            '<span class="verse-line">"First line,</span>\n'
+            '<span class="verse-line verse-line--last">second line."</span>\n{: .verse }',
+            out,
+        )
+        self.assertNotIn("in the source.\n{: .verse }", out)
+        self.assertNotIn("finished.\n{: .verse }", out)
+
+    def test_a_bold_leading_number_becomes_the_verse_number(self) -> None:
+        out = reader.present_verse("### Verses\n\n**21** Heedfulness,\nthe path.")
+        self.assertIn(
+            '<span class="verse-number">21</span><span class="verse-line">Heedfulness,</span>',
+            out,
+        )
+
+    def test_lists_and_later_prose_sections_are_left_alone(self) -> None:
+        body = "### Verses\n\n- one\n- two\n\n### After\n\nProse that\nwraps."
+        out = reader.present_verse(body)
+        self.assertNotIn("{: .verse }", out)
+
+    def test_every_verse_page_marks_its_stanzas(self) -> None:
+        for page in ("iti44-nibbanadhatu-sutta", "iti49-ditthigata-sutta",
+                     "sn22-22-bhara-sutta", "sn36-6-salla-sutta"):
+            text = (SUTTA_DIR / f"{page}.md").read_text(encoding="utf-8")
+            self.assertIn("{: .verse }", text, page)

@@ -637,6 +637,54 @@ def render_first_twelve_progress(surface: TranslationSurface) -> list[str]:
         "</nav>",
     ]
 
+VERSE_HEADING_RE = re.compile(r"^#{2,6}\s+Verses?\b")
+VERSE_NUMBER_RE = re.compile(r"^\*\*(\d+)\*\*\s+")
+
+
+def present_verse(body: str) -> str:
+    """Mark verse stanzas so the reader keeps their line breaks.
+
+    A governed translation sets verse as one paragraph per stanza, one line per
+    verse line, under a heading that starts with `Verse` or `Verses`. Plain
+    Markdown joins those lines into running prose, so each multi-line paragraph
+    in such a section gets a `verse` class and each line its own `verse-line`
+    span, which the stylesheet sets as a block with a hanging indent so a
+    wrapped line is distinguishable from a new one. The class sits on the paragraph itself, not on a wrapper, so
+    the paragraph stays a direct child of the translation and reader feedback
+    still finds it. Single-line paragraphs in the section, such as a closing
+    `The first discourse is finished.`, stay prose. A stanza that opens with a
+    bold number (`**21** ...`) shows that number as its verse number.
+    """
+    out: list[str] = []
+    in_verse = False
+    for block in re.split(r"\n[ \t]*\n", body):
+        stripped = block.strip("\n")
+        first = stripped.lstrip()
+        if first.startswith("#") and "\n" not in stripped.strip():
+            in_verse = bool(VERSE_HEADING_RE.match(first))
+            out.append(block)
+            continue
+        is_paragraph = first and not re.match(r"^([-*+]\s|\d+\.\s|>|<|\|)", first)
+        if in_verse and is_paragraph and "\n" in stripped.strip():
+            stanza = stripped.strip()
+            prefix = ""
+            number = VERSE_NUMBER_RE.match(stanza)
+            if number:
+                prefix = f'<span class="verse-number">{number.group(1)}</span>'
+                stanza = stanza[number.end():]
+            raw = [line.strip() for line in stanza.split("\n") if line.strip()]
+            lines = [
+                f'<span class="verse-line'
+                + (' verse-line--last' if index == len(raw) - 1 else '')
+                + f'">{line}</span>'
+                for index, line in enumerate(raw)
+            ]
+            out.append(prefix + "\n".join(lines) + "\n{: .verse }")
+            continue
+        out.append(block)
+    return "\n\n".join(out)
+
+
 def render_sutta_page(
     surface: TranslationSurface,
     intro: str | None,
@@ -683,7 +731,7 @@ def render_sutta_page(
         lines.extend(render_guide(guide, glossary))
     else:
         lines.append(intro.strip() if intro else DEFAULT_INTRO)
-    lines.extend(["", "## Translation", "", body, ""])
+    lines.extend(["", "## Translation", "", present_verse(body), ""])
     lines.extend(render_terms_panel(entries))
     if feedback_enabled:
         manifest = feedback_manifest(
@@ -885,6 +933,7 @@ def render_all_suttas() -> str:
         ("AN", "Aṅguttara Nikāya", "the numbered discourses"),
         ("Iti", "Itivuttaka", "the short sayings, in the Khuddaka Nikāya"),
         ("Ud", "Udāna", "the inspired sayings, in the Khuddaka Nikāya"),
+        ("Dhp", "Dhammapada", "the verses on the Dhamma, in the Khuddaka Nikāya"),
     ]
 
     # A surface whose collection is missing from that list used to vanish from

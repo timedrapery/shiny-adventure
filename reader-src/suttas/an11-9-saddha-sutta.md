@@ -241,7 +241,7 @@ The ninth discourse is finished.
 
 - [← Four Steps That Lead to the Path](sn55-5-dutiyasariputta-sutta.md)
 - [All suttas](index.md)
-- [Two Kinds of Thinking →](mn19-dvedhavitakka-sutta.md)
+- [Heedfulness Is the Path to the Deathless →](dhp21-32-appamadavagga.md)
 
 </nav>
 

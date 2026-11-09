@@ -681,3 +681,44 @@
     border-bottom: 0;
   }
 }
+
+/* Verse. A stanza is one paragraph and each verse line its own span, set as
+   a block with a hanging indent so a line that wraps on a narrow screen is
+   distinguishable from the next line. A verse number, where the text has
+   one, sits in the left margin. */
+.md-typeset p.verse {
+  position: relative;
+  padding-inline-start: 2.5rem;
+}
+
+.md-typeset .verse-line {
+  display: block;
+  padding-inline-start: 1.5em;
+  text-indent: -1.5em;
+}
+
+/* The last line is an inline block so anything the page appends to the
+   stanza, such as a reader-feedback button, follows it on the same line
+   instead of opening an empty line of its own. */
+.md-typeset .verse-line--last {
+  display: inline-block;
+}
+
+.md-typeset .verse-number {
+  position: absolute;
+  inset-inline-start: 0;
+  min-width: 2rem;
+  font-size: 0.8em;
+  color: var(--md-default-fg-color--light);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 30em) {
+  .md-typeset p.verse {
+    padding-inline-start: 1.75rem;
+  }
+
+  .md-typeset .verse-number {
+    min-width: 1.5rem;
+  }
+}

@@ -87,6 +87,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## D
 
 <dl class="glossary-list">
+<dt><dfn>deathless</dfn> <span class="glossary-pali" lang="pi">(amata)</span></dt>
+<dd>A name for nibbāna: what does not die, because it was never born.</dd>
 <dt><dfn>defilements</dfn></dt>
 <dd>Broadly, qualities that cloud the mind and support harmful patterns. More specific terms on this site name particular ways such qualities obstruct, persist, bind, or flow out.</dd>
 <dt><dfn>deity</dfn></dt>
@@ -165,6 +167,12 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
 <dt><dfn>heart</dfn> <span class="glossary-pali" lang="pi">(citta)</span></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dt><dfn>heedful</dfn></dt>
+<dd>Living with heedfulness: awake to what you are doing and keeping up the effort.</dd>
+<dt><dfn>heedfulness</dfn> <span class="glossary-pali" lang="pi">(appamāda)</span></dt>
+<dd>This project&#x27;s rendering of &quot;appamāda&quot; -- staying awake to what you are doing, keeping up the effort, and coming back when attention slips. Often translated &quot;diligence&quot; or &quot;vigilance.&quot;</dd>
+<dt><dfn>heedlessness</dfn> <span class="glossary-pali" lang="pi">(pamāda)</span></dt>
+<dd>The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.</dd>
 <dt><dfn>higher knowing</dfn> <span class="glossary-pali" lang="pi">(abhiññā)</span></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 </dl>
@@ -312,6 +320,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
 <dt><dfn>seclusion</dfn> <span class="glossary-pali" lang="pi">(patisallana)</span></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
+<dt><dfn>security from the yoke</dfn> <span class="glossary-pali" lang="pi">(yogakkhema)</span></dt>
+<dd>A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.</dd>
 <dt><dfn>sensual desire</dfn> <span class="glossary-pali" lang="pi">(kāmacchanda)</span></dt>
 <dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>

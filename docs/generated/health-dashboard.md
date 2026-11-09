@@ -20,10 +20,10 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2219 |
-| Governed surfaces | 860 |
-| Ungoverned surfaces | 1359 |
-| Coverage by surface | 38.8% |
+| Distinct surfaces | 2231 |
+| Governed surfaces | 862 |
+| Ungoverned surfaces | 1369 |
+| Coverage by surface | 38.6% |
 | Coverage by occurrence | 59.7% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 67 |
-| `exact` | 394 |
+| `exact` | 396 |
 | `inflected` | 399 |
-| `none` | 1359 |
+| `none` | 1369 |
 
-### Ungoverned surfaces by frequency (1359 total)
+### Ungoverned surfaces by frequency (1369 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -82,8 +82,8 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 107 |
-| Declared renderings | 807 |
+| Documents declaring renderings | 109 |
+| Declared renderings | 809 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |
@@ -127,7 +127,7 @@ for a zero here. The acknowledged backlog lives in
 
 | Measure | Value |
 | --- | --- |
-| Unexplained disagreements | 30 |
+| Unexplained disagreements | 29 |
 | Waived by scoped exception | 0 |
 | Outside the acknowledged baseline | 0 |
 | Stale baseline entries | 0 |
@@ -138,7 +138,6 @@ for a zero here. The acknowledged backlog lives in
 | `ajjhattikāni āyatanāni` | 2 | `ayatana`: the internal fields; `salayatana`: the internal sense fields |
 | `alobho kusalamūlaṃ` | 1 | `alobha`: non-greed is a root of the wholesome; `alobha`: non-greed is a wholesome root |
 | `anupādisesā nibbānadhātu` | 2 | `anupadisesa-nibbana-dhatu`: the nibbāna element without remainder; `parinibbana-dhatu`: the nibbana element without fuel remaining |
-| `appamādo amatapadaṃ` | 3 | `amata`: heedfulness is the path to the deathless; `amatapada`: heedfulness is the path to the deathless; `appamada`: heedfulness is the deathless path |
 | `cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ` | 3 | `cakkhu`: dependent on the eye and visible forms, eye-knowing arises; `cakkhu-vinnana`: dependent on the eye and forms, eye-knowing arises; `rupa`: dependent on eye and visible forms, eye-knowing arises |
 | `cattāro satipaṭṭhānā` | 3 | `cattaro-satipatthana`: four establishments of sati; `samma-sati`: the four establishments of remembering; `satipatthana`: the four establishments of sati |
 | `catutthaṁ jhānaṁ` | 2 | `catuttha-jhana`: fourth mental theme; `jhana`: the fourth mental theme |
@@ -159,6 +158,7 @@ for a zero here. The acknowledged backlog lives in
 | `nāmarūpapaccayā saḷāyatanaṁ` | 5 | `namarupa`: with name-and-form as condition, the six fields of experience; `namarupa-paccaya`: with name-and-form as condition, six fields of experience; `namarupapaccaya-salayatanam`: with name-and-form as condition, the six fields of experience; `paccaya`: with name-and-form as condition, the six fields of experience; `salayatana`: with name-and-form as condition, six fields of experience |
 | `paṭhamaṁ jhānaṁ` | 2 | `jhana`: the first mental theme; `pathama-jhana`: first mental theme |
 | `phassasamudayā vedanāsamudayo` | 1 | `phassa-samudaya`: from the origin of contact comes the origin of felt experience; `phassa-samudaya`: with contact as origin, felt experience originates |
+| `Sabbe saṅkhārā aniccā` | 3 | `anicca`: all constructed things are impermanent; `anicca-sabbe-sankhara`: all that has been put together is impermanent; `sankhara`: all that has been put together is impermanent |
 
 ## Human review evidence
 
