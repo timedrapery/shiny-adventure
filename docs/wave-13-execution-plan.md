@@ -66,7 +66,7 @@ given a position.
    `not doing any evil, taking up the wholesome, purifying the mind`.
    Anchors `khanti` (`khantī paramaṁ tapo`, verse 184). Follows the Dhp 21–32
    framing.
-2. **Snp 1.8, the Karaṇīyamettā Sutta** — 134 Pali words in ten verses. What
+2. **Snp 1.8, the Karaṇīyamettā Sutta** — **complete 2026-11-09**. 134 Pali words in ten verses. What
    should be done by someone skilled in the good: friendliness for all
    beings, `as a mother would her only child`. The repository's first Sutta
    Nipāta surface; its notes settle the collection's framing.
@@ -133,7 +133,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **Snp 1.8**; Dhp 179–196 is published.
+unfinished queue item is **AN 8.41**; Dhp 179–196 and Snp 1.8 are
+published.
 
 ## Definition of Wave Completion
 

@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 76 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 77 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -143,6 +143,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 11 min · 1,911 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>A mind is like cloth: dye it while it is dirty and the colour comes out wrong. Ethics introduced through a simile instead of a rule list.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="introductory" data-form="teaching with verse" data-length="short" data-search="may all beings be happy snp 1.8 metta sutta ten verses on friendliness: the character it starts from, the wish for all beings to be happy, and a mother&#x27;s care for her only child. ethics and conduct · meditation">
+<h2><a href="../suttas/snp1-8-metta-sutta/">May All Beings Be Happy</a></h2>
+<p class="sutta-card__reference">Snp 1.8 · <span lang="pi">Metta Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 2 min · 267 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
+<p>Ten verses on friendliness: the character it starts from, the wish for all beings to be happy, and a mother&#x27;s care for her only child.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
 <h2><a href="../suttas/an3-69-akusalamula-sutta/">What Drives Harm—and What Ends It</a></h2>

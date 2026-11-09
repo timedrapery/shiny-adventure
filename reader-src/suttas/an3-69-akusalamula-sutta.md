@@ -248,7 +248,7 @@ The ninth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Dirty Cloth](mn7-vattha-sutta.md)
+- [← May All Beings Be Happy](snp1-8-metta-sutta.md)
 - [All suttas](index.md)
 - [Going With the Stream—or Against It →](an4-5-anusota-sutta.md)
 

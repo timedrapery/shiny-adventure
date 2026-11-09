@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (76 total)
+## Completed Surfaces (77 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -117,6 +117,8 @@ Use that full roadmap as the source of truth for:
   Closes Wave 12.
 - `Dhp 179-196` the Buddhavagga (The Teaching of the Buddhas) — complete
   2026-11-09. Verses 183 to 185 and the refuge verses. Opens Wave 13.
+- `Snp 1.8` Metta Sutta (May All Beings Be Happy) — complete 2026-11-09. The
+  Karaṇīyamettā; the first Sutta Nipāta surface.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -199,7 +201,7 @@ Use that full roadmap as the source of truth for:
 2026-11-09, is in the [Wave 13 execution plan](wave-13-execution-plan.md):
 
 1. `Dhp 179-196` the Buddhavagga — **complete 2026-11-09**. 210 words; verses 183 to 185, and `khanti`.
-2. `Snp 1.8` Karaṇīyamettā Sutta — 134 words; friendliness for all beings.
+2. `Snp 1.8` Karaṇīyamettā Sutta — **complete 2026-11-09**. 134 words; friendliness for all beings.
 3. `AN 8.41` Saṅkhittūposatha Sutta — 337 words; the observance day.
 4. `AN 8.54` Dīghajāṇu Sutta — 626 words; welfare for a householder.
 5. `AN 1.49-52` the luminous mind — 69 words in four short discourses.

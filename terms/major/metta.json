@@ -61,11 +61,18 @@
       "translation": "They dwell pervading one quarter with a mind imbued with loving-kindness",
       "notes": "Shows practice-focused use. MN 7 has no `bhāvetabba`; it states the brahmavihāra as pervading, not as a thing to be developed. Repaired 2026-08-21 in the inflected/inconclusive sweep.",
       "source": "MN 7"
+    },
+    {
+      "pali": "Mettañca sabbalokasmi, mānasaṁ bhāvaye aparimāṇaṁ",
+      "translation": "develop a boundless heart of friendliness toward the whole world",
+      "notes": "Snp 1.8, verse 8: friendliness as a boundless heart, after the image of a mother protecting her only child.",
+      "source": "Snp 1.8"
     }
   ],
   "sutta_references": [
     "DN 13",
-    "MN 7"
+    "MN 7",
+    "Snp 1.8"
   ],
   "tags": [
     "core-practice",
