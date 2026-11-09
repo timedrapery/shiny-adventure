@@ -13,7 +13,7 @@
   ],
   "untranslated_preferred": false,
   "definition": "A strength that stabilizes and supports practice so it does not easily collapse.",
-  "notes": "The project prefers strength because it stays readable and avoids the inflated tone that power can take on in religious or mystical contexts. Power remains acceptable in explanatory prose when the doctrinal pairing with faculties is being discussed as a familiar framework. The OSF glossary supports this by treating bala as stabilizing strength within practice rather than as mystical force, which supports the current handling.",
+  "notes": "The project prefers strength because it stays readable and avoids the inflated tone that power can take on in religious or mystical contexts. Power remains acceptable in explanatory prose when the doctrinal pairing with faculties is being discussed as a familiar framework. The OSF glossary supports this by treating bala as stabilizing strength within practice rather than as mystical force, which supports the current handling. Citations repointed in the 2026-11-09 Wave 12 audit from SN 50.1, which has no discrete source boundary upstream (it lives inside the twelve-discourse `sn50.1-12` repetition series), to AN 5.14, which names the five strengths and defines each one.",
   "context_rules": [
     {
       "context": "In the five strengths and related doctrinal frameworks",
@@ -39,17 +39,17 @@
       "pali": "pañca balāni",
       "translation": "the five strengths",
       "notes": "Shows the main collective expression for the framework.",
-      "source": "SN 50.1"
+      "source": "AN 5.14"
     },
     {
-      "pali": "saddhābala",
+      "pali": "Saddhābalaṁ",
       "translation": "the confidence strength",
       "notes": "Shows the term in compound use.",
-      "source": "SN 50.1"
+      "source": "AN 5.14"
     }
   ],
   "sutta_references": [
-    "SN 50.1"
+    "AN 5.14"
   ],
   "tags": [
     "core-practice",

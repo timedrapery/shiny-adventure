@@ -6,20 +6,9 @@
   "literal_meaning": "outflow of views",
   "preferred_translation": "outflow of views",
   "definition": "A named outflow-compound in the āsava family.",
-  "notes": "This compound should inherit the āsava headword policy. Keep the outflow-family logic explicit so the term does not collapse into plain views or view-clinging.",
+  "notes": "This compound should inherit the āsava headword policy. Keep the outflow-family logic explicit so the term does not collapse into plain views or view-clinging. Citation and example removed in the 2026-11-09 Wave 12 audit: DN 33 lists three outflows (`kāmāsavo`, `bhavāsavo`, `avijjāsavo`) and contains no form of `diṭṭhāsava`. The four-outflow list belongs to later sources, so the record is uncited.",
   "related_terms": [
     "asava"
-  ],
-  "example_phrases": [
-    {
-      "pali": "diṭṭhāsavo",
-      "translation": "the outflow of views",
-      "notes": "Shows a named member of the āsava family.",
-      "source": "DN 33"
-    }
-  ],
-  "sutta_references": [
-    "DN 33"
   ],
   "tags": [
     "core-doctrine",

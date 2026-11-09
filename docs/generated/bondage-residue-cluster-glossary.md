@@ -13,7 +13,6 @@
 | pañca-nīvaraṇā | five hindrances | five distractions | five problems |
 | avijjāsava | outflow of ignorance | - | - |
 | kāmāsava | sensual outflow | - | - |
-| diṭṭhāsava | outflow of views | - | - |
 | bhavāsava | outflow of becoming | - | - |
 | avijjā-anusaya | underlying tendency toward ignorance | - | - |
 | kāmarāga-anusaya | underlying tendency toward sensual passion | - | - |

@@ -41,10 +41,17 @@
       "translation": "all that has been put together is unsatisfactory",
       "notes": "Keep saṅkhārā on the result-side reading and let dukkha stay adjective-grade in this fixed line. The headword preserves the house formula label; the quotation follows the MS source's exact word order.",
       "source": "Dhp 278"
+    },
+    {
+      "pali": "Sabbe saṅkhārā dukkhā.",
+      "translation": "all that has been put together is unsatisfactory",
+      "notes": "The same line in AN 3.136, stated as something that holds whether or not Tathāgatas arise. Recorded because the Dhammapada source is in the verifier's unsupported set.",
+      "source": "AN 3.136"
     }
   ],
   "sutta_references": [
-    "Dhp 278"
+    "Dhp 278",
+    "AN 3.136"
   ],
   "tags": [
     "three-marks",

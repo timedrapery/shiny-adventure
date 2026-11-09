@@ -38,10 +38,17 @@
       "translation": "all phenomena are not-self",
       "notes": "Controlled formula-level override of the headword default for dhamma.",
       "source": "Dhp 279"
+    },
+    {
+      "pali": "Sabbe dhammā anattā.",
+      "translation": "all phenomena are not-self",
+      "notes": "The same line in AN 3.136, stated as something that holds whether or not Tathāgatas arise. Recorded because the Dhammapada source is in the verifier's unsupported set.",
+      "source": "AN 3.136"
     }
   ],
   "sutta_references": [
-    "Dhp 279"
+    "Dhp 279",
+    "AN 3.136"
   ],
   "tags": [
     "three-marks",

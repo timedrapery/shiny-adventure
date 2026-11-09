@@ -209,9 +209,9 @@ standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-Wave 11 is complete: Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122 are
-all published (see the [Wave 11 execution plan](docs/wave-11-execution-plan.md)).
-The next queue needs a fresh audit before a sutta is given a position.
+The next translation is **AN 3.136, the Uppāda Sutta**, the first item in the
+[Wave 12 execution plan](docs/wave-12-execution-plan.md). Wave 11 is complete:
+Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122 are all published.
 
 Picking the work up cold: for translation expansion, start with the
 [Wave 11 execution plan](docs/wave-11-execution-plan.md), then use

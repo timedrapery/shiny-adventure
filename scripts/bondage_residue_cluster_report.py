@@ -35,7 +35,9 @@ SUPPORTING_TERMS = [
     "panca-nivarana",
     "avijjasava",
     "kamasava",
-    "ditthasava",
+    # `ditthasava` is not listed: the suttas name three outflows, and the
+    # outflow of views belongs to later lists. Its only citation (DN 33) was
+    # false and was removed in the Wave 12 audit, so it has no sutta example.
     "bhavasava",
     "avijja-anusaya",
     "kamaraga-anusaya",
