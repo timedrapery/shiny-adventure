@@ -10,5 +10,16 @@
   "tags": [
     "core-practice",
     "mental-qualities"
+  ],
+  "sutta_references": [
+    "AN 5.14"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Katamañca, bhikkhave, vīriyabalaṁ?",
+      "translation": "And what, bhikkhus, is the energy strength?",
+      "notes": "AN 5.14 defines it as aroused energy for abandoning the unwholesome and taking up the wholesome.",
+      "source": "AN 5.14"
+    }
   ]
 }

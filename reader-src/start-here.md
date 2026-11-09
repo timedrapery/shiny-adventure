@@ -1,6 +1,6 @@
 # Start Here
 
-A suggested order for reading the 71 translations in this collection, for someone new to this material.
+A suggested order for reading the 72 translations in this collection, for someone new to this material.
 
 This is deliberately **not** the project's internal translation roadmap. That roadmap ranks texts by editorial leverage — which translation next does the most to strengthen the lexicon. This page ranks the same texts by a different question: if you have never read early Buddhist material, what order actually makes sense? The two orderings often disagree, and that is expected.
 
@@ -110,6 +110,7 @@ Technical material that rewards already knowing the vocabulary cold. These are t
 - [**The Longer Questions and Answers**](suttas/mn43-mahavedalla-sutta.md) (MN 43, Mahāvedalla Sutta) — about 17 min · 2,918 words. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.
 - [**The Four Bases of Power**](suttas/sn51-13-chandasamadhi-sutta.md) (SN 51.13, Chandasamādhi Sutta) — about 3 min · 493 words. One short formula, stated four times, defining the four bases of power. Useful mainly as a reference for how the effort formula is built.
 - [**The Five Faculties**](suttas/sn48-10-dutiyavibhanga-sutta.md) (SN 48.10, Dutiyavibhaṅga Sutta) — about 4 min · 645 words. Five definitions, one per faculty, each written as something a person does rather than something they have. The shortest place to see confidence, energy, remembering, unification of mind, and discernment treated as one set.
+- [**The Five Strengths**](suttas/an5-14-vitthata-sutta.md) (AN 5.14, Vitthata Sutta) — about 3 min · 408 words. The five strengths named and defined, in the same words SN 48.10 uses for the five faculties.
 - [**The Five Lower Fetters**](suttas/mn64-mahamalukya-sutta.md) (MN 64, Mahāmālukya Sutta) — about 14 min · 2,405 words. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
 - [**Who Counts as a Genuine Practitioner?**](suttas/mn11-culasihanada-sutta.md) (MN 11, Cūḷasīhanāda Sutta) — about 11 min · 1,845 words. A claim about who counts as a genuine practitioner, grounded in whether a teaching can account for all four ways of taking things personally — including taking a doctrine of self personally.
 - [**The Six Fields of Experience**](suttas/mn137-salayatanavibhanga-sutta.md) (MN 137, Saḷāyatanavibhaṅga Sutta) — about 14 min · 2,484 words. A technical analysis of the six fields of experience.

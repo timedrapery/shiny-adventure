@@ -100,7 +100,7 @@ priority.
    awakens to it and makes it known. Anchors `aniccā sabbasaṅkhārā`,
    `dukkhā sabbasaṅkhārā`, and `sabbe dhammā anattā`, and gives SN 12.20's
    `ṭhitāva sā dhātu dhammaṭṭhitatā dhammaniyāmatā` a second surface.
-2. **AN 5.14, Vitthata Sutta** — 181 Pali words; its four mental themes are
+2. **AN 5.14, Vitthata Sutta** — **complete 2026-11-09**. 181 Pali words; its four mental themes are
    written out in the source. Names and defines the five strengths and
    anchors the orphan major `bala`. The faith definition is the Tathāgata's
    epithets (DN 2), and the strengths follow SN 48.10's faculties.
@@ -187,7 +187,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **AN 5.14**; AN 3.136 is published. Keep each translation packet together
+unfinished queue item is **Dhp 273–289**; AN 3.136 and AN 5.14 are
+published. Keep each translation packet together
 on one branch, and record completed work, open questions, and the next action
 in the surface notes or this plan.
 

@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 71 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 72 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -458,6 +458,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Advanced · Practice instructions · Short · about 4 min · 645 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Five definitions, one per faculty, each written as something a person does rather than something they have. The shortest place to see confidence, energy, remembering, unification of mind, and discernment treated as one set.</p>
+</article>
+<article class="sutta-card" data-topic="meditation" data-difficulty="advanced" data-form="practice instructions" data-length="short" data-search="the five strengths an 5.14 vitthata sutta the five strengths named and defined, in the same words sn 48.10 uses for the five faculties. meditation">
+<h2><a href="../suttas/an5-14-vitthata-sutta/">The Five Strengths</a></h2>
+<p class="sutta-card__reference">AN 5.14 · <span lang="pi">Vitthata Sutta</span></p>
+<p class="sutta-card__meta">Advanced · Practice instructions · Short · about 3 min · 408 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
+<p>The five strengths named and defined, in the same words SN 48.10 uses for the five faculties.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the five lower fetters mn 64 mahāmālukya sutta the five lower fetters, and the companion piece to mn 63 — same disciple, later in his practice. mind and senses">
 <h2><a href="../suttas/mn64-mahamalukya-sutta/">The Five Lower Fetters</a></h2>
