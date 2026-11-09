@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (68 total)
+## Completed Surfaces (69 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -93,6 +93,10 @@ Use that full roadmap as the source of truth for:
   verse surface: twelve numbered verses on heedfulness. Its notes settle how
   verse is set, numbered, and titled, and the reader now displays verse as
   verse on every page that has it. Anchors `appamāda` and `amatapada`.
+- `SN 22.26` Assāda Sutta (What the Heaps Offer, and the Way Out) — complete
+  2026-11-09. The Buddha's account of asking, before his awakening, for the
+  gratification, danger, and escape of each of the five clung-to heaps.
+  Anchors that formula exactly.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -181,8 +185,8 @@ Use that full roadmap as the source of truth for:
    `asaṅkhata-dhātu`, and settles the Udāna framing formula.
 3. `SN 22.22` Bhāra Sutta — **complete 2026-11-08**. 108 words, anchors the
    burden formula.
-4. `SN 22.26` Assāda Sutta — 223 words, anchors the gratification, danger, and
-   escape formula for the five heaps.
+4. `SN 22.26` Assāda Sutta — **complete 2026-11-09**. 223 words, anchors the
+   gratification, danger, and escape formula for the five heaps.
 5. `MN 122` Mahāsuññata Sutta — 1,547 words, anchors `appicchatā` and
    `asaṁsagga`. Take it last.
 

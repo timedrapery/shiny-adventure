@@ -370,3 +370,5 @@
 *[deathless]: A name for nibbāna: what does not die, because it was never born.
 
 *[security from the yoke]: A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.
+
+*[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
