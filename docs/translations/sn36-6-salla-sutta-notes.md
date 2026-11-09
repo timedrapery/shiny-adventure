@@ -21,8 +21,8 @@ source-audit calls, and edition notes that govern it.
 
 - `vedanā` remains `felt experience` at the headword level.
 - The explicit three-register opening coordinates the three governed labels as
-  `pleasant, painful, and neutral feelings`. The full labels `pleasant feeling`,
-  `painful feeling`, and `neutral feeling` remain explicit in the repeated prose.
+  `pleasant, painful, and mixed feelings`. The full labels `pleasant feeling`,
+  `painful feeling`, and `mixed feeling` remain explicit in the repeated prose.
 - `assutavā puthujjano` remains `unlearned ordinary person`.
 - `sutavā ariyasāvaka` remains `learned noble disciple`.
 - `dukkhāya vedanāya phuṭṭho samāno ...` reuses the existing MN 148 painful
@@ -93,7 +93,7 @@ alone.
   chest-beating grief, and confusion.
 - The ordinary pattern then turns toward sensual pleasure as the imagined
   escape from painful feeling, which leaves the passion tendency in place.
-- The neutral-feeling line remains important: without discerning the arising,
+- The mixed-feeling line remains important: without discerning the arising,
   vanishing, gratification, danger, and escape in feelings, the ignorance
   tendency remains.
 

@@ -11,7 +11,7 @@
     "one objectively understands a cycle of neutrality"
   ],
   "definition": "MN 148 formula for discerning a feeling's arising, vanishing, gratification, danger, and escape.",
-  "notes": "This formula should be read together with the project's vedanā, nissaraṇa, and yathābhūtaṁ pajānāti policies. In MN 148 it is the decisive contrast with the neutral-feeling line that is not discerned. The repository keeps mixed rather than neutral in the surrounding register language.",
+  "notes": "This formula should be read together with the project's vedanā, nissaraṇa, and yathābhūtaṁ pajānāti policies. In MN 148 it is the decisive contrast with the mixed-feeling line that is not discerned. The repository keeps mixed rather than neutral in the surrounding register language.",
   "related_terms": [
     "nissarana",
     "pajanati",
@@ -22,7 +22,7 @@
     {
       "pali": "vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca yathābhūtaṁ pajānāti",
       "translation": "they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
-      "notes": "Discernment line in the trained half of MN 148's neutral-feeling sequence.",
+      "notes": "Discernment line in the trained half of MN 148's mixed-feeling sequence.",
       "source": "MN 148"
     }
   ],
@@ -40,12 +40,12 @@
     {
       "source": "MN 148",
       "kind": "context-rule",
-      "scope": "Supports the discernment line that blocks the ignorance tendency tied to neutral feeling."
+      "scope": "Supports the discernment line that blocks the ignorance tendency tied to mixed feeling."
     }
   ],
   "translation_policy": {
     "default_scope": "Use this as the standard English control line for the MN 148 feeling-discernment formula.",
-    "when_not_to_apply": "Do not flatten the line into generic understanding language and do not replace the surrounding neutral-feeling register with neutrality wording.",
+    "when_not_to_apply": "Do not flatten the line into generic understanding language and do not replace the surrounding mixed-feeling register with neutrality wording.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents the formula from losing either the five-part discernment structure or the sharper verbal force of pajānāti."
   }

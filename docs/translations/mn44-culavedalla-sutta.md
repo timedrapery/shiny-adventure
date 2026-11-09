@@ -314,9 +314,9 @@ seclusion, slopes to seclusion, and leans to seclusion."
 
 - pleasant feeling
 - painful feeling
-- neutral feeling"
+- mixed feeling"
 
-"Ayye, what is pleasant feeling? What is painful feeling? What is neutral
+"Ayye, what is pleasant feeling? What is painful feeling? What is mixed
 feeling?"
 
 "Friend Visākha, whatever bodily or mental satisfaction, whatever agreeable
@@ -326,11 +326,11 @@ Whatever bodily or mental dissatisfaction, whatever disagreeable felt
 experience is felt: this is painful feeling.
 
 Whatever bodily or mental felt experience is neither agreeable nor
-disagreeable: this is neutral feeling."
+disagreeable: this is mixed feeling."
 
 "Ayye, in what way is pleasant feeling satisfying, and in what way is it
 dissatisfying? In what way is painful feeling satisfying, and in what way is
-it dissatisfying? In what way is neutral feeling satisfying, and in what way is
+it dissatisfying? In what way is mixed feeling satisfying, and in what way is
 it dissatisfying?"
 
 "Friend Visākha, pleasant feeling is satisfying while it stays and
@@ -339,35 +339,35 @@ dissatisfying when it changes.
 Painful feeling is dissatisfying while it stays and satisfying when it
 changes.
 
-Neutral feeling is satisfying when there is knowledge and dissatisfying when
+Mixed feeling is satisfying when there is knowledge and dissatisfying when
 there is no knowledge."
 
 ### Felt Experience and Underlying Tendencies
 
 "Ayye, what underlying tendency lies underneath pleasant feeling? What
 underlying tendency lies underneath painful feeling? What underlying tendency
-lies underneath neutral feeling?"
+lies underneath mixed feeling?"
 
 "Friend Visākha, the underlying tendency toward passion lies underneath
 pleasant feeling.
 
 The underlying tendency toward resistance lies underneath painful feeling.
 
-The underlying tendency toward ignorance lies underneath neutral feeling."
+The underlying tendency toward ignorance lies underneath mixed feeling."
 
 "Ayye, does the underlying tendency toward passion lie underneath every
 pleasant feeling? Does the underlying tendency toward resistance lie underneath
 every painful feeling? Does the underlying tendency toward ignorance lie
-underneath every neutral feeling?"
+underneath every mixed feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion does not lie
 underneath every pleasant feeling. The underlying tendency toward resistance
 does not lie underneath every painful feeling. The underlying tendency toward
-ignorance does not lie underneath every neutral feeling."
+ignorance does not lie underneath every mixed feeling."
 
 "Ayye, what should be abandoned in relation to pleasant feeling? What should be
 abandoned in relation to painful feeling? What should be abandoned in relation
-to neutral feeling?"
+to mixed feeling?"
 
 "Friend Visākha, the underlying tendency toward passion should be abandoned in
 relation to pleasant feeling.
@@ -376,18 +376,18 @@ The underlying tendency toward resistance should be abandoned in relation to
 painful feeling.
 
 The underlying tendency toward ignorance should be abandoned in relation to
-neutral feeling."
+mixed feeling."
 
 "Ayye, should the underlying tendency toward passion be abandoned in relation
 to every pleasant feeling? Should the underlying tendency toward resistance be
 abandoned in relation to every painful feeling? Should the underlying tendency
-toward ignorance be abandoned in relation to every neutral feeling?"
+toward ignorance be abandoned in relation to every mixed feeling?"
 
 "No, friend Visākha. The underlying tendency toward passion should not be
 abandoned in relation to every pleasant feeling. The underlying tendency toward
 resistance should not be abandoned in relation to every painful feeling. The
 underlying tendency toward ignorance should not be abandoned in relation to
-every neutral feeling.
+every mixed feeling.
 
 Friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
@@ -425,9 +425,9 @@ ignorance does not lie there."
 
 "Friend Visākha, pleasant feeling is the counterpart of painful feeling."
 
-"Ayye, what is the counterpart of neutral feeling?"
+"Ayye, what is the counterpart of mixed feeling?"
 
-"Friend Visākha, ignorance is the counterpart of neutral feeling."
+"Friend Visākha, ignorance is the counterpart of mixed feeling."
 
 "Ayye, what is the counterpart of ignorance?"
 
