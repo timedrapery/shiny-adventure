@@ -339,7 +339,7 @@ The fourth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Putting Down the Burden](sn22-22-bhara-sutta.md)
+- [← What the Heaps Offer, and the Way Out](sn22-26-assada-sutta.md)
 - [All suttas](index.md)
 - [The Lingering Sense of 'I Am' →](sn22-89-khemaka-sutta.md)
 

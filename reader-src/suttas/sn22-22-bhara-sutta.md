@@ -147,7 +147,7 @@ The first discourse is finished.
 
 - [← The Five Heaps](sn22-48-khandha-sutta.md)
 - [All suttas](index.md)
-- [Can You Pin Down the Tathāgata? →](sn22-86-anuradha-sutta.md)
+- [What the Heaps Offer, and the Way Out →](sn22-26-assada-sutta.md)
 
 </nav>
 

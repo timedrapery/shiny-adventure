@@ -522,7 +522,7 @@ Buddha's words.
 The second discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (37)</summary>
+<summary>Words used in this translation (38)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -562,6 +562,8 @@ The second discourse is finished.
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>gladness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dt><dfn>gratification</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;assāda&quot; -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing&#x27;s danger and the escape from it, so that all three are seen together.</dd>
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
@@ -641,6 +643,7 @@ The second discourse is finished.
 *[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.

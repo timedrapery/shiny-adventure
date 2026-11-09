@@ -222,6 +222,11 @@ Current SN 22.22 surfaces:
 - [sn22-22-bhara-sutta.md](sn22-22-bhara-sutta.md): main shareable translation text
 - [sn22-22-bhara-sutta-notes.md](sn22-22-bhara-sutta-notes.md): companion translator notes and rationale
 
+Current SN 22.26 surfaces:
+
+- [sn22-26-assada-sutta.md](sn22-26-assada-sutta.md): main shareable translation text
+- [sn22-26-assada-sutta-notes.md](sn22-26-assada-sutta-notes.md): companion translator notes and rationale
+
 Current SN 22.89 surfaces:
 
 - [sn22-89-khemaka-sutta.md](sn22-89-khemaka-sutta.md): main shareable translation text

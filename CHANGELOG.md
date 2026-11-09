@@ -8,6 +8,14 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of SN 22.26, Assāda Sutta (What
+  the Heaps Offer, and the Way Out), with notes, a reader introduction, and a
+  reader page in stage 4 after SN 22.22. Before his awakening the Buddha asks
+  the gratification, danger, and escape of each of the five clung-to heaps,
+  and says he claimed awakening only once he knew all three as they really
+  are. The opening follows MN 19 and the declaration SN 56.11 word for word;
+  the abbreviated recognition passage is expanded. Wave 11 item 4. Adds a
+  `gratification` reader gloss that also serves DN 15 and MN 11.
 - Added a governed plain-English translation of Dhp 21-32, the Appamādavagga
   (Heedfulness Is the Path to the Deathless): the repository's first
   Dhammapada surface and first all-verse surface. Its notes settle the verse
@@ -346,7 +354,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 68 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 69 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

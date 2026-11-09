@@ -156,6 +156,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
 <dt><dfn>going forth</dfn> <span class="glossary-pali" lang="pi">(pabbajjā)</span></dt>
 <dd>Leaving household life to live as a monastic.</dd>
+<dt><dfn>gratification</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;assāda&quot; -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing&#x27;s danger and the escape from it, so that all three are seen together.</dd>
 <dt><dfn>greed</dfn> <span class="glossary-pali" lang="pi">(lobha)</span></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
 </dl>

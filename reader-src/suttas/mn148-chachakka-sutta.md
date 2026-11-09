@@ -537,7 +537,7 @@ And while this exposition was being spoken, the minds of sixty bhikkhus were
 released from the outflows through not taking anything personally.
 
 <details class="reader-terms">
-<summary>Words used in this translation (24)</summary>
+<summary>Words used in this translation (25)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -563,6 +563,8 @@ released from the outflows through not taking anything personally.
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
+<dt><dfn>gratification</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;assāda&quot; -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing&#x27;s danger and the escape from it, so that all three are seen together.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
@@ -622,6 +624,7 @@ released from the outflows through not taking anything personally.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
+*[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.

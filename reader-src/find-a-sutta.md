@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 68 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 69 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -304,6 +304,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Intermediate · Teaching with verse · Short · about 2 min · 301 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down. The second and third truths in one image.</p>
+</article>
+<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="what the heaps offer, and the way out sn 22.26 assāda sutta before his awakening, the buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out. not-self">
+<h2><a href="../suttas/sn22-26-assada-sutta/">What the Heaps Offer, and the Way Out</a></h2>
+<p class="sutta-card__reference">SN 22.26 · <span lang="pi">Assāda Sutta</span></p>
+<p class="sutta-card__meta">Intermediate · Analysis · Short · about 4 min · 559 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
+<p>Before his awakening, the Buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out.</p>
 </article>
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether the tathāgata can be pinned down through the five heaps even here and now. not-self">
 <h2><a href="../suttas/sn22-86-anuradha-sutta/">Can You Pin Down the Tathāgata?</a></h2>

@@ -102,8 +102,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "4", "SN 22.26", "Assāda", 223, "—",
-        "anchors the gratification, danger, and escape formula for the five heaps, exactly",
+        "wave 11", "SN 22.26", "Assāda", 223, "—",
+        "published 2026-11-09; anchors the gratification, danger, and escape formula for the five heaps",
+        published=True,
     ),
     QueueItem(
         "5", "MN 122", "Mahāsuññata", 1547, "—",
