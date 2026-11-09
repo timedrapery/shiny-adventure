@@ -15,5 +15,17 @@
     "liberation",
     "meditative-development",
     "emptiness-interface"
+  ],
+  "sutta_references": [
+    "SN 43.4",
+    "DN 33"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Suññato samādhi, animitto samādhi, appaṇihito samādhi",
+      "translation": "unification that comes forth from emptiness, signless samadhi, wishless samadhi",
+      "notes": "SN 43.4 names the three together as the path to the unconditioned; DN 33 lists them among the threes. Cited in the 2026-11-09 Wave 12 emptiness-cluster citation pass.",
+      "source": "SN 43.4"
+    }
   ]
 }

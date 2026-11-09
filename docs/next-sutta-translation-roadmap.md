@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (74 total)
+## Completed Surfaces (75 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -112,6 +112,9 @@ Use that full roadmap as the source of truth for:
 - `AN 6.19` Maraṇassati Sutta (Recollecting Death, One Breath at a Time) —
   complete 2026-11-09. Six ways of recollecting death, sorted into heedless
   and heedful. Anchors `maraṇassati`.
+- `MN 121` Cūḷasuññata Sutta (Emptiness, Step by Step) — complete
+  2026-11-09. The gradual entry into emptiness; the companion to MN 122.
+  Closes Wave 12.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -190,7 +193,7 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 12 is the active wave.** Its queue, verified against the root texts on
+**Wave 12 is complete.** The next queue needs a fresh audit. Its queue, verified against the root texts on
 2026-11-09, is in the [Wave 12 execution plan](wave-12-execution-plan.md):
 
 1. `AN 3.136` Uppāda Sutta — **complete 2026-11-09**. 94 words; the three
@@ -200,7 +203,7 @@ Use that full roadmap as the source of truth for:
 3. `Dhp 273-289` the Maggavagga — **complete 2026-11-09**. 209 words; the Path chapter, with verses
    277 to 279.
 4. `AN 6.19` Maraṇassati Sutta — **complete 2026-11-09**. 487 words; recollection of death.
-5. `MN 121` Cūḷasuññata Sutta — 995 words; the companion to MN 122, after a
+5. `MN 121` Cūḷasuññata Sutta — **complete 2026-11-09**. 995 words; the companion to MN 122, after a
    citation pass on the emptiness cluster.
 
 ### Wave 11 (complete)
