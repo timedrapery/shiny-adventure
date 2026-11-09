@@ -277,6 +277,15 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Ran a plain-readability pass over the translations with every house term
+  kept: forms of address moved out of mid-sentence, the bare `Here` opener
+  dropped, `Having ...ed` clauses rewritten, the release declaration unified
+  on its governed formula, and `they fade` replaced by `their passion fades`.
+  SN 22.59 and AN 2.9 were left unchanged so their review evidence stays
+  bound. See `docs/plain-readability-handoff.md` for what was done, what was
+  left, and what to do next.
+- Defined `ignorant wanting` for readers as "wanting something you can't have
+  right now", in the glossary and as a newcomer context rule on `taṇhā`.
 - Rendered `adukkhamasukhā vedanā` as `neutral feeling` instead of `mixed
   feeling` in all nine translations that name the third feeling register, with
   their notes, records, glossary, and checks. In ordinary English `mixed

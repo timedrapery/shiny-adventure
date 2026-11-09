@@ -392,7 +392,7 @@ released through final knowledge:
   or apart from it, does not think of it as 'mine', and does not delight in it.
 - Why? The Tathāgata knows that delight is the root of
   dissatisfaction, that with becoming there is birth, and that for whatever is
-  born there are aging and death. Therefore, with the wearing away, fading,
+  born there are ageing and death. Therefore, with the wearing away, fading,
   quenching, giving up, and relinquishment of ignorant wanting in every way,
   the Tathāgata has awakened to unsurpassed full awakening, I say.
 

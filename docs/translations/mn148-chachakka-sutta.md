@@ -517,7 +517,8 @@ tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 They become disenchanted with mind, with dhammas, with mind-knowing, with mind-
 contact, with felt experience, and with ignorant wanting.
 
-Being disenchanted, they fade. Through fading, they are released.
+As they grow disenchanted, their passion fades. Through its fading, they are
+released.
 
 When it is released, there is the knowledge: 'It is released.'
 

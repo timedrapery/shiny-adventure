@@ -99,7 +99,7 @@ When this was said, the bhikkhu Ariṭṭha sat silent, abashed, shoulders
 drooping, downcast, dejected, unable to respond.
 
 Knowing this, the Buddha said: "Stupid man, you will be known by your own
-pernicious view. I shall now question the bhikkhus about this."
+pernicious view. I will now question the bhikkhus about this."
 
 Then the Buddha said to the bhikkhus: "Do you understand my teaching as
 the bhikkhu Ariṭṭha does, when he misrepresents me by his wrong grasp, harms
@@ -179,8 +179,8 @@ about it, or ask competent bhikkhus.
 
 ### The Teaching as a Raft
 
-Bhikkhus, I shall teach you the teaching as like a raft — for crossing over,
-not for holding on. Listen carefully, apply your mind well, and I shall speak."
+Bhikkhus, I will teach you the teaching as like a raft — for crossing over, not
+for holding on. Listen carefully, apply your mind well, and I will speak."
 
 "Yes, Bhante," they replied.
 
@@ -386,10 +386,10 @@ not my self.'
 Bhikkhus, seeing this, a learned noble disciple grows disenchanted with form,
 grows disenchanted with felt experience, grows disenchanted with recognition,
 grows disenchanted with what is put together, grows disenchanted with knowing.
-Growing disenchanted, they fade. Fading, they are released. Being released, the
-knowledge arises: 'Released.' They understand: 'Birth is finished, the
-spiritual life has been lived, what had to be done has been done, there is
-nothing further for this.'
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.' They
+discern: 'Birth is worn away, the spiritual life has been lived, what had to be
+done has been done, there is no more of this state of being.'
 
 ### The Five Epithets of Liberation
 

@@ -7,7 +7,7 @@
 
 *MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,432 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,429 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -108,7 +108,7 @@ When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
 Knowing this, the Buddha said to him: "Stupid man, you will be known by your
-own pernicious view. I shall now question the bhikkhus about this."
+own pernicious view. I will now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 
@@ -125,33 +125,32 @@ condition there is no arising of knowing. But still this bhikkhu Sāti
 misrepresents me by his wrong grasp, harms himself, and accumulates much
 demerit. That will be for his long-lasting harm and suffering.
 
-Bhikkhus, whatever knowing arises in dependence upon a condition, it is
-reckoned by that very condition. Knowing that arises in dependence on eye and
-sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
+Bhikkhus, whatever knowing arises depending on a condition, it is reckoned by
+that very condition. Knowing that arises in dependence on eye and sights is
+reckoned as eye-knowing. Knowing that arises in dependence on ear and sounds is
+reckoned as ear-knowing. Knowing that arises in dependence on nose and smells
+is reckoned as nose-knowing. Knowing that arises in dependence on tongue and
+tastes is reckoned as tongue-knowing. Knowing that arises in dependence on body
+and touches is reckoned as body-knowing. Knowing that arises in dependence on
+thinking mind and ideas is reckoned as mind-knowing.
+
+It is like fire. Whatever fire burns depending on a condition, it is reckoned
+by that very condition. A fire that burns in dependence on logs is reckoned as
+a log-fire. A fire that burns in dependence on kindling-chips is reckoned as a
+kindling-chip-fire. A fire that burns in dependence on grass is reckoned as a
+grass-fire. A fire that burns in dependence on cow-dung is reckoned as a
+cow-dung-fire. A fire that burns in dependence on husks is reckoned as a
+husk-fire. A fire that burns in dependence on rubbish is reckoned as a
+rubbish-fire.
+
+In the same way, bhikkhus, whatever knowing arises depending on a condition, it
+is reckoned by that very condition. Knowing that arises in dependence on eye
+and sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
 and sounds is reckoned as ear-knowing. Knowing that arises in dependence on
 nose and smells is reckoned as nose-knowing. Knowing that arises in dependence
 on tongue and tastes is reckoned as tongue-knowing. Knowing that arises in
 dependence on body and touches is reckoned as body-knowing. Knowing that arises
 in dependence on thinking mind and ideas is reckoned as mind-knowing.
-
-It is like fire. Whatever fire burns in dependence upon a condition, it is
-reckoned by that very condition. A fire that burns in dependence on logs is
-reckoned as a log-fire. A fire that burns in dependence on kindling-chips is
-reckoned as a kindling-chip-fire. A fire that burns in dependence on grass is
-reckoned as a grass-fire. A fire that burns in dependence on cow-dung is
-reckoned as a cow-dung-fire. A fire that burns in dependence on husks is
-reckoned as a husk-fire. A fire that burns in dependence on rubbish is reckoned
-as a rubbish-fire.
-
-In the same way, bhikkhus, whatever knowing arises in dependence upon a
-condition, it is reckoned by that very condition. Knowing that arises in
-dependence on eye and sights is reckoned as eye-knowing. Knowing that arises in
-dependence on ear and sounds is reckoned as ear-knowing. Knowing that arises in
-dependence on nose and smells is reckoned as nose-knowing. Knowing that arises
-in dependence on tongue and tastes is reckoned as tongue-knowing. Knowing that
-arises in dependence on body and touches is reckoned as body-knowing. Knowing
-that arises in dependence on thinking mind and ideas is reckoned as
-mind-knowing.
 
 ### What Has Come to Be
 
@@ -890,7 +889,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn38/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `b3a4e1c5`
+- **Last editorial review:** 2026-11-08 · body version `689b6712`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -51,8 +51,8 @@ Bhikkhus, this is called the energy strength.
 
 And what is the remembering strength, bhikkhus?
 
-A noble disciple remembers. They possess the highest carefulness in
-remembering, and they recall and call to mind what was done and said long ago.
+A noble disciple remembers. They have the highest carefulness in remembering,
+and they recall and call to mind what was done and said long ago.
 
 Bhikkhus, this is called the remembering strength.
 
@@ -85,8 +85,8 @@ Bhikkhus, this is called the unification strength.
 
 And what is the discernment strength, bhikkhus?
 
-A noble disciple discerns. They possess the discernment that leads to arising
-and passing away — noble, penetrating, rightly leading to the wearing away of
+A noble disciple discerns. They have the discernment that leads to arising and
+passing away — noble, penetrating, rightly leading to the wearing away of
 dissatisfaction.
 
 Bhikkhus, this is called the discernment strength.

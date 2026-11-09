@@ -7,7 +7,7 @@
 
 *AN 6.19, the Maraṇassati Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 779 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 773 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -49,16 +49,16 @@ recollection of death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for a night and a day, I would
-attend to the Buddha's instruction. I would have done a great deal.' That is
-how I develop recollection of death."
+"Bhante, I think: 'If only I might live for a night and a day, I would attend
+to the Buddha's instruction. I would have done a great deal.' That is how I
+develop recollection of death."
 
 Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
 death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for a day, I would attend to the
+"Bhante, I think: 'If only I might live for a day, I would attend to the
 Buddha's instruction. I would have done a great deal.' That is how I develop
 recollection of death."
 
@@ -67,8 +67,26 @@ death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for as long as it takes to eat
-one meal of alms food, I would attend to the Buddha's instruction. I would have
+"Bhante, I think: 'If only I might live for as long as it takes to eat one meal
+of alms food, I would attend to the Buddha's instruction. I would have done a
+great deal.' That is how I develop recollection of death."
+
+Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
+death."
+
+"And how do you develop it, bhikkhu?"
+
+"Bhante, I think: 'If only I might live for as long as it takes to chew and
+swallow four or five mouthfuls, I would attend to the Buddha's instruction. I
+would have done a great deal.' That is how I develop recollection of death."
+
+Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
+death."
+
+"And how do you develop it, bhikkhu?"
+
+"Bhante, I think: 'If only I might live for as long as it takes to chew and
+swallow one mouthful, I would attend to the Buddha's instruction. I would have
 done a great deal.' That is how I develop recollection of death."
 
 Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
@@ -76,28 +94,10 @@ death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for as long as it takes to chew
-and swallow four or five mouthfuls, I would attend to the Buddha's instruction.
-I would have done a great deal.' That is how I develop recollection of death."
-
-Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
-death."
-
-"And how do you develop it, bhikkhu?"
-
-"Here, Bhante, I think: 'If only I might live for as long as it takes to chew
-and swallow one mouthful, I would attend to the Buddha's instruction. I would
-have done a great deal.' That is how I develop recollection of death."
-
-Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
-death."
-
-"And how do you develop it, bhikkhu?"
-
-"Here, Bhante, I think: 'If only I might live for as long as it takes to
-breathe in after breathing out, or to breathe out after breathing in, I would
-attend to the Buddha's instruction. I would have done a great deal.' That is
-how I develop recollection of death."
+"Bhante, I think: 'If only I might live for as long as it takes to breathe in
+after breathing out, or to breathe out after breathing in, I would attend to
+the Buddha's instruction. I would have done a great deal.' That is how I
+develop recollection of death."
 
 ### Heedless and Heedful
 
@@ -167,7 +167,7 @@ The ninth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an6.19/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an6-19-maranassati-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `0ef51010`
+- **Last editorial review:** 2026-11-09 · body version `8db14b63`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%206.19) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

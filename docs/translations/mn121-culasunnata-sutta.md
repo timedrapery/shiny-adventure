@@ -39,14 +39,13 @@ emptiness.
 
 ### The Recognition of the Forest
 
-Just as this mansion of Migāra's Mother is empty of elephants, cattle, horses,
-and mares, empty of gold and silver, and empty of gatherings of men and women,
-and there is only this that is not empty: the oneness that depends on the
-Saṅgha of bhikkhus; in the same way, Ānanda, not attending to the recognition
-of the village, not attending to the recognition of people, a bhikkhu attends
-to the oneness that depends on the recognition of the forest. Their heart leaps
-forward into the recognition of the forest, becomes clear, settles, and commits
-to it.
+This mansion of Migāra's Mother is empty of elephants, cattle, horses, and
+mares, empty of gold and silver, and empty of gatherings of men and women.
+There is only this that is not empty: the oneness that depends on the Saṅgha of
+bhikkhus. In the same way, Ānanda, a bhikkhu does not attend to the recognition
+of the village or to the recognition of people. They attend to the oneness that
+depends on the recognition of the forest. Their heart leaps forward into the
+recognition of the forest, becomes clear, settles, and commits to it.
 
 They discern: 'Whatever disturbances there would be dependent on the
 recognition of the village are not present here. Whatever disturbances there

@@ -7,7 +7,7 @@
 
 *SN 12.61, the Assutavā Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 729 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 741 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -37,26 +37,26 @@ Anāthapiṇḍika's monastery.
 ### The Body Is the Easier Thing to Let Go Of
 
 "Bhikkhus, an unlearned ordinary person might well grow disenchanted with this
-body made of the four great elements, might well fade toward it, might well be
-released from it.
+body made of the four great elements. Their passion for it might well fade, and
+they might well be released from it.
 
 Why is that?
 
 Because the building up and the wearing down of this body made of the four
 great elements can be seen, its being taken up and its being put down. So an
-unlearned ordinary person might well grow disenchanted with it, might well fade
-toward it, might well be released from it.
+unlearned ordinary person might well grow disenchanted with it. Their passion
+for it might well fade, and they might well be released from it.
 
-But as for what is called the heart, and the thinking mind, and knowing
-— an unlearned ordinary person is not able to grow disenchanted with that, not
-able to fade toward it, not able to be released from it.
+But as for what is called the heart, and the thinking mind, and knowing — an
+unlearned ordinary person is not able to grow disenchanted with that. Their
+passion for it cannot fade, and they cannot be released from it.
 
 Why is that?
 
 Because for a long time an unlearned ordinary person has held to it, taken it
 as mine, and grasped it: 'This is mine, I am this, this is my self.' So an
-unlearned ordinary person is not able to grow disenchanted with it, not able to
-fade toward it, not able to be released from it.
+unlearned ordinary person is not able to grow disenchanted with it. Their
+passion for it cannot fade, and they cannot be released from it.
 
 ### The Monkey
 
@@ -123,8 +123,8 @@ Bhikkhus, seeing this, a learned noble disciple becomes disenchanted with form,
 disenchanted with felt experience, disenchanted with recognition, disenchanted
 with putting things together, disenchanted with knowing.
 
-Being disenchanted, they fade. Through fading, they are released. When it is
-released, there is the knowledge: 'It is released.'
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.'
 
 They discern: 'Birth is worn away, the spiritual life has been lived, what had
 to be done has been done, there is no more of this state of being.'"
@@ -194,7 +194,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.61/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-61-assutava-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `db3cf971`
+- **Last editorial review:** 2026-08-23 · body version `e6baa344`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.61) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -98,150 +98,144 @@ action should be done only after repeated reflection.
 
 Whenever you want to do a bodily action, Rāhula, you should reflect on it:
 'This bodily action I want to do — would it lead to my own affliction, or to
-the affliction of others, or to the affliction of both? Is this an
-unwholesome bodily action, with dissatisfaction as its outcome,
-dissatisfaction as its result?' If, upon reflecting, you know: 'This bodily
-action I want to do would lead to my own affliction, or to the affliction of
-others, or to the affliction of both; it is an unwholesome bodily action,
-with dissatisfaction as its outcome, dissatisfaction as its result' — then a
-bodily action of this kind is certainly not to be done.
+the affliction of others, or to the affliction of both? Is this an unwholesome
+bodily action, with dissatisfaction as its outcome, dissatisfaction as its
+result?' If, on reflection, you know: 'This bodily action I want to do would
+lead to my own affliction, or to the affliction of others, or to the affliction
+of both; it is an unwholesome bodily action, with dissatisfaction as its
+outcome, dissatisfaction as its result' — then you should certainly not do a
+bodily action like that.
 
-But if, upon reflecting, you know: 'This bodily action I want to do would not
+But if, on reflection, you know: 'This bodily action I want to do would not
 lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome bodily action, with ease as its
-outcome, ease as its result' — then a bodily action of this kind may be
-done.
+affliction of both; it is a wholesome bodily action, with ease as its outcome,
+ease as its result' — then a bodily action of this kind may be done.
 
 While you are doing a bodily action, Rāhula, you should reflect on it: 'This
 bodily action I am doing — is it leading to my own affliction, or to the
 affliction of others, or to the affliction of both? Is this an unwholesome
 bodily action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This bodily action I am doing is
-leading to my own affliction, or to the affliction of others, or to the
-affliction of both; it is an unwholesome bodily action, with dissatisfaction
-as its outcome, dissatisfaction as its result' — you should suspend that
-bodily action.
+result?' If, on reflection, you know: 'This bodily action I am doing is leading
+to my own affliction, or to the affliction of others, or to the affliction of
+both; it is an unwholesome bodily action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — you should suspend that bodily action.
 
-But if, upon reflecting, you know: 'This bodily action I am doing is not
-leading to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome bodily action, with ease as its
-outcome, ease as its result' — you may continue with that bodily action.
+But if, on reflection, you know: 'This bodily action I am doing is not leading
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it is a wholesome bodily action, with ease as its outcome, ease as its
+result' — you may continue with that bodily action.
 
 After you have done a bodily action, Rāhula, you should reflect on it: 'This
 bodily action I have done — did it lead to my own affliction, or to the
 affliction of others, or to the affliction of both? Was this an unwholesome
 bodily action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This bodily action I have done led
-to my own affliction, or to the affliction of others, or to the affliction of
-both; it was an unwholesome bodily action, with dissatisfaction as its
-outcome, dissatisfaction as its result' — then you should confess it, reveal
-it, lay it open to the Teacher or to a wise companion in the spiritual life,
-and undertake restraint in the future.
+result?' If, on reflection, you know: 'This bodily action I have done led to my
+own affliction, or to the affliction of others, or to the affliction of both;
+it was an unwholesome bodily action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — then you should confess it, reveal it, lay it
+open to the Teacher or to a wise companion in the spiritual life, and undertake
+restraint in the future.
 
-But if, upon reflecting, you know: 'This bodily action I have done did not
-lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it was a wholesome bodily action, with ease as its
-outcome, ease as its result' — then you may live with joy and gladness,
-training day and night in wholesome qualities.
+But if, on reflection, you know: 'This bodily action I have done did not lead
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it was a wholesome bodily action, with ease as its outcome, ease as its
+result' — then you may live with joy and gladness, training day and night in
+wholesome qualities.
 
 ### Reflecting On Verbal Action
 
 Whenever you want to do a verbal action, Rāhula, you should reflect on it:
 'This verbal action I want to do — would it lead to my own affliction, or to
-the affliction of others, or to the affliction of both? Is this an
-unwholesome verbal action, with dissatisfaction as its outcome,
-dissatisfaction as its result?' If, upon reflecting, you know: 'This verbal
-action I want to do would lead to my own affliction, or to the affliction of
-others, or to the affliction of both; it is an unwholesome verbal action,
-with dissatisfaction as its outcome, dissatisfaction as its result' — then a
-verbal action of this kind is certainly not to be done.
+the affliction of others, or to the affliction of both? Is this an unwholesome
+verbal action, with dissatisfaction as its outcome, dissatisfaction as its
+result?' If, on reflection, you know: 'This verbal action I want to do would
+lead to my own affliction, or to the affliction of others, or to the affliction
+of both; it is an unwholesome verbal action, with dissatisfaction as its
+outcome, dissatisfaction as its result' — then you should certainly not do a
+verbal action like that.
 
-But if, upon reflecting, you know: 'This verbal action I want to do would not
+But if, on reflection, you know: 'This verbal action I want to do would not
 lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome verbal action, with ease as its
-outcome, ease as its result' — then a verbal action of this kind may be
-done.
+affliction of both; it is a wholesome verbal action, with ease as its outcome,
+ease as its result' — then a verbal action of this kind may be done.
 
 While you are doing a verbal action, Rāhula, you should reflect on it: 'This
 verbal action I am doing — is it leading to my own affliction, or to the
 affliction of others, or to the affliction of both? Is this an unwholesome
 verbal action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This verbal action I am doing is
-leading to my own affliction, or to the affliction of others, or to the
-affliction of both; it is an unwholesome verbal action, with dissatisfaction
-as its outcome, dissatisfaction as its result' — you should suspend that
-verbal action.
+result?' If, on reflection, you know: 'This verbal action I am doing is leading
+to my own affliction, or to the affliction of others, or to the affliction of
+both; it is an unwholesome verbal action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — you should suspend that verbal action.
 
-But if, upon reflecting, you know: 'This verbal action I am doing is not
-leading to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome verbal action, with ease as its
-outcome, ease as its result' — you may continue with that verbal action.
+But if, on reflection, you know: 'This verbal action I am doing is not leading
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it is a wholesome verbal action, with ease as its outcome, ease as its
+result' — you may continue with that verbal action.
 
 After you have done a verbal action, Rāhula, you should reflect on it: 'This
 verbal action I have done — did it lead to my own affliction, or to the
 affliction of others, or to the affliction of both? Was this an unwholesome
 verbal action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This verbal action I have done led
-to my own affliction, or to the affliction of others, or to the affliction of
-both; it was an unwholesome verbal action, with dissatisfaction as its
-outcome, dissatisfaction as its result' — then you should confess it, reveal
-it, lay it open to the Teacher or to a wise companion in the spiritual life,
-and undertake restraint in the future.
+result?' If, on reflection, you know: 'This verbal action I have done led to my
+own affliction, or to the affliction of others, or to the affliction of both;
+it was an unwholesome verbal action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — then you should confess it, reveal it, lay it
+open to the Teacher or to a wise companion in the spiritual life, and undertake
+restraint in the future.
 
-But if, upon reflecting, you know: 'This verbal action I have done did not
-lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it was a wholesome verbal action, with ease as its
-outcome, ease as its result' — then you may live with joy and gladness,
-training day and night in wholesome qualities.
+But if, on reflection, you know: 'This verbal action I have done did not lead
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it was a wholesome verbal action, with ease as its outcome, ease as its
+result' — then you may live with joy and gladness, training day and night in
+wholesome qualities.
 
 ### Reflecting On Mental Action
 
 Whenever you want to do a mental action, Rāhula, you should reflect on it:
 'This mental action I want to do — would it lead to my own affliction, or to
-the affliction of others, or to the affliction of both? Is this an
-unwholesome mental action, with dissatisfaction as its outcome,
-dissatisfaction as its result?' If, upon reflecting, you know: 'This mental
-action I want to do would lead to my own affliction, or to the affliction of
-others, or to the affliction of both; it is an unwholesome mental action,
-with dissatisfaction as its outcome, dissatisfaction as its result' — then a
-mental action of this kind is certainly not to be done.
+the affliction of others, or to the affliction of both? Is this an unwholesome
+mental action, with dissatisfaction as its outcome, dissatisfaction as its
+result?' If, on reflection, you know: 'This mental action I want to do would
+lead to my own affliction, or to the affliction of others, or to the affliction
+of both; it is an unwholesome mental action, with dissatisfaction as its
+outcome, dissatisfaction as its result' — then you should certainly not do a
+mental action like that.
 
-But if, upon reflecting, you know: 'This mental action I want to do would not
+But if, on reflection, you know: 'This mental action I want to do would not
 lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome mental action, with ease as its
-outcome, ease as its result' — then a mental action of this kind may be
-done.
+affliction of both; it is a wholesome mental action, with ease as its outcome,
+ease as its result' — then a mental action of this kind may be done.
 
 While you are doing a mental action, Rāhula, you should reflect on it: 'This
 mental action I am doing — is it leading to my own affliction, or to the
 affliction of others, or to the affliction of both? Is this an unwholesome
 mental action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This mental action I am doing is
-leading to my own affliction, or to the affliction of others, or to the
-affliction of both; it is an unwholesome mental action, with dissatisfaction
-as its outcome, dissatisfaction as its result' — you should suspend that
-mental action.
+result?' If, on reflection, you know: 'This mental action I am doing is leading
+to my own affliction, or to the affliction of others, or to the affliction of
+both; it is an unwholesome mental action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — you should suspend that mental action.
 
-But if, upon reflecting, you know: 'This mental action I am doing is not
-leading to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it is a wholesome mental action, with ease as its
-outcome, ease as its result' — you may continue with that mental action.
+But if, on reflection, you know: 'This mental action I am doing is not leading
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it is a wholesome mental action, with ease as its outcome, ease as its
+result' — you may continue with that mental action.
 
 After you have done a mental action, Rāhula, you should reflect on it: 'This
 mental action I have done — did it lead to my own affliction, or to the
 affliction of others, or to the affliction of both? Was this an unwholesome
 mental action, with dissatisfaction as its outcome, dissatisfaction as its
-result?' If, upon reflecting, you know: 'This mental action I have done led
-to my own affliction, or to the affliction of others, or to the affliction of
-both; it was an unwholesome mental action, with dissatisfaction as its
-outcome, dissatisfaction as its result' — then you should feel disturbed,
-ashamed, and disgusted by it, and you should guard against it in the future.
+result?' If, on reflection, you know: 'This mental action I have done led to my
+own affliction, or to the affliction of others, or to the affliction of both;
+it was an unwholesome mental action, with dissatisfaction as its outcome,
+dissatisfaction as its result' — then you should feel disturbed, ashamed, and
+disgusted by it, and you should guard against it in the future.
 
-But if, upon reflecting, you know: 'This mental action I have done did not
-lead to my own affliction, nor to the affliction of others, nor to the
-affliction of both; it was a wholesome mental action, with ease as its
-outcome, ease as its result' — then you may live with joy and gladness,
-training day and night in wholesome qualities.
+But if, on reflection, you know: 'This mental action I have done did not lead
+to my own affliction, nor to the affliction of others, nor to the affliction of
+both; it was a wholesome mental action, with ease as its outcome, ease as its
+result' — then you may live with joy and gladness, training day and night in
+wholesome qualities.
 
 ### The Purification Of Every Contemplative And Brahmin
 

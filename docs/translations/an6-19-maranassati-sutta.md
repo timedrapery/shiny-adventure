@@ -36,16 +36,16 @@ recollection of death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for a night and a day, I would
-attend to the Buddha's instruction. I would have done a great deal.' That is
-how I develop recollection of death."
+"Bhante, I think: 'If only I might live for a night and a day, I would attend
+to the Buddha's instruction. I would have done a great deal.' That is how I
+develop recollection of death."
 
 Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
 death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for a day, I would attend to the
+"Bhante, I think: 'If only I might live for a day, I would attend to the
 Buddha's instruction. I would have done a great deal.' That is how I develop
 recollection of death."
 
@@ -54,8 +54,26 @@ death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for as long as it takes to eat
-one meal of alms food, I would attend to the Buddha's instruction. I would have
+"Bhante, I think: 'If only I might live for as long as it takes to eat one meal
+of alms food, I would attend to the Buddha's instruction. I would have done a
+great deal.' That is how I develop recollection of death."
+
+Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
+death."
+
+"And how do you develop it, bhikkhu?"
+
+"Bhante, I think: 'If only I might live for as long as it takes to chew and
+swallow four or five mouthfuls, I would attend to the Buddha's instruction. I
+would have done a great deal.' That is how I develop recollection of death."
+
+Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
+death."
+
+"And how do you develop it, bhikkhu?"
+
+"Bhante, I think: 'If only I might live for as long as it takes to chew and
+swallow one mouthful, I would attend to the Buddha's instruction. I would have
 done a great deal.' That is how I develop recollection of death."
 
 Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
@@ -63,28 +81,10 @@ death."
 
 "And how do you develop it, bhikkhu?"
 
-"Here, Bhante, I think: 'If only I might live for as long as it takes to chew
-and swallow four or five mouthfuls, I would attend to the Buddha's instruction.
-I would have done a great deal.' That is how I develop recollection of death."
-
-Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
-death."
-
-"And how do you develop it, bhikkhu?"
-
-"Here, Bhante, I think: 'If only I might live for as long as it takes to chew
-and swallow one mouthful, I would attend to the Buddha's instruction. I would
-have done a great deal.' That is how I develop recollection of death."
-
-Another bhikkhu said to the Buddha: "Bhante, I too develop recollection of
-death."
-
-"And how do you develop it, bhikkhu?"
-
-"Here, Bhante, I think: 'If only I might live for as long as it takes to
-breathe in after breathing out, or to breathe out after breathing in, I would
-attend to the Buddha's instruction. I would have done a great deal.' That is
-how I develop recollection of death."
+"Bhante, I think: 'If only I might live for as long as it takes to breathe in
+after breathing out, or to breathe out after breathing in, I would attend to
+the Buddha's instruction. I would have done a great deal.' That is how I
+develop recollection of death."
 
 ### Heedless and Heedful
 

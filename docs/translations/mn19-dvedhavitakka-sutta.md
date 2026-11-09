@@ -251,9 +251,9 @@ eightfold path, that is: right view, right attitude, right speech, right
 action, right livelihood, right effort, right remembering, and right
 unification of mind.
 
-So, bhikkhus, the safe and secure path leading to delight has been opened by
-me; the bad path has been closed off; the male decoy has been removed; the
-female decoy has been destroyed.
+So, bhikkhus, I have opened the safe and secure path leading to delight. I have
+closed off the bad path. I have removed the male decoy and destroyed the female
+decoy.
 
 ### The Instruction
 

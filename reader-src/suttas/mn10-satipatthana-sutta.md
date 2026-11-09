@@ -7,7 +7,7 @@
 
 *MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,832 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,828 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -43,8 +43,7 @@ The Buddha said this:
 
 "Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati.
+right way, for directly realizing nibbāna: the four establishments of sati.
 
 And what four?
 
@@ -148,13 +147,12 @@ tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs,
 intestines, mesentery, stomach contents, feces, bile, phlegm, pus, blood,
 sweat, fat, tears, grease, saliva, mucus, joint-fluid, and urine.'
 
-Just as a bag with openings at both ends, full of different kinds of grain,
-might be opened by a person with good sight, who would review it like this:
-'These are hill-rice, these are ordinary rice grains, these are mung beans,
-these are peas, these are sesame seeds, these are rice grains,' in the same
-way a bhikkhu reviews this very body from the soles of the feet up, and from
-the hair of the head down, enclosed by skin and full of many kinds of unclean
-things:
+Suppose there were a bag with openings at both ends, full of different kinds of
+grain. A person with good sight might open it and review it like this: 'These
+are hill-rice, these are ordinary rice grains, these are mung beans, these are
+peas, these are sesame seeds, these are rice grains.' In the same way, a
+bhikkhu reviews this very body from the soles of the feet up, and from the hair
+of the head down, enclosed by skin and full of many kinds of unclean things:
 
 'In this body there are head hairs, body hairs ... and urine.'
 
@@ -211,9 +209,9 @@ That is how a bhikkhu remains observing the body in relation to the body."
 "And how does a bhikkhu remain observing felt experience in relation to felt
 experience?
 
-Here, when a bhikkhu feels pleasant feeling, they know: 'I feel pleasant
-feeling.' When they feel painful feeling, they know: 'I feel painful feeling.'
-When they feel neutral feeling, they know: 'I feel neutral feeling.'
+When a bhikkhu feels pleasant feeling, they know: 'I feel pleasant feeling.'
+When they feel painful feeling, they know: 'I feel painful feeling.' When they
+feel neutral feeling, they know: 'I feel neutral feeling.'
 
 When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
 feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
@@ -440,8 +438,7 @@ So when it was said:
 
 'Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati,'
+right way, for directly realizing nibbāna: the four establishments of sati,'
 
 it was said on account of this."
 
@@ -525,7 +522,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `639ed33f`
+- **Last editorial review:** 2026-11-08 · body version `75e03a8b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -54,8 +54,8 @@ These are called the exertion conditioners.
 So there is this desire, and this unification through desire, and these exertion
 conditioners.
 
-Bhikkhus, this is called the basis of power that possesses unification through
-desire together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through desire
+together with the exertion conditioners.
 
 ### Unification Through Energy
 
@@ -72,8 +72,8 @@ These are called the exertion conditioners.
 So there is this energy, and this unification through energy, and these exertion
 conditioners.
 
-Bhikkhus, this is called the basis of power that possesses unification through
-energy together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through energy
+together with the exertion conditioners.
 
 ### Unification Through the Heart
 
@@ -91,8 +91,8 @@ These are called the exertion conditioners.
 So there is this heart, and this unification through the heart,
 and these exertion conditioners.
 
-Bhikkhus, this is called the basis of power that possesses unification through
-the heart together with the exertion conditioners.
+Bhikkhus, this is called the basis of power that has unification through the
+heart together with the exertion conditioners.
 
 ### Unification Through Investigation
 
@@ -112,7 +112,7 @@ These are called the exertion conditioners.
 So there is this investigation, and this unification through investigation, and
 these exertion conditioners.
 
-Bhikkhus, this is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that has unification through
 investigation together with the exertion conditioners."
 
 <details class="reader-terms">
@@ -140,7 +140,7 @@ investigation together with the exertion conditioners."
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn51.13/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn51-13-chandasamadhi-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `fc0f4d63`
+- **Last editorial review:** 2026-11-08 · body version `bcc9fa51`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2051.13) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

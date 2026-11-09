@@ -91,9 +91,9 @@ factor of the path?
 
 "That discernment, the faculty of discernment, the power of discernment, the
 awakening factor of discernment of qualities, and the right-view factor of the
-path in someone whose mind is noble and without outflows, who possesses the noble
-path and develops it, is called right view that is
-noble, without outflows, beyond-the-world, a factor of the path.
+path in someone whose mind is noble and without outflows, who has the noble
+path and develops it, is called right view that is noble, without outflows,
+beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong view and to take up right view; that is
 their right effort.
@@ -137,11 +137,10 @@ acquisitions.
 "And what is right attitude that is noble, without outflows, beyond-the-world,
 a factor of the path?
 
-"Whatever thinking, thought, attitude, placing, directing, and settling of
-mind there is in someone whose mind is noble and without outflows, who possesses
-the noble path and develops it, that verbal conditioning
-is right attitude that is noble, without outflows, beyond-the-world, a factor
-of the path.
+"Whatever thinking, thought, attitude, placing, directing, and settling of mind
+there is in someone whose mind is noble and without outflows, who has the noble
+path and develops it, that verbal conditioning is right attitude that is noble,
+without outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong attitude and to take up right attitude; that
 is their right effort.
@@ -186,9 +185,9 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the four
-verbal misconducts in someone whose mind is noble and without outflows, who
-possesses the noble path and develops it, is right speech that
-is noble, without outflows, beyond-the-world, a factor of the path.
+verbal misconducts in someone whose mind is noble and without outflows, who has
+the noble path and develops it, is right speech that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong speech and to take up right speech; that is
 their right effort.
@@ -231,9 +230,9 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the three
-bodily misconducts in someone whose mind is noble and without outflows, who
-possesses the noble path and develops it, is right action that
-is noble, without outflows, beyond-the-world, a factor of the path.
+bodily misconducts in someone whose mind is noble and without outflows, who has
+the noble path and develops it, is right action that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong action and to take up right action; that is
 their right effort.
@@ -277,9 +276,9 @@ acquisitions.
 beyond-the-world, a factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from wrong
-livelihood in someone whose mind is noble and without outflows, who possesses the
-noble path and develops it, is right livelihood that
-is noble, without outflows, beyond-the-world, a factor of the path.
+livelihood in someone whose mind is noble and without outflows, who has the
+noble path and develops it, is right livelihood that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong livelihood and to take up right livelihood;
 that is their right effort.
@@ -297,26 +296,25 @@ right view, right effort, and right remembering.
 
 "And how does right view come first?
 
-"For one with right view, right attitude comes forth.
+"For someone with right view, right attitude comes forth.
 
-"For one with right attitude, right speech comes forth.
+"For someone with right attitude, right speech comes forth.
 
-"For one with right speech, right action comes forth.
+"For someone with right speech, right action comes forth.
 
-"For one with right action, right livelihood comes forth.
+"For someone with right action, right livelihood comes forth.
 
-"For one with right livelihood, right effort comes forth.
+"For someone with right livelihood, right effort comes forth.
 
-"For one with right effort, right remembering comes forth.
+"For someone with right effort, right remembering comes forth.
 
-"For one with right remembering, right unification of mind comes forth.
+"For someone with right remembering, right unification of mind comes forth.
 
-"For one with right unification of mind, right knowledge comes forth.
+"For someone with right unification of mind, right knowledge comes forth.
 
-"For one with right knowledge, right release comes forth.
+"For someone with right knowledge, right release comes forth.
 
-"So a trainee is endowed with eight factors, while an arahant is endowed with
-ten factors.
+"So a trainee has eight factors, while an arahant has ten factors.
 
 "And here too, through right knowledge, many bad, unwholesome qualities wear
 away, and development reaches fulfillment.
@@ -327,7 +325,7 @@ away, and development reaches fulfillment.
 
 "And how does right view come first?
 
-"For one with right view, wrong view is worn away.
+"For someone with right view, wrong view is worn away.
 
 "And the many bad, unwholesome qualities that arise because of wrong view are
 worn away.

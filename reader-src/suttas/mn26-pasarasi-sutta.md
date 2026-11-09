@@ -84,8 +84,8 @@ talk about the Dhamma, or keep noble silence.
 Bhikkhus, there are two searches: the noble search and the ignoble search.
 
 And what is the ignoble search? Someone who is themselves subject to birth
-seeks only what is subject to birth. Being themselves subject to aging, they
-seek only what is subject to aging. Being themselves subject to sickness, they
+seeks only what is subject to birth. Being themselves subject to ageing, they
+seek only what is subject to ageing. Being themselves subject to sickness, they
 seek only what is subject to sickness. Being themselves subject to death, they
 seek only what is subject to death. Being themselves subject to sorrow, they
 seek only what is subject to sorrow. Being themselves subject to corruption,
@@ -99,13 +99,13 @@ subject to birth. These are supports subject to birth. Someone who is tied,
 infatuated, and immersed in these — being themselves subject to birth — seeks
 only what is subject to birth.
 
-And what should be described as subject to aging? Bhikkhus, partners and
-children are subject to aging; male and female servants are subject to aging;
-goats and sheep are subject to aging; chickens and pigs are subject to aging;
-elephants, cattle, horses, and mares are subject to aging; gold and silver are
-subject to aging. These are supports subject to aging. Someone who is tied,
-infatuated, and immersed in these — being themselves subject to aging — seeks
-only what is subject to aging.
+And what should be described as subject to ageing? Bhikkhus, partners and
+children are subject to ageing; male and female servants are subject to ageing;
+goats and sheep are subject to ageing; chickens and pigs are subject to ageing;
+elephants, cattle, horses, and mares are subject to ageing; gold and silver are
+subject to ageing. These are supports subject to ageing. Someone who is tied,
+infatuated, and immersed in these — being themselves subject to ageing — seeks
+only what is subject to ageing.
 
 And what should be described as subject to sickness? Bhikkhus, partners and
 children are subject to sickness; male and female servants are subject to
@@ -140,9 +140,9 @@ corruption. This is the ignoble search.
 
 And what is the noble search? Someone who is themselves subject to birth sees
 the danger in what is subject to birth and seeks nibbāna — the supreme security
-from the yoke, free from birth. They are themselves subject to aging. Seeing
-the danger in what is subject to aging, they seek nibbāna — the supreme
-security from the yoke, free from aging. They are themselves subject to
+from the yoke, free from birth. They are themselves subject to ageing. Seeing
+the danger in what is subject to ageing, they seek nibbāna — the supreme
+security from the yoke, free from ageing. They are themselves subject to
 sickness. Seeing the danger in what is subject to sickness, they seek nibbāna —
 the supreme security from the yoke, free from sickness. They are themselves
 subject to death. Seeing the danger in what is subject to death, they seek
@@ -157,15 +157,15 @@ corruption. This is the noble search.
 
 Bhikkhus, before my awakening — when I was still unawakened but intent on
 awakening — I too, being myself subject to birth, sought only what was subject
-to birth. Being myself subject to aging, sickness, death, sorrow, and
+to birth. Being myself subject to ageing, sickness, death, sorrow, and
 corruption, I sought only what was subject to those things.
 
 Then it occurred to me: 'Why do I, being myself subject to birth, seek only
-what is subject to birth? Being myself subject to aging, sickness, death,
+what is subject to birth? Being myself subject to ageing, sickness, death,
 sorrow, and corruption, why do I seek only what is subject to those things?
-What if I were to see the danger in what is subject to birth, aging, sickness,
+What if I were to see the danger in what is subject to birth, ageing, sickness,
 death, sorrow, and corruption, and seek nibbāna — the supreme security from
-the yoke, free from birth, aging, sickness, death, sorrow, and corruption?'
+the yoke, free from birth, ageing, sickness, death, sorrow, and corruption?'
 
 ### Going Forth
 
@@ -294,9 +294,9 @@ down right there, thinking: 'This is good enough for striving.'
 
 I was myself subject to birth. Seeing the danger in what is subject to birth, I
 sought nibbāna — the supreme security from the yoke, free from birth — and I
-found it. I was myself subject to aging. Seeing the danger in what is subject
-to aging, I sought nibbāna — the supreme security from the yoke, free from
-aging — and I found it. I was myself subject to sickness. Seeing the danger in
+found it. I was myself subject to ageing. Seeing the danger in what is subject
+to ageing, I sought nibbāna — the supreme security from the yoke, free from
+ageing — and I found it. I was myself subject to sickness. Seeing the danger in
 what is subject to sickness, I sought nibbāna — the supreme security from the
 yoke, free from sickness — and I found it. I was myself subject to death.
 Seeing the danger in what is subject to death, I sought nibbāna — the supreme
@@ -363,7 +363,7 @@ That is what Brahmā Sahampati said. Then he said further:
 > so too, Wise One, All-Seeing,
 > ascending the palace of Dhamma,
 > look upon the people swamped in sorrow,
-> yourself sorrowless, overcome by birth and aging.
+> yourself sorrowless, overcome by birth and ageing.
 >
 > Rise, hero! Victor in battle,
 > caravan-leader, free of debt, wander the world.
@@ -465,7 +465,7 @@ I replied to Upaka in verse:
 > To set rolling the Wheel of Dhamma  
 > I go to the city of Kāsi.  
 > In a world gone blind  
-> I shall beat the drum of the deathless.
+> I will beat the drum of the deathless.
 
 Upaka said: "According to what you claim, reverend, you ought to be the
 Infinite Victor."
@@ -494,11 +494,11 @@ however, and as "reverend."
 
 So I said to them: "Bhikkhus, do not address the Tathāgata by name and as
 'reverend.' The Tathāgata is an arahant, perfectly and fully awakened. Listen,
-bhikkhus: the deathless has been reached! I shall instruct you. I shall teach
-you the Dhamma. Practicing as instructed, you will soon, in this very life,
-realize with your own higher knowing the supreme culmination of the spiritual
-life — that for which gentlemen rightly go forth from home into homelessness —
-and enter it and live in it."
+bhikkhus: the deathless has been reached! I will instruct you. I will teach you
+the Dhamma. Practicing as instructed, you will soon, in this very life, realize
+with your own higher knowing the supreme culmination of the spiritual life —
+that for which gentlemen rightly go forth from home into homelessness — and
+enter it and live in it."
 
 But the bhikkhus said to me: "Reverend Gotama, even by that conduct, that
 practice, that grueling austerity, you did not reach any superhuman distinction
@@ -507,7 +507,7 @@ you have turned to abundance and given up the struggle?"
 
 I said: "Bhikkhus, the Tathāgata has not turned to abundance, has not given up
 the struggle. The Tathāgata is an arahant, perfectly and fully awakened.
-Listen, bhikkhus: the deathless has been reached! I shall instruct you. I shall
+Listen, bhikkhus: the deathless has been reached! I will instruct you. I will
 teach you the Dhamma. Practicing as instructed, you will soon realize the
 supreme culmination of the spiritual life and enter it and live in it."
 
@@ -524,7 +524,7 @@ I said to them: "Bhikkhus, have you ever known me to speak like this before?"
 "No, Bhante."
 
 "The Tathāgata is an arahant, perfectly and fully awakened. Listen, bhikkhus:
-the deathless has been reached! I shall instruct you. I shall teach you the
+the deathless has been reached! I will instruct you. I will teach you the
 Dhamma. Practicing as instructed, you will soon, in this very life, realize
 with your own higher knowing the supreme culmination of the spiritual life —
 that for which gentlemen rightly go forth from home into homelessness — and
@@ -541,9 +541,9 @@ what those two brought back.
 The group of five bhikkhus was instructed and guided by me in this way. They
 were themselves subject to birth. Seeing the danger in what is subject to
 birth, they sought nibbāna — the supreme security from the yoke, free from
-birth — and they found it. They were themselves subject to aging. Seeing the
-danger in what is subject to aging, they sought nibbāna — the supreme security
-from the yoke, free from aging — and they found it. They were themselves
+birth — and they found it. They were themselves subject to ageing. Seeing the
+danger in what is subject to ageing, they sought nibbāna — the supreme security
+from the yoke, free from ageing — and they found it. They were themselves
 subject to sickness, death, sorrow, and corruption. Seeing the danger in these,
 they sought nibbāna — the supreme security from the yoke, free from sickness,
 death, sorrow, and corruption — and they found it.
@@ -791,7 +791,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn26/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn26-pasarasi-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `c6fff1e4`
+- **Last editorial review:** 2026-11-08 · body version `fad88e4b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2026) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

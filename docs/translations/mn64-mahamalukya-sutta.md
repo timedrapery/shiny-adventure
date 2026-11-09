@@ -273,7 +273,7 @@ person.
 "Ānanda, what is the path, what is the way of practice for abandoning the five
 lower fetters?
 
-Here, Ānanda, with seclusion from supports, with the abandoning of unwholesome
+Ānanda, with seclusion from supports, with the abandoning of unwholesome
 dhammas, and with the complete calming of bodily heaviness, quite secluded from
 sensuality, secluded from unwholesome dhammas, a bhikkhu enters and remains in
 the first mental theme, with thinking and pondering, with rejoicing and
@@ -399,7 +399,7 @@ five lower fetters."
 lower fetters, why do some bhikkhus have release of mind while others have
 release through discernment?"
 
-"Here, Ānanda, I say the difference is in their faculties."
+"Ānanda, I say the difference is in their faculties."
 
 That is what the Buddha said.
 

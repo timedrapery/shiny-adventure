@@ -118,7 +118,7 @@ Here is another way to understand why good friendship, good companionship, and
 good fellowship are the whole of the spiritual life.
 
 By relying on me as a good friend, beings subject to birth are freed from
-birth. Beings subject to aging are freed from aging. Beings subject to death
+birth. Beings subject to ageing are freed from ageing. Beings subject to death
 are freed from death. Beings subject to sorrow, lamentation, pain, sadness, and
 distress are freed from sorrow, lamentation, pain, sadness, and distress.
 
@@ -172,7 +172,7 @@ The second discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn45.2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-2-upaddha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `a55243e8`
+- **Last editorial review:** 2026-11-08 · body version `cab85902`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

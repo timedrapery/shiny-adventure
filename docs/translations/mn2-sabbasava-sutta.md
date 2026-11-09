@@ -223,8 +223,8 @@ These are called the outflows to be abandoned by seeing.
 
 And what are the outflows to be abandoned by restraint, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu lives restrained by restraint of
-the eye faculty.
+Bhikkhus, reflecting wisely, a bhikkhu lives restrained by restraint of the eye
+faculty.
 
 If he lived unrestrained in the eye faculty, outflows, distress, and fever
 might arise. When he lives restrained in the eye faculty, those outflows,
@@ -255,9 +255,9 @@ These are called the outflows to be abandoned by restraint.
 
 And what are the outflows to be abandoned by using, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu uses a robe only for warding off
-cold, warding off heat, warding off the contact of flies, mosquitoes, wind,
-sun, and reptiles, and only for covering the private parts.
+Bhikkhus, reflecting wisely, a bhikkhu uses a robe only for warding off cold,
+warding off heat, warding off the contact of flies, mosquitoes, wind, sun, and
+reptiles, and only for covering the private parts.
 
 Reflecting wisely, he uses almsfood not for amusement, not for intoxication,
 not for adornment, and not for beautification, but only for the maintenance and
@@ -284,7 +284,7 @@ These are called the outflows to be abandoned by using.
 
 And what are the outflows to be abandoned by enduring, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu endures cold and heat, hunger and
+Bhikkhus, reflecting wisely, a bhikkhu endures cold and heat, hunger and
 thirst, and the contact of flies, mosquitoes, wind, sun, and reptiles. He
 endures rude and unwelcome speech. He is the kind of person who endures arisen
 bodily felt experiences that are painful, sharp, severe, bitter, unpleasant,
@@ -299,9 +299,9 @@ These are called the outflows to be abandoned by enduring.
 
 And what are the outflows to be abandoned by avoiding, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu avoids a dangerous elephant, a
-dangerous horse, a dangerous ox, a dangerous dog, a snake, a stump, a thorny
-place, a pit, a cliff, a cesspit, and a sewer.
+Bhikkhus, reflecting wisely, a bhikkhu avoids a dangerous elephant, a dangerous
+horse, a dangerous ox, a dangerous dog, a snake, a stump, a thorny place, a
+pit, a cliff, a cesspit, and a sewer.
 
 Reflecting wisely, he avoids an unsuitable seat, an unsuitable resort, and bad
 friends. Such situations could make knowledgeable companions in the spiritual
@@ -316,8 +316,8 @@ These are called the outflows to be abandoned by avoiding.
 
 And what are the outflows to be abandoned by dispelling, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu does not endure an arisen thinking
-of sensuality. He abandons it, dispels it, ends it, and brings it to non-being.
+Bhikkhus, reflecting wisely, a bhikkhu does not endure an arisen thinking of
+sensuality. He abandons it, dispels it, ends it, and brings it to non-being.
 
 He does not endure an arisen thinking of ill will. He abandons it, dispels it,
 ends it, and brings it to non-being.
@@ -337,7 +337,7 @@ These are called the outflows to be abandoned by dispelling.
 
 And what are the outflows to be abandoned by developing, bhikkhus?
 
-Here, bhikkhus, reflecting wisely, a bhikkhu develops the remembering awakening
+Bhikkhus, reflecting wisely, a bhikkhu develops the remembering awakening
 factor, based on seclusion, based on fading, based on quenching, maturing in
 relinquishment.
 

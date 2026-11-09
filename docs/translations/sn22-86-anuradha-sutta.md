@@ -177,7 +177,8 @@ this, this is not my self.'
 Anurādha, seeing this, a learned noble disciple becomes disenchanted with form,
 felt experience, recognition, putting-together activities, and knowing.
 
-Being disenchanted, they fade. Through fading, they are released.
+As they grow disenchanted, their passion fades. Through its fading, they are
+released.
 
 When it is released, there is the knowledge: 'It is released.'
 

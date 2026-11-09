@@ -110,10 +110,10 @@ with mind-contact. And with whatever felt experience arises conditioned by
 mind-contact — whether pleasant, painful, or neutral — with that too they grow
 disenchanted.
 
-Growing disenchanted, they fade. Fading, they are released. Being released,
-the knowledge arises: 'Released.' They understand: 'Birth is finished, the
-spiritual life has been lived, what had to be done has been done, there is
-nothing further for this.'"
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.' They
+discern: 'Birth is worn away, the spiritual life has been lived, what had to be
+done has been done, there is no more of this state of being.'"
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
 Buddha's words. And while this discourse was being spoken, the hearts of those

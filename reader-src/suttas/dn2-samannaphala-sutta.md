@@ -207,7 +207,7 @@ They experience pleasure and pain through the six classes of rebirth.
 The fool and the wise alike wander on through fixed rounds of births, deeds,
 realms, and great eons before they make an end of dissatisfaction. There is
 no such thing as:
-'By this conduct, observance, austerity, or spiritual practice I shall ripen
+'By this conduct, observance, austerity, or spiritual practice I will ripen
 unripened kamma or wear away old kamma little by little.'
 That cannot be. Pleasure and pain are allotted. There is no increase and no
 decrease, no better and no worse. It is like a ball of string that rolls away
@@ -436,7 +436,7 @@ A householder, a householder's child, or someone born in a good family hears
 that Dhamma. Hearing it, they gain confidence in the Tathāgata and reflect:
 
 'Life at home is crowded and dusty. Going forth is wide open. It is not easy
-for one living at home to live the spiritual life utterly full and pure, as
+for someone living at home to live the spiritual life utterly full and pure, as
 if polished like a shell. Why don't I shave off hair and beard, put on ocher
 robes, and go forth from the lay life to homelessness?'
 
@@ -588,8 +588,8 @@ That is how a bhikkhu is content.
 
 ### Clearing the Five Hindrances
 
-When a bhikkhu possesses this full range of noble conduct, this noble guarding
-of the faculties, this noble remembering and clear knowing, and this noble
+When a bhikkhu has this full range of noble conduct, this noble guarding of the
+faculties, this noble remembering and clear knowing, and this noble
 contentment, they resort to a secluded lodging: the wilderness, the root of a
 tree, a mountain, a ravine, a hillside cave, a charnel ground, a forest
 thicket, the open air, or a heap of straw.
@@ -1135,7 +1135,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dn2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn2-samannaphala-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `4d42a3cf`
+- **Last editorial review:** 2026-11-08 · body version `ca0319f9`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

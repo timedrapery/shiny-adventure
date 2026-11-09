@@ -7,7 +7,7 @@
 
 *SN 35.28, the Āditta Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 675 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 689 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -115,10 +115,10 @@ with mind-contact. And with whatever felt experience arises conditioned by
 mind-contact — whether pleasant, painful, or neutral — with that too they grow
 disenchanted.
 
-Growing disenchanted, they fade. Fading, they are released. Being released,
-the knowledge arises: 'Released.' They understand: 'Birth is finished, the
-spiritual life has been lived, what had to be done has been done, there is
-nothing further for this.'"
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.' They
+discern: 'Birth is worn away, the spiritual life has been lived, what had to be
+done has been done, there is no more of this state of being.'"
 
 That is what the Buddha said. Satisfied, those bhikkhus approved of the
 Buddha's words. And while this discourse was being spoken, the hearts of those
@@ -167,7 +167,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn35.28/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn35-28-aditta-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `b21af04f`
+- **Last editorial review:** 2026-08-23 · body version `417a6e30`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2035.28) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -190,6 +190,7 @@ The sixth discourse is finished.
 *[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
+*[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

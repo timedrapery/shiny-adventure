@@ -208,8 +208,8 @@ and benefit?"
 as its fruit and benefit, and release through discernment as its fruit and
 benefit.
 
-Here, friend, right view is supported by conduct, supported by learning,
-supported by discussion, supported by tranquility, and supported by insight.
+Friend, right view is supported by conduct, supported by learning, supported by
+discussion, supported by tranquility, and supported by insight.
 
 By these five factors, friend, right view is supported when it has release of
 mind as its fruit and benefit, and release through discernment as its fruit
@@ -236,9 +236,9 @@ quenched, renewed becoming does not arise in the future."
 
 "Friend, what is the first mental theme?"
 
-"Here, friend, quite secluded from sensuality, secluded from unwholesome
-dhammas, a bhikkhu enters and remains in the first mental theme, which has
-thinking and pondering, and the rejoicing and satisfaction born of seclusion.
+"Friend, quite secluded from sensuality, secluded from unwholesome dhammas, a
+bhikkhu enters and remains in the first mental theme, which has thinking and
+pondering, and the rejoicing and satisfaction born of seclusion.
 
 Friend, this is called the first mental theme."
 
@@ -252,10 +252,10 @@ thinking, pondering, rejoicing, satisfaction, and directness of heart.
 Friend, that is how the first mental theme has five factors."
 
 "Friend, how many factors has the first mental theme left behind, and how many
-factors does it possess?"
+factors does it have?"
 
-"Friend, the first mental theme has left behind five factors and possesses
-five factors.
+"Friend, the first mental theme has left behind five factors and has five
+factors.
 
 Friend, for a bhikkhu who has entered the first mental theme, sensual desire is
 abandoned, ill will is abandoned, sloth and torpor is abandoned, restlessness
@@ -264,8 +264,8 @@ and worry is abandoned, and doubt is abandoned;
 and there occur thinking, pondering, rejoicing, satisfaction, and directness
 of heart.
 
-Friend, that is how the first mental theme has left behind five factors and
-possesses five factors."
+Friend, that is how the first mental theme has left behind five factors and has
+five factors."
 
 ### The Five Faculties and What They Rely On
 
@@ -389,11 +389,10 @@ is neither dissatisfying nor satisfying?"
 "Friend, there are four conditions for entering the release of mind that is
 neither dissatisfying nor satisfying.
 
-Here, friend, with the abandoning of satisfaction and the abandoning of
-dissatisfaction, and with the earlier ending of gladness and sadness, a
-bhikkhu enters and remains in the fourth mental theme, which is neither
-dissatisfying nor satisfying and has the purity of dynamic balance and
-remembering.
+Friend, with the abandoning of satisfaction and the abandoning of
+dissatisfaction, and with the earlier ending of gladness and sadness, a bhikkhu
+enters and remains in the fourth mental theme, which is neither dissatisfying
+nor satisfying and has the purity of dynamic balance and remembering.
 
 Friend, these are the four conditions for entering the release of mind that is
 neither dissatisfying nor satisfying."
@@ -467,9 +466,8 @@ Friend, this is called the measureless release of mind.
 
 And what is the release of mind through nothingness, friend?
 
-Here, friend, by completely surmounting the sphere of boundless knowing, a
-bhikkhu enters and remains in the sphere of nothingness, aware that 'there is
-nothing.'
+Friend, by completely surmounting the sphere of boundless knowing, a bhikkhu
+enters and remains in the sphere of nothingness, aware that 'there is nothing.'
 
 Friend, this is called the release of mind through nothingness.
 
@@ -484,8 +482,8 @@ Friend, this is called the release of mind through emptiness.
 
 And what is the signless release of mind, friend?
 
-Here, friend, by not attending to any signs, a bhikkhu enters and remains in
-the signless unification of mind.
+Friend, by not attending to any signs, a bhikkhu enters and remains in the
+signless unification of mind.
 
 Friend, this is called the signless release of mind.
 

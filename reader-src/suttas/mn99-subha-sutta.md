@@ -7,7 +7,7 @@
 
 *MN 99, the Subha Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,854 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,852 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -340,10 +340,10 @@ What result do the brahmins lay down for that?"
 Rather, they give only with sympathy."
 
 "If that is so, student, then this becomes a sixth ground for making merit for
-the brahmins: namely, what is of the nature of sympathy."
+the brahmins: what is of the nature of sympathy."
 
 "If that is so, Master Gotama, then this becomes a sixth ground for making
-merit for the brahmins: namely, what is of the nature of sympathy."
+merit for the brahmins: what is of the nature of sympathy."
 
 ### Found More Among Renunciates
 
@@ -655,7 +655,7 @@ Buddha!"
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn99/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn99-subha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `6f298bb0`
+- **Last editorial review:** 2026-11-08 · body version `d3899bf3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2099) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

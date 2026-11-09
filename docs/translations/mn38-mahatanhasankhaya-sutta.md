@@ -111,7 +111,7 @@ When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
 Knowing this, the Buddha said to him: "Stupid man, you will be known by your
-own pernicious view. I shall now question the bhikkhus about this."
+own pernicious view. I will now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 
@@ -128,33 +128,32 @@ condition there is no arising of knowing. But still this bhikkhu Sāti
 misrepresents me by his wrong grasp, harms himself, and accumulates much
 demerit. That will be for his long-lasting harm and suffering.
 
-Bhikkhus, whatever knowing arises in dependence upon a condition, it is
-reckoned by that very condition. Knowing that arises in dependence on eye and
-sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
+Bhikkhus, whatever knowing arises depending on a condition, it is reckoned by
+that very condition. Knowing that arises in dependence on eye and sights is
+reckoned as eye-knowing. Knowing that arises in dependence on ear and sounds is
+reckoned as ear-knowing. Knowing that arises in dependence on nose and smells
+is reckoned as nose-knowing. Knowing that arises in dependence on tongue and
+tastes is reckoned as tongue-knowing. Knowing that arises in dependence on body
+and touches is reckoned as body-knowing. Knowing that arises in dependence on
+thinking mind and ideas is reckoned as mind-knowing.
+
+It is like fire. Whatever fire burns depending on a condition, it is reckoned
+by that very condition. A fire that burns in dependence on logs is reckoned as
+a log-fire. A fire that burns in dependence on kindling-chips is reckoned as a
+kindling-chip-fire. A fire that burns in dependence on grass is reckoned as a
+grass-fire. A fire that burns in dependence on cow-dung is reckoned as a
+cow-dung-fire. A fire that burns in dependence on husks is reckoned as a
+husk-fire. A fire that burns in dependence on rubbish is reckoned as a
+rubbish-fire.
+
+In the same way, bhikkhus, whatever knowing arises depending on a condition, it
+is reckoned by that very condition. Knowing that arises in dependence on eye
+and sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
 and sounds is reckoned as ear-knowing. Knowing that arises in dependence on
 nose and smells is reckoned as nose-knowing. Knowing that arises in dependence
 on tongue and tastes is reckoned as tongue-knowing. Knowing that arises in
 dependence on body and touches is reckoned as body-knowing. Knowing that arises
 in dependence on thinking mind and ideas is reckoned as mind-knowing.
-
-It is like fire. Whatever fire burns in dependence upon a condition, it is
-reckoned by that very condition. A fire that burns in dependence on logs is
-reckoned as a log-fire. A fire that burns in dependence on kindling-chips is
-reckoned as a kindling-chip-fire. A fire that burns in dependence on grass is
-reckoned as a grass-fire. A fire that burns in dependence on cow-dung is
-reckoned as a cow-dung-fire. A fire that burns in dependence on husks is
-reckoned as a husk-fire. A fire that burns in dependence on rubbish is reckoned
-as a rubbish-fire.
-
-In the same way, bhikkhus, whatever knowing arises in dependence upon a
-condition, it is reckoned by that very condition. Knowing that arises in
-dependence on eye and sights is reckoned as eye-knowing. Knowing that arises in
-dependence on ear and sounds is reckoned as ear-knowing. Knowing that arises in
-dependence on nose and smells is reckoned as nose-knowing. Knowing that arises
-in dependence on tongue and tastes is reckoned as tongue-knowing. Knowing that
-arises in dependence on body and touches is reckoned as body-knowing. Knowing
-that arises in dependence on thinking mind and ideas is reckoned as
-mind-knowing.
 
 ### What Has Come to Be
 

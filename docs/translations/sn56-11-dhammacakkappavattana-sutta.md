@@ -38,7 +38,8 @@ The Buddha said this:
 
 ### The Two Extremes
 
-"Bhikkhus, one gone forth should not go near these two extremes. Which two?
+"Bhikkhus, someone who has gone forth should not go near these two extremes.
+Which two?
 
 Devotion to the pleasure of sensuality: low, vulgar, ordinary, ignoble, and
 unbeneficial.

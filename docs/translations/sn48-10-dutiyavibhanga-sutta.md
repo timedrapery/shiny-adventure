@@ -81,8 +81,8 @@ Bhikkhus, this is called the faculty of energy.
 
 And what is the faculty of remembering, bhikkhus?
 
-A noble disciple remembers. They possess the highest carefulness in
-remembering, and they recall and call to mind what was done and said long ago.
+A noble disciple remembers. They have the highest carefulness in remembering,
+and they recall and call to mind what was done and said long ago.
 
 They remain observing the body in relation to the body, ardent, with clear
 knowing, with remembering, and with coveting and distress about the world put
@@ -129,8 +129,8 @@ Bhikkhus, this is called the faculty of unification.
 
 And what is the faculty of discernment, bhikkhus?
 
-A noble disciple discerns. They possess the discernment that leads to arising
-and passing away — noble, penetrating, rightly leading to the wearing away of
+A noble disciple discerns. They have the discernment that leads to arising and
+passing away — noble, penetrating, rightly leading to the wearing away of
 dissatisfaction.
 
 They discern it as it has come to be: 'This is dissatisfaction.' They discern

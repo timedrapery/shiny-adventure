@@ -192,30 +192,30 @@ why I said it.
 
 ### Friendliness, Kindness, Gladness, and Dynamic Balance
 
-Kālāmas, that noble disciple free of coveting, free of ill will, unconfused,
-clearly knowing and remembering, dwells pervading one direction with a heart
-filled with friendliness, likewise the second, likewise the third, likewise the
-fourth — and so above, below, across, everywhere, for all as for themselves,
-they dwell pervading the entire world with a heart filled with friendliness,
-vast, expansive, boundless, without enmity and without ill will.
+Kālāmas, that noble disciple — free of coveting, free of ill will, unconfused,
+clearly knowing and remembering — pervades one direction with a heart filled
+with friendliness, then the second, then the third, then the fourth. In the
+same way above, below, across, everywhere, for all as for themselves, they keep
+pervading the entire world with a heart filled with friendliness: vast,
+expansive, boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a heart filled with kindness
-towards others, likewise the second, likewise the third, likewise the fourth —
-and so above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a heart filled with kindness towards
-others, vast, expansive, boundless, without enmity and without ill will.
-
-They dwell pervading one direction with a heart filled with gladness,
-likewise the second, likewise the third, likewise the fourth — and so above,
-below, across, everywhere, for all as for themselves, they dwell pervading the
-entire world with a heart filled with gladness, vast, expansive,
+They pervade one direction with a heart filled with kindness towards others,
+then the second, then the third, then the fourth. In the same way above, below,
+across, everywhere, for all as for themselves, they keep pervading the entire
+world with a heart filled with kindness towards others: vast, expansive,
 boundless, without enmity and without ill will.
 
-They dwell pervading one direction with a heart filled with dynamic
-balance, likewise the second, likewise the third, likewise the fourth — and so
-above, below, across, everywhere, for all as for themselves, they dwell
-pervading the entire world with a heart filled with dynamic balance,
-vast, expansive, boundless, without enmity and without ill will.
+They pervade one direction with a heart filled with gladness, then the second,
+then the third, then the fourth. In the same way above, below, across,
+everywhere, for all as for themselves, they keep pervading the entire world
+with a heart filled with gladness: vast, expansive, boundless, without enmity
+and without ill will.
+
+They pervade one direction with a heart filled with dynamic balance, then the
+second, then the third, then the fourth. In the same way above, below, across,
+everywhere, for all as for themselves, they keep pervading the entire world
+with a heart filled with dynamic balance: vast, expansive, boundless, without
+enmity and without ill will.
 
 ### The Four Consolations
 

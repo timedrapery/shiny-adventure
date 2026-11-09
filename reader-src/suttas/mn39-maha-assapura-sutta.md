@@ -7,7 +7,7 @@
 
 *MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,355 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,343 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -56,11 +56,11 @@ So you should train, bhikkhus.
 
 And what qualities are expected of a recluse and a brahmin?
 
-You should train like this: 'We will be possessed of conscience and concern.'
+You should train like this: 'We will have conscience and concern.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern.
-That is enough — enough has been done; the recluse's goal has been reached;
-there is nothing more for us to do.' And you might settle for just that much.
+But bhikkhus, you might think: 'We have conscience and concern. That is enough
+— enough has been done; the recluse's goal has been reached; there is nothing
+more for us to do.' And you might settle for just that much.
 
 I declare to you, bhikkhus, I announce to you: 'You who seek the recluse's
 goal — do not let the recluse's goal decline while there is still more to do.'
@@ -71,9 +71,8 @@ You should train like this: 'Our bodily conduct will be pure — open, disclosed
 neither inconsistent nor concealed. And on account of our pure bodily conduct
 we will neither praise ourselves nor look down on others.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily conduct is pure. That is enough …' And you might settle for just
-that much.
+But bhikkhus, you might think: 'We have conscience and concern; our bodily
+conduct is pure. That is enough …' And you might settle for just that much.
 
 I declare to you, bhikkhus, I announce to you: 'You who seek the recluse's
 goal — do not let the recluse's goal decline while there is still more to do.'
@@ -84,8 +83,8 @@ You should train like this: 'Our verbal conduct will be pure — open, disclosed
 neither inconsistent nor concealed. And on account of our pure verbal conduct
 we will neither praise ourselves nor look down on others.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily conduct is pure; our verbal conduct is pure. That is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily
+conduct is pure; our verbal conduct is pure. That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
@@ -96,8 +95,8 @@ You should train like this: 'Our mental conduct will be pure — open, disclosed
 neither inconsistent nor concealed. And on account of our pure mental conduct
 we will neither praise ourselves nor look down on others.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure. That is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure. That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
@@ -108,9 +107,8 @@ You should train like this: 'Our livelihood will be pure — open, disclosed,
 neither inconsistent nor concealed. And on account of our pure livelihood we
 will neither praise ourselves nor look down on others.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure; our livelihood is pure. That
-is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure; our livelihood is pure. That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
@@ -137,9 +135,9 @@ unskillful qualities of covetousness and displeasure overwhelm us, we will
 practice restraint, guard the mind-faculty, and reach restraint of the
 mind-faculty.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
-guarded at the faculty doors. That is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure; our livelihood is pure; we are guarded at
+the faculty doors. That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
@@ -153,9 +151,9 @@ harm, and to support the spiritual life. In this way we will put an end to the
 old felt experience and not give rise to a new one, and we will live in health,
 blamelessness, and ease.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
-guarded at the faculty doors; we know measure in eating. That is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure; our livelihood is pure; we are guarded at
+the faculty doors; we know measure in eating. That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
@@ -171,29 +169,29 @@ the other, with remembering and clear knowing, intending to get up. In the
 last watch of the night, getting up and walking and sitting, we will purify
 the heart from obstructing qualities.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
-guarded at the faculty doors; we know measure in eating; we are devoted to
-wakefulness. That is enough …'
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure; our livelihood is pure; we are guarded at
+the faculty doors; we know measure in eating; we are devoted to wakefulness.
+That is enough …'
 
 I declare to you: do not let the recluse's goal decline while there is still
 more to do.
 
 And what more is there to do?
 
-You should train like this: 'We will be possessed of remembering and clear
-knowing. We will act with clear knowing when going out and coming back; when
-looking ahead and looking aside; when bending and extending; when bearing the
-outer robe, bowl, and robes; when eating, drinking, chewing, and tasting;
-when using the toilet; when walking, standing, sitting, lying down, waking,
-speaking, and keeping silent.'
+You should train like this: 'We will have remembering and clear knowing. We
+will act with clear knowing when going out and coming back; when looking ahead
+and looking aside; when bending and extending; when bearing the outer robe,
+bowl, and robes; when eating, drinking, chewing, and tasting; when using the
+toilet; when walking, standing, sitting, lying down, waking, speaking, and
+keeping silent.'
 
-But bhikkhus, you might think: 'We are possessed of conscience and concern;
-our bodily, verbal, and mental conduct is pure; our livelihood is pure; we are
-guarded at the faculty doors; we know measure in eating; we are devoted to
-wakefulness; we are possessed of remembering and clear knowing. That is
-enough — enough has been done; the recluse's goal has been reached; there is
-nothing more for us to do.' And you might settle for just that much.
+But bhikkhus, you might think: 'We have conscience and concern; our bodily,
+verbal, and mental conduct is pure; our livelihood is pure; we are guarded at
+the faculty doors; we know measure in eating; we are devoted to wakefulness; we
+have remembering and clear knowing. That is enough — enough has been done; the
+recluse's goal has been reached; there is nothing more for us to do.' And you
+might settle for just that much.
 
 I declare to you, bhikkhus, I announce to you: 'You who seek the recluse's
 goal — do not let the recluse's goal decline while there is still more to do.'
@@ -418,9 +416,9 @@ Knowing and seeing in this way, the heart is released from the outflow
 of sensual desire, released from the outflow of becoming, released from the
 outflow of ignorance.
 
-When released, the knowledge arises: 'Released.' They understand: 'Birth is
-finished, the spiritual life has been lived, what had to be done has been done,
-there is nothing further for this.'
+When it is released, there is the knowledge: 'It is released.' They discern:
+'Birth is worn away, the spiritual life has been lived, what had to be done has
+been done, there is no more of this state of being.'
 
 Bhikkhus, suppose in a mountain glen there were a lake, clear, limpid, and
 undisturbed. A person with good eyes standing on the bank would see oysters
@@ -433,7 +431,7 @@ keeping still.'
 
 In the same way, a bhikkhu truly understands: 'This is dissatisfaction … this
 is the path leading to the cessation of dissatisfaction.' They truly
-understand: 'These are the outflows … there is nothing further for this.'
+understand: 'These are the outflows … there is no more of this state of being.'
 
 ### Seven Titles Explained
 
@@ -567,7 +565,7 @@ The Greater Discourse at Assapura is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn39/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn39-maha-assapura-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `17fabf79`
+- **Last editorial review:** 2026-11-08 · body version `2c16fa7f`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2039) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -7,7 +7,7 @@
 
 *MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,473 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,468 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -120,9 +120,9 @@ taking personally there."
 
 "But, Ayye, how does identity view come to be?"
 
-"Here, friend Visākha, an unlearned ordinary person, someone who has not seen
-the noble ones, who is unskilled and untrained in the noble Dhamma, someone who
-has not seen true persons, who is unskilled and untrained in the true person's
+"Friend Visākha, an unlearned ordinary person, someone who has not seen the
+noble ones, who is unskilled and untrained in the noble Dhamma, someone who has
+not seen true persons, who is unskilled and untrained in the true person's
 Dhamma, regards form as self, or self as having form, or form as in self, or
 self as in form.
 
@@ -143,8 +143,8 @@ This, friend Visākha, is how identity view comes to be."
 
 "But, Ayye, how does identity view not come to be?"
 
-"Here, friend Visākha, a learned noble disciple, someone who has seen the noble
-ones, who is skilled and trained in the noble Dhamma, someone who has seen true
+"Friend Visākha, a learned noble disciple, someone who has seen the noble ones,
+who is skilled and trained in the noble Dhamma, someone who has seen true
 persons, who is skilled and trained in the true person's Dhamma, does not
 regard form as self, or self as having form, or form as in self, or self as in
 form.
@@ -392,14 +392,14 @@ resistance should not be abandoned in relation to every painful feeling. The
 underlying tendency toward ignorance should not be abandoned in relation to
 every neutral feeling.
 
-Here, friend Visākha, quite secluded from sensuality, secluded from unwholesome
+Friend Visākha, quite secluded from sensuality, secluded from unwholesome
 dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
 and pondering, with rejoicing and satisfaction born of seclusion.
 
 Through that, they abandon passion, and the underlying tendency toward passion
 does not lie there.
 
-Here, friend Visākha, a bhikkhu reflects:
+Friend Visākha, a bhikkhu reflects:
 
 'When will I enter and remain in that field which the noble ones now enter and
 remain in?'
@@ -410,7 +410,7 @@ as condition.
 Through that, they abandon resistance, and the underlying tendency toward
 resistance does not lie there.
 
-Here, friend Visākha, with the abandoning of ease and discomfort, and with the
+Friend Visākha, with the abandoning of ease and discomfort, and with the
 earlier ending of gladness and distress, a bhikkhu enters and remains in the
 fourth mental theme, without discomfort and without ease, with purity of
 remembering through dynamic balance.
@@ -594,7 +594,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn44-culavedalla-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `45edae3a`
+- **Last editorial review:** 2026-11-08 · body version `331cdd14`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

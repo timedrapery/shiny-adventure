@@ -78,8 +78,8 @@ Bhikkhus, this is called the faculty of energy.
 
 And what is the faculty of remembering, bhikkhus?
 
-A noble disciple remembers. They possess the highest carefulness in
-remembering, and they recall and call to mind what was done and said long ago.
+A noble disciple remembers. They have the highest carefulness in remembering,
+and they recall and call to mind what was done and said long ago.
 
 They remain observing the body in relation to the body, ardent, with clear
 knowing, with remembering, and with coveting and distress about the world put
@@ -126,8 +126,8 @@ Bhikkhus, this is called the faculty of unification.
 
 And what is the faculty of discernment, bhikkhus?
 
-A noble disciple discerns. They possess the discernment that leads to arising
-and passing away — noble, penetrating, rightly leading to the wearing away of
+A noble disciple discerns. They have the discernment that leads to arising and
+passing away — noble, penetrating, rightly leading to the wearing away of
 dissatisfaction.
 
 They discern it as it has come to be: 'This is dissatisfaction.' They discern
@@ -211,7 +211,7 @@ Bhikkhus, these are the five faculties."
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn48.10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn48-10-dutiyavibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `6f8a3e02`
+- **Last editorial review:** 2026-11-08 · body version `546fc20e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2048.10) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

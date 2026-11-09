@@ -38,8 +38,7 @@ The Buddha said this:
 
 "Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati.
+right way, for directly realizing nibbāna: the four establishments of sati.
 
 And what four?
 
@@ -143,13 +142,12 @@ tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs,
 intestines, mesentery, stomach contents, feces, bile, phlegm, pus, blood,
 sweat, fat, tears, grease, saliva, mucus, joint-fluid, and urine.'
 
-Just as a bag with openings at both ends, full of different kinds of grain,
-might be opened by a person with good sight, who would review it like this:
-'These are hill-rice, these are ordinary rice grains, these are mung beans,
-these are peas, these are sesame seeds, these are rice grains,' in the same
-way a bhikkhu reviews this very body from the soles of the feet up, and from
-the hair of the head down, enclosed by skin and full of many kinds of unclean
-things:
+Suppose there were a bag with openings at both ends, full of different kinds of
+grain. A person with good sight might open it and review it like this: 'These
+are hill-rice, these are ordinary rice grains, these are mung beans, these are
+peas, these are sesame seeds, these are rice grains.' In the same way, a
+bhikkhu reviews this very body from the soles of the feet up, and from the hair
+of the head down, enclosed by skin and full of many kinds of unclean things:
 
 'In this body there are head hairs, body hairs ... and urine.'
 
@@ -206,9 +204,9 @@ That is how a bhikkhu remains observing the body in relation to the body."
 "And how does a bhikkhu remain observing felt experience in relation to felt
 experience?
 
-Here, when a bhikkhu feels pleasant feeling, they know: 'I feel pleasant
-feeling.' When they feel painful feeling, they know: 'I feel painful feeling.'
-When they feel neutral feeling, they know: 'I feel neutral feeling.'
+When a bhikkhu feels pleasant feeling, they know: 'I feel pleasant feeling.'
+When they feel painful feeling, they know: 'I feel painful feeling.' When they
+feel neutral feeling, they know: 'I feel neutral feeling.'
 
 When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
 feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
@@ -435,8 +433,7 @@ So when it was said:
 
 'Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati,'
+right way, for directly realizing nibbāna: the four establishments of sati,'
 
 it was said on account of this."
 

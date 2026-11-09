@@ -7,7 +7,7 @@
 
 *MN 148, the Chachakka Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,083 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,087 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -522,7 +522,8 @@ tangibles, body-knowing, body-contact, felt experience, and ignorant wanting.
 They become disenchanted with mind, with dhammas, with mind-knowing, with mind-
 contact, with felt experience, and with ignorant wanting.
 
-Being disenchanted, they fade. Through fading, they are released.
+As they grow disenchanted, their passion fades. Through its fading, they are
+released.
 
 When it is released, there is the knowledge: 'It is released.'
 
@@ -597,7 +598,7 @@ released from the outflows through not taking anything personally.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn148/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn148-chachakka-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `912b6d7c`
+- **Last editorial review:** 2026-08-23 · body version `82fbe31e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20148) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

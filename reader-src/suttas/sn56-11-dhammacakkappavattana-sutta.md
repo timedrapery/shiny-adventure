@@ -7,7 +7,7 @@
 
 *SN 56.11, the Dhammacakkappavattana Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,221 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,223 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -78,7 +78,8 @@ The Buddha said this:
 
 ### The Two Extremes
 
-"Bhikkhus, one gone forth should not go near these two extremes. Which two?
+"Bhikkhus, someone who has gone forth should not go near these two extremes.
+Which two?
 
 Devotion to the pleasure of sensuality: low, vulgar, ordinary, ignoble, and
 unbeneficial.
@@ -341,7 +342,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn56.11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `eba27155`
+- **Last editorial review:** 2026-11-08 · body version `b7daaea3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

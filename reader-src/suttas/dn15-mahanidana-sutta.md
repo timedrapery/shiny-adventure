@@ -7,7 +7,7 @@
 
 *DN 15, the Mahānidāna Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 25 min · 4,443 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 25 min · 4,439 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -550,7 +550,7 @@ Or they regard self in this way:
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is my self,'
 
@@ -598,7 +598,7 @@ arising and passing away.
 
 Therefore, Ānanda, it does not fit to regard felt experience as self.
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. My self does not feel,'
 
@@ -612,7 +612,7 @@ they should be told:
 "Therefore, Ānanda, it does not fit to regard self in this way: 'Felt
 experience is not my self. My self does not feel.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience,'
@@ -716,9 +716,8 @@ This is the seventh station of knowing.
 The field of non-recognizing beings and the sphere of
 neither-recognition-nor-non-recognition are the two fields.
 
-"Here, Ānanda, there is the first station of knowing: diverse in body and
-diverse in recognition, such as humans, some devas, and some beings in downfall
-states.
+"Ānanda, there is the first station of knowing: diverse in body and diverse in
+recognition, such as humans, some devas, and some beings in downfall states.
 
 If they discern this, discern its arising, discern its vanishing, discern its
 gratification, discern its danger, and discern its escape, is it fit to
@@ -906,7 +905,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dn15/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn15-mahanidana-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `f88a7df9`
+- **Last editorial review:** 2026-08-23 · body version `1924f2a3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%2015) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

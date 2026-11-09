@@ -552,7 +552,7 @@ Or they regard self in this way:
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is my self,'
 
@@ -600,7 +600,7 @@ arising and passing away.
 
 Therefore, Ānanda, it does not fit to regard felt experience as self.
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. My self does not feel,'
 
@@ -614,7 +614,7 @@ they should be told:
 "Therefore, Ānanda, it does not fit to regard self in this way: 'Felt
 experience is not my self. My self does not feel.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience,'
@@ -718,9 +718,8 @@ This is the seventh station of knowing.
 The field of non-recognizing beings and the sphere of
 neither-recognition-nor-non-recognition are the two fields.
 
-"Here, Ānanda, there is the first station of knowing: diverse in body and
-diverse in recognition, such as humans, some devas, and some beings in downfall
-states.
+"Ānanda, there is the first station of knowing: diverse in body and diverse in
+recognition, such as humans, some devas, and some beings in downfall states.
 
 If they discern this, discern its arising, discern its vanishing, discern its
 gratification, discern its danger, and discern its escape, is it fit to

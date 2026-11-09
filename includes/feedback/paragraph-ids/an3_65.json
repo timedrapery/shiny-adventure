@@ -1,6 +1,6 @@
 {
   "surface_key": "an3_65",
-  "body_sha256": "aab6982a258bb27ef7466c24102b4db9eb20df92e55f84bcbe28cf4c73e7d42a",
+  "body_sha256": "e6aceddf78a3d2b0361438aca13cd83bff9088367722eb2244aa5680b4cbeb6d",
   "next_id": 64,
   "passages": [
     {
@@ -322,34 +322,41 @@
     },
     {
       "id": "p046",
-      "fingerprint": "4c9cc4e4932a2147",
+      "fingerprint": "cdc884bf43b2b2f5",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "Kālāmas, that noble disciple free of coveting, free of ill will, unconf…",
+      "preview": "Kālāmas, that noble disciple — free of coveting, free of ill will, unco…",
       "previous_fingerprints": [
         "ede7a4c8ef5e2720",
-        "555f32b7b7cbf239"
+        "555f32b7b7cbf239",
+        "4c9cc4e4932a2147"
       ]
     },
     {
       "id": "p047",
-      "fingerprint": "029478f1461beabf",
+      "fingerprint": "e0a2e73dc7e48345",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with kindness to…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with kindness towards ot…",
+      "previous_fingerprints": [
+        "029478f1461beabf"
+      ]
     },
     {
       "id": "p048",
-      "fingerprint": "3d2dff0ef227e2fc",
+      "fingerprint": "8d73658c3274617d",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with gladness, l…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with gladness, then the…",
+      "previous_fingerprints": [
+        "3d2dff0ef227e2fc"
+      ]
     },
     {
       "id": "p049",
-      "fingerprint": "31ddb0650b5e145e",
+      "fingerprint": "cfdf2e5e54ca4320",
       "section": "Friendliness, Kindness, Gladness, and Dynamic Balance",
-      "preview": "They dwell pervading one direction with a heart filled with dynamic bal…",
-      "previous_fingerprints": []
+      "preview": "They pervade one direction with a heart filled with dynamic balance, th…",
+      "previous_fingerprints": [
+        "31ddb0650b5e145e"
+      ]
     },
     {
       "id": "p050",

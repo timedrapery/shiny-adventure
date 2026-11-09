@@ -7,7 +7,7 @@
 
 *MN 64, the Mahāmālukya Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,403 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,401 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -275,7 +275,7 @@ person.
 "Ānanda, what is the path, what is the way of practice for abandoning the five
 lower fetters?
 
-Here, Ānanda, with seclusion from supports, with the abandoning of unwholesome
+Ānanda, with seclusion from supports, with the abandoning of unwholesome
 dhammas, and with the complete calming of bodily heaviness, quite secluded from
 sensuality, secluded from unwholesome dhammas, a bhikkhu enters and remains in
 the first mental theme, with thinking and pondering, with rejoicing and
@@ -401,7 +401,7 @@ five lower fetters."
 lower fetters, why do some bhikkhus have release of mind while others have
 release through discernment?"
 
-"Here, Ānanda, I say the difference is in their faculties."
+"Ānanda, I say the difference is in their faculties."
 
 That is what the Buddha said.
 
@@ -508,7 +508,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn64/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn64-mahamalukya-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `9bbe19b5`
+- **Last editorial review:** 2026-11-08 · body version `5dc4fca5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2064) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

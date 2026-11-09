@@ -7,7 +7,7 @@
 
 *MN 122, the Mahāsuññata Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,245 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,242 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -112,9 +112,9 @@ and unify it.
 And how does a bhikkhu steady the heart within, settle it, make it single, and
 unify it?
 
-Here, Ānanda, quite secluded from sensuality, secluded from unwholesome
-dhammas, a bhikkhu enters and remains in the first mental theme, with thinking
-and pondering, with rejoicing and satisfaction born of seclusion.
+Ānanda, quite secluded from sensuality, secluded from unwholesome dhammas, a
+bhikkhu enters and remains in the first mental theme, with thinking and
+pondering, with rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 singleness of mind, they enter and remain in the second mental theme, without
@@ -334,7 +334,7 @@ and country come flocking to him. When they come flocking to him, he becomes
 infatuated, falls into greed, and turns back to luxury. This is called a
 teacher ruined by the teacher's ruin. Bad, unwholesome dhammas strike him down:
 defiling, leading to renewed becoming, troubling, ripening in dissatisfaction,
-and leading to future birth, aging, and death. This is how a teacher comes to
+and leading to future birth, ageing, and death. This is how a teacher comes to
 ruin.
 
 And how does a pupil come to ruin, Ānanda? A disciple of that same teacher,
@@ -346,7 +346,7 @@ flocking to him. When they come flocking to him, he becomes infatuated, falls
 into greed, and turns back to luxury. This is called a pupil ruined by the
 pupil's ruin. Bad, unwholesome dhammas strike him down: defiling, leading to
 renewed becoming, troubling, ripening in dissatisfaction, and leading to future
-birth, aging, and death. This is how a pupil comes to ruin.
+birth, ageing, and death. This is how a pupil comes to ruin.
 
 And how does someone who lives the spiritual life come to ruin, Ānanda? Ānanda,
 a Tathāgata arises in the world, the arahant, the fully awakened Buddha,
@@ -368,7 +368,7 @@ flocking to him, he becomes infatuated, falls into greed, and turns back to
 luxury. This is called someone who lives the spiritual life ruined by the ruin
 of the spiritual life. Bad, unwholesome dhammas strike him down: defiling,
 leading to renewed becoming, troubling, ripening in dissatisfaction, and
-leading to future birth, aging, and death. This is how someone who lives the
+leading to future birth, ageing, and death. This is how someone who lives the
 spiritual life comes to ruin.
 
 And here, Ānanda, the ruin of someone who lives the spiritual life has a more
@@ -381,20 +381,20 @@ So, Ānanda, treat me as a friend, not as an enemy. That will be for your
 welfare and satisfaction for a long time.
 
 Ānanda, how do disciples treat the teacher as an enemy and not as a friend?
-Here, Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma,
-seeking their welfare, moved by sympathy: 'This is for your welfare. This is
-for your satisfaction.' His disciples do not want to listen. They do not lend
-an ear, they do not apply their hearts to understanding, and they turn away
-from the teacher's instruction. This is how disciples treat the teacher as an
-enemy and not as a friend.
+Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma, seeking
+their welfare, moved by sympathy: 'This is for your welfare. This is for your
+satisfaction.' His disciples do not want to listen. They do not lend an ear,
+they do not apply their hearts to understanding, and they turn away from the
+teacher's instruction. This is how disciples treat the teacher as an enemy and
+not as a friend.
 
 Ānanda, how do disciples treat the teacher as a friend and not as an enemy?
-Here, Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma,
-seeking their welfare, moved by sympathy: 'This is for your welfare. This is
-for your satisfaction.' His disciples want to listen. They lend an ear, they
-apply their hearts to understanding, and they do not turn away from the
-teacher's instruction. This is how disciples treat the teacher as a friend and
-not as an enemy.
+Ānanda, out of sympathy, the teacher teaches the disciples the Dhamma, seeking
+their welfare, moved by sympathy: 'This is for your welfare. This is for your
+satisfaction.' His disciples want to listen. They lend an ear, they apply their
+hearts to understanding, and they do not turn away from the teacher's
+instruction. This is how disciples treat the teacher as a friend and not as an
+enemy.
 
 So, Ānanda, treat me as a friend, not as an enemy. That will be for your
 welfare and satisfaction for a long time.
@@ -522,7 +522,7 @@ The second discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn122/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn122-mahasunnata-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `cf1f472d`
+- **Last editorial review:** 2026-11-09 · body version `a17ddc96`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20122) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

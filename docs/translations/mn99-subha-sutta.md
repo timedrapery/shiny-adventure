@@ -329,10 +329,10 @@ What result do the brahmins lay down for that?"
 Rather, they give only with sympathy."
 
 "If that is so, student, then this becomes a sixth ground for making merit for
-the brahmins: namely, what is of the nature of sympathy."
+the brahmins: what is of the nature of sympathy."
 
 "If that is so, Master Gotama, then this becomes a sixth ground for making
-merit for the brahmins: namely, what is of the nature of sympathy."
+merit for the brahmins: what is of the nature of sympathy."
 
 ### Found More Among Renunciates
 

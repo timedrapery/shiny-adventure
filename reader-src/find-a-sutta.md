@@ -49,7 +49,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
 <h2><a href="../suttas/an3-65-kesamutta-sutta/">How to Test a Teaching</a></h2>
 <p class="sutta-card__reference">AN 3.65 · <span lang="pi">Kesamutta Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Medium · about 10 min · 1,786 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Medium · about 10 min · 1,790 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started</p>
 <p>A practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. Examine what happens when a teaching is put into practice.</p>
 </article>
@@ -63,7 +63,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="the man struck by a poisoned arrow mn 63 cūḷamālukya sutta why the teaching refuses to answer certain metaphysical questions. directly answers the objection a skeptical reader will already be forming after the first text. getting started">
 <h2><a href="../suttas/mn63-culamalukya-sutta/">The Man Struck by a Poisoned Arrow</a></h2>
 <p class="sutta-card__reference">MN 63 · <span lang="pi">Cūḷamālukya Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Medium · about 10 min · 1,729 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Medium · about 11 min · 1,801 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started</p>
 <p>Why the teaching refuses to answer certain metaphysical questions. Directly answers the objection a skeptical reader will already be forming after the first text.</p>
 </article>
@@ -77,7 +77,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the first teaching sn 56.11 dhammacakkappavattana sutta the first sermon: the four noble truths and the eightfold path stated directly. foundational, but reads better once stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize. four truths and path">
 <h2><a href="../suttas/sn56-11-dhammacakkappavattana-sutta/">The First Teaching</a></h2>
 <p class="sutta-card__reference">SN 56.11 · <span lang="pi">Dhammacakkappavattana Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,221 words</p>
+<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,223 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
 </article>
@@ -231,7 +231,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="two kinds of thinking mn 19 dvedhāvitakka sutta sorting thoughts into two bins and learning what to do with each. the simplest possible entry point into mind-training. meditation">
 <h2><a href="../suttas/mn19-dvedhavitakka-sutta/">Two Kinds of Thinking</a></h2>
 <p class="sutta-card__reference">MN 19 · <span lang="pi">Dvedhāvitakka Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 10 min · 1,777 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 10 min · 1,774 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Sorting thoughts into two bins and learning what to do with each. The simplest possible entry point into mind-training.</p>
 </article>
@@ -245,14 +245,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="practical" data-form="dialogue" data-length="medium" data-search="the water vessel mn 61 ambalaṭṭhikarāhulovāda sutta the buddha teaches his own son rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. from there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it. ethics and conduct">
 <h2><a href="../suttas/mn61-ambalatthikarahulovada-sutta/">The Water Vessel</a></h2>
 <p class="sutta-card__reference">MN 61 · <span lang="pi">Ambalaṭṭhikarāhulovāda Sutta</span></p>
-<p class="sutta-card__meta">Practical · Dialogue · Medium · about 13 min · 2,175 words</p>
+<p class="sutta-card__meta">Practical · Dialogue · Medium · about 13 min · 2,169 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. From there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="seven ways to handle what erodes the mind mn 2 sabbāsava sutta seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. a toolkit, not a theory. meditation">
 <h2><a href="../suttas/mn2-sabbasava-sutta/">Seven Ways to Handle What Erodes the Mind</a></h2>
 <p class="sutta-card__reference">MN 2 · <span lang="pi">Sabbāsava Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,199 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,193 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.</p>
 </article>
@@ -273,7 +273,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="the four foundations of remembering mn 10 satipaṭṭhāna sutta the four foundations of remembering, and the longest, densest text so far. not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing. meditation">
 <h2><a href="../suttas/mn10-satipatthana-sutta/">The Four Foundations of Remembering</a></h2>
 <p class="sutta-card__reference">MN 10 · <span lang="pi">Satipaṭṭhāna Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,832 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,828 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.</p>
 </article>
@@ -287,14 +287,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="dwelling in emptiness mn 122 mahāsuññata sutta the buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend. meditation">
 <h2><a href="../suttas/mn122-mahasunnata-sutta/">Dwelling in Emptiness</a></h2>
 <p class="sutta-card__reference">MN 122 · <span lang="pi">Mahāsuññata Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,245 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,242 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The Buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="emptiness, step by step mn 121 cūḷasuññata sutta emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left. meditation">
 <h2><a href="../suttas/mn121-culasunnata-sutta/">Emptiness, Step by Step</a></h2>
 <p class="sutta-card__reference">MN 121 · <span lang="pi">Cūḷasuññata Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,072 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,070 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left.</p>
 </article>
@@ -315,14 +315,14 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="recollecting death, one breath at a time an 6.19 maraṇassati sutta six monks say how they recollect death, each with less time than the last. the buddha sorts the heedless from the heedful. meditation">
 <h2><a href="../suttas/an6-19-maranassati-sutta/">Recollecting Death, One Breath at a Time</a></h2>
 <p class="sutta-card__reference">AN 6.19 · <span lang="pi">Maraṇassati Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Short · about 5 min · 779 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 5 min · 773 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Six monks say how they recollect death, each with less time than the last. The Buddha sorts the heedless from the heedful.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="what makes a genuine renunciant? mn 39 mahā-assapura sutta what actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. ethics and practice fused. ethics and conduct · meditation">
 <h2><a href="../suttas/mn39-maha-assapura-sutta/">What Makes a Genuine Renunciant?</a></h2>
 <p class="sutta-card__reference">MN 39 · <span lang="pi">Mahā-Assapura Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,355 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,343 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one. Ethics and practice fused.</p>
 </article>
@@ -357,7 +357,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="teaching" data-length="long" data-search="the snake and the raft mn 22 alagaddūpama sutta the snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable. not-self">
 <h2><a href="../suttas/mn22-alagaddupama-sutta/">The Snake and the Raft</a></h2>
 <p class="sutta-card__reference">MN 22 · <span lang="pi">Alagaddūpama Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Teaching · Long · about 24 min · 4,175 words</p>
+<p class="sutta-card__meta">Intermediate · Teaching · Long · about 24 min · 4,189 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.</p>
 </article>
@@ -385,7 +385,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether the tathāgata can be pinned down through the five heaps even here and now. not-self">
 <h2><a href="../suttas/sn22-86-anuradha-sutta/">Can You Pin Down the Tathāgata?</a></h2>
 <p class="sutta-card__reference">SN 22.86 · <span lang="pi">Anurādha Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Dialogue · Medium · about 7 min · 1,214 words</p>
+<p class="sutta-card__meta">Intermediate · Dialogue · Medium · about 7 min · 1,218 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether the Tathāgata can be pinned down through the five heaps even here and now.</p>
 </article>
@@ -406,7 +406,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="long" data-search="not-self at the six sense doors mn 148 chachakka sutta a systematic, almost mechanical working-through of not-self across every sense door. dense, but by this point the pattern should be familiar. not-self · mind and senses">
 <h2><a href="../suttas/mn148-chachakka-sutta/">Not-Self at the Six Sense Doors</a></h2>
 <p class="sutta-card__reference">MN 148 · <span lang="pi">Chachakka Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Long · about 18 min · 3,083 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Long · about 18 min · 3,087 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self · Mind and senses</p>
 <p>A systematic, almost mechanical working-through of not-self across every sense door. Dense, but by this point the pattern should be familiar.</p>
 </article>
@@ -434,7 +434,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="body and mind keep changing sn 12.61 assutavā sutta an argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind&#x27;s is not. dependent arising">
 <h2><a href="../suttas/sn12-61-assutava-sutta/">Body and Mind Keep Changing</a></h2>
 <p class="sutta-card__reference">SN 12.61 · <span lang="pi">Assutavā Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Teaching · Short · about 5 min · 729 words</p>
+<p class="sutta-card__meta">Intermediate · Teaching · Short · about 5 min · 741 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind&#x27;s is not.</p>
 </article>
@@ -469,35 +469,35 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. dependent arising · mind and senses">
 <h2><a href="../suttas/mn38-mahatanhasankhaya-sutta/">Does the Same Consciousness Continue?</a></h2>
 <p class="sutta-card__reference">MN 38 · <span lang="pi">Mahātaṇhāsaṅkhaya Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,432 words</p>
+<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,429 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
 <p>A monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="long" data-search="dependent arising in depth dn 15 mahānidāna sutta the deepest and longest exposition of dependent arising in the set. the capstone of this stage, not an entry point to it. dependent arising">
 <h2><a href="../suttas/dn15-mahanidana-sutta/">Dependent Arising in Depth</a></h2>
 <p class="sutta-card__reference">DN 15 · <span lang="pi">Mahānidāna Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Long · about 25 min · 4,443 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Long · about 25 min · 4,439 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>The deepest and longest exposition of dependent arising in the set. The capstone of this stage, not an entry point to it.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path|dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="medium" data-search="right view from many angles mn 9 sammādiṭṭhi sutta right view examined through more than a dozen different doctrinal lenses in one text. reads best as a review once the pieces it is reviewing are already familiar. four truths and path · dependent arising">
 <h2><a href="../suttas/mn9-sammaditthi-sutta/">Right View from Many Angles</a></h2>
 <p class="sutta-card__reference">MN 9 · <span lang="pi">Sammādiṭṭhi Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 15 min · 2,629 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 15 min · 2,613 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Dependent arising</p>
 <p>Right view examined through more than a dozen different doctrinal lenses in one text. Reads best as a review once the pieces it is reviewing are already familiar.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="questions and answers on the teaching mn 44 cūḷavedalla sutta a systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. mind and senses">
 <h2><a href="../suttas/mn44-culavedalla-sutta/">Questions and Answers on the Teaching</a></h2>
 <p class="sutta-card__reference">MN 44 · <span lang="pi">Cūḷavedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,473 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,468 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the longer questions and answers mn 43 mahāvedalla sutta the longer companion to mn 44, and the same format: two senior disciples working through the vocabulary point by point. read it second — it assumes more. mind and senses">
 <h2><a href="../suttas/mn43-mahavedalla-sutta/">The Longer Questions and Answers</a></h2>
 <p class="sutta-card__reference">MN 43 · <span lang="pi">Mahāvedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,912 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,907 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.</p>
 </article>
@@ -525,7 +525,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the five lower fetters mn 64 mahāmālukya sutta the five lower fetters, and the companion piece to mn 63 — same disciple, later in his practice. mind and senses">
 <h2><a href="../suttas/mn64-mahamalukya-sutta/">The Five Lower Fetters</a></h2>
 <p class="sutta-card__reference">MN 64 · <span lang="pi">Mahāmālukya Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,403 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,401 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.</p>
 </article>
@@ -539,7 +539,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the six fields of experience mn 137 saḷāyatanavibhaṅga sutta a technical analysis of the six fields of experience. mind and senses">
 <h2><a href="../suttas/mn137-salayatanavibhanga-sutta/">The Six Fields of Experience</a></h2>
 <p class="sutta-card__reference">MN 137 · <span lang="pi">Saḷāyatanavibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 14 min · 2,484 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 14 min · 2,417 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A technical analysis of the six fields of experience.</p>
 </article>
@@ -553,7 +553,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the eightfold path in detail mn 117 mahācattārīsaka sutta a technical analysis of the eightfold path, factor by factor. four truths and path">
 <h2><a href="../suttas/mn117-mahacattarisaka-sutta/">The Eightfold Path in Detail</a></h2>
 <p class="sutta-card__reference">MN 117 · <span lang="pi">Mahācattārīsaka Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,126 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,122 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A technical analysis of the eightfold path, factor by factor.</p>
 </article>
@@ -567,7 +567,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="teaching" data-length="short" data-search="the fire sermon sn 35.28 āditta sutta the fire sermon. iconic imagery carrying a genuinely abstract point about the senses. mind and senses">
 <h2><a href="../suttas/sn35-28-aditta-sutta/">The Fire Sermon</a></h2>
 <p class="sutta-card__reference">SN 35.28 · <span lang="pi">Āditta Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Teaching · Short · about 4 min · 675 words</p>
+<p class="sutta-card__meta">Advanced · Teaching · Short · about 4 min · 689 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The fire sermon. Iconic imagery carrying a genuinely abstract point about the senses.</p>
 </article>
@@ -581,7 +581,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="advanced" data-form="dialogue" data-length="long" data-search="household life or renunciant life? mn 99 subha sutta a dialogue defending renunciant life against a brahmin&#x27;s claim that household life is better. good late-stage read for weighing the whole path against the alternative. ethics and conduct">
 <h2><a href="../suttas/mn99-subha-sutta/">Household Life or Renunciant Life?</a></h2>
 <p class="sutta-card__reference">MN 99 · <span lang="pi">Subha Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Long · about 22 min · 3,854 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Long · about 22 min · 3,852 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>A dialogue defending renunciant life against a brahmin&#x27;s claim that household life is better. Good late-stage read for weighing the whole path against the alternative.</p>
 </article>
