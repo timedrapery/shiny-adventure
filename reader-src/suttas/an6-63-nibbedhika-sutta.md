@@ -7,7 +7,7 @@
 
 *AN 6.63, the Nibbedhika Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,115 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,114 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -39,7 +39,7 @@ The Buddha said this:
 
 ### What the Exposition Covers
 
-"And what, bhikkhus, is the penetrating exposition of the teaching?
+"And what is the penetrating exposition of the teaching, bhikkhus?
 
 Sensuality should be understood; where sensuality comes from should be
 understood; the differences among kinds of sensuality should be understood;
@@ -92,7 +92,7 @@ called the strands of sensuality:
 
 And where does sensuality come from?
 
-Contact, bhikkhus, is where sensuality comes from.
+Bhikkhus, contact is where sensuality comes from.
 
 And what are the differences among kinds of sensuality?
 
@@ -108,7 +108,7 @@ called the result of sensuality.
 
 And what is the quenching of sensuality?
 
-The quenching of contact, bhikkhus, is the quenching of sensuality. And this
+Bhikkhus, the quenching of contact is the quenching of sensuality. And this
 noble eightfold path is the path of practice leading to the quenching of
 sensuality: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -134,7 +134,7 @@ painful feeling, and neutral feeling.
 
 And where does felt experience come from?
 
-Contact, bhikkhus, is where felt experience comes from.
+Bhikkhus, contact is where felt experience comes from.
 
 And what are the differences among kinds of felt experience?
 
@@ -151,7 +151,7 @@ called the result of felt experience.
 
 And what is the quenching of felt experience?
 
-The quenching of contact, bhikkhus, is the quenching of felt experience. And
+Bhikkhus, the quenching of contact is the quenching of felt experience. And
 this noble eightfold path is the path of practice leading to the quenching of
 felt experience: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -175,7 +175,7 @@ forms, of sounds, of smells, of tastes, of tangibles, and of dhammas.
 
 And where does recognition come from?
 
-Contact, bhikkhus, is where recognition comes from.
+Bhikkhus, contact is where recognition comes from.
 
 And what are the differences among kinds of recognition?
 
@@ -191,7 +191,7 @@ This is called the result of recognition.
 
 And what is the quenching of recognition?
 
-The quenching of contact, bhikkhus, is the quenching of recognition. And this
+Bhikkhus, the quenching of contact is the quenching of recognition. And this
 noble eightfold path is the path of practice leading to the quenching of
 recognition: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -255,7 +255,7 @@ by body, by speech, by mind.
 
 And where does action come from?
 
-Contact, bhikkhus, is where action comes from.
+Bhikkhus, contact is where action comes from.
 
 And what are the differences among kinds of action?
 
@@ -271,10 +271,10 @@ being reborn, or on some later occasion. This is called the result of action.
 
 And what is the quenching of action?
 
-The quenching of contact, bhikkhus, is the quenching of action. And this noble
+Bhikkhus, the quenching of contact is the quenching of action. And this noble
 eightfold path is the path of practice leading to the quenching of action:
-right view, right attitude, right speech, right action, right livelihood,
-right effort, right remembering, right unification of mind.
+right view, right attitude, right speech, right action, right livelihood, right
+effort, right remembering, right unification of mind.
 
 When a noble disciple understands action this way, and so on through to the
 path of practice leading to its quenching, then they understand this
@@ -310,11 +310,11 @@ quickly. This is called the differences among kinds of dissatisfaction.
 
 And what is the result of dissatisfaction?
 
-Here, bhikkhus, someone overcome by dissatisfaction, their mind consumed by
-it, grieves, wears themselves out, wails, beats their chest and cries, and
-loses their bearings. Or else, overcome by dissatisfaction, their mind
-consumed by it, they go searching outside: 'Who knows one phrase, two phrases,
-for the quenching of this dissatisfaction?'
+Bhikkhus, someone overcome by dissatisfaction, their mind consumed by it,
+grieves, wears themselves out, wails, beats their chest and cries, and loses
+their bearings. Or else, overcome by dissatisfaction, their mind consumed by
+it, they go searching outside: 'Who knows one phrase, two phrases, for the
+quenching of this dissatisfaction?'
 
 Dissatisfaction results in bewilderment, I say, or in searching. This is
 called the result of dissatisfaction.
@@ -340,7 +340,7 @@ of dissatisfaction should be understood; and the path of practice leading to
 the quenching of dissatisfaction should be understood.' That is what was said,
 and this is why it was said.
 
-This, bhikkhus, is the penetrating exposition of the teaching."
+Bhikkhus, this is the penetrating exposition of the teaching."
 
 The ninth discourse is finished.
 
@@ -368,7 +368,7 @@ The ninth discourse is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>neutral feeling</dfn></dt>
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -413,7 +413,7 @@ The ninth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an6.63/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an6-63-nibbedhika-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `971ad14f`
+- **Last editorial review:** 2026-11-08 · body version `4f0c7aae`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%206.63) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -438,7 +438,7 @@ The ninth discourse is finished.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.

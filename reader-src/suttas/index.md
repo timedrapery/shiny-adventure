@@ -4,52 +4,52 @@ All 80 translations, grouped by collection. If you would rather be guided, use [
 
 ## Dīgha Nikāya (DN) — the long discourses
 
-- [**What Does a Renunciant Gain?**](dn2-samannaphala-sutta.md) — DN 2 · Sāmaññaphala Sutta · about 39 min · 6,958 words · Set 3. A king asks what a renunciant actually gets out of the life.
-- [**Dependent Arising in Depth**](dn15-mahanidana-sutta.md) — DN 15 · Mahānidāna Sutta · about 25 min · 4,445 words · Set 4. The deepest and longest exposition of dependent arising in the set.
+- [**What Does a Renunciant Gain?**](dn2-samannaphala-sutta.md) — DN 2 · Sāmaññaphala Sutta · about 39 min · 6,965 words · Set 3. A king asks what a renunciant actually gets out of the life.
+- [**Dependent Arising in Depth**](dn15-mahanidana-sutta.md) — DN 15 · Mahānidāna Sutta · about 25 min · 4,443 words · Set 4. The deepest and longest exposition of dependent arising in the set.
 
 ## Majjhima Nikāya (MN) — the middle-length discourses
 
-- [**The Root of All Things**](mn1-mulapariyaya-sutta.md) — MN 1 · Mūlapariyāya Sutta · about 22 min · 3,940 words · Set 5. "The root of all things."
-- [**Seven Ways to Handle What Erodes the Mind**](mn2-sabbasava-sutta.md) — MN 2 · Sabbāsava Sutta · about 13 min · 2,200 words · Set 3. Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development.
+- [**The Root of All Things**](mn1-mulapariyaya-sutta.md) — MN 1 · Mūlapariyāya Sutta · about 22 min · 3,939 words · Set 5. "The root of all things."
+- [**Seven Ways to Handle What Erodes the Mind**](mn2-sabbasava-sutta.md) — MN 2 · Sabbāsava Sutta · about 13 min · 2,199 words · Set 3. Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development.
 - [**The Dirty Cloth**](mn7-vattha-sutta.md) — MN 7 · Vattha Sutta · about 11 min · 1,911 words · Set 2. A mind is like cloth: dye it while it is dirty and the colour comes out wrong.
-- [**Right View from Many Angles**](mn9-sammaditthi-sutta.md) — MN 9 · Sammādiṭṭhi Sutta · about 15 min · 2,645 words · Set 4. Right view examined through more than a dozen different doctrinal lenses in one text.
-- [**The Four Foundations of Remembering**](mn10-satipatthana-sutta.md) — MN 10 · Satipaṭṭhāna Sutta · about 16 min · 2,831 words · Set 3. The four foundations of remembering, and the longest, densest text so far.
+- [**Right View from Many Angles**](mn9-sammaditthi-sutta.md) — MN 9 · Sammādiṭṭhi Sutta · about 15 min · 2,629 words · Set 4. Right view examined through more than a dozen different doctrinal lenses in one text.
+- [**The Four Foundations of Remembering**](mn10-satipatthana-sutta.md) — MN 10 · Satipaṭṭhāna Sutta · about 16 min · 2,832 words · Set 3. The four foundations of remembering, and the longest, densest text so far.
 - [**Who Counts as a Genuine Practitioner?**](mn11-culasihanada-sutta.md) — MN 11 · Cūḷasīhanāda Sutta · about 11 min · 1,845 words · Set 5. A claim about who counts as a genuine practitioner, grounded in whether a teaching can account for all four ways of taking things personally — including taking a doctrine of self personally.
 - [**How Thought Snowballs**](mn18-madhupindika-sutta.md) — MN 18 · Madhupiṇḍika Sutta · about 9 min · 1,466 words · Set 5. The honey-ball sutta, on how recognition snowballs into proliferating thought.
 - [**Two Kinds of Thinking**](mn19-dvedhavitakka-sutta.md) — MN 19 · Dvedhāvitakka Sutta · about 10 min · 1,777 words · Set 3. Sorting thoughts into two bins and learning what to do with each.
-- [**The Snake and the Raft**](mn22-alagaddupama-sutta.md) — MN 22 · Alagaddūpama Sutta · about 24 min · 4,186 words · Set 4. The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
-- [**The Two Searches**](mn26-pasarasi-sutta.md) — MN 26 · Pāsarāsi Sutta · about 31 min · 5,411 words · Set 1. The Buddha's own account of leaving home, studying under two teachers, and finding them insufficient.
+- [**The Snake and the Raft**](mn22-alagaddupama-sutta.md) — MN 22 · Alagaddūpama Sutta · about 24 min · 4,175 words · Set 4. The snake simile and the raft simile carry genuinely difficult not-self doctrine on strong enough imagery that it stays followable.
+- [**The Two Searches**](mn26-pasarasi-sutta.md) — MN 26 · Pāsarāsi Sutta · about 31 min · 5,426 words · Set 1. The Buddha's own account of leaving home, studying under two teachers, and finding them insufficient.
 - [**Could This Be the Path to Awakening?**](mn36-mahasaccaka-sutta.md) — MN 36 · Mahāsaccaka Sutta · about 36 min · 6,330 words · Set 3. A debater says some people train the body and others the mind.
-- [**Does the Same Consciousness Continue?**](mn38-mahatanhasankhaya-sutta.md) — MN 38 · Mahātaṇhāsaṅkhaya Sutta · about 31 min · 5,431 words · Set 4. A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.
-- [**What Makes a Genuine Renunciant?**](mn39-maha-assapura-sutta.md) — MN 39 · Mahā-Assapura Sutta · about 19 min · 3,356 words · Set 3. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one.
-- [**The Longer Questions and Answers**](mn43-mahavedalla-sutta.md) — MN 43 · Mahāvedalla Sutta · about 17 min · 2,918 words · Set 5. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point.
+- [**Does the Same Consciousness Continue?**](mn38-mahatanhasankhaya-sutta.md) — MN 38 · Mahātaṇhāsaṅkhaya Sutta · about 31 min · 5,432 words · Set 4. A monk's wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.
+- [**What Makes a Genuine Renunciant?**](mn39-maha-assapura-sutta.md) — MN 39 · Mahā-Assapura Sutta · about 19 min · 3,355 words · Set 3. What actually makes someone a genuine renunciant, as opposed to someone who merely looks like one.
+- [**The Longer Questions and Answers**](mn43-mahavedalla-sutta.md) — MN 43 · Mahāvedalla Sutta · about 17 min · 2,912 words · Set 5. The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point.
 - [**Questions and Answers on the Teaching**](mn44-culavedalla-sutta.md) — MN 44 · Cūḷavedalla Sutta · about 14 min · 2,473 words · Set 5. A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.
 - [**The Water Vessel**](mn61-ambalatthikarahulovada-sutta.md) — MN 61 · Ambalaṭṭhikarāhulovāda Sutta · about 13 min · 2,175 words · Set 3. The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back.
 - [**The Man Struck by a Poisoned Arrow**](mn63-culamalukya-sutta.md) — MN 63 · Cūḷamālukya Sutta · about 10 min · 1,729 words · Set 1. Why the teaching refuses to answer certain metaphysical questions.
-- [**The Five Lower Fetters**](mn64-mahamalukya-sutta.md) — MN 64 · Mahāmālukya Sutta · about 14 min · 2,405 words · Set 5. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
-- [**Household Life or Renunciant Life?**](mn99-subha-sutta.md) — MN 99 · Subha Sutta · about 22 min · 3,857 words · Set 5. A dialogue defending renunciant life against a brahmin's claim that household life is better.
-- [**The Good Person and the Bad Person**](mn113-sappurisa-sutta.md) — MN 113 · Sappurisa Sutta · about 21 min · 3,700 words · Set 3. Twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them.
-- [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · about 12 min · 2,115 words · Set 5. A technical analysis of the eightfold path, factor by factor.
-- [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · about 12 min · 2,010 words · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
+- [**The Five Lower Fetters**](mn64-mahamalukya-sutta.md) — MN 64 · Mahāmālukya Sutta · about 14 min · 2,403 words · Set 5. The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.
+- [**Household Life or Renunciant Life?**](mn99-subha-sutta.md) — MN 99 · Subha Sutta · about 22 min · 3,854 words · Set 5. A dialogue defending renunciant life against a brahmin's claim that household life is better.
+- [**The Good Person and the Bad Person**](mn113-sappurisa-sutta.md) — MN 113 · Sappurisa Sutta · about 21 min · 3,699 words · Set 3. Twenty-six things a monk might be proud of, from family to deep meditation, and how a good person refuses to rank themselves by them.
+- [**The Eightfold Path in Detail**](mn117-mahacattarisaka-sutta.md) — MN 117 · Mahācattārīsaka Sutta · about 12 min · 2,126 words · Set 5. A technical analysis of the eightfold path, factor by factor.
+- [**Remembering the Dhamma While Breathing In and Out**](mn118-anapanasati-sutta.md) — MN 118 · Ānāpānasati Sutta · about 12 min · 2,029 words · Set 3. Step-by-step instructions for remembering the Dhamma while breathing in and out.
 - [**Remembering Directed to the Body**](mn119-kayagatasati-sutta.md) — MN 119 · Kāyagatāsati Sutta · about 12 min · 2,083 words · Set 3. A long practice sequence directing remembering to breathing, movement, the body's contents and fate, deep unification of mind, resilience, and ten claimed results.
 - [**Emptiness, Step by Step**](mn121-culasunnata-sutta.md) — MN 121 · Cūḷasuññata Sutta · about 12 min · 2,072 words · Set 3. Emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left.
-- [**Dwelling in Emptiness**](mn122-mahasunnata-sutta.md) — MN 122 · Mahāsuññata Sutta · about 19 min · 3,250 words · Set 3. The Buddha's own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.
-- [**Don't Chase the Past or Long for the Future**](mn131-bhaddekaratta-sutta.md) — MN 131 · Bhaddekaratta Sutta · about 6 min · 1,059 words · Set 4. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment.
+- [**Dwelling in Emptiness**](mn122-mahasunnata-sutta.md) — MN 122 · Mahāsuññata Sutta · about 19 min · 3,245 words · Set 3. The Buddha's own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.
+- [**Don't Chase the Past or Long for the Future**](mn131-bhaddekaratta-sutta.md) — MN 131 · Bhaddekaratta Sutta · about 6 min · 1,057 words · Set 4. Do not chase the past or long for the future — but do not mistake that for a slogan about living in the moment.
 - [**The Six Fields of Experience**](mn137-salayatanavibhanga-sutta.md) — MN 137 · Saḷāyatanavibhaṅga Sutta · about 14 min · 2,484 words · Set 5. A technical analysis of the six fields of experience.
-- [**The Four Truths in Detail**](mn141-saccavibhanga-sutta.md) — MN 141 · Saccavibhaṅga Sutta · about 9 min · 1,509 words · Set 5. The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.
-- [**Not-Self at the Six Sense Doors**](mn148-chachakka-sutta.md) — MN 148 · Chachakka Sutta · about 18 min · 3,085 words · Set 4. A systematic, almost mechanical working-through of not-self across every sense door.
+- [**The Four Truths in Detail**](mn141-saccavibhanga-sutta.md) — MN 141 · Saccavibhaṅga Sutta · about 9 min · 1,511 words · Set 5. The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.
+- [**Not-Self at the Six Sense Doors**](mn148-chachakka-sutta.md) — MN 148 · Chachakka Sutta · about 18 min · 3,083 words · Set 4. A systematic, almost mechanical working-through of not-self across every sense door.
 
 ## Saṁyutta Nikāya (SN) — the connected discourses
 
 - [**How Do You Cross the Flood?**](sn1-1-oghatara-sutta.md) — SN 1.1 · Oghataraṇa Sutta · about 1 min · 170 words · Set 2. A deity asks how the Buddha crossed a flood.
-- [**Dependent Arising, Term by Term**](sn12-2-paticcasamuppada-vibhanga-sutta.md) — SN 12.2 · Paṭiccasamuppāda-vibhaṅga Sutta · about 6 min · 908 words · Set 4. The standard formula of dependent arising, defined term by term.
-- [**What Keeps a Life Going**](sn12-11-ahara-sutta.md) — SN 12.11 · Āhāra Sutta · about 4 min · 677 words · Set 4. Four things that keep a life going, traced back to wanting and then all the way back along the chain.
+- [**Dependent Arising, Term by Term**](sn12-2-paticcasamuppada-vibhanga-sutta.md) — SN 12.2 · Paṭiccasamuppāda-vibhaṅga Sutta · about 6 min · 907 words · Set 4. The standard formula of dependent arising, defined term by term.
+- [**What Keeps a Life Going**](sn12-11-ahara-sutta.md) — SN 12.11 · Āhāra Sutta · about 4 min · 676 words · Set 4. Four things that keep a life going, traced back to wanting and then all the way back along the chain.
 - [**Between 'It Exists' and 'It Doesn't'**](sn12-15-kaccanagotta-sutta.md) — SN 12.15 · Kaccānagotta Sutta · about 3 min · 432 words · Set 4. One page, defining right view as the middle between "it exists" and "it doesn't."
 - [**Discovered, Not Invented**](sn12-20-paccaya-sutta.md) — SN 12.20 · Paccaya Sutta · about 4 min · 572 words · Set 4. Dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future.
 - [**From Dissatisfaction to Freedom**](sn12-23-upanisa-sutta.md) — SN 12.23 · Upanisa Sutta · about 8 min · 1,294 words · Set 4. The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.
 - [**How the World Arises—and Ends**](sn12-44-loka-sutta.md) — SN 12.44 · Loka Sutta · about 2 min · 345 words · Set 4. How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.
-- [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 730 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
-- [**Putting Down the Burden**](sn22-22-bhara-sutta.md) — SN 22.22 · Bhāra Sutta · about 2 min · 301 words · Set 4. The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down.
+- [**Body and Mind Keep Changing**](sn12-61-assutava-sutta.md) — SN 12.61 · Assutavā Sutta · about 5 min · 729 words · Set 4. An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind's is not.
+- [**Putting Down the Burden**](sn22-22-bhara-sutta.md) — SN 22.22 · Bhāra Sutta · about 2 min · 303 words · Set 4. The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down.
 - [**What the Heaps Offer, and the Way Out**](sn22-26-assada-sutta.md) — SN 22.26 · Assāda Sutta · about 4 min · 559 words · Set 4. Before his awakening, the Buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out.
 - [**The Five Heaps**](sn22-48-khandha-sutta.md) — SN 22.48 · Khandha Sutta · about 3 min · 363 words · Set 4. What the five heaps actually are, stated directly.
 - [**What Is Fit to Call Self?**](sn22-59-anattalakkhana-sutta.md) — SN 22.59 · Anattalakkhaṇa Sutta · about 6 min · 1,016 words · Set 4. The second sermon.
@@ -58,13 +58,13 @@ All 80 translations, grouped by collection. If you would rather be guided, use [
 - [**The Fire Sermon**](sn35-28-aditta-sutta.md) — SN 35.28 · Āditta Sutta · about 4 min · 675 words · Set 5. The fire sermon.
 - [**One Arrow, Not Two**](sn36-6-salla-sutta.md) — SN 36.6 · Salla Sutta · about 5 min · 783 words · Set 2. The one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it.
 - [**Good Friendship Is the Whole Path**](sn45-2-upaddha-sutta.md) — SN 45.2 · Upaḍḍha Sutta · about 2 min · 332 words · Set 1. Ānanda calls good friendship half the spiritual life; the Buddha calls it the whole.
-- [**What the Eightfold Path Means**](sn45-8-vibhanga-sutta.md) — SN 45.8 · Vibhaṅga Sutta · about 3 min · 532 words · Set 2. The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart.
-- [**Conduct Is Where Practice Grows**](sn46-1-himavanta-sutta.md) — SN 46.1 · Himavanta Sutta · about 2 min · 307 words · Set 3. Nāgas grow big enough for the ocean by first growing on a mountain.
+- [**What the Eightfold Path Means**](sn45-8-vibhanga-sutta.md) — SN 45.8 · Vibhaṅga Sutta · about 3 min · 536 words · Set 2. The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart.
+- [**Conduct Is Where Practice Grows**](sn46-1-himavanta-sutta.md) — SN 46.1 · Himavanta Sutta · about 2 min · 306 words · Set 3. Nāgas grow big enough for the ocean by first growing on a mountain.
 - [**What Feeds and Starves the Hindrances**](sn46-51-ahara-sutta.md) — SN 46.51 · Āhāra Sutta · about 9 min · 1,522 words · Set 3. What feeds the hindrances that block practice, and what starves them.
-- [**The Five Faculties**](sn48-10-dutiyavibhanga-sutta.md) — SN 48.10 · Dutiyavibhaṅga Sutta · about 4 min · 645 words · Set 5. Five definitions, one per faculty, each written as something a person does rather than something they have.
+- [**The Five Faculties**](sn48-10-dutiyavibhanga-sutta.md) — SN 48.10 · Dutiyavibhaṅga Sutta · about 4 min · 643 words · Set 5. Five definitions, one per faculty, each written as something a person does rather than something they have.
 - [**The Four Bases of Power**](sn51-13-chandasamadhi-sutta.md) — SN 51.13 · Chandasamādhi Sutta · about 3 min · 493 words · Set 5. One short formula, stated four times, defining the four bases of power.
 - [**Four Steps That Lead to the Path**](sn55-5-dutiyasariputta-sutta.md) — SN 55.5 · Dutiyasāriputta Sutta · about 2 min · 256 words · Set 2. What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it.
-- [**The First Teaching**](sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11 · Dhammacakkappavattana Sutta · about 7 min · 1,225 words · Set 2. The first sermon: the four noble truths and the eightfold path stated directly.
+- [**The First Teaching**](sn56-11-dhammacakkappavattana-sutta.md) — SN 56.11 · Dhammacakkappavattana Sutta · about 7 min · 1,221 words · Set 2. The first sermon: the four noble truths and the eightfold path stated directly.
 - [**What Ignorance Means**](sn56-17-avijja-sutta.md) — SN 56.17 · Avijjā Sutta · about 1 min · 106 words · Set 2. A bhikkhu asks what ignorance means.
 
 ## Aṅguttara Nikāya (AN) — the numbered discourses
@@ -72,25 +72,25 @@ All 80 translations, grouped by collection. If you would rather be guided, use [
 - [**What Keeps the World Human**](an2-9-cariya-sutta.md) — AN 2.9 · Cariya Sutta · about 1 min · 109 words · Set 2. Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.
 - [**How to Test a Teaching**](an3-65-kesamutta-sutta.md) — AN 3.65 · Kesamutta Sutta · about 10 min · 1,786 words · Set 1. A practical starting point for judging a teaching: tradition, reasoning, and a teacher's authority are not sufficient on their own.
 - [**What Drives Harm—and What Ends It**](an3-69-akusalamula-sutta.md) — AN 3.69 · Akusalamūla Sutta · about 7 min · 1,217 words · Set 2. Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.
-- [**Three Trainings Cover Everything**](an3-88-tatiyasikkha-sutta.md) — AN 3.88 · Tatiyasikkhā Sutta · about 3 min · 368 words · Set 2. More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment.
+- [**Three Trainings Cover Everything**](an3-88-tatiyasikkha-sutta.md) — AN 3.88 · Tatiyasikkhā Sutta · about 3 min · 367 words · Set 2. More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment.
 - [**True Whether or Not a Buddha Appears**](an3-136-uppada-sutta.md) — AN 3.136 · Uppāda Sutta · about 2 min · 207 words · Set 2. Three short claims about everything that has been put together, and a frame that says they hold whether or not a Buddha ever appears.
 - [**Going With the Stream—or Against It**](an4-5-anusota-sutta.md) — AN 4.5 · Anusota Sutta · about 3 min · 416 words · Set 2. Four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land.
-- [**Four Horses**](an4-113-patoda-sutta.md) — AN 4.113 · Patoda Sutta · about 5 min · 801 words · Set 2. Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice.
-- [**The Five Strengths**](an5-14-vitthata-sutta.md) — AN 5.14 · Vitthata Sutta · about 3 min · 408 words · Set 5. The five strengths named and defined, in the same words SN 48.10 uses for the five faculties.
+- [**Four Horses**](an4-113-patoda-sutta.md) — AN 4.113 · Patoda Sutta · about 5 min · 799 words · Set 2. Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice.
+- [**The Five Strengths**](an5-14-vitthata-sutta.md) — AN 5.14 · Vitthata Sutta · about 3 min · 403 words · Set 5. The five strengths named and defined, in the same words SN 48.10 uses for the five faculties.
 - [**Recollecting Death, One Breath at a Time**](an6-19-maranassati-sutta.md) — AN 6.19 · Maraṇassati Sutta · about 5 min · 779 words · Set 3. Six monks say how they recollect death, each with less time than the last.
-- [**Six Things Examined**](an6-63-nibbedhika-sutta.md) — AN 6.63 · Nibbedhika Sutta · about 12 min · 2,115 words · Set 5. One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction.
+- [**Six Things Examined**](an6-63-nibbedhika-sutta.md) — AN 6.63 · Nibbedhika Sutta · about 12 min · 2,114 words · Set 5. One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction.
 - [**When Life Goes Up and Down**](an8-6-dutiyalokadhamma-sutta.md) — AN 8.6 · Dutiyalokadhamma Sutta · about 5 min · 824 words · Set 2. Gain and loss, praise and blame, pleasure and pain happen to everyone.
-- [**Eight Streams of Benefit**](an8-39-abhisanda-sutta.md) — AN 8.39 · Abhisanda Sutta · about 5 min · 734 words · Set 2. Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.
-- [**Living Like an Arahant for a Day**](an8-41-sankhittuposatha-sutta.md) — AN 8.41 · Saṅkhittūposatha Sutta · about 5 min · 803 words · Set 2. The eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life.
-- [**A Good Life Now and Later**](an8-54-dighajanu-sutta.md) — AN 8.54 · Dīghajāṇu Sutta · about 7 min · 1,153 words · Set 2. A householder asks how to live well now and later.
-- [**Ten Recognitions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,467 words · Set 3. Ten recognitions taught to a sick monk.
+- [**Eight Streams of Benefit**](an8-39-abhisanda-sutta.md) — AN 8.39 · Abhisanda Sutta · about 5 min · 732 words · Set 2. Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.
+- [**Living Like an Arahant for a Day**](an8-41-sankhittuposatha-sutta.md) — AN 8.41 · Saṅkhittūposatha Sutta · about 5 min · 802 words · Set 2. The eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life.
+- [**A Good Life Now and Later**](an8-54-dighajanu-sutta.md) — AN 8.54 · Dīghajāṇu Sutta · about 7 min · 1,147 words · Set 2. A householder asks how to live well now and later.
+- [**Ten Recognitions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,456 words · Set 3. Ten recognitions taught to a sick monk.
 - [**Think Like a Thoroughbred**](an11-9-saddha-sutta.md) — AN 11.9 · Saddha Sutta · about 7 min · 1,252 words · Set 2. A wild colt tied to its trough can think of nothing but "Fodder, fodder!"
 - [**Six Things to Remember Anywhere**](an11-12-dutiyamahanama-sutta.md) — AN 11.12 · Dutiyamahānāma Sutta · about 4 min · 549 words · Set 3. Mahānāma asks how to practice in ordinary life while the Buddha is away.
 
 ## Itivuttaka (Iti) — the short sayings, in the Khuddaka Nikāya
 
-- [**The Two Nibbāna Elements**](iti44-nibbanadhatu-sutta.md) — Iti 44 · Nibbānadhātu Sutta · about 2 min · 347 words · Set 5. A short reference text defining the two nibbāna elements.
-- [**Taken Over by Views**](iti49-ditthigata-sutta.md) — Iti 49 · Diṭṭhigata Sutta · about 2 min · 310 words · Set 4. Two views can take over: clinging to continued becoming, or treating annihilation as peace.
+- [**The Two Nibbāna Elements**](iti44-nibbanadhatu-sutta.md) — Iti 44 · Nibbānadhātu Sutta · about 2 min · 345 words · Set 5. A short reference text defining the two nibbāna elements.
+- [**Taken Over by Views**](iti49-ditthigata-sutta.md) — Iti 49 · Diṭṭhigata Sutta · about 2 min · 309 words · Set 4. Two views can take over: clinging to continued becoming, or treating annihilation as peace.
 
 ## Udāna (Ud) — the inspired sayings, in the Khuddaka Nikāya
 
@@ -100,7 +100,7 @@ All 80 translations, grouped by collection. If you would rather be guided, use [
 
 - [**Heedfulness Is the Path to the Deathless**](dhp21-32-appamadavagga.md) — Dhp 21-32 · Appamādavagga · about 2 min · 303 words · Set 2. Twelve verses on one quality: heedfulness, the path to the deathless.
 - [**The Teaching of the Buddhas**](dhp179-196-buddhavagga.md) — Dhp 179-196 · Buddhavagga · about 3 min · 459 words · Set 2. Eighteen verses on the Buddha, including the four-line summary of the whole teaching and what a real refuge is.
-- [**The Path**](dhp273-289-maggavagga.md) — Dhp 273-289 · Maggavagga · about 3 min · 462 words · Set 2. Seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way.
+- [**The Path**](dhp273-289-maggavagga.md) — Dhp 273-289 · Maggavagga · about 3 min · 461 words · Set 2. Seventeen verses on the path: you must make the effort yourself, and seeing impermanence, unsatisfactoriness, and not-self is the way.
 
 ## Sutta Nipāta (Snp) — the collection of discourses, in the Khuddaka Nikāya
 

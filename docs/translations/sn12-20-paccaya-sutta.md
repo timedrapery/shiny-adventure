@@ -98,13 +98,13 @@ When a noble disciple has clearly seen, with right discernment as they have
 come to be, both this dependent arising and these things that arise
 dependently, then for them to run back to the past—
 
-'Was I in the past? Was I not in the past? What was I in the past? How was I
-in the past? Having been what, what did I become in the past?'
+'Was I in the past? Was I not in the past? What was I in the past? How was I in
+the past? After being what, what did I become in the past?'
 
 —or run ahead to the future—
 
 'Will I be in the future? Will I not be in the future? What will I be in the
-future? How will I be in the future? Having been what, what will I become in
+future? How will I be in the future? After being what, what will I become in
 the future?'
 
 —or be inwardly unsure about the present—

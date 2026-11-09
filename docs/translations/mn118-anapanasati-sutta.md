@@ -62,14 +62,13 @@ addressed the bhikkhus:
 
 ### The Assembly
 
-"This assembly is without chaff, bhikkhus, pure, established in
-the core. Such is this Saṅgha of bhikkhus; such is this
-assembly: worthy of gifts, worthy of hospitality, worthy of offerings, worthy
-of reverential greeting, the unsurpassed field of merit for the world. In such
-an assembly, even a little gift becomes much, and a great gift becomes still
-greater. Such an assembly is rarely seen in the world. Such an assembly is
-worth traveling many leagues to see, even when the trip requires carrying
-provisions in a bag.
+"Bhikkhus, this assembly is without chaff pure, established in the core. Such
+is this Saṅgha of bhikkhus; such is this assembly: worthy of gifts, worthy of
+hospitality, worthy of offerings, worthy of reverential greeting, the
+unsurpassed field of merit for the world. In such an assembly, even a little
+gift becomes much, and a great gift becomes still greater. Such an assembly is
+rarely seen in the world. Such an assembly is worth traveling many leagues to
+see, even when the trip requires carrying provisions in a bag.
 
 "In this Saṅgha there are bhikkhus who are arahants, with outflows ended, who
 have lived the life, done what had to be done, laid down the burden, reached
@@ -110,15 +109,15 @@ developed and cultivated, they fulfill the seven awakening factors. When the
 seven awakening factors are developed and cultivated, they fulfill knowledge
 and release.
 
-"And how, bhikkhus, is ānāpānasati developed and cultivated so that it bears
-great fruit and great benefit?"
+"Bhikkhus, how is ānāpānasati developed and cultivated so that it bears great
+fruit and great benefit?"
 
 ### The Sixteen Trainings
 
-"Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or
-to an empty hut, sits down, folds the legs crosswise, sets the body upright,
-and sets remembering to the fore. They breathe in remembering the Dhamma; they
-breathe out remembering the Dhamma.
+"A bhikkhu goes to the wilderness, or to the root of a tree, or to an empty
+hut. They sit down, fold their legs crosswise, set their body upright, and set
+remembering to the fore. They breathe in remembering the Dhamma; they breathe
+out remembering the Dhamma.
 
 Body-related trainings:
 - Breathing in long, they know: 'I breathe in long.' Breathing out long, they
@@ -167,55 +166,53 @@ great benefit."
 
 "Whenever a bhikkhu knows, 'I breathe in long,' or knows, 'I breathe out long,'
 or knows, 'I breathe in short,' or knows, 'I breathe out short,' or trains in
-experiencing the whole body, or in calming the body conditioner, then they remain
-observing the body in relation to the body, ardent, with clear
-knowing, with remembering, having removed coveting and distress regarding the
-world. For, bhikkhus, I say that the in-breaths and out-breaths are one kind of
-body. Therefore they remain observing the body in relation to
-the body, ardent, with clear knowing, with remembering, having removed
-coveting and distress regarding the world.
+experiencing the whole body, or in calming the body conditioner, then they
+remain observing the body in relation to the body, ardent, with clear knowing,
+with remembering, and with coveting and distress about the world put aside.
+Bhikkhus, this is because I say that the in-breaths and out-breaths are one
+kind of body. Therefore they remain observing the body in relation to the body,
+ardent, with clear knowing, with remembering, and with coveting and distress
+about the world put aside.
 
 "Whenever a bhikkhu trains in experiencing rejoicing, or ease, or the mind
 conditioner, or in calming the mind conditioner, then they remain observing
 felt experience in relation to felt experience, ardent, with clear knowing,
-with remembering, having removed coveting and distress regarding the world.
-For, bhikkhus, I say that careful attention to the in-breaths and out-breaths
-is one kind of felt experience. Therefore they remain observing felt experience
-in relation to felt experience, ardent, with clear knowing, with remembering,
-having removed coveting and distress regarding the world.
+with remembering, and with coveting and distress about the world put aside.
+Bhikkhus, this is because I say that careful attention to the in-breaths and
+out-breaths is one kind of felt experience. Therefore they remain observing
+felt experience in relation to felt experience, ardent, with clear knowing,
+with remembering, and with coveting and distress about the world put aside.
 
-"Whenever a bhikkhu trains in experiencing the heart, or gladdening the
-heart, or bringing the heart to unification of mind, or freeing the
-heart, then they remain observing the heart in relation to the heart, ardent,
-with clear knowing, with remembering, having removed coveting and
-distress regarding the world. Bhikkhus, I do not call it ānāpānasati when
-remembering has slipped and clear knowing is absent. Therefore they remain
-observing the heart in relation to the heart, ardent, with clear knowing,
-with remembering, having removed coveting and
-distress regarding the world.
+"Whenever a bhikkhu trains in experiencing the heart, or gladdening the heart,
+or bringing the heart to unification of mind, or freeing the heart, then they
+remain observing the heart in relation to the heart, ardent, with clear
+knowing, with remembering, and with coveting and distress about the world put
+aside. Bhikkhus, I do not call it ānāpānasati when remembering has slipped and
+clear knowing is absent. Therefore they remain observing the heart in relation
+to the heart, ardent, with clear knowing, with remembering, and with coveting
+and distress about the world put aside.
 
 "Whenever a bhikkhu trains in observing impermanence, or fading, or quenching,
 or relinquishment, then they remain observing dhammas among dhammas, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world. Once they have seen with discernment the abandoning of coveting
-and distress, they look on carefully with dynamic balance. Therefore they
-remain observing dhammas among dhammas, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world.
+with clear knowing, with remembering, and with coveting and distress about the
+world put aside. Once they have seen with discernment the abandoning of
+coveting and distress, they look on carefully with dynamic balance. Therefore
+they remain observing dhammas among dhammas, ardent, with clear knowing, with
+remembering, and with coveting and distress about the world put aside.
 
 "That is how ānāpānasati, when developed and cultivated, fulfills the four
 establishments of sati."
 
 ### How the Four Establishments of Sati Fulfill the Seven Awakening Factors
 
-"And how, bhikkhus, are the four establishments of sati developed and cultivated
-so as to fulfill the seven awakening factors?
+"Bhikkhus, how are the four establishments of sati developed and cultivated so
+as to fulfill the seven awakening factors?
 
 "Whenever a bhikkhu remains observing the body in relation to the body, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world, then that bhikkhu's remembering is present and does not
-slip. When remembering is present and does not slip, the remembering awakening
-factor is aroused. They develop it, and it comes to fulfillment through
-development.
+with clear knowing, with remembering, and with coveting and distress about the
+world put aside, then that bhikkhu's remembering is present and does not slip.
+When remembering is present and does not slip, the remembering awakening factor
+is aroused. They develop it, and it comes to fulfillment through development.
 
 "Living in that way, with remembering present, they discern, investigate, and
 thoroughly examine that dhamma. Then the awakening factor of discernment of
@@ -244,19 +241,19 @@ Then the dynamic balance awakening factor is aroused. They develop it,
 and it comes to fulfillment through development.
 
 "The same is true when a bhikkhu remains observing felt experience in relation
-to felt experience, the heart in relation to the heart, or
-dhammas among dhammas, ardent, with clear knowing, with remembering, having
-removed coveting and distress regarding the world.
+to felt experience, the heart in relation to the heart, or dhammas among
+dhammas, ardent, with clear knowing, with remembering, and with coveting and
+distress about the world put aside.
 
 "That is how the four establishments of sati, when developed and cultivated,
 fulfill the seven awakening factors."
 
 ### How the Seven Awakening Factors Fulfill Knowledge and Release
 
-"And how, bhikkhus, are the seven awakening factors developed and cultivated so
-as to fulfill knowledge and release?
+"Bhikkhus, how are the seven awakening factors developed and cultivated so as
+to fulfill knowledge and release?
 
-"Here a bhikkhu develops:
+"A bhikkhu develops:
 
 - the remembering awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;

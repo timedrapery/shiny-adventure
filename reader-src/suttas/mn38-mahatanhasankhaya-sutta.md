@@ -7,7 +7,7 @@
 
 *MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,431 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,432 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -495,12 +495,12 @@ This is how this entire mass of dissatisfaction ceases.
 
 Knowing and seeing in this way, bhikkhus, would you run back to the past,
 wondering: 'Did we exist in past time? Did we not? What were we in past time?
-How were we? Having been what, what did we become?'"
+How were we? After being what, what did we become?'"
 
 "No, Bhante."
 
 "Would you run forward to the future, wondering: 'Will we exist in future time?
-Will we not? What will we be? How will we be? Having been what, what will we
+Will we not? What will we be? How will we be? After being what, what will we
 become?'"
 
 "No, Bhante."
@@ -603,12 +603,12 @@ this entire mass of dissatisfaction originates.
 
 ### The Arising of the Tathāgata
 
-Here, bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and
-fully awakened, accomplished in knowledge and conduct, well-departed, knower
-of the world, unsurpassed guide for those to be tamed, teacher of gods and
-humans, awakened, blessed. Having by himself, with direct knowledge, realized
-this world with its gods, Māras, and Brahmās, this population with its recluses
-and brahmins, its gods and humans, he makes it known to others. He teaches a
+Bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and fully
+awakened, accomplished in knowledge and conduct, well-departed, knower of the
+world, unsurpassed guide for those to be tamed, teacher of gods and humans,
+awakened, blessed. He has realized for himself, with direct knowledge, this
+world with its gods, Māras, and Brahmās, this population with its recluses and
+brahmins, its gods and humans, and he makes it known to others. He teaches a
 Dhamma that is good in the beginning, good in the middle, and good in the end,
 with meaning and with phrasing. He reveals a spiritual life that is utterly
 full and utterly pure.
@@ -837,7 +837,7 @@ The eighth discourse is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -890,7 +890,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn38/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `7a02ad44`
+- **Last editorial review:** 2026-11-08 · body version `b3a4e1c5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -932,7 +932,7 @@ The eighth discourse is finished.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.

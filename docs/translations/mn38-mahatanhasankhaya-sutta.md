@@ -498,12 +498,12 @@ This is how this entire mass of dissatisfaction ceases.
 
 Knowing and seeing in this way, bhikkhus, would you run back to the past,
 wondering: 'Did we exist in past time? Did we not? What were we in past time?
-How were we? Having been what, what did we become?'"
+How were we? After being what, what did we become?'"
 
 "No, Bhante."
 
 "Would you run forward to the future, wondering: 'Will we exist in future time?
-Will we not? What will we be? How will we be? Having been what, what will we
+Will we not? What will we be? How will we be? After being what, what will we
 become?'"
 
 "No, Bhante."
@@ -606,12 +606,12 @@ this entire mass of dissatisfaction originates.
 
 ### The Arising of the Tathāgata
 
-Here, bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and
-fully awakened, accomplished in knowledge and conduct, well-departed, knower
-of the world, unsurpassed guide for those to be tamed, teacher of gods and
-humans, awakened, blessed. Having by himself, with direct knowledge, realized
-this world with its gods, Māras, and Brahmās, this population with its recluses
-and brahmins, its gods and humans, he makes it known to others. He teaches a
+Bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and fully
+awakened, accomplished in knowledge and conduct, well-departed, knower of the
+world, unsurpassed guide for those to be tamed, teacher of gods and humans,
+awakened, blessed. He has realized for himself, with direct knowledge, this
+world with its gods, Māras, and Brahmās, this population with its recluses and
+brahmins, its gods and humans, and he makes it known to others. He teaches a
 Dhamma that is good in the beginning, good in the middle, and good in the end,
 with meaning and with phrasing. He reveals a spiritual life that is utterly
 full and utterly pure.

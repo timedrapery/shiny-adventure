@@ -43,20 +43,20 @@ sati.
 
 And what four?
 
-Here a bhikkhu remains observing the body in relation to the body, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+A bhikkhu remains observing the body in relation to the body, ardent, with
+clear knowing, with remembering, and with coveting and distress about the world
+put aside.
 
 They remain observing felt experience in relation to felt experience, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+with clear knowing, with remembering, and with coveting and distress about the
+world put aside.
 
-They remain observing the heart in relation to the heart, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+They remain observing the heart in relation to the heart, ardent, with clear
+knowing, with remembering, and with coveting and distress about the world put
+aside.
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world."
+remembering, and with coveting and distress about the world put aside."
 
 ### Contemplation of Body
 
@@ -64,10 +64,10 @@ remembering, having removed coveting and distress regarding the world."
 
 "And how does a bhikkhu remain observing the body in relation to the body?
 
-Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or to
-an empty hut, sits down, folds the legs crosswise, sets the body upright, and
-sets remembering to the fore. They breathe in remembering the Dhamma; they
-breathe out remembering the Dhamma.
+A bhikkhu goes to the wilderness, or to the root of a tree, or to an empty hut.
+They sit down, fold their legs crosswise, set their body upright, and set
+remembering to the fore. They breathe in remembering the Dhamma; they breathe
+out remembering the Dhamma.
 
 Breathing in long, they know: 'I breathe in long.' Breathing out long, they
 know: 'I breathe out long.'
@@ -163,10 +163,9 @@ set, in terms of elements:
 'In this body there are the earth element, the water element, the fire
 element, and the air element.'
 
-Just as a skilled butcher or a butcher's apprentice, having killed a cow,
-would sit at a crossroads with it cut up into pieces, in the same way a
-bhikkhu reviews this very body, however it is placed, however it is set, in
-terms of elements:
+Just as a skilled butcher or a butcher's apprentice might kill a cow and sit at
+a crossroads with it cut up into pieces, in the same way a bhikkhu reviews this
+very body, however it is placed, however it is set, in terms of elements:
 
 'In this body there are the earth element, the water element, the fire
 element, and the air element.'
@@ -239,9 +238,8 @@ experience."
 "And how does a bhikkhu remain observing the heart in relation to the
 heart?
 
-Here a bhikkhu discerns a heart with passion as 'heart with
-passion.' They discern a heart without passion as 'heart without
-passion.'
+A bhikkhu discerns a heart with passion as 'heart with passion.' They discern a
+heart without passion as 'heart without passion.'
 
 They discern a heart with aversion as 'heart with aversion.' They
 discern a heart without aversion as 'heart without aversion.'
@@ -282,8 +280,7 @@ heart."
 
 "And how does a bhikkhu remain observing dhammas among dhammas?
 
-Here a bhikkhu remains observing dhammas among dhammas in the five
-hindrances.
+A bhikkhu remains observing dhammas among dhammas in the five hindrances.
 
 And how does a bhikkhu remain observing dhammas among dhammas in the five
 hindrances?
@@ -334,7 +331,7 @@ clung-to heaps.
 And how does a bhikkhu remain observing dhammas among dhammas in the five clung-to
 heaps?
 
-Here a bhikkhu discerns:
+A bhikkhu discerns:
 
 - 'This is form; this is the arising of form; this is the vanishing of form.'
 - 'This is felt experience; this is the arising of felt experience; this is
@@ -360,10 +357,9 @@ and external fields.
 And how does a bhikkhu remain observing dhammas among dhammas in the six internal
 and external fields?
 
-Here a bhikkhu discerns the eye, visible forms, and the fetter that arises
-dependent on both. They also discern how an unarisen fetter arises, how an
-arisen fetter is given up, and how an abandoned fetter does not arise again in
-the future.
+A bhikkhu discerns the eye, visible forms, and the fetter that arises dependent
+on both. They also discern how an unarisen fetter arises, how an arisen fetter
+is given up, and how an abandoned fetter does not arise again in the future.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
@@ -403,7 +399,7 @@ truths.
 And how does a bhikkhu remain observing dhammas among dhammas in the four noble
 truths?
 
-Here a bhikkhu discerns as they have come to be:
+A bhikkhu discerns as they have come to be:
 
 - 'This is dissatisfaction.'
 - 'This is the arising of dissatisfaction.'
@@ -421,7 +417,7 @@ That is how a bhikkhu remains observing dhammas among dhammas."
 
 ### The Promised Fruits
 
-"Whoever, bhikkhus, develops these four establishments of sati in this way for
+"Bhikkhus, whoever develops these four establishments of sati in this way for
 seven years may expect one of two fruits: final knowledge here and now, or, if
 there is some support remaining, non-returner status.
 

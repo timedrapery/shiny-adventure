@@ -287,9 +287,9 @@ unskillful dhammas.
 And what is the delight that is apart from sensuality and apart from
 unskillful dhammas?
 
-Here, student, a bhikkhu, quite secluded from sensuality, secluded from
-unskillful dhammas, enters and remains in the first mental theme, with thinking
-and pondering, with rejoicing and satisfaction born of seclusion. This too is
+Student, a bhikkhu, quite secluded from sensuality, secluded from unskillful
+dhammas, enters and remains in the first mental theme, with thinking and
+pondering, with rejoicing and satisfaction born of seclusion. This too is
 delight apart from sensuality and apart from unskillful dhammas.
 
 Again, with the subsiding of thinking and pondering, with inner clarity and
@@ -364,10 +364,10 @@ only a little among householders."
 and for succeeding in what is skillful supports of the mind for
 developing a mind free of enmity and ill will.
 
-Here, student, a bhikkhu is truthful. Thinking, 'I am truthful,' he gains a
-sense of the meaning, a sense of the dhamma, and gladness connected with the
-dhamma. That gladness connected with what is skillful, I call a support of the
-mind for developing a mind free of enmity and ill will.
+Student, a bhikkhu is truthful. Thinking, 'I am truthful,' he gains a sense of
+the meaning, a sense of the dhamma, and gladness connected with the dhamma.
+That gladness connected with what is skillful, I call a support of the mind for
+developing a mind free of enmity and ill will.
 
 Again, a bhikkhu is austere. Thinking, 'I am austere,' he gains a sense of the
 meaning, a sense of the dhamma, and gladness connected with the dhamma. That
@@ -444,11 +444,11 @@ The Buddha said this:
 
 "And what, student, is the path to company with divinity?
 
-Here, student, a bhikkhu remains pervading one direction with a heart
-accompanied by friendliness. So too the second, the third, and the fourth.
-In the same way above, below, across, everywhere, and in every respect, they
-remain pervading the whole world with a heart accompanied by friendliness,
-abundant, expansive, vast, immeasurable, free of enmity, and free of ill will.
+Student, a bhikkhu remains pervading one direction with a heart accompanied by
+friendliness. So too the second, the third, and the fourth. In the same way
+above, below, across, everywhere, and in every respect, they remain pervading
+the whole world with a heart accompanied by friendliness, abundant, expansive,
+vast, immeasurable, free of enmity, and free of ill will.
 
 When the liberation of mind through friendliness has been developed in this
 way, any deed measured out in a limited way does not remain there and does not

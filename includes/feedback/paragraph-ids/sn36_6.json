@@ -1,6 +1,6 @@
 {
   "surface_key": "sn36_6",
-  "body_sha256": "096b106691120022d95cc9e3cfdb948b3523a1a064d61c6125a2bad4cf015993",
+  "body_sha256": "19c36b08d2e8dd0fde0087a3c5ffd93de62de453535b44a416169796248fd569",
   "next_id": 39,
   "passages": [
     {
@@ -234,10 +234,12 @@
     },
     {
       "id": "p032",
-      "fingerprint": "783ebdf4e3ccc91b",
+      "fingerprint": "bde429fb63a61ed2",
       "section": "One Arrow",
-      "preview": "That, bhikkhus, is the difference. That is what sets a learned noble di…",
-      "previous_fingerprints": []
+      "preview": "Bhikkhus, that is the difference. That is what sets a learned noble dis…",
+      "previous_fingerprints": [
+        "783ebdf4e3ccc91b"
+      ]
     },
     {
       "id": "p033",

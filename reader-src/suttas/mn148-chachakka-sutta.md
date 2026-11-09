@@ -7,7 +7,7 @@
 
 *MN 148, the Chachakka Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,085 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,083 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -322,7 +322,7 @@ not-self."
 
 ### The Way Leading to the Arising of Identity
 
-"And this, bhikkhus, is the way leading to the arising of identity:
+"Bhikkhus, this is the way leading to the arising of identity:
 
 they regard the eye like this: 'This is mine, I am this, this is my self.'
 
@@ -361,7 +361,7 @@ self.'"
 
 ### The Way Leading to the Quenching of Identity
 
-"And this, bhikkhus, is the way leading to the quenching of identity:
+"Bhikkhus, this is the way leading to the quenching of identity:
 
 they regard the eye like this: 'This is not mine, I am not this, this is not my
 self.'
@@ -509,7 +509,7 @@ possibility that they will make an end of dissatisfaction in this very life."
 
 ### Disenchantment, Fading, and Release
 
-"Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with the
+"Bhikkhus, seeing this, a learned noble disciple becomes disenchanted with the
 eye, with visible forms, with eye-knowing, with eye-contact, with felt
 experience, and with ignorant wanting.
 
@@ -568,7 +568,7 @@ released from the outflows through not taking anything personally.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>neutral feeling</dfn></dt>
@@ -597,7 +597,7 @@ released from the outflows through not taking anything personally.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn148/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn148-chachakka-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `cb5991f7`
+- **Last editorial review:** 2026-08-23 · body version `912b6d7c`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20148) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -626,7 +626,7 @@ released from the outflows through not taking anything personally.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

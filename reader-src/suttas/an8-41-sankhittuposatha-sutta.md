@@ -7,7 +7,7 @@
 
 *AN 8.41, the Saṅkhittūposatha Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 803 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 5 min · 802 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -44,10 +44,10 @@ great fruit and great benefit; it is glorious and far-reaching. And how is the
 observance day kept with its eight factors so that it bears great fruit and
 great benefit, and is glorious and far-reaching?
 
-Here, bhikkhus, a noble disciple reflects: 'For as long as they live, the
-arahants give up killing living beings and refrain from it. They have set aside
-rod and sword. They are scrupulous and kind, and live full of sympathy for all
-living beings.
+Bhikkhus, a noble disciple reflects: 'For as long as they live, the arahants
+give up killing living beings and refrain from it. They have set aside rod and
+sword. They are scrupulous and kind, and live full of sympathy for all living
+beings.
 
 'Today, for this night and day, I give up killing living beings and refrain
 from it. I set aside rod and sword. I am scrupulous and kind, and I live full
@@ -169,7 +169,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an8.41/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an8-41-sankhittuposatha-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `fb0d3f92`
+- **Last editorial review:** 2026-11-09 · body version `845ee70b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%208.41) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

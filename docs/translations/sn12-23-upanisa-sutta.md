@@ -52,122 +52,120 @@ outflows occurs.
 
 ### Each Link Has Its Condition
 
-I say, bhikkhus, that the knowledge of the destruction of outflows has a vital
-condition — it does not lack a vital condition. And what, bhikkhus, is the
-vital condition for the knowledge of the destruction of outflows?
+Bhikkhus, I say that the knowledge of the destruction of outflows has a vital
+condition — it does not lack a vital condition. And what is the vital condition
+for the knowledge of the destruction of outflows, bhikkhus?
 
 You should say: 'Release.'
 
-I say, bhikkhus, that release has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for release?
+Bhikkhus, I say that release has a vital condition — it does not lack a vital
+condition. And what is the vital condition for release, bhikkhus?
 
 You should say: 'Fading.'
 
-I say, bhikkhus, that fading has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for fading?
+Bhikkhus, I say that fading has a vital condition — it does not lack a vital
+condition. And what is the vital condition for fading, bhikkhus?
 
 You should say: 'Disenchantment.'
 
-I say, bhikkhus, that disenchantment has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for
-disenchantment?
+Bhikkhus, I say that disenchantment has a vital condition — it does not lack a
+vital condition. And what is the vital condition for disenchantment, bhikkhus?
 
 You should say: 'Seeing things as they are.'
 
-I say, bhikkhus, that seeing things as they are has a vital condition — it
-does not lack a vital condition. And what, bhikkhus, is the vital condition for
-seeing things as they are?
+Bhikkhus, I say that seeing things as they are has a vital condition — it does
+not lack a vital condition. And what is the vital condition for seeing things
+as they are, bhikkhus?
 
 You should say: 'Unification of mind.'
 
-I say, bhikkhus, that unification of mind has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for unification of mind?
+Bhikkhus, I say that unification of mind has a vital condition — it does not
+lack a vital condition. And what is the vital condition for unification of
+mind, bhikkhus?
 
 You should say: 'Satisfaction.'
 
-I say, bhikkhus, that satisfaction has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for satisfaction?
+Bhikkhus, I say that satisfaction has a vital condition — it does not lack a
+vital condition. And what is the vital condition for satisfaction, bhikkhus?
 
 You should say: 'Relaxation.'
 
-I say, bhikkhus, that relaxation has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for relaxation?
+Bhikkhus, I say that relaxation has a vital condition — it does not lack a
+vital condition. And what is the vital condition for relaxation, bhikkhus?
 
 You should say: 'Rejoicing.'
 
-I say, bhikkhus, that rejoicing has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for rejoicing?
+Bhikkhus, I say that rejoicing has a vital condition — it does not lack a vital
+condition. And what is the vital condition for rejoicing, bhikkhus?
 
 You should say: 'An actively happy state.'
 
-I say, bhikkhus, that an actively happy state has a vital condition — it does
-not lack a vital condition. And what, bhikkhus, is the vital condition for an
-actively happy state?
+Bhikkhus, I say that an actively happy state has a vital condition — it does
+not lack a vital condition. And what is the vital condition for an actively
+happy state, bhikkhus?
 
 You should say: 'Confidence.'
 
-I say, bhikkhus, that confidence has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for confidence?
+Bhikkhus, I say that confidence has a vital condition — it does not lack a
+vital condition. And what is the vital condition for confidence, bhikkhus?
 
 You should say: 'Dissatisfaction.'
 
-I say, bhikkhus, that dissatisfaction has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for
-dissatisfaction?
+Bhikkhus, I say that dissatisfaction has a vital condition — it does not lack a
+vital condition. And what is the vital condition for dissatisfaction, bhikkhus?
 
 You should say: 'Birth.'
 
-I say, bhikkhus, that birth has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for birth?
+Bhikkhus, I say that birth has a vital condition — it does not lack a vital
+condition. And what is the vital condition for birth, bhikkhus?
 
 You should say: 'Becoming.'
 
-I say, bhikkhus, that becoming has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for becoming?
+Bhikkhus, I say that becoming has a vital condition — it does not lack a vital
+condition. And what is the vital condition for becoming, bhikkhus?
 
 You should say: 'Appropriation.'
 
-I say, bhikkhus, that appropriation has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for appropriation?
+Bhikkhus, I say that appropriation has a vital condition — it does not lack a
+vital condition. And what is the vital condition for appropriation, bhikkhus?
 
 You should say: 'Ignorant wanting.'
 
-I say, bhikkhus, that ignorant wanting has a vital condition — it does not
-lack a vital condition. And what, bhikkhus, is the vital condition for
-ignorant wanting?
+Bhikkhus, I say that ignorant wanting has a vital condition — it does not lack
+a vital condition. And what is the vital condition for ignorant wanting,
+bhikkhus?
 
 You should say: 'Felt experience.'
 
-I say, bhikkhus, that felt experience has a vital condition — it does not lack
-a vital condition. And what, bhikkhus, is the vital condition for felt
-experience?
+Bhikkhus, I say that felt experience has a vital condition — it does not lack a
+vital condition. And what is the vital condition for felt experience, bhikkhus?
 
 You should say: 'Contact.'
 
-I say, bhikkhus, that contact has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for contact?
+Bhikkhus, I say that contact has a vital condition — it does not lack a vital
+condition. And what is the vital condition for contact, bhikkhus?
 
 You should say: 'The six sense fields.'
 
-I say, bhikkhus, that the six sense fields have a vital condition — they do
-not lack a vital condition. And what, bhikkhus, is the vital condition for the
-six sense fields?
+Bhikkhus, I say that the six sense fields have a vital condition — they do not
+lack a vital condition. And what is the vital condition for the six sense
+fields, bhikkhus?
 
 You should say: 'Name-and-form.'
 
-I say, bhikkhus, that name-and-form has a vital condition — it does not lack a
-vital condition. And what, bhikkhus, is the vital condition for name-and-form?
+Bhikkhus, I say that name-and-form has a vital condition — it does not lack a
+vital condition. And what is the vital condition for name-and-form, bhikkhus?
 
 You should say: 'Knowing.'
 
-I say, bhikkhus, that knowing has a vital condition — it does not lack a vital
-condition. And what, bhikkhus, is the vital condition for knowing?
+Bhikkhus, I say that knowing has a vital condition — it does not lack a vital
+condition. And what is the vital condition for knowing, bhikkhus?
 
 You should say: 'Putting things together.'
 
-I say, bhikkhus, that putting things together has a vital condition — it does
-not lack a vital condition. And what, bhikkhus, is the vital condition for
-putting things together?
+Bhikkhus, I say that putting things together has a vital condition — it does
+not lack a vital condition. And what is the vital condition for putting things
+together, bhikkhus?
 
 You should say: 'Ignorance.'
 

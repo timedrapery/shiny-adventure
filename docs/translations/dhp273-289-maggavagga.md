@@ -36,7 +36,7 @@ it leaves Māra bewildered.
 **275** Following it,
 you will make an end of dissatisfaction.
 I have taught you the path,
-having understood how the arrow is drawn out.
+knowing how the arrow is drawn out.
 
 **276** You yourselves must make the effort;
 Tathāgatas only tell the way.

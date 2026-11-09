@@ -191,7 +191,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dt><dfn>ignorance</dfn> <span class="glossary-pali" lang="pi">(avijjā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn> <span class="glossary-pali" lang="pi">(taṇhā)</span></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn> <span class="glossary-pali" lang="pi">(byāpāda)</span></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 </dl>

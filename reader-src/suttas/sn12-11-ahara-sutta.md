@@ -7,7 +7,7 @@
 
 *SN 12.11, the Āhāra Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 677 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 676 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -43,7 +43,7 @@ What four?
 Edible-food nutriment, whether coarse or fine; contact nutriment is the second;
 mental-intention nutriment is the third; knowing nutriment is the fourth.
 
-These, bhikkhus, are the four nutriments that keep beings going once they have
+Bhikkhus, these are the four nutriments that keep beings going once they have
 come to be, and that support those looking to come to be.
 
 ### Where They Come From
@@ -100,7 +100,7 @@ and ignorance produces it.
 
 ### The Chain
 
-"And so, bhikkhus, with ignorance as condition, putting things together;
+"Bhikkhus, so with ignorance as condition, putting things together;
 with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;
@@ -156,7 +156,7 @@ The first discourse is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>name-and-form</dfn></dt>
@@ -177,7 +177,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-11-ahara-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `1e477e68`
+- **Last editorial review:** 2026-08-23 · body version `5c398557`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -203,7 +203,7 @@ The first discourse is finished.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.

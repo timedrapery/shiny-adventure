@@ -7,7 +7,7 @@
 
 *MN 39, the Mahā-Assapura Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,356 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 19 min · 3,355 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -202,9 +202,9 @@ goal — do not let the recluse's goal decline while there is still more to do.'
 
 And what more is there to do?
 
-Here, bhikkhus, a bhikkhu frequents a secluded lodging — a wilderness, the
-root of a tree, a hillside, a ravine, a mountain cave, a charnel ground, a
-forest, the open air, a heap of straw.
+Bhikkhus, a bhikkhu frequents a secluded lodging — a wilderness, the root of a
+tree, a hillside, a ravine, a mountain cave, a charnel ground, a forest, the
+open air, a heap of straw.
 
 After returning from the alms-round following the meal, they sit down, cross
 their legs, set their body upright, and establish remembering before them.
@@ -437,13 +437,13 @@ understand: 'These are the outflows … there is nothing further for this.'
 
 ### Seven Titles Explained
 
-This bhikkhu, bhikkhus, is called a recluse, a brahmin, a bathed one, a
+Bhikkhus, this bhikkhu is called a recluse, a brahmin, a bathed one, a
 knowledge-master, one cleansed, a noble one, a perfected one.
 
-And how, bhikkhus, is a bhikkhu a recluse? Their bad, unskillful qualities —
+And how is a bhikkhu a recluse, bhikkhus? Their bad, unskillful qualities —
 corrupting, leading to further becoming, accompanied by trouble, resulting in
-painful fruit, causing future birth, ageing, and death — have been calmed.
-That is how a bhikkhu is a recluse.
+painful fruit, causing future birth, ageing, and death — have been calmed. That
+is how a bhikkhu is a recluse.
 
 And how is a bhikkhu a brahmin? Those same bad, unskillful qualities have been
 expelled. That is how a bhikkhu is a brahmin.
@@ -567,7 +567,7 @@ The Greater Discourse at Assapura is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn39/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn39-maha-assapura-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `4bea34c6`
+- **Last editorial review:** 2026-11-08 · body version `17fabf79`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2039) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

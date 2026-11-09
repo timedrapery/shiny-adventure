@@ -70,7 +70,7 @@ destination can be expected.
 
 ### Corruptions of the Heart
 
-"And what, bhikkhus, are the corruptions of the heart?
+"And what are the corruptions of the heart, bhikkhus?
 
 Covetous distorted greed is a corruption of the heart. Ill will is a
 corruption of the heart. Anger is a corruption of the heart.
@@ -254,7 +254,7 @@ When it is released, there is the knowledge:
 They discern: 'Birth is worn away, the spiritual life has been lived, what had
 to be done has been done, there is no more of this state of being.'
 
-"This is called, bhikkhus, a bhikkhu bathed by inner bathing."
+"Bhikkhus, this is called a bhikkhu bathed by inner bathing."
 
 ### Sundarika Bhāradvāja
 
@@ -265,7 +265,7 @@ Then he said to the Buddha:
 
 "Does Master Gotama go to the Bāhuka River to bathe?"
 
-"What, brahmin, is there in the Bāhuka River? What will the Bāhuka River do?"
+"What is there in the Bāhuka River, brahmin? What will the Bāhuka River do?"
 
 "Master Gotama, many people regard the Bāhuka River as purification. Many
 people regard the Bāhuka River as merit. And many people wash away the evil
@@ -416,7 +416,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn7/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn7-vattha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `2676a15d`
+- **Last editorial review:** 2026-11-08 · body version `e33d4501`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%207) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

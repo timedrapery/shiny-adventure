@@ -41,9 +41,9 @@ The Buddha said this:
 
 ### The Ordinary Person
 
-"Here, bhikkhus, an unlearned ordinary person, who has no regard for noble
-ones and is untrained and undisciplined in their Dhamma, who has no regard for
-good people and is untrained and undisciplined in their Dhamma:
+"Bhikkhus, an unlearned ordinary person, who has no regard for noble ones and
+is untrained and undisciplined in their Dhamma, who has no regard for good
+people and is untrained and undisciplined in their Dhamma:
 
 - They recognize earth as earth. Once they have recognized earth as earth, they
   think of themselves as earth, they think of themselves in earth, they think of

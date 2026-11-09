@@ -7,7 +7,7 @@
 
 *AN 3.88, the Tatiyasikkhā Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 368 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 367 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -40,7 +40,7 @@ These are the three trainings that include them all.
 
 ### Firm in What Matters
 
-Here a bhikkhu completely fulfills conduct, unification of mind, and discernment.
+A bhikkhu completely fulfills conduct, unification of mind, and discernment.
 
 They may break some lesser and minor training rules, then make things right and
 return to good standing.
@@ -128,7 +128,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an3.88/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an3-88-tatiyasikkha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `f36611d5`
+- **Last editorial review:** 2026-11-08 · body version `462c5d1e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%203.88) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

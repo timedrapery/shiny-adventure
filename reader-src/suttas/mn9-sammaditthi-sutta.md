@@ -7,7 +7,7 @@
 
 *MN 9, the Sammādiṭṭhi Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 15 min · 2,645 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 15 min · 2,629 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -46,7 +46,7 @@ Venerable Sāriputta said this:
 
 "Friends, people say, 'right view, right view.'
 
-In what way, friends, is a noble disciple one with right view, whose view has
+Friends, in what way is a noble disciple one with right view, whose view has
 become direct, who is endowed with verified confidence in the Dhamma, and who
 has arrived at this true Dhamma?"
 
@@ -116,11 +116,11 @@ This is called the root of the wholesome.
 
 When a noble disciple discerns the unwholesome in this way, discerns the root
 of the unwholesome in this way, discerns the wholesome in this way, and
-discerns the root of the wholesome in this way, then, having abandoned the
-underlying tendency toward passion entirely, having dispelled the underlying
-tendency toward resistance, having uprooted the underlying tendency to the view
-and conceit 'I am,' having abandoned ignorance and given rise to clear
-knowledge, he makes an end of dissatisfaction in this very life.
+discerns the root of the wholesome in this way, then he abandons the underlying
+tendency toward passion entirely, dispels the underlying tendency toward
+resistance, uproots the underlying tendency to the view and conceit 'I am,'
+abandons ignorance, gives rise to clear knowledge, and makes an end of
+dissatisfaction in this very life.
 
 To that extent, too, the noble disciple is one with right view, whose view has
 become direct, who is endowed with verified confidence in the Dhamma, and who
@@ -177,11 +177,10 @@ of nutriment:
 When a noble disciple discerns nutriment in this way, discerns the origin of
 nutriment in this way, discerns the quenching of nutriment in this way, and
 discerns the path of practice leading to the quenching of nutriment in this
-way, then, having abandoned the underlying tendency toward passion entirely,
-having dispelled the underlying tendency toward resistance, having uprooted the
-underlying tendency to the view and conceit 'I am,' having abandoned ignorance
-and given rise to clear knowledge, he makes an end of dissatisfaction in this
-very life.
+way, then he abandons the underlying tendency toward passion entirely, dispels
+the underlying tendency toward resistance, uproots the underlying tendency to
+the view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge,
+and makes an end of dissatisfaction in this very life.
 
 To that extent, too, the noble disciple is one with right view, whose view has
 become direct, who is endowed with verified confidence in the Dhamma, and who
@@ -243,11 +242,11 @@ It is just this noble eightfold path:
 This is called the path of practice leading to the quenching of
 dissatisfaction.
 
-When a noble disciple discerns this in this way, then, having abandoned the
-underlying tendency toward passion entirely, having dispelled the underlying
-tendency toward resistance, having uprooted the underlying tendency to the view
-and conceit 'I am,' having abandoned ignorance and given rise to clear
-knowledge, he makes an end of dissatisfaction in this very life.
+When a noble disciple discerns this in this way, then he abandons the
+underlying tendency toward passion entirely, dispels the underlying tendency
+toward resistance, uproots the underlying tendency to the view and conceit 'I
+am,' abandons ignorance, gives rise to clear knowledge, and makes an end of
+dissatisfaction in this very life.
 
 To that extent, too, the noble disciple is one with right view."
 
@@ -521,11 +520,10 @@ eightfold path is the path of practice leading to the quenching of outflows:
 When a noble disciple discerns outflow in this way, discerns the origin of
 outflow in this way, discerns the quenching of outflow in this way, and
 discerns the path of practice leading to the quenching of outflow in this way,
-then, having abandoned the underlying tendency toward passion entirely, having
-dispelled the underlying tendency toward resistance, having uprooted the
-underlying tendency to the view and conceit 'I am,' having abandoned ignorance
-and given rise to clear knowledge, he makes an end of dissatisfaction in this
-very life.
+then he abandons the underlying tendency toward passion entirely, dispels the
+underlying tendency toward resistance, uproots the underlying tendency to the
+view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge, and
+makes an end of dissatisfaction in this very life.
 
 To that extent, too, the noble disciple is one with right view, whose view has
 become direct, who is endowed with verified confidence in the Dhamma, and who
@@ -579,7 +577,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -644,7 +642,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn9/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn9-sammaditthi-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `89876f26`
+- **Last editorial review:** 2026-11-08 · body version `837ddc51`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%209) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -677,7 +675,7 @@ The Sammādiṭṭhi Sutta, the ninth discourse, is finished.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

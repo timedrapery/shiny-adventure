@@ -7,7 +7,7 @@
 
 *Dhp 273-289, the Maggavagga — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 462 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 461 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -51,7 +51,7 @@ The numbers beside the verses are the Dhammapada's own verse numbers.
 <span class="verse-number">275</span><span class="verse-line">Following it,</span>
 <span class="verse-line">you will make an end of dissatisfaction.</span>
 <span class="verse-line">I have taught you the path,</span>
-<span class="verse-line verse-line--last">having understood how the arrow is drawn out.</span>
+<span class="verse-line verse-line--last">knowing how the arrow is drawn out.</span>
 {: .verse }
 
 <span class="verse-number">276</span><span class="verse-line">You yourselves must make the effort;</span>
@@ -177,7 +177,7 @@ The twentieth chapter, on the path, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dhp273-289/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dhp273-289-maggavagga-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `986887d7`
+- **Last editorial review:** 2026-11-09 · body version `16d60e08`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Dhp%20273-289) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -200,6 +200,7 @@ The twentieth chapter, on the path, is finished.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+*[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.

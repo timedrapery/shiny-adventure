@@ -27,43 +27,42 @@ strength, the unification strength, and the discernment strength.
 
 ### The Confidence Strength
 
-And what, bhikkhus, is the confidence strength?
+And what is the confidence strength, bhikkhus?
 
-Here a noble disciple has confidence. They place confidence in the awakening
-of the Tathāgata: 'So indeed is the Buddha — an arahant, perfectly and fully
-awakened, accomplished in knowledge and conduct, well-departed, knower of the
-world, unsurpassed guide for those to be tamed, teacher of gods and humans,
-awakened, blessed.'
+A noble disciple has confidence. They place confidence in the awakening of the
+Tathāgata: 'So indeed is the Buddha — an arahant, perfectly and fully awakened,
+accomplished in knowledge and conduct, well-departed, knower of the world,
+unsurpassed guide for those to be tamed, teacher of gods and humans, awakened,
+blessed.'
 
-This, bhikkhus, is called the confidence strength.
+Bhikkhus, this is called the confidence strength.
 
 ### The Energy Strength
 
-And what, bhikkhus, is the energy strength?
+And what is the energy strength, bhikkhus?
 
-Here a noble disciple lives with aroused energy for the abandoning of
-unwholesome qualities and the taking up of wholesome qualities — steadfast,
-firm in exertion, not putting down the burden with respect to wholesome
-qualities.
+A noble disciple lives with aroused energy for the abandoning of unwholesome
+qualities and the taking up of wholesome qualities — steadfast, firm in
+exertion, not putting down the burden with respect to wholesome qualities.
 
-This, bhikkhus, is called the energy strength.
+Bhikkhus, this is called the energy strength.
 
 ### The Remembering Strength
 
-And what, bhikkhus, is the remembering strength?
+And what is the remembering strength, bhikkhus?
 
-Here a noble disciple remembers. They possess the highest carefulness in
+A noble disciple remembers. They possess the highest carefulness in
 remembering, and they recall and call to mind what was done and said long ago.
 
-This, bhikkhus, is called the remembering strength.
+Bhikkhus, this is called the remembering strength.
 
 ### The Unification Strength
 
-And what, bhikkhus, is the unification strength?
+And what is the unification strength, bhikkhus?
 
-Here a noble disciple, quite secluded from sensuality, secluded from
-unwholesome dhammas, enters and remains in the first mental theme, which has
-thinking and pondering, and the rejoicing and satisfaction born of seclusion.
+A noble disciple, quite secluded from sensuality, secluded from unwholesome
+dhammas, enters and remains in the first mental theme, which has thinking and
+pondering, and the rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 singleness of the heart, they enter and remain in the second mental theme,
@@ -80,18 +79,18 @@ ending of gladness and sadness, they enter and remain in the fourth mental
 theme, without discomfort and without satisfaction, purified by dynamic
 balance and remembering.
 
-This, bhikkhus, is called the unification strength.
+Bhikkhus, this is called the unification strength.
 
 ### The Discernment Strength
 
-And what, bhikkhus, is the discernment strength?
+And what is the discernment strength, bhikkhus?
 
-Here a noble disciple discerns. They possess the discernment that leads to
-arising and passing away — noble, penetrating, rightly leading to the wearing
-away of dissatisfaction.
+A noble disciple discerns. They possess the discernment that leads to arising
+and passing away — noble, penetrating, rightly leading to the wearing away of
+dissatisfaction.
 
-This, bhikkhus, is called the discernment strength.
+Bhikkhus, this is called the discernment strength.
 
-These, bhikkhus, are the five strengths."
+Bhikkhus, these are the five strengths."
 
 The fourth discourse is finished.

@@ -48,9 +48,9 @@ silence. Seated to one side, the Kālāmas of Kesamutta said to the Buddha:
 explain and illuminate only their own doctrine, while they attack, belittle,
 disparage, and mock the doctrines of others. Then other recluses and brahmins
 come to Kesamutta, and they too explain and illuminate only their own doctrine,
-while they attack, belittle, disparage, and mock the doctrines of others. We
-are left, Bhante, with doubt and uncertainty: which of these venerable recluses
-and brahmins speaks the truth, and which speaks falsely?"
+while they attack, belittle, disparage, and mock the doctrines of others.
+Bhante, we are left with doubt and uncertainty: which of these venerable
+recluses and brahmins speaks the truth, and which speaks falsely?"
 
 "It is right, Kālāmas, for you to doubt — right for you to be uncertain. You
 have become uncertain about something genuinely uncertain.
@@ -192,13 +192,12 @@ why I said it.
 
 ### Friendliness, Kindness, Gladness, and Dynamic Balance
 
-That noble disciple, Kālāmas, free of coveting, free of ill will,
-unconfused, clearly knowing and remembering, dwells pervading one direction
-with a heart filled with friendliness, likewise the second, likewise the
-third, likewise the fourth — and so above, below, across, everywhere, for all
-as for themselves, they dwell pervading the entire world with a heart
-filled with friendliness, vast, expansive, boundless, without enmity and
-without ill will.
+Kālāmas, that noble disciple free of coveting, free of ill will, unconfused,
+clearly knowing and remembering, dwells pervading one direction with a heart
+filled with friendliness, likewise the second, likewise the third, likewise the
+fourth — and so above, below, across, everywhere, for all as for themselves,
+they dwell pervading the entire world with a heart filled with friendliness,
+vast, expansive, boundless, without enmity and without ill will.
 
 They dwell pervading one direction with a heart filled with kindness
 towards others, likewise the second, likewise the third, likewise the fourth —
@@ -220,30 +219,7 @@ vast, expansive, boundless, without enmity and without ill will.
 
 ### The Four Consolations
 
-That noble disciple, Kālāmas, with a heart free of enmity, free of ill
-will, uncorrupted and pure, wins four consolations in this very life.
-
-'If there is another world, and if good and bad actions do bear fruit and
-result — then when this body breaks up, after death, I will be reborn in a good
-destination, a heavenly world.' This is the first consolation won.
-
-'If there is no other world, and if good and bad actions do not bear fruit and
-result — then in this very life I keep myself free of enmity, free of ill will,
-untroubled and happy.' This is the second consolation won.
-
-'If bad things do come to those who do bad — I have no harmful intention toward
-anyone. Not doing any bad action, how could suffering reach me?' This is the
-third consolation won.
-
-'If bad things do not come to those who do bad — then I see myself pure on both
-sides.' This is the fourth consolation won.
-
-That noble disciple, Kālāmas, with a heart free of enmity, free of ill
-will, uncorrupted and pure — they win these four consolations in this very
-life."
-
-"That is exactly so, Blessed One. That is exactly so, Well-Departed One. That
-noble disciple, Bhante, with a heart free of enmity, free of ill will,
+Kālāmas, that noble disciple with a heart free of enmity, free of ill will,
 uncorrupted and pure, wins four consolations in this very life.
 
 'If there is another world, and if good and bad actions do bear fruit and
@@ -261,15 +237,36 @@ third consolation won.
 'If bad things do not come to those who do bad — then I see myself pure on both
 sides.' This is the fourth consolation won.
 
-That noble disciple, Bhante, with a heart free of enmity, free of ill
-will, uncorrupted and pure — they win these four consolations in this very
-life.
+Kālāmas, that noble disciple with a heart free of enmity, free of ill will,
+uncorrupted and pure — they win these four consolations in this very life."
+
+"That is exactly so, Blessed One. That is exactly so, Well-Departed One.
+Bhante, that noble disciple with a heart free of enmity, free of ill will,
+uncorrupted and pure, wins four consolations in this very life.
+
+'If there is another world, and if good and bad actions do bear fruit and
+result — then when this body breaks up, after death, I will be reborn in a good
+destination, a heavenly world.' This is the first consolation won.
+
+'If there is no other world, and if good and bad actions do not bear fruit and
+result — then in this very life I keep myself free of enmity, free of ill will,
+untroubled and happy.' This is the second consolation won.
+
+'If bad things do come to those who do bad — I have no harmful intention toward
+anyone. Not doing any bad action, how could suffering reach me?' This is the
+third consolation won.
+
+'If bad things do not come to those who do bad — then I see myself pure on both
+sides.' This is the fourth consolation won.
+
+Bhante, that noble disciple with a heart free of enmity, free of ill will,
+uncorrupted and pure — they win these four consolations in this very life.
 
 ### Going for Refuge
 
-Excellent, Bhante! Excellent! ... We, Bhante, go to the Buddha for
-refuge, and to the Dhamma and the Bhikkhu Saṅgha. May the Buddha receive
-us as lay followers who have gone for refuge from this day forward for as long
-as life lasts."
+Excellent, Bhante! Excellent! ... Bhante, we go to the Buddha for refuge, and
+to the Dhamma and the Bhikkhu Saṅgha. May the Buddha receive us as lay
+followers who have gone for refuge from this day forward for as long as life
+lasts."
 
 The fifth discourse is finished.

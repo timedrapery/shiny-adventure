@@ -317,7 +317,7 @@ not-self."
 
 ### The Way Leading to the Arising of Identity
 
-"And this, bhikkhus, is the way leading to the arising of identity:
+"Bhikkhus, this is the way leading to the arising of identity:
 
 they regard the eye like this: 'This is mine, I am this, this is my self.'
 
@@ -356,7 +356,7 @@ self.'"
 
 ### The Way Leading to the Quenching of Identity
 
-"And this, bhikkhus, is the way leading to the quenching of identity:
+"Bhikkhus, this is the way leading to the quenching of identity:
 
 they regard the eye like this: 'This is not mine, I am not this, this is not my
 self.'
@@ -504,7 +504,7 @@ possibility that they will make an end of dissatisfaction in this very life."
 
 ### Disenchantment, Fading, and Release
 
-"Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with the
+"Bhikkhus, seeing this, a learned noble disciple becomes disenchanted with the
 eye, with visible forms, with eye-knowing, with eye-contact, with felt
 experience, and with ignorant wanting.
 

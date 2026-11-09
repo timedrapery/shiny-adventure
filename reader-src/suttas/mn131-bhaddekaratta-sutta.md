@@ -7,7 +7,7 @@
 
 *MN 131, the Bhaddekaratta Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 6 min · 1,059 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 6 min · 1,057 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -160,9 +160,9 @@ This is how you do not long for the future.
 
 "And how are you pulled away by what is happening now, bhikkhus?
 
-Here, an unlearned ordinary person has not seen the noble ones and is
-unskilled and untrained in the noble Dhamma. They have not seen true persons
-and are unskilled and untrained in the true person's Dhamma.
+An unlearned ordinary person has not seen the noble ones and is unskilled and
+untrained in the noble Dhamma. They have not seen true persons and are
+unskilled and untrained in the true person's Dhamma.
 
 They regard form as self, or self as having form, or form as in self, or self
 as in form.
@@ -186,9 +186,9 @@ This is how you are pulled away by what is happening now.
 
 "And how are you not pulled away by what is happening now, bhikkhus?
 
-Here, a learned noble disciple has seen the noble ones and is skilled and
-trained in the noble Dhamma. They have seen true persons and are skilled and
-trained in the true person's Dhamma.
+A learned noble disciple has seen the noble ones and is skilled and trained in
+the noble Dhamma. They have seen true persons and are skilled and trained in
+the true person's Dhamma.
 
 They do not regard form as self, or self as having form, or form as in self,
 or self as in form.
@@ -271,7 +271,7 @@ The first discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn131/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn131-bhaddekaratta-sutta-notes.md)
-- **Last editorial review:** 2026-08-24 · body version `6c6498fe`
+- **Last editorial review:** 2026-08-24 · body version `67d01f74`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20131) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

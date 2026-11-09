@@ -39,7 +39,7 @@ source-audit calls, and edition notes that govern it.
   and putting down the burden are exactly the second and third truths, so the
   wording must match those truths exactly.
 - `Idamavoca bhagavā. Idaṁ vatvāna sugato athāparaṁ etadavoca satthā` is `That
-  is what the Buddha said. Having said this, the Sugata, the Teacher, went on to
+  is what the Buddha said. After saying this, the Sugata, the Teacher, went on to
   say:`. `sugata` keeps its governed untranslated form.
 - The verse's first line, `Bhārā have pañcakkhandhā`, follows its governed
   record `bhāro have pañcakkhandhā`: `The five heaps are indeed a burden`. The

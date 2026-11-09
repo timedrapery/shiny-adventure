@@ -76,8 +76,8 @@ knowing — by night and by day it arises as one thing and ceases as another.
 
 ### How the Learned Disciple Attends
 
-There, bhikkhus, a learned noble disciple attends closely and wisely to
-dependent arising itself:
+Bhikkhus, a learned noble disciple attends closely and wisely to dependent
+arising itself:
 
 'When this is, this comes to be; from the arising of this, this arises. When
 this is not, this does not come to be; with the quenching of this, this ceases.
@@ -116,7 +116,7 @@ That is how this whole heap of dissatisfaction quenches.'
 
 ### Disenchantment, Fading, and Release
 
-Seeing this, bhikkhus, a learned noble disciple becomes disenchanted with form,
+Bhikkhus, seeing this, a learned noble disciple becomes disenchanted with form,
 disenchanted with felt experience, disenchanted with recognition, disenchanted
 with putting things together, disenchanted with knowing.
 

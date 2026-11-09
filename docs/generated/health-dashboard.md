@@ -84,11 +84,12 @@ That was measured and abandoned — see the note in
 | --- | --- |
 | Documents declaring renderings | 118 |
 | Declared renderings | 818 |
-| Findings | 1 |
+| Findings | 2 |
 
 | Document | Headword | Kind | Declared | Preferred |
 | --- | --- | --- | --- | --- |
 | an8-39-abhisanda-sutta-notes.md | `samaṇa` | unlisted | ascetics and brahmins | recluse |
+| mn10-satipatthana-sutta-notes.md | `ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ` | unlisted | ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world. | ardent, with clear knowing, with remembering, and with coveting and distress about the world put aside |
 
 ## Review queue
 

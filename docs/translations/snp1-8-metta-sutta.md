@@ -68,7 +68,7 @@ This, they say, is the divine way of living here.
 
 **10** Not taking up views,
 virtuous and accomplished in vision,
-having removed greed for sensuality,
+with greed for sensuality removed,
 they do not come again to lie in a womb.
 
 The eighth discourse, on friendliness, is finished.

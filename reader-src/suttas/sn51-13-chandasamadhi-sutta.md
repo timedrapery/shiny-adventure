@@ -54,7 +54,7 @@ These are called the exertion conditioners.
 So there is this desire, and this unification through desire, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that possesses unification through
 desire together with the exertion conditioners.
 
 ### Unification Through Energy
@@ -72,7 +72,7 @@ These are called the exertion conditioners.
 So there is this energy, and this unification through energy, and these exertion
 conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that possesses unification through
 energy together with the exertion conditioners.
 
 ### Unification Through the Heart
@@ -91,7 +91,7 @@ These are called the exertion conditioners.
 So there is this heart, and this unification through the heart,
 and these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that possesses unification through
 the heart together with the exertion conditioners.
 
 ### Unification Through Investigation
@@ -112,7 +112,7 @@ These are called the exertion conditioners.
 So there is this investigation, and this unification through investigation, and
 these exertion conditioners.
 
-This, bhikkhus, is called the basis of power that possesses unification through
+Bhikkhus, this is called the basis of power that possesses unification through
 investigation together with the exertion conditioners."
 
 <details class="reader-terms">
@@ -140,7 +140,7 @@ investigation together with the exertion conditioners."
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn51.13/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn51-13-chandasamadhi-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `04e6dc98`
+- **Last editorial review:** 2026-11-08 · body version `fc0f4d63`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2051.13) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -157,7 +157,6 @@ investigation together with the exertion conditioners."
 
 
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
-*[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
 *[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.

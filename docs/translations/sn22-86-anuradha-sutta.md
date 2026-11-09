@@ -174,8 +174,8 @@ coarse or subtle, inferior or superior, far or near: all knowing should be
 seen with right discernment as it has come to be: 'This is not mine, I am not
 this, this is not my self.'
 
-Seeing this, Anurādha, a learned noble disciple becomes disenchanted with
-form, felt experience, recognition, putting-together activities, and knowing.
+Anurādha, seeing this, a learned noble disciple becomes disenchanted with form,
+felt experience, recognition, putting-together activities, and knowing.
 
 Being disenchanted, they fade. Through fading, they are released.
 

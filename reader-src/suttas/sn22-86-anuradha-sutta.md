@@ -183,8 +183,8 @@ coarse or subtle, inferior or superior, far or near: all knowing should be
 seen with right discernment as it has come to be: 'This is not mine, I am not
 this, this is not my self.'
 
-Seeing this, Anurādha, a learned noble disciple becomes disenchanted with
-form, felt experience, recognition, putting-together activities, and knowing.
+Anurādha, seeing this, a learned noble disciple becomes disenchanted with form,
+felt experience, recognition, putting-together activities, and knowing.
 
 Being disenchanted, they fade. Through fading, they are released.
 
@@ -330,7 +330,7 @@ The fourth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.86/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-86-anuradha-sutta-notes.md)
-- **Last editorial review:** 2026-08-24 · body version `87b39d29`
+- **Last editorial review:** 2026-08-24 · body version `498164b7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.86) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

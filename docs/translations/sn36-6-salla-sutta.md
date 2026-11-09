@@ -129,7 +129,7 @@ They are unbound from birth, ageing, and death. They are unbound from sorrow,
 lamentation, pain, distress, and despair. I say they are unbound from
 dissatisfaction.
 
-That, bhikkhus, is the difference. That is what sets a learned noble disciple
+Bhikkhus, that is the difference. That is what sets a learned noble disciple
 apart from an unlearned ordinary person."
 
 ### Verses

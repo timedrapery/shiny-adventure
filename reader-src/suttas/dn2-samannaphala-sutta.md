@@ -7,7 +7,7 @@
 
 *DN 2, the Sāmaññaphala Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 39 min · 6,958 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 39 min · 6,965 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -353,8 +353,8 @@ before him and lying down after him, obedient, pleasant, courteous, and
 watching his face for orders. Why don't I do good and shave off hair and
 beard, put on ocher robes, and go forth from the lay life to homelessness?'
 
-After some time, suppose that is exactly what he does. Having gone forth, he
-lives restrained in body, speech, and mind, content with nothing more than
+After some time, suppose that is exactly what he does. Once he has gone forth,
+he lives restrained in body, speech, and mind, content with nothing more than
 robes and almsfood, delighting in seclusion.
 
 If your men reported this to you, would you say:
@@ -389,9 +389,9 @@ robes, and go forth from the lay life to homelessness?'
 
 After some time, suppose that person gives up a small or great fortune, gives
 up a small or great circle of relatives, shaves off hair and beard, puts on
-ocher robes, and goes forth from the lay life to homelessness. Having gone
-forth, they live restrained in body, speech, and mind, content with nothing
-more than robes and almsfood, delighting in seclusion.
+ocher robes, and goes forth from the lay life to homelessness. Once they have
+gone forth, they live restrained in body, speech, and mind, content with
+nothing more than robes and almsfood, delighting in seclusion.
 
 If your men reported this to you, would you say:
 'Bring that person back to me. Let them once more be a householder,
@@ -452,7 +452,7 @@ remembering and clear knowing, and are content.
 
 ### Conduct
 
-And how, great king, is a bhikkhu accomplished in conduct?
+And how is a bhikkhu accomplished in conduct, great king?
 
 They live like this:
 
@@ -610,8 +610,8 @@ dullness and drowsiness.
 Giving up agitation and regret, they stay unagitated, inwardly at peace,
 cleansing the mind of agitation and regret.
 
-Giving up doubt, they stay having crossed beyond doubt, no longer uncertain
-about wholesome qualities, cleansing the mind of doubt.
+Giving up doubt, they live as someone who has crossed beyond doubt, no longer
+uncertain about wholesome qualities, cleansing the mind of doubt.
 
 As long as these five hindrances have not been abandoned within, a bhikkhu
 regards them as:
@@ -654,8 +654,8 @@ dripping.
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
 with rejoicing and satisfaction born of seclusion.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Second Mental Theme
 
@@ -677,8 +677,8 @@ water.
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
 with rejoicing and satisfaction born of unification.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Third Mental Theme
 
@@ -699,8 +699,8 @@ them remains untouched by cool water.
 In the same way, a bhikkhu drenches, steeps, fills, and suffuses this very body
 with satisfaction free of rejoicing.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Fourth Mental Theme
 
@@ -718,8 +718,8 @@ that no part of the whole body remains uncovered by the white cloth.
 In the same way, a bhikkhu sits suffusing this very body with a pure and
 bright mind.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### Knowledge and Seeing
 
@@ -742,8 +742,8 @@ thread.'
 In the same way, a bhikkhu understands this body and this knowing as they
 really are.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### A Mind-Made Body
 
@@ -766,8 +766,8 @@ drawn out from the other.
 In the same way, from this body they create another body, formed, mind-made,
 complete in all its larger and smaller limbs, lacking no faculty.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### Psychic Powers
 
@@ -793,8 +793,8 @@ each could make from the material whatever kind of item they wished.
 
 In the same way, a bhikkhu wields many kinds of psychic power.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Divine Ear
 
@@ -813,8 +813,8 @@ sound of horns, kettledrums, and tom-toms.'
 In the same way, a bhikkhu hears both kinds of sounds, human and divine,
 whether far or near.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### Knowing Others' Minds
 
@@ -849,8 +849,8 @@ they would know: 'There is no blemish in me.'
 In the same way, a bhikkhu understands the minds of other beings and
 individuals after encompassing them with their own mind.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### Recollecting Past Lives
 
@@ -883,8 +883,8 @@ silent like that. From there I returned home.'
 In the same way, a bhikkhu recollects many kinds of past lives, with aspects
 and particulars.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Divine Eye
 
@@ -917,8 +917,8 @@ roads, and sitting in the square, and knowing exactly what they are doing.
 In the same way, a bhikkhu sees beings passing away and reappearing according
 to their kamma.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones.
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones.
 
 ### The Wearing Away of the Outflows
 
@@ -956,9 +956,9 @@ fish swimming or staying still, and would know exactly what is there.
 In the same way, a bhikkhu directly understands the wearing away of the
 outflows.
 
-This too, great king, is a fruit of the ascetic life visible in this very
-life, better and finer than the former ones. And there is no other fruit of
-the ascetic life visible in this very life better or finer than this."
+Great king, this too is a fruit of the ascetic life visible in this very life,
+better and finer than the former ones. And there is no other fruit of the
+ascetic life visible in this very life better or finer than this."
 
 ### Ajātasattu Takes Refuge
 
@@ -1135,7 +1135,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dn2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn2-samannaphala-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `f99747de`
+- **Last editorial review:** 2026-11-08 · body version `4d42a3cf`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

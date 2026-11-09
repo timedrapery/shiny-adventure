@@ -7,7 +7,7 @@
 
 *SN 45.8, the Vibhaṅga Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 532 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 536 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -108,19 +108,17 @@ This is called right effort.
 And what is right remembering?
 
 A bhikkhu remains observing the body in relation to the body—ardent, clearly
-knowing, and remembering—having removed coveting and distress regarding the
-world.
+knowing, remembering, and with coveting and distress about the world put aside.
 
 They remain observing felt experience in relation to felt experience—ardent,
-clearly knowing, and remembering—having removed coveting and distress
-regarding the world.
+clearly knowing, remembering, and with coveting and distress about the world
+put aside.
 
 They remain observing the heart in relation to the heart—ardent, clearly
-knowing, and remembering—having removed coveting and distress regarding the
-world.
+knowing, remembering, and with coveting and distress about the world put aside.
 
-They remain observing dhammas among dhammas—ardent, clearly knowing, and
-remembering—having removed coveting and distress regarding the world.
+They remain observing dhammas among dhammas—ardent, clearly knowing,
+remembering, and with coveting and distress about the world put aside.
 
 This is called right remembering.
 
@@ -221,7 +219,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn45.8/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-8-vibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `0146d297`
+- **Last editorial review:** 2026-11-08 · body version `d1d6cc56`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.8) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

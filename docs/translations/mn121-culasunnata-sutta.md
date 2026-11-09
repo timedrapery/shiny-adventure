@@ -60,8 +60,8 @@ of people. There is only this that is not empty: the oneness that depends on
 the recognition of the forest.' So they regard it as empty of whatever is not
 there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Recognition of Earth
 
@@ -89,8 +89,8 @@ of the forest. There is only this that is not empty: the oneness that depends
 on the recognition of earth.' So they regard it as empty of whatever is not
 there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Formless Spheres
 
@@ -112,8 +112,8 @@ of earth. There is only this that is not empty: the oneness that depends on the
 recognition of the sphere of boundless space.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of earth, not attending to
 the recognition of the sphere of boundless space, a bhikkhu attends to the
@@ -134,8 +134,8 @@ that depends on the recognition of the sphere of boundless knowing.' So they
 regard it as empty of whatever is not there, and of what remains they discern:
 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of the sphere of boundless
 space, not attending to the recognition of the sphere of boundless knowing, a
@@ -156,8 +156,8 @@ is not empty: the oneness that depends on the recognition of the sphere of
 nothingness.' So they regard it as empty of whatever is not there, and of what
 remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 Then again, Ānanda, not attending to the recognition of the sphere of boundless
 knowing, not attending to the recognition of the sphere of nothingness, a
@@ -180,8 +180,8 @@ empty: the oneness that depends on the recognition of the sphere of
 neither-recognition-nor-non-recognition.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Signless Unification of Mind
 
@@ -205,8 +205,8 @@ is only this that is not empty: the six fields of experience that depend on
 this very body and are conditioned by life.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, and purely.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+and purely.
 
 ### The Release of the Heart
 
@@ -240,8 +240,8 @@ is only this that is not empty: the six fields of experience that depend on
 this very body and are conditioned by life.' So they regard it as empty of
 whatever is not there, and of what remains they discern: 'This is present.'
 
-This too, Ānanda, is how they come into emptiness genuinely, without
-distortion, purely, and in the highest and unsurpassed way.
+Ānanda, this too is how they come into emptiness genuinely, without distortion,
+purely, and in the highest and unsurpassed way.
 
 ### The Highest Emptiness
 

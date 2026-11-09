@@ -3,9 +3,9 @@
   "normalized_term": "mn10-satipatthana-qualifier",
   "entry_type": "minor",
   "part_of_speech": "phrase",
-  "preferred_translation": "ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world",
+  "preferred_translation": "ardent, with clear knowing, with remembering, and with coveting and distress about the world put aside",
   "alternative_translations": [
-    "ardent, clearly knowing, and remembering, having removed coveting and distress regarding the world"
+    "ardent, clearly knowing, and remembering, and with coveting and distress about the world put aside"
   ],
   "discouraged_translations": [
     "ardent, fully aware, and mindful, having put away greed and distress for the world",
@@ -26,7 +26,7 @@
   "example_phrases": [
     {
       "pali": "ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ",
-      "translation": "ardent, with clear knowing, with remembering, having removed coveting and distress regarding the world",
+      "translation": "ardent, with clear knowing, with remembering, and with coveting and distress about the world put aside",
       "notes": "Core repeated qualifier in the four satipaṭṭhāna branches.",
       "source": "MN 10"
     }

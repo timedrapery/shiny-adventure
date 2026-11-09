@@ -7,7 +7,7 @@
 
 *MN 2, the Sabbāsava Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 13 min · 2,200 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 13 min · 2,199 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -74,9 +74,9 @@ There are outflows to be abandoned by developing.
 
 ### Outflows to Be Abandoned by Seeing
 
-And what, bhikkhus, are the outflows to be abandoned by seeing?
+And what are the outflows to be abandoned by seeing, bhikkhus?
 
-Here, bhikkhus, an unlearned ordinary person has not seen the noble ones, is
+Bhikkhus, an unlearned ordinary person has not seen the noble ones, is
 unskilled in the noble Dhamma, and is untrained in the noble Dhamma. He has not
 seen good persons, is unskilled in the good person's Dhamma, and is untrained
 in the good person's Dhamma.
@@ -158,7 +158,7 @@ Or else he has this view:
 and bad actions here and there, is permanent, lasting, eternal, not subject to
 change, and will stand forever."
 
-This, bhikkhus, is called a view-position, a view-thicket, a view-wilderness, a
+Bhikkhus, this is called a view-position, a view-thicket, a view-wilderness, a
 view-distortion, a view-wriggling, and a fetter of views.
 
 Bound by the fetter of views, bhikkhus, the unlearned ordinary person is not
@@ -227,7 +227,7 @@ These are called the outflows to be abandoned by seeing.
 
 ### Outflows to Be Abandoned by Restraint
 
-And what, bhikkhus, are the outflows to be abandoned by restraint?
+And what are the outflows to be abandoned by restraint, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu lives restrained by restraint of
 the eye faculty.
@@ -259,7 +259,7 @@ These are called the outflows to be abandoned by restraint.
 
 ### Outflows to Be Abandoned by Using
 
-And what, bhikkhus, are the outflows to be abandoned by using?
+And what are the outflows to be abandoned by using, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu uses a robe only for warding off
 cold, warding off heat, warding off the contact of flies, mosquitoes, wind,
@@ -288,7 +288,7 @@ These are called the outflows to be abandoned by using.
 
 ### Outflows to Be Abandoned by Enduring
 
-And what, bhikkhus, are the outflows to be abandoned by enduring?
+And what are the outflows to be abandoned by enduring, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu endures cold and heat, hunger and
 thirst, and the contact of flies, mosquitoes, wind, sun, and reptiles. He
@@ -303,7 +303,7 @@ These are called the outflows to be abandoned by enduring.
 
 ### Outflows to Be Abandoned by Avoiding
 
-And what, bhikkhus, are the outflows to be abandoned by avoiding?
+And what are the outflows to be abandoned by avoiding, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu avoids a dangerous elephant, a
 dangerous horse, a dangerous ox, a dangerous dog, a snake, a stump, a thorny
@@ -320,7 +320,7 @@ These are called the outflows to be abandoned by avoiding.
 
 ### Outflows to Be Abandoned by Dispelling
 
-And what, bhikkhus, are the outflows to be abandoned by dispelling?
+And what are the outflows to be abandoned by dispelling, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu does not endure an arisen thinking
 of sensuality. He abandons it, dispels it, ends it, and brings it to non-being.
@@ -341,7 +341,7 @@ These are called the outflows to be abandoned by dispelling.
 
 ### Outflows to Be Abandoned by Developing
 
-And what, bhikkhus, are the outflows to be abandoned by developing?
+And what are the outflows to be abandoned by developing, bhikkhus?
 
 Here, bhikkhus, reflecting wisely, a bhikkhu develops the remembering awakening
 factor, based on seclusion, based on fading, based on quenching, maturing in
@@ -422,7 +422,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -465,7 +465,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn2-sabbasava-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `e8e1f46d`
+- **Last editorial review:** 2026-11-08 · body version `12257055`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -497,7 +497,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
