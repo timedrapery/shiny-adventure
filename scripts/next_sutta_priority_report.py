@@ -157,8 +157,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "5", "MN 113", "Sappurisa", 1448, "—",
-        "the good person and the bad person; anchors `asappurisadhamma`; replaces AN 1.49-52",
+        "wave 13", "MN 113", "Sappurisa", 1448, "—",
+        "published 2026-11-09; the good person and the bad person; anchors `asappurisadhamma`; replaced AN 1.49-52",
+        published=True,
     ),
 )
 
