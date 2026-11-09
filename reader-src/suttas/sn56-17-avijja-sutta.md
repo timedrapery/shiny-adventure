@@ -115,7 +115,7 @@ The seventh discourse is finished.
 
 - [← The First Teaching](sn56-11-dhammacakkappavattana-sutta.md)
 - [All suttas](index.md)
-- [What the Eightfold Path Means →](sn45-8-vibhanga-sutta.md)
+- [True Whether or Not a Buddha Appears →](an3-136-uppada-sutta.md)
 
 </nav>
 

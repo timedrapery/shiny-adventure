@@ -112,8 +112,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "1", "AN 3.136", "Uppāda", 94, "—",
-        "the three characteristics stated as a law that holds whether or not Tathāgatas arise; anchors all three formula lines",
+        "wave 12", "AN 3.136", "Uppāda", 94, "—",
+        "published 2026-11-09; the three characteristics as a law that holds whether or not Tathāgatas arise; anchors all three formula lines",
+        published=True,
     ),
     QueueItem(
         "2", "AN 5.14", "Vitthata", 181, "`bala`",

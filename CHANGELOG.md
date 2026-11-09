@@ -8,6 +8,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 3.136, Uppāda Sutta (True
+  Whether or Not a Buddha Appears), with notes, a reader introduction, and a
+  reader page in stage 2 after SN 56.17. All that has been put together is
+  impermanent and unsatisfactory, and all phenomena are not-self, whether or
+  not Tathāgatas arise. The frame is copied from SN 12.20, and the three
+  lines keep their formula records. Wave 12 item 1. Adds a `put together`
+  reader gloss.
 - Added a governed plain-English translation of MN 122, Mahāsuññata Sutta
   (Dwelling in Emptiness), with notes, a reader introduction, and a reader
   page in stage 3 after MN 119. The Buddha's own way of dwelling in
@@ -373,7 +380,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 70 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 71 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

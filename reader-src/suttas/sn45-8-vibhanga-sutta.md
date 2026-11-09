@@ -230,7 +230,7 @@ The eighth discourse is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← What Ignorance Means](sn56-17-avijja-sutta.md)
+- [← True Whether or Not a Buddha Appears](an3-136-uppada-sutta.md)
 - [All suttas](index.md)
 - [Three Trainings Cover Everything →](an3-88-tatiyasikkha-sutta.md)
 
