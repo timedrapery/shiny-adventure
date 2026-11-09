@@ -934,6 +934,7 @@ def render_all_suttas() -> str:
         ("Iti", "Itivuttaka", "the short sayings, in the Khuddaka Nikāya"),
         ("Ud", "Udāna", "the inspired sayings, in the Khuddaka Nikāya"),
         ("Dhp", "Dhammapada", "the verses on the Dhamma, in the Khuddaka Nikāya"),
+        ("Snp", "Sutta Nipāta", "the collection of discourses, in the Khuddaka Nikāya"),
     ]
 
     # A surface whose collection is missing from that list used to vanish from

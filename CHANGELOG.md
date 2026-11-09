@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of Snp 1.8, the Metta Sutta
+  (May All Beings Be Happy), widely known as the Karaṇīyamettā Sutta, with
+  notes, a reader introduction, and a reader page in stage 2 after MN 7:
+  the repository's first Sutta Nipāta surface. Its notes settle the
+  collection's framing (SuttaCentral label, verses numbered within the
+  discourse, close kept). Wave 13 item 2.
 - Added a governed plain-English translation of Dhp 179-196, the Buddhavagga
   (The Teaching of the Buddhas), with notes, a reader introduction, and a
   reader page in stage 2 after Dhp 273-289: the repository's third
@@ -418,7 +424,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 76 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 77 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

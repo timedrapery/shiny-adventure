@@ -142,8 +142,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "2", "Snp 1.8", "Karaṇīyamettā", 134, "—",
-        "friendliness for all beings; the first Sutta Nipāta surface",
+        "wave 13", "Snp 1.8", "Karaṇīyamettā", 134, "—",
+        "published 2026-11-09; friendliness for all beings; the first Sutta Nipāta surface",
+        published=True,
     ),
     QueueItem(
         "3", "AN 8.41", "Saṅkhittūposatha", 337, "—",
