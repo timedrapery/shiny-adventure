@@ -1,5 +1,9 @@
 # Wave 12 Execution Plan
 
+**Complete 2026-11-09. Superseded by the
+[Wave 13 execution plan](wave-13-execution-plan.md).** Kept for its source
+findings. The unification-record follow-up below was done in the Wave 13 audit.
+
 This is the durable handoff document for the active translation wave. A
 contributor should be able to clone the repository on another machine, confirm
 the baseline, and continue without relying on chat history.

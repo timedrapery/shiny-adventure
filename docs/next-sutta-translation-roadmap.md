@@ -193,7 +193,18 @@ Use that full roadmap as the source of truth for:
 
 ## Current Active Queue
 
-**Wave 12 is complete.** The next queue needs a fresh audit. Its queue, verified against the root texts on
+**Wave 13 is the active wave.** Its queue, verified against the root texts on
+2026-11-09, is in the [Wave 13 execution plan](wave-13-execution-plan.md):
+
+1. `Dhp 179-196` the Buddhavagga — 210 words; verses 183 to 185, and `khanti`.
+2. `Snp 1.8` Karaṇīyamettā Sutta — 134 words; friendliness for all beings.
+3. `AN 8.41` Saṅkhittūposatha Sutta — 337 words; the observance day.
+4. `AN 8.54` Dīghajāṇu Sutta — 626 words; welfare for a householder.
+5. `AN 1.49-52` the luminous mind — 69 words in four short discourses.
+
+### Wave 12 (complete)
+
+**Wave 12 is complete.** Its queue, verified against the root texts on
 2026-11-09, is in the [Wave 12 execution plan](wave-12-execution-plan.md):
 
 1. `AN 3.136` Uppāda Sutta — **complete 2026-11-09**. 94 words; the three

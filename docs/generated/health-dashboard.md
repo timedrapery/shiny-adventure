@@ -20,11 +20,11 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2422 |
-| Governed surfaces | 906 |
-| Ungoverned surfaces | 1516 |
+| Distinct surfaces | 2425 |
+| Governed surfaces | 907 |
+| Ungoverned surfaces | 1518 |
 | Coverage by surface | 37.4% |
-| Coverage by occurrence | 58.4% |
+| Coverage by occurrence | 58.3% |
 
 Surfaces reach a record by one of three routes. `exact` is a headword hit,
 `inflected` is a hit after a coarse case-ending fold, and `compound` is two
@@ -35,11 +35,11 @@ single row as a lead rather than a fact.
 | Route | Surfaces |
 | --- | --- |
 | `compound` | 77 |
-| `exact` | 411 |
+| `exact` | 412 |
 | `inflected` | 418 |
-| `none` | 1516 |
+| `none` | 1518 |
 
-### Ungoverned surfaces by frequency (1516 total)
+### Ungoverned surfaces by frequency (1518 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |

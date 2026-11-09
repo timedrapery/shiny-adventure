@@ -7,7 +7,7 @@ The corpus has 1,161 term records and 75 translation surfaces. Of 648 cited
 records, 575 are anchored by a translated surface and 73 are orphaned; 7 of
 those orphans are major terms.
 
-Use the [Wave 12 execution plan](../wave-12-execution-plan.md) for the
+Use the [Wave 13 execution plan](../wave-13-execution-plan.md) for the
 active queue, validation, and handoff gates, and the
 [full roadmap](../next-suttas-roadmap.md) for historical method notes.
 
@@ -27,17 +27,20 @@ active queue, validation, and handoff gates, and the
 | wave 12 | `Dhp 273-289` Maggavagga | 209 words | — | published 2026-11-09; the Path chapter, with verses 277 to 279 in AN 3.136's formula wording |
 | wave 12 | `AN 6.19` Maraṇassati | 487 words | — | published 2026-11-09; recollection of death sorted into heedless and heedful; anchors `maraṇassati` |
 | wave 12 | `MN 121` Cūḷasuññata | 995 words | — | published 2026-11-09; the gradual entry into emptiness, with the emptiness-cluster citation pass |
+| 1 | `Dhp 179-196` Buddhavagga | 210 words | — | the Buddha chapter, with verses 183 to 185; anchors `khanti` |
+| 2 | `Snp 1.8` Karaṇīyamettā | 134 words | — | friendliness for all beings; the first Sutta Nipāta surface |
+| 3 | `AN 8.41` Saṅkhittūposatha | 337 words | — | the eight factors of the observance day; anchors `uposatha` |
+| 4 | `AN 8.54` Dīghajāṇu | 626 words | — | welfare here and now and in the future, for a householder; anchors `pāpamitta` |
+| 5 | `AN 1.49-52` Pabhassara | 69 words | — | the luminous mind, in four one-sentence discourses; anchors `pabhassara-citta` |
 
-**Every item in this queue is published, and there is no next item.**
-The next translation task is to run a fresh audit and build a new
-queue from it. Do not extend this ranking: it was computed against a
-61-surface corpus, and every wave so far has found leverage signals
-that were wrong until they were checked against the source.
+After the last queue item, run a fresh audit rather than extending
+this ranking. Every wave so far has found leverage signals that were
+wrong until they were checked against the source.
 
-- Every Wave 12 signal was checked against the root text before the item was given a position. The audit found and repaired five false citations among the orphan records it was ranking, and repointed `bala` from SN 50.1 to AN 5.14.
-- The orphan-major ranking is nearly spent. Its remaining leaders are enumeration stubs, single verses, the SN 50.1 repetition series, and DN 1, DN 21, DN 33, and DN 16, which stay deferred on length. This queue is therefore ranked on verified anchors plus reader value.
-- MN 77's kasiṇa orphans are still a formula sheet, not a translation; its light-kasiṇa citation was false and is removed.
-- The emptiness / signless / wishless cluster is still mostly uncited rather than orphaned. Give it verified sources before MN 121.
+- Every Wave 13 signal was checked against the root text before the item was given a position, including every orphan record's headword against the texts it cites. That found `paritta` citing two protection texts that never use the word; it now cites AN 4.67.
+- The orphan-major ranking is still spent for short prose, so this queue is ranked on reader value plus a verified anchor.
+- The three unification records now read as one family: emptiness, signless, and wishless unification.
+- MN 113, AN 8.51, and MN 123 are verified anchors held for the next wave.
 
 Reproduce the numbers:
 
