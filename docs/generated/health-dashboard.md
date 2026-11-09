@@ -20,9 +20,9 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2315 |
-| Governed surfaces | 878 |
-| Ungoverned surfaces | 1437 |
+| Distinct surfaces | 2319 |
+| Governed surfaces | 879 |
+| Ungoverned surfaces | 1440 |
 | Coverage by surface | 37.9% |
 | Coverage by occurrence | 59.1% |
 
@@ -36,10 +36,10 @@ single row as a lead rather than a fact.
 | --- | --- |
 | `compound` | 72 |
 | `exact` | 405 |
-| `inflected` | 401 |
-| `none` | 1437 |
+| `inflected` | 402 |
+| `none` | 1440 |
 
-### Ungoverned surfaces by frequency (1437 total)
+### Ungoverned surfaces by frequency (1440 total)
 
 | Surface | Occurrences | Documents |
 | --- | --- | --- |
@@ -48,6 +48,7 @@ single row as a lead rather than a fact.
 | `paticca` | 19 | mn148-chachakka-sutta-notes.md, mn18-madhupindika-sutta-notes.md, terms/ |
 | `cetaso` | 18 | dn2-samannaphala-sutta-notes.md, mn119-kayagatasati-sutta-notes.md, mn122-mahasunnata-sutta-notes.md, mn141-saccavibhanga-sutta-notes.md, mn19-dvedhavitakka-sutta-notes.md |
 | `mama` | 13 | mn148-chachakka-sutta-notes.md, mn22-alagaddupama-sutta-notes.md, mn22-alagaddupama-sutta.md, sn12-61-assutava-sutta-notes.md, sn22-59-anattalakkhana-sutta-notes.md |
+| `sabbe` | 13 | an3-136-uppada-sutta-notes.md, terms/ |
 | `yathabhutam` | 13 | dn15-mahanidana-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn64-mahamalukya-sutta-notes.md, sn12-20-paccaya-sutta-notes.md, sn22-26-assada-sutta-notes.md |
 | `panca` | 11 | an4-5-anusota-sutta-notes.md, an8-39-abhisanda-sutta-notes.md, mn122-mahasunnata-sutta-notes.md, mn99-subha-sutta-notes.md, terms/ |
 | `pahaya` | 10 | an8-39-abhisanda-sutta-notes.md, terms/ |
@@ -55,7 +56,6 @@ single row as a lead rather than a fact.
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `cetasa` | 9 | an11-9-saddha-sutta-notes.md, an3-65-kesamutta-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, mn39-maha-assapura-sutta-notes.md, terms/ |
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
-| `sabbe` | 9 | terms/ |
 | `satova` | 9 | mn118-anapanasati-sutta-notes.md, terms/ |
 | `adinavanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `assadanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
@@ -82,8 +82,8 @@ That was measured and abandoned — see the note in
 
 | Measure | Value |
 | --- | --- |
-| Documents declaring renderings | 110 |
-| Declared renderings | 810 |
+| Documents declaring renderings | 111 |
+| Declared renderings | 811 |
 | Findings | 1 |
 
 | Document | Headword | Kind | Declared | Preferred |

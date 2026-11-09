@@ -380,3 +380,5 @@
 *[fewness of wishes]: This project's rendering of "appicchatā" -- wanting little for oneself.
 
 *[non-entanglement]: This project's rendering of "asaṁsagga" -- not getting mixed up with people and their affairs.
+
+*[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.

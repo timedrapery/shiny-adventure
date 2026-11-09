@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 70 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 71 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -87,6 +87,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 106 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>A bhikkhu asks what ignorance means. The answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.</p>
+</article>
+<article class="sutta-card" data-topic="four truths and path|not-self" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="true whether or not a buddha appears an 3.136 uppāda sutta three short claims about everything that has been put together, and a frame that says they hold whether or not a buddha ever appears. four truths and path · not-self">
+<h2><a href="../suttas/an3-136-uppada-sutta/">True Whether or Not a Buddha Appears</a></h2>
+<p class="sutta-card__reference">AN 3.136 · <span lang="pi">Uppāda Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Teaching · Short · about 2 min · 207 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Not-self</p>
+<p>Three short claims about everything that has been put together, and a frame that says they hold whether or not a Buddha ever appears.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="analysis" data-length="short" data-search="what the eightfold path means sn 45.8 vibhaṅga sutta the eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart. four truths and path">
 <h2><a href="../suttas/sn45-8-vibhanga-sutta/">What the Eightfold Path Means</a></h2>
