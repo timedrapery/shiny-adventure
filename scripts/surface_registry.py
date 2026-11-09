@@ -373,6 +373,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an3-65-kesamutta-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an3_136",
+        label="AN 3.136",
+        main_relpath="docs/translations/an3-136-uppada-sutta.md",
+        notes_relpath="docs/translations/an3-136-uppada-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an3_69",
         label="AN 3.69",
         main_relpath="docs/translations/an3-69-akusalamula-sutta.md",
@@ -472,6 +478,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "an3_136": "e02e5035d59c9dfb3462d04accca32f2b9fbd631d71c80571a1c4e6b2bf87f4d",
     "mn1": "dc1ae324088fd806036ea4d07abfbb64534066ec4761177b7a7a2427e1186c7d",
     "mn2": "e8e1f46dcf2ad311469ecbceba23dffb9dafa05ab3ef90a1e6ffce2c25f36207",
     "mn7": "2676a15d3bc356b0f1b21fb5e5cf4345a79cc8b04f58b1007aa01279e85e5314",
@@ -545,6 +552,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "an3_136": "2026-11-09",
     "mn122": "2026-11-09",
     "sn22_26": "2026-11-09",
     "dhp21_32": "2026-11-09",
@@ -812,79 +820,85 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "and the path that leads to its ending.",
         reader_title="What Ignorance Means",
     ),
+    "an3_136": ReaderMeta(
+        "Uppāda Sutta", 2, 3,
+        "Three short claims about everything that has been put together, and "
+        "a frame that says they hold whether or not a Buddha ever appears.",
+        reader_title="True Whether or Not a Buddha Appears",
+    ),
     "sn45_8": ReaderMeta(
-        "Vibhaṅga Sutta", 2, 3,
+        "Vibhaṅga Sutta", 2, 4,
         "The eightfold path unpacked one factor at a time: how to understand, "
         "speak, act, work, train, remember, and unify the heart.",
         reader_title="What the Eightfold Path Means",
     ),
     "an3_88": ReaderMeta(
-        "Tatiyasikkhā Sutta", 2, 4,
+        "Tatiyasikkhā Sutta", 2, 5,
         "More than 150 monastic rules gathered into three trainings—conduct, "
         "the mind, and discernment. Minor mistakes can be repaired, and even "
         "partial training still bears fruit.",
         reader_title="Three Trainings Cover Everything",
     ),
     "sn36_6": ReaderMeta(
-        "Salla Sutta", 2, 5,
+        "Salla Sutta", 2, 6,
         "The one-arrow/two-arrows teaching: physical pain versus the added "
         "mental suffering piled on top of it. Concrete, bodily, and "
         "immediately recognizable.",
         reader_title="One Arrow, Not Two",
     ),
     "an8_6": ReaderMeta(
-        "Dutiyalokadhamma Sutta", 2, 6,
+        "Dutiyalokadhamma Sutta", 2, 7,
         "Gain and loss, praise and blame, pleasure and pain happen to everyone. "
         "The difference is whether they take over the heart.",
         reader_title="When Life Goes Up and Down",
     ),
     "an2_9": ReaderMeta(
-        "Cariya Sutta", 2, 7,
+        "Cariya Sutta", 2, 8,
         "Two bright qualities protect the human world: conscience, the inward "
         "sense of integrity, and moral caution about harm and consequences.",
         reader_title="What Keeps the World Human",
     ),
     "an8_39": ReaderMeta(
-        "Abhisanda Sutta", 2, 8,
+        "Abhisanda Sutta", 2, 9,
         "Keeping the five precepts described from the other side: every being "
         "who might have been harmed is given freedom from fear, and the "
         "person who gave it comes to share in it.",
         reader_title="Eight Streams of Benefit",
     ),
     "mn7": ReaderMeta(
-        "Vattha Sutta", 2, 9,
+        "Vattha Sutta", 2, 10,
         "A mind is like cloth: dye it while it is dirty and the colour comes "
         "out wrong. Ethics introduced through a simile instead of a rule list.",
         reader_title="The Dirty Cloth",
     ),
     "an3_69": ReaderMeta(
-        "Akusalamūla Sutta", 2, 10,
+        "Akusalamūla Sutta", 2, 11,
         "Greed, aversion, and delusion are traced from their roots to their "
         "effects on action, speech, power, and the heart—then contrasted with "
         "non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
-        "Anusota Sutta", 2, 11,
+        "Anusota Sutta", 2, 12,
         "Four ways of meeting the current: drifting with it, struggling "
         "against it, standing firm, and completing the crossing to dry land.",
         reader_title="Going With the Stream—or Against It",
     ),
     "sn1_1": ReaderMeta(
-        "Oghataraṇa Sutta", 2, 12,
+        "Oghataraṇa Sutta", 2, 13,
         "A deity asks how the Buddha crossed a flood. The answer refuses both "
         "standing still and forceful struggle, preserving a compact paradox.",
         reader_title="How Do You Cross the Flood?",
     ),
     "an4_113": ReaderMeta(
-        "Patoda Sutta", 2, 13,
+        "Patoda Sutta", 2, 14,
         "Four kinds of horses, four kinds of people, and what it actually takes "
         "to be moved to practice. A jolt of urgency after three fairly calm "
         "texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
-        "Dutiyasāriputta Sutta", 2, 14,
+        "Dutiyasāriputta Sutta", 2, 15,
         "What actually leads to the path, in four steps that are ordinary "
         "enough to follow: find good company, hear the teaching, attend to it "
         "carefully, then practise in line with it. The first item is social, "
@@ -892,14 +906,14 @@ READER_METADATA: dict[str, ReaderMeta] = {
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
-        "Saddha Sutta", 2, 15,
+        "Saddha Sutta", 2, 16,
         "A wild colt tied to its trough can think of nothing but \"Fodder, "
         "fodder!\" The contrast with a trained horse becomes a contrast between "
         "two ways of sitting down to meditate.",
         reader_title="Think Like a Thoroughbred",
     ),
     "dhp21_32": ReaderMeta(
-        "Appamādavagga", 2, 16,
+        "Appamādavagga", 2, 17,
         "Twelve verses on one quality: heedfulness, the path to the "
         "deathless. Short, memorable, and the first verse page in the set.",
         reader_title="Heedfulness Is the Path to the Deathless",
@@ -1262,11 +1276,11 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
         "mn117", "an6_63", "sn45_2", "sn45_8", "an8_6", "an4_5", "sn1_1",
-        "an3_88", "ud8_3", "dhp21_32",
+        "an3_88", "ud8_3", "dhp21_32", "an3_136",
     ),
     "Not-self": (
         "sn22_59", "mn22", "sn22_48", "sn22_22", "sn22_26", "sn22_86",
-        "sn22_89",
+        "sn22_89", "an3_136",
         "mn131", "mn148", "mn1", "iti44", "iti49",
     ),
     "Dependent arising": (

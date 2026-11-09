@@ -52,14 +52,14 @@ python -m pip install -r requirements-dev.txt
 
 ## Update As Of 2026-09-13
 
-- 70 governed translation surfaces and 70 generated reader pages. AN 8.39 and
+- 71 governed translation surfaces and 71 generated reader pages. AN 8.39 and
   SN 46.1 closed the Wave 10 queue, and a fresh audit the same day produced
   the [Wave 11 plan](wave-11-execution-plan.md). Wave 11's queue is Dhp 21-32,
   Ud 8.3, SN 22.22, SN 22.26, and MN 122, each signal checked against its root
   text before it was given a position. **Ud 8.3 is published**, taken ahead of
   Dhp 21-32 because that item carries a precondition: it would be the
   repository's first verse surface.
-- All 70 surfaces report no automated plain-English register signals.
+- All 71 surfaces report no automated plain-English register signals.
 - Ud 8.3 is the repository's first Udāna surface and settles the collection's
   framing formula, as Iti 44 did for the Itivuttaka. Adding it also exposed
   that `generate_reader.py` dropped any surface whose collection was missing

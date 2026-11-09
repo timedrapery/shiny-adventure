@@ -93,7 +93,7 @@ Every signal below was checked against the root text before the item was
 given a position. Work in this order unless a direct reader request takes
 priority.
 
-1. **AN 3.136, Uppāda Sutta** — 94 Pali words, no peyyāla, clean boundary
+1. **AN 3.136, Uppāda Sutta** — **complete 2026-11-09**. 94 Pali words, no peyyāla, clean boundary
    (`an3.136:1.1` to `1.15`). Whether Tathāgatas arise or not, the element
    stands: all that has been put together is impermanent, all that has been
    put together is unsatisfactory, all phenomena are not-self; a Tathāgata
@@ -187,7 +187,7 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **AN 3.136**. Keep each translation packet together
+unfinished queue item is **AN 5.14**; AN 3.136 is published. Keep each translation packet together
 on one branch, and record completed work, open questions, and the next action
 in the surface notes or this plan.
 

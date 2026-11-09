@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (70 total)
+## Completed Surfaces (71 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -101,6 +101,9 @@ Use that full roadmap as the source of truth for:
   The Buddha's way of dwelling in emptiness and the training toward it,
   with the ten topics of talk and the three kinds of ruin. Anchors
   `appicchatā` and `asaṁsagga`, and closes Wave 11.
+- `AN 3.136` Uppāda Sutta (True Whether or Not a Buddha Appears) — complete
+  2026-11-09. The three characteristics as a law that holds whether or not
+  Tathāgatas arise. Opens Wave 12.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -182,8 +185,8 @@ Use that full roadmap as the source of truth for:
 **Wave 12 is the active wave.** Its queue, verified against the root texts on
 2026-11-09, is in the [Wave 12 execution plan](wave-12-execution-plan.md):
 
-1. `AN 3.136` Uppāda Sutta — 94 words; the three characteristics stated as a
-   law that holds whether or not Tathāgatas arise.
+1. `AN 3.136` Uppāda Sutta — **complete 2026-11-09**. 94 words; the three
+   characteristics stated as a law that holds whether or not Tathāgatas arise.
 2. `AN 5.14` Vitthata Sutta — 181 words; names and defines the five
    strengths, and anchors the orphan major `bala`.
 3. `Dhp 273-289` the Maggavagga — 209 words; the Path chapter, with verses
