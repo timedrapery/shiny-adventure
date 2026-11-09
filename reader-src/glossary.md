@@ -145,6 +145,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
+<dt><dfn>five strengths</dfn> <span class="glossary-pali" lang="pi">(panca-bala)</span></dt>
+<dd>This project&#x27;s rendering of &quot;pañca balāni&quot; -- confidence, energy, remembering, unification, and discernment. The same five qualities as the five faculties, named as strengths.</dd>
 <dt><dfn>flood</dfn> <span class="glossary-pali" lang="pi">(ogha)</span></dt>
 <dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
 <dt><dfn>form</dfn> <span class="glossary-pali" lang="pi">(rūpa)</span></dt>

@@ -373,6 +373,12 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
         notes_relpath="docs/translations/an3-65-kesamutta-sutta-notes.md",
     ),
     TranslationSurface(
+        key="an5_14",
+        label="AN 5.14",
+        main_relpath="docs/translations/an5-14-vitthata-sutta.md",
+        notes_relpath="docs/translations/an5-14-vitthata-sutta-notes.md",
+    ),
+    TranslationSurface(
         key="an3_136",
         label="AN 3.136",
         main_relpath="docs/translations/an3-136-uppada-sutta.md",
@@ -478,6 +484,7 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 
 
 READABILITY_BODY_SHA256: dict[str, str] = {
+    "an5_14": "3ae144feac3a781e6866987f070a56ca6817b85594309eee7e4ba807b0196add",
     "an3_136": "e02e5035d59c9dfb3462d04accca32f2b9fbd631d71c80571a1c4e6b2bf87f4d",
     "mn1": "dc1ae324088fd806036ea4d07abfbb64534066ec4761177b7a7a2427e1186c7d",
     "mn2": "e8e1f46dcf2ad311469ecbceba23dffb9dafa05ab3ef90a1e6ffce2c25f36207",
@@ -552,6 +559,7 @@ READABILITY_BODY_SHA256: dict[str, str] = {
 }
 
 READABILITY_REVIEWED_ON: dict[str, str] = {
+    "an5_14": "2026-11-09",
     "an3_136": "2026-11-09",
     "mn122": "2026-11-09",
     "sn22_26": "2026-11-09",
@@ -1177,77 +1185,83 @@ READER_METADATA: dict[str, ReaderMeta] = {
         "treated as one set.",
         reader_title="The Five Faculties",
     ),
+    "an5_14": ReaderMeta(
+        "Vitthata Sutta", 5, 5,
+        "The five strengths named and defined, in the same words SN 48.10 "
+        "uses for the five faculties.",
+        reader_title="The Five Strengths",
+    ),
     "mn64": ReaderMeta(
-        "Mahāmālukya Sutta", 5, 5,
+        "Mahāmālukya Sutta", 5, 6,
         "The five lower fetters, and the companion piece to MN 63 — same "
         "disciple, later in his practice.",
         reader_title="The Five Lower Fetters",
     ),
     "mn11": ReaderMeta(
-        "Cūḷasīhanāda Sutta", 5, 6,
+        "Cūḷasīhanāda Sutta", 5, 7,
         "A claim about who counts as a genuine practitioner, grounded in "
         "whether a teaching can account for all four ways of taking things "
         "personally — including taking a doctrine of self personally.",
         reader_title="Who Counts as a Genuine Practitioner?",
     ),
     "mn137": ReaderMeta(
-        "Saḷāyatanavibhaṅga Sutta", 5, 7,
+        "Saḷāyatanavibhaṅga Sutta", 5, 8,
         "A technical analysis of the six fields of experience.",
         reader_title="The Six Fields of Experience",
     ),
     "mn141": ReaderMeta(
-        "Saccavibhaṅga Sutta", 5, 8,
+        "Saccavibhaṅga Sutta", 5, 9,
         "The four noble truths again, now in full analytical detail rather "
         "than the compressed form from Stage 2.",
         reader_title="The Four Truths in Detail",
     ),
     "mn117": ReaderMeta(
-        "Mahācattārīsaka Sutta", 5, 9,
+        "Mahācattārīsaka Sutta", 5, 10,
         "A technical analysis of the eightfold path, factor by factor.",
         reader_title="The Eightfold Path in Detail",
     ),
     "an6_63": ReaderMeta(
-        "Nibbedhika Sutta", 5, 10,
+        "Nibbedhika Sutta", 5, 11,
         "One analytical frame applied six times over, to sensuality, feeling, "
         "recognition, the outflows, action, and dissatisfaction. Includes the "
         "line that defines action as intention.",
         reader_title="Six Things Examined",
     ),
     "sn35_28": ReaderMeta(
-        "Āditta Sutta", 5, 11,
+        "Āditta Sutta", 5, 12,
         "The fire sermon. Iconic imagery carrying a genuinely abstract point "
         "about the senses.",
         reader_title="The Fire Sermon",
     ),
     "mn18": ReaderMeta(
-        "Madhupiṇḍika Sutta", 5, 12,
+        "Madhupiṇḍika Sutta", 5, 13,
         "The honey-ball sutta, on how recognition snowballs into proliferating "
         "thought. Famously dense even by this collection's standards.",
         reader_title="How Thought Snowballs",
     ),
     "mn99": ReaderMeta(
-        "Subha Sutta", 5, 13,
+        "Subha Sutta", 5, 14,
         "A dialogue defending renunciant life against a brahmin's claim that "
         "household life is better. Good late-stage read for weighing the whole "
         "path against the alternative.",
         reader_title="Household Life or Renunciant Life?",
     ),
     "mn1": ReaderMeta(
-        "Mūlapariyāya Sutta", 5, 14,
+        "Mūlapariyāya Sutta", 5, 15,
         "\"The root of all things.\" Traditionally regarded as one of the most "
         "difficult texts in the collection. Deliberately last: it rewards "
         "everything that came before it and rewards very little read cold.",
         reader_title="The Root of All Things",
     ),
     "iti44": ReaderMeta(
-        "Nibbānadhātu Sutta", 5, 15,
+        "Nibbānadhātu Sutta", 5, 16,
         "A short reference text defining the two nibbāna elements. Read it "
         "for one distinction: what has already happened to a living arahant's "
         "mind, and what happens to everything they feel.",
         reader_title="The Two Nibbāna Elements",
     ),
     "ud8_3": ReaderMeta(
-        "Tatiyanibbānapaṭisaṁyutta Sutta", 5, 16,
+        "Tatiyanibbānapaṭisaṁyutta Sutta", 5, 17,
         "One minute, and one argument: there would be no way out of what is "
         "born, made and conditioned unless there were something that is not. "
         "It says that there is, and nothing more about it.",
@@ -1271,7 +1285,7 @@ TOPIC_GROUPS: dict[str, tuple[str, ...]] = {
     "Meditation": (
         "mn19", "mn2", "mn118", "mn10", "dn2", "an10_60", "mn39",
         "sn46_51", "sn46_1", "sn51_13", "sn48_10", "mn119", "an11_12",
-        "mn36", "mn122",
+        "mn36", "mn122", "an5_14",
     ),
     "Four truths and path": (
         "sn56_11", "sn56_17", "sn36_6", "sn55_5", "an11_9", "mn9", "mn141",
@@ -1302,7 +1316,7 @@ FORM_GROUPS: dict[str, tuple[str, ...]] = {
     "Practice instructions": (
         "mn2", "mn10", "mn118", "mn19", "mn39", "an10_60", "sn46_51",
         "sn46_1",
-        "sn51_13", "sn48_10", "mn119", "an11_12", "mn122",
+        "sn51_13", "sn48_10", "mn119", "an11_12", "mn122", "an5_14",
     ),
     "Analysis": (
         "mn9", "mn117", "mn137", "mn141", "mn148", "sn12_2",

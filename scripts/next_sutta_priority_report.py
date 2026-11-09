@@ -117,8 +117,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "2", "AN 5.14", "Vitthata", 181, "`bala`",
-        "names and defines the five strengths; the gap Wave 11 could not close through SN 50.1",
+        "wave 12", "AN 5.14", "Vitthata", 181, "`bala`",
+        "published 2026-11-09; names and defines the five strengths, anchoring `bala` and the five strength records",
+        published=True,
     ),
     QueueItem(
         "3", "Dhp 273-289", "Maggavagga", 209, "—",

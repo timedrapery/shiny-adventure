@@ -10,5 +10,16 @@
   "tags": [
     "core-practice",
     "mental-qualities"
+  ],
+  "sutta_references": [
+    "AN 5.14"
+  ],
+  "example_phrases": [
+    {
+      "pali": "Katamañca, bhikkhave, satibalaṁ?",
+      "translation": "And what, bhikkhus, is the remembering strength?",
+      "notes": "AN 5.14 defines it as the highest carefulness in remembering, recalling what was done and said long ago.",
+      "source": "AN 5.14"
+    }
   ]
 }

@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 5.14, Vitthata Sutta (The
+  Five Strengths), with notes, a reader introduction, and a reader page in
+  stage 5 after SN 48.10. Names and defines the five strengths in the words
+  SN 48.10 uses for the five faculties. Wave 12 item 2. Anchors the orphan
+  major `bala` and gives `pañca bala` and the five strength records their
+  first verified source.
 - Added a governed plain-English translation of AN 3.136, Uppāda Sutta (True
   Whether or Not a Buddha Appears), with notes, a reader introduction, and a
   reader page in stage 2 after SN 56.17. All that has been put together is
@@ -380,7 +386,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 71 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 72 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

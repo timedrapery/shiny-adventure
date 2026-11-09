@@ -382,3 +382,5 @@
 *[non-entanglement]: This project's rendering of "asaṁsagga" -- not getting mixed up with people and their affairs.
 
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
+
+*[five strengths]: This project's rendering of "pañca balāni" -- confidence, energy, remembering, unification, and discernment. The same five qualities as the five faculties, named as strengths.

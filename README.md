@@ -7,7 +7,7 @@ Structured Pali-to-English translation infrastructure for early Buddhist transla
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
 **[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
-71 early Buddhist discourses in clear, common English, with newcomer guidance,
+72 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
 New here:
@@ -204,14 +204,14 @@ Current maintenance and workflow surface tools include:
 - `python scripts/translation_surface_index.py --check`
 - `python scripts/run_checks.py`
 
-The repository has 71 registered translation surfaces and a plain-English
+The repository has 72 registered translation surfaces and a plain-English
 standard applied across all of them.
 
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
-The next translation is **AN 5.14, the Vitthata Sutta**, the second item in the
-[Wave 12 execution plan](docs/wave-12-execution-plan.md). AN 3.136 is
-published; Wave 11 is complete.
+The next translation is **Dhp 273-289, the Maggavagga**, the third item in
+the [Wave 12 execution plan](docs/wave-12-execution-plan.md). AN 3.136 and
+AN 5.14 are published; Wave 11 is complete.
 
 Picking the work up cold: for translation expansion, start with the
 [Wave 11 execution plan](docs/wave-11-execution-plan.md), then use
