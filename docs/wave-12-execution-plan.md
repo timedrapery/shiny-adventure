@@ -110,7 +110,7 @@ priority.
    not-self, and the call to make the effort yourself. Verse handling is
    settled in the Dhp 21–32 notes. Anchors the same three formula lines in
    their verse form.
-4. **AN 6.19, Maraṇassati Sutta** — 487 Pali words. Bhikkhus say how they
+4. **AN 6.19, Maraṇassati Sutta** — **complete 2026-11-09**. 487 Pali words. Bhikkhus say how they
    recollect death; the Buddha says which of them practice it heedfully.
    Anchors `maraṇassati`, and connects to `appamāda` in Dhp 21–32.
 5. **MN 121, Cūḷasuññata Sutta** — 995 Pali words. The gradual entry into
@@ -187,8 +187,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **AN 6.19**; AN 3.136, AN 5.14, and Dhp 273–289
-are published. Keep each translation packet together
+unfinished queue item is **MN 121**, after the emptiness-cluster citation
+pass; AN 3.136, AN 5.14, Dhp 273–289, and AN 6.19 are published. Keep each translation packet together
 on one branch, and record completed work, open questions, and the next action
 in the surface notes or this plan.
 

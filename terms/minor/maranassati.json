@@ -19,5 +19,13 @@
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "maraṇassati, bhikkhave, bhāvitā bahulīkatā mahapphalā hoti mahānisaṁsā",
+      "translation": "when recollection of death is developed and cultivated, it bears great fruit and great benefit",
+      "notes": "AN 6.19 opens with this claim before six bhikkhus say how they practice it.",
+      "source": "AN 6.19"
+    }
+  ]
 }

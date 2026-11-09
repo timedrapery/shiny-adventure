@@ -8,6 +8,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- Added a governed plain-English translation of AN 6.19, Maraṇassati Sutta
+  (Recollecting Death, One Breath at a Time), with notes, a reader
+  introduction, and a reader page in stage 3 after AN 10.60. Six bhikkhus
+  say how they recollect death, each with a shorter span; the Buddha calls
+  the first four heedless and the last two heedful. Every statement is kept
+  whole. Wave 12 item 4. Anchors `maraṇassati`.
 - Added a governed plain-English translation of Dhp 273-289, the Maggavagga
   (The Path), with notes, a reader introduction, and a reader page in stage
   2 after Dhp 21-32: the repository's second Dhammapada chapter. Seventeen
@@ -392,7 +398,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   readability rather than person-specific voice calibration. The completed
   translation improvements and body hashes remain intact while human reviews
   remain pending.
-- Reworked all 73 reader pages around a clear `Before you read` / `Translation`
+- Reworked all 74 reader pages around a clear `Before you read` / `Translation`
   hierarchy, computed reading times, visible term definitions, semantic reading
   navigation, and plain-English titles; replaced the wide glossary and sutta
   index tables with flowing layouts.

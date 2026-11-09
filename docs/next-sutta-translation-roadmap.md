@@ -10,7 +10,7 @@ Use that full roadmap as the source of truth for:
 - the doctrinal-cluster rationale for each choice
 - the post-translation lexicon update rules
 
-## Completed Surfaces (73 total)
+## Completed Surfaces (74 total)
 
 ### Wave 1: Dense Existing Support
 - `SN 12.2` Paṭiccasamuppāda-vibhaṅga Sutta
@@ -109,6 +109,9 @@ Use that full roadmap as the source of truth for:
 - `Dhp 273-289` the Maggavagga (The Path) — complete 2026-11-09. The
   Dhammapada's Path chapter, with verses 277 to 279 on the three
   characteristics.
+- `AN 6.19` Maraṇassati Sutta (Recollecting Death, One Breath at a Time) —
+  complete 2026-11-09. Six ways of recollecting death, sorted into heedless
+  and heedful. Anchors `maraṇassati`.
 
 ### Wave 10: Portable Practice and Verified Orphans
 - `AN 11.12` Dutiyamahānāma Sutta (Six Things to Remember Anywhere) —
@@ -196,7 +199,7 @@ Use that full roadmap as the source of truth for:
    strengths, and anchors the orphan major `bala`.
 3. `Dhp 273-289` the Maggavagga — **complete 2026-11-09**. 209 words; the Path chapter, with verses
    277 to 279.
-4. `AN 6.19` Maraṇassati Sutta — 487 words; recollection of death.
+4. `AN 6.19` Maraṇassati Sutta — **complete 2026-11-09**. 487 words; recollection of death.
 5. `MN 121` Cūḷasuññata Sutta — 995 words; the companion to MN 122, after a
    citation pass on the emptiness cluster.
 

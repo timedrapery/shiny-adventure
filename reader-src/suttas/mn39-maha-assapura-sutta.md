@@ -576,7 +576,7 @@ The Greater Discourse at Assapura is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Ten Recognitions for a Sick Monk](an10-60-giriminanda-sutta.md)
+- [← Recollecting Death, One Breath at a Time](an6-19-maranassati-sutta.md)
 - [All suttas](index.md)
 - [What Feeds and Starves the Hindrances →](sn46-51-ahara-sutta.md)
 

@@ -384,3 +384,5 @@
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
 
 *[five strengths]: This project's rendering of "pañca balāni" -- confidence, energy, remembering, unification, and discernment. The same five qualities as the five faculties, named as strengths.
+
+*[recollection of death]: This project's rendering of "maraṇassati" -- keeping in mind that death can come at any time, so as not to put off the work of practice.
