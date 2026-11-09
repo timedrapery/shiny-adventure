@@ -40,7 +40,7 @@ And how do they do that?
 They develop right view supported by seclusion, fading, and quenching, maturing
 in relinquishment.
 
-They develop right intention supported by seclusion, fading, and quenching,
+They develop right attitude supported by seclusion, fading, and quenching,
 maturing in relinquishment.
 
 They develop right speech supported by seclusion, fading, and quenching,

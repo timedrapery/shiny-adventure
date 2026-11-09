@@ -557,16 +557,16 @@ self feels, for my self has the nature of felt experience.'
 they should be told:
 
 'Friend, there are these three feelings: pleasant feeling, painful feeling, and
-mixed feeling. Which of these three feelings do you regard as self?'
+neutral feeling. Which of these three feelings do you regard as self?'
 
 When someone feels pleasant feeling, they do not at that time feel painful
-feeling or mixed feeling. At that time they feel only pleasant feeling.
+feeling or neutral feeling. At that time they feel only pleasant feeling.
 
 When someone feels painful feeling, they do not at that time feel pleasant
-feeling or mixed feeling. At that time they feel only painful feeling.
+feeling or neutral feeling. At that time they feel only painful feeling.
 
-When someone feels mixed feeling, they do not at that time feel pleasant
-feeling or painful feeling. At that time they feel only mixed feeling.
+When someone feels neutral feeling, they do not at that time feel pleasant
+feeling or painful feeling. At that time they feel only neutral feeling.
 
 Pleasant feeling, Ānanda, is impermanent, conditioned, dependently arisen,
 liable to wearing away, passing away, fading, and quenching.
@@ -574,7 +574,7 @@ liable to wearing away, passing away, fading, and quenching.
 Painful feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
-Mixed feeling is impermanent, conditioned, dependently arisen, liable to
+Neutral feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
 Feeling pleasant feeling, they think, 'This is my self.'
@@ -587,9 +587,9 @@ Feeling painful feeling, they think, 'This is my self.'
 With the quenching of that very painful feeling, they think, 'My self has gone
 away.'
 
-Feeling mixed feeling, they think, 'This is my self.'
+Feeling neutral feeling, they think, 'This is my self.'
 
-With the quenching of that very mixed feeling, they think, 'My self has gone
+With the quenching of that very neutral feeling, they think, 'My self has gone
 away.'
 
 So, in this very life, someone who says, 'Felt experience is my self,' regards
@@ -864,10 +864,10 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mixed feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>name-and-form</dfn></dt>
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
+<dt><dfn>neutral feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -906,7 +906,7 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dn15/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn15-mahanidana-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `8461edc9`
+- **Last editorial review:** 2026-08-23 · body version `3005b6f7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%2015) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -945,8 +945,8 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
+*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.

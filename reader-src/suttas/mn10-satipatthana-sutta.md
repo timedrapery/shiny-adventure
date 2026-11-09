@@ -214,7 +214,7 @@ experience?
 
 Here, when a bhikkhu feels pleasant feeling, they know: 'I feel pleasant
 feeling.' When they feel painful feeling, they know: 'I feel painful feeling.'
-When they feel mixed feeling, they know: 'I feel mixed feeling.'
+When they feel neutral feeling, they know: 'I feel neutral feeling.'
 
 When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
 feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
@@ -224,9 +224,9 @@ When they feel worldly painful feeling, they know: 'I feel worldly painful
 feeling.' When they feel unworldly painful feeling, they know: 'I feel
 unworldly painful feeling.'
 
-When they feel worldly mixed feeling, they know: 'I feel worldly mixed
-feeling.' When they feel unworldly mixed feeling, they know: 'I feel unworldly
-mixed feeling.'
+When they feel worldly neutral feeling, they know: 'I feel worldly neutral
+feeling.' When they feel unworldly neutral feeling, they know: 'I feel unworldly
+neutral feeling.'
 
 Then they remain observing felt experience as internal, observing felt
 experience as external, and observing felt experience as both internal and
@@ -495,8 +495,8 @@ Buddha had said.
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mixed feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+<dt><dfn>neutral feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>putting-together activities</dfn></dt>
@@ -529,7 +529,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `f05ab929`
+- **Last editorial review:** 2026-11-08 · body version `9f8a3b47`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -565,7 +565,7 @@ Buddha had said.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
+*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.

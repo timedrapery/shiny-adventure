@@ -405,11 +405,11 @@ is not my self.'
 They regard ignorant wanting like this: 'This is not mine, I am not this, this
 is not my self.'"
 
-### Pleasant, Painful, and Mixed Feeling: The Untrained Pattern
+### Pleasant, Painful, and Neutral Feeling: The Untrained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
-pleasant, painful, or mixed.
+pleasant, painful, or neutral.
 
 When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
@@ -419,14 +419,14 @@ When painful feeling touches them, they grieve, they wear themselves out, they w
 
 The underlying tendency toward resistance lies underneath that.
 
-When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, have not driven out the underlying tendency toward resistance
 in painful feeling, have not uprooted the underlying tendency toward ignorance
-in mixed feeling, have not abandoned ignorance, and have not brought up
+in neutral feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life.
 
@@ -435,7 +435,7 @@ tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
-painful, or mixed.
+painful, or neutral.
 
 When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
@@ -445,22 +445,22 @@ When painful feeling touches them, they grieve, they wear themselves out, they w
 
 The underlying tendency toward resistance lies underneath that.
 
-When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, have not driven out the underlying tendency toward resistance
 in painful feeling, have not uprooted the underlying tendency toward ignorance
-in mixed feeling, have not abandoned ignorance, and have not brought up
+in neutral feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life."
 
-### Pleasant, Painful, and Mixed Feeling: The Trained Pattern
+### Pleasant, Painful, and Neutral Feeling: The Trained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
-pleasant, painful, or mixed.
+pleasant, painful, or neutral.
 
 When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
@@ -470,14 +470,14 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When they are touched by mixed feeling, they discern that feeling's arising and
+When they are touched by neutral feeling, they discern that feeling's arising and
 vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, have driven out the underlying tendency toward resistance in
-painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+painful feeling, have uprooted the underlying tendency toward ignorance in neutral
 feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life.
 
@@ -486,7 +486,7 @@ tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
-painful, or mixed.
+painful, or neutral.
 
 When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
@@ -496,14 +496,14 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When they are touched by mixed feeling, they discern that feeling's arising and
+When they are touched by neutral feeling, they discern that feeling's arising and
 vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, have driven out the underlying tendency toward resistance in
-painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+painful feeling, have uprooted the underlying tendency toward ignorance in neutral
 feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life."
 
@@ -571,8 +571,8 @@ released from the outflows through not taking anything personally.
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mixed feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+<dt><dfn>neutral feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>not-self</dfn></dt>
@@ -597,7 +597,7 @@ released from the outflows through not taking anything personally.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn148/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn148-chachakka-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `cc80f649`
+- **Last editorial review:** 2026-08-23 · body version `cb5991f7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20148) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -628,7 +628,7 @@ released from the outflows through not taking anything personally.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
+*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."

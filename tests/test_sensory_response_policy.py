@@ -45,8 +45,8 @@ class SensoryResponsePolicyTests(unittest.TestCase):
             "when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings",
         )
         self.assertEqual(
-            load_term("terms/minor/mn148-mixed-feeling-undiscerned-response.json")["preferred_translation"],
-            "when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
+            load_term("terms/minor/mn148-neutral-feeling-undiscerned-response.json")["preferred_translation"],
+            "when neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be",
         )
 
     def test_live_sensory_response_surface_has_no_errors(self) -> None:

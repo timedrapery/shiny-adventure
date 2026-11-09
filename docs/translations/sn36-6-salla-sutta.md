@@ -10,7 +10,7 @@
   data.
 - House choices that most affect this sutta: `vedanā` is rendered `felt
   experience`; the three feeling registers are rendered `pleasant feeling`,
-  `painful feeling`, and `mixed feeling`; `puthujjana` is rendered `ordinary
+  `painful feeling`, and `neutral feeling`; `puthujjana` is rendered `ordinary
   person`; `ariyasāvaka` is rendered `noble disciple`; `paṭigha` is rendered
   `resistance`; `anusaya` is rendered `underlying tendency`; `rāga` is
   rendered `passion`; and `nissaraṇa` is rendered `escape`.
@@ -29,10 +29,10 @@
 
 ### The Difference
 
-"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and mixed
+"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and neutral
 feelings.
 
-A learned noble disciple feels pleasant, painful, and mixed feelings too.
+A learned noble disciple feels pleasant, painful, and neutral feelings too.
 
 So what's the difference, bhikkhus? What sets them apart?"
 
@@ -76,10 +76,10 @@ in pleasant feeling remains.
 They do not understand those feelings as they have come to be: how they arise
 and vanish, what is gratifying about them, what danger they hold, and what
 escape there is from them. Because they do not understand all this, the
-underlying tendency toward ignorance in mixed feeling remains.
+underlying tendency toward ignorance in neutral feeling remains.
 
 If they feel a pleasant feeling, they feel it while bound. If they feel a
-painful feeling, they feel it while bound. If they feel a mixed feeling, they
+painful feeling, they feel it while bound. If they feel a neutral feeling, they
 feel it while bound.
 
 Bhikkhus, this is what it means to call someone an unlearned ordinary person.
@@ -118,10 +118,10 @@ passion in pleasant feeling remains.
 They understand those feelings as they have come to be: how they arise and
 vanish, what is gratifying about them, what danger they hold, and what escape
 there is from them. Because they understand all this, no underlying tendency
-toward ignorance in mixed feeling remains.
+toward ignorance in neutral feeling remains.
 
 If they feel a pleasant feeling, they feel it while unbound. If they feel a
-painful feeling, they feel it while unbound. If they feel a mixed feeling,
+painful feeling, they feel it while unbound. If they feel a neutral feeling,
 they feel it while unbound.
 
 Bhikkhus, this is what it means to call someone a learned noble disciple.

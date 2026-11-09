@@ -277,6 +277,14 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Rendered `adukkhamasukhā vedanā` as `neutral feeling` instead of `mixed
+  feeling` in all nine translations that name the third feeling register, with
+  their notes, records, glossary, and checks. In ordinary English `mixed
+  feelings` means feeling two ways at once, which the Pali does not say. The
+  formula check now flags `mixed feeling`. SN 36.6 changed in six lines, so its
+  source-fidelity sign-off and read-aloud review are open again; see
+  `reviews/source-fidelity-recheck-2026-11-09.md`.
+- Corrected one `right intention` in SN 45.2 to the governed `right attitude`.
 - Ran the Wave 13 audit and wrote the [Wave 13 execution plan](docs/wave-13-execution-plan.md):
   Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and AN 1.49-52, each checked
   against its root text. `paritta` cited Sn 1.8 and Khp 6, which contain no

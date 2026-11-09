@@ -214,8 +214,6 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>mental theme</dfn> <span class="glossary-pali" lang="pi">(jhāna)</span></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
-<dt><dfn>mixed feeling</dfn> <span class="glossary-pali" lang="pi">(adukkhamasukhavedanā)</span></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>moral caution</dfn> <span class="glossary-pali" lang="pi">(ottappa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;ottappa&quot; -- alertness to the harm and consequences of an unwholesome action. It is the outward-looking partner of conscience, not ordinary fear.</dd>
 </dl>
@@ -225,6 +223,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dl class="glossary-list">
 <dt><dfn>name-and-form</dfn> <span class="glossary-pali" lang="pi">(nāmarūpa)</span></dt>
 <dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
+<dt><dfn>neutral feeling</dfn> <span class="glossary-pali" lang="pi">(adukkhamasukhavedanā)</span></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>nibbāna</dfn> <span class="glossary-pali" lang="pi">(nibbāna)</span></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>noble disciple</dfn> <span class="glossary-pali" lang="pi">(ariyasāvaka)</span></dt>

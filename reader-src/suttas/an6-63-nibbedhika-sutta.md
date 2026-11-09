@@ -130,7 +130,7 @@ practice leading to the quenching of felt experience.' That is what was said.
 Why was it said?
 
 There are these three kinds of felt experience, bhikkhus: pleasant feeling,
-painful feeling, and mixed feeling.
+painful feeling, and neutral feeling.
 
 And where does felt experience come from?
 
@@ -139,8 +139,8 @@ Contact, bhikkhus, is where felt experience comes from.
 And what are the differences among kinds of felt experience?
 
 There is worldly pleasant feeling and unworldly pleasant feeling; worldly
-painful feeling and unworldly painful feeling; worldly mixed feeling and
-unworldly mixed feeling. This is called the differences among kinds of felt
+painful feeling and unworldly painful feeling; worldly neutral feeling and
+unworldly neutral feeling. This is called the differences among kinds of felt
 experience.
 
 And what is the result of felt experience?
@@ -369,8 +369,8 @@ The ninth discourse is finished.
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
-<dt><dfn>mixed feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+<dt><dfn>neutral feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
@@ -413,7 +413,7 @@ The ninth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an6.63/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an6-63-nibbedhika-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `6d23d627`
+- **Last editorial review:** 2026-11-08 · body version `971ad14f`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%206.63) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -439,7 +439,7 @@ The ninth discourse is finished.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
-*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
+*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."

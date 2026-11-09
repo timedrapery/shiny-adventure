@@ -40,7 +40,7 @@ There the Buddha addressed the bhikkhus:
 
 The eye is burning. Sights are burning. Eye-knowing is burning. Eye-contact
 is burning. And whatever felt experience arises conditioned by eye-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -48,7 +48,7 @@ pain, distress, and despair — so I say.
 
 The ear is burning. Sounds are burning. Ear-knowing is burning. Ear-contact
 is burning. And whatever felt experience arises conditioned by ear-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -56,7 +56,7 @@ pain, distress, and despair — so I say.
 
 The nose is burning. Smells are burning. Nose-knowing is burning. Nose-contact
 is burning. And whatever felt experience arises conditioned by nose-contact —
-whether pleasant, painful, or mixed — that too is burning.
+whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -64,7 +64,7 @@ pain, distress, and despair — so I say.
 
 The tongue is burning. Tastes are burning. Tongue-knowing is burning.
 Tongue-contact is burning. And whatever felt experience arises conditioned by
-tongue-contact — whether pleasant, painful, or mixed — that too is burning.
+tongue-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -72,7 +72,7 @@ pain, distress, and despair — so I say.
 
 The body is burning. Touches are burning. Body-knowing is burning.
 Body-contact is burning. And whatever felt experience arises conditioned by
-body-contact — whether pleasant, painful, or mixed — that too is burning.
+body-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -80,7 +80,7 @@ pain, distress, and despair — so I say.
 
 The thinking mind is burning. Ideas are burning. Mind-knowing is burning.
 Mind-contact is burning. And whatever felt experience arises conditioned by
-mind-contact — whether pleasant, painful, or mixed — that too is burning.
+mind-contact — whether pleasant, painful, or neutral — that too is burning.
 
 With what fires? Burning with the fire of passion, the fire of aversion, and
 the fire of delusion — burning with birth, ageing, death, sorrow, lamentation,
@@ -91,28 +91,28 @@ pain, distress, and despair — so I say.
 Seeing this, bhikkhus, a learned noble disciple grows disenchanted with the
 eye, grows disenchanted with sights, grows disenchanted with eye-knowing,
 grows disenchanted with eye-contact. And with whatever felt experience arises
-conditioned by eye-contact — whether pleasant, painful, or mixed — with that
+conditioned by eye-contact — whether pleasant, painful, or neutral — with that
 too they grow disenchanted.
 
 They grow disenchanted with the ear, with sounds, with ear-knowing, with
 ear-contact, and with whatever felt experience arises conditioned by
-ear-contact — whether pleasant, painful, or mixed.
+ear-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the nose, with smells, with nose-knowing, with
 nose-contact, and with whatever felt experience arises conditioned by
-nose-contact — whether pleasant, painful, or mixed.
+nose-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the tongue, with tastes, with tongue-knowing,
 with tongue-contact, and with whatever felt experience arises conditioned by
-tongue-contact — whether pleasant, painful, or mixed.
+tongue-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the body, with touches, with body-knowing, with
 body-contact, and with whatever felt experience arises conditioned by
-body-contact — whether pleasant, painful, or mixed.
+body-contact — whether pleasant, painful, or neutral.
 
 They grow disenchanted with the thinking mind, with ideas, with mind-knowing,
 with mind-contact. And with whatever felt experience arises conditioned by
-mind-contact — whether pleasant, painful, or mixed — with that too they grow
+mind-contact — whether pleasant, painful, or neutral — with that too they grow
 disenchanted.
 
 Growing disenchanted, they fade. Fading, they are released. Being released,
@@ -167,7 +167,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn35.28/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn35-28-aditta-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `b159e8dd`
+- **Last editorial review:** 2026-08-23 · body version `335ef479`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2035.28) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -12,7 +12,7 @@
   `āyatana` is rendered `field`; `saḷāyatana` remains `six fields of
   experience`; `viññāṇa` is rendered `knowing`; `phassa` is rendered
   `contact`; `vedanā` remains `felt experience` in the main chain while the
-  three register lines use `pleasant feeling`, `painful feeling`, and `mixed
+  three register lines use `pleasant feeling`, `painful feeling`, and `neutral
   feeling`; `taṇhā` is rendered `ignorant wanting`; `sakkāya` is rendered
   `identity`; `anattā` is rendered `not-self`; and `dhamma` remains
   untranslated where English would narrow it too fast.
@@ -400,11 +400,11 @@ is not my self.'
 They regard ignorant wanting like this: 'This is not mine, I am not this, this
 is not my self.'"
 
-### Pleasant, Painful, and Mixed Feeling: The Untrained Pattern
+### Pleasant, Painful, and Neutral Feeling: The Untrained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
-pleasant, painful, or mixed.
+pleasant, painful, or neutral.
 
 When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
@@ -414,14 +414,14 @@ When painful feeling touches them, they grieve, they wear themselves out, they w
 
 The underlying tendency toward resistance lies underneath that.
 
-When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, have not driven out the underlying tendency toward resistance
 in painful feeling, have not uprooted the underlying tendency toward ignorance
-in mixed feeling, have not abandoned ignorance, and have not brought up
+in neutral feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life.
 
@@ -430,7 +430,7 @@ tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
-painful, or mixed.
+painful, or neutral.
 
 When pleasant feeling touches them, they delight in it, they affirm it, and they keep taking it personally.
 
@@ -440,22 +440,22 @@ When painful feeling touches them, they grieve, they wear themselves out, they w
 
 The underlying tendency toward resistance lies underneath that.
 
-When mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
+When neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance lies underneath that.
 
 Bhikkhus, if they have not abandoned the underlying tendency toward passion in
 pleasant feeling, have not driven out the underlying tendency toward resistance
 in painful feeling, have not uprooted the underlying tendency toward ignorance
-in mixed feeling, have not abandoned ignorance, and have not brought up
+in neutral feeling, have not abandoned ignorance, and have not brought up
 knowledge, there is no possibility that they will make an end of
 dissatisfaction in this very life."
 
-### Pleasant, Painful, and Mixed Feeling: The Trained Pattern
+### Pleasant, Painful, and Neutral Feeling: The Trained Pattern
 
 "Dependent on eye and visible forms, eye-knowing arises. The meeting of the
 three is contact. With contact as condition, there is felt experience as
-pleasant, painful, or mixed.
+pleasant, painful, or neutral.
 
 When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
@@ -465,14 +465,14 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When they are touched by mixed feeling, they discern that feeling's arising and
+When they are touched by neutral feeling, they discern that feeling's arising and
 vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, have driven out the underlying tendency toward resistance in
-painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+painful feeling, have uprooted the underlying tendency toward ignorance in neutral
 feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life.
 
@@ -481,7 +481,7 @@ tastes, and body and tangibles.
 
 Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
-painful, or mixed.
+painful, or neutral.
 
 When pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally.
 
@@ -491,14 +491,14 @@ When painful feeling touches them, they do not grieve, do not wear themselves ou
 
 The underlying tendency toward resistance does not lie underneath that.
 
-When they are touched by mixed feeling, they discern that feeling's arising and
+When they are touched by neutral feeling, they discern that feeling's arising and
 vanishing, gratification, danger, and escape as they have come to be.
 
 The underlying tendency toward ignorance does not lie underneath that.
 
 Bhikkhus, if they have abandoned the underlying tendency toward passion in
 pleasant feeling, have driven out the underlying tendency toward resistance in
-painful feeling, have uprooted the underlying tendency toward ignorance in mixed
+painful feeling, have uprooted the underlying tendency toward ignorance in neutral
 feeling, have abandoned ignorance, and have brought up knowledge, there is the
 possibility that they will make an end of dissatisfaction in this very life."
 
