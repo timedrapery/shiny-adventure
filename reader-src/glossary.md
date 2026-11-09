@@ -120,6 +120,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## E
 
 <dl class="glossary-list">
+<dt><dfn>emptiness</dfn> <span class="glossary-pali" lang="pi">(suññatā)</span></dt>
+<dd>This project&#x27;s rendering of &quot;suññatā&quot;. In MN 122 it is a way of dwelling, entered by not attending to any signs.</dd>
 <dt><dfn>escape</dfn> <span class="glossary-pali" lang="pi">(nissaraṇa)</span></dt>
 <dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
 </dl>
@@ -135,6 +137,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.</dd>
 <dt><dfn>felt experience</dfn> <span class="glossary-pali" lang="pi">(vedanā)</span></dt>
 <dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dt><dfn>fewness of wishes</dfn> <span class="glossary-pali" lang="pi">(appicchatā)</span></dt>
+<dd>This project&#x27;s rendering of &quot;appicchatā&quot; -- wanting little for oneself.</dd>
 <dt><dfn>final nibbāna</dfn> <span class="glossary-pali" lang="pi">(parinibbāna)</span></dt>
 <dd>The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.</dd>
 <dt><dfn>five hindrances</dfn> <span class="glossary-pali" lang="pi">(pañca-nīvaraṇā)</span></dt>
@@ -229,6 +233,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>non-aversion</dfn> <span class="glossary-pali" lang="pi">(adosa)</span></dt>
 <dd>The absence of hostility and the reflex to push away what is unwanted. One of the three roots of wholesome action.</dd>
+<dt><dfn>non-entanglement</dfn> <span class="glossary-pali" lang="pi">(asaṃsagga)</span></dt>
+<dd>This project&#x27;s rendering of &quot;asaṁsagga&quot; -- not getting mixed up with people and their affairs.</dd>
 <dt><dfn>non-greed</dfn> <span class="glossary-pali" lang="pi">(alobha)</span></dt>
 <dd>The absence of the grasping pull that wants to acquire, possess, or consume. One of the three roots of wholesome action.</dd>
 <dt><dfn>not-self</dfn> <span class="glossary-pali" lang="pi">(anattā)</span></dt>
@@ -365,6 +371,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 <dd>This project&#x27;s rendering of &quot;upādāna&quot; -- treating some piece of experience as &quot;me&quot; or &quot;mine&quot; and holding on to it. Usually translated &quot;clinging&quot; or &quot;attachment.&quot;</dd>
 <dt><dfn>Tathāgata</dfn> <span class="glossary-pali" lang="pi">(tathāgata)</span></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
+<dt><dfn>the imperturbable</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;āneñja&quot; -- a state of mind that does not waver. MN 122 names it as something a bhikkhu attends to, without saying which attainment it means.</dd>
 <dt><dfn>thinking mind</dfn> <span class="glossary-pali" lang="pi">(mano)</span></dt>
 <dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
 <dt><dfn>This is not mine, I am not this, this is not my self</dfn> <span class="glossary-pali" lang="pi">(netaṁ mama, nesohamasmi, na me so attā)</span></dt>

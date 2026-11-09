@@ -23,7 +23,7 @@ FLAGGED_PATTERNS: dict[str, re.Pattern[str]] = {
     "eye and forms formula": re.compile(r"Dependent on eye and forms, eye-knowing arises\."),
     "eye forms designation": re.compile(r"\beye, forms, and eye-knowing\b"),
     "no eye no forms designation": re.compile(r"\bno eye, no forms, and no eye-knowing\b"),
-    "forms knowable by the eye": re.compile(r"(?<!visible )forms knowable by the eye\b"),
+    "forms knowable by the eye": re.compile(r"(?<![Vv]isible )forms knowable by the eye\b"),
     "right knowing": re.compile(r"\bright knowing\b"),
     "neutral third-register wording": re.compile(r"\bneutral\s+feeling\b"),
     "observing feelings in relation to feelings": re.compile(

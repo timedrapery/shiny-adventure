@@ -372,3 +372,11 @@
 *[security from the yoke]: A name for nibbāna: safety from the yokes of sensuality, becoming, views, and ignorance that bind a person to further becoming.
 
 *[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
+
+*[emptiness]: This project's rendering of "suññatā". In MN 122 it is a way of dwelling, entered by not attending to any signs.
+
+*[the imperturbable]: This project's rendering of "āneñja" -- a state of mind that does not waver. MN 122 names it as something a bhikkhu attends to, without saying which attainment it means.
+
+*[fewness of wishes]: This project's rendering of "appicchatā" -- wanting little for oneself.
+
+*[non-entanglement]: This project's rendering of "asaṁsagga" -- not getting mixed up with people and their affairs.

@@ -23,8 +23,8 @@
   "example_phrases": [
     {
       "pali": "appicchakathā santuṭṭhikathā pavivekakathā asaṁsaggakathā",
-      "translation": "talk on fewness of wishes, on contentment, on seclusion, on non-entanglement",
-      "notes": "From the ten topics of worthwhile talk in MN 122. The record previously cited AN 4.27, which is titled Santuṭṭhi but speaks of being content with `what is trifling and easy to get` and contains no form of `appicchatā`. MN 122 is not a translated surface, so the record stays orphaned. Repaired in the 2026-09-13 Wave 11 audit.",
+      "translation": "talk on fewness of wishes, on contentment, on deep seclusion, on non-entanglement",
+      "notes": "From the ten topics of worthwhile talk in MN 122, where `paviveka` keeps its governed `deep seclusion`. The record previously cited AN 4.27, which is titled Santuṭṭhi but speaks of being content with `what is trifling and easy to get` and contains no form of `appicchatā`. Repaired in the 2026-09-13 Wave 11 audit; anchored by the MN 122 translation on 2026-11-09.",
       "source": "MN 122"
     }
   ]

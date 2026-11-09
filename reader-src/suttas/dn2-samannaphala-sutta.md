@@ -1144,7 +1144,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← Remembering Directed to the Body](mn119-kayagatasati-sutta.md)
+- [← Dwelling in Emptiness](mn122-mahasunnata-sutta.md)
 - [All suttas](index.md)
 - [Ten Recognitions for a Sick Monk →](an10-60-giriminanda-sutta.md)
 

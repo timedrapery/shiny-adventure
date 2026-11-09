@@ -107,8 +107,9 @@ QUEUE: tuple[QueueItem, ...] = (
         published=True,
     ),
     QueueItem(
-        "5", "MN 122", "Mahāsuññata", 1547, "—",
-        "anchors `appicchatā` and `asaṁsagga`; the last multi-orphan text that is neither a stub nor a length deferral",
+        "wave 11", "MN 122", "Mahāsuññata", 1547, "—",
+        "published 2026-11-09; anchors `appicchatā` and `asaṁsagga` through the ten topics of talk",
+        published=True,
     ),
 )
 
