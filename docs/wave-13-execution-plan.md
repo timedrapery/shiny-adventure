@@ -61,7 +61,7 @@ text of each discourse it cites, not only its quoted examples.
 Every signal below was checked against the root text before the item was
 given a position.
 
-1. **Dhp 179–196, the Buddhavagga** — 210 Pali words in eighteen verses, one
+1. **Dhp 179–196, the Buddhavagga** — **complete 2026-11-09**. 210 Pali words in eighteen verses, one
    upstream file (`dhp179-196`). The Buddha chapter, with verses 183 to 185:
    `not doing any evil, taking up the wholesome, purifying the mind`.
    Anchors `khanti` (`khantī paramaṁ tapo`, verse 184). Follows the Dhp 21–32
@@ -133,7 +133,7 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **Dhp 179–196**.
+unfinished queue item is **Snp 1.8**; Dhp 179–196 is published.
 
 ## Definition of Wave Completion
 

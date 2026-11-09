@@ -19,5 +19,13 @@
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "example_phrases": [
+    {
+      "pali": "Khantī paramaṁ tapo titikkhā",
+      "translation": "patience, enduring patience, is the highest austerity",
+      "notes": "Dhp 184, the second of the three verses traditionally recited as a summary of the teaching.",
+      "source": "Dhp 184"
+    }
+  ]
 }

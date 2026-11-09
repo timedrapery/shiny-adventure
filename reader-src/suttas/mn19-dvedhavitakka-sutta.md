@@ -421,7 +421,7 @@ Buddha had said.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Path](dhp273-289-maggavagga.md)
+- [← The Teaching of the Buddhas](dhp179-196-buddhavagga.md)
 - [All suttas](index.md)
 - [Could This Be the Path to Awakening? →](mn36-mahasaccaka-sutta.md)
 
