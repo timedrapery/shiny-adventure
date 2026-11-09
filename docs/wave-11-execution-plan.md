@@ -1,6 +1,10 @@
 # Wave 11 Execution Plan
 
-This is the durable handoff document for the active translation wave. A
+**Complete 2026-11-09. Superseded by the
+[Wave 12 execution plan](wave-12-execution-plan.md).** Kept for its source
+findings.
+
+This was the durable handoff document for the Wave 11 translation wave. A
 contributor should be able to clone the repository on another machine, confirm
 the baseline, and continue without relying on chat history.
 

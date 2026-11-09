@@ -13,11 +13,9 @@
   ],
   "untranslated_preferred": false,
   "definition": "Resolution or firm determination in practice.",
-  "sutta_references": [
-    "AN 10.176"
-  ],
   "tags": [
     "core-practice"
   ],
-  "status": "reviewed"
+  "status": "reviewed",
+  "notes": "Citation removed in the 2026-11-09 Wave 12 audit: the record cited AN 10.176 (Cunda), which contains no form of `adhiṭṭhāna`. DN 33 does list `cattāri adhiṭṭhānāni`, but those are the four foundations (discernment, truth, generosity, calming), a different sense from `resolution`, so it is not substituted. The record is uncited until a verified source for the resolution sense is found."
 }

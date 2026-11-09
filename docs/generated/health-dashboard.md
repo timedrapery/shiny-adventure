@@ -20,8 +20,8 @@ example phrases carried by the records themselves.
 
 | Measure | Value |
 | --- | --- |
-| Distinct surfaces | 2314 |
-| Governed surfaces | 877 |
+| Distinct surfaces | 2315 |
+| Governed surfaces | 878 |
 | Ungoverned surfaces | 1437 |
 | Coverage by surface | 37.9% |
 | Coverage by occurrence | 59.1% |
@@ -36,7 +36,7 @@ single row as a lead rather than a fact.
 | --- | --- |
 | `compound` | 72 |
 | `exact` | 405 |
-| `inflected` | 400 |
+| `inflected` | 401 |
 | `none` | 1437 |
 
 ### Ungoverned surfaces by frequency (1437 total)
@@ -55,6 +55,7 @@ single row as a lead rather than a fact.
 | `titthati` | 10 | an8-6-dutiyalokadhamma-sutta-notes.md, mn148-chachakka-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, terms/ |
 | `cetasa` | 9 | an11-9-saddha-sutta-notes.md, an3-65-kesamutta-sutta-notes.md, mn36-mahasaccaka-sutta-notes.md, mn39-maha-assapura-sutta-notes.md, terms/ |
 | `kinci` | 9 | mn10-satipatthana-sutta-notes.md, terms/ |
+| `sabbe` | 9 | terms/ |
 | `satova` | 9 | mn118-anapanasati-sutta-notes.md, terms/ |
 | `adinavanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
 | `assadanca` | 8 | mn148-chachakka-sutta-notes.md, terms/ |
@@ -67,7 +68,6 @@ single row as a lead rather than a fact.
 | `assasissamiti` | 7 | terms/ |
 | `imassa` | 7 | mn38-mahatanhasankhaya-sutta-notes.md, sn12-61-assutava-sutta-notes.md, terms/ |
 | `kayanupassi` | 7 | terms/ |
-| `kaye` | 7 | terms/ |
 
 ## Drift
 
