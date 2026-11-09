@@ -518,7 +518,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 <nav class="reading-order" aria-label="Reading order" markdown="1">
 
-- [← The Five Faculties](sn48-10-dutiyavibhanga-sutta.md)
+- [← The Five Strengths](an5-14-vitthata-sutta.md)
 - [All suttas](index.md)
 - [Who Counts as a Genuine Practitioner? →](mn11-culasihanada-sutta.md)
 

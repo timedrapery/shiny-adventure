@@ -223,7 +223,7 @@ These, bhikkhus, are the five faculties."
 
 - [← The Four Bases of Power](sn51-13-chandasamadhi-sutta.md)
 - [All suttas](index.md)
-- [The Five Lower Fetters →](mn64-mahamalukya-sutta.md)
+- [The Five Strengths →](an5-14-vitthata-sutta.md)
 
 </nav>
 
