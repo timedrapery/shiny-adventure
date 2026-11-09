@@ -248,6 +248,8 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 ## O
 
 <dl class="glossary-list">
+<dt><dfn>observance day</dfn> <span class="glossary-pali" lang="pi">(uposatha)</span></dt>
+<dd>This project&#x27;s rendering of &quot;uposatha&quot; -- the days of the lunar month when lay followers take on extra precepts for a night and a day, and monastics recite their code.</dd>
 <dt><dfn>One Fine Night</dfn> <span class="glossary-pali" lang="pi">(bhaddekaratta)</span></dt>
 <dd>The title&#x27;s image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.</dd>
 <dt><dfn>oneness</dfn></dt>

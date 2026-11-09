@@ -43,7 +43,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <button type="reset">Clear filters</button>
 </form>
 
-<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 77 suttas.</p>
+<p id="sutta-filter-count" class="filter-count" role="status" aria-live="polite">Showing all 78 suttas.</p>
 
 <div class="sutta-grid">
 <article class="sutta-card" data-topic="getting started" data-difficulty="introductory" data-form="dialogue" data-length="medium" data-search="how to test a teaching an 3.65 kesamutta sutta a practical starting point for judging a teaching: tradition, reasoning, and a teacher&#x27;s authority are not sufficient on their own. examine what happens when a teaching is put into practice. getting started">
@@ -150,6 +150,13 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__meta">Introductory · Teaching with verse · Short · about 2 min · 267 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>Ten verses on friendliness: the character it starts from, the wish for all beings to be happy, and a mother&#x27;s care for her only child.</p>
+</article>
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="practice instructions" data-length="short" data-search="living like an arahant for a day an 8.41 saṅkhittūposatha sutta the eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life. ethics and conduct">
+<h2><a href="../suttas/an8-41-sankhittuposatha-sutta/">Living Like an Arahant for a Day</a></h2>
+<p class="sutta-card__reference">AN 8.41 · <span lang="pi">Saṅkhittūposatha Sutta</span></p>
+<p class="sutta-card__meta">Introductory · Practice instructions · Short · about 5 min · 803 words</p>
+<p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
+<p>The eight factors of the observance day: for one night and day, a lay disciple lives as the arahants live for life.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
 <h2><a href="../suttas/an3-69-akusalamula-sutta/">What Drives Harm—and What Ends It</a></h2>

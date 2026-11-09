@@ -70,7 +70,7 @@ given a position.
    should be done by someone skilled in the good: friendliness for all
    beings, `as a mother would her only child`. The repository's first Sutta
    Nipāta surface; its notes settle the collection's framing.
-3. **AN 8.41, Saṅkhittūposatha Sutta** — 337 Pali words. The eight factors of
+3. **AN 8.41, Saṅkhittūposatha Sutta** — **complete 2026-11-09**. 337 Pali words. The eight factors of
    the observance day, each modeled on the arahants. Anchors `uposatha`.
 4. **AN 8.54, Dīghajāṇu Sutta** — 626 Pali words. Four things for welfare
    here and now and four for welfare in the future, taught to a householder.
@@ -133,8 +133,8 @@ python scripts/repo_health.py
 
 Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
 and the [translation workflow](translation-workflow-plan.md). The first
-unfinished queue item is **AN 8.41**; Dhp 179–196 and Snp 1.8 are
-published.
+unfinished queue item is **AN 8.54**; Dhp 179–196, Snp 1.8, and AN 8.41
+are published.
 
 ## Definition of Wave Completion
 

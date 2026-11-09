@@ -387,6 +387,11 @@ Current Dhp 21-32 surfaces:
 - [dhp21-32-appamadavagga.md](dhp21-32-appamadavagga.md): main shareable translation text
 - [dhp21-32-appamadavagga-notes.md](dhp21-32-appamadavagga-notes.md): companion translator notes and rationale
 
+Current AN 8.41 surfaces:
+
+- [an8-41-sankhittuposatha-sutta.md](an8-41-sankhittuposatha-sutta.md): main shareable translation text
+- [an8-41-sankhittuposatha-sutta-notes.md](an8-41-sankhittuposatha-sutta-notes.md): companion translator notes and rationale
+
 Current Snp 1.8 surfaces:
 
 - [snp1-8-metta-sutta.md](snp1-8-metta-sutta.md): main shareable translation text

@@ -126,7 +126,7 @@ The eighth discourse, on friendliness, is finished.
 
 - [← The Dirty Cloth](mn7-vattha-sutta.md)
 - [All suttas](index.md)
-- [What Drives Harm—and What Ends It →](an3-69-akusalamula-sutta.md)
+- [Living Like an Arahant for a Day →](an8-41-sankhittuposatha-sutta.md)
 
 </nav>
 
