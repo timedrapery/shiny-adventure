@@ -143,22 +143,30 @@
     "sn36_6": {
       "status": "recruiting",
       "source_fidelity": {
-        "status": "complete",
-        "completed_on": "2026-08-24",
-        "evidence": "docs/translations/sn36-6-salla-sutta-notes.md",
-        "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
-        "bound_by": "git: last body change 2026-08-23, before the 2026-08-24 sign-off"
+        "status": "pending",
+        "superseded_signoff": {
+          "completed_on": "2026-08-24",
+          "evidence": "docs/translations/sn36-6-salla-sutta-notes.md",
+          "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+          "note": "Signed off on 2026-08-24 against an earlier body. On 2026-11-09 the third feeling register changed from mixed feeling to neutral feeling in six lines, so the sign-off no longer matches the published text. Reassess the changed lines against the Pali; see reviews/source-fidelity-recheck-2026-11-09.md."
+        }
       },
       "human_read_aloud": {
-        "status": "complete",
-        "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
-        "reviewers": [
+        "status": "pending",
+        "reviewers": [],
+        "superseded_reviews": [
           {
-            "label": "A1",
-            "reviewed_on": "2026-09-17",
-            "read_complete": true,
-            "observations": [],
-            "note": "Full text read through; nothing caught in delivery. The repeated five-verb grief list, the two bare 'Why?' questions, and the shift into the closing verses all held. Separately, the reviewer raised the triad term 'painful feeling' against 'unpleasant feeling'. That is a lexical question rather than a delivery one, so it is not counted here as a stumble; it was investigated and the rendering was kept. See terms/minor/dukkha-vedana.json."
+            "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+            "reviewers": [
+              {
+                "label": "A1",
+                "reviewed_on": "2026-09-17",
+                "read_complete": true,
+                "observations": [],
+                "note": "Full text read through; nothing caught in delivery. The repeated five-verb grief list, the two bare 'Why?' questions, and the shift into the closing verses all held. Separately, the reviewer raised the triad term 'painful feeling' against 'unpleasant feeling'. That is a lexical question rather than a delivery one, so it is not counted here as a stumble; it was investigated and the rendering was kept. See terms/minor/dukkha-vedana.json."
+              }
+            ],
+            "note": "Read aloud on 2026-09-17 against an earlier body. On 2026-11-09 mixed feeling became neutral feeling in six lines, so this review no longer covers the published text and does not count toward the gate."
           }
         ]
       },

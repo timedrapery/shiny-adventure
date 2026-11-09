@@ -88,7 +88,7 @@ And how do they do that?
 They develop right view supported by seclusion, fading, and quenching, maturing
 in relinquishment.
 
-They develop right intention supported by seclusion, fading, and quenching,
+They develop right attitude supported by seclusion, fading, and quenching,
 maturing in relinquishment.
 
 They develop right speech supported by seclusion, fading, and quenching,
@@ -118,7 +118,7 @@ Here is another way to understand why good friendship, good companionship, and
 good fellowship are the whole of the spiritual life.
 
 By relying on me as a good friend, beings subject to birth are freed from
-birth. Beings subject to aging are freed from aging. Beings subject to death
+birth. Beings subject to ageing are freed from ageing. Beings subject to death
 are freed from death. Beings subject to sorrow, lamentation, pain, sadness, and
 distress are freed from sorrow, lamentation, pain, sadness, and distress.
 
@@ -128,7 +128,7 @@ good fellowship are the whole of the spiritual life."
 The second discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (16)</summary>
+<summary>Words used in this translation (17)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -146,6 +146,8 @@ The second discourse is finished.
 <dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>right action</dfn></dt>
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
+<dt><dfn>right attitude</dfn></dt>
+<dd>This project&#x27;s rendering of the path factor usually translated &quot;right intention&quot; -- the underlying motivation a person brings to their actions.</dd>
 <dt><dfn>right effort</dfn></dt>
 <dd>Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.</dd>
 <dt><dfn>right livelihood</dfn></dt>
@@ -170,7 +172,7 @@ The second discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn45.2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-2-upaddha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `c070d274`
+- **Last editorial review:** 2026-11-08 · body version `cab85902`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -194,6 +196,7 @@ The second discourse is finished.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[right action]: Acting without harming -- a factor of the eightfold path.
+*[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.

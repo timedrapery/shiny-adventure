@@ -42,9 +42,9 @@ Venerable Sāriputta said this:
 
 "Friends, people say, 'right view, right view.'
 
-In what way, friends, is a noble disciple one with right view, whose view has
-become direct, who is endowed with verified confidence in the Dhamma, and who
-has arrived at this true Dhamma?"
+Friends, in what way is a noble disciple someone with right view, whose view
+has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma?"
 
 "Friend, we would travel a long way to hear Venerable Sāriputta explain this.
 Please tell us what it means. We will listen and remember."
@@ -59,9 +59,9 @@ Venerable Sāriputta said this:
 
 "Friends, when a noble disciple discerns the unwholesome, discerns the root of
 the unwholesome, discerns the wholesome, and discerns the root of the
-wholesome, to that extent the noble disciple is one with right view, whose view
-has become direct, who is endowed with verified confidence in the Dhamma, and
-who has arrived at this true Dhamma.
+wholesome, to that extent the noble disciple is someone with right view, whose
+view has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma.
 
 And what is the unwholesome? What is the root of the unwholesome? What is the
 wholesome? What is the root of the wholesome?
@@ -112,24 +112,24 @@ This is called the root of the wholesome.
 
 When a noble disciple discerns the unwholesome in this way, discerns the root
 of the unwholesome in this way, discerns the wholesome in this way, and
-discerns the root of the wholesome in this way, then, having abandoned the
-underlying tendency toward passion entirely, having dispelled the underlying
-tendency toward resistance, having uprooted the underlying tendency to the view
-and conceit 'I am,' having abandoned ignorance and given rise to clear
-knowledge, he makes an end of dissatisfaction in this very life.
+discerns the root of the wholesome in this way, then he abandons the underlying
+tendency toward passion entirely, dispels the underlying tendency toward
+resistance, uproots the underlying tendency to the view and conceit 'I am,'
+abandons ignorance, gives rise to clear knowledge, and makes an end of
+dissatisfaction in this very life.
 
-To that extent, too, the noble disciple is one with right view, whose view has
-become direct, who is endowed with verified confidence in the Dhamma, and who
-has arrived at this true Dhamma."
+To that extent, too, the noble disciple is someone with right view, whose view
+has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma."
 
 ### Another Way
 
 The bhikkhus were glad and approved of Venerable Sāriputta's words. Then they
 asked him a further question:
 
-"But, friend, is there another way in which a noble disciple is one with
-right view, whose view has become direct, who is endowed with verified
-confidence in the Dhamma, and who has arrived at this true Dhamma?"
+"But, friend, is there another way in which a noble disciple is someone with
+right view, whose view has become direct, who has verified confidence in the
+Dhamma, and who has arrived at this true Dhamma?"
 
 "Yes, friends, there is.
 
@@ -137,9 +137,9 @@ confidence in the Dhamma, and who has arrived at this true Dhamma?"
 
 When a noble disciple discerns nutriment, discerns the origin of nutriment,
 discerns the quenching of nutriment, and discerns the path of practice leading
-to the quenching of nutriment, to that extent the noble disciple is one with
-right view, whose view has become direct, who is endowed with verified
-confidence in the Dhamma, and who has arrived at this true Dhamma.
+to the quenching of nutriment, to that extent the noble disciple is someone
+with right view, whose view has become direct, who has verified confidence in
+the Dhamma, and who has arrived at this true Dhamma.
 
 And what is nutriment? What is the origin of nutriment? What is the quenching
 of nutriment? What is the path of practice leading to the quenching of
@@ -173,15 +173,14 @@ of nutriment:
 When a noble disciple discerns nutriment in this way, discerns the origin of
 nutriment in this way, discerns the quenching of nutriment in this way, and
 discerns the path of practice leading to the quenching of nutriment in this
-way, then, having abandoned the underlying tendency toward passion entirely,
-having dispelled the underlying tendency toward resistance, having uprooted the
-underlying tendency to the view and conceit 'I am,' having abandoned ignorance
-and given rise to clear knowledge, he makes an end of dissatisfaction in this
-very life.
+way, then he abandons the underlying tendency toward passion entirely, dispels
+the underlying tendency toward resistance, uproots the underlying tendency to
+the view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge,
+and makes an end of dissatisfaction in this very life.
 
-To that extent, too, the noble disciple is one with right view, whose view has
-become direct, who is endowed with verified confidence in the Dhamma, and who
-has arrived at this true Dhamma."
+To that extent, too, the noble disciple is someone with right view, whose view
+has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma."
 
 ### The Noble Truths
 
@@ -193,7 +192,7 @@ said:
 When a noble disciple discerns dissatisfaction, discerns the origin of
 dissatisfaction, discerns the quenching of dissatisfaction, and discerns the
 path of practice leading to the quenching of dissatisfaction, to that extent
-the noble disciple is one with right view.
+the noble disciple is someone with right view.
 
 And what is dissatisfaction?
 
@@ -239,13 +238,13 @@ It is just this noble eightfold path:
 This is called the path of practice leading to the quenching of
 dissatisfaction.
 
-When a noble disciple discerns this in this way, then, having abandoned the
-underlying tendency toward passion entirely, having dispelled the underlying
-tendency toward resistance, having uprooted the underlying tendency to the view
-and conceit 'I am,' having abandoned ignorance and given rise to clear
-knowledge, he makes an end of dissatisfaction in this very life.
+When a noble disciple discerns this in this way, then he abandons the
+underlying tendency toward passion entirely, dispels the underlying tendency
+toward resistance, uproots the underlying tendency to the view and conceit 'I
+am,' abandons ignorance, gives rise to clear knowledge, and makes an end of
+dissatisfaction in this very life.
 
-To that extent, too, the noble disciple is one with right view."
+To that extent, too, the noble disciple is someone with right view."
 
 ### The Dependent-Arising Analyses
 
@@ -258,7 +257,7 @@ abandons the underlying tendency toward passion, dispels the underlying
 tendency toward resistance, uproots the underlying tendency to the view and
 conceit "I am," abandons ignorance, gives rise to clear knowledge, and makes an
 end of dissatisfaction in this very life. To that extent, too, the noble
-disciple is one with right view.
+disciple is someone with right view.
 
 ### Ageing and Dying
 
@@ -488,9 +487,9 @@ said:
 
 When a noble disciple discerns outflow, discerns the origin of outflow,
 discerns the quenching of outflow, and discerns the path of practice leading to
-the quenching of outflow, to that extent the noble disciple is one with right
-view, whose view has become direct, who is endowed with verified confidence in
-the Dhamma, and who has arrived at this true Dhamma.
+the quenching of outflow, to that extent the noble disciple is someone with
+right view, whose view has become direct, who has verified confidence in the
+Dhamma, and who has arrived at this true Dhamma.
 
 And what is outflow? What is the origin of outflow? What is the quenching of
 outflow? What is the path of practice leading to the quenching of outflow?
@@ -517,15 +516,14 @@ eightfold path is the path of practice leading to the quenching of outflows:
 When a noble disciple discerns outflow in this way, discerns the origin of
 outflow in this way, discerns the quenching of outflow in this way, and
 discerns the path of practice leading to the quenching of outflow in this way,
-then, having abandoned the underlying tendency toward passion entirely, having
-dispelled the underlying tendency toward resistance, having uprooted the
-underlying tendency to the view and conceit 'I am,' having abandoned ignorance
-and given rise to clear knowledge, he makes an end of dissatisfaction in this
-very life.
+then he abandons the underlying tendency toward passion entirely, dispels the
+underlying tendency toward resistance, uproots the underlying tendency to the
+view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge, and
+makes an end of dissatisfaction in this very life.
 
-To that extent, too, the noble disciple is one with right view, whose view has
-become direct, who is endowed with verified confidence in the Dhamma, and who
-has arrived at this true Dhamma."
+To that extent, too, the noble disciple is someone with right view, whose view
+has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma."
 
 That is what Venerable Sāriputta said.
 

@@ -7,7 +7,7 @@
 
 *Iti 49, the Diṭṭhigata Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 310 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 309 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -59,9 +59,9 @@ are.'
 
 "And how do those who see clearly recognize what is happening?
 
-"Here a bhikkhu sees what has come to be simply as what has come to be. Seeing
-it this way, they practice for disenchantment with it, for its fading, and for
-its quenching.
+"A bhikkhu sees what has come to be simply as what has come to be. Seeing it
+this way, they practice for disenchantment with it, for its fading, and for its
+quenching.
 
 "This is how those who see clearly recognize what is happening."
 
@@ -106,7 +106,7 @@ The twelfth discourse is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 </dl>
@@ -117,7 +117,7 @@ The twelfth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/iti49/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/iti49-ditthigata-sutta-notes.md)
-- **Last editorial review:** 2026-08-25 · body version `c0e3d310`
+- **Last editorial review:** 2026-08-25 · body version `d848f125`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Iti%2049) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -140,5 +140,5 @@ The twelfth discourse is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.

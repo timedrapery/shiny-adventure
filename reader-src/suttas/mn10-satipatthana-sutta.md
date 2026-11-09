@@ -7,7 +7,7 @@
 
 *MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,831 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,828 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -43,25 +43,24 @@ The Buddha said this:
 
 "Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati.
+right way, for directly realizing nibbāna: the four establishments of sati.
 
 And what four?
 
-Here a bhikkhu remains observing the body in relation to the body, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+A bhikkhu remains observing the body in relation to the body, ardent, with
+clear knowing, with remembering, and with coveting and distress about the world
+put aside.
 
 They remain observing felt experience in relation to felt experience, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+with clear knowing, with remembering, and with coveting and distress about the
+world put aside.
 
-They remain observing the heart in relation to the heart, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+They remain observing the heart in relation to the heart, ardent, with clear
+knowing, with remembering, and with coveting and distress about the world put
+aside.
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world."
+remembering, and with coveting and distress about the world put aside."
 
 ### Contemplation of Body
 
@@ -69,10 +68,10 @@ remembering, having removed coveting and distress regarding the world."
 
 "And how does a bhikkhu remain observing the body in relation to the body?
 
-Here a bhikkhu, having gone to the wilderness, or to the root of a tree, or to
-an empty hut, sits down, folds the legs crosswise, sets the body upright, and
-sets remembering to the fore. They breathe in remembering the Dhamma; they
-breathe out remembering the Dhamma.
+A bhikkhu goes to the wilderness, or to the root of a tree, or to an empty hut.
+They sit down, fold their legs crosswise, set their body upright, and set
+remembering to the fore. They breathe in remembering the Dhamma; they breathe
+out remembering the Dhamma.
 
 Breathing in long, they know: 'I breathe in long.' Breathing out long, they
 know: 'I breathe out long.'
@@ -148,13 +147,12 @@ tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs,
 intestines, mesentery, stomach contents, feces, bile, phlegm, pus, blood,
 sweat, fat, tears, grease, saliva, mucus, joint-fluid, and urine.'
 
-Just as a bag with openings at both ends, full of different kinds of grain,
-might be opened by a person with good sight, who would review it like this:
-'These are hill-rice, these are ordinary rice grains, these are mung beans,
-these are peas, these are sesame seeds, these are rice grains,' in the same
-way a bhikkhu reviews this very body from the soles of the feet up, and from
-the hair of the head down, enclosed by skin and full of many kinds of unclean
-things:
+Suppose there were a bag with openings at both ends, full of different kinds of
+grain. A person with good sight might open it and review it like this: 'These
+are hill-rice, these are ordinary rice grains, these are mung beans, these are
+peas, these are sesame seeds, these are rice grains.' In the same way, a
+bhikkhu reviews this very body from the soles of the feet up, and from the hair
+of the head down, enclosed by skin and full of many kinds of unclean things:
 
 'In this body there are head hairs, body hairs ... and urine.'
 
@@ -168,10 +166,9 @@ set, in terms of elements:
 'In this body there are the earth element, the water element, the fire
 element, and the air element.'
 
-Just as a skilled butcher or a butcher's apprentice, having killed a cow,
-would sit at a crossroads with it cut up into pieces, in the same way a
-bhikkhu reviews this very body, however it is placed, however it is set, in
-terms of elements:
+Just as a skilled butcher or a butcher's apprentice might kill a cow and sit at
+a crossroads with it cut up into pieces, in the same way a bhikkhu reviews this
+very body, however it is placed, however it is set, in terms of elements:
 
 'In this body there are the earth element, the water element, the fire
 element, and the air element.'
@@ -212,9 +209,9 @@ That is how a bhikkhu remains observing the body in relation to the body."
 "And how does a bhikkhu remain observing felt experience in relation to felt
 experience?
 
-Here, when a bhikkhu feels pleasant feeling, they know: 'I feel pleasant
-feeling.' When they feel painful feeling, they know: 'I feel painful feeling.'
-When they feel mixed feeling, they know: 'I feel mixed feeling.'
+When a bhikkhu feels pleasant feeling, they know: 'I feel pleasant feeling.'
+When they feel painful feeling, they know: 'I feel painful feeling.' When they
+feel neutral feeling, they know: 'I feel neutral feeling.'
 
 When they feel worldly pleasant feeling, they know: 'I feel worldly pleasant
 feeling.' When they feel unworldly pleasant feeling, they know: 'I feel
@@ -224,9 +221,9 @@ When they feel worldly painful feeling, they know: 'I feel worldly painful
 feeling.' When they feel unworldly painful feeling, they know: 'I feel
 unworldly painful feeling.'
 
-When they feel worldly mixed feeling, they know: 'I feel worldly mixed
-feeling.' When they feel unworldly mixed feeling, they know: 'I feel unworldly
-mixed feeling.'
+When they feel worldly neutral feeling, they know: 'I feel worldly neutral
+feeling.' When they feel unworldly neutral feeling, they know: 'I feel unworldly
+neutral feeling.'
 
 Then they remain observing felt experience as internal, observing felt
 experience as external, and observing felt experience as both internal and
@@ -244,9 +241,8 @@ experience."
 "And how does a bhikkhu remain observing the heart in relation to the
 heart?
 
-Here a bhikkhu discerns a heart with passion as 'heart with
-passion.' They discern a heart without passion as 'heart without
-passion.'
+A bhikkhu discerns a heart with passion as 'heart with passion.' They discern a
+heart without passion as 'heart without passion.'
 
 They discern a heart with aversion as 'heart with aversion.' They
 discern a heart without aversion as 'heart without aversion.'
@@ -287,8 +283,7 @@ heart."
 
 "And how does a bhikkhu remain observing dhammas among dhammas?
 
-Here a bhikkhu remains observing dhammas among dhammas in the five
-hindrances.
+A bhikkhu remains observing dhammas among dhammas in the five hindrances.
 
 And how does a bhikkhu remain observing dhammas among dhammas in the five
 hindrances?
@@ -339,7 +334,7 @@ clung-to heaps.
 And how does a bhikkhu remain observing dhammas among dhammas in the five clung-to
 heaps?
 
-Here a bhikkhu discerns:
+A bhikkhu discerns:
 
 - 'This is form; this is the arising of form; this is the vanishing of form.'
 - 'This is felt experience; this is the arising of felt experience; this is
@@ -365,10 +360,9 @@ and external fields.
 And how does a bhikkhu remain observing dhammas among dhammas in the six internal
 and external fields?
 
-Here a bhikkhu discerns the eye, visible forms, and the fetter that arises
-dependent on both. They also discern how an unarisen fetter arises, how an
-arisen fetter is given up, and how an abandoned fetter does not arise again in
-the future.
+A bhikkhu discerns the eye, visible forms, and the fetter that arises dependent
+on both. They also discern how an unarisen fetter arises, how an arisen fetter
+is given up, and how an abandoned fetter does not arise again in the future.
 
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
@@ -408,7 +402,7 @@ truths.
 And how does a bhikkhu remain observing dhammas among dhammas in the four noble
 truths?
 
-Here a bhikkhu discerns as they have come to be:
+A bhikkhu discerns as they have come to be:
 
 - 'This is dissatisfaction.'
 - 'This is the arising of dissatisfaction.'
@@ -426,7 +420,7 @@ That is how a bhikkhu remains observing dhammas among dhammas."
 
 ### The Promised Fruits
 
-"Whoever, bhikkhus, develops these four establishments of sati in this way for
+"Bhikkhus, whoever develops these four establishments of sati in this way for
 seven years may expect one of two fruits: final knowledge here and now, or, if
 there is some support remaining, non-returner status.
 
@@ -444,8 +438,7 @@ So when it was said:
 
 'Bhikkhus, this is the direct path for the purification of beings, for going
 beyond sorrow and lamentation, for ending pain and distress, for reaching the
-right way, for directly realizing nibbāna: namely, the four establishments of
-sati,'
+right way, for directly realizing nibbāna: the four establishments of sati,'
 
 it was said on account of this."
 
@@ -495,8 +488,8 @@ Buddha had said.
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
-<dt><dfn>mixed feeling</dfn></dt>
-<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
+<dt><dfn>neutral feeling</dfn></dt>
+<dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>putting-together activities</dfn></dt>
@@ -529,7 +522,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn10/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `f05ab929`
+- **Last editorial review:** 2026-11-08 · body version `75e03a8b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -565,7 +558,7 @@ Buddha had said.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
+*[neutral feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. It is still something felt, not an absence of feeling.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.

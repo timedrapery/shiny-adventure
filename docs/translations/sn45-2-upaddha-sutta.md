@@ -40,7 +40,7 @@ And how do they do that?
 They develop right view supported by seclusion, fading, and quenching, maturing
 in relinquishment.
 
-They develop right intention supported by seclusion, fading, and quenching,
+They develop right attitude supported by seclusion, fading, and quenching,
 maturing in relinquishment.
 
 They develop right speech supported by seclusion, fading, and quenching,
@@ -70,7 +70,7 @@ Here is another way to understand why good friendship, good companionship, and
 good fellowship are the whole of the spiritual life.
 
 By relying on me as a good friend, beings subject to birth are freed from
-birth. Beings subject to aging are freed from aging. Beings subject to death
+birth. Beings subject to ageing are freed from ageing. Beings subject to death
 are freed from death. Beings subject to sorrow, lamentation, pain, sadness, and
 distress are freed from sorrow, lamentation, pain, sadness, and distress.
 

@@ -132,7 +132,7 @@ They welcome gain and resist loss. They welcome fame and resist disrepute. They
 welcome praise and resist blame. They welcome pleasure and resist pain.
 
 Caught in welcoming and resisting like this, they are not freed from birth,
-aging, death, sorrow, lamentation, pain, sadness, and distress. I say they are
+ageing, death, sorrow, lamentation, pain, sadness, and distress. I say they are
 not freed from dissatisfaction.
 
 ### When the Conditions Do Not Take Over
@@ -176,7 +176,7 @@ They do not welcome gain or resist loss. They do not welcome fame or resist
 disrepute. They do not welcome praise or resist blame. They do not welcome
 pleasure or resist pain.
 
-They give up welcoming and resisting. This frees them from birth, aging,
+They give up welcoming and resisting. This frees them from birth, ageing,
 death, sorrow, lamentation, pain, sadness, and distress. I say they are freed
 from dissatisfaction.
 
@@ -237,7 +237,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an8.6/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an8-6-dutiyalokadhamma-sutta-notes.md)
-- **Last editorial review:** 2026-08-24 · body version `0f532dc8`
+- **Last editorial review:** 2026-08-24 · body version `3a757a07`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%208.6) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

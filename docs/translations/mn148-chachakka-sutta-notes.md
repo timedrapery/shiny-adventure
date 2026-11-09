@@ -14,7 +14,7 @@ source-audit calls, and edition notes that govern it.
   `sakkāya`, `attā`, `anattā`, `anusaya`, `pajānāti`, `nibbidā`, `virāga`,
   and `vimutti`.
 - Working method: the sixfold list, the not-self analysis, the identity
-  formulas, and the pleasant / painful / mixed feeling sequences are governed
+  formulas, and the pleasant / painful / neutral feeling sequences are governed
   together so the discourse reads as one practical pattern rather than as a
   loose doctrinal catalog.
 
@@ -30,8 +30,10 @@ source-audit calls, and edition notes that govern it.
 - `phassa` remains `contact`.
 - `vedanā` remains `felt experience` in the main contact chain, but the
   explicit three-register lines use `pleasant feeling`, `painful feeling`, and
-  `mixed feeling`.
-- `mixed` is deliberate. This edition uses `mixed feeling` for the third
+  `neutral feeling`.
+- `neutral` is deliberate. It replaced `mixed feeling` on 2026-11-09, because in
+  ordinary English mixed feelings means feeling two ways at once, which the Pali
+  does not say. This edition uses `neutral feeling` for the third
   register in MN 148.
 - `taṇhā` remains `ignorant wanting`, including in the sixfold list and the
   not-self / identity sections.
@@ -64,7 +66,7 @@ source-audit calls, and edition notes that govern it.
 - `tassā vedanāya samudayañca atthaṅgamañca assādañca ādīnavañca nissaraṇañca
   yathābhūtaṁ pajānāti` is now governed by a dedicated MN 148 phrase record
   rather than remaining translation-local.
-- The mixed-feeling non-discernment line is now governed alongside the
+- The neutral-feeling non-discernment line is now governed alongside the
   discernment line so the trained / untrained contrast stays explicit.
 - `netaṁ mama, nesohamasmi, na me so attā` is not treated here as a bare
   metaphysical formula. It is a practical de-appropriation pattern.
@@ -83,7 +85,7 @@ source-audit calls, and edition notes that govern it.
 - The identity section matters because the discourse does not leave
   appropriation abstract. It shows identity arising as taking each part of the
   process as mine, I am this, this is my self.
-- The mixed-feeling line is structurally crucial. The point is not passive
+- The neutral-feeling line is structurally crucial. The point is not passive
   neutrality. The point is that ignorance remains when that register is not
   discerned through its arising, vanishing, gratification, danger, and escape.
 - The final sequence from disenchantment to fading to release is therefore the
@@ -125,7 +127,7 @@ source-audit calls, and edition notes that govern it.
   de-appropriation formulas, sensory-response contrasts, and intentional
   repetition.
 - Governed wording left unchanged: `are to be known`, `the meeting of the three
-  is contact`, and the pleasant / painful / mixed response formulas remain
+  is contact`, and the pleasant / painful / neutral response formulas remain
   source-facing pending any policy-level revision.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.

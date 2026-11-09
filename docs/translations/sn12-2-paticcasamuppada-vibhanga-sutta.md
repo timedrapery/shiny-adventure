@@ -42,7 +42,7 @@ carefully and pay close attention. I will speak."
 
 The Buddha said this:
 
-"And what, bhikkhus, is dependent arising?
+"And what is dependent arising, bhikkhus?
 
 With ignorance as condition, putting things together;
 with putting things together as condition, knowing;
@@ -61,7 +61,7 @@ That is how this whole heap of dissatisfaction comes to arise."
 
 ### Ageing And Dying
 
-"And what, bhikkhus, is ageing and dying?
+"And what is ageing and dying, bhikkhus?
 
 Whatever ageing, wearing out, brokenness of teeth, greying of hair, wrinkling
 of skin, decline of life, and maturing of the faculties there is for the
@@ -75,7 +75,7 @@ Such is ageing, and such is death. This is called ageing and dying."
 
 ### Birth
 
-"And what, bhikkhus, is birth?
+"And what is birth, bhikkhus?
 
 Whatever birth, being born, descent, appearance, manifestation of the heaps,
 and obtaining of the fields there is for the various beings in the various
@@ -83,7 +83,7 @@ classes of beings: this is called birth."
 
 ### Becoming
 
-"And what, bhikkhus, is becoming?
+"And what is becoming, bhikkhus?
 
 There are these three kinds of becoming:
 
@@ -95,7 +95,7 @@ This is called becoming."
 
 ### Taking Personally
 
-"And what, bhikkhus, is taking personally?
+"And what is taking personally, bhikkhus?
 
 There are these four ways of taking personally:
 
@@ -108,7 +108,7 @@ This is called taking personally."
 
 ### Ignorant Wanting
 
-"And what, bhikkhus, is ignorant wanting?
+"And what is ignorant wanting, bhikkhus?
 
 There are these six classes of ignorant wanting:
 
@@ -123,7 +123,7 @@ This is called ignorant wanting."
 
 ### Felt Experience
 
-"And what, bhikkhus, is felt experience?
+"And what is felt experience, bhikkhus?
 
 There are these six classes of felt experience:
 
@@ -138,7 +138,7 @@ This is called felt experience."
 
 ### Contact
 
-"And what, bhikkhus, is contact?
+"And what is contact, bhikkhus?
 
 There are these six classes of contact:
 
@@ -153,7 +153,7 @@ This is called contact."
 
 ### The Six Fields Of Experience
 
-"And what, bhikkhus, are the six fields of experience?
+"And what are the six fields of experience, bhikkhus?
 
 - the eye sense field
 - the ear sense field
@@ -166,7 +166,7 @@ These are called the six fields of experience."
 
 ### Name-And-Form
 
-"And what, bhikkhus, is name-and-form?
+"And what is name-and-form, bhikkhus?
 
 - felt experience
 - recognition
@@ -183,7 +183,7 @@ Such is name, and such is form. This is called name-and-form."
 
 ### Knowing
 
-"And what, bhikkhus, is knowing?
+"And what is knowing, bhikkhus?
 
 There are these six classes of knowing:
 
@@ -198,7 +198,7 @@ This is called knowing."
 
 ### Putting Things Together
 
-"And what, bhikkhus, is putting things together?
+"And what is putting things together, bhikkhus?
 
 There are these three kinds of putting things together:
 
@@ -210,7 +210,7 @@ These are called putting things together."
 
 ### Ignorance
 
-"And what, bhikkhus, is ignorance?
+"And what is ignorance, bhikkhus?
 
 Not knowing about dissatisfaction, the origin of dissatisfaction, the
 quenching of dissatisfaction, and the practice leading to the quenching of
@@ -220,7 +220,7 @@ This is called ignorance."
 
 ### The Forward And Reverse Summary
 
-"And so, bhikkhus, with ignorance as condition, putting things together;
+"Bhikkhus, so with ignorance as condition, putting things together;
 with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;

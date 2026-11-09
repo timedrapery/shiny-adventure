@@ -1,21 +1,25 @@
 {
   "surface_key": "sn36_6",
-  "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+  "body_sha256": "19c36b08d2e8dd0fde0087a3c5ffd93de62de453535b44a416169796248fd569",
   "next_id": 39,
   "passages": [
     {
       "id": "p001",
-      "fingerprint": "63ed37e14c4e2c24",
+      "fingerprint": "da52f8467582d2c4",
       "section": "The Difference",
-      "preview": "\"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and mi…",
-      "previous_fingerprints": []
+      "preview": "\"Bhikkhus, an unlearned ordinary person feels pleasant, painful, and ne…",
+      "previous_fingerprints": [
+        "63ed37e14c4e2c24"
+      ]
     },
     {
       "id": "p002",
-      "fingerprint": "503d21adefec8eef",
+      "fingerprint": "9500df8fca58dbb9",
       "section": "The Difference",
-      "preview": "A learned noble disciple feels pleasant, painful, and mixed feelings to…",
-      "previous_fingerprints": []
+      "preview": "A learned noble disciple feels pleasant, painful, and neutral feelings…",
+      "previous_fingerprints": [
+        "503d21adefec8eef"
+      ]
     },
     {
       "id": "p003",
@@ -117,17 +121,21 @@
     },
     {
       "id": "p017",
-      "fingerprint": "8bb0429c1189bd59",
+      "fingerprint": "927e48fd37063ffc",
       "section": "Two Arrows",
       "preview": "They do not understand those feelings as they have come to be: how they…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "8bb0429c1189bd59"
+      ]
     },
     {
       "id": "p018",
-      "fingerprint": "b497c082401c72e3",
+      "fingerprint": "deb1d8f96c7a73cc",
       "section": "Two Arrows",
       "preview": "If they feel a pleasant feeling, they feel it while bound. If they feel…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "b497c082401c72e3"
+      ]
     },
     {
       "id": "p019",
@@ -201,17 +209,21 @@
     },
     {
       "id": "p029",
-      "fingerprint": "0f11a5adfefd996a",
+      "fingerprint": "846333c403fa8906",
       "section": "One Arrow",
       "preview": "They understand those feelings as they have come to be: how they arise…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "0f11a5adfefd996a"
+      ]
     },
     {
       "id": "p030",
-      "fingerprint": "f16dde2f51b04d41",
+      "fingerprint": "702c6423dda36cfb",
       "section": "One Arrow",
       "preview": "If they feel a pleasant feeling, they feel it while unbound. If they fe…",
-      "previous_fingerprints": []
+      "previous_fingerprints": [
+        "f16dde2f51b04d41"
+      ]
     },
     {
       "id": "p031",
@@ -222,10 +234,12 @@
     },
     {
       "id": "p032",
-      "fingerprint": "783ebdf4e3ccc91b",
+      "fingerprint": "bde429fb63a61ed2",
       "section": "One Arrow",
-      "preview": "That, bhikkhus, is the difference. That is what sets a learned noble di…",
-      "previous_fingerprints": []
+      "preview": "Bhikkhus, that is the difference. That is what sets a learned noble dis…",
+      "previous_fingerprints": [
+        "783ebdf4e3ccc91b"
+      ]
     },
     {
       "id": "p033",

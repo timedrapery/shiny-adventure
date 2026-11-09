@@ -7,7 +7,7 @@
 
 *AN 10.60, the Girimānanda Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,467 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,456 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -59,24 +59,24 @@ all that is put together, and the remembering of in-and-out breathing.
 
 **1. Recognition of Impermanence**
 
-And what, Ānanda, is the recognition of impermanence?
+And what is the recognition of impermanence, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, and reflects like this:
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, and reflects like this:
 
 'Form is impermanent, felt experience is impermanent, recognition is
 impermanent, what is put together is impermanent, knowing is impermanent.'
 
 They remain observing impermanence in the five clung-to heaps.
 
-This, Ānanda, is called the recognition of impermanence.
+Ānanda, this is called the recognition of impermanence.
 
 **2. Recognition of Not-Self**
 
-And what, Ānanda, is the recognition of not-self?
+And what is the recognition of not-self, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, and reflects like this:
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, and reflects like this:
 
 'The eye is not-self, sights are not-self, the ear is not-self, sounds are
 not-self, the nose is not-self, smells are not-self, the tongue is not-self,
@@ -85,15 +85,15 @@ mind is not-self, ideas are not-self.'
 
 They remain observing not-self in the six inner and outer sense fields.
 
-This, Ānanda, is called the recognition of not-self.
+Ānanda, this is called the recognition of not-self.
 
 **3. Recognizing What Is Unattractive**
 
-And what, Ānanda, does it mean to recognize what is unattractive?
+And what does it mean to recognize what is unattractive, Ānanda?
 
-Here, Ānanda, a bhikkhu examines this very body upward from the soles of the
-feet and downward from the tips of the hair, enclosed by skin, full of many
-kinds of impurity:
+Ānanda, a bhikkhu examines this very body upward from the soles of the feet and
+downward from the tips of the hair, enclosed by skin, full of many kinds of
+impurity:
 
 'In this body there are head hair, body hair, nails, teeth, skin; flesh,
 sinews, bones, bone marrow, kidneys; heart, liver, pleura, spleen, lungs;
@@ -102,14 +102,14 @@ sweat, fat; tears, grease, saliva, snot, fluid of the joints, urine.'
 
 They remain observing unattractiveness in this body.
 
-This, Ānanda, is what it means to recognize what is unattractive.
+Ānanda, this is what it means to recognize what is unattractive.
 
 **4. Recognition of Drawbacks**
 
-And what, Ānanda, is the recognition of drawbacks?
+And what is the recognition of drawbacks, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, and reflects like this:
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, and reflects like this:
 
 'This body has much hardship and many drawbacks. For from this body many kinds
 of illness arise, namely: diseases of the eye, ear, nose, tongue, body, head,
@@ -123,75 +123,74 @@ hunger, thirst, defecation, and urination.'
 
 They remain observing drawbacks in this body.
 
-This, Ānanda, is called the recognition of drawbacks.
+Ānanda, this is called the recognition of drawbacks.
 
 **5. Recognition Through Abandoning**
 
-And what, Ānanda, is the recognition through abandoning?
+And what is the recognition through abandoning, Ānanda?
 
-Here, Ānanda, a bhikkhu does not tolerate a sensual thought that has arisen —
-they abandon it, expel it, bring it to an end, and bring it to non-existence.
-They do not tolerate an aversive thought that has arisen — they abandon it,
-expel it, bring it to an end, and bring it to non-existence. They do not
-tolerate a cruel thought that has arisen — they abandon it, expel it, bring
-it to an end, and bring it to non-existence. They do not tolerate any bad,
-unskillful quality that has arisen — they abandon it, expel it, bring it to
-an end, and bring it to non-existence.
+Ānanda, a bhikkhu does not tolerate a sensual thought that has arisen — they
+abandon it, expel it, bring it to an end, and bring it to non-existence. They
+do not tolerate an aversive thought that has arisen — they abandon it, expel
+it, bring it to an end, and bring it to non-existence. They do not tolerate a
+cruel thought that has arisen — they abandon it, expel it, bring it to an end,
+and bring it to non-existence. They do not tolerate any bad, unskillful quality
+that has arisen — they abandon it, expel it, bring it to an end, and bring it
+to non-existence.
 
-This, Ānanda, is called the recognition through abandoning.
+Ānanda, this is called the recognition through abandoning.
 
 **6. Recognition of Fading**
 
-And what, Ānanda, is the recognition of fading?
+And what is the recognition of fading, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, and reflects like this:
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, and reflects like this:
 
 'This is peaceful, this is sublime — namely, the stilling of all that is put
 together, the relinquishing of all acquisitions, the destruction of ignorant
 wanting, fading, nibbāna.'
 
-This, Ānanda, is called the recognition of fading.
+Ānanda, this is called the recognition of fading.
 
 **7. Recognition of Quenching**
 
-And what, Ānanda, is the recognition of quenching?
+And what is the recognition of quenching, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, and reflects like this:
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, and reflects like this:
 
 'This is peaceful, this is sublime — namely, the stilling of all that is put
 together, the relinquishing of all acquisitions, the destruction of ignorant
 wanting, quenching, nibbāna.'
 
-This, Ānanda, is called the recognition of quenching.
+Ānanda, this is called the recognition of quenching.
 
 **8. Recognition of No Delight in the Whole World**
 
-And what, Ānanda, is the recognition of no delight in the whole world?
+And what is the recognition of no delight in the whole world, Ānanda?
 
-Here, Ānanda, a bhikkhu lives giving up and not grasping whatever clinging,
-mental fixation, insistence, and underlying tendencies there are in the world.
+Ānanda, a bhikkhu lives giving up and not grasping whatever clinging, mental
+fixation, insistence, and underlying tendencies there are in the world.
 
-This, Ānanda, is called the recognition of no delight in the whole world.
+Ānanda, this is called the recognition of no delight in the whole world.
 
 **9. Recognition of No Desire for All That Is Put Together**
 
-And what, Ānanda, is the recognition of no desire for all that is put
-together?
+And what is the recognition of no desire for all that is put together, Ānanda?
 
-Here, Ānanda, a bhikkhu is horrified, repelled, and disgusted by all that is
-put together.
+Ānanda, a bhikkhu is horrified, repelled, and disgusted by all that is put
+together.
 
-This, Ānanda, is called the recognition of no desire for all that is put
+Ānanda, this is called the recognition of no desire for all that is put
 together.
 
 **10. Remembering of In-and-Out Breathing**
 
-And what, Ānanda, is the remembering of in-and-out breathing?
+And what is the remembering of in-and-out breathing, Ānanda?
 
-Here, Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or
-to an empty dwelling, sits down cross-legged, sets their body upright, and
+Ānanda, a bhikkhu has gone to a wilderness, to the root of a tree, or to an
+empty dwelling, sits down cross-legged, sets their body upright, and
 establishes remembering before them.
 
 With remembering alone they breathe in; with remembering alone they breathe
@@ -248,7 +247,7 @@ like this: 'I will breathe out observing quenching.'
 They train like this: 'I will breathe in observing letting go.' They train
 like this: 'I will breathe out observing letting go.'
 
-This, Ānanda, is called the remembering of in-and-out breathing.
+Ānanda, this is called the remembering of in-and-out breathing.
 
 ### The Outcome
 
@@ -256,7 +255,8 @@ If you were to recite to the bhikkhu Girimānanda these ten recognitions, it
 is possible that after hearing the ten recognitions his illness would subside
 on the spot."
 
-Then Venerable Ānanda, having learned these ten recognitions from the Buddha, went to Venerable Girimānanda and recited them.
+Then Venerable Ānanda learned these ten recognitions from the Buddha, went to
+Venerable Girimānanda, and recited them.
 
 After Venerable Girimānanda heard the ten recognitions, his illness subsided
 on the spot. Venerable Girimānanda rose from that illness, and that illness
@@ -284,7 +284,7 @@ The tenth discourse is finished.
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
@@ -313,7 +313,7 @@ The tenth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an10.60/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an10-60-giriminanda-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `dfaf0a7d`
+- **Last editorial review:** 2026-11-08 · body version `dfa29105`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2010.60) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -336,7 +336,7 @@ The tenth discourse is finished.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.

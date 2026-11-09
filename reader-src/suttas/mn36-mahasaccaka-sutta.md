@@ -109,7 +109,7 @@ rich meals, taste plenty of rich delicacies, and drink plenty of rich drinks.
 With these they give the body back its strength, build it up, and fatten
 it."
 
-"What they gave up earlier, Aggivessana, they gather up again later. That is
+"Aggivessana, what they gave up earlier, they gather up again later. That is
 how this body grows and wastes away.
 
 "And what have you heard development of mind is, Aggivessana?"
@@ -134,8 +134,7 @@ carefully, attend well, and I will speak."
 
 The Buddha said this:
 
-"And how, Aggivessana, is someone undeveloped in body and undeveloped in
-mind?
+"And how is someone undeveloped in body and undeveloped in mind, Aggivessana?
 
 "Take an unlearned ordinary person in whom pleasant feeling arises. When
 pleasant feeling touches them, they are infatuated with pleasure and give
@@ -144,15 +143,15 @@ ends, painful feeling arises. When painful feeling touches them, they
 grieve, they wear themselves out, they wail, they beat their chest and cry,
 and they lose their bearings.
 
-"For them, Aggivessana, pleasant feeling that has arisen takes over the heart
-because the body is undeveloped, and painful feeling that has arisen takes
-over the heart because the mind is undeveloped. Whenever anyone has it both
-ways like this, with pleasant feeling taking over the heart because the body
-is undeveloped and painful feeling taking over the heart because the mind is
+"Aggivessana, for them, pleasant feeling that has arisen takes over the heart
+because the body is undeveloped, and painful feeling that has arisen takes over
+the heart because the mind is undeveloped. Whenever anyone has it both ways
+like this, with pleasant feeling taking over the heart because the body is
+undeveloped and painful feeling taking over the heart because the mind is
 undeveloped, that is how someone is undeveloped in body and undeveloped in
 mind.
 
-"And how, Aggivessana, is someone developed in body and developed in mind?
+"And how is someone developed in body and developed in mind, Aggivessana?
 
 "Take a learned noble disciple in whom pleasant feeling arises. When
 pleasant feeling touches them, they are not infatuated with pleasure and do
@@ -161,13 +160,13 @@ When it ends, painful feeling arises. When painful feeling touches them,
 they do not grieve, they do not wear themselves out, they do not wail, they
 do not beat their chest and cry, and they do not lose their bearings.
 
-"For them, Aggivessana, pleasant feeling that has arisen does not take over
-the heart because the body is developed, and painful feeling that has arisen
-does not take over the heart because the mind is developed. Whenever anyone
-has it both ways like this, with pleasant feeling not taking over the heart
-because the body is developed and painful feeling not taking over the heart
-because the mind is developed, that is how someone is developed in body and
-developed in mind."
+"Aggivessana, for them, pleasant feeling that has arisen does not take over the
+heart because the body is developed, and painful feeling that has arisen does
+not take over the heart because the mind is developed. Whenever anyone has it
+both ways like this, with pleasant feeling not taking over the heart because
+the body is developed and painful feeling not taking over the heart because the
+mind is developed, that is how someone is developed in body and developed in
+mind."
 
 ### Saccaka's Challenge
 
@@ -190,12 +189,12 @@ painful feeling of the kind that could take over the heart once it arose."
 
 ### Going Forth
 
-"Before my awakening, Aggivessana, when I was still unawakened but intent on
-awakening, I thought: 'Life at home is crowded and dusty. Going forth is
-wide open. It is not easy for someone living at home to lead the spiritual
-life utterly full and utterly pure, as if polished like a shell. What if I
-were to shave off my hair and beard, put on ochre robes, and go forth from
-home into homelessness?'
+"Aggivessana, before my awakening, when I was still unawakened but intent on
+awakening, I thought: 'Life at home is crowded and dusty. Going forth is wide
+open. It is not easy for someone living at home to lead the spiritual life
+utterly full and utterly pure, as if polished like a shell. What if I were to
+shave off my hair and beard, put on ochre robes, and go forth from home into
+homelessness?'
 
 "Some time later, while I was still young, with jet-black hair, blessed with
 youth, in the prime of life, I shaved off my hair and beard, put on ochre
@@ -209,10 +208,9 @@ unsurpassed state of peace. I went to Āḷāra Kālāma and said to him:
 'Reverend Kālāma, I want to live the spiritual life in this teaching and
 training.'
 
-"When I said this, Aggivessana, Āḷāra Kālāma said to me: 'Stay, venerable.
-This teaching is such that a sensible person can soon realize their own
-teacher's doctrine for themselves with direct knowledge, and enter and
-remain in it.'
+"Aggivessana, when I said this, Āḷāra Kālāma said to me: 'Stay, venerable. This
+teaching is such that a sensible person can soon realize their own teacher's
+doctrine for themselves with direct knowledge, and enter and remain in it.'
 
 "I quickly learned that teaching. As far as lip-service and repeating what I
 had been told, I spoke the language of knowledge and the language of the
@@ -692,10 +690,10 @@ did not take over my heart.
 
 ### Teaching and Resting
 
-"I remember, Aggivessana, teaching the Dhamma to an assembly of many
-hundreds. Each person there thinks: 'The recluse Gotama is teaching the
-Dhamma just for me.' But it should not be seen like that. The Tathāgata
-teaches others the Dhamma only so that they will understand.
+"Aggivessana, I remember teaching the Dhamma to an assembly of many hundreds.
+Each person there thinks: 'The recluse Gotama is teaching the Dhamma just for
+me.' But it should not be seen like that. The Tathāgata teaches others the
+Dhamma only so that they will understand.
 
 "When that talk is over, I steady my heart inwardly on that same sign of
 unification of mind as before. I settle it, make it direct, and bring it into
@@ -704,10 +702,9 @@ unification of mind. That is how I live all the time."
 "That is believable of Master Gotama, as it would be of an arahant, a fully
 awakened Buddha. But does Master Gotama remember sleeping during the day?"
 
-"I remember, Aggivessana, in the last month of the hot season, after the
-meal, back from alms-round, spreading out my outer robe folded in four,
-lying down on my right side, and falling asleep remembering and clearly
-knowing."
+"Aggivessana, I remember in the last month of the hot season, after the meal,
+back from alms-round, spreading out my outer robe folded in four, lying down on
+my right side, and falling asleep remembering and clearly knowing."
 
 "Some recluses and brahmins call that living in confusion, Master Gotama."
 
@@ -885,7 +882,7 @@ The sixth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn36/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn36-mahasaccaka-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `e063f77e`
+- **Last editorial review:** 2026-11-08 · body version `474dba64`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2036) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

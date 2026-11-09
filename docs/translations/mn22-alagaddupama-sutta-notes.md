@@ -143,8 +143,9 @@ source-audit calls, and edition notes that govern it.
 - `upadhi` → `support` (major)
 - `paññā` → `discernment` (major)
 - `upasama` → `calming` (minor)
-- Standard liberation formula: "Birth is finished, the spiritual life has been
-  lived, what had to be done has been done, there is nothing further for this."
+- Standard liberation formula: "Birth is worn away, the spiritual life has
+  been lived, what had to be done has been done, there is no more of this
+  state of being." This follows the governed formula record.
 
 ## Re-audit Calls
 

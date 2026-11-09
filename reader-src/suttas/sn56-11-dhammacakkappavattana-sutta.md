@@ -7,7 +7,7 @@
 
 *SN 56.11, the Dhammacakkappavattana Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,225 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,223 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -50,7 +50,7 @@ The four truths are not presented as four beliefs to memorize. The repeated sect
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>noble truth</dfn></dt>
@@ -78,7 +78,8 @@ The Buddha said this:
 
 ### The Two Extremes
 
-"Bhikkhus, one gone forth should not go near these two extremes. Which two?
+"Bhikkhus, someone who has gone forth should not go near these two extremes.
+Which two?
 
 Devotion to the pleasure of sensuality: low, vulgar, ordinary, ignoble, and
 unbeneficial.
@@ -110,7 +111,7 @@ nibbāna.
 
 ### The Noble Truth of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of dissatisfaction:
+"Bhikkhus, this is the noble truth of dissatisfaction:
 
 birth is dissatisfaction; ageing is dissatisfaction; illness is
 dissatisfaction; death is dissatisfaction; sorrow, lamentation, pain, distress,
@@ -121,7 +122,7 @@ heaps are dissatisfaction.
 
 ### The Noble Truth of the Origin of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of the origin of dissatisfaction:
+"Bhikkhus, this is the noble truth of the origin of dissatisfaction:
 
 that ignorant wanting that leads to renewed becoming, accompanied by relishing
 and passion, delighting here and there. That is:
@@ -132,14 +133,14 @@ and passion, delighting here and there. That is:
 
 ### The Noble Truth of the Quenching of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of the quenching of dissatisfaction:
+"Bhikkhus, this is the noble truth of the quenching of dissatisfaction:
 
 the complete fading and quenching of that very ignorant wanting: giving it up,
 relinquishing it, freedom, non-attachment.
 
 ### The Noble Truth of the Path
 
-"And this, bhikkhus, is the noble truth of the path of practice leading to the
+"Bhikkhus, this is the noble truth of the path of practice leading to the
 quenching of dissatisfaction:
 
 it is just this noble eightfold path:
@@ -302,7 +303,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
@@ -341,7 +342,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn56.11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `eb6d3157`
+- **Last editorial review:** 2026-11-08 · body version `b7daaea3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -368,7 +369,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[noble truth]: One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.

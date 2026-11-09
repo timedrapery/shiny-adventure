@@ -9,7 +9,7 @@
     "craving",
     "thirst",
     "excitement about getting things",
-    "wanting things you can't have right now"
+    "wanting something you can't have right now"
   ],
   "discouraged_translations": [
     "desire",
@@ -41,8 +41,8 @@
     },
     {
       "context": "In plain-English newcomer explanation",
-      "rendering": "wanting things you can't have right now",
-      "notes": "Use when immediate practical recognition matters more than compact doctrinal style."
+      "rendering": "wanting something you can't have right now",
+      "notes": "Use this in reader guides, glossary definitions, and other newcomer explanation, where immediate practical recognition matters more than compact doctrinal style. Do not use this inside a translated sutta: it cannot carry the compounds and the dependent-arising chain, and it would narrow what the Pali says."
     }
   ],
   "related_terms": [

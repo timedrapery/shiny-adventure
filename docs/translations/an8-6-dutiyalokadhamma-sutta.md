@@ -82,7 +82,7 @@ They welcome gain and resist loss. They welcome fame and resist disrepute. They
 welcome praise and resist blame. They welcome pleasure and resist pain.
 
 Caught in welcoming and resisting like this, they are not freed from birth,
-aging, death, sorrow, lamentation, pain, sadness, and distress. I say they are
+ageing, death, sorrow, lamentation, pain, sadness, and distress. I say they are
 not freed from dissatisfaction.
 
 ### When the Conditions Do Not Take Over
@@ -126,7 +126,7 @@ They do not welcome gain or resist loss. They do not welcome fame or resist
 disrepute. They do not welcome praise or resist blame. They do not welcome
 pleasure or resist pain.
 
-They give up welcoming and resisting. This frees them from birth, aging,
+They give up welcoming and resisting. This frees them from birth, ageing,
 death, sorrow, lamentation, pain, sadness, and distress. I say they are freed
 from dissatisfaction.
 

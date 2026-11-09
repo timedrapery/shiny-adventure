@@ -111,7 +111,7 @@ When this was said, the bhikkhu Sāti sat silent, abashed, shoulders drooping,
 downcast, dejected, unable to respond.
 
 Knowing this, the Buddha said to him: "Stupid man, you will be known by your
-own pernicious view. I shall now question the bhikkhus about this."
+own pernicious view. I will now question the bhikkhus about this."
 
 ### Knowing Named by Its Condition
 
@@ -128,33 +128,32 @@ condition there is no arising of knowing. But still this bhikkhu Sāti
 misrepresents me by his wrong grasp, harms himself, and accumulates much
 demerit. That will be for his long-lasting harm and suffering.
 
-Bhikkhus, whatever knowing arises in dependence upon a condition, it is
-reckoned by that very condition. Knowing that arises in dependence on eye and
-sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
+Bhikkhus, whatever knowing arises depending on a condition, it is reckoned by
+that very condition. Knowing that arises in dependence on eye and sights is
+reckoned as eye-knowing. Knowing that arises in dependence on ear and sounds is
+reckoned as ear-knowing. Knowing that arises in dependence on nose and smells
+is reckoned as nose-knowing. Knowing that arises in dependence on tongue and
+tastes is reckoned as tongue-knowing. Knowing that arises in dependence on body
+and touches is reckoned as body-knowing. Knowing that arises in dependence on
+thinking mind and ideas is reckoned as mind-knowing.
+
+It is like fire. Whatever fire burns depending on a condition, it is reckoned
+by that very condition. A fire that burns in dependence on logs is reckoned as
+a log-fire. A fire that burns in dependence on kindling-chips is reckoned as a
+kindling-chip-fire. A fire that burns in dependence on grass is reckoned as a
+grass-fire. A fire that burns in dependence on cow-dung is reckoned as a
+cow-dung-fire. A fire that burns in dependence on husks is reckoned as a
+husk-fire. A fire that burns in dependence on rubbish is reckoned as a
+rubbish-fire.
+
+In the same way, bhikkhus, whatever knowing arises depending on a condition, it
+is reckoned by that very condition. Knowing that arises in dependence on eye
+and sights is reckoned as eye-knowing. Knowing that arises in dependence on ear
 and sounds is reckoned as ear-knowing. Knowing that arises in dependence on
 nose and smells is reckoned as nose-knowing. Knowing that arises in dependence
 on tongue and tastes is reckoned as tongue-knowing. Knowing that arises in
 dependence on body and touches is reckoned as body-knowing. Knowing that arises
 in dependence on thinking mind and ideas is reckoned as mind-knowing.
-
-It is like fire. Whatever fire burns in dependence upon a condition, it is
-reckoned by that very condition. A fire that burns in dependence on logs is
-reckoned as a log-fire. A fire that burns in dependence on kindling-chips is
-reckoned as a kindling-chip-fire. A fire that burns in dependence on grass is
-reckoned as a grass-fire. A fire that burns in dependence on cow-dung is
-reckoned as a cow-dung-fire. A fire that burns in dependence on husks is
-reckoned as a husk-fire. A fire that burns in dependence on rubbish is reckoned
-as a rubbish-fire.
-
-In the same way, bhikkhus, whatever knowing arises in dependence upon a
-condition, it is reckoned by that very condition. Knowing that arises in
-dependence on eye and sights is reckoned as eye-knowing. Knowing that arises in
-dependence on ear and sounds is reckoned as ear-knowing. Knowing that arises in
-dependence on nose and smells is reckoned as nose-knowing. Knowing that arises
-in dependence on tongue and tastes is reckoned as tongue-knowing. Knowing that
-arises in dependence on body and touches is reckoned as body-knowing. Knowing
-that arises in dependence on thinking mind and ideas is reckoned as
-mind-knowing.
 
 ### What Has Come to Be
 
@@ -498,12 +497,12 @@ This is how this entire mass of dissatisfaction ceases.
 
 Knowing and seeing in this way, bhikkhus, would you run back to the past,
 wondering: 'Did we exist in past time? Did we not? What were we in past time?
-How were we? Having been what, what did we become?'"
+How were we? After being what, what did we become?'"
 
 "No, Bhante."
 
 "Would you run forward to the future, wondering: 'Will we exist in future time?
-Will we not? What will we be? How will we be? Having been what, what will we
+Will we not? What will we be? How will we be? After being what, what will we
 become?'"
 
 "No, Bhante."
@@ -581,7 +580,7 @@ that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
 Being full of favoring and opposing in this way, whatever felt experience he
-experiences — pleasant, painful, or mixed — he approves of it, welcomes it,
+experiences — pleasant, painful, or neutral — he approves of it, welcomes it,
 keeps clinging to it. From this, relishing arises. The relishing of felt
 experience — that is taking personally. With taking personally as condition,
 becoming; with becoming as condition, birth; with birth as condition, ageing
@@ -597,7 +596,7 @@ understand that release of mind and release through discernment where those
 arisen bad, unwholesome qualities cease without remainder.
 
 Being full of favoring and opposing in this way, whatever felt experience he
-experiences — pleasant, painful, or mixed — he approves of it, welcomes it,
+experiences — pleasant, painful, or neutral — he approves of it, welcomes it,
 keeps clinging to it. From this, relishing arises. The relishing of felt
 experience — that is taking personally. With taking personally as condition,
 becoming; with becoming as condition, birth; with birth as condition, ageing
@@ -606,12 +605,12 @@ this entire mass of dissatisfaction originates.
 
 ### The Arising of the Tathāgata
 
-Here, bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and
-fully awakened, accomplished in knowledge and conduct, well-departed, knower
-of the world, unsurpassed guide for those to be tamed, teacher of gods and
-humans, awakened, blessed. Having by himself, with direct knowledge, realized
-this world with its gods, Māras, and Brahmās, this population with its recluses
-and brahmins, its gods and humans, he makes it known to others. He teaches a
+Bhikkhus, a Tathāgata arises in the world — an arahant, perfectly and fully
+awakened, accomplished in knowledge and conduct, well-departed, knower of the
+world, unsurpassed guide for those to be tamed, teacher of gods and humans,
+awakened, blessed. He has realized for himself, with direct knowledge, this
+world with its gods, Māras, and Brahmās, this population with its recluses and
+brahmins, its gods and humans, and he makes it known to others. He teaches a
 Dhamma that is good in the beginning, good in the middle, and good in the end,
 with meaning and with phrasing. He reveals a spiritual life that is utterly
 full and utterly pure.
@@ -750,7 +749,7 @@ that release of mind and release through discernment where those arisen bad,
 unwholesome qualities cease without remainder.
 
 Once they have given up favoring and opposing in this way, whatever felt
-experience they experience — pleasant, painful, or mixed — they do not approve
+experience they experience — pleasant, painful, or neutral — they do not approve
 of it, do not welcome it, do not keep clinging to it. As a result, the
 relishing of felt experience ceases. With the cessation of relishing, taking
 personally ceases; with the cessation of taking personally, becoming ceases;
@@ -767,7 +766,7 @@ They truly understand that release of mind and release through discernment where
 those arisen bad, unwholesome qualities cease without remainder.
 
 Once they have given up favoring and opposing in this way, whatever felt
-experience they experience — pleasant, painful, or mixed — they do not approve
+experience they experience — pleasant, painful, or neutral — they do not approve
 of it, do not welcome it, do not keep clinging to it. As a result, the
 relishing of felt experience ceases. With the cessation of relishing, taking
 personally ceases; with the cessation of taking personally, becoming ceases;

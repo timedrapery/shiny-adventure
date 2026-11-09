@@ -7,7 +7,7 @@
 
 *MN 19, the Dvedhāvitakka Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,777 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 10 min · 1,774 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -297,9 +297,9 @@ eightfold path, that is: right view, right attitude, right speech, right
 action, right livelihood, right effort, right remembering, and right
 unification of mind.
 
-So, bhikkhus, the safe and secure path leading to delight has been opened by
-me; the bad path has been closed off; the male decoy has been removed; the
-female decoy has been destroyed.
+So, bhikkhus, I have opened the safe and secure path leading to delight. I have
+closed off the bad path. I have removed the male decoy and destroyed the female
+decoy.
 
 ### The Instruction
 
@@ -412,7 +412,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn19/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn19-dvedhavitakka-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `736cf611`
+- **Last editorial review:** 2026-11-08 · body version `be7796b4`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2019) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -88,7 +88,7 @@ The numbers beside the verses count the verses within this discourse.
 
 <span class="verse-number">10</span><span class="verse-line">Not taking up views,</span>
 <span class="verse-line">virtuous and accomplished in vision,</span>
-<span class="verse-line">having removed greed for sensuality,</span>
+<span class="verse-line">with greed for sensuality removed,</span>
 <span class="verse-line verse-line--last">they do not come again to lie in a womb.</span>
 {: .verse }
 
@@ -115,7 +115,7 @@ The eighth discourse, on friendliness, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/snp1.8/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/snp1-8-metta-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `e8e31b4c`
+- **Last editorial review:** 2026-11-09 · body version `41bc1fb2`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Snp%201.8) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -20,7 +20,7 @@ The current governed surface includes:
 - the MN 137 closing three-establishments-of-sati line
 - the MN 148 pleasant-feeling untrained and trained response lines
 - the MN 148 painful-feeling untrained and trained response lines
-- the MN 148 mixed-feeling undiscerned and discerned response lines
+- the MN 148 neutral-feeling undiscerned and discerned response lines
 - the SN 36.6 one-feeling / two-feelings painful-feeling contrast
 - the SN 36.6 plural feeling-discernment lines
 
@@ -54,7 +54,7 @@ translation notes.
 - `mn148-pleasant-feeling-trained-response`
 - `mn148-painful-feeling-untrained-response`
 - `mn148-painful-feeling-trained-response`
-- `mn148-mixed-feeling-undiscerned-response`
+- `mn148-neutral-feeling-undiscerned-response`
 - `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati`
 - `sn36-6-two-feelings-painful-feeling`
 - `sn36-6-one-feeling-painful-feeling`

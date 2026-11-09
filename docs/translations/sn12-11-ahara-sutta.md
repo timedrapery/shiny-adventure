@@ -48,7 +48,7 @@ What four?
 Edible-food nutriment, whether coarse or fine; contact nutriment is the second;
 mental-intention nutriment is the third; knowing nutriment is the fourth.
 
-These, bhikkhus, are the four nutriments that keep beings going once they have
+Bhikkhus, these are the four nutriments that keep beings going once they have
 come to be, and that support those looking to come to be.
 
 ### Where They Come From
@@ -105,7 +105,7 @@ and ignorance produces it.
 
 ### The Chain
 
-"And so, bhikkhus, with ignorance as condition, putting things together;
+"Bhikkhus, so with ignorance as condition, putting things together;
 with putting things together as condition, knowing;
 with knowing as condition, name-and-form;
 with name-and-form as condition, the six fields of experience;

@@ -33,10 +33,10 @@ great fruit and great benefit; it is glorious and far-reaching. And how is the
 observance day kept with its eight factors so that it bears great fruit and
 great benefit, and is glorious and far-reaching?
 
-Here, bhikkhus, a noble disciple reflects: 'For as long as they live, the
-arahants give up killing living beings and refrain from it. They have set aside
-rod and sword. They are scrupulous and kind, and live full of sympathy for all
-living beings.
+Bhikkhus, a noble disciple reflects: 'For as long as they live, the arahants
+give up killing living beings and refrain from it. They have set aside rod and
+sword. They are scrupulous and kind, and live full of sympathy for all living
+beings.
 
 'Today, for this night and day, I give up killing living beings and refrain
 from it. I set aside rod and sword. I am scrupulous and kind, and I live full

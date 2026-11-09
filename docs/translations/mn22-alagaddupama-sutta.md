@@ -99,7 +99,7 @@ When this was said, the bhikkhu Ariṭṭha sat silent, abashed, shoulders
 drooping, downcast, dejected, unable to respond.
 
 Knowing this, the Buddha said: "Stupid man, you will be known by your own
-pernicious view. I shall now question the bhikkhus about this."
+pernicious view. I will now question the bhikkhus about this."
 
 Then the Buddha said to the bhikkhus: "Do you understand my teaching as
 the bhikkhu Ariṭṭha does, when he misrepresents me by his wrong grasp, harms
@@ -129,15 +129,15 @@ sensual desire, sensual recognition, and sensual thinking.
 
 ### Wrong Grasp and Right Grasp
 
-Here, some stupid persons learn the teaching — suttas, mixed texts, analyses,
-verses, inspired utterances, 'thus it was said' texts, birth stories,
-remarkable accounts, and question-and-answer texts. Once they have learned it,
-they do not examine the meaning of those teachings with discernment. Because
-they do not examine the meaning with discernment, they do not arrive at a
-considered acceptance of those teachings. They learn the teaching for the sake
-of finding fault and winning arguments. They do not experience the goal for
-which they learned. Those teachings, being wrongly grasped, lead to their
-long-lasting harm and suffering. Why is that? Because of wrong grasp.
+Some stupid persons learn the teaching — suttas, mixed texts, analyses, verses,
+inspired utterances, 'thus it was said' texts, birth stories, remarkable
+accounts, and question-and-answer texts. Once they have learned it, they do not
+examine the meaning of those teachings with discernment. Because they do not
+examine the meaning with discernment, they do not arrive at a considered
+acceptance of those teachings. They learn the teaching for the sake of finding
+fault and winning arguments. They do not experience the goal for which they
+learned. Those teachings, being wrongly grasped, lead to their long-lasting
+harm and suffering. Why is that? Because of wrong grasp.
 
 Suppose, bhikkhus, a person wants a cobra and goes searching for one. They find
 a large cobra and grasp it by the coil or the tail. That cobra twists back and
@@ -179,8 +179,8 @@ about it, or ask competent bhikkhus.
 
 ### The Teaching as a Raft
 
-Bhikkhus, I shall teach you the teaching as like a raft — for crossing over,
-not for holding on. Listen carefully, apply your mind well, and I shall speak."
+Bhikkhus, I will teach you the teaching as like a raft — for crossing over, not
+for holding on. Listen carefully, apply your mind well, and I will speak."
 
 "Yes, Bhante," they replied.
 
@@ -217,18 +217,18 @@ raft, you should let go even of teachings — let alone what is not the teaching
 
 Bhikkhus, there are these six grounds for views. What six?
 
-Here, an unlearned ordinary person who has not seen the noble ones, who is
-unskilled and untrained in the teaching of the noble ones, who has not seen
-true persons and is unskilled and untrained in their teaching — regards form
-as: 'This is mine, I am this, this is my self.' They regard felt experience as:
-'This is mine, I am this, this is my self.' They regard recognition as: 'This
-is mine, I am this, this is my self.' They regard what is put together as:
-'This is mine, I am this, this is my self.' They regard whatever is seen,
-heard, sensed, known, reached, sought, and explored by the heart as:
-'This is mine, I am this, this is my self.' And as for this ground for views
-— 'The world and self are one and the same. After death I will be that:
-permanent, stable, eternal, not subject to change, lasting as long as eternity
-itself' — they regard this too as: 'This is mine, I am this, this is my self.'
+An unlearned ordinary person who has not seen the noble ones, who is unskilled
+and untrained in the teaching of the noble ones, who has not seen true persons
+and is unskilled and untrained in their teaching — regards form as: 'This is
+mine, I am this, this is my self.' They regard felt experience as: 'This is
+mine, I am this, this is my self.' They regard recognition as: 'This is mine, I
+am this, this is my self.' They regard what is put together as: 'This is mine,
+I am this, this is my self.' They regard whatever is seen, heard, sensed,
+known, reached, sought, and explored by the heart as: 'This is mine, I am this,
+this is my self.' And as for this ground for views — 'The world and self are
+one and the same. After death I will be that: permanent, stable, eternal, not
+subject to change, lasting as long as eternity itself' — they regard this too
+as: 'This is mine, I am this, this is my self.'
 
 But a learned noble disciple who has seen the noble ones, who is skilled and
 trained in their teaching, who has seen true persons and is skilled and trained
@@ -250,45 +250,44 @@ Seeing in this way, they are not anxious about what does not exist."
 When this was said, a certain bhikkhu asked: "But, Bhante, can there be anxiety
 about what does not exist externally?"
 
-"There can, bhikkhu," the Buddha said. "Here, someone thinks: 'I once
-had it, but no longer have it. I could have it, but I am not getting it.'
-They sorrow, wail, and lament, beating their breast and falling into confusion.
-That is how there is anxiety about what does not exist externally."
+"There can, bhikkhu," the Buddha said. "Someone thinks: 'I once had it, but no
+longer have it. I could have it, but I am not getting it.' They sorrow, wail,
+and lament, beating their breast and falling into confusion. That is how there
+is anxiety about what does not exist externally."
 
 "But can there be no anxiety about what does not exist externally?"
 
-"There can, bhikkhu. Here, someone does not think: 'I once had it, but no
-longer have it. I could have it, but I am not getting it.' They do not sorrow,
-wail, or lament, beating their breast and falling into confusion. That is how
-there is no anxiety about what does not exist externally."
+"There can, bhikkhu. Someone does not think: 'I once had it, but no longer have
+it. I could have it, but I am not getting it.' They do not sorrow, wail, or
+lament, beating their breast and falling into confusion. That is how there is
+no anxiety about what does not exist externally."
 
 "But, Bhante, can there be anxiety about what does not exist internally?"
 
-"There can, bhikkhu. Here, someone holds this view: 'The world and self are
+"There can, bhikkhu. Someone holds this view: 'The world and self are one and
+the same. After death I will be that: permanent, stable, eternal, not subject
+to change, lasting as long as eternity itself.' They hear the Tathāgata or a
+disciple of the Tathāgata teaching the Dhamma for the uprooting of all grounds
+for views, fixations, obsessions, insistences, and underlying tendencies; for
+the calming of all putting-things-together; for the relinquishing of all
+supports; for the ending of ignorant wanting; for fading, cessation, nibbāna.
+They think: 'I will be cut off! I will be destroyed! I will not exist at all!'
+They sorrow, wail, and lament, beating their breast and falling into confusion.
+That is how there is anxiety about what does not exist internally."
+
+"But can there be no anxiety about what does not exist internally?"
+
+"There can, bhikkhu. Someone does not hold this view: 'The world and self are
 one and the same. After death I will be that: permanent, stable, eternal, not
 subject to change, lasting as long as eternity itself.' They hear the Tathāgata
 or a disciple of the Tathāgata teaching the Dhamma for the uprooting of all
 grounds for views, fixations, obsessions, insistences, and underlying
 tendencies; for the calming of all putting-things-together; for the
 relinquishing of all supports; for the ending of ignorant wanting; for fading,
-cessation, nibbāna. They think: 'I will be cut off! I will be destroyed! I
-will not exist at all!' They sorrow, wail, and lament, beating their breast
-and falling into confusion. That is how there is anxiety about what does not
-exist internally."
-
-"But can there be no anxiety about what does not exist internally?"
-
-"There can, bhikkhu. Here, someone does not hold this view: 'The world and
-self are one and the same. After death I will be that: permanent, stable,
-eternal, not subject to change, lasting as long as eternity itself.' They
-hear the Tathāgata or a disciple of the Tathāgata teaching the Dhamma for the
-uprooting of all grounds for views, fixations, obsessions, insistences, and
-underlying tendencies; for the calming of all putting-things-together; for the
-relinquishing of all supports; for the ending of ignorant wanting; for fading,
-cessation, nibbāna. They do not think: 'I will be cut off! I will be
-destroyed! I will not exist at all!' They do not sorrow, wail, or lament,
-beating their breast and falling into confusion. That is how there is no
-anxiety about what does not exist internally.
+cessation, nibbāna. They do not think: 'I will be cut off! I will be destroyed!
+I will not exist at all!' They do not sorrow, wail, or lament, beating their
+breast and falling into confusion. That is how there is no anxiety about what
+does not exist internally.
 
 ### No Permanent Possession, No Safe Self-View
 
@@ -384,13 +383,13 @@ coarse or subtle; inferior or superior; far or near — all knowing is to be
 seen as it really is with right discernment: 'Not mine, I am not this, this is
 not my self.'
 
-Seeing this, bhikkhus, a learned noble disciple grows disenchanted with form,
+Bhikkhus, seeing this, a learned noble disciple grows disenchanted with form,
 grows disenchanted with felt experience, grows disenchanted with recognition,
 grows disenchanted with what is put together, grows disenchanted with knowing.
-Growing disenchanted, they fade. Fading, they are released. Being released, the
-knowledge arises: 'Released.' They understand: 'Birth is finished, the
-spiritual life has been lived, what had to be done has been done, there is
-nothing further for this.'
+As they grow disenchanted, their passion fades. Through its fading, they are
+released. When it is released, there is the knowledge: 'It is released.' They
+discern: 'Birth is worn away, the spiritual life has been lived, what had to be
+done has been done, there is no more of this state of being.'
 
 ### The Five Epithets of Liberation
 
@@ -399,31 +398,31 @@ filled in the moat; someone who has pulled up the stake; someone who is
 unlatched; and a noble one with banner lowered, burden dropped, and fully
 detached.
 
-And how has a bhikkhu lifted the crossbar? Here, a bhikkhu has abandoned
-ignorance, cut it off at the root, made it like a palm stump, done away with
-it, so that it is not liable to arise in the future. That is how a bhikkhu has
-lifted the crossbar.
+And how has a bhikkhu lifted the crossbar? A bhikkhu has abandoned ignorance,
+cut it off at the root, made it like a palm stump, done away with it, so that
+it is not liable to arise in the future. That is how a bhikkhu has lifted the
+crossbar.
 
-And how has a bhikkhu filled in the moat? Here, a bhikkhu has abandoned the
+And how has a bhikkhu filled in the moat? A bhikkhu has abandoned the
 transmigration through births in future becoming, cut it off at the root, made
 it like a palm stump, done away with it, so that it is not liable to arise in
 the future. That is how a bhikkhu has filled in the moat.
 
-And how has a bhikkhu pulled up the stake? Here, a bhikkhu has abandoned
-ignorant wanting, cut it off at the root, made it like a palm stump, done away
-with it, so that it is not liable to arise in the future. That is how a bhikkhu
-has pulled up the stake.
+And how has a bhikkhu pulled up the stake? A bhikkhu has abandoned ignorant
+wanting, cut it off at the root, made it like a palm stump, done away with it,
+so that it is not liable to arise in the future. That is how a bhikkhu has
+pulled up the stake.
 
-And how is a bhikkhu unlatched? Here, a bhikkhu has abandoned the five lower
-fetters, cut them off at the root, made them like a palm stump, done away with
-them, so that they are not liable to arise in the future. That is how a bhikkhu
-is unlatched.
+And how is a bhikkhu unlatched? A bhikkhu has abandoned the five lower fetters,
+cut them off at the root, made them like a palm stump, done away with them, so
+that they are not liable to arise in the future. That is how a bhikkhu is
+unlatched.
 
-And how is a bhikkhu a noble one with banner lowered, burden dropped, and
-fully detached? Here, a bhikkhu has abandoned the conceit 'I am', cut it off
-at the root, made it like a palm stump, done away with it, so that it is not
-liable to arise in the future. That is how a bhikkhu is a noble one with banner
-lowered, burden dropped, and fully detached.
+And how is a bhikkhu a noble one with banner lowered, burden dropped, and fully
+detached? A bhikkhu has abandoned the conceit 'I am', cut it off at the root,
+made it like a palm stump, done away with it, so that it is not liable to arise
+in the future. That is how a bhikkhu is a noble one with banner lowered, burden
+dropped, and fully detached.
 
 ### The Liberated One Is Not Found
 

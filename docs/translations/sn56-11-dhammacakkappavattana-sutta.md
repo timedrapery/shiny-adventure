@@ -38,7 +38,8 @@ The Buddha said this:
 
 ### The Two Extremes
 
-"Bhikkhus, one gone forth should not go near these two extremes. Which two?
+"Bhikkhus, someone who has gone forth should not go near these two extremes.
+Which two?
 
 Devotion to the pleasure of sensuality: low, vulgar, ordinary, ignoble, and
 unbeneficial.
@@ -70,7 +71,7 @@ nibbāna.
 
 ### The Noble Truth of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of dissatisfaction:
+"Bhikkhus, this is the noble truth of dissatisfaction:
 
 birth is dissatisfaction; ageing is dissatisfaction; illness is
 dissatisfaction; death is dissatisfaction; sorrow, lamentation, pain, distress,
@@ -81,7 +82,7 @@ heaps are dissatisfaction.
 
 ### The Noble Truth of the Origin of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of the origin of dissatisfaction:
+"Bhikkhus, this is the noble truth of the origin of dissatisfaction:
 
 that ignorant wanting that leads to renewed becoming, accompanied by relishing
 and passion, delighting here and there. That is:
@@ -92,14 +93,14 @@ and passion, delighting here and there. That is:
 
 ### The Noble Truth of the Quenching of Dissatisfaction
 
-"And this, bhikkhus, is the noble truth of the quenching of dissatisfaction:
+"Bhikkhus, this is the noble truth of the quenching of dissatisfaction:
 
 the complete fading and quenching of that very ignorant wanting: giving it up,
 relinquishing it, freedom, non-attachment.
 
 ### The Noble Truth of the Path
 
-"And this, bhikkhus, is the noble truth of the path of practice leading to the
+"Bhikkhus, this is the noble truth of the path of practice leading to the
 quenching of dissatisfaction:
 
 it is just this noble eightfold path:

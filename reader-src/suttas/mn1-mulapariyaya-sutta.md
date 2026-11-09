@@ -7,7 +7,7 @@
 
 *MN 1, the Mūlapariyāya Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,940 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 22 min · 3,939 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -57,9 +57,9 @@ The Buddha said this:
 
 ### The Ordinary Person
 
-"Here, bhikkhus, an unlearned ordinary person, who has no regard for noble
-ones and is untrained and undisciplined in their Dhamma, who has no regard for
-good people and is untrained and undisciplined in their Dhamma:
+"Bhikkhus, an unlearned ordinary person, who has no regard for noble ones and
+is untrained and undisciplined in their Dhamma, who has no regard for good
+people and is untrained and undisciplined in their Dhamma:
 
 - They recognize earth as earth. Once they have recognized earth as earth, they
   think of themselves as earth, they think of themselves in earth, they think of
@@ -408,7 +408,7 @@ released through final knowledge:
   or apart from it, does not think of it as 'mine', and does not delight in it.
 - Why? The Tathāgata knows that delight is the root of
   dissatisfaction, that with becoming there is birth, and that for whatever is
-  born there are aging and death. Therefore, with the wearing away, fading,
+  born there are ageing and death. Therefore, with the wearing away, fading,
   quenching, giving up, and relinquishment of ignorant wanting in every way,
   the Tathāgata has awakened to unsurpassed full awakening, I say.
 
@@ -445,7 +445,7 @@ had said.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>oneness</dfn></dt>
@@ -484,7 +484,7 @@ had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn1/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn1-mulapariyaya-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `dc1ae324`
+- **Last editorial review:** 2026-08-23 · body version `de3c8da7`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%201) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -514,7 +514,7 @@ had said.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[oneness]: This project's rendering of "ekatta" in MN 121 -- the single recognition the mind rests on at each step, once the coarser ones have been set aside.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.

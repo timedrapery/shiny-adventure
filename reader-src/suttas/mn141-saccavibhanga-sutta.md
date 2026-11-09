@@ -7,7 +7,7 @@
 
 *MN 141, the Saccavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,509 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,511 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -94,60 +94,60 @@ And which four?
 
 ### The Noble Truth of Dissatisfaction
 
-And what, friends, is the noble truth of dissatisfaction?
+And what is the noble truth of dissatisfaction, friends?
 
 Birth is dissatisfaction. Ageing is dissatisfaction. Death is dissatisfaction.
 Sorrow, lamentation, pain, distress, and despair are dissatisfaction. Wanting
 something and not getting it is also dissatisfaction. In brief, the
 five clung-to heaps are dissatisfaction.
 
-And what, friends, is birth?
+And what is birth, friends?
 
 Whatever birth, being born, descent, appearance, manifestation of the heaps,
 and obtaining of the fields there is for the various beings in the various
 classes of beings: this is called birth.
 
-And what, friends, is ageing?
+And what is ageing, friends?
 
 Whatever ageing, wearing out, brokenness of teeth, greying of hair, wrinkling
 of skin, decline of life, and maturing of the faculties there is for the
 various beings in the various classes of beings: this is called ageing.
 
-And what, friends, is death?
+And what is death, friends?
 
 Whatever passing away, vanishing, breaking up, disappearance, dying, death,
 time-ending, breakup of the heaps, laying down of the corpse, and cutting off
 of the life faculty there is for the various beings in the various classes of
 beings: this is called death.
 
-And what, friends, is sorrow?
+And what is sorrow, friends?
 
 When someone is affected by some loss or struck by some dissatisfactory thing,
 the sorrowing, grieving, inner sorrow, and inner grief that arise: this is
 called sorrow.
 
-And what, friends, is lamentation?
+And what is lamentation, friends?
 
 When someone is affected by some loss or struck by some dissatisfactory thing,
 the crying out, lamenting, and wailing that arise: this is called lamentation.
 
-And what, friends, is pain?
+And what is pain, friends?
 
 Whatever bodily pain, bodily unpleasantness, or painful unpleasant feeling born
 of body-contact there is: this is called pain.
 
-And what, friends, is distress?
+And what is distress, friends?
 
 Whatever mental pain, mental unpleasantness, or painful unpleasant feeling born
 of mind-contact there is: this is called distress.
 
-And what, friends, is despair?
+And what is despair, friends?
 
 When someone is affected by some loss or struck by some dissatisfactory thing,
 the exhaustion, despair, and desperate affliction that arise: this is called
 despair.
 
-And what, friends, is 'wanting something and not getting it is also
+Friends, what is 'wanting something and not getting it is also
 dissatisfaction'?
 
 For beings subject to birth, this wish arises: 'Oh, if only we were not subject
@@ -159,8 +159,8 @@ pain, distress, and despair, the same wish arises: 'Oh, if only this would not
 come to us.' But that is not gained by wishing. This too is 'wanting something
 and not getting it is also dissatisfaction.'
 
-And what, friends, are the five clung-to heaps that in brief are
-dissatisfaction?
+And what are the five clung-to heaps that in brief are dissatisfaction,
+friends?
 
 They are:
 
@@ -176,7 +176,7 @@ This is called the noble truth of dissatisfaction.
 
 ### The Noble Truth of the Origin of Dissatisfaction
 
-And what, friends, is the noble truth of the origin of dissatisfaction?
+And what is the noble truth of the origin of dissatisfaction, friends?
 
 It is that ignorant wanting that leads to renewed becoming, accompanied by
 relishing and passion, delighting here and there. That is:
@@ -189,7 +189,7 @@ This is called the noble truth of the origin of dissatisfaction.
 
 ### The Noble Truth of the Quenching of Dissatisfaction
 
-And what, friends, is the noble truth of the quenching of dissatisfaction?
+And what is the noble truth of the quenching of dissatisfaction, friends?
 
 It is the complete fading and quenching of that very ignorant wanting: giving
 it up, relinquishing it, freedom, non-attachment.
@@ -198,7 +198,7 @@ This is called the noble truth of the quenching of dissatisfaction.
 
 ### The Noble Truth of the Path
 
-And what, friends, is the noble truth of the path of practice leading to the
+Friends, what is the noble truth of the path of practice leading to the
 quenching of dissatisfaction?
 
 It is just this noble eightfold path:
@@ -214,7 +214,7 @@ It is just this noble eightfold path:
 
 #### Right View
 
-And what, friends, is right view?
+And what is right view, friends?
 
 Knowledge of dissatisfaction, knowledge of the origin of dissatisfaction,
 knowledge of the quenching of dissatisfaction, and knowledge of the path of
@@ -223,38 +223,38 @@ view.
 
 #### Right Attitude
 
-And what, friends, is right attitude?
+And what is right attitude, friends?
 
 An attitude of renunciation, an attitude of non-ill-will, and an attitude of
 non-harming. This is called right attitude.
 
 #### Right Speech
 
-And what, friends, is right speech?
+And what is right speech, friends?
 
 Abstaining from false speech, abstaining from divisive speech, abstaining from
 harsh speech, and abstaining from idle chatter. This is called right speech.
 
 #### Right Action
 
-And what, friends, is right action?
+And what is right action, friends?
 
 Abstaining from killing living beings, abstaining from taking what is not
 given, and abstaining from sexual misconduct. This is called right action.
 
 #### Right Livelihood
 
-And what, friends, is right livelihood?
+And what is right livelihood, friends?
 
-Here a noble disciple, having given up wrong livelihood, earns a living by
-right livelihood. This is called right livelihood.
+A noble disciple gives up wrong livelihood and earns a living by right
+livelihood. This is called right livelihood.
 
 #### Right Effort
 
-And what, friends, is right effort?
+And what is right effort, friends?
 
-Here a bhikkhu arouses desire, makes effort, stirs up energy, steadies the
-heart, and strives:
+A bhikkhu arouses desire, makes effort, stirs up energy, steadies the heart,
+and strives:
 
 - so that unarisen harmful, unwholesome qualities do not arise
 - so that arisen harmful, unwholesome qualities are abandoned
@@ -266,32 +266,32 @@ This is called right effort.
 
 #### Right Remembering
 
-And what, friends, is right remembering?
+And what is right remembering, friends?
 
-Here a bhikkhu remains observing the body in relation to the body, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+A bhikkhu remains observing the body in relation to the body, ardent, with
+clear knowing, with remembering, and with coveting and distress about the world
+put aside.
 
 They remain observing felt experience in relation to felt experience, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+with clear knowing, with remembering, and with coveting and distress about the
+world put aside.
 
-They remain observing the heart in relation to the heart, ardent,
-with clear knowing, with remembering, having removed coveting and distress
-regarding the world.
+They remain observing the heart in relation to the heart, ardent, with clear
+knowing, with remembering, and with coveting and distress about the world put
+aside.
 
 They remain observing dhammas among dhammas, ardent, with clear knowing, with
-remembering, having removed coveting and distress regarding the world.
+remembering, and with coveting and distress about the world put aside.
 
 This is called right remembering.
 
 #### Right Unification of Mind
 
-And what, friends, is right unification of mind?
+And what is right unification of mind, friends?
 
-Here a bhikkhu, quite secluded from sensuality, secluded from unwholesome
-dhammas, enters and remains in the first mental theme, with thinking and
-pondering, with rejoicing and satisfaction born of seclusion.
+A bhikkhu, quite secluded from sensuality, secluded from unwholesome dhammas,
+enters and remains in the first mental theme, with thinking and pondering, with
+rejoicing and satisfaction born of seclusion.
 
 With the subsiding of thinking and pondering, with inner clarity and
 singleness of mind, they enter and remain in the second mental theme, without
@@ -366,7 +366,7 @@ what Venerable Sāriputta had said.
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
@@ -425,7 +425,7 @@ what Venerable Sāriputta had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn141/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn141-saccavibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `3120386d`
+- **Last editorial review:** 2026-11-08 · body version `4b7012b3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20141) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -465,7 +465,7 @@ what Venerable Sāriputta had said.
 *[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.

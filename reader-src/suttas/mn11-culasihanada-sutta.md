@@ -43,11 +43,11 @@ The Buddha said this:
 
 ### The Lion's Roar
 
-"Only here, bhikkhus, is there a recluse; only here a second recluse; only
-here a third recluse; only here a fourth recluse. Other schools are empty of
+"Bhikkhus, only here is there a recluse; only here a second recluse; only here
+a third recluse; only here a fourth recluse. Other schools are empty of
 recluses.
 
-That, bhikkhus, is how you should rightly roar your lion's roar.
+Bhikkhus, that is how you should rightly roar your lion's roar.
 
 ### What Others Will Ask
 
@@ -67,9 +67,9 @@ Friends, we have confidence in the Teacher, we have confidence in the Dhamma,
 we fulfil the precepts, and our companions in the Dhamma are dear and
 agreeable to us — both those who live at home and those who have gone forth.
 
-These, friends, are the four things declared by the Buddha, who knows and
-sees, the arahant, the fully awakened one, and it is because we see them in
-ourselves that we speak this way.'
+Friends, these are the four things declared by the Buddha, who knows and sees,
+the arahant, the fully awakened one, and it is because we see them in ourselves
+that we speak this way.'
 
 ### When They Claim the Same
 
@@ -204,7 +204,7 @@ come to be.
 
 ### Why Confidence There Does Not Lead Anywhere
 
-In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher is
+Bhikkhus, in a Dhamma and discipline like that, confidence in the Teacher is
 said not to be rightly directed; confidence in the Dhamma is said not to be
 rightly directed; fulfilment of the precepts is said not to be rightly
 directed; and fondness for companions in the Dhamma is said not to be rightly
@@ -222,7 +222,7 @@ describe it: he describes the full understanding of taking sensuality
 personally, of taking views personally, of taking habits and observances
 personally, and of taking self-doctrine personally.
 
-In a Dhamma and discipline like that, bhikkhus, confidence in the Teacher is
+Bhikkhus, in a Dhamma and discipline like that, confidence in the Teacher is
 said to be rightly directed; confidence in the Dhamma is said to be rightly
 directed; fulfilment of the precepts is said to be rightly directed; and
 fondness for companions in the Dhamma is said to be rightly directed.
@@ -340,7 +340,7 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>name-and-form</dfn></dt>
@@ -365,7 +365,7 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn11-culasihanada-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `1b881159`
+- **Last editorial review:** 2026-08-23 · body version `0cdf7860`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2011) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -398,7 +398,7 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.

@@ -31,7 +31,7 @@ From the small rivers they go down into the great rivers. From the great
 rivers they go down into the sea, the great ocean. And there they come to
 greatness and fullness in body.
 
-In just the same way, bhikkhus, a bhikkhu who relies on conduct and is
+Bhikkhus, in just the same way, a bhikkhu who relies on conduct and is
 established in conduct, developing the seven awakening factors and cultivating
 them, reaches greatness and fullness in qualities.
 
@@ -39,7 +39,7 @@ And how does a bhikkhu who relies on conduct and is established in conduct,
 developing the seven awakening factors and cultivating them, reach greatness
 and fullness in qualities?
 
-Here, bhikkhus, a bhikkhu develops:
+Bhikkhus, a bhikkhu develops:
 
 - the remembering awakening factor, based on seclusion, based on fading, based
   on quenching, culminating in relinquishment;
@@ -56,7 +56,7 @@ Here, bhikkhus, a bhikkhu develops:
 - the dynamic-balance awakening factor, based on seclusion, based on fading,
   based on quenching, culminating in relinquishment.
 
-That, bhikkhus, is how a bhikkhu who relies on conduct and is established in
+Bhikkhus, that is how a bhikkhu who relies on conduct and is established in
 conduct, developing the seven awakening factors and cultivating them, reaches
 greatness and fullness in qualities."
 

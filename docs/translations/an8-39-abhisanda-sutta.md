@@ -28,10 +28,10 @@ Which eight?
 
 ### Going for Refuge
 
-Here, bhikkhus, a noble disciple has gone to the Buddha for refuge. This is
-the first stream of benefit, a stream of what is wholesome, food for ease. It
-is heavenly, it ripens in ease, it leads to heaven, and it leads to what is
-wished for, loved, and agreeable, to welfare and ease.
+Bhikkhus, a noble disciple has gone to the Buddha for refuge. This is the first
+stream of benefit, a stream of what is wholesome, food for ease. It is
+heavenly, it ripens in ease, it leads to heaven, and it leads to what is wished
+for, loved, and agreeable, to welfare and ease.
 
 Again, bhikkhus, a noble disciple has gone to the Dhamma for refuge. This is
 the second stream of benefit, and everything said of the first holds for it.
@@ -50,13 +50,12 @@ and brahmins who have discernment do not fault them.
 
 Which five?
 
-Here, bhikkhus, a noble disciple gives up taking life and refrains from taking
-life. By refraining from taking life, bhikkhus, a noble disciple gives
-countless beings freedom from fear, gives them freedom from enmity, gives them
-freedom from affliction. And by giving countless beings freedom from fear,
-freedom from enmity, and freedom from affliction, they come to share in
-freedom from fear, freedom from enmity, and freedom from affliction without
-limit.
+Bhikkhus, a noble disciple gives up taking life and refrains from taking life.
+Bhikkhus, by refraining from taking life, a noble disciple gives countless
+beings freedom from fear, gives them freedom from enmity, gives them freedom
+from affliction. And by giving countless beings freedom from fear, freedom from
+enmity, and freedom from affliction, they come to share in freedom from fear,
+freedom from enmity, and freedom from affliction without limit.
 
 This is the first gift, bhikkhus, a great gift, known to be foremost, known to
 be long-standing, known to belong to an old lineage, ancient, uncorrupted,
@@ -101,9 +100,8 @@ to what is wished for, loved, and agreeable, to welfare and ease.
 
 ### The Eight Together
 
-These, bhikkhus, are the eight streams of benefit, streams of what is
-wholesome, food for ease. They are heavenly, they ripen in ease, they lead to
-heaven, and they lead to what is wished for, loved, and agreeable, to welfare
-and ease."
+Bhikkhus, these are the eight streams of benefit, streams of what is wholesome,
+food for ease. They are heavenly, they ripen in ease, they lead to heaven, and
+they lead to what is wished for, loved, and agreeable, to welfare and ease."
 
 The ninth discourse is finished.

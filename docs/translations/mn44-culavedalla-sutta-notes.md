@@ -56,7 +56,7 @@ source-audit calls, and edition notes that govern it.
   of cessation-language and does not alter the default `nirodha` policy of
   `quenching` in the identity and path formulas.
 - `sukha-vedanā`, `dukkha-vedanā`, and `adukkhamasukha-vedanā` are rendered
-  `pleasant feeling`, `painful feeling`, and `mixed feeling`.
+  `pleasant feeling`, `painful feeling`, and `neutral feeling`.
 - The release-side close keeps the live sequence `ignorance`, `clear
   knowledge`, `release`, and `nibbāna`.
 

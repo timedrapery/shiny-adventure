@@ -28,8 +28,8 @@ up of the burden, and the putting down of the burden. Listen.
 
 ### The Burden
 
-"And what, bhikkhus, is the burden? It should be said: the five clung-to
-heaps. Which five?
+"And what is the burden, bhikkhus? It should be said: the five clung-to heaps.
+Which five?
 
 - the form clung-to heap
 - the felt-experience clung-to heap
@@ -37,34 +37,34 @@ heaps. Which five?
 - the putting-together-activities clung-to heap
 - the knowing clung-to heap
 
-This, bhikkhus, is called the burden.
+Bhikkhus, this is called the burden.
 
 ### The Carrier of the Burden
 
-"And what, bhikkhus, is the carrier of the burden? It should be said: the
-individual, this venerable one of such a name and such a clan. This,
-bhikkhus, is called the carrier of the burden.
+"And what is the carrier of the burden, bhikkhus? It should be said: the
+individual, this venerable one of such a name and such a clan. Bhikkhus, this
+is called the carrier of the burden.
 
 ### Taking Up the Burden
 
-"And what, bhikkhus, is the taking up of the burden? It is that ignorant
-wanting that leads to renewed becoming, accompanied by relishing and passion,
+"And what is the taking up of the burden, bhikkhus? It is that ignorant wanting
+that leads to renewed becoming, accompanied by relishing and passion,
 delighting here and there. That is:
 
 - ignorant wanting for sensuality
 - ignorant wanting for becoming
 - ignorant wanting for non-becoming
 
-This, bhikkhus, is called the taking up of the burden.
+Bhikkhus, this is called the taking up of the burden.
 
 ### Putting Down the Burden
 
-"And what, bhikkhus, is the putting down of the burden? It is the complete
-fading and quenching of that very ignorant wanting: giving it up,
-relinquishing it, freedom, non-attachment. This, bhikkhus, is called the
-putting down of the burden."
+"And what is the putting down of the burden, bhikkhus? It is the complete
+fading and quenching of that very ignorant wanting: giving it up, relinquishing
+it, freedom, non-attachment. Bhikkhus, this is called the putting down of the
+burden."
 
-That is what the Buddha said. Having said this, the Sugata, the Teacher, went
+That is what the Buddha said. After saying this, the Sugata, the Teacher, went
 on to say:
 
 ### Verses
@@ -74,9 +74,9 @@ and the individual is the carrier of the burden.
 Taking up the burden is dissatisfaction in the world;
 putting the burden down is satisfaction.
 
-Having put the heavy burden down
-and taken up no other,
-having pulled out ignorant wanting together with its root,
+They have put the heavy burden down
+and taken up no other.
+They have pulled out ignorant wanting together with its root;
 they are free of hunger and have reached complete quenching."
 
 The first discourse is finished.

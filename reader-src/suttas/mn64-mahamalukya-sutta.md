@@ -7,7 +7,7 @@
 
 *MN 64, the Mahāmālukya Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,405 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,401 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -120,11 +120,10 @@ The Buddha said this:
 
 ### The Unlearned Ordinary Person
 
-"Here, Ānanda, an unlearned ordinary person, someone who has not seen the noble
-ones, who is unskilled and untrained in the noble Dhamma, someone who has not
-seen true persons, who is unskilled and untrained in the true person's Dhamma,
-lives with a heart overwhelmed by identity view, possessed by identity
-view.
+"Ānanda, an unlearned ordinary person, someone who has not seen the noble ones,
+who is unskilled and untrained in the noble Dhamma, someone who has not seen
+true persons, who is unskilled and untrained in the true person's Dhamma, lives
+with a heart overwhelmed by identity view, possessed by identity view.
 
 When identity view has arisen, that person does not discern its escape as it
 has come to be. For that person, identity view is firmly established, not
@@ -273,10 +272,10 @@ person.
 
 ### The First Mental Theme
 
-"And what, Ānanda, is the path, what is the way of practice for abandoning the
-five lower fetters?
+"Ānanda, what is the path, what is the way of practice for abandoning the five
+lower fetters?
 
-Here, Ānanda, with seclusion from supports, with the abandoning of unwholesome
+Ānanda, with seclusion from supports, with the abandoning of unwholesome
 dhammas, and with the complete calming of bodily heaviness, quite secluded from
 sensuality, secluded from unwholesome dhammas, a bhikkhu enters and remains in
 the first mental theme, with thinking and pondering, with rejoicing and
@@ -303,7 +302,7 @@ passion for the Dhamma and that relishing in the Dhamma, with the complete
 wearing away of the five lower fetters, they are spontaneously reborn, finally
 quenched there, and not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 ### The Higher Mental Themes
@@ -333,7 +332,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 ### The Formless Spheres
@@ -357,7 +356,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 "Again, Ānanda, by completely going beyond the sphere of boundless space, a
@@ -375,7 +374,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters.
 
 "Again, Ānanda, by completely going beyond the sphere of boundless knowing, a
@@ -393,7 +392,7 @@ Dhamma and that relishing in the Dhamma, with the complete wearing away of the
 five lower fetters, they are spontaneously reborn, finally quenched there, and
 not liable to return from that world.
 
-This too, Ānanda, is the path, this is the way of practice for abandoning the
+Ānanda, this too is the path, this is the way of practice for abandoning the
 five lower fetters."
 
 ### Release of Mind and Release Through Discernment
@@ -402,7 +401,7 @@ five lower fetters."
 lower fetters, why do some bhikkhus have release of mind while others have
 release through discernment?"
 
-"Here, Ānanda, I say the difference is in their faculties."
+"Ānanda, I say the difference is in their faculties."
 
 That is what the Buddha said.
 
@@ -448,7 +447,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>heart</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -509,7 +508,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn64/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn64-mahamalukya-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `790b7b3a`
+- **Last editorial review:** 2026-11-08 · body version `5dc4fca5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2064) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -542,7 +541,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[ignorant wanting]: This project's rendering of "taṇhā" (often translated "craving"), chosen to keep visible that the wanting in question is driven by not seeing clearly, not just ordinary desire.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.

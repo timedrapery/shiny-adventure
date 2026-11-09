@@ -48,7 +48,7 @@ bear, listening closely.
 Then the Buddha, understanding what this meant, spoke this inspired saying at
 that moment:
 
-"There is, bhikkhus, what is unborn, unbecome, unmade, unconditioned.
+"Bhikkhus, there is what is unborn, unbecome, unmade, unconditioned.
 
 If there were no such thing, bhikkhus — nothing unborn, unbecome, unmade,
 unconditioned — then no escape would be discerned here from what is born,
@@ -84,7 +84,7 @@ The third discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/ud8.3/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/ud8-3-tatiyanibbanapatisamyutta-sutta-notes.md)
-- **Last editorial review:** 2026-09-13 · body version `7aae0cf4`
+- **Last editorial review:** 2026-09-13 · body version `69dcf68d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Ud%208.3) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

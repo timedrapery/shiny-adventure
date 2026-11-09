@@ -35,7 +35,7 @@ The Buddha said this:
 
 ### What the Exposition Covers
 
-"And what, bhikkhus, is the penetrating exposition of the teaching?
+"And what is the penetrating exposition of the teaching, bhikkhus?
 
 Sensuality should be understood; where sensuality comes from should be
 understood; the differences among kinds of sensuality should be understood;
@@ -88,7 +88,7 @@ called the strands of sensuality:
 
 And where does sensuality come from?
 
-Contact, bhikkhus, is where sensuality comes from.
+Bhikkhus, contact is where sensuality comes from.
 
 And what are the differences among kinds of sensuality?
 
@@ -104,7 +104,7 @@ called the result of sensuality.
 
 And what is the quenching of sensuality?
 
-The quenching of contact, bhikkhus, is the quenching of sensuality. And this
+Bhikkhus, the quenching of contact is the quenching of sensuality. And this
 noble eightfold path is the path of practice leading to the quenching of
 sensuality: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -126,17 +126,17 @@ practice leading to the quenching of felt experience.' That is what was said.
 Why was it said?
 
 There are these three kinds of felt experience, bhikkhus: pleasant feeling,
-painful feeling, and mixed feeling.
+painful feeling, and neutral feeling.
 
 And where does felt experience come from?
 
-Contact, bhikkhus, is where felt experience comes from.
+Bhikkhus, contact is where felt experience comes from.
 
 And what are the differences among kinds of felt experience?
 
 There is worldly pleasant feeling and unworldly pleasant feeling; worldly
-painful feeling and unworldly painful feeling; worldly mixed feeling and
-unworldly mixed feeling. This is called the differences among kinds of felt
+painful feeling and unworldly painful feeling; worldly neutral feeling and
+unworldly neutral feeling. This is called the differences among kinds of felt
 experience.
 
 And what is the result of felt experience?
@@ -147,7 +147,7 @@ called the result of felt experience.
 
 And what is the quenching of felt experience?
 
-The quenching of contact, bhikkhus, is the quenching of felt experience. And
+Bhikkhus, the quenching of contact is the quenching of felt experience. And
 this noble eightfold path is the path of practice leading to the quenching of
 felt experience: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -171,7 +171,7 @@ forms, of sounds, of smells, of tastes, of tangibles, and of dhammas.
 
 And where does recognition come from?
 
-Contact, bhikkhus, is where recognition comes from.
+Bhikkhus, contact is where recognition comes from.
 
 And what are the differences among kinds of recognition?
 
@@ -187,7 +187,7 @@ This is called the result of recognition.
 
 And what is the quenching of recognition?
 
-The quenching of contact, bhikkhus, is the quenching of recognition. And this
+Bhikkhus, the quenching of contact is the quenching of recognition. And this
 noble eightfold path is the path of practice leading to the quenching of
 recognition: right view, right attitude, right speech, right action, right
 livelihood, right effort, right remembering, right unification of mind.
@@ -251,7 +251,7 @@ by body, by speech, by mind.
 
 And where does action come from?
 
-Contact, bhikkhus, is where action comes from.
+Bhikkhus, contact is where action comes from.
 
 And what are the differences among kinds of action?
 
@@ -267,10 +267,10 @@ being reborn, or on some later occasion. This is called the result of action.
 
 And what is the quenching of action?
 
-The quenching of contact, bhikkhus, is the quenching of action. And this noble
+Bhikkhus, the quenching of contact is the quenching of action. And this noble
 eightfold path is the path of practice leading to the quenching of action:
-right view, right attitude, right speech, right action, right livelihood,
-right effort, right remembering, right unification of mind.
+right view, right attitude, right speech, right action, right livelihood, right
+effort, right remembering, right unification of mind.
 
 When a noble disciple understands action this way, and so on through to the
 path of practice leading to its quenching, then they understand this
@@ -306,11 +306,11 @@ quickly. This is called the differences among kinds of dissatisfaction.
 
 And what is the result of dissatisfaction?
 
-Here, bhikkhus, someone overcome by dissatisfaction, their mind consumed by
-it, grieves, wears themselves out, wails, beats their chest and cries, and
-loses their bearings. Or else, overcome by dissatisfaction, their mind
-consumed by it, they go searching outside: 'Who knows one phrase, two phrases,
-for the quenching of this dissatisfaction?'
+Bhikkhus, someone overcome by dissatisfaction, their mind consumed by it,
+grieves, wears themselves out, wails, beats their chest and cries, and loses
+their bearings. Or else, overcome by dissatisfaction, their mind consumed by
+it, they go searching outside: 'Who knows one phrase, two phrases, for the
+quenching of this dissatisfaction?'
 
 Dissatisfaction results in bewilderment, I say, or in searching. This is
 called the result of dissatisfaction.
@@ -336,6 +336,6 @@ of dissatisfaction should be understood; and the path of practice leading to
 the quenching of dissatisfaction should be understood.' That is what was said,
 and this is why it was said.
 
-This, bhikkhus, is the penetrating exposition of the teaching."
+Bhikkhus, this is the penetrating exposition of the teaching."
 
 The ninth discourse is finished.

@@ -431,7 +431,7 @@ knowing, proceeding by mutual conditionality.
 
 ### Designating a Self
 
-"And to what extent, Ānanda, does someone designate a self?
+"And to what extent does someone designate a self, Ānanda?
 
 They designate a self as having form and being limited:
 
@@ -449,7 +449,7 @@ They designate a self as being formless and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, someone who designates a self as having form and being limited
+"Ānanda, someone who designates a self as having form and being limited
 either
 designates it that way in the present, or designates it that way in the future,
 or thinks, 'Although it is not like that, I will make it be like that.'
@@ -483,7 +483,7 @@ To this extent, Ānanda, they designate a self.
 
 ### Not Designating a Self
 
-"And to what extent, Ānanda, does someone not designate a self?
+"And to what extent does someone not designate a self, Ānanda?
 
 They do not designate a self as having form and being limited:
 
@@ -501,10 +501,10 @@ They do not designate a self as being formless and infinite:
 
 'My self is formless and infinite.'
 
-"Here, Ānanda, someone who does not designate a self as having form and being
-limited does not designate it that way in the present, does not designate it
-that way in the future, and does not think, 'Although it is not like that, I
-will make it be like that.'
+"Ānanda, someone who does not designate a self as having form and being limited
+does not designate it that way in the present, does not designate it that way
+in the future, and does not think, 'Although it is not like that, I will make
+it be like that.'
 
 In this case, it is enough to say that a view of a limited self with form does
 not lie underneath.
@@ -537,7 +537,7 @@ To this extent, Ānanda, they do not designate a self.
 
 ### Regarding a Self
 
-"And to what extent, Ānanda, does someone regard a self?
+"And to what extent does someone regard a self, Ānanda?
 
 Someone regards felt experience as self:
 
@@ -552,23 +552,23 @@ Or they regard self in this way:
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is my self,'
 
 they should be told:
 
 'Friend, there are these three feelings: pleasant feeling, painful feeling, and
-mixed feeling. Which of these three feelings do you regard as self?'
+neutral feeling. Which of these three feelings do you regard as self?'
 
 When someone feels pleasant feeling, they do not at that time feel painful
-feeling or mixed feeling. At that time they feel only pleasant feeling.
+feeling or neutral feeling. At that time they feel only pleasant feeling.
 
 When someone feels painful feeling, they do not at that time feel pleasant
-feeling or mixed feeling. At that time they feel only painful feeling.
+feeling or neutral feeling. At that time they feel only painful feeling.
 
-When someone feels mixed feeling, they do not at that time feel pleasant
-feeling or painful feeling. At that time they feel only mixed feeling.
+When someone feels neutral feeling, they do not at that time feel pleasant
+feeling or painful feeling. At that time they feel only neutral feeling.
 
 Pleasant feeling, Ānanda, is impermanent, conditioned, dependently arisen,
 liable to wearing away, passing away, fading, and quenching.
@@ -576,7 +576,7 @@ liable to wearing away, passing away, fading, and quenching.
 Painful feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
-Mixed feeling is impermanent, conditioned, dependently arisen, liable to
+Neutral feeling is impermanent, conditioned, dependently arisen, liable to
 wearing away, passing away, fading, and quenching.
 
 Feeling pleasant feeling, they think, 'This is my self.'
@@ -589,9 +589,9 @@ Feeling painful feeling, they think, 'This is my self.'
 With the quenching of that very painful feeling, they think, 'My self has gone
 away.'
 
-Feeling mixed feeling, they think, 'This is my self.'
+Feeling neutral feeling, they think, 'This is my self.'
 
-With the quenching of that very mixed feeling, they think, 'My self has gone
+With the quenching of that very neutral feeling, they think, 'My self has gone
 away.'
 
 So, in this very life, someone who says, 'Felt experience is my self,' regards
@@ -600,7 +600,7 @@ arising and passing away.
 
 Therefore, Ānanda, it does not fit to regard felt experience as self.
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. My self does not feel,'
 
@@ -614,7 +614,7 @@ they should be told:
 "Therefore, Ānanda, it does not fit to regard self in this way: 'Felt
 experience is not my self. My self does not feel.'
 
-"Here, Ānanda, when someone says:
+"Ānanda, when someone says:
 
 'Felt experience is not my self. Nor is my self without felt experience. My
 self feels, for my self has the nature of felt experience,'
@@ -633,7 +633,7 @@ feels, for my self has the nature of felt experience.'
 
 ### Released from the Self-Views
 
-"When, Ānanda, a bhikkhu does not regard felt experience as self, does not
+"Ānanda, when a bhikkhu does not regard felt experience as self, does not
 regard a self that does not feel, and does not regard self in this way - 'My
 self feels, for my self has the nature of felt experience' - then, not
 regarding in this way, they do not take anything personally in the world.
@@ -718,9 +718,8 @@ This is the seventh station of knowing.
 The field of non-recognizing beings and the sphere of
 neither-recognition-nor-non-recognition are the two fields.
 
-"Here, Ānanda, there is the first station of knowing: diverse in body and
-diverse in recognition, such as humans, some devas, and some beings in downfall
-states.
+"Ānanda, there is the first station of knowing: diverse in body and diverse in
+recognition, such as humans, some devas, and some beings in downfall states.
 
 If they discern this, discern its arising, discern its vanishing, discern its
 gratification, discern its danger, and discern its escape, is it fit to
@@ -747,7 +746,7 @@ delight in it?"
 
 "No, bhante."
 
-"When, Ānanda, a bhikkhu has known as they have come to be the arising,
+"Ānanda, when a bhikkhu has known as they have come to be the arising,
 vanishing, gratification, danger, and escape of these seven stations of knowing
 and these two fields, and is released through not taking personally, this
 bhikkhu is called one released through discernment.
@@ -800,7 +799,7 @@ This is the eighth release.
 
 These are the eight releases.
 
-"When, Ānanda, a bhikkhu enters these eight releases forward, enters them in
+"Ānanda, when a bhikkhu enters these eight releases forward, enters them in
 reverse, enters them forward and reverse, and, wherever they wish, however they
 wish, and as long as they wish, enters them and emerges from them;
 

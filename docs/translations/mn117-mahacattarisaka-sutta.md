@@ -41,10 +41,10 @@ its requisites. Listen carefully, attend well, and I will speak."
 
 The Buddha said this:
 
-"And what, bhikkhus, is noble right unification of mind with its supports and
-requisites? It is this: right view, right attitude, right speech, right
-action, right livelihood, right effort, and right remembering. The directness
-of mind furnished with these seven factors is called noble right unification of mind
+"And what is noble right unification of mind with its supports and requisites,
+bhikkhus? It is this: right view, right attitude, right speech, right action,
+right livelihood, right effort, and right remembering. The directness of mind
+furnished with these seven factors is called noble right unification of mind
 with supports, and also with requisites."
 
 ### Right View
@@ -56,12 +56,12 @@ and right view as 'right view'; that is their right view.
 
 "And what is wrong view?
 
-"'There is no meaning in giving, sacrifice, or offerings.
-There is no fruit or result of good and bad actions. There is no this world,
-no other world, no mother, no father, no beings who arise spontaneously, and
-no samaṇas or brahmins in the world who are rightly gone and rightly practicing
-and who, having directly known and realized this world and the other world for
-themselves, make them known.'
+"'There is no meaning in giving, sacrifice, or offerings. There is no fruit or
+result of good and bad actions. There is no this world, no other world, no
+mother, no father, no beings who arise spontaneously, and no samaṇas or
+brahmins in the world who are rightly gone and rightly practicing and who have
+directly known and realized this world and the other world for themselves and
+make them known.'
 
 "This is wrong view.
 
@@ -76,12 +76,12 @@ factor of the path.
 "And what is right view with outflows, on the side of merit, ripening in
 acquisitions?
 
-"'There is meaning in giving, sacrifice, and offerings.
-There is fruit and result of good and bad actions. There is this world and the
-other world. There is mother and father. There are beings who arise
-spontaneously. And there are samaṇas and brahmins in the world who are rightly
-gone and rightly practicing and who, having directly known and realized this
-world and the other world for themselves, make them known.'
+"'There is meaning in giving, sacrifice, and offerings. There is fruit and
+result of good and bad actions. There is this world and the other world. There
+is mother and father. There are beings who arise spontaneously. And there are
+samaṇas and brahmins in the world who are rightly gone and rightly practicing
+and who have directly known and realized this world and the other world for
+themselves and make them known.'
 
 "This is right view with outflows, on the side of merit, ripening in
 acquisitions.
@@ -91,15 +91,15 @@ factor of the path?
 
 "That discernment, the faculty of discernment, the power of discernment, the
 awakening factor of discernment of qualities, and the right-view factor of the
-path in someone whose mind is noble and without outflows, who possesses the noble
-path and develops it, is called right view that is
-noble, without outflows, beyond-the-world, a factor of the path.
+path in someone whose mind is noble and without outflows, who has the noble
+path and develops it, is called right view that is noble, without outflows,
+beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong view and to take up right view; that is
 their right effort.
 
-"Remembering, they abandon wrong view; remembering, they live having taken up
-right view; that is their right remembering.
+"Remembering, they abandon wrong view; remembering, they take up right view and
+live in it; that is their right remembering.
 
 "These three qualities keep running and circling around right view, namely:
 right view, right effort, and right remembering.
@@ -137,17 +137,16 @@ acquisitions.
 "And what is right attitude that is noble, without outflows, beyond-the-world,
 a factor of the path?
 
-"Whatever thinking, thought, attitude, placing, directing, and settling of
-mind there is in someone whose mind is noble and without outflows, who possesses
-the noble path and develops it, that verbal conditioning
-is right attitude that is noble, without outflows, beyond-the-world, a factor
-of the path.
+"Whatever thinking, thought, attitude, placing, directing, and settling of mind
+there is in someone whose mind is noble and without outflows, who has the noble
+path and develops it, that verbal conditioning is right attitude that is noble,
+without outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong attitude and to take up right attitude; that
 is their right effort.
 
-"Remembering, they abandon wrong attitude; remembering, they live having taken
-up right attitude; that is their right remembering.
+"Remembering, they abandon wrong attitude; remembering, they take up right
+attitude and live in it; that is their right remembering.
 
 "These three qualities keep running and circling around right attitude, namely:
 right view, right effort, and right remembering.
@@ -186,15 +185,15 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the four
-verbal misconducts in someone whose mind is noble and without outflows, who
-possesses the noble path and develops it, is right speech that
-is noble, without outflows, beyond-the-world, a factor of the path.
+verbal misconducts in someone whose mind is noble and without outflows, who has
+the noble path and develops it, is right speech that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong speech and to take up right speech; that is
 their right effort.
 
-"Remembering, they abandon wrong speech; remembering, they live having taken up
-right speech; that is their right remembering.
+"Remembering, they abandon wrong speech; remembering, they take up right speech
+and live in it; that is their right remembering.
 
 "These three qualities keep running and circling around right speech, namely:
 right view, right effort, and right remembering.
@@ -231,15 +230,15 @@ acquisitions.
 factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from the three
-bodily misconducts in someone whose mind is noble and without outflows, who
-possesses the noble path and develops it, is right action that
-is noble, without outflows, beyond-the-world, a factor of the path.
+bodily misconducts in someone whose mind is noble and without outflows, who has
+the noble path and develops it, is right action that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong action and to take up right action; that is
 their right effort.
 
-"Remembering, they abandon wrong action; remembering, they live having taken up
-right action; that is their right remembering.
+"Remembering, they abandon wrong action; remembering, they take up right action
+and live in it; that is their right remembering.
 
 "These three qualities keep running and circling around right action, namely:
 right view, right effort, and right remembering.
@@ -267,8 +266,8 @@ beyond-the-world, a factor of the path.
 "And what is right livelihood with outflows, on the side of merit, ripening in
 acquisitions?
 
-"Here a noble disciple, having abandoned wrong livelihood, earns a living by
-right livelihood.
+"A noble disciple abandons wrong livelihood and earns a living by right
+livelihood.
 
 "This is right livelihood with outflows, on the side of merit, ripening in
 acquisitions.
@@ -277,15 +276,15 @@ acquisitions.
 beyond-the-world, a factor of the path?
 
 "That avoidance, abstaining, complete abstaining, and refraining from wrong
-livelihood in someone whose mind is noble and without outflows, who possesses the
-noble path and develops it, is right livelihood that
-is noble, without outflows, beyond-the-world, a factor of the path.
+livelihood in someone whose mind is noble and without outflows, who has the
+noble path and develops it, is right livelihood that is noble, without
+outflows, beyond-the-world, a factor of the path.
 
 "They make effort to abandon wrong livelihood and to take up right livelihood;
 that is their right effort.
 
-"Remembering, they abandon wrong livelihood; remembering, they live having
-taken up right livelihood; that is their right remembering.
+"Remembering, they abandon wrong livelihood; remembering, they take up right
+livelihood and live in it; that is their right remembering.
 
 "These three qualities keep running and circling around right livelihood,
 namely:
@@ -297,26 +296,25 @@ right view, right effort, and right remembering.
 
 "And how does right view come first?
 
-"For one with right view, right attitude comes forth.
+"For someone with right view, right attitude comes forth.
 
-"For one with right attitude, right speech comes forth.
+"For someone with right attitude, right speech comes forth.
 
-"For one with right speech, right action comes forth.
+"For someone with right speech, right action comes forth.
 
-"For one with right action, right livelihood comes forth.
+"For someone with right action, right livelihood comes forth.
 
-"For one with right livelihood, right effort comes forth.
+"For someone with right livelihood, right effort comes forth.
 
-"For one with right effort, right remembering comes forth.
+"For someone with right effort, right remembering comes forth.
 
-"For one with right remembering, right unification of mind comes forth.
+"For someone with right remembering, right unification of mind comes forth.
 
-"For one with right unification of mind, right knowledge comes forth.
+"For someone with right unification of mind, right knowledge comes forth.
 
-"For one with right knowledge, right release comes forth.
+"For someone with right knowledge, right release comes forth.
 
-"So a trainee is endowed with eight factors, while an arahant is endowed with
-ten factors.
+"So a trainee has eight factors, while an arahant has ten factors.
 
 "And here too, through right knowledge, many bad, unwholesome qualities wear
 away, and development reaches fulfillment.
@@ -327,7 +325,7 @@ away, and development reaches fulfillment.
 
 "And how does right view come first?
 
-"For one with right view, wrong view is worn away.
+"For someone with right view, wrong view is worn away.
 
 "And the many bad, unwholesome qualities that arise because of wrong view are
 worn away.

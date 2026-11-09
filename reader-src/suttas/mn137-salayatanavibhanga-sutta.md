@@ -7,7 +7,7 @@
 
 *MN 137, the Saḷāyatanavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,484 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,417 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -60,48 +60,44 @@ That is the summary of the analysis of the six fields.
 
 ### The Six Internal Fields
 
-"'The six internal fields are to be known' was said. And with reference to
-what was that said?
+"'The six internal fields should be known' was said. Why was that said?
 
 'The eye field, ear field, nose field, tongue field, body field, and mind
 field: these are the six internal fields to be known.'
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Six External Fields
 
-"'The six external fields are to be known' was said. And with reference to
-what was that said?
+"'The six external fields should be known' was said. Why was that said?
 
 'The form field, sound field, smell field, taste field, tangible field, and
 dhamma field: these are the six external fields to be known.'
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Six Classes of Knowing
 
-"'The six classes of knowing are to be known' was said. And with reference to
-what was that said?
+"'The six classes of knowing should be known' was said. Why was that said?
 
 'Eye-knowing, ear-knowing, nose-knowing, tongue-knowing, body-knowing, and
 mind-knowing: these are the six classes of knowing to be known.'
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Six Classes of Contact
 
-"'The six classes of contact are to be known' was said. And with reference to
-what was that said?
+"'The six classes of contact should be known' was said. Why was that said?
 
 'Eye-contact, ear-contact, nose-contact, tongue-contact, body-contact, and
 mind-contact: these are the six classes of contact to be known.'
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Eighteen Mental Explorations
 
-"'The eighteen mental explorations are to be known' was said. And with
-reference to what was that said?
+"'The eighteen mental explorations should be known' was said. Why was that
+said?
 
 When someone sees a form with the eye, they mentally explore a form that
 supports gladness, a form that supports distress, and a form that supports
@@ -118,12 +114,11 @@ So there are six explorations of gladness, six explorations of distress, and
 six explorations of dynamic balance. These are the eighteen mental
 explorations to be known.
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Thirty-Six Positions
 
-"'The thirty-six positions are to be known' was said. And with reference to
-what was that said?
+"'The thirty-six positions should be known' was said. Why was that said?
 
 There are six gladnesses tied to the household life, six gladnesses tied to
 renunciation, six distresses tied to the household life, six distresses tied
@@ -256,12 +251,11 @@ So it is called dynamic balance tied to renunciation.
 
 These are the six dynamic balances tied to renunciation.
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### Supported by This, Give Up That
 
-"'Here, supported by this, give up that' was said. And with reference to what
-was that said?
+"'Here, supported by this, give up that' was said. Why was that said?
 
 Bhikkhus, supported by the six gladnesses tied to renunciation, give up and go
 beyond the six gladnesses tied to the household life. That is how they are
@@ -307,15 +301,15 @@ Supported by non-identification, grounded in non-identification, give up and
 go beyond the dynamic balance tied to oneness. That is how it is given up.
 That is how it is gone beyond.
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### Three Establishments of Sati
 
 "'There are three establishments of sati that a noble person cultivates,
-cultivating which a teacher is fit to instruct a group' was said. And with
-reference to what was that said?
+cultivating which a teacher is fit to instruct a group' was said. Why was that
+said?
 
-Here, bhikkhus, out of compassion and seeking their welfare, a teacher teaches
+Bhikkhus, out of compassion and seeking their welfare, a teacher teaches
 the Dhamma to disciples:
 'This is for your benefit; this is for your happiness.'
 
@@ -357,12 +351,12 @@ untroubled, remembering, with clear knowing.
 This is called the third establishment of sati that a noble person cultivates,
 cultivating which a teacher is fit to instruct a group.
 
-That is what was said with reference to this.
+That is why it was said.
 
 ### The Unsurpassed Trainer
 
-"'They are called the unsurpassed trainer of trainable people' was said. And
-with reference to what was that said?
+"'They are called the unsurpassed trainer of trainable people' was said. Why
+was that said?
 
 Bhikkhus, when an elephant is trained by an elephant trainer, it runs only in
 one direction: east, west, north, or south.
@@ -455,7 +449,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn137/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn137-salayatanavibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-08-24 · body version `af7beff3`
+- **Last editorial review:** 2026-08-24 · body version `0af1fc42`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20137) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

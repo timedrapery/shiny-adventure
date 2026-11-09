@@ -112,7 +112,7 @@ source-audit calls, and edition notes that govern it.
   spoken actions, and restored the force of the Buddha's closing remark. It
   preserved the rival-teacher sequence, gradual training, hindrance clearing,
   four mental themes, higher knowings, and outflow-ending formulas.
-- Governed wording left unchanged: `for one living at home` and `restrained by
+- Governed wording left unchanged: `for someone living at home` and `restrained by
   restraint in the pātimokkha` in the going-forth formula, and `One of dynamic
   balance and remembering stays at ease` in the third-theme formula, remain
   source-facing pending any policy-level revision.

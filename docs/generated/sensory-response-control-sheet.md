@@ -20,7 +20,7 @@ This sheet summarizes the current governed control lines for the linked MN 137 /
 | `mn148-pleasant-feeling-trained-response` | when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally | MN 148 |
 | `mn148-painful-feeling-untrained-response` | when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings | MN 148, SN 36.6 |
 | `mn148-painful-feeling-trained-response` | when painful feeling touches them, they do not grieve, do not wear themselves out, do not wail, do not beat their chest and cry, and do not lose their bearings | MN 148, SN 36.6 |
-| `mn148-mixed-feeling-undiscerned-response` | when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
+| `mn148-neutral-feeling-undiscerned-response` | when neutral feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
 | `vedanaya-samudayanca-atthangamanca-assadanca-adinavanca-nissarananca-yathabhutam-pajanati` | they discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be | MN 148 |
 | `sn36-6-two-feelings-painful-feeling` | they feel it twice: once in the body and once in the mind | SN 36.6 |
 | `sn36-6-one-feeling-painful-feeling` | they feel it once: in the body, not in the mind | SN 36.6 |
@@ -40,7 +40,7 @@ This sheet summarizes the current governed control lines for the linked MN 137 /
 - `manopavicara`: `mental exploration`
 - `sukha-vedana`: `pleasant feeling`
 - `dukkha-vedana`: `painful feeling`
-- `adukkhamasukha-vedana`: `mixed feeling`
+- `adukkhamasukha-vedana`: `neutral feeling`
 
 ## Operating Rule
 
