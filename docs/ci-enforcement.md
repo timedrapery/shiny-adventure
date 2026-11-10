@@ -31,26 +31,25 @@ groups, and `--accept-new-debt --reason '...'` to acknowledge a new one on
 purpose; a prune refuses to run while a regression is present.
 
 `python scripts/run_checks.py` is the single authoritative repository entrypoint.
-CI also runs the highest-signal checks individually so failures surface earlier
-and more clearly in pull requests.
+CI runs it once per Python version; each check inside it prints its own name,
+so the failing one is easy to find in the log.
 
 For repair workflow and examples of the new diagnostic blocks, also read
 [contributor-repair-guide.md](contributor-repair-guide.md).
 
 ## CI-Failing Commands
 
-The workflow runs:
+The workflow runs, on pull requests and on pushes to `main`:
 
 ```bash
-python scripts/validate_terms.py --strict
-python scripts/lint_terms.py --strict
-python scripts/check_translation_drift.py --strict
-python scripts/check_cluster_surfaces.py
-python scripts/translation_surface_index.py --check
-python scripts/check_generated_docs.py
-python -m unittest discover -s tests
 python scripts/run_checks.py
+mkdocs build --strict
+pnpm test:a11y
 ```
+
+`run_checks.py` covers the unit tests, schema validation, editorial lint,
+translation drift, cluster surfaces, the translation-surface registry, and
+generated-docs freshness, among others.
 
 If any command returns a non-zero exit code, CI fails.
 
