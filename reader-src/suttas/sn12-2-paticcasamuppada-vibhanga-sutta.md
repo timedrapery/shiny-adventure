@@ -317,7 +317,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-2-paticcasamuppada-vibhanga-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `10524ad1`
+- **Text last revised:** 2026-11-09 · body version `10524ad1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

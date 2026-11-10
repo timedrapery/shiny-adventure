@@ -567,7 +567,7 @@ def render_terms_panel(entries: list[tuple[str, str]]) -> list[str]:
 def render_source_status(surface: TranslationSurface) -> list[str]:
     """Quiet, inspectable provenance without burdening the reading flow."""
     review = surface.readability_review
-    reviewed_on = review.reviewed_on if review is not None else "not recorded"
+    revised_on = review.revised_on if review is not None else "not recorded"
     version = review.body_sha256[:8] if review is not None else "not recorded"
     notes_url = (
         "https://github.com/timedrapery/shiny-adventure/blob/main/"
@@ -584,7 +584,7 @@ def render_source_status(surface: TranslationSurface) -> list[str]:
         "",
         f"- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition]({canonical_pali_url(surface)})",
         f"- **Translation notes:** [Editorial decisions and source audit]({notes_url})",
-        f"- **Last editorial review:** {reviewed_on} · body version `{version}`",
+        f"- **Text last revised:** {revised_on} · body version `{version}`",
         f"- [Report a problem with this page]({issue_url}) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)",
         "",
         "</details>",

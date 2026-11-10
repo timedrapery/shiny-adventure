@@ -139,7 +139,7 @@ The seventh discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/iti44/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/iti44-nibbanadhatu-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `f767898d`
+- **Text last revised:** 2026-11-09 · body version `f767898d`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Iti%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

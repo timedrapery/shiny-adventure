@@ -147,7 +147,7 @@ The fifth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.26/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-26-assada-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `ac14ba83`
+- **Text last revised:** 2026-11-09 · body version `ac14ba83`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.26) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

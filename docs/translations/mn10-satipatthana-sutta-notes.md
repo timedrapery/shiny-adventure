@@ -43,8 +43,8 @@ source-audit calls, and edition notes that govern it.
   governed phrase record, so MN 10 and MN 118 can stay synchronized by live
   policy rather than by document-local memory.
 - `ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ` is rendered
-  `ardent, with clear knowing, with remembering, having removed coveting and
-  distress regarding the world.` The line keeps `sati` and `sampajañña`
+  `ardent, with clear knowing, with remembering, and with coveting and distress
+  about the world put aside.` The line keeps `sati` and `sampajañña`
   distinct and does not slide back into mindfulness-jargon.
 - The internal / external refrain is kept source-facing as `internal`,
   `external`, and `both internal and external`, not re-explained as subjective

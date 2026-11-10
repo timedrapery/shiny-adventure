@@ -153,7 +153,7 @@ The ninth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an8.39/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an8-39-abhisanda-sutta-notes.md)
-- **Last editorial review:** 2026-09-13 · body version `a11ba7de`
+- **Text last revised:** 2026-11-09 · body version `a11ba7de`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%208.39) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

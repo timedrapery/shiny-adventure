@@ -24,7 +24,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   `hiri-ottappa` (minor, reviewed) gives this as the default pair.
 - `sati` is rendered `remembering` and `sampajañña` is rendered `clear
   knowing` throughout. The formula `satisampajaññena samannāgatā` is rendered
-  `possessed of remembering and clear knowing`. In the wakefulness section,
+  `have remembering and clear knowing` (`We will have ...`). In the wakefulness section,
   `sato sampajāno` is rendered `with remembering and clear knowing`.
 - `indriya` is rendered `faculty`. The phrase `indriyesu guttadvārā` (guarded
   at the faculty doors) is rendered `guarded at the faculty doors`, with the
