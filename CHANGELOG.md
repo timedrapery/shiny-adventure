@@ -36,6 +36,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Translations, term records, and documentation are now licensed under
+  CC BY-NC-SA 4.0 (`LICENSE-CONTENT.md`). Code stays under the MIT License.
+  Quoted Pali source text is not relicensed.
 - Updated `@playwright/test` to 1.65.0, `@axe-core/playwright` to 4.14.0,
   and the `mkdocs-material` floor to 9.8.1.
 

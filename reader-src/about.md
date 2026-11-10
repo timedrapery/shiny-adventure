@@ -90,8 +90,12 @@ Each page also shows when its text was last revised and a short body-version
 identifier. If something looks wrong, use its **Report a problem** link so the
 exact sutta is named in the issue.
 
-The repository's [license](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
-sets the reuse terms for the project.
+The translations on this site are licensed under
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may
+share and adapt them for non-commercial use, with credit, under the same
+license. The site's code is under the MIT License. See the repository's
+[content license](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE-CONTENT.md)
+for details.
 
 ## Plain English, on purpose
 
