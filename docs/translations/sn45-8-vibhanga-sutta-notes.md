@@ -36,7 +36,7 @@ This document records the source and editorial decisions for
   makes an effort, arouses energy, takes hold of the heart, and exerts
   themselves`. The repeated tasks are formatted as a list so readers can see
   the four different jobs without losing the repeated governing action.
-- **The four establishments of remembering follow the existing control
+- **The four establishments of sati follow the existing control
   surfaces.** `kāya`, `vedanā`, and `citta` are `body`, `felt experience`, and
   `heart`; the technical fourth object remains `dhammas` rather than being
   flattened into the same English used for wholesome and unwholesome mental

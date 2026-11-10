@@ -7,7 +7,7 @@
 
 *MN 137, the Saḷāyatanavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,417 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,424 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -49,30 +49,30 @@ attend well, and I will speak."
 
 The Buddha said this:
 
-"'The six internal fields are to be known, the six external fields are to be
-known, the six classes of knowing are to be known, the six classes of contact
-are to be known, the eighteen mental explorations are to be known, the thirty-
-six positions are to be known, and here, supported by this, you should give up
-that. And there are three establishments of sati that a noble person cultivates,
-cultivating which a teacher is fit to instruct a group.'
+"'The six internal sense fields are to be known, the six external sense fields
+are to be known, the six classes of knowing are to be known, the six classes of
+contact are to be known, the eighteen mental explorations are to be known, the
+thirty-six positions are to be known, and here, supported by this, you should
+give up that. And there are three establishments of sati that a noble person
+cultivates, cultivating which a teacher is fit to instruct a group.'
 
 That is the summary of the analysis of the six fields.
 
-### The Six Internal Fields
+### The Six Internal Sense Fields
 
-"'The six internal fields should be known' was said. Why was that said?
+"'The six internal sense fields should be known' was said. Why was that said?
 
 'The eye field, ear field, nose field, tongue field, body field, and mind
-field: these are the six internal fields to be known.'
+field: these are the six internal sense fields to be known.'
 
 That is why it was said.
 
-### The Six External Fields
+### The Six External Sense Fields
 
-"'The six external fields should be known' was said. Why was that said?
+"'The six external sense fields should be known' was said. Why was that said?
 
 'The form field, sound field, smell field, taste field, tangible field, and
-dhamma field: these are the six external fields to be known.'
+dhamma field: these are the six external sense fields to be known.'
 
 That is why it was said.
 
@@ -449,7 +449,7 @@ Buddha had said.
 
 - **Pali text:** Majjhimanikāya, Uparipaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn137-salayatanavibhanga-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `0af1fc42`
+- **Text last revised:** 2026-11-10 · body version `b7e7ecdc`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20137) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

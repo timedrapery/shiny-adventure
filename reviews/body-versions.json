@@ -18,16 +18,16 @@
       "revised_on": "2026-11-09"
     },
     "mn10": {
-      "body_sha256": "6413d9520c55e30721f39d32fe2aa29d5142c38e04f3db00432dd8c71f840d88",
-      "revised_on": "2026-11-09"
+      "body_sha256": "9599c97c38873b84caed103bea08ee97b638eed02771b7012fb7331512b8a8da",
+      "revised_on": "2026-11-10"
     },
     "mn11": {
       "body_sha256": "0cdf78600ada25558c9ebfe94f8f3d955b320fec2b6dc3ca11e12562283c0ae7",
       "revised_on": "2026-11-09"
     },
     "mn18": {
-      "body_sha256": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
-      "revised_on": "2026-08-24"
+      "body_sha256": "b82f8425ac8b244fb98f66c56447590614c61b1fa3aecb395efb0b42b0e0b622",
+      "revised_on": "2026-11-10"
     },
     "mn19": {
       "body_sha256": "be7796b474bcf43063c6a539ea646197db7a2b2f95006b9ad0eb9922c86b7227",
@@ -46,8 +46,8 @@
       "revised_on": "2026-11-09"
     },
     "mn38": {
-      "body_sha256": "28d7a4c5f69cfbd0af67a2b75cb8007b709c6dd6c01ab9ed3b70f5d78e16ace6",
-      "revised_on": "2026-11-09"
+      "body_sha256": "0812ebe33514adbd8c9e3b95f6cee55b13a79de3fa6fab9320059e036a2913a1",
+      "revised_on": "2026-11-10"
     },
     "mn39": {
       "body_sha256": "2c16fa7ff5e85c3b392bb29e014b65f0b2df9f3af0adf0bbd06af546d59d1da6",
@@ -106,16 +106,16 @@
       "revised_on": "2026-11-09"
     },
     "mn137": {
-      "body_sha256": "0af1fc42153eb60dd3a62dabf0b8435470d7fcdb33b833841172051b1bf7f7d2",
-      "revised_on": "2026-11-09"
+      "body_sha256": "b7e7ecdcc61c18f1337cfbc374440255f7a7e984cd9cf80f34933915c127658b",
+      "revised_on": "2026-11-10"
     },
     "mn141": {
       "body_sha256": "4b7012b3429dc201c38c47c301070eb4f15803ac290e6502fa9824a2a6b20449",
       "revised_on": "2026-11-09"
     },
     "mn148": {
-      "body_sha256": "42c863e60fc0259b239ef992994b718e4e94947a6f82eaabcd1c265310473b5f",
-      "revised_on": "2026-11-09"
+      "body_sha256": "5774b6d56198a1e356b79b6b12d709439b855de81d11367daf7ac4450243ff9d",
+      "revised_on": "2026-11-10"
     },
     "sn12_11": {
       "body_sha256": "5c398557b2b38955f9a9c1b605da04cc5aac408d5ef4c843aef9b1cafdfe1ad8",

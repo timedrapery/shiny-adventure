@@ -7,7 +7,7 @@
 
 *MN 148, the Chachakka Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,087 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 18 min · 3,105 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -51,30 +51,30 @@ The Buddha said this:
 
 ### The Six Sets of Six
 
-"The six internal fields are to be known. The six external fields are to be
+"The six internal sense fields are to be known. The six external sense fields are to be
 known. The six classes of knowing are to be known. The six classes of contact
 are to be known. The six classes of felt experience are to be known. The six
 classes of ignorant wanting are to be known.
 
-"'The six internal fields are to be known': that was said.
+"'The six internal sense fields are to be known': that was said.
 
 What did that refer to?
 
 The eye sense field, the ear sense field, the nose sense field, the tongue
 sense field, the body sense field, and the mind sense field.
 
-"'The six internal fields are to be known': that was said because of this.
+"'The six internal sense fields are to be known': that was said because of this.
 
 This is the first set of six.
 
-"'The six external fields are to be known': that was said.
+"'The six external sense fields are to be known': that was said.
 
 What did that refer to?
 
 The form sense field, the sound sense field, the smell sense field, the taste
 sense field, the tangible sense field, and the dhamma sense field.
 
-"'The six external fields are to be known': that was said because of this.
+"'The six external sense fields are to be known': that was said because of this.
 
 This is the second set of six.
 
@@ -92,7 +92,7 @@ Dependent on tongue and tastes, tongue-knowing arises.
 
 Dependent on body and tangibles, body-knowing arises.
 
-Dependent on mind and dhammas, mind-knowing arises.
+Dependent on the thinking mind and dhammas, mind-knowing arises.
 
 "'The six classes of knowing are to be known': that was said because of this.
 
@@ -117,7 +117,7 @@ three is contact.
 Dependent on body and tangibles, body-knowing arises. The meeting of the
 three is contact.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact.
 
 "'The six classes of contact are to be known': that was said because of this.
@@ -143,7 +143,7 @@ three is contact. With contact as condition, felt experience.
 Dependent on body and tangibles, body-knowing arises. The meeting of the
 three is contact. With contact as condition, felt experience.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, felt experience.
 
 "'The six classes of felt experience are to be known': that was said because
@@ -162,7 +162,7 @@ experience as condition, ignorant wanting.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, felt experience. With felt experience
 as condition, ignorant wanting.
 
@@ -433,7 +433,7 @@ dissatisfaction in this very life.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
@@ -484,7 +484,7 @@ possibility that they will make an end of dissatisfaction in this very life.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
@@ -538,7 +538,7 @@ And while this exposition was being spoken, the minds of sixty bhikkhus were
 released from the outflows through not taking anything personally.
 
 <details class="reader-terms">
-<summary>Words used in this translation (25)</summary>
+<summary>Words used in this translation (26)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -586,6 +586,8 @@ released from the outflows through not taking anything personally.
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
+<dt><dfn>thinking mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
 <dt><dfn>This is not mine, I am not this, this is not my self</dfn></dt>
 <dd>A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.</dd>
 <dt><dfn>underlying tendency</dfn></dt>
@@ -598,7 +600,7 @@ released from the outflows through not taking anything personally.
 
 - **Pali text:** Majjhimanikāya, Uparipaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn148-chachakka-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `42c863e6`
+- **Text last revised:** 2026-11-10 · body version `5774b6d5`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20148) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -636,5 +638,6 @@ released from the outflows through not taking anything personally.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
+*[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
 *[This is not mine, I am not this, this is not my self]: A three-part formula used throughout these texts to work through attachment to any given piece of experience: not owned by me, not identical with me, not a fixed self underlying me.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.

@@ -20,7 +20,7 @@ translation choices, source-audit calls, and edition notes that govern it.
 - **The definitions are quoted from the corpus, not re-solved.** Four of the
   five faculties are defined here by passages that governed surfaces already
   carry: the four right efforts (SN 51.13), the four establishments of
-  remembering (MN 10), the four mental themes (the governed jhāna formula),
+  sati (MN 10), the four mental themes (the governed jhāna formula),
   and the epithets of the Buddha (MN 38). Their wording is reused verbatim.
   Re-translating them locally would have produced five subtly different
   Englishes for text the corpus states identically, which is the drift the

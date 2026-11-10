@@ -36,6 +36,18 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Resolved all 29 acknowledged formula disagreements. Term records now agree
+  on one wording for each, and the acknowledged-disagreement baseline is
+  empty, so any new difference fails the check. Rulings with an effect on
+  readers: "it is intention, bhikkhus, that I call action";
+  "establishment of sati" inside satipaṭṭhāna; "nibbāna is the highest
+  satisfaction"; "the internal sense fields"; "the mind field" for
+  manāyatana (recorded as a context rule on `mano`); and "dependent on the
+  thinking mind and dhammas" in the sense-base formula.
+- Published texts follow those rulings: MN 137, MN 148, and MN 10 say
+  "internal and external sense fields"; MN 148 and MN 18 say "dependent on the
+  thinking mind and dhammas"; MN 38's section heading is "Guarding the
+  Faculties and Clear Knowing"; SN 48.10's notes say "establishments of sati".
 - Translations, term records, and documentation are now licensed under
   CC BY-NC-SA 4.0 (`LICENSE-CONTENT.md`). Code stays under the MIT License.
   Quoted Pali source text is not relicensed.

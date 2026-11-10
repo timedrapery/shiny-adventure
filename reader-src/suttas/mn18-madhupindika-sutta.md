@@ -7,7 +7,7 @@
 
 *MN 18, the Madhupiṇḍika Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,466 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,468 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -155,12 +155,12 @@ visible forms knowable by the eye in the past, future, and present.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three is
-contact. With contact as condition, felt experience. What they feel, they
-recognize. What they recognize, they think about. What they think about, they
-proliferate about. From what they proliferate about as the source, the
-recognitions and notions of proliferation sweep over a person when it comes to
-dhammas knowable by the mind in the past, future, and present."
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of
+the three is contact. With contact as condition, felt experience. What they
+feel, they recognize. What they recognize, they think about. What they think
+about, they proliferate about. From what they proliferate about as the source,
+the recognitions and notions of proliferation sweep over a person when it comes
+to dhammas knowable by the mind in the past, future, and present."
 
 ### When the Process Can Be Designated
 
@@ -269,7 +269,7 @@ That is what the Buddha said. Venerable Ānanda was glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (21)</summary>
+<summary>Words used in this translation (22)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -307,6 +307,8 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
+<dt><dfn>thinking mind</dfn></dt>
+<dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
 <dt><dfn>underlying tendency</dfn></dt>
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
 <dt><dfn>unwholesome</dfn></dt>
@@ -321,7 +323,7 @@ Buddha had said.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn18-madhupindika-sutta-notes.md)
-- **Text last revised:** 2026-08-24 · body version `7a7dd6b9`
+- **Text last revised:** 2026-11-10 · body version `b82f8425`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2018) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -356,6 +358,7 @@ Buddha had said.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
+*[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.
 *[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
 *[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.

@@ -273,7 +273,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="the four foundations of remembering mn 10 satipaṭṭhāna sutta the four foundations of remembering, and the longest, densest text so far. not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing. meditation">
 <h2><a href="../suttas/mn10-satipatthana-sutta/">The Four Foundations of Remembering</a></h2>
 <p class="sutta-card__reference">MN 10 · <span lang="pi">Satipaṭṭhāna Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,828 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,831 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.</p>
 </article>
@@ -406,7 +406,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="not-self|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="long" data-search="not-self at the six sense doors mn 148 chachakka sutta a systematic, almost mechanical working-through of not-self across every sense door. dense, but by this point the pattern should be familiar. not-self · mind and senses">
 <h2><a href="../suttas/mn148-chachakka-sutta/">Not-Self at the Six Sense Doors</a></h2>
 <p class="sutta-card__reference">MN 148 · <span lang="pi">Chachakka Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Long · about 18 min · 3,087 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Long · about 18 min · 3,105 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self · Mind and senses</p>
 <p>A systematic, almost mechanical working-through of not-self across every sense door. Dense, but by this point the pattern should be familiar.</p>
 </article>
@@ -469,7 +469,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. dependent arising · mind and senses">
 <h2><a href="../suttas/mn38-mahatanhasankhaya-sutta/">Does the Same Consciousness Continue?</a></h2>
 <p class="sutta-card__reference">MN 38 · <span lang="pi">Mahātaṇhāsaṅkhaya Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,429 words</p>
+<p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,430 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
 <p>A monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.</p>
 </article>
@@ -539,7 +539,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the six fields of experience mn 137 saḷāyatanavibhaṅga sutta a technical analysis of the six fields of experience. mind and senses">
 <h2><a href="../suttas/mn137-salayatanavibhanga-sutta/">The Six Fields of Experience</a></h2>
 <p class="sutta-card__reference">MN 137 · <span lang="pi">Saḷāyatanavibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 14 min · 2,417 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 14 min · 2,424 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A technical analysis of the six fields of experience.</p>
 </article>
@@ -574,7 +574,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="how thought snowballs mn 18 madhupiṇḍika sutta the honey-ball sutta, on how recognition snowballs into proliferating thought. famously dense even by this collection&#x27;s standards. mind and senses">
 <h2><a href="../suttas/mn18-madhupindika-sutta/">How Thought Snowballs</a></h2>
 <p class="sutta-card__reference">MN 18 · <span lang="pi">Madhupiṇḍika Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 9 min · 1,466 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 9 min · 1,468 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The honey-ball sutta, on how recognition snowballs into proliferating thought. Famously dense even by this collection&#x27;s standards.</p>
 </article>

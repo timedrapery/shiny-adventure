@@ -42,6 +42,11 @@
       "context": "In translator-facing explanation of the gladdening-the-mind step in ānāpānasati",
       "rendering": "thinking mind",
       "notes": "Use when the explanatory point is that wholesome dhammas are brought to bear cognitively in order to gladden citta."
+    },
+    {
+      "context": "In the compound manāyatana, naming the sixth sense field",
+      "rendering": "mind",
+      "notes": "Render manāyatana as `the mind field`, not `the thinking-mind field`: an editorial ruling of 2026-11-10 kept the field name short and parallel to the eye field and ear field. Outside this compound the default `thinking mind` still applies, including in the formula mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ."
     }
   ],
   "related_terms": [
@@ -59,7 +64,7 @@
   "example_phrases": [
     {
       "pali": "mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ",
-      "translation": "dependent on the mental faculty and dhammas, mind-knowing arises",
+      "translation": "dependent on the thinking mind and dhammas, mind-knowing arises",
       "notes": "Shows the sixth-sense-field usage.",
       "source": "MN 148"
     },
@@ -71,7 +76,7 @@
     },
     {
       "pali": "manāyatana",
-      "translation": "thinking-mind field",
+      "translation": "the mind field",
       "notes": "Shows relation to āyatana-family terminology.",
       "source": "MN 137"
     }
