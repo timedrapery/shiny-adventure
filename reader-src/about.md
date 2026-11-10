@@ -72,16 +72,22 @@ than no reading edition.
 
 ## Source and corrections
 
-The primary Pali source is SuttaCentral's segmented Mahāsaṅgīti edition. Every
-sutta page links directly to its canonical Pali text and to the repository's
-companion translation notes.
+The Pali text is checked against the Chaṭṭha Saṅgāyana Tipiṭaka of the
+Vipassana Research Institute, used with thanks under its terms for
+non-commercial use. Every sutta page names the book its text comes from and
+links to that edition and to the repository's companion translation notes.
+
+Translations published before 10 November 2026 were drafted against
+SuttaCentral's Mahāsaṅgīti edition. The project no longer uses SuttaCentral's
+texts, because their publication records ask that they not be used in
+AI-assisted work, and this project is drafted with AI assistance.
 
 Every published page has passed the automated governance, source,
 structure, and readability checks. Human read-aloud and newcomer reviews are
 recorded when they happen, but they are optional and are not shown as a page
 status.
 
-Each page also shows its last editorial-review date and a short body-version
+Each page also shows when its text was last revised and a short body-version
 identifier. If something looks wrong, use its **Report a problem** link so the
 exact sutta is named in the issue.
 
