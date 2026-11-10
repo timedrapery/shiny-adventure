@@ -41,7 +41,13 @@ change in `CHANGELOG.md`.
 4. **Unbound source-fidelity claims.** Outside the pilot cohort, 14 notes files
    say source-fidelity review is complete with no ledger record behind them.
    Decide what those lines should say.
-5. **The dependent-arising chain.** Lines such as `with putting things
+5. **Old GitHub records.** Pull requests #1 to #46 and the workflow runs
+   before 2026-11-10 still show commit details from before that day's history
+   rewrite. GitHub does not let them be edited. Recreating the repository
+   under the same name and pushing the current history is the only way to
+   clear them; GitHub Pages then has to be switched back on, and stars,
+   watchers, and issues are lost.
+6. **The dependent-arising chain.** Lines such as `with putting things
    together as condition, knowing` and the 129-word quenching chain are the
    hardest sentences left. Every link is a governed phrase record, so this
    needs a ruling, not a sentence repair. A verb version would read `When
