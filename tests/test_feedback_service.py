@@ -210,6 +210,50 @@ class PublicApiTests(unittest.TestCase):
         status, _, _ = call(self.app, "POST", "/api/submissions", b"a=b", content_type="application/x-www-form-urlencoded")
         self.assertEqual(status, "415 Unsupported Media Type")
 
+    def test_unstorable_values_are_refused_not_crashed_on(self) -> None:
+        # A lone surrogate cannot be written to the database and an integer
+        # beyond 64 bits cannot be bound; both used to surface as a 500.
+        status, _, body = call(self.app, "POST", "/api/submissions",
+                               translation_payload(client_submission_id="surrogate-00001", comment="a\ud800b"))
+        self.assertEqual(status, "201 Created", body)
+        stored = self.app.storage.submission(json.loads(body)["id"])
+        self.assertEqual(stored["comment"], "a\ufffdb")
+        status, _, body = call(self.app, "POST", "/api/submissions",
+                               comprehension_payload("hugeint-0000001", question_version=10**30))
+        self.assertEqual(status, "422 Unprocessable Content", body)
+        self.assertEqual(self.app.storage.counts()["submissions"], 1)
+
+    def test_a_negative_content_length_is_refused_without_reading_the_body(self) -> None:
+        class Unreadable(io.BytesIO):
+            def read(self, size=-1):  # pragma: no cover - reaching this is the failure
+                raise AssertionError(f"body was read with size {size}")
+
+        environ = {
+            "REQUEST_METHOD": "POST", "PATH_INFO": "/api/submissions", "QUERY_STRING": "",
+            "SERVER_NAME": "127.0.0.1", "SERVER_PORT": "8765", "HTTP_HOST": "127.0.0.1:8765",
+            "wsgi.url_scheme": "http", "wsgi.input": Unreadable(b"x" * 100),
+            "CONTENT_LENGTH": "-1", "CONTENT_TYPE": "application/json", "REMOTE_ADDR": "10.0.0.1",
+        }
+        captured = {}
+        b"".join(self.app(environ, lambda status, headers: captured.update(status=status)))
+        self.assertEqual(captured["status"], "400 Bad Request")
+
+    def test_rate_limit_uses_the_address_the_proxy_saw(self) -> None:
+        # Behind a proxy the leftmost X-Forwarded-For entry is whatever the
+        # client chose to send; only the entry the trusted proxy appended is
+        # evidence of where the request came from.
+        app = make_app(rate_limit_per_hour=2, trust_proxy=True)
+        statuses = []
+        for index in range(4):
+            status, _, _ = call(
+                app, "POST", "/api/submissions",
+                translation_payload(client_submission_id=f"forwarded-{index:06d}"),
+                headers={"X-Forwarded-For": f"203.0.113.{index}, 198.51.100.7"},
+            )
+            statuses.append(status)
+        self.assertEqual(statuses[:2], ["201 Created", "201 Created"])
+        self.assertEqual(statuses[2:], ["429 Too Many Requests", "429 Too Many Requests"])
+
     def test_honeypot_is_accepted_but_not_stored(self) -> None:
         status, _, body = call(self.app, "POST", "/api/submissions", translation_payload(website="http://spam"))
         self.assertEqual(status, "200 OK")
@@ -535,6 +579,24 @@ class StaticSiteTests(unittest.TestCase):
             self.assertEqual(status, "404 Not Found")
             status, _, _ = call(app, "GET", "/suttas/../../secret.txt")
             self.assertEqual(status, "404 Not Found")
+            status, _, _ = call(app, "GET", "/suttas/\x00")
+            self.assertEqual(status, "404 Not Found")
+
+    def test_a_directory_redirect_cannot_leave_the_site(self) -> None:
+        # `//host/..` resolves to the site root, and echoing the request path
+        # back in Location sent the browser to another host.
+        with tempfile.TemporaryDirectory() as tmp:
+            site = Path(tmp) / "site"
+            (site / "suttas").mkdir(parents=True)
+            (site / "index.html").write_text("<p>home</p>", encoding="utf-8")
+            app = FeedbackApp(settings(site_dir=site), Storage(":memory:"))
+            for path in ("//evil.example//..", "//evil.example/%2f..", "/suttas//evil.example/../.."):
+                status, headers, _ = call(app, "GET", path)
+                location = headers.get("Location", "")
+                self.assertFalse(location.startswith("//"), (path, status, location))
+                self.assertNotIn("evil.example", location, (path, status))
+            status, headers, _ = call(app, "GET", "/suttas")
+            self.assertEqual((status, headers["Location"]), ("303 See Other", "/suttas/"))
 
 
 if __name__ == "__main__":

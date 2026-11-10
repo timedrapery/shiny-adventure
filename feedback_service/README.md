@@ -79,7 +79,7 @@ Operating routine for the form transport:
 | `FEEDBACK_SECRET_KEY` | HMAC key for form tokens and client pseudonyms | ephemeral per run |
 | `FEEDBACK_MAX_BODY_BYTES` | request size limit | 32768 |
 | `FEEDBACK_RATE_LIMIT_PER_HOUR` | submissions per client per hour | 30 |
-| `FEEDBACK_TRUST_PROXY` | `1` to read `X-Forwarded-For` behind a reverse proxy | off |
+| `FEEDBACK_TRUST_PROXY` | `1` to take the client address from the last `X-Forwarded-For` entry, the one your reverse proxy appends | off |
 | `FEEDBACK_ALLOW_CONTACT` | `1` to accept an optional consented email for follow-up | off |
 | `FEEDBACK_RETENTION_DAYS` | documented retention, applied by the `purge` command | unset |
 
