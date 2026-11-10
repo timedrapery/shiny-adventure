@@ -23,9 +23,7 @@ change in `CHANGELOG.md`.
 
 ## Decisions needed
 
-1. **Protect `main`.** Require the CI check to pass before merge. Nothing
-   currently stops a pull request merging before its checks finish.
-2. **Formula disagreements.** 29 are acknowledged in
+1. **Formula disagreements.** 29 are acknowledged in
    `reviews/formula-baseline.json`. About half differ only in articles
    (`the first mental theme` / `first mental theme`). The rest use different
    words for the same Pali and need a ruling, for example `coveting` /
@@ -36,18 +34,15 @@ change in `CHANGELOG.md`.
    `knowing and seeing of release` / `knowledge and vision of release`;
    `guarding the faculties` / `sense restraint`;
    `without remainder` / `without fuel remaining`.
-3. **`samaṇa` in AN 8.39.** Its notes declare `ascetics and brahmins` against
+2. **`samaṇa` in AN 8.39.** Its notes declare `ascetics and brahmins` against
    the record's `recluse`.
-4. **Unbound source-fidelity claims.** Outside the pilot cohort, 14 notes files
-   say source-fidelity review is complete with no ledger record behind them.
-   Decide what those lines should say.
-5. **Old GitHub records.** Pull requests #1 to #46 and the workflow runs
+3. **Old GitHub records.** Pull requests #1 to #46 and the workflow runs
    before 2026-11-10 still show commit details from before that day's history
    rewrite. GitHub does not let them be edited. Recreating the repository
    under the same name and pushing the current history is the only way to
    clear them; GitHub Pages then has to be switched back on, and stars,
    watchers, and issues are lost.
-6. **The dependent-arising chain.** Lines such as `with putting things
+4. **The dependent-arising chain.** Lines such as `with putting things
    together as condition, knowing` and the 129-word quenching chain are the
    hardest sentences left. Every link is a governed phrase record, so this
    needs a ruling, not a sentence repair. A verb version would read `When

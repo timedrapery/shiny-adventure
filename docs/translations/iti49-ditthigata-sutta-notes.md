@@ -89,7 +89,9 @@ it into a permanent self.
 
 - Standard: `plain-english-v1`
 - Status: `provisional`
-- Source-fidelity review: complete against the cited segmented Pali.
+- Source-fidelity check: made while drafting, against the cited segmented
+  Pali. This was not an independent sign-off, and none is recorded in
+  `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; all 513 tests, the strict site build,
   all 68 rendered browser accessibility tests, and EPUB validation passed on
   2026-08-25.

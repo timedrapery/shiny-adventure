@@ -6,33 +6,27 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ## [Unreleased]
 
-### Changed
-
-- Gathered the standing editorial rulings, open decisions, and next work into
-  `docs/open-items.md`, and moved the procedure for changing translation
-  wording into `docs/development-guide.md`.
-- Moved the finished wave plans (Waves 9 to 13), the 2026-03 repository
-  review, and the first expansion batch into `docs/archive/`.
-- Linked four documents the documentation guide did not list.
-- CI runs `scripts/run_checks.py` once instead of repeating seven of its
-  checks as separate steps, and runs on pushes to `main` and on pull requests
-  rather than twice for each pull-request commit.
-- Dependabot now watches the npm dependencies used by the browser checks.
-
-### Added
-
-- Tests for `scripts/mkdocs_hooks.py`, `scripts/repair_guidance.py`, and
-  `scripts/term_store.py`.
-
 ### Fixed
 
-- The feedback-service command line closes its database when a command ends,
-  and the tests close every database they open.
+- Fourteen translation notes files described a source-fidelity review as
+  complete with no review record behind it. They now say what was done: a
+  check made while drafting, not an independent sign-off.
+  `check_newcomer_reviews.py` now fails on any notes file, inside or outside
+  the pilot cohort, that claims a completed review the ledger does not hold.
+- The review workboard said the reader shows a `provisional` label in one
+  place and that it does not in another. It does not.
+
+### Changed
+
+- Updated `@playwright/test` to 1.65.0, `@axe-core/playwright` to 4.14.0,
+  and the `mkdocs-material` floor to 9.8.1.
 
 ## [0.1.0] - 2026-11-10
 
 ### Added
 
+- Tests for `scripts/mkdocs_hooks.py`, `scripts/repair_guidance.py`, and
+  `scripts/term_store.py`.
 - Added a governed plain-English translation of MN 113, Sappurisa Sutta (The
   Good Person and the Bad Person), with notes, a reader introduction, and a
   reader page in stage 3 after MN 39. Twenty-six grounds for pride, from
@@ -302,6 +296,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Fixed
 
+- The feedback-service command line closes its database when a command ends,
+  and the tests close every database they open.
 - Feedback import no longer stops at the first unreadable sheet row; each row
   is handled on its own and reported by line number.
 - Feedback service: unstorable values no longer return 500, a negative
@@ -313,6 +309,16 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Gathered the standing editorial rulings, open decisions, and next work into
+  `docs/open-items.md`, and moved the procedure for changing translation
+  wording into `docs/development-guide.md`.
+- Moved the finished wave plans (Waves 9 to 13), the 2026-03 repository
+  review, and the first expansion batch into `docs/archive/`.
+- Linked four documents the documentation guide did not list.
+- CI runs `scripts/run_checks.py` once instead of repeating seven of its
+  checks as separate steps, and runs on pushes to `main` and on pull requests
+  rather than twice for each pull-request commit.
+- Dependabot now watches the npm dependencies used by the browser checks.
 - Stopped all use of SuttaCentral content on 2026-11-10, in line with the
   use requests in its publication records. Source
   checks now read the VRI Chaṭṭha Saṅgāyana Tipiṭaka through the new

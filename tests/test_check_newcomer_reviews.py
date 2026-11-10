@@ -425,6 +425,31 @@ class NotesAgreeWithTheLedgerTests(unittest.TestCase):
         self.assertEqual(len(failures), 1, failures)
         self.assertIn("read-aloud review is not complete, but the ledger says complete", failures[0])
 
+    def test_a_completed_review_claimed_outside_the_ledger_is_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, key = self._notes_repo(root, "complete against the Pali.", "pending.")
+            data["surfaces"] = {}
+
+            failures = reviews.collect_notes_disagreements(data, root)
+
+        self.assertEqual(len(failures), 1, failures)
+        self.assertIn("source-fidelity review is complete, but the ledger has no record of it", failures[0])
+
+    def test_a_drafting_check_outside_the_ledger_is_not_a_claim(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, key = self._notes_repo(root, "pending.", "pending.")
+            surface = next(s for s in reviews.TRANSLATION_SURFACES if s.key == key)
+            (root / surface.notes_relpath).write_text(
+                "# Notes\n\n## Readability Review\n\n"
+                "- Source-fidelity check: made while drafting, against the cited Pali.\n",
+                encoding="utf-8",
+            )
+            data["surfaces"] = {}
+
+            self.assertEqual(reviews.collect_notes_disagreements(data, root), [])
+
     def test_notes_that_make_no_claim_are_not_reported(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             root = Path(tmp)

@@ -28,8 +28,8 @@ This queue does not block translation work, and no contributor should stop
 drafting while it is empty. A translation is publishable once its automated and
 editorial gates pass — source fidelity against the Pali (the VRI Chaṭṭha Saṅgāyana edition; see `docs/source-text-policy.md`), the full
 repository suite, the strict example verifier, the rendered accessibility
-suite, and the plain-English standard. It is published as `provisional`, and
-the reader page says so.
+suite, and the plain-English standard. It is recorded as `provisional` here;
+the reader page does not show that status.
 
 What this queue adds is confidence, not permission. Recorded reader evidence is
 the only thing that moves a surface from `provisional` to `validated`, and
