@@ -26,7 +26,7 @@ below is written by hand and the ledger is what counts.
 
 This queue does not block translation work, and no contributor should stop
 drafting while it is empty. A translation is publishable once its automated and
-editorial gates pass — source fidelity against the segmented Pali, the full
+editorial gates pass — source fidelity against the Pali (the VRI Chaṭṭha Saṅgāyana edition; see `docs/source-text-policy.md`), the full
 repository suite, the strict example verifier, the rendered accessibility
 suite, and the plain-English standard. It is published as `provisional`, and
 the reader page says so.

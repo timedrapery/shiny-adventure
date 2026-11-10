@@ -16,8 +16,10 @@ four X; what four; A, B, C, D; these are the four" scores well per word while
 demonstrating nothing a cluster sheet could not state. Those are reported
 separately rather than silently ranked at the top.
 
-Pali word counts come from .bilara-cache when the root text is present. Texts
-that are not cached are reported as unverified rather than guessed.
+Pali word counts come from the VRI Chaṭṭha Saṅgāyana edition
+(`scripts/vri_source.py`) when its book is already on disk, in `.vri-cache` or
+a clone named by `$VRI_TIPITAKA_DIR`. Nothing is downloaded here; texts that
+are not available are reported as unverified rather than guessed.
 """
 
 from __future__ import annotations
@@ -28,22 +30,22 @@ import re
 import sys
 from collections import defaultdict
 from dataclasses import dataclass, field
-from functools import lru_cache
 from pathlib import Path
 
 try:
     from scripts.surface_registry import TRANSLATION_SURFACES
     from scripts.term_store import iter_term_files
     from scripts.text_utils import safe_text
+    from scripts import vri_source
 except ModuleNotFoundError:
     from surface_registry import TRANSLATION_SURFACES
     from term_store import iter_term_files
     from text_utils import safe_text
+    import vri_source  # type: ignore[no-redef]
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
-BILARA_CACHE = REPO_ROOT / ".bilara-cache"
 
 # Below this many Pali words a discourse is a bare enumeration rather than a
 # text that shows its vocabulary in use. Calibrated against the SN 45 Oghavagga
@@ -128,67 +130,20 @@ def covered_refs(translated: set[str]) -> set[str]:
     return {ref for label in translated for ref in label_refs(label)}
 
 
-def cache_key(sutta: str) -> str:
-    return sutta.lower().replace(" ", "") + "_root-pli-ms.json"
-
-
-@lru_cache(maxsize=1)
-def bundled_cache_index() -> dict[str, Path]:
-    """Map every cached Bilara sutta UID to the file that contains it.
-
-    Most root texts have one file per discourse. Some collections, especially
-    AN 2, bundle several discourses into files such as
-    ``an2.1-10_root-pli-ms.json``. Looking only for an exact filename made the
-    audit call AN 2.9 uncached, and an earlier manual check then counted the
-    entire bundle as though it were one discourse.
-    """
-    index: dict[str, Path] = {}
-    for path in sorted(BILARA_CACHE.glob("*_root-pli-ms.json")):
-        try:
-            with path.open("r", encoding="utf-8") as handle:
-                segments = json.load(handle)
-        except (OSError, json.JSONDecodeError):
-            continue
-        for segment_id in segments:
-            uid, separator, _ = str(segment_id).partition(":")
-            if separator:
-                index.setdefault(uid, path)
-    return index
-
-
-def cache_path(sutta: str) -> Path | None:
-    """Return the exact or bundled cache path for a display reference."""
-    exact = BILARA_CACHE / cache_key(sutta)
-    if exact.exists():
-        return exact
-    uid = sutta.lower().replace(" ", "")
-    return bundled_cache_index().get(uid)
-
-
 def pali_word_count(sutta: str) -> int | None:
-    """Body word count from the cached root text, or None when not cached.
+    """Body word count of the discourse in the VRI edition, or None.
 
-    Front-matter counters beginning with `0.` and bundled-discourse title
-    counters ending with `.0` are excluded so short texts are not inflated.
+    None when the book is not on disk or the reference cannot be placed. Only
+    the requested discourse is counted, never the book or vagga around it,
+    and headings are excluded so short texts are not inflated.
     """
-    path = cache_path(sutta)
-    if path is None:
-        return None
     try:
-        with path.open("r", encoding="utf-8") as handle:
-            segments = json.load(handle)
-    except (OSError, json.JSONDecodeError):
+        located = vri_source.locate(sutta, allow_fetch=False)
+    except vri_source.SourceUnavailable:
         return None
-    total = 0
-    target_uid = sutta.lower().replace(" ", "")
-    for segment_id, text in segments.items():
-        uid, _, counter = segment_id.partition(":")
-        if uid != target_uid:
-            continue
-        if counter.startswith("0.") or counter.endswith(".0"):
-            continue
-        total += len(str(text).split())
-    return total
+    if located is None:
+        return None
+    return len(located.text.split())
 
 
 def load_entries(terms_dir: Path = TERMS_DIR) -> list[dict[str, object]]:
@@ -308,7 +263,7 @@ def print_report(
     unverified = sorted(
         (r for r in rows if r.pali_words is None), key=lambda r: -r.orphan_total
     )
-    print("Unverified Length (root text not in .bilara-cache)")
+    print("Unverified Length (VRI book not on disk; run verify_example_sources.py once to fetch)")
     if not unverified:
         print("- None")
     for row in unverified[:top]:
