@@ -87,7 +87,7 @@ circled him clockwise, and vanished right there.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn1.1/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn1-1-oghatara-sutta-notes.md)
-- **Last editorial review:** 2026-08-24 · body version `88ae4169`
+- **Text last revised:** 2026-08-24 · body version `88ae4169`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%201.1) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -20,6 +20,8 @@ generating script first.
   Validates internal Markdown links, required repository-surface metadata
   files, and selected current corpus-count declarations against the live
   surface registry.
+- `python scripts/refresh_derived.py`
+  Run with `--write` after changing a translation or a term record. It records each changed body's new hash and revision date together in `reviews/body-versions.json`, then regenerates passage identifiers, the reader, every registered generated document, and the indexes, in the right order. Without `--write` it only reports stale body versions. It never edits the review ledger: it names any human evidence bound to a changed body and leaves that decision to a person.
 - `python scripts/check_readability_reviews.py`
   Validates neutral readability-review coverage, companion-note metadata,
   review status, and translation-body hashes for every registered surface.

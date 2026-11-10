@@ -76,7 +76,7 @@ The fourth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an3.136/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an3-136-uppada-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `e02e5035`
+- **Text last revised:** 2026-11-09 · body version `e02e5035`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%203.136) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -186,7 +186,7 @@ The fourteenth chapter, on the Buddha, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dhp179-196/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dhp179-196-buddhavagga-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `35d74b3f`
+- **Text last revised:** 2026-11-09 · body version `35d74b3f`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Dhp%20179-196) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

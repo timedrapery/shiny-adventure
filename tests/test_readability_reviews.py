@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import tempfile
 import unittest
 from dataclasses import replace
 from pathlib import Path
@@ -43,7 +44,7 @@ class CurrentReadabilityReviewTests(unittest.TestCase):
 
                 self.assertEqual(review.standard, readability_reviews.STANDARD)
                 self.assertIn(review.status, readability_reviews.REVIEW_STATUSES)
-                self.assertTrue(readability_reviews.is_iso_date(review.reviewed_on))
+                self.assertTrue(readability_reviews.is_iso_date(review.revised_on))
                 self.assertEqual(
                     review.body_sha256,
                     readability_reviews.translation_body_sha256(surface.main_path),
@@ -86,14 +87,14 @@ class ReviewValidationTests(unittest.TestCase):
             readability_review=replace(
                 review,
                 status="approved-by-automation",
-                reviewed_on="not-a-date",
+                revised_on="not-a-date",
             ),
         )
 
         failures = readability_reviews.review_failures((changed,), REPO_ROOT)
 
         self.assertTrue(any("unknown readability review status" in item for item in failures))
-        self.assertTrue(any("reviewed_on must be an ISO date" in item for item in failures))
+        self.assertTrue(any("revised_on must be an ISO date" in item for item in failures))
 
     def test_reviewed_body_hash_drift_is_rejected(self) -> None:
         surface = sn36_surface()
@@ -107,21 +108,41 @@ class ReviewValidationTests(unittest.TestCase):
         failures = readability_reviews.review_failures((changed,), REPO_ROOT)
 
         self.assertTrue(
-            any("reviewed body hash is stale" in failure for failure in failures),
+            any("recorded body hash is stale" in failure for failure in failures),
             failures,
         )
 
     def test_validated_status_requires_all_human_review_gates(self) -> None:
-        surface = sn36_surface()
-        review = surface.readability_review
-        assert review is not None
-        changed = replace(
-            surface,
-            readability_review=replace(review, status="validated"),
+        # Built in a scratch repository so the test does not depend on what
+        # any real surface's notes happen to say about its review gates.
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            (root / "t.md").write_text("# T\n\n## Translation\n\nBody.\n", encoding="utf-8")
+            (root / "t-notes.md").write_text(
+                "# Notes\n\n## Readability Review\n\n"
+                "- Standard: `plain-english-v1`\n- Status: `validated`\n"
+                "- Source-fidelity review: complete.\n"
+                "- Human read-aloud usability review: pending.\n"
+                "- Newcomer comprehension review: pending.\n",
+                encoding="utf-8",
+            )
+            surface = readability_reviews.TranslationSurface(
+                key="t1",
+                label="T 1",
+                main_relpath="t.md",
+                notes_relpath="t-notes.md",
+                readability_review=replace(
+                    sn36_surface().readability_review,
+                    status="validated",
+                    body_sha256=readability_reviews.translation_body_sha256(root / "t.md"),
+                ),
+            )
+
+            failures = readability_reviews.review_failures((surface,), root)
+
+        self.assertFalse(
+            any("source-fidelity review: complete" in item for item in failures), failures
         )
-
-        failures = readability_reviews.review_failures((changed,), REPO_ROOT)
-
         self.assertTrue(
             any("human read-aloud usability review: complete" in item for item in failures),
             failures,
@@ -130,7 +151,6 @@ class ReviewValidationTests(unittest.TestCase):
             any("newcomer comprehension review: complete" in item for item in failures),
             failures,
         )
-
 
 if __name__ == "__main__":
     unittest.main()

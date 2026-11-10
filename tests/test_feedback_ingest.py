@@ -76,6 +76,25 @@ class IngestTests(unittest.TestCase):
         row = self.storage.submission(result.stored[0])
         self.assertTrue(row["received_at"].endswith("Z"))
 
+    def test_one_unreadable_row_does_not_stop_the_rows_after_it(self) -> None:
+        # Anyone can post to the public form. Each of these rows used to raise
+        # out of the import, so every valid response after it was never stored.
+        path = sheet([
+            ("9/13/2026 10:15:02", translation_payload()),
+            ("9/13/2026 10:16:00", translation_payload(client_submission_id="surrogate-00001", comment="\ud800")),
+            ("9/13/2026 10:17:00", comprehension_payload("hugeint-0000001", question_version=10**30)),
+            ("9/13/2026 10:18:00", "x" * 200_000),
+            ("9/13/2026 10:19:00", "1" * 5000),
+            ("9/13/2026 10:20:00", translation_payload(client_submission_id="after-00000002")),
+        ])
+        result = ingest.ingest_csv(self.storage, path)
+        # The surrogate is kept as a visible replacement mark and stored; the
+        # other three cannot be read and are reported by line.
+        self.assertEqual(len(result.stored), 3, result.rejected)
+        self.assertEqual([line for line, _ in result.rejected], [4, 5, 6])
+        self.assertEqual(self.storage.submission(result.stored[1])["comment"], "\ufffd")
+        self.assertEqual(self.storage.counts()["submissions"], 3)
+
 
 if __name__ == "__main__":
     unittest.main()

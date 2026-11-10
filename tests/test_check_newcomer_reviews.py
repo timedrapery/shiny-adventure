@@ -1,8 +1,10 @@
 from __future__ import annotations
 
 import copy
+import tempfile
 import unittest
 from dataclasses import replace
+from pathlib import Path
 from unittest import mock
 
 from scripts import check_newcomer_reviews as reviews
@@ -28,6 +30,31 @@ def review_entry(participant: str, body_sha256: str, **overrides: object) -> dic
     }
     entry.update(overrides)
     return entry
+
+
+def ledger_with_bound_signoff() -> tuple[dict, str]:
+    """A ledger copy that is guaranteed to hold one current, bound sign-off.
+
+    These tests are about how a completed sign-off is validated, not about
+    whether the repository happens to have one today. Reopening the last real
+    sign-off is a legitimate editorial act and must not break the suite, so
+    when the live ledger has none, one is built here against the current body.
+    """
+
+    data = copy.deepcopy(reviews.load_ledger())
+    for key, record in data["surfaces"].items():
+        if record["source_fidelity"]["status"] == "complete":
+            return data, key
+    key = data["cohort"][0]
+    surface = next(s for s in reviews.TRANSLATION_SURFACES if s.key == key)
+    data["surfaces"][key]["source_fidelity"] = {
+        "status": "complete",
+        "completed_on": "2026-01-01",
+        "evidence": surface.notes_relpath,
+        "body_sha256": current_hash(key),
+        "bound_by": "test fixture: bound to the current body",
+    }
+    return data, key
 
 
 class NewcomerReviewLedgerTests(unittest.TestCase):
@@ -126,13 +153,13 @@ class SourceFidelityBindingTests(unittest.TestCase):
     """A source-fidelity sign-off is about a translation, not a filename."""
 
     def test_a_bound_signoff_against_the_current_body_is_valid(self) -> None:
-        data = copy.deepcopy(reviews.load_ledger())
+        data, fixture_key = ledger_with_bound_signoff()
         bound = [
             key
             for key, record in data["surfaces"].items()
             if record["source_fidelity"]["status"] == "complete"
         ]
-        self.assertTrue(bound, "expected at least one bound sign-off in the ledger")
+        self.assertIn(fixture_key, bound)
         for key in bound:
             with self.subTest(surface=key):
                 self.assertEqual(
@@ -142,10 +169,7 @@ class SourceFidelityBindingTests(unittest.TestCase):
         self.assertEqual(reviews.collect_failures(data), [])
 
     def test_a_signoff_for_an_older_body_stops_counting(self) -> None:
-        data = copy.deepcopy(reviews.load_ledger())
-        key = next(
-            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "complete"
-        )
+        data, key = ledger_with_bound_signoff()
         record = data["surfaces"][key]
         record["source_fidelity"]["body_sha256"] = "0" * 64
         record["status"] = "ready"
@@ -161,10 +185,7 @@ class SourceFidelityBindingTests(unittest.TestCase):
         )
 
     def test_a_completed_signoff_without_a_body_hash_is_rejected(self) -> None:
-        data = copy.deepcopy(reviews.load_ledger())
-        key = next(
-            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "complete"
-        )
+        data, key = ledger_with_bound_signoff()
         del data["surfaces"][key]["source_fidelity"]["body_sha256"]
 
         failures = reviews.collect_failures(data)
@@ -175,27 +196,30 @@ class SourceFidelityBindingTests(unittest.TestCase):
 
     def test_a_superseded_signoff_keeps_its_date_evidence_and_reason(self) -> None:
         # The migration reopened the gates it could not tie to the current
-        # body. Nothing was deleted, and nothing was invented.
-        data = copy.deepcopy(reviews.load_ledger())
-        pending = [
-            (key, record["source_fidelity"])
-            for key, record in data["surfaces"].items()
-            if record["source_fidelity"]["status"] == "pending"
-        ]
-        self.assertTrue(pending)
-        for key, fidelity in pending:
+        # body. Nothing was deleted, and nothing was invented. A gate that
+        # was never signed has no superseded block, and a ledger whose gates
+        # are all complete has none to check; neither is a failure.
+        data = reviews.load_ledger()
+        for key, record in data["surfaces"].items():
+            superseded = record["source_fidelity"].get("superseded_signoff")
+            if superseded is None:
+                continue
             with self.subTest(surface=key):
-                superseded = fidelity["superseded_signoff"]
                 self.assertTrue(reviews.DATE.match(superseded["completed_on"]))
                 self.assertTrue((reviews.REPO_ROOT / superseded["evidence"]).is_file())
                 self.assertIn("Reassess", superseded["note"])
 
     def test_a_superseded_block_without_a_reason_is_rejected(self) -> None:
         data = copy.deepcopy(reviews.load_ledger())
-        key = next(
-            k for k, r in data["surfaces"].items() if r["source_fidelity"]["status"] == "pending"
-        )
-        del data["surfaces"][key]["source_fidelity"]["superseded_signoff"]["note"]
+        key = data["cohort"][0]
+        surface = next(s for s in reviews.TRANSLATION_SURFACES if s.key == key)
+        data["surfaces"][key]["source_fidelity"] = {
+            "status": "pending",
+            "superseded_signoff": {
+                "completed_on": "2026-01-01",
+                "evidence": surface.notes_relpath,
+            },
+        }
 
         failures = reviews.collect_failures(data)
 
@@ -352,6 +376,123 @@ class RegistryDrivesEnforcementTests(unittest.TestCase):
             [f"{outside.key}: registry says validated but the ledger has no record for it"],
         )
 
+
+class NotesAgreeWithTheLedgerTests(unittest.TestCase):
+    """The ledger is the authority; prose that describes it has to match it."""
+
+    def test_repository_notes_and_workboard_match_the_ledger(self) -> None:
+        data = reviews.load_ledger()
+        self.assertEqual(reviews.collect_notes_disagreements(data), [])
+        self.assertEqual(reviews.collect_workboard_disagreements(data), [])
+
+    def _notes_repo(self, root: Path, fidelity: str, read_aloud: str) -> tuple[dict, str]:
+        data = copy.deepcopy(reviews.load_ledger())
+        key = data["cohort"][0]
+        surface = next(s for s in reviews.TRANSLATION_SURFACES if s.key == key)
+        notes = root / surface.notes_relpath
+        notes.parent.mkdir(parents=True)
+        notes.write_text(
+            "# Notes\n\n## Readability Review\n\n"
+            f"- Source-fidelity review: {fidelity}\n"
+            f"- Human read-aloud usability review: {read_aloud}\n\n"
+            "## Later Section\n\n- Source-fidelity review: complete.\n",
+            encoding="utf-8",
+        )
+        data["surfaces"] = {key: data["surfaces"][key]}
+        return data, key
+
+    def test_a_withdrawn_signoff_described_as_complete_is_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, key = self._notes_repo(root, "complete against the Pali.", "pending.")
+            data["surfaces"][key]["source_fidelity"] = {"status": "pending"}
+            data["surfaces"][key]["human_read_aloud"] = {"status": "pending", "reviewers": []}
+
+            failures = reviews.collect_notes_disagreements(data, root)
+
+        self.assertEqual(len(failures), 1, failures)
+        self.assertIn("source-fidelity review is complete, but the ledger says pending", failures[0])
+
+    def test_a_completed_review_described_as_pending_is_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, key = self._notes_repo(root, "pending.", "pending.")
+            data["surfaces"][key]["source_fidelity"] = {"status": "pending"}
+            data["surfaces"][key]["human_read_aloud"] = {"status": "complete", "reviewers": []}
+
+            failures = reviews.collect_notes_disagreements(data, root)
+
+        self.assertEqual(len(failures), 1, failures)
+        self.assertIn("read-aloud review is not complete, but the ledger says complete", failures[0])
+
+    def test_notes_that_make_no_claim_are_not_reported(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            data, key = self._notes_repo(root, "pending.", "pending.")
+            surface = next(s for s in reviews.TRANSLATION_SURFACES if s.key == key)
+            (root / surface.notes_relpath).write_text(
+                "# Notes\n\n## Readability Review\n\n- Review result: reads well.\n",
+                encoding="utf-8",
+            )
+            data["surfaces"][key]["human_read_aloud"] = {"status": "complete", "reviewers": []}
+
+            self.assertEqual(reviews.collect_notes_disagreements(data, root), [])
+
+    def _workboard_for(self, data: dict) -> str:
+        """A workboard written from the ledger, so it agrees by construction."""
+
+        labels = {s.key: s.label for s in reviews.TRANSLATION_SURFACES}
+        required = data["threshold"]["participants_required"]
+        passes = data["threshold"]["independent_passes_required"]
+        done = sum(
+            1 for r in data["surfaces"].values() if r["human_read_aloud"]["status"] == "complete"
+        )
+        lines = [
+            f"Current state: **0 of {required * len(data['surfaces'])} newcomer sessions recorded** "
+            f"and **{done} of {len(data['surfaces'])} read-aloud\nreviews complete**.",
+            "",
+            "| Text | Page | Read aloud | Newcomers | Passing threshold |",
+            "| --- | --- | --- | ---: | ---: |",
+        ]
+        for key, record in data["surfaces"].items():
+            lines.append(
+                f"| {labels[key]} | [page](https://example.invalid/) | "
+                f"{record['human_read_aloud']['status']} | 0/{required} | 0/{passes} |"
+            )
+        return "\n".join(lines) + "\n"
+
+    def test_wrong_workboard_tallies_are_reported(self) -> None:
+        data = copy.deepcopy(reviews.load_ledger())
+        for record in data["surfaces"].values():
+            record["newcomer_reviews"] = []
+        text = self._workboard_for(data)
+        row = reviews.WORKBOARD_ROW.search(text)
+        assert row is not None
+        flipped = "pending" if row.group(2) == "complete" else "complete"
+        wrong_row = row.group(0).replace(f"| {row.group(2)} |", f"| {flipped} |", 1).replace(
+            f"| 0/{row.group(4)} |", f"| 1/{row.group(4)} |", 1
+        )
+        wrong = text.replace("**0 of", "**3 of", 1).replace(row.group(0), wrong_row)
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "README.md"
+            path.write_text(text, encoding="utf-8")
+            self.assertEqual(reviews.collect_workboard_disagreements(data, workboard_path=path), [])
+            path.write_text(wrong, encoding="utf-8")
+
+            failures = reviews.collect_workboard_disagreements(data, workboard_path=path)
+
+        self.assertEqual(len(failures), 3, failures)
+        self.assertTrue(any("newcomer sessions" in f for f in failures), failures)
+        self.assertTrue(any("read aloud is" in f for f in failures), failures)
+        self.assertTrue(any("newcomer tallies are" in f for f in failures), failures)
+
+    def test_the_real_workboard_has_a_row_for_every_cohort_text(self) -> None:
+        # Otherwise the row comparison above could pass by matching nothing.
+        data = reviews.load_ledger()
+        text = (reviews.REPO_ROOT / "reviews" / "README.md").read_text(encoding="utf-8")
+        self.assertEqual(len(reviews.WORKBOARD_ROW.findall(text)), len(data["cohort"]))
+        self.assertIsNotNone(reviews.WORKBOARD_SESSIONS.search(text))
+        self.assertIsNotNone(reviews.WORKBOARD_READ_ALOUD.search(text))
 
 if __name__ == "__main__":
     unittest.main()

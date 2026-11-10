@@ -104,7 +104,7 @@ The seventh discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn56.17/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-17-avijja-sutta-notes.md)
-- **Last editorial review:** 2026-08-25 · body version `eb7c6d43`
+- **Text last revised:** 2026-08-25 · body version `eb7c6d43`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.17) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
