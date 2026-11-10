@@ -115,7 +115,8 @@ alone.
   SN 36.6; the shared MN 148 grief-response formulas remain unchanged.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-09-17); see `reviews/newcomer-review-ledger.json`.
 - Newcomer comprehension review: pending; target is at least four of five
   readers accurately stating both what happens and the practical point.
 

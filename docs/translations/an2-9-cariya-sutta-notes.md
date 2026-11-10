@@ -42,10 +42,13 @@ This document records the source and editorial decisions for
 
 - Standard: `plain-english-v1`
 - Status: `provisional`
-- Source-fidelity review: complete against the cited segmented Pali.
+- Source-fidelity review: pending. A sign-off dated 2026-08-24 could not be tied
+  to the published body and no longer counts; see
+  `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; all 507 tests and the full repository
   suite passed on 2026-08-24.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-09-17); see `reviews/newcomer-review-ledger.json`.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
