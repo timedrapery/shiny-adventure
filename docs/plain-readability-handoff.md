@@ -106,19 +106,10 @@ The full suite (`python scripts/run_checks.py`) passes.
 
 Edit `docs/translations/*.md` (never `reader-src/`, which is generated), and
 change any term record, script constant, or test that quotes the old wording.
-Then refresh every derived file, in this order:
+Then refresh every derived file:
 
 ```bash
-# 1. body hashes: update READABILITY_BODY_SHA256 in scripts/surface_registry.py
-#    to match scripts/check_readability_reviews.translation_body_sha256()
-python scripts/paragraph_ids.py --write
-python scripts/generate_reader.py --write
-for f in scripts/*_report.py scripts/term_directory_navigation.py \
-         scripts/translation_surface_index.py; do
-  grep -q -- '"--write-docs"' "$f" && python "$f" --write-docs
-done
-python scripts/health_dashboard.py --write
-python scripts/next_sutta_priority_report.py --write
+python scripts/refresh_derived.py --write
 python scripts/run_checks.py
 ```
 

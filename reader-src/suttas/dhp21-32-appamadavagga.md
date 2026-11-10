@@ -142,7 +142,7 @@ The second chapter, on heedfulness, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/dhp21-32/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dhp21-32-appamadavagga-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `49f334a4`
+- **Text last revised:** 2026-11-09 · body version `49f334a4`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20Dhp%2021-32) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -291,7 +291,7 @@ The third discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn12.23/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn12-23-upanisa-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `8ca128e1`
+- **Text last revised:** 2026-11-09 · body version `8ca128e1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2012.23) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -73,7 +73,7 @@ Captured automatically from the page manifest, never typed by the reader:
 - the surface key and label, and the page path;
 - the stable passage id, its text fingerprint, its section, and the exact
   wording shown, taken from the rendered paragraph;
-- the translation body hash (`READABILITY_BODY_SHA256`), the same version
+- the translation body hash (`reviews/body-versions.json`), the same version
   the evidence ledger binds to;
 - governed term ids with their basis (`explicit` from the term map,
   `glossary` from the words-used panel), or an explicit `unmapped` state;

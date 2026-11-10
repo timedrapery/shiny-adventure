@@ -342,7 +342,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn56.11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `b7daaea3`
+- **Text last revised:** 2026-11-09 · body version `b7daaea3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

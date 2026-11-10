@@ -172,7 +172,7 @@ The second discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn45.2/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-2-upaddha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `cab85902`
+- **Text last revised:** 2026-11-09 · body version `cab85902`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

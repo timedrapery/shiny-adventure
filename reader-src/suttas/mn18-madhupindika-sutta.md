@@ -321,7 +321,7 @@ Buddha had said.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn18/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn18-madhupindika-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `7a7dd6b9`
+- **Text last revised:** 2026-08-24 · body version `7a7dd6b9`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2018) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

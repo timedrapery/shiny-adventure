@@ -365,7 +365,7 @@ The Cūḷasīhanāda Sutta, the first, is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn11/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn11-culasihanada-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `0cdf7860`
+- **Text last revised:** 2026-11-09 · body version `0cdf7860`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2011) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
