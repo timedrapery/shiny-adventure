@@ -7,7 +7,7 @@
 
 *MN 38, the Mahātaṇhāsaṅkhaya Sutta — set 4, Not-Self and Dependent Arising*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,429 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 31 min · 5,430 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -668,7 +668,7 @@ belly, and wherever they go they set out taking only these.
 Possessed of this entire noble aggregate of conduct, they experience within
 themselves a blameless satisfaction.
 
-### Sense Restraint and Clear Knowing
+### Guarding the Faculties and Clear Knowing
 
 When they see a sight with their eyes, they do not grasp at its features or
 its details. Since, if the faculty of sight were left unrestrained, bad
@@ -889,7 +889,7 @@ The eighth discourse is finished.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn38-mahatanhasankhaya-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `28d7a4c5`
+- **Text last revised:** 2026-11-10 · body version `0812ebe3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2038) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

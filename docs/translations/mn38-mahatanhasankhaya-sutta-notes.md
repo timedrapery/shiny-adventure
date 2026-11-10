@@ -218,7 +218,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
   Wrong View`, `Knowing Named by Its Condition`, `What Has Come to Be`, `The
   Four Nutriments`, `The Arising Chain`, `The Cessation Chain`, `Known and Seen
   for Yourselves`, `How a Being Is Conceived`, `The Ordinary Course`, `The
-  Arising of the Tathāgata`, `Going Forth and the Training`, `Sense Restraint
+  Arising of the Tathāgata`, `Going Forth and the Training`, `Guarding the Faculties
   and Clear Knowing`, `Abandoning the Hindrances and Entering the Mental
   Themes`, and `Freedom Through the Ending of Craving`.
 - The arising-chain and cessation-chain Q&A sections (mn38:18 and mn38:21)

@@ -43,30 +43,30 @@ attend well, and I will speak."
 
 The Buddha said this:
 
-"'The six internal fields are to be known, the six external fields are to be
-known, the six classes of knowing are to be known, the six classes of contact
-are to be known, the eighteen mental explorations are to be known, the thirty-
-six positions are to be known, and here, supported by this, you should give up
-that. And there are three establishments of sati that a noble person cultivates,
-cultivating which a teacher is fit to instruct a group.'
+"'The six internal sense fields are to be known, the six external sense fields
+are to be known, the six classes of knowing are to be known, the six classes of
+contact are to be known, the eighteen mental explorations are to be known, the
+thirty-six positions are to be known, and here, supported by this, you should
+give up that. And there are three establishments of sati that a noble person
+cultivates, cultivating which a teacher is fit to instruct a group.'
 
 That is the summary of the analysis of the six fields.
 
-### The Six Internal Fields
+### The Six Internal Sense Fields
 
-"'The six internal fields should be known' was said. Why was that said?
+"'The six internal sense fields should be known' was said. Why was that said?
 
 'The eye field, ear field, nose field, tongue field, body field, and mind
-field: these are the six internal fields to be known.'
+field: these are the six internal sense fields to be known.'
 
 That is why it was said.
 
-### The Six External Fields
+### The Six External Sense Fields
 
-"'The six external fields should be known' was said. Why was that said?
+"'The six external sense fields should be known' was said. Why was that said?
 
 'The form field, sound field, smell field, taste field, tangible field, and
-dhamma field: these are the six external fields to be known.'
+dhamma field: these are the six external sense fields to be known.'
 
 That is why it was said.
 

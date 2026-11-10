@@ -144,12 +144,12 @@ visible forms knowable by the eye in the past, future, and present.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three is
-contact. With contact as condition, felt experience. What they feel, they
-recognize. What they recognize, they think about. What they think about, they
-proliferate about. From what they proliferate about as the source, the
-recognitions and notions of proliferation sweep over a person when it comes to
-dhammas knowable by the mind in the past, future, and present."
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of
+the three is contact. With contact as condition, felt experience. What they
+feel, they recognize. What they recognize, they think about. What they think
+about, they proliferate about. From what they proliferate about as the source,
+the recognitions and notions of proliferation sweep over a person when it comes
+to dhammas knowable by the mind in the past, future, and present."
 
 ### When the Process Can Be Designated
 

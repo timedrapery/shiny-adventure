@@ -20,12 +20,12 @@
   the abstract noun, and the translation keeps that shape.
 - Four of the five definitions are stock passages that other governed surfaces
   already carry. Their wording is reused rather than re-solved: the four right
-  efforts follow SN 51.13, the four establishments of remembering follow
+  efforts follow SN 51.13, the four establishments of sati follow
   MN 10, the four mental themes follow the governed jhāna formula, and the
   epithets of the Buddha follow MN 38.
 - The Pali abbreviates three passages with peyyala — the middle three
   faculties in the opening list, and the middle two establishments of
-  remembering. This edition marks the elisions rather than silently expanding
+  sati. This edition marks the elisions rather than silently expanding
   them.
 - This is the first stable study edition of the repository's SN 48.10
   translation surface.

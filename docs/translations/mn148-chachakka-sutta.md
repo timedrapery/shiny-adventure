@@ -46,30 +46,30 @@ The Buddha said this:
 
 ### The Six Sets of Six
 
-"The six internal fields are to be known. The six external fields are to be
+"The six internal sense fields are to be known. The six external sense fields are to be
 known. The six classes of knowing are to be known. The six classes of contact
 are to be known. The six classes of felt experience are to be known. The six
 classes of ignorant wanting are to be known.
 
-"'The six internal fields are to be known': that was said.
+"'The six internal sense fields are to be known': that was said.
 
 What did that refer to?
 
 The eye sense field, the ear sense field, the nose sense field, the tongue
 sense field, the body sense field, and the mind sense field.
 
-"'The six internal fields are to be known': that was said because of this.
+"'The six internal sense fields are to be known': that was said because of this.
 
 This is the first set of six.
 
-"'The six external fields are to be known': that was said.
+"'The six external sense fields are to be known': that was said.
 
 What did that refer to?
 
 The form sense field, the sound sense field, the smell sense field, the taste
 sense field, the tangible sense field, and the dhamma sense field.
 
-"'The six external fields are to be known': that was said because of this.
+"'The six external sense fields are to be known': that was said because of this.
 
 This is the second set of six.
 
@@ -87,7 +87,7 @@ Dependent on tongue and tastes, tongue-knowing arises.
 
 Dependent on body and tangibles, body-knowing arises.
 
-Dependent on mind and dhammas, mind-knowing arises.
+Dependent on the thinking mind and dhammas, mind-knowing arises.
 
 "'The six classes of knowing are to be known': that was said because of this.
 
@@ -112,7 +112,7 @@ three is contact.
 Dependent on body and tangibles, body-knowing arises. The meeting of the
 three is contact.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact.
 
 "'The six classes of contact are to be known': that was said because of this.
@@ -138,7 +138,7 @@ three is contact. With contact as condition, felt experience.
 Dependent on body and tangibles, body-knowing arises. The meeting of the
 three is contact. With contact as condition, felt experience.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, felt experience.
 
 "'The six classes of felt experience are to be known': that was said because
@@ -157,7 +157,7 @@ experience as condition, ignorant wanting.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, felt experience. With felt experience
 as condition, ignorant wanting.
 
@@ -428,7 +428,7 @@ dissatisfaction in this very life.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 
@@ -479,7 +479,7 @@ possibility that they will make an end of dissatisfaction in this very life.
 The same pattern applies for ear and sounds, nose and smells, tongue and
 tastes, and body and tangibles.
 
-Dependent on mind and dhammas, mind-knowing arises. The meeting of the three
+Dependent on the thinking mind and dhammas, mind-knowing arises. The meeting of the three
 is contact. With contact as condition, there is felt experience as pleasant,
 painful, or mixed.
 

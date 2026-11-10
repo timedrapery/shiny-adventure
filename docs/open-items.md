@@ -23,31 +23,24 @@ change in `CHANGELOG.md`.
 
 ## Decisions needed
 
-1. **Formula disagreements.** 29 are acknowledged in
-   `reviews/formula-baseline.json`. About half differ only in articles
-   (`the first mental theme` / `first mental theme`). The rest use different
-   words for the same Pali and need a ruling, for example `coveting` /
-   `covetousness`; `the internal fields` / `the internal sense fields`;
-   `nibbāna is the highest ease` / `the highest satisfaction`;
-   `all constructed things` / `all that has been put together`;
-   `establishment of remembering` / `establishment of sati`;
-   `knowing and seeing of release` / `knowledge and vision of release`;
-   `guarding the faculties` / `sense restraint`;
-   `without remainder` / `without fuel remaining`.
-2. **`samaṇa` in AN 8.39.** Its notes declare `ascetics and brahmins` against
+1. **`samaṇa` in AN 8.39.** Its notes declare `ascetics and brahmins` against
    the record's `recluse`.
-3. **Old GitHub records.** Pull requests #1 to #46 and the workflow runs
+2. **Old GitHub records.** Pull requests #1 to #46 and the workflow runs
    before 2026-11-10 still show commit details from before that day's history
    rewrite. GitHub does not let them be edited. Recreating the repository
    under the same name and pushing the current history is the only way to
    clear them; GitHub Pages then has to be switched back on, and stars,
    watchers, and issues are lost.
-4. **The dependent-arising chain.** Lines such as `with putting things
+3. **The dependent-arising chain.** Lines such as `with putting things
    together as condition, knowing` and the 129-word quenching chain are the
    hardest sentences left. Every link is a governed phrase record, so this
    needs a ruling, not a sentence repair. A verb version would read `When
    ignorance completely fades and quenches, putting things together
    quenches.`
+4. **`abhijjhā` in MN 39.** MN 39 renders `abhijjhādomanassa` as
+   `covetousness and displeasure`, while the `abhijjhā` record and MN 10 use
+   `coveting` (MN 10: `coveting and distress`). Decide whether MN 39 should
+   follow, which would change about five sentences.
 
 ## Human review
 

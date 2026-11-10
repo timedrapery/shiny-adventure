@@ -127,38 +127,12 @@ for a zero here. The acknowledged backlog lives in
 
 | Measure | Value |
 | --- | --- |
-| Unexplained disagreements | 29 |
+| Unexplained disagreements | 0 |
 | Waived by scoped exception | 0 |
 | Outside the acknowledged baseline | 0 |
 | Stale baseline entries | 0 |
 
-| Formula | Records | Renderings |
-| --- | --- | --- |
-| `abhijjhā kāyagantho` | 3 | `abhijjha-kayagantha`: coveting is a bodily knot; `gantha`: covetousness is a bodily knot; `kayagantha`: coveting is a bodily knot |
-| `ajjhattikāni āyatanāni` | 2 | `ayatana`: the internal fields; `salayatana`: the internal sense fields |
-| `alobho kusalamūlaṃ` | 1 | `alobha`: non-greed is a root of the wholesome; `alobha`: non-greed is a wholesome root |
-| `anupādisesā nibbānadhātu` | 2 | `anupadisesa-nibbana-dhatu`: the nibbāna element without remainder; `parinibbana-dhatu`: the nibbana element without fuel remaining |
-| `cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṃ` | 3 | `cakkhu`: dependent on the eye and visible forms, eye-knowing arises; `cakkhu-vinnana`: dependent on the eye and forms, eye-knowing arises; `rupa`: dependent on eye and visible forms, eye-knowing arises |
-| `cattāro satipaṭṭhānā` | 3 | `cattaro-satipatthana`: four establishments of sati; `samma-sati`: the four establishments of remembering; `satipatthana`: the four establishments of sati |
-| `catutthaṁ jhānaṁ` | 2 | `catuttha-jhana`: fourth mental theme; `jhana`: the fourth mental theme |
-| `cetanāhaṃ bhikkhave kammaṃ vadāmi` | 2 | `cetana`: bhikkhus, I say that intention is action; `kamma`: It is intention, bhikkhus, that I call action; `kamma`: bhikkhus, I say that action is intention |
-| `citte cittānupassī viharati` | 2 | `citta`: they remain observing the heart in relation to the heart; `cittanupassana`: one remains observing the heart in relation to the heart |
-| `imasmiṃ sati idaṃ hoti` | 3 | `imasmim-sati-idam-hoti`: when this is, this comes to be; `paccaya`: when this is present, this comes to be; `paticcasamuppada`: when this is, this comes to be |
-| `indriyasaṁvaro` | 2 | `indriya-samvara`: guarding the faculties; `samvara`: sense restraint |
-| `jātisamudayā jarāmaraṇasamudayo` | 1 | `jati-samudaya`: from the origin of birth comes the origin of ageing-and-death; `jati-samudaya`: with birth as origin, ageing-and-death originates |
-| `karuṇā cetovimutti` | 2 | `karuna`: the liberation of mind through kindness towards others; `karuna-cetovimutti`: liberation of mind through kindness towards others |
-| `lobho akusalamūlaṃ` | 1 | `lobha`: greed is a root of the unwholesome; `lobha`: greed is an unwholesome root |
-| `mano ca paṭicca dhamme ca uppajjati manoviññāṇaṃ` | 2 | `mano`: dependent on the mental faculty and dhammas, mind-knowing arises; `mano-vinnana`: dependent on the mind and dhammas, mind-knowing arises |
-| `manāyatana` | 2 | `ayatana`: the mind field; `mano`: thinking-mind field |
-| `mettā cetovimutti` | 2 | `metta`: the liberation of mind through friendliness; `metta-cetovimutti`: liberation of mind through friendliness |
-| `moho akusalamūlaṃ` | 1 | `moha`: delusion is a root of the unwholesome; `moha`: delusion is an unwholesome root |
-| `muditā cetovimutti` | 2 | `mudita`: the liberation of mind through gladness; `mudita-cetovimutti`: liberation of mind through gladness |
-| `nekkhammasaṅkappa` | 2 | `nekkhamma`: an attitude of renunciation; `samma-sankappa`: attitude of renunciation |
-| `nibbānaṃ paramaṃ sukhaṃ` | 2 | `nibbana`: nibbāna is the highest ease; `sukha`: nibbāna is the highest satisfaction |
-| `nāmarūpapaccayā saḷāyatanaṁ` | 5 | `namarupa`: with name-and-form as condition, the six fields of experience; `namarupa-paccaya`: with name-and-form as condition, six fields of experience; `namarupapaccaya-salayatanam`: with name-and-form as condition, the six fields of experience; `paccaya`: with name-and-form as condition, the six fields of experience; `salayatana`: with name-and-form as condition, six fields of experience |
-| `paṭhamaṁ jhānaṁ` | 2 | `jhana`: the first mental theme; `pathama-jhana`: first mental theme |
-| `phassasamudayā vedanāsamudayo` | 1 | `phassa-samudaya`: from the origin of contact comes the origin of felt experience; `phassa-samudaya`: with contact as origin, felt experience originates |
-| `Sabbe saṅkhārā aniccā` | 3 | `anicca`: all constructed things are impermanent; `anicca-sabbe-sankhara`: all that has been put together is impermanent; `sankhara`: all that has been put together is impermanent |
+Every shared formula is rendered the same way wherever it is quoted.
 
 ## Human review evidence
 

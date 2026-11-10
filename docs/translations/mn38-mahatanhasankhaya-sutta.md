@@ -671,7 +671,7 @@ belly, and wherever they go they set out taking only these.
 Possessed of this entire noble aggregate of conduct, they experience within
 themselves a blameless satisfaction.
 
-### Sense Restraint and Clear Knowing
+### Guarding the Faculties and Clear Knowing
 
 When they see a sight with their eyes, they do not grasp at its features or
 its details. Since, if the faculty of sight were left unrestrained, bad

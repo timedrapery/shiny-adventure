@@ -25,7 +25,7 @@
     {
       "context": "In the sixfold experiential system or where the sensory function needs to be explicit",
       "rendering": "sense field",
-      "notes": "Use when the relation to eye, ear, nose, tongue, body, and mind is the point."
+      "notes": "Use when the relation to eye, ear, nose, tongue, body, and mind is the point. The formula ajjhattikāni āyatanāni is rendered `the internal sense fields` under this rule, so a newcomer knows what kind of field is meant."
     },
     {
       "context": "In explanatory prose emphasizing scope or range rather than sensory function",
@@ -52,7 +52,7 @@
   "example_phrases": [
     {
       "pali": "ajjhattikāni āyatanāni",
-      "translation": "the internal fields",
+      "translation": "the internal sense fields",
       "notes": "Shows the broader family usage.",
       "source": "MN 148"
     },

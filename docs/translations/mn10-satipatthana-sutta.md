@@ -347,13 +347,13 @@ arising, vanishing, and both; 'There are dhammas,' just enough for knowing and
 remembering; without depending on anything and without taking anything in the
 world personally.]"
 
-#### The Six Internal and External Fields
+#### The Six Internal and External Sense Fields
 
 "Again, a bhikkhu remains observing dhammas among dhammas in the six internal
-and external fields.
+and external sense fields.
 
-And how does a bhikkhu remain observing dhammas among dhammas in the six internal
-and external fields?
+And how does a bhikkhu remain observing dhammas among dhammas in the six
+internal and external sense fields?
 
 A bhikkhu discerns the eye, visible forms, and the fetter that arises dependent
 on both. They also discern how an unarisen fetter arises, how an arisen fetter
