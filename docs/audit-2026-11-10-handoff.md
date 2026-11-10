@@ -1,8 +1,7 @@
 # Repository Audit: Handoff Notes
 
-Written 2026-11-10. The session ran out of budget part-way through
-implementation, so this file separates what was verified, what was changed,
-what was approved but not done, and what still needs the owner.
+Written 2026-11-10. This file separates what was verified, what was changed,
+and what still needs the owner.
 
 Read [plain-readability-handoff.md](plain-readability-handoff.md) as well; it
 covers the translation pass that came before this audit.
@@ -41,20 +40,24 @@ Root cause: the hash and the date lived in two hand-edited tables in
 `scripts/surface_registry.py`. The stale-hash check printed the new hash to
 paste in, and nothing asked about the date.
 
-### 3. Notes files contradict the review ledger on 7 pilot texts
+### 3. Notes files contradicted the review ledger on 7 pilot texts
 
-Confirmed defect, **approved for repair but not done**. The ledger is the
+Confirmed defect, fixed with the owner's approval. The ledger is the
 documented authority. The `## Readability Review` sections of these notes
-files disagree with it:
+files disagreed with it:
 
-| Surface | Notes say | Ledger says |
+| Surface | Notes said | Ledger says |
 | --- | --- | --- |
 | AN 2.9 | source fidelity complete; read-aloud pending | fidelity pending; read-aloud complete |
 | SN 36.6 | read-aloud pending | read-aloud complete |
 | SN 45.2, SN 56.17, AN 8.6, AN 11.12, SN 12.44 | source fidelity complete | fidelity pending (sign-off superseded) |
 
-Outside the pilot cohort, 14 more notes files say source-fidelity review is
-complete with no ledger record at all, so that claim is bound to no body.
+Only the status lines in those seven notes files were changed. No ledger
+evidence was touched.
+
+**Still open:** outside the pilot cohort, 14 more notes files say
+source-fidelity review is complete with no ledger record at all, so that
+claim is bound to no body. They were not changed; see the owner decisions.
 
 ### 4. Release integrity
 
@@ -96,10 +99,53 @@ below.
 not be fetched from this environment). It checks that quoted Pali appears in
 the cited sutta. It is not a review of whether the English is right.
 
-### Not finished
+### 8. Feedback service
 
-A security read of `feedback_service/` was started and did not complete
-before the session ended. Nothing about it is concluded here.
+`feedback_service/` and the browser client were read in full by a delegated
+review, which reproduced each defect below with a script. The first six were
+then reproduced again as failing tests in this session and fixed.
+
+Fixed:
+
+- **One unreadable sheet row ended the import.** A lone surrogate, an
+  oversized integer, or a cell over 128 KiB raised out of
+  `python -m feedback_service ingest`, and every valid response after that
+  row was never stored. The form is public, so anyone could cause it. Each
+  row is now handled on its own and reported by line number.
+- The same values returned HTTP 500 from the live endpoint. A surrogate is
+  now kept as a replacement mark; an out-of-range `question_version` is a
+  validation error.
+- `Content-Length: -1` slipped past the size limit and read the whole body.
+- With `FEEDBACK_TRUST_PROXY=1` the rate limit used the leftmost
+  `X-Forwarded-For` entry, which the client controls. It uses the last entry
+  now, the one the proxy appends.
+- A static request for `//other.host/..` was answered with a redirect to that
+  host (`--site-dir` only). An embedded NUL returned 500.
+- The browser client attached a session code to feedback on every page. On
+  any text but the session's own it was refused as the wrong text, and on the
+  Google Form path the reader was told it was sent. The code is now attached
+  only on the text the session link was opened on.
+
+Reproduced by the delegated review, **not re-verified here and not fixed**:
+
+- Import timestamps: `03/04/2026` always parses month-first, sheet-local
+  time is stamped as UTC, and an unrecognised format silently becomes the
+  import time. This date becomes a ledger `reviewed_on`.
+- Import accepts a formal response for a session that is already closed; the
+  live endpoint refuses it.
+- An edited "Send again" reuses the same submission id, so the first version
+  wins.
+- A non-ASCII CSRF value returns 500 (authenticated only). The admin form
+  accepts session keys and labels the validator later rejects.
+- Staging (`scripts/stage_feedback_evidence.py`) never marks a surface
+  validated, but it copies the body hash a client asserted, matches a
+  returning reader by label only, and will stage a back-dated record as
+  history. `docs/reader-feedback-plan.md` says such records are refused.
+
+Operations, from the documentation: nothing is hosted. The public site posts
+to a Google Form and a maintainer imports the sheet by hand. Receipt was last
+tested by hand on 2026-09-13, rejected rows are only printed, and the queue
+and dispositions live in a git-ignored local database with manual backup.
 
 ## What changed in this session
 
@@ -125,6 +171,14 @@ before the session ended. Nothing about it is concluded here.
 - The stale-hash failure message now points at the refresh command.
 - Three notes passages that still quoted pre-pass wording were corrected
   (MN 10, MN 38, MN 39).
+- `scripts/check_newcomer_reviews.py` now fails when a pilot text's notes, or
+  the tallies in `reviews/README.md`, disagree with the ledger.
+- Ledger and readability tests build their own fixtures. Before, four tests
+  required the live ledger to hold a completed sign-off (and the notes to say
+  particular things), so reopening the last real sign-off for a good reason
+  broke the suite. Verified by emptying a scratch copy of the ledger.
+- The feedback-service fixes listed under finding 8, each with a regression
+  test that failed before the fix.
 
 ## Owner decisions and actions still needed
 
@@ -133,23 +187,25 @@ before the session ended. Nothing about it is concluded here.
 2. **Rule on the substantive formula disagreements** listed above, then make
    the record copies agree.
 3. **Rule on `samaṇa`** in AN 8.39's notes.
-4. **Do the human reviews.** The read-aloud gate needs one reviewer and about
+4. **Decide what the 14 unbound "source-fidelity review: complete" notes
+   lines should say.** They sit outside the pilot cohort, so no ledger record
+   backs them.
+5. **Do the human reviews.** The read-aloud gate needs one reviewer and about
    an hour for the First 12.
 
 ## Next actions, in order
 
-1. Align the 7 notes files with the ledger (already approved), and add a
-   check to `scripts/check_newcomer_reviews.py` that fails when a pilot
-   text's notes and the ledger disagree. Done when the check passes and a
-   test shows it failing on a planted disagreement.
-2. Make the ledger tests independent of live data. Several tests in
-   `tests/test_check_newcomer_reviews.py` call
-   `next(... status == "complete")` on the real ledger, so they fail if the
-   last sign-off is ever reopened for a good reason. Done when the tests pass
-   against a ledger copy with no completed gate.
-3. Finish the `feedback_service/` security read.
-4. Check the hand-written tallies in `reviews/README.md` against the ledger
-   in the same check as item 1.
-5. `scripts/text_utils.safe_text` escapes every Pali diacritic in reports
-   (`abhijjhā`) even on a UTF-8 terminal. Escape only what the output
+1. Fix import timestamps in `feedback_service/ingest.py`: record the sheet's
+   time zone and date order explicitly, and keep a note when a timestamp
+   could not be parsed. Done when a `dd/mm` sheet and an unparseable stamp
+   each have a test.
+2. Decide how import should treat a response for a closed session, then make
+   import and the live endpoint agree. Done when one test covers both paths.
+3. Make `docs/reader-feedback-plan.md` and `stage_feedback_evidence.py` agree
+   on records for a body the reader did not see, and match a returning reader
+   on session as well as label.
+4. `scripts/text_utils.safe_text` escapes every Pali diacritic in reports
+   (`abhijjh\u0101`) even on a UTF-8 terminal. Escape only what the output
    stream cannot encode.
+5. CI runs the unit tests and five checks twice, once as separate steps and
+   once inside `run_checks.py`. Harmless, and a few minutes per run.

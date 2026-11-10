@@ -85,6 +85,9 @@ class Request:
             length = int(self.environ.get("CONTENT_LENGTH") or 0)
         except ValueError:
             length = 0
+        if length < 0:
+            # A negative length would be passed to read() as "read everything".
+            raise BadContentLength()
         if length > limit:
             raise PayloadTooLarge()
         stream = self.environ.get("wsgi.input")
@@ -103,13 +106,21 @@ class Request:
         if trust_proxy:
             forwarded = self.header("x-forwarded-for")
             if forwarded:
-                return forwarded.split(",")[0].strip()
+                # Each proxy appends the address it received the request
+                # from, so the last entry is the one the trusted proxy wrote.
+                # Everything before it arrived in the request and may be
+                # anything the client chose to send.
+                return forwarded.split(",")[-1].strip()
         return self.environ.get("REMOTE_ADDR", "unknown")
 
     def own_origin(self) -> str:
         scheme = self.environ.get("wsgi.url_scheme", "http")
         host = self.header("host") or self.environ.get("SERVER_NAME", "localhost")
         return f"{scheme}://{host}"
+
+
+class BadContentLength(Exception):
+    """The request declared a body length that cannot be honoured."""
 
 
 class PayloadTooLarge(Exception):
@@ -152,6 +163,8 @@ class FeedbackApp:
             response = self.dispatch(request)
         except PayloadTooLarge:
             response = Response.json({"error": "payload too large"}, "413 Payload Too Large")
+        except BadContentLength:
+            response = Response.json({"error": "invalid Content-Length"}, "400 Bad Request")
         except Exception:  # noqa: BLE001 - never leak a traceback to a client
             log.exception("unhandled error on %s %s", request.method, request.path)
             response = Response.json({"error": "internal error"}, "500 Internal Server Error")
@@ -305,12 +318,20 @@ class FeedbackApp:
     def static(self, request: Request) -> Response:
         root = self.settings.site_dir.resolve()
         relative = request.path.lstrip("/")
-        candidate = (root / relative).resolve() if relative else root
+        try:
+            candidate = (root / relative).resolve() if relative else root
+        except (ValueError, OSError):
+            # An embedded NUL, or a path the filesystem cannot represent.
+            return Response.text("Not found.\n", "404 Not Found")
         if root not in candidate.parents and candidate != root:
             return Response.text("Not found.\n", "404 Not Found")
         if candidate.is_dir():
             if not request.path.endswith("/"):
-                return Response.redirect(request.path + "/")
+                # Built from the resolved directory, never from the request
+                # path: `//other.host/..` resolves inside the site, and
+                # echoing it back would send the browser to that host.
+                inside = candidate.relative_to(root).as_posix()
+                return Response.redirect("/" if inside == "." else f"/{inside}/")
             candidate = candidate / "index.html"
         if not candidate.is_file():
             return Response.text("Not found.\n", "404 Not Found")
