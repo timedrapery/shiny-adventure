@@ -15,6 +15,24 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   the pilot cohort, that claims a completed review the ledger does not hold.
 - The review workboard said the reader shows a `provisional` label in one
   place and that it does not in another. It does not.
+- Feedback import no longer guesses how the form sheet writes dates.
+  `ingest` requires `--date-order` (`mdy` or `dmy`) and `--timezone`, and
+  converts sheet-local times to UTC. A row whose timestamp cannot be read is
+  stored with the import time and a note (new column `received_at_note`), and
+  is left out of formal-session evidence exports, since its review date is
+  unknown.
+- Feedback import refuses a response for a closed session, as the live
+  endpoint does, unless the form received it before the session closed.
+- Evidence staging checks the body hash a reader's page reported against the
+  versions of that text actually published in git history, refuses a record
+  dated before its version was published, and matches a returning reader by
+  session and label rather than label alone.
+- Editing a feedback answer and sending it again now creates a new
+  submission instead of being discarded as a duplicate of the first.
+  Resending unchanged contents still reuses the id, so a retry is stored once.
+- A non-ASCII admin form token is refused instead of causing a server error.
+- The admin form and command line refuse surface keys, session codes, and
+  participant labels that the submission validator would reject.
 
 ### Changed
 

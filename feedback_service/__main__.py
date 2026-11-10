@@ -8,7 +8,7 @@
     python -m feedback_service delete --id fb_xxx [--contact-only]
     python -m feedback_service create-session --surface sn36_6 [--title ...]
     python -m feedback_service add-participant --session CODE --label R1 [--returning-from CODE/LABEL] [--independent yes|no]
-    python -m feedback_service ingest --csv responses.csv
+    python -m feedback_service ingest --csv responses.csv --date-order mdy --timezone America/Los_Angeles
     python -m feedback_service export --out queue.json [--surface ...] [--status ...]
     python -m feedback_service export-session --code CODE --out session.json
     python -m feedback_service stats
@@ -120,7 +120,11 @@ def cmd_delete(args: argparse.Namespace) -> int:
 
 def cmd_create_session(args: argparse.Namespace) -> int:
     storage = storage_for(args)
-    session = storage.create_session(args.surface, args.title or "", args.note or "", code=args.code)
+    try:
+        session = storage.create_session(args.surface, args.title or "", args.note or "", code=args.code)
+    except ValueError as error:
+        print(error, file=sys.stderr)
+        return 1
     print(session["code"])
     return 0
 
@@ -141,7 +145,11 @@ def cmd_add_participant(args: argparse.Namespace) -> int:
             return 1
         returning = earlier["id"]
     independent = None if args.independent is None else args.independent == "yes"
-    storage.add_participant(session["id"], args.label, "returning" if returning else "fresh", returning, independent)
+    try:
+        storage.add_participant(session["id"], args.label, "returning" if returning else "fresh", returning, independent)
+    except ValueError as error:
+        print(error, file=sys.stderr)
+        return 1
     print(f"{session['code']}/{args.label}")
     return 0
 
@@ -150,13 +158,21 @@ def cmd_ingest(args: argparse.Namespace) -> int:
     storage = storage_for(args)
     settings = settings_from_env()
     try:
-        result = ingest.ingest_csv(storage, Path(args.csv), contact_enabled=settings.contact_enabled)
+        result = ingest.ingest_csv(
+            storage,
+            Path(args.csv),
+            date_order=args.date_order,
+            timezone_name=args.timezone,
+            contact_enabled=settings.contact_enabled,
+        )
     except (OSError, ValueError) as error:
         print(f"cannot ingest: {error}", file=sys.stderr)
         return 1
     print(result.summary())
     for line, reason in result.rejected:
         print(f"  line {line}: rejected ({reason})")
+    for line, raw in result.unread_timestamps:
+        print(f"  line {line}: stored, but timestamp {raw!r} could not be read; it is excluded from evidence exports")
     return 0
 
 
@@ -233,6 +249,10 @@ def build_parser() -> argparse.ArgumentParser:
 
     ing = sub.add_parser("ingest", help="load a Google Form responses CSV into the queue")
     ing.add_argument("--csv", required=True, help="the responses sheet exported as CSV")
+    ing.add_argument("--date-order", required=True, choices=sorted(ingest.DATE_ORDERS),
+                     help="how the sheet writes dates: mdy (03/04 = March 4) or dmy (03/04 = 3 April)")
+    ing.add_argument("--timezone", required=True,
+                     help="the sheet's time zone (File > Settings in Google Sheets), e.g. America/Los_Angeles")
     ing.set_defaults(func=cmd_ingest)
 
     ex = sub.add_parser("export", help="export the queue as JSON")

@@ -359,6 +359,30 @@ test.describe("google form transport (the committed public configuration)", () =
     expect(payload.terms.map((t) => t.id)).toContain("patigha");
   });
 
+  test("an edited answer sent again is a new submission, not a duplicate", async ({ page }) => {
+    const posts = [];
+    await page.route("https://docs.google.com/**", async (route) => {
+      posts.push(route.request().postData() || "");
+      await route.fulfill({ status: 200, body: "" });
+    });
+    await page.goto(PILOT);
+    const passage = page.locator("[data-passage-id='p013']");
+    await passage.locator("button.reader-feedback__button").click();
+    const form = page.locator("#reader-feedback-p013-form");
+    await form.locator("input[name=category][value=word]").check();
+    await form.locator("textarea[name=comment]").fill("first thought");
+    await form.locator("button[type=submit]").click();
+    await expect(form.locator("button[type=submit]")).toHaveText("Send again");
+    await form.locator("textarea[name=comment]").fill("second, corrected thought");
+    await form.locator("button[type=submit]").click();
+    await expect.poll(() => posts.length).toBe(2);
+    const sent = posts.map((body) => JSON.parse(body.match(/name="entry\.1359254143"\r?\n\r?\n([\s\S]*?)\r?\n--/)[1]));
+    expect(sent[1].comment).toBe("second, corrected thought");
+    // The import keeps the first row for a client id, so an edit must carry
+    // a new one or it would be dropped as a duplicate.
+    expect(sent[1].client_submission_id).not.toBe(sent[0].client_submission_id);
+  });
+
   test("a failed post to the form keeps the form contents", async ({ page }) => {
     await page.route("https://docs.google.com/**", (route) => route.abort("connectionrefused"));
     await page.goto(PILOT);

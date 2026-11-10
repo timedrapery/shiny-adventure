@@ -136,8 +136,13 @@ app runs locally with `wsgiref` and in production under any WSGI server
 `scripts/stage_feedback_evidence.py` takes a reviewed session export, checks
 each record against the current body hash and the ledger's field contract,
 and, with `--write`, appends the records to the surface's `newcomer_reviews`.
-It refuses public-channel records, unassessed records, and records for a body
-other than the one the participant read. `scripts/check_newcomer_reviews.py`
+It refuses public-channel records, unassessed records, records whose body
+hash is not a version of that text ever published (checked against git
+history, because the hash comes from the reader's page), and records dated
+before their body version was first published. A record for an earlier
+published version is staged as history and never counts toward the
+threshold. A returning reader is matched to their earlier record by session
+and label together. `scripts/check_newcomer_reviews.py`
 remains the gate, unchanged.
 
 ## Stable passage identifiers

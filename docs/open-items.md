@@ -68,24 +68,6 @@ consistency, not accuracy or comprehension.
 
 ## Next work
 
-### Feedback service
-
-1. **Import timestamps** in `feedback_service/ingest.py`: `03/04/2026` always
-   parses month-first, sheet-local time is stamped as UTC, and an unrecognised
-   format silently becomes the import time. Record the sheet's time zone and
-   date order explicitly and keep a note when a stamp cannot be parsed. Done
-   when a `dd/mm` sheet and an unparseable stamp each have a test.
-2. **Closed sessions.** Import accepts a formal response for a closed session;
-   the live endpoint refuses it. Make them agree, with one test covering both.
-3. **Staging.** `scripts/stage_feedback_evidence.py` copies the body hash a
-   client asserted, matches a returning reader by label only, and will stage a
-   back-dated record as history, which `docs/reader-feedback-plan.md` says is
-   refused. Make the two agree and match on session as well as label.
-4. An edited "Send again" reuses the same submission id, so the first version
-   wins.
-5. A non-ASCII CSRF value returns 500 (authenticated only). The admin form
-   accepts session keys and labels the validator later rejects.
-
 ### Translations and reader
 
 1. Make the `Before you read` guides plainer, using the taṇhā definition as the

@@ -433,6 +433,53 @@ class AdminTests(unittest.TestCase):
         self.assertEqual(status, "403 Forbidden")
 
 
+    def test_a_non_ascii_form_token_is_refused_not_a_server_error(self) -> None:
+        path = f"/admin/submissions/{self.public_id}/disposition"
+        status, _, _ = call(self.app, "POST", path, "csrf=%C3%A9t%C3%A9&status=examined".encode(),
+                            headers=basic(), content_type="application/x-www-form-urlencoded")
+        self.assertEqual(status, "403 Forbidden")
+
+    def test_the_admin_form_refuses_keys_and_labels_no_reader_could_submit_with(self) -> None:
+        token = auth.csrf_token("test-secret", USER)
+        form = "application/x-www-form-urlencoded"
+        for surface_key in ("SN36_6", "s%C3%BCtta", "a" * 40, ""):
+            with self.subTest(surface_key=surface_key):
+                status, _, _ = call(self.app, "POST", "/admin/sessions",
+                                    f"csrf={token}&surface_key={surface_key}".encode(),
+                                    headers=basic(), content_type=form)
+                self.assertEqual(status, "400 Bad Request")
+        session = self.app.storage.create_session("sn36_6", code="pilot009")
+        for label in ("R%C3%A9", "R_1", "x" * 40, ""):
+            with self.subTest(label=label):
+                status, _, _ = call(self.app, "POST", f"/admin/sessions/{session['code']}/participants",
+                                    f"csrf={token}&label={label}".encode(),
+                                    headers=basic(), content_type=form)
+                self.assertEqual(status, "400 Bad Request")
+        self.assertEqual(self.app.storage.participants(session["id"]), [])
+
+
+class IdentifierRulesTests(unittest.TestCase):
+    def test_storage_refuses_identifiers_the_validator_would_refuse(self) -> None:
+        storage = open_storage(":memory:")
+        with self.assertRaises(ValueError):
+            storage.create_session("Sn36_6")
+        with self.assertRaises(ValueError):
+            storage.create_session("sn36_6", code="ab")
+        session = storage.create_session("sn36_6", code="good-code")
+        with self.assertRaises(ValueError):
+            storage.add_participant(session["id"], "Ré", "fresh")
+        self.assertEqual(storage.add_participant(session["id"], "R-1", "fresh")["label"], "R-1")
+
+    def test_the_command_line_reports_a_bad_identifier_instead_of_crashing(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            db = str(Path(tmp) / "feedback.sqlite")
+            with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()) as err:
+                self.assertEqual(cli_main(["--db", db, "create-session", "--surface", "SN 36.6"]), 1)
+                self.assertEqual(cli_main(["--db", db, "create-session", "--surface", "sn36_6", "--code", "pilot010"]), 0)
+                self.assertEqual(cli_main(["--db", db, "add-participant", "--session", "pilot010", "--label", "R 1"]), 1)
+            self.assertIn("surface key", err.getvalue())
+
+
 class FormalSessionTests(unittest.TestCase):
     def setUp(self) -> None:
         self.app = make_app()
