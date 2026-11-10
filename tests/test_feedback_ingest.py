@@ -25,6 +25,7 @@ def sheet(rows: list[tuple[str, object]]) -> Path:
 class IngestTests(unittest.TestCase):
     def setUp(self) -> None:
         self.storage = Storage(":memory:")
+        self.addCleanup(self.storage.close)
 
     def test_rows_are_validated_stored_and_deduplicated(self) -> None:
         path = sheet([

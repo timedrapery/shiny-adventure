@@ -40,7 +40,7 @@ class CitationSupportTests(unittest.TestCase):
                 self.assertFalse(verify.citation_supported(citation))
 
     def test_no_suttacentral_address_remains(self) -> None:
-        # The owner stopped all use of SuttaCentral content on 2026-11-10.
+        # SuttaCentral content has not been used since 2026-11-10.
         source = (Path(__file__).resolve().parent.parent / "scripts" / "verify_example_sources.py").read_text(
             encoding="utf-8"
         )

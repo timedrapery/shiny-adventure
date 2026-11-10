@@ -125,7 +125,7 @@ class PaliWordCountTests(unittest.TestCase):
         cached = audit.pali_word_count("AN 7.11")
 
         if cached is None:
-            self.skipTest("AN 7.11 root text is not cached")
+            self.skipTest("the VRI AN book is not on disk")
         # The body is a count, a list of seven, and a restatement. The front
         # matter ("Anguttara Nikaya 7.11", "2. Anusayavagga", the title) would
         # add roughly half again as much if it were counted.
@@ -135,11 +135,11 @@ class PaliWordCountTests(unittest.TestCase):
         self.assertIsNone(audit.pali_word_count("MN 99999"))
 
     def test_bundled_cache_counts_only_the_requested_discourse(self) -> None:
-        """AN 2.9 lives inside the AN 2.1-10 cache bundle."""
+        """AN 2.9 is counted on its own, not with the rest of its vagga."""
         cached = audit.pali_word_count("AN 2.9")
 
         if cached is None:
-            self.skipTest("AN 2.1-10 root bundle is not cached")
+            self.skipTest("the VRI AN book is not on disk")
         self.assertGreaterEqual(cached, 60)
         self.assertLessEqual(cached, 65)
 

@@ -42,8 +42,23 @@ def settings(**overrides) -> Settings:
     return Settings(**values)
 
 
+_OPEN_STORAGE: list[Storage] = []
+
+
+def open_storage(path) -> Storage:
+    """Open a database that is closed when this module's tests finish."""
+    storage = Storage(path)
+    _OPEN_STORAGE.append(storage)
+    return storage
+
+
+def tearDownModule() -> None:
+    while _OPEN_STORAGE:
+        _OPEN_STORAGE.pop().close()
+
+
 def make_app(**overrides) -> FeedbackApp:
-    return FeedbackApp(settings(**overrides), Storage(":memory:"))
+    return FeedbackApp(settings(**overrides), open_storage(":memory:"))
 
 
 def call(app, method, path, body=None, headers=None, content_type="application/json", remote="10.0.0.1"):
@@ -519,7 +534,7 @@ class OperationsTests(unittest.TestCase):
     def test_migrations_apply_once_and_backup_purge_delete_work(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             db = Path(tmp) / "feedback.sqlite"
-            storage = Storage(db)
+            storage = open_storage(db)
             self.assertEqual(storage.migrate(), [])
             app = FeedbackApp(settings(db_path=db), storage)
             status, _, body = call(app, "POST", "/api/submissions", translation_payload())
@@ -529,7 +544,7 @@ class OperationsTests(unittest.TestCase):
                 self.assertEqual(cli_main(["--db", str(db), "backup", "--out", str(Path(tmp) / "backups")]), 0)
             backups = list((Path(tmp) / "backups").glob("feedback-*.sqlite"))
             self.assertEqual(len(backups), 1)
-            self.assertEqual(Storage(backups[0]).counts()["submissions"], 1)
+            self.assertEqual(open_storage(backups[0]).counts()["submissions"], 1)
             self.assertEqual(storage.purge_older_than(1, dry_run=True), 0)
             storage.connection.execute(
                 "UPDATE submissions SET received_at = '2020-01-01T00:00:00Z' WHERE public_id = ?", (public_id,)
@@ -568,7 +583,7 @@ class StaticSiteTests(unittest.TestCase):
             (site / "suttas" / "x").mkdir(parents=True)
             (site / "suttas" / "x" / "index.html").write_text("<p>page</p>", encoding="utf-8")
             (Path(tmp) / "secret.txt").write_text("no", encoding="utf-8")
-            app = FeedbackApp(settings(site_dir=site), Storage(":memory:"))
+            app = FeedbackApp(settings(site_dir=site), open_storage(":memory:"))
             status, headers, body = call(app, "GET", "/suttas/x/")
             self.assertEqual(status, "200 OK")
             self.assertEqual(body, b"<p>page</p>")
@@ -589,7 +604,7 @@ class StaticSiteTests(unittest.TestCase):
             site = Path(tmp) / "site"
             (site / "suttas").mkdir(parents=True)
             (site / "index.html").write_text("<p>home</p>", encoding="utf-8")
-            app = FeedbackApp(settings(site_dir=site), Storage(":memory:"))
+            app = FeedbackApp(settings(site_dir=site), open_storage(":memory:"))
             for path in ("//evil.example//..", "//evil.example/%2f..", "/suttas//evil.example/../.."):
                 status, headers, _ = call(app, "GET", path)
                 location = headers.get("Location", "")

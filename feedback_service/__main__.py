@@ -65,8 +65,13 @@ def cmd_serve(args: argparse.Namespace) -> int:
 
 
 def storage_for(args: argparse.Namespace) -> Storage:
+    """Open the command's database once; ``main`` closes it when the command ends."""
+    existing = getattr(args, "_storage", None)
+    if existing is not None:
+        return existing
     settings = settings_from_env(**({"db_path": Path(args.db)} if getattr(args, "db", None) else {}))
-    return Storage(settings.db_path)
+    args._storage = Storage(settings.db_path)
+    return args._storage
 
 
 def cmd_migrate(args: argparse.Namespace) -> int:
@@ -247,7 +252,12 @@ def build_parser() -> argparse.ArgumentParser:
 
 def main(argv: list[str] | None = None) -> int:
     args = build_parser().parse_args(argv)
-    return args.func(args)
+    try:
+        return args.func(args)
+    finally:
+        storage = getattr(args, "_storage", None)
+        if storage is not None:
+            storage.close()
 
 
 if __name__ == "__main__":
