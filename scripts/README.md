@@ -96,7 +96,7 @@ generating script first.
   Fails when a bulleted list has been flattened into running prose by a paragraph rewriter, which is the damage that went unnoticed in MN 118 for three commits.
 - `python scripts/verify_example_sources.py --strict`
   Checks that each `example_phrase` cites a sutta that actually contains its
-  Pali, by fetching the Bilara root text. Needs network access and is
+  Pali, by reading the VRI Chaṭṭha Saṅgāyana edition through `scripts/vri_source.py` (see `docs/source-text-policy.md`). Needs network access and is
   deliberately outside `run_checks.py`. Results are grouped by what they
   establish: `exact` is verified; `compound` and `inflected` are real but
   weaker relationships; `partial` and `absent` are failures; `inconclusive`,

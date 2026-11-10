@@ -288,6 +288,15 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- Stopped all use of SuttaCentral content, on the owner's decision of
+  2026-11-10: its publication records ask that the texts not be used in
+  AI-derived work, and this project is drafted with AI assistance. Source
+  checks now read the VRI Chaṭṭha Saṅgāyana Tipiṭaka through the new
+  `scripts/vri_source.py`; the reader names the VRI book and links to that
+  edition; the SuttaCentral fetch permissions are removed. See
+  `docs/source-text-policy.md`.
+- Corrected the `upasamanussati` citation from AN 1.296 to AN 1.305, its own
+  place in the ten recollections.
 - Reader pages now say `Text last revised` instead of `Last editorial
   review`, and the date is the day the published body last changed. On 55 of
   80 pages the old line showed a date older than the body version beside it.

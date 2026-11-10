@@ -27,9 +27,10 @@ can account for as a contiguous substring, which sorts the likely-wrong ahead
 of the likely-compound, but every row still needs a human check against the
 source before it is called wrong.
 
-Needs network access on first run for any sutta not already in
-`.bilara-cache`, so it is deliberately not part of `run_checks.py`, for the
-same reason `verify_example_sources.py` is not.
+Needs network access on first run for any VRI book not already in
+`.vri-cache` (or a clone named by `$VRI_TIPITAKA_DIR`), so it is deliberately
+not part of `run_checks.py`, for the same reason `verify_example_sources.py`
+is not.
 
     python scripts/triage_citation_stems.py
     python scripts/triage_citation_stems.py --band A
@@ -140,7 +141,7 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--format", choices=("text", "json"), default="text")
     parser.add_argument("--band", choices=("A", "B", "C"))
-    parser.add_argument("--cache-dir", default=str(REPO_ROOT / ".bilara-cache"))
+    parser.add_argument("--cache-dir", default=str(REPO_ROOT / ".vri-cache"))
     args = parser.parse_args(argv)
 
     cache_dir = Path(args.cache_dir)
