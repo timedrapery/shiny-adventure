@@ -275,8 +275,36 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   focus, larger controls, reduced-motion support, mobile reflow, and print
   rules.
 
+### Fixed
+
+- Feedback import no longer stops at the first unreadable sheet row; each row
+  is handled on its own and reported by line number.
+- Feedback service: unstorable values no longer return 500, a negative
+  `Content-Length` is refused, the proxy rate limit uses the address the
+  proxy appended, and a static directory redirect can no longer point at
+  another host.
+- The reader's feedback client attaches a session code only on the text the
+  session link was opened on.
+
 ### Changed
 
+- Reader pages now say `Text last revised` instead of `Last editorial
+  review`, and the date is the day the published body last changed. On 55 of
+  80 pages the old line showed a date older than the body version beside it.
+- Body hashes and revision dates moved from two tables in
+  `scripts/surface_registry.py` into one record per surface in
+  `reviews/body-versions.json`, so they cannot drift apart.
+- Added `scripts/refresh_derived.py`: one command that records changed body
+  versions and regenerates every derived file in order. It never edits the
+  review ledger. See `docs/audit-2026-11-10-handoff.md` for the audit that
+  led to it and for what remains.
+- Corrected three notes passages (MN 10, MN 38, MN 39) that still quoted
+  wording replaced on 2026-11-09.
+- Seven pilot notes files now state the review status the ledger records,
+  and `check_newcomer_reviews.py` fails if a pilot text's notes or the
+  workboard tallies disagree with the ledger.
+- Ledger and readability tests no longer depend on the live ledger holding a
+  completed sign-off.
 - Ran a plain-readability pass over the translations with every house term
   kept: forms of address moved out of mid-sentence, the bare `Here` opener
   dropped, `Having ...ed` clauses rewritten, the release declaration unified

@@ -30,6 +30,10 @@ SESSION_CODE_RE = re.compile(r"^[A-Za-z0-9-]{4,32}$")
 PARTICIPANT_RE = re.compile(r"^[A-Za-z0-9-]{1,32}$")
 EMAIL_RE = re.compile(r"^[^\s@]{1,120}@[^\s@]{1,80}$")
 CONTROL_RE = re.compile(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f]")
+SURROGATE_RE = re.compile(r"[\ud800-\udfff]")
+# Question sets are numbered from 1 by hand; the ceiling only keeps a value
+# the database cannot bind from reaching it.
+MAX_QUESTION_VERSION = 1_000_000
 
 LIMITS = {
     "passage_text": 4000,
@@ -58,6 +62,9 @@ def clean_text(value: Any, field: str, limit: int, required: bool = False) -> st
         value = ""
     if not isinstance(value, str):
         raise ValidationError(field, "must be text")
+    # A lone surrogate is valid in a JSON string but cannot be encoded as
+    # UTF-8, so it cannot be stored; keep a visible mark where it stood.
+    value = SURROGATE_RE.sub("\ufffd", value)
     text = CONTROL_RE.sub("", value).replace("\r\n", "\n").strip()
     if required and not text:
         raise ValidationError(field, "is required")
@@ -175,7 +182,8 @@ def validate_submission(payload: Any, *, contact_enabled: bool = False) -> dict[
         terms = _terms(payload.get("terms"))
     else:  # comprehension
         version = payload.get("question_version")
-        if not isinstance(version, int) or isinstance(version, bool) or version < 1:
+        if (not isinstance(version, int) or isinstance(version, bool)
+                or not 1 <= version <= MAX_QUESTION_VERSION):
             raise ValidationError("question_version", "must be a positive integer")
         answers = payload.get("answers")
         if not isinstance(answers, dict) or not answers or len(answers) > LIMITS["max_answers"]:

@@ -128,7 +128,7 @@ The eighth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an3.88/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an3-88-tatiyasikkha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `462c5d1e`
+- **Text last revised:** 2026-11-09 · body version `462c5d1e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%203.88) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

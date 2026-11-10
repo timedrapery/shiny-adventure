@@ -213,8 +213,11 @@ Wave 13 is complete: Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are
 all published (see the [Wave 13 execution plan](docs/wave-13-execution-plan.md)).
 The next queue needs a fresh audit before a sutta is given a position.
 
-**Start here when resuming:** [docs/plain-readability-handoff.md](docs/plain-readability-handoff.md)
-records the latest readability pass, the decisions behind it, and the next steps.
+**Start here when resuming:** [docs/audit-2026-11-10-handoff.md](docs/audit-2026-11-10-handoff.md)
+records the latest audit, what it fixed, and what is still open;
+[docs/plain-readability-handoff.md](docs/plain-readability-handoff.md) records
+the readability pass before it. After changing a translation, run
+`python scripts/refresh_derived.py --write`, then `python scripts/run_checks.py`.
 
 Picking the work up cold: for translation expansion, start with the
 [Wave 11 execution plan](docs/wave-11-execution-plan.md), then use

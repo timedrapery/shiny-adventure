@@ -655,7 +655,7 @@ Buddha!"
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/mn99/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn99-subha-sutta-notes.md)
-- **Last editorial review:** 2026-11-08 · body version `d3899bf3`
+- **Text last revised:** 2026-11-09 · body version `d3899bf3`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2099) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

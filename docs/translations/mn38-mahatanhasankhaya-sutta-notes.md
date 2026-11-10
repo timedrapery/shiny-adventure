@@ -271,6 +271,7 @@ All governing terms for MN 38 are covered by existing lexicon records:
 - Human read-aloud usability review: pending.
 - Newcomer comprehension review: pending.
 - Sāti's mistaken claim now names its referent directly: `this same
-  consciousness speaks and knows`. `Cognizes an idea` and `Having been what,
-  what did we become?` remain unchanged because their stock-formula
-  distinctions require source-level review.
+  consciousness speaks and knows`. `Cognizes an idea` remains unchanged because its stock-formula
+  distinction requires source-level review. `Having been what, what did we
+  become?` became `After being what, what did we become?` in the 2026-11-09
+  sentence pass.

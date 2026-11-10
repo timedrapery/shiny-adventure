@@ -144,19 +144,26 @@
     return ok;
   }
 
-  function sessionContext() {
+  function sessionContext(manifest) {
     // A facilitator hands a participant a link carrying the session code and
-    // their anonymous label. Kept for the browser session so it follows the
-    // reader to the next page; never stored longer.
+    // their anonymous label. Kept for the browser session so it survives a
+    // reload of that page; never stored longer.
+    //
+    // A session is for one text. The link is opened on that text, so the
+    // text is remembered with the code, and the code is attached only there.
+    // Sent from any other page it would be refused as the wrong text, and on
+    // the form transport the reader would be told their feedback was sent
+    // when it was going to be rejected at import.
     const params = new URLSearchParams(window.location.search);
     const code = normalize(params.get("session"));
     const participant = normalize(params.get("participant"));
     if (code && participant) {
-      const context = { code, participant };
+      const context = { code, participant, surface: manifest.surface_key };
       writeJSON("sessionStorage", SESSION_KEY, context);
       return context;
     }
-    return readJSON("sessionStorage", SESSION_KEY);
+    const stored = readJSON("sessionStorage", SESSION_KEY);
+    return stored && stored.surface === manifest.surface_key ? stored : null;
   }
 
   // ---------------------------------------------------------------------
@@ -668,7 +675,7 @@
     const transport = transportFor(manifest);
     const endpoint = transport || endpointFor(manifest);
     if (!transport && !(await serviceIsHealthy(endpoint))) return;
-    const session = sessionContext();
+    const session = sessionContext(manifest);
 
     revealSection(session);
     attachPassageControls(manifest, session, endpoint);

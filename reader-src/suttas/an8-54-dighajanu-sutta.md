@@ -207,7 +207,7 @@ The fourth discourse is finished.
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/an8.54/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an8-54-dighajanu-sutta-notes.md)
-- **Last editorial review:** 2026-11-09 · body version `25fa010b`
+- **Text last revised:** 2026-11-09 · body version `25fa010b`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%208.54) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

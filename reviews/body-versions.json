@@ -1,0 +1,325 @@
+{
+  "_comment": "One record per translation surface: the SHA-256 of its published translation body and the date that body was last revised. The two always change together. Do not edit by hand: run `python scripts/refresh_derived.py --write` after changing a translation. Human review evidence lives in newcomer-review-ledger.json and is bound to these hashes; this file is a version record, not evidence of review.",
+  "surfaces": {
+    "mn1": {
+      "body_sha256": "de3c8da710c0be78d19dab74616ce1ed6343982cd2d720d1fa89cc8fe7d44553",
+      "revised_on": "2026-11-09"
+    },
+    "mn2": {
+      "body_sha256": "7b387b9585411d3f566918558b56459a0997702e5585a5f481e193b4881a5e44",
+      "revised_on": "2026-11-09"
+    },
+    "mn7": {
+      "body_sha256": "e33d4501cc5764c896080a626a057bbce557c36e3a5d2e81e801839690d34ec2",
+      "revised_on": "2026-11-09"
+    },
+    "mn9": {
+      "body_sha256": "5c31b105d41b34c9f76d4dc7e473c4382b6e1160d30af84fe44ac4cde72efbe3",
+      "revised_on": "2026-11-09"
+    },
+    "mn10": {
+      "body_sha256": "6413d9520c55e30721f39d32fe2aa29d5142c38e04f3db00432dd8c71f840d88",
+      "revised_on": "2026-11-09"
+    },
+    "mn11": {
+      "body_sha256": "0cdf78600ada25558c9ebfe94f8f3d955b320fec2b6dc3ca11e12562283c0ae7",
+      "revised_on": "2026-11-09"
+    },
+    "mn18": {
+      "body_sha256": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
+      "revised_on": "2026-08-24"
+    },
+    "mn19": {
+      "body_sha256": "be7796b474bcf43063c6a539ea646197db7a2b2f95006b9ad0eb9922c86b7227",
+      "revised_on": "2026-11-09"
+    },
+    "mn22": {
+      "body_sha256": "f732679544986a626414b744a4348973c10055b40f7aa319306dabed312e4b06",
+      "revised_on": "2026-11-09"
+    },
+    "mn26": {
+      "body_sha256": "fad88e4bd95c0667f0eb399e02777fb873d856943d059717e61f10398413a83b",
+      "revised_on": "2026-11-09"
+    },
+    "mn36": {
+      "body_sha256": "474dba642b30650df556e45268e873ec0f481e7608c1d3ea495a7e52e973d3d0",
+      "revised_on": "2026-11-09"
+    },
+    "mn38": {
+      "body_sha256": "28d7a4c5f69cfbd0af67a2b75cb8007b709c6dd6c01ab9ed3b70f5d78e16ace6",
+      "revised_on": "2026-11-09"
+    },
+    "mn39": {
+      "body_sha256": "2c16fa7ff5e85c3b392bb29e014b65f0b2df9f3af0adf0bbd06af546d59d1da6",
+      "revised_on": "2026-11-09"
+    },
+    "mn43": {
+      "body_sha256": "5619145e10c5906fe0336dd1861a29562be081a08879bd528d2c887fd0f88d89",
+      "revised_on": "2026-11-09"
+    },
+    "mn44": {
+      "body_sha256": "bb921376d01a9c81a24a4170f59a1fd233787c88a007a6e6060e74f9384d6672",
+      "revised_on": "2026-11-09"
+    },
+    "mn61": {
+      "body_sha256": "218807c23d672ac40682951b9897d29be36049800ddb5c42f50d02817b1eacbc",
+      "revised_on": "2026-11-09"
+    },
+    "mn63": {
+      "body_sha256": "efa71b5f46cb6b95f295add3aed4632b26baaa7d4eecc91e5f56529a9827583c",
+      "revised_on": "2026-11-09"
+    },
+    "mn64": {
+      "body_sha256": "5dc4fca5dc726cd343d32ed75a40080f341fe7d7fc4e8bc8d63715f4d9db6417",
+      "revised_on": "2026-11-09"
+    },
+    "mn99": {
+      "body_sha256": "d3899bf346d6961b8a3b656bc8057d10ce2e5467c7b4a4cc978093e158539d28",
+      "revised_on": "2026-11-09"
+    },
+    "mn113": {
+      "body_sha256": "92e65f00bb8f1bb6000278d988c3132b96f382411fcbec3cc7a379d39ac688ab",
+      "revised_on": "2026-11-09"
+    },
+    "mn117": {
+      "body_sha256": "bff129d9662289a4df5b3f80907c0b0a83485895d65479550fa58a7f5b893f30",
+      "revised_on": "2026-11-09"
+    },
+    "mn118": {
+      "body_sha256": "1f765b0431a91ca73b501bfc87dcfb658e8f31028a3b0077b6bd6ec660790e30",
+      "revised_on": "2026-11-09"
+    },
+    "mn119": {
+      "body_sha256": "dfdbf65a89f1088cd7110ceb23ee8f7089ef30e3008ae4a43aa3b38c4bafd157",
+      "revised_on": "2026-11-08"
+    },
+    "mn121": {
+      "body_sha256": "7979493bb72d9f0baca8ff4658ff44d10fc5e4e531acec99b952c9102554789d",
+      "revised_on": "2026-11-09"
+    },
+    "mn122": {
+      "body_sha256": "a17ddc965de1fbec8c227ef03ba0d07aa6dacb0c176a5560c65396120310b053",
+      "revised_on": "2026-11-09"
+    },
+    "mn131": {
+      "body_sha256": "67d01f7421477463a394ca31c9cdfde9d3a9e5c02df3c3c3af105758879fb672",
+      "revised_on": "2026-11-09"
+    },
+    "mn137": {
+      "body_sha256": "0af1fc42153eb60dd3a62dabf0b8435470d7fcdb33b833841172051b1bf7f7d2",
+      "revised_on": "2026-11-09"
+    },
+    "mn141": {
+      "body_sha256": "4b7012b3429dc201c38c47c301070eb4f15803ac290e6502fa9824a2a6b20449",
+      "revised_on": "2026-11-09"
+    },
+    "mn148": {
+      "body_sha256": "42c863e60fc0259b239ef992994b718e4e94947a6f82eaabcd1c265310473b5f",
+      "revised_on": "2026-11-09"
+    },
+    "sn12_11": {
+      "body_sha256": "5c398557b2b38955f9a9c1b605da04cc5aac408d5ef4c843aef9b1cafdfe1ad8",
+      "revised_on": "2026-11-09"
+    },
+    "sn12_61": {
+      "body_sha256": "e6baa3440db183f95ae75032f41a2f1403e4917552dfc8a6ad4b03cf0c52289d",
+      "revised_on": "2026-11-09"
+    },
+    "sn12_15": {
+      "body_sha256": "f4edd91be61c2e628c09ed7e4dca8dc7fd2933f5f69ad44544a6a8d7e4e12aaf",
+      "revised_on": "2026-08-24"
+    },
+    "sn12_44": {
+      "body_sha256": "d96035f8601aebff22abc0d3471d2bd7c38014e0fafccf46fe07741136d206c7",
+      "revised_on": "2026-08-25"
+    },
+    "sn12_23": {
+      "body_sha256": "8ca128e1a2e7cf0509365f80b95cc4a9aa894ba74238a5ddf6079547ad405c84",
+      "revised_on": "2026-11-09"
+    },
+    "sn12_2": {
+      "body_sha256": "10524ad1c459d115191ebdbfdb3604872d118b9cf53a31d7e5a4728c0ba5a596",
+      "revised_on": "2026-11-09"
+    },
+    "sn12_20": {
+      "body_sha256": "5e9d316330bb4e6f046f4df819f1a63fb2d748b4ab74cae805efb797aadd72c6",
+      "revised_on": "2026-11-09"
+    },
+    "sn51_13": {
+      "body_sha256": "bcc9fa51a7c154ddb0b8116bff6eb71e19c74ff2c527402b53a9c855c9822048",
+      "revised_on": "2026-11-09"
+    },
+    "sn1_1": {
+      "body_sha256": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
+      "revised_on": "2026-08-24"
+    },
+    "sn55_5": {
+      "body_sha256": "5572c6b6440b2e34b68f61e81192971002d15b8795cd2a90751b5588e4ffaf64",
+      "revised_on": "2026-11-08"
+    },
+    "sn56_11": {
+      "body_sha256": "b7daaea35de198898414f52c4b8066f0b212301b53d48624d41e714f6faded45",
+      "revised_on": "2026-11-09"
+    },
+    "sn56_17": {
+      "body_sha256": "eb7c6d437ff1752a470fdeea4c8167d9c9f8378e78c6d75e83b5d758db077835",
+      "revised_on": "2026-08-25"
+    },
+    "sn22_59": {
+      "body_sha256": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
+      "revised_on": "2026-08-24"
+    },
+    "sn22_48": {
+      "body_sha256": "fb38ded19ba1ca7f34b49d5c30465237d03d5aff7aced3a501743ab223a04d61",
+      "revised_on": "2026-11-09"
+    },
+    "sn22_22": {
+      "body_sha256": "b7f1f96aeca0d4fe6ad3ee18eb184632c382ee7f04e4706a69e4d30558d74ddd",
+      "revised_on": "2026-11-09"
+    },
+    "sn22_26": {
+      "body_sha256": "ac14ba830a1faf02eddf5b50f4a1ea9a777dd9e5d67d857733135806dbcf0fe7",
+      "revised_on": "2026-11-09"
+    },
+    "sn22_89": {
+      "body_sha256": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
+      "revised_on": "2026-08-24"
+    },
+    "sn22_86": {
+      "body_sha256": "35d9b785e82161ce72bcd4d2c8cf709815f0e14720fddaf499b9d3c5acfdc699",
+      "revised_on": "2026-11-09"
+    },
+    "sn35_28": {
+      "body_sha256": "ff791a92bb45ed74c35459a612925ae7e9063043c24c039c265a49418a4ca08a",
+      "revised_on": "2026-11-09"
+    },
+    "sn45_2": {
+      "body_sha256": "cab859023c9c9e40ce176d8207f828a66b3bf5251c802f7484597e15c753ccfc",
+      "revised_on": "2026-11-09"
+    },
+    "sn45_8": {
+      "body_sha256": "d1d6cc56cefa6fc87570c23003c3f7c0d4dcbc119f1e41ad3b726a13e6dfa511",
+      "revised_on": "2026-11-09"
+    },
+    "sn36_6": {
+      "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
+      "revised_on": "2026-08-24"
+    },
+    "sn46_1": {
+      "body_sha256": "84d634d705f8092eb678e81deda93826db5f810b8d54299b801125bf0d127a9f",
+      "revised_on": "2026-11-09"
+    },
+    "sn46_51": {
+      "body_sha256": "996f341d677fc2a93f203b9419dbf1e44c0dc2de700357f9e82d311a98ea9a87",
+      "revised_on": "2026-11-08"
+    },
+    "sn48_10": {
+      "body_sha256": "546fc20edaa828485f4c5ebf0e120a4536a9cce52d0713b491508b8368a69cc7",
+      "revised_on": "2026-11-09"
+    },
+    "an2_9": {
+      "body_sha256": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
+      "revised_on": "2026-08-24"
+    },
+    "an3_65": {
+      "body_sha256": "e6aceddf78a3d2b0361438aca13cd83bff9088367722eb2244aa5680b4cbeb6d",
+      "revised_on": "2026-11-09"
+    },
+    "an6_19": {
+      "body_sha256": "8db14b637564e4746361b0c7b9880af71c5ce6564577adbb4bc8a5390b8d4b14",
+      "revised_on": "2026-11-09"
+    },
+    "an5_14": {
+      "body_sha256": "c8b71291aafe6b6ae394cb4a0dfaa295c23d6b8688cbc60c52364fc9cb8dec2e",
+      "revised_on": "2026-11-09"
+    },
+    "an3_136": {
+      "body_sha256": "e02e5035d59c9dfb3462d04accca32f2b9fbd631d71c80571a1c4e6b2bf87f4d",
+      "revised_on": "2026-11-09"
+    },
+    "an3_69": {
+      "body_sha256": "70ab99be572724b9051681ae7a8525b99dc129c518dbacf37dace77488aa0e44",
+      "revised_on": "2026-08-24"
+    },
+    "an3_88": {
+      "body_sha256": "462c5d1ef734fa32796158af0185d44e2a016897a284b8e29520a21c78bd2865",
+      "revised_on": "2026-11-09"
+    },
+    "an4_5": {
+      "body_sha256": "42417d4a25fecfeb9bafa28af0923804f2cf9fa9235f9fbb97ad298761d982d8",
+      "revised_on": "2026-11-08"
+    },
+    "an4_113": {
+      "body_sha256": "5b174ac0addaa28cc8293860070f9ccfc709fab9c79882399e255f43c0565eec",
+      "revised_on": "2026-11-09"
+    },
+    "an6_63": {
+      "body_sha256": "120b30dbd775f8936db4d653816e9563d21ff69e707070c637d79ed77629b998",
+      "revised_on": "2026-11-09"
+    },
+    "an8_6": {
+      "body_sha256": "3a757a0765f5aab18f1086ae6dcfdef72669b2e1ae63a44870f56858eb6ed0e0",
+      "revised_on": "2026-11-09"
+    },
+    "an8_39": {
+      "body_sha256": "a11ba7de50b051609e12ae7fb28bf71b3fda14609ea980bedb336bfc2998ad16",
+      "revised_on": "2026-11-09"
+    },
+    "an10_60": {
+      "body_sha256": "dfa291050a0a8e5a5e61b7859fb3189417aba575029a9f4fab49ff925297ed6e",
+      "revised_on": "2026-11-09"
+    },
+    "an11_9": {
+      "body_sha256": "68e0a02f93bf51d72194c42dc60d6e2f7e703e58642ee5a8750cb81049fe7cb9",
+      "revised_on": "2026-11-08"
+    },
+    "an11_12": {
+      "body_sha256": "fae0dd24a101f9a3a8c3673a177e7d032dc046178d308f1ccc3df50be1652b1d",
+      "revised_on": "2026-11-08"
+    },
+    "dn2": {
+      "body_sha256": "ca0319f99fb06f8046969005552e19987a1a656ee870637c12be5f3d62448d94",
+      "revised_on": "2026-11-09"
+    },
+    "dn15": {
+      "body_sha256": "0770845c43844286bed4ebc447c7afe4d5d132eccb60cc4502bae1cdb58df20d",
+      "revised_on": "2026-11-09"
+    },
+    "iti44": {
+      "body_sha256": "f767898d2afd2f9cef53e9fbf4414a6f2cee52553aa32390d14eafc7c2ecbe8d",
+      "revised_on": "2026-11-09"
+    },
+    "ud8_3": {
+      "body_sha256": "69dcf68d448d22ef132e026a169e4019c7a8cbaad5c31ff7534bc8cfd7818ef3",
+      "revised_on": "2026-11-09"
+    },
+    "iti49": {
+      "body_sha256": "d848f1253c59708156f051c256560ec8f67148a0939867d26e8feebdba5814ca",
+      "revised_on": "2026-11-09"
+    },
+    "dhp21_32": {
+      "body_sha256": "49f334a4480939df786153a07bdb084f5a2143934d772516c66baba38fe807c4",
+      "revised_on": "2026-11-09"
+    },
+    "an8_54": {
+      "body_sha256": "25fa010bbc6ec8ccacddb04828bdf1d823cbe5415df523f816fca1dfcee36fa2",
+      "revised_on": "2026-11-09"
+    },
+    "an8_41": {
+      "body_sha256": "845ee70b4d28387a391db3e4f77432daee33b8658d26f32916932788cabaa83c",
+      "revised_on": "2026-11-09"
+    },
+    "snp1_8": {
+      "body_sha256": "41bc1fb2b97f5db229624a6716c1d27b8d27808d9f55f7b7bc940aa3fcabf763",
+      "revised_on": "2026-11-09"
+    },
+    "dhp179_196": {
+      "body_sha256": "35d74b3f9f89e92f87b2dbcac9f729951e38ecf10e5fc8cd88371853baff7c6a",
+      "revised_on": "2026-11-09"
+    },
+    "dhp273_289": {
+      "body_sha256": "16d60e08b3c3f0714f4681d8a2f633f4acd188e6a5fb6e7dca2b3495bb9567df",
+      "revised_on": "2026-11-09"
+    }
+  }
+}

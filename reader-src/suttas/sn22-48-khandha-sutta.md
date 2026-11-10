@@ -130,7 +130,7 @@ These are called the five clung-to heaps."
 
 - **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.48/pli/ms)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-48-khandha-sutta-notes.md)
-- **Last editorial review:** 2026-08-23 · body version `fb38ded1`
+- **Text last revised:** 2026-11-09 · body version `fb38ded1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.48) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

@@ -15,10 +15,12 @@ from __future__ import annotations
 
 import csv
 import json
+import sys
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Iterable
 
+from .config import settings_from_env
 from .storage import Storage, stamp
 from .validation import ValidationError, validate_submission
 
@@ -71,6 +73,11 @@ def payload_column(header: list[str]) -> int:
 
 
 def rows_from_csv(path: Path) -> Iterable[tuple[int, str | None, str]]:
+    # The csv module refuses any cell over 128 KiB by raising from the
+    # reader, which ends the iteration and with it every row that follows.
+    # The sheet is a local file the editor chose to import, so let the cell
+    # through and reject it by size like any other oversized payload.
+    csv.field_size_limit(min(sys.maxsize, 2**31 - 1))
     with path.open(encoding="utf-8-sig", newline="") as handle:
         reader = csv.reader(handle)
         header = next(reader, None)
@@ -126,14 +133,30 @@ def store_payload(storage: Storage, payload: Any, *, received_at: str | None,
     result.stored.append(stored["public_id"])
 
 
-def ingest_csv(storage: Storage, path: Path, *, contact_enabled: bool = False) -> IngestResult:
+def ingest_csv(storage: Storage, path: Path, *, contact_enabled: bool = False,
+               max_payload_bytes: int | None = None) -> IngestResult:
+    """Import every row it can, and say why for each row it cannot.
+
+    The form is public, so a row can hold anything. One row that cannot be
+    read must never cost the rows after it: each is handled on its own, and a
+    failure is recorded against its line number instead of ending the import.
+    """
+    limit = settings_from_env().max_body_bytes if max_payload_bytes is None else max_payload_bytes
     result = IngestResult()
     for line, received, raw in rows_from_csv(path):
+        if len(raw.encode("utf-8", errors="replace")) > limit:
+            result.rejected.append((line, "payload too large"))
+            continue
         try:
+            # ValueError also covers an integer too long to parse, which is
+            # not a JSONDecodeError.
             payload = json.loads(raw)
-        except json.JSONDecodeError:
+        except (ValueError, RecursionError):
             result.rejected.append((line, "payload is not JSON"))
             continue
-        store_payload(storage, payload, received_at=received, contact_enabled=contact_enabled,
-                      result=result, line=line)
+        try:
+            store_payload(storage, payload, received_at=received, contact_enabled=contact_enabled,
+                          result=result, line=line)
+        except Exception as error:  # noqa: BLE001 - one bad row must not end the import
+            result.rejected.append((line, f"could not be stored ({type(error).__name__})"))
     return result

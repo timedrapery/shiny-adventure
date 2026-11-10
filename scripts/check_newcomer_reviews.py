@@ -302,6 +302,144 @@ def collect_failures(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[
     return failures
 
 
+NOTES_REVIEW_HEADING = "## Readability Review"
+NOTES_GATE_CLAIMS: tuple[tuple[str, str, re.Pattern[str]], ...] = (
+    ("source_fidelity", "source-fidelity review", re.compile(r"Source-fidelity review:\s*(\w+)")),
+    ("human_read_aloud", "read-aloud review", re.compile(r"Human read-aloud usability review:\s*(\w+)")),
+)
+WORKBOARD_SESSIONS = re.compile(r"\*\*(\d+) of (\d+) newcomer sessions recorded\*\*")
+WORKBOARD_READ_ALOUD = re.compile(r"\*\*(\d+) of (\d+) read-aloud\s+reviews complete\*\*")
+WORKBOARD_ROW = re.compile(
+    r"^\|\s*([^|]+?)\s*\|[^|]*\|\s*(complete|pending)\s*\|\s*(\d+)/(\d+)\s*\|\s*(\d+)/(\d+)\s*\|\s*$",
+    re.MULTILINE,
+)
+
+
+def collect_notes_disagreements(data: dict[str, Any], repo_root: Path = REPO_ROOT) -> list[str]:
+    """Find cohort notes files whose review claims contradict the ledger.
+
+    The ledger is the authority on human review evidence. Each notes file
+    also carries a `## Readability Review` section written when the text was
+    published, and nothing kept the two in step: a sign-off the ledger had
+    withdrawn was still described as complete in the notes a reader of the
+    repository sees first. Only an explicit claim is compared; a notes file
+    that says nothing about a gate claims nothing.
+    """
+
+    failures: list[str] = []
+    by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
+    records = data.get("surfaces")
+    if not isinstance(records, dict):
+        return failures
+    for key, record in records.items():
+        surface = by_key.get(key)
+        if surface is None or not isinstance(record, dict):
+            continue
+        notes_path = repo_root / surface.notes_relpath
+        if not notes_path.is_file():
+            continue
+        notes = notes_path.read_text(encoding="utf-8")
+        if NOTES_REVIEW_HEADING not in notes:
+            continue
+        section = notes.split(NOTES_REVIEW_HEADING, 1)[1].split("\n## ", 1)[0]
+        for gate, name, pattern in NOTES_GATE_CLAIMS:
+            match = pattern.search(section)
+            gate_record = record.get(gate)
+            if match is None or not isinstance(gate_record, dict):
+                continue
+            notes_complete = match.group(1).casefold().startswith("complete")
+            ledger_complete = gate_record.get("status") == "complete"
+            if notes_complete != ledger_complete:
+                failures.append(
+                    f"{key}: {surface.notes_relpath} says the {name} is "
+                    f"{'complete' if notes_complete else 'not complete'}, but the ledger says "
+                    f"{'complete' if ledger_complete else 'pending'}; the ledger is the authority, "
+                    "so correct the notes"
+                )
+    return failures
+
+
+def collect_workboard_disagreements(
+    data: dict[str, Any],
+    repo_root: Path = REPO_ROOT,
+    workboard_path: Path | None = None,
+) -> list[str]:
+    """Find tallies in the hand-written workboard that the ledger does not support."""
+
+    path = workboard_path or (repo_root / "reviews" / "README.md")
+    records = data.get("surfaces")
+    threshold = data.get("threshold")
+    if not path.is_file() or not isinstance(records, dict) or not isinstance(threshold, dict):
+        return []
+    text = path.read_text(encoding="utf-8")
+    failures: list[str] = []
+    by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
+    by_label = {surface.label: surface.key for surface in TRANSLATION_SURFACES}
+    required = threshold.get("participants_required")
+    passes_required = threshold.get("independent_passes_required")
+
+    counts: dict[str, tuple[int, int]] = {}
+    for key, record in records.items():
+        if key not in by_key or not isinstance(record, dict):
+            continue
+        reviews = record.get("newcomer_reviews")
+        counts[key] = count_newcomer_evidence(
+            key,
+            reviews if isinstance(reviews, list) else [],
+            current_body_hash(by_key[key], repo_root),
+            [],
+        )
+    read_aloud_done = sum(
+        1
+        for record in records.values()
+        if isinstance(record, dict)
+        and isinstance(record.get("human_read_aloud"), dict)
+        and record["human_read_aloud"].get("status") == "complete"
+    )
+
+    sessions = WORKBOARD_SESSIONS.search(text)
+    if sessions is not None and isinstance(required, int):
+        actual = (sum(current for current, _ in counts.values()), required * len(records))
+        if (int(sessions.group(1)), int(sessions.group(2))) != actual:
+            failures.append(
+                f"workboard says {sessions.group(1)} of {sessions.group(2)} newcomer sessions; "
+                f"the ledger supports {actual[0]} of {actual[1]}"
+            )
+    read_aloud = WORKBOARD_READ_ALOUD.search(text)
+    if read_aloud is not None:
+        actual = (read_aloud_done, len(records))
+        if (int(read_aloud.group(1)), int(read_aloud.group(2))) != actual:
+            failures.append(
+                f"workboard says {read_aloud.group(1)} of {read_aloud.group(2)} read-aloud reviews; "
+                f"the ledger supports {actual[0]} of {actual[1]}"
+            )
+
+    for row in WORKBOARD_ROW.finditer(text):
+        key = by_label.get(row.group(1))
+        record = records.get(key) if key is not None else None
+        if not isinstance(record, dict) or key not in counts:
+            continue
+        ledger_read_aloud = (
+            record["human_read_aloud"].get("status")
+            if isinstance(record.get("human_read_aloud"), dict)
+            else None
+        )
+        if row.group(2) != ledger_read_aloud:
+            failures.append(
+                f"workboard row {row.group(1)}: read aloud is `{row.group(2)}`, "
+                f"the ledger says `{ledger_read_aloud}`"
+            )
+        current, passes = counts[key]
+        expected = (str(current), str(required), str(passes), str(passes_required))
+        if row.groups()[2:] != expected:
+            failures.append(
+                f"workboard row {row.group(1)}: newcomer tallies are "
+                f"{row.group(3)}/{row.group(4)} and {row.group(5)}/{row.group(6)}, the ledger "
+                f"supports {expected[0]}/{expected[1]} and {expected[2]}/{expected[3]}"
+            )
+    return failures
+
+
 def main() -> int:
     try:
         data = load_ledger()
@@ -309,6 +447,10 @@ def main() -> int:
         print(f"Newcomer review ledger is invalid: {error}")
         return 1
     failures = collect_failures(data)
+    if not failures:
+        # Only once the ledger itself is sound: a description of a broken
+        # ledger cannot usefully be checked against it.
+        failures = collect_notes_disagreements(data) + collect_workboard_disagreements(data)
     if failures:
         print("Newcomer review ledger check failed:\n")
         for failure in failures:

@@ -64,8 +64,8 @@ def review_failures(
             failures.append(
                 f"{prefix}: unknown readability review status `{review.status}`"
             )
-        if not is_iso_date(review.reviewed_on):
-            failures.append(f"{prefix}: reviewed_on must be an ISO date")
+        if not is_iso_date(review.revised_on):
+            failures.append(f"{prefix}: revised_on must be an ISO date")
 
         main_path = repo_root / surface.main_relpath
         notes_path = repo_root / surface.notes_relpath
@@ -78,7 +78,9 @@ def review_failures(
             actual_hash = translation_body_sha256(main_path)
             if actual_hash != review.body_sha256:
                 failures.append(
-                    f"{prefix}: reviewed body hash is stale; expected {actual_hash}"
+                    f"{prefix}: recorded body hash is stale; expected {actual_hash}. "
+                    "Run `python scripts/refresh_derived.py --write` to record the "
+                    "new version and its date together"
                 )
 
         if not notes_path.is_file():

@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import json
 from dataclasses import dataclass, replace
 from pathlib import Path
 
@@ -14,11 +15,17 @@ except ModuleNotFoundError:
 
 @dataclass(frozen=True)
 class ReadabilityReview:
-    """Integrity state for a surface revised under the plain-English standard."""
+    """Integrity state for a surface revised under the plain-English standard.
+
+    `revised_on` is the date the body with this `body_sha256` was last
+    revised. It is a version date, not a claim that anyone reviewed the text
+    on that day; human review evidence is recorded, bound to the hash, in
+    `reviews/newcomer-review-ledger.json`.
+    """
 
     standard: str
     status: str
-    reviewed_on: str
+    revised_on: str
     body_sha256: str
 
 
@@ -531,160 +538,38 @@ TRANSLATION_SURFACES: tuple[TranslationSurface, ...] = (
 )
 
 
-READABILITY_BODY_SHA256: dict[str, str] = {
-    "mn113": "92e65f00bb8f1bb6000278d988c3132b96f382411fcbec3cc7a379d39ac688ab",
-    "an8_54": "25fa010bbc6ec8ccacddb04828bdf1d823cbe5415df523f816fca1dfcee36fa2",
-    "an8_41": "845ee70b4d28387a391db3e4f77432daee33b8658d26f32916932788cabaa83c",
-    "snp1_8": "41bc1fb2b97f5db229624a6716c1d27b8d27808d9f55f7b7bc940aa3fcabf763",
-    "dhp179_196": "35d74b3f9f89e92f87b2dbcac9f729951e38ecf10e5fc8cd88371853baff7c6a",
-    "mn121": "7979493bb72d9f0baca8ff4658ff44d10fc5e4e531acec99b952c9102554789d",
-    "an6_19": "8db14b637564e4746361b0c7b9880af71c5ce6564577adbb4bc8a5390b8d4b14",
-    "dhp273_289": "16d60e08b3c3f0714f4681d8a2f633f4acd188e6a5fb6e7dca2b3495bb9567df",
-    "an5_14": "c8b71291aafe6b6ae394cb4a0dfaa295c23d6b8688cbc60c52364fc9cb8dec2e",
-    "an3_136": "e02e5035d59c9dfb3462d04accca32f2b9fbd631d71c80571a1c4e6b2bf87f4d",
-    "mn1": "de3c8da710c0be78d19dab74616ce1ed6343982cd2d720d1fa89cc8fe7d44553",
-    "mn2": "7b387b9585411d3f566918558b56459a0997702e5585a5f481e193b4881a5e44",
-    "mn7": "e33d4501cc5764c896080a626a057bbce557c36e3a5d2e81e801839690d34ec2",
-    "mn9": "5c31b105d41b34c9f76d4dc7e473c4382b6e1160d30af84fe44ac4cde72efbe3",
-    "mn10": "6413d9520c55e30721f39d32fe2aa29d5142c38e04f3db00432dd8c71f840d88",
-    "mn11": "0cdf78600ada25558c9ebfe94f8f3d955b320fec2b6dc3ca11e12562283c0ae7",
-    "mn18": "7a7dd6b91af02d2c11b138cd9935d0bb3e13e4ae4f57c9dd065d7d83fb92802e",
-    "mn19": "be7796b474bcf43063c6a539ea646197db7a2b2f95006b9ad0eb9922c86b7227",
-    "mn22": "f732679544986a626414b744a4348973c10055b40f7aa319306dabed312e4b06",
-    "mn26": "fad88e4bd95c0667f0eb399e02777fb873d856943d059717e61f10398413a83b",
-    "mn36": "474dba642b30650df556e45268e873ec0f481e7608c1d3ea495a7e52e973d3d0",
-    "mn38": "28d7a4c5f69cfbd0af67a2b75cb8007b709c6dd6c01ab9ed3b70f5d78e16ace6",
-    "mn39": "2c16fa7ff5e85c3b392bb29e014b65f0b2df9f3af0adf0bbd06af546d59d1da6",
-    "mn43": "5619145e10c5906fe0336dd1861a29562be081a08879bd528d2c887fd0f88d89",
-    "mn44": "bb921376d01a9c81a24a4170f59a1fd233787c88a007a6e6060e74f9384d6672",
-    "mn61": "218807c23d672ac40682951b9897d29be36049800ddb5c42f50d02817b1eacbc",
-    "mn63": "efa71b5f46cb6b95f295add3aed4632b26baaa7d4eecc91e5f56529a9827583c",
-    "mn64": "5dc4fca5dc726cd343d32ed75a40080f341fe7d7fc4e8bc8d63715f4d9db6417",
-    "mn99": "d3899bf346d6961b8a3b656bc8057d10ce2e5467c7b4a4cc978093e158539d28",
-    "mn117": "bff129d9662289a4df5b3f80907c0b0a83485895d65479550fa58a7f5b893f30",
-    "mn118": "1f765b0431a91ca73b501bfc87dcfb658e8f31028a3b0077b6bd6ec660790e30",
-    "mn122": "a17ddc965de1fbec8c227ef03ba0d07aa6dacb0c176a5560c65396120310b053",
-    "mn119": "dfdbf65a89f1088cd7110ceb23ee8f7089ef30e3008ae4a43aa3b38c4bafd157",
-    "mn131": "67d01f7421477463a394ca31c9cdfde9d3a9e5c02df3c3c3af105758879fb672",
-    "mn137": "0af1fc42153eb60dd3a62dabf0b8435470d7fcdb33b833841172051b1bf7f7d2",
-    "mn141": "4b7012b3429dc201c38c47c301070eb4f15803ac290e6502fa9824a2a6b20449",
-    "mn148": "42c863e60fc0259b239ef992994b718e4e94947a6f82eaabcd1c265310473b5f",
-    "sn12_11": "5c398557b2b38955f9a9c1b605da04cc5aac408d5ef4c843aef9b1cafdfe1ad8",
-    "sn12_61": "e6baa3440db183f95ae75032f41a2f1403e4917552dfc8a6ad4b03cf0c52289d",
-    "sn12_15": "f4edd91be61c2e628c09ed7e4dca8dc7fd2933f5f69ad44544a6a8d7e4e12aaf",
-    "sn12_44": "d96035f8601aebff22abc0d3471d2bd7c38014e0fafccf46fe07741136d206c7",
-    "sn12_23": "8ca128e1a2e7cf0509365f80b95cc4a9aa894ba74238a5ddf6079547ad405c84",
-    "sn12_2": "10524ad1c459d115191ebdbfdb3604872d118b9cf53a31d7e5a4728c0ba5a596",
-    "sn12_20": "5e9d316330bb4e6f046f4df819f1a63fb2d748b4ab74cae805efb797aadd72c6",
-    "sn51_13": "bcc9fa51a7c154ddb0b8116bff6eb71e19c74ff2c527402b53a9c855c9822048",
-    "sn1_1": "88ae416984752a677d3ec1b16af2da325087413fa095f5ec493690da2a2beaa7",
-    "sn55_5": "5572c6b6440b2e34b68f61e81192971002d15b8795cd2a90751b5588e4ffaf64",
-    "sn56_11": "b7daaea35de198898414f52c4b8066f0b212301b53d48624d41e714f6faded45",
-    "sn56_17": "eb7c6d437ff1752a470fdeea4c8167d9c9f8378e78c6d75e83b5d758db077835",
-    "sn22_59": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
-    "sn22_48": "fb38ded19ba1ca7f34b49d5c30465237d03d5aff7aced3a501743ab223a04d61",
-    "sn22_22": "b7f1f96aeca0d4fe6ad3ee18eb184632c382ee7f04e4706a69e4d30558d74ddd",
-    "sn22_26": "ac14ba830a1faf02eddf5b50f4a1ea9a777dd9e5d67d857733135806dbcf0fe7",
-    "dhp21_32": "49f334a4480939df786153a07bdb084f5a2143934d772516c66baba38fe807c4",
-    "sn22_89": "5576eb92bb12962fd92605a1d7bc28071d300d2ce207eb766bb700d73914a1b0",
-    "sn22_86": "35d9b785e82161ce72bcd4d2c8cf709815f0e14720fddaf499b9d3c5acfdc699",
-    "sn35_28": "ff791a92bb45ed74c35459a612925ae7e9063043c24c039c265a49418a4ca08a",
-    "sn45_2": "cab859023c9c9e40ce176d8207f828a66b3bf5251c802f7484597e15c753ccfc",
-    "sn45_8": "d1d6cc56cefa6fc87570c23003c3f7c0d4dcbc119f1e41ad3b726a13e6dfa511",
-    "sn36_6": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
-    "sn46_1": "84d634d705f8092eb678e81deda93826db5f810b8d54299b801125bf0d127a9f",
-    "sn46_51": "996f341d677fc2a93f203b9419dbf1e44c0dc2de700357f9e82d311a98ea9a87",
-    "sn48_10": "546fc20edaa828485f4c5ebf0e120a4536a9cce52d0713b491508b8368a69cc7",
-    "an2_9": "b5c2faee1db36d2fd41866fda2422e1258649b9d621a8ccfcc9746faea5d4790",
-    "an3_65": "e6aceddf78a3d2b0361438aca13cd83bff9088367722eb2244aa5680b4cbeb6d",
-    "an3_69": "70ab99be572724b9051681ae7a8525b99dc129c518dbacf37dace77488aa0e44",
-    "an3_88": "462c5d1ef734fa32796158af0185d44e2a016897a284b8e29520a21c78bd2865",
-    "an4_5": "42417d4a25fecfeb9bafa28af0923804f2cf9fa9235f9fbb97ad298761d982d8",
-    "an4_113": "5b174ac0addaa28cc8293860070f9ccfc709fab9c79882399e255f43c0565eec",
-    "an6_63": "120b30dbd775f8936db4d653816e9563d21ff69e707070c637d79ed77629b998",
-    "an8_6": "3a757a0765f5aab18f1086ae6dcfdef72669b2e1ae63a44870f56858eb6ed0e0",
-    "an10_60": "dfa291050a0a8e5a5e61b7859fb3189417aba575029a9f4fab49ff925297ed6e",
-    "an11_9": "68e0a02f93bf51d72194c42dc60d6e2f7e703e58642ee5a8750cb81049fe7cb9",
-    "an8_39": "a11ba7de50b051609e12ae7fb28bf71b3fda14609ea980bedb336bfc2998ad16",
-    "an11_12": "fae0dd24a101f9a3a8c3673a177e7d032dc046178d308f1ccc3df50be1652b1d",
-    "dn2": "ca0319f99fb06f8046969005552e19987a1a656ee870637c12be5f3d62448d94",
-    "dn15": "0770845c43844286bed4ebc447c7afe4d5d132eccb60cc4502bae1cdb58df20d",
-    "iti44": "f767898d2afd2f9cef53e9fbf4414a6f2cee52553aa32390d14eafc7c2ecbe8d",
-    "ud8_3": "69dcf68d448d22ef132e026a169e4019c7a8cbaad5c31ff7534bc8cfd7818ef3",
-    "iti49": "d848f1253c59708156f051c256560ec8f67148a0939867d26e8feebdba5814ca",
-}
+BODY_VERSIONS_RELPATH = "reviews/body-versions.json"
 
-READABILITY_REVIEWED_ON: dict[str, str] = {
-    "mn113": "2026-11-09",
-    "an8_54": "2026-11-09",
-    "an8_41": "2026-11-09",
-    "snp1_8": "2026-11-09",
-    "dhp179_196": "2026-11-09",
-    "mn121": "2026-11-09",
-    "an6_19": "2026-11-09",
-    "dhp273_289": "2026-11-09",
-    "an5_14": "2026-11-09",
-    "an3_136": "2026-11-09",
-    "mn122": "2026-11-09",
-    "sn22_26": "2026-11-09",
-    "dhp21_32": "2026-11-09",
-    "sn22_22": "2026-11-08",
-    # Body re-touched for the samādhi / nīvaraṇa ruling (composure -> unification
-    # of mind, distraction -> hindrance, and the five hindrance names), 2026-11-08.
-    "mn64": "2026-11-08",
-    "an3_65": "2026-11-08",
-    "an11_9": "2026-11-08",
-    "mn2": "2026-11-08",
-    "mn7": "2026-11-08",
-    "mn9": "2026-11-08",
-    "mn10": "2026-11-08",
-    "mn19": "2026-11-08",
-    "mn26": "2026-11-08",
-    "mn36": "2026-11-08",
-    "mn38": "2026-11-08",
-    "mn39": "2026-11-08",
-    "mn43": "2026-11-08",
-    "mn44": "2026-11-08",
-    "mn99": "2026-11-08",
-    "mn117": "2026-11-08",
-    "mn118": "2026-11-08",
-    "mn119": "2026-11-08",
-    "mn141": "2026-11-08",
-    "sn12_23": "2026-11-08",
-    "sn51_13": "2026-11-08",
-    "sn55_5": "2026-11-08",
-    "sn56_11": "2026-11-08",
-    "sn45_2": "2026-11-08",
-    "sn45_8": "2026-11-08",
-    "sn46_1": "2026-11-08",
-    "sn46_51": "2026-11-08",
-    "sn48_10": "2026-11-08",
-    "an3_88": "2026-11-08",
-    "an4_5": "2026-11-08",
-    "an6_63": "2026-11-08",
-    "an10_60": "2026-11-08",
-    "an11_12": "2026-11-08",
-    "dn2": "2026-11-08",
-    # Body re-touched for the saññā-compound ruling (perception -> recognition).
-    "an2_9": "2026-08-24",
-    "an3_69": "2026-08-24",
-    "sn1_1": "2026-08-24",
-    "mn131": "2026-08-24",
-    "sn22_86": "2026-08-24",
-    "an8_6": "2026-08-24",
-    "mn137": "2026-08-24",
-    "sn12_15": "2026-08-24",
-    "sn12_44": "2026-08-25",
-    "sn56_17": "2026-08-25",
-    "iti49": "2026-08-25",
-    "sn12_20": "2026-08-27",
-    "an8_39": "2026-09-13",
-    "ud8_3": "2026-09-13",
-    # Bodies re-touched for the `moghapurisa` ruling (misguided/foolish man ->
-    # stupid man, and `misguided persons` -> `stupid persons` in MN 22).
-    "mn22": "2026-09-15",
-    "mn63": "2026-09-15",
-}
+
+def load_body_versions(path: Path | None = None) -> dict[str, dict[str, str]]:
+    """Return {surface key: {"body_sha256", "revised_on"}} from the version record.
+
+    The hash and the date used to live in two parallel tables in this module,
+    and nothing made them move together: a body could be re-hashed while its
+    date stayed behind, and the reader then published a date older than the
+    text beside it. They are one record per surface now, written by
+    `scripts/refresh_derived.py`.
+    """
+
+    effective_path = path or (REPO_ROOT / BODY_VERSIONS_RELPATH)
+    data = json.loads(effective_path.read_text(encoding="utf-8"))
+    surfaces = data.get("surfaces")
+    if not isinstance(surfaces, dict):
+        raise ValueError(f"{effective_path}: expected a `surfaces` object")
+    return surfaces
+
+
+def _body_version(versions: dict[str, dict[str, str]], key: str) -> dict[str, str]:
+    record = versions.get(key)
+    if not isinstance(record, dict) or "body_sha256" not in record or "revised_on" not in record:
+        raise ValueError(
+            f"{BODY_VERSIONS_RELPATH} has no complete record for `{key}`; "
+            "run `python scripts/refresh_derived.py --write`"
+        )
+    return record
+
+
+BODY_VERSIONS = load_body_versions()
 
 # Surfaces that have cleared all three human evidence gates. A surface is
 # listed here only once `reviews/newcomer-review-ledger.json` carries the
@@ -699,8 +584,8 @@ TRANSLATION_SURFACES = tuple(
         readability_review=ReadabilityReview(
             standard="plain-english-v1",
             status=READABILITY_STATUS.get(surface.key, "provisional"),
-            reviewed_on=READABILITY_REVIEWED_ON.get(surface.key, "2026-08-23"),
-            body_sha256=READABILITY_BODY_SHA256[surface.key],
+            revised_on=_body_version(BODY_VERSIONS, surface.key)["revised_on"],
+            body_sha256=_body_version(BODY_VERSIONS, surface.key)["body_sha256"],
         ),
     )
     for surface in TRANSLATION_SURFACES

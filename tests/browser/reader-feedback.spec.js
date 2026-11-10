@@ -10,6 +10,7 @@ import { readFileSync } from "node:fs";
 const FEEDBACK_BASE = process.env.FEEDBACK_BASE_URL || "http://127.0.0.1:8765";
 const PILOT = `${FEEDBACK_BASE}/suttas/sn36-6-salla-sutta/`;
 const OTHER = `${FEEDBACK_BASE}/suttas/sn45-2-upaddha-sutta/`;
+const SECOND_ENABLED = `${FEEDBACK_BASE}/suttas/an2-9-cariya-sutta/`;
 const ADMIN_USER = "editor";
 const ADMIN_PASSWORD = "browser-test-password";
 
@@ -90,6 +91,28 @@ test.describe("passage feedback", () => {
     expect(record.passage_text).toBe("They feel it twice: once in the body and once in the mind.");
     expect(record.terms.map((t) => t.id)).toContain("sn36-6-two-feelings-painful-feeling");
     expect(record.introduction_version).toMatch(/^[0-9a-f]{12}$/);
+    expect(record.channel).toBe("public");
+  });
+
+  test("a session code from one text is not attached to feedback on another", async ({ page, request }) => {
+    // The participant opens their session link on the pilot text, then reads
+    // on. Feedback left on the second text is ordinary public feedback; it
+    // used to carry the first text's session and be refused as the wrong text.
+    await page.goto(`${PILOT}?session=notareal1&participant=R9`);
+    await expect(page.locator("button.reader-feedback__button").first()).toBeVisible();
+    await page.goto(SECOND_ENABLED);
+    const passage = page.locator("[data-passage-id]").filter({ has: page.locator("button.reader-feedback__button") }).first();
+    await passage.locator("button.reader-feedback__button").click();
+    const form = page.locator("form.reader-feedback__form");
+    await form.locator("input[name=category]").first().check();
+    await form.locator("textarea[name=comment]").fill("cross-text-session-marker");
+    await form.locator("button[type=submit]").click();
+    await expect(passage.locator(".reader-feedback__done")).toContainText("received");
+
+    const response = await adminGet(request, "/admin/export.json?surface=an2_9");
+    const data = await response.json();
+    const record = data.submissions.find((s) => s.comment === "cross-text-session-marker");
+    expect(record).toBeTruthy();
     expect(record.channel).toBe("public");
   });
 

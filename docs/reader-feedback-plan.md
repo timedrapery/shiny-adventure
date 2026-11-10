@@ -20,7 +20,7 @@ an editor to act on.
   `includes/newcomer-guides/`. Nothing in `reader-src/suttas/` is edited by
   hand.
 - Every surface carries a translation body hash
-  (`READABILITY_BODY_SHA256` in `scripts/surface_registry.py`, computed by
+  (`reviews/body-versions.json`, computed by
   `scripts/check_readability_reviews.translation_body_sha256`). Human evidence
   in `reviews/newcomer-review-ledger.json` is bound to that hash, and
   `scripts/check_newcomer_reviews.py` refuses to promote a surface to
