@@ -1,7 +1,8 @@
 # Open Sangha Foundation Pali Translation Lexicon
 
 [![CI](https://github.com/timedrapery/shiny-adventure/actions/workflows/ci.yml/badge.svg)](https://github.com/timedrapery/shiny-adventure/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Code: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
+[![Content: CC BY-NC-SA 4.0](https://img.shields.io/badge/content-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-CONTENT.md)
 
 Structured Pali-to-English translation infrastructure for early Buddhist translation work.
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
@@ -240,4 +241,12 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Explain e
 
 ## License
 
-Licensed under the MIT License. See [LICENSE](LICENSE).
+- **Translations, term records, and documentation** are licensed under
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
+  free to share and adapt for non-commercial use, with credit, under the same
+  license. See [LICENSE-CONTENT.md](LICENSE-CONTENT.md) for exactly what it
+  covers.
+- **Code** (scripts, tests, the feedback service, and the reader's JavaScript
+  and CSS) is licensed under the MIT License. See [LICENSE](LICENSE).
+- **Pali source text** quoted in the records is not relicensed; see
+  [docs/source-text-policy.md](docs/source-text-policy.md).
