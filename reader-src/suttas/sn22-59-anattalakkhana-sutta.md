@@ -291,7 +291,7 @@ personally.
 <details class="reader-source-status" markdown="1">
 <summary>Source and corrections</summary>
 
-- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn22.59/pli/ms)
+- **Pali text:** Saṃyuttanikāya, Khandhavaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn22-59-anattalakkhana-sutta-notes.md)
 - **Text last revised:** 2026-08-24 · body version `5930c6f6`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2022.59) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)

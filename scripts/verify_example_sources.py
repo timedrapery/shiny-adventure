@@ -7,8 +7,14 @@ quoted Pali, and on 2026-08-19 several records were found citing suttas for
 text that is not in them -- including two records left with no verified
 citation at all.
 
-This script closes that gap. It fetches the Bilara root text for each cited
-sutta and reports, per example, whether the quoted Pali can be found there.
+This script closes that gap. It reads each cited sutta from the Vipassana
+Research Institute's Chaṭṭha Saṅgāyana Tipiṭaka (`scripts/vri_source.py`) and
+reports, per example, whether the quoted Pali can be found there.
+
+It used to read SuttaCentral's Mahāsaṅgīti root text. That text's publication
+record asks that it not be used in AI-derived work, and this project is drafted
+with AI assistance, so on 2026-11-10 the owner stopped all use of SuttaCentral
+content; see `docs/source-text-policy.md`.
 
 It is deliberately NOT part of `run_checks.py`: it needs network access, and a
 check that fails when GitHub is unreachable would be worse than no check. Run
@@ -36,7 +42,7 @@ Verdicts, grouped by what they actually establish:
     inconclusive the root text elides passages with peyyala, so absence proves
                  nothing
     unfetched    the source could not be retrieved
-    unsupported  the collection is not addressable by this script (see below)
+    unsupported  the collection is not addressable by this script
     source-changed  the fetched source no longer matches its recorded pin
 
 Matching is on whole words. Plain substring containment, which this script used
@@ -48,22 +54,21 @@ not explicitly waived in `reviews/source-verification-waivers.json` with a
 reason. Unresolved rows used to exit zero, so an unreachable source read as
 success.
 
-Source texts are fetched from a moving upstream branch, so the digest of each
-one is recorded in `reviews/source-pins.json`. A citation whose source has
-changed since is reported rather than re-verified against different bytes.
+VRI corrects its files from time to time, so the digest of each cited passage
+as read is recorded in `reviews/source-pins.json`. A citation whose passage
+has changed since is reported rather than re-verified against different text.
 
-The Khuddaka collections use several directory shapes. Dhp is bundled by verse
-range; Iti, Snp, and Ud sit in vagga directories; Thag and Thig use direct text
-files. The resolver handles each layout. Only a bare `KN` citation remains
-unsupported because it does not identify a collection.
+DN, MN, SN, AN, Dhp, Ud, Iti, and Snp citations are resolved. Thag, Thig, and a
+bare `KN` are reported as unsupported.
 
 Two caveats before acting on a report:
 
-1. AN numbering is not stable across editions. SuttaCentral's AN 3.134 is
-   Parisasutta, and other schemes number the same discourses differently. An
-   `absent` verdict on an AN citation may mean the citation follows a
-   different numbering rather than that it is wrong. Check the fetched sutta's
-   title before concluding anything.
+1. Numbering is not stable across editions. Citations keep the familiar
+   numbering and `vri_source.py` maps it onto VRI's divisions; where VRI
+   splits a discourse differently the shift is recorded there. An `absent`
+   verdict may mean the mapping landed on a neighbouring discourse rather
+   than that the citation is wrong. Check the passage heading (`--format json`)
+   before concluding anything.
 2. `inflected` is usually not an error. Records often cite a lemma or stem
    form rather than the exact inflected string in the text, which is ordinary
    lexicographic practice.
@@ -77,19 +82,18 @@ import argparse
 import json
 import re
 import sys
-import urllib.error
-import urllib.request
 import hashlib
 from collections import Counter
 from pathlib import Path
 
+try:
+    from scripts import vri_source
+except ModuleNotFoundError:
+    import vri_source  # type: ignore[no-redef]
+
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 TERMS_DIR = REPO_ROOT / "terms"
-BILARA_ROOT = (
-    "https://raw.githubusercontent.com/suttacentral/sc-data/main/"
-    "sc_bilara_data/root/pli/ms/sutta"
-)
 PINS_PATH = REPO_ROOT / "reviews" / "source-pins.json"
 WAIVERS_PATH = REPO_ROOT / "reviews" / "source-verification-waivers.json"
 
@@ -100,37 +104,14 @@ UNRESOLVED = ("inconclusive", "unfetched", "unsupported", "source-changed")
 VERDICTS = VERIFIED + QUALIFIED + FAILED + UNRESOLVED
 
 CITE_RE = re.compile(r"^(MN|DN|SN|AN|KN|Ud|Iti|Snp|Dhp|Thag|Thig)\s+(\d+)(?:\.(\d+))?$")
-UNSUPPORTED = {"KN"}
+UNSUPPORTED = {"KN", "Thag", "Thig"}
 ELLIPSIS = re.compile(r"\.{2,}|…+|\bpe\b")
 
 
-def source_url(citation: str) -> str | None:
-    """Map a citation such as `SN 12.11` to its Bilara root-text URL."""
-    match = CITE_RE.match(citation.strip())
-    if not match:
-        return None
-    collection, major, minor = match.group(1), match.group(2), match.group(3)
-    if collection in UNSUPPORTED or collection == "Dhp":
-        return None
-    low = collection.lower()
-    if collection in {"MN", "DN"}:
-        return f"{BILARA_ROOT}/{low}/{low}{major}_root-pli-ms.json"
-    if collection in {"SN", "AN"} and minor:
-        return f"{BILARA_ROOT}/{low}/{low}{major}/{low}{major}.{minor}_root-pli-ms.json"
-    if collection in {"Snp", "Ud"} and minor:
-        return f"{BILARA_ROOT}/kn/{low}/vagga{major}/{low}{major}.{minor}_root-pli-ms.json"
-    if collection in {"Thag", "Thig"} and minor:
-        return f"{BILARA_ROOT}/kn/{low}/{low}{major}.{minor}_root-pli-ms.json"
-    if collection == "Iti" and minor is None:
-        vagga = (int(major) - 1) // 10 + 1
-        return f"{BILARA_ROOT}/kn/iti/vagga{vagga}/iti{major}_root-pli-ms.json"
-    return None
-
-
 def citation_supported(citation: str) -> bool:
-    """Whether a citation identifies a collection this resolver understands."""
+    """Whether a citation identifies a collection the VRI resolver understands."""
     match = CITE_RE.match(citation.strip())
-    return bool(match and match.group(1) not in UNSUPPORTED)
+    return bool(match and match.group(1) not in UNSUPPORTED and vri_source.supported(citation))
 
 
 DIACRITICS = str.maketrans({
@@ -149,28 +130,6 @@ def normalize(text: str) -> str:
     out = re.sub(r"[“”\"'‘’\[\](),.;:!?—–-]", " ", out)
     out = re.sub(r"\s+", " ", out)
     return out.strip()
-
-
-def fetch(url: str, cache_dir: Path, timeout: int = 60) -> str | None:
-    cache_dir.mkdir(parents=True, exist_ok=True)
-    cached = cache_dir / (url.rsplit("/", 1)[-1])
-    if cached.exists():
-        return cached.read_text(encoding="utf-8")
-    try:
-        with urllib.request.urlopen(url, timeout=timeout) as response:
-            body = response.read().decode("utf-8")
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError):
-        return None
-    cached.write_text(body, encoding="utf-8")
-    return body
-
-
-GITHUB_CONTENTS_API = (
-    "https://api.github.com/repos/suttacentral/sc-data/contents/"
-    "sc_bilara_data/root/pli/ms/sutta"
-)
-RANGE_FILE_RE = re.compile(r"^([a-z]+\d+)\.(\d+)-(\d+)_root-pli-ms\.json$")
-DHP_RANGE_FILE_RE = re.compile(r"^dhp(\d+)-(\d+)_root-pli-ms\.json$")
 
 
 def source_digest(body: str) -> str:
@@ -201,7 +160,7 @@ def load_pins(path: Path = PINS_PATH) -> dict[str, str]:
 def write_pins(pins: dict[str, str], path: Path = PINS_PATH) -> None:
     payload = {
         "_comment": (
-            "sha256 of each cited source text as fetched from the upstream Bilara root. "
+            "sha256 of each cited passage as read from the VRI Chattha Sangayana XML. "
             "`scripts/verify_example_sources.py` reports `source-changed` when a fetched "
             "source no longer matches its pin, so a verdict cannot silently come from "
             "different text than the one it was reached against. Refresh deliberately with "
@@ -243,139 +202,25 @@ def load_waivers(path: Path = WAIVERS_PATH) -> dict[tuple[str, int], str]:
     return result
 
 
-def range_candidates(citation: str) -> tuple[str, int] | None:
-    """Split a citation into its directory stem and sutta number.
-
-    Returns None for collections that are not bundled this way.
-    """
-    match = CITE_RE.match(citation.strip())
-    if not match:
-        return None
-    collection, major, minor = match.group(1), match.group(2), match.group(3)
-    if collection not in {"SN", "AN"} or not minor:
-        return None
-    low = collection.lower()
-    return f"{low}{major}", int(minor)
-
-
-def list_directory(stem: str, cache_dir: Path, timeout: int = 60) -> list[str]:
-    """Filenames in a vagga directory, cached on disk.
-
-    Uses the GitHub contents API because raw.githubusercontent serves files
-    but not listings. One request per directory, cached, and a failure here
-    degrades to the previous behaviour rather than raising.
-    """
-    collection = stem.rstrip("0123456789")
-    cache_dir.mkdir(parents=True, exist_ok=True)
-    cached = cache_dir / f"_listing_{stem}.json"
-    if cached.exists():
-        try:
-            return json.loads(cached.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            pass
-    url = f"{GITHUB_CONTENTS_API}/{collection}/{stem}"
-    request = urllib.request.Request(url, headers={"User-Agent": "shiny-adventure"})
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            payload = json.loads(response.read().decode("utf-8"))
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError,
-            json.JSONDecodeError):
-        return []
-    names = [str(entry.get("name", "")) for entry in payload]
-    cached.write_text(json.dumps(names, ensure_ascii=False), encoding="utf-8")
-    return names
-
-
-def list_directory_path(directory: str, cache_dir: Path, timeout: int = 60) -> list[str]:
-    """List a nested Bilara directory such as `kn/dhp`, with disk caching."""
-    cache_dir.mkdir(parents=True, exist_ok=True)
-    cache_key = directory.replace("/", "_")
-    cached = cache_dir / f"_listing_{cache_key}.json"
-    if cached.exists():
-        try:
-            return json.loads(cached.read_text(encoding="utf-8"))
-        except json.JSONDecodeError:
-            pass
-    request = urllib.request.Request(
-        f"{GITHUB_CONTENTS_API}/{directory}",
-        headers={"User-Agent": "shiny-adventure"},
-    )
-    try:
-        with urllib.request.urlopen(request, timeout=timeout) as response:
-            payload = json.loads(response.read().decode("utf-8"))
-    except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, OSError,
-            json.JSONDecodeError):
-        return []
-    names = [str(entry.get("name", "")) for entry in payload]
-    cached.write_text(json.dumps(names, ensure_ascii=False), encoding="utf-8")
-    return names
-
-
-def find_dhp_range_file(names: list[str], verse: int) -> str | None:
-    """The Dhammapada bundle containing a verse number."""
-    for name in names:
-        match = DHP_RANGE_FILE_RE.match(name)
-        if match and int(match.group(1)) <= verse <= int(match.group(2)):
-            return name
-    return None
-
-
-def find_range_file(names: list[str], stem: str, number: int) -> str | None:
-    """The bundled filename whose range covers `number`, if any.
-
-    SuttaCentral bundles peyyala vaggas as e.g. sn50.1-12_root-pli-ms.json,
-    so SN 50.1 has no file of its own and a per-sutta URL 404s.
-    """
-    for name in names:
-        match = RANGE_FILE_RE.match(name)
-        if not match:
-            continue
-        if match.group(1) != stem:
-            continue
-        if int(match.group(2)) <= number <= int(match.group(3)):
-            return name
-    return None
-
-
 def resolve_source(citation: str, cache_dir: Path) -> str | None:
-    """Fetch a citation's root text, falling back to its range bundle.
+    """The cited passage's plain text from the VRI edition, or None.
 
-    Returns the body, or None when the text cannot be reached at all.
+    None covers both a book that could not be read and a citation that could
+    not be placed; either way nothing was checked, and the row is reported as
+    unresolved rather than failed.
     """
-    url = source_url(citation)
-    if url is not None:
-        body = fetch(url, cache_dir)
-        if body is not None:
-            return body
-
-    match = CITE_RE.match(citation.strip())
-    if match and match.group(1) == "Dhp":
-        name = find_dhp_range_file(
-            list_directory_path("kn/dhp", cache_dir), int(match.group(2))
-        )
-        return fetch(f"{BILARA_ROOT}/kn/dhp/{name}", cache_dir) if name else None
-
-    split = range_candidates(citation)
-    if split is None:
+    try:
+        located = vri_source.locate(citation, cache_dir=cache_dir)
+    except vri_source.SourceUnavailable:
         return None
-    stem, number = split
-    name = find_range_file(list_directory(stem, cache_dir), stem, number)
-    if name is None:
+    if located is None or not located.text.strip():
         return None
-    collection = stem.rstrip("0123456789")
-    return fetch(f"{BILARA_ROOT}/{collection}/{stem}/{name}", cache_dir)
+    return located.text
 
 
 def source_text(body: str) -> tuple[str, bool]:
-    """Return the normalized root text and whether it uses peyyala elision."""
-    try:
-        data = json.loads(body)
-    except json.JSONDecodeError:
-        return "", False
-    if not isinstance(data, dict):
-        return "", False
-    raw = " ".join(str(v) for v in data.values())
-    return normalize(raw), is_abridged(raw)
+    """Return the normalized passage text and whether it uses peyyala elision."""
+    return normalize(body), is_abridged(body)
 
 
 def stems_of(phrase: str) -> list[str]:
@@ -529,7 +374,7 @@ def build_report(
     pins: dict[str, str] | None = None,
     waivers: dict[tuple[str, int], str] | None = None,
 ) -> dict[str, object]:
-    cache_dir = cache_dir or (REPO_ROOT / ".bilara-cache")
+    cache_dir = cache_dir or vri_source.DEFAULT_CACHE_DIR
     pins = {} if pins is None else pins
     waivers = {} if waivers is None else waivers
     rows = collect_examples(terms_dir)
@@ -634,9 +479,9 @@ def render_text(report: dict[str, object], top: int) -> str:
             "",
             "`partial` means only some words of the quoted phrase appear;",
             "`absent` means no word of the phrase appears in the cited sutta.",
-            "Before treating one as wrong, check the fetched sutta's title: AN",
-            "numbering differs between editions, so an AN citation may simply",
-            "follow a different scheme.",
+            "Before treating one as wrong, check the passage heading: numbering",
+            "differs between editions, so the mapping may have landed on a",
+            "neighbouring discourse.",
         ])
     else:
         lines.extend(["", "- No failed citation matches."])
@@ -674,8 +519,8 @@ def main() -> int:
     parser.add_argument("--top", type=int, default=40)
     parser.add_argument("--record", help="Check only this record stem.")
     parser.add_argument(
-        "--cache-dir", type=Path, default=REPO_ROOT / ".bilara-cache",
-        help="Where fetched root texts are cached.",
+        "--cache-dir", type=Path, default=vri_source.DEFAULT_CACHE_DIR,
+        help="Where fetched VRI books are cached. Set VRI_TIPITAKA_DIR to read a local clone instead.",
     )
     parser.add_argument(
         "--strict", action="store_true",

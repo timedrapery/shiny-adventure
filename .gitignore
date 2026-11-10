@@ -41,7 +41,7 @@ site/
 .claude/settings.local.json
 
 # Cached Bilara root texts fetched by verify_example_sources.py
-.bilara-cache/
+.vri-cache/
 
 # Local transcript material used to derive the spoken-translation profile.
 .voice-source-cache/

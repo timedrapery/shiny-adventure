@@ -13,8 +13,9 @@ verify = load_module("verify_example_sources", "scripts/verify_example_sources.p
 
 class NormalizeTests(unittest.TestCase):
     def test_diacritics_fold_to_base_letters(self) -> None:
-        # The records use `paṭhavi` where the Bilara MS edition has `pathavi`.
-        # Folding is what stops that from looking like a bad citation.
+        # Records and editions differ in diacritics (`paṭhavi` / `pathavi`, and
+        # VRI writes `ṃ` where other editions write `ṁ`). Folding is what stops
+        # that from looking like a bad citation.
         self.assertEqual(verify.normalize("paṭhaviṃ"), verify.normalize("pathaviṁ"))
 
     def test_niggahita_variants_fold(self) -> None:
@@ -27,30 +28,24 @@ class NormalizeTests(unittest.TestCase):
         )
 
 
-class SourceUrlTests(unittest.TestCase):
-    def test_mn_and_dn_are_flat(self) -> None:
-        self.assertTrue(verify.source_url("MN 1").endswith("/mn/mn1_root-pli-ms.json"))
-        self.assertTrue(verify.source_url("DN 15").endswith("/dn/dn15_root-pli-ms.json"))
+class CitationSupportTests(unittest.TestCase):
+    def test_resolved_collections_are_supported(self) -> None:
+        for citation in ("MN 1", "DN 15", "SN 12.11", "AN 6.63", "Dhp 21", "Ud 8.3", "Snp 1.8", "Iti 44"):
+            with self.subTest(citation=citation):
+                self.assertTrue(verify.citation_supported(citation))
 
-    def test_sn_and_an_are_nested_by_vagga(self) -> None:
-        self.assertTrue(
-            verify.source_url("SN 12.11").endswith("/sn/sn12/sn12.11_root-pli-ms.json")
+    def test_unresolved_collections_are_unsupported(self) -> None:
+        for citation in ("KN 1.1", "Thag 1.1", "Thig 1.1", "somewhere", "MN 1.2"):
+            with self.subTest(citation=citation):
+                self.assertFalse(verify.citation_supported(citation))
+
+    def test_no_suttacentral_address_remains(self) -> None:
+        # The owner stopped all use of SuttaCentral content on 2026-11-10.
+        source = (Path(__file__).resolve().parent.parent / "scripts" / "verify_example_sources.py").read_text(
+            encoding="utf-8"
         )
-        self.assertTrue(
-            verify.source_url("AN 6.63").endswith("/an/an6/an6.63_root-pli-ms.json")
-        )
-
-    def test_short_collection_urls_follow_bilara_layouts(self) -> None:
-        self.assertIsNone(verify.source_url("Dhp 21"))
-        self.assertTrue(verify.source_url("Ud 8.3").endswith("/kn/ud/vagga8/ud8.3_root-pli-ms.json"))
-        self.assertTrue(verify.source_url("Snp 1.1").endswith("/kn/snp/vagga1/snp1.1_root-pli-ms.json"))
-        self.assertTrue(verify.source_url("Thag 1.1").endswith("/kn/thag/thag1.1_root-pli-ms.json"))
-        self.assertTrue(verify.source_url("Thig 1.1").endswith("/kn/thig/thig1.1_root-pli-ms.json"))
-        self.assertTrue(verify.source_url("Iti 44").endswith("/kn/iti/vagga5/iti44_root-pli-ms.json"))
-        self.assertTrue(verify.citation_supported("Dhp 21"))
-
-    def test_unparseable_citation_returns_none(self) -> None:
-        self.assertIsNone(verify.source_url("somewhere"))
+        self.assertNotIn("suttacentral/", source.casefold().replace("sc-data", "suttacentral/"))
+        self.assertNotIn("_root-pli-ms", source)
 
 
 class CheckPhraseTests(unittest.TestCase):
@@ -243,74 +238,31 @@ class ReportTests(unittest.TestCase):
         self.assertNotIn("Every verifiable citation checks out", rendered)
 
 
-class RangeBundleTests(unittest.TestCase):
-    """SuttaCentral bundles peyyala vaggas, so a per-sutta URL can 404.
+class VriResolutionTests(unittest.TestCase):
+    """Sources now come from the VRI edition; an unreadable book is unresolved."""
 
-    Before this fallback existed those citations were recorded as `unfetched`,
-    a verdict that neither passes nor fails and so read like a pass.
-    """
-
-    LISTING = [
-        "sn50.1-12_root-pli-ms.json",
-        "sn50.13-22_root-pli-ms.json",
-        "sn50.23-34_root-pli-ms.json",
-    ]
-
-    def test_first_sutta_of_a_bundle_resolves(self) -> None:
-        self.assertEqual(
-            verify.find_range_file(self.LISTING, "sn50", 1),
-            "sn50.1-12_root-pli-ms.json",
-        )
-
-    def test_interior_and_boundary_numbers_resolve(self) -> None:
-        self.assertEqual(
-            verify.find_range_file(self.LISTING, "sn50", 12),
-            "sn50.1-12_root-pli-ms.json",
-        )
-        self.assertEqual(
-            verify.find_range_file(self.LISTING, "sn50", 13),
-            "sn50.13-22_root-pli-ms.json",
-        )
-        self.assertEqual(
-            verify.find_range_file(self.LISTING, "sn50", 30),
-            "sn50.23-34_root-pli-ms.json",
-        )
-
-    def test_number_outside_every_range_returns_none(self) -> None:
-        self.assertIsNone(verify.find_range_file(self.LISTING, "sn50", 99))
-
-    def test_dhammapada_verse_bundle_resolves(self) -> None:
-        listing = ["dhp1-20_root-pli-ms.json", "dhp21-32_root-pli-ms.json"]
-        self.assertEqual(
-            verify.find_dhp_range_file(listing, 21),
-            "dhp21-32_root-pli-ms.json",
-        )
-
-    def test_other_vagga_ranges_are_not_borrowed(self) -> None:
-        """A range file for sn49 must never satisfy an sn50 citation."""
-        listing = ["sn49.1-12_root-pli-ms.json"]
-
-        self.assertIsNone(verify.find_range_file(listing, "sn50", 1))
-
-    def test_plain_per_sutta_files_are_ignored_as_ranges(self) -> None:
-        listing = ["sn50.13_root-pli-ms.json"]
-
-        self.assertIsNone(verify.find_range_file(listing, "sn50", 13))
-
-    def test_range_split_only_applies_to_numbered_sn_and_an(self) -> None:
-        self.assertEqual(verify.range_candidates("SN 50.1"), ("sn50", 1))
-        self.assertEqual(verify.range_candidates("AN 2.9"), ("an2", 9))
-        self.assertIsNone(verify.range_candidates("MN 43"))
-        self.assertIsNone(verify.range_candidates("Dhp 21"))
-        self.assertIsNone(verify.range_candidates("nonsense"))
-
-    def test_listing_failure_degrades_quietly(self) -> None:
-        """A directory listing that cannot be reached must not raise; the
-        citation simply stays unresolved as it did before."""
+    def test_an_unreadable_book_leaves_the_citation_unfetched(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
-            names = verify.list_directory("zz999", Path(tmp), timeout=5)
+            terms = Path(tmp) / "minor"
+            terms.mkdir(parents=True)
+            (terms / "x.json").write_text(
+                json.dumps({"example_phrases": [{"pali": "phasso", "source": "MN 1"}]}),
+                encoding="utf-8",
+            )
+            original = verify.vri_source.read_book
 
-        self.assertEqual(names, [])
+            def unavailable(*args, **kwargs):
+                raise verify.vri_source.SourceUnavailable("offline")
+
+            verify.vri_source.read_book = unavailable
+            verify.vri_source._book_blocks.cache_clear()
+            try:
+                report = verify.build_report(terms, cache_dir=Path(tmp) / "cache")
+            finally:
+                verify.vri_source.read_book = original
+                verify.vri_source._book_blocks.cache_clear()
+        self.assertEqual(report["summary"]["unfetched"], 1)
+        self.assertEqual(report["summary"]["failed"], 0)
 
 
 if __name__ == "__main__":

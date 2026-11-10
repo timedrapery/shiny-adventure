@@ -12,9 +12,9 @@ queue itself is editorial and stays in `QUEUE` below, next to the reader
 metadata it belongs with.
 
 The Pali word counts in `QUEUE` are recorded rather than computed. Word counts
-come from `.bilara-cache`, which is gitignored, so computing them here would
-make the generated file differ between a machine that has fetched the root
-texts and one that has not.
+come from the VRI edition in `.vri-cache`, which is gitignored, so computing
+them here would make the generated file differ between a machine that has
+fetched the VRI books and one that has not.
 """
 
 from __future__ import annotations

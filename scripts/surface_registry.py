@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 from dataclasses import dataclass, replace
 from pathlib import Path
 
@@ -1355,13 +1356,59 @@ def reader_difficulty(surface: TranslationSurface) -> str:
 
 
 def canonical_reference(surface: TranslationSurface) -> str:
-    """SuttaCentral UID derived from a display reference such as `SN 22.86`."""
-    return surface.label.casefold().replace(" ", "")
+    """The citation a surface's Pali source is located by, such as `SN 22.86`.
+
+    A verse range such as `Dhp 21-32` is cited by its first verse.
+    """
+    return re.sub(r"-\d+$", "", surface.label.strip())
+
+
+# The Pali edition the source checks read since 2026-11-10: the Vipassana
+# Research Institute's Chaṭṭha Saṅgāyana Tipiṭaka. Its terms ask for
+# attribution, which the reader page gives. See docs/source-text-policy.md.
+PALI_EDITION_NAME = "Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute"
+PALI_EDITION_URL = "https://tipitaka.org/romn/"
+
+# Which VRI book holds a citation, computed from the reference alone so the
+# reader can be generated without the (uncommitted) VRI files.
+_VRI_BOOK_RANGES: dict[str, tuple[tuple[int, int, str], ...]] = {
+    "DN": ((1, 13, "Dīghanikāya, Sīlakkhandhavaggapāḷi"), (14, 23, "Dīghanikāya, Mahāvaggapāḷi"),
+           (24, 34, "Dīghanikāya, Pāthikavaggapāḷi")),
+    "MN": ((1, 50, "Majjhimanikāya, Mūlapaṇṇāsapāḷi"), (51, 100, "Majjhimanikāya, Majjhimapaṇṇāsapāḷi"),
+           (101, 152, "Majjhimanikāya, Uparipaṇṇāsapāḷi")),
+    "SN": ((1, 11, "Saṃyuttanikāya, Sagāthāvaggapāḷi"), (12, 21, "Saṃyuttanikāya, Nidānavaggapāḷi"),
+           (22, 34, "Saṃyuttanikāya, Khandhavaggapāḷi"), (35, 44, "Saṃyuttanikāya, Saḷāyatanavaggapāḷi"),
+           (45, 56, "Saṃyuttanikāya, Mahāvaggapāḷi")),
+}
+_VRI_AN_BOOKS = (
+    "Ekakanipātapāḷi", "Dukanipātapāḷi", "Tikanipātapāḷi", "Catukkanipātapāḷi",
+    "Pañcakanipātapāḷi", "Chakkanipātapāḷi", "Sattakanipātapāḷi", "Aṭṭhakanipātapāḷi",
+    "Navakanipātapāḷi", "Dasakanipātapāḷi", "Ekādasakanipātapāḷi",
+)
+_VRI_KN_BOOKS = {
+    "Dhp": "Khuddakanikāya, Dhammapadapāḷi", "Ud": "Khuddakanikāya, Udānapāḷi",
+    "Iti": "Khuddakanikāya, Itivuttakapāḷi", "Snp": "Khuddakanikāya, Suttanipātapāḷi",
+}
+
+
+def pali_source_book(surface: TranslationSurface) -> str:
+    """The VRI book that holds a surface's Pali text, by name."""
+
+    collection, _, number = canonical_reference(surface).partition(" ")
+    first = int(number.split(".")[0])
+    if collection in _VRI_KN_BOOKS:
+        return _VRI_KN_BOOKS[collection]
+    if collection == "AN":
+        return f"Aṅguttaranikāya, {_VRI_AN_BOOKS[first - 1]}"
+    for low, high, name in _VRI_BOOK_RANGES[collection]:
+        if low <= first <= high:
+            return name
+    raise ValueError(f"{surface.label}: no VRI book covers this reference")
 
 
 def canonical_pali_url(surface: TranslationSurface) -> str:
-    """Canonical Mahāsaṅgīti Pali source used by the translation workflow."""
-    return f"https://suttacentral.net/{canonical_reference(surface)}/pli/ms"
+    """Where a reader can find the Pali edition the source checks use."""
+    return PALI_EDITION_URL
 
 
 def reader_meta(surface: TranslationSurface) -> ReaderMeta:

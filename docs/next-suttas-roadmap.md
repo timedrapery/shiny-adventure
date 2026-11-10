@@ -92,7 +92,7 @@ discourse. Wave 6's Also Considered list already flagged that case; the
 correction here is to make it measurable rather than a judgement call.
 
 So the audit now separates candidates by whether the anchoring text is
-substantive, using a Pali body-word count from `.bilara-cache`. Texts at or
+substantive, using a Pali body-word count from the VRI edition in `.vri-cache` (before 2026-11-10, from `.bilara-cache`). Texts at or
 below 80 words are reported as enumeration stubs on a separate track. Texts
 that are not cached are reported as unverified rather than guessed at.
 
