@@ -7,6 +7,8 @@ authors:
 repository-code: "https://github.com/timedrapery/shiny-adventure"
 url: "https://github.com/timedrapery/shiny-adventure"
 license: MIT
+version: "0.1.0"
+date-released: "2026-11-10"
 abstract: "Structured Pali-to-English translation lexicon for Early Buddhist work. The repository encodes translation policy, context rules, provenance, and drift-prevention guidance as machine-checkable data."
 keywords:
   - pali

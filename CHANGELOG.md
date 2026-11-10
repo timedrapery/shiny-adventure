@@ -6,6 +6,31 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ## [Unreleased]
 
+### Changed
+
+- Gathered the standing editorial rulings, open decisions, and next work into
+  `docs/open-items.md`, and moved the procedure for changing translation
+  wording into `docs/development-guide.md`.
+- Moved the finished wave plans (Waves 9 to 13), the 2026-03 repository
+  review, and the first expansion batch into `docs/archive/`.
+- Linked four documents the documentation guide did not list.
+- CI runs `scripts/run_checks.py` once instead of repeating seven of its
+  checks as separate steps, and runs on pushes to `main` and on pull requests
+  rather than twice for each pull-request commit.
+- Dependabot now watches the npm dependencies used by the browser checks.
+
+### Added
+
+- Tests for `scripts/mkdocs_hooks.py`, `scripts/repair_guidance.py`, and
+  `scripts/term_store.py`.
+
+### Fixed
+
+- The feedback-service command line closes its database when a command ends,
+  and the tests close every database they open.
+
+## [0.1.0] - 2026-11-10
+
 ### Added
 
 - Added a governed plain-English translation of MN 113, Sappurisa Sutta (The
@@ -125,7 +150,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   feeling, which was true on SN 36.6 and wrong on every other page that uses
   the word.
 
-- Added the [Wave 11 execution plan](docs/wave-11-execution-plan.md), written
+- Added the [Wave 11 execution plan](docs/archive/wave-11-execution-plan.md), written
   from a fresh audit rather than by extending Wave 10's spent ranking. Its
   queue is Dhp 21-32, Ud 8.3, SN 22.22, SN 22.26, and MN 122; every signal was
   checked against the cached root text before the item was given a position.
@@ -288,9 +313,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
-- Stopped all use of SuttaCentral content, on the owner's decision of
-  2026-11-10: its publication records ask that the texts not be used in
-  AI-derived work, and this project is drafted with AI assistance. Source
+- Stopped all use of SuttaCentral content on 2026-11-10, in line with the
+  use requests in its publication records. Source
   checks now read the VRI Chaṭṭha Saṅgāyana Tipiṭaka through the new
   `scripts/vri_source.py`; the reader names the VRI book and links to that
   edition; the SuttaCentral fetch permissions are removed. See
@@ -305,8 +329,7 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   `reviews/body-versions.json`, so they cannot drift apart.
 - Added `scripts/refresh_derived.py`: one command that records changed body
   versions and regenerates every derived file in order. It never edits the
-  review ledger. See `docs/audit-2026-11-10-handoff.md` for the audit that
-  led to it and for what remains.
+  review ledger. Open follow-ups are listed in `docs/open-items.md`.
 - Corrected three notes passages (MN 10, MN 38, MN 39) that still quoted
   wording replaced on 2026-11-09.
 - Seven pilot notes files now state the review status the ledger records,
@@ -319,23 +342,22 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   dropped, `Having ...ed` clauses rewritten, the release declaration unified
   on its governed formula, and `they fade` replaced by `their passion fades`.
   SN 22.59, AN 2.9, and SN 36.6 were left unchanged so their review evidence
-  stays bound. See `docs/plain-readability-handoff.md` for what was done, what was
-  left, and what to do next.
+  stays bound. What was left is listed in `docs/open-items.md`.
 - Defined `ignorant wanting` for readers as "wanting something you can't have
   right now", in the glossary and as a newcomer context rule on `taṇhā`.
 - `adukkhamasukhā vedanā` stays `mixed feeling`. A change to `neutral feeling`
-  was made and then withdrawn on the owner's ruling that `neutral feeling` is
+  was made and then withdrawn because `neutral feeling` is
   inaccurate: the third register is still something felt, not an absence of
   feeling. SN 36.6 is back to its reviewed text, with its sign-off and
   read-aloud review bound again.
 - Corrected one `right intention` in SN 45.2 to the governed `right attitude`.
-- Ran the Wave 13 audit and wrote the [Wave 13 execution plan](docs/wave-13-execution-plan.md):
+- Ran the Wave 13 audit and wrote the [Wave 13 execution plan](docs/archive/wave-13-execution-plan.md):
   Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and AN 1.49-52, each checked
   against its root text. `paritta` cited Sn 1.8 and Khp 6, which contain no
   form of the word; it now cites AN 4.67. The three unification records now
   prefer `emptiness unification`, `signless unification`, and `wishless
   unification`, matching the samādhi ruling.
-- Ran the Wave 12 audit and wrote the [Wave 12 execution plan](docs/wave-12-execution-plan.md):
+- Ran the Wave 12 audit and wrote the [Wave 12 execution plan](docs/archive/wave-12-execution-plan.md):
   AN 3.136, AN 5.14, Dhp 273-289, AN 6.19, and MN 121, each checked against
   its root text. The audit checked every orphan record's headword against
   the texts it cites and repaired five false citations: `adhiṭṭhāna` (AN
