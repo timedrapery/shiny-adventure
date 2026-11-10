@@ -29,7 +29,7 @@ rather than quoting them from here.
 These are not the same thing, and the difference decides what work waits on
 what.
 
-**Required to publish**: source fidelity against the segmented Pali, the
+**Required to publish**: source fidelity against the Pali (the VRI Chaṭṭha Saṅgāyana edition since 2026-11-10; see `source-text-policy.md`), the
 governed terminology checks, the plain-English standard, the strict example
 verifier, the reader-generation and accessibility checks, and the full
 repository suite. A surface that clears these is published as `provisional`,

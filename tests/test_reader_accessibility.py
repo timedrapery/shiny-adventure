@@ -50,7 +50,7 @@ Definitions go here.
 
 <details class="reader-source-status">
 <summary>Source and corrections</summary>
-Canonical Pali: https://suttacentral.net/sn1.1/pli/ms
+Pali text: https://tipitaka.org/romn/
 Report a problem
 </details>
 

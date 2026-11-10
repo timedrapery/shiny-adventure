@@ -86,10 +86,9 @@ class MetadataCoverageTests(unittest.TestCase):
                 {"Introductory", "Practical", "Intermediate", "Advanced"},
             )
             self.assertTrue(registry.reader_form(surface), surface.key)
-            self.assertRegex(
-                registry.canonical_pali_url(surface),
-                rf"/{re.escape(registry.canonical_reference(surface))}/pli/ms$",
-            )
+            self.assertEqual(registry.canonical_pali_url(surface), registry.PALI_EDITION_URL)
+            self.assertNotIn("suttacentral", registry.canonical_pali_url(surface))
+            self.assertTrue(registry.pali_source_book(surface), surface.key)
 
     def test_topic_groups_only_name_registered_surfaces(self) -> None:
         keys = {surface.key for surface in registry.TRANSLATION_SURFACES}
@@ -159,6 +158,8 @@ class GeneratedStateTests(unittest.TestCase):
             self.assertIn('<details class="reader-terms">', page, surface.label)
             self.assertIn('<details class="reader-source-status"', page, surface.label)
             self.assertIn(registry.canonical_pali_url(surface), page, surface.label)
+            self.assertIn(registry.pali_source_book(surface), page, surface.label)
+            self.assertNotIn("suttacentral.net", page, surface.label)
             self.assertIn("Report a problem with this page", page, surface.label)
             self.assertIn('aria-label="Reading order"', page, surface.label)
 

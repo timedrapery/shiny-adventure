@@ -9,8 +9,6 @@
       "Bash(git commit -m 'feat\\(translations\\): add SN 12.23 surface *)",
       "Bash(git commit -m ' *)",
       "Bash(gh api *)",
-      "Bash(curl -s \"https://raw.githubusercontent.com/suttacentral/sc-data/main/sc_bilara_data/root/pli/ms/sutta/mn/mn38_root-pli-ms.json\")",
-      "Bash(curl -s \"https://raw.githubusercontent.com/suttacentral/sc-data/main/sc_bilara_data/translation/en/sujato/sutta/mn/mn38_translation-en-sujato.json\")",
       "Bash(python -c ' *)",
       "Bash(grep -v \"^$\")"
     ]

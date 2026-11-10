@@ -209,7 +209,7 @@ Bhikkhus, these are the five faculties."
 <details class="reader-source-status" markdown="1">
 <summary>Source and corrections</summary>
 
-- **Canonical Pali:** [SuttaCentral Mahāsaṅgīti edition](https://suttacentral.net/sn48.10/pli/ms)
+- **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn48-10-dutiyavibhanga-sutta-notes.md)
 - **Text last revised:** 2026-11-09 · body version `546fc20e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2048.10) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
