@@ -7,11 +7,17 @@ path from that file into `reviews/newcomer-review-ledger.json`:
 
 - it refuses anything that is not a formal-session export;
 - it checks every record's fields against the ledger contract;
+- it accepts a record only for a body version that was actually published
+  for that text (found in git history), and only if its review date is not
+  earlier than the day that version was first published; the body hash comes
+  from the reader's page, so it is checked, not trusted;
 - it says which records will count toward the threshold (those whose body
-  hash is the current translation body) and which are staged as history;
-- it keeps a returning reader's ledger identity and stages them as a
-  follow-up (`independent: false`), which the checker counts as a
-  participant and never as an independent pass;
+  hash is the current translation body) and which are staged as history
+  (an earlier published version the reader really saw);
+- it keeps a returning reader's ledger identity, found by the session and
+  label of their earlier staged record, and stages them as a follow-up
+  (`independent: false`), which the checker counts as a participant and
+  never as an independent pass;
 - it leaves responses to draft question sets out unless an editor accepts
   them explicitly, and records that acceptance;
 - with `--write`, it appends the records and re-runs the ledger check before
@@ -28,19 +34,21 @@ stays the two-key operation described in docs/newcomer-review-protocol.md.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
+import subprocess
 import sys
 from pathlib import Path
 from typing import Any
 
 try:
     from scripts.check_newcomer_reviews import LEDGER, collect_failures, load_ledger
-    from scripts.check_readability_reviews import translation_body_sha256
+    from scripts.check_readability_reviews import normalized_translation_body, translation_body_sha256
     from scripts.surface_registry import REPO_ROOT, TRANSLATION_SURFACES
 except ModuleNotFoundError:  # invoked as a script from the repo root
     from check_newcomer_reviews import LEDGER, collect_failures, load_ledger  # type: ignore[no-redef]
-    from check_readability_reviews import translation_body_sha256  # type: ignore[no-redef]
+    from check_readability_reviews import normalized_translation_body, translation_body_sha256  # type: ignore[no-redef]
     from surface_registry import REPO_ROOT, TRANSLATION_SURFACES  # type: ignore[no-redef]
 
 
@@ -54,6 +62,42 @@ LEDGER_FIELDS = (
 
 class StagingError(ValueError):
     pass
+
+
+def published_body_versions(main_path: Path, repo_root: Path = REPO_ROOT) -> dict[str, str]:
+    """Every body hash this text has had in git history, with the date it first appeared.
+
+    The current working-tree body is included too, dated from
+    `reviews/body-versions.json`, so an unreleased edit is still recognised.
+    """
+    versions: dict[str, str] = {}
+    rel = main_path.relative_to(repo_root).as_posix()
+    log = subprocess.run(
+        ["git", "log", "--reverse", "--format=%H %cs", "--follow", "--", rel],
+        cwd=repo_root, capture_output=True, text=True, check=False,
+    )
+    for line in log.stdout.splitlines():
+        commit, _, day = line.partition(" ")
+        shown = subprocess.run(
+            ["git", "show", f"{commit}:{rel}"], cwd=repo_root, capture_output=True, text=True, check=False,
+        )
+        if shown.returncode != 0:
+            continue
+        try:
+            body = normalized_translation_body(shown.stdout)
+        except ValueError:
+            continue
+        versions.setdefault(hashlib.sha256(body.encode("utf-8")).hexdigest(), day)
+    current = translation_body_sha256(main_path)
+    if current not in versions:
+        recorded = json.loads((repo_root / "reviews" / "body-versions.json").read_text(encoding="utf-8"))
+        revised = next(
+            (v.get("revised_on") for v in recorded.get("surfaces", {}).values()
+             if isinstance(v, dict) and v.get("body_sha256") == current),
+            None,
+        )
+        versions[current] = revised or "0000-00-00"
+    return versions
 
 
 def load_export(path: Path) -> dict[str, Any]:
@@ -72,6 +116,7 @@ def stage(
     ledger: dict[str, Any],
     *,
     accept_draft_questions: bool = False,
+    body_versions: dict[str, str] | None = None,
 ) -> tuple[list[dict[str, Any]], list[str]]:
     """Return ledger records to append and human-readable notes.
 
@@ -94,6 +139,7 @@ def stage(
     if key not in surfaces:
         raise StagingError(f"{key} is not in the ledger cohort; add it there first")
     current_hash = translation_body_sha256(by_key[key].main_path)
+    versions = body_versions if body_versions is not None else published_body_versions(by_key[key].main_path)
     existing = [r for r in surfaces[key].get("newcomer_reviews", []) if isinstance(r, dict)]
     known_labels = {str(r.get("participant")) for r in existing}
     staged_ids = {
@@ -113,6 +159,17 @@ def stage(
             raise StagingError(f"{label}: reviewed_on must be YYYY-MM-DD")
         if not SHA256.match(item["body_sha256"]):
             raise StagingError(f"{label}: body_sha256 must be a lowercase SHA-256")
+        published_on = versions.get(item["body_sha256"])
+        if published_on is None:
+            raise StagingError(
+                f"{label}: body_sha256 {item['body_sha256'][:12]} is not a version of {key} that was "
+                "ever published, so the record cannot be tied to a text the reader saw"
+            )
+        if item["reviewed_on"] < published_on:
+            raise StagingError(
+                f"{label}: reviewed_on {item['reviewed_on']} is before that body version was first "
+                f"published ({published_on}); the record is back-dated"
+            )
         if not isinstance(item.get("independent"), bool) or not isinstance(item.get("pass"), bool):
             raise StagingError(f"{label}: independent and pass must be booleans")
         if item.get("assessment") not in {"pass", "fail", "unclear"}:
@@ -137,12 +194,23 @@ def stage(
         kind = item.get("participant_kind", "fresh")
         returning = item.get("returning_from") or {}
         if kind == "returning":
-            name = str(returning.get("participant") or item["participant"])
-            if name not in known_labels:
+            # A label is only unique within its session, so the earlier record
+            # is found by session and label together, never by label alone.
+            earlier_session = returning.get("session")
+            earlier_label = returning.get("participant")
+            earlier = [
+                r for r in existing
+                if isinstance(r.get("evidence_source"), dict)
+                and r["evidence_source"].get("session") == earlier_session
+                and r["evidence_source"].get("session_label") == earlier_label
+            ]
+            if not earlier:
                 raise StagingError(
-                    f"{label}: returning reader {name} has no earlier record in the ledger "
-                    "for this text; stage the earlier session first or mark them fresh"
+                    f"{label}: returning reader {earlier_session}/{earlier_label} has no earlier record "
+                    "from that session in the ledger for this text; stage the earlier session first "
+                    "or mark them fresh"
                 )
+            name = str(earlier[0]["participant"])
             independent = False
             follow_up = True
             if item["independent"]:

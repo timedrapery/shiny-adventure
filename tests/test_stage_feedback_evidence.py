@@ -17,6 +17,9 @@ registry = load_module("surface_registry", "scripts/surface_registry.py")
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SN36_6 = next(s for s in registry.TRANSLATION_SURFACES if s.key == "sn36_6")
 CURRENT_HASH = readability.translation_body_sha256(SN36_6.main_path)
+OLDER_HASH = "b" * 64
+# Synthetic publication history: the current body, and one earlier version.
+VERSIONS = {CURRENT_HASH: "2026-08-23", OLDER_HASH: "2026-04-22"}
 
 
 def export_fixture(**overrides) -> dict:
@@ -80,10 +83,25 @@ class StagingTests(unittest.TestCase):
         self.assertTrue(records[0]["evidence_source"]["draft_questions_accepted_by_editor"])
         self.assertEqual(records[0]["evidence_source"]["question_editorial_status"], "draft")
 
-    def test_older_body_is_staged_as_history_only(self) -> None:
-        records, notes = stage_evidence.stage(self.approved(body_sha256="b" * 64), self.ledger)
+    def test_older_published_body_is_staged_as_history_only(self) -> None:
+        records, notes = stage_evidence.stage(
+            self.approved(body_sha256=OLDER_HASH), self.ledger, body_versions=VERSIONS
+        )
         self.assertEqual(len(records), 1)
         self.assertTrue(any("does not count" in n for n in notes))
+
+    def test_a_body_hash_that_was_never_published_is_refused(self) -> None:
+        with self.assertRaisesRegex(stage_evidence.StagingError, "never published|ever published"):
+            stage_evidence.stage(self.approved(body_sha256="d" * 64), self.ledger, body_versions=VERSIONS)
+
+    def test_a_record_dated_before_its_body_was_published_is_refused(self) -> None:
+        with self.assertRaisesRegex(stage_evidence.StagingError, "back-dated"):
+            stage_evidence.stage(self.approved(reviewed_on="2026-08-01"), self.ledger, body_versions=VERSIONS)
+
+    def test_published_versions_come_from_git_history(self) -> None:
+        versions = stage_evidence.published_body_versions(SN36_6.main_path)
+        self.assertIn(CURRENT_HASH, versions)
+        self.assertRegex(versions[CURRENT_HASH], r"^\d{4}-\d{2}-\d{2}$")
 
     def test_public_export_is_refused(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
@@ -102,6 +120,8 @@ class StagingTests(unittest.TestCase):
             "participant": "R1", "reviewed_on": "2026-09-01", "independent": True,
             "what_happened": "x", "practical_point": "y", "confusing_words": [], "pass": True,
             "body_sha256": "c" * 64,
+            "evidence_source": {"kind": "reader-feedback-session", "session": "pilot000",
+                                "session_label": "R1", "submission_id": "fb_earlier0001"},
         })
         # The service labels them R7 in the later session and, wrongly, independent.
         fixture = self.approved(participant="R7", participant_kind="returning", independent=True,
@@ -121,6 +141,21 @@ class StagingTests(unittest.TestCase):
             "sn36_6", updated["surfaces"]["sn36_6"]["newcomer_reviews"], CURRENT_HASH, failures
         )
         self.assertEqual((count, passes, failures), (1, 0, []))
+
+    def test_a_returning_reader_is_matched_by_session_not_label_alone(self) -> None:
+        ledger = copy.deepcopy(self.ledger)
+        ledger["surfaces"]["sn36_6"]["newcomer_reviews"].append({
+            "participant": "R1", "reviewed_on": "2026-09-01", "independent": True,
+            "what_happened": "x", "practical_point": "y", "confusing_words": [], "pass": True,
+            "body_sha256": "c" * 64,
+            "evidence_source": {"kind": "reader-feedback-session", "session": "pilot000",
+                                "session_label": "R1", "submission_id": "fb_earlier0001"},
+        })
+        # Same label, different session: a different person.
+        fixture = self.approved(participant="R7", participant_kind="returning",
+                                returning_from={"session": "pilot999", "participant": "R1"})
+        with self.assertRaisesRegex(stage_evidence.StagingError, "pilot999/R1"):
+            stage_evidence.stage(fixture, ledger)
 
     def test_returning_reader_without_an_earlier_record_is_refused(self) -> None:
         fixture = self.approved(participant_kind="returning",

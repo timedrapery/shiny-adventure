@@ -15,6 +15,7 @@ from urllib.parse import urlencode
 
 from . import auth, export
 from .storage import ASSESSMENTS, FIX_LAYERS, STATUSES
+from .validation import PARTICIPANT_RE
 
 if TYPE_CHECKING:  # pragma: no cover
     from .app import FeedbackApp, Request, Response
@@ -461,10 +462,12 @@ def handle_post(app: "FeedbackApp", request: "Request", user: str, form: dict[st
                 return Response.text(f"{error}\n", "400 Bad Request")
             return _redirect(f"/admin/submissions/{row['public_id']}", "Assessment recorded.")
     if parts == ["", "admin", "sessions"]:
-        surface_key = clean.get("surface_key", "")
-        if not surface_key or not surface_key.replace("_", "").isalnum():
-            return Response.text("A surface key is required.\n", "400 Bad Request")
-        session = storage.create_session(surface_key, clean.get("title", "")[:120], clean.get("note", "")[:1000])
+        try:
+            session = storage.create_session(
+                clean.get("surface_key", ""), clean.get("title", "")[:120], clean.get("note", "")[:1000]
+            )
+        except ValueError as error:
+            return Response.text(f"{error}.\n", "400 Bad Request")
         return _redirect(f"/admin/sessions/{session['code']}", "Session created.")
     if len(parts) >= 5 and parts[2] == "sessions":
         session = storage.session_by_code(parts[3])
@@ -473,8 +476,8 @@ def handle_post(app: "FeedbackApp", request: "Request", user: str, form: dict[st
         action = parts[4]
         if action == "participants" and len(parts) == 5:
             label = clean.get("label", "")
-            if not label or not label.replace("-", "").isalnum():
-                return Response.text("A label is required.\n", "400 Bad Request")
+            if not PARTICIPANT_RE.match(label):
+                return Response.text("A label must be 1-32 letters, digits, or hyphens.\n", "400 Bad Request")
             kind = clean.get("kind", "fresh")
             returning_id = None
             origin = clean.get("returning_from", "")

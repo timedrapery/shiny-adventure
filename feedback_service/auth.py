@@ -62,7 +62,11 @@ def csrf_token(secret: str, user: str) -> str:
 
 
 def csrf_valid(secret: str, user: str, token: str | None) -> bool:
-    return bool(token) and hmac.compare_digest(csrf_token(secret, user), token)
+    # compare_digest refuses non-ASCII str, which turned a crafted token into
+    # a 500; bytes compare safely and simply fail to match.
+    if not token or not isinstance(token, str):
+        return False
+    return hmac.compare_digest(csrf_token(secret, user).encode("utf-8"), token.encode("utf-8"))
 
 
 def client_hash(secret: str, address: str, day: str) -> str:

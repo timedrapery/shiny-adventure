@@ -127,6 +127,27 @@ Things to watch for:
 - `python scripts/plain_english_audit.py --spoken` lists the sentences heard
   most often across the corpus, which is where a wording pass pays off most.
 
+## Releasing
+
+A release names exactly which translations, term records, and source checks
+were published.
+
+1. Move the `[Unreleased]` entries in `CHANGELOG.md` under a new
+   `## [x.y.z] - YYYY-MM-DD` heading, with known limitations and the review
+   status (newcomer sessions, read-aloud reviews, source-fidelity sign-offs)
+   from `reviews/README.md`.
+2. Set `version` and `date-released` in `CITATION.cff`.
+3. Merge through a pull request so CI passes on the exact release commit.
+4. Tag that commit on `main` and push the tag:
+
+   ```bash
+   git tag -a vx.y.z -m "Release x.y.z"
+   git push origin vx.y.z
+   ```
+
+5. Optionally publish a GitHub release from the tag, pasting the changelog
+   section as its notes.
+
 ## Windows Notes
 
 - Use PowerShell activation with `.venv\Scripts\Activate.ps1`.

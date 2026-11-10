@@ -123,8 +123,9 @@ translation choices, source-audit calls, and edition notes that govern it.
   into technical summaries.
 - Automated governance review: complete; the full repository suite passed on
   2026-08-24.
-- Source-fidelity review: complete against the segmented Pali root on
-  2026-08-24.
+- Source-fidelity check: made while drafting, against the segmented Pali root
+  on 2026-08-24. This was not an independent sign-off, and none is recorded
+  in `reviews/newcomer-review-ledger.json`.
 - Human read-aloud usability review: pending under the newcomer review
   protocol.
 - Newcomer comprehension review: pending.

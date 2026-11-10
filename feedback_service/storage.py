@@ -15,6 +15,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
+from .validation import PARTICIPANT_RE, SESSION_CODE_RE, SURFACE_KEY_RE
+
 MIGRATIONS_DIR = Path(__file__).resolve().parent / "migrations"
 STATUSES = ("received", "examined", "proposed", "revised", "checked")
 FIX_LAYERS = ("", "translation", "glossary", "introduction", "lexicon", "none")
@@ -101,7 +103,13 @@ class Storage:
 
     def create_session(self, surface_key: str, title: str = "", note: str = "",
                        code: str | None = None) -> sqlite3.Row:
+        # A key, code, or label the submission validator would refuse makes a
+        # session no reader can ever submit to, so refuse it here instead.
+        if not SURFACE_KEY_RE.match(surface_key or ""):
+            raise ValueError("surface key must be 1-32 lowercase letters, digits, or underscores")
         code = code or session_code()
+        if not SESSION_CODE_RE.match(code):
+            raise ValueError("session code must be 4-32 letters, digits, or hyphens")
         self.connection.execute(
             "INSERT INTO sessions (code, surface_key, title, facilitator_note, created_at) "
             "VALUES (?, ?, ?, ?, ?)",
@@ -127,6 +135,8 @@ class Storage:
         # A returning reader has read an earlier version and cannot give a
         # first unprompted account; the ledger records that as a follow-up
         # with independent: false, so the service never stores otherwise.
+        if not PARTICIPANT_RE.match(label or ""):
+            raise ValueError("participant label must be 1-32 letters, digits, or hyphens")
         if kind == "returning":
             independent = False
         self.connection.execute(

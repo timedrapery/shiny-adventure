@@ -85,6 +85,9 @@ def session_export(storage: Storage, code: str) -> dict[str, Any] | None:
         if not row["assessment"]:
             excluded.append(dict(base, reason="not yet assessed by a maintainer"))
             continue
+        if row["received_at_note"]:
+            excluded.append(dict(base, reason="the response time could not be read from the form sheet, so its review date is unknown"))
+            continue
         if participant["independent"] is None:
             excluded.append(dict(base, reason="facilitator has not recorded whether the session was independent"))
             continue

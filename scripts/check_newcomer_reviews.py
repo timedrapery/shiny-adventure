@@ -327,14 +327,12 @@ def collect_notes_disagreements(data: dict[str, Any], repo_root: Path = REPO_ROO
     """
 
     failures: list[str] = []
-    by_key = {surface.key: surface for surface in TRANSLATION_SURFACES}
     records = data.get("surfaces")
     if not isinstance(records, dict):
         return failures
-    for key, record in records.items():
-        surface = by_key.get(key)
-        if surface is None or not isinstance(record, dict):
-            continue
+    for surface in TRANSLATION_SURFACES:
+        key = surface.key
+        record = records.get(key)
         notes_path = repo_root / surface.notes_relpath
         if not notes_path.is_file():
             continue
@@ -344,10 +342,20 @@ def collect_notes_disagreements(data: dict[str, Any], repo_root: Path = REPO_ROO
         section = notes.split(NOTES_REVIEW_HEADING, 1)[1].split("\n## ", 1)[0]
         for gate, name, pattern in NOTES_GATE_CLAIMS:
             match = pattern.search(section)
-            gate_record = record.get(gate)
-            if match is None or not isinstance(gate_record, dict):
+            if match is None:
                 continue
             notes_complete = match.group(1).casefold().startswith("complete")
+            gate_record = record.get(gate) if isinstance(record, dict) else None
+            if not isinstance(gate_record, dict):
+                # Outside the ledger nothing can back a completed human
+                # review, so a notes claim of one is unsupported.
+                if notes_complete:
+                    failures.append(
+                        f"{key}: {surface.notes_relpath} says the {name} is complete, but the "
+                        "ledger has no record of it; describe what was actually done, or "
+                        "record the review in the ledger"
+                    )
+                continue
             ledger_complete = gate_record.get("status") == "complete"
             if notes_complete != ledger_complete:
                 failures.append(

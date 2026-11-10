@@ -39,12 +39,18 @@ copy of this service (see `transport` in `includes/feedback/config.json`).
 Download the form's responses as CSV and load them into a local queue:
 
 ```bash
-python -m feedback_service ingest --csv responses.csv
+python -m feedback_service ingest --csv responses.csv --date-order mdy --timezone America/Los_Angeles
 python -m feedback_service serve
 ```
 
 Everything below then applies to that local queue. The sheet's "Timestamp"
-becomes the receipt time; each row's payload is validated exactly as a live
+becomes the receipt time. The CSV does not say how the sheet writes dates or
+which time zone it uses, so both are required: `--date-order` is `mdy` if
+`03/04/2026` means March 4 and `dmy` if it means 3 April, and `--timezone` is
+the zone shown under File > Settings in the sheet (an IANA name such as
+`America/Los_Angeles`). A row whose timestamp cannot be read that way is still
+stored, with the import time and a note, and is left out of formal-session
+evidence exports because its review date is unknown; each row's payload is validated exactly as a live
 submission would be; rows whose client submission id is already stored are
 skipped, so importing the same download twice is safe.
 

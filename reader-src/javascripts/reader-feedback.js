@@ -170,6 +170,27 @@
   // submission
   // ---------------------------------------------------------------------
 
+  // One client id per distinct submission. Resending the same contents keeps
+  // the id, so a request that reached the service (or the form) twice is
+  // stored once. Editing the contents before sending again starts a new
+  // submission, so the edit is not discarded as a duplicate of the first.
+  function retryIdentity() {
+    let id = uuid();
+    let lastSent = null;
+    return {
+      idFor(payload) {
+        const key = JSON.stringify(Object.assign({}, payload, { client_submission_id: undefined }));
+        if (lastSent !== null && key !== lastSent) id = uuid();
+        lastSent = key;
+        return id;
+      },
+      reset() {
+        id = uuid();
+        lastSent = null;
+      },
+    };
+  }
+
   function basePayload(manifest, session, target) {
     return {
       client_submission_id: uuid(),
@@ -274,7 +295,7 @@
   function buildFeedbackForm(context) {
     const { manifest, session, endpoint, target, prefix, quote, extra, onDone } = context;
     const form = el("form", { class: "reader-feedback__form", id: `${prefix}-form`, novalidate: true });
-    let submissionId = uuid();
+    const identity = retryIdentity();
 
     const legend = el("legend", { text: "What happened while you were reading this?" });
     const fieldset = el("fieldset", { class: "reader-feedback__choices" }, [legend]);
@@ -322,7 +343,6 @@
         return;
       }
       const payload = Object.assign(basePayload(manifest, session, target), extra, {
-        client_submission_id: submissionId,
         category,
         comment: normalize(data.get("comment")).slice(0, 2000),
         website: data.get("website") || "",
@@ -333,6 +353,7 @@
           consent: data.get("contact_consent") === "yes",
         };
       }
+      payload.client_submission_id = identity.idFor(payload);
       send.disabled = true;
       setStatus(status, MESSAGES.sending, false);
       const result = await post(endpoint, payload);
@@ -340,19 +361,20 @@
       if (result.ok && result.unconfirmed) {
         // The form mailbox gives no readable reply, so say "sent", not
         // "received", and keep the contents so the reader can send again.
-        // The client id stays the same, so a repeat is dropped on import.
+        // Unchanged contents keep the client id, so a repeat is dropped on
+        // import; edited contents are sent as a new submission.
         setStatus(status, MESSAGES.sentUnconfirmed, false);
         send.textContent = "Send again";
         cancel.textContent = "Close";
         return;
       }
       if (result.ok) {
-        submissionId = uuid();
+        identity.reset();
         onDone(true);
         return;
       }
-      // The same client id is reused on retry, so a request that reached the
-      // service but lost its response cannot be stored twice.
+      // Resending unchanged contents reuses the client id, so a request that
+      // reached the service but lost its response cannot be stored twice.
       setStatus(status, result.rejected ? MESSAGES.rejected : MESSAGES.failed, true);
     });
 
@@ -514,7 +536,7 @@
       // the same element, so the stored text is exactly what was read.
       const explanation = normalize(dd.textContent).slice(0, 2000);
       const prefix = `reader-feedback-gloss-${index}`;
-      let submissionId = uuid();
+      const identity = retryIdentity();
 
       const form = el("form", { class: "reader-feedback__gloss", novalidate: true });
       const legend = el("legend", { text: `Did this explanation of “${term}” help?` });
@@ -549,7 +571,6 @@
           return;
         }
         const payload = Object.assign(basePayload(manifest, session, "glossary"), {
-          client_submission_id: submissionId,
           glossary_term: term,
           glossary_version: info.version,
           terms: info.term_id ? [{ id: info.term_id, basis: "glossary" }] : [],
@@ -559,6 +580,7 @@
           comment: normalize(data.get("comment")).slice(0, 1000),
           website: data.get("website") || "",
         });
+        payload.client_submission_id = identity.idFor(payload);
         send.disabled = true;
         setStatus(status, MESSAGES.sending, false);
         const result = await post(endpoint, payload);
@@ -569,7 +591,7 @@
           return;
         }
         if (result.ok) {
-          submissionId = uuid();
+          identity.reset();
           setStatus(status, MESSAGES.sent, false);
           form.querySelectorAll("input, textarea, button").forEach((node) => {
             node.disabled = true;
@@ -593,7 +615,7 @@
     if (!form || !review) return;
     const status = form.querySelector(".reader-feedback__status");
     const send = form.querySelector("button[type=submit]");
-    let submissionId = uuid();
+    const identity = retryIdentity();
 
     form.addEventListener("submit", async (event) => {
       event.preventDefault();
@@ -615,7 +637,6 @@
         return;
       }
       const payload = Object.assign(basePayload(manifest, session, "comprehension"), {
-        client_submission_id: submissionId,
         question_version: review.version,
         question_set_sha256: review.sha256,
         question_editorial_status: review.editorial_status,
@@ -623,6 +644,7 @@
         familiarity: data.get("familiarity") || null,
         website: data.get("website") || "",
       });
+      payload.client_submission_id = identity.idFor(payload);
       send.disabled = true;
       setStatus(status, MESSAGES.sending, false);
       const result = await post(endpoint, payload);
@@ -633,7 +655,7 @@
         return;
       }
       if (result.ok) {
-        submissionId = uuid();
+        identity.reset();
         setStatus(status, MESSAGES.sent, false);
         form.querySelectorAll("textarea, input, button").forEach((node) => {
           node.disabled = true;

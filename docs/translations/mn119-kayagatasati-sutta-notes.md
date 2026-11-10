@@ -52,8 +52,9 @@ This document records the source and editorial decisions for
 
 - Standard: `plain-english-v1`
 - Status: `provisional`
-- Source-fidelity review: complete against the cited segmented Pali and the
-  three existing control surfaces.
+- Source-fidelity check: made while drafting, against the cited segmented
+  Pali and the three existing control surfaces. This was not an independent
+  sign-off, and none is recorded in `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; the full repository suite passed on
   2026-08-24.
 - Human read-aloud usability review: pending.
