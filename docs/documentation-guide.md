@@ -96,8 +96,8 @@ do not override live term records or normative policy docs.
 - [`translations/translation-documents.md`](translations/translation-documents.md): index of shareable translation pairs
 - [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next leverage-driven sutta translation passes
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
-- [`wave-13-execution-plan.md`](wave-13-execution-plan.md): current queue, validation gates, and machine-independent handoff procedure
-- [`wave-12-execution-plan.md`](wave-12-execution-plan.md), [`wave-11-execution-plan.md`](wave-11-execution-plan.md), [`wave-10-execution-plan.md`](wave-10-execution-plan.md), and [`wave-9-execution-plan.md`](wave-9-execution-plan.md): superseded records of completed waves, kept for their source findings
+- [`wave-13-execution-plan.md`](archive/wave-13-execution-plan.md): Wave 13 queue, validation gates, and restart procedure (complete)
+- [`wave-12-execution-plan.md`](archive/wave-12-execution-plan.md), [`wave-11-execution-plan.md`](archive/wave-11-execution-plan.md), [`wave-10-execution-plan.md`](archive/wave-10-execution-plan.md), and [`wave-9-execution-plan.md`](archive/wave-9-execution-plan.md): superseded records of completed waves, kept for their source findings
 - [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for completed first-wave translation surfaces
 - [`asava-method-sequence-sheet.md`](asava-method-sequence-sheet.md): control sheet for the `MN 2` outflow-method sequence
 - [`tanha-origin-formula-sheet.md`](tanha-origin-formula-sheet.md): control sheet for the `SN 56.11` taṇhā-definition line
@@ -119,6 +119,9 @@ do not override live term records or normative policy docs.
 - [`reader-architecture.md`](reader-architecture.md): how the public reading edition is generated from the governed corpus, what is authoritative, and how to add a surface or a reader introduction
 - [`headword-compound-formula-policy.md`](headword-compound-formula-policy.md): when policy belongs on a headword versus a compound or formula
 - [`drift-risk-terms.md`](drift-risk-terms.md): doctrinal terms most likely to destabilize translation choices
+- [`translation-drift-checker.md`](translation-drift-checker.md): what `check_translation_drift.py` flags and why
+- [`dukkha-nirodha-scope.md`](dukkha-nirodha-scope.md): the SN 22.86 scope principle behind practice-facing records
+- [`awakening-factors-faculties-strengths-cluster-map.md`](awakening-factors-faculties-strengths-cluster-map.md): the `bojjhaṅga` / `indriya` / `bala` interface
 
 ### Review Editorial Decisions
 
@@ -126,16 +129,17 @@ do not override live term records or normative policy docs.
 - [`review-status-model.md`](review-status-model.md): how major entries move from draft to reviewed to stable
 - [`decision-record-template.md`](decision-record-template.md): lightweight structure for major decisions that should not live only in commit history
 - [`osf-editorial-authority.md`](osf-editorial-authority.md): authority order for source conflicts and house decisions
+- [`review-lifecycle-hardening-plan.md`](review-lifecycle-hardening-plan.md): how review gates protect human evidence through the newcomer pilot
 
 ### Work in Bulk or Expand Coverage
 
 - [`bulk-editing-playbook.md`](bulk-editing-playbook.md): safe operating pattern for large edit batches
 - [`candidate-term-workflow.md`](candidate-term-workflow.md): intake and review flow for proposed terms
 - [`translation-workflow-plan.md`](translation-workflow-plan.md): current editorial sequencing and roadmap
-- [`wave-13-execution-plan.md`](wave-13-execution-plan.md): current executable plan and restart procedure
+- [`wave-13-execution-plan.md`](archive/wave-13-execution-plan.md): the last wave plan, kept as the model for the next one
 - [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next translation-document additions
 - [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
-- [`expansion-batch-001.md`](expansion-batch-001.md): concrete expansion batch reference
+- [`expansion-batch-001.md`](archive/expansion-batch-001.md): concrete expansion batch reference
 - [`lexicon-expansion-plan-500.md`](lexicon-expansion-plan-500.md): larger-scale planning note
 
 ### Source Profiles
@@ -155,9 +159,8 @@ These profiles support notes, context rules, alternates, and authority reasoning
 ### Current State
 
 - [`source-text-policy.md`](source-text-policy.md): which Pali edition the source checks read, and why SuttaCentral content is not used
-- [`audit-2026-11-10-handoff.md`](audit-2026-11-10-handoff.md): repository audit of 2026-11-10 — verified findings, what was fixed, owner decisions, and next actions
-- [`plain-readability-handoff.md`](plain-readability-handoff.md): handoff notes for the 2026-11-09 plain-readability pass — decisions, what changed, what was left, and next steps
-- [`repository-review-2026-03.md`](repository-review-2026-03.md): current structural review snapshot
+- [`open-items.md`](open-items.md): standing editorial rulings, decisions still waiting, and next work
+- [`repository-review-2026-03.md`](archive/repository-review-2026-03.md): structural review snapshot from 2026-03 (archived)
 
 ### Generated Reference Material
 

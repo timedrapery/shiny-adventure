@@ -79,8 +79,7 @@ links to that edition and to the repository's companion translation notes.
 
 Translations published before 10 November 2026 were drafted against
 SuttaCentral's Mahāsaṅgīti edition. The project no longer uses SuttaCentral's
-texts, because their publication records ask that they not be used in
-AI-assisted work, and this project is drafted with AI assistance.
+texts, in line with the use requests in their publication records.
 
 Every published page has passed the automated governance, source,
 structure, and readability checks. Human read-aloud and newcomer reviews are

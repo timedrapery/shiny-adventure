@@ -4,7 +4,7 @@
 [Wave 12 execution plan](wave-12-execution-plan.md).** Kept for its source
 findings.
 
-This was the durable handoff document for the Wave 11 translation wave. A
+This was the working plan for the Wave 11 translation wave. A
 contributor should be able to clone the repository on another machine, confirm
 the baseline, and continue without relying on chat history.
 
@@ -223,10 +223,10 @@ So: never delay a source-faithful draft because participants are unavailable,
 and never mark a surface `validated` without recorded evidence for the body
 now published. Both halves of that hold at once.
 
-Use [the newcomer review workboard](../reviews/README.md) for the cohort, the
+Use [the newcomer review workboard](../../reviews/README.md) for the cohort, the
 public links, and the current tally.
 
-## Restart and Handoff Procedure
+## Restart Procedure
 
 On any machine:
 
@@ -238,8 +238,8 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
-and the [translation workflow](translation-workflow-plan.md). The first
+Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: Dhp 21–32, Ud 8.3, SN 22.22, SN 22.26, and MN 122 are all
 published, and the verse precondition is settled in the Dhp 21–32 notes. The
 next step is a fresh audit for the next wave.

@@ -62,7 +62,7 @@ class QueueItem:
     published: bool = False
 
 
-# Wave 13, as committed in docs/wave-13-execution-plan.md. Keep the two in step.
+# Wave 13, as committed in docs/archive/wave-13-execution-plan.md. Keep the two in step.
 # Earlier waves' completed items stay listed: the table is the corpus's queue
 # history, and dropping finished rows would hide what each wave actually cost.
 QUEUE: tuple[QueueItem, ...] = (
@@ -228,7 +228,7 @@ def render_table(report: dict[str, int]) -> str:
     )
     lines += [
         "",
-        "Use the [Wave 13 execution plan](../wave-13-execution-plan.md) for the",
+        "Use the [Wave 13 execution plan](../archive/wave-13-execution-plan.md) for the",
         "active queue, validation, and handoff gates, and the",
         "[full roadmap](../next-suttas-roadmap.md) for historical method notes.",
         "",

@@ -210,17 +210,16 @@ standard applied across all of them.
 The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
 
 Wave 13 is complete: Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are
-all published (see the [Wave 13 execution plan](docs/wave-13-execution-plan.md)).
+all published (see the [Wave 13 execution plan](docs/archive/wave-13-execution-plan.md)).
 The next queue needs a fresh audit before a sutta is given a position.
 
-**Start here when resuming:** [docs/audit-2026-11-10-handoff.md](docs/audit-2026-11-10-handoff.md)
-records the latest audit, what it fixed, and what is still open;
-[docs/plain-readability-handoff.md](docs/plain-readability-handoff.md) records
-the readability pass before it. After changing a translation, run
-`python scripts/refresh_derived.py --write`, then `python scripts/run_checks.py`.
+**Open work:** [docs/open-items.md](docs/open-items.md) lists the standing
+editorial rulings, the decisions still waiting, and the next pieces of work.
+After changing a translation, run `python scripts/refresh_derived.py --write`,
+then `python scripts/run_checks.py`.
 
 Picking the work up cold: for translation expansion, start with the
-[Wave 11 execution plan](docs/wave-11-execution-plan.md), then use
+[Wave 11 execution plan](docs/archive/wave-11-execution-plan.md), then use
 [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the
 full editorial method and repository history. For reader accessibility, start
 with the durable
@@ -233,7 +232,7 @@ records kept when they happen; they do not block drafting or publishing, the
 reader does not show a status label, and no reader evidence is ever inferred or
 backfilled.
 
-Planning notes live in the [Wave 11 execution plan](docs/wave-11-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); the latest review snapshot is in [docs/repository-review-2026-03.md](docs/repository-review-2026-03.md).
+Planning notes live in the [Wave 11 execution plan](docs/archive/wave-11-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); open work is in [docs/open-items.md](docs/open-items.md).
 
 ## Contributing
 

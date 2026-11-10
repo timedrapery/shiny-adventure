@@ -54,7 +54,7 @@ python -m pip install -r requirements-dev.txt
 
 - 80 governed translation surfaces and 80 generated reader pages. AN 8.39 and
   SN 46.1 closed the Wave 10 queue, and a fresh audit the same day produced
-  the [Wave 11 plan](wave-11-execution-plan.md). Wave 11's queue is Dhp 21-32,
+  the [Wave 11 plan](archive/wave-11-execution-plan.md). Wave 11's queue is Dhp 21-32,
   Ud 8.3, SN 22.22, SN 22.26, and MN 122, each signal checked against its root
   text before it was given a position. **Ud 8.3 is published**, taken ahead of
   Dhp 21-32 because that item carries a precondition: it would be the
@@ -566,7 +566,7 @@ absent, unfetched, or unsupported matches.
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use the [Wave 13 execution plan](wave-13-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
+- Use the [Wave 13 execution plan](archive/wave-13-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
 - Waves 1 through 8 and the direct-request additions were complete at 55
   surfaces. All four items from the 2026-08-25 Wave 9 audit—SN 45.8,

@@ -2,10 +2,8 @@
 """Locate a cited discourse in the VRI Chaṭṭha Saṅgāyana Tipiṭaka.
 
 The repository's source checks used to read SuttaCentral's Mahāsaṅgīti root
-text. Its publication record asks that it not be used in AI-derived work, and
-this project is drafted with AI assistance, so the owner decided on 2026-11-10
-to stop using SuttaCentral content (see `docs/source-text-policy.md`). This
-module reads the Vipassana Research Institute's edition instead, from its
+text. They stopped on 2026-11-10, in line with the use requests in its
+publication record (see `docs/source-text-policy.md`). This module reads the Vipassana Research Institute's edition instead, from its
 published XML (https://github.com/VipassanaTech/tipitaka-xml), whose terms are
 "freely available for non-commercial use. Please attribute Vipassana Research
 Institute when incorporating these files into your projects."

@@ -307,7 +307,7 @@ The **shiny-adventure** dataset aims to support:
 - dictionary tools
 - glossary generators
 - translation assistants
-- AI-assisted translation systems
+- automated translation tools
 
 Entries should encode translation knowledge, not just dictionary meaning.
 

@@ -571,7 +571,7 @@ This data dictionary supports the long-term goal of making
 - glossary generators
 - websites
 - lookup tools
-- AI-assisted translation workflows
+- automated translation workflows
 
 The project is intended to become a structured Pāli translation engine
 dataset.

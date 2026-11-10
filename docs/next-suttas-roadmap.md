@@ -34,8 +34,8 @@ run `python scripts/audit_surface_leverage.py`. It carries two further
 corrections to the method, both recorded under Ranked Roadmap (Wave 7).
 
 Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state and
-is complete. The fresh 75-surface audit and reproducible handoff procedure
-live in the [Wave 13 execution plan](wave-13-execution-plan.md). That current
+is complete. The fresh 75-surface audit and reproducible restart procedure
+live in the [Wave 13 execution plan](archive/wave-13-execution-plan.md). That current
 plan supersedes the historical numerical queues below without erasing their
 audit record.
 

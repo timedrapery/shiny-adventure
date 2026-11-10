@@ -1,6 +1,6 @@
 # Wave 13 Execution Plan
 
-This is the durable handoff document for the active translation wave. A
+This is the working plan for the active translation wave. A
 contributor should be able to clone the repository on another machine, confirm
 the baseline, and continue without relying on chat history.
 
@@ -124,7 +124,7 @@ python -m mkdocs build --strict
 pnpm exec playwright test
 ```
 
-## Restart and Handoff Procedure
+## Restart Procedure
 
 ```bash
 git fetch origin
@@ -134,8 +134,8 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
-and the [translation workflow](translation-workflow-plan.md). The first
+Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: Dhp 179–196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are all
 published. The next step is a fresh audit for the next wave.
 

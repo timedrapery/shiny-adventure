@@ -4,7 +4,7 @@
 [Wave 13 execution plan](wave-13-execution-plan.md).** Kept for its source
 findings. The unification-record follow-up below was done in the Wave 13 audit.
 
-This is the durable handoff document for the active translation wave. A
+This is the working plan for the active translation wave. A
 contributor should be able to clone the repository on another machine, confirm
 the baseline, and continue without relying on chat history.
 
@@ -194,10 +194,10 @@ pnpm exec playwright test
 ## Human Review Workstream
 
 Human review is optional and does not gate publishing. Use
-[the newcomer review workboard](../reviews/README.md) when readers are
+[the newcomer review workboard](../../reviews/README.md) when readers are
 available.
 
-## Restart and Handoff Procedure
+## Restart Procedure
 
 On any machine:
 
@@ -209,8 +209,8 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](next-sutta-translation-roadmap.md),
-and the [translation workflow](translation-workflow-plan.md). The first
+Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: AN 3.136, AN 5.14, Dhp 273–289, AN 6.19, and MN 121 are
 all published, and the emptiness-cluster citation pass went in with MN 121.
 The next step is a fresh audit for the next wave. Keep each translation packet together

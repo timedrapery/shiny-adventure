@@ -1,7 +1,7 @@
 # Wave 10 Execution Plan
 
 **Wave 10 is complete as of 2026-09-13, and this plan is superseded.** The
-active handoff document is the
+active plan is the
 [Wave 11 execution plan](wave-11-execution-plan.md), written from a fresh audit
 run the same day.
 
@@ -162,11 +162,11 @@ So: never delay a source-faithful draft because participants are unavailable,
 and never mark a surface `validated` without recorded evidence for the body
 now published. Both halves of that hold at once.
 
-Use [the newcomer review workboard](../reviews/README.md) for the cohort, the
+Use [the newcomer review workboard](../../reviews/README.md) for the cohort, the
 public links, and the current tally. The cohort is the First 12, and its
 threshold is five readers and one full read-aloud review per text.
 
-## Restart and Handoff Procedure
+## Restart Procedure
 
 On any machine:
 
@@ -179,8 +179,8 @@ python scripts/repo_health.py
 ```
 
 Read this plan, the short
-[active roadmap](next-sutta-translation-roadmap.md), and the
-[translation workflow](translation-workflow-plan.md). There is no unfinished
+[active roadmap](../next-sutta-translation-roadmap.md), and the
+[translation workflow](../translation-workflow-plan.md). There is no unfinished
 queue item; run the audit described under
 [Running the next audit](#running-the-next-audit) first. Then create a
 `codex/` or contributor branch and keep the entire translation packet

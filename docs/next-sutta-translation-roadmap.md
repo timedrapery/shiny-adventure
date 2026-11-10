@@ -204,7 +204,7 @@ Use that full roadmap as the source of truth for:
 ## Current Active Queue
 
 **Wave 13 is complete.** The next queue needs a fresh audit. Its queue, verified against the root texts on
-2026-11-09, is in the [Wave 13 execution plan](wave-13-execution-plan.md):
+2026-11-09, is in the [Wave 13 execution plan](archive/wave-13-execution-plan.md):
 
 1. `Dhp 179-196` the Buddhavagga — **complete 2026-11-09**. 210 words; verses 183 to 185, and `khanti`.
 2. `Snp 1.8` Karaṇīyamettā Sutta — **complete 2026-11-09**. 134 words; friendliness for all beings.
@@ -216,7 +216,7 @@ Use that full roadmap as the source of truth for:
 ### Wave 12 (complete)
 
 **Wave 12 is complete.** Its queue, verified against the root texts on
-2026-11-09, is in the [Wave 12 execution plan](wave-12-execution-plan.md):
+2026-11-09, is in the [Wave 12 execution plan](archive/wave-12-execution-plan.md):
 
 1. `AN 3.136` Uppāda Sutta — **complete 2026-11-09**. 94 words; the three
    characteristics stated as a law that holds whether or not Tathāgatas arise.
@@ -231,7 +231,7 @@ Use that full roadmap as the source of truth for:
 ### Wave 11 (complete)
 
 **Wave 11 is complete.** Its queue, verified against the root texts on
-2026-09-13, is in the [Wave 11 execution plan](wave-11-execution-plan.md):
+2026-09-13, is in the [Wave 11 execution plan](archive/wave-11-execution-plan.md):
 
 1. `Dhp 21-32` the Appamādavagga — **complete 2026-11-09**. 124 words,
    anchors the orphan major `appamāda`; its notes settle verse handling.

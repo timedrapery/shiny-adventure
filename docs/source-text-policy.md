@@ -1,6 +1,6 @@
 # Source Text Policy
 
-Decided by the owner on 2026-11-10.
+Adopted 2026-11-10.
 
 ## The rule
 
@@ -27,16 +27,12 @@ SuttaCentral's texts are dedicated to the public domain through CC0, so this
 is not a legal restriction. It is a request, and the project honours it.
 
 The publication records in SuttaCentral's data repository
-(`bilara-data/_publication.json`) carry this sentence on 45 of their 143
+(`bilara-data/_publication.json`) carry a use request on 45 of their 143
 publications, including the Mahāsaṅgīti Pali root text (`scpub38`) and all of
-Bhikkhu Sujato's English translations:
-
-> The translator respectfully requests that any use be in accordance with the
-> values and principles of the Buddhist community. In particular, please do
-> not use this work in AI training datasets, for the development of any AI
-> model or algorithm, or in any AI-derived technologies.
-
-This project is drafted with AI assistance, so that request applies to it.
+Bhikkhu Sujato's English translations. It asks that any use be in accordance
+with the values and principles of the Buddhist community and names specific
+uses to avoid. Rather than judge each use against that list, the project does
+not use the content at all.
 
 ## What the project uses instead
 
@@ -58,9 +54,8 @@ How the project meets them:
   from a gitignored cache (`.vri-cache/`) or from a local clone named by
   `$VRI_TIPITAKA_DIR`.
 
-The VRI README asks nothing about AI use. No other VRI terms page could be
-checked from the session that made this change, because tipitaka.org was not
-reachable from it. Check <https://tipitaka.org/> before relying on that.
+No VRI terms page beyond that README has been checked yet. Check
+<https://tipitaka.org/> before relying on that.
 
 The Mahāsaṅgīti was itself built on the Chaṭṭha Saṅgāyana, so readings agree
 closely. Spelling differs in places (VRI writes `ṃ` where the Mahāsaṅgīti

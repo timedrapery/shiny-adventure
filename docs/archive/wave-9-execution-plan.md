@@ -1,6 +1,6 @@
 # Wave 9 Execution Plan
 
-**Superseded. Wave 9 is complete**; the active handoff document is the
+**Superseded. Wave 9 is complete**; the active plan is the
 [Wave 10 execution plan](wave-10-execution-plan.md). This page is kept as the
 record of Wave 9's baseline, queue, and findings. Every number below is a
 2026-08-25 snapshot and no longer describes the corpus.
@@ -102,7 +102,7 @@ build.
 ## Human Review Workstream
 
 The initial seven-sutta review cohort stays independent of Wave 9 drafting.
-Use [the newcomer review workboard](../reviews/README.md) to recruit five new
+Use [the newcomer review workboard](../../reviews/README.md) to recruit five new
 readers per text and record one full read-aloud review. Do not delay a
 source-faithful draft for unavailable participants, but keep it provisional
 until the ledger satisfies the review threshold.
@@ -111,7 +111,7 @@ The next human-review cohort should be created only after the initial cohort
 has usable results. The likely second cohort is AN 2.9, AN 3.69, AN 4.5, and
 SN 1.1, followed by the Wave 9 surfaces.
 
-## Restart and Handoff Procedure
+## Restart Procedure
 
 On any machine:
 
@@ -124,8 +124,8 @@ python scripts/repo_health.py
 ```
 
 Read this plan, the short
-[active roadmap](next-sutta-translation-roadmap.md), and the
-[translation workflow](translation-workflow-plan.md). Choose the first
+[active roadmap](../next-sutta-translation-roadmap.md), and the
+[translation workflow](../translation-workflow-plan.md). Choose the first
 unfinished queue item, create a `codex/` or contributor branch, and keep the
 entire translation packet together. Before stopping, record completed work,
 open questions, exact validation results, and the next action in the surface

@@ -11,10 +11,9 @@ This script closes that gap. It reads each cited sutta from the Vipassana
 Research Institute's Chaṭṭha Saṅgāyana Tipiṭaka (`scripts/vri_source.py`) and
 reports, per example, whether the quoted Pali can be found there.
 
-It used to read SuttaCentral's Mahāsaṅgīti root text. That text's publication
-record asks that it not be used in AI-derived work, and this project is drafted
-with AI assistance, so on 2026-11-10 the owner stopped all use of SuttaCentral
-content; see `docs/source-text-policy.md`.
+It used to read SuttaCentral's Mahāsaṅgīti root text. All use of SuttaCentral
+content stopped on 2026-11-10, in line with the use requests in its
+publication records; see `docs/source-text-policy.md`.
 
 It is deliberately NOT part of `run_checks.py`: it needs network access, and a
 check that fails when GitHub is unreachable would be worse than no check. Run

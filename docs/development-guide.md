@@ -99,6 +99,34 @@ isolation.
 - Document rationale in notes and authority fields where policy changes.
 - Avoid introducing style drift through synonym rotation.
 
+## Changing Translation Wording
+
+Edit `docs/translations/*.md`, never `reader-src/`, which is generated. Change
+any term record, script constant, or test that quotes the old wording in the
+same pass, then refresh every derived file:
+
+```bash
+python scripts/refresh_derived.py --write
+python scripts/run_checks.py
+```
+
+`refresh_derived.py` records each changed body's hash and revision date in
+`reviews/body-versions.json` and runs every generator in order. It never edits
+the review ledger.
+
+Things to watch for:
+
+- A changed body makes any ledger evidence bound to its old hash fail the
+  newcomer-review check. Reopen the gate in the ledger (see how `sn36_6` is
+  recorded in `reviews/newcomer-review-ledger.json`); never edit an old hash.
+- Translations are hard-wrapped at about 79 columns, but verse paragraphs and
+  a few files (MN 1, MN 148, MN 26, MN 36) are not. Rewrap prose only.
+- `scripts/practice_text_surface_report.py` and several cluster reports hold
+  exact sentences as constants. A reworded formula must be changed there too,
+  or the practice-text test fails with `missing governed control line`.
+- `python scripts/plain_english_audit.py --spoken` lists the sentences heard
+  most often across the corpus, which is where a wording pass pays off most.
+
 ## Windows Notes
 
 - Use PowerShell activation with `.venv\Scripts\Activate.ps1`.

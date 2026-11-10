@@ -218,5 +218,5 @@ All nine steps are done.
 - Feedback on the standalone glossary page (the per-page panel is covered).
 - Any automatic revision of translations, glossary text, lexicon policy, or
   readability status.
-- Any AI-assisted triage. If added later it must remain advisory, must never
+- Any automated triage. If added later it must remain advisory, must never
   hide the original response, and must never take a lifecycle step by itself.

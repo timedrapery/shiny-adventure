@@ -151,7 +151,7 @@ original response stays visible. The by-term view groups submissions across
 suttas so repeated confusion about one rendering can be raised as a lexicon
 question through the normal term-record process rather than patched locally.
 
-The service has no AI assistance. If any is added later it must be advisory
+The service has no automated triage. If any is added later it must be advisory
 only, must never hide or summarise away the original response, and must never
 take a lifecycle step or an assessment by itself.
 

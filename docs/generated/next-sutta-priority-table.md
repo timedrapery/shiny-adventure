@@ -7,7 +7,7 @@ The corpus has 1,161 term records and 80 translation surfaces. Of 648 cited
 records, 579 are anchored by a translated surface and 69 are orphaned; 7 of
 those orphans are major terms.
 
-Use the [Wave 13 execution plan](../wave-13-execution-plan.md) for the
+Use the [Wave 13 execution plan](../archive/wave-13-execution-plan.md) for the
 active queue, validation, and handoff gates, and the
 [full roadmap](../next-suttas-roadmap.md) for historical method notes.
 
