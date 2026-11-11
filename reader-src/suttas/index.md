@@ -85,7 +85,7 @@ All 80 translations, grouped by collection. If you would rather be guided, use [
 - [**A Good Life Now and Later**](an8-54-dighajanu-sutta.md) — AN 8.54 · Dīghajāṇu Sutta · about 7 min · 1,147 words · Set 2. A householder asks how to live well now and later.
 - [**Ten Recognitions for a Sick Monk**](an10-60-giriminanda-sutta.md) — AN 10.60 · Girimānanda Sutta · about 9 min · 1,456 words · Set 3. Ten recognitions taught to a sick monk.
 - [**Think Like a Thoroughbred**](an11-9-saddha-sutta.md) — AN 11.9 · Saddha Sutta · about 7 min · 1,252 words · Set 2. A wild colt tied to its trough can think of nothing but "Fodder, fodder!"
-- [**Six Things to Remember Anywhere**](an11-12-dutiyamahanama-sutta.md) — AN 11.12 · Dutiyamahānāma Sutta · about 4 min · 549 words · Set 3. Mahānāma asks how to practice in ordinary life while the Buddha is away.
+- [**Six Things to Remember Anywhere**](an11-12-dutiyamahanama-sutta.md) — AN 11.12 · Dutiyamahānāma Sutta · about 4 min · 552 words · Set 3. Mahānāma asks how to practice in ordinary life while the Buddha is away.
 
 ## Itivuttaka (Iti) — the short sayings, in the Khuddaka Nikāya
 

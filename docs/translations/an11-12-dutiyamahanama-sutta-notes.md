@@ -95,6 +95,10 @@ source's abbreviation.
 - Automated governance review: complete; the full repository suite passed on
   2026-08-25.
 - Human read-aloud usability review: pending.
+- Read-aloud finding, 2026-11-10: sentence 16, "ununified people do not",
+  was hard to say aloud. It now reads "people who are not unified do not",
+  matching the plain negative of the next line. The revised text needs a
+  fresh full read-aloud before this gate is complete.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
