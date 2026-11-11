@@ -224,7 +224,7 @@
 
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
+*[path of practice]: A way of practising -- something done here and now, again and again, not a journey to somewhere else.
 
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 

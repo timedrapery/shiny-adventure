@@ -266,7 +266,7 @@ Each sutta also has a visible words-used panel. Some browsers show the same defi
 
 <dl class="glossary-list">
 <dt><dfn>path of practice</dfn> <span class="glossary-pali" lang="pi">(paṭipadā)</span></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
+<dd>A way of practising -- something done here and now, again and again, not a journey to somewhere else.</dd>
 <dt><dfn>put together</dfn></dt>
 <dd>In &quot;all that has been put together&quot;, this project&#x27;s rendering of &quot;saṅkhārā&quot; on its result side: anything assembled from conditions, as opposed to the activity of assembling.</dd>
 <dt><dfn>putting things together</dfn> <span class="glossary-pali" lang="pi">(saṅkhārā)</span></dt>

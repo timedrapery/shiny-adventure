@@ -20,7 +20,7 @@ A bhikkhu sitting to one side said to the Buddha:
 "Bhante, people talk about 'ignorance.' What is ignorance? When can someone be
 said to be caught in it?"
 
-"Bhikkhu, it means not seeing dissatisfaction, where it comes from, how it
+"Bhikkhu, it means not seeing dissatisfaction, where it comes from, when it
 ends, or how to end it again.
 
 This is what ignorance means. This is when someone can be said to be caught in
@@ -30,7 +30,7 @@ So apply yourself to understanding:
 
 - 'This is dissatisfaction.'
 - 'This is where dissatisfaction comes from.'
-- 'This is how dissatisfaction ends.'
+- 'This is the end of dissatisfaction.'
 - 'This is how to end it again.'"
 
 The seventh discourse is finished.

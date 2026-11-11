@@ -48,7 +48,7 @@ It is:
 And what is right view?
 
 Knowledge of dissatisfaction, knowledge of its origin, knowledge of its
-quenching, and knowledge of the path of practice that leads to its quenching.
+quenching, and knowledge of how to quench it again.
 
 This is called right view.
 

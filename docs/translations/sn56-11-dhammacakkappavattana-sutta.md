@@ -98,10 +98,9 @@ and passion, delighting here and there. That is:
 the complete fading and quenching of that very ignorant wanting: giving it up,
 relinquishing it, freedom, non-attachment.
 
-### The Noble Truth of the Path
+### The Noble Truth of How to Quench It Again
 
-"Bhikkhus, this is the noble truth of the path of practice leading to the
-quenching of dissatisfaction:
+"Bhikkhus, this is the noble truth of how to quench dissatisfaction again:
 
 it is just this noble eightfold path:
 
@@ -162,20 +161,17 @@ knowledge arose in me, and light arose in me regarding things not heard before.
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This is the noble truth of the path of practice leading to the quenching of
-dissatisfaction.'
+"'This is the noble truth of how to quench dissatisfaction again.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This noble truth of the path of practice leading to the quenching of
-dissatisfaction should be developed.'
+"'This noble truth of how to quench dissatisfaction again should be developed.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This noble truth of the path of practice leading to the quenching of
-dissatisfaction has been developed.'
+"'This noble truth of how to quench dissatisfaction again has been developed.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.

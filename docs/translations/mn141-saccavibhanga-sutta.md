@@ -49,8 +49,7 @@ And which four?
 The explaining, teaching, laying out, establishing, opening up, analyzing, and
 making clear of the noble truth of dissatisfaction, the noble truth of the
 origin of dissatisfaction, the noble truth of the quenching of dissatisfaction,
-and the noble truth of the path of practice leading to the quenching of
-dissatisfaction.
+and the noble truth of how to quench dissatisfaction again.
 
 Bhikkhus, stay close to Sāriputta and Moggallāna. Keep company with them.
 Those wise bhikkhus support their spiritual companions.
@@ -191,10 +190,9 @@ it up, relinquishing it, freedom, non-attachment.
 
 This is called the noble truth of the quenching of dissatisfaction.
 
-### The Noble Truth of the Path
+### The Noble Truth of How to Quench It Again
 
-Friends, what is the noble truth of the path of practice leading to the
-quenching of dissatisfaction?
+Friends, what is the noble truth of how to quench dissatisfaction again?
 
 It is just this noble eightfold path:
 
@@ -212,9 +210,8 @@ It is just this noble eightfold path:
 And what is right view, friends?
 
 Knowledge of dissatisfaction, knowledge of the origin of dissatisfaction,
-knowledge of the quenching of dissatisfaction, and knowledge of the path of
-practice leading to the quenching of dissatisfaction. This is called right
-view.
+knowledge of the quenching of dissatisfaction, and knowledge of how to quench
+dissatisfaction again. This is called right view.
 
 #### Right Attitude
 
@@ -303,8 +300,7 @@ discomfort and without ease, purified by dynamic balance and remembering.
 
 This is called right unification of mind.
 
-This is called the noble truth of the path of practice leading to the
-quenching of dissatisfaction."
+This is called the noble truth of how to quench dissatisfaction again."
 
 That is what Venerable Sāriputta said. The bhikkhus were glad and welcomed
 what Venerable Sāriputta had said.

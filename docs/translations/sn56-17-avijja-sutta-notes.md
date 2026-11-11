@@ -31,17 +31,16 @@ This document records the source and editorial decisions for
   2026-11-10; previously `not understanding`).
 - **The four truth labels are rendered as a connected sentence.** `dukkha` is
   `dissatisfaction`; `dukkhasamudaya` becomes `where it comes from`;
-  `dukkhanirodha` becomes `how it ends`; and
+  `dukkhanirodha` becomes `when it ends` in the definition and `the end of
+  dissatisfaction` in the list of four (editorial ruling, 2026-11-10); and
   `dukkhanirodhagāminī paṭipadā` is `how to end it again`. The practice is
   something done again and again, joyfully and with ease; it is not a journey
   to a distant place or a special attainment, and `again` keeps that audible
   (editorial ruling, 2026-11-10). This is an interpretive rendering: the Pali
-  says `the practice leading to the ending of dissatisfaction`, and the fourth
-  noble truth keeps `the path of practice leading to the quenching of
-  dissatisfaction` where it is named as a truth (for example SN 56.11 and
-  MN 141). These are contextual plain-English restatements of the repository's
-  governed `origin`, `quenching`, and `path of practice` language, not changes
-  to those headword defaults.
+  says `the practice leading to the ending of dissatisfaction`. The same
+  ruling applies across the corpus, where the fourth truth reads `how to
+  quench dissatisfaction again` (see the `paṭipadā` record). Here the plain
+  restatement uses `end` rather than the house `quench`.
 - **`avijjāgato` is `caught in ignorance`.** The literal image is someone who
   has gone into or arrived at ignorance. `Caught in it` makes the condition
   audible without turning the person into an `ignoramus`, a needlessly
@@ -60,8 +59,8 @@ stated immediately before it. This edition therefore prints:
 
 1. this is dissatisfaction;
 2. this is where dissatisfaction comes from;
-3. this is how dissatisfaction ends; and
-4. this is the path of practice that leads to its ending.
+3. this is the end of dissatisfaction; and
+4. this is how to end it again.
 
 The expansion adds no new teaching. It restores the two middle members that
 the transmission expects a reciter to supply.

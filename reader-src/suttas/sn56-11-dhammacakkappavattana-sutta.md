@@ -7,7 +7,7 @@
 
 *SN 56.11, the Dhammacakkappavattana Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,223 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 7 min · 1,206 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -138,10 +138,9 @@ and passion, delighting here and there. That is:
 the complete fading and quenching of that very ignorant wanting: giving it up,
 relinquishing it, freedom, non-attachment.
 
-### The Noble Truth of the Path
+### The Noble Truth of How to Quench It Again
 
-"Bhikkhus, this is the noble truth of the path of practice leading to the
-quenching of dissatisfaction:
+"Bhikkhus, this is the noble truth of how to quench dissatisfaction again:
 
 it is just this noble eightfold path:
 
@@ -202,20 +201,17 @@ knowledge arose in me, and light arose in me regarding things not heard before.
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This is the noble truth of the path of practice leading to the quenching of
-dissatisfaction.'
+"'This is the noble truth of how to quench dissatisfaction again.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This noble truth of the path of practice leading to the quenching of
-dissatisfaction should be developed.'
+"'This noble truth of how to quench dissatisfaction again should be developed.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
 
-"'This noble truth of the path of practice leading to the quenching of
-dissatisfaction has been developed.'
+"'This noble truth of how to quench dissatisfaction again has been developed.'
 
 Vision arose in me, knowledge arose in me, discernment arose in me, clear
 knowledge arose in me, and light arose in me regarding things not heard before.
@@ -311,7 +307,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>noble truth</dfn></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
 <dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
+<dd>A way of practising -- something done here and now, again and again, not a journey to somewhere else.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>right action</dfn></dt>
@@ -342,7 +338,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-11-dhammacakkappavattana-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `b7daaea3`
+- **Text last revised:** 2026-11-11 · body version `7adbfbd9`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.11) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -373,7 +369,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[noble truth]: One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
+*[path of practice]: A way of practising -- something done here and now, again and again, not a journey to somewhere else.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.

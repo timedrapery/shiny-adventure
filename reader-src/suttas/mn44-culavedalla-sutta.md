@@ -7,7 +7,7 @@
 
 *MN 44, the Cūḷavedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,468 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 14 min · 2,446 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -83,13 +83,12 @@ wanting: giving it up, relinquishing it, freedom, non-attachment.
 
 This, friend Visākha, is what the Buddha calls the quenching of identity."
 
-### The Path to the Quenching of Identity
+### How to Quench Identity Again
 
-"Ayye, people say, 'the path of practice leading to the quenching of identity,
-the path of practice leading to the quenching of identity.'
+"Ayye, people say, 'how to quench identity again,
+how to quench identity again.'
 
-What does the Buddha call the path of practice leading to the quenching of
-identity?"
+What does the Buddha call how to quench identity again?"
 
 "Friend Visākha, it is just this noble eightfold path:
 
@@ -102,8 +101,7 @@ identity?"
 - right remembering
 - right unification of mind
 
-This, friend Visākha, is what the Buddha calls the path of practice leading to
-the quenching of identity."
+This, friend Visākha, is what the Buddha calls how to quench identity again."
 
 ### Taking Personally
 
@@ -482,7 +480,7 @@ Visākha the lay follower was satisfied and welcomed what the Buddha had said.
 The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (51)</summary>
+<summary>Words used in this translation (50)</summary>
 <dl>
 <dt><dfn>becoming</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;bhava&quot; -- the settling of experience into a way of being that feels like somebody being something. Often translated &quot;existence.&quot;</dd>
@@ -540,8 +538,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 <dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>putting things together</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -594,7 +590,7 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn44-culavedalla-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `bb921376`
+- **Text last revised:** 2026-11-11 · body version `6a5b1a28`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2044) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -638,7 +634,6 @@ The Cūḷavedalla Sutta, the fourth discourse, is finished.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.

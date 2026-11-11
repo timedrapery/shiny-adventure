@@ -7,7 +7,7 @@
 
 *SN 56.17, the Avijjā Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 1 min · 98 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 1 min · 99 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -33,7 +33,7 @@ In this teaching, what exactly is a person failing to see when they are caught i
 
 ### Main point
 
-Ignorance is not a lack of education or intelligence. It is not seeing dissatisfaction, where it comes from, how it ends, and how to end it again.
+Ignorance is not a lack of education or intelligence. It is not seeing dissatisfaction, where it comes from, when it ends, and how to end it again.
 
 ### Reading tip
 
@@ -66,7 +66,7 @@ A bhikkhu sitting to one side said to the Buddha:
 "Bhante, people talk about 'ignorance.' What is ignorance? When can someone be
 said to be caught in it?"
 
-"Bhikkhu, it means not seeing dissatisfaction, where it comes from, how it
+"Bhikkhu, it means not seeing dissatisfaction, where it comes from, when it
 ends, or how to end it again.
 
 This is what ignorance means. This is when someone can be said to be caught in
@@ -76,7 +76,7 @@ So apply yourself to understanding:
 
 - 'This is dissatisfaction.'
 - 'This is where dissatisfaction comes from.'
-- 'This is how dissatisfaction ends.'
+- 'This is the end of dissatisfaction.'
 - 'This is how to end it again.'"
 
 The seventh discourse is finished.
@@ -100,7 +100,7 @@ The seventh discourse is finished.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-17-avijja-sutta-notes.md)
-- **Text last revised:** 2026-11-11 · body version `5b8025bb`
+- **Text last revised:** 2026-11-11 · body version `6577d9fa`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.17) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

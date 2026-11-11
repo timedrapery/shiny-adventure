@@ -7,7 +7,7 @@
 
 *MN 141, the Saccavibhaṅga Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,511 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 9 min · 1,494 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -54,8 +54,7 @@ And which four?
 The explaining, teaching, laying out, establishing, opening up, analyzing, and
 making clear of the noble truth of dissatisfaction, the noble truth of the
 origin of dissatisfaction, the noble truth of the quenching of dissatisfaction,
-and the noble truth of the path of practice leading to the quenching of
-dissatisfaction.
+and the noble truth of how to quench dissatisfaction again.
 
 Bhikkhus, stay close to Sāriputta and Moggallāna. Keep company with them.
 Those wise bhikkhus support their spiritual companions.
@@ -196,10 +195,9 @@ it up, relinquishing it, freedom, non-attachment.
 
 This is called the noble truth of the quenching of dissatisfaction.
 
-### The Noble Truth of the Path
+### The Noble Truth of How to Quench It Again
 
-Friends, what is the noble truth of the path of practice leading to the
-quenching of dissatisfaction?
+Friends, what is the noble truth of how to quench dissatisfaction again?
 
 It is just this noble eightfold path:
 
@@ -217,9 +215,8 @@ It is just this noble eightfold path:
 And what is right view, friends?
 
 Knowledge of dissatisfaction, knowledge of the origin of dissatisfaction,
-knowledge of the quenching of dissatisfaction, and knowledge of the path of
-practice leading to the quenching of dissatisfaction. This is called right
-view.
+knowledge of the quenching of dissatisfaction, and knowledge of how to quench
+dissatisfaction again. This is called right view.
 
 #### Right Attitude
 
@@ -308,14 +305,13 @@ discomfort and without ease, purified by dynamic balance and remembering.
 
 This is called right unification of mind.
 
-This is called the noble truth of the path of practice leading to the
-quenching of dissatisfaction."
+This is called the noble truth of how to quench dissatisfaction again."
 
 That is what Venerable Sāriputta said. The bhikkhus were glad and welcomed
 what Venerable Sāriputta had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (50)</summary>
+<summary>Words used in this translation (49)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -377,8 +373,6 @@ what Venerable Sāriputta had said.
 <dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>noble truth</dfn></dt>
 <dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>putting-together activities</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saṅkhārā&quot; (often translated &quot;mental formations&quot;) -- the mind&#x27;s constructing and assembling activity, one of the five heaps.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -425,7 +419,7 @@ what Venerable Sāriputta had said.
 
 - **Pali text:** Majjhimanikāya, Uparipaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn141-saccavibhanga-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `4b7012b3`
+- **Text last revised:** 2026-11-11 · body version `4d311331`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20141) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -471,7 +465,6 @@ what Venerable Sāriputta had said.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[noble truth]: One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[putting-together activities]: This project's rendering of "saṅkhārā" (often translated "mental formations") -- the mind's constructing and assembling activity, one of the five heaps.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
