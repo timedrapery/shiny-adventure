@@ -6,6 +6,12 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ## [Unreleased]
 
+### Added
+
+- Recorded a complete read-aloud review of AN 8.6 (2026-11-10, nothing
+  caught in delivery), bound to its published body. Read-aloud reviews of the
+  First 12 now stand at 3 of 12.
+
 ### Fixed
 
 - Fourteen translation notes files described a source-fidelity review as
