@@ -82,7 +82,12 @@ jobs:
       - name: Install rendered-accessibility dependencies
         run: pnpm install --frozen-lockfile
       - name: Install Chromium
-        run: pnpm exec playwright install --with-deps chromium
+        # The runner image already has the libraries Chromium needs; --with-deps
+        # also fetches optional fonts from the Ubuntu archive. If the archive is
+        # unreachable, install the browser alone rather than fail the job.
+        run: |
+          pnpm exec playwright install --with-deps chromium \
+            || pnpm exec playwright install chromium
       - name: Check the rendered reader
         run: pnpm test:a11y
 

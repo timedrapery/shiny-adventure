@@ -45,11 +45,10 @@ change in `CHANGELOG.md`.
 ## Human review
 
 All 80 surfaces are `provisional`. Against the published bodies the ledger
-(`reviews/newcomer-review-ledger.json`) shows 0 of 60 newcomer sessions, 7 of
-12 read-aloud reviews (AN 2.9, SN 36.6, AN 8.6, SN 56.17, SN 45.2, SN 12.44, AN
-11.12), and 2 of 12 source-fidelity sign-offs (SN 36.6, SN 22.59). The
-automated checks establish structure and consistency, not accuracy or
-comprehension.
+(`reviews/newcomer-review-ledger.json`) shows 0 of 60 newcomer sessions, 10 of
+12 read-aloud reviews (all but MN 19 and MN 63), and 2 of 12 source-fidelity
+sign-offs (SN 36.6, SN 22.59). The automated checks establish structure and
+consistency, not accuracy or comprehension.
 
 - Read the First 12 aloud: one reviewer, about an hour, with
   `python scripts/read_aloud_kit.py --surface <key>`.

@@ -19,6 +19,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   caught). Read-aloud reviews now stand at 6 of 12.
 - Recorded a complete read-aloud review of AN 11.12 as revised (2026-11-10,
   nothing caught). Read-aloud reviews now stand at 7 of 12.
+- Recorded a complete read-aloud review of SN 22.59 (2026-11-11, nothing
+  caught). Read-aloud reviews now stand at 8 of 12.
+- Recorded a complete read-aloud review of SN 56.11 (2026-11-11, nothing
+  caught), the first spoken read of its "how to quench it again" wording.
+  Read-aloud reviews now stand at 9 of 12.
+- Recorded a complete read-aloud review of AN 3.65 (2026-11-11, nothing
+  caught). Read-aloud reviews now stand at 10 of 12.
 
 ### Fixed
 
@@ -50,6 +57,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- CI and the reader deploy install the test browser alone when the Ubuntu
+  archive is unreachable, instead of failing on the optional fonts that
+  `--with-deps` also fetches.
 - `dukkhanirodhagāminī paṭipadā` and its parallels now read "how to quench
   X again" instead of "the path of practice leading to the quenching of X",
   across AN 6.63, DN 2, MN 2, MN 9, MN 43, MN 44, MN 141, SN 45.8, and SN 56.11
