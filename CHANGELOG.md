@@ -63,6 +63,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   setting line: "among the Sakyans, near their town of Nagaraka" (and "among
   the Kurus, at their town of Kammāsadhamma"). A read-aloud review of SN 45.2
   found the old wording repetitive.
+- AN 11.12 says "people who are not unified do not" instead of "ununified
+  people do not", which a read-aloud review found hard to say.
 - Resolved all 29 acknowledged formula disagreements. Term records now agree
   on one wording for each, and the acknowledged-disagreement baseline is
   empty, so any new difference fails the check. Rulings with an effect on

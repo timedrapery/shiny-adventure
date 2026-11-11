@@ -259,7 +259,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation|mind and senses" data-difficulty="practical" data-form="practice instructions" data-length="short" data-search="six things to remember anywhere an 11.12 dutiyamahānāma sutta mahānāma asks how to practice in ordinary life while the buddha is away. the answer gives five qualities to stand on and six things to remember while moving, working, or living with family. meditation · mind and senses">
 <h2><a href="../suttas/an11-12-dutiyamahanama-sutta/">Six Things to Remember Anywhere</a></h2>
 <p class="sutta-card__reference">AN 11.12 · <span lang="pi">Dutiyamahānāma Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Short · about 4 min · 549 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Short · about 4 min · 552 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation · Mind and senses</p>
 <p>Mahānāma asks how to practice in ordinary life while the Buddha is away. The answer gives five qualities to stand on and six things to remember while moving, working, or living with family.</p>
 </article>

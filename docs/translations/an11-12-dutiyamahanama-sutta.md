@@ -48,7 +48,7 @@ People who have aroused their energy succeed; lazy people do not.
 
 People who keep remembering succeed; forgetful people do not.
 
-People who are unified succeed; ununified people do not.
+People who are unified succeed; people who are not unified do not.
 
 People with discernment succeed; people without discernment do not.
 

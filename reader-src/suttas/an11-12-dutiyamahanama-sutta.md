@@ -7,7 +7,7 @@
 
 *AN 11.12, the Dutiyamahānāma Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 549 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 4 min · 552 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -96,7 +96,7 @@ People who have aroused their energy succeed; lazy people do not.
 
 People who keep remembering succeed; forgetful people do not.
 
-People who are unified succeed; ununified people do not.
+People who are unified succeed; people who are not unified do not.
 
 People with discernment succeed; people without discernment do not.
 
@@ -203,7 +203,7 @@ The second discourse is finished.
 
 - **Pali text:** Aṅguttaranikāya, Ekādasakanipātapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/an11-12-dutiyamahanama-sutta-notes.md)
-- **Text last revised:** 2026-11-08 · body version `fae0dd24`
+- **Text last revised:** 2026-11-11 · body version `624d0587`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20AN%2011.12) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
