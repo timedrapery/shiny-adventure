@@ -227,8 +227,17 @@
         "bound_by": "git: last body change 2026-08-21, before the 2026-08-24 sign-off"
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-11",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud; nothing caught in delivery."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
