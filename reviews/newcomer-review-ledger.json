@@ -55,8 +55,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "f7169dd225fb465f4cd7d88207fedf8283bfd4a93d3a66e930224054e3398b50",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-10",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud after sentence 2 was revised; nothing caught. An earlier full read of the previous body the same day found sentence 2 ('among the Sakyans, near a Sakyan town called Nagaraka') repetitive, which prompted the revision."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
