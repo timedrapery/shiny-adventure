@@ -49,6 +49,11 @@ This document records the source and editorial decisions for
 - Automated governance review: complete; the full repository suite passed on
   2026-08-24.
 - Human read-aloud usability review: pending.
+- Read-aloud finding, 2026-11-10: sentence 2, "staying among the Sakyans,
+  near a Sakyan town called Nagaraka", repeated itself aloud. It now reads
+  "near their town of Nagaraka", and MN 10 and MN 121 were changed the same
+  way. The revised text needs a fresh full read-aloud before this gate is
+  complete.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.

@@ -56,7 +56,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="getting started|four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="good friendship is the whole path sn 45.2 upaḍḍha sutta ānanda calls good friendship half the spiritual life; the buddha calls it the whole. a short, social bridge from testing a teaching to actually developing the path. getting started · four truths and path">
 <h2><a href="../suttas/sn45-2-upaddha-sutta/">Good Friendship Is the Whole Path</a></h2>
 <p class="sutta-card__reference">SN 45.2 · <span lang="pi">Upaḍḍha Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Short · about 2 min · 332 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Short · about 2 min · 331 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started · Four truths and path</p>
 <p>Ānanda calls good friendship half the spiritual life; the Buddha calls it the whole. A short, social bridge from testing a teaching to actually developing the path.</p>
 </article>
@@ -273,7 +273,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="the four foundations of remembering mn 10 satipaṭṭhāna sutta the four foundations of remembering, and the longest, densest text so far. not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing. meditation">
 <h2><a href="../suttas/mn10-satipatthana-sutta/">The Four Foundations of Remembering</a></h2>
 <p class="sutta-card__reference">MN 10 · <span lang="pi">Satipaṭṭhāna Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,831 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 16 min · 2,830 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>The four foundations of remembering, and the longest, densest text so far. Not really a one-sitting read: it is the reference manual for the pieces above, worth returning to rather than finishing.</p>
 </article>
@@ -294,7 +294,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="emptiness, step by step mn 121 cūḷasuññata sutta emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left. meditation">
 <h2><a href="../suttas/mn121-culasunnata-sutta/">Emptiness, Step by Step</a></h2>
 <p class="sutta-card__reference">MN 121 · <span lang="pi">Cūḷasuññata Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,070 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,069 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left.</p>
 </article>

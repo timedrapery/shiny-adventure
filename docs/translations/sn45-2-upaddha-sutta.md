@@ -17,8 +17,8 @@
 
 ### Ānanda's Claim
 
-So I heard. At one time the Buddha was staying among the Sakyans, near a Sakyan
-town called Nagaraka.
+So I heard. At one time the Buddha was staying among the Sakyans, near their
+town of Nagaraka.
 
 Then Venerable Ānanda went to the Buddha, bowed, sat to one side, and said:
 

@@ -7,7 +7,7 @@
 
 *MN 121, the Cūḷasuññata Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,070 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 12 min · 2,069 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -47,10 +47,10 @@ Migāra's Mother's mansion.
 Then in the late afternoon Venerable Ānanda came out of retreat, went to the
 Buddha, bowed, and sat down to one side. Seated there, he said to the Buddha:
 
-"Bhante, at one time the Buddha was staying among the Sakyans, at a Sakyan town
-named Nagaraka. There I heard and learned from the Buddha's own mouth: 'Ānanda,
-these days I mostly dwell in emptiness.' I hope I heard that correctly, learned
-it correctly, attended to it correctly, and remembered it correctly?"
+"Bhante, at one time the Buddha was staying among the Sakyans, at their town of
+Nagaraka. There I heard and learned from the Buddha's own mouth: 'Ānanda, these
+days I mostly dwell in emptiness.' I hope I heard that correctly, learned it
+correctly, attended to it correctly, and remembered it correctly?"
 
 "Yes, Ānanda, you heard it correctly, learned it correctly, attended to it
 correctly, and remembered it correctly. Both before and now, I mostly dwell in
@@ -336,7 +336,7 @@ The first discourse is finished.
 
 - **Pali text:** Majjhimanikāya, Uparipaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn121-culasunnata-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `7979493b`
+- **Text last revised:** 2026-11-11 · body version `b85820be`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%20121) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

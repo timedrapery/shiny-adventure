@@ -7,7 +7,7 @@
 
 *SN 45.2, the Upaḍḍha Sutta — set 1, Before Any Doctrine*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 332 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 2 min · 331 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -65,8 +65,8 @@ The text is not saying that pleasant company by itself completes the path. Its i
 
 ### Ānanda's Claim
 
-So I heard. At one time the Buddha was staying among the Sakyans, near a Sakyan
-town called Nagaraka.
+So I heard. At one time the Buddha was staying among the Sakyans, near their
+town of Nagaraka.
 
 Then Venerable Ānanda went to the Buddha, bowed, sat to one side, and said:
 
@@ -172,7 +172,7 @@ The second discourse is finished.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-2-upaddha-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `cab85902`
+- **Text last revised:** 2026-11-11 · body version `f7169dd2`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.2) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

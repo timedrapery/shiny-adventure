@@ -7,7 +7,7 @@
 
 *MN 10, the Satipaṭṭhāna Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,831 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 16 min · 2,830 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -30,7 +30,7 @@ rewards reading straight through.
 
 So I heard.
 
-At one time the Buddha was staying among the Kurus, at a Kuru town called
+At one time the Buddha was staying among the Kurus, at their town of
 Kammāsadhamma.
 
 There the Buddha addressed the bhikkhus: "Bhikkhus."
@@ -522,7 +522,7 @@ Buddha had said.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn10-satipatthana-sutta-notes.md)
-- **Text last revised:** 2026-11-10 · body version `9599c97c`
+- **Text last revised:** 2026-11-11 · body version `ec07cadd`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2010) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
