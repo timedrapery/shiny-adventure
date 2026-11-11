@@ -161,7 +161,8 @@ source-audit calls, and edition notes that govern it.
   contrast, the seven-term formula, and intentional repetition.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-11-11); see `reviews/newcomer-review-ledger.json`.
 - Newcomer comprehension review: pending.
 - Source-sensitive wording retained: `who are you, and what promise are you
   accusing of being broken?` remains unchanged because a smoother local
