@@ -55,6 +55,10 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   ends, or how to end it again". Its instruction reads "So apply yourself to
   seeing", and its list of four ends "This is the end of dissatisfaction." /
   "This is how to end it again."
+- SN 45.2, MN 10, and MN 121 no longer repeat the people's name in their
+  setting line: "among the Sakyans, near their town of Nagaraka" (and "among
+  the Kurus, at their town of Kammāsadhamma"). A read-aloud review of SN 45.2
+  found the old wording repetitive.
 - Resolved all 29 acknowledged formula disagreements. Term records now agree
   on one wording for each, and the acknowledged-disagreement baseline is
   empty, so any new difference fails the check. Rulings with an effect on
