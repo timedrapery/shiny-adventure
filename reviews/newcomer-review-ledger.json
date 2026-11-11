@@ -87,8 +87,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "3a757a0765f5aab18f1086ae6dcfdef72669b2e1ae63a44870f56858eb6ed0e0",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-10",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud, all 90 sentences; nothing caught in delivery."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
