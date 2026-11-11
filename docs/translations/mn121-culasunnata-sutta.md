@@ -28,10 +28,10 @@ Migāra's Mother's mansion.
 Then in the late afternoon Venerable Ānanda came out of retreat, went to the
 Buddha, bowed, and sat down to one side. Seated there, he said to the Buddha:
 
-"Bhante, at one time the Buddha was staying among the Sakyans, at a Sakyan town
-named Nagaraka. There I heard and learned from the Buddha's own mouth: 'Ānanda,
-these days I mostly dwell in emptiness.' I hope I heard that correctly, learned
-it correctly, attended to it correctly, and remembered it correctly?"
+"Bhante, at one time the Buddha was staying among the Sakyans, at their town of
+Nagaraka. There I heard and learned from the Buddha's own mouth: 'Ānanda, these
+days I mostly dwell in emptiness.' I hope I heard that correctly, learned it
+correctly, attended to it correctly, and remembered it correctly?"
 
 "Yes, Ānanda, you heard it correctly, learned it correctly, attended to it
 correctly, and remembered it correctly. Both before and now, I mostly dwell in

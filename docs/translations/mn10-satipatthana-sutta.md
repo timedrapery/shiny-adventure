@@ -25,7 +25,7 @@
 
 So I heard.
 
-At one time the Buddha was staying among the Kurus, at a Kuru town called
+At one time the Buddha was staying among the Kurus, at their town of
 Kammāsadhamma.
 
 There the Buddha addressed the bhikkhus: "Bhikkhus."
