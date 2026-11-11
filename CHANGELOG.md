@@ -24,6 +24,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Recorded a complete read-aloud review of SN 56.11 (2026-11-11, nothing
   caught), the first spoken read of its "how to quench it again" wording.
   Read-aloud reviews now stand at 9 of 12.
+- Recorded a complete read-aloud review of AN 3.65 (2026-11-11, nothing
+  caught). Read-aloud reviews now stand at 10 of 12.
 
 ### Fixed
 
