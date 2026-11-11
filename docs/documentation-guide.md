@@ -115,6 +115,7 @@ do not override live term records or normative policy docs.
 - [`MODERN_ENGLISH_POLICY.md`](MODERN_ENGLISH_POLICY.md): modern-English register rules and anti-translationese guidance
 - [`VOICE_STANDARD.md`](VOICE_STANDARD.md): default sentence patterns for notes, context rules, examples, and contributor docs
 - [`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md): the neutral readability and source-fidelity standard for running translation text
+- [`support-text-standard.md`](support-text-standard.md): sentence, voice, and wording rules for reader introductions, guides, and glossary definitions, drawn from Simplified Technical English principles
 - [`plain-english-rollout-plan.md`](plain-english-rollout-plan.md): the active plan for applying that standard across the corpus, with current state and deferred decisions
 - [`reader-architecture.md`](reader-architecture.md): how the public reading edition is generated from the governed corpus, what is authoritative, and how to add a surface or a reader introduction
 - [`headword-compound-formula-policy.md`](headword-compound-formula-policy.md): when policy belongs on a headword versus a compound or formula

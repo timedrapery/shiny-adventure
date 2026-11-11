@@ -32,6 +32,9 @@ PRE_CLUSTER_CHECKS: tuple[tuple[str, list[str]], ...] = (
     # Advisory, not a gate. Several register signals have legitimate exceptions
     # recorded as context_rules, so this reports without --strict.
     ("Plain English audit", [sys.executable, "scripts/plain_english_audit.py", "--top", "5"]),
+    # Advisory: support text (introductions, guides, glossary) against
+    # docs/support-text-standard.md.
+    ("Support text audit", [sys.executable, "scripts/support_text_audit.py", "--top", "5"]),
     # Advisory until the existing disagreements are reconciled or waived in
     # reviews/formula-exceptions.json; then promote to --strict.
     ("Formula agreement", [sys.executable, "scripts/check_formula_agreement.py"]),
