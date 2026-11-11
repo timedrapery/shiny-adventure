@@ -45,8 +45,8 @@ change in `CHANGELOG.md`.
 ## Human review
 
 All 80 surfaces are `provisional`. Against the published bodies the ledger
-(`reviews/newcomer-review-ledger.json`) shows 0 of 60 newcomer sessions, 3 of
-12 read-aloud reviews (AN 2.9, SN 36.6, AN 8.6), and 2 of 12 source-fidelity
+(`reviews/newcomer-review-ledger.json`) shows 0 of 60 newcomer sessions, 4 of
+12 read-aloud reviews (AN 2.9, SN 36.6, AN 8.6, SN 56.17), and 2 of 12 source-fidelity
 sign-offs (SN 36.6, SN 22.59). The automated checks establish structure and
 consistency, not accuracy or comprehension.
 

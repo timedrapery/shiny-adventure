@@ -11,6 +11,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 - Recorded a complete read-aloud review of AN 8.6 (2026-11-10, nothing
   caught in delivery), bound to its published body. Read-aloud reviews of the
   First 12 now stand at 3 of 12.
+- Recorded a complete read-aloud review of SN 56.17 as revised (2026-11-10,
+  nothing caught in delivery). Read-aloud reviews now stand at 4 of 12.
 
 ### Fixed
 

@@ -90,7 +90,8 @@ makes it a useful bridge before the path is defined factor by factor in SN
   `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; all 513 tests and the full repository
   suite passed on 2026-08-25.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-11-10); see `reviews/newcomer-review-ledger.json`.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
