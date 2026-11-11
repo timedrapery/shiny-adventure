@@ -55,6 +55,9 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- CI and the reader deploy install the test browser alone when the Ubuntu
+  archive is unreachable, instead of failing on the optional fonts that
+  `--with-deps` also fetches.
 - `dukkhanirodhagāminī paṭipadā` and its parallels now read "how to quench
   X again" instead of "the path of practice leading to the quenching of X",
   across AN 6.63, DN 2, MN 2, MN 9, MN 43, MN 44, MN 141, SN 45.8, and SN 56.11
