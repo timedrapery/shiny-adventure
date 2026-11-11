@@ -17,6 +17,8 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
   nothing caught). Read-aloud reviews now stand at 5 of 12.
 - Recorded a complete read-aloud review of SN 12.44 (2026-11-10, nothing
   caught). Read-aloud reviews now stand at 6 of 12.
+- Recorded a complete read-aloud review of AN 11.12 as revised (2026-11-10,
+  nothing caught). Read-aloud reviews now stand at 7 of 12.
 
 ### Fixed
 

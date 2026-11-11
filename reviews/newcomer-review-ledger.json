@@ -130,8 +130,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "624d05878e5fd1f91de55f8ef2a6a17782b5afaa27488f3320968ead470a774e",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-10",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud after sentence 16 was revised; nothing caught. An earlier full read of the previous body the same day found sentence 16 ('ununified people do not') hard to say, which prompted the revision."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
