@@ -171,8 +171,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "7adbfbd98c09b1f4e4f42ea15d63a382f0011e38106e04a2c54c74da430ab181",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-11",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud, including the revised fourth-truth wording ('how to quench it again'); nothing caught in delivery."
+          }
+        ]
       },
       "newcomer_reviews": []
     },

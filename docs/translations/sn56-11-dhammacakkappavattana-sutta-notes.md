@@ -127,7 +127,8 @@ translation choices, source-audit calls, and edition notes that govern it.
   preserved without decorative synonym changes.
 - Automated governance review: complete; the full repository verification
   suite passed on 2026-08-22.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-11-11); see `reviews/newcomer-review-ledger.json`.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
