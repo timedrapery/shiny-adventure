@@ -7,7 +7,7 @@
 
 *SN 45.8, the Vibhaṅga Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 536 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 3 min · 532 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -50,7 +50,7 @@ It is:
 And what is right view?
 
 Knowledge of dissatisfaction, knowledge of its origin, knowledge of its
-quenching, and knowledge of the path of practice that leads to its quenching.
+quenching, and knowledge of how to quench it again.
 
 This is called right view.
 
@@ -149,7 +149,7 @@ This is called right unification of mind."
 The eighth discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (30)</summary>
+<summary>Words used in this translation (29)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -179,8 +179,6 @@ The eighth discourse is finished.
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
 <dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>rejoicing</dfn></dt>
@@ -219,7 +217,7 @@ The eighth discourse is finished.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn45-8-vibhanga-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `d1d6cc56`
+- **Text last revised:** 2026-11-11 · body version `e440fe65`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2045.8) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -249,7 +247,6 @@ The eighth discourse is finished.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.

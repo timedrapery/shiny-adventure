@@ -11,7 +11,7 @@
     "truth of self-improvement"
   ],
   "definition": "The fourth noble truth, concerning the path leading to quenching.",
-  "notes": "This record names the path-side truth while pointing readers back to the governed magga headword and the practical course language of patipada when the line needs that explanatory surface. The OSF glossary and SN 56.11 support keeping this truth-label stable while the fuller formula expands into the path of practice leading to quenching.",
+  "notes": "This record names the path-side truth while pointing readers back to the governed magga headword and the practical course language of patipada when the line needs that explanatory surface. The OSF glossary and SN 56.11 support keeping this truth-label stable while the fuller formula reads `the noble truth of how to quench dissatisfaction again` (see the paṭipadā record for the ruling).",
   "related_terms": [
     "ariyasacca",
     "magga"
@@ -19,7 +19,7 @@
   "example_phrases": [
     {
       "pali": "ayaṁ dukkhanirodhagāminī paṭipadā ariyasaccaṁ",
-      "translation": "this is the noble truth of the path of practice leading to the quenching of dissatisfaction",
+      "translation": "this is the noble truth of how to quench dissatisfaction again",
       "notes": "Shows the canonical naming line for the fourth truth.",
       "source": "SN 56.11"
     }
@@ -43,7 +43,7 @@
     }
   ],
   "translation_policy": {
-    "default_scope": "Use 'noble truth of the path' as the default naming line for the fourth truth, and let the fuller formula expand it into 'the path of practice leading to the quenching of dissatisfaction' when the source sentence requires that explicit course-of-practice wording.",
+    "default_scope": "Use 'noble truth of the path' as the default naming line for the fourth truth, and let the fuller formula expand it into 'the noble truth of how to quench dissatisfaction again' when the source sentence names the whole formula (see the paṭipadā record).",
     "when_not_to_apply": "Do not recast the truth-label as self-improvement language or detach it from the governed path-factor set.",
     "compound_inheritance": "blocked",
     "drift_risk": "Prevents the fourth truth from collapsing into generic improvement rhetoric or from losing the link between magga and paṭipadā."

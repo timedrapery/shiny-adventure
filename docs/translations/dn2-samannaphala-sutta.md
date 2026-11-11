@@ -923,14 +923,14 @@ They directly understand as it really is:
 - `This is dissatisfaction.`
 - `This is the origin of dissatisfaction.`
 - `This is the quenching of dissatisfaction.`
-- `This is the path of practice leading to the quenching of dissatisfaction.`
+- `This is how to quench dissatisfaction again.`
 
 They directly understand as it really is:
 
 - `These are the outflows.`
 - `This is the origin of the outflows.`
 - `This is the quenching of the outflows.`
-- `This is the path of practice leading to the quenching of the outflows.`
+- `This is how to quench the outflows again.`
 
 Knowing and seeing like this, the mind is freed from the outflow of
 sensuality, the outflow of becoming, and the outflow of ignorance.

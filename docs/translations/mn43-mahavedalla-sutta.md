@@ -51,10 +51,10 @@ said to be poor in discernment.
 
 And what do they not discern?
 
-They do not discern 'this is dissatisfaction.' They do not discern 'this is
-the origin of dissatisfaction.' They do not discern 'this is the quenching of
-dissatisfaction.' They do not discern 'this is the path of practice leading to
-the quenching of dissatisfaction.'
+They do not discern 'this is dissatisfaction.' They do not discern 'this is the
+origin of dissatisfaction.' They do not discern 'this is the quenching of
+dissatisfaction.' They do not discern 'this is how to quench dissatisfaction
+again.'
 
 'They do not discern, they do not discern,' friend: that is why someone is
 said to be poor in discernment."
@@ -76,8 +76,7 @@ And what do they discern?
 
 They discern 'this is dissatisfaction.' They discern 'this is the origin of
 dissatisfaction.' They discern 'this is the quenching of dissatisfaction.'
-They discern 'this is the path of practice leading to the quenching of
-dissatisfaction.'
+They discern 'this is how to quench dissatisfaction again.'
 
 'They discern, they discern,' friend: that is why someone is said to be
 discerning."

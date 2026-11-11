@@ -64,7 +64,7 @@ source-audit calls, and edition notes that govern it.
   view-thicket, view-wilderness, view-distortion, view-wriggling, and fetter of
   views.
 - The four-truth attention line stays aligned with the existing truth surfaces:
-  dissatisfaction, origin, quenching, and path of practice leading to quenching.
+  dissatisfaction, origin, quenching, and how to quench it again.
 - The three fetters use existing governed labels: identity view,
   doubt, and grasping at habits and observances.
 - The sense-faculty restraint passage keeps the repeated distress-and-fever

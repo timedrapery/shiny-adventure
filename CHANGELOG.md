@@ -42,6 +42,17 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Changed
 
+- `dukkhanirodhagāminī paṭipadā` and its parallels now read "how to quench
+  X again" instead of "the path of practice leading to the quenching of X",
+  across AN 6.63, DN 2, MN 2, MN 9, MN 43, MN 44, MN 141, SN 45.8, and SN 56.11
+  (75 places), with the headings "The Noble Truth of How to Quench It Again"
+  and "How to Quench Identity Again". The practice is the first three truths
+  done here and now, again and again, not a journey; the ruling is recorded on
+  the `paṭipadā` record. The glossary's "path of practice" entry says the same.
+- SN 56.17 reads "not seeing dissatisfaction, where it comes from, when it
+  ends, or how to end it again". Its instruction reads "So apply yourself to
+  seeing", and its list of four ends "This is the end of dissatisfaction." /
+  "This is how to end it again."
 - Resolved all 29 acknowledged formula disagreements. Term records now agree
   on one wording for each, and the acknowledged-disagreement baseline is
   empty, so any new difference fails the check. Rulings with an effect on

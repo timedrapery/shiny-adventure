@@ -7,7 +7,7 @@
 
 *SN 56.17, the Avijjā Sutta — set 2, The Basic Diagnosis and the Path*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 1 min · 106 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 1 min · 99 words</p>
 
 <nav class="first-twelve-nav" aria-label="First 12 reading route" markdown="1">
 
@@ -29,11 +29,11 @@ A monk asks the Buddha for a precise explanation of what people mean when they s
 
 ### Central question
 
-In this teaching, what exactly is a person failing to understand when they are caught in ignorance?
+In this teaching, what exactly is a person failing to see when they are caught in ignorance?
 
 ### Main point
 
-Ignorance is not a lack of education or intelligence. It is not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.
+Ignorance is not a lack of education or intelligence. It is not seeing dissatisfaction, where it comes from, when it ends, and how to end it again.
 
 ### Reading tip
 
@@ -51,8 +51,6 @@ The text is not using ignorance to mean stupidity or a general lack of facts. It
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 </dl>
@@ -68,23 +66,23 @@ A bhikkhu sitting to one side said to the Buddha:
 "Bhante, people talk about 'ignorance.' What is ignorance? When can someone be
 said to be caught in it?"
 
-"Bhikkhu, it means not understanding dissatisfaction, where it comes from, how
-it ends, or the path of practice that leads to its ending.
+"Bhikkhu, it means not seeing dissatisfaction, where it comes from, when it
+ends, or how to end it again.
 
 This is what ignorance means. This is when someone can be said to be caught in
 it.
 
-So apply yourself to understanding:
+So apply yourself to seeing:
 
 - 'This is dissatisfaction.'
 - 'This is where dissatisfaction comes from.'
-- 'This is how dissatisfaction ends.'
-- 'This is the path of practice that leads to its ending.'"
+- 'This is the end of dissatisfaction.'
+- 'This is how to end it again.'"
 
 The seventh discourse is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (5)</summary>
+<summary>Words used in this translation (4)</summary>
 <dl>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
@@ -94,8 +92,6 @@ The seventh discourse is finished.
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 </dl>
 </details>
 
@@ -104,7 +100,7 @@ The seventh discourse is finished.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-17-avijja-sutta-notes.md)
-- **Text last revised:** 2026-08-25 · body version `eb7c6d43`
+- **Text last revised:** 2026-11-11 · body version `05dc96e1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.17) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -124,4 +120,3 @@ The seventh discourse is finished.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.

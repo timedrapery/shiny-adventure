@@ -14,8 +14,13 @@
   ],
   "untranslated_preferred": false,
   "definition": "A course or way of practice, especially one leading toward a defined doctrinal outcome.",
-  "notes": "The project prefers path of practice because it keeps the practical force explicit without collapsing the term into magga. Course of practice is an acceptable alternate when the English sentence wants slightly less weight, while bare practice is acceptable only when the surrounding sentence already makes the directional sense clear. The OSF glossary confirms path of practice as the house default and preserves course of practice as the explanatory alternate.",
+  "notes": "The project prefers path of practice because it keeps the practical force explicit without collapsing the term into magga. Course of practice is an acceptable alternate when the English sentence wants slightly less weight, while bare practice is acceptable only when the surrounding sentence already makes the directional sense clear. The OSF glossary confirms path of practice as the house default and preserves course of practice as the explanatory alternate. Editorial ruling, 2026-11-10: dukkhanirodhagāminī paṭipadā, and the same formula applied to other objects, is rendered `how to quench X again`. The practice is the first three truths done here and now (seeing dissatisfaction, abandoning its origin, and so quenching it) again and again, as often as one remembers. `Path of practice leading to` invites the picture of a journey across time and space, which the house rejects. After `what is`, English needs a noun, so the line reads `the way to quench X again`; SN 56.17's plain restatement says `how to end it again`.",
   "context_rules": [
+    {
+      "context": "In dukkhanirodhagāminī paṭipadā and the same formula with another object (the fourth truth and its parallels)",
+      "rendering": "how to quench X again",
+      "notes": "Editorial ruling, 2026-11-10: dukkhanirodhagāminī paṭipadā, and the same formula applied to other objects, is rendered `how to quench X again`. The practice is the first three truths done here and now (seeing dissatisfaction, abandoning its origin, and so quenching it) again and again, as often as one remembers. `Path of practice leading to` invites the picture of a journey across time and space, which the house rejects. After `what is`, English needs a noun, so the line reads `the way to quench X again`; SN 56.17's plain restatement says `how to end it again`."
+    },
     {
       "context": "In doctrinal contexts where a defined course of practice is being named",
       "rendering": "path of practice",
@@ -38,7 +43,7 @@
   "example_phrases": [
     {
       "pali": "dukkhanirodhagāminī paṭipadā",
-      "translation": "the path of practice leading to the quenching of dissatisfaction",
+      "translation": "how to quench dissatisfaction again",
       "notes": "Shows the canonical phrase in the four-truths framework.",
       "source": "SN 56.11"
     },

@@ -6,16 +6,16 @@
       "revised_on": "2026-11-09"
     },
     "mn2": {
-      "body_sha256": "7b387b9585411d3f566918558b56459a0997702e5585a5f481e193b4881a5e44",
-      "revised_on": "2026-11-09"
+      "body_sha256": "c0c99d57ce9918bbe7570b75171ad64877b8ab0c84dcd9583c303afc5dc2f05a",
+      "revised_on": "2026-11-11"
     },
     "mn7": {
       "body_sha256": "e33d4501cc5764c896080a626a057bbce557c36e3a5d2e81e801839690d34ec2",
       "revised_on": "2026-11-09"
     },
     "mn9": {
-      "body_sha256": "5c31b105d41b34c9f76d4dc7e473c4382b6e1160d30af84fe44ac4cde72efbe3",
-      "revised_on": "2026-11-09"
+      "body_sha256": "47ae59e01a07da8a4225aa6dda128c528f7d99c65cda01e1c17204db1fce4140",
+      "revised_on": "2026-11-11"
     },
     "mn10": {
       "body_sha256": "9599c97c38873b84caed103bea08ee97b638eed02771b7012fb7331512b8a8da",
@@ -54,12 +54,12 @@
       "revised_on": "2026-11-09"
     },
     "mn43": {
-      "body_sha256": "5619145e10c5906fe0336dd1861a29562be081a08879bd528d2c887fd0f88d89",
-      "revised_on": "2026-11-09"
+      "body_sha256": "56766e6610cd4ee4c03e9f1aaa390a30ad86f808d471cca48f26740b55fdb79d",
+      "revised_on": "2026-11-11"
     },
     "mn44": {
-      "body_sha256": "bb921376d01a9c81a24a4170f59a1fd233787c88a007a6e6060e74f9384d6672",
-      "revised_on": "2026-11-09"
+      "body_sha256": "6a5b1a2854645efa826495aef9201202a1ded9b7d8e137d1fb5b23d371591984",
+      "revised_on": "2026-11-11"
     },
     "mn61": {
       "body_sha256": "218807c23d672ac40682951b9897d29be36049800ddb5c42f50d02817b1eacbc",
@@ -110,8 +110,8 @@
       "revised_on": "2026-11-10"
     },
     "mn141": {
-      "body_sha256": "4b7012b3429dc201c38c47c301070eb4f15803ac290e6502fa9824a2a6b20449",
-      "revised_on": "2026-11-09"
+      "body_sha256": "4d311331805849049c25bfd62a4707368527643ee7ad45a59c3932b7c820a57c",
+      "revised_on": "2026-11-11"
     },
     "mn148": {
       "body_sha256": "5774b6d56198a1e356b79b6b12d709439b855de81d11367daf7ac4450243ff9d",
@@ -158,12 +158,12 @@
       "revised_on": "2026-11-08"
     },
     "sn56_11": {
-      "body_sha256": "b7daaea35de198898414f52c4b8066f0b212301b53d48624d41e714f6faded45",
-      "revised_on": "2026-11-09"
+      "body_sha256": "7adbfbd98c09b1f4e4f42ea15d63a382f0011e38106e04a2c54c74da430ab181",
+      "revised_on": "2026-11-11"
     },
     "sn56_17": {
-      "body_sha256": "eb7c6d437ff1752a470fdeea4c8167d9c9f8378e78c6d75e83b5d758db077835",
-      "revised_on": "2026-08-25"
+      "body_sha256": "05dc96e1838331fdafe13b8312c68ee43a89bf0562526f52696ba6959ba62df6",
+      "revised_on": "2026-11-11"
     },
     "sn22_59": {
       "body_sha256": "5930c6f6002ce701ce478afa5c118259b6f7f5279e788bdf14e6a0e0e1792c1c",
@@ -198,8 +198,8 @@
       "revised_on": "2026-11-09"
     },
     "sn45_8": {
-      "body_sha256": "d1d6cc56cefa6fc87570c23003c3f7c0d4dcbc119f1e41ad3b726a13e6dfa511",
-      "revised_on": "2026-11-09"
+      "body_sha256": "e440fe6526e0c1e9329030e1b67c9ed36b2f758f6d17e05671a7d19c77d44f1d",
+      "revised_on": "2026-11-11"
     },
     "sn36_6": {
       "body_sha256": "0199c3d1f32f78ce1cf5ca14669a237ca25c5088053fb3b8d67c7eeda9f64085",
@@ -254,8 +254,8 @@
       "revised_on": "2026-11-09"
     },
     "an6_63": {
-      "body_sha256": "120b30dbd775f8936db4d653816e9563d21ff69e707070c637d79ed77629b998",
-      "revised_on": "2026-11-09"
+      "body_sha256": "3e6b0333dd494df34c72e31f81a4bc2f8fead9d1e39cae513922a96ed388ecbb",
+      "revised_on": "2026-11-11"
     },
     "an8_6": {
       "body_sha256": "3a757a0765f5aab18f1086ae6dcfdef72669b2e1ae63a44870f56858eb6ed0e0",
@@ -278,8 +278,8 @@
       "revised_on": "2026-11-08"
     },
     "dn2": {
-      "body_sha256": "ca0319f99fb06f8046969005552e19987a1a656ee870637c12be5f3d62448d94",
-      "revised_on": "2026-11-09"
+      "body_sha256": "6f6d0e6e8e6d54a8fe44402d5ab86798d96a50544b03a0c673be2aef9861617e",
+      "revised_on": "2026-11-11"
     },
     "dn15": {
       "body_sha256": "0770845c43844286bed4ebc447c7afe4d5d132eccb60cc4502bae1cdb58df20d",

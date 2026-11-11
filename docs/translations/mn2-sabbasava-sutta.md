@@ -209,7 +209,7 @@ He wisely attends:
 "This is dissatisfaction."
 "This is the origin of dissatisfaction."
 "This is the quenching of dissatisfaction."
-"This is the path of practice leading to the quenching of dissatisfaction."
+"This is how to quench dissatisfaction again."
 
 When he attends wisely in this way, three fetters are abandoned:
 

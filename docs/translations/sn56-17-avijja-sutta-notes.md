@@ -23,24 +23,39 @@ This document records the source and editorial decisions for
   asks for its practical meaning. The answer prevents `ignorance` from being
   heard as a general lack of facts: here it is specifically a failure to
   understand dissatisfaction and the other three truths.
-- **`aññāṇa` is expressed as `not understanding`.** The source repeats
-  the noun four times. A mechanical `non-knowledge regarding ...` would hide
-  the definition inside abstract English. One ordinary verb carries the same
-  four-part scope more clearly.
+- **`aññāṇa` is expressed as `not seeing`.** The source repeats the noun
+  four times. A mechanical `non-knowledge regarding ...` would hide the
+  definition inside abstract English. One ordinary verb carries the same
+  four-part scope more clearly, and `seeing` keeps avijjā an active failure to
+  see clearly rather than a lack of information (editorial ruling,
+  2026-11-10; previously `not understanding`).
 - **The four truth labels are rendered as a connected sentence.** `dukkha` is
   `dissatisfaction`; `dukkhasamudaya` becomes `where it comes from`;
-  `dukkhanirodha` becomes `how it ends`; and
-  `dukkhanirodhagāminī paṭipadā` is `the path of practice that leads to its
-  ending`. These are contextual plain-English restatements of the repository's
-  governed `origin`, `quenching`, and `path of practice` language, not changes
-  to those headword defaults.
+  `dukkhanirodha` becomes `when it ends` in the definition and `the end of
+  dissatisfaction` in the list of four (editorial ruling, 2026-11-10).
+  The third truth is nirodha, the end of dissatisfaction, and its three
+  turnings are: this is the end of dissatisfaction; it is to be personally
+  experienced (`sacchikātabba`), that is, known directly when it ends; and it
+  has been personally experienced (`sacchikata`). `When it ends` keeps the
+  definition pointed at that direct knowing. Wisdom is defined as the four
+  truths turned three times, and the plain, direct wording keeps that in view
+  where a longer formula would bury it; and
+  `dukkhanirodhagāminī paṭipadā` is `how to end it again`. The practice is
+  something done again and again, joyfully and with ease; it is not a journey
+  to a distant place or a special attainment, and `again` keeps that audible
+  (editorial ruling, 2026-11-10). This is an interpretive rendering: the Pali
+  says `the practice leading to the ending of dissatisfaction`. The same
+  ruling applies across the corpus, where the fourth truth reads `how to
+  quench dissatisfaction again` (see the `paṭipadā` record). Here the plain
+  restatement uses `end` rather than the house `quench`.
 - **`avijjāgato` is `caught in ignorance`.** The literal image is someone who
   has gone into or arrived at ignorance. `Caught in it` makes the condition
   audible without turning the person into an `ignoramus`, a needlessly
   contemptuous English label.
 - **`yogo karaṇīyo` is translated as a complete idiom.** Here `yoga` does
   not name the bondage image governed in the yoke family. The phrase prescribes
-  application: `apply yourself to understanding`. The `yoga` record now states
+  application: `apply yourself to seeing`, matching `not seeing` in the
+  definition (editorial ruling, 2026-11-11). The `yoga` record now states
   this context explicitly so future translations do not import `yoke` into an
   effort instruction.
 
@@ -52,8 +67,8 @@ stated immediately before it. This edition therefore prints:
 
 1. this is dissatisfaction;
 2. this is where dissatisfaction comes from;
-3. this is how dissatisfaction ends; and
-4. this is the path of practice that leads to its ending.
+3. this is the end of dissatisfaction; and
+4. this is how to end it again.
 
 The expansion adds no new teaching. It restores the two middle members that
 the transmission expects a reciter to supply.

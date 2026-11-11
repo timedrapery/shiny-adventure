@@ -7,7 +7,7 @@
 
 *DN 2, the Sāmaññaphala Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 39 min · 6,965 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 39 min · 6,955 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -931,14 +931,14 @@ They directly understand as it really is:
 - `This is dissatisfaction.`
 - `This is the origin of dissatisfaction.`
 - `This is the quenching of dissatisfaction.`
-- `This is the path of practice leading to the quenching of dissatisfaction.`
+- `This is how to quench dissatisfaction again.`
 
 They directly understand as it really is:
 
 - `These are the outflows.`
 - `This is the origin of the outflows.`
 - `This is the quenching of the outflows.`
-- `This is the path of practice leading to the quenching of the outflows.`
+- `This is how to quench the outflows again.`
 
 Knowing and seeing like this, the mind is freed from the outflow of
 sensuality, the outflow of becoming, and the outflow of ignorance.
@@ -1013,7 +1013,7 @@ That is what the Buddha said. The bhikkhus were glad and welcomed what the
 Buddha had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (56)</summary>
+<summary>Words used in this translation (55)</summary>
 <dl>
 <dt><dfn>arahant</dfn></dt>
 <dd>Someone who has completed the path and has nothing further to do. Left untranslated; &quot;saint&quot; and &quot;perfected one&quot; both mislead.</dd>
@@ -1089,8 +1089,6 @@ Buddha had said.
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>refuge</dfn></dt>
@@ -1135,7 +1133,7 @@ Buddha had said.
 
 - **Pali text:** Dīghanikāya, Sīlakkhandhavaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/dn2-samannaphala-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `ca0319f9`
+- **Text last revised:** 2026-11-11 · body version `6f6d0e6e`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20DN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -1187,7 +1185,6 @@ Buddha had said.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.

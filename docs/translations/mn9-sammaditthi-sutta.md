@@ -136,14 +136,13 @@ Dhamma, and who has arrived at this true Dhamma?"
 ### Nutriment
 
 When a noble disciple discerns nutriment, discerns the origin of nutriment,
-discerns the quenching of nutriment, and discerns the path of practice leading
-to the quenching of nutriment, to that extent the noble disciple is someone
-with right view, whose view has become direct, who has verified confidence in
-the Dhamma, and who has arrived at this true Dhamma.
+discerns the quenching of nutriment, and discerns how to quench nutriment
+again, to that extent the noble disciple is someone with right view, whose view
+has become direct, who has verified confidence in the Dhamma, and who has
+arrived at this true Dhamma.
 
 And what is nutriment? What is the origin of nutriment? What is the quenching
-of nutriment? What is the path of practice leading to the quenching of
-nutriment?
+of nutriment? What is the way to quench nutriment again?
 
 There are these four nutriments for the maintenance of beings who have come to
 be, and for the support of those seeking to come to be.
@@ -158,8 +157,7 @@ Which four?
 With the origin of ignorant wanting, the origin of nutriment comes to be. With
 the quenching of ignorant wanting, the quenching of nutriment comes to be.
 
-This same noble eightfold path is the path of practice leading to the quenching
-of nutriment:
+This same noble eightfold path is how to quench nutriment again:
 
 - right view
 - right attitude
@@ -172,7 +170,7 @@ of nutriment:
 
 When a noble disciple discerns nutriment in this way, discerns the origin of
 nutriment in this way, discerns the quenching of nutriment in this way, and
-discerns the path of practice leading to the quenching of nutriment in this
+discerns how to quench nutriment again in this
 way, then he abandons the underlying tendency toward passion entirely, dispels
 the underlying tendency toward resistance, uproots the underlying tendency to
 the view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge,
@@ -190,9 +188,9 @@ said:
 "Yes, friends, there is.
 
 When a noble disciple discerns dissatisfaction, discerns the origin of
-dissatisfaction, discerns the quenching of dissatisfaction, and discerns the
-path of practice leading to the quenching of dissatisfaction, to that extent
-the noble disciple is someone with right view.
+dissatisfaction, discerns the quenching of dissatisfaction, and discerns how to
+quench dissatisfaction again, to that extent the noble disciple is someone with
+right view.
 
 And what is dissatisfaction?
 
@@ -222,7 +220,7 @@ relinquishing it, freedom, non-attachment.
 
 This is called the quenching of dissatisfaction.
 
-And what is the path of practice leading to the quenching of dissatisfaction?
+And what is the way to quench dissatisfaction again?
 
 It is just this noble eightfold path:
 
@@ -235,8 +233,7 @@ It is just this noble eightfold path:
 - right remembering
 - right unification of mind
 
-This is called the path of practice leading to the quenching of
-dissatisfaction.
+This is called how to quench dissatisfaction again.
 
 When a noble disciple discerns this in this way, then he abandons the
 underlying tendency toward passion entirely, dispels the underlying tendency
@@ -251,13 +248,13 @@ To that extent, too, the noble disciple is someone with right view."
 Again the bhikkhus approved and asked whether there was another way.
 
 For each analysis that follows, Sāriputta gives the same right-view frame: a
-noble disciple discerns the term, its origin, its quenching, and the path of
-practice leading to its quenching. Discerning in this way, the noble disciple
-abandons the underlying tendency toward passion, dispels the underlying
-tendency toward resistance, uproots the underlying tendency to the view and
-conceit "I am," abandons ignorance, gives rise to clear knowledge, and makes an
-end of dissatisfaction in this very life. To that extent, too, the noble
-disciple is someone with right view.
+noble disciple discerns the term, its origin, its quenching, and how to quench
+it again. Discerning in this way, the noble disciple abandons the underlying
+tendency toward passion, dispels the underlying tendency toward resistance,
+uproots the underlying tendency to the view and conceit "I am," abandons
+ignorance, gives rise to clear knowledge, and makes an end of dissatisfaction
+in this very life. To that extent, too, the noble disciple is someone with
+right view.
 
 ### Ageing and Dying
 
@@ -276,8 +273,7 @@ Such is ageing, and such is death. This is called ageing and dying.
 
 With the origin of birth, the origin of ageing and dying comes to be. With the
 quenching of birth, the quenching of ageing and dying comes to be. This same
-noble eightfold path is the path of practice leading to the quenching of ageing
-and dying.
+noble eightfold path is how to quench ageing and dying again.
 
 ### Birth
 
@@ -289,7 +285,7 @@ classes of beings: this is called birth.
 
 With the origin of becoming, the origin of birth comes to be. With the
 quenching of becoming, the quenching of birth comes to be. This same noble
-eightfold path is the path of practice leading to the quenching of birth.
+eightfold path is how to quench birth again.
 
 ### Becoming
 
@@ -305,8 +301,7 @@ This is called becoming.
 
 With the origin of taking personally, the origin of becoming comes to be. With
 the quenching of taking personally, the quenching of becoming comes to be. This
-same noble eightfold path is the path of practice leading to the quenching of
-becoming.
+same noble eightfold path is how to quench becoming again.
 
 ### Taking Personally
 
@@ -323,8 +318,8 @@ This is called taking personally.
 
 With the origin of ignorant wanting, the origin of taking personally comes to
 be. With the quenching of ignorant wanting, the quenching of taking personally
-comes to be. This same noble eightfold path is the path of practice leading to
-the quenching of taking personally.
+comes to be. This same noble eightfold path is how to quench taking personally
+again.
 
 ### Ignorant Wanting
 
@@ -343,8 +338,7 @@ This is called ignorant wanting.
 
 With the origin of felt experience, the origin of ignorant wanting comes to be.
 With the quenching of felt experience, the quenching of ignorant wanting comes
-to be. This same noble eightfold path is the path of practice leading to the
-quenching of ignorant wanting.
+to be. This same noble eightfold path is how to quench ignorant wanting again.
 
 ### Felt Experience
 
@@ -363,8 +357,7 @@ This is called felt experience.
 
 With the origin of contact, the origin of felt experience comes to be. With the
 quenching of contact, the quenching of felt experience comes to be. This same
-noble eightfold path is the path of practice leading to the quenching of felt
-experience.
+noble eightfold path is how to quench felt experience again.
 
 ### Contact
 
@@ -383,8 +376,8 @@ This is called contact.
 
 With the origin of the six fields of experience, the origin of contact comes to
 be. With the quenching of the six fields of experience, the quenching of
-contact comes to be. This same noble eightfold path is the path of practice
-leading to the quenching of contact.
+contact comes to be. This same noble eightfold path is how to quench contact
+again.
 
 ### The Six Fields of Experience
 
@@ -403,8 +396,8 @@ These are called the six fields of experience.
 
 With the origin of name-and-form, the origin of the six fields of experience
 comes to be. With the quenching of name-and-form, the quenching of the six
-fields of experience comes to be. This same noble eightfold path is the path of
-practice leading to the quenching of the six fields of experience.
+fields of experience comes to be. This same noble eightfold path is how to
+quench the six fields of experience again.
 
 ### Name-And-Form
 
@@ -425,8 +418,7 @@ Such is name, and such is form. This is called name-and-form.
 
 With the origin of knowing, the origin of name-and-form comes to be. With the
 quenching of knowing, the quenching of name-and-form comes to be. This same
-noble eightfold path is the path of practice leading to the quenching of
-name-and-form.
+noble eightfold path is how to quench name-and-form again.
 
 ### Knowing
 
@@ -445,8 +437,7 @@ This is called knowing.
 
 With the origin of putting things together, the origin of knowing comes to be.
 With the quenching of putting things together, the quenching of knowing comes
-to be. This same noble eightfold path is the path of practice leading to the
-quenching of knowing.
+to be. This same noble eightfold path is how to quench knowing again.
 
 ### Putting Things Together
 
@@ -462,8 +453,8 @@ These are called putting things together.
 
 With the origin of ignorance, the origin of putting things together comes to
 be. With the quenching of ignorance, the quenching of putting things together
-comes to be. This same noble eightfold path is the path of practice leading to
-the quenching of putting things together.
+comes to be. This same noble eightfold path is how to quench putting things
+together again.
 
 ### Ignorance
 
@@ -471,12 +462,12 @@ What is ignorance?
 
 Not knowing about dissatisfaction, not knowing about the origin of
 dissatisfaction, not knowing about the quenching of dissatisfaction, and not
-knowing about the path of practice leading to the quenching of dissatisfaction:
+knowing about how to quench dissatisfaction again:
 this is called ignorance.
 
 With the origin of outflows, the origin of ignorance comes to be. With the
 quenching of outflows, the quenching of ignorance comes to be. This same noble
-eightfold path is the path of practice leading to the quenching of ignorance.
+eightfold path is how to quench ignorance again.
 
 ### Outflows
 
@@ -486,13 +477,13 @@ said:
 "Yes, friends, there is.
 
 When a noble disciple discerns outflow, discerns the origin of outflow,
-discerns the quenching of outflow, and discerns the path of practice leading to
-the quenching of outflow, to that extent the noble disciple is someone with
-right view, whose view has become direct, who has verified confidence in the
-Dhamma, and who has arrived at this true Dhamma.
+discerns the quenching of outflow, and discerns how to quench outflow again, to
+that extent the noble disciple is someone with right view, whose view has
+become direct, who has verified confidence in the Dhamma, and who has arrived
+at this true Dhamma.
 
 And what is outflow? What is the origin of outflow? What is the quenching of
-outflow? What is the path of practice leading to the quenching of outflow?
+outflow? What is the way to quench outflow again?
 
 There are these three outflows:
 
@@ -502,7 +493,7 @@ There are these three outflows:
 
 With the origin of ignorance, the origin of outflows comes to be. With the
 quenching of ignorance, the quenching of outflows comes to be. This same noble
-eightfold path is the path of practice leading to the quenching of outflows:
+eightfold path is how to quench outflows again:
 
 - right view
 - right attitude
@@ -515,7 +506,7 @@ eightfold path is the path of practice leading to the quenching of outflows:
 
 When a noble disciple discerns outflow in this way, discerns the origin of
 outflow in this way, discerns the quenching of outflow in this way, and
-discerns the path of practice leading to the quenching of outflow in this way,
+discerns how to quench outflow again in this way,
 then he abandons the underlying tendency toward passion entirely, dispels the
 underlying tendency toward resistance, uproots the underlying tendency to the
 view and conceit 'I am,' abandons ignorance, gives rise to clear knowledge, and

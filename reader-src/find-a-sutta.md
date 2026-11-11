@@ -77,16 +77,16 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the first teaching sn 56.11 dhammacakkappavattana sutta the first sermon: the four noble truths and the eightfold path stated directly. foundational, but reads better once stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize. four truths and path">
 <h2><a href="../suttas/sn56-11-dhammacakkappavattana-sutta/">The First Teaching</a></h2>
 <p class="sutta-card__reference">SN 56.11 · <span lang="pi">Dhammacakkappavattana Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,223 words</p>
+<p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,206 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="what ignorance means sn 56.17 avijjā sutta a bhikkhu asks what ignorance means. the answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="what ignorance means sn 56.17 avijjā sutta a bhikkhu asks what ignorance means. the answer is precise: not seeing dissatisfaction, where it comes from, when it ends, and how to end it again. four truths and path">
 <h2><a href="../suttas/sn56-17-avijja-sutta/">What Ignorance Means</a></h2>
 <p class="sutta-card__reference">SN 56.17 · <span lang="pi">Avijjā Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 106 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 99 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>A bhikkhu asks what ignorance means. The answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.</p>
+<p>A bhikkhu asks what ignorance means. The answer is precise: not seeing dissatisfaction, where it comes from, when it ends, and how to end it again.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path|not-self" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="true whether or not a buddha appears an 3.136 uppāda sutta three short claims about everything that has been put together, and a frame that says they hold whether or not a buddha ever appears. four truths and path · not-self">
 <h2><a href="../suttas/an3-136-uppada-sutta/">True Whether or Not a Buddha Appears</a></h2>
@@ -98,7 +98,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="analysis" data-length="short" data-search="what the eightfold path means sn 45.8 vibhaṅga sutta the eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart. four truths and path">
 <h2><a href="../suttas/sn45-8-vibhanga-sutta/">What the Eightfold Path Means</a></h2>
 <p class="sutta-card__reference">SN 45.8 · <span lang="pi">Vibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 536 words</p>
+<p class="sutta-card__meta">Introductory · Analysis · Short · about 3 min · 532 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart.</p>
 </article>
@@ -252,7 +252,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="seven ways to handle what erodes the mind mn 2 sabbāsava sutta seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. a toolkit, not a theory. meditation">
 <h2><a href="../suttas/mn2-sabbasava-sutta/">Seven Ways to Handle What Erodes the Mind</a></h2>
 <p class="sutta-card__reference">MN 2 · <span lang="pi">Sabbāsava Sutta</span></p>
-<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,193 words</p>
+<p class="sutta-card__meta">Practical · Practice instructions · Medium · about 13 min · 2,188 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>Seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. A toolkit, not a theory.</p>
 </article>
@@ -301,7 +301,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="what does a renunciant gain? dn 2 sāmaññaphala sutta a king asks what a renunciant actually gets out of the life. a full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view. ethics and conduct · meditation">
 <h2><a href="../suttas/dn2-samannaphala-sutta/">What Does a Renunciant Gain?</a></h2>
 <p class="sutta-card__reference">DN 2 · <span lang="pi">Sāmaññaphala Sutta</span></p>
-<p class="sutta-card__meta">Practical · Dialogue · Long · about 39 min · 6,965 words</p>
+<p class="sutta-card__meta">Practical · Dialogue · Long · about 39 min · 6,955 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Meditation</p>
 <p>A king asks what a renunciant actually gets out of the life. A full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view.</p>
 </article>
@@ -483,21 +483,21 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path|dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="medium" data-search="right view from many angles mn 9 sammādiṭṭhi sutta right view examined through more than a dozen different doctrinal lenses in one text. reads best as a review once the pieces it is reviewing are already familiar. four truths and path · dependent arising">
 <h2><a href="../suttas/mn9-sammaditthi-sutta/">Right View from Many Angles</a></h2>
 <p class="sutta-card__reference">MN 9 · <span lang="pi">Sammādiṭṭhi Sutta</span></p>
-<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 15 min · 2,613 words</p>
+<p class="sutta-card__meta">Intermediate · Analysis · Medium · about 14 min · 2,493 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Dependent arising</p>
 <p>Right view examined through more than a dozen different doctrinal lenses in one text. Reads best as a review once the pieces it is reviewing are already familiar.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="questions and answers on the teaching mn 44 cūḷavedalla sutta a systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently. mind and senses">
 <h2><a href="../suttas/mn44-culavedalla-sutta/">Questions and Answers on the Teaching</a></h2>
 <p class="sutta-card__reference">MN 44 · <span lang="pi">Cūḷavedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,468 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 14 min · 2,446 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>A systematic question-and-answer exchange between two disciples, covering a wide sweep of doctrine efficiently.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="dialogue" data-length="medium" data-search="the longer questions and answers mn 43 mahāvedalla sutta the longer companion to mn 44, and the same format: two senior disciples working through the vocabulary point by point. read it second — it assumes more. mind and senses">
 <h2><a href="../suttas/mn43-mahavedalla-sutta/">The Longer Questions and Answers</a></h2>
 <p class="sutta-card__reference">MN 43 · <span lang="pi">Mahāvedalla Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,907 words</p>
+<p class="sutta-card__meta">Advanced · Dialogue · Medium · about 17 min · 2,897 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The longer companion to MN 44, and the same format: two senior disciples working through the vocabulary point by point. Read it second — it assumes more.</p>
 </article>
@@ -546,7 +546,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the four truths in detail mn 141 saccavibhaṅga sutta the four noble truths again, now in full analytical detail rather than the compressed form from stage 2. four truths and path">
 <h2><a href="../suttas/mn141-saccavibhanga-sutta/">The Four Truths in Detail</a></h2>
 <p class="sutta-card__reference">MN 141 · <span lang="pi">Saccavibhaṅga Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 9 min · 1,511 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 9 min · 1,494 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The four noble truths again, now in full analytical detail rather than the compressed form from Stage 2.</p>
 </article>
@@ -560,7 +560,7 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="six things examined an 6.63 nibbedhika sutta one analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction. includes the line that defines action as intention. four truths and path">
 <h2><a href="../suttas/an6-63-nibbedhika-sutta/">Six Things Examined</a></h2>
 <p class="sutta-card__reference">AN 6.63 · <span lang="pi">Nibbedhika Sutta</span></p>
-<p class="sutta-card__meta">Advanced · Analysis · Medium · about 12 min · 2,114 words</p>
+<p class="sutta-card__meta">Advanced · Analysis · Medium · about 11 min · 1,976 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>One analytical frame applied six times over, to sensuality, feeling, recognition, the outflows, action, and dissatisfaction. Includes the line that defines action as intention.</p>
 </article>

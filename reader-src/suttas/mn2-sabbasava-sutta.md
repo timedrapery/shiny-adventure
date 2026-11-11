@@ -7,7 +7,7 @@
 
 *MN 2, the Sabbāsava Sutta — set 3, Learning to Look at Your Own Mind*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 13 min · 2,193 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 13 min · 2,188 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -215,7 +215,7 @@ He wisely attends:
 "This is dissatisfaction."
 "This is the origin of dissatisfaction."
 "This is the quenching of dissatisfaction."
-"This is the path of practice leading to the quenching of dissatisfaction."
+"This is how to quench dissatisfaction again."
 
 When he attends wisely in this way, three fetters are abandoned:
 
@@ -389,7 +389,7 @@ The bhikkhus were satisfied and welcomed what the Buddha had said.
 The Sabbāsava Sutta, the second discourse, is finished.
 
 <details class="reader-terms">
-<summary>Words used in this translation (33)</summary>
+<summary>Words used in this translation (32)</summary>
 <dl>
 <dt><dfn>awakening factor</dfn></dt>
 <dd>One of seven qualities developed and kept in balance on the way to waking up.</dd>
@@ -435,8 +435,6 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>rejoicing</dfn></dt>
@@ -465,7 +463,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn2-sabbasava-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `7b387b95`
+- **Text last revised:** 2026-11-11 · body version `c0c99d57`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%202) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -504,7 +502,6 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.

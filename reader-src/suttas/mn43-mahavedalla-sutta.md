@@ -7,7 +7,7 @@
 
 *MN 43, the Mahāvedalla Sutta — set 5, Advanced and Reference Texts*
 
-<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,907 words</p>
+<p class="reading-meta"><strong>Reading time:</strong> about 17 min · 2,897 words</p>
 
 [Skip to the translation](#translation){ .reader-skip-link }
 
@@ -51,10 +51,10 @@ said to be poor in discernment.
 
 And what do they not discern?
 
-They do not discern 'this is dissatisfaction.' They do not discern 'this is
-the origin of dissatisfaction.' They do not discern 'this is the quenching of
-dissatisfaction.' They do not discern 'this is the path of practice leading to
-the quenching of dissatisfaction.'
+They do not discern 'this is dissatisfaction.' They do not discern 'this is the
+origin of dissatisfaction.' They do not discern 'this is the quenching of
+dissatisfaction.' They do not discern 'this is how to quench dissatisfaction
+again.'
 
 'They do not discern, they do not discern,' friend: that is why someone is
 said to be poor in discernment."
@@ -76,8 +76,7 @@ And what do they discern?
 
 They discern 'this is dissatisfaction.' They discern 'this is the origin of
 dissatisfaction.' They discern 'this is the quenching of dissatisfaction.'
-They discern 'this is the path of practice leading to the quenching of
-dissatisfaction.'
+They discern 'this is how to quench dissatisfaction again.'
 
 'They discern, they discern,' friend: that is why someone is said to be
 discerning."
@@ -545,7 +544,7 @@ Venerable Mahākoṭṭhika was satisfied and delighted in what Venerable Sārip
 had said.
 
 <details class="reader-terms">
-<summary>Words used in this translation (46)</summary>
+<summary>Words used in this translation (45)</summary>
 <dl>
 <dt><dfn>aversion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and delusion -- the pushback against what&#x27;s unwanted or unpleasant.</dd>
@@ -601,8 +600,6 @@ had said.
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
-<dt><dfn>path of practice</dfn></dt>
-<dd>A way of practising -- the course someone actually follows to get somewhere, rather than the destination.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>recognition</dfn></dt>
@@ -647,7 +644,7 @@ had said.
 
 - **Pali text:** Majjhimanikāya, Mūlapaṇṇāsapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/mn43-mahavedalla-sutta-notes.md)
-- **Text last revised:** 2026-11-09 · body version `5619145e`
+- **Text last revised:** 2026-11-11 · body version `56766e66`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20MN%2043) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>
@@ -690,7 +687,6 @@ had said.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[path of practice]: A way of practising -- the course someone actually follows to get somewhere, rather than the destination.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.

@@ -80,13 +80,12 @@ wanting: giving it up, relinquishing it, freedom, non-attachment.
 
 This, friend Visākha, is what the Buddha calls the quenching of identity."
 
-### The Path to the Quenching of Identity
+### How to Quench Identity Again
 
-"Ayye, people say, 'the path of practice leading to the quenching of identity,
-the path of practice leading to the quenching of identity.'
+"Ayye, people say, 'how to quench identity again,
+how to quench identity again.'
 
-What does the Buddha call the path of practice leading to the quenching of
-identity?"
+What does the Buddha call how to quench identity again?"
 
 "Friend Visākha, it is just this noble eightfold path:
 
@@ -99,8 +98,7 @@ identity?"
 - right remembering
 - right unification of mind
 
-This, friend Visākha, is what the Buddha calls the path of practice leading to
-the quenching of identity."
+This, friend Visākha, is what the Buddha calls how to quench identity again."
 
 ### Taking Personally
 

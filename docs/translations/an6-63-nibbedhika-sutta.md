@@ -40,31 +40,29 @@ The Buddha said this:
 Sensuality should be understood; where sensuality comes from should be
 understood; the differences among kinds of sensuality should be understood;
 the result of sensuality should be understood; the quenching of sensuality
-should be understood; and the path of practice leading to the quenching of
-sensuality should be understood.
+should be understood; and how to quench sensuality again should be understood.
 
-Felt experience should be understood, and so on through to the path of
-practice leading to the quenching of felt experience.
+Felt experience should be understood, and so on through to how to quench felt
+experience again.
 
-Recognition should be understood, and so on through to the path of practice
-leading to the quenching of recognition.
+Recognition should be understood, and so on through to how to quench
+recognition again.
 
-The outflows should be understood, and so on through to the path of practice
-leading to the quenching of the outflows.
+The outflows should be understood, and so on through to how to quench the
+outflows again.
 
-Action should be understood, and so on through to the path of practice leading
-to the quenching of action.
+Action should be understood, and so on through to how to quench action again.
 
-Dissatisfaction should be understood, and so on through to the path of
-practice leading to the quenching of dissatisfaction.
+Dissatisfaction should be understood, and so on through to how to quench
+dissatisfaction again.
 
 ### Sensuality
 
 'Sensuality should be understood; where sensuality comes from should be
-understood; the differences among kinds of sensuality should be understood;
-the result of sensuality should be understood; the quenching of sensuality
-should be understood; and the path of practice leading to the quenching of
-sensuality should be understood.' That is what was said. Why was it said?
+understood; the differences among kinds of sensuality should be understood; the
+result of sensuality should be understood; the quenching of sensuality should
+be understood; and how to quench sensuality again should be understood.' That
+is what was said. Why was it said?
 
 There are these five strands of sensuality, bhikkhus:
 
@@ -105,25 +103,23 @@ called the result of sensuality.
 And what is the quenching of sensuality?
 
 Bhikkhus, the quenching of contact is the quenching of sensuality. And this
-noble eightfold path is the path of practice leading to the quenching of
-sensuality: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right unification of mind.
+noble eightfold path is how to quench sensuality again: right view, right
+attitude, right speech, right action, right livelihood, right effort, right
+remembering, right unification of mind.
 
 When a noble disciple understands sensuality this way, understands where it
 comes from this way, understands the differences among its kinds this way,
 understands its result this way, understands its quenching this way, and
-understands the path of practice leading to its quenching this way, then they
+understands how to quench it again this way, then they
 understand this penetrating spiritual life as the quenching of sensuality.
 
-'Sensuality should be understood, and so on through to the path of practice
-leading to the quenching of sensuality.' That is what was said, and this is
-why it was said.
+'Sensuality should be understood, and so on through to how to quench sensuality
+again.' That is what was said, and this is why it was said.
 
 ### Felt Experience
 
-'Felt experience should be understood, and so on through to the path of
-practice leading to the quenching of felt experience.' That is what was said.
-Why was it said?
+'Felt experience should be understood, and so on through to how to quench felt
+experience again.' That is what was said. Why was it said?
 
 There are these three kinds of felt experience, bhikkhus: pleasant feeling,
 painful feeling, and mixed feeling.
@@ -148,23 +144,21 @@ called the result of felt experience.
 And what is the quenching of felt experience?
 
 Bhikkhus, the quenching of contact is the quenching of felt experience. And
-this noble eightfold path is the path of practice leading to the quenching of
-felt experience: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right unification of mind.
+this noble eightfold path is how to quench felt experience again: right view,
+right attitude, right speech, right action, right livelihood, right effort,
+right remembering, right unification of mind.
 
 When a noble disciple understands felt experience this way, and so on through
-to the path of practice leading to its quenching, then they understand this
+to how to quench it again, then they understand this
 penetrating spiritual life as the quenching of felt experience.
 
-'Felt experience should be understood, and so on through to the path of
-practice leading to the quenching of felt experience.' That is what was said,
-and this is why it was said.
+'Felt experience should be understood, and so on through to how to quench felt
+experience again.' That is what was said, and this is why it was said.
 
 ### Recognition
 
-'Recognition should be understood, and so on through to the path of practice
-leading to the quenching of recognition.' That is what was said. Why was it
-said?
+'Recognition should be understood, and so on through to how to quench
+recognition again.' That is what was said. Why was it said?
 
 There are these six kinds of recognition, bhikkhus: recognition of visible
 forms, of sounds, of smells, of tastes, of tangibles, and of dhammas.
@@ -188,23 +182,21 @@ This is called the result of recognition.
 And what is the quenching of recognition?
 
 Bhikkhus, the quenching of contact is the quenching of recognition. And this
-noble eightfold path is the path of practice leading to the quenching of
-recognition: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right unification of mind.
+noble eightfold path is how to quench recognition again: right view, right
+attitude, right speech, right action, right livelihood, right effort, right
+remembering, right unification of mind.
 
 When a noble disciple understands recognition this way, and so on through to
-the path of practice leading to its quenching, then they understand this
+how to quench it again, then they understand this
 penetrating spiritual life as the quenching of recognition.
 
-'Recognition should be understood, and so on through to the path of practice
-leading to the quenching of recognition.' That is what was said, and this is
-why it was said.
+'Recognition should be understood, and so on through to how to quench
+recognition again.' That is what was said, and this is why it was said.
 
 ### The Outflows
 
-'The outflows should be understood, and so on through to the path of practice
-leading to the quenching of the outflows.' That is what was said. Why was it
-said?
+'The outflows should be understood, and so on through to how to quench the
+outflows again.' That is what was said. Why was it said?
 
 There are these three outflows, bhikkhus: the outflow of sensuality, the
 outflow of becoming, and the outflow of ignorance.
@@ -229,22 +221,21 @@ is called the result of the outflows.
 And what is the quenching of the outflows?
 
 The quenching of ignorance, bhikkhus, is the quenching of the outflows. And
-this noble eightfold path is the path of practice leading to the quenching of
-the outflows: right view, right attitude, right speech, right action, right
-livelihood, right effort, right remembering, right unification of mind.
+this noble eightfold path is how to quench the outflows again: right view,
+right attitude, right speech, right action, right livelihood, right effort,
+right remembering, right unification of mind.
 
 When a noble disciple understands the outflows this way, and so on through to
-the path of practice leading to their quenching, then they understand this
+how to quench them again, then they understand this
 penetrating spiritual life as the quenching of the outflows.
 
-'The outflows should be understood, and so on through to the path of practice
-leading to the quenching of the outflows.' That is what was said, and this is
-why it was said.
+'The outflows should be understood, and so on through to how to quench the
+outflows again.' That is what was said, and this is why it was said.
 
 ### Action
 
-'Action should be understood, and so on through to the path of practice
-leading to the quenching of action.' That is what was said. Why was it said?
+'Action should be understood, and so on through to how to quench action again.'
+That is what was said. Why was it said?
 
 Intention, bhikkhus, is what I call action. A person intends, and then acts —
 by body, by speech, by mind.
@@ -268,26 +259,24 @@ being reborn, or on some later occasion. This is called the result of action.
 And what is the quenching of action?
 
 Bhikkhus, the quenching of contact is the quenching of action. And this noble
-eightfold path is the path of practice leading to the quenching of action:
+eightfold path is how to quench action again:
 right view, right attitude, right speech, right action, right livelihood, right
 effort, right remembering, right unification of mind.
 
-When a noble disciple understands action this way, and so on through to the
-path of practice leading to its quenching, then they understand this
-penetrating spiritual life as the quenching of action.
+When a noble disciple understands action this way, and so on through to how to
+quench it again, then they understand this penetrating spiritual life as the
+quenching of action.
 
-'Action should be understood, and so on through to the path of practice
-leading to the quenching of action.' That is what was said, and this is why it
-was said.
+'Action should be understood, and so on through to how to quench action again.'
+That is what was said, and this is why it was said.
 
 ### Dissatisfaction
 
 'Dissatisfaction should be understood; where dissatisfaction comes from should
 be understood; the differences among kinds of dissatisfaction should be
 understood; the result of dissatisfaction should be understood; the quenching
-of dissatisfaction should be understood; and the path of practice leading to
-the quenching of dissatisfaction should be understood.' That is what was said.
-Why was it said?
+of dissatisfaction should be understood; and how to quench dissatisfaction
+again should be understood.' That is what was said. Why was it said?
 
 Birth is dissatisfaction; ageing is dissatisfaction; illness is
 dissatisfaction; death is dissatisfaction; sorrow, lamentation, pain,
@@ -318,23 +307,22 @@ called the result of dissatisfaction.
 And what is the quenching of dissatisfaction?
 
 The quenching of ignorant wanting, bhikkhus, is the quenching of
-dissatisfaction. And this noble eightfold path is the path of practice leading
-to the quenching of dissatisfaction: right view, right attitude, right speech,
-right action, right livelihood, right effort, right remembering, right
-unification of mind.
+dissatisfaction. And this noble eightfold path is how to quench dissatisfaction
+again: right view, right attitude, right speech, right action, right
+livelihood, right effort, right remembering, right unification of mind.
 
 When a noble disciple understands dissatisfaction this way, understands where
 it comes from this way, understands the differences among its kinds this way,
 understands its result this way, understands its quenching this way, and
-understands the path of practice leading to its quenching this way, then they
+understands how to quench it again this way, then they
 understand this penetrating spiritual life as the quenching of dissatisfaction.
 
 'Dissatisfaction should be understood; where dissatisfaction comes from should
 be understood; the differences among kinds of dissatisfaction should be
 understood; the result of dissatisfaction should be understood; the quenching
-of dissatisfaction should be understood; and the path of practice leading to
-the quenching of dissatisfaction should be understood.' That is what was said,
-and this is why it was said.
+of dissatisfaction should be understood; and how to quench dissatisfaction
+again should be understood.' That is what was said, and this is why it was
+said.
 
 Bhikkhus, this is the penetrating exposition of the teaching."
 
