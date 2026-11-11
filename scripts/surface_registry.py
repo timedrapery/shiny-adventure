@@ -774,8 +774,8 @@ READER_METADATA: dict[str, ReaderMeta] = {
     "sn56_17": ReaderMeta(
         "Avijjā Sutta", 2, 2,
         "A bhikkhu asks what ignorance means. The answer is precise: not "
-        "understanding dissatisfaction, where it comes from, how it ends, "
-        "and the path that leads to its ending.",
+        "seeing dissatisfaction, where it comes from, how it ends, "
+        "and how to end it again.",
         reader_title="What Ignorance Means",
     ),
     "an3_136": ReaderMeta(

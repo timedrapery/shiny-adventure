@@ -81,12 +81,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="what ignorance means sn 56.17 avijjā sutta a bhikkhu asks what ignorance means. the answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="what ignorance means sn 56.17 avijjā sutta a bhikkhu asks what ignorance means. the answer is precise: not seeing dissatisfaction, where it comes from, how it ends, and how to end it again. four truths and path">
 <h2><a href="../suttas/sn56-17-avijja-sutta/">What Ignorance Means</a></h2>
 <p class="sutta-card__reference">SN 56.17 · <span lang="pi">Avijjā Sutta</span></p>
-<p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 106 words</p>
+<p class="sutta-card__meta">Introductory · Dialogue · Short · about 1 min · 98 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>A bhikkhu asks what ignorance means. The answer is precise: not understanding dissatisfaction, where it comes from, how it ends, and the path that leads to its ending.</p>
+<p>A bhikkhu asks what ignorance means. The answer is precise: not seeing dissatisfaction, where it comes from, how it ends, and how to end it again.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path|not-self" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="true whether or not a buddha appears an 3.136 uppāda sutta three short claims about everything that has been put together, and a frame that says they hold whether or not a buddha ever appears. four truths and path · not-self">
 <h2><a href="../suttas/an3-136-uppada-sutta/">True Whether or Not a Buddha Appears</a></h2>

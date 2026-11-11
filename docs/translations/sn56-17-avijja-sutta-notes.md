@@ -23,15 +23,23 @@ This document records the source and editorial decisions for
   asks for its practical meaning. The answer prevents `ignorance` from being
   heard as a general lack of facts: here it is specifically a failure to
   understand dissatisfaction and the other three truths.
-- **`aññāṇa` is expressed as `not understanding`.** The source repeats
-  the noun four times. A mechanical `non-knowledge regarding ...` would hide
-  the definition inside abstract English. One ordinary verb carries the same
-  four-part scope more clearly.
+- **`aññāṇa` is expressed as `not seeing`.** The source repeats the noun
+  four times. A mechanical `non-knowledge regarding ...` would hide the
+  definition inside abstract English. One ordinary verb carries the same
+  four-part scope more clearly, and `seeing` keeps avijjā an active failure to
+  see clearly rather than a lack of information (editorial ruling,
+  2026-11-10; previously `not understanding`).
 - **The four truth labels are rendered as a connected sentence.** `dukkha` is
   `dissatisfaction`; `dukkhasamudaya` becomes `where it comes from`;
   `dukkhanirodha` becomes `how it ends`; and
-  `dukkhanirodhagāminī paṭipadā` is `the path of practice that leads to its
-  ending`. These are contextual plain-English restatements of the repository's
+  `dukkhanirodhagāminī paṭipadā` is `how to end it again`. The practice is
+  something done again and again, joyfully and with ease; it is not a journey
+  to a distant place or a special attainment, and `again` keeps that audible
+  (editorial ruling, 2026-11-10). This is an interpretive rendering: the Pali
+  says `the practice leading to the ending of dissatisfaction`, and the fourth
+  noble truth keeps `the path of practice leading to the quenching of
+  dissatisfaction` where it is named as a truth (for example SN 56.11 and
+  MN 141). These are contextual plain-English restatements of the repository's
   governed `origin`, `quenching`, and `path of practice` language, not changes
   to those headword defaults.
 - **`avijjāgato` is `caught in ignorance`.** The literal image is someone who
