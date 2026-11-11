@@ -32,7 +32,11 @@ This document records the source and editorial decisions for
 - **The four truth labels are rendered as a connected sentence.** `dukkha` is
   `dissatisfaction`; `dukkhasamudaya` becomes `where it comes from`;
   `dukkhanirodha` becomes `when it ends` in the definition and `the end of
-  dissatisfaction` in the list of four (editorial ruling, 2026-11-10); and
+  dissatisfaction` in the list of four (editorial ruling, 2026-11-10).
+  `When it ends` points at the ending itself, the third truth as it is seen in
+  practice, and so keeps the definition tied to turning the four truths three
+  times: wisdom is defined as the four truths, and the plain, direct wording
+  keeps that in view where a longer formula would bury it; and
   `dukkhanirodhagāminī paṭipadā` is `how to end it again`. The practice is
   something done again and again, joyfully and with ease; it is not a journey
   to a distant place or a special attainment, and `again` keeps that audible
