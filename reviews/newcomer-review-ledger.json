@@ -270,8 +270,17 @@
         }
       },
       "human_read_aloud": {
-        "status": "pending",
-        "reviewers": []
+        "status": "complete",
+        "body_sha256": "be7796b474bcf43063c6a539ea646197db7a2b2f95006b9ad0eb9922c86b7227",
+        "reviewers": [
+          {
+            "label": "A1",
+            "reviewed_on": "2026-11-11",
+            "read_complete": true,
+            "observations": [],
+            "note": "Full text read aloud; nothing caught in delivery."
+          }
+        ]
       },
       "newcomer_reviews": []
     },
