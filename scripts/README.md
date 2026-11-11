@@ -113,6 +113,8 @@ generating script first.
 - `python scripts/plain_english_audit.py`
   Reports plain-English readability signals in canonical translation surfaces, with guidance per signal. Generated reader copies are not double-counted. Advisory by default; use `--strict` to gate and `--path` to scope to one file. Lexicon-aware, so governed renderings are not flagged.
   Add `--spoken` for the spoken register profile: dialogue contraction rate, vocative position, sentences over forty-five words, and repeated units ranked by how much weight they carry within and across surfaces. That section is distributional rather than per-line, and `--strict` never gates on it.
+- `python scripts/support_text_audit.py`
+  Reports sentences in reader introductions, "Before you read" guides, and glossary definitions that break `docs/support-text-standard.md`: over 20 words for a question or reading cue, over 25 for description, likely passive voice, and long paragraphs. Quoted text does not count toward length. Advisory by default; `--strict` gates and `--path` scopes to one file.
 - `python scripts/voice_consistency_audit.py`
   Reports mixed note templates, fragmentary example-note phrasing, and other voice-pattern drift in the live repo surface.
 - `python scripts/dependent_arising_cluster_report.py --write-docs`

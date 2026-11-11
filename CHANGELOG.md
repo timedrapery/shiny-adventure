@@ -8,6 +8,13 @@ The format is based on Keep a Changelog, and this project follows Semantic Versi
 
 ### Added
 
+- `docs/support-text-standard.md`: rules for reader introductions, "Before
+  you read" guides, and glossary definitions, drawn from the principles of
+  ASD-STE100 Simplified Technical English (short sentences, one idea per
+  sentence, active voice, one meaning per word), with the house terms treated
+  as technical names. The translations are out of scope.
+- `scripts/support_text_audit.py` reports sentences that break it. It runs in
+  `run_checks.py` as an advisory check.
 - Recorded a complete read-aloud review of AN 8.6 (2026-11-10, nothing
   caught in delivery), bound to its published body. Read-aloud reviews of the
   First 12 now stand at 3 of 12.
