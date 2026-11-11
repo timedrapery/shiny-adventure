@@ -72,7 +72,7 @@ ends, or how to end it again.
 This is what ignorance means. This is when someone can be said to be caught in
 it.
 
-So apply yourself to understanding:
+So apply yourself to seeing:
 
 - 'This is dissatisfaction.'
 - 'This is where dissatisfaction comes from.'
@@ -100,7 +100,7 @@ The seventh discourse is finished.
 
 - **Pali text:** Saṃyuttanikāya, Mahāvaggapāḷi, in the [Chaṭṭha Saṅgāyana Tipiṭaka, Vipassana Research Institute](https://tipitaka.org/romn/)
 - **Translation notes:** [Editorial decisions and source audit](https://github.com/timedrapery/shiny-adventure/blob/main/docs/translations/sn56-17-avijja-sutta-notes.md)
-- **Text last revised:** 2026-11-11 · body version `6577d9fa`
+- **Text last revised:** 2026-11-11 · body version `05dc96e1`
 - [Report a problem with this page](https://github.com/timedrapery/shiny-adventure/issues/new?title=Reader%20correction%3A%20SN%2056.17) · [License and reuse](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE)
 
 </details>

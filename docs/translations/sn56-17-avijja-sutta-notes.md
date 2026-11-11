@@ -54,7 +54,8 @@ This document records the source and editorial decisions for
   contemptuous English label.
 - **`yogo karaṇīyo` is translated as a complete idiom.** Here `yoga` does
   not name the bondage image governed in the yoke family. The phrase prescribes
-  application: `apply yourself to understanding`. The `yoga` record now states
+  application: `apply yourself to seeing`, matching `not seeing` in the
+  definition (editorial ruling, 2026-11-11). The `yoga` record now states
   this context explicitly so future translations do not import `yoke` into an
   effort instruction.
 

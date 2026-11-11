@@ -26,7 +26,7 @@ ends, or how to end it again.
 This is what ignorance means. This is when someone can be said to be caught in
 it.
 
-So apply yourself to understanding:
+So apply yourself to seeing:
 
 - 'This is dissatisfaction.'
 - 'This is where dissatisfaction comes from.'
