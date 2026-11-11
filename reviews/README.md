@@ -9,7 +9,7 @@ This workboard turns the
 handoff-ready queue. The JSON ledger remains authoritative; this page is the
 human-readable operating view.
 
-Current state: **0 of 60 newcomer sessions recorded** and **11 of 12 read-aloud
+Current state: **0 of 60 newcomer sessions recorded** and **12 of 12 read-aloud
 reviews complete**. Source-fidelity review is signed off and bound to the
 published body for two of the twelve cohort texts (SN 36.6 and SN 22.59). The
 other ten gates are open again: most were edited on the same day they were
@@ -55,7 +55,8 @@ needs one reviewer and a voice, and all three pilot texts together are about
 twenty minutes of reading. Generate a kit with
 `python scripts/read_aloud_kit.py --surface sn36_6` and follow
 [Read-aloud review](../docs/newcomer-review-protocol.md#read-aloud-review).
-Of the three gates this is the one that can move today.
+All twelve read-aloud reviews are now complete. If a text's wording changes,
+its read-aloud gate reopens and needs a fresh full read.
 Evaluate this pilot before recruiting for the remaining nine texts; all three
 pilot texts already carry the reader feedback controls on the public site.
 
@@ -67,7 +68,7 @@ pilot texts already carry the reader feedback controls on the public site.
 | SN 56.17 | [What Ignorance Means](https://timedrapery.github.io/shiny-adventure/suttas/sn56-17-avijja-sutta/) | complete | 0/5 | 0/4 |
 | AN 8.6 | [When Life Goes Up and Down](https://timedrapery.github.io/shiny-adventure/suttas/an8-6-dutiyalokadhamma-sutta/) | complete | 0/5 | 0/4 |
 | AN 11.12 | [Six Things to Remember Anywhere](https://timedrapery.github.io/shiny-adventure/suttas/an11-12-dutiyamahanama-sutta/) | complete | 0/5 | 0/4 |
-| MN 63 | [The Man Struck by a Poisoned Arrow](https://timedrapery.github.io/shiny-adventure/suttas/mn63-culamalukya-sutta/) | pending | 0/5 | 0/4 |
+| MN 63 | [The Man Struck by a Poisoned Arrow](https://timedrapery.github.io/shiny-adventure/suttas/mn63-culamalukya-sutta/) | complete | 0/5 | 0/4 |
 | SN 56.11 | [The First Teaching](https://timedrapery.github.io/shiny-adventure/suttas/sn56-11-dhammacakkappavattana-sutta/) | complete | 0/5 | 0/4 |
 | SN 22.59 | [What Is Fit to Call Self?](https://timedrapery.github.io/shiny-adventure/suttas/sn22-59-anattalakkhana-sutta/) | complete | 0/5 | 0/4 |
 | MN 19 | [Two Kinds of Thinking](https://timedrapery.github.io/shiny-adventure/suttas/mn19-dvedhavitakka-sutta/) | complete | 0/5 | 0/4 |
