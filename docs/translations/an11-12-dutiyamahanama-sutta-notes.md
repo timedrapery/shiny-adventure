@@ -94,11 +94,12 @@ source's abbreviation.
   `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; the full repository suite passed on
   2026-08-25.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-11-10); see `reviews/newcomer-review-ledger.json`.
 - Read-aloud finding, 2026-11-10: sentence 16, "ununified people do not",
   was hard to say aloud. It now reads "people who are not unified do not",
-  matching the plain negative of the next line. The revised text needs a
-  fresh full read-aloud before this gate is complete.
+  matching the plain negative of the next line. The revised text was then
+  read aloud in full and nothing caught.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
