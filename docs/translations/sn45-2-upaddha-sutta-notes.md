@@ -48,12 +48,12 @@ This document records the source and editorial decisions for
   `reviews/newcomer-review-ledger.json`.
 - Automated governance review: complete; the full repository suite passed on
   2026-08-24.
-- Human read-aloud usability review: pending.
+- Human read-aloud usability review: complete for the published body
+  (2026-11-10); see `reviews/newcomer-review-ledger.json`.
 - Read-aloud finding, 2026-11-10: sentence 2, "staying among the Sakyans,
   near a Sakyan town called Nagaraka", repeated itself aloud. It now reads
   "near their town of Nagaraka", and MN 10 and MN 121 were changed the same
-  way. The revised text needs a fresh full read-aloud before this gate is
-  complete.
+  way. The revised text was then read aloud in full and nothing caught.
 - Newcomer comprehension review: pending.
 
 This surface remains provisional until the human reviews are recorded.
