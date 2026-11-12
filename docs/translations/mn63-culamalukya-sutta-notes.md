@@ -97,8 +97,8 @@ source-audit calls, and edition notes that govern it.
   Note for the roadmap: the source text of MN 63 lists ten propositions (two
   each on the eternity and finitude of the world, two on the identity of soul
   and body, and four on the Tathāgata's status after death), not fourteen.
-  [next-suttas-roadmap.md](../next-suttas-roadmap.md) has already been
-  corrected to say "ten"; [next-sutta-translation-roadmap.md](../next-sutta-translation-roadmap.md)
+  [the roadmap history](../archive/translation-roadmap-history.md) has already been
+  corrected to say "ten"; [translation-roadmap.md](../translation-roadmap.md)
   never contained the erroneous count.
 - Resolved: `jīva` (soul) and `sarīra` (body, in the specific sense of the
   physical frame paired with `jīva` in this question) now have cross-linked

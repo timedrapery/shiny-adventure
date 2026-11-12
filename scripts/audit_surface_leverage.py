@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Rank untranslated suttas by how much governed vocabulary they would anchor.
 
-This is the audit method described in docs/next-suttas-roadmap.md, made
+This is the audit method described in docs/translation-roadmap.md, made
 reproducible. It exists because the ranking has now been wrong twice in the
 same way, and each correction was recomputed by hand.
 

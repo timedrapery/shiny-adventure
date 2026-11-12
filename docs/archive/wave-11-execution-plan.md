@@ -238,7 +238,7 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+Read this plan, the short [active roadmap](../translation-roadmap.md),
 and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: Dhp 21–32, Ud 8.3, SN 22.22, SN 22.26, and MN 122 are all
 published, and the verse precondition is settled in the Dhp 21–32 notes. The

@@ -124,7 +124,7 @@ python scripts/repo_health.py
 ```
 
 Read this plan, the short
-[active roadmap](../next-sutta-translation-roadmap.md), and the
+[active roadmap](../translation-roadmap.md), and the
 [translation workflow](../translation-workflow-plan.md). Choose the first
 unfinished queue item, create a `codex/` or contributor branch, and keep the
 entire translation packet together. Before stopping, record completed work,

@@ -32,10 +32,9 @@ CURRENT_CORPUS_COUNT_TEMPLATES = {
         "{count} registered translation surfaces",
     ),
     "CHANGELOG.md": ("Reworked all {count} reader pages",),
-    "docs/next-sutta-translation-roadmap.md": (
-        "Completed Surfaces ({count} total)",
+    "docs/translation-roadmap.md": (
+        "Done so far ({count} texts)",
     ),
-    "docs/next-suttas-roadmap.md": ("it now has {count}",),
     "docs/translation-workflow-plan.md": (
         "{count} governed translation surfaces",
         "All {count} surfaces report",
