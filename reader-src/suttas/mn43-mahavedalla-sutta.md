@@ -557,13 +557,13 @@ had said.
 <dt><dfn>born of seclusion</dfn></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>delusion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>dhamma</dfn></dt>
-<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>doubt</dfn></dt>
@@ -573,27 +573,27 @@ had said.
 <dt><dfn>emptiness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;suññatā&quot;. In MN 122 it is a way of dwelling, entered by not attending to any signs.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice, especially confidence, energy, remembering, unification of mind, and discernment. You can train them and bring them into balance.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dd>This project&#x27;s rendering of &quot;muditā&quot;, often translated &quot;sympathetic joy&quot;. It means being truly glad at someone else&#x27;s good fortune. You cultivate it as a practice; you do not assume it comes naturally.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>kindness towards others</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;karuṇā&quot; (often translated &quot;compassion&quot;) -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.</dd>
+<dd>This project&#x27;s rendering of &quot;karuṇā&quot;, often translated &quot;compassion&quot;. It is an active wish for others to be free of suffering. You cultivate it on purpose, not only when the feeling comes by itself.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mental theme</dfn></dt>
@@ -611,17 +611,17 @@ had said.
 <dt><dfn>release through discernment</dfn></dt>
 <dd>Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>restlessness and worry</dfn></dt>
-<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
+<dd>When agitation and nagging worry or regret pull you off track. One of the five hindrances.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual desire</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dd>When wanting something pleasant pulls you off track. One of the five hindrances.</dd>
 <dt><dfn>sloth and torpor</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
+<dd>When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.</dd>
 <dt><dfn>sphere of boundless knowing</dfn></dt>
 <dd>A deep meditative state in which awareness rests on knowing itself without limit.</dd>
 <dt><dfn>sphere of boundless space</dfn></dt>
@@ -629,13 +629,13 @@ had said.
 <dt><dfn>sphere of nothingness</dfn></dt>
 <dd>A deep meditative state in which awareness rests on there being nothing at all to take up.</dd>
 <dt><dfn>thinking mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
+<dd>This project&#x27;s rendering of &quot;mano&quot;: the part of mind that thinks and registers ideas. These texts count it as a sixth sense, alongside the eye, ear, nose, tongue, and body.</dd>
 <dt><dfn>unification of mind</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -665,25 +665,25 @@ had said.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
-*[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[cessation]: The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as "quenching". Both render the same Pali word, "nirodha", in different sentences.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
-*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
+*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[emptiness]: This project's rendering of "suññatā". In MN 122 it is a way of dwelling, entered by not attending to any signs.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[faculties]: The capacities used in practice, especially confidence, energy, remembering, unification of mind, and discernment. You can train them and bring them into balance.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
-*[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[gladness]: This project's rendering of "muditā", often translated "sympathetic joy". It means being truly glad at someone else's good fortune. You cultivate it as a practice; you do not assume it comes naturally.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
-*[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
+*[kindness towards others]: This project's rendering of "karuṇā", often translated "compassion". It is an active wish for others to be free of suffering. You cultivate it on purpose, not only when the feeling comes by itself.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
@@ -692,16 +692,16 @@ had said.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[release of mind]: Release described from the mind or heart side of experience, often paired with release through discernment.
 *[release through discernment]: Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
-*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
+*[restlessness and worry]: When agitation and nagging worry or regret pull you off track. One of the five hindrances.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
-*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
-*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
+*[sensual desire]: When wanting something pleasant pulls you off track. One of the five hindrances.
+*[sloth and torpor]: When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.
 *[sphere of boundless knowing]: A deep meditative state in which awareness rests on knowing itself without limit.
 *[sphere of boundless space]: A deep meditative state in which awareness rests on space without limit.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
-*[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
+*[thinking mind]: This project's rendering of "mano": the part of mind that thinks and registers ideas. These texts count it as a sixth sense, alongside the eye, ear, nose, tongue, and body.
 *[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

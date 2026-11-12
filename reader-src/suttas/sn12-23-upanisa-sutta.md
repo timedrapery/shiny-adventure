@@ -246,7 +246,7 @@ The third discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>disenchantment</dfn></dt>
@@ -256,25 +256,25 @@ The third discourse is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
 <dd>Knowing something and seeing it for yourself. Kept as two words because these texts treat them as two related things rather than one.</dd>
 <dt><dfn>name-and-form</dfn></dt>
-<dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
+<dd>The mental and physical sides of experience taken together: roughly, whatever you can name plus whatever has shape. One link in the dependent-arising sequence.</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>put together</dfn></dt>
 <dd>In &quot;all that has been put together&quot;, this project&#x27;s rendering of &quot;saṅkhārā&quot; on its result side: anything assembled from conditions, as opposed to the activity of assembling.</dd>
 <dt><dfn>putting things together</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
+<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot;: the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say &quot;formations&quot; or &quot;fabrications&quot;, which this project avoids as needlessly opaque.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>rejoicing</dfn></dt>
@@ -309,19 +309,19 @@ The third discourse is finished.
 
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
-*[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
+*[name-and-form]: The mental and physical sides of experience taken together: roughly, whatever you can name plus whatever has shape. One link in the dependent-arising sequence.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
-*[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
+*[putting things together]: This project's rendering of "saṅkhāra": the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say "formations" or "fabrications", which this project avoids as needlessly opaque.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.

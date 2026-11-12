@@ -48,7 +48,7 @@ The text does not promise a life without loss, blame, or pain, and it does not r
 <p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -212,11 +212,11 @@ The sixth discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>noble disciple</dfn></dt>
@@ -224,11 +224,11 @@ The sixth discourse is finished.
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>refuge</dfn></dt>
-<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
+<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.</dd>
 <dt><dfn>resistance</dfn></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -256,11 +256,11 @@ The sixth discourse is finished.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
-*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
+*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

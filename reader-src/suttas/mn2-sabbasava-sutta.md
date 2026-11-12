@@ -402,7 +402,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>contact</dfn></dt>
@@ -418,17 +418,17 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>not-self</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dd>This project&#x27;s rendering of &quot;anattā&quot;. It does not claim that you don&#x27;t exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>outflow</dfn></dt>
@@ -444,7 +444,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dt><dfn>relinquishment</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;vossagga&quot; -- letting go, in the sense of releasing a hold rather than pushing something away.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>spiritual life</dfn></dt>
@@ -452,9 +452,9 @@ The Sabbāsava Sutta, the second discourse, is finished.
 <dt><dfn>unification</dfn></dt>
 <dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 </dl>
 </details>
 
@@ -485,7 +485,7 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
@@ -493,12 +493,12 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
+*[not-self]: This project's rendering of "anattā". It does not claim that you don't exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
@@ -506,9 +506,9 @@ The Sabbāsava Sutta, the second discourse, is finished.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.

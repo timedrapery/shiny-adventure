@@ -146,29 +146,29 @@ The twentieth chapter, on the path, is finished.
 <summary>Words used in this translation (12)</summary>
 <dl>
 <dt><dfn>arrow</dfn></dt>
-<dd>A recurring image across these texts with more than one meaning. In MN 63 it&#x27;s a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it&#x27;s a different image entirely: an ordinary person&#x27;s pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.</dd>
+<dd>A recurring image with more than one meaning. In MN 63 it is a poisoned arrow: refusing treatment until you know every background fact about the wound. It warns against blocking practice with questions no one can answer. In SN 36.6 the image is different. An ordinary person&#x27;s pain is one arrow, and the extra suffering they add on top is a second arrow they could avoid.</dd>
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>flood</dfn></dt>
-<dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
+<dd>A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>not-self</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dd>This project&#x27;s rendering of &quot;anattā&quot;. It does not claim that you don&#x27;t exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.</dd>
 <dt><dfn>put together</dfn></dt>
 <dd>In &quot;all that has been put together&quot;, this project&#x27;s rendering of &quot;saṅkhārā&quot; on its result side: anything assembled from conditions, as opposed to the activity of assembling.</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 </dl>
 </details>
 
@@ -193,15 +193,15 @@ The twentieth chapter, on the path, is finished.
 </nav>
 
 
-*[arrow]: A recurring image across these texts with more than one meaning. In MN 63 it's a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it's a different image entirely: an ordinary person's pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.
+*[arrow]: A recurring image with more than one meaning. In MN 63 it is a poisoned arrow: refusing treatment until you know every background fact about the wound. It warns against blocking practice with questions no one can answer. In SN 36.6 the image is different. An ordinary person's pain is one arrow, and the extra suffering they add on top is a second arrow they could avoid.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+*[flood]: A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
-*[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
+*[not-self]: This project's rendering of "anattā". It does not claim that you don't exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.

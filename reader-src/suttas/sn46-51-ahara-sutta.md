@@ -250,7 +250,7 @@ The first discourse is finished.
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>rejoicing</dfn></dt>
@@ -258,15 +258,15 @@ The first discourse is finished.
 <dt><dfn>relaxation</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;passaddhi&quot; -- the settling of body and mind that follows gladness and leads into unification of mind.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>resistance</dfn></dt>
 <dd>A reflexive pushing-away from what&#x27;s unwanted, arising automatically in response to unpleasant feeling.</dd>
 <dt><dfn>restlessness and worry</dfn></dt>
-<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
+<dd>When agitation and nagging worry or regret pull you off track. One of the five hindrances.</dd>
 <dt><dfn>sensual desire</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dd>When wanting something pleasant pulls you off track. One of the five hindrances.</dd>
 <dt><dfn>sloth and torpor</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
+<dd>When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.</dd>
 <dt><dfn>unification</dfn></dt>
 <dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 </dl>
@@ -301,13 +301,13 @@ The first discourse is finished.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
 *[relaxation]: This project's rendering of "passaddhi" -- the settling of body and mind that follows gladness and leads into unification of mind.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
-*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
-*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
-*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
+*[restlessness and worry]: When agitation and nagging worry or regret pull you off track. One of the five hindrances.
+*[sensual desire]: When wanting something pleasant pulls you off track. One of the five hindrances.
+*[sloth and torpor]: When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."

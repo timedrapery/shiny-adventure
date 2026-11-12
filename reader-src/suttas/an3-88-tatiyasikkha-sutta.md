@@ -99,7 +99,7 @@ The eighth discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>final nibbāna</dfn></dt>
@@ -117,9 +117,9 @@ The eighth discourse is finished.
 <dt><dfn>unification of mind</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -146,7 +146,7 @@ The eighth discourse is finished.
 
 *[aversion]: One of the three "roots" behind unwholesome action, alongside greed and delusion -- the pushback against what's unwanted or unpleasant.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
@@ -155,5 +155,5 @@ The eighth discourse is finished.
 *[release through discernment]: Release described from the clear-understanding side, paired with release of mind rather than reduced to intellectual knowledge.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

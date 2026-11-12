@@ -420,9 +420,9 @@ Buddha had said.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>brahmin</dfn></dt>
-<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.</dd>
 <dt><dfn>dhamma</dfn></dt>
-<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.</dd>
 <dt><dfn>discernment of qualities</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;dhammavicaya&quot; -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.</dd>
 <dt><dfn>ill will</dfn></dt>
@@ -432,7 +432,7 @@ Buddha had said.
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>right action</dfn></dt>
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
@@ -446,7 +446,7 @@ Buddha had said.
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
 <dt><dfn>right unification of mind</dfn></dt>
-<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
+<dd>The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>trainee</dfn></dt>
@@ -454,11 +454,11 @@ Buddha had said.
 <dt><dfn>unification of mind</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;samādhi&quot; -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated &quot;concentration,&quot; which this project avoids because it suggests forcing and strain.</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>wholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;kusala&quot;. Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 <dt><dfn>wrong view</dfn></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>
@@ -490,24 +490,24 @@ Buddha had said.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
-*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.
+*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.
 *[discernment of qualities]: This project's rendering of "dhammavicaya" -- sorting out what is actually going on in experience, and which qualities help and which do not. One of the seven awakening factors.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
-*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
+*[right unification of mind]: The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
 *[unification of mind]: This project's rendering of "samādhi" -- the thinking mind and heart gathered together into one organized, workable whole instead of pulling against each other. It does not mean narrowing attention onto one point. Usually translated "concentration," which this project avoids because it suggests forcing and strain.
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[wholesome]: This project's rendering of "kusala". Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.
 *[wrong view]: Seeing things in a way that misses how they actually work; the opposite of right view.

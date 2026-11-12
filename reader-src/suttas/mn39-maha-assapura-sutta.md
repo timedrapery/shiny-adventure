@@ -480,21 +480,21 @@ The Greater Discourse at Assapura is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>born of seclusion</dfn></dt>
 <dd>Coming from having stepped away from busyness and distraction, rather than from anything acquired.</dd>
 <dt><dfn>brahmin</dfn></dt>
-<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 <dt><dfn>clarity</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;amoha,&quot; literally &quot;non-delusion&quot; -- seeing without the confusion and distortion that drive harmful action.</dd>
 <dt><dfn>clear knowing</dfn></dt>
 <dd>Knowing plainly what you are doing while you are doing it.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>conscience</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;hiri&quot; -- the inward ethical sense that recoils from an action because it would violate one&#x27;s integrity. It does not mean guilt or toxic shame.</dd>
 <dt><dfn>contact</dfn></dt>
@@ -510,15 +510,15 @@ The Greater Discourse at Assapura is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>five hindrances</dfn></dt>
 <dd>The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.</dd>
 <dt><dfn>gladness</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dd>This project&#x27;s rendering of &quot;muditā&quot;, often translated &quot;sympathetic joy&quot;. It means being truly glad at someone else&#x27;s good fortune. You cultivate it as a practice; you do not assume it comes naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ill will</dfn></dt>
@@ -534,29 +534,29 @@ The Greater Discourse at Assapura is finished.
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>recluses</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
+<dd>This project&#x27;s rendering of &quot;samaṇa&quot;: people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>restlessness and worry</dfn></dt>
-<dd>Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.</dd>
+<dd>When agitation and nagging worry or regret pull you off track. One of the five hindrances.</dd>
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual desire</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dd>When wanting something pleasant pulls you off track. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
-<dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
+<dd>Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.</dd>
 <dt><dfn>sloth and torpor</dfn></dt>
-<dd>Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.</dd>
+<dd>When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>unification</dfn></dt>
 <dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -585,14 +585,14 @@ The Greater Discourse at Assapura is finished.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[born of seclusion]: Coming from having stepped away from busyness and distraction, rather than from anything acquired.
-*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
-*[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.
+*[cessation]: The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as "quenching". Both render the same Pali word, "nirodha", in different sentences.
 *[clarity]: This project's rendering of "amoha," literally "non-delusion" -- seeing without the confusion and distortion that drive harmful action.
 *[clear knowing]: Knowing plainly what you are doing while you are doing it.
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[conscience]: This project's rendering of "hiri" -- the inward ethical sense that recoils from an action because it would violate one's integrity. It does not mean guilt or toxic shame.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
@@ -600,25 +600,25 @@ The Greater Discourse at Assapura is finished.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[five hindrances]: The five things that reliably hinder the mind and pull it off task: sensual desire, ill will, sloth and torpor, restlessness and worry, and doubt.
-*[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[gladness]: This project's rendering of "muditā", often translated "sympathetic joy". It means being truly glad at someone else's good fortune. You cultivate it as a practice; you do not assume it comes naturally.
 *[going forth]: Leaving household life to live as a monastic.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
+*[recluses]: This project's rendering of "samaṇa": people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
-*[restlessness and worry]: Being pulled off track by agitation and nagging worry or regret. One of the five hindrances.
-*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
-*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
-*[sloth and torpor]: Being pulled off track by sluggishness, heaviness, and sinking energy. One of the five hindrances.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
+*[restlessness and worry]: When agitation and nagging worry or regret pull you off track. One of the five hindrances.
+*[sensual desire]: When wanting something pleasant pulls you off track. One of the five hindrances.
+*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.
+*[sloth and torpor]: When sluggishness, heaviness, and sinking energy pull you off track. One of the five hindrances.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

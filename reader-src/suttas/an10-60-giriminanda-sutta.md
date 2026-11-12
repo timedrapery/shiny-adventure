@@ -278,19 +278,19 @@ The tenth discourse is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>not-self</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dd>This project&#x27;s rendering of &quot;anattā&quot;. It does not claim that you don&#x27;t exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.</dd>
 <dt><dfn>put together</dfn></dt>
 <dd>In &quot;all that has been put together&quot;, this project&#x27;s rendering of &quot;saṅkhārā&quot; on its result side: anything assembled from conditions, as opposed to the activity of assembling.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -300,11 +300,11 @@ The tenth discourse is finished.
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>thinking mind</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;mano&quot; -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.</dd>
+<dd>This project&#x27;s rendering of &quot;mano&quot;: the part of mind that thinks and registers ideas. These texts count it as a sixth sense, alongside the eye, ear, nose, tongue, and body.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -334,16 +334,16 @@ The tenth discourse is finished.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
-*[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
+*[not-self]: This project's rendering of "anattā". It does not claim that you don't exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
-*[thinking mind]: This project's rendering of "mano" -- the mind as the part that thinks and registers ideas, counted alongside the eye, ear, nose, tongue, and body as a sixth sense.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
+*[thinking mind]: This project's rendering of "mano": the part of mind that thinks and registers ideas. These texts count it as a sixth sense, alongside the eye, ear, nose, tongue, and body.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

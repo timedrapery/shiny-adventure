@@ -170,21 +170,21 @@ The eighth discourse is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>mental theme</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;jhāna&quot; -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.</dd>
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
+<dd>The eight-part practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>remembering</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sati&quot; -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.</dd>
+<dd>This project&#x27;s rendering of &quot;sati&quot;. It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.</dd>
 <dt><dfn>right action</dfn></dt>
 <dd>Acting without harming -- a factor of the eightfold path.</dd>
 <dt><dfn>right attitude</dfn></dt>
@@ -198,17 +198,17 @@ The eighth discourse is finished.
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
 <dt><dfn>right unification of mind</dfn></dt>
-<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
+<dd>The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>unification</dfn></dt>
 <dd>Short for unification of mind (samādhi) inside a longer phrase, such as &quot;born of unification&quot; or &quot;the faculty of unification.&quot;</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>wholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;kusala&quot;. Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -242,23 +242,23 @@ The eighth discourse is finished.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
+*[noble eightfold path]: The eight-part practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[remembering]: This project's rendering of "sati" -- actively keeping what matters in mind and returning to it when it is lost, not bare attention to whatever happens to be present.
+*[remembering]: This project's rendering of "sati". It means actively keeping what matters in mind and coming back to it when you lose it. It is not bare attention to whatever happens to be present.
 *[right action]: Acting without harming -- a factor of the eightfold path.
 *[right attitude]: This project's rendering of the path factor usually translated "right intention" -- the underlying motivation a person brings to their actions.
 *[right effort]: Effort that is well aimed: heading off what is unhelpful and building up what helps -- a factor of the eightfold path.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
-*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
+*[right unification of mind]: The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[unification]: Short for unification of mind (samādhi) inside a longer phrase, such as "born of unification" or "the faculty of unification."
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[wholesome]: This project's rendering of "kusala". Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

@@ -56,7 +56,7 @@ The text is not rejecting every kind of question. It separates questions that do
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 </dl>
 
 </div>
@@ -250,19 +250,19 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 <summary>Words used in this translation (19)</summary>
 <dl>
 <dt><dfn>arrow</dfn></dt>
-<dd>A recurring image across these texts with more than one meaning. In MN 63 it&#x27;s a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it&#x27;s a different image entirely: an ordinary person&#x27;s pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.</dd>
+<dd>A recurring image with more than one meaning. In MN 63 it is a poisoned arrow: refusing treatment until you know every background fact about the wound. It warns against blocking practice with questions no one can answer. In SN 36.6 the image is different. An ordinary person&#x27;s pain is one arrow, and the extra suffering they add on top is a second arrow they could avoid.</dd>
 <dt><dfn>awakening</dfn></dt>
 <dd>Coming fully awake to how things are. Sometimes translated &quot;enlightenment,&quot; a word this project avoids as needlessly mystical.</dd>
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>calming</dfn></dt>
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 <dt><dfn>disenchantment</dfn></dt>
 <dd>A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
@@ -286,7 +286,7 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 <dt><dfn>undeclared</dfn></dt>
 <dd>A question the Buddha deliberately left unanswered -- not because he didn&#x27;t know, but because answering it wouldn&#x27;t help anyone actually practice.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -311,13 +311,13 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 </nav>
 
 
-*[arrow]: A recurring image across these texts with more than one meaning. In MN 63 it's a poisoned arrow -- refusing treatment until every background fact about the wound is known first, a warning against blocking practice with unanswerable questions. In SN 36.6 it's a different image entirely: an ordinary person's pain is one arrow, and the extra suffering added on top of it is a second, avoidable arrow.
+*[arrow]: A recurring image with more than one meaning. In MN 63 it is a poisoned arrow: refusing treatment until you know every background fact about the wound. It warns against blocking practice with questions no one can answer. In SN 36.6 the image is different. An ordinary person's pain is one arrow, and the extra suffering they add on top is a second arrow they could avoid.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[calming]: A settling and quieting of the mind on the way toward full release.
-*[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
+*[cessation]: The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as "quenching". Both render the same Pali word, "nirodha", in different sentences.
 *[disenchantment]: A cooling of fascination with ordinary experience -- not depression, but the natural next step once you see clearly how things actually work.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
@@ -329,4 +329,4 @@ The Cūḷamālukya Sutta, the third discourse, is finished.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[undeclared]: A question the Buddha deliberately left unanswered -- not because he didn't know, but because answering it wouldn't help anyone actually practice.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

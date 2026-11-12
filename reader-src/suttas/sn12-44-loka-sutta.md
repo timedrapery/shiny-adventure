@@ -48,13 +48,13 @@ The text is not describing the physical creation or destruction of a planet. Her
 <p class="reader-guide__terms-intro">These definitions are here so you do not need to know Pali or Buddhist vocabulary before reading.</p>
 <dl class="reader-guide__terms">
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 <dt><dfn>contact</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;phassa&quot; -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>taking personally</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upādāna&quot; -- treating some piece of experience as &quot;me&quot; or &quot;mine&quot; and holding on to it. Usually translated &quot;clinging&quot; or &quot;attachment.&quot;</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -146,7 +146,7 @@ The fourth discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>contact</dfn></dt>
@@ -156,9 +156,9 @@ The fourth discourse is finished.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -166,7 +166,7 @@ The fourth discourse is finished.
 <dt><dfn>taking personally</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upādāna&quot; -- treating some piece of experience as &quot;me&quot; or &quot;mine&quot; and holding on to it. Usually translated &quot;clinging&quot; or &quot;attachment.&quot;</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -195,14 +195,14 @@ The fourth discourse is finished.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

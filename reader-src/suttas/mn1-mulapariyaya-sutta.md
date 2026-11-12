@@ -433,7 +433,7 @@ had said.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>burden</dfn></dt>
 <dd>The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.</dd>
 <dt><dfn>delusion</dfn></dt>
@@ -445,11 +445,11 @@ had said.
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>oneness</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;ekatta&quot; in MN 121 -- the single recognition the mind rests on at each step, once the coarser ones have been set aside.</dd>
+<dd>This project&#x27;s rendering of &quot;ekatta&quot; in MN 121: the single recognition the mind rests on at each step, once it has set the coarser ones aside.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -475,7 +475,7 @@ had said.
 <dt><dfn>trainee</dfn></dt>
 <dd>Someone who has entered the noble path and is still completing the training; not a beginner.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 </dl>
 </details>
 
@@ -508,15 +508,15 @@ had said.
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[burden]: The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
-*[oneness]: This project's rendering of "ekatta" in MN 121 -- the single recognition the mind rests on at each step, once the coarser ones have been set aside.
+*[oneness]: This project's rendering of "ekatta" in MN 121: the single recognition the mind rests on at each step, once it has set the coarser ones aside.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
@@ -529,4 +529,4 @@ had said.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
 *[trainee]: Someone who has entered the noble path and is still completing the training; not a beginner.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.

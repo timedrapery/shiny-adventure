@@ -109,7 +109,7 @@ The first discourse is finished.
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>complete quenching</dfn></dt>
-<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
+<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes something a person reaches while alive, not death.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>fading</dfn></dt>
@@ -119,7 +119,7 @@ The first discourse is finished.
 <dt><dfn>heaps</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;khandhā&quot; (usually translated &quot;aggregates&quot;) -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -127,7 +127,7 @@ The first discourse is finished.
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -156,13 +156,13 @@ The first discourse is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[burden]: The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
-*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.
+*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes something a person reaches while alive, not death.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[heaps]: This project's rendering of "khandhā" (usually translated "aggregates") -- the five piles experience gets sorted into: form, felt experience, recognition, putting-together activities, and knowing.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

@@ -826,11 +826,11 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dt><dfn>bhikkhu</dfn></dt>
 <dd>A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because &quot;monk&quot; carries centuries of unrelated European associations.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 <dt><dfn>conditionality</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;idappaccayatā&quot; -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.</dd>
 <dt><dfn>conditioned</dfn></dt>
@@ -846,27 +846,27 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot;. It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>final nibbāna</dfn></dt>
 <dd>The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>gratification</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;assāda&quot; -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing&#x27;s danger and the escape from it, so that all three are seen together.</dd>
+<dd>This project&#x27;s rendering of &quot;assāda&quot;: the real satisfaction something offers, which is why people hold on to it. The texts pair it with that thing&#x27;s danger and the escape from it, so you see all three together.</dd>
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>mixed feeling</dfn></dt>
 <dd>A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered &quot;mixed&quot; rather than &quot;neutral&quot; to keep it an active third register rather than a flat absence of feeling.</dd>
 <dt><dfn>name-and-form</dfn></dt>
-<dd>The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.</dd>
+<dd>The mental and physical sides of experience taken together: roughly, whatever you can name plus whatever has shape. One link in the dependent-arising sequence.</dd>
 <dt><dfn>outflow</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsava&quot; -- a deep-running habit that keeps seeping out and driving behaviour. Often translated &quot;taint&quot; or &quot;defilement.&quot;</dd>
 <dt><dfn>outflows</dfn></dt>
@@ -892,11 +892,11 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -925,9 +925,9 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
-*[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
+*[cessation]: The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as "quenching". Both render the same Pali word, "nirodha", in different sentences.
 *[conditionality]: This project's rendering of "idappaccayatā" -- the bare principle that when this is present, that follows. Dependent arising is this principle applied to how dissatisfaction comes about.
 *[conditioned]: This project's rendering of "saṅkhata" -- anything that came about because other things did, and that stops when they stop. Nearly everything is.
 *[contact]: This project's rendering of "phassa" -- the meeting of a sense, its object, and the knowing of it. A technical link in the dependent-arising sequence, not physical touch specifically.
@@ -935,17 +935,17 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[dependently arisen]: Having come about because something else was in place. Said of the individual items in the sequence, as distinct from the pattern they follow.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
+*[escape]: This project's rendering of "nissaraṇa". It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[final nibbāna]: The final-completion use of nibbāna language. It is not a synonym for death, annihilation, or heaven.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
+*[gratification]: This project's rendering of "assāda": the real satisfaction something offers, which is why people hold on to it. The texts pair it with that thing's danger and the escape from it, so you see all three together.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mixed feeling]: A felt experience that is neither clearly pleasant nor clearly unpleasant. Rendered "mixed" rather than "neutral" to keep it an active third register rather than a flat absence of feeling.
-*[name-and-form]: The mental and physical sides of experience taken together -- roughly, whatever can be named plus whatever has shape. One link in the dependent-arising sequence.
+*[name-and-form]: The mental and physical sides of experience taken together: roughly, whatever you can name plus whatever has shape. One link in the dependent-arising sequence.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
@@ -958,6 +958,6 @@ Venerable Ānanda was satisfied and welcomed what the Buddha had said.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[taking personally]: This project's rendering of "upādāna" -- treating some piece of experience as "me" or "mine" and holding on to it. Usually translated "clinging" or "attachment."
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

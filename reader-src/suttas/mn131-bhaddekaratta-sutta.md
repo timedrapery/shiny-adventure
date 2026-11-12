@@ -248,7 +248,7 @@ The first discourse is finished.
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -256,11 +256,11 @@ The first discourse is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>One Fine Night</dfn></dt>
-<dd>The title&#x27;s image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.</dd>
+<dd>The title&#x27;s image for a whole day and night lived well. You do not relish past or future versions of yourself, you do not turn present experience into a self, and you do the work now.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>putting things together</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
+<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot;: the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say &quot;formations&quot; or &quot;fabrications&quot;, which this project avoids as needlessly opaque.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 </dl>
@@ -290,12 +290,12 @@ The first discourse is finished.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[One Fine Night]: The title's image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.
-*[one fine night]: The title's image for a whole day and night lived well: not relishing past or future versions of yourself, not turning present experience into self, and doing the work now.
+*[One Fine Night]: The title's image for a whole day and night lived well. You do not relish past or future versions of yourself, you do not turn present experience into a self, and you do the work now.
+*[one fine night]: The title's image for a whole day and night lived well. You do not relish past or future versions of yourself, you do not turn present experience into a self, and you do the work now.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
-*[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
+*[putting things together]: This project's rendering of "saṅkhāra": the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say "formations" or "fabrications", which this project avoids as needlessly opaque.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.

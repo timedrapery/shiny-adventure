@@ -180,25 +180,25 @@ The fourth discourse is finished.
 <dt><dfn>Bhante</dfn></dt>
 <dd>A respectful way of addressing a senior monastic, roughly &quot;venerable sir.&quot; Left untranslated because English has no natural equivalent.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>heedful</dfn></dt>
 <dd>Living with heedfulness: awake to what you are doing and keeping up the effort.</dd>
 <dt><dfn>heedlessness</dfn></dt>
 <dd>The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
-<dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
+<dd>Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -226,13 +226,13 @@ The fourth discourse is finished.
 *[arahant]: Someone who has completed the path and has nothing further to do. Left untranslated; "saint" and "perfected one" both mislead.
 *[awakening]: Coming fully awake to how things are. Sometimes translated "enlightenment," a word this project avoids as needlessly mystical.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[heedful]: Living with heedfulness: awake to what you are doing and keeping up the effort.
 *[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
-*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
+*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

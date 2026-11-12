@@ -433,21 +433,21 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>doubt</dfn></dt>
 <dd>Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot;. It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.</dd>
 <dt><dfn>faculties</dfn></dt>
-<dd>The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.</dd>
+<dd>The capacities used in practice, especially confidence, energy, remembering, unification of mind, and discernment. You can train them and bring them into balance.</dd>
 <dt><dfn>fading</dfn></dt>
 <dd>The fading away of attraction and investment in experience, as passion cools.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>ill will</dfn></dt>
 <dd>Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.</dd>
 <dt><dfn>knowing</dfn></dt>
@@ -459,13 +459,13 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>not-self</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;anattā&quot; -- not a claim that you don&#x27;t exist, but that nothing in experience holds up as a fixed, ownable &quot;self&quot; when actually examined.</dd>
+<dd>This project&#x27;s rendering of &quot;anattā&quot;. It does not claim that you don&#x27;t exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.</dd>
 <dt><dfn>ordinary person</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puthujjana&quot; -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.</dd>
 <dt><dfn>outflows</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;āsavā&quot; -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated &quot;taints&quot; or &quot;defilements.&quot;</dd>
 <dt><dfn>putting things together</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot; -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated &quot;formations&quot; or &quot;fabrications,&quot; which this project avoids as needlessly opaque.</dd>
+<dd>This project&#x27;s rendering of &quot;saṅkhāra&quot;: the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say &quot;formations&quot; or &quot;fabrications&quot;, which this project avoids as needlessly opaque.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>recognition</dfn></dt>
@@ -483,7 +483,7 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>seclusion</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viveka&quot; -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.</dd>
 <dt><dfn>sensual desire</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dd>When wanting something pleasant pulls you off track. One of the five hindrances.</dd>
 <dt><dfn>sphere of boundless knowing</dfn></dt>
 <dd>A deep meditative state in which awareness rests on knowing itself without limit.</dd>
 <dt><dfn>sphere of boundless space</dfn></dt>
@@ -495,11 +495,11 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 <dt><dfn>underlying tendency</dfn></dt>
 <dd>A reactive pattern that isn&#x27;t necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.</dd>
 <dt><dfn>unwholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;akusala&quot; -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;akusala&quot;. Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -534,23 +534,23 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[doubt]: Uncertainty and indecision, especially about the practice and the teaching. As one of the five hindrances, it keeps the mind wavering instead of committing.
-*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
-*[faculties]: The capacities used in practice—especially confidence, energy, remembering, unification of mind, and discernment—considered as abilities that can be trained and brought into balance.
+*[escape]: This project's rendering of "nissaraṇa". It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.
+*[faculties]: The capacities used in practice, especially confidence, energy, remembering, unification of mind, and discernment. You can train them and bring them into balance.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[mental theme]: This project's rendering of "jhāna" -- a single theme the mind rests on and holds steadily. Described in a sequence of four, each calmer than the last. Most translations leave the word in Pāli.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[not-self]: This project's rendering of "anattā" -- not a claim that you don't exist, but that nothing in experience holds up as a fixed, ownable "self" when actually examined.
+*[not-self]: This project's rendering of "anattā". It does not claim that you don't exist. It says that, when you actually look, nothing in experience holds up as a fixed self you could own.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
-*[putting things together]: This project's rendering of "saṅkhāra" -- the ongoing activity of assembling experience, and also the assembled result of it. Which of the two is meant shifts with context. Often translated "formations" or "fabrications," which this project avoids as needlessly opaque.
+*[putting things together]: This project's rendering of "saṅkhāra": the ongoing activity of assembling experience, and also what that activity assembles. Context shows which of the two the text means. Other translations often say "formations" or "fabrications", which this project avoids as needlessly opaque.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
@@ -559,12 +559,12 @@ The Mahāmālukya Sutta, the fourth discourse, is finished.
 *[relinquishment]: This project's rendering of "vossagga" -- letting go, in the sense of releasing a hold rather than pushing something away.
 *[resistance]: A reflexive pushing-away from what's unwanted, arising automatically in response to unpleasant feeling.
 *[seclusion]: This project's rendering of "viveka" -- being apart from the usual pull of the senses and from unwholesome states. Physical solitude is one form of it, not the whole of it.
-*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
+*[sensual desire]: When wanting something pleasant pulls you off track. One of the five hindrances.
 *[sphere of boundless knowing]: A deep meditative state in which awareness rests on knowing itself without limit.
 *[sphere of boundless space]: A deep meditative state in which awareness rests on space without limit.
 *[sphere of nothingness]: A deep meditative state in which awareness rests on there being nothing at all to take up.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
 *[underlying tendency]: A reactive pattern that isn't necessarily active right now but is ready to reassert itself given the right conditions -- lying underneath rather than gone.
-*[unwholesome]: This project's rendering of "akusala" -- roughly, mentally and ethically harmful: blameworthy, leads to harm, and is criticized by people with good judgment.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[unwholesome]: This project's rendering of "akusala". Roughly: mentally and ethically harmful. It is blameworthy, leads to harm, and people with good judgment criticize it.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

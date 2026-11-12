@@ -50,13 +50,13 @@ The text does not present the four truths as beliefs to memorize. The repeated s
 <dt><dfn>dissatisfaction</dfn></dt>
 <dd>This translation&#x27;s rendering of &quot;dukkha,&quot; the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated &quot;suffering,&quot; but that can sound more dramatic than the everyday sense of things not quite being right.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>quenching</dfn></dt>
 <dd>An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.</dd>
 <dt><dfn>noble truth</dfn></dt>
-<dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
+<dd>One of four core observations this teaching rests on. It is true not because you must take it on faith, but because you can check it against direct experience.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
+<dd>The eight-part practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 </dl>
 
 </div>
@@ -285,9 +285,9 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>brahmin</dfn></dt>
-<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.</dd>
 <dt><dfn>clung-to heaps</dfn></dt>
 <dd>The five categories experience gets sorted into and then grasped as &quot;me&quot; or &quot;mine&quot; -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -299,13 +299,13 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>higher knowing</dfn></dt>
 <dd>Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>nibbāna</dfn></dt>
 <dd>The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; &quot;quenching&quot; is the closest one-word gloss.</dd>
 <dt><dfn>noble eightfold path</dfn></dt>
-<dd>The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
+<dd>The eight-part practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.</dd>
 <dt><dfn>noble truth</dfn></dt>
-<dd>One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.</dd>
+<dd>One of four core observations this teaching rests on. It is true not because you must take it on faith, but because you can check it against direct experience.</dd>
 <dt><dfn>path of practice</dfn></dt>
 <dd>A way of practising -- something done here and now, again and again, not a journey to somewhere else.</dd>
 <dt><dfn>quenching</dfn></dt>
@@ -323,13 +323,13 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 <dt><dfn>right speech</dfn></dt>
 <dd>Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.</dd>
 <dt><dfn>right unification of mind</dfn></dt>
-<dd>The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.</dd>
+<dd>The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.</dd>
 <dt><dfn>right view</dfn></dt>
 <dd>Seeing how experience and practice actually work -- the first factor of the eightfold path. &quot;Right&quot; here means well-aimed and accurate, not morally righteous.</dd>
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -358,17 +358,17 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 *[becoming]: This project's rendering of "bhava" -- the settling of experience into a way of being that feels like somebody being something. Often translated "existence."
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
-*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.
 *[clung-to heaps]: The five categories experience gets sorted into and then grasped as "me" or "mine" -- body, feeling, recognition, mental activity, and awareness. Not clinging to the categories themselves, but to the sense of ownership placed on top of them.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[dissatisfaction]: This translation's rendering of "dukkha," the Buddhist term for the unsatisfying, unstable quality of ordinary experience. Often translated "suffering," but that can sound more dramatic than the everyday sense of things not quite being right.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[higher knowing]: Direct, personally realized understanding -- knowing something for yourself rather than taking it on faith. In some texts it also names the extraordinary knowings that arise from deep concentration.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
-*[noble eightfold path]: The eight-part course of practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
-*[noble truth]: One of four core observations this teaching is built on: something true not because it must be taken on faith, but because it can be checked against direct experience.
+*[noble eightfold path]: The eight-part practice these texts teach: right view, right attitude, right speech, right action, right livelihood, right effort, right remembering, and right unification of mind.
+*[noble truth]: One of four core observations this teaching rests on. It is true not because you must take it on faith, but because you can check it against direct experience.
 *[path of practice]: A way of practising -- something done here and now, again and again, not a journey to somewhere else.
 *[quenching]: An extinguishing image for dissatisfaction and its causes going out. Different Pali words use this image on different pages, so the exact scope comes from the sentence.
 *[right action]: Acting without harming -- a factor of the eightfold path.
@@ -377,7 +377,7 @@ That is how Venerable Kondañña came to be known as Aññā-Kondañña.
 *[right livelihood]: Making a living in a way that does not depend on harming or deceiving anyone -- a factor of the eightfold path.
 *[right remembering]: This project's rendering of the path factor usually translated "right mindfulness" -- keeping what actually matters in view, moment to moment, rather than losing track of it.
 *[right speech]: Speech that is truthful, kind, timely, and worth saying -- a factor of the eightfold path.
-*[right unification of mind]: The path factor in which the mind is gathered together and unified, supported and directed by the rest of the noble path. The thinking mind and heart work as one organized whole, not forced into a trance.
+*[right unification of mind]: The path factor in which the mind gathers together and becomes unified, supported and directed by the rest of the noble path. The thinking mind and the heart work as one whole; nobody forces them into a trance.
 *[right view]: Seeing how experience and practice actually work -- the first factor of the eightfold path. "Right" here means well-aimed and accurate, not morally righteous.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

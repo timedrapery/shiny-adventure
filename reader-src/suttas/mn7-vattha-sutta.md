@@ -351,33 +351,33 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>Blessed One</dfn></dt>
 <dd>One of the Buddha&#x27;s traditional titles, used respectfully in place of his name in these texts.</dd>
 <dt><dfn>body</dfn></dt>
 <dd>The physical body, as distinct from speech and the mental side of experience.</dd>
 <dt><dfn>brahmin</dfn></dt>
-<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.</dd>
 <dt><dfn>conduct</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;sīla&quot; (often translated &quot;morality&quot; or &quot;virtue&quot;) -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.</dd>
+<dd>This project&#x27;s rendering of &quot;sīla&quot;, often translated &quot;morality&quot; or &quot;virtue&quot;. It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.</dd>
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>dhamma</dfn></dt>
-<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.</dd>
+<dd>Depending on the sentence, either the Buddha&#x27;s teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.</dd>
 <dt><dfn>dynamic balance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;upekkhā&quot; (often translated &quot;equanimity&quot;) -- a steadiness that stays engaged rather than checking out, distinct from indifference.</dd>
 <dt><dfn>escape</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot; -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.</dd>
+<dd>This project&#x27;s rendering of &quot;nissaraṇa&quot;. It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.</dd>
 <dt><dfn>friendliness</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;mettā&quot; (often translated &quot;loving-kindness&quot;) -- an intentionally cultivated goodwill extended outward, including to people you don&#x27;t know.</dd>
 <dt><dfn>gladness</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dd>This project&#x27;s rendering of &quot;muditā&quot;, often translated &quot;sympathetic joy&quot;. It means being truly glad at someone else&#x27;s good fortune. You cultivate it as a practice; you do not assume it comes naturally.</dd>
 <dt><dfn>going forth</dfn></dt>
 <dd>Leaving household life to live as a monastic.</dd>
 <dt><dfn>greed</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>heedful</dfn></dt>
 <dd>Living with heedfulness: awake to what you are doing and keeping up the effort.</dd>
 <dt><dfn>heedlessness</dfn></dt>
@@ -389,7 +389,7 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dt><dfn>kamma</dfn></dt>
 <dd>Intentional action, and the way it shapes what follows. Better known by its Sanskrit form &quot;karma,&quot; and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.</dd>
 <dt><dfn>kindness towards others</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;karuṇā&quot; (often translated &quot;compassion&quot;) -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.</dd>
+<dd>This project&#x27;s rendering of &quot;karuṇā&quot;, often translated &quot;compassion&quot;. It is an active wish for others to be free of suffering. You cultivate it on purpose, not only when the feeling comes by itself.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>knowing and seeing</dfn></dt>
@@ -399,15 +399,15 @@ The seventh discourse, the Vattha Sutta, is finished.
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>refuge</dfn></dt>
-<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
+<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.</dd>
 <dt><dfn>rejoicing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;pīti&quot; (often translated &quot;rapture&quot;) -- the bright, uplifted gladness that shows up when practice is going well.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
-<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it means especially those who have entered and realized the path, not everyone who calls themselves Buddhist.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 </dl>
 </details>
 
@@ -439,28 +439,28 @@ The seventh discourse, the Vattha Sutta, is finished.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
 *[Blessed One]: One of the Buddha's traditional titles, used respectfully in place of his name in these texts.
 *[body]: The physical body, as distinct from speech and the mental side of experience.
-*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
-*[conduct]: This project's rendering of "sīla" (often translated "morality" or "virtue") -- how a person actually behaves, taken as the ground the rest of the practice grows on rather than as a set of rules to obey.
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.
+*[conduct]: This project's rendering of "sīla", often translated "morality" or "virtue". It means how a person actually behaves. The rest of the practice grows from it; it is not a set of rules to obey.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
-*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use the one word for both, and each passage makes clear which is meant.
+*[dhamma]: Depending on the sentence, either the Buddha's teaching or simply a thing, quality, or state of affairs. These texts use one word for both, and each passage makes clear which it means.
 *[dynamic balance]: This project's rendering of "upekkhā" (often translated "equanimity") -- a steadiness that stays engaged rather than checking out, distinct from indifference.
-*[escape]: This project's rendering of "nissaraṇa" -- the genuine way out of whatever is under discussion, as opposed to the false escapes an untrained mind reaches for instead. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made and conditioned.
+*[escape]: This project's rendering of "nissaraṇa". It is the real way out of whatever the text is discussing, unlike the false escapes an untrained mind reaches for. In SN 36.6 the escape is from being stuck in a feeling; in Ud 8.3 it is from everything born, made, and conditioned.
 *[friendliness]: This project's rendering of "mettā" (often translated "loving-kindness") -- an intentionally cultivated goodwill extended outward, including to people you don't know.
-*[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
+*[gladness]: This project's rendering of "muditā", often translated "sympathetic joy". It means being truly glad at someone else's good fortune. You cultivate it as a practice; you do not assume it comes naturally.
 *[going forth]: Leaving household life to live as a monastic.
 *[greed]: One of the three "roots" behind unwholesome action, alongside aversion and delusion -- the acquisitive pull toward what looks satisfying.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[heedful]: Living with heedfulness: awake to what you are doing and keeping up the effort.
 *[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
 *[ill will]: Hostility toward others or situations: pushing things away and wishing them harm. As one of the five hindrances, it pulls the mind off track.
 *[kamma]: Intentional action, and the way it shapes what follows. Better known by its Sanskrit form "karma," and narrower than the popular sense -- it is about intention, not cosmic bookkeeping.
-*[kindness towards others]: This project's rendering of "karuṇā" (often translated "compassion") -- an active wish for others to be free of suffering, cultivated deliberately rather than left to spontaneous feeling.
+*[kindness towards others]: This project's rendering of "karuṇā", often translated "compassion". It is an active wish for others to be free of suffering. You cultivate it on purpose, not only when the feeling comes by itself.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[outflow]: This project's rendering of "āsava" -- a deep-running habit that keeps seeping out and driving behaviour. Often translated "taint" or "defilement."
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
-*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
+*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.
 *[rejoicing]: This project's rendering of "pīti" (often translated "rapture") -- the bright, uplifted gladness that shows up when practice is going well.
-*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
+*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it means especially those who have entered and realized the path, not everyone who calls themselves Buddhist.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

@@ -536,13 +536,13 @@ The second discourse is finished.
 <dt><dfn>bhikkhus</dfn></dt>
 <dd>Buddhist monks -- those who have left household life to practise full time. The Buddha&#x27;s usual way of addressing the assembly, roughly &quot;friends&quot; in force.</dd>
 <dt><dfn>birth</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;jāti&quot; -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
+<dd>This project&#x27;s rendering of &quot;jāti&quot;: birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.</dd>
 <dt><dfn>burden</dfn></dt>
 <dd>The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.</dd>
 <dt><dfn>calming</dfn></dt>
 <dd>A settling and quieting of the mind on the way toward full release.</dd>
 <dt><dfn>cessation</dfn></dt>
-<dd>The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called &quot;quenching&quot; -- both are this project&#x27;s rendering of the same Pali word, &quot;nirodha,&quot; used in different sentences.)</dd>
+<dd>The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as &quot;quenching&quot;. Both render the same Pali word, &quot;nirodha&quot;, in different sentences.</dd>
 <dt><dfn>delusion</dfn></dt>
 <dd>One of the three &quot;roots&quot; behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what&#x27;s actually happening.</dd>
 <dt><dfn>Dhamma</dfn></dt>
@@ -552,23 +552,23 @@ The second discourse is finished.
 <dt><dfn>far shore</dfn></dt>
 <dd>The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.</dd>
 <dt><dfn>felt experience</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;vedanā&quot; (often translated &quot;feeling&quot;) -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.</dd>
+<dd>This project&#x27;s rendering of &quot;vedanā&quot;, often translated &quot;feeling&quot;. It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.</dd>
 <dt><dfn>five lower fetters</dfn></dt>
 <dd>Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.</dd>
 <dt><dfn>flood</dfn></dt>
-<dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
+<dd>A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.</dd>
 <dt><dfn>form</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;rūpa&quot; -- the physical, material aspect of experience, one of the five heaps.</dd>
 <dt><dfn>gladness</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;muditā&quot; (often translated &quot;sympathetic joy&quot;) -- being genuinely glad at someone else&#x27;s good fortune, cultivated as a practice rather than assumed to come naturally.</dd>
+<dd>This project&#x27;s rendering of &quot;muditā&quot;, often translated &quot;sympathetic joy&quot;. It means being truly glad at someone else&#x27;s good fortune. You cultivate it as a practice; you do not assume it comes naturally.</dd>
 <dt><dfn>gratification</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;assāda&quot; -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing&#x27;s danger and the escape from it, so that all three are seen together.</dd>
+<dd>This project&#x27;s rendering of &quot;assāda&quot;: the real satisfaction something offers, which is why people hold on to it. The texts pair it with that thing&#x27;s danger and the escape from it, so you see all three together.</dd>
 <dt><dfn>heart</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;citta&quot; -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the &quot;heart-mind&quot; or &quot;feeling mind&quot;; here &quot;heart&quot; does not mean merely emotion or the physical organ.</dd>
+<dd>This project&#x27;s rendering of &quot;citta&quot;: the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the &quot;heart-mind&quot; or &quot;feeling mind&quot;. Here &quot;heart&quot; does not mean only emotion, or the physical organ.</dd>
 <dt><dfn>ignorance</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;avijjā&quot; -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.</dd>
 <dt><dfn>ignorant wanting</dfn></dt>
-<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot; (often translated &quot;craving&quot;). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
+<dd>Wanting something you can&#x27;t have right now. This project&#x27;s rendering of &quot;taṇhā&quot;, often translated &quot;craving&quot;. We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.</dd>
 <dt><dfn>knowing</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;viññāṇa&quot; (often translated &quot;consciousness&quot;) -- bare awareness of an object through one of the senses or the mind.</dd>
 <dt><dfn>nibbāna</dfn></dt>
@@ -582,15 +582,15 @@ The second discourse is finished.
 <dt><dfn>put together</dfn></dt>
 <dd>In &quot;all that has been put together&quot;, this project&#x27;s rendering of &quot;saṅkhārā&quot; on its result side: anything assembled from conditions, as opposed to the activity of assembling.</dd>
 <dt><dfn>recluses</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
+<dd>This project&#x27;s rendering of &quot;samaṇa&quot;: people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.</dd>
 <dt><dfn>recognition</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;saññā&quot; (often translated &quot;perception&quot;) -- the mind&#x27;s act of identifying and labeling what it encounters.</dd>
 <dt><dfn>right discernment</dfn></dt>
 <dd>Seeing accurately how something actually came about, rather than holding a correct opinion about it.</dd>
 <dt><dfn>sensual desire</dfn></dt>
-<dd>Being pulled off track by wanting something pleasant. One of the five hindrances.</dd>
+<dd>When wanting something pleasant pulls you off track. One of the five hindrances.</dd>
 <dt><dfn>sensual pleasures</dfn></dt>
-<dd>Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.</dd>
+<dd>Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.</dd>
 <dt><dfn>spiritual life</dfn></dt>
 <dd>The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.</dd>
 <dt><dfn>spontaneously reborn</dfn></dt>
@@ -598,7 +598,7 @@ The second discourse is finished.
 <dt><dfn>Tathāgata</dfn></dt>
 <dd>A title for the Buddha, traditionally left untranslated. It means roughly &quot;the one who has arrived at things as they truly are.&quot;</dd>
 <dt><dfn>world</dfn></dt>
-<dd>A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.</dd>
+<dd>A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.</dd>
 <dt><dfn>wrong view</dfn></dt>
 <dd>Seeing things in a way that misses how they actually work; the opposite of right view.</dd>
 </dl>
@@ -631,35 +631,35 @@ The second discourse is finished.
 *[Bhante]: A respectful way of addressing a senior monastic, roughly "venerable sir." Left untranslated because English has no natural equivalent.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[bhikkhus]: Buddhist monks -- those who have left household life to practise full time. The Buddha's usual way of addressing the assembly, roughly "friends" in force.
-*[birth]: This project's rendering of "jāti" -- being born, and the link that ageing and dying depend on in the dependent-arising sequence. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
+*[birth]: This project's rendering of "jāti": birth, coming into being. In the dependent-arising sequence, ageing and dying depend on it. In MN 141 the word appears once in its everyday sense instead, in a simile about a mother.
 *[burden]: The five clung-to heaps pictured as a load: experience taken personally. Ignorant wanting picks it up; someone who has laid down the burden no longer takes it up.
 *[calming]: A settling and quieting of the mind on the way toward full release.
-*[cessation]: The ending of dissatisfaction and its causes -- what practice is ultimately for. (Elsewhere on this site the same underlying idea is called "quenching" -- both are this project's rendering of the same Pali word, "nirodha," used in different sentences.)
+*[cessation]: The ending of dissatisfaction and its causes: what practice is finally for. Elsewhere on this site the same idea appears as "quenching". Both render the same Pali word, "nirodha", in different sentences.
 *[delusion]: One of the three "roots" behind unwholesome action, alongside greed and aversion -- the confusion that keeps you from seeing what's actually happening.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[fading]: The fading away of attraction and investment in experience, as passion cools.
 *[far shore]: The safe side of the river image: the completion reached after crossing beyond the forces that keep a person bound.
-*[felt experience]: This project's rendering of "vedanā" (often translated "feeling") -- the immediate pleasant, unpleasant, or neutral tone of an experience, prior to any story built on top of it.
+*[felt experience]: This project's rendering of "vedanā", often translated "feeling". It is the immediate pleasant, painful, or mixed tone of an experience, before any story we build on top of it.
 *[five lower fetters]: Five patterns said to bind a person to ordinary sensual existence: self-view, doubt, grasping at rules and observances, sensual passion, and aversion.
-*[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+*[flood]: A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.
 *[form]: This project's rendering of "rūpa" -- the physical, material aspect of experience, one of the five heaps.
-*[gladness]: This project's rendering of "muditā" (often translated "sympathetic joy") -- being genuinely glad at someone else's good fortune, cultivated as a practice rather than assumed to come naturally.
-*[gratification]: This project's rendering of "assāda" -- the real satisfaction something offers, which is why it is held on to. The texts pair it with that thing's danger and the escape from it, so that all three are seen together.
-*[heart]: This project's rendering of "citta" -- the affective or feeling side of mind: the part that takes on a mood, wants, leans, reacts, and can be gladdened, steadied, trained, and released. It is sometimes called the "heart-mind" or "feeling mind"; here "heart" does not mean merely emotion or the physical organ.
+*[gladness]: This project's rendering of "muditā", often translated "sympathetic joy". It means being truly glad at someone else's good fortune. You cultivate it as a practice; you do not assume it comes naturally.
+*[gratification]: This project's rendering of "assāda": the real satisfaction something offers, which is why people hold on to it. The texts pair it with that thing's danger and the escape from it, so you see all three together.
+*[heart]: This project's rendering of "citta": the feeling side of mind. It takes on moods, wants, leans, and reacts. Practice can gladden, steady, train, and release it. Some call it the "heart-mind" or "feeling mind". Here "heart" does not mean only emotion, or the physical organ.
 *[ignorance]: This project's rendering of "avijjā" -- not general stupidity, but specifically not seeing how dissatisfaction works and how it ends. The first link in the dependent-arising sequence.
-*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā" (often translated "craving"). It is called ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
+*[ignorant wanting]: Wanting something you can't have right now. This project's rendering of "taṇhā", often translated "craving". We call it ignorant because it comes from not seeing clearly; ordinary, sensible wanting is something else.
 *[knowing]: This project's rendering of "viññāṇa" (often translated "consciousness") -- bare awareness of an object through one of the senses or the mind.
 *[nibbāna]: The end of greed, hatred, and confusion -- the traditional goal of Buddhist practice. Left untranslated because no single English word covers it; "quenching" is the closest one-word gloss.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
 *[ordinary person]: This project's rendering of "puthujjana" -- someone who has not yet had the breakthrough into the path. It is the standard term for the untrained starting point, not an insult.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[put together]: In "all that has been put together", this project's rendering of "saṅkhārā" on its result side: anything assembled from conditions, as opposed to the activity of assembling.
-*[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
+*[recluses]: This project's rendering of "samaṇa": people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.
 *[recognition]: This project's rendering of "saññā" (often translated "perception") -- the mind's act of identifying and labeling what it encounters.
 *[right discernment]: Seeing accurately how something actually came about, rather than holding a correct opinion about it.
-*[sensual desire]: Being pulled off track by wanting something pleasant. One of the five hindrances.
-*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches when they are being pursued and consumed as sources of satisfaction.
+*[sensual desire]: When wanting something pleasant pulls you off track. One of the five hindrances.
+*[sensual pleasures]: Enjoyable sights, sounds, smells, tastes, and touches, when you chase and consume them as sources of satisfaction.
 *[spiritual life]: The Buddhist path of practice as a whole -- not just a set of beliefs, but a whole way of living.
 *[spontaneously reborn]: Reborn fully formed rather than through a womb, egg, or moisture. AN 4.5 uses this traditional cosmological description for a non-returner.
 *[Tathāgata]: A title for the Buddha, traditionally left untranslated. It means roughly "the one who has arrived at things as they truly are."
-*[world]: A word whose scope shifts with the teaching. It can mean the lived world built through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense is meant.
+*[world]: A word whose scope shifts with the teaching. It can mean the lived world we build through the senses and the mind, or the wider physical cosmos. The surrounding passage shows which sense it has.

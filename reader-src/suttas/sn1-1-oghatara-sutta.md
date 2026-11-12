@@ -68,15 +68,15 @@ circled him clockwise, and vanished right there.
 <summary>Words used in this translation (6)</summary>
 <dl>
 <dt><dfn>brahmin</dfn></dt>
-<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.</dd>
+<dd>Originally a member of ancient India&#x27;s hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.</dd>
 <dt><dfn>complete quenching</dfn></dt>
-<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.</dd>
+<dd>The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes something a person reaches while alive, not death.</dd>
 <dt><dfn>crossed over</dfn></dt>
 <dd>Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.</dd>
 <dt><dfn>deity</dfn></dt>
 <dd>A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.</dd>
 <dt><dfn>flood</dfn></dt>
-<dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
+<dd>A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.</dd>
 <dt><dfn>world&#x27;s entanglement</dfn></dt>
 <dd>The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.</dd>
 </dl>
@@ -103,9 +103,9 @@ circled him clockwise, and vanished right there.
 </nav>
 
 
-*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path, so context determines whether caste or conduct is meant.
-*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes what is reached while alive, not death.
+*[brahmin]: Originally a member of ancient India's hereditary priestly class. These texts sometimes reuse the title for an ideal practitioner who has completed the path. Context shows whether caste or conduct is the point.
+*[complete quenching]: The complete going out of greed, aversion, and delusion. In AN 3.69 and SN 1.1 it describes something a person reaches while alive, not death.
 *[crossed over]: Having completed the crossing rather than merely moving toward the other side. This preserves the river image used for completion of the path.
 *[deity]: A divine being in the ancient Indian cosmology. In SN 1.1 the deity is a nighttime visitor who asks the Buddha a question, not a creator god.
-*[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+*[flood]: A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.
 *[world's entanglement]: The sticky web of wanting and taking things personally that keeps a person caught in the experienced world.
