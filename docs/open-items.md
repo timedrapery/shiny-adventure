@@ -37,7 +37,12 @@ change in `CHANGELOG.md`.
    needs a ruling, not a sentence repair. A verb version would read `When
    ignorance completely fades and quenches, putting things together
    quenches.`
-4. **`abhijjhā` in MN 39.** MN 39 renders `abhijjhādomanassa` as
+4. **The support-text standard and the translations.** The standard in
+   [`support-text-standard.md`](support-text-standard.md) is being applied
+   across the repository, but the translation bodies were left out for now
+   (2026-11-12). Revisit whether any of its rules should apply to them, and
+   how, without flattening repetition, verse, or the house terms.
+5. **`abhijjhā` in MN 39.** MN 39 renders `abhijjhādomanassa` as
    `covetousness and displeasure`, while the `abhijjhā` record and MN 10 use
    `coveting` (MN 10: `coveting and distress`). Decide whether MN 39 should
    follow, which would change about five sentences.

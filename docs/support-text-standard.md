@@ -19,9 +19,11 @@ Applies to:
 - the definitions in `includes/glossary.md`
 - newcomer comprehension questions
 
-Does not apply to the translations themselves. In a sutta, repetition carries
-meaning, verse and dialogue have their own shape, and the house terms are
-fixed. Those follow [`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md).
+Does not apply to the translations themselves, for now. In a sutta, repetition
+carries meaning, verse and dialogue have their own shape, and the house terms
+are fixed. Those follow [`PLAIN_ENGLISH_STANDARD.md`](PLAIN_ENGLISH_STANDARD.md).
+Leaving the translations out is a deferral, not a final ruling (decided
+2026-11-12); it is listed in [`open-items.md`](open-items.md) to revisit.
 Notes written for editors are also out of scope.
 
 ## Rules

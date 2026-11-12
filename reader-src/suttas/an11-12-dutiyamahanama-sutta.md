@@ -37,7 +37,7 @@ Stand on confidence, energy, remembering, unification of mind, and discernment. 
 
 ### Reading tip
 
-The six recollections contain traditional formulas and unfamiliar names. Keep your eye on what the practice does to the heart and on the final instruction to use it anywhere, including at work and around family.
+The six recollections contain traditional formulas and unfamiliar names. Notice what the practice does to the heart. The last instruction says to use it anywhere, even at work and around family.
 
 ### This text is not saying
 

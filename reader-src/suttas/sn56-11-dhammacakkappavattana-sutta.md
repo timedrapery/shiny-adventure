@@ -37,11 +37,11 @@ The Buddha warns against two extremes: chasing sensual pleasure and punishing th
 
 ### Reading tip
 
-After defining the middle path and four truths, the text repeats each truth in three stages: recognition, the task to be done, and the task completed.
+The text first defines the middle path and the four truths. Then it turns each truth three times: naming it, the task it sets, and the task complete.
 
 ### This text is not saying
 
-The four truths are not presented as four beliefs to memorize. The repeated section shows something to understand, give up, realize, and develop.
+The text does not present the four truths as beliefs to memorize. The repeated section shows something to understand, give up, realize, and develop.
 
 ### Key words
 

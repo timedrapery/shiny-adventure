@@ -33,7 +33,7 @@ How much of the path depends on having good friends, companions, and examples?
 
 ### Main point
 
-Good friendship supplies the conditions in which the whole path can be developed. The Buddha then points to himself as the decisive example of a good friend: through relying on his teaching, people can practice toward freedom.
+Good friendship gives you what you need to develop the whole path. The Buddha then points to himself as the decisive example of a good friend: through relying on his teaching, people can practice toward freedom.
 
 ### Reading tip
 
