@@ -29,19 +29,19 @@ At the Deer Park near Bārāṇasī, the Buddha asks five monks about five categ
 
 ### Central question
 
-Is it reasonable to say of any of these five changing parts of experience, 'This is mine, I am this, this is my self'?
+Is any of these five changing parts of experience fit to call 'mine,' 'I am this,' or 'my self'?
 
 ### Main point
 
-Each of the five can cause trouble, changes over time, and cannot be made to obey your wishes. So the text says none is fit to be treated as 'mine,' 'I am this,' or 'my self.' It connects seeing this clearly with release.
+Each of the five can cause trouble, changes over time, and does not obey your wishes. So the text says none is fit to call 'mine,' 'I am this,' or 'my self.' It connects seeing this clearly with release.
 
 ### Reading tip
 
-The same argument is repeated for all five categories. Use the first one to learn the pattern. Later, watch for the repeated line: 'This is not mine, I am not this, this is not my self.'
+The text repeats the same argument for all five. Use the first one to learn the pattern. Later, watch for the repeated line: 'This is not mine, I am not this, this is not my self.'
 
 ### This text is not saying
 
-This passage is not trying to prove that nobody exists. It focuses on whether these five changing parts of experience are fit to be treated as 'mine,' 'I am this,' or 'my self.'
+This passage is not trying to prove that nobody exists. It asks whether these five changing parts of experience are fit to call 'mine,' 'I am this,' or 'my self.'
 
 ### Key words
 

@@ -33,15 +33,15 @@ Since changing circumstances happen to everyone, what makes one person get carri
 
 ### Main point
 
-The difference is not whether pleasant and painful events occur. It is whether the heart welcomes one side, resists the other, and gets taken over, or sees that every condition is unstable and bound to change.
+The difference is not whether pleasant and painful things happen. It is whether the heart welcomes one side and resists the other until they take it over, or sees that every condition will change.
 
 ### Reading tip
 
-The two long middle sections mirror one another. Learn the pattern from gain and loss, then notice that the same response is applied to status, other people's judgments, and bodily feeling.
+The two long middle sections mirror each other. Learn the pattern from gain and loss. Then notice the same response to status, other people's judgments, and bodily feeling.
 
 ### This text is not saying
 
-The text does not promise a life without loss, blame, or pain, and it does not recommend suppressing them. It contrasts being taken over by changing conditions with understanding them as they occur.
+The text does not promise a life without loss, blame, or pain, and it does not recommend suppressing them. It contrasts two responses to changing conditions: letting them take you over, and understanding them as they happen.
 
 ### Key words
 
