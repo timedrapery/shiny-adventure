@@ -29,19 +29,19 @@ The Buddha describes how, before awakening, he divided his own thinking into two
 
 ### Central question
 
-How does repeatedly thinking along one line shape the heart, and what can be done when a line of thought leads toward harm or distress?
+How does thinking along one line, again and again, shape the heart? And what can you do when a line of thought leads toward harm or distress?
 
 ### Main point
 
-Repeated thinking inclines the heart in the same direction. Thoughts connected with sensuality, ill will, and harming are examined for their consequences and allowed to subside; thoughts connected with letting go, non-ill-will, and non-harming are developed without straining the heart.
+Repeated thinking inclines the heart in the same direction. Before his awakening, the Buddha examines thoughts of sensuality, ill will, and harming for their consequences and lets them subside. He develops thoughts of letting go, non-ill-will, and non-harming without straining the heart.
 
 ### Reading tip
 
-The immediately usable teaching is in the first two classes of thought and the two cowherd comparisons. The later account of deep practice and awakening shows where this training led; you do not need to master that whole sequence on a first reading.
+The most usable teaching is in the first two classes of thought and the two cowherd comparisons. The later account of deep practice and awakening shows where this training led. You do not need to master it on a first reading.
 
 ### This text is not saying
 
-The text is not telling you to fight every unwanted thought or to keep thinking without rest. It examines thoughts by the direction and consequences they reinforce, and it explicitly says that even helpful thinking can strain the heart when continued too long.
+The text is not telling you to fight every unwanted thought or to keep thinking without rest. It judges thoughts by where they lead and what they reinforce. It even says that helpful thinking can strain the heart if it goes on too long.
 
 ### Key words
 
