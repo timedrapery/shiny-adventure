@@ -24,6 +24,9 @@ class SentenceRulesTests(unittest.TestCase):
             ["One idea here.", '"A quote."', "Another one?"],
         )
 
+    def test_a_sentence_may_start_with_a_pali_capital(self) -> None:
+        self.assertEqual(audit.split_sentences("He asks. Ānanda answers."), ["He asks.", "Ānanda answers."])
+
     def test_quoted_text_does_not_count_toward_length(self) -> None:
         sentence = f'It says "{words(30)}" plainly.'
         self.assertEqual(audit.counted_words(sentence), 3)
@@ -64,6 +67,16 @@ class FileTests(unittest.TestCase):
             path = Path(tmp) / "x.md"
             path.write_text(f"<!-- {words(40)}. -->\n\n# {words(40)}\n\nA short line.\n", encoding="utf-8")
             self.assertEqual(audit.audit([path]), [])
+
+    def test_markdown_list_items_are_checked_and_code_is_skipped(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "README.md"
+            path.write_text(
+                f"```bash\n{words(40)}\n```\n\n- Short item.\n- {words(30)}.\n\n    {words(40)}\n",
+                encoding="utf-8",
+            )
+            [finding] = audit.audit([path])
+        self.assertEqual((finding.location, finding.rule), ("paragraph 1, item 2", "long sentence"))
 
     def test_glossary_definitions_are_checked_by_term(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:

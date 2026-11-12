@@ -40,7 +40,7 @@ Major entries are policy-bearing records. They exist to preserve translation dis
 The repository uses a clear source-of-truth stack:
 
 - `terms/major/` and `terms/minor/` hold the live governed lexicon
-- top-level governance docs and normative docs in `docs/` explain how those records should be written and reviewed
+- top-level governance docs and normative docs in `docs/` explain how to write and review those records
 - `candidates/` holds intake evidence that has not yet become live policy
 - `docs/generated/` holds derived reference material for browsing, review, and translation support
 
@@ -51,7 +51,7 @@ If a generated sheet or report looks wrong, fix the live term data or the genera
 The repository uses a review-first path:
 
 1. Raw source vocabulary is first handled in [`candidates/`](candidates/README.md), not in the live lexicon.
-2. Confirmed editorial decisions are encoded in `terms/major/` or `terms/minor/`.
+2. An editor encodes each confirmed decision in `terms/major/` or `terms/minor/`.
 3. Scripts and tests validate structure, drift resistance, provenance, and workflow behavior.
 4. Generated docs in [`docs/generated/`](docs/generated/generated-docs-guide.md) provide reference surfaces, but they do not replace the live policy records.
 
@@ -196,44 +196,44 @@ navigation rather than adding subfolders.
 
 ## Current Priorities
 
-The live lexicon no longer has a draft major or minor queue. Current work is focused on expanding translation-facing text surfaces around already-governed clusters, refining supporting entries when live translation exposes pressure, and keeping generated and documentation surfaces synchronized with the live dataset.
+The live lexicon has no draft queue. The work now is human review, not more
+translations:
 
-Current maintenance and workflow surface tools include:
+- All twelve First 12 texts have a complete read-aloud review. Two have a
+  source-fidelity sign-off.
+- The next step is the three-text newcomer pilot on the
+  [newcomer review workboard](reviews/README.md).
+- [docs/open-items.md](docs/open-items.md) lists the standing editorial
+  rulings, the decisions still waiting, and the next work.
+
+The repository has 80 registered translation surfaces and a plain-English
+standard applied across all of them. A program builds the public reading
+edition from that corpus and publishes it to GitHub Pages; see
+[docs/reader-architecture.md](docs/reader-architecture.md).
+
+Wave 13 is complete: Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are
+all published (see the [Wave 13 execution plan](docs/archive/wave-13-execution-plan.md)).
+The next queue needs a fresh audit before any sutta gets a place in it.
+
+Translation and review run side by side. A translation goes live once its
+automated and editorial checks pass. Read-aloud and newcomer reviews are
+records we keep when they happen. They do not block drafting or publishing,
+and the reader does not show a status label. Nobody infers or backfills reader
+evidence.
+
+After changing a translation, run `python scripts/refresh_derived.py --write`,
+then `python scripts/run_checks.py`. Other maintenance tools:
 
 - `python scripts/check_docs_integrity.py`
 - `python scripts/check_generated_docs.py`
 - `python scripts/translation_surface_index.py --check`
-- `python scripts/run_checks.py`
 
-The repository has 80 registered translation surfaces and a plain-English
-standard applied across all of them.
-
-The public reading edition is generated from that corpus and published to GitHub Pages; see [docs/reader-architecture.md](docs/reader-architecture.md).
-
-Wave 13 is complete: Dhp 179-196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are
-all published (see the [Wave 13 execution plan](docs/archive/wave-13-execution-plan.md)).
-The next queue needs a fresh audit before a sutta is given a position.
-
-**Open work:** [docs/open-items.md](docs/open-items.md) lists the standing
-editorial rulings, the decisions still waiting, and the next pieces of work.
-After changing a translation, run `python scripts/refresh_derived.py --write`,
-then `python scripts/run_checks.py`.
-
-Picking the work up cold: for translation expansion, start with the
-[Wave 11 execution plan](docs/archive/wave-11-execution-plan.md), then use
+Picking the work up cold: read
 [docs/translation-workflow-plan.md](docs/translation-workflow-plan.md) for the
-full editorial method and repository history. For reader accessibility, start
-with the durable
+full editorial method and project history. For reader accessibility, start
+with the
 [newcomer accessibility implementation plan](docs/newcomer-accessibility-implementation-plan.md)
 and the [newcomer review workboard](reviews/README.md).
-
-The two run in parallel. A translation is published once its automated and
-editorial gates pass. Human read-aloud and newcomer reviews are optional
-records kept when they happen; they do not block drafting or publishing, the
-reader does not show a status label, and no reader evidence is ever inferred or
-backfilled.
-
-Planning notes live in the [Wave 11 execution plan](docs/archive/wave-11-execution-plan.md) and [translation workflow](docs/translation-workflow-plan.md); open work is in [docs/open-items.md](docs/open-items.md).
 
 ## Contributing
 
@@ -241,12 +241,13 @@ Read [CONTRIBUTING.md](CONTRIBUTING.md) before opening a pull request. Explain e
 
 ## License
 
-- **Translations, term records, and documentation** are licensed under
-  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/):
-  free to share and adapt for non-commercial use, with credit, under the same
-  license. See [LICENSE-CONTENT.md](LICENSE-CONTENT.md) for exactly what it
+- **Translations, term records, and documentation:**
+  [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). You
+  may share and adapt them for non-commercial use, with credit, under the same
+  license. [LICENSE-CONTENT.md](LICENSE-CONTENT.md) says exactly what it
   covers.
 - **Code** (scripts, tests, the feedback service, and the reader's JavaScript
-  and CSS) is licensed under the MIT License. See [LICENSE](LICENSE).
-- **Pali source text** quoted in the records is not relicensed; see
+  and CSS): the MIT License. See [LICENSE](LICENSE).
+- **Pali source text** quoted in the records keeps its own terms; the project
+  license does not cover it. See
   [docs/source-text-policy.md](docs/source-text-policy.md).

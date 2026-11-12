@@ -74,12 +74,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started</p>
 <p>The Buddha&#x27;s own account of leaving home, studying under two teachers, and finding them insufficient. A narrative, not a doctrine — a human anchor before the vocabulary gets technical.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the first teaching sn 56.11 dhammacakkappavattana sutta the first sermon: the four noble truths and the eightfold path stated directly. foundational, but reads better once stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the first teaching sn 56.11 dhammacakkappavattana sutta the first sermon: the four noble truths and the eightfold path, stated directly. it is foundational, but it reads better after stage 1 sets the frame. taken cold, its formulas can feel like a list to memorize, not a diagnosis to recognize. four truths and path">
 <h2><a href="../suttas/sn56-11-dhammacakkappavattana-sutta/">The First Teaching</a></h2>
 <p class="sutta-card__reference">SN 56.11 · <span lang="pi">Dhammacakkappavattana Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,206 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>The first sermon: the four noble truths and the eightfold path stated directly. Foundational, but reads better once Stage 1 has set the frame — taken cold, its formulaic structure can feel like a list to memorize rather than a diagnosis to recognize.</p>
+<p>The first sermon: the four noble truths and the eightfold path, stated directly. It is foundational, but it reads better after Stage 1 sets the frame. Taken cold, its formulas can feel like a list to memorize, not a diagnosis to recognize.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="dialogue" data-length="short" data-search="what ignorance means sn 56.17 avijjā sutta a bhikkhu asks what ignorance means. the answer is precise: not seeing dissatisfaction, where it comes from, when it ends, and how to end it again. four truths and path">
 <h2><a href="../suttas/sn56-17-avijja-sutta/">What Ignorance Means</a></h2>
@@ -102,12 +102,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
 <p>The eightfold path unpacked one factor at a time: how to understand, speak, act, work, train, remember, and unify the heart.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="three trainings cover everything an 3.88 tatiyasikkhā sutta more than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. minor mistakes can be repaired, and even partial training still bears fruit. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="three trainings cover everything an 3.88 tatiyasikkhā sutta more than 150 monastic rules, gathered into three trainings: conduct, the mind, and discernment. you can repair minor mistakes, and even partial training still bears fruit. four truths and path">
 <h2><a href="../suttas/an3-88-tatiyasikkha-sutta/">Three Trainings Cover Everything</a></h2>
 <p class="sutta-card__reference">AN 3.88 · <span lang="pi">Tatiyasikkhā Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Short · about 3 min · 367 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>More than 150 monastic rules gathered into three trainings—conduct, the mind, and discernment. Minor mistakes can be repaired, and even partial training still bears fruit.</p>
+<p>More than 150 monastic rules, gathered into three trainings: conduct, the mind, and discernment. You can repair minor mistakes, and even partial training still bears fruit.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="one arrow, not two sn 36.6 salla sutta the one-arrow/two-arrows teaching: physical pain versus the added mental suffering piled on top of it. concrete, bodily, and immediately recognizable. four truths and path">
 <h2><a href="../suttas/sn36-6-salla-sutta/">One Arrow, Not Two</a></h2>
@@ -130,12 +130,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Getting started · Ethics and conduct</p>
 <p>Two bright qualities protect the human world: conscience, the inward sense of integrity, and moral caution about harm and consequences.</p>
 </article>
-<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="eight streams of benefit an 8.39 abhisanda sutta keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it. ethics and conduct">
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="eight streams of benefit an 8.39 abhisanda sutta the five precepts seen from the other side. keeping them gives every being you might have harmed freedom from fear, and you come to share in that freedom. ethics and conduct">
 <h2><a href="../suttas/an8-39-abhisanda-sutta/">Eight Streams of Benefit</a></h2>
 <p class="sutta-card__reference">AN 8.39 · <span lang="pi">Abhisanda Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Short · about 5 min · 732 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
-<p>Keeping the five precepts described from the other side: every being who might have been harmed is given freedom from fear, and the person who gave it comes to share in it.</p>
+<p>The five precepts seen from the other side. Keeping them gives every being you might have harmed freedom from fear, and you come to share in that freedom.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="the dirty cloth mn 7 vattha sutta a mind is like cloth: dye it while it is dirty and the colour comes out wrong. ethics introduced through a simile instead of a rule list. ethics and conduct">
 <h2><a href="../suttas/mn7-vattha-sutta/">The Dirty Cloth</a></h2>
@@ -165,12 +165,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
 <p>A householder asks how to live well now and later. Four things for this life, four drains on wealth, and four things for the life to come.</p>
 </article>
-<article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
+<article class="sutta-card" data-topic="ethics and conduct|mind and senses" data-difficulty="introductory" data-form="teaching" data-length="medium" data-search="what drives harm—and what ends it an 3.69 akusalamūla sutta the text traces greed, aversion, and delusion from their roots to their effects on action, speech, power, and the heart. then it contrasts them with non-greed, non-aversion, and clarity. ethics and conduct · mind and senses">
 <h2><a href="../suttas/an3-69-akusalamula-sutta/">What Drives Harm—and What Ends It</a></h2>
 <p class="sutta-card__reference">AN 3.69 · <span lang="pi">Akusalamūla Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Medium · about 7 min · 1,217 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct · Mind and senses</p>
-<p>Greed, aversion, and delusion are traced from their roots to their effects on action, speech, power, and the heart—then contrasted with non-greed, non-aversion, and clarity.</p>
+<p>The text traces greed, aversion, and delusion from their roots to their effects on action, speech, power, and the heart. Then it contrasts them with non-greed, non-aversion, and clarity.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="short" data-search="going with the stream—or against it an 4.5 anusota sutta four ways of meeting the current: drifting with it, struggling against it, standing firm, and completing the crossing to dry land. ethics and conduct · four truths and path">
 <h2><a href="../suttas/an4-5-anusota-sutta/">Going With the Stream—or Against It</a></h2>
@@ -186,19 +186,19 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path · Mind and senses</p>
 <p>A deity asks how the Buddha crossed a flood. The answer refuses both standing still and forceful struggle, preserving a compact paradox.</p>
 </article>
-<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four horses an 4.113 patoda sutta four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. a jolt of urgency after three fairly calm texts. ethics and conduct">
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four horses an 4.113 patoda sutta four kinds of horses, four kinds of people, and what it takes to move someone to practice. a jolt of urgency after three fairly calm texts. ethics and conduct">
 <h2><a href="../suttas/an4-113-patoda-sutta/">Four Horses</a></h2>
 <p class="sutta-card__reference">AN 4.113 · <span lang="pi">Patoda Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Short · about 5 min · 799 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
-<p>Four kinds of horses, four kinds of people, and what it actually takes to be moved to practice. A jolt of urgency after three fairly calm texts.</p>
+<p>Four kinds of horses, four kinds of people, and what it takes to move someone to practice. A jolt of urgency after three fairly calm texts.</p>
 </article>
-<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four steps that lead to the path sn 55.5 dutiyasāriputta sutta what actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. the first item is social, not inward. four truths and path">
+<article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching" data-length="short" data-search="four steps that lead to the path sn 55.5 dutiyasāriputta sutta what leads to the path, in four ordinary steps: find good company, hear the teaching, attend to it carefully, then practise in line with it. the first step is social, not inward. four truths and path">
 <h2><a href="../suttas/sn55-5-dutiyasariputta-sutta/">Four Steps That Lead to the Path</a></h2>
 <p class="sutta-card__reference">SN 55.5 · <span lang="pi">Dutiyasāriputta Sutta</span></p>
 <p class="sutta-card__meta">Introductory · Teaching · Short · about 2 min · 256 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Four truths and path</p>
-<p>What actually leads to the path, in four steps that are ordinary enough to follow: find good company, hear the teaching, attend to it carefully, then practise in line with it. The first item is social, not inward.</p>
+<p>What leads to the path, in four ordinary steps: find good company, hear the teaching, attend to it carefully, then practise in line with it. The first step is social, not inward.</p>
 </article>
 <article class="sutta-card" data-topic="four truths and path" data-difficulty="introductory" data-form="teaching with verse" data-length="medium" data-search="think like a thoroughbred an 11.9 saddha sutta a wild colt tied to its trough can think of nothing but &quot;fodder, fodder!&quot; the contrast with a trained horse becomes a contrast between two ways of sitting down to meditate. four truths and path">
 <h2><a href="../suttas/an11-9-saddha-sutta/">Think Like a Thoroughbred</a></h2>
@@ -242,12 +242,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>A debater says some people train the body and others the mind. The Buddha answers with his own story: two teachers, self-torment that nearly killed him, and the memory that pointed another way. Through all of it, neither pain nor pleasure took over his heart.</p>
 </article>
-<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="practical" data-form="dialogue" data-length="medium" data-search="the water vessel mn 61 ambalaṭṭhikarāhulovāda sutta the buddha teaches his own son rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. from there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it. ethics and conduct">
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="practical" data-form="dialogue" data-length="medium" data-search="the water vessel mn 61 ambalaṭṭhikarāhulovāda sutta the buddha teaches his son rāhula with a water vessel, emptied and turned upside down, and then a war elephant. his point: someone who feels no shame in lying has nothing left to hold them back. then comes a nine-part check for any action of body, speech, or mind, before, during, and after it. ethics and conduct">
 <h2><a href="../suttas/mn61-ambalatthikarahulovada-sutta/">The Water Vessel</a></h2>
 <p class="sutta-card__reference">MN 61 · <span lang="pi">Ambalaṭṭhikarāhulovāda Sutta</span></p>
 <p class="sutta-card__meta">Practical · Dialogue · Medium · about 13 min · 2,169 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
-<p>The Buddha teaches his own son Rāhula, using a water vessel emptied and turned upside down, then a war elephant, to make the case that someone who feels no shame lying has nothing left to hold them back. From there: a nine-part checklist for examining any action of body, speech, or mind before, during, and after doing it.</p>
+<p>The Buddha teaches his son Rāhula with a water vessel, emptied and turned upside down, and then a war elephant. His point: someone who feels no shame in lying has nothing left to hold them back. Then comes a nine-part check for any action of body, speech, or mind, before, during, and after it.</p>
 </article>
 <article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="seven ways to handle what erodes the mind mn 2 sabbāsava sutta seven concrete methods for handling what erodes the mind: restraint, use, endurance, avoidance, removal, development. a toolkit, not a theory. meditation">
 <h2><a href="../suttas/mn2-sabbasava-sutta/">Seven Ways to Handle What Erodes the Mind</a></h2>
@@ -284,19 +284,19 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
 <p>A long practice sequence directing remembering to breathing, movement, the body&#x27;s contents and fate, deep unification of mind, resilience, and ten claimed results.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="dwelling in emptiness mn 122 mahāsuññata sutta the buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend. meditation">
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="long" data-search="dwelling in emptiness mn 122 mahāsuññata sutta the buddha&#x27;s own way of dwelling in emptiness. how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend. meditation">
 <h2><a href="../suttas/mn122-mahasunnata-sutta/">Dwelling in Emptiness</a></h2>
 <p class="sutta-card__reference">MN 122 · <span lang="pi">Mahāsuññata Sutta</span></p>
 <p class="sutta-card__meta">Practical · Practice instructions · Long · about 19 min · 3,242 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>The Buddha&#x27;s own way of dwelling in emptiness, how to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.</p>
+<p>The Buddha&#x27;s own way of dwelling in emptiness. How to train toward it when the heart will not go there, and why a teacher who keeps correcting you is a friend.</p>
 </article>
-<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="emptiness, step by step mn 121 cūḷasuññata sutta emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left. meditation">
+<article class="sutta-card" data-topic="meditation" data-difficulty="practical" data-form="practice instructions" data-length="medium" data-search="emptiness, step by step mn 121 cūḷasuññata sutta emptiness, step by step: each time, notice what has dropped away and what remains, until only this living body remains. meditation">
 <h2><a href="../suttas/mn121-culasunnata-sutta/">Emptiness, Step by Step</a></h2>
 <p class="sutta-card__reference">MN 121 · <span lang="pi">Cūḷasuññata Sutta</span></p>
 <p class="sutta-card__meta">Practical · Practice instructions · Medium · about 12 min · 2,069 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Meditation</p>
-<p>Emptiness entered step by step: each time, notice what has dropped away and what remains, until only this living body is left.</p>
+<p>Emptiness, step by step: each time, notice what has dropped away and what remains, until only this living body remains.</p>
 </article>
 <article class="sutta-card" data-topic="ethics and conduct|meditation" data-difficulty="practical" data-form="dialogue" data-length="long" data-search="what does a renunciant gain? dn 2 sāmaññaphala sutta a king asks what a renunciant actually gets out of the life. a full narrative walk through the gradual path from an outsider&#x27;s curious, slightly skeptical point of view. ethics and conduct · meditation">
 <h2><a href="../suttas/dn2-samannaphala-sutta/">What Does a Renunciant Gain?</a></h2>
@@ -375,19 +375,19 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
 <p>The five heaps as a burden, ignorant wanting as picking it up, and its fading as putting it down. The second and third truths in one image.</p>
 </article>
-<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="what the heaps offer, and the way out sn 22.26 assāda sutta before his awakening, the buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out. not-self">
+<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="what the heaps offer, and the way out sn 22.26 assāda sutta before awakening, the buddha asks three things of each of the five heaps: its appeal, its danger, and the way out. not-self">
 <h2><a href="../suttas/sn22-26-assada-sutta/">What the Heaps Offer, and the Way Out</a></h2>
 <p class="sutta-card__reference">SN 22.26 · <span lang="pi">Assāda Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Analysis · Short · about 4 min · 559 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
-<p>Before his awakening, the Buddha asks three questions of each of the five heaps: what it offers, what is wrong with it, and the way out.</p>
+<p>Before awakening, the Buddha asks three things of each of the five heaps: its appeal, its danger, and the way out.</p>
 </article>
-<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether the tathāgata can be pinned down through the five heaps even here and now. not-self">
+<article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="can you pin down the tathāgata? sn 22.86 anurādha sutta anurādha tries to place the tathāgata outside four claims about what happens after death. the buddha asks whether you can pin down the tathāgata through the five heaps even here and now. not-self">
 <h2><a href="../suttas/sn22-86-anuradha-sutta/">Can You Pin Down the Tathāgata?</a></h2>
 <p class="sutta-card__reference">SN 22.86 · <span lang="pi">Anurādha Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Dialogue · Medium · about 7 min · 1,218 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self</p>
-<p>Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether the Tathāgata can be pinned down through the five heaps even here and now.</p>
+<p>Anurādha tries to place the Tathāgata outside four claims about what happens after death. The Buddha asks whether you can pin down the Tathāgata through the five heaps even here and now.</p>
 </article>
 <article class="sutta-card" data-topic="not-self" data-difficulty="intermediate" data-form="dialogue" data-length="medium" data-search="the lingering sense of &#x27;i am&#x27; sn 22.89 khemaka sutta a subtler point: even someone who has genuinely seen not-self can still carry a faint, hard-to-locate sense of &quot;i am.&quot; not-self">
 <h2><a href="../suttas/sn22-89-khemaka-sutta/">The Lingering Sense of &#x27;I Am&#x27;</a></h2>
@@ -424,19 +424,19 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Not-self · Dependent arising</p>
 <p>Two views can take over: clinging to continued becoming, or treating annihilation as peace. The alternative is to see what has come to be without turning it into something permanent.</p>
 </article>
-<article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="how the world arises—and ends sn 12.44 loka sutta how the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear. dependent arising · mind and senses">
+<article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="how the world arises—and ends sn 12.44 loka sutta how the lived world grows through the six senses into wanting, taking experience personally, and dissatisfaction. and how that process ends, without the senses having to disappear. dependent arising · mind and senses">
 <h2><a href="../suttas/sn12-44-loka-sutta/">How the World Arises—and Ends</a></h2>
 <p class="sutta-card__reference">SN 12.44 · <span lang="pi">Loka Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Analysis · Short · about 2 min · 345 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
-<p>How the lived world develops through the six senses into wanting, taking experience personally, and dissatisfaction—and how that process ends without the senses having to disappear.</p>
+<p>How the lived world grows through the six senses into wanting, taking experience personally, and dissatisfaction. And how that process ends, without the senses having to disappear.</p>
 </article>
-<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="body and mind keep changing sn 12.61 assutavā sutta an argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind&#x27;s is not. dependent arising">
+<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="body and mind keep changing sn 12.61 assutavā sutta an argument that runs the opposite way from what you expect. if you must identify with something, the body is the safer choice, because its changes are easy to see and the mind&#x27;s are not. dependent arising">
 <h2><a href="../suttas/sn12-61-assutava-sutta/">Body and Mind Keep Changing</a></h2>
 <p class="sutta-card__reference">SN 12.61 · <span lang="pi">Assutavā Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Teaching · Short · about 5 min · 741 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
-<p>An argument that runs the opposite way from what you expect: if you must identify with something, the body is the safer choice, because its changing is visible and the mind&#x27;s is not.</p>
+<p>An argument that runs the opposite way from what you expect. If you must identify with something, the body is the safer choice, because its changes are easy to see and the mind&#x27;s are not.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="medium" data-search="from dissatisfaction to freedom sn 12.23 upanisa sutta the positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain. dependent arising">
 <h2><a href="../suttas/sn12-23-upanisa-sutta/">From Dissatisfaction to Freedom</a></h2>
@@ -445,12 +445,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>The positive chain, dissatisfaction leading step by step to freedom, mirroring the well-known negative chain.</p>
 </article>
-<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="what keeps a life going sn 12.11 āhāra sutta four things that keep a life going, traced back to wanting and then all the way back along the chain. not to be confused with sn 46.51, which shares its name. dependent arising">
+<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="teaching" data-length="short" data-search="what keeps a life going sn 12.11 āhāra sutta four things that keep a life going, traced back to wanting and then all the way back along the chain. it shares its name with sn 46.51, a different text. dependent arising">
 <h2><a href="../suttas/sn12-11-ahara-sutta/">What Keeps a Life Going</a></h2>
 <p class="sutta-card__reference">SN 12.11 · <span lang="pi">Āhāra Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Teaching · Short · about 4 min · 676 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
-<p>Four things that keep a life going, traced back to wanting and then all the way back along the chain. Not to be confused with SN 46.51, which shares its name.</p>
+<p>Four things that keep a life going, traced back to wanting and then all the way back along the chain. It shares its name with SN 46.51, a different text.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="dependent arising, term by term sn 12.2 paṭiccasamuppāda-vibhaṅga sutta the standard formula of dependent arising, defined term by term. dependent arising">
 <h2><a href="../suttas/sn12-2-paticcasamuppada-vibhanga-sutta/">Dependent Arising, Term by Term</a></h2>
@@ -459,19 +459,19 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
 <p>The standard formula of dependent arising, defined term by term.</p>
 </article>
-<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="discovered, not invented sn 12.20 paccaya sutta dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future. dependent arising">
+<article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="short" data-search="discovered, not invented sn 12.20 paccaya sutta dependent arising as a pattern that holds whether or not anyone discovers it, kept apart from the changing things it runs through. and why someone who sees this stops questioning their own past and future. dependent arising">
 <h2><a href="../suttas/sn12-20-paccaya-sutta/">Discovered, Not Invented</a></h2>
 <p class="sutta-card__reference">SN 12.20 · <span lang="pi">Paccaya Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Analysis · Short · about 4 min · 572 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising</p>
-<p>Dependent arising stated as a pattern that holds whether or not anyone discovers it, kept carefully apart from the changing things the pattern runs through—and why someone who sees this stops interrogating their own past and future.</p>
+<p>Dependent arising as a pattern that holds whether or not anyone discovers it, kept apart from the changing things it runs through. And why someone who sees this stops questioning their own past and future.</p>
 </article>
-<article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula. dependent arising · mind and senses">
+<article class="sutta-card" data-topic="dependent arising|mind and senses" data-difficulty="intermediate" data-form="dialogue" data-length="long" data-search="does the same consciousness continue? mn 38 mahātaṇhāsaṅkhaya sutta a monk holds a wrong view: that the same consciousness travels on unchanged. the buddha corrects it and restates dependent arising as a reasoned story, not a bare formula. dependent arising · mind and senses">
 <h2><a href="../suttas/mn38-mahatanhasankhaya-sutta/">Does the Same Consciousness Continue?</a></h2>
 <p class="sutta-card__reference">MN 38 · <span lang="pi">Mahātaṇhāsaṅkhaya Sutta</span></p>
 <p class="sutta-card__meta">Intermediate · Dialogue · Long · about 31 min · 5,430 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Dependent arising · Mind and senses</p>
-<p>A monk&#x27;s wrong view — that the same consciousness travels on unchanged — gets corrected, and dependent arising gets restated in narrative, argued form rather than as a bare formula.</p>
+<p>A monk holds a wrong view: that the same consciousness travels on unchanged. The Buddha corrects it and restates dependent arising as a reasoned story, not a bare formula.</p>
 </article>
 <article class="sutta-card" data-topic="dependent arising" data-difficulty="intermediate" data-form="analysis" data-length="long" data-search="dependent arising in depth dn 15 mahānidāna sutta the deepest and longest exposition of dependent arising in the set. the capstone of this stage, not an entry point to it. dependent arising">
 <h2><a href="../suttas/dn15-mahanidana-sutta/">Dependent Arising in Depth</a></h2>
@@ -529,12 +529,12 @@ Use one or more filters, or simply browse the complete list below. Every result 
 <p class="sutta-card__topics"><strong>Topics:</strong> Mind and senses</p>
 <p>The five lower fetters, and the companion piece to MN 63 — same disciple, later in his practice.</p>
 </article>
-<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="advanced" data-form="teaching" data-length="medium" data-search="who counts as a genuine practitioner? mn 11 cūḷasīhanāda sutta a claim about who counts as a genuine practitioner, grounded in whether a teaching can account for all four ways of taking things personally — including taking a doctrine of self personally. ethics and conduct">
+<article class="sutta-card" data-topic="ethics and conduct" data-difficulty="advanced" data-form="teaching" data-length="medium" data-search="who counts as a genuine practitioner? mn 11 cūḷasīhanāda sutta who counts as a genuine practitioner? the answer turns on whether a teaching can account for all four ways of taking things personally, including taking a doctrine of self personally. ethics and conduct">
 <h2><a href="../suttas/mn11-culasihanada-sutta/">Who Counts as a Genuine Practitioner?</a></h2>
 <p class="sutta-card__reference">MN 11 · <span lang="pi">Cūḷasīhanāda Sutta</span></p>
 <p class="sutta-card__meta">Advanced · Teaching · Medium · about 11 min · 1,845 words</p>
 <p class="sutta-card__topics"><strong>Topics:</strong> Ethics and conduct</p>
-<p>A claim about who counts as a genuine practitioner, grounded in whether a teaching can account for all four ways of taking things personally — including taking a doctrine of self personally.</p>
+<p>Who counts as a genuine practitioner? The answer turns on whether a teaching can account for all four ways of taking things personally, including taking a doctrine of self personally.</p>
 </article>
 <article class="sutta-card" data-topic="mind and senses" data-difficulty="advanced" data-form="analysis" data-length="medium" data-search="the six fields of experience mn 137 saḷāyatanavibhaṅga sutta a technical analysis of the six fields of experience. mind and senses">
 <h2><a href="../suttas/mn137-salayatanavibhanga-sutta/">The Six Fields of Experience</a></h2>

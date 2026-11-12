@@ -1,149 +1,147 @@
 # About this translation
 
-These are Early Buddhist discourses translated into clear, common contemporary
-English. What makes this edition unusual is not the wording of any single
-sentence but the machinery underneath it.
+These are early Buddhist discourses in clear, everyday English. What makes this
+edition unusual is not any single sentence. It is the system underneath.
 
 ## One word, one meaning
 
-Most translations of this material are made a passage at a time. A translator
-meets a Pali word, chooses an English one that fits the sentence in front of
-them, and moves on. Do that across a few hundred pages and the same Pali term
-quietly acquires four or five English faces, none of them wrong, none of them
-quite the same.
+Most translators work one passage at a time. They meet a Pali word, choose an
+English word that fits that sentence, and move on. Over a few hundred pages,
+one Pali term can end up with four or five English faces. None is wrong, but
+none is quite the same.
 
-This project fixes the rendering first. Every term that carries weight has a
-record: a preferred English rendering, the alternatives that are allowed and
-where, the renderings that are ruled out, and the reason. When a text uses that
-term, the translation uses that rendering. If a passage genuinely needs
-something different, the exception is written down and the reason is part of
-the record.
+This project fixes the rendering first. Every important term has a record. The
+record gives the preferred English, the allowed alternatives and where they
+apply, the renderings we rule out, and the reason. When a text uses the term,
+the translation uses that rendering. If a passage truly needs something
+different, we write down the exception and the reason.
 
-There are currently well over a thousand such records.
+There are now more than a thousand of these records.
 
 ## Formulas stay formulas
 
-These texts repeat themselves, and the repetition is not padding. They were
-memorised and recited before they were written, and a phrase that recurs is
-usually doing structural work — it is the same move, made again, and a reader
-is meant to notice.
+These texts repeat themselves, and the repetition is not padding. People
+memorised and recited them before anyone wrote them down. A phrase that comes
+back usually does structural work: it is the same move, made again, and the
+text wants you to notice.
 
-So recurring formulas are translated once and reused, rather than re-solved
-each time they appear. Where a stock line shows up in eight discourses, it
-reads the same way in all eight.
+So we translate each recurring formula once and reuse it. When a stock line
+appears in eight discourses, it reads the same way in all eight.
 
-The repetition inside a single text is also kept. It can feel unfamiliar if you
-are used to translations that trim it, but reading a few pages usually settles
-that: the rhythm is part of how the material works.
+We also keep the repetition inside each text. It can feel strange if you
+usually read translations that trim it. After a few pages, most readers find
+that the rhythm is part of how the teaching works.
 
 ## The reasons are written down
 
-Every translation on this site has a companion document in the repository
-recording what was decided and why — which renderings were chosen, which were
-rejected, what was ambiguous, and what was deliberately left unresolved.
+Every translation on this site has a companion document in the repository. It
+records what we decided and why: which renderings we chose, which we rejected,
+what was ambiguous, and what we left open on purpose.
 
-That last category matters. Where the Pali is genuinely unclear, or where a
-later tradition settled a question the text itself leaves open, the translation
+That last part matters. Sometimes the Pali is truly unclear, or a later
+tradition settled a question that the text leaves open. Then the translation
 does not quietly pick a side. It renders what is there and records the
 question.
 
-## Checks, not vigilance
+## Checks, not memory
 
-Consistency across a corpus this size is not something anyone can hold in their
-head. So it is checked automatically: a suite of scripts verifies that
-renderings match their records, that governed formulas have not drifted, that
-cited sources actually contain the passages they are cited for, and that the
-English has not slid back into the ceremonial register these translations
-deliberately avoid.
+Nobody can hold the consistency of a collection this size in their head. So
+scripts check it automatically. They confirm that renderings match their
+records and that shared formulas have not drifted. They confirm that each
+source we cite contains the passage we cite it for. They also check that the
+English has not slipped back into the stiff, ceremonial style these
+translations avoid.
 
-Those checks have repeatedly caught real mistakes — including several where the
-translation was right and the underlying record was wrong.
+These checks have caught real mistakes many times. In several cases the
+translation was right and the record behind it was wrong.
 
-## The reader is generated, not maintained
+## The reader is generated, not hand-copied
 
-The pages you are reading are not separate copies of the translations. Each one
-is generated from the governed source text, so a correction made in the
-editorial layer appears here without anyone remembering to copy it across.
-Structured newcomer guidance is kept separately from the governed translation,
-and legacy orienting notes are preserved when the reader is regenerated.
+The pages you read here are not separate copies of the translations. A program
+builds each page from the governed source text. So when an editor corrects the
+source, the correction appears here without anyone copying it by hand. The
+newcomer guides live apart from the translations, and the program keeps them
+when it rebuilds the pages.
 
-This is deliberate. A reading edition that drifts from its own source is worse
-than no reading edition.
+We do this on purpose. A reading edition that drifts away from its own source
+is worse than no reading edition.
 
 ## Source and corrections
 
-The Pali text is checked against the Chaṭṭha Saṅgāyana Tipiṭaka of the
-Vipassana Research Institute, used with thanks under its terms for
-non-commercial use. Every sutta page names the book its text comes from and
-links to that edition and to the repository's companion translation notes.
+We check the Pali against the Chaṭṭha Saṅgāyana Tipiṭaka of the Vipassana
+Research Institute. We use it, with thanks, under its terms for non-commercial
+use. Every sutta page names the book its text comes from. It links to that
+edition and to the translation notes in the repository.
 
-Translations published before 10 November 2026 were drafted against
+We drafted the translations published before 10 November 2026 against
 SuttaCentral's Mahāsaṅgīti edition. The project no longer uses SuttaCentral's
 texts, in line with the use requests in their publication records.
 
-Every published page has passed the automated governance, source,
-structure, and readability checks. Human read-aloud and newcomer reviews are
-recorded when they happen, but they are optional and are not shown as a page
+Every published page has passed the automated checks for terms, sources,
+structure, and readability. We record human read-aloud and newcomer reviews
+when they happen. They are optional, and the pages do not show them as a
 status.
 
-Each page also shows when its text was last revised and a short body-version
-identifier. If something looks wrong, use its **Report a problem** link so the
-exact sutta is named in the issue.
+Each page shows when its text last changed and a short version code. If
+something looks wrong, use the page's **Report a problem** link, so your report
+names the exact sutta.
 
-The translations on this site are licensed under
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/): you may
-share and adapt them for non-commercial use, with credit, under the same
-license. The site's code is under the MIT License. See the repository's
+The translations on this site carry the
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+You may share and adapt them for non-commercial use, with credit, under the
+same license. The site's code is under the MIT License. See the repository's
 [content license](https://github.com/timedrapery/shiny-adventure/blob/main/LICENSE-CONTENT.md)
 for details.
 
 ## Plain English, on purpose
 
-The English aims to be direct and readily understandable. Not
+The English aims to be direct and easy to take in. Not
 *"one abides contemplating the body as a body, ardent, clearly comprehending"*,
-but something a reader can take in at ordinary reading speed.
+but something you can read at ordinary speed.
 
-That is not a simplification of the content. Several of these texts are
-genuinely difficult, and the translation does not pretend otherwise. It only
-declines to add a second difficulty on top of the first.
+That does not simplify the content. Several of these texts are truly difficult,
+and the translation does not pretend otherwise. It only refuses to add a second
+difficulty on top of the first.
 
-Where a word is doing technical work, it is glossed rather than smoothed away.
-Open the words-used panel on any sutta, or see the [glossary](glossary.md).
-These definitions do not depend on hovering or using a mouse.
+When a word does technical work, we explain it instead of smoothing it away.
+Open the words-used panel on any sutta, or see the [glossary](glossary.md). You
+do not need to hover or use a mouse to read these definitions.
 
 ## Reader feedback
 
 On some pages you can tell the editors where the reading got hard. A small
-"Give feedback" control follows each passage, the words-used panel asks
-whether an explanation helped, and a short optional review at the end of the
-page asks what you took from it. None of this needs an account, any knowledge
-of Pali, or a suggested rewording.
+"Give feedback" control follows each passage. The words-used panel asks whether
+an explanation helped. A short, optional review at the end of the page asks
+what you took from it. You do not need an account, any Pali, or a better
+wording to suggest.
 
-What happens to it:
+What happens to your feedback:
 
-- It goes to a private queue read only by the translation's editors.
-- It is used to find wording and explanations that readers stumble on, and to
-  decide what to revise. Recurring problems with the same word across several
-  texts inform the shared term decisions.
-- It is stored with the exact passage you saw and the version of the text at
-  that time, so a later revision can be checked against it.
-- It is not published, it is not posted to the public repository, and it never
-  changes a translation by itself. An editor reads it, decides, and records why.
-- No name, email address, or account is asked for. What is sent is what you
-  type, the page and passage, and the time. It is collected through a Google
-  Form that the editors run, which is subject to Google's own handling of
-  form responses, and it is copied into the editors' private queue and
-  removed from the form once reviewed. If you take part in a facilitated
-  session, your responses carry the anonymous label the facilitator gave
-  you, so that one session's answers can be told apart.
+- It goes to a private queue that only the translation's editors read.
+- The editors use it to find wording and explanations that readers stumble on,
+  and to decide what to revise. When readers stumble on the same word in
+  several texts, that shapes the shared term decisions.
+- The system stores it with the exact passage you saw and the version of the
+  text at that time. That lets the editors check a later revision against it.
+- Nobody publishes it or posts it to the public repository, and it never
+  changes a translation by itself. An editor reads it, decides, and records
+  why.
+- Nobody asks for your name, email address, or an account. The system sends
+  what you type, the page and passage, and the time. It goes through a Google
+  Form that the editors run, and Google's own rules for form responses apply.
+  The editors copy it into their private queue and delete it from the form
+  after review.
+- If you take part in a session with a facilitator, your answers carry the
+  anonymous label the facilitator gave you. That keeps one person's answers
+  apart from another's.
 
-Public feedback is not counted as a formal review. Formal reviews with
-newcomers are run in sessions with a facilitator and recorded separately.
+Public feedback does not count as a formal review. Formal newcomer reviews
+happen in sessions with a facilitator, and the editors record them separately.
 
 ## Reading it yourself
 
-If you want the editorial layer — the term records, the translation notes, the
-checks, the reasoning — it is all public:
+The editorial layer is all public: the term records, the translation notes, the
+checks, and the reasoning.
 
 [github.com/timedrapery/shiny-adventure](https://github.com/timedrapery/shiny-adventure)
 

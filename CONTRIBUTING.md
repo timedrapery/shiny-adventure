@@ -42,7 +42,7 @@ If you are changing review status on a major entry, also read [docs/review-statu
 - Script or validation change: read [docs/development-guide.md](docs/development-guide.md), keep behavior deterministic, and add or update tests in `tests/`.
 - Documentation change: keep wording explicit and repository-native, and update cross-links when changing workflow guidance.
 - Candidate intake change: update both [candidates/README.md](candidates/README.md) and [docs/candidate-term-workflow.md](docs/candidate-term-workflow.md) if the contributor-facing workflow changes.
-- Documentation and term changes should use modern common English unless a narrow technical exception is documented.
+- Write documentation and term changes in modern common English, unless a documented technical exception applies.
 
 ## Contribution Types
 
@@ -55,7 +55,7 @@ Typical contributions include:
 
 ## Editorial Expectations
 
-- Preserve existing doctrinal decisions unless a change is explicitly justified within the repository's authority order.
+- Preserve existing doctrinal decisions unless you justify the change within the repository's authority order.
 - Do not replace a preferred translation simply because another English gloss is common elsewhere.
 - Use `notes`, `context_rules`, and `translation_policy` to make important decisions explicit.
 - When editing a major term, review linked compounds, formulas, and related terms in the same family.
@@ -165,7 +165,7 @@ Pull requests should state:
 
 - what changed
 - why the change was necessary
-- whether any preferred translation, context rule, or doctrinal family was affected
+- whether the change affects any preferred translation, context rule, or doctrinal family
 - whether validation was run locally
 - what references or authority basis support the change, if applicable
 

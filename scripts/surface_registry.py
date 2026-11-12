@@ -654,9 +654,9 @@ STAGES: tuple[tuple[int, str, str], ...] = (
     (
         1,
         "Before Any Doctrine",
-        "Texts that set the tone before anything technical shows up: why to "
-        "trust this material at all, why some questions get deliberately left "
-        "unanswered, and who was actually asking these questions.",
+        "Texts that set the tone before anything technical. Why trust "
+        "this material at all? Why do some questions stay unanswered on "
+        "purpose? And who was asking them?",
     ),
     (
         2,
@@ -765,10 +765,10 @@ READER_METADATA: dict[str, ReaderMeta] = {
     # Stage 2 -- The Basic Diagnosis and the Path
     "sn56_11": ReaderMeta(
         "Dhammacakkappavattana Sutta", 2, 1,
-        "The first sermon: the four noble truths and the eightfold path stated "
-        "directly. Foundational, but reads better once Stage 1 has set the "
-        "frame — taken cold, its formulaic structure can feel like a list to "
-        "memorize rather than a diagnosis to recognize.",
+        "The first sermon: the four noble truths and the eightfold path, "
+        "stated directly. It is foundational, but it reads better after "
+        "Stage 1 sets the frame. Taken cold, its formulas can feel like a"
+        " list to memorize, not a diagnosis to recognize.",
         reader_title="The First Teaching",
     ),
     "sn56_17": ReaderMeta(
@@ -792,9 +792,9 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "an3_88": ReaderMeta(
         "Tatiyasikkhā Sutta", 2, 5,
-        "More than 150 monastic rules gathered into three trainings—conduct, "
-        "the mind, and discernment. Minor mistakes can be repaired, and even "
-        "partial training still bears fruit.",
+        "More than 150 monastic rules, gathered into three trainings: "
+        "conduct, the mind, and discernment. You can repair minor "
+        "mistakes, and even partial training still bears fruit.",
         reader_title="Three Trainings Cover Everything",
     ),
     "sn36_6": ReaderMeta(
@@ -818,9 +818,9 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "an8_39": ReaderMeta(
         "Abhisanda Sutta", 2, 9,
-        "Keeping the five precepts described from the other side: every being "
-        "who might have been harmed is given freedom from fear, and the "
-        "person who gave it comes to share in it.",
+        "The five precepts seen from the other side. Keeping them gives "
+        "every being you might have harmed freedom from fear, and you "
+        "come to share in that freedom.",
         reader_title="Eight Streams of Benefit",
     ),
     "mn7": ReaderMeta(
@@ -849,9 +849,9 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "an3_69": ReaderMeta(
         "Akusalamūla Sutta", 2, 14,
-        "Greed, aversion, and delusion are traced from their roots to their "
-        "effects on action, speech, power, and the heart—then contrasted with "
-        "non-greed, non-aversion, and clarity.",
+        "The text traces greed, aversion, and delusion from their roots "
+        "to their effects on action, speech, power, and the heart. Then "
+        "it contrasts them with non-greed, non-aversion, and clarity.",
         reader_title="What Drives Harm—and What Ends It",
     ),
     "an4_5": ReaderMeta(
@@ -868,17 +868,16 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "an4_113": ReaderMeta(
         "Patoda Sutta", 2, 17,
-        "Four kinds of horses, four kinds of people, and what it actually takes "
-        "to be moved to practice. A jolt of urgency after three fairly calm "
-        "texts.",
+        "Four kinds of horses, four kinds of people, and what it takes to"
+        " move someone to practice. A jolt of urgency after three fairly "
+        "calm texts.",
         reader_title="Four Horses",
     ),
     "sn55_5": ReaderMeta(
         "Dutiyasāriputta Sutta", 2, 18,
-        "What actually leads to the path, in four steps that are ordinary "
-        "enough to follow: find good company, hear the teaching, attend to it "
-        "carefully, then practise in line with it. The first item is social, "
-        "not inward.",
+        "What leads to the path, in four ordinary steps: find good "
+        "company, hear the teaching, attend to it carefully, then "
+        "practise in line with it. The first step is social, not inward.",
         reader_title="Four Steps That Lead to the Path",
     ),
     "an11_9": ReaderMeta(
@@ -923,11 +922,11 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "mn61": ReaderMeta(
         "Ambalaṭṭhikarāhulovāda Sutta", 3, 3,
-        "The Buddha teaches his own son Rāhula, using a water vessel emptied "
-        "and turned upside down, then a war elephant, to make the case that "
-        "someone who feels no shame lying has nothing left to hold them back. "
-        "From there: a nine-part checklist for examining any action of body, "
-        "speech, or mind before, during, and after doing it.",
+        "The Buddha teaches his son Rāhula with a water vessel, emptied "
+        "and turned upside down, and then a war elephant. His point: "
+        "someone who feels no shame in lying has nothing left to hold "
+        "them back. Then comes a nine-part check for any action of body, "
+        "speech, or mind, before, during, and after it.",
         reader_title="The Water Vessel",
     ),
     "mn2": ReaderMeta(
@@ -968,15 +967,15 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "mn122": ReaderMeta(
         "Mahāsuññata Sutta", 3, 9,
-        "The Buddha's own way of dwelling in emptiness, how to train toward "
-        "it when the heart will not go there, and why a teacher who keeps "
-        "correcting you is a friend.",
+        "The Buddha's own way of dwelling in emptiness. How to train "
+        "toward it when the heart will not go there, and why a teacher "
+        "who keeps correcting you is a friend.",
         reader_title="Dwelling in Emptiness",
     ),
     "mn121": ReaderMeta(
         "Cūḷasuññata Sutta", 3, 10,
-        "Emptiness entered step by step: each time, notice what has dropped "
-        "away and what remains, until only this living body is left.",
+        "Emptiness, step by step: each time, notice what has dropped away"
+        " and what remains, until only this living body remains.",
         reader_title="Emptiness, Step by Step",
     ),
     "dn2": ReaderMeta(
@@ -1049,15 +1048,15 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "sn22_26": ReaderMeta(
         "Assāda Sutta", 4, 5,
-        "Before his awakening, the Buddha asks three questions of each of the "
-        "five heaps: what it offers, what is wrong with it, and the way out.",
+        "Before awakening, the Buddha asks three things of each of the "
+        "five heaps: its appeal, its danger, and the way out.",
         reader_title="What the Heaps Offer, and the Way Out",
     ),
     "sn22_86": ReaderMeta(
         "Anurādha Sutta", 4, 6,
-        "Anurādha tries to place the Tathāgata outside four claims about what "
-        "happens after death. The Buddha asks whether the Tathāgata can be "
-        "pinned down through the five heaps even here and now.",
+        "Anurādha tries to place the Tathāgata outside four claims about "
+        "what happens after death. The Buddha asks whether you can pin "
+        "down the Tathāgata through the five heaps even here and now.",
         reader_title="Can You Pin Down the Tathāgata?",
     ),
     "sn22_89": ReaderMeta(
@@ -1095,16 +1094,16 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "sn12_44": ReaderMeta(
         "Loka Sutta", 4, 12,
-        "How the lived world develops through the six senses into wanting, "
-        "taking experience personally, and dissatisfaction—and how that "
-        "process ends without the senses having to disappear.",
+        "How the lived world grows through the six senses into wanting, "
+        "taking experience personally, and dissatisfaction. And how that "
+        "process ends, without the senses having to disappear.",
         reader_title="How the World Arises—and Ends",
     ),
     "sn12_61": ReaderMeta(
         "Assutavā Sutta", 4, 13,
-        "An argument that runs the opposite way from what you expect: if you "
-        "must identify with something, the body is the safer choice, because "
-        "its changing is visible and the mind's is not.",
+        "An argument that runs the opposite way from what you expect. If "
+        "you must identify with something, the body is the safer choice, "
+        "because its changes are easy to see and the mind's are not.",
         reader_title="Body and Mind Keep Changing",
     ),
     "sn12_23": ReaderMeta(
@@ -1115,9 +1114,9 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "sn12_11": ReaderMeta(
         "Āhāra Sutta", 4, 15,
-        "Four things that keep a life going, traced back to wanting and then "
-        "all the way back along the chain. Not to be confused with SN 46.51, "
-        "which shares its name.",
+        "Four things that keep a life going, traced back to wanting and "
+        "then all the way back along the chain. It shares its name with "
+        "SN 46.51, a different text.",
         reader_title="What Keeps a Life Going",
     ),
     "sn12_2": ReaderMeta(
@@ -1127,17 +1126,17 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "sn12_20": ReaderMeta(
         "Paccaya Sutta", 4, 17,
-        "Dependent arising stated as a pattern that holds whether or not "
-        "anyone discovers it, kept carefully apart from the changing things "
-        "the pattern runs through—and why someone who sees this stops "
-        "interrogating their own past and future.",
+        "Dependent arising as a pattern that holds whether or not anyone "
+        "discovers it, kept apart from the changing things it runs "
+        "through. And why someone who sees this stops questioning their "
+        "own past and future.",
         reader_title="Discovered, Not Invented",
     ),
     "mn38": ReaderMeta(
         "Mahātaṇhāsaṅkhaya Sutta", 4, 18,
-        "A monk's wrong view — that the same consciousness travels on "
-        "unchanged — gets corrected, and dependent arising gets restated in "
-        "narrative, argued form rather than as a bare formula.",
+        "A monk holds a wrong view: that the same consciousness travels "
+        "on unchanged. The Buddha corrects it and restates dependent "
+        "arising as a reasoned story, not a bare formula.",
         reader_title="Does the Same Consciousness Continue?",
     ),
     "dn15": ReaderMeta(
@@ -1197,9 +1196,10 @@ READER_METADATA: dict[str, ReaderMeta] = {
     ),
     "mn11": ReaderMeta(
         "Cūḷasīhanāda Sutta", 5, 7,
-        "A claim about who counts as a genuine practitioner, grounded in "
-        "whether a teaching can account for all four ways of taking things "
-        "personally — including taking a doctrine of self personally.",
+        "Who counts as a genuine practitioner? The answer turns on "
+        "whether a teaching can account for all four ways of taking "
+        "things personally, including taking a doctrine of self "
+        "personally.",
         reader_title="Who Counts as a Genuine Practitioner?",
     ),
     "mn137": ReaderMeta(

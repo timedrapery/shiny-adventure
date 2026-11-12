@@ -2,11 +2,11 @@
 
 Early Buddhist discourses in plain, contemporary English.
 
-All 80 translations in this collection are readable here. Each one is backed by a governed Pali lexicon, so a term that matters is translated the same way every time it appears, and every translation decision has a written reason behind it. See [About this translation](about.md) for what that means in practice.
+All 80 translations in this collection are readable here. Each one rests on a governed Pali lexicon. A term that matters reads the same way every time it appears, and every translation decision has a written reason. See [About this translation](about.md) for what that means in practice.
 
 ## Start with one short teaching
 
-No Pali and no Buddhist background are required. Start with a human question rather than a vocabulary lesson.
+You need no Pali and no Buddhist background. Start with a human question rather than a vocabulary lesson.
 
 [Read **Good Friendship Is the Whole Path** — about 2 minutes](suttas/sn45-2-upaddha-sutta.md){ .md-button .md-button--primary }
 
@@ -71,4 +71,4 @@ About 14 minutes total:
 
 The translations use clear, common English. Each page gives a reading time and a short orientation before the governed translation. Where a word is doing technical work, open the words-used panel for a plain-English definition. Some browsers also show the same note when you point to a marked word.
 
-Repetition has been kept where the texts repeat. These were spoken and memorised, and the repeating is part of how they work.
+Where the texts repeat, the translations repeat too. People spoke and memorised these texts, and the repetition is part of how they work.

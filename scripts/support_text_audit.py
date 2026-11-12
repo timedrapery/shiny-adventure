@@ -46,7 +46,8 @@ INSTRUCTION_FIELDS = {"question", "reading_cue"}
 GUIDE_TEXT_FIELDS = ("scene", "question", "main_point", "reading_cue", "not_saying")
 
 QUOTED = re.compile(r"“[^”]*”|\"[^\"]*\"")
-SENTENCE_END = re.compile(r"(?:(?<=[.!?])|(?<=[.!?][\"”’']))\s+(?=[\"“‘'(]?[A-Z])")
+# A capital may carry a Pali diacritic (Ānanda, Ñāṇa, Ṭhāna).
+SENTENCE_END = re.compile(r"(?:(?<=[.!?])|(?<=[.!?][\"”’']))\s+(?=[\"“‘'(]?[A-ZĀĪŪṬḌṆÑṄṂḶṢŚ])")
 PASSIVE = re.compile(
     r"\b(?:is|are|was|were|be|been|being)\s+(?:not\s+)?(?:\w+ly\s+)?"
     r"(?:\w+ed|known|seen|given|taken|done|made|said|told|born|shown|held|kept|"
@@ -102,14 +103,35 @@ def relative(path: Path) -> str:
         return path.as_posix()
 
 
-def audit_intro(path: Path) -> list[Finding]:
-    text = re.sub(r"<!--.*?-->", "", path.read_text(encoding="utf-8"), flags=re.S)
-    findings: list[Finding] = []
+LIST_ITEM = re.compile(r"^\s*(?:[-*+]|\d+\.)\s+")
+
+
+def prose_blocks(text: str) -> list[tuple[str, str]]:
+    """(location, text) for each prose paragraph and list item in Markdown.
+
+    Comments, fenced code, indented code, headings, tables, and HTML are not
+    prose and are skipped. Each list item is checked on its own.
+    """
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.S)
+    text = re.sub(r"^(```|~~~).*?^\1[^\n]*$", "", text, flags=re.S | re.M)
+    blocks: list[tuple[str, str]] = []
     for number, paragraph in enumerate((p for p in re.split(r"\n\s*\n", text) if p.strip()), start=1):
-        if paragraph.lstrip().startswith(("#", "-", "|", ">")):
+        first = paragraph.lstrip()
+        if first.startswith(("#", "|", "<", "    ")) or paragraph.startswith(("    ", "\t")):
             continue
-        findings += check_block(relative(path), f"paragraph {number}", paragraph,
-                                DESCRIPTION_LIMIT, INTRO_PARAGRAPH_LIMIT)
+        if LIST_ITEM.match(paragraph):
+            items = re.split(r"\n(?=\s*(?:[-*+]|\d+\.)\s+)", paragraph)
+            for index, item in enumerate(items, start=1):
+                blocks.append((f"paragraph {number}, item {index}", LIST_ITEM.sub("", item, count=1)))
+            continue
+        blocks.append((f"paragraph {number}", re.sub(r"^>\s?", "", paragraph, flags=re.M)))
+    return blocks
+
+
+def audit_intro(path: Path) -> list[Finding]:
+    findings: list[Finding] = []
+    for location, block in prose_blocks(path.read_text(encoding="utf-8")):
+        findings += check_block(relative(path), location, block, DESCRIPTION_LIMIT, INTRO_PARAGRAPH_LIMIT)
     return findings
 
 
