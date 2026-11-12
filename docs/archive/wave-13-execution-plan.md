@@ -134,7 +134,7 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+Read this plan, the short [active roadmap](../translation-roadmap.md),
 and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: Dhp 179–196, Snp 1.8, AN 8.41, AN 8.54, and MN 113 are all
 published. The next step is a fresh audit for the next wave.

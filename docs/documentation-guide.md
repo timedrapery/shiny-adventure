@@ -94,8 +94,8 @@ do not override live term records or normative policy docs.
 ### Work With Translation Surfaces
 
 - [`translations/translation-documents.md`](translations/translation-documents.md): index of shareable translation pairs
-- [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next leverage-driven sutta translation passes
-- [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
+- [`translation-roadmap.md`](translation-roadmap.md): which suttas to translate next, how to choose them, and what is done
+- [`archive/translation-roadmap-history.md`](archive/translation-roadmap-history.md): the full audit history of earlier waves
 - [`wave-13-execution-plan.md`](archive/wave-13-execution-plan.md): Wave 13 queue, validation gates, and restart procedure (complete)
 - [`wave-12-execution-plan.md`](archive/wave-12-execution-plan.md), [`wave-11-execution-plan.md`](archive/wave-11-execution-plan.md), [`wave-10-execution-plan.md`](archive/wave-10-execution-plan.md), and [`wave-9-execution-plan.md`](archive/wave-9-execution-plan.md): superseded records of completed waves, kept for their source findings
 - [`first-wave-sutta-translation-prep.md`](first-wave-sutta-translation-prep.md): operational prep packet for completed first-wave translation surfaces
@@ -138,8 +138,8 @@ do not override live term records or normative policy docs.
 - [`candidate-term-workflow.md`](candidate-term-workflow.md): intake and review flow for proposed terms
 - [`translation-workflow-plan.md`](translation-workflow-plan.md): current editorial sequencing and roadmap
 - [`wave-13-execution-plan.md`](archive/wave-13-execution-plan.md): the last wave plan, kept as the model for the next one
-- [`next-suttas-roadmap.md`](next-suttas-roadmap.md): full ranked roadmap for the next translation-document additions
-- [`next-sutta-translation-roadmap.md`](next-sutta-translation-roadmap.md): short active-queue view extracted from the full roadmap
+- [`translation-roadmap.md`](translation-roadmap.md): which suttas to translate next, how to choose them, and what is done
+- [`archive/translation-roadmap-history.md`](archive/translation-roadmap-history.md): the full audit history of earlier waves
 - [`expansion-batch-001.md`](archive/expansion-batch-001.md): concrete expansion batch reference
 - [`lexicon-expansion-plan-500.md`](lexicon-expansion-plan-500.md): larger-scale planning note
 

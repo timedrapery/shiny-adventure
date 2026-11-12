@@ -27,7 +27,7 @@ reader is produced from them.
    register standard's working method, the traps in the tooling, and the
    lexical decisions deliberately deferred. Read before touching a translation
    surface.
-3. **[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)** —
+3. **[translation-roadmap.md](translation-roadmap.md)** —
    the completed-surface list and the translation queue.
 
 Then confirm the working copy is healthy:
@@ -202,7 +202,7 @@ its five cited phrases are already demonstrated by `MN 10`, and two are wrong.
 
 Full reasoning, the verified translation order behind the sweep, and a note on
 what the ranking script can and cannot see are in
-[next-suttas-roadmap.md](next-suttas-roadmap.md).
+[the roadmap history](archive/translation-roadmap-history.md).
 
 ```bash
 python scripts/audit_surface_leverage.py
@@ -566,7 +566,7 @@ absent, unfetched, or unsupported matches.
 ### Phase 1: Translation Surface Expansion
 
 - Extend `docs/translations/` where the existing cluster policy can already support clean governed text work.
-- Use the [Wave 13 execution plan](archive/wave-13-execution-plan.md) as the current source of truth, [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) as the short active-queue view, and [next-suttas-roadmap.md](next-suttas-roadmap.md) for historical audit reasoning.
+- Use the [Wave 13 execution plan](archive/wave-13-execution-plan.md) as the current source of truth, [translation-roadmap.md](translation-roadmap.md) as the short active-queue view, and [the roadmap history](archive/translation-roadmap-history.md) for historical audit reasoning.
 - Use [first-wave-sutta-translation-prep.md](first-wave-sutta-translation-prep.md) as the completed first-wave operational packet, and use [asava-method-sequence-sheet.md](asava-method-sequence-sheet.md) when revising the completed `MN 2` outflow surface.
 - Waves 1 through 8 and the direct-request additions were complete at 55
   surfaces. All four items from the 2026-08-25 Wave 9 audit—SN 45.8,

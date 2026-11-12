@@ -5,8 +5,8 @@
 This prep packet records the completed first-wave surfaces and the reference
 controls they provide for later translation work.
 
-Use it together with [next-suttas-roadmap.md](next-suttas-roadmap.md) for the
-full ranking logic and [next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md)
+Use it together with [the roadmap history](archive/translation-roadmap-history.md) for the
+full ranking logic and [translation-roadmap.md](translation-roadmap.md)
 for the short queue.
 
 ## Current Status
@@ -21,7 +21,7 @@ Completed:
 
 Remaining active order:
 
-- None. Wave 1 is complete; use [next-suttas-roadmap.md](next-suttas-roadmap.md)
+- None. Wave 1 is complete; use [the roadmap history](archive/translation-roadmap-history.md)
   for Wave 2.
 
 Operational note:

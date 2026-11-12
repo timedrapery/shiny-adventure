@@ -209,7 +209,7 @@ git status --short
 python scripts/repo_health.py
 ```
 
-Read this plan, the short [active roadmap](../next-sutta-translation-roadmap.md),
+Read this plan, the short [active roadmap](../translation-roadmap.md),
 and the [translation workflow](../translation-workflow-plan.md). The first
 queue is finished: AN 3.136, AN 5.14, Dhp 273–289, AN 6.19, and MN 121 are
 all published, and the emptiness-cluster citation pass went in with MN 121.

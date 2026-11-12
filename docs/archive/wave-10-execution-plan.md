@@ -179,7 +179,7 @@ python scripts/repo_health.py
 ```
 
 Read this plan, the short
-[active roadmap](../next-sutta-translation-roadmap.md), and the
+[active roadmap](../translation-roadmap.md), and the
 [translation workflow](../translation-workflow-plan.md). There is no unfinished
 queue item; run the audit described under
 [Running the next audit](#running-the-next-audit) first. Then create a

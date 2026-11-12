@@ -125,7 +125,7 @@ source-audit calls, and edition notes that govern it.
   no `sutta_references` at all. This surface anchors `animitta` and
   `suññatā` but does not reach them; they need citations written, not a
   further translation. See the Wave 7 entry in
-  [next-suttas-roadmap.md](../next-suttas-roadmap.md).
+  [the roadmap history](../archive/translation-roadmap-history.md).
 - `appanihita` is not used in MN 43. The wishless member of the interface is
   governed but this surface does not exercise it, so the emptiness cluster is
   anchored by two of its three headwords rather than all three.

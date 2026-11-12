@@ -1,4 +1,7 @@
-# Next Suttas Roadmap
+# Translation Roadmap History
+
+This is the archived audit history of the translation roadmap, kept as
+written. The current roadmap is [translation-roadmap.md](../translation-roadmap.md).
 
 ## Purpose
 
@@ -15,12 +18,12 @@ point is to choose texts that:
 
 ## Audit Basis
 
-This ranking was made when the repository had 36 translation surfaces; it now has 80,
+This ranking was made when the repository had 36 translation surfaces; it had 80 when this history was archived on 2026-11-12,
 and the historical figure is kept because the ranking below was
 computed against that state. All fifteen entries in the original ranked
 roadmap are complete. Later waves and direct-request surfaces, including MN
 131 and SN 22.86, are tracked in
-[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md). The
+[translation-roadmap.md](../translation-roadmap.md). The
 next gains come from doctrinal families that are now well-governed in the
 lexicon but thin in outward-facing translation documents.
 
@@ -35,7 +38,7 @@ corrections to the method, both recorded under Ranked Roadmap (Wave 7).
 
 Wave 9 was audited on 2026-08-25 against the 55-surface, 1,155-term state and
 is complete. The fresh 75-surface audit and reproducible restart procedure
-live in the [Wave 13 execution plan](archive/wave-13-execution-plan.md). That current
+live in the [Wave 13 execution plan](wave-13-execution-plan.md). That current
 plan supersedes the historical numerical queues below without erasing their
 audit record.
 
@@ -136,8 +139,8 @@ process, five heaps, four noble truths, and sense-fields.
   with a text where they are the subject, and write `sutta_references` for the
   ten supporting compounds.
 - Status: translated 2026-08-20. See
-  [MN 43](translations/mn43-mahavedalla-sutta.md) and its
-  [translation notes](translations/mn43-mahavedalla-sutta-notes.md). The
+  [MN 43](../translations/mn43-mahavedalla-sutta.md) and its
+  [translation notes](../translations/mn43-mahavedalla-sutta-notes.md). The
   cluster moved from 13/13 dark to 11/13: `animitta` and `appanihita` are now
   anchored, and `sunnata` still is not, exactly as predicted. The remaining
   eleven dark terms are the single `sunnata` orphan plus the ten uncited
@@ -160,8 +163,8 @@ process, five heaps, four noble truths, and sense-fields.
 - Likely lexicon pressure: whether `chanda` holds `desire` once it heads a
   wholesome path factor rather than sitting beside the sensuality family.
 - Status: translated 2026-08-20. See
-  [SN 51.13](translations/sn51-13-chandasamadhi-sutta.md) and its
-  [translation notes](translations/sn51-13-chandasamadhi-sutta-notes.md).
+  [SN 51.13](../translations/sn51-13-chandasamadhi-sutta.md) and its
+  [translation notes](../translations/sn51-13-chandasamadhi-sutta-notes.md).
   `chanda` held `desire` without needing a context rule: what makes
   `kamacchanda` a hindrance is the sensuality, not the desiring, so the
   headword survives contact with a wholesome path factor unchanged. All three
@@ -557,8 +560,8 @@ volume.
   headword default once it governs a text where the four nutriments are the
   subject rather than a simile; and record the relationship between the
   headword default and the `SN 46.51` local override explicitly.
-- Status: translated. See [SN 12.11](translations/sn12-11-ahara-sutta.md) and
-  its [translation notes](translations/sn12-11-ahara-sutta-notes.md).
+- Status: translated. See [SN 12.11](../translations/sn12-11-ahara-sutta.md) and
+  its [translation notes](../translations/sn12-11-ahara-sutta-notes.md).
   `nutriment` did survive as the headword default. The notes flag that
   `dukkhakkhandha` is ungoverned and rendered inconsistently between SN 12.2
   and SN 12.15, and that the fourfold source question is a candidate for a
@@ -577,8 +580,8 @@ volume.
   attainment terms stay in Pali or take English renderings, since they are
   currently governed as a family but never exercised.
 - Status: translated. See
-  [SN 55.5](translations/sn55-5-dutiyasariputta-sutta.md) and its
-  [translation notes](translations/sn55-5-dutiyasariputta-sutta-notes.md).
+  [SN 55.5](../translations/sn55-5-dutiyasariputta-sutta.md) and its
+  [translation notes](../translations/sn55-5-dutiyasariputta-sutta-notes.md).
   Correction to the leverage signal above: SN 55.5 anchors two majors, not
   five. `sakadagami`, `anagami`, and `phala` cite this sutta for Pali that is
   not in it. The discourse covers only the four stream-entry factors, the
@@ -597,8 +600,8 @@ volume.
   consequence-language; and confirm how `cetana` reads when it is defining
   kamma rather than sitting in the dependent-arising chain.
 - Status: translated. See
-  [AN 6.63](translations/an6-63-nibbedhika-sutta.md) and its
-  [translation notes](translations/an6-63-nibbedhika-sutta-notes.md).
+  [AN 6.63](../translations/an6-63-nibbedhika-sutta.md) and its
+  [translation notes](../translations/an6-63-nibbedhika-sutta-notes.md).
   Correction to the leverage signal above: this discourse does not anchor
   `phala` or `papa`. It uses `vipaka` throughout and never `phala`, and
   contains no `pap` at all. That claim came from a mis-sourced citation, since
@@ -616,8 +619,8 @@ volume.
 - Likely lexicon pressure: stabilize the four-line formula as one governed
   block so it is not re-solved locally in each surface that quotes it.
 - Status: translated. See
-  [SN 12.61](translations/sn12-61-assutava-sutta.md) and its
-  [translation notes](translations/sn12-61-assutava-sutta-notes.md).
+  [SN 12.61](../translations/sn12-61-assutava-sutta.md) and its
+  [translation notes](../translations/sn12-61-assutava-sutta-notes.md).
   Correction to the leverage signal above: `idappaccayata` does not occur in
   SN 12.61 at all. The four formula records do, and that is what this surface
   anchors.
@@ -634,8 +637,8 @@ volume.
 - Likely lexicon pressure: confirm the four-fold `upadana` enumeration as a
   formula record.
 - Status: translated. See
-  [MN 11](translations/mn11-culasihanada-sutta.md) and its
-  [translation notes](translations/mn11-culasihanada-sutta-notes.md). The
+  [MN 11](../translations/mn11-culasihanada-sutta.md) and its
+  [translation notes](../translations/mn11-culasihanada-sutta-notes.md). The
   enumeration exposed that the four `upadana` compounds are not consistent with
   each other: two render the head as `taking ... personally` and two as
   `clinging`. That is recorded as the main open lexical question coming out of
@@ -1004,8 +1007,8 @@ cited*. Check the citations before reading the ranking as a translation queue.
   as a formula record; and keep the simile from being read as
   anti-intellectual rather than practice-orienting.
 - Status: translated. See
-  [MN 63](translations/mn63-culamalukya-sutta.md) and its
-  [translation notes](translations/mn63-culamalukya-sutta-notes.md). The
+  [MN 63](../translations/mn63-culamalukya-sutta.md) and its
+  [translation notes](../translations/mn63-culamalukya-sutta-notes.md). The
   notes flag that the source text lists ten propositions, not fourteen, and
   that `avyākata`, `jīva`, and `sarīra` still need formal minor entries.
 
@@ -1028,7 +1031,7 @@ notes below.)
    arrow simile
 
 All four surfaces are now translated; see
-[next-sutta-translation-roadmap.md](next-sutta-translation-roadmap.md) for the
+[translation-roadmap.md](../translation-roadmap.md) for the
 completed-surfaces list and the next wave.
 
 ## Why This Order

@@ -230,7 +230,7 @@ def render_table(report: dict[str, int]) -> str:
         "",
         "Use the [Wave 13 execution plan](../archive/wave-13-execution-plan.md) for the",
         "active queue, validation, and handoff gates, and the",
-        "[full roadmap](../next-suttas-roadmap.md) for historical method notes.",
+        "[roadmap history](../archive/translation-roadmap-history.md) for historical method notes.",
         "",
         "| Queue | Sutta | Pali length | Orphan major | Reader and policy value |",
         "| ---: | --- | ---: | --- | --- |",

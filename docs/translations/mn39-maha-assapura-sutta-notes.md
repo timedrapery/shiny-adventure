@@ -13,7 +13,7 @@ translation choices, source-audit calls, and edition notes that govern it.
   ottappa`, `indriya`, `nivarana`, `sati`, `sampajanna`, `jhana`, `jhayati`,
   `piti`, `upekkha`, `asava`, `citta`, `vedana`, `panna`, and `samadhi`.
 - Working method: the discourse was governed as the next strategic surface
-  per `docs/next-sutta-translation-roadmap.md`, extending the jhāna
+  per `docs/translation-roadmap.md`, extending the jhāna
   progression and hindrance-clearing surfaces from DN 2 and SN 46.51 into
   a full ascending-practice arc with the five similes and three higher
   knowledges.
