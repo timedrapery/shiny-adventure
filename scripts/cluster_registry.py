@@ -39,7 +39,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/abandonment_sequence_cluster_report.py",
         test_relpaths=(
             "tests/test_abandonment_sequence_cluster_report.py",
-            "tests/test_abandonment_sequence_policy.py",
         ),
     ),
     ClusterSurface(
@@ -49,7 +48,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/bondage_imagery_cluster_report.py",
         test_relpaths=(
             "tests/test_bondage_imagery_cluster_report.py",
-            "tests/test_bondage_imagery_policy.py",
         ),
     ),
     ClusterSurface(
@@ -59,7 +57,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/bondage_residue_cluster_report.py",
         test_relpaths=(
             "tests/test_bondage_residue_cluster_report.py",
-            "tests/test_bondage_residue_policy.py",
         ),
     ),
     ClusterSurface(
@@ -69,7 +66,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/consummation_interface_cluster_report.py",
         test_relpaths=(
             "tests/test_consummation_interface_cluster_report.py",
-            "tests/test_consummation_interface_policy.py",
         ),
     ),
     ClusterSurface(
@@ -79,7 +75,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/craving_appropriation_cluster_report.py",
         test_relpaths=(
             "tests/test_craving_appropriation_cluster_report.py",
-            "tests/test_craving_appropriation_policy.py",
         ),
     ),
     ClusterSurface(
@@ -89,7 +84,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/crossing_release_interface_cluster_report.py",
         test_relpaths=(
             "tests/test_crossing_release_interface_cluster_report.py",
-            "tests/test_crossing_release_interface_policy.py",
         ),
     ),
     ClusterSurface(
@@ -108,7 +102,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/emptiness_signless_wishless_cluster_report.py",
         test_relpaths=(
             "tests/test_emptiness_signless_wishless_cluster_report.py",
-            "tests/test_emptiness_signless_wishless_policy.py",
         ),
     ),
     ClusterSurface(
@@ -118,7 +111,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/experience_process_cluster_report.py",
         test_relpaths=(
             "tests/test_experience_process_cluster_report.py",
-            "tests/test_experience_process_policy.py",
         ),
     ),
     ClusterSurface(
@@ -137,8 +129,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/four_noble_truths_cluster_report.py",
         test_relpaths=(
             "tests/test_four_noble_truths_cluster_report.py",
-            "tests/test_four_noble_truths_practice_policy.py",
-            "tests/test_dukkha_nirodha_scope_policy.py",
         ),
     ),
     ClusterSurface(
@@ -148,7 +138,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/identity_construction_cluster_report.py",
         test_relpaths=(
             "tests/test_identity_construction_cluster_report.py",
-            "tests/test_identity_construction_policy.py",
         ),
     ),
     ClusterSurface(
@@ -167,7 +156,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/kama_cluster_report.py",
         test_relpaths=(
             "tests/test_kama_cluster_report.py",
-            "tests/test_kama_policy.py",
         ),
     ),
     ClusterSurface(
@@ -177,7 +165,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/knowledge_cluster_report.py",
         test_relpaths=(
             "tests/test_knowledge_cluster_report.py",
-            "tests/test_knowledge_policy.py",
         ),
     ),
     ClusterSurface(
@@ -187,7 +174,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/osf_reconciliation_report.py",
         test_relpaths=(
             "tests/test_osf_reconciliation_report.py",
-            "tests/test_osf_reconciliation_policy.py",
         ),
     ),
     ClusterSurface(
@@ -197,7 +183,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/path_factor_cluster_report.py",
         test_relpaths=(
             "tests/test_path_factor_cluster_report.py",
-            "tests/test_path_factor_core_loop_policy.py",
         ),
     ),
     ClusterSurface(
@@ -207,7 +192,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/practice_text_surface_report.py",
         test_relpaths=(
             "tests/test_practice_text_surface_report.py",
-            "tests/test_practice_text_policy.py",
         ),
     ),
     ClusterSurface(
@@ -217,7 +201,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/sensory_response_surface_report.py",
         test_relpaths=(
             "tests/test_sensory_response_surface_report.py",
-            "tests/test_sensory_response_policy.py",
         ),
     ),
     ClusterSurface(
@@ -245,7 +228,6 @@ CLUSTER_SURFACES: tuple[ClusterSurface, ...] = (
         script_relpath="scripts/verbal_knowing_cluster_report.py",
         test_relpaths=(
             "tests/test_verbal_knowing_cluster_report.py",
-            "tests/test_verbal_knowing_policy.py",
         ),
     ),
 )
