@@ -65,6 +65,16 @@ class FileTests(unittest.TestCase):
             path.write_text(f"<!-- {words(40)}. -->\n\n# {words(40)}\n\nA short line.\n", encoding="utf-8")
             self.assertEqual(audit.audit([path]), [])
 
+    def test_markdown_list_items_are_checked_and_code_is_skipped(self) -> None:
+        with tempfile.TemporaryDirectory() as tmp:
+            path = Path(tmp) / "README.md"
+            path.write_text(
+                f"```bash\n{words(40)}\n```\n\n- Short item.\n- {words(30)}.\n\n    {words(40)}\n",
+                encoding="utf-8",
+            )
+            [finding] = audit.audit([path])
+        self.assertEqual((finding.location, finding.rule), ("paragraph 1, item 2", "long sentence"))
+
     def test_glossary_definitions_are_checked_by_term(self) -> None:
         with tempfile.TemporaryDirectory() as tmp:
             path = Path(tmp) / "glossary.md"
