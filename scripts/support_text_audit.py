@@ -46,7 +46,8 @@ INSTRUCTION_FIELDS = {"question", "reading_cue"}
 GUIDE_TEXT_FIELDS = ("scene", "question", "main_point", "reading_cue", "not_saying")
 
 QUOTED = re.compile(r"“[^”]*”|\"[^\"]*\"")
-SENTENCE_END = re.compile(r"(?:(?<=[.!?])|(?<=[.!?][\"”’']))\s+(?=[\"“‘'(]?[A-Z])")
+# A capital may carry a Pali diacritic (Ānanda, Ñāṇa, Ṭhāna).
+SENTENCE_END = re.compile(r"(?:(?<=[.!?])|(?<=[.!?][\"”’']))\s+(?=[\"“‘'(]?[A-ZĀĪŪṬḌṆÑṄṂḶṢŚ])")
 PASSIVE = re.compile(
     r"\b(?:is|are|was|were|be|been|being)\s+(?:not\s+)?(?:\w+ly\s+)?"
     r"(?:\w+ed|known|seen|given|taken|done|made|said|told|born|shown|held|kept|"

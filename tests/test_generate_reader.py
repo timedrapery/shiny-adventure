@@ -208,7 +208,7 @@ class CorpusCountTests(unittest.TestCase):
         home = reader.render_home()
         self.assertIn(reader.display_title(quick), home)
         self.assertIn(f"about {minutes} minutes", home)
-        self.assertIn("No Pali and no Buddhist background are required", home)
+        self.assertIn("You need no Pali and no Buddhist background", home)
 
     def test_start_here_lists_first_twelve_in_order(self) -> None:
         text = reader.render_start_here()

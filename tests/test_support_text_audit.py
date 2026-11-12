@@ -24,6 +24,9 @@ class SentenceRulesTests(unittest.TestCase):
             ["One idea here.", '"A quote."', "Another one?"],
         )
 
+    def test_a_sentence_may_start_with_a_pali_capital(self) -> None:
+        self.assertEqual(audit.split_sentences("He asks. Ānanda answers."), ["He asks.", "Ānanda answers."])
+
     def test_quoted_text_does_not_count_toward_length(self) -> None:
         sentence = f'It says "{words(30)}" plainly.'
         self.assertEqual(audit.counted_words(sentence), 3)

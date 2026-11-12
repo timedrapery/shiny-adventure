@@ -770,14 +770,14 @@ def render_home() -> str:
         "Early Buddhist discourses in plain, contemporary English.",
         "",
         f"All {total} translations in this collection are readable here. Each "
-        "one is backed by a governed Pali lexicon, so a term that matters is "
-        "translated the same way every time it appears, and every translation "
-        "decision has a written reason behind it. See "
+        "one rests on a governed Pali lexicon. A term that matters reads the "
+        "same way every time it appears, and every translation decision has a "
+        "written reason. See "
         "[About this translation](about.md) for what that means in practice.",
         "",
         "## Start with one short teaching",
         "",
-        "No Pali and no Buddhist background are required. Start with a human "
+        "You need no Pali and no Buddhist background. Start with a human "
         "question rather than a vocabulary lesson.",
         "",
         f"[Read **{display_title(quick)}** — about {quick_minutes} minutes]"
@@ -843,8 +843,8 @@ def render_home() -> str:
         "English definition. Some browsers also show the same note when you "
         "point to a marked word.",
         "",
-        "Repetition has been kept where the texts repeat. These were spoken "
-        "and memorised, and the repeating is part of how they work.",
+        "Where the texts repeat, the translations repeat too. People spoke and "
+        "memorised these texts, and the repetition is part of how they work.",
     ])
     return "\n".join(lines).rstrip() + "\n"
 
@@ -861,7 +861,7 @@ def render_start_here() -> str:
         "translation next does the most to strengthen the lexicon. This page "
         "ranks the same texts by a different question: if you have never read "
         "early Buddhist material, what order actually makes sense? The two "
-        "orderings often disagree, and that is expected.",
+        "orderings often disagree, and that is fine.",
         "",
         "Every text below is readable on this site.",
         "",
@@ -916,9 +916,10 @@ def render_start_here() -> str:
     lines.extend([
         "## If you only read five",
         "",
-        f"{names}. Together they introduce how to test a teaching, which "
-        "questions help practice, the basic diagnosis and path, the difference "
-        "between pain and added suffering, and the examination of self.",
+        f"{names}. Together they show how to test a teaching and which "
+        "questions help practice. They also give the basic diagnosis and path, "
+        "the difference between pain and added suffering, and a close look at "
+        "what we call self.",
     ])
     return "\n".join(lines).rstrip() + "\n"
 
