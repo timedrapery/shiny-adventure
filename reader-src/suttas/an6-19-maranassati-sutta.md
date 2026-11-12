@@ -158,7 +158,7 @@ The ninth discourse is finished.
 <dt><dfn>recollection of death</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;maraṇassati&quot; -- keeping in mind that death can come at any time, so as not to put off the work of practice.</dd>
 <dt><dfn>wearing away</dfn></dt>
-<dd>The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.</dd>
+<dd>The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.</dd>
 </dl>
 </details>
 
@@ -189,4 +189,4 @@ The ninth discourse is finished.
 *[deathless]: A name for nibbāna: what does not die, because it was never born.
 *[outflows]: This project's rendering of "āsavā" -- deep-running habits that keep seeping out and driving behaviour, classically sensuality, becoming, and ignorance. Often translated "taints" or "defilements."
 *[recollection of death]: This project's rendering of "maraṇassati" -- keeping in mind that death can come at any time, so as not to put off the work of practice.
-*[wearing away]: The gradual using-up of something until it is exhausted and finished -- used especially of what has to run out before there is release.
+*[wearing away]: The gradual using-up of something until it runs out completely. The texts use it especially for what has to run out before release.

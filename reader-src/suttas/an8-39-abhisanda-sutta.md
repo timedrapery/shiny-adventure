@@ -134,17 +134,17 @@ The ninth discourse is finished.
 <dt><dfn>noble disciple</dfn></dt>
 <dd>Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.</dd>
 <dt><dfn>recluses</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;samaṇa&quot; -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.</dd>
+<dd>This project&#x27;s rendering of &quot;samaṇa&quot;: people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.</dd>
 <dt><dfn>refuge</dfn></dt>
-<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.</dd>
+<dd>Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.</dd>
 <dt><dfn>Saṅgha</dfn></dt>
-<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.</dd>
+<dd>The community of the Buddha&#x27;s disciples. In traditional recollection formulas, as in AN 11.12, it means especially those who have entered and realized the path, not everyone who calls themselves Buddhist.</dd>
 <dt><dfn>stream of benefit</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puññābhisanda&quot; -- benefit flowing in, the way water flows into a low place. &quot;Benefit&quot; is the house rendering of &quot;puñña&quot;, more often translated &quot;merit&quot;.</dd>
 <dt><dfn>streams of benefit</dfn></dt>
 <dd>This project&#x27;s rendering of &quot;puññābhisanda&quot; -- benefit flowing in, the way water flows into a low place. &quot;Benefit&quot; is the house rendering of &quot;puñña&quot;, more often translated &quot;merit&quot;.</dd>
 <dt><dfn>wholesome</dfn></dt>
-<dd>This project&#x27;s rendering of &quot;kusala&quot; -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.</dd>
+<dd>This project&#x27;s rendering of &quot;kusala&quot;. Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.</dd>
 </dl>
 </details>
 
@@ -173,9 +173,9 @@ The ninth discourse is finished.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
 *[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
 *[noble disciple]: Someone who has had the breakthrough into the path and so is no longer merely an ordinary person. It does not mean noble by birth, and does not require being a monastic.
-*[recluses]: This project's rendering of "samaṇa" -- people who have left ordinary working life to practise full time, in any of the traditions of the period, not only this one.
-*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person marks that they are taking this path seriously; it is not a conversion ritual.
-*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it particularly means disciples who have entered and realized the path, not merely everyone who identifies as Buddhist.
+*[recluses]: This project's rendering of "samaṇa": people who left ordinary working life to practise full time. They belonged to any of the traditions of the period, not only this one.
+*[refuge]: Where someone turns for safety and direction. Going for refuge to the Buddha, the Dhamma, and the Saṅgha is how a person shows they take this path seriously. It is not a conversion ritual.
+*[Saṅgha]: The community of the Buddha's disciples. In traditional recollection formulas, as in AN 11.12, it means especially those who have entered and realized the path, not everyone who calls themselves Buddhist.
 *[stream of benefit]: This project's rendering of "puññābhisanda" -- benefit flowing in, the way water flows into a low place. "Benefit" is the house rendering of "puñña", more often translated "merit".
 *[streams of benefit]: This project's rendering of "puññābhisanda" -- benefit flowing in, the way water flows into a low place. "Benefit" is the house rendering of "puñña", more often translated "merit".
-*[wholesome]: This project's rendering of "kusala" -- roughly, mentally and ethically healthy: blameless, leads to well-being, and is praised by people with good judgment.
+*[wholesome]: This project's rendering of "kusala". Roughly: mentally and ethically healthy. It is blameless, leads to well-being, and people with good judgment praise it.

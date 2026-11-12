@@ -121,7 +121,7 @@ The second chapter, on heedfulness, is finished.
 <dt><dfn>Dhamma</dfn></dt>
 <dd>The Buddha&#x27;s teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.</dd>
 <dt><dfn>flood</dfn></dt>
-<dd>A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.</dd>
+<dd>A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.</dd>
 <dt><dfn>heedful</dfn></dt>
 <dd>Living with heedfulness: awake to what you are doing and keeping up the effort.</dd>
 <dt><dfn>heedfulness</dfn></dt>
@@ -161,7 +161,7 @@ The second chapter, on heedfulness, is finished.
 *[bhikkhu]: A Buddhist monk -- someone who has left household life to practise full time. Left untranslated because "monk" carries centuries of unrelated European associations.
 *[deathless]: A name for nibbāna: what does not die, because it was never born.
 *[Dhamma]: The Buddha's teaching taken as a whole -- both what he taught and the way things actually are, which the teaching describes.
-*[flood]: A force that overwhelms and carries a person along unless it is crossed. SN 1.1 leaves the image open rather than defining it as one specific mental state.
+*[flood]: A force that overwhelms a person and carries them along unless they cross it. SN 1.1 leaves the image open; it does not define it as one specific mental state.
 *[heedful]: Living with heedfulness: awake to what you are doing and keeping up the effort.
 *[heedfulness]: This project's rendering of "appamāda" -- staying awake to what you are doing, keeping up the effort, and coming back when attention slips. Often translated "diligence" or "vigilance."
 *[heedlessness]: The opposite of heedfulness: drifting, letting things slide, not noticing what the mind is doing.
