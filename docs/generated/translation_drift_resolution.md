@@ -53,5 +53,5 @@ Generated: 2026-04-20
 - `python scripts/check_translation_drift.py --strict`
 - `python scripts/check_generated_docs.py`
 - `python scripts/check_translation_formula_consistency.py --format json`
-- `python -m unittest tests.test_craving_appropriation_policy tests.test_validate_terms tests.test_check_translation_drift`
+- `python -m unittest tests.test_term_policy_pins tests.test_validate_terms tests.test_check_translation_drift`
 - `python -m unittest tests.test_validate_terms tests.test_check_translation_drift`

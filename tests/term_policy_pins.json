@@ -1,0 +1,506 @@
+[
+  {"group": "abandonment_sequence", "rule": "target defaults are distinct",
+   "terms": {
+     "major/pariyutthana": {"preferred_translation": "manifestation"},
+     "major/pahana": {"preferred_translation": "abandoning"},
+     "major/viraga": {"preferred_translation": "fading"},
+     "major/vossagga": {"preferred_translation": "relinquishment"},
+     "major/nirodha": {"preferred_translation": "quenching"},
+     "major/khaya": {"preferred_translation": "wearing away"}
+   }},
+  {"group": "abandonment_sequence", "rule": "nirodha stays distinct from khaya",
+   "terms": {
+     "major/nirodha": {"discouraged_translations includes": ["wearing away"]},
+     "major/khaya": {"discouraged_translations includes": ["cessation"]}
+   }},
+  {"group": "abandonment_sequence", "rule": "pahana and vossagga do not collapse",
+   "terms": {
+     "major/pahana": {"discouraged_translations includes": ["release"]},
+     "major/vossagga": {"discouraged_translations includes": ["abandonment"]}
+   }},
+  {"group": "abandonment_sequence", "rule": "formula records preserve sequence distinctions",
+   "terms": {
+     "minor/asesa-viraga-nirodha": {"preferred_translation": "complete fading and quenching"},
+     "minor/asavakkhaya": {"preferred_translation": "the wearing away of the outflows"}
+   }},
+  {"group": "bondage_imagery", "rule": "ogha yoga gantha have distinct defaults",
+   "terms": {
+     "major/ogha": {"preferred_translation": "flood"},
+     "major/yoga": {"preferred_translation": "yoke"},
+     "major/gantha": {"preferred_translation": "knot"}
+   }},
+  {"group": "bondage_imagery", "rule": "ogha and yoga block generic bondage drift",
+   "terms": {
+     "major/ogha": {"discouraged_translations includes": ["bondage", "obstacle"]},
+     "major/yoga": {"discouraged_translations includes": ["bondage", "fetter", "exercise"]}
+   }},
+  {"group": "bondage_imagery", "rule": "yoga family alignment is explicit",
+   "terms": {
+     "major/yoga": {"preferred_translation": "yoke"},
+     "minor/kamayoga": {"preferred_translation": "sensual yoke"},
+     "minor/yogakkhema": {"preferred_translation": "security from the yoke"}
+   }},
+  {"group": "bondage_imagery", "rule": "ogha family alignment is explicit",
+   "terms": {
+     "major/ogha": {"preferred_translation": "flood"},
+     "minor/kamogha": {"preferred_translation": "sensual flood"}
+   }},
+  {"group": "bondage_imagery", "rule": "gantha family alignment is explicit",
+   "terms": {
+     "major/gantha": {"preferred_translation": "knot"},
+     "minor/kayagantha": {"preferred_translation": "bodily knot"},
+     "minor/abhijjha-kayagantha": {"preferred_translation": "bodily knot of coveting"}
+   }},
+  {"group": "bondage_imagery", "rule": "imagery family cross cluster links are explicit",
+   "terms": {
+     "major/ogha": {"related_terms includes": ["asava"]},
+     "major/yoga": {"related_terms includes": ["samyojana"]},
+     "major/gantha": {"related_terms includes": ["anusaya"]}
+   }},
+  {"group": "bondage_residue", "rule": "asava and anusaya are distinct",
+   "terms": {
+     "major/asava": {"preferred_translation": "outflow", "discouraged_translations includes": ["defilement"]},
+     "major/anusaya": {"preferred_translation": "underlying tendency", "discouraged_translations includes": ["habit"]}
+   }},
+  {"group": "bondage_residue", "rule": "anusaya and samyojana are distinct",
+   "terms": {
+     "major/anusaya": {"preferred_translation": "underlying tendency"},
+     "major/samyojana": {"preferred_translation": "fetter", "discouraged_translations includes": ["attachment"]}
+   }},
+  {"group": "bondage_residue", "rule": "samyojana and nivarana are distinct",
+   "terms": {
+     "major/samyojana": {"preferred_translation": "fetter"},
+     "major/nivarana": {"preferred_translation": "hindrance"},
+     "minor/panca-nivarana": {"preferred_translation": "five hindrances"}
+   }},
+  {"group": "bondage_residue", "rule": "kilesa stays broader than specific bondage families",
+   "terms": {
+     "major/kilesa": {"preferred_translation": "defilement", "discouraged_translations includes": ["hindrance", "fetter"]}
+   }},
+  {"group": "bondage_residue", "rule": "anapanasati practice clarification stays guarded",
+   "terms": {
+     "major/anapanasati": {"notes includes": ["mano can be explained as the thinking mind", "citta is the heart", "counter or displace active hindrances", "not treat that as identical to the final wearing away of outflows"]}
+   }},
+  {"group": "consummation_interface", "rule": "target defaults are distinct",
+   "terms": {
+     "major/nibbana": {"preferred_translation": "nibbāna"},
+     "major/amata": {"preferred_translation": "deathless"},
+     "major/asankhata": {"preferred_translation": "unconditioned"},
+     "major/santi": {"preferred_translation": "peace"},
+     "major/nibbuta": {"preferred_translation": "cooled"},
+     "major/parinibbana": {"preferred_translation": "final nibbāna"}
+   }},
+  {"group": "consummation_interface", "rule": "nibbana and vimutti do not collapse",
+   "terms": {
+     "major/nibbana": {"discouraged_translations includes": ["mere cessation"]},
+     "major/vimutti": {"related_terms includes": ["nibbana"]}
+   }},
+  {"group": "consummation_interface", "rule": "amata and asankhata stay distinct",
+   "terms": {
+     "major/amata": {"discouraged_translations includes": ["nibbāna"]},
+     "major/asankhata": {"discouraged_translations includes": ["nibbāna"]}
+   }},
+  {"group": "consummation_interface", "rule": "santi stays distinct from passaddhi",
+   "terms": {
+     "major/santi": {"discouraged_translations includes": ["relaxation"]},
+     "minor/upasama": {"preferred_translation": "calming"}
+   }},
+  {"group": "consummation_interface", "rule": "nibbuta stays distinct from nibbana",
+   "terms": {
+     "major/nibbuta": {"discouraged_translations includes": ["nibbāna"], "preferred_translation includes": ["cooled"]}
+   }},
+  {"group": "consummation_interface", "rule": "supporting compounds are governed",
+   "terms": {
+     "minor/amatapada": {"preferred_translation": "path to the deathless"},
+     "minor/asankhata-dhatu": {"preferred_translation": "unconditioned element"},
+     "minor/nibbana-dhatu": {"preferred_translation": "nibbāna element"}
+   }},
+  {"group": "craving_appropriation", "rule": "target headwords have expected defaults",
+   "terms": {
+     "major/upadana": {"preferred_translation": "taking personally"},
+     "major/tanha": {"preferred_translation": "ignorant wanting"},
+     "major/chanda": {"preferred_translation": "desire"},
+     "major/raga": {"preferred_translation": "passion"},
+     "major/nandi": {"preferred_translation": "relishing"}
+   }},
+  {"group": "craving_appropriation", "rule": "chanda is not collapsed into tanha",
+   "terms": {
+     "major/chanda": {"discouraged_translations includes": ["craving"], "notes includes": ["broader than taṇhā"]},
+     "major/tanha": {"discouraged_translations includes": ["desire"], "alternative_translations includes": ["excitement about getting things"]}
+   }},
+  {"group": "craving_appropriation", "rule": "upadana is not left as vague attachment",
+   "terms": {
+     "major/upadana": {"discouraged_translations includes": ["attachment"]},
+     "minor/tanhapaccaya-upadana": {"preferred_translation": "with ignorant wanting as condition, taking personally", "translation_policy.when_not_to_apply includes": ["generic attachment language"]}
+   }},
+  {"group": "craving_appropriation", "rule": "raga and nandi do not collapse into generic pleasure or desire",
+   "terms": {
+     "major/raga": {"discouraged_translations includes": ["desire"]},
+     "major/nandi": {"discouraged_translations includes": ["pleasure"]},
+     "minor/nandiraga-sahagata": {"preferred_translation": "accompanied by relishing and passion"}
+   }},
+  {"group": "craving_appropriation", "rule": "upadana heap override stays stable",
+   "terms": {
+     "minor/upadanakkhandha": {"preferred_translation": "clung-to heap"},
+     "minor/pancupadanakkhandha": {"preferred_translation": "five clung-to heaps"}
+   }},
+  {"group": "crossing_release_interface", "rule": "target defaults are distinct",
+   "terms": {
+     "major/nissarana": {"preferred_translation": "escape"},
+     "major/vimutti": {"preferred_translation": "release"},
+     "major/mutti": {"preferred_translation": "freedom"},
+     "major/tarati": {"preferred_translation": "crosses over"},
+     "major/tinna": {"preferred_translation": "crossed over"}
+   }},
+  {"group": "crossing_release_interface", "rule": "nissarana and vimutti do not collapse",
+   "terms": {
+     "major/nissarana": {"discouraged_translations includes": ["release"]},
+     "major/vimutti": {"discouraged_translations includes": ["escape"]}
+   }},
+  {"group": "crossing_release_interface", "rule": "vimutti and mutti do not drift into uncontrolled synonymy",
+   "terms": {
+     "major/vimutti": {"discouraged_translations includes": ["freedom"]},
+     "major/mutti": {"alternative_translations includes": ["release"]}
+   }},
+  {"group": "crossing_release_interface", "rule": "tarati and tinna preserve process result distinction",
+   "terms": {
+     "major/tarati": {"discouraged_translations includes": ["is liberated"]},
+     "major/tinna": {"discouraged_translations includes": ["liberated"]}
+   }},
+  {"group": "crossing_release_interface", "rule": "yogakkhema stays linked to yoga",
+   "terms": {
+     "minor/yogakkhema": {"preferred_translation": "security from the yoke", "related_terms includes": ["yoga"], "discouraged_translations includes": ["freedom"]}
+   }},
+  {"group": "crossing_release_interface", "rule": "crossing formulas keep imagery explicit",
+   "terms": {
+     "minor/ogham-atari": {"preferred_translation": "crossed over the flood"},
+     "minor/tinno-parangato": {"preferred_translation": "crossed over, gone to the far shore"}
+   }},
+  {"group": "dukkha_nirodha_scope", "rule": "dukkha and nirodha notes encode sn 22 86 scope",
+   "terms": {
+     "major/dukkha": {"preferred_translation": "dissatisfaction", "notes includes": ["SN 22.86", "dissatisfaction and how it ends"]},
+     "major/nirodha": {"preferred_translation": "quenching", "notes includes": ["SN 22.86"]}
+   }},
+  {"group": "dukkha_nirodha_scope", "rule": "ariyasacca notes treat dukkha nirodha as governing scope",
+   "terms": {
+     "major/ariyasacca": {"preferred_translation": "noble truth", "notes includes": ["SN 22.86", "dukkha / dukkha-nirodha scope"]}
+   }},
+  {"group": "emptiness_signless_wishless", "rule": "animitta and appanihita are promoted major headwords",
+   "terms": {
+     "major/animitta": {"entry_type": "major", "status": "stable"},
+     "major/appanihita": {"entry_type": "major", "status": "stable"}
+   }},
+  {"group": "emptiness_signless_wishless", "rule": "sunnata stays distinct from anatta and nibbana",
+   "terms": {
+     "major/sunnata": {"preferred_translation": "emptiness", "discouraged_translations includes": ["nothingness"], "alternative_translations includes": ["emptiness of self and what belongs to self"], "related_terms includes": ["animitta", "appanihita"]}
+   }},
+  {"group": "emptiness_signless_wishless", "rule": "animitta and appanihita have distinct defaults",
+   "terms": {
+     "major/animitta": {"preferred_translation": "signless", "discouraged_translations includes": ["formless"]},
+     "major/appanihita": {"preferred_translation": "wishless", "discouraged_translations includes": ["no goals"]}
+   }},
+  {"group": "emptiness_signless_wishless", "rule": "appanihita blocks passive no goals drift",
+   "terms": {
+     "major/appanihita": {"alternative_translations includes": ["without placing desire", "desireless"], "discouraged_translations includes": ["apathetic"]}
+   }},
+  {"group": "emptiness_signless_wishless", "rule": "support compounds preserve family defaults",
+   "terms": {
+     "minor/animitta-vimokkha": {"preferred_translation": "signless release"},
+     "minor/appanihita-vimokkha": {"preferred_translation": "wishless release"},
+     "minor/vimokkhamukha": {"related_terms includes": ["animitta", "appanihita", "sunnata"]}
+   }},
+  {"group": "experience_process", "rule": "headword defaults are governed",
+   "terms": {
+     "major/phassa": {"preferred_translation": "contact"},
+     "major/vedana": {"preferred_translation": "felt experience"},
+     "major/sanna": {"preferred_translation": "recognition"},
+     "major/cetana": {"preferred_translation": "intention"},
+     "major/vinnana": {"preferred_translation": "knowing"}
+   }},
+  {"group": "experience_process", "rule": "phassa is not left as touch or sensation",
+   "terms": {
+     "major/phassa": {"discouraged_translations includes": ["sensation", "encounter"], "translation_policy.when_not_to_apply includes": ["bodily touch"]}
+   }},
+  {"group": "experience_process", "rule": "vedana is not flattened into emotion or mood",
+   "terms": {
+     "major/vedana": {"discouraged_translations includes": ["emotion", "mood"], "translation_policy.default_scope includes": ["felt experience"], "definition includes": ["mixed"]},
+     "minor/adukkhamasukha-vedana": {"preferred_translation": "mixed feeling"}
+   }},
+  {"group": "experience_process", "rule": "sanna is not flattened into thought or concept",
+   "terms": {
+     "major/sanna": {"discouraged_translations includes": ["thought", "concept", "memory"]}
+   }},
+  {"group": "experience_process", "rule": "cetana is not treated as desire or willpower",
+   "terms": {
+     "major/cetana": {"discouraged_translations includes": ["desire", "willpower"]},
+     "major/manosancetana-ahara": {"preferred_translation": "mental-intention nutriment"}
+   }},
+  {"group": "experience_process", "rule": "vinnana is not left open to self or awareness metaphysics",
+   "terms": {
+     "major/vinnana": {"discouraged_translations includes": ["self", "soul", "pure awareness"], "translation_policy.default_scope includes": ["knowing"]}
+   }},
+  {"group": "experience_process", "rule": "formula record preserves phassa vedana distinction",
+   "terms": {
+     "minor/phassapaccaya-vedana": {"preferred_translation": "with contact as condition, felt experience", "translation_policy.when_not_to_apply includes": ["emotion"]}
+   }},
+  {"group": "four_noble_truths_practice", "rule": "ariyasacca notes allow correct noble practice cycle",
+   "terms": {
+     "major/ariyasacca": {"preferred_translation": "noble truth", "alternative_translations includes": ["truth of the buddha"], "notes includes": ["correct noble practice"], "context_rules.notes mention": ["wake up"]}
+   }},
+  {"group": "four_noble_truths_practice", "rule": "dukkha and nirodha encode practical cycle without changing defaults",
+   "terms": {
+     "major/dukkha": {"preferred_translation": "dissatisfaction", "notes includes": ["waking up and looking directly"]},
+     "major/nirodha": {"preferred_translation": "quenching", "notes includes": ["congratulating oneself"]}
+   }},
+  {"group": "four_noble_truths_practice", "rule": "magga kusala and sati keep house defaults while allowing osf cycle language",
+   "terms": {
+     "major/magga": {"preferred_translation": "path", "notes includes": ["making a wholesome change"]},
+     "major/kusala": {"preferred_translation": "wholesome", "notes includes": ["make a wholesome change"]},
+     "major/sati": {"preferred_translation": "remembering", "notes includes": ["again as often as one can remember"]}
+   }},
+  {"group": "gate_guarding", "rule": "sati keeps gatekeeper practice frame",
+   "terms": {
+     "major/sati": {"preferred_translation": "remembering", "notes includes": ["gatekeeper"], "context_rules.context mention": ["sense-door guarding"]}
+   }},
+  {"group": "gate_guarding", "rule": "phassa marks the early practical pivot",
+   "terms": {
+     "major/phassa": {"preferred_translation": "contact", "notes includes": ["earliest practical pivot"], "authority_basis.source includes": ["OSF dhamma interaction on guarding the gate"]}
+   }},
+  {"group": "gate_guarding", "rule": "samvara and indriya samvara block interior fixing language",
+   "terms": {
+     "major/samvara": {"notes includes": ["good administration at the gate"]},
+     "minor/indriya-samvara": {"notes includes": ["diagnostic-code language"], "preferred_translation": "guarding the faculties"}
+   }},
+  {"group": "gate_guarding", "rule": "luminous mind record supports non moralized practice explanation",
+   "terms": {
+     "minor/pabhassara-citta": {"preferred_translation": "luminous mind", "notes includes": ["visitors or invasions"], "sutta_references includes": ["AN 1.49-52"]}
+   }},
+  {"group": "gate_guarding", "rule": "vedana to tanha formula keeps early interception note",
+   "terms": {
+     "minor/vedanapaccaya-tanha": {"notes includes": ["early interception", "need not simply continue by default"]}
+   }},
+  {"group": "idappaccayata_source_integration", "rule": "idappaccayata keeps conditionality default and blocks rhetorical drift",
+   "terms": {
+     "major/idappaccayata": {"preferred_translation": "conditionality", "discouraged_translations includes": ["god", "mere causality"], "notes includes": ["law of nature"], "authority_basis.source includes": ["Idappaccayatā practical talk profile"]}
+   }},
+  {"group": "idappaccayata_source_integration", "rule": "paticcasamuppada records same law different scope support",
+   "terms": {
+     "major/paticcasamuppada": {"preferred_translation": "dependent arising", "notes includes": ["one law under different scopes"], "authority_basis.source includes": ["Idappaccayatā practical talk profile"]}
+   }},
+  {"group": "idappaccayata_source_integration", "rule": "kamma blocks moral bookkeeping drift",
+   "terms": {
+     "major/kamma": {"preferred_translation": "action", "notes includes": ["bookkeeping"], "translation_policy.when_not_to_apply includes": ["bookkeeping"], "authority_basis.source includes": ["Idappaccayatā practical talk profile"]}
+   }},
+  {"group": "idappaccayata_source_integration", "rule": "tathata preserves just like that as explanatory only",
+   "terms": {
+     "minor/tathata": {"preferred_translation": "suchness", "alternative_translations includes": ["just like that"], "notes includes": ["explanatory only"], "authority_basis.source includes": ["Idappaccayatā practical talk profile"]}
+   }},
+  {"group": "identity_construction", "rule": "clung to heaps rendering stays stable",
+   "terms": {
+     "minor/pancupadanakkhandha": {"preferred_translation": "five clung-to heaps"}
+   }},
+  {"group": "identity_construction", "rule": "upadana family alignment is explicit",
+   "terms": {
+     "major/upadana": {"preferred_translation": "taking personally"},
+     "major/ditthupadana": {"preferred_translation": "taking views personally"},
+     "major/attavadupadana": {"preferred_translation": "taking self-doctrine personally"},
+     "minor/upadanakkhandha": {"preferred_translation": "clung-to heap"}
+   }},
+  {"group": "identity_construction", "rule": "mana and asmimana are distinct",
+   "terms": {
+     "major/mana": {"preferred_translation": "conceit", "discouraged_translations includes": ["pride"]},
+     "major/asmimana": {"preferred_translation": "conceit 'I am'", "discouraged_translations includes": ["ego"]}
+   }},
+  {"group": "identity_construction", "rule": "ditthi and ditthupadana are distinct",
+   "terms": {
+     "major/ditthi": {"preferred_translation": "view", "discouraged_translations includes": ["wrong view"]},
+     "major/ditthupadana": {"preferred_translation": "taking views personally"}
+   }},
+  {"group": "identity_construction", "rule": "sakkaya prefers identity with personal identity as controlled alternate",
+   "terms": {
+     "major/sakkaya": {"preferred_translation": "identity", "alternative_translations includes": ["personal identity"], "discouraged_translations includes": ["self"]}
+   }},
+  {"group": "kama", "rule": "kama headword is governed as sensuality",
+   "terms": {
+     "major/kama": {"preferred_translation": "sensuality", "discouraged_translations includes": ["desire", "pleasure", "sex"]}
+   }},
+  {"group": "kama", "rule": "kamacchanda stays distinct from plain chanda",
+   "terms": {
+     "major/kamacchanda": {"preferred_translation": "sensual desire", "discouraged_translations includes": ["interest"], "notes includes": ["hindrance"]},
+     "major/chanda": {"preferred_translation": "desire"}
+   }},
+  {"group": "kama", "rule": "kama cluster support terms preserve distinctions",
+   "terms": {
+     "major/kama-tanha": {"preferred_translation": "ignorant wanting for sensuality", "discouraged_translations includes": ["sexual desire"]},
+     "major/kama-raga": {"preferred_translation": "passion for sensuality", "discouraged_translations includes": ["sexual desire"]},
+     "major/kamupadana": {"preferred_translation": "taking sensuality personally", "discouraged_translations includes": ["attachment to pleasure"]}
+   }},
+  {"group": "kama", "rule": "explicitly sexual record remains narrower than kama headword",
+   "terms": {
+     "major/kama": {"preferred_translation": "sensuality"},
+     "minor/kamesu-micchacara": {"preferred_translation": "sexual misconduct", "notes includes": ["should not be used to back-project a sexual default"]}
+   }},
+  {"group": "knowledge", "rule": "nana and panna are distinct",
+   "terms": {
+     "major/nana": {"preferred_translation": "knowledge", "discouraged_translations includes": ["insight"]},
+     "major/panna": {"preferred_translation": "discernment", "discouraged_translations includes": ["insight"]}
+   }},
+  {"group": "knowledge", "rule": "vijja is not generic knowledge or information",
+   "terms": {
+     "major/vijja": {"preferred_translation": "clear knowledge", "discouraged_translations includes": ["science", "information"]},
+     "major/avijja": {"related_terms includes": ["vijja"]}
+   }},
+  {"group": "knowledge", "rule": "panna stays distinct from view",
+   "terms": {
+     "major/ditthi": {"preferred_translation": "view"},
+     "major/panna": {"related_terms includes": ["ditthi"], "preferred_translation differs from": ["major/ditthi"]}
+   }},
+  {"group": "knowledge", "rule": "dassana is not mystical vision",
+   "terms": {
+     "major/dassana": {"preferred_translation": "seeing", "discouraged_translations includes": ["mystical vision"]}
+   }},
+  {"group": "knowledge", "rule": "abhinna and parinna do not flatten",
+   "terms": {
+     "major/abhinna": {"preferred_translation": "higher knowing", "discouraged_translations includes": ["occult power"]},
+     "major/parinna": {"preferred_translation": "full understanding", "discouraged_translations includes": ["understanding"]}
+   }},
+  {"group": "knowledge", "rule": "sampajanna stays distinct from sati",
+   "terms": {
+     "major/sampajanna": {"preferred_translation": "clear knowing", "discouraged_translations includes": ["mindfulness"]},
+     "major/sati": {"preferred_translation": "remembering"}
+   }},
+  {"group": "knowledge", "rule": "compounds preserve knowing and seeing distinction",
+   "terms": {
+     "minor/nanadassana": {"preferred_translation": "knowing and seeing"},
+     "minor/vimutti-nanadassana": {"preferred_translation": "knowing and seeing of release", "discouraged_translations includes": ["mystical experience"]}
+   }},
+  {"group": "knowledge", "rule": "cluster integrates hillside checkpoint without changing defaults",
+   "terms": {
+     "major/nana": {"preferred_translation": "knowledge", "authority_basis.source includes": ["Hillside / Ñāṇamoli usage profile"]},
+     "major/sampajanna": {"preferred_translation": "clear knowing", "authority_basis.source includes": ["Hillside / Ñāṇamoli usage profile"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "sati aligns with osf remembering and blocks bare attention drift",
+   "terms": {
+     "major/sati": {"preferred_translation": "remembering", "discouraged_translations includes": ["mindfulness", "bare attention"], "notes includes": ["ALIGN case"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "nibbana keeps house default and tolerates cooling language",
+   "terms": {
+     "major/nibbana": {"preferred_translation": "nibbāna", "untranslated_preferred": true, "alternative_translations includes": ["coolness"], "context_rules.rendering includes": ["imperturbable serenity of mind"], "discouraged_translations includes": ["ultimate reality"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "nirodha stays quenching while allowing osf stopping language",
+   "terms": {
+     "major/nirodha": {"preferred_translation": "quenching", "alternative_translations includes": ["ending", "cessation"], "discouraged_translations includes": ["annihilation"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "animitta and appanihita are controlled alternates not new defaults",
+   "terms": {
+     "major/animitta": {"preferred_translation": "signless", "alternative_translations includes": ["without sign"], "discouraged_translations includes": ["formless"]},
+     "major/appanihita": {"preferred_translation": "wishless", "alternative_translations includes": ["without placing desire"], "discouraged_translations includes": ["no goals"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "vimutti keeps release and controls liberation",
+   "terms": {
+     "major/vimutti": {"preferred_translation": "release", "alternative_translations includes": ["liberation", "emancipation"], "discouraged_translations includes": ["salvation"], "notes includes": ["TOLERATE-ALTERNATE case"]}
+   }},
+  {"group": "osf_reconciliation", "rule": "sunnata aligns with emptiness and blocks nihilism",
+   "terms": {
+     "major/sunnata": {"preferred_translation": "emptiness", "alternative_translations includes": ["voidness"], "discouraged_translations includes": ["nothingness", "mystical oneness"]}
+   }},
+  {"group": "path_factor_core_loop", "rule": "right view encodes active viewing loop without changing default",
+   "terms": {
+     "major/samma-ditthi": {"preferred_translation": "right view", "notes includes": ["right remembering and right effort"], "context_rules.notes mention": ["right remembering and right effort"]}
+   }},
+  {"group": "path_factor_core_loop", "rule": "right remembering and right effort are mutually reinforcing",
+   "terms": {
+     "major/samma-sati": {"preferred_translation": "right remembering", "notes includes": ["runs circles around the path"]},
+     "major/samma-vayama": {"preferred_translation": "right effort", "notes includes": ["right view and right remembering"]}
+   }},
+  {"group": "path_factor_core_loop", "rule": "magga records core loop as osf path explanation",
+   "terms": {
+     "major/magga": {"preferred_translation": "path", "notes includes": ["run circles around one another"]}
+   }},
+  {"group": "practice_text", "rule": "shared breathing control records remain stable",
+   "terms": {
+     "minor/mn118-breathing-remembrance-line": {"preferred_translation": "they breathe in remembering the Dhamma; they breathe out remembering the Dhamma"},
+     "minor/mn118-whole-body-training": {"preferred_translation": "they train: 'Breathing in, I will experience the whole body.' They train: 'Breathing out, I will experience the whole body.'"},
+     "minor/mn118-body-conditioner-training": {"preferred_translation": "they train: 'Breathing in, I will calm the body conditioner.' They train: 'Breathing out, I will calm the body conditioner.'"}
+   }},
+  {"group": "sensory_response", "rule": "household and renunciation labels remain stable",
+   "terms": {
+     "minor/gehasita-somanassa": {"preferred_translation": "gladness tied to the household life"},
+     "minor/nekkhammasita-upekkha": {"preferred_translation": "dynamic balance tied to renunciation"}
+   }},
+  {"group": "sensory_response", "rule": "mn148 response lines remain stable",
+   "why": "Revised 2026-08-19 under docs/PLAIN_ENGLISH_STANDARD.md. These lines previously pinned the generic `one`, which meant the lexicon was enforcing the translationese rather than preventing it. The governed triad `gratification, danger, and escape as they have come to be` is deliberately unchanged; only the generic person was fixed.",
+   "terms": {
+     "minor/mn148-pleasant-feeling-trained-response": {"preferred_translation": "when pleasant feeling touches them, they do not delight in it, do not affirm it, and do not keep taking it personally"},
+     "minor/mn148-painful-feeling-untrained-response": {"preferred_translation": "when painful feeling touches them, they grieve, they wear themselves out, they wail, they beat their chest and cry, and they lose their bearings"},
+     "minor/mn148-mixed-feeling-undiscerned-response": {"preferred_translation": "when mixed feeling touches them, they do not discern that feeling's arising and vanishing, gratification, danger, and escape as they have come to be"}
+   }},
+  {"group": "verbal_knowing", "rule": "janati and pajanati are distinct",
+   "terms": {
+     "major/janati": {"preferred_translation": "knows", "discouraged_translations includes": ["realizes"]},
+     "major/pajanati": {"preferred_translation": "discerns", "discouraged_translations includes": ["fully understands"]}
+   }},
+  {"group": "verbal_knowing", "rule": "pajanati and parinna do not flatten",
+   "terms": {
+     "major/pajanati": {"preferred_translation": "discerns", "preferred_translation differs from": ["major/parinna"]},
+     "major/parinna": {"preferred_translation": "full understanding"}
+   }},
+  {"group": "verbal_knowing", "rule": "sanjanati stays distinct from generic knowing",
+   "terms": {
+     "major/sanjanati": {"preferred_translation": "recognizes", "discouraged_translations includes": ["knows"], "preferred_translation differs from": ["major/janati"]}
+   }},
+  {"group": "verbal_knowing", "rule": "abhijanati stays distinct from other knowing verbs",
+   "terms": {
+     "major/abhijanati": {"preferred_translation": "directly knows", "discouraged_translations includes": ["recognizes", "discerns"], "preferred_translation differs from": ["major/janati", "major/pajanati", "major/sanjanati"]}
+   }},
+  {"group": "verbal_knowing", "rule": "mannati stays distinct from generic thinking and links to selfing",
+   "terms": {
+     "major/mannati": {"preferred_translation": "thinks of", "discouraged_translations includes": ["thinks"], "related_terms includes": ["asmimana", "upadana"]}
+   }},
+  {"group": "verbal_knowing", "rule": "anna stays distinct from nana and vijja",
+   "terms": {
+     "major/anna": {"preferred_translation": "final knowledge", "discouraged_translations includes": ["realization"]},
+     "major/nana": {"preferred_translation": "knowledge"},
+     "major/vijja": {"preferred_translation": "clear knowledge"}
+   }},
+  {"group": "verbal_knowing", "rule": "noun and verb families are cross linked",
+   "terms": {
+     "major/janati": {"related_terms includes": ["nana", "abhijanati"]},
+     "major/abhijanati": {"related_terms includes": ["abhinna"]},
+     "major/pajanati": {"related_terms includes": ["panna"]},
+     "major/sanjanati": {"related_terms includes": ["sanna", "vitakka", "mannati"]},
+     "major/mannati": {"related_terms includes": ["asmimana"]},
+     "major/anna": {"related_terms includes": ["nana"]}
+   }},
+  {"group": "verbal_knowing", "rule": "formula records preserve pajanati policy",
+   "terms": {
+     "minor/yathabhutam-pajanati": {"preferred_translation": "discerns it as it has come to be", "discouraged_translations includes": ["realizes reality"]},
+     "minor/naparam-itthattayati-pajanati": {"preferred_translation": "they discern: there is no more of this state of being"}
+   }},
+  {"group": "verbal_knowing", "rule": "mn1 formula records preserve direct knowing and selfing pattern",
+   "terms": {
+     "minor/pathavim-pathavito-sannatva-pathavim-mannati": {"preferred_translation": "once they have recognized earth as earth, they think of themselves as earth"},
+     "minor/pathavim-pathavito-abhinnaya-pathavim-ma-manni": {"preferred_translation": "once they have directly known earth as earth, they should not think of themselves as earth"},
+     "minor/pathavim-pathavito-abhinnaya-pathavim-na-mannati": {"preferred_translation": "once they have directly known earth as earth, they do not think of themselves as earth"},
+     "minor/nandi-dukkhassa-mulan": {"preferred_translation": "delight is the root of dissatisfaction"},
+     "minor/bhava-jati-bhutassa-jaramaranam": {"preferred_translation": "with becoming there is birth, and for whatever has come to be there are aging and death"}
+   }},
+  {"group": "verbal_knowing", "rule": "mn18 formula records preserve recognition thinking and proliferation pattern",
+   "terms": {
+     "minor/yam-vedeti-tam-sanjanati": {"preferred_translation": "what they feel, they recognize"},
+     "minor/yam-sanjanati-tam-vitakketi": {"preferred_translation": "what they recognize, they think about"},
+     "minor/yam-vitakketi-tam-papanceti": {"preferred_translation": "what they think about, they proliferate about"},
+     "minor/yam-papanceti-tato-nidanam-purisam-papanca-sanna-sankha-samudacaranti": {"preferred_translation": "from what they proliferate about as the source, the recognitions and notions of proliferation sweep over a person"},
+     "minor/papanca-sanna-sankha": {"preferred_translation": "recognitions and notions of proliferation"}
+   }},
+  {"group": "verbal_knowing", "rule": "cluster integrates external checkpoints without changing defaults",
+   "terms": {
+     "major/pajanati": {"preferred_translation": "discerns", "authority_basis.source includes": ["Punnaji usage profile"], "authority_basis.source mention": ["Hillside"]},
+     "major/sanjanati": {"preferred_translation": "recognizes", "authority_basis.source mention": ["Hillside"]}
+   }},
+  {"group": "verbal_knowing", "rule": "mn1 headwords are stabilized in terms",
+   "terms": {
+     "major/abhijanati": {"preferred_translation": "directly knows", "authority_basis.source includes": ["MN 1"]},
+     "major/mannati": {"preferred_translation": "thinks of", "authority_basis.source includes": ["MN 1"]}
+   }}
+]
