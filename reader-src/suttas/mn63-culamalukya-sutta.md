@@ -29,15 +29,15 @@ While alone, Mālukyaputta becomes upset that the Buddha has not answered ten qu
 
 ### Central question
 
-Must questions about the world, body and soul, and the Tathāgata after death be settled before practice can continue?
+Must you settle questions about the world, body and soul, and the Tathāgata after death before you practice?
 
 ### Main point
 
-The poisoned-arrow story shows the danger of delaying urgent treatment until every background question is answered. The Buddha leaves the ten questions unanswered because answers to them do not help end dissatisfaction. Instead, he declares what dissatisfaction is, where it comes from, that it can end, and the way to its end.
+The poisoned-arrow story shows the danger of delaying urgent treatment until someone answers every background question. The Buddha leaves the ten questions unanswered because answers to them do not help end dissatisfaction. Instead, he declares what dissatisfaction is, where it comes from, that it can end, and the way to its end.
 
 ### Reading tip
 
-The ten questions appear several times. Follow the larger movement: Mālukyaputta's demand, the Buddha's reply, the poisoned-arrow story, and the final contrast between the questions left unanswered and the teaching he does give.
+The ten questions appear several times. Follow how the text moves: Mālukyaputta's demand, the Buddha's reply, and the poisoned arrow. Then notice what he leaves unanswered and what he does teach.
 
 ### This text is not saying
 

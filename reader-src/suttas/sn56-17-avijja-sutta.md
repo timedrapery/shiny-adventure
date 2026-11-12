@@ -37,7 +37,7 @@ Ignorance is not a lack of education or intelligence. It is not seeing dissatisf
 
 ### Reading tip
 
-The answer comes in a four-part pattern. Read the final list as four things to investigate, not as four statements you are being asked to accept without examination.
+The answer comes in a four-part pattern. Read the final list as four things to look into, not four claims to accept without checking.
 
 ### This text is not saying
 
