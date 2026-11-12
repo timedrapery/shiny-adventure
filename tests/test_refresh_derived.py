@@ -133,6 +133,9 @@ class GeneratorCoverageTests(unittest.TestCase):
         for label, (script, flag) in refresh.generator_commands():
             with self.subTest(generator=label):
                 source = (REPO_ROOT / script).read_text(encoding="utf-8")
+                if "common.run_cli(" in source:
+                    # Cluster reports share one command line.
+                    source = (REPO_ROOT / "scripts" / "cluster_report_common.py").read_text(encoding="utf-8")
                 self.assertIn(f'"{flag}"', source)
 
     def test_every_registered_generated_document_is_refreshed(self) -> None:

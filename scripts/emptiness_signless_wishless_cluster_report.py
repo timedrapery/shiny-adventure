@@ -3,17 +3,15 @@
 
 from __future__ import annotations
 
-import argparse
-import json
 import sys
 from pathlib import Path
 
 try:
-    from scripts.text_utils import safe_text
-    from scripts.term_store import iter_term_files
+    from scripts import cluster_report_common as common
+    from scripts.cluster_report_common import load_terms, missing_terms, weak_authority_terms
 except ModuleNotFoundError:
-    from text_utils import safe_text
-    from term_store import iter_term_files
+    import cluster_report_common as common
+    from cluster_report_common import load_terms, missing_terms, weak_authority_terms
 
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
@@ -38,36 +36,6 @@ SUPPORTING_TERMS = [
     "appanihita-vimokkha",
     "vimokkhamukha",
 ]
-
-
-def load_json(path: Path) -> object:
-    with path.open("r", encoding="utf-8") as handle:
-        return json.load(handle)
-
-
-def load_terms(terms_dir: Path = TERMS_DIR) -> dict[str, dict[str, object]]:
-    terms: dict[str, dict[str, object]] = {}
-    for path in iter_term_files(terms_dir):
-        data = load_json(path)
-        if isinstance(data, dict):
-            terms[path.stem] = data
-    return terms
-
-
-def missing_terms(terms: dict[str, dict[str, object]], stems: list[str]) -> list[str]:
-    return [stem for stem in stems if stem not in terms]
-
-
-def weak_authority_terms(terms: dict[str, dict[str, object]], stems: list[str]) -> list[str]:
-    weak: list[str] = []
-    for stem in stems:
-        data = terms.get(stem)
-        if not isinstance(data, dict):
-            continue
-        authority = data.get("authority_basis")
-        if not isinstance(authority, list) or len(authority) < 2:
-            weak.append(stem)
-    return weak
 
 
 def render_mismatch_warnings(terms: dict[str, dict[str, object]]) -> list[str]:
@@ -172,57 +140,11 @@ def write_outputs(terms: dict[str, dict[str, object]]) -> list[Path]:
 
 
 def print_text_report(report: dict[str, object]) -> None:
-    summary = report["summary"]
-    errors = report["errors"]
-    warnings = report["warnings"]
-
-    print("Emptiness / Signless / Wishless Interface Cluster Report")
-    print(f"- Headwords: {summary['headwords_present']} / {summary['headwords_expected']}")
-    print(f"- Supporting terms: {summary['supporting_terms_present']} / {summary['supporting_terms_expected']}")
-    print()
-
-    print("Errors")
-    for key, items in errors.items():
-        if items:
-            print(f"- {safe_text(key)}: {', '.join(safe_text(item) for item in items)}")
-        else:
-            print(f"- {safe_text(key)}: none")
-    print()
-
-    print("Warnings")
-    for key, items in warnings.items():
-        if items:
-            print(f"- {safe_text(key)}: {', '.join(safe_text(item) for item in items)}")
-        else:
-            print(f"- {safe_text(key)}: none")
+    common.print_text_report("Emptiness / Signless / Wishless Interface Cluster Report", report)
 
 
 def main() -> int:
-    parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--format", choices=("text", "json"), default="text")
-    parser.add_argument("--strict", action="store_true", help="Fail if the report has errors.")
-    parser.add_argument("--write-docs", action="store_true", help="Write generated docs to docs/generated.")
-    args = parser.parse_args()
-
-    if not TERMS_DIR.exists():
-        print(f"ERROR: Terms directory not found: {TERMS_DIR}")
-        return 1
-
-    terms = load_terms()
-    report = build_report(terms)
-
-    if args.write_docs:
-        write_outputs(terms)
-
-    if args.format == "json":
-        json.dump(report, sys.stdout, ensure_ascii=False, indent=2)
-        sys.stdout.write("\n")
-    else:
-        print_text_report(report)
-
-    if args.strict and any(report["errors"].values()):
-        return 1
-    return 0
+    return common.run_cli(sys.modules[__name__])
 
 
 if __name__ == "__main__":
