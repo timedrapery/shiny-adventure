@@ -19,6 +19,9 @@ The execution network could not reach the domain for an independent live check.
 The reader uses the Brickwall white wordmark, black and white brick photograph,
 charcoal surfaces, Arial text, and white links.
 The brick photograph appears in the masthead.
+Its navigation uses the same white email brick and eight-spoke Dhamma wheel as the homepage.
+The brick opens email; the wheel opens the reader home.
+Both icons have accessible labels, tooltips, and visible keyboard focus.
 The reading panel has a plain background.
 Navigation, search, glossary panels, feedback forms, and print styles remain available.
 Reading routes use full-width rows rather than narrow columns.

@@ -29,7 +29,7 @@ theme:
 
 extra_css:
   - stylesheets/reader.css
-  - stylesheets/brickwall.css?v=642bd6763f9a
+  - stylesheets/brickwall.css?v=bc156819ba24
 
 extra_javascript:
   - javascripts/reader-filters.js

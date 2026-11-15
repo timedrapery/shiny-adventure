@@ -7,8 +7,26 @@
       <img src="{{ 'assets/brickwall/wordmark-white.svg' | url }}" alt="Brickwall Unlimited" width="1100" height="250">
     </a>
     <nav class="brickwall-links" aria-label="Brickwall Unlimited">
-      <a href="{{ base_url }}/">Pali readings</a>
-      <a href="mailto:contact@brickwallunlimited.com">Contact us</a>
+      <a class="icon-link contact-brick" href="mailto:contact@brickwallunlimited.com" aria-label="Email Brickwall Unlimited" title="Contact us">
+        <svg viewBox="0 0 64 48" width="52" height="39" aria-hidden="true" focusable="false">
+          <path d="M5 15 44 4 59 13 20 26Z" fill="#fff" stroke="#171717" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M5 15 20 26v18L5 34Z" fill="#ddd" stroke="#171717" stroke-width="1.5" stroke-linejoin="round"/>
+          <path d="M20 26 59 13v19L20 44Z" fill="#fff" stroke="#171717" stroke-width="1.5" stroke-linejoin="round"/>
+          <g fill="#171717">
+            <ellipse cx="21" cy="16" rx="3.4" ry="1.8" transform="rotate(-17 21 16)"/>
+            <ellipse cx="32" cy="13" rx="3.4" ry="1.8" transform="rotate(-17 32 13)"/>
+            <ellipse cx="43" cy="10" rx="3.4" ry="1.8" transform="rotate(-17 43 10)"/>
+          </g>
+        </svg>
+      </a>
+      <a class="icon-link dhamma-wheel" href="{{ base_url }}/" aria-label="Pali readings" title="Pali readings">
+        <svg viewBox="0 0 48 48" width="40" height="40" aria-hidden="true" focusable="false" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round">
+          <circle cx="24" cy="24" r="20"/>
+          <circle cx="24" cy="24" r="16"/>
+          <path d="M24 4v15m0 10v15M4 24h15m10 0h15M10 10l10.5 10.5m7 7L38 38M10 38l10.5-10.5m7-7L38 10"/>
+          <circle cx="24" cy="24" r="5"/>
+        </svg>
+      </a>
     </nav>
   </div>
 </div>

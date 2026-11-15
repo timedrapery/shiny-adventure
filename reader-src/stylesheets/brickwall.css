@@ -44,17 +44,17 @@
 }
 .brickwall-brand { display: block; width: min(370px, 100%); }
 .brickwall-brand img { display: block; width: 100%; height: auto; }
-.brickwall-links { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+.brickwall-links { display: flex; align-items: center; gap: .5rem; }
 .brickwall-links a {
-  display: inline-flex;
-  align-items: center;
-  min-height: 44px;
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 56px;
+  border-radius: 4px;
   color: #ffffff;
-  font-size: .8rem;
-  letter-spacing: .035em;
-  text-decoration: underline;
-  text-underline-offset: 6px;
 }
+.brickwall-links svg { display: block; }
+.brickwall-links a:hover { background: #ffffff12; }
 .brickwall-masthead a:focus-visible { outline: 2px solid #ffffff; outline-offset: 5px; }
 .md-header { background: #111111; box-shadow: none; border-bottom: 1px solid #ffffff24; }
 .md-header__topic { font-weight: 600; }
