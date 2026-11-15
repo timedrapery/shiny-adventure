@@ -7,7 +7,7 @@
 Structured Pali-to-English translation infrastructure for early Buddhist translation work.
 This repository stores translation policy as versioned data so term decisions stay explicit, reviewable, machine-checkable, and stable across texts.
 
-**[Read the public sutta edition](https://timedrapery.github.io/shiny-adventure/)** —
+**[Read the public sutta edition](https://readings.brickwallunlimited.com/)** —
 80 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 

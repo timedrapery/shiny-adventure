@@ -6,12 +6,13 @@ The reader remains in this repository.
 The Brickwall Unlimited homepage remains in `timedrapery/cuddly-octo-waffle`.
 
 - Homepage: <https://brickwallunlimited.com/>
-- Reader domain to activate: <https://readings.brickwallunlimited.com/>
-- Working reader address before activation: <https://timedrapery.github.io/shiny-adventure/>
+- Reader domain: <https://readings.brickwallunlimited.com/>
+- Previous reader address: <https://timedrapery.github.io/shiny-adventure/>
 
-The homepage link uses the working reader address during domain setup.
-After activation, change that link to the reader domain.
-GitHub Pages will redirect the previous reader address after custom-domain activation.
+The owner confirmed that the reader domain is ready.
+The homepage link now uses the reader domain.
+GitHub Pages redirects the previous reader address after custom-domain activation.
+The execution network could not reach the domain for an independent live check.
 
 ## Shared appearance
 
