@@ -1,0 +1,104 @@
+/* Brickwall Unlimited presentation for the reader. */
+[data-md-color-scheme="slate"][data-md-color-primary="black"] {
+  color-scheme: dark;
+  --md-text-font-family: Arial, sans-serif;
+  --md-default-bg-color: #171717;
+  --md-default-bg-color--light: #202020;
+  --md-default-fg-color: #eeeeee;
+  --md-default-fg-color--light: #c2c2c2;
+  --md-default-fg-color--lighter: #999999;
+  --md-default-fg-color--lightest: #ffffff0d;
+  --md-primary-fg-color: #111111;
+  --md-primary-fg-color--dark: #111111;
+  --md-primary-bg-color: #ffffff;
+  --md-primary-bg-color--light: #eeeeee;
+  --md-accent-fg-color: #ffffff;
+  --md-accent-bg-color: #111111;
+  --md-typeset-a-color: #f4f4f4;
+  --md-code-bg-color: #242424;
+  --md-code-fg-color: #eeeeee;
+  --md-footer-bg-color: #111111;
+  --md-footer-bg-color--dark: #111111;
+  --md-footer-fg-color: #eeeeee;
+  --md-footer-fg-color--light: #c2c2c2;
+  --md-footer-fg-color--lighter: #c2c2c2;
+}
+
+.brickwall-masthead {
+  border-bottom: 1px solid #ffffff24;
+  background: radial-gradient(ellipse at 50% 40%, #0a0a0a99, #0a0a0ae6),
+    linear-gradient(#808080, #808080),
+    url("../assets/brickwall/brick-wall.webp") center / 1100px auto;
+  background-blend-mode: normal, color, normal;
+}
+.brickwall-masthead__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem 2rem;
+  max-width: 1220px;
+  min-height: 190px;
+  margin-inline: auto;
+  padding: 1.5rem 1.2rem;
+}
+.brickwall-brand { display: block; width: min(370px, 100%); }
+.brickwall-brand img { display: block; width: 100%; height: auto; }
+.brickwall-links { display: flex; flex-wrap: wrap; gap: .5rem 1.5rem; }
+.brickwall-links a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: #ffffff;
+  font-size: .8rem;
+  letter-spacing: .035em;
+  text-decoration: underline;
+  text-underline-offset: 6px;
+}
+.brickwall-masthead a:focus-visible { outline: 2px solid #ffffff; outline-offset: 5px; }
+.md-header { background: #111111; box-shadow: none; border-bottom: 1px solid #ffffff24; }
+.md-header__topic { font-weight: 600; }
+.md-content { background: #1c1c1c; border: 1px solid #ffffff1f; border-radius: 2px; }
+.md-content__inner { padding: clamp(.6rem, 2vw, 1.4rem); margin: 0 auto; }
+.md-content__inner.md-typeset { max-width: 74ch; }
+.md-typeset h1 { color: #ffffff; font-weight: 700; letter-spacing: -.025em; }
+.md-typeset .md-button--primary,
+.reader-feedback__submit { background: #f4f4f4; border-color: #f4f4f4; color: #171717; }
+.md-typeset .md-button--primary:hover { background: #d0d0d0; border-color: #d0d0d0; color: #111111; }
+.md-nav__link--active { text-decoration: underline; text-underline-offset: 4px; }
+.md-typeset :is(.admonition, details) { border-color: #999999; }
+.md-typeset :is(.admonition-title, summary) { background-color: #ffffff0d; }
+.md-typeset :is(.admonition-title, summary)::before { background-color: #dddddd; }
+.md-typeset mark { background: #ffffff; color: #111111; }
+::selection { background: #eeeeee; color: #111111; }
+
+@media (max-width: 76.234375em) {
+  .md-sidebar--primary { background: #171717; }
+}
+@media (max-width: 600px) {
+  .brickwall-masthead__inner { justify-content: center; gap: .4rem; min-height: 180px; padding: 1rem 1.2rem; }
+  .brickwall-brand { width: min(310px, 100%); }
+  .brickwall-links { width: 100%; justify-content: center; }
+  .md-content { border-inline: 0; }
+  .md-content__inner { padding: .6rem .8rem; }
+}
+@media print {
+  [data-md-color-scheme="slate"][data-md-color-primary="black"] {
+    color-scheme: light;
+    --md-default-bg-color: #ffffff;
+    --md-default-fg-color: #111111;
+    --md-default-fg-color--light: #333333;
+    --md-default-fg-color--lighter: #555555;
+    --md-default-fg-color--lightest: #00000008;
+    --md-typeset-a-color: #111111;
+  }
+  .brickwall-masthead { display: none; }
+  .md-content { background: #ffffff; border: 0; }
+  .md-content__inner { padding: 0; }
+  .md-typeset h1 { color: #111111; }
+}
+@media (forced-colors: active) {
+  .brickwall-masthead, .md-content { background: Canvas; }
+  .brickwall-brand { background: #111111; forced-color-adjust: none; }
+  .brickwall-links a { color: LinkText; }
+}
