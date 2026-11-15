@@ -89,3 +89,30 @@ test("search finds an ASCII spelling of a Pali term", async ({ page }) => {
   await input.fill("nibbana");
   await expect(page.locator(".md-search-result__item").first()).toBeVisible();
 });
+
+
+test("homepage reading routes have room for prose on a desktop", async ({ page }) => {
+  await page.setViewportSize({ width: 1280, height: 900 });
+  await page.goto("/");
+  const widths = await page.locator(".newcomer-pathway > p").evaluateAll(
+    (paragraphs) => paragraphs.map((p) => p.getBoundingClientRect().width)
+  );
+  expect(widths.length).toBeGreaterThan(0);
+  expect(Math.min(...widths)).toBeGreaterThan(420);
+});
+
+for (const width of [320, 640]) {
+  test(`reader page layouts reflow at ${width} CSS pixels`, async ({ page }) => {
+    await page.setViewportSize({ width, height: 900 });
+    for (const path of [
+      "/", "/start-here/", "/suttas/", "/find-a-sutta/", "/glossary/",
+      "/suttas/mn118-anapanasati-sutta/", "/suttas/dhp21-32-appamadavagga/",
+    ]) {
+      await page.goto(path);
+      const overflow = await page.evaluate(
+        () => document.documentElement.scrollWidth - document.documentElement.clientWidth
+      );
+      expect(overflow, path).toBeLessThanOrEqual(1);
+    }
+  });
+}

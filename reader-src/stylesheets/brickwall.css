@@ -60,7 +60,33 @@
 .md-header__topic { font-weight: 600; }
 .md-content { background: #1c1c1c; border: 1px solid #ffffff1f; border-radius: 2px; }
 .md-content__inner { padding: clamp(.6rem, 2vw, 1.4rem); margin: 0 auto; }
-.md-content__inner.md-typeset { max-width: 74ch; }
+/* Keep prose comfortable while leaving room for navigation. */
+.md-grid { max-width: 68rem; }
+.md-content__inner.md-typeset {
+  max-width: 76ch;
+  font-size: .95rem;
+  line-height: 1.8;
+}
+/* Override Material's sidebar margins to center the bounded text column. */
+body[data-md-color-scheme] .md-main .md-content > .md-content__inner.md-typeset {
+  margin-inline: auto;
+}
+.md-typeset h2 { line-height: 1.4; margin-top: 2em; }
+.md-typeset li + li { margin-top: .65em; }
+
+/* These routes contain prose and long titles, so each needs a full row. */
+.newcomer-pathways { grid-template-columns: minmax(0, 1fr); gap: 1rem; }
+.newcomer-pathway { padding: 1rem 1.2rem; }
+.newcomer-pathway h3 { margin: 0 0 .7em; font-size: 1.1rem; line-height: 1.45; }
+.newcomer-pathway > p { margin: .65em 0; }
+.newcomer-pathway ul { margin-block: .7em 0; }
+.newcomer-pathway li strong { font-weight: 500; }
+.sutta-card h2 { font-size: 1.1rem; line-height: 1.45; }
+.sutta-card { padding: 1rem 1.2rem; }
+.sutta-filters { gap: .65rem 1rem; }
+.md-nav--primary .md-nav__title { line-height: 1.5; }
+.md-nav .md-nav__link { line-height: 1.5; }
+
 .md-typeset h1 { color: #ffffff; font-weight: 700; letter-spacing: -.025em; }
 .md-typeset .md-button--primary,
 .reader-feedback__submit { background: #f4f4f4; border-color: #f4f4f4; color: #171717; }
@@ -80,7 +106,10 @@
   .brickwall-brand { width: min(310px, 100%); }
   .brickwall-links { width: 100%; justify-content: center; }
   .md-content { border-inline: 0; }
-  .md-content__inner { padding: .6rem .8rem; }
+  .md-content__inner { padding: .8rem; }
+  .md-content__inner.md-typeset { font-size: .9rem; }
+  .newcomer-pathway, .sutta-card { padding: .8rem; }
+
 }
 @media print {
   [data-md-color-scheme="slate"][data-md-color-primary="black"] {
@@ -95,6 +124,7 @@
   .brickwall-masthead { display: none; }
   .md-content { background: #ffffff; border: 0; }
   .md-content__inner { padding: 0; }
+  .md-content__inner.md-typeset { max-width: none; font-size: 11pt; line-height: 1.55; }
   .md-typeset h1 { color: #111111; }
 }
 @media (forced-colors: active) {

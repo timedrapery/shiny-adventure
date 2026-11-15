@@ -21,6 +21,11 @@ charcoal surfaces, Arial text, and white links.
 The brick photograph appears in the masthead.
 The reading panel has a plain background.
 Navigation, search, glossary panels, feedback forms, and print styles remain available.
+Reading routes use full-width rows rather than narrow columns.
+Page headings appear within the left navigation instead of a second sidebar.
+The text has a bounded line length, generous line spacing, and separated list items.
+The Brickwall stylesheet URL includes a content hash to avoid stale cached layouts.
+After a stylesheet change, update its hash in `mkdocs.yml`.
 The translations and editorial attribution are unchanged.
 
 The presentation files are:
