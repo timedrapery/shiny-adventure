@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block header %}
+<div class="brickwall-masthead">
+  <div class="brickwall-masthead__inner">
+    <a class="brickwall-brand" href="https://brickwallunlimited.com/">
+      <img src="{{ 'assets/brickwall/wordmark-white.svg' | url }}" alt="Brickwall Unlimited" width="1100" height="250">
+    </a>
+    <nav class="brickwall-links" aria-label="Brickwall Unlimited">
+      <a href="{{ base_url }}/">Pali readings</a>
+      <a href="mailto:contact@brickwallunlimited.com">Contact us</a>
+    </nav>
+  </div>
+</div>
+{{ super() }}
+{% endblock %}

@@ -16,6 +16,7 @@ on:
     paths:
       - "docs/translations/**"
       - "reader-src/**"
+      - "overrides/**"
       - "includes/**"
       - "terms/**"
       - "scripts/**"

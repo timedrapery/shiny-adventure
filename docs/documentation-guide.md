@@ -87,6 +87,8 @@ do not override live term records or normative policy docs.
 
 ### Set Up and Run Checks
 
+- [`reader-hosting.md`](reader-hosting.md): Brickwall styling, reader domain setup, and publication checks
+
 - [`development-guide.md`](development-guide.md): local setup, edit loop, and targeted test runs
 - [`usage.md`](usage.md): task-based command recipes
 - [`../scripts/README.md`](../scripts/README.md): script-by-script CLI index

@@ -11,6 +11,9 @@ This repository stores translation policy as versioned data so term decisions st
 80 early Buddhist discourses in clear, common English, with newcomer guidance,
 reading times, and visible term definitions.
 
+The reader now uses the Brickwall Unlimited visual design.
+See [reader hosting](docs/reader-hosting.md) for the custom-domain setup and presentation files.
+
 New here:
 
 1. Read [docs/project-overview.md](docs/project-overview.md) for the operating model.
