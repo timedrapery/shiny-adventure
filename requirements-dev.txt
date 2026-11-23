@@ -1,4 +1,4 @@
 jsonschema>=4.26.0,<5.0
 pre-commit>=4.7.0,<5.0
 mkdocs-material>=9.8.1,<10.0
-tzdata>=2024.1; sys_platform == "win32"
+tzdata>=2026.6; sys_platform == "win32"
